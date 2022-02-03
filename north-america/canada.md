@@ -141,7 +141,7 @@ _female_: 42.9 years (2020 est.)<br>
 vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
 
 **Urbanization**<br>
-_urban population_: 81.7% of total population (2021)<br>
+_urban population_: 81.8% of total population (2022)<br>
 _rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -257,7 +257,7 @@ _forest_: 34.1% (2018 est.)<br>
 _other_: 59.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81.7% of total population (2021)<br>
+_urban population_: 81.8% of total population (2022)<br>
 _rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -723,7 +723,7 @@ up to 530 Latvia (NATO); up to 200 Ukraine; up to 850 Middle East (multiple miss
 
 **Military service age and obligation**<br>
 17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2021)<br>
-note(s) - in 2020, women comprised 15.9% of the CAF; Canada opened up all military occupations to women in 2001<br>
+note(s) - Canada opened up all military occupations to women in 2001; in 2020, women comprised about 16% of the CAF<br>
 
 **Military - note**<br>
 Canada is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>Canada is part of the North American Aerospace Defense Command (NORAD; established 1958); NORAD is a Canada-US bi-national military command responsible for monitoring and defending North American airspace; traditionally, a Canadian Armed Forces officer has served as the deputy commander of NORAD</p> <p>Canada’s defense relationship with the US extends back to the Ogdensburg Declaration of 1940, when the two countries formally agreed on military cooperation, including the establishment of the Permanent Joint Board on Defense (PJBD), which continued to be the highest-level bilateral defense forum between Canada and the US as of 2021</p> <p>British troops withdrew from Canada in 1871 as part of the UK-US Treaty of Washington; following the withdrawal, the first Canadian militia, known as the Royal Canadian Regiment, was organized in 1883 to protect Canadian territory and defend British interests abroad, which it did in the South African War (1899-1902), Canada’s first overseas conflict; militia units formed the backbone of the more than 425,000 Canadian soldiers that went to Europe during World War I in what was called the Canadian Expeditionary Force; the Royal Canadian Navy was created in 1910, while the Canadian Air Force was established in 1920 and became the Royal Canadian Air Force in 1924; the Canadian Army was officially founded in 1942; a unified Canadian Armed Forces was created in 1968</p><br>
@@ -740,8 +740,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>managed maritime boundary disputes with the US at Dixon Entrance, Beaufort Sea, Strait of Juan de Fuca, and the Gulf of Maine, including the disputed Machias Seal Island and North Rock; Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; US works closely with Canada to intensify security measures for monitoring and controlling legal and illegal movement of people, transport, and commodities across the international border; sovereignty dispute with Denmark over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; commencing the collection of technical evidence for submission to the Commission on the Limits of the Continental Shelf in support of claims for continental shelf beyond 200 nm from its declared baselines in the Arctic, as stipulated in Article 76, paragraph 8, of the UN Convention on the Law of the Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,400 (Venezuela) (refugees and migrants), 8,082 (Nigeria), 6,387 (Turkey), 6,085 (Pakistan), 5,916 (China), 5,085 (Iran) (2020)<br>
-_stateless persons_: 4,139 (2020)<br>
+_refugees (country of origin)_: 22,400 (Venezuela) (refugees and migrants) (2020); 9,883 (Nigeria), 7,571 (Turkey), 7,385 (Iran), 6,965 (Pakistan), 6,287 (China), 5,244 (Colombia) (mid-year 2021)<br>
+_stateless persons_: 3,823 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 illicit production of fentanyl primarily for Canada's domestic drug market with at least small quantities smuggled to the US; complex laboratories setup for fentanyl production have been found and Mexican traffickers present in the country; Canada legalized marijuana in 2018<br>

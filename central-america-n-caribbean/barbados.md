@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The island was uninhabited when first settled by the British in 1627. African slaves worked the sugar plantations established on the island, which initially dominated the Caribbean sugar industry. By 1720 Barbados was no longer a dominant force within the sugar industry, having been surpassed by the Leeward Islands and Jamaica. Slavery was abolished in 1834. The Barbadian economy remained heavily dependent on sugar, rum, and molasses production through most of the 20th century. The gradual introduction of social and political reforms in the 1940s and 1950s led to complete independence from the UK in 1966. In the 1990s, tourism and manufacturing surpassed the sugar industry in economic importance. Barbados became a republic on 30 November 2021, with the former Governor-General Sandra MASON elected as the first president.<br>
+The island was uninhabited when first settled by the British in 1627. African slaves worked the sugar plantations established on the island, which initially dominated the Caribbean sugar industry. By 1720 Barbados was no longer a dominant force within the sugar industry, having been surpassed by the Leeward Islands and Jamaica. Slavery was abolished in 1834. The Barbadian economy remained heavily dependent on sugar, rum, and molasses production through most of the 20th century. The gradual introduction of social and political reforms in the 1940s and 1950s led to complete independence from the UK in 1966. In the 1990s, tourism and manufacturing surpassed the sugar industry in economic importance. Barbados became a republic on 30 November 2021, with the former Governor-General Sandra MASON elected as the first president. Barbados plans to create a new constitution in 2022.<br>
 
 ## Geography
 
@@ -121,7 +121,7 @@ _female_: 40.7 years (2020 est.)<br>
 most densely populated country in the eastern Caribbean; approximately one-third live in urban areas<br>
 
 **Urbanization**<br>
-_urban population_: 31.2% of total population (2021)<br>
+_urban population_: 31.3% of total population (2022)<br>
 _rate of urbanization_: 0.46% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -232,7 +232,7 @@ _forest_: 19.4% (2018 est.)<br>
 _other_: 48% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 31.2% of total population (2021)<br>
+_urban population_: 31.3% of total population (2022)<br>
 _rate of urbanization_: 0.46% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -308,8 +308,8 @@ _election results_: Sandra MASON elected as first president on 20 October 2021 t
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (21 seats; members appointed by the president - 12 on the advice of the Prime Minister, 2 on the advice of the opposition leader, and 7 at the discretion of the president) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate - last appointments on 5 June 2018 (next appointments NA)<br>House of Assembly - last held on 24 May 2018 (next to be held in 2023)<br>
-_election results_: <br>Senate - appointed; composition - men 16, women 5, percent of women 23.8% <br>House of Assembly - percent of vote by party - BLP 74.6%, DLP 22.6%, other 2.8%; seats by party - BLP 30; composition - men 24, women 6, percent of women 20%; note - total Parliament percent of women 21.6%<br>
+_elections_: <br>Senate - last appointments on 5 June 2018 (next appointments NA)<br>House of Assembly - last held on 19 January 2022 (next to be held in 2027)<br>
+_election results_: <br>Senate - appointed; composition - men 16, women 5, percent of women 23.8% <br>House of Assembly - percent of vote by party - BLP 69%, DLP 26.5%, other 4.5%; seats by party - BLP 30; composition - men 24, women 6, percent of women 20%; note - total Parliament percent of women 21.6%<br>
 <strong>note:</strong> tradition dictates that the election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period<br>
 
 **Judicial branch**<br>
@@ -318,7 +318,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Magistrates' Courts<br>
 
 **Political parties and leaders**<br>
-Bajan Free Party [Alex MITCHELL]<br>Barbados Integrity Movement [Neil HOLDER]<br>Barbados Labor Party or BLP [Mia MOTTLEY]<br>Democratic Labor Party or DLP [Freundel STUART]<br>People’s Democratic Congress [Mark ADAMSON]<br>People's Empowerment Party or PEP [David COMISSIONG]<br>Solutions Barbados [Grenville PHILLIPS II]<br>United Progressive Party or UPP [Lynette EASTMOND]<br>
+Alliance Party for Progress or APP [Joseph ATHERLEY]<br>Bajan Free Party [Alex MITCHELL]<br>Barbados Integrity Movement [Neil HOLDER]<br>Barbados Labor Party or BLP [Mia MOTTLEY]<br>Democratic Labor Party or DLP [Freundel STUART]<br>People’s Democratic Congress [Mark ADAMSON]<br>People's Empowerment Party or PEP [David COMISSIONG]<br>Solutions Barbados [Grenville PHILLIPS II]<br>United Progressive Party or UPP [Everton HOLLIGAN]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -633,7 +633,7 @@ the Barbados Defense Force (BDF) has approximately 600 active personnel (2021)<b
 the Netherlands provide the BDF's major equipment inventory (maritime patrol boats) (2021)<br>
 
 **Military service age and obligation**<br>
-Voluntary service only; 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizens of Barbados by descent or naturalization (2021)<br>
+voluntary service only (men and women); 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizens of Barbados by descent or naturalization (2021)<br>
 
 **Military - note**<br>
 <p>Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados</p><br>

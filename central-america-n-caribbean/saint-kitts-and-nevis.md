@@ -123,7 +123,7 @@ _female_: 36.3 years (2020 est.)<br>
 population clusters are found in the small towns located on the periphery of both islands<br>
 
 **Urbanization**<br>
-_urban population_: 30.9% of total population (2021)<br>
+_urban population_: 31% of total population (2022)<br>
 _rate of urbanization_: 1.06% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -228,7 +228,7 @@ _forest_: 42.3% (2018 est.)<br>
 _other_: 34.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 30.9% of total population (2021)<br>
+_urban population_: 31% of total population (2022)<br>
 _rate of urbanization_: 1.06% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -594,7 +594,7 @@ _major seaport(s)_: Basseterre, Charlestown<br>
 Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Kitts and Nevis Coast Guard, the Royal St. Christopher and Nevis Police Force (2021)<br>
 
 **Military and security service personnel strengths**<br>
-the SKNDF has approximately 300 personnel (2019)<br>
+the SKNDF has approximately 400 personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2021)<br>

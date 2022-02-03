@@ -80,7 +80,7 @@ landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drain
 
 **Population**<br>
 12,241,065 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Burundian(s)<br>
@@ -134,7 +134,7 @@ _female_: 18 years (2020 est.)<br>
 one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 14.1% of total population (2021)<br>
+_urban population_: 14.4% of total population (2022)<br>
 _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -264,7 +264,7 @@ _forest_: 6.6% (2018 est.)<br>
 _other_: 20.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 14.1% of total population (2021)<br>
+_urban population_: 14.4% of total population (2022)<br>
 _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -698,9 +698,9 @@ in addition to its foreign deployments, the FDN as of 2021 was focused on intern
 <p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 42,136 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 84,701 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
 _IDPs_: 109,169 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1,993 coup and fighting between government forces and rebel groups; violence since April 2015) (2021)<br>
-_stateless persons_: 974 (2020)<br>
+_stateless persons_: 767 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Burundi and victims from Burundi abroad; traffickers take advantage of Burundians in precarious or desperate situations, including returned refugees; children were reportedly recruited by armed groups and forced to participate in anti-government activities; non-state armed groups allegedly used threats, intimidation, and physical assaults to coerce refugees in a camp in Rwanda to support the Burundian opposition; children and young adults are trafficked by relatives, neighbors, and friends and are subjected to forced labor in agriculture, mining, informal commerce, charcoal production, and fishing; some girls and young women are forced into domestic servitude and sex trafficking in restaurants and bars around Lake Tanganyika; women and girls who go to the Middle East for domestic service jobs report physical and sexual abuse<br>

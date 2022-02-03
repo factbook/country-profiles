@@ -135,7 +135,7 @@ _female_: 16.5 years (2020 est.)<br>
 the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 23.8% of total population (2021)<br>
+_urban population_: 24.1% of total population (2022)<br>
 _rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -263,7 +263,7 @@ _forest_: 9.1% (2018 est.)<br>
 _other_: 51.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 23.8% of total population (2021)<br>
+_urban population_: 24.1% of total population (2022)<br>
 _rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -715,7 +715,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 374,804 (Sudan), 121,525 (Central African Republic), 35,878 (Cameroon), 19,321 (Nigeria) (2021)<br>
+_refugees (country of origin)_: 374,804 (Sudan), 121,511 (Central African Republic), 35,878 (Cameroon), 19,321 (Nigeria) (2021)<br>
 _IDPs_: 406,573 (majority are in the east) (2021)<br>
 
 **Trafficking in persons**<br>

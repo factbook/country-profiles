@@ -132,7 +132,7 @@ _female_: 44 years (2020 est.)<br>
 an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country<br>
 
 **Urbanization**<br>
-_urban population_: 92.6% of total population (2021)<br>
+_urban population_: 92.9% of total population (2022)<br>
 _rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -251,7 +251,7 @@ _forest_: 10.8% (2018 est.)<br>
 _other_: 34.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 92.6% of total population (2021)<br>
+_urban population_: 92.9% of total population (2022)<br>
 _rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -708,7 +708,7 @@ the inventory of the Netherlands Armed Forces consists of a mix of domestically-
 
 **Military service age and obligation**<br>
 17 years of age for an all-volunteer force; conscription remains in place, but the requirement to show up for compulsory military service was suspended in 1997 (2021)<br>
-note - in 2020, women comprised about 10% of the military<br>
+note - in 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military - note**<br>
 the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force</p> <p>a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively<br><br></p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020 (2021)<br>
@@ -725,8 +725,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,547 (Syria), 11,961 (Eritrea), 11,642 (Somalia), 7,365 (Iraq), 5,212 (Afghanistan) (2020)<br>
-_stateless persons_: 2,006 (2020)<br>
+_refugees (country of origin)_: 37,792 (Syria), 14,787 (Eritrea), 8,368 (Somalia), 6,636 (Iraq), 5,346 (Iran) (mid-year 2021)<br>
+_stateless persons_: 2,087 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>a significant transit country for illicit drugs, especially cocaine from South America destined for Europe; one of the largest sources of synthetic drugs for international markets; numerous methamphetamine laboratories; traffickers use postage companies to send cocaine, ecstasy or methamphetamines distribute narcotics to global customers</p><br>

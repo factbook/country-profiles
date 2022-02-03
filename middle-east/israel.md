@@ -128,7 +128,7 @@ _female_: 31 years (2020 est.)<br>
 population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba<br>
 
 **Urbanization**<br>
-_urban population_: 92.7% of total population (2021)<br>
+_urban population_: 92.8% of total population (2022)<br>
 _rate of urbanization_: 1.51% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -250,7 +250,7 @@ _forest_: 7.1% (2018 est.)<br>
 _other_: 69.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 92.7% of total population (2021)<br>
+_urban population_: 92.8% of total population (2022)<br>
 _rate of urbanization_: 1.51% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -341,13 +341,13 @@ _judge selection and term of office_: judges selected by the 9-member Judicial S
 _subordinate courts_: district and magistrate courts; national and regional labor courts; family and juvenile courts; special and Rabbinical courts<br>
 
 **Political parties and leaders**<br>
-<p>Democratic Union [Nitzan HOROWITZ] (alliance includes Democratic Israel, Meretz, Green Movement)<br>Joint List [Ayman ODEH] (alliance includes Hadash, Ta’al, United Arab List, Balad)<br>Kahol Lavan [Benny GANTZ] (alliance includes Israeli Resilience, Yesh Atid, Telem)<br>Labor-Gesher [Amir PERETZ]<br>Likud [Binyamin NETANYAHU]<br>Otzma Yehudit [Itamar BEN-GVIR]<br>Religous Zionist Party [Belzalel SMOTRICH, chairperson]<br>SHAS [Arye DERI]<br>United Torah Judaism, or UTJ [Yaakov LITZMAN] (alliance includes Agudat Israel and Degel HaTorah)<br>Yamina [Ayelet SHAKED]<br>Yesh Atid [Yair LAPID]<br>Yisrael Beiteinu [Avigdor LIEBERMAN]<br>Zehut [Moshe FEIGLIN]</p><br>
+<p>Blue and White [Benny GANTZ]<br>Joint Arab List [Ayman ODEH] (alliance includes Hadash, Ta’al, United Arab List, Balad)<br>Labor [Amir PERETZ]<br>Likud [Binyamin NETANYAHU]<br>Meretz [Nitzan HOROWITZ]<br>New Hope [Gideon SA'AR]<br>Ra'am [Mansour ABBAS]<br>Religous Zionist Party [Belzalel SMOTRICH, chairperson]<br>SHAS [Arye DERI]<br>United Torah Judaism, or UTJ [Yaakov LITZMAN] (alliance includes Agudat Israel and Degel HaTorah)<br>Yamina [Naftali BENNETT]<br>Yesh Atid [Yair LAPID]<br>Yisrael Beiteinu [Avigdor LIEBERMAN]</p><br>
 
 **International organization participation**<br>
 BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Gilad Menashe ERDAN (since 17 February 2021)<br>
+_chief of mission_: Ambassador Michael HERZOG (since 5 September 2021)<br>
 _chancery_: 3514 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 364-5500<br>
 _FAX_: [1] (202) 364-5607<br>
@@ -355,7 +355,7 @@ _email address and website_: <br>consular@washington.mfa.gov.il<br><br>https://e
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: ambassador Thomas NIDES (since 5 December 2021)<br>
+_chief of mission_: ambassador Thomas NIDES (since 29 November 2021)<br>
 _embassy_: 14 David Flusser Street, Jerusalem, 9378322<br>
 _mailing address_: 6350 Jerusalem Place, Washington DC&nbsp; 20521-6350<br>
 _telephone_: [972] (2) 630-4000<br>
@@ -663,7 +663,7 @@ _under 914 m_: 6 (2013)<br>
 763 km gas, 442 km oil, 261 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 1,599 km (2019) (2014)<br>
+_total_: 1,599 km (2019) (2019)<br>
 _standard gauge_: 1,384 km 1.435-m gauge (2014)<br>
 
 **Roadways**<br>
@@ -702,7 +702,7 @@ the majority of the IDF's inventory is comprised of weapons that are domesticall
 note(s) - women have served in the Israeli military since its establishment in 1948; as of 2021, women made up about 35% of IDF personnel; more than 90% of military specialties, including combat specialties, were open to women and more than 3,000 women were serving in combat units; the IDF's first mixed-gender infantry unit, the Caracal Battalion, was established in 2004; as of 2021, conscripts comprised about 70% of the IDF ground forces<br>
 
 **Military - note**<br>
-the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of August 2021, UNDOF consisted of about 1,250 personnel<br><br> <p>as of 2021 and since the outbreak of the Syrian civil war in 2011, Israel has routinely carried out air strikes in Syria targeting Iranian, Iranian-backed militia and Hizballah forces, and some Syrian Government troops; over the same period, the IDF has carried out numerous strikes against Hizballah in Lebanon in response to attacks on Israeli territory; Israel fought a month-long war in Lebanon with Hizballah in 2006 (see Appendix-T for details on Hizballah)</p> <p>as of 2021, the IDF also conducted frequent operations against the HAMAS and Palestine Islamic Jihad (PIJ) terrorist groups operating out of the Gaza Strip; since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the IDF; HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued through 2021, including incendiary balloon attacks from Palestinian territory and retaliatory IDF strikes; PIJ has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in February 2020 (see Appendix-T for more details on HAMAS and Palestine Islamic Jihad)<br><br>Israel has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of November 2021, UNDOF consisted of about 1,250 personnel<br><br> <p>as of 2021 and since the outbreak of the Syrian civil war in 2011, Israel has routinely carried out air strikes in Syria targeting Iranian, Iranian-backed militia and Hizballah forces, and some Syrian Government troops; over the same period, the IDF has carried out numerous strikes against Hizballah in Lebanon in response to attacks on Israeli territory; Israel fought a month-long war in Lebanon with Hizballah in 2006 (see Appendix-T for details on Hizballah)</p> <p>as of 2021, the IDF also conducted frequent operations against the HAMAS and Palestine Islamic Jihad (PIJ) terrorist groups operating out of the Gaza Strip; since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the IDF; HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued through 2021, including incendiary balloon attacks from Palestinian territory and retaliatory IDF strikes; PIJ has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in February 2020 (see Appendix-T for more details on HAMAS and Palestine Islamic Jihad)<br><br>Israel has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 
@@ -717,7 +717,7 @@ Kahane Chai; Popular Front for the Liberation of Palestine; Palestinian Islamic 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,181 (Eritrea), 5,061 (Ukraine) (2019)<br>
-_stateless persons_: 42 (2020)<br>
+_stateless persons_: 42 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 increasingly concerned about ecstasy, cocaine, and heroin abuse; drugs arrive in country from Lebanon and, increasingly, from Jordan; money-laundering center<br>

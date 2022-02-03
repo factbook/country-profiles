@@ -125,7 +125,7 @@ _female_: 35.1 years (2020 est.)<br>
 the population is primarily concentrated within a broad wet zone in the southwest, urban centers along the eastern coast, and on the Jaffna Peninsula in the north<br>
 
 **Urbanization**<br>
-_urban population_: 18.9% of total population (2021)<br>
+_urban population_: 19% of total population (2022)<br>
 _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -254,7 +254,7 @@ _forest_: 29.4% (2018 est.)<br>
 _other_: 27.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 18.9% of total population (2021)<br>
+_urban population_: 19% of total population (2022)<br>
 _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -699,7 +699,7 @@ the Sri Lankan military inventory consists mostly of Chinese and Russian-origin 
 110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for voluntary military service; no conscription (2021)<br>
+18-22 years of age for voluntary military service (men and women); no conscription (2021)<br>
 
 **Military - note**<br>
 <p>Sri Lanka traditionally has had close security ties to India; India participated in the counter-insurgency war against the LTTE from 1987-1991, losing over 1,000 soldiers in the conflict; as of 2021, the Sri Lankan and Indian militaries continued to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; however, since the end of the war with LTTE, Sri Lanka has also increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training</p><br>

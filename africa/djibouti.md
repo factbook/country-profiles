@@ -130,7 +130,7 @@ _female_: 26.4 years (2020 est.)<br>
 most densely populated areas are in the east; the largest city is Djibouti, with a population over 600,000; no other city in the country has a total population over 50,000 as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 78.2% of total population (2021)<br>
+_urban population_: 78.4% of total population (2022)<br>
 _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -248,7 +248,7 @@ _forest_: 0.2% (2018 est.)<br>
 _other_: 26.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 78.2% of total population (2021)<br>
+_urban population_: 78.4% of total population (2022)<br>
 _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -677,7 +677,7 @@ the FAD is armed largely with older French and Soviet-era weapons systems; since
 the International Maritime Bureau&rsquo;s (IMB) Piracy Reporting Center (PRC) received zero incidents of piracy and armed robbery in 2020 for the Horn of Africa; while there were no recorded incidents, the IMB PRC warns that Somalia pirates continue to possess the capacity to carry out attacks in the Somali basin and wider Indian Ocean; in particular, the report warns that, "Masters and crew must remain vigilant and cautious when transiting these waters."; the presence of several naval task forces in the Gulf of Aden and additional anti-piracy measures on the part of ship operators, including the use of on-board armed security teams, contributed to the drop in incidents; the EU naval mission, Operation ATALANTA, continues its operations in the Gulf of Aden and Indian Ocean through 2022; naval units from China, India, Japan, Pakistan, South Korea, the US, and other countries also operate in conjunction with EU forces; China has established a logistical base in Djibouti to support its deployed naval units in the Horn of Africa<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; 16-25 years of age for voluntary military training; no conscription (2021)<br>
+18 years of age for voluntary military service (men and women); 16-25 years of age for voluntary military training; no conscription (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, China, France, Italy, Japan, and the US maintained bases in Djibouti for regional military missions, including counter-terrorism, counter-piracy, crisis response, and security assistance (note – France has multiple bases and hosts troop contingents from Germany and Spain); the EU and NATO have also maintained a presence to support multinational naval counter-piracy operations and maritime training efforts; in 2017, Djibouti and Saudi Arabia announced plans for the Saudis to build a military base there, although no start date was announced</p><br>
@@ -694,5 +694,5 @@ al-Shabaab<br>
 <p>Djibouti maintains economic ties and border accords with "Somaliland" leadership while maintaining some political ties to various factions in Somalia; Kuwait is chief investor in the 2008 restoration and upgrade of the Ethiopian-Djibouti rail link; in 2008, Eritrean troops moved across the border on Ras Doumera peninsula and occupied Doumera Island with undefined sovereignty in the Red Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,139 (Somalia), 5,666 (Yemen) (2020)<br>
+_refugees (country of origin)_: 5,972 (Yemen) (mid-year 2021); 14,227 (Somalia) (2021)<br>
 

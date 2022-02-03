@@ -129,7 +129,7 @@ _female_: 18.3 years (2020 est.)<br>
 clusters found in urban areas, particularly in the western interior and around the White Nile as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 20.5% of total population (2021)<br>
+_urban population_: 20.8% of total population (2022)<br>
 _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -244,7 +244,7 @@ _forest_: 11.3% (2018)<br>
 _other_: 43.5% (2018)<br>
 
 **Urbanization**<br>
-_urban population_: 20.5% of total population (2021)<br>
+_urban population_: 20.8% of total population (2022)<br>
 _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -630,10 +630,11 @@ note(s) - some active SSPDF personnel may be militia; the National Unified Force
 the SSPDF inventory is primarily of Soviet origin; from 2010 to 2015, Russia and the United Arab Emirates were the leading suppliers of arms and equipment; South Sudan has been under a UN arms embargo since 2018 (2021)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for compulsory and voluntary military service; 12-24 months service (2021)<br>
+18 is the legal minimum age for compulsory (men) and voluntary (men and women) military service; 12-24 months service (2021)<br>
+note - in 2019, women made up less than 10% of the active military<br>
 
 **Military - note**<br>
-the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>under the September 2018 peace agreement, all armed groups in South Sudan were to assemble at designated sites where fighters could be either disarmed and demobilized, or integrated into unified military and police forces; the unified forces were then to be retrained and deployed prior to the formation of a national unity government; all fighters were ordered to these sites in July 2019; some progress toward merging the various armed forces into a national army has been made; for example, in May 2020, South Sudan announced that it was graduating some unified forces at various training centers across the country, and in June the SSPDF incorporated some senior officers from the main opposition force, the Sudan People's Liberation Movement Army - in Opposition (SPLM/A-IO) into its rank structure; nevertheless, overall progress has been slow, and as of 2021 armed clashes continued to occur between government forces and armed militant groups in several states<br><br>the United Nations Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had about 18,300 personnel, including about 14,000 troops, deployed in the country as of August 2021<br><br>United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of July 2021, UNISFA had some 3,800 personnel deployed<br>
+the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>under the September 2018 peace agreement, all armed groups in South Sudan were to assemble at designated sites where fighters could be either disarmed and demobilized, or integrated into unified military and police forces; the unified forces were then to be retrained and deployed prior to the formation of a national unity government; all fighters were ordered to these sites in July 2019; some progress toward merging the various armed forces into a national army has been made; for example, in May 2020, South Sudan announced that it was graduating some unified forces at various training centers across the country, and in June the SSPDF incorporated some senior officers from the main opposition force, the Sudan People's Liberation Movement Army - in Opposition (SPLM/A-IO) into its rank structure; nevertheless, overall progress has been slow, and as of 2021 armed clashes continued to occur between government forces and armed militant groups in several states<br><br>the United Nations Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had about 18,000 personnel deployed in the country as of November 2021<br><br>United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of July 2021, UNISFA had some 3,800 personnel deployed<br>
 
 ## Transnational Issues
 
@@ -641,9 +642,9 @@ the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s 
 <p>South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan; periodic violent skirmishes with South Sudanese residents over water and grazing rights persist among related pastoral populations along the border with the Central African Republic; the boundary that separates Kenya and South Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 308,174 (Sudan), 17,981 (Democratic Republic of the Congo) (2021)<br>
+_refugees (country of origin)_: 308,174 (Sudan), 17,982 (Democratic Republic of the Congo) (2021)<br>
 _IDPs_: 1,436,000 (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2020)<br>
-_stateless persons_: 10,000 (2020)<br>
+_stateless persons_: 10,000 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: South Sudan is a source and destination country for men, women, and children subjected to forced labor and sex trafficking; South Sudanese women and girls, particularly those who are internally displaced or from rural areas, are vulnerable to forced labor and sexual exploitation in urban centers; the rising number of street children and child laborers are also exploited for forced labor and prostitution; women and girls from Uganda, Kenya, Ethiopia, and Democratic Republic of the Congo are trafficked to South Sudan with promises of legitimate jobs and are forced into the sex trade; inter-ethnic abductions continue between some communities in South Sudan; government forces use children to fight and perpetrate violence against other children and civilians, to serve as scouts, escorts, cooks, and cleaners, and to carry heavy loads while on the move<br>

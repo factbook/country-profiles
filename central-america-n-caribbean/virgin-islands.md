@@ -122,7 +122,7 @@ _female_: 42.8 years (2020 est.)<br>
 while overall population density throughout the islands is relatively low, concentrations appear around Charlotte Amalie on St. Thomas and Christiansted on St. Croix<br>
 
 **Urbanization**<br>
-_urban population_: 96% of total population (2021)<br>
+_urban population_: 96.1% of total population (2022)<br>
 _rate of urbanization_: -0.11% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -196,7 +196,7 @@ _forest_: 57.4% (2018 est.)<br>
 _other_: 31.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 96% of total population (2021)<br>
+_urban population_: 96.1% of total population (2022)<br>
 _rate of urbanization_: -0.11% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

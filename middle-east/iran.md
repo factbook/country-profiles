@@ -135,7 +135,7 @@ _female_: 32 years (2020 est.)<br>
 population is concentrated in the north, northwest, and west, reflecting the position of the Zagros and Elburz Mountains; the vast dry areas in the center and eastern parts of the country, around the deserts of the Dasht-e Kavir and Dasht-e Lut, have a much lower population density<br>
 
 **Urbanization**<br>
-_urban population_: 76.3% of total population (2021)<br>
+_urban population_: 76.8% of total population (2022)<br>
 _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -260,7 +260,7 @@ _forest_: 6.8% (2018 est.)<br>
 _other_: 63.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 76.3% of total population (2021)<br>
+_urban population_: 76.8% of total population (2022)<br>
 _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -729,7 +729,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Jaysh al Adl (Jundallah); Kurdista
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 2.6 million undocumented Afghans, 780,000 Afghan refugee card holders, 20,000 Iraqi refugee card holders (2020)<br>
-_stateless persons_: 34 (2020)<br>
+_stateless persons_: 34 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Iran is a presumed source, transit, and destination country for men, women, and children subjected to sex trafficking and forced labor; Iranian and Afghan boys and girls are forced into prostitution domestically; Iranian women are subjected to sex trafficking in Iran, Pakistan, the Persian Gulf, and Europe; Azerbaijani women and children are also sexually exploited in Iran; Afghan migrants and refugees and Pakistani men and women are subjected to conditions of forced labor in Iran; NGO reports indicate that criminal organizations play a significant role in human trafficking in Iran<br>

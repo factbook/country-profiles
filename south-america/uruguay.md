@@ -139,7 +139,7 @@ _female_: 37.3 years (2020 est.)<br>
 most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo<br>
 
 **Urbanization**<br>
-_urban population_: 95.6% of total population (2021)<br>
+_urban population_: 95.7% of total population (2022)<br>
 _rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -259,7 +259,7 @@ _forest_: 10.2% (2018 est.)<br>
 _other_: 2.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 95.6% of total population (2021)<br>
+_urban population_: 95.7% of total population (2022)<br>
 _rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -704,6 +704,7 @@ the inventory of the Armed Forces of Uruguay includes a wide variety of older or
 
 **Military service age and obligation**<br>
 18-30 years of age (18-22 years of age for Navy) for male or female voluntary military service; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2021)<br>
+note - as of 2017, women comprised about 19% of the active military<br>
 
 **Military - note**<br>
 <p>as of 2021, the military had some domestic responsibilities, including perimeter security for a number of prisons and border security; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018  </p><br>
@@ -715,6 +716,7 @@ the inventory of the Armed Forces of Uruguay includes a wide variety of older or
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 15,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
+_stateless persons_: 5 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 small-scale transit country for drugs mainly bound for Europe, often through sea-borne containers; law enforcement corruption; money laundering because of strict banking secrecy laws; weak border control along Brazilian frontier; increasing consumption of cocaine base and synthetic drugs<br>

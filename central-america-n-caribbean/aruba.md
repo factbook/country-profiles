@@ -122,7 +122,7 @@ _female_: 41.5 years (2020 est.)<br>
 most residents live in or around Oranjestad and San Nicolaas; most settlments tend to be located on the less mountainous western side of the island<br>
 
 **Urbanization**<br>
-_urban population_: 43.9% of total population (2021)<br>
+_urban population_: 44.1% of total population (2022)<br>
 _rate of urbanization_: 0.77% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -218,7 +218,7 @@ _forest_: 2.3% (2018 est.)<br>
 _other_: 86.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 43.9% of total population (2021)<br>
+_urban population_: 44.1% of total population (2022)<br>
 _rate of urbanization_: 0.77% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

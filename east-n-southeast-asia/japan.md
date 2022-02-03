@@ -130,7 +130,7 @@ _female_: 50 years (2020 est.)<br>
 all primary and secondary regions of high population density lie on the coast; one-third of the population resides in and around Tokyo on the central plain (Kanto Plain)<br>
 
 **Urbanization**<br>
-_urban population_: 91.9% of total population (2021)<br>
+_urban population_: 92% of total population (2022)<br>
 _rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -245,7 +245,7 @@ _forest_: 68.5% (2018 est.)<br>
 _other_: 19% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 91.9% of total population (2021)<br>
+_urban population_: 92% of total population (2022)<br>
 _rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -698,7 +698,8 @@ the JSDF is equipped with a mix of imported and domestically-produced equipment;
 approximately 175 Djibouti (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (maximum enlistment age 32); no conscription (2021)<br>
+18 years of age for voluntary military service for men and women (maximum enlistment age 32); no conscription (2021)<br>
+note - as of 2020, women made up about 7% of the military's full-time personnel<br>
 
 **Military - note**<br>
 <p>Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the current Self Defense Force was founded in 1954</p> <p>in addition to having one of the region’s largest and best equipped militaries, Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; as of 2021, nearly 55,000 US troops and other military assets, including aircraft and naval ships, were stationed in Japan and have exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan<br><br>Japan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
@@ -715,5 +716,5 @@ Aum Shinrikyo (AUM/Aleph)<br>
 <p>the sovereignty dispute over the islands of Etorofu, Kunashiri, and Shikotan, and the Habomai group, known in Japan as the "Northern Territories" and in Russia as the "Southern Kuril Islands," occupied by the Soviet Union in 1945, now administered by Russia and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities; Japan and South Korea claim Liancourt Rocks (Take-shima/Tok-do) occupied by South Korea since 1954; the Japanese-administered Senkaku Islands are also claimed by China and Taiwan</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 707 (2020)<br>
+_stateless persons_: 707 (mid-year 2021)<br>
 

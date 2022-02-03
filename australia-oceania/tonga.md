@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-The first humans arrived in Tonga around 1000 B.C. The islands’ politics were probably highly centralized under the Tu’i Tonga, or Tongan king, by A.D. 950, and by 1200, the Tu’i Tonga had expanded his influence throughout Polynesia and into Melanesia and Micronesia. The Tongan Empire began to decline in the 1300s, descending into civil wars, a military defeat to Samoa, and internal political strife that saw successive leaders assassinated. By the mid-1500s, some Tu’i Tongans were ethnic Samoan and day-to-day administration of Tonga was transferred to a new position occupied by ethnic Tongans.<br><br>Dutch sailors explored the islands in the 1600s and British Captain James COOK visited Tonga three times in the 1770s, naming them the Friendly Islands for the positive reception he thought he received, even though the Tongans he encountered were plotting ways to kill him. In 1799, Tonga fell into a new round of civil wars over succession. Wesleyan missionaries arrived in 1822, quickly converting the population. In the 1830s, a low-ranking chief from Ha’apai began to consolidate control over the islands and won the support of the missionaries by declaring that he would dedicate Tonga to God. The chief soon made alliances with leaders on most of the other islands and was crowned King George TUPOU I in 1845, establishing the only still-extant Polynesian monarchy. Tupou I declared Tonga a constitutional monarchy in 1875 and his successor, King George TUPOU II, agreed to enter a protectorate agreement with the UK in 1900 after rival Tongan chiefs tried to overthrow him. As a protectorate, Tonga never completely lost its indigenous governance, but it did become more isolated and the social hierarchy became more stratified between a group of nobles and a large class of commoners. Today, about one third of parliamentary seats are reserved for nobles.<br><br>Queen Salote TUPOU III negotiated the end of the protectorate in 1965, which was achieved under King TUPOU, who in 1970 withdrew from the protectorate and joined the Commonwealth of Nations. A prodemocracy movement gained steam in the early 2000s, led by future Prime Minister ‘Akilisi POHIVA, and in 2006, riots broke out in Nuku’alofa to protest the lack of progress on prodemocracy legislation. To appease the activists, in 2008, King George TUPOU V announced he was relinquishing most of his powers leading up to parliamentary elections in 2010; he died in 2012 and was succeeded by his brother ‘Aho’eitu TUPOU VI. Tropical Cyclone Gita, the strongest-ever recorded storm to impact Tonga, hit the islands in February 2018 causing extensive damage.<br>
+The first humans arrived in Tonga around 1000 B.C. The islands’ politics were probably highly centralized under the Tu’i Tonga, or Tongan king, by A.D. 950, and by 1200, the Tu’i Tonga had expanded his influence throughout Polynesia and into Melanesia and Micronesia. The Tongan Empire began to decline in the 1300s, descending into civil wars, a military defeat to Samoa, and internal political strife that saw successive leaders assassinated. By the mid-1500s, some Tu’i Tongans were ethnic Samoan and day-to-day administration of Tonga was transferred to a new position occupied by ethnic Tongans.<br><br>Dutch sailors explored the islands in the 1600s and British Captain James COOK visited Tonga three times in the 1770s, naming them the Friendly Islands for the positive reception he thought he received, even though the Tongans he encountered were plotting ways to kill him. In 1799, Tonga fell into a new round of civil wars over succession. Wesleyan missionaries arrived in 1822, quickly converting the population. In the 1830s, a low-ranking chief from Ha’apai began to consolidate control over the islands and won the support of the missionaries by declaring that he would dedicate Tonga to God. The chief soon made alliances with leaders on most of the other islands and was crowned King George TUPOU I in 1845, establishing the only still-extant Polynesian monarchy. Tupou I declared Tonga a constitutional monarchy in 1875 and his successor, King George TUPOU II, agreed to enter a protectorate agreement with the UK in 1900 after rival Tongan chiefs tried to overthrow him. As a protectorate, Tonga never completely lost its indigenous governance, but it did become more isolated and the social hierarchy became more stratified between a group of nobles and a large class of commoners. Today, about one third of parliamentary seats are reserved for nobles.<br><br>Queen Salote TUPOU III negotiated the end of the protectorate in 1965, which was achieved under King TUPOU IV, who in 1970 withdrew from the protectorate and joined the Commonwealth of Nations. A prodemocracy movement gained steam in the early 2000s, led by future Prime Minister ‘Akilisi POHIVA, and in 2006, riots broke out in Nuku’alofa to protest the lack of progress on prodemocracy legislation. To appease the activists, in 2008, King George TUPOU V announced he was relinquishing most of his powers leading up to parliamentary elections in 2010; he died in 2012 and was succeeded by his brother ‘Aho’eitu TUPOU VI. Tropical Cyclone Gita, the strongest-ever recorded storm to impact Tonga, hit the islands in February 2018 causing extensive damage.<br>
 
 ## Geography
 
@@ -123,7 +123,7 @@ _female_: 24.5 years (2020 est.)<br>
 over two-thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied<br>
 
 **Urbanization**<br>
-_urban population_: 23.1% of total population (2021)<br>
+_urban population_: 23.1% of total population (2022)<br>
 _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -248,7 +248,7 @@ _forest_: 12.5% (2018 est.)<br>
 _other_: 44.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 23.1% of total population (2021)<br>
+_urban population_: 23.1% of total population (2022)<br>
 _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -320,14 +320,14 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: King TUPOU VI (since 18 March 2012); Heir Apparent Crown Prince Siaosi Manumataogo 'Alaivahamama'o 'Ahoeitu Konstantin Tuku'aho, son of the king (born 17 September 1985); note - on 18 March 2012, King George TUPOU V died and his brother, Crown Prince TUPOUTO'A Lavaka, assumed the throne as TUPOU VI<br>
 _head of government_: Prime Minister Siaosi SOVALENI (since 27 December 2021)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the monarch<br>
-_elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 15 November 2021 (next to be held in in November 2025)<br>
+_elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 18 November 2021 (next to be held in in November 2025)<br>
 _election results_: Siaosi SOVALENI elected prime minister by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10<br>
 <strong>note:</strong> a Privy Council advises the monarch<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Fale Alea (up to 30 seats; 26 for the 2021-25 term); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
+_description_: unicameral Legislative Assembly or Fale Alea (26 seats); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
 _elections_: last held on 18 November 2021 (next to be held in November 2025)<br>
-_election results_: percent of vote - NA; seats by party (elected members) - Democratic Party of the Friendly Islands 3, Tonga People's Party 1, independent 13; composition (elected members) - men 17, women 0, percent of women 0%<br>
+_election results_: percent of vote - NA; seats by party (elected members) - independents 11, nobles' representatives 9,&nbsp; Democratic Party 3, Peoples Party 3; composition - men 26, women 0, percent of women 0%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
@@ -335,7 +335,7 @@ _judge selection and term of office_: judge appointments and tenures made by the
 _subordinate courts_: Supreme Court; Magistrates' Courts; Land Courts<br>
 
 **Political parties and leaders**<br>
-Democratic Party of the Friendly Islands<br>People's Democratic Party or PDP [Tesina FUKO]<br>Sustainable Nation-Building Party [Sione FONUA]<br>Tonga Democratic Labor Party<br>Tonga Human Rights and Democracy Movement or THRDM<br>Tonga People's Party or PAK (<em lang="to">Paati ʻa e Kakai ʻo Tonga</em>) [Pohiva TU'I'ONETOA] (split from Democratic Party of the Friendly Islands)<br>
+Democratic Party of the Friendly Islands or DPFI or PTOA<br>People's Democratic Party or PDP [Tesina FUKO]<br>Sustainable Nation-Building Party [Sione FONUA]<br>Tonga Democratic Labor Party<br>Tonga Human Rights and Democracy Movement or THRDM<br>Tonga People's Party or PAK (<em lang="to">Paati ʻa e Kakai ʻo Tonga</em>) [Pohiva TU'I'ONETOA] (split from Democratic Party of the Friendly Islands)<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, IMF, IMO, IMSO, Interpol, IOC, IPU, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -648,7 +648,7 @@ the Tonga Defense Services have approximately 500 personnel (2021)<br>
 the Tonga military's inventory includes mostly light weapons and equipment from European (primarily the UK) countries and the US, as well as naval patrol vessels from Australia; Australia is the only supplier of military systems since 2010 (2021)<br>
 
 **Military service age and obligation**<br>
-Volunteers, 18-25; no conscription (2021)<br>
+men and women, 18-25, may volunteer; no conscription (2021)<br>
 
 **Military - note**<br>
 <p>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014</p><br>

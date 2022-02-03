@@ -128,7 +128,7 @@ _female_: 20.5 years (2020 est.)<br>
 most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 39.2% of total population (2021)<br>
+_urban population_: 39.9% of total population (2022)<br>
 _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -258,7 +258,7 @@ _forest_: 21.5% (2018 est.)<br>
 _other_: 7.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 39.2% of total population (2021)<br>
+_urban population_: 39.9% of total population (2022)<br>
 _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -690,7 +690,7 @@ the PAF's inventory consists mostly of aging Soviet-era equipment; since 2010, i
 Madagascar has an all-volunteer military; 18-25 years of age for males; service obligation 18 months; women are permitted to serve in all branches (2021)<br>
 
 **Military - note**<br>
-<p>one of the military’s duties is assisting the gendarmerie with maintaining law and order in rural areas, particularly in areas affected by cattle rustling and banditry (2021)</p><br>
+<p>one of the military’s duties is assisting the gendarmerie with maintaining law and order in rural areas, particularly in areas affected by banditry, cattle rustling (cattle thieves are known as <em>dahalo</em>), and criminal groups (2021)</p><br>
 
 ## Transnational Issues
 

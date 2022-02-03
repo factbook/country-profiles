@@ -124,7 +124,7 @@ _female_: 30 years (2020 est.)<br>
 about a third of the population lives in the centrally located capital city of Male and almost a tenth in southern Addu City; the remainder of the populace is spread over the 200 or so populated islands of the archipelago<br>
 
 **Urbanization**<br>
-_urban population_: 41.1% of total population (2021)<br>
+_urban population_: 41.5% of total population (2022)<br>
 _rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -247,7 +247,7 @@ _forest_: 3% (2018 est.)<br>
 _other_: 73.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 41.1% of total population (2021)<br>
+_urban population_: 41.5% of total population (2022)<br>
 _rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -331,7 +331,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the pres
 _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands)<br>
 
 **Political parties and leaders**<br>
-<p>Adhaalath (Justice) Party or AP [Sheikh Imran ABDULLA]<br>Dhivehi Rayyithunge Party or DRP [Ahmed Thasmeen ALI]<br>Maldives Development Alliance or MDA [Ahmed Shiyam MOHAMED]<br>Maldivian Democratic Party or MDP [Mohamed NASHEED]<br>Maldives Labor and Social Democratic Party or MLSDP [Ahmed SHIHAM]<br>Maldives Thirdway Democrats or MTD [Ahmed ADEEB]<br>Maumoon/Maldives Reform Movement or MRM [Maumoon Abdul GAYOOM]<br>National Democratic Congress [Yousuf Maaniu] (formed in 2020)<br>People's National Congress or PNC [Abdul Raheem ABDULLA] (formed in early 2019)<br>Progressive Party of Maldives or PPM <br>Republican (Jumhooree) Party or JP [Qasim IBRAHIM]</p> (2020)<br>
+<p>Adhaalath (Justice) Party or AP [Sheikh Imran ABDULLA]<br>Dhivehi Rayyithunge Party or DRP [Abdulla JABIR]<br>Maldives Development Alliance or MDA [Ahmed Shiyam MOHAMED]<br>Maldivian Democratic Party or MDP [Mohamed NASHEED]<br>Maldives Labor and Social Democratic Party or MLSDP [Ahmed SHIHAM]<br>Maldives Thirdway Democrats or MTD [Ahmed ADEEB]<br>Maumoon/Maldives Reform Movement or MRM [Maumoon Abdul GAYOOM]<br>National Democratic Congress [Yousuf Maaniu] (formed in 2020)<br>People's National Congress or PNC [Abdul Raheem ABDULLA] (formed in early 2019)<br>Progressive Party of Maldives or PPM <br>Republican (Jumhooree) Party or JP [Qasim IBRAHIM]</p> (2020)<br>
 
 **International organization participation**<br>
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

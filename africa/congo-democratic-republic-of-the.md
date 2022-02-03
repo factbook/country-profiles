@@ -87,7 +87,7 @@ urban clusters are spread throughout the country, particularly in the northeast 
 
 **Population**<br>
 105,044,646 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Congolese (singular and plural)<br>
@@ -140,7 +140,7 @@ _female_: 16.8 years (2020 est.)<br>
 urban clusters are spread throughout the country, particularly in the northeast along the boarder with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 46.2% of total population (2021)<br>
+_urban population_: 46.8% of total population (2022)<br>
 _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -268,7 +268,7 @@ _forest_: 67.9% (2018 est.)<br>
 _other_: 20.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 46.2% of total population (2021)<br>
+_urban population_: 46.8% of total population (2022)<br>
 _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -732,10 +732,10 @@ limited and widely varied information; approximately 100,000 active troops (most
 the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era weapons acquired from former Warsaw Pact nations; most equipment was acquired between 1970 and 2000; in recent years, Ukraine is the largest supplier of arms to the FARDC (2021)<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for voluntary and compulsory military service; unclear how much conscription is used (2021)<br>
+18-45 years of age for voluntary (men and women) and compulsory (men only) military service; unclear how much conscription is used (2021)<br>
 
 **Military - note**<br>
-<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups (at least 70 and by some recent estimates more than 100), however, continue to fight; as of 2021, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> <br>MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of August 2021, MONUSCO comprised around 17,000 personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
+<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups (at least 70 and by some recent estimates more than 100), however, continue to fight; as of 2022, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> <br>MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of November 2021, MONUSCO comprised around 17,800 personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
 
 ## Terrorism
 
@@ -749,7 +749,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers; members of Uganda's Lord's Resistance Army forces continue to seek refuge in Congo's Garamba National Park as peace talks with the Uganda Government evolve; the location of the boundary in the broad Congo River with the Republic of the Congo is indefinite except in the Pool Malebo/Stanley Pool area; Uganda and DRC dispute Rukwanzi Island in Lake Albert and other areas on the Semliki River with hydrocarbon potential; boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto; DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 217,940 (Central African Republic), 210,969 (Rwanda) (refugees and asylum seekers), 56,539 (South Sudan) (refugees and asylum seekers), 41,834 (Burundi) (2021)<br>
+_refugees (country of origin)_: 212,958 (Central African Republic), 210,969 (Rwanda) (refugees and asylum seekers), 56,341 (South Sudan) (refugees and asylum seekers), 41,031 (Burundi) (2021)<br>
 _IDPs_: 5.268 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2020)<br>
 
 **Trafficking in persons**<br>

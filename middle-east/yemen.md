@@ -127,7 +127,7 @@ _female_: 19.9 years<br>
 the vast majority of the population is found in the Asir Mountains (part of the larger Sarawat Mountain system), located in the far western region of the country<br>
 
 **Urbanization**<br>
-_urban population_: 38.5% of total population (2021)<br>
+_urban population_: 39.2% of total population (2022)<br>
 _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 
 **Major urban areas - population**<br>
@@ -256,7 +256,7 @@ _forest_: 1% (2018 est.)<br>
 _other_: 54.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 38.5% of total population (2021)<br>
+_urban population_: 39.2% of total population (2022)<br>
 _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -342,8 +342,8 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Abd Rabuh Mansur HADI (GPC) elected as a consensus president with about 50% popular participation; no other candidates<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Majlis consists of:<br>Shura Council or Majlis Alshoora (111 seats; members appointed by the president; member tenure NA)<br> House of Representatives or Majlis al Nuwaab (301 seats; members directly elected in single-seat constituencies by simple majority vote to serve 6-year terms)<br>
-_elections_: <br>House of Representatives - last held on 27 April 2003 (next scheduled for April 2009 but postponed indefinitely)<br>
+_description_: bicameral Parliament or Majlis consists of:<br>Shura Council or Majlis Alshoora (111 seats; members appointed by the president; member tenure NA)<br>House of Representatives or Majlis al Nuwaab (301 seats; members directly elected in single-seat constituencies by simple majority vote to serve 6-year terms)<br>
+_elections_: Shura Council - last appointments NA (next appointments NA)<br>House of Representatives - last held in April 2019 (next to be held NA)<br>
 _election results_: <br>percent of vote by party - GPC 58.0%, Islah 22.6%, YSP 3.8%, Unionist Party 1.9%, other 13.7%; seats by party - GPC 238, Islah 46, YSP 8, Nasserist Unionist Party 3, National Arab Socialist Ba'ath Party 2, independent 4<br>
 
 **Judicial branch**<br>
@@ -356,10 +356,10 @@ General People’s Congress or GPC (3 factions: pro-Hadi [Abdrabbi Mansur HADI],
 (<br>
 
 **International organization participation**<br>
-AFESD, AMF, CAEU, CD, EITI (temporarily suspended), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMIS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+AFESD, AMF, CAEU, CD, EITI (temporarily suspended), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMHA, UNMIL, UNMIS, UNOCI, UNVIM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ahmad Awadh BIN MUBARAK (since 3 August 2015)<br>
+_chief of mission_: ambassador (vacant); note - on 18 December 2020, former Ambassador Ahmad Awadh BIN MUBARAK (since 3 August 2015) was appointed Yemen's Minister for Foreign Affairs and Expatriates<br>
 _chancery_: 2319 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 965-4760<br>
 _FAX_: [1] (202) 337-2017<br>

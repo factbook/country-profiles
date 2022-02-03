@@ -127,7 +127,7 @@ _female_: 30.3 years (2020 est.)<br>
 smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq<br>
 
 **Urbanization**<br>
-_urban population_: 89.6% of total population (2021)<br>
+_urban population_: 89.7% of total population (2022)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -238,7 +238,7 @@ _forest_: 0.7% (2018 est.)<br>
 _other_: 88% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 89.6% of total population (2021)<br>
+_urban population_: 89.7% of total population (2022)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

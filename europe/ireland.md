@@ -123,7 +123,7 @@ _female_: 38.2 years (2020 est.)<br>
 population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities<br>
 
 **Urbanization**<br>
-_urban population_: 63.9% of total population (2021)<br>
+_urban population_: 64.2% of total population (2022)<br>
 _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -241,7 +241,7 @@ _forest_: 10.9% (2018 est.)<br>
 _other_: 23% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 63.9% of total population (2021)<br>
+_urban population_: 64.2% of total population (2022)<br>
 _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -683,6 +683,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 
 **Military service age and obligation**<br>
 18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves); Irish citizen, European Economic Area citizenship, or refugee status (2021)<br>
+note - as of 2019, women made up about 7% of the military's full-time personnel<br>
 
 **Military - note**<br>
 <p>the Irish Defense Forces trace their origins back to the Irish Volunteers, which was established in 1913; the Irish Volunteers took part in the 1916 Easter Rising and the Irish War of Independence, 1919-1921</p> <p>Ireland has a long-standing policy of military neutrality; however, it participates in international peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO, but has a relationship going back to 1997 when it deployed personnel in support of the NATO-led peacekeeping operations in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; Ireland has been an active participate in UN peacekeeping operations since the 1950s</p><br>
@@ -699,7 +700,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p>Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 106 (2020)<br>
+_stateless persons_: 107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Ireland and Irish victims abroad; traffickers subject Irish children and foreign trafficking victims from Africa, Asia, Eastern Europe, and South America to sex trafficking; victims are exploited in forced domestic work, the restaurant industry, waste management, fishing, seasonal agriculture, and car washing services; Vietnamese and Chinese nationals convicted for cannabis cultivation often report indicators of forced labor, such as document retention, restriction of movement, and non-payment of wages; undocumented workers in the fishing industry and domestic workers, particularly au pairs, are vulnerable to trafficking; women from Eastern Europe forced into marriage in Ireland are at risk for sex trafficking and forced labor; the problem of forced labor in the country is growing<br>

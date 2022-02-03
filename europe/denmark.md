@@ -129,7 +129,7 @@ _female_: 43.1 years (2020 est.)<br>
 with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland<br>
 
 **Urbanization**<br>
-_urban population_: 88.2% of total population (2021)<br>
+_urban population_: 88.4% of total population (2022)<br>
 _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -248,7 +248,7 @@ _other_: 23.7% (2018 est.)<br>
 <strong>note:</strong> highest percentage of arable land for any country in the world<br>
 
 **Urbanization**<br>
-_urban population_: 88.2% of total population (2021)<br>
+_urban population_: 88.4% of total population (2022)<br>
 _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -686,10 +686,11 @@ the Danish military inventory is comprised of a mix of modern European, US, and 
 
 **Military deployments**<br>
 140 Middle East/Iraq (NATO) (2021)<br>
+note - in early 2022, Denmark deployed about 90 troops to Mali to assist French-led international counterterrorist operations against Islamic militants; the troops are scheduled to remain until 2023<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches (2021)<br>
-note(s) - women have been able serve in all military occupations, including combat arms, since 1988; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br>
+note(s) - women have been able serve in all military occupations, including combat arms, since 1988; as of 2019, they made up about 8% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br>
 
 **Military - note**<br>
 Denmark is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>Denmark is a member of the EU, but opted out of the EU’s Common Defense and Security Policy, and therefore does not participate in EU military operations or in the cooperation on development and acquisition of military capabilities within the EU framework</p> <p>the Danish Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br></p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
@@ -706,6 +707,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,878 (Syria), 5,399 (Eritrea) (2020)<br>
-_stateless persons_: 11,655 (2020)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021)<br>
+_stateless persons_: 11,608 (mid-year 2021)<br>
 

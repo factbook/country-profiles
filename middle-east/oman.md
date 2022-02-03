@@ -130,7 +130,7 @@ _female_: 25.1 years (2020 est.)<br>
 the vast majority of the population is located in and around the Al Hagar Mountains in the north of the country; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely poplulated<br>
 
 **Urbanization**<br>
-_urban population_: 87% of total population (2021)<br>
+_urban population_: 87.8% of total population (2022)<br>
 _rate of urbanization_: 2.32% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -249,7 +249,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 95.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 87% of total population (2021)<br>
+_urban population_: 87.8% of total population (2022)<br>
 _rate of urbanization_: 2.32% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -323,7 +323,6 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: Sultan and Prime Minister HAYTHAM bin Tariq bin Taimur Al-Said (since 11 January 2020); note - the monarch is both chief of state and head of government<br>
 _head of government_: Sultan and Prime Minister HAYTHAM bin Tariq bin Taimur Al-Said (since 11 January 2020)<br>
 _cabinet_: Cabinet appointed by the monarch<br>
-_elections/appointments_: members of the Ruling Family Council determine a successor from the sultan's extended family; if the Council cannot form a consensus within 3 days of the sultan's death or incapacitation, the Defense Council will relay a predetermined heir as chosen by the sultan<br>
 
 **Legislative branch**<br>
 _description_: bicameral Council of Oman or Majlis Oman consists of:<br>Council of State or Majlis al-Dawla (85 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens)<br> Consultative Council or Majlis al-Shura (86 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms); note - since political reforms in 2011, legislation from the Consultative Council is submitted to the Council of State for review by the Royal Court<br>
@@ -679,7 +678,7 @@ the SAF's inventory includes a mix of older and some more modern weapons systems
 <p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-003A Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Red Sea-Threats to US and International Shipping from Iran) effective 26 February 2021, which states in part that "heightened military activities and increased political tensions in this region continue to present risk to commercial shipping...there is a continued possibility that Iran and/or its regional proxies could take actions against US and partner interests in the region"; Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service; no conscription (2021)<br>
+18-30 years of age for voluntary military service (women have been allowed to serve since 2011); no conscription (2021)<br>
 
 **Military - note**<br>
 <p>the Sultan’s Armed Forces (SAF) have a longstanding security relationship with the British military going back to the 18th century; as of 2021, the SAF and the British maintained a joint training base in Oman and exercised together regularly; in 2017, Oman and the British signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port</p><br>

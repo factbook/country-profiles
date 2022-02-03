@@ -136,7 +136,7 @@ _female_: 25.7 years (2020 est.)<br>
 well over 90% of the population lives along the Mediterranean coast in and between Tripoli to the west and Al Bayda to the east; the interior remains vastly underpopulated due to the Sahara and lack of surface water as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 81% of total population (2021)<br>
+_urban population_: 81.3% of total population (2022)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -242,7 +242,7 @@ _forest_: 0.1% (2018 est.)<br>
 _other_: 91.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81% of total population (2021)<br>
+_urban population_: 81.3% of total population (2022)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -319,8 +319,8 @@ _residency requirement for naturalization_: varies from 3 to 5 years<br>
 **Executive branch**<br>
 _chief of state_: Chairman, Presidential Council, Mohammed Al MENFI (since 5 February 2021)<br>
 _head of government_: Prime Minister Abdul Hamid DUBAYBAH (since 5 February 2021)<br>
-_cabinet_: GNU Presidency Council&nbsp; - consisting of 3 members: Musa al-KONI (representing Libya's south region), Abdullah al-LAFI (representing the west region), and Mohammad Younes MANFI (representing the east region)<br>
-_elections/appointments_: election originally scheduled for 24 December 2021 postponed until at least late January 2022 due to disagreements among the political factions<br>
+_cabinet_: 3-member GNU Presidency Council: Musa al-KONI (representing Libya's south region), Abdullah al-LAFI (representing the west region), and Mohammad Younes MANFI (representing the east region)<br>
+_elections/appointments_: <p>Libya’s first direct presidential election was scheduled for 24 December 2021</p><br>
 _election results_: on 5 February 2021, a UN-led forum elected - in a runoff - Mohammed Al MENFI&nbsp; chairman, Presidential Council and Abdul Hamid DUBAYBAH, prime minister<br>
 
 **Legislative branch**<br>
@@ -329,7 +329,7 @@ _elections_: last held on 25 June 2014 (next to be held on 20 February 2022)<br>
 _election results_: for election held on 25 June 2014 - percent of vote by party - NA; seats by party - NA; composition - men 158, women 30, percent of women 16%; note - only 188 of the 200 seats were filled in the June 2014 election because of boycotts and lack of security at some polling stations; some elected members of the HoR also boycotted the election<br>
 
 **Judicial branch**<br>
-_highest courts_: Libya's judicial system is comprised of a supreme court, central high courts (in Tripoli, Benghazi, and Sabha), and a series of lower courts. The judicial system is factious given the ongoing tension between Libya's eastern and western regions. Since 2011, Libyan political factions and armed groups have targeted judges and courthouses.<br>
+_highest courts_: Libya's judicial system consists of a supreme court, central high courts (in Tripoli, Benghazi, and Sabha), and a series of lower courts; the judicial system is factious given the ongoing tension between Libya's eastern and western regions; since 2011, Libyan political factions and armed groups have targeted judges and courthouses<br>
 
 **Political parties and leaders**<br>
 NA<br><br>

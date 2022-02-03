@@ -128,7 +128,7 @@ _female_: 29.3 years (2020 est.)<br>
 athough it is the smallest country in land area in Central America, El Salvador has a population that is 18 times larger than Belize; at least 20% of the population lives abroad; high population density country-wide, with particular concentration around the capital of San Salvador<br>
 
 **Urbanization**<br>
-_urban population_: 74.1% of total population (2021)<br>
+_urban population_: 74.8% of total population (2022)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -256,7 +256,7 @@ _forest_: 13.6% (2018 est.)<br>
 _other_: 11.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 74.1% of total population (2021)<br>
+_urban population_: 74.8% of total population (2022)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -699,6 +699,7 @@ the FAES is dependent on a mix of mostly older imported platforms, largely from 
 
 **Military service age and obligation**<br>
 18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2021)<br>
+note - as of 2016, women made up about 6% of the active duty military<br>
 
 **Military - note**<br>
 <p>the National Civilian Police (Ministry of Justice and Public Security) is responsible for maintaining public security, while the Ministry of Defense is responsible for maintaining national security; the constitution separates public security and military functions, but allows the president to use the armed forces in exceptional circumstances to maintain internal peace and public security; Salvadoran presidents have deployed military troops for internal security duties for years, and President BUKELE has continued the tradition; in November 2019, he signed a decree authorizing military involvement in police duties to combat gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; as of 2021, about half of the Army was reportedly deployed in support of the National Police</p><br>

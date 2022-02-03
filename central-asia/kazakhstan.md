@@ -133,7 +133,7 @@ _female_: 32.8 years (2020 est.)<br>
 most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country<br>
 
 **Urbanization**<br>
-_urban population_: 57.8% of total population (2021)<br>
+_urban population_: 58% of total population (2022)<br>
 _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -256,7 +256,7 @@ _forest_: 1.2% (2018 est.)<br>
 _other_: 21.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 57.8% of total population (2021)<br>
+_urban population_: 58% of total population (2022)<br>
 _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -719,7 +719,7 @@ Kazakhstan has been a member of the Collective Security Treaty Organization (CST
 <p>in January 2019, the Kyrgyz Republic ratified the demarcation agreement of the Kazakh-Kyrgyz border; the demarcation of the Kazakh-Uzbek borders is ongoing; the ongoing demarcation with Russia began in 2007; demarcation with China completed in 2002</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 7,999 (2020)<br>
+_stateless persons_: 7,915 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Kazakhstan and Kazakhstanis abroad; traffickers lure victims from rural areas to larger cities with fake offers of employment; traffickers coerce or force Kazakhstani men and women into labor in Russia, Bahrain, Brazil, the Republic of Korea, Turkey, and the United Arab Emirates; sex traffickers exploit Kazakhstani women and girls in the Middle East, Europe, East Asia, the United States, Central Asian and Eastern European countries and rural areas in Kazakhstan; children are forced to beg and adults and children may be coerced into criminal behavior; traffickers are increasingly using debt-based coercion; traffickers capitalize on tough law enforcement policies on migrants to coerce them to remain and leverage these policies to threaten victims with punishment and deportation if they notify authorities, which fosters a distrust in law enforcement<br>

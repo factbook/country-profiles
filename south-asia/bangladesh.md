@@ -130,7 +130,7 @@ _female_: 28.6 years (2020 est.)<br>
 -2.93 migrant(s)/1,000 population (2021 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 38.9% of total population (2021)<br>
+_urban population_: 39.7% of total population (2022)<br>
 _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -261,7 +261,7 @@ _forest_: 11.1% (2018 est.)<br>
 _other_: 18.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 38.9% of total population (2021)<br>
+_urban population_: 39.7% of total population (2022)<br>
 _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -745,9 +745,9 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p>Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over undemarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh struggles to accommodate 912,000 Rohingya, Burmese Muslim minority from Rakhine State, living as refugees in Cox's Bazar; Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 907,766 (Burma) (2021) (includes an estimated 756,554 Rohingya refugees who have fled conflict since 25 August 2017)<br>
+_refugees (country of origin)_: 918,841 (Burma) (2021) (includes an estimated 756,554 Rohingya refugees who have fled conflict since 25 August 2017)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2020)<br>
-_stateless persons_: 866,457 (2020)<br>
+_stateless persons_: 889,704 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>transit country for illegal drugs produced in neighboring countries; does not manufacture precursor chemicals with the exception of sulphuric acid, hydrochloric acid, and toluene</p><br>

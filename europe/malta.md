@@ -123,7 +123,7 @@ _female_: 43.5 years (2020 est.)<br>
 most of the population lives on the eastern half of Malta, the largest of the three inhabited islands<br>
 
 **Urbanization**<br>
-_urban population_: 94.8% of total population (2021)<br>
+_urban population_: 94.9% of total population (2022)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -246,7 +246,7 @@ _forest_: 0.9% (2018 est.)<br>
 _other_: 66.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 94.8% of total population (2021)<br>
+_urban population_: 94.9% of total population (2022)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -664,7 +664,7 @@ the Armed Forces of Malta have approximately 2,000 active duty personnel (2021)<
 the small inventory of the Armed Forces of Malta consists of equipment from a mix of European countries, particularly Italy, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service; no conscription (2021)<br>
+18-30 years of age for voluntary military service (men and women); no conscription (2021)<br>
 
 **Military - note**<br>
 <p>Malta maintains a security policy of neutrality, but contributes to EU and UN military missions and joined NATO’s Partnership for Peace program in 1995 (suspended in 1996, but reactivated in 2008); it also participates in various bilateral and multinational military exercises; Malta cooperates closely with Italy on defense matters; in 1973, Italy established a military mission in Malta to provide advice, training, and search and rescue assistance</p> <p> </p><br>
@@ -675,7 +675,7 @@ the small inventory of the Armed Forces of Malta consists of equipment from a mi
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 11 (2020)<br>
+_stateless persons_: 11 (mid-year 2021)<br>
 <strong>note:</strong> 8,119 estimated refugee and migrant arrivals by sea (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>

@@ -122,7 +122,7 @@ _female_: 34.1 years (2020 est.)<br>
 approximately 90% of the population lives on the island of Saipan<br>
 
 **Urbanization**<br>
-_urban population_: 91.9% of total population (2021)<br>
+_urban population_: 92% of total population (2022)<br>
 _rate of urbanization_: 0.36% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -196,7 +196,7 @@ _forest_: 65.5% (2018 est.)<br>
 _other_: 27.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 91.9% of total population (2021)<br>
+_urban population_: 92% of total population (2022)<br>
 _rate of urbanization_: 0.36% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

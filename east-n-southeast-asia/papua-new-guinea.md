@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Papua New Guinea (PNG) was first settled between 50,000 and 60,000 years ago. PNG’s harsh geography consisting of mountains, jungles, and numerous river valleys, kept many of the arriving groups isolated, giving rise to PNG’s incredible ethnic and linguistic diversity. Agriculture was independently developed by some of these groups. Around 500 B.C., Austronesian voyagers settled along the coast. Spanish and Portuguese explorers periodically visited the island starting in the 1500s but none made it into the country’s interior. American and British whaling ships frequented the islands off the coast of New Guinea in the mid-1800s. In 1884, Germany declared a protectorate - and eventually a colony - over the northern part of what would become PNG and named it German New Guinea; days later the UK followed suit on the southern part and nearby islands and called it Papua. Most of their focus was on the coastal regions, leaving the highlands largely unexplored.<br><br>The UK put its colony under Australian administration in 1902 and formalized the act in 1906. At the outbreak of World War I, Australia occupied German New Guinea and continued to rule it after the war as a League of Nations Mandate. The discovery of gold along the Bulolo River in the 1920s, led prospectors to venture into the highlands, where they found about 1 million people living in isolated communities. Japan invaded New Guinea in 1941 and reached Papua the following year. Allied victories during the New Guinea campaign pushed out the Japanese, and after the end of the war, Australia combined the two territories into one administration. Sir Michael SOMARE won elections in 1972 on the promise of achieving independence, which was realized in 1975. <br><br>A secessionist movement in Bougainville, an island well endowed in copper and gold resources, reignited in 1988 with debates about land use, profits, and an influx of outsiders at the Panguna Copper Mine. Following elections in 1992, the PNG government took a hardline stance against Bougainville rebels and the resulting civil war led to about 20,000 deaths. In 1997, the PNG government hired mercenaries to support its troops in Bougainville, sparking an army mutiny and forcing the prime minister to resign. PNG and Bougainville signed a truce in 1997 and a peace agreement in 2001, which granted Bougainville - including some nearby islands - autonomy. An internationally-monitored nonbinding referendum asking Bougainvilleans to chose independence or greater self rule occurred in November 2019, with 98% of voters opting for independence.</p><br>
+<p>Papua New Guinea (PNG) was first settled between 50,000 and 60,000 years ago. PNG’s harsh geography consisting of mountains, jungles, and numerous river valleys, kept many of the arriving groups isolated, giving rise to PNG’s incredible ethnic and linguistic diversity. Agriculture was independently developed by some of these groups. Around 500 B.C., Austronesian voyagers settled along the coast. Spanish and Portuguese explorers periodically visited the island starting in the 1500s but none made it into the country’s interior. American and British whaling ships frequented the islands off the coast of New Guinea in the mid-1800s. In 1884, Germany declared a protectorate - and eventually a colony - over the northern part of what would become PNG and named it German New Guinea; days later the UK followed suit on the southern part and nearby islands and called it Papua. Most of their focus was on the coastal regions, leaving the highlands largely unexplored.<br><br>The UK put its colony under Australian administration in 1902 and formalized the act in 1906. At the outbreak of World War I, Australia occupied German New Guinea and continued to rule it after the war as a League of Nations Mandate. The discovery of gold along the Bulolo River in the 1920s, led prospectors to venture into the highlands, where they found about 1 million people living in isolated communities. Japan invaded New Guinea in 1941 and reached Papua the following year. Allied victories during the New Guinea campaign pushed out the Japanese, and after the end of the war, Australia combined the two territories into one administration. Sir Michael SOMARE won elections in 1972 on the promise of achieving independence, which was realized in 1975. <br><br>A secessionist movement in Bougainville, an island well endowed in copper and gold resources, reignited in 1988 with debates about land use, profits, and an influx of outsiders at the Panguna Copper Mine. Following elections in 1992, the PNG government took a hardline stance against Bougainville rebels and the resulting civil war led to about 20,000 deaths. In 1997, the PNG government hired mercenaries to support its troops in Bougainville, sparking an army mutiny and forcing the prime minister to resign. PNG and Bougainville signed a truce in 1997 and a peace agreement in 2001, which granted Bougainville autonomy. An internationally-monitored nonbinding referendum asking Bougainvilleans to chose independence or greater self rule occurred in November 2019, with 98% of voters opting for independence.</p><br>
 
 ## Geography
 
@@ -130,7 +130,7 @@ _female_: 24 years (2020 est.)<br>
 population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one-fifth of the population residing in urban areas<br>
 
 **Urbanization**<br>
-_urban population_: 13.5% of total population (2021)<br>
+_urban population_: 13.6% of total population (2022)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -249,7 +249,7 @@ _forest_: 63.1% (2018 est.)<br>
 _other_: 34.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 13.5% of total population (2021)<br>
+_urban population_: 13.6% of total population (2022)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -329,10 +329,10 @@ _residency requirement for naturalization_: 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Grand Chief Sir Bob DADAE (since 28 February 2017)<br>
-_head of government_: Prime Minister James MARAPE&nbsp;(since 30 May 2019); Deputy Prime Minister Charles ABEL (since 4 August 2017)<br>
+_head of government_: Prime Minister James MARAPE (since 30 May 2019); Deputy Prime Minister Sam BASIL (since 20 December 2020)<br>
 _cabinet_: National Executive Council appointed by the governor general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general nominated by the National Parliament and appointed by the chief of state; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general pending the outcome of a National Parliament vote<br>
-_election results_: Peter Paire O'NEILL (PNC) reelected prime minister; National Parliament vote - 60 to 46<br>
+_election results_: James MARAPE elected prime minister; National Parliament vote - 101 to 8<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (111 seats; members directly elected in single-seat constituencies - 89 local, 20 provinicial, the autonomous province of Bouganville, and the National Capital District - by majority preferential vote; members serve 5-year terms); note - the constitution allows up to 126 seats<br>
@@ -693,9 +693,9 @@ the PNGDF has a limited inventory consisting of a diverse mix of foreign-supplie
 <p>relies on assistance from Australia to keep out illegal cross-border activities from primarily Indonesia, including goods smuggling, illegal narcotics trafficking, and squatters and secessionists</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,501 (Indonesia) (2020)<br>
+_refugees (country of origin)_: 11,601 (Indonesia) (mid-year 2021)<br>
 _IDPs_: 14,000 (natural disasters, tribal conflict, inter-communal violence, development projects) (2020)<br>
-_stateless persons_: 9 (2020)<br>
+_stateless persons_: 9 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Papua New Guinea is a source, destination, and transit country for men, women, and children subjected to sex trafficking and forced labor; women and children are subjected to sex trafficking and domestic servitude; families may sell girls into forced marriages to settle debts, leaving them vulnerable to forced domestic service; local and Chinese men are forced to labor in logging and mining camps; migrant women from Malaysia, Thailand, China, and the Philippines are subjected to sex trafficking and domestic servitude at logging and mining camps, fisheries, and entertainment sites<br>

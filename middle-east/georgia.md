@@ -125,7 +125,7 @@ _female_: 41.4 years (2020 est.)<br>
 settlement concentrated in the central valley, particularly in the capital city of Tbilisi in the east; smaller urban agglomerations dot the Black Sea coast, with Bat'umi being the largest<br>
 
 **Urbanization**<br>
-_urban population_: 59.9% of total population (2021)<br>
+_urban population_: 60.3% of total population (2022)<br>
 _rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Abkhazia and South Ossetia<br>
 
@@ -249,7 +249,7 @@ _forest_: 39.4% (2018 est.)<br>
 _other_: 25.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 59.9% of total population (2021)<br>
+_urban population_: 60.3% of total population (2022)<br>
 _rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Abkhazia and South Ossetia<br>
 
@@ -683,7 +683,7 @@ the Georgian Defense Forces are equipped mostly with older Russian and Soviet-er
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary active duty military service; conscription abolished in 2016, but reinstated in 2017 for men 18 to 27 years of age; conscript service obligation is 12 months (2021)<br>
-note(s) - approximately 6-7,000 individuals are called up annually for conscription for service; approximately 25% enter the Defense Forces, while the remainder serve in the Ministry of Internal Affairs or as prison guards in the Ministry of Corrections<br>
+note(s) - approximately 6-7,000 individuals are called up annually for conscription for service; approximately 25% enter the Defense Forces, while the remainder serve in the Ministry of Internal Affairs or as prison guards in the Ministry of Corrections; as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military - note**<br>
 as of 2021, Georgia did not have any military stationed in the separatist territories of Abkhazia and South Ossetia, but approximately 7-10,000 Russian troops have been stationed in these regions since the 2008 Russia-Georgia War<br>
@@ -695,7 +695,7 @@ as of 2021, Georgia did not have any military stationed in the separatist territ
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 304,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2019)<br>
-_stateless persons_: 531 (2020)<br>
+_stateless persons_: 534 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>located on a major drug trafficking route where Southwest Asian opium, heroin and precursor chemicals are transported; marijuana trafficking increased</p><br>

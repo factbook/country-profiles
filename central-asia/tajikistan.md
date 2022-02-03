@@ -130,7 +130,7 @@ _female_: 26 years (2020 est.)<br>
 the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west<br>
 
 **Urbanization**<br>
-_urban population_: 27.7% of total population (2021)<br>
+_urban population_: 28% of total population (2022)<br>
 _rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -253,7 +253,7 @@ _forest_: 2.9% (2018 est.)<br>
 _other_: 62.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 27.7% of total population (2021)<br>
+_urban population_: 28% of total population (2022)<br>
 _rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -682,7 +682,6 @@ the Tajikistan Armed Forces' inventory is comprised of older Russian and Soviet-
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary military service for men; 24 month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2021)<br>
-note - approximately 15-16,000 men are drafted annually for compulsory military service<br>
 
 **Military - note**<br>
 Tajikistan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>
@@ -699,8 +698,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>in 2006, China and Tajikistan pledged to commence demarcation of the revised boundary agreed to in the delimitation of 2002; talks continue with Uzbekistan to delimit border and remove minefields; disputes in Isfara Valley delay delimitation with Kyrgyzstan</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,573 (Afghanistan) (2020)<br>
-_stateless persons_: 6,385 (2020)<br>
+_refugees (country of origin)_: 6,775 (Afghanistan) (mid-year 2021)<br>
+_stateless persons_: 6,141 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 Tajikistan is a major route for drug trafficking in Central Asia; opiates and cannabis travel from Afghanistan through Tajikistan to markets in Russia, Belarus, and Western and Central Europe<br>

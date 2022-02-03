@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-The uninhabited islands were discovered and colonized by the Portuguese in the 15th century; Cabo Verde subsequently became a trading center for African slaves and later an important coaling and resupply stop for whaling and transatlantic shipping. The fusing of European and various African cultural traditions is reflected in Cabo Verde&rsquo;s Krioulo language, music, and pano textiles. Following independence in 1975, and a tentative interest in unification with Guinea-Bissau, a one-party system was established and maintained until multi-party elections were held in 1990. Cabo Verde continues to sustain one of Africa's most stable democratic governments and one of its most stable economies, maintaining a currency formerly pegged to the Portuguese escudo and then the euro since 1998. Repeated droughts during the second half of the 20th century caused significant hardship and prompted heavy emigration. As a result, Cabo Verde's expatriate population - concentrated in Boston and Western Europe - is greater than its domestic one. Most Cabo Verdeans have both African and Portuguese antecedents. Cabo Verde&rsquo;s population descends from its first permanent inhabitants in the late 15th-century &ndash; a preponderance of West African slaves, a small share of Portuguese colonists, and even fewer Italians, Spaniards, and Portuguese Jews. Among the nine inhabited islands, population distribution is variable. Islands in the east are very dry and are home to the country's growing tourism industry. The more western islands receive more precipitation and support larger populations, but agriculture and livestock grazing have damaged their soil fertility and vegetation. For centuries, the country&rsquo;s overall population size has fluctuated significantly, as recurring periods of famine and epidemics have caused high death tolls and emigration.<br>
+The uninhabited islands were discovered and colonized by the Portuguese in the 15th century; Cabo Verde subsequently became a trading center for African slaves and later an important coaling and resupply stop for whaling and transatlantic shipping. The fusing of European and various African cultural traditions is reflected in Cabo Verde&rsquo;s Krioulo language, music, and pano textiles. Following independence in 1975, and a tentative interest in unification with Guinea-Bissau, a one-party system was established and maintained until multi-party elections were held in 1990. Cabo Verde continues to sustain one of Africa's most stable democratic governments and one of its most stable economies, maintaining a currency formerly pegged to the Portuguese escudo and then the euro since 1998. Repeated droughts during the second half of the 20th century caused significant hardship and prompted heavy emigration. As a result, Cabo Verde's expatriate population - concentrated in Boston and Western Europe - is greater than its domestic one. Most Cabo Verdeans have both African and Portuguese antecedents. Cabo Verde&rsquo;s population descends from its first permanent inhabitants in the late 15th-century &ndash; a preponderance of West African slaves, a small share of Portuguese colonists, and even fewer Italians and Spaniards. Among the nine inhabited islands, population distribution is variable. Islands in the east are very dry and are home to the country's growing tourism industry. The more western islands receive more precipitation and support larger populations, but agriculture and livestock grazing have damaged their soil fertility and vegetation. For centuries, the country&rsquo;s overall population size has fluctuated significantly, as recurring periods of famine and epidemics have caused high death tolls and emigration. In November 2021, Jose Maria NEVES was sworn in as Cabo Verde's latest president.<br>
 
 ## Geography
 
@@ -126,7 +126,7 @@ _female_: 27.6 years (2020 est.)<br>
 among the nine inhabited islands, population distribution is variable; islands in the east are very dry and are only sparsely settled to exploit their extensive salt deposits; the more southerly islands receive more precipitation and support larger populations, but agriculture and livestock grazing have damaged the soil fertility and vegetation; approximately half of the population lives on Sao Tiago Island, which is the location of the capital of Praia; Mindelo, on the northern island of Sao Vicente, also has a large urban population as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 67.1% of total population (2021)<br>
+_urban population_: 67.5% of total population (2022)<br>
 _rate of urbanization_: 1.83% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -245,7 +245,7 @@ _forest_: 21% (2018 est.)<br>
 _other_: 60.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 67.1% of total population (2021)<br>
+_urban population_: 67.5% of total population (2022)<br>
 _rate of urbanization_: 1.83% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -665,7 +665,7 @@ the FACV has a limited amount of mostly dated and second-hand equipment, largely
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 115 (2020)<br>
+_stateless persons_: 115 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 Cabo Verde is a transit hub for cocaine, marijuana, and other drugs trafficked from Latin America to Europe; marijuana, cocaine, hashish, heroin, and methamphetamine are the most frequently consumed drugs in Cabo Verde<br>

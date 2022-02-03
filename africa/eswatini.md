@@ -74,7 +74,7 @@ landlocked; almost completely surrounded by South Africa<br>
 
 **Population**<br>
 1,113,276 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: liSwati (singular), emaSwati (plural); note - former term, Swazi(s), still used among English speakers<br>
@@ -126,7 +126,7 @@ _female_: 24.7 years (2020 est.)<br>
 because of its mountainous terrain, the population distribution is uneven throughout the country, concentrating primarily in valleys and plains as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 24.4% of total population (2021)<br>
+_urban population_: 24.6% of total population (2022)<br>
 _rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -251,7 +251,7 @@ _forest_: 31.7% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 24.4% of total population (2021)<br>
+_urban population_: 24.6% of total population (2022)<br>
 _rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

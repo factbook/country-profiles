@@ -127,7 +127,7 @@ _female_: 45 years (2020 est.)<br>
 with approximately 70% of the country considered mountainous, the country's population is primarily concentrated in the lowland areas, where density is quite high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated<br>
 
 **Urbanization**<br>
-_urban population_: 81.4% of total population (2021)<br>
+_urban population_: 81.4% of total population (2022)<br>
 _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -243,7 +243,7 @@ _forest_: 63.9% (2018 est.)<br>
 _other_: 18% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81.4% of total population (2021)<br>
+_urban population_: 81.4% of total population (2022)<br>
 _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -702,7 +702,7 @@ note(s) - women, in service since 1950, are able to serve in all branches, inclu
 <p>Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953; periodic incidents with North Korea in the Yellow Sea over the Northern Limit Line, which South Korea claims as a maritime boundary; South Korea and Japan claim Liancourt Rocks (Tok-do/Take-shima), occupied by South Korea since 1954</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 203 (2020)<br>
+_stateless persons_: 204 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>precursor chemicals used for illicit drugs, such as acetic anhydride, pseudoephedrine, and ephedrine, imported from the United States, Japan, India, and China and then either resold within South Korea or smuggled into other countries</p> <p> </p><br>

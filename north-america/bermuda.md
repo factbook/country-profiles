@@ -122,7 +122,7 @@ _female_: 45.7 years (2020 est.)<br>
 relatively even population distribution throughout<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: -0.2% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -211,7 +211,7 @@ _forest_: 20% (2018 est.)<br>
 _other_: 65.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: -0.2% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>

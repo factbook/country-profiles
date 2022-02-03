@@ -84,7 +84,7 @@ sometimes referred to as the hinge of Africa because of its central location on 
 
 **Population**<br>
 28,524,175 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Cameroonian(s)<br>
@@ -137,7 +137,7 @@ _female_: 18.8 years (2020 est.)<br>
 population concentrated in the west and north, with the interior of the country sparsely populated as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 58.1% of total population (2021)<br>
+_urban population_: 58.7% of total population (2022)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -268,7 +268,7 @@ _forest_: 41.7% (2018 est.)<br>
 _other_: 37.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 58.1% of total population (2021)<br>
+_urban population_: 58.7% of total population (2022)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

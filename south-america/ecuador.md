@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-What is now Ecuador formed part of the northern Inca Empire until the Spanish conquest in 1533. Quito became a seat of Spanish colonial government in 1563 and part of the Viceroyalty of New Granada in 1717. The territories of the Viceroyalty - New Granada (Colombia), Venezuela, and Quito - gained their independence between 1819 and 1822 and formed a federation known as Gran Colombia. When Quito withdrew in 1830, the traditional name was changed in favor of the "Republic of the Equator." Between 1904 and 1942, Ecuador lost territories in a series of conflicts with its neighbors. A border war with Peru that flared in 1995 was resolved in 1999. Although Ecuador marked 30 years of civilian governance in 2004, the period was marred by political instability. Protests in Quito contributed to the mid-term ouster of three of Ecuador's last four democratically elected presidents. In late 2008, voters approved a new constitution, Ecuador's 20th since gaining independence. General elections were held in April 2021, and voters elected Guillermo LASSO president; he took office the following month.<br>
+What is now Ecuador formed part of the northern Inca Empire until the Spanish conquest in 1533. Quito became a seat of Spanish colonial government in 1563 and part of the Viceroyalty of New Granada in 1717. The territories of the Viceroyalty - New Granada (Colombia), Venezuela, and Quito - gained their independence between 1819 and 1822 and formed a federation known as Gran Colombia. When Quito withdrew in 1830, the traditional name was changed in favor of the "Republic of the Equator." Between 1904 and 1942, Ecuador lost territories in a series of conflicts with its neighbors. A border war with Peru that flared in 1995 was resolved in 1999. Although Ecuador marked 30 years of civilian governance in 2004, the period was marred by political instability. Protests in Quito contributed to the mid-term ouster of three of Ecuador's last four democratically elected presidents. In late 2008, voters approved a new constitution, Ecuador's 20th since gaining independence. Guillermo LASSO was elected president in April 2021 becoming the country's first center-right president in nearly two decades when he took office the following month.<br>
 
 ## Geography
 
@@ -135,7 +135,7 @@ _female_: 29.6 years (2020 est.)<br>
 nearly half of the population is concentrated in the interior in the Andean intermontane basins and valleys, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 64.4% of total population (2021)<br>
+_urban population_: 64.6% of total population (2022)<br>
 _rate of urbanization_: 1.62% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -259,7 +259,7 @@ _forest_: 38.9% (2018 est.)<br>
 _other_: 31.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 64.4% of total population (2021)<br>
+_urban population_: 64.6% of total population (2022)<br>
 _rate of urbanization_: 1.62% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -715,6 +715,7 @@ the International Maritime Bureau continues to report the territorial and offsho
 
 **Military service age and obligation**<br>
 18 years of age for selective conscript military service, although conscription was suspended in 2008; 18 years of age for voluntary military service; Ecuadorian birth requirement; 1-year service obligation; females have been allowed to serve in all branches since 2012 (2021)<br>
+note - in 2017, women made up an estimated 3% of the military<br>
 
 **Military - note**<br>
 <p>border conflicts with Peru dominated the military’s focus until the late 1990s; as of 2021, border security remained a priority, but in more recent years, security challenges have shifted towards counterinsurgency and counter-narcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, has spilled over the border; troop deployments along the border with Colombia were scaled back following the 2016 signing of a peace agreement between the Colombian Government and the Revolutionary Armed Forces of Colombia (FARC) terrorist group (see Appendix T), but recent violence associated with FARC dissidents to the agreement have led Ecuador and Colombia to reinforce their shared border; since 2012, the Ecuadorian Government has also expanded the military’s role in general public security and counter-narcotics operations, in part due to police corruption and ineffectiveness</p> <p>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010</p> <p> </p><br>

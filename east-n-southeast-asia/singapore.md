@@ -126,7 +126,7 @@ _female_: 35.7 years (2020 est.)<br>
 most of the urbanization is along the southern coast, with relatively dense population clusters found in the central areas<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -247,7 +247,7 @@ _forest_: 3.3% (2018 est.)<br>
 _other_: 95.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -680,10 +680,10 @@ the International Maritime Bureau reports the territorial and offshore waters in
 
 **Military service age and obligation**<br>
 18-21 years of age for male compulsory military service; 16 1/2 years of age for voluntary enlistment (with parental consent); 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2021)<br>
-note(s) - all conscripts undergo basic military training and most serve in the Armed Forces, but some go into the Police Force or Civil Defense Force; conscripts reportedly comprise approximately 80% of the defense establishment<br>
+note(s) - under the Enlistment Act, all male Singaporean citizens and permanent residents, unless exempted, are required to enter National Service (NS) upon attaining the age of 18; most NS conscripts serve in the SAF, but some go into the Police Force or Civil Defense Force; as of 2020, conscripts comprised over half of the defense establishment; as of 2017, women made up about 7% of the active force<br>
 
 **Military - note**<br>
-<p>as of 2021, the Singapore Armed Forces were widely viewed as the best equipped in southeast Asia; the Army was largely based on conscripts and reservists with a small cadre of professional soldiers, while the Air Force and Navy were primarily comprised of well-trained professionals</p><br>
+<p>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965; as of 2021, the SAF was widely viewed as the best equipped military in southeast Asia; the Army was largely based on conscripts and reservists with a small cadre of professional soldiers, while the Air Force and Navy were primarily comprised of well-trained professionals</p><br>
 
 ## Terrorism
 
@@ -693,7 +693,7 @@ note(s) - all conscripts undergo basic military training and most serve in the A
 <p>disputes with Malaysia over territorial waters, airspace, the price of fresh water delivered to Singapore from Malaysia, Singapore's extensive land reclamation works, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, ICJ awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia, but did not rule on maritime regimes, boundaries, or disposition of South Ledge; Indonesia and Singapore continue to work on finalization of their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island; piracy remains a problem in the Malacca Strait</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 1,109 (2020)<br>
+_stateless persons_: 1,109 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>drug abuse limited because of aggressive law enforcement efforts, including carrying out death sentences; as a transportation and financial services hub, Singapore is vulnerable, despite strict laws and enforcement, as a venue for money laundering</p><br>

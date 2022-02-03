@@ -127,7 +127,7 @@ _female_: 44.8 years (2020 est.)<br>
 the northern and central areas of the country are the most densely populated<br>
 
 **Urbanization**<br>
-_urban population_: 49.4% of total population (2021)<br>
+_urban population_: 49.8% of total population (2022)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -249,7 +249,7 @@ _forest_: 42.8% (2018 est.)<br>
 _other_: 15% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 49.4% of total population (2021)<br>
+_urban population_: 49.8% of total population (2022)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -688,6 +688,7 @@ the inventory for the Armed Forces of Bosnia and Herzegovina includes mainly Sov
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for E-1 through E-4, mandatory retirement at age 50 and 30 years of service for E-5 through E-9, mandatory retirement at age 55 and 30 years of service for all officers; conscription abolished in 2005 (2021)<br>
+note - as of 2019, women made up about 7% of the military's full-time personnel<br>
 
 **Military - note**<br>
 <p>the Armed Forces of Bosnia and Herzegovina are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2003 Law on Defense, which also established the country’s Ministry of Defense</p> <p>Bosnia and Herzegovina joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; as of 2021, NATO maintained a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to the European Union Force deployed there</p> <p> </p><br>
@@ -706,7 +707,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
-_stateless persons_: 66 (2020)<br>
+_stateless persons_: 149 (mid-year 2021)<br>
 <strong>note:</strong> 85,908 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Trafficking in persons**<br>

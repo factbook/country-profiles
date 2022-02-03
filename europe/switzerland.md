@@ -133,7 +133,7 @@ _female_: 43.7 years (2020 est.)<br>
 population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement<br>
 
 **Urbanization**<br>
-_urban population_: 74% of total population (2021)<br>
+_urban population_: 74.1% of total population (2022)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -251,7 +251,7 @@ _forest_: 31.5% (2018 est.)<br>
 _other_: 29.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 74% of total population (2021)<br>
+_urban population_: 74.1% of total population (2022)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -724,8 +724,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,816 (Eritrea), 19,869 (Syria), 14,523 (Afghanistan), 6,016 (Sri Lanka), 5,447 (Turkey) (2020)<br>
-_stateless persons_: 711 (2020)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021)<br>
+_stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 major source of precursor chemicals used in the production of illicit narcotics; a significant importer and exporter of ephedrine and pseudoephedrine<br>

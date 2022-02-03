@@ -123,7 +123,7 @@ _female_: 27.6 years (2020 est.)<br>
 over half of the population resides on the atoll of Funafuti<br>
 
 **Urbanization**<br>
-_urban population_: 64.8% of total population (2021)<br>
+_urban population_: 65.5% of total population (2022)<br>
 _rate of urbanization_: 2.08% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -225,7 +225,7 @@ _forest_: 33.3% (2018 est.)<br>
 _other_: 6.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 64.8% of total population (2021)<br>
+_urban population_: 65.5% of total population (2022)<br>
 _rate of urbanization_: 2.08% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -287,7 +287,7 @@ _residency requirement for naturalization_: na<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Acting Governor General Teniku TALESI Honolulu<br>(since 19 August 2019)<br>
+_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Tofiga Vaevalu FALANI (since 29 August 2021)<br>
 _head of government_: Prime Minister Kausea NATANO (since 19 September 2019)<br>
 _cabinet_: Cabinet appointed by the governor general on recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections<br>

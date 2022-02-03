@@ -126,7 +126,7 @@ _female_: 36.2 years (2020 est.)<br>
 population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east<br>
 
 **Urbanization**<br>
-_urban population_: 62.6% of total population (2021)<br>
+_urban population_: 62.9% of total population (2022)<br>
 _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -237,7 +237,7 @@ _forest_: 46% (2018 est.)<br>
 _other_: 32.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 62.6% of total population (2021)<br>
+_urban population_: 62.9% of total population (2022)<br>
 _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>

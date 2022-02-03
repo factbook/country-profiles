@@ -125,7 +125,7 @@ _female_: 30.1 years (2020 est.)<br>
 population density is high throughout, but increases in and around Kingston, Montego Bay, and Port Esquivel<br>
 
 **Urbanization**<br>
-_urban population_: 56.7% of total population (2021)<br>
+_urban population_: 57% of total population (2022)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -248,7 +248,7 @@ _forest_: 31.1% (2018 est.)<br>
 _other_: 27.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 56.7% of total population (2021)<br>
+_urban population_: 57% of total population (2022)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -330,7 +330,7 @@ _judge selection and term of office_: chief justice of the Supreme Court and pre
 _subordinate courts_: resident magistrate courts, district courts, and petty sessions courts<br>
 
 **Political parties and leaders**<br>
-Jamaica Labor Party or JLP [Andrew Michael HOLNESS]<br>People's National Party or PNP [Dr. Peter David PHILLIPS]<br>National Democratic Movement or NDM [Peter TOWNSEND]<br>
+Jamaica Labor Party or JLP [Andrew Michael HOLNESS]<br>People's National Party or PNP [Mark GOLDING]<br>National Democratic Movement or NDM [Peter TOWNSEND]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

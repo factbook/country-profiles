@@ -132,7 +132,7 @@ _female_: 28.5 years (2020 est.)<br>
 the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains<br>
 
 **Urbanization**<br>
-_urban population_: 37.1% of total population (2021)<br>
+_urban population_: 37.5% of total population (2022)<br>
 _rate of urbanization_: 2.05% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -254,7 +254,7 @@ _forest_: 5.1% (2018 est.)<br>
 _other_: 39.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 37.1% of total population (2021)<br>
+_urban population_: 37.5% of total population (2022)<br>
 _rate of urbanization_: 2.05% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -697,7 +697,7 @@ Kyrgyzstan has been a member of the Collective Security Treaty Organization (CST
 <p>disputes in Isfara Valley delay completion of delimitation with Tajikistan; delimitation of approximately 15% or 200 km of border with Uzbekistan is hampered by serious disputes over enclaves and other areas</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 18 (2020)<br>
+_stateless persons_: 16 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Kyrgyzstan and Kyrgyzstanis abroad; Kyrgyz men, women, and children are exploited in forced labor in Kyrgyzstan, Russia, Kazakhstan, Turkey and other European countries specifically in agriculture, construction, textiles, domestic service, and childcare; sex traffickers exploit Kyrgyz women and girls domestically and in India, Kazakhstan, Russia, South Korea, Turkey, and the United Arab Emirates; problems with police misconduct and corruption include allegations that police threaten and extort sex trafficking victims and accept bribes from alleged traffickers to drop cases; street children who beg or do domestic work are vulnerable to traffickers<br>

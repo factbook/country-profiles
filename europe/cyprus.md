@@ -128,7 +128,7 @@ _female_: 39.4 years (2020 est.)<br>
 population concentrated in central Nicosia and in the major cities of the south: Paphos, Limassol, and Larnaca<br>
 
 **Urbanization**<br>
-_urban population_: 66.9% of total population (2021)<br>
+_urban population_: 66.9% of total population (2022)<br>
 _rate of urbanization_: 0.76% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -254,7 +254,7 @@ _forest_: 18.8% (2018 est.)<br>
 _other_: 67.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 66.9% of total population (2021)<br>
+_urban population_: 66.9% of total population (2022)<br>
 _rate of urbanization_: 0.76% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -696,7 +696,7 @@ the inventory of the Cypriot National Guard is a mix of Soviet-era and some more
 Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; 14-month service obligation (2021)<br>
 
 **Military - note**<br>
-the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UNFICYP mission had about 1,000 personnel as of August 2021<br>
+the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UNFICYP mission had about 1,000 personnel as of November 2021<br>
 
 ## Terrorism
 
@@ -710,9 +710,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,797 (Syria) (2020)<br>
+_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021)<br>
 _IDPs_: 228,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2020)<br>
-_stateless persons_: 56 (2020)<br>
+_stateless persons_: 66 (mid-year 2021)<br>
 <strong>note:</strong> 31,219 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>

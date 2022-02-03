@@ -125,7 +125,7 @@ _female_: 21.5 years (2020 est.)<br>
 the capital city of Maroni, located on the western side of the island of Grande Comore, is the country's largest city; however, of the three islands that comprise Comoros, it is Anjouan that is the most densely populated as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 29.6% of total population (2021)<br>
+_urban population_: 29.9% of total population (2022)<br>
 _rate of urbanization_: 2.97% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -245,7 +245,7 @@ _forest_: 1.4% (2018 est.)<br>
 _other_: 14.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 29.6% of total population (2021)<br>
+_urban population_: 29.9% of total population (2022)<br>
 _rate of urbanization_: 2.97% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

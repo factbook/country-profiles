@@ -133,7 +133,7 @@ _female_: 45 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Urbanization**<br>
-_urban population_: 56.7% of total population (2021)<br>
+_urban population_: 56.9% of total population (2022)<br>
 _rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Kosovo<br>
 
@@ -263,7 +263,7 @@ _forest_: 31.6% (2018 est.)<br>
 _other_: 10.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 56.7% of total population (2021)<br>
+_urban population_: 56.9% of total population (2022)<br>
 _rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Kosovo<br>
 
@@ -709,6 +709,7 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished January 2011 (2021)<br>
+note - as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military - note**<br>
 <p>Serbia does not aspire to join NATO, but has cooperated with the Alliance since 2006 when it joined the Partnership for Peace program</p><br>
@@ -719,9 +720,9 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 <p>Serbia with several other states protest the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; several thousand NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo authority continue to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority in Kosovo; Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,675 (Croatia), 8,129 (Bosnia and Herzegovina) (2019)<br>
+_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
-_stateless persons_: 2,144 (includes stateless persons in Kosovo) (2020)<br>
+_stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
 <strong>note:</strong> 813,549 estimated refugee and migrant arrivals (January 2015-December 2021); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
 
 **Illicit drugs**<br>

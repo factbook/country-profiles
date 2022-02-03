@@ -130,7 +130,7 @@ _female_: 34.2 years (2020 est.)<br>
 highest population density is found in the far eastern area of the country, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population<br>
 
 **Urbanization**<br>
-_urban population_: 56.8% of total population (2021)<br>
+_urban population_: 57.2% of total population (2022)<br>
 _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Nagorno-Karabakh<br>
 
@@ -253,7 +253,7 @@ _forest_: 11.3% (2018 est.)<br>
 _other_: 31.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 56.8% of total population (2021)<br>
+_urban population_: 57.2% of total population (2022)<br>
 _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Nagorno-Karabakh<br>
 
@@ -688,7 +688,8 @@ information varies; approximately 65,000 total active troops (55,000 Army; 2,000
 the inventory of the Azerbaijan military is comprised mostly of Russian and Soviet-era weapons systems with a smaller mix of equipment from other countries; since 2010, Russia is the leading supplier of arms to Azerbaijan, followed by Israel and Turkey (2021)<br>
 
 **Military service age and obligation**<br>
-men age 18-35 years for compulsory military service; service obligation 18 months (non-university graduate) or 12 months (university graduates); 17 years of age for voluntary service; 17-year-olds are considered to be on active service at cadet military schools (2021)<br>
+men age 18-35 years for compulsory military service; service obligation 18 months (non-university graduate) or 12 months (university graduates); 17 years of age for voluntary service (men and women); 17-year-olds are considered to be on active service at cadet military schools (2021)<br>
+note - as of 2018, women made up an estimated 3% of the active duty military<br>
 
 **Military - note**<br>
 since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remained high through 2021, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory<br>
@@ -706,7 +707,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 735,000 (conflict with Armenia over Nagorno-Karabakh; IDPs are mainly ethnic Azerbaijanis but also include ethnic Kurds, Russians, and Turks predominantly from occupied territories around Nagorno-Karabakh; includes IDPs' descendants, returned IDPs, and people living in insecure areas and excludes people displaced by natural disasters; around half the IDPs live in the capital Baku) (2020)<br>
-_stateless persons_: 3,585 (2020)<br>
+_stateless persons_: 3,585 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Azerbaijan and exploit Azerbaijanis abroad; Azerbaijani men and boys experience forced labor domestically and in Qatar, Russia, and the UAE; Azerbaijani women and children are subjected to sex trafficking domestically and in Iran, Malaysia, Pakistan, Qatar, Russia, Turkey, and the UAE; Azerbaijan is a destination country for sex and forced labor trafficking victims from China, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan; some children are exploited domestically for forced begging and forced labor as roadside vendors and at tea houses and wedding venues<br>

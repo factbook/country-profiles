@@ -129,7 +129,7 @@ _female_: 43.9 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Urbanization**<br>
-_urban population_: 79.9% of total population (2021)<br>
+_urban population_: 80.3% of total population (2022)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -254,7 +254,7 @@ _forest_: 42.7% (2018 est.)<br>
 _other_: 13.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 79.9% of total population (2021)<br>
+_urban population_: 80.3% of total population (2022)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -710,7 +710,7 @@ note - conscripts comprise an estimated 40% of the military<br>
 <p>boundary demarcated with Latvia and Lithuania; as a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 6,296 (2020)<br>
+_stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims and exploit Belarusians abroad; the majority of trafficking victims are men subjected to forced labor; most Belarusian victims are trafficked in Belarus and Russia, but also in Poland, Turkey, and other Eurasian and Middle Eastern countries; the government continued to subject factory workers, civil servants, and students to state-sponsored forced labor harvesting crops on state-owned farms or cleaning streets<br>

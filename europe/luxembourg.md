@@ -126,7 +126,7 @@ _female_: 40 years (2020 est.)<br>
 most people live in the south, on or near the border with France<br>
 
 **Urbanization**<br>
-_urban population_: 91.7% of total population (2021)<br>
+_urban population_: 91.9% of total population (2022)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -242,7 +242,7 @@ _forest_: 33.5% (2018 est.)<br>
 _other_: 15.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 91.7% of total population (2021)<br>
+_urban population_: 91.9% of total population (2022)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -675,6 +675,7 @@ the inventory of Luxembourg's Army is a mix of European and US equipment; since 
 
 **Military service age and obligation**<br>
 18-26 years of age for male and female voluntary military service; no conscription (abolished 1969); Luxembourg citizen or EU citizen with 3-year residence in Luxembourg (2021)<br>
+note - as of 2019, women made up about 8% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Luxembourg is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
@@ -685,5 +686,5 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 194 (2020)<br>
+_stateless persons_: 194 (mid-year 2021)<br>
 

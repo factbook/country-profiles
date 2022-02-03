@@ -131,7 +131,7 @@ _female_: 27.9 years (2020 est.)<br>
 densest settlement is along the Persian Gulf, particularly in Kuwait City and on Bubiyan Island; significant population threads extend south and west along highways that radiate from the capital, particularly in the southern half of the country<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 1.35% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -242,7 +242,7 @@ _forest_: 0.4% (2018 est.)<br>
 _other_: 91.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 1.35% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -315,8 +315,8 @@ _residency requirement for naturalization_: not specified<br>
 21 years of age and at least 20-year citizenship<br>
 
 **Executive branch**<br>
-_chief of state_: Amir NAWAF al-Ahmad al-Jabir al-Sabah (since 30 September 2020); Crown Prince Sheikh MESHAAL Al Ahmad Al Sabah, born in 1940, is the brother of Amir NAWAF al-Ahmad al-Jabir al-Sabah<br>
-_head of government_: &nbsp;Prime Minister JABIR AL-MUBARAK al-Hamad al-Sabah (since 30 November 2011); First Deputy Prime Minister NASIR Sabah al-Ahmad al-Sabah (since 11 December 2017); Deputy Prime Ministers SABAH KHALID al-Hamid al-Sabah (since 13 December 2011), KHALID al-Jarrah al-Sabah (since 4 August 2013), Anas Khalid al-SALEH (since 4 August 2013); note - on 14 November 2019, the government of Prime Minister JABIR AL-MUBARAK al-Hamad al-Sabah resigned&nbsp;<br>
+_chief of state_: Amir NAWAF al-Ahmad al-Jabir al-Sabah (since 30 September 2020); Crown Prince MISHAL Al Ahmad Al Sabah, born in 1940, is the brother of Amir NAWAF al-Ahmad al-Jabir al-Sabah<br>
+_head of government_: Prime Minister SABAH KHALID al-Hamad al-Sabah (since 19 November 2019); Deputy Prime Ministers HAMAD al-Jabir al-Ali al-Sabah (since 14 December 2020), ABDULLAH Yusif Abdulrahman al-Rumi (since 2 March 2021)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, approved by the amir<br>
 _elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister and deputy prime ministers appointed by the amir; crown prince appointed by the amir and approved by the National Assembly<br>
 
@@ -324,7 +324,6 @@ _elections/appointments_: amir chosen from within the ruling family, confirmed b
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
 _elections_: last held on 5 December 2020 (next to be held in 2024)<br>
 _election results_: all candidates ran as independents, though nearly half were oppositionists; composition - men 50, women 0, percent of women 0%<br>
-note: seats as of May 2019 - &nbsp;oppositionists and independents, including populists, Islamists, and liberals 25, pro-government loyalists 25; composition as of May 2019&nbsp;for elected members only - men 49, women 1, percent of women 2%&nbsp;<br>
 
 **Judicial branch**<br>
 _highest courts_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>
@@ -666,7 +665,8 @@ the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army
 the inventory of the Kuwaiti Armed Forces consists of a range of European- and US-sourced weapons systems; the US is the leading supplier of arms to Kuwait since 2010 (2021)<br>
 
 **Military service age and obligation**<br>
-17-21 years of age for voluntary military service; Kuwait reintroduced one-year mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; service is divided in two phases &ndash; four months for training and eight months for military service (2021)<br>
+17-21 years of age for voluntary military service; Kuwait reintroduced one-year mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; service is divided in two phases – four months for training and eight months for military service; women were allowed to volunteer in 2021 (2021)<br><br> <br>
+&nbsp;<br>
 
 **Military - note**<br>
 Kuwait has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>
@@ -677,5 +677,5 @@ Kuwait has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation 
 <p>Kuwait and Saudi Arabia continue negotiating a joint maritime boundary with Iran; no maritime boundary exists with Iraq in the Persian Gulf</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 92,000 (2020); note - Kuwait's 1959 Nationality Law defined citizens as persons who settled in the country before 1920 and who had maintained normal residence since then; one-third of the population, descendants of Bedouin tribes, missed the window of opportunity to register for nationality rights after Kuwait became independent in 1961 and were classified as bidun (meaning "without"); since the 1980s Kuwait's bidun have progressively lost their rights, including opportunities for employment and education, amid official claims that they are nationals of other countries who have destroyed their identification documents in hopes of gaining Kuwaiti citizenship; Kuwaiti authorities have delayed processing citizenship applications and labeled biduns as "illegal residents," denying them access to civil documentation, such as birth and marriage certificates<br>
+_stateless persons_: 92,020 (mid-year 2021); note - Kuwait's 1959 Nationality Law defined citizens as persons who settled in the country before 1920 and who had maintained normal residence since then; one-third of the population, descendants of Bedouin tribes, missed the window of opportunity to register for nationality rights after Kuwait became independent in 1961 and were classified as bidun (meaning "without"); since the 1980s Kuwait's bidun have progressively lost their rights, including opportunities for employment and education, amid official claims that they are nationals of other countries who have destroyed their identification documents in hopes of gaining Kuwaiti citizenship; Kuwaiti authorities have delayed processing citizenship applications and labeled biduns as "illegal residents," denying them access to civil documentation, such as birth and marriage certificates<br>
 

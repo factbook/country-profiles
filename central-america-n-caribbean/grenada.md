@@ -121,7 +121,7 @@ _female_: 33.4 years (2020 est.)<br>
 approximately one-third of the population is found in the capital of St. George's; the island's population is concentrated along the coast<br>
 
 **Urbanization**<br>
-_urban population_: 36.7% of total population (2021)<br>
+_urban population_: 36.9% of total population (2022)<br>
 _rate of urbanization_: 0.86% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -227,7 +227,7 @@ _forest_: 50% (2018 est.)<br>
 _other_: 17.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 36.7% of total population (2021)<br>
+_urban population_: 36.9% of total population (2022)<br>
 _rate of urbanization_: 0.86% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -308,7 +308,7 @@ _judge selection and term of office_: chief justice of Eastern Caribbean Supreme
 _subordinate courts_: magistrates' courts; Court of Magisterial Appeals<br>
 
 **Political parties and leaders**<br>
-National Democratic Congress or NDC [Nazim BURKE]<br>New National Party or NNP [Keith MITCHELL]<br>
+National Democratic Congress or NDC [Dickon MITCHELL]<br>New National Party or NNP [Keith MITCHELL]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, ITUC, LAES, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>

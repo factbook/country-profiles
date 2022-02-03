@@ -134,7 +134,7 @@ _female_: 19.5 years (2020 est.)<br>
 populations tend to cluster in the foothills and periphery of the rugged Hindu Kush range; smaller groups are found in many of the country's interior valleys; in general, the east is more densely settled, while the south is sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 26.3% of total population (2021)<br>
+_urban population_: 26.6% of total population (2022)<br>
 _rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -263,7 +263,7 @@ _forest_: 1.85% (2018 est.)<br>
 _other_: 40.1% (2018)<br>
 
 **Urbanization**<br>
-_urban population_: 26.3% of total population (2021)<br>
+_urban population_: 26.6% of total population (2022)<br>
 _rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -311,7 +311,7 @@ _former_: Islamic Republic of Afghanistan<br>
 _etymology_: the name "Afghan" originally referred to the Pashtun people (today it is understood to include all the country's ethnic groups), while the suffix "-stan" means "place of" or "country"; so Afghanistan literally means the "Land of the Afghans"<br>
 
 **Government type**<br>
-formerly presidential Islamic republic<br>
+<p>the United States does not recognize the Taliban government</p><br>
 
 **Capital**<br>
 _name_: Kabul<br>
@@ -361,7 +361,7 @@ _elections_: former House of Elders - district councils - held within 5 days of 
 _election results_: former House of Elders - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>former House of People - percent of vote by party NA; seats by party - NA; composition - men 182, women 68, percent of women 27.2%; note - total National Assembly percent of women 24.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: the Taliban has a longstanding Ulema shura consisting of Islamic jurists and scholars; prior to the Taliban takeover in August 2021, Afghanistan had a Supreme Court (consisting of a supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions)<br>
+_highest courts_: the Taliban has a longstanding Ulema Shura consisting of Islamic jurists and scholars; prior to the Taliban takeover in August 2021, Afghanistan had a Supreme Court (consisting of a supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions)<br>
 _judge selection and term of office_: previously a court chief and justices were appointed by the president with the approval of the Wolesi Jirga; court chief and justices served single 10-year terms<br>
 _subordinate courts_: formerly consisted of Appeals Courts; Primary Courts; and Special Courts for issues including narcotics, security, property, family, and juveniles<br>
 
@@ -717,7 +717,7 @@ Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islami
 <p>Afghan, Coalition, and Pakistan military meet periodically to clarify the alignment of the boundary on the ground and on maps and since 2014 have met to discuss collaboration on the Taliban insurgency and counterterrorism efforts; Afghan and Iranian commissioners have discussed boundary monument densification and resurvey; Iran protests Afghanistan's restricting flow of dammed Helmand River tributaries during drought; Pakistan has sent troops across and built fences along some remote tribal areas of its treaty-defined Durand Line border with Afghanistan which serve as bases for foreign terrorists and other illegal activities; Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 72,185 (Pakistan) (2020)<br>
+_refugees (country of origin)_: 72,188 (Pakistan) (mid-year 2021)<br>
 _IDPs_: 3.547 million (mostly Pashtuns and Kuchis displaced in the south and west due to natural disasters and political instability) (2020)<br>
 
 **Trafficking in persons**<br>

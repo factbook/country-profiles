@@ -130,7 +130,7 @@ _female_: 41.1 years (2020 est.)<br>
 highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area<br>
 
 **Urbanization**<br>
-_urban population_: 67.8% of total population (2021)<br>
+_urban population_: 68.2% of total population (2022)<br>
 _rate of urbanization_: 0.45% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -259,7 +259,7 @@ _forest_: 40.4% (2018 est.)<br>
 _other_: 21.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 67.8% of total population (2021)<br>
+_urban population_: 68.2% of total population (2022)<br>
 _rate of urbanization_: 0.45% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -692,6 +692,7 @@ the inventory of the Armed Forces of Montenegro is small and consists mostly of 
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2021)<br>
+note - as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Montenegro officially became a member of NATO in 2017<br>
@@ -704,7 +705,7 @@ Montenegro officially became a member of NATO in 2017<br>
 <p>Kosovo ratified the border demarcation agreement with Montenegro in March 2018, but the actual demarcation has not been completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 472 (2020)<br>
+_stateless persons_: 458 (mid-year 2021)<br>
 <strong>note:</strong> 20,695 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>

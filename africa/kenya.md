@@ -86,7 +86,7 @@ the Kenyan Highlands comprise one of the most successful agricultural production
 
 **Population**<br>
 54,685,051 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Kenyan(s)<br>
@@ -139,7 +139,7 @@ _female_: 20.1 years (2020 est.)<br>
 population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 28.5% of total population (2021)<br>
+_urban population_: 29% of total population (2022)<br>
 _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -261,7 +261,7 @@ _forest_: 6.1% (2018 est.)<br>
 _other_: 45.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 28.5% of total population (2021)<br>
+_urban population_: 29% of total population (2022)<br>
 _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -743,9 +743,9 @@ al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 <p>Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; as of March 2019, Kenya provides shelter to nearly 475,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times; in 2018, Kenya signed an MoU with Uganda and South Sudan to help demarcate their borders</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 280,479 (Somalia), 135,255 (South Sudan), 30,534 (Democratic Republic of the Congo), 20,647 (Ethiopia), 7,203 (Burundi) (2021)<br>
+_refugees (country of origin)_: 280,479 (Somalia), 135,255 (South Sudan), 48,284 (Democratic Republic of the Congo), 20,647 (Ethiopia), 7,203 (Burundi) (2021)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2020)<br>
-_stateless persons_: 16,820 (2020); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
+_stateless persons_: 16,820 (mid-year 2021); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 
 **Illicit drugs**<br>
 <p>a transit country for a variety of illicit drugs, including heroin and cocaine; transit location for precursor chemicals used to produce methamphetamine and other drugs; heroin from Southwest Asia enters Kenya destined for international markets, mainly Europe; cocaine transits through Kenya shipped through Ethiopia from South America;  cultivates cannabis and miraa (khat) for both local use and export</p><br>

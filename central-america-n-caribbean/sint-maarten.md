@@ -109,7 +109,7 @@ _female_: 42.7 years (2020 est.)<br>
 most populous areas are Lower Prince's Quarter (north of Philipsburg), followed closely by Cul de Sac<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 1.16% annual rate of change (2020-25 est. est.)<br>
 
 **Major urban areas - population**<br>
@@ -180,7 +180,7 @@ _female_: 12 years (2014)<br>
 <p>tropical marine climate, ameliorated by northeast trade winds, results in moderate temperatures; average rainfall of 150 cm/year; hurricane season stretches from July to November</p><br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 1.16% annual rate of change (2020-25 est. est.)<br>
 
 ## Government

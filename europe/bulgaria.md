@@ -132,7 +132,7 @@ _female_: 45.6 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger populations<br>
 
 **Urbanization**<br>
-_urban population_: 76% of total population (2021)<br>
+_urban population_: 76.4% of total population (2022)<br>
 _rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -254,7 +254,7 @@ _forest_: 36.7% (2018 est.)<br>
 _other_: 16.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 76% of total population (2021)<br>
+_urban population_: 76.4% of total population (2022)<br>
 _rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -701,6 +701,7 @@ the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment,
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2021)<br>
+note - in 2021, women comprised about 17% of the Bulgarian military's full-time personnel<br>
 
 **Military - note**<br>
 Bulgaria officially became a member of NATO in 2004<br>
@@ -717,8 +718,8 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,310 (Syria) (2020)<br>
-_stateless persons_: 1,141 (2020)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021)<br>
+_stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 67,634 estimated refugee and migrant arrivals (January 2015-November 2021); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>

@@ -5,7 +5,7 @@ _Middle East / Miscellaneous_
 ## Introduction
 
 **Background**<br>
-<p>Inhabited since at least the 15th century B.C., the West Bank has been dominated by many different peoples throughout its history; it was incorporated into the Ottoman Empire in the early 16th century. The West Bank fell to British forces during World War I, becoming part of the British Mandate of Palestine. Following the 1948 Arab-Israeli War, the West Bank was captured by Transjordan (later renamed Jordan), which annexed the West Bank in 1950; it was captured by Israel in the Six-Day War in 1967. Under a series of agreements known as the Oslo accords signed between 1993 and 1999, Israel transferred to the newly created Palestinian Authority (PA) security and civilian responsibility for many Palestinian-populated areas of the West Bank as well as the Gaza Strip. In 2000, a violent intifada or uprising began, and in 2001 negotiations to determine the permanent status of the West Bank and Gaza Strip stalled. Subsequent attempts to re-start direct negotiations have not resulted in progress toward determining final status of the area.<br><br></p> Roughly 60% of the West Bank, remains under Israeli civil and military control. In early 2006, the Islamic Resistance Movement (HAMAS) won a majority in the Palestinian Legislative Council (PLC) election. Attempts to form a unity government between Fatah, the dominant Palestinian political faction in the West Bank, and HAMAS failed, leading to violent clashed between their respective supporters and HAMAS's violent siezure of all military and governmental institutions in the Gaza Strip in June 2007. Since 2007, the PA has administered parts of the West Bank under its control, mainly the major Palestinian population centers and areas immediately surrounding them. Fatah and HAMAS have made several attempts at reconciliation, but the factions have been unable to implement agreements including the latest agreement signed in October 2017. In December 2018, the Palestinian Constitutional Court dissolved the PLC. In 2019, PA President ABBAS renewed his calls for PLC elections.<br>
+<p>The landlocked West Bank - the larger of the two Palestinian territories - is home to some three million Palestinians. Inhabited since at least the 15th century B.C., the West Bank has been dominated by many different peoples throughout its history; it was incorporated into the Ottoman Empire in the early 16th century. The West Bank fell to British forces during World War I, becoming part of the British Mandate of Palestine. Following the 1948 Arab-Israeli War, the West Bank was captured by Transjordan (later renamed Jordan), which annexed the West Bank in 1950; it was captured by Israel in the Six-Day War in 1967. Under a series of agreements known as the Oslo accords signed between 1993 and 1999, Israel transferred to the newly created Palestinian Authority (PA) security and civilian responsibility for many Palestinian-populated areas of the West Bank as well as the Gaza Strip.</p> <p>In addition to establishing the PA as an interim government, the Oslo accords divided the West Bank into three areas with one fully managed by the PA, another fully administered by Israel, and a third with shared control until a permanent agreement could be reached between the Palestine Liberation Organization (PLO) and Israel. In 2000, a violent intifada or uprising began across the Palestinian territories, and in 2001 negotiations for a permanent agreement between the PLO and Israel on final status issues stalled. Subsequent attempts to re-start direct negotiations have not resulted in progress toward determining final status of the area.</p> <p>The PA last held national elections in 2006, when the Islamic Resistance Movement (HAMAS) won a majority of seats in the Palestinian Legislative Council (PLC). Fatah, the dominant Palestinian political faction in the West Bank, and HAMAS failed to maintain a unity government, leading to violent clashes between their respective supporters and HAMAS’s violent seizure of all PA military and governmental institutions in the Gaza Strip in June 2007. In December 2018, the Palestinian Constitutional Court dissolved the PLC. In recent years, Fatah and HAMAS have made several attempts at reconciliation, but the factions have been unable to implement agreements.</p> Since 1994, the PA has administered parts of the West Bank under its control, mainly the major Palestinian population centers and areas immediately surrounding them. Roughly 60% of the West Bank remains under full Israeli civil and military control, impeding movement of people and goods through the territory. <p> </p><br>
 
 ## Geography
 
@@ -66,7 +66,7 @@ _other_: 55.2% (2018 est.)<br>
 _Salt water lake(s)_: Dead Sea (shared with Jordan and Israel) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Population distribution**<br>
-Palestinian settlements are primarily located in the central to western half of the territory; Jewish settlements are found in pockets throughout, particularly in the northeast, north-central, and around Jerusalem<br>
+the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone--between the 1949 Armistice Line and the separation barrier--and around Jerusalem<br>
 
 **Natural hazards**<br>
 droughts<br>
@@ -126,10 +126,10 @@ _female_: 22.2 years (2020 est.)<br>
 -4.16 migrant(s)/1,000 population (2021 est.)<br>
 
 **Population distribution**<br>
-Palestinian settlements are primarily located in the central to western half of the territory; Jewish settlements are found in pockets throughout, particularly in the northeast, north-central, and around Jerusalem<br>
+the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone--between the 1949 Armistice Line and the separation barrier--and around Jerusalem<br>
 
 **Urbanization**<br>
-_urban population_: 77% of total population (2021)<br>
+_urban population_: 77.3% of total population (2022)<br>
 _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
@@ -248,7 +248,7 @@ _other_: 55.2% (2018 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Urbanization**<br>
-_urban population_: 77% of total population (2021)<br>
+_urban population_: 77.3% of total population (2022)<br>
 _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
@@ -279,7 +279,7 @@ _agricultural_: 162 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: West Bank<br>
-_etymology_: name refers to the location of the region - occupied and administered by Jordan after 1948 - that fell on the far side (west bank) of the Jordan River in relation to Jordan proper; the designation was retained following the 1967 Six-Day War and the subsequent changes in government<br>
+_etymology_: name refers to the location of the region of the British Mandate of Palestine that was occupied and administered by Jordan in 1948, as it is located on the far side (west bank) of the Jordan River in relation to Jordan proper; the designation was retained following the 1967 Six-Day War and the subsequent changes in administration<br>
 
 ## Economy
 
@@ -569,7 +569,7 @@ not available<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Al-Aqsa Martyrs Brigade; HAMAS; Islamic Revolutionary Guard Corps/Qods Force; Kahane Chai; Palestine Islamic Jihad; Palestine Liberation Front; Popular Front for the Liberation of Palestine<br>
+Al-Aqsa Martyrs Brigade; HAMAS; Kahane Chai; Palestine Islamic Jihad; Palestine Liberation Front; Popular Front for the Liberation of Palestine<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

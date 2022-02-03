@@ -110,7 +110,6 @@ NA<br>
 less than 50 inhabitants on Pitcairn Island, most reside near the village of Adamstown<br>
 
 **Urbanization**<br>
-_urban population_: 0% of total population (2012)<br>
 _rate of urbanization_: NA<br>
 
 **Sex ratio**<br>
@@ -177,7 +176,6 @@ _forest_: 74.5% (2018 est.)<br>
 _other_: 25.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 0% of total population (2012)<br>
 _rate of urbanization_: NA<br>
 
 **Major infectious diseases**<br>

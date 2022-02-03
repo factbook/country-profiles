@@ -126,7 +126,7 @@ _female_: 38.3 years (2020 est.)<br>
 most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second largest city in the country<br>
 
 **Urbanization**<br>
-_urban population_: 63.4% of total population (2021)<br>
+_urban population_: 63.6% of total population (2022)<br>
 _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -248,7 +248,7 @@ _forest_: 9.1% (2018 est.)<br>
 _other_: 31.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 63.4% of total population (2021)<br>
+_urban population_: 63.6% of total population (2022)<br>
 _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -668,8 +668,8 @@ approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2021)<br>
 the inventory of the Armenian Armed Forces includes mostly Russian and Soviet-era equipment (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary or compulsory military service; 2-year conscript service obligation, which can be served as an officer upon deferment for university studies if enrolled in officer-producing program; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel; citizens aged 27 to 50 are registered in the military reserve and may be called to serve if mobilization is declared (2021)<br>
-note - conscripts comprise about half of the military's active personnel<br>
+18-27 years of age for voluntary (men and women) or compulsory (men only) military service; 2-year conscript service obligation, which can be served as an officer upon deferment for university studies if enrolled in officer-producing program; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel; citizens aged 27 to 50 are registered in the military reserve and may be called to serve if mobilization is declared; males under the age 36 years, who have not previously served as contract servicemen and are registered in the reserve, as well as females, regardless of whether they are registered in the reserve can be enrolled in contractual military service as privates (2021)<br>
+note - as of 2021, conscripts comprised about half of the military's active personnel; as of 2018, women made up about 13% of the active duty military<br>
 
 **Military - note**<br>
 since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remained high through 2021, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory <br><br>Armenia has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>
@@ -680,8 +680,8 @@ since November 2020, Russia has deployed about 2,000 peacekeeping troops to the 
 <p>the dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability; residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders; ethnic Armenian groups in the Javakheti region of Georgia seek greater autonomy from the Georgian Government</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 91,766 (Armenia), 14,741 (Syria - ethnic Armenians) (2020)<br>
-_stateless persons_: 1,000 (2020)<br>
+_refugees (country of origin)_: 38,774 (Azerbaijan), 5,205 (Syria - ethnic Armenians) (mid-year 2021)<br>
+_stateless persons_: 892 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Armenians may be exploited domestically or abroad, and foreigners may be subjected to sex trafficking or forced labor in Armenia; Armenian women and children are exploited in sex and labor trafficking domestically, as well as sex trafficking in the UAE and Turkey; Armenian migrants experience forced labor in Russia, the UAE, and Turkey; Ukrainian, Belarusian, and Russian women working as dancers are vulnerable to sex trafficking, while Indian employment seekers are subjected to forced labor in Armenia<br>

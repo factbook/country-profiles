@@ -125,7 +125,7 @@ _female_: 34.4 years (2020 est.)<br>
 the island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington<br>
 
 **Urbanization**<br>
-_urban population_: 24.4% of total population (2021)<br>
+_urban population_: 24.3% of total population (2022)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -228,7 +228,7 @@ _forest_: 18.8% (2018 est.)<br>
 _other_: 60.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 24.4% of total population (2021)<br>
+_urban population_: 24.3% of total population (2022)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -309,7 +309,7 @@ _judge selection and term of office_: chief justice of Eastern Caribbean Supreme
 _subordinate courts_: Industrial Court; Magistrates' Courts<br>
 
 **Political parties and leaders**<br>
-Antigua Caribbean Liberation Movement or ACLM<br>Antigua Labor Party or ABLP [Gaston BROWNE]<br>Antigua Barbuda True Labor Party or ABTLP [Sharlene SAMUEL]<br>Barbuda People's Movement or BPM [Trevor WALKER]<br>Barbuda People's Movement for Change [Arthur NIBBS]<br>Barbudans for a Better Barbuda [Ordrick SAMUEL]<br>Democratic National Alliance or DNA [Joanne MASSIAH]<br>Go Green for Life [Owen GEORGE]<br>Progressive Labor Movement or PLM<br>United National Democratic Party or UNDP<br>United Progressive Party or UPP [Harold LOVELL] (a coalition of ACLM, PLM, UNDP)<br>
+Antigua Labor Party or ABLP [Gaston BROWNE]<br>Antigua Barbuda True Labor Party or ABTLP [Sharlene SAMUEL]<br>Barbuda People's Movement or BPM [Trevor WALKER]<br>Democratic National Alliance or DNA [Joanne MASSIAH]<br>Go Green for Life [Owen GEORGE]<br>United Progressive Party or UPP [Harold LOVELL] (a coalition of ACLM, PLM, UNDP)<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (subscriber), ITU, ITUC (NGOs), MIGA, NAM (observer), OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UPU, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

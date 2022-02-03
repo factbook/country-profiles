@@ -134,7 +134,7 @@ _female_: 45.8 years (2020 est.)<br>
 the northern and eastern portions of the country are more densely populated; nearly two-thirds of the populace lives in urban areas<br>
 
 **Urbanization**<br>
-_urban population_: 59% of total population (2021)<br>
+_urban population_: 59.3% of total population (2022)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -251,7 +251,7 @@ _forest_: 47.2% (2018 est.)<br>
 _other_: 14.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 59% of total population (2021)<br>
+_urban population_: 59.3% of total population (2022)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -704,6 +704,7 @@ the Austrian military's inventory includes a mix of domestically-produced and im
 
 **Military service age and obligation**<br>
 registration requirement at age 17, the legal minimum age for voluntary military service; 18 is the legal minimum age for compulsory military service (6 months), or optionally, alternative civil/community service (9 months); males 18 to 50 years old in the militia or inactive reserve are subject to compulsory service; in a January 2012 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system (2021)<br>
+note - as of 2019, women made up about 4% of the military's full-time personnel<br>
 
 **Military - note**<br>
 <p>Austria is constitutionally non-aligned, but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO, but joined NATO’s Partnership for Peace framework in 1995 and participates in NATO-led crisis management and peacekeeping operations; as of 2021, more than 100,000 Austrian military and civilian personnel have taken part in more than 50 international peace support and humanitarian missions since 1960</p><br>
@@ -720,8 +721,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 54,903 (Syria), 40,096 (Afghanistan), 9,152 (Iraq), 8,074 (Somalia), 7,513 (Russia), 6,878 (Iran) (2020)<br>
-_stateless persons_: 3,267 (2020)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021)<br>
+_stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 transshipment point for Southwest Asian heroin and South American cocaine destined for Western Europe; increasing consumption of European-produced synthetic drugs<br>

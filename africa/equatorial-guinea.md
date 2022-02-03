@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Equatorial Guinea gained independence in 1968 after 190 years of Spanish rule; it is one of the smallest countries in Africa consisting of a mainland territory and five inhabited islands. The capital of Malabo is located on the island of Bioko, approximately 25 km from the Cameroonian coastline in the Gulf of Guinea. Between 1968 and 1979, autocratic President Francisco MACIAS NGUEMA virtually destroyed all of the country's political, economic, and social institutions before being deposed by his nephew Teodoro OBIANG NGUEMA MBASOGO in a coup. President OBIANG has ruled since October 1979. He has been elected several times since 1996, and was most recently reelected in 2016. Although nominally a constitutional democracy since 1991, presidential and legislative elections since 1996 have generally been labeled as flawed. The president exerts almost total control over the political system and has placed legal and bureaucratic barriers that hinder political opposition. Equatorial Guinea experienced rapid economic growth in the early years of the 21st century due to the discovery of large offshore oil reserves in 1996. Production peaked in late 2004 and has slowly declined since, although aggressive searches for new oil fields continue. Despite the country's economic windfall from oil production, resulting in massive increases in government revenue in past years, the drop in global oil prices as of 2014 has placed significant strain on the state budget and pushed the country into recession. Oil revenues have mainly been used for the development of infrastructure and there have been limited improvements in the population's living standards. Equatorial Guinea continues to seek to diversify its economy and to increase foreign investment. The country hosts major regional and international conferences and continues to seek a greater role in international affairs, and leadership in the sub-region. <p> </p><br>
+<p>Equatorial Guinea gained independence in 1968 after 190 years of Spanish rule; it is one of the smallest countries in Africa consisting of a mainland territory and five inhabited islands. The capital of Malabo is located on the island of Bioko, approximately 25 km from the Cameroonian coastline in the Gulf of Guinea. Between 1968 and 1979, autocratic President Francisco MACIAS NGUEMA virtually destroyed all of the country's political, economic, and social institutions before being deposed by his nephew Teodoro OBIANG NGUEMA MBASOGO in a violent coup. President OBIANG has ruled since October 1979. He has been elected several times since 1989, and was most recently reelected in 2016. Although nominally a constitutional democracy since 1991, presidential and legislative elections since 1996 have been considered flawed. The president exerts almost total control over the political system and has placed legal and bureaucratic barriers that hinder political opposition. Equatorial Guinea experienced rapid economic growth in the early years of the 21st century due to the discovery of large offshore oil reserves in 1996. Production peaked in late 2004 and has slowly declined since, although aggressive searches for new oil fields continue. Despite the country's economic windfall from oil production, resulting in massive increases in government revenue in past years, generally lower global oil prices since 2014 and depreciating oil fields have placed significant strain on the state budget. While oil revenues have mainly been used for the development of infrastructure, corruption has hindered socio-economic development and there have been limited improvements in the population's living standards. Equatorial Guinea continues to seek to diversify its economy and to increase foreign investment. The country hosts major regional and international conferences and continues to seek a greater role in international affairs, and leadership in the sub-region.</p> <p> </p><br>
 
 ## Geography
 
@@ -127,7 +127,7 @@ _female_: 20.7 years (2020 est.)<br>
 only two large cities over 30,000 people (Bata on the mainland, and the capital Malabo on the island of Bioko); small communities are scattered throughout the mainland and the five inhabited islands as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 73.6% of total population (2021)<br>
+_urban population_: 74% of total population (2022)<br>
 _rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -239,7 +239,7 @@ _forest_: 57.5% (2018 est.)<br>
 _other_: 32.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 73.6% of total population (2021)<br>
+_urban population_: 74% of total population (2022)<br>
 _rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

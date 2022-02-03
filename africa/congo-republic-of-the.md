@@ -85,7 +85,7 @@ about 70% of the population lives in Brazzaville, Pointe-Noire, or along the rai
 
 **Population**<br>
 5,417,414 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Congolese (singular and plural)<br>
@@ -138,7 +138,7 @@ _female_: 19.7 years (2020 est.)<br>
 the population is primarily located in the south, in and around the capital of Brazzaville as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 68.3% of total population (2021)<br>
+_urban population_: 68.7% of total population (2022)<br>
 _rate of urbanization_: 3.19% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -260,7 +260,7 @@ _forest_: 65.6% (2018 est.)<br>
 _other_: 3.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 68.3% of total population (2021)<br>
+_urban population_: 68.7% of total population (2022)<br>
 _rate of urbanization_: 3.19% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -720,6 +720,6 @@ the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a small
 <p>the location of the boundary in the broad Congo River with the Democratic Republic of the Congo is undefined except in the Pool Malebo/Stanley Pool area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 28,894 (Central African Republic), 22,100 (Democratic Republic of the Congo) (refugees and asylum seekers)(2021)<br>
+_refugees (country of origin)_: 28,894 (Central African Republic), 23,745 (Democratic Republic of the Congo) (refugees and asylum seekers)(2021)<br>
 _IDPs_: 304,430 (multiple civil wars since 1992) (2021)<br>
 

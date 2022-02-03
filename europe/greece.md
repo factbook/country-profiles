@@ -126,7 +126,7 @@ _female_: 46.8 years (2020 est.)<br>
 one-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters<br>
 
 **Urbanization**<br>
-_urban population_: 80% of total population (2021)<br>
+_urban population_: 80.4% of total population (2022)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -250,7 +250,7 @@ _forest_: 30.5% (2018 est.)<br>
 _other_: 6.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 80% of total population (2021)<br>
+_urban population_: 80.4% of total population (2022)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -697,7 +697,7 @@ approximately 1,000 Cyprus; 110 Kosovo (NATO); 150 Lebanon (UNIFIL) (Sep 2021)<b
 
 **Military service age and obligation**<br>
 19-45 years of age for compulsory military service; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for volunteers; women are eligible for voluntary military service (2021)<br>
-note - approximately 40-50% of the Greek military is comprised of conscripts<br>
+note(s) - approximately 40-50% of the Greek military is comprised of conscripts; as of 2019, women comprised approximately 19% of the full-time military personnel<br>
 
 **Military - note**<br>
 Greece joined NATO in 1952<br>
@@ -714,8 +714,8 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br>
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 36,448 (Syria), 21,456 (Afghanistan), 11,840 (Iraq) (2020)<br>
-_stateless persons_: 5,557 (2020)<br>
+_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021)<br>
+_stateless persons_: 5,552 (mid-year 2021)<br>
 <strong>note:</strong> 1,214,284 estimated refugee and migrant arrivals (January 2015-December 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
 
 **Illicit drugs**<br>

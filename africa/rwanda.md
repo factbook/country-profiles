@@ -83,7 +83,7 @@ landlocked; most of the country is intensively cultivated and rugged with the po
 
 **Population**<br>
 12,943,132 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Rwandan(s)<br>
@@ -136,7 +136,7 @@ _female_: 20.4 years (2020 est.)<br>
 one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 17.6% of total population (2021)<br>
+_urban population_: 17.7% of total population (2022)<br>
 _rate of urbanization_: 3.07% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -262,7 +262,7 @@ _forest_: 18% (2018 est.)<br>
 _other_: 7.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 17.6% of total population (2021)<br>
+_urban population_: 17.7% of total population (2022)<br>
 _rate of urbanization_: 3.07% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -676,7 +676,7 @@ _lake port(s)_: Cyangugu, Gisenyi, Kibuye (Lake Kivu)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Rwanda Defense Force (RDF): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force (2021)<br>
+Rwanda Defense Force (RDF): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force, Special Units (2021)<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2020)<br>
@@ -695,7 +695,7 @@ the RDF's inventory includes mostly Soviet-era and older Western - largely Frenc
 2,250 Central African Republic (approximately 1,500 for MINUSCA; an additional 750 sent bilaterally in August, 2021); 1,000 Mozambique (deployed mid-2021 to assist with combating insurgency); 2,600 South Sudan (UNMISS) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2021)<br>
+18 years of age for voluntary military service (men and women); no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2021)<br>
 
 **Military - note**<br>
 <p>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of late 2021, over 5,000 RDF personnel were deployed on missions in the African countries of the Central African Republic, Mozambique, and South Sudan</p><br>
@@ -706,5 +706,6 @@ the RDF's inventory includes mostly Soviet-era and older Western - largely Frenc
 <p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; fighting among ethnic groups - loosely associated political rebels, armed gangs, and various government forces in Great Lakes region transcending the boundaries of Burundi, Democratic Republic of the Congo (DROC), Rwanda, and Uganda - abated substantially from a decade ago due largely to UN peacekeeping, international mediation, and efforts by local governments to create civil societies; nonetheless, 57,000 Rwandan refugees still reside in 21 African states, including Zambia, Gabon, and 20,000 who fled to Burundi in 2005 and 2006 to escape drought and recriminations from traditional courts investigating the 1994 massacres; the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,252 (Democratic Republic of the Congo), 47,884 (Burundi) (2021)<br>
+_refugees (country of origin)_: 77,116 (Democratic Republic of the Congo), 47,884 (Burundi) (2021)<br>
+_stateless persons_: 9,500 (mid-year 2021)<br>
 

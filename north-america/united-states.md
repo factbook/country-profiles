@@ -146,7 +146,7 @@ _female_: 39.8 years (2020 est.)<br>
 large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska's population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii's is centered on the island of Oahu<br>
 
 **Urbanization**<br>
-_urban population_: 82.9% of total population (2021)<br>
+_urban population_: 83.1% of total population (2022)<br>
 _rate of urbanization_: 0.96% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -263,7 +263,7 @@ _forest_: 33.3% (2018 est.)<br>
 _other_: 22.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 82.9% of total population (2021)<br>
+_urban population_: 83.1% of total population (2022)<br>
 _rate of urbanization_: 0.96% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -747,6 +747,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: the US admitted 11,411 refugees during FY2021 including: 4,891 (Democratic Republic of the Congo), 1,246 (Syria), 872 (Afghanistan), 803 (Ukraine), 772 (Burma), 513 (Sudan)<br>
+_stateless persons_: 47 (mid-year 2021)<br>
 <strong>note:</strong> 72,722 Venezuelans have claimed asylum since 2014 because of the economic and political crisis (2018)<br>
 
 **Illicit drugs**<br>

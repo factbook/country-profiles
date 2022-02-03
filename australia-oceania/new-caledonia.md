@@ -123,7 +123,7 @@ _female_: 33.7 years (2020 est.)<br>
 most of the populace lives in the southern part of the main island, in and around the capital of Noumea<br>
 
 **Urbanization**<br>
-_urban population_: 71.9% of total population (2021)<br>
+_urban population_: 72.3% of total population (2022)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -219,7 +219,7 @@ _forest_: 45.9% (2018 est.)<br>
 _other_: 43.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 71.9% of total population (2021)<br>
+_urban population_: 72.3% of total population (2022)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>

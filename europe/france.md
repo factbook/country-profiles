@@ -147,7 +147,7 @@ _female_: 43.4 years (2020 est.)<br>
 much of the population is concentrated in the north and southeast; although there are many urban agglomerations throughout the country, Paris is by far the largest city, with Lyon ranked a distant second<br>
 
 **Urbanization**<br>
-_urban population_: 81.2% of total population (2021)<br>
+_urban population_: 81.5% of total population (2022)<br>
 _rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -265,7 +265,7 @@ _forest_: 29.2% (2018 est.)<br>
 _other_: 18.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81.2% of total population (2021)<br>
+_urban population_: 81.5% of total population (2022)<br>
 _rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -732,7 +732,7 @@ French Armed Forces (Forces Arm&eacute;es Fran&ccedil;aises): Army (Armee de Ter
 1.78% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the French military has approximately 205,000 active duty troops (115,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2021)<br>
+the French military has approximately 205,000 active duty troops (115,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the French military's inventory consists almost entirely of domestically-produced weapons systems, including some jointly-produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; France has a defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2021)<br>
@@ -760,8 +760,8 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>Madagascar claims the French territories of Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island; Comoros claims Mayotte; Mauritius claims Tromelin Island; territorial dispute between Suriname and the French overseas department of French Guiana; France asserts a territorial claim in Antarctica (Adelie Land); France and Vanuatu claim Matthew and Hunter Islands, east of New Caledonia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 31,546 (Afghanistan), 23,764 (Sri Lanka), 21,849 (Syria), 20,236 (Sudan), 18,332 (Democratic Republic of the Congo), 16,775 (Russia), 14,268 (Serbia and Kosovo), 13,277 (Guinea), 12,459 (Turkey), 10,894 (Cambodia), 9,075 (Iraq), 8,343 (China), 7,6,71 (Vietnam), 7,318 (Eritrea), 7,023 (Cote d'Ivoire), 6,496 (Bangladesh), 6,397 (Laos), 6,229 (Albania), 5,891 (Mauritania), 5,774 (Somalia), 5,576 (Mali) (2020)<br>
-_stateless persons_: 2,068 (2020)<br>
+_refugees (country of origin)_: 37,744 (Afghanistan), 23,980 (Sri Lanka), 23,510 (Syria), 21,070 (Sudan), 19,007 (Democratic Republic of the Congo), 16,995 (Russia), 15,090 (Guinea), 14,296 (Serbia and Kosovo), 13,180 (Turkey), 10,849 (Cambodia), 9,328 (Iraq) 8,519 (China), 8,338 (Cote d'Ivoire), 8,218 (Eritrea), 7,628 (Vietnam), 6,947 (Bangladesh), 6,649 (Somalia), 6,642 (Albania), 6,371 (Laos), 6,074 (Mauritania), 5,908 (Mali) (mid-year 2021)<br>
+_stateless persons_: 2,094 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p><strong>metropolitan France:</strong> transshipment point for South American cocaine, Southwest Asian heroin, and European synthetics;</p> <p><strong>French Guiana:</strong> small amount of marijuana grown for local consumption; minor transshipment point to Europe;</p> <p><strong>Martinique:</strong> transshipment point for cocaine and marijuana bound for the US and Europe</p><br>

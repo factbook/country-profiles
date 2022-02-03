@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Present day Benin was the site of Dahomey, a West African kingdom that rose to prominence in about 1600 and over the next two and a half centuries became a regional power, largely based on its slave trade. France began to control the coastal areas of Dahomey in the second half of the 19th century; the entire kingdom was conquered by 1894. French Dahomey achieved independence in 1960; it changed its name to the Republic of Benin in 1975.</p> <p>A succession of military governments ended in 1972 with the rise to power of Mathieu KEREKOU and the establishment of a government based on Marxist-Leninist principles. A move to representative government began in 1989. Two years later, free elections ushered in former Prime Minister Nicephore SOGLO as president, marking the first successful transfer of power in Africa from a dictatorship to a democracy. KEREKOU was returned to power by elections held in 1996 and 2001, though some irregularities were alleged. KEREKOU stepped down at the end of his second term in 2006 and was succeeded by Thomas YAYI Boni, a political outsider and independent, who won a second five-year term in March 2011. Patrice TALON, a wealthy businessman, took office in 2016 after campaigning to restore public confidence in the government.</p><br>
+<table> <tbody> <tr> <td> <p>Present day Benin is comprised of about 42 ethnic groups, including the Yoruba in the southeast, who migrated from what is now Nigeria in the 12th century; the Dendi in the north-central area, who came from Mali in the 16th century; the Bariba and the Fula in the northeast; the Ottamari in the Atakora mountains; the Fon in the area around Abomey in the south-central area; and the Mina, Xueda, and Aja, who came from Togo, on the coast. The Kingdom of Dahomey emerged on the Abomey plateau in the 17th century and was a regional power for much of the 18th and 19th centuries. Dahomey had an organized domestic economy, international trade with Europeans, and a highly organized military. The growth of Dahomey coincided with the growth of the Atlantic slave trade, and it became known as a major source of enslaved people. France began to control the coastal areas of Dahomey in the second half of the 19th century; the entire kingdom was conquered by 1894. French Dahomey achieved independence in 1960; it changed its name to the Republic of Benin in 1975.</p> <p>A succession of military governments ended in 1972 with the rise to power of Mathieu KEREKOU and the establishment of a government based on Marxist-Leninist principles. A move to representative government began in 1989. Two years later, free elections ushered in former Prime Minister Nicephore SOGLO as president, marking the first successful transfer of power in Africa from a dictatorship to a democracy. KEREKOU was returned to power by elections held in 1996 and 2001, though some irregularities were alleged. KEREKOU stepped down at the end of his second term in 2006 and was succeeded by Thomas YAYI Boni, a political outsider and independent, who won a second five-year term in March 2011. Patrice TALON, a wealthy businessman, took office in 2016; the space for pluralism, dissent, and free expression has narrowed under his administration. Talon won a second term in April 2021.</p> </td> </tr> </tbody> </table><br>
 
 ## Geography
 
@@ -79,7 +79,7 @@ sandbanks create difficult access to a coast with no natural harbors, river mout
 
 **Population**<br>
 13,301,694 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Beninese (singular and plural)<br>
@@ -131,7 +131,7 @@ _female_: 17.6 years (2020 est.)<br>
 the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west at shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 49% of total population (2021)<br>
+_urban population_: 49.5% of total population (2022)<br>
 _rate of urbanization_: 3.74% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -261,7 +261,7 @@ _forest_: 40% (2018 est.)<br>
 _other_: 28.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 49% of total population (2021)<br>
+_urban population_: 49.5% of total population (2022)<br>
 _rate of urbanization_: 3.74% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

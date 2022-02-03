@@ -133,7 +133,7 @@ _female_: 29.7 years (2020 est.)<br>
 the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat<br>
 
 **Urbanization**<br>
-_urban population_: 53% of total population (2021)<br>
+_urban population_: 53.5% of total population (2022)<br>
 _rate of urbanization_: 2.23% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -250,7 +250,7 @@ _forest_: 8.8% (2018 est.)<br>
 _other_: 19.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 53% of total population (2021)<br>
+_urban population_: 53.5% of total population (2022)<br>
 _rate of urbanization_: 2.23% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -679,7 +679,7 @@ information varies; estimated 30,000 active troops (est. 25,000 National Army; 1
 the inventory for Turkmenistan's military is comprised almost entirely of older Russian and Soviet-era weapons systems, although in recent years, Turkmenistan has purchased some equipment, including aircraft and air defense systems, from other countries; since 2010, China, Russia, and Turkey are the leading arms suppliers to Turkmenistan (2021)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for compulsory male military service; 2-year conscript service obligation (2.5 years for the Navy); 20 years of age for voluntary service; males may enroll in military schools from age 15 (2021)<br>
+18-30 years of age for compulsory male military service; 2-year conscript service obligation (2.5 years for the Navy); 20 years of age for voluntary service (including females); males may enroll in military schools from age 15 (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, Turkmenistan continued to pursue a nationalist and isolationist security policy and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization military alliance (CSTO) and the Shanghai Cooperation Organization (SCO); however, in September 2020, it participated in a Russian-led multinational military exercise held in southern Russia’s Astrakhan region alongside Russian, Chinese, Pakistani, Kazakh, Kyrgyz, Tajik, Uzbek, Mongolian, Syrian, Iranian, Egyptian, Belarusian, Turkish, Armenian, and Azerbaijani contingents</p> <p>as of 2021, Turkmenistan was trying to improve its naval capabilities on the Caspian Sea by expanding ship building capabilities and adding larger vessels to the Navy’s inventory; in 2018, it opened its first naval shipyard and in August 2021, the Navy commissioned its largest warship, a corvette that was jointly constructed with Turkey</p><br>
@@ -690,7 +690,7 @@ the inventory for Turkmenistan's military is comprised almost entirely of older 
 <p>cotton monoculture in Uzbekistan and Turkmenistan creates water-sharing difficulties for Amu Darya river states; field demarcation of the boundaries with Kazakhstan commenced in 2005; bilateral talks continue with Azerbaijan on dividing the seabed and contested oilfields in the middle of the Caspian</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 3,924 (2020)<br>
+_stateless persons_: 4,107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Turkmenistan is a source, and to a much lesser degree, destination country for men, women, and children who are subjected to forced labor and sex trafficking; Turkmen in search of work in other countries are forced to work in textile sweatshops, construction, and domestic service; some Turkmen women and girls are sex trafficked abroad; Turkey is the primary trafficking destination, followed by Russia, India, and other countries in the Middle East, South and Central Asia, and Europe; labor trafficking occurs within Turkmenistan, particularly in the construction industry; government officials require employees in private sector institutions, soldiers, and public sector workers to pick cotton without payment under the threat of penalty, such as dismissal, reduced work hours, or salary deductions to meet government-imposed quotas for the cotton harvest<br>

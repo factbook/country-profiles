@@ -138,7 +138,7 @@ _female_: 40.1 years (2020 est.)<br>
 highest population density is found in and around Bangkok; significant population clusters found througout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country<br>
 
 **Urbanization**<br>
-_urban population_: 52.2% of total population (2021)<br>
+_urban population_: 52.9% of total population (2022)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -262,7 +262,7 @@ _forest_: 37.2% (2018 est.)<br>
 _other_: 21.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 52.2% of total population (2021)<br>
+_urban population_: 52.9% of total population (2022)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -713,7 +713,7 @@ note: the Thai Rangers (aka Thahan Phran or 'Hunter Soldiers’) is a paramilita
 1.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-estimates for the size of the Royal Thai Armed Forces (RTARF) vary widely; approximately 350,000 active duty personnel (240,000 Army; 65,000 Navy; 45,000 Air Force); est. 20,000 Thai Rangers; est. 5-6,000 Internal Security Operations Command (2021)<br>
+estimates for the size of the Royal Thai Armed Forces (RTARF) vary widely; approximately 260,000 active duty personnel (150,000 Army; 65,000 Navy; 45,000 Air Force); est. 20,000 Thai Rangers; est. 5-6,000 Internal Security Operations Command (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RTARF has a diverse array of foreign-supplied weapons systems, including a large amount of obsolescent or second-hand US equipment; since 2010, Thailand has received military equipment from nearly 20 countries with China, South Korea, Sweden, Ukraine, and the US as the leading suppliers (2021)<br>
@@ -722,8 +722,8 @@ the RTARF has a diverse array of foreign-supplied weapons systems, including a l
 275 South Sudan (UNMISS) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-21 years of age for compulsory military service; 18 years of age for voluntary military service; males register at 18 years of age; 2-year conscript service obligation varies by educational qualifications (2021)<br>
-note - information varies, but conscripts reportedly comprise as much as 50% of the RTARF; around 100,000 males are drafted each year<br>
+18 years of age for voluntary military service (men and women); 21 years of age for compulsory military service (men only); males register at 18 years of age; 2-year conscript service obligation varies by educational qualifications (2021)<br>
+note(s) - information varies, but conscripts reportedly comprise as much as 50% of the RTARF; around 100,000 males are drafted each year; as of 2020, women comprised about 8% of active military personnel<br>
 
 **Military - note**<br>
 including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, the Thai military has been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed more than 7,000 lives; as of late 2020, as many as 100,000 military and paramilitary forces were deployed in the south to combat the insurgency<br> <p>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
@@ -736,7 +736,7 @@ including the most recent in 2014, the military has attempted more than 20 coups
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 91,479 (Burma) (2021)<br>
 _IDPs_: 41,000<br>
-_stateless persons_: 480,695 (2020) (estimate represents stateless persons registered with the Thai Government; actual number may be as high as 3.5 million); note - about half of Thailand's northern hill tribe people do not have citizenship and make up the bulk of Thailand's stateless population; most lack documentation showing they or one of their parents were born in Thailand; children born to Burmese refugees are not eligible for Burmese or Thai citizenship and are stateless; most Chao Lay, maritime nomadic peoples, who travel from island to island in the Andaman Sea west of Thailand are also stateless; stateless Rohingya refugees from Burma are considered illegal migrants by Thai authorities and are detained in inhumane conditions or expelled; stateless persons are denied access to voting, property, education, employment, healthcare, and driving<br>
+_stateless persons_: 554,103 (mid-year 2021) (estimate represents stateless persons registered with the Thai Government; actual number may be as high as 3.5 million); note - about half of Thailand's northern hill tribe people do not have citizenship and make up the bulk of Thailand's stateless population; most lack documentation showing they or one of their parents were born in Thailand; children born to Burmese refugees are not eligible for Burmese or Thai citizenship and are stateless; most Chao Lay, maritime nomadic peoples, who travel from island to island in the Andaman Sea west of Thailand are also stateless; stateless Rohingya refugees from Burma are considered illegal migrants by Thai authorities and are detained in inhumane conditions or expelled; stateless persons are denied access to voting, property, education, employment, healthcare, and driving<br>
 <strong>note:</strong> Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2018)<br>
 
 **Illicit drugs**<br>

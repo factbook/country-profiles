@@ -86,7 +86,7 @@ landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Ka
 
 **Population**<br>
 19,077,816 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note: </strong>estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Zambian(s)<br>
@@ -139,7 +139,7 @@ _female_: 17 years (2020 est.)<br>
 one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 45.2% of total population (2021)<br>
+_urban population_: 45.8% of total population (2022)<br>
 _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -264,7 +264,7 @@ _forest_: 66.3% (2018 est.)<br>
 _other_: 2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 45.2% of total population (2021)<br>
+_urban population_: 45.8% of total population (2022)<br>
 _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -731,7 +731,7 @@ the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era arm
 <p>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 64,321 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,087 (Burundi) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 64,821 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,087 (Burundi) (refugees and asylum seekers) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>

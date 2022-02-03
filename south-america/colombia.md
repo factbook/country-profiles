@@ -138,7 +138,7 @@ _female_: 32.2 years (2020 est.)<br>
 the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 81.7% of total population (2021)<br>
+_urban population_: 82% of total population (2022)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -267,7 +267,7 @@ _forest_: 54.4% (2018 est.)<br>
 _other_: 8.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81.7% of total population (2021)<br>
+_urban population_: 82% of total population (2022)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -751,7 +751,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia (FARC)<br
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 1,742,927 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2021)<br>
 _IDPs_: 8,176,460 (conflict between government and illegal armed groups and drug traffickers since 1985) (2021)<br>
-_stateless persons_: 11 (2020)<br>
+_stateless persons_: 11 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>Colombia is the world’s top cocaine producer; exports and is a source of heroin and marijuana; coca cultivation was estimated at 245,000 hectares (ha) in 2020; potential pure cocaine production reached 1,010 metric tons in 2020</p> <p> </p><br>

@@ -123,7 +123,7 @@ _female_: 35.1 years (2020 est.)<br>
 most of the population is concentrated in and around the capital of Kingstown<br>
 
 **Urbanization**<br>
-_urban population_: 53.5% of total population (2021)<br>
+_urban population_: 53.9% of total population (2022)<br>
 _rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -223,7 +223,7 @@ _forest_: 68.7% (2018 est.)<br>
 _other_: 5.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 53.5% of total population (2021)<br>
+_urban population_: 53.9% of total population (2022)<br>
 _rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -304,7 +304,7 @@ _judge selection and term of office_: chief justice of Eastern Caribbean Supreme
 _subordinate courts_: magistrates' courts<br>
 
 **Political parties and leaders**<br>
-Democratic Republican Party or DRP [Anesia BAPTISTE]<br>New Democratic Party or NDP [Godwin L. FRIDAY]<br>Unity Labor Party or ULP [Dr. Ralph GONSALVES] (formed in 1994 by the coalition of Saint Vincent Labor Party or SVLP and the Movement for National Unity or MNU)<br>SVG Green Party or SVGP [Ivan O'NEAL]<br>
+New Democratic Party or NDP [Dr. Godwin L. FRIDAY]<br>Unity Labor Party or ULP [Dr. Ralph GONSALVES] (formed in 1994 by the coalition of Saint Vincent Labor Party or SVLP and the Movement for National Unity or MNU)<br>SVG Green Party or SVGP [Ivan O'NEAL]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (subscriber), ITU, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU (NGOs), WHO, WIPO, WTO<br>

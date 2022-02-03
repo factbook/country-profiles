@@ -80,7 +80,7 @@ landlocked, an enclave of (completely surrounded by) South Africa; mountainous, 
 
 **Population**<br>
 2,177,740 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Mosotho (singular), Basotho (plural)<br>
@@ -132,7 +132,7 @@ _female_: 24.7 years (2020 est.)<br>
 relatively higher population density in the western half of the nation, with the capital of Maseru, and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 29.5% of total population (2021)<br>
+_urban population_: 29.9% of total population (2022)<br>
 _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -256,7 +256,7 @@ _forest_: 1.5% (2018 est.)<br>
 _other_: 22.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 29.5% of total population (2021)<br>
+_urban population_: 29.9% of total population (2022)<br>
 _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

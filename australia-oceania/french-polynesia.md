@@ -122,7 +122,7 @@ _female_: 33.5 years (2020 est.)<br>
 the majority of the population lives in the Society Islands, one of five archipelagos that includes the most populous island - Tahiti - with approximately 70% of the nation's population<br>
 
 **Urbanization**<br>
-_urban population_: 62.1% of total population (2021)<br>
+_urban population_: 62.2% of total population (2022)<br>
 _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -212,7 +212,7 @@ _forest_: 43.7% (2018 est.)<br>
 _other_: 43.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 62.1% of total population (2021)<br>
+_urban population_: 62.2% of total population (2022)<br>
 _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>

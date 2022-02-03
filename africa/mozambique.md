@@ -84,7 +84,7 @@ the Zambezi River flows through the north-central and most fertile part of the c
 
 **Population**<br>
 30,888,034 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Mozambican(s)<br>
@@ -136,7 +136,7 @@ _female_: 17.6 years (2020 est.)<br>
 three large populations clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 37.6% of total population (2021)<br>
+_urban population_: 38.2% of total population (2022)<br>
 _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -266,7 +266,7 @@ _forest_: 43.7% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 37.6% of total population (2021)<br>
+_urban population_: 38.2% of total population (2022)<br>
 _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

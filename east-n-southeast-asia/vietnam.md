@@ -137,7 +137,7 @@ _female_: 33 years (2020 est.)<br>
 though it has one of the highest population densities in the world, the population is not evenly dispersed; clustering is heaviest along the South China Sea and Gulf of Tonkin, with the Mekong Delta (in the south) and the Red River Valley (in the north) having the largest concentrations of people<br>
 
 **Urbanization**<br>
-_urban population_: 38.1% of total population (2021)<br>
+_urban population_: 38.8% of total population (2022)<br>
 _rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -256,7 +256,7 @@ _forest_: 45% (2018 est.)<br>
 _other_: 20.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 38.1% of total population (2021)<br>
+_urban population_: 38.8% of total population (2022)<br>
 _rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -723,7 +723,7 @@ the International Maritime Bureau reports the territorial and offshore waters in
 <p>southeast Asian states have enhanced border surveillance to check the spread of Asian swine fever; Cambodia and Laos protest Vietnamese squatters and armed encroachments along border; Cambodia accuses Vietnam of a wide variety of illicit cross-border activities; progress on a joint development area with Cambodia is hampered by an unresolved dispute over sovereignty of offshore islands; an estimated 300,000 Vietnamese refugees reside in China; establishment of a maritime boundary with Cambodia is hampered by unresolved dispute over the sovereignty of offshore islands; the decade-long demarcation of the China-Vietnam land boundary was completed in 2009; China occupies the Paracel Islands also claimed by Vietnam and Taiwan; Brunei claims a maritime boundary extending beyond as far as a median with Vietnam, thus asserting an implicit claim to Lousia Reef; the 2002 "Declaration on the Conduct of Parties in the South China Sea" eased tensions but differences between the parties negotiating the Code of Conduct continue; Vietnam continues to expand construction of facilities in the Spratly Islands; in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands; Economic Exclusion Zone negotiations with Indonesia are ongoing, and the two countries in Fall 2011 agreed to work together to reduce illegal fishing along their maritime boundary; in May 2018, Russia’s RosneftVietnam unit started drilling at a block southeast of Vietnam which is within the area outlined by China’s nine-dash line and Beijing issued a warning</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 32,890 (2020); note - Vietnam's stateless ethnic Chinese Cambodian population dates to the 1970s when thousands of Cambodians fled to Vietnam to escape the Khmer Rouge and were no longer recognized as Cambodian citizens; Vietnamese women who gave up their citizenship to marry foreign men have found themselves stateless after divorcing and returning home to Vietnam; the government addressed this problem in 2009, and Vietnamese women are beginning to reclaim their citizenship<br>
+_stateless persons_: 30,581 (mid-year 2021); note - Vietnam's stateless ethnic Chinese Cambodian population dates to the 1970s when thousands of Cambodians fled to Vietnam to escape the Khmer Rouge and were no longer recognized as Cambodian citizens; Vietnamese women who gave up their citizenship to marry foreign men have found themselves stateless after divorcing and returning home to Vietnam; the government addressed this problem in 2009, and Vietnamese women are beginning to reclaim their citizenship<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Vietnam, and traffickers exploit Vietnamese abroad; Vietnamese men and women who migrate abroad for work may be subject to exploitation and illegally high fees from recruiters trapping them in debt bondage; traffickers subject victims to forced labor in construction, fishing, agriculture, mining, maritime industries, logging, and manufacturing, primarily in Taiwan, Malaysia, Republic of Korea, Laos, Japan, and to a lesser extent, some parts of Europe and the UK; traffickers mislead Vietnamese women and children with fraudulent employment opportunities and sex traffick them to brothels on the borders of China, Cambodia, Laos, and elsewhere in Asia; traffickers use the Internet, gaming sites, and particularly social media to lure victims; domestic traffickers are sometimes&nbsp; family members or small-scale networks exploiting Vietnamese men, women, and children - including street children and children with disabilities - in forced labor as street beggars or in brick kilns and mines; child sex tourists from elsewhere in Asia and other countries exploit children; prisoners reportedly are forced to work in agriculture, manufacturing, and hazardous industries, such as cashew processing<br>

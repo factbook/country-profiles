@@ -82,7 +82,7 @@ landlocked; fertile, well-watered country with many lakes and rivers; Lake Victo
 
 **Population**<br>
 44,712,143 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Ugandan(s)<br>
@@ -134,7 +134,7 @@ _female_: 16.5 years (2020 est.)<br>
 population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 25.6% of total population (2021)<br>
+_urban population_: 26.2% of total population (2022)<br>
 _rate of urbanization_: 5.41% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -264,7 +264,7 @@ _forest_: 14.5% (2018 est.)<br>
 _other_: 14.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 25.6% of total population (2021)<br>
+_urban population_: 26.2% of total population (2022)<br>
 _rate of urbanization_: 5.41% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -691,6 +691,7 @@ _lake port(s)_: Entebbe, Jinja, Port Bell (Lake Victoria)<br>
 
 **Military and security forces**<br>
 Uganda People's Defense Force (UPDF): Land Forces, Air Forces, Marine Forces, Special Forces Command, Reserve Force (2021)<br>
+note - in 2018, President MUSEVENI created a volunteer force of Local Defense Units under the military to beef up local security in designated parts of the country<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
@@ -700,7 +701,8 @@ Uganda People's Defense Force (UPDF): Land Forces, Air Forces, Marine Forces, Sp
 1.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 45-50,000 troops, including about 1,000-1,500 air and marine personnel (2021)<br>
+information varies; approximately 45-50,000 troops, including about 1,000-1,500 air and marine personnel; approximately 20,000 personnel in the Local Defense Units (2021)<br>
+note - in 2021, the Ugandan Government announced it would recruit another 10,000 Local Defense Units personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
 the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited mix of more modern Russian- and Western-origin arms; since 2010, the leading suppliers of arms to the UPDF are Russia and Ukraine (2021)<br>
@@ -709,10 +711,10 @@ the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited
 6,200 Somalia (AMISOM); 620 Somalia (UNSOM); 250 Equatorial Guinea (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military duty (must be single, no children); 9-year service obligation (2021)<br>
+18-25 years of age for voluntary military duty (men and women); 9-year service obligation (2021)<br>
 
 **Military - note**<br>
-<p>the UPDF, which is constitutionally granted seats in parliament, is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and the NRM to break up rallies, raid opposition offices, and surveil rival candidates</p> <p>the UPDF has conducted operations in the Democratic Republic of the Congo against a Congo-based Ugandan rebel group, the Allied Democratic Forces (ADF), which was designated as a Foreign Terrorist Organization by the US State Department in March 2021 as the Islamic State of Iraq and ash-Sham in the Democratic Republic of the Congo (ISIS-DRC; see the Terrorist Group Appendix); beginning in 2012, the UPDF also led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; the UPDF withdrew from the mission in 2017 after declaring that the LRA no longer posed a security threat</p> <p>Uganda intervened in the South Sudan civil war in 2013-2016 and UPDF forces have clashed with South Sudanese forces along the border as recently as 2020</p><br>
+<p>the UPDF, which is constitutionally granted seats in parliament, is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and the NRM to break up rallies, raid opposition offices, and surveil rival candidates</p> <p>as of 2021, the UPDF was conducting operations along the border with the Democratic Republic of the Congo (including cross-border operations) against a Congo-based Ugandan rebel group, the Allied Democratic Front (ADF), which was designated as a Foreign Terrorist Organization by the US State Department in March 2021 as the Islamic State of Iraq and ash-Sham in the Democratic Republic of the Congo (ISIS-DRC; see the Terrorist Group Appendix); in addition, elements of the UPDF were deployed in the northeast region of Karamoja against cattle rustlers and criminal gangs</p> <p>beginning in 2012, the UPDF led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; the UPDF withdrew from the mission in 2017 after declaring that the LRA no longer posed a security threat</p> <p>Uganda intervened in the South Sudan civil war in 2013-2016 and UPDF forces have clashed with South Sudanese forces along the border as recently as 2020<br><br>the military traces its history back to the formation of the Uganda Rifles in 1895; the Uganda Rifles were merged with the Central Africa Regiment and the East Africa Rifles to form the King’s African Rifles (“KAR”) in 1902, which participated in both world wars; the UPDF was established in 1995</p><br>
 
 ## Terrorism
 

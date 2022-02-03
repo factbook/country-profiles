@@ -121,7 +121,7 @@ _female_: 37.7 years (2020 est.)<br>
 the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have fewer than 100 people<br>
 
 **Urbanization**<br>
-_urban population_: 42.6% of total population (2021)<br>
+_urban population_: 42.8% of total population (2022)<br>
 _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -204,7 +204,7 @@ _forest_: 0.1% (2018 est.)<br>
 _other_: 97.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 42.6% of total population (2021)<br>
+_urban population_: 42.8% of total population (2022)<br>
 _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

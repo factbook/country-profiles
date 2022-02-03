@@ -129,7 +129,7 @@ _female_: 44.7 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations<br>
 
 **Urbanization**<br>
-_urban population_: 74.2% of total population (2021)<br>
+_urban population_: 74.4% of total population (2022)<br>
 _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -251,7 +251,7 @@ _forest_: 34.4% (2018 est.)<br>
 _other_: 10.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 74.2% of total population (2021)<br>
+_urban population_: 74.4% of total population (2022)<br>
 _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -695,6 +695,7 @@ the Czechia military has small numbers of troops deployed under EU, NATO, and UN
 
 **Military service age and obligation**<br>
 18-28 years of age for male and female voluntary military service; conscription abolished 2004 (2021)<br>
+note - as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>
@@ -705,7 +706,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 1,492 (2020)<br>
+_stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>manufacture of methamphetamine continues to be mostly based on pseudoephedrine from  Poland or Turkey.</p> <p> </p><br>

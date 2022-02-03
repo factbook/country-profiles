@@ -135,7 +135,7 @@ _female_: 32.8 years (2020 est.)<br>
 the most densely populated area is found around the Bosporus in the northwest where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast<br>
 
 **Urbanization**<br>
-_urban population_: 76.6% of total population (2021)<br>
+_urban population_: 77% of total population (2022)<br>
 _rate of urbanization_: 1.11% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -261,7 +261,7 @@ _forest_: 14.9% (2018 est.)<br>
 _other_: 35.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 76.6% of total population (2021)<br>
+_urban population_: 77% of total population (2022)<br>
 _rate of urbanization_: 1.11% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -719,7 +719,8 @@ est. 200 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzego
 note(s) - between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018; its most recent incursions were smaller-scale raids in April and February of 2021; in 2020, Turkey deployed an undetermined number of Turkish military troops and an estimated 3,500-5,000 Syrian fighters to Libya to support the Libyan Government of National Accord (GNA)<br><br>in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years<br>
 
 **Military service age and obligation**<br>
-President Erdoğan on 25 June 2019 signed a new law cutting the men&rsquo;s mandatory military service period in half, as well as making paid military service permanent; with the new system, the period of conscription was reduced from 12 months to six months for privates and non-commissioned soldiers (the service term for reserve officers chosen among university or college graduates will remain 12 months); after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; under the new law, all male Turkish citizens over the age of 20 will be required to undergo a one month military training period, but they can obtain an exemption from the remaining five months of their mandatory service by paying 31,000 Turkish Liras (2021)<br>
+President Erdoğan on 25 June 2019 signed a new law cutting the men’s mandatory military service period in half, as well as making paid military service permanent; with the new system, the period of conscription was reduced from 12 months to six months for privates and non-commissioned soldiers (the service term for reserve officers chosen among university or college graduates will remain 12 months); after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; under the new law, all male Turkish citizens over the age of 20 will be required to undergo a one month military training period, but they can obtain an exemption from the remaining five months of their mandatory service by paying 31,000 Turkish Liras (2021)<br>
+note - as of 2019, women made up about .3% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Turkey is a NATO ally (joined 1952) and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO Missile Defense<br><br>as of 2021, the Turkish Land Forces continued an overhaul under the "Force 2014" program with the intent of producing 20-30% smaller, more highly trained force characterized by greater mobility and firepower and capable of joint and combined operations<br><br>the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines (as of 2021); the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications <br><br>the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and is developing an integrated missile defense system; in a controversial move, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system <br><br>in recent years, the TLFC has taken on increasing international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; Turkey in recent years has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan (2021)<br>
@@ -736,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020); 3,736,925 (Syria) (2021)<br>
+_refugees (country of origin)_: 3,736,235 (Syria) (2021)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 

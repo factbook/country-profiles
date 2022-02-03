@@ -130,7 +130,7 @@ _female_: 31.4 years (2020 est.)<br>
 population concentrated along the nothern coastal strip; the remainder of the country is sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 66.2% of total population (2021)<br>
+_urban population_: 66.3% of total population (2022)<br>
 _rate of urbanization_: 0.88% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -249,7 +249,7 @@ _forest_: 94.6% (2018 est.)<br>
 _other_: 4.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 66.2% of total population (2021)<br>
+_urban population_: 66.3% of total population (2022)<br>
 _rate of urbanization_: 0.88% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -342,7 +342,7 @@ _judge selection and term of office_: court judges appointed by the national pre
 _subordinate courts_: cantonal courts<br>
 
 **Political parties and leaders**<br>
-Alternative Combination or A-Com (coalition includes ABOP, KTPI, Party for Democracy and Development)<br>Brotherhood and Unity in Politics or BEP [Celsius WATERBERG]<br>Democratic Alternative '91 or DA91 [Angelique DEL CASTILLO]<br>General Liberation and Development Party or ABOP [Ronnie BRUNSWIJK}<br>National Democratic Party or NDP [Desire Delano BOUTERSE]<br>National Party of Suriname or NPS [Gregory RUSLAND]<br>Party for Democracy and Development in Unity or DOE [Carl BREEVELD]<br>Party for National Unity and Solidarity or KTPI [Willy SOEMITA]<br>People's Alliance (Pertjaja Luhur) or PL [Paul SOMOHARDJO]<br>Progressive Workers' and Farmers' Union or PALU [Jim HOK]<br>Progressive Reform Party or VHP [Chandrikapersad SANTOKHI]<br>Reform and Renewal Movement or HVB<br>Surinamese Labor Party or SPA [Guno CASTELEN]<br>
+Alternative Combination or A-Com (coalition includes ABOP, KTPI, Party for Democracy and Development)<br>Brotherhood and Unity in Politics or BEP [Ronnie ASABINA]<br>Democratic Alternative '91 or DA91 [Angelique DEL CASTILLO]<br>General Liberation and Development Party or ABOP [Ronnie BRUNSWIJK}<br>National Democratic Party or NDP [Desire Delano BOUTERSE]<br>National Party of Suriname or NPS [Gregory RUSLAND]<br>Party for Democracy and Development in Unity or DOE [Carl BREEVELD]<br>Party for National Unity and Solidarity or KTPI [Willy SOEMITA]<br>People's Alliance (Pertjaja Luhur) or PL [Paul SOMOHARDJO]<br>Progressive Workers' and Farmers' Union or PALU [Jim HOK]<br>Progressive Reform Party or VHP [Chandrikapersad SANTOKHI]<br>Reform and Renewal Movement or HVB [Raymond SAPOEN]<br>Surinamese Labor Party or SPA [Guno CASTELEN]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WTO<br>
@@ -670,7 +670,7 @@ Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2021
 no figures available after 2017<br>
 
 **Military and security service personnel strengths**<br>
-the Suriname Army is comprised of approximately 1,800 active personnel (ground, air, naval, and military police) (2021)<br>
+the Suriname Army is comprised of approximately 2,000 active personnel (ground, air, naval, and military police) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; since 2010, Suriname has received small quantities of military hardware from several countries, including the US (2021)<br>

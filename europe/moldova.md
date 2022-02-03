@@ -129,7 +129,7 @@ _female_: 39.5 years (2020 est.)<br>
 pockets of agglomeration exist throughout the country, the largest being in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti<br>
 
 **Urbanization**<br>
-_urban population_: 43% of total population (2021)<br>
+_urban population_: 43.2% of total population (2022)<br>
 _rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -251,7 +251,7 @@ _forest_: 11.9% (2018 est.)<br>
 _other_: 13.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 43% of total population (2021)<br>
+_urban population_: 43.2% of total population (2022)<br>
 _rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -690,6 +690,7 @@ the Moldovan military's inventory is limited and almost entirely comprised of ol
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 1-year service obligation (2021)<br>
+note - as of 2019, women made up about 20% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Moldova is constitutionally neutral, but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO&rsquo;s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO&rsquo;s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support (2021)<br>
@@ -701,7 +702,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 6,779 applicants for forms of legal stay other than asylum (Ukraine) (2015)<br>
-_stateless persons_: 3,405 (2020)<br>
+_stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 limited cultivation of opium poppy and cannabis, mostly for CIS consumption; transshipment point for illicit drugs from Southwest Asia via Central Asia to Russia, Western Europe, and possibly the US; widespread crime and underground economic activity<br>

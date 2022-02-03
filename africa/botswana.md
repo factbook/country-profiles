@@ -83,7 +83,7 @@ landlocked; population concentrated in the southern and eastern parts of the cou
 
 **Population**<br>
 2,350,667 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Motswana (singular), Batswana (plural)<br>
@@ -135,7 +135,7 @@ _female_: 26.7 years (2020 est.)<br>
 the population is primarily concentrated in the east with a focus in and around the captial of Gaborone, and the far central-eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari to the west as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 71.6% of total population (2021)<br>
+_urban population_: 72.2% of total population (2022)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -259,7 +259,7 @@ _forest_: 19.8% (2018 est.)<br>
 _other_: 34.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 71.6% of total population (2021)<br>
+_urban population_: 72.2% of total population (2022)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -692,7 +692,7 @@ the Botswana Defense Force (BDF) has approximately 9,000 active personnel (2021)
 the BDF has a mix of foreign-supplied and mostly older weapons and equipment, largely from Europe and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; no conscription (2021)<br>
+18 is the legal minimum age for voluntary military service (men and women); no conscription (2021)<br>
 
 **Military - note**<br>
 <p>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces demonstrated that the PMU was inadequate for defending the country and led to the establishment of the BDF in 1977; as of 2021, the BDF’s primary missions included securing territorial integrity/border security and internal duties such as disaster relief and anti-poaching</p> <p>as of 2021, the Army was comprised of approximately 4 small combat brigades (2 infantry, 1 light armored, 1 artillery), while the Air Force had 1 fighter/ground attack squadron; Botswana has no navy, but the Army has a marine unit with boats and other river craft for patrolling the country’s numerous waterways, particularly the Chobe River and Okavango swamps</p> <p>Botswana participates in the Southern African Development Community (SADC) Standby Force, and in 2021 contributed nearly 300 troops to the SADC’s effort to help the Mozambique Government suppress an insurgency</p><br>

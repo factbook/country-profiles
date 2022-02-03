@@ -126,7 +126,7 @@ _female_: 48 years (2020 est.)<br>
 largest concentration of people is found in and around the port and capital city of Riga; small agglomerations are scattered throughout the country<br>
 
 **Urbanization**<br>
-_urban population_: 68.4% of total population (2021)<br>
+_urban population_: 68.5% of total population (2022)<br>
 _rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -252,7 +252,7 @@ _forest_: 54.1% (2018 est.)<br>
 _other_: 16.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 68.4% of total population (2021)<br>
+_urban population_: 68.5% of total population (2022)<br>
 _rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -693,6 +693,7 @@ the Latvian military's inventory is limited and consists of a mixture of Soviet-
 
 **Military service age and obligation**<br>
 18 years of age for voluntary male and female military service; no conscription (abolished 2007) (2021)<br>
+note - as of 2019, women comprised about 16% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Latvia officially became a member of NATO in 2004<br> <p>since 2017, Latvia has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by Canada and had about 1,500 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Latvia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations</p><br>
@@ -703,7 +704,7 @@ Latvia officially became a member of NATO in 2004<br> <p>since 2017, Latvia has 
 <p>Russia demands better Latvian treatment of ethnic Russians in Latvia; boundary demarcated with Latvia and Lithuania; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 209,167 (2020); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
+_stateless persons_: 209,168 (mid-year 2021); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>
 transshipment and destination point for cocaine, synthetic drugs, opiates, and cannabis from Southwest Asia, Western Europe, Latin America, and neighboring Baltic countries; despite improved legislation, vulnerable to money laundering due to nascent enforcement capabilities and comparatively weak regulation of offshore companies and the gaming industry; CIS organized crime (including counterfeiting, corruption, extortion, stolen cars, and prostitution) accounts for most laundered proceeds<br>

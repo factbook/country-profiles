@@ -118,7 +118,7 @@ _female_: 40.9 years (2020 est.)<br>
 population fairly equally distributed<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
@@ -205,7 +205,7 @@ _agricultural land_: 0% (2018 est.)<br>
 _other_: 100% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

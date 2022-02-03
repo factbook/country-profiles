@@ -127,7 +127,7 @@ _female_: 41.7 years (2020 est.)<br>
 the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scottish lowlands between Edinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast<br>
 
 **Urbanization**<br>
-_urban population_: 84.2% of total population (2021)<br>
+_urban population_: 84.4% of total population (2022)<br>
 _rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -249,7 +249,7 @@ _forest_: 11.9% (2018 est.)<br>
 _other_: 17.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 84.2% of total population (2021)<br>
+_urban population_: 84.4% of total population (2022)<br>
 _rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -710,6 +710,7 @@ approximately 1,000 Brunei; approximately 400 Canada (BATUS); approximately 2,20
 
 **Military service age and obligation**<br>
 slight variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in military services including ground combat roles; conscription abolished in 1963 (2021)<br>
+note - as of 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military - note**<br>
 the UK is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for UK-French bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance</p> <p>in 2014, the UK led the formation of the Joint Expeditionary Force (JEF), a pool of high-readiness military forces from Baltic and Scandinavian countries able to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict; its principal geographic area of interest is the High North, North Atlantic, and Baltic Sea regions, where the JEF can complement national capabilities or NATO’s deterrence posture, although it is designed to be flexible and prepared to respond to humanitarian crises further afield; the JEF consists of 10 countries (Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, the Netherlands, Norway, Sweden, and the UK) and was declared operational in 2018; most of the forces in the pool are British, and the UK provides the most rapidly deployable units as well as the command and control elements</p><br>
@@ -726,8 +727,8 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p>in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos islands prohibiting the extraction of any natural resources therein; UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands; territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim; Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,433 (Iran), 14,016 (Eritrea), 10,994 (Sudan), 10,919 (Syria), 9,351 (Afghanistan), 8,350 (Pakistan), 6,399 (Iraq), 5,338 (Sri Lanka) (2020)<br>
-_stateless persons_: 4,662 (2020)<br>
+_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020)<br>
+_stateless persons_: 3,968 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>consumer and transit country for illicit drugs; cocaine and heroin consumption rates among Europe’s highest; criminal organizations engage in domestic drug trafficking and financial crimes; drug use remains linked to serious violence; major source of precursor chemicals used in the production of illicit narcotics</p><br>

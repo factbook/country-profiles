@@ -130,7 +130,7 @@ _female_: 43.6 years (2020 est.)<br>
 a fairly even distribution throughout most of the country; slightly larger concentration in the west in proximity to the Czech border<br>
 
 **Urbanization**<br>
-_urban population_: 53.8% of total population (2021)<br>
+_urban population_: 53.9% of total population (2022)<br>
 _rate of urbanization_: 0.17% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -246,7 +246,7 @@ _forest_: 40.2% (2018 est.)<br>
 _other_: 19.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 53.8% of total population (2021)<br>
+_urban population_: 53.9% of total population (2022)<br>
 _rate of urbanization_: 0.17% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -687,6 +687,7 @@ the inventory of the Slovakian military consists mostly of Soviet-era platforms;
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service; conscription in peacetime suspended in 2004; women are eligible to serve (2021)<br>
+note - as of 2019, women made up around 12% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Slovakia officially became a member of NATO in 2004<br>
@@ -697,7 +698,7 @@ Slovakia officially became a member of NATO in 2004<br>
 <p>bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 1,532 (2020)<br>
+_stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 transshipment point for Southwest Asian heroin bound for Western Europe; producer of synthetic drugs for regional market; consumer of ecstasy<br>

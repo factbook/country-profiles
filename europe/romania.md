@@ -133,7 +133,7 @@ _female_: 44 years (2020 est.)<br>
 urbanization is not particularly high, and a fairly even population distribution can be found throughout most of the country, with urban areas attracting larger and denser populations; Hungarians, the country's largest minority, have a particularly strong presence in eastern Transylvania<br>
 
 **Urbanization**<br>
-_urban population_: 54.3% of total population (2021)<br>
+_urban population_: 54.5% of total population (2022)<br>
 _rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -257,7 +257,7 @@ _forest_: 28.7% (2018 est.)<br>
 _other_: 10.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 54.3% of total population (2021)<br>
+_urban population_: 54.5% of total population (2022)<br>
 _rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -723,7 +723,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 275 (2020)<br>
+_stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 9,211 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Trafficking in persons**<br>

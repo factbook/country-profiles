@@ -122,7 +122,7 @@ _female_: 35.5 years (2020 est.)<br>
 population is mosly clustered along the coast, with roughly a third living in the parish of St. George, in or around the capital of Roseau; the volcanic interior is sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 71.4% of total population (2021)<br>
+_urban population_: 71.7% of total population (2022)<br>
 _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -213,7 +213,7 @@ _forest_: 59.2% (2018 est.)<br>
 _other_: 6.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 71.4% of total population (2021)<br>
+_urban population_: 71.7% of total population (2022)<br>
 _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -295,7 +295,7 @@ _judge selection and term of office_: chief justice of Eastern Caribbean Supreme
 _subordinate courts_: Court of Summary Jurisdiction; magistrates' courts<br>
 
 **Political parties and leaders**<br>
-Dominica Freedom Party or DFP [Judith PESTAINA]<br>Dominica Labor Party or DLP [Roosevelt SKERRIT]<br>Dominica United Workers Party or UWP [Lennox LINTON]<br>
+Dominica Freedom Party or DFP [Kent VITAL]<br>Dominica Labor Party or DLP [Roosevelt SKERRIT]<br>Dominica United Workers Party or UWP [Lennox LINTON]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CD, CDB, CELAC, Commonwealth of Nations, ECCU, FAO, G-77, IAEA, IBRD, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WMO, WTO<br>

@@ -87,7 +87,7 @@ South Africa completely surrounds Lesotho and almost completely surrounds Eswati
 
 **Population**<br>
 56,978,635 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: South African(s)<br>
@@ -141,7 +141,7 @@ _female_: 28.1 years (2020 est.)<br>
 the population concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densly populated than the west as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 67.8% of total population (2021)<br>
+_urban population_: 68.3% of total population (2022)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -263,7 +263,7 @@ _forest_: 7.6% (2018 est.)<br>
 _other_: 13% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 67.8% of total population (2021)<br>
+_urban population_: 68.3% of total population (2022)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 
 **Revenue from coal**<br>
@@ -714,7 +714,7 @@ the SANDF's inventory consists of a mix of domestically-produced and foreign-sup
 
 **Military deployments**<br>
 950 Democratic Republic of the Congo (MONUSCO) (Oct 2021)<br>
-note - in 2021, South Africa sent a contingent of about 300 troops to Mozambique as part of a Southern African Development Community (SADC) force to help quell an insurgency; the South African Government approved a deployment of up to 1,500 troops<br>
+note - in 2021, South Africa sent a contingent of about 1,500 troops to Mozambique as part of a Southern African Development Community (SADC) force to help quell an insurgency<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service; women are eligible to serve in noncombat roles; 2-year service obligation (2021)<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration; the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,054 (Somalia), 15,629 (Ethiopia) (2020); 57,595 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 23,054 (Somalia), 15,629 (Ethiopia) (mid-year 2021); 57,595 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
 _IDPs_: 5,000 (2020)<br>
 
 **Illicit drugs**<br>

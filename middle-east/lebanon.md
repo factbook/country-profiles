@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-Following World War I, France acquired a mandate over the northern portion of the former Ottoman Empire province of Syria. The French demarcated the region of Lebanon in 1920 and granted this area independence in 1943. Since independence, the country has been marked by periods of political turmoil interspersed with prosperity built on its position as a regional center for finance and trade. The country's 1975-90 civil war, which resulted in an estimated 120,000 fatalities, was followed by years of social and political instability. Sectarianism is a key element of Lebanese political life. Neighboring Syria has historically influenced Lebanon's foreign policy and internal policies, and its military occupied Lebanon from 1976 until 2005. The Lebanon-based Hizballah militia and Israel continued attacks and counterattacks against each other after Syria's withdrawal, and fought a brief war in 2006. Lebanon's borders with Syria and Israel remain unresolved.<br>
+As a result of its location at the crossroads of three continents, the area that is modern-day Lebanon is rich in cultural and religious diversity. This region was subject to various foreign conquests for much of its history, including by the Romans, Arabs, and Ottomans. Following World War I, France acquired a mandate over the northern portion of the former Ottoman Empire province of Syria. The French demarcated the region of Lebanon in 1920 and it gained independence in 1943. Since then, Lebanon has experienced periods of political turmoil interspersed with prosperity built on its historical position as a regional center for finance and trade, although that status has significantly diminished since the beginning of Lebanon&rsquo;s economic crisis in 2019, which includes simultaneous currency, debt, and banking crises. The country's 1975-90 civil war, which resulted in an estimated 120,000 fatalities, was followed by years of social and political instability. Sectarianism is a key element of Lebanese political life. Neighboring Syria has historically influenced Lebanon's foreign policy and internal policies, and its military occupied Lebanon from 1976 until 2005. Hizballah - a major Lebanese political party, militia, and international terrorist organization - and Israel continued attacks and counterattacks against each other after Syria's withdrawal, and fought a brief war in 2006. Lebanon's borders with Syria and Israel remain unresolved.<br>
 
 ## Geography
 
@@ -125,7 +125,7 @@ _female_: 34.4 years (2020 est.)<br>
 the majority of the people live on or near the Mediterranean coast, and of these most live in and around the capital, Beirut; favorable growing conditions in the Bekaa Valley, on the southeastern side of the Lebanon Mountains, have attracted farmers and thus the area exhibits a smaller population density<br>
 
 **Urbanization**<br>
-_urban population_: 89.1% of total population (2021)<br>
+_urban population_: 89.3% of total population (2022)<br>
 _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -239,7 +239,7 @@ _forest_: 13.4% (2018 est.)<br>
 _other_: 23.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 89.1% of total population (2021)<br>
+_urban population_: 89.3% of total population (2022)<br>
 _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -317,7 +317,7 @@ _residency requirement for naturalization_: unknown<br>
 
 **Executive branch**<br>
 _chief of state_: President Michel AWN (since 31 October 2016)<br>
-_head of government_: Prime Minister Hassan DIAB (since 22 October 2020); note - the Lebanese Government is in "caretaker" status<br>
+_head of government_: Prime Minister Najib MIQATI (since 20 September 2021)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president and National Assembly<br>
 _elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016 (next to be held in 2022); prime minister appointed by the president in consultation with the National Assembly; deputy prime minister determined during cabinet formation<br>
 _election results_: Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because the Assembly lacked the necessary quorum to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
@@ -334,13 +334,13 @@ _judge selection and term of office_: Court of Cassation judges appointed by Sup
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized tribunals, religious courts; military courts<br>
 
 **Political parties and leaders**<br>
-<p>Al-Ahbash or Association of Islamic Charitable Projects [Adnan TARABULSI]<br>Amal Movement [Nabih BERRI]<br>Azm Movement [Najib MIQATI]<br>Ba’th Arab Socialist Party of Lebanon [Fayiz SHUKR]<br>Free Patriotic Movement or FPM [Gibran BASSIL]<br>Future Movement Bloc [Sa'ad al-HARIRI]<br>Hizballah [Hassan NASRALLAH]<br>Islamic Actions Front [Sheikh Zuhayr al-JU’AYD]<br>Kata'ib Party [Sami GEMAYEL]<br>Lebanese Democratic Party [Talal ARSLAN]<br>Lebanese Forces or LF [Samir JA'JA]<br>Marada Movement [Sulayman FRANJIEH]<br>Progressive Socialist Party or PSP [Walid JUNBLATT]<br>Social Democrat Hunshaqian Party [Sabuh KALPAKIAN]Syrian Social Nationalist Party [Ali QANSO]<br>Syrian Social Nationalist Party [Hanna al-NASHIF]<br>Tashnaq or Armenian Revolutionary Federation [Hagop PAKRADOUNIAN]</p><br>
+<p>Al-Ahbash or Association of Islamic Charitable Projects [Adnan TARABULSI]<br>Amal Movement [Nabih BERRI]<br>Azm Movement [Najib MIQATI]<br>Ba’th Arab Socialist Party of Lebanon [Fayiz SHUKR]<br>Free Patriotic Movement or FPM [Gibran BASSIL]<br>Future Movement Bloc [Sa'ad al-HARIRI]<br>Hizballah [Hassan NASRALLAH]<br>Islamic Actions Front [Sheikh Zuhayr al-JU’AYD]<br>Kata'ib Party [Sami GEMAYEL]<br>Lebanese Democratic Party [Talal ARSLAN]<br>Lebanese Forces or LF [Samir JA'JA]<br>Marada Movement [Sulayman FRANJIEH]<br>Progressive Socialist Party or PSP [Walid JUNBLATT]<br>Social Democrat Hunshaqian Party [Sabuh KALPAKIAN]<br>Syrian Social Nationalist Party [Rabi BANAT]<br>Tashnaq or Armenian Revolutionary Federation [Hagop PAKRADOUNIAN]</p><br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Wael HACHEM (since 15 March 2021)<br>
+_chief of mission_: Ambassador Ambassador Gabriel ISSA (since late January 2018)<br>
 _chancery_: 2560 28th Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-6300<br>
 _FAX_: [1] (202) 939-6324<br>
@@ -679,9 +679,10 @@ the LAF inventory includes a wide mix of mostly older equipment, largely from th
 
 **Military service age and obligation**<br>
 17-25 years of age for voluntary military service (including women); no conscription (2021)<br>
+note - as of 2020, women comprised about 5% of the active duty military<br>
 
 **Military - note**<br>
-<p>as of late 2021, the Lebanese military faced multiple challenges, including securing the border with war-torn Syria from infiltrations of militants linked to the Islamic State and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based militant group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; in 2021, the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br></p> the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,000 personnel deployed in the country as of September 2021<br>
+<p>as of late 2021, the Lebanese military faced multiple challenges, including securing the border with war-torn Syria from infiltrations of militants linked to the Islamic State and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based militant group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; in 2021, the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br></p> the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,500 personnel deployed in the country as of November 2021<br>
 
 ## Terrorism
 

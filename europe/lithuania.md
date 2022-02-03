@@ -126,7 +126,7 @@ _female_: 48.2 years (2020 est.)<br>
 fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda<br>
 
 **Urbanization**<br>
-_urban population_: 68.2% of total population (2021)<br>
+_urban population_: 68.5% of total population (2022)<br>
 _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -252,7 +252,7 @@ _forest_: 34.6% (2018 est.)<br>
 _other_: 20.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 68.2% of total population (2021)<br>
+_urban population_: 68.5% of total population (2022)<br>
 _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -700,7 +700,7 @@ contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint mil
 
 **Military service age and obligation**<br>
 19-26 years of age for conscripted military service (males); 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service (male and female) (2021)<br>
-note - Lithuania conscripts up to 4,000 males each year; conscripts are selected using an automated lottery system<br>
+note(s) - Lithuania conscripts up to 4,000 males each year; conscripts are selected using an automated lottery system; as of 2019, women comprised about 12% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Lithuania officially became a member of NATO in 2004<br> <p>since 2017, Lithuania has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by Germany and had about 1,250 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Lithuania since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base</p><br>
@@ -711,7 +711,7 @@ Lithuania officially became a member of NATO in 2004<br> <p>since 2017, Lithuani
 <p>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; boundary demarcated with Latvia and Lithuania; as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 2,720 (2020)<br>
+_stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>source country for  amphetamine tablets</p><br>

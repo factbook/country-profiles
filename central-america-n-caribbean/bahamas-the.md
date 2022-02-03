@@ -73,7 +73,7 @@ strategic location adjacent to US and Cuba; extensive island chain of which 30 a
 
 **Population**<br>
 352,655 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note: </strong>estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Bahamian(s)<br>
@@ -123,7 +123,7 @@ _female_: 34 years (2020 est.)<br>
 most of the population lives in urban areas, with two-thirds living on New Providence Island where Nassau is located<br>
 
 **Urbanization**<br>
-_urban population_: 83.4% of total population (2021)<br>
+_urban population_: 83.5% of total population (2022)<br>
 _rate of urbanization_: 1.02% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -220,7 +220,7 @@ _forest_: 51.4% (2018 est.)<br>
 _other_: 47.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 83.4% of total population (2021)<br>
+_urban population_: 83.5% of total population (2022)<br>
 _rate of urbanization_: 1.02% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -302,7 +302,7 @@ _subordinate courts_: Industrial Tribunal; Stipendiary and Magistrates' Courts; 
 <strong>note:</strong> the Bahamas is a member of the 15-member Caribbean Community but is not party to the agreement establishing the Caribbean Court of Justice as its highest appellate court;  the Judicial Committee of the Privy Council (in London) serves as the final court of appeal for The Bahamas<br>
 
 **Political parties and leaders**<br>
-Democratic National Alliance or DNA [Christopher MORTIMER, interim leader]<br>Free National Movement or FNM [Hubert MINNIS]<br>Progressive Liberal Party or PLP [Philip "Brave" DAVIS]<br>
+Democratic National Alliance or DNA [Arinthia KOMOLAFE]<br>Free National Movement or FNM [Michael PINTARD]<br>Progressive Liberal Party or PLP [Philip "Brave" DAVIS]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>

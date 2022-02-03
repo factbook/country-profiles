@@ -131,7 +131,7 @@ _female_: 45.1 years (2020 est.)<br>
 with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona<br>
 
 **Urbanization**<br>
-_urban population_: 81.1% of total population (2021)<br>
+_urban population_: 81.3% of total population (2022)<br>
 _rate of urbanization_: 0.24% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Canary Islands, Ceuta, and Melilla<br>
 
@@ -261,7 +261,7 @@ _forest_: 36.8% (2018 est.)<br>
 _other_: 9.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81.1% of total population (2021)<br>
+_urban population_: 81.3% of total population (2022)<br>
 _rate of urbanization_: 0.24% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Canary Islands, Ceuta, and Melilla<br>
 
@@ -719,6 +719,7 @@ approximately 200 Iraq (training mission, counter-ISIS coalition); 350 Latvia (N
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service by a Spanish citizen or legal immigrant, 2-3 year obligation; women allowed to serve in all SAF branches, including combat units; no conscription (abolished 2001), but Spanish Government retains right to mobilize citizens 19-25 years of age in a national emergency (2021)<br>
+note - as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Spain joined NATO in 1982, but refrained from participating in the integrated military structure until 1996<br><br>the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world<br>
@@ -735,8 +736,8 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 <p>in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal; Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island); Morocco serves as the primary launching site of illegal migration into Spain from North Africa; Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,660 (Syria) (2020); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
-_stateless persons_: 5,914 (2020)<br>
+_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_stateless persons_: 6,.92 (mid-year 2021)<br>
 <strong>note: </strong>196,743 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>

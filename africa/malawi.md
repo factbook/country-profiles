@@ -84,7 +84,7 @@ landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physic
 
 **Population**<br>
 20,308,502 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Malawian(s)<br>
@@ -137,7 +137,7 @@ _female_: 16.9 years (2020 est.)<br>
 population density is highest south of Lake Nyasa as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 17.7% of total population (2021)<br>
+_urban population_: 18% of total population (2022)<br>
 _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -267,7 +267,7 @@ _forest_: 34% (2018 est.)<br>
 _other_: 6.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 17.7% of total population (2021)<br>
+_urban population_: 18% of total population (2022)<br>
 _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -708,7 +708,7 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 700 Democratic Republic of the Congo (MONUSCO) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2021)<br>
+18 years of age for voluntary military service (men and women); high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, the Malawi Defense Force’s primary responsibility was external security; it was also tasked as necessary with carrying out policing or other domestic activities, such as disaster relief; Malawi contributes regularly to African Union and UN peace support operations</p><br>
@@ -719,5 +719,5 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,142 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,169 (Burundi) (refugees and asylum seekers), 7,407 (Rwanda) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 32,451 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,169 (Burundi) (refugees and asylum seekers), 7,407 (Rwanda) (refugees and asylum seekers) (2021)<br>
 

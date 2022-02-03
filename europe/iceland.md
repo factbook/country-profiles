@@ -124,7 +124,7 @@ _female_: 37.7 years (2020 est.)<br>
 Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
 
 **Urbanization**<br>
-_urban population_: 93.9% of total population (2021)<br>
+_urban population_: 94% of total population (2022)<br>
 _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -242,7 +242,7 @@ _forest_: 0.3% (2018 est.)<br>
 _other_: 81% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 93.9% of total population (2021)<br>
+_urban population_: 94% of total population (2022)<br>
 _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -663,5 +663,5 @@ Iceland was one of the original 12 countries to sign the North Atlantic Treaty (
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; the European Free Trade Association Surveillance Authority filed a suit against Iceland, claiming the country violated the Agreement on the European Economic Area in failing to pay minimum compensation to Icesave depositors</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 65 (2020)<br>
+_stateless persons_: 73 (mid-year 2021)<br>
 

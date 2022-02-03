@@ -86,7 +86,7 @@ controls Khyber Pass and Bolan Pass, traditional invasion routes between Central
 
 **Population**<br>
 238,181,034 (July 2021 est.)<br>
-<strong>note:</strong> provisional results of Pakistan's 2017 national census estimate the country's total population to be 207,774,000<br>
+<strong>note:</strong> results of Pakistan's 2017 national census estimate the country's total population to be 207,684,626<br>
 
 **Nationality**<br>
 _noun_: Pakistani(s)<br>
@@ -136,7 +136,7 @@ _female_: 22.1 years (2020 est.)<br>
 the Indus River and its tributaries attract most of the settlement, with Punjab province the most densely populated<br>
 
 **Urbanization**<br>
-_urban population_: 37.4% of total population (2021)<br>
+_urban population_: 37.7% of total population (2022)<br>
 _rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -266,7 +266,7 @@ _forest_: 2.1% (2018 est.)<br>
 _other_: 62.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 37.4% of total population (2021)<br>
+_urban population_: 37.7% of total population (2022)<br>
 _rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -363,8 +363,8 @@ _election results_: Arif ALVI elected president; Electoral College vote - Arif A
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the territories' representatives by proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
-_elections_: <br>Senate - bye-election held on 3 March 2021 (next to be held in March 2024)<br>National Assembly - last held on 25 July 2018 (next to be held on 25 July 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JU-F 5, other 13, independent 5; composition - men 80, women 20, percent of women 20%<br><br>National Assembly - percent of votes by party NA; seats by party as of December 2019 - PTI 156, PML-N 84, PPP 55, MMA 16, MQM-P 7, BAP 5, PML-Q 5, BNP 4, GDA 3, AML 1, ANP 1, JWP 1, independent 4; composition - men 273, women 69, percent of women 20.2%; note - total Parliament percent of women 20.1%<br>
+_elections_: <br>Senate - last held on 3 March 2021 (next to be held in March 2024)<br>National Assembly - last held on 25 July 2018 (next to be held on 25 July 2023)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JU-F 5, other 13, independent 5; composition - men 80, women 20, percent of women 20%<br><br>National Assembly - percent of votes by party NA; seats by party as of December 2019 - PTI 156, PML-N 83, PPP 55, MMA 16, MQM-P 7, BAP 5, PML-Q 5, BNP 4, GDA 3, AML 1, ANP 1, JWP 1, independent 4; composition - men 273, women 69, percent of women 20.2%; note - total Parliament percent of women 20.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Pakistan (consists of the chief justice and 16 judges)<br>
@@ -372,11 +372,11 @@ _judge selection and term of office_: justices nominated by an 8-member parliame
 _subordinate courts_: High Courts; Federal Shariat Court; provincial and district civil and criminal courts; specialized courts for issues, such as taxation, banking, and customs<br>
 
 **Political parties and leaders**<br>
-Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML [Sheikh Rashid AHMED]<br>Balochistan Awami Party or BAP [Jam Kamal KHAN] <br>Balochistan National Party-Awami or BNP-A [Mir Israr Ullah ZEHRI]<br>Balochistan National Party-Mengal or BNP-M [Sardar Akhtar Jan MENGAL]<br>Grand Democratic Alliance or GDA (alliance of several parties)<br>Jamhoori Wattan Party or JWP [Shahzain BUGTI]<br>Jamaat-i Islami or JI [Sirajul HAQ]<br>Jamiat-i Ulema-i Islam Fazl-ur Rehman or JUI-F [Fazlur REHMAN]<br>Muttahida Quami Movement-London or MQM-L [Altaf HUSSAIN] (MQM split into two factions in 2016)<br>Muttahida Quami Movement-Pakistan or MQM-P [Dr. Khalid Maqbool SIDDIQUI] (MQM split into two factions in 2016)<br>Muttahida Majlis-e-Amal or MMA [Fazl-ur- REHMAN] (alliance of several parties)<br>National Party or NP [Mir Hasil Khan BIZENJO]<br>Pakhtunkhwa Milli Awami Party or PMAP or PkMAP [Mahmood Khan ACHAKZAI]<br>Pakistan Muslim League-Functional or PML-F [Pir PAGARO or Syed Shah Mardan SHAH-II]<br>Pakistan Muslim League-Nawaz or PML-N [Shehbaz SHARIF]<br>Pakistan Muslim League – Quaid-e-Azam Group or PML-Q [Chaudhry Shujaat HUSSAIN]<br>Pakistan Peoples Party or PPP [Bilawal BHUTTO ZARDARI, Asif Ali ZARDARI]<br>Pakistan Tehrik-e Insaaf or PTI (Pakistan Movement for Justice) [Imran KHAN]Pak Sarzameen Party or PSP [Mustafa KAMAL]<br>Quami Watan Party or QWP [Aftab Ahmed Khan SHERPAO]<br>
+Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML [Sheikh Rashid AHMED]<br>Balochistan Awami Party or BAP [Jam Kamal KHAN] <br>Balochistan National Party-Awami or BNP-A [Mir Israr Ullah ZEHRI]<br>Balochistan National Party-Mengal or BNP-M [Sardar Akhtar Jan MENGAL]<br>Grand Democratic Alliance or GDA (alliance of several parties)<br>Jamhoori Wattan Party or JWP [Shahzain BUGTI]<br>Jamaat-i Islami or JI [Sirajul HAQ]<br>Jamiat-i Ulema-i Islam Fazl-ur Rehman or JUI-F [Fazlur REHMAN]<br>Muttahida Qaumi Movement-London or MQM-L [Altaf HUSSAIN] (MQM split into two factions in 2016)<br>Muttahida Qaumi Movement-Pakistan or MQM-P [Dr. Khalid Maqbool SIDDIQUI] (MQM split into two factions in 2016)<br>Muttahida Majlis-e-Amal or MMA [Fazl-ur- REHMAN] (alliance of several parties)<br>National Party or NP [Abdul Malik BALOCH]<br>Pakhtunkhwa Milli Awami Party or PMAP or PkMAP [Mahmood Khan ACHAKZAI]<br>Pakistan Muslim League-Functional or PML-F [Pir PAGARO or Syed Shah Mardan SHAH-II]<br>Pakistan Muslim League-Nawaz or PML-N [Shehbaz SHARIF]<br>Pakistan Muslim League – Quaid-e-Azam Group or PML-Q [Chaudhry Shujaat HUSSAIN]<br>Pakistan Peoples Party or PPP [Bilawal BHUTTO ZARDARI, Asif Ali ZARDARI]<br>Pakistan Tehrik-e Insaaf or PTI (Pakistan Movement for Justice) [Imran KHAN]Pak Sarzameen Party or PSP [Mustafa KAMAL]<br>Qaumi Watan Party or QWP [Aftab Ahmed Khan SHERPAO]<br>
 <strong>note:</strong> political alliances in Pakistan shift frequently<br>
 
 **International organization participation**<br>
-ADB, ARF, ASEAN (dialogue partner), C, CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNISFA, UNISFA, UNMISS, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Asad Majeed KHAN (since 11 January 2019)<br>
@@ -385,7 +385,6 @@ _telephone_: [1] (202) 243-6500<br>
 _FAX_: [1] (202) 686-1534<br>
 _email address and website_: <br>consularsection@embassyofpakistanusa.org<br><br>https://embassyofpakistanusa.org/<br>
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
-_consulate(s)_: Louisville (KY), San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires Angela AGGELER<br>
@@ -752,8 +751,9 @@ Haqqani Network; Harakat ul-Jihad-i-Islami; Harakat ul-Mujahidin; Hizbul Mujahid
 <p>various talks and confidence-building measures cautiously have begun to defuse tensions over Kashmir, particularly since the October 2005 earthquake in the region; Kashmir nevertheless remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas); UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949; India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964; India and Pakistan have maintained their 2004 cease-fire in Kashmir and initiated discussions on defusing the armed standoff in the Siachen glacier region; Pakistan protests India's fencing the highly militarized Line of Control and construction of the Baglihar Dam on the Chenab River in Jammu and Kashmir, which is part of the larger dispute on water sharing of the Indus River and its tributaries; to defuse tensions and prepare for discussions on a maritime boundary, India and Pakistan seek technical resolution of the disputed boundary in Sir Creek estuary at the mouth of the Rann of Kutch in the Arabian Sea; Pakistani maps continue to show the Junagadh claim in India's Gujarat State; since 2002, with UN assistance, Pakistan has repatriated 3.8 million Afghan refugees, leaving about 2.6 million; Pakistan has sent troops across and built fences along some remote tribal areas of its treaty-defined Durand Line border with Afghanistan, which serve as bases for foreign terrorists and other illegal activities; Afghan, Coalition, and Pakistan military meet periodically to clarify the alignment of the boundary on the ground and on maps</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2.58-2.68 million (1.4 million registered, 1.18-1.28 million undocumented) (Afghanistan) (2017)<br>
+_refugees (country of origin)_: 2.74-3 million (1.4 million registered, 1.34-1.6&nbsp; million undocumented or otherwise categorized) (Afghanistan) (2022)<br>
 _IDPs_: 104,000 (primarily those who remain displaced by counter-terrorism and counter-insurgency operations and violent conflict between armed non-state groups in the Federally Administered Tribal Areas and Khyber-Paktunkwa Province; more than 1 million displaced in northern Waziristan in 2014; individuals also have been displaced by repeated monsoon floods) (2020)<br>
+_stateless persons_: 47 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Pakistan and Pakistanis abroad; the largest human trafficking problem is bonded labor, where traffickers exploit a debt assumed by a worker as part of the terms of employment, entrapping sometimes generations of a family; bonded laborers are forced to work in agriculture, brick kilns, fisheries, mining, textile manufacturing, bangle- and carpet-making; traffickers buy, sell, rent, and kidnap children for forced labor in begging, domestic work, small shops, sex trafficking and stealing; some children are maimed to bring in more money for begging; Afghans, Iranians, and Pakistanis are forced into drug trafficking in border areas and Karachi; Pakistani traffickers lure women and girls away from their families with promises of marriage and exploit the women and girls in sex trafficking; militant groups kidnap, buy, or recruit children and force them to spy, fight, and conduct suicide attacks in Pakistan and Afghanistan<br>

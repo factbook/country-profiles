@@ -131,7 +131,7 @@ _female_: 28.1 years (2020 est.)<br>
 coastal development is significant, especially in the southern coastal plains and the Cibao Valley, where population density is highest; smaller population clusters exist in the interior mountains (Cordillera Central)<br>
 
 **Urbanization**<br>
-_urban population_: 83.2% of total population (2021)<br>
+_urban population_: 83.8% of total population (2022)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -259,7 +259,7 @@ _forest_: 40.8% (2018 est.)<br>
 _other_: 7.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 83.2% of total population (2021)<br>
+_urban population_: 83.8% of total population (2022)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -701,7 +701,8 @@ information varies; approximately 60,000 active personnel (30,000 Army; 13,000 N
 the military is lightly armed with an inventory consisting mostly of older US equipment with limited quantities of material from other countries; since 2010, Brazil and Israel are the leading suppliers of armaments to the Dominican Republic (2021)<br>
 
 **Military service age and obligation**<br>
-17-21 years of age for voluntary military service; recruits must have completed primary school and be Dominican Republic citizens; women may volunteer (2021)<br>
+17-21 years of age for voluntary military service (men and women); recruits must have completed primary school and be Dominican Republic citizens; women may volunteer (2021)<br>
+note - as of 2021, women made up approximately 20% of the active duty military<br>
 
 **Military - note**<br>
 the military's primary focuses are countering illegal immigration and refugees along its 350-kilometer-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief (2021)<br>

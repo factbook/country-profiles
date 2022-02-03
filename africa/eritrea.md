@@ -126,7 +126,7 @@ _female_: 20.8 years (2020 est.)<br>
 density is highest in the center of the country in and around the cities of Asmara (capital) and Keren; smaller settlements exist in the north and south as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 42% of total population (2021)<br>
+_urban population_: 42.6% of total population (2022)<br>
 _rate of urbanization_: 3.67% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -249,7 +249,7 @@ _forest_: 15.1% (2018 est.)<br>
 _other_: 9.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 42% of total population (2021)<br>
+_urban population_: 42.6% of total population (2022)<br>
 _rate of urbanization_: 3.67% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
@@ -658,6 +658,7 @@ the Eritrean Defense Forces inventory is comprised primarily of older Russian an
 
 **Military service age and obligation**<br>
 18-40 years of age for male and female voluntary and compulsory military service (18-27 for female conscription); 18-month conscript service obligation, which includes 4-6 months of military training and one‐year of military or other national service (military service is most common); note - in practice, military service reportedly is often extended indefinitely (2021)<br>
+note - as of 2020, women reportedly made up as much as 30% of the Eritrean military<br>
 
 **Military - note**<br>
 <p>in 2020-2021, the Eritrean military assisted the Ethiopian Government in its war with the Tigray regional government, providing ground forces and combat aircraft; information is limited and varied, but the Eritrean military in 2021 reportedly consisted of about 20 Army divisions (approximately 15 light infantry, 4 mechanized, and 1 commando/special operations) while the Air Force had 2 fighter/ground attack squadrons</p><br>

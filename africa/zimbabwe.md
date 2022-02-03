@@ -83,7 +83,7 @@ landlocked; the Zambezi forms a natural riverine boundary with Zambia; in full f
 
 **Population**<br>
 14,829,988 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Zimbabwean(s)<br>
@@ -135,7 +135,7 @@ _female_: 20.6 years (2020 est.)<br>
 Aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 32.3% of total population (2021)<br>
+_urban population_: 32.4% of total population (2022)<br>
 _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -265,7 +265,7 @@ _forest_: 39.5% (2018 est.)<br>
 _other_: 18% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 32.3% of total population (2021)<br>
+_urban population_: 32.4% of total population (2022)<br>
 _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -716,7 +716,7 @@ the ZDF was formed after independence from the former Rhodesian Army and the two
 <p>Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,199 (Democratic Republic of Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 11,756 (Democratic Republic of Congo) (refugees and asylum seekers) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Zimbabwe is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Zimbabwean women and girls from towns bordering South Africa, Mozambique, and Zambia are subjected to forced labor, including domestic servitude, and prostitution catering to long-distance truck drivers; Zimbabwean men, women, and children experience forced labor in agriculture and domestic servitude in rural areas; family members may recruit children and other relatives from rural areas with promises of work or education in cities and towns where they end up in domestic servitude and sex trafficking; Zimbabwean women and men are lured into exploitative labor situations in South Africa and other neighboring countries<br>

@@ -5,7 +5,7 @@ _North America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The site of several advanced Amerindian civilizations - including the Olmec, Toltec, Teotihuacan, Zapotec, Maya, and Aztec - Mexico was conquered and colonized by Spain in the early 16th century. Administered as the Viceroyalty of New Spain for three centuries, it achieved independence early in the 19th century. Elections held in 2000 marked the first time since the 1910 Mexican Revolution that an opposition candidate - Vicente FOX of the National Action Party (PAN) - defeated the party in government, the Institutional Revolutionary Party (PRI). He was succeeded in 2006 by another PAN candidate Felipe CALDERON, but Enrique PENA NIETO regained the presidency for the PRI in 2012. Left-leaning antiestablishment politician and former mayor of Mexico City (2000-05) Andres Manuel LOPEZ OBRADOR, from the National Regeneration Movement (MORENA), became president in December 2018.<br><br>The global financial crisis in late 2008 caused a massive economic downturn in Mexico the following year, although growth returned quickly in 2010. Ongoing economic and social concerns include low real wages, high underemployment, inequitable income distribution, and few advancement opportunities for the largely indigenous population in the impoverished southern states. Since 2007, Mexico's powerful drug-trafficking organizations have engaged in bloody feuding, resulting in tens of thousands of drug-related homicides.</p><br>
+<p>The site of several advanced Amerindian civilizations - including the Olmec, Toltec, Teotihuacan, Zapotec, Maya, and Aztec - Mexico was conquered and colonized by Spain in the early 16th century. Administered as the Viceroyalty of New Spain for three centuries, it achieved independence early in the 19th century. Elections held in 2000 marked the first time since the 1910 Mexican Revolution that an opposition candidate - Vicente FOX of the National Action Party (PAN) - defeated the party in government, the Institutional Revolutionary Party (PRI). He was succeeded in 2006 by another PAN candidate Felipe CALDERON, but Enrique PENA NIETO regained the presidency for the PRI in 2012. Left-leaning antiestablishment politician and former mayor of Mexico City (2000-05) Andres Manuel LOPEZ OBRADOR, from the National Regeneration Movement (MORENA), became president in December 2018.<br><br>The global financial crisis in late 2008 caused a massive economic downturn in Mexico the following year. Growth rebounded to about 5% in 2010, but then averaged roughly half that for the rest of the decade. In 2020, with the onset of the COVID-19 crisis, Mexico's GDP contracted by 8.3%, its lowest level since the Great Depression. Ongoing economic and social concerns include low real wages, high underemployment, inequitable income distribution, and few advancement opportunities for the largely indigenous population in the impoverished southern states. Since 2007, Mexico's powerful drug-trafficking organizations have engaged in bloody feuding, resulting in tens of thousands of drug-related homicides.</p><br>
 
 ## Geography
 
@@ -140,7 +140,7 @@ _female_: 30.4 years (2020 est.)<br>
 most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City<br>
 
 **Urbanization**<br>
-_urban population_: 81% of total population (2021)<br>
+_urban population_: 81.3% of total population (2022)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -269,7 +269,7 @@ _forest_: 33.3% (2018 est.)<br>
 _other_: 11.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81% of total population (2021)<br>
+_urban population_: 81.3% of total population (2022)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -375,7 +375,7 @@ _election results_: <br>Senate - percent of vote by party - percent of vote by p
 _highest courts_: Supreme Court of Justice or Suprema Corte de Justicia de la Nacion (consists of the chief justice and 11 justices and organized into civil, criminal, administrative, and labor panels) and the Electoral Tribunal of the Federal Judiciary (organized into the superior court, with 7 judges including the court president, and 5 regional courts, each with 3 judges)<br>
 _judge selection and term of office_: Supreme Court justices nominated by the president of the republic and approved by two-thirds vote of the members present in the Senate; justices serve 15-year terms; Electoral Tribunal superior and regional court judges nominated by the Supreme Court and elected by two-thirds vote of members present in the Senate; superior court president elected from among its members to hold office for a 4-year term; other judges of the superior and regional courts serve staggered, 9-year terms<br>
 _subordinate courts_: federal level includes circuit, collegiate, and unitary courts; state and district level courts<br>
-<strong>Note</strong>: in mid-February 2020, the Mexican president endorsed a bill on judicial reform, which proposes changes to 7 articles of the constitution and the issuance of a new Organic Law on the Judicial Branch of the Federation<br>
+<strong>Note</strong>: in April 2021, the Mexican congress passed a judicial reform which changed 7 articles of the constitution and preceded a new Organic Law on the Judicial Branch of the Federation<br>
 
 **Political parties and leaders**<br>
 <p>Citizen's Movement (Movimiento Ciudadano) or MC [Clemente CASTANEDA Hoeflich]<br>Institutional Revolutionary Party (Partido Revolucionario Institucional) or PRI [Claudia RUIZ Massieu]<br>Labor Party (Partido del Trabajo) or PT [Alberto ANAYA Gutierrez]<br>Mexican Green Ecological Party (Partido Verde Ecologista de Mexico) or PVEM [Karen CASTREJON Trujillo]<br>Movement for National Regeneration (Movimiento Regeneracion Nacional) or MORENA [Mario DELGADO Carillo]<br>National Action Party (Partido Accion Nacional) or PAN [Antonio CORTES Mendoza]<br>Party of the Democratic Revolution (Partido de la Revolucion Democratica) or PRD [Jesus ZAMBRANO Grijalva]<br>Together We Make History (Juntos Hacemos Historia) - alliance that includes MORENA, PT, PVEM<br>This Is For Mexico (Va Por Mexico) – alliance that includes PAN, PRI, and PRD</p><br>
@@ -740,7 +740,8 @@ information varies; approximately 223,000 armed forces personnel (160,000 Army; 
 the Mexican military inventory includes a mix of domestically-produced and imported equipment from a variety of mostly Western suppliers; since 2010, the US is the leading supplier of military hardware to Mexico; Mexico's defense industry produces naval vessels and light armored vehicles (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory military service for males (selection for service determined by lottery); conscript service obligation is 12 months; those selected serve on Saturdays in a Batall&oacute;n del Servicio Militar Nacional (National Military Service Battalion) composed entirely of one-year Servicio Militar Nacional (SMN) conscripts; conscripts remain in reserve status until the age of 40; 16 years of age with consent for voluntary enlistment; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; women are eligible for voluntary military service (2021)<br>
+18 years of age for compulsory military service for males (selection for service determined by lottery); conscript service obligation is 12 months; those selected serve on Saturdays in a Batallón del Servicio Militar Nacional (National Military Service Battalion) composed entirely of one-year Servicio Militar Nacional (SMN) conscripts; conscripts remain in reserve status until the age of 40; 16 years of age with consent for voluntary enlistment; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; women are eligible for voluntary military service (2021)<br>
+note - as of 2018, women comprised about 9% of the active duty military<br>
 
 **Military - note**<br>
 the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2024; under these authorities, President LOPEZ OBRADOR has expanded the Mexican military's role in public security duties and other internal tasks; as of 2021, Mexican military operations were heavily focused on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; in addition, the military has been placed in charge of some infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast; in mid-2020, the armed forces were directed to administer the country&rsquo;s land and sea ports and customs services in order to fight crime and corruption; the military also runs approximately 2,700 branches of a state-owned bank<br>
@@ -751,9 +752,9 @@ the constitution was amended in 2019 to grant the president the authority to use
 <p>abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements; the US has intensified security measures to monitor and control legal and illegal personnel, transport, and commodities across its border with Mexico; Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US; Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,676 (Honduras), 9,231 (El Salvador) (2020); 82,976 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 22,254 (Honduras), 10,662 (El Salvador) (mid-year 2021); 82,976 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _IDPs_: 357,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2020)<br>
-_stateless persons_: 13 (2020)<br>
+_stateless persons_: 13 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>major source and transit country for heroin, marijuana, methamphetamine, and illicit synthetic drugs including fentanyl and counterfeit pills destined for the United States; main transit country for cocaine from South America, a transit route and destination for fentanyl and associated precursors originating from China</p><br>

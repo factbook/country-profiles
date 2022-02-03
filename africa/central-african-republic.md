@@ -83,7 +83,7 @@ landlocked; almost the precise center of Africa<br>
 
 **Population**<br>
 5,357,984 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Central African(s)<br>
@@ -136,7 +136,7 @@ _female_: 20.3 years (2020 est.)<br>
 majority of residents live in the western and central areas of the country, especially in and around the capital of Bangui as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 42.6% of total population (2021)<br>
+_urban population_: 43.1% of total population (2022)<br>
 _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -258,7 +258,7 @@ _forest_: 36.2% (2018 est.)<br>
 _other_: 55.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 42.6% of total population (2021)<br>
+_urban population_: 43.1% of total population (2022)<br>
 _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -686,7 +686,7 @@ note - since 2013, CAR has been under a UNSC arms embargo; the embargo bans all 
 18 years of age for military service; no conscription (2021)<br>
 
 **Military - note**<br>
-the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; reportedly only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since; the European Union, France, Russia, the UN, and the US are providing various levels of security assistance <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; Russia sent private military contractors, and as of late 2021, there were reportedly as many as 2,300 providing assistance to the FACA, as well as performing other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its peacekeeping mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; in November 2019, the UN Security Council extended the mandate of the MINUSCA peacekeeping mission another year; as of August 2021, MINUSCA had about 15,000 total personnel<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016; the EUTM-RCA contributes to the restructuring of the country's military and defense sector through advice, training, and educational programs; as of mid-2021, it had trained 4 territorial infantry battalions (Bataillon d’Infanterie Territorial) and 1 amphibious infantry battalion<br><br> <p> </p><br>
+the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; reportedly only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since; the European Union, France, Russia, the UN, and the US are providing various levels of security assistance <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; Russia sent private military contractors, and as of late 2021, there were reportedly as many as 2,300 providing assistance to the FACA, as well as performing other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its peacekeeping mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; in November 2019, the UN Security Council extended the mandate of the MINUSCA peacekeeping mission another year; as of November 2021, MINUSCA had about 15,500 total personnel<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016; the EUTM-RCA contributes to the restructuring of the country's military and defense sector through advice, training, and educational programs; as of mid-2021, it had trained 4 territorial infantry battalions (Bataillon d’Infanterie Territorial) and 1 amphibious infantry battalion<br><br> <p> </p><br>
 
 ## Transnational Issues
 
@@ -694,6 +694,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p>periodic skirmishes persist over water and grazing rights among related pastoral populations along the border with southern Sudan</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,570 (Democratic Republic of Congo) (2021)<br>
+_refugees (country of origin)_: 5,796 (Democratic Republic of Congo) (2021)<br>
 _IDPs_: 722,101 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2021)<br>
 

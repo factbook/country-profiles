@@ -123,7 +123,7 @@ _female_: 38 years (2020 est.)<br>
 most of the population is found on the periphery of the island, with a larger concentration in the north around the capital of Castries<br>
 
 **Urbanization**<br>
-_urban population_: 18.9% of total population (2021)<br>
+_urban population_: 19% of total population (2022)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -236,7 +236,7 @@ _forest_: 77% (2018 est.)<br>
 _other_: 5.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 18.9% of total population (2021)<br>
+_urban population_: 19% of total population (2022)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -318,7 +318,7 @@ _judge selection and term of office_: chief justice of Eastern Caribbean Supreme
 _subordinate courts_: magistrate's court<br>
 
 **Political parties and leaders**<br>
-Lucian People's Movement or LPM [Therold PRUDENT]<br>Saint Lucia Labor Party or SLP [Philip J. PIERRE]<br>United Workers Party or UWP [Allen CHASTANET]<br>
+Saint Lucia Labor Party or SLP [Philip J. PIERRE]<br>United Workers Party or UWP [Allen CHASTANET]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

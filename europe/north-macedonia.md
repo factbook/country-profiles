@@ -127,7 +127,7 @@ _female_: 40 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Urbanization**<br>
-_urban population_: 58.8% of total population (2021)<br>
+_urban population_: 59.1% of total population (2022)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -249,7 +249,7 @@ _forest_: 39.8% (2018 est.)<br>
 _other_: 15.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 58.8% of total population (2021)<br>
+_urban population_: 59.1% of total population (2022)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -324,7 +324,7 @@ _residency requirement for naturalization_: 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Stevo PENDAROVSKI (since 12 May 2019)<br>
-_head of government_: Prime Minister Dimitar KOVACEVSKI (since 16 January 2022)&nbsp;<br>
+_head of government_: Prime Minister Dimitar KOVACEVSKI (since 16 January 2022)<br>
 _cabinet_: Council of Ministers elected by the Assembly by simple majority vote<br>
 _elections/appointments_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be deemed valid; president elected for a 5-year term (eligible for a second term); election last held on 21 April and 5 May 2019 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly; Zoran ZAEV reelected prime minister by the Assembly on 31 August 2020; Assembly vote - 62 for, 51 against<br>
 _election results_: Stevo PENDAROVSKI elected president in second round; percent of vote in first round - Stevo PENDAROVSKI (SDSM) 44.8%, Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 44.2%, Blenim REKA (independent) 11.1%; percent of vote in second round - Stevo PENDAROVSKI 53.6%, Gordana SILJANOVSKA-DAVKOVA 46.4%<br>
@@ -668,6 +668,7 @@ the inventory of North Macedonia's Army consists mostly of Soviet-era equipment;
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2007 (2021)<br>
+note - as of 2019, women made up about 8% of the military's full-time personnel<br>
 
 **Military - note**<br>
 North Macedonia officially became the 30th member of NATO in 2020<br>
@@ -684,7 +685,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Kosovo and North Macedonia completed demarcation of their boundary in September 2008</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 558 (2020)<br>
+_stateless persons_: 553 (mid-year 2021)<br>
 <strong>note:</strong> 525,216 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>

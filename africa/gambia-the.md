@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In the 10th century, Muslim merchants established some of The Gambia’s earliest large settlements as trans-Saharan trade hubs. These settlements eventually grew into major export centers sending slaves, gold, and ivory across the Sahara. Between the 16th and 17th centuries, European colonial powers began establishing trade with The Gambia. In 1664, the United Kingdom established a colony in The Gambia focused on exporting enslaved people across the Atlantic. During the roughly 300 years of the trans-Atlantic slave trade, the UK and other European powers may have exported as many as 3 million people from The Gambia.</p> <p>In 1965, The Gambia gained its independence from the UK. Geographically surrounded by Senegal, it formed the short-lived confederation of Senegambia between 1982 and 1989. In 1994, Yahya JAMMEH led a military coup overthrowing the president and banning political activity. JAMMEH won every presidential election until 2016. In December 2016, after 22 years of authoritarian rule, President JAMMEH lost to Adama BARROW during free and fair elections. Due to The Gambia’s poor human rights record under JAMMEH, international development partners had substantially reduced aid to the country. These channels have now reopened under the administration of President BARROW. Since the 2016 election, The Gambia and the US have enjoyed improved relations. US assistance to the country has supported military education and training programs, capacity building, and democracy-strengthening activities.</p> <br> <p> </p> <p> </p><br>
+<p>In the 10th century, Muslim merchants established some of The Gambia’s earliest large settlements as trans-Saharan trade hubs. These settlements eventually grew into major export centers sending slaves, gold, and ivory across the Sahara. Between the 16th and 17th centuries, European colonial powers began establishing trade with The Gambia. In 1664, the United Kingdom established a colony in The Gambia focused on exporting enslaved people across the Atlantic. During the roughly 300 years of the trans-Atlantic slave trade, the UK and other European powers may have exported as many as 3 million people from The Gambia.</p> <p>The Gambia gained its independence from the UK in 1965. Geographically surrounded by Senegal, it formed the short-lived confederation of Senegambia between 1982 and 1989. In 1994, Yahya JAMMEH led a military coup overthrowing the president and banning political activity. He subsequently won every presidential election until 2016, when he lost to Adama BARROW, who headed an opposition coalition during free and fair elections. BARROW won re-election in December 2021. The Gambia is the only member of the Economic Community of West African States that does not have presidential term limits. Since the 2016 election, The Gambia and the US have enjoyed improved relations. US assistance to the country has supported military education and training programs, capacity building, and democracy-strengthening activities.</p> <br> <p> </p> <p> </p><br>
 
 ## Geography
 
@@ -134,7 +134,7 @@ _female_: 22.2 years (2020 est.)<br>
 settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul, and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 63.2% of total population (2021)<br>
+_urban population_: 63.9% of total population (2022)<br>
 _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -262,7 +262,7 @@ _forest_: 43.9% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 63.2% of total population (2021)<br>
+_urban population_: 63.9% of total population (2022)<br>
 _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -341,8 +341,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Adama BARROW (since 19 January 2017); Vice President Isatou TOURAY (since 15 March 2019); note - the president is both chief of state and head of government<br>
-_head of government_: President Adama BARROW (since 19 January 2017); Vice President Isatou TOURAY (since 15 March 2019)<br>
+_chief of state_: President Adama BARROW (since 19 January 2022); Vice President Isatou TOURAY (since 15 March 2019); note - the president is both chief of state and head of government<br>
+_head of government_: President Adama BARROW (since 19 January 2022); Vice President Isatou TOURAY (since 15 March 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 4 December 2021 (next to be held in 2026); vice president appointed by the president<br>
 _election results_: Adama BARROW reelected president; percent of vote - Adama BARROW (National People's Party) 53.2%, Ousainou DARBOE (United Democratic Party) 27.7%, Mamma KANDEH (GDC)12.3%, Halifa SALLAH (PDOIS) 3.8%, Essa M. FAAL (Independent) 2%, Abdoulie Ebrima JAMMEH (NUP) 0.96%<br>

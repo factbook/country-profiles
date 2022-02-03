@@ -126,7 +126,7 @@ _female_: 38.3 years (2020 est.)<br>
 population on Trinidad is concentrated in the western half of the island, on Tobago in the southern half<br>
 
 **Urbanization**<br>
-_urban population_: 53.3% of total population (2021)<br>
+_urban population_: 53.3% of total population (2022)<br>
 _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -234,7 +234,7 @@ _forest_: 44% (2018 est.)<br>
 _other_: 45.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 53.3% of total population (2021)<br>
+_urban population_: 53.3% of total population (2022)<br>
 _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -309,7 +309,7 @@ _election results_: Paula-Mae WEEKES (independent) elected president; ran unoppo
 _description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives 42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
 _elections_: Senate - last appointments on 23 September 2015 (next in 2020)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
 _election results_: Senate - percent by party - NA; seats by party - NA; composition - men 21, women 10, percent of women 32.3%<br>House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition - NA<br>
-<strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councillors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
+<strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Judicature (consists of a chief justice for both the Court of Appeal with 12 judges and the High Court with 24 judges); note - Trinidad and Tobago can file appeals beyond its Supreme Court to the Caribbean Court of Justice, with final appeal to the Judicial Committee of the Privy Council (in London)<br>
@@ -317,7 +317,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Courts of Summary Criminal Jurisdiction; Petty Civil Courts; Family Court<br>
 
 **Political parties and leaders**<br>
-Congress of the People or COP [Carolyn SEEPERSAD-BACHAN]<br>People's National Movement or PNM [Keith ROWLEY]<br>Progressive Democratic Patriots (Tobago)<br>United National Congress or UNC [Kamla PERSAD-BISSESSAR]<br>
+Congress of the People or COP [Kirt SINNETTE]<br>People's National Movement or PNM [Keith ROWLEY]<br>Progressive Democratic Patriots (Tobago) [Watson DUKE]<br>United National Congress or UNC [Kamla PERSAD-BISSESSAR]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), Paris Club (associate), UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -642,7 +642,8 @@ has approximately 4,500 TTDF personnel; approximately 7,000 TTPS personnel (2021
 the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly second-hand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service (some age variations between services, reserves); no conscription (2021)<br>
+18-25 years of age for voluntary military service (men and women; some age variations between services, reserves); no conscription (2021)<br>
+note - as of 2017, women comprised about 14% of the active military<br>
 
 **Military - note**<br>
 <p>as of 2021, the primary responsibilities for the TTDF were conducting border and maritime security, providing disaster relief, and countering narcotics trafficking in support of law enforcement</p> <p> </p><br>

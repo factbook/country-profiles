@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Senegal is one of the few countries in the world with evidence of continuous human life from the Paleolithic era to present. Between the 14th and 16th centuries, the Jolof Empire ruled most of Senegal. Starting in the 15th century, Portugal, the Netherlands, France, and Great Britain traded along the Senegalese coast. Senegal’s location on the western tip of Africa made it a favorable base for the European slave trade. European powers used the Senegalese island of Goree as a base to purchase slaves from the warring chiefdoms on the mainland, and at the height of the slave trade in Senegal, over one-third of the Senegalese population was enslaved. In 1815, France abolished slavery and began expanding inland. During the second half of the 19th century, France took possession of Senegal as a French colony. In 1959, the French colonies of Senegal and French Sudan were merged and granted independence in 1960 as the Mali Federation. The union broke up after only a few months. In 1982, Senegal joined with The Gambia to form the nominal confederation of Senegambia. The envisaged integration of the two countries was never implemented, and the union dissolved in 1989. <br><br>Since the 1980s, the Movement of Democratic Forces in the Casamance - a separatist movement based in southern Senegal - has led a low-level insurgency. Several attempts at reaching a comprehensive peace agreement have failed. Since 2012, despite sporadic incidents of violence, an unofficial cease-fire has remained largely in effect. Senegal is one of the most stable democracies in Africa and has a long history of participating in international peacekeeping and regional mediation. The Socialist Party of Senegal ruled for 40 years until Abdoulaye WADE was elected president in 2000 and re-elected in 2007. WADE amended Senegal's constitution over a dozen times to increase executive power and weaken the opposition. In 2012, WADE’s decision to run for a third presidential term sparked public backlash that led to his defeat to current President Macky SALL. A 2016 constitutional referendum limited future presidents to two consecutive five-year terms. The change, however, does not apply to SALL's first term. In February 2019, SALL won his bid for re-election; his second term will end in 2024. One month after the 2019 election, the National Assembly voted to abolish the office of the prime minister. Opposition and civil society organizations criticized the decision as a further concentration of power in the executive branch at the expense of the legislative and judicial branches.<br>
+Senegal is one of the few countries in the world with evidence of continuous human life from the Paleolithic era to present. Between the 14th and 16th centuries, the Jolof Empire ruled most of Senegal. Starting in the 15th century, Portugal, the Netherlands, France, and Great Britain traded along the Senegalese coast. Senegal’s location on the western tip of Africa made it a favorable base for the European slave trade. European powers used the Senegalese island of Goree as a base to purchase slaves from the warring chiefdoms on the mainland, and at the height of the slave trade in Senegal, over one-third of the Senegalese population was enslaved. In 1815, France abolished slavery and began expanding inland. During the second half of the 19th century, France took possession of Senegal as a French colony. In 1959, the French colonies of Senegal and French Sudan were merged and granted independence in 1960 as the Mali Federation. The union broke up after only a few months. In 1982, Senegal joined with The Gambia to form the nominal confederation of Senegambia. The envisaged integration of the two countries was never implemented, and the union dissolved in 1989.<br><br>Since the 1980s, the Movement of Democratic Forces in the Casamance - a separatist movement based in southern Senegal - has led a low-level insurgency. Several attempts at reaching a comprehensive peace agreement have failed. Since 2012, despite sporadic incidents of violence, an unofficial cease-fire has remained largely in effect. Senegal is one of the most stable democracies in Africa and has a long history of participating in international peacekeeping and regional mediation. The Socialist Party of Senegal ruled for 40 years until Abdoulaye WADE was elected president in 2000 and re-elected in 2007. WADE amended Senegal's constitution over a dozen times to increase executive power and weaken the opposition. In 2012, WADE’s decision to run for a third presidential term sparked public backlash that led to his defeat to current President Macky SALL. A 2016 constitutional referendum limited future presidents to two consecutive five-year terms. The change, however, does not apply to SALL's first term. In February 2019, SALL won his bid for re-election; his second term will end in 2024. One month after the 2019 election, the National Assembly voted to abolish the office of the prime minister. Opposition and civil society organizations criticized the decision as a further concentration of power in the executive branch at the expense of the legislative and judicial branches.<br>
 
 ## Geography
 
@@ -137,7 +137,7 @@ _female_: 20.3 years (2020 est.)<br>
 the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 48.6% of total population (2021)<br>
+_urban population_: 49.1% of total population (2022)<br>
 _rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -265,7 +265,7 @@ _forest_: 43.8% (2018 est.)<br>
 _other_: 9.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 48.6% of total population (2021)<br>
+_urban population_: 49.1% of total population (2022)<br>
 _rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -706,7 +706,7 @@ note - the National Police operates in major cities, while the Gendarmerie prima
 1.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Senegalese Armed Forces consist of approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2021)<br>
+approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAS inventory includes mostly older or second-hand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program; since 2010, it has received newer equipment from nearly 15 countries, with China, France, and Israel as the leading suppliers (2021)<br>
@@ -716,7 +716,7 @@ the FAS inventory includes mostly older or second-hand equipment from a variety 
 note - in 2021, Senegal also had over 700 police deployed on UN missions<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2021)<br>
+18 years of age for voluntary military service (men and women); 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, Senegalese security forces continued to be engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance; while violent incidents have decreased since a tacit cease-fire was reached in 2012, the insurgency, which began in 1982, remains one of longest running low-level conflicts in the world, claiming more than 5,000 lives and leaving another 60,000 displaced</p><br>

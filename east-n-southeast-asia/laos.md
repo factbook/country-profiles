@@ -133,7 +133,7 @@ _female_: 24.4 years (2020 est.)<br>
 most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia<br>
 
 **Urbanization**<br>
-_urban population_: 36.9% of total population (2021)<br>
+_urban population_: 37.6% of total population (2022)<br>
 _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -257,7 +257,7 @@ _forest_: 67.9% (2018 est.)<br>
 _other_: 21.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 36.9% of total population (2021)<br>
+_urban population_: 37.6% of total population (2022)<br>
 _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

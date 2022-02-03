@@ -119,7 +119,7 @@ _female_: 39.5 years (2020 est.)<br>
 largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest<br>
 
 **Urbanization**<br>
-_urban population_: 89.1% of total population (2021)<br>
+_urban population_: 89% of total population (2022)<br>
 _rate of urbanization_: 0.57% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -203,7 +203,7 @@ _agricultural land: arable land_: arable land: 10% (2018)<br>
 _other_: 90% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 89.1% of total population (2021)<br>
+_urban population_: 89% of total population (2022)<br>
 _rate of urbanization_: 0.57% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

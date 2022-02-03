@@ -136,7 +136,7 @@ _female_: 49.1 years (2020 est.)<br>
 most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia<br>
 
 **Urbanization**<br>
-_urban population_: 77.5% of total population (2021)<br>
+_urban population_: 77.6% of total population (2022)<br>
 _rate of urbanization_: 0.13% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -255,7 +255,7 @@ _forest_: 31.8% (2018 est.)<br>
 _other_: 20.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 77.5% of total population (2021)<br>
+_urban population_: 77.6% of total population (2022)<br>
 _rate of urbanization_: 0.13% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -343,9 +343,10 @@ _elections/appointments_: president indirectly elected by a Federal Convention c
 _election results_: Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher BUTTERWEGGE (The Left) 128, Albrecht GLASER (Alternative for Germany AfD) 42, Alexander HOLD (BVB/FW) 25, Engelbert SONNEBORN (Pirates) 10; Olaf SCHOLZ (SPD) elected chancellor; Federal Parliament vote - 395 to 303<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br>Federal Diet or Bundestag (735 seats for the 2021-25 term - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members' terms depend upon the states they represent)<br>
+_description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br>Federal Diet or Bundestag (736 seats for the 2021-25 term - total seats can vary each electoral term; currently includes 4 seats for independent members; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members' terms depend upon the states they represent)<br>
 _elections_: <br>Bundesrat - none; determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election<br>Bundestag - last held on 26 September 2021 (next to be held in September 2025 at the latest); almost all postwar German governments have been coalitions<br>
 _election results_: <br>Bundesrat - composition - men 46, women 23, percent of women 33.3%<br>Bundestag - percent of vote by party - SPD 25.7%, CDU/CSU 24.1%, Alliance '90/Greens 14.8%, FDP 11.5%, AfD 10.3%, The Left 4.9%, other 8.7%; seats by party - SPD 206, CDU/CSU 196, Alliance '90/Greens 118, FDP 92, AfD 83, The Left 39, other 1; composition - men 479, women 257, percent of women 34.9%; note - total Parliament percent of women 34.8%<br>
+note - due to Germany's recognition of the concepts of "overhang" (when a party's share of the nationwide votes would entitle it to fewer seats than the number of individual constituency seats won in an election under Germany's mixed member proportional system) and "leveling" (whereby additional seats are elected to supplement the members directly elected by each constituency in order to ensure that each party's share of the total seats is roughly proportional to the party's overall shares of votes at the national level), the 20th Bundestag is the largest to date<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)<br>
@@ -733,8 +734,8 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 605,338 (Syria), 147,994 (Afghanistan), 146,009 (Iraq), 61,226 (Eritrea), 44,965 (Iran), 33,345 (Turkey), 28,061 (Somalia), 9,172 (Russia), 8,813 (Nigeria), 8,475 (Pakistan), 7,926 (Serbia and Kosovo), 5,385 (Ethiopia) (2020)<br>
-_stateless persons_: 26,675 (2020)<br>
+_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021)<br>
+_stateless persons_: 26,980 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>maritime transshipment point for cocaine heading to Europe</p><br>

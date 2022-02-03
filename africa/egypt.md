@@ -142,7 +142,7 @@ _female_: 24.5 years (2020 est.)<br>
 approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 42.9% of total population (2021)<br>
+_urban population_: 43% of total population (2022)<br>
 _rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -270,7 +270,7 @@ _forest_: 0.1% (2018 est.)<br>
 _other_: 96.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 42.9% of total population (2021)<br>
+_urban population_: 43% of total population (2022)<br>
 _rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -734,7 +734,7 @@ the EAF's inventory is comprised of a mix of domestically produced, imported Sov
 1,000 Central African Republic (MINUSCA); 1,050 Mali (MINUSMA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
-voluntary enlistment possible from age 16; 18-30 years of age for male conscript military service; service obligation - 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education (2021)<br>
+voluntary enlistment possible from age 16 (men and women); 18-30 years of age for male conscript military service; service obligation - 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education (2021)<br>
 note - over half of the military, as well as a considerable portion of the Central Security Force, is comprised of conscripts<br>
 
 **Military - note**<br>
@@ -752,8 +752,8 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province; Mujahidin 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (2020); 136,727 (Syria) (refugees), 50,759 (Sudan) (refugees and asylum seekers), 20,245 (South Sudan) (refugees and asylum seekers), 19,347 (Eritrea) (refugees and asylum seekers), 15,532 (Ethiopia) (refugees and asylum seekers), 9,449 (Yemen) (refugees and asylum seekers), 6,806 (Iraq) (refugees and asylum seekers), 6,770 (Somalia) (refugees and asylum seekers) (2021)<br>
-_stateless persons_: 10 (2020)<br>
+_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 136,727 (Syria) (refugees), 50,759 (Sudan) (refugees and asylum seekers), 20,245 (South Sudan) (refugees and asylum seekers), 19,347 (Eritrea) (refugees and asylum seekers), 15,532 (Ethiopia) (refugees and asylum seekers), 9,449 (Yemen) (refugees and asylum seekers), 6,806 (Iraq) (refugees and asylum seekers), 6,770 (Somalia) (refugees and asylum seekers) (2021)<br>
+_stateless persons_: 7 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>major source of precursor chemicals used in the production of illicit narcotics</p><br>

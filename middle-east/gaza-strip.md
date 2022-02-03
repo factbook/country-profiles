@@ -5,7 +5,7 @@ _Middle East / Miscellaneous_
 ## Introduction
 
 **Background**<br>
-<p>Inhabited since at least the 15th century B.C., the Gaza Strip has been dominated by many different peoples and empires throughout its history; it was incorporated into the Ottoman Empire in the early 16th century. The Gaza Strip fell to British forces during World War I, becoming a part of the British Mandate of Palestine. Following the 1948 Arab-Israeli War, Egypt administered the newly formed Gaza Strip; Israel captured it in the Six-Day War in 1967. Under a series of agreements known as the Oslo accords signed between 1993 and 1999, Israel transferred to the newly-created Palestinian Authority (PA) security and civilian responsibility for many Palestinian-populated areas of the Gaza Strip as well as the West Bank. In 2000, a violent intifada or uprising began, and in 2001 negotiations to determine the permanent status of the West bank and Gaza Strip stalled. Subsequent attempts to re-start negotiations have not resulted in progress toward determining final status of the Israeli-Palestinian conflict.</p> <p>Israel by late 2005 unilaterally withdrew all of its settlers and soldiers and dismantled its military facilities in the Gaza Strip, but it continues to control the Gaza Strip’s land and maritime borders and airspace. In early 2006, the Islamic Resistance Movement (HAMAS) won a majority in the Palestinian Legislative Council election. Attempts to form a unity government between Fatah, the dominant Palestinian political faction in the West Bank, and HAMAS failed, leading to violent clashes between their respective supporters and HAMAS's violent seizure of all military and governmental institutions in the Gaza Strip in June 2007. Since HAMAS’s takeover, Israel and Egypt have enforced tight restrictions on movement and access of goods and individuals into and out of the territory. Fatah and HAMAS have since reached a series of agreements aimed at restoring political unity between the Gaza Strip and the West Bank but have struggled to enact them; a reconciliation agreement signed in October 2017 remains unimplemented.</p> <p>In July 2014, HAMAS and other Gaza-based militant groups engaged in a 51-day conflict with Israel culminating in late August with an open-ended truce. Since 2014, Palestinian militants and the Israel Defense Forces have exchanged projectiles and air strikes respectively, sometimes lasting multiple days and resulting in multiple deaths on both sides. Egypt, Qatar, and the UN Special Coordinator for the Middle East Peace Process have negotiated multiple ceasefires to avert a broader conflict. Since March 2018, HAMAS has coordinated weekly demonstrations along the Gaza security fence, many of which have turned violent, resulting in one Israeli soldier death and several Israeli soldier injuries as well as more than 200 Palestinian deaths and thousands of injuries.</p><br>
+<p>The Gaza Strip has been under the de facto governing authority of the Islamic Resistance Movement (HAMAS) since 2007, and has faced years of conflict, poverty, and humanitarian crises. Inhabited since at least the 15th century B.C., the Gaza Strip area has been dominated by many different peoples and empires throughout its history; it was incorporated into the Ottoman Empire in the early 16th century. The Gaza Strip fell to British forces during World War I, becoming a part of the British Mandate of Palestine. Following the 1948 Arab-Israeli War, Egypt administered the newly formed Gaza Strip; Israel captured it in the Six-Day War in 1967. Under a series of agreements known as the Oslo accords signed between 1993 and 1999, Israel transferred to the newly-created Palestinian Authority (PA) security and civilian responsibility for many Palestinian-populated areas of the Gaza Strip as well as the West Bank.</p> <p>In 2000, a violent intifada or uprising began, and in 2001 negotiations to determine the permanent status of the West bank and Gaza Strip stalled. Subsequent attempts to re-start negotiations have not resulted in progress toward determining final status of the Israeli-Palestinian conflict. Israel in late 2005 unilaterally withdrew all of its settlers and soldiers and dismantled its military facilities in the Gaza Strip, but it continues to control the Gaza Strip’s land and maritime borders and airspace. In early 2006, HAMAS won a majority in the Palestinian Legislative Council election. Fatah, the dominant Palestinian political faction in the West Bank, and HAMAS failed to maintain a unity government, leading to violent clashes between their respective supporters and HAMAS’s violent seizure of all PA military and governmental institutions in the Gaza Strip in June 2007. Since HAMAS’s takeover, Israel and Egypt have enforced tight restrictions on movement and access of goods and individuals into and out of the territory. Fatah and HAMAS have since reached a series of agreements aimed at restoring political unity between the Gaza Strip and the West Bank but have struggled to enact them.</p> <p>Palestinian militants in the Gaza Strip and the Israel Defense Forces periodically exchange projectiles and air strikes, respectively, threatening broader conflict. In May 2021, HAMAS launched rockets at Israel, sparking an 11-day conflict that also involved other Gaza-based militant groups. Egypt, Qatar, and the UN Special Coordinator for the Middle East Peace Process have negotiated ceasefires to avert a broader conflict. Since 2018, HAMAS has also coordinated demonstrations along the Gaza-Israel security fence. Many of these protests have turned violent, resulting in several Israeli soldiers’ deaths and injuries as well as more than 200 Palestinian deaths and thousands of injuries, most of which occurred during weekly March of Return protests from 2018 to the end of 2019. </p><br>
 
 ## Geography
 
@@ -59,7 +59,7 @@ population concentrated in major cities, particularly Gaza City in the north<br>
 droughts<br>
 
 **Geography - note**<br>
-strategic strip of land along Mideast-North African trade routes has experienced an incredibly turbulent history; the town of Gaza itself has been besieged countless times in its history; there are no Israeli settlements in the Gaza Strip; the Gaza Strip settlements were evacuated in 2005<br>
+once a strategic strip of land along Mideast-North African trade routes that has experienced an incredibly turbulent history; the town of Gaza itself has been besieged countless times in its history; Israel evacuated its civilian settlements and soldiers from the Gaza Strip in 2005<br>
 
 ## People and Society
 
@@ -116,7 +116,7 @@ _female_: 18.4 years (2020 est.)<br>
 population concentrated in major cities, particularly Gaza City in the north<br>
 
 **Urbanization**<br>
-_urban population_: 77% of total population (2021)<br>
+_urban population_: 77.3% of total population (2022)<br>
 _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
@@ -226,7 +226,7 @@ _carbon dioxide emissions_: 3.23 megatons (2016 est.)<br>
 temperate, mild winters, dry and warm to hot summers<br>
 
 **Urbanization**<br>
-_urban population_: 77% of total population (2021)<br>
+_urban population_: 77.3% of total population (2022)<br>
 _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
@@ -256,7 +256,7 @@ _conventional long form_: none<br>
 _conventional short form_: Gaza Strip<br>
 _local long form_: none<br>
 _local short form_: Qita' Ghazzah<br>
-_etymology_: named for the largest city in the region, Gaza, whose settlement can be traced back to at least the 15th century B.C. (as "Ghazzat")<br>
+_etymology_: named for the largest city in the enclave, Gaza, whose settlement can be traced back to at least the 15th century B.C. (as "Ghazzat")<br>
 
 ## Economy
 
@@ -473,7 +473,7 @@ Army of Islam; Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; HAMAS; Islamic 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>the status of the Gaza Strip is a final status issue to be resolved through negotiations; Israel removed settlers and military personnel from Gaza Strip in September 2005</p><br>
+<p>according to the Oslo Accords, the status of the Gaza Strip is a final status issue to be resolved through negotiations; Israel removed settlers and military personnel from Gaza Strip in September 2005</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 1,476,706 (Palestinian refugees) (2020)<br>

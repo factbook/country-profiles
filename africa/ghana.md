@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Formed from the merger of the British colony of the Gold Coast and the Togoland trust territory, Ghana in 1957 became the first Sub-Saharan country in colonial Africa to gain its independence. Ghana endured a series of coups before Lt. Jerry RAWLINGS took power in 1981 and banned political parties. After approving a new constitution and restoring multiparty politics in 1992, RAWLINGS won presidential elections in 1992 and 1996 but was constitutionally prevented from running for a third term in 2000. John KUFUOR of the opposition New Patriotic Party (NPP) succeeded him and was reelected in 2004. John Atta MILLS of the National Democratic Congress won the 2008 presidential election and took over as head of state. MILLS died in July 2012 and was constitutionally succeeded by his vice president, John Dramani MAHAMA, who subsequently won the December 2012 presidential election. In 2016, Nana Addo Dankwa AKUFO-ADDO of the NPP defeated MAHAMA, marking the third time that Ghana&rsquo;s presidency has changed parties since the return to democracy.<br>
+<p>Ghana is a multiethnic country rich in natural resources and is one of the most stable and democratic countries in West Africa. Ghana has been inhabited for at least several thousand years, however, little is known about its early inhabitants. By the 12th century, the gold trade started to boom in Bono (Bonoman) state in what is today southern Ghana, and it became the genesis of Akan power and wealth in the region. Beginning in the 15th century, the Portuguese, followed by other European powers, arrived and contested for trading rights. Numerous kingdoms and empires emerged in the area, among the most powerful were the Kingdom of Dagbon in the north and the Asante (Ashanti) Empire in the south. By the mid-18th century, Asante was a highly organized state with immense wealth; it provided enslaved people for the Atlantic slave trade, and in return received firearms that facilitated its territorial expansion. The Asante resisted increasing British influence in the coastal areas, engaging in a series of wars during the 19th century before ultimately falling under British control. Formed from the merger of the British colony of the Gold Coast and the Togoland trust territory, Ghana in 1957 became the first Sub-Saharan country in colonial Africa to gain its independence, with Kwame NKRUMAH as its first leader.<br><br>Ghana endured a series of coups before Lt. Jerry RAWLINGS took power in 1981 and banned political parties. After approving a new constitution and restoring multiparty politics in 1992, RAWLINGS won presidential elections in 1992 and 1996 but was constitutionally prevented from running for a third term in 2000. John KUFUOR of the opposition New Patriotic Party (NPP) succeeded him and was reelected in 2004. John Atta MILLS of the National Democratic Congress won the 2008 presidential election and took over as head of state. MILLS died in July 2012 and was constitutionally succeeded by his vice president, John Dramani MAHAMA, who subsequently won the December 2012 presidential election. In 2016, Nana Addo Dankwa AKUFO-ADDO of the NPP defeated MAHAMA, marking the third time that Ghana’s presidency had changed parties since the return to democracy. AKUFO-ADDO was reelected in 2020. In recent years, Ghana has taken an active role in promoting regional stability and is highly integrated in international affairs.</p><br>
 
 ## Geography
 
@@ -83,7 +83,7 @@ Lake Volta is the world's largest artificial lake (manmade reservoir) by surface
 
 **Population**<br>
 32,372,889 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Ghanaian(s)<br>
@@ -136,7 +136,7 @@ _female_: 21.9 years (2020 est.)<br>
 population is concentrated in the southern half of the country, with the highest concentrations being on or near the Atlantic coast as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 58% of total population (2021)<br>
+_urban population_: 58.6% of total population (2022)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -267,7 +267,7 @@ _forest_: 21.2% (2018 est.)<br>
 _other_: 9.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 58% of total population (2021)<br>
+_urban population_: 58.6% of total population (2022)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -724,7 +724,7 @@ the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Wester
 <p>disputed maritime border between Ghana and Cote d'Ivoire</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,425 (Cote d'Ivoire) (flight from 2010 post-election fighting) (2021)<br>
+_refugees (country of origin)_: 6,324 (Cote d'Ivoire) (flight from 2010 post-election fighting) (2021)<br>
 
 **Illicit drugs**<br>
 a transit and destination point for illicit drugs trafficked from Asia and South America to other African nations and Europe, and to a lesser extent the United States; cultivation of cannabis for domestic use and is trafficked to regional markets or to Europe<br>

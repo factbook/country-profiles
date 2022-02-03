@@ -137,7 +137,7 @@ _female_: 26 years (2020 est.)<br>
 a high altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
 
 **Urbanization**<br>
-_urban population_: 70.5% of total population (2021)<br>
+_urban population_: 70.8% of total population (2022)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -260,7 +260,7 @@ _forest_: 52.5% (2018 est.)<br>
 _other_: 13.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 70.5% of total population (2021)<br>
+_urban population_: 70.8% of total population (2022)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -713,7 +713,7 @@ note - the National Police is part of the reserves for the Armed Forces<br>
 1.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies widely; approximately 50,000 active troops (37,000 Army; 5,000 Navy; 8,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police; approximately 40,000 National Police (2021)<br>
+information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police; approximately 40,000 National Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Bolivian Armed Forces are equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; since 2010, China and France are the leading suppliers of military hardware to Bolivia (2021)<br>

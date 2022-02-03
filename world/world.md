@@ -99,7 +99,7 @@ six of the world's seven continents are widely and permanently inhabited; Asia i
 <p><strong>most-spoken language: </strong>English 16.5%, Mandarin Chinese 14.6%, Hindi 8.3%, Spanish 7%, French 3.6%, Arabic 3.6%, Bengali 3.4%, Russian 3.4%, Portuguese 3.3%, Indonesian 2.6% (2020 est.) <br><br><strong>most-spoken first language:</strong> Mandarin Chinese 12.3%, Spanish 6%, English 5.1%, Arabic 5.1%, Hindi 3.5%, Bengali 3.3%, Portuguese 3%, Russian 2.1%, Japanese 1.7%, Punjabi, Western 1.3%, Javanese 1.1% (2018 est.)</p> <p><strong>note 1:</strong> the six UN languages - Arabic, Chinese (Mandarin), English, French, Russian, and Spanish (Castilian) - are the mother tongue or second language of about 45% of the world's population, and are the official languages in more than half the states in the world; some 400 languages have more than a million first-language speakers (2018)</p> <p><strong>note 2:</strong> all told, there are estimated to be just over 7,115 languages spoken in the world (2020); approximately 80% of these languages are spoken by less than 100,000 people; about 150 languages are spoken by fewer than 10 people; communities that are isolated from each other in mountainous regions often develop multiple languages; Papua New Guinea, for example, boasts about 840 separate languages (2018)</p> <p><strong>note 3:</strong> approximately 2,300 languages are spoken in Asia, 2,140, in Africa, 1,310 in the Pacific, 1,060 in the Americas, and 290 in Europe (2020)</p><br>
 
 **Religions**<br>
-Christian 31.1%, Muslim 24.9%, Hindu 15.2%, Buddhist 6.6%, folk religions 5.6%, Jewish &lt;1%, other &lt;1%, unaffiliated 15.6% (2015 est.)<br>
+Christian 31.1%, Muslim 24.9%, Hindu 15.2%, Buddhist 6.6%, folk religions 5.6%, Jewish &lt;1%, other &lt;1%, unaffiliated 15.6% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 25.18% (male 1,010,373,278/female 946,624,579)	
@@ -140,7 +140,7 @@ _female_: 31.8 years (2020 est.)<br>
 six of the world's seven continents are widely and permanently inhabited; Asia is easily the most populous continent with about 60% of the world's population (China and India together account for over 35%); Africa comes in second with over 15% of the earth's populace, Europe has about 10%, North America 8%, South America almost 6%, and Oceania less than 1%; the harsh conditions on Antarctica prevent any permanent habitation<br>
 
 **Urbanization**<br>
-_urban population_: 56.6% of total population (2021)<br>
+_urban population_: 57% of total population (2022)<br>
 _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -231,7 +231,7 @@ _Ten Coldest Places on Earth (Lowest Average Monthly Temperature)_: Verkhoyansk,
 _Ten Hottest Places on Earth (Highest Average Monthly Temperature)_: Death Valley, US (California) 39°C (101°F) July<br>Iranshahr, Iran 38.3°C (100.9°F) June <br>Ouallene, Algeria 38°C (100.4°F) July<br>Kuwait City, Kuwait 37.7°C (100°F) July<br>Medina, Saudi Arabia 36°C (97°F) July<br>Buckeye, US (Arizona) 34°C (93°F) July<br>Jazan, Saudi Arabia 33°C (91°F) June<br>Al Kufrah, Libya 31°C (87°F) July<br>Alice Springs, Australia 29°C (84°F) January<br>Tamanrasset, Algeria 29°C (84°F) June<br>
 
 **Urbanization**<br>
-_urban population_: 56.6% of total population (2021)<br>
+_urban population_: 57% of total population (2022)<br>
 _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>

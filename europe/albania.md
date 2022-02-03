@@ -132,7 +132,7 @@ _female_: 35.7 years (2020 est.)<br>
 a fairly even distribution, with somewhat higher concentrations of people in the western and central parts of the country<br>
 
 **Urbanization**<br>
-_urban population_: 63% of total population (2021)<br>
+_urban population_: 63.8% of total population (2022)<br>
 _rate of urbanization_: 1.29% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -256,7 +256,7 @@ _forest_: 28.8% (2018 est.)<br>
 _other_: 28.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 63% of total population (2021)<br>
+_urban population_: 63.8% of total population (2022)<br>
 _rate of urbanization_: 1.29% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -683,6 +683,7 @@ the Albanian military was previously equipped with mostly Soviet-era weapons tha
 
 **Military service age and obligation**<br>
 19 is the legal minimum age for voluntary military service; 18 is the legal minimum age in case of general/partial compulsory mobilization; conscription abolished 2010 (2021)<br>
+note - as of 2020, women comprised about 14% of the military's full-time personnel, including 20% of the officers<br>
 
 **Military - note**<br>
 Albania officially became a member of NATO in 2009<br>
@@ -699,7 +700,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 1,031 (2020)<br>
+_stateless persons_: 1,528 (mid-year 2021)<br>
 <strong>note:</strong> 11,827 estimated refugee and migrant arrivals (January 2015-January 2021)<br>
 
 **Illicit drugs**<br>

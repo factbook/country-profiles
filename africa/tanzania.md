@@ -86,7 +86,7 @@ Kilimanjaro is the highest point in Africa and one of only three mountain ranges
 
 **Population**<br>
 62,092,761 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Tanzanian(s)<br>
@@ -140,7 +140,7 @@ _female_: 18.4 years (2020 est.)<br>
 the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 36% of total population (2021)<br>
+_urban population_: 36.7% of total population (2022)<br>
 _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -270,7 +270,7 @@ _forest_: 37.3% (2018 est.)<br>
 _other_: 19% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 36% of total population (2021)<br>
+_urban population_: 36.7% of total population (2022)<br>
 _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham - Mozambique<br>
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,050 (Burundi), 79,583 (Democratic Republic of the Congo) (2021)<br>
+_refugees (country of origin)_: 125,808 (Burundi), 79,817 (Democratic Republic of the Congo) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>

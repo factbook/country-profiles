@@ -124,7 +124,7 @@ _female_: 41.2 years (2020 est.)<br>
 majority of the population resides on Grand Cayman<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 1.13% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -210,7 +210,7 @@ _forest_: 52.9% (2018 est.)<br>
 _other_: 35.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 1.13% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

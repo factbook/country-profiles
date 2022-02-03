@@ -123,7 +123,7 @@ _female_: 49 years (2020 est.)<br>
 most of the population is found on Saint Pierre Island; a small settlement is located on the north end of Miquelon Island<br>
 
 **Urbanization**<br>
-_urban population_: 90% of total population (2021)<br>
+_urban population_: 90% of total population (2022)<br>
 _rate of urbanization_: 0.75% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -193,7 +193,7 @@ _forest_: 12.5% (2018 est.)<br>
 _other_: 78.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 90% of total population (2021)<br>
+_urban population_: 90% of total population (2022)<br>
 _rate of urbanization_: 0.75% annual rate of change (2020-25 est.)<br>
 
 ## Government

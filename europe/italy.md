@@ -128,7 +128,7 @@ _female_: 47.5 years (2020 est.)<br>
 despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations<br>
 
 **Urbanization**<br>
-_urban population_: 71.3% of total population (2021)<br>
+_urban population_: 71.7% of total population (2022)<br>
 _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -255,7 +255,7 @@ _forest_: 31.4% (2018 est.)<br>
 _other_: 21.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 71.3% of total population (2021)<br>
+_urban population_: 71.7% of total population (2022)<br>
 _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -336,8 +336,8 @@ _residency requirement for naturalization_: 4 years for EU nationals, 5 years fo
 _chief of state_: President Sergio MATTARELLA (since 3 February 2015)<br>
 _head of government_: Prime Minister Mario DRAGHI (since 13 February 2021); the prime minister's official title is President of the Council of Ministers; note - Prime Minister Giuseppe CONTE resigned on 26 January 2021<br>
 _cabinet_: Council of Ministers proposed by the prime minister, known officially as the President of the Council of Ministers and locally as the Premier; nominated by the president; the current deputy prime ministers, known officially as vice-presidents of the Council of Ministers, are Matteo Salvini (L) and Luigi Di Maio (M5S) (since 1 June 2018)<br>
-_elections/appointments_: president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); election last held on 31 January 2015 (next to be held in 2022); prime minister appointed by the president, confirmed by parliament<br>
-_election results_: Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 1,009 (505-vote threshold)<br>
+_elections/appointments_: president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); election last held on 24-29 January 2022 (eight rounds) (next to be held in 2029); prime minister appointed by the president, confirmed by parliament<br>
+_election results_: Sergio MATTARELLA (independent) reelected president; electoral college vote count in eighth round - 759 out of 1,009 (505 vote threshold)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (320 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 193 members in multi-seat constituencies and 6 members in multi-seat constituencies abroad directly elected by party-list proportional representation vote to serve 5-year terms and 5 ex-officio members appointed by the president of the Republic to serve for life)<br>Chamber of Deputies or Camera dei Deputati (630 seats; 629 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member from Valle d'Aosta elected by simple majority vote; members serve 5-year terms)<br>
@@ -713,6 +713,7 @@ the Italian Armed Forces' inventory includes a mix of domestically-produced, joi
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; women may serve in any military branch; Italian citizenship required; 1-year service obligation; conscription abolished 2004 (2021)<br>
+note - as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Italy is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>Italy is an active participant in EU, NATO, UN, and other multinational military, security, and humanitarian operations abroad; as of 2021, it hosted the headquarters for the EU’s Mediterranean naval operations force (EUNAVFOR-MED) in Rome and the US Navy’s 6th Fleet in Naples; Italy was admitted to the UN in 1955 and in 1960 participated in its first UN peacekeeping mission, the UN Operation in Congo (ONUC); since 1960, it has committed more than 60,000 troops to UN missions, and as of 2021, was the top supplier of military and police forces among Western and EU nations to UN peacekeeping operations; since 2006, Italy has hosted a training center in Vicenza for police personnel destined for peacekeeping missions</p><br>
@@ -728,8 +729,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,473 (Nigeria), 14,484 (Pakistan), 12,096 (Afghanistan), 10,063 (Mali), 7,704 (Somalia), 5,740 (Gambia) (2020)<br>
-_stateless persons_: 3,000 (2020)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021)<br>
+_stateless persons_: 3,000 (mid-year 2021)<br>
 <strong>note:</strong> 591,119 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>

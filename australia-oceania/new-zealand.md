@@ -131,7 +131,7 @@ _female_: 37.9 years (2020 est.)<br>
 over three-quarters of New Zealanders, including the indigenous Maori, live on the North Island, primarily in urban areas<br>
 
 **Urbanization**<br>
-_urban population_: 86.8% of total population (2021)<br>
+_urban population_: 86.9% of total population (2022)<br>
 _rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -251,7 +251,7 @@ _forest_: 31.4% (2018 est.)<br>
 _other_: 25.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 86.8% of total population (2021)<br>
+_urban population_: 86.9% of total population (2022)<br>
 _rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -341,7 +341,7 @@ _judge selection and term of office_: justices appointed by the governor-general
 _subordinate courts_: Court of Appeal; High Court; tribunals and authorities; district courts; specialized courts for issues related to employment, environment, family, Maori lands, youth, military; tribunals<br>
 
 **Political parties and leaders**<br>
-ACT New Zealand [David SEYMOUR]<br>Green Party [James SHAW]<br>Mana Movement [Hone HARAWIRA] (formerly Mana Party)<br>Maori Party [Che WILSON and Kaapua SMITH]<br>New Zealand First Party or NZ First [Winston PETERS]<br>New Zealand Labor Party [Jacinda ARDERN]<br>New Zealand National Party [Judith COLLINS]<br>United Future New Zealand [Damian LIGHT]<br>
+ACT New Zealand [David SEYMOUR]<br>Green Party [James SHAW]<br>Mana Movement [Hone HARAWIRA] (formerly Mana Party)<br>Maori Party [Che WILSON and Kaapua SMITH]<br>New Zealand First Party or NZ First [Winston PETERS]<br>New Zealand Labor Party [Jacinda ARDERN]<br>New Zealand National Party [Christopher LUXON]<br>United Future New Zealand [Damian LIGHT]<br>
 
 **International organization participation**<br>
 ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Pacific Alliance (observer), Paris Club (associate), PCA, PIF, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -688,8 +688,8 @@ NZDF is equipped mostly with imported weapons and equipment from Western supplie
 up to 220 Antarctica (summer season only) (2021)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service (men and women); soldiers cannot be deployed until the age of 18; no conscription; (2021)<br>
-note - New Zealand opened up all military occupations to women in 2000; in 2019, women accounted for 17.5% of the uniformed personnel of the NZDF<br>
+17 years of age for voluntary military service (men and women); soldiers cannot be deployed until the age of 18; no conscription (2021)<br>
+note - New Zealand opened up all military occupations to women in 2000; in 2019, women accounted for about 18% of the uniformed full-time personnel<br>
 
 **Military - note**<br>
 <p>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s<br><br>New Zealand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br></p> <p> </p><br>

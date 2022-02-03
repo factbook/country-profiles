@@ -137,7 +137,7 @@ _female_: 15.1 years (2020 est.)<br>
 majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 16.8% of total population (2021)<br>
+_urban population_: 16.9% of total population (2022)<br>
 _rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -268,7 +268,7 @@ _forest_: 1% (2018 est.)<br>
 _other_: 63.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 16.8% of total population (2021)<br>
+_urban population_: 16.9% of total population (2022)<br>
 _rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -717,13 +717,13 @@ the FAN's inventory consists of a wide variety of older weapons; since 2010, the
 
 **Military deployments**<br>
 870 Mali (MINUSMA) (Sep 2021)<br>
-note - Niger is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali, and Mauritania<br>
+note(s) - Niger is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali, Mauritania, and Chad; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane<br><br>Niger also has about 1,000 troops committed to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
 
 **Military service age and obligation**<br>
 has conscription, although it is reportedly not always enforced; 18 is the legal minimum age for compulsory or voluntary military service; enlistees must be Nigerien citizens and unmarried; 2-year service term; women may serve in health care (2021)<br>
 
 **Military - note**<br>
-as of 2021, the FAN was conducting counterinsurgency and counter-terrorism operations against Islamic militants on two fronts; in the Diffa region, the Nigeria-based Boko Haram terrorist group has conducted dozens of attacks on security forces, army bases, and civilians; on Niger’s western border with Mali, the Islamic State-West Africa (ISWA) has conducted numerous attacks on security personnel; a series of ISWA attacks on FAN forces near the Malian border in December of 2019 and January of 2020 resulted in the deaths of more than 170 soldiers; terrorist attacks continued throughout 2020 and into 2021<br><br>Niger is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali, Mauritania, and Chad; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane<br><br>Niger also has about 1,000 troops committed to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically (2021)<br>
+as of 2021, the FAN was conducting counterinsurgency and counter-terrorism operations against Islamic militants on two fronts; in the Diffa region, the Nigeria-based Boko Haram terrorist group has conducted dozens of attacks on security forces, army bases, and civilians; on Niger&rsquo;s western border with Mali, the Islamic State-West Africa (ISWA) has conducted numerous attacks on security personnel; a series of ISWA attacks on FAN forces near the Malian border in December of 2019 and January of 2020 resulted in the deaths of more than 170 soldiers; terrorist attacks continued throughout 2020 and into 2021 (2021)<br>
 
 ## Terrorism
 

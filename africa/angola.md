@@ -136,7 +136,7 @@ _female_: 16.4 years (2020 est.)<br>
 most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 67.5% of total population (2021)<br>
+_urban population_: 68.1% of total population (2022)<br>
 _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -262,7 +262,7 @@ _agricultural land: permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
 _forest_: 54.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 67.5% of total population (2021)<br>
+_urban population_: 68.1% of total population (2022)<br>
 _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -728,7 +728,7 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 <p>Democratic Republic of Congo accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 47,216 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2021)<br>
+_refugees (country of origin)_: 37,091 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2021)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

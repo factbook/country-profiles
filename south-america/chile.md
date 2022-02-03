@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-Prior to the arrival of the Spanish in the 16th century, the Inca ruled northern Chile for nearly a century while an indigenous people, the Mapuche, inhabited central and southern Chile. Although Chile declared its independence in 1810, it did not achieve decisive victory over the Spanish until 1818. In the War of the Pacific (1879-83), Chile defeated Peru and Bolivia to win its present northern regions. In the 1880s, the Chilean central government gained control over the central and southern regions inhabited by the Mapuche. After a series of elected governments, the three-year-old Marxist government of Salvador ALLENDE was overthrown in 1973 by a military coup led by General Augusto PINOCHET, who ruled until a democratically-elected president was inaugurated in 1990. Economic reforms, maintained consistently since the 1980s, contributed to steady growth, reduced poverty rates by over half, and helped secure the country's commitment to democratic and representative government. Chile has increasingly assumed regional and international leadership roles befitting its status as a stable, democratic nation.<br>
+Indigenous groups inhabited central and southern Chile for several thousands of years, living in mixed pastoralist and settled communities, with the Inka also ruling the north of the country for nearly a century prior to the arrival of the Spanish in the 16th century. The Captaincy General of Chile was founded by the Spanish in 1541, lasting until Chile declared its independence in 1810. The subsequent struggle became tied to other South American independence conflicts, with a decisive victory over the Spanish not being achieved until 1818. In the War of the Pacific (1879-83), Chile defeated Peru and Bolivia to win its current northernmost regions. By the 1880s, the Chilean central government cemented its control over the central and southern regions inhabited by Mapuche Indigenous peoples. Between 1891 and 1973, a series of elected governments succeeded each other until the three-year-old Marxist government of Salvador ALLENDE was overthrown in 1973 by a military coup led by General Augusto PINOCHET, who ruled until a democratically-elected president was inaugurated in 1990. Economic reforms, maintained consistently since the 1980s, contributed to steady growth, reduced poverty rates by over half, and helped secure the country's commitment to democratic and representative government. Chile has increasingly assumed regional and international leadership roles befitting its status as a stable, democratic nation.<br>
 
 ## Geography
 
@@ -133,7 +133,7 @@ _female_: 36.7 years (2020 est.)<br>
 90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated<br>
 
 **Urbanization**<br>
-_urban population_: 87.8% of total population (2021)<br>
+_urban population_: 87.9% of total population (2022)<br>
 _rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -252,7 +252,7 @@ _forest_: 21.9% (2018 est.)<br>
 _other_: 57% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 87.8% of total population (2021)<br>
+_urban population_: 87.9% of total population (2022)<br>
 _rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -339,7 +339,7 @@ _elections_: <br>Senate - last held on 21 November 2021 (next to be held on 23 N
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - ChP+ 12 (RN 5, UDI 5, EVOPOLI 2), NPS 8 (PS 4, PPD 2, PDC 2), PLR 1, AD 4 (PCCh 2, FREVS 2) independent 2; compostion - men 36, women 14, percent of women 27.9%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - ChP+ 53 (RN 25, UDI 23, EVOPOLI 4, PRI 1), AD 37 (PCCh 12, CS 9, RD 8, Commons 6, FREVS 2), NPS 37 (PS 13, PDC 8, PPD 7, PL 4, PRSD 4, CIU 1), FSC 15 (PLR 14, PCC 1), PDG 6, DA 3, PEV 2, IU 1, independent 1; composition - men 100, women 55, percent of women 35.5%; note - overall National Congress percent of women 33.7%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members); Elections Qualifying Court (consists of 5 members)<br>
+_highest courts_: Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members) which is independent of he rest of the judiciary; Elections Qualifying Court (consists of 5 members)<br>
 _judge selection and term of office_: Supreme Court president and judges (ministers) appointed by the president of the republic and ratified by the Senate from lists of candidates provided by the court itself; judges appointed for life with mandatory retirement at age 70; Constitutional Court members appointed - 3 by the Supreme Court, 3 by the president of the republic, 2 by the Chamber of Deputies, and 2 by the Senate; members serve 9-year terms with partial membership replacement every 3 years (the court reviews constitutionality of legislation); Elections Qualifying Court members appointed by lottery - 1 by the former president or vice president of the Senate and 1 by the former president or vice president of the Chamber of Deputies, 2 by the Supreme Court, and 1 by the Appellate Court of Valparaiso; members appointed for 4-year terms<br>
 _subordinate courts_: Courts of Appeal; oral criminal tribunals; military tribunals; local police courts; specialized tribunals and courts in matters such as family, labor, customs, taxes, and electoral affairs<br>
 
@@ -688,14 +688,14 @@ note - Carabineros de Chile are responsible to both the Ministry of Defense and 
 2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 80,000 active armed forces personnel (45,000 Army; 20,000 Navy; 15,000 Air Force); approximately 50,000 Carabineros (2021)<br>
+approximately 75,000 active armed forces personnel (45,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Chilean military inventory is comprised of a wide mix of mostly Western equipment and some domestically-produced systems; since 2010, it has received military hardware from nearly 15 countries, including Australia, France, Germany, the Netherlands, and the US; Chile's defense industry has capabilities in military aircraft, ships, and vehicles (2021)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary male and female military service; selective compulsory service (18-45); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2021)<br>
-note - women comprise approximately 18% of the armed forces<br>
+note - as of 2021, women comprised approximately 18% of the armed forces<br>
 
 **Military - note**<br>
 <p>the Chilean Army was founded in 1810, but traces its origins back to the Army of the Kingdom of Chile, which was established by the Spanish Crown in the early 1600s; the Navy traces its origins to 1817; it was first led by a British officer and its first ships were largely crewed by American, British, and Irish sailors; by the 1880s, the Chilean Navy was one of the most powerful in the Americas, and included the world’s first protected cruiser (a ship with an armored deck to protect vital machine spaces); Chile's military aviation was inaugurated in 1913 with the creation of a military aviation school</p><br>

@@ -122,7 +122,7 @@ _female_: 31.8 years (2020 est.)<br>
 2.22 migrant(s)/1,000 population (2021 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 78.6% of total population (2021)<br>
+_urban population_: 78.9% of total population (2022)<br>
 _rate of urbanization_: 1.44% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -230,7 +230,7 @@ _forest_: 71.8% (2018 est.)<br>
 _other_: 25.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 78.6% of total population (2021)<br>
+_urban population_: 78.9% of total population (2022)<br>
 _rate of urbanization_: 1.44% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -650,7 +650,7 @@ Brunei has a long-standing defense relationship with the United Kingdom and host
 <p>per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei in exchange for Brunei's sultan dropping claims to the Limbang corridor, which divides Brunei; nonetheless, Brunei claims a maritime boundary extending as far as a median with Vietnam, thus asserting an implicit claim to Louisa Reef</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 20,863 (2020); note - thousands of stateless persons, often ethnic Chinese, are permanent residents and their families have lived in Brunei for generations; obtaining citizenship is difficult and requires individuals to pass rigorous tests on Malay culture, customs, and language; stateless residents receive an International Certificate of Identity, which enables them to travel overseas; the government is considering changing the law prohibiting non-Bruneians, including stateless permanent residents, from owning land<br>
+_stateless persons_: 20,863 (mid-year 2021); note - thousands of stateless persons, often ethnic Chinese, are permanent residents and their families have lived in Brunei for generations; obtaining citizenship is difficult and requires individuals to pass rigorous tests on Malay culture, customs, and language; stateless residents receive an International Certificate of Identity, which enables them to travel overseas; the government is considering changing the law prohibiting non-Bruneians, including stateless permanent residents, from owning land<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit foreign victims in Brunei; some men and women who migrate to Brunei to work as domestics or in retail or construction are subject to involuntary servitude, debt-based coercion, contract switching, non-payment of wages, passport confiscation, physical abuse, or confinement; some female migrants entering Brunei on tourist visas are forced into prostitution; some traffickers use Brunei as a transit point for victims used for sex and labor trafficking in Malaysia and Indonesia<br>

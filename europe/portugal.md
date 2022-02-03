@@ -127,7 +127,7 @@ _female_: 46.5 years (2020 est.)<br>
 concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities<br>
 
 **Urbanization**<br>
-_urban population_: 66.8% of total population (2021)<br>
+_urban population_: 67.4% of total population (2022)<br>
 _rate of urbanization_: 0.44% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -249,7 +249,7 @@ _forest_: 37.8% (2018 est.)<br>
 _other_: 22.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 66.8% of total population (2021)<br>
+_urban population_: 67.4% of total population (2022)<br>
 _rate of urbanization_: 0.44% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -329,8 +329,8 @@ _election results_: Marcelo REBELO DE SOUSA reelected president in the first rou
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms) (e.g. 2019)<br>
-_elections_: last held on 6 October 2019 (next to be held on 30 January 2022); note - early elections were called after parliament was dissolved on 3 November 2021 because of the 27 October 2021 rejection of the government's budget (e.g. 2019)<br>
-_election results_: percent of vote by party - PS 36.4%, PSD 27.8%, B.E. 9.5%, CDU 6.5%, other 20.8%; seats by party - PS 108, PSD 79,&nbsp; B.E. 19, CDU 12, other 12; composition (as of October 2021) - men 138, women 92, percent of women 40% (e.g. 2019)<br>
+_elections_: last held on 30 January 2022 (next to be held in January 2026); note - early elections were called after parliament was dissolved on 3 November 2021 because of the 27 October 2021 rejection of the government's budget (e.g. 2019)<br>
+_election results_: percent of vote by party - PS 41.7%, PSD 27.8%, IL 5%, BE 4.5%, CDU 4.4%, PAN 1.5%, L 1.3%, Madeira First 0.9%, Democratic Alliance (in the Azores) 0.5%, other 12.4%; seats by party - PS 117, PSD 71,&nbsp; BE 19, IL 12, CDU 12, Madeira First 3, Democratic Alliance 2, PAN 1, L 1; composition (as of October 2021) - men 138, women 92, percent of women 40% (e.g. 2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>
@@ -338,7 +338,7 @@ _judge selection and term of office_: Supreme Court justices nominated by the pr
 _subordinate courts_: Supreme Administrative Court (Supremo Tribunal Administrativo); Audit Court (Tribunal de Contas); appellate, district, and municipal courts<br>
 
 **Political parties and leaders**<br>
-Democratic and Social Center/Popular Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP [Assuncao CRISTAS]<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br>Enough (Chega) [Andre VENTURA]<br>Liberal Initiative (Iniciativa Liberal) or IL [Joao COTRIM DE FIGUEIREDO]<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Andre SILVA]<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP [Jeronimo DE SOUSA]<br>Social Democratic Party (Partido Social Democrata) or PSD (original name Partido Popular Democratico) or PPD [Rui RIO]<br>Socialist Party (Partido Socialista) or PS [Antonio COSTA]<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Catarina MARTINS]<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)<br>
+Democratic Alliance (2022 electoral alliance in the Azores, includes PSD, CDS-PP, PPM)<br>Democratic and Social Center/Popular Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP [Assuncao CRISTAS]<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br>Enough (Chega) [Andre VENTURA]<br>Liberal Initiative (Iniciativa Liberal) or IL [Joao COTRIM DE FIGUEIREDO]<br>Madeira First (2022 electoral alliance in Madeira, includes PSD, CDS-PP)<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Andre SILVA]<br>People's Monarchist Party or PPM [Gonçalo DA CAMARA PEREIRA]<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP [Jeronimo DE SOUSA]<br>Social Democratic Party (Partido Social Democrata) or PSD (original name Partido Popular Democratico or PPD) [Rui RIO]<br>Socialist Party (Partido Socialista) or PS [Antonio COSTA]<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Catarina MARTINS]<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -696,6 +696,7 @@ note - in 2021, Portugal deployed about 80 troops to Mozambique to assist with t
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004), but conscription possible if insufficient volunteers available; women serve in the armed forces, on naval ships since 1992, but are prohibited from serving in some combatant specialties; contract service lasts for an initial period from two to six years, and can be extended to a maximum of 20 years of service; voluntary military service lasts 12 months; reserve obligation to age 35 (2021)<br>
+note - as of 2019, women made up about 12% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Portugal is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
@@ -711,7 +712,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 45 (2020)<br>
+_stateless persons_: 45 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>a European gateway for Southwest Asian heroin; transshipment point for hashish from North Africa to Europe; consumer of Southwest Asian heroin</p> <p> </p><br>

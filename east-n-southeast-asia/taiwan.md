@@ -124,7 +124,7 @@ _female_: 43.1 years (2020 est.)<br>
 distribution exhibits a peripheral coastal settlement pattern, with the largest populations on the north and west coasts<br>
 
 **Urbanization**<br>
-_urban population_: 79.3% of total population (2021)<br>
+_urban population_: 79.7% of total population (2022)<br>
 _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -202,7 +202,7 @@ _agricultural land: permanent crops_: permanent crops: 5.8% (2018 est.)<br>
 _other_: 77.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 79.3% of total population (2021)<br>
+_urban population_: 79.7% of total population (2022)<br>
 _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
@@ -615,6 +615,7 @@ the Taiwan military is armed mostly with second-hand weapons and equipment provi
 
 **Military service age and obligation**<br>
 starting with those born in 1994, males 18-36 years of age may volunteer for military service or must complete 4 months of compulsory military training (or substitute civil service in some cases); men born before December 1993 are required to complete compulsory service for 1 year (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist, but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military in December 2018, the last cohort of one-year military conscripts completed their service obligations (2021)<br>
+note - as of 2018, women made up about 14% of the active duty military<br>
 
 **Military - note**<br>
 the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2021)<br>

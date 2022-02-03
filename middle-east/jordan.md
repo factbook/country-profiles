@@ -134,7 +134,7 @@ _female_: 22.9 years (2020 est.)<br>
 population heavily concentrated in the west, and particularly the northwest, in and around the capital of Amman; a sizeable, but smaller population is located in the southwest along the shore of the Gulf of Aqaba<br>
 
 **Urbanization**<br>
-_urban population_: 91.6% of total population (2021)<br>
+_urban population_: 91.8% of total population (2022)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -260,7 +260,7 @@ _forest_: 1.1% (2018 est.)<br>
 _other_: 87.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 91.6% of total population (2021)<br>
+_urban population_: 91.8% of total population (2022)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -350,7 +350,7 @@ _elections/appointments_: the monarchy is hereditary; prime minister appointed b
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Majlis al-'Umma consists of:<br>Senate or the House of Notables or Majlis al-Ayan (65 seats; members appointed by the monarch to serve 4-year terms)<br>Chamber of Deputies or House of Representatives or Majlis al-Nuwaab (130 seats; 115 members directly elected in 23 multi-seat constituencies by open-list proportional representation vote and 15 seats for women; 12 of the 115 seats reserved for Christian, Chechen, and Circassian candidates; members serve 4-year terms)<br>
-_elections_: <br>Chamber of Deputies - last held on 10 November 2020 (next to be held in 2024)<br>
+_elections_: <br>Chamber of Deputies - last held on 10 November 2020 (next to be held in November 2024)<br>
 _election results_: <br>Chamber of Deputies - note - tribal, centrist, and pro-government candidates dominated in the 130-seat election; the Islamic Action Front, the political wing of the Muslim Brotherhood, garnered only 10 seats, down from 15 in the previous election; women, who are guaranteed 15 seats by Jordan’s legislative quota system, only won the requisite number, down from the 20 seats won in the previous election <p> </p><br>
 
 **Judicial branch**<br>
@@ -359,8 +359,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Courts of Appeal; Great Felonies Court; religious courts; military courts; juvenile courts; Land Settlement Courts; Income Tax Court; Higher Administrative Court; Customs Court; special courts including the State Security Court<br>
 
 **Political parties and leaders**<br>
-Ahrar al-Urdun (Free People of Jordan) Party [Samir al-ZU'BI]<br>Al-Awn al-Watani (National Aid) Party [Faysal al-AWAR]<br>Al-Balad al-Amin Party [Khalil al-SAYED]<br>Al-Itijah al-Watani (National Trend Party) [Ahmad al-KAYED]<br>Al-Mustaqbal (Future) Party [Salah al-QUDAH]<br>Al-Nida’ Party [Abd-al-Majid ABU-KHALID]<br>Al-Rayah Party (Flag Party) [Bilal DHEISAT]<br>Al-Shahama Party [Mashhour ZREIQAT]<br>Al-Shura Party [Firas al-ABBADI]<br>Arab Socialist Ba’th Party [Zyad AL-HOMSI]<br>Conservatives Party [Hasan RASHID]<br>Democratic Popular Unity Party [Sa’eed DHIYAB]<br>Democratic Sha’b Party (HASHD) [Abla ABU-OLBEH]<br>Freedom and Equality Party [Hamad Abu ZEID]<br>Islamic Action Front [Murad AL-ADAYLAH]<br>Islamic Centrist Party [Madallah AL-TARAWNEH]<br>Jordanian Al-Ansar Party [Awni al-RJOUB]<br>Jordanian Al-Hayah Party [Abd-al-Fattah al-KILANI]<br>Jordanian Communist Party [Faraj ITMIZYEH]<br>Jordanian Democratic Socialist Party [Jamil al-NIMRI]<br>Jordanian Democratic Tabiy’ah (Nature) Party [Ali ASFOUR]<br>Jordanian Equality Party [Zuhair al-SHURAFA]<br>Jordanian Fursan (Cavaliers Party) [Ali al-DHWEIB]<br>Jordanian Justice and Development Party [Ali al-SHURAFA]<br>Jordanian National Action Party [Abd-al-Hadi al-MAHARMAH]<br>Jordanian National Constitutional Party [Ahmad al-SHUNNAQ]<br>Jordanian National Democratic Grouping Party [Shakir al-ABBADI]<br>Jordanian National Party [Muna ABU-BAKR]<br>Jordanian National Union Party [Zeid ABU-ZEID]<br>Jordanian Progressive Ba’th Party [Fu’ad DABBOUR]<br>Jordanian Promise Party [Mahmoud al-KHALILI]<br>Jordanian Reform Party [Eid DHAYYAT]<br>Jordanian Social Justice Party [Abd-al-Fattah al-NSOUR]<br>Jordanian Wafa’ (Loyalty) Party [Mazin al-QADI]<br>Justice and Reform Party [Sa’eed Nathir ARABIYAT]<br>Modernity and Change Party [Nayef al-HAMAYDEH]<br>National Congress Party [Irhayil GHARAYBEH] (formerly the Zamzam party)<br>National Renaissance Front Party [Isma’il KHATATBEH]<br>National Unity Party [Muhammad al-ZBOUN]<br>Pan Arab Movement Party [Dayfallah FARRAJ]<br>Partnership and Salvation Party [Muhammad al-HAMMOURI]<br>Reform and Renewal Party [Mazin RYAL]<br>Risalah Party [Hazim QASHOU’]<br>Stronger Jordan Party [Rula al-HROUB]<br>Unified Jordanian Front Party [Farouq AL-ABBADI]<br>
-the above list of parties may not be entirely accurate or exhaustive due to discrepancies between various Jordanian entities; Jordan currently has 49 registered political parties, four of which currently have seats in the elected lower house including the Islamic Action Front, the Islamic Centrist Party, the United Jordanian Front Party, and the National Loyalty Party<br>
+Jordan has 49 registered political parties, four of which currently have seats in the elected Chamber of Deputies including the Islamic Action Front, the Islamic Centrist Party, the United Jordanian Front Party, and the National Loyalty Party<br>
 
 **International organization participation**<br>
 ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MINUSMA, MONUSCO, NAM, OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -705,6 +704,7 @@ the JAF inventory is comprised of a wide mix of imported weapons, mostly second-
 
 **Military service age and obligation**<br>
 17 years of age for voluntary male military service (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term 2 years, with option to reenlist for 18 years; conscription abolished in 1991; however, in 2020, Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of 3 months of military training and 9 months of professional and technical training; in 2019, announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least 6 months; service would include 1 month for military training with the remaining 3 months dedicated to vocational training in the sectors of construction and tourism (2021)<br>
+note - most women serve in the medical service; outside the medical service, women comprised about 1.5% of the military as of 2019; the Jordanian Government intended to raise this to 3%<br>
 
 **Military - note**<br>
 <p>the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s</p> <p>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2021 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of ash-Sham and Syria (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan</p> <p>Jordan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>Jordan signed a peace treaty with Israel in 1994</p><br>
@@ -721,7 +721,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 672,952 (Syria), 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021)<br>
-_stateless persons_: 63 (2021)<br>
+_stateless persons_: 63 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: <p>human traffickers exploit domestic and foreign victims in Jordan and Jordanians abroad; victims are primarily from South and Southeast Asia, East Africa, Egypt, and Syria; foreign migrants, many undocumented, working in construction, agriculture, textiles, and domestic work are the most vulnerable to trafficking because of informal work agreements and frequently changing employers; forced labor victims experience withheld or unpaid wages, confiscation of identity documents, restricted freedom of movement, unsafe living conditions, long hours without rest, isolation, and verbal and physical abuse; child labor and potential forced child labor increased; traffickers exploit Lebanese, North African, and Eastern European women who have migrated to Jordan to work in restaurants and nightclubs are subject to sex trafficking</p><br>

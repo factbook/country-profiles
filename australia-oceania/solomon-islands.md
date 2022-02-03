@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Settlers from Papua arrived on Solomon Islands around 30,000 years ago. About 6,000 years ago, Austronesian settlers came to Solomon Islands and the two groups mixed extensively. Despite significant inter-island trade, no attempts were made to unite the islands into a single political entity. In 1568, Spanish explorer Alvaro de MENDANA became the first European to spot the islands. After a failed Spanish attempt at creating a permanent European settlement on the islands in the late 1500s, Solomon Islands remained free of European contact until 1767 when British explorer Philip CARTERET sailed by the islands. The islands were regularly visited by European explorers and American and British whaling ships into the 1800s, followed by missionaries in the 1850s.<br><br>Germany declared a protectorate over the northern Solomon Islands in 1885 and the UK established a protectorate over the southern islands in 1893. In 1899, Germany transferred its Solomon Islands to the UK in exchange for the UK relinquishing all claims in Samoa. The UK tried to encourage plantation farming but few Europeans were willing to go to Solomon Islands and the UK left most services - such as education and medical services - to missionaries. In 1942, Japan invaded Solomon Islands and significant battles against Allied forces during the Guadalcanal Campaign proved a turning point in the Pacific war. World War II destroyed large parts of Solomon Islands and a nationalism movement emerged near the end of the war. By 1960, the British relented to allow for some local autonomy. The islands were granted self-government in 1976 and independence two years later under Prime Minister Sir Peter KENILOREA.<br><br>In 1999, longstanding ethnic tensions between ethnic Guale in Honiara and ethnic Malaitans in Honiara’s suburbs erupted in civil war, leading thousands of Malaitans to take refuge in Honiara and Guale to flee the city. In 2000, newly-elected Prime Minister Manasseh SOGAVARE focused on peace agreements and distributing resources equally among groups, but his actions bankrupted the government in 2001 and led to SOGAVARE’s ouster. In 2003, Solomon Islands requested international assistance to reestablish law and order. The Australian-led Regional Assistance Mission to the Solomon Islands (RAMSI), which ended in 2017, was generally effective in improving the security situation. In 2006, riots broke out in Honiara and the city’s Chinatown burned over allegations that the prime minister took money from China. SOGAVARE was reelected prime minister for a fourth time following elections in 2019 and that same year announced Solomon Islands would switch diplomatic recognition from Taiwan to China.</p><br>
+<p>Settlers from Papua arrived on Solomon Islands around 30,000 years ago. About 6,000 years ago, Austronesian settlers came to Solomon Islands and the two groups mixed extensively. Despite significant inter-island trade, no attempts were made to unite the islands into a single political entity. In 1568, Spanish explorer Alvaro de MENDANA became the first European to spot the islands. After a failed Spanish attempt at creating a permanent European settlement on the islands in the late 1500s, Solomon Islands remained free of European contact until 1767 when British explorer Philip CARTERET sailed by the islands. The islands were regularly visited by European explorers and American and British whaling ships into the 1800s, followed by missionaries in the 1850s.<br><br>Germany declared a protectorate over the northern Solomon Islands in 1885 and the UK established a protectorate over the southern islands in 1893. In 1899, Germany transferred its Solomon Islands to the UK in exchange for the UK relinquishing all claims in Samoa. The UK tried to encourage plantation farming but few Europeans were willing to go to Solomon Islands and the UK left most services - such as education and medical services - to missionaries. In 1942, Japan invaded Solomon Islands and significant battles against Allied forces during the Guadalcanal Campaign proved a turning point in the Pacific war. World War II destroyed large parts of Solomon Islands and a nationalism movement emerged near the end of the war. By 1960, the British relented to allow for some local autonomy. The islands were granted self-government in 1976 and independence two years later under Prime Minister Sir Peter KENILOREA.<br><br>In 1999, longstanding ethnic tensions between ethnic Guale in Honiara and ethnic Malaitans in Honiara’s suburbs erupted in civil war, leading thousands of Malaitans to take refuge in Honiara and Guale to flee the city. In 2000, newly-elected Prime Minister Manasseh SOGAVARE focused on peace agreements and distributing resources equally among groups, but his actions bankrupted the government in 2001 and led to SOGAVARE’s ouster. In 2003, Solomon Islands requested international assistance to reestablish law and order. The Australian-led Regional Assistance Mission to the Solomon Islands (RAMSI), which ended in 2017, was generally effective in improving the security situation. In 2006, riots broke out in Honiara and the city’s Chinatown burned over allegations that the prime minister took money from China. SOGAVARE was reelected prime minister for a fourth time following elections in 2019 and that same year announced Solomon Islands would switch diplomatic recognition from Taiwan to China. In late November 2021, protestors, mostly from the island of Malaita calling for SOGAVARE’s removal and more development in Malaita, sparked rioting in Honiara. </p><br>
 
 ## Geography
 
@@ -123,7 +123,7 @@ _female_: 23.7 years (2020 est.)<br>
 most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port<br>
 
 **Urbanization**<br>
-_urban population_: 25.1% of total population (2021)<br>
+_urban population_: 25.6% of total population (2022)<br>
 _rate of urbanization_: 3.57% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -240,7 +240,7 @@ _forest_: 78.9% (2018 est.)<br>
 _other_: 17.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 25.1% of total population (2021)<br>
+_urban population_: 25.6% of total population (2022)<br>
 _rate of urbanization_: 3.57% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -309,10 +309,10 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General David VUNAGI (since&nbsp;8 July 2019)<br>
-_head of government_: Prime Minister Rick HOU (since 16 November 2017)<br>
+_head of government_: Prime Minister Manasseh SOGAVARE (since 24 April 2019)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the National Parliament for up to 5 years (eligible for a second term); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the National Parliament; deputy prime minister appointed by the governor general on the advice of the prime minister from among members of the National Parliament<br>
-_election results_: Manasseh SOGAVARE (independent) defeated in no-confidence vote on 6 November 2017; Rick HOU elected prime minister on 15 November 2017<br>
+_election results_: Manasseh SOGAVARE elected prime minister on 24 April 2019, 34 votes out of 50 seat National Parliament<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>

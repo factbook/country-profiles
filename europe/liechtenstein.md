@@ -127,7 +127,7 @@ _female_: 45.3 years (2020 est.)<br>
 most of the population is found in the western half of the country along the Rhine River<br>
 
 **Urbanization**<br>
-_urban population_: 14.5% of total population (2021)<br>
+_urban population_: 14.5% of total population (2022)<br>
 _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -217,7 +217,7 @@ _forest_: 43.1% (2018 est.)<br>
 _other_: 19.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 14.5% of total population (2021)<br>
+_urban population_: 14.5% of total population (2022)<br>
 _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

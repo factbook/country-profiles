@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In 1816, the United Provinces of the Rio Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions.</p> <p>After World War II, an era of Peronist populism and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Nestor and Cristina FERNANDEZ de KIRCHNER, whose policies isolated Argentina and caused economic stagnation. With the election of Mauricio MACRI in November 2015, Argentina began a period of reform and international reintegration.</p><br>
+<p>In 1816, the United Provinces of the Rio Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions.</p> <p>After World War II, an era of populism under former President Juan Domingo PERON - the founder of the Peronist political movement - and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Nestor KIRCHNER (2003-07) and his spouse Cristina FERNANDEZ DE KIRCHNER (2007-15), who oversaw several years of strong economic growth (2003-11) followed by a gradual deterioration in the government’s fiscal situation and eventual economic stagnation and isolation. Argentina underwent a brief period of economic reform and international reintegration under Mauricio MACRI (2015-19), but a recession in 2018-19 and frustration with Macri’s economic policies ushered in a new Peronist government in 2019 led by President Alberto FERNANDEZ and Vice President FERNANDEZ DE KIRCHNER.</p><br>
 
 ## Geography
 
@@ -142,7 +142,7 @@ _female_: 33.6 years (2020 est.)<br>
 one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 92.2% of total population (2021)<br>
+_urban population_: 92.3% of total population (2022)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -261,7 +261,7 @@ _forest_: 10.7% (2018 est.)<br>
 _other_: 35.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 92.2% of total population (2021)<br>
+_urban population_: 92.3% of total population (2022)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -378,7 +378,7 @@ _email address and website_: <br>eeeuu@mrecic.gov.ar<br><br>https://eeeuu.cancil
 _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires MaryKay CARLSON (since 20 January 2021)<br>
+_chief of mission_: Ambassador Marc Robert STANLEY (since 24 January 2022)<br>
 _embassy_: <br>Avenida Colombia 4300, (C1425GMN) Buenos Aires<br>
 _mailing address_: 3130 Buenos Aires Place, Washington DC&nbsp; 20521-3130<br>
 _telephone_: [54] (11) 5777-4533<br>
@@ -728,7 +728,8 @@ the inventory of Argentina's armed forces is a mix of domestically-produced and 
 250 Cyprus (UNFICYP) (Jan 2021)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for voluntary military service; conscription suspended in 1995; Argentinians can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2021)<br>
+18-24 years of age for voluntary military service (men and women); conscription suspended in 1995; Argentinians can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2021)<br>
+note - as of 2017, women made up over 17% of the active duty military<br>
 
 **Military - note**<br>
 as of 2021, the Argentine military was focused primarily on border security and counter-narcotics operations; in 2018, the government approved a decree allowing greater latitude for the military in internal security missions, with a focus on logistics support in border areas<br><br>Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>

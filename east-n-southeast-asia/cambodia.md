@@ -138,7 +138,7 @@ _female_: 27.2 years (2020 est.)<br>
 population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers<br>
 
 **Urbanization**<br>
-_urban population_: 24.7% of total population (2021)<br>
+_urban population_: 25.1% of total population (2022)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -266,7 +266,7 @@ _forest_: 56.5% (2018 est.)<br>
 _other_: 11.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 24.7% of total population (2021)<br>
+_urban population_: 25.1% of total population (2022)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -715,7 +715,8 @@ the Royal Cambodian Armed Forces are armed largely with older Chinese and Russia
 200 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL); 330 Mali (MINUSMA) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for compulsory and voluntary military service (conscription only selectively enforced since 1993) (2021)<br>
+18 is the legal minimum age for compulsory and voluntary military service (conscription only selectively enforced since 1993); women may volunteer (2021)<br>
+note - in 2018, women made up an estimated 6% of the active duty military<br>
 
 **Military - note**<br>
 <p>the Royal Cambodian Armed Forces (RCAF) was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999</p> <p> </p><br>
@@ -726,7 +727,7 @@ the Royal Cambodian Armed Forces are armed largely with older Chinese and Russia
 <p>Cambodia is concerned about Laos' extensive upstream dam construction; Cambodia and Thailand dispute sections of boundary; in 2011 Thailand and Cambodia resorted to arms in the dispute over the location of the boundary on the precipice surmounted by Preah Vihear Temple ruins, awarded to Cambodia by an International Court of Justice decision in 1962 and part of a UN World Heritage site; Cambodia accuses Vietnam of a wide variety of illicit cross-border activities; progress on a joint development area with Vietnam is hampered by an unresolved dispute over sovereignty of offshore islands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 57,444 (2020)<br>
+_stateless persons_: 57,444 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit Cambodian men, women, and children in forced labor and sex trafficking in Cambodia and abroad, and foreign nationals are trafficked in Cambodia; Cambodian adults and children migrate to other countries in the region or increasingly to the Middle East where traffickers force them to work in agriculture, fishing, construction, manufacturing, and domestic servitude; significant numbers of Cambodian men and boys are subject to forced labor on Thai ships in international waters and may experience physical abuse, nonpayment or underpayment of wages, and confinement at sea for years; brick kiln owners exploit thousands of Cambodians, including children, through debt-based coercion; children from poor families are vulnerable to forced labor, often with the complicity of their parents, in domestic servitude, forced begging, or street vending in Thailand and Vietnam; Cambodian and ethnic Vietnamese women and girls from rural areas move to cities and tourist areas where they are sex trafficked<br>

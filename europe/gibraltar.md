@@ -112,7 +112,7 @@ _female_: 36.6 years (2020 est.)<br>
 -3.25 migrant(s)/1,000 population (2021 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 0.45% annual rate of change (2015-20 est.)<br>
 
 **Major urban areas - population**<br>
@@ -189,7 +189,7 @@ _agricultural land_: 0% (2011 est.)<br>
 _other_: 100% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 0.45% annual rate of change (2015-20 est.)<br>
 
 **Waste and recycling**<br>

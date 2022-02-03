@@ -123,7 +123,7 @@ _female_: 25.9 years (2020 est.)<br>
 extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 0.18% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
@@ -223,7 +223,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 80% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
+_urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 0.18% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -594,5 +594,5 @@ Nauru maintains no defense forces; under an informal agreement, defense is the r
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 140 (2020)<br>
+_stateless persons_: 133 (mid-year 2021)<br>
 

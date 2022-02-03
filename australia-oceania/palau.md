@@ -124,7 +124,7 @@ _female_: 35.9 years (2020 est.)<br>
 most of the population is located on the southern end of the main island of Babelthuap<br>
 
 **Urbanization**<br>
-_urban population_: 81.5% of total population (2021)<br>
+_urban population_: 82% of total population (2022)<br>
 _rate of urbanization_: 1.59% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -240,7 +240,7 @@ _forest_: 87.6% (2018 est.)<br>
 _other_: 1.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81.5% of total population (2021)<br>
+_urban population_: 82% of total population (2022)<br>
 _rate of urbanization_: 1.59% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

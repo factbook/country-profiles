@@ -140,7 +140,7 @@ _female_: 38.5 years (2020 est.)<br>
 population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or "outback", has a very sparse population<br>
 
 **Urbanization**<br>
-_urban population_: 86.4% of total population (2021)<br>
+_urban population_: 86.5% of total population (2022)<br>
 _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island<br>
 
@@ -256,7 +256,7 @@ _forest_: 17.42% (2018 est.)<br>
 _other_: 33.42% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 86.4% of total population (2021)<br>
+_urban population_: 86.5% of total population (2022)<br>
 _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island<br>
 
@@ -731,8 +731,8 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary; Australia asserts land and maritime claims to Antarctica; Australia's 2004 submission to the Commission on the Limits of the Continental Shelf extends its continental margins over 3.37 million square kilometers, expanding its seabed roughly 30 percent beyond its claimed EEZ; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,606 (Iran), 10,659 (Afghanistan), 5,416 (Pakistan) (2020)<br>
-_stateless persons_: 5,221 (2020)<br>
+_refugees (country of origin)_: 12,701 (Iran), 10,108 (Afghanistan), 5,400 (Pakistan) (mid-year 2021)<br>
+_stateless persons_: 5,770 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 Tasmania is one of the world's major suppliers of licit opiate products; government maintains strict controls over areas of opium poppy cultivation and output of poppy straw concentrate; major consumer of cocaine and amphetamines<br>

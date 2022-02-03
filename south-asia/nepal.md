@@ -130,7 +130,7 @@ _female_: 26.9 years (2020 est.)<br>
 most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low<br>
 
 **Urbanization**<br>
-_urban population_: 21% of total population (2021)<br>
+_urban population_: 21.5% of total population (2022)<br>
 _rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -258,7 +258,7 @@ _forest_: 25.4% (2018 est.)<br>
 _other_: 45.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 21% of total population (2021)<br>
+_urban population_: 21.5% of total population (2022)<br>
 _rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -687,6 +687,7 @@ Nepal has about 5,500 total troops deployed on UN peacekeeping missions, includi
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (including women); no conscription (2021)<br>
+note - as of 2020, women comprised about 5% of the active duty military<br>
 
 **Military - note**<br>
 <p>Nepal became a member of the UN in 1955 and has been an active participant in UN peacekeeping operations since, sending its first military observers to a UN peacekeeping mission in 1958 and its first peacekeeping military contingent to Egypt in 1974<br><br></p> the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas until merged to form the Royal Gurkha Rifles in 1994; six Gurkha (aka Gorkha in India) regiments went to the new Indian Army; a seventh regiment was later added; Gurkhas are also recruited into the Singaporean Police and a special guard in the Sultanate of Brunei known as the Gurkha Reserve Unit (2021)<br>
@@ -703,8 +704,8 @@ Indian Mujahedeen (2019)<br>
 <p>joint border commission continues to work on contested sections of boundary with India, including the 400 sq km dispute over the source of the Kalapani River; India has instituted a stricter border regime to restrict transit of illegal cross-border activities</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,540 (Tibet/China), 6,365 (Bhutan) (2020)<br>
-_stateless persons_: undetermined (2016); note - the UNHCR is working with the Nepali Government to address the large number of individuals lacking citizenship certificates in Nepal; smaller numbers of Bhutanese Hindu refugees of Nepali origin (the Lhotshampa) who were stripped of Bhutanese nationality and forced to flee their country in the late 1980s and early 1990s - and undocumented Tibetan refugees who arrived in Nepal prior to the 1990s - are considered stateless<br>
+_refugees (country of origin)_: 12,540 (Tibet/China), 6,365 (Bhutan) (mid-year 2021)<br>
+_stateless persons_: undetermined (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>illicit producer of cannabis and hashish for the domestic and international drug markets; transit point for opiates from Southeast Asia to the West</p><br>

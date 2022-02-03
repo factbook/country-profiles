@@ -132,7 +132,7 @@ _female_: 30.7 years (2020 est.)<br>
 most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 50.4% of total population (2021)<br>
+_urban population_: 50.5% of total population (2022)<br>
 _rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -249,7 +249,7 @@ _forest_: 7.7% (2018 est.)<br>
 _other_: 29.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 50.4% of total population (2021)<br>
+_urban population_: 50.5% of total population (2022)<br>
 _rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -698,7 +698,7 @@ Islamic Jihad Union; Islamic Movement of Uzbekistan<br>
 <p>prolonged drought and cotton monoculture in Uzbekistan and Turkmenistan created water-sharing difficulties for Amu Darya river states; field demarcation of the boundaries with Kazakhstan commenced in 2004; border delimitation of 130 km of border with Kyrgyzstan is hampered by serious disputes around enclaves and other areas</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 69,791 (2020)<br>
+_stateless persons_: 59,136 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Uzbekistan is a source country for men, women, and children subjected to forced labor and women and children subjected to sex trafficking; adults are victims of government-organized forced labor during Uzbekistan&rsquo;s annual cotton harvest; local officials in some instances force teachers, students (including children), private businesses employees, and others to work in construction and other forms of non-cotton agriculture and to clean parks, streets, and buildings; traffickers exploit Uzbek women and children in sex trafficking in the Middle East, Eurasia, and Asia, and internally in brothels, clubs, and private residences; traffickers subject Uzbek men, and to a lesser extent women, to forced labor in Kazakhstan, Russia, Moldova, Turkey, and in other Asian, Middle Eastern, and European countries in the construction, oil and gas, agricultural, retail, and food sectors<br>

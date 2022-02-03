@@ -123,7 +123,7 @@ _female_: 33.4 years (2020 est.)<br>
 settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited<br>
 
 **Urbanization**<br>
-_urban population_: 87.5% of total population (2021)<br>
+_urban population_: 87.7% of total population (2022)<br>
 _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -220,7 +220,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 99.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 87.5% of total population (2021)<br>
+_urban population_: 87.7% of total population (2022)<br>
 _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

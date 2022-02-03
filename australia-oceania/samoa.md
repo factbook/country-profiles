@@ -123,7 +123,7 @@ _female_: 26 years (2020 est.)<br>
 about three-quarters of the population lives on the island of Upolu<br>
 
 **Urbanization**<br>
-_urban population_: 17.7% of total population (2021)<br>
+_urban population_: 17.6% of total population (2022)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -243,7 +243,7 @@ _forest_: 60.4% (2018 est.)<br>
 _other_: 27.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 17.7% of total population (2021)<br>
+_urban population_: 17.6% of total population (2022)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -320,9 +320,9 @@ _elections/appointments_: chief of state indirectly elected by the Legislative A
 _election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi unanimously elected by the Legislative Assembly on 5 July 2017<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Fono (51 seats for 2021-2026 term); members from 51 single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)<br>
-_elections_: election last held on 9 April 2021 (next election to be held in 2026)<br>note - head of state TUIMALEALI'IFANO Va’aletoa Sualauvi II declared 9 April 2021 election void on 4 May 2021, new elections set for 21 May 2021; on 17 May 2021, the Supreme Court invalidated the head of state's order allowing the 9 April 2021 election results to stand<br>
-_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independents 5%; seats by party – initial election results - FAST 25, HRPP 25, independents 1; composition - men 46, women 5, percent of women 9.8% <br>note - on 2 June 2021, the Court of Appeals declared that a sixth seat for women is required to meet the minimum 10% representation for women, but that the seat would not be filled until after all election petitions and by-elections are settled<br>
+_description_: unicameral Legislative Assembly or Fono (53 seats for 2021-2026 term); members from 51 single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)<br>
+_elections_: election last held on 9 April 2021 (next election to be held in 2026)<br>
+_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independents 5%; seats by party – FAST 30, HRPP 22, independents 1; composition - men 47, women 6, percent of women 11.3% <br>note - on 29 November 2021, the Election Commissioner added two women seats to parliament, bringing the HRPP’s total from 20 to 22 seats<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>

@@ -123,7 +123,7 @@ _female_: 26.6 years (2020 est.)<br>
 consists of three achipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong<br>
 
 **Urbanization**<br>
-_urban population_: 56.3% of total population (2021)<br>
+_urban population_: 57.1% of total population (2022)<br>
 _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -232,7 +232,7 @@ _forest_: 15% (2018 est.)<br>
 _other_: 43% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 56.3% of total population (2021)<br>
+_urban population_: 57.1% of total population (2022)<br>
 _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

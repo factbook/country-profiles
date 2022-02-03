@@ -126,7 +126,7 @@ _female_: 37.4 years (2020 est.)<br>
 more than three-quarters of the population lives on the main island of Mahe; Praslin contains less than 10%; a smaller percent on La Digue and the outer islands as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 58% of total population (2021)<br>
+_urban population_: 58.4% of total population (2022)<br>
 _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -234,7 +234,7 @@ _forest_: 88.5% (2018 est.)<br>
 _other_: 5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 58% of total population (2021)<br>
+_urban population_: 58.4% of total population (2022)<br>
 _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -649,7 +649,7 @@ the Seychelles People&rsquo;s Defense Forces (SPDF) have approximately 500 perso
 the SPDF's inventory primarily consists of Soviet-era equipment delivered in the 1970s and 1980s; since 2010, the SPDF has received limited amounts of more modern equipment (mostly donations of patrol boats and aircraft) from several suppliers led by China and India (2021)<br>
 
 **Military service age and obligation**<br>
-18-28 years of age for voluntary military service (18-25 for officers); 6-year initial commitment; no conscription (2021)<br>
+18-28 (18-25 for officers) years of age for voluntary military service (including women); 6-year initial commitment; no conscription (2021)<br>
 
 **Military - note**<br>
 <p>formed in 1977, the SPDF's primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling</p><br>

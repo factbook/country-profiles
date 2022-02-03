@@ -134,7 +134,7 @@ _female_: 31.8 years (2020 est.)<br>
 major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
 
 **Urbanization**<br>
-_urban population_: 57.3% of total population (2021)<br>
+_urban population_: 57.9% of total population (2022)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -263,7 +263,7 @@ _forest_: 51.7% (2018 est.)<br>
 _other_: 17.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 57.3% of total population (2021)<br>
+_urban population_: 57.9% of total population (2022)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -311,7 +311,7 @@ _etymology_: the name is an 18th-century construct of two Greek words, "Indos" (
 presidential republic<br>
 
 **Capital**<br>
-_name_: Jakarta; note - Indonesian lawmakers on 18 January 2022 approved the relocation of the country&rsquo;s capital from Jakarta to a site in East Kalimantan, a jungle area of Borneo; the move to Nusantara, the name of the new capital, will take several years&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
+_name_: Jakarta; note - Indonesian lawmakers on 18 January 2022 approved the relocation of the country&rsquo;s capital from Jakarta to a site in East Kalimantan, a jungle area of Borneo; the move to Nusantara, the name of the new capital, will take several years<br>
 _geographic coordinates_: 6 10 S, 106 49 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: Indonesia has three time zones<br>
@@ -705,8 +705,8 @@ _LNG terminal(s) (import)_: Arun, Lampung, West Java<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat (TNI-AD)), Navy (TNI-Angkatan Laut (TNI-AL), includes Marine Corps (Korps Marinir, KorMar), Naval Aviation Center (PUSPENERBAL)), Air Force (TNI-Angkatan Udara (TNI-AU)), National Air Defense Command (Komando Pertahanan Udara Nasional (Kohanudnas)), Armed Forces Special Operations Command (Kopassus), Strategic Reserve Command (Kostrad), National Army Reserve Component (Komcad)<br><br>Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP) is under the Ministry of Transportation (2021)<br>
-note(s) - the Indonesian National Police includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counter-terrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror)<br>
+Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat (TNI-AD)), Navy (TNI-Angkatan Laut (TNI-AL), includes Marine Corps (Korps Marinir, KorMar), Naval Aviation Center (PUSPENERBAL)), Air Force (TNI-Angkatan Udara (TNI-AU)), National Air Defense Command (Komando Pertahanan Udara Nasional (Kohanudnas)), Armed Forces Special Operations Command (Kopassus), Strategic Reserve Command (Kostrad), National Army Reserve Component (Komcad) (2021)<br>
+note(s) - in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br>the Indonesian National Police includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counter-terrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror);<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
@@ -745,9 +745,9 @@ Islamic State of Iraq and ash-Sham (aka Jemaah Anshorut Daulah); Jemaah Islamiya
 <p>Indonesia has a stated foreign policy objective of establishing stable fixed land and maritime boundaries with all of its neighbors; three stretches of land borders with Timor-Leste have yet to be delimited, two of which are in the Oecussi exclave area, and no maritime or Exclusive Economic Zone (EEZ) boundaries have been established between the countries; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia has closed parts of the Ashmore and Cartier Reserve to Indonesian traditional fishing and placed restrictions on certain catches; land and maritime negotiations with Malaysia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea; Indonesia and Singapore continue to work on finalizing their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island; Indonesian secessionists, squatters, and illegal migrants create repatriation problems for Papua New Guinea; maritime delimitation talks continue with Palau; EEZ negotiations with Vietnam are ongoing, and the two countries in Fall 2011 agreed to work together to reduce illegal fishing along their maritime boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,863 (Afghanistan) (2020)<br>
+_refugees (country of origin)_: 5,792 (Afghanistan) (mid-year 2021)<br>
 _IDPs_: 40,000 (inter-communal, inter-faith, and separatist violence between 1998 and 2004 in Aceh and Papua; religious attacks and land conflicts in 2007 and 2013; most IDPs in Aceh, Maluku, East Nusa Tengarra) (2020)<br>
-_stateless persons_: 874 (2020)<br>
+_stateless persons_: 668 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>a transit and destination point for illicit narcotics; consumer of crystal methamphetamine trafficked in Burma and Pakistan and also transit to Australia and New Zealand; significant consumer of ecstasy from China and the Netherlands and domestically grown cannabis</p> <p> </p><br>

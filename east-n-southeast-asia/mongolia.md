@@ -131,7 +131,7 @@ _female_: 30.7 years (2020 est.)<br>
 sparsely distributed population throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
 
 **Urbanization**<br>
-_urban population_: 68.8% of total population (2021)<br>
+_urban population_: 68.9% of total population (2022)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -254,7 +254,7 @@ _forest_: 7% (2018 est.)<br>
 _other_: 20% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 68.8% of total population (2021)<br>
+_urban population_: 68.9% of total population (2022)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -708,5 +708,5 @@ note(s) - from 2003 to July 2021, some 3,300 Mongolian troops served in Afghanis
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 17 (2019)<br>
+_stateless persons_: 17 (mid-year 2021)<br>
 

@@ -130,7 +130,7 @@ _female_: 45.5 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Urbanization**<br>
-_urban population_: 72.2% of total population (2021)<br>
+_urban population_: 72.6% of total population (2022)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -256,7 +256,7 @@ _forest_: 22.5% (2018 est.)<br>
 _other_: 18.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 72.2% of total population (2021)<br>
+_urban population_: 72.6% of total population (2022)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -714,6 +714,7 @@ the inventory of the Hungarian Defense Forces consists largely of Soviet-era wea
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2021)<br>
+note - as of 2019, women comprised approximately 20% of Hungary's full-time military personnel<br>
 
 **Military - note**<br>
 Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>
@@ -725,7 +726,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,950 applicants for forms of legal stay other than asylum (Ukraine) (2015)<br>
-_stateless persons_: 145 (2020)<br>
+_stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 
 **Illicit drugs**<br>

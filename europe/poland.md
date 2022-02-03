@@ -134,7 +134,7 @@ _female_: 43.6 years (2020 est.)<br>
 population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk<br>
 
 **Urbanization**<br>
-_urban population_: 60.1% of total population (2021)<br>
+_urban population_: 60.1% of total population (2022)<br>
 _rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -260,7 +260,7 @@ _forest_: 30.6% (2018 est.)<br>
 _other_: 21.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 60.1% of total population (2021)<br>
+_urban population_: 60.1% of total population (2022)<br>
 _rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -376,7 +376,7 @@ _email address and website_: <br>washington.amb.sekretariat@msz.gov.pl<br><br>ht
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires B. Bix ALIU (since January 2021)<br>
+_chief of mission_: Ambassador Mark BRZEZINSKI (since 19 January 2022)<br>
 _embassy_: Aleje Ujazdowskie 29/31, 00-540 Warsaw<br>
 _mailing address_: 5010 Warsaw Place, Washington, DC 20521-5010<br>
 _telephone_: [48] (22) 504-2000<br>
@@ -725,6 +725,7 @@ note: Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukrain
 
 **Military service age and obligation**<br>
 18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months; women serve in the military on the same terms as men (2021)<br>
+note - as of 2019, women made up about 7% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a multi-national NATO battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by the US and had about 1,000 troops on a continuous rotational basis as of 2021</p><br>
@@ -742,7 +743,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 9,870 (Russia) (2019)<br>
-_stateless persons_: 1,390 (2020)<br>
+_stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>source country for amphetamines</p><br>

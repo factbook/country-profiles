@@ -138,7 +138,7 @@ _female_: 22 years (2020 est.)<br>
 with most of the country being a desert, vast areas of the country, particularly in the central, northern, and eastern areas, are without sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 56.1% of total population (2021)<br>
+_urban population_: 56.9% of total population (2022)<br>
 _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -261,7 +261,7 @@ _forest_: 0.2% (2018 est.)<br>
 _other_: 61.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 56.1% of total population (2021)<br>
+_urban population_: 56.9% of total population (2022)<br>
 _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -706,13 +706,13 @@ the Mauritanian Armed Forces' inventory is limited and made up largely of older 
 
 **Military deployments**<br>
 450 Central African Republic (MINUSCA) (Sep 2021)<br>
-note - Mauritania is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali, and Niger<br>
+note - Mauritania is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali, and Niger; it has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; no conscription (2021)<br>
 
 **Military - note**<br>
-since a spate of terrorist attacks in the 2000s, including a 2008 attack on a military base in the country’s north that resulted in the deaths of 12 soldiers, the Mauritanian Government has increased the defense budget and military equipment acquisitions, enhanced military training, heightened security cooperation with its neighbors and the international community, and built up the military’s special operations and civil-military affairs forces<br><br>Mauritania is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali, and Niger; it has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane (2021)<br>
+since a spate of terrorist attacks in the 2000s, including a 2008 attack on a military base in the country&rsquo;s north that resulted in the deaths of 12 soldiers, the Mauritanian Government has increased the defense budget and military equipment acquisitions, enhanced military training, heightened security cooperation with its neighbors and the international community, and built up the military&rsquo;s special operations and civil-military affairs forces (2021)<br>
 
 ## Terrorism
 
@@ -725,7 +725,7 @@ Al-Qaeda in the Islamic Maghreb (AQIM)<br>
 <p>Mauritanian claims to Western Sahara remain dormant</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,001 (Sahrawis) (2020); 72,816 (Mali) (2021)<br>
+_refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 72,816 (Mali) (2021)<br>
 _IDPs_: 744,944 (conflict in North Mozambique) (2021)<br>
 
 **Trafficking in persons**<br>

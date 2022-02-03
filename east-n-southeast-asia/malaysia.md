@@ -128,7 +128,7 @@ _female_: 29.6 years (2020 est.)<br>
 a highly uneven distribution with over 80% of the population residing on the Malay Peninsula<br>
 
 **Urbanization**<br>
-_urban population_: 77.7% of total population (2021)<br>
+_urban population_: 78.2% of total population (2022)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -253,7 +253,7 @@ _forest_: 62% (2018 est.)<br>
 _other_: 14.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 77.7% of total population (2021)<br>
+_urban population_: 78.2% of total population (2022)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -710,6 +710,7 @@ the Malaysian Armed Forces field a diverse mix of imported weapons systems; the 
 
 **Military service age and obligation**<br>
 17 years 6 months of age for voluntary military service (younger with parental consent and proof of age); mandatory retirement age 60; women serve in the Malaysian Armed Forces; no conscription (2021)<br>
+note - in 2020, the Malaysian Armed Forces announced a goal of having 10% of the active military comprised of women<br>
 
 **Military - note**<br>
 <p>maritime security has long been a top priority for the Malaysian Armed Forces, but it has received even greater emphasis in the 2000s, particularly anti-piracy operations in the Strait of Malacca and countering Chinese naval incursions in Malaysia’s Economic Exclusion Zone, as well as addressing identified shortfalls in maritime capabilities; as such, it has undertaken modest efforts to procure more modern ships, improve air and maritime surveillance, expand the Navy’s support infrastructure (particularly bases/ports) and domestic ship-building capacities, restructure naval command and control, and increase naval cooperation with regional and international partners; as of 2021, for example, the Navy had 6 frigates fitting out or under construction and scheduled for completion by 2023, which will increase the number of operational frigates from 2 to 8; in addition, it began tri-lateral air and naval patrols with Indonesia and the Philippines in 2017; Malaysia also cooperates closely with the US military, including on maritime surveillance and participating regularly in bilateral and multilateral training exercises</p><br>
@@ -726,8 +727,8 @@ Islamic State of Iraq and ash-Sham (ISIS); Jemaah Islamiyah (JI); Abu Sayyaf Gro
 <p>while the 2002 "Declaration on the Conduct of Parties in the South China Sea" has eased tensions over the Spratly Islands, it is not the legally binding "code of conduct" sought by some parties, which is currently being negotiated between China and ASEAN; Malaysia was not party to the March 2005 joint accord among the national oil companies of China, the Philippines, and Vietnam on conducting marine seismic activities in the Spratly Islands; disputes continue over deliveries of fresh water to Singapore, Singapore's land reclamation, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, ICJ awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia, but did not rule on maritime regimes, boundaries, or disposition of South Ledge; land and maritime negotiations with Indonesia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea; separatist violence in Thailand's predominantly Muslim southern provinces prompts measures to close and monitor border with Malaysia to stem terrorist activities; Philippines retains a dormant claim to Malaysia's Sabah State in northern Borneo; per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei in exchange for Brunei's sultan dropping claims to the Limbang corridor, which divides Brunei; piracy remains a problem in the Malacca Strait</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 119,579 (Burma) (2020)<br>
-_stateless persons_: 111,298 (2020); note - Malaysia's stateless population consists of Rohingya refugees from Burma, ethnic Indians, and the children of Filipino and Indonesian illegal migrants; Burma stripped the Rohingya of their nationality in 1982; Filipino and Indonesian children who have not been registered for birth certificates by their parents or who received birth certificates stamped "foreigner" are not eligible to attend government schools; these children are vulnerable to statelessness should they not be able to apply to their parents' country of origin for passports<br>
+_refugees (country of origin)_: 120,126 (Burma) (mid-year 2021)<br>
+_stateless persons_: 112,003 (mid-year 2021); note - Malaysia's stateless population consists of Rohingya refugees from Burma, ethnic Indians, and the children of Filipino and Indonesian illegal migrants; Burma stripped the Rohingya of their nationality in 1982; Filipino and Indonesian children who have not been registered for birth certificates by their parents or who received birth certificates stamped "foreigner" are not eligible to attend government schools; these children are vulnerable to statelessness should they not be able to apply to their parents' country of origin for passports<br>
 
 **Trafficking in persons**<br>
 _current situation_: Malaysia is a destination and, to a lesser extent, a source and transit country for women and children subjected to conditions of forced labor and women and children subjected to sex trafficking; Malaysia is mainly a destination country for foreign workers who migrate willingly from countries including Indonesia, Nepal, India, Thailand, China, the Philippines, Burma, Cambodia, Laos, Bangladesh, Pakistan, and Vietnam, but subsequently they encounter forced labor or debt bondage at the hands of their employers in the domestic, agricultural, construction, plantation, and industrial sectors; a small number of Malaysian citizens were reportedly trafficked internally and to Singapore, China, and Japan for commercial sexual exploitation; refugees are also vulnerable to trafficking; some officials are reportedly complicit in facilitating trafficking; traffickers lure Rohingya women and girls residing in refugee camps in Bangladesh to Malaysia, where they are coerced to engage in commercial sex<br>

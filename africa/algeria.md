@@ -135,7 +135,7 @@ _female_: 29.3 years (2020 est.)<br>
 the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 74.3% of total population (2021)<br>
+_urban population_: 74.8% of total population (2022)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -254,7 +254,7 @@ _forest_: 0.8% (2018 est.)<br>
 _other_: 81.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 74.3% of total population (2021)<br>
+_urban population_: 74.8% of total population (2022)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -338,7 +338,7 @@ _election results_: <em>2019:</em> Abdelmadjid TEBBOUNE (FLN) 58.1%, Abdelkader 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Barlaman consists of:<br>Council of the Nation or Majlis al-Umma (144 seats; one-third of members appointed by the president, two-thirds indirectly elected by simple majority vote by an electoral college composed of local council members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National People's Assembly or <small></small>al-Majlis al-Sha'abi al-Watani (407 seats including 8 seats for Algerian diaspora); members directly elected in multi-seat constituencies by open-list proportional representation vote to serve 5-year terms); note - in March 2021, President TEBBOUNE ordered the number of Assembly seats be reduced to 407 from 462<br>
 _elections_: <br>Council of the Nation - last held on 29 December 2018 (next NA)<br>National People's Assembly - snap election held on 12 June 2021 (next to be held on 12 June 2026)<br>
-_election results_: <br>Council of the Nation - percent of vote by party - NA; seats by party - NA; composition - men 137, women 7, percent of women 5%,<br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, EL Mostakbel (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition - men 373, women 34, percent of women 8.4%; note - total Parliament percent of women 7.4%<br>
+_election results_: <br>Council of the Nation - percent of vote by party - NA; seats by party - NA; composition - men 137, women 7, percent of women 5%,<br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, (Future Front) 48, Movement of National Construction 39, other 15, independent 84; composition - men 373, women 34, percent of women 8.4%; note - total Parliament percent of women 7.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Le Cour Supr&ecirc;me, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts<br>
@@ -691,7 +691,8 @@ approximately 130,000 ANP personnel (110,000 Army; 6,000 Navy; 14,000 Air Force)
 the ANP's inventory includes mostly Russian-sourced equipment; since 2010, China, Germany, and Russia are the leading suppliers of armaments to Algeria (2021)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; 19-30 years of age for compulsory service (all Algerian men must register at age 17); conscript service obligation reduced from 18 to 12 months in 2014; conscripts comprise approximately 70% of the military (2021)<br>
+18 is the legal minimum age for voluntary military service (including women); 19-30 years of age for compulsory service (all Algerian men must register at age 17); conscript service obligation reduced from 18 to 12 months in 2014 (2021)<br>
+note - in 2020, conscripts comprised about 70% of the military<br>
 
 **Military - note**<br>
 <p>the ANP has played a large role in the country’s politics since independence in 1962, including coups in 1965 and 1991; it was a key backer of BOUTEFLIKA’s election in 1999 and remained a center of power during his 20-year rule; the military was instrumental in BOUTEFLIKA’s resignation in 2019 when it withdrew support and called for him to be removed from office</p> <p>in 2021, Algeria had the largest defense budget (approximately $9 billion) and one of the best-equipped militaries in Africa</p> <p>the ANP traditionally has focused on internal stability and on Morocco where relations as of 2021 remained tense over Western Sahara and Algerian accusations that Morocco supports the Movement for the Autonomy of Kabylie (MAK), a separatist group in Algeria’s Kabylie region; however, following the Arab Spring events of 2011 and a series of cross-border terrorist attacks emanating from Mali in 2012-2013, particularly the 2013 attack on a commercial gas plant by al-Qa’ida-linked terrorists that resulted in the deaths of 35 hostages and 29 jihadists, it has made a concerted effort to beef up security along its other borders and promote regional security cooperation; since 2013, additional Army and paramilitary forces were deployed to the borders with Tunisia, Libya, Niger, and Mali to interdict and deter cross-border attacks by Islamic militant groups; in addition, Algeria has provided security assistance to some neighboring countries, particularly Tunisia, and conducted joint military/counter-terrorism operations</p><br>
@@ -708,7 +709,7 @@ al-Qa'ida in the Islamic Maghreb (AQIM); Islamic State of Iraq and ash-Sham (ISI
 <p>Algeria and many other states reject Moroccan administration of Western Sahara; the Polisario Front, exiled in Algeria, represents the "Sahrawi Arab Democratic Republic" which Algeria recognizes; the Algerian-Moroccan land border remains closed; dormant disputes include Libyan claims of about 32,000 sq km of southeastern Algeria and the National Liberation Front's (FLN) assertions of a claim to Chirac Pastures in southeastern Morocco.</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf) (2018); 6,627 (Syria) (2020)<br>
+_refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf) (2018); 6,750 (Syria) (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: <p>human traffickers exploit domestic and foreign victims; Algerian women and girls are vulnerable to sex trafficking due to financial problems or after running away from home; undocumented sub-Saharan migrants are vulnerable to labor and sex trafficking and are exploited in restaurants, houses, and informal worksites; sub-Saharan men and women needing more funds for their onward journey to Europe work illegally in construction and commercial sex and are vulnerable to sex trafficking and debt bondage; foreign women and girls, mainly from sub-Saharan Africa, are subject to sex trafficking in bars and informal brothels; criminal begging rings that exploit sub-Saharan African migrant children are common</p><br>

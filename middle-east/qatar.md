@@ -128,7 +128,7 @@ _female_: 28.2 years (2020 est.)<br>
 most of the population is clustered in or around the capital of Doha on the eastern side of the peninsula<br>
 
 **Urbanization**<br>
-_urban population_: 99.3% of total population (2021)<br>
+_urban population_: 99.3% of total population (2022)<br>
 _rate of urbanization_: 1.66% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -239,7 +239,7 @@ _forest_: 0% (2018 est.)<br>
 _other_: 94.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 99.3% of total population (2021)<br>
+_urban population_: 99.3% of total population (2022)<br>
 _rate of urbanization_: 1.66% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -313,7 +313,7 @@ _residency requirement for naturalization_: 20 years; 15 years if an Arab nation
 
 **Executive branch**<br>
 _chief of state_: Amir TAMIM bin Hamad Al Thani (since 25 June 2013)<br>
-_head of government_: Prime Minister and Minister of Interior Sheikh KHALID ibn Khalifa ibn Abdul Aziz Al Thani (since 28 January 2020);&nbsp; Deputy Prime Minister and Minister of State for Defense Affairs KHALID bin Mohamed&nbsp;AL Attiyah (since 14 November 2017); Deputy Prime Minister and Minister of Foreign Affairs MOHAMED bin Abdulrahman Al Thani (since 14 November 2017)<br>
+_head of government_: Prime Minister and Minister of Interior Sheikh KHALID bin Khalifa bin Abdul Aziz Al Thani (since 28 January 2020);&nbsp; Deputy Prime Minister and Minister of State for Defense Affairs KHALID bin Mohamed AL Attiyah (since 14 November 2017); Deputy Prime Minister and Minister of Foreign Affairs MOHAMED bin Abdulrahman Al Thani (since 14 November 2017)<br>
 _cabinet_: Council of Ministers appointed by the amir<br>
 _elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister appointed by the amir<br>
 
@@ -663,10 +663,11 @@ the Qatari military's inventory includes a broad mix of older and modern weapons
 in 2021, Turkey agreed to train Qatari fighter pilots and allow the temporary deployment of up to 36 Qatari military aircraft and 250 personnel<br>
 
 **Military service age and obligation**<br>
-conscription for males aged 18-35 introduced in 2013; compulsory service times range from 4-12 months, depending on the cadets educational and professional circumstances; women are permitted to serve in the armed forces, including as uniformed officers and pilots (2021)<br>
+conscription for males aged 18-35 introduced in 2013; compulsory service times range from 4-12 months, depending on the cadets educational and professional circumstances; since 2018, women have been permitted to serve in the armed forces, including as uniformed officers and pilots (2021)<br>
+note - as of 2020, the military incorporated about 2,000 conscripts annually<br>
 
 **Military - note**<br>
-<p>as of 2021, Qatar hosted more than 8,000 US military forces and the regional headquarters for the US Central Command (CENTCOM; established 1983) at various military facilities, including the large Al Udeid Air Base; Qatar also hosted as many as 5,000 Turkish military forces at two bases established in 2014 and 2019</p><br>
+<p>as of 2021, Qatar hosted more than 8,000 US military forces and the regional headquarters for the US Central Command (CENTCOM; established 1983) at various military facilities, including the large Al Udeid Air Base; Qatar also hosted as many as 5,000 Turkish military forces at two bases established in 2014 and 2019<br><br>Qatar (as of early 2022) has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 
@@ -676,5 +677,5 @@ conscription for males aged 18-35 introduced in 2013; compulsory service times r
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 1,200 (2020)<br>
+_stateless persons_: 1,200 (mid-year 2021)<br>
 

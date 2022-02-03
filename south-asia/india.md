@@ -138,7 +138,7 @@ _female_: 29.5 years (2020 est.)<br>
 with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
 
 **Urbanization**<br>
-_urban population_: 35.4% of total population (2021)<br>
+_urban population_: 35.9% of total population (2022)<br>
 _rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -269,7 +269,7 @@ _forest_: 23.1% (2018 est.)<br>
 _other_: 16.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 35.4% of total population (2021)<br>
+_urban population_: 35.9% of total population (2022)<br>
 _rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -368,7 +368,7 @@ _election results_: Ram Nath KOVIND elected president; percent of electoral coll
 **Legislative branch**<br>
 _description_: bicameral Parliament or Sansad consists of:<br>Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms)<br>House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)<br>
 _elections_: Council of States - last held by state and territorial assemblies at various dates in 2019 (next originally scheduled for March, June, and November 2020 but were postponed due to the COVID-19 pandemic and rescheduled throughout 2021 to fill expiry seats)<br><br>House of the People - last held April-May 2019 in 7 phases (next to be held in 2024)<br>
-_election results_: Council of States - percent of vote by party - NA; seats by party - BJP 83, INC 46, AITC 13, DMK 11, SP, other 77, independent 6; composition - men 220, women 25, percent of women 10.2%<br><br>House of the People - percent of vote by party - BJP 55.8%, INC 9.6%, AITC 4.4%, YSRC 4.4%, DMK 4.2%, SS 3.3%, JDU 2.9%, BJD 2.2%, BSP 1.8%, TRS 1.7%, LJP 1.1%, NCP 0.9%, SP 0.9%, other 6.4%, independent 0.7%; seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRC 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition - men 465, women 78, percent of women 14.3%; note - total Parliament percent of women 11.3%<br>
+_election results_: Council of States - percent of vote by party - NA; seats by party - BJP 97, INC 34, AITC 13, DMK 10, other 2, independent 2; composition - men 209, women 29, percent of women 13.8%<br><br>House of the People - percent of vote by party - BJP 55.8%, INC 9.6%, AITC 4.4%, YSRC 4.4%, DMK 4.2%, SS 3.3%, JDU 2.9%, BJD 2.2%, BSP 1.8%, TRS 1.7%, LJP 1.1%, NCP 0.9%, SP 0.9%, other 6.4%, independent 0.7%; seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRC 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition - men 465, women 78, percent of women 14.3%; note - total Parliament percent of women 11.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 28 judges, including the chief justice)<br>
@@ -377,7 +377,7 @@ _subordinate courts_: High Courts; District Courts; Labour Court<br>
 <strong>note:</strong> in mid-2011, India’s Cabinet approved the "National Mission for Justice Delivery and Legal Reform" to eliminate judicial corruption and reduce the backlog of cases<br>
 
 **Political parties and leaders**<br>
-Aam Aadmi Party or AAP [Arvind KEJRIWAL]<br>All India Anna Dravida Munnetra Kazhagam or AIADMK [Edappadi PALANISWAMY, Occhaathevar PANNEERSELVAM]<br>All India Trinamool Congress or AITC [Mamata BANERJEE]<br>Bahujan Samaj Party or BSP [MAYAWATI]<br>Bharatiya Janata Party or BJP [Amit SHAH]<br>Biju Janata Dal or BJD [Naveen PATNAIK]<br>Communist Party of India-Marxist or CPI(M) [Sitaram YECHURY]<br>Indian National Congress or INC<br>Lok Janshakti Party (LJP) [Ram Vilas PASWAN]<br>Nationalist Congress Party or NCP [Sharad PAWAR]<br>Rashtriya Janata Dal or RJD [Lalu Prasad YADAV]<br>Samajwadi Party or SP [Akhilesh YADAV]<br>Shiromani Akali Dal or SAD [Sukhbir Singh BADAL]<br>Shiv Sena or SS [Uddhav THACKERAY]<br>Telegana Rashtra Samithi or TRS [K. Chandrashekar RAO]<br>Telugu Desam Party or TDP [Chandrababu NAIDU]<br>YSR Congress or YSRC [Jagan Mohan REDDY]<br>
+Aam Aadmi Party or AAP [Arvind KEJRIWAL]<br>All India Trinamool Congress or AITC [Mamata BANERJEE]<br>Bahujan Samaj Party or BSP [MAYAWATI]<br>Bharatiya Janata Party or BJP [Jagat Prakash NADDA]<br>Biju Janata Dal or BJD [Naveen PATNAIK]<br>Communist Party of India-Marxist or CPI(M) [Sitaram YECHURY]<br>Dravida Munnetra Khazhagam [Muthuvel Karunanidhi STALIN]<br>Indian National Congress or INC [Sonia GANDHI]<br>Nationalist Congress Party or NCP [Sharad PAWAR]<br>Rashtriya Janata Dal or RJD [Lalu Prasad YADAV]<br>Samajwadi Party or SP [Akhilesh YADAV]<br>Shiromani Akali Dal or SAD [Sukhbir Singh BADAL]<br>Shiv Sena or SS [Uddhav THACKERAY]<br>Telegana Rashtra Samithi or TRS [K. Chandrashekar RAO]<br>Telugu Desam Party or TDP [Chandrababu NAIDU]<br>YSR Congress or YSRC [Jagan Mohan REDDY]<br>
 <strong>note:</strong> India has dozens of national and regional political parties<br>
 
 **International organization participation**<br>
@@ -647,7 +647,7 @@ _international_: country code - 91; a number of major international submarine ca
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasting and operates about 20 national, regional, and local services; a large and increasing number of privately owned TV stations are distributed by cable and satellite service providers; in 2018, 197 million homes had access to cable and satellite TV offering 850 TV channels; government controls AM radio with All India Radio operating domestic and external networks; news broadcasts via radio are limited to the All India Radio Network; since 2000, privately owned FM stations have been permitted and their numbers have increased rapidly (2018)<br>
+Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasting and operates about 20 national, regional, and local services; a large and increasing number of privately owned TV stations are distributed by cable and satellite service providers; in 2020, 130 million households paid for cable and satellite television across India and as of 2018, cable and satellite TV offered over 850 TV channels; government controls AM radio with All India Radio operating domestic and external networks; news broadcasts via radio are limited to the All India Radio Network; since 2000, privately owned FM stations have been permitted and their numbers have increased rapidly (2020)<br>
 
 **Internet country code**<br>
 .in<br>
@@ -757,9 +757,9 @@ Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujah
 <p>since China and India launched a security and foreign policy dialogue in 2005, consolidated discussions related to the dispute over most of their rugged, militarized boundary, regional nuclear proliferation, Indian claims that China transferred missiles to Pakistan, and other matters continue; Kashmir remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas); India and Pakistan resumed bilateral dialogue in February 2011 after a two-year hiatus, have maintained the 2003 cease-fire in Kashmir, and continue to have disputes over water sharing of the Indus River and its tributaries; UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949; India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964; to defuse tensions and prepare for discussions on a maritime boundary, India and Pakistan seek technical resolution of the disputed boundary in Sir Creek estuary at the mouth of the Rann of Kutch in the Arabian Sea; Pakistani maps continue to show its Junagadh claim in Indian Gujarat State; Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over undemarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Joint Border Committee with Nepal continues to examine contested boundary sections, including the 400 sq km dispute over the source of the Kalapani River; India maintains a strict border regime to keep out Maoist insurgents and control illegal cross-border activities from Nepal</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 93,259 (Sri Lanka), 73,407 (Tibet/China), 19,398 (Burma), 8,275 (Afghanistan) (2020)<br>
+_refugees (country of origin)_: 92,885 (Sri Lanka), 73,407 (Tibet/China), 20,325 (Burma), 8,537 (Afghanistan) (mid-year 2021)<br>
 _IDPs_: 473,000 (armed conflict and intercommunal violence) (2020)<br>
-_stateless persons_: 18,174 (2020)<br>
+_stateless persons_: 19,677 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>source and transit point for illicit narcotics and precursor chemicals bound for Europe, Africa, Southeast Asia, and North America; in 2020 India exported over $19 billion of illegal pharmaceutical drugs; illegal opium poppy growing in the  the Northeast; traffickers retool commercial chemical factories to produce large volumes of ephedrine, methamphetamine, and other drugs illicitly</p> <p> </p><br>

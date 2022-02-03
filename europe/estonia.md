@@ -124,7 +124,7 @@ _female_: 47 years (2020 est.)<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Urbanization**<br>
-_urban population_: 69.4% of total population (2021)<br>
+_urban population_: 69.6% of total population (2021)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -252,7 +252,7 @@ _forest_: 52.1% (2018 est.)<br>
 _other_: 25.7% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 69.4% of total population (2021)<br>
+_urban population_: 69.6% of total population (2021)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -697,7 +697,7 @@ approximately 100 Mali (Operation Barkhane/MINUSMA/EUTM) (2021)<br>
 
 **Military service age and obligation**<br>
 men 18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months; women can volunteer and as of 2018, women could serve in any branch of the military (2021)<br>
-note(s) - conscripts comprise about half (approximately 3,000-3,300) of the Estonian military's 6,500 active personnel and serve in all branches, except for the Air Force, which does not have conscripts; in 2020, women comprised about 10% of the professional military force<br>
+note(s) - conscripts comprise about half (approximately 3,000-3,300) of the Estonian military's 6,500 active personnel and serve in all branches, except for the Air Force, which does not have conscripts; in 2020, women comprised about 10% of the full-time professional military force<br>
 
 **Military - note**<br>
 Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by the UK and had about 800 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014</p><br>
@@ -708,7 +708,7 @@ Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia ha
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 73,214 (2020); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
+_stateless persons_: 71,873 (mid-year 2021); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>
 producer of synthetic drugs; important transshipment zone for cannabis, cocaine, opiates, and synthetic drugs since joining the European Union and the Schengen Accord; potential money laundering related to organized crime and drug trafficking is a concern, as is possible use of the gambling sector to launder funds; major use of opiates and ecstasy<br>

@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Philippine Islands became a Spanish colony during the 16th century; they were ceded to the US in 1898 following the Spanish-American War. In 1935 the Philippines became a self-governing commonwealth. Manuel QUEZON was elected president and was tasked with preparing the country for independence after a 10-year transition. In 1942 the islands fell under Japanese occupation during World War II, and US forces and Filipinos fought together during 1944-45 to regain control. On 4 July 1946 the Republic of the Philippines attained its independence. A 21-year rule by Ferdinand MARCOS ended in 1986, when a "people power" movement in Manila ("EDSA 1") forced him into exile and installed Corazon AQUINO as president. Her presidency was hampered by several coup attempts that prevented a return to full political stability and economic development. Fidel RAMOS was elected president in 1992. His administration was marked by increased stability and by progress on economic reforms. In 1992, the US closed its last military bases on the islands. Joseph ESTRADA was elected president in 1998. He was succeeded by his vice-president, Gloria MACAPAGAL-ARROYO, in January 2001 after ESTRADA's stormy impeachment trial on corruption charges broke down and another "people power" movement ("EDSA 2") demanded his resignation. MACAPAGAL-ARROYO was elected to a six-year term as president in May 2004. Her presidency was marred by several corruption allegations but the Philippine economy was one of the few to avoid contraction following the 2008 global financial crisis, expanding each year of her administration. Benigno AQUINO III was elected to a six-year term as president in May 2010 and was succeeded by Rodrigo DUTERTE in May 2016.</p> <p>The Philippine Government faces threats from several groups, some of which are on the US Government's Foreign Terrorist Organization list. Manila has waged a decades-long struggle against ethnic Moro insurgencies in the southern Philippines, which led to a peace accord with the Moro National Liberation Front and a separate agreement with a break away faction, the Moro Islamic Liberation Front. The decades-long Maoist-inspired New People's Army insurgency also operates through much of the country. In 2017, Philippine armed forces battled an ISIS-Philippines siege in Marawi City, driving DUTERTE to declare martial law in the region. The Philippines faces increased tension with China over disputed territorial and maritime claims in the South China Sea.</p><br>
+<p>The Philippine Islands became a Spanish colony during the 16th century; they were ceded to the US in 1898 following the Spanish-American War. In 1935 the Philippines became a self-governing commonwealth. Manuel QUEZON was elected president and was tasked with preparing the country for independence after a 10-year transition. In 1942 the islands fell under Japanese occupation during World War II, and US forces and Filipinos fought together during 1944-45 to regain control. On 4 July 1946 the Republic of the Philippines attained its independence. A 21-year rule by Ferdinand MARCOS ended in 1986, when a "people power" movement in Manila ("EDSA 1") forced him into exile and installed Corazon AQUINO as president. Her presidency was hampered by several coup attempts that prevented a return to full political stability and economic development. Fidel RAMOS was elected president in 1992. His administration was marked by increased stability and by progress on economic reforms. In 1992, the US closed its last military bases on the islands. Joseph ESTRADA was elected president in 1998. He was succeeded by his vice-president, Gloria MACAPAGAL-ARROYO, in January 2001 after ESTRADA's stormy impeachment trial on corruption charges broke down and another "people power" movement ("EDSA 2") demanded his resignation. MACAPAGAL-ARROYO was elected to a six-year term as president in May 2004. Her presidency was marred by several corruption allegations but the Philippine economy was one of the few to avoid contraction following the 2008 global financial crisis, expanding each year of her administration. Benigno AQUINO III was elected to a six-year term as president in May 2010 and was succeeded by Rodrigo DUTERTE in May 2016.</p> <p>The Philippine Government faces threats from several groups, some of which are on the US Government's Foreign Terrorist Organization list. Manila has waged a decades-long struggle against ethnic Moro insurgencies in the southern Philippines, which led to a peace accord with the Moro National Liberation Front and a separate agreement with a break away faction, the Moro Islamic Liberation Front. The decades-long Maoist-inspired New People's Army insurgency also operates through much of the country. In 2017, Philippine armed forces battled an ISIS-East Asia siege in Marawi City, driving DUTERTE to declare martial law in the region. The Philippines faces increased tension with China over disputed territorial and maritime claims in the South China Sea.</p><br>
 
 ## Geography
 
@@ -130,7 +130,7 @@ _female_: 24.6 years (2020 est.)<br>
 population concentrated where good farmlands lie; highest concentrations are northwest and south-central Luzon, the southeastern extension of Luzon, and the islands of the Visayan Sea, particularly Cebu and Negros; Manila is home to one-eighth of the entire national population<br>
 
 **Urbanization**<br>
-_urban population_: 47.7% of total population (2021)<br>
+_urban population_: 48% of total population (2022)<br>
 _rate of urbanization_: 2.04% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -263,7 +263,7 @@ _forest_: 25.9% (2018 est.)<br>
 _other_: 33.1% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 47.7% of total population (2021)<br>
+_urban population_: 48% of total population (2022)<br>
 _rate of urbanization_: 2.04% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -349,7 +349,7 @@ _elections/appointments_: president and vice president directly elected on separ
 _election results_: Rodrigo DUTERTE elected president; percent of vote - Rodrigo DUTERTE (PDP-Laban) 39%, Manuel "Mar" ROXAS (LP) 23.5%, Grace POE (independent) 21.4%, Jejomar BINAY (UNA) 12.7%, Miriam Defensor SANTIAGO (PRP) 3.4%; Leni ROBREDO elected vice president; percent of vote Leni ROBREDO (LP) 35.1%, Bongbong MARCOS (independent) 34.5%, Alan CAYETANO 14.4%, Francis ESCUDERO (independent) 12%, Antonio TRILLANES (independent) 2.1%, Gregorio HONASAN (UNA) 1.9%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Congress or Kongreso consists of:<br>Senate or Senado (24 seats; members directly elected in multi-seat constituencies by majority vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>House of Representatives or Kapulungan Ng Mga Kinatawan (297 seats; 238 members directly elected in single-seat constituencies by simple majority vote and 59 representing minorities directly elected by party-list proportional representation vote; members serve 3-year terms)<br>
+_description_: bicameral Congress or Kongreso consists of:<br>Senate or Senado (24 seats; members directly elected in multi-seat constituencies by majority vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>House of Representatives or Kapulungan Ng Mga Kinatawan (304 seats; 243 members directly elected in single-seat constituencies by simple majority vote and 61 representing minorities directly elected by party-list proportional representation vote; members serve 3-year terms)<br>
 _elections_: <br>Senate - elections last held on 13 May 2019 (next to be held on 9 May 2022)<br>House of Representatives - elections last held on 13 May 2019 (next to be held on 9 May 2022)<br>
 _election results_: <br>Senate - percent of vote by party - PDP-Laban 21.4%, NP 16.8%, LP 11.6%, NPC 8.64%, other 26.3%, independent 14.9%; seats by party - PDP-Laban 5, NP 4, LP 4, NPC 3, other 4, independent 4; composition - men 17, women 7, percent of women 29%<br>House of Representatives - percent of vote by party - PDP-Laban 21.2%, NP 16.1%, PNG 14.3%, NUP 9.5%, LP 5.7%, independent 5.0%, others 18.2%; seats by party - PDP-Laban 82, NP 42, PNG 37, NUP 25, LP 18, other 98, independent 2, party-list 61; composition - men 217, women 87, percent of women 28.6%<br>
 
@@ -359,7 +359,7 @@ _judge selection and term of office_: justices are appointed by the president on
 _subordinate courts_: Court of Appeals; Sandiganbayan (special court for corruption cases of government officials); Court of Tax Appeals; regional, metropolitan, and municipal trial courts; sharia courts<br>
 
 **Political parties and leaders**<br>
-Akbayon [Machris CABREROS]<br>Laban ng Demokratikong Pilipino (Struggle of Filipino Democrats) or LDP [Edgardo ANGARA]<br>Lakas ng EDSA-Christian Muslim Democrats or Lakas-CMD [Ferdinand Martin ROMUALDEZ]<br>Liberal Party or LP [Francis PANGILINAN]<br>Nacionalista Party or NP [Manuel "Manny" VILLAR]<br>Nationalist People's Coalition or NPC [Eduardo COJUNGCO, Jr.]<br>National Unity Party or NUP [Albert GARCIA]<br>PDP-Laban [Aquilino PIMENTEL III]<br>People's Reform Party or PRP [Narcisco SANTIAGO]<br>Puwersa ng Masang Pilipino (Force of the Philippine Masses) or PMP [Joseph ESTRADA]<br>United Nationalist Alliance or UNA<br>
+Aksyon Demokratiko [Francisco "Isko Moreno" DOMAGOSO] <br>Lakas ng EDSA-Christian Muslim Democrats or Lakas-CMD [Ramon "Bong" REVILLA Jr ]<br>Liberal Party or LP [Leni ROBREDO]<br>Nacionalista Party or NP [Manuel "Manny" VILLAR]<br>National Unity Party or NUP [Ronaldo V. PUNO]<br>Partido Federal ng Pilipinas [Ferdinand Marcos, Jr.]<br>Partido Demokratiko Pilipino-Lakas ng Bayan or PDP-Laban [Aquilino PIMENTEL III]<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, EAS, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, NAM, OAS (observer), OPCW, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -373,7 +373,7 @@ _email address and website_: <br>washington.pe@dfa.gov.ph; consular@phembassy-us
 _consulate(s) general_: Chicago, Honolulu, Los Angeles, New York, Saipan (Northern Mariana Islands), San Francisco, Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires John C. LAW (since 4 October 2020)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Heather VARIAVA (since 17 September 2021)<br>
 _embassy_: 1201 Roxas Boulevard, Manila 1000<br>
 _mailing address_: 8600 Manila Place, Washington DC&nbsp; 20521-8600<br>
 _telephone_: [63] (2) 5301-2000<br>
@@ -708,16 +708,17 @@ note(s) - the Philippine Coast Guard is an armed and uniformed service under the
 1.2% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of the Philippines (AFP) have approximately 130,000 active duty personnel (90,000 Army; 25,000 Navy, including about 8,000 marines; 17,000 Air Force) (2021)<br>
+the Armed Forces of the Philippines (AFP) have approximately 122,000 active duty personnel (80,000 Army; 25,000 Navy, including about 8,700 marines; 17,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the AFP is equipped with a mix of imported weapons systems, particularly second-hand equipment from the US; since 2014, its top weapons suppliers are Indonesia, Israel, South Korea, and the US (2021)<br>
+the AFP is equipped with a mix of imported weapons systems, particularly second-hand equipment from the US; since 2014, its top weapons suppliers are Israel, South Korea, and the US (2021)<br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial waters of littoral states and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; an emerging threat area lies in the Celebes and Sulu Seas between the Philippines and Malaysia where three ships were attacked in 2020; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargoes stolen</p><br>
 
 **Military service age and obligation**<br>
-18-23 years of age (officers 21-29) for voluntary military service; no conscription (2021)<br>
+18-23 years of age (officers 21-29; 21-26 for women officers) for voluntary military service (men and women); no conscription (2021)<br>
+note - as of 2020, women made up about 6% of the active military; women were allowed to enter the Philippine Military Academy and train as combat soldiers in 1993<br>
 
 **Military - note**<br>
 <p>the US and Philippines agreed to a mutual defense treaty in 1951; the Philippines has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p> as of 2021, the AFP's primary operational focus was on internal security duties, particularly in the south, where several insurgent and terrorist groups operated and up to 60% of the armed forces were deployed; additional combat operations were being conducted against the Communist Peoples Party/New People’s Army, which was active mostly on Luzon, the Visayas, and areas of Mindanao<br><br>in addition to its typical roles of patrolling and defending the country's maritime claims, the Navy conducts interdiction operations against terrorist, insurgent, and criminal groups around the southern islands; in 2017, the Philippines began conducting joint maritime patrols with Indonesia and Malaysia to counter regional terrorist activities, particularly in the Sulu Sea; the Philippine Marine Corps assists the Army in counterinsurgency operations<br><br>the Philippines National Police (PNP) also has an active role in counterinsurgency and counter-terrorism operations alongside the AFP, particularly the Special Action Force, a PNP commando unit that specializes in counter-terrorism operations<br>
@@ -735,7 +736,7 @@ Abu Sayyaf Group; Communist Party of the Philippines/New People's Army; Islamic 
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 153,000 (government troops fighting the Moro Islamic Liberation Front, the Abu Sayyaf Group, and the New People's Army; clan feuds; armed attacks, political violence, and communal tensions in Mindanao) (2020)<br>
-_stateless persons_: 387 (2020); note - stateless persons are descendants of Indonesian migrants<br>
+_stateless persons_: 392 (mid-year 2021); note - stateless persons are descendants of Indonesian migrants<br>
 
 **Illicit drugs**<br>
 cannabis products, methamphetamine hydrochloride (locally known as "shabu"), and MDMA (ecstasy) are locally used; Chinese Transnational Criminal Organizations (TCOs) are the main source of methamphetamine; precursor chemicals are in transit from China to Burma<br>

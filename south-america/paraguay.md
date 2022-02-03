@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-Paraguay achieved its independence from Spain in 1811. In the disastrous War of the Triple Alliance (1865-70) - between Paraguay and Argentina, Brazil, and Uruguay - Paraguay lost two-thirds of its adult males and much of its territory. The country stagnated economically for the next half century. Following the Chaco War of 1932-35 with Bolivia, Paraguay gained a large part of the Chaco lowland region. The 35-year military dictatorship of Alfredo STROESSNER ended in 1989, and Paraguay has held relatively free and regular presidential elections since the country's return to democracy.<br>
+Several Indigenous groups, principally belonging to the Guarani language family, inhabited the area of modern Paraguay before the arrival of the Spanish in the early 16th century, when the territory was incorporated into the Viceroyalty of Peru. Paraguay achieved its independence from Spain in 1811 with the help of neighboring states. In the aftermath of independence, a series of military dictators ruled the country until 1870. During the disastrous War of the Triple Alliance (1864-70) – fought against Argentina, Brazil, and Uruguay - Paraguay lost two-thirds of its adult males and much of its territory. The country stagnated economically for the next half century and experienced a tumultuous series of political regimes. Following the Chaco War of 1932-35 with Bolivia, Paraguay gained a large part of the Chaco lowland region. The 35-year military dictatorship of Alfredo STROESSNER ended in 1989, and Paraguay has held relatively free and regular presidential elections since the country's return to democracy.<br>
 
 ## Geography
 
@@ -135,7 +135,7 @@ _female_: 29.9 years (2020 est.)<br>
 most of the population resides in the eastern half of the country; to the west lies the Gran Chaco (a semi-arid lowland plain), which accounts for 60% of the land territory, but only 2% of the overall population<br>
 
 **Urbanization**<br>
-_urban population_: 62.5% of total population (2021)<br>
+_urban population_: 62.8% of total population (2022)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -258,7 +258,7 @@ _forest_: 43.8% (2018 est.)<br>
 _other_: 2.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 62.5% of total population (2021)<br>
+_urban population_: 62.8% of total population (2022)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -683,7 +683,7 @@ _river port(s)_: Asuncion, Villeta, San Antonio, Encarnacion (Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy (Armada, includes marines), Air Force (Fuerza Aerea) <p>Ministry of Internal Affairs: the National Police of Paraguay includes the Special Police Operations Force (<em>Fuerza de Operaciones Policiales Especiales)</em></p> (2021)<br>
+Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy (Armada, includes marines), Air Force (Fuerza Aerea)<br><br>Ministry of Internal Affairs: the National Police of Paraguay includes the Special Police Operations Force (<em>Fuerza de Operaciones Policiales Especiales)</em> (2021)<br>
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
@@ -699,7 +699,8 @@ the Armed Forces of Paraguay have approximately 14,000 active personnel (9,000 A
 the Paraguayan military forces inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US; since 2010, Paraguay has acquired small quantities of mostly second-hand military equipment from several countries, including Argentina, Brazil, Israel, Taiwan, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory and voluntary military service; conscript service obligation is 12 months for Army, 24 months for Navy (conscripts also serve in the National Police); volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2019)<br>
+18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy (conscripts also serve in the National Police); volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2021)<br>
+note - as of 2021, women made up about 6% of the active military<br>
 
 **Military - note**<br>
 as of 2021, the armed forces were principally focused on the Paraguayan People's Army (Ej&eacute;rcito del Pueblo Paraguayo, EPP), a Marxist-nationalist insurgent group operating in the rural northern part of the country along the border with Brazil<br>

@@ -124,7 +124,7 @@ _female_: 38.7 years (2020 est.)<br>
 most of the population is found on the island of Rarotonga<br>
 
 **Urbanization**<br>
-_urban population_: 75.7% of total population (2021)<br>
+_urban population_: 75.9% of total population (2022)<br>
 _rate of urbanization_: 0.52% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
@@ -218,7 +218,7 @@ _forest_: 64.6% (2018 est.)<br>
 _other_: 27% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 75.7% of total population (2021)<br>
+_urban population_: 75.9% of total population (2022)<br>
 _rate of urbanization_: 0.52% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
@@ -288,7 +288,7 @@ _judge selection and term of office_: High Court chief justice appointed by the 
 _subordinate courts_: justices of the peace<br>
 
 **Political parties and leaders**<br>
-Cook Islands Party or CIP [Henry PUNA]<br>Democratic Party or Demo [Tina BROWNE]<br>One Cook Islands Movement [Teina BISHOP]<br>
+Cook Islands Party or CIP [Mark BROWN]<br>Democratic Party or Demo [Tina BROWNE]<br>One Cook Islands Movement [Teina BISHOP]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, FAO, ICAO, ICCt, ICRM, IFAD, IFRCS, IMO, IMSO, IOC, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UNESCO, UPU, WHO, WMO<br>

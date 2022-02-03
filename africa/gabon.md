@@ -82,7 +82,7 @@ a small population and oil and mineral reserves have helped Gabon become one of 
 
 **Population**<br>
 2,284,912 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Gabonese (singular and plural)<br>
@@ -134,7 +134,7 @@ _female_: 20.6 years (2020 est.)<br>
 the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 90.4% of total population (2021)<br>
+_urban population_: 90.7% of total population (2022)<br>
 _rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -254,7 +254,7 @@ _forest_: 81% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 90.4% of total population (2021)<br>
+_urban population_: 90.7% of total population (2022)<br>
 _rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

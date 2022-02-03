@@ -125,7 +125,7 @@ _female_: 23.5 years (2020 est.)<br>
 three-quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; three largest islands - Espiritu Santo, Malakula, and Efate - accomodate over half of the populace<br>
 
 **Urbanization**<br>
-_urban population_: 25.7% of total population (2021)<br>
+_urban population_: 25.8% of total population (2022)<br>
 _rate of urbanization_: 2.55% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -241,7 +241,7 @@ _forest_: 36.1% (2018 est.)<br>
 _other_: 48.6% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 25.7% of total population (2021)<br>
+_urban population_: 25.8% of total population (2022)<br>
 _rate of urbanization_: 2.55% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

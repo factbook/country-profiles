@@ -124,7 +124,7 @@ _female_: 45.3 years (2020 est.)<br>
 population clusters tend to be found along the coast, the largest of these is found in and around San Juan; an exception to this is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low<br>
 
 **Urbanization**<br>
-_urban population_: 93.6% of total population (2021)<br>
+_urban population_: 93.6% of total population (2022)<br>
 _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -220,7 +220,7 @@ _forest_: 63.2% (2018 est.)<br>
 _other_: 14.8% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 93.6% of total population (2021)<br>
+_urban population_: 93.6% of total population (2022)<br>
 _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

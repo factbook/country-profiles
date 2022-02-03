@@ -125,7 +125,7 @@ _female_: 19.7 years (2020 est.)<br>
 Sao Tome, the capital city, has roughly a quarter of the nation's population; Santo Antonio is the largest town on Principe; the northern areas of both islands have the highest population densities as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 75.1% of total population (2021)<br>
+_urban population_: 75.8% of total population (2022)<br>
 _rate of urbanization_: 2.96% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -254,7 +254,7 @@ _forest_: 28.1% (2018 est.)<br>
 _other_: 21.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 75.1% of total population (2021)<br>
+_urban population_: 75.8% of total population (2022)<br>
 _rate of urbanization_: 2.96% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

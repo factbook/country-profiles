@@ -140,7 +140,7 @@ _female_: 29.9 years (2020 est.)<br>
 approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 78.3% of total population (2020)<br>
+_urban population_: 78.7% of total population (2022)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -269,7 +269,7 @@ _forest_: 53% (2018 est.)<br>
 _other_: 28.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 78.3% of total population (2020)<br>
+_urban population_: 78.7% of total population (2022)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -728,7 +728,7 @@ Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del 
 1.3% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 95,000 active personnel (55,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 15,000 Air Force) (2021)<br>
+information varies; approximately 85,000 active personnel (50,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Peruvian military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, the former Soviet Union, and the US; since 2010, Peru has received military equipment from more than a dozen countries, led by Russia and South Korea (2021)<br>
@@ -741,6 +741,7 @@ the International Maritime Bureau reports the territorial waters of Peru are a r
 
 **Military service age and obligation**<br>
 18-50 years of age for male and 18-45 years of age for female voluntary military service (12 months); no conscription (abolished in 1999) (2021)<br>
+note - as of 2019, women made up about 10% of the active duty military<br>
 
 **Military - note**<br>
 <p>as of 2021, the Peruvian security forces continued to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military had approximately 8,000-10,000 troops in the VRAEM under a special combined military-police command, including 3 army infantry battalions</p><br>

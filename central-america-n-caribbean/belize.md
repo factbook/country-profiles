@@ -128,7 +128,7 @@ _female_: 24.8 years (2020 est.)<br>
 approximately 25% to 30% of the population lives in the former capital, Belize City; over half of the overall population is rural; population density is slightly higher in the north and east<br>
 
 **Urbanization**<br>
-_urban population_: 46.2% of total population (2021)<br>
+_urban population_: 46.4% of total population (2022)<br>
 _rate of urbanization_: 2.3% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -241,7 +241,7 @@ _forest_: 60.6% (2018 est.)<br>
 _other_: 32.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 46.2% of total population (2021)<br>
+_urban population_: 46.4% of total population (2022)<br>
 _rate of urbanization_: 2.3% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

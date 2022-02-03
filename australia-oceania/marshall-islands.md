@@ -126,7 +126,7 @@ _female_: 23.9 years (2020 est.)<br>
 most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye<br>
 
 **Urbanization**<br>
-_urban population_: 78.2% of total population (2021)<br>
+_urban population_: 78.5% of total population (2022)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -247,7 +247,7 @@ _forest_: 49.3% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 78.2% of total population (2021)<br>
+_urban population_: 78.5% of total population (2022)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

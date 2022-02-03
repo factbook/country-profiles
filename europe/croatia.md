@@ -131,7 +131,7 @@ _female_: 45.9 years (2020 est.)<br>
 more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 57.9% of total population (2021)<br>
+_urban population_: 58.2% of total population (2022)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -259,7 +259,7 @@ _forest_: 34.4% (2018 est.)<br>
 _other_: 41.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 57.9% of total population (2021)<br>
+_urban population_: 58.2% of total population (2022)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -706,10 +706,11 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 the Armed Forces of the Republic of Croatia have approximately 15,000 active duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Croatian Armed Forces consists mostly of Soviet-era equipment, although in recent years, it has acquired a limited number of more modern weapon systems from some Western suppliers, including Finland, France, Germany, and the US (2021)<br>
+the inventory of the Croatian Armed Forces consists mostly of Soviet-era equipment, although in recent years, it has acquired a limited number of more modern weapon systems from some Western suppliers, including France and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription abolished in 2008 (2021)<br>
+note - as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Croatia officially became a member of NATO in 2009<br>
@@ -720,7 +721,7 @@ Croatia officially became a member of NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p><br>
 
 **Refugees and internally displaced persons**<br>
-_stateless persons_: 2,900 (2020)<br>
+_stateless persons_: 2,910 (mid-year 2021)<br>
 <strong>note: </strong>735,873 estimated refugee and migrant arrivals (January 2015-December 2021); flows slowed considerably in 2017; Croatia is predominantly a transit country and hosts about 340 asylum seekers as of the end of June 2018<br>
 
 **Illicit drugs**<br>

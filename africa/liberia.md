@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>With 28 ethnic groups and languages, Liberia is one of the most ethnically diverse countries in the world. For hundreds of years, the Mali and Songhai Empires claimed most of Liberia. Beginning in the 15th century, European traders began establishing outposts along the Liberian coast. Unlike its neighbors, however, Liberia did not fall under European colonial rule. In the early 19th century, the United States began sending freed enslaved people and other people of color to Liberia to establish settlements. In 1847, these settlers declared independence from the United States, writing their own constitution and establishing Africa’s first republic.</p> <p>Early in Liberia’s history, tensions arose between the Americo-Liberian settlers and the indigenous population. In 1980, Samuel DOE, who was from the indigenous population, led a military coup and ushered in a decade of authoritarian rule. In December 1989, Charles TAYLOR launched a rebellion against DOE's regime that led to a prolonged civil war in which DOE was killed. A period of relative peace in 1997 permitted an election that brought TAYLOR to power. In 2000, fighting resumed. An August 2003 peace agreement ended the war and prompted President TAYLOR’s resignation. TAYLOR was later convicted by the UN-backed Special Court for Sierra Leone in The Hague for his involvement in Sierra Leone's civil war. In late 2005, President Ellen JOHNSON SIRLEAF became president after two years of transitional governments; she was the first female head of state in Africa. In 2011, JOHNSON SIRLEAF won reelection but struggled to rebuild Liberia's economy, particularly following the 2014-15 Ebola epidemic, and to reconcile a nation still recovering from 14 years of fighting. In 2017, former soccer star George WEAH won the presidential runoff election.</p> <p> </p><br>
+<p>With 28 ethnic groups and languages, Liberia is one of the most ethnically diverse countries in the world. For hundreds of years, the Mali and Songhai Empires claimed most of Liberia. Beginning in the 15th century, European traders began establishing outposts along the Liberian coast. Unlike its neighbors, however, Liberia did not fall under European colonial rule. In the early 19th century, the United States began sending freed enslaved people and other people of color to Liberia to establish settlements. In 1847, these settlers declared independence from the United States, writing their own constitution and establishing Africa’s first republic.</p> <p>Early in Liberia’s history, tensions arose between the Americo-Liberian settlers and the indigenous population. In 1980, Samuel DOE, who was from the indigenous population, led a military coup and ushered in a decade of authoritarian rule. In December 1989, Charles TAYLOR launched a rebellion against DOE's regime that led to a prolonged civil war in which DOE was killed. A period of relative peace in 1997 permitted an election that brought TAYLOR to power. In 2000, fighting resumed. An August 2003 peace agreement ended the war and prompted President TAYLOR’s resignation. TAYLOR was later convicted by the UN-backed Special Court for Sierra Leone in The Hague for his involvement in Sierra Leone's civil war. In late 2005, President Ellen JOHNSON SIRLEAF became president after two years of transitional governments; she was the first female head of state in Africa. In 2011, JOHNSON SIRLEAF won reelection but struggled to rebuild Liberia's economy, particularly following the 2014-15 Ebola epidemic, and to reconcile a nation still recovering from 14 years of fighting. In 2017, former soccer star George WEAH won the presidential runoff election, marking the first successful transfer of power from one democratically elected government to another since the end of Liberia’s civil wars. Like his predecessor, WEAH has struggled to improve the country’s economy. The next presidential election is scheduled for 2023.</p> <p> </p><br>
 
 ## Geography
 
@@ -128,7 +128,7 @@ _female_: 18.2 years (2020 est.)<br>
 more than half of the population lives in urban areas, with approximately one-third living within an 80-km radius of Monrovia as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 52.6% of total population (2021)<br>
+_urban population_: 53.1% of total population (2022)<br>
 _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 
 **Major urban areas - population**<br>
@@ -251,7 +251,7 @@ _forest_: 44.6% (2018 est.)<br>
 _other_: 27.3% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 52.6% of total population (2021)<br>
+_urban population_: 53.1% of total population (2022)<br>
 _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -678,7 +678,8 @@ the AFL is poorly armed; it has received limited quantities of equipment since 2
 150 Mali (MINUSMA) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; no conscription (2021)<br>
+18-35 years of age for voluntary military service (men and women); no conscription (2021)<br>
+note - as of 2020, women made up about .4% of the active military<br>
 
 **Military - note**<br>
 <p>the first militia unit established for defense of the colony was raised in 1832; the Armed Forces of Liberia (AFL) traces its origins to the 1908 establishment of the Liberia Frontier Force, which became the Liberian National Guard in 1965; the AFL was established in 1970; at the end of the second civil war in 2003, military and police forces were disbanded and approximately 100,000 military, police, and rebel combatants were disarmed; the AFL began to rebuild in 2003 with US assistance and the first infantry battalion of the restructured AFL was re-activated in late 2007; a second battalion was added in 2008</p> <p>the UN Mission in Liberia (UNMIL) was established in 2003 as a peacekeeping force; at its height, UNMIL was comprised of about 15,000 personnel, including more than 3,000 troops absorbed from the Economic Community of West African States (ECOWAS) peacekeeping mission; Liberian forces reassumed full control of the country’s security in June of 2016, and the UNMIL mission was ended in 2018</p> <p>as of 2021, the AFL was comprised mostly of a small ground force consisting of 2 infantry battalions, while the Coast Guard had only a few small patrol boats; the AFL had no aircraft</p><br>

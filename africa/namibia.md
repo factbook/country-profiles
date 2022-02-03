@@ -85,7 +85,7 @@ the Namib Desert, after which the country is named, is considered to be the olde
 
 **Population**<br>
 2,678,191 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Namibian(s)<br>
@@ -138,7 +138,7 @@ _female_: 22.6 years (2020 est.)<br>
 population density is very low, with the largest clustering found in the extreme north-central area along the border with Angola as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 53% of total population (2021)<br>
+_urban population_: 54% of total population (2022)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -262,7 +262,7 @@ _forest_: 8.8% (2018 est.)<br>
 _other_: 44% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 53% of total population (2021)<br>
+_urban population_: 54% of total population (2022)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -708,7 +708,8 @@ information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500
 the inventory of the Namibian Defense Force consists mostly of Soviet-era equipment; China is the leading supplier of weapons to Namibia since 2010 (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service; no conscription (2021)<br>
+18-25 years of age for voluntary military service (men and women); no conscription (2021)<br>
+note - as of 2018, women comprised more than 20% of the active military<br>
 
 **Military - note**<br>
 <p>the Namibian Defense Force (NDF) was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF</p><br>
@@ -719,5 +720,5 @@ the inventory of the Namibian Defense Force consists mostly of Soviet-era equipm
 <p>concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border; the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,641 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 5,702 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
 

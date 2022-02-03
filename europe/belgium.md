@@ -129,7 +129,7 @@ _female_: 42.8 years (2020 est.)<br>
 most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas<br>
 
 **Urbanization**<br>
-_urban population_: 98.1% of total population (2021)<br>
+_urban population_: 98.2% of total population (2022)<br>
 _rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -245,7 +245,7 @@ _forest_: 22.4% (2018 est.)<br>
 _other_: 33.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 98.1% of total population (2021)<br>
+_urban population_: 98.2% of total population (2022)<br>
 _rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -691,7 +691,7 @@ the Belgian Armed Forces have a mix of weapons systems from European countries, 
 
 **Military service age and obligation**<br>
 18 years of age for male and female voluntary military service; conscription abolished in 1995 (2021)<br>
-note - in 2020, women comprised about 9% of the Belgian military<br>
+note - in 2020, women comprised about 9% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 <br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
@@ -708,8 +708,8 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,693 (Syria), 5,515 (Iraq) (2020)<br>
-_stateless persons_: 1,264 (2020)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020)<br>
+_stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>a primary entry point for cocaine smuggled into Europe; also a transit point for precursor chemicals from China for amphetamine and MDMA production labs in Belgium; a transit country for new psychoactive substances (NPS); increasing number of amphetamine and ecstasy production labs in Belgium; heroin also transits through Belgium.</p><br>

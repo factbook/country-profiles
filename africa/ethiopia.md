@@ -88,7 +88,7 @@ highest density is found in the highlands of the north and middle areas of the c
 
 **Population**<br>
 110,871,031 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Ethiopian(s)<br>
@@ -141,7 +141,7 @@ _female_: 20.1 years (2020 est.)<br>
 highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map<br>
 
 **Urbanization**<br>
-_urban population_: 22.2% of total population (2021)<br>
+_urban population_: 22.7% of total population (2022)<br>
 _rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -272,7 +272,7 @@ _forest_: 12.2% (2018 est.)<br>
 _other_: 51.5% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 22.2% of total population (2021)<br>
+_urban population_: 22.7% of total population (2022)<br>
 _rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

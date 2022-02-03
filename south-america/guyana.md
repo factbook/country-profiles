@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-Originally a Dutch colony in the 17th century, by 1815 Guyana had become a British possession. The abolition of slavery led to settlement of urban areas by former slaves and the importation of indentured servants from India to work the sugar plantations. The resulting ethnocultural divide has persisted and has led to turbulent politics. Guyana achieved independence from the UK in 1966, and since then it has been ruled mostly by socialist-oriented governments. In 1992, Cheddi JAGAN was elected president in what is considered the country's first free and fair election since independence. After his death five years later, his wife, Janet JAGAN, became president but resigned in 1999 due to poor health. Her successor, Bharrat JAGDEO, was elected in 2001 and again in 2006. Early elections held in May 2015 resulted in the first change in governing party and the replacement of President Donald RAMOTAR by current President David GRANGER. After a December 2018 no-confidence vote against the GRANGER government, national elections will be held before the scheduled spring 2020 date.<br>
+Originally a Dutch colony in the 17th century, by 1815 Guyana had become a British possession. The abolition of slavery led to settlement of urban areas by former slaves and the importation of indentured servants from India to work the sugar plantations. The resulting ethnocultural divide has persisted and has led to turbulent politics. Guyana achieved independence from the UK in 1966, and since then it has been ruled mostly by socialist-oriented governments. In 1992, Cheddi JAGAN was elected president in what is considered the country's first free and fair election since independence. After his death five years later, his wife, Janet JAGAN, became president but resigned in 1999 due to poor health. Her successor, Bharrat JAGDEO, was elected in 2001 and again in 2006. Early elections held in May 2015 resulted in the first change in governing party and the replacement of President Donald RAMOTAR by current President David GRANGER. After a December 2018 no-confidence vote against the GRANGER government, national elections were constitutionally required to take place within three months. After over a year of extra-constitutional rule by the GRANGER administration, elections were held, though voting irregularities led to a nationwide recount. The current Irfaan ALI administration was sworn in to office in August 2020. The discovery of oil in 2015 has been the primary economic and political focus, with many hoping the significant reserves will transform one of the poorest countries in the region.<br>
 
 ## Geography
 
@@ -79,7 +79,7 @@ the third-smallest country in South America after Suriname and Uruguay; substant
 
 **Population**<br>
 787,971 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Guyanese (singular and plural)<br>
@@ -131,7 +131,7 @@ _female_: 27.9 years (2020 est.)<br>
 population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
 
 **Urbanization**<br>
-_urban population_: 26.9% of total population (2021)<br>
+_urban population_: 27% of total population (2022)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -259,7 +259,7 @@ _forest_: 77.4% (2018 est.)<br>
 _other_: 14.2% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 26.9% of total population (2021)<br>
+_urban population_: 27% of total population (2022)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -352,7 +352,7 @@ _judge selection and term of office_: Court of Appeal and High Court chief justi
 _subordinate courts_: Land Court; magistrates' courts<br>
 
 **Political parties and leaders**<br>
-A New and United Guyana or ANUG [Ralph RAMKARRAN]<br>A Partnership for National Unity or APNU [David A. GRANGER]<br>Alliance for Change or AFC [Raphael TROTMAN]<br>Justice for All Party [C.N. SHARMA]<br>Liberty and Justice Party or LJP [Lenox SHUMAN]<br>National Independent Party or NIP [Saphier Husain SUBEDAR]<br>People's Progressive Party/Civic or PPP/C [Bharrat JAGDEO]<br>The New Movement or TNM [joint leadership of several medical doctors]<br>The United Force or TUF [Manzoor NADIR]<br>United Republican Party or URP [Vishnu BANDHU]<br>
+A New and United Guyana or ANUG [Ralph RAMKARRAN]<br>A Partnership for National Unity or APNU [Joseph HARMON]<br>Alliance for Change or AFC [Raphael TROTMAN]<br>Justice for All Party [Savitree Singh SHARMA]<br>Liberty and Justice Party or LJP [Lenox SHUMAN]<br>National Independent Party or NIP [Saphier Husain SUBEDAR]<br>People's Progressive Party/Civic or PPP/C [Bharrat JAGDEO]<br>The New Movement or TNM [joint leadership of several medical doctors]<br>The United Force or TUF [Marissa NADIR]<br>United Republican Party or URP [Vishnu BANDHU]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITU, LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

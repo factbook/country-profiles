@@ -129,7 +129,7 @@ _female_: 33.1 years (2020 est.)<br>
 roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population<br>
 
 **Urbanization**<br>
-_urban population_: 81.4% of total population (2021)<br>
+_urban population_: 82% of total population (2022)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -253,7 +253,7 @@ _forest_: 51.5% (2018 est.)<br>
 _other_: 11.4% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 81.4% of total population (2021)<br>
+_urban population_: 82% of total population (2022)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -690,7 +690,7 @@ note - Costa Rica's armed forces were constitutionally abolished in 1949<br>
 the Public Force is lightly armed with an inventory that includes mostly second-hand US equipment (2021)<br>
 
 **Military - note**<br>
-Costa Rica relies on specialized paramilitary units within the MPS for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided equipment, including aircraft and patrol boats (2021)<br>
+Costa Rica relies on specialized paramilitary units within the Ministry of Public Security (MPS) for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided equipment, including aircraft and patrol boats (2021)<br>
 
 ## Transnational Issues
 
@@ -699,7 +699,7 @@ Costa Rica relies on specialized paramilitary units within the MPS for internal 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 29,906 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2021)<br>
-_stateless persons_: 199 (2020)<br>
+_stateless persons_: 205 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
 <p>significant transit country for drugs entering the United States; a growing drug consumption problem; drugs warehoused in Costa Rica end up in the local market where criminal organizations use cocaine as payment for services. </p> <p> </p><br>

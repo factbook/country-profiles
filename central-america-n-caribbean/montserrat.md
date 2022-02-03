@@ -122,7 +122,7 @@ _female_: 35.6 years (2020 est.)<br>
 only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity<br>
 
 **Urbanization**<br>
-_urban population_: 9.2% of total population (2021)<br>
+_urban population_: 9.2% of total population (2022)<br>
 _rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
@@ -198,7 +198,7 @@ _forest_: 25% (2018 est.)<br>
 _other_: 45% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 9.2% of total population (2021)<br>
+_urban population_: 9.2% of total population (2022)<br>
 _rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
 
 ## Government

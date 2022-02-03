@@ -123,7 +123,7 @@ _female_: 46.1 years (2020 est.)<br>
 population is unevenly distributed and is concentrated in the seven urbanized valleys that make up the country's parishes (political administrative divisions)<br>
 
 **Urbanization**<br>
-_urban population_: 87.9% of total population (2021)<br>
+_urban population_: 87.8% of total population (2022)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -232,7 +232,7 @@ _forest_: 34% (2018 est.)<br>
 _other_: 26% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 87.9% of total population (2021)<br>
+_urban population_: 87.8% of total population (2022)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>

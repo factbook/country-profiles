@@ -142,7 +142,7 @@ _female_: 39.4 years (2020 est.)<br>
 overwhelming majority of the population is found in the eastern half of the country; the west, with its vast mountainous and desert areas, remains sparsely populated; though ranked first in the world in total population, overall density is less than that of many other countries in Asia and Europe; high population density is found along the Yangtze and Yellow River valleys, the Xi Jiang River delta, the Sichuan Basin (around Chengdu), in and around Beijing, and the industrial area around Shenyang<br>
 
 **Urbanization**<br>
-_urban population_: 62.5% of total population (2021)<br>
+_urban population_: 63.6% of total population (2022)<br>
 _rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data do not include Hong Kong and Macau<br>
 
@@ -267,7 +267,7 @@ _forest_: 22.3% (2018 est.)<br>
 _other_: 23% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 62.5% of total population (2021)<br>
+_urban population_: 63.6% of total population (2022)<br>
 _rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data do not include Hong Kong and Macau<br>
 
@@ -750,7 +750,7 @@ note - the PLA is in the midst of a decades-long modernization effort; in 2017, 
 <p>China and India continue their security and foreign policy dialogue started in 2005 related to a number of boundary disputes across the 2,000 mile shared border; India does not recognize Pakistan's 1964 ceding to China of the Aksai Chin, a territory designated as part of the princely state of Kashmir by the British Survey of India in 1865; China claims most of the Indian state Arunachal Pradesh to the base of the Himalayas, but the US recognizes the state of Arunachal Pradesh as Indian territory; Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China's Chumbi salient; Chinese maps show an international boundary symbol (the so-called “nine-dash line”) off the coasts of the littoral states of the South China Sea, where China has interrupted Vietnamese hydrocarbon exploration; China asserts sovereignty over Scarborough Reef along with the Philippines and Taiwan, and over the Spratly Islands together with Malaysia, the Philippines, Taiwan, Vietnam, and Brunei; the 2002 Declaration on the Conduct of Parties in the South China Sea eased tensions in the Spratlys, and in 2017 China and ASEAN began confidential negotiations for an updated Code of Conduct for the South China Sea designed not to settle territorial disputes but establish rules and norms in the region; this still is not the legally binding code of conduct sought by some parties; Vietnam and China continue to expand construction of facilities in the Spratlys and in early 2018 China began deploying advanced military systems to disputed Spratly outposts; China occupies some of the Paracel Islands also claimed by Vietnam and Taiwan; the Japanese-administered Senkaku Islands are also claimed by China and Taiwan; certain islands in the Yalu and Tumen Rivers are in dispute with North Korea; North Korea and China seek to stem illegal migration to China by North Koreans, fleeing privation and oppression; China and Russia have demarcated the once disputed islands at the Amur and Ussuri confluence and in the Argun River in accordance with their 2004 Agreement; China and Tajikistan have begun demarcating the revised boundary agreed to in the delimitation of 2002; the decade-long demarcation of the China-Vietnam land boundary was completed in 2009; citing environmental, cultural, and social concerns, China has reconsidered construction of 13 dams on the Salween River, but energy-starved Burma, with backing from Thailand, continues to consider building five hydro-electric dams downstream despite regional and international protests</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 303,095 (Vietnam), undetermined (North Korea) (2020)<br>
+_refugees (country of origin)_: 303,107 (Vietnam), undetermined (North Korea) (mid-year 2021)<br>
 _IDPs_: undetermined (2021)<br>
 
 **Trafficking in persons**<br>

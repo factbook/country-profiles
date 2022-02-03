@@ -80,7 +80,7 @@ has only a short Pacific coast but a long Caribbean shoreline, including the vir
 
 **Population**<br>
 9,346,277 (July 2021 est.)<br>
-<strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+<strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
 _noun_: Honduran(s)<br>
@@ -133,7 +133,7 @@ _female_: 25.2 years (2020 est.)<br>
 most residents live in the mountainous western half of the country; unlike other Central American nations, Honduras is the only one with an urban population that is distributed between two large centers - the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area<br>
 
 **Urbanization**<br>
-_urban population_: 59% of total population (2021)<br>
+_urban population_: 59.6% of total population (2022)<br>
 _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
@@ -261,7 +261,7 @@ _forest_: 45.3% (2018 est.)<br>
 _other_: 25.9% (2018 est.)<br>
 
 **Urbanization**<br>
-_urban population_: 59% of total population (2021)<br>
+_urban population_: 59.6% of total population (2022)<br>
 _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
@@ -336,11 +336,11 @@ _residency requirement for naturalization_: 1 to 3 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018)<br>
+_chief of state_: President Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTIERREZ, and Renato FLORENTINO (since 27 January 2022); note - the president is both chief of state and head of government; CASTRO is Honduras' first female president<br>
+_head of government_: President Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTIERREZ, and Renato FLORENTINO (since 27 January 2022)<br>
 _cabinet_: Cabinet appointed by president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 28 November 2021 (next to be held in 30 November 2025); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
-_election results_: <br><em>2021: </em>Xiomara CASTRO de Zelaya elected president; percent of vote - Xiomara CASTRO de Zelaya (LIBRE) 51.1%, Nasry Juan ASFURA Zablah (PNH) 36.9%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 2%; note - CASTRO will take office 27 January 2022<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br>
+_election results_: <br><em>2021: </em>Xiomara CASTRO de Zelaya elected president; percent of vote - Xiomara CASTRO de Zelaya (LIBRE) 51.1%, Nasry Juan ASFURA Zablah (PNH) 36.9%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 2%<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>
@@ -700,7 +700,8 @@ the Honduran Armed Forces (FFAA) have approximately 16,000 active personnel (7,5
 the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; since 2010, Honduras has received limited amounts of military equipment from several countries, including Colombia, Israel, Netherlands, Taiwan, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary 2- to 3-year military service; no conscription (2021)<br>
+18 years of age for voluntary 2- to 3-year military service (men and women); no conscription (2021)<br>
+note - as of 2017, women made up over 4% of the active duty military<br>
 
 **Military - note**<br>
 the armed forces, including the PMOP, are subordinate to the Secretariat of Defense, while the HNP reports to the Secretariat of Security; the National Interinstitutional Security Force is an interagency command that coordinates the overlapping responsibilities of the HNP, PMOP, National Intelligence Directorate, and Public Ministry (public prosecutor), but exercises coordination, command, and control responsibilities only during interagency operations involving those forces; as of 2021, civilian authorities at times reportedly did not maintain effective control over security forces<br>
