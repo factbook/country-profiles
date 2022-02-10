@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 8% of population<br>
 _unimproved: total_: total: 3.4% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8% (2018)<br>
+9.7% (2019)<br>
 
 **Physicians density**<br>
 1.21 physicians/1,000 population (2018)<br>
@@ -373,6 +373,10 @@ royal palm, faya lobi (flower); national colors: green, white, red, yellow<br>
 _name_: "God zij met ons Suriname!" (God Be With Our Suriname)<br>
 _lyrics/music_: Cornelis Atses HOEKSTRA and Henry DE ZIEL/Johannes Corstianus DE PUY<br>
 <strong>note:</strong> adopted 1959; originally adapted from a Sunday school song written in 1893 and contains lyrics in both Dutch and Sranang Tongo<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Central Suriname Nature Reserve (n), Historic Inner City of Paramaribo (c)<br>
 
 ## Economy
 

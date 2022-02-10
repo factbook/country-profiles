@@ -136,7 +136,7 @@ _urban population_: 76.4% of total population (2022)<br>
 _rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.284 million SOFIA (capital) (2021)<br>
+1.287 million SOFIA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 2% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.4% (2018)<br>
+7.1% (2019)<br>
 
 **Physicians density**<br>
 4.03 physicians/1,000 population (2015)<br>
@@ -380,6 +380,10 @@ lion; national colors: white, green, red<br>
 _name_: "Mila Rodino" (Dear Homeland)<br>
 _lyrics/music_: Tsvetan Tsvetkov RADOSLAVOV<br>
 <strong>note:</strong> adopted 1964; composed in 1885 by a student en route to fight in the Serbo-Bulgarian War<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 10 (7 cultural, 3 natural)<br>
+_selected World Heritage Site locales_: Boyana Church (c), Madara Rider (c), Thracian Tomb of Kazanlak (c), Rock-Hewn Churches of Ivanovo (c), Rila Monastery (c), Ancient City of Nessebar (c), Thracian Tomb of Sveshtari (c), Srebarna Nature Reserve (n), Pirin National Park (n), Primeval Beech Forests of the Carpathians (n)<br>
 
 ## Economy
 
@@ -720,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,014 (Syria) (mid-year 2021)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
-<strong>note:</strong> 67,634 estimated refugee and migrant arrivals (January 2015-November 2021); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 69,854 estimated refugee and migrant arrivals (January 2015-January 2022); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 source country for amphetamine tablets<br>

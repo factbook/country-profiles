@@ -166,7 +166,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.7% (2018)<br>
+6.7% (2019)<br>
 
 **Physicians density**<br>
 3.33 physicians/1,000 population (2015)<br>
@@ -336,6 +336,10 @@ red cow (breed unspecified); national colors: blue, yellow, red<br>
 _name_: "El Gran Carlemany" (The Great Charlemagne)<br>
 _lyrics/music_: Joan BENLLOCH i VIVO/Enric MARFANY BONS<br>
 <strong>note:</strong> adopted 1921; the anthem provides a brief history of Andorra in a first person narrative<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: &nbsp;1 (cultural)<br>
+_selected World Heritage Site locales_: Madriu-Perafita-Claror Valley<br>
 
 ## Economy
 

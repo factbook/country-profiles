@@ -130,7 +130,7 @@ _urban population_: 68.5% of total population (2022)<br>
 _rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-628,000 RIGA (capital) (2021)<br>
+625,000 RIGA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 1.8% of population<br>
 _unimproved: total_: total: 1.4% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.2% (2018)<br>
+6.6% (2019)<br>
 
 **Physicians density**<br>
 3.19 physicians/1,000 population (2017)<br>
@@ -374,6 +374,10 @@ white wagtail (bird); national colors: maroon, white<br>
 _name_: "Dievs, sveti Latviju!" (God Bless Latvia)<br>
 _lyrics/music_: Karlis BAUMANIS<br>
 <strong>note:</strong> adopted 1920, restored 1990; first performed in 1873 while Latvia was a part of Russia; banned during the Soviet occupation from 1940 to 1990<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both cultural)<br>
+_selected World Heritage Site locales_: Historic Center of Riga, Struve Geodetic Arc<br>
 
 ## Economy
 
@@ -603,7 +607,7 @@ _subscriptions per 100 inhabitants_: 108.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: recent efforts focused on bringing competition to the telecommunications sector; the number of fixed-line phones is decreasing as mobile-cellular telephone service expands; EU regulatory policies, and framework provide guidelines for growth; government adopted measures to build a national fiber broadband network, partially funded by European Commission; new competition in mobile markets with extensive LTE-A technologies and 5G service growth; developing sophisticated digital economy with e-commerce and e-government widely available; operator working on cable to Sakhalin in Russia&rsquo;s Far East (2020)<br>
-_domestic_: fixed-line 12 per 100 and mobile-cellular 109 per 100 subscriptions (2019)<br>
+_domestic_: fixed-line roughly 11 per 100 and mobile-cellular nearly 109 per 100 subscriptions (2020)<br>
 _international_: country code - 371; the Latvian network is now connected via fiber-optic cable to Estonia, Finland, and Sweden<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -689,7 +693,7 @@ National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszem
 the National Armed Forces of Latvia have approximately 6,500 active duty troops (5,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly second-hand--European and US equipment; since 2010, it has received&nbsp; limited amounts of equipment from several European countries, as well as the US (2021)<br>
+the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly second-hand--European and US equipment; since 2010, it has received limited amounts of equipment from several European countries, as well as the US (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary male and female military service; no conscription (abolished 2007) (2021)<br>

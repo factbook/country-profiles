@@ -144,7 +144,7 @@ _urban population_: 46.8% of total population (2022)<br>
 _rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-14.970 million KINSHASA (capital), 2.643 million Mbuji-Mayi, 2.584 million Lubumbashi, 1.524 million Kananga, 1.321 million Kisangani, 1.133 million Bukavu (2021)<br>
+15.628 million KINSHASA (capital), 2.765 million Mbuji-Mayi, 2.695 million Lubumbashi, 1.593 million Kananga, 1.366 million Kisangani, 1.190 million Bukavu (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 67.6% of population<br>
 _unimproved: total_: total: 44.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.3% (2018)<br>
+3.5% (2019)<br>
 
 **Physicians density**<br>
 0.07 physicians/1,000 population (2016)<br>
@@ -411,6 +411,10 @@ leopard; national colors: sky blue, red, yellow<br>
 _name_: "Debout Congolaise" (Arise Congolese)<br>
 _lyrics/music_: Joseph LUTUMBA/Simon-Pierre BOKA di Mpasi Londi<br>
 <strong>note:</strong> adopted 1960; replaced when the country was known as Zaire; but readopted in 1997<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 5 (all natural)<br>
+_selected World Heritage Site locales_: Garamba National Park, Kahuzi-Biega National Park, Okapi Wildlife Reserve, Salonga National Park, Virunga National Park<br>
 
 ## Economy
 

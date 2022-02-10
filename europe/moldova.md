@@ -133,7 +133,7 @@ _urban population_: 43.2% of total population (2022)<br>
 _rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-494,000 CHISINAU (capital) (2021)<br>
+491,000 CHISINAU (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 15.4% of population<br>
 _unimproved: total_: total: 9.5% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.6% (2018)<br>
+6.4% (2019)<br>
 
 **Physicians density**<br>
 3.21 physicians/1,000 population (2017)<br>
@@ -377,6 +377,10 @@ aurochs (a type of wild cattle); national colors: blue, yellow, red<br>
 _name_: "Limba noastra" (Our Language)<br>
 _lyrics/music_: Alexei MATEEVICI/Alexandru CRISTEA<br>
 <strong>note:</strong> adopted 1994<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Struve Geodetic Arc<br>
 
 ## Economy
 
@@ -607,7 +611,7 @@ _subscriptions per 100 inhabitants_: 84.79 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high unemployment and economic pressures have reduced consumer spending in telecom market; endeavors to join the EU have promoted regulatory issues in line with EU standards; mobile market extended outside of cities and across most of the country; LTE services available; market is competitive, fiber accounts for 62% of all fixed broadband connections and most telecom revenue is from the mobile market; importer of broadcasting equipment from China (2020)<br>
-_domestic_: competition among mobile telephone providers has spurred subscriptions; little interest in expanding fixed-line service 27 per 100; mobile-cellular teledensity sits at 89 per 100 persons (2019)<br>
+_domestic_: competition among mobile telephone providers has spurred subscriptions; little interest in expanding fixed-line service which is roughly 25 per 100; mobile-cellular teledensity nearly 85 per 100 persons (2020)<br>
 _international_: country code - 373; service through Romania and Russia via landline; satellite earth stations - at least 3 - Intelsat, Eutelsat, and Intersputnik<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

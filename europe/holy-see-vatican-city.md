@@ -254,6 +254,10 @@ _name_: "Inno e Marcia Pontificale" (Hymn and Pontifical March); often called Th
 _lyrics/music_: Raffaello LAVAGNA/Charles-Francois GOUNOD<br>
 <strong>note:</strong> adopted 1950<br>
 
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both cultural)<br>
+_selected World Heritage Site locales_: Historic Center of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura; Vatican City<br>
+
 ## Economy
 
 **Economic overview**<br>

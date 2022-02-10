@@ -142,7 +142,7 @@ _urban population_: 68.7% of total population (2022)<br>
 _rate of urbanization_: 3.19% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.470 million BRAZZAVILLE (capital), 1.254 million Pointe-Noire (2021)<br>
+2.553 million BRAZZAVILLE (capital), 1.295 million Pointe-Noire (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 43.6% of population<br>
 _unimproved: total_: total: 16.3% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-2.1% (2018)<br>
+2.1% (2019)<br>
 
 **Physicians density**<br>
 0.17 physicians/1,000 population (2011)<br>
@@ -397,6 +397,10 @@ lion, elephant; national colors: green, yellow, red<br>
 _name_: "La Congolaise" (The Congolese)<br>
 _lyrics/music_: Jacques TONDRA and Georges KIBANGHI/Jean ROYER and Joseph SPADILIERE<br>
 <strong>note:</strong> originally adopted 1959, restored 1991<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (natural)<br>
+_selected World Heritage Site locales_: Sangha Trinational Forest<br>
 
 ## Economy
 
@@ -676,7 +680,7 @@ _unpaved_: 20,213 km (2017)<br>
 <strong>note:</strong> road network in Congo is composed of 23,324 km of which 17,000 km are classified as national, departmental, and routes of local interest: 6,324 km are non-classified routes<br>
 
 **Waterways**<br>
-1,120 km (commercially navigable on Congo and Oubanqui Rivers above Brazzaville; there are many ferries across the river to Kinshasa; the Congo south of Brazzaville-Kinshasa to the coast is not navigable because of rapids, necessitating a rail connection to Pointe Noire; other rivers are used for local traffic only) (2011)<br>
+1,120 km (commercially navigable on Congo and Oubangui Rivers above Brazzaville; there are many ferries across the river to Kinshasa; the Congo south of Brazzaville-Kinshasa to the coast is not navigable because of rapids, necessitating a rail connection to Pointe-Noire; other rivers are used for local traffic only) (2011)<br>
 
 **Merchant marine**<br>
 _total_: 11<br>
@@ -686,9 +690,7 @@ _by type_: general cargo 1, oil tanker 1, other 9 (2021)<br>
 _major seaport(s)_: Pointe-Noire<br>
 _oil terminal(s)_: Djeno<br>
 _river port(s)_: Brazzaville (Congo)<br>
-Impfondo (Oubangi)
-Ouesso (Sangha)
-Oyo (Alima)<br>
+Impfondo (Oubangui) Ouesso (Sangha) Oyo (Alima)<br>
 
 ## Military and Security
 

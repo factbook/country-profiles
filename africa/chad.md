@@ -139,7 +139,7 @@ _urban population_: 24.1% of total population (2022)<br>
 _rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.476 million N'DJAMENA (capital) (2021)<br>
+1.533 million N'DJAMENA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 53.4% of population<br>
 _unimproved: total_: total: 44.3% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.1% (2018)<br>
+4.4% (2019)<br>
 
 **Physicians density**<br>
 0.04 physicians/1,000 population (2017)<br>
@@ -400,6 +400,10 @@ goat (north), lion (south); national colors: blue, yellow, red<br>
 _name_: "La Tchadienne" (The Chadian)<br>
 _lyrics/music_: Louis GIDROL and his students/Paul VILLARD<br>
 <strong>note:</strong> adopted 1960<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (1 natural, 1 mixed)<br>
+_selected World Heritage Site locales_: Ennedi Massif: Natural and Cultural Landscape (m)<br>
 
 ## Economy
 

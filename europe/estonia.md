@@ -128,7 +128,7 @@ _urban population_: 69.6% of total population (2021)<br>
 _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-449,000 TALLINN (capital) (2021)<br>
+452,000 TALLINN (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -170,7 +170,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.7% (2018)<br>
+6.7% (2019)<br>
 
 **Physicians density**<br>
 4.48 physicians/1,000 population (2018)<br>
@@ -375,6 +375,10 @@ barn swallow, cornflower; national colors: blue, black, white<br>
 _name_: "Mu isamaa, mu onn ja room" (My Native Land, My Pride and Joy)<br>
 _lyrics/music_: Johann Voldemar JANNSEN/Fredrik PACIUS<br>
 <strong>note:</strong> adopted 1920, though banned between 1940 and 1990 under Soviet occupation; the anthem, used in Estonia since 1869, shares the same melody as Finland's but has different lyrics<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both cultural)<br>
+_selected World Heritage Site locales_: Historic Center (Old Town) of Tallinn,  Struve Geodetic Arc<br>
 
 ## Economy
 

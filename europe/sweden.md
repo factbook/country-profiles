@@ -135,7 +135,7 @@ _urban population_: 88.5% of total population (2022)<br>
 _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.657 million STOCKHOLM (capital) (2021)<br>
+1.659 million STOCKHOLM (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-10.9% (2018)<br>
+10.9% (2019)<br>
 
 **Physicians density**<br>
 3.98 physicians/1,000 population (2016)<br>
@@ -368,6 +368,10 @@ three crowns, lion; national colors: blue, yellow<br>
 _name_: "Du Gamla, Du Fria" (Thou Ancient, Thou Free)<br>
 _lyrics/music_: Richard DYBECK/traditional<br>
 <strong>note:</strong> in use since 1844; also known as "Sang till Norden" (Song of the North), is based on a Swedish folk tune; it has never been officially adopted by the government; "Kungssangen" (The King's Song) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 15 (13 cultural, 1 natural, 1 mixed)<br>
+_selected World Heritage Site locales_: Royal Domain of Drottningholm (c), Laponian Area (m), High Coast/Kvarken Archipelago (n), Birka and Hovg&aring;rden (c), Hanseatic Town of Visby (c), Church Town of Gammelstad, Lule&aring; (c), Naval Port of Karlskrona (c), Rock Carvings in Tanum (c), Engelsberg Ironworks (c), Mining Area of the Great Copper Mountain in Falun (c)<br>
 
 ## Economy
 
@@ -674,11 +678,11 @@ _LNG terminal(s) (import)_: Brunnsviksholme, Lysekil<br>
 Swedish Armed Forces (Forsvarsmakten): Army, Navy, Air Force; Home Guard (2021)<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2021 est.)<br>
 1.2% of GDP (2020)<br>
 1.1% of GDP (2019)<br>
 1% of GDP (2018)<br>
 1% of GDP (2017)<br>
-1.1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 16,000 active duty troops (7,000 Army; 3,000 Navy; 3,000 Air Force; 3,000 other, including staff, logistics, support, medical, cyber, intelligence, etc); approximately 22,000 Home Guard (2021)<br>

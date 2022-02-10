@@ -141,7 +141,7 @@ _urban population_: 38.8% of total population (2022)<br>
 _rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-8.838 million Ho Chi Minh City, 4.875 million HANOI (capital), 1.703 million Can Tho, 1.341 million Hai Phong, 1.157 million Da Nang, 1.046 million Bien Hoa (2021)<br>
+9.077 million Ho Chi Minh City, 5.067 million HANOI (capital), 1.786 million Can Tho, 1.382 million Hai Phong, 1.188 million Da Nang, 1.078 million Bien Hoa (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.09 male(s)/female<br>
@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 7.4% of population<br>
 _unimproved: total_: total: 5.3% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.9% (2018)<br>
+5.3% (2019)<br>
 
 **Physicians density**<br>
 0.83 physicians/1,000 population (2016)<br>
@@ -338,7 +338,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Nguyen Xuan PHUC (since 26 July 2021)<br>
-_head of government_: Prime Minister &nbsp;Pham Minh CHINH (since 26 July 2021)<br>
+_head of government_: Prime Minister Pham Minh CHINH (since 26 July 2021)<br>
 _cabinet_: Cabinet proposed by prime minister confirmed by the National Assembly and appointed by the president<br>
 _elections/appointments_: president indirectly elected by National Assembly from among its members for a single 5-year term; prime minister recommended by the president and confirmed by National Assembly; deputy prime ministers confirmed by the National Assembly and appointed by the president<br>
 _election results_: Pham Minh CHINH (CPV) reelected president; percent of National Assembly vote - 95.9%; Nguyen Xuan PHUC (CPV) reelected prime minister; percent of National Assembly vote - 96.8%<br>
@@ -388,6 +388,10 @@ yellow, five-pointed star on red field; lotus blossom; national colors: red, yel
 _name_: "Tien quan ca" (The Song of the Marching Troops)<br>
 _lyrics/music_: Nguyen Van CAO<br>
 <strong>note:</strong> adopted as the national anthem of the Democratic Republic of Vietnam in 1945; it became the national anthem of the unified Socialist Republic of Vietnam in 1976; although it consists of two verses, only the first is used as the official anthem<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 8 (5 cultural, 2 natural, 1 mixed)<br>
+_selected World Heritage Site locales_: Complex of Hué Monuments (c), Ha Long Bay (n), Hoi An Ancient Town (c), My Son Sanctuary (c), Phong Nha-Ke Bang National Park (n), Imperial Citadel of Thang Long - Hanoi (c), Citadel of the Ho Dynasty (c), Trang An Landscape Complex (m)<br>
 
 ## Economy
 

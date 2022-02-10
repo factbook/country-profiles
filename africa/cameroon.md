@@ -141,7 +141,7 @@ _urban population_: 58.7% of total population (2022)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-4.164 million YAOUNDE (capital), 3.793 million Douala (2021)<br>
+4.164 million YAOUNDE (capital), 3.927 million Douala (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 45.3% of population<br>
 _unimproved: total_: total: 23.5% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.5% (2018)<br>
+3.6% (2019)<br>
 
 **Physicians density**<br>
 0.09 physicians/1,000 population (2011)<br>
@@ -407,6 +407,10 @@ lion; national colors: green, red, yellow<br>
 _name_: "O Cameroun, Berceau de nos Ancetres" (O Cameroon, Cradle of Our Forefathers)<br>
 _lyrics/music_: Rene Djam AFAME, Samuel Minkio BAMBA, Moise Nyatte NKO'O [French], Benard Nsokika FONLON [English]/Rene Djam AFAME<br>
 <strong>note:</strong> adopted 1957; Cameroon's anthem, also known as "Chant de Ralliement" (The Rallying Song), has been used unofficially since 1948 and officially adopted in 1957; the anthem has French and English versions whose lyrics differ<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both natural)<br>
+_selected World Heritage Site locales_: Dja Faunal Reserve, Sangha Trinational Forest<br>
 
 ## Economy
 

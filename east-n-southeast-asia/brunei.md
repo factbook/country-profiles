@@ -162,7 +162,7 @@ _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-2.4% (2018)<br>
+2.2% (2019)<br>
 
 **Physicians density**<br>
 1.61 physicians/1,000 population (2017)<br>
@@ -281,7 +281,7 @@ _history_: drafted 1954 to 1959, signed 29 September 1959; note - some constitut
 _amendments_: proposed by the monarch; passage requires submission to the Privy Council for Legislative Council review and finalization takes place by proclamation; the monarch can accept or reject changes to the original proposal provided by the Legislative Council; amended several times, last in 2010<br>
 
 **Legal system**<br>
-mixed legal system based on English common law and Islamic law; note - in April 2019, the full sharia penal codes came into force and apply to Muslims and non-Muslims in parallel with present common law codes<br>
+mixed legal system based on English common law and Islamic law; note - in April 2019, the full sharia penal codes came into force and apply to Muslims and partly to non-Muslims in parallel with present common law codes<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; non-party state to the ICC<br>

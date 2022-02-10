@@ -141,7 +141,7 @@ _urban population_: 49.1% of total population (2022)<br>
 _rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.230 million DAKAR (capital) (2021)<br>
+3.326 million DAKAR (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 25.5% of population<br>
 _unimproved: total_: total: 16.7% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4% (2018)<br>
+4.1% (2019)<br>
 
 **Physicians density**<br>
 0.07 physicians/1,000 population (2017)<br>
@@ -401,6 +401,10 @@ lion; national colors: green, yellow, red<br>
 _name_: "Pincez Tous vos Koras, Frappez les Balafons" (Pluck Your Koras, Strike the Balafons)<br>
 _lyrics/music_: Leopold Sedar SENGHOR/Herbert PEPPER<br>
 <strong>note:</strong> adopted 1960; lyrics written by Leopold Sedar SENGHOR, Senegal's first president; the anthem sometimes played incorporating the Koras (harp-like stringed instruments) and Balafons (types of xylophones) mentioned in the title<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 7 (5 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Island of Gor&eacute;e (c); Niokolo-Koba National Park (n); Djoudj National Bird Sanctuary (n); Island of Saint-Louis (c); Stone Circles of Senegambia (c); Saloum Delta (c); Bassari Country: Bassari, Fula, and Bedik Cultural Landscapes (c)<br>
 
 ## Economy
 

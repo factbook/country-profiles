@@ -166,7 +166,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.4% (2018)<br>
+4.3% (2019)<br>
 
 **Physicians density**<br>
 0.64 physicians/1,000 population (2017)<br>
@@ -344,6 +344,10 @@ twin pitons (volcanic peaks), Saint Lucia parrot; national colors: cerulean blue
 _name_: Sons and Daughters of St. Lucia<br>
 _lyrics/music_: Charles JESSE/Leton Felix THOMAS<br>
 <strong>note:</strong> adopted 1967<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (natural)<br>
+_selected World Heritage Site locales_: Pitons Management Area<br>
 
 ## Economy
 

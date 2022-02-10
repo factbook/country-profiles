@@ -135,7 +135,7 @@ _urban population_: 69.1% of total population (2022)<br>
 _rate of urbanization_: 1.92% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.899 million PANAMA CITY (capital) (2021)<br>
+1.938 million PANAMA CITY (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
@@ -174,7 +174,7 @@ _unimproved: rural_: rural: 5.2% of population<br>
 _unimproved: total_: total: 1.7% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.3% (2018)<br>
+7.6% (2019)<br>
 
 **Physicians density**<br>
 1.57 physicians/1,000 population (2016)<br>
@@ -380,6 +380,10 @@ harpy eagle; national colors: blue, white, red<br>
 _name_: "Himno Istmeno" (Isthmus Hymn)<br>
 _lyrics/music_: Jeronimo DE LA OSSA/Santos A. JORGE<br>
 <strong>note:</strong> adopted 1925<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 5 (2 cultural, 3 natural)<br>
+_selected World Heritage Site locales_: Caribbean Fortifications (c), Darien National Park (n), Talamanca Range-La Amistad National Park (n), Panamá Viejo and Historic District of Panamá (c), Coiba National Park (n)<br>
 
 ## Economy
 

@@ -139,7 +139,7 @@ _urban population_: 64.6% of total population (2022)<br>
 _rate of urbanization_: 1.62% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.043 million Guayaquil, 1.901 million QUITO (capital) (2021)<br>
+3.092 million Guayaquil, 1.928 million QUITO (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 16.2% of population<br>
 _unimproved: total_: total: 6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8.1% (2018)<br>
+7.8% (2019)<br>
 
 **Physicians density**<br>
 2.04 physicians/1,000 population (2016)<br>
@@ -387,6 +387,10 @@ Andean condor; national colors: yellow, blue, red<br>
 _name_: "Salve, Oh Patria!" (We Salute You, Our Homeland)<br>
 _lyrics/music_: Juan Leon MERA/Antonio NEUMANE<br>
 <strong>note:</strong> adopted 1948; Juan Leon MERA wrote the lyrics in 1865; only the chorus and second verse are sung<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Historic Quito (c), Galápagos Islands (n), Historic Cuenca (c), Qhapaq Ñan/Andean Road System (c), Sangay National Park (n)<br>
 
 ## Economy
 

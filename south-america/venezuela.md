@@ -142,7 +142,7 @@ _urban population_: 88.4% of total population (2022)<br>
 _rate of urbanization_: 1.16% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.946 million CARACAS (capital), 2.296 million Maracaibo, 1.935 million Valencia, 1.227 million Barquisimeto, 1.216 million Maracay (2021)<br>
+2.957 million CARACAS (capital), 2.333 million Maracaibo, 1.959 million Valencia, 1.241 million Barquisimeto, 1.230 million Maracay, 950,000 Ciudad Guayana (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -177,7 +177,7 @@ _improved: total_: total: 95.7% of population<br>
 _unimproved: total_: total: 4.3% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.6% (2018)<br>
+5.4% (2019)<br>
 
 **Hospital bed density**<br>
 0.9 beds/1,000 population (2017)<br>
@@ -374,6 +374,10 @@ troupial (bird); national colors: yellow, blue, red<br>
 _name_: "Gloria al bravo pueblo" (Glory to the Brave People)<br>
 _lyrics/music_: Vicente SALIAS/Juan Jose LANDAETA<br>
 <strong>note:</strong> adopted 1881; lyrics written in 1810, the music some years later; both SALIAS and LANDAETA were executed in 1814 during Venezuela's struggle for independence<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Coro and its Port (c), Canaima National Park (n), Ciudad Universitaria de Caracas (c)<br>
 
 ## Economy
 

@@ -135,7 +135,7 @@ _urban population_: 70.2% of total population (2022)<br>
 _rate of urbanization_: 1.34% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.403 million TUNIS (capital) (2021)<br>
+2.439 million TUNIS (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -174,7 +174,7 @@ _unimproved: rural_: rural: 5.7% of population<br>
 _unimproved: total_: total: 1.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.3% (2018)<br>
+7% (2019)<br>
 
 **Physicians density**<br>
 1.3 physicians/1,000 population (2017)<br>
@@ -371,6 +371,10 @@ encircled red crescent moon and five-pointed star; national colors: red, white<b
 _name_: "Humat Al Hima" (Defenders of the Homeland)<br>
 _lyrics/music_: Mustafa Sadik AL-RAFII and Aboul-Qacem ECHEBBI/Mohamad Abdel WAHAB<br>
 <strong>note:</strong> adopted 1957, replaced 1958, restored 1987; Mohamad Abdel WAHAB also composed the music for the anthem of the United Arab Emirates<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 8 (7 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Amphitheatre of El Jem (c), Archaeological Site of Carthage (c), Medina of Tunis (c), Ichkeul National Park (n), Punic Town of Kerkuane (c), Kairouan (c), Medina of Sousse (c), Dougga / Thugga (c)<br>
 
 ## Economy
 

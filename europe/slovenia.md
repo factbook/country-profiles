@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8.3% (2018)<br>
+8.5% (2019)<br>
 
 **Physicians density**<br>
 3.09 physicians/1,000 population (2017)<br>
@@ -371,6 +371,10 @@ Mount Triglav; national colors: white, blue, red<br>
 _name_: "Zdravljica" (A Toast)<br>
 _lyrics/music_: France PRESEREN/Stanko PREMRL<br>
 <strong>note:</strong> adopted in 1989 while still part of Yugoslavia; originally written in 1848; the full poem, whose seventh verse is used as the anthem, speaks of pan-Slavic nationalism<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: &Scaron;kocjan Caves (n), Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (n), Prehistoric Pile Dwellings around the Alps (c), Heritage of Mercury: Almad&eacute;n and Idrija (c), The works of Jože Plečnik in Ljubljana (c)<br>
 
 ## Economy
 

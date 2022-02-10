@@ -46,7 +46,7 @@ primarily semiarid and desert plateau; narrow coastal plain; mountains in west<b
 
 **Elevation**<br>
 _highest point_: Mount Hermon (Jabal a-Shayk) 2,814 m<br>
-_lowest point_: unnamed location near Lake Tiberias -208 m<br>
+_lowest point_: Yarmuk River -66 m<br>
 _mean elevation_: 514 m<br>
 
 **Natural resources**<br>
@@ -139,7 +139,7 @@ _urban population_: 56.8% of total population (2022)<br>
 _rate of urbanization_: 5.38% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.440 million DAMASCUS (capital), 2.004 million Aleppo, 1.362 million Hims (Homs), 940,000 Hamah (2021)<br>
+2.503 million DAMASCUS (capital), 2.098 million Aleppo, 1.398 million Hims (Homs), 964,000 Hamah (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -373,6 +373,10 @@ hawk; national colors: red, white, black, green<br>
 _name_: "Humat ad-Diyar" (Guardians of the Homeland)<br>
 _lyrics/music_: Khalil Mardam BEY/Mohammad Salim FLAYFEL and Ahmad Salim FLAYFEL<br>
 <strong>note:</strong> adopted 1936, restored 1961; between 1958 and 1961, while Syria was a member of the United Arab Republic with Egypt, the country had a different anthem<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 6 (all cultural)<br>
+_selected World Heritage Site locales_: Ancient City of Damascus, Ancient City of Bosra, Site of Palmyra, Ancient City of Aleppo, Crac des Chevaliers and Qal&rsquo;at Salah El-Din, Ancient Villages of Northern Syria<br>
 
 ## Economy
 

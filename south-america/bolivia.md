@@ -141,7 +141,7 @@ _urban population_: 70.8% of total population (2022)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-278,000 Sucre (constitutional capital) (2018); 1.882 million LA PAZ (capital), 1.749 million Santa Cruz, 1.337 million Cochabamba (2021)<br>
+278,000 Sucre (constitutional capital) (2018); 1.908 million LA PAZ (capital), 1.784 million Santa Cruz, 1.369 million Cochabamba (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 21.9% of population<br>
 _unimproved: total_: total: 7.1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.3% (2018)<br>
+6.9% (2019)<br>
 
 **Physicians density**<br>
 1.59 physicians/1,000 population (2016)<br>
@@ -397,6 +397,10 @@ llama, Andean condor, two national flowers: the cantuta and the patuju; national
 _name_: "Cancion Patriotica" (Patriotic Song)<br>
 _lyrics/music_: Jose Ignacio de SANJINES/Leopoldo Benedetto VINCENTI<br>
 <strong>note:</strong> adopted 1852<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: City of Potosi (c), El Fuerte de Samaipata (c), Historic Sucre (c), Jesuit Missions of Chiquitos (c), Noel Kempff Mercado National Park (n), Tiahuanacu (c),&nbsp; Qhapaq &Ntilde;an/Andean Road System (c)<br>
 
 ## Economy
 

@@ -145,7 +145,7 @@ _urban population_: 68.3% of total population (2022)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-9.897 million Johannesburg (includes Ekurhuleni), 4.710 million Cape Town (legislative capital), 3.176 million Durban, 2.655 million PRETORIA (administrative capital), 1.267 million Port Elizabeth, 909,000 West Rand (2021)<br>
+10.110 million Johannesburg (includes Ekurhuleni), 4.801 million Cape Town (legislative capital), 3.199 million Durban, 2.74 million PRETORIA (administrative capital), 1.281 million Port Elizabeth, 909,000 West Rand (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 12.6% of population<br>
 _unimproved: total_: total: 4.5% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8.3% (2018)<br>
+9.1% (2019)<br>
 
 **Physicians density**<br>
 0.91 physicians/1,000 population (2017)<br>
@@ -394,6 +394,10 @@ springbok (antelope), king protea flower; national colors: red, green, blue, yel
 _name_: National Anthem of South Africa<br>
 _lyrics/music_: Enoch SONTONGA and Cornelius Jacob LANGENHOVEN/Enoch SONTONGA and Marthinus LOURENS de Villiers<br>
 <strong>note:</strong> adopted 1994; a combination of "N'kosi Sikelel' iAfrica" (God Bless Africa) and "Die Stem van Suid Afrika" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (i.e., the five most widely spoken of South Africa's 11 official languages); music incorporates the melody used in the Tanzanian and Zambian anthems<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 10 (5 cultural, 4 natural, 1 mixed)<br>
+_selected World Heritage Site locales_: Fossil Hominid Sites of South Africa (c), iSimangaliso Wetland Park (n), Robben Island (c), Maloti-Drakensberg Park (m), Mapungubwe Cultural Landscape (c), Cape Floral Region Protected Areas (n), Vredefort Dome (n), Richtersveld Cultural and Botanical Landscape (c), Khomani Cultural Landscape (c), Barberton Makhonjwa Mountains (n)<br>
 
 ## Economy
 
@@ -700,7 +704,7 @@ _LNG terminal(s) (import)_: Mossel Bay<br>
 South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services; South African Police Service (includes Special Task Force for counterterrorism, counterinsurgency, and hostage rescue operations) (2021)<br>
 
 **Military expenditures**<br>
-0.9% of GDP (2021 est.)<br>
+0.8% of GDP (2021 est.)<br>
 1.1% of GDP (2020)<br>
 1% of GDP (2019)<br>
 1% of GDP (2018)<br>

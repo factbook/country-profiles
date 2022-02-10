@@ -142,7 +142,7 @@ _urban population_: 71.4% of total population (2022)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-7.323 million BAGHDAD (capital), 1.683 million Mosul, 1.382 million Basra, 1.031 million Kirkuk, 901,000 Najaf, 861,000 Erbil (2021)<br>
+7.512 million BAGHDAD (capital), 1.737 million Mosul, 1.414 million Basra, 1.052 million Kirkuk, 930,000 Najaf, 878,000 Erbil (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 5% of population<br>
 _unimproved: total_: total: 2.1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.1% (2018)<br>
+4.5% (2019)<br>
 
 **Physicians density**<br>
 0.71 physicians/1,000 population (2018)<br>
@@ -394,6 +394,10 @@ golden eagle; national colors: red, white, black<br>
 _name_: "Mawtini" (My Homeland)<br>
 _lyrics/music_: Ibrahim TOUQAN/Mohammad FLAYFEL<br>
 <strong>note:</strong> adopted 2004; following the ouster of SADDAM Husayn, Iraq adopted "Mawtini," a popular folk song throughout the Arab world; also serves as an unofficial anthem of the Palestinian people<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 6 (5 cultural, 1 mixed)<br>
+_selected World Heritage Site locales_: Ashur (Qal'at Sherqat) (c), Babylon (c), Erbil Citadel (c), Hatra (c), Samarra Archaeological City (c), The Ahwar (Marshland) of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities (m)<br>
 
 ## Economy
 

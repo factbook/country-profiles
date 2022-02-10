@@ -142,7 +142,7 @@ _urban population_: 45.4% of total population (2022)<br>
 _rate of urbanization_: 4.57% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.713 million BAMAKO (capital) (2021)<br>
+2.817 million BAMAKO (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 27.2% of population<br>
 _unimproved: total_: total: 17.1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.9% (2018)<br>
+3.9% (2019)<br>
 
 **Physicians density**<br>
 0.13 physicians/1,000 population (2018)<br>
@@ -408,6 +408,10 @@ Great Mosque of Djenne; national colors: green, yellow, red<br>
 _name_: "Le Mali" (Mali)<br>
 _lyrics/music_: Seydou Badian KOUYATE/Banzoumana SISSOKO<br>
 <strong>note:</strong> adopted 1962; also known as "Pour L'Afrique et pour toi, Mali" (For Africa and for You, Mali) and "A ton appel Mali" (At Your Call, Mali)<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 4 (3 cultural, 1 mixed)<br>
+_selected World Heritage Site locales_: Old Towns of Djenn&eacute; (c), Timbuktu (c), Cliff of Bandiagara (Land of the Dogons) (m), Tomb of Askia (c)<br>
 
 ## Economy
 
@@ -632,7 +636,7 @@ _subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Mali&rsquo;s telecom systems are challenged by recent conflict, geography, areas of low population, poverty, security issues, and high illiteracy; telecom infrastructure is barely adequate in urban areas and not available in most of the country with underinvestment in fixed-line networks; high mobile penetration and potential for mobile broadband service; local plans for IXP; dependent on neighboring countries for international bandwidth and access to submarine cables; Chinese investment in infrastructure stymied by security issues; importer of broadcasting equipment from China (2020)<br>
-_domestic_: fixed-line subscribership 1 per 100 persons; mobile-cellular subscribership has increased sharply to over 115 per 100 persons; increasing use of local radio loops to extend network coverage to remote areas (2019)<br>
+_domestic_: fixed-line subscribership is over 1 per 100 persons; mobile-cellular subscribership has increased sharply to 125 per 100 persons; increasing use of local radio loops to extend network coverage to remote areas (2020)<br>
 _international_: country code - 223; satellite communications center and fiber-optic links to neighboring countries; satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

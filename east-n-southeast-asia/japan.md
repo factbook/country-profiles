@@ -134,7 +134,7 @@ _urban population_: 92% of total population (2022)<br>
 _rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-37.340 million TOKYO (capital), 19.111 million Osaka, 9.566 million Nagoya, 5.516 million Kitakyushu-Fukuoka, 2.930 million Shizuoka-Hamamatsu, 2.670 million Sapporo (2021)<br>
+37.274 million TOKYO (capital), 19.060 million Osaka, 9.572 million Nagoya, 5.503 million Kitakyushu-Fukuoka, 2.935 million Shizuoka-Hamamatsu, 2.669 million Sapporo (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -173,7 +173,7 @@ _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-11% (2018)<br>
+10.7% (2019)<br>
 
 **Physicians density**<br>
 2.41 physicians/1,000 population (2016)<br>
@@ -372,6 +372,10 @@ red sun disc, chrysanthemum; national colors: red, white<br>
 _name_: "Kimigayo" (The Emperor's Reign)<br>
 _lyrics/music_: unknown/Hiromori HAYASHI<br>
 <strong>note:</strong> adopted 1999; unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; there is some opposition to the anthem because of its association with militarism and worship of the emperor<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 25 (20 cultural, 5 natural)<br>
+_selected World Heritage Site locales_: Buddhist Monuments in the Horyu-ji Area (c); Historic Monuments of Ancient Nara (c); Himeji-jo (c); Shiretoko (n); Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan (c); Iwami Ginzan Silver Mine and its Cultural Landscape (c); Jomon Prehistoric Sites in Northern Japan (c); Yakushima (n); Historic Monuments of Ancient Kyoto (c); Hiroshima Peace Memorial (Genbaku Dome) (c)<br>
 
 ## Economy
 

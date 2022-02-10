@@ -134,7 +134,7 @@ _urban population_: 87.8% of total population (2022)<br>
 _rate of urbanization_: 2.32% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.590 million MUSCAT (capital) (2021)<br>
+1.623 million MUSCAT (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.1% (2018)<br>
+4.1% (2019)<br>
 
 **Physicians density**<br>
 2 physicians/1,000 population (2018)<br>
@@ -365,6 +365,10 @@ khanjar dagger superimposed on two crossed swords; national colors: red, white, 
 _name_: "Nashid as-Salaam as-Sultani" (The Sultan's Anthem)<br>
 _lyrics/music_: Rashid bin Uzayyiz al KHUSAIDI/James Frederick MILLS, arranged by Bernard EBBINGHAUS<br>
 <strong>note:</strong> adopted 1932; new lyrics written after QABOOS bin Said al Said gained power in 1970; first performed by the band of a British ship as a salute to the Sultan during a 1932 visit to Muscat; the bandmaster of the HMS Hawkins was asked to write a salutation to the Sultan on the occasion of his ship visit<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 5 (all cultural)<br>
+_selected World Heritage Site locales_: Bahla Fort; Archaeological Sites of Bat; Land of Frankincense; Aflaj Irrigation Systems of Oman; Ancient Qalhat<br>
 
 ## Economy
 

@@ -158,7 +158,7 @@ _improved: urban_: urban: 95.7% of population<br>
 _unimproved: urban_: urban: 4.3% of population<br>
 
 **Current Health Expenditure**<br>
-6.6% (2018)<br>
+5.5% (2019)<br>
 
 **Physicians density**<br>
 1.12 physicians/1,000 population (2017)<br>
@@ -321,6 +321,10 @@ Sisserou parrot, Carib Wood flower; national colors: green, yellow, black, white
 _name_: Isle of Beauty<br>
 _lyrics/music_: Wilfred Oscar Morgan POND/Lemuel McPherson CHRISTIAN<br>
 <strong>note:</strong> adopted 1967<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (natural)<br>
+_selected World Heritage Site locales_: Pitons Management Area<br>
 
 ## Economy
 

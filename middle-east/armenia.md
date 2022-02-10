@@ -130,7 +130,7 @@ _urban population_: 63.6% of total population (2022)<br>
 _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.089 million YEREVAN (capital) (2021)<br>
+1.092 million YEREVAN (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.1 male(s)/female<br>
@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-10% (2018)<br>
+11.3% (2019)<br>
 
 **Physicians density**<br>
 4.4 physicians/1,000 population (2017)<br>
@@ -368,6 +368,10 @@ Mount Ararat, eagle, lion; national colors: red, blue, orange<br>
 _name_: "Mer Hayrenik" (Our Fatherland)<br>
 _lyrics/music_: Mikael NALBANDIAN/Barsegh KANACHYAN<br>
 <strong>note:</strong> adopted 1991; based on the anthem of the Democratic Republic of Armenia (1918-1922) but with different lyrics<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (3 cultural)<br>
+_selected World Heritage Site locales_: Monasteries of Haghpat and Sanahin, Monastery of Geghard and the Upper Azat Valley, Cathedral and Churches of Echmiatsin<br>
 
 ## Economy
 

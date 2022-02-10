@@ -142,7 +142,7 @@ _urban population_: 52.9% of total population (2022)<br>
 _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-10.723 million BANGKOK (capital), 1.417 Chon Buri, 1.324 million Samut Prakan, 1.182 million Chiang Mai, 979,000 Songkla, 975,000 Nothaburi (2021)<br>
+10.900 million BANGKOK (capital), 1.436 Chon Buri, 1.342 million Samut Prakan, 1.198 million Chiang Mai, 992,000 Songkla, 988,000 Nothaburi (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.8% (2018)<br>
+3.8% (2019)<br>
 
 **Physicians density**<br>
 0.81 physicians/1,000 population (2018)<br>
@@ -328,7 +328,7 @@ Birthday of King WACHIRALONGKON, 28 July (1952)<br>
 
 **Constitution**<br>
 _history_: many previous; latest drafted and presented 29 March 2016, approved by referendum 7 August 2016, signed into law by the king 6 April 2017<br>
-_amendments_: proposed as a joint resolution by the Council of Ministers and the National Council for Peace and Order (the junta that has ruled Thailand since the 2014 coup) and submitted as a draft to the National Legislative Assembly; passage requires majority vote of the existing Assembly members and presentation to the monarch for assent and countersignature of the prime minister<br>
+_amendments_: amendments require a majority vote in a joint session of the House and Senate and further require at least 1/5 of opposition House members and 1/3 of the Senate vote in favor; a national referendum is additionally required for certain amendments; all amendments require signature by the king; Thailand's 2017 constitution was amended in November 2021 to increase the number of constituency members of parliament (MPs) from 350 to 400, reduce the number of party-list MPs from 150 to 100, and change the election to a two-ballot system<br>
 
 **Legal system**<br>
 civil law system with common law influences<br>
@@ -355,7 +355,7 @@ _elections/appointments_: the monarchy is hereditary; the House of Representativ
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Ratthasapha consists of:<br>Senate or Wuthisapha (250 seats; members appointed by the Royal Thai Army to serve 5-year terms)<br>House of Representatives or Saphaphuthan Ratsadon (500 seats; 375 members directly elected in single-seat constituencies by simple majority vote and 150 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: Senate - last held on 14 May 2019 (next to be held in 2024)<br><br>House of Representatives - last held on 24 March 2019 (next to be held in 2023)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 224, women 26, percent of women 10.4%<br>House of Representatives - percent of vote by party in 2019 election- PPRP 23.7%, PTP 22.2%, FFP 17.8%, DP 11.1%, PJT 10.5%, TLP 2.3%, CTP 2.2%, NEP 1.4%, PCC 1.4%, ACT 1.2%, PCP 1.2%,  other 5.1%; seats by party - PTP 136, PPRP 116, FFP 81, DP 53, PJT 51, CTP 10, TLP 10, PCC 7, PCP 5, NEP 6, ACT 5, other 20; composition - men 421, women 79, percent of women 15.8%; note(s) - total National Assembly percent of women 14%; the FFP was dissolved by the Constitutional Court in February of 2020 and its representatives moved to the newly-formed Move Forward Party or to other political parties<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 224, women 26, percent of women 10.4%<br>House of Representatives - percent of vote by party in 2019 election- PPRP 23.7%, PTP 22.2%, FFP* 17.8%, DP 11.1%, PJT 10.5%, TLP 2.3%, CTP 2.2%, NEP 1.4%, PCC 1.4%, ACT 1.2%, PCP 1.2%,  other 5.1%; seats by party - PTP 136, PPRP 116, FFP 81, DP 53, PJT 51, CTP 10, TLP 10, PCC 7, PCP 5, NEP 6, ACT 5, other 20; composition - men 421, women 79, percent of women 15.8%; note(s) - total National Assembly percent of women 14%; the FFP was dissolved by the Constitutional Court in February of 2020 and its representatives moved to the newly-formed Move Forward Party or to other political parties<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of the court president, 6 vice presidents, 60-70 judges, and organized into 10 divisions); Constitutional Court (consists of the court president and 8 judges); Supreme Administrative Court (number of judges determined by Judicial Commission of the Administrative Courts)<br>
@@ -397,6 +397,10 @@ garuda (mythical half-man, half-bird figure), elephant; national colors: red, wh
 _name_: "Phleng Chat Thai" (National Anthem of Thailand)<br>
 _lyrics/music_: Luang SARANUPRAPAN/Phra JENDURIYANG<br>
 <strong>note:</strong> music adopted 1932, lyrics adopted 1939; by law, people are required to stand for the national anthem at 0800 and 1800 every day; the anthem is played in schools, offices, theaters, and on television and radio during this time; "Phleng Sanlasoen Phra Barami" (A Salute to the Monarch) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 6 (3 cultural, 3 natural)<br>
+_selected World Heritage Site locales_: Historic City of Ayutthaya (c), Historic Sukhothai and Associated Historic Towns (c), Thungyai-Huai Kha Khaeng Wildlife Sanctuaries (n), Ban Chiang Archaeological Site (c), Dong Phayayen-Khao Yai Forest Complex (n), Kaeng Krachan Forest Complex (n)<br>
 
 ## Economy
 
@@ -702,15 +706,15 @@ _LNG terminal(s) (import)_: Map Ta Phut<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA; includes Thai Rangers (Thahan Phran)), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF); Office of the Prime Minister: Royal Thai Police; Internal Security Operations Command (ISOC; oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties); Ministry of Interior: Volunteer Defense Corps (2021)<br>
-note: the Thai Rangers (aka Thahan Phran or 'Hunter Soldiers’) is a paramilitary force formed in 1978 to clear Communist Party of Thailand guerrillas from mountain strongholds in the country's northeast; it is a light infantry force led by regular officers and non-commissioned officers and comprised of both full‐ and part‐time personnel; it conducts counterinsurgency operations in the southern region; on the eastern border with Laos and Cambodia, the Rangers have primary responsibility for border surveillance and protection<br>
+Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF); Office of the Prime Minister: Royal Thai Police; Internal Security Operations Command (ISOC; oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties; primarily run by the Army) (2021)<br>
+note(s) - official paramilitary forces in Thailand include the Thai Rangers (<em>Thahan Phran</em> or "Hunter Soldiers") under the Army; the Paramilitary Marines under the Navy; the Border Patrol Police (BPP) under the Royal Thai Police; the Volunteer Defense Corps (VDC or <em>O So</em>) and National Defense Volunteers (NDV), both under the Ministry of Interior; there are also several government-backed volunteer militias created to provide village security against insurgents in the deep south or to assist the ISOC<br>
 
 **Military expenditures**<br>
+1.25% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
 1.3% of GDP (2019)<br>
 1.4% of GDP (2018)<br>
 1.6% of GDP (2017)<br>
-1.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 estimates for the size of the Royal Thai Armed Forces (RTARF) vary widely; approximately 260,000 active duty personnel (150,000 Army; 65,000 Navy; 45,000 Air Force); est. 20,000 Thai Rangers; est. 5-6,000 Internal Security Operations Command (2021)<br>
@@ -726,7 +730,7 @@ the RTARF has a diverse array of foreign-supplied weapons systems, including a l
 note(s) - information varies, but conscripts reportedly comprise as much as 50% of the RTARF; around 100,000 males are drafted each year; as of 2020, women comprised about 8% of active military personnel<br>
 
 **Military - note**<br>
-including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, the Thai military has been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed more than 7,000 lives; as of late 2020, as many as 100,000 military and paramilitary forces were deployed in the south to combat the insurgency<br> <p>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, the Thai military has been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed more than 7,000 lives; as of 2021, at least 70,000 military, paramilitary, and government-backed militia forces were estimated to be deployed in the south to combat the insurgency<br> <p>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Transnational Issues
 

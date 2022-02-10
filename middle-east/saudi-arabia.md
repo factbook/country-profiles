@@ -137,7 +137,7 @@ _urban population_: 84.7% of total population (2022)<br>
 _rate of urbanization_: 1.69% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-7.388 million RIYADH (capital), 4.697 million Jeddah, 2.079 million Mecca, 1.518 million Medina, 1.279 million Ad Dammam, 1.279 million Hufuf-Mubarraz (2021)<br>
+7.538 million RIYADH (capital), 4.781 million Jeddah, 2.115 million Mecca, 1.545 million Medina, 1.305 million Ad Dammam, 860,000 million Hufuf-Mubarraz (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -172,7 +172,7 @@ _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.4% (2018)<br>
+5.7% (2019)<br>
 
 **Physicians density**<br>
 2.61 physicians/1,000 population (2018)<br>
@@ -367,6 +367,10 @@ palm tree surmounting two crossed swords; national colors: green, white<br>
 _name_: "Aash Al Maleek" (Long Live Our Beloved King)<br>
 _lyrics/music_: Ibrahim KHAFAJI/Abdul Rahman al-KHATEEB<br>
 <strong>note:</strong> music adopted 1947, lyrics adopted 1984<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 6 (all cultural)<br>
+_selected World Heritage Site locales_: Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ); At-Turaif District in ad-Dir'iyah; Historic Jeddah, the Gate to Makkah; Rock Art in the Hail Region; Al-Ahsa Oasis; Ḥimā Cultural Area<br>
 
 ## Economy
 
@@ -676,11 +680,11 @@ Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes
 note - SANG (also known as the White Army) is a land force separate from the Ministry of Defense that is responsible for internal security, protecting the royal family, and external defense<br>
 
 **Military expenditures**<br>
+5.7% of GDP (2021 est.)<br>
 7.8% of GDP (2020 est.)<br>
-8% of GDP (2019)<br>
-9.5% of GDP (2018)<br>
-11.1% of GDP (2017)<br>
-10.8% of GDP (2016)<br>
+8% of GDP (2019 est.)<br>
+9.5% of GDP (2018 est.)<br>
+11% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Saudi military forces have about 225,000 active troops; approximately 125,000 under the Ministry of Defense (75,000 Land Forces; 14,000 Naval Forces; 36,000 Air Force/Air Defense/Strategic Missile Forces) and approximately 100,000 in the Saudi Arabia National Guard (SANG) (2021)<br>

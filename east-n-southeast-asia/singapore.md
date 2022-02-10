@@ -130,7 +130,7 @@ _urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-5.992 million SINGAPORE (capital) (2021)<br>
+3.040 million SINGAPORE (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -171,7 +171,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.5% (2018)<br>
+4.1% (2019)<br>
 
 **Physicians density**<br>
 2.29 physicians/1,000 population (2016)<br>
@@ -365,6 +365,10 @@ lion, merlion (mythical half lion-half fish creature), orchid; national colors: 
 _name_: "Majulah Singapura" (Onward Singapore)<br>
 _lyrics/music_: ZUBIR Said<br>
 <strong>note:</strong> adopted 1965; first performed in 1958 at the Victoria Theatre, the anthem is sung only in Malay<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Singapore Botanic Gardens<br>
 
 ## Economy
 

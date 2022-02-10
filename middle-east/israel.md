@@ -132,7 +132,7 @@ _urban population_: 92.8% of total population (2022)<br>
 _rate of urbanization_: 1.51% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-4.264 million Tel Aviv-Yafo, 1.155 million Haifa, 944,000 JERUSALEM (capital) (2021)<br>
+4.344 million Tel Aviv-Yafo, 1.164 million Haifa, 957,000 JERUSALEM (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -174,7 +174,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.5% (2018)<br>
+7.5% (2019)<br>
 
 **Physicians density**<br>
 4.63 physicians/1,000 population (2018)<br>
@@ -375,6 +375,10 @@ Star of David (Magen David), menorah (seven-branched lampstand); national colors
 _name_: "Hatikvah" (The Hope)<br>
 _lyrics/music_: Naftali Herz IMBER/traditional, arranged by Samuel COHEN<br>
 <strong>note:</strong> adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song "Carul cu boi" (The Ox Driven Cart)<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 9 (all cultural)<br>
+_selected World Heritage Site locales_: Masada; Old City of Acre; White City of Tel-Aviv - the Modern Movement; Biblical Tels - Megiddo, Hazor, Beer Sheba; Incense Route - Desert Cities in the Negev; Bah&aacute;&rsquo;i Holy Places; Sites of Human Evolution at Mount Carmel; Caves of Maresha and Bet-Guvrin; Necropolis of Bet She&rsquo;arim<br>
 
 ## Economy
 

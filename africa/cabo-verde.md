@@ -169,7 +169,7 @@ _unimproved: rural_: rural: 10.9% of population<br>
 _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.4% (2018)<br>
+4.9% (2019)<br>
 
 **Physicians density**<br>
 0.78 physicians/1,000 population (2015)<br>
@@ -361,6 +361,10 @@ ten, five-pointed, yellow stars; national colors: blue, white, red, yellow<br>
 _name_: "Cantico da Liberdade" (Song of Freedom)<br>
 _lyrics/music_: Amilcar Spencer LOPES/Adalberto Higino Tavares SILVA<br>
 <strong>note:</strong> adopted 1996<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Cidade Velha, Historic Center of Ribeira Grande<br>
 
 ## Economy
 

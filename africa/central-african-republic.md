@@ -140,7 +140,7 @@ _urban population_: 43.1% of total population (2022)<br>
 _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-910,000 BANGUI (capital) (2021)<br>
+933,000 BANGUI (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 45.6% of population<br>
 _unimproved: total_: total: 31.5% of population (2015 est.)<br>
 
 **Current Health Expenditure**<br>
-11% (2018)<br>
+7.8% (2019)<br>
 
 **Physicians density**<br>
 0.07 physicians/1,000 population (2015)<br>
@@ -395,6 +395,10 @@ elephant; national colors: blue, white, green, yellow, red<br>
 _name_: "Le Renaissance" (The Renaissance)<br>
 _lyrics/music_: Barthelemy BOGANDA/Herbert PEPPER<br>
 <strong>note:</strong> adopted 1960; Barthelemy BOGANDA wrote the anthem's lyrics and was the first prime minister of the autonomous French territory<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (natural)<br>
+_selected World Heritage Site locales_: Manovo-Gounda St. Floris National Park, Sangha Trinational Forest<br>
 
 ## Economy
 

@@ -139,7 +139,7 @@ _urban population_: 77% of total population (2022)<br>
 _rate of urbanization_: 1.11% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-15.190 million Istanbul, 5.118 million ANKARA (capital), 2.993 million Izmir, 1.986 million Bursa, 1.771 million Adana, 1.704 million Gaziantep (2020)<br>
+15.636 million Istanbul, 5.310 million ANKARA (capital), 3.056 million Izmir, 2.055 million Bursa, 1.814 million Adana, 1.773 million Gaziantep (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 1.1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.1% (2018)<br>
+4.3% (2019)<br>
 
 **Physicians density**<br>
 1.85 physicians/1,000 population (2017)<br>
@@ -393,6 +393,10 @@ vertical crescent moon with adjacent five-pointed star; national colors: red, wh
 _name_: "Istiklal Marsi" (Independence March)<br>
 _lyrics/music_: Mehmet Akif ERSOY/Zeki UNGOR<br>
 <strong>note:</strong> lyrics adopted 1921, music adopted 1932; the anthem's original music was adopted in 1924; a new composition was agreed upon in 1932<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 19 (17 cultural, 2 mixed)<br>
+_selected World Heritage Site locales_: Archaeological Site of Troy (c), Ephesus (c), Diyarbakır Fortress and Hevsel Gardens Cultural Landscape (c), Hierapolis-Pamukkale (m), Göreme National Park and the Rock Sites of Cappadocia (m), Göbekli Tepe (c), Historic Areas of Istanbul (c), Selimiye Mosque and its Social Complex (c), Neolithic Site of Çatalhöyük (c), Bursa and Cumalıkızık: the Birth of the Ottoman Empire (c)<br>
 
 ## Economy
 
@@ -723,7 +727,7 @@ President Erdoğan on 25 June 2019 signed a new law cutting the men’s mandator
 note - as of 2019, women made up about .3% of the military's full-time personnel<br>
 
 **Military - note**<br>
-Turkey is a NATO ally (joined 1952) and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO Missile Defense<br><br>as of 2021, the Turkish Land Forces continued an overhaul under the "Force 2014" program with the intent of producing 20-30% smaller, more highly trained force characterized by greater mobility and firepower and capable of joint and combined operations<br><br>the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines (as of 2021); the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications <br><br>the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and is developing an integrated missile defense system; in a controversial move, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system <br><br>in recent years, the TLFC has taken on increasing international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; Turkey in recent years has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan (2021)<br>
+Turkey is a NATO ally (joined 1952) and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO Missile Defense<br><br>as of 2021, the Turkish Land Forces continued an overhaul under the "Force 2014" program with the intent of producing a 20-30% smaller, more highly trained force characterized by greater mobility and firepower and capable of joint and combined operations<br><br>the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines (as of 2021); the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications <br><br>the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and is developing an integrated missile defense system; in a controversial move, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system <br><br>in recent years, the TLFC has taken on increasing international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; Turkey in recent years has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan<br> <p>the military has a substantial stake in Turkey's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production</p> (2021)<br>
 
 ## Terrorism
 
@@ -737,7 +741,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,736,235 (Syria) (2021)<br>
+_refugees (country of origin)_: 3,736,235 (Syria) (2022)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 

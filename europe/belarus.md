@@ -133,7 +133,7 @@ _urban population_: 80.3% of total population (2022)<br>
 _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.039 million MINSK (capital) (2021)<br>
+2.049 million MINSK (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 1.7% of population<br>
 _unimproved: total_: total: 0.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.6% (2018)<br>
+5.9% (2019)<br>
 
 **Physicians density**<br>
 5.19 physicians/1,000 population (2015)<br>
@@ -379,6 +379,10 @@ no clearly defined current national symbol, the mounted knight known as Pahonia 
 _name_: "My, Bielarusy" (We Belarusians)<br>
 _lyrics/music_: Mikhas KLIMKOVICH and Uladzimir KARYZNA/Nester SAKALOUSKI<br>
 <strong>note:</strong> music adopted 1955, lyrics adopted 2002; after the fall of the Soviet Union, Belarus kept the music of its Soviet-era anthem but adopted new lyrics; also known as "Dziarzauny himn Respubliki Bielarus" (State Anthem of the Republic of Belarus)<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Białowieża Forest (n); Mir Castle Complex (c); Architectural, Residential, and Cultural Complex of the Radziwill Family at Nesvizh (c)<br>
 
 ## Economy
 

@@ -132,7 +132,7 @@ _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
 
 **Major urban areas - population**<br>
-1.056 million OSLO (capital) (2021)<br>
+1.071 million OSLO (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-10.1% (2018)<br>
+10.5% (2019)<br>
 
 **Physicians density**<br>
 2.92 physicians/1,000 population (2018)<br>
@@ -367,6 +367,10 @@ lion; national colors: red, white, blue<br>
 _name_: "Ja, vi elsker dette landet" (Yes, We Love This Country)<br>
 _lyrics/music_: lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK<br>
 <strong>note:</strong> adopted 1864; in addition to the national anthem, "Kongesangen" (Song of the King), which uses the tune of "God Save the Queen," serves as the royal anthem<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 8 (7 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Bryggen (c), Urnes Stave Church (c), Røros Mining Town and the Circumference (c), Rock Art of Alta (c), Vegaøyan – The Vega Archipelago (c), Struve Geodetic Arc (c), West Norwegian Fjords – Geirangerfjord and Nærøyfjord (n), Rjukan-Notodden Industrial Heritage Site (c)<br>
 
 ## Economy
 
@@ -670,11 +674,11 @@ _LNG terminal(s) (import)_: Fredrikstad, Mosjoen<br>
 Norwegian Armed Forces:&nbsp; Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Norwegian Special Forces, Norwegian Cyber Defense Force, Home Guard (Heimevernet, HV) (2021)<br>
 
 **Military expenditures**<br>
-2% of GDP (2020 est.)<br>
+1.85% of GDP (2021 est.)<br>
+2% of GDP (2020)<br>
 1.86% of GDP (2019)<br>
 1.73% of GDP (2018)<br>
 1.72% of GDP (2017)<br>
-1.74% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Norwegian Armed Forces have approximately 23,000 active personnel (8,500 Army; 3,500 Navy; 3,500 Air Force; 7,500 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); 40,000 Home Guard (2021)<br>

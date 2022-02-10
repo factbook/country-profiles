@@ -144,7 +144,7 @@ _urban population_: 36.7% of total population (2022)<br>
 _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-262,000 Dodoma (legislative capital) (2018), 7.047 million DAR ES SALAAM (administrative capital), 1.182 million Mwanza (2021)<br>
+262,000 Dodoma (legislative capital) (2018), 7.405 million DAR ES SALAAM (administrative capital), 1.245 million Mwanza, 766,000 Zanzibar (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 43.8% of population<br>
 _unimproved: total_: total: 31.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.6% (2018)<br>
+3.8% (2019)<br>
 
 **Physicians density**<br>
 0.01 physicians/1,000 population (2016)<br>
@@ -407,6 +407,10 @@ Uhuru (Freedom) torch, giraffe; national colors: green, yellow, blue, black<br>
 _name_: "Mungu ibariki Afrika" (God Bless Africa)<br>
 _lyrics/music_: collective/Enoch Mankayi SONTONGA<br>
 <strong>note:</strong> adopted 1961; the anthem, which is also a popular song in Africa, shares the same melody with that of Zambia but has different lyrics; the melody is also incorporated into South Africa's anthem<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 7 (3 cultural, 3 natural, 1 mixed)<br>
+_selected World Heritage Site locales_: Ngorongoro Conservation Area (m), Ruins of Kilwa Kisiwani and Songo Mnara (c), Serengeti National Park (n), Selous Game Reserve (n), Kilimanjaro National Park (n), Stone Town of Zanzibar (c), Kondoa Rock-Art Sites (c)<br>
 
 ## Economy
 

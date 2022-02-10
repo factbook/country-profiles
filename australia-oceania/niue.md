@@ -145,7 +145,7 @@ _improved: total_: total: 98.2% of population<br>
 _unimproved: total_: total: 1.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8.3% (2018)<br>
+5.3% (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 96.8% of population<br>

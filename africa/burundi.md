@@ -138,7 +138,7 @@ _urban population_: 14.4% of total population (2022)<br>
 _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.075 million BUJUMBURA (capital) (2021)<br>
+1.139 million BUJUMBURA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 22.2% of population<br>
 _unimproved: total_: total: 19.7% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.7% (2018)<br>
+8% (2019)<br>
 
 **Physicians density**<br>
 0.1 physicians/1,000 population (2017)<br>

@@ -131,7 +131,7 @@ _urban population_: 49.8% of total population (2022)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-344,000 SARAJEVO (capital) (2021)<br>
+344,000 SARAJEVO (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8.9% (2018)<br>
+9.1% (2019)<br>
 
 **Physicians density**<br>
 2.16 physicians/1,000 population (2015)<br>
@@ -375,6 +375,10 @@ golden lily; national colors: blue, yellow, white<br>
 _name_: "Drzavna himna Bosne i Hercegovine" (The National Anthem of Bosnia and Herzegovina)<br>
 _lyrics/music_: none officially; Dusan SESTIC and Benjamin ISOVIC/Dusan SESTIC<br>
 <strong>note:</strong> music adopted 1999; lyrics proposed in 2009 and others in 2016 were not approved; a parliamentary committee launched a new initiative for lyrics in February 2018<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Old Bridge Area of Mostar (c), Mehmed Paša Sokolović Bridge (c), Stećci Medieval Tombstones Graveyards (c), Primeval Beech Forests - Janj Forest (n)<br>
 
 ## Economy
 
@@ -708,7 +712,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note:</strong> 85,908 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
+<strong>note:</strong> 86,199 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

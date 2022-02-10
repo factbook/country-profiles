@@ -166,7 +166,7 @@ _improved: total_: total: 71.6% of population<br>
 _unimproved: total_: total: 28.4% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-12.1% (2018)<br>
+10.3% (2019)<br>
 
 **Physicians density**<br>
 0.2 physicians/1,000 population (2013)<br>
@@ -345,6 +345,10 @@ frigatebird; national colors: red, white, blue, yellow<br>
 _name_: "Teirake kaini Kiribati" (Stand Up, Kiribati)<br>
 _lyrics/music_: Urium Tamuera IOTEBA<br>
 <strong>note:</strong> adopted 1979<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (natural)<br>
+_selected World Heritage Site locales_: Phoenix Islands Protected Area<br>
 
 ## Economy
 

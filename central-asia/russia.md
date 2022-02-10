@@ -145,7 +145,7 @@ _urban population_: 75.1% of total population (2022)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-12.593 million MOSCOW (capital), 5.504 million Saint Petersburg, 1.676 million Novosibirsk, 1.513 million Yekaterinburg, 1.280 million Kazan, 1.255 million Nizhniy Novgorod (2021)<br>
+12.641 million MOSCOW (capital), 5.536 million Saint Petersburg, 1.686 million Novosibirsk, 1.521 million Yekaterinburg, 1.286 million Kazan, 1.253 million Nizhniy Novgorod (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -188,7 +188,7 @@ _unimproved: rural_: rural: 5.8% of population<br>
 _unimproved: total_: total: 2.9% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.3% (2018)<br>
+5.7% (2019)<br>
 
 **Physicians density**<br>
 3.75 physicians/1,000 population (2015)<br>
@@ -416,6 +416,10 @@ bear, double-headed eagle; national colors: white, blue, red<br>
 _name_: "Gimn Rossiyskoy Federatsii" (National Anthem of the Russian Federation)<br>
 _lyrics/music_: Sergey Vladimirovich MIKHALKOV/Aleksandr Vasilyevich ALEKSANDROV<br>
 <strong>note:</strong> in 2000, Russia adopted the tune of the anthem of the former Soviet Union (composed in 1939); the lyrics, also adopted in 2000, were written by the same person who authored the Soviet lyrics in 1943<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 30 (19 cultural, 11 natural)<br>
+_selected World Heritage Site locales_: Kremlin and Red Square, Moscow (c); Historic Saint Petersburg (c); Novodevichy Convent (c); Historic Monuments of Novgorod (c); Trinity Sergius Lavra in Sergiev Posad (c); Volcanoes of Kamchatka (n); Lake Baikal (n); Central Sikhote-Alin (n); Historic Derbent (c); Kazan Kremlin (c)<br>
 
 ## Economy
 

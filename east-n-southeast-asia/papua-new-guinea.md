@@ -134,7 +134,7 @@ _urban population_: 13.6% of total population (2022)<br>
 _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-391,000 PORT MORESBY (capital) (2021)<br>
+400,000 PORT MORESBY (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 63.9% of population<br>
 _unimproved: total_: total: 57% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-2.4% (2018)<br>
+2.3% (2019)<br>
 
 **Physicians density**<br>
 0.07 physicians/1,000 population (2018)<br>
@@ -375,6 +375,10 @@ bird of paradise; national colors: red, black<br>
 _name_: O Arise All You Sons<br>
 _lyrics/music_: Thomas SHACKLADY<br>
 <strong>note:</strong> adopted 1975<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Kuk Early Agricultural Site<br>
 
 ## Economy
 

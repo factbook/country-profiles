@@ -138,7 +138,7 @@ _urban population_: 63.9% of total population (2022)<br>
 _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-459,000 BANJUL (capital) (2021)<br>
+470,000 BANJUL (capital) (2022)<br>
 <strong>note:</strong> includes the local government areas of Banjul and Kanifing<br>
 
 **Sex ratio**<br>
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 19.6% of population<br>
 _unimproved: total_: total: 12.9% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.1% (2018)<br>
+3.8% (2019)<br>
 
 **Physicians density**<br>
 0.1 physicians/1,000 population (2015)<br>
@@ -388,6 +388,10 @@ lion; national colors: red, blue, green, white<br>
 _name_: For The Gambia, Our Homeland<br>
 _lyrics/music_: Virginia Julie HOWE/adapted by Jeremy Frederick HOWE<br>
 <strong>note:</strong> adopted 1965; the music is an adaptation of the traditional Mandinka song "Foday Kaba Dumbuya"<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both cultural)<br>
+_selected World Heritage Site locales_: Kunta Kinteh Island and Related Sites, Stone Circles of Senegambia<br>
 
 ## Economy
 

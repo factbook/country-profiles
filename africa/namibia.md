@@ -142,7 +142,7 @@ _urban population_: 54% of total population (2022)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-446,000 WINDHOEK (capital) (2021)<br>
+461,000 WINDHOEK (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 19.2% of population<br>
 _unimproved: total_: total: 10.3% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8% (2018)<br>
+8.5% (2019)<br>
 
 **Physicians density**<br>
 0.42 physicians/1,000 population (2018)<br>
@@ -398,6 +398,10 @@ oryx (antelope); national colors: blue, red, green, white, yellow<br>
 _name_: Namibia, Land of the Brave<br>
 _lyrics/music_: Axali DOESEB<br>
 <strong>note:</strong> adopted 1991<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Twyfelfontein or /Ui-//aes (c), Namib Sand Sea (n)<br>
 
 ## Economy
 
@@ -628,7 +632,7 @@ _subscriptions per 100 inhabitants_: 102.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good competition in mobile market and investment in LTE government program to provide 95% of population with broadband by 2024; 5G delayed due to public concerns of privacy and security; high prices for international bandwidth due to lack of submarine cables, yet improved by diversification of satellite access (2020)<br>
-_domestic_: fixed-line subscribership is 6 per 100 and mobile-cellular 113 per 100 persons (2019)<br>
+_domestic_: fixed-line subscribership is less than 6 per 100 and mobile-cellular roughly 102 per 100 persons (2020)<br>
 _international_: country code - 264;&nbsp;landing points for the ACE and WACS&nbsp;fiber-optic submarine cable linking southern and western African countries to Europe; satellite earth stations - 4 Intelsat (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

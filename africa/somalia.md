@@ -135,7 +135,7 @@ _urban population_: 47.3% of total population (2022)<br>
 _rate of urbanization_: 4.2% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.388 million MOGADISHU (capital), 1.033 million Hargeysa (2021)<br>
+2.497 million MOGADISHU (capital), 1.079 million Hargeysa (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>

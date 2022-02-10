@@ -138,7 +138,7 @@ _urban population_: 26.6% of total population (2022)<br>
 _rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-4.336 million KABUL (capital) (2021)<br>
+4.458 million KABUL (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -176,13 +176,13 @@ _female_: 54.85 years (2021 est.)<br>
 **Drinking water source**<br>
 _improved: urban_: urban: 95.9% of population<br>
 _improved: rural_: rural: 61.4% of population<br>
-_improved: total_: total: 70.2% of population<br>
+_improved: total_: total: 70.2%<br>
 _unimproved: urban_: urban: 3.2% of population<br>
 _unimproved: rural_: rural: 38.6% of population<br>
 _unimproved: total_: total: 38.6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-9.4% (2018)<br>
+13.2% (2019)<br>
 
 **Physicians density**<br>
 0.28 physicians/1,000 population (2016)<br>
@@ -393,6 +393,10 @@ lion; national colors: red, green, black<br>
 _name_: "Milli Surood" (National Anthem)<br>
 _lyrics/music_: Abdul Bari JAHANI/Babrak WASA<br>
 <strong>note:</strong> adopted 2006; the 2004 constitution of the post-Taliban government mandated that a new national anthem should be written containing the phrase "Allahu Akbar" (God is Greatest) and mentioning the names of Afghanistan's ethnic groups<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both cultural)<br>
+_selected World Heritage Site locales_: Minaret of Jam, Buddhas of Bamyan<br>
 
 ## Economy
 

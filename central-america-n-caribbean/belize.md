@@ -171,7 +171,7 @@ _unimproved: rural_: rural: 1.4% of population<br>
 _unimproved: total_: total: 0.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.7% (2018)<br>
+6% (2019)<br>
 
 **Physicians density**<br>
 1.12 physicians/1,000 population (2017)<br>
@@ -357,6 +357,10 @@ Baird's tapir (a large, browsing, forest-dwelling mammal), keel-billed toucan, B
 _name_: Land of the Free<br>
 _lyrics/music_: Samuel Alfred HAYNES/Selwyn Walford YOUNG<br>
 <strong>note:</strong> adopted 1981; as a Commonwealth country, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (natural)<br>
+_selected World Heritage Site locales_: Belize Barrier Reef Reserve System<br>
 
 ## Economy
 

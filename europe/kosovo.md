@@ -315,6 +315,10 @@ _name_: Europe<br>
 _lyrics/music_: no lyrics/Mendi MENGJIQI<br>
 <strong>note:</strong> adopted 2008; Kosovo chose to exclude lyrics in its anthem so as not to offend the country's minority ethnic groups<br>
 
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Medieval Monuments in Kosovo<br>
+
 ## Economy
 
 **Economic overview**<br>

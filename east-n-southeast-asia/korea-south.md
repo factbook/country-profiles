@@ -131,7 +131,7 @@ _urban population_: 81.4% of total population (2022)<br>
 _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-9.968 million SEOUL (capital), 3.466 million Busan, 2.818 million Incheon, 2.191 million Daegu (Taegu), 1.569 million Daejon (Taejon), 1.524 million Gwangju (Kwangju) (2021)<br>
+9.976 million SEOUL (capital), 3.468 million Busan, 2.834 million Incheon, 2.185 million Daegu (Taegu), 1.573 million Daejon (Taejon), 1.526 million Gwangju (Kwangju) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -170,7 +170,7 @@ _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.6% (2018)<br>
+8.2% (2019)<br>
 
 **Physicians density**<br>
 2.36 physicians/1,000 population (2017)<br>
@@ -289,7 +289,7 @@ _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time
 _etymology_: the name originates from the Korean word meaning "capital city" and which is believed to be derived from Seorabeol, the name of the capital of the ancient Korean Kingdom of Silla<br>
 
 **Administrative divisions**<br>
-<p>9 provinces (do, singular and plural), 6 metropolitan cities (gwangyeoksi, singular and plural), 1 special city (teugbyeolsi), and 1 special self-governing city (teukbyeoljachisi)</p> <p><strong>provinces:</strong> Chungbuk (North Chungcheong), Chungnam (South Chungcheong), Gangwon, Gyeongbuk (North Gyeongsang), Gyeonggi, Gyeongnam (South Gyeongsang), Jeju, Jeonbuk (North Jeolla), Jeonnam (South Jeolla)</p> <p><strong>metropolitan cities:</strong> Busan (Pusan), Daegu (Taegu), Daejeon (Taejon), Gwangju (Kwangju), Incheon (Inch'on), Ulsan</p> <p><strong>special city:</strong> Seoul</p> <p><strong>special self-governing city:</strong> Sejong</p><br>
+<p>9 provinces (do, singular and plural), 6 metropolitan cities (gwangyeoksi, singular and plural), 1 special city (teugbyeolsi), and 1 special self-governing city (teukbyeoljachisi)</p> <p><strong>provinces:</strong> Chungcheongbuk-do (North Chungcheong), Chungcheongnam-do (South Chungcheong), Gangwon-do, Gyeongsangbuk-do (North Gyeongsang), Gyeonggi-do, Gyeongsangnam-do (South Gyeongsang), Jeju-do (Jeju), Jeollabuk-do (North Jeolla), Jeollanam-do (South Jeolla)</p> <p><strong>metropolitan cities:</strong> Busan (Pusan), Daegu (Taegu), Daejeon (Taejon), Gwangju (Kwangju), Incheon (Inch'on), Ulsan</p> <p><strong>special city:</strong> Seoul</p> <p><strong>special self-governing city:</strong> Sejong</p><br>
 
 **Independence**<br>
 15 August 1945 (from Japan)<br>
@@ -366,6 +366,10 @@ taegeuk (yin yang symbol), Hibiscus syriacus (Rose of Sharon), Siberian tiger; n
 _name_: "Aegukga" (Patriotic Song)<br>
 _lyrics/music_: YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay<br>
 <strong>note:</strong> adopted 1948, well-known by 1910; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 15 (13 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Jeju Volcanic Island and Lava Tubes (n); Changdeokgung Palace Complex (c); Jongmyo Shrine (c); Seokguram Grotto and Bulguksa Temple (c); Gochang, Hwasun, and Ganghwa Dolmen Sites (c); Gyeongju Historic Areas (c); Namhansanseong (c); Baekje Historic Areas (c); Sansa, Buddhist Mountain Monasteries in Korea (c); Royal Tombs of the Joseon Dynasty (c)<br>
 
 ## Economy
 
@@ -684,7 +688,7 @@ the Republic of Korea Armed Forces have approximately 555,000 active duty person
 note - South Korea intends to reduce the size of its military to about 522,000 by 2022<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Republic of Korea Armed Forces are equipped with a mix of domestically-produced and imported weapons systems; domestic production includes armored fighting vehicles, artillery, aircraft, and naval ships; the top foreign weapons supplier is the US and some domestically-produced systems are built under US license; Germany is the second largest supplier of armaments since 2010 (2021)<br>
+the Republic of Korea Armed Forces are equipped with a mix of domestically-produced and imported weapons systems; domestic production includes armored fighting vehicles, artillery, aircraft, and naval ships; the top foreign weapons supplier is the US and some domestically-produced systems are built under US license (2021)<br>
 
 **Military deployments**<br>
 250 Lebanon (UNIFIL); 250 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, the ROK has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (Sep 2021)<br>

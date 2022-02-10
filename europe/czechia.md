@@ -133,7 +133,7 @@ _urban population_: 74.4% of total population (2022)<br>
 _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.312 million PRAGUE (capital) (2021)<br>
+1.318 million PRAGUE (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.7% (2018)<br>
+7.8% (2019)<br>
 
 **Physicians density**<br>
 4.12 physicians/1,000 population (2018)<br>
@@ -376,6 +376,10 @@ silver (or white), double-tailed, rampant lion; national colors: white, red, blu
 _name_: "Kde domov muj?" (Where is My Home?)<br>
 _lyrics/music_: Josef Kajetan TYL/Frantisek Jan SKROUP<br>
 <strong>note:</strong> adopted 1993; the anthem was originally written as incidental music to the play "Fidlovacka" (1834), it soon became very popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, while the second verse (Slovak) was dropped after the split of Czechoslovakia in 1993<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 16 (all cultural)<br>
+_selected World Heritage Site locales_: Historic Prague; Historic Telč; Historic Česk&yacute; Krumlov; Lednice-Valtice Cultural Landscape; Historic Kutn&aacute; Hora; Holy Trinity Column, Olomouc; Karlovy Vary Spa&nbsp;<br>
 
 ## Economy
 

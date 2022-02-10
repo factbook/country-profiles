@@ -139,7 +139,7 @@ _urban population_: 32.4% of total population (2022)<br>
 _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.542 million HARARE (capital) (2021)<br>
+1.558 million HARARE (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 32.6% of population<br>
 _unimproved: total_: total: 22.7% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.7% (2018)<br>
+7.7% (2019)<br>
 
 **Physicians density**<br>
 0.21 physicians/1,000 population (2018)<br>
@@ -399,6 +399,10 @@ Zimbabwe bird symbol, African fish eagle, flame lily; national colors: green, ye
 _name_: "Kalibusiswe Ilizwe leZimbabwe" [Northern Ndebele language] "Simudzai Mureza WeZimbabwe" [Shona] (Blessed Be the Land of Zimbabwe)<br>
 _lyrics/music_: Solomon MUTSWAIRO/Fred Lecture CHANGUNDEGA<br>
 <strong>note:</strong> adopted 1994<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Mana Pools National Park, Sapi, and Chewore Safari Areas (n), Great Zimbabwe National Monument (c), Khami Ruins National Monument (c), Mosi-oa-Tunya/Victoria Falls (n), Matobo Hills (c)<br>
 
 ## Economy
 

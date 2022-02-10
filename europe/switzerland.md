@@ -137,7 +137,7 @@ _urban population_: 74.1% of total population (2022)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.408 million Zurich, 434,000 BERN (capital) (2021)<br>
+1.420 million Zurich, 437,000 BERN (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-11.9% (2018)<br>
+11.3% (2019)<br>
 
 **Physicians density**<br>
 4.3 physicians/1,000 population (2017)<br>
@@ -383,6 +383,10 @@ Swiss cross (white cross on red field, arms equal length); national colors: red,
 _lyrics/music_: Leonhard WIDMER [German], Charles CHATELANAT [French], Camillo VALSANGIACOMO [Italian], and Flurin CAMATHIAS [Romansch]/Alberik ZWYSSIG<br>
 the Swiss anthem has four names: "Schweizerpsalm" [German] "Cantique Suisse" [French] "Salmo svizzero," [Italian] "Psalm svizzer" [Romansch] (Swiss Psalm)
 <strong>note:</strong> unofficially adopted 1961, officially 1981; the anthem has been popular in a number of Swiss cantons since its composition (in German) in 1841; translated into the other three official languages of the country (French, Italian, and Romansch), it is official in each of those languages<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 13 (9 cultural, 4 natural)<br>
+_selected World Heritage Site locales_: Old City of Berne (c), Swiss Alps Jungfrau-Aletsch (n), Monte San Giorgio (n), Abbey of St Gall (c), Three Castles, Defensive Wall, and Ramparts of the Market-Town of Bellinzona (c), Rhaetian Railway in the Albula/Bernina Landscapes (c), La Chaux-de-Fonds/Le Locle, Watchmaking Town Planning (c), Prehistoric Pile Dwellings around the Alps (c), Benedictine Convent of St John at M&uuml;stair (c), Lavaux, Vineyard Terraces (c)<br>
 
 ## Economy
 

@@ -134,7 +134,7 @@ _urban population_: 53.9% of total population (2022)<br>
 _rate of urbanization_: 0.17% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-437,000 BRATISLAVA (capital) (2021)<br>
+439,000 BRATISLAVA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.7% (2018)<br>
+7% (2019)<br>
 
 **Physicians density**<br>
 3.42 physicians/1,000 population (2017)<br>
@@ -371,6 +371,10 @@ double-barred cross (Cross of St. Cyril and St. Methodius) surmounting three pea
 _name_: "Nad Tatrou sa blyska" (Lightning Over the Tatras)<br>
 _lyrics/music_: Janko MATUSKA/traditional<br>
 <strong>note:</strong> adopted 1993, in use since 1844; music based on the Slovak folk song "Kopala studienku"<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 8 (6 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Historic Town of Bansk&aacute; &Scaron;tiavnica (c), Levoča, Spi&scaron;sk&yacute; Hrad, and the Associated Cultural Monuments (c), Vlkol&iacute;nec (c), Caves of Aggtelek Karst and Slovak Karst (n), Bardejov Town (c), Ancient and Primeval Beech Forests of the Carpathians (n), Wooden Churches of the Slovak Carpathians (c), Frontiers of the Roman Empire - The Danube Limes (Western Segment) (c)<br>
 
 ## Economy
 

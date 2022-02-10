@@ -308,6 +308,10 @@ _name_: Himmo di Korsou (Anthem of Curacao)<br>
 _lyrics/music_: Guillermo ROSARIO, Mae HENRIQUEZ, Enrique MULLER, Betty DORAN/Frater Candidus NOWENS, Errol "El Toro" COLINA<br>
 <strong>note:</strong> adapted 1978; the lyrics, originally written in 1899, were rewritten in 1978 to make them less colonial in nature<br>
 
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural); note - excerpted from the Netherlands entry<br>
+_selected World Heritage Site locales_: Historic Willemstad<br>
+
 ## Economy
 
 **Economic overview**<br>

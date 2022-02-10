@@ -133,7 +133,7 @@ _urban population_: 45% of total population (2022)<br>
 _rate of urbanization_: 3.22% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-621,000 BISSAU (capital) (2021)<br>
+643,000 BISSAU (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 39.7% of population<br>
 _unimproved: total_: total: 26.5% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7% (2018)<br>
+8.4% (2019)<br>
 
 **Physicians density**<br>
 0.13 physicians/1,000 population (2016)<br>

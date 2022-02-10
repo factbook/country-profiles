@@ -141,7 +141,7 @@ _urban population_: 18% of total population (2022)<br>
 _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.171 million LILONGWE (capital), 962,000 Blantyre-Limbe (2021)<br>
+1.222 million LILONGWE (capital), 995,000 Blantyre-Limbe (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 12.7% of population<br>
 _unimproved: total_: total: 11.3% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-9.3% (2018)<br>
+7.4% (2019)<br>
 
 **Physicians density**<br>
 0.04 physicians/1,000 population (2018)<br>
@@ -402,6 +402,10 @@ lion; national colors: black, red, green<br>
 _name_: "Mulungu dalitsa Malawi" (Oh God Bless Our Land of Malawi)<br>
 _lyrics/music_: Michael-Fredrick Paul SAUKA<br>
 <strong>note:</strong> adopted 1964<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Lake Malawi National Park (n), Chongoni Rock-Art Area (c)<br>
 
 ## Economy
 
@@ -626,7 +630,7 @@ _subscriptions per 100 inhabitants_: 52.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Malawi remains one of the world&rsquo;s least developed countries, with few resources to build efficient fixed-line telecom infrastructure; mobile penetration low compared to region with ample opportunity for growth and competition; some mobile services to rural areas; LTE services are available; national fiber backbone near completion; progress in m-payment methods; prospect of international submarine cables from neighboring countries; importer of broadcast equipment from China (2020)<br>
-_domestic_: limited fixed-line subscribership less than 1 per 100 households; mobile-cellular services are expanding but network coverage is limited and is based around the main urban areas; mobile-cellular subscribership 48 per 100 households (2019)<br>
+_domestic_: limited fixed-line subscribership less than 1 per 100 households; mobile-cellular services are expanding but network coverage is limited and is based around the main urban areas; mobile-cellular subscribership roughly 52 per 100 households (2020)<br>
 _international_: country code - 265; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

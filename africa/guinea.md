@@ -137,7 +137,7 @@ _urban population_: 37.7% of total population (2022)<br>
 _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.991 million CONAKRY (capital) (2021)<br>
+2.049 million CONAKRY (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 27.6% of population<br>
 _unimproved: total_: total: 20.1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.9% (2018)<br>
+4% (2019)<br>
 
 **Physicians density**<br>
 0.08 physicians/1,000 population (2016)<br>
@@ -419,6 +419,10 @@ elephant; national colors: red, yellow, green<br>
 _name_: "Liberte" (Liberty)<br>
 _lyrics/music_: unknown/Fodeba KEITA<br>
 <strong>note:</strong> adopted 1958<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (natural)<br>
+_selected World Heritage Site locales_: Mount Nimba Strict Nature Reserve<br>
 
 ## Economy
 

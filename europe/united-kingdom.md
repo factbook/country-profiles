@@ -131,7 +131,7 @@ _urban population_: 84.4% of total population (2022)<br>
 _rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-9.426 million LONDON (capital), 2.750 million Manchester, 2.626 million Birmingham, 1.902 million West Yorkshire, 1.681 million Glasgow, 936,000 Southampton/Portsmouth (2021)<br>
+9.426 million LONDON (capital), 2.750 million Manchester, 2.626 million Birmingham, 1.902 million West Yorkshire, 1.681 million Glasgow, 944,000 Southampton/Portsmouth (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-10% (2018)<br>
+10.2% (2019)<br>
 
 **Physicians density**<br>
 2.81 physicians/1,000 population (2018)<br>
@@ -376,6 +376,10 @@ lion (Britain in general); lion, Tudor rose, oak (England); lion, unicorn, thist
 _name_: God Save the Queen<br>
 _lyrics/music_: unknown<br>
 <strong>note:</strong> in use since 1745; by tradition, the song serves as both the national and royal anthem of the UK; it is known as either "God Save the Queen" or "God Save the King," depending on the gender of the reigning monarch; it also serves as the royal anthem of many Commonwealth nations<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 33 (28 cultural, 4 natural, 1 mixed); note - includes one site in Bermuda<br>
+_selected World Heritage Site locales_: Giant's Causeway and Causeway Coast (n), Ironbridge Gorge (c), Stonehenge, Avebury, and Associated Sites (c), Castles and Town Walls of King Edward in Gwynedd (c), Blenheim Palace (c), City of Bath (c), Tower of London (c), St Kilda (m), Maritime Greenwich (c), Old and New Towns of Edinburgh (c), Royal Botanic Gardens, Kew (c), The English Lake District (c)<br>
 
 ## Economy
 

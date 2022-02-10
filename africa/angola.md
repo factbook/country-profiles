@@ -140,7 +140,7 @@ _urban population_: 68.1% of total population (2022)<br>
 _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-8.632 million LUANDA (capital), 871,000 Lubango, 819,000 Cabinda (2021)<br>
+8.952 million LUANDA (capital), 914,000 Lubango, 862,000 Cabinda, Benguela 777,000 (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 63.4% of population<br>
 _unimproved: total_: total: 34.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-2.6% (2018)<br>
+2.5% (2019)<br>
 
 **Physicians density**<br>
 0.22 physicians/1,000 population (2017)<br>
@@ -396,6 +396,10 @@ Palanca Negra Gigante (giant black sable antelope); national colors: red, black,
 _name_: "Angola Avante" (Forward Angola)<br>
 _lyrics/music_: Manuel Rui Alves MONTEIRO/Rui Alberto Vieira Dias MINGAO<br>
 <strong>note:</strong> adopted 1975<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Mbanza-Kongo<br>
 
 ## Economy
 
@@ -728,7 +732,7 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 <p>Democratic Republic of Congo accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,091 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2021)<br>
+_refugees (country of origin)_: 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2021); 37,088 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

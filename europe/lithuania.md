@@ -130,7 +130,7 @@ _urban population_: 68.5% of total population (2022)<br>
 _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-540,000 VILNIUS (capital) (2021)<br>
+541,000 VILNIUS (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 7.2% of population<br>
 _unimproved: total_: total: 2.5% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.6% (2018)<br>
+7% (2019)<br>
 
 **Physicians density**<br>
 6.35 physicians/1,000 population (2018)<br>
@@ -378,6 +378,10 @@ mounted knight known as Vytis (the Chaser), white stork; national colors: yellow
 _name_: "Tautiska giesme" (The National Song)<br>
 _lyrics/music_: Vincas KUDIRKA<br>
 <strong>note:</strong> adopted 1918, restored 1990; written in 1898 while Lithuania was a part of Russia; banned during the Soviet occupation from 1940 to 1990<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 4 (all cultural)<br>
+_selected World Heritage Site locales_: Vilnius Historic Center, Curonian Spit, Kernavė Archaeological Site, Struve Geodetic Arc<br>
 
 ## Economy
 
@@ -607,7 +611,7 @@ _subscriptions per 100 inhabitants_: 174.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Lithuania&rsquo;s small telecom market is among the most advanced in Europe, with universal access to LTE, extensive fiber footprint, and tests of 5G; operators focus on data speeds; improved international capability and better residential access; high SIM card penetration; increased demand for high-speed Internet for education, entertainment, and shopping during pandemic supporting growth in revenue through fiber lines; importer of broadcast equipment and video displays from neighboring EU countries (2020)<br>
-_domestic_: 13 per 100 for fixed-line subscriptions; rapid expansion of mobile-cellular services has resulted in a steady decline in the number of fixed-line connections; mobile-cellular teledensity stands at about 169 per 100 persons (2019)<br>
+_domestic_: nearly 12 per 100 for fixed-line subscriptions; rapid expansion of mobile-cellular services has resulted in a steady decline in the number of fixed-line connections; mobile-cellular teledensity stands at about 174 per 100 persons (2020)<br>
 _international_: country code - 370; landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and Latvia&nbsp;; further transmission by satellite; landline connections to Latvia and Poland (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -693,7 +697,7 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos 
 the Lithuanian Armed Forces have approximately 16,000 active duty personnel (12,500 Army, including about 5,000 National Defense Voluntary Forces; 600 Navy; 1,000 Air Force; 2,000 other, including special operations forces, logistics support, training, etc); est. 11,000 Riflemen Union (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons systems and Soviet-era equipment (primarily aircraft and helicopters); Germany and the UK are the leading suppliers of armaments to Lithuania since 2010 (2020)<br>
+the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons systems and Soviet-era equipment (primarily aircraft and helicopters); as of 2021, European and the US are the leading suppliers of armaments to Lithuania (2021)<br>
 
 **Military deployments**<br>
 contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units (2021)<br>

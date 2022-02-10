@@ -138,7 +138,7 @@ _urban population_: 26.2% of total population (2022)<br>
 _rate of urbanization_: 5.41% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.470 million KAMPALA (capital) (2021)<br>
+3.652 million KAMPALA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 22.8% of population<br>
 _unimproved: total_: total: 19.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.5% (2018)<br>
+3.8% (2019)<br>
 
 **Physicians density**<br>
 0.17 physicians/1,000 population (2017)<br>
@@ -397,6 +397,10 @@ grey crowned crane; national colors: black, yellow, red<br>
 _name_: Oh Uganda, Land of Beauty!<br>
 _lyrics/music_: George Wilberforce KAKOMOA<br>
 <strong>note:</strong> adopted 1962<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Bwindi Impenetrable National Park (c), Rwenzori Mountains National Park (c), Tombs of Buganda Kings at Kasubi<br>
 
 ## Economy
 

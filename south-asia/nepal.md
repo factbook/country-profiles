@@ -134,7 +134,7 @@ _urban population_: 21.5% of total population (2022)<br>
 _rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.472 million KATHMANDU (capital) (2021)<br>
+1.521 million KATHMANDU (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 8.6% of population<br>
 _unimproved: total_: total: 8.5% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.8% (2018)<br>
+4.5% (2019)<br>
 
 **Physicians density**<br>
 0.75 physicians/1,000 population (2018)<br>
@@ -385,6 +385,10 @@ rhododendron blossom; national color: red<br>
 _name_: "Sayaun Thunga Phool Ka" (Hundreds of Flowers)<br>
 _lyrics/music_: Pradeep Kumar RAI/Ambar GURUNG<br>
 <strong>note:</strong> adopted 2007; after the abolition of the monarchy in 2006, a new anthem was required because of the previous anthem's praise for the king<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 4 (2 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Kathmandu Valley (c); Sagarmatha National Park (n); Chitwan National Park (n); Lumbini, Buddha Birthplace (c)<br>
 
 ## Economy
 
@@ -610,7 +614,7 @@ _subscriptions per 100 inhabitants_: 130.6 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: poverty, inconsistent electricity, and mountainous topography stymie development of telecom infrastructure; mobile market is developed and has been extended to all districts covering 90% of Nepal; fixed broadband is low due to limited number of fixed-lines and preeminence of the mobile platform; increasing 3G and 4G subscribers; fiber-optic networks developing under private and public funding to meet demand for Internet; government supports digital society, whereby 90% of the population will have access to broadband and free Internet access for students; plans to launch a Nepalese satellite by 2022; importer of broadcasting equipment from China (2020)<br>
-_domestic_: 3G coverage is available in 20 major cities (2019); disparity between high coverage in cities and coverage available in underdeveloped rural regions; fixed-line 3 per 100 persons and mobile-cellular 139 per 100 persons; fair radiotelephone communication service; 20% of the market share is fixed (wired) broadband, 2% is fixed (wireless) broadband, and 78% is mobile broadband (2019)<br>
+_domestic_: 3G coverage is available in 20 major cities (2019); disparity between high coverage in cities and coverage available in underdeveloped rural regions; fixed-line less than 3 per 100 persons and mobile-cellular nearly 131 per 100 persons; fair radiotelephone communication service; 20% of the market share is fixed (wired) broadband, 2% is fixed (wireless) broadband, and 78% is mobile broadband (2019)<br>
 _international_: country code - 977; Nepal, China and Tibet connected across borders with underground and all-dielectric self-supporting (ADSS) fiber-optic cables; radiotelephone communications; microwave and fiber landlines to India; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

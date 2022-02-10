@@ -147,7 +147,7 @@ _urban population_: 87.6% of total population (2022)<br>
 _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-22.237 million Sao Paulo, 13.544 million Rio de Janeiro, 6.140 million Belo Horizonte, 4.728 million BRASILIA (capital), 4.175 million Recife, 4.161 million Porto Alegre (2021)<br>
+22.430 million Sao Paulo, 13.634 million Rio de Janeiro, 6.194 million Belo Horizonte, 4.804 million BRASILIA (capital), 4.220 million Recife, 4.185 million Porto Alegre (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 8.4% of population<br>
 _unimproved: total_: total: 1.6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-9.5% (2018)<br>
+9.6% (2019)<br>
 
 **Physicians density**<br>
 2.16 physicians/1,000 population (2018)<br>
@@ -411,6 +411,10 @@ Southern Cross constellation; national colors: green, yellow, blue<br>
 _name_: "Hino Nacional Brasileiro" (Brazilian National Anthem)<br>
 _lyrics/music_: Joaquim Osorio Duque ESTRADA/Francisco Manoel DA SILVA<br>
 <strong>note:</strong> music adopted 1890, lyrics adopted 1922; the anthem's music, composed in 1822, was used unofficially for many years before it was adopted<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 23 (15 cultural, 7 natural, 1 mixed)<br>
+_selected World Heritage Site locales_: Brasilia (c), Historic Salvador de Bahia (c), Historic Ouro Preto (c), Historic Olinda (c), Iguaçu National Park (n), Jesuit Missions of the Guaranis (c), Rio de Janeiro: Carioca Landscapes (c), Central Amazon Conservation Complex (n), Atlantic Forest South-East Reserves (n)<br>
 
 ## Economy
 

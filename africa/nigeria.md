@@ -145,7 +145,7 @@ _urban population_: 53.5% of total population (2022)<br>
 _rate of urbanization_: 3.92% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-14.862 million Lagos, 4.103 million Kano, 3.649 million Ibadan, 3.464 million ABUJA (capital), 3.171 million Port Harcourt, 1.782 million Benin City (2021)<br>
+15.388 million Lagos, 4.219 million Kano, 3.756 million Ibadan, 3.652 million ABUJA (capital), 3.325 million Port Harcourt, 1.841 million Benin City (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -188,7 +188,7 @@ _unimproved: rural_: rural: 36.4% of population<br>
 _unimproved: total_: total: 22.1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.9% (2018)<br>
+3% (2019)<br>
 
 **Physicians density**<br>
 0.38 physicians/1,000 population (2018)<br>
@@ -410,6 +410,10 @@ eagle; national colors: green, white<br>
 _name_: Arise Oh Compatriots, Nigeria's Call Obey<br>
 _lyrics/music_: John A. ILECHUKWU, Eme Etim AKPAN, B.A. OGUNNAIKE, Sotu OMOIGUI and P.O. ADERIBIGBE/Benedict Elide ODIASE<br>
 <strong>note:</strong> adopted 1978; lyrics are a mixture of the five top entries in a national contest<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both cultural)<br>
+_selected World Heritage Site locales_: Sukur Cultural Landscape, Osun-Osogbo Sacred Grove<br>
 
 ## Economy
 

@@ -138,7 +138,7 @@ _urban population_: 90.7% of total population (2022)<br>
 _rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-845,000 LIBREVILLE (capital) (2021)<br>
+857,000 LIBREVILLE (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 32% of population<br>
 _unimproved: total_: total: 6.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-2.8% (2018)<br>
+2.8% (2019)<br>
 
 **Physicians density**<br>
 0.68 physicians/1,000 population (2017)<br>
@@ -381,6 +381,10 @@ black panther; national colors: green, yellow, blue<br>
 _name_: "La Concorde" (The Concorde)<br>
 _lyrics/music_: Georges Aleka DAMAS<br>
 <strong>note:</strong> adopted 1960<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (1 natural, 1 mixed)<br>
+_selected World Heritage Site locales_: Ecosystem and Relict Cultural Landscape of Lop&eacute;-Okanda (m), Ivindo National Park (n)<br>
 
 ## Economy
 

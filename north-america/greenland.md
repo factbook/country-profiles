@@ -323,6 +323,10 @@ _name_: "Nunarput utoqqarsuanngoravit" ("Our Country, Who's Become So Old" also 
 _lyrics/music_: Henrik LUND/Jonathan PETERSEN<br>
 <strong>note:</strong> adopted 1916; the government also recognizes "Nuna asiilasooq" as a secondary anthem<br>
 
+**National heritage**<br>
+_total World Heritage Sites_: 3 (2 cultural, 1 natural); note - excerpted from the Denmark entry<br>
+_selected World Heritage Site locales_: Ilulissat Icefjord (n); Kujataa, Norse and Inuit Farming (c); Aasivissuit&ndash;Nipisat, Inuit Hunting Ground (c)<br>
+
 ## Economy
 
 **Economic overview**<br>

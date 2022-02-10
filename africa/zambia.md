@@ -143,7 +143,7 @@ _urban population_: 45.8% of total population (2022)<br>
 _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.906 million LUSAKA (capital) (2021)<br>
+3.042 million LUSAKA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 49.1% of population<br>
 _unimproved: total_: total: 32.5% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.9% (2018)<br>
+5.3% (2019)<br>
 
 **Physicians density**<br>
 1.19 physicians/1,000 population (2018)<br>
@@ -399,6 +399,10 @@ African fish eagle; national colors: green, red, black, orange<br>
 _name_: "Lumbanyeni Zambia" (Stand and Sing of Zambia, Proud and Free)<br>
 _lyrics/music_: multiple/Enoch Mankayi SONTONGA<br>
 <strong>note:</strong> adopted 1964; the melody, from the popular song "God Bless Africa," is the same as that of Tanzania but with different lyrics; the melody is also incorporated into South Africa's anthem<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (natural)<br>
+_selected World Heritage Site locales_: Mosi-oa-Tunya/Victoria Falls<br>
 
 ## Economy
 

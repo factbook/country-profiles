@@ -132,7 +132,7 @@ _urban population_: 99.3% of total population (2022)<br>
 _rate of urbanization_: 1.66% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-Ar-Rayyan 750,000, 646,000 DOHA (capital) (2021)<br>
+Ar-Rayyan 779,000, 652,000 DOHA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
@@ -167,7 +167,7 @@ _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-2.5% (2018)<br>
+2.9% (2019)<br>
 
 **Physicians density**<br>
 2.49 physicians/1,000 population (2018)<br>
@@ -360,6 +360,10 @@ a maroon field surmounted by a white serrated band with nine white points; natio
 _name_: "Al-Salam Al-Amiri" (The Amiri Salute)<br>
 _lyrics/music_: Sheikh MUBARAK bin Saif al-Thani/Abdul Aziz Nasser OBAIDAN<br>
 <strong>note:</strong> adopted 1996; anthem first performed that year at a meeting of the Gulf Cooperative Council hosted by Qatar<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Al Zubarah Archaeological Site<br>
 
 ## Economy
 

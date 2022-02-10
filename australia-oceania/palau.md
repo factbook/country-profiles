@@ -164,7 +164,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-10.9% (2018)<br>
+15.2% (2019)<br>
 
 **Physicians density**<br>
 1.42 physicians/1,000 population (2014)<br>
@@ -354,6 +354,10 @@ bai (native meeting house); national colors: blue, yellow<br>
 _name_: "Belau rekid" (Our Palau)<br>
 _lyrics/music_: multiple/Ymesei O. EZEKIEL<br>
 <strong>note:</strong> adopted 1980<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (mixed)<br>
+_selected World Heritage Site locales_: Rock Islands Southern Lagoon<br>
 
 ## Economy
 

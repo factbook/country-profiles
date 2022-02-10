@@ -472,7 +472,7 @@ _subscriptions per 100 inhabitants_: 100.7 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom market one of growth in Caribbean and fully digitalized;&nbsp;high dependency on tourism and offshore financial&nbsp;services; operators expand FttP (Fiber to Home) services; LTE launches and operators invest in mobile networks; effective competition in all sectors (2020)<br>
-_domestic_: fixed-line 60 per 100 and mobile-cellular teledensity 101 per 100 persons (2019)<br>
+_domestic_: fixed-line roughly 60 per 100 and mobile-cellular teledensity nearly 101 per 100 persons (2019)<br>
 _international_: country code - 1-664; landing point for the ECFS optic submarine cable with links to 14 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

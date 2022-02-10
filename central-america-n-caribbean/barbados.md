@@ -160,7 +160,7 @@ _improved: total_: total: 98.5% of population<br>
 _unimproved: total_: total: 1.5% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.6% (2018)<br>
+6.3% (2019)<br>
 
 **Physicians density**<br>
 2.48 physicians/1,000 population (2017)<br>
@@ -349,6 +349,10 @@ Neptune's trident, pelican, Red Bird of Paradise flower (also known as Pride of 
 _name_: The National Anthem of Barbados<br>
 _lyrics/music_: Irving BURGIE/C. Van Roland EDWARDS<br>
 <strong>note:</strong> adopted 1966; the anthem is also known as "In Plenty and In Time of Need"<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Historic Bridgetown and its Garrison<br>
 
 ## Economy
 

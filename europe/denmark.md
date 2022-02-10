@@ -47,7 +47,7 @@ temperate; humid and overcast; mild, windy winters and cool summers<br>
 low and flat to gently rolling plains<br>
 
 **Elevation**<br>
-_highest point_: Mollehoj/Ejer Bavnehoj 171 m<br>
+_highest point_: Mollehoj 171 m<br>
 _lowest point_: Lammefjord -7 m<br>
 _mean elevation_: 34 m<br>
 
@@ -133,7 +133,7 @@ _urban population_: 88.4% of total population (2022)<br>
 _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.359 million COPENHAGEN (capital) (2021)<br>
+1.370 million COPENHAGEN (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-10.1% (2018)<br>
+10% (2019)<br>
 
 **Physicians density**<br>
 4.01 physicians/1,000 population (2016)<br>
@@ -366,6 +366,10 @@ lion, mute swan; national colors: red, white<br>
 _name_: "Der er et yndigt land" (There is a Lovely Country); "Kong Christian" (King Christian)<br>
 _lyrics/music_: Adam Gottlob OEHLENSCHLAGER/Hans Ernst KROYER; Johannes EWALD/unknown<br>
 <strong>note:</strong> Denmark has two national anthems with equal status; "Der er et yndigt land," adopted 1844, is a national anthem, while "Kong Christian," adopted 1780, serves as both a national and royal anthem; "Kong Christian" is also known as "Kong Christian stod ved hojen mast" (King Christian Stood by the Lofty Mast) and "Kongesangen" (The King's Anthem); within Denmark, the royal anthem is played only when royalty is present and is usually followed by the national anthem; when royalty is not present, only the national anthem is performed; outside Denmark, the royal anthem is played, unless the national anthem is requested<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 10 (7 cultural, 3 natural); note - includes three sites in Greenland<br>
+_selected World Heritage Site locales_: Denmark: Mounds, Runic Stones, and Church at Jelling (c); Roskilde Cathedral (c); Kronborg Castle (c); Wadden Sea (n); Stevns Klint (n); Christiansfeld, Moravian Church Settlement (c); Par force hunting landscape, North Zealand (c); Greenland: Ilulissat Icefjord (n); Kujataa, Norse and Inuit Farming (c); Aasivissuit&ndash;Nipisat, Inuit Hunting Ground (c)<br>
 
 ## Economy
 
@@ -686,7 +690,6 @@ the Danish military inventory is comprised of a mix of modern European, US, and 
 
 **Military deployments**<br>
 140 Middle East/Iraq (NATO) (2021)<br>
-note - in early 2022, Denmark deployed about 90 troops to Mali to assist French-led international counterterrorist operations against Islamic militants; the troops are scheduled to remain until 2023<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches (2021)<br>

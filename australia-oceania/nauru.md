@@ -158,7 +158,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-9.6% (2018)<br>
+9.8% (2019)<br>
 
 **Physicians density**<br>
 1.35 physicians/1,000 population (2015)<br>
@@ -532,7 +532,7 @@ _subscriptions per 100 inhabitants_: 94.58 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate local and international radiotelephone communication provided via Australian facilities; geography is a challenge for the islands;&nbsp;there is a&nbsp;need to service the tourism sector&nbsp;and the&nbsp;South Pacific Islands economy; mobile technology is booming (2018)<br>
-_domestic_: fixed-line 14 per 100 and mobile-cellular 95 per 100 (2019)<br>
+_domestic_: fixed-line 0 per 100 and mobile-cellular subscribership approximately 95 per 100 (2019)<br>
 _international_: country code - 674; satellite earth station - 1 Intelsat (Pacific Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

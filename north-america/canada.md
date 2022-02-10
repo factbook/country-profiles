@@ -145,7 +145,7 @@ _urban population_: 81.8% of total population (2022)<br>
 _rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-6.255 million Toronto, 4.247 million Montreal, 2.606 million Vancouver, 1.581 million Calgary, 1.491 million Edmonton, 1.408 million OTTAWA (capital) (2021)<br>
+6.313 million Toronto, 4.277 million Montreal, 2.632 million Vancouver, 1.611 million Calgary, 1.519 million Edmonton, 1.423 million OTTAWA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -187,7 +187,7 @@ _unimproved: rural_: rural: 1.1% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-10.8% (2018)<br>
+10.8% (2019)<br>
 
 **Physicians density**<br>
 2.31 physicians/1,000 population (2016)<br>
@@ -355,7 +355,7 @@ _judge selection and term of office_: chief justice and judges appointed by the 
 _subordinate courts_: federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note -&nbsp; in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements<br>
 
 **Political parties and leaders**<br>
-Bloc Quebecois [Yves-Francois BLANCHET]<br>Conservative Party of Canada or CPC [Erin O'TOOLE]<br>Green Party [vacant]<br>Liberal Party [Justin TRUDEAU]<br>New Democratic Party or NDP [Jagmeet SINGH]<br>People's Party of Canada [Maxime BERNIER]<br>
+Bloc Quebecois [Yves-Francois BLANCHET]<br>Conservative Party of Canada or CPC [vacant]<br>Green Party [Amita KUTTNER (interim)]<br>Liberal Party [Justin TRUDEAU]<br>New Democratic Party or NDP [Jagmeet SINGH]<br>People's Party of Canada [Maxime BERNIER]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -389,6 +389,10 @@ maple leaf, beaver; national colors: red, white<br>
 _name_: O Canada<br>
 _lyrics/music_: Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/Calixa LAVALLEE<br>
 <strong>note:</strong> adopted 1980; originally written in 1880, "O Canada" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 20 (9 cultural, 10 natural, 1 mixed) (2021)<br>
+_selected World Heritage Site locales_: L'Anse aux Meadows (c), Canadian Rocky Mountain Parks (n), Dinosaur Provincial Park (n), Historic District of Old Quebec (c), Old Town Lunenburg (c), Wood Buffalo National Park (n), Head-Smashed-In Buffalo Jump (c), Gros Morne National Park (n)<br>
 
 ## Economy
 

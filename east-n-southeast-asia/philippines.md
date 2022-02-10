@@ -134,7 +134,7 @@ _urban population_: 48% of total population (2022)<br>
 _rate of urbanization_: 2.04% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-14.159 million MANILA (capital), 1.866 million Davao, 994,000 Cebu City, 931,000 Zamboanga, 903,000 Antipolo, 770,000 Cagayan de Oro City (2021)<br>
+14.406 million MANILA (capital), 1.908 million Davao, 1.009 million Cebu City, 931,000 Zamboanga, 925,000 Antipolo, 786,000 Cagayan de Oro City (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 7.3% of population<br>
 _unimproved: total_: total: 4.6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.4% (2018)<br>
+4.1% (2019)<br>
 
 **Physicians density**<br>
 0.6 physicians/1,000 population (2017)<br>
@@ -391,6 +391,10 @@ three stars and sun, Philippine eagle; national colors: red, white, blue, yellow
 _name_: "Lupang Hinirang" (Chosen Land)<br>
 _lyrics/music_: Jose PALMA (revised by Felipe PADILLA de Leon)/Julian FELIPE<br>
 <strong>note:</strong> music adopted 1898, original Spanish lyrics adopted 1899, Filipino (Tagalog) lyrics adopted 1956; although the original lyrics were written in Spanish, later English and Filipino versions were created; today, only the Filipino version is used<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 6 (3 cultural, 3 natural)<br>
+_selected World Heritage Site locales_: Baroque Churches of the Philippines (c), Tubbataha Reefs Natural Park (n), Rice Terraces of the Philippine Cordilleras (c), Historic Vigan (c), Puerto-Princesa Subterranean River National Park (n), Mount Hamiguitan Range Wildlife Sanctuary (n)<br>
 
 ## Economy
 
@@ -711,7 +715,7 @@ note(s) - the Philippine Coast Guard is an armed and uniformed service under the
 the Armed Forces of the Philippines (AFP) have approximately 122,000 active duty personnel (80,000 Army; 25,000 Navy, including about 8,700 marines; 17,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the AFP is equipped with a mix of imported weapons systems, particularly second-hand equipment from the US; since 2014, its top weapons suppliers are Israel, South Korea, and the US (2021)<br>
+the AFP is equipped with a mix of imported weapons systems, particularly second-hand equipment from the US; since 2014, its top weapons suppliers include Israel, South Korea, and the US (2021)<br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial waters of littoral states and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; an emerging threat area lies in the Celebes and Sulu Seas between the Philippines and Malaysia where three ships were attacked in 2020; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargoes stolen</p><br>

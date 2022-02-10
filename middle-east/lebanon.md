@@ -129,7 +129,7 @@ _urban population_: 89.3% of total population (2022)<br>
 _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.435 million BEIRUT (capital) (2021)<br>
+2.433 million BEIRUT (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -164,7 +164,7 @@ _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8.4% (2018)<br>
+8.7% (2019)<br>
 
 **Physicians density**<br>
 2.1 physicians/1,000 population (2018)<br>
@@ -365,6 +365,10 @@ cedar tree; national colors: red, white, green<br>
 _name_: "Kulluna lil-watan" (All Of Us, For Our Country!)<br>
 _lyrics/music_: Rachid NAKHLE/Wadih SABRA<br>
 <strong>note:</strong> adopted 1927; chosen following a nationwide competition<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 5 (all cultural)<br>
+_selected World Heritage Site locales_: Anjar, Baalbek, Byblos, Tyre, Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab)<br>
 
 ## Economy
 
@@ -591,7 +595,7 @@ _subscriptions per 100 inhabitants_: 62.83 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: struggling with effects of the economic crisis compounded by the Covid-19 pandemic and the Port of Beirut explosion in 2020; Lebanon&rsquo;s telecom infrastructure is relatively weak and services are expensive; rural areas are less connected and experience frequent power cuts; state retains a monopoly over the Internet backbone and dominant ownership of the telecom industry; government backed improvements to fixed infrastructure; new landlines and fiber-optic networks provide faster DSL; limited 5G services; three international gateways through submarine cables; importer of broadcasting equipment from UAE; UAE investment in tech solutions (2020)<br>
-_domestic_: fixed-line 13 per 100 and 62 per 100 for mobile-cellular subscriptions (2019)<br>
+_domestic_: fixed-line nearly 13 per 100 and nearly 63 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 961; landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links to Europe, Africa, the Middle East and Asia; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

@@ -138,7 +138,7 @@ _urban population_: 59.3% of total population (2022)<br>
 _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.945 million VIENNA (capital) (2021)<br>
+1.960 million VIENNA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-10.3% (2018)<br>
+10.4% (2019)<br>
 
 **Physicians density**<br>
 5.17 physicians/1,000 population (2017)<br>
@@ -379,6 +379,10 @@ eagle, edelweiss, Alpine gentian; national colors: red, white<br>
 _name_: "Bundeshymne" (Federal Hymn)<br>
 _lyrics/music_: Paula von PRERADOVIC/Wolfgang Amadeus MOZART or Johann HOLZER (disputed)<br>
 <strong>note 1:</strong> adopted 1947; the anthem is also known as "Land der Berge, Land am Strome" (Land of the Mountains, Land by the River); Austria adopted a new national anthem after World War II to replace the former imperial anthem composed by Franz Josef HAYDN, which had been appropriated by Germany in 1922 and was thereafter associated with the Nazi regime; a gendered version of the lyrics was adopted by the Austrian Federal Assembly in fall 2011 and became effective 1 January 2012<br><br><strong>note 2:</strong> the beloved waltz "The Blue Danube" ("An der schoenen, blauen Donau"), composed in 1866 by the Austrian composer Johann Strauss II, is consistently referred to as Austria's unofficial national anthem <br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 12 (11 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Historic Salzburg (c); Palace and Gardens of Schönbrunn (c); Halstadt–Dachstein/Salzkammergut Cultural Landscape (c); Semmering railway (c); Historic Graz and Schloss Eggenberg (c); Wachau Cultural Landscape (c); Historic Vienna (c); Fertő/Neusiedlersee Cultural Landscape (c); Baden bei Wien (c); Primeval Beech Forests - Dürrenstein, Kalkalpen (n)<br>
 
 ## Economy
 
@@ -687,7 +691,7 @@ _river port(s)_: Enns, Krems, Linz, Vienna (Danube)<br>
 Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2021)<br>
 
 **Military expenditures**<br>
-0.8% of GDP (2021 est.)<br>
+0.85% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
 0.7% of GDP (2019)<br>
 0.7% of GDP (2018)<br>

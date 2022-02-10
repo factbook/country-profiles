@@ -138,7 +138,7 @@ _urban population_: 57.9% of total population (2022)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-10.915 million JAKARTA (capital), 3.510 million Bekasi, 2.972 million Surabaya, 2.607 million Bandung, 2.397 million Tangerang, 2.368 million Medan (2021)<br>
+11.075 million JAKARTA (capital), 3.622 million Bekasi, 3.005 million Surabaya, 2.942 million Depok, 2.638 million Bandung, 2.456 million Tangerang (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 16.3% of population<br>
 _unimproved: total_: total: 9.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-2.9% (2018)<br>
+2.9% (2019)<br>
 
 **Physicians density**<br>
 0.43 physicians/1,000 population (2018)<br>
@@ -370,7 +370,7 @@ Democrat Party or PD [Agus Harimurti YUDHOYONO]<br>Functional Groups Party or GO
 ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Iwan Freddy Hari SUSANTO, Minister (since 1 April 2021)<br>
+_chief of mission_: Ambassador Rosan ROESLANI (since 25 October 2021)<br>
 _chancery_: 2020 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 775-5200<br>
 _FAX_: [1] (202) 775-5365<br>
@@ -398,6 +398,10 @@ garuda (mythical bird); national colors: red, white<br>
 _name_: "Indonesia Raya" (Great Indonesia)<br>
 _lyrics/music_: Wage Rudolf SOEPRATMAN<br>
 <strong>note:</strong> adopted 1945<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 9 (5 cultural, 4 natural)<br>
+_selected World Heritage Site locales_: Borobudur Temple Compounds (c), Komodo National Park (n), Prambanan Temple Compounds (c), Ujung Kulon National Park (n), Sangiran Early Man Site (c), Lorentz National Park (n), Tropical Rainforest Heritage of Sumatra (n), Cultural Landscape of Bali Province (c), Ombilin Coal Mining Heritage of Sawahlunto (c)<br>
 
 ## Economy
 

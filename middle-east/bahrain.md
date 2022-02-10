@@ -131,7 +131,7 @@ _urban population_: 89.7% of total population (2022)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-664,000 MANAMA (capital) (2021)<br>
+689,000 MANAMA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -166,7 +166,7 @@ _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.1% (2018)<br>
+4% (2019)<br>
 
 **Physicians density**<br>
 0.93 physicians/1,000 population (2015)<br>
@@ -361,6 +361,10 @@ a red field surmounted by a white serrated band with five white points; national
 _name_: "Bahrainona" (Our Bahrain)<br>
 _lyrics/music_: unknown<br>
 <strong>note:</strong> adopted 1971; although Mohamed Sudqi AYYASH wrote the original lyrics, they were changed in 2002 following the transformation of Bahrain from an emirate to a kingdom<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (all cultural)<br>
+_selected World Heritage Site locales_: Dilmun Burial Mounds, Qal'at al-Bahrain – Ancient Harbor and Capital of Dilmun, Bahrain Pearling Path<br>
 
 ## Economy
 

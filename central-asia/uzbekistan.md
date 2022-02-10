@@ -136,7 +136,7 @@ _urban population_: 50.5% of total population (2022)<br>
 _rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.545 million TASHKENT (capital) (2021)<br>
+2.574 million TASHKENT (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 3.9% of population<br>
 _unimproved: total_: total: 2.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.3% (2018)<br>
+5.6% (2019)<br>
 
 **Physicians density**<br>
 2.37 physicians/1,000 population (2014)<br>
@@ -376,6 +376,10 @@ khumo (mythical bird); national colors: blue, white, red, green<br>
 _name_: "O'zbekiston Respublikasining Davlat Madhiyasi" (National Anthem of the Republic of Uzbekistan)<br>
 _lyrics/music_: Abdulla ARIPOV/Mutal BURHANOV<br>
 <strong>note:</strong> adopted 1992; after the fall of the Soviet Union, Uzbekistan kept the music of the anthem from its time as a Soviet Republic but adopted new lyrics<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 5 (4 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Itchan Kala (c), Historic Bukhara (c), Historic Shakhrisyabz (c), Samarkand - Crossroad of Cultures (c), Western Tien Shan (n)<br>
 
 ## Economy
 

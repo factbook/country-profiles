@@ -157,7 +157,7 @@ _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-2.9% (2018)<br>
+3.1% (2019)<br>
 
 **Physicians density**<br>
 1.41 physicians/1,000 population (2014)<br>

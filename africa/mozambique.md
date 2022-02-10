@@ -140,7 +140,7 @@ _urban population_: 38.2% of total population (2022)<br>
 _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.748 million Matola, 1.122 million MAPUTO (capital), 887,000 Nampula (2021)<br>
+1.797 million Matola, 1.139 million MAPUTO (capital), 927,000 Nampula (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 41.7% of population<br>
 _unimproved: total_: total: 29.3% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8.2% (2018)<br>
+7.8% (2019)<br>
 
 **Physicians density**<br>
 0.08 physicians/1,000 population (2018)<br>
@@ -403,6 +403,10 @@ national colors: green, black, yellow, white, red<br>
 _name_: "Patria Amada" (Lovely Fatherland)<br>
 _lyrics/music_: Salomao J. MANHICA/unknown<br>
 <strong>note:</strong> adopted 2002<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Island of Mozambique<br>
 
 ## Economy
 
@@ -632,7 +636,7 @@ _subscriptions per 100 inhabitants_: 48.65 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the first countries in the region to reform telecom market and open it to competition; the mobile segment has shown strong growth; poor fixed-line infrastructure means most Internet access is through mobile accounts; DSL, cable broadband, 3G, and some fiber broadband available; LTE tests underway; roll out of national fiber backbone and upgrades to infrastructure; submarine cables reduced the cost of bandwidth; importer of broadcasting equipment from China (2020)<br>
-_domestic_: extremely low fixed-line teledensity contrasts with rapid growth in the mobile-cellular network; operators provide coverage that includes all the main cities and key roads; fixed-line less than 1 per 100 and 48 per 100 mobile-cellular teledensity (2019)<br>
+_domestic_: extremely low fixed-line teledensity contrasts with rapid growth in the mobile-cellular network; operators provide coverage that includes all the main cities and key roads; fixed-line less than 1 per 100 and nearly 49 per 100 mobile-cellular teledensity (2019)<br>
 _international_: country code - 258; landing points for the EASSy and SEACOM/ Tata TGN-Eurasia fiber-optic submarine cable systems linking numerous&nbsp;east African&nbsp;countries, the Middle East and Asia&nbsp;; satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean); TdM contracts for Itelsat for satellite broadband and bulk haul services (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

@@ -43,7 +43,7 @@ continental, cold winters and hot summers, arid and semiarid<br>
 vast flat steppe extending from the Volga in the west to the Altai Mountains in the east and from the plains of western Siberia in the north to oases and deserts of Central Asia in the south<br>
 
 **Elevation**<br>
-_highest point_: Pik Khan-Tengri 6,995 m<br>
+_highest point_: Pik Khan-Tengri 7,010 m<br>note - the northern most 7,000 meter peak in the World<br>
 _lowest point_: Qauyndy Oyysy -132 m<br>
 _mean elevation_: 387 m<br>
 
@@ -137,7 +137,7 @@ _urban population_: 58% of total population (2022)<br>
 _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.928 million Almaty, 1.212 million NUR-SULTAN (capital), 1.093 million Shimkent (2021)<br>
+1.958 million Almaty, 1.254 million NUR-SULTAN (capital), 1.126 million Shimkent (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 0.94 male(s)/female<br>
@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 6.2% of population<br>
 _unimproved: total_: total: 2.6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-2.9% (2018)<br>
+2.8% (2019)<br>
 
 **Physicians density**<br>
 3.98 physicians/1,000 population (2014)<br>
@@ -387,6 +387,10 @@ golden eagle; national colors: blue, yellow<br>
 _name_: "Menin Qazaqstanim" (My Kazakhstan)<br>
 _lyrics/music_: Zhumeken NAZHIMEDENOV and Nursultan NAZARBAYEV/Shamshi KALDAYAKOV<br>
 <strong>note:</strong> adopted 2006; President Nursultan NAZARBAYEV played a role in revising the lyrics<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Mausoleum of Khoja Ahmed Yasawi (c), Petroglyphs at Tanbaly (c), Saryarka - Steppe and Lakes of Northern Kazakhstan (n), Silk Roads: the Chang'an-Tianshan Corridor (c), Western Tien-Shan (n)<br>
 
 ## Economy
 

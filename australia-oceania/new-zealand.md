@@ -135,7 +135,7 @@ _urban population_: 86.9% of total population (2022)<br>
 _rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.630 million Auckland, 417,000 WELLINGTON (capital) (2021)<br>
+1.652 million Auckland, 419,000 WELLINGTON (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-9.2% (2018)<br>
+9.7% (2019)<br>
 
 **Physicians density**<br>
 3.59 physicians/1,000 population (2018)<br>
@@ -373,6 +373,10 @@ Southern Cross constellation (four, five-pointed stars), kiwi (bird), silver fer
 _name_: God Defend New Zealand<br>
 _lyrics/music_: Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph WOODS<br>
 <strong>note:</strong> adopted 1940 as national song, adopted 1977 as co-national anthem; New Zealand has two national anthems with equal status; as a commonwealth realm, in addition to "God Defend New Zealand," "God Save the Queen" serves as a national anthem (see United Kingdom); "God Save the Queen" normally played only when a member of the royal family or the governor-general is present; in all other cases, "God Defend New Zealand" is played<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (2 natural, 1 mixed)<br>
+_selected World Heritage Site locales_: Te Wahipounamu – South West New Zealand (n), Tongariro National Park (m), New Zealand Sub-Antarctic Islands (n)<br>
 
 ## Economy
 

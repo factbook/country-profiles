@@ -147,7 +147,7 @@ _rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data do not include Hong Kong and Macau<br>
 
 **Major urban areas - population**<br>
-27.796 million Shanghai, 20.897 million BEIJING (capital), 16.382 million Chongqing, 13.794 million Tianjin, 13.635 million Guangzhou, 12.592 million Shenzhen (2021)<br>
+28.517 million Shanghai, 201.333 million BEIJING (capital), 16.875 million Chongqing, 14.012 million Tianjin, 13.965 million Guangzhou, 12.831 million Shenzhen (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.11 male(s)/female<br>
@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 12.2% of population<br>
 _unimproved: total_: total: 7.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.4% (2018)<br>
+5.4% (2019)<br>
 
 **Physicians density**<br>
 1.98 physicians/1,000 population (2017)<br>
@@ -329,7 +329,7 @@ _time zone note_: China is the largest country (in terms of area) with just one 
 _etymology_: the Chinese meaning is "Northern Capital"<br>
 
 **Administrative divisions**<br>
-<p>23 provinces (sheng, singular and plural), 5 autonomous regions (zizhiqu, singular and plural), and 4 municipalities (shi, singular and plural)</p> <p><strong>provinces:</strong> Anhui, Fujian, Gansu, Guangdong, Guizhou, Hainan, Hebei, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin, Liaoning, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Yunnan, Zhejiang; (see note on Taiwan)</p> <p><strong>autonomous regions:</strong> Guangxi, Nei Mongol (Inner Mongolia), Ningxia, Xinjiang Uyghur, Xizang (Tibet)</p> <p><strong>municipalities:</strong> Beijing, Chongqing, Shanghai, Tianjin</p><br>
+<p>23 provinces (sheng, singular and plural), 5 autonomous regions (zizhiqu, singular and plural), 4 municipalities (shi, singular and plural), and two special administrative regions (tebie xingzhengqu, singular and plural)</p> <p><strong>provinces:</strong> Anhui, Fujian, Gansu, Guangdong, Guizhou, Hainan, Hebei, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin, Liaoning, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Yunnan, Zhejiang; (see note on Taiwan)</p> <p><strong>autonomous regions:</strong> Guangxi, Nei Mongol (Inner Mongolia), Ningxia, Xinjiang Uyghur, Xizang (Tibet)</p> <p><strong>municipalities:</strong> Beijing, Chongqing, Shanghai, Tianjin<br><br><strong>special administrative regions:</strong> Hong Kong, Macau</p><br>
 <strong>note:</strong> China considers Taiwan its 23rd province; see separate entries for the special administrative regions of Hong Kong and Macau<br>
 
 **Independence**<br>
@@ -409,6 +409,13 @@ dragon, giant panda; national colors: red, yellow<br>
 _name_: "Yiyongjun Jinxingqu" (The March of the Volunteers)<br>
 _lyrics/music_: TIAN Han/NIE Er<br>
 <strong>note:</strong> adopted 1949; the anthem, though banned during the Cultural Revolution, is more commonly known as "Zhongguo Guoge" (Chinese National Song); it was originally the theme song to the 1935 Chinese movie, "Sons and Daughters in a Time of Storm"<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 56 (14 natural, 38 cultural, 4 mixed)<br>
+_selected World Heritage Site locales_: Imperial Palaces of the Ming and Qing Dynasties (c); Mausoleum of the First Qin Emperor (c); The Great Wall (c); Summer Palace (c); Jiuzhaigou Valley (n); Potala Palace (c); Ancient Pingyao (c); Historic Macau (c); Dengfeng (c); Grand Canal (c)<br>
+
+**Government - note**<br>
+in 2018, the Chinese Government established an investigatory National Supervisory Commission to oversee all state employees<br>
 
 ## Economy
 
@@ -742,7 +749,7 @@ note - the PLA is in the midst of a decades-long modernization effort; in 2017, 
 18-22 years of age for selective compulsory military service (not needed), with a 2-year service obligation; no minimum age for voluntary service (all officers are volunteers); 18-19 years of age for women high school graduates who meet requirements for specific military jobs (2021)<br>
 
 **Military - note**<br>
-<p>established in 1927, the PLA is the military arm of the ruling Chinese Communist Party (CCP), which oversees the PLA through its Central Military Commission; the Central Military Commission is China’s top military decision making body</p> <p>China’s internal security forces consist primarily of the Ministry of Public Security (MPS), the Ministry of State Security (MSS), the People’s Armed Police (PAP), and the militia; the PLA support the internal security forces as necessary:</p> <p>the <strong>MPS</strong> controls the civilian national police, which serves as the first-line force for public order; its primary mission is domestic law enforcement and maintaining order, including anti-rioting and anti-terrorism</p> <p>the <strong>MSS</strong> is China’s main civilian intelligence and counterintelligence service</p> <p>the <strong>PAP</strong> is a paramilitary component of the PLA; its primary missions include internal security, maintaining public order, maritime security, and assisting the PLA in times of war; it is under the command of the Central Military Commission (CMC); the <strong>China Coast Guard (CCG)</strong> is under the PAP; the CCG has a variety of missions, such as maritime sovereignty enforcement, surveillance, resource protection, anti-smuggling, and general law enforcement</p> <p>the <strong>militia</strong> is an armed reserve of civilians which serves as an auxiliary and reserve force for the PLA upon mobilization; it is distinct from the PLA’s reserve forces; militia units are organized around towns, villages, urban sub-districts, and enterprises, and vary widely in composition and mission; they have dual civilian-military command structures; a key component of the militia are the local maritime forces, commonly referred to as the <strong>People’s Armed Forces Maritime Militia </strong>(PAFMM); the PAFMM consists of mariners (and their vessels) who receive training, equipment, and other forms of support from the Navy and CCG (although the PAFMM remains separate from both) to perform tasks such as maritime patrolling, surveillance and reconnaissance, emergency/disaster response, transportation, search and rescue, and auxiliary tasks in support of naval operations in wartime; the PAFMM’s tasks are often conducted in conjunction or coordination with the Navy and the CCG; it has been used to assert Chinese maritime claims in the East and South China seas</p><br>
+<p>established in 1927, the PLA is the military arm of the ruling Chinese Communist Party (CCP), which oversees the PLA through its Central Military Commission; the Central Military Commission is China’s top military decision making body</p> <p>China’s i<strong>nternal security forces </strong>consist primarily of the <strong>Ministry of Public Security (MPS)</strong>, the <strong>Ministry of State Security (MSS)</strong>, the <strong>People’s Armed Police (PAP)</strong>, and the <strong>militia</strong>; the PLA support the internal security forces as necessary:</p> <p>the <strong>MPS</strong> controls the civilian national police, which serves as the first-line force for public order; its primary mission is domestic law enforcement and maintaining order, including anti-rioting and anti-terrorism</p> <p>the <strong>MSS</strong> is China’s main civilian intelligence and counterintelligence service</p> <p>the <strong>PAP</strong> is a paramilitary component of the PLA; its primary missions include internal security, maintaining public order, maritime security, and assisting the PLA in times of war; it is under the command of the Central Military Commission (CMC); the <strong>China Coast Guard (CCG)</strong> is under the PAP; the CCG has a variety of missions, such as maritime sovereignty enforcement, surveillance, resource protection, anti-smuggling, and general law enforcement</p> <p>the <strong>militia</strong> is an armed reserve of civilians which serves as an auxiliary and reserve force for the PLA upon mobilization; it is distinct from the PLA’s reserve forces; militia units are organized around towns, villages, urban sub-districts, and enterprises, and vary widely in composition and mission; they have dual civilian-military command structures; a key component of the militia are the local maritime forces, commonly referred to as the <strong>People’s Armed Forces Maritime Militia (PAFMM)</strong>; the PAFMM consists of mariners (and their vessels) who receive training, equipment, and other forms of support from the Navy and CCG (although the PAFMM remains separate from both) to perform tasks such as maritime patrolling, surveillance and reconnaissance, emergency/disaster response, transportation, search and rescue, and auxiliary tasks in support of naval operations in wartime; the PAFMM’s tasks are often conducted in conjunction or coordination with the Navy and the CCG; it has been used to assert Chinese maritime claims in the East and South China seas</p><br>
 
 ## Transnational Issues
 

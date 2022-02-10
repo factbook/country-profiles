@@ -132,7 +132,7 @@ _urban population_: 74.8% of total population (2022)<br>
 _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.107 million SAN SALVADOR (capital) (2021)<br>
+1.111 million SAN SALVADOR (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 7.8% of population<br>
 _unimproved: total_: total: 2.6% of population (2015 est.)<br>
 
 **Current Health Expenditure**<br>
-7.1% (2018)<br>
+7.2% (2019)<br>
 
 **Physicians density**<br>
 1.57 physicians/1,000 population (2016)<br>
@@ -378,6 +378,10 @@ turquoise-browed motmot (bird); national colors: blue, white<br>
 _name_: "Himno Nacional de El Salvador" (National Anthem of El Salvador)<br>
 _lyrics/music_: Juan Jose CANAS/Juan ABERLE<br>
 <strong>note:</strong> officially adopted 1953, in use since 1879; at 4:20 minutes, the anthem of El Salvador is one of the world's longest<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Joya de Cer&eacute;n Archaeological Site<br>
 
 ## Economy
 

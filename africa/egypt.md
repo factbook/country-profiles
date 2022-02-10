@@ -146,7 +146,7 @@ _urban population_: 43% of total population (2022)<br>
 _rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-21.323 million CAIRO (capital), 5.381 million Alexandria (2021)<br>
+21.750 million CAIRO (capital), 5.484 million Alexandria, 764,000 Bur Sa'id (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -189,7 +189,7 @@ _unimproved: rural_: rural: 1.2% of population<br>
 _unimproved: total_: total: 0.6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5% (2018)<br>
+4.7% (2019)<br>
 
 **Physicians density**<br>
 0.45 physicians/1,000 population (2018)<br>
@@ -404,6 +404,10 @@ golden eagle, white lotus; national colors: red, white, black<br>
 _name_: "Bilady, Bilady, Bilady" (My Homeland, My Homeland, My Homeland)<br>
 _lyrics/music_: Younis-al QADI/Sayed DARWISH<br>
 <strong>note:</strong> adopted 1979; the current anthem, less militaristic than the previous one, was created after the signing of the 1979 peace treaty with Israel; Sayed DARWISH, commonly considered the father of modern Egyptian music, composed the anthem<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Memphis and its Necropolis (c), Ancient Thebes with its Necropolis (c), Nubian Monuments (c), Saint Catherine Area (c), Abu Mena (c), Historic Cairo (c), Wadi Al-Hitan (Whale Valley) (n)<br>
 
 ## Economy
 

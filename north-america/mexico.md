@@ -144,7 +144,7 @@ _urban population_: 81.3% of total population (2022)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-21.919 million MEXICO CITY (capital), 5.259 million Guadalajara, 4.956 million Monterrey, 3.245 million Puebla, 2.522 million Toluca de Lerdo, 2.181 million Tijuana (2021)<br>
+22.085 million MEXICO CITY (capital), 5.340 million Guadalajara, 5.037 million Monterrey, 3.295 million Puebla, 2.576 million Toluca de Lerdo, 2.221 million Tijuana (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 3.4% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.4% (2018)<br>
+5.4% (2019)<br>
 
 **Physicians density**<br>
 2.38 physicians/1,000 population (2017)<br>
@@ -413,6 +413,10 @@ golden eagle; national colors: green, white, red<br>
 _name_: "Himno Nacional Mexicano" (National Anthem of Mexico)<br>
 _lyrics/music_: Francisco Gonzalez BOCANEGRA/Jaime Nuno ROCA<br>
 <strong>note:</strong> adopted 1943, in use since 1854; also known as "Mexicanos, al grito de Guerra" (Mexicans, to the War Cry); according to tradition, Francisco Gonzalez BOCANEGRA, an accomplished poet, was uninterested in submitting lyrics to a national anthem contest; his fiancee locked him in a room and refused to release him until the lyrics were completed<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 35 (27 cultural, 6 natural, 2 mixed)<br>
+_selected World Heritage Site locales_: Historic Mexico City (c); Earliest 16th-Century Monasteries on the Slopes of Popocatepetl (c); Teotihuacan (c); Whale Sanctuary of El Vizcaino (n); Monarch Butterfly Biosphere Reserve (n); Tehuacán-Cuicatlán Valley (m); Historic Puebla (c); El Tajin (c); Historic Tlacotalpan (c); Historic Oaxaca and Monte Albán (c); Palenque (c); Chichen-Itza (c); Uxmal (c)<br>
 
 ## Economy
 
@@ -643,7 +647,7 @@ _subscriptions per 100 inhabitants_: 93.45 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: with a large population and relatively low broadband and mobile penetration, Mexico&rsquo;s telecom sector has potential for growth; adequate telephone service for business and government; improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers; relatively low broadband and mobile penetration, potential for growth and international investment; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable; 5G development slow in part due to high costs; IXP in Mexico City; exporter of computers and broadcasting equipment to USA and importer of same from China (2020)<br>
-_domestic_: competition has spurred the mobile-cellular market; fixed-line teledensity exceeds 18 per 100 persons; mobile-cellular teledensity is about 95 per 100 persons; domestic satellite system with 120 earth stations (2019)<br>
+_domestic_: fixed-line teledensity exceeds 18 per 100 persons; mobile-cellular teledensity is about 93 per 100 persons; domestic satellite system with 120 earth stations (2020)<br>
 _international_: country code - 52; Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy; the ARCOS-1 and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the US; satellite earth stations - 120 (32 Intelsat, 2 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 1 Panamsat, numerous Inmarsat mobile earth stations); linked to Central American Microwave System of trunk connections (2016)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

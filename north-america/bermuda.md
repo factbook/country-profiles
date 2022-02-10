@@ -314,6 +314,10 @@ _name_: Hail to Bermuda<br>
 _lyrics/music_: Bette JOHNS<br>
 <strong>note:</strong> serves as a local anthem; as a territory of the United Kingdom, "God Save the Queen" is official (see United Kingdom)<br>
 
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural); note - excerpted from the UK entry<br>
+_selected World Heritage Site locales_: Historic Town of St George and Related Fortifications<br>
+
 ## Economy
 
 **Economic overview**<br>

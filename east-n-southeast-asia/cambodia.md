@@ -142,7 +142,7 @@ _urban population_: 25.1% of total population (2022)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.144 million PHNOM PENH (capital) (2021)<br>
+2.211 million PHNOM PENH (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 22.2% of population<br>
 _unimproved: total_: total: 19.7% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6% (2018)<br>
+7% (2019)<br>
 
 **Physicians density**<br>
 0.19 physicians/1,000 population (2014)<br>
@@ -330,7 +330,7 @@ Independence Day, 9 November (1953)<br>
 
 **Constitution**<br>
 _history_: previous 1947; latest promulgated 21 September 1993<br>
-_amendments_: proposed by the monarch, by the prime minister, or by the president of the National Assembly if supported by one fourth of the Assembly membership; passage requires two-thirds majority of the Assembly membership; constitutional articles on the multiparty democratic form of government and the monarchy cannot be amended; amended 1999, 2008, 2014, 2018<br>
+_amendments_: proposed by the monarch, by the prime minister, or by the president of the National Assembly if supported by one fourth of the Assembly membership; passage requires two-thirds majority of the Assembly membership; constitutional articles on the multiparty democratic form of government and the monarchy cannot be amended; amended 1999, 2008, 2014, 2018, and 2021<br>
 
 **Legal system**<br>
 civil law system (influenced by the UN Transitional Authority in Cambodia) customary law, Communist legal theory, and common law<br>
@@ -359,7 +359,7 @@ _elections_: <br> Senate - last held on 25 February 2018 (next to be held in 202
 _election results_: <strong> </strong><br> Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; composition - men 53, women 9, percent of women 14.5%<br> National Assembly - percent of vote by party - CPP 76.9%, FUNCINPEC 5.9%, LDP 4.9%, Khmer Will Party 3.4%, other 8.9%; seats by party - CPP 125; composition - men 100, women 25, percent of women 20%; note - total Parliament of Cambodia percent of women 18.2%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2019<br>
+_highest courts_: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2021<br>
 _judge selection and term of office_: Supreme Court and Constitutional Council judge candidates recommended by the Supreme Council of Magistracy, a 17-member body chaired by the monarch and includes other high-level judicial officers; judges of both courts appointed by the monarch; Supreme Court judges appointed for life; Constitutional Council judges appointed for 9-year terms with one-third of the court renewed every 3 years<br>
 _subordinate courts_: Appellate Court; provincial and municipal courts; Military Court<br>
 
@@ -395,6 +395,10 @@ Angkor Wat temple, kouprey (wild ox); national colors: red, blue<br>
 _name_: "Nokoreach" (Royal Kingdom)<br>
 _lyrics/music_: CHUON NAT/F. PERRUCHOT and J. JEKYLL<br>
 <strong>note:</strong> adopted 1941, restored 1993; the anthem, based on a Cambodian folk tune, was restored after the defeat of the Communist regime<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (all cultural)<br>
+_selected World Heritage Site locales_: Angkor, Temple of Preah Vihear, Sambor Prei Kuk<br>
 
 ## Economy
 

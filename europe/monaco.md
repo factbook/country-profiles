@@ -163,7 +163,7 @@ _unimproved: urban_: urban: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-1.6% (2018)<br>
+1.5% (2019)<br>
 
 **Physicians density**<br>
 7.51 physicians/1,000 population (2014)<br>
@@ -457,7 +457,7 @@ _subscriptions per 100 inhabitants_: 90.43 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern automatic telephone system; the country's sole fixed-line operator offers a full range of services to residential and business customers; competitive mobile telephony market; 4G LTE widely available (2020)<br>
-_domestic_: fixed-line 113 per 100 and mobile-cellular teledensity exceeds 87 per 100 persons (2019)<br>
+_domestic_: fixed-line a little over 111 per 100 and mobile-cellular teledensity exceeds 90 per 100 persons (2020)<br>
 _international_: country code - 377; landing points for the EIG and Italy-Monaco submarine cables connecting Monaco to Europe, Africa, the Middle East and Asia; no satellite earth stations; connected by cable into the French communications system (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

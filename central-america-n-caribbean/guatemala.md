@@ -135,7 +135,7 @@ _urban population_: 52.7% of total population (2022)<br>
 _rate of urbanization_: 2.59% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.983 million GUATEMALA CITY (capital) (2021)<br>
+3.036 million GUATEMALA CITY (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 7.8% of population<br>
 _unimproved: total_: total: 4.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.7% (2018)<br>
+6.2% (2019)<br>
 
 **Physicians density**<br>
 0.36 physicians/1,000 population (2018)<br>
@@ -384,6 +384,10 @@ quetzal (bird); national colors: blue, white<br>
 _name_: "Himno Nacional de Guatemala" (National Anthem of Guatemala)<br>
 _lyrics/music_: Jose Joaquin PALMA/Rafael Alvarez OVALLE<br>
 <strong>note:</strong> adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (2 cultural, 1 mixed)<br>
+_selected World Heritage Site locales_: Antigua Guatemala (c), Tikal National Park (m), Archaeological Park and Ruins of Quirigua (c)<br>
 
 ## Economy
 

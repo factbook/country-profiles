@@ -137,7 +137,7 @@ _urban population_: 37.6% of total population (2022)<br>
 _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-694,000 VIENTIANE (capital) (2021)<br>
+706,000 VIENTIANE (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 23.2% of population<br>
 _unimproved: total_: total: 17.9% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-2.3% (2018)<br>
+2.6% (2019)<br>
 
 **Physicians density**<br>
 0.37 physicians/1,000 population (2017)<br>
@@ -383,6 +383,10 @@ elephant; national colors: red, white, blue<br>
 _name_: "Pheng Xat Lao" (Hymn of the Lao People)<br>
 _lyrics/music_: SISANA Sisane/THONGDY Sounthonevichit<br>
 <strong>note:</strong> music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed following the 1975 Communist revolution that overthrew the monarchy<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (all cultural)<br>
+_selected World Heritage Site locales_: Town of Luangphrabang, Vat Phou and Associated Ancient Settlements, Megalithic Jar Sites in Xiengkhuang - Plain of Jars<br>
 
 ## Economy
 
@@ -609,7 +613,7 @@ _subscriptions per 100 inhabitants_: 60.84 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: reliance on radio network to communicate with remote areas; regulatory reform is below industry standards; government aims to strengthen infrastructure and attract foreign investment; low fixed-broadband penetration; dominance in mobile broadband with 4G and LTE, but low compared to other Asian markets; ASEAN Digital Hub investment provides international capacity; state owns almost all media, except for some entertainment outlets, and has suppressed some news; importer of broadcasting equipment and computers from China; providers examining m-payment platforms and 5G tests (2020)<br>
-_domestic_: fixed-line 21 per 100 and 61 per 100 for mobile-cellular subscriptions (2019)<br>
+_domestic_: fixed-line nearly 21 per 100 and 61 per 100 for mobile-cellular subscriptions (2019)<br>
 _international_: country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) and a second to be developed by China<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

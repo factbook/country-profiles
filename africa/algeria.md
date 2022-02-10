@@ -139,7 +139,7 @@ _urban population_: 74.8% of total population (2022)<br>
 _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.809 million ALGIERS (capital), 910,000 Oran (2021)<br>
+2.854 million ALGIERS (capital), 922,000 Oran (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 2.1% of population<br>
 _unimproved: total_: total: 1.1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.2% (2018)<br>
+6.2% (2019)<br>
 
 **Physicians density**<br>
 1.72 physicians/1,000 population (2018)<br>
@@ -378,6 +378,10 @@ five-pointed star between the extended horns of a crescent moon, fennec fox; nat
 _name_: "Kassaman" (We Pledge)<br>
 _lyrics/music_: Mufdi ZAKARIAH/Mohamed FAWZI<br>
 <strong>note:</strong> adopted 1962; ZAKARIAH wrote "Kassaman" as a poem while imprisoned in Algiers by French colonial forces<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 7 (6 cultural, 1 mixed)<br>
+_selected World Heritage Site locales_: Beni Hammad Fort (c), Djémila (c), Casbah of Algiers (c), M'zab Valley (c), Tassili n'Ajjer (m), Timgad (c), Tipasa (c)<br>
 
 ## Economy
 

@@ -142,7 +142,7 @@ _urban population_: 82% of total population (2022)<br>
 _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-11.167 million BOGOTA (capital), 4.034 million Medellin, 2.810 million Cali, 2.299 million Barranquilla, 1.349 million Bucaramanga, 1.071 million Cartagena (2021)<br>
+11.344 million BOGOTA (capital), 4.068 million Medellin, 2.837 million Cali, 2.325 million Barranquilla, 1.366 million Bucaramanga, 1.079 million Cartagena (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 13.6% of population<br>
 _unimproved: total_: total: 2.7% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.6% (2018)<br>
+7.7% (2019)<br>
 
 **Physicians density**<br>
 2.19 physicians/1,000 population (2018)<br>
@@ -402,6 +402,10 @@ Andean condor; national colors: yellow, blue, red<br>
 _name_: "Himno Nacional de la Republica de Colombia" (National Anthem of the Republic of Colombia)<br>
 _lyrics/music_: Rafael NUNEZ/Oreste SINDICI<br>
 <strong>note:</strong> adopted 1920; the anthem was created from an inspirational poem written by President Rafael NUNEZ<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 9 (6 cultural, 2 natural, 1 mixed)<br>
+_selected World Heritage Site locales_: Chiribiquete National Park (m), Coffee Cultural Landscape of Colombia (c), Historic Center of Santa Cruz de Mompox (c), Los Katíos National Park (n), Malpelo Fauna and Flora Sanctuary (n), Tierradentro National Archeological Park (c), San Agustín Archaeological Park (c), Colonial Cartagena (c), Qhapaq Ñan/Andean Road System (c)<br>
 
 ## Economy
 

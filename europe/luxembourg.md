@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 1.2% of population<br>
 _unimproved: total_: total: 1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.3% (2018)<br>
+5.4% (2019)<br>
 
 **Physicians density**<br>
 3.01 physicians/1,000 population (2017)<br>
@@ -362,6 +362,10 @@ red, rampant lion; national colors: red, white, light blue<br>
 _name_: "Ons Heemecht" (Our Motherland); "De Wilhelmus" (The William)<br>
 _lyrics/music_: Michel LENTZ/Jean-Antoine ZINNEN; Nikolaus WELTER/unknown<br>
 <strong>note:</strong> "Ons Heemecht," adopted 1864, is the national anthem, while "De Wilhelmus," adopted 1919, serves as a royal anthem for use when members of the grand ducal family enter or exit a ceremony in Luxembourg<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Luxembourg City Old Quarters and Fortifications<br>
 
 ## Economy
 
@@ -592,7 +596,7 @@ _subscriptions per 100 inhabitants_: 142.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: small but highly developed telecom system dominated by state-owned operator; gains in fixed-line and drop in mobile/roving sector during 2020 travel restrictions; government-state operator extended 1GB/s service with aims to make Luxembourg the first fully fiber country in Europe; regulator completed auction for 5G spectrum; importer of broadcast equipment from China (2020)<br>
-_domestic_: fixed-line teledensity about 43 per 100 persons; nationwide mobile-cellular telephone system with market for mobile-cellular phones virtually saturated with 136 per 100 mobile-cellular (2019)<br>
+_domestic_: fixed-line teledensity about 43 per 100 persons; nationwide mobile-cellular telephone system with market for mobile-cellular phones virtually saturated with about 142 per 100 mobile-cellular (2020)<br>
 _international_: country code - 352<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -661,11 +665,11 @@ _river port(s)_: Mertert (Moselle)<br>
 Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2021)<br>
 
 **Military expenditures**<br>
-0.57% of GDP (2020 est.)<br>
+0.57% of GDP (2021 est.)<br>
+0.57% of GDP (2020)<br>
 0.54% of GDP (2019)<br>
 0.5% of GDP (2018)<br>
 0.51% of GDP (2017)<br>
-0.39% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Luxembourg Army has approximately 900 active personnel (2021)<br>

@@ -140,7 +140,7 @@ _urban population_: 52.7% of total population (2022)<br>
 _rate of urbanization_: 3.38% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-231,000 YAMOUSSOUKRO (capital) (2018), 5.355 million ABIDJAN (seat of government) (2021)<br>
+231,000 YAMOUSSOUKRO (capital) (2018), 5.516 million ABIDJAN (seat of government) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 32.2% of population<br>
 _unimproved: total_: total: 20.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.2% (2018)<br>
+3.3% (2019)<br>
 
 **Physicians density**<br>
 0.23 physicians/1,000 population (2014)<br>
@@ -398,6 +398,10 @@ elephant; national colors: orange, white, green<br>
 _name_: "L'Abidjanaise" (Song of Abidjan)<br>
 _lyrics/music_: Mathieu EKRA, Joachim BONY, and Pierre Marie COTY/Pierre Marie COTY and Pierre Michel PANGO<br>
 <strong>note:</strong> adopted 1960; although the nation's capital city moved from Abidjan to Yamoussoukro in 1983, the anthem still owes its name to the former capital<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 5 (2 cultural, 3 natural)<br>
+_selected World Heritage Site locales_: Como&eacute; National Park (n), Historic Grand-Bassam (c), Mount Nimba Strict Nature Reserve (n), Sudanese-style Mosques (c), Ta&iuml; National Park (n)<br>
 
 ## Economy
 

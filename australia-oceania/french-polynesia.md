@@ -309,6 +309,10 @@ _name_: "Ia Ora 'O Tahiti Nui" (Long Live Tahiti Nui)<br>
 _lyrics/music_: Maeva BOUGES, Irmine TEHEI, Angele TEROROTUA, Johanna NOUVEAU, Patrick AMARU, Louis MAMATUI, and Jean-Pierre CELESTIN (the compositional group created both the lyrics and music)<br>
 <strong>note:</strong> adopted 1993; serves as a local anthem; as a territory of France, "La Marseillaise" is official (see France)<br>
 
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural); note - excerpted from the France entry<br>
+_selected World Heritage Site locales_: Taputapuātea<br>
+
 **Government - note**<br>
 under certain acts of France, French Polynesia has acquired autonomy in all areas except those relating to police, monetary policy, tertiary education, immigration, and defense and foreign affairs; the duties of its president are fashioned after those of the French prime minister<br>
 

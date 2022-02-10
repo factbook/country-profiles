@@ -142,7 +142,7 @@ _urban population_: 31.8% of total population (2022)<br>
 _rate of urbanization_: 1.85% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-5.422 million RANGOON (Yangon) (capital), 1.469 million Mandalay (2021)<br>
+5.514 million RANGOON (Yangon) (capital), 1.501 million Mandalay (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 23.1% of population<br>
 _unimproved: total_: total: 18.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.8% (2018)<br>
+4.7% (2019)<br>
 
 **Physicians density**<br>
 0.68 physicians/1,000 population (2018)<br>
@@ -402,6 +402,10 @@ chinthe (mythical lion); national colors: yellow, green, red, white<br>
 _name_: "Kaba Ma Kyei" (Till the End of the World, Myanmar)<br>
 _lyrics/music_: SAYA TIN<br>
 <strong>note:</strong> adopted 1948; Burma is among a handful of non-European nations that have anthems rooted in indigenous traditions; the beginning portion of the anthem is a traditional Burmese anthem before transitioning into a Western-style orchestrated work<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both cultural)<br>
+_selected World Heritage Site locales_: Pyu Ancient Cities, Bagan<br>
 
 ## Economy
 

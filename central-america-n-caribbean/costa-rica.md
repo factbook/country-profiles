@@ -133,7 +133,7 @@ _urban population_: 82% of total population (2022)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.421 million SAN JOSE (capital) (2021)<br>
+1.441 million SAN JOSE (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.6% (2018)<br>
+7.3% (2019)<br>
 
 **Physicians density**<br>
 2.89 physicians/1,000 population (2018)<br>
@@ -377,6 +377,10 @@ yiguirro (clay-colored robin); national colors: blue, white, red<br>
 _name_: "Himno Nacional de Costa Rica" (National Anthem of Costa Rica)<br>
 _lyrics/music_: Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ<br>
 <strong>note:</strong> adopted 1949; the anthem's music was originally written for an 1853 welcome ceremony for diplomatic missions from the US and UK; the lyrics were added in 1903<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 4 (1 cultural, 3 natural)<br>
+_selected World Heritage Site locales_: Guanacaste Conservation Area (n), Cocos Island National Park (n), Precolumbian Stone Spheres (c), La Amistad International Park (n)<br>
 
 ## Economy
 

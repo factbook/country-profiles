@@ -132,7 +132,7 @@ _urban population_: 39.9% of total population (2022)<br>
 _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.532 million ANTANANARIVO (capital) (2021)<br>
+3.700 million ANTANANARIVO (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 63.7% of population<br>
 _unimproved: total_: total: 44.5% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.8% (2018)<br>
+3.7% (2019)<br>
 
 **Physicians density**<br>
 0.18 physicians/1,000 population (2014)<br>
@@ -384,6 +384,10 @@ traveller's palm, zebu; national colors: red, green, white<br>
 _name_: "Ry Tanindraza nay malala o" (Oh, Our Beloved Fatherland)<br>
 _lyrics/music_: Pasteur RAHAJASON/Norbert RAHARISOA<br>
 <strong>note:</strong> adopted 1959<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Tsingy de Bemaraha Strict Nature Reserve (n), Ambohimanga Royal Hill (c), Atsinanana Rainforests&nbsp; (n)<br>
 
 ## Economy
 
@@ -600,11 +604,11 @@ _subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 10,654,710 (2018)<br>
-_subscriptions per 100 inhabitants_: 40.57 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 34.14 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: penetration rates below African average; competition among mobile service providers has spurred recent growth in the mobile market and reduced consumer costs; 3G and LTE services available; fiber backbone connects major cities with wireless networks upgraded to LTE; government committed to free WiFi hotspots to ensure universal access; telecom service tax raised to 10%; investment in submarine cable to South Africa and Mauritius; importer of broadcasting and video equipment from China (2020)<br>
-_domestic_: less than 1 per 100 for fixed-line and mobile-cellular teledensity about&nbsp;41 per 100 persons (2019)<br>
+_domestic_: less than 1 per 100 for fixed-line and mobile-cellular teledensity about 34 per 100 persons (2019)<br>
 _international_: country code - 261; landing points for the EASSy, METISS, and LION fiber-optic submarine cable systems connecting to numerous Indian Ocean Islands, South Africa, and Eastern African countries; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - Atlantic Ocean region) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

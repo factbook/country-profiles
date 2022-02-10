@@ -161,7 +161,7 @@ _improved: total_: total: 78.6% of population<br>
 _unimproved: total_: total: 21.4% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-12.6% (2018)<br>
+11.4% (2019)<br>
 
 **Hospital bed density**<br>
 3.2 beds/1,000 population<br>
@@ -339,6 +339,10 @@ four, five-pointed, white stars on a light blue field, hibiscus flower; national
 _name_: Patriots of Micronesia<br>
 _lyrics/music_: unknown<br>
 <strong>note:</strong> adopted 1991; also known as "Across All Micronesia"; the music is based on the 1820 German patriotic song "Ich hab mich ergeben", which was the West German national anthem from 1949-1950; variants of this tune are used in Johannes Brahms' "Festival Overture" and Gustav Mahler's "Third Symphony"<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Nan Madol: Ceremonial Center of Eastern Micronesia<br>
 
 ## Economy
 
@@ -539,7 +543,7 @@ _subscriptions per 100 inhabitants_: 20.74 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate system, the demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region (2020)<br>
-_domestic_: islands interconnected by shortwave radiotelephone, satellite (Intelsat) ground stations, and some coaxial and fiber-optic cable; mobile-cellular service available on the major islands; fixed line teledensity 6 per 100 and mobile-cellular 21 per 100 (2019)<br>
+_domestic_: islands interconnected by shortwave radiotelephone, satellite (Intelsat) ground stations, and some coaxial and fiber-optic cable; mobile-cellular service available on the major islands; fixed line teledensity roughly 6 per 100 and mobile-cellular nearly 21 per 100 (2019)<br>
 _international_: country code - 691; landing points for the Chuukk-Pohnpei Cable and HANTRU-1 submarine cable system linking the Federated States of Micronesia and the US;&nbsp;satellite earth stations - 5 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

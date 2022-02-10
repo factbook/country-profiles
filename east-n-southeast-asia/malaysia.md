@@ -132,7 +132,7 @@ _urban population_: 78.2% of total population (2022)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-8.211 million KUALA LUMPUR (capital), 1.045 million Johor Bahru, 828,000 Ipoh (2021)<br>
+8.420 million KUALA LUMPUR (capital), 1.065 million Johor Bahru, 842,000 Ipoh (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -171,7 +171,7 @@ _unimproved: rural_: rural: 11.7% of population<br>
 _unimproved: total_: total: 3.3% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.8% (2018)<br>
+3.8% (2019)<br>
 
 **Physicians density**<br>
 1.54 physicians/1,000 population (2015)<br>
@@ -379,6 +379,10 @@ tiger, hibiscus; national colors: gold, black<br>
 _name_: "Negaraku" (My Country)<br>
 _lyrics/music_: collective, led by Tunku ABDUL RAHMAN/Pierre Jean DE BERANGER<br>
 <strong>note:</strong> adopted 1957; full version only performed in the presence of the king; the tune, which was adopted from a popular French melody titled "La Rosalie," was originally the anthem of Perak, one of Malaysia's 13 states<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 4 (2 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Gunung Mulu National Park (n); Kinabalu Park (n); Malacca and George Town, Historic Cities of the Straits of Malacca (c); Archaeological Heritage of the Lenggong Valley (c)<br>
 
 ## Economy
 
@@ -609,7 +613,7 @@ _subscriptions per 100 inhabitants_: 135.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the most advanced telecom networks in the developing world; strong commitment to developing a technological society; Malaysia is promoting itself as an information tech hub in the Asian region; closing the urban rural divide; 4G and 5G networks with strong competition, mobile dominance over fixed-broadband; government development of five-year fiber and connectivity plan; some of Malaysia&rsquo;s key exports are integrated circuits and broadcasting equipment to North America and China; importer of integrated circuits from Singapore and China (2020)<br>
-_domestic_: fixed-line 20 per 100 and mobile-cellular teledensity exceeds 140 per 100 persons; domestic satellite system with 2 earth stations (2019)<br>
+_domestic_: fixed-line roughly 23 per 100 and mobile-cellular teledensity roughly 135 per 100 persons; domestic satellite system with 2 earth stations (2020)<br>
 _international_: country code - 60; landing points for BBG, FEA, SAFE, SeaMeWe-3 &amp; 4 &amp; 5, AAE-1, JASUKA, BDM, Dumai-Melaka Cable System, BRCS, ACE, AAG, East-West Submarine Cable System, SEAX-1, SKR1M, APCN-2, APG, BtoBe,&nbsp; BaSICS, and Labuan-Brunei Submarine and MCT submarine cables providing connectivity to Asia, the Middle East, Southeast Asia, Australia and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean); launch of Kacific-1 satellite in 2019 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

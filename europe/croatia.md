@@ -135,7 +135,7 @@ _urban population_: 58.2% of total population (2022)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-685,000 ZAGREB (capital) (2021)<br>
+684,000 ZAGREB (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.8% (2018)<br>
+7% (2019)<br>
 
 **Physicians density**<br>
 3 physicians/1,000 population (2016)<br>
@@ -391,6 +391,10 @@ red-white checkerboard; national colors: red, white, blue<br>
 _name_: "Lijepa nasa domovino" (Our Beautiful Homeland)<br>
 _lyrics/music_: Antun MIHANOVIC/Josip RUNJANIN<br>
 <strong>note:</strong> adopted in 1972 while still part of Yugoslavia; "Lijepa nasa domovino," whose lyrics were written in 1835, served as an unofficial anthem beginning in 1891<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 10 (8 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Plitvice Lakes National Park (n), Historic Split (c), Old City of Dubrovnik (c), Euphrasian Basilica, Historic Trogir (c), Šibenik Cathedral (c), Stari Grad Plain (c), Zadar and Fort St. Nikola Venetian Defense Works (c), Primeval Beech Forests (n), Stećci Medieval Tombstones Graveyards (c)<br>
 
 ## Economy
 

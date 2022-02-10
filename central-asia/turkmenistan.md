@@ -137,7 +137,7 @@ _urban population_: 53.5% of total population (2022)<br>
 _rate of urbanization_: 2.23% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-865,000 ASHGABAT (capital) (2021)<br>
+883,000 ASHGABAT (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.6% (2018)<br>
+6.6% (2019)<br>
 
 **Physicians density**<br>
 2.23 physicians/1,000 population (2014)<br>
@@ -377,6 +377,10 @@ Akhal-Teke horse; national colors: green, white<br>
 _name_: "Garassyz, Bitarap Turkmenistanyn" (Independent, Neutral, Turkmenistan State Anthem)<br>
 _lyrics/music_: collective/Veli MUKHATOV<br>
 <strong>note:</strong> adopted 1997, lyrics revised in 2008, to eliminate references to deceased President Saparmurat NYYAZOW <br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (all cultural)<br>
+_selected World Heritage Site locales_: Ancient Merv, Kunya-Urgench, Parthian Fortresses of Nisa<br>
 
 ## Economy
 

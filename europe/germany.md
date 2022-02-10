@@ -140,7 +140,7 @@ _urban population_: 77.6% of total population (2022)<br>
 _rate of urbanization_: 0.13% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.567 million BERLIN (capital), 1.789 million Hamburg, 1.553 million Munich, 1.129 million Cologne, 785,000 Frankfurt (2021)<br>
+3.571 million BERLIN (capital), 1.788 million Hamburg, 1.566 million Munich, 1.137 million Cologne, 791,000 Frankfurt (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-11.4% (2018)<br>
+11.7% (2019)<br>
 
 **Physicians density**<br>
 4.25 physicians/1,000 population (2017)<br>
@@ -386,6 +386,10 @@ eagle; national colors: black, red, yellow<br>
 _name_: "Das Lied der Deutschen" (Song of the Germans)<br>
 _lyrics/music_: August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN<br>
 <strong>note:</strong> adopted 1922; the anthem, also known as "Deutschlandlied" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; following appropriation by the Nazis of the first verse, specifically the phrase, "Deutschland, Deutschland ueber alles" (Germany, Germany above all) to promote nationalism, it was banned after 1945; in 1952, its third verse was adopted by West Germany as its national anthem; in 1990, it became the national anthem for the reunited Germany<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 51 (48 cultural, 3 natural)<br>
+_selected World Heritage Site locales_: Museumsinsel (Museum Island), Berlin (c); Palaces and Parks of Potsdam and Berlin (c); Speyer Cathedral (c); Upper Middle Rhine Valley (c); Aachen Cathedral (c); Bauhaus and its Sites in Weimar, Dessau, and Bernau (c); Caves and Ice Age Art in the Swabian Jura (c); Mines of Rammelsberg, Historic Town of Goslar, and Upper Harz Water Management System (c); Roman Monuments, Cathedral of St. Peter, and Church of Our Lady in Trier (c); Hanseatic City of Lübeck (c); Old Town of Regensburg (c)<br>
 
 ## Economy
 

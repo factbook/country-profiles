@@ -140,7 +140,7 @@ _urban population_: 17.7% of total population (2022)<br>
 _rate of urbanization_: 3.07% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.170 million KIGALI (capital) (2021)<br>
+1.208 million KIGALI (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 23.1% of population<br>
 _unimproved: total_: total: 20.5% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.5% (2018)<br>
+6.4% (2019)<br>
 
 **Physicians density**<br>
 0.13 physicians/1,000 population (2018)<br>
@@ -706,6 +706,6 @@ the RDF's inventory includes mostly Soviet-era and older Western - largely Frenc
 <p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; fighting among ethnic groups - loosely associated political rebels, armed gangs, and various government forces in Great Lakes region transcending the boundaries of Burundi, Democratic Republic of the Congo (DROC), Rwanda, and Uganda - abated substantially from a decade ago due largely to UN peacekeeping, international mediation, and efforts by local governments to create civil societies; nonetheless, 57,000 Rwandan refugees still reside in 21 African states, including Zambia, Gabon, and 20,000 who fled to Burundi in 2005 and 2006 to escape drought and recriminations from traditional courts investigating the 1994 massacres; the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,116 (Democratic Republic of the Congo), 47,884 (Burundi) (2021)<br>
+_refugees (country of origin)_: 77,116 (Democratic Republic of the Congo) (2021); 47,851 (Burundi) (2022)<br>
 _stateless persons_: 9,500 (mid-year 2021)<br>
 

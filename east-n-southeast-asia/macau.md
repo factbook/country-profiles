@@ -522,11 +522,11 @@ _subscriptions per 100 inhabitants_: 19.55 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 2,181,194 (2018)<br>
-_subscriptions per 100 inhabitants_: 345.3 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 328.8 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Macau&rsquo;s sophisticated telecom market boasts one of the highest mobile penetration rates in the world due to high tourism; liberalized market is managed by independent regulator with effective competition in the mobile market; modern communication facilities maintained for domestic and international services; high mobile subscriber numbers and mobile penetration; offering 4G, LTE services and first phase of 5G network rollout; possible synchronizing with neighboring regions; Macau's smart city project spans areas of transportation, medical services, tourism, and e-government; importer of broadcast and video equipment from China (2020)<br>
-_domestic_: fixed-line 20 per 100 and mobile-cellular 345 per 100 persons (2019)<br>
+_domestic_: fixed-line nearly 20 per 100 and mobile-cellular roughly 329 per 100 persons (2019)<br>
 _international_: country code - 853; landing point for the SEA-ME-WE-3 submarine cable network that provides links to Asia, Africa, Australia, the Middle East, and Europe; HF radiotelephone communication facility; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

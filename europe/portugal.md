@@ -131,7 +131,7 @@ _urban population_: 67.4% of total population (2022)<br>
 _rate of urbanization_: 0.44% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.972 million LISBON (capital), 1.316 million Porto (2021)<br>
+2.986 million LISBON (capital), 1.320 million Porto (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-9.4% (2018)<br>
+9.5% (2019)<br>
 
 **Physicians density**<br>
 5.12 physicians/1,000 population (2017)<br>
@@ -371,6 +371,10 @@ armillary sphere (a spherical astrolabe modeling objects in the sky and represen
 _name_: "A Portugesa" (The Song of the Portuguese)<br>
 _lyrics/music_: Henrique LOPES DE MENDOCA/Alfredo KEIL<br>
 <strong>note:</strong> adopted 1910; "A Portuguesa" was originally written to protest the Portuguese monarchy's acquiescence to the 1890 British ultimatum forcing Portugal to give up areas of Africa; the lyrics refer to the "insult" that resulted from the event<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 17 (16 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Historic Évora (c); Central Zone of the Town of Angra do Heroismo in the Azores (c); Cultural Landscape of Sintra (c); Laurisilva of Madeira (n); Historic Guimarães (c); Monastery of the Hieronymites and Tower of Belém in Lisbon (c); Convent of Christ in Tomar (c); Prehistoric Rock Art Sites in the Côa Valley and Siega Verde (c); University of Coimbra – Alta and Sofia (c); Sanctuary of Bom Jesus do Monte in Braga (c)<br>
 
 ## Economy
 

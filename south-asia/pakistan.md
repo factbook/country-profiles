@@ -140,7 +140,7 @@ _urban population_: 37.7% of total population (2022)<br>
 _rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-16.459 million Karachi, 13.095 million Lahore, 3.542 million Faisalabad, 2.281 million Rawalpindi, 2.290 million Gujranwala, 1.164 million ISLAMABAD (capital) (2021)<br>
+16.840 million Karachi, 13.542 million Lahore, 3.625 million Faisalabad, 2.353 million Gujranwala, 2.343 million Peshawar, 1.198 million ISLAMABAD (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 10.1% of population<br>
 _unimproved: total_: total: 8.5% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.2% (2018)<br>
+3.4% (2019)<br>
 
 **Physicians density**<br>
 0.98 physicians/1,000 population (2018)<br>
@@ -405,6 +405,10 @@ five-pointed star between the horns of a waxing crescent moon, jasmine; national
 _name_: "Qaumi Tarana" (National Anthem)<br>
 _lyrics/music_: Abu-Al-Asar Hafeez JULLANDHURI/Ahmed Ghulamali CHAGLA<br>
 <strong>note:</strong> adopted 1954; also known as "Pak sarzamin shad bad" (Blessed Be the Sacred Land)<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 6 (all cultural)<br>
+_selected World Heritage Site locales_: Archaeological Ruins at Moenjodaro; Buddhist Ruins of Takht-i-Bahi; Taxila; Fort and Shalamar Gardens in Lahore; Historical Monuments at Makli, Thatta; Rohtas Fort<br>
 
 ## Economy
 

@@ -132,7 +132,7 @@ _urban population_: 58.8% of total population (2022)<br>
 _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.844 million PORT-AU-PRINCE (capital) (2021)<br>
+2.915 million PORT-AU-PRINCE (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.01 male(s)/female<br>
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 44.6% of population<br>
 _unimproved: total_: total: 25% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.7% (2018)<br>
+4.7% (2019)<br>
 
 **Physicians density**<br>
 0.23 physicians/1,000 population (2018)<br>
@@ -371,6 +371,10 @@ Hispaniolan trogon (bird), hibiscus flower; national colors: blue, red<br>
 _name_: "La Dessalinienne" (The Dessalines Song)<br>
 _lyrics/music_: Justin LHERISSON/Nicolas GEFFRARD<br>
 <strong>note:</strong> adopted 1904; named for Jean-Jacques DESSALINES, a leader in the Haitian Revolution and first ruler of an independent Haiti<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: National History Park &ndash; Citadel, Sans Souci, Ramiers<br>
 
 ## Economy
 

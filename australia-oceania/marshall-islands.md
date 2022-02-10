@@ -166,7 +166,7 @@ _unimproved: rural_: rural: 0.3% of population<br>
 _unimproved: total_: total: 0.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-17.6% (2018)<br>
+16.3% (2019)<br>
 
 **Physicians density**<br>
 0.42 physicians/1,000 population (2012)<br>
@@ -363,6 +363,10 @@ a 24-rayed star; national colors: blue, white, orange<br>
 _name_: Forever Marshall Islands<br>
 _lyrics/music_: Amata KABUA<br>
 <strong>note:</strong> adopted 1981<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Bikini Atoll Nuclear Test Site<br>
 
 ## Economy
 
@@ -567,7 +571,7 @@ _subscriptions per 100 inhabitants_: 27.56 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: some telecom infrastructure improvements made in recent years; modern services include fiber optic cable service, cellular, Internet, international calling, caller ID, and leased data circuits;&nbsp;the US Government, World Bank, UN and International Telecommunication Union (ITU), have aided in&nbsp;improvements and monetary aid to the islands telecom; mobile penetrations is around 30%; radio communication is&nbsp;especially&nbsp;vital to remote islands (2018)<br>
-_domestic_: Majuro Atoll and Ebeye and Kwajalein islands have regular, seven-digit, direct-dial telephones; other islands interconnected by high frequency radiotelephone (used mostly for government purposes) and mini-satellite telephones; fixed-line 4 per 100 persons and mobile-cellular is 28 per 100 persons (2019)<br>
+_domestic_: Majuro Atoll and Ebeye and Kwajalein islands have regular, seven-digit, direct-dial telephones; other islands interconnected by high frequency radiotelephone (used mostly for government purposes) and mini-satellite telephones; fixed-line roughly 4 per 100 persons and mobile-cellular is nearly 28 per 100 persons (2019)<br>
 _international_: country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

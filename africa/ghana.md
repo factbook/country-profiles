@@ -140,7 +140,7 @@ _urban population_: 58.6% of total population (2022)<br>
 _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.390 million Kumasi, 2.557 million ACCRA (capital), 991,000 Sekondi Takoradi (2021)<br>
+3.630 million Kumasi, 2.605 million ACCRA (capital), 1.035 million Sekondi Takoradi (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 19.4% of population<br>
 _unimproved: total_: total: 10.1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.5% (2018)<br>
+3.4% (2019)<br>
 
 **Physicians density**<br>
 0.14 physicians/1,000 population (2017)<br>
@@ -396,6 +396,10 @@ black star, golden eagle; national colors: red, yellow, green, black<br>
 _name_: God Bless Our Homeland Ghana<br>
 _lyrics/music_: unknown/Philip GBEHO<br>
 <strong>note:</strong> music adopted 1957, lyrics adopted 1966; the lyrics were changed twice, in 1960 when a republic was declared and after a 1966 coup<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both cultural)<br>
+_selected World Heritage Site locales_: Forts and Castles, Volta, Greater Accra, Central and Western Regions; Asante Traditional Buildings<br>
 
 ## Economy
 

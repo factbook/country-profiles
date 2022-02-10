@@ -133,7 +133,7 @@ _urban population_: 98.2% of total population (2022)<br>
 _rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.096 million BRUSSELS (capital), 1.048 million Antwerp (2021)<br>
+2.110 million BRUSSELS (capital), 1.053 million Antwerp (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-10.3% (2018)<br>
+10.7% (2019)<br>
 
 **Physicians density**<br>
 3.07 physicians/1,000 population (2017)<br>
@@ -367,6 +367,10 @@ golden rampant lion; national colors: red, black, yellow<br>
 _name_: "La Brabanconne" (The Song of Brabant)<br>
 _lyrics/music_: Louis-Alexandre DECHET[French] Victor CEULEMANS [Dutch]/Francois VAN CAMPENHOUT<br>
 <strong>note:</strong> adopted 1830; according to legend, Louis-Alexandre DECHET, an actor at the theater in which the revolution against the Netherlands began, wrote the lyrics with a group of young people in a Brussels cafe<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 15 (14 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Belfries of Belgium (c); Historic Brugge (c); The Grand Place, Brussels (c); Major Town Houses of Victor Horta (c); Notre-Dame Cathedral, Tournai (c); Spa, Liege (c); Primeval Beech Forests - Sonian Wood (n); Stoclet Palace (c)<br>
 
 ## Economy
 

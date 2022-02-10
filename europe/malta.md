@@ -170,7 +170,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-9% (2018)<br>
+8.2% (2019)<br>
 
 **Physicians density**<br>
 2.86 physicians/1,000 population (2015)<br>
@@ -362,6 +362,10 @@ Maltese eight-pointed cross; national colors: red, white<br>
 _name_: "L-Innu Malti" (The Maltese Anthem)<br>
 _lyrics/music_: Dun Karm PSAILA/Robert SAMMUT<br>
 <strong>note:</strong> adopted 1945; written in the form of a prayer<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (all cultural)<br>
+_selected World Heritage Site locales_: City of Valletta, Ħal Saflieni Hypogeum, Megalithic Temples of Malta<br>
 
 ## Economy
 
@@ -583,15 +587,15 @@ _electrification - total population_: 100% (2020)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 256,838<br>
-_subscriptions per 100 inhabitants_: 56.66 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 59 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 634,386<br>
-_subscriptions per 100 inhabitants_: 139.94 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 143 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: blessed with advantageous topography and tech-savvy consumers, Malta has one of the most advanced telecom systems in Europe, with high penetration of mobile and broadband; expansion of e-commerce; government and regulator measures in 2020 reduced consumer prices and allowed extensive FttP network and investment in LTE and fiber thru 2023; operator delivered fiber network to public schools in 2020; launch of 5G network by 2020; submarine cable to France and Egypt in progress (2020)<br>
-_domestic_: fixed-line 58 per 100&nbsp; persons and mobile-cellular subscribership 144 per 100 persons; automatic system featuring submarine cable and microwave radio relay between islands (2019)<br>
+_domestic_: fixed-line approximately 59 per 100&nbsp; persons and mobile-cellular subscribership 143 per 100 persons; automatic system featuring submarine cable and microwave radio relay between islands (2020)<br>
 _international_: country code - 356; landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine cable connections to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -606,8 +610,8 @@ _total_: 380,300 (2021 est.)<br>
 _percent of population_: 86.86% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 202,513<br>
-_subscriptions per 100 inhabitants_: 44.67 (2019 est.)<br>
+_total_: 213,419 (2020)<br>
+_subscriptions per 100 inhabitants_: 48 (2020 est.)<br>
 
 ## Transportation
 
@@ -651,11 +655,11 @@ _container port(s) (TEUs)_: Marsaxlokk (2,722,889) (2019)<br>
 Armed Forces of Malta (AFM, includes land, maritime, and air elements, plus a Volunteer Reserve Force) (2021)<br>
 
 **Military expenditures**<br>
+0.5% of GDP (2021 est.)<br>
 0.6% of GDP (2020)<br>
 0.5% of GDP (2019)<br>
 0.5% of GDP (2018)<br>
 0.5% of GDP (2017)<br>
-0.5% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of Malta have approximately 2,000 active duty personnel (2021)<br>

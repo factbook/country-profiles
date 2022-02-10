@@ -131,7 +131,7 @@ _urban population_: 39.2% of total population (2022)<br>
 _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 
 **Major urban areas - population**<br>
-3.075 million SANAA (capital), 1.012 million Aden (2021)<br>
+3.182 million SANAA (capital), 1.045 million Aden (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -174,7 +174,7 @@ _unimproved: rural_: rural: 12.4% of population<br>
 _unimproved: total_: total: 8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.6% (2015)<br>
+4.3% (2015)<br>
 
 **Physicians density**<br>
 0.53 physicians/1,000 population (2014)<br>
@@ -384,6 +384,10 @@ golden eagle; national colors: red, white, black<br>
 _name_: "al-qumhuriyatu l-muttahida" (United Republic)<br>
 _lyrics/music_: Abdullah Abdulwahab NOA'MAN/Ayyoab Tarish ABSI<br>
 <strong>note:</strong> adopted 1990; the music first served as the anthem for South Yemen before unification with North Yemen in 1990<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Old Walled City of Shibam (c), Old City of Sana'a (c), Historic Town of Zabid (c), Socotra Archipelago (n)<br>
 
 ## Economy
 

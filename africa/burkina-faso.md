@@ -136,7 +136,7 @@ _urban population_: 31.9% of total population (2022)<br>
 _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.915 million OUAGADOUGOU (capital), 1.020 million Bobo-Dioulasso (2021)<br>
+3.056 million OUAGADOUGOU (capital), 1.074 million Bobo-Dioulasso (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 32.1% of population<br>
 _unimproved: total_: total: 24.4% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.6% (2018)<br>
+5.5% (2019)<br>
 
 **Physicians density**<br>
 0.09 physicians/1,000 population (2017)<br>
@@ -398,6 +398,10 @@ white stallion; national colors: red, yellow, green<br>
 _name_: "Le Ditanye" (Anthem of Victory)<br>
 _lyrics/music_: Thomas SANKARA<br>
 <strong>note:</strong> adopted 1974; also known as "Une Seule Nuit" (One Single Night); written by the country's former president, an avid guitar player<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Ruins of Lorop&eacute;ni (c), Ancient Ferrous Metallurgy Sites (c), W-Arly-Pendjari Complex (n)<br>
 
 ## Economy
 

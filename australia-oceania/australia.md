@@ -145,7 +145,7 @@ _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island<br>
 
 **Major urban areas - population**<br>
-5,061 million Melbourne, 4.992 million Sydney, 2.439 million Brisbane, 2.067 million Perth, 1.345 million Adelaide, 462,000 CANBERRA (capital) (2021)<br>
+5,151 million Melbourne, 5.057 million Sydney, 2.472 million Brisbane, 2.093 million Perth, 1.356 million Adelaide, 467,000 CANBERRA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -188,7 +188,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-9.3% (2018)<br>
+9.9% (2019)<br>
 
 **Physicians density**<br>
 3.68 physicians/1,000 population (2017)<br>
@@ -390,6 +390,10 @@ Commonwealth Star (seven-pointed Star of Federation), golden wattle tree (Acacia
 _name_: Advance Australia Fair<br>
 _lyrics/music_: Peter Dodds McCORMICK<br>
 <strong>note:</strong> adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 20 (4 cultural, 12 natural, 4 mixed); note - includes one site on Heard Island and McDonald Islands<br>
+_selected World Heritage Site locales_: Great Barrier Reef (n), Greater Blue Mountains Area (n), Fraser Island (n), Gondwana Rainforests (n), Lord Howe Island Group (n), Royal Exhibition Building and Carlton Gardens (c), Shark Bay (n), Sydney Opera House (c), Uluṟu-Kata Tjuṯa National Park (m), Kakadu National Park (m)<br>
 
 ## Economy
 
@@ -697,8 +701,8 @@ _dry bulk cargo port(s)_: Dampier (iron ore), Dalrymple Bay (coal), Hay Point (c
 Australian Defense Force (ADF): Australian Army (includes Special Operations Command), Royal Australian Navy (includes Naval Aviation Force), Royal Australian Air Force (2021)<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2021 est.)<br>
-2.2% of GDP (2020)<br>
+2.2% of GDP (2021 est.)<br>
+2.1% of GDP (2020)<br>
 1.9% of GDP (2019)<br>
 1.9% of GDP (2018)<br>
 2% of GDP (2017)<br>

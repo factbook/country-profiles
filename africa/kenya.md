@@ -143,7 +143,7 @@ _urban population_: 29% of total population (2022)<br>
 _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-4.922 million NAIROBI (capital), 1.341 million Mombassa (2021)<br>
+5.119 million NAIROBI (capital), 1.389 million Mombassa (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 39.6% of population<br>
 _unimproved: total_: total: 32% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.2% (2018)<br>
+4.6% (2019)<br>
 
 **Physicians density**<br>
 0.16 physicians/1,000 population (2018)<br>
@@ -400,6 +400,10 @@ lion; national colors: black, red, green, white<br>
 _name_: "Ee Mungu Nguvu Yetu" (Oh God of All Creation)<br>
 _lyrics/music_: Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI, and George W. SENOGA-ZAKE/traditional, adapted by Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI, and George W. SENOGA-ZAKE<br>
 <strong>note:</strong> adopted 1963; based on a traditional Kenyan folk song<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 7 (4 cultural, 3 natural)<br>
+_selected World Heritage Site locales_: Lake Turkana National Parks (n); Mount Kenya National Park (n); Lamu Old Town (c); Sacred Mijikenda Kaya Forests (c); Fort Jesus, Mombasa (c); Kenya Lake System in the Great Rift Valley (n); Thimlich Ohinga Archaeological Site (c)<br>
 
 ## Economy
 

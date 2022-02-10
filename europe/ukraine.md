@@ -138,7 +138,7 @@ _urban population_: 69.9% of total population (2022)<br>
 _rate of urbanization_: -0.27% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.001 million KYIV (capital), 1.426 million Kharkiv, 1.009 million Odesa, 952,000 Dnipropetrovsk, 899,000 Donetsk (2021)<br>
+3.010 million KYIV (capital), 1.423 million Kharkiv, 1.008 million Odesa, 952,000 Dnipropetrovsk, 893,000 Donetsk (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.7% (2018)<br>
+7.1% (2019)<br>
 
 **Physicians density**<br>
 2.99 physicians/1,000 population (2014)<br>
@@ -386,6 +386,10 @@ tryzub (trident); national colors: blue, yellow<br>
 _name_: "Shche ne vmerla Ukraina" (Ukraine Has Not Yet Perished)<br>
 _lyrics/music_: Paul CHUBYNSKYI/Mikhail VERBYTSKYI<br>
 <strong>note:</strong> music adopted 1991, lyrics adopted 2003; song first performed in 1864 at the Ukraine Theatre in Lviv; the lyrics, originally written in 1862, were revised in 2003<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Kyiv: Saint Sophia Cathedral and Related Monastic Buildings, Kyiv Pechersk Lavra (c); Lviv Historic Center (c); Residence of Bukovinian and Dalmatian Metropolitans, Chernivtsi (c); Ancient City of Tauric Chersonese, Sevastopol (c); Wooden Tserkvas of the Carpathian Region (c); Ancient and Primeval Beech Forests of the Carpathians (n); Struve Geodetic Arc (c)<br>
 
 ## Economy
 
@@ -707,7 +711,8 @@ Armed Forces of Ukraine (Zbroyni Syly Ukrayiny, ZSU): Ground Forces (Sukhoputni 
 3.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 200,000 active troops (150,000 Army, including Airborne/Air Assault Forces; 12,000 Navy; 40,000 Air Force); approximately 50,000 National Guard (2021)<br>
+approximately 200,000 active troops (150,000 Army, including Airborne/Air Assault Forces; 12,000 Navy; 40,000 Air Force); approximately 50,000 National Guard (2021)<br><br>note - in early 2022, the Ukrainian Government announced plans to add 100,000 personnel to the armed forces over three years <br>
+note - in early 2022, the Ukrainian Government announced plans to add 100,000 personnel to the armed forces over three years&nbsp;<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Ukrainian military is equipped mostly with older Russian and Soviet-era weapons systems; since 2010, it has imported limited quantities of weapons from several European countries, as well as Canada, the US, and the United Arab Emirates; Ukraine has a broad defense industry capable of building Soviet-era land systems and maintaining and upgrading Soviet-era combat aircraft, as well as missile and air defense systems (2021)<br>
@@ -718,7 +723,7 @@ note - Ukraine contributes about 500 troops to the Lithuania, Poland, and Ukrain
 
 **Military service age and obligation**<br>
 conscription abolished in 2012, but reintroduced in 2014; 20-27 years of age for compulsory military service; conscript service obligation is 12 months (2021)<br>
-note(s) - the Ukrainian military has a mix of conscripts (14,000 conscripted in 2021) and professional soldiers on contracts; by law, conscripts cannot serve on the frontlines, but have the opportunity to sign short or long-term contracts upon the expiration of their terms of service; women can volunteer and have served in the Ukrainian armed forces since 1993; as of 2021, women comprised approximately 15-20% of the military; in late 2021, the Ukrainian Government began requiring women between 18 and 60 who are fit for military service and work in a broad range of professions to register with Ukraine's armed forces<br>
+note(s) - in early 2022, the Ukrainian Government announced plans to phase out obligatory military service over a period of 3 years; the Ukrainian military has a mix of conscripts (14,000 conscripted in 2021) and professional soldiers on contracts; by law, conscripts cannot serve on the frontlines, but have the opportunity to sign short or long-term contracts upon the expiration of their terms of service; women can volunteer and have served in the Ukrainian armed forces since 1993; as of 2021, women comprised approximately 15-20% of the military; in late 2021, the Ukrainian Government began requiring women between 18 and 60 who are fit for military service and work in a broad range of professions to register with Ukraine's armed forces<br>
  <br>
 
 **Military - note**<br>

@@ -155,7 +155,7 @@ _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.1% (2018)<br>
+6.4% (2019)<br>
 
 **Physicians density**<br>
 6.11 physicians/1,000 population (2014)<br>
@@ -324,6 +324,10 @@ three peaks each displaying a tower; national colors: white, blue<br>
 _name_: "Inno Nazionale della Repubblica" (National Anthem of the Republic)<br>
 _lyrics/music_: no lyrics/Federico CONSOLO<br>
 <strong>note:</strong> adopted 1894; the music for the lyric-less anthem is based on a 10th century chorale piece<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: San Marino Historic Center and Mount Titano<br>
 
 ## Economy
 

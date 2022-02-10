@@ -135,7 +135,7 @@ _urban population_: 83.8% of total population (2022)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.389 million SANTO DOMINGO (capital) (2021)<br>
+3.458 million SANTO DOMINGO (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 8% of population<br>
 _unimproved: total_: total: 3.3% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.7% (2018)<br>
+5.9% (2019)<br>
 
 **Physicians density**<br>
 1.53 physicians/1,000 population (2011)<br>
@@ -384,6 +384,10 @@ palmchat (bird); national colors: red, white, blue<br>
 _name_: "Himno Nacional" (National Anthem)<br>
 _lyrics/music_: Emilio PRUD'HOMME/Jose REYES<br>
 <strong>note:</strong> adopted 1934; also known as "Quisqueyanos valientes" (Valient Sons of Quisqueye); the anthem never refers to the people as Dominican but rather calls them "Quisqueyanos," a reference to the indigenous name of the island<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Colonial City of Santo Domingo<br>
 
 ## Economy
 

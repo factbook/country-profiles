@@ -138,7 +138,7 @@ _urban population_: 60.1% of total population (2022)<br>
 _rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.790 million WARSAW (capital), 769,000 Krakow (2021)<br>
+1.795 million WARSAW (capital), 770,000 Krakow (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.3% (2018)<br>
+6.5% (2019)<br>
 
 **Physicians density**<br>
 2.38 physicians/1,000 population (2017)<br>
@@ -395,6 +395,10 @@ white crowned eagle; national colors: white, red<br>
 _name_: "Mazurek Dabrowskiego" (Dabrowski's Mazurka)<br>
 _lyrics/music_: Jozef WYBICKI/traditional<br>
 <strong>note:</strong> adopted 1927; the anthem, commonly known as "Jeszcze Polska nie zginela" (Poland Has Not Yet Perished), was written in 1797; the lyrics resonate strongly with Poles because they reflect the numerous occasions in which the nation's lands have been occupied<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 17 (15 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Historic Krakow (c); Historic Warsaw (c); Medieval Torun (c); Wooden Tserkvas of the Carpathian Region (c); Castle of the Teutonic Order in Malbork (c); Wieliczka and Bochnia Royal Salt Mines (c); Auschwitz Birkenau Concentration Camp (c); Ancient and Primeval Beech Forests of the Carpathians (n); Białowieza Forest (n); Old City of Zamość (c)<br>
 
 ## Economy
 

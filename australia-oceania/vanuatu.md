@@ -168,7 +168,7 @@ _unimproved: rural_: rural: 10.3% of population<br>
 _unimproved: total_: total: 7.7% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.4% (2018)<br>
+3.4% (2019)<br>
 
 **Physicians density**<br>
 0.17 physicians/1,000 population (2016)<br>
@@ -351,6 +351,10 @@ boar's tusk with crossed fern fronds; national colors: red, black, green, yellow
 _name_: "Yumi, Yumi, Yumi" (We, We, We)<br>
 _lyrics/music_: Francois Vincent AYSSAV<br>
 <strong>note:</strong> adopted 1980; the anthem is written in Bislama, a Creole language that mixes Pidgin English and French<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Chief Roi Mata&rsquo;s Domain<br>
 
 ## Economy
 

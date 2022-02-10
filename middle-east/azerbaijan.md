@@ -135,7 +135,7 @@ _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Nagorno-Karabakh<br>
 
 **Major urban areas - population**<br>
-2.371 million BAKU (capital) (2021)<br>
+2.401 million BAKU (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 12.6% of population<br>
 _unimproved: total_: total: 4.9% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.5% (2018)<br>
+4% (2019)<br>
 
 **Physicians density**<br>
 3.45 physicians/1,000 population (2014)<br>
@@ -376,6 +376,10 @@ flames of fire; national colors: blue, red, green<br>
 _name_: "Azerbaijan Marsi" (March of Azerbaijan)<br>
 _lyrics/music_: Ahmed JAVAD/Uzeyir HAJIBEYOV<br>
 <strong>note:</strong> adopted 1992; although originally written in 1919 during a brief period of independence, "Azerbaijan Marsi" did not become the official anthem until after the dissolution of the Soviet Union<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (all cultural)<br>
+_selected World Heritage Site locales_: Walled City of Baku, Gobustan Rock Art Cultural Landscape, Historic Center of Sheki<br>
 
 ## Economy
 

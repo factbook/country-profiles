@@ -171,7 +171,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.8% (2018)<br>
+6.2% (2019)<br>
 
 **Physicians density**<br>
 2.6 physicians/1,000 population (2019)<br>
@@ -363,6 +363,10 @@ dodo bird, Trochetia Boutoniana flower; national colors: red, blue, yellow, gree
 _name_: Motherland<br>
 _lyrics/music_: Jean Georges PROSPER/Philippe GENTIL<br>
 <strong>note:</strong> adopted 1968<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both cultural)<br>
+_selected World Heritage Site locales_: Aapravasi Ghat, Le Morne Cultural Landscape<br>
 
 ## Economy
 
@@ -583,11 +587,11 @@ _subscriptions per 100 inhabitants_: 37.64 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1,912,900<br>
-_subscriptions per 100 inhabitants_: 150.4 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 150.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Mauritius is successfully pursuing a policy to make telecommunications a pillar of economic growth, and to have a fully digital-based smart infrastructure; the island nation is a pioneer in the telecom sector, with the first market in greater Africa to launch mobile networks and provide 3G, the first in the world to develop a nationwide WiMAX wireless broadband network, and one of the first to launch IPTV; LTE and fiber broadband are nationally available, and the government supports national Wi-Fi; international cable connectivity has improved, increasing bandwidth capacity; submarine cable provides connectivity to South Africa and beyond; major importer of broadcasting equipment from China (2020)<br>
-_domestic_: fixed-line teledensity 34 per 100 persons and mobile-cellular services teledensity approaching 151 per 100 persons (2019)<br>
+_domestic_: fixed-line teledensity over 37 per 100 persons and mobile-cellular services teledensity roughly 150 per 100 persons (2020)<br>
 _international_: country code - 230; landing points for the SAFE, MARS, IOX Cable System, METISS&nbsp;and LION submarine cable system that provides links to Asia, Africa, Southeast Asia, Indian Ocean Islands of Reunion, Madagascar, and Mauritius; satellite earth station - 1 Intelsat (Indian Ocean); new microwave link to Reunion; HF radiotelephone links to several countries (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

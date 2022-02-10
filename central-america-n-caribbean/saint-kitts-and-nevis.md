@@ -163,7 +163,7 @@ _unimproved: rural_: rural: 1.7% of population<br>
 _unimproved: total_: total: 1.7% of population (2015 est.)<br>
 
 **Current Health Expenditure**<br>
-5.3% (2017)<br>
+5.4% (2019)<br>
 
 **Physicians density**<br>
 2.68 physicians/1,000 population (2015)<br>
@@ -336,6 +336,10 @@ brown pelican, royal poinciana (flamboyant) tree; national colors: green, yellow
 _name_: Oh Land of Beauty!<br>
 _lyrics/music_: Kenrick Anderson GEORGES<br>
 <strong>note:</strong> adopted 1983<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br>
 
 ## Economy
 

@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 3.1% of population<br>
 _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.9% (2018)<br>
+6.1% (2019)<br>
 
 **Physicians density**<br>
 0.53 physicians/1,000 population (2016)<br>
@@ -391,6 +391,10 @@ zebra; national colors: blue, white, black<br>
 _name_: "Fatshe leno la rona" (Our Land)<br>
 _lyrics/music_: Kgalemang Tumedisco MOTSETE<br>
 <strong>note:</strong> adopted 1966<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Tsodilo Hills (c), Okavango Delta (n)<br>
 
 ## Economy
 

@@ -135,7 +135,7 @@ _urban population_: 59.6% of total population (2022)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.073 million MANAGUA (capital) (2021)<br>
+1.083 million MANAGUA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 37.4% of population<br>
 _unimproved: total_: total: 16.9% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8.6% (2018)<br>
+8.4% (2019)<br>
 
 **Physicians density**<br>
 0.98 physicians/1,000 population (2018)<br>
@@ -377,6 +377,10 @@ turquoise-browed motmot (bird); national colors: blue, white<br>
 _name_: "Salve a ti, Nicaragua" (Hail to Thee, Nicaragua)<br>
 _lyrics/music_: Salomon Ibarra MAYORGA/traditional, arranged by Luis Abraham DELGADILLO<br>
 <strong>note:</strong> although only officially adopted in 1971, the music was approved in 1918 and the lyrics in 1939; the tune, originally from Spain, was used as an anthem for Nicaragua from the 1830s until 1876<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both cultural)<br>
+_selected World Heritage Site locales_: Ruins of Le&oacute;n Viejo, Le&oacute;n Cathedral<br>
 
 ## Economy
 

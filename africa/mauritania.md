@@ -142,7 +142,7 @@ _urban population_: 56.9% of total population (2022)<br>
 _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.372 million NOUAKCHOTT (capital) (2021)<br>
+1.432 million NOUAKCHOTT (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 31.6% of population<br>
 _unimproved: total_: total: 15.6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.6% (2018)<br>
+3.3% (2019)<br>
 
 **Physicians density**<br>
 0.19 physicians/1,000 population (2018)<br>
@@ -397,6 +397,10 @@ five-pointed star between the horns of a horizontal crescent moon; national colo
 _name_: "Hymne National de la Republique Islamique de Mauritanie" (National Anthem of the Islamic Republic of Mauritania)<br>
 _lyrics/music_: Baba Ould CHEIKH/traditional, arranged by Tolia NIKIPROWETZKY<br>
 <strong>note:</strong> adopted 1960; the unique rhythm of the Mauritanian anthem makes it particularly challenging to sing; Mauritania in November 2017 adopted a new national anthem, "Bilada-l ubati-l hudati-l kiram" (The Country of Fatherhood is the Honorable Gift) composed by Rageh Daoud (sound file of the new anthem is forthcoming)<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Banc d'Arguin National Park (n); Ancient Ksour (Fortified Villages) of Ouadane, Chinguetti, Tichitt, and Oualata (c)<br>
 
 ## Economy
 
@@ -623,7 +627,7 @@ _subscriptions per 100 inhabitants_: 106.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Mauritania&rsquo;s small population and low economic output limit sustained growth; transparency and tax burdens hinder foreign investment; World Bank and European Investment Bank support regulations to promote fixed-line broadband, improvement of the national backbone network, and connectivity to international cables; limited system of cable and open-wire lines, mobile-cellular services expanding though monopolies, and little stimulus for competition; 3G penetration high yet little development in LTE; mobile broadband access speeds are low; importer of broadcasting equipment from UAE (2020)<br>
-_domestic_: fixed-line teledensity 1 per 100 persons; mobile-cellular network coverage extends mainly to urban areas with a teledensity of roughly 104 per 100 persons; mostly cable and open-wire lines; a domestic satellite telecommunications system links Nouakchott with regional capitals (2019)<br>
+_domestic_: fixed-line teledensity roughly 1 per 100 persons; mobile-cellular network coverage extends mainly to urban areas with a teledensity of roughly 106 per 100 persons; mostly cable and open-wire lines; a domestic satellite telecommunications system links Nouakchott with regional capitals (2020)<br>
 _international_: country code - 222; landing point for the ACE submarine cable for connectivity&nbsp;to 19 West African countries and 2 European countries; satellite earth stations - 3 (1 Intelsat - Atlantic Ocean, 2 Arabsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

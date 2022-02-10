@@ -129,7 +129,7 @@ _urban population_: 19% of total population (2022)<br>
 _rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-103,000 Sri Jayewardenepura Kotte (legislative capital) (2018), 619,000 COLOMBO (capital) (2021)<br>
+103,000 Sri Jayewardenepura Kotte (legislative capital) (2018), 626,000 COLOMBO (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 8.6% of population<br>
 _unimproved: total_: total: 7.4% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.8% (2018)<br>
+4.1% (2019)<br>
 
 **Physicians density**<br>
 1 physicians/1,000 population (2018)<br>
@@ -378,6 +378,10 @@ lion, water lily; national colors: maroon, yellow<br>
 _name_: "Sri Lanka Matha" (Mother Sri Lanka)<br>
 _lyrics/music_: Ananda SAMARKONE<br>
 <strong>note:</strong> adopted 1951<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 8 (6 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Ancient City of Polonnaruwa (c), Ancient City of Sigiriya (c), Sacred City of Anuradhapura (c), Old Town of Galle and its Fortifications (c), Sacred City of Kandy (c), Sinharaja Forest Reserve (n), Rangiri Dambulla Cave Temple (c), Central Highlands of Sri Lanka (n)<br>
 
 ## Economy
 

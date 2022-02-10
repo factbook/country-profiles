@@ -146,7 +146,7 @@ _urban population_: 92.3% of total population (2022)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-15.258 million BUENOS AIRES (capital), 1.585 million Cordoba, 1.554 million Rosario, 1.191 million Mendoza, 1 million San Miguel de Tucuman, 894,000 La Plata (2021)<br>
+15.370 million BUENOS AIRES (capital), 1.598 million Cordoba, 1.574 million Rosario, 1.209 million Mendoza, 1.014 million San Miguel de Tucuman, 904,000 La Plata (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.9% of population (2015 est.)<br>
 
 **Current Health Expenditure**<br>
-9.6% (2018)<br>
+9.5% (2019)<br>
 
 **Physicians density**<br>
 3.99 physicians/1,000 population (2017)<br>
@@ -395,6 +395,10 @@ Sun of May (a sun-with-face symbol); national colors: sky blue, white<br>
 _name_: "Himno Nacional Argentino" (Argentine National Anthem)<br>
 _lyrics/music_: Vicente LOPEZ y PLANES/Jose Blas PARERA<br>
 <strong>note:</strong> adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 11 (6 cultural, 5 natural)<br>
+_selected World Heritage Site locales_: Los Glaciares National Park (n), Jesuit Missions of the Guaranis, Iguazú National Park (n), Cueva de las Manos (c), Valdés Península (n), Ischigualasto/Talampaya National Parks (n), Jesuit Block and Estancias of Córdoba (c), Quebrada de Humahuaca (c), Qhapaq Ñan/Andean Road System (c)<br>
 
 ## Economy
 

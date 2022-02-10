@@ -86,7 +86,8 @@ _noun_: Finn(s)<br>
 _adjective_: Finnish<br>
 
 **Ethnic groups**<br>
-Finn, Swede, Russian, Estonian, Romani, Sami<br>
+Finnish, Swedish, Russian, Estonian, Romani, Sami<br>
+<strong>note:</strong> 92% of the population has a Finnish background<br>
 
 **Languages**<br>
 Finnish (official) 86.9%, Swedish (official) 5.2%, Russian 1.5%, other 6.4% (2020 est.)<br>
@@ -133,7 +134,7 @@ _urban population_: 85.7% of total population (2022)<br>
 _rate of urbanization_: 0.42% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.317 million HELSINKI (capital) (2021)<br>
+1.328 million HELSINKI (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -176,7 +177,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-9% (2018)<br>
+9.2% (2019)<br>
 
 **Physicians density**<br>
 3.81 physicians/1,000 population (2016)<br>
@@ -367,6 +368,10 @@ lion; national colors: blue, white<br>
 _name_: "Maamme" (Our Land)<br>
 _lyrics/music_: Johan Ludvig RUNEBERG/Fredrik PACIUS<br>
 <strong>note:</strong> in use since 1848; although never officially adopted by law, the anthem has been popular since it was first sung by a student group in 1848; Estonia's anthem uses the same melody as that of Finland<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Fortress of Suomenlinna (c), Old Rauma (c), Pet&auml;j&auml;vesi Old Church (c), Verla Groundwood and Board Mill (c), Bronze Age Burial Site of Sammallahdenm&auml;ki (c), High Coast / Kvarken Archipelago (n), Struve Geodetic Arc (c)<br>
 
 ## Economy
 
@@ -673,7 +678,7 @@ Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Il
 note - the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>
-2.2% of GDP (2021 est.)<br>
+2.1% of GDP (2021 est.)<br>
 1.53% of GDP (2020)<br>
 1.5% of GDP (2019)<br>
 1.4% of GDP (2018)<br>

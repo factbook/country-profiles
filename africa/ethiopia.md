@@ -145,7 +145,7 @@ _urban population_: 22.7% of total population (2022)<br>
 _rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-5.006 million ADDIS ABABA (capital) (2021)<br>
+5.228 million ADDIS ABABA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -188,7 +188,7 @@ _unimproved: rural_: rural: 38.3% of population<br>
 _unimproved: total_: total: 31.1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.3% (2018)<br>
+3.2% (2019)<br>
 
 **Physicians density**<br>
 0.08 physicians/1,000 population (2018)<br>
@@ -418,6 +418,10 @@ Abyssinian lion (traditional), yellow pentagram with five rays of light on a blu
 _name_: "Whedefit Gesgeshi Woud Enat Ethiopia" (March Forward, Dear Mother Ethiopia)<br>
 _lyrics/music_: DEREJE Melaku Mengesha/SOLOMON Lulu<br>
 <strong>note:</strong> adopted 1992<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 9 (8 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Rock-Hewn Churches, Lalibela (c); Simien National Park (n); Fasil Ghebbi, Gondar Region (c); Axum (c); Lower Valley of the Awash (c); Lower Valley of the Omo (c); Tiya (c); Harar Jugol, the Fortified Historic Town (c); Konso Cultural Landscape (c)<br>
 
 ## Economy
 
@@ -749,7 +753,7 @@ al-Shabaab; IRGC/Qods Force<br>
 <p>Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 383,084 (South Sudan), 218,022 (Somalia), 158,300 (Eritrea), 46,181 (Sudan) (2021)<br>
+_refugees (country of origin)_: 158,300 (Eritrea), 46,181 (Sudan) (2021); 388,737 (South Sudan), 225,877 (Somalia) (2022)<br>
 _IDPs_: 1,990,168 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>

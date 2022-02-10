@@ -138,7 +138,7 @@ _rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Kosovo<br>
 
 **Major urban areas - population**<br>
-1.402 million BELGRADE (capital) (2021)<br>
+1.405 million BELGRADE (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 1% of population<br>
 _unimproved: total_: total: 0.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8.5% (2018)<br>
+8.7% (2019)<br>
 
 **Physicians density**<br>
 3.11 physicians/1,000 population (2016)<br>
@@ -396,6 +396,10 @@ white double-headed eagle; national colors: red, blue, white<br>
 _name_: "Boze pravde" (God of Justice)<br>
 _lyrics/music_: Jovan DORDEVIC/Davorin JENKO<br>
 <strong>note:</strong> adopted 1904; song originally written as part of a play in 1872 and has been used as an anthem by the Serbian people throughout the 20th and 21st centuries<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 4 (all cultural)<br>
+_selected World Heritage Site locales_: Stari Ras and Sopoćani; Studenica Monastery; Gamzigrad-Romuliana, Palace of Galerius; Stećci Medieval Tombstone Graveyards<br>
 
 ## Economy
 
@@ -692,11 +696,11 @@ Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Compone
 note: the Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff<br>
 
 **Military expenditures**<br>
+1.7% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 2.2% of GDP (2019 est.)<br>
 1.6% of GDP (2018 est.)<br>
 1.8% of GDP (2017 est.)<br>
-1.7% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other) (2021)<br>
@@ -723,7 +727,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 _refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 813,549 estimated refugee and migrant arrivals (January 2015-December 2021); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
+<strong>note:</strong> 816,848 estimated refugee and migrant arrivals (January 2015-January 2022); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

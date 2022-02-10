@@ -131,7 +131,7 @@ _urban population_: 59.1% of total population (2022)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-601,000 SKOPJE (capital) (2021)<br>
+606,000 SKOPJE (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 1.1% of population<br>
 _unimproved: total_: total: 0.6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.6% (2018)<br>
+7.3% (2019)<br>
 
 **Physicians density**<br>
 2.87 physicians/1,000 population (2015)<br>
@@ -371,6 +371,10 @@ eight-rayed sun; national colors: red, yellow<br>
 _name_: "Denes nad Makedonija" (Today Over Macedonia)<br>
 _lyrics/music_: Vlado MALESKI/Todor SKALOVSKI<br>
 <strong>note:</strong> written in 1943 and adopted in 1991, the song previously served as the anthem of the Socialist Republic of Macedonia while part of Yugoslavia<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both natural)<br>
+_selected World Heritage Site locales_: Natural and Cultural Heritage of the Ohrid Region, Ancient and Primeval Beech Forests of the Carpathians<br>
 
 ## Economy
 

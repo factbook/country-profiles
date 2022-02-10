@@ -138,7 +138,7 @@ _urban population_: 91.8% of total population (2022)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.182 million AMMAN (capital) (2021)<br>
+2.210 million AMMAN (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -181,7 +181,7 @@ _unimproved: rural_: rural: 2.2% of population<br>
 _unimproved: total_: total: 1.1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.8% (2018)<br>
+7.6% (2019)<br>
 
 **Physicians density**<br>
 2.32 physicians/1,000 population (2017)<br>
@@ -389,6 +389,10 @@ eagle; national colors: black, white, green, red<br>
 _name_: "As-salam al-malaki al-urdoni" (Long Live the King of Jordan)<br>
 _lyrics/music_: Abdul-Mone'm al-RIFAI'/Abdul-Qader al-TANEER<br>
 <strong>note:</strong> adopted 1946; the shortened version of the anthem is used most commonly, while the full version is reserved for special occasions<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 6 (5 cultural, 1 mixed)<br>
+_selected World Heritage Site locales_: Petra (c), Quseir Amra (c), Um er-Rasas (Kastrom Mefa'a) (c), Wadi Rum Protected Area (m), Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas) (c), As-Salt - The Place of Tolerance and Urban Hospitality (c)<br>
 
 ## Economy
 
@@ -720,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>2004 Agreement settles border dispute with Syria pending demarcation</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 672,952 (Syria), 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 673,188 (Syria), 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021)<br>
 _stateless persons_: 63 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

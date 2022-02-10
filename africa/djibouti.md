@@ -134,7 +134,7 @@ _urban population_: 78.4% of total population (2022)<br>
 _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-584,000 DJIBOUTI (capital) (2021)<br>
+591,000 DJIBOUTI (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 40.9% of population<br>
 _unimproved: total_: total: 9.7% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-2.3% (2018)<br>
+1.8% (2019)<br>
 
 **Physicians density**<br>
 0.22 physicians/1,000 population (2014)<br>

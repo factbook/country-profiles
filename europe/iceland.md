@@ -170,7 +170,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8.5% (2018)<br>
+8.6% (2019)<br>
 
 **Physicians density**<br>
 4.08 physicians/1,000 population (2018)<br>
@@ -359,6 +359,10 @@ gyrfalcon; national colors: blue, white, red<br>
 _name_: "Lofsongur" (Song of Praise)<br>
 _lyrics/music_: Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON<br>
 <strong>note:</strong> adopted 1944; also known as "O, Gud vors lands" (O, God of Our Land), the anthem was originally written and performed in 1874<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Thingvellir National Park (c), Surtsey (n), Vatnajökull National Park - Dynamic Nature of Fire and Ice (n)<br>
 
 ## Economy
 

@@ -130,7 +130,7 @@ _urban population_: 42.6% of total population (2022)<br>
 _rate of urbanization_: 3.67% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-998,000 ASMARA (capital) (2021)<br>
+1.035 million ASMARA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 46.7% of population<br>
 _unimproved: total_: total: 42.2% of population (2015 est.)<br>
 
 **Current Health Expenditure**<br>
-4.1% (2018)<br>
+4.5% (2019)<br>
 
 **Physicians density**<br>
 0.06 physicians/1,000 population (2016)<br>
@@ -364,6 +364,10 @@ camel; national colors: green, red, blue<br>
 _name_: "Ertra, Ertra, Ertra" (Eritrea, Eritrea, Eritrea)<br>
 _lyrics/music_: SOLOMON Tsehaye Beraki/Isaac Abraham MEHAREZGI and ARON Tekle Tesfatsion<br>
 <strong>note:</strong> adopted 1993; upon independence from Ethiopia<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Asmara: A Modernist African City<br>
 
 ## Economy
 

@@ -134,7 +134,7 @@ _urban population_: 28% of total population (2022)<br>
 _rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-938,000 DUSHANBE (capital) (2021)<br>
+962,000 DUSHANBE (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 21.4% of population<br>
 _unimproved: total_: total: 16.5% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.2% (2018)<br>
+7.1% (2019)<br>
 
 **Physicians density**<br>
 2.1 physicians/1,000 population (2014)<br>
@@ -380,6 +380,10 @@ crown surmounted by an arc of seven, five-pointed stars; snow leopard; national 
 _name_: "Surudi milli" (National Anthem)<br>
 _lyrics/music_: Gulnazar KELDI/Sulaimon YUDAKOV<br>
 <strong>note:</strong> adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of the anthem from its time as a Soviet republic but adopted new lyrics<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Proto-urban Site of Sarazm (c), Tajik National Park (Mountains of the Pamirs) (n)<br>
 
 ## Economy
 

@@ -132,7 +132,7 @@ _urban population_: 87.5% of total population (2022)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.921 million Dubai, 1.737 million Sharjah, 1.512 million ABU DHABI (capital) (2021)<br>
+2.964 million Dubai, 1.786 million Sharjah, 1.540 million ABU DHABI (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -167,7 +167,7 @@ _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.2% (2018)<br>
+4.3% (2019)<br>
 
 **Physicians density**<br>
 2.53 physicians/1,000 population (2018)<br>
@@ -366,6 +366,10 @@ golden falcon; national colors: green, white, black, red<br>
 _name_: "Nashid al-watani al-imarati" (National Anthem of the UAE)<br>
 _lyrics/music_: AREF Al Sheikh Abdullah Al Hassan/Mohamad Abdel WAHAB<br>
 <strong>note:</strong> music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for the anthem of Tunisia<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud, and Oases Areas)<br>
 
 ## Economy
 

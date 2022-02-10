@@ -135,7 +135,7 @@ _urban population_: 68.9% of total population (2022)<br>
 _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.615 million ULAANBAATAR (capital) (2021)<br>
+1.645 million ULAANBAATAR (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 40.8% of population<br>
 _unimproved: total_: total: 14.6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.8% (2018)<br>
+3.8% (2019)<br>
 
 **Physicians density**<br>
 2.86 physicians/1,000 population (2016)<br>
@@ -380,6 +380,10 @@ soyombo emblem; national colors: red, blue, yellow<br>
 _name_: "Mongol ulsyn toriin duulal" (National Anthem of Mongolia)<br>
 _lyrics/music_: Tsendiin DAMDINSUREN/Bilegiin DAMDINSUREN and Luvsanjamts MURJORJ<br>
 <strong>note:</strong> music adopted 1950, lyrics adopted 2006; lyrics altered on numerous occasions<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Uvs Nuur Basin (n); Orkhon Valley Cultural Landscape (c); Petroglyphic Complexes of the Mongolian Altai (c); Great Burkhan Khaldun Mountain and surrounding sacred landscape (c); Landscapes of Dauria (n)<br>
 
 ## Economy
 
@@ -609,7 +613,7 @@ _subscriptions per 100 inhabitants_: 133.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: liberalized and competitive telecom market; steady growth in mobile broadband, but fixed-line broadband is still an economical option; installation of a fiber-optic network improved broadband and communication services between major urban centers; compared to other Asian countries, Mongolia's growth in telecom is moderate; mobile broadband rate is growing through competition among operators with reasonable tariffs; launch of 4G LTE services by all major operators; South Korean investment in landline and cellular services; partner in China&rsquo;s economic corridor project; import of broadcasting equipment from China (2020)<br>
-_domestic_: very low fixed-line teledensity 12 per 100; there are four mobile-cellular providers and subscribership is increasing with 137 per 100 persons (2019)<br>
+_domestic_: very low fixed-line teledensity of less than 5 per 100; there are four mobile-cellular providers and subscribership is roughly 133 per 100 persons (2020)<br>
 _international_: country code - 976; satellite earth stations - 7 (2016)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

@@ -141,7 +141,7 @@ _urban population_: 16.9% of total population (2022)<br>
 _rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.336 million NIAMEY (capital) (2021)<br>
+1.384 million NIAMEY (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -184,7 +184,7 @@ _unimproved: rural_: rural: 40.8% of population<br>
 _unimproved: total_: total: 34.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.3% (2018)<br>
+5.7% (2019)<br>
 
 **Physicians density**<br>
 0.04 physicians/1,000 population (2016)<br>
@@ -410,6 +410,10 @@ zebu; national colors: orange, white, green<br>
 _name_: "La Nigerienne" (The Nigerien)<br>
 _lyrics/music_: Maurice Albert THIRIET/Robert JACQUET and Nicolas Abel Francois FRIONNET<br>
 <strong>note:</strong> adopted 1961<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Air and T&eacute;n&eacute;r&eacute; Natural Reserves (n), W-Arly-Pendjari Complex (n), Historic Agadez (c)<br>
 
 ## Economy
 
@@ -723,7 +727,7 @@ note(s) - Niger is part of a five-nation anti-jihadist task force known as the G
 has conscription, although it is reportedly not always enforced; 18 is the legal minimum age for compulsory or voluntary military service; enlistees must be Nigerien citizens and unmarried; 2-year service term; women may serve in health care (2021)<br>
 
 **Military - note**<br>
-as of 2021, the FAN was conducting counterinsurgency and counter-terrorism operations against Islamic militants on two fronts; in the Diffa region, the Nigeria-based Boko Haram terrorist group has conducted dozens of attacks on security forces, army bases, and civilians; on Niger&rsquo;s western border with Mali, the Islamic State-West Africa (ISWA) has conducted numerous attacks on security personnel; a series of ISWA attacks on FAN forces near the Malian border in December of 2019 and January of 2020 resulted in the deaths of more than 170 soldiers; terrorist attacks continued throughout 2020 and into 2021 (2021)<br>
+as of 2021, the FAN was conducting counterinsurgency and counter-terrorism operations against Islamic militants on two fronts; in the Diffa region, the Nigeria-based Boko Haram terrorist group has conducted dozens of attacks on security forces, army bases, and civilians; on Niger&rsquo;s western border with Mali, the Islamic State-West Africa (ISWA) has conducted numerous attacks on security personnel; a series of ISWA attacks on FAN forces near the Malian border in December of 2019 and January of 2020 resulted in the deaths of more than 170 soldiers; terrorist attacks continued through 2021 (2021)<br>
 
 ## Terrorism
 

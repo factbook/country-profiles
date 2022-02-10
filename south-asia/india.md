@@ -99,7 +99,7 @@ Indo-Aryan 72%, Dravidian 25%, and other 3% (2000)<br>
 
 **Languages**<br>
 Hindi 43.6%, Bengali 8%, Marathi 6.9%, Telugu 6.7%, Tamil 5.7%, Gujarati 4.6%, Urdu 4.2%, Kannada 3.6%, Odia 3.1%, Malayalam 2.9%, Punjabi 2.7%, Assamese 1.3%, Maithili 1.1%, other 5.6%; note - English enjoys the status of subsidiary official language but is the most important language for national, political, and commercial communication; there are 22 other officially recognized languages: Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Nepali, Odia, Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, Urdu; Hindustani is a popular variant of Hindi/Urdu spoken widely throughout northern India but is not an official language (2011 est.)<br>
-_major-language sample(s)_: <br>विश्व फेसबुक, आधारभूत जानकारी का एक अपरिहार्य स्रोत (Hindi)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>विश्व फ़ैक्टबुक, आधारभूत जानकारी का एक अपरिहार्य स्त्रोत  (Hindi)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%, other and unspecified 2% (2011 est.)<br>
@@ -142,7 +142,7 @@ _urban population_: 35.9% of total population (2022)<br>
 _rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-31.181 million NEW DELHI (capital), 20.668 million Mumbai, 14.974 million Kolkata, 12.765 million Bangalore, 11.235 million Chennai, 10.269 million Hyderabad (2021)<br>
+32.066 million NEW DELHI (capital), 20.961 million Mumbai, 15.134 million Kolkata, 13.193 million Bangalore, 11.503 million Chennai, 10.534 million Hyderabad (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.11 male(s)/female<br>
@@ -185,7 +185,7 @@ _unimproved: rural_: rural: 9% of population<br>
 _unimproved: total_: total: 7.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.5% (2018)<br>
+3% (2019)<br>
 
 **Physicians density**<br>
 0.86 physicians/1,000 population (2018)<br>
@@ -411,6 +411,10 @@ the Lion Capital of Ashoka, which depicts four Asiatic lions standing back to ba
 _name_: "Jana-Gana-Mana" (Thou Art the Ruler of the Minds of All People)<br>
 _lyrics/music_: Rabindranath TAGORE<br>
 <strong>note:</strong> adopted 1950; Rabindranath TAGORE, a Nobel laureate, also wrote Bangladesh's national anthem<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 40 (32 cultural, 7 natural, 1 mixed)<br>
+_selected World Heritage Site locales_: Taj Mahal (c), Red Fort Complex (c), Ellora Caves (c), Hill Forts of Rajasthan (c), Sundarbans National Park (n), Rock Shelters of Bhimbetka (c), Champaner-Pavagadh Archaeological Park (c), Dholavira: A Harappan City (c), Jaipur (c), Mahabodhi Temple Complex at Bodh Gaya (c), Manas Wildlife Sanctuary (n), Nanda Devi and Valley of Flowers National Parks (n)<br>
 
 ## Economy
 
@@ -724,11 +728,11 @@ Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps 
 note - the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (Indian Army)<br>
 
 **Military expenditures**<br>
+2.2% of GDP (2021 est.)<br>
 2.6% of GDP (2020 est.)<br>
 2.4% of GDP (2019)<br>
 2.4% of GDP (2018)<br>
 2.5% of GDP (2017)<br>
-2.5% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 1.45 million active personnel (est. 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2021)<br>

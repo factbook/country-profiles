@@ -150,7 +150,7 @@ _rate of urbanization_: 1.88% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Major urban areas - population**<br>
-3.794 million Casablanca, 1.907 million RABAT (capital), 1.245 million Fes, 1.238 million Tangier, 1.017 million Marrakech, 942,000 Agadir (2021)<br>
+3.840 million Casablanca, 1.932 million RABAT (capital), 1.267 million Fes, 1.238 million Tangier, 1.277 million Marrakech, 960,000 Agadir (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -196,7 +196,7 @@ _unimproved: total_: total: 9% of population (2017 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Current Health Expenditure**<br>
-5.3% (2018)<br>
+5.3% (2019)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Physicians density**<br>
@@ -424,6 +424,10 @@ pentacle symbol, lion; national colors: red, green<br>
 _name_: "Hymne Cherifien" (Hymn of the Sharif)<br>
 _lyrics/music_: Ali Squalli HOUSSAINI/Leo MORGAN<br>
 <strong>note:</strong> music adopted 1956, lyrics adopted 1970<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 9 (all cultural)<br>
+_selected World Heritage Site locales_: Medina of Fez, Medina of Marrakesh, Ksar of Ait-Ben-Haddou, Historic City of Meknes, Archaeological Site of Volubilis, Medina of Tétouan (formerly known as Titawin), Medina of Essaouira (formerly Mogador), Portuguese City of Mazagan (El Jadida), Historic and Modern Rabat<br>
 
 ## Economy
 
@@ -653,7 +657,7 @@ _subscriptions per 100 inhabitants_: 133.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: despite Morocco's economic progress, the country suffers from high unemployment and illiteracy affecting telecom market, particularly in rural areas; national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay; one of the most state-of-the-art markets in Africa; high mobile penetration rates in the region with low cost for broadband Internet access; improvement in LTE reach and capabilities; 5G tests underway; mobile Internet accounts for 93% of all Internet connections; World Bank provided funds for Morocco&rsquo;s digital transformation; government supported digital education during pandemic; submarine cables and satellite provide connectivity to Asia, Africa, the Middle East, Europe, and Australia; importer of broadcasting equipment and video displays from China (2020)<br>
-_domestic_: fixed-line teledensity is&nbsp;6 per 100 persons and&nbsp;mobile-cellular subscribership exceeds 128 per 100 persons; good system composed of open-wire lines, cables, and microwave radio relay links; principal switching centers are Casablanca and Rabat (2019)<br>
+_domestic_: fixed-line teledensity is just over 6 per 100 persons and mobile-cellular subscribership is nearly 134 per 100 persons; good system composed of open-wire lines, cables, and microwave radio relay links; principal switching centers are Casablanca and Rabat (2020)<br>
 _international_: country code - 212; landing point for the Atlas Offshore, Estepona-Tetouan, Canalink&nbsp;and SEA-ME-WE-3 fiber-optic telecommunications undersea cables that provide connectivity to Asia,&nbsp;Africa,&nbsp;the Middle East, Europe and Australia; satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat; microwave radio relay to Gibraltar, Spain, and Western Sahara (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

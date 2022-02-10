@@ -132,7 +132,7 @@ _urban population_: 53.1% of total population (2022)<br>
 _rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 
 **Major urban areas - population**<br>
-1.569 million MONROVIA (capital) (2021)<br>
+1.623 million MONROVIA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 32.1% of population<br>
 _unimproved: total_: total: 19% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.7% (2018)<br>
+8.5% (2019)<br>
 
 **Physicians density**<br>
 0.04 physicians/1,000 population (2015)<br>

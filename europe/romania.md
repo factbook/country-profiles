@@ -137,7 +137,7 @@ _urban population_: 54.5% of total population (2022)<br>
 _rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.794 million BUCHAREST (capital) (2021)<br>
+1.785 million BUCHAREST (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.6% (2018)<br>
+5.7% (2019)<br>
 
 **Physicians density**<br>
 2.98 physicians/1,000 population (2017)<br>
@@ -383,6 +383,10 @@ golden eagle; national colors: blue, yellow, red<br>
 _name_: "Desteapta-te romane!" (Wake up, Romanian!)<br>
 _lyrics/music_: Andrei MURESIANU/Anton PANN<br>
 <strong>note:</strong> adopted 1990; the anthem was written during the 1848 Revolution<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 9 (7 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Danube Delta (n), Churches of Moldavia (c), Monastery of Horezu (c), Villages with Fortified Churches in Transylvania (c), Dacian Fortresses of the Orastie Mountains (c), Historic Center of Sighişoara (c), Wooden Churches of Maramureş (c), Ancient and Primeval Beech Forests of the Carpathians (n), Roșia Montană Mining Landscape (c)<br>
 
 ## Economy
 
@@ -724,7 +728,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 9,211 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
+<strong>note:</strong> 9,421 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

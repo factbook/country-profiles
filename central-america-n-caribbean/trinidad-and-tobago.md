@@ -130,7 +130,7 @@ _urban population_: 53.3% of total population (2022)<br>
 _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-544,000 PORT-OF-SPAIN (capital) (2021)<br>
+545,000 PORT-OF-SPAIN (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -165,7 +165,7 @@ _improved: total_: total: 99.3% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.9% (2018)<br>
+7% (2019)<br>
 
 **Physicians density**<br>
 4.17 physicians/1,000 population (2018)<br>

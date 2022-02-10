@@ -134,7 +134,7 @@ _urban population_: 72.6% of total population (2022)<br>
 _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.772 million BUDAPEST (capital) (2021)<br>
+1.775 million BUDAPEST (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.7% (2018)<br>
+6.4% (2019)<br>
 
 **Physicians density**<br>
 3.41 physicians/1,000 population (2018)<br>
@@ -388,6 +388,10 @@ Holy Crown of Hungary (Crown of Saint Stephen); national colors: red, white, gre
 _name_: "Himnusz" (Hymn)<br>
 _lyrics/music_: Ferenc KOLCSEY/Ferenc ERKEL<br>
 <strong>note:</strong> adopted 1844<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 8 (7 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Budapest, including the Banks of the Danube, the Buda Castle Quarter, and Andrássy Avenue (c); Old Village of Hollókő and its Surroundings (c); Caves of Aggtelek Karst and Slovak Karst (n); Millenary Benedictine Abbey of Pannonhalma and its Natural Environment (c); Hortobágy National Park - the Puszta (c); Early Christian Necropolis of Pécs (Sopianae) (c); Fertö / Neusiedlersee Cultural Landscape (c); Tokaj Wine Region Historic Cultural Landscape (c)<br>
 
 ## Economy
 

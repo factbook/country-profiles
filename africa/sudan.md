@@ -139,7 +139,7 @@ _urban population_: 36% of total population (2022)<br>
 _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-5.989 million KHARTOUM (capital), 967,000 Nyala (2021)<br>
+6.160 million KHARTOUM (capital), 1.012 million Nyala (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 19.3% of population<br>
 _unimproved: total_: total: 13% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.5% (2018)<br>
+4.6% (2019)<br>
 
 **Physicians density**<br>
 0.26 physicians/1,000 population (2017)<br>
@@ -397,6 +397,10 @@ secretary bird; national colors: red, white, black, green<br>
 _name_: "Nahnu Djundulla Djundulwatan" (We Are the Army of God and of Our Land)<br>
 _lyrics/music_: Sayed Ahmad Muhammad SALIH/Ahmad MURJAN<br>
 <strong>note:</strong> adopted 1956; originally served as the anthem of the Sudanese military<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Gebel Barkal and the Sites of the Napatan Region (c), Archaeological Sites of the Island of Meroe (c), Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park (n)<br>
 
 ## Economy
 

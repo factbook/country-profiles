@@ -133,7 +133,7 @@ _urban population_: 20.8% of total population (2022)<br>
 _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-421,000 JUBA (capital) (2021)<br>
+440,000 JUBA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 28.3% of population<br>
 _unimproved: total_: total: 25.7% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.4% (2018)<br>
+6% (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 54.1% of population<br>

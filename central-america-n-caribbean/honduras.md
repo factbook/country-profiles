@@ -137,7 +137,7 @@ _urban population_: 59.6% of total population (2022)<br>
 _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.485 million TEGUCIGALPA (capital), 929,000 San Pedro Sula (2021)<br>
+1.527 million TEGUCIGALPA (capital), 956,000 San Pedro Sula (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -180,7 +180,7 @@ _unimproved: rural_: rural: 11.1% of population<br>
 _unimproved: total_: total: 5.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.1% (2018)<br>
+7.3% (2019)<br>
 
 **Physicians density**<br>
 0.31 physicians/1,000 population (2017)<br>
@@ -336,11 +336,11 @@ _residency requirement for naturalization_: 1 to 3 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTIERREZ, and Renato FLORENTINO (since 27 January 2022); note - the president is both chief of state and head of government; CASTRO is Honduras' first female president<br>
-_head of government_: President Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTIERREZ, and Renato FLORENTINO (since 27 January 2022)<br>
+_chief of state_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTIERREZ, and Renato FLORENTINO (since 27 January 2022); note - the president is both chief of state and head of government; CASTRO is Honduras' first female president<br>
+_head of government_: President Iris Xiomara CASTRO de Zelaya (since 27 January 2022); Vice Presidents Salvador NASRALLA, Doris GUTIERREZ, and Renato FLORENTINO (since 27 January 2022)<br>
 _cabinet_: Cabinet appointed by president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 28 November 2021 (next to be held in 30 November 2025); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
-_election results_: <br><em>2021: </em>Xiomara CASTRO de Zelaya elected president; percent of vote - Xiomara CASTRO de Zelaya (LIBRE) 51.1%, Nasry Juan ASFURA Zablah (PNH) 36.9%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 2%<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br>
+_election results_: <br><em>2021: </em>Iris Xiomara CASTRO de Zelaya elected president; percent of vote - Iris Xiomara CASTRO de Zelaya (LIBRE) 51.1%, Nasry Juan ASFURA Zablah (PNH) 36.9%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 2%<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>
@@ -386,6 +386,10 @@ scarlet macaw, white-tailed deer; national colors: blue, white<br>
 _name_: "Himno Nacional de Honduras" (National Anthem of Honduras)<br>
 _lyrics/music_: Augusto Constancio COELLO/Carlos HARTLING<br>
 <strong>note:</strong> adopted 1915; the anthem's seven verses chronicle Honduran history; on official occasions, only the chorus and last verse are sung<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Maya Site of Copan (c), Río Plátano Biosphere Reserve (n)<br>
 
 ## Economy
 

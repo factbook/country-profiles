@@ -136,7 +136,7 @@ _urban population_: 63.8% of total population (2022)<br>
 _rate of urbanization_: 1.29% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-503,000 TIRANA (capital) (2021)<br>
+512,000 TIRANA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.08 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 4.7% of population<br>
 _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.3% (2018)<br>
+5.2% (2018)<br>
 
 **Physicians density**<br>
 1.22 physicians/1,000 population (2016)<br>
@@ -379,6 +379,10 @@ black double-headed eagle; national colors: red, black<br>
 _name_: "Hymni i Flamurit" (Hymn to the Flag)<br>
 _lyrics/music_: Aleksander Stavre DRENOVA/Ciprian PORUMBESCU<br>
 <strong>note:</strong> adopted 1912<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 4 (2 cultural, 1 natural, 1 mixed)<br>
+_selected World Heritage Site locales_: Butrint, Historic Berat and Gjirokast&euml;r, Primeval Beech Forests, Lake Ohrid Region<br>
 
 ## Economy
 

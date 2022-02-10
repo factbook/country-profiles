@@ -128,7 +128,7 @@ _urban population_: 79.7% of total population (2022)<br>
 _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-4.435 million New Taipei City, 2.731 million TAIPEI (capital), 2.272 million Taoyuan, 1.542 million Kaohsiung, 1.338 million Taichung, 857,000 Tainan (2021)<br>
+4.471 million New Taipei City, 2.742 million TAIPEI (capital), 2.296 million Taoyuan, 1.547 million Kaohsiung, 1.354 million Taichung, 863,000 Tainan (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -601,11 +601,11 @@ Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force; Taiwan Coast
 note - the Armed Forces also have Military Police and Armed Forces Reserve commands<br>
 
 **Military expenditures**<br>
-2.3% of GDP (2020 est.)<br>
+2.1% of GDP (2021 est.)<br>
+2.2% of GDP (2020)<br>
 2.1% of GDP (2019)<br>
 1.8% of GDP (2018)<br>
 1.8% of GDP (2017)<br>
-1.8% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Taiwan military has approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2021)<br>

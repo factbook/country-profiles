@@ -139,7 +139,7 @@ _urban population_: 62.8% of total population (2022)<br>
 _rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.394 million ASUNCION (capital) (2021)<br>
+3.452 million ASUNCION (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -182,7 +182,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.7% (2018)<br>
+7.2% (2019)<br>
 
 **Physicians density**<br>
 1.35 physicians/1,000 population (2018)<br>
@@ -389,6 +389,10 @@ lion; national colors: red, white, blue<br>
 _name_: "Paraguayos, Republica o muerte!" (Paraguayans, The Republic or Death!)<br>
 _lyrics/music_: Francisco Esteban ACUNA de Figueroa/disputed<br>
 <strong>note:</strong> adopted 1934, in use since 1846; officially adopted following its re-arrangement in 1934<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Jesuit Missions of La Sant&iacute;sima Trinidad de Paran&aacute; and Jes&uacute;s de Tavarangue<br>
 
 ## Economy
 

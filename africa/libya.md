@@ -140,7 +140,7 @@ _urban population_: 81.3% of total population (2022)<br>
 _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.170 million TRIPOLI (capital), 919,000 Misratah, 836,000 Benghazi (2021)<br>
+1.176 million TRIPOLI (capital), 953,000 Misratah, 848,000 Benghazi (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -318,7 +318,7 @@ _residency requirement for naturalization_: varies from 3 to 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: Chairman, Presidential Council, Mohammed Al MENFI (since 5 February 2021)<br>
-_head of government_: Prime Minister Abdul Hamid DUBAYBAH (since 5 February 2021)<br>
+_head of government_: Interim Prime Minister Abdul Hamid DUBAYBAH (since 5 February 2021)<br>
 _cabinet_: 3-member GNU Presidency Council: Musa al-KONI (representing Libya's south region), Abdullah al-LAFI (representing the west region), and Mohammad Younes MANFI (representing the east region)<br>
 _elections/appointments_: <p>Libya’s first direct presidential election was scheduled for 24 December 2021</p><br>
 _election results_: on 5 February 2021, a UN-led forum elected - in a runoff - Mohammed Al MENFI&nbsp; chairman, Presidential Council and Abdul Hamid DUBAYBAH, prime minister<br>
@@ -362,6 +362,10 @@ star and crescent, hawk; national colors: red, black, green<br>
 _name_: Libya, Libya, Libya<br>
 _lyrics/music_: Al Bashir AL AREBI/Mohamad Abdel WAHAB<br>
 <strong>note:</strong> also known as "Ya Beladi" or "Oh, My Country!"; adopted 1951; readopted 2011 with some modification to the lyrics; during the QADHAFI years between 1969 and 2011, the anthem was "Allahu Akbar," (God is Great) a marching song of the Egyptian Army in the 1956 Suez War<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 5 (all cultural)<br>
+_selected World Heritage Site locales_: Archaeological Site of Cyrene, Archaeological Site of Leptis Magna, Archaeological Site of Sabratha, Rock-Art Sites of Tadrart Acacus, Old Town of Ghadamès<br>
 
 ## Economy
 
@@ -579,7 +583,7 @@ _subscriptions per 100 inhabitants_: 91.48 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: political and security instability in Libya has disrupted its telecom sector, as warring factions make mobile towers a target and construction workers regularly cut cables by mistake; much of its infrastructure remains superior to that in most other African countries; rival operators fight for control; investment in fiber backbone and upgrades to international cables; limited LTE and 5G service; some satellite broadband; Chinese companies have heavily invested in Libyan infrastructure and now dominate the telecommunications sector; in 2021 Libya signed deals and projects with US firms to upgrade portions of its infrastructure, increasing the diversity of its telecommunications networks (2021)<br>
-_domestic_: 24 per 100 fixed-line and 91 per 100 mobile-cellular subscriptions; service generally adequate (2019)<br>
+_domestic_: nearly 24 per 100 fixed-line and over 91 per 100 mobile-cellular subscriptions; service generally adequate (2019)<br>
 _international_: country code - 218; landing points for LFON, EIG, Italy-Libya, Silphium and Tobrok-Emasaed&nbsp;submarine cable system connecting Europe, Africa, the Middle East and Asia; satellite earth stations - 4 Intelsat, Arabsat, and Intersputnik;&nbsp; microwave radio relay to Tunisia and Egypt; tropospheric scatter to Greece; participant in Medarabtel (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

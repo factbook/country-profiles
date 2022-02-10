@@ -136,7 +136,7 @@ _urban population_: 92.9% of total population (2022)<br>
 _rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.158 million AMSTERDAM (capital), 1.012 million Rotterdam (2021)<br>
+1.166 million AMSTERDAM (capital), 1.015 million Rotterdam (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-10% (2018)<br>
+10.1% (2019)<br>
 
 **Physicians density**<br>
 3.61 physicians/1,000 population (2017)<br>
@@ -382,6 +382,10 @@ lion, tulip; national color: orange<br>
 _name_: "Het Wilhelmus" (The William)<br>
 _lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
 <strong>note:</strong> adopted 1932, in use since the 17th century, making it the oldest national anthem in the world; also known as "Wilhelmus van Nassouwe" (William of Nassau), it is in the form of an acrostic, where the first letter of each stanza spells the name of the leader of the Dutch Revolt<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 12 (11 cultural, 1 natural); note - includes one site in Curacao<br>
+_selected World Heritage Site locales_: Schokland and Surroundings (c); Dutch Water Defense Lines (c); Van Nellefabriek (c); Mill Network at Kinderdijk-Elshout (c); Droogmakerij de Beemster (Beemster Polder) (c); Rietveld Schröderhuis (Rietveld Schröder House) (c); Wadden Sea (n); Seventeenth Century Canal Ring Area of Amsterdam inside the Singelgracht (c); Colonies of Benevolence (c); Frontiers of the Roman Empire - The Lower German Limes (c)<br>
 
 ## Economy
 

@@ -135,7 +135,7 @@ _urban population_: 43.9% of total population (2022)<br>
 _rate of urbanization_: 3.6% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.874 million LOME (capital) (2021)<br>
+1.926 million LOME (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 44% of population<br>
 _unimproved: total_: total: 29.1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.2% (2017)<br>
+5.7% (2019)<br>
 
 **Physicians density**<br>
 0.08 physicians/1,000 population (2018)<br>
@@ -391,6 +391,10 @@ lion; national colors: green, yellow, red, white<br>
 _name_: "Salut a toi, pays de nos aieux" (Hail to Thee, Land of Our Forefathers)<br>
 _lyrics/music_: Alex CASIMIR-DOSSEH<br>
 <strong>note:</strong> adopted 1960, restored 1992; this anthem was replaced by another during one-party rule between 1979 and 1992<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Koutammakou, the Land of the Batammariba<br>
 
 ## Economy
 

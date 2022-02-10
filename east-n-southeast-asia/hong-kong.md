@@ -127,7 +127,7 @@ _urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 0.58% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-7.598 million Hong Kong (2021)<br>
+7.643 million Hong Kong (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>

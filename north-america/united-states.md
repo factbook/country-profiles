@@ -150,7 +150,7 @@ _urban population_: 83.1% of total population (2022)<br>
 _rate of urbanization_: 0.96% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-18.823 million New York-Newark, 12.459 million Los Angeles-Long Beach-Santa Ana, 8.877 million Chicago, 6.491 million Houston, 6.397 million Dallas-Fort Worth, 5.378 million WASHINGTON, D.C. (capital) (2021)<br>
+18.867 million New York-Newark, 12.488 million Los Angeles-Long Beach-Santa Ana, 8.901 million Chicago, 6.603 million Houston, 6.488 million Dallas-Fort Worth, 5.434 million WASHINGTON, D.C. (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female NA<br>
@@ -192,7 +192,7 @@ _unimproved: rural_: rural: 3% of population<br>
 _unimproved: total_: total: 1% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-16.9% (2018)<br>
+16.8% (2019)<br>
 
 **Physicians density**<br>
 2.61 physicians/1,000 population (2017)<br>
@@ -385,6 +385,10 @@ bald eagle; national colors: red, white, blue<br>
 _name_: The Star-Spangled Banner<br>
 _lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
 <strong>note:</strong> adopted 1931; during the War of 1812, after witnessing the successful American defense of Fort McHenry in Baltimore following British naval bombardment, Francis Scott KEY wrote the lyrics to what would become the national anthem; the lyrics were set to the tune of "The Anacreontic Song"; only the first verse is sung<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 24 (11 cultural, 12 natural, 1 mixed); note - includes one site in Puerto Rico<br>
+_selected World Heritage Site locales_: Yellowstone National Park (n), Grand Canyon National Park (n), Cahokia Mounds State Historic Site (c), Independence Hall (c), Statue of Liberty (c), Yosemite National Park (n), Papahānaumokuākea (m), Monumental Earthworks of Poverty Point (c), The 20th-Century Architecture of Frank Lloyd Wright (c), Mesa Verde National Park (c), Mammoth Cave National Park (n), Monticello (c), Olympic National Park (n)<br>
 
 ## Economy
 

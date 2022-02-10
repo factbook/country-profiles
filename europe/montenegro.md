@@ -44,7 +44,7 @@ Mediterranean climate, hot dry summers and autumns and relatively cold winters w
 highly indented coastline with narrow coastal plain backed by rugged high limestone mountains and plateaus<br>
 
 **Elevation**<br>
-_highest point_: Bobotov Kuk 2,522 m<br>
+_highest point_: Zia Kolata 2,534 m<br>
 _lowest point_: Adriatic Sea 0 m<br>
 _mean elevation_: 1,086 m<br>
 
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8.4% (2018)<br>
+8.3% (2019)<br>
 
 **Physicians density**<br>
 2.76 physicians/1,000 population (2018)<br>
@@ -386,6 +386,10 @@ double-headed eagle; national colors: red, gold<br>
 _name_: "Oj, svijetla majska zoro" (Oh, Bright Dawn of May)<br>
 _lyrics/music_: Sekula DRLJEVIC/unknown, arranged by Zarko MIKOVIC<br>
 <strong>note:</strong> adopted 2004; music based on a Montenegrin folk song<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Natural and Culturo-Historical Region of Kotor (c), Durmitor National Park (n), Stećci Medieval Tombstones Graveyards (c), Fortified City of Kotor Venetian Defense Works (c)<br>
 
 ## Economy
 
@@ -614,7 +618,7 @@ _subscriptions per 100 inhabitants_: 172 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a small population, with a compact but modern telecommunications system and access to European satellites; fiber network is dominant platform; mobile penetration is high due to tourism; mobile broadband based on LTE even in rural areas; operators testing 5G in 2021; telecom sector in-line with EU norms provides competition, access, and tariff structures (2020)<br>
-_domestic_: GSM mobile-cellular service, available through multiple providers with national coverage growing; fixed-line 30 per 100 and mobile-cellular 183 per 100 persons (2019)<br>
+_domestic_: GSM mobile-cellular service, available through multiple providers; fixed-line over 30 per 100 and mobile-cellular 172 per 100 persons (2020)<br>
 _international_: country code - 382; 2 international switches connect the national system<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -706,7 +710,7 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 20,695 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
+<strong>note:</strong> 20,727 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

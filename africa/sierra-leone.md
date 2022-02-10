@@ -135,7 +135,7 @@ _urban population_: 43.8% of total population (2022)<br>
 _rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.236 million FREETOWN (capital) (2021)<br>
+1.272 million FREETOWN (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 44.3% of population<br>
 _unimproved: total_: total: 30.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-16.1% (2018)<br>
+8.8% (2019)<br>
 
 **Physicians density**<br>
 0.03 physicians/1,000 population (2011)<br>

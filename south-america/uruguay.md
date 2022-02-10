@@ -143,7 +143,7 @@ _urban population_: 95.7% of total population (2022)<br>
 _rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.760 million MONTEVIDEO (capital) (2021)<br>
+1.767 million MONTEVIDEO (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 95% of population<br>
 _unimproved: total_: total: 100% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-9.2% (2018)<br>
+9.4% (2019)<br>
 
 **Physicians density**<br>
 5.08 physicians/1,000 population (2017)<br>
@@ -387,6 +387,10 @@ Sun of May (a sun-with-face symbol); national colors: blue, white, yellow<br>
 _name_: "Himno Nacional" (National Anthem of Uruguay)<br>
 _lyrics/music_: Francisco Esteban ACUNA de Figueroa/Francisco Jose DEBALI<br>
 <strong>note:</strong> adopted 1848; the anthem is also known as "Orientales, la Patria o la tumba!" ("Uruguayans, the Fatherland or Death!"); it is the world's longest national anthem in terms of music (105 bars; almost five minutes); generally only the first verse and chorus are sung<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (all cultural)<br>
+_selected World Heritage Site locales_: Historic City of Colonia del Sacramento, Fray Bentos Industrial Landscape, The work of engineer Eladio Dieste: Church of Atl&aacute;ntida<br>
 
 ## Economy
 

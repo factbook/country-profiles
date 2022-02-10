@@ -147,6 +147,10 @@ _embassy_: none (territory of Australia)<br>
 **Flag description**<br>
 the flag of Australia is used<br>
 
+**National heritage**<br>
+_total World Heritage Sites_: 1 (natural); note - excerpted from the Australia entry<br>
+_selected World Heritage Site locales_: Heard Island and McDonald Islands<br>
+
 ## Economy
 
 **Economic overview**<br>

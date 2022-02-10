@@ -313,6 +313,10 @@ _name_: "Soyons unis, devenons freres" (Let Us Be United, Let Us Become Brothers
 _lyrics/music_: Chorale Melodia (a local choir)<br>
 <strong>note:</strong> adopted 2008; contains a mixture of lyrics in both French and Nengone (an indigenous language); as a self-governing territory of France, in addition to the local anthem, "La Marseillaise" is official (see France)<br>
 
+**National heritage**<br>
+_total World Heritage Sites_: 1 (natural); note - excerpted from the France entry<br>
+_selected World Heritage Site locales_: Lagoons of New Caledonia<br>
+
 ## Economy
 
 **Economic overview**<br>

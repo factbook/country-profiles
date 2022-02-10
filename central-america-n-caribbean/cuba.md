@@ -132,7 +132,7 @@ _urban population_: 77.4% of total population (2022)<br>
 _rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.143 million HAVANA (capital) (2021)<br>
+2.146 million HAVANA (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -171,7 +171,7 @@ _unimproved: rural_: rural: 5.5% of population<br>
 _unimproved: total_: total: 2.6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-11.2% (2018)<br>
+11.3% (2019)<br>
 
 **Physicians density**<br>
 8.42 physicians/1,000 population (2018)<br>
@@ -374,6 +374,10 @@ royal palm; national colors: red, white, blue<br>
 _name_: "La Bayamesa" (The Bayamo Song)<br>
 _lyrics/music_: Pedro FIGUEREDO<br>
 <strong>note:</strong> adopted 1940; Pedro FIGUEREDO first performed "La Bayamesa" in 1868 during the Ten Years War against the Spanish; a leading figure in the uprising, FIGUEREDO was captured in 1870 and executed by a firing squad; just prior to the fusillade he is reputed to have shouted, "Morir por la Patria es vivir" (To die for the country is to live), a line from the anthem<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 9 (7 cultural, 2 natural)<br>
+_selected World Heritage Site locales_: Old Havana (c); Trinidad and the Valley de los Ingenios (c); San Pedro de la Roca Castle (c); Desembarco del Granma National Park (n); Vi&ntilde;ales Valley (c); Archaeological Landscape of the First Coffee Plantations (c); Alejandro de Humboldt National Park (n); Historic Cienfuegos (c); Historic Camag&uuml;ey (c)<br>
 
 ## Economy
 

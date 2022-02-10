@@ -136,7 +136,7 @@ _rate of urbanization_: 0.24% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Canary Islands, Ceuta, and Melilla<br>
 
 **Major urban areas - population**<br>
-6.669 million MADRID (capital), 5.624 million Barcelona, 835,000 Valencia (2021)<br>
+6.714 million MADRID (capital), 5.658 million Barcelona, 837,000 Valencia (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -179,7 +179,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-9% (2018)<br>
+9.1% (2019)<br>
 
 **Physicians density**<br>
 3.87 physicians/1,000 population (2017)<br>
@@ -392,6 +392,10 @@ Pillars of Hercules; national colors: red, yellow<br>
 _name_: "Himno Nacional Espanol" (National Anthem of Spain)<br>
 _lyrics/music_: no lyrics/unknown<br>
 <strong>note:</strong> officially in use between 1770 and 1931, restored in 1939; the Spanish anthem is the first anthem to be officially adopted, but it has no lyrics; in the years prior to 1931 it became known as "Marcha Real" (The Royal March); it first appeared in a 1761 military bugle call book and was replaced by "Himno de Riego" in the years between 1931 and 1939; the long version of the anthem is used for the king, while the short version is used for the prince, prime minister, and occasions such as sporting events<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 49 (43 cultural, 4 natural, 2 mixed)<br>
+_selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Art of Northern Spain (c); Works of Antoni Gaudí (c); Santiago de Compostela (Old Town) (c); Historic City of Toledo (c); Archaeological Ensemble of Mérida (c); Tower of Hercules (c); Doñana National Park (n); Pyrénées - Mont Perdu (m); Alhambra, Generalife, and Albayzín in Granada (c);  Old City of Salamanca (c); Teide National Park (n); Historic Walled Town of Cuenca (c); Old Town of Segovia and its Aqueduct (c); Historic Cordoba (c); El Escorial (c)<br>
 
 ## Economy
 
@@ -702,11 +706,11 @@ Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, 
 note - the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br>
 
 **Military expenditures**<br>
+1.02% of GDP (2021 est.)<br>
 1.17% of GDP (2020 est.)<br>
 0.91% of GDP (2019)<br>
 0.93% of GDP (2018)<br>
 0.91% of GDP (2017)<br>
-0.81% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Spanish Armed Forces have approximately 120,000 active duty troops (75,000 Army; 25,000 Navy, inc about 5,000 marines; 20,000 Air Force); 80,000 Guardia Civil (2021)<br>
@@ -738,7 +742,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 6,.92 (mid-year 2021)<br>
-<strong>note: </strong>196,743 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
+<strong>note: </strong>197,460 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

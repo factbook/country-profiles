@@ -129,7 +129,7 @@ _urban population_: 57% of total population (2022)<br>
 _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-592,000 KINGSTON (capital) (2021)<br>
+595,000 KINGSTON (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 7% of population<br>
 _unimproved: total_: total: 4% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.1% (2018)<br>
+6.1% (2019)<br>
 
 **Physicians density**<br>
 1.31 physicians/1,000 population (2017)<br>
@@ -362,6 +362,10 @@ green-and-black streamertail (bird), Guaiacum officinale (Guaiacwood); national 
 _name_: Jamaica, Land We Love<br>
 _lyrics/music_: Hugh Braham SHERLOCK/Robert Charles LIGHTBOURNE<br>
 <strong>note:</strong> adopted 1962<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (mixed)<br>
+_selected World Heritage Site locales_: Blue and John Crow Mountains<br>
 
 ## Economy
 

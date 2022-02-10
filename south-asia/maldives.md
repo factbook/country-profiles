@@ -171,7 +171,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-9.4% (2018)<br>
+8% (2019)<br>
 
 **Physicians density**<br>
 4.56 physicians/1,000 population (2018)<br>
@@ -577,7 +577,7 @@ _subscriptions per 100 inhabitants_: 132.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: upgrades to telecom infrastructure extended to outer islands; two mobile operators extend LTE coverage; tourism has strengthened the telecom market with investment and accounts for the high mobile penetration rate; launched 5G tests (2020)<br>
-_domestic_: fixed-line is at 3 per 100 persons and high mobile-cellular subscriptions stands at 156 per 100 persons (2019)<br>
+_domestic_: fixed-line is at nearly 3 per 100 persons and mobile-cellular subscriptions stands at nearly 133 per 100 persons (2020)<br>
 _international_: country code - 960; landing points for Dhiraagu Cable Network, NaSCOM, Dhiraagu-SLT Submarine Cable Networks and WARF submarine cables providing connections to 8 points in Maldives, India, and Sri Lanka;&nbsp;satellite earth station - 3 Intelsat (Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

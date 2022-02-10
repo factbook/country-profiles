@@ -132,7 +132,7 @@ _urban population_: 71.7% of total population (2022)<br>
 _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-4.278 million ROME (capital), 3.144 million Milan, 2.183 million Naples, 1.795 million Turin, 900,000 Bergamo, 850,000 Palermo (2021)<br>
+4.298 million ROME (capital), 3.149 million Milan, 2.180 million Naples, 1.798 million Turin, 907,000 Bergamo, 850,000 Palermo (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-8.7% (2018)<br>
+8.7% (2019)<br>
 
 **Physicians density**<br>
 3.98 physicians/1,000 population (2018)<br>
@@ -385,6 +385,10 @@ white, five-pointed star (Stella d'Italia); national colors: red, white, green<b
 _name_: "Il Canto degli Italiani" (The Song of the Italians)<br>
 _lyrics/music_: Goffredo MAMELI/Michele NOVARO<br>
 <strong>note:</strong> adopted 1946; the anthem, originally written in 1847, is also known as "L'Inno di Mameli" (Mameli's Hymn), and "Fratelli D'Italia" (Brothers of Italy)<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 58 (53 cultural, 5 natural)<br>
+_selected World Heritage Site locales_: Historic Center of Rome (c); Archaeological Areas of Pompeii, Herculaneum, and Torre Annunziata (c); Venice and its Lagoon (c); Historic Center of Florence (c); Piazza del Duomo, Pisa (c); Historic Centre of Naples (c); Portovenere, Cinque Terre, and the Islands (c); Villa d'Este, Tivoli (c); Mount Etna (n); Rock Drawings in Valcamonica (c); Historic Siena (c)<br>
 
 ## Economy
 
@@ -696,11 +700,11 @@ Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italia
 note(s) - the Carabinieri is the national gendarmerie; for its civil police functions, the Carabinieri falls under the control of the Ministry of the Interior; the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>
-1.39% of GDP (2020 est.)<br>
+1.41% of GDP (2021 est.)<br>
+1.39% of GDP (2020)<br>
 1.18% of GDP (2019)<br>
 1.23% of GDP (2018)<br>
 1.2% of GDP (2017)<br>
-1.18% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 107,000 Carabinieri (2021)<br>
@@ -731,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 591,119 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
+<strong>note:</strong> 594,194 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

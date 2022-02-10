@@ -127,7 +127,7 @@ _urban population_: 64.2% of total population (2022)<br>
 _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.242 million DUBLIN (capital) (2021)<br>
+1.256 million DUBLIN (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -169,7 +169,7 @@ _unimproved: rural_: rural: 1.9% of population<br>
 _unimproved: total_: total: 2.6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.9% (2018)<br>
+6.7% (2019)<br>
 
 **Physicians density**<br>
 3.31 physicians/1,000 population (2018)<br>
@@ -360,6 +360,10 @@ harp, shamrock (trefoil); national colors: blue, green<br>
 _name_: "Amhran na bhFiann" (The Soldier's Song)<br>
 _lyrics/music_: Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and Peadar KEARNEY<br>
 <strong>note:</strong> adopted 1926; instead of "Amhran na bhFiann," the song "Ireland's Call" is often used at athletic events where citizens of Ireland and Northern Ireland compete as a unified team<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both cultural)<br>
+_selected World Heritage Site locales_: Br&uacute; na B&oacute;inne - Archaeological Ensemble of the Bend of the Boyne, Sceilg Mhich&iacute;l<br>
 
 ## Economy
 

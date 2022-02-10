@@ -136,7 +136,7 @@ _urban population_: 37.5% of total population (2022)<br>
 _rate of urbanization_: 2.05% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-1.060 million BISHKEK (capital) (2021)<br>
+1.082 million BISHKEK (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 15.6% of population<br>
 _unimproved: total_: total: 10.7% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.5% (2018)<br>
+4.5% (2019)<br>
 
 **Physicians density**<br>
 2.21 physicians/1,000 population (2014)<br>
@@ -380,6 +380,10 @@ white falcon; national colors: red, yellow<br>
 _name_: "Kyrgyz Respublikasynyn Mamlekettik Gimni" (National Anthem of the Kyrgyz Republic)<br>
 _lyrics/music_: Djamil SADYKOV and Eshmambet KULUEV/Nasyr DAVLESOV and Kalyi MOLDOBASANOV<br>
 <strong>note:</strong> adopted 1992<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Sulaiman-Too Sacred Mountain (c); Silk Roads: the Chang'an-Tianshan Corridor (c); Western Tien Shan (n)<br>
 
 ## Economy
 

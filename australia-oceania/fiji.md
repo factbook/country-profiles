@@ -168,7 +168,7 @@ _unimproved: rural_: rural: 11.3% of population<br>
 _unimproved: total_: total: 6.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-3.4% (2018)<br>
+3.8% (2019)<br>
 
 **Physicians density**<br>
 0.86 physicians/1,000 population (2015)<br>
@@ -364,6 +364,10 @@ Fijian canoe; national color: light blue<br>
 _name_: God Bless Fiji<br>
 _lyrics/music_: Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by Michael Francis Alexander PRESCOTT)<br>
 <strong>note:</strong> adopted 1970; known in Fijian as "Meda Dau Doka" (Let Us Show Pride); adapted from the hymn, "Dwelling in Beulah Land," the anthem's English lyrics are generally sung, although they differ in meaning from the official Fijian lyrics<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Levuka Historical Port Town<br>
 
 ## Economy
 

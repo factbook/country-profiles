@@ -162,7 +162,7 @@ _improved: total_: total: 96.2% of population<br>
 _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.1% (2018)<br>
+5.2% (2019)<br>
 
 **Physicians density**<br>
 2.12 physicians/1,000 population (2016)<br>
@@ -344,6 +344,10 @@ coco de mer (sea coconut); national colors: blue, yellow, red, white, green<br>
 _name_: "Koste Seselwa" (Seychellois Unite)<br>
 _lyrics/music_: David Francois Marc ANDRE and George Charles Robert PAYET<br>
 <strong>note:</strong> adopted 1996<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (both natural)<br>
+_selected World Heritage Site locales_: Aldabra Atoll, Vall&eacute;e de Mai Nature Reserve<br>
 
 ## Economy
 

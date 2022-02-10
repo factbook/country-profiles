@@ -151,7 +151,7 @@ _urban population_: 81.5% of total population (2022)<br>
 _rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-11.079 million PARIS (capital), 1.734 million Lyon, 1.614 million Marseille-Aix-en-Provence, 1.068 million Lille, 1.037 million Toulouse, 980,000 Bordeaux (2021)<br>
+11.142 million PARIS (capital), 1.748 million Lyon, 1.620 million Marseille-Aix-en-Provence, 1.073 million Lille, 1.049 million Toulouse, 991,000 Bordeaux (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -193,7 +193,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-11.3% (2018)<br>
+11.1% (2019)<br>
 
 **Physicians density**<br>
 3.27 physicians/1,000 population (2018)<br>
@@ -408,6 +408,10 @@ Gallic rooster, fleur-de-lis, Marianne (female personification); national colors
 _name_: "La Marseillaise" (The Song of Marseille)<br>
 _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
 <strong>note:</strong> adopted 1795, restored 1870; originally known as "Chant de Guerre pour l'Armee du Rhin" (War Song for the Army of the Rhine), the National Guard of Marseille made the song famous by singing it while marching into Paris in 1792 during the French Revolutionary Wars<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 49 (43 cultural, 5 natural, 1 mixed); note - includes one site in New Caledonia and one site in French Polynesia<br>
+_selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park of Versailles (c); Prehistoric Sites and Decorated Caves of the Vézère Valley (c); Pyrénées - Mont Perdu (m); Cistercian Abbey of Fontenay (c); Paris, Banks of the Seine (c); The Loire Valley between Sully-sur-Loire and Chalonnes (c); Pont du Gard (Roman Aqueduct) (c); Amiens Cathedral (c); Palace and Park of Fontainebleau (c); Historic Fortified City of Carcassonne (c)<br>
 
 ## Economy
 
@@ -738,7 +742,7 @@ the French military has approximately 205,000 active duty troops (115,000 Army; 
 the French military's inventory consists almost entirely of domestically-produced weapons systems, including some jointly-produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; France has a defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2021)<br>
 
 **Military deployments**<br>
-5,100 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Task Force Takuba; note - in July 2021, France announced that it would withdraw about 2,000 personnel from this force by the beginning of 2022); approximately 300 Central African Republic; 900 Cote D'Ivoire; 1,400 Djibouti; 300 Baltics (NATO); 2,000 French Guyana; 900 French Polynesia; 1,000 French West Indies; 350 Gabon; est. 500 Middle East (Iraq/Jordan/Syria); 950 Lebanon (UNIFIL); 1,400-1,500 New Caledonia; 1,700 Reunion Island; 350 Senegal; 650 United Arab Emirates (2020-2021)<br>
+5,100 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Task Force Takuba; note - in July 2021, France announced that it would withdraw about 2,000 personnel from this force in 2022); approximately 300 Central African Republic; 950 Cote D'Ivoire; 1,450 Djibouti; 300 Baltics (NATO); 2,100 French Guyana; 900 French Polynesia; 1,000 French West Indies; 350 Gabon; est. 500 Middle East (Iraq/Jordan/Syria); 950 Lebanon (UNIFIL); 1,450 New Caledonia; 1,700 Reunion Island; 350 Senegal; 650 United Arab Emirates (2021)<br>
 note - France has been a contributing member of the EuroCorps since 1992<br>
 
 **Military service age and obligation**<br>

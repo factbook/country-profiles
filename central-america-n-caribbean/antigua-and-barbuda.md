@@ -161,7 +161,7 @@ _improved: total_: total: 96.7% of population<br>
 _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-5.2% (2018)<br>
+4.4% (2019)<br>
 
 **Physicians density**<br>
 2.96 physicians/1,000 population (2017)<br>
@@ -335,6 +335,10 @@ fallow deer; national colors: red, white, blue, black, yellow<br>
 _name_: Fair Antigua, We Salute Thee<br>
 _lyrics/music_: Novelle Hamilton RICHARDS/Walter Garnet Picart CHAMBERS<br>
 <strong>note:</strong> adopted 1967; as a Commonwealth country, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural)<br>
+_selected World Heritage Site locales_: Antigua Naval Dockyard&nbsp;<br>
 
 ## Economy
 

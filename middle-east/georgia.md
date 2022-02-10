@@ -130,7 +130,7 @@ _rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data include Abkhazia and South Ossetia<br>
 
 **Major urban areas - population**<br>
-1.079 million TBILISI (capital) (2021)<br>
+1.080 million TBILISI (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -173,7 +173,7 @@ _unimproved: rural_: rural: 3.8% of population<br>
 _unimproved: total_: total: 1.6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.1% (2018)<br>
+6.7% (2019)<br>
 
 **Physicians density**<br>
 7.12 physicians/1,000 population (2018)<br>
@@ -368,6 +368,10 @@ Saint George, lion; national colors: red, white<br>
 _name_: "Tavisupleba" (Liberty)<br>
 _lyrics/music_: Davit MAGRADSE/Zakaria PALIASHVILI (adapted by Joseb KETSCHAKMADSE)<br>
 <strong>note:</strong> adopted 2004; after the Rose Revolution, a new anthem with music based on the operas "Abesalom da Eteri" and "Daisi" was adopted<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Gelati Monastery (c), Historical Monuments of Mtskheta (c), Upper Svaneti (c), Colchic Rainforests and Wetlands (n)<br>
 
 ## Economy
 

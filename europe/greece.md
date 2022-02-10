@@ -130,7 +130,7 @@ _urban population_: 80.4% of total population (2022)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-3.153 million ATHENS (capital), 813,000 Thessaloniki (2021)<br>
+3.154 million ATHENS (capital), 814,000 Thessaloniki (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
@@ -172,7 +172,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-7.7% (2018)<br>
+7.8% (2019)<br>
 
 **Physicians density**<br>
 5.48 physicians/1,000 population (2017)<br>
@@ -372,6 +372,10 @@ Greek cross (white cross on blue field, arms equal length); national colors: blu
 _name_: "Ymnos eis tin Eleftherian" (Hymn to Liberty)<br>
 _lyrics/music_: Dionysios SOLOMOS/Nikolaos MANTZAROS<br>
 <strong>note:</strong> adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses "Hymn to Liberty" as its anthem<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 18 (16 cultural, 2 mixed)<br>
+_selected World Heritage Site locales_: Acropolis, Athens (c), Archaeological site of Delphi (c), Meteora (m), Medieval City of Rhodes (c), Archaeological site of Olympia (c), Archaeological site of Mycenae and Tiryns (c), Old Town of Corfu (c), Mount Athos (m), Delos (c), Archaeological Site of Philippi (c)<br>
 
 ## Economy
 
@@ -716,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,214,284 estimated refugee and migrant arrivals (January 2015-December 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
+<strong>note:</strong> 1,214,550 estimated refugee and migrant arrivals (January 2015-January 2022); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

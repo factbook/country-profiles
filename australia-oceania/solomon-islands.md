@@ -170,7 +170,7 @@ _unimproved: rural_: rural: 32.9% of population<br>
 _unimproved: total_: total: 26.4% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-4.5% (2018)<br>
+4.8% (2019)<br>
 
 **Physicians density**<br>
 0.19 physicians/1,000 population (2016)<br>
@@ -351,6 +351,10 @@ national colors: blue, yellow, green, white<br>
 _name_: God Save Our Solomon Islands<br>
 _lyrics/music_: Panapasa BALEKANA and Matila BALEKANA/Panapasa BALEKANA<br>
 <strong>note:</strong> adopted 1978<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (natural)<br>
+_selected World Heritage Site locales_: East Rennell<br>
 
 ## Economy
 

@@ -175,7 +175,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-6.8% (2018)<br>
+7% (2019)<br>
 
 **Physicians density**<br>
 1.95 physicians/1,000 population (2016)<br>
@@ -378,6 +378,10 @@ Cypriot mouflon (wild sheep), white dove; national colors: blue, white<br>
 _name_: "Ymnos eis tin Eleftherian" (Hymn to Liberty)<br>
 _lyrics/music_: Dionysios SOLOMOS/Nikolaos MANTZAROS<br>
 <strong>note:</strong> adopted 1960; Cyprus adopted the Greek national anthem as its own; the Turkish Cypriot community in Cyprus uses the anthem of Turkey<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (all cultural)<br>
+_selected World Heritage Site locales_: Paphos, Painted Churches in the Troodos Region, Choirokoitia<br>
 
 ## Economy
 
@@ -680,11 +684,11 @@ area administered by Turkish Cypriots: Famagusta, Kyrenia<br>
 Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF, includes Army Land Forces, Naval Command, Air Command) (2021)<br>
 
 **Military expenditures**<br>
-1.75% of GDP (2020 est.)<br>
+1.95% of GDP (2021 est.)<br>
+1.75% of GDP (2020)<br>
 1.6% of GDP (2019)<br>
 1.8% of GDP (2018)<br>
 1.6% of GDP (2017)<br>
-1.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Cypriot National Guard has approximately 15,000 total active duty personnel (2021)<br>

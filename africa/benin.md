@@ -135,7 +135,7 @@ _urban population_: 49.5% of total population (2022)<br>
 _rate of urbanization_: 3.74% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-285,000 PORTO-NOVO (capital) (2018); 1.123 million Abomey-Calavi, 699,000 COTONOU (seat of government) (2021)<br>
+285,000 PORTO-NOVO (capital) (2018); 1.189 million Abomey-Calavi, 709,000 COTONOU (seat of government) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -178,7 +178,7 @@ _unimproved: rural_: rural: 27.8% of population<br>
 _unimproved: total_: total: 23.6% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-2.5% (2018)<br>
+2.4% (2019)<br>
 
 **Physicians density**<br>
 0.08 physicians/1,000 population (2018)<br>
@@ -390,6 +390,10 @@ leopard; national colors: green, yellow, red<br>
 _name_: "L'Aube Nouvelle" (The Dawn of a New Day)<br>
 _lyrics/music_: Gilbert Jean DAGNON<br>
 <strong>note:</strong> adopted 1960<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Royal Palaces of Abomey (c), W-Arly-Pendjari Complex (n)<br>
 
 ## Economy
 

@@ -94,7 +94,7 @@ Bengali at least 98%, other indigenous ethnic groups 1.1% (2011 est.)<br>
 
 **Languages**<br>
 Bangla 98.8% (official, also known as Bengali), other 1.2% (2011 est.)<br>
-_major-language sample(s)_: <br>বিশ্ব ফেসবুক, মৌলিক তথ্যের অপরিহার্য উৎস (Bangla)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <p><br>বিশ্ব ফ্যাক্টবুক, মৌলিক তথ্যের অপরিহার্য উৎস (Bangla)</p> <br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 88.4%, other 11.6% (2018 est.)<br>
@@ -134,7 +134,7 @@ _urban population_: 39.7% of total population (2022)<br>
 _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-21.741 million DHAKA (capital), 5.133 million Chittagong, 949,000 Khulna, 924,000 Rajshahi, 890,000 Sylhet, Bogra 820,000 (2021)<br>
+22.478 million DHAKA (capital), 5.253 million Chittagong, 950,000 Khulna, 942,000 Rajshahi, 928,000 Sylhet, Bogra 864,000 (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
@@ -177,7 +177,7 @@ _unimproved: rural_: rural: 1.6% of population<br>
 _unimproved: total_: total: 1.4% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-2.3% (2018)<br>
+2.5% (2019)<br>
 
 **Physicians density**<br>
 0.58 physicians/1,000 population (2018)<br>
@@ -397,6 +397,10 @@ Bengal tiger, water lily; national colors: green, red<br>
 _name_: "Amar Shonar Bangla" (My Golden Bengal)<br>
 _lyrics/music_: Rabindranath TAGORE<br>
 <strong>note:</strong> adopted 1971; Rabindranath TAGORE, a Nobel laureate, also wrote India's national anthem<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
+_selected World Heritage Site locales_: Bagerhat Historic Mosque (c), Ruins of the Buddhist Vihara at Paharpur (c), Sundarbans (n)<br>
 
 ## Economy
 

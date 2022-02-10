@@ -137,7 +137,7 @@ _urban population_: 87.9% of total population (2022)<br>
 _rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-6.812 million SANTIAGO (capital), 992,000 Valparaiso, 892,000 Concepcion (2021)<br>
+6.857 million SANTIAGO (capital), 1.000 million Valparaiso, 902,000 Concepcion (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
@@ -176,7 +176,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
-9.1% (2018)<br>
+9.3% (2019)<br>
 
 **Physicians density**<br>
 2.59 physicians/1,000 population (2018)<br>
@@ -376,6 +376,10 @@ huemul (mountain deer), Andean condor; national colors: red, white, blue<br>
 _name_: "Himno Nacional de Chile" (National Anthem of Chile)<br>
 _lyrics/music_: Eusebio LILLO Robles and Bernardo DE VERA y Pintado/Ramon CARNICER y Battle<br>
 <strong>note:</strong> music adopted 1828, original lyrics adopted 1818, adapted lyrics adopted 1847; under Augusto PINOCHET's military rule, a verse glorifying the army was added; however, as a protest, some citizens refused to sing this verse; it was removed when democracy was restored in 1990<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 7 (all cultural)<br>
+_selected World Heritage Site locales_: Rapa Nui National Park; Churches of Chiloe; Historic Valparaiso; Humberstone and Santa Laura Saltpeter Works; Sewell Mining Town; Qhapaq &Ntilde;an/Andean Road System; Chinchorro archeological sites<br>
 
 ## Economy
 

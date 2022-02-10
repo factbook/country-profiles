@@ -128,7 +128,7 @@ _urban population_: 93.6% of total population (2022)<br>
 _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-2.445 million SAN JUAN (capital) (2021)<br>
+2.443 million SAN JUAN (capital) (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
@@ -326,6 +326,10 @@ Puerto Rican spindalis (bird), coqui (frog); national colors: red, white, blue<b
 _name_: "La Borinquena" (The Puerto Rican)<br>
 _lyrics/music_: Manuel Fernandez JUNCOS/Felix Astol ARTES<br>
 <strong>note:</strong> music adopted 1952, lyrics adopted 1977; the local anthem's name is a reference to the indigenous name of the island, Borinquen; the music was originally composed as a dance in 1867 and gained popularity in the early 20th century; there is some evidence that the music was written by Francisco RAMIREZ; as a commonwealth of the US, "The Star-Spangled Banner" is official (see United States)<br>
+
+**National heritage**<br>
+_total World Heritage Sites_: 1 (cultural); note - excerpted from the US entry<br>
+_selected World Heritage Site locales_: La Fortaleza and San Juan National Historic Site<br>
 
 ## Economy
 
