@@ -177,12 +177,12 @@ _female_: 71.49 years (2021 est.)<br>
 53.5% (2015/16)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 96% of population<br>
-_improved: rural_: rural: 91% of population<br>
-_improved: total_: total: 92.7% of population<br>
-_unimproved: urban_: urban: 4% of population<br>
-_unimproved: rural_: rural: 9% of population<br>
-_unimproved: total_: total: 7.2% of population (2017 est.)<br>
+_improved: urban_: urban: 96.9% of population<br>
+_improved: rural_: rural: 94.7% of population<br>
+_improved: total_: total: 95.5% of population<br>
+_unimproved: urban_: urban: 3.1% of population<br>
+_unimproved: rural_: rural: 5.3% of population<br>
+_unimproved: total_: total: 4.5% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3% (2019)<br>
@@ -194,12 +194,12 @@ _unimproved: total_: total: 7.2% of population (2017 est.)<br>
 0.5 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 93.7% of population<br>
-_improved: rural_: rural: 61.1% of population<br>
-_improved: total_: total: 72% of population<br>
-_unimproved: urban_: urban: 6.3% of population<br>
-_unimproved: rural_: rural: 38.9% of population<br>
-_unimproved: total_: total: 28% of population (2017 est.)<br>
+_improved: urban_: urban: 98.6% of population<br>
+_improved: rural_: rural: 75.2% of population<br>
+_improved: total_: total: 83.4% of population<br>
+_unimproved: urban_: urban: 1.4% of population<br>
+_unimproved: rural_: rural: 24.8% of population<br>
+_unimproved: total_: total: 16.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2017 est.)<br>
@@ -729,10 +729,10 @@ note - the Assam Rifles are under the administrative control of the Ministry of 
 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
-2.6% of GDP (2020 est.)<br>
+2.6% of GDP (2020)<br>
 2.4% of GDP (2019)<br>
 2.4% of GDP (2018)<br>
-2.5% of GDP (2017)<br>
+2.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 1.45 million active personnel (est. 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2021)<br>

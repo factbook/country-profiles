@@ -181,12 +181,12 @@ _female_: 75.57 years (2021 est.)<br>
 58.5% (2014)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98.8% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 1.2% of population<br>
-_unimproved: total_: total: 0.6% of population (2017 est.)<br>
+_improved: urban_: urban: 99.7% of population<br>
+_improved: rural_: rural: 99.7% of population<br>
+_improved: total_: total: 99.7% of population<br>
+_unimproved: urban_: urban: 0.3% of population<br>
+_unimproved: rural_: rural: 0.3% of population<br>
+_unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.7% (2019)<br>
@@ -198,12 +198,12 @@ _unimproved: total_: total: 0.6% of population (2017 est.)<br>
 1.4 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 97.6% of population<br>
-_improved: total_: total: 98.5% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 2.4% of population<br>
-_unimproved: total_: total: 1.5% of population (2017 est.)<br>
+_improved: urban_: urban: 99% of population<br>
+_improved: rural_: rural: 98.2% of population<br>
+_improved: total_: total: 98.9% of population<br>
+_unimproved: urban_: urban: 0.1% of population<br>
+_unimproved: rural_: rural: 1.8% of population<br>
+_unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020 est.)<br>
@@ -722,11 +722,11 @@ Egyptian Armed Forces (EAF): Army (includes surface-to-surface missile forces, s
 note(s) - the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Sector is responsible for internal security threats and counterterrorism along with other security services; in addition to its external defense duties, the EAF also has a mandate to assist police in protecting vital infrastructure during a state of emergency; military personnel were granted full arrest authority in 2011 but normally only use this authority during states of emergency and &ldquo;periods of significant turmoil&rdquo;<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2020 est.)<br>
-1.2% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.4% of GDP (2017)<br>
-1.7% of GDP (2016)<br>
+1.3% of GDP (2020 est.)<br>
+1.3% of GDP (2019)<br>
+1.4% of GDP (2018)<br>
+1.6% of GDP (2017)<br>
+1.8% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 450,000 total active personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces (2021)<br>
@@ -742,7 +742,7 @@ voluntary enlistment possible from age 16 (men and women); 18-30 years of age fo
 note - over half of the military, as well as a considerable portion of the Central Security Force, is comprised of conscripts<br>
 
 **Military - note**<br>
-<p>since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of 2021, Egypt reportedly had approximately 40,000 military troops, police, and other security personnel deployed to the Sinai for internal security duties; in addition, tribal militias were assisting Egyptian security forces<br><br>the military has a large stake in the civilian economy, including running banks, businesses, and shipping lines, producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing<br><br>Egypt has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br></p> the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; as of 2021, it was composed of about 1,150 troops from 13 countries<br>
+<p>since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of 2021, Egypt reportedly had approximately 40,000 military troops, police, and other security personnel deployed in the Sinai for internal security duties; in addition, tribal militias were assisting Egyptian security forces<br><br>the military has a large stake in the civilian economy, including running banks, businesses, and shipping lines, producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing<br><br>Egypt has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br></p> the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; as of 2021, it was composed of about 1,150 troops from 13 countries<br>
 
 ## Terrorism
 

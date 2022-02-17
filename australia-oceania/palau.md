@@ -156,12 +156,12 @@ _female_: 77.75 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: 99.6% of population<br>
+_improved: rural_: rural: 99.8% of population<br>
+_improved: total_: total: 99.7% of population<br>
+_unimproved: urban_: urban: 0.4% of population<br>
+_unimproved: rural_: rural: 0.2% of population<br>
+_unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 15.2% (2019)<br>
@@ -170,12 +170,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 1.42 physicians/1,000 population (2014)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: 99.8% of population<br>
+_improved: rural_: rural: 99% of population<br>
+_improved: total_: total: 99.6% of population<br>
+_unimproved: urban_: urban: 0.2% of population<br>
+_unimproved: rural_: rural: 1% of population<br>
+_unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -501,7 +501,7 @@ _subscriptions per 100 inhabitants_: 134.4 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-developed mobile sector, recently boosted by satellite network capacity upgrades; 3G services available with satellite; lack of telecom regulations; newest and most powerful commercial satellite, Kacific-1 satellite, launched in 2019 to improve telecommunications in the Asia Pacific region (2020)<br>
-_domestic_: fixed-line 41 per 100 and mobile-cellular services 134 per 100 persons (2019)<br>
+_domestic_: fixed-line nearly 41 per 100 and mobile-cellular services roughly 134 per 100 persons (2019)<br>
 _international_: country code - 680; landing point for the SEA-US submarine cable linking Palau, Philippines, Micronesia, Indonesia, Hawaii (US), Guam (US) and&nbsp;California (US); satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

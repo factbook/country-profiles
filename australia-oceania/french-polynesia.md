@@ -154,8 +154,12 @@ _female_: 80.63 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 NA<br>
@@ -164,8 +168,12 @@ NA<br>
 2.13 physicians/1,000 population (2009)<br>
 
 **Sanitation facility access**<br>
-_improved: total_: total: 96.9% of population<br>
-_unimproved: total_: total: 3.1% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 97% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>

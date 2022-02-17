@@ -164,12 +164,12 @@ _female_: 78.36 years (2021 est.)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 97.1% of population<br>
-_improved: rural_: rural: 97.1% of population<br>
-_improved: total_: total: 96.8% of population<br>
-_unimproved: urban_: urban: 2.9% of population<br>
-_unimproved: rural_: rural: 2.9% of population<br>
-_unimproved: total_: total: 3.2% of population (2017 est.)<br>
+_improved: urban_: urban: 98.9% of population<br>
+_improved: rural_: rural: 99% of population<br>
+_improved: total_: total: 98.9% of population<br>
+_unimproved: urban_: urban: 1.1% of population<br>
+_unimproved: rural_: rural: 1% of population<br>
+_unimproved: total_: total: 1.1% of population (2020 est.)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
 **Current Health Expenditure**<br>
@@ -182,12 +182,12 @@ NA<br>
 1.3 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 99.3% of population<br>
-_improved: total_: total: 99.8% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0.7% of population<br>
-_unimproved: total_: total: 0.2% of population (2017 est.)<br>
+_improved: urban_: urban: 99.9% of population<br>
+_improved: rural_: rural: 98.6% of population<br>
+_improved: total_: total: 99.6% of population<br>
+_unimproved: urban_: urban: 0.1% of population<br>
+_unimproved: rural_: rural: 1.4% of population<br>
+_unimproved: total_: total: 0.4% of population (2020 est.)<br>
 <strong>note:</strong> note includes Gaza Strip and the West Bank<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
@@ -502,16 +502,18 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 472,293 (includes Gaza Strip) (2017 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (includes Gaza Strip) (2016 est.)<br>
+_total subscriptions_: 466,283 (includes Gaza Strip) (2017 est.) (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (includes Gaza Strip) (2016 est.) (2020 est.)<br>
+<strong>note</strong>: includes Gaza Strip<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,135,363 (includes Gaza Strip) (2017 est.)<br>
-_subscriptions per 100 inhabitants_: 76 (includes Gaza Strip) (2017 est.)<br>
+_total subscriptions_: 4,268 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 84 (2020 est.)<br>
+<strong>note:</strong> includes Gaza Strip<br>
 
 **Telecommunication systems**<br>
 _general assessment_: continuing political and economic instability has impeded liberalization of the telecommunications industry (2018)<br>
-_domestic_: Israeli company BEZEK and the Palestinian company PALTEL are responsible for fixed-line services; two Palestinian cellular providers, JAWWAL and WATANIYA MOBILE, launched 3G mobile networks in the West Bank in January 2018 after Israel lifted its ban; fixed-line 9 per 100 and mobile-cellular 76 per 100 (includes Gaza Strip) (2019)<br>
+_domestic_: Israeli company BEZEK and the Palestinian company PALTEL are responsible for fixed-line services; two Palestinian cellular providers, JAWWAL and WATANIYA MOBILE, launched 3G mobile networks in the West Bank in January 2018 after Israel lifted its ban; fixed-line 9 per 100 and mobile-cellular subscriptions 84 per 100 (includes Gaza Strip) (2020)<br>
 _international_: country code 970 or 972; 1 international switch in Ramallah<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -526,8 +528,8 @@ _total_: 2.673 million (includes Gaza Strip)<br>
 _percent of population_: 57.4% (July 2016 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 371,299<br>
-_subscriptions per 100 inhabitants_: 14 (2017 est.)<br>
+_total_: 373,050 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 7.31 (2020 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 ## Transportation

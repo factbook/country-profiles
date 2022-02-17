@@ -44,7 +44,7 @@ tropical; generally hot and humid; monsoonal-type rainy season (June to November
 mostly low-lying coastal plain with a deeply indented estuarine coastline rising to savanna in east; numerous off-shore islands including the Arquipelago Dos Bijagos consisting of 18 main islands and many small islets<br>
 
 **Elevation**<br>
-_highest point_: unnamed elevation in the eastern part of the country 300 m<br>
+_highest point_: Dongol Ronde 277 m<br>note - the Factbook map is incorrect; it shows the wrong location of the high elevation<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 70 m<br>
 
@@ -164,12 +164,12 @@ _female_: 65.55 years (2021 est.)<br>
 20.6% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 91.2% of population<br>
-_improved: rural_: rural: 60.3% of population<br>
-_improved: total_: total: 73.5% of population<br>
-_unimproved: urban_: urban: 8.5% of population<br>
-_unimproved: rural_: rural: 39.7% of population<br>
-_unimproved: total_: total: 26.5% of population (2017 est.)<br>
+_improved: urban_: urban: 90.6% of population<br>
+_improved: rural_: rural: 59.1% of population<br>
+_improved: total_: total: 73.1% of population<br>
+_unimproved: urban_: urban: 9.4% of population<br>
+_unimproved: rural_: rural: 40.9% of population<br>
+_unimproved: total_: total: 26.9% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 8.4% (2019)<br>
@@ -178,12 +178,12 @@ _unimproved: total_: total: 26.5% of population (2017 est.)<br>
 0.13 physicians/1,000 population (2016)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 66.5% of population<br>
-_improved: rural_: rural: 13.4% of population<br>
-_improved: total_: total: 36.2% of population<br>
-_unimproved: urban_: urban: 33.5% of population<br>
-_unimproved: rural_: rural: 86.6% of population<br>
-_unimproved: total_: total: 63.8% of population (2017 est.)<br>
+_improved: urban_: urban: 62.4% of population<br>
+_improved: rural_: rural: 7.6% of population<br>
+_improved: total_: total: 31.8% of population<br>
+_unimproved: urban_: urban: 37.6% of population<br>
+_unimproved: rural_: rural: 92.4% of population<br>
+_unimproved: total_: total: 68.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 3% (2020 est.)<br>
@@ -636,10 +636,10 @@ note - the Public Order Police is responsible for maintaining law and order, whi
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
-1.7% of GDP (2019)<br>
-1.4% of GDP (2018)<br>
-1.4% of GDP (2017)<br>
-1.3% of GDP (2016)<br>
+1.9% of GDP (2019 est.)<br>
+1.7% of GDP (2018 est.)<br>
+1.7% of GDP (2017 est.)<br>
+1.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the People's Revolutionary Armed Force (FARP) has approximately 4,000 total active troops, including a few hundred air and naval personnel (2021)<br>

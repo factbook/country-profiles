@@ -177,12 +177,12 @@ _female_: 68.95 years (2021 est.)<br>
 56.3% (2014)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.4% of population<br>
-_improved: rural_: rural: 77.8% of population<br>
-_improved: total_: total: 80.3% of population<br>
-_unimproved: urban_: urban: 1.6% of population<br>
-_unimproved: rural_: rural: 22.2% of population<br>
-_unimproved: total_: total: 19.7% of population (2017 est.)<br>
+_improved: urban_: urban: 99.3% of population<br>
+_improved: rural_: rural: 80.6% of population<br>
+_improved: total_: total: 85.1% of population<br>
+_unimproved: urban_: urban: 0.7% of population<br>
+_unimproved: rural_: rural: 19.4% of population<br>
+_unimproved: total_: total: 14.9% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7% (2019)<br>
@@ -195,11 +195,11 @@ _unimproved: total_: total: 19.7% of population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 55.5% of population<br>
-_improved: total_: total: 65.7% of population<br>
+_improved: rural_: rural: 69.3% of population<br>
+_improved: total_: total: 76.8% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 44.5% of population<br>
-_unimproved: total_: total: 34.3% of population (2017 est.)<br>
+_unimproved: rural_: rural: 30.7% of population<br>
+_unimproved: total_: total: 23.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.5% (2020 est.)<br>
@@ -704,7 +704,7 @@ note - the Cambodian National Police is under the Ministry of Interior<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
-2.3% of GDP (2019 est.)<br>
+2.2% of GDP (2019 est.)<br>
 2.2% of GDP (2018)<br>
 2.1% of GDP (2017)<br>
 2% of GDP (2016)<br>

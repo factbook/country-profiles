@@ -161,12 +161,12 @@ _female_: 75.74 years (2021 est.)<br>
 70.2% (2017)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 97.2% of population<br>
-_improved: rural_: rural: 90.2% of population<br>
+_improved: urban_: urban: 97.8% of population<br>
+_improved: rural_: rural: 89.1% of population<br>
 _improved: total_: total: 94.5% of population<br>
-_unimproved: urban_: urban: 2.8% of population<br>
-_unimproved: rural_: rural: 9.8% of population<br>
-_unimproved: total_: total: 5.5% of population (2017 est.)<br>
+_unimproved: urban_: urban: 2.2% of population<br>
+_unimproved: rural_: rural: 10.9% of population<br>
+_unimproved: total_: total: 5.5% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 NA<br>
@@ -175,12 +175,12 @@ NA<br>
 3.68 physicians/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 91.9% of population<br>
-_improved: rural_: rural: 72.3% of population<br>
-_improved: total_: total: 84.5% of population<br>
-_unimproved: urban_: urban: 8.1% of population<br>
-_unimproved: rural_: rural: 27.7% of population<br>
-_unimproved: total_: total: 15.5% of population (2017 est.)<br>
+_improved: urban_: urban: 92.7% of population<br>
+_improved: rural_: rural: 73.1% of population<br>
+_improved: total_: total: 85.3% of population<br>
+_unimproved: urban_: urban: 7.3% of population<br>
+_unimproved: rural_: rural: 26.9% of population<br>
+_unimproved: total_: total: 14.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -617,7 +617,7 @@ Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force and Air D
 note - the North also has a large paramilitary force organized into the Worker Peasant Red Guard and Red Youth Guard; these organizations are present at all levels of government (province, county, ward) and are under the control of the Korean Workers' Party in peacetime, but revert to KPA control in crisis or war; they are often mobilized for domestic projects, such as road building and agricultural support<br>
 
 **Military expenditures**<br>
-an estimated 20-30% of North Korea's GDP is allocated to the military<br>
+between 2010 and 2019, military expenditures accounted for an estimated 20-25% of North Korea's GDP annually<br>
 
 **Military and security service personnel strengths**<br>
 assessments of the size of the Korean People&rsquo;s Army (KPA) vary widely; approximately 1.1-1.3 million active troops (950,000-1.0 million Army; 110-120,000 Air Force; 60,000 Navy; 10,000 Strategic Missile Forces); est. 200,000 internal security forces (2021)<br>

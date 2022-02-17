@@ -175,12 +175,12 @@ _female_: 70.74 years (2021 est.)<br>
 27.2% (2017/18)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 97.4% of population<br>
-_improved: rural_: rural: 80.6% of population<br>
-_improved: total_: total: 89.9% of population<br>
-_unimproved: urban_: urban: 2.6% of population<br>
-_unimproved: rural_: rural: 19.4% of population<br>
-_unimproved: total_: total: 10.1% of population (2017 est.)<br>
+_improved: urban_: urban: 98.7% of population<br>
+_improved: rural_: rural: 83.8% of population<br>
+_improved: total_: total: 92.4% of population<br>
+_unimproved: urban_: urban: 1.3% of population<br>
+_unimproved: rural_: rural: 16.2% of population<br>
+_unimproved: total_: total: 7.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.4% (2019)<br>
@@ -192,12 +192,12 @@ _unimproved: total_: total: 10.1% of population (2017 est.)<br>
 0.9 beds/1,000 population (2011)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 84.2% of population<br>
-_improved: rural_: rural: 49.5% of population<br>
-_improved: total_: total: 68.7% of population<br>
-_unimproved: urban_: urban: 15.8% of population<br>
-_unimproved: rural_: rural: 50.5% of population<br>
-_unimproved: total_: total: 31.3% of population (2017 est.)<br>
+_improved: urban_: urban: 84.8% of population<br>
+_improved: rural_: rural: 52.8% of population<br>
+_improved: total_: total: 71.1% of population<br>
+_unimproved: urban_: urban: 15.2% of population<br>
+_unimproved: rural_: rural: 47.2% of population<br>
+_unimproved: total_: total: 28.9% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.7% (2020 est.)<br>
@@ -700,7 +700,7 @@ Ghana Armed Forces: Army, Navy, Air Force (2021)<br>
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>
 0.4% of GDP (2019)<br>
-0.4% of GDP (2018)<br>
+0.3% of GDP (2018)<br>
 0.3% of GDP (2017)<br>
 0.3% of GDP (2016)<br>
 
@@ -728,7 +728,7 @@ the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Wester
 <p>disputed maritime border between Ghana and Cote d'Ivoire</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,324 (Cote d'Ivoire) (flight from 2010 post-election fighting) (2021)<br>
+_refugees (country of origin)_: 6,029 (Cote d'Ivoire) (flight from 2010 post-election fighting) (2022)<br>
 
 **Illicit drugs**<br>
 a transit and destination point for illicit drugs trafficked from Asia and South America to other African nations and Europe, and to a lesser extent the United States; cultivation of cannabis for domestic use and is trafficked to regional markets or to Europe<br>

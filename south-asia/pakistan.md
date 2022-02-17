@@ -175,12 +175,12 @@ _female_: 71.5 years (2021 est.)<br>
 34% (2018/19)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 94.2% of population<br>
-_improved: rural_: rural: 89.9% of population<br>
-_improved: total_: total: 91.5% of population<br>
-_unimproved: urban_: urban: 5.8% of population<br>
-_unimproved: rural_: rural: 10.1% of population<br>
-_unimproved: total_: total: 8.5% of population (2017 est.)<br>
+_improved: urban_: urban: 96.5% of population<br>
+_improved: rural_: rural: 92.5% of population<br>
+_improved: total_: total: 94% of population<br>
+_unimproved: urban_: urban: 3.5% of population<br>
+_unimproved: rural_: rural: 7.5% of population<br>
+_unimproved: total_: total: 6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.4% (2019)<br>
@@ -192,12 +192,12 @@ _unimproved: total_: total: 8.5% of population (2017 est.)<br>
 0.6 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 82.5% of population<br>
-_improved: rural_: rural: 62.9% of population<br>
-_improved: total_: total: 70.1% of population<br>
-_unimproved: urban_: urban: 17.5% of population<br>
-_unimproved: rural_: rural: 37.1% of population<br>
-_unimproved: total_: total: 29.9% of population (2017 est.)<br>
+_improved: urban_: urban: 88.6% of population<br>
+_improved: rural_: rural: 73.2% of population<br>
+_improved: total_: total: 78.9% of population<br>
+_unimproved: urban_: urban: 11.4% of population<br>
+_unimproved: rural_: rural: 26.8% of population<br>
+_unimproved: total_: total: 21.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -639,11 +639,11 @@ _subscriptions per 100 inhabitants_: 1.3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 165,405,847<br>
-_subscriptions per 100 inhabitants_: 72.33 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 76.38 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Pakistan&rsquo;s telecom market recently transitioned from a regulated state-owned monopoly to a deregulated competitive structure, now aided by foreign investment; moderate growth over the last six years, supported by a young population and a rising use of mobile services; telecom infrastructure is improving, with investments in mobile-cellular networks, fixed-line subscriptions declining; system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks; 4G mobile services broadly available; 5G tests ongoing; data centers in major cities; mobile and broadband doing well and dominate over fixed-broadband sector; China-Pakistan Fiber Optic Project became operational in 2020; importer of broadcasting equipment and computers from China (2020)<br>
-_domestic_: mobile-cellular subscribership has skyrocketed; more than 90% of Pakistanis live within areas that have cell phone coverage; fiber-optic networks are being constructed throughout the country to increase broadband access, though broadband penetration in Pakistan is still relatively low; fixed-line 1 per 100 and mobile-cellular 76 per 100 persons (2019)<br>
+_domestic_: mobile-cellular subscribership has increased; more than 90% of Pakistanis live within areas that have cell phone coverage; fiber-optic networks are being constructed throughout the country to increase broadband access, though broadband penetration in Pakistan is still relatively low; fixed-line a little over 1 per 100 and mobile-cellular roughly 76 per 100 persons (2020)<br>
 _international_: country code - 92; landing points for the SEA-ME-WE-3, -4, -5, AAE-1, IMEWE, Orient Express, PEACE Cable,&nbsp;and TW1 submarine cable systems that provide links to Europe, Africa, the Middle East, Asia, Southeast Asia, and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean); 3 operational international gateway exchanges (1 at Karachi and 2 at Islamabad); microwave radio relay to neighboring countries (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -722,7 +722,7 @@ Pakistan Army (includes National Guard), Pakistan Navy (includes Marine forces, 
 note(s) - the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers; the Frontier Corps is a paramilitary force which operates in Balochistan and Khyber Pakhtunkhwa, including the former Federally Administered Tribal Areas; its primary mission is security of the Pakistan-Afghanistan border; the Pakistan Rangers are also a paramilitary force which operate in Sindh and Punjab<br>
 
 **Military expenditures**<br>
-4% of GDP (2020)<br>
+4% of GDP (2020 est.)<br>
 4.1% of GDP (2019)<br>
 4.1% of GDP (2018)<br>
 3.8% of GDP (2017)<br>

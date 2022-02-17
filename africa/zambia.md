@@ -178,12 +178,12 @@ _female_: 67.75 years (2021 est.)<br>
 49.6% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 89.5% of population<br>
-_improved: rural_: rural: 50.9% of population<br>
-_improved: total_: total: 67.5% of population<br>
-_unimproved: urban_: urban: 10.5% of population<br>
-_unimproved: rural_: rural: 49.1% of population<br>
-_unimproved: total_: total: 32.5% of population (2017 est.)<br>
+_improved: urban_: urban: 90.2% of population<br>
+_improved: rural_: rural: 56.6% of population<br>
+_improved: total_: total: 71.6% of population<br>
+_unimproved: urban_: urban: 9.8% of population<br>
+_unimproved: rural_: rural: 43.4% of population<br>
+_unimproved: total_: total: 28.4% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.3% (2019)<br>
@@ -195,12 +195,12 @@ _unimproved: total_: total: 32.5% of population (2017 est.)<br>
 2 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 69.6% of population<br>
-_improved: rural_: rural: 24.8% of population<br>
-_improved: total_: total: 44.1% of population<br>
-_unimproved: urban_: urban: 31.4% of population<br>
-_unimproved: rural_: rural: 75.2% of population<br>
-_unimproved: total_: total: 55.9% of population (2017 est.)<br>
+_improved: urban_: urban: 76.3% of population<br>
+_improved: rural_: rural: 31.9% of population<br>
+_improved: total_: total: 51.7% of population<br>
+_unimproved: urban_: urban: 23.7% of population<br>
+_unimproved: rural_: rural: 68.1% of population<br>
+_unimproved: total_: total: 48.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 11.1% (2020 est.)<br>
@@ -633,7 +633,7 @@ _subscriptions per 100 inhabitants_: 103.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: service is among the best in Sub-Saharan Africa; regulator promotes competition and is a partner to private sector service providers, offering mobile voice and Internet at some of the lowest prices in the region; investment made in data centers, education centers, and computer assembly training plants; operators invest in 3G and LTE-based services; Chinese company Huawei is helping to upgrade state-owned mobile infrastructure for 5G services; operators focused on improvements to towers (2020)<br>
-_domestic_: fiber optic connections are available between most larger towns and cities with microwave radio relays serving more rural areas; 3G and LTE with FttX in limited urban areas and private Ku or Ka band VSAT terminals in remote locations; fixed-line 1 per 100 and mobile-cellular 96 per 100 (2019)<br>
+_domestic_: fiber optic connections are available between most larger towns and cities with microwave radio relays serving more rural areas; 3G and LTE with FttX in limited urban areas and private Ku or Ka band VSAT terminals in remote locations; fixed-line teledensity less than 1 per 100 and mobile-cellular roughly 104 per 100 (2020)<br>
 _international_: country code - 260; multiple providers operate overland fiber optic routes via Zimbabwe/South Africa, Botswana/Namibia and Tanzania provide access to the major undersea cables<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -709,10 +709,10 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.2% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
-1.3% of GDP (2017)<br>
-1.5% of GDP (2016)<br>
+1.3% of GDP (2019 est.)<br>
+1.4% of GDP (2018 est.)<br>
+1.3% of GDP (2017 est.)<br>
+1.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Zambia Defense Force (ZDF) has approximately 16,500 active troops (15,000 Army; 1,500 Air) (2021)<br>

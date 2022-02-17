@@ -166,6 +166,14 @@ _unimproved: total_: total: NA<br>
 **Current Health Expenditure**<br>
 NA<br>
 
+**Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
+
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
@@ -524,7 +532,7 @@ _subscriptions per 100 inhabitants_: 123.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: dynamic telecommunications industry defined by excellent infrastructure and competitive mobile market; solid availability of fixed and mobile broadband networks; investors attracted to regulatory certainty, market maturity, an educated workforce, and ICT sector at the heart of economic development; 4G LTE service with fiber is the most popular platform; 5G to 80% of subscribers; government funds development of 5G and IoT market; concerns include China&rsquo;s efforts to influence media and ICT policy (2020)<br>
-_domestic_: fixed-line 55 per 100 and mobile-cellular 123 per 100 (2019)<br>
+_domestic_: fixed-line over 53 per 100 and mobile-cellular roughly 123 per 100 (2020)<br>
 _international_: country code - 886; landing points for the EAC-C2C,&nbsp;APCN-2, FASTER, SJC2, TSE-1, TPE, APG, SeaMeWe-3, FLAG&nbsp;North Asia Loop/REACH North Asia Loop, HKA, NCP, and PLCN&nbsp;submarine fiber cables provide links throughout Asia, Australia, the Middle East, Europe, Africa and the US; satellite earth stations - 2 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -603,8 +611,8 @@ note - the Armed Forces also have Military Police and Armed Forces Reserve comma
 **Military expenditures**<br>
 2.1% of GDP (2021 est.)<br>
 2.2% of GDP (2020)<br>
-2.1% of GDP (2019)<br>
-1.8% of GDP (2018)<br>
+1.9% of GDP (2019)<br>
+1.7% of GDP (2018)<br>
 1.8% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>

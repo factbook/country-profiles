@@ -43,7 +43,7 @@ equatorial; high plateau with considerable altitude variation (772 m to 2,670 m 
 hilly and mountainous, dropping to a plateau in east, some plains<br>
 
 **Elevation**<br>
-_highest point_: Heha 2,670 m<br>
+_highest point_: unnamed elevation on Mukike Range 2,685 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
 _lowest point_: Lake Tanganyika 772 m<br>
 _mean elevation_: 1,504 m<br>
 
@@ -173,12 +173,12 @@ _female_: 69.22 years (2021 est.)<br>
 28.5% (2016/17)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 97.6% of population<br>
-_improved: rural_: rural: 77.8% of population<br>
-_improved: total_: total: 80.3% of population<br>
-_unimproved: urban_: urban: -1.1% of population<br>
-_unimproved: rural_: rural: 22.2% of population<br>
-_unimproved: total_: total: 19.7% of population (2017 est.)<br>
+_improved: urban_: urban: 98.7% of population<br>
+_improved: rural_: rural: 78.9% of population<br>
+_improved: total_: total: 81.6% of population<br>
+_unimproved: urban_: urban: 1.3% of population<br>
+_unimproved: rural_: rural: 21.1% of population<br>
+_unimproved: total_: total: 18.4% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 8% (2019)<br>
@@ -190,12 +190,12 @@ _unimproved: total_: total: 19.7% of population (2017 est.)<br>
 0.8 beds/1,000 population (2014)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 85.2% of population<br>
-_improved: rural_: rural: 53.4% of population<br>
-_improved: total_: total: 57.4% of population<br>
-_unimproved: urban_: urban: 14.8% of population<br>
-_unimproved: rural_: rural: 46.6% of population<br>
-_unimproved: total_: total: 42.6% of population (2017 est.)<br>
+_improved: urban_: urban: 87.4% of population<br>
+_improved: rural_: rural: 53.7% of population<br>
+_improved: total_: total: 58.4% of population<br>
+_unimproved: urban_: urban: 12.6% of population<br>
+_unimproved: rural_: rural: 46.3% of population<br>
+_unimproved: total_: total: 41.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1% (2020 est.)<br>
@@ -672,10 +672,10 @@ National Defense Forces (Forces de Defense Nationale, FDN): Army (includes marit
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>
-1.8% of GDP (2019)<br>
-1.9% of GDP (2018)<br>
-1.8% of GDP (2017)<br>
-2.2% of GDP (2016)<br>
+3% of GDP (2019 est.)<br>
+2.3% of GDP (2018 est.)<br>
+2.1% of GDP (2017 est.)<br>
+2.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the National Defense Forces (FDN) have approximately 25,000 active duty troops, the majority of which are ground forces (2021)<br>

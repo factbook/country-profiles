@@ -167,11 +167,11 @@ _female_: 82.41 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 94.8% of population<br>
-_improved: total_: total: 98.3% of population<br>
+_improved: rural_: rural: 88.1% of population<br>
+_improved: total_: total: 96.2% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 5.2% of population<br>
-_unimproved: total_: total: 1.7% of population (2017 est.)<br>
+_unimproved: rural_: rural: 11.9% of population<br>
+_unimproved: total_: total: 3.8% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.6% (2019)<br>
@@ -183,12 +183,12 @@ _unimproved: total_: total: 1.7% of population (2017 est.)<br>
 2.3 beds/1,000 population (2016)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97.2% of population<br>
-_improved: rural_: rural: 72.4% of population<br>
-_improved: total_: total: 89.1% of population<br>
-_unimproved: urban_: urban: 2.8% of population<br>
-_unimproved: rural_: rural: 27.6% of population<br>
-_unimproved: total_: total: 10.9% of population (2017 est.)<br>
+_improved: urban_: urban: 95.5% of population<br>
+_improved: rural_: rural: 69.1% of population<br>
+_improved: total_: total: 87.2% of population<br>
+_unimproved: urban_: urban: 4.5% of population<br>
+_unimproved: rural_: rural: 30.9% of population<br>
+_unimproved: total_: total: 12.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1% (2020 est.)<br>
@@ -616,7 +616,7 @@ _subscriptions per 100 inhabitants_: 132.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: domestic and international facilities well-developed; steady increase in telecom revenue with effective competition; mobile connections account for 90% of connections; government-funded program to improve Internet infrastructure; connectivity through two submarine cables; launch of LTE services; Chinese company Huawei investment in bandwidth technologies; importer of broadcasting equipment from China (2020)<br>
-_domestic_: fixed-line 17 per 100 and rapid subscribership of mobile-cellular telephone 132 per 100 (2019)<br>
+_domestic_: fixed-line about 14 per 100 and rapid subscribership of mobile-cellular telephone roughly 132 per 100 (2020)<br>
 _international_: country code - 507; landing points for the&nbsp;PAN-AM, ARCOS, SAC, AURORA,&nbsp;PCCS, PAC, and the MAYA-1 submarine cable systems that together provide links to the US and parts of the Caribbean, Central America, and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to the Central American Microwave System (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -692,7 +692,7 @@ note - the PNP includes paramilitary special forces units for counterterrorism a
 **Military expenditures**<br>
 1.4% of GDP (2020 est.)<br>
 1.2% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
+1.1% of GDP (2018)<br>
 1.2% of GDP (2017)<br>
 1.3% of GDP (2016)<br>
 

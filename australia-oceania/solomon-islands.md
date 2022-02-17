@@ -163,11 +163,11 @@ _female_: 79.25 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 95% of population<br>
-_improved: rural_: rural: 67.1% of population<br>
-_improved: total_: total: 73.6% of population<br>
+_improved: rural_: rural: 65.9% of population<br>
+_improved: total_: total: 73.1% of population<br>
 _unimproved: urban_: urban: 5% of population<br>
-_unimproved: rural_: rural: 32.9% of population<br>
-_unimproved: total_: total: 26.4% of population (2017 est.)<br>
+_unimproved: rural_: rural: 34.1% of population<br>
+_unimproved: total_: total: 26.9% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.8% (2019)<br>
@@ -180,11 +180,11 @@ _unimproved: total_: total: 26.4% of population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 95.6% of population<br>
-_improved: rural_: rural: 22% of population<br>
-_improved: total_: total: 39.1% of population<br>
+_improved: rural_: rural: 22.6% of population<br>
+_improved: total_: total: 40.6% of population<br>
 _unimproved: urban_: urban: 4.4% of population<br>
-_unimproved: rural_: rural: 78% of population<br>
-_unimproved: total_: total: 60.9% of population (2017 est.)<br>
+_unimproved: rural_: rural: 77.4% of population<br>
+_unimproved: total_: total: 59.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -580,7 +580,7 @@ _subscriptions per 100 inhabitants_: 71.38 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Internet penetration has reached 20%; 3G and&nbsp;4G LTE mobile network expansions, investment in mobile services in the region; otherwise 3G and satellite services for communication and Internet access; increase in broadband subscriptions; the launch of the Kacific-1 satellite in 2019 and the Coral Sea Cable System have vastly improved the telecom sector (2020)<br>
-_domestic_: fixed-line is 1 per 100 persons and mobile-cellular telephone density is about 71 per 100 persons; domestic cable system to extend to key major islands (2019)<br>
+_domestic_: fixed-line is just over 1 per 100 persons and mobile-cellular telephone density is about 71 per 100 persons; domestic cable system to extend to key major islands (2019)<br>
 _international_: country code - 677; landing points for the CSCS and ICNS2 submarine cables providing connectivity from Solomon Islands, to PNG, Vanuatu and Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

@@ -170,12 +170,12 @@ _female_: 73.69 years (2021 est.)<br>
 23.9% (2017)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 92.3% of population<br>
-_improved: rural_: rural: 56% of population<br>
-_improved: total_: total: 70.9% of population<br>
-_unimproved: urban_: urban: 7.7% of population<br>
-_unimproved: rural_: rural: 44% of population<br>
-_unimproved: total_: total: 29.1% of population (2017 est.)<br>
+_improved: urban_: urban: 93.8% of population<br>
+_improved: rural_: rural: 60.3% of population<br>
+_improved: total_: total: 74.6% of population<br>
+_unimproved: urban_: urban: 6.2% of population<br>
+_unimproved: rural_: rural: 39.7% of population<br>
+_unimproved: total_: total: 25.4% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.7% (2019)<br>
@@ -187,12 +187,12 @@ _unimproved: total_: total: 29.1% of population (2017 est.)<br>
 0.7 beds/1,000 population (2011)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 80.4% of population<br>
-_improved: rural_: rural: 16.2% of population<br>
-_improved: total_: total: 41.6% of population<br>
-_unimproved: urban_: urban: 19.6% of population<br>
-_unimproved: rural_: rural: 83.8% of population<br>
-_unimproved: total_: total: 57.4% of population (2017 est.)<br>
+_improved: urban_: urban: 81.9% of population<br>
+_improved: rural_: rural: 18.3% of population<br>
+_improved: total_: total: 45.5% of population<br>
+_unimproved: urban_: urban: 18.1% of population<br>
+_unimproved: rural_: rural: 81.7% of population<br>
+_unimproved: total_: total: 54.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 2% (2020 est.)<br>
@@ -620,7 +620,7 @@ _subscriptions per 100 inhabitants_: 78.71 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: system based on a network of microwave radio relay routes supplemented by open-wire lines and a mobile-cellular system; telecoms supply 8% of GDP; 3 mobile operators; 12% of residents have access to the Internet; mobile subscribers and mobile broadband both increasing (2020)<br>
-_domestic_: fixed-line less than 1 per 100 and mobile-cellular 77 telephones per 100 persons with mobile-cellular use predominating (2019)<br>
+_domestic_: fixed-line less than 1 per 100 and mobile-cellular nearly 79 telephones per 100 persons with mobile-cellular use predominating (2020)<br>
 _international_: country code - 228; landing point for the WACS submarine cable, linking countries along the west coast of Africa with each other and with Portugal; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Symphonie (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -692,10 +692,10 @@ note - the Gendarmerie falls under the Ministry of Defense but also reports to t
 
 **Military expenditures**<br>
 2% of GDP (2020 est.)<br>
-3.1% of GDP (2019)<br>
-2% of GDP (2018)<br>
-1.9% of GDP (2017)<br>
-1.8% of GDP (2016)<br>
+2.6% of GDP (2019 est.)<br>
+2% of GDP (2018 est.)<br>
+1.9% of GDP (2017 est.)<br>
+1.8% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,000 personnel, including about 8,000 Army (2021)<br>

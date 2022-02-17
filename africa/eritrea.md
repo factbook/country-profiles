@@ -648,11 +648,11 @@ _major seaport(s)_: Assab, Massawa<br>
 Eritrean Defense Forces: Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force) (2021)<br>
 
 **Military expenditures**<br>
-5.1% of GDP (2017 est.)<br>
-5.1% of GDP (2016 est.)<br>
-5.2% of GDP (2015 est.)<br>
-5.1% of GDP (2014 est.)<br>
-5% of GDP (2013 est.)<br>
+10% of GDP (2019 est.)<br>
+10.2% of GDP (2018 est.)<br>
+10.3% of GDP (2017 est.)<br>
+10.4% of GDP (2016 est.)<br>
+10.6% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited available information; estimated 150,000-200,000 personnel, including about 2,000 in the naval and air forces (2021)<br>

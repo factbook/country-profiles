@@ -45,7 +45,7 @@ tropical; always hot, humid<br>
 narrow coastal plain; hilly interior; savanna in east and south<br>
 
 **Elevation**<br>
-_highest point_: Mont Iboundji 1,575 m<br>
+_highest point_: Mont Bengoue 1,050 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 377 m<br>
 
@@ -173,12 +173,12 @@ _female_: 71.14 years (2021 est.)<br>
 31.1% (2012)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 97% of population<br>
-_improved: rural_: rural: 68% of population<br>
-_improved: total_: total: 93.8% of population<br>
-_unimproved: urban_: urban: 0.3% of population<br>
-_unimproved: rural_: rural: 32% of population<br>
-_unimproved: total_: total: 6.2% of population (2017 est.)<br>
+_improved: urban_: urban: 97.2% of population<br>
+_improved: rural_: rural: 55.3% of population<br>
+_improved: total_: total: 93.1% of population<br>
+_unimproved: urban_: urban: 2.8% of population<br>
+_unimproved: rural_: rural: 44.7% of population<br>
+_unimproved: total_: total: 6.9% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 2.8% (2019)<br>
@@ -190,12 +190,12 @@ _unimproved: total_: total: 6.2% of population (2017 est.)<br>
 6.3 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 77.7% of population<br>
-_improved: rural_: rural: 51.9% of population<br>
-_improved: total_: total: 74.8% of population<br>
-_unimproved: urban_: urban: 22.3% of population<br>
-_unimproved: rural_: rural: 48.1% of population<br>
-_unimproved: total_: total: 25.2% of population (2017 est.)<br>
+_improved: urban_: urban: 81.3% of population<br>
+_improved: rural_: rural: 55.1% of population<br>
+_improved: total_: total: 78.7% of population<br>
+_unimproved: urban_: urban: 18.7% of population<br>
+_unimproved: rural_: rural: 44.9% of population<br>
+_unimproved: total_: total: 21.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 3% (2020 est.)<br>
@@ -683,10 +683,10 @@ Gabonese Defense Forces (Forces de Defense Gabonaise): Land Forces (Army), Navy,
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-1.6% of GDP (2019)<br>
-1.5% of GDP (2018)<br>
-1.8% of GDP (2017)<br>
-1.5% of GDP (2016)<br>
+1.6% of GDP (2019 est.)<br>
+1.6% of GDP (2018 est.)<br>
+1.8% of GDP (2017 est.)<br>
+1.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Gabonese Defense Forces (FDG) are comprised of approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2021)<br>

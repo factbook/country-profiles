@@ -160,12 +160,12 @@ _female_: 76.82 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 97.8% of population<br>
-_improved: rural_: rural: 88.7% of population<br>
-_improved: total_: total: 93.8% of population<br>
-_unimproved: urban_: urban: 2.2% of population<br>
-_unimproved: rural_: rural: 11.3% of population<br>
-_unimproved: total_: total: 6.2% of population (2017 est.)<br>
+_improved: urban_: urban: 98.2% of population<br>
+_improved: rural_: rural: 89.1% of population<br>
+_improved: total_: total: 94.3% of population<br>
+_unimproved: urban_: urban: 1.8% of population<br>
+_unimproved: rural_: rural: 10.9% of population<br>
+_unimproved: total_: total: 5.7% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.8% (2019)<br>
@@ -177,12 +177,12 @@ _unimproved: total_: total: 6.2% of population (2017 est.)<br>
 2 beds/1,000 population (2016)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 94% of population<br>
-_improved: rural_: rural: 89% of population<br>
-_improved: total_: total: 98% of population<br>
-_unimproved: urban_: urban: 6% of population<br>
-_unimproved: rural_: rural: 11% of population<br>
-_unimproved: total_: total: 2% of population (2017 est.)<br>
+_improved: urban_: urban: 100% of population<br>
+_improved: rural_: rural: 100% of population<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: 0% of population<br>
+_unimproved: rural_: rural: 0% of population<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -666,10 +666,10 @@ both the RFMF and the Fiji Police report to the the Ministry of Defense, Nationa
 
 **Military expenditures**<br>
 1.4% of GDP (2020 est.)<br>
-1.6% of GDP (2019)<br>
-1.6% of GDP (2018)<br>
-1.5% of GDP (2017)<br>
-1.2% of GDP (2016)<br>
+1.6% of GDP (2019 est.)<br>
+1.5% of GDP (2018 est.)<br>
+1.5% of GDP (2017 est.)<br>
+1.3% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the<strong> </strong>Republic of Fiji Military Forces (RFMF) have about 3,500 personnel (3,200 Land Force; 300 Maritime Command) (2021)<br>

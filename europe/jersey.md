@@ -164,7 +164,11 @@ _unimproved: total_: total: 5.9% of population (2017 est.)<br>
 NA<br>
 
 **Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 98.5% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1.5% of population (2017)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>

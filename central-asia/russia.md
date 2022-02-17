@@ -180,12 +180,12 @@ _female_: 78.05 years (2021 est.)<br>
 <strong>note:</strong> percent of women aged 15-44<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.6% of population<br>
-_improved: rural_: rural: 94.2% of population<br>
-_improved: total_: total: 97.1% of population<br>
-_unimproved: urban_: urban: 1.4% of population<br>
-_unimproved: rural_: rural: 5.8% of population<br>
-_unimproved: total_: total: 2.9% of population (2017 est.)<br>
+_improved: urban_: urban: 99.1% of population<br>
+_improved: rural_: rural: 93.1% of population<br>
+_improved: total_: total: 97.6% of population<br>
+_unimproved: urban_: urban: 0.9% of population<br>
+_unimproved: rural_: rural: 6.9% of population<br>
+_unimproved: total_: total: 2.4% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.7% (2019)<br>
@@ -197,12 +197,12 @@ _unimproved: total_: total: 2.9% of population (2017 est.)<br>
 7.1 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 94.8% of population<br>
-_improved: rural_: rural: 78.1% of population<br>
-_improved: total_: total: 90.5% of population<br>
-_unimproved: urban_: urban: 5.2% of population<br>
-_unimproved: rural_: rural: 21.9% of population<br>
-_unimproved: total_: total: 9.5% of population (2017 est.)<br>
+_improved: urban_: urban: 95.2% of population<br>
+_improved: rural_: rural: 72.3% of population<br>
+_improved: total_: total: 89.4% of population<br>
+_unimproved: urban_: urban: 4.8% of population<br>
+_unimproved: rural_: rural: 27.7% of population<br>
+_unimproved: total_: total: 10.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.2% (2017 est.)<br>
@@ -649,7 +649,7 @@ _subscriptions per 100 inhabitants_: 163.6 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom market is largest in Europe, centered in large cities; competition active in Moscow and St Petersburg; most users access Internet through mobile platforms; fiber broadband sector is growing, supported by government in aim to extend reach to outlying regions; tests of 5G with Moscow adopting smart city technology; government justifies censorship and website blocks under a range of laws and regulations; government program aims to provide 97% of households with fixed broadband by 2024; publicly accessible Internet connections in institutions such as hospitals, libraries, schools, and mass transit available in cities; in rural areas, the availability of public Internet connections remains limited; major importer of broadcasting equipment and computers from China (2020)<br>
-_domestic_: cross-country digital trunk lines run from Saint Petersburg to Khabarovsk, and from Moscow to Novorossiysk; the telephone systems in 60 regional capitals have modern digital infrastructures; cellular services, both analog and digital, are available in many areas; in rural areas, telephone services are still outdated, inadequate, and low-density; 22 per 100 for fixed-line and mobile-cellular 164 per 100 persons (2019)<br>
+_domestic_: cross-country digital trunk lines run from Saint Petersburg to Khabarovsk, and from Moscow to Novorossiysk; the telephone systems in 60 regional capitals have modern digital infrastructures; cellular services, both analog and digital, are available in many areas; in rural areas, telephone services are still outdated, inadequate, and low-density; nearly 19 per 100 for fixed-line and mobile-cellular a bit over 164 per 100 persons (2020)<br>
 _international_: country code - 7; landing points for the Far East Submarine Cable System, HSCS, Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable and the Georgia-Russian submarine cable system connecting Russia, Japan, Finland, Georgia and Ukraine; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -736,10 +736,10 @@ note - the Air Force and Aerospace Defense Forces were merged into the VKS in 20
 
 **Military expenditures**<br>
 4% of GDP (2020 est.)<br>
-3.9% of GDP (2019)<br>
-3.8% of GDP (2018)<br>
-4.2% of GDP (2017)<br>
-5.4% of GDP (2016)<br>
+3.8% of GDP (2019 est.)<br>
+3.7% of GDP (2018 est.)<br>
+4.2% of GDP (2017 est.)<br>
+5.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 850,000 total active duty troops (375,000 Ground Troops, including about 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; 90,000 other uniformed personnel (approximately 20,000 special operations forces, plus command and control, cyber, support, logistics, security, etc.); est. 200-250,000 Federal National Guard Troops (2021)<br>
@@ -748,8 +748,8 @@ information varies; approximately 850,000 total active duty troops (375,000 Grou
 the Russian Federation's military and paramilitary services are equipped with domestically-produced weapons systems, although since 2010 Russia has imported limited amounts of military hardware from several countries, including Czechia, France, Israel, Italy, Turkey, and Ukraine; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2021)<br>
 
 **Military deployments**<br>
-information varies; est. 3,000-5,000 Armenia; est. 1,500 Belarus; est. 7,000-10,000 Georgia; est. 100 Central African Republic; est. 500 Kyrgyzstan; est. 1,500-2,000 Moldova (Trannistria); est. 3,000-5,000 Syria; est. 5,000-7,000 Tajikistan; est. 25,000-30,000 Ukraine (including Crimea) (2021)<br>
-note(s) - since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a truce agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020<br><br>as of late 2021, Russia was assessed to have deployed a considerable number of private military contractors to the Central African Republic (1-2,000), Libya (1-2,000), and Mali (more than 400) <br>
+information varies; est. 3,000-5,000 Armenia; est. 1,500 Belarus; est. 7,000-10,000 Georgia; est. 100 Central African Republic; est. 500 Kyrgyzstan; est. 1,500-2,000 Moldova (Trannistria); est. 3,000-5,000 Syria; est. 5,000-7,000 Tajikistan; est. 30,000 Ukraine (including Crimea) (2021)<br>
+note(s) - since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a truce agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020<br><br>as of late 2021, Russia was assessed to have deployed a considerable number of private military contractors to the Central African Republic (1-2,000), Libya (1-2,000), and Mali (more than 400)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory (men only) or voluntary (men and women) military service; males are registered for the draft at 17 years of age; one-year service obligation (Russia offers the option of serving on a two-year contract instead of completing a one-year conscription period); reserve obligation for non-officers to age 50; enrollment in military schools from the age of 16, cadets classified as members of the armed forces (2021)<br>

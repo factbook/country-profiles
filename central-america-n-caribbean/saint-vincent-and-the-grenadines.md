@@ -171,7 +171,11 @@ _unimproved: total_: total: 4.9% of population (2017 est.)<br>
 4.3 beds/1,000 population (2016)<br>
 
 **Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 90.2% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 9.8% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
@@ -543,7 +547,7 @@ _subscriptions per 100 inhabitants_: 87.49 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate island-wide, fully automatic telephone system; broadband access; expanded FttP (Fiber to the Home) markets; LTE launches; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
-_domestic_: fixed-line teledensity exceeds 12 per 100 persons and mobile-cellular teledensity is about 93 per 100 persons (2019)<br>
+_domestic_: fixed-line teledensity exceeds 11 per 100 persons and mobile-cellular teledensity is about 87 per 100 persons (2020)<br>
 _international_: country code - 1-784;&nbsp;landing points for the ECFS, CARCIP&nbsp;and Southern Caribbean Fiber submarine cables providing connectivity to US and Caribbean Islands; connectivity also provided by VHF/UHF radiotelephone from Saint Vincent to Barbados; SHF radiotelephone to Grenada and Saint Lucia; access to Intelsat earth station in Martinique through Saint Lucia (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

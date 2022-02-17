@@ -185,7 +185,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 9.9% (2019)<br>
@@ -197,8 +197,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.8 beds/1,000 population (2016)<br>
 
 **Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020 est.)<br>
@@ -703,7 +707,7 @@ Australian Defense Force (ADF): Australian Army (includes Special Operations Com
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
 2.1% of GDP (2020)<br>
-1.9% of GDP (2019)<br>
+2% of GDP (2019)<br>
 1.9% of GDP (2018)<br>
 2% of GDP (2017)<br>
 

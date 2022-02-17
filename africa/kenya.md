@@ -178,12 +178,12 @@ _female_: 71.03 years (2021 est.)<br>
 59.7% (2019)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 89% of population<br>
-_improved: rural_: rural: 60.4% of population<br>
-_improved: total_: total: 68% of population<br>
-_unimproved: urban_: urban: 11% of population<br>
-_unimproved: rural_: rural: 39.6% of population<br>
-_unimproved: total_: total: 32% of population (2017 est.)<br>
+_improved: urban_: urban: 91.3% of population<br>
+_improved: rural_: rural: 63.3% of population<br>
+_improved: total_: total: 71.2% of population<br>
+_unimproved: urban_: urban: 8.7% of population<br>
+_unimproved: rural_: rural: 36.7% of population<br>
+_unimproved: total_: total: 28.8% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.6% (2019)<br>
@@ -192,12 +192,12 @@ _unimproved: total_: total: 32% of population (2017 est.)<br>
 0.16 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 78.8% of population<br>
-_improved: rural_: rural: 41.2% of population<br>
-_improved: total_: total: 51.2% of population<br>
-_unimproved: urban_: urban: 21.2% of population<br>
-_unimproved: rural_: rural: 58.8% of population<br>
-_unimproved: total_: total: 48.8% of population (2017 est.)<br>
+_improved: urban_: urban: 84% of population<br>
+_improved: rural_: rural: 48.1% of population<br>
+_improved: total_: total: 58.2% of population<br>
+_unimproved: urban_: urban: 16% of population<br>
+_unimproved: rural_: rural: 51.9% of population<br>
+_unimproved: total_: total: 41.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 4.2% (2020 est.)<br>
@@ -712,10 +712,10 @@ note - the National Police Service maintains internal security and reports to th
 
 **Military expenditures**<br>
 1.2% of GDP (2020)<br>
-1.3% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.3% of GDP (2017)<br>
-1.3% of GDP (2016)<br>
+1.2% of GDP (2019)<br>
+1.3% of GDP (2018)<br>
+1.4% of GDP (2017)<br>
+1.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Kenyan Defense Forces (KDF) are comprised of approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2021)<br>

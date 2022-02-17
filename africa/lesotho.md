@@ -171,12 +171,12 @@ _female_: 61.04 years (2021 est.)<br>
 64.9% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 93% of population<br>
-_improved: rural_: rural: 72.4% of population<br>
-_improved: total_: total: 78.2% of population<br>
-_unimproved: urban_: urban: 7% of population<br>
-_unimproved: rural_: rural: 27.6% of population<br>
-_unimproved: total_: total: 21.8% of population (2017 est.)<br>
+_improved: urban_: urban: 95.7% of population<br>
+_improved: rural_: rural: 77.2% of population<br>
+_improved: total_: total: 82.6% of population<br>
+_unimproved: urban_: urban: 4.3% of population<br>
+_unimproved: rural_: rural: 22.8% of population<br>
+_unimproved: total_: total: 17.4% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 11.3% (2019)<br>
@@ -185,12 +185,12 @@ _unimproved: total_: total: 21.8% of population (2017 est.)<br>
 0.07 physicians/1,000 population<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 88.6% of population<br>
-_improved: rural_: rural: 52.3% of population<br>
-_improved: total_: total: 62.4% of population<br>
-_unimproved: urban_: urban: 11.4% of population<br>
-_unimproved: rural_: rural: 47.7% of population<br>
-_unimproved: total_: total: 37.6% of population (2017 est.)<br>
+_improved: urban_: urban: 93.6% of population<br>
+_improved: rural_: rural: 62.4% of population<br>
+_improved: total_: total: 71.4% of population<br>
+_unimproved: urban_: urban: 6.4% of population<br>
+_unimproved: rural_: rural: 37.6% of population<br>
+_unimproved: total_: total: 28.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 21.1% (2020 est.)<br>
@@ -665,10 +665,10 @@ note - the Lesotho Mounted Police Service is responsible for internal security a
 
 **Military expenditures**<br>
 1.6% of GDP (2020 est.)<br>
-1.5% of GDP (2019)<br>
-1.8% of GDP (2018)<br>
-2% of GDP (2017)<br>
-1.8% of GDP (2016)<br>
+1.8% of GDP (2019 est.)<br>
+2.1% of GDP (2018 est.)<br>
+2.2% of GDP (2017 est.)<br>
+1.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Lesotho Defense Force (LDF) has approximately 2,000 personnel (2021)<br>

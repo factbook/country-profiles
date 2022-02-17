@@ -170,11 +170,11 @@ _female_: 77.15 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 87.4% of population<br>
-_improved: total_: total: 94.1% of population<br>
+_improved: rural_: rural: 93.3% of population<br>
+_improved: total_: total: 97.1% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 12.6% of population<br>
-_unimproved: total_: total: 4.9% of population (2017 est.)<br>
+_unimproved: rural_: rural: 6.7% of population<br>
+_unimproved: total_: total: 2.9% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4% (2019)<br>
@@ -187,11 +187,11 @@ _unimproved: total_: total: 4.9% of population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 89.1% of population<br>
-_improved: total_: total: 95.1% of population<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 10.9% of population<br>
-_unimproved: total_: total: 4.9% of population (2017 est.)<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020 est.)<br>
@@ -680,10 +680,10 @@ Land Forces (Combined Arms Army), Air Forces, Navy Forces; Ministry of Internal 
 
 **Military expenditures**<br>
 5.4% of GDP (2020 est.)<br>
-4% of GDP (2019)<br>
-3.6% of GDP (2018)<br>
-3.8% of GDP (2017)<br>
-3.7% of GDP (2016)<br>
+3.8% of GDP (2019 est.)<br>
+3.6% of GDP (2018 est.)<br>
+3.8% of GDP (2017 est.)<br>
+3.7% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 65,000 total active troops (55,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2021)<br>

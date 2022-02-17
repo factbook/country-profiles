@@ -176,12 +176,12 @@ _female_: 61.26 years (2021 est.)<br>
 11% (2017/18)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 95.7% of population<br>
-_improved: rural_: rural: 59.2% of population<br>
-_improved: total_: total: 65.2% of population<br>
-_unimproved: urban_: urban: 4.3% of population<br>
-_unimproved: rural_: rural: 40.8% of population<br>
-_unimproved: total_: total: 34.8% of population (2017 est.)<br>
+_improved: urban_: urban: 95.8% of population<br>
+_improved: rural_: rural: 63.1% of population<br>
+_improved: total_: total: 68.6% of population<br>
+_unimproved: urban_: urban: 4.2% of population<br>
+_unimproved: rural_: rural: 36.9% of population<br>
+_unimproved: total_: total: 31.4% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.7% (2019)<br>
@@ -193,12 +193,12 @@ _unimproved: total_: total: 34.8% of population (2017 est.)<br>
 0.4 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 76.6% of population<br>
-_improved: rural_: rural: 12.9% of population<br>
-_improved: total_: total: 23.3% of population<br>
-_unimproved: urban_: urban: 23.4% of population<br>
-_unimproved: rural_: rural: 87.1% of population<br>
-_unimproved: total_: total: 76.7% of population (2017 est.)<br>
+_improved: urban_: urban: 81.9% of population<br>
+_improved: rural_: rural: 13.5% of population<br>
+_improved: total_: total: 24.8% of population<br>
+_unimproved: urban_: urban: 18.1% of population<br>
+_unimproved: rural_: rural: 86.5% of population<br>
+_unimproved: total_: total: 75.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -640,7 +640,7 @@ _subscriptions per 100 inhabitants_: 40.64 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: difficult economic climate, with lack of fixed telecom infrastructure; mobile services stronger than fixed telecom; low broadband penetration; adopted free mobile roaming with other G5 Sahel countries; World Bank project to facilitate digital progress; government contributes to Trans-Sahara Backbone network, with aims to extend fiber-optic and international capacity; LTE license awarded; government substantially taxes telecom sector (2020)<br>
-_domestic_: fixed-line 1 per 100 persons and mobile-cellular teledensity remains 41 per 100 persons despite a rapidly increasing cellular subscribership base; small system of wire, radio telephone communications, and microwave radio relay links concentrated in southwestern Niger; domestic satellite system with 3 earth stations and 1 planned (2019)<br>
+_domestic_: fixed-line less than 1 per 100 persons and mobile-cellular teledensity at nearly 41 per 100 persons; a rapidly increasing cellular subscribership base; small system of wire, radio telephone communications, and microwave radio relay links concentrated in southwestern Niger; domestic satellite system with 3 earth stations and 1 planned (2019)<br>
 _international_: country code - 227; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -708,10 +708,10 @@ note - the Gendarmerie is subordinate to the Ministry of Defense and has primary
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>
-1.8% of GDP (2019)<br>
-2.5% of GDP (2018)<br>
-2.5% of GDP (2017)<br>
-2.2% of GDP (2016)<br>
+1.7% of GDP (2019 est.)<br>
+1.9% of GDP (2018 est.)<br>
+2% of GDP (2017 est.)<br>
+1.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active troops (est. 6,000 Army; 200 Air Force; 4,000 Gendarmerie); est. 3,000 National Guard (2021)<br>
@@ -741,7 +741,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic St
 <p>Libya claims about 25,000 sq km in a currently dormant dispute in the Tommo region; location of Benin-Niger-Nigeria tripoint is unresolved; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries; the dispute with Burkina Faso was referred to the ICJ in 2010</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 187,064 (Nigeria), 61,490 (Mali) (2021)<br>
+_refugees (country of origin)_: 61,490 (Mali) (2021); 187,145 (Nigeria) (2022)<br>
 _IDPs_: 264,257 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2021)<br>
 
 **Illicit drugs**<br>

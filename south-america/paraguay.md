@@ -179,7 +179,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.2% (2019)<br>
@@ -191,12 +191,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.8 beds/1,000 population (2016)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.4% of population<br>
-_improved: rural_: rural: 84.8% of population<br>
-_improved: total_: total: 93.1% of population<br>
-_unimproved: urban_: urban: 1.6% of population<br>
-_unimproved: rural_: rural: 15.2% of population<br>
-_unimproved: total_: total: 6.8% of population (2017 est.)<br>
+_improved: urban_: urban: 99.6% of population<br>
+_improved: rural_: rural: 90.6% of population<br>
+_improved: total_: total: 96.2% of population<br>
+_unimproved: urban_: urban: 0.4% of population<br>
+_unimproved: rural_: rural: 9.4% of population<br>
+_unimproved: total_: total: 3.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
@@ -620,7 +620,7 @@ _subscriptions per 100 inhabitants_: 110.2 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to telecom platform; monopolized fixed-line service; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; South Korean investment in education centers; operator enabled 100 free Internet points across the country; Inter-American Development Bank loan supports modernization within regulatory framework; dependent on neighboring countries for access to submarine cables; major importer of broadcasting equipment from the USA (2020)<br>
-_domestic_: deficiencies in provision of fixed-line service have resulted in a rapid expansion of mobile-cellular services fostered by competition among multiple providers; Internet market also open to competition; fixed-line 4 per 100 and mobile-cellular 107 per 100 (2019)<br>
+_domestic_: deficiencies in provision of fixed-line service have resulted in expansion of mobile-cellular services fostered by competition among multiple providers; Internet market also open to competition; fixed-line just under 4 per 100 and mobile-cellular just over 110 per 100 (2019)<br>
 _international_: country code - 595; Paraguay's landlocked position means they must depend on neighbors for interconnection with submarine cable networks, making it cost more for broadband services; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -692,7 +692,7 @@ Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
 1% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
+1% of GDP (2018)<br>
 0.9% of GDP (2017)<br>
 1% of GDP (2016)<br>
 

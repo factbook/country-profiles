@@ -154,8 +154,8 @@ _female_: 81.03 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: total_: total: 99.9% of population<br>
+_unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 NA<br>

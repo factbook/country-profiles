@@ -179,12 +179,12 @@ _female_: 63.25 years (2021 est.)<br>
 28.1% (2017/18)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 84.3% of population<br>
-_improved: rural_: rural: 32.4% of population<br>
-_improved: total_: total: 55.2% of population<br>
-_unimproved: urban_: urban: 15.7% of population<br>
-_unimproved: rural_: rural: 67.6% of population<br>
-_unimproved: total_: total: 44.8% of population (2017 est.)<br>
+_improved: urban_: urban: 88.8% of population<br>
+_improved: rural_: rural: 34.7% of population<br>
+_improved: total_: total: 59.4% of population<br>
+_unimproved: urban_: urban: 11.2% of population<br>
+_unimproved: rural_: rural: 65.3% of population<br>
+_unimproved: total_: total: 40.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.5% (2019)<br>
@@ -193,12 +193,12 @@ _unimproved: total_: total: 44.8% of population (2017 est.)<br>
 0.07 physicians/1,000 population (2016)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 54.7% of population<br>
-_improved: rural_: rural: 29.8% of population<br>
-_improved: total_: total: 40.7% of population<br>
-_unimproved: urban_: urban: 44.5% of population<br>
-_unimproved: rural_: rural: 70.2% of population<br>
-_unimproved: total_: total: 59.3% of population (2017 est.)<br>
+_improved: urban_: urban: 53.4% of population<br>
+_improved: rural_: rural: 20.5% of population<br>
+_improved: total_: total: 35.5% of population<br>
+_unimproved: urban_: urban: 46.6% of population<br>
+_unimproved: rural_: rural: 79.5% of population<br>
+_unimproved: total_: total: 64.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.7% (2020 est.)<br>
@@ -723,10 +723,10 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 note - the Republican Guard is a division-size element consisting of approximately 5 regiments; it is regarded as the country&rsquo;s best equipped and trained military unit and is under the direct control of the president<br>
 
 **Military expenditures**<br>
-0.6% of GDP (2020 est.)<br>
-0.7% of GDP (2019 est.)<br>
-0.7% of GDP (2018 est.)<br>
-0.7% of GDP (2017 est.)<br>
+0.7% of GDP (2020 est.)<br>
+0.9% of GDP (2019 est.)<br>
+0.8% of GDP (2018 est.)<br>
+0.9% of GDP (2017 est.)<br>
 1.3% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
@@ -753,7 +753,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers; members of Uganda's Lord's Resistance Army forces continue to seek refuge in Congo's Garamba National Park as peace talks with the Uganda Government evolve; the location of the boundary in the broad Congo River with the Republic of the Congo is indefinite except in the Pool Malebo/Stanley Pool area; Uganda and DRC dispute Rukwanzi Island in Lake Albert and other areas on the Semliki River with hydrocarbon potential; boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto; DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 212,958 (Central African Republic), 210,969 (Rwanda) (refugees and asylum seekers), 56,341 (South Sudan) (refugees and asylum seekers), 41,031 (Burundi) (2021)<br>
+_refugees (country of origin)_: 210,969 (Rwanda) (refugees and asylum seekers), (2021); 212,693 (Central African Republic), 56,341 (South Sudan) (refugees and asylum seekers), 40,762 (Burundi) (2022)<br>
 _IDPs_: 5.268 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2020)<br>
 
 **Trafficking in persons**<br>

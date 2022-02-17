@@ -170,12 +170,12 @@ _female_: 62.97 years (2021 est.)<br>
 21.2% (2019)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 89.5% of population<br>
-_improved: rural_: rural: 55.7% of population<br>
-_improved: total_: total: 69.8% of population<br>
-_unimproved: urban_: urban: 10.5% of population<br>
-_unimproved: rural_: rural: 44.3% of population<br>
-_unimproved: total_: total: 30.2% of population (2017 est.)<br>
+_improved: urban_: urban: 92.5% of population<br>
+_improved: rural_: rural: 58% of population<br>
+_improved: total_: total: 72.8% of population<br>
+_unimproved: urban_: urban: 7.5% of population<br>
+_unimproved: rural_: rural: 42% of population<br>
+_unimproved: total_: total: 27.2% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 8.8% (2019)<br>
@@ -184,12 +184,12 @@ _unimproved: total_: total: 30.2% of population (2017 est.)<br>
 0.03 physicians/1,000 population (2011)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 74.3% of population<br>
-_improved: rural_: rural: 31.9% of population<br>
-_improved: total_: total: 49.6% of population<br>
-_unimproved: urban_: urban: 25.7% of population<br>
-_unimproved: rural_: rural: 68.1% of population<br>
-_unimproved: total_: total: 50.4% of population (2017 est.)<br>
+_improved: urban_: urban: 79.5% of population<br>
+_improved: rural_: rural: 35.5% of population<br>
+_improved: total_: total: 54.4% of population<br>
+_unimproved: urban_: urban: 20.5% of population<br>
+_unimproved: rural_: rural: 64.5% of population<br>
+_unimproved: total_: total: 45.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.5% (2020 est.)<br>
@@ -604,7 +604,7 @@ _subscriptions per 100 inhabitants_: 86.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom sector is recovering from the decades of war, yet still constrained by inadequate power and pervasive corruption; recently installed terrestrial fiber backbone infrastructure; telephone service improving with the rapid growth of mobile sector; operators increased investment to provide national coverage; LTE available in some parts of the country; construction of 600 km ECOWAS Wide Area Network completed; fiber link to Guinea completed; importer of broadcasting equipment from China (2020)<br>
-_domestic_: fixed-line less than 1 per 100 and mobile-cellular 86 per 100 (2019)<br>
+_domestic_: fixed-line 0 per 100 and mobile-cellular just over 86 per 100 (2020)<br>
 _international_: country code - 232; landing point for the ACE submarine cable linking to South Africa, over 20 western African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -665,10 +665,10 @@ Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Comm
 
 **Military expenditures**<br>
 0.5% of GDP (2020 est.)<br>
-0.7% of GDP (2019)<br>
-0.7% of GDP (2018)<br>
-0.4% of GDP (2017)<br>
-0.3% of GDP (2016)<br>
+0.3% of GDP (2019 est.)<br>
+0.3% of GDP (2018 est.)<br>
+0.3% of GDP (2017 est.)<br>
+0.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Republic of Sierra Leone Armed Forces (RSLAF) have approximately 9,000 personnel, mostly ground forces (2021)<br>

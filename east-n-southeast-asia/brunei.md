@@ -158,8 +158,12 @@ _female_: 80.63 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: 99.7% of population<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 99.9% of population<br>
+_unimproved: urban_: urban: 0.4% of population<br>
+_unimproved: rural_: rural: 0% of population<br>
+_unimproved: total_: total: 0.1% of population (2020)<br>
 
 **Current Health Expenditure**<br>
 2.2% (2019)<br>
@@ -169,6 +173,14 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Hospital bed density**<br>
 2.9 beds/1,000 population (2017)<br>
+
+**Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -627,10 +639,10 @@ Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Bru
 
 **Military expenditures**<br>
 3.7% of GDP (2020 est.)<br>
-3.3% of GDP (2019)<br>
-2.6% of GDP (2018)<br>
-2.9% of GDP (2017)<br>
-3.5% of GDP (2016)<br>
+3.1% of GDP (2019)<br>
+2.7% of GDP (2018)<br>
+2.8% of GDP (2017)<br>
+3.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Brunei Armed Forces is comprised of approximately 6,500 total active troops (4,500 Army; 1,000 Navy; 1,000 Air Force) (2021)<br>

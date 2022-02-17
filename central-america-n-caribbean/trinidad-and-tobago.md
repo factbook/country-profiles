@@ -161,8 +161,12 @@ _female_: 78.1 years (2021 est.)<br>
 40.3% (2011)<br>
 
 **Drinking water source**<br>
-_improved: total_: total: 99.3% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7% (2019)<br>
@@ -174,8 +178,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: total_: total: 99.3% of population<br>
-_unimproved: total_: total: 0.7% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 99.9% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.7% (2020 est.)<br>
@@ -568,7 +576,7 @@ _subscriptions per 100 inhabitants_: 142.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent international service; good local service; broadband access; expanded FttP (Fiber to the Home) markets; LTE launch; regulatory development; major growth in mobile telephony and data segments which attacks operation investment in fiber infrastructure; moves to end roaming charges (2020)<br>
-_domestic_: fixed-line 25 per 100 persons and mobile-cellular teledensity 155 per 100 persons (2019)<br>
+_domestic_: fixed-line over 23 per 100 persons and mobile-cellular teledensity 142 per 100 persons (2020)<br>
 _international_: country code - 1-868; landing points for the EC Link, ECFS, Southern Caribbean Fiber, SG-SCS and Americas II submarine cable systems provide connectivity to US, parts of the Caribbean and South America; satellite earth station - 1 Intelsat (Atlantic Ocean); tropospheric scatter to Barbados and Guyana (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -629,11 +637,11 @@ Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago 
 note - the Ministry of National Security oversees defense, immigration, and the police<br>
 
 **Military expenditures**<br>
-0.8% of GDP (2020 est.)<br>
-0.7% of GDP (2019)<br>
-0.8% of GDP (2018)<br>
-1.3% of GDP (2017)<br>
-1.4% of GDP (2016)<br>
+1% of GDP (2020 est.)<br>
+1% of GDP (2019 est.)<br>
+1% of GDP (2018 est.)<br>
+1.3% of GDP (2017 est.)<br>
+1.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 has approximately 4,500 TTDF personnel; approximately 7,000 TTPS personnel (2021)<br>

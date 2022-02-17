@@ -176,7 +176,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 10.1% (2019)<br>
@@ -193,7 +193,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -616,7 +616,7 @@ _subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: highly developed and well maintained; Dutch telecom market is gradually migrating to upgraded platforms; operators repurposing their spectrum and physical assets for LTE and 5G; one of the highest fixed broadband penetration rates in the world, with competition between DSL and fiber networks; fixed-line voice market is in decline while VoIP and mobile platforms advance; plans for 3G network shutdown in 2023; operators are concentrating investment on LTE-A and 5G services; operators and banks launch m-payments system; adoption of smart city concepts and technology in major cities; major exporter of broadcasting equipment and computers to Europe, and importer of same from China (2020)<br>
-_domestic_: extensive fixed-line, fiber-optic network; large cellular telephone system with five major operators utilizing the third generation of the Global System for Mobile Communications technology; one in five households now use Voice over the Internet Protocol services; fixed-line 33 per 100 and mobile-cellular 127 per 100 persons (2019)<br>
+_domestic_: extensive fixed-line, fiber-optic network; large cellular telephone system with five major operators utilizing the third generation of the Global System for Mobile Communications technology; one in five households now use Voice over the Internet Protocol services; fixed-line nearly 29 per 100 and mobile-cellular at 125 per 100 persons (2020)<br>
 _international_: country code - 31; landing points for Farland North, TAT-14, Circe North, Concerto, Ulysses 2, AC-1, UK-Netherlands 14, and COBRAcable submarine cables which provide links to the US and Europe; satellite earth stations - 5 (3 Intelsat - 1 Indian Ocean and 2 Atlantic Ocean, 1 Eutelsat, and 1 Inmarsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

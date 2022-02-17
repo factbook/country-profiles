@@ -172,12 +172,12 @@ _female_: 65.42 years (2021 est.)<br>
 10.9% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 97.9% of population<br>
-_improved: rural_: rural: 69.8% of population<br>
-_improved: total_: total: 79.9% of population<br>
-_unimproved: urban_: urban: 2.1% of population<br>
-_unimproved: rural_: rural: 27.6% of population<br>
-_unimproved: total_: total: 20.1% of population (2017 est.)<br>
+_improved: urban_: urban: 99.5% of population<br>
+_improved: rural_: rural: 76.9% of population<br>
+_improved: total_: total: 85.2% of population<br>
+_unimproved: urban_: urban: 0.5% of population<br>
+_unimproved: rural_: rural: 23.1% of population<br>
+_unimproved: total_: total: 14.8% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4% (2019)<br>
@@ -189,12 +189,12 @@ _unimproved: total_: total: 20.1% of population (2017 est.)<br>
 0.3 beds/1,000 population (2011)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 85.6% of population<br>
-_improved: rural_: rural: 34.8% of population<br>
-_improved: total_: total: 53% of population<br>
-_unimproved: urban_: urban: 14.4% of population<br>
-_unimproved: rural_: rural: 65.2% of population<br>
-_unimproved: total_: total: 47% of population (2017 est.)<br>
+_improved: urban_: urban: 90.9% of population<br>
+_improved: rural_: rural: 38.7% of population<br>
+_improved: total_: total: 58% of population<br>
+_unimproved: urban_: urban: 9.1% of population<br>
+_unimproved: rural_: rural: 61.3% of population<br>
+_unimproved: total_: total: 42% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.4% (2020 est.)<br>
@@ -712,10 +712,10 @@ note - the National Gendarmerie is overseen by the Ministry of Defense, while th
 
 **Military expenditures**<br>
 1.4% of GDP (2020 est.)<br>
-2% of GDP (2019)<br>
-2.3% of GDP (2018)<br>
-2.5% of GDP (2017)<br>
-2.5% of GDP (2016)<br>
+1.6% of GDP (2019 est.)<br>
+1.8% of GDP (2018 est.)<br>
+1.8% of GDP (2017 est.)<br>
+1.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 Guinean National Armed Forces are comprised of approximately 12,000 active personnel <br>(9,000 Army; 400 Navy; 800 Air Force; 300 BASP; 1,500 Gendarmerie) (2021)<br>

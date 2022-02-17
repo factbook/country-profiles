@@ -176,11 +176,11 @@ _female_: 81.42 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 93.9% of population<br>
-_improved: total_: total: 99.7% of population<br>
-_unimproved: urban_: urban: 100% of population<br>
-_unimproved: rural_: rural: 95% of population<br>
-_unimproved: total_: total: 100% of population (2017 est.)<br>
+_improved: rural_: rural: 100% of population<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: 0% of population<br>
+_unimproved: rural_: rural: 0% of population<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 9.4% (2019)<br>
@@ -192,12 +192,12 @@ _unimproved: total_: total: 100% of population (2017 est.)<br>
 2.4 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99% of population<br>
-_improved: rural_: rural: 98.3% of population<br>
-_improved: total_: total: 98.9% of population<br>
-_unimproved: urban_: urban: 1% of population<br>
-_unimproved: rural_: rural: 1.7% of population<br>
-_unimproved: total_: total: 2.1% of population (2017 est.)<br>
+_improved: urban_: urban: 99.2% of population<br>
+_improved: rural_: rural: 99.6% of population<br>
+_improved: total_: total: 99.2% of population<br>
+_unimproved: urban_: urban: 0.8% of population<br>
+_unimproved: rural_: rural: 0.4% of population<br>
+_unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>
@@ -620,7 +620,7 @@ _subscriptions per 100 inhabitants_: 138.1 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Uruguay has an advanced telecom market, with excellent infrastructure and one of the highest broadband penetration rates in Latin America; fully digitized; high computer use and fixed-line/mobile penetrations; deployment of fiber infrastructure will encourage economic growth and stimulate e-commerce; state-owned monopoly on fixed-line market and dominance of mobile market; nationwide 3G coverage and LTE networks; limited 5G commercial reach; strong focus on fiber infrastructure with high percentage of residential fixed-broadband connections and near total business connections; importer of broadcasting equipment from China (2020)<br>
-_domestic_: most modern facilities concentrated in Montevideo; nationwide microwave radio relay network; overall fixed-line 34 per 100 and mobile-cellular teledensity 138 per 100 persons (2019)<br>
+_domestic_: most modern facilities concentrated in Montevideo; nationwide microwave radio relay network; overall fixed-line roughly 34 per 100 and mobile-cellular teledensity 138 per 100 persons (2019)<br>
 _international_: country code - 598; landing points for the Unisor, Tannat, and Bicentenario&nbsp;submarine cable system providing direct connectivity to Brazil and Argentina; Bicentenario 2012 and Tannat&nbsp;2017 cables helped end-users with Internet bandwidth; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -692,10 +692,10 @@ Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito N
 
 **Military expenditures**<br>
 2.3% of GDP (2021 est.)<br>
-2% of GDP (2020)<br>
-2% of GDP (2019)<br>
-2.1% of GDP (2018)<br>
-2% of GDP (2017)<br>
+2% of GDP (2020 est.)<br>
+2.1% of GDP (2019 est.)<br>
+2.1% of GDP (2018 est.)<br>
+2% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 22,000 active personnel (14,500 Army; 5,000 Navy; 2,500 Air Force) (2021)<br>

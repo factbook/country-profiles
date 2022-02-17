@@ -160,15 +160,23 @@ _female_: 83.31 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 99.1% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0.9% of population (2020)<br>
 
 **Current Health Expenditure**<br>
 NA<br>
 
 **Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017)<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -453,7 +461,7 @@ _subscriptions per 100 inhabitants_: 66.58 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: capability to&nbsp;communicate worldwide; ADSL- broadband service; LTE coverage of 95% of population, includes voice calls, text messages, mobile data as well as inbound and outbound roaming; Wi-Fi hotspots in Jamestown, 1 ISP, many services are not offered locally but made available for visitors; some sun outages due to the reliance of international telephone and Internet communication relying on single satellite link (2020)<br>
-_domestic_: automatic digital network; fixed-line 50 per 100 and mobile-cellular 67 per 100 persons (2019)<br>
+_domestic_: automatic digital network; fixed-line roughly 50 per 100 and mobile-cellular nearly 67 per 100 persons (2019)<br>
 _international_: country code (Saint Helena) - 290, (Ascension Island) - 247; landing point for the SaEx1 submarine cable providing connectivity to South Africa, Brazil, Virginia Beach (US) and islands in Saint Helena, Ascension and Tristan de Cunha; international direct dialing; satellite voice and data communications; satellite earth stations - 5 (Ascension Island - 4, Saint Helena - 1) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

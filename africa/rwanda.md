@@ -175,12 +175,12 @@ _female_: 67.47 years (2021 est.)<br>
 53.2% (2014/15)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 92% of population<br>
-_improved: rural_: rural: 76.9% of population<br>
-_improved: total_: total: 79.5% of population<br>
-_unimproved: urban_: urban: 8% of population<br>
-_unimproved: rural_: rural: 23.1% of population<br>
-_unimproved: total_: total: 20.5% of population (2017 est.)<br>
+_improved: urban_: urban: 92.3% of population<br>
+_improved: rural_: rural: 80.7% of population<br>
+_improved: total_: total: 82.7% of population<br>
+_unimproved: urban_: urban: 7.7% of population<br>
+_unimproved: rural_: rural: 19.3% of population<br>
+_unimproved: total_: total: 17.3% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.4% (2019)<br>
@@ -189,12 +189,12 @@ _unimproved: total_: total: 20.5% of population (2017 est.)<br>
 0.13 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 88.4% of population<br>
-_improved: rural_: rural: 79.4% of population<br>
-_improved: total_: total: 80.9% of population<br>
-_unimproved: urban_: urban: 11.6% of population<br>
-_unimproved: rural_: rural: 20.6% of population<br>
-_unimproved: total_: total: 19.1% of population (2017 est.)<br>
+_improved: urban_: urban: 89.1% of population<br>
+_improved: rural_: rural: 83.2% of population<br>
+_improved: total_: total: 84.2% of population<br>
+_unimproved: urban_: urban: 10.9% of population<br>
+_unimproved: rural_: rural: 16.8% of population<br>
+_unimproved: total_: total: 15.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 2.5% (2020 est.)<br>
@@ -620,7 +620,7 @@ _subscriptions per 100 inhabitants_: 81.95 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom market impacted by energy shortages and instability in neighboring states; government investing in smart city infrastructure; growing economy and foreign aid from South Korea help launch telecom sector, despite widespread poverty; expansion of LTE services; competing operators roll out national fiber optic backbone through connection to submarine cables, ending expensive dependence on satellite; importer of broadcasting equipment from China (2020)<br>
-_domestic_: the capital, Kigali, is connected to provincial centers by microwave radio relay, and recently by cellular telephone service; much of the network depends on wire and HF radiotelephone; fixed-line less than 1 per 100 and mobile-cellular telephone density has increased to 76 telephones per 100 persons (2019)<br>
+_domestic_: the capital, Kigali, is connected to provincial centers by microwave radio relay, and recently by cellular telephone service; much of the network depends on wire and HF radiotelephone; fixed-line less than 1 per 100 and mobile-cellular telephone density has increased to nearly 82 telephones per 100 persons (2020)<br>
 _international_: country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service); international submarine fiber-optic cables on the African east coast has brought international bandwidth and lessened the&nbsp;dependency on satellites<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -679,11 +679,11 @@ _lake port(s)_: Cyangugu, Gisenyi, Kibuye (Lake Kivu)<br>
 Rwanda Defense Force (RDF): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force, Special Units (2021)<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2020)<br>
-1.2% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
-1.2% of GDP (2016)<br>
+1.3% of GDP (2020 est.)<br>
+1.2% of GDP (2019 est.)<br>
+1.2% of GDP (2018 est.)<br>
+1.2% of GDP (2017 est.)<br>
+1.2% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Rwanda Defense Force (RDF) has approximately 33,000 active personnel (32,000 Army; 1,000 Air Force) (2021)<br>

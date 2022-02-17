@@ -47,7 +47,7 @@ temperate; humid and overcast; mild, windy winters and cool summers<br>
 low and flat to gently rolling plains<br>
 
 **Elevation**<br>
-_highest point_: Mollehoj 171 m<br>
+_highest point_: Store Mollehoj 171 m<br>
 _lowest point_: Lammefjord -7 m<br>
 _mean elevation_: 34 m<br>
 
@@ -172,7 +172,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 10% (2019)<br>
@@ -189,7 +189,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020 est.)<br>

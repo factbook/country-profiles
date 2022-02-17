@@ -176,7 +176,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 9.7% (2019)<br>
@@ -193,7 +193,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017)<br>
+_unimproved: total_: total: 0% of population (2020)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020 est.)<br>
@@ -605,7 +605,7 @@ _subscriptions per 100 inhabitants_: 136.1 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent domestic and international systems with progress in mobile services; LTE rates some of the fastest in the world; growth in mobile broadband and fiber sectors; roll out of 5G; investment and development of infrastructure enabled network capabilities to propel the digital economy, e-government, and e-commerce across the country; new satellite to improve telecom in the Asia Pacific region; importer of broadcasting equipment and computers from China (2020)<br>
-_domestic_: fixed-line 37 per 100 and mobile-cellular telephone subscribership 135 per 100 persons (2019)<br>
+_domestic_: fixed-line roughly 37 per 100 and mobile-cellular telephone subscribership 136 per 100 persons (2019)<br>
 _international_: country code - 64; landing points for the Southern Cross NEXT, Aqualink, Nelson-Levin, SCCN and Hawaiki submarine cable system providing links to Australia, Fiji, American Samoa, Kiribati, Samo, Tokelau, US and around New Zealand; satellite earth stations - 8 (1 Inmarsat - Pacific Ocean, 7 other) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -677,9 +677,9 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 
 **Military expenditures**<br>
 1.5% of GDP (2020)<br>
-1.5% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
+1.4% of GDP (2019)<br>
+1.2% of GDP (2018)<br>
+1.1% of GDP (2017)<br>
 1.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>

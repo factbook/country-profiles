@@ -173,12 +173,12 @@ _female_: 79.64 years (2021 est.)<br>
 62.3% (2019)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 99.4% of population<br>
-_improved: rural_: rural: 99% of population<br>
-_improved: total_: total: 99.2% of population<br>
-_unimproved: urban_: urban: 0.6% of population<br>
-_unimproved: rural_: rural: 1% of population<br>
-_unimproved: total_: total: 0.8% of population (2017 est.)<br>
+_improved: urban_: urban: 99.7% of population<br>
+_improved: rural_: rural: 99.4% of population<br>
+_improved: total_: total: 99.5% of population<br>
+_unimproved: urban_: urban: 0.3% of population<br>
+_unimproved: rural_: rural: 0.6% of population<br>
+_unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 8.7% (2019)<br>
@@ -190,12 +190,12 @@ _unimproved: total_: total: 0.8% of population (2017 est.)<br>
 5.6 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 95.1% of population<br>
-_improved: total_: total: 97.6% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 4.9% of population<br>
-_unimproved: total_: total: 2.4% of population (2017 est.)<br>
+_improved: urban_: urban: 99.6% of population<br>
+_improved: rural_: rural: 95.7% of population<br>
+_improved: total_: total: 97.9% of population<br>
+_unimproved: urban_: urban: 0.4% of population<br>
+_unimproved: rural_: rural: 4.3% of population<br>
+_unimproved: total_: total: 2.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020 est.)<br>
@@ -626,7 +626,7 @@ _subscriptions per 100 inhabitants_: 120.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Serbia's integration with the EU helped regulator reforms and promotion of telecom; EU development loans for broadband to rural areas; pandemic spurred use of mobile data and other services; wireless service is available through multiple providers; national coverage is growing rapidly; best telecom services are centered in urban centers; 4G/LTE mobile network launched; 5G tests ongoing with Ericsson and Huawei (2020)<br>
-_domestic_: fixed-line 29 per 100 and mobile-cellular 96 per 100 persons (2019)<br>
+_domestic_: fixed-line over 37 per 100 and mobile-cellular over 120 per 100 persons (2020)<br>
 _international_: country code - 381<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -698,9 +698,9 @@ note: the Guard is a brigade-sized unit that is directly subordinate to the Serb
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-2.2% of GDP (2019 est.)<br>
-1.6% of GDP (2018 est.)<br>
-1.8% of GDP (2017 est.)<br>
+2.2% of GDP (2019)<br>
+1.6% of GDP (2018)<br>
+1.8% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other) (2021)<br>
@@ -727,7 +727,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 _refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 816,848 estimated refugee and migrant arrivals (January 2015-January 2022); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
+<strong>note:</strong> 817,395 estimated refugee and migrant arrivals (January 2015-February 2022); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

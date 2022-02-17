@@ -170,12 +170,12 @@ _female_: 84.7 years (2021 est.)<br>
 <strong>note:</strong> percent of women aged 16-49<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: 99.8% of population<br>
+_improved: rural_: rural: 99.7% of population<br>
+_improved: total_: total: 99.8% of population<br>
+_unimproved: urban_: urban: 0.2% of population<br>
+_unimproved: rural_: rural: 0.3% of population<br>
+_unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 10.9% (2019)<br>
@@ -192,7 +192,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2016 est.)<br>
@@ -601,7 +601,7 @@ _subscriptions per 100 inhabitants_: 128.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Sweden&rsquo;s telecom market includes mature mobile and broadband sectors stimulated by investment of the main operators in new technologies; one of the best developed LTE infrastructures in the region; ranked among leading countries for fixed-line, mobile-cellular, Internet, and broadband penetration; best developed LTE infrastructure in the region; government promotes national broadband strategy to increase connectivity (2020)<br>
-_domestic_: fixed-line 19 per 100 and mobile-cellular 126 per 100; coaxial and multiconductor cables carry most of the voice traffic; parallel microwave radio relay systems carry some additional telephone channels (2019)<br>
+_domestic_: fixed-line just over 16 per 100 and mobile-cellular roughly 128 per 100; coaxial and multiconductor cables carry most of the voice traffic; parallel microwave radio relay systems carry some additional telephone channels (2020)<br>
 _international_: country code - 46; landing points for Botina, SFL, SFS-4, Baltic Sea Submarine Cable, Eastern Light, Sweden-Latvia, BCS North-Phase1, EE-S1, LV-SE1,&nbsp;BCS East-West Interlink, NordBalt, Baltica, Denmark-Sweden-15,-17,-18, Scandinavian Ring -North,-South, IP-Only Denmark-Sweden, Donica North,&nbsp;Kattegate-1,-2, Energinet Laeso-Varberg and GC2 submarine cables providing links to other Nordic countries and Europe; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Eutelsat, and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Sweden shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Norway) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

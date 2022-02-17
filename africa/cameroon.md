@@ -176,12 +176,12 @@ _female_: 64.57 years (2021 est.)<br>
 19.3% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 94% of population<br>
-_improved: rural_: rural: 54.6% of population<br>
-_improved: total_: total: 76.5% of population<br>
-_unimproved: urban_: urban: 6% of population<br>
-_unimproved: rural_: rural: 45.3% of population<br>
-_unimproved: total_: total: 23.5% of population (2017 est.)<br>
+_improved: urban_: urban: 95.1% of population<br>
+_improved: rural_: rural: 56.2% of population<br>
+_improved: total_: total: 78.6% of population<br>
+_unimproved: urban_: urban: 4.9% of population<br>
+_unimproved: rural_: rural: 43.8% of population<br>
+_unimproved: total_: total: 21.4% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.6% (2019)<br>
@@ -193,12 +193,12 @@ _unimproved: total_: total: 23.5% of population (2017 est.)<br>
 1.3 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 83.3% of population<br>
-_improved: rural_: rural: 25.6% of population<br>
-_improved: total_: total: 57.7% of population<br>
-_unimproved: urban_: urban: 16.7% of population<br>
-_unimproved: rural_: rural: 74.4% of population<br>
-_unimproved: total_: total: 42.3% of population (2017 est.)<br>
+_improved: urban_: urban: 83.2% of population<br>
+_improved: rural_: rural: 27.7% of population<br>
+_improved: total_: total: 59.7% of population<br>
+_unimproved: urban_: urban: 16.8% of population<br>
+_unimproved: rural_: rural: 72.3% of population<br>
+_unimproved: total_: total: 40.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 3% (2020 est.)<br>
@@ -716,10 +716,10 @@ note(s) - the National Police (under the General Delegation of National Security
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
-1.1% of GDP (2019)<br>
-1.1% of GDP (2018)<br>
-1.3% of GDP (2017)<br>
-1.3% of GDP (2016)<br>
+1.4% of GDP (2019 est.)<br>
+1.4% of GDP (2018 est.)<br>
+1.5% of GDP (2017 est.)<br>
+1.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; approximately 40,000 active duty troops; (25,000 ground forces, including the BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2021)<br>
@@ -752,7 +752,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 342,877 (Central African Republic), 120,928 (Nigeria) (2021)<br>
+_refugees (country of origin)_: 343,548 (Central African Republic), 121,539 (Nigeria) (2022)<br>
 _IDPs_: 933,138 (2021) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

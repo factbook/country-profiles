@@ -46,7 +46,7 @@ desert; cooler in eastern mountains<br>
 flat, barren coastal plain merging into rolling sand dunes of vast desert; mountains in east<br>
 
 **Elevation**<br>
-_highest point_: Jabal Yibir 1,527 m<br>
+_highest point_: Jabal Bil 'Ays 1,905 m<br>note - the Factbook map is incorrect; it shows the wrong location of the high elevation<br>
 _lowest point_: Persian Gulf 0 m<br>
 _mean elevation_: 149 m<br>
 
@@ -163,8 +163,12 @@ _female_: 80.78 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.3% (2019)<br>
@@ -176,8 +180,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 1.4 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: total_: total: 98.6% of population<br>
-_unimproved: total_: total: 1.4% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020)<br>
@@ -597,7 +605,7 @@ _subscriptions per 100 inhabitants_: 185.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the world&rsquo;s most connected countries with modern infrastructure and record Internet, broadband, and mobile use; low-cost smartphones drive mobile-broadband penetration; LTE networks cover most of the population with launch of 5G in partnership with Chinese company ZTE; submarine cables connect to South Africa, Middle East, Pakistan, and Europe; ISPs are fully or partially owned by state, allowing control over flow of information; during pandemic, there was a surge of Internet use from home, with temporary government relaxation of restrictions on streaming such as Zoom, Skype, and Microsoft Teams; government censorship and surveillance of online platforms; service prices are highest in the region, yet affordable for population&rsquo;s affluent users; government launched free digital platforms for students; Dubai and Abu Dhabi are smart cities with government plan to digitize services across country; major importer of broadcasting equipment from China and exporter of broadcasting equipment to Iraq and Saudi Arabia (2020)<br>
-_domestic_: microwave radio relay, fiber-optic and coaxial cable; fixed-line 24 per 100 and mobile-cellular 201 per 100 (2019)<br>
+_domestic_: microwave radio relay, fiber-optic and coaxial cable; fixed-line roughly 24 per 100 and mobile-cellular nearly 186 per 100 (2020)<br>
 _international_: country code - 971;&nbsp;landing points for the&nbsp;FLAG, SEA-ME-WE-3&nbsp;,-4 &amp; -5, Qater UAE&nbsp;Submarine Cable System, FALCON, FOG, Tat TGN-Gulf, OMRAN/EPEG Cable System, AAE-1, BBG, EIG, FEA, GBICS/MENA, IMEWE, Orient Express, TEAMS, TW1 and the UAE-Iran submarine cables, linking to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -671,11 +679,11 @@ United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presiden
 note - the Presidential Guard includes a Special Operations Command<br>
 
 **Military expenditures**<br>
-6% of GDP (2020 est.)<br>
-5% of GDP (2019 est.)<br>
-5% of GDP (2018 est.)<br>
-5.2% of GDP (2017)<br>
-6% of GDP (2016)<br>
+5.6% of GDP (2020 est.)<br>
+5.4% of GDP (2019 est.)<br>
+5.5% of GDP (2018 est.)<br>
+5.2% of GDP (2017 est.)<br>
+6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 65,000 total active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2021)<br>

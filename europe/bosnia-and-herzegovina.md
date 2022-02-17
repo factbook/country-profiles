@@ -170,7 +170,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 99.9% of population<br>
 _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.1% of population (2017 est.)<br>
+_unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 9.1% (2019)<br>
@@ -182,12 +182,12 @@ _unimproved: total_: total: 0.1% of population (2017 est.)<br>
 3.5 beds/1,000 population (2014)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.9% of population<br>
-_improved: rural_: rural: 92.1% of population<br>
-_improved: total_: total: 95.4% of population<br>
-_unimproved: urban_: urban: 1.1% of population<br>
-_unimproved: rural_: rural: 7.9% of population<br>
-_unimproved: total_: total: 4.5% of population (2017 est.)<br>
+_improved: urban_: urban: 99.5% of population<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: 0.5% of population<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2018)<br>
@@ -680,7 +680,7 @@ Armed Forces of Bosnia and Herzegovina (Oruzanih Snaga Bosne i Hercegovine, OSBi
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020)<br>
-0.9% of GDP (2019)<br>
+0.8% of GDP (2019)<br>
 0.9% of GDP (2018)<br>
 0.9% of GDP (2017)<br>
 
@@ -712,7 +712,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note:</strong> 86,199 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
+<strong>note:</strong> 86,337 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

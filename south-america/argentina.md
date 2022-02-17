@@ -178,12 +178,12 @@ _female_: 81.36 years (2021 est.)<br>
 <strong>note:</strong>  percent of women aged 14-49<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 99% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.1% of population<br>
-_unimproved: urban_: urban: 1% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.9% of population (2015 est.)<br>
+_improved: urban_: urban: 99.8% of population<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: 0.2% of population<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 9.5% (2019)<br>
@@ -195,8 +195,12 @@ _unimproved: total_: total: 0.9% of population (2015 est.)<br>
 5 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.3% of population (2017 est.)<br>
-_unimproved: urban_: urban: 1.7% of population (2017 est.)<br>
+_improved: urban_: urban: 100% of population (2017 est.)<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: 1% of population (2017 est.)<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>
@@ -719,7 +723,7 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica A
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020)<br>
 0.7% of GDP (2019)<br>
-0.7% of GDP (2018)<br>
+0.8% of GDP (2018)<br>
 0.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>

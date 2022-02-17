@@ -169,12 +169,12 @@ _female_: 72.38 years (2021 est.)<br>
 29.3% (2017)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 96.2% of population<br>
-_improved: rural_: rural: 78.6% of population<br>
-_improved: total_: total: 83.5% of population<br>
-_unimproved: urban_: urban: 3.8% of population<br>
-_unimproved: rural_: rural: 21.4% of population<br>
-_unimproved: total_: total: 16.5% of population (2017 est.)<br>
+_improved: urban_: urban: 96.5% of population<br>
+_improved: rural_: rural: 79.9% of population<br>
+_improved: total_: total: 84.4% of population<br>
+_unimproved: urban_: urban: 3.5% of population<br>
+_unimproved: rural_: rural: 20.1% of population<br>
+_unimproved: total_: total: 15.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.1% (2019)<br>
@@ -186,12 +186,12 @@ _unimproved: total_: total: 16.5% of population (2017 est.)<br>
 4.7 beds/1,000 population (2014)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.7% of population<br>
-_improved: rural_: rural: 99.3% of population<br>
+_improved: urban_: urban: 98.9% of population<br>
+_improved: rural_: rural: 99.6% of population<br>
 _improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: 0.3% of population<br>
-_unimproved: rural_: rural: 0.7% of population<br>
-_unimproved: total_: total: 2% of population (2017 est.)<br>
+_unimproved: urban_: urban: 1.1% of population<br>
+_unimproved: rural_: rural: 0.4% of population<br>
+_unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -607,7 +607,7 @@ _subscriptions per 100 inhabitants_: 111.5 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Tajikistan&rsquo;s telecom sector continues to struggle due to geographic isolation, lack of electricity, dysfunctional business climate, and impoverished citizenry; despite the launch of 4G/LTE services, one of the lowest fixed-line penetrations in Asia and one of the lowest broadband levels in the world; with help from foreign investment, mobile sector near saturation phase; Russian loans and Chinese investment in infrastructure through Economic Corridor initiatives; a few cities have 4G coverage; LTE-based smart city concept in Dushanbe; government restricts political rights and civil liberties, controlling information through media interruptions; government raised rates on Internet-based calls and Internet services in 2020, making price one of the highest in the world; importer of video displays and broadcasting equipment from China (2020)<br>
-_domestic_: fixed line availability has not changed significantly since 1998, while mobile cellular subscribership, aided by competition among multiple operators, has expanded rapidly; coverage now extends to all major cities and towns; fixed-line 5 per 100 and mobile-cellular 112 per 100 (2019)<br>
+_domestic_: fixed line availability has not changed significantly since 1998, while mobile cellular subscribership, aided by competition among multiple operators, has expanded; coverage now extends to all major cities and towns; fixed-line over 5 per 100 and mobile-cellular over 111 per 100 (2019)<br>
 _international_: country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); 3 satellite earth stations - 2 Intelsat and 1 Orbita<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -672,11 +672,11 @@ _total_: 30,000 km (2018)<br>
 Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime); State Committee on National Security: Border Guard Forces (2021)<br>
 
 **Military expenditures**<br>
-1.1% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.)<br>
-1.1% of GDP (2018)<br>
-2.2% of GDP (2017)<br>
-2.2% of GDP (2016)<br>
+1.2% of GDP (2020 est.)<br>
+2.1% of GDP (2019 est.)<br>
+2.1% of GDP (2018 est.)<br>
+2.2% of GDP (2017 est.)<br>
+2.2% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of the Republic of Tajikistan have approximately 9,500 active troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2021)<br>

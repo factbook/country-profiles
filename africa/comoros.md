@@ -67,7 +67,7 @@ the capital city of Maroni, located on the western side of the island of Grande 
 <p>cyclones possible during rainy season (December to April); volcanic activity on Grand Comore</p><p><strong>volcanism:</strong> Karthala (2,361 m) on Grand Comore Island last erupted in 2007; a 2005 eruption forced thousands of people to be evacuated and produced a large ash cloud</p><br>
 
 **Geography - note**<br>
-important location at northern end of Mozambique Channel<br>
+important location at northern end of Mozambique Channel; the only Arab League country that lies entirely in the Southern Hemisphere<br>
 
 ## People and Society
 
@@ -272,8 +272,8 @@ _conventional long form_: Union of the Comoros<br>
 _conventional short form_: Comoros<br>
 _local long form_: Udzima wa Komori (Comorian), Union des Comores (French), Jumhuriyat al Qamar al Muttahidah (Arabic)<br>
 _local short form_: Komori (Comorian), Comores (French), Juzur al Qamar (Arabic)<br>
+_former_: Comorian State, Federal Islamic Republic of the Comoros<br>
 _etymology_: name derives from the Arabic designation "Juzur al Qamar" meaning "Islands of the Moon"<br>
-&nbsp;<br>
 
 **Government type**<br>
 federal presidential republic<br>

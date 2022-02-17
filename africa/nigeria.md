@@ -180,12 +180,12 @@ _female_: 62.78 years (2021 est.)<br>
 16.6% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 92.6% of population<br>
-_improved: rural_: rural: 63.6% of population<br>
-_improved: total_: total: 77.9% of population<br>
-_unimproved: urban_: urban: 7.4% of population<br>
-_unimproved: rural_: rural: 36.4% of population<br>
-_unimproved: total_: total: 22.1% of population (2017 est.)<br>
+_improved: urban_: urban: 95.3% of population<br>
+_improved: rural_: rural: 68.8% of population<br>
+_improved: total_: total: 82.6% of population<br>
+_unimproved: urban_: urban: 4.7% of population<br>
+_unimproved: rural_: rural: 31.2% of population<br>
+_unimproved: total_: total: 17.4% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3% (2019)<br>
@@ -194,12 +194,12 @@ _unimproved: total_: total: 22.1% of population (2017 est.)<br>
 0.38 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 80.2% of population<br>
-_improved: rural_: rural: 39.5% of population<br>
-_improved: total_: total: 59.7% of population<br>
-_unimproved: urban_: urban: 19.8% of population<br>
-_unimproved: rural_: rural: 60.5% of population<br>
-_unimproved: total_: total: 40.3% of population (2017 est.)<br>
+_improved: urban_: urban: 81.6% of population<br>
+_improved: rural_: rural: 41.4% of population<br>
+_improved: total_: total: 62.3% of population<br>
+_unimproved: urban_: urban: 18.4% of population<br>
+_unimproved: rural_: rural: 58.6% of population<br>
+_unimproved: total_: total: 37.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.3% (2020 est.)<br>
@@ -644,7 +644,7 @@ _subscriptions per 100 inhabitants_: 99.07 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the larger telecom markets in Africa subject to sporadic access to electricity and vandalism of infrastructure; most Internet connections are via mobile networks; foreign investment presence, particularly from China; market competition with affordable access; LTE technologies available but GSM is dominate; mobile penetration high due to use of multiple SIM cards and phones; government committed to expanding broadband penetration; operators to deploy fiber optic cable in six geopolitical zones and Lagos; operators invested in base stations to deplete network congestion; submarine cable break in 2020 slowed speeds and interrupted connectivity; importer of phones and broadcast equipment from China (2020)<br>
-_domestic_: fixed-line subscribership remains less than 1 per 100 persons; mobile-cellular services growing rapidly, in part responding to the shortcomings of the fixed-line network; multiple cellular providers operate nationally with subscribership base over 88 per 100 persons (2019)<br>
+_domestic_: fixed-line subscribership remains less than 1 per 100 persons; mobile-cellular services growing rapidly, in part responding to the shortcomings of the fixed-line network; multiple cellular providers operate nationally with subscribership base over 99 per 100 persons (2020)<br>
 _international_: country code - 234; landing point for the SAT-3/WASC, NCSCS,&nbsp; MainOne, Glo-1 &amp; 2, ACE, and Equiano&nbsp;fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -728,7 +728,7 @@ Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of
 0.6% of GDP (2020)<br>
 0.5% of GDP (2019)<br>
 0.5% of GDP (2018)<br>
-0.4% of GDP (2017)<br>
+0.5% of GDP (2017)<br>
 0.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
@@ -747,7 +747,7 @@ the Nigerian Armed Forces' inventory consists of a wide variety of imported weap
 18-26 years of age for voluntary military service (men and women); no conscription (2021)<br>
 
 **Military - note**<br>
-as of early 2022, the Nigerian military was sub-Saharan Africa’s largest and regarded as one of its most capable forces; it was focused largely on internal security and faced a number of challenges that have stretched its resources, however; in the northeast, the military was conducting counterinsurgency/counter-terrorist operations against the Boko Haram (BH) and Islamic State in West Africa (ISWA) terrorist groups, where it has deployed as many as 70,000 troops at times and jihadist-related violence has killed an estimated 35-40,000 people, mostly civilians, since 2009 (as of late 2021); in the northwest, it faced growing threats from criminal gangs, bandits, and violence associated with historical and ongoing farmer-herder conflicts, as well as BH and ISWA terrorists; bandits in the northwest are estimated to number in the low 10,000s and violence there has killed more than 10,000 since the mid-2010s; the military also continued to protect the oil industry in the Niger Delta region against militants and criminal activity, although the levels of violence there have decreased in recent years; in May 2021, a contingent of military troops and police were deployed to eastern Nigeria to quell renewed agitation for a state of Biafra (Biafra seceded from Nigeria in the late 1960s, sparking a civil war that caused more than 1 million deaths)<br><br> <p>the Nigerian military traces its origins to the Nigeria Regiment of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Gold Coast, Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; in 1956, the Nigeria Regiment of the RWAFF was renamed the Nigerian Military Forces (NMF) and in 1958, the colonial government of Nigeria took over control of the NMF from the British War Office; the Nigerian Armed Forces were established following independence in 1960</p><br>
+as of 2022, the Nigerian military was sub-Saharan Africa’s largest and regarded as one of its most capable forces; it was focused largely on internal security and faced a number of challenges that have stretched its resources, however; in the northeast, the military was conducting counterinsurgency/counter-terrorist operations against the Boko Haram (BH) and Islamic State in West Africa (ISWA) terrorist groups, where it has deployed as many as 70,000 troops at times and jihadist-related violence has killed an estimated 35-40,000 people, mostly civilians, since 2009 (as of late 2021); in the northwest, it faced growing threats from criminal gangs, bandits, and violence associated with historical and ongoing farmer-herder conflicts, as well as BH and ISWA terrorists; bandits in the northwest are estimated to number in the low 10,000s and violence there has killed more than 10,000 since the mid-2010s; the military also continued to protect the oil industry in the Niger Delta region against militants and criminal activity, although the levels of violence there have decreased in recent years; in May 2021, a contingent of military troops and police were deployed to eastern Nigeria to quell renewed agitation for a state of Biafra (Biafra seceded from Nigeria in the late 1960s, sparking a civil war that caused more than 1 million deaths)<br><br> <p>the Nigerian military traces its origins to the Nigeria Regiment of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Gold Coast, Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; in 1956, the Nigeria Regiment of the RWAFF was renamed the Nigerian Military Forces (NMF) and in 1958, the colonial government of Nigeria took over control of the NMF from the British War Office; the Nigerian Armed Forces were established following independence in 1960</p><br>
 
 ## Terrorism
 

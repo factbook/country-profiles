@@ -46,7 +46,7 @@ tropical; mild winter (October to March); hot, humid summer (March to June); hum
 mostly flat alluvial plain; hilly in southeast<br>
 
 **Elevation**<br>
-_highest point_: Keokradong 1,230 m<br>
+_highest point_: Mowdok Taung 1,060 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
 _lowest point_: Indian Ocean 0 m<br>
 _mean elevation_: 85 m<br>
 
@@ -169,12 +169,12 @@ _female_: 76.7 years (2021 est.)<br>
 62.7% (2019)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.9% of population<br>
-_improved: rural_: rural: 98.4% of population<br>
-_improved: total_: total: 98.6% of population<br>
-_unimproved: urban_: urban: 1.1% of population<br>
-_unimproved: rural_: rural: 1.6% of population<br>
-_unimproved: total_: total: 1.4% of population (2017 est.)<br>
+_improved: urban_: urban: 99% of population<br>
+_improved: rural_: rural: 98.7% of population<br>
+_improved: total_: total: 98.9% of population<br>
+_unimproved: urban_: urban: 1% of population<br>
+_unimproved: rural_: rural: 1.3% of population<br>
+_unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 2.5% (2019)<br>
@@ -186,12 +186,12 @@ _unimproved: total_: total: 1.4% of population (2017 est.)<br>
 0.8 beds/1,000 population (2016)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 82.5% of population<br>
-_improved: rural_: rural: 64.4% of population<br>
-_improved: total_: total: 70.9% of population<br>
-_unimproved: urban_: urban: 17.5% of population<br>
-_unimproved: rural_: rural: 35.6% of population<br>
-_unimproved: total_: total: 29.1% of population (2017 est.)<br>
+_improved: urban_: urban: 85.3% of population<br>
+_improved: rural_: rural: 73.5% of population<br>
+_improved: total_: total: 78% of population<br>
+_unimproved: urban_: urban: 14.7% of population<br>
+_unimproved: rural_: rural: 26.5% of population<br>
+_unimproved: total_: total: 22% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2018 est.)<br>
@@ -714,9 +714,9 @@ note(s) - the RAB, Ansars, and VDP are paramilitary organizations for internal s
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>
-1.3% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
+1.4% of GDP (2019)<br>
+1.4% of GDP (2018)<br>
+1.3% of GDP (2017)<br>
 1.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>

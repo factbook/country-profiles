@@ -154,12 +154,12 @@ _female_: 77 years (2021 est.)<br>
 <strong>note:</strong>  includes Gaza Strip and West Bank<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 97.1% of population<br>
-_improved: rural_: rural: 97.1% of population<br>
-_improved: total_: total: 96.8% of population<br>
-_unimproved: urban_: urban: 2.9% of population<br>
-_unimproved: rural_: rural: 2.9% of population<br>
-_unimproved: total_: total: 3.2% of population (2017 est.)<br>
+_improved: urban_: urban: 98.9% of population<br>
+_improved: rural_: rural: 99% of population<br>
+_improved: total_: total: 98.9% of population<br>
+_unimproved: urban_: urban: 1.1% of population<br>
+_unimproved: rural_: rural: 1% of population<br>
+_unimproved: total_: total: 1.1% of population (2020 est.)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
 **Current Health Expenditure**<br>
@@ -172,12 +172,12 @@ NA<br>
 1.3 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 99.3% of population<br>
-_improved: total_: total: 99.8% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0.7% of population<br>
-_unimproved: total_: total: 0.2% of population (2017 est.)<br>
+_improved: urban_: urban: 99.9% of population<br>
+_improved: rural_: rural: 98.6% of population<br>
+_improved: total_: total: 99.6% of population<br>
+_unimproved: urban_: urban: 0.1% of population<br>
+_unimproved: rural_: rural: 1.4% of population<br>
+_unimproved: total_: total: 0.4% of population (2020 est.)<br>
 <strong>note:</strong> note includes Gaza Strip and the West Bank<br>
 
 **HIV/AIDS - adult prevalence rate**<br>

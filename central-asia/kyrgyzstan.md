@@ -170,12 +170,12 @@ _female_: 76.45 years (2021 est.)<br>
 39.4% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 97.1% of population<br>
-_improved: rural_: rural: 84.4% of population<br>
-_improved: total_: total: 89.3% of population<br>
-_unimproved: urban_: urban: 2.9% of population<br>
-_unimproved: rural_: rural: 15.6% of population<br>
-_unimproved: total_: total: 10.7% of population (2017 est.)<br>
+_improved: urban_: urban: 100% of population<br>
+_improved: rural_: rural: 89.9% of population<br>
+_improved: total_: total: 93.6% of population<br>
+_unimproved: urban_: urban: 0% of population<br>
+_unimproved: rural_: rural: 10.1% of population<br>
+_unimproved: total_: total: 6.4% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.5% (2019)<br>
@@ -187,12 +187,12 @@ _unimproved: total_: total: 10.7% of population (2017 est.)<br>
 4.4 beds/1,000 population (2014)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.6% of population<br>
+_improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.3% of population<br>
-_unimproved: urban_: urban: 0.4% of population<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.1% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -678,10 +678,10 @@ Kyrgyz Armed Forces: Land Forces, Air Defense Forces, National Guard; State Bord
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-1.5% of GDP (2019)<br>
-1.6% of GDP (2018)<br>
-1.6% of GDP (2017)<br>
-1.7% of GDP (2016)<br>
+2.3% of GDP (2019 est.)<br>
+2.3% of GDP (2018 est.)<br>
+2.3% of GDP (2017 est.)<br>
+2.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Kyrgyz Armed Forces have approximately 12,000 active duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 1,000 National Guard) (2021)<br>

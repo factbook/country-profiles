@@ -169,12 +169,12 @@ _female_: 72.9 years (2021 est.)<br>
 46.7% (2019)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 91.7% of population<br>
-_improved: rural_: rural: 91.4% of population<br>
-_improved: total_: total: 91.5% of population<br>
-_unimproved: urban_: urban: 8.3% of population<br>
-_unimproved: rural_: rural: 8.6% of population<br>
-_unimproved: total_: total: 8.5% of population (2017 est.)<br>
+_improved: urban_: urban: 92.7% of population<br>
+_improved: rural_: rural: 94.4% of population<br>
+_improved: total_: total: 94.1% of population<br>
+_unimproved: urban_: urban: 7.3% of population<br>
+_unimproved: rural_: rural: 5.6% of population<br>
+_unimproved: total_: total: 5.9% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.5% (2019)<br>
@@ -186,12 +186,12 @@ _unimproved: total_: total: 8.5% of population (2017 est.)<br>
 0.3 beds/1,000 population (2012)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 91.7% of population<br>
-_improved: rural_: rural: 71.9% of population<br>
-_improved: total_: total: 75.7% of population<br>
-_unimproved: urban_: urban: 7.3% of population<br>
-_unimproved: rural_: rural: 28.1% of population<br>
-_unimproved: total_: total: 24.3% of population (2017 est.)<br>
+_improved: urban_: urban: 95.1% of population<br>
+_improved: rural_: rural: 85.7% of population<br>
+_improved: total_: total: 87.7% of population<br>
+_unimproved: urban_: urban: 4.9% of population<br>
+_unimproved: rural_: rural: 14.3% of population<br>
+_unimproved: total_: total: 12.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020 est.)<br>
@@ -674,11 +674,11 @@ _unpaved_: 16,100 km (2016)<br>
 Nepal Army (includes Air Wing); Nepal Armed Police Force (under the Ministry of Home Affairs; paramilitary force responsible for border and internal security, including counter-insurgency, and assisting the Army in the event of an external invasion) (2021)<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2020 est.)<br>
-1.6% of GDP (2019)<br>
-1.6% of GDP (2018)<br>
-1.7% of GDP (2017)<br>
-1.7% of GDP (2016)<br>
+1.4% of GDP (2020 est.)<br>
+2.1% of GDP (2019)<br>
+2.3% of GDP (2018)<br>
+2.6% of GDP (2017)<br>
+2.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Nepal Army has approximately 95,000 active troops (including a small air wing of about 500 personnel) (2021)<br>

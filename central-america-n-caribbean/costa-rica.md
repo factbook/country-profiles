@@ -169,7 +169,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.3% (2019)<br>
@@ -181,12 +181,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 1.1 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.4% of population<br>
-_improved: rural_: rural: 95.8% of population<br>
-_improved: total_: total: 97.8% of population<br>
-_unimproved: urban_: urban: 1.6% of population<br>
-_unimproved: rural_: rural: 4.2% of population<br>
-_unimproved: total_: total: 2.2% of population (2017 est.)<br>
+_improved: urban_: urban: 99% of population<br>
+_improved: rural_: rural: 97.1% of population<br>
+_improved: total_: total: 98.7% of population<br>
+_unimproved: urban_: urban: 1% of population<br>
+_unimproved: rural_: rural: 2.9% of population<br>
+_unimproved: total_: total: 1.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>

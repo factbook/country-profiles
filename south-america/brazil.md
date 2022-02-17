@@ -179,12 +179,12 @@ _female_: 78.65 years (2021 est.)<br>
 <strong>note:</strong> percent of women aged 18-49<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 91.6% of population<br>
-_improved: total_: total: 98.2% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 8.4% of population<br>
-_unimproved: total_: total: 1.6% of population (2017 est.)<br>
+_improved: urban_: urban: 99.8% of population<br>
+_improved: rural_: rural: 96.9% of population<br>
+_improved: total_: total: 99.4% of population<br>
+_unimproved: urban_: urban: 0.2% of population<br>
+_unimproved: rural_: rural: 3.1% of population<br>
+_unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 9.6% (2019)<br>
@@ -196,12 +196,12 @@ _unimproved: total_: total: 1.6% of population (2017 est.)<br>
 2.1 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 92.8% of population<br>
-_improved: rural_: rural: 60.1% of population<br>
-_improved: total_: total: 88.3% of population<br>
-_unimproved: urban_: urban: 7.2% of population<br>
-_unimproved: rural_: rural: 39.9% of population<br>
-_unimproved: total_: total: 11.7% of population (2017 est.)<br>
+_improved: urban_: urban: 94.1% of population<br>
+_improved: rural_: rural: 63.6% of population<br>
+_improved: total_: total: 90.2% of population<br>
+_unimproved: urban_: urban: 5.9% of population<br>
+_unimproved: rural_: rural: 36.4% of population<br>
+_unimproved: total_: total: 9.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.6% (2020 est.)<br>
@@ -730,7 +730,7 @@ Brazilian Armed Forces: Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.5% of GDP (2019)<br>
+1.4% of GDP (2019)<br>
 1.5% of GDP (2018)<br>
 1.4% of GDP (2017)<br>
 1.3% of GDP (2016)<br>

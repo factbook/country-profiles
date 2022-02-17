@@ -156,8 +156,12 @@ _female_: 81.13 years (2021 est.)<br>
 59.2% (2012)<br>
 
 **Drinking water source**<br>
-_improved: total_: total: 98.5% of population<br>
-_unimproved: total_: total: 1.5% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 98.8% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 2% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.3% (2019)<br>
@@ -169,8 +173,12 @@ _unimproved: total_: total: 1.5% of population (2017 est.)<br>
 6 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: total_: total: 99.2% of population<br>
-_unimproved: total_: total: 0.8% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.1% (2019 est.)<br>
@@ -625,10 +633,10 @@ Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2021)<b
 
 **Military expenditures**<br>
 0.9% of GDP (2020 est.)<br>
-0.8% of GDP (2019)<br>
-0.8% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
-0.9% of GDP (2016)<br>
+0.8% of GDP (2019 est.)<br>
+0.8% of GDP (2018 est.)<br>
+0.8% of GDP (2017 est.)<br>
+0.8% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Barbados Defense Force (BDF) has approximately 600 active personnel (2021)<br>

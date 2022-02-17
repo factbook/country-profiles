@@ -176,12 +176,12 @@ _female_: 66.42 years (2021 est.)<br>
 54.6% (2016)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.9% of population<br>
-_improved: rural_: rural: 87.4% of population<br>
-_improved: total_: total: 95.5% of population<br>
-_unimproved: urban_: urban: 1.1% of population<br>
-_unimproved: rural_: rural: 12.6% of population<br>
-_unimproved: total_: total: 4.5% of population (2017 est.)<br>
+_improved: urban_: urban: 99.7% of population<br>
+_improved: rural_: rural: 90.3% of population<br>
+_improved: total_: total: 96.7% of population<br>
+_unimproved: urban_: urban: 0.3% of population<br>
+_unimproved: rural_: rural: 9.7% of population<br>
+_unimproved: total_: total: 3.3% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 9.1% (2019)<br>
@@ -190,12 +190,12 @@ _unimproved: total_: total: 4.5% of population (2017 est.)<br>
 0.91 physicians/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 95.6% of population<br>
-_improved: rural_: rural: 80.9% of population<br>
-_improved: total_: total: 90.6% of population<br>
-_unimproved: urban_: urban: 4.4% of population<br>
-_unimproved: rural_: rural: 19.1% of population<br>
-_unimproved: total_: total: 9.4% of population (2017 est.)<br>
+_improved: urban_: urban: 96.6% of population<br>
+_improved: rural_: rural: 86.4% of population<br>
+_improved: total_: total: 93.2% of population<br>
+_unimproved: urban_: urban: 3.4% of population<br>
+_unimproved: rural_: rural: 13.6% of population<br>
+_unimproved: total_: total: 6.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 19.1% (2020 est.)<br>
@@ -628,7 +628,7 @@ _subscriptions per 100 inhabitants_: 161.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>one of the most advanced infrastructures on the continent; investment by operators and municipal providers to improve network capability focused on fiber and LTE to extend connectivity; increase in Internet use for e-commerce, e-government, and e-health; government funds to improve broadband to more municipalities; high mobile penetration rate and FttP to 90% of the premises; regulatory intervention has improved telecommunications market; 5G in Capetown with additional auction and tests; importer of broadcasting equipment and computers from China</p> (2020)<br>
-_domestic_: fixed-line 3 per 100 persons and mobile-cellular 166 telephones per 100 persons; consists of carrier-equipped open-wire lines, coaxial cables, microwave radio relay links, fiber-optic cable, radiotelephone communication stations, and wireless local loops; key centers are Bloemfontein, Cape Town, Durban, Johannesburg, Port Elizabeth, and Pretoria (2019)<br>
+_domestic_: fixed-line over 3 per 100 persons and mobile-cellular nearly 162 telephones per 100 persons; consists of carrier-equipped open-wire lines, coaxial cables, microwave radio relay links, fiber-optic cable, radiotelephone communication stations, and wireless local loops; key centers are Bloemfontein, Cape Town, Durban, Johannesburg, Port Elizabeth, and Pretoria (2020)<br>
 _international_: country code - 27; landing points for the WACS, ACE, SAFE, SAT-3, Equiano, SABR, SAEx1, SAEx2, IOX Cable System, METISS, EASSy, and SEACOM/ Tata TGN-Eurasia&nbsp;fiber-optic submarine cable systems connecting South Africa, East Africa, West Africa, Europe,&nbsp;Southeast Asia, Asia, South America, Indian Ocean Islands,&nbsp;and the&nbsp;US;&nbsp;satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

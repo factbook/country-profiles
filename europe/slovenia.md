@@ -164,12 +164,11 @@ _female_: 84.6 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: total_: total: 99.5% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 8.5% (2019)<br>
@@ -181,12 +180,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 4.4 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 99% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020 est.)<br>
@@ -604,7 +603,7 @@ _subscriptions per 100 inhabitants_: 122.7 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-developed telecom infrastructure with sound regulatory intervention; increase in Internet community utilizing e-government, e-commerce, and e-health; government funds to improve broadband to more municipalities; high mobile penetration rate retaining customers with bundled products; extensive reach of 5G; FttP to 90% of premises; importer of broadcasting equipment from neighboring Central Europe (2020)<br>
-_domestic_: fixed-line 34 per 100 and mobile-cellular 121 per 100 teledensity (2019)<br>
+_domestic_: fixed-line nearly 34 per 100 and mobile-cellular over 122 per 100 teledensity (2020)<br>
 _international_: country code - 386 (2016)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

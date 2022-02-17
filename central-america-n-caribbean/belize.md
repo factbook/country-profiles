@@ -164,11 +164,11 @@ _female_: 77.24 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98.6% of population<br>
-_improved: total_: total: 99.2% of population<br>
+_improved: rural_: rural: 99.4% of population<br>
+_improved: total_: total: 99.7% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 1.4% of population<br>
-_unimproved: total_: total: 0.8% of population (2017 est.)<br>
+_unimproved: rural_: rural: 0.6% of population<br>
+_unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6% (2019)<br>
@@ -180,12 +180,12 @@ _unimproved: total_: total: 0.8% of population (2017 est.)<br>
 1 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.8% of population<br>
-_improved: rural_: rural: 95.3% of population<br>
-_improved: total_: total: 96.9% of population<br>
-_unimproved: urban_: urban: 1.2% of population<br>
-_unimproved: rural_: rural: 4.7% of population<br>
-_unimproved: total_: total: 3.1% of population (2017 est.)<br>
+_improved: urban_: urban: 99.1% of population<br>
+_improved: rural_: rural: 95.7% of population<br>
+_improved: total_: total: 97.3% of population<br>
+_unimproved: urban_: urban: 0.9% of population<br>
+_unimproved: rural_: rural: 4.3% of population<br>
+_unimproved: total_: total: 2.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.2% (2020 est.)<br>
@@ -652,10 +652,10 @@ Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (independent from
 
 **Military expenditures**<br>
 1.5% of GDP (2020 est.)<br>
-1.2% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.3% of GDP (2017)<br>
-1.3% of GDP (2016)<br>
+1.4% of GDP (2019 est.)<br>
+1.4% of GDP (2018 est.)<br>
+1.4% of GDP (2017 est.)<br>
+1.3% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Belize Defense Force (BDF) has approximately 1,300 active personnel; approximately 300 Belize Coast Guard (2021)<br>

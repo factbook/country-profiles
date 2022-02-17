@@ -168,12 +168,12 @@ _female_: 72.48 years (2021 est.)<br>
 36.7% (2016/18)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 89.4% of population<br>
-_improved: rural_: rural: 36.1% of population<br>
-_improved: total_: total: 43% of population<br>
-_unimproved: urban_: urban: 10.6% of population<br>
-_unimproved: rural_: rural: 63.9% of population<br>
-_unimproved: total_: total: 57% of population (2017 est.)<br>
+_improved: urban_: urban: 86.2% of population<br>
+_improved: rural_: rural: 41.5% of population<br>
+_improved: total_: total: 47.5% of population<br>
+_unimproved: urban_: urban: 13.8% of population<br>
+_unimproved: rural_: rural: 58.5% of population<br>
+_unimproved: total_: total: 52.5% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 2.3% (2019)<br>
@@ -182,12 +182,12 @@ _unimproved: total_: total: 57% of population (2017 est.)<br>
 0.07 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 55.5% of population<br>
-_improved: rural_: rural: 9.1% of population<br>
-_improved: total_: total: 15.2% of population<br>
-_unimproved: urban_: urban: 44.5% of population<br>
-_unimproved: rural_: rural: 90.9% of population<br>
-_unimproved: total_: total: 84.8% of population (2017 est.)<br>
+_improved: urban_: urban: 57.8% of population<br>
+_improved: rural_: rural: 18.2% of population<br>
+_improved: total_: total: 23.5% of population<br>
+_unimproved: urban_: urban: 42.2% of population<br>
+_unimproved: rural_: rural: 81.8% of population<br>
+_unimproved: total_: total: 76.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.9% (2020 est.)<br>
@@ -599,7 +599,7 @@ _subscriptions per 100 inhabitants_: 47.62 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom services stymied by rugged terrain, high cost of infrastructure, and poverty of citizens; services are minimal with little change in fixed-line tele-density in two decades; progress in mobile platforms with almost 90% coverage on 3G and LTE; GSM available in remote areas; Internet slow and expensive, available to pockets of the population; facilities provide radiotelephone, telegraph, coastal radio, aeronautical radio, and international radio communication services; launch of satellite and landing of submarine cable will improve most services in the region; government supports training to boost digital transformation; Australia attempted to block Chinese investment in cooperative network; importer of broadcasting equipment from China (2020)<br>
-_domestic_: access to telephone services is not widely available; fixed-line 2 per 100 and mobile-cellular 48 per 100 person, teledensity has increased (2019)<br>
+_domestic_: access to telephone services is not widely available; fixed-line nearly 2 per 100 and mobile-cellular nearly 48 per 100 persons (2019)<br>
 _international_: country code - 675; landing points for the Kumul Domestic Submarine Cable System, PNG-LNG, APNG-2, CSCS and the PPC-1&nbsp;submarine cables to Australia, Guam, PNG and Solomon Islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -674,8 +674,8 @@ Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements
 
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>
-0.4% of GDP (2019)<br>
-0.4% of GDP (2018)<br>
+0.3% of GDP (2019)<br>
+0.3% of GDP (2018)<br>
 0.3% of GDP (2017)<br>
 0.4% of GDP (2016)<br>
 

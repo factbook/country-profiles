@@ -164,23 +164,23 @@ _female_: 60.36 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 85.2% of population<br>
-_improved: rural_: rural: 71.7% of population<br>
-_improved: total_: total: 74.3% of population<br>
-_unimproved: urban_: urban: 14.8% of population<br>
-_unimproved: rural_: rural: 28.3% of population<br>
-_unimproved: total_: total: 25.7% of population (2017 est.)<br>
+_improved: urban_: urban: 88.7% of population<br>
+_improved: rural_: rural: 75.8% of population<br>
+_improved: total_: total: 78.4% of population<br>
+_unimproved: urban_: urban: 11.3% of population<br>
+_unimproved: rural_: rural: 24.2% of population<br>
+_unimproved: total_: total: 21.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6% (2019)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 54.1% of population<br>
-_improved: rural_: rural: 10.7% of population<br>
-_improved: total_: total: 19.1% of population<br>
-_unimproved: urban_: urban: 45.9% of population<br>
-_unimproved: rural_: rural: 89.3% of population<br>
-_unimproved: total_: total: 80.9% of population (2017 est.)<br>
+_improved: urban_: urban: 60.6% of population<br>
+_improved: rural_: rural: 15.5% of population<br>
+_improved: total_: total: 24.6% of population<br>
+_unimproved: urban_: urban: 39.4% of population<br>
+_unimproved: rural_: rural: 84.5% of population<br>
+_unimproved: total_: total: 75.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 2.3% (2020 est.)<br>
@@ -291,7 +291,7 @@ presidential republic<br>
 **Capital**<br>
 _name_: Juba<br>
 _geographic coordinates_: 04 51 N, 31 37 E<br>
-_time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
+_time difference_: UTC+2 (8 hours ahead of Washington, DC, during Standard Time)<br>
 _etymology_: the name derives from Djouba, another name for the Bari people of South Sudan<br>
 
 **Administrative divisions**<br>
@@ -304,7 +304,7 @@ _etymology_: the name derives from Djouba, another name for the Bari people of S
 Independence Day, 9 July (2011)<br>
 
 **Constitution**<br>
-_history_: previous 2005 (preindependence); latest signed 7 July 2011, effective 9 July 2011 (Transitional Constitution of the Republic of South Sudan, 2011)<br>
+_history_: previous 2005 (preindependence); latest signed 7 July 2011, effective 9 July 2011 (Transitional Constitution of the Republic of South Sudan, 2011); note - new constitution pending establishment under the 2018 peace agreement<br>
 _amendments_: proposed by the National Legislature or by the president of the republic; passage requires submission of the proposal to the Legislature at least one month prior to consideration, approval by at least two-thirds majority vote in both houses of the Legislature, and assent of the president; amended 2013, 2015, 2018 (2021)<br>
 
 **Citizenship**<br>
@@ -321,16 +321,16 @@ _chief of state_: President Salva KIIR Mayardit (since 9 July 2011); First Vice 
 _head of government_: President Salva KIIR Mayardit (since 9 July 2011); First Vice President Taban Deng GAI (since 26 July 2016); Vice President James Wani IGGA (since 22 February 2020); Vice President TABAN Deng Gai (since 22 February 2020); Vice President Rebecca Nyandeng Chol GARANG de Mabior (since 22 February 2020); Vice President Hussein ABDELBAGI Ayii (since 22 February 2020); note - the president is both chief of state and head of government<br>
 _cabinet_: National Council of Ministers appointed by the president, approved by the Transitional National Legislative Assembly<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11-15 April 2010 (next election scheduled for 2015 but postponed to 2018, then 2021, and again to 2023)<br>
-_election results_: Salva KIIR Mayardit elected president; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7%<br>
+_election results_: Salva KIIR Mayardit elected leader of then-Southern Sudan in 2010; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Legislature consists of:<br>Council of States, established by presidential decree in August 2011 (50 seats; 20 former members of the Council of States and 30 appointed representatives)<br> Transitional National Legislative Assembly, established on 4 August 2016, in accordance with the August 2015 Agreement on the Resolution of the Conflict in the Republic of South Sudan (400 seats; 170 members elected in April 2010, 96 members of the former National Assembly, 66 members appointed after independence, and 68 members added as a result of the 2016 Agreement); the TNLA will be expanded to 550 members after the transitional government forms<br>
-_elections_: <br>Council of States - established and members appointed 1 August 2011<br> National Legislative Assembly - last held 11-15 April 2010 but did not take office until July 2011; current parliamentary term extended until 2021)<br>
-_election results_: <br>Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 44, women 6, percent of women 12%<br> National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 291, women 109, percent of women 27.3%; note - total National Legislature percent of women 25.6%<br>
+_description_: bicameral National Legislature consists of:<br>Council of States, pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly (TNLA), established on 4 August 2016, in accordance with the August 2015 Agreement on the Resolution of the Conflict in the Republic of South Sudan; note - originally 400 seats; the TNLA was expanded to 550 members from 400 and reestablished in May 2020 under the 2018 peace agreement<br>
+_elections_: Council of States - pending establishment as stipulated by the 2018 peace deal<br>Transitional National Legislative Assembly - 550 members; percent of vote by party - NA; seats by party - 332 SPLM, 128 SPLM-IO, 90 other political parties; composition - NA<br>
+_election results_: <br>Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 44, women 6, percent of women 12%<br>National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 291, women 109, percent of women 27.3%; note - total National Legislature percent of women 25.6%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of South Sudan (consists of the chief and deputy chief justices, 9 other justices and normally organized into panels of 3 justices, except when sitting as a Constitutional panel of all 9 justices chaired by the chief justice)<br>
-_judge selection and term of office_: justices appointed by the president upon proposal of the Judicial Service Council, a 9-member judicial and administrative body; justice tenure set by the National Legislature<br>
+_highest courts_: Supreme Court of South Sudan - pending formation (will likely consist of a chief and deputy chief justices as well as 9 other justices)<br>
+_judge selection and term of office_: justices will be appointed by the president upon proposal of the pending Judicial Service Council, likely consisting of a 9-member judicial and administrative body; justice tenure to be set by the National Legislature<br>
 _subordinate courts_: national level - Courts of Appeal; High Courts; County Courts; state level - High Courts; County Courts; customary courts; other specialized courts and tribunals<br>
 
 **Political parties and leaders**<br>
@@ -549,7 +549,7 @@ _subscriptions per 100 inhabitants_: 20.09 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: with little infrastructure and electricity, South Sudan has one of the least developed telecom and Internet systems in the world and one of the lowest mobile penetration rates in Africa; instability, widespread poverty, and low literacy rates contribute to a struggling telecom sector; due to revenue losses, the few carriers in the market have reduced the areas in which they offer service; the government recognizes the positive effects of ICT on development and is providing a range of investment incentives; the international community has provided billions of dollars in aid to help the young country, with Chinese investment playing a growing role in the infrastructure and energy sectors and South Sudan purchasing broadcasting equipment from China; by 2020, one operator had initiated e-money service (2020)<br>
-_domestic_: fixed-line less than 1 per 100 subscriptions, mobile-cellular 33 per 100 persons (2019)<br>
+_domestic_: fixed-line less than 1 per 100 subscriptions, mobile-cellular roughly 20 per 100 persons (2019)<br>
 _international_: country code - 211 (2017)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -617,10 +617,10 @@ note - numerous irregular/militia forces operate in the country with official kn
 
 **Military expenditures**<br>
 2.3% of GDP (2020 est.)<br>
-3.5% of GDP (2019 est.)<br>
-3.7% of GDP (2018 est.)<br>
-2.8% of GDP (2017 est.)<br>
-4.6% of GDP (2016 est.)<br>
+3.1% of GDP (2019 est.)<br>
+3.2% of GDP (2018 est.)<br>
+2.1% of GDP (2017 est.)<br>
+4.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the South Sudan People’s Defense Force (SSPDF) has an estimated 150-200,000 active personnel, mostly ground forces with small contingents of air and riverine forces (2021)<br>

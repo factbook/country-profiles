@@ -173,12 +173,12 @@ _female_: 78.46 years (2021 est.)<br>
 69.8% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.6% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 98.9% of population<br>
-_unimproved: urban_: urban: 1.4% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 1.1% of population (2017 est.)<br>
+_improved: urban_: urban: 99.1% of population<br>
+_improved: rural_: rural: 98.7% of population<br>
+_improved: total_: total: 99% of population<br>
+_unimproved: urban_: urban: 0.9% of population<br>
+_unimproved: rural_: rural: 1.3% of population<br>
+_unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.3% (2019)<br>
@@ -190,12 +190,12 @@ _unimproved: total_: total: 1.1% of population (2017 est.)<br>
 2.9 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 91.6% of population<br>
-_improved: total_: total: 97.3% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 8.4% of population<br>
-_unimproved: total_: total: 2.7% of population (2017 est.)<br>
+_improved: urban_: urban: 99.8% of population<br>
+_improved: rural_: rural: 98.7% of population<br>
+_improved: total_: total: 99.6% of population<br>
+_unimproved: urban_: urban: 0.2% of population<br>
+_unimproved: rural_: rural: 1.3% of population<br>
+_unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -626,7 +626,7 @@ _subscriptions per 100 inhabitants_: 97.38 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: following earthquake damage to infrastructure in 2020, telecom sector undergoing rapid modernization and expansion, especially in mobile-cellular services; mobile broadband becoming increasingly popular; near saturation of 4G LTE coverage for the population; strides made with 5G through investment by Huawei and Ericcson; fixed and mobile infrastructure will help to underpin Smart City initiatives; tight government control on social media platforms; importer of broadcasting equipment and computers from China (2020)<br>
-_domestic_: additional digital exchanges are permitting a rapid increase in subscribers; the construction of a network of technologically advanced intercity trunk lines, using both fiber-optic cable and digital microwave radio relay, is facilitating communication between urban centers; remote areas are reached by a domestic satellite system; fixed-line 14 per 100 and mobile-cellular teledensity is 97 telephones per 100 persons (2019)<br>
+_domestic_: additional digital exchanges are permitting a rapid increase in subscribers; the construction of a network of technologically advanced intercity trunk lines, using both fiber-optic cable and digital microwave radio relay, is facilitating communication between urban centers; remote areas are reached by a domestic satellite system; fixed-line nearly 15 per 100 and mobile-cellular teledensity is over 97 telephones per 100 persons (2020)<br>
 _international_: country code - 90; landing points for the SeaMeWe-3 &amp; -5, MedNautilus Submarine System, Turcyos-1 &amp; -2 submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia&nbsp;; satellite earth stations - 12 Intelsat; mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -741,7 +741,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,736,235 (Syria) (2022)<br>
+_refugees (country of origin)_: 3,741,351 (Syria) (2022)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 

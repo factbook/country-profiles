@@ -175,12 +175,12 @@ _female_: 57.94 years (2021 est.)<br>
 27.1% (2015)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 93.2% of population<br>
-_improved: rural_: rural: 58.3% of population<br>
-_improved: total_: total: 70.7% of population<br>
-_unimproved: urban_: urban: 6.8% of population<br>
-_unimproved: rural_: rural: 41.7% of population<br>
-_unimproved: total_: total: 29.3% of population (2017 est.)<br>
+_improved: urban_: urban: 93.4% of population<br>
+_improved: rural_: rural: 61.5% of population<br>
+_improved: total_: total: 73.3% of population<br>
+_unimproved: urban_: urban: 6.6% of population<br>
+_unimproved: rural_: rural: 38.5% of population<br>
+_unimproved: total_: total: 26.7% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.8% (2019)<br>
@@ -192,12 +192,12 @@ _unimproved: total_: total: 29.3% of population (2017 est.)<br>
 0.7 beds/1,000 population (2011)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 61.8% of population (2015 est.)<br>
-_improved: rural_: rural: 18.8% of population<br>
-_improved: total_: total: 34.1% of population<br>
-_unimproved: urban_: urban: 38.2% of population<br>
-_unimproved: rural_: rural: 81.2% of population<br>
-_unimproved: total_: total: 65.9% of population (2017 est.)<br>
+_improved: urban_: urban: 71.9% of population (2015 est.)<br>
+_improved: rural_: rural: 24.7% of population<br>
+_improved: total_: total: 42.2% of population<br>
+_unimproved: urban_: urban: 28.1% of population<br>
+_unimproved: rural_: rural: 75.3% of population<br>
+_unimproved: total_: total: 57.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 11.5% (2020 est.)<br>
@@ -713,10 +713,10 @@ note - the FADM and other security forces are referred to collectively as the De
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
-0.9% of GDP (2019 est.)<br>
-1% of GDP (2018 est.)<br>
-1% of GDP (2017 est.)<br>
-1% of GDP (2016 est.)<br>
+1.2% of GDP (2019 est.)<br>
+1.1% of GDP (2018 est.)<br>
+0.9% of GDP (2017 est.)<br>
+0.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information limited and varied; approximately 11,000 personnel (10,000 Army; 200 Navy; 800 Air Force) (2021)<br>
@@ -728,7 +728,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although since 
 registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2021)<br>
 
 **Military - note**<br>
-the Government of Mozambique is facing a growing insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of late 2021, the fighting had left an estimated 2,500 dead and approximately 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of late 2021, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US are providing various forms of military assistance; African countries have provided approximately 3,000 troops<br>
+the Government of Mozambique is facing an insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of 2022, the fighting had left an estimated 3,000 dead and approximately 900,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of late 2021, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US are providing various forms of military assistance; African countries have provided approximately 3,000 troops<br>
 
 ## Terrorism
 

@@ -163,11 +163,11 @@ _female_: 77.98 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 96.8% of population<br>
-_improved: total_: total: 97.4% of population<br>
+_improved: rural_: rural: 98% of population<br>
+_improved: total_: total: 98.4% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 3.2% of population<br>
-_unimproved: total_: total: 2.6% of population (2017 est.)<br>
+_unimproved: rural_: rural: 2% of population<br>
+_unimproved: total_: total: 1.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.4% (2019)<br>
@@ -176,12 +176,12 @@ _unimproved: total_: total: 2.6% of population (2017 est.)<br>
 0.35 physicians/1,000 population (2016)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.5% of population<br>
-_improved: rural_: rural: 98.1% of population<br>
-_improved: total_: total: 98.2% of population<br>
-_unimproved: urban_: urban: 1.5% of population<br>
-_unimproved: rural_: rural: 1.9% of population<br>
-_unimproved: total_: total: 1.8% of population (2017 est.)<br>
+_improved: urban_: urban: 99.5% of population<br>
+_improved: rural_: rural: 99.5% of population<br>
+_improved: total_: total: 99.5% of population<br>
+_unimproved: urban_: urban: 0.5% of population<br>
+_unimproved: rural_: rural: 0.5% of population<br>
+_unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -580,7 +580,7 @@ _subscriptions per 100 inhabitants_: 63.58 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: development of infrastructure is hampered by geography of remote islands, vulnerable to devastating storms; telecom sector has been inhibited by lack of international connectivity; most households have at least one mobile phone; businesses in the capital area have access to broadband and Wi-Fi; rural islands have some access to Internet and Wi-Fi; liberalized regulatory infrastructure and competition in the mobile market increased coverage and reduced cost; access to submarine cables improved Internet data rates and reliability; Australian companies countering Chinese companies in the acquisition of Pacific operations; importer of broadcasting equipment from USA (2020)<br>
-_domestic_: fixed-line 4 per 100 and mobile-cellular teledensity 64 telephones per 100 persons (2019)<br>
+_domestic_: fixed-line roughly 4 per 100 and mobile-cellular teledensity nearly 64 telephones per 100 persons (2019)<br>
 _international_: country code - 685; landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT submarine cables providing connectivity to Samoa, Fiji,&nbsp;Wallis&nbsp;&amp; Futuna, Cook Islands, Niue, French Polynesia, American Samoa, Australia, New Zealand, Kiribati, Los Angeles (US), and Tokelau;&nbsp;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

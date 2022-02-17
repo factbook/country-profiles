@@ -174,12 +174,12 @@ _female_: 60.6 years (2021 est.)<br>
 8.1% (2019)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 86.7% of population<br>
-_improved: rural_: rural: 46.6% of population<br>
-_improved: total_: total: 55.7% of population<br>
-_unimproved: urban_: urban: 13.3% of population<br>
-_unimproved: rural_: rural: 53.4% of population<br>
-_unimproved: total_: total: 44.3% of population (2017 est.)<br>
+_improved: urban_: urban: 90.2% of population<br>
+_improved: rural_: rural: 51.9% of population<br>
+_improved: total_: total: 60.9% of population<br>
+_unimproved: urban_: urban: 9.8% of population<br>
+_unimproved: rural_: rural: 48.1% of population<br>
+_unimproved: total_: total: 39.1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.4% (2019)<br>
@@ -188,12 +188,12 @@ _unimproved: total_: total: 44.3% of population (2017 est.)<br>
 0.04 physicians/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 56.5% of population<br>
-_improved: rural_: rural: 3.1% of population<br>
-_improved: total_: total: 15.3% of population<br>
-_unimproved: urban_: urban: 43.5% of population<br>
-_unimproved: rural_: rural: 96.9% of population<br>
-_unimproved: total_: total: 84.7% of population (2017 est.)<br>
+_improved: urban_: urban: 57.5% of population<br>
+_improved: rural_: rural: 4.9% of population<br>
+_improved: total_: total: 17.3% of population<br>
+_unimproved: urban_: urban: 42.5% of population<br>
+_unimproved: rural_: rural: 95.1% of population<br>
+_unimproved: total_: total: 82.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.1% (2020 est.)<br>
@@ -687,10 +687,10 @@ note(s) - the GDSSIE, formerly known as the Republican Guard, is the presidentia
 
 **Military expenditures**<br>
 2.9% of GDP (2020 est.)<br>
-2.2% of GDP (2019)<br>
-2.3% of GDP (2018)<br>
-2.2% of GDP (2017)<br>
-1.8% of GDP (2016)<br>
+2% of GDP (2019 est.)<br>
+2% of GDP (2018 est.)<br>
+2% of GDP (2017 est.)<br>
+2.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited and varied information; approximately 30,000 active personnel (20-25,000 Ground Forces; 300 Air Force; 5-10,000 General Direction of the Security Services of State Institutions); 5,000 National Gendarmerie; 3,500 National Nomadic Guard of Chad (2021)<br>
@@ -719,7 +719,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 374,804 (Sudan), 121,511 (Central African Republic), 35,878 (Cameroon), 19,321 (Nigeria) (2021)<br>
+_refugees (country of origin)_: 374,804 (Sudan), 35,878 (Cameroon) (2021); 118,849 (Central African Republic), 19,321 (Nigeria) (2022)<br>
 _IDPs_: 406,573 (majority are in the east) (2021)<br>
 
 **Trafficking in persons**<br>

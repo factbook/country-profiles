@@ -175,12 +175,12 @@ _female_: 63.81 years (2021 est.)<br>
 13.7% (2015/16)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 81.7% of population<br>
-_improved: rural_: rural: 36.6% of population<br>
-_improved: total_: total: 65.8% of population<br>
-_unimproved: urban_: urban: 18.3% of population<br>
-_unimproved: rural_: rural: 63.4% of population<br>
-_unimproved: total_: total: 34.2% of population (2017 est.)<br>
+_improved: urban_: urban: 81.3% of population<br>
+_improved: rural_: rural: 36.5% of population<br>
+_improved: total_: total: 66.5% of population<br>
+_unimproved: urban_: urban: 18.7% of population<br>
+_unimproved: rural_: rural: 63.5% of population<br>
+_unimproved: total_: total: 33.5% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 2.5% (2019)<br>
@@ -189,12 +189,12 @@ _unimproved: total_: total: 34.2% of population (2017 est.)<br>
 0.22 physicians/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 92.2% of population<br>
-_improved: rural_: rural: 29.2% of population<br>
-_improved: total_: total: 70.1% of population<br>
-_unimproved: urban_: urban: 7.8% of population<br>
-_unimproved: rural_: rural: 70.8% of population<br>
-_unimproved: total_: total: 29.9% of population (2017 est.)<br>
+_improved: urban_: urban: 93.7% of population<br>
+_improved: rural_: rural: 30.3% of population<br>
+_improved: total_: total: 72.7% of population<br>
+_unimproved: urban_: urban: 6.3% of population<br>
+_unimproved: rural_: rural: 69.7% of population<br>
+_unimproved: total_: total: 27.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.8% (2020 est.)<br>
@@ -709,10 +709,10 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
-1.7% of GDP (2019)<br>
-1.8% of GDP (2018)<br>
-2.4% of GDP (2017)<br>
-3% of GDP (2016)<br>
+1.8% of GDP (2019 est.)<br>
+2.1% of GDP (2018 est.)<br>
+2.6% of GDP (2017 est.)<br>
+2.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Angolan Armed Forces (FAA) are comprised of approximately 107,000 active troops (100,000 Army; 1,000 Navy; 6,000 Air Force); est. 10,000 Rapid Reaction Police (2021)<br>

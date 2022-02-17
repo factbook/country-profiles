@@ -172,12 +172,12 @@ _female_: 78.15 years (2021 est.)<br>
 65.4% (2012)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 99.5% of population<br>
+_improved: urban_: urban: 99.4% of population<br>
 _improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: 0.5% of population<br>
+_improved: total_: total: 99.6% of population<br>
+_unimproved: urban_: urban: 0.6% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.6% of population (2017 est.)<br>
+_unimproved: total_: total: 0.4% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.1% (2019)<br>
@@ -189,12 +189,12 @@ _unimproved: total_: total: 0.6% of population (2017 est.)<br>
 7.5 beds/1,000 population (2014)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.4% of population<br>
-_improved: rural_: rural: 96.3% of population<br>
-_improved: total_: total: 98.4% of population<br>
-_unimproved: urban_: urban: 0.6% of population<br>
-_unimproved: rural_: rural: 3.7% of population<br>
-_unimproved: total_: total: 1.6% of population (2017 est.)<br>
+_improved: urban_: urban: 100% of population<br>
+_improved: rural_: rural: 100% of population<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: 0% of population<br>
+_unimproved: rural_: rural: 0% of population<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1% (2020 est.)<br>
@@ -622,7 +622,7 @@ _subscriptions per 100 inhabitants_: 129.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Ukraine&rsquo;s telecom market continues to face challenges resulting from the annexation of Crimea by Russia and unrest in eastern regions; developing telecom market has attracted international investors from Russia, Turkey, and Azerbaijan; government plan emphasizes improvement of domestic trunk lines, international connections, and a national mobile-cellular system; operators moving from 3G services to 4G, but some areas still use 2G; LTE services available in cities; FttP networks taking over DSL platforms; government approved plan in 2020 for 5G migration and operator is developing IoT capabilities; improvement of licensing requirements for operators and positive reforms for users; importer of broadcasting equipment from China (2020)<br>
-_domestic_: fixed-line teledensity is 10 per 100; the mobile-cellular telephone system's expansion has slowed, largely due to saturation of the market that is now 131 mobile phones per 100 persons (2019)<br>
+_domestic_: fixed-line teledensity is nearly 8 per 100; the mobile-cellular telephone system's expansion has slowed, largely due to saturation of the market that is now just over 129 mobile phones per 100 persons (2020)<br>
 _international_: country code - 380; landing point for the Kerch Strait Cable connecting Ukraine to Russia; 2 new domestic trunk lines are a part of the fiber-optic TAE system and 3 Ukrainian links have been installed in the fiber-optic TEL project that connects 18 countries; additional international service is provided by the Italy-Turkey-Ukraine-Russia (ITUR) fiber-optic submarine cable and by an unknown number of earth stations in the Intelsat, Inmarsat, and Intersputnik satellite systems<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -655,7 +655,7 @@ _annual freight traffic on registered air carriers_: 75.26 million mt-km (2018)<
 UR<br>
 
 **Airports**<br>
-_total_: 187 (2013)<br>
+_total_: 215 (2018)<br>
 
 **Airports - with paved runways**<br>
 _total_: 108<br>
@@ -695,8 +695,8 @@ _total_: 409<br>
 _by type_: bulk carrier 1, container ship 1, general cargo 84, oil tanker 15, other 308 (2021)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: Feodosiya (Theodosia), Chornomosk (Illichivsk), Mariupol, Mykolayiv, Odesa, Yuzhnyy<br>
-_river port(s)_: Kherson, Kyiv (Dnieper River), Mykolayiv (Buh River)<br>
+_major seaport(s)_: Feodosiia, Chornomorsk, Mariupol, Mykolaiv, Odesa, Yuzhne<br>
+_river port(s)_: Kherson, Kyiv (Dnieper River), Mykolaiv (Pivdennyy Buh River)<br>
 
 ## Military and Security
 
@@ -705,8 +705,8 @@ Armed Forces of Ukraine (Zbroyni Syly Ukrayiny, ZSU): Ground Forces (Sukhoputni 
 
 **Military expenditures**<br>
 4% of GDP (2020 est.)<br>
-3.9% of GDP (2019)<br>
-3.7% of GDP (2018)<br>
+3.4% of GDP (2019)<br>
+3.1% of GDP (2018)<br>
 3.1% of GDP (2017)<br>
 3.6% of GDP (2016)<br>
 

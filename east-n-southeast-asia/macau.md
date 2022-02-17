@@ -148,9 +148,11 @@ NA<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020)<br>
 
 **Current Health Expenditure**<br>
 NA<br>

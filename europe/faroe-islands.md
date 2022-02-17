@@ -153,8 +153,12 @@ _female_: 83.77 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: total_: total: 99% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020)<br>
 
 **Current Health Expenditure**<br>
 NA<br>
@@ -166,8 +170,12 @@ NA<br>
 4.2 beds/1,000 population (2016)<br>
 
 **Sanitation facility access**<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 1% of population (2017)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>

@@ -45,7 +45,7 @@ tropical; rainy season (March to June); dry season (June to October); persistent
 coastal plain, southern basin, central plateau, northern basin<br>
 
 **Elevation**<br>
-_highest point_: Mount Berongou 903 m<br>
+_highest point_: Mont Nabeba 1,020 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 430 m<br>
 
@@ -179,10 +179,10 @@ _female_: 63.16 years (2021 est.)<br>
 **Drinking water source**<br>
 _improved: urban_: urban: 97.5% of population<br>
 _improved: rural_: rural: 56.4% of population<br>
-_improved: total_: total: 83.7% of population<br>
+_improved: total_: total: 84.2% of population<br>
 _unimproved: urban_: urban: 2.5% of population<br>
 _unimproved: rural_: rural: 43.6% of population<br>
-_unimproved: total_: total: 16.3% of population (2017 est.)<br>
+_unimproved: total_: total: 15.8% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 2.1% (2019)<br>
@@ -193,10 +193,10 @@ _unimproved: total_: total: 16.3% of population (2017 est.)<br>
 **Sanitation facility access**<br>
 _improved: urban_: urban: 73.4% of population<br>
 _improved: rural_: rural: 15.1% of population<br>
-_improved: total_: total: 53.9% of population<br>
+_improved: total_: total: 54.7% of population<br>
 _unimproved: urban_: urban: 26.6% of population<br>
 _unimproved: rural_: rural: 84.9% of population<br>
-_unimproved: total_: total: 46.1% of population (2017 est.)<br>
+_unimproved: total_: total: 45.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 3.3% (2020 est.)<br>
@@ -699,10 +699,10 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army (Armee de Terre), 
 
 **Military expenditures**<br>
 3.2% of GDP (2020 est.)<br>
-2.7% of GDP (2019)<br>
-2.5% of GDP (2018)<br>
-4.3% of GDP (2017)<br>
-6.4% of GDP (2016)<br>
+2.3% of GDP (2019 est.)<br>
+2.1% of GDP (2018 est.)<br>
+3.6% of GDP (2017 est.)<br>
+4.2% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Congolese Armed Forces (FAC) have approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 2,000 Gendarmerie) (2021)<br>

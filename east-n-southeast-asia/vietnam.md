@@ -172,12 +172,12 @@ _female_: 78.12 years (2021 est.)<br>
 76.5% (2018/19)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.6% of population<br>
-_improved: rural_: rural: 92.6% of population<br>
-_improved: total_: total: 94.7% of population<br>
-_unimproved: urban_: urban: 1.4% of population<br>
-_unimproved: rural_: rural: 7.4% of population<br>
-_unimproved: total_: total: 5.3% of population (2017 est.)<br>
+_improved: urban_: urban: 99.2% of population<br>
+_improved: rural_: rural: 95.5% of population<br>
+_improved: total_: total: 96.9% of population<br>
+_unimproved: urban_: urban: 0.8% of population<br>
+_unimproved: rural_: rural: 4.5% of population<br>
+_unimproved: total_: total: 3.1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.3% (2019)<br>
@@ -189,12 +189,12 @@ _unimproved: total_: total: 5.3% of population (2017 est.)<br>
 3.2 beds/1,000 population (2013)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 96.9% of population<br>
-_improved: rural_: rural: 82.1% of population<br>
-_improved: total_: total: 87.3% of population<br>
-_unimproved: urban_: urban: 3.1% of population<br>
-_unimproved: rural_: rural: 17.9% of population<br>
-_unimproved: total_: total: 12.7% of population (2017 est.)<br>
+_improved: urban_: urban: 98.7% of population<br>
+_improved: rural_: rural: 90% of population<br>
+_improved: total_: total: 93.3% of population<br>
+_unimproved: urban_: urban: 1.3% of population<br>
+_unimproved: rural_: rural: 10% of population<br>
+_unimproved: total_: total: 6.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
@@ -620,7 +620,7 @@ _subscriptions per 100 inhabitants_: 142.7 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: though communist, government plans to partially privatize the state&rsquo;s holdings in telecom companies; competition is thriving in the telecom market place and driving e-commerce; mobile dominates over fixed-line; FttH market is growing; government is the driving force for growth with aims of commercializing 5G services with test licenses; Ho Chi Minh City to become the first smart city in Vietnam with cloud computing infrastructure, big data, data centers, and security-monitoring centers (2020)<br>
-_domestic_: all provincial exchanges are digitalized and connected to Hanoi, Da Nang, and Ho Chi Minh City by fiber-optic cable or microwave radio relay networks; main lines have been increased, and the use of mobile telephones is growing rapidly; fixed-line 4 per 100 and mobile-cellular 141 per 100 (2019)<br>
+_domestic_: all provincial exchanges are digitalized and connected to Hanoi, Da Nang, and Ho Chi Minh City by fiber-optic cable or microwave radio relay networks; main lines have been increased, and the use of mobile telephones is growing rapidly; fixed-line under 4 per 100 and mobile-cellular nearly 143 per 100 (2020)<br>
 _international_: country code - 84; landing points for the SeaMeWe-3,&nbsp;APG, SJC2, AAE-1, AAG and the TGN-IA submarine cable system providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, and the US; satellite earth stations - 2 Intersputnik (Indian Ocean region) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -703,7 +703,7 @@ note(s) - the Public Security Ministry is responsible for internal security and 
 2.4% of GDP (2021 est.)<br>
 2.4% of GDP (2020 est.)<br>
 2.3% of GDP (2019 est.)<br>
-2.4% of GDP (2018 est.)<br>
+2.3% of GDP (2018 est.)<br>
 2.3% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>

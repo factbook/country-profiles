@@ -178,11 +178,11 @@ _female_: 67.9 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.9% of population<br>
-_improved: rural_: rural: 80.8% of population<br>
-_improved: total_: total: 89.7% of population<br>
+_improved: rural_: rural: 83.2% of population<br>
+_improved: total_: total: 91.4% of population<br>
 _unimproved: urban_: urban: 1.1% of population<br>
-_unimproved: rural_: rural: 19.2% of population<br>
-_unimproved: total_: total: 10.3% of population (2017 est.)<br>
+_unimproved: rural_: rural: 16.8% of population<br>
+_unimproved: total_: total: 8.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 8.5% (2019)<br>
@@ -194,12 +194,12 @@ _unimproved: total_: total: 10.3% of population (2017 est.)<br>
 2.7 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 72.9% of population<br>
-_improved: rural_: rural: 22% of population<br>
-_improved: total_: total: 46.9% of population<br>
-_unimproved: urban_: urban: 27.1% of population<br>
-_unimproved: rural_: rural: 78% of population<br>
-_unimproved: total_: total: 53.1% of population (2017 est.)<br>
+_improved: urban_: urban: 70.6% of population<br>
+_improved: rural_: rural: 23.6% of population<br>
+_improved: total_: total: 48.1% of population<br>
+_unimproved: urban_: urban: 29.4% of population<br>
+_unimproved: rural_: rural: 76.4% of population<br>
+_unimproved: total_: total: 51.9% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 11.6% (2020 est.)<br>
@@ -700,10 +700,10 @@ Namibian Defense Force (NDF): Army, Navy, Air Force<br><br>Ministry of Safety an
 
 **Military expenditures**<br>
 3.4% of GDP (2020 est.)<br>
-3% of GDP (2019)<br>
-3.2% of GDP (2018)<br>
-3.4% of GDP (2017)<br>
-3.9% of GDP (2016)<br>
+3.3% of GDP (2019)<br>
+3.4% of GDP (2018)<br>
+3.6% of GDP (2017)<br>
+4.1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2021)<br>

@@ -164,12 +164,12 @@ _female_: 80.33 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.8% of population<br>
-_improved: rural_: rural: 98.2% of population<br>
-_improved: total_: total: 98.6% of population<br>
-_unimproved: urban_: urban: 1.2% of population<br>
-_unimproved: rural_: rural: 1.8% of population<br>
-_unimproved: total_: total: 1.4% of population (2017 est.)<br>
+_improved: urban_: urban: 99.9% of population<br>
+_improved: rural_: rural: 98.6% of population<br>
+_improved: total_: total: 99.5% of population<br>
+_unimproved: urban_: urban: 0.1% of population<br>
+_unimproved: rural_: rural: 1.4% of population<br>
+_unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.6% (2019)<br>
@@ -182,11 +182,11 @@ _unimproved: total_: total: 1.4% of population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.9% of population<br>
-_improved: rural_: rural: 84.6% of population<br>
-_improved: total_: total: 94.3% of population<br>
+_improved: rural_: rural: 85.3% of population<br>
+_improved: total_: total: 94.6% of population<br>
 _unimproved: urban_: urban: 1.1% of population<br>
-_unimproved: rural_: rural: 15.4% of population<br>
-_unimproved: total_: total: 5.7% of population (2017 est.)<br>
+_unimproved: rural_: rural: 14.7% of population<br>
+_unimproved: total_: total: 5.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2019 est.)<br>

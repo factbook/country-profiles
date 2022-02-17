@@ -166,12 +166,12 @@ _female_: 57.7 years (2021 est.)<br>
 6.9% (2018/19)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.1% of population<br>
-_improved: rural_: rural: 72.5% of population<br>
-_improved: total_: total: 83.8% of population<br>
-_unimproved: urban_: urban: 1.9% of population<br>
-_unimproved: rural_: rural: 27.5% of population<br>
-_unimproved: total_: total: 16.2% of population (2017 est.)<br>
+_improved: urban_: urban: 96.4% of population<br>
+_improved: rural_: rural: 73.7% of population<br>
+_improved: total_: total: 84.2% of population<br>
+_unimproved: urban_: urban: 3.6% of population<br>
+_unimproved: rural_: rural: 26.3% of population<br>
+_unimproved: total_: total: 15.8% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 NA<br>
@@ -183,12 +183,12 @@ NA<br>
 0.9 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 86.2% of population<br>
-_improved: rural_: rural: 27.1% of population<br>
-_improved: total_: total: 53.3% of population<br>
-_unimproved: urban_: urban: 13.8% of population<br>
-_unimproved: rural_: rural: 72.9% of population<br>
-_unimproved: total_: total: 46.7% of population (2017 est.)<br>
+_improved: urban_: urban: 82.4% of population<br>
+_improved: rural_: rural: 33.8% of population<br>
+_improved: total_: total: 56.2% of population<br>
+_unimproved: urban_: urban: 17.6% of population<br>
+_unimproved: rural_: rural: 66.2% of population<br>
+_unimproved: total_: total: 43.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020 est.)<br>
@@ -566,11 +566,11 @@ _subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 7,653,040 (2018)<br>
-_subscriptions per 100 inhabitants_: 50.99 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 50.99 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the public telecom system was almost completely destroyed during years of civil war; private companies offer limited local fixed-line and wireless service in most major cities; early 2020 landing of DARE 1 submarine cables in Mogadishu and Bossaso eased dependence on expensive satellite dependency for Internet access; in 2019, Al Shabaab Islamic militant group forced closure of Internet services in some parts of the country; new telecom regulatory sector in place (2020)<br>
-_domestic_: seven networks compete for customers in the mobile sector; some of these mobile-service providers offer fixed-lines and Internet services; fixed-line less than 1 per 100 and mobile-cellular 49 per 100 (2019)<br>
+_domestic_: seven networks compete for customers in the mobile sector; some of these mobile-service providers offer fixed-lines and Internet services; fixed-line is 0 per 100 and mobile-cellular roughly 51 per 100 (2019)<br>
 _international_: country code - 252; landing points for the G2A, DARE1, PEACE, and EASSy fiber-optic submarine cable system linking East Africa, Indian Ocean Islands, the Middle East, North Africa&nbsp;and&nbsp;Europe (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -631,12 +631,7 @@ Ministry of Defense: Somali National Army (SNA); Ministry of Internal Security: 
 note - Somalia has numerous militia and regional forces operating throughout the country; these forces include ones that are clan- and warlord-based, semi-official paramilitary and special police forces (aka <em>darwish</em>), and externally-sponsored militias; the SNA is attempting to incorporate some of these militia units<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2017 est.)<br>
-1.3% of GDP (2016 est.)<br>
-1.3% of GDP (2015 est.)<br>
-1.2% of GDP (2014 est.)<br>
-1.1% of GDP (2013 est.)<br>
-no figures available after 2017<br>
+from 2014-2019, Somalia allocated an estimated 5-6% of its GDP to military expenditures annually<br>
 
 **Military and security service personnel strengths**<br>
 estimates for the size of the Somali National Army (SNA) vary widely, from a low of about 10,000 to a high of some 25,000 due to inconsistent internal reporting and the ongoing attempts to integrate various militias (2021)<br>

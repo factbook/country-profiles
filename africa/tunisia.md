@@ -167,11 +167,11 @@ _female_: 78.36 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 94.3% of population<br>
-_improved: total_: total: 98.2% of population<br>
+_improved: rural_: rural: 97.3% of population<br>
+_improved: total_: total: 99.2% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 5.7% of population<br>
-_unimproved: total_: total: 1.8% of population (2017 est.)<br>
+_unimproved: rural_: rural: 2.7% of population<br>
+_unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7% (2019)<br>
@@ -183,12 +183,12 @@ _unimproved: total_: total: 1.8% of population (2017 est.)<br>
 2.2 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97.6% of population<br>
-_improved: rural_: rural: 92.4% of population<br>
-_improved: total_: total: 95.9% of population<br>
-_unimproved: urban_: urban: 2.4% of population<br>
-_unimproved: rural_: rural: 7.6% of population<br>
-_unimproved: total_: total: 4.1% of population (2017 est.)<br>
+_improved: urban_: urban: 98.8% of population<br>
+_improved: rural_: rural: 99.4% of population<br>
+_improved: total_: total: 99% of population<br>
+_unimproved: urban_: urban: 1.2% of population<br>
+_unimproved: rural_: rural: 0.6% of population<br>
+_unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020 est.)<br>
@@ -601,7 +601,7 @@ _subscriptions per 100 inhabitants_: 125.7 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Tunisia has one of the most sophisticated telecom infrastructures in North Africa; penetration rates for mobile and Internet services are among the highest in the region; government program of regulation and infrastructure projects aims to improve Internet connectivity to underserved areas; operators built extensive LTE infrastructure in 2019, and are developing 5G networks and services; Chinese company Huawei invested in LTE network; operator planning nano-satellite launches in 2023; Internet censorship abolished, though concerns of government surveillance remain; legislation passed in 2017 supporting e-commerce and active e-government; importer of integrated circuits and broadcasting equipment from China (2020)<br>
-_domestic_: in an effort to jumpstart expansion of the fixed-line network, the government awarded a concession to build and operate a VSAT network with international connectivity; rural areas are served by wireless local loops; competition between several mobile-cellular service providers has resulted in lower activation and usage charges and a strong surge in subscribership; fixed-line is 12 per 100 and mobile-cellular teledensity has reached about 126 telephones per 100 persons (2019)<br>
+_domestic_: in an effort to jumpstart expansion of the fixed-line network, the government awarded a concession to build and operate a VSAT network with international connectivity; rural areas are served by wireless local loops; competition between several mobile-cellular service providers has resulted in lower activation and usage charges and a surge in subscribership; fixed-line is nearly 13 per 100 and mobile-cellular teledensity has reached about 126 telephones per 100 persons (2020)<br>
 _international_: country code - 216; landing points for the SEA-ME-WE-4, Didon, HANNIBAL System and Trapani-Kelibia&nbsp;submarine cable systems that provides links to Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Arabsat; coaxial cable and microwave radio relay to Algeria and Libya; participant in Medarabtel; 2 international gateway digital switches (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -673,10 +673,10 @@ note - the National Police has primary responsibility for law enforcement in the
 
 **Military expenditures**<br>
 2.9% of GDP (2020 est.)<br>
-2.5% of GDP (2019)<br>
-2.1% of GDP (2018)<br>
-2.1% of GDP (2017)<br>
-2.4% of GDP (2016)<br>
+3.8% of GDP (2019 est.)<br>
+3.9% of GDP (2018 est.)<br>
+4% of GDP (2017 est.)<br>
+4.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Tunisian Armed Forces (FAT) have approximately 36,000 active personnel (27,000 Army; 5,000 Navy; 4,000 Air Force); est. 10,000 National Guard (2021)<br>

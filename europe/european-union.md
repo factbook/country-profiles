@@ -168,6 +168,14 @@ _unimproved: total_: total: NA<br>
 **Current Health Expenditure**<br>
 9.9% (2016)<br>
 
+**Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
+
 **HIV/AIDS - adult prevalence rate**<br>
 note - see individual entries of member states<br>
 

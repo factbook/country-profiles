@@ -167,12 +167,12 @@ _female_: 76.26 years (2021 est.)<br>
 56% (2020)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.5% of population<br>
-_improved: rural_: rural: 84.6% of population<br>
-_improved: total_: total: 90.5% of population<br>
-_unimproved: urban_: urban: 1.5% of population<br>
-_unimproved: rural_: rural: 15.4% of population<br>
-_unimproved: total_: total: 9.5% of population (2017 est.)<br>
+_improved: urban_: urban: 98.9% of population<br>
+_improved: rural_: rural: 87% of population<br>
+_improved: total_: total: 92.1% of population<br>
+_unimproved: urban_: urban: 1.1% of population<br>
+_unimproved: rural_: rural: 13% of population<br>
+_unimproved: total_: total: 7.9% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.4% (2019)<br>
@@ -184,12 +184,12 @@ _unimproved: total_: total: 9.5% of population (2017 est.)<br>
 5.7 beds/1,000 population (2014)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.3% of population<br>
-_improved: rural_: rural: 78.9% of population<br>
-_improved: total_: total: 87.2% of population<br>
-_unimproved: urban_: urban: 1.7% of population<br>
-_unimproved: rural_: rural: 21.1% of population<br>
-_unimproved: total_: total: 12.8% of population (2017 est.)<br>
+_improved: urban_: urban: 99% of population<br>
+_improved: rural_: rural: 83.1% of population<br>
+_improved: total_: total: 89.9% of population<br>
+_unimproved: urban_: urban: 1% of population<br>
+_unimproved: rural_: rural: 16.9% of population<br>
+_unimproved: total_: total: 10.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.8% (2020 est.)<br>
@@ -681,10 +681,10 @@ National Army: Land Forces (Fortele Terestre ale Republicii Moldova, FTRM); Air 
 
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>
-0.4% of GDP (2019)<br>
-0.4% of GDP (2018)<br>
-0.4% of GDP (2017)<br>
-0.4% of GDP (2016)<br>
+0.4% of GDP (2019 est.)<br>
+0.4% of GDP (2018 est.)<br>
+0.4% of GDP (2017 est.)<br>
+0.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Moldovan National Army has approximately 6,000 active troops (2021)<br>

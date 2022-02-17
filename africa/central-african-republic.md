@@ -171,12 +171,12 @@ _female_: 56.44 years (2021 est.)<br>
 17.8% (2019)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 89.6% of population<br>
-_improved: rural_: rural: 54.4% of population<br>
-_improved: total_: total: 68.5% of population<br>
-_unimproved: urban_: urban: 10.4% of population<br>
-_unimproved: rural_: rural: 45.6% of population<br>
-_unimproved: total_: total: 31.5% of population (2015 est.)<br>
+_improved: urban_: urban: 83.9% of population<br>
+_improved: rural_: rural: 47.5% of population<br>
+_improved: total_: total: 62.9% of population<br>
+_unimproved: urban_: urban: 16.1% of population<br>
+_unimproved: rural_: rural: 52.5% of population<br>
+_unimproved: total_: total: 37.1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.8% (2019)<br>
@@ -188,12 +188,12 @@ _unimproved: total_: total: 31.5% of population (2015 est.)<br>
 1 beds/1,000 population (2011)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 43.6% of population<br>
-_improved: rural_: rural: 7.2% of population<br>
-_improved: total_: total: 21.8% of population<br>
-_unimproved: urban_: urban: 56.4% of population<br>
-_unimproved: rural_: rural: 92.8% of population<br>
-_unimproved: total_: total: 78.2% of population (2015 est.)<br>
+_improved: urban_: urban: 53.8% of population<br>
+_improved: rural_: rural: 12.4% of population<br>
+_improved: total_: total: 29.9% of population<br>
+_unimproved: urban_: urban: 46.2% of population<br>
+_unimproved: rural_: rural: 87.6% of population<br>
+_unimproved: total_: total: 70.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 2.9% (2020 est.)<br>
@@ -348,7 +348,7 @@ _residency requirement for naturalization_: 35 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Faustin-Archange TOUADERA (since 30 March 2016; reelected 27 December 2020)<br>
-_head of government_: Prime Minister Henri-Marie DONDRA (since 11 June 2021); note - Prime Minister Firmin NGREBADA resigned on 10 June 2021<br>
+_head of government_: Prime Minister Felix MOLOUA (since 7 February 2022); note - Prime Minister Henri-Marie DONDRA resigned on 2 February 2022<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: under the 2015 constitution, the president is elected by universal direct suffrage for a period of 5 years (eligible for a second term); election last held 27 December 2020 (next to be held in December 2025); note - Central African Republic held presidential and partial legislative elections on December 27, 2020; voting was disrupted in some areas, so those constituencies held the first round of their legislative elections on March 14, 2021; some of the constituencies that did vote on December 27, 2020 held runoff elections for their legislators.<br>
 _election results_: Faustin-Archange TOUADERA reelected president in first round; percent of vote - Faustin-Archange TOUADERA (independent) 59.3%, Anicet Georges DOLOGUELE (URCA) 21%, other 19.7%<br>
@@ -674,10 +674,10 @@ note - in 2019-2021, CAR created three Mixed Special Security units (<em>Unité
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-1.5% of GDP (2019 est.)<br>
+1.7% of GDP (2019 est.)<br>
 1.4% of GDP (2018 est.)<br>
 1.4% of GDP (2017 est.)<br>
-1.5% of GDP (2016 est.)<br>
+1.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active troops, including an air component of 100-200 and up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2021)<br>

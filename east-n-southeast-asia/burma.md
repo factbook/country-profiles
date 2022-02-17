@@ -177,12 +177,12 @@ _female_: 71.39 years (2021 est.)<br>
 52.2% (2015/16)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 93% of population<br>
-_improved: rural_: rural: 76.9% of population<br>
-_improved: total_: total: 81.8% of population<br>
-_unimproved: urban_: urban: 7% of population<br>
-_unimproved: rural_: rural: 23.1% of population<br>
-_unimproved: total_: total: 18.2% of population (2017 est.)<br>
+_improved: urban_: urban: 95.4% of population<br>
+_improved: rural_: rural: 80.7% of population<br>
+_improved: total_: total: 85.3% of population<br>
+_unimproved: urban_: urban: 4.6% of population<br>
+_unimproved: rural_: rural: 19.3% of population<br>
+_unimproved: total_: total: 14.7% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.7% (2019)<br>
@@ -194,12 +194,12 @@ _unimproved: total_: total: 18.2% of population (2017 est.)<br>
 1 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 87.6% of population<br>
-_improved: rural_: rural: 67.6% of population<br>
-_improved: total_: total: 73.7% of population<br>
-_unimproved: urban_: urban: 12.4% of population<br>
-_unimproved: rural_: rural: 32.4% of population<br>
-_unimproved: total_: total: 26.3% of population (2017 est.)<br>
+_improved: urban_: urban: 93.9% of population<br>
+_improved: rural_: rural: 81.3% of population<br>
+_improved: total_: total: 85.2% of population<br>
+_unimproved: urban_: urban: 6.1% of population<br>
+_unimproved: rural_: rural: 18.7% of population<br>
+_unimproved: total_: total: 14.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.6% (2019 est.)<br>
@@ -710,10 +710,10 @@ note(s) - the Burmese military controls the Ministry of Defense, the Ministry of
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>
-2.7% of GDP (2019 est.)<br>
-2.9% of GDP (2018 est.)<br>
-3.2% of GDP (2017 est.)<br>
-3.7% of GDP (2016 est.)<br>
+4.1% of GDP (2019 est.)<br>
+4.4% of GDP (2018 est.)<br>
+4.7% of GDP (2017 est.)<br>
+4.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; approximately 400,000 total active troops (est. 360,000 Army; 20,000 Navy; 20,000 Air Force) (2021)<br>

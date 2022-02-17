@@ -179,12 +179,12 @@ _female_: 77.19 years (2021 est.)<br>
 76.3% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 95.6% of population<br>
-_improved: rural_: rural: 77.4% of population<br>
-_improved: total_: total: 92.1% of population<br>
-_unimproved: urban_: urban: 4.4% of population<br>
-_unimproved: rural_: rural: 22.6% of population<br>
-_unimproved: total_: total: 7.9% of population (2017 est.)<br>
+_improved: urban_: urban: 97.2% of population<br>
+_improved: rural_: rural: 82.4% of population<br>
+_improved: total_: total: 94% of population<br>
+_unimproved: urban_: urban: 2.8% of population<br>
+_unimproved: rural_: rural: 17.6% of population<br>
+_unimproved: total_: total: 6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.2% (2019)<br>
@@ -196,12 +196,12 @@ _unimproved: total_: total: 7.9% of population (2017 est.)<br>
 1.6 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 92.2% of population<br>
-_improved: rural_: rural: 60.8% of population<br>
-_improved: total_: total: 85.2% of population<br>
-_unimproved: urban_: urban: 7.8% of population<br>
-_unimproved: rural_: rural: 14.8% of population<br>
-_unimproved: total_: total: 23.8% of population (2017 est.)<br>
+_improved: urban_: urban: 93.6% of population<br>
+_improved: rural_: rural: 65.3% of population<br>
+_improved: total_: total: 87.4% of population<br>
+_unimproved: urban_: urban: 6.4% of population<br>
+_unimproved: rural_: rural: 34.7% of population<br>
+_unimproved: total_: total: 12.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
@@ -362,7 +362,7 @@ _head of government_: President Jose Pedro CASTILLO Terrones (since 28 July 2021
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 11 April 2021 with a runoff on 6 June 2021 (next to be held in April 2026)<br>
 _election results_: <br><em>2021: </em>Jose Pedro CASTILLO Terrones elected president in second round; percent of vote in first round - Jose Pedro CASTILLO Terrones (Free Peru) 18.9%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 13.4%, Rafael LOPEZ ALIAGA Cazorla (Popular Renewal) 11.8%, Hernando DE SOTO Polar (Social Integration Party) 11.6%, Yonhy LESCANO Ancieta (Popular Action) 9.1%, Veronika MENDOZA Frisch (JP) 7.9%, Cesar ACUNA Peralta (APP) 6%, George FORSYTH Sommer (VN) 5.7%, Daniel Belizario URRESTI Elera (We Can Peru) 5.6%, other 10%; percent of vote second round - Jose Pedro CASTILLO Terrones (Free Peru) 50.1%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 49.9%<br><br><em>2016:</em> Pedro Pablo KUCZYNSKI Godard elected president in second round; percent of vote in first round - Keiko FUJIMORI Higuchi (Popular Force) 39.9%, Pedro Pablo KUCZYNSKI Godard (PPK) 21.1%, Veronika MENDOZA (Broad Front) 18.7%, Alfredo BARNECHEA (Popular Action) 7%, Alan GARCIA (APRA) 5.8%, other 7.5%; percent of vote in second round - Pedro Pablo KUCZYNSKI Godard 50.1%, Keiko FUJIMORI Higuchi 49.9%<br>
-<strong>note: </strong>President Martin Alberto VIZCARRA Cornejo assumed office after President Pedro Pablo KUCZYNSKI Godard resigned from office on 21 March 2018; after VIZCARRA was impeached on 9 November 2020, the constitutional line of succession led to the inauguration of the President of the Peruvian Congress, Manuel Arturo MERINO, as President of Peru on 10 November 2020; following his resignation only days later on 15 November 2020, Francisco Rafael SAGASTI Hochhausler - who had been elected by the legislature to be the new President of Congress on 16 November 2020 - was then sworn in as President of Peru on 17 November 2020 by line of succession and remained president until the inauguration of Jose Pedro CASTILLO Terrones, winner of the 2021 presidential election<strong><br><br>note:</strong> Prime Minister Hector VALER Pinto (since 1 February 2022) does not exercise executive power; this power rests with the president<br>
+<strong>note: </strong>President Martin Alberto VIZCARRA Cornejo assumed office after President Pedro Pablo KUCZYNSKI Godard resigned from office on 21 March 2018; after VIZCARRA was impeached on 9 November 2020, the constitutional line of succession led to the inauguration of the President of the Peruvian Congress, Manuel Arturo MERINO, as President of Peru on 10 November 2020; following his resignation only days later on 15 November 2020, Francisco Rafael SAGASTI Hochhausler - who had been elected by the legislature to be the new President of Congress on 16 November 2020 - was then sworn in as President of Peru on 17 November 2020 by line of succession and remained president until the inauguration of Jose Pedro CASTILLO Terrones, winner of the 2021 presidential election<strong><br><br>note:</strong> Prime Minister Aníbal TORRES Vasquez (since 8 February 2022) does not exercise executive power; this power rests with the president<br>
 
 **Legislative branch**<br>
 _description_: unicameral Congress of the Republic of Peru or Congreso de la Republica del Peru (130 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve single 5-year terms)<br>
@@ -644,7 +644,7 @@ _subscriptions per 100 inhabitants_: 123.8 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: economic impact on telcom services during pandemic due to consumer unemployment; good mobile operator competition with LTE services; fixed-line tele-density remains among lowest in South America, with obstacles to growth including widespread poverty, fixed-to-mobile substitution, expensive telephone services, and geographical inaccessibility in the Andean mountains and Amazon jungles; government investment in underserved areas with fiber backbone; government facilitated virtual learning during pandemic via tablets with Internet connectivity; 3G network and new LTE services expanded providing mobile broadband to rural communities, though low penetration still exists; major importer of broadcasting equipment and computers from China (2020)<br>
-_domestic_: fixed-line teledensity is only about 10 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, now 124 telephones per 100 persons; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations (2019)<br>
+_domestic_: fixed-line teledensity is nearly 10 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, now nearly 124 telephones per 100 persons; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations (2019)<br>
 _international_: country code - 51; landing points for the SAM-1, IGW, American Movil-Telxius, SAC&nbsp;and PAN-AM submarine cable systems that provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

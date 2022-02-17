@@ -163,6 +163,14 @@ _unimproved: total_: total: NA<br>
 **Current Health Expenditure**<br>
 NA<br>
 
+**Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
+
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
@@ -595,7 +603,7 @@ Kosovo Security Force (KSF): Land Force Command; Logistics Command; Doctrine and
 1.1% of GDP (2020)<br>
 0.8% of GDP (2019)<br>
 0.8% of GDP (2018)<br>
-0.8% of GDP (2017)<br>
+0.7% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Kosovo Security Force (KSF) has approximately 3,500 personnel; note - Kosovo plans for the KSF to eventually number around 5,000 troops (2021)<br>
@@ -616,5 +624,5 @@ the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support 
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2,004 as a result of violence) (2020)<br>
-<strong>note:</strong> 7,619 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
+<strong>note:</strong> 7,658 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
 

@@ -157,7 +157,11 @@ _female_: 79.85 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 96.7% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>

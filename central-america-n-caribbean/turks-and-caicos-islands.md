@@ -154,13 +154,17 @@ NA<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 94.3% of population<br>
-_unimproved: total_: total: 5.7% of population (2017 est.)<br>
+_unimproved: total_: total: 5.7% of population (2017)<br>
 
 **Current Health Expenditure**<br>
 NA<br>
 
 **Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 88% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 12% of population (2017)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
@@ -471,7 +475,7 @@ _subscriptions per 100 inhabitants_: 11.12 (2018 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fully digital system with international direct dialing; broadband access; expanded FttP (Fiber to the Home) markets; LTE expansion points to investment and focus on data; regulatory development; telecommunication contributes to greatly to GDP (2020)<br>
-_domestic_: full range of services available; GSM wireless service available; fixed-line teledensity 11 per 100 persons (2019)<br>
+_domestic_: full range of services available; GSM wireless service available; fixed-line teledensity roughly 11 per 100 persons (2019)<br>
 _international_: country code - 1-649;&nbsp;landing point for the&nbsp;ARCOS fiber-optic telecommunications submarine cable providing connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

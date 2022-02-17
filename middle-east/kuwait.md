@@ -166,8 +166,12 @@ _female_: 80.43 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.5% (2019)<br>
@@ -179,8 +183,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2018 est.)<br>
@@ -656,7 +664,7 @@ note(s) - the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercis
 5.6% of GDP (2019)<br>
 5.1% of GDP (2018)<br>
 5.6% of GDP (2017)<br>
-5.8% of GDP (2016)<br>
+5.9% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard; note – Army figures include the Kuwait Emiri Guard Authority (estimated 500 personnel) and the 25th Commando Brigade (strength not available) (2021)<br>

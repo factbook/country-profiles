@@ -163,12 +163,12 @@ _female_: 80.29 years (2021 est.)<br>
 63.8% (2014)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: 99.9% of population<br>
+_improved: rural_: rural: 99.8% of population<br>
+_improved: total_: total: 99.9% of population<br>
+_unimproved: urban_: urban: 0.1% of population<br>
+_unimproved: rural_: rural: 0.2% of population<br>
+_unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.2% (2019)<br>
@@ -181,11 +181,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 99.2% of population<br>
-_improved: total_: total: 99.5% of population<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
 _unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 0.8% of population<br>
-_unimproved: total_: total: 0.5% of population (2017 est.)<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.7% (2020)<br>
@@ -652,10 +652,10 @@ no regular military forces; the Mauritius Police Force (MPF) includes a paramili
 
 **Military expenditures**<br>
 0.2% of GDP (2020 est.)<br>
-0.2% of GDP (2019)<br>
-0.2% of GDP (2018)<br>
-0.2% of GDP (2017)<br>
-0.2% of GDP (2016)<br>
+0.3% of GDP (2019 est.)<br>
+0.3% of GDP (2018 est.)<br>
+0.3% of GDP (2017 est.)<br>
+0.3% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,700 Special Mobile Force; approximately 800 National Coast Guard (2021)<br>
@@ -672,7 +672,7 @@ service is voluntary (2021)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Mauritius and Seychelles claim the Chagos Islands; claims French-administered Tromelin Island</p><br>
+<p>Mauritius and Seychelles claim the Chagos Islands (UK-administered British Indian Ocean Territory); claims French-administered Tromelin Island</p><br>
 
 **Trafficking in persons**<br>
 _current situation_: Mauritius is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Mauritian girls are induced or sold into prostitution, often by peers, family members, or businessmen offering other forms of employment; Mauritian adults have been identified as labor trafficking victims in the UK, Belgium, and Canada, while Mauritian women from Rodrigues Island are also subject to domestic servitude in Mauritius; Malagasy women transit Mauritius en route to the Middle East for jobs as domestic servants and subsequently are subjected to forced labor; Cambodian men are victims of forced labor on foreign fishing vessels in Mauritius’ territorial waters; other migrant workers from East and South Asia and Madagascar are also subject to forced labor in Mauritius’ manufacturing and construction sectors<br>

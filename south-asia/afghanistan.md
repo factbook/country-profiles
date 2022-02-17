@@ -174,12 +174,12 @@ _female_: 54.85 years (2021 est.)<br>
 <strong>note:</strong>  percent of women aged 12-49<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 95.9% of population<br>
-_improved: rural_: rural: 61.4% of population<br>
-_improved: total_: total: 70.2%<br>
-_unimproved: urban_: urban: 3.2% of population<br>
-_unimproved: rural_: rural: 38.6% of population<br>
-_unimproved: total_: total: 38.6% of population (2017 est.)<br>
+_improved: urban_: urban: 100% of population<br>
+_improved: rural_: rural: 68.3% of population<br>
+_improved: total_: total: 76.5% of population 70.2%<br>
+_unimproved: urban_: urban: 0% of population<br>
+_unimproved: rural_: rural: 31.7% of population<br>
+_unimproved: total_: total: 23.5% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 13.2% (2019)<br>
@@ -191,12 +191,12 @@ _unimproved: total_: total: 38.6% of population (2017 est.)<br>
 0.4 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 83.6% of population<br>
-_improved: rural_: rural: 43% of population<br>
-_improved: total_: total: 53.2% of population<br>
-_unimproved: urban_: urban: 16.4% of population<br>
-_unimproved: rural_: rural: 57% of population<br>
-_unimproved: total_: total: 46.8% of population (2017 est.)<br>
+_improved: urban_: urban: 88.2% of population<br>
+_improved: rural_: rural: 52% of population<br>
+_improved: total_: total: 61.4% of population<br>
+_unimproved: urban_: urban: 11.8% of population<br>
+_unimproved: rural_: rural: 48% of population<br>
+_unimproved: total_: total: 38.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020 est.)<br>

@@ -45,7 +45,7 @@ tropical; hot, humid in south; semiarid in north<br>
 mostly flat to undulating plain; some hills and low mountains<br>
 
 **Elevation**<br>
-_highest point_: Mont Sokbaro 658 m<br>
+_highest point_: unnamed elevation located 2.5 km southeast of the town of Kotoponga 675 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 273 m<br>
 
@@ -170,12 +170,12 @@ _female_: 63.71 years (2021 est.)<br>
 15.5% (2017/18)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 81.2% of population<br>
-_improved: rural_: rural: 72.2% of population<br>
-_improved: total_: total: 76.4% of population<br>
-_unimproved: urban_: urban: 18.8% of population<br>
-_unimproved: rural_: rural: 27.8% of population<br>
-_unimproved: total_: total: 23.6% of population (2017 est.)<br>
+_improved: urban_: urban: 79% of population<br>
+_improved: rural_: rural: 70.8% of population<br>
+_improved: total_: total: 74.7% of population<br>
+_unimproved: urban_: urban: 21% of population<br>
+_unimproved: rural_: rural: 29.2% of population<br>
+_unimproved: total_: total: 25.3% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 2.4% (2019)<br>
@@ -187,12 +187,12 @@ _unimproved: total_: total: 23.6% of population (2017 est.)<br>
 0.5 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 58.7% of population<br>
-_improved: rural_: rural: 16% of population<br>
-_improved: total_: total: 36% of population<br>
-_unimproved: urban_: urban: 41.3% of population<br>
-_unimproved: rural_: rural: 84% of population<br>
-_unimproved: total_: total: 64% of population (2017 est.)<br>
+_improved: urban_: urban: 56.3% of population<br>
+_improved: rural_: rural: 18.1% of population<br>
+_improved: total_: total: 36.6% of population<br>
+_unimproved: urban_: urban: 43.7% of population<br>
+_unimproved: rural_: rural: 81.9% of population<br>
+_unimproved: total_: total: 63.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.9% (2020 est.)<br>
@@ -688,10 +688,10 @@ Benin Armed Forces (Forces Armees Beninoises, FAB): Army, Navy, Air Force; Minis
 
 **Military expenditures**<br>
 0.5% of GDP (2020 est.)<br>
-0.7% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
-1.3% of GDP (2017)<br>
-1.1% of GDP (2016)<br>
+0.7% of GDP (2019 est.)<br>
+0.9% of GDP (2018 est.)<br>
+0.9% of GDP (2017 est.)<br>
+0.7% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Benin Armed Forces (FAB) are comprised of approximately 7,000 active duty troops; est. 5,000 Republican Police (2021)<br>

@@ -163,12 +163,12 @@ _female_: 77.62 years (2021 est.)<br>
 52.2% (2014)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 89.3% of population<br>
-_improved: total_: total: 96.7% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 11.7% of population<br>
-_unimproved: total_: total: 3.3% of population (2017 est.)<br>
+_improved: urban_: urban: 99.4% of population<br>
+_improved: rural_: rural: 90.7% of population<br>
+_improved: total_: total: 97.5% of population<br>
+_unimproved: urban_: urban: 0.6% of population<br>
+_unimproved: rural_: rural: 9.3% of population<br>
+_unimproved: total_: total: 2.5% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.8% (2019)<br>
@@ -180,12 +180,12 @@ _unimproved: total_: total: 3.3% of population (2017 est.)<br>
 1.9 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98.7% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 1.3% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: 99% of population<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: 0.1% of population<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>
@@ -704,7 +704,7 @@ note - Malaysia created a National Special Operations Force in 2016 for combatin
 the Malaysian Armed Forces have approximately 115,000 active duty troops (80,000 Army; 18,000 Navy; 17,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Malaysian Armed Forces field a diverse mix of imported weapons systems; the top&nbsp; suppliers of military hardware since 2010 are France, Germany, Spain, and Turkey (2021)<br>
+the Malaysian Armed Forces field a diverse mix of mostly older imported weapons systems; the top suppliers of military hardware since 2010 include France, Germany, Spain, and Turkey (2021)<br>
 
 **Military deployments**<br>
 880 Lebanon (UNIFIL) (Oct 2021)<br>

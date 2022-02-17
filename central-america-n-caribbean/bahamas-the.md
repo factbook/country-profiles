@@ -43,7 +43,7 @@ tropical marine; moderated by warm waters of Gulf Stream<br>
 long, flat coral formations with some low rounded hills<br>
 
 **Elevation**<br>
-_highest point_: 1.3 km NE of Old Bight on Cat Island 64 m<br>
+_highest point_: 1.3 km NE of Old Bight on Cat Island 64 m<br>note - the Factbook map is incorrect; it indicates the wrong high elevation point<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 
 **Natural resources**<br>

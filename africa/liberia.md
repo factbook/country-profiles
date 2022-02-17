@@ -167,12 +167,12 @@ _female_: 67.4 years (2021 est.)<br>
 24.9% (2019/20)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 93.8% of population<br>
-_improved: rural_: rural: 67.9% of population<br>
-_improved: total_: total: 81% of population<br>
-_unimproved: urban_: urban: 6.2% of population<br>
-_unimproved: rural_: rural: 32.1% of population<br>
-_unimproved: total_: total: 19% of population (2017 est.)<br>
+_improved: urban_: urban: 96.2% of population<br>
+_improved: rural_: rural: 70.6% of population<br>
+_improved: total_: total: 84% of population<br>
+_unimproved: urban_: urban: 3.8% of population<br>
+_unimproved: rural_: rural: 29.4% of population<br>
+_unimproved: total_: total: 16% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 8.5% (2019)<br>
@@ -181,12 +181,12 @@ _unimproved: total_: total: 19% of population (2017 est.)<br>
 0.04 physicians/1,000 population (2015)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 64.1% of population<br>
-_improved: rural_: rural: 23.5% of population<br>
-_improved: total_: total: 44.1% of population<br>
-_unimproved: urban_: urban: 35.9% of population<br>
-_unimproved: rural_: rural: 76.5% of population<br>
-_unimproved: total_: total: 55.9% of population (2017 est.)<br>
+_improved: urban_: urban: 68% of population<br>
+_improved: rural_: rural: 25.2% of population<br>
+_improved: total_: total: 47.5% of population<br>
+_unimproved: urban_: urban: 32% of population<br>
+_unimproved: rural_: rural: 74.8% of population<br>
+_unimproved: total_: total: 52.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.1% (2020 est.)<br>
@@ -663,8 +663,8 @@ note(s) - the AFL Air Wing was previously disbanded in 2005 and has been under d
 
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>
-0.5% of GDP (2019 est.)<br>
-0.4% of GDP (2018 est.)<br>
+0.6% of GDP (2019 est.)<br>
+0.5% of GDP (2018 est.)<br>
 0.4% of GDP (2017 est.)<br>
 0.4% of GDP (2016 est.)<br>
 
@@ -690,7 +690,7 @@ note - as of 2020, women made up about .4% of the active military<br>
 <p>as the UN Mission in Liberia (UNMIL) continues to drawdown prior to the 1 March 2018 closure date, the peacekeeping force is being reduced to 434 soldiers and two police units; some Liberian refugees still remain in Guinea, Cote d'Ivoire, Sierra Leone, and Ghana; Liberia shelters 8,804 Ivoirian refugees, as of 2019</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,295 (Cote d'Ivoire) (2021)<br>
+_refugees (country of origin)_: 7,763 (Cote d'Ivoire) (2022)<br>
 
 **Illicit drugs**<br>
 <p>not a significant transit country for illicit narcotics but proximity to major drug routes contribute to trafficking; not a significant producer of illicit narcotics; local drug use involves marijuana, heroin, cocaine, the synthetic opioid tramadol, and amphetamine-type stimulants</p><br>

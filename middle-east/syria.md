@@ -170,12 +170,12 @@ _female_: 75.57 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 99% of population<br>
-_improved: rural_: rural: 99.3% of population<br>
-_improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: 1% of population<br>
+_improved: urban_: urban: 99.6% of population<br>
+_improved: rural_: rural: 100% of population<br>
+_improved: total_: total: 99.8% of population<br>
+_unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 0.7% of population<br>
-_unimproved: total_: total: 0.6% of population (2017 est.)<br>
+_unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 NA<br>
@@ -187,12 +187,12 @@ NA<br>
 1.4 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.6% of population<br>
-_improved: rural_: rural: 98.6% of population<br>
-_improved: total_: total: 99.1% of population<br>
-_unimproved: urban_: urban: 0.4% of population<br>
-_unimproved: rural_: rural: 1.4% of population<br>
-_unimproved: total_: total: 0.9% of population (2017 est.)<br>
+_improved: urban_: urban: 99.5% of population<br>
+_improved: rural_: rural: 99.5% of population<br>
+_improved: total_: total: 99.5% of population<br>
+_unimproved: urban_: urban: 0.5% of population<br>
+_unimproved: rural_: rural: 0.5% of population<br>
+_unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020)<br>
@@ -596,7 +596,7 @@ _subscriptions per 100 inhabitants_: 95.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Syria&rsquo;s telecom sector has paid a heavy toll from years of civil war and destruction leading to major disruptions to the network; operators focusing on rebuilding damaged networks, though lack of basic infrastructure, including power and security, hamper efforts; fairly high mobile penetration for region; remote areas rely on expensive satellite communications; mobile broadband infrastructure is predominantly 3G for about 85% of the population with some LTE ; international aid network provides emergency Internet and telecom services when necessary; &nbsp;government restrictions of Internet freedom; major importer of broadcasting equipment from UAE (2020)<br>
-_domestic_: the number of fixed-line connections increased markedly prior to the civil war in 2011 and now stands at 17 per 100; mobile-cellular service stands at about 114 per 100 persons (2019)<br>
+_domestic_: the number of fixed-line connections increased markedly prior to the civil war in 2011 and now stands at over 16 per 100; mobile-cellular service is just over 95 per 100 persons (2020)<br>
 _international_: country code - 963; landing points for the Aletar, BERYTAR and UGART submarine cable connections to Egypt, Lebanon, and Cyprus; satellite earth stations - 1 Intelsat (Indian Ocean) and 1 Intersputnik (Atlantic Ocean region); coaxial cable and microwave radio relay to Iraq, Jordan, Lebanon, and Turkey; participant in Medarabtel (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -673,7 +673,7 @@ _major seaport(s)_: Baniyas, Latakia, Tartus<br>
 Syrian Armed Forces: Syrian Arab Army (includes Republican Guard), Syrian Naval Forces, Syrian Air Forces, Syrian Air Defense Forces, National Defense Forces (pro-government militia and auxiliary forces) (2021)<br>
 
 **Military expenditures**<br>
-not available; at the outset of the civil war in 2011, Syria dedicated approximately $2.4 billion to defense and security<br>
+since the start of the civil war, Syria has allocated an estimated 6-7% of GDP to military expenditures annually<br>
 
 **Military and security service personnel strengths**<br>
 current estimates not available; since the start of the civil war in 2011, the Syrian Armed Forces (SAF) have taken significant losses in personnel due to casualties and desertions; prior to the civil war, the SAF had approximately 300,000 active duty troops, including 200-225,000 Army, plus about 300,000 reserve forces (2021)<br>

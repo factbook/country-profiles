@@ -172,7 +172,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 10.5% (2019)<br>
@@ -189,7 +189,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2018 est.)<br>
@@ -601,7 +601,7 @@ _subscriptions per 100 inhabitants_: 107.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector; synchronized with EC legislation; comprehensive LTE and focus on 5G;&nbsp; broadband penetration among highest in Europe; operators will migrate all DSL subscribers to fiber by 2023 and close 2G and 3G networks by 2025; regulator assigned spectrum for 5G; operator partners with Huawei for smart agriculture project; Oslo utilizes smart city technology; municipalities access EU-funded public Wi-Fi; importer of broadcasting equipment and computers from China (2020)<br>
-_domestic_: Norway has a domestic satellite system; the prevalence of rural areas encourages the wide use of mobile-cellular systems; fixed-line 11 per 100 and mobile-cellular 107 per 100 (2019)<br>
+_domestic_: Norway has a domestic satellite system; the prevalence of rural areas encourages the wide use of mobile-cellular systems; fixed-line over 6 per 100 and mobile-cellular nearly 108 per 100 (2020)<br>
 _international_: country code - 47;&nbsp;landing points for the&nbsp;Svalbard Undersea Cable System, Polar Circle Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tempnet Offshore FOC Network, England Cable, Denmark-Norwary6, Havfrue/AEC-2, Skagerrak 4, and the Skagenfiber West &amp; East&nbsp;submarine cables providing links to other Nordic countries, Europe and the US; satellite earth stations - Eutelsat,&nbsp;Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

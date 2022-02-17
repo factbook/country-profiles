@@ -166,12 +166,12 @@ _female_: 71.41 years (2021 est.)<br>
 26.1% (2016)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 72.3% of population<br>
-_improved: total_: total: 80.7% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 27.7% of population<br>
-_unimproved: total_: total: 19.3% of population (2017 est.)<br>
+_improved: urban_: urban: 98% of population<br>
+_improved: rural_: rural: 82.5% of population<br>
+_improved: total_: total: 87.4% of population<br>
+_unimproved: urban_: urban: 2% of population<br>
+_unimproved: rural_: rural: 17.5% of population<br>
+_unimproved: total_: total: 12.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.2% (2019)<br>
@@ -180,12 +180,12 @@ _unimproved: total_: total: 19.3% of population (2017 est.)<br>
 0.72 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 90.9% of population<br>
-_improved: rural_: rural: 50.3% of population<br>
-_improved: total_: total: 62.6% of population<br>
-_unimproved: urban_: urban: 9.1% of population<br>
-_unimproved: rural_: rural: 49.7% of population<br>
-_unimproved: total_: total: 57.4% of population (2017 est.)<br>
+_improved: urban_: urban: 88.7% of population<br>
+_improved: rural_: rural: 56.1% of population<br>
+_improved: total_: total: 66.3% of population<br>
+_unimproved: urban_: urban: 11.3% of population<br>
+_unimproved: rural_: rural: 43.9% of population<br>
+_unimproved: total_: total: 33.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020)<br>
@@ -593,7 +593,7 @@ _subscriptions per 100 inhabitants_: 104.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: following years of civil unrest, the government and operators are working toward rebuilding key infrastructure, including telecommunications networks; service in urban and some rural areas expanding with competition; most of the population has access to 4G LTE service; increase in mobile-broadband penetration; government aims to boost e-government services with new national terrestrial fiber-optic network; launch of satellite and approval for submarine cable link to Australia will boost sector growth; importer of broadcasting equipment from Indonesia and China (2020)<br>
-_domestic_: system suffered significant damage during the violence associated with independence; limited fixed-line services, less than 1 per 100 and mobile-cellular services have been expanding and are now available in urban and most rural areas with teledensity of 110 per 100 (2019)<br>
+_domestic_: system suffered significant damage during the violence associated with independence; limited fixed-line services, less than 1 per 100 and mobile-cellular services are now available in urban and most rural areas with teledensity of over 104 per 100 (2020)<br>
 _international_: country code - 670; &nbsp;international service is available; partnership with Australia telecom companies for potential deployment of a submarine fiber-optic link (NWCS);&nbsp;geostationary earth orbit satellite<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -654,11 +654,11 @@ _major seaport(s)_: Dili<br>
 Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components; National Police (Pol&iacute;cia Nacional de Timor-Leste, PNTL) (2021)<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2020 est.)<br>
-1% of GDP (2019)<br>
-0.7% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
-1% of GDP (2016)<br>
+1.8% of GDP (2020 est.)<br>
+1.7% of GDP (2019 est.)<br>
+1.3% of GDP (2018 est.)<br>
+1.6% of GDP (2017 est.)<br>
+1.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Timor-Leste Defense Force is comprised of approximately 2,000 personnel (2021)<br>

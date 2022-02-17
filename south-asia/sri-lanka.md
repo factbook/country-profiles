@@ -164,12 +164,12 @@ _female_: 81.33 years (2021 est.)<br>
 64.6% (2016)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.1% of population<br>
-_improved: rural_: rural: 91.4% of population<br>
-_improved: total_: total: 92.6% of population<br>
-_unimproved: urban_: urban: 1.9% of population<br>
-_unimproved: rural_: rural: 8.6% of population<br>
-_unimproved: total_: total: 7.4% of population (2017 est.)<br>
+_improved: urban_: urban: 99.7% of population<br>
+_improved: rural_: rural: 91.2% of population<br>
+_improved: total_: total: 92.8% of population<br>
+_unimproved: urban_: urban: 0.3% of population<br>
+_unimproved: rural_: rural: 8.8% of population<br>
+_unimproved: total_: total: 7.2% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.1% (2019)<br>
@@ -181,12 +181,12 @@ _unimproved: total_: total: 7.4% of population (2017 est.)<br>
 4.2 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97.1% of population<br>
-_improved: rural_: rural: 99.3% of population<br>
-_improved: total_: total: 98.9% of population<br>
-_unimproved: urban_: urban: 2.9% of population<br>
-_unimproved: rural_: rural: 0.7% of population<br>
-_unimproved: total_: total: 1.1% of population (2017 est.)<br>
+_improved: urban_: urban: 96.6% of population<br>
+_improved: rural_: rural: 97.9% of population<br>
+_improved: total_: total: 97.6% of population<br>
+_unimproved: urban_: urban: 3.4% of population<br>
+_unimproved: rural_: rural: 2.1% of population<br>
+_unimproved: total_: total: 2.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020 est.)<br>
@@ -611,7 +611,7 @@ _subscriptions per 100 inhabitants_: 138.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telephone services have improved significantly; strong growth&nbsp;anticipated as Sri Lanka is&nbsp;lagging behind&nbsp;other&nbsp;Asian telecoms; increase in mobile broadband penetration; govt. funds telecom sector to expand fiber and LTE networks and growing investment in 5G services (2020)<br>
-_domestic_: fixed-line 11 per 100 and mobile-cellular 139 per 100; national trunk network consists of digital microwave radio relay and fiber-optic links; fixed wireless local loops have been installed; competition is strong in mobile cellular systems and mobile cellular subscribership is increasing (2020)<br>
+_domestic_: fixed-line roughly 11 per 100 and mobile-cellular nearly 139 per 100; national trunk network consists of digital microwave radio relay and fiber-optic links; fixed wireless local loops have been installed; competition is strong in mobile cellular systems and mobile cellular subscribership is increasing (2020)<br>
 _international_: country code - 94; landing points for the SeaMeWe -3,-5,&nbsp;&nbsp;Dhiraagu-SLT Submarine Cable Network, WARF Submarine&nbsp;Cable, Bharat Lanka Cable System&nbsp;and the Bay of Bengal Gateway submarine cables providing connectivity to Asia, Africa, Southeast Asia, Australia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -688,9 +688,9 @@ Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy
 
 **Military expenditures**<br>
 2% of GDP (2020 est.)<br>
-1.9% of GDP (2019)<br>
+2% of GDP (2019)<br>
 1.9% of GDP (2018)<br>
-2.1% of GDP (2017)<br>
+2.2% of GDP (2017)<br>
 2.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>

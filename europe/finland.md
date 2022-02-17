@@ -174,7 +174,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 9.2% (2019)<br>
@@ -191,7 +191,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2018)<br>
@@ -679,13 +679,14 @@ note - the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2021 est.)<br>
-1.53% of GDP (2020)<br>
-1.5% of GDP (2019)<br>
+1.5% of GDP (2020)<br>
+1.4% of GDP (2019)<br>
 1.4% of GDP (2018)<br>
-1.4% of GDP (2017)<br>
+1.3% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 22,000 total active duty personnel (15,000 Army; 4,000 Navy; 3,000 Air Force) (2021)<br>
+note - the Army's wartime strength is about 180,000<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Finnish Defense Forces consists of a wide mix of mostly modern US, European, and domestically-produced weapons systems; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels (2021)<br>
@@ -695,7 +696,7 @@ the inventory of the Finnish Defense Forces consists of a wide mix of mostly mod
 
 **Military service age and obligation**<br>
 at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty), and women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2021)<br>
-note(s) - Finland trains approximately 21,000 conscripts each year; since 2017, between 1,000 and 1,700 women have volunteered for military service annually; as of 2019, women made up about 4% of the military's full-time personnel<br>
+note(s) - the military trains approximately 21,000 (20,000 Army) conscripts each year; since 2017, between 1,000 and 1,700 women have volunteered for military service annually; as of 2019, women made up about 4% of the military's full-time personnel<br>
 
 **Military - note**<br>
 <p>Finland is not a member of NATO, but the two actively cooperate in peace-support operations, exercise together, and exchange analysis and information; Finland joined NATO’s Partnership for Peace program in 1994; Finnish Armed Forces participated in NATO-led military operations and missions in the Balkans, Afghanistan, and Iraq</p> <p>Finland is a signatory of the EU’s Common Security and Defense Policy (CSDP) and actively participates in CSDP crisis management missions and operations</p> <p>the Finnish Armed Forces closely cooperate with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p><br>

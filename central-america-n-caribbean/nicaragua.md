@@ -170,12 +170,12 @@ _female_: 76.86 years (2021 est.)<br>
 80.4% (2011/12)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 97.6% of population<br>
+_improved: urban_: urban: 97.5% of population<br>
 _improved: rural_: rural: 62.6% of population<br>
-_improved: total_: total: 83.1% of population<br>
-_unimproved: urban_: urban: 2.4% of population<br>
+_improved: total_: total: 83.2% of population<br>
+_unimproved: urban_: urban: 2.5% of population<br>
 _unimproved: rural_: rural: 37.4% of population<br>
-_unimproved: total_: total: 16.9% of population (2017 est.)<br>
+_unimproved: total_: total: 16.8% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 8.4% (2019)<br>
@@ -187,12 +187,12 @@ _unimproved: total_: total: 16.9% of population (2017 est.)<br>
 0.9 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 89.8% of population<br>
+_improved: urban_: urban: 89.9% of population<br>
 _improved: rural_: rural: 66.5% of population<br>
-_improved: total_: total: 80.1% of population<br>
-_unimproved: urban_: urban: 10.2% of population<br>
+_improved: total_: total: 80.3% of population<br>
+_unimproved: urban_: urban: 10.1% of population<br>
 _unimproved: rural_: rural: 33.5% of population<br>
-_unimproved: total_: total: 19.9% of population (2017 est.)<br>
+_unimproved: total_: total: 19.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -613,7 +613,7 @@ _subscriptions per 100 inhabitants_: 90.22 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: with authoritarian government, weak public institutions, and impoverished citizenry, Nicaragua&rsquo;s telecom system is dependent on upgrades through foreign investment, primarily from Russia and China; World Bank funded national fiber broadband network and links to Caribbean submarine cables; Chinese-financed projects, including airport, oil pipeline, and roads in process; nearly all installed telecom capacity now uses financed digital technology; lowest fixed-line tele-density and mobile penetration in Central America; Internet cafes provide access to Internet and email services; rural areas lack access to most basic telecom infrastructure; LTE service in dozens of towns and cities; importer of broadcasting equipment and computers from China (2020)<br>
-_domestic_: since privatization, access to fixed-line and mobile-cellular services has improved; fixed-line teledensity roughly 4 per 100 persons; mobile-cellular telephone subscribership has increased to 88 per 100 persons (2019)<br>
+_domestic_: since privatization, access to fixed-line and mobile-cellular services has improved; fixed-line teledensity roughly 3 per 100 persons; mobile-cellular telephone subscribership has increased to roughly 90 per 100 persons (2020)<br>
 _international_: country code - 505; landing point for the ARCOS fiber-optic submarine cable which provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -682,7 +682,7 @@ note - both the military and the police report directly to the president<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2020 est.)<br>
-0.7% of GDP (2019)<br>
+0.6% of GDP (2019)<br>
 0.6% of GDP (2018)<br>
 0.6% of GDP (2017)<br>
 0.5% of GDP (2016)<br>

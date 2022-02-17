@@ -165,12 +165,12 @@ _female_: 67.67 years (2021 est.)<br>
 19% (2012)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 99.3% of population<br>
-_improved: rural_: rural: 59.1% of population<br>
-_improved: total_: total: 90.3% of population<br>
-_unimproved: urban_: urban: 0.7% of population<br>
-_unimproved: rural_: rural: 40.9% of population<br>
-_unimproved: total_: total: 9.7% of population (2017 est.)<br>
+_improved: urban_: urban: 99.7% of population<br>
+_improved: rural_: rural: 59.3% of population<br>
+_improved: total_: total: 90.8% of population<br>
+_unimproved: urban_: urban: 0.3% of population<br>
+_unimproved: rural_: rural: 40.7% of population<br>
+_unimproved: total_: total: 9.2% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 1.8% (2019)<br>
@@ -182,12 +182,12 @@ _unimproved: total_: total: 9.7% of population (2017 est.)<br>
 1.4 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 84% of population<br>
-_improved: rural_: rural: 21.5% of population<br>
-_improved: total_: total: 70.1% of population<br>
-_unimproved: urban_: urban: 16% of population<br>
-_unimproved: rural_: rural: 78.5% of population<br>
-_unimproved: total_: total: 29.9% of population (2017 est.)<br>
+_improved: urban_: urban: 87.7% of population<br>
+_improved: rural_: rural: 24.2% of population<br>
+_improved: total_: total: 73.8% of population<br>
+_unimproved: urban_: urban: 12.3% of population<br>
+_unimproved: rural_: rural: 75.8% of population<br>
+_unimproved: total_: total: 26.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.8% (2020 est.)<br>
@@ -658,11 +658,11 @@ Djibouti Armed Forces (FAD): Army, Navy, Air Force; Djibouti Coast Guard; Minist
 note - the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points, while the National Gendarmerie is responsible for all security outside of Djibouti City, as well as for protecting critical infrastructure within the city, such as the international airport<br>
 
 **Military expenditures**<br>
-4.9% of GDP (2017 est.)<br>
-3.9% of GDP (2016 est.)<br>
-3.7% of GDP (2015 est.)<br>
-4% of GDP (2014 est.)<br>
-4.3% of GDP (2013 est.)<br>
+3.5% of GDP (2019 est.)<br>
+3.5% of GDP (2018 est.)<br>
+3.3% of GDP (2017 est.)<br>
+2.7% of GDP (2016 est.)<br>
+2.5% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Djibouti Armed Forces (FAD) have approximately 10,500 active troops (8,000 Army; 250 Naval; 250 Air; 2,000 Gendarmerie) (2020)<br>

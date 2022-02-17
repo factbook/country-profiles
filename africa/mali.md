@@ -177,12 +177,12 @@ _female_: 64.28 years (2021 est.)<br>
 17.2% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 97.1% of population<br>
-_improved: rural_: rural: 72.8% of population<br>
-_improved: total_: total: 82.9% of population<br>
-_unimproved: urban_: urban: 2.9% of population<br>
-_unimproved: rural_: rural: 27.2% of population<br>
-_unimproved: total_: total: 17.1% of population (2017 est.)<br>
+_improved: urban_: urban: 99.9% of population<br>
+_improved: rural_: rural: 75.9% of population<br>
+_improved: total_: total: 86.4% of population<br>
+_unimproved: urban_: urban: 0.1% of population<br>
+_unimproved: rural_: rural: 24.1% of population<br>
+_unimproved: total_: total: 13.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.9% (2019)<br>
@@ -194,12 +194,12 @@ _unimproved: total_: total: 17.1% of population (2017 est.)<br>
 0.1 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 82.5% of population<br>
-_improved: rural_: rural: 34.1% of population<br>
-_improved: total_: total: 54.2% of population<br>
-_unimproved: urban_: urban: 17.5% of population<br>
-_unimproved: rural_: rural: 65.9% of population<br>
-_unimproved: total_: total: 45.8% of population (2017 est.)<br>
+_improved: urban_: urban: 85.7% of population<br>
+_improved: rural_: rural: 44.7% of population<br>
+_improved: total_: total: 62.7% of population<br>
+_unimproved: urban_: urban: 14.3% of population<br>
+_unimproved: rural_: rural: 55.3% of population<br>
+_unimproved: total_: total: 37.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.9% (2020 est.)<br>
@@ -702,10 +702,10 @@ note(s) - the Gendarmerie and the National Guard are under the authority of the 
 
 **Military expenditures**<br>
 3.4% of GDP (2020 est.)<br>
-2.7% of GDP (2019)<br>
-2.9% of GDP (2018)<br>
-3% of GDP (2017)<br>
-2.6% of GDP (2016)<br>
+3.1% of GDP (2019 est.)<br>
+3.1% of GDP (2018 est.)<br>
+3.2% of GDP (2017 est.)<br>
+2.8% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 16,000 FAMa (15,000 Army; 1,000 Air Force); estimated 10,000 Gendarmerie and National Guard (2021)<br>

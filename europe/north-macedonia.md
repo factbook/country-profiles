@@ -165,12 +165,12 @@ _female_: 78.84 years (2021 est.)<br>
 59.9% (2018/19)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 98.9% of population<br>
+_improved: urban_: urban: 99.7% of population<br>
+_improved: rural_: rural: 99% of population<br>
 _improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 1.1% of population<br>
-_unimproved: total_: total: 0.6% of population (2017 est.)<br>
+_unimproved: urban_: urban: 0.3% of population<br>
+_unimproved: rural_: rural: 1% of population<br>
+_unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.3% (2019)<br>
@@ -183,11 +183,11 @@ _unimproved: total_: total: 0.6% of population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 97.9% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 2.8% of population<br>
-_unimproved: rural_: rural: 17.4% of population<br>
-_unimproved: total_: total: 9.1% of population (2017 est.)<br>
+_improved: rural_: rural: 98% of population<br>
+_improved: total_: total: 99.2% of population<br>
+_unimproved: urban_: urban: 0% of population<br>
+_unimproved: rural_: rural: 2% of population<br>
+_unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2018 est.)<br>
@@ -595,15 +595,15 @@ _electrification - total population_: 100% (2020)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 400,454<br>
-_subscriptions per 100 inhabitants_: 18.87 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 19.22 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1,921,013<br>
-_subscriptions per 100 inhabitants_: 90.51 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 92.2 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: EU pre-accession process has led to stronger tele-density with a closer regulatory framework and independent regulators; administrative ties with the EU have led to progress; broadband services are widely available; more customers moving to fiber networks; operators investing in LTE; importer of broadcasting equipment from Vietnam and China; MOU for 5G with US (2020)<br>
-_domestic_: fixed-line 19 per 100 and mobile-cellular 99 per 100 subscriptions (2019)<br>
+_domestic_: fixed-line roughly 19 per 100 and mobile-cellular 92 per 100 subscriptions (2019)<br>
 _international_: country code - 389<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

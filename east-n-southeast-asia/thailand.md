@@ -181,7 +181,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.8% (2019)<br>
@@ -190,12 +190,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.81 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
+_improved: urban_: urban: 99.9% of population<br>
 _improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.9% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.1% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1% (2020 est.)<br>
@@ -630,7 +630,7 @@ _subscriptions per 100 inhabitants_: 166.6 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high-quality system, especially in urban areas; mobile and mobile broadband penetration are on the increase; FttH has strong growth in cities; 4G-LTE available with adoption of 5G services; seven smart cities with aim for 100 smart cities by 2024; one of the biggest e-commerce markets in Southeast Asia; fixed-broadband and mobile marketplace on par with other developed Asian markets; development of Asian data center underway; Internet connectivity supported by international bandwidth to Singapore, Malaysia, and Hong Kong, and terrestrial cables with neighboring countries; two more submarine cables under construction with anticipated landings in 2022; government restricts Internet and freedom of press, with additional constraints in response to pandemic-related criticism in 2020; importer of broadcasting equipment and integrated circuits from China and export of same to neighboring countries in Asia (2020)<br>
-_domestic_: fixed-line system provided by both a government-owned and commercial provider; wireless service expanding rapidly; fixed-line 4 per 100 and mobile-cellular 186 per 100 (2019)<br>
+_domestic_: fixed-line system provided by both a government-owned and commercial provider; wireless service expanding; fixed-line over 7 per 100 and mobile-cellular nearly 167 per 100 (2020)<br>
 _international_: country code - 66; landing points for the AAE-1, FEA, SeaMeWe-3,-4, APG, SJC2, TIS, MCT and AAG submarine cable systems providing links throughout Asia, Australia, Africa, Middle East, Europe, and US; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -710,11 +710,11 @@ Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Th
 note(s) - official paramilitary forces in Thailand include the Thai Rangers (<em>Thahan Phran</em> or "Hunter Soldiers") under the Army; the Paramilitary Marines under the Navy; the Border Patrol Police (BPP) under the Royal Thai Police; the Volunteer Defense Corps (VDC or <em>O So</em>) and National Defense Volunteers (NDV), both under the Ministry of Interior; there are also several government-backed volunteer militias created to provide village security against insurgents in the deep south or to assist the ISOC<br>
 
 **Military expenditures**<br>
-1.25% of GDP (2021 est.)<br>
-1.4% of GDP (2020 est.)<br>
+1.3% of GDP (2021 est.)<br>
+1.4% of GDP (2020)<br>
 1.3% of GDP (2019)<br>
-1.4% of GDP (2018)<br>
-1.6% of GDP (2017)<br>
+1.3% of GDP (2018)<br>
+1.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 estimates for the size of the Royal Thai Armed Forces (RTARF) vary widely; approximately 260,000 active duty personnel (150,000 Army; 65,000 Navy; 45,000 Air Force); est. 20,000 Thai Rangers; est. 5-6,000 Internal Security Operations Command (2021)<br>

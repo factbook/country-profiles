@@ -172,7 +172,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 10.2% (2019)<br>
@@ -184,12 +184,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.5 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: 99.8% of population<br>
+_improved: rural_: rural: 99.8% of population<br>
+_improved: total_: total: 99.8% of population<br>
+_unimproved: urban_: urban: 0.2% of population<br>
+_unimproved: rural_: rural: 0.2% of population<br>
+_unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -609,7 +609,7 @@ _subscriptions per 100 inhabitants_: 116.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: UK&rsquo;s telecom market remains one of the largest in Europe, characterized by competition, affordable pricing, and its technologically advanced systems; mobile penetration above the EU average; government to invest in infrastructure and 5G technologies with ambition for a fully-fibered nation by 2033; operators expanded the reach of 5G services in 2020; super-fast broadband available to about 95% of customers; London is developing smart city technology, in collaboration with private, tech, and academic sectors; in 2020 the UK Government banned Chinese company Huawei's 5G equipment from the UK's 5G networks following advisement from the National Cyber Security Centre (NCSC); importer of broadcasting equipment from China (2020)<br>
-_domestic_: equal mix of buried cables, microwave radio relay, and fiber-optic systems; fixed-line 48 per 100 and mobile-cellular 118 per 100 (2019)<br>
+_domestic_: equal mix of buried cables, microwave radio relay, and fiber-optic systems; fixed-line over 47 per 100 and mobile-cellular over 116 per 100 (2020)<br>
 _international_: country code - 44;&nbsp;Landing points for the GTT Atlantic, Scotland-Northern Ireland -1, &amp; -2, Lanis 1,-2, &amp;-3, Sirius North, BT-MT-1, SHEFA-2, BT Highlands and Islands Submarine Cable System, Northern Lights, FARICE-1, Celtic Norse, Tampnet Offshore FOC Network, England Cable, CC-2, E-LLan, Sirius South, ESAT -1 &amp; -2, Rockabill, Geo-Eirgrid, UK-Netherlands-14, Circle North &amp; South, Ulysses2, Conceto, Farland North, Pan European Crossing,&nbsp;Solas, Swansea-Bream, GTT Express, Tata TGN-Atlantic &amp; -Western Europe, Apollo, EIG, Glo-1, TAT-14, Yellow, Celtic,&nbsp;FLAG Atlantic-1, FEA, Isle of Scilly Cable, UK-Channel Islands-8 and SeaMeWe-3&nbsp;submarine cables providing links throughout Europe, Asia, Africa, the Middle East, Southeast Asia, Australia,&nbsp;and US; satellite earth stations - 10 Intelsat (7 Atlantic Ocean and 3 Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat; at least 8 large international switching centers (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

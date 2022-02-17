@@ -176,7 +176,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.7% (2019)<br>
@@ -188,12 +188,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 6.9 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 95.3% of population<br>
-_improved: rural_: rural: 71.5% of population<br>
-_improved: total_: total: 84.3% of population<br>
-_unimproved: urban_: urban: 4.7% of population<br>
-_unimproved: rural_: rural: 28.5% of population<br>
-_unimproved: total_: total: 15.7% of population (2017 est.)<br>
+_improved: urban_: urban: 96.9% of population<br>
+_improved: rural_: rural: 76% of population<br>
+_improved: total_: total: 87.3% of population<br>
+_unimproved: urban_: urban: 3.1% of population<br>
+_unimproved: rural_: rural: 24% of population<br>
+_unimproved: total_: total: 12.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020 est.)<br>
@@ -616,7 +616,7 @@ _subscriptions per 100 inhabitants_: 117.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Romania&rsquo;s telecom sector benefits from infrastructure-based competition; domestic and international service improving rapidly, especially mobile-cellular services; fiber sector is one of strongest in Europe; government secured EU funding to extend broadband to rural areas; operators invest in networks&rsquo; capacity upgrades; operator testing IoT; importer of broadcasting equipment from EU neighbors (2020)<br>
-_domestic_: fixed-line teledensity is about 17 telephones per 100 persons; mobile market served by four mobile network operators; mobile-cellular teledensity over 117 telephones per 100 persons (2019)<br>
+_domestic_: fixed-line teledensity is about 16 telephones per 100 persons; mobile market served by four mobile network operators; mobile-cellular teledensity over 117 telephones per 100 persons (2020)<br>
 _international_: country code - 40; landing point for the Diamond Link Global submarine cable linking Romania with Georgia; satellite earth stations - 10; digital, international, direct-dial exchanges operate in Bucharest (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -728,7 +728,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 9,421 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
+<strong>note:</strong> 9,439 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

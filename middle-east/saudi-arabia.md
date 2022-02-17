@@ -168,8 +168,12 @@ _female_: 78.07 years (2021 est.)<br>
 24.6% (2016)<br>
 
 **Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.7% (2019)<br>
@@ -181,8 +185,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.2 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020 est.)<br>
@@ -600,7 +608,7 @@ _subscriptions per 100 inhabitants_: 124.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the most progressive telecom markets in the Middle East; mobile penetration high, with a saturated market; mobile operators competitive and meeting the demand for workers, students and citizens working from home; Huawei partners with operator to provide 5G to dozens of cities; broadband is available with DSL, fiber, and wireless; mobile penetration is high; restrictive monarchy places limits on information and services available online; authorities operate extensive censorship and surveillance systems; major importer of broadcasting equipment from UAE and China (2020)<br>
-_domestic_: fixed-line 16 per 100 and mobile-cellular subscribership has been increasing rapidly to 121 per 100 persons (2019)<br>
+_domestic_: fixed-line over 16 per 100 and mobile-cellular subscribership has been increasing rapidly to roughly 124 per 100 persons (2020)<br>
 _international_: country code - 966; landing points for the SeaMeWe-3, -4, -5, AAE-1, EIG, FALCON, FEA, IMEWE, MENA/Gulf Bridge International, SEACOM, SAS-1, -2, GBICS/MENA, and the Tata TGN-Gulf submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; microwave radio relay to Bahrain, Jordan, Kuwait, Qatar, UAE, Yemen, and Sudan; coaxial cable to Kuwait and Jordan; satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 Indian Ocean), 1 Arabsat, and 1 Inmarsat (Indian Ocean region) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -682,16 +690,16 @@ note - SANG (also known as the White Army) is a land force separate from the Min
 **Military expenditures**<br>
 5.7% of GDP (2021 est.)<br>
 7.8% of GDP (2020 est.)<br>
-8% of GDP (2019 est.)<br>
-9.5% of GDP (2018 est.)<br>
-11% of GDP (2017 est.)<br>
+8.8% of GDP (2019 est.)<br>
+10% of GDP (2018 est.)<br>
+11.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Saudi military forces have about 225,000 active troops; approximately 125,000 under the Ministry of Defense (75,000 Land Forces; 14,000 Naval Forces; 36,000 Air Force/Air Defense/Strategic Missile Forces) and approximately 100,000 in the Saudi Arabia National Guard (SANG) (2021)<br>
 note - SANG also has an irregular force (Fowj), primarily Bedouin tribal volunteers, with a total strength of approximately 25,000 men<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons systems from the US and Europe; since 2010, the US is the leading supplier of armaments, followed by France and the UK; Saudi Arabia is the world's largest arms importer (2021)<br>
+the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons systems from the US and Europe; since 2010, the US is the leading supplier of armaments; as of 2020-21, Saudi Arabia was the world's largest arms importer (2021)<br>
 
 **Military deployments**<br>
 est. 2,500-5,000 Yemen (varies depending on operations, which continued into 2021) (2021)<br>

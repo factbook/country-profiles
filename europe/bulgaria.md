@@ -170,12 +170,12 @@ _female_: 78.73 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 2% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: 99.5% of population<br>
+_improved: rural_: rural: 97.4% of population<br>
+_improved: total_: total: 99% of population<br>
+_unimproved: urban_: urban: 0.5% of population<br>
+_unimproved: rural_: rural: 2.6% of population<br>
+_unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.1% (2019)<br>
@@ -192,7 +192,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2019 est.)<br>
@@ -691,8 +691,8 @@ _major seaport(s)_: Burgas, Varna (Black Sea)<br>
 Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (Voennovazdushni Sili, VVS), Joint Special Forces; Ministry of Interior: Border Guards (2021)<br>
 
 **Military expenditures**<br>
-1.56% of GDP (2021)<br>
-1.55% of GDP (2020 est.)<br>
+1.56% of GDP (2021 est.)<br>
+1.55% of GDP (2020)<br>
 3.15% of GDP (2019)<br>
 1.45% of GDP (2018)<br>
 1.23% of GDP (2017)<br>
@@ -724,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,014 (Syria) (mid-year 2021)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
-<strong>note:</strong> 69,854 estimated refugee and migrant arrivals (January 2015-January 2022); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 71,020 estimated refugee and migrant arrivals (January 2015-January 2022); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 source country for amphetamine tablets<br>

@@ -156,11 +156,11 @@ NA<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98.8% of population<br>
-_improved: total_: total: 99% of population<br>
+_improved: rural_: rural: 100% of population<br>
+_improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 1.2% of population<br>
-_unimproved: total_: total: 1% of population (2017 est.)<br>
+_unimproved: rural_: rural: 0% of population<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 24% (2019)<br>
@@ -518,7 +518,7 @@ _subscriptions per 100 inhabitants_: 70.36 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: internal communications needs met; small global scale of over 11,000 people on 9 inhabited islands; mobile subscriber penetration about 40% and broadband&nbsp;about 10% penetration; govt. owned and sole provider of telecommunications services;&nbsp;2G widespread; the launch in 2019 of the Kacific-1 satellite will improve the telecommunication sector&nbsp;for the Asia Pacific region (2020)<br>
-_domestic_: radiotelephone communications between islands; fixed-line 18 per 100 and mobile-cellular 70 per 100 (2019)<br>
+_domestic_: radiotelephone communications between islands; fixed-line teledensity over 17 per 100 and mobile-cellular over 70 per 100 (2019)<br>
 _international_: country code - 688; international calls can be made by satellite<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

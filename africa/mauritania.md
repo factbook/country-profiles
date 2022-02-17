@@ -175,10 +175,10 @@ _female_: 67.37 years (2021 est.)<br>
 **Drinking water source**<br>
 _improved: urban_: urban: 98.7% of population<br>
 _improved: rural_: rural: 68.4% of population<br>
-_improved: total_: total: 84.4% of population<br>
+_improved: total_: total: 85.2% of population<br>
 _unimproved: urban_: urban: 1.3% of population<br>
 _unimproved: rural_: rural: 31.6% of population<br>
-_unimproved: total_: total: 15.6% of population (2017 est.)<br>
+_unimproved: total_: total: 14.8% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.3% (2019)<br>
@@ -189,10 +189,10 @@ _unimproved: total_: total: 15.6% of population (2017 est.)<br>
 **Sanitation facility access**<br>
 _improved: urban_: urban: 83.5% of population<br>
 _improved: rural_: rural: 25.2% of population<br>
-_improved: total_: total: 56% of population<br>
+_improved: total_: total: 57.5% of population<br>
 _unimproved: urban_: urban: 16.5% of population<br>
 _unimproved: rural_: rural: 74.8% of population<br>
-_unimproved: total_: total: 44% of population (2017 est.)<br>
+_unimproved: total_: total: 42.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
@@ -697,10 +697,10 @@ note(s) - the Gendarmerie is responsible for maintaining civil order around metr
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
-2.8% of GDP (2019 est.)<br>
-3% of GDP (2018)<br>
-2.9% of GDP (2017)<br>
-2.9% of GDP (2016)<br>
+2.1% of GDP (2019 est.)<br>
+2.3% of GDP (2018 est.)<br>
+2.3% of GDP (2017 est.)<br>
+2.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Mauritanian Armed Forces have approximately 16,000 active personnel (15,000 Army; 700 Navy; 300 Air Force); est. 3,000 Gendarmerie; est. 2,000 National Guard (2021)<br>

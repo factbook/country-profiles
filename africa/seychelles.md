@@ -158,7 +158,11 @@ _female_: 80.43 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 96.2% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 
 **Current Health Expenditure**<br>
@@ -171,8 +175,12 @@ _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 3.6 beds/1,000 population (2011)<br>
 
 **Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -573,7 +581,7 @@ _subscriptions per 100 inhabitants_: 186.6 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: effective system; direct international calls to over 100 countries; radiotelephone communications between islands in the archipelago; 3 ISPs; use of Internet cafes' for access to Internet; 4G services and 5G pending (2020)<br>
-_domestic_: fixed-line 21 per 100 and mobile-cellular teledensity is 198 telephones per 100 persons (2019)<br>
+_domestic_: fixed-line a little over 19 per 100 and mobile-cellular teledensity is nearly 187 telephones per 100 persons (2020)<br>
 _international_: country code - 248; landing points for the PEACE and the SEAS submarine cables&nbsp;providing connectivity to Europe, the Middle East, Africa and Asia; direct radiotelephone communications with adjacent island countries and African coastal countries; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

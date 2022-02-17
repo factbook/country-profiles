@@ -177,7 +177,7 @@ _improved: rural_: rural: 93.8% of population<br>
 _improved: total_: total: 97.4% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 6.2% of population<br>
-_unimproved: total_: total: 2.6% of population (2017 est.)<br>
+_unimproved: total_: total: 2.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 2.8% (2019)<br>
@@ -190,11 +190,11 @@ _unimproved: total_: total: 2.6% of population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
-_improved: rural_: rural: 100% of population<br>
+_improved: rural_: rural: 99.9% of population<br>
 _improved: total_: total: 99.9% of population<br>
 _unimproved: urban_: urban: 0.1% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.1% of population (2017 est.)<br>
+_unimproved: rural_: rural: 0.1% of population<br>
+_unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
@@ -339,7 +339,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Kasym-Zhomart TOKAYEV (since 20 March 2019); note - Nursultan NAZARBAYEV, who was president since 24 April 1990 (and in power since 22 June 1989 under the Soviet period), resigned on 20 March 2019; NAZARBAYEV retained the title and powers of "First President"; TOKAYEV completed NAZARBAYEV's term, which was shortened due to the early election of 9 June 2019, and then continued as president following his election victory<br>
-_head of government_: Acting Prime Minister Alikhan SMAILOV (since 5 January 2022); note - Prime Minister Askar MAMIN resigned on 5 January 2022 in the wake of massive protests of his government that began 2 January 2022 following a sudden, steep rise in gasoline prices<br>
+_head of government_: Prime Minister Alikhan SMAILOV (since 11 January 2022); note - Prime Minister Askar MAMIN resigned on 5 January 2022 in the wake of massive protests of his government that began 2 January 2022 following a sudden, steep rise in gasoline prices<br>
 _cabinet_: the president appoints ministers after consultations with the Chair of the Security Council (NAZARBAYEV) who has veto power over all appointments except for the ministers of defense, internal affairs, and foreign affairs; however, the president is required to discuss these three offices with the National Security Committee, which NAZARBAYEV chairs under a lifetime appointment<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second consecutive term); election last held on 9 June 2019 (next to be held in 2024); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis<br>
 _election results_: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kassym-Jomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
@@ -700,10 +700,10 @@ Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and A
 
 **Military expenditures**<br>
 1.1% of GDP (2020 est.)<br>
-1.1% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
-0.9% of GDP (2016)<br>
+1.1% of GDP (2019 est.)<br>
+0.9% of GDP (2018 est.)<br>
+0.8% of GDP (2017 est.)<br>
+0.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 40,000 active duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces) (2021)<br>

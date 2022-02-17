@@ -178,11 +178,11 @@ _female_: 80.23 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 86.4% of population<br>
-_improved: total_: total: 97.3% of population<br>
+_improved: rural_: rural: 87.5% of population<br>
+_improved: total_: total: 97.7% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 13.6% of population<br>
-_unimproved: total_: total: 2.7% of population (2017 est.)<br>
+_unimproved: rural_: rural: 12.5% of population<br>
+_unimproved: total_: total: 2.3% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.7% (2019)<br>
@@ -194,12 +194,12 @@ _unimproved: total_: total: 2.7% of population (2017 est.)<br>
 1.7 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.3% of population<br>
-_improved: rural_: rural: 80.1% of population<br>
-_improved: total_: total: 94.7% of population<br>
-_unimproved: urban_: urban: 1.7% of population<br>
-_unimproved: rural_: rural: 19.9% of population<br>
-_unimproved: total_: total: 5.3% of population (2017 est.)<br>
+_improved: urban_: urban: 99.1% of population<br>
+_improved: rural_: rural: 87.7% of population<br>
+_improved: total_: total: 97% of population<br>
+_unimproved: urban_: urban: 0.9% of population<br>
+_unimproved: rural_: rural: 12.3% of population<br>
+_unimproved: total_: total: 3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>
@@ -720,10 +720,10 @@ Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: 
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>
-3.2% of GDP (2019)<br>
+3.1% of GDP (2019)<br>
 3.1% of GDP (2018)<br>
 3.2% of GDP (2017)<br>
-3.1% of GDP (2016)<br>
+3.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 295,000 total active troops (235,000 Army; 45,000 Navy, including about 22,000 marines; 14,000 Air Force); approximately 185,000 Colombian National Police (2021)<br>

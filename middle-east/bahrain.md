@@ -162,8 +162,12 @@ _female_: 82.02 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4% (2019)<br>
@@ -175,8 +179,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 1.7 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2017 est.)<br>
@@ -651,10 +659,10 @@ note - the Royal Guard is officially under the command of the Army, but exercise
 
 **Military expenditures**<br>
 4.2% of GDP (2020 est.)<br>
-3.7% of GDP (2019)<br>
-4.1% of GDP (2018)<br>
-4.3% of GDP (2017)<br>
-4.7% of GDP (2016)<br>
+4% of GDP (2019 est.)<br>
+4% of GDP (2018 est.)<br>
+4.2% of GDP (2017 est.)<br>
+4.7% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 3,000 National Guard (2021)<br>

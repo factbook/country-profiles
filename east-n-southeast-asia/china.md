@@ -47,7 +47,7 @@ mostly mountains, high plateaus, deserts in west; plains, deltas, and hills in e
 
 **Elevation**<br>
 _highest point_: Mount Everest (highest peak in Asia and highest point on earth above sea level) 8,849 m<br>
-_lowest point_: Turpan Pendi -154 m<br>
+_lowest point_: Turpan Pendi (Turfan Depression) -154 m<br>
 _mean elevation_: 1,840 m<br>
 
 **Natural resources**<br>
@@ -178,12 +178,12 @@ _female_: 78.62 years (2021 est.)<br>
 84.5% (2017)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 97.7% of population<br>
-_improved: rural_: rural: 87.8% of population<br>
-_improved: total_: total: 92.8% of population<br>
-_unimproved: urban_: urban: 2.3% of population<br>
-_unimproved: rural_: rural: 12.2% of population<br>
-_unimproved: total_: total: 7.2% of population (2017 est.)<br>
+_improved: urban_: urban: 97.3% of population<br>
+_improved: rural_: rural: 91.5% of population<br>
+_improved: total_: total: 95.1% of population<br>
+_unimproved: urban_: urban: 2.7% of population<br>
+_unimproved: rural_: rural: 8.5% of population<br>
+_unimproved: total_: total: 4.9% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.4% (2019)<br>
@@ -195,12 +195,12 @@ _unimproved: total_: total: 7.2% of population (2017 est.)<br>
 4.3 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97.1% of population<br>
-_improved: rural_: rural: 82% of population<br>
-_improved: total_: total: 90.7% of population<br>
+_improved: urban_: urban: 97.6% of population<br>
+_improved: rural_: rural: 90.6% of population<br>
+_improved: total_: total: 94.9% of population<br>
 _unimproved: urban_: urban: 2.4% of population<br>
-_unimproved: rural_: rural: 18% of population<br>
-_unimproved: total_: total: 9.3% of population (2017 est.)<br>
+_unimproved: rural_: rural: 9.4% of population<br>
+_unimproved: total_: total: 5.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -731,9 +731,9 @@ note(s) - the Strategic Support Force includes the Space Systems Department, whi
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
 1.7% of GDP (2019)<br>
-1.9% of GDP (2018)<br>
-1.9% of GDP (2017)<br>
-1.9% of GDP (2016)<br>
+1.7% of GDP (2018)<br>
+1.8% of GDP (2017)<br>
+1.8% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 2 million total active duty troops (approximately 1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); estimated 600-650,000 People&rsquo;s Armed Police (2021)<br>

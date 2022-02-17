@@ -179,12 +179,12 @@ _female_: 71.74 years (2021 est.)<br>
 38.4% (2015/16)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 92.3% of population<br>
-_improved: rural_: rural: 56.2% of population<br>
-_improved: total_: total: 68.2% of population<br>
-_unimproved: urban_: urban: 7.7% of population<br>
-_unimproved: rural_: rural: 43.8% of population<br>
-_unimproved: total_: total: 31.8% of population (2017 est.)<br>
+_improved: urban_: urban: 95.1% of population<br>
+_improved: rural_: rural: 59.4% of population<br>
+_improved: total_: total: 72% of population<br>
+_unimproved: urban_: urban: 4.9% of population<br>
+_unimproved: rural_: rural: 40.6% of population<br>
+_unimproved: total_: total: 28% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.8% (2019)<br>
@@ -196,12 +196,12 @@ _unimproved: total_: total: 31.8% of population (2017 est.)<br>
 0.7 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 82.1% of population<br>
-_improved: rural_: rural: 29.5% of population<br>
-_improved: total_: total: 46.9% of population<br>
-_unimproved: urban_: urban: 17.9% of population<br>
-_unimproved: rural_: rural: 70.5% of population<br>
-_unimproved: total_: total: 53.1% of population (2017 est.)<br>
+_improved: urban_: urban: 89.4% of population<br>
+_improved: rural_: rural: 29.2% of population<br>
+_improved: total_: total: 50.4% of population<br>
+_unimproved: urban_: urban: 10.6% of population<br>
+_unimproved: rural_: rural: 70.8% of population<br>
+_unimproved: total_: total: 49.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 4.7% (2020 est.)<br>
@@ -714,10 +714,10 @@ note - the National Building Army is a paramilitary organization under the Defen
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.3% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
-1.1% of GDP (2017)<br>
-1.1% of GDP (2016)<br>
+1.1% of GDP (2019 est.)<br>
+1.3% of GDP (2018 est.)<br>
+1.1% of GDP (2017 est.)<br>
+1.1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 26,000 active personnel (22,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2021)<br>
@@ -749,7 +749,7 @@ Islamic State of Iraq and ash-Sham - Mozambique<br>
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 125,808 (Burundi), 79,817 (Democratic Republic of the Congo) (2021)<br>
+_refugees (country of origin)_: 79,817 (Democratic Republic of the Congo) (2021); 126,362 (Burundi) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>

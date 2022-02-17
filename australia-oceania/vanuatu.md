@@ -165,7 +165,7 @@ _improved: rural_: rural: 89.7% of population<br>
 _improved: total_: total: 92.3% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 10.3% of population<br>
-_unimproved: total_: total: 7.7% of population (2017 est.)<br>
+_unimproved: total_: total: 7.7% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.4% (2019)<br>
@@ -174,12 +174,12 @@ _unimproved: total_: total: 7.7% of population (2017 est.)<br>
 0.17 physicians/1,000 population (2016)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 91.6% of population<br>
-_improved: rural_: rural: 60.9% of population<br>
-_improved: total_: total: 68.6% of population<br>
-_unimproved: urban_: urban: 8.4% of population<br>
-_unimproved: rural_: rural: 39.1% of population<br>
-_unimproved: total_: total: 31.4% of population (2017 est.)<br>
+_improved: urban_: urban: 91.1% of population<br>
+_improved: rural_: rural: 60.4% of population<br>
+_improved: total_: total: 68.2% of population<br>
+_unimproved: urban_: urban: 8.9% of population<br>
+_unimproved: rural_: rural: 39.6% of population<br>
+_unimproved: total_: total: 31.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -575,7 +575,7 @@ _subscriptions per 100 inhabitants_: 80.17 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: liberalized telecom services; mobile phones are primary means of communication; LTE services and rural satellite broadband services; mobile phone use in some rural areas is constrained by electricity shortages; investment in fixed-broadband infrastructure and installation of fiber-optic cables supported sector growth; mobile broadband infrastructure expanded in 2020, resulting in reduced consumer prices; Kacific-1 broadband satellite has improved broadband capacity and access since 2019; importer of broadcasting equipment from China (2020)<br>
-_domestic_: fixed-line 1 per 100 and mobile-cellular 88 per 100 (2019)<br>
+_domestic_: fixed-line teledensity a bit over 1 per 100 and mobile-cellular just over 80 per 100 (2020)<br>
 _international_: country code - 678; landing points for the ICN1 &amp; ICN2 submarine cables providing connectivity to the Solomon Islands and Fiji; cables helped end-users with Internet bandwidth; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

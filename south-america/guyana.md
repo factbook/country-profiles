@@ -172,10 +172,10 @@ _female_: 73.53 years (2021 est.)<br>
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 95.6% of population<br>
-_improved: total_: total: 96.7% of population<br>
+_improved: total_: total: 96.8% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 38.7% of population<br>
-_unimproved: total_: total: 26.5% of population (2017 est.)<br>
+_unimproved: rural_: rural: 4.4% of population<br>
+_unimproved: total_: total: 3.2% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.9% (2019)<br>
@@ -192,7 +192,7 @@ _improved: rural_: rural: 95.4% of population<br>
 _improved: total_: total: 96% of population<br>
 _unimproved: urban_: urban: 2.2% of population<br>
 _unimproved: rural_: rural: 4.6% of population<br>
-_unimproved: total_: total: 4% of population (2017 est.)<br>
+_unimproved: total_: total: 4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.3% (2020 est.)<br>
@@ -665,10 +665,10 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>
-1.7% of GDP (2019)<br>
-1.6% of GDP (2018)<br>
-1.6% of GDP (2017)<br>
-1.5% of GDP (2016)<br>
+1.3% of GDP (2019 est.)<br>
+1.3% of GDP (2018 est.)<br>
+1.2% of GDP (2017 est.)<br>
+1.1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Guyana Defense Force has approximately 4,000 active personnel (2021)<br>

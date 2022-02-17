@@ -169,11 +169,11 @@ _female_: 79.74 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98.3% of population<br>
-_improved: total_: total: 99.8% of population<br>
+_improved: rural_: rural: 99.6% of population<br>
+_improved: total_: total: 99.9% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 1.7% of population<br>
-_unimproved: total_: total: 0.2% of population (2017 est.)<br>
+_unimproved: rural_: rural: 0.4% of population<br>
+_unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.9% (2019)<br>
@@ -185,12 +185,12 @@ _unimproved: total_: total: 0.2% of population (2017 est.)<br>
 10.8 beds/1,000 population (2014)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.8% of population<br>
-_improved: rural_: rural: 97.9% of population<br>
-_improved: total_: total: 99.4% of population<br>
-_unimproved: urban_: urban: 0.2% of population<br>
-_unimproved: rural_: rural: 2.1% of population<br>
-_unimproved: total_: total: 0.6% of population (2017 est.)<br>
+_improved: urban_: urban: 99.9% of population<br>
+_improved: rural_: rural: 98.3% of population<br>
+_improved: total_: total: 99.5% of population<br>
+_unimproved: urban_: urban: 0.1% of population<br>
+_unimproved: rural_: rural: 1.7% of population<br>
+_unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.5% (2020 est.)<br>
@@ -689,11 +689,11 @@ _river port(s)_: Mazyr (Prypyats')<br>
 Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force, Special Troops (electronic warfare, signals, engineers, biological/chemical/nuclear protection troops, etc); Ministry of Interior: State Border Troops, Militia, Internal Troops (2021)<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2020 est.)<br>
-1.2% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
-1.3% of GDP (2016)<br>
+1.5% of GDP (2020 est.)<br>
+1.5% of GDP (2019 est.)<br>
+1.5% of GDP (2018 est.)<br>
+1.5% of GDP (2017 est.)<br>
+1.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 45,000 active duty troops; information on the individual services varies, but probably includes about 25,000 Army, 15,000 Air/Air Defense, and 5,000 Special Operations forces (2021)<br>

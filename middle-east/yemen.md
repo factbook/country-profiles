@@ -166,12 +166,12 @@ _female_: 69.59 years (2021 est.)<br>
 33.5% (2013)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 87.6% of population<br>
-_improved: total_: total: 92% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 12.4% of population<br>
-_unimproved: total_: total: 8% of population (2017 est.)<br>
+_improved: urban_: urban: 98.5% of population<br>
+_improved: rural_: rural: 84.2% of population<br>
+_improved: total_: total: 99.6% of population<br>
+_unimproved: urban_: urban: 1.5% of population<br>
+_unimproved: rural_: rural: 15.8% of population<br>
+_unimproved: total_: total: 10.4% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.3% (2015)<br>
@@ -183,12 +183,12 @@ _unimproved: total_: total: 8% of population (2017 est.)<br>
 0.7 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 93.1% of population<br>
-_improved: rural_: rural: 48.5% of population<br>
-_improved: total_: total: 64.6% of population<br>
-_unimproved: urban_: urban: 6.9% of population<br>
-_unimproved: rural_: rural: 51.5% of population<br>
-_unimproved: total_: total: 35.4% of population (2017 est.)<br>
+_improved: urban_: urban: 83.5% of population<br>
+_improved: rural_: rural: 44.2% of population<br>
+_improved: total_: total: 59.1% of population<br>
+_unimproved: urban_: urban: 16.5% of population<br>
+_unimproved: rural_: rural: 55.8% of population<br>
+_unimproved: total_: total: 40.9% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020 est.)<br>
@@ -609,7 +609,7 @@ _subscriptions per 100 inhabitants_: 55.18 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: large percent of the population is in need of humanitarian assistance and telecom services are vital but disrupted; mobile towers are often deliberately targeted; maintenance is dangerous to staff; aid organizations rely on satellite and radio communications; scarcity of telecom equipment in rural areas; ownership of telecom services and the related revenues and taxes have become a political issue; Chinese company Huawei helping to rebuild some equipment (2020)<br>
-_domestic_: the national network consists of microwave radio relay, cable, tropospheric scatter, GSM and CDMA mobile-cellular telephone systems; fixed-line teledensity remains low by regional standards at 4 per 100 but mobile cellular use expanding at 55 per 100 (2019)<br>
+_domestic_: the national network consists of microwave radio relay, cable, tropospheric scatter, GSM and CDMA mobile-cellular telephone systems; fixed-line teledensity remains low by regional standards at roughly 4 per 100 but mobile cellular use expanding at over 55 per 100 (2019)<br>
 _international_: country code - 967; landing points for the FALCON, SeaMeWe-5, Aden-Djibouti, and the AAE-1 international submarine cable connecting Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 3 Intelsat (2 Indian Ocean and 1 Atlantic Ocean), 1 Intersputnik (Atlantic Ocean region), and 2 Arabsat; microwave radio relay to Saudi Arabia and Djibouti (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -678,12 +678,7 @@ _major seaport(s)_: Aden, Al Hudaydah, Al Mukalla<br>
 note &ndash; a considerable portion--up to 70 percent by some estimates--of Yemen&rsquo;s military and security forces defected in whole or in part to former president SALAH and the Huthi opposition in 2011-2015<br>
 
 **Military expenditures**<br>
-4.3% of GDP (2014)<br>
-4.3% of GDP (2013)<br>
-4.7% of GDP (2012)<br>
-5% of GDP (2011)<br>
-4.8% of GDP (2010)<br>
-note - no reliable information exists following the start of renewed conflict in 2015<br>
+<p>prior to the start of the civil war, annual military expenditures were approximately 4-5% of Yemen's GDP </p><br>
 
 **Military and security service personnel strengths**<br>
 information limited and widely varied; ROYG: up to 300,000 estimated military, paramilitary, and militia forces; UAE- and Saudi-backed forces: 150-200,000 estimated trained fighters; Huthis: up to 200,000 estimated fighters&nbsp; (2021)<br>

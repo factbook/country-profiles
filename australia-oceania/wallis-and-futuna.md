@@ -149,19 +149,23 @@ _female_: 83.61 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: 99.1% of population<br>
+_improved: total_: total: 99.1% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: 0.9% of population<br>
+_unimproved: total_: total: 0.9% of population (2020)<br>
 
 **Current Health Expenditure**<br>
 NA<br>
 
 **Sanitation facility access**<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: 92.9% of population<br>
+_improved: total_: total: 92.9% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: 7.1% of population<br>
+_unimproved: total_: total: 7.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -397,15 +401,15 @@ Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 3,132 (2017)<br>
-_subscriptions per 100 inhabitants_: 25.38 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: 25.38 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 0 (2017)<br>
-_subscriptions per 100 inhabitants_: 0 (2017)<br>
+_total subscriptions_: 0 (2019)<br>
+_subscriptions per 100 inhabitants_: 0 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: 2G widespread; bandwidth is limited; mobile subscriber numbers are higher than fixed-line and better suited for islands; good mobile coverage in the capital cities and also reasonable coverage across more remote atolls; recent international interest in infrastructure development; increase in demand for mobile broadband as mobile services serve as primary source for Internet access; Kacific-1 broadband satellite launched in 2019 to improve costs and capability (2020)<br>
-_domestic_: fixed-line teledensity 25 per 100 persons (2019)<br>
+_domestic_: fixed-line teledensity 25 per 100 persons and 0 per 100 mobile subscriptions (2019)<br>
 _international_: country code - 681; landing point for the Tui-Samoa submarine cable network connecting Wallis &amp; Futuna, Samoa and Fiji (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

@@ -176,7 +176,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 11.3% (2019)<br>
@@ -193,7 +193,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020)<br>
@@ -618,7 +618,7 @@ _subscriptions per 100 inhabitants_: 125.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Switzerland emerged as a European leader for 1Gb/s fiber broadband, complemented by 5G to 97% of the population; competitive market buttressed by regulator assurances of 5G-compatible network infrastructure; although not a member of the EU, Switzerland follows the EU's telecom framework and regulations; Zurich is being developed as a smart city (2020)<br>
-_domestic_: ranked among leading countries for fixed-line teledensity and infrastructure; fixed-line 36 per 100 and mobile-cellular subscribership 127 per 100 persons; extensive cable and microwave radio relay networks (2019)<br>
+_domestic_: fixed-line over 34 per 100 and mobile-cellular subscribership roughly 126 per 100 persons; extensive cable and microwave radio relay networks (2020)<br>
 _international_: country code - 41; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

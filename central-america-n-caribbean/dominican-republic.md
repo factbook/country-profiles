@@ -171,11 +171,11 @@ _female_: 74.06 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.3% of population<br>
-_improved: rural_: rural: 92% of population<br>
-_improved: total_: total: 96.7% of population<br>
+_improved: rural_: rural: 91.7% of population<br>
+_improved: total_: total: 97.2% of population<br>
 _unimproved: urban_: urban: 1.7% of population<br>
-_unimproved: rural_: rural: 8% of population<br>
-_unimproved: total_: total: 3.3% of population (2017 est.)<br>
+_unimproved: rural_: rural: 8.3% of population<br>
+_unimproved: total_: total: 2.8% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.9% (2019)<br>
@@ -187,12 +187,12 @@ _unimproved: total_: total: 3.3% of population (2017 est.)<br>
 1.6 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 96.3% of population<br>
-_improved: rural_: rural: 89.5% of population<br>
-_improved: total_: total: 95% of population<br>
-_unimproved: urban_: urban: 13.8% of population<br>
-_unimproved: rural_: rural: 3.7% of population<br>
-_unimproved: total_: total: 5% of population (2017 est.)<br>
+_improved: urban_: urban: 97.4% of population<br>
+_improved: rural_: rural: 91.3% of population<br>
+_improved: total_: total: 96.3% of population<br>
+_unimproved: urban_: urban: 2.6% of population<br>
+_unimproved: rural_: rural: 8.7% of population<br>
+_unimproved: total_: total: 3.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.9% (2020 est.)<br>
@@ -296,6 +296,7 @@ _conventional long form_: Dominican Republic<br>
 _conventional short form_: The Dominican<br>
 _local long form_: Republica Dominicana<br>
 _local short form_: La Dominicana<br>
+_former_: Santo Domingo (the capital city's name formerly applied to the entire country)<br>
 _etymology_: the country name derives from the capital city of Santo Domingo (Saint Dominic)<br>
 
 **Government type**<br>
@@ -693,10 +694,10 @@ note(s) - in addition to the military, the Ministry of Armed Forces directs the 
 
 **Military expenditures**<br>
 0.8% of GDP (2020 est.)<br>
-0.7% of GDP (2019)<br>
-0.7% of GDP (2018)<br>
-0.7% of GDP (2017)<br>
-0.7% of GDP (2016)<br>
+0.7% of GDP (2019 est.)<br>
+0.6% of GDP (2018 est.)<br>
+0.6% of GDP (2017 est.)<br>
+0.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 30,000 National Police (2021)<br>

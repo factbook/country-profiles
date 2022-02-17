@@ -172,12 +172,12 @@ _female_: 82.51 years (2021 est.)<br>
 62.3% (2014)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
+_improved: urban_: urban: 99.9% of population<br>
 _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
+_unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.5% (2019)<br>
@@ -189,12 +189,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 6.5 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.7% of population<br>
+_improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.8% of population<br>
-_unimproved: urban_: urban: 0.3% of population<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.2% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -628,7 +628,7 @@ _subscriptions per 100 inhabitants_: 130.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: liberalized telecom market supported by market competition in broadband and mobile sectors ensuring access to cable and fiber infrastructure; rapid extension of LTE networks and development of mobile data service; mobile penetration is above European average; fixed broadband benefits from DSL infrastructure and investment in fiber through EU support; major importer of broadcasting equipment and accessories from Germany (2020)<br>
-_domestic_: several nation-wide networks provide mobile-cellular service; coverage is generally good; fixed-line 18 per 100 service lags in rural areas, mobile-cellular 138 per 100 persons (2019)<br>
+_domestic_: several nation-wide networks provide mobile-cellular service; fixed-line roughly 15 per 100 (service lags in rural areas), mobile-cellular over 130 per 100 persons (2020)<br>
 _international_: country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -718,10 +718,11 @@ note - the Polish Armed Forces are organized into a General Staff, an Armed Forc
 
 **Military and security service personnel strengths**<br>
 approximately 120,000 total active duty personnel (approximately 60,000 Army; 7,000 Navy; 17,000 Air Force; 3,500 Special Forces; 25,000 Territorial Defense Forces; 7,500 joint service) (2021)<br>
-note - in June 2019, the Polish Government approved a plan to increase the size of the military by 50,000 troops over the coming decade<br>
+note - in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments to Poland are Finland, Germany, Italy, and the US (2021)<br>
+note - in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, and improved cyber security<br>
 
 **Military deployments**<br>
 240 Kosovo (NATO/KFOR); up to 175 Latvia (NATO); 250 Lebanon (UNIFIL) (2021)<br>

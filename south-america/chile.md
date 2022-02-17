@@ -173,7 +173,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 9.3% (2019)<br>
@@ -190,7 +190,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.6% (2020 est.)<br>
@@ -686,7 +686,7 @@ note - Carabineros de Chile are responsible to both the Ministry of Defense and 
 
 **Military expenditures**<br>
 2% of GDP (2020 est.)<br>
-1.8% of GDP (2019)<br>
+1.9% of GDP (2019)<br>
 1.9% of GDP (2018)<br>
 2% of GDP (2017)<br>
 2% of GDP (2016)<br>

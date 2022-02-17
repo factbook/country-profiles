@@ -171,12 +171,12 @@ _female_: 64.89 years (2021 est.)<br>
 30.1% (2020)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 94.9% of population<br>
-_improved: rural_: rural: 67.9% of population<br>
-_improved: total_: total: 75.6% of population<br>
-_unimproved: urban_: urban: 4.5% of population<br>
-_unimproved: rural_: rural: 32.1% of population<br>
-_unimproved: total_: total: 24.4% of population (2017 est.)<br>
+_improved: urban_: urban: 94.7% of population<br>
+_improved: rural_: rural: 71.3% of population<br>
+_improved: total_: total: 78.5% of population<br>
+_unimproved: urban_: urban: 5.3% of population<br>
+_unimproved: rural_: rural: 28.7% of population<br>
+_unimproved: total_: total: 21.5% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.5% (2019)<br>
@@ -188,12 +188,12 @@ _unimproved: total_: total: 24.4% of population (2017 est.)<br>
 0.4 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 88.2% of population<br>
-_improved: rural_: rural: 30.2% of population<br>
-_improved: total_: total: 46.9% of population<br>
-_unimproved: urban_: urban: 11.8% of population<br>
-_unimproved: rural_: rural: 69.8% of population<br>
-_unimproved: total_: total: 53.1% of population (2017 est.)<br>
+_improved: urban_: urban: 90.8% of population<br>
+_improved: rural_: rural: 37.7% of population<br>
+_improved: total_: total: 54% of population<br>
+_unimproved: urban_: urban: 9.2% of population<br>
+_unimproved: rural_: rural: 62.3% of population<br>
+_unimproved: total_: total: 46% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.7% (2020 est.)<br>
@@ -689,10 +689,10 @@ note - the National Gendarmerie officially reports to the Ministry of Defense, b
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
-2.4% of GDP (2019)<br>
-2.1% of GDP (2018)<br>
-1.4% of GDP (2017)<br>
-1.2% of GDP (2016)<br>
+2.2% of GDP (2019 est.)<br>
+2% of GDP (2018 est.)<br>
+1.4% of GDP (2017 est.)<br>
+1.2% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of Burkina Faso (FABF) have approximately 12,000 personnel (7,000 Army; 500 Air Force; 4,500 National Gendarmerie) (2021)<br>

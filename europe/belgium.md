@@ -172,7 +172,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 10.7% (2019)<br>
@@ -189,7 +189,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -678,11 +678,11 @@ Brussels (Senne River) Liege (Meuse River)<br>
 Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, Medical Service (2021)<br>
 
 **Military expenditures**<br>
-1.07% of GDP (2020 est.)<br>
+1.12% of GDP (2021 est.)<br>
+1.07% of GDP (2020)<br>
 0.89% of GDP (2019)<br>
 0.89% of GDP (2018)<br>
 0.88% of GDP (2017)<br>
-0.89% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Belgian Armed Forces have approximately 26,000 active duty personnel (11,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2020)<br>

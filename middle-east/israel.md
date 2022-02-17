@@ -171,7 +171,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.5% (2019)<br>
@@ -184,11 +184,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
+_improved: rural_: rural: 99.3% of population<br>
+_improved: total_: total: 99.9% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: rural_: rural: 0.7% of population<br>
+_unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2018)<br>
@@ -689,11 +689,11 @@ Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes com
 note - the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and the IDF<br>
 
 **Military expenditures**<br>
-4.8% of GDP (2020 est.)<br>
-5% of GDP (2019)<br>
-5% of GDP (2018)<br>
-5.5% of GDP (2017)<br>
-5.5% of GDP (2016)<br>
+5% of GDP (2020 est.)<br>
+5.2% of GDP (2019 est.)<br>
+5.3% of GDP (2018 est.)<br>
+5.5% of GDP (2017 est.)<br>
+5.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Israel Defense Forces (IDF) have approximately 173,000 active personnel (130,000 Ground Forces; 9,000 Naval; 34,000 Air Force) (2021)<br>

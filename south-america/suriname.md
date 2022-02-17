@@ -165,12 +165,12 @@ _female_: 76.16 years (2021 est.)<br>
 39.1% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.2% of population<br>
-_improved: rural_: rural: 92% of population<br>
-_improved: total_: total: 96.6% of population<br>
-_unimproved: urban_: urban: 1.8% of population<br>
-_unimproved: rural_: rural: 8% of population<br>
-_unimproved: total_: total: 3.4% of population (2017 est.)<br>
+_improved: urban_: urban: 99.5% of population<br>
+_improved: rural_: rural: 98.2% of population<br>
+_improved: total_: total: 99.1% of population<br>
+_unimproved: urban_: urban: 0.5% of population<br>
+_unimproved: rural_: rural: 1.8% of population<br>
+_unimproved: total_: total: 0.9% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 9.7% (2019)<br>
@@ -183,11 +183,11 @@ _unimproved: total_: total: 3.4% of population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.5% of population<br>
-_improved: rural_: rural: 88.2% of population<br>
-_improved: total_: total: 95% of population<br>
+_improved: rural_: rural: 91.2% of population<br>
+_improved: total_: total: 96% of population<br>
 _unimproved: urban_: urban: 1.5% of population<br>
-_unimproved: rural_: rural: 11.8% of population<br>
-_unimproved: total_: total: 5% of population (2017 est.)<br>
+_unimproved: rural_: rural: 8.8% of population<br>
+_unimproved: total_: total: 4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.1% (2020 est.)<br>
@@ -600,7 +600,7 @@ _subscriptions per 100 inhabitants_: 153.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: smallest nation in South America with low population and client base; state-owned fixed-line tele-density rates and broadband services below regional average for Latin America and Caribbean; operator building out fiber network; mobile penetration is above regional average; fixed-line effective along the coastline yet poor in the interior; competition in the mobile sector; launch of 5G in Paramaribo; importer of broadcasting equipment from USA (2020)<br>
-_domestic_: fixed-line 16 per 100 and mobile-cellular teledensity 140 telephones per 100 persons; microwave radio relay network is in place (2019)<br>
+_domestic_: fixed-line nearly 18 per 100 and mobile-cellular teledensity over 153 telephones per 100 persons; microwave radio relay network is in place (2020)<br>
 _international_: country code - 597; landing point for the SG-SCS submarine cable linking South America with the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -666,11 +666,11 @@ _major seaport(s)_: Paramaribo, Wageningen<br>
 Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2021)<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2019 est.)<br>
+1.1% of GDP (2018 est.)<br>
 1.1% of GDP (2017 est.)<br>
 1.2% of GDP (2016 est.)<br>
 1.4% of GDP (2015 est.)<br>
-1.3% of GDP (2014 est.)<br>
-1.3% of GDP (2013 est.)<br>
 no figures available after 2017<br>
 
 **Military and security service personnel strengths**<br>

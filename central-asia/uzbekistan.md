@@ -43,7 +43,7 @@ mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland 
 mostly flat-to-rolling sandy desert with dunes; broad, flat intensely irrigated river valleys along course of Amu Darya, Syr Darya (Sirdaryo), and Zaravshan; Fergana Valley in east surrounded by mountainous Tajikistan and Kyrgyzstan; shrinking Aral Sea in west<br>
 
 **Elevation**<br>
-_highest point_: Khazret Sultan 4,643 m<br>
+_highest point_: Xazrat Sulton Tog' 4,643 m<br>note - the Factbook map is incorrect; it shows the wrong location and name of the high elevation<br>
 _lowest point_: Sariqamish Kuli -12 m<br>
 
 **Natural resources**<br>
@@ -170,12 +170,12 @@ _female_: 78.25 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
+_improved: urban_: urban: 99.6% of population<br>
 _improved: rural_: rural: 96.1% of population<br>
 _improved: total_: total: 97.8% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
+_unimproved: urban_: urban: 0.4% of population<br>
 _unimproved: rural_: rural: 3.9% of population<br>
-_unimproved: total_: total: 2.2% of population (2017 est.)<br>
+_unimproved: total_: total: 2.2% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.6% (2019)<br>
@@ -192,7 +192,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -604,7 +604,7 @@ _subscriptions per 100 inhabitants_: 99.75 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: land-locked, authoritarian state with government grip on ICT technology and no integrated plan; government plans to develop infrastructure to improve geographical disparities in service; increased investment in infrastructure, with aims of expanding subscriber base and rising revenue; some villages have no connectivity, and 70% have 2G with development of 3G and 4G; free WiFi spots across country to boost tourism; Russian operator invested in joint venture on mobile services; government in discussion with Huawei on additional ventures; digital exchanges in large cities and some rural areas; fixed-line is underdeveloped due to preeminence of mobile market; introduction of prepaid Internet has contributed to home Internet usage; consumers largely reliant on terrestrial links and VSAT networks; media controlled by state; importer of broadcasting equipment from China (2020)<br>
-_domestic_: fixed-line 11 per 100 person and mobile-cellular 101 per 100; the state-owned telecommunications company, Uzbek Telecom, owner of the fixed-line telecommunications system, has used loans from the Japanese government and the China Development Bank to upgrade fixed-line services including conversion to digital exchanges; mobile-cellular services are provided by 2 private and 3 state-owned operators with a total subscriber base of 22.8 million as of January 2018 (2019)<br>
+_domestic_: fixed-line nearly 11 per 100 persons and mobile-cellular teledensity nearly 100 per 100 persons; the state-owned telecommunications company, Uzbek Telecom, owner of the fixed-line telecommunications system, has used loans from the Japanese government and the China Development Bank to upgrade fixed-line services including conversion to digital exchanges; mobile-cellular services are provided by 2 private and 3 state-owned operators with a total subscriber base of 22.8 million as of January 2018 (2020)<br>
 _international_: country code - 998; linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; the country also has a link to the Trans-Asia-Europe (TAE) fiber-optic cable; Uzbekistan has supported the national fiber-optic backbone project of Afghanistan since 2008<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -674,9 +674,11 @@ Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard; Mi
 note - the National Guard, also under the Ministry of Defense, ensures public order and security of diplomatic missions, radio and television broadcasting, and other state entities<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2020 est.)<br>
-1.2% of GDP (2019 est.)<br>
-4% of GDP (2018 est.)<br>
+2.8% of GDP (2019 est.)<br>
+2.9% of GDP (2018 est.)<br>
+2.7% of GDP (2017 est.)<br>
+2.5% of GDP (2016 est.)<br>
+2.5% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 50-60,000 total active troops (2021)<br>

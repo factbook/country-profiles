@@ -180,7 +180,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 11.7% (2019)<br>
@@ -197,7 +197,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020 est.)<br>
@@ -339,8 +339,8 @@ _residency requirement for naturalization_: 8 years<br>
 _chief of state_: President Frank-Walter STEINMEIER (since 19 March 2017)<br>
 _head of government_: Chancellor Olaf SCHOLZ (since 8 December 2021)<br>
 _cabinet_: Cabinet or Bundesminister (Federal Ministers) recommended by the chancellor, appointed by the president<br>
-_elections/appointments_: president indirectly elected by a Federal Convention consisting of all members of the Federal Parliament (Bundestag) and an equivalent number of delegates indirectly elected by the state parliaments; president serves a 5-year term (eligible for a second term); election last held on 12 February 2017 (next to be held in February 2022); following the most recent Federal Parliament election, the party or coalition with the most representatives usually elects the chancellor who is appointed by the president to serve a renewable 4-year term; Federal Parliament vote for chancellor last held on 8 December 2021 (next to be held after the Bundestag election in 2025)<br>
-_election results_: Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher BUTTERWEGGE (The Left) 128, Albrecht GLASER (Alternative for Germany AfD) 42, Alexander HOLD (BVB/FW) 25, Engelbert SONNEBORN (Pirates) 10; Olaf SCHOLZ (SPD) elected chancellor; Federal Parliament vote - 395 to 303<br>
+_elections/appointments_: president indirectly elected by a Federal Convention consisting of all members of the Federal Parliament (Bundestag) and an equivalent number of delegates indirectly elected by the state parliaments; president serves a 5-year term (eligible for a second term); election last held on 13 February 2022 (next to be held in February 2027); following the most recent Federal Parliament election, the party or coalition with the most representatives usually elects the chancellor who is appointed by the president to serve a renewable 4-year term; Federal Parliament vote for chancellor last held on 8 December 2021 (next to be held after the Bundestag election in 2025)<br>
+_election results_: Frank-Walter STEINMEIER reelected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 1,045, Max OTTE 140, Gerhard TRABERT (The Left) 96, Stefanie GEBAUER (Free Voters) 58, abstentions 86; Olaf SCHOLZ (SPD) elected chancellor; Federal Parliament vote - 395 to 303<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br>Federal Diet or Bundestag (736 seats for the 2021-25 term - total seats can vary each electoral term; currently includes 4 seats for independent members; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members' terms depend upon the states they represent)<br>
@@ -354,7 +354,7 @@ _judge selection and term of office_: Federal Court of Justice judges selected b
 _subordinate courts_: Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 federated states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts; two English-speaking commercial courts opened in late 2020 in the state of Baden-Wuerttemberg - English-speaking Stuttgart Commercial Court and English-speaking Mannheim Commercial Court<br>
 
 **Political parties and leaders**<br>
-Alliance '90/Greens [Annalena BAERBOCK and Robert HABECK]<br>Alternative for Germany or AfD [Alexander GAULAND - Honorary Chairman, Joerg MEUTHEN and Tino CHRUPALLA]<br>Christian Democratic Union or CDU [Armin LASCHET]<br>Christian Social Union or CSU [Markus SOEDER]<br>Free Democratic Party or FDP [Christian LINDNER]<br>The Left or Die Linke [Janine WISSLER and Susanne HENNING-WELLSOW]<br>Social Democratic Party or SPD [Saskia ESKEN and Norbert WALTER-BORJANS]<br>
+Alliance '90/Greens [Annalena BAERBOCK and Robert HABECK]<br>Alternative for Germany or AfD [Alexander GAULAND - Honorary Chairman, Joerg MEUTHEN and Tino CHRUPALLA]<br>Christian Democratic Union or CDU [Armin LASCHET]<br>Christian Social Union or CSU [Markus SOEDER]<br>Free Democratic Party or FDP [Christian LINDNER]<br>Free Voters [Hubert AIWANGER]<br>The Left or Die Linke [Janine WISSLER and Susanne HENNING-WELLSOW]<br>Social Democratic Party or SPD [Saskia ESKEN and Norbert WALTER-BORJANS]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMISS, UNRWA, UNSOM, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -703,11 +703,11 @@ _river port(s)_: Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neus
 Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber- und Informationsraum, Kdo CIR) (2021)<br>
 
 **Military expenditures**<br>
-1.56% of GDP (2020 est.)<br>
+1.53% of GDP (2021 est.)<br>
+1.56% of GDP (2020)<br>
 1.36% of GDP (2019)<br>
 1.25% of GDP (2018)<br>
 1.23% of GDP (2017)<br>
-1.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 184,000 active duty personnel (63,500 Army; 16,500 Navy; 27,500 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 14,500 Cyber and Information Space Command; 15,000 other) (2021)<br>

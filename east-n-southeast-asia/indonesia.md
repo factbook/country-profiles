@@ -173,12 +173,12 @@ _female_: 75.12 years (2021 est.)<br>
 55.5% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 96.6% of population<br>
-_improved: rural_: rural: 83.7% of population<br>
-_improved: total_: total: 90.8% of population<br>
-_unimproved: urban_: urban: 3.4% of population<br>
-_unimproved: rural_: rural: 16.3% of population<br>
-_unimproved: total_: total: 9.2% of population (2017 est.)<br>
+_improved: urban_: urban: 98.2% of population<br>
+_improved: rural_: rural: 86.8% of population<br>
+_improved: total_: total: 93.3% of population<br>
+_unimproved: urban_: urban: 1.8% of population<br>
+_unimproved: rural_: rural: 13.2% of population<br>
+_unimproved: total_: total: 6.7% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 2.9% (2019)<br>
@@ -190,12 +190,12 @@ _unimproved: total_: total: 9.2% of population (2017 est.)<br>
 1 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 92.5% of population<br>
-_improved: rural_: rural: 76.8% of population<br>
-_improved: total_: total: 85.4% of population<br>
-_unimproved: urban_: urban: 7.5% of population<br>
-_unimproved: rural_: rural: 23.2% of population<br>
-_unimproved: total_: total: 14.6% of population (2017 est.)<br>
+_improved: urban_: urban: 97.2% of population<br>
+_improved: rural_: rural: 86.5% of population<br>
+_improved: total_: total: 92.5% of population<br>
+_unimproved: urban_: urban: 2.8% of population<br>
+_unimproved: rural_: rural: 13.5% of population<br>
+_unimproved: total_: total: 7.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>
@@ -304,7 +304,7 @@ _conventional long form_: Republic of Indonesia<br>
 _conventional short form_: Indonesia<br>
 _local long form_: Republik Indonesia<br>
 _local short form_: Indonesia<br>
-_former_: Netherlands East Indies, Dutch East Indies<br>
+_former_: Netherlands East Indies (Dutch East Indies), Netherlands New Guinea<br>
 _etymology_: the name is an 18th-century construct of two Greek words, "Indos" (India) and "nesoi" (islands), meaning "Indian islands"<br>
 
 **Government type**<br>
@@ -715,7 +715,7 @@ note(s) - in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coo
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020)<br>
-0.7% of GDP (2019)<br>
+0.8% of GDP (2019)<br>
 0.7% of GDP (2018)<br>
 0.9% of GDP (2017)<br>
 
@@ -723,7 +723,7 @@ note(s) - in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coo
 the<strong> </strong>Indonesian National Armed Forces have<strong> </strong>approximately, 400,000 active duty troops (300,000 Army; 65,000 Navy, including about 20,000 marines; 30,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Indonesian military inventory is comprised of equipment from a wide variety of sources; since 2010, the top suppliers are China, Germany, the Netherlands, Russia, South Korea, the UK, and the US; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government publicly said that growing its domestic defense industry is a national priority over the next 5-10 years (2021)<br>
+the Indonesian military inventory is comprised of equipment from a wide variety of sources; since 2010, the top suppliers included China, France, Germany, the Netherlands, Russia, South Korea, the UK, and the US; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government publicly said that growing its domestic defense industry is a national priority over the next 5-10 years (2021)<br>
 
 **Military deployments**<br>
 230 Central African Republic (MINUSCA); 1,030 Democratic Republic of the Congo (MONUSCO); 1,230 Lebanon (UNIFIL) (Oct 2021)<br>

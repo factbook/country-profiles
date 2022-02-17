@@ -161,12 +161,12 @@ _female_: 61.28 years (2021 est.)<br>
 66.1% (2014)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 96.8% of population<br>
-_improved: rural_: rural: 72.3% of population<br>
-_improved: total_: total: 78.3% of population<br>
-_unimproved: urban_: urban: 3.2% of population<br>
-_unimproved: rural_: rural: 27.7% of population<br>
-_unimproved: total_: total: 21.7% of population (2017 est.)<br>
+_improved: urban_: urban: 97.5% of population<br>
+_improved: rural_: rural: 74.8% of population<br>
+_improved: total_: total: 80.3% of population<br>
+_unimproved: urban_: urban: 2.5% of population<br>
+_unimproved: rural_: rural: 25.2% of population<br>
+_unimproved: total_: total: 19.7% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.8% (2019)<br>
@@ -178,12 +178,12 @@ _unimproved: total_: total: 21.7% of population (2017 est.)<br>
 2.1 beds/1,000 population (2011)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 93.5% of population<br>
-_improved: rural_: rural: 82.4% of population<br>
-_improved: total_: total: 85% of population<br>
-_unimproved: urban_: urban: 6.5% of population<br>
-_unimproved: rural_: rural: 17.6% of population<br>
-_unimproved: total_: total: 15% of population (2017 est.)<br>
+_improved: urban_: urban: 92.3% of population<br>
+_improved: rural_: rural: 83.9% of population<br>
+_improved: total_: total: 85.9% of population<br>
+_unimproved: urban_: urban: 7.7% of population<br>
+_unimproved: rural_: rural: 16.1% of population<br>
+_unimproved: total_: total: 14.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 26.8% (2020 est.)<br>
@@ -651,10 +651,10 @@ Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2021)<b
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-1.8% of GDP (2019 est.)<br>
-1.9% of GDP (2018 est.)<br>
-1.9% of GDP (2017 est.)<br>
-2% of GDP (2016 est.)<br>
+1.9% of GDP (2019 est.)<br>
+2.1% of GDP (2018 est.)<br>
+2.1% of GDP (2017 est.)<br>
+2.2% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Umbutfo Eswatini Defense Force has approximately 3,000 active personnel (2021)<br>

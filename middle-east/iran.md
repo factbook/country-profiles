@@ -170,12 +170,12 @@ _female_: 76.48 years (2021 est.)<br>
 77.4% (2010/11)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.6% of population<br>
-_improved: rural_: rural: 93.1% of population<br>
-_improved: total_: total: 97.2% of population<br>
-_unimproved: urban_: urban: 1.4% of population<br>
-_unimproved: rural_: rural: 6.9% of population<br>
-_unimproved: total_: total: 2.8% of population (2017 est.)<br>
+_improved: urban_: urban: 99.8% of population<br>
+_improved: rural_: rural: 98.1% of population<br>
+_improved: total_: total: 99.4% of population<br>
+_unimproved: urban_: urban: 0.2% of population<br>
+_unimproved: rural_: rural: 1.9% of population<br>
+_unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.7% (2019)<br>
@@ -187,12 +187,12 @@ _unimproved: total_: total: 2.8% of population (2017 est.)<br>
 1.6 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.9% of population<br>
-_improved: rural_: rural: 95.7% of population<br>
-_improved: total_: total: 98.1% of population<br>
-_unimproved: urban_: urban: 1.1% of population (2015 est.)<br>
-_unimproved: rural_: rural: 4.3% of population<br>
-_unimproved: total_: total: 1.9% of population (2017 est.)<br>
+_improved: urban_: urban: 100% of population<br>
+_improved: rural_: rural: 100% of population<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: 0% of population (2015 est.)<br>
+_unimproved: rural_: rural: 0% of population<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020 est.)<br>
@@ -695,10 +695,10 @@ note(s) - the Artesh Navy operates Iran&rsquo;s larger warships and operates in 
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>
-3.8% of GDP (2019 est.)<br>
-6.1% of GDP (2018 est.)<br>
-5.3% of GDP (2017 est.)<br>
-4.1% of GDP (2016 est.)<br>
+2.5% of GDP (2019 est.)<br>
+3.4% of GDP (2018 est.)<br>
+3.4% of GDP (2017 est.)<br>
+3.1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 550-600,000 total active personnel; approximately 400,000 Islamic Republic of Iran Regular Forces (350,000 Ground Forces; 18,000 Navy; 40,000 Air Force/Air Defense Forces); approximately 150-190,000 Islamic Revolutionary Guard Corps (100-150,000 Ground Forces; 20,000 Navy; 15,000 Aerospace Force; 5-15,000 Qods Force); est. 90,000 active Basij Paramilitary Forces (2021)<br>

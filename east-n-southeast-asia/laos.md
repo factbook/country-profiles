@@ -168,12 +168,12 @@ _female_: 68.26 years (2021 est.)<br>
 54.1% (2017)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 94.4% of population<br>
-_improved: rural_: rural: 76.8% of population<br>
-_improved: total_: total: 82.1% of population<br>
-_unimproved: urban_: urban: 5.6% of population<br>
-_unimproved: rural_: rural: 23.2% of population<br>
-_unimproved: total_: total: 17.9% of population (2017 est.)<br>
+_improved: urban_: urban: 97.1% of population<br>
+_improved: rural_: rural: 84.1% of population<br>
+_improved: total_: total: 88.8% of population<br>
+_unimproved: urban_: urban: 2.9% of population<br>
+_unimproved: rural_: rural: 15.9% of population<br>
+_unimproved: total_: total: 11.2% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 2.6% (2019)<br>
@@ -185,12 +185,12 @@ _unimproved: total_: total: 17.9% of population (2017 est.)<br>
 1.5 beds/1,000 population (2012)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98% of population<br>
-_improved: rural_: rural: 66.3% of population<br>
-_improved: total_: total: 77.2% of population<br>
-_unimproved: urban_: urban: 2% of population<br>
-_unimproved: rural_: rural: 33.7% of population<br>
-_unimproved: total_: total: 22.8% of population (2017 est.)<br>
+_improved: urban_: urban: 100% of population<br>
+_improved: rural_: rural: 72% of population<br>
+_improved: total_: total: 82.2% of population<br>
+_unimproved: urban_: urban: 0% of population<br>
+_unimproved: rural_: rural: 28% of population<br>
+_unimproved: total_: total: 17.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
@@ -678,11 +678,11 @@ _by type_: general cargo 1 (2021)<br>
 Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces<br><br>Ministry of Public Security (internal security and law enforcement):  local, traffic, immigration, and security police, as well as village police auxiliaries and other armed police units (2021)<br>
 
 **Military expenditures**<br>
+0.2% of GDP (2019 est.)<br>
+0.2% of GDP (2018 est.)<br>
 0.2% of GDP (2017 est.)<br>
 0.2% of GDP (2016 est.)<br>
 0.2% of GDP (2015 est.)<br>
-0.2% of GDP (2014 est.)<br>
-0.2% of GDP (2013 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information is limited and estimates vary; approximately 30,000 active duty troops (26,000 Army; 4000 Air Force) (2021)<br>

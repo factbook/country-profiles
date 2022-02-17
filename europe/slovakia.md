@@ -173,7 +173,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7% (2019)<br>
@@ -190,7 +190,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2018 est.)<br>
@@ -604,7 +604,7 @@ _subscriptions per 100 inhabitants_: 133.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a modern telecom system; one operator has near monopoly of fixed-line market; competition in mobile- and fixed-broadband market; broadband growth in recent years; competition among DSL, cable, and fiber platforms; FttP growth in cities; operator launched 1Gb/s cable broadband service in 3 cities and 200,000 premises in 2019; EU funding for development and improvement of e-government and online services; regulator prepared groundwork for 5G services in 2020 (2020)<br>
-_domestic_: four companies have a license to operate cellular networks and provide nationwide cellular services; a few other companies provide services but do not have their own networks; fixed-line 12 per 100 and mobile-cellular 136 per 100 teledensity (2019)<br>
+_domestic_: four companies have a license to operate cellular networks and provide nationwide cellular services; a few other companies provide services but do not have their own networks; fixed-line roughly 11 per 100 and mobile-cellular over 133 per 100 teledensity (2020)<br>
 _international_: country code - 421; 3 international exchanges (1 in Bratislava and 2 in Banska Bystrica) are available; Slovakia is participating in several international telecommunications projects that will increase the availability of external services; connects to DREAM cable (2017)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

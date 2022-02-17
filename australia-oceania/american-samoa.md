@@ -152,17 +152,21 @@ NA<br>
 **Drinking water source**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
-_improved: total_: total: 100% of population NA<br>
+_improved: total_: total: 99.8% of population<br>
 _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: 0% of population NA (2017 est.)<br>
+_unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 NA<br>
 
 **Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 99% of population<br>
-_unimproved: total_: total: 1% of population (2017 est.)<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -213,6 +217,7 @@ _municipal solid waste generated annually_: 18,989 tons (2016 est.)<br>
 **Country name**<br>
 _conventional long form_: American Samoa<br>
 _conventional short form_: American Samoa<br>
+_former_: Eastern Samoa<br>
 _abbreviation_: AS<br>
 _etymology_: the meaning of Samoa is disputed; some modern explanations are that the "sa" connotes&nbsp; "sacred" and "moa" indicates "center," so the name can mean "Holy Center"; alternatively, some assertions state that it can mean "place of the sacred moa bird" of Polynesian mythology; the name, however, may go back to Proto-Polynesian (PPn) times (before 1000 B.C.); a plausible PPn reconstruction has the first syllable as "sa'a" meaning "tribe or people" and "moa" meaning "deep sea or ocean" to convey the meaning "people of the deep sea"<br>
 

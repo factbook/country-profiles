@@ -164,12 +164,12 @@ _female_: 77.35 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.5% of population<br>
-_improved: rural_: rural: 93% of population<br>
-_improved: total_: total: 96% of population<br>
-_unimproved: urban_: urban: 1.5% of population<br>
-_unimproved: rural_: rural: 7% of population<br>
-_unimproved: total_: total: 4% of population (2017 est.)<br>
+_improved: urban_: urban: 98.3% of population<br>
+_improved: rural_: rural: 93.9% of population<br>
+_improved: total_: total: 96.4% of population<br>
+_unimproved: urban_: urban: 1.7% of population<br>
+_unimproved: rural_: rural: 6.1% of population<br>
+_unimproved: total_: total: 3.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.1% (2019)<br>
@@ -181,12 +181,12 @@ _unimproved: total_: total: 4% of population (2017 est.)<br>
 1.7 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 98.5% of population<br>
-_improved: rural_: rural: 99.5% of population<br>
-_improved: total_: total: 99% of population<br>
-_unimproved: urban_: urban: 1.5% of population<br>
-_unimproved: rural_: rural: 0.5% of population<br>
-_unimproved: total_: total: 1% of population (2017 est.)<br>
+_improved: urban_: urban: 98.6% of population<br>
+_improved: rural_: rural: 99.4% of population<br>
+_improved: total_: total: 98.9% of population<br>
+_unimproved: urban_: urban: 1.4% of population<br>
+_unimproved: rural_: rural: 0.6% of population<br>
+_unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.4% (2020 est.)<br>
@@ -655,10 +655,10 @@ note - both the JDF and JCF are under the Ministry of National Security<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
-1.6% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
-1% of GDP (2017)<br>
-0.9% of GDP (2016)<br>
+1.6% of GDP (2019 est.)<br>
+1.4% of GDP (2018 est.)<br>
+1% of GDP (2017 est.)<br>
+0.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 4,000 total active personnel (2021)<br>

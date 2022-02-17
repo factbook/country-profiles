@@ -176,7 +176,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.6% (2019)<br>
@@ -188,12 +188,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 4 beds/1,000 population (2014)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: 99.8% of population<br>
+_improved: rural_: rural: 99.9% of population<br>
+_improved: total_: total: 99.8% of population<br>
+_unimproved: urban_: urban: 0.2% of population<br>
+_unimproved: rural_: rural: 0.1% of population<br>
+_unimproved: total_: total: 0.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -329,9 +329,9 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Gurbanguly BERDIMUHAMEDOW (since 14 February 2007); note - the president is both chief of state and head of government<br>
-_head of government_: President Gurbanguly BERDIMUHAMEDOW (since 14 February 2007)<br>
+_head of government_: President Gurbanguly BERDIMUHAMEDOW (since 14 February 2007)&nbsp;&nbsp;<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 February 2017 (next to be held in February 2024)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 February 2017 (next to be held 12 March 2022); note - on 11 February 2022, President BERDIMUHAMEDOW announced his intent to retire setting up the early presidential election<br>
 _election results_: <br><em>2017:</em> Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br><br><em>2012:</em> Gurbanguly BERDIMUHAMEDOW reelected president; percent of vote - Gurbanguly BERDIMUHAMEDOW 97.1%, Annageldi YAZMYRADOW 1.1%, other candidates 1.8%<br>
 
 **Legislative branch**<br>
@@ -595,7 +595,7 @@ _subscriptions per 100 inhabitants_: 162.9 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: stagnant economy, rural geography, and authoritarian rule limit development of the telecom sector; in cooperation with Russian-based partners, operators have installed high-speed fiber-optic lines and upgraded most of the country's telephone switch centers with digital technology; some rural areas lack fixed-line coverage; mobile broadband is in the early stages of development; services are extremely slow, though Trans-Caspian cable will provide international Internet capacity and improvement in services; freedom of press and expression restricted through monitoring, media interruption, and removal of receivers from households; importer of broadcasting equipment from UAE (2020)<br>
-_domestic_: fixed-line 12 per 100 and mobile-cellular teledensity is about 163 per 100 persons; first telecommunication satellite was launched in 2015 (2019)<br>
+_domestic_: fixed-line nearly 12 per 100 and mobile-cellular teledensity is about 163 per 100 persons; first telecommunication satellite was launched in 2015 (2019)<br>
 _international_: country code - 993; linked by fiber-optic cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch; an exchange in Ashgabat switches international traffic through Turkey via Intelsat; satellite earth stations - 1 Orbita and 1 Intelsat (2018)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -670,11 +670,11 @@ _major seaport(s)_: Caspian Sea - Turkmenbasy<br>
 Armed Forces of Turkmenistan: Land Forces, Navy, Air and Air Defense Forces; Federal Border Guard Service (2021)<br>
 
 **Military expenditures**<br>
-0.9% of GDP (2020 est.)<br>
-0.9% of GDP (2019 est.)<br>
-1% of GDP (2018 est.)<br>
+1% of GDP (2020 est.)<br>
+1.9% of GDP (2019 est.)<br>
+1.8% of GDP (2018 est.)<br>
 1.8% of GDP (2017 est.)<br>
-1.7% of GDP (2016 est.)<br>
+1.8% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 30,000 active troops (est. 25,000 National Army; 1,000 Navy; 4,000 Air and Air Defense Forces) (2021)<br>

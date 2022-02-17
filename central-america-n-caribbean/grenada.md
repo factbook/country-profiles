@@ -169,8 +169,12 @@ _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 3.6 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 93.7% of population<br>
-_unimproved: total_: total: 6.3% of population (2017 est.)<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 6.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.5% (2018)<br>

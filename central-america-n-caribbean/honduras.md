@@ -173,11 +173,11 @@ _female_: 78.58 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 88.9% of population<br>
-_improved: total_: total: 94.8% of population<br>
+_improved: rural_: rural: 90.7% of population<br>
+_improved: total_: total: 96.1% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 11.1% of population<br>
-_unimproved: total_: total: 5.2% of population (2017 est.)<br>
+_unimproved: rural_: rural: 9.3% of population<br>
+_unimproved: total_: total: 3.9% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.3% (2019)<br>
@@ -189,12 +189,12 @@ _unimproved: total_: total: 5.2% of population (2017 est.)<br>
 0.6 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 95.4% of population<br>
-_improved: rural_: rural: 83.5% of population<br>
-_improved: total_: total: 90.2% of population<br>
-_unimproved: urban_: urban: 4.6% of population<br>
-_unimproved: rural_: rural: 16.5% of population<br>
-_unimproved: total_: total: 9.8% of population (2017 est.)<br>
+_improved: urban_: urban: 96.7% of population<br>
+_improved: rural_: rural: 87.9% of population<br>
+_improved: total_: total: 93% of population<br>
+_unimproved: urban_: urban: 3.3% of population<br>
+_unimproved: rural_: rural: 12.1% of population<br>
+_unimproved: total_: total: 7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -692,10 +692,10 @@ note - the PMOP was created in 2013 as part of an effort by the Honduran Governm
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
-1.6% of GDP (2019)<br>
-1.6% of GDP (2018)<br>
-1.7% of GDP (2017)<br>
-1.7% of GDP (2016)<br>
+1.6% of GDP (2019 est.)<br>
+1.6% of GDP (2018 est.)<br>
+1.7% of GDP (2017 est.)<br>
+1.7% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Honduran Armed Forces (FFAA) have approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Public Order Military Police); approximately 18,000 National Police (2021)<br>

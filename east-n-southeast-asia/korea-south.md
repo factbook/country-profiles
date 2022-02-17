@@ -166,8 +166,12 @@ _female_: 86.06 years (2021 est.)<br>
 <strong>note:</strong> percent of women aged 20-49<br>
 
 **Drinking water source**<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 99.9% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 8.2% (2019)<br>
@@ -179,8 +183,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 12.4 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 99.9% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -677,11 +685,11 @@ Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Navy (ROKN
 note - in January 2022, the South Korean military announced the formation of a space branch<br>
 
 **Military expenditures**<br>
-2.64% of GDP (2021 est.)<br>
-2.62% of GDP (2020)<br>
-2.43% of GDP (2019)<br>
-2.27% of GDP (2018)<br>
-2.2% of GDP (2017)<br>
+2.6% of GDP (2021 est.)<br>
+2.6% of GDP (2020)<br>
+2.7% of GDP (2019)<br>
+2.5% of GDP (2018)<br>
+2.5% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Republic of Korea Armed Forces have approximately 555,000 active duty personnel (420,000 Army; 70,000 Navy/Marines; 65,000 Air Force) (2021)<br>

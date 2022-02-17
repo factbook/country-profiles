@@ -174,12 +174,12 @@ _female_: 65.02 years (2021 est.)<br>
 66.8% (2015)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98% of population<br>
-_improved: rural_: rural: 67.4% of population<br>
-_improved: total_: total: 77.3% of population<br>
-_unimproved: urban_: urban: 2% of population<br>
-_unimproved: rural_: rural: 32.6% of population<br>
-_unimproved: total_: total: 22.7% of population (2017 est.)<br>
+_improved: urban_: urban: 97.9% of population<br>
+_improved: rural_: rural: 66.9% of population<br>
+_improved: total_: total: 76.9% of population<br>
+_unimproved: urban_: urban: 2.1% of population<br>
+_unimproved: rural_: rural: 33.1% of population<br>
+_unimproved: total_: total: 23.1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.7% (2019)<br>
@@ -627,7 +627,7 @@ _subscriptions per 100 inhabitants_: 88.76 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the pandemic, drought, and rising hyperinflation have devastated the economy and hindered foreign investment; regulator extended tax exemption for Huawei, raising concerns of independence; mobile tariffs were increased three times since mid-2019, raising consumer prices; Internet is limited, exacerbated by inadequate electricity; mobile Internet connections make up almost all Internet connections; competition has driven some expansion of the telecommunications sector, though operators warn that lack of government investment will cause further deterioration, especially in rural areas; mobile network operators continue to invest in e-commerce and e-banking; slow progress on national and international fiber backbone network, as well as 3G and LTE mobile-broadband services; international bandwidth through submarine cables via neighboring countries (2020)<br>
-_domestic_: consists of microwave radio relay links, open-wire lines, radiotelephone communication stations, fixed wireless local loop installations, fiber-optic cable, VSAT terminals, and a substantial mobile-cellular network; Internet connection is most readily available in Harare and major towns; two government owned and two private cellular providers; fixed-line 2 per 100 and mobile-cellular 90 per 100 (2019)<br>
+_domestic_: consists of microwave radio relay links, open-wire lines, radiotelephone communication stations, fixed wireless local loop installations, fiber-optic cable, VSAT terminals, and a substantial mobile-cellular network; Internet connection is most readily available in Harare and major towns; two government owned and two private cellular providers; fixed-line teledensity at nearly 2 per 100 and mobile-cellular nearly 89 per 100 (2020)<br>
 _international_: country code - 263; fiber-optic connections to neighboring states provide access to international networks via undersea cable; satellite earth stations - 2 Intelsat; 5 international digital gateway exchanges<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -696,8 +696,8 @@ _river port(s)_: Binga, Kariba (Zambezi)<br>
 Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ) (2021)<br>
 
 **Military expenditures**<br>
-0.7% of GDP (2019 est.)<br>
-1.2% of GDP (2018 est.)<br>
+2.6% of GDP (2019 est.)<br>
+1.7% of GDP (2018 est.)<br>
 1.5% of GDP (2017 est.)<br>
 1.8% of GDP (2016 est.)<br>
 1.9% of GDP (2015 est.)<br>

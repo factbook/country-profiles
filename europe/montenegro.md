@@ -169,11 +169,11 @@ _female_: 80.04 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 99.8% of population<br>
+_improved: rural_: rural: 98.2% of population<br>
+_improved: total_: total: 99.4% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0.2% of population (2017 est.)<br>
+_unimproved: rural_: rural: 1.8% of population<br>
+_unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 8.3% (2019)<br>
@@ -187,10 +187,10 @@ _unimproved: total_: total: 0.2% of population (2017 est.)<br>
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 93.9% of population<br>
-_improved: total_: total: 97.8% of population<br>
+_improved: total_: total: 98% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 6.1% of population<br>
-_unimproved: total_: total: 2.2% of population (2017 est.)<br>
+_unimproved: total_: total: 2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020 est.)<br>
@@ -710,7 +710,7 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 20,727 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
+<strong>note:</strong> 20,736 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

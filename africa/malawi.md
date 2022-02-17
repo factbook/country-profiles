@@ -176,12 +176,12 @@ _female_: 75.33 years (2021 est.)<br>
 59.2% (2015/16)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 95.9% of population<br>
-_improved: rural_: rural: 87.3% of population<br>
-_improved: total_: total: 88.7% of population<br>
-_unimproved: urban_: urban: 4.1% of population<br>
-_unimproved: rural_: rural: 12.7% of population<br>
-_unimproved: total_: total: 11.3% of population (2017 est.)<br>
+_improved: urban_: urban: 96.7% of population<br>
+_improved: rural_: rural: 91% of population<br>
+_improved: total_: total: 92% of population<br>
+_unimproved: urban_: urban: 3.3% of population<br>
+_unimproved: rural_: rural: 9% of population<br>
+_unimproved: total_: total: 8% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.4% (2019)<br>
@@ -193,12 +193,12 @@ _unimproved: total_: total: 11.3% of population (2017 est.)<br>
 1.3 beds/1,000 population (2011)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 58.2% of population<br>
+_improved: urban_: urban: 59.9% of population<br>
 _improved: rural_: rural: 35.9% of population<br>
-_improved: total_: total: 39.6% of population<br>
-_unimproved: urban_: urban: 41.8% of population<br>
+_improved: total_: total: 40% of population<br>
+_unimproved: urban_: urban: 40.1% of population<br>
 _unimproved: rural_: rural: 64.1% of population<br>
-_unimproved: total_: total: 60.4% of population (2017 est.)<br>
+_unimproved: total_: total: 60% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 8.1% (2020 est.)<br>
@@ -697,10 +697,10 @@ note - the Malawi Police Service is under the Ministry of Homeland Security<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2020 est.)<br>
-0.9% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
-0.7% of GDP (2017)<br>
-0.6% of GDP (2016)<br>
+1.1% of GDP (2019 est.)<br>
+0.8% of GDP (2018 est.)<br>
+0.7% of GDP (2017 est.)<br>
+0.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 8,000 total personnel (including about 200 air and 200 marine forces) (2021)<br>

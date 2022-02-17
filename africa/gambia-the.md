@@ -46,7 +46,7 @@ tropical; hot, rainy season (June to November); cooler, dry season (November to 
 flood plain of the Gambia River flanked by some low hills<br>
 
 **Elevation**<br>
-_highest point_: unnamed elevation 53 m<br>
+_highest point_: unnamed elevation 3 km southeast of the town of Sabi 63 m<br>note - the Factbook map is incorrect; it shows the wrong location of the high elevation<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 34 m<br>
 
@@ -175,12 +175,12 @@ _female_: 68.57 years (2021 est.)<br>
 <strong>note:</strong> percent of women aged 15-49<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 91.4% of population<br>
-_improved: rural_: rural: 80.4% of population<br>
-_improved: total_: total: 87.1% of population<br>
-_unimproved: urban_: urban: 8.6% of population<br>
-_unimproved: rural_: rural: 19.6% of population<br>
-_unimproved: total_: total: 12.9% of population (2017 est.)<br>
+_improved: urban_: urban: 91.8% of population<br>
+_improved: rural_: rural: 85.7% of population<br>
+_improved: total_: total: 89.5% of population<br>
+_unimproved: urban_: urban: 8.2% of population<br>
+_unimproved: rural_: rural: 14.3% of population<br>
+_unimproved: total_: total: 10.5% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.8% (2019)<br>
@@ -192,12 +192,12 @@ _unimproved: total_: total: 12.9% of population (2017 est.)<br>
 1.1 beds/1,000 population (2011)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 80.4% of population<br>
-_improved: rural_: rural: 44.5% of population<br>
-_improved: total_: total: 66.3% of population<br>
-_unimproved: urban_: urban: 19.6% of population<br>
-_unimproved: rural_: rural: 55.5% of population<br>
-_unimproved: total_: total: 33.7% of population (2017 est.)<br>
+_improved: urban_: urban: 75.8% of population<br>
+_improved: rural_: rural: 33.6% of population<br>
+_improved: total_: total: 60% of population<br>
+_unimproved: urban_: urban: 24.2% of population<br>
+_unimproved: rural_: rural: 66.4% of population<br>
+_unimproved: total_: total: 40% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.8% (2020 est.)<br>
@@ -672,8 +672,8 @@ Gambia Armed Forces: the Gambian National Army (GNA; includes a small air wing),
 0.8% of GDP (2020 est.)<br>
 0.8% of GDP (2019 est.)<br>
 0.7% of GDP (2018 est.)<br>
-1% of GDP (2015 est.)<br>
-1.2% of GDP (2014 est.)<br>
+0.7% of GDP (2017 est.)<br>
+0.8% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 2,000 total active troops (2021)<br>

@@ -98,7 +98,7 @@ English (official language, taught in schools, used in courts of law and by most
 Protestant 45.1% (Anglican 32.0%, Pentecostal/Born Again/Evangelical 11.1%, Seventh Day Adventist 1.7%, Baptist .3%), Roman Catholic 39.3%, Muslim 13.7%, other 1.6%, none 0.2% (2014 est.)<br>
 
 **Demographic profile**<br>
-<p>Uganda has one of the youngest and most rapidly growing populations in the world; its total fertility rate is among the world’s highest at 5.8 children per woman. Except in urban areas, actual fertility exceeds women’s desired fertility by one or two children, which is indicative of the widespread unmet need for contraception, lack of government support for family planning, and a cultural preference for large families. High numbers of births, short birth intervals, and the early age of childbearing contribute to Uganda’s high maternal mortality rate. Gender inequities also make fertility reduction difficult; women on average are less-educated, participate less in paid employment, and often have little say in decisions over childbearing and their own reproductive health. However, even if the birth rate were significantly reduced, Uganda’s large pool of women entering reproductive age ensures rapid population growth for decades to come.</p><p>Unchecked, population increase will further strain the availability of arable land and natural resources and overwhelm the country’s limited means for providing food, employment, education, health care, housing, and basic services. The country’s north and northeast lag even further behind developmentally than the rest of the country as a result of long-term conflict (the Ugandan Bush War 1981-1986 and more than 20 years of fighting between the Lord’s Resistance Army (LRA) and Ugandan Government forces), ongoing inter-communal violence, and periodic natural disasters.</p><p>Uganda has been both a source of refugees and migrants and a host country for refugees. In 1972, then President Idi AMIN, in his drive to return Uganda to Ugandans, expelled the South Asian population that composed a large share of the country’s business people and bankers. Since the 1970s, thousands of Ugandans have emigrated, mainly to southern Africa or the West, for security reasons, to escape poverty, to search for jobs, and for access to natural resources. The emigration of Ugandan doctors and nurses due to low wages is a particular concern given the country’s shortage of skilled health care workers. Africans escaping conflicts in neighboring states have found refuge in Uganda since the 1950s; the country currently struggles to host tens of thousands from the Democratic Republic of the Congo, South Sudan, and other nearby countries.</p><br>
+<p>Uganda has one of the youngest and most rapidly growing populations in the world; its total fertility rate is among the world’s highest at close to 5.5 children per woman. Except in urban areas, actual fertility exceeds women’s desired fertility by one or two children, which is indicative of the widespread unmet need for contraception, lack of government support for family planning, and a cultural preference for large families. High numbers of births, short birth intervals, and the early age of childbearing contribute to Uganda’s high maternal mortality rate. Gender inequities also make fertility reduction difficult; women on average are less-educated, participate less in paid employment, and often have little say in decisions over childbearing and their own reproductive health. However, even if the birth rate were significantly reduced, Uganda’s large pool of women entering reproductive age ensures rapid population growth for decades to come.</p> <p>Unchecked, population increase will further strain the availability of arable land and natural resources and overwhelm the country’s limited means for providing food, employment, education, health care, housing, and basic services. The country’s north and northeast lag even further behind developmentally than the rest of the country as a result of long-term conflict (the Ugandan Bush War 1981-1986 and more than 20 years of fighting between the Lord’s Resistance Army (LRA) and Ugandan Government forces), ongoing inter-communal violence, and periodic natural disasters.</p> <p>Uganda has been both a source of refugees and migrants and a host country for refugees. In 1972, then President Idi AMIN, in his drive to return Uganda to Ugandans, expelled the South Asian population that composed a large share of the country’s business people and bankers. Since the 1970s, thousands of Ugandans have emigrated, mainly to southern Africa or the West, for security reasons, to escape poverty, to search for jobs, and for access to natural resources. The emigration of Ugandan doctors and nurses due to low wages is a particular concern given the country’s shortage of skilled health care workers. Africans escaping conflicts in neighboring states have found refuge in Uganda since the 1950s; the country currently struggles to host tens of thousands from the Democratic Republic of the Congo, South Sudan, and other nearby countries.</p><br>
 
 **Age structure**<br>
 _0-14 years_: 48.21% (male 10,548,913/female 10,304,876)<br>
@@ -173,12 +173,12 @@ _female_: 70.9 years (2021 est.)<br>
 41.8% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 92.9% of population<br>
-_improved: rural_: rural: 77.2% of population<br>
-_improved: total_: total: 80.8% of population<br>
-_unimproved: urban_: urban: 7.1% of population<br>
-_unimproved: rural_: rural: 22.8% of population<br>
-_unimproved: total_: total: 19.2% of population (2017 est.)<br>
+_improved: urban_: urban: 92.5% of population<br>
+_improved: rural_: rural: 80% of population<br>
+_improved: total_: total: 83.1% of population<br>
+_unimproved: urban_: urban: 7.5% of population<br>
+_unimproved: rural_: rural: 20% of population<br>
+_unimproved: total_: total: 16.9% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.8% (2019)<br>
@@ -190,12 +190,12 @@ _unimproved: total_: total: 19.2% of population (2017 est.)<br>
 0.5 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 67.8% of population<br>
-_improved: rural_: rural: 26.6% of population<br>
-_improved: total_: total: 36.2% of population<br>
-_unimproved: urban_: urban: 32.2% of population<br>
-_unimproved: rural_: rural: 73.4% of population<br>
-_unimproved: total_: total: 63.8% of population (2017 est.)<br>
+_improved: urban_: urban: 67.3% of population<br>
+_improved: rural_: rural: 27.5% of population<br>
+_improved: total_: total: 37.4% of population<br>
+_unimproved: urban_: urban: 32.7% of population<br>
+_unimproved: rural_: rural: 72.5% of population<br>
+_unimproved: total_: total: 62.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 5.4% (2020 est.)<br>
@@ -357,9 +357,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2021: </em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 58.6%, Bobi WINE (NUP) 34.8%, Patrick Oboi AMURIAT (FDC) 3.2%, other 3.4%<br><br><em>2016: </em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 60.6%, Kizza BESIGYE (FDC) 35.6%, other 3.8%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Parliament (445 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 112 for women directly elected in single-seat districts by simple majority vote, and 25 "representatives" reserved for special interest groups - army 10, disabled 5, youth 5, labor 5; up to 18 ex officio members appointed by the president; members serve 5-year terms)<br>
-_elections_: last held on 18 February 2016 (next to be held in February 2021)<br>
-_election results_: percent of vote by party - NA; seats by party - NRM 292, FDC 37, DP 5, UPDF 10, UPC 6, independent 66 (excludes 19 ex-officio members)<br>
+_description_: unicameral National Assembly or Parliament (556 seats; 353 members directly elected in single-seat constituencies by simple majority vote, 146 for women directly elected in single-seat districts by simple majority vote, and 30 "representatives" reserved for special interest groups - army 10, disabled 5, youth 5, labor 5, older persons 5; 27 ex officio members appointed by the president; members serve 5-year terms)<br>
+_elections_: last held on 14 January 2021 (next to be held in February 2026)<br>
+_election results_: percent of vote by party - NA; seats by party - NRM 336, NUP 57, FDC 32, DP 9, UPDF 10, UPC 9, independent 76 (excludes 27 ex-officio members)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Uganda (consists of the chief justice and at least 6 justices)<br>
@@ -632,7 +632,7 @@ _subscriptions per 100 inhabitants_: 60.53 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom infrastructure has developed through private partnerships; as of 2018, fixed-fiber backbone infrastructure is available in over half of Uganda&rsquo;s districts; mobile phone companies now provide 4G networks across all major cities and national parks, while offering 3G coverage in small cities and most rural areas with road access; price of commercial Internet services dropped substantially in 2019; consumers rely on mobile infrastructure to provide voice and broadband services as fixed-line infrastructure is poor; 5G migration is developing slowly; government commissioned broadband satellite services for rural areas in 2019 (2020)<br>
-_domestic_: fixed-line 1 per 100 and mobile- cellular systems teledensity about 57 per 100 persons; intercity traffic by wire, microwave radio relay, and radiotelephone communication stations (2019)<br>
+_domestic_: fixed-line less than 1 per 100 and mobile cellular systems teledensity about 61 per 100 persons; intercity traffic by wire, microwave radio relay, and radiotelephone communication stations (2020)<br>
 _international_: country code - 256; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat; analog and digital links to Kenya and Tanzania<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -699,10 +699,10 @@ note - in 2018, President MUSEVENI created a volunteer force of Local Defense Un
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
-2.1% of GDP (2019)<br>
-1.4% of GDP (2018)<br>
-1.5% of GDP (2017)<br>
-1.6% of GDP (2016)<br>
+1.7% of GDP (2019)<br>
+1.2% of GDP (2018)<br>
+1.2% of GDP (2017)<br>
+1.3% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 45-50,000 troops, including about 1,000-1,500 air and marine personnel; approximately 20,000 personnel in the Local Defense Units (2021)<br>

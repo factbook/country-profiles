@@ -181,7 +181,7 @@ _improved: rural_: rural: 63.4% of population<br>
 _improved: total_: total: 76.2% of population<br>
 _unimproved: urban_: urban: 18.8% of population<br>
 _unimproved: rural_: rural: 36.6% of population<br>
-_unimproved: total_: total: 23.8% of population (2017 est.)<br>
+_unimproved: total_: total: 23.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 7.3% (2020 est.)<br>
@@ -635,7 +635,7 @@ Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equ
 note - the Gendarmerie reports to the Ministry of National Defense and is responsible for security outside cities and for special events; military personnel also fulfill some police functions in border areas, sensitive sites, and high-traffic areas<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2019 est.)<br>
+1.5% of GDP (2019 est.)<br>
 1.1% of GDP (2018 est.)<br>
 1.1% of GDP (2017 est.)<br>
 1.2% of GDP (2016 est.)<br>

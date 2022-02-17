@@ -169,12 +169,12 @@ _female_: 74.03 years (2021 est.)<br>
 54.1% (2017)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 97.7% of population<br>
-_improved: rural_: rural: 92.7% of population<br>
-_improved: total_: total: 95.4% of population<br>
-_unimproved: urban_: urban: 2.3% of population<br>
-_unimproved: rural_: rural: 7.3% of population<br>
-_unimproved: total_: total: 4.6% of population (2017 est.)<br>
+_improved: urban_: urban: 99.1% of population<br>
+_improved: rural_: rural: 95% of population<br>
+_improved: total_: total: 97% of population<br>
+_unimproved: urban_: urban: 0.9% of population<br>
+_unimproved: rural_: rural: 5% of population<br>
+_unimproved: total_: total: 3% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.1% (2019)<br>
@@ -186,12 +186,12 @@ _unimproved: total_: total: 4.6% of population (2017 est.)<br>
 1 beds/1,000 population (2014)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 95% of population<br>
-_improved: rural_: rural: 88.2% of population<br>
-_improved: total_: total: 91.4% of population<br>
-_unimproved: urban_: urban: 5% of population<br>
-_unimproved: rural_: rural: 11.8% of population<br>
-_unimproved: total_: total: 8.6% of population (2017 est.)<br>
+_improved: urban_: urban: 96% of population<br>
+_improved: rural_: rural: 91% of population<br>
+_improved: total_: total: 93.4% of population<br>
+_unimproved: urban_: urban: 4% of population<br>
+_unimproved: rural_: rural: 9% of population<br>
+_unimproved: total_: total: 6.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -625,7 +625,7 @@ _subscriptions per 100 inhabitants_: 154.8 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high unemployment and rural population impede investment in fixed infrastructure; dominance in the mobile segment and rapid development of mobile broadband; investment focused on fiber infrastructure in urban areas with 4G available in most areas; national broadband plan to improve connectivity in rural areas underway; data center and smart city pilot in Manila; submarine cable link and satellite improves telecom for the region; major exporter of integrated circuits to China, and importer of circuits and broadcasting equipment from China (2020)<br>
-_domestic_: telecommunications infrastructure includes the following platforms: fixed line, mobile cellular, cable TV, over-the-air TV, radio and (very small aperture terminal) VSAT, fiber-optic cable, and satellite for redundant international connectivity; fixed-line 4 per 100 and mobile-cellular 155 per 100 (2019)<br>
+_domestic_: telecommunications infrastructure includes the following platforms: fixed line, mobile cellular, cable TV, over-the-air TV, radio and (very small aperture terminal) VSAT, fiber-optic cable, and satellite for redundant international connectivity; fixed-line nearly 4 per 100 and mobile-cellular nearly 155 per 100 (2019)<br>
 _international_: country code - 63; landing points for the NDTN, TGN-IA, AAG, PLCN, EAC-02C, DFON, SJC, APCN-2, SeaMeWe, Boracay-Palawan Submarine Cable System, Palawa-Illoilo Cable System, NDTN, SEA-US, SSSFOIP, ASE and JUPITAR submarine cables that together provide connectivity to the US, Southeast Asia, Asia, Europe, Africa, the Middle East, and Australia (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -707,9 +707,9 @@ note(s) - the Philippine Coast Guard is an armed and uniformed service under the
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
 1% of GDP (2020)<br>
-1% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
+1.1% of GDP (2019)<br>
+1% of GDP (2018)<br>
+1.3% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of the Philippines (AFP) have approximately 122,000 active duty personnel (80,000 Army; 25,000 Navy, including about 8,700 marines; 17,000 Air Force) (2021)<br>

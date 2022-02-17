@@ -173,12 +173,12 @@ _female_: 74.89 years (2021 est.)<br>
 52.8% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.8% of population<br>
-_improved: rural_: rural: 95% of population<br>
-_improved: total_: total: 97.9% of population<br>
-_unimproved: urban_: urban: 1.2% of population<br>
-_unimproved: rural_: rural: 5% of population<br>
-_unimproved: total_: total: 2.1% of population (2017 est.)<br>
+_improved: urban_: urban: 100% of population<br>
+_improved: rural_: rural: 97.4% of population<br>
+_improved: total_: total: 99.3% of population<br>
+_unimproved: urban_: urban: 0% of population<br>
+_unimproved: rural_: rural: 2.6% of population<br>
+_unimproved: total_: total: 0.7% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.5% (2019)<br>
@@ -190,12 +190,12 @@ _unimproved: total_: total: 2.1% of population (2017 est.)<br>
 1.3 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 96.7% of population<br>
-_improved: rural_: rural: 89.7% of population<br>
-_improved: total_: total: 95.2% of population<br>
-_unimproved: urban_: urban: 3.3% of population<br>
-_unimproved: rural_: rural: 10.3% of population<br>
-_unimproved: total_: total: 4.8% of population (2017 est.)<br>
+_improved: urban_: urban: 100% of population<br>
+_improved: rural_: rural: 100% of population<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: 0% of population<br>
+_unimproved: rural_: rural: 0% of population<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -704,10 +704,10 @@ Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Fo
 
 **Military expenditures**<br>
 4.1% of GDP (2020 est.)<br>
-3.9% of GDP (2019 est.)<br>
-2.9% of GDP (2018)<br>
-3.9% of GDP (2017)<br>
-3.5% of GDP (2016)<br>
+3.8% of GDP (2019 est.)<br>
+4.5% of GDP (2018 est.)<br>
+6% of GDP (2017 est.)<br>
+5.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces (10,000 Iraqi Counterterrorism Service; 10,000 Presidential Brigades; 5,000 Prime Minister&rsquo;s Special Forces Division); Ministry of Peshmerga: approximately 150,000-plus (35,000 Regional Guard Brigades; 50,000 Unit 70 Forces; 70,000 Unit 80 Forces); estimated 100-160,000 Popular Mobilization Forces (2021)<br>
@@ -734,7 +734,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps/Qods Force;
 <p>Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf; Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,272 (Turkey), 7,881 (West Bank and Gaza Strip) (mid-year 2021); 254,561 (Syria) (2021)<br>
+_refugees (country of origin)_: 15,272 (Turkey), 7,881 (West Bank and Gaza Strip) (mid-year 2021); 256,006 (Syria) (2022)<br>
 _IDPs_: 1,198,940 (displacement in central and northern Iraq since January 2014) (2021)<br>
 _stateless persons_: 47,253 (mid-year 2021); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2,006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 <strong>note:</strong> estimate revised to reflect the reduction of statelessness in line with Law 26 of 2006, which allows stateless persons to apply for nationality in certain circumstances; more accurate studies of statelessness in Iraq are pending (2015)<br>

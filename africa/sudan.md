@@ -172,10 +172,10 @@ _female_: 69.11 years (2021 est.)<br>
 **Drinking water source**<br>
 _improved: urban_: urban: 99% of population<br>
 _improved: rural_: rural: 80.7% of population<br>
-_improved: total_: total: 87% of population<br>
+_improved: total_: total: 87.1% of population<br>
 _unimproved: urban_: urban: 1% of population<br>
 _unimproved: rural_: rural: 19.3% of population<br>
-_unimproved: total_: total: 13% of population (2017 est.)<br>
+_unimproved: total_: total: 12.9% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.6% (2019)<br>
@@ -189,10 +189,10 @@ _unimproved: total_: total: 13% of population (2017 est.)<br>
 **Sanitation facility access**<br>
 _improved: urban_: urban: 72.1% of population<br>
 _improved: rural_: rural: 30.6% of population<br>
-_improved: total_: total: 44.9% of population<br>
+_improved: total_: total: 45.3% of population<br>
 _unimproved: urban_: urban: 27.9% of population<br>
 _unimproved: rural_: rural: 69.4% of population<br>
-_unimproved: total_: total: 55.1% of population (2017 est.)<br>
+_unimproved: total_: total: 54.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -358,9 +358,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Umar Hassan Ahmad al-BASHIR reelected president; percent of vote - Umar Hassan Ahmad al-BASHIR (NCP) 94.1%, other (15 candidates) 5.9%<br>
 
 **Legislative branch**<br>
-_description_: according to the August 2019 Constitutional Decree, which established Sudan's transitional government, the Transitional Legislative Council (TLC) will serve as the national legislature during the transitional period until elections can be held in 2022; as of early December 2019, the TLC had not been established<br>
-_elections_: <p>Council of State - last held 1 June 2015 <br> National Assembly - last held on 13-15 April 2015 <br>note - elections for an as yet defined new legislature to be held in 2022 at the expiry of the Transnational Legislative Council</p><br>
-_election results_: <br> Council of State - percent of vote by party - NA; seats by party - NA; composition - men 35, women 19, percent of women 35.2%<br>National Assembly - percent of vote by party - NA; seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19; composition - men 296 women 130, percent of women 30.5%; note - total National Legislature percent of women 31%<br>
+_description_: according to the August 2019 Constitutional Decree, which established Sudan's transitional government, the Transitional Legislative Council (TLC) will serve as the national legislature during the transitional period until elections can be held; as of early December 2021, the TLC had not been established<br>
+_elections_: <p>Council of State - last held 1 June 2015 <br>National Assembly - last held on 13-15 April 2015 <br>note - elections for a new legislature to be held at an undetermined date between July 2023 and January 2024 </p><br>
+_election results_: <br>Council of State - percent of vote by party - NA; seats by party - NA; composition - men 35, women 19, percent of women 35.2%<br>National Assembly - percent of vote by party - NA; seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19; composition - men 296 women 130, percent of women 30.5%; note - total National Legislature percent of women 31%<br>
 
 **Judicial branch**<br>
 _highest courts_: National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); Constitutional Court (consists of 9 justices including the court president); note - the Constitutional Court resides outside the national judiciary<br>
@@ -623,7 +623,7 @@ _subscriptions per 100 inhabitants_: 80.26 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-equipped system by regional standards with ongoing upgrades; despite economic challenges, government continues to boost mobile infrastructure through build-out of fiber-broadband network across country; economic climate has not encouraged client growth in telecom, but some investment has been made to build mobile towers and expand LTE services; growth of e-money services; interim constitution safeguards rights and freedoms, though some Internet users continue to face harassment for activities; importer of broadcasting equipment from UAE and China (2020)<br>
-_domestic_: consists of microwave radio relay, cable, fiber optic, radiotelephone communications, tropospheric scatter, and a domestic satellite system with 14 earth stations; teledensity fixed-line less than 1 per 100 and mobile-cellular 77 telephones per 100 persons (2019)<br>
+_domestic_: consists of microwave radio relay, cable, fiber optic, radiotelephone communications, tropospheric scatter, and a domestic satellite system with 14 earth stations; teledensity fixed-line less than 1 per 100 and mobile-cellular over 80 telephones per 100 persons (2020)<br>
 _international_: country code - 249; landing points for the EASSy, FALCON&nbsp;and SAS-1,-2, fiber-optic submarine cable systems linking Africa, the Middle East, Indian Ocean Islands and Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> since 2020, some aspects of the telecom sector have experienced a downturn because of supply-chain disruptions related to the COVID-19 pandemic, particularly in mobile device production; many network operators delayed upgrades to infrastructure; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes<br>
 
@@ -703,9 +703,9 @@ note - the RSF is a semi-autonomous paramilitary force formed in 2013 to fight a
 
 **Military expenditures**<br>
 1.1% of GDP (2020 est.)<br>
-1.7% of GDP (2019 est.)<br>
-2.3% of GDP (2018 est.)<br>
-3.5% of GDP (2017 est.)<br>
+2.4% of GDP (2019 est.)<br>
+2% of GDP (2018 est.)<br>
+3.6% of GDP (2017 est.)<br>
 2.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
@@ -734,7 +734,7 @@ Islamic State of Iraq and ash-Sham (ISIS), al-Qa&rsquo;ida, Harakat Sawa&rsquo;d
 <p>the effects of Sudan's ethnic and rebel militia fighting since the mid-20th century have penetrated all of the neighboring states; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; as of early 2019, more than 590,000 Sudanese refugees are being hosted in the Central African Republic, Chad, Egypt, Ethiopia, Kenya, and South Sudan; Sudan, in turn, is hosting more than 975,000 refugees and asylum seekers, including more than 845,000 from South Sudan; Sudan accuses South Sudan of supporting Sudanese rebel groups; Sudan claims but Egypt de facto administers security and economic development of the Halaib region north of the 22nd parallel boundary; periodic violent skirmishes with Sudanese residents over water and grazing rights persist among related pastoral populations along the border with the Central African Republic; South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 803,634 (South Sudan) (refugees and asylum seekers), 125,997 (Eritrea) (refugees and asylum seekers), 93,483 (Syria) (refugees and asylum seekers), 71,993 (Ethiopia) (refugees and asylum seekers), 27,619 (Central African Republic) (2021)<br>
+_refugees (country of origin)_: 125,997 (Eritrea) (refugees and asylum seekers), 93,483 (Syria) (refugees and asylum seekers), 71,993 (Ethiopia) (refugees and asylum seekers), (2021); 898,056 (South Sudan) (refugees and asylum seekers), 27,619 (Central African Republic) (2022)<br>
 _IDPs_: 2,276,000 (civil war 1983-2005; ongoing conflict in Darfur region; government and rebel fighting along South Sudan border; inter-tribal clashes) (2020)<br>
 
 **Trafficking in persons**<br>

@@ -171,12 +171,12 @@ _female_: 85.39 years (2021 est.)<br>
 <strong>note:</strong> percent of women aged 18-49<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
+_improved: urban_: urban: 99.9% of population<br>
 _improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
+_improved: total_: total: 99.9% of population<br>
+_unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 9.1% (2019)<br>
@@ -193,7 +193,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>
@@ -624,7 +624,7 @@ _subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-developed and one of the largest telecom markets in Europe, with average mobile penetration for Europe; regulator has championed competition; LTE is nearly universal with shifts of service to 5G; operator joined government smart cities project; fixed-line broadband is backed by investment in fiber infrastructure; fiber broadband accounts for most of all fixed-line broadband connections; Chinese company Huawei contributes investment to the telecom sector; increased connectivity through submarine cable connection to Brazil; importer of broadcasting equipment from Europe (2020)<br>
-_domestic_: fixed-line 42 per 100 and mobile-cellular 118 telephones per 100 persons (2019)<br>
+_domestic_: fixed-line nearly 42 per 100 and mobile-cellular 119 telephones per 100 persons (2020)<br>
 _international_: country code - 34; landing points for the MAREA, Tata TGN-Western Europe, Pencan-9, SAT-3/WASC, Canalink, Atlantis-2, Columbus -111, Estepona-Tetouan, FEA, Balalink, ORVAL and PENBAL-5 submarine cables providing connectivity to Europe, the&nbsp;Middle East, Africa,&nbsp;South America,&nbsp;Asia, Southeast Asia&nbsp;and the&nbsp;US; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to adjacent countries (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -742,7 +742,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 6,.92 (mid-year 2021)<br>
-<strong>note: </strong>197,460 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
+<strong>note: </strong>197,838 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

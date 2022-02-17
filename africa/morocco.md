@@ -208,12 +208,12 @@ _unimproved: total_: total: 9% of population (2017 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 99.1% of population<br>
-_improved: rural_: rural: 81.1% of population<br>
-_improved: total_: total: 92.2% of population<br>
-_unimproved: urban_: urban: 0.9% of population<br>
-_unimproved: rural_: rural: 18.9% of population<br>
-_unimproved: total_: total: 7.3% of population (2017 est.)<br>
+_improved: urban_: urban: 98.2% of population<br>
+_improved: rural_: rural: 72.4% of population<br>
+_improved: total_: total: 88.8% of population<br>
+_unimproved: urban_: urban: 1.8% of population<br>
+_unimproved: rural_: rural: 27.6% of population<br>
+_unimproved: total_: total: 11.2% of population (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
@@ -334,7 +334,7 @@ _conventional long form_: Kingdom of Morocco<br>
 _conventional short form_: Morocco<br>
 _local long form_: Al Mamlakah al Maghribiyah<br>
 _local short form_: Al Maghrib<br>
-_former_: French Protectorate in Morocco, Spanish Protectorate in Morocco, Spanish Sahara, Western Sahara<br>
+_former_: French Protectorate in Morocco, Spanish Protectorate in Morocco, Ifni, Spanish Sahara, Western Sahara<br>
 _etymology_: the English name "Morocco" derives from, respectively, the Spanish and Portuguese names "Marruecos" and "Marrocos," which stem from "Marrakesh" the Latin name for the former capital of ancient Morocco; the Arabic name "Al Maghrib" translates as "The West"<br>
 
 **Government type**<br>
@@ -738,10 +738,10 @@ note(s) - the National Police manages internal law enforcement in cities; the Ro
 
 **Military expenditures**<br>
 4.5% of GDP (2020 est.)<br>
-3.1% of GDP (2019)<br>
-3.1% of GDP (2018)<br>
-3.2% of GDP (2017)<br>
-3.2% of GDP (2016)<br>
+3.4% of GDP (2019 est.)<br>
+3.3% of GDP (2018 est.)<br>
+3.4% of GDP (2017 est.)<br>
+3.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Armed Forces have approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); est. 25,000 Gendarmerie (2021)<br>

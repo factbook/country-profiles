@@ -137,10 +137,12 @@ NA (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: 0% of population<br>
+_improved: rural_: rural: 99.7% of population<br>
+_improved: total_: total: 99.7% of population<br>
+_unimproved: urban_: urban: 0% of population<br>
+_unimproved: rural_: rural: 0.3% of population<br>
+_unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 NA<br>
@@ -149,10 +151,12 @@ NA<br>
 2.72 physicians/1,000 population (2010)<br>
 
 **Sanitation facility access**<br>
+_improved: urban_: urban: NA<br>
 _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -374,7 +378,7 @@ _subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern satellite-based communications system; demand for mobile broadband increasing due to mobile services being the method of access for Internet across the region; 2G widespread with some 4G LTE service; satellite services has improved with the launch of the Kacific-1 satellite launched in 2019 (2020)<br>
-_domestic_: radiotelephone service between islands; fixed-line 21 per 100 persons (2019)<br>
+_domestic_: radiotelephone service between islands; fixed-line teledensity is 0 per 100 persons (2019)<br>
 _international_: country code - 690; landing point for the Southern Cross NEXT submarine cable linking Australia, Tokelau, Samoa, Kiribati, Fiji, New Zealand and Los Angeles, CA (USA); radiotelephone service to Samoa; government-regulated telephone service (TeleTok); satellite earth stations - 3 (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

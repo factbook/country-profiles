@@ -166,11 +166,11 @@ _female_: 84.6 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
+_improved: rural_: rural: 99.7% of population<br>
+_improved: total_: total: 99.9% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: rural_: rural: 0.3% of population<br>
+_unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 9.5% (2019)<br>
@@ -182,12 +182,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.5 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
+_improved: urban_: urban: 99.9% of population<br>
 _improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
+_improved: total_: total: 99.9% of population<br>
+_unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.5% (2020 est.)<br>
@@ -604,7 +604,7 @@ _subscriptions per 100 inhabitants_: 116.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; mobile market dominated by one operator with room for competition; 3G infrastructure is universal, with investment directed toward expanding provision of 90% LTE coverage in rural areas and 5G technologies; cable sector shifting to wireless, with access to 66% of population; developments in m-commerce; operator assessing installation of submarine cable between islands and mainland; importer of broadcasting equipment from EU (2020)<br>
-_domestic_: integrated network of coaxial cables, open-wire, microwave radio relay, and domestic satellite earth stations; fixed-line 50 per 100 persons and mobile-cellular 116 per 100 persons (2019)<br>
+_domestic_: integrated network of coaxial cables, open-wire, microwave radio relay, and domestic satellite earth stations; fixed-line roughly 51 per 100 persons and mobile-cellular 116 per 100 persons (2020)<br>
 _international_: country code - 351;&nbsp;landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, SeaMeWe-3, Equino, MainOne, Tat TGN-Western Europe, WACS, ACE, Atlantis2 and Columbus-III&nbsp;submarine cables provide connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, South America&nbsp;and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

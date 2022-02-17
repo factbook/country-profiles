@@ -167,12 +167,12 @@ _female_: 69.22 years (2021 est.)<br>
 44.4% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 87.9% of population<br>
-_improved: rural_: rural: 36.3% of population<br>
-_improved: total_: total: 55.5% of population<br>
-_unimproved: urban_: urban: 12.1% of population<br>
-_unimproved: rural_: rural: 63.7% of population<br>
-_unimproved: total_: total: 44.5% of population (2017 est.)<br>
+_improved: urban_: urban: 85% of population<br>
+_improved: rural_: rural: 38% of population<br>
+_improved: total_: total: 56.1% of population<br>
+_unimproved: urban_: urban: 15% of population<br>
+_unimproved: rural_: rural: 62% of population<br>
+_unimproved: total_: total: 43.9% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 3.7% (2019)<br>
@@ -184,12 +184,12 @@ _unimproved: total_: total: 44.5% of population (2017 est.)<br>
 0.2 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 42.5% of population<br>
-_improved: rural_: rural: 16.6% of population<br>
-_improved: total_: total: 26.1% of population<br>
-_unimproved: urban_: urban: 57.5% of population<br>
-_unimproved: rural_: rural: 83.4% of population<br>
-_unimproved: total_: total: 73.9% of population (2017 est.)<br>
+_improved: urban_: urban: 49.2% of population<br>
+_improved: rural_: rural: 22.1% of population<br>
+_improved: total_: total: 32.6% of population<br>
+_unimproved: urban_: urban: 50.8% of population<br>
+_unimproved: rural_: rural: 77.9% of population<br>
+_unimproved: total_: total: 67.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
@@ -678,11 +678,11 @@ People's Armed Forces: Army, Navy, Air Force; National Gendarmerie (operates und
 note - the National Gendarmerie is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police is responsible for maintaining law and order in urban areas<br>
 
 **Military expenditures**<br>
-0.8% of GDP (2020 est.)<br>
-0.6% of GDP (2019)<br>
-0.6% of GDP (2018)<br>
-0.6% of GDP (2017)<br>
-0.6% of GDP (2016)<br>
+0.7% of GDP (2020 est.)<br>
+0.5% of GDP (2019 est.)<br>
+0.5% of GDP (2018 est.)<br>
+0.5% of GDP (2017 est.)<br>
+0.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Peoples Armed Forces (PAF) have approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); est. 10,000 Gendarmerie (2021)<br>

@@ -166,11 +166,11 @@ _female_: 78.68 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
+_improved: rural_: rural: 97.9% of population<br>
+_improved: total_: total: 99.7% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: rural_: rural: 2.1% of population<br>
+_unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.1% (2019)<br>
@@ -187,7 +187,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2019)<br>
@@ -594,7 +594,7 @@ _subscriptions per 100 inhabitants_: 133.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern system consisting of open-wire, microwave, and radiotelephone communication stations; domestic satellite system; progressive mobile sector with both 3G and 4G LTE networks and readiness for 5G launch; competition among mobile operators; government program to improve fiber network; important communications hub in the Middle East, with access to numerous submarine cables enabling increased bandwidth; major importer of broadcasting equipment and computers from UAE (2020)<br>
-_domestic_: fixed-line 13 per 100 and mobile-cellular 138 per 100, subscribership both increasing with fixed-line phone service gradually being introduced to remote villages using wireless local loop systems (2019)<br>
+_domestic_: fixed-line nearly 13 per 100 and mobile-cellular nearly 134 per 100; fixed-line phone service gradually being introduced to remote villages using wireless local loop systems (2020)<br>
 _international_: country code - 968;&nbsp;landing points for GSA, AAE-1,&nbsp;SeaMeWe-5, Tata TGN-Gulf,&nbsp;FALCON, GBICS/MENA, MENA/Guld Bridge International, TW1, BBG, EIG, OMRAN/EPEG, and POI&nbsp;submarine cables providing connectivity to Asia,&nbsp;Africa, the Middle East, Southeast Asia&nbsp;and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -667,10 +667,10 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 
 **Military expenditures**<br>
 11% of GDP (2020 est.)<br>
-8.8% of GDP (2019)<br>
-8.2% of GDP (2018)<br>
-12.8% of GDP (2017)<br>
-16% of GDP (2016)<br>
+11.8% of GDP (2019 est.)<br>
+11.2% of GDP (2018 est.)<br>
+12.3% of GDP (2017 est.)<br>
+13.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Sultan's Armed Forces (SAF) have approximately 40,000 total active troops (26,000 Army, 4,000 Navy; 4,000 Air Force; 6,000 Royal Guard) (2021)<br>

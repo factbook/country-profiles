@@ -176,12 +176,12 @@ _female_: 73.67 years (2021 est.)<br>
 66.5% (2016)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 78.1% of population<br>
-_improved: total_: total: 92.8% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 21.9% of population<br>
-_unimproved: total_: total: 7.1% of population (2017 est.)<br>
+_improved: urban_: urban: 99.2% of population<br>
+_improved: rural_: rural: 80.2% of population<br>
+_improved: total_: total: 93.5% of population<br>
+_unimproved: urban_: urban: 0.8% of population<br>
+_unimproved: rural_: rural: 19.8% of population<br>
+_unimproved: total_: total: 6.5% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.9% (2019)<br>
@@ -193,12 +193,12 @@ _unimproved: total_: total: 7.1% of population (2017 est.)<br>
 1.3 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 94.1% of population<br>
-_improved: rural_: rural: 42.2% of population<br>
-_improved: total_: total: 78% of population<br>
-_unimproved: urban_: urban: 5.9% of population<br>
-_unimproved: rural_: rural: 57.8% of population<br>
-_unimproved: total_: total: 22% of population (2017 est.)<br>
+_improved: urban_: urban: 97.8% of population<br>
+_improved: rural_: rural: 48.4% of population<br>
+_improved: total_: total: 83.1% of population<br>
+_unimproved: urban_: urban: 2.2% of population<br>
+_unimproved: rural_: rural: 51.6% of population<br>
+_unimproved: total_: total: 16.9% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -711,10 +711,10 @@ note - the National Police is part of the reserves for the Armed Forces<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.4% of GDP (2019)<br>
-1.5% of GDP (2018)<br>
-1.5% of GDP (2017)<br>
-1.6% of GDP (2016)<br>
+1.4% of GDP (2019 est.)<br>
+1.5% of GDP (2018 est.)<br>
+1.5% of GDP (2017 est.)<br>
+1.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police; approximately 40,000 National Police (2021)<br>

@@ -28,7 +28,7 @@ slightly larger than the US<br>
 
 **Land boundaries**<br>
 _total_: 8,891 km<br>
-_border countries_: US 8,891 km (includes 2,475 km with Alaska)<br>
+_border countries_: US 8891 km (includes 2475 km with Alaska)<br>
 <strong>note:</strong> Canada is the world's largest country that borders only one country<br>
 
 **Coastline**<br>
@@ -179,12 +179,12 @@ _female_: 86.03 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98.9% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 1.1% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: 99.3% of population<br>
+_improved: rural_: rural: 99.1% of population<br>
+_improved: total_: total: 99.2% of population<br>
+_unimproved: urban_: urban: 0.7% of population<br>
+_unimproved: rural_: rural: 0.9% of population<br>
+_unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 10.8% (2019)<br>
@@ -196,12 +196,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.5 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 98.7% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 1.3% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: 99.1% of population<br>
+_improved: rural_: rural: 98.9% of population<br>
+_improved: total_: total: 99% of population<br>
+_unimproved: urban_: urban: 0.9% of population<br>
+_unimproved: rural_: rural: 1.1% of population<br>
+_unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>

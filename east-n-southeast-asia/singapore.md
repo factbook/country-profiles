@@ -166,9 +166,11 @@ NA<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.1% (2019)<br>
@@ -181,9 +183,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
+_improved: rural_: rural: NA<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -601,7 +605,7 @@ _subscriptions per 100 inhabitants_: 144.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; the government's telecommunication regulator, Infocomm Media Development Authority (IMDA), issued awards in mid-2020 to telecom operators with the goal of having at least 50% of the city-state covered with a standalone 5G network by the end of 2022; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers and controls Internet content; well served by submarine cable and satellite connections; major importer of integrated circuits and broadcasting equipment from China and exporter of same to SE Asian neighboring countries (2021)<br>
-_domestic_: excellent domestic facilities; fixed-line 33 per 100 and mobile-cellular 156 per 100 teledensity; multiple providers of high-speed Internet connectivity (2019)<br>
+_domestic_: excellent domestic facilities; fixed-line roughly 32 per 100 and mobile-cellular 144 per 100 teledensity; multiple providers of high-speed Internet connectivity (2020)<br>
 _international_: country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn,&nbsp;PGASCOM, BSCS,&nbsp;IGG,&nbsp;B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -666,9 +670,9 @@ note - in 2009, Singapore established a multi-agency national Maritime Security 
 **Military expenditures**<br>
 3.2% of GDP (2021 est.)<br>
 3.3% of GDP (2020)<br>
-3.2% of GDP (2019)<br>
-3.1% of GDP (2018)<br>
-3.1% of GDP (2017)<br>
+2.9% of GDP (2019)<br>
+2.9% of GDP (2018)<br>
+3% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 60,000 active duty troops (45,000 Army; 7,000 Navy; 8,000 Air Force) (2021)<br>

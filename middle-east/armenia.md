@@ -169,7 +169,7 @@ _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 11.3% (2019)<br>
@@ -182,11 +182,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 84.5% of population<br>
-_improved: total_: total: 93.6% of population<br>
+_improved: rural_: rural: 84.6% of population<br>
+_improved: total_: total: 94.4% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 15.5% of population<br>
-_unimproved: total_: total: 6.4% of population (2017 est.)<br>
+_unimproved: rural_: rural: 15.4% of population<br>
+_unimproved: total_: total: 5.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.2% (2020 est.)<br>
@@ -319,7 +319,7 @@ _residency requirement for naturalization_: 3 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Armen SARKISSIAN (since 9 April 2018)<br>
+_chief of state_: Acting President Alen SIMONYAN (since 1 February 2022); note - President Armen SARKISSIAN's resignation took effect on 1 February 2022<br>
 _head of government_: Prime Minister Nikol PASHINYAN (since 10 September 2021); Deputy Prime Ministers Mher GRIGORYAN (since 3 August 2021) and Hambardzum MATEVOSYAN (since 25 November 2021); note - Prime Minister Nikol PASHINYAN resigned on 25 April 2021; he was reappointed by the president on 2 August 2021 and sworn in on 10 September 2021<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president indirectly elected by the National Assembly in 3 rounds if needed for a single 7-year term; election last held on 2 March 2018; prime minister elected by majority vote in 2 rounds if needed by the National Assembly; election last held 2 August 2021<br>
@@ -660,10 +660,10 @@ Armenian Armed Forces: Armenian Army (includes land, air, air defense forces) (2
 
 **Military expenditures**<br>
 5% of GDP (2020 est.)<br>
-4.3% of GDP (2019)<br>
-4.3% of GDP (2018)<br>
-3.8% of GDP (2017)<br>
-4.1% of GDP (2016)<br>
+5.3% of GDP (2019 est.)<br>
+4.6% of GDP (2018 est.)<br>
+4.4% of GDP (2017 est.)<br>
+4.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2021)<br>

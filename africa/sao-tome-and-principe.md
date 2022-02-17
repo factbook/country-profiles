@@ -165,11 +165,11 @@ _female_: 68.36 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 88.4% of population<br>
-_improved: total_: total: 96.8% of population<br>
+_improved: rural_: rural: 94% of population<br>
+_improved: total_: total: 98.5% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 11.6% of population<br>
-_unimproved: total_: total: 3.2% of population (2017 est.)<br>
+_unimproved: rural_: rural: 6% of population<br>
+_unimproved: total_: total: 1.5% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.5% (2019)<br>
@@ -181,12 +181,12 @@ _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 2.9 beds/1,000 population (2011)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 54.4% of population<br>
-_improved: rural_: rural: 35.3% of population<br>
-_improved: total_: total: 49.1% of population<br>
-_unimproved: urban_: urban: 45.6% of population<br>
-_unimproved: rural_: rural: 64.7% of population<br>
-_unimproved: total_: total: 50.9% of population (2017 est.)<br>
+_improved: urban_: urban: 57.1% of population<br>
+_improved: rural_: rural: 42.8% of population<br>
+_improved: total_: total: 53.4% of population<br>
+_unimproved: urban_: urban: 42.9% of population<br>
+_unimproved: rural_: rural: 57.2% of population<br>
+_unimproved: total_: total: 46.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020)<br>
@@ -595,7 +595,7 @@ _subscriptions per 100 inhabitants_: 79.49 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: local telephone network of adequate quality with most lines connected to digital switches; mobile cellular superior choice to landland; dial-up quality low; broadband expensive (2018)<br>
-_domestic_: fixed-line 2 per 100 and mobile-cellular teledensity 77 telephones per 100 persons (2019)<br>
+_domestic_: fixed-line roughly 1 per 100 and mobile-cellular teledensity roughly 79 telephones per 100 persons (2020)<br>
 _international_: country code - 239; landing points for the Ultramar GE and ACE submarine cables&nbsp;from South Africa&nbsp;to over 20&nbsp;West African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

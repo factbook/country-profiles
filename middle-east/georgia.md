@@ -165,12 +165,12 @@ _female_: 81.52 years (2021 est.)<br>
 40.6% (2018)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 96.2% of population<br>
-_improved: total_: total: 98.4% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 3.8% of population<br>
-_unimproved: total_: total: 1.6% of population (2017 est.)<br>
+_improved: urban_: urban: 99.4% of population<br>
+_improved: rural_: rural: 94.3% of population<br>
+_improved: total_: total: 97.3% of population<br>
+_unimproved: urban_: urban: 0.6% of population<br>
+_unimproved: rural_: rural: 5.7% of population<br>
+_unimproved: total_: total: 2.7% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.7% (2019)<br>
@@ -182,12 +182,12 @@ _unimproved: total_: total: 1.6% of population (2017 est.)<br>
 2.9 beds/1,000 population (2014)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 97% of population<br>
-_improved: rural_: rural: 82.7% of population<br>
-_improved: total_: total: 91.1% of population<br>
-_unimproved: urban_: urban: 3% of population<br>
-_unimproved: rural_: rural: 17.3% of population<br>
-_unimproved: total_: total: 8.9% of population (2017 est.)<br>
+_improved: urban_: urban: 96.3% of population<br>
+_improved: rural_: rural: 72.7% of population<br>
+_improved: total_: total: 86.7% of population<br>
+_unimproved: urban_: urban: 3.7% of population<br>
+_unimproved: rural_: rural: 27.3% of population<br>
+_unimproved: total_: total: 13.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
@@ -674,10 +674,10 @@ Georgian Defense Forces: Land Forces (includes Aviation and Air Defense Forces),
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-2.3% of GDP (2019)<br>
-2.1% of GDP (2018)<br>
-2.1% of GDP (2017)<br>
-2.2% of GDP (2016)<br>
+1.8% of GDP (2019)<br>
+1.9% of GDP (2018)<br>
+1.9% of GDP (2017)<br>
+2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 30,000 troops, including active National Guard forces (2021)<br>

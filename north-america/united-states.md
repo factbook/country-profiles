@@ -29,7 +29,7 @@ about half the size of Russia; about three-tenths the size of Africa; about half
 
 **Land boundaries**<br>
 _total_: 12,002 km<br>
-_border countries_: Canada 8,891 km (including 2,475 km with Alaska), Mexico 3,111 km<br>
+_border countries_: Canada 8891 km (including 2475 km with Alaska), Mexico 3111 km<br>
 <strong>note:</strong> US Naval Base at Guantanamo Bay, Cuba is leased by the US and is part of Cuba; the base boundary is 28.5 km<br>
 
 **Coastline**<br>
@@ -184,12 +184,12 @@ _female_: 82.65 years (2021 est.)<br>
 73.9% (2017/19)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 97% of population<br>
-_improved: total_: total: 99% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 3% of population<br>
-_unimproved: total_: total: 1% of population (2017 est.)<br>
+_improved: urban_: urban: 99.9% of population<br>
+_improved: rural_: rural: 99.7% of population<br>
+_improved: total_: total: 99.9% of population<br>
+_unimproved: urban_: urban: 0.1% of population<br>
+_unimproved: rural_: rural: 0.3% of population<br>
+_unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 16.8% (2019)<br>
@@ -201,12 +201,12 @@ _unimproved: total_: total: 1% of population (2017 est.)<br>
 2.9 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 100% of population<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 0% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: 99.8% of population<br>
+_improved: rural_: rural: 98.9% of population<br>
+_improved: total_: total: 99.7% of population<br>
+_unimproved: urban_: urban: 0.2% of population<br>
+_unimproved: rural_: rural: 11.1% of population<br>
+_unimproved: total_: total: 0.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -625,7 +625,7 @@ _subscriptions per 100 inhabitants_: 134.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a large, technologically advanced, multipurpose communications system; reliable Internet available for most of the population though challenges remain in rural areas and tribal lands; concentration among industry operators; saturated mobile subscriber penetration rate; national LTE-M services with reassignment of 2G spectrum for 5G, centered in urban areas; operators signed alliance to develop 6G in line with technology standards, and government policies; almost all citizens have access to both fixed-line and mobile-broadband services; government fund to connect 5.3 million residences and businesses in rural areas; in pandemic, emergency funding for Internet and devices related to education; cooperative approach to e-commerce, health, education, and energy with smart city technology in several areas; federal subsidies to private satellite Internet constellation with aims for fast, world-wide connections; government policy designated Chinese companies Huawei and ZTE as national security threats and restricted partnership; importer of broadcasting equipment from China with export of same to Hong Kong (2020)<br>
-_domestic_: a large system of fiber-optic cable, microwave radio relay, coaxial cable, and domestic satellites carries every form of telephone traffic; a rapidly growing cellular system carries mobile telephone traffic throughout the country; fixed-line 33 per 100 and mobile-cellular 124 per 100 (2019)<br>
+_domestic_: a large system of fiber-optic cable, microwave radio relay, coaxial cable, and domestic satellites carries every form of telephone traffic; a rapidly growing cellular system carries mobile telephone traffic throughout the country; fixed-line just over 31 per 100 and mobile-cellular over 134 per 100 (2020)<br>
 _international_: country code - 1; landing points for the Quintillion Subsea Cable Network, TERRA SW, AU-Aleutian, KKFL, AKORN, Alaska United -West, &amp; -East &amp; -Southeast, North Star, Lynn Canal Fiber, KetchCar 1, PC-1, SCCN, Tat TGN-Pacific &amp; -Atlantic, Jupiter, Hawaiki, NCP, FASTER, HKA, JUS, AAG, BtoBE, Currie, Southern Cross NEXT, SxS, PLCN, Utility EAC-Pacific, SEA-US, Paniolo Cable Network, HICS, HIFN, ASH, Telstra Endeavor, Honotua, AURORA, ARCOS, AMX-1, Americas -I &amp;&nbsp;-II, Columbus IIb &amp; -III, Maya-1, MAC, GTMO-1, BICS, CFX-1, GlobeNet, Monet, SAm-1, Bahamas 2, PCCS, BRUSA, Dunant, MAREA, SAE x1,&nbsp;TAT 14,&nbsp;Apollo, Gemini Bermuda, Havfrue/AEC-2, Seabras-1,&nbsp;WALL-LI, NYNJ-1, FLAG Atalantic-1, Yellow, Atlantic Crossing-1,&nbsp;AE Connect -1, sea2shore, Challenger Bermuda-1, and&nbsp;GTT Atlantic&nbsp;submarine cable systems providing international connectivity to Europe, Africa,&nbsp;the Middle East, Asia, Southeast Asia, Australia,&nbsp;New Zealand, Pacific, &amp;&nbsp;Atlantic, and Indian Ocean&nbsp;Islands, Central and South America, Caribbean, Canada&nbsp;and US; satellite earth stations - 61 Intelsat (45 Atlantic Ocean and 16 Pacific Ocean), 5 Intersputnik (Atlantic Ocean region), and 4 Inmarsat (Pacific and Atlantic Ocean regions) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -722,14 +722,14 @@ note - the Army National Guard and the Air National Guard are reserve components
 3.3% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the US Armed Forces have approximately 1.4 million active duty personnel (490,000 Army; 350,000 Navy; 330,000 Air Force; 180,000 Marine Corps; 40,000 Coast Guard; 15,000 Space Force); 335,000 Army National Guard; 105,000 Air National Guard (2021)<br>
+the US Armed Forces have approximately 1.4 million active duty personnel (480,000 Army; 350,000 Navy; 335,000 Air Force/Space Force; 180,000 Marine Corps; 40,000 Coast Guard); 335,000 Army National Guard; 105,000 Air National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the US military's inventory is comprised almost entirely of domestically-produced weapons systems (some assembled with foreign components) along with a smaller mix of imported equipment from a variety of Western countries; since 2010, Germany and the UK are the leading suppliers of military hardware; the US defense industry is capable of designing, developing, maintaining, and producing the full spectrum of weapons systems; the US is the world's leading arms exporter (2021)<br>
 
 **Military deployments**<br>
-5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,000 Australia; 1,150 Belgium; 150 Bulgaria; 250 Diego Garcia; 150 Canada; 750 Cuba; 270 Egypt (MFO); 34,000 Germany; 400 Greece; 150 Greenland; 6,000 Guam; 380 Honduras; 12,000 Italy; 54,000 Japan; 630 Kosovo (NATO/KFOR); approximately 10-15,000 assigned with an additional estimated 20-30,000 deployed in the Middle East (includes Bahrain, Iraq, Israel, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, Syria, United Arab Emirates); 400 Netherlands; 700 Norway; 200 Philippines; 4,500 Poland; 250 Portugal; 26,500 Republic of Korea; 1,100 Romania; 200 Singapore; 3,200 Spain; 100 Thailand; 1,700 Turkey; 9,300 United Kingdom (2021)<br>
-note - US military rotational policies affect deployed numbers; for example, the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (3,000-4,000 personnel) for 9 months at a time; contingencies also affect US troop deployments; for example, in 2019, the US deployed more than 15,000 additional military personnel to the Middle East for an extended period of time; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6-7,000 personnel<br>
+5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,700 Australia; 1,150 Belgium; 150 Bulgaria; 250 Diego Garcia; 150 Canada; 650 Cuba (Guatanamo Bay); 290 Egypt (MFO); 35,000 Germany; 400 Greece; 150 Greenland; 6,200 Guam; 370 Honduras; 12,000 Italy; 56,000 Japan; 630 Kosovo (NATO/KFOR); approximately 15,000 assigned with several thousand more deployed on a rotational basis in the Middle East (includes Bahrain, Iraq, Israel, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, Syria, United Arab Emirates); 400 Netherlands; 700 Norway; 125 Philippines; 4,500 Poland; 250 Portugal; 26,500 Republic of Korea; 1,100 Romania; 200 Singapore; 3,200 Spain; 100 Thailand; 1,700 Turkey; 9,500 United Kingdom (2021)<br>
+note - US military rotational policies affect deployed numbers; for example, the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (approximately 3,000 personnel) for 9 months at a time; in 2020-2021, it periodically rotated troops in some eastern European countries; contingencies also affect US troop deployments; in 2019-2020, the US deployed more than 15,000 additional military personnel to the Middle East for an extended period of time; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6-7,000 personnel<br>
 
 **Military service age and obligation**<br>
 18 years of age (17 years of age with parental consent) for male and female voluntary service; no conscription  (currently inactive, but males aged 18-25 must register with Selective Service in case conscription is reinstated in the future); maximum enlistment age 34 (Army), 39 (Air Force), 39 (Navy), 28 (Marines), 31 (Coast Guard); 8-year service obligation, including 2-5 years active duty (Army), 2 years active (Navy), 4 years active (Air Force, Marines, Coast Guard); all military occupations and positions open to women (2021)<br>

@@ -173,8 +173,12 @@ _female_: 75.7 years (2021 est.)<br>
 75% (2010)<br>
 
 **Drinking water source**<br>
-_improved: total_: total: 95.7% of population<br>
-_unimproved: total_: total: 4.3% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 94.2% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 5.8% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 5.4% (2019)<br>
@@ -183,8 +187,12 @@ _unimproved: total_: total: 4.3% of population (2017 est.)<br>
 0.9 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: total_: total: 93.9% of population<br>
-_unimproved: total_: total: 6.4% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 95.8% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 4.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.5% (2020 est.)<br>
@@ -604,7 +612,7 @@ _subscriptions per 100 inhabitants_: 63.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom industry struggling due to political upheaval in the country; poor quality of service in many areas of the country due to decrepit state of fixed-line network and operators&rsquo; inability to pay for equipment from foreign vendors; operator suffering from stolen or damaged infrastructure; many consumers favor mobile service, and cancel their fixed-line services; popularity of social networks caused growth in mobile data traffic; LTE coverage to about half of the population; government launched National Fiber Optic backbone project in 2019; national satellite drifted off course and became non-operational; American company closed a telecom service due to US sanctions and a Chilean company later acquired the service; Internet freedom deteriorating amid crisis, with frequent disruptions to service and monitoring; importer of broadcasting equipment from the USA (2020)<br>
-_domestic_: two domestic satellite systems with three earth stations; recent substantial improvement in telephone service in rural areas; 3 major providers operate in the mobile market and compete with state-owned company; fixed-line 19 per 100 and mobile-cellular telephone subscribership about 58 per 100 persons (2019)<br>
+_domestic_: two domestic satellite systems with three earth stations; recent substantial improvement in telephone service in rural areas; 3 major providers operate in the mobile market and compete with state-owned company; fixed-line over 18 per 100 and mobile-cellular telephone subscribership about 63 per 100 persons (2020)<br>
 _international_: country code - 58; landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, GlobeNet, ALBA-1 and Americas II submarine cable system providing connectivity to the Caribbean, Central and South America, and US; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -682,11 +690,11 @@ Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bol
 note(s) - the Bolivarian Militia was added as a "special component" to the FANB in 2020; the National Guard is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br>the FAES police paramilitary unit was created by President MADURO after the 2017 anti-government protests to fight crime; it has been accused of multiple human rights abuses <br>
 
 **Military expenditures**<br>
-0.4% of GDP (2017)<br>
-0.5% of GDP (2016)<br>
-0.9% of GDP (2015)<br>
-1.1% of GDP (2014)<br>
-1.6% of GDP (2013)<br>
+5.2% of GDP (2019 est.)<br>
+4.4% of GDP (2018 est.)<br>
+2.9% of GDP (2017 est.)<br>
+2.2% of GDP (2016 est.)<br>
+1.8% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 125-150,000 active personnel, including about 25-30,000 National Guard (2021)<br>

@@ -43,7 +43,7 @@ semiarid; warm winters and hot summers<br>
 predominantly flat to gently rolling tableland; Kalahari Desert in southwest<br>
 
 **Elevation**<br>
-_highest point_: Tsodilo Hills 1,489 m<br>
+_highest point_: Manyelanong Hill 1,495 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
 _lowest point_: junction of the Limpopo and Shashe Rivers 513 m<br>
 _mean elevation_: 1,013 m<br>
 
@@ -170,12 +170,12 @@ _female_: 67.32 years (2021 est.)<br>
 67.4% (2017)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 98.2% of population<br>
-_improved: rural_: rural: 94% of population<br>
-_improved: total_: total: 96.9% of population<br>
-_unimproved: urban_: urban: 1.8% of population<br>
+_improved: urban_: urban: 98.1% of population<br>
+_improved: rural_: rural: 96.9% of population<br>
+_improved: total_: total: 99.4% of population<br>
+_unimproved: urban_: urban: 0.2% of population<br>
 _unimproved: rural_: rural: 3.1% of population<br>
-_unimproved: total_: total: 3.8% of population (2017 est.)<br>
+_unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.1% (2019)<br>
@@ -187,12 +187,12 @@ _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 1.8 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 92.9% of population<br>
-_improved: rural_: rural: 60.8% of population<br>
-_improved: total_: total: 82.8% of population<br>
-_unimproved: urban_: urban: 7.1% of population<br>
-_unimproved: rural_: rural: 39.2% of population<br>
-_unimproved: total_: total: 17.2% of population (2017 est.)<br>
+_improved: urban_: urban: 94.9% of population<br>
+_improved: rural_: rural: 63% of population<br>
+_improved: total_: total: 85.6% of population<br>
+_unimproved: urban_: urban: 5.1% of population<br>
+_unimproved: rural_: rural: 37% of population<br>
+_unimproved: total_: total: 14.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 19.9% (2020 est.)<br>
@@ -686,8 +686,8 @@ note - both the armed forces and the Botswana Police Service report to the Minis
 3% of GDP (2020 est.)<br>
 2.8% of GDP (2019)<br>
 2.8% of GDP (2018)<br>
-3% of GDP (2017)<br>
-3.4% of GDP (2016)<br>
+2.9% of GDP (2017)<br>
+3.1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Botswana Defense Force (BDF) has approximately 9,000 active personnel (2021)<br>

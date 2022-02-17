@@ -159,8 +159,12 @@ _female_: 84.89 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: total_: total: 97% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 NA<br>
@@ -169,8 +173,12 @@ NA<br>
 3.06 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
-_improved: total_: total: 97.2% of population<br>
-_unimproved: total_: total: 2.8% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -540,7 +548,7 @@ _subscriptions per 100 inhabitants_: 121.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: small telecom market affected by mismanagement and natural disasters; hurricanes in 2017 and earthquake in 2020 caused destruction of telecom infrastructure, leading to market decline; US provided funds to rebuild after some delay; lags behind US in fixed and broadband penetration due to high unemployment and lack of operator investment; multi-national telcoms enable LTE and launch of 5G; growing number of submarine cables helps to reduce costs and supports streaming of international content and cloud services; operator launched connectivity for school children during pandemic (2020)<br>
-_domestic_: digital telephone system; mobile-cellular services; fixed-line 23 per 100 and mobile-cellular 115 per 100 persons (2019)<br>
+_domestic_: digital telephone system; mobile-cellular services; fixed-line nearly 25 per 100 and mobile-cellular nearly 122 per 100 persons (2020)<br>
 _international_: country code - 1-787, 939; landing points for the GTMO-PR, AMX-1, BRUSA, GCN, PCCS, SAm-1, Southern Caribbean Fiber, Americas-II, Antillas, ARCOS, SMPR-1, and Taino-Carib submarine cables providing connectivity to the mainland US, Caribbean, Central and South America; satellite earth station - 1 Intelsat (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

@@ -170,12 +170,12 @@ _female_: 79.33 years (2021 est.)<br>
 57.1% (2012/13)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 99.2% of population<br>
-_improved: rural_: rural: 97.4% of population<br>
-_improved: total_: total: 98.7% of population<br>
-_unimproved: urban_: urban: 0.8% of population<br>
-_unimproved: rural_: rural: 2.1% of population<br>
-_unimproved: total_: total: 1.1% of population (2017 est.)<br>
+_improved: urban_: urban: 99.6% of population<br>
+_improved: rural_: rural: 98.8% of population<br>
+_improved: total_: total: 99.4% of population<br>
+_unimproved: urban_: urban: 0.4% of population<br>
+_unimproved: rural_: rural: 1.2% of population<br>
+_unimproved: total_: total: 0.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 6.2% (2019)<br>
@@ -187,12 +187,12 @@ _unimproved: total_: total: 1.1% of population (2017 est.)<br>
 1.9 beds/1,000 population (2015)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 96.9% of population<br>
-_improved: rural_: rural: 93.4% of population<br>
-_improved: total_: total: 96% of population<br>
-_unimproved: urban_: urban: 3.1% of population<br>
-_unimproved: rural_: rural: 6.6% of population<br>
-_unimproved: total_: total: 4% of population (2017 est.)<br>
+_improved: urban_: urban: 98.3% of population<br>
+_improved: rural_: rural: 91.3% of population<br>
+_improved: total_: total: 96.5% of population<br>
+_unimproved: urban_: urban: 1.7% of population<br>
+_unimproved: rural_: rural: 8.7% of population<br>
+_unimproved: total_: total: 3.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 <.1% (2020 est.)<br>
@@ -685,8 +685,8 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes coast
 7% of GDP (2020 est.)<br>
 6% of GDP (2019)<br>
 5.5% of GDP (2018)<br>
-5.8% of GDP (2017)<br>
-6.6% of GDP (2016)<br>
+5.5% of GDP (2017)<br>
+6.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 130,000 ANP personnel (110,000 Army; 6,000 Navy; 14,000 Air Force); approximately 130-140,000 National Gendarmerie; approximately 200,000 General Directorate of National Security (2021)<br>

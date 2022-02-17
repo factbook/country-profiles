@@ -171,11 +171,11 @@ _female_: 80.87 years (2021 est.)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 83.5% of population<br>
-_improved: total_: total: 94% of population<br>
+_improved: rural_: rural: 87.1% of population<br>
+_improved: total_: total: 95.4% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 16.2% of population<br>
-_unimproved: total_: total: 6% of population (2017 est.)<br>
+_unimproved: rural_: rural: 12.9% of population<br>
+_unimproved: total_: total: 4.6% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 7.8% (2019)<br>
@@ -188,11 +188,11 @@ _unimproved: total_: total: 6% of population (2017 est.)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
-_improved: rural_: rural: 91.9% of population<br>
-_improved: total_: total: 97.1% of population<br>
+_improved: rural_: rural: 96.9% of population<br>
+_improved: total_: total: 98.9% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
-_unimproved: rural_: rural: 8.1% of population<br>
-_unimproved: total_: total: 2.1% of population (2017 est.)<br>
+_unimproved: rural_: rural: 3.1% of population<br>
+_unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
@@ -703,7 +703,7 @@ note - the National Police of Ecuador (Polic&iacute;a Nacional del Ecuador) is u
 
 **Military expenditures**<br>
 2.3% of GDP (2020 est.)<br>
-2.3% of GDP (2019)<br>
+2.2% of GDP (2019)<br>
 2.4% of GDP (2018)<br>
 2.4% of GDP (2017)<br>
 2.5% of GDP (2016)<br>

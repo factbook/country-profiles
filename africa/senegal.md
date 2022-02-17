@@ -176,12 +176,12 @@ _female_: 66.14 years (2021 est.)<br>
 26.9% (2019)<br>
 
 **Drinking water source**<br>
-_improved: urban_: urban: 92.3% of population<br>
-_improved: rural_: rural: 74.5% of population<br>
-_improved: total_: total: 83.3% of population<br>
-_unimproved: urban_: urban: 6.7% of population<br>
-_unimproved: rural_: rural: 25.5% of population<br>
-_unimproved: total_: total: 16.7% of population (2017 est.)<br>
+_improved: urban_: urban: 95.9% of population<br>
+_improved: rural_: rural: 79.3% of population<br>
+_improved: total_: total: 87.3% of population<br>
+_unimproved: urban_: urban: 4.1% of population<br>
+_unimproved: rural_: rural: 20.7% of population<br>
+_unimproved: total_: total: 12.7% of population (2020 est.)<br>
 
 **Current Health Expenditure**<br>
 4.1% (2019)<br>
@@ -190,12 +190,12 @@ _unimproved: total_: total: 16.7% of population (2017 est.)<br>
 0.07 physicians/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 91.2% of population<br>
-_improved: rural_: rural: 48.5% of population<br>
-_improved: total_: total: 68.4% of population<br>
-_unimproved: urban_: urban: 8.8% of population<br>
-_unimproved: rural_: rural: 51.5% of population<br>
-_unimproved: total_: total: 31.6% of population (2017 est.)<br>
+_improved: urban_: urban: 94.1% of population<br>
+_improved: rural_: rural: 55.5% of population<br>
+_improved: total_: total: 74.1% of population<br>
+_unimproved: urban_: urban: 5.9% of population<br>
+_unimproved: rural_: rural: 44.5% of population<br>
+_unimproved: total_: total: 25.9% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.3% (2020 est.)<br>
@@ -630,7 +630,7 @@ _subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: universal mobile penetration since 2019; mobile broadband accounts for 97% of Internet access; 3G and LTE services for half of the population; African consortium issued a bond to finance network upgrades and services; importer of broadcasting equipment from UAE and China (2020)<br>
-_domestic_: generally reliable urban system with a fiber-optic network; about two-thirds of all fixed-line connections are in Dakar; mobile-cellular service is steadily displacing fixed-line service, even in urban areas; fixed-line 1 per 100 and mobile-cellular 110 per 100 persons (2019)<br>
+_domestic_: generally reliable urban system with a fiber-optic network; about two-thirds of all fixed-line connections are in Dakar; mobile-cellular service is steadily displacing fixed-line service, even in urban areas; fixed-line roughly 1 per 100 and mobile-cellular 114 per 100 persons (2020)<br>
 _international_: country code - 221; landing points for the ACE, Atlantis-2, MainOne and SAT-3/WASC submarine cables providing connectivity from South Africa, numerous western African countries, Europe and South America;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -707,7 +707,7 @@ note - the National Police operates in major cities, while the Gendarmerie prima
 1.5% of GDP (2019 est.)<br>
 1.6% of GDP (2018)<br>
 1.5% of GDP (2017)<br>
-1.6% of GDP (2016)<br>
+1.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2021)<br>
