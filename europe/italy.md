@@ -712,12 +712,12 @@ approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Fo
 **Military equipment inventories and acquisitions**<br>
 the Italian Armed Forces' inventory includes a mix of domestically-produced, jointly-produced, and imported European and US weapons systems; the US is the leading supplier of weapons to Italy since 2010, followed by Germany; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in naval vessels and aircraft; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2021)<br>
 
-**Military deployments**<br>
-120 Djibouti; 1,100 Middle East/Iraq/Kuwait (NATO, counter-ISIS campaign, European Assistance Mission Iraq); 630 Kosovo (NATO/KFOR); 200 Latvia (NATO); 900 Lebanon (UNIFIL); 400 Libya; 290 Niger; 150 Somalia (EUTM) (2021)<br>
-
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; women may serve in any military branch; Italian citizenship required; 1-year service obligation; conscription abolished 2004 (2021)<br>
 note - as of 2019, women made up about 6% of the military's full-time personnel<br>
+
+**Military deployments**<br>
+120 Djibouti; 1,100 Middle East/Iraq/Kuwait (NATO, counter-ISIS campaign, European Assistance Mission Iraq); 630 Kosovo (NATO/KFOR); 200 Latvia (NATO); 900 Lebanon (UNIFIL); 400 Libya; 290 Niger; 150 Somalia (EUTM) (2021)<br>
 
 **Military - note**<br>
 Italy is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>Italy is an active participant in EU, NATO, UN, and other multinational military, security, and humanitarian operations abroad; as of 2021, it hosted the headquarters for the EU’s Mediterranean naval operations force (EUNAVFOR-MED) in Rome and the US Navy’s 6th Fleet in Naples; Italy was admitted to the UN in 1955 and in 1960 participated in its first UN peacekeeping mission, the UN Operation in Congo (ONUC); since 1960, it has committed more than 60,000 troops to UN missions, and as of 2021, was the top supplier of military and police forces among Western and EU nations to UN peacekeeping operations; since 2006, Italy has hosted a training center in Vicenza for police personnel destined for peacekeeping missions</p><br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 594,172 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
+<strong>note:</strong> 595,820 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

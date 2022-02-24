@@ -683,7 +683,7 @@ _unpaved_: 17,000 km (2017)<br>
 1,200 km (chiefly Amu Darya, which handles vessels up to 500 DWT) (2011)<br>
 
 **Ports and terminals**<br>
-_river port(s)_: Kheyrabad, Shir Khan<br>
+_river port(s)_: Hairatan, Qizil Qal`ah (Amu Darya)<br>
 
 ## Military and Security
 

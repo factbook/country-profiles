@@ -694,13 +694,13 @@ the Portuguese Armed Forces have approximately 27,000 active duty personnel (14,
 **Military equipment inventories and acquisitions**<br>
 the Portuguese Armed Forces inventory includes mostly European and US-origin weapons systems along with a smaller mix of domestically-produced equipment; since 2010, Germany and the US are the leading suppliers of armaments to Portugal; Portugal's defense industry is primarily focused on shipbuilding (2021)<br>
 
-**Military deployments**<br>
-200 Central African Republic (MINUSCA/EUTM); up to 120 Baltic States (NATO) (2021)<br>
-note - in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br>
-
 **Military service age and obligation**<br>
 18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004), but conscription possible if insufficient volunteers available; women serve in the armed forces, on naval ships since 1992, but are prohibited from serving in some combatant specialties; contract service lasts for an initial period from two to six years, and can be extended to a maximum of 20 years of service; voluntary military service lasts 12 months; reserve obligation to age 35 (2021)<br>
 note - as of 2019, women made up about 12% of the military's full-time personnel<br>
+
+**Military deployments**<br>
+200 Central African Republic (MINUSCA/EUTM); up to 120 Baltic States (NATO) (2021)<br>
+note - in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br>
 
 **Military - note**<br>
 Portugal is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>

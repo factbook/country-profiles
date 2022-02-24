@@ -725,17 +725,17 @@ information varies; approximately 165,000 total active personnel (135,000 Army; 
 **Military equipment inventories and acquisitions**<br>
 the Bangladesh Defense Force inventory is comprised of mostly Chinese and Russian equipment; since 2010, China is the leading supplier of arms to Bangladesh; as of 2021, Bangladesh was undertaking a large defense modernization program, with a focus on naval acquisitions (2021)<br>
 
-**Military deployments**<br>
-Bangladesh is one of the leading contributors to UN peacekeeping missions since it joined the UN in 1974; as of mid-2021, it had over 5,500 troops deployed, including: 1,325 Central African Republic (MINUSCA); 1,625 Democratic Republic of the Congo (MONUSCO; plus about 175 police); 120 Lebanon (UNIFIL); 1,100 Mali (MINUSMA; plus about 280 police); 1,625 South Sudan (UNMISS) (Oct 2021)<br>
-
-**Maritime threats**<br>
-the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; attacks increased in 2020 when four ships were boarded as opposed to no attacks in 2019<br>
-
 **Military service age and obligation**<br>
 16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2021)<br>
 
+**Military deployments**<br>
+Bangladesh is one of the leading contributors to UN peacekeeping missions since it joined the UN in 1974; as of mid-2021, it had over 5,500 troops deployed, including: 1,325 Central African Republic (MINUSCA); 1,625 Democratic Republic of the Congo (MONUSCO; plus about 175 police); 120 Lebanon (UNIFIL); 1,100 Mali (MINUSMA; plus about 280 police); 1,625 South Sudan (UNMISS) (Oct 2021)<br>
+
 **Military - note**<br>
 <p>as of 2021, the military’s chief areas of focus were border, economic exclusion zone, and domestic security; the Army maintained a large domestic security presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; since 2009, the military has been in a force-wide expansion and modernization program known as Forces Goal 2030</p><br>
+
+**Maritime threats**<br>
+the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; attacks increased in 2020 when four ships were boarded as opposed to no attacks in 2019<br>
 
 ## Terrorism
 

@@ -522,6 +522,9 @@ _by type_: bulk carrier 12,319, container ship 5,428, general cargo 18,993, oil 
 2.2% of GDP (2017 est.)<br>
 2.25% of GDP (2016 est.)<br>
 
+**Military equipment inventories and acquisitions**<br>
+from 2010-2020, the US was assessed to be the world's leading arms exporter, followed by Russia; India and Saudi Arabia were the top arms importers for the same period<br>
+
 **Military deployments**<br>
 as of September 2021, the UN had about 76,000 peacekeepers deployed worldwide<br>
 note - in 2020, out of approximately 95,000 peacekeepers, women constituted almost 5% of UN military contingents and nearly 11% of formed UN police units<br>

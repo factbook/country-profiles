@@ -722,6 +722,6 @@ the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a small
 <p>the location of the boundary in the broad Congo River with the Democratic Republic of the Congo is undefined except in the Pool Malebo/Stanley Pool area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 28,894 (Central African Republic), 23,745 (Democratic Republic of the Congo) (refugees and asylum seekers)(2021)<br>
+_refugees (country of origin)_: 28,940 (Central African Republic), 23,746 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 304,430 (multiple civil wars since 1992) (2021)<br>
 

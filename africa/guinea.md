@@ -723,11 +723,11 @@ Guinean National Armed Forces are comprised of approximately 12,000 active perso
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Guinean military consists largely of ageing and outdated (mostly Soviet-era) equipment; since 2010, it has received small amounts of equipment from France, Russia, and South Africa (2021)<br>
 
-**Military deployments**<br>
-660 Mali (MINUSMA) (Oct 2021)<br>
-
 **Military service age and obligation**<br>
 Voluntary and selective conscripted service, 9-24 mos (2021)<br>
+
+**Military deployments**<br>
+660 Mali (MINUSMA) (Oct 2021)<br>
 
 **Military - note**<br>
 <p>the Army is responsible for external defense, but also has some domestic security responsibilities; piracy and natural resource protection in the Gulf of Guinea are key areas of concern for the small Navy, which possesses only a few patrol boats</p><br>

@@ -288,7 +288,7 @@ _conventional long form_: none<br>
 _conventional short form_: Malaysia<br>
 _local long form_: none<br>
 _local short form_: Malaysia<br>
-_former_: Federation of Malaya<br>
+_former_: British Malaya, Malayan Union, Federation of Malaya<br>
 _etymology_: the name means "Land of the Malays"<br>
 
 **Government type**<br>
@@ -706,18 +706,18 @@ the Malaysian Armed Forces have approximately 115,000 active duty troops (80,000
 **Military equipment inventories and acquisitions**<br>
 the Malaysian Armed Forces field a diverse mix of mostly older imported weapons systems; the top suppliers of military hardware since 2010 include France, Germany, Spain, and Turkey (2021)<br>
 
-**Military deployments**<br>
-880 Lebanon (UNIFIL) (Oct 2021)<br>
-
-**Maritime threats**<br>
-<p>the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; the Singapore Straits saw 23 attacks against commercial vessels in 2020, vessels were boarded in 22 of the 23 incidents, one crew was injured, another taken hostage and two threatened during these incidents</p><br>
-
 **Military service age and obligation**<br>
 17 years 6 months of age for voluntary military service (younger with parental consent and proof of age); mandatory retirement age 60; women serve in the Malaysian Armed Forces; no conscription (2021)<br>
 note - in 2020, the Malaysian Armed Forces announced a goal of having 10% of the active military comprised of women<br>
 
+**Military deployments**<br>
+880 Lebanon (UNIFIL) (Oct 2021)<br>
+
 **Military - note**<br>
 <p>maritime security has long been a top priority for the Malaysian Armed Forces, but it has received even greater emphasis in the 2000s, particularly anti-piracy operations in the Strait of Malacca and countering Chinese naval incursions in Malaysia’s Economic Exclusion Zone, as well as addressing identified shortfalls in maritime capabilities; as such, it has undertaken modest efforts to procure more modern ships, improve air and maritime surveillance, expand the Navy’s support infrastructure (particularly bases/ports) and domestic ship-building capacities, restructure naval command and control, and increase naval cooperation with regional and international partners; as of 2021, for example, the Navy had 6 frigates fitting out or under construction and scheduled for completion by 2023, which will increase the number of operational frigates from 2 to 8; in addition, it began tri-lateral air and naval patrols with Indonesia and the Philippines in 2017; Malaysia also cooperates closely with the US military, including on maritime surveillance and participating regularly in bilateral and multilateral training exercises</p><br>
+
+**Maritime threats**<br>
+<p>the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; the Singapore Straits saw 23 attacks against commercial vessels in 2020, vessels were boarded in 22 of the 23 incidents, one crew was injured, another taken hostage and two threatened during these incidents</p><br>
 
 ## Terrorism
 

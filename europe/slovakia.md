@@ -686,12 +686,12 @@ the Armed Forces of the Slovak Republic have approximately 13,000 active duty pe
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Slovakian military consists mostly of Soviet-era platforms; since 2010, it has imported limited quantities of equipment from China, Czechia, Italy, Russia, and the US (2021)<br>
 
-**Military deployments**<br>
-240 Cyprus (UNFICYP); up to 175 Latvia (NATO) (2021)<br>
-
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service; conscription in peacetime suspended in 2004; women are eligible to serve (2021)<br>
 note - as of 2019, women made up around 12% of the military's full-time personnel<br>
+
+**Military deployments**<br>
+240 Cyprus (UNFICYP); up to 175 Latvia (NATO) (2021)<br>
 
 **Military - note**<br>
 Slovakia officially became a member of NATO in 2004<br>

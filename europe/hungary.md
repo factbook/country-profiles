@@ -713,12 +713,12 @@ note - in 2017, Hungary announced plans to increase the number of active soldier
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Hungarian Defense Forces consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; since 2010, Hungary has received limited quantities of equipment from several European countries and the US (2021)<br>
 
-**Military deployments**<br>
-160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (counter-ISIS coalition); 430 Kosovo (NATO/KFOR) (2021)<br>
-
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2021)<br>
 note - as of 2019, women comprised approximately 20% of Hungary's full-time military personnel<br>
+
+**Military deployments**<br>
+160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (counter-ISIS coalition); 430 Kosovo (NATO/KFOR) (2021)<br>
 
 **Military - note**<br>
 Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>

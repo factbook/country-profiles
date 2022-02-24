@@ -317,6 +317,7 @@ _conventional long form_: United Mexican States<br>
 _conventional short form_: Mexico<br>
 _local long form_: Estados Unidos Mexicanos<br>
 _local short form_: Mexico<br>
+_former_: Mexican Republic, Mexican Empire<br>
 _etymology_: named after the capital city, whose name stems from the Mexica, the largest and most powerful branch of the Aztecs; the meaning of the name is uncertain<br>
 
 **Government type**<br>

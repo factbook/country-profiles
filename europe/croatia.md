@@ -726,7 +726,7 @@ Croatia officially became a member of NATO in 2009<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 2,910 (mid-year 2021)<br>
-<strong>note: </strong>735,873 estimated refugee and migrant arrivals (January 2015-December 2021); flows slowed considerably in 2017; Croatia is predominantly a transit country and hosts about 340 asylum seekers as of the end of June 2018<br>
+<strong>note: </strong>736,622 estimated refugee and migrant arrivals (January 2015-January 2022); flows slowed considerably in 2017; Croatia is predominantly a transit country and hosts about 340 asylum seekers as of the end of June 2018<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p> <p> </p><br>

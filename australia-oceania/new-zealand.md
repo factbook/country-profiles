@@ -688,12 +688,12 @@ the New Zealand Defense Force (NZDF) has about 9,600 active duty troops (4,700 A
 **Military equipment inventories and acquisitions**<br>
 NZDF is equipped mostly with imported weapons and equipment from Western suppliers; Australia, France, and the US are the leading suppliers since 2010 (2021)<br>
 
-**Military deployments**<br>
-up to 220 Antarctica (summer season only) (2021)<br>
-
 **Military service age and obligation**<br>
 17 years of age for voluntary military service (men and women); soldiers cannot be deployed until the age of 18; no conscription (2021)<br>
 note - New Zealand opened up all military occupations to women in 2000; in 2019, women accounted for about 18% of the uniformed full-time personnel<br>
+
+**Military deployments**<br>
+up to 220 Antarctica (summer season only) (2021)<br>
 
 **Military - note**<br>
 <p>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s<br><br>New Zealand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br></p> <p> </p><br>

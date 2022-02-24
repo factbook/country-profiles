@@ -698,7 +698,7 @@ approximately 75,000 active armed forces personnel (45,000 Army; 20,000 Navy; 10
 the Chilean military inventory is comprised of a wide mix of mostly Western equipment and some domestically-produced systems; since 2010, it has received military hardware from nearly 15 countries, including Australia, France, Germany, the Netherlands, and the US; Chile's defense industry has capabilities in military aircraft, ships, and vehicles (2021)<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for voluntary male and female military service; selective compulsory service (18-45); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2021)<br>
+18-45 years of age for voluntary male and female military service; selective compulsory service (there are usually enough volunteers to make compulsory service unnecessary); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2021)<br>
 note - as of 2021, women comprised approximately 18% of the armed forces<br>
 
 **Military - note**<br>

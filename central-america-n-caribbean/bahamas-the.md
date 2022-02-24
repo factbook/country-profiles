@@ -628,6 +628,7 @@ Royal Bahamas Defense Force: includes land, air, maritime elements (2021)<br>
 0.9% of GDP (2020)<br>
 0.7% of GDP (2019)<br>
 0.7% of GDP (2018)<br>
+0.7% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Bahamas Defense Force (RBDF) has approximately 1,500 total personnel (2021)<br>

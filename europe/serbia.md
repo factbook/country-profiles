@@ -708,12 +708,12 @@ information varies; approximately 25,000 active duty troops (15,000 Land Forces;
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Serbian Armed Forces consists of Russian and Soviet-era weapons systems; since 2010, most of its weapons imports have come from Russia (2021)<br>
 
-**Military deployments**<br>
-175 Lebanon (UNIFIL) (Oct 2021)<br>
-
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished January 2011 (2021)<br>
 note - as of 2019, women made up about 6% of the military's full-time personnel<br>
+
+**Military deployments**<br>
+175 Lebanon (UNIFIL) (Oct 2021)<br>
 
 **Military - note**<br>
 <p>Serbia does not aspire to join NATO, but has cooperated with the Alliance since 2006 when it joined the Partnership for Peace program</p><br>
@@ -727,7 +727,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 _refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 817,395 estimated refugee and migrant arrivals (January 2015-February 2022); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
+<strong>note:</strong> 818,576 estimated refugee and migrant arrivals (January 2015-February 2022); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

@@ -691,11 +691,11 @@ the Rwanda Defense Force (RDF) has approximately 33,000 active personnel (32,000
 **Military equipment inventories and acquisitions**<br>
 the RDF's inventory includes mostly Soviet-era and older Western - largely French and South African - equipment; Rwanda has received a limited supply of imports since 2010 from a variety of countries, including China, Israel, Russia, and Turkey (2021)<br>
 
-**Military deployments**<br>
-2,250 Central African Republic (approximately 1,500 for MINUSCA; an additional 750 sent bilaterally in August, 2021); 1,000 Mozambique (deployed mid-2021 to assist with combating insurgency); 2,600 South Sudan (UNMISS) (Oct 2021)<br>
-
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (men and women); no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2021)<br>
+
+**Military deployments**<br>
+2,250 Central African Republic (approximately 1,500 for MINUSCA; an additional 750 sent bilaterally in August, 2021); 1,000 Mozambique (deployed mid-2021 to assist with combating insurgency); 2,600 South Sudan (UNMISS) (Oct 2021)<br>
 
 **Military - note**<br>
 <p>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of late 2021, over 5,000 RDF personnel were deployed on missions in the African countries of the Central African Republic, Mozambique, and South Sudan</p><br>
@@ -706,6 +706,6 @@ the RDF's inventory includes mostly Soviet-era and older Western - largely Frenc
 <p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; fighting among ethnic groups - loosely associated political rebels, armed gangs, and various government forces in Great Lakes region transcending the boundaries of Burundi, Democratic Republic of the Congo (DROC), Rwanda, and Uganda - abated substantially from a decade ago due largely to UN peacekeeping, international mediation, and efforts by local governments to create civil societies; nonetheless, 57,000 Rwandan refugees still reside in 21 African states, including Zambia, Gabon, and 20,000 who fled to Burundi in 2005 and 2006 to escape drought and recriminations from traditional courts investigating the 1994 massacres; the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,116 (Democratic Republic of the Congo) (2021); 47,851 (Burundi) (2022)<br>
+_refugees (country of origin)_: 77,116 (Democratic Republic of the Congo) 47,851 (Burundi) (2022)<br>
 _stateless persons_: 9,500 (mid-year 2021)<br>
 

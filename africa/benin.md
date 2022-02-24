@@ -45,7 +45,7 @@ tropical; hot, humid in south; semiarid in north<br>
 mostly flat to undulating plain; some hills and low mountains<br>
 
 **Elevation**<br>
-_highest point_: unnamed elevation located 2.5 km southeast of the town of Kotoponga 675 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
+_highest point_: unnamed elevation located 2.5 km southeast of the town of Kotopounga 675 m<br>note - the Factbook map is incorrect; it shows the wrong high elevation<br>
 _lowest point_: Atlantic Ocean 0 m<br>
 _mean elevation_: 273 m<br>
 
@@ -699,22 +699,22 @@ the Benin Armed Forces (FAB) are comprised of approximately 7,000 active duty tr
 **Military equipment inventories and acquisitions**<br>
 the FAB is equipped with a small mix of mostly older French and Soviet-era equipment (2021)<br>
 
+**Military service age and obligation**<br>
+18-35 years of age for selective compulsory and voluntary military service; a higher education diploma is required; both sexes are eligible for military service; conscript tour of duty - 18 months (2021)<br>
+
 **Military deployments**<br>
 260 Mali (MINUSMA) (Oct 2021)<br>
+
+**Military - note**<br>
+as of 2021, Benin participated in the Multinational Joint Task Force (MNJTF) against the terrorist group Boko Haram (see Appendix T) along with Cameroon, Chad, Niger, and Nigeria; the Benin military contingent is in charge of MNJTF garrison duties<br> <p>as of 2021, the FAB had a close working relationship with the Belgian armed forces; the Belgians offered advice, training, and secondhand equipment donations, and deployed to Benin for limited military exercises</p><br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.”</p><br>
 
-**Military service age and obligation**<br>
-18-35 years of age for selective compulsory and voluntary military service; a higher education diploma is required; both sexes are eligible for military service; conscript tour of duty - 18 months (2021)<br>
-
-**Military - note**<br>
-as of 2021, Benin participated in the Multinational Joint Task Force (MNJTF) against Boko Haram along with Cameroon, Chad, Niger, and Nigeria; the Benin military contingent is in charge of MNJTF garrison duties<br> <p>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer advice, training, and secondhand equipment donations, and deploy to Benin for limited military exercises</p><br>
-
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Greater Sahara<br>
+al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Greater Sahara; Boko Haram<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

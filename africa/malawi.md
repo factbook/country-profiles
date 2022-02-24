@@ -708,11 +708,11 @@ information varies; approximately 8,000 total personnel (including about 200 air
 **Military equipment inventories and acquisitions**<br>
 the Malawi Defense Force inventory is comprised of mostly obsolescent or second-hand equipment from Europe and South Africa; since 2010, it has taken deliveries of limited amounts of mostly second-hand equipment from China, South Africa, and the UK, as well as non-lethal equipment donated by the US (2021)<br>
 
-**Military deployments**<br>
-700 Democratic Republic of the Congo (MONUSCO) (Oct 2021)<br>
-
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (men and women); high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2021)<br>
+
+**Military deployments**<br>
+700 Democratic Republic of the Congo (MONUSCO) (Oct 2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, the Malawi Defense Force’s primary responsibility was external security; it was also tasked as necessary with carrying out policing or other domestic activities, such as disaster relief; Malawi contributes regularly to African Union and UN peace support operations</p><br>
@@ -723,5 +723,5 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,451 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,169 (Burundi) (refugees and asylum seekers), 7,407 (Rwanda) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 12,169 (Burundi) (refugees and asylum seekers), 7,407 (Rwanda) (refugees and asylum seekers) (2021); 32,843 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 

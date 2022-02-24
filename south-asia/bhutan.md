@@ -614,7 +614,7 @@ _urban_: 437 km (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bhutan Army (includes Royal Bodyguard, an air wing); National Militia; Ministry of Home and Cultural Affairs: Royal Bhutan Police (2021)<br>
+Royal Bhutan Army (includes Royal Bodyguard and an air wing); National Militia; Ministry of Home and Cultural Affairs: Royal Bhutan Police (2021)<br>
 note - the Royal Bhutan Police (RBP) agency is responsible for internal security; the Army is responsible for external threats but also has responsibility for some internal security functions, including conducting counterinsurgency operations, guarding forests, and providing security for prominent persons<br>
 
 **Military and security service personnel strengths**<br>

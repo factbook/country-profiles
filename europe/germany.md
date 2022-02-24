@@ -716,12 +716,12 @@ note - Germany in 2020 announced it planned to increase the size of the military
 **Military equipment inventories and acquisitions**<br>
 the German Federal Armed Forces inventory is mostly comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters (2021)<br>
 
-**Military deployments**<br>
-approximately 500 Middle East (NATO/Counter-ISIS campaign); 130 Lebanon (UNIFIL); 600 Lithuania (NATO); approximately 1,400 Mali (MINUSMA/EUTM); note - Germany is a contributing member of the EuroCorps (2021)<br>
-
 **Military service age and obligation**<br>
 17-23 years of age for male and female voluntary military service (must have completed compulsory full-time education and have German citizenship); conscription ended July 2011; service obligation 7-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2021)<br>
 note - in 2021, women accounted for about 12% of the German military<br>
+
+**Military deployments**<br>
+approximately 500 Middle East (NATO/Counter-ISIS campaign); 130 Lebanon (UNIFIL); 600 Lithuania (NATO); approximately 1,400 Mali (MINUSMA/EUTM); note - Germany is a contributing member of the EuroCorps (2021)<br>
 
 **Military - note**<br>
 the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br> <p>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group (2021)</p><br>

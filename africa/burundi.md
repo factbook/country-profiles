@@ -678,16 +678,16 @@ National Defense Forces (Forces de Defense Nationale, FDN): Army (includes marit
 2.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the National Defense Forces (FDN) have approximately 25,000 active duty troops, the majority of which are ground forces (2021)<br>
+approximately 25,000 active duty troops, the majority of which are ground forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FDN is armed mostly with weapons from Russia and the former Soviet Union, with some Western equipment, largely from France; since 2010, the FDN has received small amounts of mostly second-hand equipment from China, South Africa, and the US (2021)<br>
 
+**Military service age and obligation**<br>
+18 years of age for voluntary military service (2021)<br>
+
 **Military deployments**<br>
 750 Central African Republic (MINUSCA); 5,400 Somalia (AMISOM) (Oct 2021)<br>
-
-**Military service age and obligation**<br>
-18 years of age for voluntary military service; the armed forces law of 31 December 2004 did not specify a minimum age for enlistment, but the government claimed that no one younger than 18 was being recruited (2021)<br>
 
 **Military - note**<br>
 in addition to its foreign deployments, the FDN as of 2021 was focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); these groups were based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi<br>
@@ -698,7 +698,7 @@ in addition to its foreign deployments, the FDN as of 2021 was focused on intern
 <p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 84,701 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 84,961 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 109,169 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1,993 coup and fighting between government forces and rebel groups; violence since April 2015) (2021)<br>
 _stateless persons_: 767 (mid-year 2021)<br>
 

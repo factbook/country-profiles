@@ -716,13 +716,13 @@ the South African National Defence Force (SANDF) is comprised of approximately 7
 **Military equipment inventories and acquisitions**<br>
 the SANDF's inventory consists of a mix of domestically-produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly-produced with foreign companies), while the Air Force and Navy inventories include a mix of European, Israeli, and US-origin weapons systems; since 2010, Sweden is the largest supplier of weapons to the SANDF (2021)<br>
 
-**Military deployments**<br>
-950 Democratic Republic of the Congo (MONUSCO) (Oct 2021)<br>
-note - in 2021, South Africa sent a contingent of about 1,500 troops to Mozambique as part of a Southern African Development Community (SADC) force to help quell an insurgency<br>
-
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service; women are eligible to serve in noncombat roles; 2-year service obligation (2021)<br>
 note - in 2019, women comprised about 30% of the SANDF<br>
+
+**Military deployments**<br>
+950 Democratic Republic of the Congo (MONUSCO) (Oct 2021)<br>
+note - in 2021, South Africa sent a contingent of about 1,500 troops to Mozambique as part of a Southern African Development Community (SADC) force to help quell an insurgency<br>
 
 **Military - note**<br>
 <p>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands</p> <p>as of 2021, the SANDF was one of Africa’s most capable militaries; it participated regularly in African and UN peacekeeping missions and had the ability to independently deploy throughout Africa; over the past decade, however, its operational readiness and modernization programs have been hampered by funding shortfalls</p><br>
@@ -739,7 +739,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration; the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,054 (Somalia), 15,629 (Ethiopia) (mid-year 2021); 57,595 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 23,054 (Somalia), 15,629 (Ethiopia) (mid-year 2021); 57,595 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 5,000 (2020)<br>
 
 **Illicit drugs**<br>

@@ -350,7 +350,7 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Lt. Col. Paul-Henri Sandaogo DAMIBA (since 24 January 2022); note - on 24 January 2022, a military junta led by DAMIBA, leader of the Patriotic Movement for Safeguard and Restoration, took power and ousted President Roch Marc Christian KABORE (since 22 November 2020)<br>
+_chief of state_: Lt. Col. Paul-Henri Sandaogo DAMIBA (since 16 February 2022); note - on 24 January 2022, a military junta led by DAMIBA, leader of the Patriotic Movement for Safeguard and Restoration, took power and ousted President Roch Marc Christian KABORE (since 22 November 2020)<br>
 _head of government_: Prime Minister (vacant); note - the tenure of Prime Minister Lassina ZERBO (since 10 December 2021) ended on 24 January 2022 when the military, led by Lt. Col. Paul-Henri Sandaogo DAMIBA, seized power (2021)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second); last held on 22 November 2020 (next to be held in November 2025); prime minister appointed by the president with consent of the National Assembly<br>
@@ -700,12 +700,12 @@ the Armed Forces of Burkina Faso (FABF) have approximately 12,000 personnel (7,0
 **Military equipment inventories and acquisitions**<br>
 the FABF has a mix of foreign-supplied weapons; since 2010, it has received limited amounts of mostly donated second-hand equipment from more than 10 countries (2021)<br>
 
+**Military service age and obligation**<br>
+18 years of age for voluntary military service; no conscription; women may serve in supporting roles (2021)<br>
+
 **Military deployments**<br>
 900 Mali (MINUSMA) (Oct 2021)<br>
 note - Burkina Faso is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Chad, Mali, Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries<br>
-
-**Military service age and obligation**<br>
-18 years of age for voluntary military service; no conscription; women may serve in supporting roles (2021)<br>
 
 **Military - note**<br>
 including the most recent in January 2022, the military has conducted 7 coups since 1960; as of 2022, the military&nbsp; was also actively engaged in combat operations with terrorist groups linked to al-Qa'ida and ISIS; since 2016, military counter-terrorism operations have occurred in the Centre‐Est, Centre‐Nord, Est, Nord, and Sahel administrative regions (2021)<br>

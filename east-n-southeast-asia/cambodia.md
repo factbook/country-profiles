@@ -715,12 +715,12 @@ information varies; approximately 100,000 total active troops including about 3,
 **Military equipment inventories and acquisitions**<br>
 the Royal Cambodian Armed Forces are armed largely with older Chinese and Russian-origin equipment; it has received limited amounts of more modern (mostly second-hand) equipment since 2010 with China as the principal provider (2021)<br>
 
-**Military deployments**<br>
-200 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL); 330 Mali (MINUSMA) (Oct 2021)<br>
-
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory and voluntary military service (conscription only selectively enforced since 1993); women may volunteer (2021)<br>
 note - in 2018, women made up an estimated 6% of the active duty military<br>
+
+**Military deployments**<br>
+200 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL); 330 Mali (MINUSMA) (Oct 2021)<br>
 
 **Military - note**<br>
 <p>the Royal Cambodian Armed Forces (RCAF) was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999</p> <p> </p><br>

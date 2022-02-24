@@ -708,12 +708,12 @@ information varies; approximately 21,500 active personnel (19,000 Land Forces; 1
 **Military equipment inventories and acquisitions**<br>
 the Guatemalan military inventory is small and mostly comprised of older US equipment; since 2010, Guatemala has received small amounts of equipment from Canada, Colombia, Spain, Taiwan, and the US (2021)<br>
 
-**Military deployments**<br>
-155 Democratic Republic of the Congo (MONUSCO) (Oct 2021)<br>
-
 **Military service age and obligation**<br>
 all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds conscripted; conscript service obligation varies from 1 to 2 years; women may volunteer (2021)<br>
 note - as of 2017, women made up an estimated 5-10% of the active military<br>
+
+**Military deployments**<br>
+155 Democratic Republic of the Congo (MONUSCO) (Oct 2021)<br>
 
 **Military - note**<br>
 <p>since the 2000s, the Guatemalan Government has frequently used the Army to support the National Civil Police (PNC; under the Ministry of Government) in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking</p> <p>the military held power during most of the country’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict</p><br>

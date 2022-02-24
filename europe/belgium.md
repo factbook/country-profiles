@@ -690,12 +690,12 @@ the Belgian Armed Forces have approximately 26,000 active duty personnel (11,000
 **Military equipment inventories and acquisitions**<br>
 the Belgian Armed Forces have a mix of weapons systems from European countries, Israel, and the US; since 2010, several European nations are the leading suppliers of armaments; Belgium has an export-focused defense industry that focuses on components and subcontracting (2021)<br>
 
-**Military deployments**<br>
-125 France (contributing member of EuroCorps); 100 Mali (EUTM/MINUSMA); 200 Lithuania (NATO) (2021)<br>
-
 **Military service age and obligation**<br>
 18 years of age for male and female voluntary military service; conscription abolished in 1995 (2021)<br>
 note - in 2020, women comprised about 9% of the military's full-time personnel<br>
+
+**Military deployments**<br>
+125 France (contributing member of EuroCorps); 100 Mali (EUTM/MINUSMA); 200 Lithuania (NATO) (2021)<br>
 
 **Military - note**<br>
 Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 <br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>

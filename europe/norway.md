@@ -686,12 +686,12 @@ the Norwegian Armed Forces have approximately 23,000 active personnel (8,500 Arm
 **Military equipment inventories and acquisitions**<br>
 the Norwegian Armed Forces inventory includes mostly imported European and US weapons systems, as well as a limited mix of domestically-produced equipment, particularly small naval craft and surface-to-air missile systems; since 2010, the US is the leading supplier of weapons systems to Norway, followed by a variety of other countries, including France, Italy, South Korea, and Spain (2021)<br>
 
-**Military deployments**<br>
-120 Lithuania (NATO) (2021)<br>
-
 **Military service age and obligation**<br>
 19-35 years of age for male and female selective compulsory military service; 17 years of age for male volunteers; 18 years of age for women; 19-month service obligation; conscripts first serve 12 months from 19-28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2021)<br>
 note(s) - Norway conscripts about 8,000 individuals annually; Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as <em>Jegertroppen </em>(The Hunter Troop), which was established in 2014; as of 2019, women comprised about 14% of the military's full-time personnel<br>
+
+**Military deployments**<br>
+120 Lithuania (NATO) (2021)<br>
 
 **Military - note**<br>
 Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p> (2021)<br>

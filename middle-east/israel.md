@@ -282,6 +282,7 @@ _conventional long form_: State of Israel<br>
 _conventional short form_: Israel<br>
 _local long form_: Medinat Yisra'el<br>
 _local short form_: Yisra'el<br>
+_former_: Mandatory Palestine<br>
 _etymology_: named after the ancient Kingdom of Israel; according to Biblical tradition, the Jewish patriarch Jacob received the name "Israel" ("He who struggles with God") after he wrestled an entire night with an angel of the Lord; Jacob's 12 sons became the ancestors of the Israelites, also known as the Twelve Tribes of Israel, who formed the Kingdom of Israel<br>
 
 **Government type**<br>
