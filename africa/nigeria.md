@@ -129,10 +129,10 @@ _female_: 18.9 years (2020 est.)<br>
 2.53% (2021 est.)<br>
 
 **Birth rate**<br>
-34.38 births/1,000 population (2021 est.)<br>
+34.19 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-8.89 deaths/1,000 population (2021 est.)<br>
+8.7 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.21 migrant(s)/1,000 population (2021 est.)<br>
@@ -762,8 +762,8 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 <p>Joint Border Commission with Cameroon reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately cedes sovereignty of the Bakassi Peninsula to Cameroon with a phaseout of Nigerian control within two years while resolving patriation issues; the ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but imprecisely defined coordinates in the ICJ decision and a sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River all contribute to the delay in implementation; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries; location of Benin-Niger-Nigeria tripoint is unresolved</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 72,971 (Cameroon) (2021)<br>
-_IDPs_: 3,033,363 (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2021)<br>
+_refugees (country of origin)_: 73,542 (Cameroon) (2022)<br>
+_IDPs_: 3,184,058 (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Nigeria along with victims from Nigeria abroad; internal trafficking involving recruiting victims from rural areas for commercial sex  and forced labor in domestic work, street vending, mining, agriculture, begging and textile <br>manufacturing; traffickers operate “baby factories” where women held against their will are raped and children are sold into forced labor or sex trafficking or rented to beggars to increase their profits; women are often taken to other West and Central African countries, South Africa, Europe and the Middle East for commercial sex; Boko Haram and ISIS-WA forcibly recruit, abduct, and use child soldiers as young as 12 as cooks, spies, messengers, bodyguards, armed combatants, and suicide bombers; they abduct women and girls in the northern region of Nigeria for sexual slavery and forced labor<br>

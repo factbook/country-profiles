@@ -119,10 +119,10 @@ _female_: 33.3 years (2020 est.)<br>
 0.75% (2021 est.)<br>
 
 **Birth rate**<br>
-15.21 births/1,000 population (2021 est.)<br>
+14.62 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-6.35 deaths/1,000 population (2021 est.)<br>
+6.36 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -1.34 migrant(s)/1,000 population (2021 est.)<br>
@@ -679,7 +679,7 @@ note - the National Police has primary responsibility for law enforcement in the
 4.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Tunisian Armed Forces (FAT) have approximately 36,000 active personnel (27,000 Army; 5,000 Navy; 4,000 Air Force); est. 10,000 National Guard (2021)<br>
+approximately 36,000 active personnel (27,000 Army; 5,000 Navy; 4,000 Air Force); est. 10,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Tunisian military's inventory includes mostly older or secondhand US and European equipment; since 2010, the Netherlands and US are the leading suppliers of arms to Tunisia (2021)<br>
@@ -689,7 +689,7 @@ men 20-23 years of age for compulsory service, 1-year service obligation; indivi
 note(s) - as of 2021, approximately 20-25,000 active military personnel were conscripts; women have been allowed in the service since 1975 as volunteers only, although as recently as 2018, the Tunisian Government has discussed the possibility of conscripting women; as of 2018, women constituted less than 7% of the military and served in all three services<br>
 
 **Military - note**<br>
-<p>as of 2021, the Tunisian military’s primary operational areas of focus were counter-terrorism, counterinsurgency, and border security; it was conducting counter-terrorism and counterinsurgency operations against al-Qa’ida in the Islamic Maghreb (AQIM) and Islamic State of ash-Sham (ISIS)-linked militants who have been fighting a low-intensity insurgency, mostly in the mountainous region along the border with Algeria, particularly the Chaambi Mountains near the city of Kasserine; the military maintained the lead role for security in this area and also routinely conducted joint operations with Algerian security forces against these  groups, as well to counter smuggling and trafficking activities; the military in recent years also has increased its role in securing the southern border against militant activity, smuggling, and trafficking from war-torn Libya; since 2015, Tunisia has constructed a complex structure of berms, trenches, and water-filled moats, complemented by electronic surveillance equipment such as motion detectors, ground surveillance radars, and infrared sensors along the 220-kilometer border with Libya; in the remote southern areas of the border with Libya, buffer/exclusion zones have also been established where the military has the lead for counter-terrorism efforts; outside of these border areas, the Ministry of Interior has the lead responsibility for counter-terrorism in Tunisia, particularly for urban areas; the National Police Anti-Terrorism Brigade (BAT) and the National Guard Special Unit have the lead for MOI counterterrorism operations<br><br>Tunisia has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+<p>as of 2022, the Tunisian military’s primary operational areas of focus were counter-terrorism, counterinsurgency, and border security; it was conducting counter-terrorism and counterinsurgency operations against al-Qa’ida in the Islamic Maghreb (AQIM) and Islamic State of ash-Sham (ISIS)-linked militants who have been fighting a low-intensity insurgency, mostly in the mountainous region along the border with Algeria, particularly the Chaambi Mountains near the city of Kasserine; the military maintained the lead role for security in this area and also routinely conducted joint operations with Algerian security forces against these  groups, as well to counter smuggling and trafficking activities; the military in recent years also has increased its role in securing the southern border against militant activity, smuggling, and trafficking from war-torn Libya; since 2015, Tunisia has constructed a complex structure of berms, trenches, and water-filled moats, complemented by electronic surveillance equipment such as motion detectors, ground surveillance radars, and infrared sensors along the 220-kilometer border with Libya; in the remote southern areas of the border with Libya, buffer/exclusion zones have also been established where the military has the lead for counter-terrorism efforts; outside of these border areas, the Ministry of Interior has the lead responsibility for counter-terrorism in Tunisia, particularly for urban areas; the National Police Anti-Terrorism Brigade (BAT) and the National Guard Special Unit have the lead for MOI counterterrorism operations<br><br>Tunisia has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 

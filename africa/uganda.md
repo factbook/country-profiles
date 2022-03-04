@@ -122,10 +122,10 @@ _female_: 16.5 years (2020 est.)<br>
 3.31% (2021 est.)<br>
 
 **Birth rate**<br>
-41.6 births/1,000 population (2021 est.)<br>
+40.94 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.17 deaths/1,000 population (2021 est.)<br>
+5.02 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -3.37 migrant(s)/1,000 population (2021 est.)<br>
@@ -732,7 +732,7 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders; Ugandan refugees as well as members of the Lord's Resistance Army (LRA) seek shelter in southern Sudan and the Democratic Republic of the Congo's Garamba National Park; LRA forces have also attacked Kenyan villages across the border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 953,630 (South Sudan) (refugees and asylum seekers), 51,775 (Burundi), 51,321 (Somalia) (refugees and asylum seekers), 25,578 (Rwanda), 20,743 (Eritrea) (2021); 459,073 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 962,360 (South Sudan) (refugees and asylum seekers), 459,073 (Democratic Republic of the Congo), 48,871 (Burundi), 55,579 (Somalia) (refugees and asylum seekers), 25,999 (Rwanda), 22,096 (Eritrea) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Uganda, and traffickers exploit victims from Uganda abroad; young Ugandan children are exploited in forced labor in agriculture, fishing, forestry, cattle herding, mining, stone quarrying, brick making, carpentry, steel manufacturing, street vending, bars, restaurants, gold mining, and domestic service; traffickers exploit girls and boys in commercial sex; most are children from the northeastern region and are exploited in forced begging, commercial sex in brothels, or sold in markets; traffickers compel&nbsp; children from the Democratic Republic of Congo, Rwanda, Burundi, Kenya, Tanzania, and South Sudan into forced agricultural labor and sex trafficking in Uganda; young women most at risk for transnational trafficking seek employment as domestic workers in the Middle East and then are exploited in sex trafficking; traffickers subject Ugandans to forced labor and sex trafficking in UAE, Saudi Arabia, Oman, Qatar, Kuwait, Iraq, Iran, Egypt, Turkey, Algeria, Malaysia, Thailand, Bahrain, Jordan, China, Kenya, and India; traffickers are often relatives, friends of victims, or religious leaders who receive a fee per worker from recruiters<br>

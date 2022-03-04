@@ -28,7 +28,7 @@ slightly less than 3.5 times the size of Texas<br>
 
 **Land boundaries**<br>
 _total_: 6,734 km<br>
-_border countries_: Libya 989 km, Mali 1359 km, Mauritania 460 km, Morocco 1941 km, Niger 951 km, Tunisia 1034 km<br>
+_border countries_: Libya 989 km, Mali 1,359 km, Mauritania 460 km, Morocco 1,941 km, Niger 951 km, Tunisia 1,034 km<br>
 
 **Coastline**<br>
 998 km<br>
@@ -123,10 +123,10 @@ _female_: 29.3 years (2020 est.)<br>
 1.41% (2021 est.)<br>
 
 **Birth rate**<br>
-19.24 births/1,000 population (2021 est.)<br>
+18.52 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-4.32 deaths/1,000 population (2021 est.)<br>
+4.32 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.84 migrant(s)/1,000 population (2021 est.)<br>

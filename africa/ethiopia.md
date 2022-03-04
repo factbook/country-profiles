@@ -129,10 +129,10 @@ _female_: 20.1 years (2020 est.)<br>
 2.5% (2021 est.)<br>
 
 **Birth rate**<br>
-31.03 births/1,000 population (2021 est.)<br>
+30.49 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.8 deaths/1,000 population (2021 est.)<br>
+5.7 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.2 migrant(s)/1,000 population (2021 est.)<br>
@@ -753,7 +753,7 @@ al-Shabaab; IRGC/Qods Force<br>
 <p>Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 158,300 (Eritrea), 46,181 (Sudan) (2021); 388,737 (South Sudan), 225,877 (Somalia) (2022)<br>
+_refugees (country of origin)_: 388,737 (South Sudan), 225,877 (Somalia), 158,548 (Eritrea), 46,616 (Sudan) (2022)<br>
 _IDPs_: 1,990,168 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>

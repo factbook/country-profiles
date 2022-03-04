@@ -119,10 +119,10 @@ _female_: 45.1 years (2020 est.)<br>
 -0.03% (2021 est.)<br>
 
 **Birth rate**<br>
-8.05 births/1,000 population (2021 est.)<br>
+7.13 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-9.78 deaths/1,000 population (2021 est.)<br>
+10.22 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 1.39 migrant(s)/1,000 population (2021 est.)<br>
@@ -740,7 +740,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 <p>in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal; Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island); Morocco serves as the primary launching site of illegal migration into Spain from North Africa; Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 6,.92 (mid-year 2021)<br>
 <strong>note: </strong>198,452 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 

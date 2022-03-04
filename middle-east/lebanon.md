@@ -113,10 +113,10 @@ _female_: 34.4 years (2020 est.)<br>
 0.68% (2021 est.)<br>
 
 **Birth rate**<br>
-13.35 births/1,000 population (2021 est.)<br>
+13.1 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.57 deaths/1,000 population (2021 est.)<br>
+5.57 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.95 migrant(s)/1,000 population (2021 est.)<br>
@@ -699,7 +699,7 @@ note - as of 2020, women comprised about 5% of the active duty military<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; Islamic Revolutionary Guard Corps/Qods Force; Hizballah; al-Nusrah Front (Hay'at Tahrir al-Sham); Palestine Liberation Front; PFLP-General Command; Popular Front for the Liberation of Palestine<br>
+Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Hizballah; al-Nusrah Front (Hay'at Tahrir al-Sham); Palestine Liberation Front; PFLP-General Command; Popular Front for the Liberation of Palestine<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

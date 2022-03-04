@@ -112,10 +112,10 @@ _female_: 35.9 years (2020 est.)<br>
 0.38% (2021 est.)<br>
 
 **Birth rate**<br>
-11.47 births/1,000 population (2021 est.)<br>
+11.52 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-8.19 deaths/1,000 population (2021 est.)<br>
+8.25 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 0.51 migrant(s)/1,000 population (2021 est.)<br>
@@ -557,7 +557,7 @@ _major seaport(s)_: Koror<br>
 no regular military forces; the Ministry of Justice includes divisions/bureaus for public security, police functions, and maritime law enforcement<br>
 
 **Military equipment inventories and acquisitions**<br>
-since 2018, Australia and Japan have provided patrol boats to the Palau's Division of Marine Law Enforcement (2020)<br>
+since 2018, Australia and Japan have provided patrol boats to the Palau's Division of Marine Law Enforcement (2021)<br>
 
 **Military - note**<br>
 under a 1994 Compact of Free Association between Palau and the US, the US until 2044 is responsible for the defense of Palaus and the US military is granted access to the islands, but it has not stationed any military forces there<br>

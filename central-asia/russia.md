@@ -129,10 +129,10 @@ _female_: 43.2 years (2020 est.)<br>
 -0.2% (2021 est.)<br>
 
 **Birth rate**<br>
-9.71 births/1,000 population (2021 est.)<br>
+9.45 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-13.4 deaths/1,000 population (2021 est.)<br>
+13.36 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 1.7 migrant(s)/1,000 population (2021 est.)<br>
@@ -742,7 +742,7 @@ note - the Air Force and Aerospace Defense Forces were merged into the VKS in 20
 5.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 850,000 total active duty troops (375,000 Ground Troops, including about 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; 90,000 other uniformed personnel (approximately 20,000 special operations forces, plus command and control, cyber, support, logistics, security, etc.); est. 200-250,000 Federal National Guard Troops (2021)<br>
+information varies; approximately 850,000 total active duty troops (300,000 Ground Troops; 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; approximately 20,000 special operations forces; approximately 100,000 other uniformed personnel (command and control, cyber, support, logistics, security, etc.); est. 200-250,000 Federal National Guard Troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Russian Federation's military and paramilitary services are equipped with domestically-produced weapons systems, although since 2010 Russia has imported limited amounts of military hardware from several countries, including Czechia, France, Israel, Italy, Turkey, and Ukraine; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2021)<br>
@@ -752,7 +752,7 @@ the Russian Federation's military and paramilitary services are equipped with do
 note(s) - as of 2021, conscripts reportedly comprised about 30% of the Russian military's active duty personnel; in April of 2019, the Russian Government pledged its intent to end conscription as part of a decade-long effort to shift from a large, conscript-based military to a smaller, more professional force; as of 2020, women made up about 5% of the active duty military<br>
 
 **Military deployments**<br>
-information varies; est. 3,000-5,000 Armenia; est. 1,500 Belarus; est. 7,000-10,000 Georgia; est. 100 Central African Republic; est. 500 Kyrgyzstan; est. 1,500-2,000 Moldova (Trannistria); est. 3,000-5,000 Syria; est. 5,000-7,000 Tajikistan; est. 30,000 Ukraine (including Crimea) (2021)<br>
+information varies; est. 3,000-5,000 Armenia; est. 1,500 Belarus; est. 7,000-10,000 Georgia; est. 100 Central African Republic; est. 500 Kyrgyzstan; est. 1,500-2,000 Moldova (Transnistria); est. 3,000-5,000 Syria; est. 5,000-7,000 Tajikistan; est. 30,000 Ukraine (including Crimea) (2021)<br>
 note(s) - since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a truce agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020<br><br>as of late 2021, Russia was assessed to have deployed a considerable number of private military contractors to the Central African Republic (1-2,000), Libya (1-2,000), and Mali (more than 400)<br>
 
 **Military - note**<br>

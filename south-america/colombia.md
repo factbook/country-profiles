@@ -126,10 +126,10 @@ _female_: 32.2 years (2020 est.)<br>
 1.04% (2021 est.)<br>
 
 **Birth rate**<br>
-16.51 births/1,000 population (2021 est.)<br>
+15.21 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.53 deaths/1,000 population (2021 est.)<br>
+7.73 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.6 migrant(s)/1,000 population (2021 est.)<br>
@@ -739,7 +739,7 @@ note - in 2020, conscripts reportedly comprised about 50% of the Colombian milit
 275 Egypt (MFO) (2021)<br>
 
 **Military - note**<br>
-the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting; the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against both the FARC and ELN continued into 2021 (see Appendix T); the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents operate openly<br>
+the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting; the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against both the FARC and ELN continued into 2022 (see Appendix T); the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents operate openly<br>
 
 ## Terrorism
 
@@ -753,8 +753,8 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia (FARC)<br
 <p>in December 2007, ICJ allocated San Andres, Providencia, and Santa Catalina islands to Colombia under 1928 Treaty but did not rule on 82 degrees W meridian as maritime boundary with Nicaragua; managed dispute with Venezuela over maritime boundary and Venezuelan-administered Los Monjes Islands near the Gulf of Venezuela; Colombian-organized illegal narcotics, guerrilla, and paramilitary activities penetrate all neighboring borders and have caused Colombian citizens to flee mostly into neighboring countries; Colombia, Honduras, Nicaragua, Jamaica, and the US assert various claims to Bajo Nuevo and Serranilla Bank</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,742,927 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2021)<br>
-_IDPs_: 8,176,460 (conflict between government and illegal armed groups and drug traffickers since 1985) (2021)<br>
+_refugees (country of origin)_: 1,842,390 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2022)<br>
+_IDPs_: 8,214,100 (conflict between government and illegal armed groups and drug traffickers since 1985) (2021)<br>
 _stateless persons_: 11 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

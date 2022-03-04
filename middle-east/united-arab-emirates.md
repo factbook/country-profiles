@@ -116,10 +116,10 @@ _female_: 31.5 years (2020 est.)<br>
 0.62% (2021 est.)<br>
 
 **Birth rate**<br>
-10.87 births/1,000 population (2021 est.)<br>
+10.81 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-1.51 deaths/1,000 population (2021 est.)<br>
+1.56 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -3.18 migrant(s)/1,000 population (2021 est.)<br>
@@ -699,7 +699,7 @@ note - compulsory service may be completed in the uniformed military, the Minist
 estimates vary; reportedly a few hundred remain in Yemen; maintains military bases in Eritrea and Somalia (2021)<br>
 
 **Military - note**<br>
-<p>as of 2021, the UAE was closely aligned with Saudi Arabia and Bahrain on regional security issues; it hosted a multipurpose air, ground, and naval French military base, which included the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and, as of 2021, hosted about 3,500 US troops, mostly air and naval personnel</p> <p>in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary units<br><br>the UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976</p><br>
+<p>as of 2021, the UAE was closely aligned with Saudi Arabia and Bahrain on regional security issues; it hosted a multi-service French military base, which included the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and, as of 2021, hosted about 3,500 US troops, mostly air and naval personnel</p> <p>in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary units<br><br>the UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976</p><br>
 
 ## Transnational Issues
 

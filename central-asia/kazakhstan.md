@@ -121,10 +121,10 @@ _female_: 32.8 years (2020 est.)<br>
 0.81% (2021 est.)<br>
 
 **Birth rate**<br>
-15.87 births/1,000 population (2021 est.)<br>
+15.38 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-8.14 deaths/1,000 population (2021 est.)<br>
+8.11 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 0.39 migrant(s)/1,000 population (2021 est.)<br>
@@ -709,10 +709,10 @@ Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and A
 information varies; approximately 40,000 active duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment; since 2010, Russia remains by far the leading supplier of weapons systems (2020)<br>
+the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment; since 2010, Russia is the leading supplier of weapons systems (2021)<br>
 
 **Military service age and obligation**<br>
-All men 18-27 are required to serve in the military for at least one year (2021)<br>
+all men 18-27 are required to serve in the military for at least one year (2021)<br>
 
 **Military - note**<br>
 Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>

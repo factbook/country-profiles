@@ -123,10 +123,10 @@ _female_: 29.6 years (2020 est.)<br>
 1.16% (2021 est.)<br>
 
 **Birth rate**<br>
-16.71 births/1,000 population (2021 est.)<br>
+16.45 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.15 deaths/1,000 population (2021 est.)<br>
+5.17 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 0 migrant(s)/1,000 population (2021 est.)<br>
@@ -730,7 +730,7 @@ the International Maritime Bureau continues to report the territorial and offsho
 <p>organized illegal narcotics operations in Colombia penetrate across Ecuador's shared border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 482,897 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay), 65,854 (Colombia) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 508,935 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay), 65,854 (Colombia) (refugees and asylum seekers) (2021)<br>
 
 **Illicit drugs**<br>
 Ecuador is a major transit country for illicit drugs such as cocaine, heroin and chemical precursors to process cocaine from Colombia and Peru; not a major drug producing country<br>

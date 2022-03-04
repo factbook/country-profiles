@@ -115,10 +115,10 @@ _female_: 20.2 years (2020 est.)<br>
 2.19% (2021 est.)<br>
 
 **Birth rate**<br>
-31.45 births/1,000 population (2021 est.)<br>
+30.94 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.67 deaths/1,000 population (2021 est.)<br>
+5.61 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -3.84 migrant(s)/1,000 population (2021 est.)<br>
@@ -661,7 +661,7 @@ Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (
 1.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Timor-Leste Defense Force is comprised of approximately 2,000 personnel (2021)<br>
+approximately 2,000 personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 Timor-Leste Defense Force's limited inventory consists of equipment donated by other countries; the only recorded deliveries of major arms to Timor-Leste since 2010 are naval patrol craft from China and South Korea (2021)<br>

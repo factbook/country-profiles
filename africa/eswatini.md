@@ -114,10 +114,10 @@ _female_: 24.7 years (2020 est.)<br>
 0.77% (2021 est.)<br>
 
 **Birth rate**<br>
-23.87 births/1,000 population (2021 est.)<br>
+23.35 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-9.9 deaths/1,000 population (2021 est.)<br>
+9.71 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -6.26 migrant(s)/1,000 population (2021 est.)<br>
@@ -657,7 +657,7 @@ Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2021)<b
 2.2% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Umbutfo Eswatini Defense Force has approximately 3,000 active personnel (2021)<br>
+approximately 3,000 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the UEDF is lightly armed with mostly South African material; it has received minimal amounts of secondhand equipment since 2010 (2021)<br>

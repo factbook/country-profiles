@@ -114,10 +114,10 @@ _female_: 46.8 years (2020 est.)<br>
 -0.34% (2021 est.)<br>
 
 **Birth rate**<br>
-7.72 births/1,000 population (2021 est.)<br>
+7.61 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-12.05 deaths/1,000 population (2021 est.)<br>
+12.04 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 0.97 migrant(s)/1,000 population (2021 est.)<br>
@@ -690,10 +690,10 @@ Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National G
 2.38% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the Hellenic Armed Forces have approximately 130,000 active duty personnel (90,000 Army; 15,000 Navy; 25,000 Air Force); approximately 35,000 National Guard (2021)<br>
+approximately 130,000 active duty personnel (90,000 Army; 15,000 Navy; 25,000 Air Force); approximately 35,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Hellenic Armed Forces consists mostly of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems, particularly naval vessels; France, Germany, and the US are the leading suppliers of weapons systems to Greece since 2010; Greece's defense industry is capable of producing naval vessels and associated subsystems (2020)<br>
+the inventory of the Hellenic Armed Forces consists mostly of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems, particularly naval vessels; France, Germany, and the US are the leading suppliers of weapons systems to Greece since 2010; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2021)<br>
 note - in addition to finalizing an update to the Mutual Defense Cooperation Agreement with the US, Greece also entered into a security agreement with France in 2021 that included the sale of frigates and fighter aircraft to augment its aging weapons systems<br>
 
 **Military service age and obligation**<br>
@@ -709,7 +709,7 @@ Greece joined NATO in 1952<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br>
+Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary People's Liberation Party/Front (DHKP/C)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

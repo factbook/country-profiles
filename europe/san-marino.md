@@ -107,10 +107,10 @@ _female_: 46.3 years (2020 est.)<br>
 0.63% (2021 est.)<br>
 
 **Birth rate**<br>
-8.76 births/1,000 population (2021 est.)<br>
+8.85 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-8.85 deaths/1,000 population (2021 est.)<br>
+8.82 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 6.38 migrant(s)/1,000 population (2021 est.)<br>
@@ -518,7 +518,7 @@ _paved_: 292 km (2006)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-No regular military forces; Voluntary Military Corps (Corpi Militari), which includes a Uniformed Militia (performs ceremonial duties and limited police support functions) and Guard of the Great and General Council (defends the Captains Regent and the Great and General Council, participates in official ceremonies, cooperates with the maintenance of public order on special occasions, and performs guard duties during parliamentary sittings); the Police Corps includes the Gendarmerie, which is responsible for maintaining public order, protecting citizens and their property, and providing assistance during disasters (2021)<br>
+no regular military forces; Voluntary Military Corps (Corpi Militari), which includes a Uniformed Militia (performs ceremonial duties and limited police support functions) and Guard of the Great and General Council (defends the Captains Regent and the Great and General Council, participates in official ceremonies, cooperates with the maintenance of public order on special occasions, and performs guard duties during parliamentary sittings); the Police Corps includes the Gendarmerie, which is responsible for maintaining public order, protecting citizens and their property, and providing assistance during disasters (2021)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; no conscription; government has the authority to call up all San Marino citizens from 16-60 years of age to service in the military (2019)<br>

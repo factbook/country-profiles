@@ -124,10 +124,10 @@ _female_: 20.3 years (2020 est.)<br>
 1.79% (2021 est.)<br>
 
 **Birth rate**<br>
-33.2 births/1,000 population (2021 est.)<br>
+32.79 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-12.01 deaths/1,000 population (2021 est.)<br>
+11.76 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -3.28 migrant(s)/1,000 population (2021 est.)<br>
@@ -699,5 +699,5 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,702 (Democratic Republic of Congo) (2022)<br>
-_IDPs_: 722,101 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2021)<br>
+_IDPs_: 652,036 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
 

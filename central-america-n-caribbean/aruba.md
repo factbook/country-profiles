@@ -110,10 +110,10 @@ _female_: 41.5 years (2020 est.)<br>
 1.17% (2021 est.)<br>
 
 **Birth rate**<br>
-11.95 births/1,000 population (2021 est.)<br>
+11.82 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-8.54 deaths/1,000 population (2021 est.)<br>
+8.62 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 8.27 migrant(s)/1,000 population (2021 est.)<br>
@@ -585,6 +585,9 @@ defense is the responsibility of the Kingdom of the Netherlands; the Aruba secur
 
 **Disputes - international**<br>
 <p>none</p><br>
+
+**Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 17,000 (Venezuela) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: <p>human traffickers exploit domestic and foreign victims; foreign men and women are subject to forced labor in Aruba’s services and construction sectors; Venezuelans overstaying visas are at risk of forced labor in domestic service, construction, and commercial sex; Chinese men and women and Indian men are subject to forced labor in retail businesses and domestic service; managers of some Chinese-owned grocery stores and restaurants exploit children through sex trafficking and forced labor</p><br>

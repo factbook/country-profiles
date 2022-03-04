@@ -123,10 +123,10 @@ _female_: 29.9 years (2020 est.)<br>
 1.15% (2021 est.)<br>
 
 **Birth rate**<br>
-16.43 births/1,000 population (2021 est.)<br>
+16.32 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-4.84 deaths/1,000 population (2021 est.)<br>
+4.87 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.07 migrant(s)/1,000 population (2021 est.)<br>
@@ -713,6 +713,9 @@ as of 2021, the armed forces were principally focused on the Paraguayan People's
 
 **Disputes - international**<br>
 <p>unruly region at convergence of Argentina-Brazil-Paraguay borders is locus of money laundering, smuggling, arms and illegal narcotics trafficking, and fundraising for violent extremist organizations</p><br>
+
+**Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 5,800 (Venezuela) (2021)<br>
 
 **Illicit drugs**<br>
 <p>cannabis cultivation and the trafficking of Andean cocaine in the tri-border area shared with Argentina, and Brazil facilitates money laundering, violence and other criminal activity. </p><br>

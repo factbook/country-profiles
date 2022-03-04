@@ -119,10 +119,10 @@ _female_: 18.3 years (2020 est.)<br>
 2.35% (2021 est.)<br>
 
 **Birth rate**<br>
-38.25 births/1,000 population (2021 est.)<br>
+37.98 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-11.82 deaths/1,000 population (2021 est.)<br>
+11.62 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -2.98 migrant(s)/1,000 population (2021 est.)<br>
@@ -273,9 +273,9 @@ _agricultural_: 3.281 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Federal Republic of Somalia<br>
 _conventional short form_: Somalia<br>
-_local long form_: Jamhuuriyadda Federaalkaa Soomaaliya<br>
-_local short form_: Soomaaliya<br>
-_former_: Somali Republic, Somali Democratic Republic<br>
+_local long form_: Jamhuuriyadda Federaalka Soomaaliya (Somali), Jumhuriyat as Sumal al Fidiraliyah (Arabic)<br>
+_local short form_: Soomaaliya (Somali), As Sumal (Arabic)&nbsp;<br>
+_former_: British Somaliland, Italian Somaliland, Somali Republic, Somali Democratic Republic<br>
 _etymology_: "Land of the Somali" (ethnic group)<br>
 
 **Government type**<br>

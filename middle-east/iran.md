@@ -123,10 +123,10 @@ _female_: 32 years (2020 est.)<br>
 1.03% (2021 est.)<br>
 
 **Birth rate**<br>
-15.78 births/1,000 population (2021 est.)<br>
+15.27 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.14 deaths/1,000 population (2021 est.)<br>
+5.17 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.3 migrant(s)/1,000 population (2021 est.)<br>
@@ -708,7 +708,7 @@ the Iranian military's inventory includes a mix of domestically-produced and mos
 
 **Military service age and obligation**<br>
 18 years of age for compulsory military service; 16 years of age for volunteers; 17 years of age for Law Enforcement Forces; 15 years of age for Basij Forces (Popular Mobilization Army); conscript military service obligation is 18-24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempt from military service (2021)<br>
-note - approximately 80% of Artesh ground forces personnel are conscripts, while Navy and Air/Air Defense Force personnel are primarily volunteers; approximately 60 percent of the IRGC is reportedly comprised of conscripts<br>
+note - as of 2019, approximately 80% of Artesh ground forces personnel were conscripts, while Navy and Air/Air Defense Force personnel were primarily volunteers; conscripts reportedly comprised more than 50 percent of the IRGC<br>
 
 **Military deployments**<br>
 est. 1,000 Syria (2021)<br>

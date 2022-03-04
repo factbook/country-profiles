@@ -118,10 +118,10 @@ _female_: 31.4 years (2020 est.)<br>
 0.91% (2021 est.)<br>
 
 **Birth rate**<br>
-14.7 births/1,000 population (2021 est.)<br>
+15.38 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-6.1 deaths/1,000 population (2021 est.)<br>
+6.59 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 0.53 migrant(s)/1,000 population (2021 est.)<br>
@@ -671,7 +671,6 @@ Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2021
 1.1% of GDP (2017 est.)<br>
 1.2% of GDP (2016 est.)<br>
 1.4% of GDP (2015 est.)<br>
-no figures available after 2017<br>
 
 **Military and security service personnel strengths**<br>
 the Suriname Army is comprised of approximately 2,000 active personnel (ground, air, naval, and military police) (2021)<br>

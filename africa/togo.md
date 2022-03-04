@@ -119,10 +119,10 @@ _female_: 20.3 years (2020 est.)<br>
 2.51% (2021 est.)<br>
 
 **Birth rate**<br>
-32.34 births/1,000 population (2021 est.)<br>
+31.86 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.39 deaths/1,000 population (2021 est.)<br>
+5.27 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -1.86 migrant(s)/1,000 population (2021 est.)<br>
@@ -703,17 +703,17 @@ approximately 9,000 personnel, including about 8,000 Army (2021)<br>
 **Military equipment inventories and acquisitions**<br>
 the FAT's small inventory is a mix of older equipment from a variety of countries, including Brazil, France, Germany, Russia/former Soviet Union, the UK, and the US; since 2010, it has received limited amounts of newer--largely secondhand--equipment; the Navy has received patrol boats from China, France, South Africa, and the US (2021)<br>
 
-**Military deployments**<br>
-925 Mali (MINUSMA; also has about 300 police deployed to MINUSMA) (Oct 2021)<br>
-
-**Maritime threats**<br>
-the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.&rdquo;<br>
-
 **Military service age and obligation**<br>
 18 years of age for military service; 2-year service obligation; no conscription; women have been able to serve since 2007 (2021)<br>
 
+**Military deployments**<br>
+925 Mali (MINUSMA; also has about 300 police deployed to MINUSMA) (Oct 2021)<br>
+
 **Military - note**<br>
 <p>the first Togolese Army unit was created in 1963, while the Air Force was established in 1964; the Navy was not established until 1976; since its creation, the Togolese military has a history of interfering in the country’s politics with assassinations, coups, influence, and a large military crackdown in 2005 that killed hundreds; over the past decade, it has made some efforts to reform and professionalize; over the same period, the military has increased its role in UN peacekeeping activities and as of 2021, more than 10% of the Army was deployed on peacekeeping missions; Togolese police have also been deployed on peacekeeping operations, and Togo maintains a regional peacekeeping training center for military and police in Lome; the Navy and Air Force have increasingly focused on combating piracy and smuggling in the Gulf of Guinea</p><br>
+
+**Maritime threats**<br>
+the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.&rdquo;<br>
 
 ## Terrorism
 
@@ -726,7 +726,7 @@ Jama&rsquo;at Nusrat al Islam wal Muslimeen (JNIM)<br>
 <p>in 2001, Benin claimed Togo moved boundary monuments - joint commission continues to resurvey the boundary; talks continue between Benin and Togo on funding the Adjrala hydroelectric dam on the Mona River</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,391 (Ghana) (2021)<br>
+_refugees (country of origin)_: 16,782 (Ghana) (2022)<br>
 
 **Illicit drugs**<br>
 transit hub for Nigerian heroin and cocaine traffickers; money laundering not a significant problem<br>

@@ -115,10 +115,10 @@ _female_: 30.3 years (2020 est.)<br>
 0.9% (2021 est.)<br>
 
 **Birth rate**<br>
-12.5 births/1,000 population (2021 est.)<br>
+12.4 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-2.81 deaths/1,000 population (2021 est.)<br>
+2.82 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.67 migrant(s)/1,000 population (2021 est.)<br>
@@ -351,7 +351,7 @@ _email address and website_: <br>ambsecretary@bahrainembassy.org<br><br>mofa.gov
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Maggie NARDI (since August 2019)<br>
+_chief of mission_: Ambassador Steven C. BONDY (since 9 February 2022)<br>
 _embassy_: Building 979, Road 3119 (next to Al-Ahli Sports Club), Block 331, Zinj District, P.O. Box 26431, Manama<br>
 _mailing address_: 6210 Manama Place, Washington DC&nbsp; 20521-6210<br>
 _telephone_: [973] 17-242700<br>

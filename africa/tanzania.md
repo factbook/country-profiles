@@ -128,10 +128,10 @@ _female_: 18.4 years (2020 est.)<br>
 2.81% (2021 est.)<br>
 
 **Birth rate**<br>
-33.71 births/1,000 population (2021 est.)<br>
+33.3 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.17 deaths/1,000 population (2021 est.)<br>
+5.09 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.44 migrant(s)/1,000 population (2021 est.)<br>
@@ -317,7 +317,7 @@ _conventional long form_: United Republic of Tanzania<br>
 _conventional short form_: Tanzania<br>
 _local long form_: Jamhuri ya Muungano wa Tanzania<br>
 _local short form_: Tanzania<br>
-_former_: German East Africa, Trust Territory of Tanganyika, United Republic of Tanganyika and Zanzibar<br>
+_former_: German East Africa, Trust Territory of Tanganyika, Republic of Tanganyika, People's Republic of Zanzibar, United Republic of Tanganyika and Zanzibar<br>
 _etymology_: the country's name is a combination of the first letters of Tanganyika and Zanzibar, the two states that merged to form Tanzania in 1964<br>
 
 **Government type**<br>
@@ -710,7 +710,7 @@ _major seaport(s)_: Dar es Salaam, Zanzibar<br>
 
 **Military and security forces**<br>
 Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves); Ministry of Home Affairs paramilitary forces: Police Field Force (2021)<br>
-note - the National Building Army is a paramilitary organization under the Defense Forces that provides six months of military and vocational training to individuals as part of their two years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br>
+note - the National Building Army is a paramilitary organization under the Defense Forces that provides 6 months of military and vocational training to individuals as part of their 2 years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
@@ -729,10 +729,10 @@ the TPDF inventory includes mostly Soviet-era and Chinese equipment; since 2010,
 18-25 years of age for voluntary military service; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2021)<br>
 
 **Military deployments**<br>
-450 Central African Republic (MINUSCA); 830 Democratic Republic of the Congo (MONUSCO); 125 Lebanon (UNIFIL) (Sep 2021)<br>
+450 Central African Republic (MINUSCA); 830 Democratic Republic of the Congo (MONUSCO); 125 Lebanon (UNIFIL) (Dec 2021)<br>
 
 **Military - note**<br>
-as of 2020-2021, the TPDF had deployed additional troops to its border with Mozambique to prevent a spillover of the growing violence in the northern Mozambican province of Cabo Delgado<br>
+in 2021-2022, Tanzania deployed additional troops to its border with Mozambique and contributed troops to the Southern African Development Community (SADC) intervention force that was assisting the Mozambique Government fight against Islamic militants<br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships</p><br>

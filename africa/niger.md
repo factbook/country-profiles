@@ -125,10 +125,10 @@ _female_: 15.1 years (2020 est.)<br>
 3.65% (2021 est.)<br>
 
 **Birth rate**<br>
-47.28 births/1,000 population (2021 est.)<br>
+47.08 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-10.09 deaths/1,000 population (2021 est.)<br>
+9.87 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.66 migrant(s)/1,000 population (2021 est.)<br>
@@ -741,8 +741,8 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic St
 <p>Libya claims about 25,000 sq km in a currently dormant dispute in the Tommo region; location of Benin-Niger-Nigeria tripoint is unresolved; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries; the dispute with Burkina Faso was referred to the ICJ in 2010</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 61,490 (Mali) (2021); 187,145 (Nigeria) (2022)<br>
-_IDPs_: 264,257 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2021)<br>
+_refugees (country of origin)_: 187,145 (Nigeria), 61,487 (Mali) (2022)<br>
+_IDPs_: 264,257 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>
 <p>a transit point for illicit drugs narcotics trafficked through the Sahara; drugs from South America, particularly cocaine, heroin, cannabis products, and synthetic drugs, transit en route to European and Middle Eastern markets; synthetic opioid tramadol is shipped from Nigeria through Niger to other African countries; hashish from Morocco is trafficked to Libya, Egypt, Europe, and the Middle East; traffickers are formalized networks of Arab, Tuareg, and Toubou transportation groups</p><br>

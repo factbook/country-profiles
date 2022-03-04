@@ -122,10 +122,10 @@ _female_: 44.3 years (2020 est.)<br>
 -0.49% (2021 est.)<br>
 
 **Birth rate**<br>
-9.23 births/1,000 population (2021 est.)<br>
+9 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-13.9 deaths/1,000 population (2021 est.)<br>
+13.77 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.26 migrant(s)/1,000 population (2021 est.)<br>
@@ -711,23 +711,23 @@ Armed Forces of Ukraine (Zbroyni Syly Ukrayiny, ZSU): Ground Forces (Sukhoputni 
 3.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 200,000 active troops (150,000 Army, including Airborne/Air Assault Forces; 12,000 Navy; 40,000 Air Force); approximately 50,000 National Guard (2021)<br><br>note - in early 2022, the Ukrainian Government announced plans to add 100,000 personnel to the armed forces over three years <br>
+approximately 200,000 active troops (150,000 Army, including about 25,000 Airborne/Air Assault Forces; 12,000 Navy; 40,000 Air Force); approximately 50,000 National Guard (2021)<br><br>note - in early 2022, the Ukrainian Government announced plans to add 100,000 personnel to the armed forces over three years <br>
 note - in early 2022, the Ukrainian Government announced plans to add 100,000 personnel to the armed forces over three years&nbsp;<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Ukrainian military is equipped mostly with older Russian and Soviet-era weapons systems; since 2010, it has imported limited quantities of weapons from several European countries, as well as Canada, the US, and the United Arab Emirates; Ukraine has a broad defense industry capable of building Soviet-era land systems and maintaining and upgrading Soviet-era combat aircraft, as well as missile and air defense systems (2021)<br>
-
-**Military deployments**<br>
-250 Democratic Republic of the Congo (MONUSCO) (Oct 2021)<br>
-note - Ukraine contributes about 500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>
 
 **Military service age and obligation**<br>
 conscription abolished in 2012, but reintroduced in 2014; 20-27 years of age for compulsory military service; conscript service obligation is 12 months (2021)<br>
 note(s) - in early 2022, the Ukrainian Government announced plans to phase out obligatory military service over a period of 3 years; the Ukrainian military has a mix of conscripts (14,000 conscripted in 2021) and professional soldiers on contracts; by law, conscripts cannot serve on the frontlines, but have the opportunity to sign short or long-term contracts upon the expiration of their terms of service; women can volunteer and have served in the Ukrainian armed forces since 1993; as of 2021, women comprised approximately 15-20% of the military; in late 2021, the Ukrainian Government began requiring women between 18 and 60 who are fit for military service and work in a broad range of professions to register with Ukraine's armed forces<br>
  <br>
 
+**Military deployments**<br>
+250 Democratic Republic of the Congo (MONUSCO) (Oct 2021)<br>
+note - Ukraine contributes about 500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>
+
 **Military - note**<br>
-as of 2021, the Ukrainian military’s primary concern was Russia’s material support for armed separatist forces in the eastern provinces of Donetsk and Luhansk where the conflict has become stalemated along a 250-mile front known as the line of contact; since the cease-fire of October 2019, sporadic exchanges of fire have continued through 2021<br> <p>since 2014, the Ukrainian military has sought to implement reforms in line with NATO standards, improve individual and unit training, revise doctrine, upgrade arms and equipment, streamline command and control, reduce reliance on conscripts, and expand elite units such as the Air Assault and Special Operations Forces; the military also has received assistance and material support from NATO and the US (2021)</p><br>
+<br> <p> </p><br>
 
 ## Transnational Issues
 
@@ -735,7 +735,7 @@ as of 2021, the Ukrainian military’s primary concern was Russia’s material s
 <p>1997 boundary delimitation treaty with Belarus remains unratified due to unresolved financial claims, stalling demarcation and reducing border security; delimitation of land boundary with Russia is complete and demarcation began in 2012; the dispute over the boundary between Russia and Ukraine through the Kerch Strait and Sea of Azov is suspended due to the occupation of Crimea by Russia; Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor transit of people and commodities through Moldova's Transnistria Region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops; the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 734,000 (Russian-sponsored separatist violence in Crimea and eastern Ukraine) (2020)<br>
+_IDPs_: 1,461,700 (Russian-sponsored separatist violence in Crimea and eastern Ukraine) (2021)<br>
 _stateless persons_: 35,875 (mid-year 2021); note - citizens of the former USSR who were permanently resident in Ukraine were granted citizenship upon Ukraine's independence in 1991, but some missed this window of opportunity; people arriving after 1991, Crimean Tatars, ethnic Koreans, people with expired Soviet passports, and people with no documents have difficulty acquiring Ukrainian citizenship; following the fall of the Soviet Union in 1989, thousands of Crimean Tatars and their descendants deported from Ukraine under the STALIN regime returned to their homeland, some being stateless and others holding the citizenship of Uzbekistan or other former Soviet republics; a 1998 bilateral agreement between Ukraine and Uzbekistan simplified the process of renouncing Uzbek citizenship and obtaining Ukrainian citizenship<br>
 
 **Illicit drugs**<br>

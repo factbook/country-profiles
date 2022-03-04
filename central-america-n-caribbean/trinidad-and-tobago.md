@@ -114,10 +114,10 @@ _female_: 38.3 years (2020 est.)<br>
 -0.28% (2021 est.)<br>
 
 **Birth rate**<br>
-11.12 births/1,000 population (2021 est.)<br>
+10.79 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-8.68 deaths/1,000 population (2021 est.)<br>
+8.38 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -5.18 migrant(s)/1,000 population (2021 est.)<br>
@@ -644,7 +644,7 @@ note - the Ministry of National Security oversees defense, immigration, and the 
 1.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-has approximately 4,500 TTDF personnel; approximately 7,000 TTPS personnel (2021)<br>
+approximately 4,500 TTDF personnel; approximately 7,000 TTPS personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly second-hand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US (2021)<br>

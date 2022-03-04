@@ -126,10 +126,10 @@ _female_: 40.1 years (2020 est.)<br>
 0.26% (2021 est.)<br>
 
 **Birth rate**<br>
-10.25 births/1,000 population (2021 est.)<br>
+10.14 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-7.66 deaths/1,000 population (2021 est.)<br>
+7.76 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.03 migrant(s)/1,000 population (2021 est.)<br>
@@ -717,7 +717,7 @@ note(s) - official paramilitary forces in Thailand include the Thai Rangers (<em
 1.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-estimates for the size of the Royal Thai Armed Forces (RTARF) vary widely; approximately 260,000 active duty personnel (150,000 Army; 65,000 Navy; 45,000 Air Force); est. 20,000 Thai Rangers; est. 5-6,000 Internal Security Operations Command (2021)<br>
+estimates vary widely; approximately 260,000 active duty personnel (150,000 Army; 65,000 Navy; 45,000 Air Force); est. 20,000 Thai Rangers; est. 5-6,000 Internal Security Operations Command (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RTARF has a diverse array of foreign-supplied weapons systems, including a large amount of obsolescent or second-hand US equipment; since 2010, Thailand has received military equipment from nearly 20 countries with China, South Korea, Sweden, Ukraine, and the US as the leading suppliers (2021)<br>
@@ -727,7 +727,7 @@ the RTARF has a diverse array of foreign-supplied weapons systems, including a l
 note(s) - information varies, but conscripts reportedly comprise as much as 50% of the RTARF; around 100,000 males are drafted each year; as of 2020, women comprised about 8% of active military personnel<br>
 
 **Military deployments**<br>
-275 South Sudan (UNMISS) (Oct 2021)<br>
+275 South Sudan (UNMISS) (Dec 2021)<br>
 
 **Military - note**<br>
 including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, the Thai military has been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed more than 7,000 lives; as of 2021, at least 70,000 military, paramilitary, and government-backed militia forces were estimated to be deployed in the south to combat the insurgency<br> <p>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>

@@ -116,10 +116,10 @@ _female_: 39.4 years (2020 est.)<br>
 1.11% (2021 est.)<br>
 
 **Birth rate**<br>
-10.76 births/1,000 population (2021 est.)<br>
+10.57 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-6.9 deaths/1,000 population (2021 est.)<br>
+6.94 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 7.29 migrant(s)/1,000 population (2021 est.)<br>
@@ -717,7 +717,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 _refugees (country of origin)_: 9,820 (Syria) (mid-year 2021)<br>
 _IDPs_: 228,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2020)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
-<strong>note:</strong> 31,219 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
+<strong>note:</strong> 32,119 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
 
 **Illicit drugs**<br>
 <p>vulnerable to money laundering from illegal drugs</p> <p> </p><br>

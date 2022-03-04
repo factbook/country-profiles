@@ -124,10 +124,10 @@ _female_: 49.1 years (2020 est.)<br>
 -0.21% (2021 est.)<br>
 
 **Birth rate**<br>
-8.63 births/1,000 population (2021 est.)<br>
+9.08 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-12.22 deaths/1,000 population (2021 est.)<br>
+11.98 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 1.5 migrant(s)/1,000 population (2021 est.)<br>
@@ -724,7 +724,7 @@ note - in 2021, women accounted for about 12% of the German military<br>
 approximately 500 Middle East (NATO/Counter-ISIS campaign); 130 Lebanon (UNIFIL); 600 Lithuania (NATO); approximately 1,400 Mali (MINUSMA/EUTM); note - Germany is a contributing member of the EuroCorps (2021)<br>
 
 **Military - note**<br>
-the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br> <p>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group (2021)</p><br>
+the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br><br>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group (2021)<br>
 
 ## Terrorism
 

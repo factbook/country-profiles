@@ -120,10 +120,10 @@ _female_: 30.7 years (2020 est.)<br>
 0.86% (2021 est.)<br>
 
 **Birth rate**<br>
-15.85 births/1,000 population (2021 est.)<br>
+15.53 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.4 deaths/1,000 population (2021 est.)<br>
+5.41 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -1.86 migrant(s)/1,000 population (2021 est.)<br>

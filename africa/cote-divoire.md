@@ -124,10 +124,10 @@ _female_: 20.3 years (2020 est.)<br>
 2.21% (2021 est.)<br>
 
 **Birth rate**<br>
-28.67 births/1,000 population (2021 est.)<br>
+28.3 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-7.75 deaths/1,000 population (2021 est.)<br>
+7.6 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 1.21 migrant(s)/1,000 population (2021 est.)<br>
@@ -706,9 +706,9 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 **Military expenditures**<br>
 1.1% of GDP (2020 est.)<br>
 1.1% of GDP (2019 est.)<br>
-1.4% of GDP (2018)<br>
-1.3% of GDP (2017)<br>
-1.7% of GDP (2016)<br>
+1.4% of GDP (2018 est.)<br>
+1.3% of GDP (2017 est.)<br>
+1.7% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active troops (23,000 Army, including about 2,000 Special Forces; 1,000 Navy; 1,000 Air Force); est. 5-10,000 Gendarmerie (2021)<br>

@@ -28,7 +28,7 @@ about eight times the size of Georgia; slightly less than twice the size of Texa
 
 **Land boundaries**<br>
 _total_: 5,369 km<br>
-_border countries_: Democratic Republic of the Congo 2646 km (of which 225 km is the boundary of discontiguous Cabinda Province), Republic of the Congo 231 km, Namibia 1427 km, Zambia 1065 km<br>
+_border countries_: Democratic Republic of the Congo 2,646 km (of which 225 km is the boundary of discontiguous Cabinda Province), Republic of the Congo 231 km, Namibia 1,427 km, Zambia 1,065 km<br>
 
 **Coastline**<br>
 1,600 km<br>
@@ -124,10 +124,10 @@ _female_: 16.4 years (2020 est.)<br>
 3.38% (2021 est.)<br>
 
 **Birth rate**<br>
-42.22 births/1,000 population (2021 est.)<br>
+41.8 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-8.24 deaths/1,000 population (2021 est.)<br>
+8.01 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.2 migrant(s)/1,000 population (2021 est.)<br>
@@ -732,7 +732,7 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 <p>Democratic Republic of Congo accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2021); 37,088 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 37,088 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

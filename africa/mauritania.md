@@ -126,10 +126,10 @@ _female_: 22 years (2020 est.)<br>
 2.02% (2021 est.)<br>
 
 **Birth rate**<br>
-28.49 births/1,000 population (2021 est.)<br>
+28.06 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-7.54 deaths/1,000 population (2021 est.)<br>
+7.43 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.74 migrant(s)/1,000 population (2021 est.)<br>
@@ -730,7 +730,6 @@ Al-Qaeda in the Islamic Maghreb (AQIM)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 72,816 (Mali) (2021)<br>
-_IDPs_: 744,944 (conflict in North Mozambique) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Mauritania is a source, transit, and destination country for men, women, and children subjected to conditions of forced labor and sex trafficking; adults and children from traditional slave castes are subjected to slavery-related practices rooted in ancestral master-slave relationships; Mauritanian boys&nbsp; are trafficked within the country by religious teachers for forced begging; Mauritanian girls, as well as girls from Mali, Senegal, The Gambia, and other West African countries, are forced into domestic servitude; Mauritanian women and girls are forced into prostitution in the country or transported to countries in the Middle East for the same purpose<br>

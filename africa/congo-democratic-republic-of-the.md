@@ -128,10 +128,10 @@ _female_: 16.8 years (2020 est.)<br>
 3.16% (2021 est.)<br>
 
 **Birth rate**<br>
-40.53 births/1,000 population (2021 est.)<br>
+40.08 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-8.15 deaths/1,000 population (2021 est.)<br>
+7.94 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.78 migrant(s)/1,000 population (2021 est.)<br>
@@ -753,8 +753,8 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers; members of Uganda's Lord's Resistance Army forces continue to seek refuge in Congo's Garamba National Park as peace talks with the Uganda Government evolve; the location of the boundary in the broad Congo River with the Republic of the Congo is indefinite except in the Pool Malebo/Stanley Pool area; Uganda and DRC dispute Rukwanzi Island in Lake Albert and other areas on the Semliki River with hydrocarbon potential; boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto; DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 210,969 (Rwanda) (refugees and asylum seekers), (2021); 212,693 (Central African Republic), 56,341 (South Sudan) (refugees and asylum seekers), 40,762 (Burundi) (2022)<br>
-_IDPs_: 5.268 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2020)<br>
+_refugees (country of origin)_: 212,693 (Central African Republic), 210,978 (Rwanda), 56,341 (South Sudan) (refugees and asylum seekers), 40,762 (Burundi) (2022)<br>
+_IDPs_: 5.61 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Democratic Republic of the Congo and Congolese abroad; most trafficking is internal and involves the forced labor of men, women, and children in artisanal mining, agriculture, domestic servitude, sex trafficking, or child recruitment by armed groups; some traffickers are family members or others who promise victims or victims&rsquo; families educational or job opportunities and instead force victims to work as domestic servants, street vendors, gang members, or in commercial sex; some Congolese women and girls who migrate to other countries in Africa or the Middle East are exploited in sex trafficking or forced labor in agriculture, diamond mines, or domestic service; they may be fraudulently recruited by traffickers with false promises of jobs or education<br>

@@ -118,10 +118,10 @@ _female_: 26 years (2020 est.)<br>
 1.44% (2021 est.)<br>
 
 **Birth rate**<br>
-21.22 births/1,000 population (2021 est.)<br>
+20.73 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.78 deaths/1,000 population (2021 est.)<br>
+5.72 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -1.05 migrant(s)/1,000 population (2021 est.)<br>
@@ -679,13 +679,13 @@ Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and 
 2.2% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of the Republic of Tajikistan have approximately 9,500 active troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2021)<br>
+approximately 9,500 active troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Tajikistan Armed Forces' inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems since 2010, most of which was second-hand material from Russia (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service for men; 24 month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2021)<br>
+18-27 years of age for compulsory or voluntary military service for men; 24-month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2021)<br>
 
 **Military - note**<br>
 Tajikistan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>

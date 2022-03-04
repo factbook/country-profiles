@@ -124,10 +124,10 @@ _female_: 21.9 years (2020 est.)<br>
 2.26% (2021 est.)<br>
 
 **Birth rate**<br>
-29.08 births/1,000 population (2021 est.)<br>
+28.55 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-6.3 deaths/1,000 population (2021 est.)<br>
+6.14 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.17 migrant(s)/1,000 population (2021 est.)<br>
@@ -705,7 +705,7 @@ Ghana Armed Forces: Army, Navy, Air Force (2021)<br>
 0.3% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Ghana Armed Forces consists of approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>
+approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Western equipment; since 2010, it has received armaments from a variety of suppliers, including China, Germany, Russia, and Spain (2021)<br>

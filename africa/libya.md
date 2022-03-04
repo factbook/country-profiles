@@ -124,10 +124,10 @@ _female_: 25.7 years (2020 est.)<br>
 1.76% (2021 est.)<br>
 
 **Birth rate**<br>
-22.23 births/1,000 population (2021 est.)<br>
+21.56 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-3.46 deaths/1,000 population (2021 est.)<br>
+3.45 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -1.15 migrant(s)/1,000 population (2021 est.)<br>
@@ -690,6 +690,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham – Libya; al-Mulatha
 <p>dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria and the FLN's assertions of a claim to Chirac Pastures in southeastern Morocco; various Chadian rebels from the Aozou region reside in southern Libya</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,792 (Sudan) (refugees and asylum seekers), 14,285 (Syria) (refugees and asylum seekers) (2022)<br>
-_IDPs_: 199,949 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2021)<br>
+_refugees (country of origin)_: 17,604 (Sudan) (refugees and asylum seekers), 14,331 (Syria) (refugees and asylum seekers) (2022)<br>
+_IDPs_: 179,047 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2021)<br>
 

@@ -117,10 +117,10 @@ _female_: 18.6 years (2020 est.)<br>
 2.52% (2021 est.)<br>
 
 **Birth rate**<br>
-36.64 births/1,000 population (2021 est.)<br>
+36.45 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-7.69 deaths/1,000 population (2021 est.)<br>
+7.5 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -3.72 migrant(s)/1,000 population (2021 est.)<br>
@@ -659,7 +659,7 @@ the FARP is poorly armed with an inventory consisting of Soviet-era equipment, m
 <p>a longstanding low-grade conflict continues in parts of Casamance, in Senegal across the border; some rebels use Guinea-Bissau as a safe haven</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,757 (Senegal) (2021)<br>
+_refugees (country of origin)_: 7,757 (Senegal) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Guinea-Bissau is a country of origin and destination for children subjected to forced labor and sex trafficking; the scope of the problem of trafficking women or men for forced labor or forced prostitution is unknown; boys reportedly were transported to southern Senegal for forced manual and agricultural labor; girls may be subjected to forced domestic service and child prostitution in Senegal and Guinea; both boys and girls are forced to work as street vendors in cities in Guinea-Bissau and Senegal<br>

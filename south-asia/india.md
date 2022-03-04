@@ -126,10 +126,10 @@ _female_: 29.5 years (2020 est.)<br>
 1.04% (2021 est.)<br>
 
 **Birth rate**<br>
-17.53 births/1,000 population (2021 est.)<br>
+16.82 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-7.1 deaths/1,000 population (2021 est.)<br>
+10.3 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.04 migrant(s)/1,000 population (2021 est.)<br>
@@ -725,7 +725,7 @@ _LNG terminal(s) (import)_: Dabhol, Dahej, Hazira<br>
 
 **Military and security forces**<br>
 Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps (provides security for Ministry of Defense sites); Ministry of Home Affairs paramilitary forces: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2021)<br>
-note - the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (Indian Army)<br>
+note - the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>

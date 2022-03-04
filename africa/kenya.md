@@ -127,10 +127,10 @@ _female_: 20.1 years (2020 est.)<br>
 2.15% (2021 est.)<br>
 
 **Birth rate**<br>
-26.78 births/1,000 population (2021 est.)<br>
+26.39 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.09 deaths/1,000 population (2021 est.)<br>
+5.01 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.2 migrant(s)/1,000 population (2021 est.)<br>
@@ -747,7 +747,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 <p>Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; as of March 2019, Kenya provides shelter to nearly 475,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times; in 2018, Kenya signed an MoU with Uganda and South Sudan to help demarcate their borders</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 280,479 (Somalia), 135,255 (South Sudan), 20,647 (Ethiopia), 7,203 (Burundi) (2021); 48,284 (Democratic Republic of the Congo) (2022)&nbsp;<br>
+_refugees (country of origin)_: 278,657 (Somalia), 136,127 (South Sudan), 48,284 (Democratic Republic of the Congo), 20,523 (Ethiopia), 7,237 (Burundi) (2022)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2020)<br>
 _stateless persons_: 16,820 (mid-year 2021); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

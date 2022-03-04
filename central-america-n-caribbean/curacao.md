@@ -107,10 +107,10 @@ _female_: 39.5 years (2020 est.)<br>
 0.33% (2021 est.)<br>
 
 **Birth rate**<br>
-13.29 births/1,000 population (2021 est.)<br>
+13.2 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-8.65 deaths/1,000 population (2021 est.)<br>
+8.71 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -1.32 migrant(s)/1,000 population (2021 est.)<br>
@@ -547,6 +547,9 @@ no regular military forces; Curaçao Militia (CURMIL) (2021)<br>
 defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security<br>
 
 ## Transnational Issues
+
+**Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 14,200 (Venezuela) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Curacao; undocumented migrants, including the growing population of Venezuelans, are vulnerable to sex and labor trafficking; Curacaoan and foreign women and girls, mostly Dominican and Venezuelan, are exploited in sex trafficking; migrants from other Caribbean countries, South America, China, and India are subject to forced labor in construction, domestic servitude, landscaping, minimarkets, retail, and restaurants<br>

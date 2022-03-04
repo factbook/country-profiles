@@ -125,10 +125,10 @@ _female_: 33 years (2020 est.)<br>
 1% (2021 est.)<br>
 
 **Birth rate**<br>
-16.04 births/1,000 population (2021 est.)<br>
+15.69 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.78 deaths/1,000 population (2021 est.)<br>
+5.77 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.23 migrant(s)/1,000 population (2021 est.)<br>
@@ -296,6 +296,7 @@ _conventional long form_: Socialist Republic of Vietnam<br>
 _conventional short form_: Vietnam<br>
 _local long form_: Cong Hoa Xa Hoi Chu Nghia Viet Nam<br>
 _local short form_: Viet Nam<br>
+_former_: Democratic Republic of Vietnam (North Vietnam), Republic of Vietnam (South Vietnam)<br>
 _abbreviation_: SRV<br>
 _etymology_: "Viet nam" translates as "Viet south," where "Viet" is an ethnic self identification dating to a second century B.C. kingdom and "nam" refers to its location in relation to other Viet kingdoms<br>
 
@@ -712,14 +713,14 @@ information is limited and estimates vary; approximately 470,000 active duty tro
 **Military equipment inventories and acquisitions**<br>
 the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; Russia remains the main supplier of newer PAVN military equipment, although in recent years Vietnam has begun diversifying its procurement with purchases from other countries including Belarus, India, Israel, South Korea, and Ukraine; Vietnam has a limited defense industry (2021)<br>
 
-**Maritime threats**<br>
-the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; the number of reported incidents increased from two in 2019 to four in 2020, primarily near the port of Vung Tau<br>
-
 **Military service age and obligation**<br>
 18-27 years of age for compulsory and voluntary military service (females eligible for conscription, but in practice only males are drafted); conscription typically takes place twice annually and service obligation is 2 years (Army, Air Defense) and 3 years (Navy and Air Force) (2021)<br>
 
 **Military - note**<br>
 <p>the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary</p> <p>as of 2021, Vietnam maintained a security policy of non-alignment, but noted in 2019 that it would consider developing appropriate defense and security relations with other countries depending on circumstances<br><br><br></p><br>
+
+**Maritime threats**<br>
+the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; the number of reported incidents increased from two in 2019 to four in 2020, primarily near the port of Vung Tau<br>
 
 ## Transnational Issues
 

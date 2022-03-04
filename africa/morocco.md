@@ -130,11 +130,11 @@ note: does not include data from the former Western Sahara<br>
 note: does not include data from the former Western Sahara<br>
 
 **Birth rate**<br>
-17.58 births/1,000 population (2021 est.)<br>
+17.42 births/1,000 population (2022 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Death rate**<br>
-6.53 deaths/1,000 population (2021 est.)<br>
+6.6 deaths/1,000 population (2022 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Net migration rate**<br>

@@ -125,10 +125,10 @@ _female_: 18.8 years (2020 est.)<br>
 2.77% (2021 est.)<br>
 
 **Birth rate**<br>
-35.91 births/1,000 population (2021 est.)<br>
+35.53 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-7.93 deaths/1,000 population (2021 est.)<br>
+7.73 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.32 migrant(s)/1,000 population (2021 est.)<br>
@@ -735,7 +735,7 @@ the FAC inventory includes a mix of mostly older or second-hand Chinese, Russian
 note - Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
 
 **Military - note**<br>
-the FAC is largely focused on the threat from the terror group Boko Haram along its frontiers with Nigeria and Chad (Far North region) and an insurgency from armed Anglophone separatist groups in the North-West and South-West regions (as of Feb 2021, this internal conflict has left an estimated 3,000 civilians dead and over 700,000 people displaced since fighting started in 2016); in addition, the FAC often deploys units to the border region with the Central African Republic to counter intrusions from armed militias and bandits<br>
+the FAC is largely focused on the threat from the terrorist group Boko Haram along its frontiers with Nigeria and Chad (Far North region) and an insurgency from armed Anglophone separatist groups in the North-West and South-West regions (as of Feb 2021, this internal conflict has left an estimated 3,000 civilians dead and over 700,000 people displaced since fighting started in 2016); in addition, the FAC often deploys units to the border region with the Central African Republic to counter intrusions from armed militias and bandits<br>
 
 **Maritime threats**<br>
 tthe International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.&rdquo;<br>
@@ -753,7 +753,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 343,548 (Central African Republic), 121,539 (Nigeria) (2022)<br>
-_IDPs_: 933,138 (2021) (includes far north, northwest, and southwest)<br>
+_IDPs_: 936,767 (2022) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Cameroon and Cameroonians abroad; deteriorating economic and education conditions and diminished police and judicial presence caused by conflict in the Northwest and Southwest has left displaced persons vulnerable to trafficking; parents may be lured by promises of education or a better life for their children in urban areas, and then the children are subject to forced labor and sex trafficking; teenagers and adolescents may be lured to cities with promises of employment and then become victims of forced labor and sex trafficking; children from neighboring countries are forced to work in spare parts shops or cattle grazing by business owners and herders; Cameroonians, often from rural areas, are exploited in forced labor and sex trafficking in the Middle East, Europe, the United States, and African countries<br>

@@ -130,10 +130,10 @@ _female_: 39.4 years (2020 est.)<br>
 0.26% (2021 est.)<br>
 
 **Birth rate**<br>
-11.3 births/1,000 population (2021 est.)<br>
+9.93 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-8.26 deaths/1,000 population (2021 est.)<br>
+7.9 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.43 migrant(s)/1,000 population (2021 est.)<br>
@@ -739,7 +739,7 @@ note(s) - the Strategic Support Force includes the Space Systems Department, whi
 information varies; approximately 2 million total active duty troops (approximately 1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); estimated 600-650,000 People&rsquo;s Armed Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PLA is outfitted primarily with a wide mix of older and modern domestically-produced systems heavily influenced by technology derived from other countries; Russia is the top supplier of foreign military equipment since 2010; the Chinese defense-industrial sector is large and capable of producing advanced weapons systems across all military domains; it is the world's second largest arms producer (2021)<br>
+the PLA is outfitted primarily with a wide mix of older and modern domestically-produced systems heavily influenced by technology derived from other countries; Russia is the top supplier of foreign military equipment since 2010; the Chinese defense-industrial sector is large and capable of producing advanced weapons systems across all military domains (2021)<br>
 note - the PLA is in the midst of a decades-long modernization effort; in 2017, President XI set three developmental goals for the force - becoming a mechanized force with increased information and strategic capabilities by 2020, a fully modernized force by 2035, and a worldwide first-class military by mid-century<br>
 
 **Military service age and obligation**<br>

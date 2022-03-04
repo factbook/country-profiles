@@ -124,10 +124,10 @@ _female_: 17.6 years (2020 est.)<br>
 2.58% (2021 est.)<br>
 
 **Birth rate**<br>
-38.03 births/1,000 population (2021 est.)<br>
+37.47 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-10.59 deaths/1,000 population (2021 est.)<br>
+10.25 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -1.62 migrant(s)/1,000 population (2021 est.)<br>
@@ -742,8 +742,8 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,629 (Democratic Republic of Congo) (refugees and asylum seekers), 8,346 (Burundi) (refugees and asylum seekers) (2021)<br>
-_IDPs_: 668,000 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2021)<br>
+_refugees (country of origin)_: 10,938 (Democratic Republic of Congo) (refugees and asylum seekers), 8,395 (Burundi) (refugees and asylum seekers) (2022)<br>
+_IDPs_: 881,047 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>
 used by transnational organized crime networks from West and East Africa and South Asia as a transit point for drug trafficking and international money laundering; heroin from Southwest Asia, cocaine from South America, precursor chemicals and controlled pharmaceuticals from India, and methamphetamine from Nigeria transit destined for Southern Africa, Northern Africa, Europe, Canada, and the United States; cannabis is cultivated in Mozambique<br>

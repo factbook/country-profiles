@@ -122,10 +122,10 @@ _female_: 22.9 years (2020 est.)<br>
 0.82% (2021 est.)<br>
 
 **Birth rate**<br>
-22.79 births/1,000 population (2021 est.)<br>
+22.58 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-3.44 deaths/1,000 population (2021 est.)<br>
+3.45 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -11.17 migrant(s)/1,000 population (2021 est.)<br>
@@ -711,7 +711,7 @@ note - most women serve in the medical service; outside the medical service, wom
 325 Mali (MINUSMA) (Oct 2021)<br>
 
 **Military - note**<br>
-<p>the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s</p> <p>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2021 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of ash-Sham and Syria (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan</p> <p>Jordan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>Jordan signed a peace treaty with Israel in 1994</p><br>
+<p>the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s</p> <p>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2021 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan</p> <p>Jordan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>Jordan signed a peace treaty with Israel in 1994</p><br>
 
 ## Terrorism
 

@@ -126,10 +126,10 @@ _female_: 16.7 years (2020 est.)<br>
 2.97% (2021 est.)<br>
 
 **Birth rate**<br>
-41.6 births/1,000 population (2021 est.)<br>
+41.07 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-8.77 deaths/1,000 population (2021 est.)<br>
+8.53 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -3.17 migrant(s)/1,000 population (2021 est.)<br>
@@ -734,8 +734,8 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara; Jama'at
 <p>demarcation is underway with Burkina Faso</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,890 (Niger), 14,965 (Mauritania), 13,115 (Burkina Faso) (2021)<br>
-_IDPs_: 401,736 (Tuareg rebellion since 2012) (2021)<br>
+_refugees (country of origin)_: 20,910 (Niger), 14,965 (Mauritania), 14,932 (Burkina Faso) (2022)<br>
+_IDPs_: 350,110 (Tuareg rebellion since 2012) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Mali is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; women and girls are forced into domestic servitude, agricultural labor, and support roles in gold mines, as well as subjected to sex trafficking; Malian boys are found in conditions of forced labor in agricultural settings, gold mines, and the informal commercial sector, as well as forced begging in Mali and neighboring countries; Malians and other Africans who travel through Mali to Mauritania, Algeria, or Libya in hopes of reaching Europe are particularly at risk of becoming victims of human trafficking; men and boys, primarily of Songhai ethnicity, are subjected to debt bondage in the salt mines of Taoudenni in northern Mali; some members of Mali's Tuareg community are subjected to traditional slavery-related practices, and this involuntary servitude reportedly has extended to their children; reports indicate that non-governmental armed groups operating in northern Mali recruited children as combatants, cooks, porters, guards, spies, and sex slaves; slaveholders use some members of the Tuareg community in hereditary servitude where communities rather than individuals or families exploit the enslaved<br>

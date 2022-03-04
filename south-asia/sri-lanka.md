@@ -113,10 +113,10 @@ _female_: 35.1 years (2020 est.)<br>
 0.63% (2021 est.)<br>
 
 **Birth rate**<br>
-14.01 births/1,000 population (2021 est.)<br>
+13.8 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-6.45 deaths/1,000 population (2021 est.)<br>
+6.49 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -1.24 migrant(s)/1,000 population (2021 est.)<br>
@@ -699,11 +699,11 @@ the Sri Lankan military has approximately 250,000 total personnel (180,000 Army;
 **Military equipment inventories and acquisitions**<br>
 the Sri Lankan military inventory consists mostly of Chinese and Russian-origin equipment; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2021)<br>
 
-**Military deployments**<br>
-110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (Sep 2021)<br>
-
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military service (men and women); no conscription (2021)<br>
+
+**Military deployments**<br>
+110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (Sep 2021)<br>
 
 **Military - note**<br>
 <p>Sri Lanka traditionally has had close security ties to India; India participated in the counter-insurgency war against the LTTE from 1987-1991, losing over 1,000 soldiers in the conflict; as of 2021, the Sri Lankan and Indian militaries continued to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; however, since the end of the war with LTTE, Sri Lanka has also increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training</p><br>

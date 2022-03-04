@@ -119,10 +119,10 @@ _female_: 27.9 years (2020 est.)<br>
 0.19% (2021 est.)<br>
 
 **Birth rate**<br>
-16.64 births/1,000 population (2021 est.)<br>
+16.72 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-6.87 deaths/1,000 population (2021 est.)<br>
+6.91 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -7.84 migrant(s)/1,000 population (2021 est.)<br>
@@ -671,7 +671,7 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 1.1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Guyana Defense Force has approximately 4,000 active personnel (2021)<br>
+approximately 4,000 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Guyana Defense Force's limited inventory is mostly comprised of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2021)<br>

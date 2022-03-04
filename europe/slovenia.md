@@ -114,10 +114,10 @@ _female_: 46.6 years (2020 est.)<br>
 -0.03% (2021 est.)<br>
 
 **Birth rate**<br>
-8.5 births/1,000 population (2021 est.)<br>
+8.3 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-10.34 deaths/1,000 population (2021 est.)<br>
+10.4 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 1.54 migrant(s)/1,000 population (2021 est.)<br>
@@ -686,12 +686,12 @@ the Slovenian Armed Forces have approximately 7,000 active duty troops (2021)<br
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Slovenian Armed Forces is a mix of Soviet-era and smaller quantities of more modern Western equipment; since 2010, it has received limited amounts of military equipment from Finland, France, Norway, Russia, Sweden, and the US (2021)<br>
 
-**Military deployments**<br>
-230 Kosovo (NATO) (2021)<br>
-
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service (men and women); conscription abolished in 2003 (2021)<br>
 note - as of 2019, women comprised about 15% of the military's full-time personnel<br>
+
+**Military deployments**<br>
+230 Kosovo (NATO) (2021)<br>
 
 **Military - note**<br>
 Slovenia officially became a member of NATO in 2004<br>

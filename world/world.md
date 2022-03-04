@@ -522,6 +522,9 @@ _by type_: bulk carrier 12,319, container ship 5,428, general cargo 18,993, oil 
 2.2% of GDP (2017 est.)<br>
 2.25% of GDP (2016 est.)<br>
 
+**Military and security service personnel strengths**<br>
+estimated 20-25 million active duty military (2020)<br>
+
 **Military equipment inventories and acquisitions**<br>
 from 2010-2020, the US was assessed to be the world's leading arms exporter, followed by Russia; India and Saudi Arabia were the top arms importers for the same period<br>
 

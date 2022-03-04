@@ -117,10 +117,10 @@ _female_: 43.1 years (2020 est.)<br>
 0.44% (2021 est.)<br>
 
 **Birth rate**<br>
-11.17 births/1,000 population (2021 est.)<br>
+11.22 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-9.5 deaths/1,000 population (2021 est.)<br>
+9.52 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 2.74 migrant(s)/1,000 population (2021 est.)<br>
@@ -696,7 +696,7 @@ note(s) - women have been able serve in all military occupations, including comb
 140 Middle East/Iraq (NATO) (2021)<br>
 
 **Military - note**<br>
-Denmark is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>Denmark is a member of the EU, but opted out of the EU’s Common Defense and Security Policy, and therefore does not participate in EU military operations or in the cooperation on development and acquisition of military capabilities within the EU framework</p> <p>the Danish Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br></p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
+Denmark is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>Denmark is a member of the EU, but opted out of the EU’s Common Defense and Security Policy, and therefore does not participate in EU military operations or in the cooperation on development and acquisition of military capabilities within the EU framework <p>the Danish Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br></p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
 
 ## Terrorism
 

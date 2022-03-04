@@ -123,10 +123,10 @@ _female_: 16.5 years (2020 est.)<br>
 3.12% (2021 est.)<br>
 
 **Birth rate**<br>
-41.05 births/1,000 population (2021 est.)<br>
+40.45 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-9.7 deaths/1,000 population (2021 est.)<br>
+9.45 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.13 migrant(s)/1,000 population (2021 est.)<br>
@@ -719,8 +719,8 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 374,804 (Sudan), 35,878 (Cameroon) (2021); 118,849 (Central African Republic), 19,321 (Nigeria) (2022)<br>
-_IDPs_: 406,573 (majority are in the east) (2021)<br>
+_refugees (country of origin)_: 376,172 (Sudan), 118,849 (Central African Republic), 43,603 (Cameroon), 19,321 (Nigeria) (2022)<br>
+_IDPs_: 406,573 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Chad and Chadians abroad; most trafficking is internal; some children are sent by their parents to relatives or intermediaries to receive education, an apprenticeship, goods, or money and are then forced to work in domestic service or cattle herding; children are also forced to work in agriculture, gold mines, charcoal vending, and fishing, and those attending Koranic schools are forced into begging and street vending; girls from rural areas who search for work in larger towns are exploited in sex trafficking and domestic servitude; terrorist groups abduct children to serve as soldiers, suicide bombers, brides, and forced laborers<br>

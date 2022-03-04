@@ -123,10 +123,10 @@ _female_: 18.5 years (2020 est.)<br>
 2.55% (2021 est.)<br>
 
 **Birth rate**<br>
-33.63 births/1,000 population (2021 est.)<br>
+33.47 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-6.41 deaths/1,000 population (2021 est.)<br>
+6.3 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -1.71 migrant(s)/1,000 population (2021 est.)<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS), al-Qa&rsquo;ida, Harakat Sawa&rsquo;d
 <p>the effects of Sudan's ethnic and rebel militia fighting since the mid-20th century have penetrated all of the neighboring states; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; as of early 2019, more than 590,000 Sudanese refugees are being hosted in the Central African Republic, Chad, Egypt, Ethiopia, Kenya, and South Sudan; Sudan, in turn, is hosting more than 975,000 refugees and asylum seekers, including more than 845,000 from South Sudan; Sudan accuses South Sudan of supporting Sudanese rebel groups; Sudan claims but Egypt de facto administers security and economic development of the Halaib region north of the 22nd parallel boundary; periodic violent skirmishes with Sudanese residents over water and grazing rights persist among related pastoral populations along the border with the Central African Republic; South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 125,997 (Eritrea) (refugees and asylum seekers), 93,483 (Syria) (refugees and asylum seekers), 71,993 (Ethiopia) (refugees and asylum seekers), (2021); 798,056 (South Sudan) (refugees and asylum seekers), 27,619 (Central African Republic) (2022)<br>
+_refugees (country of origin)_: 798,056 (South Sudan) (refugees and asylum seekers), 127,959 (Eritrea) (refugees and asylum seekers), 93,482 (Syria) (refugees and asylum seekers), 72,406 (Ethiopia) (refugees and asylum seekers), 27,619 (Central African Republic) (2022)<br>
 _IDPs_: 2,276,000 (civil war 1983-2005; ongoing conflict in Darfur region; government and rebel fighting along South Sudan border; inter-tribal clashes) (2020)<br>
 
 **Trafficking in persons**<br>

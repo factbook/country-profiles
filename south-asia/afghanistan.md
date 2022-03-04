@@ -28,7 +28,7 @@ almost six times the size of Virginia; slightly smaller than Texas<br>
 
 **Land boundaries**<br>
 _total_: 5,987 km<br>
-_border countries_: China 91 km, Iran 921 km, Pakistan 2670 km, Tajikistan 1357 km, Turkmenistan 804 km, Uzbekistan 144 km<br>
+_border countries_: China 91 km, Iran 921 km, Pakistan 2,670 km, Tajikistan 1,357 km, Turkmenistan 804 km, Uzbekistan 144 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -122,10 +122,10 @@ _female_: 19.5 years (2020 est.)<br>
 2.34% (2021 est.)<br>
 
 **Birth rate**<br>
-36.08 births/1,000 population (2021 est.)<br>
+35.46 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-12.57 deaths/1,000 population (2021 est.)<br>
+12.33 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.1 migrant(s)/1,000 population (2021 est.)<br>
@@ -688,7 +688,7 @@ _river port(s)_: Hairatan, Qizil Qal`ah (Amu Darya)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-not available; as of late 2021, the Taliban had established a Ministry of Defense and named commanders and deputy commanders for 8 regional corps<br><br>prior to August 2021, the Afghan National Defense and Security Forces (ANDSF) were comprised of military, police, and other security elements under the Ministry of Defense and Ministry of Interior:<br><br>Ministry of Defense: Afghan National Army ((ANA), Afghan Air Force, Afghan Army Special Security Forces (ASSF; includes ANA Special Operations Command, General Command Police Special Units (GCPSU), and the Special Mission Wing (SMW)), Afghanistan National Army Territorial Forces (ANA-TF, lightly-armed local security forces); Afghan Border Force (ABF); Afghan National Civil Order Force (ANCOF)<br><br>Ministry of Interior: Afghan Uniform (National) Police (AUP); Public Security Police (PSP); Afghan Border Police (ABP); Afghan Anti-Crime Police; Afghan Local Police; Afghan Public Protection Force; Special Security Forces (2021)<br>
+not available; as of late 2021, the Taliban had established a Ministry of Defense and named commanders and deputy commanders for 8 regional corps (2021)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2019)<br>

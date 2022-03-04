@@ -67,7 +67,7 @@ _other_: 32.2% (2018 est.)<br>
 population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east<br>
 
 **Natural hazards**<br>
-<p>late spring droughts often followed by severe flooding; occasional typhoons during the early fall</p><p><strong>volcanism:</strong> Changbaishan (2,744 m) (also known as Baitoushan, Baegdu or P'aektu-san), on the Chinese border, is considered historically active</p><br>
+<p>late spring droughts often followed by severe flooding; occasional typhoons during the early fall</p> <p><strong>volcanism:</strong> P'aektu-san (2,744 m) (also known as Baitoushan, Baegdu, or Changbaishan), on the Chinese border, is considered historically active</p><br>
 
 **Geography - note**<br>
 strategic location bordering China, South Korea, and Russia; mountainous interior is isolated and sparsely populated<br>
@@ -114,10 +114,10 @@ _female_: 36.2 years (2020 est.)<br>
 0.49% (2021 est.)<br>
 
 **Birth rate**<br>
-14.35 births/1,000 population (2021 est.)<br>
+14.21 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-9.39 deaths/1,000 population (2021 est.)<br>
+9.53 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.04 migrant(s)/1,000 population (2021 est.)<br>

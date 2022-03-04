@@ -114,10 +114,10 @@ _female_: 27.6 years (2020 est.)<br>
 1.24% (2021 est.)<br>
 
 **Birth rate**<br>
-18.78 births/1,000 population (2021 est.)<br>
+18.49 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.84 deaths/1,000 population (2021 est.)<br>
+5.8 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.58 migrant(s)/1,000 population (2021 est.)<br>
@@ -652,7 +652,7 @@ Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; incl
 0.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Cabo Verdean Armed Forces (FACV) consist of approximately 1,200 personnel including about 100 in the Coast Guard (2021)<br>
+approximately 1,200 personnel including about 100 in the Coast Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FACV has a limited amount of mostly dated and second-hand equipment, largely from China, European countries, and the former Soviet Union (2021)<br>

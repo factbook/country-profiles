@@ -130,10 +130,10 @@ _female_: 24.5 years (2020 est.)<br>
 2.17% (2021 est.)<br>
 
 **Birth rate**<br>
-26.44 births/1,000 population (2021 est.)<br>
+21.46 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-4.36 deaths/1,000 population (2021 est.)<br>
+4.32 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.34 migrant(s)/1,000 population (2021 est.)<br>
@@ -736,7 +736,7 @@ the EAF's inventory is comprised of a mix of domestically produced, imported Sov
 
 **Military service age and obligation**<br>
 voluntary enlistment possible from age 16 (men and women); 18-30 years of age for male conscript military service; service obligation - 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education (2021)<br>
-note - as of 2020, over half of the military, as well as a considerable portion of the Central Security Force, was comprised of conscripts<br>
+note - as of 2020, conscripts were estimated to comprise over half of the military, as well as a considerable portion of the Central Security Force<br>
 
 **Military deployments**<br>
 1,000 Central African Republic (MINUSCA); 1,050 Mali (MINUSMA) (Sep 2021)<br>

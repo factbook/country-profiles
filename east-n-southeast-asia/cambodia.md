@@ -126,10 +126,10 @@ _female_: 27.2 years (2020 est.)<br>
 1.34% (2021 est.)<br>
 
 **Birth rate**<br>
-20.84 births/1,000 population (2021 est.)<br>
+19.29 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-7.15 deaths/1,000 population (2021 est.)<br>
+5.76 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.29 migrant(s)/1,000 population (2021 est.)<br>
@@ -705,9 +705,9 @@ note - the Cambodian National Police is under the Ministry of Interior<br>
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
 2.2% of GDP (2019 est.)<br>
-2.2% of GDP (2018)<br>
-2.1% of GDP (2017)<br>
-2% of GDP (2016)<br>
+2.2% of GDP (2018 est.)<br>
+2.1% of GDP (2017 est.)<br>
+2% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 100,000 total active troops including about 3,000 Navy and 1,000 Air Force; est. 10,000 Gendarmerie (2021)<br>
@@ -728,7 +728,7 @@ note - in 2018, women made up an estimated 6% of the active duty military<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Cambodia is concerned about Laos' extensive upstream dam construction; Cambodia and Thailand dispute sections of boundary; in 2011 Thailand and Cambodia resorted to arms in the dispute over the location of the boundary on the precipice surmounted by Preah Vihear Temple ruins, awarded to Cambodia by an International Court of Justice decision in 1962 and part of a UN World Heritage site; Cambodia accuses Vietnam of a wide variety of illicit cross-border activities; progress on a joint development area with Vietnam is hampered by an unresolved dispute over sovereignty of offshore islands</p><br>
+<p><em>Cambodia-Laos</em>: Cambodia is concerned that Laos' extensive upstream dam construction will affect Cambodian waters downstream</p> <p><em>Cambodia-Thailand</em>: Cambodia and Thailand have agreed to maintain peace along the border regardless of the decision of the International Court of Justice (ICJ) over territorial dispute near Cambodia's Preah Vihear Temple; the ICJ decision of 11 November 2013 determined that Cambodia had sovereignty over the whole territory of the promontory of Preah Vihear; the border disputes do not involve large amounts of territory, and most of the issues were settled by the Nov. 11, 2013 ICJ ruling</p> <p><em>Cambodia-Vietnam</em>: issues include casinos built in Cambodia near the border (gambling and prostitution); narcotics (criminals, crime, and abuse); trafficking of women and children, petrol smuggling into Cambodia from Vietnam, illegal logging, and illegal migration; a positive development is the special economic Zone in Bavet, Svay Rieng Province, Cambodia that is being developed by the Manhattan (Svay Rieng) International Group of Taiwan</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 57,444 (mid-year 2021)<br>

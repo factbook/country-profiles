@@ -126,10 +126,10 @@ _female_: 30.7 years (2020 est.)<br>
 2.46% (2021 est.)<br>
 
 **Birth rate**<br>
-17.55 births/1,000 population (2021 est.)<br>
+17.27 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-7.13 deaths/1,000 population (2021 est.)<br>
+6.81 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 14.22 migrant(s)/1,000 population (2021 est.)<br>
@@ -708,7 +708,7 @@ the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of
 note - as of 2017, women made up more than 20% of the active duty military<br>
 
 **Military - note**<br>
-between 2013 and 2017, Venezuela established at least a dozen military-led firms in a variety of economic sectors, such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; as of 2020, military officers reportedly led at least 60 state-owned companies; as of 2019, 9 of 32 government ministries were controlled by the military, including the ministries of agriculture and energy<br> <p>as of late 2021, an estimated 1,500- 2,000 members of the terrorist organizations National Liberation Army (ELN) and Revolutionary Armed Forces of Colombia dissidents (FARC-People's Army and Segundo Marquetalia - see Appendix T) operated in Venezuela, mostly in the states of Amazonas, Apure, Bolivar, Guarico, Tachira, and Zulia, although ELN was assessed to be present in 12 of Venezuela’s 23 states; the groups were particularly active in Apure state where the Venezuelan military clashed several times with FARC dissidents of the 10th Front in 2020-2021</p><br>
+between 2013 and 2017, Venezuela established at least a dozen military-led firms in a variety of economic sectors, such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; as of 2020, military officers reportedly led at least 60 state-owned companies; as of 2019, 9 of 32 government ministries were controlled by the military, including the ministries of agriculture and energy<br><br>as of late 2021, an estimated 1,500- 2,000 members of the terrorist organizations National Liberation Army (ELN) and Revolutionary Armed Forces of Colombia dissidents (FARC-People's Army and Segundo Marquetalia - see Appendix T) operated in Venezuela, mostly in the states of Amazonas, Apure, Bolivar, Guarico, Tachira, and Zulia, although ELN was assessed to be present in 12 of Venezuela’s 23 states; the groups were particularly active in Apure state where the Venezuelan military clashed several times with FARC dissidents of the 10th Front in 2020-2021<br>
 
 **Maritime threats**<br>
 The International Maritime Bureau continues to report the territorial and offshore waters in the Caribbean Sea as at risk for piracy and armed robbery against ships; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; in 2020, no attacks were reported which was a decrease from the six attacks in 2019<br>

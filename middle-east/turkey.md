@@ -123,10 +123,10 @@ _female_: 32.8 years (2020 est.)<br>
 0.7% (2021 est.)<br>
 
 **Birth rate**<br>
-14.54 births/1,000 population (2021 est.)<br>
+14.28 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-6.02 deaths/1,000 population (2021 est.)<br>
+6.05 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -1.55 migrant(s)/1,000 population (2021 est.)<br>
@@ -713,7 +713,7 @@ note(s) - the Gendarmerie is responsible for the maintenance of the public order
 1.51% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 425,000 active duty personnel (325,000 Army; 50,000 Navy; 50,000 Air Force); approximately 150,000 Gendarmerie (2021)<br>
+information varies; approximately 400,000 active duty personnel (300,000 Army; 50,000 Navy; 50,000 Air Force); approximately 150,000 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Turkish Armed Forces inventory is mostly comprised of a mix of domestically-produced and Western weapons systems, although in recent years, Turkey has also acquired some Chinese, Russian, and South Korean equipment; since 2010, the US is the leading provider of armaments to Turkey, followed by Italy, South Korea, and Spain; Turkey has a robust defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial platforms, although it is heavily dependent on Western technology; Turkey's defense industry also partners with other countries for defense production (2021)<br>
@@ -741,7 +741,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,741,321 (Syria) (2022)<br>
+_refugees (country of origin)_: 3,746,674 (Syria) (2022)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 

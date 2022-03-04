@@ -125,10 +125,10 @@ _female_: 20.3 years (2020 est.)<br>
 2.25% (2021 est.)<br>
 
 **Birth rate**<br>
-31.31 births/1,000 population (2021 est.)<br>
+31.51 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-7.55 deaths/1,000 population (2021 est.)<br>
+5.08 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -1.24 migrant(s)/1,000 population (2021 est.)<br>
@@ -715,12 +715,12 @@ approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,00
 **Military equipment inventories and acquisitions**<br>
 the FAS inventory includes mostly older or second-hand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program; since 2010, it has received newer equipment from nearly 15 countries, with China, France, and Israel as the leading suppliers (2021)<br>
 
+**Military service age and obligation**<br>
+18 years of age for voluntary military service (men and women); 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2021)<br>
+
 **Military deployments**<br>
 750 Gambia (ECOMIG); 1,000 Mali (MINUSMA) (2021)<br>
 note - in 2021, Senegal also had over 700 police deployed on UN missions<br>
-
-**Military service age and obligation**<br>
-18 years of age for voluntary military service (men and women); 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, Senegalese security forces continued to be engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance; while violent incidents have decreased since a tacit cease-fire was reached in 2012, the insurgency, which began in 1982, remains one of longest running low-level conflicts in the world, claiming more than 5,000 lives and leaving another 60,000 displaced</p><br>
@@ -736,7 +736,7 @@ Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 <p>cross-border trafficking in persons, timber, wildlife, and cannabis; rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,397 (Mauritania) (2021)<br>
+_refugees (country of origin)_: 18,375 (Mauritania) (2022)<br>
 _IDPs_: 8,400 (2020)<br>
 
 **Trafficking in persons**<br>

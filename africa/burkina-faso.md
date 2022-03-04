@@ -120,10 +120,10 @@ _female_: 18.7 years (2020 est.)<br>
 2.58% (2021 est.)<br>
 
 **Birth rate**<br>
-34.34 births/1,000 population (2021 est.)<br>
+33.57 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-7.92 deaths/1,000 population (2021 est.)<br>
+7.71 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.62 migrant(s)/1,000 population (2021 est.)<br>
@@ -719,9 +719,9 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara; al-Mula
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualou</p><br>
+<p>adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualau/Kourou</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,560 (Mali) (2021)<br>
+_refugees (country of origin)_: 24,737 (Mali) (2022)<br>
 _IDPs_: <p>1,501,775 (2021)</p><br>
 

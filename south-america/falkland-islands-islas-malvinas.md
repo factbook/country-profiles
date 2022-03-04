@@ -522,7 +522,7 @@ _major seaport(s)_: Stanley<br>
 no regular military forces<br>
 
 **Military - note**<br>
-defense is the responsibility of the UK<br>
+defense is the responsibility of the UK, which maintains about 1,200 troops on the islands<br>
 
 ## Transnational Issues
 

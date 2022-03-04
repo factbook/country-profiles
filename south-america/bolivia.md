@@ -125,10 +125,10 @@ _female_: 26 years (2020 est.)<br>
 1.39% (2021 est.)<br>
 
 **Birth rate**<br>
-20.36 births/1,000 population (2021 est.)<br>
+18.61 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-6.26 deaths/1,000 population (2021 est.)<br>
+6.48 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.23 migrant(s)/1,000 population (2021 est.)<br>
@@ -732,6 +732,9 @@ compulsory for all men between the ages of 18 and 22; men can volunteer from the
 
 **Disputes - international**<br>
 <p>Chile and Peru rebuff Bolivia's reactivated claim to restore the Atacama corridor, ceded to Chile in 1884, but Chile offers instead unrestricted but not sovereign maritime access through Chile for Bolivian products; contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of its border regions with all of its neighbors (Argentina, Brazil, Chile, Paraguay, and Peru)</p><br>
+
+**Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 12,100 (Venezuela) (2021)<br>
 
 **Illicit drugs**<br>
 <p>third-largest source country of cocaine and a major transit for Peruvian cocaine; in 2020 coca cultivation totaled 39,400 hectares (ha); illicit drug consumption is low in Bolivia;  most cocaine is exported to other Latin American countries, such as  Brazil, Paraguay, and Argentina, for domestic consumption, or for onward transit to West Africa and Europe, not the United States</p><br>

@@ -125,10 +125,10 @@ _female_: 16.9 years (2020 est.)<br>
 2.39% (2021 est.)<br>
 
 **Birth rate**<br>
-28.59 births/1,000 population (2021 est.)<br>
+27.94 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-4.66 deaths/1,000 population (2021 est.)<br>
+4.58 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 0 migrant(s)/1,000 population (2021 est.)<br>
@@ -723,5 +723,5 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,169 (Burundi) (refugees and asylum seekers), 7,407 (Rwanda) (refugees and asylum seekers) (2021); 32,843 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 32,843 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,311 (Burundi) (refugees and asylum seekers), 7,460 (Rwanda) (refugees and asylum seekers) (2022)<br>
 

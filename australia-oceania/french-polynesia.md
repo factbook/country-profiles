@@ -110,10 +110,10 @@ _female_: 33.5 years (2020 est.)<br>
 0.75% (2021 est.)<br>
 
 **Birth rate**<br>
-13.69 births/1,000 population (2021 est.)<br>
+13.47 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-5.51 deaths/1,000 population (2021 est.)<br>
+5.59 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.66 migrant(s)/1,000 population (2021 est.)<br>
@@ -591,7 +591,7 @@ _major seaport(s)_: Papeete<br>
 no regular military forces<br>
 
 **Military - note**<br>
-defense is the responsibility of France; France maintains forces in French Polynesia<br>
+defense is the responsibility of France; France maintains forces (about 900 troops) in French Polynesia<br>
 
 ## Transnational Issues
 

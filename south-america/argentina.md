@@ -28,7 +28,7 @@ slightly less than three-tenths the size of the US<br>
 
 **Land boundaries**<br>
 _total_: 11,968 km<br>
-_border countries_: Bolivia 942 km, Brazil 1263 km, Chile 6691 km, Paraguay 2531 km, Uruguay 541 km<br>
+_border countries_: Bolivia 942 km, Brazil 1,263 km, Chile 6,691 km, Paraguay 2,531 km, Uruguay 541 km<br>
 
 **Coastline**<br>
 4,989 km<br>
@@ -130,10 +130,10 @@ _female_: 33.6 years (2020 est.)<br>
 0.84% (2021 est.)<br>
 
 **Birth rate**<br>
-15.8 births/1,000 population (2021 est.)<br>
+15.58 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-7.36 deaths/1,000 population (2021 est.)<br>
+7.32 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.08 migrant(s)/1,000 population (2021 est.)<br>
@@ -750,7 +750,7 @@ as of 2021, the Argentine military was focused primarily on border security and 
 <p>Argentina continues to assert its claims to the UK-administered Falkland Islands (Islas Malvinas), South Georgia, and the South Sandwich Islands in its constitution, forcibly occupying the Falklands in 1982, but in 1995 agreed to no longer seek settlement by force; UK continues to reject Argentine requests for sovereignty talks; territorial claim in Antarctica partially overlaps UK and Chilean claims; uncontested dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime; the joint boundary commission, established by Chile and Argentina in 2001 has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur); contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border with Bolivia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 173,248 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 170,517 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
 <p>counterfeiting, drug trafficking, and other smuggling offenses in the Tri-Border area; some money laundering organizations in the TBA have may have links to the terrorist organization Hizballah; a large producer of chemical precursors</p><br>

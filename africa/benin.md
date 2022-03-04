@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<table> <tbody> <tr> <td> <p>Present day Benin is comprised of about 42 ethnic groups, including the Yoruba in the southeast, who migrated from what is now Nigeria in the 12th century; the Dendi in the north-central area, who came from Mali in the 16th century; the Bariba and the Fula in the northeast; the Ottamari in the Atakora mountains; the Fon in the area around Abomey in the south-central area; and the Mina, Xueda, and Aja, who came from Togo, on the coast. The Kingdom of Dahomey emerged on the Abomey plateau in the 17th century and was a regional power for much of the 18th and 19th centuries. Dahomey had an organized domestic economy, international trade with Europeans, and a highly organized military. The growth of Dahomey coincided with the growth of the Atlantic slave trade, and it became known as a major source of enslaved people. France began to control the coastal areas of Dahomey in the second half of the 19th century; the entire kingdom was conquered by 1894. French Dahomey achieved independence in 1960; it changed its name to the Republic of Benin in 1975.</p> <p>A succession of military governments ended in 1972 with the rise to power of Mathieu KEREKOU and the establishment of a government based on Marxist-Leninist principles. A move to representative government began in 1989. Two years later, free elections ushered in former Prime Minister Nicephore SOGLO as president, marking the first successful transfer of power in Africa from a dictatorship to a democracy. KEREKOU was returned to power by elections held in 1996 and 2001, though some irregularities were alleged. KEREKOU stepped down at the end of his second term in 2006 and was succeeded by Thomas YAYI Boni, a political outsider and independent, who won a second five-year term in March 2011. Patrice TALON, a wealthy businessman, took office in 2016; the space for pluralism, dissent, and free expression has narrowed under his administration. Talon won a second term in April 2021.</p> </td> </tr> </tbody> </table><br>
+Present day Benin is comprised of about 42 ethnic groups, including the Yoruba in the southeast, who migrated from what is now Nigeria in the 12th century; the Dendi in the north-central area, who came from Mali in the 16th century; the Bariba and the Fula in the northeast; the Ottamari in the Atakora mountains; the Fon in the area around Abomey in the south-central area; and the Mina, Xueda, and Aja, who came from Togo, on the coast. The Kingdom of Dahomey emerged on the Abomey plateau in the 17th century and was a regional power for much of the 18th and 19th centuries. Dahomey had an organized domestic economy, international trade with Europeans, and a highly organized military. The growth of Dahomey coincided with the growth of the Atlantic slave trade, and it became known as a major source of enslaved people. France began to control the coastal areas of Dahomey in the second half of the 19th century; the entire kingdom was conquered by 1894. French Dahomey achieved independence in 1960; it changed its name to the Republic of Benin in 1975.<br><br>A succession of military governments ended in 1972 with the rise to power of Mathieu KEREKOU and the establishment of a government based on Marxist-Leninist principles. A move to representative government began in 1989. Two years later, free elections ushered in former Prime Minister Nicephore SOGLO as president, marking the first successful transfer of power in Africa from a dictatorship to a democracy. KEREKOU was returned to power by elections held in 1996 and 2001, though some irregularities were alleged. KEREKOU stepped down at the end of his second term in 2006 and was succeeded by Thomas YAYI Boni, a political outsider and independent, who won a second five-year term in March 2011. Patrice TALON, a wealthy businessman, took office in 2016; the space for pluralism, dissent, and free expression has narrowed under his administration. Talon won a second term in April 2021.<br>
 
 ## Geography
 
@@ -119,10 +119,10 @@ _female_: 17.6 years (2020 est.)<br>
 3.36% (2021 est.)<br>
 
 **Birth rate**<br>
-41.55 births/1,000 population (2021 est.)<br>
+41.15 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-8.21 deaths/1,000 population (2021 est.)<br>
+8.01 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 0.25 migrant(s)/1,000 population (2021 est.)<br>
@@ -720,7 +720,7 @@ al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Grea
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>talks continue between Benin and Togo on funding the Adjrala hydroelectric dam on the Mona River; Benin retains a border dispute with Burkina Faso near the town of Koualou; location of Benin-Niger-Nigeria tripoint is unresolved</p><br>
+<p>talks continue between Benin and Togo on funding the Adjrala hydroelectric dam on the Mona River; Benin retains a border dispute with Burkina Faso near the town of Koualau/Kourou; location of Benin-Niger-Nigeria tripoint is unresolved</p><br>
 
 **Illicit drugs**<br>
 <p>a significant transit and departure country for cocaine shipments in Africa destined for Europe</p><br>

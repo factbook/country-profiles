@@ -121,10 +121,10 @@ _female_: 27.9 years (2020 est.)<br>
 1.62% (2021 est.)<br>
 
 **Birth rate**<br>
-14.56 births/1,000 population (2021 est.)<br>
+14.22 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-3.39 deaths/1,000 population (2021 est.)<br>
+3.42 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 5.04 migrant(s)/1,000 population (2021 est.)<br>
@@ -701,11 +701,11 @@ note - SANG also has an irregular force (Fowj), primarily Bedouin tribal volunte
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons systems from the US and Europe; since 2010, the US is the leading supplier of armaments; as of 2020-21, Saudi Arabia was the world's largest arms importer (2021)<br>
 
-**Military deployments**<br>
-est. 2,500-5,000 Yemen (varies depending on operations, which continued into 2021) (2021)<br>
-
 **Military service age and obligation**<br>
 17-40 for men; no conscription; as of 2021, women (aged 18-40) were allowed to serve in the Army, Air Defense, Navy, Strategic Missile Force, medical services, and internal security forces up to the rank of non-commissioned officer (2021)<br>
+
+**Military deployments**<br>
+est. 2,500-5,000 Yemen (varies depending on operations, which continued into 2021) (2021)<br>
 
 **Military - note**<br>
 <p>in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in support of the Republic of Yemen Government against the separatist Huthis; as of 2021, the coalition (consisting largely of Saudi forces) and the Huthis continued to engage in fighting, mostly with air and missile forces, although heavy ground fighting was also reportedly taking place over the key province of Marib; the Saudis have conducted numerous air strikes in northern Yemen, while the Huthis have launched attacks into Saudi territory with ballistic missiles and unmanned aerial vehicles armed with explosives; the Saudi-led coalition controlled the country’s airspace and the port of Hodeida; Saudi Arabia also has raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border, especially the areas bordering the governorates of Saada and Al-Jawf</p><br>

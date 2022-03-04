@@ -127,10 +127,10 @@ _female_: 37.3 years (2020 est.)<br>
 0.26% (2021 est.)<br>
 
 **Birth rate**<br>
-12.75 births/1,000 population (2021 est.)<br>
+12.71 births/1,000 population (2022 est.)<br>
 
 **Death rate**<br>
-9.24 deaths/1,000 population (2021 est.)<br>
+9.18 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
 -0.88 migrant(s)/1,000 population (2021 est.)<br>
@@ -703,12 +703,12 @@ approximately 22,000 active personnel (14,500 Army; 5,000 Navy; 2,500 Air Force)
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Armed Forces of Uruguay includes a wide variety of older or second-hand equipment; since 2010, it has imported limited amounts of military hardware from about 10 countries with Spain as the leading supplier (2021)<br>
 
-**Military deployments**<br>
-815 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (Oct 2021)<br>
-
 **Military service age and obligation**<br>
 18-30 years of age (18-22 years of age for Navy) for male or female voluntary military service; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2021)<br>
 note - as of 2017, women comprised about 19% of the active military<br>
+
+**Military deployments**<br>
+815 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (Oct 2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, the military had some domestic responsibilities, including perimeter security for a number of prisons and border security; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018  </p><br>
@@ -719,7 +719,7 @@ note - as of 2017, women comprised about 19% of the active military<br>
 <p>in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime; uncontested boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 17,500 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
