@@ -28,7 +28,7 @@ slightly smaller than West Virginia<br>
 
 **Land boundaries**<br>
 _total_: 1,880 km<br>
-_border countries_: Benin 651 km, Burkina Faso 131 km, Ghana 1098 km<br>
+_border countries_: Benin 651 km; Burkina Faso 131 km; Ghana 1,098 km<br>
 
 **Coastline**<br>
 56 km<br>

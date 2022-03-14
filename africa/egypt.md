@@ -28,7 +28,7 @@ more than eight times the size of Ohio; slightly more than three times the size 
 
 **Land boundaries**<br>
 _total_: 2,612 km<br>
-_border countries_: Gaza Strip 13 km, Israel 208 km, Libya 1115 km, Sudan 1276 km<br>
+_border countries_: Gaza Strip 13 km; Israel 208 km; Libya 1,115 km; Sudan 1,276 km<br>
 
 **Coastline**<br>
 2,450 km<br>

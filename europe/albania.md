@@ -28,7 +28,7 @@ slightly smaller than Maryland<br>
 
 **Land boundaries**<br>
 _total_: 691 km<br>
-_border countries_: Greece 212 km, Kosovo 112 km, Macedonia 181 km, Montenegro 186 km<br>
+_border countries_: Greece 212 km; Kosovo 112 km; Macedonia 181 km; Montenegro 186 km<br>
 
 **Coastline**<br>
 362 km<br>

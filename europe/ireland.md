@@ -342,7 +342,7 @@ _email address and website_: <br>https://www.dfa.ie/irish-embassy/usa/<br>
 _consulate(s) general_: Atlanta, Austin (TX), Boston, Chicago, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Alexandra MCKNIGHT (since 19 January 2021)<br>
+_chief of mission_: Ambassador Claire D. CRONIN (since 10 February 2022)<br>
 _embassy_: 42 Elgin Road, Ballsbridge, Dublin 4<br>
 _mailing address_: 5290 Dublin Place, Washington DC&nbsp; 20521-5290<br>
 _telephone_: [353] (1) 668-8777<br>

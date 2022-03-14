@@ -28,7 +28,7 @@ slightly smaller than Maryland<br>
 
 **Land boundaries**<br>
 _total_: 930 km<br>
-_border countries_: Burundi 315 km, Democratic Republic of the Congo 221 km, Tanzania 222 km, Uganda 172 km<br>
+_border countries_: Burundi 315 km; Democratic Republic of the Congo 221 km; Tanzania 222 km; Uganda 172 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

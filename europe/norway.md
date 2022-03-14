@@ -28,7 +28,7 @@ slightly larger than twice the size of Georgia; slightly larger than New Mexico<
 
 **Land boundaries**<br>
 _total_: 2,566 km<br>
-_border countries_: Finland 709 km, Sweden 1666 km, Russia 191 km<br>
+_border countries_: Finland 709 km; Sweden 1,666 km; Russia 191 km<br>
 
 **Coastline**<br>
 25,148 km (includes mainland 2,650 km, as well as long fjords, numerous small islands, and minor indentations 22,498 km; length of island coastlines 58,133 km)<br>

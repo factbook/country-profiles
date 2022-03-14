@@ -28,7 +28,7 @@ almost six times the size of Virginia; slightly smaller than Texas<br>
 
 **Land boundaries**<br>
 _total_: 5,987 km<br>
-_border countries_: China 91 km, Iran 921 km, Pakistan 2,670 km, Tajikistan 1,357 km, Turkmenistan 804 km, Uzbekistan 144 km<br>
+_border countries_: China 91 km; Iran 921 km; Pakistan 2,670 km; Tajikistan 1,357 km; Turkmenistan 804 km; Uzbekistan 144 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -98,7 +98,7 @@ _major-language sample(s)_: <br> <p>کتاب حقایق جهان، مرجعی ض
 <br><br><strong>note 2: </strong>Uzbeki, Turkmani, Pachaie, Nuristani, Balochi, and Pamiri are the third official languages in areas where the majority speaks them<br>
 
 **Religions**<br>
-Sunni 84.7 - 89.7%, Shia 10 - 15%, other &lt;0.3% (2009 est.)<br>
+Muslim 99.7% (Sunni 84.7 - 89.7%, Shia 10 - 15%), other &lt;0.3% (2009 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 40.62% (male 7,562,703/female 7,321,646)<br>

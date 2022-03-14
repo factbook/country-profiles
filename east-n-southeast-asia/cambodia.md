@@ -28,7 +28,7 @@ one and a half times the size of Pennsylvania; slightly smaller than Oklahoma<br
 
 **Land boundaries**<br>
 _total_: 2,530 km<br>
-_border countries_: Laos 555 km, Thailand 817 km, Vietnam 1158 km<br>
+_border countries_: Laos 555 km; Thailand 817 km; Vietnam 1158 km<br>
 
 **Coastline**<br>
 443 km<br>

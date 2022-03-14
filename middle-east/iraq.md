@@ -28,7 +28,7 @@ slightly more than three times the size of New York state<br>
 
 **Land boundaries**<br>
 _total_: 3,809 km<br>
-_border countries_: Iran 1599 km, Jordan 179 km, Kuwait 254 km, Saudi Arabia 811 km, Syria 599 km, Turkey 367 km<br>
+_border countries_: Iran 1,599 km; Jordan 179 km; Kuwait 254 km; Saudi Arabia 811 km; Syria 599 km; Turkey 367 km<br>
 
 **Coastline**<br>
 58 km<br>

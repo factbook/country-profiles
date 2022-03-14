@@ -28,7 +28,7 @@ three times the size of Pennsylvania; slightly smaller than Montana<br>
 
 **Land boundaries**<br>
 _total_: 3,694 km<br>
-_border countries_: Austria 801 km, Belgium 133 km, Czechia 704 km, Denmark 140 km, France 418 km, Luxembourg 128 km, Netherlands 575 km, Poland 447 km, Switzerland 348 km<br>
+_border countries_: Austria 801 km; Belgium 133 km; Czechia 704 km; Denmark 140 km; France 418 km; Luxembourg 128 km; Netherlands 575 km; Poland 447 km; Switzerland 348 km<br>
 
 **Coastline**<br>
 2,389 km<br>

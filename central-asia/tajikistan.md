@@ -28,7 +28,7 @@ slightly smaller than Wisconsin<br>
 
 **Land boundaries**<br>
 _total_: 4,130 km<br>
-_border countries_: Afghanistan 1357 km, China 477 km, Kyrgyzstan 984 km, Uzbekistan 1312 km<br>
+_border countries_: Afghanistan 1,357 km; China 477 km; Kyrgyzstan 984 km; Uzbekistan 1,312 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

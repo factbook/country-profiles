@@ -28,7 +28,7 @@ twice the size of Georgia<br>
 
 **Land boundaries**<br>
 _total_: 1,561 km<br>
-_border countries_: Saudi Arabia 658 km, UAE 609 km, Yemen 294 km<br>
+_border countries_: Saudi Arabia 658 km; UAE 609 km; Yemen 294 km<br>
 
 **Coastline**<br>
 2,092 km<br>
@@ -673,7 +673,7 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 13.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Sultan's Armed Forces (SAF) have approximately 40,000 total active troops (26,000 Army, 4,000 Navy; 4,000 Air Force; 6,000 Royal Guard) (2021)<br>
+approximately 40,000 total active troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly Europe and the US; since 2010, the UK and the US are the leading suppliers of arms to Oman (2021)<br>

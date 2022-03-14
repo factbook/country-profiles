@@ -28,7 +28,7 @@ slightly smaller than Oregon; slightly larger than twice the size of Pennsylvani
 
 **Land boundaries**<br>
 _total_: 4,046 km<br>
-_border countries_: Cote d'Ivoire 816 km, Guinea-Bissau 421 km, Liberia 590 km, Mali 1062 km, Senegal 363 km, Sierra Leone 794 km<br>
+_border countries_: Cote d'Ivoire 816 km; Guinea-Bissau 421 km; Liberia 590 km; Mali 1062 km; Senegal 363 km; Sierra Leone 794 km<br>
 
 **Coastline**<br>
 320 km<br>

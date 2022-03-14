@@ -28,7 +28,7 @@ slightly smaller than South Dakota<br>
 
 **Land boundaries**<br>
 _total_: 4,573 km<br>
-_border countries_: China 1063 km, Kazakhstan 1212 km, Tajikistan 984 km, Uzbekistan 1314 km<br>
+_border countries_: China 1,063 km; Kazakhstan 1,212 km; Tajikistan 984 km; Uzbekistan 1,314 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

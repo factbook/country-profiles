@@ -29,7 +29,7 @@ slightly smaller than West Virginia<br>
 
 **Land boundaries**<br>
 _total_: 661 km<br>
-_border countries_: Nicaragua 313 km, Panama 348 km<br>
+_border countries_: Nicaragua 313 km; Panama 348 km<br>
 
 **Coastline**<br>
 1,290 km<br>

@@ -28,7 +28,7 @@ slightly less than twice the size of New Jersey<br>
 
 **Land boundaries**<br>
 _total_: 1,770 km<br>
-_border countries_: Austria 158 km, France 525 km, Italy 698 km, Liechtenstein 41 km, Germany 348 km<br>
+_border countries_: Austria 158 km; France 525 km; Italy 698 km; Liechtenstein 41 km; Germany 348 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -701,7 +701,7 @@ Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2021)<br
 0.7% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Swiss Armed Forces maintain a full-time professional cadre of about 4,000 personnel along with approximately 20,000 conscripts brought in annually for 18-23 weeks of training; approximately 120,000 reserve forces (2021)<br>
+the Swiss Armed Forces maintain a full-time professional cadre of about 4,000 personnel along with approximately 18-20,000 conscripts brought in annually for 18-23 weeks of training; approximately 120,000 reserve forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Swiss Armed Forces inventory includes a mix of domestically-produced and imported weapons systems; the US is the leading supplier of military armaments to Switzerland since 2010; the Swiss defense industry produces a range of military land vehicles (2021)<br>

@@ -28,7 +28,7 @@ slightly larger than Virginia; slightly smaller than Mississippi<br>
 
 **Land boundaries**<br>
 _total_: 1,607 km<br>
-_border countries_: China 1352 km, South Korea 237 km, Russia 18 km<br>
+_border countries_: China 1,352 km; South Korea 237 km; Russia 18 km<br>
 
 **Coastline**<br>
 2,495 km<br>
@@ -620,7 +620,7 @@ note - the North also has a large paramilitary force organized into the Worker P
 between 2010 and 2019, military expenditures accounted for an estimated 20-25% of North Korea's GDP annually<br>
 
 **Military and security service personnel strengths**<br>
-assessments of the size of the Korean People&rsquo;s Army (KPA) vary widely; approximately 1.1-1.3 million active troops (950,000-1.0 million Army; 110-120,000 Air Force; 60,000 Navy; 10,000 Strategic Missile Forces); est. 200,000 internal security forces (2021)<br>
+widely varied information and assessments; approximately 1.14 million active troops (950,000 Army; 120,000 Air Force; 60,000 Navy; 10,000 Strategic Missile Forces); est. 200,000 internal security forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the KPA is equipped with older weapon systems originally acquired from the former Soviet Union, Russia, and China, as well as some domestically-produced equipment; North Korea manufactures copies and provides some upgrades to the older foreign weapon systems; it also produces a diverse array of military hardware, including small arms, munitions, light armored vehicles, tanks, naval vessels and submarines, and advanced weapons systems, such as ballistic missiles; since 2010, there were no publicly-reported transfers of weapons to North Korea (2021)<br>

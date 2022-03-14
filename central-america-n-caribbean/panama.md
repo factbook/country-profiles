@@ -28,7 +28,7 @@ slightly smaller than South Carolina<br>
 
 **Land boundaries**<br>
 _total_: 687 km<br>
-_border countries_: Colombia 339 km, Costa Rica 348 km<br>
+_border countries_: Colombia 339 km; Costa Rica 348 km<br>
 
 **Coastline**<br>
 2,490 km<br>

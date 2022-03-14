@@ -28,7 +28,7 @@ slightly more than five times the size of Georgia; slightly less than twice the 
 
 **Land boundaries**<br>
 _total_: 4,783 km<br>
-_border countries_: Malawi 1498 km, South Africa 496 km, Eswatini 108 km, Tanzania 840 km, Zambia 439 km, Zimbabwe 1402 km<br>
+_border countries_: Malawi 1498 km; South Africa 496 km; Eswatini 108 km; Tanzania 840 km; Zambia 439 km; Zimbabwe 1,402 km<br>
 
 **Coastline**<br>
 2,470 km<br>
@@ -356,7 +356,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Filipe Jacinto NYUSI (since 15 January 2015, re-elected 15 Oct 2019); note - the president is both chief of state and head of government<br>
-_head of government_: President Filipe Jacinto NYUSI (since 15 January 2015); Prime Minister Carlos Agostinho DO ROSARIO (since 17 January 2015; reconfirmed DO ROSARIO 17 January 2020)<br>
+_head of government_: President Filipe Jacinto NYUSI (since 15 January 2015); Prime Minister Adriano Afonso MALEIANE (since 3 March 2022); note - President NYUSI removed former Prime Minister Carlos Agostinho DO ROSARIO from office on 3 March 2022 as part of a cabinet reshuffle<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president elected directly by absolute majority popular vote (in 2 rounds, if needed) for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2019 (next to be held on 15 October 2024); prime minister appointed by the president (2019)<br>
 _election results_: Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%,&nbsp;Ossufo MOMADE&nbsp;(RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1% (2019)<br>
@@ -719,7 +719,7 @@ note - the FADM and other security forces are referred to collectively as the De
 0.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information limited and varied; approximately 11,000 personnel (10,000 Army; 200 Navy; 800 Air Force) (2021)<br>
+information limited and varied; approximately 12,000 personnel (11,000 Army; 200 Navy; 800 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FADM's inventory consists primarily of Soviet-era equipment, although since 2010 it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2021)<br>

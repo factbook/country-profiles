@@ -29,7 +29,7 @@ slightly less than twice the size of Texas<br>
 
 **Land boundaries**<br>
 _total_: 5,925 km<br>
-_border countries_: Djibouti 342 km, Eritrea 1033 km, Kenya 867 km, Somalia 1640 km, South Sudan 1299 km, Sudan 744 km<br>
+_border countries_: Djibouti 342 km; Eritrea 1,033 km; Kenya 867 km; Somalia 1,640 km; South Sudan 1,299 km; Sudan 744 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

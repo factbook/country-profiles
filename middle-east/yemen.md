@@ -29,7 +29,7 @@ almost four times the size of Alabama; slightly larger than twice the size of Wy
 
 **Land boundaries**<br>
 _total_: 1,601 km<br>
-_border countries_: Oman 294 km, Saudi Arabia 1307 km<br>
+_border countries_: Oman 294 km; Saudi Arabia 1,307 km<br>
 
 **Coastline**<br>
 1,906 km<br>

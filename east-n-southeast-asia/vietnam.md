@@ -28,7 +28,7 @@ about three times the size of Tennessee; slightly larger than New Mexico<br>
 
 **Land boundaries**<br>
 _total_: 4,616 km<br>
-_border countries_: Cambodia 1158 km, China 1297 km, Laos 2161 km<br>
+_border countries_: Cambodia 1,158 km; China 1,297 km; Laos 2,161 km<br>
 
 **Coastline**<br>
 3,444 km (excludes islands)<br>

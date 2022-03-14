@@ -28,7 +28,7 @@ slightly larger than twice the size of California<br>
 
 **Land boundaries**<br>
 _total_: 3,523.5 km<br>
-_border countries_: Algeria 1941 km, Mauritania 1564 km, Spain (Ceuta) 8 km and Spain (Melilla) 10.5 km<br>
+_border countries_: Algeria 1,941 km; Mauritania 1,564 km; Spain (Ceuta) 8 km and Spain (Melilla) 10.5 km<br>
 <strong>note:</strong> an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera<br>
 
 **Coastline**<br>
@@ -744,7 +744,7 @@ note(s) - the National Police manages internal law enforcement in cities; the Ro
 3.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Armed Forces have approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); est. 25,000 Gendarmerie (2021)<br>
+approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); est. 25,000 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Moroccan military's inventory is comprised of mostly older French and US equipment; since 2010, France and the US are the leading suppliers of weapons to Morocco (2021)<br>

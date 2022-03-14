@@ -28,7 +28,7 @@ slightly more than two times the size of Georgia; slightly smaller than Montana<
 
 **Land boundaries**<br>
 _total_: 2,563 km<br>
-_border countries_: Norway 709 km, Sweden 545 km, Russia 1309 km<br>
+_border countries_: Norway 709 km; Sweden 545 km; Russia 1,309 km<br>
 
 **Coastline**<br>
 1,250 km<br>

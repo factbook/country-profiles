@@ -28,7 +28,7 @@ almost seven times the size of Pennsylvania; slightly more than half the size of
 
 **Land boundaries**<br>
 _total_: 4,220 km<br>
-_border countries_: Angola 1427 km, Botswana 1544 km, South Africa 1005 km, Zambia 244 km<br>
+_border countries_: Angola 1,427 km; Botswana 1,544 km; South Africa 1,005 km; Zambia 244 km<br>
 
 **Coastline**<br>
 1,572 km<br>

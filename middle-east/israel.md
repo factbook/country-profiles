@@ -28,7 +28,7 @@ slightly larger than New Jersey<br>
 
 **Land boundaries**<br>
 _total_: 1,068 km<br>
-_border countries_: Egypt 208 km, Gaza Strip 59 km, Jordan 327 km (20 km are within the Dead Sea), Lebanon 81 km, Syria 83 km, West Bank 330 km<br>
+_border countries_: Egypt 208 km; Gaza Strip 59 km; Jordan 327 km (20 km are within the Dead Sea); Lebanon 81 km; Syria 83 km; West Bank 330 km<br>
 
 **Coastline**<br>
 273 km<br>
@@ -697,7 +697,7 @@ note - the Border Police is a unit within the Israel Police with its own organiz
 5.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Israel Defense Forces (IDF) have approximately 173,000 active personnel (130,000 Ground Forces; 9,000 Naval; 34,000 Air Force) (2021)<br>
+approximately 173,000 active personnel (130,000 Ground Forces; 9,000 Naval; 34,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the majority of the IDF's inventory is comprised of weapons that are domestically-produced or imported from Europe and the US; since 2010, the US is the leading supplier of arms to Israel; Israel has a broad defense industrial base that can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2021)<br>

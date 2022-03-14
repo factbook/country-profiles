@@ -28,7 +28,7 @@ about the size of South Carolina; slightly more than two-thirds the size of Penn
 
 **Land boundaries**<br>
 _total_: 2,524 km<br>
-_border countries_: Czech Republic 402 km, Germany 801 km, Hungary 321 km, Italy 404 km, Liechtenstein 34 km, Slovakia 105 km, Slovenia 299 km, Switzerland 158 km<br>
+_border countries_: Czech Republic 402 km; Germany 801 km; Hungary 321 km; Italy 404 km; Liechtenstein 34 km; Slovakia 105 km; Slovenia 299 km; Switzerland 158 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -698,7 +698,7 @@ Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (20
 0.8% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the Austrian Armed Forces have approximately 23,000 total active duty personnel (13,000 Land Forces; 2,500 Air Force; 7,500 other, support forces) (2021)<br>
+the Austrian Armed Forces have approximately 25,000 total active duty personnel (20,000 Army; 5,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Austrian military's inventory includes a mix of domestically-produced and imported weapons systems from European countries and the US; the Austrian defense industry produces a range of equipment and partners with other countries (2021)<br>

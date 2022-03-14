@@ -29,7 +29,7 @@ slightly smaller than Virginia<br>
 
 **Land boundaries**<br>
 _total_: 1,224 km<br>
-_border countries_: Spain 1224 km<br>
+_border countries_: Spain 1,224 km<br>
 
 **Coastline**<br>
 1,793 km<br>

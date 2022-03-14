@@ -28,7 +28,7 @@ slightly smaller than Texas; about four times the size of Georgia<br>
 
 **Land boundaries**<br>
 _total_: 5,920 km<br>
-_border countries_: Cameroon 901 km, Chad 1556 km, Democratic Republic of the Congo 1747 km, Republic of the Congo 487 km, South Sudan 1055 km, Sudan 174 km<br>
+_border countries_: Cameroon 901 km; Chad 1556 km; Democratic Republic of the Congo 1,747 km, Republic of the Congo 487 km; South Sudan 1055 km; Sudan 174 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -680,7 +680,7 @@ note - in 2019-2021, CAR created three Mixed Special Security units (<em>Unité
 1.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 10,000 active troops, including an air component of 100-200 and up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2021)<br>
+information varies; approximately 10,000 active troops, including an air component of about 200 and up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FACA is lightly and poorly armed with mostly outdated weapons; since 2010, it has received small amounts of second-hand equipment from China, Russia, and Ukraine (2021)<br>

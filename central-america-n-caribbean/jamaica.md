@@ -345,7 +345,7 @@ _consulate(s) general_: Miami, New York<br>
 _consulate(s)_: Atlanta, Boston, Chicago, Concord (MA), Houston, Los Angeles, Philadelphia, Richmond (VA), San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Scott FEEKEN (since 9 August 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires John McINTYRE (since 20 January 2021)<br>
 _embassy_: 142 Old Hope Road, Kingston 6<br>
 _mailing address_: 3210 Kingston Place, Washington DC&nbsp; 20521-3210<br>
 _telephone_: (876) 702-6000 (2018)<br>

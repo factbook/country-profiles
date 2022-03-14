@@ -28,7 +28,7 @@ slightly smaller than Pennsylvania<br>
 
 **Land boundaries**<br>
 _total_: 1,667 km<br>
-_border countries_: Belize 266 km, El Salvador 199 km, Honduras 244 km, Mexico 958 km<br>
+_border countries_: Belize 266 km; El Salvador 199 km; Honduras 244 km; Mexico 958 km<br>
 
 **Coastline**<br>
 400 km<br>
@@ -703,7 +703,7 @@ Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Nava
 0.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 21,500 active personnel (19,000 Land Forces; 1,500 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2021)<br>
+information varies; approximately 21,000 active personnel (19,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Guatemalan military inventory is small and mostly comprised of older US equipment; since 2010, Guatemala has received small amounts of equipment from Canada, Colombia, Spain, Taiwan, and the US (2021)<br>

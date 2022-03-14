@@ -28,7 +28,7 @@ slightly larger than West Virginia<br>
 
 **Land boundaries**<br>
 _total_: 1,370 km<br>
-_border countries_: Belarus 161 km, Estonia 333 km, Lithuania 544 km, Russia 332 km<br>
+_border countries_: Belarus 161 km; Estonia 333 km; Lithuania 544 km; Russia 332 km<br>
 
 **Coastline**<br>
 498 km<br>
@@ -700,7 +700,7 @@ the Latvian military's inventory is limited and consists of a mixture of Soviet-
 note - as of 2019, women comprised about 16% of the military's full-time personnel<br>
 
 **Military - note**<br>
-Latvia officially became a member of NATO in 2004<br> <p>since 2017, Latvia has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by Canada and had about 1,500 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Latvia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations</p><br>
+Latvia officially became a member of NATO in 2004<br> <p>since 2017, Latvia has hosted a Canadian-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative</p> <p>NATO also has provided air protection for Latvia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations</p><br>
 
 ## Transnational Issues
 

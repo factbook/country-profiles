@@ -28,7 +28,7 @@ slightly larger than California; about four times the size of Pennsylvania<br>
 
 **Land boundaries**<br>
 _total_: 5,018 km<br>
-_border countries_: Central African Republic 901 km, Chad 1116 km, Republic of the Congo 494 km, Equatorial Guinea 183 km, Gabon 349 km, Nigeria 1975 km<br>
+_border countries_: Central African Republic 901 km; Chad 1,116 km; Republic of the Congo 494 km; Equatorial Guinea 183 km; Gabon 349 km; Nigeria 1975 km<br>
 
 **Coastline**<br>
 402 km<br>
@@ -752,7 +752,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 343,548 (Central African Republic), 121,539 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 346,784 (Central African Republic), 124,715 (Nigeria) (2022)<br>
 _IDPs_: 936,767 (2022) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

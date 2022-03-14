@@ -28,7 +28,7 @@ about six times the size of Georgia; slightly more than twice the size of Califo
 
 **Land boundaries**<br>
 _total_: 4,477 km<br>
-_border countries_: Benin 809 km, Cameroon 1975 km, Chad 85 km, Niger 1608 km<br>
+_border countries_: Benin 809 km; Cameroon 1,975 km; Chad 85 km; Niger 1,608 km<br>
 
 **Coastline**<br>
 853 km<br>
@@ -735,7 +735,7 @@ Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of
 information varies; approximately 135,000 active personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); est. 80,000 Security and Civil Defense Corps (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Nigerian Armed Forces' inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; since 2010, Nigeria has undertaken a considerable military modernization program, and has received equipment from some 20 countries with China, Russia, and the US as the leading suppliers; Nigeria has been the largest arms importer in sub-Saharan Africa since 2014; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2021)<br>
+the Nigerian Armed Forces' inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; since 2010, Nigeria has undertaken a considerable military modernization program, and has received equipment from some 20 countries with China, Russia, and the US as the leading suppliers; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2021)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service (men and women); no conscription (2021)<br>

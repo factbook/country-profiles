@@ -28,7 +28,7 @@ slightly smaller than Texas<br>
 
 **Land boundaries**<br>
 _total_: 6,522 km<br>
-_border countries_: Bangladesh 271 km, China 2129 km, India 1468 km, Laos 238 km, Thailand 2416 km<br>
+_border countries_: Bangladesh 271 km; China 2,129 km; India 1,468 km; Laos 238 km; Thailand 2,416 km<br>
 
 **Coastline**<br>
 1,930 km<br>

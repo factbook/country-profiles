@@ -28,7 +28,7 @@ almost six times the size of Georgia; slightly more than twice the size of Calif
 
 **Land boundaries**<br>
 _total_: 5,267 km<br>
-_border countries_: Brazil 2137 km, Colombia 2341 km, Guyana 789 km<br>
+_border countries_: Brazil 2,137 km; Colombia 2,341 km; Guyana 789 km<br>
 
 **Coastline**<br>
 2,800 km<br>

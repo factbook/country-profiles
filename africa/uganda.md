@@ -28,7 +28,7 @@ slightly more than two times the size of Pennsylvania; slightly smaller than Ore
 
 **Land boundaries**<br>
 _total_: 2,729 km<br>
-_border countries_: Democratic Republic of the Congo 877 km, Kenya 814 km, Rwanda 172 km, South Sudan 475 km, Tanzania 391 km<br>
+_border countries_: Democratic Republic of the Congo 877 km; Kenya 814 km; Rwanda 172 km; South Sudan 475 km; Tanzania 391 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

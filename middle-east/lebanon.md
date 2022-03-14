@@ -28,7 +28,7 @@ about one-third the size of Maryland<br>
 
 **Land boundaries**<br>
 _total_: 484 km<br>
-_border countries_: Israel 81 km, Syria 403 km<br>
+_border countries_: Israel 81 km; Syria 403 km<br>
 
 **Coastline**<br>
 225 km<br>
@@ -684,7 +684,7 @@ note(s) - the commander of the LAF is also the commander of the Army; the LAF pa
 5.1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Lebanese Armed Forces (LAF) have approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 Air Force) (2021)<br>
+approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the LAF inventory includes a wide mix of mostly older equipment, largely from the US and European countries, particularly France and Germany; since 2010, the US is the leading supplier of armaments (mostly second hand equipment) to Lebanon (2021)<br>

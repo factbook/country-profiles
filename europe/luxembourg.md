@@ -28,7 +28,7 @@ slightly smaller than Rhode Island; about half the size of Delaware<br>
 
 **Land boundaries**<br>
 _total_: 327 km<br>
-_border countries_: Belgium 130 km, France 69 km, Germany 128 km<br>
+_border countries_: Belgium 130 km; France 69 km; Germany 128 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

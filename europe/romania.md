@@ -28,7 +28,7 @@ twice the size of Pennsylvania; slightly smaller than Oregon<br>
 
 **Land boundaries**<br>
 _total_: 2,844 km<br>
-_border countries_: Bulgaria 605 km, Hungary 424 km, Moldova 683 km, Serbia 531 km, Ukraine 601 km<br>
+_border countries_: Bulgaria 605 km; Hungary 424 km; Moldova 683 km; Serbia 531 km; Ukraine 601 km<br>
 
 **Coastline**<br>
 225 km<br>
@@ -701,7 +701,7 @@ Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Interna
 1.72% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the Romanian Armed Forces have approximately 67,000 active duty personnel (50,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force; note - approximately 10-15,000 personnel are considered joint service) (2021)<br>
+the Romanian Armed Forces have approximately 67,000 active duty personnel (50,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Romanian Armed Forces is comprised mostly of Soviet-era and older domestically-produced weapons systems; there is also a smaller mix of Western-origin equipment received in more recent years from European countries and the US&nbsp; (2021)<br>
@@ -727,8 +727,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 85,444 (Ukraine) (2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 9,515 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
+<strong>note:</strong> 9,519 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

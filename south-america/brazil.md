@@ -29,7 +29,7 @@ slightly smaller than the US<br>
 
 **Land boundaries**<br>
 _total_: 16,145 km<br>
-_border countries_: Argentina 1263 km, Bolivia 3403 km, Colombia 1790 km, French Guiana 649 km, Guyana 1308 km, Paraguay 1371 km, Peru 2659 km, Suriname 515 km, Uruguay 1050 km, Venezuela 2137 km<br>
+_border countries_: Argentina 1,263 km; Bolivia 3,403 km; Colombia 1,790 km; French Guiana 649 km; Guyana 1,308 km; Paraguay 1,371 km; Peru 2,659 km; Suriname 515 km; Uruguay 1,050 km; Venezuela 2,137 km<br>
 
 **Coastline**<br>
 7,491 km<br>
@@ -736,7 +736,7 @@ Brazilian Armed Forces: Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy
 1.3% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Brazilian Armed Forces have approximately 360,000 active personnel (215,000 Army; 75,000 Navy; 70,000 Air Force) (2021)<br>
+the Brazilian Armed Forces have approximately 360,000 active personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Brazilian military's inventory consists of a mix of domestically-produced and imported weapons, largely from Europe and the US; since 2010, France, Germany, the UK, and the US are the leading suppliers of military equipment to Brazil; Brazil's defense industry is capable of designing and manufacturing equipment for all three military services and for export; it also jointly produces equipment with other countries (2021)<br>

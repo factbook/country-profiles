@@ -28,7 +28,7 @@ slightly larger than Maryland<br>
 
 **Land boundaries**<br>
 _total_: 1,885 km<br>
-_border countries_: Romania 683 km, Ukraine 1202 km<br>
+_border countries_: Romania 683 km; Ukraine 1202 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -687,7 +687,7 @@ National Army: Land Forces (Fortele Terestre ale Republicii Moldova, FTRM); Air 
 0.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Moldovan National Army has approximately 6,000 active troops (2021)<br>
+approximately 6,000 active troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Moldovan military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; since 2000, it has received small amounts of donated material from other nations, including the US (2021)<br>
@@ -705,7 +705,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p>Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,779 applicants for forms of legal stay other than asylum (Ukraine) (2015)<br>
+_refugees (country of origin)_: 82,762 (Ukraine) (2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

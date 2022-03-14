@@ -28,7 +28,7 @@ slightly more than twice the size of Washington, DC<br>
 
 **Land boundaries**<br>
 _total_: 72 km<br>
-_border countries_: Egypt 13 km, Israel 59 km<br>
+_border countries_: Egypt 13 km; Israel 59 km<br>
 
 **Coastline**<br>
 40 km<br>

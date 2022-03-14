@@ -28,7 +28,7 @@ slightly less than 3.5 times the size of Texas<br>
 
 **Land boundaries**<br>
 _total_: 6,734 km<br>
-_border countries_: Libya 989 km, Mali 1,359 km, Mauritania 460 km, Morocco 1,941 km, Niger 951 km, Tunisia 1,034 km<br>
+_border countries_: Libya 989 km; Mali 1,359 km; Mauritania 460 km; Morocco 1,941 km; Niger 951 km; Tunisia 1,034 km<br>
 
 **Coastline**<br>
 998 km<br>
@@ -689,7 +689,7 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes coast
 6.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 130,000 ANP personnel (110,000 Army; 6,000 Navy; 14,000 Air Force); approximately 130-140,000 National Gendarmerie; approximately 200,000 General Directorate of National Security (2021)<br>
+approximately 140,000 ANP personnel (120,000 Army; 6,000 Navy; 14,000 Air Force); approximately 130,000 National Gendarmerie; approximately 200,000 General Directorate of National Security (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ANP's inventory includes mostly Russian-sourced equipment; since 2010, China, Germany, and Russia are the leading suppliers of armaments to Algeria (2021)<br>

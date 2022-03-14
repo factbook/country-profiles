@@ -28,7 +28,7 @@ about 0.9 times the size of Washington, DC<br>
 
 **Land boundaries**<br>
 _total_: 75 km<br>
-_border countries_: Austria 34 km, Switzerland 41 km<br>
+_border countries_: Austria 34 km; Switzerland 41 km<br>
 
 **Coastline**<br>
 0 km (doubly landlocked)<br>

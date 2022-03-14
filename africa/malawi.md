@@ -28,7 +28,7 @@ slightly smaller than Pennsylvania<br>
 
 **Land boundaries**<br>
 _total_: 2,857 km<br>
-_border countries_: Mozambique 1498 km, Tanzania 512 km, Zambia 847 km<br>
+_border countries_: Mozambique 1,498 km; Tanzania 512 km; Zambia 847 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

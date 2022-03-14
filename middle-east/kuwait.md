@@ -28,7 +28,7 @@ slightly smaller than New Jersey<br>
 
 **Land boundaries**<br>
 _total_: 475 km<br>
-_border countries_: Iraq 254 km, Saudi Arabia 221 km<br>
+_border countries_: Iraq 254 km; Saudi Arabia 221 km<br>
 
 **Coastline**<br>
 499 km<br>

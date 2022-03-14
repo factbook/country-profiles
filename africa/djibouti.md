@@ -28,7 +28,7 @@ slightly smaller than New Jersey<br>
 
 **Land boundaries**<br>
 _total_: 528 km<br>
-_border countries_: Eritrea 125 km, Ethiopia 342 km, Somalia 61 km<br>
+_border countries_: Eritrea 125 km; Ethiopia 342 km; Somalia 61 km<br>
 
 **Coastline**<br>
 314 km<br>

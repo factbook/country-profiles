@@ -28,7 +28,7 @@ about four times the size of Virginia; slightly larger than California<br>
 
 **Land boundaries**<br>
 _total_: 6,893 km<br>
-_border countries_: Afghanistan 144 km, Kazakhstan 2330 km, Kyrgyzstan 1314 km, Tajikistan 1312 km, Turkmenistan 1793 km<br>
+_border countries_: Afghanistan 144 km; Kazakhstan 2,330 km; Kyrgyzstan 1,314 km; Tajikistan 1,312 km; Turkmenistan 1,793 km<br>
 
 **Coastline**<br>
 0 km (doubly landlocked); note - Uzbekistan includes the southern portion of the Aral Sea with a 420 km shoreline<br>
@@ -681,7 +681,7 @@ note - the National Guard, also under the Ministry of Defense, ensures public or
 2.5% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 50-60,000 total active troops (2021)<br>
+information varies; approximately 60,000 total active troops, including 10-15,000 Air Force (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Uzbek Armed Forces use mainly Soviet-era equipment, although since 2010 they have received weapons and aircraft from a variety of sources, including China, France, Russia, Spain, Turkey, and the US (2021)<br>

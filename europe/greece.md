@@ -28,7 +28,7 @@ slightly smaller than Alabama<br>
 
 **Land boundaries**<br>
 _total_: 1,110 km<br>
-_border countries_: Albania 212 km, Bulgaria 472 km, Macedonia 234 km, Turkey 192 km<br>
+_border countries_: Albania 212 km; Bulgaria 472 km; North Macedonia 234 km; Turkey 192 km<br>
 
 **Coastline**<br>
 13,676 km<br>
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,215,180 estimated refugee and migrant arrivals (January 2015-February 2022); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
+<strong>note:</strong> 1,215,376 estimated refugee and migrant arrivals (January 2015-February 2022); as of the end of September 2021, Greece hosted an estimated 164,009 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

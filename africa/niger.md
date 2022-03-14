@@ -28,7 +28,7 @@ slightly less than twice the size of Texas<br>
 
 **Land boundaries**<br>
 _total_: 5,834 km<br>
-_border countries_: Algeria 951 km, Benin 277 km, Burkina Faso 622 km, Chad 1196 km, Libya 342 km, Mali 838 km, Nigeria 1608 km<br>
+_border countries_: Algeria 951 km; Benin 277 km; Burkina Faso 622 km; Chad 1,196 km; Libya 342 km; Mali 838 km; Nigeria 1,608 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

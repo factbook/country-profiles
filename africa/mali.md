@@ -28,7 +28,7 @@ slightly less than twice the size of Texas<br>
 
 **Land boundaries**<br>
 _total_: 7,908 km<br>
-_border countries_: Algeria 1359 km, Burkina Faso 1325 km, Cote d'Ivoire 599 km, Guinea 1062 km, Mauritania 2236 km, Niger 838 km, Senegal 489 km<br>
+_border countries_: Algeria 1,359 km; Burkina Faso 1,325 km; Cote d'Ivoire 599 km; Guinea 1,062 km; Mauritania 2,236 km; Niger 838 km, Senegal 489 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -708,7 +708,7 @@ note(s) - the Gendarmerie and the National Guard are under the authority of the 
 2.8% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 16,000 FAMa (15,000 Army; 1,000 Air Force); estimated 10,000 Gendarmerie and National Guard (2021)<br>
+information varies; approximately 16,000 active personnel (15,000 Army; 1,000 Air Force); estimated 10,000 Gendarmerie and National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAMa's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of mostly second-hand armaments from more than a dozen countries (2021)<br>

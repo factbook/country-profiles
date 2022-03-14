@@ -28,7 +28,7 @@ slightly larger than Delaware<br>
 
 **Land boundaries**<br>
 _total_: 714 km<br>
-_border countries_: Albania 112 km, Macedonia 160 km, Montenegro 76 km, Serbia 366 km<br>
+_border countries_: Albania 112 km; North Macedonia 160 km; Montenegro 76 km; Serbia 366 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

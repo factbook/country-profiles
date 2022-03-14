@@ -29,7 +29,7 @@ about three-quarters the size of Pennsylvania; slightly smaller than Maine<br>
 
 **Land boundaries**<br>
 _total_: 2,468 km<br>
-_border countries_: Armenia 996 km, Georgia 428 km, Iran 689 km, Russia 338 km, Turkey 17 km<br>
+_border countries_: Armenia 996 km; Georgia 428 km; Iran 689 km; Russia 338 km; Turkey 17 km<br>
 
 **Coastline**<br>
 0 km (landlocked); note - Azerbaijan borders the Caspian Sea (713 km)<br>

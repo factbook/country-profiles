@@ -28,7 +28,7 @@ slightly smaller than Oregon<br>
 
 **Land boundaries**<br>
 _total_: 2,420 km<br>
-_border countries_: Burkina Faso 602 km, Cote d'Ivoire 720 km, Togo 1098 km<br>
+_border countries_: Burkina Faso 602 km; Cote d'Ivoire 720 km; Togo 1098 km<br>
 
 **Coastline**<br>
 539 km<br>

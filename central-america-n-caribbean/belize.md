@@ -28,7 +28,7 @@ slightly smaller than Massachusetts<br>
 
 **Land boundaries**<br>
 _total_: 542 km<br>
-_border countries_: Guatemala 266 km, Mexico 276 km<br>
+_border countries_: Guatemala 266 km; Mexico 276 km<br>
 
 **Coastline**<br>
 386 km<br>

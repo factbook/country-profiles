@@ -28,7 +28,7 @@ slightly smaller than Maryland<br>
 
 **Land boundaries**<br>
 _total_: 1,570 km<br>
-_border countries_: Azerbaijan 996 km, Georgia 219 km, Iran 44 km, Turkey 311 km<br>
+_border countries_: Azerbaijan 996 km; Georgia 219 km; Iran 44 km; Turkey 311 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -319,11 +319,11 @@ _residency requirement for naturalization_: 3 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Acting President Alen SIMONYAN (since 1 February 2022); note - President Armen SARKISSIAN's resignation took effect on 1 February 2022<br>
+_chief of state_: Acting President Alen SIMONYAN (since 1 February 2022)<br>
 _head of government_: Prime Minister Nikol PASHINYAN (since 10 September 2021); Deputy Prime Ministers Mher GRIGORYAN (since 3 August 2021) and Hambardzum MATEVOSYAN (since 25 November 2021); note - Prime Minister Nikol PASHINYAN resigned on 25 April 2021; he was reappointed by the president on 2 August 2021 and sworn in on 10 September 2021<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president indirectly elected by the National Assembly in 3 rounds if needed for a single 7-year term; election last held on 2 March 2018; prime minister elected by majority vote in 2 rounds if needed by the National Assembly; election last held 2 August 2021<br>
-_election results_: Armen SARKISSIAN elected president in first round; note - Armen SARKISSIAN ran unopposed and won the Assembly vote 90-10<br>
+_elections/appointments_: president indirectly elected by the National Assembly in 3 rounds if needed for a single 7-year term; election last held on 2-3 March 2022; prime minister elected by majority vote in 2 rounds if needed by the National Assembly; election last held 2 August 2021<br>
+_election results_:   <em>2022: </em>Vahagn KHACHATURYAN elected president in second round; note - Vahagn KHACHATURYAN ran unopposed and won the Assembly vote 71-0<em><br><br>2018:</em> Armen SARKISSIAN elected president in first round; note - Armen SARKISSIAN ran unopposed and won the Assembly vote 90-10<br>
 <strong>note:</strong> Nikol PASHINYAN was first elected prime minister on 8 May 2018 and reelected on January 2019; in response to a political crisis that followed Armenia's defeat in the Second Nagorno-Karabakh War in late 2020, PASHINYAN called an early legislative election for June 2021; his party won the election and PASHINYAN was elected to the prime ministership for a third time; his election was confirmed by the president on 2 August 2021, and he was sworn in on 10 September 2021<br>
 
 **Legislative branch**<br>

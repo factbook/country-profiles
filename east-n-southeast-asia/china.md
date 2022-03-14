@@ -28,7 +28,7 @@ slightly smaller than the US<br>
 
 **Land boundaries**<br>
 _total_: 22,457 km<br>
-_border countries_: Afghanistan 91 km, Bhutan 477 km, Burma 2129 km, India 2659 km, Kazakhstan 1765 km, North Korea 1352 km, Kyrgyzstan 1063 km, Laos 475 km, Mongolia 4630 km, Nepal 1389 km, Pakistan 438 km, Russia (northeast) 4133 km and Russia (northwest) 46 km, Tajikistan 477 km, Vietnam 1297 km<br>
+_border countries_: Afghanistan 91 km; Bhutan 477 km; Burma 2,129 km; India 2,659 km; Kazakhstan 1,765 km; North Korea 1,352 km; Kyrgyzstan 1,063 km; Laos 475 km; Mongolia 4,630 km; Nepal 1,389 km; Pakistan 438 km; Russia (northeast) 4,133 km and Russia (northwest) 46 km; Tajikistan 477 km; Vietnam 1,297 km<br>
 
 **Coastline**<br>
 14,500 km<br>

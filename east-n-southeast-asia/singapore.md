@@ -664,8 +664,8 @@ _LNG terminal(s) (import)_: Singapore<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Singapore Armed Forces (aka Singapore Defense Force): Singapore Army, Republic of Singapore Navy, Republic of Singapore Air Force (includes air defense); Police Coast Guard (subordinate to the Singapore Police Force) (2021)<br><br>note - in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore’s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
-note - in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore&rsquo;s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
+Singapore Armed Forces (aka Singapore Defense Force): Singapore Army, Republic of Singapore Navy, Republic of Singapore Air Force (includes air defense); Police Coast Guard (subordinate to the Singapore Police Force) (2021)<br><br>note(s) - in 2022, the SAF announced that it would form a Digital and Intelligence Service (DIS) by the end of the year; in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore’s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
+note(s) - in 2022, the SAF announced that it would form a Digital and Intelligence Service (DIS) by the end of the year; in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore&rsquo;s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
 
 **Military expenditures**<br>
 3.2% of GDP (2021 est.)<br>
@@ -675,7 +675,7 @@ note - in 2009, Singapore established a multi-agency national Maritime Security 
 3% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 60,000 active duty troops (45,000 Army; 7,000 Navy; 8,000 Air Force) (2021)<br>
+information varies; approximately 65,000 active duty troops (50,000 Army; 7,000 Navy; 8,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF has a diverse and largely modern mix of domestically-produced and imported weapons; Singapore has the most developed arms industry in Southeast Asia and is also the largest importer of weapons; since 2010, the US is the chief supplier of arms to Singapore, followed by a diverse array of countries, including France, Germany, and Spain (2021)<br>

@@ -28,7 +28,7 @@ slightly less than twice the size of New Jersey<br>
 
 **Land boundaries**<br>
 _total_: 1,053 km<br>
-_border countries_: Belgium 478 km, Germany 575 km<br>
+_border countries_: Belgium 478 km; Germany 575 km<br>
 
 **Coastline**<br>
 451 km<br>
@@ -93,7 +93,7 @@ Dutch 75.4%, EU (excluding Dutch) 6.4%, Turkish 2.4%, Moroccan 2.4%, Surinamese 
 
 **Languages**<br>
 Dutch (official); note - Frisian is an official language in Fryslan province; Frisian, Low Saxon, Limburgish, Romani, and Yiddish have protected status under the European Charter for Regional or Minority Languages; Dutch is the official language of the three special municipalities of the Caribbean Netherlands; English is a recognized regional language on Sint Eustatius and Saba; Papiamento is a recognized regional language on Bonaire<br>
-_major-language sample(s)_: <br>Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Het Wereld Feitenboek, een onmisbare bron van informatie. (Dutch)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 20.1%, Protestant 14.8% (includes Dutch Reformed, Protestant Church of The Netherlands, Calvinist), Muslim 5%, other 5.9% (includes Hindu, Buddhist, Jewish), none 54.1% (2019 est.)<br>

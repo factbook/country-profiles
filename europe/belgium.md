@@ -28,7 +28,7 @@ about the size of Maryland<br>
 
 **Land boundaries**<br>
 _total_: 1,297 km<br>
-_border countries_: France 556 km, Germany 133 km, Luxembourg 130 km, Netherlands 478 km<br>
+_border countries_: France 556 km; Germany 133 km; Luxembourg 130 km; Netherlands 478 km<br>
 
 **Coastline**<br>
 66.5 km<br>

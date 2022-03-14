@@ -28,7 +28,7 @@ slightly larger than Pennsylvania; slightly smaller than New York state<br>
 
 **Land boundaries**<br>
 _total_: 1,253 km<br>
-_border countries_: Costa Rica 313 km, Honduras 940 km<br>
+_border countries_: Costa Rica 313 km; Honduras 940 km<br>
 
 **Coastline**<br>
 910 km<br>

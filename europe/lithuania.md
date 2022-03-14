@@ -28,7 +28,7 @@ slightly larger than West Virginia<br>
 
 **Land boundaries**<br>
 _total_: 1,545 km<br>
-_border countries_: Belarus 640 km, Latvia 544 km, Poland 100 km, Russia (Kaliningrad) 261 km<br>
+_border countries_: Belarus 640 km; Latvia 544 km; Poland 100 km; Russia (Kaliningrad) 261 km<br>
 
 **Coastline**<br>
 90 km<br>
@@ -62,7 +62,7 @@ _other_: 20.6% (2018 est.)<br>
 44 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Kursiu Marios/Kurshskiy Zaliv/ (shared with Russia) - 1,620 sq km<br>
+_Salt water lake(s)_: Curonian Lagoon (shared with Russia) - 1,620 sq km<br>
 
 **Population distribution**<br>
 fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda<br>
@@ -271,7 +271,7 @@ _municipal solid waste recycled annually_: 297,960 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 22.9% (2015 est.)<br>
 
 **Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Kursiu Marios/Kurshskiy Zaliv/ (shared with Russia) - 1,620 sq km<br>
+_Salt water lake(s)_: Curonian Lagoon (shared with Russia) - 1,620 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 130.4 million cubic meters (2017 est.)<br>
@@ -707,7 +707,7 @@ note(s) - Lithuania conscripts up to 4,000 males each year; conscripts are selec
 contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units (2021)<br>
 
 **Military - note**<br>
-Lithuania officially became a member of NATO in 2004<br> <p>since 2017, Lithuania has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by Germany and had about 1,250 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Lithuania since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base</p><br>
+Lithuania officially became a member of NATO in 2004<br> <p>since 2017, Lithuania has hosted a German-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative</p> <p>NATO also has provided air protection for Lithuania since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base</p><br>
 
 ## Transnational Issues
 

@@ -28,7 +28,7 @@ about three times the size of New York state; slightly smaller than California<b
 
 **Land boundaries**<br>
 _total_: 4,655 km<br>
-_border countries_: Argentina 2531 km, Bolivia 753 km, Brazil 1371 km<br>
+_border countries_: Argentina 2,531 km; Bolivia 753 km; Brazil 1,371 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -697,7 +697,7 @@ Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy 
 1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of Paraguay have approximately 14,000 active personnel (9,000 Army; 3,000 Navy; 2,000 Air Force) (2021)<br>
+the Armed Forces of Paraguay have approximately 12,000 active personnel (8,000 Army; 2,500 Navy; 1,500 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Paraguayan military forces inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US; since 2010, Paraguay has acquired small quantities of mostly second-hand military equipment from several countries, including Argentina, Brazil, Israel, Taiwan, and the US (2021)<br>

@@ -29,7 +29,7 @@ about twice the size of New Jersey<br>
 
 **Land boundaries**<br>
 _total_: 657 km<br>
-_border countries_: Latvia 333 km, Russia 324 km<br>
+_border countries_: Latvia 333 km; Russia 324 km<br>
 
 **Coastline**<br>
 3,794 km<br>
@@ -704,7 +704,7 @@ note(s) - conscripts comprise about half (approximately 3,000-3,300) of the Esto
 approximately 100 Mali (Operation Barkhane/MINUSMA/EUTM) (2021)<br>
 
 **Military - note**<br>
-Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by the UK and had about 800 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014</p><br>
+Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia has hosted a UK-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative</p> <p>NATO also has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014</p><br>
 
 ## Transnational Issues
 

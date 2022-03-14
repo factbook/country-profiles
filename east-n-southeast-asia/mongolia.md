@@ -28,7 +28,7 @@ slightly smaller than Alaska; more than twice the size of Texas<br>
 
 **Land boundaries**<br>
 _total_: 8,082 km<br>
-_border countries_: China 4630 km, Russia 3452 km<br>
+_border countries_: China 4,630 km; Russia 3,452 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

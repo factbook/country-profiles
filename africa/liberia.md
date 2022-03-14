@@ -28,7 +28,7 @@ slightly larger than Virginia<br>
 
 **Land boundaries**<br>
 _total_: 1,667 km<br>
-_border countries_: Guinea 590 km, Cote d'Ivoire 778 km, Sierra Leone 299 km<br>
+_border countries_: Guinea 590 km; Cote d'Ivoire 778 km; Sierra Leone 299 km<br>
 
 **Coastline**<br>
 579 km<br>
@@ -669,7 +669,7 @@ note(s) - the AFL Air Wing was previously disbanded in 2005 and has been under d
 0.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of Liberia (AFL) have approximately 2,000 personnel (2021)<br>
+approximately 2,000 personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the AFL is poorly armed; it has received limited quantities of equipment since 2010, including donations, from countries such as China and the US (2021)<br>

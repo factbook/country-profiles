@@ -29,7 +29,7 @@ slightly less than twice the size of Texas<br>
 
 **Land boundaries**<br>
 _total_: 6,672 km<br>
-_border countries_: Brazil 1790 km, Ecuador 708 km, Panama 339 km, Peru 1494 km, Venezuela 2341 km<br>
+_border countries_: Brazil 1,790 km; Ecuador 708 km; Panama 339 km; Peru 1,494 km; Venezuela 2,341 km<br>
 
 **Coastline**<br>
 3,208 km (Caribbean Sea 1,760 km, North Pacific Ocean 1,448 km)<br>

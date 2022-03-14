@@ -28,7 +28,7 @@ about four times the size of Indiana; slightly larger than Montana<br>
 
 **Land boundaries**<br>
 _total_: 3,229 km<br>
-_border countries_: Botswana 834 km, Mozambique 1402 km, South Africa 230 km, Zambia 763 km<br>
+_border countries_: Botswana 834 km; Mozambique 1,402 km; South Africa 230 km; Zambia 763 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -696,11 +696,11 @@ _river port(s)_: Binga, Kariba (Zambezi)<br>
 Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ) (2021)<br>
 
 **Military expenditures**<br>
-2.6% of GDP (2019 est.)<br>
-1.7% of GDP (2018 est.)<br>
-1.5% of GDP (2017 est.)<br>
-1.8% of GDP (2016 est.)<br>
-1.9% of GDP (2015 est.)<br>
+1.3% of GDP (2019 est.)<br>
+1.4% of GDP (2018 est.)<br>
+1.3% of GDP (2017 est.)<br>
+1.5% of GDP (2016 est.)<br>
+1.7% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 30,000 active duty troops, including about 4,000 serving in the Air Force (2021)<br>

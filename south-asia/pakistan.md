@@ -28,7 +28,7 @@ slightly more than five times the size of Georgia; slightly less than twice the 
 
 **Land boundaries**<br>
 _total_: 7,257 km<br>
-_border countries_: Afghanistan 2670 km, China 438 km, India 3190 km, Iran 959 km<br>
+_border countries_: Afghanistan 2,670 km; China 438 km; India 3,190 km; Iran 959 km<br>
 
 **Coastline**<br>
 1,046 km<br>
@@ -729,7 +729,7 @@ note(s) - the National Guard is a paramilitary force and one of the Army's reser
 3.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 625,000 active personnel (550,000 Army; 30,000 Navy; 45,000 Air Force) (2021)<br>
+information varies; approximately 625,000 active personnel (550,000 Army; 30,000 Navy; 45,000 Air Force); approximately 150,000 paramilitary (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Pakistan military inventory includes a broad mix of equipment, primarily from China, France, Russia, Ukraine, the UK, and the US; since 2010, China is the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry (2021)<br>

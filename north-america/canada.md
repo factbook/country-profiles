@@ -28,7 +28,7 @@ slightly larger than the US<br>
 
 **Land boundaries**<br>
 _total_: 8,891 km<br>
-_border countries_: US 8891 km (includes 2475 km with Alaska)<br>
+_border countries_: US 8,891 km (includes 2,475 km with Alaska)<br>
 <strong>note:</strong> Canada is the world's largest country that borders only one country<br>
 
 **Coastline**<br>

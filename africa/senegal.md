@@ -28,7 +28,7 @@ slightly smaller than South Dakota; slightly larger than twice the size of India
 
 **Land boundaries**<br>
 _total_: 2,684 km<br>
-_border countries_: The Gambia 749 km, Guinea 363 km, Guinea-Bissau 341 km, Mali 489 km, Mauritania 742 km<br>
+_border countries_: The Gambia 749 km; Guinea 363 km; Guinea-Bissau 341 km; Mali 489 km; Mauritania 742 km<br>
 
 **Coastline**<br>
 531 km<br>

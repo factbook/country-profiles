@@ -28,7 +28,7 @@ slightly less than three-tenths the size of the US<br>
 
 **Land boundaries**<br>
 _total_: 11,968 km<br>
-_border countries_: Bolivia 942 km, Brazil 1,263 km, Chile 6,691 km, Paraguay 2,531 km, Uruguay 541 km<br>
+_border countries_: Bolivia 942 km; Brazil 1,263 km; Chile 6,691 km; Paraguay 2,531 km; Uruguay 541 km<br>
 
 **Coastline**<br>
 4,989 km<br>
@@ -727,7 +727,7 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica A
 0.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 83,000 active duty personnel (50,000 Army; 18,000 Navy (includes about 3,000 marines); 15,000 Air Force); est. 20,000 Gendarmerie (2021)<br>
+information varies; approximately 78,000 active duty personnel (45,000 Army; 18,000 Navy (includes about 3,000 marines); 15,000 Air Force); est. 20,000 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; since 2010, France and the US are the leading suppliers of equipment; Argentina has an indigenous defense industry that can produce air, land, and sea systems (2021)<br>

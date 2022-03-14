@@ -29,7 +29,7 @@ slightly smaller than South Carolina; slightly larger than West Virginia<br>
 
 **Land boundaries**<br>
 _total_: 1,814 km<br>
-_border countries_: Armenia 219 km, Azerbaijan 428 km, Russia 894 km, Turkey 273 km<br>
+_border countries_: Armenia 219 km; Azerbaijan 428 km; Russia 894 km; Turkey 273 km<br>
 
 **Coastline**<br>
 310 km<br>

@@ -28,7 +28,7 @@ slightly smaller than Texas; almost four times the size of Illinois<br>
 
 **Land boundaries**<br>
 _total_: 4,347.15 km<br>
-_border countries_: Namibia 1544 km, South Africa 1969 km, Zambia 0.15 km, Zimbabwe 834 km<br>
+_border countries_: Namibia 1,544 km; South Africa 1,969 km; Zambia 0.15 km; Zimbabwe 834 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

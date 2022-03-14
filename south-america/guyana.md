@@ -28,7 +28,7 @@ slightly smaller than Idaho; almost twice the size of Tennessee<br>
 
 **Land boundaries**<br>
 _total_: 2,933 km<br>
-_border countries_: Brazil 1308 km, Suriname 836 km, Venezuela 789 km<br>
+_border countries_: Brazil 1,308 km; Suriname 836 km; Venezuela 789 km<br>
 
 **Coastline**<br>
 459 km<br>
@@ -671,7 +671,7 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 1.1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,000 active personnel (2021)<br>
+information varies; approximately 4,000 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Guyana Defense Force's limited inventory is mostly comprised of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2021)<br>

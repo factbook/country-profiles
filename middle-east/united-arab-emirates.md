@@ -28,7 +28,7 @@ slightly larger than South Carolina; slightly smaller than Maine<br>
 
 **Land boundaries**<br>
 _total_: 1,066 km<br>
-_border countries_: Oman 609 km, Saudi Arabia 457 km<br>
+_border countries_: Oman 609 km; Saudi Arabia 457 km<br>
 
 **Coastline**<br>
 1,318 km<br>

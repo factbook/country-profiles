@@ -28,7 +28,7 @@ slightly larger than Georgia<br>
 
 **Land boundaries**<br>
 _total_: 1,907 km<br>
-_border countries_: Brazil 515 km, French Guiana 556 km, Guyana 836 km<br>
+_border countries_: Brazil 515 km; French Guiana 556 km; Guyana 836 km<br>
 
 **Coastline**<br>
 386 km<br>

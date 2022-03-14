@@ -28,7 +28,7 @@ five times the size of Ohio; slightly more than twice the size of Nevada<br>
 
 **Land boundaries**<br>
 _total_: 3,457 km<br>
-_border countries_: Ethiopia 867 km, Somalia 684 km, South Sudan 317 km, Tanzania 775 km, Uganda 814 km<br>
+_border countries_: Ethiopia 867 km; Somalia 684 km; South Sudan 317 km; Tanzania 775 km; Uganda 814 km<br>
 
 **Coastline**<br>
 536 km<br>
@@ -718,7 +718,7 @@ note - the National Police Service maintains internal security and reports to th
 1.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Kenyan Defense Forces (KDF) are comprised of approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2021)<br>
+&nbsp;approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the KDF's inventory traditionally carried mostly older or second-hand Western weapons systems, particularly from France, the UK, and the US; however, since the 2000s it has sought to modernize and diversify its imports; suppliers since 2010 include China, France, Italy, Jordan, Serbia, South Africa, Spain, and the US (2021)<br>

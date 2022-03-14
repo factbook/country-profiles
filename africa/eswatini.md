@@ -28,7 +28,7 @@ slightly smaller than New Jersey<br>
 
 **Land boundaries**<br>
 _total_: 546 km<br>
-_border countries_: Mozambique 108 km, South Africa 438 km<br>
+_border countries_: Mozambique 108 km; South Africa 438 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

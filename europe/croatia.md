@@ -28,7 +28,7 @@ slightly smaller than West Virginia<br>
 
 **Land boundaries**<br>
 _total_: 2,237 km<br>
-_border countries_: Bosnia and Herzegovina 956 km, Hungary 348 km, Montenegro 19 km, Serbia 314 km, Slovenia 600 km<br>
+_border countries_: Bosnia and Herzegovina 956 km; Hungary 348 km; Montenegro 19 km; Serbia 314 km; Slovenia 600 km<br>
 
 **Coastline**<br>
 5,835 km (mainland 1,777 km, islands 4,058 km)<br>

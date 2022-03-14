@@ -29,7 +29,7 @@ slightly more than 1.5 times the size of Pennsylvania<br>
 
 **Land boundaries**<br>
 _total_: 2,363 km<br>
-_border countries_: Iraq 599 km, Israel 83 km, Jordan 379 km, Lebanon 403 km, Turkey 899 km<br>
+_border countries_: Iraq 599 km; Israel 83 km; Jordan 379 km; Lebanon 403 km; Turkey 899 km<br>
 
 **Coastline**<br>
 193 km<br>

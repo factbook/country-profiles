@@ -28,7 +28,7 @@ slightly less than one-fourth the size of the US<br>
 
 **Land boundaries**<br>
 _total_: 11,027 km<br>
-_border countries_: Angola 2646 km (of which 225 km is the boundary of Angola's discontiguous Cabinda Province), Burundi 236 km, Central African Republic 1747 km, Republic of the Congo 1775 km, Rwanda 221 km, South Sudan 714 km, Tanzania 479 km, Uganda 877 km, Zambia 2332 km<br>
+_border countries_: Angola 2,646 km (of which 225 km is the boundary of Angola's discontiguous Cabinda Province); Burundi 236 km; Central African Republic 1,747 km; Republic of the Congo 1,775 km; Rwanda 221 km; South Sudan 714 km; Tanzania 479 km; Uganda 877 km; Zambia 2,332 km<br>
 
 **Coastline**<br>
 37 km<br>

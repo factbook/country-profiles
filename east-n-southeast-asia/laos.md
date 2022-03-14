@@ -28,7 +28,7 @@ about twice the size of Pennsylvania; slightly larger than Utah<br>
 
 **Land boundaries**<br>
 _total_: 5,274 km<br>
-_border countries_: Burma 238 km, Cambodia 555 km, China 475 km, Thailand 1845 km, Vietnam 2161 km<br>
+_border countries_: Burma 238 km; Cambodia 555 km; China 475 km; Thailand 1,845 km; Vietnam 2,161 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -685,7 +685,7 @@ Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Forc
 0.2% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information is limited and estimates vary; approximately 30,000 active duty troops (26,000 Army; 4000 Air Force) (2021)<br>
+information is limited and estimates vary; approximately 30,000 active duty troops (26,000 Army; 4,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the LPAF is armed largely with weapons from the former Soviet Union; since 2010, China and Russia are the leading suppliers of military equipment to Laos (2021)<br>

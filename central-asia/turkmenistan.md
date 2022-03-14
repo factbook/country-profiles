@@ -28,7 +28,7 @@ slightly more than three times the size of Georgia; slightly larger than Califor
 
 **Land boundaries**<br>
 _total_: 4,158 km<br>
-_border countries_: Afghanistan 804 km, Iran 1148 km, Kazakhstan 413 km, Uzbekistan 1793 km<br>
+_border countries_: Afghanistan 804 km; Iran 1,148 km; Kazakhstan 413 km; Uzbekistan 1,793 km<br>
 
 **Coastline**<br>
 0 km (landlocked); note - Turkmenistan borders the Caspian Sea (1,768 km)<br>

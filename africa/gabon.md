@@ -28,7 +28,7 @@ slightly smaller than Colorado<br>
 
 **Land boundaries**<br>
 _total_: 3,261 km<br>
-_border countries_: Cameroon 349 km, Republic of the Congo 2567 km, Equatorial Guinea 345 km<br>
+_border countries_: Cameroon 349 km; Republic of the Congo 2,567 km; Equatorial Guinea 345 km<br>
 
 **Coastline**<br>
 885 km<br>
@@ -689,7 +689,7 @@ Gabonese Defense Forces (Forces de Defense Gabonaise): Land Forces (Army), Navy,
 1.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Gabonese Defense Forces (FDG) are comprised of approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2021)<br>
+approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FDG is lightly armed with an inventory comprised mostly of Brazilian, French, and South African equipment (2021)<br>

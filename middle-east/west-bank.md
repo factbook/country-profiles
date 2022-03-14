@@ -29,7 +29,7 @@ slightly smaller than Delaware<br>
 
 **Land boundaries**<br>
 _total_: 478 km<br>
-_border countries_: Israel 330 km, Jordan 148 km<br>
+_border countries_: Israel 330 km; Jordan 148 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

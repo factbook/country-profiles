@@ -28,7 +28,7 @@ slightly smaller than Connecticut; slightly larger than twice the size of Delawa
 
 **Land boundaries**<br>
 _total_: 680 km<br>
-_border countries_: Albania 186 km, Bosnia and Herzegovina 242 km, Croatia 19 km, Kosovo 76 km, Serbia 157 km<br>
+_border countries_: Albania 186 km; Bosnia and Herzegovina 242 km; Croatia 19 km; Kosovo 76 km; Serbia 157 km<br>
 
 **Coastline**<br>
 293.5 km<br>
@@ -689,7 +689,7 @@ the Armed Forces of the Republic of Montenegro: joint force with land, air, and 
 1.34% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of the Republic of Montenegro have approximately 2,000 total active duty troops (2021)<br>
+approximately 2,000 total active duty troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Armed Forces of Montenegro is small and consists mostly of equipment inherited from the former Yugoslavia military, with a limited mix of other imported systems; since 2010, it has received small quantities of equipment from Austria, Turkey, and the US (2021)<br>
@@ -710,7 +710,7 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 20,748 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
+<strong>note:</strong> 20,770 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

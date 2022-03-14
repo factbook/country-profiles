@@ -28,7 +28,7 @@ slightly smaller than Pennsylvania<br>
 
 **Land boundaries**<br>
 _total_: 2,123 km<br>
-_border countries_: Burkina Faso 386 km, Niger 277 km, Nigeria 809 km, Togo 651 km<br>
+_border countries_: Burkina Faso 386 km; Niger 277 km; Nigeria 809 km; Togo 651 km<br>
 
 **Coastline**<br>
 121 km<br>

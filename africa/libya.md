@@ -28,7 +28,7 @@ about 2.5 times the size of Texas; slightly larger than Alaska<br>
 
 **Land boundaries**<br>
 _total_: 4,339 km<br>
-_border countries_: Algeria 989 km, Chad 1050 km, Egypt 1115 km, Niger 342 km, Sudan 382 km, Tunisia 461 km<br>
+_border countries_: Algeria 989 km; Chad 1,050 km; Egypt 1,115 km; Niger 342 km; Sudan 382 km; Tunisia 461 km<br>
 
 **Coastline**<br>
 1,770 km<br>

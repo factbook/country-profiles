@@ -29,7 +29,7 @@ slightly smaller than Nevada<br>
 
 **Land boundaries**<br>
 _total_: 2,237 km<br>
-_border countries_: Colombia 708 km, Peru 1529 km<br>
+_border countries_: Colombia 708 km; Peru 1529 km<br>
 
 **Coastline**<br>
 2,237 km<br>

@@ -29,7 +29,7 @@ slightly smaller than twice the size of Montana<br>
 
 **Land boundaries**<br>
 _total_: 7,801 km<br>
-_border countries_: Argentina 6691 km, Bolivia 942 km, Peru 168 km<br>
+_border countries_: Argentina 6,691 km; Bolivia 942 km; Peru 168 km<br>
 
 **Coastline**<br>
 6,435 km<br>

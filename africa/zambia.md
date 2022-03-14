@@ -28,7 +28,7 @@ almost five times the size of Georgia; slightly larger than Texas<br>
 
 **Land boundaries**<br>
 _total_: 6,043.15 km<br>
-_border countries_: Angola 1065 km, Botswana 0.15 km, Democratic Republic of the Congo 2332 km, Malawi 847 km, Mozambique 439 km, Namibia 244 km, Tanzania 353 km, Zimbabwe 763 km<br>
+_border countries_: Angola 1,065 km; Botswana 0.15 km; Democratic Republic of the Congo 2,332 km; Malawi 847 km; Mozambique 439 km; Namibia 244 km; Tanzania 353 km; Zimbabwe 763 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -715,7 +715,7 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 1.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Zambia Defense Force (ZDF) has approximately 16,500 active troops (15,000 Army; 1,500 Air) (2021)<br>
+the Zambia Defense Force (ZDF) has approximately 17,000 active troops (15,000 Army; 2,000 Air) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; since 2010, China is the leading supplier of arms to Zambia (2021)<br>

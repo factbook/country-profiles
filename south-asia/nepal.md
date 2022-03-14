@@ -28,7 +28,7 @@ slightly larger than New York state<br>
 
 **Land boundaries**<br>
 _total_: 3,159 km<br>
-_border countries_: China 1389 km, India 1770 km<br>
+_border countries_: China 1,389 km; India 1,770 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -681,7 +681,7 @@ Nepal Army (includes Air Wing); Nepal Armed Police Force (under the Ministry of 
 2.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Nepal Army has approximately 95,000 active troops (including a small air wing of about 500 personnel) (2021)<br>
+approximately 95,000 active troops (including a small air wing of about 500 personnel) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Army's inventory includes a mix of older equipment largely of British, Chinese, Indian, Russian, and South African origin; since 2010, Nepal has received limited amounts of newer hardware from several countries, including China, Italy, and Russia (2021)<br>

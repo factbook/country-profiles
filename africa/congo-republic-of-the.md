@@ -28,7 +28,7 @@ slightly smaller than Montana; about twice the size of Florida<br>
 
 **Land boundaries**<br>
 _total_: 5,554 km<br>
-_border countries_: Angola 231 km, Cameroon 494 km, Central African Republic 487 km, Democratic Republic of the Congo 1775 km, Gabon 2567 km<br>
+_border countries_: Angola 231 km; Cameroon 494 km; Central African Republic 487 km; Democratic Republic of the Congo 1,775 km; Gabon 2,567 km<br>
 
 **Coastline**<br>
 169 km<br>

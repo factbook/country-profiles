@@ -28,7 +28,7 @@ almost three times the size of Georgia; slightly larger than California<br>
 
 **Land boundaries**<br>
 _total_: 2,211 km<br>
-_border countries_: Finland 545 km, Norway 1666 km<br>
+_border countries_: Finland 545 km; Norway 1,666 km<br>
 
 **Coastline**<br>
 3,218 km<br>

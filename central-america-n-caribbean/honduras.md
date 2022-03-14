@@ -28,7 +28,7 @@ slightly larger than Tennessee<br>
 
 **Land boundaries**<br>
 _total_: 1,575 km<br>
-_border countries_: Guatemala 244 km, El Salvador 391 km, Nicaragua 940 km<br>
+_border countries_: Guatemala 244 km; El Salvador 391 km; Nicaragua 940 km<br>
 
 **Coastline**<br>
 823 km (Caribbean Sea 669 km, Gulf of Fonseca 163 km)<br>

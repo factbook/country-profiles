@@ -712,7 +712,7 @@ note(s) - the Philippine Coast Guard is an armed and uniformed service under the
 1.3% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of the Philippines (AFP) have approximately 122,000 active duty personnel (80,000 Army; 25,000 Navy, including about 8,700 marines; 17,000 Air Force) (2021)<br>
+the Armed Forces of the Philippines (AFP) have approximately 120,000 active duty personnel (80,000 Army; 25,000 Navy, including about 9,000 marines; 15,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the AFP is equipped with a mix of imported weapons systems, particularly second-hand equipment from the US; since 2014, its top weapons suppliers include Israel, South Korea, and the US (2021)<br>

@@ -28,7 +28,7 @@ slightly less than four times the size of Texas<br>
 
 **Land boundaries**<br>
 _total_: 13,364 km<br>
-_border countries_: China 1765 km, Kyrgyzstan 1212 km, Russia 7644 km, Turkmenistan 413 km, Uzbekistan 2330 km<br>
+_border countries_: China 1,765 km; Kyrgyzstan 1,212 km; Russia 7,644 km; Turkmenistan 413 km; Uzbekistan 2,330 km<br>
 
 **Coastline**<br>
 0 km (landlocked); note - Kazakhstan borders the Aral Sea, now split into two bodies of water (1,070 km), and the Caspian Sea (1,894 km)<br>

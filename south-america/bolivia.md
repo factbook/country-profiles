@@ -28,7 +28,7 @@ slightly less than three times the size of Montana<br>
 
 **Land boundaries**<br>
 _total_: 7,252 km<br>
-_border countries_: Argentina 942 km, Brazil 3403 km, Chile 942 km, Paraguay 753 km, Peru 1212 km<br>
+_border countries_: Argentina 942 km; Brazil 3,403 km; Chile 942 km; Paraguay 753 km; Peru 1,212 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

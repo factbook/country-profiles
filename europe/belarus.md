@@ -28,7 +28,7 @@ slightly less than twice the size of Kentucky; slightly smaller than Kansas<br>
 
 **Land boundaries**<br>
 _total_: 3,599 km<br>
-_border countries_: Latvia 161 km, Lithuania 640 km, Poland 375 km, Russia 1312 km, Ukraine 1111 km<br>
+_border countries_: Latvia 161 km; Lithuania 640 km; Poland 375 km; Russia 1,312 km; Ukraine 1,111 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

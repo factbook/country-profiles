@@ -28,7 +28,7 @@ slightly smaller than Maryland<br>
 
 **Land boundaries**<br>
 _total_: 1,106 km<br>
-_border countries_: South Africa 1106 km<br>
+_border countries_: South Africa 1,106 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -671,7 +671,7 @@ note - the Lesotho Mounted Police Service is responsible for internal security a
 1.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Lesotho Defense Force (LDF) has approximately 2,000 personnel (2021)<br>
+approximately 2,000 personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the LDF has a small inventory of older equipment from a variety of countries; since 2007, it has received only&nbsp; small quantities of second hand equipment (2021)<br>

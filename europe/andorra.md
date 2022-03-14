@@ -28,7 +28,7 @@ _water_: 0 sq km<br>
 
 **Land boundaries**<br>
 _total_: 118 km<br>
-_border countries_: France 55 km, Spain 63 km<br>
+_border countries_: France 55 km; Spain 63 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

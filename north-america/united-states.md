@@ -29,7 +29,7 @@ about half the size of Russia; about three-tenths the size of Africa; about half
 
 **Land boundaries**<br>
 _total_: 12,002 km<br>
-_border countries_: Canada 8891 km (including 2475 km with Alaska), Mexico 3111 km<br>
+_border countries_: Canada 8,891 km (including 2,475 km with Alaska); Mexico 3,111 km<br>
 <strong>note:</strong> US Naval Base at Guantanamo Bay, Cuba is leased by the US and is part of Cuba; the base boundary is 28.5 km<br>
 
 **Coastline**<br>

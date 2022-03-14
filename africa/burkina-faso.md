@@ -28,7 +28,7 @@ slightly larger than Colorado<br>
 
 **Land boundaries**<br>
 _total_: 3,611 km<br>
-_border countries_: Benin 386 km, Cote d'Ivoire 545 km, Ghana 602 km, Mali 1325 km, Niger 622 km, Togo 131 km<br>
+_border countries_: Benin 386 km; Cote d'Ivoire 545 km; Ghana 602 km; Mali 1325 km; Niger 622 km; Togo 131 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -695,7 +695,7 @@ note - the National Gendarmerie officially reports to the Ministry of Defense, b
 1.2% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of Burkina Faso (FABF) have approximately 12,000 personnel (7,000 Army; 500 Air Force; 4,500 National Gendarmerie) (2021)<br>
+approximately 12,000 personnel (7,000 Army; 500 Air Force; 4,500 National Gendarmerie) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FABF has a mix of foreign-supplied weapons; since 2010, it has received limited amounts of mostly donated second-hand equipment from more than 10 countries (2021)<br>
@@ -722,6 +722,6 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara; al-Mula
 <p>adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualau/Kourou</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,737 (Mali) (2022)<br>
-_IDPs_: <p>1,501,775 (2021)</p><br>
+_refugees (country of origin)_: 24,740 (Mali) (2022)<br>
+_IDPs_: <p>1,741,655 (2022)</p><br>
 

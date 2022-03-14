@@ -28,7 +28,7 @@ slightly less than three times the size of Texas<br>
 
 **Land boundaries**<br>
 _total_: 4,389 km<br>
-_border countries_: Belize 276 km, Guatemala 958 km, US 3155 km<br>
+_border countries_: Belize 276 km; Guatemala 958 km; US 3,155 km<br>
 
 **Coastline**<br>
 9,330 km<br>

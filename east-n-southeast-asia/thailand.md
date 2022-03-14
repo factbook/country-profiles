@@ -28,7 +28,7 @@ about three times the size of Florida; slightly more than twice the size of Wyom
 
 **Land boundaries**<br>
 _total_: 5,673 km<br>
-_border countries_: Burma 2416 km, Cambodia 817 km, Laos 1845 km, Malaysia 595 km<br>
+_border countries_: Burma 2,416 km; Cambodia 817 km; Laos 1,845 km; Malaysia 595 km<br>
 
 **Coastline**<br>
 3,219 km<br>
@@ -717,7 +717,7 @@ note(s) - official paramilitary forces in Thailand include the Thai Rangers (<em
 1.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-estimates vary widely; approximately 260,000 active duty personnel (150,000 Army; 65,000 Navy; 45,000 Air Force); est. 20,000 Thai Rangers; est. 5-6,000 Internal Security Operations Command (2021)<br>
+estimates vary widely; approximately 300,000 active duty personnel (200,000 Army; 70,000 Navy; 30,000 Air Force); est. 20,000 Thai Rangers; est. 5,000 Internal Security Operations Command (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RTARF has a diverse array of foreign-supplied weapons systems, including a large amount of obsolescent or second-hand US equipment; since 2010, Thailand has received military equipment from nearly 20 countries with China, South Korea, Sweden, Ukraine, and the US as the leading suppliers (2021)<br>

@@ -28,7 +28,7 @@ about two-thirds the size of Pennsylvania; slightly smaller than South Carolina<
 
 **Land boundaries**<br>
 _total_: 2,046 km<br>
-_border countries_: Austria 402 km, Germany 704 km, Poland 699 km, Slovakia 241 km<br>
+_border countries_: Austria 402 km; Germany 704 km; Poland 699 km; Slovakia 241 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

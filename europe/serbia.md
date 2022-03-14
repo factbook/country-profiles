@@ -28,7 +28,7 @@ slightly smaller than South Carolina<br>
 
 **Land boundaries**<br>
 _total_: 2,322 km<br>
-_border countries_: Bosnia and Herzegovina 345 km, Bulgaria 344 km, Croatia 314 km, Hungary 164 km, Kosovo 366 km, Macedonia 101 km, Montenegro 157 km, Romania 531 km<br>
+_border countries_: Bosnia and Herzegovina 345 km; Bulgaria 344 km; Croatia 314 km; Hungary 164 km; Kosovo 366 km; North Macedonia 101 km; Montenegro 157 km; Romania 531 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -727,7 +727,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 _refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 818,576 estimated refugee and migrant arrivals (January 2015-February 2022); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
+<strong>note:</strong> 820,038 estimated refugee and migrant arrivals (January 2015-February 2022); Serbia is predominantly a transit country and hosts an estimated 4,865 migrants and asylum seekers as of January 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

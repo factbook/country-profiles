@@ -28,7 +28,7 @@ slightly less than three times the size of Connecticut<br>
 
 **Land boundaries**<br>
 _total_: 762 km<br>
-_border countries_: Guinea 421 km, Senegal 341 km<br>
+_border countries_: Guinea 421 km; Senegal 341 km<br>
 
 **Coastline**<br>
 350 km<br>
@@ -642,7 +642,7 @@ note - the Public Order Police is responsible for maintaining law and order, whi
 1.6% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the People's Revolutionary Armed Force (FARP) has approximately 4,000 total active troops, including a few hundred air and naval personnel (2021)<br>
+approximately 4,000 total active troops, including a few hundred air and naval personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FARP is poorly armed with an inventory consisting of Soviet-era equipment, much of which is reportedly unserviceable; the only reported deliveries of military equipment since 2015 were patrol boats from Spain in 2017 and non-lethal equipment from China in 2015; Guinea-Bissau has also discussed acquiring military equipment with Indonesia (2021)<br>

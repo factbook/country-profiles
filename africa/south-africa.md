@@ -29,7 +29,7 @@ slightly less than twice the size of Texas<br>
 
 **Land boundaries**<br>
 _total_: 5,244 km<br>
-_border countries_: Botswana 1969 km, Lesotho 1106 km, Mozambique 496 km, Namibia 1005 km, Eswatini 438 km, Zimbabwe 230 km<br>
+_border countries_: Botswana 1,969 km; Lesotho 1,106 km; Mozambique 496 km; Namibia 1,005 km; Eswatini 438 km; Zimbabwe 230 km<br>
 
 **Coastline**<br>
 2,798 km<br>
@@ -711,7 +711,7 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 1% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the South African National Defence Force (SANDF) is comprised of approximately 72,000 personnel (38,000 Army; 6,500 Navy; 9,500 Air Force; 7,500 Military Health Service; 10,500 other, including administrative, logistics, military police); 180,000 South African Police Service (2021)<br>
+the South African National Defence Force (SANDF) is comprised of approximately 75,000 personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SANDF's inventory consists of a mix of domestically-produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly-produced with foreign companies), while the Air Force and Navy inventories include a mix of European, Israeli, and US-origin weapons systems; since 2010, Sweden is the largest supplier of weapons to the SANDF (2021)<br>

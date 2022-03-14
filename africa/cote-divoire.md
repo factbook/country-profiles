@@ -28,7 +28,7 @@ slightly larger than New Mexico<br>
 
 **Land boundaries**<br>
 _total_: 3,458 km<br>
-_border countries_: Burkina Faso 545 km, Ghana 720 km, Guinea 816 km, Liberia 778 km, Mali 599 km<br>
+_border countries_: Burkina Faso 545 km; Ghana 720 km; Guinea 816 km; Liberia 778 km; Mali 599 km<br>
 
 **Coastline**<br>
 515 km<br>

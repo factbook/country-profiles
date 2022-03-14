@@ -28,7 +28,7 @@ almost nine times the size of New York state; slightly more than three times the
 
 **Land boundaries**<br>
 _total_: 6,406 km<br>
-_border countries_: Cameroon 1116 km, Central African Republic 1556 km, Libya 1050 km, Niger 1196 km, Nigeria 85 km, Sudan 1403 km<br>
+_border countries_: Cameroon 1,116 km; Central African Republic 1,556 km; Libya 1,050 km; Niger 1,196 km; Nigeria 85 km; Sudan 1,403 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
@@ -693,7 +693,7 @@ note(s) - the GDSSIE, formerly known as the Republican Guard, is the presidentia
 2.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-limited and varied information; approximately 30,000 active personnel (20-25,000 Ground Forces; 300 Air Force; 5-10,000 General Direction of the Security Services of State Institutions); 5,000 National Gendarmerie; 3,500 National Nomadic Guard of Chad (2021)<br>
+limited and varied information; approximately 30,000 active personnel (20-25,000 Ground Forces; 300 Air Force; 5-10,000 General Direction of the Security Services of State Institutions); approximately 5,000 National Gendarmerie; approximately 3,000 National Nomadic Guard of Chad (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ANT is mostly armed with older or second-hand equipment from Belgium, France, Russia, and the former Soviet Union; since 2010, it has received equipment, including donations, from a variety of countries, including China, Italy, Ukraine, and the US (2021)<br>
@@ -719,7 +719,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 376,172 (Sudan), 118,849 (Central African Republic), 43,603 (Cameroon), 19,321 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 384,979 (Sudan), 121,253 (Central African Republic), 42,746 (Cameroon), 19,346 (Nigeria) (2022)<br>
 _IDPs_: 406,573 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>

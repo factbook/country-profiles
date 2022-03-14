@@ -28,7 +28,7 @@ almost twice the size of Texas; slightly smaller than Alaska<br>
 
 **Land boundaries**<br>
 _total_: 7,062 km<br>
-_border countries_: Bolivia 1212 km, Brazil 2659 km, Chile 168 km, Colombia 1494 km, Ecuador 1529 km<br>
+_border countries_: Bolivia 1,212 km; Brazil 2,659 km; Chile 168 km; Colombia 1,494 km; Ecuador 1,529 km<br>
 
 **Coastline**<br>
 2,414 km<br>
@@ -732,7 +732,7 @@ Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del 
 1.3% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 85,000 active personnel (50,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2021)<br>
+information varies; approximately 95,000 active personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Peruvian military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, the former Soviet Union, and the US; since 2010, Peru has received military equipment from more than a dozen countries, led by Russia and South Korea (2021)<br>

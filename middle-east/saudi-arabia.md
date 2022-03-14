@@ -28,7 +28,7 @@ slightly more than one-fifth the size of the US<br>
 
 **Land boundaries**<br>
 _total_: 4,272 km<br>
-_border countries_: Iraq 811 km, Jordan 731 km, Kuwait 221 km, Oman 658 km, Qatar 87 km, UAE 457 km, Yemen 1307 km<br>
+_border countries_: Iraq 811 km; Jordan 731 km; Kuwait 221 km; Oman 658 km; Qatar 87 km; UAE 457 km; Yemen 1,307 km<br>
 
 **Coastline**<br>
 2,640 km<br>
@@ -695,7 +695,7 @@ note - SANG (also known as the White Army) is a land force separate from the Min
 11.1% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Saudi military forces have about 225,000 active troops; approximately 125,000 under the Ministry of Defense (75,000 Land Forces; 14,000 Naval Forces; 36,000 Air Force/Air Defense/Strategic Missile Forces) and approximately 100,000 in the Saudi Arabia National Guard (SANG) (2021)<br>
+the Saudi military forces have about 225,000 active troops; approximately 125,000 under the Ministry of Defense (75,000 Land Forces; 15,000 Naval Forces; 35,000 Air Force/Air Defense/Strategic Missile Forces) and approximately 100,000 in the Saudi Arabia National Guard (SANG) (2021)<br>
 note - SANG also has an irregular force (Fowj), primarily Bedouin tribal volunteers, with a total strength of approximately 25,000 men<br>
 
 **Military equipment inventories and acquisitions**<br>

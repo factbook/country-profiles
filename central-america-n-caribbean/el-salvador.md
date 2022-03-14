@@ -28,7 +28,7 @@ about the same size as New Jersey<br>
 
 **Land boundaries**<br>
 _total_: 590 km<br>
-_border countries_: Guatemala 199 km, Honduras 391 km<br>
+_border countries_: Guatemala 199 km; Honduras 391 km<br>
 
 **Coastline**<br>
 307 km<br>
@@ -692,7 +692,7 @@ note - in 2016, El Salvador created a 1,000-strong combined Army commando and sp
 1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Force of El Salvador (FAES) has approximately 21,000 active troops (17,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>
+approximately 21,000 active troops (17,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>
 note - in 2021, El Salvador announced intentions to double the size of the military, although no time frame was given<br>
 
 **Military equipment inventories and acquisitions**<br>

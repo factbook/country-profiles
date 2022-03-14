@@ -28,7 +28,7 @@ slightly smaller than Maryland<br>
 
 **Land boundaries**<br>
 _total_: 528 km<br>
-_border countries_: Cameroon 183 km, Gabon 345 km<br>
+_border countries_: Cameroon 183 km; Gabon 345 km<br>
 
 **Coastline**<br>
 296 km<br>

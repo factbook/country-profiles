@@ -29,7 +29,7 @@ almost twice the size of Georgia; slightly larger than Arizona<br>
 
 **Land boundaries**<br>
 _total_: 1,836.4 km<br>
-_border countries_: Austria 404 km, France 476 km, Holy See (Vatican City) 3.4 km, San Marino 37 km, Slovenia 218 km, Switzerland 698 km<br>
+_border countries_: Austria 404 km; France 476 km; Holy See (Vatican City) 3.4 km; San Marino 37 km; Slovenia 218 km; Switzerland 698 km<br>
 
 **Coastline**<br>
 7,600 km<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 595,820 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
+<strong>note:</strong> 596,593 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

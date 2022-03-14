@@ -685,7 +685,7 @@ note - the National Gendarmerie is responsible for maintaining law and order in 
 0.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Peoples Armed Forces (PAF) have approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); est. 10,000 Gendarmerie (2021)<br>
+approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); est. 10,000 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PAF's inventory consists mostly of aging Soviet-era equipment; since 2010, it has received limited amounts of second-hand equipment from France, South Africa, and UAE (2021)<br>

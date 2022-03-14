@@ -28,7 +28,7 @@ about twice the size of Georgia; slightly smaller than New Mexico<br>
 
 **Land boundaries**<br>
 _total_: 2,865 km<br>
-_border countries_: Belarus 375 km, Czechia 699 km, Germany 467 km, Lithuania 100 km, Russia (Kaliningrad Oblast) 209 km, Slovakia 517 km, Ukraine 498 km<br>
+_border countries_: Belarus 375 km; Czechia 699 km; Germany 467 km; Lithuania 100 km, Russia (Kaliningrad Oblast) 209 km; Slovakia 517 km; Ukraine 498 km<br>
 
 **Coastline**<br>
 440 km<br>
@@ -717,12 +717,12 @@ note - the Polish Armed Forces are organized into a General Staff, an Armed Forc
 1.89% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 120,000 total active duty personnel (approximately 60,000 Army; 7,000 Navy; 17,000 Air Force; 3,500 Special Forces; 25,000 Territorial Defense Forces; 7,500 joint service) (2021)<br>
+approximately 120,000 total active duty personnel (approximately 60,000 Army; 7,000 Navy; 17,000 Air Force; 3,500 Special Forces; 7,500 joint service; 25,000 Territorial Defense Forces) (2021)<br>
 note - in June 2019, the Polish Government approved a plan to increase the size of the military over a period of 10 years to over 200,000 troops, including doubling the size of the Territorial Defense Forces<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments to Poland are Finland, Germany, Italy, and the US (2021)<br>
-note - in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, and improved cyber security<br>
+note - in late 2018, Poland announced a 7-year (through 2026) approximately $50 billion defense modernization plan that would include such items as 5th generation combat aircraft, unmanned aerial vehicles, rocket artillery, helicopters, submarines, frigates, and improved cyber security<br>
 
 **Military service age and obligation**<br>
 18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months; women serve in the military on the same terms as men (2021)<br>
@@ -733,7 +733,7 @@ note - as of 2019, women made up about 7% of the military's full-time personnel<
 note: Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>
 
 **Military - note**<br>
-Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a multi-national NATO battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by the US and had about 1,000 troops on a continuous rotational basis as of 2021</p><br>
+Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative</p><br>
 
 ## Terrorism
 
@@ -747,7 +747,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,294,903 (2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

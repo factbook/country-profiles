@@ -28,7 +28,7 @@ slightly larger than Pennsylvania and New Jersey combined; slightly smaller than
 
 **Land boundaries**<br>
 _total_: 4,413 km<br>
-_border countries_: Burma 271 km, India 4142 km<br>
+_border countries_: Burma 271 km; India 4,142 km<br>
 
 **Coastline**<br>
 580 km<br>

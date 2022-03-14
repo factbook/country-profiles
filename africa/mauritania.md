@@ -28,7 +28,7 @@ slightly larger than three times the size of New Mexico; about six times the siz
 
 **Land boundaries**<br>
 _total_: 5,002 km<br>
-_border countries_: Algeria 460 km, Mali 2236 km, Morocco 1564 km, Senegal 742 km<br>
+_border countries_: Algeria 460 km; Mali 2,236 km; Morocco 1,564 km; Senegal 742 km<br>
 
 **Coastline**<br>
 754 km<br>
@@ -703,7 +703,7 @@ note(s) - the Gendarmerie is responsible for maintaining civil order around metr
 2.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Mauritanian Armed Forces have approximately 16,000 active personnel (15,000 Army; 700 Navy; 300 Air Force); est. 3,000 Gendarmerie; est. 2,000 National Guard (2021)<br>
+approximately 16,000 active personnel (15,000 Army; 700 Navy; 300 Air Force); est. 3,000 Gendarmerie; est. 2,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Mauritanian Armed Forces' inventory is limited and made up largely of older French and Soviet-era equipment; since 2010, Mauritania has received a limited amount of mostly secondhand military equipment from a variety of suppliers, including Brazil, China, France, and Turkey (2021)<br>

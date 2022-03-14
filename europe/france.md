@@ -29,7 +29,7 @@ slightly more than four times the size of Georgia; slightly less than the size o
 
 **Land boundaries**<br>
 _total_: 3,956 km<br>
-_border countries_: Andorra 55 km, Belgium 556 km, Germany 418 km, Italy 476 km, Luxembourg 69 km, Monaco 6 km, Spain 646 km, Switzerland 525 km<br>
+_border countries_: Andorra 55 km; Belgium 556 km; Germany 418 k; Italy 476 km; Luxembourg 69 km; Monaco 6 km; Spain 646 km; Switzerland 525 km<br>
 _metropolitan France - total_: 2751<br>
 _French Guiana - total_: 1205<br>
 

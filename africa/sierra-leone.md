@@ -28,7 +28,7 @@ slightly smaller than South Carolina<br>
 
 **Land boundaries**<br>
 _total_: 1,093 km<br>
-_border countries_: Guinea 794 km, Liberia 299 km<br>
+_border countries_: Guinea 794 km; Liberia 299 km<br>
 
 **Coastline**<br>
 402 km<br>

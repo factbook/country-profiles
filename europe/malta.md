@@ -662,7 +662,7 @@ Armed Forces of Malta (AFM, includes land, maritime, and air elements, plus a Vo
 0.5% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of Malta have approximately 2,000 active duty personnel (2021)<br>
+approximately 2,000 active duty personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the small inventory of the Armed Forces of Malta consists of equipment from a mix of European countries, particularly Italy, and the US (2021)<br>

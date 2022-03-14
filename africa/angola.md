@@ -28,7 +28,7 @@ about eight times the size of Georgia; slightly less than twice the size of Texa
 
 **Land boundaries**<br>
 _total_: 5,369 km<br>
-_border countries_: Democratic Republic of the Congo 2,646 km (of which 225 km is the boundary of discontiguous Cabinda Province), Republic of the Congo 231 km, Namibia 1,427 km, Zambia 1,065 km<br>
+_border countries_: Democratic Republic of the Congo 2,646 km (of which 225 km is the boundary of discontiguous Cabinda Province); Republic of the Congo 231 km; Namibia 1,427 km; Zambia 1,065 km<br>
 
 **Coastline**<br>
 1,600 km<br>
@@ -715,7 +715,7 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 2.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 107,000 active troops (100,000 Army; 1,000 Navy; 6,000 Air Force); est. 10,000 Rapid Reaction Police (2021)<br>
+approximately 101,000 active troops (95,000 Army; 1,000 Navy; 5,000 Air Force); est. 10,000 Rapid Reaction Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pact origin; since 2010, Russia has remained the principle supplier of military hardware to Angola (2021)<br>
@@ -732,7 +732,7 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 <p>Democratic Republic of Congo accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,088 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
+_refugees (country of origin)_: 37,084 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

@@ -28,7 +28,7 @@ slightly larger than New Mexico<br>
 
 **Land boundaries**<br>
 _total_: 2,742 km<br>
-_border countries_: Brunei 266 km, Indonesia 1881 km, Thailand 595 km<br>
+_border countries_: Brunei 266 km; Indonesia 1,881 km; Thailand 595 km<br>
 
 **Coastline**<br>
 4,675 km (Peninsular Malaysia 2,068 km, East Malaysia 2,607 km)<br>

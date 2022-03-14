@@ -28,7 +28,7 @@ about 0.6 times the size of Connecticut<br>
 
 **Land boundaries**<br>
 _total_: 156 km<br>
-_border sovereign base areas_: Akrotiri 48 km, Dhekelia 108 km<br>
+_border sovereign base areas_: Akrotiri 48 km; Dhekelia 108 km<br>
 
 **Coastline**<br>
 648 km<br>
@@ -717,7 +717,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 _refugees (country of origin)_: 9,820 (Syria) (mid-year 2021)<br>
 _IDPs_: 228,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2020)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
-<strong>note:</strong> 32,119 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
+<strong>note:</strong> 33,326 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 
 **Illicit drugs**<br>
 <p>vulnerable to money laundering from illegal drugs</p> <p> </p><br>

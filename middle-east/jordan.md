@@ -28,7 +28,7 @@ about three-quarters the size of Pennsylvania; slightly smaller than Indiana<br>
 
 **Land boundaries**<br>
 _total_: 1,744 km<br>
-_border countries_: Iraq 179 km, Israel 307 km, Saudi Arabia 731 km, Syria 379 km, West Bank 148 km<br>
+_border countries_: Iraq 179 km; Israel 307 km; Saudi Arabia 731 km; Syria 379 km; West Bank 148 km<br>
 
 **Coastline**<br>
 26 km<br>
@@ -724,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>2004 Agreement settles border dispute with Syria pending demarcation</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 673,188 (Syria), 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 673,957 (Syria), 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021)<br>
 _stateless persons_: 63 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

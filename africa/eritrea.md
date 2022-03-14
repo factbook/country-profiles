@@ -28,7 +28,7 @@ slightly smaller than Pennsylvania<br>
 
 **Land boundaries**<br>
 _total_: 1,840 km<br>
-_border countries_: Djibouti 125 km, Ethiopia 1033 km, Sudan 682 km<br>
+_border countries_: Djibouti 125 km; Ethiopia 1,033 km; Sudan 682 km<br>
 
 **Coastline**<br>
 2,234 km (mainland on Red Sea 1,151 km, islands in Red Sea 1,083 km)<br>

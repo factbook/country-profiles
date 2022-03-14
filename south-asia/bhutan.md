@@ -28,7 +28,7 @@ slightly larger than Maryland; about one-half the size of Indiana<br>
 
 **Land boundaries**<br>
 _total_: 1,136 km<br>
-_border countries_: China 477 km, India 659 km<br>
+_border countries_: China 477 km; India 659 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

@@ -28,7 +28,7 @@ slightly smaller than Maryland<br>
 
 **Land boundaries**<br>
 _total_: 1,140 km<br>
-_border countries_: Democratic Republic of the Congo 236 km, Rwanda 315 km, Tanzania 589 km<br>
+_border countries_: Democratic Republic of the Congo 236 km; Rwanda 315 km; Tanzania 589 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>

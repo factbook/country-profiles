@@ -28,7 +28,7 @@ slightly larger than Vermont; almost four times the size of Delaware<br>
 
 **Land boundaries**<br>
 _total_: 838 km<br>
-_border countries_: Albania 181 km, Bulgaria 162 km, Greece 234 km, Kosovo 160 km, Serbia 101 km<br>
+_border countries_: Albania 181 km; Bulgaria 162 km; Greece 234 km; Kosovo 160 km; Serbia 101 km<br>
 
 **Coastline**<br>
 0 km (landlocked)<br>
