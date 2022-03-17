@@ -728,7 +728,7 @@ the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Wester
 <p>disputed maritime border between Ghana and Cote d'Ivoire</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,029 (Cote d'Ivoire) (flight from 2010 post-election fighting) (2022)<br>
+_refugees (country of origin)_: 6,045 (Cote d'Ivoire) (flight from 2010 post-election fighting) (2022)<br>
 
 **Illicit drugs**<br>
 a transit and destination point for illicit drugs trafficked from Asia and South America to other African nations and Europe, and to a lesser extent the United States; cultivation of cannabis for domestic use and is trafficked to regional markets or to Europe<br>

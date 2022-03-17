@@ -756,7 +756,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province; Mujahidin 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 136,727 (Syria) (refugees), 50,759 (Sudan) (refugees and asylum seekers), 20,245 (South Sudan) (refugees and asylum seekers), 19,347 (Eritrea) (refugees and asylum seekers), 15,532 (Ethiopia) (refugees and asylum seekers), 9,449 (Yemen) (refugees and asylum seekers), 6,806 (Iraq) (refugees and asylum seekers), 6,770 (Somalia) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 138,853 (Syria), 52,003 (Sudan) (refugees and asylum seekers), 20,713 (South Sudan) (refugees and asylum seekers), 20,927 (Eritrea) (refugees and asylum seekers), 15,484 (Ethiopia) (refugees and asylum seekers), 9,891 (Yemen) (refugees and asylum seekers), 6,807 (Iraq) (refugees and asylum seekers), 6,765 (Somalia) (refugees and asylum seekers) (2022)<br>
 _stateless persons_: 7 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

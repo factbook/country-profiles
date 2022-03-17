@@ -348,9 +348,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Patrice TALON elected to a second term; percent of vote - Patrice TALON (independent) 86.4%, Alassane SOUMANOU (FCBE) 11.3%, other 2.3%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (83 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
+_description_: unicameral National Assembly or Assemblee Nationale (83 seats - current 81; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 28 April 2019 (next to be held in April 2023)<br>
-_election results_: percent of vote by party - Union Progressiste 56.2%, Bloc Republicain 43.8%; seats by party - Union Progressiste 47, Bloc Republicain 36; composition - men 77, women 6, percent of women 7.2%<br>
+_election results_: percent of vote by party - Union Progressiste 56.2%, Bloc Republicain 43.8%; seats by party - Union Progressiste 47, Bloc Republicain 36; composition as of February 2022) - men 75, women 6, percent of women 7.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president); note - jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office<br>

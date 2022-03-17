@@ -357,7 +357,7 @@ _election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by t
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 23 August 2017 (next to be held in August 2022)<br>
-_election results_: percent of vote by party - MPLA 61.1%, UNITA 26.7%, CASA-CE 9.5%, PRS 1.4%, FNLA 0.9%, other 0.5%; seats by party - MPLA 150, UNITA 51, CASA-CE 16, PRS 2, FNLA 1; composition - men 136, women 84, percent of women 38.2%<br>
+_election results_: percent of vote by party - MPLA 61.1%, UNITA 26.7%, CASA-CE 9.5%, PRS 1.4%, FNLA 0.9%, other 0.5%; seats by party - MPLA 150, UNITA 51, CASA-CE 16, PRS 2, FNLA 1; composition - men 155, women 65, percent of women 29.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal de Justica (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)<br>

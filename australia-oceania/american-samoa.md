@@ -244,7 +244,7 @@ Flag Day, 17 April (1900)<br>
 
 **Constitution**<br>
 _history_: adopted 17 October 1960; revised 1 July 1967<br>
-_amendments_: proposed by either house of the Legislative Assembly; passage requires three-fifths majority vote by the membership of each house, approval in a referendum, approval by the US Secretary of the Interior, and only by an act of&nbsp; the US Congress; amended several times, last in 2021<br>
+_amendments_: proposed by either house of the Legislative Assembly; passage requires three-fifths majority vote by the membership of each house, approval by simple majority vote in a referendum, approval by the US Secretary of the Interior, and only by an act of&nbsp; the US Congress; amended several times, last in 2021<br>
 
 **Legal system**<br>
 mixed legal system of US common law and customary law<br>

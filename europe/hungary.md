@@ -343,8 +343,8 @@ _residency requirement for naturalization_: 8 years<br>
 _chief of state_: President Janos ADER (since 10 May 2012)<br>
 _head of government_: Prime Minister Viktor ORBAN (since 29 May 2010)<br>
 _cabinet_: Cabinet of Ministers proposed by the prime minister and appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 13 March 2017 (next to be held spring 2022); prime minister elected by the National Assembly on the recommendation of the president; election last held on 10 May 2018 (next to be held in April or May 2022)<br>
-_election results_: Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39; Viktor ORBAN (Fidesz) reelected prime minister; National Assembly vote - 134 to 28<br>
+_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 11 March 2022 (next to be held spring 2027); prime minister elected by the National Assembly on the recommendation of the president; election last held on 10 May 2018 (next to be held in April or May 2022)<br>
+_election results_: <em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51; note - Katalin NOVAK will assume office in May 2022<em><br><br>2017:</em> Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39<br><br>Viktor ORBAN (Fidesz) reelected prime minister; National Assembly vote - 134 to 28<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
@@ -729,7 +729,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 203,222 (Ukraine) (2022)<br>
+_refugees (country of origin)_: 263,888 (Ukraine) (2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

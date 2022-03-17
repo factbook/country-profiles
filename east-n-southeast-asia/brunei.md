@@ -315,8 +315,8 @@ _elections/appointments_: none; the monarchy is hereditary<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (33 seats; 20 members appointed by the sultan from ex-officio cabinet ministers, titled people, and prominent citizens in public service and various professional fields and 13 members from 4 multi-seat constituencies, and 3 ex-officio members - the speaker and first and second secretaries<br>
-_elections_: appointed by the sultan<br>
-_election results_: NA; composition (as of July 2021) - men 30, women 3, percent of women 9.1%<br>
+_elections_: January 2017 - appointed by the sultan<br>
+_election results_: NA; composition (as of February 2022) - men 30, women 3, percent of women 9.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only<br>

@@ -270,8 +270,8 @@ _agricultural_: 4.7 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Union of the Comoros<br>
 _conventional short form_: Comoros<br>
-_local long form_: Udzima wa Komori (Comorian), Union des Comores (French), Jumhuriyat al Qamar al Muttahidah (Arabic)<br>
-_local short form_: Komori (Comorian), Comores (French), Juzur al Qamar (Arabic)<br>
+_local long form_: Udzima wa Komori (Comorian), Union des Comores (French), Al Ittihad al Qumuri (Arabic)<br>
+_local short form_: Komori (Comorian), Les Comores (French), Juzur al Qamar (Arabic)<br>
 _former_: Comorian State, Federal Islamic Republic of the Comoros<br>
 _etymology_: name derives from the Arabic designation "Juzur al Qamar" meaning "Islands of the Moon"<br>
 

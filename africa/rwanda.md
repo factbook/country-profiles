@@ -706,6 +706,6 @@ the RDF's inventory includes mostly Soviet-era and older Western - largely Frenc
 <p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; fighting among ethnic groups - loosely associated political rebels, armed gangs, and various government forces in Great Lakes region transcending the boundaries of Burundi, Democratic Republic of the Congo (DROC), Rwanda, and Uganda - abated substantially from a decade ago due largely to UN peacekeeping, international mediation, and efforts by local governments to create civil societies; nonetheless, 57,000 Rwandan refugees still reside in 21 African states, including Zambia, Gabon, and 20,000 who fled to Burundi in 2005 and 2006 to escape drought and recriminations from traditional courts investigating the 1994 massacres; the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,116 (Democratic Republic of the Congo) 47,851 (Burundi) (2022)<br>
+_refugees (country of origin)_: 77,116 (Democratic Republic of the Congo) 47,989 (Burundi) (2022)<br>
 _stateless persons_: 9,500 (mid-year 2021)<br>
 

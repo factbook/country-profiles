@@ -746,7 +746,7 @@ Islamic State of Iraq and ash-Sham - Mozambique<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
+<p>dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 126,663 (Burundi), 79,839 (Democratic Republic of the Congo) (2022)<br>

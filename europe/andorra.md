@@ -299,8 +299,8 @@ _elections/appointments_: head of government indirectly elected by the General C
 _election results_: Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7%<br>
 
 **Legislative branch**<br>
-_description_: unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in twoi-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for a national list and one for a parish list<br>
-_elections_: last held on 7 April 2019 (next to be held&nbsp;on April&nbsp;2023)<br>
+_description_: unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for a national list and one for a parish list<br>
+_elections_: last held on 7 April 2019 (next to be held in April 2023)<br>
 _election results_: percent of vote by party - DA 35.1%, PS 30.6%, L'A 12.5%, Third Way/Lauredian Union 10.4%, other 22.4%; seats by party - DA 11, PS 7, L'A 4, Third Way/Lauredian Union 4, other 2; composition - men 15, women 13, percent of women 46.4%<br>
 
 **Judicial branch**<br>

@@ -624,5 +624,5 @@ the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support 
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2,004 as a result of violence) (2020)<br>
-<strong>note:</strong> 7,658 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
+<strong>note:</strong> 7,703 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 

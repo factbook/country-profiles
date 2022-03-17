@@ -346,7 +346,7 @@ _telephone_: [1] (202) 853-9164<br>
 _email address and website_: <br>info@somaliembassydc.net<br><br>https://somaliembassydc.net/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Colleen CRENWELGE (since July 2021)<br>
+_chief of mission_: Ambassador Larry E. ANDRE, Jr. (since 9 February 2022)<br>
 _embassy_: Mogadishu, (reopened October 2019 on the grounds of the Mogadishu Airport)<br>
 _mailing address_: P.O. Box 606 Village Market<br>00621 Nairobi, Kenya<br>
 _telephone_: [254] 20 363-6451<br>

@@ -690,7 +690,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 553 (mid-year 2021)<br>
-<strong>note:</strong> 528,369 estimated refugee and migrant arrivals (January 2015-January 2022)<br>
+<strong>note:</strong> 529,056 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

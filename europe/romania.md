@@ -727,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 85,444 (Ukraine) (2022)<br>
+_refugees (country of origin)_: 453,452 (Ukraine) (2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 9,519 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 

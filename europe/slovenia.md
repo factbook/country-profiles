@@ -703,7 +703,7 @@ Slovenia officially became a member of NATO in 2004<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>537,032 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
+<strong>note:  </strong>537,032 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>
