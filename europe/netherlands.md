@@ -694,18 +694,18 @@ Royal Netherlands Army, Royal Netherlands Navy (includes Naval Air Service and M
 note - the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature, but managed by the Royal Netherlands Navy<br>
 
 **Military expenditures**<br>
-1.45% of GDP (2021 est.)<br>
-1.47% of GDP (2020)<br>
-1.35% of GDP (2019)<br>
-1.22% of GDP (2018)<br>
-1.15% of GDP (2017)<br>
+1.5% of GDP (2021 est.)<br>
+1.5% of GDP (2020)<br>
+1.4% of GDP (2019)<br>
+1.2% of GDP (2018)<br>
+1.2% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Netherlands Armed Forces have approximately 35,000 active duty personnel (15,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2021)<br>
 note - the Navy includes about 2,300 marines<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Netherlands Armed Forces consists of a mix of domestically-produced and modern European- and US-sourced equipment; since 2010, the US is the leading supplier of weapons systems to the Netherlands, followed by several European countries; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2021)<br>
+the inventory of the Netherlands Armed Forces consists of a mix of domestically-produced and modern European- and US-sourced equipment; since 2010, the US is the leading supplier of weapons systems to the Netherlands; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2021)<br>
 
 **Military service age and obligation**<br>
 17 years of age for an all-volunteer force; conscription remains in place, but the requirement to show up for compulsory military service was suspended in 1997 (2021)<br>

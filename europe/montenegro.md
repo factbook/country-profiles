@@ -682,11 +682,11 @@ _major seaport(s)_: Bar<br>
 the Armed Forces of the Republic of Montenegro: joint force with land, air, and naval elements (2021)<br>
 
 **Military expenditures**<br>
-1.74% of GDP (2021 est.)<br>
-1.72% of GDP (2020 est.)<br>
-1.33% of GDP (2019)<br>
-1.37% of GDP (2018)<br>
-1.34% of GDP (2017)<br>
+1.7% of GDP (2021 est.)<br>
+1.7% of GDP (2020)<br>
+1.3% of GDP (2019)<br>
+1.4% of GDP (2018)<br>
+1.3% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 total active duty troops (2021)<br>
@@ -710,7 +710,7 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 20,801 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
+<strong>note:</strong> 20,880 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

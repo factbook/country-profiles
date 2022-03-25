@@ -607,8 +607,8 @@ state-run Bahrain Radio and Television Corporation (BRTC) operates 5 terrestrial
 .bh<br>
 
 **Internet users**<br>
-_total_: 1.71 million (2021 est.)<br>
-_percent of population_: 99.54% (2020 est.)<br>
+_total_: 1.75 million (2022 est.)<br>
+_percent of population_: 99% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 148,595 (2020)<br>
@@ -668,7 +668,7 @@ note(s) - the Royal Guard is officially under the command of the Army, but exerc
 information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 3,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Bahrain Defense force is comprised mostly of equipment acquired from the US along with a smaller quantity of material from European suppliers; since 2010, the US is the leading supplier of arms to Bahrain (2021)<br>
+the inventory of the Bahrain Defense force consists of a mix of equipment acquired from a wide variety of suppliers; since 2010, the US is the leading supplier of arms to Bahrain (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; 15 years of age for NCOs, technicians, and cadets; no conscription (2021)<br>

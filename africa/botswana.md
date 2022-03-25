@@ -633,8 +633,8 @@ _international_: country code - 267; international calls are made via satellite,
 .bw<br>
 
 **Internet users**<br>
-_total_: 1.12 million (2021 est.)<br>
-_percent of population_: 47% (2019 est.)<br>
+_total_: 1.48 million (2022 est.)<br>
+_percent of population_: 61% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 71,898 (2020)<br>
@@ -693,7 +693,7 @@ note - both the armed forces and the Botswana Police Service report to the Minis
 the Botswana Defense Force (BDF) has approximately 9,000 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the BDF has a mix of foreign-supplied and mostly older weapons and equipment, largely from Europe and the US (2021)<br>
+the BDF has a mix of foreign-supplied and mostly older weapons and equipment, largely from Europe (2021)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service (men and women); no conscription (2021)<br>

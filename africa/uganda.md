@@ -709,7 +709,7 @@ information varies; approximately 45-50,000 troops, including about 1,000-1,500 
 note - in 2021, the Ugandan Government announced it would recruit another 10,000 Local Defense Units personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited mix of more modern Russian- and Western-origin arms; since 2010, the leading suppliers of arms to the UPDF are Russia and Ukraine (2021)<br>
+the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited mix of more modern Russian- and Western-origin arms; since 2010, Russia is the leading supplier of arms to the UPDF (2021)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military duty (men and women); 9-year service obligation (2021)<br>
@@ -729,7 +729,7 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders; Ugandan refugees as well as members of the Lord's Resistance Army (LRA) seek shelter in southern Sudan and the Democratic Republic of the Congo's Garamba National Park; LRA forces have also attacked Kenyan villages across the border</p><br>
+<p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda have begun a joint demarcation of the boundary in 2021 <br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 962,360 (South Sudan) (refugees and asylum seekers), 459,073 (Democratic Republic of the Congo), 48,871 (Burundi), 55,579 (Somalia) (refugees and asylum seekers), 25,999 (Rwanda), 22,096 (Eritrea) (2022)<br>

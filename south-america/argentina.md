@@ -646,8 +646,8 @@ government owns a TV station and radio network; more than 2 dozen TV stations an
 .ar<br>
 
 **Internet users**<br>
-_total_: 36.32 million (2021 est.)<br>
-_percent of population_: 74.29% (2019 est.)<br>
+_total_: 38.02 million (2022 est.)<br>
+_percent of population_: 83% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,571,562 (2020)<br>
@@ -747,7 +747,7 @@ as of 2021, the Argentine military was focused primarily on border security and 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Argentina continues to assert its claims to the UK-administered Falkland Islands (Islas Malvinas), South Georgia, and the South Sandwich Islands in its constitution, forcibly occupying the Falklands in 1982, but in 1995 agreed to no longer seek settlement by force; UK continues to reject Argentine requests for sovereignty talks; territorial claim in Antarctica partially overlaps UK and Chilean claims; uncontested dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime; the joint boundary commission, established by Chile and Argentina in 2001 has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur); contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border with Bolivia</p><br>
+<p><em>Argentina-Bolivia:</em> Contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border with Bolivia<br><br><em>Argentina-Brazil:</em> Uncontested dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question.<br><br><em>Argentina-Chile:</em> The joint boundary commission, established by Chile and Argentina in 2001 has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur).<br><br><em>Argentina-Paraguay:</em> None identified<br><br><em>Argentina-Uruguay:</em> In 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime. Isla de Martín Garcia situated in the Rio de la Plata estuary is wholly within Uruguayan territorial waters but up to its low tide mark, the island is Argentinian territory.  The island is accorded unrestricted access rights.<br><br><em>Argentina-United Kingdom:</em> Argentina continues to assert its claims to the UK-administered Falkland Islands (Islas Malvinas), South Georgia, and the South Sandwich Islands in its constitution, forcibly occupying the Falklands in 1982, but in 1995 agreed to no longer seek settlement by force; UK continues to reject Argentine requests for sovereignty talks.</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 170,517 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>

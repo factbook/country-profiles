@@ -711,10 +711,10 @@ note - the Polish Armed Forces are organized into a General Staff, an Armed Forc
 
 **Military expenditures**<br>
 2.1% of GDP (2021 est.)<br>
-2.31% of GDP (2020 est.)<br>
-1.98% of GDP (2019)<br>
-2.02% of GDP (2018)<br>
-1.89% of GDP (2017)<br>
+2.3% of GDP (2020)<br>
+2% of GDP (2019)<br>
+2% of GDP (2018)<br>
+1.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 120,000 total active duty personnel (approximately 60,000 Army; 7,000 Navy; 17,000 Air Force; 3,500 Special Forces; 7,500 joint service; 25,000 Territorial Defense Forces) (2021)<br>
@@ -747,7 +747,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,808,436 (2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 2,144,244 (2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

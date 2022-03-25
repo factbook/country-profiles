@@ -700,17 +700,17 @@ _river port(s)_: Vukovar (Danube)<br>
 Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM, includes Coast Guard), Air Force and Air Defense Forces; Military Police Force supports each of the three Croatian military forces (2021)<br>
 
 **Military expenditures**<br>
-2.79% of GDP (2021 est.)<br>
-1.83% of GDP (2020)<br>
-1.65% of GDP (2019)<br>
-1.57% of GDP (2018)<br>
-1.67% of GDP (2017)<br>
+2.8% of GDP (2021 est.)<br>
+1.8% of GDP (2020)<br>
+1.7% of GDP (2019)<br>
+1.6% of GDP (2018)<br>
+1.7% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of the Republic of Croatia have approximately 15,000 active duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Croatian Armed Forces consists mostly of Soviet-era equipment, although in recent years, it has acquired a limited number of more modern weapon systems from some Western suppliers, including France and the US (2021)<br>
+the inventory of the Croatian Armed Forces consists mostly of Soviet-era equipment, although in recent years, it has acquired a limited amount of more modern weapon systems from Western suppliers, including Finland, Germany, and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription abolished in 2008 (2021)<br>

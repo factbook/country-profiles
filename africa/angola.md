@@ -639,8 +639,8 @@ state controls all broadcast media with nationwide reach; state-owned Televisao 
 .ao<br>
 
 **Internet users**<br>
-_total_: 10.36 million (2021 est.)<br>
-_percent of population_: 36% (2019 est.)<br>
+_total_: 12.41 million (2022 est.)<br>
+_percent of population_: 36% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 230,610 (2020)<br>
@@ -729,7 +729,7 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Democratic Republic of Congo accuses Angola of shifting monuments</p><br>
+<p><em>Angola-Democratic Republic of Congo(DROC): </em>DROC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: </em>None identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) None identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 37,084 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>

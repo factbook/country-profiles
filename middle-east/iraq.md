@@ -713,7 +713,7 @@ Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Fo
 information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces (10,000 Iraqi Counterterrorism Service; 10,000 Presidential Brigades; 5,000 Prime Minister&rsquo;s Special Forces Division); Ministry of Peshmerga: approximately 150,000-plus (35,000 Regional Guard Brigades; 50,000 Unit 70 Forces; 70,000 Unit 80 Forces); estimated 100-160,000 Popular Mobilization Forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Iraqi military inventory is comprised of Russian and Soviet-era equipment combined with newer European- and US-sourced platforms; since 2010, Russia and the US are the leading suppliers of military hardware to Iraq (2021)<br>
+the Iraqi military inventory is comprised of a mix of equipment from a wide variety of sources, including Europe, South Africa, South Korea, Russia, and the US; since 2010, Russia and the US are the leading suppliers of military hardware to Iraq (2021)<br>
 
 **Military service age and obligation**<br>
 18-40 years of age for voluntary military service; no conscription (abolished 2003) (2021)<br>

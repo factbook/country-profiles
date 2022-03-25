@@ -699,8 +699,8 @@ note - in 2021 the UK formed a joint service Space Command staffed by Army, Navy
 2.5% of GDP (2021 est.)<br>
 2.3% of GDP (2020)<br>
 2.1% of GDP (2019)<br>
-2.11% of GDP (2018)<br>
-2.09% of GDP (2017)<br>
+2.1% of GDP (2018)<br>
+2.1% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the British military has approximately 194,000 total active troops (120,500 Army, including about 4,000 Gurkhas; 40,500 Navy, including about 7,000 Royal Marines; 38,000 Air Force) (2021)<br>

@@ -365,9 +365,9 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br> National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last held on 25 March 2018 (next to be held in 2023)<br> National Assembly - last held on 9 February 2020 (current term extended by President); note - the constitutional court has ordered a partial rerun of elections in the English speaking areas; date to be determined<br>
-_election results_: Senate - percent of vote by party - CDPM 81.1%, SDF 8.6%, UNDP 5.8%, UDC 1.16%, other 2.8%; seats by party - CPDM 63, SDF 7 <br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; 13 vacant; composition - NA<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br>National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: Senate - last held on 25 March 2018 (next to be held in 2023)<br>National Assembly - last held on 9 February 2020 (current term extended by president); note - the Constitutional Court has ordered a partial rerun of elections in the English speaking areas; date to be determined<br>
+_election results_: Senate - percent of vote by party - CDPM 81.1%, SDF 8.6%, UNDP 5.8%, UDC 1.16%, other 2.8%; seats by party - CPDM 63, SDF 7; composition as of March 2022 - men 74, women 26, percent of women 26%<br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; 13 vacant; composition as of March 2022 - men 119, women 61, percent of women 33.9%; note - total Parliament percent of women 31.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)<br>
@@ -725,7 +725,7 @@ note(s) - the National Police (under the General Delegation of National Security
 information varies widely; approximately 40,000 active duty troops; (25,000 ground forces, including the BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAC inventory includes a mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons; since 2010, China is the leading supplier of armaments to the FAC (2021)<br>
+the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons; since 2010, China is the leading supplier of armaments to the FAC (2021)<br>
 
 **Military service age and obligation**<br>
 18-23 years of age for male and female voluntary military service; no conscription; high school graduation required; service obligation 4 years (2021)<br>

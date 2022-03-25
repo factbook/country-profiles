@@ -359,7 +359,7 @@ _election results_: Roch Marc Christian KABORE reelected president in first roun
 **Legislative branch**<br>
 _description_: unicameral National Assembly (127 seats; 111 members directly elected in 13 multi-seat constituencies by party-list proportional representation vote and 26 members elected in a nationwide constituency by proportional representation vote; all member serve 5-year terms)<br>
 _elections_: last held on 22 November 2020 (next to be held in November 2025)<br>
-_election results_: percent of vote by party - NA; seats by party (preliminary results) - MPP 56, CDP 20, NTD 13, UPC 12<br>
+_election results_: percent of vote by party - MPP 34.6%, CDP 13.3%, UPC 10.2%, NTD 5.6%, other 36.3%; seats by party - MPP 56, CDP 20, NTD 13, UPC 12, other 26; composition as of October 2021 - men 119, women 8, percent of women 6.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Appeals or Cour de Cassation (consists of NA judges); Council of State (consists of NA judges); Constitutional Council or Conseil Constitutionnel (consists of the council president and 9 members)<br>
@@ -639,8 +639,8 @@ since the official inauguration of Terrestrial Digital Television (TNT) in Decem
 .bf<br>
 
 **Internet users**<br>
-_total_: 5.46 million (2021 est.)<br>
-_percent of population_: 16% (2019 est.)<br>
+_total_: 5.95 million (2022 est.)<br>
+_percent of population_: 27.3% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 13,979 (2020)<br>

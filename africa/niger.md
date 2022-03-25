@@ -717,7 +717,7 @@ note - the Gendarmerie is subordinate to the Ministry of Defense and has primary
 information varies; approximately 10,000 active troops (est. 6,000 Army; 200 Air Force; 4,000 Gendarmerie); est. 3,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAN's inventory consists of a wide variety of older weapons; since 2010, the FAN has received small amounts of mostly second-hand equipment and donations from China, France, South Africa, Sweden, Ukraine, and the US (2021)<br>
+the FAN's inventory consists of a wide variety of older weapons; since 2010, the FAN has received small amounts of mostly second-hand equipment and donations from several countries with the US as the top provider (2021)<br>
 
 **Military service age and obligation**<br>
 has conscription, although it is reportedly not always enforced; 18 is the legal minimum age for compulsory or voluntary military service; enlistees must be Nigerien citizens and unmarried; 2-year service term; women may serve in health care (2021)<br>

@@ -327,7 +327,7 @@ _elections/appointments_: the monarchy is hereditary and constitutional; followi
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br>Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: <p>Senate - last held 26 May 2019 (next to be held in 2024)</p> Chamber of Representatives - last held on 26 May 2019 (next to be held in 2024); note - elections coincided with the EU elections<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition men 33, women 27, percent of women 45%<br>Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&amp;V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition - men 86, women 64, percent of women 42.7%; note - overall Parliament percent of women 43.8%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition as of March 2022 - men 31, women 29, percent of women 48.3%<br>Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&amp;V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition as of March 2022 - men 87, women 63, percent of women 42%; note - overall Parliament percent of women 43.8%<br>
 <strong>note:</strong> the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform<br>
 
 **Judicial branch**<br>
@@ -611,8 +611,8 @@ a segmented market with the three major communities (Flemish, French, and German
 .be<br>
 
 **Internet users**<br>
-_total_: 10.57 million (2021 est.)<br>
-_percent of population_: 91.52% (2020 est.)<br>
+_total_: 10.95 million (2022 est.)<br>
+_percent of population_: 94% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,734,210 (2020)<br>
@@ -678,11 +678,11 @@ Brussels (Senne River) Liege (Meuse River)<br>
 Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, Medical Service (2021)<br>
 
 **Military expenditures**<br>
-1.12% of GDP (2021 est.)<br>
-1.07% of GDP (2020)<br>
-0.89% of GDP (2019)<br>
-0.89% of GDP (2018)<br>
-0.88% of GDP (2017)<br>
+1.1% of GDP (2021 est.)<br>
+1.1% of GDP (2020)<br>
+0.9% of GDP (2019)<br>
+0.9% of GDP (2018)<br>
+0.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Belgian Armed Forces have approximately 26,000 active duty personnel (11,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2020)<br>

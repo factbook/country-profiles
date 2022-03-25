@@ -694,7 +694,7 @@ Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF, includes Army La
 the Cypriot National Guard has approximately 15,000 total active duty personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Cypriot National Guard is a mix of Soviet-era and some more modern weapons systems; since 2010, it has received equipment from France, Israel, Italy, Oman, and Russia (2021)<br>
+the inventory of the Cypriot National Guard is a mix of Soviet-era and some more modern weapons systems; since 2010, it has received equipment from several countries, including France, Israel, Russia, and Serbia (2021)<br>
 
 **Military service age and obligation**<br>
 Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; 14-month service obligation (2021)<br>

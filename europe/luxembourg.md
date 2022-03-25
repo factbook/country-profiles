@@ -665,17 +665,17 @@ _river port(s)_: Mertert (Moselle)<br>
 Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2021)<br>
 
 **Military expenditures**<br>
-0.57% of GDP (2021 est.)<br>
-0.57% of GDP (2020)<br>
-0.54% of GDP (2019)<br>
+0.6% of GDP (2021 est.)<br>
+0.6% of GDP (2020)<br>
+0.5% of GDP (2019)<br>
 0.5% of GDP (2018)<br>
-0.51% of GDP (2017)<br>
+0.5% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Luxembourg Army has approximately 900 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of Luxembourg's Army is a mix of European and US equipment; since 2010, it has received small quantities of equipment from Germany, Norway, and Sweden (2021)<br>
+the inventory of Luxembourg's Army is a small mix of Western-origin equipment; since 2010, it has received equipment from several European countries (2021)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for male and female voluntary military service; no conscription (abolished 1969); Luxembourg citizen or EU citizen with 3-year residence in Luxembourg (2021)<br>

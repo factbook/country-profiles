@@ -324,7 +324,7 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age, 16 if employed; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Chairman of the Presidency Zeljko KOMSIC&nbsp; (chairman since 20 July 2021; presidency member since 20 November 2018 - Croat seat); Sefik DZAFEROVIC (presidency member since 20 November 2018 - Bosniak seat); Milorad DODIK (presidency member since 20 November 2018 - Serb seat)<br>
+_chief of state_: Chairman of the Presidency Sefik DZAFEROVIC (chairman since 20 March 2022; presidency member since 20 November 2018 - Bosniak seat); Zeljko KOMSIC&nbsp; (presidency member since 20 November 2018 - Croat seat); Milorad DODIK (presidency member since 20 November 2018 - Serb seat)<br>
 _head of government_: Chairman of the Council of Ministers Zoran TEGELTIJA &nbsp;(since 5 December 2019)<br>
 _cabinet_: Council of Ministers nominated by the council chairman, approved by the state-level House of Representatives<br>
 _elections/appointments_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term, but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; election last held on&nbsp;7 October 2018 (next to be held in October 2022); the chairman of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>
@@ -333,8 +333,8 @@ _election results_: <em><br>2018:</em> percent of vote - Milorad DODIK (SNSD) 53
 
 **Legislative branch**<br>
 _description_: bicameral Parliamentary Assembly or Skupstina consists of:<br>House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly to serve 4-year terms)<br>House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms); note - the Federation of Bosnia and Herzegovina has a bicameral legislature that consists of the House of Peoples (58 seats - 17 Bosniak, 17 Croat, 17 Serb, 7 other) and the House of Representatives (98 seats; members directly elected by proportional representation vote to serve 4-year terms); Republika Srpska's unicameral legislature is the National Assembly (83 directly elected delegates serve 4-year terms)<br>
-_elections_: House of Peoples - last held on 18 October 2018 (next to be held in October 2022)<br>House of Representatives - last held on 7 October 2018 (next to be held in October 2022)<br>
-_election results_: House of Peoples - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 13, women 2, percent of women 13.3%<br>House of Representatives - percent of vote by coalition/party - SDA 17%, SNSD 16%, SDS/NDP/NS/SRS-VS 9.8%, SDP 9.1%, HDZ-BiH/HSS/HKDU/HSP-AS BiH/HDU BiH 9.1%, DF, 5.8%, PDP 5.1%, DNS 4.2%, SBB BiH 4.2%, NS/HC 2.9%, NB 2.5%, PDA 2.3%, SP 1.9%, A-SDA 1.8%, other 17.4%; seats by coalition/party - SDA 9, SNSD 6, SDP 5, HDZ-BiH/HSS/HKDU/HSP-AS BiH/HDU BiH 5, SDS/NDP/NS/SRS-VS 3, DF 3, PDP 2, SBB BiH 2, NS/HC 2, DNS 1, NB 1 PDA 1, SP 1, A-SDA 1; composition - men 33, women 9, percent of women 21.4%; note - total Parliamentary Assembly percent of women 19.3%<br>
+_elections_: House of Peoples - last held on 7 October 2018 (next to be held in October 2022)<br>House of Representatives - last held on 7 October 2018 (next to be held in October 2022)<br>
+_election results_: House of Peoples - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 12, women 3, percent of women 20%<br>House of Representatives - percent of vote by coalition/party - SDA 17%, SNSD 16%, SDS/NDP/NS/SRS-VS 9.8%, SDP 9.1%, HDZ-BiH/HSS/HKDU/HSP-AS BiH/HDU BiH 9.1%, DF, 5.8%, PDP 5.1%, DNS 4.2%, SBB BiH 4.2%, NS/HC 2.9%, NB 2.5%, PDA 2.3%, SP 1.9%, A-SDA 1.8%, other 17.4%; seats by coalition/party - SDA 9, SNSD 6, SDP 5, HDZ-BiH/HSS/HKDU/HSP-AS BiH/HDU BiH 5, SDS/NDP/NS/SRS-VS 3, DF 3, PDP 2, SBB BiH 2, NS/HC 2, DNS 1, NB 1 PDA 1, SP 1, A-SDA 1; composition - men 31, women 11, percent of women 26.2%; note - total Parliamentary Assembly percent of women 24.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Bosnia and Herzegovina (BiH) Constitutional Court (consists of 9 members); Court of BiH (consists of 44 national judges and 7 international judges organized into 3 divisions - Administrative, Appellate, and Criminal, which includes a War Crimes Chamber)<br>
@@ -618,8 +618,8 @@ _international_: country code - 387; no satellite earth stations<br>
 .ba<br>
 
 **Internet users**<br>
-_total_: 2.32 million (2021 est.)<br>
-_percent of population_: 73.21% (2020 est.)<br>
+_total_: 2.51 million (2022 est.)<br>
+_percent of population_: 77% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 770,624 (2020)<br>
@@ -712,7 +712,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note:</strong> 86,915 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
+<strong>note:</strong> 87,139 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

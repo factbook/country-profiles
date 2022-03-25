@@ -701,10 +701,10 @@ the Hungarian Defense Forces are a unified force (Joint Force Command) with Land
 
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
-1.79% of GDP (2020)<br>
-1.25% of GDP (2019)<br>
-1.01% of GDP (2018)<br>
-1.19% of GDP (2017)<br>
+1.8% of GDP (2020)<br>
+1.3% of GDP (2019)<br>
+1% of GDP (2018)<br>
+1.2% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Hungarian Defense Forces have approximately 23,000 active duty troops (18,000 Army; 5,000 Air Force) (2021)<br>
@@ -729,7 +729,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 263,888 (Ukraine) (2022)<br>
+_refugees (country of origin)_: 324,397 (Ukraine) (2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

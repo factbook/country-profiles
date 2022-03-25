@@ -340,11 +340,11 @@ _residency requirement for naturalization_: 3 years<br>
 18 years of age; universal and compulsory until the age of 75<br>
 
 **Executive branch**<br>
-_chief of state_: President Mario Abdo BENITEZ (since 15 August 2018); Vice President Hugo Adalberto VELAZQUEZ Moreno (since 15 August 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Mario Abdo BENITEZ (since 15 August 2018); Vice President Hugo Adalberto VELAZQUEZ Moreno (since 15 August 2018)<br>
+_chief of state_: President Mario ABDO BENITEZ (since 15 August 2018); Vice President Hugo Adalberto VELAZQUEZ Moreno (since 15 August 2018); note - the president is both chief of state and head of government<br>
+_head of government_: President Mario ABDO BENITEZ (since 15 August 2018); Vice President Hugo Adalberto VELAZQUEZ Moreno (since 15 August 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a single 5-year term; election last held on 22 April 2018 (next to be held in April 2023)<br>
-_election results_: <br><em>2018:</em> Mario Abdo BENITEZ elected president; percent of vote - Mario Abdo BENITEZ (ANR) 49%, Efrain ALEGRE (PLRA) 45.1%, Juan Bautista YBANEZ 3.4%, other 2.5%<br><br><em>2013:</em> Horacio CARTES elected president; percent of vote - Horacio CARTES (ANR) 48.5%, Efrain ALEGRE (PLRA) 39%, Mario FERREIRO (AP) 6.2%, Anibal CARRILLO (FG) 3.5%, other 2.8%<br>
+_election results_: <br><em>2018:</em> Mario ABDO BENITEZ elected president; percent of vote - Mario ABDO BENITEZ (ANR) 49%, Efrain ALEGRE (PLRA) 45.1%, Juan Bautista YBANEZ 3.4%, other 2.5%<br><br><em>2013:</em> Horacio CARTES elected president; percent of vote - Horacio CARTES (ANR) 48.5%, Efrain ALEGRE (PLRA) 39%, Mario FERREIRO (AP) 6.2%, Anibal CARRILLO (FG) 3.5%, other 2.8%<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)<br>
@@ -363,15 +363,15 @@ Asociacion Nacional Republicana - Colorado Party or ANR [Pedro ALLIANA]<br>Avanz
 CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Luis Jose GONZALEZ FERNANDEZ, Minister (since 12 April 2021)<br>
-_chancery_: 2400 Massachusetts Avenue, NW, Washington DC&nbsp; 20008&nbsp;&nbsp;<br>
+_chief of mission_: Ambassador Jose Antonio DOS SANTOS (since 24 June 2021)<br>
+_chancery_: 2400 Massachusetts Avenue, NW, Washington DC&nbsp; 20008<br>
 _telephone_: [1] (202) 483-6960<br>
 _FAX_: [1] (202) 234-4508<br>
 _email address and website_: <br>eeuuembaparsc@mre.gov.py; secretaria@embaparusa.gov.py<br>
 _consulate(s) general_: Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Joseph SALAZAR (since 20 January 2021 )<br>
+_chief of mission_: Ambassador Marc OSTFIELD (since 9 March 2022)<br>
 _embassy_: 1776 Mariscal Lopez Avenue, Asuncion<br>
 _mailing address_: 3020 Asuncion Place, Washington DC&nbsp; 20521-3020<br>
 _telephone_: [595] (21) 248-3000<br>
@@ -619,8 +619,8 @@ _total subscriptions_: 7,761,848 (2019)<br>
 _subscriptions per 100 inhabitants_: 110.2 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to telecom platform; monopolized fixed-line service; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; South Korean investment in education centers; operator enabled 100 free Internet points across the country; Inter-American Development Bank loan supports modernization within regulatory framework; dependent on neighboring countries for access to submarine cables; major importer of broadcasting equipment from the USA (2020)<br>
-_domestic_: deficiencies in provision of fixed-line service have resulted in expansion of mobile-cellular services fostered by competition among multiple providers; Internet market also open to competition; fixed-line just under 4 per 100 and mobile-cellular just over 110 per 100 (2019)<br>
+_general assessment_: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to telecom platform; monopolized fixed-line service; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; South Korean investment in education centers; operator enabled 109 free Internet points across the country and is looking to expand to 430 points in 2022; Inter-American Development Bank loan supports modernization within regulatory framework; dependent on neighboring countries for access to submarine cables; major importer of broadcasting equipment from the USA (2022)<br>
+_domestic_: deficiencies in provision of fixed-line service have resulted in expansion of mobile-cellular services fostered by competition among multiple providers; Internet market also open to competition; fixed-line just over 3 per 100 and mobile-cellular just over 105 per 100 (2020)<br>
 _international_: country code - 595; Paraguay's landlocked position means they must depend on neighbors for interconnection with submarine cable networks, making it cost more for broadband services; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -632,7 +632,7 @@ _international_: country code - 595; Paraguay's landlocked position means they m
 
 **Internet users**<br>
 _total_: 4.92 million (2021 est.)<br>
-_percent of population_: 74.52% (2020 est.)<br>
+_percent of population_: 74.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 377,379 (2019)<br>

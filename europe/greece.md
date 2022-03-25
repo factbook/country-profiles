@@ -683,17 +683,17 @@ _LNG terminal(s) (import)_: Revithoussa<br>
 Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National Guard reserves), Hellenic Navy (Elliniko Polemiko Navtiko, EPN), Hellenic Air Force (Elliniki Polemiki Aeroporia, EPA; includes air defense) (2021)<br>
 
 **Military expenditures**<br>
-3.82% of GDP (2021 est.)<br>
-2.65% of GDP (2020)<br>
-2.36% of GDP (2019)<br>
-2.54% of GDP (2018)<br>
-2.38% of GDP (2017)<br>
+3.8% of GDP (2021 est.)<br>
+2.7% of GDP (2020)<br>
+2.4% of GDP (2019)<br>
+2.5% of GDP (2018)<br>
+2.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 130,000 active duty personnel (90,000 Army; 15,000 Navy; 25,000 Air Force); approximately 35,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Hellenic Armed Forces consists mostly of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems, particularly naval vessels; France, Germany, and the US are the leading suppliers of weapons systems to Greece since 2010; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2021)<br>
+the inventory of the Hellenic Armed Forces consists mostly of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems, particularly naval vessels; Germany is the leading supplier of weapons systems to Greece since 2010; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2021)<br>
 note - in addition to finalizing an update to the Mutual Defense Cooperation Agreement with the US, Greece also entered into a security agreement with France in 2021 that included the sale of frigates and fighter aircraft to augment its aging weapons systems<br>
 
 **Military service age and obligation**<br>
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,215,375 estimated refugee and migrant arrivals (January 2015-March 2022); as of the end of September 2021, Greece hosted an estimated 164,009 refugees and asylum seekers<br>
+<strong>note:</strong> 1,215,545 estimated refugee and migrant arrivals (January 2015-March 2022); as of the end of September 2021, Greece hosted an estimated 164,009 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

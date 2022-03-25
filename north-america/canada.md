@@ -346,8 +346,8 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)<br>House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)<br>
-_elections_: Senate - appointed; latest appointments in December 2018<br>House of Commons - last held on 20 September 2021 (next to be held NA)<br>
-_election results_: <br>Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4% <br><br>House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition - men 236, women 102, percent of women 29%; note - total Parliament percent of women 30.2%<br>
+_elections_: Senate - appointed; latest appointments in December 2018<br>House of Commons - last held on 20 September 2021 (next to be held before 20 October 2025)<br>
+_election results_: <br>Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4% <br><br>House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition - men 235, women 103, percent of women 30.5%; note - total Parliament percent of women 30.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -709,11 +709,11 @@ Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, C
 note - the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles<br>
 
 **Military expenditures**<br>
-1.39% of GDP (2021 est.)<br>
-1.42% of GDP (2020)<br>
-1.29% of GDP (2019)<br>
-1.31% of GDP (2018)<br>
-1.44% of GDP (2017)<br>
+1.4% of GDP (2021 est.)<br>
+1.4% of GDP (2020)<br>
+1.3% of GDP (2019)<br>
+1.3% of GDP (2018)<br>
+1.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 70,000 total active personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2021)<br>

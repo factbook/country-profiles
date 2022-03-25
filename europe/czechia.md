@@ -682,11 +682,11 @@ Decin, Usti nad Labem (Elbe)<br>
 Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces Directorate (2021)<br>
 
 **Military expenditures**<br>
-1.42% of GDP (2021 est.)<br>
-1.31% of GDP (2020 est.)<br>
-1.19% of GDP (2019)<br>
-1.13% of GDP (2018)<br>
-1.04% of GDP (2017)<br>
+1.4% of GDP (2021 est.)<br>
+1.3% of GDP (2020 est.)<br>
+1.2% of GDP (2019)<br>
+1.1% of GDP (2018)<br>
+1% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Czech military has approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2021)<br>

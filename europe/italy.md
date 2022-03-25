@@ -700,17 +700,17 @@ Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italia
 note(s) - the Carabinieri is the national gendarmerie; for its civil police functions, the Carabinieri falls under the control of the Ministry of the Interior; the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>
-1.41% of GDP (2021 est.)<br>
-1.39% of GDP (2020)<br>
-1.18% of GDP (2019)<br>
-1.23% of GDP (2018)<br>
+1.4% of GDP (2021 est.)<br>
+1.4% of GDP (2020)<br>
+1.2% of GDP (2019)<br>
+1.2% of GDP (2018)<br>
 1.2% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 107,000 Carabinieri (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Italian Armed Forces' inventory includes a mix of domestically-produced, jointly-produced, and imported European and US weapons systems; the US is the leading supplier of weapons to Italy since 2010, followed by Germany; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in naval vessels and aircraft; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2021)<br>
+the Italian Armed Forces' inventory includes a mix of domestically-produced, jointly-produced, and imported weapons systems, mostly from Europe and the US; the US is the leading supplier of weapons to Italy since 2010, followed by Germany; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in naval vessels and aircraft; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; women may serve in any military branch; Italian citizenship required; 1-year service obligation; conscription abolished 2004 (2021)<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 596,748 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
+<strong>note:</strong> 597,116 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

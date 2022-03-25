@@ -701,7 +701,7 @@ note - the Gendarmerie falls under the Ministry of Defense but also reports to t
 approximately 9,000 personnel, including about 8,000 Army (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAT's small inventory is a mix of older equipment from a variety of countries, including Brazil, France, Germany, Russia/former Soviet Union, the UK, and the US; since 2010, it has received limited amounts of newer--largely secondhand--equipment; the Navy has received patrol boats from China, France, South Africa, and the US (2021)<br>
+the FAT's small inventory is a mix of older equipment from a variety of countries, including Brazil, France, Germany, Russia/former Soviet Union, the UK, and the US; since 2010, it has received limited amounts of newer--largely secondhand--equipment, such as patrol boats, from China, France, South Africa, and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for military service; 2-year service obligation; no conscription; women have been able to serve since 2007 (2021)<br>

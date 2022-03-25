@@ -763,7 +763,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 73,542 (Cameroon) (2022)<br>
-_IDPs_: 3,184,058 (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2021)<br>
+_IDPs_: 3,030,544 (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Nigeria along with victims from Nigeria abroad; internal trafficking involving recruiting victims from rural areas for commercial sex  and forced labor in domestic work, street vending, mining, agriculture, begging and textile <br>manufacturing; traffickers operate “baby factories” where women held against their will are raped and children are sold into forced labor or sex trafficking or rented to beggars to increase their profits; women are often taken to other West and Central African countries, South Africa, Europe and the Middle East for commercial sex; Boko Haram and ISIS-WA forcibly recruit, abduct, and use child soldiers as young as 12 as cooks, spies, messengers, bodyguards, armed combatants, and suicide bombers; they abduct women and girls in the northern region of Nigeria for sexual slavery and forced labor<br>

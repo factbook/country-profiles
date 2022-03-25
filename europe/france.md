@@ -729,17 +729,17 @@ begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) 
 French Armed Forces (Forces Arm&eacute;es Fran&ccedil;aises): Army (Armee de Terre; includes Foreign Legion), Navy (Marine Nationale), Air and Space Force (Armee de l&rsquo;Air et de l&rsquo;Espace); includes Air Defense), National Guard (Reserves), National Gendarmerie (paramilitary police force that is a branch of the Armed Forces but under the jurisdiction of the Ministry of the Interior; also has additional duties to the Ministry of Defense and the Ministry of Justice) (2021)<br>
 
 **Military expenditures**<br>
-2.01% of GDP (2021 est.)<br>
-2.04% of GDP (2020 est.)<br>
-1.83% of GDP (2019)<br>
-1.81% of GDP (2018)<br>
-1.78% of GDP (2017)<br>
+2% of GDP (2021 est.)<br>
+2% of GDP (2020)<br>
+1.8% of GDP (2019)<br>
+1.8% of GDP (2018)<br>
+1.8% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the French military has approximately 205,000 active duty troops (115,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the French military's inventory consists almost entirely of domestically-produced weapons systems, including some jointly-produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; France has a defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2021)<br>
+the French military's inventory consists mostly of domestically-produced weapons systems, including some jointly-produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; France has a defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2021)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for male and female voluntary military service; no conscription (abolished 2001); 1-year service obligation; women serve in noncombat posts (2021)<br><br>note(s) - men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign 5-year contracts; in 2019, women comprised approximately approximately 16% of the uniformed armed forces (21% including civilians) <br>

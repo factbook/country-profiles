@@ -668,7 +668,7 @@ note - the National Police is responsible for security within Djibouti City and 
 the Djibouti Armed Forces (FAD) have approximately 10,500 active troops (8,000 Army; 250 Naval; 250 Air; 2,000 Gendarmerie) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAD is armed largely with older French and Soviet-era weapons systems; since 2010, it has received limited amounts of mostly second-hand equipment from a variety of countries, including Canada, China, France, Italy, Saudi Arabia, and the US (2021)<br>
+the FAD is armed largely with older French and Soviet-era weapons systems; since 2010, it has received limited amounts of mostly second-hand equipment from a variety of countries, including China and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (men and women); 16-25 years of age for voluntary military training; no conscription (2021)<br>

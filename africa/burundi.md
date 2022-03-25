@@ -627,8 +627,8 @@ state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV stat
 .bi<br>
 
 **Internet users**<br>
-_total_: 1.61 million (2021 est.)<br>
-_percent of population_: 2.66% (2019 est.)<br>
+_total_: 1.82 million (2022 est.)<br>
+_percent of population_: 14.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,230 (2020)<br>
@@ -695,7 +695,7 @@ in addition to its foreign deployments, the FDN as of 2021 was focused on intern
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region</p><br>
+<p>cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region<em><br><br>Burundi-Rwanda: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 84,961 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>

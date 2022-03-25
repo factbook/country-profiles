@@ -676,11 +676,11 @@ Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Dan
 note - the Danish military maintains a Joint Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; it also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
 
 **Military expenditures**<br>
-1.41% of GDP (2021 est.)<br>
+1.4% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
 1.3% of GDP (2019)<br>
-1.28% of GDP (2018)<br>
-1.14% of GDP (2017)<br>
+1.3% of GDP (2018)<br>
+1.1% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Danish military has approximately 16,000 active duty personnel (8,000 Army; 3,000 Navy; 3,000 Air Force; 2,000 other) (2021)<br>

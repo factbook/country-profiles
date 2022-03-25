@@ -265,7 +265,7 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (15 seats; 13 members - 9 in single-seat constituencies and 4 at-large seats directly elected by simple majority vote and 2 ex-officio members - the attorney general and the speaker - chosen from outside the House; members serve 4-year terms)<br>
 _elections_: last held on 25 February 2019 (next to be held in 2023)<br>
-_election results_: percent of vote by party - VIP 46.5%, NDP 28.2%, PVIM 17.4%, PU 8%; seats by party - VIP 8, NDP 3, PVIM 1, PU 1; composition - men 12, women 3, percent of women 20%<br>
+_election results_: percent of vote by party - VIP 46.5%, NDP 28.2%, PVIM 17.4%, PU 8%; seats by party - VIP 8, NDP 3, PVIM 1, PU 1; composition as of March 2022 - men 11, women 4, percent of women 26.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 3 in the British Virgin Islands<br>
@@ -495,8 +495,8 @@ _international_: country code - 1-284; landing points for PCCS, ECFS, CBUS, Deep
 .vg<br>
 
 **Internet users**<br>
-_total_: 23,600 (2021 est.)<br>
-_percent of population_: 77.7% (2019 est.)<br>
+_total_: 23,700 (2022 est.)<br>
+_percent of population_: 77.7% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,738 (2020)<br>

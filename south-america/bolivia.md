@@ -354,7 +354,7 @@ _election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected presid
 **Legislative branch**<br>
 _description_: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of:<br>Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by closed party-list proportional representation vote, and 7 (apportioned to non-contiguous, rural areas in 7 of the 9 states) directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
 _elections_: <br>Chamber of Senators - last held on 18 October 2020 (next to be held in 2025)<br>Chamber of Deputies - last held on 18 October 2020 (next to be held in 2025)<br>
-_election results_: <br>Chamber of Senators - percent of vote by party - NA; seats by party - MAS 21, ACC 11, Creemos 4; <br>Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 75, ACC 39, Creemos 16<br>
+_election results_: <br>Chamber of Senators - percent of vote by party - NA; seats by party - MAS 21, ACC 11, Creemos 4; composition as of March 2022 - men16, women 20, percent of women 55.6%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 75, ACC 39, Creemos 16; composition as of March 2022 - men 70, women 60, percent of women 46.2%; note - total Plurinational Legislative Assembly percent of women as of March 2022 - 48.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Tribunal Supremo de Justicia (consists of 12 judges or ministros organized into civil, penal, social, and administrative chambers); Plurinational Constitutional Tribunal (consists of 7 primary and 7 alternate magistrates); Plurinational Electoral Organ (consists of 7 members and 6 alternates); National Agro-Environment Court (consists of 5 primary and 5 alternate judges; Council of the Judiciary (consists of 3 primary and 3 alternate judges)<br>
@@ -644,8 +644,8 @@ large number of radio and TV stations broadcasting with private media outlets do
 .bo<br>
 
 **Internet users**<br>
-_total_: 5.58 million (2021 est.)<br>
-_percent of population_: 55.14% (2020 est.)<br>
+_total_: 6.57 million (2022 est.)<br>
+_percent of population_: 55.1% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 931,918 (2020)<br>

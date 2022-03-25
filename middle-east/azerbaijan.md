@@ -619,8 +619,8 @@ _international_: country code - 994; the TAE fiber-optic link transits Azerbaija
 .az<br>
 
 **Internet users**<br>
-_total_: 8.26 million (2021 est.)<br>
-_percent of population_: 81.1% (2019 est.)<br>
+_total_: 8.32 million (2022 est.)<br>
+_percent of population_: 81.1% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,995,474 (2020)<br>
@@ -689,7 +689,7 @@ Land Forces (Combined Arms Army), Air Forces, Navy Forces; Ministry of Internal 
 information varies; approximately 65,000 total active troops (55,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Azerbaijan military is comprised mostly of Russian and Soviet-era weapons systems with a smaller mix of equipment from other countries; since 2010, Russia is the leading supplier of arms to Azerbaijan, followed by Israel and Turkey (2021)<br>
+the inventory of the Azerbaijan military is comprised mostly of Russian and Soviet-era weapons systems with a smaller mix of equipment from other countries; since 2010, Russia is the leading supplier of arms to Azerbaijan, followed by Israel (2021)<br>
 
 **Military service age and obligation**<br>
 men age 18-35 years for compulsory military service; service obligation 18 months (non-university graduate) or 12 months (university graduates); 17 years of age for voluntary service (men and women); 17-year-olds are considered to be on active service at cadet military schools (2021)<br>
@@ -701,13 +701,13 @@ since November 2020, Russia has deployed about 2,000 peacekeeping troops to the 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br>
+Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IRGC)/Quds Force<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Azerbaijan, Kazakhstan, and Russia ratified the Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea; the dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability; residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan; local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders; bilateral talks continue with Turkmenistan on dividing the seabed and contested oilfields in the middle of the Caspian</p><br>
+<p>Local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders.<br><br><em>Armenia-Azerbaijan:</em> The dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability. Residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan.<br><br><em>Azerbaijan-Georgia:</em> A joint boundary commission agrees on most of the alignment, leaving only small areas at certain crossing points in dispute.  Consequently, the two states have yet to agree on a delimitation or demarcation of their common boundary. One area of contention is where the international boundary should run through the 6th-13th Century David-Gareja monastery complex.<br><br><em>Azerbaijan-Iran:</em> None identified<br><br><em>Azerbaijan-Russia: </em>Russia complains of cross-border smuggling.<br><br><em>Azerbaijan-Turkey:</em> None identified<br><br><em>Caspian Sea (Maritime Boundary):</em> Azerbaijan, Kazakhstan, and Russia ratified the Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea. Bilateral talks continue with Turkmenistan on dividing the seabed and contested oilfields in the middle of the Caspian.</p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 735,000 (conflict with Armenia over Nagorno-Karabakh; IDPs are mainly ethnic Azerbaijanis but also include ethnic Kurds, Russians, and Turks predominantly from occupied territories around Nagorno-Karabakh; includes IDPs' descendants, returned IDPs, and people living in insecure areas and excludes people displaced by natural disasters; around half the IDPs live in the capital Baku) (2020)<br>

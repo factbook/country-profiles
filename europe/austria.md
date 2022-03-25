@@ -299,7 +299,7 @@ _name_: Vienna<br>
 _geographic coordinates_: 48 12 N, 16 22 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-_etymology_: the origin of the name is disputed but may derive from earlier settlements of the area; a Celtic town of Vedunia, established about 500 B.C., came under Roman dominance around 15 B.C. and became known as Vindobona; archeological remains of the latter survive at many sites in the center of Vienna<br>
+_etymology_: the origin of the name is disputed but may derive from early Celtic settlements of the area; a possible reconstructed Celtic name from several centuries B.C. is *Vedunia (meaning "forest stream"); under Roman settlement, beginning around 15 B.C., the name became Vindobona (likely from the Celtic "windo," meaning "white, fair, or bright" and "bona" meaning "base, fortification, or settlement" to give a connotation of "white settlement" or "white fort"); archeological remains of the latter survive at many sites in the center of Vienna<br>
 
 **Administrative divisions**<br>
 9 states (Bundeslaender, singular - Bundesland); Burgenland, Kaernten (Carinthia), Niederoesterreich (Lower Austria), Oberoesterreich (Upper Austria), Salzburg, Steiermark (Styria), Tirol (Tyrol), Vorarlberg, Wien (Vienna)<br>
@@ -338,8 +338,8 @@ _election results_: Alexander VAN DER BELLEN elected in second round; percent of
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: <br>Federal Council - last appointed - NA<br>National Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election<br>
-_election results_: <br>Federal Council - percent of vote by party - NA; seats by party - NA; composition (as of November 2021) - men 39, women 22, percent of women 36.1% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition (as of November 2021) - men 109, women 74, percent of women 40.4%; note - total Federal Assembly percent of women 39.3%<br>
+_elections_: <br>Federal Council - last appointed in 2021<br>National Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election<br>
+_election results_: <br>Federal Council - percent of vote by party - NA; seats by party - NA; composition (as of March 2022) - men 36, women 25, percent of women 41% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition (as of March 2022) - men 107, women 76, percent of women 41.5%; note - total Federal Assembly percent of women 41.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case)<br>
@@ -623,8 +623,8 @@ worldwide cable and satellite TV are available; the public incumbent ORF compete
 .at<br>
 
 **Internet users**<br>
-_total_: 8.03 million (2021 est.)<br>
-_percent of population_: 87.53% (2020 est.)<br>
+_total_: 8.42 million (2022 est.)<br>
+_percent of population_: 93% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2.606 million (2020)<br>
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p><em>Austria-Czechia:</em> None<br><br><em>Austria-Germany:</em> None<br><br><em>Austria-Hungary:</em> None<br><br><em>Austria-Italy:</em> None<br><br><em>Austria-Liechtenstein:</em> None<br><br><em>Austria-Slovenia:</em> None<br><br><em>Austria-Slovakia:</em> None<br><br><em>Austria-Switzerland:</em> None</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021)<br>

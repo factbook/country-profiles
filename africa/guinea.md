@@ -721,7 +721,7 @@ note - the National Gendarmerie is overseen by the Ministry of Defense, while th
 Guinean National Armed Forces are comprised of approximately 12,000 active personnel <br>(9,000 Army; 400 Navy; 800 Air Force; 300 BASP; 1,500 Gendarmerie) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Guinean military consists largely of ageing and outdated (mostly Soviet-era) equipment; since 2010, it has received small amounts of equipment from France, Russia, and South Africa (2021)<br>
+the inventory of the Guinean military consists largely of ageing and outdated (mostly Soviet-era) equipment; since 2010, it has received small amounts of equipment from China, France, Russia, and South Africa (2021)<br>
 
 **Military service age and obligation**<br>
 Voluntary and selective conscripted service, 9-24 mos (2021)<br>

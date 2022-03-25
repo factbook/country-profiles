@@ -173,5 +173,5 @@ defense is the responsibility of Australia; periodic visits by the Royal Austral
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Australia has closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing; Indonesian groups challenge Australia's claim to Ashmore Reef</p><br>
+<p><em>Australia-Indonesia:</em>  Australia has closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing; Indonesian groups challenge Australia's claim to Ashmore Reef</p><br>
 

@@ -695,7 +695,7 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>periodic skirmishes persist over water and grazing rights among related pastoral populations along the border with southern Sudan</p><br>
+<p><em>Central African Republic-South Sudan :</em> periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p> <p><em>Central African Republic-Sudan : </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,702 (Democratic Republic of Congo) (2022)<br>

@@ -637,7 +637,7 @@ note - when the Gendarmerie serves as the judicial police, it reports to the Min
 Comoran Defense Force has an estimated 600 personnel; est. 500 Comoran Federal Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the defense forces are lightly armed with a mix of equipment from a variety of countries, including France, Italy, Russia, and the US (2021)<br>
+the defense forces are lightly armed with a mix of mostly older equipment from a variety of countries, including France, Italy, Russia, and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for 2-year voluntary male and female military service; no conscription (2021)<br>

@@ -315,7 +315,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the governor general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (31 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: <br>Senate -  last appointed 11 November 2020 (next appointments in November 2025)<br>House of Representatives - last held on 11 November 2020 (next to be held in November 2025)<br>
-_election results_: Senate - all members appointed; composition - men 9, women 5, percent of women 35.7%<br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition -  men 27, women 4, percent of women 12.9%; note - total percent of women in the National Assembly 20%<br>
+_election results_: Senate - all members appointed; composition as of March 2022 - men 9, women 5, percent of women 35.7%<br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition as of March 2022 -  men 27, women 4, percent of women 12.9%; note - total percent of women in the National Assembly 20%<br>
 <strong> </strong><br>
 
 **Judicial branch**<br>
@@ -597,8 +597,8 @@ _international_: country code - 501; landing points for the&nbsp;ARCOS and SEUL&
 .bz<br>
 
 **Internet users**<br>
-_total_: 188,900 (2021 est.)<br>
-_percent of population_: 47.08% (2019 est.)<br>
+_total_: 192,400 (2022 est.)<br>
+_percent of population_: 47.1% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 29,600 (2019)<br>

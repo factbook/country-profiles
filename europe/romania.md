@@ -694,11 +694,11 @@ _river port(s)_: Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube R
 Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Internal Affairs: Romanian Gendarmerie (2021)<br>
 
 **Military expenditures**<br>
-2.02% of GDP (2021 est.)<br>
-2.07% of GDP (2020)<br>
-1.84% of GDP (2019)<br>
-1.81% of GDP (2018)<br>
-1.72% of GDP (2017)<br>
+2% of GDP (2021 est.)<br>
+2.1% of GDP (2020)<br>
+1.8% of GDP (2019)<br>
+1.8% of GDP (2018)<br>
+1.7% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Romanian Armed Forces have approximately 67,000 active duty personnel (50,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2021)<br>
@@ -727,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 453,452 (Ukraine) (2022)<br>
+_refugees (country of origin)_: 555,021 (Ukraine) (2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 9,519 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 

@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The landlocked Principality of Andorra is one of the smallest states in Europe, nestled high in the Pyrenees between the French and Spanish borders. For 715 years, from 1278 to 1993, Andorrans lived under a unique coprincipality, ruled by French and Spanish leaders (from 1607 onward, the French chief of state and the Bishop of Urgell). In 1993, this feudal system was modified with the introduction of a modern constitution; the co-princes remained as titular heads of state, but the government transformed into a parliamentary democracy.</p> <p>Andorra has become a popular tourist destination visited by approximately 8 million people each year drawn by the winter sports, summer climate, and duty-free shopping. Andorra has also become a wealthy international commercial center because of its mature banking sector and low taxes. As part of its effort to modernize its economy, Andorra has opened to foreign investment, and engaged in other reforms, such as advancing tax initiatives aimed at supporting a broader infrastructure. Although not a member of the EU, Andorra enjoys a special relationship with the bloc that is governed by various customs and cooperation agreements and uses the euro as its national currency.</p><br>
+<p>The Moorish invasion of Spain in the 8th century and subsequent incursions into France were finally stemmed at the Pyrenees by Frankish King Charlemagne, who in 795 created the Hispanic March, a series of buffer states to keep the Muslim Moors from advancing into Christian France. The landlocked Principality of Andorra, one of the smallest states in Europe and nestled high in the Pyrenees between the French and Spanish borders, is the last independent survivor of these March states. For 715 years, from 1278 to 1993, Andorrans lived under a unique coprincipality, ruled by French and Spanish leaders (from 1607 onward, the French chief of state and the Bishop of Urgell). In 1993, this feudal system was modified with the introduction of a modern constitution; the co-princes remained as titular heads of state, but the government transformed into a parliamentary democracy.</p> <p>Andorra has become a popular tourist destination visited by approximately 8 million people each year drawn by the winter sports, summer climate, and duty-free shopping. Andorra has also become a wealthy international commercial center because of its mature banking sector and low taxes. As part of its effort to modernize its economy, Andorra has opened to foreign investment, and engaged in other reforms, such as advancing tax initiatives aimed at supporting a broader infrastructure. Although not a member of the EU, Andorra enjoys a special relationship with the bloc that is governed by various customs and cooperation agreements and uses the euro as its national currency.</p><br>
 
 ## Geography
 
@@ -251,7 +251,7 @@ _conventional long form_: Principality of Andorra<br>
 _conventional short form_: Andorra<br>
 _local long form_: Principat d'Andorra<br>
 _local short form_: Andorra<br>
-_etymology_: the origin of the country's name is obscure; the name may derive from the Arabic "ad-darra" meaning "the forest," a reference to its location as part of the Spanish March (defensive buffer zone) against the invading Moors in the 8th century<br>
+_etymology_: the origin of the country's name is obscure; the name may derive from the Arabic "ad-darra" meaning "the forest," a reference to its location as part of the Spanish March (defensive buffer zone) against the invading Moors in the 8th century; an alternate explanation is that the name originates from a Navarrese word "andurrial" meaning "shrub-covered land"<br>
 
 **Government type**<br>
 parliamentary democracy (since March 1993) that retains its chiefs of state in the form of a co-principality; the two princes are the President of France and Bishop of Seu d'Urgell, Spain<br>
@@ -536,8 +536,8 @@ _international_: country code - 376; landline circuits to France and Spain; mode
 .ad<br>
 
 **Internet users**<br>
-_total_: 70,800 (2021 est.)<br>
-_percent of population_: 91.57% (2019 est.)<br>
+_total_: 70,900 (2022 est.)<br>
+_percent of population_: 91.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 36,358 (2019)<br>
@@ -562,5 +562,5 @@ defense is the responsibility of France and Spain<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p><em>Andorra-France:</em> None<br><br><em>Andorra-Spain:</em> None</p><br>
 

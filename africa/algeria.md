@@ -616,8 +616,8 @@ state-run Radio-Television Algerienne operates the broadcast media and carries p
 .dz<br>
 
 **Internet users**<br>
-_total_: 26.35 million (2021 est.)<br>
-_percent of population_: 36% (2019 est.)<br>
+_total_: 27.28 million (2022 est.)<br>
+_percent of population_: 60.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,790,459 (2020)<br>
@@ -692,7 +692,7 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes coast
 approximately 140,000 ANP personnel (120,000 Army; 6,000 Navy; 14,000 Air Force); approximately 130,000 National Gendarmerie; approximately 200,000 General Directorate of National Security (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ANP's inventory includes mostly Russian-sourced equipment; since 2010, China, Germany, and Russia are the leading suppliers of armaments to Algeria (2021)<br>
+the ANP's inventory includes mostly Russian-sourced equipment; since 2010, Algeria has received arms from more than 15 countries, with Russia as the leading supplier (2021)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service (including women); 19-30 years of age for compulsory service (all Algerian men must register at age 17); conscript service obligation reduced from 18 to 12 months in 2014 (2021)<br>
@@ -710,7 +710,7 @@ al-Qa'ida in the Islamic Maghreb (AQIM); Islamic State of Iraq and ash-Sham (ISI
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Algeria and many other states reject Moroccan administration of Western Sahara; the Polisario Front, exiled in Algeria, represents the "Sahrawi Arab Democratic Republic" which Algeria recognizes; the Algerian-Moroccan land border remains closed; dormant disputes include Libyan claims of about 32,000 sq km of southeastern Algeria and the National Liberation Front's (FLN) assertions of a claim to Chirac Pastures in southeastern Morocco.</p> <p> </p><br>
+<p><em>Algeria-Morocco:</em> the Algerian-Moroccan land border remains closed; Algeria's border with Morocco remains an irritant to bilateral relations, each nation accusing the other of harboring militants and arms smuggling; the National Liberation Front's (FLN) assertions of a claim to Chirac Pastures in southeastern Morocco remain a dormant dispute<br><br><em>Algeria-Libya:</em> dormant dispute includes Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf) (2018); 6,750 (Syria) (mid-year 2021)<br>

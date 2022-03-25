@@ -315,9 +315,9 @@ _elections/appointments_: the president is elected by an electoral college of bo
 _election results_: Sandra MASON elected as first president on 20 October 2021 to take office on 30 November 2021<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (21 seats; members appointed by the president - 12 on the advice of the Prime Minister, 2 on the advice of the opposition leader, and 7 at the discretion of the president) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate - last appointments on 5 June 2018 (next appointments NA)<br>House of Assembly - last held on 19 January 2022 (next to be held in 2027)<br>
-_election results_: <br>Senate - appointed; composition - men 16, women 5, percent of women 23.8% <br>House of Assembly - percent of vote by party - BLP 69%, DLP 26.5%, other 4.5%; seats by party - BLP 30; composition - men 24, women 6, percent of women 20%; note - total Parliament percent of women 21.6%<br>
+_description_: bicameral Parliament consists of:<br>Senate (21 seats - 18 for current term; members appointed by the president - 12 on the advice of the prime minister, 2 on the advice of the opposition leader, and 7 at the discretion of the president) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: <br>Senate - last appointments on 4 February 2022 (next appointments in February 2027)<br>House of Assembly - last held on 19 January 2022 (next to be held in January 2027)<br>
+_election results_: <br>Senate - appointed; composition as of March 2022- men 10, women 8, percent of women 44.4% <br>House of Assembly - percent of vote by party - BLP 69%, DLP 26.5%, other 4.5%; seats by party - BLP 30; composition as of March 2022 - men 22, women 8, percent of women 26.7%; note - total Parliament percent of women 33.3%<br>
 <strong>note:</strong> tradition dictates that the election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period<br>
 
 **Judicial branch**<br>
@@ -593,8 +593,8 @@ government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terr
 .bb<br>
 
 **Internet users**<br>
-_total_: 235,100 (2021 est.)<br>
-_percent of population_: 81.76% (2019 est.)<br>
+_total_: 235,400 (2022 est.)<br>
+_percent of population_: 81.8% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 106,803 (2019)<br>

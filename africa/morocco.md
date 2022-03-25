@@ -747,7 +747,7 @@ note(s) - the National Police manages internal law enforcement in cities; the Ro
 approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); est. 25,000 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Moroccan military's inventory is comprised of mostly older French and US equipment; since 2010, France and the US are the leading suppliers of weapons to Morocco (2021)<br>
+the Moroccan military's inventory is comprised of mostly older French and US equipment; since 2010, it has received equipment from about a dozen countries with France and the US as the leading suppliers (2021)<br>
 
 **Military service age and obligation**<br>
 19-25 years of age for 12-month compulsory military service (reintroduced in 2019); both sexes are obligated to military service (2021)<br>

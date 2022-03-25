@@ -84,7 +84,7 @@ _noun_: Filipino(s)<br>
 _adjective_: Philippine<br>
 
 **Ethnic groups**<br>
-Tagalog 24.4%, Bisaya/Binisaya 11.4%, Cebuano 9.9%, Ilocano 8.8%, Hiligaynon/Ilonggo 8.4%, Bikol/Bicol 6.8%, Waray 4%, other local ethnicity 26.1%, other foreign ethnicity .1% (2010 est.)<br>
+Tagalog 24.4%, Bisaya/Binisaya 11.4%, Cebuano 9.9%, Ilocano 8.8%, Hiligaynon/Ilonggo 8.4%, Bikol/Bicol 6.8%, Waray 4%, other local ethnicity 26.1%, other foreign ethnicity 0.1% (2010 est.)<br>
 
 **Languages**<br>
 unspecified Filipino (official; based on Tagalog) and English (official); eight major dialects - Tagalog, Cebuano, Ilocano, Hiligaynon or Ilonggo, Bicol, Waray, Pampango, and Pangasinan<br>
@@ -715,7 +715,7 @@ note(s) - the Philippine Coast Guard is an armed and uniformed service under the
 the Armed Forces of the Philippines (AFP) have approximately 120,000 active duty personnel (80,000 Army; 25,000 Navy, including about 9,000 marines; 15,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the AFP is equipped with a mix of imported weapons systems, particularly second-hand equipment from the US; since 2014, its top weapons suppliers include Israel, South Korea, and the US (2021)<br>
+the AFP is equipped with a mix of imported weapons systems, particularly second-hand equipment from the US; since 2014, its top weapons suppliers include South Korea and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18-23 years of age (officers 21-29; 21-26 for women officers) for voluntary military service (men and women); no conscription (2021)<br>

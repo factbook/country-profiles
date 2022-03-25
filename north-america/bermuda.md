@@ -283,7 +283,7 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) and the House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>
 _elections_: <br>Senate - last appointments in August 2017 (next appointments in 2022)<br>House of Assembly - last held on 1 October 2020 (next to be held not later than 2025)<br>
-_election results_: Senate - composition - men 7, women 4, percent of women 36.4%<br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition - NA<br>
+_election results_: Senate - composition as of March 2022 - men 5, women 6, percent of women 54.5%<br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition as of March 2022 - men 28, women 8, percent of women 22.2%; note - total Parliament percent of women as of March 2022 - 29.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president and at least 2 justices); Supreme Court (consists of the chief justice, 4 puisne judges, and 1 associate justice); note - the Judicial Committee of the Privy Council (in London) is the court of final appeal<br>
@@ -549,8 +549,8 @@ _international_: country code - 1-441; landing points for the GlobeNet, Gemini B
 .bm<br>
 
 **Internet users**<br>
-_total_: 61,200 (2021 est.)<br>
-_percent of population_: 98.37% (2019 est.)<br>
+_total_: 61,000 (2022 est.)<br>
+_percent of population_: 98.4% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 21,883 (2018)<br>

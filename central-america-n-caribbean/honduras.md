@@ -701,7 +701,7 @@ note - the PMOP was created in 2013 as part of an effort by the Honduran Governm
 the Honduran Armed Forces (FFAA) have approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Public Order Military Police); approximately 18,000 National Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; since 2010, Honduras has received limited amounts of military equipment from several countries, including Colombia, Israel, Netherlands, Taiwan, and the US (2021)<br>
+the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; since 2010, Honduras has received limited amounts of military equipment from several countries, including Colombia, Israel, and the Netherlands (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary 2- to 3-year military service (men and women); no conscription (2021)<br>

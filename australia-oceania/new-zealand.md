@@ -686,7 +686,7 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 the New Zealand Defense Force (NZDF) has about 9,600 active duty troops (4,700 Army; 2,300 Navy; 2,600 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-NZDF is equipped mostly with imported weapons and equipment from Western suppliers; Australia, France, and the US are the leading suppliers since 2010 (2021)<br>
+NZDF is equipped mostly with imported weapons and equipment from Western suppliers; the US is the leading provider since 2010 (2021)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service (men and women); soldiers cannot be deployed until the age of 18; no conscription (2021)<br>

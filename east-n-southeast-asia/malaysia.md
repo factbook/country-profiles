@@ -361,7 +361,7 @@ _email address and website_: <br>mwwashington@kln.gov.my<br><br>https://www.kln.
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Brian D. McFeeters (since 26 February 2021)<br>
+_chief of mission_: Ambassador Brian D. McFEETERS (since 26 February 2021)<br>
 _embassy_: 376 Jalan Tun Razak, 50400 Kuala Lumpur<br>
 _mailing address_: 4210 Kuala Lumpur, Washington DC&nbsp; 20521-4210<br>
 _telephone_: [60] (3) 2168-5000<br>
@@ -437,7 +437,7 @@ _imports of goods and services_: -64.4% (2017 est.)<br>
 oil palm fruit, rice, poultry, eggs, vegetables, rubber, coconuts, bananas, pineapples, pork<br>
 
 **Industries**<br>
-Peninsular Malaysia - rubber and oil palm processing and manufacturing, petroleum and natural gas, light manufacturing, pharmaceuticals, medical technology, electronics and semiconductors, timber processing;Sabah - logging, petroleum and natural gas production;Sarawak - agriculture processing, petroleum and natural gas production, logging<br>
+Peninsular Malaysia - rubber and oil palm processing and manufacturing, petroleum and natural gas, light manufacturing, pharmaceuticals, medical technology, electronics and semiconductors, timber processing; Sabah - logging, petroleum and natural gas production;Sarawak - agriculture processing, petroleum and natural gas production, logging<br>
 
 **Industrial production growth rate**<br>
 5% (2017 est.)<br>
@@ -704,7 +704,7 @@ note - Malaysia created a National Special Operations Force in 2016 for combatin
 the Malaysian Armed Forces have approximately 115,000 active duty troops (80,000 Army; 18,000 Navy; 17,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Malaysian Armed Forces field a diverse mix of mostly older imported weapons systems; the top suppliers of military hardware since 2010 include France, Germany, Spain, and Turkey (2021)<br>
+the Malaysian Armed Forces field a diverse mix of mostly older imported weapons systems; since 2010, it has imported military equipment from approximately 20 countries, with Germany and Spain as the leading suppliers (2021)<br>
 
 **Military service age and obligation**<br>
 17 years 6 months of age for voluntary military service (younger with parental consent and proof of age); mandatory retirement age 60; women serve in the Malaysian Armed Forces; no conscription (2021)<br>

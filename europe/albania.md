@@ -622,8 +622,8 @@ Albania has more than 65 TV stations, including several that broadcast nationall
 .al<br>
 
 **Internet users**<br>
-_total_: 2 million (2021 est.)<br>
-_percent of population_: 72.24% (2020 est.)<br>
+_total_: 2.07 million (2022 est.)<br>
+_percent of population_: 72.2% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 508,937 (2020)<br>
@@ -673,11 +673,11 @@ _major seaport(s)_: Durres, Sarande, Shengjin, Vlore<br>
 Republic of Albania Armed Forces (Forcat e Armatosura t&euml; Republik&euml;s s&euml; Shqip&euml;ris&euml; (FARSH)): Land Forces, Navy Forces (includes Coast Guard), Air Forces (2021)<br>
 
 **Military expenditures**<br>
-1.44% of GDP (2021)<br>
+1.4% of GDP (2021)<br>
 1.3% of GDP (2020)<br>
-1.31% of GDP (2019)<br>
-1.16% of GDP (2018)<br>
-1.11% of GDP (2017)<br>
+0.31% of GDP (2019)<br>
+1.2% of GDP (2018)<br>
+1.1% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 8,000 total active duty personnel (6,000 Army; 1,500 Navy; 500 Air Force) (2021)<br>

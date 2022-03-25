@@ -340,7 +340,7 @@ _election results_: Alyaksandr LUKASHENKA reelected president; percent of vote -
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Natsyyalny Skhod consists of:<br>Council of the Republic or Savet Respubliki (64 seats; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br>House of Representatives or Palata Pradstawnikow (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)<br>
 _elections_: <br>Council of the Republic - indirect election last held on 7 November 2019<br>House of Representatives - last held on 17 November 2019 (next to be held in 2023); OSCE observers determined that the election was neither free nor impartial and that vote counting was problematic in a number of polling stations; pro-LUKASHENKA candidates won every seat; international observers determined that the previous elections, on 28 September 2008, 23 September 2012, and 11 September 2016 also fell short of democratic standards, with pro-LUKASHENKA candidates winning every, or virtually every, seat<br>
-_election results_: <br>Council of the Republic - percent of vote by party - NA; seats by party - NA; composition -NA<br>House of Representatives - percent of vote by party - NA; seats by party - KPB 11, Republican Party of Labor and Justice 6, Belarusian Patriotic Party 2, LDP 1, AP 1, independent 89; composition - men 66, women 44, percent of women 40%<br>
+_election results_: <br>Council of the Republic - percent of vote by party - NA; seats by party - NA; composition - NA<br>House of Representatives - percent of vote by party - NA; seats by party - KPB 11, Republican Party of Labor and Justice 6, Belarusian Patriotic Party 2, LDP 1, AP 1, independent 89; composition - men 66, women 44, percent of women 40%<br>
 <strong>note:</strong> the US does not recognize the legitimacy of the National Assembly<br>
 
 **Judicial branch**<br>
@@ -623,8 +623,8 @@ _international_: country code - 375; Belarus is landlocked and therefore a membe
 .by<br>
 
 **Internet users**<br>
-_total_: 7.82 million (2021 est.)<br>
-_percent of population_: 85.09% (2020 est.)<br>
+_total_: 8.03 million (2022 est.)<br>
+_percent of population_: 85.1% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,255,552 (2020)<br>
@@ -699,7 +699,7 @@ Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force,
 approximately 45,000 active duty troops; information on the individual services varies, but probably includes about 25,000 Army, 15,000 Air/Air Defense, and 5,000 Special Operations forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Belarus Armed Forces is comprised of Russian/Soviet-origin equipment; Belarus's defense industry manufactures some equipment, including vehicles, guided weapons, and electronic warfare systems (2021)<br>
+the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-origin equipment, and since 2010 Russia is the leading provider of arms; Belarus's defense industry manufactures some equipment, including vehicles, guided weapons, and electronic warfare systems (2021)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service, depending on academic qualifications; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2021)<br>

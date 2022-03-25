@@ -670,7 +670,7 @@ not available<br>
 estimates not available<br>
 
 **Military equipment inventories and acquisitions**<br>
-both the forces aligned with the GNU and the LNA are largely equipped with weapons of Russian or Soviet origin; as of 2021, Turkey was providing arms and equipment to the forces supporting the GNU, while Russia was the main supporter of the LNA (2021)<br>
+both the forces aligned with the GNU and the LNA are largely equipped with weapons of Russian or Soviet origin; as of 2021, Turkey was the top provider of arms and equipment to the forces supporting the GNU, while the United Arab Emirates was the main supporter of the LNA (2021)<br>
 
 **Military service age and obligation**<br>
 not available<br>
@@ -687,7 +687,7 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham – Libya; al-Mulatha
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria and the FLN's assertions of a claim to Chirac Pastures in southeastern Morocco; various Chadian rebels from the Aozou region reside in southern Libya</p><br>
+<p><em>Libya-Algeria:</em> dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 17,604 (Sudan) (refugees and asylum seekers), 14,331 (Syria) (refugees and asylum seekers) (2022)<br>

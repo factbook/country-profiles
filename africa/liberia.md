@@ -690,7 +690,7 @@ note - as of 2020, women made up about .4% of the active military<br>
 <p>as the UN Mission in Liberia (UNMIL) continues to drawdown prior to the 1 March 2018 closure date, the peacekeeping force is being reduced to 434 soldiers and two police units; some Liberian refugees still remain in Guinea, Cote d'Ivoire, Sierra Leone, and Ghana; Liberia shelters 8,804 Ivoirian refugees, as of 2019</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,763 (Cote d'Ivoire) (2022)<br>
+_refugees (country of origin)_: 7,811 (Cote d'Ivoire) (2022)<br>
 
 **Illicit drugs**<br>
 <p>not a significant transit country for illicit narcotics but proximity to major drug routes contribute to trafficking; not a significant producer of illicit narcotics; local drug use involves marijuana, heroin, cocaine, the synthetic opioid tramadol, and amphetamine-type stimulants</p><br>

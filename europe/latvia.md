@@ -683,17 +683,17 @@ _major seaport(s)_: Riga, Ventspils<br>
 National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (2021)<br>
 
 **Military expenditures**<br>
-2.27% of GDP (2021 est.)<br>
-2.27% of GDP (2020)<br>
-2.03% of GDP (2019)<br>
-2.06% of GDP (2018)<br>
-1.59% of GDP (2017)<br>
+2.3% of GDP (2021 est.)<br>
+2.3% of GDP (2020)<br>
+2% of GDP (2019)<br>
+2.1% of GDP (2018)<br>
+1.6% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the National Armed Forces of Latvia have approximately 6,500 active duty troops (5,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly second-hand--European and US equipment; since 2010, it has received limited amounts of equipment from several European countries, as well as the US (2021)<br>
+the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly second-hand--European and US equipment; since 2010, it has received limited amounts of equipment from several European countries, Israel, and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary male and female military service; no conscription (abolished 2007) (2021)<br>

@@ -634,8 +634,8 @@ the Australian Broadcasting Corporation (ABC) runs multiple national and local r
 .au<br>
 
 **Internet users**<br>
-_total_: 22.82 million (2021 est.)<br>
-_percent of population_: 86.55% (2019 est.)<br>
+_total_: 23.6 million (2022 est.)<br>
+_percent of population_: 91% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 8,937,550 (2020)<br>
@@ -715,7 +715,7 @@ Australian Defense Force (ADF): Australian Army (includes Special Operations Com
 the Australian Defense Force has approximately 59,000 total active troops (29,000 Army; 15,000 Navy; 15,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Australian military's inventory includes a mix of domestically-produced and imported Western (mostly US-origin, particularly aircraft) weapons systems; since 2015, the US is the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2021)<br>
+the Australian military's inventory includes a mix of domestically-produced and imported Western weapons systems; since 2015, the US is the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2021)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service (with parental consent); no conscription (abolished 1973); women allowed to serve in all roles, including combat arms since 2013 (2021)<br>
@@ -736,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary; Australia asserts land and maritime claims to Antarctica; Australia's 2004 submission to the Commission on the Limits of the Continental Shelf extends its continental margins over 3.37 million square kilometers, expanding its seabed roughly 30 percent beyond its claimed EEZ; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing</p><br>
+<p><em>Australia-Indonesia (Maritime Boundary):</em> All borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature. Indonesian groups challenge Australia's claim to Ashmore Reef. Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing.<em><br><br>Australia-Timor-Leste (Maritime Boundary):</em> In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary.</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,701 (Iran), 10,108 (Afghanistan), 5,400 (Pakistan) (mid-year 2021)<br>

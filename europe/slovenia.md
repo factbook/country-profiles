@@ -674,17 +674,17 @@ _major seaport(s)_: Koper<br>
 Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force with air, land, maritime, special operations, combat support, and combat service support elements (2021)<br>
 
 **Military expenditures**<br>
-1.1% of GDP (2020 est.)<br>
-1.06% of GDP (2019)<br>
-1.01% of GDP (2018)<br>
-0.98% of GDP (2017)<br>
-1% of GDP (2016)<br>
+1.3% of GDP (2021 est.)<br>
+1.1% of GDP (2020)<br>
+1.1% of GDP (2019)<br>
+1% of GDP (2018)<br>
+1% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Slovenian Armed Forces have approximately 7,000 active duty troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Slovenian Armed Forces is a mix of Soviet-era and smaller quantities of more modern Western equipment; since 2010, it has received limited amounts of military equipment from Finland, France, Norway, Russia, Sweden, and the US (2021)<br>
+the inventory of the Slovenian Armed Forces is a mix of Soviet-era and smaller quantities of more modern Russian and Western equipment; since 2010, it has received limited amounts of military equipment from several countries led by France and Russia (2021)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service (men and women); conscription abolished in 2003 (2021)<br>

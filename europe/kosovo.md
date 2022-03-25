@@ -600,10 +600,10 @@ Kosovo Security Force (KSF): Land Force Command; Logistics Command; Doctrine and
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
-1.1% of GDP (2020)<br>
-0.8% of GDP (2019)<br>
-0.8% of GDP (2018)<br>
-0.7% of GDP (2017)<br>
+1.1% of GDP (2020 est.)<br>
+0.8% of GDP (2019 est.)<br>
+0.8% of GDP (2018 est.)<br>
+0.7% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Kosovo Security Force (KSF) has approximately 3,500 personnel; note - Kosovo plans for the KSF to eventually number around 5,000 troops (2021)<br>

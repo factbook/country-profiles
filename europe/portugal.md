@@ -682,11 +682,11 @@ Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy 
 note - the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Minister of Internal Administration and to the Minister of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces<br>
 
 **Military expenditures**<br>
-1.54% of GDP (2021 est.)<br>
-1.43% of GDP (2020)<br>
-1.38% of GDP (2019)<br>
-1.34% of GDP (2018)<br>
-1.24% of GDP (2017)<br>
+1.5% of GDP (2021 est.)<br>
+1.4% of GDP (2020)<br>
+1.4% of GDP (2019)<br>
+1.3% of GDP (2018)<br>
+1.2% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Portuguese Armed Forces have approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, inc about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2021)<br>

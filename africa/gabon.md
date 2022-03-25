@@ -692,7 +692,7 @@ Gabonese Defense Forces (Forces de Defense Gabonaise): Land Forces (Army), Navy,
 approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FDG is lightly armed with an inventory comprised mostly of Brazilian, French, and South African equipment (2021)<br>
+the FDG is lightly armed with a mixed inventory from a variety of suppliers; since 2010, providers have included Brazil, China, France, Germany, and South Africa (2021)<br>
 
 **Military service age and obligation**<br>
 20 years of age for voluntary military service; no conscription (2021)<br>

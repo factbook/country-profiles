@@ -719,7 +719,7 @@ the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a small
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>the location of the boundary in the broad Congo River with the Democratic Republic of the Congo is undefined except in the Pool Malebo/Stanley Pool area</p><br>
+<p><em>Republic of the Congo-Democratic Republic of Congo(DROC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 28,940 (Central African Republic), 23,746 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>

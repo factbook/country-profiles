@@ -684,7 +684,7 @@ note - the National Guard, also under the Ministry of Defense, ensures public or
 information varies; approximately 60,000 total active troops, including 10-15,000 Air Force (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Uzbek Armed Forces use mainly Soviet-era equipment, although since 2010 they have received weapons and aircraft from a variety of sources, including China, France, Russia, Spain, Turkey, and the US (2021)<br>
+the Uzbek Armed Forces use mainly Soviet-era equipment; since 2010, Russia has been the leading supplier of arms, followed by China (2021)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military service; 1-year conscript service obligation for males (conscripts have the option of paying for a shorter service of one month while remaining in the reserves until the age of 27); Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions (2021)<br>

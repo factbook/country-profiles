@@ -670,7 +670,7 @@ note(s) - the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercis
 the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard; note – Army figures include the Kuwait Emiri Guard Authority (estimated 500 personnel) and the 25th Commando Brigade (strength not available) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Kuwaiti Armed Forces consists of a range of European- and US-sourced weapons systems; the US is the leading supplier of arms to Kuwait since 2010 (2021)<br>
+the inventory of the Kuwaiti Armed Forces consists of weapons from a wide variety of sources, including Western Europe, Russia, the United Arab Emirates, and the US; the US is the leading supplier of arms to Kuwait since 2010 (2021)<br>
 
 **Military service age and obligation**<br>
 17-21 years of age for voluntary military service; Kuwait reintroduced one-year mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; service is divided in two phases – four months for training and eight months for military service; women were allowed to volunteer in 2021 (2021)<br><br> <br>

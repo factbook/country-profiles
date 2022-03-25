@@ -340,7 +340,7 @@ _election results_: <em>2021</em>: Rumen RADEV reelected president in second rou
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 14 November 2021 (next election to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - PP 25.3%, GERB-SDS 22.4%, DPS 12.8%, BSP for Bulgaria 10.1%, ITN 9.4%, DB 6.3%, Revival 4.8%, other 8.9%; seats by party/coalition - PP 67, GERB-SDS 59, DPS 34, BSP for Bulgaria 26, ITN 25, DB 16, Revival 13<br>
+_election results_: percent of vote by party/coalition - PP 25.3%, GERB-SDS 22.4%, DPS 12.8%, BSP for Bulgaria 10.1%, ITN 9.4%, DB 6.3%, Revival 4.8%, other 8.9%; seats by party/coalition - PP 67, GERB-SDS 59, DPS 34, BSP for Bulgaria 26, ITN 25, DB 16, Revival 13; composition as of March 2022 - men 186, women 54, percent of women 22.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary<br>
@@ -625,8 +625,8 @@ _international_: country code - 359; Caucasus Cable System via submarine cable p
 .bg<br>
 
 **Internet users**<br>
-_total_: 4.91 million (2021 est.)<br>
-_percent of population_: 70.16% (2020 est.)<br>
+_total_: 5.36 million (2022 est.)<br>
+_percent of population_: 78% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,131,606 (2020)<br>
@@ -691,17 +691,17 @@ _major seaport(s)_: Burgas, Varna (Black Sea)<br>
 Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (Voennovazdushni Sili, VVS), Joint Special Forces; Ministry of Interior: Border Guards (2021)<br>
 
 **Military expenditures**<br>
-1.56% of GDP (2021 est.)<br>
-1.55% of GDP (2020)<br>
-3.15% of GDP (2019)<br>
-1.45% of GDP (2018)<br>
-1.23% of GDP (2017)<br>
+1.6% of GDP (2021 est.)<br>
+1.6% of GDP (2020)<br>
+3.1% of GDP (2019)<br>
+1.5% of GDP (2018)<br>
+1.2% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 30,000 active duty personnel (16,000 Army; 4,000 Navy; 7,000 Air Force; 3,000 other, joint staff, support) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from Western countries, including France, Italy, Norway, and the US (2021)<br>
+the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from Western countries, including France, the Netherlands, and Italy (2021)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2021)<br>

@@ -713,7 +713,7 @@ note - the National Police operates in major cities, while the Gendarmerie prima
 approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAS inventory includes mostly older or second-hand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program; since 2010, it has received newer equipment from nearly 15 countries, with China, France, and Israel as the leading suppliers (2021)<br>
+the FAS inventory includes mostly older or second-hand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program; since 2010, it has received newer equipment from nearly 15 countries, with France as the leading supplier (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (men and women); 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2021)<br>

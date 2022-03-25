@@ -706,11 +706,11 @@ Turkish Armed Forces (TSK): Turkish Land Forces (Turk Kara Kuvvetleri), Turkish 
 note(s) - the Gendarmerie is responsible for the maintenance of the public order in areas that fall outside the jurisdiction of police forces (generally in rural areas); in wartime, the Gendarmerie and Coast Guard would be placed under the operational control of the Land Forces and Naval Forces, respectively<br>
 
 **Military expenditures**<br>
-1.57% of GDP (2021 est.)<br>
-1.86% of GDP (2020)<br>
-1.85% of GDP (2019)<br>
-1.82% of GDP (2018)<br>
-1.51% of GDP (2017)<br>
+1.6% of GDP (2021 est.)<br>
+1.9% of GDP (2020)<br>
+1.9% of GDP (2019)<br>
+1.8% of GDP (2018)<br>
+1.5% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 400,000 active duty personnel (300,000 Army; 50,000 Navy; 50,000 Air Force); approximately 150,000 Gendarmerie (2021)<br>

@@ -674,17 +674,17 @@ _river port(s)_: Bratislava, Komarno (Danube)<br>
 Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land Forces (Slovenské Pozemné Sily), Air Forces (Slovenské Vzdušné Sily), Special Operations Forces (Sily Pre Speciálne Operácie) (2021)<br>
 
 **Military expenditures**<br>
-1.73% of GDP (2021 est.)<br>
-2% of GDP (2020 est.)<br>
-1.71% of GDP (2019)<br>
-1.23% of GDP (2018)<br>
-1.11% of GDP (2017)<br>
+1.7% of GDP (2021 est.)<br>
+2% of GDP (2020)<br>
+1.7% of GDP (2019)<br>
+1.2% of GDP (2018)<br>
+1.1% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of the Slovak Republic have approximately 13,000 active duty personnel (6,000 Land Forces; 4,000 Air Forces; 3,000 other, including staff, special operations, and support forces) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Slovakian military consists mostly of Soviet-era platforms; since 2010, it has imported limited quantities of equipment from China, Czechia, Italy, Russia, and the US (2021)<br>
+the inventory of the Slovakian military consists mostly of Soviet-era platforms; since 2010, it has imported limited quantities of equipment, particularly from Italy and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service; conscription in peacetime suspended in 2004; women are eligible to serve (2021)<br>
@@ -702,7 +702,7 @@ Slovakia officially became a member of NATO in 2004<br>
 <p>bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 213,000 (Ukraine) (2022)<br>
+_refugees (country of origin)_: 256,838 (Ukraine) (2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

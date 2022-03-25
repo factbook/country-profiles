@@ -584,8 +584,8 @@ state-controlled Radio Television Brunei (RTB) operates 5 channels; 3 Malaysian 
 .bn<br>
 
 **Internet users**<br>
-_total_: 417,500 (2021 est.)<br>
-_percent of population_: 95% (2019 est.)<br>
+_total_: 421,300 (2022 est.)<br>
+_percent of population_: 95% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 71,078 (2020)<br>
@@ -648,7 +648,7 @@ Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Bru
 approximately 6,500 total active troops (4,500 Army; 1,000 Navy; 1,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Royal Brunei Armed Forces imports nearly all of its military equipment and weapons systems; suppliers since 2010 include France, Germany, Singapore, Sweden, and the US (2021)<br>
+the Royal Brunei Armed Forces imports nearly all of its military equipment and weapons systems; suppliers since 2010 include the US and several European countries with Germany as the leading provider (2021)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service; non-Malays are ineligible to serve; recruits from the army, navy, and air force all undergo 43-week initial training (2021)<br>

@@ -265,7 +265,7 @@ _election results_: Lemanu Peleti MAUGA elected governor in first round; percent
 **Legislative branch**<br>
 _description_: bicameral Legislature or Fono consists of:<br>Senate (18 seats; members indirectly selected by regional governing councils to serve 4-year terms)<br>House of Representatives (21 seats; 20 members directly elected by simple majority vote and 1 decided by public meeting on Swains Island; members serve 2-year terms)<br>
 _elections_: <br>Senate - last held on 3 November 2020 (next to be held in November 2024)<br>House of Representatives - last held on 3 November 2020 (next to be held in November 2024)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - independent 18; composition - men 17, women 1; percent of women 5.6%<br>House of Representatives - percent of vote by party - NA; seats by party - NA; composition - NA<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - independent 18; composition - men 17, women 1; percent of women 5.6%<br>House of Representatives - percent of vote by party - NA; seats by party - NA; composition - men 20, women 1; percent of women 4.8%; note total Legislature percent of women 5.1%<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>5<br>
 <strong id="tinymce" class="mce-content-body " style="font-size: 18px;" contenteditable="true" spellcheck="false" data-id="field_notes">note:</strong> American Samoa elects 1 member by simple majority vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegate last held on 3 November 2020 (next to be held in November 2022); Amata Coleman RADEWAGEN elected delegate; Amata Coleman RADEWAGEN (Republican Party) 83.5%, Oreta CHRICHTON (Democratic Party) 14.4%, Meleagi SUITONU-CHAPMAN (Democratic Party) 2.1%<br>
 
 **Judicial branch**<br>
@@ -496,8 +496,8 @@ _international_: country code - 1-684; landing points for the ASH, Southern Cros
 .as<br>
 
 **Internet users**<br>
-_total_: 22,200 (2021 est.)<br>
-_percent of population_: 31.3% (July 2016 est.)<br>
+_total_: 24,100 (2022 est.)<br>
+_percent of population_: 43.8% (2022 est.)<br>
 
 ## Transportation
 

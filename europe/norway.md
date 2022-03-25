@@ -674,17 +674,17 @@ _LNG terminal(s) (import)_: Fredrikstad, Mosjoen<br>
 Norwegian Armed Forces:&nbsp; Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Norwegian Special Forces, Norwegian Cyber Defense Force, Home Guard (Heimevernet, HV) (2021)<br>
 
 **Military expenditures**<br>
-1.85% of GDP (2021 est.)<br>
+1.9% of GDP (2021 est.)<br>
 2% of GDP (2020)<br>
-1.86% of GDP (2019)<br>
-1.73% of GDP (2018)<br>
-1.72% of GDP (2017)<br>
+1.9% of GDP (2019)<br>
+1.7% of GDP (2018)<br>
+1.7% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Norwegian Armed Forces have approximately 23,000 active personnel (8,500 Army; 3,500 Navy; 3,500 Air Force; 7,500 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); 40,000 Home Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Norwegian Armed Forces inventory includes mostly imported European and US weapons systems, as well as a limited mix of domestically-produced equipment, particularly small naval craft and surface-to-air missile systems; since 2010, the US is the leading supplier of weapons systems to Norway, followed by a variety of other countries, including France, Italy, South Korea, and Spain (2021)<br>
+the Norwegian Armed Forces inventory includes mostly imported European and US weapons systems, as well as a limited mix of domestically-produced equipment, particularly small naval craft and surface-to-air missile systems; since 2010, the US is the leading supplier of weapons systems to Norway (2021)<br>
 
 **Military service age and obligation**<br>
 19-35 years of age for male and female selective compulsory military service; 17 years of age for male volunteers; 18 years of age for women; 19-month service obligation; conscripts first serve 12 months from 19-28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2021)<br>

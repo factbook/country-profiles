@@ -369,7 +369,7 @@ _election results_: <br><em>2018: </em> Jair BOLSONARO elected president in sec
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congresso Nacional consists of:<br>Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)<br>Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: <br>Federal Senate - last held on 7 October 2018 for two-thirds of the Senate (next to be held on 2 October 2022 for one-third of the Senate)<br>Chamber of Deputies - last held on 7 October 2018 (next to be held on 2 October 2022)<br>
-_election results_: <br>Federal Senate - percent of vote by party - NA; seats by party - PMDB 7, PP 5, REDE 5, DEM 4, PSDB 4, PSDC 4, PSL 4, PT 4, PDT 2, PHS 2, PPS 2, PSB 2, PTB 2, Podemos 1, PR 1, PRB 1, PROS 1, PRP 1, PSC 1, SD 1; composition - men 70, women 11, percent of women 13.6%     <br>Chamber of Deputies - percent of vote by party - NA; seats by party - PT 56, PSL 52, PP 37, PMDB 34, PSDC 34, PR 33, PSB 32, PRB 30, DEM 29, PSDB 29, PDT 28, SD 13, Podemos 11, PSOL 10, PTB 10, PCdoB 9, NOVO 8, PPS 8, PROS 8, PSC 8, Avante 7, PHS 6, Patriota 5, PRP 4, PV 4, PMN 3, PTC 2, DC 1, PPL 1, REDE 1; composition - men 462, women 51, percent of women 9.9%; total National Congress percent of women 10.4%<br>
+_election results_: <br>Federal Senate - percent of vote by party - NA; seats by party - PMDB 7, PP 5, REDE 5, DEM 4, PSDB 4, PSDC 4, PSL 4, PT 4, PDT 2, PHS 2, PPS 2, PSB 2, PTB 2, Podemos 1, PR 1, PRB 1, PROS 1, PRP 1, PSC 1, SD 1; composition - men 67, women 14, percent of women 17.3%     <br>Chamber of Deputies - percent of vote by party - NA; seats by party - PT 56, PSL 52, PP 37, PMDB 34, PSDC 34, PR 33, PSB 32, PRB 30, DEM 29, PSDB 29, PDT 28, SD 13, Podemos 11, PSOL 10, PTB 10, PCdoB 9, NOVO 8, PPS 8, PROS 8, PSC 8, Avante 7, PHS 6, Patriota 5, PRP 4, PV 4, PMN 3, PTC 2, DC 1, PPL 1, REDE 1; composition - men 437, women 76, percent of women 14.8%; total National Congress percent of women 15.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Federal Court or Supremo Tribunal Federal (consists of 11 justices)<br>
@@ -655,8 +655,8 @@ state-run Radiobras operates a radio and a TV network; more than 1,000 radio sta
 .br<br>
 
 **Internet users**<br>
-_total_: 160 million (2021 est.)<br>
-_percent of population_: 73.91% (2019 est.)<br>
+_total_: 165.3 million (2022 est.)<br>
+_percent of population_: 77% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 36,344,670 (2020)<br>
@@ -739,7 +739,7 @@ Brazilian Armed Forces: Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy
 the Brazilian Armed Forces have approximately 360,000 active personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Brazilian military's inventory consists of a mix of domestically-produced and imported weapons, largely from Europe and the US; since 2010, France, Germany, the UK, and the US are the leading suppliers of military equipment to Brazil; Brazil's defense industry is capable of designing and manufacturing equipment for all three military services and for export; it also jointly produces equipment with other countries (2021)<br>
+the Brazilian military's inventory consists of a mix of domestically-produced and imported weapons, largely from Europe and the US; since 2010, the US and several European countries are the leading suppliers of military equipment to Brazil; Brazil's defense industry is capable of designing and manufacturing equipment for all three military services and for export; it also jointly produces equipment with other countries (2021)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for compulsory military service for men (women exempted); only 5-10% of those inducted are required to serve; conscript service obligation is 10-12 months; 17-45 years of age for voluntary service; women were allowed to serve in the armed forces beginning in early 1980s, when the Brazilian Army became the first army in South America to accept women into career ranks; women serve in Navy and Air Force only in Women's Reserve Corps (2021)<br>

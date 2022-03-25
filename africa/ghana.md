@@ -708,7 +708,7 @@ Ghana Armed Forces: Army, Navy, Air Force (2021)<br>
 approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Western equipment; since 2010, it has received armaments from a variety of suppliers, including China, Germany, Russia, and Spain (2021)<br>
+the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Western equipment; since 2010, China is the leading supplier of arms (2021)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service, with basic education certificate; no conscription (2021)<br>

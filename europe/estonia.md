@@ -685,16 +685,16 @@ Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (
 
 **Military expenditures**<br>
 2.3% of GDP (2021 est.)<br>
-2.33% of GDP (2020 est.)<br>
-2.03% of GDP (2019)<br>
-2.01% of GDP (2018)<br>
-2.01% of GDP (2017)<br>
+2.3% of GDP (2020)<br>
+2% of GDP (2019)<br>
+2% of GDP (2018)<br>
+2% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Estonian Defense Forces have approximately 6,500 active duty personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Estonian Defense Forces have a limited inventory of Soviet-era and more recently acquired modern weapons systems, largely from western European countries (2021)<br>
+the Estonian Defense Forces have a limited inventory of Soviet-era and more recently acquired modern weapons systems, largely from western European countries, particularly France and the Netherlands (2021)<br>
 
 **Military service age and obligation**<br>
 men 18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months; women can volunteer and as of 2018, women could serve in any branch of the military (2021)<br>

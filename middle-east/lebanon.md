@@ -687,7 +687,7 @@ note(s) - the commander of the LAF is also the commander of the Army; the LAF pa
 approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LAF inventory includes a wide mix of mostly older equipment, largely from the US and European countries, particularly France and Germany; since 2010, the US is the leading supplier of armaments (mostly second hand equipment) to Lebanon (2021)<br>
+the LAF inventory includes a wide mix of mostly older equipment from a diverse array of countries; since 2010, the US is the leading supplier of armaments (mostly second hand equipment) to Lebanon (2021)<br>
 
 **Military service age and obligation**<br>
 17-25 years of age for voluntary military service (including women); no conscription (2021)<br>

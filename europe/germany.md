@@ -703,18 +703,18 @@ _river port(s)_: Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neus
 Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber- und Informationsraum, Kdo CIR) (2021)<br>
 
 **Military expenditures**<br>
-1.53% of GDP (2021 est.)<br>
-1.56% of GDP (2020)<br>
-1.36% of GDP (2019)<br>
-1.25% of GDP (2018)<br>
-1.23% of GDP (2017)<br>
+1.5% of GDP (2021 est.)<br>
+1.6% of GDP (2020)<br>
+1.4% of GDP (2019)<br>
+1.3% of GDP (2018)<br>
+1.2% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 184,000 active duty personnel (63,500 Army; 16,500 Navy; 27,500 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 14,500 Cyber and Information Space Command; 15,000 other) (2021)<br>
 note - Germany in 2020 announced it planned to increase the size of the military to about 200,000 troops by 2025<br>
 
 **Military equipment inventories and acquisitions**<br>
-the German Federal Armed Forces inventory is mostly comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters (2021)<br>
+the German Federal Armed Forces inventory is mostly comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; since 2010, the US is the leading foreign supplier; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters (2021)<br>
 
 **Military service age and obligation**<br>
 17-23 years of age for male and female voluntary military service (must have completed compulsory full-time education and have German citizenship); conscription ended July 2011; service obligation 7-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2021)<br>

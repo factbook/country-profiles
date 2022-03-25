@@ -610,8 +610,8 @@ _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus C
 .am<br>
 
 **Internet users**<br>
-_total_: 2.02 million (2021 est.)<br>
-_percent of population_: 66.54% (2019 est.)<br>
+_total_: 1.98 million (2022 est.)<br>
+_percent of population_: 66.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 430,407 (2020)<br>
@@ -681,7 +681,7 @@ since November 2020, Russia has deployed about 2,000 peacekeeping troops to the 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>the dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability; residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders; ethnic Armenian groups in the Javakheti region of Georgia seek greater autonomy from the Georgian Government</p><br>
+<p>local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders<br><br><em>Armenia-Azerbaijan:</em> The dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability. Residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan.<br><br><em>Armenia-Georgia:</em> Georgians restrict Armenian access into Samtse-Javakheti ethnic Armenian areas. Armenia has made no claims to the region.<br><br><em>Armenia-Iran:</em> None identified<br><br><em>Armenia-Turkey:</em> In 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered, in part due to resistance from Azerbaijan. The border has been closed since 1993, and no diplomatic relations established after Armenian independence. In 2022, Turkey and Armenia have agreed to move forward with efforts to normalize relations.<br>Turkish authorities have complained that blasting from quarries in Armenia might be damaging the ruins of Ani, an ancient city on the high ridge overlooking the Arpaçay valley on the opposite shore. </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,774 (Azerbaijan), 5,205 (Syria - ethnic Armenians) (mid-year 2021)<br>

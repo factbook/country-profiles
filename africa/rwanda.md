@@ -689,7 +689,7 @@ Rwanda Defense Force (RDF): Rwanda Army (Rwanda Land Force), Rwanda Air Force (F
 the Rwanda Defense Force (RDF) has approximately 33,000 active personnel (32,000 Army; 1,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RDF's inventory includes mostly Soviet-era and older Western - largely French and South African - equipment; Rwanda has received a limited supply of imports since 2010 from a variety of countries, including China, Israel, Russia, and Turkey (2021)<br>
+the RDF's inventory includes mostly Russian, Soviet-era, and older Western - largely French and South African - equipment; since 2010, Russia has been the top supplier (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (men and women); no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2021)<br>
@@ -703,7 +703,7 @@ the RDF's inventory includes mostly Soviet-era and older Western - largely Frenc
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; fighting among ethnic groups - loosely associated political rebels, armed gangs, and various government forces in Great Lakes region transcending the boundaries of Burundi, Democratic Republic of the Congo (DROC), Rwanda, and Uganda - abated substantially from a decade ago due largely to UN peacekeeping, international mediation, and efforts by local governments to create civil societies; nonetheless, 57,000 Rwandan refugees still reside in 21 African states, including Zambia, Gabon, and 20,000 who fled to Burundi in 2005 and 2006 to escape drought and recriminations from traditional courts investigating the 1994 massacres; the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place</p><br>
+<p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DROC): </em>the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 77,116 (Democratic Republic of the Congo) 47,989 (Burundi) (2022)<br>

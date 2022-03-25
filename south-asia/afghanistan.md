@@ -632,8 +632,8 @@ since the Taliban takeover in August 2021, independent media outlets have decrea
 .af<br>
 
 **Internet users**<br>
-_total_: 8.64 million (2021 est.)<br>
-_percent of population_: 13.5% (2019 est.)<br>
+_total_: 9.23 million (2022 est.)<br>
+_percent of population_: 22.9% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 26,570 (2020 est.)<br>
@@ -718,7 +718,7 @@ Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islami
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Afghan, Coalition, and Pakistan military meet periodically to clarify the alignment of the boundary on the ground and on maps and since 2014 have met to discuss collaboration on the Taliban insurgency and counterterrorism efforts; Afghan and Iranian commissioners have discussed boundary monument densification and resurvey; Iran protests Afghanistan's restricting flow of dammed Helmand River tributaries during drought; Pakistan has sent troops across and built fences along some remote tribal areas of its treaty-defined Durand Line border with Afghanistan which serve as bases for foreign terrorists and other illegal activities; Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries</p><br>
+<p><em>Afghanistan-China:</em> None identified<br><em><br>Afghanistan-Iran:</em> Afghan and Iranian commissioners have discussed boundary monument densification and resurvey; Iran protests Afghanistan's restricting flow of dammed Helmand River tributaries during drought<br><br><em>Afghanistan-Pakistan:</em> Pakistan has built fences in some portions of its border with Afghanistan which remains open in some areas to terrorist and other illegal activities. Their alignments may not always be in conformance with Durand Line and original surveyed definitions of the boundary. Afghan, Coalition, and Pakistan military meet periodically to clarify the alignment of the boundary on the ground and on maps and since 2014 have met to discuss collaboration on the Taliban insurgency and counterterrorism efforts.<br><br><em>Afghanistan-Tajikistan:</em> None identified<br><br><em>Afghanistan-Turkmenistan:</em> None identified<br><br><em>Afghanistan-Uzbekistan:</em> None identified. Boundary follows Amu Darya river as delimited in the Afghan-Soviet treaties and not by the river's current course. The boundary was delimited and possibly demarcated during Soviet times (pre-1991). No current negotiations between Afghanistan and Uzbekistan to redelimit the boundary have been identified. <br><br>Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 72,188 (Pakistan) (mid-year 2021)<br>
