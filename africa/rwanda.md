@@ -703,7 +703,7 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DROC): </em>the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
+<p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 77,116 (Democratic Republic of the Congo) 47,989 (Burundi) (2022)<br>

@@ -205,7 +205,7 @@ see France<br>
 18 years of age, universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by Prefect Serge GOUTEYRON (since 16 December 2020)<br>
+_chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by Prefect Vincent BERTON (since 28 March 2022)<br>
 _head of government_: President of Territorial Council Bruno MAGRAS (since 16 July 2007)<br>
 _cabinet_: Executive Council elected by the Territorial Council; note - there is also an advisory, economic, social, and cultural council<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prefect appointed by the French president on the advice of French Ministry of Interior; president of Territorial Council indirectly elected by its members for a 5-year term; election last held on 2 April 2017 (next to be held in 2022)<br>
@@ -213,11 +213,11 @@ _election results_: Bruno MAGRAS (SBA) reelected president; Territorial Council 
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Council (19 seats; members elected by absolute majority vote in the first round vote and proportional representation vote in the second round; members serve 5-year terms); Saint Barthelemy indirectly elects 1 senator to the French Senate by an electoral college for a 6-year term and directly elects 1 deputy (shared with Saint Martin) to the French National Assembly<br>
-_elections_: Territorial Council - last held on 19 March 2017 (next to be held in September 2022) <br>French Senate - election last held 24 September 2017 (next to be held in September 2020) <br>French National Assembly - election last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
-_election results_: Territorial Council - percent of vote by party - SBA 53.7%, United for Saint Barth 20.6%, Saint Barth Essential 18.1%, All for Saint Barth 7.7%; seats by party - SBA 14, United for Saint Barth 2, Saint Barth Essential 2, All for Saint Barth 1; composition - men 9, women 10, percent of women 52.6% <br>French Senate - percent of vote by party NA; seats by party UMP 1 <br>French National Assembly - percent of vote by party NA; seats by party UMP 1<br>
+_elections_: Territorial Council - first round held on 20 March 2022 (next to be held in 2027); second round held on 27 March 2022<br>French Senate - election last held 24 September 2017 (next to be held in September 2020) <br>French National Assembly - election last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
+_election results_: Territorial Council - percent of vote by party (first round) - SBA 46.2%, Saint Barth Action Equilibre 27.1%, Unis pour Saint Barthelemy 26.8%; percent of vote by party (second round) - Saint Barth Action Equilibre and Unis pour Saint Barthelemy 50.9%, SBA 49.2%, seats by party - Saint Barth Action Equilibre and Unis pour Saint Barthelemy 13, SBA 6; composition - men NA, women NA, percent of women NA% <br>French Senate - percent of vote by party NA; seats by party UMP 1 <br>French National Assembly - percent of vote by party NA; seats by party UMP 1<br>
 
 **Political parties and leaders**<br>
-All for Saint Barth (Tous pour Saint-Barth) [Bettina COINTRE]<br>Saint Barth Essential (Saint-Barth Autrement) [Marie-Helene BERNIER]<br>Saint Barth First! (Saint-Barth d'Abord!) or SBA [Bruno MAGRAS] (affiliated with France's Republican party, Les Republicans)<br>Saint Barth United (Unis pour Saint-Barthelemy) [Xavier LEDEE]<br>
+All for Saint Barth (Tous pour Saint-Barth) [Bettina COINTRE]<br>Saint Barth Action Equilibre [Marie-Helene BERNIER]<br>Saint Barth First! (Saint-Barth d'Abord!) or SBA [Romaric MAGRAS] (affiliated with France's Republican party, Les Republicans)<br>Saint Barth United (Unis pour Saint-Barthelemy) [Xavier LEDEE]<br>
 
 **International organization participation**<br>
 UPU<br>

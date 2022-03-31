@@ -606,9 +606,9 @@ government owns and controls all broadcast media: five national TV channels (Cub
 .cu<br>
 
 **Internet users**<br>
-_total_: 7.7 million (2021 est.)<br>
-_percent of population_: 67.97% (2019 est.)<br>
-<strong>note:</strong> private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled "intranet"<br>
+_total_: 7.69 million (2022 est.)<br>
+_percent of population_: 68% (2022 est.)<br>
+<strong>note:</strong> private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled "intranet"; issues relating to COVID-19 impact research into internet adoption, so actual internet user figures may be different than published numbers suggest<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 231,654 (2020)<br>

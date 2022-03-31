@@ -547,8 +547,8 @@ no terrestrial TV service available; subscription cable TV provider offers some 
 .dm<br>
 
 **Internet users**<br>
-_total_: 50,200 (2021 est.)<br>
-_percent of population_: 69.62% (2019 est.)<br>
+_total_: 50,300 (2022 est.)<br>
+_percent of population_: 69.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 11,514 (2018)<br>

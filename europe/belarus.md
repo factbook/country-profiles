@@ -711,9 +711,10 @@ note - conscripts can be assigned to the military, as well as the Ministry of In
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>boundary demarcated with Latvia and Lithuania; as a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus</p><br>
+<p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 10,902 (Ukraine) (as of 29 March 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

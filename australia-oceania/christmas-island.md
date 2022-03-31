@@ -215,9 +215,9 @@ _head of government_: Administrator Natasha GRIGGS (since 5 October 2017)<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor general of Australia for a 2-year term and represents the monarch and Australia<br>
 
 **Legislative branch**<br>
-_description_: unicameral Christmas Island Shire Council (9 seats; members directly elected by simple majority vote to serve 4-year terms with a portion of the membership renewed every 2 years)<br>
-_elections_: held every 2 years with half the members standing for election; last held on&nbsp;21 October 2017 (next to be held in October 2019)<br>
-_election results_: percent of vote - NA; seats by party - independent 9; composition as of 17 October 2015 - men 7, women 2, percent of women 22.2%<br>
+_description_: unicameral Christmas Island Shire Council (9 seats; members directly elected by simple majority vote to serve 4-year terms)<br>
+_elections_: held every 2 years with half the members standing for election; last held in October 2021 (next to be held in October 2023)<br>
+_election results_: percent of vote - NA; seats by party - independent 9; composition as of 17 October 2021 - men 8, women 1, percent of women 11.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island, including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)<br>
@@ -308,8 +308,8 @@ _international_: international code - 61 8; ASC submarine cable to Singapore and
 .cx<br>
 
 **Internet users**<br>
-_total_: 1,449 (2021 est.)<br>
-_percent of population_: 35.8% (July 2016 est.)<br>
+_total_: 1,449 (2022 est.)<br>
+_percent of population_: 78.6% (2022 est.)<br>
 
 ## Transportation
 

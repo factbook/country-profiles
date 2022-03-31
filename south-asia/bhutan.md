@@ -632,7 +632,7 @@ India is responsible for military training, arms supplies, and the air defense o
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>lacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China’s Chumbi salient</p><br>
+<p><em>Bhutan-China:</em> Lacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China’s Chumbi salient.</p><br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bhutan and Bhutanese abroad; some traffickers posing as recruiters use the lure of well-paying jobs overseas to exploit Bhutanese citizens for forced labor; some Bhutanese working in hospitality, retail, and service industries in the Gulf states and India, Thailand, and the UK reported trafficking indicators, including illegal recruitment fees, wage deductions, restricted movement, passport retention, and non-payment of wages; Bhutanese women and girls working as domestics, caregivers, and entertainers are subject to sex and labor trafficking domestically; Bhutanese and Indian women may be forced to work in hotels, massage parlors, and nightclubs, while male Indian workers face unauthorized deductions and non-payment of wages in the construction and hydropower sectors<br>

@@ -610,8 +610,8 @@ strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 
 .dk<br>
 
 **Internet users**<br>
-_total_: 5.69 million (2021 est.)<br>
-_percent of population_: 96.55% (2020 est.)<br>
+_total_: 5.77 million (2022 est.)<br>
+_percent of population_: 99% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,571,736 (2020)<br>

@@ -89,7 +89,7 @@ _noun_: Kyrgyzstani(s)<br>
 _adjective_: Kyrgyzstani<br>
 
 **Ethnic groups**<br>
-Kyrgyz 73.5%, Uzbek 14.7%, Russian 5.5%, Dungan 1.1%, other 5.2% (includes Uyghur, Tajik, Turk, Kazakh, Tatar, Ukrainian, Korean, German) (2019 est.)<br>
+Kyrgyz 73.8%, Uzbek 14.8%, Russian 5.1%, Dungan 1.1%, other 5.2% (includes Uyghur, Tajik, Turk, Kazakh, Tatar, Ukrainian, Korean, German) (2021 est.)<br>
 
 **Languages**<br>
 Kyrgyz (official) 71.4%, Uzbek 14.4%, Russian (official) 9%, other 5.2% (2009 est.)<br>

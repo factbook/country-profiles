@@ -328,9 +328,9 @@ _election results_: Marcelo REBELO DE SOUSA reelected president in the first rou
 <strong>note:</strong> there is also a Council of State that acts as a consultative body to the president<br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms) (e.g. 2019)<br>
-_elections_: last held on 30 January 2022 (next to be held in January 2026); note - early elections were called after parliament was dissolved on 3 November 2021 because of the 27 October 2021 rejection of the government's budget (e.g. 2019)<br>
-_election results_: percent of vote by party - PS 41.7%, PSD 27.8%, IL 5%, BE 4.5%, CDU 4.4%, PAN 1.5%, L 1.3%, Madeira First 0.9%, Democratic Alliance (in the Azores) 0.5%, other 12.4%; seats by party - PS 117, PSD 71,&nbsp; BE 19, IL 12, CDU 12, Madeira First 3, Democratic Alliance 2, PAN 1, L 1; composition (as of October 2021) - men 138, women 92, percent of women 40% (e.g. 2019)<br>
+_description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 30 January 2022 (next to be held in January 2026); note - early elections were called after parliament was dissolved on 3 November 2021 because of the 27 October 2021 rejection of the government's budget<br>
+_election results_: percent of vote by party - PS 41.7%, PSD 27.8%, IL 5%, BE 4.5%, CDU 4.4%, PAN 1.5%, L 1.3%, Madeira First 0.9%, Democratic Alliance (in the Azores) 0.5%, other 12.4%; seats by party - PS 117, PSD 71,&nbsp; BE 19, IL 12, CDU 12, Madeira First 3, Democratic Alliance 2, PAN 1, L 1; composition (as of October 2021) - men 138, women 92, percent of women 40%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>

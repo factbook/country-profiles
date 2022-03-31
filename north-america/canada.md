@@ -5,7 +5,7 @@ _North America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A land of vast distances and rich natural resources, Canada became a self-governing dominion in 1867, while retaining ties to the British crown. Canada gained legislative independence from Britain in 1931 and formalized its constitutional independence from the UK in 1982 when it passed the Canada Act in 1982. Economically and technologically, the nation has developed in parallel with the US, its neighbor to the south across the world's longest international border. Canada faces the political challenges of meeting public demands for quality improvements in health care, education, social services, and economic competitiveness, as well as responding to the particular concerns of predominantly francophone Quebec. Canada also aims to develop its diverse energy resources while maintaining its commitment to the environment.</p><br>
+<p>A land of vast distances and rich natural resources, Canada became a self-governing dominion in 1867, while retaining ties to the British crown. Canada gained legislative independence from Britain in 1931 and formalized its constitutional independence from the UK when it passed the Canada Act in 1982. Economically and technologically, the nation has developed in parallel with the US, its neighbor to the south across the world's longest international border. Canada faces the political challenges of meeting public demands for quality improvements in health care, education, social services, and economic competitiveness, as well as responding to the particular concerns of predominantly francophone Quebec. Canada also aims to develop its diverse energy resources while maintaining its commitment to the environment.</p><br>
 
 ## Geography
 
@@ -97,7 +97,7 @@ _noun_: Canadian(s)<br>
 _adjective_: Canadian<br>
 
 **Ethnic groups**<br>
-Canadian 32.3%, English 18.3%, Scottish 13.9%, French 13.6%, Irish 13.4%, German 9.6%, Chinese 5.1%, Italian 4.6%, North American Indian 4.4%, East Indian 4%, other 51.6% (2016 est.)<br>
+Canadian 32.3%, English 18.3%, Scottish 13.9%, French 13.6%, Irish 13.4%, German 9.6%, Chinese 5.1%, Italian 4.6%, North American Indian 4.4%, East Indian 4%, Ukrainian 3.9%, other 47.7% (2016 est.)<br>
 <strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin<br>
 
 **Languages**<br>
@@ -346,8 +346,8 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)<br>House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)<br>
-_elections_: Senate - appointed; latest appointments in December 2018<br>House of Commons - last held on 20 September 2021 (next to be held before 20 October 2025)<br>
-_election results_: <br>Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4% <br><br>House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition - men 235, women 103, percent of women 30.5%; note - total Parliament percent of women 30.2%<br>
+_elections_: Senate - appointed; latest appointments in July 2021<br>House of Commons - last held on 20 September 2021 (next to be held on or before 20 October 2025)<br>
+_election results_: <br>Senate - composition as of March 2022 - men 47, women 45, percent of women 48.9% <br><br>House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition - men 235, women 103, percent of women 30.5%; note - total Parliament percent of women 34.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -636,8 +636,8 @@ _international_: country code - 1; landing points for the Nunavut Undersea Fiber
 .ca<br>
 
 **Internet users**<br>
-_total_: 35.63 million (2021 est.)<br>
-_percent of population_: 91% (2019 est.)<br>
+_total_: 36.89 million (2022 est.)<br>
+_percent of population_: 96.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 15,776,602 (2020)<br>

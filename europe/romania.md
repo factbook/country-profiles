@@ -713,7 +713,7 @@ conscription ended 2006; 18 years of age for male and female voluntary service; 
 up to 120 Poland (NATO) (2021)<br>
 
 **Military - note**<br>
-Romania officially became a member of NATO in 2004<br>
+Romania officially became a member of NATO in 2004<br> <p>Romania hosts a NATO multinational divisional (Multinational Division Southeast; became operational in 2017) and a brigade-sized headquarters as part of NATO's tailored forward presence in the southeastern part of the Alliance</p><br>
 
 ## Terrorism
 
@@ -727,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 555,021 (Ukraine) (2022)<br>
+_refugees (country of origin)_: 608,936 (Ukraine) (as of 29 March 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 9,519 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 

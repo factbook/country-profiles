@@ -215,6 +215,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>since October 2021, there has been a yellow fever outbreak in Ghana with numerous cases, including some deaths, in the following regions: Savannah, Upper West, Bono, and Oti; the CDC recommends travelers going to Ghana should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak; there are no medications to treat or cure yellow fever<br>
 
 **Obesity - adult prevalence rate**<br>
 10.9% (2016)<br>
@@ -283,6 +284,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>since October 2021, there has been a yellow fever outbreak in Ghana with numerous cases, including some deaths, in the following regions: Savannah, Upper West, Bono, and Oti; the CDC recommends travelers going to Ghana should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak; there are no medications to treat or cure yellow fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,538,275 tons (2005 est.)<br>

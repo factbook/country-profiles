@@ -649,8 +649,8 @@ government maintains tight control over broadcast media; state-owned Cameroon Ra
 .cm<br>
 
 **Internet users**<br>
-_total_: 9.15 million (2021 est.)<br>
-_percent of population_: 23.2% (2019 est.)<br>
+_total_: 10.05 million (2022 est.)<br>
+_percent of population_: 36.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 713,845 (2020)<br>

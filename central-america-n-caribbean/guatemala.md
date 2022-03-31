@@ -727,5 +727,5 @@ note - as of 2017, women made up an estimated 5-10% of the active military<br>
 _IDPs_: 242,000 (more than three decades of internal conflict that ended in 1996 displaced mainly the indigenous Maya population and rural peasants; ongoing drug cartel and gang violence) (2020)<br>
 
 **Illicit drugs**<br>
-a major transit country for illegal drugs destined for the United States; farmers &nbsp;cultivate opium poppy and cannabis<br>
+a major transit country for illegal drugs destined for the United States with increasing cultivation originating from Guatemala; farmers &nbsp;cultivate opium poppy and cannabis<br>
 

@@ -95,7 +95,7 @@ Spanish (Castilian) 93% (official), Quechua 4.1%, other indigenous 0.7%, foreign
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 74%, Evangelical 10.4%, Jehovah's Witness 1.2%, other 6.4% (includes Church of Jesus Christ, Buddhist, Jewish, Spiritualist, Muslim, Hindu, indigenous, African American, Pentecostal), atheist 7.9%, agnostic 0.1% (2012 est.)<br>
+Roman Catholic 68.8%, Evangelical 15.4%, Adventist 1.2%, Jehovah's Witness 1%, other 1.3%, agnostic or atheist 1.4%, none 10.1%, don't know/no response 1%<br> (2020 est.)<br>
 <strong>note:</strong> data represent persons at least 16 years of age from five Ecuadoran cities<br>
 
 **Demographic profile**<br>
@@ -680,7 +680,7 @@ _narrow gauge_: 965 km 1.067-m gauge (2017)<br>
 
 **Roadways**<br>
 _total_: 43,216 km (2015)<br>
-_paved_: 8,161 km (2015)<br>
+_paved_: 8,895 km (2015)<br>
 _unpaved_: 35,055 km (2015)<br>
 
 **Waterways**<br>

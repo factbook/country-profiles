@@ -676,11 +676,11 @@ _major seaport(s)_: Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga
 New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2021)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2021 est.)<br>
 1.5% of GDP (2020)<br>
 1.4% of GDP (2019)<br>
 1.2% of GDP (2018)<br>
 1.1% of GDP (2017)<br>
-1.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the New Zealand Defense Force (NZDF) has about 9,600 active duty troops (4,700 Army; 2,300 Navy; 2,600 Air Force) (2021)<br>

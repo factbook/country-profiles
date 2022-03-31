@@ -634,8 +634,8 @@ the national state-owned public broadcaster, Croatian Radiotelevision, operates 
 .hr<br>
 
 **Internet users**<br>
-_total_: 3.27 million (2021 est.)<br>
-_percent of population_: 78.32% (2020 est.)<br>
+_total_: 3.34 million (2022 est.)<br>
+_percent of population_: 82% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,030,973 (2020)<br>

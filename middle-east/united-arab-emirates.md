@@ -324,8 +324,8 @@ _residency requirement for naturalization_: 30 years<br>
 limited; note - rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that together account for about 12 percent of Emirati citizens<br>
 
 **Executive branch**<br>
-_chief of state_: President KHALIFA bin Zayid Al-Nuhayyan (since&nbsp;2 November 2004), ruler of Abu Zaby (Abu Dhabi) (since 4 November 2004); Vice President and Prime Minister MUHAMMAD BIN RASHID Al-Maktum (since 5 January 2006)<br>
-_head of government_: Prime Minister Vice President MUHAMMAD BIN RASHID Al-Maktum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayyan, MANSUR bin Zayid Al-Nuhayyan (both since 11 May 2009)<br>
+_chief of state_: President KHALIFA bin Zayid Al-Nuhayan (since 2 November 2004), ruler of Abu Zaby (Abu Dhabi) (since 4 November 2004); Vice President and Prime Minister MUHAMMAD BIN RASHID Al-Maktoum (since 5 January 2006)<br>
+_head of government_: Prime Minister Vice President MUHAMMAD BIN RASHID Al-Maktoum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayyan, MANSUR bin Zayid Al-Nuhayan (both since 11 May 2009), and MAKTOUM bin Mohammed Al-Maktoum (since 25 September 2021)<br>
 _cabinet_: Council of Ministers announced by the prime minister and approved by the president<br>
 _elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); election last held 3 November 2009 (next election NA); prime minister and deputy prime minister appointed by the president<br>
 _election results_: KHALIFA bin Zayid Al-Nuhayyan reelected president; FSC vote NA<br>
@@ -356,7 +356,7 @@ _email address and website_: <br>info@uaeembassy-usa.org<br><br>https://www.uae-
 _consulate(s) general_: Boston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: ambassador (vacant); Charge d'Affaires Sean MURPHY (since August 2020)<br>
+_chief of mission_: ambassador (vacant); Charge d'Affaires Sean MURPHY (since January 2021)<br>
 _embassy_: Embassies District, Plot 38, Sector W59-02, Street No. 4,&nbsp;Abu Dhabi<br>
 _mailing address_: 6010 Abu Dhabi Place, Washington DC 20521-6010<br>
 _telephone_: [971] (2) 414-2200<br>

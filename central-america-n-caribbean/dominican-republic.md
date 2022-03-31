@@ -628,8 +628,8 @@ combination of state-owned and privately owned broadcast media; 1 state-owned TV
 .do<br>
 
 **Internet users**<br>
-_total_: 8.16 million (2021 est.)<br>
-_percent of population_: 67.57% (2019 est.)<br>
+_total_: 8.78 million (2022 est.)<br>
+_percent of population_: 79.8% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,031,858 (2020)<br>

@@ -625,8 +625,8 @@ mixture of state and privately run TV and radio services; the public broadcaster
 .cy<br>
 
 **Internet users**<br>
-_total_: 1.04 million (2021 est.)<br>
-_percent of population_: 90.8% (2020 est.)<br>
+_total_: 1.11 million (2022 est.)<br>
+_percent of population_: 91% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 332,080 (2020)<br>

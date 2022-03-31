@@ -336,7 +336,7 @@ _election results_: <br><em>2021: </em>Gabriel BORIC elected president in secon
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (50 seats); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)<br>Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: <br>Senate - last held on 21 November 2021 (next to be held on 23 November 2025)<br>Chamber of Deputies - last held on 21 November 2021 (next to be held on 23 November 2025)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - ChP+ 12 (RN 5, UDI 5, EVOPOLI 2), NPS 8 (PS 4, PPD 2, PDC 2), PLR 1, AD 4 (PCCh 2, FREVS 2) independent 2; compostion - men 36, women 14, percent of women 27.9%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - ChP+ 53 (RN 25, UDI 23, EVOPOLI 4, PRI 1), AD 37 (PCCh 12, CS 9, RD 8, Commons 6, FREVS 2), NPS 37 (PS 13, PDC 8, PPD 7, PL 4, PRSD 4, CIU 1), FSC 15 (PLR 14, PCC 1), PDG 6, DA 3, PEV 2, IU 1, independent 1; composition - men 100, women 55, percent of women 35.5%; note - overall National Congress percent of women 33.7%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - ChP+ 12 (RN 5, UDI 5, EVOPOLI 2), NPS 8 (PS 4, PPD 2, PDC 2), PLR 1, AD 4 (PCCh 2, FREVS 2) independent 2; composition - men 38, women 12, percent of women 24%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - ChP+ 53 (RN 25, UDI 23, EVOPOLI 4, PRI 1), AD 37 (PCCh 12, CS 9, RD 8, Commons 6, FREVS 2), NPS 37 (PS 13, PDC 8, PPD 7, PL 4, PRSD 4, CIU 1), FSC 15 (PLR 14, PCC 1), PDG 6, DA 3, PEV 2, IU 1, independent 1; composition - men 100, women 55, percent of women 35.5%; note - overall National Congress percent of women 32.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members) which is independent of he rest of the judiciary; Elections Qualifying Court (consists of 5 members)<br>
@@ -619,8 +619,8 @@ national and local terrestrial TV channels, coupled with extensive cable TV netw
 .cl<br>
 
 **Internet users**<br>
-_total_: 15.78 million (2021 est.)<br>
-_percent of population_: 82.33% (2019 est.)<br>
+_total_: 17.7 million (2022 est.)<br>
+_percent of population_: 92% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,751,227 (2020)<br>

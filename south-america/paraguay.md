@@ -669,9 +669,9 @@ _total_: 30 km (2014)<br>
 _standard gauge_: 30 km 1.435-m gauge (2014)<br>
 
 **Roadways**<br>
-_total_: 74,676 km (2017)<br>
-_paved_: 6,167 km (2017)<br>
-_unpaved_: 68,509 km (2017)<br>
+_total_: 78,811 km (2017)<br>
+_paved_: 8,573 km (2017)<br>
+_unpaved_: 70,238 km (2017)<br>
 
 **Waterways**<br>
 3,100 km (primarily on the Paraguay and Paraná River systems) (2012)<br>
@@ -687,17 +687,17 @@ _river port(s)_: Asuncion, Villeta, San Antonio, Encarnacion (Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy (Armada, includes marines), Air Force (Fuerza Aerea)<br><br>Ministry of Internal Affairs: the National Police of Paraguay includes the Special Police Operations Force (<em>Fuerza de Operaciones Policiales Especiales)</em> (2021)<br>
+Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy (Armada, includes marines), Air Force (Fuerza Aerea)<br><br>Ministry of Internal Affairs: the National Police of Paraguay includes the Special Police Operations Force (<em>Fuerza de Operaciones Policiales Especiales)</em> (2022)<br>
 
 **Military expenditures**<br>
-1% of GDP (2020 est.)<br>
+1% of GDP (2021 est.)<br>
+1% of GDP (2020)<br>
 1% of GDP (2019)<br>
 1% of GDP (2018)<br>
 0.9% of GDP (2017)<br>
-1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of Paraguay have approximately 12,000 active personnel (8,000 Army; 2,500 Navy; 1,500 Air Force) (2021)<br>
+the Armed Forces of Paraguay have approximately 15,000 active personnel (10,000 Army; 3,500 Navy; 1,500 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Paraguayan military forces inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US; since 2010, Paraguay has acquired small quantities of mostly second-hand military equipment from several countries, including Argentina, Brazil, Israel, Taiwan, and the US (2021)<br>
@@ -707,7 +707,7 @@ the Paraguayan military forces inventory is comprised of mostly older equipment 
 note - as of 2021, women made up about 6% of the active military<br>
 
 **Military - note**<br>
-as of 2021, the armed forces were principally focused on the Paraguayan People's Army (Ej&eacute;rcito del Pueblo Paraguayo, EPP), a Marxist-nationalist insurgent group operating in the rural northern part of the country along the border with Brazil<br>
+as of 2022, the armed forces were principally focused on the Paraguayan People's Army (Ej&eacute;rcito del Pueblo Paraguayo, EPP), a Marxist-nationalist insurgent group operating in the rural northern part of the country along the border with Brazil and assisting internal security forces to counter narco-trafficking networks<br>
 
 ## Transnational Issues
 

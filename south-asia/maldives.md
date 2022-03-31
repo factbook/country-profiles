@@ -326,7 +326,7 @@ _elections_: last held on&nbsp;6 April 2019&nbsp;(next to be held in 2023)<br>
 _election results_: percent of vote - MDP 44.7%, JP 10.8%, PPM 8.7%, PNC 6.4%, MDA 2.8%, other 5.6%, independent 21%; seats by party - MDP 65, JP 5, PPM 5, PNC 3, MDA 2, independent 7; composition - men 83, women 4, percent of women 4.6%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court (consists of the chief justice and 4-6 justices; note - 3 justices as of late 2019)<br>
+_highest courts_: Supreme Court (consists of the chief justice and 6 justices<br>
 _judge selection and term of office_: Supreme Court judges appointed by the president in consultation with the Judicial Service Commission - a 10-member body of selected high government officials and the public - and upon confirmation by voting members of the People's Majlis; judges serve until mandatory retirement at age 70<br>
 _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Courts; Magistrate Courts (on each of the inhabited islands)<br>
 
@@ -337,14 +337,14 @@ _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Co
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: <p>Maldives has no embassy in the US, but its Permanent Representative to the UN in New York, THILMEEZA Hussain (since 8 July 2019), is accredited to the US</p> (2020)<br>
+_chief of mission_: <p>Maldives has no embassy in the US, but its Permanent Representative to the UN in New York, THILMEEZA Hussain (since 8 July 2019), is accredited to the US and serves as ambassador</p> (2020)<br>
 _chancery_: 801 Second Avenue, Suite 202E, New York, NY 10017<br>
 _telephone_: [1] (212) 599-6194; [1] (212) 599-6195<br>
 _FAX_: [1] (212) 661-6405<br>
 _email address and website_: <br>info@maldivesmission.com<br><br>http://www.maldivesmission.com/<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in Maldives; US Ambassador to Sri Lanka and Maldives, Alaina TEPLITZ (since 1 November 2018), is accredited to both countries<br>
+_embassy_: the US does not have an embassy in Maldives; the US is in the process of opening an embassy in Maldives; as of March 2022, there is no US Ambassador to Maldives; until late 2021, the US Ambassador to Sri Lanka was also accredited to the Maldives<br>
 
 **Flag description**<br>
 red with a large green rectangle in the center bearing a vertical white crescent moon; the closed side of the crescent is on the hoist side of the flag; red recalls those who have sacrificed their lives in defense of their country, the green rectangle represents peace and prosperity, and the white crescent signifies Islam<br>

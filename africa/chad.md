@@ -635,8 +635,8 @@ _international_: country code - 235; satellite earth station - 1 Intelsat (Atlan
 .td<br>
 
 **Internet users**<br>
-_total_: 2.86 million (2021 est.)<br>
-_percent of population_: 10.4% (2020 est.)<br>
+_total_: 3.26 million (2022 est.)<br>
+_percent of population_: 19% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 0 (2020)<br>

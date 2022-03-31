@@ -638,11 +638,11 @@ _LNG terminal(s) (export)_: Lumut<br>
 Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Brunei Air Force (2021)<br>
 
 **Military expenditures**<br>
+2.9% of GDP (2021 est.)<br>
 3.7% of GDP (2020 est.)<br>
 3.1% of GDP (2019)<br>
 2.7% of GDP (2018)<br>
 2.8% of GDP (2017)<br>
-3.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,500 total active troops (4,500 Army; 1,000 Navy; 1,000 Air Force) (2021)<br>

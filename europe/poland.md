@@ -733,7 +733,7 @@ note - as of 2019, women made up about 7% of the military's full-time personnel<
 note: Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>
 
 **Military - note**<br>
-Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative</p><br>
+Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; Poland also</p> <p>Poland hosts a NATO-led divisional headquarters (Multinational Division Northeast; operational in 2018), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania; Poland also hosts a corps-level headquarters (Multinational Corps Northeast)</p> (2022)<br>
 
 ## Terrorism
 
@@ -747,7 +747,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 2,144,244 (2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 2,336,799 (as of 29 March 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

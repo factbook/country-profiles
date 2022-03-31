@@ -216,9 +216,9 @@ _cabinet_: NA<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor general for a 2-year term and represents the monarch and Australia<br>
 
 **Legislative branch**<br>
-_description_: unicameral Cocos (Keeling) Islands Shire Council (7 seats; members directly elected by simple majority vote to serve 4-year terms with half the membership renewed every 2 years)<br>
-_elections_: last held in October 2017 (next to be held on 31 October 2019)<br>
-_election results_: percent of vote by party - NA; seats by party - NA; composition - men 5, women 2, percent of women 28.6%<br>
+_description_: unicameral Cocos (Keeling) Islands Shire Council (7 seats; members directly elected by simple majority vote to serve 4-year terms with 4 members renewed every 2 years)<br>
+_elections_: last held on 16 October 2021 (next to be held in October 2023)<br>
+_election results_: percent of vote by party - NA; seats by party - NA; composition - men 4, women 3, percent of women 42.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)<br>
@@ -313,6 +313,10 @@ _international_: international code - 61 8; telephone, telex, and facsimile comm
 
 **Internet country code**<br>
 .cc<br>
+
+**Internet users**<br>
+_total_: 414 (2022 est.)<br>
+_percent of population_: 76.1% (2022 est.)<br>
 
 ## Transportation
 

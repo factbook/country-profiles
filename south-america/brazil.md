@@ -751,7 +751,7 @@ the origins of Brazil's military stretch back to the 1640s; as of 2021, the mili
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>uncontested boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border; Colombian-organized illegal narcotics and paramilitary activities penetrate Brazil's border region with Venezuela</p><br>
+<p><em>Brazil-Colombia:</em> Contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources, Colombian (FARC) insurgent incursions in the area remain problematic issues.<em><br><br>Brazil-Uruguay:</em> The uncontested boundary dispute between Brazil and Uruguay over over Arroyo de la Invernada triangle and sovereignty over Isla Brsillera leaves the tripoint with Argentina in question. Smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border.<br><br><em>Brazil-Venezuela:</em> Colombian-organized illegal narcotics and paramilitary activities penetrate Brazil's border region with Venezuela.</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 261,441 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2020)<br>

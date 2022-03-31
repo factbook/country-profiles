@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Colombia was one of the three countries that emerged after the dissolution of Gran Colombia in 1830 (the others are Ecuador and Venezuela). A decades-long conflict between government forces, paramilitaries, and antigovernment insurgent groups heavily funded by the drug trade, principally the Revolutionary Armed Forces of Colombia (FARC), escalated during the 1990s. More than 31,000 former United Self Defense Forces of Colombia (AUC) paramilitaries demobilized by the end of 2006, and the AUC as a formal organization ceased to operate. In the wake of the paramilitary demobilization, illegal armed groups arose, whose members include some former paramilitaries. After four years of formal peace negotiations, the Colombian Government signed a final peace accord with the FARC in November 2016, which was subsequently ratified by the Colombian Congress. The accord calls for members of the FARC to demobilize, disarm, and reincorporate into society and politics. The accord also committed the Colombian Government to create three new institutions to form a 'comprehensive system for truth, justice, reparation, and non-repetition,' to include a truth commission, a special unit to coordinate the search for those who disappeared during the conflict, and a 'Special Jurisdiction for Peace' to administer justice for conflict-related crimes. The Colombian Government has stepped up efforts to expand its presence into every one of its administrative departments. Despite decades of internal conflict and drug-related security challenges, Colombia maintains relatively strong democratic institutions characterized by peaceful, transparent elections and the protection of civil liberties.</p><br>
+<p>Colombia was one of the three countries that emerged after the dissolution of Gran Colombia in 1830 (the others are Ecuador and Venezuela). A decades-long conflict between government forces, paramilitaries, and antigovernment insurgent groups heavily funded by the drug trade, principally the Revolutionary Armed Forces of Colombia (FARC), escalated during the 1990s. More than 31,000 former United Self Defense Forces of Colombia (AUC) paramilitaries demobilized by the end of 2006, and the AUC as a formal organization ceased to operate. In the wake of the paramilitary demobilization, illegal armed groups arose, whose members include some former paramilitaries. After four years of formal peace negotiations, the Colombian Government signed a final peace accord with the FARC in November 2016, which was subsequently ratified by the Colombian Congress. The accord calls for members of the FARC to demobilize, disarm, and reincorporate into society and politics. The accord also committed the Colombian Government to create three new institutions to form a 'comprehensive system for truth, justice, reparation, and non-repetition,' to include a truth commission, a special unit to coordinate the search for those who disappeared during the conflict, and a 'Special Jurisdiction for Peace' to administer justice for conflict-related crimes. Despite decades of internal conflict and drug-related security challenges, Colombia maintains relatively strong and independent democratic institutions characterized by peaceful, transparent elections and the protection of civil liberties.</p><br>
 
 ## Geography
 
@@ -95,7 +95,7 @@ _adjective_: Colombian<br>
 Mestizo and White 87.6%, Afro-Colombian (includes Mulatto, Raizal, and Palenquero) 6.8%, Amerindian 4.3%, unspecified 1.4% (2018 est.)<br>
 
 **Languages**<br>
-Spanish (official)<br>
+Spanish (official) and 65 Amerindian languages<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -360,7 +360,7 @@ _election results_: <em><br>2018:</em> Ivan DUQUE Marquez elected president in s
 **Legislative branch**<br>
 _description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the People's Alternative Revolutionary Force (FARC) political party for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br>Chamber of Representatives or Camara de Representantes (172 seats; 165 members elected in multi-seat constituencies by party-list proportional representation vote, 5 members of the FARC for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)<br>
 _elections_: <strong> </strong><br>Senate - last held on 11 March 2018 (next to be held on 13 March 2022)<br>Chamber of Representatives - last held on 11 March 2018 (next to be held on 13 March 2022)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - CD 19, CR 16, PC 15, PL 14, U Party 14, Green Alliance 10, PDA 5, other 9; composition - men 77, women 31, percent of women 28.7%<br>Chamber of Representatives - percent of vote by party - NA; seats by party - PL 35, CD 32, CR 30, U Party 25, PC 21, Green Alliance 9, other 13; composition - men 147, women 25, percent of women 14.5%; total Congress percent of women 20%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - CD 19, CR 16, PC 15, PL 14, U Party 14, Green Alliance 10, PDA 5, other 9; composition for 2018 election - men 77, women 31, percent of women 28.7%<br>Chamber of Representatives - percent of vote by party - NA; seats by party - PL 35, CD 32, CR 30, U Party 25, PC 21, Green Alliance 9, other 13; composition for 2018 election - men 147, women 25, percent of women 14.5%; total Congress percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of the Civil-Agrarian and Labor Chambers each with 7 judges, and the Penal Chamber with 9 judges); Constitutional Court (consists of 9 magistrates); Council of State (consists of 27 judges); Superior Judiciary Council (consists of 13 magistrates)<br>
@@ -648,8 +648,8 @@ combination of state-owned and privately owned broadcast media provide service; 
 .co<br>
 
 **Internet users**<br>
-_total_: 34.73 million (2021 est.)<br>
-_percent of population_: 65.01% (2019 est.)<br>
+_total_: 35.5 million (2022 est.)<br>
+_percent of population_: 69.1% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 7,764,772 (2020)<br>
@@ -696,10 +696,10 @@ _standard gauge_: 150 km 1.435-m gauge (2015)<br>
 _narrow gauge_: 1,991 km 0.914-m gauge (2015)<br>
 
 **Roadways**<br>
-_total_: 206,500 km (2016)<br>
+_total_: 205,379 km (2016)<br>
 
 **Waterways**<br>
-24,725 km (18,300 km navigable; the most important waterway, the River Magdalena, of which 1,488 km is navigable, is dredged regularly to ensure safe passage of cargo vessels and container barges) (2012)<br>
+24,725 km (18,225 km navigable; the most important waterway, the River Magdalena, of which 1,092 km is navigable, is dredged regularly to ensure safe passage of cargo vessels and container barges) (2012)<br>
 
 **Merchant marine**<br>
 _total_: 122<br>
@@ -739,7 +739,7 @@ note - in 2020, conscripts reportedly comprised about 50% of the Colombian milit
 275 Egypt (MFO) (2021)<br>
 
 **Military - note**<br>
-the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting; the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against both the FARC and ELN continued into 2022 (see Appendix T); the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents operate openly<br>
+the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from several factions of the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting; the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against both the FARC and ELN continued into 2022 (see Appendix T); the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents operate openly<br>
 
 ## Terrorism
 

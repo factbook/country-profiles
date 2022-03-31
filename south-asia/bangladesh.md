@@ -713,11 +713,11 @@ Bangladesh Defense Force: Bangladesh Army, Bangladesh Navy, Bangladesh Air Force
 note(s) - the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force founded in 2004 and composed of members of the police, army, navy, air force, and border guards seconded to the RAB from their respective units; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
 1.4% of GDP (2019)<br>
 1.4% of GDP (2018)<br>
 1.3% of GDP (2017)<br>
-1.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 165,000 total active personnel (135,000 Army; 15,000 Navy; 15,000 Air Force) (2021)<br>
@@ -746,7 +746,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over undemarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh struggles to accommodate 912,000 Rohingya, Burmese Muslim minority from Rakhine State, living as refugees in Cox's Bazar; Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border</p><br>
+<p><em>Bangladesh-Burma:</em> Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border.<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented.</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 918,841 (Burma) (2021) (includes an estimated 756,554 Rohingya refugees who have fled conflict since 25 August 2017)<br>

@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Austria-Czechia:</em> None<br><br><em>Austria-Germany:</em> None<br><br><em>Austria-Hungary:</em> None<br><br><em>Austria-Italy:</em> None<br><br><em>Austria-Liechtenstein:</em> None<br><br><em>Austria-Slovenia:</em> None<br><br><em>Austria-Slovakia:</em> None<br><br><em>Austria-Switzerland:</em> None</p><br>
+<p>None</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021)<br>

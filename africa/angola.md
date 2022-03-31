@@ -729,7 +729,7 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Angola-Democratic Republic of Congo(DROC): </em>DROC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: </em>None identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) None identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
+<p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: </em>None identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) None identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 37,084 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>

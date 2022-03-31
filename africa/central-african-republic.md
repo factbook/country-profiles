@@ -357,7 +357,7 @@ _election results_: Faustin-Archange TOUADERA reelected president in first round
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (140 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
 _elections_: first round last held on 27 December 2020; note - on election day, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that a new first round of elections will be held on 27 February for those areas controlled by armed groups and and second round on 14 March<br>
-_election results_: December 2015 election: percent of vote by party - NA; seats by party - UNDP 16, URCA 11, RDC 8, MLPC 10, KNK 7, other 28, independent 60; composition - men 129, women 11, percent of women 7.9%<br>
+_election results_: December 2015 election: percent of vote by party - NA; seats by party - UNDP 16, URCA 11, RDC 8, MLPC 10, KNK 7, other 28, independent 60; composition as of March 2022 - men 122, women 18, percent of women 12.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 judges, at least 3 of whom are women)<br>
@@ -622,8 +622,8 @@ government-owned network, Radiodiffusion Television Centrafricaine, provides lim
 .cf<br>
 
 **Internet users**<br>
-_total_: 557,100 (2021 est.)<br>
-_percent of population_: 4.34% (2019 est.)<br>
+_total_: 355,100 (2022 est.)<br>
+_percent of population_: 7.1% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 499 (2019)<br>
@@ -695,7 +695,7 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Central African Republic-South Sudan :</em> periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p> <p><em>Central African Republic-Sudan : </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p><br>
+<p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,702 (Democratic Republic of Congo) (2022)<br>

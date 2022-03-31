@@ -712,7 +712,7 @@ the United Nations Disengagement Observer Force (UNDOF) has operated in the Gola
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Kahane Chai; Popular Front for the Liberation of Palestine; Palestinian Islamic Jihad<br>
+Islamic State of Iraq and ash-Sham (ISIS); Kahane Chai; Popular Front for the Liberation of Palestine; Palestinian Islamic Jihad<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

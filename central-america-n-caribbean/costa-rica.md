@@ -90,7 +90,7 @@ Spanish (official), English<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 71.8%, Evangelical and Pentecostal 12.3%, other Protestant 2.6%, Jehovah's Witness 0.5%, other 2.4%, none 10.4% (2016 est.)<br>
+Roman Catholic 47.5%, Evangelical and Pentecostal 19.8%, Jehovah's Witness 1.4%, other Protestant 1.2%, other 3.1%, none 27% (2021 est.)<br>
 
 **Demographic profile**<br>
 <p>Costa Rica's political stability, high standard of living, and well-developed social benefits system set it apart from its Central American neighbors. Through the government's sustained social spending - almost 20% of GDP annually - Costa Rica has made tremendous progress toward achieving its goal of providing universal access to education, healthcare, clean water, sanitation, and electricity. Since the 1970s, expansion of these services has led to a rapid decline in infant mortality, an increase in life expectancy at birth, and a sharp decrease in the birth rate. The average number of children born per women has fallen from about 7 in the 1960s to 3.5 in the early 1980s to below replacement level today. Costa Rica's poverty rate is lower than in most Latin American countries, but it has stalled at around 20% for almost two decades.</p><p>Costa Rica is a popular regional immigration destination because of its job opportunities and social programs. Almost 9% of the population is foreign-born, with Nicaraguans comprising nearly three-quarters of the foreign population. Many Nicaraguans who perform unskilled seasonal labor enter Costa Rica illegally or overstay their visas, which continues to be a source of tension. Less than 3% of Costa Rica's population lives abroad. The overwhelming majority of expatriates have settled in the United States after completing a university degree or in order to work in a highly skilled field.</p><br>
@@ -619,8 +619,8 @@ multiple privately owned TV stations and 1 publicly owned TV station; cable netw
 .cr<br>
 
 **Internet users**<br>
-_total_: 4.15 million (2021 est.)<br>
-_percent of population_: 80.53% (2020 est.)<br>
+_total_: 4.21 million (2022 est.)<br>
+_percent of population_: 81.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 992,725 (2020)<br>

@@ -633,8 +633,8 @@ _international_: country code - 242; WACS submarine cables to Europe and Western
 .cg<br>
 
 **Internet users**<br>
-_total_: 790,000 (2021 est.)<br>
-_percent of population_: 8.65% (2019 est.)<br>
+_total_: 1.45 million (2022 est.)<br>
+_percent of population_: 25.4% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 500 (2014)<br>
@@ -719,7 +719,7 @@ the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a small
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Republic of the Congo-Democratic Republic of Congo(DROC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
+<p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 28,940 (Central African Republic), 23,746 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>

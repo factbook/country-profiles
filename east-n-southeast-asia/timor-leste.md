@@ -327,8 +327,8 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Francisco GUTERRES (since 20 May 2017); note - the president is commander in chief of the military and is able to veto legislation, dissolve parliament, and call national elections<br>
 _head of government_: Prime Minister Taur Matan RUAK (since 22 June 2018)<br>
 _cabinet_: the governing coalition in the Parliament proposes cabinet member candidates to the Prime Minister, who presents these recommendations to the President of the Republic for swearing in<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 20 March 2017 (next to be held in 2022); following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
-_election results_: Francisco GUTERRES elected president; percent of vote - Francisco GUTERRES (FRETILIN) 57.1%, Antonio DA CONCEICAO (PD) 32.5%, Jose Luis GUTERRES (Frenti-Mudanca) 2.6%, Jose NEVES (independent) 2.3%, Luis Alves TILMAN (independent) 2.2%, other 3.4%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held in March 2022; following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
+_election results_: in the first round, former president Jos&eacute; RAMOS-HORTA received 46.6%, incumbent Francisco GUTERRES 22.2%, and Armanda Berta DOS SANTOS 8.7% (note - a runoff is scheduled for April 2022)<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by proportional representation vote to serve 5-year terms)<br>

@@ -324,8 +324,8 @@ _election results_: George VELLA (PL) elected president; House of Representative
 
 **Legislative branch**<br>
 _description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process<br>
-_elections_: last held on 3 June 2017 (next to be held on 31 July 2022); note - Prime Minister MUSCAT called for early elections amid corruption allegations<br>
-_election results_: percent of vote by party - PL 55%, PN 43.7%, other 1.3%; seats by party - PL 37 PN 30; note - PN was awarded two additional seats for a total of 30 in accordance with the proportionality provisions specified in the constitution; PD candidates ran under the PN list; composition - men 57, women 10, percent of women 14.9%<br>
+_elections_: last held on 26 March 2022 (next to be held in 2027)<br>
+_election results_: percent of vote by party - PL 55.1%, PN 41.7%, other 3.2%; seats by party - PL 38 PN 29; composition - men NA, women NA, percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)<br>

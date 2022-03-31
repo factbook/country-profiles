@@ -323,7 +323,7 @@ _election results_: AZALI Assoumani (CRC) elected president in first round; with
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Union (33 seats; 24 members directly elected by absolute majority vote in 2 rounds if needed and 9 members indirectly elected by the 3 island assemblies; members serve 5-year terms) (2017)<br>
 _elections_: last held on&nbsp;19 January 2020 with a runoff on 23&nbsp;February 2020 (next to be held in 2025) (2020)<br>
-_election results_: seats by party -1st round - Boycotting parties 16, Independent 3, CRC 2, RDC 2, RADHI 1, Orange party 0; note -  9 additional seats filled by the 3 island assemblies; 2nd round - CRC 20, Orange Party 2, Independents 2; composition as of 23 January 2020 men 20, women 4, percent of women 16.7%<br> <h3> </h3> (2019)<br>
+_election results_: seats by party -1st round - Boycotting parties 16, Independent 3, CRC 2, RDC 2, RADHI 1, Orange party 0; note -  9 additional seats filled by the 3 island assemblies; 2nd round - CRC 20, Orange Party 2, Independents 2; composition for elected member as of 2022 - men 20, women 4, percent of women 16.7%<br> <h3> </h3> (2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
@@ -591,8 +591,8 @@ national state-owned TV station and a TV station run by Anjouan regional governm
 .km<br>
 
 **Internet users**<br>
-_total_: 74,500 (2021 est.)<br>
-_percent of population_: 8.48% (2019 est.)<br>
+_total_: 76,100 (2022 est.)<br>
+_percent of population_: 8.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 912 (2020 est.)<br>

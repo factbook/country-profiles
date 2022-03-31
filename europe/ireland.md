@@ -670,11 +670,11 @@ _river port(s)_: Cork (Lee), Waterford (Suir)<br>
 Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Reserve Defense Forces (2021)<br>
 
 **Military expenditures**<br>
-0.27% of GDP (2020)<br>
-0.29% of GDP (2019)<br>
-0.29% of GDP (2018)<br>
-0.31% of GDP (2017)<br>
-0.33% of GDP (2016)<br>
+0.3% of GDP (2021)<br>
+0.3% of GDP (2020)<br>
+0.3% of GDP (2019)<br>
+0.3% of GDP (2018)<br>
+0.3% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Irish Defense Forces have approximately 8,700 active duty personnel (7,000 Army; 1,000 Navy; 700 Air Force) (2021)<br>

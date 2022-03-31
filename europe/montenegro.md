@@ -710,7 +710,7 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 20,880 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
+<strong>note:</strong> 20,947 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

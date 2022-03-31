@@ -742,7 +742,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 6,.92 (mid-year 2021)<br>
-<strong>note: </strong>199,152 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
+<strong>note: </strong>256,033 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

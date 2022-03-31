@@ -655,8 +655,8 @@ all broadcast media are owned by, or affiliated with, the Communist Party of Chi
 .cn<br>
 
 **Internet users**<br>
-_total_: 939.8 million (2021 est.)<br>
-_percent of population_: 70.64% (2020 est.)<br>
+_total_: 1.02 billion (2022 est.)<br>
+_percent of population_: 70.9% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 483.55 million (2020)<br>
@@ -729,11 +729,11 @@ People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes marines and 
 note(s) - the Strategic Support Force includes the Space Systems Department, which is responsible for nearly all PLA space operations, including space launch and support, space surveillance, space information support, space telemetry, tracking, and control, and space warfare<br><br>the PAP is a paramilitary police component of China’s armed forces that is under the command of the Central Military Commission (CMC) and charged with internal security, law enforcement, counterterrorism, and maritime rights protection<br><br>in 2018, the Coast Guard was moved from the State Oceanic Administration to the PAP; in 2013, China merged four of its five major maritime law enforcement agencies – the China Marine Surveillance (CMS), Maritime Police, Fishery Law Enforcement (FLE), and Anti-Smuggling Police – into a unified coast guard<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
 1.7% of GDP (2019)<br>
 1.7% of GDP (2018)<br>
 1.8% of GDP (2017)<br>
-1.8% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 2 million total active duty troops (approximately 1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); estimated 600-650,000 People&rsquo;s Armed Police (2021)<br>
