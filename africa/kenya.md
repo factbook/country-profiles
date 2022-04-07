@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Trade centers such as Mombasa have existed along the Kenyan and Tanzanian coastlines, known as the Land of Zanj, since at least the 2nd century. These centers traded with the outside world, including  China, India, Indonesia, the Middle East, North Africa, and Persia. By around the 9th century, the mix of Africans, Arabs, and Persians who lived and traded there became known as Swahili ("people of the coast") with a distinct language (KiSwahili) and culture. The Portuguese arrived in the 1490s and, using Mombasa as a base, sought to monopolize trade in the Indian Ocean. The Portuguese were pushed out in the late 1600s by the combined forces of Oman and Pate, an island off the coast. In 1890, Germany and the UK divided up the region, with the UK taking the north and the Germans the south, including present-day Tanzania, Burundi, and Rwanda. The British established the East Africa Protectorate in 1895, which in 1920 was converted into a colony and named Kenya after its highest mountain. Numerous political disputes between the colony and the UK subsequently led to the violent Mau Mau Uprising, which began in 1952, and the eventual declaration of independence in 1963.</p> Jomo KENYATTA, the founding president and an icon of the liberation struggle, led Kenya from independence in 1963 until his death in 1978, when Vice President Daniel Arap MOI took power in a constitutional succession. The country was a de facto one-party state from 1969 until 1982, after which time the ruling Kenya African National Union (KANU) changed the constitution to make itself the sole legal political party in Kenya. MOI acceded to internal and external pressure for political liberalization in late 1991. The ethnically fractured opposition failed to dislodge KANU from power in elections in 1992 and 1997, which were marred by violence and fraud. President MOI stepped down in December 2002 following fair and peaceful elections. Mwai KIBAKI, running as the candidate of the multiethnic, united opposition group, the National Rainbow Coalition (NARC), defeated KANU candidate Uhuru KENYATTA, the son of founding president Jomo KENYATTA, and assumed the presidency following a campaign centered on an anticorruption platform. <br><br>KIBAKI's reelection in 2007 resulted in two months of post-election ethnic violence that caused the death of more than 1,100 people and the dislocation of hundreds of thousands. Opposition candidate Raila ODINGA, accused the government of widespread vote rigging. African Union-sponsored mediation led by former UN Secretary General Kofi ANNAN resulted in a power-sharing accord that brought ODINGA into the government in the restored position of prime minister. The power sharing accord included a broad reform agenda, the centerpiece of which was constitutional reform. In 2010, Kenyans overwhelmingly adopted a new constitution in a national referendum. The new constitution introduced additional checks and balances to executive power and devolved power and resources to 47 newly created counties. It also eliminated the position of prime minister. Uhuru KENYATTA won the first presidential election under the new constitution in March 2013. KENYATTA won a second and final term in office in November 2017 following a contentious, repeat election.<br>
+<p>Trade centers such as Mombasa have existed along the Kenyan and Tanzanian coastlines, known as the Land of Zanj, since at least the 2nd century. These centers traded with the outside world, including  China, India, Indonesia, the Middle East, North Africa, and Persia. By around the 9th century, the mix of Africans, Arabs, and Persians who lived and traded there became known as Swahili ("people of the coast") with a distinct language (KiSwahili) and culture. The Portuguese arrived in the 1490s and, using Mombasa as a base, sought to monopolize trade in the Indian Ocean. The Portuguese were pushed out in the late 1600s by the combined forces of Oman and Pate, an island off the coast. In 1890, Germany and the UK divided up the region, with the UK taking the north and the Germans the south, including present-day Tanzania, Burundi, and Rwanda. The British established the East Africa Protectorate in 1895, which in 1920 was converted into a colony and named Kenya after its highest mountain. Numerous political disputes between the colony and the UK subsequently led to the violent Mau Mau Uprising, which began in 1952, and the eventual declaration of independence in 1963.</p> Jomo KENYATTA, the founding president and an icon of the liberation struggle, led Kenya from independence in 1963 until his death in 1978, when Vice President Daniel Arap MOI took power in a constitutional succession. The country was a de facto one-party state from 1969 until 1982, after which time the ruling Kenya African National Union (KANU) changed the constitution to make itself the sole legal political party in Kenya. MOI acceded to internal and external pressure for political liberalization in late 1991. The ethnically fractured opposition failed to dislodge KANU from power in elections in 1992 and 1997, which were marred by violence and fraud. President MOI stepped down in December 2002 following fair and peaceful elections. Mwai KIBAKI, running as the candidate of the multiethnic, united opposition group, the National Rainbow Coalition (NARC), defeated KANU candidate Uhuru KENYATTA, the son of founding president Jomo KENYATTA, and assumed the presidency following a campaign centered on an anticorruption platform. <br><br>KIBAKI's reelection in 2007 resulted in two months of post-election ethnic violence that caused the death of more than 1,100 people and the dislocation of hundreds of thousands. Opposition candidate, Raila ODINGA, accused the government of widespread vote rigging. African Union-sponsored mediation led by former UN Secretary General Kofi ANNAN resulted in a power-sharing accord that brought ODINGA into the government in the restored position of prime minister. The power sharing accord included a broad reform agenda, the centerpiece of which was constitutional reform. In 2010, Kenyans overwhelmingly adopted a new constitution in a national referendum. The new constitution introduced additional checks and balances to executive power and devolved power and resources to 47 newly created counties. It also eliminated the position of prime minister. Uhuru KENYATTA won the first presidential election under the new constitution in March 2013. KENYATTA won a second and final term in office in November 2017 following a contentious, repeat election.<br>
 
 ## Geography
 
@@ -85,7 +85,7 @@ the Kenyan Highlands comprise one of the most successful agricultural production
 ## People and Society
 
 **Population**<br>
-54,685,051 (July 2021 est.)<br>
+55,864,655 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -124,7 +124,7 @@ _male_: 19.9 years<br>
 _female_: 20.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.15% (2021 est.)<br>
+2.12% (2022 est.)<br>
 
 **Birth rate**<br>
 26.39 births/1,000 population (2022 est.)<br>
@@ -133,7 +133,7 @@ _female_: 20.1 years (2020 est.)<br>
 5.01 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2021 est.)<br>
+-0.19 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast as shown in this population distribution map<br>
@@ -148,11 +148,11 @@ _rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.84 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.01 male(s)/female<br>
+_25-54 years_: 1.01 male(s)/female<br>
+_55-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2014 est.)<br>
@@ -162,17 +162,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 342 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 28.81 deaths/1,000 live births<br>
-_male_: 31.93 deaths/1,000 live births<br>
-_female_: 25.63 deaths/1,000 live births (2021 est.)<br>
+_total_: 27.86 deaths/1,000 live births<br>
+_male_: 30.92 deaths/1,000 live births<br>
+_female_: 24.74 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.32 years<br>
-_male_: 67.65 years<br>
-_female_: 71.03 years (2021 est.)<br>
+_total population_: 69.69 years<br>
+_male_: 67.98 years<br>
+_female_: 71.43 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.36 children born/woman (2021 est.)<br>
+3.29 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 59.7% (2019)<br>
@@ -371,7 +371,7 @@ _subordinate courts_: High Court; Court of Appeal; military courts; magistrates'
 Alliance Party of Kenya or APK [Kiraitu MURUNGI]<br>Amani National Congress or ANC [Musalia MUDAVADI]<br>Federal Party of Kenya or FPK [Cyrus JIRONGA]<br>Forum for the Restoration of Democracy-Kenya or FORD-K [Moses WETANGULA]<br>Forum for the Restoration of Democracy-People or FORD-P [Henry OBWOCHA]<br>Jubilee Party [Uhuru KENYATTA]<br>Kenya African National Union or KANU [Gideon MOI]<br>National Rainbow Coalition or NARC [Charity NGILU]<br>Orange Democratic Movement Party of Kenya or ODM [Raila ODINGA]<br>Wiper Democratic Movement-K or WDM-K (formerly Orange Democratic Movement-Kenya or ODM-K) [Kalonzo MUSYOKA]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, C, CD, COMESA, EAC, EADB, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNSOM, UNWTO, UPU, WCO, WHO, WMO, WTO<br>
+ACP, AfDB, AU, C, CD, COMESA, EAC, EADB, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICCT, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNSOM, UNWTO, UPU, WCO, WHO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lazarus Ombai AMAYO (since 17 July 2020)<br>

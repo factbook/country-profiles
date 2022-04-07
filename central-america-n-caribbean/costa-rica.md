@@ -76,7 +76,7 @@ four volcanoes, two of them active, rise near the capital of San Jose in the cen
 ## People and Society
 
 **Population**<br>
-5,151,140 (July 2021 est.)<br>
+5,204,411 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Costa Rican(s)<br>
@@ -114,7 +114,7 @@ _male_: 32.1 years<br>
 _female_: 33.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.04% (2021 est.)<br>
+1.01% (2022 est.)<br>
 
 **Birth rate**<br>
 14.28 births/1,000 population (2022 est.)<br>
@@ -123,7 +123,7 @@ _female_: 33.1 years (2020 est.)<br>
 4.91 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.78 migrant(s)/1,000 population (2021 est.)<br>
+0.77 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population<br>
@@ -141,24 +141,24 @@ _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 1.02 male(s)/female<br>
 _55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.64 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 27 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.59 deaths/1,000 live births<br>
-_male_: 9.66 deaths/1,000 live births<br>
-_female_: 7.46 deaths/1,000 live births (2021 est.)<br>
+_total_: 8.39 deaths/1,000 live births<br>
+_male_: 9.45 deaths/1,000 live births<br>
+_female_: 7.28 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.41 years<br>
-_male_: 76.75 years<br>
-_female_: 82.22 years (2021 est.)<br>
+_total population_: 79.64 years<br>
+_male_: 76.99 years<br>
+_female_: 82.43 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.87 children born/woman (2021 est.)<br>
+1.86 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.9% (2018)<br>
@@ -330,13 +330,13 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Carlos ALVARADO Quesada (since 8 May 2018); First Vice President Epsy CAMPBELL Barr (since 8 May 2018); Second Vice President Marvin RODRIGUEZ Cordero (since 8 May 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Carlos ALVARADO Quesada (since 8 May 2018); First Vice President Epsy CAMPBELL Barr (since 8 May 2018); Second Vice President Marvin RODRIGUEZ Cordero (since 8 May 2018)<br>
 _cabinet_: Cabinet selected by the president<br>
-_elections/appointments_: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms); election last held on 4 February 2018 with a runoff on 1 April 2018 (next to be held on 6 February 2022 with a runoff on 3 April 2022)<br>
-_election results_: <br><em>2018:</em> Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRS) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%<br><br><em>2014:</em> Luis Guillermo SOLIS Rivera elected president; percent of vote - Luis Guillermo SOLIS Rivera (PAC) 77.8%; Johnny ARAYA (PLN) 22.2%<br>
+_elections/appointments_: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms); election last held on 6 February 2022 with a runoff on 3 April 2022 (next to be held in February 2026 with a runoff in April 2026)<br>
+_election results_: <p><em>2022: </em>Rodrigo CHAVES Robles elected president in second round; percent of vote in first round - Jose Maria FIGUERES Olsen (PLN) 27.3%;<em> </em>Rodrigo CHAVES Robles (PPSD) 16.8%; Fabricio ALVARADO Munoz (PNR) 14.9%; Eliecer FEINZAIG Mintz (PLP) 12.4%; Lineth SABORIO Chaverri (PUSC) 12.4%; Jose Maria VILLALTA Florez-Estrada 8.7% (PFA); other 7.5%; percent of vote in second round - Rodrigo CHAVES Robles (PPSD) 52.8%; Jose Maria FIGUERES Olsen (PLN) 47.2%; note - official results pending; CHAVES will take office on 8 May 2022 <br><br><em>2018:</em> Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRS) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%</p><br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country's 7 provinces - by closed party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 4 February 2018 (next to be held on 6 February 2022)<br>
-_election results_: percent of vote by party - PLN 19.5%, PRN 18.2%, PAC 16.3%, PUSC 14.6%, PIN 7.7%, PRS 4.2%, PFA 4%, ADC 2.5%, ML 2.3%, PASE 2.3%, PNG 2.2%, other 6.2%; seats by party - PLN 17, PRN 14, PAC 10, PUSC 9, PIN 4, PRS 2, PFA 1; composition - men 31, women 26, percent of women 45.6%<br>
+_elections_: last held on 6 February 2022 (next to be held in February 2026)<br>
+_election results_: percent of vote by party - PLN 24.8%, PPSD 15%, PUSC 11.4%, PNR 10.1%, PLP 9.1%, 8.3%, other 21.3%; seats by party - PLN 19,&nbsp; PPSD 10, PUSC 9, PNR 7, PLP 6, PFA 6; composition - men 30, women 27, percent of women 47.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of 22 judges organized into 3 cassation chambers each with 5 judges and the Constitutional Chamber with 7 judges)<br>
@@ -344,7 +344,7 @@ _judge selection and term of office_: Supreme Court of Justice judges elected by
 _subordinate courts_: appellate courts; trial courts; first instance and justice of the peace courts; Superior Electoral Tribunal<br>
 
 **Political parties and leaders**<br>
-Accessibility Without Exclusion or PASE [Oscar Andres LOPEZ Arias]<br>Broad Front (Frente Amplio) or PFA [Ana Patricia MORA Castellanos]<br>Christian Democratic Alliance or ADC [Mario REDONDO Poveda]<br>Citizen Action Party or PAC [Marta Eugenia SOLANO Arias]<br>Costa Rican Renewal Party or PRC [Justo OROZCO Alvarez]<br>Libertarian Movement Party or ML [Victor Danilo CUBERO Corrales]<br>National Integration Party or PIN [Walter MUNOZ Cespedes]<br>National Liberation Party or PLN [Jorge Julio PATTONI Saenz]<br>National Restoration Party or PRN [Carlos Luis AVENDANO Calvo]<br>New Generation or PNG [Sergio MENA]<br>Patriotic Alliance [Jorge ARAYA Westover]<br>Social Christian Republican Party or PRS [Otto ROBERTO Vargas]<br>Social Christian Unity Party or PUSC [Randall QUIROS]<br>
+<p>Accessibility Without Exclusion or PASE [Oscar Andres LOPEZ Arias]<br>Broad Front (Frente Amplio) or PFA [Ana Patricia MORA Castellanos]<br>Christian Democratic Alliance or ADC [Mario REDONDO Poveda]<br>Citizen Action Party or PAC [Marta Eugenia SOLANO Arias]<br>Costa Rican Renewal Party or PRC [Justo OROZCO Alvarez]<br>Libertarian Movement Party or ML [Victor Danilo CUBERO Corrales]<br>Liberal Progressive Party or PLP [Eliecer FEINZAIG Mintz]<br>National Integration Party or PIN [Walter MUNOZ Cespedes]<br>National Liberation Party or PLN [Jorge Julio PATTONI Saenz]<br>National Restoration Party or PRN [Carlos Luis AVENDANO Calvo]<br>New Generation or PNG [Sergio MENA]<br>New Republic Party or PNR [Francisco PRENDAS]<br>Patriotic Alliance [Jorge ARAYA Westover]<br>Social Christian Republican Party or PRS [Otto ROBERTO Vargas]<br>Social Christian Unity Party or PUSC [Randall QUIROS]<br>Social Democratic Progress Party or PPSD [Rodrigo CHAVES Robles]<br><br></p><br>
 
 **International organization participation**<br>
 BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

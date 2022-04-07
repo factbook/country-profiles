@@ -72,7 +72,7 @@ includes five archipelagoes: four volcanic (Iles Gambier, Iles Marquises, Iles T
 ## People and Society
 
 **Population**<br>
-297,154 (July 2021 est.)<br>
+299,356 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: French Polynesian(s)<br>
@@ -107,7 +107,7 @@ _male_: 33 years<br>
 _female_: 33.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.75% (2021 est.)<br>
+0.73% (2022 est.)<br>
 
 **Birth rate**<br>
 13.47 births/1,000 population (2022 est.)<br>
@@ -116,7 +116,7 @@ _female_: 33.5 years (2020 est.)<br>
 5.59 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.66 migrant(s)/1,000 population (2021 est.)<br>
+-0.63 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the majority of the population lives in the Society Islands, one of five archipelagos that includes the most populous island - Tahiti - with approximately 70% of the nation's population<br>
@@ -134,21 +134,21 @@ _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.09 male(s)/female<br>
 _25-54 years_: 1.05 male(s)/female<br>
 _55-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 0.93 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 1.05 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.46 deaths/1,000 live births<br>
-_male_: 5.37 deaths/1,000 live births<br>
-_female_: 3.51 deaths/1,000 live births (2021 est.)<br>
+_total_: 4.4 deaths/1,000 live births<br>
+_male_: 5.3 deaths/1,000 live births<br>
+_female_: 3.46 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.19 years<br>
-_male_: 75.86 years<br>
-_female_: 80.63 years (2021 est.)<br>
+_total population_: 78.43 years<br>
+_male_: 76.11 years<br>
+_female_: 80.86 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.82 children born/woman (2021 est.)<br>
+1.81 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

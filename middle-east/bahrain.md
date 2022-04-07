@@ -76,7 +76,7 @@ close to primary Middle Eastern petroleum sources; strategic location in Persian
 ## People and Society
 
 **Population**<br>
-1,526,929 (July 2021 est.)<br>
+1,540,558 (2022 est.)<br>
 <strong>note:</strong> immigrants make up approximately 45% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -112,7 +112,7 @@ _male_: 34.4 years<br>
 _female_: 30.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.9% (2021 est.)<br>
+0.88% (2022 est.)<br>
 
 **Birth rate**<br>
 12.4 births/1,000 population (2022 est.)<br>
@@ -121,7 +121,7 @@ _female_: 30.3 years (2020 est.)<br>
 2.82 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.67 migrant(s)/1,000 population (2021 est.)<br>
+-0.82 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq<br>
@@ -136,27 +136,27 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.31 male(s)/female<br>
-_25-54 years_: 1.87 male(s)/female<br>
-_55-64 years_: 1.67 male(s)/female<br>
-_65 years and over_: 1.04 male(s)/female<br>
-_total population_: 1.53 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.29 male(s)/female<br>
+_25-54 years_: 1.86 male(s)/female<br>
+_55-64 years_: 1.61 male(s)/female<br>
+_65 years and over_: 0.83 male(s)/female<br>
+_total population_: 1.52 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 14 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.54 deaths/1,000 live births<br>
-_male_: 12.31 deaths/1,000 live births<br>
-_female_: 8.71 deaths/1,000 live births (2021 est.)<br>
+_total_: 10.19 deaths/1,000 live births<br>
+_male_: 11.97 deaths/1,000 live births<br>
+_female_: 8.37 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.67 years<br>
-_male_: 77.39 years<br>
-_female_: 82.02 years (2021 est.)<br>
+_total population_: 79.9 years<br>
+_male_: 77.63 years<br>
+_female_: 82.24 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.68 children born/woman (2021 est.)<br>
+1.67 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

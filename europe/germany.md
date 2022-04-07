@@ -85,7 +85,7 @@ strategic location on North European Plain and along the entrance to the Baltic 
 ## People and Society
 
 **Population**<br>
-79,903,481 (July 2021 est.)<br>
+84,316,622 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: German(s)<br>
@@ -121,7 +121,7 @@ _male_: 46.5 years<br>
 _female_: 49.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.21% (2021 est.)<br>
+-0.11% (2022 est.)<br>
 
 **Birth rate**<br>
 9.08 births/1,000 population (2022 est.)<br>
@@ -130,7 +130,7 @@ _female_: 49.1 years (2020 est.)<br>
 11.98 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-1.5 migrant(s)/1,000 population (2021 est.)<br>
+1.78 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia<br>
@@ -144,12 +144,12 @@ _rate of urbanization_: 0.13% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
+_0-14 years_: 1.04 male(s)/female<br>
+_15-24 years_: 1.03 male(s)/female<br>
+_25-54 years_: 1.05 male(s)/female<br>
 _55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.79 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.8 years (2019 est.)<br>
@@ -158,17 +158,17 @@ _total population_: 0.96 male(s)/female (2020 est.)<br>
 7 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.24 deaths/1,000 live births<br>
-_male_: 3.61 deaths/1,000 live births<br>
-_female_: 2.84 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.19 deaths/1,000 live births<br>
+_male_: 3.56 deaths/1,000 live births<br>
+_female_: 2.8 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.3 years<br>
-_male_: 78.93 years<br>
-_female_: 83.8 years (2021 est.)<br>
+_total population_: 81.51 years<br>
+_male_: 79.15 years<br>
+_female_: 84 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.48 children born/woman (2021 est.)<br>
+1.57 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 67% (2018)<br>

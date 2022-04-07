@@ -74,7 +74,7 @@ strategic location on major air and sea routes between North America and norther
 ## People and Society
 
 **Population**<br>
-5,224,884 (July 2021 est.)<br>
+5,275,004 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Irishman(men), Irishwoman(women), Irish (collective plural)<br>
@@ -108,7 +108,7 @@ _male_: 37.4 years<br>
 _female_: 38.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.97% (2021 est.)<br>
+0.94% (2022 est.)<br>
 
 **Birth rate**<br>
 12.32 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 38.2 years (2020 est.)<br>
 6.73 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-3.83 migrant(s)/1,000 population (2021 est.)<br>
+3.79 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population distribution is weighted to the eastern side of the island, with the largest concentration being in and around Dublin; populations in the west are small due to mountainous land, poorer soil, lack of good transport routes, and fewer job opportunities<br>
@@ -134,9 +134,9 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.02 male(s)/female<br>
 _25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.86 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_55-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.7 years (2019 est.)<br>
@@ -145,17 +145,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.52 deaths/1,000 live births<br>
-_male_: 3.97 deaths/1,000 live births<br>
-_female_: 3.06 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.47 deaths/1,000 live births<br>
+_male_: 3.9 deaths/1,000 live births<br>
+_female_: 3.01 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.45 years<br>
-_male_: 79.12 years<br>
-_female_: 83.9 years (2021 est.)<br>
+_total population_: 81.66 years<br>
+_male_: 79.35 years<br>
+_female_: 84.1 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.93 children born/woman (2021 est.)<br>
+1.92 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

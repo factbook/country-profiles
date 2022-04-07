@@ -75,7 +75,7 @@ Antigua has a deeply indented shoreline with many natural harbors and beaches; B
 ## People and Society
 
 **Population**<br>
-99,175 (July 2021 est.)<br>
+100,335 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Antiguan(s), Barbudan(s)<br>
@@ -110,7 +110,7 @@ _male_: 30.7 years<br>
 _female_: 34.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.17% (2021 est.)<br>
+1.15% (2022 est.)<br>
 
 **Birth rate**<br>
 15.16 births/1,000 population (2022 est.)<br>
@@ -119,7 +119,7 @@ _female_: 34.4 years (2020 est.)<br>
 5.65 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-2.06 migrant(s)/1,000 population (2021 est.)<br>
+2.03 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington<br>
@@ -137,21 +137,21 @@ _0-14 years_: 1.03 male(s)/female<br>
 _15-24 years_: 0.99 male(s)/female<br>
 _25-54 years_: 0.85 male(s)/female<br>
 _55-64 years_: 0.8 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.89 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.64 male(s)/female<br>
+_total population_: 0.89 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.65 deaths/1,000 live births<br>
-_male_: 17.71 deaths/1,000 live births<br>
-_female_: 11.44 deaths/1,000 live births (2021 est.)<br>
+_total_: 14.3 deaths/1,000 live births<br>
+_male_: 17.27 deaths/1,000 live births<br>
+_female_: 11.17 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.55 years<br>
-_male_: 75.37 years<br>
-_female_: 79.85 years (2021 est.)<br>
+_total population_: 77.8 years<br>
+_male_: 75.63 years<br>
+_female_: 80.08 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.96 children born/woman (2021 est.)<br>
+1.95 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

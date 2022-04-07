@@ -80,7 +80,7 @@ landlocked; strategic location between China and Russia<br>
 ## People and Society
 
 **Population**<br>
-3,198,913 (July 2021 est.)<br>
+3,227,863 (2022 est.)<br>
 <strong>note:</strong> Mongolia is one of the least densely populated countries in the world (2 people per sq km); twice as many ethnic Mongols (some 6 million) live in Inner Mongolia (Nei Mongol) in neighboring China<br>
 
 **Nationality**<br>
@@ -116,7 +116,7 @@ _male_: 28.8 years<br>
 _female_: 30.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.93% (2021 est.)<br>
+0.88% (2022 est.)<br>
 
 **Birth rate**<br>
 15.84 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 30.7 years (2020 est.)<br>
 6.3 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.78 migrant(s)/1,000 population (2021 est.)<br>
+-0.77 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 sparsely distributed population throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
@@ -141,10 +141,10 @@ _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.94 male(s)/female<br>
-_55-64 years_: 0.83 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.93 male(s)/female<br>
+_55-64 years_: 0.82 male(s)/female<br>
+_65 years and over_: 0.51 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.5 years (2008 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 0.95 male(s)/female (2020 est.)<br>
 45 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 20.6 deaths/1,000 live births<br>
-_male_: 23.73 deaths/1,000 live births<br>
-_female_: 17.32 deaths/1,000 live births (2021 est.)<br>
+_total_: 20.18 deaths/1,000 live births<br>
+_male_: 23.26 deaths/1,000 live births<br>
+_female_: 16.95 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.08 years<br>
-_male_: 66.88 years<br>
-_female_: 75.49 years (2021 est.)<br>
+_total population_: 71.37 years<br>
+_male_: 67.19 years<br>
+_female_: 75.76 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.93 children born/woman (2021 est.)<br>
+1.91 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 48.1% (2018)<br>

@@ -85,7 +85,7 @@ subject to floods, rockslides, mudslides; periodic droughts<br>
 ## People and Society
 
 **Population**<br>
-29,069,153 (July 2021 est.)<br>
+29,789,730 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Venezuelan(s)<br>
@@ -123,7 +123,7 @@ _male_: 29.4 years<br>
 _female_: 30.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.46% (2021 est.)<br>
+2.43% (2022 est.)<br>
 
 **Birth rate**<br>
 17.27 births/1,000 population (2022 est.)<br>
@@ -132,7 +132,7 @@ _female_: 30.7 years (2020 est.)<br>
 6.81 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-14.22 migrant(s)/1,000 population (2021 est.)<br>
+13.88 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the northern and western highlands along an eastern spur at the northern end of the Andes, an area that includes the capital of Caracas<br>
@@ -150,24 +150,24 @@ _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
 _25-54 years_: 0.99 male(s)/female<br>
 _55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.84 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 125 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.23 deaths/1,000 live births<br>
-_male_: 24.79 deaths/1,000 live births<br>
-_female_: 19.55 deaths/1,000 live births (2021 est.)<br>
+_total_: 17.72 deaths/1,000 live births<br>
+_male_: 19.72 deaths/1,000 live births<br>
+_female_: 15.61 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.22 years<br>
-_male_: 68.9 years<br>
-_female_: 75.7 years (2021 est.)<br>
+_total population_: 73.29 years<br>
+_male_: 70.12 years<br>
+_female_: 76.62 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.24 children born/woman (2021 est.)<br>
+2.22 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 75% (2010)<br>
@@ -611,13 +611,13 @@ _total subscriptions_: 18,028,388 (2020)<br>
 _subscriptions per 100 inhabitants_: 63.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: telecom industry struggling due to political upheaval in the country; poor quality of service in many areas of the country due to decrepit state of fixed-line network and operators&rsquo; inability to pay for equipment from foreign vendors; operator suffering from stolen or damaged infrastructure; many consumers favor mobile service, and cancel their fixed-line services; popularity of social networks caused growth in mobile data traffic; LTE coverage to about half of the population; government launched National Fiber Optic backbone project in 2019; national satellite drifted off course and became non-operational; American company closed a telecom service due to US sanctions and a Chilean company later acquired the service; Internet freedom deteriorating amid crisis, with frequent disruptions to service and monitoring; importer of broadcasting equipment from the USA (2020)<br>
+_general assessment_: the telecom industry is struggling due to political upheaval in the country; poor quality of service in many areas of the country due to decrepit state of fixed-line network and operators&rsquo; inability to pay for equipment from foreign vendors; operator suffering from stolen or damaged infrastructure; many consumers favor mobile service, and cancel their fixed-line services; popularity of social networks caused growth in mobile data traffic; LTE coverage to about half of the population; government launched National Fiber Optic backbone project in 2019; national satellite drifted off course and became non-operational; an American company closed a telecom service due to US sanctions and a Chilean company later acquired the service; Internet freedom deteriorating amid crisis, with frequent disruptions to service and monitoring; importer of broadcasting equipment from the US (2020)<br>
 _domestic_: two domestic satellite systems with three earth stations; recent substantial improvement in telephone service in rural areas; 3 major providers operate in the mobile market and compete with state-owned company; fixed-line over 18 per 100 and mobile-cellular telephone subscribership about 63 per 100 persons (2020)<br>
 _international_: country code - 58; landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, GlobeNet, ALBA-1 and Americas II submarine cable system providing connectivity to the Caribbean, Central and South America, and US; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-Venezuela has a mixture of state-run and private broadcast media that are subject to high levels of government control, including the shuttering of opposition-leaning media outlets; 13 public service networks, 61 privately owned TV networks, a privately owned news channel with limited national coverage, and a government-backed Pan-American channel; 3 state-run radio networks officially control roughly 65 news stations and another 30 stations targeted at specific audiences; state-sponsored community broadcasters include 235 radio stations and 44 TV stations; the number of private broadcast radio stations has been declining, but many still remain in operation (2021)<br>
+Venezuela has a mixture of state-run and private broadcast media that are subject to high levels of regime control, including the shuttering of opposition-leaning media outlets; 13 public service networks, 61 privately owned TV networks, a privately owned news channel with limited national coverage, and a regime-backed Pan-American channel; 3 regime-run radio networks officially control roughly 65 news stations and another 30 stations targeted at specific audiences; regime-sponsored community broadcasters include 235 radio stations and 44 TV stations; the number of private broadcast radio stations has been declining, but many still remain in operation (2021)<br>
 
 **Internet country code**<br>
 .ve<br>

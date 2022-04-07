@@ -77,7 +77,7 @@ population concentrated where good farmlands lie; highest concentrations are nor
 ## People and Society
 
 **Population**<br>
-110,818,325 (July 2021 est.)<br>
+114,597,229 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Filipino(s)<br>
@@ -115,7 +115,7 @@ _male_: 23.6 years<br>
 _female_: 24.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.49% (2021 est.)<br>
+1.6% (2022 est.)<br>
 
 **Birth rate**<br>
 22.28 births/1,000 population (2022 est.)<br>
@@ -124,7 +124,7 @@ _female_: 24.6 years (2020 est.)<br>
 6.41 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.75 migrant(s)/1,000 population (2021 est.)<br>
+0.13 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population concentrated where good farmlands lie; highest concentrations are northwest and south-central Luzon, the southeastern extension of Luzon, and the islands of the Visayan Sea, particularly Cebu and Negros; Manila is home to one-eighth of the entire national population<br>
@@ -140,10 +140,10 @@ _rate of urbanization_: 2.04% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 0.86 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_25-54 years_: 1.03 male(s)/female<br>
+_55-64 years_: 0.9 male(s)/female<br>
+_65 years and over_: 0.46 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.5 years (2017 est.)<br>
@@ -153,17 +153,17 @@ _total population_: 1.01 male(s)/female (2020 est.)<br>
 121 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 20.55 deaths/1,000 live births<br>
-_male_: 23.49 deaths/1,000 live births<br>
-_female_: 17.46 deaths/1,000 live births (2021 est.)<br>
+_total_: 22.23 deaths/1,000 live births<br>
+_male_: 24.51 deaths/1,000 live births<br>
+_female_: 19.84 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.32 years<br>
-_male_: 66.78 years<br>
-_female_: 74.03 years (2021 est.)<br>
+_total population_: 70.14 years<br>
+_male_: 66.6 years<br>
+_female_: 73.86 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.89 children born/woman (2021 est.)<br>
+2.78 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 54.1% (2017)<br>

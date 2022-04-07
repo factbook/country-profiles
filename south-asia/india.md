@@ -88,7 +88,7 @@ dominates South Asian subcontinent; near important Indian Ocean trade routes; Ka
 ## People and Society
 
 **Population**<br>
-1,339,330,514 (July 2021 est.)<br>
+1,389,637,446 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Indian(s)<br>
@@ -123,7 +123,7 @@ _male_: 28 years<br>
 _female_: 29.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.04% (2021 est.)<br>
+0.67% (2022 est.)<br>
 
 **Birth rate**<br>
 16.82 births/1,000 population (2022 est.)<br>
@@ -132,7 +132,7 @@ _female_: 29.5 years (2020 est.)<br>
 10.3 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.04 migrant(s)/1,000 population (2021 est.)<br>
+0.16 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
@@ -145,13 +145,13 @@ _rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
 32.066 million NEW DELHI (capital), 20.961 million Mumbai, 15.134 million Kolkata, 13.193 million Bangalore, 11.503 million Chennai, 10.534 million Hyderabad (2022)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.11 male(s)/female<br>
-_0-14 years_: 1.13 male(s)/female<br>
-_15-24 years_: 1.14 male(s)/female<br>
+_at birth_: 1.1 male(s)/female<br>
+_0-14 years_: 1.11 male(s)/female<br>
+_15-24 years_: 1.12 male(s)/female<br>
 _25-54 years_: 1.07 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 1.08 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 1.06 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21 years (2015/16)<br>
@@ -161,17 +161,17 @@ _total population_: 1.08 male(s)/female (2020 est.)<br>
 145 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 39.55 deaths/1,000 live births<br>
-_male_: 39.47 deaths/1,000 live births<br>
-_female_: 39.63 deaths/1,000 live births (2021 est.)<br>
+_total_: 30.31 deaths/1,000 live births<br>
+_male_: 29.95 deaths/1,000 live births<br>
+_female_: 30.7 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.03 years<br>
-_male_: 68.71 years<br>
-_female_: 71.49 years (2021 est.)<br>
+_total population_: 67.22 years<br>
+_male_: 65.46 years<br>
+_female_: 69.16 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.28 children born/woman (2021 est.)<br>
+2.1 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 53.5% (2015/16)<br>
@@ -216,7 +216,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoi
 _vectorborne diseases_: dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 6 October 2021, India has reported a total of 33,871,881 cases of COVID-19 or 2,454.48 cumulative cases of COVID-19 per 100,000 population with 32.58 cumulative deaths per 100,000 population; as of 5 October 2021, 48% of the population has received at least one dose of COVID-19 vaccine; effective 4 May 2021, the US has banned most travel from India to the US<br>
+<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 30 March 2022, India has reported a total of 43,023,215 cases of COVID-19 or 3,117.61 cumulative cases of COVID-19 per 100,000 population with a total of 521,101 cumulative deaths or a rate 37.76 cumulative deaths per 100,000 population; as of 29 March 2022, 70.68% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 3.9% (2016)<br>
@@ -284,7 +284,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoi
 _vectorborne diseases_: dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 6 October 2021, India has reported a total of 33,871,881 cases of COVID-19 or 2,454.48 cumulative cases of COVID-19 per 100,000 population with 32.58 cumulative deaths per 100,000 population; as of 5 October 2021, 48% of the population has received at least one dose of COVID-19 vaccine; effective 4 May 2021, the US has banned most travel from India to the US<br>
+<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 30 March 2022, India has reported a total of 43,023,215 cases of COVID-19 or 3,117.61 cumulative cases of COVID-19 per 100,000 population with a total of 521,101 cumulative deaths or a rate 37.76 cumulative deaths per 100,000 population; as of 29 March 2022, 70.68% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 168,403,240 tons (2001 est.)<br>

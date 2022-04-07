@@ -74,7 +74,7 @@ Timor comes from the Malay word for "east"; the island of Timor is part of the M
 ## People and Society
 
 **Population**<br>
-1,413,958 (July 2021 est.)<br>
+1,445,006 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Timorese<br>
@@ -112,7 +112,7 @@ _male_: 18.9 years<br>
 _female_: 20.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.19% (2021 est.)<br>
+2.15% (2022 est.)<br>
 
 **Birth rate**<br>
 30.94 births/1,000 population (2022 est.)<br>
@@ -121,7 +121,7 @@ _female_: 20.2 years (2020 est.)<br>
 5.61 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--3.84 migrant(s)/1,000 population (2021 est.)<br>
+-3.82 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population concentrated in the western third of the country, particularly around Dili<br>
@@ -137,10 +137,10 @@ _rate of urbanization_: 3.31% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.92 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.94 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.93 male(s)/female<br>
+_55-64 years_: 0.9 male(s)/female<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23 years (2016 est.)<br>
@@ -150,17 +150,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 142 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 34.47 deaths/1,000 live births<br>
-_male_: 37.85 deaths/1,000 live births<br>
-_female_: 30.86 deaths/1,000 live births (2021 est.)<br>
+_total_: 33.69 deaths/1,000 live births<br>
+_male_: 36.96 deaths/1,000 live births<br>
+_female_: 30.2 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.62 years<br>
-_male_: 67.94 years<br>
-_female_: 71.41 years (2021 est.)<br>
+_total population_: 69.92 years<br>
+_male_: 68.25 years<br>
+_female_: 71.7 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.32 children born/woman (2021 est.)<br>
+4.21 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 26.1% (2016)<br>
@@ -342,7 +342,7 @@ _subordinate courts_: Court of Appeal; High Administrative, Tax, and Audit Court
 <strong>note:</strong> the UN Justice System Programme, launched in 2003 and being rolled out in 4 phases through 2018, is helping strengthen the country's justice system; the Programme is aligned with the country's long-range Justice Sector Strategic Plan, which includes legal reforms<br>
 
 **Political parties and leaders**<br>
-Alliance for Change and Progress or AMP [Xanana GUSMAO] (collapsed in 2020; alliance included CNRT, KHUNTO, PLP)<br>Democratic Development Forum or DDF<br>Democratic Party or PD [Mariano Assanami SABINO]<br>Frenti-Mudanca [Jose Luis GUTERRES]<br>Kmanek Haburas Unidade Nasional Timor Oan or KHUNTO [Jose do Santos NAIMORI Bucar]<br>National Congress for Timorese Reconstruction or CNRT [Kay Rala Xanana GUSMAO]<br>People's Liberation Party or PLP [Taur Matan RUAK]<br>Revolutionary Front of Independent Timor-Leste or FRETILIN [Mari ALKATIRI]<br>
+Alliance for Change and Progress or AMP [Xanana GUSMAO] (collapsed in 2020; alliance included CNRT, KHUNTO, PLP)<br>Democratic Development Forum or DDF<br>Democratic Party or PD [Mariano Assanami SABINO]<br>Frenti-Mudanca [Jose Luis GUTERRES]<br>Kmanek Haburas Unidade Nasional Timor Oan or KHUNTO [Armanda BERTA DOS SANTOS]<br>National Congress for Timorese Reconstruction or CNRT [Kay Rala Xanana GUSMAO]<br>People's Liberation Party or PLP [Taur Matan RUAK]<br>Revolutionary Front of Independent Timor-Leste or FRETILIN [Mari ALKATIRI]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, ARF, ASEAN (observer), CPLP, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WMO<br>

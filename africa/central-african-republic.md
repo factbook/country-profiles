@@ -82,7 +82,7 @@ landlocked; almost the precise center of Africa<br>
 ## People and Society
 
 **Population**<br>
-5,357,984 (July 2021 est.)<br>
+5,454,533 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -121,7 +121,7 @@ _male_: 19.7 years<br>
 _female_: 20.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.79% (2021 est.)<br>
+1.78% (2022 est.)<br>
 
 **Birth rate**<br>
 32.79 births/1,000 population (2022 est.)<br>
@@ -130,7 +130,7 @@ _female_: 20.3 years (2020 est.)<br>
 11.76 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--3.28 migrant(s)/1,000 population (2021 est.)<br>
+-3.22 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 majority of residents live in the western and central areas of the country, especially in and around the capital of Bangui as shown in this population distribution map<br>
@@ -144,28 +144,28 @@ _rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-24 years_: 1.08 male(s)/female<br>
+_25-54 years_: 0.89 male(s)/female<br>
+_55-64 years_: 1.04 male(s)/female<br>
 _65 years and over_: 0.64 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 829 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 84.22 deaths/1,000 live births<br>
-_male_: 90.39 deaths/1,000 live births<br>
-_female_: 77.86 deaths/1,000 live births (2021 est.)<br>
+_total_: 82.97 deaths/1,000 live births<br>
+_male_: 89.03 deaths/1,000 live births<br>
+_female_: 76.73 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 55.07 years<br>
-_male_: 53.74 years<br>
-_female_: 56.44 years (2021 est.)<br>
+_total population_: 55.52 years<br>
+_male_: 54.19 years<br>
+_female_: 56.88 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.09 children born/woman (2021 est.)<br>
+4.04 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 17.8% (2019)<br>
@@ -211,6 +211,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 7.5% (2016)<br>
@@ -274,6 +275,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _exceptional shortfall in aggregate food production/supplies_: due to conflict and population displacements - ongoing conflicts and population displacements due to armed violence that followed the December 2020 elections, adding to the already high levels of civil insecurity, coupled with restrictive measures to control the COVID‑19 pandemic, are expected to continue affecting agricultural activities and limit farmers&rsquo; access to crop‑growing areas and inputs, with a negative impact on 2021 crop production (2021)<br>

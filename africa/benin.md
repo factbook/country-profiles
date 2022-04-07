@@ -78,7 +78,7 @@ sandbanks create difficult access to a coast with no natural harbors, river mout
 ## People and Society
 
 **Population**<br>
-13,301,694 (July 2021 est.)<br>
+13,754,688 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -116,7 +116,7 @@ _male_: 16.4 years<br>
 _female_: 17.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.36% (2021 est.)<br>
+3.34% (2022 est.)<br>
 
 **Birth rate**<br>
 41.15 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 17.6 years (2020 est.)<br>
 8.01 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.25 migrant(s)/1,000 population (2021 est.)<br>
+0.24 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west at shown in this population distribution map<br>
@@ -140,11 +140,11 @@ _rate of urbanization_: 3.74% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 0.99 male(s)/female<br>
+_15-24 years_: 1 male(s)/female<br>
 _25-54 years_: 0.9 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.84 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.91 male(s)/female<br>
+_65 years and over_: 0.72 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.5 years (2017/18 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 0.97 male(s)/female (2020 est.)<br>
 397 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 57.23 deaths/1,000 live births<br>
-_male_: 62.34 deaths/1,000 live births<br>
-_female_: 51.85 deaths/1,000 live births (2021 est.)<br>
+_total_: 55.76 deaths/1,000 live births<br>
+_male_: 60.79 deaths/1,000 live births<br>
+_female_: 50.48 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 61.82 years<br>
-_male_: 60.02 years<br>
-_female_: 63.71 years (2021 est.)<br>
+_total population_: 62.21 years<br>
+_male_: 60.39 years<br>
+_female_: 64.14 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-5.47 children born/woman (2021 est.)<br>
+5.43 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 15.5% (2017/18)<br>
@@ -209,6 +209,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Benin is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 9.6% (2016)<br>
@@ -276,6 +277,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Benin is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 685,936 tons (1993 est.)<br>

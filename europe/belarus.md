@@ -79,7 +79,7 @@ landlocked; glacial scouring accounts for the flatness of Belarusian terrain and
 ## People and Society
 
 **Population**<br>
-9,441,842 (July 2021 est.)<br>
+9,413,505 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Belarusian(s)<br>
@@ -114,7 +114,7 @@ _male_: 38 years<br>
 _female_: 43.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.29% (2021 est.)<br>
+-0.31% (2022 est.)<br>
 
 **Birth rate**<br>
 9.08 births/1,000 population (2022 est.)<br>
@@ -123,7 +123,7 @@ _female_: 43.9 years (2020 est.)<br>
 12.88 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.72 migrant(s)/1,000 population (2021 est.)<br>
+0.72 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -141,8 +141,8 @@ _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.06 male(s)/female<br>
 _25-54 years_: 0.98 male(s)/female<br>
 _55-64 years_: 0.79 male(s)/female<br>
-_65 years and over_: 0.48 male(s)/female<br>
-_total population_: 0.87 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.35 male(s)/female<br>
+_total population_: 0.87 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.8 years (2019 est.)<br>
@@ -151,17 +151,17 @@ _total population_: 0.87 male(s)/female (2020 est.)<br>
 2 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.31 deaths/1,000 live births<br>
-_male_: 3.76 deaths/1,000 live births<br>
-_female_: 2.83 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.27 deaths/1,000 live births<br>
+_male_: 3.72 deaths/1,000 live births<br>
+_female_: 2.79 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.01 years<br>
-_male_: 68.6 years<br>
-_female_: 79.74 years (2021 est.)<br>
+_total population_: 74.28 years<br>
+_male_: 68.9 years<br>
+_female_: 79.97 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.51 children born/woman (2021 est.)<br>
+1.51 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 71.2% (2017)<br>
@@ -714,7 +714,7 @@ note - conscripts can be assigned to the military, as well as the Ministry of In
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,902 (Ukraine) (as of 29 March 2022)<br>
+_refugees (country of origin)_: 17,317 (Ukraine) (as of 4 April 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

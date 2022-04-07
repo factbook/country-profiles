@@ -75,7 +75,7 @@ world's fourth-largest island; strategic location along Mozambique Channel; desp
 ## People and Society
 
 **Population**<br>
-27,534,354 (July 2021 est.)<br>
+28,172,462 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Malagasy (singular and plural)<br>
@@ -113,7 +113,7 @@ _male_: 20.1 years<br>
 _female_: 20.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.31% (2021 est.)<br>
+2.27% (2022 est.)<br>
 
 **Birth rate**<br>
 28.68 births/1,000 population (2022 est.)<br>
@@ -122,7 +122,7 @@ _female_: 20.5 years (2020 est.)<br>
 6 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline as shown in this population distribution map<br>
@@ -137,11 +137,11 @@ _rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
+_15-24 years_: 1.02 male(s)/female<br>
 _25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.83 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.5 years (2008/09 est.)<br>
@@ -151,17 +151,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 335 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 39.82 deaths/1,000 live births<br>
-_male_: 43.06 deaths/1,000 live births<br>
-_female_: 36.49 deaths/1,000 live births (2021 est.)<br>
+_total_: 39.04 deaths/1,000 live births<br>
+_male_: 42.33 deaths/1,000 live births<br>
+_female_: 35.65 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.86 years<br>
-_male_: 66.54 years<br>
-_female_: 69.22 years (2021 est.)<br>
+_total population_: 68.17 years<br>
+_male_: 66.8 years<br>
+_female_: 69.57 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.7 children born/woman (2021 est.)<br>
+3.62 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 44.4% (2018)<br>
@@ -206,6 +206,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid feve
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Madagascar is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.3% (2016)<br>
@@ -273,6 +274,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid feve
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Madagascar is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to drought in southern areas and limited income-earning opportunities - an estimated 1.14 million people are food insecure in southern and southeastern regions and require urgent humanitarian assistance; the effects of a severe drought on agricultural production in 2021 and the impact of the COVID-19 pandemic, particularly the loss of incomes due to the economic slowdown, are the key drivers of food insecurity (2021)<br>

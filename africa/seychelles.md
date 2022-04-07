@@ -74,7 +74,7 @@ the smallest African country in terms of both area and population; the constitut
 ## People and Society
 
 **Population**<br>
-96,387 (July 2021 est.)<br>
+97,017 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Seychellois (singular and plural)<br>
@@ -111,7 +111,7 @@ _male_: 36.3 years<br>
 _female_: 37.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.67% (2021 est.)<br>
+0.64% (2022 est.)<br>
 
 **Birth rate**<br>
 12.37 births/1,000 population (2022 est.)<br>
@@ -120,7 +120,7 @@ _female_: 37.4 years (2020 est.)<br>
 6.88 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.9 migrant(s)/1,000 population (2021 est.)<br>
+0.86 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 more than three-quarters of the population lives on the main island of Mahe; Praslin contains less than 10%; a smaller percent on La Digue and the outer islands as shown in this population distribution map<br>
@@ -135,24 +135,24 @@ _rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.12 male(s)/female<br>
-_25-54 years_: 1.15 male(s)/female<br>
-_55-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 1.07 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.13 male(s)/female<br>
+_25-54 years_: 1.17 male(s)/female<br>
+_55-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.47 male(s)/female<br>
+_total population_: 1.08 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.83 deaths/1,000 live births<br>
-_male_: 13.64 deaths/1,000 live births<br>
-_female_: 7.93 deaths/1,000 live births (2021 est.)<br>
+_total_: 10.6 deaths/1,000 live births<br>
+_male_: 13.35 deaths/1,000 live births<br>
+_female_: 7.76 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.84 years<br>
-_male_: 71.39 years<br>
-_female_: 80.43 years (2021 est.)<br>
+_total population_: 76.1 years<br>
+_male_: 71.67 years<br>
+_female_: 80.66 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.82 children born/woman (2021 est.)<br>
+1.82 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

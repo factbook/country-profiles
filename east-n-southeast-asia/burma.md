@@ -82,7 +82,7 @@ strategic location near major Indian Ocean shipping lanes; the north-south flowi
 ## People and Society
 
 **Population**<br>
-57,069,099 (July 2021 est.)<br>
+57,526,449 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Burmese (singular and plural)<br>
@@ -123,7 +123,7 @@ _male_: 28.3 years<br>
 _female_: 30 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.81% (2021 est.)<br>
+0.78% (2022 est.)<br>
 
 **Birth rate**<br>
 16.34 births/1,000 population (2022 est.)<br>
@@ -132,7 +132,7 @@ _female_: 30 years (2020 est.)<br>
 7.13 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.38 migrant(s)/1,000 population (2021 est.)<br>
+-1.37 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population concentrated along coastal areas and in general proximity to the shores of the Irrawaddy River; the extreme north is relatively underpopulated<br>
@@ -149,9 +149,9 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.02 male(s)/female<br>
 _25-54 years_: 0.96 male(s)/female<br>
-_55-64 years_: 0.88 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.89 male(s)/female<br>
+_65 years and over_: 0.63 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.7 years (2015/16 est.)<br>
@@ -161,17 +161,17 @@ _total population_: 0.97 male(s)/female (2020 est.)<br>
 250 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 33.71 deaths/1,000 live births<br>
-_male_: 37.04 deaths/1,000 live births<br>
-_female_: 30.17 deaths/1,000 live births (2021 est.)<br>
+_total_: 32.94 deaths/1,000 live births<br>
+_male_: 36.18 deaths/1,000 live births<br>
+_female_: 29.52 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.62 years<br>
-_male_: 67.96 years<br>
-_female_: 71.39 years (2021 est.)<br>
+_total population_: 69.92 years<br>
+_male_: 68.27 years<br>
+_female_: 71.67 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.05 children born/woman (2021 est.)<br>
+2.02 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 52.2% (2015/16)<br>
@@ -371,7 +371,7 @@ _judge selection and term of office_: chief justice and judges nominated by the 
 _subordinate courts_: High Courts of the Region; High Courts of the State; Court of the Self-Administered Division; Court of the Self-Administered Zone; district and township courts; special courts (for juvenile, municipal, and traffic offenses); courts martial<br>
 
 **Political parties and leaders**<br>
-All Mon Region Democracy Party or AMRDP<br>Arakan National Party or ANP (formed from the 2013 merger of the Rakhine Nationalities Development Party and the Arakan League for Democracy)<br>National Democratic Force or NDF [KHIN MAUNG SWE]<br>National League for Democracy or NLD [AUNG SAN SUU KYI]<br>Kayah State Democratic Party or KySDP <br>National Unity Party or NUP [THAN TIN]<br>Pa-O National Organization or PNO [AUNG KHAM HTI]<br>People's Party [KO KO GYI]<br>Shan Nationalities Democratic Party or SNDP [SAI AIK PAUNG]<br>Shan Nationalities League for Democracy or SNLD [KHUN HTUN OO]<br>Ta'ang National Party or TNP [AIK MONE]<br>Union Solidarity and Development Party or USDP [THAN HTAY]<br>Zomi Congress for Democracy or ZCD [PU CIN SIAN THANG]<br>numerous smaller parties<br>
+Arakan National Party or ANP [THAR TUN HLA]<br>Democratic Party or DP [U THU WAI]<br>Kayah State Democratic Party or KySDP <br>Kayin People's Party or KPP [TUN AUNG MYINT]<br>Kokang Democracy and Unity Party or KDUP [LUO XINGGUANG]<br>La Hu National Development Party or LHNDP [KYA HAR SHAL]<br>Lisu National Development Party or LNDP [U ARKI DAW]<br>Mon Unity Party (formed in 2019 from the All Mon Region Democracy Party and Mon National Party)<br>National Democratic Force or NDF [KHIN MAUNG SWE]<br>National League for Democracy or NLD [AUNG SAN SUU KYI]<br>National Unity Party or NUP [U HAN SHWE]<br>Pa-O National Organization or PNO [AUNG KHAM HTI]<br>People's Party [KO KO GYI]<br>Shan Nationalities Democratic Party or SNDP [SAI AI PAO]<br>Shan Nationalities League for Democracy or SNLD [KHUN HTUN OO]<br>Ta'ang National Party or TNP [AIK MONE]<br>Tai-Leng Nationalities Development Party or TNDP [ U SAI HTAY AUNG]<br>Union Solidarity and Development Party or USDP [THAN HTAY]<br>Unity and Democracy Party of Kachin State or UDPKS [U KHAT HTEIN NAN]<br>Wa Democratic Party or WDP [KHUN HTUN LU]<br>Wa National Unity Party or WNUP [NYI PALOTE]<br>Zomi Congress for Democracy or ZCD [PU CIN SIAN THANG]<br>numerous smaller parties<br>
 
 **International organization participation**<br>
 ADB, ARF, ASEAN, BIMSTEC, CP, EAS, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), NAM, OPCW (signatory), SAARC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -706,7 +706,7 @@ _river port(s)_: Rangoon (Yangon) (Rangoon River)<br>
 
 **Military and security forces**<br>
 Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia; Ministry of Home Affairs: People's Police Force; Border Guard Forces/Police (2022)<br>
-note(s) - under the 2008 constitution, the Burmese military controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs<br><br>the armed wing of Burma's pro-democracy movement contains hundreds of local groups of fighters known collectively as the People's Defense Force<br>
+note(s) - under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br><br><br>
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>

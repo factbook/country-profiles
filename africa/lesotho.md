@@ -79,7 +79,7 @@ landlocked, an enclave of (completely surrounded by) South Africa; mountainous, 
 ## People and Society
 
 **Population**<br>
-2,177,740 (July 2021 est.)<br>
+2,193,970 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -117,7 +117,7 @@ _male_: 24.7 years<br>
 _female_: 24.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.73% (2021 est.)<br>
+0.76% (2022 est.)<br>
 
 **Birth rate**<br>
 23.15 births/1,000 population (2022 est.)<br>
@@ -126,7 +126,7 @@ _female_: 24.7 years (2020 est.)<br>
 11.05 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--4.59 migrant(s)/1,000 population (2021 est.)<br>
+-4.55 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 relatively higher population density in the western half of the nation, with the capital of Maseru, and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people as shown in this population distribution map<br>
@@ -141,11 +141,11 @@ _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 0.92 male(s)/female<br>
-_25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 1.15 male(s)/female<br>
-_65 years and over_: 1.07 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.01 male(s)/female<br>
+_25-54 years_: 1.02 male(s)/female<br>
+_55-64 years_: 0.74 male(s)/female<br>
+_65 years and over_: 0.48 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.9 years (2014 est.)<br>
@@ -155,17 +155,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 544 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 50.23 deaths/1,000 live births<br>
-_male_: 55.92 deaths/1,000 live births<br>
-_female_: 44.37 deaths/1,000 live births (2021 est.)<br>
+_total_: 48.44 deaths/1,000 live births<br>
+_male_: 54 deaths/1,000 live births<br>
+_female_: 42.72 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 58.9 years<br>
-_male_: 56.82 years<br>
-_female_: 61.04 years (2021 est.)<br>
+_total population_: 59.57 years<br>
+_male_: 57.57 years<br>
+_female_: 61.64 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.95 children born/woman (2021 est.)<br>
+2.92 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 64.9% (2018)<br>

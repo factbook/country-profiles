@@ -70,7 +70,7 @@ both island groups have fringing reefs; Wallis contains several prominent crater
 ## People and Society
 
 **Population**<br>
-15,851 (July 2021 est.)<br>
+15,891 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Wallisian(s), Futunan(s), or Wallis and Futuna Islanders<br>
@@ -89,8 +89,8 @@ Roman Catholic 99%, other 1%<br>
 _0-14 years_: 20.58% (male 1,702/female 1,561)<br>
 _15-24 years_: 14.72% (male 1,238/female 1,095)<br>
 _25-54 years_: 43.55% (male 3,529/female 3,376)<br>
-_55-64 years_: 9.92% (male 742/female 830)<br>
-_65 years and over_: 11.23% (male 856/female 925) (2020 est.)<br>
+_55-64 years_: 9.99% (male 745/female 842)<br>
+_65 years and over_: 11.73% (male 953/female 911) (2022 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -104,7 +104,7 @@ _male_: 33.1 years<br>
 _female_: 35.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.26% (2021 est.)<br>
+0.25% (2022 est.)<br>
 
 **Birth rate**<br>
 12.27 births/1,000 population (2022 est.)<br>
@@ -113,7 +113,7 @@ _female_: 35.1 years (2020 est.)<br>
 5.79 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--4.16 migrant(s)/1,000 population (2021 est.)<br>
+-3.96 migrant(s)/1,000 population (2022 est.)<br>
 <strong>note:</strong> there has been steady emigration from Wallis and Futuna to New Caledonia<br>
 
 **Urbanization**<br>
@@ -126,24 +126,24 @@ _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.09 male(s)/female<br>
-_15-24 years_: 1.13 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 0.89 male(s)/female<br>
-_65 years and over_: 0.93 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.12 male(s)/female<br>
+_25-54 years_: 1.07 male(s)/female<br>
+_55-64 years_: 0.9 male(s)/female<br>
+_65 years and over_: 0.91 male(s)/female<br>
+_total population_: 1.06 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.06 deaths/1,000 live births<br>
-_male_: 3.99 deaths/1,000 live births<br>
-_female_: 4.14 deaths/1,000 live births (2021 est.)<br>
+_total_: 4 deaths/1,000 live births<br>
+_male_: 3.93 deaths/1,000 live births<br>
+_female_: 4.07 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.45 years<br>
-_male_: 77.44 years<br>
-_female_: 83.61 years (2021 est.)<br>
+_total population_: 80.67 years<br>
+_male_: 77.68 years<br>
+_female_: 83.81 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2021 est.)<br>
+1.71 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

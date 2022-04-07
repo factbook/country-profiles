@@ -75,7 +75,7 @@ earthquakes<br>
 ## People and Society
 
 **Population**<br>
-4,933,674 (July 2021 est.)<br>
+4,935,518 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Georgian(s)<br>
@@ -110,7 +110,7 @@ _male_: 35.9 years<br>
 _female_: 41.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.05% (2021 est.)<br>
+0.03% (2022 est.)<br>
 
 **Birth rate**<br>
 11 births/1,000 population (2022 est.)<br>
@@ -119,7 +119,7 @@ _female_: 41.4 years (2020 est.)<br>
 10.8 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.06 migrant(s)/1,000 population (2021 est.)<br>
+0.06 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 settlement concentrated in the central valley, particularly in the capital city of Tbilisi in the east; smaller urban agglomerations dot the Black Sea coast, with Bat'umi being the largest<br>
@@ -134,12 +134,12 @@ _rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.09 male(s)/female<br>
+_0-14 years_: 1.07 male(s)/female<br>
 _15-24 years_: 1.14 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.79 male(s)/female<br>
-_65 years and over_: 0.65 male(s)/female<br>
-_total population_: 0.92 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.98 male(s)/female<br>
+_55-64 years_: 0.78 male(s)/female<br>
+_65 years and over_: 0.54 male(s)/female<br>
+_total population_: 0.92 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.9 years (2019 est.)<br>
@@ -149,17 +149,17 @@ _total population_: 0.92 male(s)/female (2020 est.)<br>
 25 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.1 deaths/1,000 live births<br>
-_male_: 17.26 deaths/1,000 live births<br>
-_female_: 12.83 deaths/1,000 live births (2021 est.)<br>
+_total_: 14.77 deaths/1,000 live births<br>
+_male_: 16.9 deaths/1,000 live births<br>
+_female_: 12.53 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.25 years<br>
-_male_: 73.18 years<br>
-_female_: 81.52 years (2021 est.)<br>
+_total population_: 77.5 years<br>
+_male_: 73.45 years<br>
+_female_: 81.74 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.75 children born/woman (2021 est.)<br>
+1.75 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 40.6% (2018)<br>

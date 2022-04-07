@@ -75,7 +75,7 @@ the third largest island in the Mediterranean Sea (after Sicily and Sardinia); s
 ## People and Society
 
 **Population**<br>
-1,281,506 (July 2021 est.)<br>
+152,379 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Cypriot(s)<br>
@@ -113,7 +113,7 @@ _male_: 36.7 years<br>
 _female_: 39.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.11% (2021 est.)<br>
+1.06% (2022 est.)<br>
 
 **Birth rate**<br>
 10.57 births/1,000 population (2022 est.)<br>
@@ -122,7 +122,7 @@ _female_: 39.4 years (2020 est.)<br>
 6.94 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-7.29 migrant(s)/1,000 population (2021 est.)<br>
+6.96 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population concentrated in central Nicosia and in the major cities of the south: Paphos, Limassol, and Larnaca<br>
@@ -136,12 +136,12 @@ _rate of urbanization_: 0.76% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.2 male(s)/female<br>
-_25-54 years_: 1.13 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-24 years_: 1.05 male(s)/female<br>
+_25-54 years_: 1.02 male(s)/female<br>
+_55-64 years_: 0.78 male(s)/female<br>
+_65 years and over_: 0.55 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.2 years (2019 est.)<br>
@@ -151,17 +151,17 @@ _total population_: 1.05 male(s)/female (2020 est.)<br>
 6 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.61 deaths/1,000 live births<br>
-_male_: 10.45 deaths/1,000 live births<br>
-_female_: 6.67 deaths/1,000 live births (2021 est.)<br>
+_total_: 8.36 deaths/1,000 live births<br>
+_male_: 10.22 deaths/1,000 live births<br>
+_female_: 6.41 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.51 years<br>
-_male_: 76.7 years<br>
-_female_: 82.46 years (2021 est.)<br>
+_total population_: 79.74 years<br>
+_male_: 76.93 years<br>
+_female_: 82.68 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.48 children born/woman (2021 est.)<br>
+1.48 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

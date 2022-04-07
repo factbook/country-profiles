@@ -73,7 +73,7 @@ important location between Cuba and Central America<br>
 ## People and Society
 
 **Population**<br>
-63,131 (July 2021 est.)<br>
+64,309 (2022 est.)<br>
 <strong>note:</strong> most of the population lives on Grand Cayman<br>
 
 **Nationality**<br>
@@ -108,7 +108,7 @@ _male_: 39.7 years<br>
 _female_: 41.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.87% (2021 est.)<br>
+1.83% (2022 est.)<br>
 
 **Birth rate**<br>
 11.69 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 41.2 years (2020 est.)<br>
 5.97 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-12.8 migrant(s)/1,000 population (2021 est.)<br>
+12.56 migrant(s)/1,000 population (2022 est.)<br>
 <strong>note:</strong> major destination for Cubans trying to migrate to the US<br>
 
 **Population distribution**<br>
@@ -135,22 +135,22 @@ _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-24 years_: 1 male(s)/female<br>
 _25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.84 deaths/1,000 live births<br>
-_male_: 9.49 deaths/1,000 live births<br>
-_female_: 6.16 deaths/1,000 live births (2021 est.)<br>
+_total_: 7.65 deaths/1,000 live births<br>
+_male_: 9.26 deaths/1,000 live births<br>
+_female_: 6.01 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.84 years<br>
-_male_: 79.12 years<br>
-_female_: 84.59 years (2021 est.)<br>
+_total population_: 82.04 years<br>
+_male_: 79.35 years<br>
+_female_: 84.79 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.83 children born/woman (2021 est.)<br>
+1.82 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

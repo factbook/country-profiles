@@ -81,7 +81,7 @@ along with Liechtenstein, one of the only two doubly landlocked countries in the
 ## People and Society
 
 **Population**<br>
-30,842,796 (July 2021 est.)<br>
+31,104,937 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Uzbekistani<br>
@@ -117,7 +117,7 @@ _male_: 29.4 years<br>
 _female_: 30.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.86% (2021 est.)<br>
+0.83% (2022 est.)<br>
 
 **Birth rate**<br>
 15.53 births/1,000 population (2022 est.)<br>
@@ -126,7 +126,7 @@ _female_: 30.7 years (2020 est.)<br>
 5.41 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.86 migrant(s)/1,000 population (2021 est.)<br>
+-1.78 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated<br>
@@ -144,8 +144,8 @@ _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.05 male(s)/female<br>
 _25-54 years_: 0.99 male(s)/female<br>
 _55-64 years_: 0.89 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.63 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.7 years (2019 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 0.99 male(s)/female (2020 est.)<br>
 29 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.42 deaths/1,000 live births<br>
-_male_: 23.13 deaths/1,000 live births<br>
-_female_: 15.49 deaths/1,000 live births (2021 est.)<br>
+_total_: 18.98 deaths/1,000 live births<br>
+_male_: 22.6 deaths/1,000 live births<br>
+_female_: 15.14 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.03 years<br>
-_male_: 71.98 years<br>
-_female_: 78.25 years (2021 est.)<br>
+_total population_: 75.29 years<br>
+_male_: 72.27 years<br>
+_female_: 78.5 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.73 children born/woman (2021 est.)<br>
+1.73 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

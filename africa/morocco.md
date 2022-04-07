@@ -82,7 +82,7 @@ strategic location along Strait of Gibraltar; the only African nation to have bo
 ## People and Society
 
 **Population**<br>
-36,561,813 (July 2021 est.)<br>
+36,738,229 (2022 est.)<br>
 <strong>note:</strong> includes Western Sahara<br>
 
 **Nationality**<br>
@@ -126,7 +126,7 @@ _female_: 29.6 years (2020 est.)<br>
 note: does not include data from the former Western Sahara<br>
 
 **Population growth rate**<br>
-0.92% (2021 est.)<br>
+0.91% (2022 est.)<br>
 note: does not include data from the former Western Sahara<br>
 
 **Birth rate**<br>
@@ -138,7 +138,7 @@ note: does not include data from the former Western Sahara<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Net migration rate**<br>
--1.83 migrant(s)/1,000 population (2021 est.)<br>
+-1.74 migrant(s)/1,000 population (2022 est.)<br>
 note: does not include data from the former Western Sahara<br>
 
 **Population distribution**<br>
@@ -156,10 +156,10 @@ _rate of urbanization_: 1.88% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.94 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.98 male(s)/female<br>
+_55-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.81 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Maternal mortality ratio**<br>
@@ -167,19 +167,19 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Infant mortality rate**<br>
-_total_: 19 deaths/1,000 live births<br>
-_male_: 21.27 deaths/1,000 live births<br>
-_female_: 16.62 deaths/1,000 live births (2021 est.)<br>
+_total_: 19.2 deaths/1,000 live births<br>
+_male_: 21.47 deaths/1,000 live births<br>
+_female_: 16.81 deaths/1,000 live births (2022 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.56 years<br>
-_male_: 71.87 years<br>
-_female_: 75.34 years (2021 est.)<br>
+_total population_: 73.68 years<br>
+_male_: 71.98 years<br>
+_female_: 75.46 years (2022 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Total fertility rate**<br>
-2.29 children born/woman (2021 est.)<br>
+2.29 children born/woman (2022 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Contraceptive prevalence rate**<br>
@@ -395,7 +395,7 @@ _subordinate courts_: courts of appeal; High Court of Justice; administrative an
 Action Party or PA [Mohammed EL IDRISSI]<br>Amal (hope) Party [Mohamed BANI]<br>An-Nahj Ad-Dimocrati or An-Nahj or Democratic Way [Mustapha BRAHMA]<br>Authenticity and Modernity Party or PAM [Abdellatif OUAHBI]<br>Constitutional Union Party or UC [Mohamed SAJID]<br>Democratic and Social Movement or MDS [Mahmoud ARCHANE]<br>Democratic Forces Front or FFD [Mustapha BENALI]<br>Democratic Society Party or PSD [Zhour CHAKKAFI]<br>Green Left Party or PGV [Mohamed FARES]<br>Istiqlal (Independence) Party or PI [Nizar BARAKA]<br>National Ittihadi Congress or CNI [Abdesalam EL AZIZ]<br>Moroccan Liberal Party or PML [Isaac CHARIA]<br>Moroccan Union for Democracy or UMD [Jamal MANDRI]<br>National Democratic Party [Abdellah KADIRI]<br>National Rally of Independents or RNI [Aziz AKHANNOUCH]<br>Neo-Democrats Party [Mohamed DARIF]<br>Party of Development Reform or PRD [Abderrahmane EL KOHEN]<br>Party of Justice and Development or PJD [Abdelilah BENKIRANE]<br>Party of Liberty and Social Justice [Miloud MOUSSAOUI]<br>Popular Movement or MP [Mohand LAENSER]<br>Party of Progress and Socialism or PPS [Nabil BENABDELLAH]<br>Renaissance and Virtue Party [Mohamed KHALIDI]<br>Renaissance Party [Said EL GHENNIOUI]<br>Renewal and Equity Party or PRE [Chakir ACHEHABAR]<br>Shoura (consultation) and Istiqlal Party [Ahmed BELGHAZI]<br>Socialist Union of Popular Forces or USFP [Driss LACHGAR]<br>Unified Socialist Party or GSU [Nabila MOUNIB]<br>Unity and Democracy Party [Ahmed FITRI]<br>
 
 **International organization participation**<br>
-ABEDA, AfDB, AFESD, AMF, AMU, CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNSC (temporary), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ABEDA, AfDB, AFESD, AMF, AMU, AU, CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNSC (temporary), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lalla Joumala ALAOUI (since 24 April 2017)<br>

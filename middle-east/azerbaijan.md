@@ -77,7 +77,7 @@ both the main area of the country and the Naxcivan exclave are landlocked<br>
 ## People and Society
 
 **Population**<br>
-10,282,283 (July 2021 est.)<br>
+10,353,296 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Azerbaijani(s)<br>
@@ -115,7 +115,7 @@ _male_: 31.1 years<br>
 _female_: 34.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.71% (2021 est.)<br>
+0.67% (2022 est.)<br>
 
 **Birth rate**<br>
 13.59 births/1,000 population (2022 est.)<br>
@@ -124,7 +124,7 @@ _female_: 34.2 years (2020 est.)<br>
 6.92 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 highest population density is found in the far eastern area of the country, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population<br>
@@ -139,12 +139,12 @@ _rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.13 male(s)/female<br>
-_15-24 years_: 1.14 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
-_55-64 years_: 0.84 male(s)/female<br>
-_65 years and over_: 0.64 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.11 male(s)/female<br>
+_15-24 years_: 1.15 male(s)/female<br>
+_25-54 years_: 0.99 male(s)/female<br>
+_55-64 years_: 0.82 male(s)/female<br>
+_65 years and over_: 0.49 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24 years (2019 est.)<br>
@@ -153,17 +153,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 26 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.1 deaths/1,000 live births<br>
-_male_: 25.23 deaths/1,000 live births<br>
-_female_: 22.91 deaths/1,000 live births (2021 est.)<br>
+_total_: 23.51 deaths/1,000 live births<br>
+_male_: 24.62 deaths/1,000 live births<br>
+_female_: 22.33 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.88 years<br>
-_male_: 70.79 years<br>
-_female_: 77.15 years (2021 est.)<br>
+_total population_: 74.15 years<br>
+_male_: 71.08 years<br>
+_female_: 77.41 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.87 children born/woman (2021 est.)<br>
+1.86 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 54.9% (2011)<br>

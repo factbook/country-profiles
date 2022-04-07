@@ -83,7 +83,7 @@ landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physic
 ## People and Society
 
 **Population**<br>
-20,308,502 (July 2021 est.)<br>
+20,794,353 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -122,7 +122,7 @@ _male_: 16.7 years<br>
 _female_: 16.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.39% (2021 est.)<br>
+2.34% (2022 est.)<br>
 
 **Birth rate**<br>
 27.94 births/1,000 population (2022 est.)<br>
@@ -131,7 +131,7 @@ _female_: 16.9 years (2020 est.)<br>
 4.58 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population density is highest south of Lake Nyasa as shown in this population distribution map<br>
@@ -146,11 +146,11 @@ _rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 0.99 male(s)/female<br>
-_15-24 years_: 0.98 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_15-24 years_: 0.97 male(s)/female<br>
+_25-54 years_: 0.95 male(s)/female<br>
+_55-64 years_: 0.9 male(s)/female<br>
+_65 years and over_: 0.64 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.1 years (2015/16 est.)<br>
@@ -160,17 +160,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 349 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 34.19 deaths/1,000 live births<br>
-_male_: 38.61 deaths/1,000 live births<br>
-_female_: 29.71 deaths/1,000 live births (2021 est.)<br>
+_total_: 33.43 deaths/1,000 live births<br>
+_male_: 37.86 deaths/1,000 live births<br>
+_female_: 28.93 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.16 years<br>
-_male_: 69.04 years<br>
-_female_: 75.33 years (2021 est.)<br>
+_total population_: 72.44 years<br>
+_male_: 69.33 years<br>
+_female_: 75.59 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.51 children born/woman (2021 est.)<br>
+3.4 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 59.2% (2015/16)<br>
@@ -215,6 +215,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Malawi is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.8% (2016)<br>
@@ -282,6 +283,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Malawi is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to reduced incomes - nationally, cereal production is estimated at a bumper high in 2021, which is expected to result in average to above‑average household cereal supplies and thus improvements in food security; despite the good food supply situation, the effects of the COVID-19 pandemic will continue to curb access to food due to reduced incomes (2021)<br>
@@ -723,5 +725,5 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,843 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,311 (Burundi) (refugees and asylum seekers), 7,460 (Rwanda) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 33/089 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,311 (Burundi) (refugees and asylum seekers), 7,460 (Rwanda) (refugees and asylum seekers) (2022)<br>
 

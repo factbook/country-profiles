@@ -79,7 +79,7 @@ rainfall along the coast can reach 495 cm (195 inches) a year, making it one of 
 ## People and Society
 
 **Population**<br>
-6,807,277 (July 2021 est.)<br>
+8,692,606 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Sierra Leonean(s)<br>
@@ -116,7 +116,7 @@ _male_: 18.5 years<br>
 _female_: 19.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.44% (2021 est.)<br>
+2.49% (2022 est.)<br>
 
 **Birth rate**<br>
 32.2 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 19.7 years (2020 est.)<br>
 9.32 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.96 migrant(s)/1,000 population (2021 est.)<br>
+2.03 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population clusters are found in the lower elevations of the south and west; the northern third of the country is less populated as shown on this population distribution map<br>
@@ -139,12 +139,12 @@ _rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1 male(s)/female<br>
-_15-24 years_: 0.96 male(s)/female<br>
-_25-54 years_: 0.92 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.02 male(s)/female<br>
+_15-24 years_: 0.97 male(s)/female<br>
+_25-54 years_: 0.97 male(s)/female<br>
+_55-64 years_: 1.25 male(s)/female<br>
+_65 years and over_: 0.83 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2019 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 0.95 male(s)/female (2020 est.)<br>
 1,120 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 65.34 deaths/1,000 live births<br>
-_male_: 73.97 deaths/1,000 live births<br>
-_female_: 56.45 deaths/1,000 live births (2021 est.)<br>
+_total_: 73.42 deaths/1,000 live births<br>
+_male_: 78.45 deaths/1,000 live births<br>
+_female_: 68.23 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 60.19 years<br>
-_male_: 57.48 years<br>
-_female_: 62.97 years (2021 est.)<br>
+_total population_: 58.76 years<br>
+_male_: 57.16 years<br>
+_female_: 60.41 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.58 children born/woman (2021 est.)<br>
+3.8 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 21.2% (2019)<br>
@@ -207,6 +207,7 @@ _vectorborne diseases_: malaria and&nbsp;dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sierra Leone is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.7% (2016)<br>
@@ -270,6 +271,7 @@ _vectorborne diseases_: malaria and&nbsp;dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sierra Leone is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to high food prices - about 1.76 million people are estimated to be severely food insecure during the June&minus;August 2021 period on account of high food prices and low purchasing power, resulting in acute constraints on households&rsquo; access to food; the main drivers of the food insecurity are the effects of adverse weather events (flooding), Fall Armyworm attacks on maize in some localized areas, high inflation rate, weakening local currency and the effects of the COVID‑19 pandemic restrictions (2021)<br>

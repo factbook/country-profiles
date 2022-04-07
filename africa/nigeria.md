@@ -87,7 +87,7 @@ the Niger River enters the country in the northwest and flows southward through 
 ## People and Society
 
 **Population**<br>
-219,463,862 (July 2021 est.)<br>
+225,082,083 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -126,7 +126,7 @@ _male_: 18.4 years<br>
 _female_: 18.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.53% (2021 est.)<br>
+2.53% (2022 est.)<br>
 
 **Birth rate**<br>
 34.19 births/1,000 population (2022 est.)<br>
@@ -135,7 +135,7 @@ _female_: 18.9 years (2020 est.)<br>
 8.7 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.21 migrant(s)/1,000 population (2021 est.)<br>
+-0.21 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest as shown in this population distribution map<br>
@@ -153,8 +153,8 @@ _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
 _25-54 years_: 1 male(s)/female<br>
 _55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.4 years (2018 est.)<br>
@@ -164,17 +164,17 @@ _total population_: 1.02 male(s)/female (2020 est.)<br>
 917 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 58.23 deaths/1,000 live births<br>
-_male_: 63.67 deaths/1,000 live births<br>
-_female_: 52.46 deaths/1,000 live births (2021 est.)<br>
+_total_: 56.68 deaths/1,000 live births<br>
+_male_: 62.03 deaths/1,000 live births<br>
+_female_: 51.01 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 60.87 years<br>
-_male_: 59.07 years<br>
-_female_: 62.78 years (2021 est.)<br>
+_total population_: 61.33 years<br>
+_male_: 59.51 years<br>
+_female_: 63.27 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.67 children born/woman (2021 est.)<br>
+4.62 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 16.6% (2018)<br>
@@ -218,7 +218,8 @@ _water contact diseases_: leptospirosis and schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note:</strong> on 30 September 2021, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 6 October 2021, Nigeria has reported a total of 206,561 cases of COVID-19 or 100.2 cumulative cases of COVID-19 per 100,000 population with 1.32 cumulative death per 100,000 population; as of 30 September 2021, 2.27% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note 1:</strong> on 30 September 2021, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><br><strong>note 2:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 30 March 2022, Nigeria has reported a total of 255,341 cases of COVID-19 or 123.86 cumulative cases of COVID-19 per 100,000 population with a total of 3,142 cumulative deaths or a rate of 1.52 cumulative death per 100,000 population; as of 29 March 2022, 9.95% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note 3: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.9% (2016)<br>
@@ -288,7 +289,8 @@ _water contact diseases_: leptospirosis and schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note:</strong> on 30 September 2021, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 6 October 2021, Nigeria has reported a total of 206,561 cases of COVID-19 or 100.2 cumulative cases of COVID-19 per 100,000 population with 1.32 cumulative death per 100,000 population; as of 30 September 2021, 2.27% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note 1:</strong> on 30 September 2021, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><br><strong>note 2:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 30 March 2022, Nigeria has reported a total of 255,341 cases of COVID-19 or 123.86 cumulative cases of COVID-19 per 100,000 population with a total of 3,142 cumulative deaths or a rate of 1.52 cumulative death per 100,000 population; as of 29 March 2022, 9.95% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note 3: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to persistent civil conflict in the northern areas - according to the latest analysis, about 12.8 million people are assessed to be in need of humanitarian assistance in the June&minus;August 2021 period as a result of worsening conflict that is driving new population displacements; over 2.8 million people are estimated to be internally displaced in northeastern states of Adamawa, Borno and Yobe, due to communal clashes in northwestern/northcentral zones and natural disasters; the areas inaccessible to humanitarian interventions are facing the worst food insecurity conditions (2021)<br>
@@ -364,13 +366,13 @@ _residency requirement for naturalization_: 15 years<br>
 _chief of state_: President Maj. Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi "Yemi" OSINBAJO (since 29 May 2015); note - the president is both chief of state, head of government, and commander-in-chief of the armed forces<br>
 _head of government_: President Maj.Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi "Yemi" OSINBAJO (since 29 May 2015)<br>
 _cabinet_: Federal Executive Council appointed by the president but constrained constitutionally to include at least one member from each of the 36 states<br>
-_elections/appointments_: president directly elected by qualified majority popular vote and at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term); election last held on 23 February 2019 (next to be held in February 2023); note: the election was scheduled for 16 February 2019, but postponed on 16 February 2019<br>
-_election results_: Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (APC) 53%, Atiku ABUBAKER (PDP) 39%, other 8%<br>
+_elections/appointments_: president directly elected by qualified majority popular vote and at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term); election last held on 23 February 2019 (next to be held on 25 February 2023); note: the election was scheduled for 16 February 2019, but postponed on 16 February 2019<br>
+_election results_: Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (APC) 53%, Atiku ABUBAKAR (PDP) 39%, other 8%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br> House of Representatives (360 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: Senate - last held on 23 February 2019 (next to be held on 23 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019<br> House of Representatives - last held on 23 February 2019 (next to be held on 23 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - APC 65, PDP 39, YPP 1, TBD 3; composition - men 103, women 6, percent of women 5.5%<br> House of Representatives - percent of vote by party - NA; seats by party - APC 217, PDP 115, other 20, TBD 8; composition - men 346, women 14, percent of women 3.9%; note - total National Assembly percent of women 4.3%<br>
+_description_: bicameral National Assembly consists of:<br>Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (360 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
+_elections_: Senate - last held on 23 February 2019 (next to be held on 25 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019<br>House of Representatives - last held on 23 February 2019 (next to be held on 25 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - APC 65, PDP 39, YPP 1, TBD 3; composition - men 103, women 6, percent of women 5.5%<br>House of Representatives - percent of vote by party - NA; seats by party - APC 217, PDP 115, other 20, TBD 8; composition - men 346, women 14, percent of women 3.9%; note - total National Assembly percent of women 4.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 15 justices)<br>
@@ -378,7 +380,7 @@ _judge selection and term of office_: judges appointed by the president upon the
 _subordinate courts_: Court of Appeal; Federal High Court; High Court of the Federal Capital Territory; Sharia Court of Appeal of the Federal Capital Territory; Customary Court of Appeal of the Federal Capital Territory; state court system similar in structure to federal system<br>
 
 **Political parties and leaders**<br>
-Accord Party or ACC [Mohammad Lawal MALADO]<br>Africa Democratic Congress (ADC) [Ralph Okey NWOSU] <br>All Progressives Congress or APC [Mai Mala BUNI, caretaker]<br>All Progressives Grand Alliance or APGA [Victor Ike OYE]<br>Labor Party or LP [Alhai Abdulkadir ABDULSALAM]<br>Peoples Democratic Party or PDP [Iyourchia AYU]<br>Young Progressive Party or YPP [Olufemi FOLAYAN]<br>
+Accord Party or ACC [Mohammad Lawal MALADO]<br>Africa Democratic Congress (ADC) [Ralph Okey NWOSU] <br>All Progressives Congress or APC [<u>Abdullahi ADAMU</u>]<br>All Progressives Grand Alliance or APGA [Victor Ike OYE]<br>Labor Party or LP [Alhai Abdulkadir ABDULSALAM]<br>Peoples Democratic Party or PDP [Iyourchia AYU]<br>Young Progressive Party or YPP [Olufemi FOLAYAN]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINURSO, MINUSMA, MNJTF, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -643,7 +645,7 @@ _total subscriptions_: 204,228,678 (2020)<br>
 _subscriptions per 100 inhabitants_: 99.07 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: one of the larger telecom markets in Africa subject to sporadic access to electricity and vandalism of infrastructure; most Internet connections are via mobile networks; foreign investment presence, particularly from China; market competition with affordable access; LTE technologies available but GSM is dominate; mobile penetration high due to use of multiple SIM cards and phones; government committed to expanding broadband penetration; operators to deploy fiber optic cable in six geopolitical zones and Lagos; operators invested in base stations to deplete network congestion; submarine cable break in 2020 slowed speeds and interrupted connectivity; importer of phones and broadcast equipment from China (2020)<br>
+_general assessment_: one of the larger telecom markets in Africa subject to sporadic access to electricity and vandalism of infrastructure; most Internet connections are via mobile networks; foreign investment presence, particularly from China; market competition with affordable access; LTE technologies available but GSM is dominant; mobile penetration high due to use of multiple SIM cards and phones; government committed to expanding broadband penetration; operators to deploy fiber optic cable in six geopolitical zones and Lagos; operators invested in base stations to deplete network congestion; submarine cable break in 2020 slowed speeds and interrupted connectivity; importer of phones and broadcast equipment from China; Nigeria concluded its first 5G spectrum auction in 2021 and granted licenses to two firms: MTN Nigeria and Mafab Communications. &nbsp;Construction of 5G infrastructure has not yet been completed. (2020)<br>
 _domestic_: fixed-line subscribership remains less than 1 per 100 persons; mobile-cellular services growing rapidly, in part responding to the shortcomings of the fixed-line network; multiple cellular providers operate nationally with subscribership base over 99 per 100 persons (2020)<br>
 _international_: country code - 234; landing point for the SAT-3/WASC, NCSCS,&nbsp; MainOne, Glo-1 &amp; 2, ACE, and Equiano&nbsp;fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

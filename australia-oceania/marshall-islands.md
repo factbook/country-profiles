@@ -75,7 +75,7 @@ the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein a
 ## People and Society
 
 **Population**<br>
-78,831 (July 2021 est.)<br>
+79,906 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Marshallese (singular and plural)<br>
@@ -111,7 +111,7 @@ _male_: 23.6 years<br>
 _female_: 23.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.37% (2021 est.)<br>
+1.34% (2022 est.)<br>
 
 **Birth rate**<br>
 22 births/1,000 population (2022 est.)<br>
@@ -120,7 +120,7 @@ _female_: 23.9 years (2020 est.)<br>
 4.28 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--4.43 migrant(s)/1,000 population (2021 est.)<br>
+-4.37 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most people live in urban clusters found on many of the country's islands; more than two-thirds of the population lives on the atolls of Majuro and Ebeye<br>
@@ -135,24 +135,24 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.97 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.03 male(s)/female<br>
+_25-54 years_: 1.05 male(s)/female<br>
+_55-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.2 deaths/1,000 live births<br>
-_male_: 25.83 deaths/1,000 live births<br>
-_female_: 18.4 deaths/1,000 live births (2021 est.)<br>
+_total_: 21.66 deaths/1,000 live births<br>
+_male_: 25.19 deaths/1,000 live births<br>
+_female_: 17.96 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.38 years<br>
-_male_: 72.12 years<br>
-_female_: 76.76 years (2021 est.)<br>
+_total population_: 74.65 years<br>
+_male_: 72.4 years<br>
+_female_: 77.01 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.81 children born/woman (2021 est.)<br>
+2.76 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

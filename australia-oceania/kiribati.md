@@ -74,7 +74,7 @@ typhoons can occur any time, but usually November to March; occasional tornadoes
 ## People and Society
 
 **Population**<br>
-113,001 (July 2021 est.)<br>
+114,189 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: I-Kiribati (singular and plural)<br>
@@ -108,7 +108,7 @@ _male_: 24.8 years<br>
 _female_: 26.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.05% (2021 est.)<br>
+1.04% (2022 est.)<br>
 
 **Birth rate**<br>
 20.12 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 26.6 years (2020 est.)<br>
 6.92 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--2.81 migrant(s)/1,000 population (2021 est.)<br>
+-2.8 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 consists of three achipelagos spread out over an area roughly the size of India; the eastern Line Islands and central Phoenix Islands are sparsely populated, but the western Gilbert Islands are some of the most densely settled places on earth, with the main island of South Tarawa boasting a population density similar to Tokyo or Hong Kong<br>
@@ -132,11 +132,11 @@ _rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 0.97 male(s)/female<br>
-_25-54 years_: 0.93 male(s)/female<br>
+_15-24 years_: 0.98 male(s)/female<br>
+_25-54 years_: 0.92 male(s)/female<br>
 _55-64 years_: 0.82 male(s)/female<br>
-_65 years and over_: 0.64 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.46 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.1 years (2009 est.)<br>
@@ -146,17 +146,17 @@ _total population_: 0.94 male(s)/female (2020 est.)<br>
 92 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 33.66 deaths/1,000 live births<br>
-_male_: 35.61 deaths/1,000 live births<br>
-_female_: 31.62 deaths/1,000 live births (2021 est.)<br>
+_total_: 32.93 deaths/1,000 live births<br>
+_male_: 34.88 deaths/1,000 live births<br>
+_female_: 30.87 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.59 years<br>
-_male_: 65 years<br>
-_female_: 70.3 years (2021 est.)<br>
+_total population_: 67.9 years<br>
+_male_: 65.3 years<br>
+_female_: 70.64 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.23 children born/woman (2021 est.)<br>
+2.2 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 33.5% (2018/19)<br>

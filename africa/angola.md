@@ -83,7 +83,7 @@ the province of Cabinda is an exclave, separated from the rest of the country by
 ## People and Society
 
 **Population**<br>
-33,642,646 (July 2021 est.)<br>
+34,795,287 (2022 est.)<br>
 <strong>note:</strong> Angola's national statistical agency projected the country's 2017 population to be 28.4 million<br>
 
 **Nationality**<br>
@@ -121,7 +121,7 @@ _male_: 15.4 years<br>
 _female_: 16.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.38% (2021 est.)<br>
+3.36% (2022 est.)<br>
 
 **Birth rate**<br>
 41.8 births/1,000 population (2022 est.)<br>
@@ -130,7 +130,7 @@ _female_: 16.4 years (2020 est.)<br>
 8.01 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2021 est.)<br>
+-0.19 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda as shown in this population distribution map<br>
@@ -144,12 +144,12 @@ _rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 0.99 male(s)/female<br>
+_0-14 years_: 1 male(s)/female<br>
 _15-24 years_: 0.95 male(s)/female<br>
 _25-54 years_: 0.91 male(s)/female<br>
 _55-64 years_: 0.89 male(s)/female<br>
-_65 years and over_: 0.72 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.59 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2015/16 est.)<br>
@@ -159,17 +159,17 @@ _total population_: 0.95 male(s)/female (2020 est.)<br>
 241 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 60.58 deaths/1,000 live births<br>
-_male_: 65.91 deaths/1,000 live births<br>
-_female_: 55.09 deaths/1,000 live births (2021 est.)<br>
+_total_: 58.86 deaths/1,000 live births<br>
+_male_: 64.11 deaths/1,000 live births<br>
+_female_: 53.46 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 61.71 years<br>
-_male_: 59.66 years<br>
-_female_: 63.81 years (2021 est.)<br>
+_total population_: 62.11 years<br>
+_male_: 60.05 years<br>
+_female_: 64.24 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-5.9 children born/woman (2021 est.)<br>
+5.83 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 13.7% (2015/16)<br>

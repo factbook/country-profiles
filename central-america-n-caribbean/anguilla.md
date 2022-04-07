@@ -73,7 +73,7 @@ the most northerly of the Leeward Islands in the Lesser Antilles<br>
 ## People and Society
 
 **Population**<br>
-18,403 (July 2021 est.)<br>
+18,741 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Anguillan(s)<br>
@@ -108,7 +108,7 @@ _male_: 33.7 years<br>
 _female_: 37.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.84% (2021 est.)<br>
+1.8% (2022 est.)<br>
 
 **Birth rate**<br>
 12.01 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 37.6 years (2020 est.)<br>
 4.64 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-10.87 migrant(s)/1,000 population (2021 est.)<br>
+10.67 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in The Valley in the center of the island; settlmement is fairly uniform in the southwest, but rather sparce in the northeast<br>
@@ -131,25 +131,25 @@ _rate of urbanization_: 0.47% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.04 male(s)/female<br>
+_0-14 years_: 1.03 male(s)/female<br>
 _15-24 years_: 1.02 male(s)/female<br>
-_25-54 years_: 0.81 male(s)/female<br>
-_55-64 years_: 0.79 male(s)/female<br>
-_65 years and over_: 0.98 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.82 male(s)/female<br>
+_55-64 years_: 0.77 male(s)/female<br>
+_65 years and over_: 0.88 male(s)/female<br>
+_total population_: 0.89 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.11 deaths/1,000 live births<br>
-_male_: 4.07 deaths/1,000 live births<br>
-_female_: 2.13 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.07 deaths/1,000 live births<br>
+_male_: 4.01 deaths/1,000 live births<br>
+_female_: 2.1 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82 years<br>
-_male_: 79.37 years<br>
-_female_: 84.7 years (2021 est.)<br>
+_total population_: 82.2 years<br>
+_male_: 79.59 years<br>
+_female_: 84.89 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.72 children born/woman (2021 est.)<br>
+1.72 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

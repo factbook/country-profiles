@@ -85,7 +85,7 @@ second-smallest South American country (after Suriname); most of the low-lying l
 ## People and Society
 
 **Population**<br>
-3,398,239 (July 2021 est.)<br>
+3,407,213 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Uruguayan(s)<br>
@@ -124,7 +124,7 @@ _male_: 33.8 years<br>
 _female_: 37.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.26% (2021 est.)<br>
+0.27% (2022 est.)<br>
 
 **Birth rate**<br>
 12.71 births/1,000 population (2022 est.)<br>
@@ -133,7 +133,7 @@ _female_: 37.3 years (2020 est.)<br>
 9.18 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.88 migrant(s)/1,000 population (2021 est.)<br>
+-0.88 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo<br>
@@ -150,25 +150,25 @@ _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
 _25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.89 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.9 male(s)/female<br>
+_65 years and over_: 0.55 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 17 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.48 deaths/1,000 live births<br>
-_male_: 9.65 deaths/1,000 live births<br>
-_female_: 7.27 deaths/1,000 live births (2021 est.)<br>
+_total_: 8.31 deaths/1,000 live births<br>
+_male_: 9.46 deaths/1,000 live births<br>
+_female_: 7.12 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.19 years<br>
-_male_: 75.06 years<br>
-_female_: 81.42 years (2021 est.)<br>
+_total population_: 78.43 years<br>
+_male_: 75.32 years<br>
+_female_: 81.64 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.76 children born/woman (2021 est.)<br>
+1.76 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 79.6% (2015)<br>
@@ -345,7 +345,7 @@ _elections/appointments_: president and vice president directly elected on the s
 _election results_: <br><em>2019:</em> Luis Alberto LACALLE POU elected president - results of the first round of presidential elections: percent of vote - Daniel MARTINEZ (FA) 40.7%, Luis Alberto LACALLE POU (Blanco) 29.7%, Ernesto TALVI (Colorado Party) 12.8%, and Guido MANINI RIOS (Open Cabildo) 11.3%, other 5.5%; results of the second round: percent of vote - Luis Alberto LACALLE POU (Blanco) 50.6%, Daniel MARTINEZ (FA) 49.4%<br><br><em>2014:</em> Tabare VAZQUEZ elected president in second round; percent of vote - Tabare VAZQUEZ (Socialist Party) 56.5%, Luis Alberto LACALLE Pou (Blanco) 43.4%<br>
 
 **Legislative branch**<br>
-_description_: bicameral General Assembly or Asamblea General consists of:<br>Chamber of Senators or Camara de Senadores (30 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)<br>Chamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
+_description_: bicameral General Assembly or Asamblea General consists of:<br>Chamber of Senators or Camara de Senadores (30 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)<br>Chamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 5-year terms)<br>
 _elections_: <br>Chamber of Senators - last held on 27 October 2019 (next to be held in October 2024) <br>Chamber of Representatives - last held on 27 October 2019 (next to be held in October 2024)<br>
 _election results_: <br>Chamber of Senators - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3; composition - men 21, women 9, percent of women 30%<br><br>Chamber of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2; composition - men 75, women 24, percent of women 24.2%; note - total General Assembly percent of women 25.6%<br>
 

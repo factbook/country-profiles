@@ -76,7 +76,7 @@ about two-thirds mountains; some 50,000 islands off its much-indented coastline;
 ## People and Society
 
 **Population**<br>
-5,509,591 (July 2021 est.)<br>
+5,553,840 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Norwegian(s)<br>
@@ -112,7 +112,7 @@ _male_: 38.8 years<br>
 _female_: 40.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.8% (2021 est.)<br>
+0.8% (2022 est.)<br>
 
 **Birth rate**<br>
 12 births/1,000 population (2022 est.)<br>
@@ -121,7 +121,7 @@ _female_: 40.2 years (2020 est.)<br>
 7.96 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-3.95 migrant(s)/1,000 population (2021 est.)<br>
+3.92 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
@@ -139,9 +139,9 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.05 male(s)/female<br>
 _25-54 years_: 1.07 male(s)/female<br>
-_55-64 years_: 1.03 male(s)/female<br>
-_65 years and over_: 0.87 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2020 est.)<br>
+_55-64 years_: 1.04 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.7 years (2019 est.)<br>
@@ -151,17 +151,17 @@ _total population_: 1.02 male(s)/female (2020 est.)<br>
 2 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.34 deaths/1,000 live births<br>
-_male_: 2.68 deaths/1,000 live births<br>
-_female_: 1.98 deaths/1,000 live births (2021 est.)<br>
+_total_: 2.31 deaths/1,000 live births<br>
+_male_: 2.65 deaths/1,000 live births<br>
+_female_: 1.96 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.35 years<br>
-_male_: 80.21 years<br>
-_female_: 84.6 years (2021 est.)<br>
+_total population_: 82.55 years<br>
+_male_: 80.42 years<br>
+_female_: 84.79 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.84 children born/woman (2021 est.)<br>
+1.83 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

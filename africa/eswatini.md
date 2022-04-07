@@ -73,7 +73,7 @@ landlocked; almost completely surrounded by South Africa<br>
 ## People and Society
 
 **Population**<br>
-1,113,276 (July 2021 est.)<br>
+1,121,761 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -111,7 +111,7 @@ _male_: 22.5 years<br>
 _female_: 24.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.77% (2021 est.)<br>
+0.75% (2022 est.)<br>
 
 **Birth rate**<br>
 23.35 births/1,000 population (2022 est.)<br>
@@ -120,7 +120,7 @@ _female_: 24.7 years (2020 est.)<br>
 9.71 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--6.26 migrant(s)/1,000 population (2021 est.)<br>
+-6.16 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 because of its mountainous terrain, the population distribution is uneven throughout the country, concentrating primarily in valleys and plains as shown in this population distribution map<br>
@@ -135,27 +135,27 @@ _rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1 male(s)/female<br>
-_15-24 years_: 0.9 male(s)/female<br>
+_15-24 years_: 0.91 male(s)/female<br>
 _25-54 years_: 0.87 male(s)/female<br>
-_55-64 years_: 0.74 male(s)/female<br>
-_65 years and over_: 0.6 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.73 male(s)/female<br>
+_65 years and over_: 0.48 male(s)/female<br>
+_total population_: 0.9 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 437 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 41.2 deaths/1,000 live births<br>
-_male_: 45.57 deaths/1,000 live births<br>
-_female_: 36.7 deaths/1,000 live births (2021 est.)<br>
+_total_: 39.63 deaths/1,000 live births<br>
+_male_: 43.89 deaths/1,000 live births<br>
+_female_: 35.25 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.13 years<br>
-_male_: 57.05 years<br>
-_female_: 61.28 years (2021 est.)<br>
+_total population_: 59.69 years<br>
+_male_: 57.62 years<br>
+_female_: 61.81 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.48 children born/woman (2021 est.)<br>
+2.44 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.1% (2014)<br>
@@ -612,8 +612,8 @@ _international_: country code - 268; satellite earth station - 1 Intelsat (Atlan
 .sz<br>
 
 **Internet users**<br>
-_total_: 548,100 (2021 est.)<br>
-_percent of population_: 47% (2019 est.)<br>
+_total_: 553,900 (2022 est.)<br>
+_percent of population_: 47% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 8,000 (2017 est.)<br>

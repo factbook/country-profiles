@@ -89,7 +89,7 @@ one-third of the population lives in Buenos Aires; pockets of agglomeration occu
 ## People and Society
 
 **Population**<br>
-45,864,941 (July 2021 est.)<br>
+46,245,668 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Argentine(s)<br>
@@ -127,7 +127,7 @@ _male_: 31.1 years<br>
 _female_: 33.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.84% (2021 est.)<br>
+0.82% (2022 est.)<br>
 
 **Birth rate**<br>
 15.58 births/1,000 population (2022 est.)<br>
@@ -136,7 +136,7 @@ _female_: 33.6 years (2020 est.)<br>
 7.32 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.08 migrant(s)/1,000 population (2021 est.)<br>
+-0.08 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
@@ -151,27 +151,27 @@ _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
+_15-24 years_: 1.06 male(s)/female<br>
 _25-54 years_: 1 male(s)/female<br>
 _55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.57 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 39 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.55 deaths/1,000 live births<br>
-_male_: 10.57 deaths/1,000 live births<br>
-_female_: 8.46 deaths/1,000 live births (2021 est.)<br>
+_total_: 9.35 deaths/1,000 live births<br>
+_male_: 10.35 deaths/1,000 live births<br>
+_female_: 8.28 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.07 years<br>
-_male_: 74.97 years<br>
-_female_: 81.36 years (2021 est.)<br>
+_total population_: 78.31 years<br>
+_male_: 75.23 years<br>
+_female_: 81.59 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.2 children born/woman (2021 est.)<br>
+2.18 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 81.3% (2013)<br>
@@ -212,7 +212,7 @@ _unimproved: total_: total: NA (2020 est.)<br>
 1,400 (2020 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 6 October 2021, Argentina has reported a total of 5,260,719 cases of COVID-19 or 11,639.85 cumulative cases of COVID-19 per 100,000 population with 255.07 cumulative deaths per 100,000 population; as of 5 October 2021, 50.49% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 30 March 2022, Argentina has reported a total of 9,028,730 cases of COVID-19 or 19,976.93 cumulative cases of COVID-19 per 100,000 population with a total of 127,943 cumulative deaths or 283.08 cumulative deaths per 100,000 population; as of 29 March 2022, 89.69% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
@@ -275,7 +275,7 @@ _forest revenues_: 0.09% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 6 October 2021, Argentina has reported a total of 5,260,719 cases of COVID-19 or 11,639.85 cumulative cases of COVID-19 per 100,000 population with 255.07 cumulative deaths per 100,000 population; as of 5 October 2021, 50.49% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 30 March 2022, Argentina has reported a total of 9,028,730 cases of COVID-19 or 19,976.93 cumulative cases of COVID-19 per 100,000 population with a total of 127,943 cumulative deaths or 283.08 cumulative deaths per 100,000 population; as of 29 March 2022, 89.69% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17,910,550 tons (2014 est.)<br>

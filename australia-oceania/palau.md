@@ -74,7 +74,7 @@ westernmost archipelago in the Caroline chain, consists of six island groups tot
 ## People and Society
 
 **Population**<br>
-21,613 (July 2021 est.)<br>
+21,695 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Palauan(s)<br>
@@ -109,7 +109,7 @@ _male_: 32.9 years<br>
 _female_: 35.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.38% (2021 est.)<br>
+0.39% (2022 est.)<br>
 
 **Birth rate**<br>
 11.52 births/1,000 population (2022 est.)<br>
@@ -118,7 +118,7 @@ _female_: 35.9 years (2020 est.)<br>
 8.25 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.51 migrant(s)/1,000 population (2021 est.)<br>
+0.6 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is located on the southern end of the main island of Babelthuap<br>
@@ -133,24 +133,24 @@ _rate of urbanization_: 1.59% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 1.58 male(s)/female<br>
-_55-64 years_: 0.58 male(s)/female<br>
-_65 years and over_: 0.32 male(s)/female<br>
-_total population_: 1.07 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.01 male(s)/female<br>
+_25-54 years_: 1.66 male(s)/female<br>
+_55-64 years_: 0.64 male(s)/female<br>
+_65 years and over_: 0.27 male(s)/female<br>
+_total population_: 1.07 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.52 deaths/1,000 live births<br>
-_male_: 13.53 deaths/1,000 live births<br>
-_female_: 9.39 deaths/1,000 live births (2021 est.)<br>
+_total_: 11.28 deaths/1,000 live births<br>
+_male_: 13.26 deaths/1,000 live births<br>
+_female_: 9.18 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.38 years<br>
-_male_: 71.19 years<br>
-_female_: 77.75 years (2021 est.)<br>
+_total population_: 74.64 years<br>
+_male_: 71.48 years<br>
+_female_: 78 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.7 children born/woman (2021 est.)<br>
+1.7 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

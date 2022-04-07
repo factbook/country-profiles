@@ -72,7 +72,7 @@ easternmost Caribbean island<br>
 ## People and Society
 
 **Population**<br>
-301,865 (July 2021 est.)<br>
+302,674 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Barbadian(s) or Bajan (colloquial)<br>
@@ -106,7 +106,7 @@ _male_: 38.4 years<br>
 _female_: 40.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.28% (2021 est.)<br>
+0.26% (2022 est.)<br>
 
 **Birth rate**<br>
 10.83 births/1,000 population (2022 est.)<br>
@@ -115,7 +115,7 @@ _female_: 40.7 years (2020 est.)<br>
 7.96 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.29 migrant(s)/1,000 population (2021 est.)<br>
+-0.29 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most densely populated country in the eastern Caribbean; approximately one-third live in urban areas<br>
@@ -131,26 +131,26 @@ _rate of urbanization_: 0.46% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.01 male(s)/female<br>
 _0-14 years_: 1 male(s)/female<br>
 _15-24 years_: 0.98 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.91 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.98 male(s)/female<br>
+_55-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.55 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 27 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.23 deaths/1,000 live births<br>
-_male_: 11.84 deaths/1,000 live births<br>
-_female_: 8.6 deaths/1,000 live births (2021 est.)<br>
+_total_: 10 deaths/1,000 live births<br>
+_male_: 11.58 deaths/1,000 live births<br>
+_female_: 8.41 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.31 years<br>
-_male_: 75.54 years<br>
-_female_: 81.13 years (2021 est.)<br>
+_total population_: 78.55 years<br>
+_male_: 75.79 years<br>
+_female_: 81.35 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.7 children born/woman (2021 est.)<br>
+1.7 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 59.2% (2012)<br>

@@ -76,7 +76,7 @@ most of the country is composed of fertile low-lying plains with some hills in t
 ## People and Society
 
 **Population**<br>
-1,862,687 (July 2021 est.)<br>
+1,842,226 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Latvian(s)<br>
@@ -111,7 +111,7 @@ _male_: 40.5 years<br>
 _female_: 48 years (2020 est.)<br>
 
 **Population growth rate**<br>
--1.1% (2021 est.)<br>
+-1.11% (2022 est.)<br>
 
 **Birth rate**<br>
 8.73 births/1,000 population (2022 est.)<br>
@@ -120,7 +120,7 @@ _female_: 48 years (2020 est.)<br>
 14.65 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--5.32 migrant(s)/1,000 population (2021 est.)<br>
+-5.19 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 largest concentration of people is found in and around the port and capital city of Riga; small agglomerations are scattered throughout the country<br>
@@ -135,11 +135,11 @@ _rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.82 male(s)/female<br>
-_65 years and over_: 0.5 male(s)/female<br>
-_total population_: 0.86 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.06 male(s)/female<br>
+_25-54 years_: 1.02 male(s)/female<br>
+_55-64 years_: 0.84 male(s)/female<br>
+_65 years and over_: 0.36 male(s)/female<br>
+_total population_: 0.86 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.3 years (2019 est.)<br>
@@ -148,17 +148,17 @@ _total population_: 0.86 male(s)/female (2020 est.)<br>
 19 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.93 deaths/1,000 live births<br>
-_male_: 5.34 deaths/1,000 live births<br>
-_female_: 4.5 deaths/1,000 live births (2021 est.)<br>
+_total_: 4.85 deaths/1,000 live births<br>
+_male_: 5.27 deaths/1,000 live births<br>
+_female_: 4.42 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.65 years<br>
-_male_: 71.19 years<br>
-_female_: 80.33 years (2021 est.)<br>
+_total population_: 75.91 years<br>
+_male_: 71.47 years<br>
+_female_: 80.56 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.54 children born/woman (2021 est.)<br>
+1.54 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

@@ -85,7 +85,7 @@ landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Ka
 ## People and Society
 
 **Population**<br>
-19,077,816 (July 2021 est.)<br>
+19,642,123 (2022 est.)<br>
 <strong>note: </strong>estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -124,7 +124,7 @@ _male_: 16.7 years<br>
 _female_: 17 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.93% (2021 est.)<br>
+2.9% (2022 est.)<br>
 
 **Birth rate**<br>
 34.86 births/1,000 population (2022 est.)<br>
@@ -133,7 +133,7 @@ _female_: 17 years (2020 est.)<br>
 6.12 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.33 migrant(s)/1,000 population (2021 est.)<br>
+0.24 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira as shown in this population distribution map<br>
@@ -147,12 +147,12 @@ _rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
+_0-14 years_: 1.02 male(s)/female<br>
+_15-24 years_: 1.01 male(s)/female<br>
 _25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.87 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.9 male(s)/female<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.2 years (2018 est.)<br>
@@ -162,17 +162,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 213 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 37.91 deaths/1,000 live births<br>
-_male_: 41.44 deaths/1,000 live births<br>
-_female_: 34.27 deaths/1,000 live births (2021 est.)<br>
+_total_: 37.11 deaths/1,000 live births<br>
+_male_: 40.57 deaths/1,000 live births<br>
+_female_: 33.55 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.92 years<br>
-_male_: 64.15 years<br>
-_female_: 67.75 years (2021 est.)<br>
+_total population_: 66.26 years<br>
+_male_: 64.52 years<br>
+_female_: 68.06 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.63 children born/woman (2021 est.)<br>
+4.56 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49.6% (2018)<br>
@@ -735,7 +735,7 @@ the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era arm
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 65,455 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,234 (Burundi) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 66,027 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,234 (Burundi) (refugees and asylum seekers) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>

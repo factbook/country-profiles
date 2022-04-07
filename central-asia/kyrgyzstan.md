@@ -5,7 +5,7 @@ _Central Asia / Countries_
 ## Introduction
 
 **Background**<br>
-A Central Asian country of incredible natural beauty and proud nomadic traditions, most of the territory of present-day Kyrgyzstan was formally annexed by the Russian Empire in 1876. The Kyrgyz staged a major revolt against the Tsarist Empire in 1916 in which almost one-sixth of the Kyrgyz population was killed. Kyrgyzstan became a Soviet republic in 1926 and achieved independence in 1991 when the USSR dissolved. Nationwide demonstrations in 2005 and 2010 resulted in the ouster of the country’s first two presidents, Askar AKAEV and Kurmanbek BAKIEV. Interim President Roza OTUNBAEVA led a transitional government and following a nation-wide election, President Almazbek ATAMBAEV was sworn in as president in 2011. In 2017, ATAMBAEV became the first Kyrgyzstani president to step down after serving one full six-year term as required in the country’s constitution. Former prime minister and ruling Social-Democratic Party of Kyrgyzstan member Sooronbay JEENBEKOV replaced him after winning the 2017 presidential election that was the most competitive in the country’s history, although international and local election observers noted cases of vote buying and abuse of public resources. In October 2020, protests against legislative election results spread across Kyrgyzstan, leading to JEENBEKOV’s resignation from the presidency, and catapulting previously imprisoned Sadyr JAPAROV to acting president. In January 2021, Kyrgyzstanis formerly elected JAPAROV as president and approved a referendum to move Kyrgyzstan from a parliamentary to a presidential system. In April 2021, Kyrgyzstanis voted in favor of draft constitutional changes that consolidated power in the presidency. Preliminary results from the legislative election in November 2021 suggest that pro-government parties will hold a majority in the Jogorku Kengesh (Kyrgyzstan’s legislature). Continuing concerns for Kyrgyzstan include the trajectory of democratization, endemic corruption, a history of tense, and at times violent, interethnic relations, border security vulnerabilities, and potential terrorist threats. <p> </p><br>
+<p>A Central Asian country of incredible natural beauty and proud nomadic traditions, most of the territory of present-day Kyrgyzstan was formally annexed by the Russian Empire in 1876. The Kyrgyz staged a major revolt against the Tsarist Empire in 1916 in which almost one-sixth of the Kyrgyz population was killed. Kyrgyzstan became a Soviet republic in 1926 and achieved independence in 1991 when the USSR dissolved. Nationwide demonstrations in 2005 and 2010 resulted in the ouster of the country’s first two presidents, Askar AKAEV and Kurmanbek BAKIEV. Interim President Roza OTUNBAEVA led a transitional government and following a nation-wide election, President Almazbek ATAMBAEV was sworn in as president in 2011. In 2017, ATAMBAEV became the first Kyrgyzstani president to step down after serving one full six-year term as required in the country’s constitution. Former prime minister and ruling Social-Democratic Party of Kyrgyzstan member Sooronbay JEENBEKOV replaced him after winning the 2017 presidential election that was the most competitive in the country’s history, although international and local election observers noted cases of vote buying and abuse of public resources. In October 2020, protests against legislative election results spread across Kyrgyzstan, leading to JEENBEKOV’s resignation from the presidency, and catapulting previously imprisoned Sadyr JAPAROV to acting president. In January 2021, Kyrgyzstanis formerly elected JAPAROV as president and approved a referendum to move Kyrgyzstan from a parliamentary to a presidential system. In April 2021, Kyrgyzstanis voted in favor of draft constitutional changes that consolidated power in the presidency. Pro-government parties won a majority in the Jogorku Kenesh (Kyrgyzstan’s legislature) in November 2021 elections. Continuing concerns for Kyrgyzstan include the trajectory of democratization, endemic corruption, a history of tense, and at times violent, interethnic relations, border security vulnerabilities, and potential terrorist threats.</p><br>
 
 ## Geography
 
@@ -82,7 +82,7 @@ landlocked; entirely mountainous, dominated by the Tien Shan range; 94% of the c
 ## People and Society
 
 **Population**<br>
-6,018,789 (July 2021 est.)<br>
+6,071,750 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Kyrgyzstani(s)<br>
@@ -117,7 +117,7 @@ _male_: 26.1 years<br>
 _female_: 28.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.9% (2021 est.)<br>
+0.86% (2022 est.)<br>
 
 **Birth rate**<br>
 19.54 births/1,000 population (2022 est.)<br>
@@ -126,7 +126,7 @@ _female_: 28.5 years (2020 est.)<br>
 6.12 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--4.91 migrant(s)/1,000 population (2021 est.)<br>
+-4.87 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains<br>
@@ -140,12 +140,12 @@ _rate of urbanization_: 2.05% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
+_0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
+_25-54 years_: 0.96 male(s)/female<br>
 _55-64 years_: 0.78 male(s)/female<br>
-_65 years and over_: 0.62 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.5 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.6 years (2019 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 0.96 male(s)/female (2020 est.)<br>
 60 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 26.26 deaths/1,000 live births<br>
-_male_: 30.49 deaths/1,000 live births<br>
-_female_: 21.75 deaths/1,000 live births (2021 est.)<br>
+_total_: 25.66 deaths/1,000 live births<br>
+_male_: 29.83 deaths/1,000 live births<br>
+_female_: 21.22 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.07 years<br>
-_male_: 67.97 years<br>
-_female_: 76.45 years (2021 est.)<br>
+_total population_: 72.35 years<br>
+_male_: 68.27 years<br>
+_female_: 76.71 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.52 children born/woman (2021 est.)<br>
+2.5 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 39.4% (2018)<br>
@@ -339,9 +339,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV 79.5%, Adakhan MADUMAROV 6.5%, other 14%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Supreme Council or Jogorku Kengesh (90 seats; 54 seats allocated for proportional division among political party lists from the national vote and 36 seats allocated for candidates running in single-mandate constituencies; members serve 5-year terms; parties must receive 5% of the vote to win seats in the legislature)<br>
+_description_: unicameral Supreme Council or Jogorku Kenesh (90 seats; 54 seats allocated for proportional division among political party lists from the national vote and 36 seats allocated for candidates running in single-mandate constituencies; members serve 5-year terms; parties must receive 5% of the vote to win seats in the legislature)<br>
 _elections_: last held on 28 November 2021 (next to be held NA)<br>
-_election results_: percent of vote by party - NA; seats by party - NA<br>
+_election results_: percent of vote by party - Ata-Jurt Kyrgyzstan 19.1%, Ishenim 15%, Yntymak 12.1%, Alliance 9.2%, Butun Kyrgyzstan 7.8%, Yiman Nuru 6.8%, other 30%; seats by party - Ata-Jurt Kyrgyzstan 15, Ishenim 12, Yntymak 9, Alliance 7, Butun Kyrgyzstan 6, Yiman Nuru 5, other 36<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 25 judges); Constitutional Chamber of the Supreme Court (consists of the chairperson, deputy chairperson, and 9 judges)<br>
@@ -363,7 +363,7 @@ _email address and website_: <br>kgembassy.usa@mfa.gov.kg; kgconsulate.washingto
 _honorary consulate(s)_: Maple Valley (WA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Alan MELTZER (July 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Sonata COULTER (September 2021)<br>
 _embassy_: 171 Prospect Mira, Bishkek 720016<br>
 _mailing address_: 7040 Bishkek Place, Washington DC&nbsp; 20521-7040<br>
 _telephone_: [996] (312) 597-000<br>

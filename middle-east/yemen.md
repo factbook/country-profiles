@@ -77,7 +77,7 @@ strategic location on Bab el Mandeb, the strait linking the Red Sea and the Gulf
 ## People and Society
 
 **Population**<br>
-30,399,243 (July 2021 est.)<br>
+30,984,689 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Yemeni(s)<br>
@@ -112,7 +112,7 @@ _male_: 19.6 years<br>
 _female_: 19.9 years<br>
 
 **Population growth rate**<br>
-1.93% (2021 est.)<br>
+1.88% (2022 est.)<br>
 
 **Birth rate**<br>
 24.64 births/1,000 population (2022 est.)<br>
@@ -121,7 +121,7 @@ _female_: 19.9 years<br>
 5.62 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.19 migrant(s)/1,000 population (2021 est.)<br>
+-0.19 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the population is found in the Asir Mountains (part of the larger Sarawat Mountain system), located in the far western region of the country<br>
@@ -137,10 +137,10 @@ _rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
+_25-54 years_: 1.04 male(s)/female<br>
 _55-64 years_: 0.84 male(s)/female<br>
-_65 years and over_: 0.84 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2018 est.)<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.8 years (2013 est.)<br>
@@ -150,17 +150,17 @@ _total population_: 1.02 male(s)/female (2018 est.)<br>
 164 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 47.56 deaths/1,000 live births<br>
-_male_: 52.95 deaths/1,000 live births<br>
-_female_: 41.91 deaths/1,000 live births (2021 est.)<br>
+_total_: 46.54 deaths/1,000 live births<br>
+_male_: 51.9 deaths/1,000 live births<br>
+_female_: 40.92 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.18 years<br>
-_male_: 64.89 years<br>
-_female_: 69.59 years (2021 est.)<br>
+_total population_: 67.51 years<br>
+_male_: 65.19 years<br>
+_female_: 69.94 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.1 children born/woman (2021 est.)<br>
+3.01 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 33.5% (2013)<br>
@@ -204,6 +204,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Yemen is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 17.1% (2016)<br>
@@ -270,6 +271,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Yemen is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to conflict, poverty, floods, high food and fuel prices - between January and June 2021, the number of food insecure was projected to increase by nearly 3 million to 16.2 million people; out of these, an estimated 11 million people will likely be in "Crisis," 5 million in "Emergency," and the number of those in "Catastrophe" will likely increase to 47,000; economic conditions in the country remain dire; the conflict is further hampering the already constrained livelihood activities and humanitarian access; income earning opportunities have declined due to COVID‑19‑related business disruptions (2021)<br>
@@ -690,7 +692,7 @@ the inventory of the Yemeni Government forces consists primarily of Russian and 
 18 is the legal minimum age for voluntary military service; conscription abolished in 2001; 2-year service obligation (note - limited information since the start of the civil war) (2021)<br>
 
 **Military - note**<br>
-<p>in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in support of the Republic of Yemen Government (ROYG) against the separatist Huthis; as of late 2022, the conflict had become largely stalemated, but the coalition (consisting largely of Saudi forces), ROYG forces, and the Huthis continued to engage in fighting, mostly with air and missile forces, although heavy ground fighting was also taking place over the key oil-rich province of Marib; the Saudis have conducted numerous air strikes in northern Yemen, while the Huthis have launched attacks into Saudi territory with ballistic missiles and unmanned aerial vehicles armed with explosives; Saudi Arabia also has raised and equipped paramilitary/militia security forces in Yemen based largely on tribal or regional affiliation to deploy along the Saudi-Yemen border, especially the areas bordering the governorates of Saada and Al-Jawf; as of early 2022, the Saudi-led coalition controlled Yemen’s airspace and the port of Hodeida</p> <p>the United Arab Emirates (UAE) intervened in Yemen in 2015 as part of the Saudi-led coalition with about 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary units</p><br>
+<p>in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in support of the Republic of Yemen Government (ROYG) against the separatist Huthis; as of early 2022, the conflict had become largely stalemated, but the coalition (consisting largely of Saudi forces), ROYG forces, and the Huthis continued to engage in fighting, mostly with air and missile forces, although heavy ground fighting was also taking place over the key oil-rich province of Marib; the Saudis have conducted numerous air strikes in northern Yemen, while the Huthis have launched attacks into Saudi territory with ballistic missiles and unmanned aerial vehicles armed with explosives; Saudi Arabia also has raised and equipped paramilitary/militia security forces in Yemen based largely on tribal or regional affiliation to deploy along the Saudi-Yemen border, especially the areas bordering the governorates of Saada and Al-Jawf; in addition, the Saudi-led coalition controlled Yemen’s airspace and the port of Hodeida</p> <p>the United Arab Emirates (UAE) intervened in Yemen in 2015 as part of the Saudi-led coalition with about 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary units</p><br>
 
 **Maritime threats**<br>
 <p>the Maritime Administration of the US Department of Transportation has issued Maritime Advisory 2020-017 (Red Sea, Gulf of Aden, Arabian Sea, and Indian Ocean-Violence Due to Regional Conflict and Piracy) effective 14 December 2020, which states in part the "Conflict in Yemen continues to pose potential risk to US flagged commercial vessels transiting the southern Red Sea, Bab al Mandeb Strait, and Gulf of Aden. Threats may come from a variety of different sources including, but not limited to, missiles, rockets, projectiles, mines, small arms, unmanned aerial vehicles, unmanned surface vessels, or waterborne improvised explosive devices. These threat vectors continue to pose a direct or collateral risk to US flagged commercial vessels operating in the region. Additionally, piracy poses a threat in the Gulf of Aden, Western Arabian Sea, and Western Indian Ocean."</p><br>

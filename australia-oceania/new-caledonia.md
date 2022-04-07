@@ -72,7 +72,7 @@ consists of the main island of New Caledonia (one of the largest in the Pacific 
 ## People and Society
 
 **Population**<br>
-293,608 (July 2021 est.)<br>
+297,160 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: New Caledonian(s)<br>
@@ -107,7 +107,7 @@ _male_: 32.1 years<br>
 _female_: 33.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.22% (2021 est.)<br>
+1.19% (2022 est.)<br>
 
 **Birth rate**<br>
 14.13 births/1,000 population (2022 est.)<br>
@@ -116,7 +116,7 @@ _female_: 33.7 years (2020 est.)<br>
 5.88 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-3.71 migrant(s)/1,000 population (2021 est.)<br>
+3.66 migrant(s)/1,000 population (2022 est.)<br>
 <strong>note:</strong> there has been steady emigration from Wallis and Futuna to New Caledonia<br>
 
 **Population distribution**<br>
@@ -131,25 +131,25 @@ _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
+_0-14 years_: 1.04 male(s)/female<br>
+_15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 1.02 male(s)/female<br>
 _55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.59 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.08 deaths/1,000 live births<br>
-_male_: 6.07 deaths/1,000 live births<br>
-_female_: 4.05 deaths/1,000 live births (2021 est.)<br>
+_total_: 5 deaths/1,000 live births<br>
+_male_: 5.97 deaths/1,000 live births<br>
+_female_: 3.98 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.59 years<br>
-_male_: 74.66 years<br>
-_female_: 82.71 years (2021 est.)<br>
+_total population_: 78.83 years<br>
+_male_: 74.93 years<br>
+_female_: 82.92 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.87 children born/woman (2021 est.)<br>
+1.86 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

@@ -79,7 +79,7 @@ landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drain
 ## People and Society
 
 **Population**<br>
-12,241,065 (July 2021 est.)<br>
+12,696,478 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -119,7 +119,7 @@ _male_: 17.4 years<br>
 _female_: 18 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.68% (2021 est.)<br>
+3.63% (2022 est.)<br>
 
 **Birth rate**<br>
 35.17 births/1,000 population (2022 est.)<br>
@@ -128,7 +128,7 @@ _female_: 18 years (2020 est.)<br>
 5.96 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-7.35 migrant(s)/1,000 population (2021 est.)<br>
+7.09 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map<br>
@@ -142,12 +142,12 @@ _rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.01 male(s)/female<br>
+_0-14 years_: 1.02 male(s)/female<br>
 _15-24 years_: 1 male(s)/female<br>
 _25-54 years_: 0.98 male(s)/female<br>
-_55-64 years_: 0.87 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.88 male(s)/female<br>
+_65 years and over_: 0.62 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.5 years (2016/17 est.)<br>
@@ -157,17 +157,17 @@ _total population_: 0.99 male(s)/female (2020 est.)<br>
 548 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 38.96 deaths/1,000 live births<br>
-_male_: 43.21 deaths/1,000 live births<br>
-_female_: 34.58 deaths/1,000 live births (2021 est.)<br>
+_total_: 37.84 deaths/1,000 live births<br>
+_male_: 42.02 deaths/1,000 live births<br>
+_female_: 33.54 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.07 years<br>
-_male_: 64.98 years<br>
-_female_: 69.22 years (2021 est.)<br>
+_total population_: 67.42 years<br>
+_male_: 65.32 years<br>
+_female_: 69.59 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-5.1 children born/woman (2021 est.)<br>
+5.03 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 28.5% (2016/17)<br>

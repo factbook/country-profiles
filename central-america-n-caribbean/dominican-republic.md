@@ -80,7 +80,7 @@ shares island of Hispaniola with Haiti (eastern two-thirds makes up the Dominica
 ## People and Society
 
 **Population**<br>
-10,597,348 (July 2021 est.)<br>
+10,694,700 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Dominican(s)<br>
@@ -116,7 +116,7 @@ _male_: 27.8 years<br>
 _female_: 28.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.92% (2021 est.)<br>
+0.91% (2022 est.)<br>
 
 **Birth rate**<br>
 18.03 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 28.1 years (2020 est.)<br>
 6.29 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--2.71 migrant(s)/1,000 population (2021 est.)<br>
+-2.68 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 coastal development is significant, especially in the southern coastal plains and the Cibao Valley, where population density is highest; smaller population clusters exist in the interior mountains (Cordillera Central)<br>
@@ -143,8 +143,8 @@ _0-14 years_: 1.03 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
 _25-54 years_: 1.04 male(s)/female<br>
 _55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.9 years (2013 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 1.02 male(s)/female (2020 est.)<br>
 95 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 21.68 deaths/1,000 live births<br>
-_male_: 24.08 deaths/1,000 live births<br>
-_female_: 19.19 deaths/1,000 live births (2021 est.)<br>
+_total_: 21.18 deaths/1,000 live births<br>
+_male_: 23.51 deaths/1,000 live births<br>
+_female_: 18.76 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.28 years<br>
-_male_: 70.57 years<br>
-_female_: 74.06 years (2021 est.)<br>
+_total population_: 72.56 years<br>
+_male_: 70.86 years<br>
+_female_: 74.33 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.23 children born/woman (2021 est.)<br>
+2.21 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 69.5% (2014)<br>

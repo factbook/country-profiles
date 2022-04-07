@@ -76,7 +76,7 @@ largest country in Caribbean and westernmost island of the Greater Antilles<br>
 ## People and Society
 
 **Population**<br>
-11,032,343 (July 2021 est.)<br>
+4,188,853 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Cuban(s)<br>
@@ -113,7 +113,7 @@ _male_: 40.2 years<br>
 _female_: 43.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.23% (2021 est.)<br>
+-0.21% (2022 est.)<br>
 
 **Birth rate**<br>
 10.11 births/1,000 population (2022 est.)<br>
@@ -122,7 +122,7 @@ _female_: 43.8 years (2020 est.)<br>
 9.29 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--3.32 migrant(s)/1,000 population (2021 est.)<br>
+-2.92 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 large population clusters found throughout the country, the more significant ones being in the larger towns and cities, particularly the capital of Havana<br>
@@ -137,27 +137,27 @@ _rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.08 male(s)/female<br>
+_15-24 years_: 1.06 male(s)/female<br>
 _25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.83 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.51 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 36 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.19 deaths/1,000 live births<br>
-_male_: 4.72 deaths/1,000 live births<br>
-_female_: 3.63 deaths/1,000 live births (2021 est.)<br>
+_total_: 4.13 deaths/1,000 live births<br>
+_male_: 4.65 deaths/1,000 live births<br>
+_female_: 3.57 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.41 years<br>
-_male_: 77.04 years<br>
-_female_: 81.92 years (2021 est.)<br>
+_total population_: 79.64 years<br>
+_male_: 77.29 years<br>
+_female_: 82.14 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2021 est.)<br>
+1.71 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 69% (2019)<br>

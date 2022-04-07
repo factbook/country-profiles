@@ -76,7 +76,7 @@ lies near vital North Atlantic sea lanes; only 35 km from France and linked by t
 ## People and Society
 
 **Population**<br>
-67.081 million United Kingdom (June 2020 est.)<br>
+67,791,400 United Kingdom (2022 est.)<br>
 <strong>constituent countries by percentage of total population: </strong><br>England 84.3%<br>Scotland 8.1%<br>Wales 4.7%<br>Northern Ireland 2.8%<br>
 
 **Nationality**<br>
@@ -112,7 +112,7 @@ _male_: 39.6 years<br>
 _female_: 41.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.48% (2021 est.)<br>
+0.53% (2022 est.)<br>
 
 **Birth rate**<br>
 10.79 births/1,000 population (2022 est.)<br>
@@ -121,7 +121,7 @@ _female_: 41.7 years (2020 est.)<br>
 9.07 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-2.47 migrant(s)/1,000 population (2021 est.)<br>
+3.59 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scottish lowlands between Edinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast<br>
@@ -136,11 +136,11 @@ _rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.82 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.01 male(s)/female<br>
+_25-54 years_: 1.03 male(s)/female<br>
+_55-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29 years (2018 est.)<br>
@@ -150,17 +150,17 @@ _total population_: 0.99 male(s)/female (2020 est.)<br>
 7 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.27 deaths/1,000 live births<br>
-_male_: 4.82 deaths/1,000 live births<br>
-_female_: 3.69 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.82 deaths/1,000 live births<br>
+_male_: 4.27 deaths/1,000 live births<br>
+_female_: 3.35 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.3 years<br>
-_male_: 79.02 years<br>
-_female_: 83.7 years (2021 est.)<br>
+_total population_: 81.94 years<br>
+_male_: 79.95 years<br>
+_female_: 84.04 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.86 children born/woman (2021 est.)<br>
+1.63 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 76.1% (2010/12)<br>
@@ -202,7 +202,7 @@ NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 6 October 2021, the UK has reported a total of 7,967,989  cases of COVID-19 or 11,737.31 cumulative cases of COVID-19 per 100,000 population with 202.03 cumulative deaths per 100,000 population; as of 5 October 2021, 71.89% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 30 March 2022, the UK has reported a total of 20,986,175  cases of COVID-19 or 30,913.84 cumulative cases of COVID-19 per 100,000 population with a total of 164,974 cumulative deaths or a rate of 243.02 cumulative deaths per 100,000 population; as of 29 March 2022, 77.39% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
@@ -260,7 +260,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 6 October 2021, the UK has reported a total of 7,967,989  cases of COVID-19 or 11,737.31 cumulative cases of COVID-19 per 100,000 population with 202.03 cumulative deaths per 100,000 population; as of 5 October 2021, 71.89% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 30 March 2022, the UK has reported a total of 20,986,175  cases of COVID-19 or 30,913.84 cumulative cases of COVID-19 per 100,000 population with a total of 164,974 cumulative deaths or a rate of 243.02 cumulative deaths per 100,000 population; as of 29 March 2022, 77.39% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 31.567 million tons (2014 est.)<br>

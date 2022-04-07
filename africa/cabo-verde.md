@@ -74,7 +74,7 @@ strategic location 500 km from west coast of Africa near major north-south sea r
 ## People and Society
 
 **Population**<br>
-589,451 (July 2021 est.)<br>
+596,707 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Cabo Verdean(s)<br>
@@ -111,7 +111,7 @@ _male_: 25.9 years<br>
 _female_: 27.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.24% (2021 est.)<br>
+1.21% (2022 est.)<br>
 
 **Birth rate**<br>
 18.49 births/1,000 population (2022 est.)<br>
@@ -120,7 +120,7 @@ _female_: 27.6 years (2020 est.)<br>
 5.8 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.58 migrant(s)/1,000 population (2021 est.)<br>
+-0.57 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 among the nine inhabited islands, population distribution is variable; islands in the east are very dry and are only sparsely settled to exploit their extensive salt deposits; the more southerly islands receive more precipitation and support larger populations, but agriculture and livestock grazing have damaged the soil fertility and vegetation; approximately half of the population lives on Sao Tiago Island, which is the location of the capital of Praia; Mindelo, on the northern island of Sao Vicente, also has a large urban population as shown in this population distribution map<br>
@@ -137,25 +137,25 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-24 years_: 1 male(s)/female<br>
 _25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 0.84 male(s)/female<br>
-_65 years and over_: 0.6 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.86 male(s)/female<br>
+_65 years and over_: 0.52 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 58 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.1 deaths/1,000 live births<br>
-_male_: 28.32 deaths/1,000 live births<br>
-_female_: 19.76 deaths/1,000 live births (2021 est.)<br>
+_total_: 23.53 deaths/1,000 live births<br>
+_male_: 27.64 deaths/1,000 live births<br>
+_female_: 19.29 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.47 years<br>
-_male_: 71.12 years<br>
-_female_: 75.89 years (2021 est.)<br>
+_total population_: 73.75 years<br>
+_male_: 71.41 years<br>
+_female_: 76.15 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.14 children born/woman (2021 est.)<br>
+2.13 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 55.8% (2018)<br>

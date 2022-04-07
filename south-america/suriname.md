@@ -77,7 +77,7 @@ smallest independent country on South American continent; mostly tropical rain f
 ## People and Society
 
 **Population**<br>
-614,749 (July 2021 est.)<br>
+632,638 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Surinamer(s)<br>
@@ -115,7 +115,7 @@ _male_: 30.6 years<br>
 _female_: 31.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.91% (2021 est.)<br>
+1.13% (2022 est.)<br>
 
 **Birth rate**<br>
 15.38 births/1,000 population (2022 est.)<br>
@@ -124,7 +124,7 @@ _female_: 31.4 years (2020 est.)<br>
 6.59 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.53 migrant(s)/1,000 population (2021 est.)<br>
+2.54 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population concentrated along the nothern coastal strip; the remainder of the country is sparsely populated<br>
@@ -137,29 +137,29 @@ _rate of urbanization_: 0.88% annual rate of change (2020-25 est.)<br>
 239,000 PARAMARIBO (capital) (2018)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_at birth_: 1.07 male(s)/female<br>
+_0-14 years_: 1.03 male(s)/female<br>
+_15-24 years_: 1.05 male(s)/female<br>
+_25-54 years_: 1 male(s)/female<br>
+_55-64 years_: 0.9 male(s)/female<br>
+_65 years and over_: 0.55 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 120 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 26.6 deaths/1,000 live births<br>
-_male_: 31.72 deaths/1,000 live births<br>
-_female_: 21.23 deaths/1,000 live births (2021 est.)<br>
+_total_: 30.25 deaths/1,000 live births<br>
+_male_: 38.27 deaths/1,000 live births<br>
+_female_: 21.68 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.57 years<br>
-_male_: 71.09 years<br>
-_female_: 76.16 years (2021 est.)<br>
+_total population_: 72.42 years<br>
+_male_: 68.81 years<br>
+_female_: 76.27 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.85 children born/woman (2021 est.)<br>
+1.92 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 39.1% (2018)<br>

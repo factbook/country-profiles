@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ukraine was the center of the first eastern Slavic state, Kyivan Rus, which during the 10th and 11th centuries was the largest and most powerful state in Europe. Weakened by internecine quarrels and Mongol invasions, Kyivan Rus was incorporated into the Grand Duchy of Lithuania and eventually into the Polish-Lithuanian Commonwealth. The cultural and religious legacy of Kyivan Rus laid the foundation for Ukrainian nationalism through subsequent centuries. A new Ukrainian state, the Cossack Hetmanate, was established during the mid-17th century after an uprising against the Poles. Despite continuous Muscovite pressure, the Hetmanate managed to remain autonomous for well over 100 years. During the latter part of the 18th century, most Ukrainian ethnographic territory was absorbed by the Russian Empire. Following the collapse of czarist Russia in 1917, Ukraine achieved a short-lived period of independence (1917-20), but was reconquered and endured a brutal Soviet rule that engineered two forced famines (1921-22 and 1932-33) in which over 8 million died. In World War II, German and Soviet armies were responsible for 7 to 8 million more deaths. Although Ukraine achieved independence in 1991 with the dissolution of the USSR, democracy and prosperity remained elusive as the legacy of state control and endemic corruption stalled efforts at economic reform, privatization, and civil liberties.</p> <p>A peaceful mass protest referred to as the "Orange Revolution" in the closing months of 2004 forced the authorities to overturn a rigged presidential election and to allow a new internationally monitored vote that swept into power a reformist slate under Viktor YUSHCHENKO. Subsequent internal squabbles in the YUSHCHENKO camp allowed his rival Viktor YANUKOVYCH to stage a comeback in parliamentary (Rada) elections, become prime minister in August 2006, and be elected president in February 2010. In October 2012, Ukraine held Rada elections, widely criticized by Western observers as flawed due to use of government resources to favor ruling party candidates, interference with media access, and harassment of opposition candidates. President YANUKOVYCH's backtracking on a trade and cooperation agreement with the EU in November 2013 - in favor of closer economic ties with Russia - and subsequent use of force against students, civil society activists, and other civilians in favor of the agreement led to a three-month protest occupation of Kyiv's central square. The government's use of violence to break up the protest camp in February 2014 led to all out pitched battles, scores of deaths, international condemnation, a failed political deal, and the president's abrupt departure for Russia. New elections in the spring allowed pro-West president Petro POROSHENKO to assume office in June 2014; he was succeeded by Volodymyr ZELENSKY in May 2019.</p> <p>Shortly after YANUKOVYCH's departure in late February 2014, Russian President PUTIN ordered the invasion of Ukraine's Crimean Peninsula falsely claiming the action was to protect ethnic Russians living there. Two weeks later, a "referendum" was held regarding the integration of Crimea into the Russian Federation. The "referendum" was condemned as illegitimate by the Ukrainian Government, the EU, the US, and the UN General Assembly (UNGA). In response to Russia's illegal annexation of Crimea, 100 members of the UN passed UNGA resolution 68/262, rejecting the "referendum" as baseless and invalid and confirming the sovereignty, political independence, unity, and territorial integrity of Ukraine. In mid-2014, Russia began supplying proxies in two of Ukraine's eastern provinces with manpower, funding, and materiel driving an armed conflict with the Ukrainian Government that continues to this day. Representatives from Ukraine, Russia, and the unrecognized Russian proxy republics signed the Minsk Protocol and Memorandum in September 2014 to end the conflict. However, this agreement failed to stop the fighting or find a political solution. In a renewed attempt to alleviate ongoing clashes, leaders of Ukraine, Russia, France, and Germany negotiated a follow-on Package of Measures in February 2015 to implement the Minsk agreements. Representatives from Ukraine, Russia, the unrecognized Russian proxy republics, and the Organization for Security and Cooperation in Europe also meet regularly to facilitate implementation of the peace deal. By early 2022, more than 14,000 civilians were killed or wounded as a result of the Russian intervention in eastern Ukraine.<br><br>On 24 February 2022, Russia escalated its conflict with Ukraine by invading the country on several fronts in what has become the largest conventional military attack on a sovereign state in Europe since World War II. The invasion has received near universal international condemnation and many countries have imposed sanctions on Russia and also supplied humanitarian and military aid to Ukraine. The invasion has also created Europe's largest refugee crisis since World War II. As of 29 March, more than 4.02 million people had fled Ukraine, and approximately 6.48 million people were internally displaced as of 16 March.  More than 2,685 civilian casualties had been reported, as of 25 March.</p> <p> </p><br>
+<p>Ukraine was the center of the first eastern Slavic state, Kyivan Rus, which during the 10th and 11th centuries was the largest and most powerful state in Europe. Weakened by internecine quarrels and Mongol invasions, Kyivan Rus was incorporated into the Grand Duchy of Lithuania and eventually into the Polish-Lithuanian Commonwealth. The cultural and religious legacy of Kyivan Rus laid the foundation for Ukrainian nationalism through subsequent centuries. A new Ukrainian state, the Cossack Hetmanate, was established during the mid-17th century after an uprising against the Poles. Despite continuous Muscovite pressure, the Hetmanate managed to remain autonomous for well over 100 years. During the latter part of the 18th century, most Ukrainian ethnographic territory was absorbed by the Russian Empire. Following the collapse of czarist Russia in 1917, Ukraine achieved a short-lived period of independence (1917-20), but was reconquered and endured a brutal Soviet rule that engineered two forced famines (1921-22 and 1932-33) in which over 8 million died. In World War II, German and Soviet armies were responsible for 7 to 8 million more deaths. Although Ukraine achieved independence in 1991 with the dissolution of the USSR, democracy and prosperity remained elusive as the legacy of state control and endemic corruption stalled efforts at economic reform, privatization, and civil liberties.</p> <p>A peaceful mass protest referred to as the "Orange Revolution" in the closing months of 2004 forced the authorities to overturn a rigged presidential election and to allow a new internationally monitored vote that swept into power a reformist slate under Viktor YUSHCHENKO. Subsequent internal squabbles in the YUSHCHENKO camp allowed his rival Viktor YANUKOVYCH to stage a comeback in parliamentary (Rada) elections, become prime minister in August 2006, and be elected president in February 2010. In October 2012, Ukraine held Rada elections, widely criticized by Western observers as flawed due to use of government resources to favor ruling party candidates, interference with media access, and harassment of opposition candidates. President YANUKOVYCH's backtracking on a trade and cooperation agreement with the EU in November 2013 - in favor of closer economic ties with Russia - and subsequent use of force against students, civil society activists, and other civilians in favor of the agreement led to a three-month protest occupation of Kyiv's central square. The government's use of violence to break up the protest camp in February 2014 led to all out pitched battles, scores of deaths, international condemnation, a failed political deal, and the president's abrupt departure for Russia. New elections in the spring allowed pro-West president Petro POROSHENKO to assume office in June 2014; he was succeeded by Volodymyr ZELENSKY in May 2019.</p> <p>Shortly after YANUKOVYCH's departure in late February 2014, Russian President PUTIN ordered the invasion of Ukraine's Crimean Peninsula falsely claiming the action was to protect ethnic Russians living there. Two weeks later, a "referendum" was held regarding the integration of Crimea into the Russian Federation. The "referendum" was condemned as illegitimate by the Ukrainian Government, the EU, the US, and the UN General Assembly (UNGA). In response to Russia's illegal annexation of Crimea, 100 members of the UN passed UNGA resolution 68/262, rejecting the "referendum" as baseless and invalid and confirming the sovereignty, political independence, unity, and territorial integrity of Ukraine. In mid-2014, Russia began supplying proxies in two of Ukraine's eastern provinces with manpower, funding, and materiel driving an armed conflict with the Ukrainian Government that continues to this day. Representatives from Ukraine, Russia, and the unrecognized Russian proxy republics signed the Minsk Protocol and Memorandum in September 2014 to end the conflict. However, this agreement failed to stop the fighting or find a political solution. In a renewed attempt to alleviate ongoing clashes, leaders of Ukraine, Russia, France, and Germany negotiated a follow-on Package of Measures in February 2015 to implement the Minsk agreements. Representatives from Ukraine, Russia, the unrecognized Russian proxy republics, and the Organization for Security and Cooperation in Europe also meet regularly to facilitate implementation of the peace deal. By early 2022, more than 14,000 civilians were killed or wounded as a result of the Russian intervention in eastern Ukraine.<br><br>On 24 February 2022, Russia escalated its conflict with Ukraine by invading the country on several fronts in what has become the largest conventional military attack on a sovereign state in Europe since World War II. The invasion has received near universal international condemnation and many countries have imposed sanctions on Russia and also supplied humanitarian and military aid to Ukraine. The invasion has also created Europe's largest refugee crisis since World War II. As of 5 April, more than 4.28 million people had fled Ukraine, and approximately 7.1 million people were internally displaced.  More than 3,455 civilian casualties had been reported, as of 2 April.</p> <p> </p><br>
 
 ## Geography
 
@@ -82,7 +82,7 @@ strategic position at the crossroads between Europe and Asia; second-largest cou
 ## People and Society
 
 **Population**<br>
-43,745,640 (July 2021 est.)<br>
+43,528,136 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Ukrainian(s)<br>
@@ -119,7 +119,7 @@ _male_: 38.2 years<br>
 _female_: 44.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.49% (2021 est.)<br>
+-0.5% (2022 est.)<br>
 
 **Birth rate**<br>
 9 births/1,000 population (2022 est.)<br>
@@ -128,7 +128,7 @@ _female_: 44.3 years (2020 est.)<br>
 13.77 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.26 migrant(s)/1,000 population (2021 est.)<br>
+-0.26 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 densest settlement in the eastern (Donbas) and western regions; noteable concentrations in and around major urban areas of Kyiv, Kharkiv, Donets'k, Dnipropetrovs'k, and Odesa<br>
@@ -144,10 +144,10 @@ _rate of urbanization_: -0.27% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.76 male(s)/female<br>
-_65 years and over_: 0.51 male(s)/female<br>
-_total population_: 0.86 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.98 male(s)/female<br>
+_55-64 years_: 0.77 male(s)/female<br>
+_65 years and over_: 0.42 male(s)/female<br>
+_total population_: 0.86 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.2 years (2019 est.)<br>
@@ -156,17 +156,17 @@ _total population_: 0.86 male(s)/female (2020 est.)<br>
 19 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.44 deaths/1,000 live births<br>
-_male_: 8.38 deaths/1,000 live births<br>
-_female_: 6.45 deaths/1,000 live births (2021 est.)<br>
+_total_: 7.33 deaths/1,000 live births<br>
+_male_: 8.26 deaths/1,000 live births<br>
+_female_: 6.33 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.18 years<br>
-_male_: 68.51 years<br>
-_female_: 78.15 years (2021 est.)<br>
+_total population_: 73.45 years<br>
+_male_: 68.8 years<br>
+_female_: 78.39 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.56 children born/woman (2021 est.)<br>
+1.56 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 65.4% (2012)<br>
@@ -204,6 +204,9 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
 3,100 (2020 est.)<br>
+
+**Major infectious diseases**<br>
+<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Eastern Europe; Ukraine is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Obesity - adult prevalence rate**<br>
 24.1% (2016)<br>
@@ -264,6 +267,9 @@ _forest revenues_: 0.34% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.42% of GDP (2018 est.)<br>
+
+**Major infectious diseases**<br>
+<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Eastern Europe; Ukraine is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 15,242,025 tons (2016 est.)<br>
@@ -719,7 +725,7 @@ the Ukrainian military is equipped mostly with older Russian and Soviet-era weap
 
 **Military service age and obligation**<br>
 conscription abolished in 2012, but reintroduced in 2014; 20-27 years of age for compulsory military service; conscript service obligation is 12 months (2021)<br>
-note(s) - the Ukrainian military has a mix of conscripts (14,000 conscripted in 2021) and professional soldiers on contracts; by law, conscripts cannot serve on the frontlines, but have the opportunity to sign short or long-term contracts upon the expiration of their terms of service; women can volunteer and have served in the Ukrainian armed forces since 1993; as of 2021, women comprised approximately 15-20% of the military; in late 2021, the Ukrainian Government began requiring women between 18 and 60 who are fit for military service and work in a broad range of professions to register with Ukraine's armed forces<br>
+note(s) - the Ukrainian military has a mix of conscripts (14,000 conscripted in 2021) and professional soldiers on contracts; women can volunteer and have served in the Ukrainian armed forces since 1993; as of 2021, women comprised approximately 15-20% of the military; in late 2021, the Ukrainian Government began requiring women between 18 and 60 who are fit for military service and work in a broad range of professions to register with Ukraine's armed forces<br>
  <br>
 
 **Military deployments**<br>

@@ -73,7 +73,7 @@ composed of four major island groups totaling 607 islands<br>
 ## People and Society
 
 **Population**<br>
-101,675 (July 2021 est.)<br>
+101,009 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Micronesian(s)<br>
@@ -107,7 +107,7 @@ _male_: 25.5 years<br>
 _female_: 27.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.64% (2021 est.)<br>
+-0.67% (2022 est.)<br>
 
 **Birth rate**<br>
 18.39 births/1,000 population (2022 est.)<br>
@@ -116,7 +116,7 @@ _female_: 27.1 years (2020 est.)<br>
 4.19 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--20.9 migrant(s)/1,000 population (2021 est.)<br>
+-20.91 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas<br>
@@ -132,26 +132,26 @@ _rate of urbanization_: 1.52% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.93 male(s)/female<br>
-_55-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.82 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.92 male(s)/female<br>
+_55-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.57 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 88 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.45 deaths/1,000 live births<br>
-_male_: 25.65 deaths/1,000 live births<br>
-_female_: 19.08 deaths/1,000 live births (2021 est.)<br>
+_total_: 21.9 deaths/1,000 live births<br>
+_male_: 25.02 deaths/1,000 live births<br>
+_female_: 18.63 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.17 years<br>
-_male_: 72.06 years<br>
-_female_: 76.4 years (2021 est.)<br>
+_total population_: 74.44 years<br>
+_male_: 72.34 years<br>
+_female_: 76.66 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.27 children born/woman (2021 est.)<br>
+2.24 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

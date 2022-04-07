@@ -77,7 +77,7 @@ the country's length allows it to stretch through six distinct geographic region
 ## People and Society
 
 **Population**<br>
-8,283,189 (July 2021 est.)<br>
+8,492,333 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -116,7 +116,7 @@ _male_: 19.7 years<br>
 _female_: 20.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.51% (2021 est.)<br>
+2.48% (2022 est.)<br>
 
 **Birth rate**<br>
 31.86 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 20.3 years (2020 est.)<br>
 5.27 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.86 migrant(s)/1,000 population (2021 est.)<br>
+-1.81 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 one of the more densely populated African nations with most of the population residing in rural communities, density is highest in the south on or near the Atlantic coast as shown in this population distribution map<br>
@@ -139,12 +139,12 @@ _rate of urbanization_: 3.6% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.01 male(s)/female<br>
+_0-14 years_: 1.03 male(s)/female<br>
 _15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.94 male(s)/female<br>
+_55-64 years_: 0.85 male(s)/female<br>
+_65 years and over_: 0.55 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.9 years (2013/14 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 396 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 42.64 deaths/1,000 live births<br>
-_male_: 47.4 deaths/1,000 live births<br>
-_female_: 37.75 deaths/1,000 live births (2021 est.)<br>
+_total_: 41.19 deaths/1,000 live births<br>
+_male_: 45.88 deaths/1,000 live births<br>
+_female_: 36.36 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.99 years<br>
-_male_: 68.37 years<br>
-_female_: 73.69 years (2021 est.)<br>
+_total population_: 71.36 years<br>
+_male_: 68.76 years<br>
+_female_: 74.03 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.28 children born/woman (2021 est.)<br>
+4.23 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 23.9% (2017)<br>

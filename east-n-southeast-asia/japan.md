@@ -78,7 +78,7 @@ all primary and secondary regions of high population density lie on the coast; o
 ## People and Society
 
 **Population**<br>
-124,687,293 (July 2021 est.)<br>
+124,214,766 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Japanese (singular and plural)<br>
@@ -115,7 +115,7 @@ _male_: 47.2 years<br>
 _female_: 50 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.37% (2021 est.)<br>
+-0.39% (2022 est.)<br>
 
 **Birth rate**<br>
 6.95 births/1,000 population (2022 est.)<br>
@@ -124,7 +124,7 @@ _female_: 50 years (2020 est.)<br>
 11.59 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.75 migrant(s)/1,000 population (2021 est.)<br>
+0.74 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 all primary and secondary regions of high population density lie on the coast; one-third of the population resides in and around Tokyo on the central plain (Kanto Plain)<br>
@@ -139,11 +139,11 @@ _rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.11 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
+_15-24 years_: 1.09 male(s)/female<br>
+_25-54 years_: 1 male(s)/female<br>
 _55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.65 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.7 years (2018 est.)<br>
@@ -152,17 +152,17 @@ _total population_: 0.94 male(s)/female (2020 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.92 deaths/1,000 live births<br>
-_male_: 2.02 deaths/1,000 live births<br>
-_female_: 1.81 deaths/1,000 live births (2021 est.)<br>
+_total_: 1.9 deaths/1,000 live births<br>
+_male_: 2 deaths/1,000 live births<br>
+_female_: 1.79 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 84.65 years<br>
-_male_: 81.73 years<br>
-_female_: 87.74 years (2021 est.)<br>
+_total population_: 84.83 years<br>
+_male_: 81.92 years<br>
+_female_: 87.9 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.38 children born/woman (2021 est.)<br>
+1.38 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 39.8% (2015)<br>
@@ -206,7 +206,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Japan has reported a total of 1,706,675 cases of COVID-19 or 1,349.4 cumulative cases of COVID-19 per 100,000 population with<br>14.07 cumulative deaths per 100,000 population; as of 5 October 2021, 72.53% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Japan has reported a total of 6,452,108 cases of COVID-19 or 5,101.43 cumulative cases of COVID-19 per 100,000 population with a total of 27,913 cumulative deaths or a rate of 22.07 cumulative deaths per 100,000 population; as of 29 March 2022, 81.29% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 4.3% (2016)<br>
@@ -264,7 +264,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Japan has reported a total of 1,706,675 cases of COVID-19 or 1,349.4 cumulative cases of COVID-19 per 100,000 population with<br>14.07 cumulative deaths per 100,000 population; as of 5 October 2021, 72.53% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Japan has reported a total of 6,452,108 cases of COVID-19 or 5,101.43 cumulative cases of COVID-19 per 100,000 population with a total of 27,913 cumulative deaths or a rate of 22.07 cumulative deaths per 100,000 population; as of 29 March 2022, 81.29% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 43.981 million tons (2015 est.)<br>

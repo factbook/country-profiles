@@ -76,7 +76,7 @@ despite its small size, this eastern Alpine country controls some of Europe's ma
 ## People and Society
 
 **Population**<br>
-2,102,106 (July 2021 est.)<br>
+2,101,208 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Slovene(s)<br>
@@ -111,7 +111,7 @@ _male_: 43.4 years<br>
 _female_: 46.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.03% (2021 est.)<br>
+-0.06% (2022 est.)<br>
 
 **Birth rate**<br>
 8.3 births/1,000 population (2022 est.)<br>
@@ -120,7 +120,7 @@ _female_: 46.6 years (2020 est.)<br>
 10.4 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-1.54 migrant(s)/1,000 population (2021 est.)<br>
+1.54 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere<br>
@@ -136,10 +136,10 @@ _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 1.11 male(s)/female<br>
+_25-54 years_: 1.12 male(s)/female<br>
 _55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.61 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.9 years (2019 est.)<br>
@@ -148,17 +148,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 7 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.53 deaths/1,000 live births<br>
-_male_: 1.64 deaths/1,000 live births<br>
-_female_: 1.42 deaths/1,000 live births (2021 est.)<br>
+_total_: 1.52 deaths/1,000 live births<br>
+_male_: 1.63 deaths/1,000 live births<br>
+_female_: 1.41 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.61 years<br>
-_male_: 78.73 years<br>
-_female_: 84.6 years (2021 est.)<br>
+_total population_: 81.82 years<br>
+_male_: 78.96 years<br>
+_female_: 84.79 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.59 children born/woman (2021 est.)<br>
+1.6 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -694,7 +694,7 @@ note - as of 2019, women comprised about 15% of the military's full-time personn
 230 Kosovo (NATO) (2021)<br>
 
 **Military - note**<br>
-Slovenia officially became a member of NATO in 2004<br>
+Slovenia officially became a member of NATO in 2004; Hungary and Italy provide NATO's air policing mission for Slovenia&rsquo;s airspace<br>
 
 ## Transnational Issues
 

@@ -74,7 +74,7 @@ insular and continental regions widely separated; despite its name, no part of t
 ## People and Society
 
 **Population**<br>
-857,008 (July 2021 est.)<br>
+1,679,172 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Equatorial Guinean(s) or Equatoguinean(s)<br>
@@ -112,7 +112,7 @@ _male_: 19.9 years<br>
 _female_: 20.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.29% (2021 est.)<br>
+3.5% (2022 est.)<br>
 
 **Birth rate**<br>
 29.95 births/1,000 population (2022 est.)<br>
@@ -121,7 +121,7 @@ _female_: 20.7 years (2020 est.)<br>
 8.95 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+13.96 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 only two large cities over 30,000 people (Bata on the mainland, and the capital Malabo on the island of Bioko); small communities are scattered throughout the mainland and the five inhabited islands as shown in this population distribution map<br>
@@ -135,28 +135,28 @@ _rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.78 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.08 male(s)/female<br>
+_15-24 years_: 1.21 male(s)/female<br>
+_25-54 years_: 1.21 male(s)/female<br>
+_55-64 years_: 1.17 male(s)/female<br>
+_65 years and over_: 0.87 male(s)/female<br>
+_total population_: 1.15 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 301 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 63.25 deaths/1,000 live births<br>
-_male_: 66.12 deaths/1,000 live births<br>
-_female_: 60.29 deaths/1,000 live births (2021 est.)<br>
+_total_: 78.33 deaths/1,000 live births<br>
+_male_: 84.23 deaths/1,000 live births<br>
+_female_: 72.25 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.35 years<br>
-_male_: 64.96 years<br>
-_female_: 67.78 years (2021 est.)<br>
+_total population_: 63.7 years<br>
+_male_: 61.44 years<br>
+_female_: 66.03 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.02 children born/woman (2021 est.)<br>
+4.26 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 12.6% (2011)<br>
@@ -582,8 +582,8 @@ the state maintains control of broadcast media with domestic broadcast media lim
 .gq<br>
 
 **Internet users**<br>
-_total_: 374,200 (2021 est.)<br>
-_percent of population_: 26.24% (2019 est.)<br>
+_total_: 386,500 (2022 est.)<br>
+_percent of population_: 26.2% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,620 (2018)<br>

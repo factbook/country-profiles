@@ -81,7 +81,7 @@ nearly half of the population is concentrated in the interior in the Andean inte
 ## People and Society
 
 **Population**<br>
-17,093,159 (July 2021 est.)<br>
+17,289,554 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Ecuadorian(s)<br>
@@ -120,7 +120,7 @@ _male_: 28 years<br>
 _female_: 29.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.16% (2021 est.)<br>
+1.13% (2022 est.)<br>
 
 **Birth rate**<br>
 16.45 births/1,000 population (2022 est.)<br>
@@ -129,7 +129,7 @@ _female_: 29.6 years (2020 est.)<br>
 5.17 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 nearly half of the population is concentrated in the interior in the Andean intermontane basins and valleys, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
@@ -146,25 +146,25 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 0.96 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 59 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.55 deaths/1,000 live births<br>
-_male_: 22.18 deaths/1,000 live births<br>
-_female_: 14.74 deaths/1,000 live births (2021 est.)<br>
+_total_: 18.13 deaths/1,000 live births<br>
+_male_: 21.7 deaths/1,000 live births<br>
+_female_: 14.39 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.76 years<br>
-_male_: 74.8 years<br>
-_female_: 80.87 years (2021 est.)<br>
+_total population_: 78 years<br>
+_male_: 75.06 years<br>
+_female_: 81.1 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.07 children born/woman (2021 est.)<br>
+2.04 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 80.1% (2007/12)<br>
@@ -344,18 +344,17 @@ _elections/appointments_: president and vice president directly elected on the s
 _election results_: <br><em>2021:</em> Guillermo LASSO Mendoza elected president; first round election results: percent of vote - Andres ARAUZ (UNES) 32.72%, Guillermo LASSO Mendoza (CREO) 19.74%, Yaku PEREZ Guartambel (MUPP) 19.38%, Xavier HERVAS Mora (Independent) 15.68%, other 12.48%; second round election results: percent of vote - Guillermo LASSO Mendoza (CREO) 52.5%, Andres ARAUZ (UNES) 47.5%<br><br><em>2017:</em> Lenin MORENO Garces elected president in second round; percent of vote - Lenin MORENO Garces (Alianza PAIS Movement) 51.1%, Guillermo LASSO (CREO) 48.9%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms)<br>
-_elections_: last held on 7 February 2021 (next to be held in February 2025)<br>
-_election results_: percent of vote by party - UNES 32.21%, MUPP 16.81%, ID 11.98%, PSC 9.73%, CREO 9.65%, MC-PSE 3.76%, other 15.86%; seats by party - UNES 49, MUPP 27, ID 18, PSC 18, CREO 12, MC-PSE 2, independents 3, other 8; composition - men 85, women 52, percent of women 38%; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
+_description_: unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms); note - all Assembly members have alternates from the same party who cast votes when a primary member is absent, resigns, or is removed from office<br>
+_elections_: last held on 7 February 2021 (next scheduled for February 2025)<br>
+_election results_: percent of vote by party - UNES 32.21%, MUPP 16.81%, ID 11.98%, PSC 9.73%, CREO 9.65%, MC-PSE 3.76%, other 15.86%; seats by party - UNES 49, MUPP 27, ID 18, PSC 18, CREO 12, MC-PSE 2, independents 3, other 8; composition as of March 2022 - men 84, women 53, percent of women 38.7%; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
 
 **Judicial branch**<br>
 _highest courts_: National Court of Justice or Corte Nacional de Justicia (consists of 21 judges, including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of 9 judges)<br>
 _judge selection and term of office_: justices of National Court of Justice elected by the Judiciary Council, a 9-member independent body of law professionals; judges elected for 9-year, non-renewable terms, with one-third of the membership renewed every 3 years; Constitutional Court judges appointed by the executive, legislative, and Citizen Participation branches of government; judges appointed for 9-year non-renewable terms with one-third of the membership renewed every 3 years<br>
-_subordinate courts_: Fiscal Tribunal; Election Dispute Settlement Courts, provincial courts (one for each province); cantonal courts<br>
+_subordinate courts_: provincial courts (one for each province except Galapagos); fiscal, criminal, and administrative tribunals; Election Dispute Settlement Courts; cantonal courts<br>
 
 **Political parties and leaders**<br>
-Alianza PAIS movement [Lenin Voltaire MORENO Garces]<br>Avanza Party or AVANZA [Ramiro GONZALEZ]<br>Central Democratic Movement or CD [Jimmy JAIRALA]<br>Citizen Revolution Movement or MRC [Rafael CORREA]<br>Creating Opportunities Movement or CREO [Guillermo LASSO]<br>Democratic Left or ID<br>Forward Ecuador Movement [Alvaro NOBOA]<br>Fuerza Ecuador [Abdala BUCARAM] (successor to Roldosist Party)<br>Honesty Alliance or MC-PSE (alliance including Concertation Movement or MC and Socialist Party of Ecuador or PSE)<br>National Agreement Bloc or BAN<br>Pachakutik Plurinational Unity Movement or MUPP [Marlon Rene SANTI Gualinga]<br>Patriotic Society Party or PSP [Gilmar GUTIERREZ Borbua]<br>Popular Democracy Movement or MPD [Luis VILLACIS]<br>Social Christian Party or PSC [Pascual DEL CIOPPO]<br>Socialist Party [Patricio ZABRANO] <br>Society United for More Action or SUMA [Mauricio RODAS]<br>Union of Hope or UNES (coalition of left-leaning parties)<br>
-note - the National Agreement Bloc and Creating Opportunities parties formed the BAN-CREO coalition in the National Assembly in May 2021.<br>
+Avanza Party or AVANZA [Ramiro GONZALEZ]<br>Central Democratic Movement or CD [Jimmy JAIRALA]<br>Citizen Revolution Movement or MRC [Marcela AGUINAGA]<br>Creating Opportunities Movement or CREO [Guillermo LASSO]<br>Democratic Left or ID<br>Forward Ecuador Movement [Alvaro NOBOA]<br>Pachakutik Plurinational Unity Movement or MUPP [Marlon Rene SANTI Gualinga]<br>Patriotic Society Party or PSP [Gilmar GUTIERREZ Borbua]<br>Popular Democracy Movement or MPD [Luis VILLACIS]<br>Social Christian Party or PSC [Alfredo SERRANO]<br>Socialist Party [Gustavo VALLEJO] <br>Society United for More Action or SUMA [Guillermo CELI]<br>
 
 **International organization participation**<br>
 CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, PROSUR, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -621,20 +620,20 @@ _total subscriptions_: 15,485,366<br>
 _subscriptions per 100 inhabitants_: 87.77 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Ecuador&rsquo;s remote and mountainous geography lends challenges to tele-density; government-owned provider to improve fixed-line and LTE infrastructure, with emphasis on fiber expansion from urban to rural areas and installation of a 5G network; small telecom market dominated by the non-competitive mobile sector; inadequate fixed-line infrastructure and slowed fixed-line broadband services (2020)<br>
+_general assessment_: Ecuador&rsquo;s remote and mountainous geography lends challenges to tele-density; government-owned provider to improve fixed-line and LTE infrastructure, with emphasis on fiber expansion from urban to rural areas and installation of a 5G network; small telecom market dominated by the non-competitive mobile sector; inadequate fixed-line infrastructure and slowed fixed-line broadband services; Ecuador's&nbsp; telecom regulator, ARCOTEL, is currently evaluating and reorganizing the 3.5GHz, 2.5GHz, 700 MHz, and AWS spectrum for future government tenders; 2G/3G technologies have a 91.11% penetration rate of the total population and 4G technologies have a 60.74% penetration rate (2021)<br>
 _domestic_: fixed-line services with digital networks provided by multiple telecommunications operators; fixed-line teledensity stands at about 12 per 100 persons and mobile-cellular use nearly 88 per 100 persons (2019)<br>
-_international_: country code - 593; landing points for the PAN-AM, PCCS, America Movil-Telxius West&nbsp;Coast&nbsp;Cable&nbsp;and SAm-1 submarine cables that provide links to South and Central America, and extending onward to&nbsp;the Caribbean&nbsp;and the US;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+_international_: country code - 593; landing points for the SPSC (Mistral Submarine Cable), Panamerican Cable System (PAN-AM), Pacific Caribbean Cable System (PCCS), America Movil-Telxius West Coast Cable and SAm-1 submarine cables that provide links to South and Central America, and extending onward to the Caribbean and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-about 60 media outlets are recognized as national; the Ecuadorian Government controls 12 national outlets and multiple radio stations; there are multiple TV networks and many local channels, as well as more than 300 radio stations; many TV and radio stations are privately owned; broadcast media is required by law to give the government free airtime to broadcast programs produced by the state; the Ecuadorian Government is the biggest advertiser and grants advertising contracts to outlets that provide favorable coverage; an&nbsp;antimonopoly law and communication law limit ownership and investment in the media by non-media businesses (2019)<br>
+the Communication Council, an official entity, carried out a media registry in December 2020 and registered 956 media outlets--89% are private, 5% are public, and 6% belong to small communities; of the 956 registered media, 58% are radio and 18% are print; the government controls most of the 44 public media, including national media and multiple local radio stations; the largest provinces with media outlets are Guayas with 172 and Pichincha with 130 media outlets; in May 2021 President LASSO repealed the regulations of the Organic Law of Communication that journalists considered restrictive and punitive; LASSO also sent a new regulation proposal to&nbsp; the National Assembly that is still under discussion (2021)<br>
 
 **Internet country code**<br>
 .ec<br>
 
 **Internet users**<br>
-_total_: 10.17 million (2021 est.)<br>
-_percent of population_: 57.27% (2019 est.)<br>
+_total_: 13.6 million (2022 est.)<br>
+_percent of population_: 75.6% (2022 est.)<br>
+according to 2021 statistics from Ecuador's Ministry of Telecommunications and Information Society, 50% of homes do not have access to fixed internet<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,346,923 (2020)<br>
@@ -679,9 +678,9 @@ _narrow gauge_: 965 km 1.067-m gauge (2017)<br>
 <strong>note:</strong> passenger service limited to certain sections of track, mostly for tourist trains<br>
 
 **Roadways**<br>
-_total_: 43,216 km (2015)<br>
-_paved_: 8,895 km (2015)<br>
-_unpaved_: 35,055 km (2015)<br>
+_total_: 81,968 km (2015)<br>
+_paved_: 18,935 km (2015)<br>
+_unpaved_: 63,033 km (2015)<br>
 
 **Waterways**<br>
 1,500 km (most inaccessible) (2012)<br>
@@ -712,14 +711,14 @@ note - the National Police of Ecuador (Polic&iacute;a Nacional del Ecuador) is u
 the Ecuadorian Armed Forces have approximately 40,000 active personnel (25,000 Army; 9,000 Navy; 6,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's equipment inventory is mostly older and derived from a wide variety of sources; since 2010, Ecuador has received limited amounts of military equipment from more than 15 countries with Brazil, South Africa, and Spain as the leading suppliers (2021)<br>
+the military's equipment inventory is mostly older and derived from a wide variety of sources; since 2010, Ecuador has received limited amounts of military equipment from more than 15 countries, including China, Russia, and the US&nbsp; (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for selective conscript military service, although conscription was suspended in 2008; 18 years of age for voluntary military service; Ecuadorian birth requirement; 1-year service obligation; females have been allowed to serve in all branches since 2012 (2021)<br>
 note - in 2017, women made up an estimated 3% of the military<br>
 
 **Military - note**<br>
-<p>border conflicts with Peru dominated the military’s focus until the late 1990s; as of 2021, border security remained a priority, but in more recent years, security challenges have shifted towards counterinsurgency and counter-narcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, has spilled over the border; troop deployments along the border with Colombia were scaled back following the 2016 signing of a peace agreement between the Colombian Government and the Revolutionary Armed Forces of Colombia (FARC) terrorist group (see Appendix T), but recent violence associated with FARC dissidents to the agreement have led Ecuador and Colombia to reinforce their shared border; since 2012, the Ecuadorian Government has also expanded the military’s role in general public security and counter-narcotics operations, in part due to police corruption and ineffectiveness</p> <p>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010</p> <p> </p><br>
+<p>border conflicts with Peru dominated the military’s focus until the late 1990s; as of 2021, border security remained a priority, but in more recent years, security challenges have shifted towards counterinsurgency and counter-narcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, has spilled over the border; troop deployments along the border with Colombia were scaled back following the 2016 signing of a peace agreement between the Colombian Government and the Revolutionary Armed Forces of Colombia (FARC) terrorist group (see Appendix T), but recent violence associated with FARC dissidents to the agreement have led Ecuador and Colombia to reinforce their shared border; since 2012, the Ecuadorian Government has also expanded the military’s role in general public security and counter-narcotics operations, in part due to rising violence, police corruption, and police ineffectiveness</p> <p>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010</p> <p> </p><br>
 
 **Maritime threats**<br>
 the International Maritime Bureau continues to report the territorial and offshore waters as at risk for piracy and armed robbery against ships; vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; there has been a slight increase with three attacks reported in 2019 and four in 2020<br>

@@ -81,7 +81,7 @@ largest country in Africa but 80% desert; canyons and caves in the southern Hogg
 ## People and Society
 
 **Population**<br>
-43,576,691 (July 2021 est.)<br>
+44,178,884 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Algerian(s)<br>
@@ -120,7 +120,7 @@ _male_: 28.6 years<br>
 _female_: 29.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.41% (2021 est.)<br>
+1.34% (2022 est.)<br>
 
 **Birth rate**<br>
 18.52 births/1,000 population (2022 est.)<br>
@@ -129,7 +129,7 @@ _female_: 29.3 years (2020 est.)<br>
 4.32 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.84 migrant(s)/1,000 population (2021 est.)<br>
+-0.82 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map<br>
@@ -146,25 +146,25 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.05 male(s)/female<br>
 _25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2020 est.)<br>
+_55-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 112 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 20.23 deaths/1,000 live births<br>
-_male_: 22.36 deaths/1,000 live births<br>
-_female_: 17.98 deaths/1,000 live births (2021 est.)<br>
+_total_: 19.72 deaths/1,000 live births<br>
+_male_: 21.77 deaths/1,000 live births<br>
+_female_: 17.55 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.79 years<br>
-_male_: 76.32 years<br>
-_female_: 79.33 years (2021 est.)<br>
+_total population_: 78.03 years<br>
+_male_: 76.57 years<br>
+_female_: 79.57 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.55 children born/woman (2021 est.)<br>
+2.51 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 57.1% (2012/13)<br>

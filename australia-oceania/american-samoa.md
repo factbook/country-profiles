@@ -70,7 +70,7 @@ Pago Pago has one of the best natural deepwater harbors in the South Pacific Oce
 ## People and Society
 
 **Population**<br>
-46,366 (July 2021 est.)<br>
+45,443 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: American Samoan(s) (US nationals)<br>
@@ -106,7 +106,7 @@ _male_: 26.7 years<br>
 _female_: 27.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
--2.1% (2021 est.)<br>
+-1.92% (2022 est.)<br>
 
 **Birth rate**<br>
 16.7 births/1,000 population (2022 est.)<br>
@@ -115,7 +115,7 @@ _female_: 27.7 years (2020 est.)<br>
 6.1 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--32.18 migrant(s)/1,000 population (2021 est.)<br>
+-29.8 migrant(s)/1,000 population (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 87.2% of total population (2022)<br>
@@ -127,24 +127,24 @@ _rate of urbanization_: 0.26% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
+_15-24 years_: 1.02 male(s)/female<br>
+_25-54 years_: 0.97 male(s)/female<br>
 _55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.86 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.25 deaths/1,000 live births<br>
-_male_: 12.39 deaths/1,000 live births<br>
-_female_: 8 deaths/1,000 live births (2021 est.)<br>
+_total_: 10.06 deaths/1,000 live births<br>
+_male_: 12.14 deaths/1,000 live births<br>
+_female_: 7.86 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.06 years<br>
-_male_: 72.55 years<br>
-_female_: 77.72 years (2021 est.)<br>
+_total population_: 75.32 years<br>
+_male_: 72.83 years<br>
+_female_: 77.97 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.28 children born/woman (2021 est.)<br>
+2.21 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

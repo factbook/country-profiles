@@ -5,7 +5,7 @@ _Central Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Tajik people came under Russian imperial rule in the 1860s and 1870s, but Russia's hold on Central Asia weakened following the Revolution of 1917. At that time, bands of indigenous guerrillas (known as "basmachi") fiercely contested Bolshevik control of the area, which was not fully reestablished until 1925. Tajikistan was first created as an autonomous republic within Uzbekistan in 1924, but in 1929 the USSR designated Tajikistan a separate republic and transferred to it much of present-day Sughd province. Ethnic Uzbeks form a substantial minority in Tajikistan, and ethnic Tajiks an even larger minority in Uzbekistan. Tajikistan became independent in 1991 following the breakup of the Soviet Union, and experienced a civil war between political, regional, and religious factions from 1992 to 1997.</p> <p>Though the country holds general elections for both the presidency (once every seven years) and legislature (once every five years), observers note an electoral system rife with irregularities and abuse, with results that are neither free nor fair. President Emomali RAHMON, who came to power in 1992 during the civil war and was first elected president in 1994, used an attack planned by a disaffected deputy defense minister in 2015 to ban the last major opposition political party in Tajikistan. In December 2015, RAHMON further strengthened his position by having himself declared "Founder of Peace and National Unity, Leader of the Nation," with limitless terms and lifelong immunity through constitutional amendments ratified in a referendum. The referendum also lowered the minimum age required to run for president from 35 to 30, which made RAHMON's first-born son Rustam EMOMALI, the mayor of the capital city of Dushanbe, eligible to run for president in 2020. In April 2020, RAHMON orchestrated EMOMALI's selection as Chairman of the Majlisi Milli (Tajikistan's senate), positioning EMOMALI as next in line of succession for the presidency. RAHMON opted to run in the presidential election in October 2020 and received 91% of the vote.<br><br>The country remains the poorest in the former Soviet sphere. Tajikistan became a member of the WTO in March 2013. However, its economy continues to face major challenges, including dependence on remittances from Tajikistani migrant laborers working in Russia and Kazakhstan, pervasive corruption, and the opiate trade and other destabilizing violence emanating from neighboring Afghanistan. Tajikistan has endured several domestic security incidents since 2010, including armed conflict between government forces and local strongmen in the Rasht Valley and between government forces and criminal groups in Gorno-Badakhshan Autonomous Oblast. Tajikistan suffered its first ISIS-claimed attack in 2018, when assailants attacked a group of Western bicyclists with vehicles and knives, killing four.</p><br>
+<p>The Tajik people came under Russian imperial rule in the 1860s and 1870s, but Russia's hold on Central Asia weakened following the Revolution of 1917. At that time, bands of indigenous guerrillas (known as "basmachi") fiercely contested Bolshevik control of the area, which was not fully reestablished until 1925. Tajikistan was first created as an autonomous republic within Uzbekistan in 1924, but in 1929 the USSR designated Tajikistan a separate republic and transferred to it much of present-day Sughd province. Ethnic Uzbeks form a substantial minority in Tajikistan, and ethnic Tajiks an even larger minority in Uzbekistan. Tajikistan became independent in 1991 following the breakup of the Soviet Union, and experienced a civil war between political, regional, and religious factions from 1992 to 1997.</p> <p>Though the country holds general elections for both the presidency (once every seven years) and legislature (once every five years), observers note an electoral system rife with irregularities and abuse, with results that are neither free nor fair. President Emomali RAHMON, who came to power in 1992 during the civil war and was first elected president in 1994, used an attack planned by a disaffected deputy defense minister in 2015 to ban the last major opposition political party in Tajikistan. In December 2015, RAHMON further strengthened his position by having himself declared "Founder of Peace and National Unity, Leader of the Nation," with limitless terms and lifelong immunity through constitutional amendments ratified in a referendum. The referendum also lowered the minimum age required to run for president from 35 to 30, which made RAHMON's first-born son Rustam EMOMALI, the mayor of the capital city of Dushanbe, eligible to run for president in 2020. In April 2020, RAHMON orchestrated EMOMALI's selection as Chairman of the Majlisi Milli (Tajikistan's senate), positioning EMOMALI as next in line of succession for the presidency. RAHMON opted to run in the presidential election in October 2020 and received 91% of the vote.<br><br>The country remains the poorest in the former Soviet sphere. Tajikistan became a member of the WTO in March 2013. However, its economy continues to face major challenges, including dependence on remittances from Tajikistani migrant laborers working in Russia and Kazakhstan, pervasive corruption, and the opiate trade and other destabilizing violence emanating from neighboring Afghanistan. Tajikistan has endured several domestic security incidents since 2010, including armed conflict between government forces and local strongmen in the Rasht Valley and between government forces and residents and informal leaders in Gorno-Badakhshan Autonomous Oblast. Tajikistan suffered its first ISIS-claimed attack in 2018, when assailants attacked a group of Western bicyclists with vehicles and knives, killing four.</p> <p> </p> <p> </p><br>
 
 ## Geography
 
@@ -79,7 +79,7 @@ landlocked; highest point, Qullai Ismoili Somoni (formerly Communism Peak), was 
 ## People and Society
 
 **Population**<br>
-8,990,874 (July 2021 est.)<br>
+9,119,347 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Tajikistani(s)<br>
@@ -115,7 +115,7 @@ _male_: 24.6 years<br>
 _female_: 26 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.44% (2021 est.)<br>
+1.4% (2022 est.)<br>
 
 **Birth rate**<br>
 20.73 births/1,000 population (2022 est.)<br>
@@ -124,7 +124,7 @@ _female_: 26 years (2020 est.)<br>
 5.72 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.05 migrant(s)/1,000 population (2021 est.)<br>
+-1.03 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west<br>
@@ -140,10 +140,10 @@ _rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.85 male(s)/female<br>
-_65 years and over_: 0.7 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.98 male(s)/female<br>
+_55-64 years_: 0.84 male(s)/female<br>
+_65 years and over_: 0.48 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.9 years (2017 est.)<br>
@@ -153,17 +153,17 @@ _total population_: 0.99 male(s)/female (2020 est.)<br>
 17 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 33.05 deaths/1,000 live births<br>
-_male_: 37.8 deaths/1,000 live births<br>
-_female_: 28.06 deaths/1,000 live births (2021 est.)<br>
+_total_: 32.33 deaths/1,000 live births<br>
+_male_: 37.03 deaths/1,000 live births<br>
+_female_: 27.39 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.06 years<br>
-_male_: 65.91 years<br>
-_female_: 72.38 years (2021 est.)<br>
+_total population_: 69.36 years<br>
+_male_: 66.2 years<br>
+_female_: 72.69 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.48 children born/woman (2021 est.)<br>
+2.45 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.3% (2017)<br>
@@ -206,6 +206,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria<br>
+<strong>note: </strong><strong>o</strong>n 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Tajikistan is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 14.2% (2016)<br>
@@ -266,6 +267,7 @@ _coal revenues_: 0.54% of GDP (2018 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria<br>
+<strong>note: </strong><strong>o</strong>n 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Tajikistan is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,787,400 tons (2013 est.)<br>
@@ -350,7 +352,7 @@ _judge selection and term of office_: Supreme Court, Constitutional Court, and H
 _subordinate courts_: regional and district courts; Dushanbe City Court; viloyat (province level) courts; Court of Gorno-Badakhshan Autonomous Region<br>
 
 **Political parties and leaders**<br>
-Agrarian Party of Tajikistan or APT [Rustam LATIFZODA]<br>Communist Party of Tajikistan or CPT [Miroj ABDULLOEV]<br>Democratic Party of Tajikistan or DPT [Saidjafar USMONZODA]<br>Party of Economic Reform of Tajikistan or PERT [Rustam OUDRATOV]<br>People's Democratic Party of Tajikistan or PDPT [Emomali RAHMON]<br>Social Democratic Party of Tajikistan or SDPT [Qiyomiddin AZIZOV]<br>Socialist Party of Tajikistan or SPT [Abduhalim GHAFFOROV]<br>
+Agrarian Party of Tajikistan or APT [Rustam LATIFZODA]<br>Communist Party of Tajikistan or CPT [Miroj ABDULLOEV]<br>Democratic Party of Tajikistan or DPT [Saidjafar USMONZODA]<br>Party of Economic Reform of Tajikistan or PERT [Rustam RAHMATZODA]<br>People's Democratic Party of Tajikistan or PDPT [Emomali RAHMON]<br>Social Democratic Party of Tajikistan or SDPT [Qiyomiddin AZIZOV]<br>Socialist Party of Tajikistan or SPT [Abduhalim GHAFFORZODA]<br>
 
 **International organization participation**<br>
 ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

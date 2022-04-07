@@ -74,7 +74,7 @@ the administration of the islands of the Grenadines group is divided between Sai
 ## People and Society
 
 **Population**<br>
-101,145 (July 2021 est.)<br>
+100,969 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Saint Vincentian(s) or Vincentian(s)<br>
@@ -108,7 +108,7 @@ _male_: 35.4 years<br>
 _female_: 35.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.18% (2021 est.)<br>
+-0.17% (2022 est.)<br>
 
 **Birth rate**<br>
 12.27 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 35.1 years (2020 est.)<br>
 7.49 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--6.82 migrant(s)/1,000 population (2021 est.)<br>
+-6.47 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in and around the capital of Kingstown<br>
@@ -133,26 +133,26 @@ _rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-24 years_: 1.02 male(s)/female<br>
-_25-54 years_: 1.08 male(s)/female<br>
+_25-54 years_: 1.07 male(s)/female<br>
 _55-64 years_: 1.08 male(s)/female<br>
-_65 years and over_: 0.91 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 1.04 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 98 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.16 deaths/1,000 live births<br>
-_male_: 14.9 deaths/1,000 live births<br>
-_female_: 11.38 deaths/1,000 live births (2021 est.)<br>
+_total_: 12.87 deaths/1,000 live births<br>
+_male_: 14.56 deaths/1,000 live births<br>
+_female_: 11.13 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.43 years<br>
-_male_: 74.37 years<br>
-_female_: 78.55 years (2021 est.)<br>
+_total population_: 76.68 years<br>
+_male_: 74.63 years<br>
+_female_: 78.79 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.75 children born/woman (2021 est.)<br>
+1.75 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

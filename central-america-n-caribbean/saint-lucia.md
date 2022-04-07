@@ -74,7 +74,7 @@ the twin Pitons (Gros Piton and Petit Piton), striking cone-shaped peaks south o
 ## People and Society
 
 **Population**<br>
-166,637 (July 2021 est.)<br>
+167,122 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Saint Lucian(s)<br>
@@ -108,7 +108,7 @@ _male_: 35.7 years<br>
 _female_: 38 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.3% (2021 est.)<br>
+0.29% (2022 est.)<br>
 
 **Birth rate**<br>
 12.02 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 38 years (2020 est.)<br>
 8.07 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.37 migrant(s)/1,000 population (2021 est.)<br>
+-1.09 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is found on the periphery of the island, with a larger concentration in the north around the capital of Castries<br>
@@ -132,27 +132,27 @@ _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.93 male(s)/female<br>
+_15-24 years_: 1.04 male(s)/female<br>
+_25-54 years_: 0.94 male(s)/female<br>
 _55-64 years_: 0.86 male(s)/female<br>
-_65 years and over_: 0.83 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 117 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.23 deaths/1,000 live births<br>
-_male_: 11.44 deaths/1,000 live births<br>
-_female_: 13.07 deaths/1,000 live births (2021 est.)<br>
+_total_: 11.99 deaths/1,000 live births<br>
+_male_: 11.23 deaths/1,000 live births<br>
+_female_: 12.78 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.71 years<br>
-_male_: 75.96 years<br>
-_female_: 81.62 years (2021 est.)<br>
+_total population_: 78.95 years<br>
+_male_: 76.21 years<br>
+_female_: 81.84 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.73 children born/woman (2021 est.)<br>
+1.72 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 55.5% (2011/12)<br>

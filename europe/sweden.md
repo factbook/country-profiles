@@ -78,7 +78,7 @@ strategic location along Danish Straits linking Baltic and North Seas; Sweden ha
 ## People and Society
 
 **Population**<br>
-10,261,767 (July 2021 est.)<br>
+10,483,647 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Swede(s)<br>
@@ -116,7 +116,7 @@ _male_: 40.1 years<br>
 _female_: 42.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.74% (2021 est.)<br>
+0.5% (2022 est.)<br>
 
 **Birth rate**<br>
 10.83 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 42.1 years (2020 est.)<br>
 9.46 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-4.87 migrant(s)/1,000 population (2021 est.)<br>
+3.6 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most Swedes live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the Baltic coast in the east; the interior areas of the north remain sparsely populated<br>
@@ -140,11 +140,11 @@ _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.87 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.1 male(s)/female<br>
+_25-54 years_: 1.04 male(s)/female<br>
+_55-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.5 years (2019 est.)<br>
@@ -153,17 +153,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 4 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.45 deaths/1,000 live births<br>
-_male_: 2.76 deaths/1,000 live births<br>
-_female_: 2.13 deaths/1,000 live births (2021 est.)<br>
+_total_: 2.3 deaths/1,000 live births<br>
+_male_: 2.52 deaths/1,000 live births<br>
+_female_: 2.06 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.6 years<br>
-_male_: 80.61 years<br>
-_female_: 84.7 years (2021 est.)<br>
+_total population_: 82.7 years<br>
+_male_: 80.94 years<br>
+_female_: 84.58 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.86 children born/woman (2021 est.)<br>
+1.67 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.3% (2017)<br>

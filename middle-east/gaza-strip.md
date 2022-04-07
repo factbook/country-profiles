@@ -64,7 +64,7 @@ once a strategic strip of land along Mideast-North African trade routes that has
 ## People and Society
 
 **Population**<br>
-1,957,062 (July 2021 est.)<br>
+1,997,328 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: NA<br>
@@ -101,7 +101,7 @@ _male_: 17.7 years<br>
 _female_: 18.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.05% (2021 est.)<br>
+2.02% (2022 est.)<br>
 
 **Birth rate**<br>
 27.67 births/1,000 population (2022 est.)<br>
@@ -110,7 +110,7 @@ _female_: 18.4 years (2020 est.)<br>
 2.91 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--4.65 migrant(s)/1,000 population (2021 est.)<br>
+-4.55 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population concentrated in major cities, particularly Gaza City in the north<br>
@@ -126,28 +126,28 @@ _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.02 male(s)/female<br>
-_25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 1.08 male(s)/female<br>
-_65 years and over_: 1.13 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.03 male(s)/female<br>
+_25-54 years_: 0.94 male(s)/female<br>
+_55-64 years_: 1.07 male(s)/female<br>
+_65 years and over_: 0.94 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 27 deaths/100,000 live births (2017 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
-_total_: 15.6 deaths/1,000 live births<br>
-_male_: 16.8 deaths/1,000 live births<br>
-_female_: 14.32 deaths/1,000 live births (2021 est.)<br>
+_total_: 15.23 deaths/1,000 live births<br>
+_male_: 16.4 deaths/1,000 live births<br>
+_female_: 13.99 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.14 years<br>
-_male_: 73.38 years<br>
-_female_: 77 years (2021 est.)<br>
+_total population_: 75.4 years<br>
+_male_: 73.65 years<br>
+_female_: 77.25 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.54 children born/woman (2021 est.)<br>
+3.44 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 57.3% (2019/20)<br>
@@ -188,6 +188,9 @@ NA<br>
 
 **HIV/AIDS - deaths**<br>
 NA<br>
+
+**Major infectious diseases**<br>
+<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the Gaza Strip is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Children under the age of 5 years underweight**<br>
 2.1% (2019/20)<br>
@@ -235,6 +238,9 @@ _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
+
+**Major infectious diseases**<br>
+<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the Gaza Strip is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.387 million tons (2016 est.)<br>

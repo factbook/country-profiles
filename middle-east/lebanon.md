@@ -73,7 +73,7 @@ smallest country in continental Asia; Nahr el Litani is the only major river in 
 ## People and Society
 
 **Population**<br>
-5,261,372 (July 2021 est.)<br>
+5,296,814 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Lebanese (singular and plural)<br>
@@ -110,7 +110,7 @@ _male_: 33.1 years<br>
 _female_: 34.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.68% (2021 est.)<br>
+0.66% (2022 est.)<br>
 
 **Birth rate**<br>
 13.1 births/1,000 population (2022 est.)<br>
@@ -119,7 +119,7 @@ _female_: 34.4 years (2020 est.)<br>
 5.57 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.95 migrant(s)/1,000 population (2021 est.)<br>
+-0.94 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the majority of the people live on or near the Mediterranean coast, and of these most live in and around the capital, Beirut; favorable growing conditions in the Bekaa Valley, on the southeastern side of the Lebanon Mountains, have attracted farmers and thus the area exhibits a smaller population density<br>
@@ -136,25 +136,25 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.91 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 29 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.2 deaths/1,000 live births<br>
-_male_: 7.78 deaths/1,000 live births<br>
-_female_: 6.6 deaths/1,000 live births (2021 est.)<br>
+_total_: 7.04 deaths/1,000 live births<br>
+_male_: 7.6 deaths/1,000 live births<br>
+_female_: 6.45 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.53 years<br>
-_male_: 77.12 years<br>
-_female_: 80 years (2021 est.)<br>
+_total population_: 78.76 years<br>
+_male_: 77.36 years<br>
+_female_: 80.23 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2021 est.)<br>
+1.71 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -194,7 +194,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 <100 (2020 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 6 October 2021, Lebanon has reported a total of 626,926 cases of COVID-19 or 9,185.13 cumulative cases of COVID-19 per 100,000 population with 122.54 cumulative deaths per 100,000 population; as of 6 October 2021, 24.21% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 30 March 2022, Lebanon has reported a total of 1,091,413 cases of COVID-19 or 15,990.35 cumulative cases of COVID-19 per 100,000 population with a total of 10,291 cumulative deaths or a rate of 150.77 cumulative deaths per 100,000 population; as of 29 March 2022, 37.17% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 32% (2016)<br>
@@ -257,7 +257,7 @@ _forest revenues_: 0% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 6 October 2021, Lebanon has reported a total of 626,926 cases of COVID-19 or 9,185.13 cumulative cases of COVID-19 per 100,000 population with 122.54 cumulative deaths per 100,000 population; as of 6 October 2021, 24.21% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 30 March 2022, Lebanon has reported a total of 1,091,413 cases of COVID-19 or 15,990.35 cumulative cases of COVID-19 per 100,000 population with a total of 10,291 cumulative deaths or a rate of 150.77 cumulative deaths per 100,000 population; as of 29 March 2022, 37.17% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _exceptional shortfall in aggregate food production/supplies_: <p>due to the ongoing financial and economic crisis - in August 2020, the UN Economic and Social Commission for Western Asia estimated that more than 55% of the population lived in poverty, up from 28% in 2019; current figures are likely to be higher due to a fall in households' purchasing power; the already worrisome economic conditions, with increasing unemployment, poverty, and skyrocketing inflation rates, have further worsened due to the COVID‑19 pandemic and the measures introduced to contain the spread of the disease</p> (2021)<br>

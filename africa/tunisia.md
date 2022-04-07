@@ -78,7 +78,7 @@ strategic location in central Mediterranean; Malta and Tunisia are discussing th
 ## People and Society
 
 **Population**<br>
-11,811,335 (July 2021 est.)<br>
+11,896,972 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Tunisian(s)<br>
@@ -116,7 +116,7 @@ _male_: 32 years<br>
 _female_: 33.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.75% (2021 est.)<br>
+0.69% (2022 est.)<br>
 
 **Birth rate**<br>
 14.62 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 33.3 years (2020 est.)<br>
 6.36 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.34 migrant(s)/1,000 population (2021 est.)<br>
+-1.33 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the overwhelming majority of the population is located in the northern half of the country; the south remains largely underpopulated as shown in this population distribution map<br>
@@ -142,25 +142,25 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
 _25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.9 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 43 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.16 deaths/1,000 live births<br>
-_male_: 13.67 deaths/1,000 live births<br>
-_female_: 10.57 deaths/1,000 live births (2021 est.)<br>
+_total_: 11.87 deaths/1,000 live births<br>
+_male_: 13.32 deaths/1,000 live births<br>
+_female_: 10.32 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.57 years<br>
-_male_: 74.88 years<br>
-_female_: 78.36 years (2021 est.)<br>
+_total population_: 76.82 years<br>
+_male_: 75.14 years<br>
+_female_: 78.6 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.03 children born/woman (2021 est.)<br>
+2 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 50.7% (2018)<br>

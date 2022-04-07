@@ -82,7 +82,7 @@ occasional typhoons (May to January) with extensive flooding, especially in the 
 ## People and Society
 
 **Population**<br>
-102,789,598 (July 2021 est.)<br>
+103,808,319 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Vietnamese (singular and plural)<br>
@@ -122,7 +122,7 @@ _male_: 30.8 years<br>
 _female_: 33 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1% (2021 est.)<br>
+0.97% (2022 est.)<br>
 
 **Birth rate**<br>
 15.69 births/1,000 population (2022 est.)<br>
@@ -131,7 +131,7 @@ _female_: 33 years (2020 est.)<br>
 5.77 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.23 migrant(s)/1,000 population (2021 est.)<br>
+-0.22 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 though it has one of the highest population densities in the world, the population is not evenly dispersed; clustering is heaviest along the South China Sea and Gulf of Tonkin, with the Mekong Delta (in the south) and the Red River Valley (in the north) having the largest concentrations of people<br>
@@ -144,29 +144,29 @@ _rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
 9.077 million Ho Chi Minh City, 5.067 million HANOI (capital), 1.786 million Can Tho, 1.382 million Hai Phong, 1.188 million Da Nang, 1.078 million Bien Hoa (2022)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.09 male(s)/female<br>
-_0-14 years_: 1.11 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.88 male(s)/female<br>
-_65 years and over_: 0.66 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_at birth_: 1.11 male(s)/female<br>
+_0-14 years_: 1.12 male(s)/female<br>
+_15-24 years_: 1.06 male(s)/female<br>
+_25-54 years_: 1.02 male(s)/female<br>
+_55-64 years_: 0.9 male(s)/female<br>
+_65 years and over_: 0.5 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 43 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.09 deaths/1,000 live births<br>
-_male_: 15.42 deaths/1,000 live births<br>
-_female_: 14.71 deaths/1,000 live births (2021 est.)<br>
+_total_: 14.75 deaths/1,000 live births<br>
+_male_: 15.09 deaths/1,000 live births<br>
+_female_: 14.38 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.25 years<br>
-_male_: 72.67 years<br>
-_female_: 78.12 years (2021 est.)<br>
+_total population_: 75.52 years<br>
+_male_: 72.95 years<br>
+_female_: 78.37 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.06 children born/woman (2021 est.)<br>
+2.05 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 76.5% (2018/19)<br>

@@ -82,7 +82,7 @@ hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plague
 ## People and Society
 
 **Population**<br>
-17,414,108 (July 2021 est.)<br>
+17,963,211 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Chadian(s)<br>
@@ -120,7 +120,7 @@ _male_: 15.6 years<br>
 _female_: 16.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.12% (2021 est.)<br>
+3.09% (2022 est.)<br>
 
 **Birth rate**<br>
 40.45 births/1,000 population (2022 est.)<br>
@@ -129,7 +129,7 @@ _female_: 16.5 years (2020 est.)<br>
 9.45 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.13 migrant(s)/1,000 population (2021 est.)<br>
+-0.13 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated as shown in this population distribution map<br>
@@ -145,10 +145,10 @@ _rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.93 male(s)/female<br>
-_55-64 years_: 0.78 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.92 male(s)/female<br>
+_55-64 years_: 0.77 male(s)/female<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 18.1 years (2014/15 est.)<br>
@@ -158,17 +158,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 1,140 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 67.02 deaths/1,000 live births<br>
-_male_: 72.83 deaths/1,000 live births<br>
-_female_: 60.97 deaths/1,000 live births (2021 est.)<br>
+_total_: 65.48 deaths/1,000 live births<br>
+_male_: 71.21 deaths/1,000 live births<br>
+_female_: 59.52 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 58.73 years<br>
-_male_: 56.92 years<br>
-_female_: 60.6 years (2021 est.)<br>
+_total population_: 59.15 years<br>
+_male_: 57.32 years<br>
+_female_: 61.06 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-5.57 children born/woman (2021 est.)<br>
+5.46 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 8.1% (2019)<br>
@@ -211,6 +211,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Chad is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.1% (2016)<br>
@@ -279,6 +280,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Chad is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to civil insecurity - about 1.78 million people were projected to be in &ldquo;Crisis&rdquo; and above in the June‑August 2021 period due to persistent insecurity in the Lac and Tibesti regions, which continues to disrupt livelihood activities and to cause population displacements; about 336,124 people were displaced due to insecurity in Lake Chad Region; COVID‑19 pandemic containment measures continue to slow down the national economy, reducing employment opportunities; this downturn has contributed to a weakening of the purchasing power of poor vulnerable households, limiting their access to food (2021)<br>
@@ -359,8 +361,8 @@ _election results_: Lt. Gen. Idriss DEBY Itno reelected; percent of vote - Lt. G
 
 **Legislative branch**<br>
 _description_: formerly a unicameral National Assembly or <em>Assemblée Nationale </em>(188 seats; 163 directly elected in multi-seat constituencies by proportional representation vote and 25 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms); note - on 5 October 2021, Interim President Mahamat Idriss DEBY installed 93 members of an interim parliament, called the National Transitional Council (NTC); according to DEBY, the NTC will act as a national assembly of transition until the country’s next elections take place<br>
-_elections_: <p>last held on 13 February and 6 May 2011 (next originally scheduled on 13 December 2020 but postponed due to the COVID-19 pandemic)</p><br>
-_election results_: percent of vote by party - NA; seats by party - MPS 117, UNDR 10, RDP 9, RNDT/Le Reveil 8, URD 8, Viva-RNDP 5, FAR 4, CTPD 2, PDSA 2, PUR 2, UDR 2, other 19; composition - men 164, women 24, percent of women 12.8%<br>
+_elections_: <p>members of the so called "National Transitional Council" were installed by Interim President DEBY on 24 September 2021 (next election NA)</p><br>
+_election results_: percent of vote by party - NA; seats by party - NA; composition - men 64, women 29, percent of women 31.2%<br>
 <strong>note:</strong> the National Assembly mandate was extended to 2020, reportedly due to a lack of funding for the scheduled 2015 election; the MPS has held a majority in the NA since 1997<br>
 
 **Judicial branch**<br>

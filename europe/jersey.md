@@ -72,7 +72,7 @@ largest and southernmost of Channel Islands; about 30% of population concentrate
 ## People and Society
 
 **Population**<br>
-101,476 (July 2021 est.)<br>
+102,146 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Channel Islander(s)<br>
@@ -108,7 +108,7 @@ _male_: 36 years<br>
 _female_: 39.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.67% (2021 est.)<br>
+0.64% (2022 est.)<br>
 
 **Birth rate**<br>
 12.41 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 39.5 years (2020 est.)<br>
 7.75 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-2.03 migrant(s)/1,000 population (2021 est.)<br>
+1.76 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 fairly even distribution; no notable trends<br>
@@ -133,24 +133,24 @@ _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
+_15-24 years_: 1.07 male(s)/female<br>
+_25-54 years_: 1.04 male(s)/female<br>
 _55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.61 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.94 deaths/1,000 live births<br>
-_male_: 4.39 deaths/1,000 live births<br>
-_female_: 3.46 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.87 deaths/1,000 live births<br>
+_male_: 4.32 deaths/1,000 live births<br>
+_female_: 3.4 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.43 years<br>
-_male_: 79.92 years<br>
-_female_: 85.09 years (2021 est.)<br>
+_total population_: 82.63 years<br>
+_male_: 80.13 years<br>
+_female_: 85.28 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.66 children born/woman (2021 est.)<br>
+1.66 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

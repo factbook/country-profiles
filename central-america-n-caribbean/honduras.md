@@ -79,7 +79,7 @@ has only a short Pacific coast but a long Caribbean shoreline, including the vir
 ## People and Society
 
 **Population**<br>
-9,346,277 (July 2021 est.)<br>
+9,459,440 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -94,7 +94,7 @@ Spanish (official), Amerindian dialects<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 46%, Protestant 41%, atheist 1%, other 2%, none 9% (2014 est.)<br>
+Evangelical/Protestant 48%, Roman Catholic 34%, other 1%, none 17% (2020 est.)<br>
 
 **Demographic profile**<br>
 <p>Honduras is one of the poorest countries in Latin America and has one of the world's highest murder rates. More than half of the population lives in poverty and per capita income is one of the lowest in the region. Poverty rates are higher among rural and indigenous people and in the south, west, and along the eastern border than in the north and central areas where most of Honduras' industries and infrastructure are concentrated. The increased productivity needed to break Honduras' persistent high poverty rate depends, in part, on further improvements in educational attainment. Although primary-school enrollment is near 100%, educational quality is poor, the drop-out rate and grade repetition remain high, and teacher and school accountability is low.</p> <p>Honduras' population growth rate has slowed since the 1990s and is now 1.2% annually with a birth rate that averages 2.1 children per woman and more among rural, indigenous, and poor women. Honduras' young adult population - ages 15 to 29 - is projected to continue growing rapidly for the next three decades and then stabilize or slowly shrink. Population growth and limited job prospects outside of agriculture will continue to drive emigration. Remittances represent about a fifth of GDP.</p><br>
@@ -118,7 +118,7 @@ _male_: 23.5 years<br>
 _female_: 25.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.22% (2021 est.)<br>
+1.19% (2022 est.)<br>
 
 **Birth rate**<br>
 17.92 births/1,000 population (2022 est.)<br>
@@ -127,7 +127,7 @@ _female_: 25.2 years (2020 est.)<br>
 4.68 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.35 migrant(s)/1,000 population (2021 est.)<br>
+-1.34 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most residents live in the mountainous western half of the country; unlike other Central American nations, Honduras is the only one with an urban population that is distributed between two large centers - the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area<br>
@@ -141,12 +141,12 @@ _rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.02 male(s)/female<br>
+_0-14 years_: 1.03 male(s)/female<br>
 _15-24 years_: 1 male(s)/female<br>
 _25-54 years_: 0.9 male(s)/female<br>
 _55-64 years_: 0.83 male(s)/female<br>
-_65 years and over_: 0.8 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2011/12 est.)<br>
@@ -156,17 +156,17 @@ _total population_: 0.95 male(s)/female (2020 est.)<br>
 65 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.39 deaths/1,000 live births<br>
-_male_: 17.52 deaths/1,000 live births<br>
-_female_: 13.19 deaths/1,000 live births (2021 est.)<br>
+_total_: 15.08 deaths/1,000 live births<br>
+_male_: 17.2 deaths/1,000 live births<br>
+_female_: 12.89 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.9 years<br>
-_male_: 71.34 years<br>
-_female_: 78.58 years (2021 est.)<br>
+_total population_: 75.17 years<br>
+_male_: 71.63 years<br>
+_female_: 78.82 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.05 children born/woman (2021 est.)<br>
+2.01 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73.2% (2011/12)<br>

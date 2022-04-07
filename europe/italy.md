@@ -78,7 +78,7 @@ strategic location dominating central Mediterranean as well as southern sea and 
 ## People and Society
 
 **Population**<br>
-62,390,364 (July 2021 est.)<br>
+61,095,551 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Italian(s)<br>
@@ -113,7 +113,7 @@ _male_: 45.4 years<br>
 _female_: 47.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.09% (2021 est.)<br>
+-0.13% (2022 est.)<br>
 
 **Birth rate**<br>
 6.95 births/1,000 population (2022 est.)<br>
@@ -122,7 +122,7 @@ _female_: 47.5 years (2020 est.)<br>
 11.31 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-3.21 migrant(s)/1,000 population (2021 est.)<br>
+3.02 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations<br>
@@ -139,9 +139,9 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.01 male(s)/female<br>
 _25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.3 years (2019 est.)<br>
@@ -150,17 +150,17 @@ _total population_: 0.93 male(s)/female (2020 est.)<br>
 2 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.14 deaths/1,000 live births<br>
-_male_: 3.4 deaths/1,000 live births<br>
-_female_: 2.87 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.16 deaths/1,000 live births<br>
+_male_: 3.32 deaths/1,000 live births<br>
+_female_: 2.99 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.67 years<br>
-_male_: 80.01 years<br>
-_female_: 85.49 years (2021 est.)<br>
+_total population_: 82.59 years<br>
+_male_: 80.25 years<br>
+_female_: 85.08 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.47 children born/woman (2021 est.)<br>
+1.22 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 65.1% (2013)<br>
@@ -203,7 +203,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Italy has reported a total of 4,686,109 cases of COVID-19 or 7,857.13 cumulative cases of COVID-19 per 100,000 population with 219.84 cumulative deaths per 100,000 population; as of 5 October 2021, 75.36% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Italy has reported a total of 14,496,579 cases of COVID-19 or 24,306.19 cumulative cases of COVID-19 per 100,000 population with a total of 159,054 cumulative deaths or a rate of 266.68 cumulative deaths per 100,000 population; as of 29 March 2022, 84.02% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
@@ -266,7 +266,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Italy has reported a total of 4,686,109 cases of COVID-19 or 7,857.13 cumulative cases of COVID-19 per 100,000 population with 219.84 cumulative deaths per 100,000 population; as of 5 October 2021, 75.36% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Italy has reported a total of 14,496,579 cases of COVID-19 or 24,306.19 cumulative cases of COVID-19 per 100,000 population with a total of 159,054 cumulative deaths or a rate of 266.68 cumulative deaths per 100,000 population; as of 29 March 2022, 84.02% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 29.524 million tons (2015 est.)<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 597,498 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
+<strong>note:</strong> 597,663 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

@@ -65,7 +65,7 @@ occasional droughts; no streams or large bodies of water on the peninsula (all p
 ## People and Society
 
 **Population**<br>
-29,516 (July 2021 est.)<br>
+29,573 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Gibraltarian(s)<br>
@@ -100,7 +100,7 @@ _male_: 34.4 years<br>
 _female_: 36.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.19% (2021 est.)<br>
+0.19% (2022 est.)<br>
 
 **Birth rate**<br>
 13.93 births/1,000 population (2022 est.)<br>
@@ -109,7 +109,7 @@ _female_: 36.6 years (2020 est.)<br>
 8.76 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--3.25 migrant(s)/1,000 population (2021 est.)<br>
+-3.25 migrant(s)/1,000 population (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2022)<br>
@@ -119,26 +119,26 @@ _rate of urbanization_: 0.45% annual rate of change (2015-20 est.)<br>
 35,000 GIBRALTAR (capital) (2018)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.07 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.06 male(s)/female<br>
-_55-64 years_: 0.72 male(s)/female<br>
-_65 years and over_: 0.93 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_at birth_: 1.05 male(s)/female<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-24 years_: 1.06 male(s)/female<br>
+_25-54 years_: 1.05 male(s)/female<br>
+_55-64 years_: 0.79 male(s)/female<br>
+_65 years and over_: 0.95 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.38 deaths/1,000 live births<br>
-_male_: 7.2 deaths/1,000 live births<br>
-_female_: 5.52 deaths/1,000 live births (2021 est.)<br>
+_total_: 6.25 deaths/1,000 live births<br>
+_male_: 7.06 deaths/1,000 live births<br>
+_female_: 5.41 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.2 years<br>
-_male_: 77.34 years<br>
-_female_: 83.2 years (2021 est.)<br>
+_total population_: 80.42 years<br>
+_male_: 77.58 years<br>
+_female_: 83.41 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.91 children born/woman (2021 est.)<br>
+1.9 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

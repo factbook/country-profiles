@@ -74,7 +74,7 @@ smallest country in the Western Hemisphere both in terms of area and population;
 ## People and Society
 
 **Population**<br>
-54,149 (July 2021 est.)<br>
+54,488 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Kittitian(s), Nevisian(s)<br>
@@ -108,7 +108,7 @@ _male_: 36.7 years<br>
 _female_: 36.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.64% (2021 est.)<br>
+0.61% (2022 est.)<br>
 
 **Birth rate**<br>
 12.24 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 36.3 years (2020 est.)<br>
 7.27 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-1.16 migrant(s)/1,000 population (2021 est.)<br>
+1.16 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population clusters are found in the small towns located on the periphery of both islands<br>
@@ -131,25 +131,25 @@ _rate of urbanization_: 1.06% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
-_0-14 years_: 1 male(s)/female<br>
-_15-24 years_: 0.94 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.01 male(s)/female<br>
+_15-24 years_: 0.95 male(s)/female<br>
+_25-54 years_: 1.04 male(s)/female<br>
+_55-64 years_: 1.03 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.5 deaths/1,000 live births<br>
-_male_: 5.76 deaths/1,000 live births<br>
-_female_: 11.3 deaths/1,000 live births (2021 est.)<br>
+_total_: 8.35 deaths/1,000 live births<br>
+_male_: 5.69 deaths/1,000 live births<br>
+_female_: 11.06 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.83 years<br>
-_male_: 74.37 years<br>
-_female_: 79.34 years (2021 est.)<br>
+_total population_: 77.08 years<br>
+_male_: 74.63 years<br>
+_female_: 79.58 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.77 children born/woman (2021 est.)<br>
+1.76 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

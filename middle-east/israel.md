@@ -77,7 +77,7 @@ sandstorms may occur during spring and summer; droughts; periodic earthquakes<br
 ## People and Society
 
 **Population**<br>
-8,787,045 (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967) (July 2021 est.)<br>
+8,914,885 (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967) (2022 est.)<br>
 <strong>note:</strong> approximately 227,100 Israeli settlers live in East Jerusalem (2019); following the March 2019 US recognition of the Golan Heights as being part of Israel, <em>The World Factbook</em> no longer includes Israeli settler population of the Golan Heights (estimated at 23,400 in 2019) in its overall Israeli settler total<br>
 
 **Nationality**<br>
@@ -113,7 +113,7 @@ _male_: 29.8 years<br>
 _female_: 31 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.45% (2021 est.)<br>
+1.44% (2022 est.)<br>
 
 **Birth rate**<br>
 17.41 births/1,000 population (2022 est.)<br>
@@ -122,7 +122,7 @@ _female_: 31 years (2020 est.)<br>
 5.05 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-2.05 migrant(s)/1,000 population (2021 est.)<br>
+2.02 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba<br>
@@ -139,9 +139,9 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.82 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_55-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.7 years (2019 est.)<br>
@@ -150,17 +150,17 @@ _total population_: 1.01 male(s)/female (2020 est.)<br>
 3 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.62 deaths/1,000 live births<br>
-_male_: 3.88 deaths/1,000 live births<br>
-_female_: 3.34 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.56 deaths/1,000 live births<br>
+_male_: 3.82 deaths/1,000 live births<br>
+_female_: 3.28 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.15 years<br>
-_male_: 81.25 years<br>
-_female_: 85.15 years (2021 est.)<br>
+_total population_: 83.35 years<br>
+_male_: 81.45 years<br>
+_female_: 85.34 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.57 children born/woman (2021 est.)<br>
+2.56 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -198,6 +198,9 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
 <100 (2018)<br>
+
+**Major infectious diseases**<br>
+<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Israel is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Obesity - adult prevalence rate**<br>
 26.1% (2016)<br>
@@ -258,6 +261,9 @@ _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
+
+**Major infectious diseases**<br>
+<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Israel is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5.4 million tons (2015 est.)<br>

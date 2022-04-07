@@ -5,7 +5,7 @@ _Central Asia / Countries_
 ## Introduction
 
 **Background**<br>
-Present-day Turkmenistan covers territory that has been at the crossroads of civilizations for centuries. The area was ruled in antiquity by various Persian empires, and was conquered by Alexander the Great, Muslim armies, the Mongols, Turkic warriors, and eventually the Russians. In medieval times, Merv (located in present-day Mary province) was one of the great cities of the Islamic world and an important stop on the Silk Road. Annexed by Russia in the late 1800s, Turkmen territories later figured prominently in the anti-Bolshevik resistance in Central Asia. In 1924, Turkmenistan became a Soviet republic; it achieved independence upon the dissolution of the USSR in 1991. President for Life Saparmyrat NYYAZOW died in December 2006, and Gurbanguly BERDIMUHAMEDOW, a deputy chairman under NYYAZOW, emerged as the country's new president. BERDIMUHAMEDOW won Turkmenistan's first multi-candidate presidential election in February 2007, and again in 2012 and in 2017 with over 97% of the vote in both instances, in elections widely regarded as undemocratic. He announced his retirement in February 2022, but arranged for his son, Serdar BERDIMUHAMEDOW, to succeed him in a March 2022 presidential election.<br><br>Turkmenistan has sought new export markets for its extensive hydrocarbon/natural gas reserves, which have yet to be fully exploited. As of late 2021, Turkmenistan exported the majority of its gas to China and smaller levels of gas to Russia. Turkmenistan's reliance on gas exports has made the economy vulnerable to fluctuations in the global energy market, and economic hardships since the drop in energy prices in 2014 have led many Turkmenistanis to emigrate, mostly to Turkey.<br>
+Present-day Turkmenistan covers territory that has been at the crossroads of civilizations for centuries. The area was ruled in antiquity by various Persian empires, and was conquered by Alexander the Great, Muslim armies, the Mongols, Turkic warriors, and eventually the Russians. In medieval times, Merv (located in present-day Mary province) was one of the great cities of the Islamic world and an important stop on the Silk Road. Annexed by Russia in the late 1800s, Turkmen territories later figured prominently in the anti-Bolshevik resistance in Central Asia. In 1924, Turkmenistan became a Soviet republic; it achieved independence upon the dissolution of the USSR in 1991. President for Life Saparmyrat NYYAZOW died in December 2006, and Gurbanguly BERDIMUHAMEDOW, a deputy chairman under NYYAZOW, emerged as the country's new president. BERDIMUHAMEDOW won Turkmenistan's first multi-candidate presidential election in February 2007, and again in 2012 and in 2017 with over 97% of the vote in both instances, in elections widely regarded as undemocratic.  In February 2022, BERDIMUHAMEDOW announced that he would step down from the presidency and called for an election to replace him. His son, Serdar BERDIMUHAMEDOW, won the ensuing election, held in March 2022, with 73% of the vote. Gurbanguly BERDIMUHAMEDOW, although no longer head of state, maintains an influential political position as head of the Halk Maslahaty (People’s Council).<br><br>Turkmenistan has sought new export markets for its extensive hydrocarbon/natural gas reserves, which have yet to be fully exploited. As of late 2021, Turkmenistan exported the majority of its gas to China and smaller levels of gas to Russia. Turkmenistan's reliance on gas exports has made the economy vulnerable to fluctuations in the global energy market, and economic hardships since the drop in energy prices in 2014 have led many Turkmenistanis to emigrate, mostly to Turkey. Heavy restrictions placed by the government in 2020 on entry and exit into the country in response to the COVID-19 pandemic have resulted in a steep drop in emigration, however.<br>
 
 ## Geography
 
@@ -82,7 +82,7 @@ landlocked; the western and central low-lying desolate portions of the country m
 ## People and Society
 
 **Population**<br>
-5,579,889 (July 2021 est.)<br>
+5,636,011 (2022 est.)<br>
 <strong>note:</strong> some sources suggest Turkmenistan's population could be as much as 1 to 2 million people lower than available estimates because of large-scale emigration during the last 10 years<br>
 
 **Nationality**<br>
@@ -118,7 +118,7 @@ _male_: 28.7 years<br>
 _female_: 29.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.02% (2021 est.)<br>
+0.99% (2022 est.)<br>
 
 **Birth rate**<br>
 17.51 births/1,000 population (2022 est.)<br>
@@ -127,7 +127,7 @@ _female_: 29.7 years (2020 est.)<br>
 5.95 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.72 migrant(s)/1,000 population (2021 est.)<br>
+-1.71 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat<br>
@@ -144,9 +144,9 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-24 years_: 1.01 male(s)/female<br>
 _25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.88 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.89 male(s)/female<br>
+_65 years and over_: 0.59 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.2 years (2019)<br>
@@ -155,17 +155,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 7 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 38.54 deaths/1,000 live births<br>
-_male_: 46.87 deaths/1,000 live births<br>
-_female_: 29.79 deaths/1,000 live births (2021 est.)<br>
+_total_: 37.62 deaths/1,000 live births<br>
+_male_: 45.76 deaths/1,000 live births<br>
+_female_: 29.07 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.54 years<br>
-_male_: 68.5 years<br>
-_female_: 74.73 years (2021 est.)<br>
+_total population_: 71.83 years<br>
+_male_: 68.8 years<br>
+_female_: 75 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.04 children born/woman (2021 est.)<br>
+2.03 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49.7% (2019)<br>
@@ -335,7 +335,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2022:</em> Serdar BERDIMUHAMEDOW elected president; percent of vote - Serdar BERDIMUHAMEDOW 73.0%,  Khydyr NUNNAYEV 11.1%, Agadzhan BEKMYRADOV 7.2%, other 8.7%; note - Serdar BERDIMUHAMEDOW is the son of previous president Gurbanguly BERDIMUHAMEDOW<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br><br><em>2012:</em> Gurbanguly BERDIMUHAMEDOW reelected president; percent of vote - Gurbanguly BERDIMUHAMEDOW 97.1%, Annageldi YAZMYRADOW 1.1%, other candidates 1.8%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Council or Milli Genesi consists of:<br>People's Council or Halk Maslahaty (56 seats; 48 members indirectly elected by provincial councils and 8 members appointed by the president)<br>Assembly or Mejlisi (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br><br>note: in September 2020, the Turkmenistani legislature (Milli Genesi) adopted a constitutional amendment creating an upper chamber, making the legislature bicameral; the chairperson of the Halk Maslahaty is now designated as the constitutional successor to the presidency; as of April 2021, Gurbanguly BERDIMUHAMEDOW serves in this position in addition to being president<br>
+_description_: bicameral National Council or Milli Genesi consists of:<br>People's Council or Halk Maslahaty (56 seats; 48 members indirectly elected by provincial councils and 8 members appointed by the president)<br>Assembly or Mejlisi (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br><br>note: in September 2020, the Turkmenistani legislature (Milli Genesi) adopted a constitutional amendment creating an upper chamber, making the legislature bicameral; the chairperson of the Halk Maslahaty is now designated as the constitutional successor to the presidency; as of March 2022, Gurbanguly BERDIMUHAMEDOW continues to serve in this position after stepping away from the presidency.<br>
 _elections_: People's Council - first held on 28 March 2021 for 48 indirectly elected members (next to be held in 2026); first held on 14 April 2021 for 8 presidentially appointed members (next to be held NA)<br>Assembly - last held on 25 March 2018 (next to be held NA)<br>
 _election results_: People's Council - percent of vote by party - NA; seats by party - DPT 3, independent 45; composition - men 42, women 14, percent of women 32.3%<br>Assembly - percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition (as of March 2018) - men 94, women 31, percent of women 24.8%; note - total percent of National Council percent of women 24.9%<br>
 

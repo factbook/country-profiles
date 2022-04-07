@@ -82,7 +82,7 @@ almost an enclave of Senegal; smallest country on the African mainland<br>
 ## People and Society
 
 **Population**<br>
-2,221,301 (July 2021 est.)<br>
+2,413,403 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Gambian(s)<br>
@@ -119,7 +119,7 @@ _male_: 21.5 years<br>
 _female_: 22.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.82% (2021 est.)<br>
+2.29% (2022 est.)<br>
 
 **Birth rate**<br>
 28.78 births/1,000 population (2022 est.)<br>
@@ -128,7 +128,7 @@ _female_: 22.2 years (2020 est.)<br>
 5.81 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.55 migrant(s)/1,000 population (2021 est.)<br>
+-0.04 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul, and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast as shown in this population distribution map<br>
@@ -143,12 +143,12 @@ _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 0.98 male(s)/female<br>
+_0-14 years_: 1.02 male(s)/female<br>
+_15-24 years_: 1.01 male(s)/female<br>
 _25-54 years_: 0.96 male(s)/female<br>
-_55-64 years_: 0.91 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.76 male(s)/female<br>
+_65 years and over_: 0.88 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.7 years (2019/20 est.)<br>
@@ -158,17 +158,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 597 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 65.04 deaths/1,000 live births<br>
-_male_: 70.93 deaths/1,000 live births<br>
-_female_: 58.98 deaths/1,000 live births (2021 est.)<br>
+_total_: 37.19 deaths/1,000 live births<br>
+_male_: 40.75 deaths/1,000 live births<br>
+_female_: 33.53 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.15 years<br>
-_male_: 63.8 years<br>
-_female_: 68.57 years (2021 est.)<br>
+_total population_: 67.6 years<br>
+_male_: 65.83 years<br>
+_female_: 69.41 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.13 children born/woman (2021 est.)<br>
+3.79 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 16.8% (2018)<br>
@@ -215,6 +215,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Gambia is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 10.3% (2016)<br>
@@ -278,6 +279,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Gambia is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 193,441 tons (2002 est.)<br>

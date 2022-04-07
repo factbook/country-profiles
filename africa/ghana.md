@@ -82,7 +82,7 @@ Lake Volta is the world's largest artificial lake (manmade reservoir) by surface
 ## People and Society
 
 **Population**<br>
-32,372,889 (July 2021 est.)<br>
+33,107,275 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -121,7 +121,7 @@ _male_: 21 years<br>
 _female_: 21.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.26% (2021 est.)<br>
+2.23% (2022 est.)<br>
 
 **Birth rate**<br>
 28.55 births/1,000 population (2022 est.)<br>
@@ -130,7 +130,7 @@ _female_: 21.9 years (2020 est.)<br>
 6.14 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.17 migrant(s)/1,000 population (2021 est.)<br>
+-0.16 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population is concentrated in the southern half of the country, with the highest concentrations being on or near the Atlantic coast as shown in this population distribution map<br>
@@ -144,12 +144,12 @@ _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.01 male(s)/female<br>
+_0-14 years_: 1.02 male(s)/female<br>
 _15-24 years_: 0.99 male(s)/female<br>
-_25-54 years_: 0.94 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.89 male(s)/female<br>
+_55-64 years_: 0.88 male(s)/female<br>
+_65 years and over_: 0.72 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.7 years (2014 est.)<br>
@@ -159,17 +159,17 @@ _total population_: 0.97 male(s)/female (2020 est.)<br>
 308 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 33.33 deaths/1,000 live births<br>
-_male_: 36.86 deaths/1,000 live births<br>
-_female_: 29.7 deaths/1,000 live births (2021 est.)<br>
+_total_: 32.59 deaths/1,000 live births<br>
+_male_: 36.05 deaths/1,000 live births<br>
+_female_: 29.03 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.01 years<br>
-_male_: 67.33 years<br>
-_female_: 70.74 years (2021 est.)<br>
+_total population_: 69.37 years<br>
+_male_: 67.7 years<br>
+_female_: 71.09 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.71 children born/woman (2021 est.)<br>
+3.66 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 27.2% (2017/18)<br>

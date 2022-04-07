@@ -85,7 +85,7 @@ strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Da
 ## People and Society
 
 **Population**<br>
-82,482,383 (July 2021 est.)<br>
+83,047,706 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Turk(s)<br>
@@ -120,7 +120,7 @@ _male_: 31.7 years<br>
 _female_: 32.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.7% (2021 est.)<br>
+0.67% (2022 est.)<br>
 
 **Birth rate**<br>
 14.28 births/1,000 population (2022 est.)<br>
@@ -129,7 +129,7 @@ _female_: 32.8 years (2020 est.)<br>
 6.05 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.55 migrant(s)/1,000 population (2021 est.)<br>
+-1.54 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the most densely populated area is found around the Bosporus in the northwest where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast<br>
@@ -144,11 +144,11 @@ _rate of urbanization_: 1.11% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
+_15-24 years_: 1.05 male(s)/female<br>
 _25-54 years_: 1.03 male(s)/female<br>
 _55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.81 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.61 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.4 years (2019 est.)<br>
@@ -157,17 +157,17 @@ _total population_: 1.01 male(s)/female (2020 est.)<br>
 17 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.87 deaths/1,000 live births<br>
-_male_: 21.58 deaths/1,000 live births<br>
-_female_: 18.08 deaths/1,000 live births (2021 est.)<br>
+_total_: 19.35 deaths/1,000 live births<br>
+_male_: 21.01 deaths/1,000 live births<br>
+_female_: 17.61 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.96 years<br>
-_male_: 73.57 years<br>
-_female_: 78.46 years (2021 est.)<br>
+_total population_: 76.21 years<br>
+_male_: 73.84 years<br>
+_female_: 78.7 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.94 children born/woman (2021 est.)<br>
+1.93 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 69.8% (2018)<br>
@@ -208,7 +208,7 @@ NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 6 October 2021, Turkey has reported a total of 7,296,879 cases of COVID-19 or 8,651.84 cumulative cases of COVID-19 per 100,000 population with 77.23 cumulative deaths per 100,000 population; as of 6 October 2021, 63.84% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 30 March 2022, Turkey has reported a total of 14,831,231 cases of COVID-19 or 17,585.24 cumulative cases of COVID-19 per 100,000 population with a total of 97,924 cumulative deaths or a rate of 116.10 cumulative deaths per 100,000 population; as of 29 March 2022, 67.94% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 32.1% (2016)<br>
@@ -272,7 +272,7 @@ _coal revenues_: 0.05% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 6 October 2021, Turkey has reported a total of 7,296,879 cases of COVID-19 or 8,651.84 cumulative cases of COVID-19 per 100,000 population with 77.23 cumulative deaths per 100,000 population; as of 6 October 2021, 63.84% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 30 March 2022, Turkey has reported a total of 14,831,231 cases of COVID-19 or 17,585.24 cumulative cases of COVID-19 per 100,000 population with a total of 97,924 cumulative deaths or a rate of 116.10 cumulative deaths per 100,000 population; as of 29 March 2022, 67.94% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 31.283 million tons (2015 est.)<br>
@@ -741,7 +741,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,751,889 (Syria) (2022)<br>
+_refugees (country of origin)_: 3,754,591 (Syria) (2022)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 

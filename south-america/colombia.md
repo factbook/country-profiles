@@ -85,7 +85,7 @@ only South American country with coastlines on both the North Pacific Ocean and 
 ## People and Society
 
 **Population**<br>
-50,355,650 (July 2021 est.)<br>
+49,059,221 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Colombian(s)<br>
@@ -123,7 +123,7 @@ _male_: 30.2 years<br>
 _female_: 32.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.04% (2021 est.)<br>
+0.59% (2022 est.)<br>
 
 **Birth rate**<br>
 15.21 births/1,000 population (2022 est.)<br>
@@ -132,7 +132,7 @@ _female_: 32.2 years (2020 est.)<br>
 7.73 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.6 migrant(s)/1,000 population (2021 est.)<br>
+-1.58 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
@@ -145,13 +145,13 @@ _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 11.344 million BOGOTA (capital), 4.068 million Medellin, 2.837 million Cali, 2.325 million Barranquilla, 1.366 million Bucaramanga, 1.079 million Cartagena (2022)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.06 male(s)/female<br>
+_at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.72 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.94 male(s)/female<br>
+_55-64 years_: 0.85 male(s)/female<br>
+_65 years and over_: 0.65 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.7 years (2015 est.)<br>
@@ -161,17 +161,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 83 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.88 deaths/1,000 live births<br>
-_male_: 15.73 deaths/1,000 live births<br>
-_female_: 9.86 deaths/1,000 live births (2021 est.)<br>
+_total_: 11.65 deaths/1,000 live births<br>
+_male_: 13.07 deaths/1,000 live births<br>
+_female_: 10.15 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.91 years<br>
-_male_: 73.77 years<br>
-_female_: 80.23 years (2021 est.)<br>
+_total population_: 74.89 years<br>
+_male_: 71.27 years<br>
+_female_: 78.69 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.14 children born/woman (2021 est.)<br>
+1.95 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 81% (2015/16)<br>
@@ -214,7 +214,7 @@ _unimproved: total_: total: 3% of population (2020 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever, malaria, and yellow fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 6 October 2021, Columbia has reported a total of 4,963,243 cases of COVID-19 or 9,754.25 cumulative cases of COVID-19 per 100,000 population with 248.46 cumulative deaths per 100,000 population; as of 1 October 2021, 33.56% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 30 March 2022, Columbia has reported a total of 6,083,939 cases of COVID-19 or 11,956.74 cumulative cases of COVID-19 per 100,000 population with a total of 139,585 cumulative deaths or a rate 274.32 cumulative deaths per 100,000 population; as of 29 March 2022, 81.8% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 22.3% (2016)<br>
@@ -280,7 +280,7 @@ _coal revenues_: 0.75% of GDP (2018 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever, malaria, and yellow fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 6 October 2021, Columbia has reported a total of 4,963,243 cases of COVID-19 or 9,754.25 cumulative cases of COVID-19 per 100,000 population with 248.46 cumulative deaths per 100,000 population; as of 1 October 2021, 33.56% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 30 March 2022, Columbia has reported a total of 6,083,939 cases of COVID-19 or 11,956.74 cumulative cases of COVID-19 per 100,000 population with a total of 139,585 cumulative deaths or a rate 274.32 cumulative deaths per 100,000 population; as of 29 March 2022, 81.8% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 12,150,120 tons (2011 est.)<br>
@@ -358,7 +358,7 @@ _elections/appointments_: president directly elected by absolute majority vote i
 _election results_: <em><br>2018:</em> Ivan DUQUE Marquez elected president in second round; percent of vote - Ivan DUQUE Marquez (CD) 54%, Gustavo PETRO (Humane Colombia) 41.8%, other/blank/invalid 4.2%<br><em><br>2014:</em> Juan Manuel SANTOS Calderon reelected president in second round; percent of vote - Juan Manuel SANTOS Calderon (U Party) 51%, Oscar Ivan ZULUAGA (CD) 45%, other 4%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the People's Alternative Revolutionary Force (FARC) political party for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br>Chamber of Representatives or Camara de Representantes (172 seats; 165 members elected in multi-seat constituencies by party-list proportional representation vote, 5 members of the FARC for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)<br>
+_description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the Commons political party, formerly the People's Alternative Revolutionary Force (FARC), for 2 legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br> <p>Chamber of Representatives or Camara de Representantes (188 seats; 162 members elected in multi-seat constituencies by party-list proportional representation vote, 2 members elected in a special nationwide constituency for Afro-Colombians, 1 member elected by Colombians residing abroad, 1 member elected in a special nationwide constituency for the indigenous communities, 5 members of the Commons political party for two legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, 16 seats for rural conflict victims for two legislative terms only: 2022-2026 and 2026-2030, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve four-year terms)</p><br>
 _elections_: <strong> </strong><br>Senate - last held on 11 March 2018 (next to be held on 13 March 2022)<br>Chamber of Representatives - last held on 11 March 2018 (next to be held on 13 March 2022)<br>
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - CD 19, CR 16, PC 15, PL 14, U Party 14, Green Alliance 10, PDA 5, other 9; composition for 2018 election - men 77, women 31, percent of women 28.7%<br>Chamber of Representatives - percent of vote by party - NA; seats by party - PL 35, CD 32, CR 30, U Party 25, PC 21, Green Alliance 9, other 13; composition for 2018 election - men 147, women 25, percent of women 14.5%; total Congress percent of women 20%<br>
 
@@ -636,10 +636,10 @@ _total subscriptions_: 67,672,570 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Colombia&rsquo;s telecom infrastructure has improved through a government program of competition to upgrade services based on LTE and 5G, focusing on infrastructure in small urban centers and rural areas; national ICT Plan increased broadband and fiber connectivity; operators testing 5G and completed 20k terrestrial cable connecting 80% of the country; benefit due to access to commercial submarine cable (2020)<br>
-_domestic_: fixed-line connections stand at about 14 per 100 persons; mobile cellular telephone subscribership is 133 per 100 persons; competition among cellular service providers is resulting in falling local and international calling rates and contributing to the steep decline in the market share of fixed-line services; domestic satellite system with 41 earth stations (2020)<br>
+_general assessment_: Colombia&rsquo;s telecom infrastructure has improved through a government program of competition to upgrade services based on LTE and 4G, focusing on infrastructure in small urban centers and rural areas; national ICT Plan increased broadband and fiber connectivity; operators are testing 5G through unallocated spectrum pilots and have completed 20k terrestrial cable connecting 80% of the country; benefit due to access to commercial submarine cable (2020)<br>
+_domestic_: fixed-line connections stand at about 14 per 100 persons; mobile cellular telephone subscribership is 133 per 100 persons; Partners Telecom Colombia's (WOM) market entrance in June 2021 increased competition among cellular service providers and is resulting in falling local and international calling rates and contributing to the steep decline in the market share of fixed-line services; domestic satellite system with 41 earth stations (2021)<br>
 _international_: country code - 57; landing points for the SAC, Maya-1, SAIT, ACROS, AMX-1, CFX-1, PCCS, Deep Blue Cable, Globe Net, PAN-AM, SAm-1&nbsp;submarine cable systems providing links to the US, parts of the Caribbean, and Central and South America; satellite earth stations - 10 (6 Intelsat, 1 Inmarsat, 3 fully digitalized international switching centers) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation slowed with 5G auction delayed to 2023; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
 combination of state-owned and privately owned broadcast media provide service; more than 500 radio stations and many national, regional, and local TV stations (2019)<br>

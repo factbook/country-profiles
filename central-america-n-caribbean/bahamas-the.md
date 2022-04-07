@@ -72,7 +72,7 @@ strategic location adjacent to US and Cuba; extensive island chain of which 30 a
 ## People and Society
 
 **Population**<br>
-352,655 (July 2021 est.)<br>
+355,608 (2022 est.)<br>
 <strong>note: </strong>estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -108,7 +108,7 @@ _male_: 31.7 years<br>
 _female_: 34 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.84% (2021 est.)<br>
+0.82% (2022 est.)<br>
 
 **Birth rate**<br>
 14.64 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 34 years (2020 est.)<br>
 6.41 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population lives in urban areas, with two-thirds living on New Providence Island where Nassau is located<br>
@@ -133,26 +133,26 @@ _rate of urbanization_: 1.02% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
+_25-54 years_: 0.99 male(s)/female<br>
 _55-64 years_: 0.86 male(s)/female<br>
-_65 years and over_: 0.63 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.5 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 70 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 13.05 deaths/1,000 live births<br>
-_male_: 13.49 deaths/1,000 live births<br>
-_female_: 12.6 deaths/1,000 live births (2021 est.)<br>
+_total_: 12.78 deaths/1,000 live births<br>
+_male_: 13.22 deaths/1,000 live births<br>
+_female_: 12.33 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.87 years<br>
-_male_: 72.93 years<br>
-_female_: 78.9 years (2021 est.)<br>
+_total population_: 76.13 years<br>
+_male_: 73.2 years<br>
+_female_: 79.14 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.98 children born/woman (2021 est.)<br>
+1.98 children born/woman (2022 est.)<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 98.9% of population<br>

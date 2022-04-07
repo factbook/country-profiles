@@ -73,7 +73,7 @@ consists of about 138 coral islands and islets with ample rainfall, but no river
 ## People and Society
 
 **Population**<br>
-72,084 (July 2021 est.)<br>
+72,337 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Bermudian(s)<br>
@@ -107,7 +107,7 @@ _male_: 41.6 years<br>
 _female_: 45.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.36% (2021 est.)<br>
+0.34% (2022 est.)<br>
 
 **Birth rate**<br>
 11.03 births/1,000 population (2022 est.)<br>
@@ -116,7 +116,7 @@ _female_: 45.7 years (2020 est.)<br>
 9.11 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-1.54 migrant(s)/1,000 population (2021 est.)<br>
+1.49 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 relatively even population distribution throughout<br>
@@ -129,26 +129,26 @@ _rate of urbanization_: -0.2% annual rate of change (2020-25 est.)<br>
 10,000 HAMILTON (capital) (2018)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.02 male(s)/female<br>
-_0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2020 est.)<br>
+_at birth_: 1.05 male(s)/female<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-24 years_: 1.06 male(s)/female<br>
+_25-54 years_: 1.02 male(s)/female<br>
+_55-64 years_: 0.91 male(s)/female<br>
+_65 years and over_: 0.6 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.21 deaths/1,000 live births<br>
-_male_: 2.53 deaths/1,000 live births<br>
-_female_: 1.88 deaths/1,000 live births (2021 est.)<br>
+_total_: 2.19 deaths/1,000 live births<br>
+_male_: 2.51 deaths/1,000 live births<br>
+_female_: 1.86 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.83 years<br>
-_male_: 78.73 years<br>
-_female_: 85.09 years (2021 est.)<br>
+_total population_: 82.04 years<br>
+_male_: 78.96 years<br>
+_female_: 85.28 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.91 children born/woman (2021 est.)<br>
+1.9 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

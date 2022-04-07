@@ -85,7 +85,7 @@ westernmost country on the African continent; The Gambia is almost an enclave wi
 ## People and Society
 
 **Population**<br>
-16,082,442 (July 2021 est.)<br>
+17,923,036 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Senegalese (singular and plural)<br>
@@ -122,7 +122,7 @@ _male_: 18.5 years<br>
 _female_: 20.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.25% (2021 est.)<br>
+2.57% (2022 est.)<br>
 
 **Birth rate**<br>
 31.51 births/1,000 population (2022 est.)<br>
@@ -131,7 +131,7 @@ _female_: 20.3 years (2020 est.)<br>
 5.08 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.24 migrant(s)/1,000 population (2021 est.)<br>
+-0.71 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural as shown in this population distribution map<br>
@@ -144,13 +144,13 @@ _rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
 3.326 million DAKAR (capital) (2022)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 0.99 male(s)/female<br>
-_25-54 years_: 0.86 male(s)/female<br>
-_55-64 years_: 0.75 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2020 est.)<br>
+_at birth_: 1.05 male(s)/female<br>
+_0-14 years_: 1.04 male(s)/female<br>
+_15-24 years_: 1.02 male(s)/female<br>
+_25-54 years_: 0.88 male(s)/female<br>
+_55-64 years_: 0.76 male(s)/female<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.9 years (2018 est.)<br>
@@ -160,17 +160,17 @@ _total population_: 0.94 male(s)/female (2020 est.)<br>
 315 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 47.72 deaths/1,000 live births<br>
-_male_: 54.66 deaths/1,000 live births<br>
-_female_: 40.58 deaths/1,000 live births (2021 est.)<br>
+_total_: 32.44 deaths/1,000 live births<br>
+_male_: 35.78 deaths/1,000 live births<br>
+_female_: 28.93 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.83 years<br>
-_male_: 61.59 years<br>
-_female_: 66.14 years (2021 est.)<br>
+_total population_: 69.96 years<br>
+_male_: 68.23 years<br>
+_female_: 71.77 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.97 children born/woman (2021 est.)<br>
+4.27 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 26.9% (2019)<br>
@@ -213,6 +213,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Senegal is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.8% (2016)<br>
@@ -281,6 +282,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Senegal is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to localized shortfalls in cereal production - according to the latest analysis, about 490,000 people are estimated to need humanitarian assistance in the June&minus;August 2021 period due to the effects of adverse weather events (droughts and floods) on cereal and fodder production (2021)<br>

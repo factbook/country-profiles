@@ -82,7 +82,7 @@ controls the most easily traversable land route between the Balkans, Moldova, an
 ## People and Society
 
 **Population**<br>
-21,230,362 (July 2021 est.)<br>
+18,519,899 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Romanian(s)<br>
@@ -118,7 +118,7 @@ _male_: 41 years<br>
 _female_: 44 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.38% (2021 est.)<br>
+-1.09% (2022 est.)<br>
 
 **Birth rate**<br>
 8.76 births/1,000 population (2022 est.)<br>
@@ -127,7 +127,7 @@ _female_: 44 years (2020 est.)<br>
 15.26 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2021 est.)<br>
+-4.36 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 urbanization is not particularly high, and a fairly even population distribution can be found throughout most of the country, with urban areas attracting larger and denser populations; Hungarians, the country's largest minority, have a particularly strong presence in eastern Transylvania<br>
@@ -142,11 +142,11 @@ _rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.89 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.04 male(s)/female<br>
+_25-54 years_: 1 male(s)/female<br>
+_55-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.9 years (2019 est.)<br>
@@ -155,17 +155,17 @@ _total population_: 0.95 male(s)/female (2020 est.)<br>
 19 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.41 deaths/1,000 live births<br>
-_male_: 10.82 deaths/1,000 live births<br>
-_female_: 7.91 deaths/1,000 live births (2021 est.)<br>
+_total_: 5.84 deaths/1,000 live births<br>
+_male_: 6.07 deaths/1,000 live births<br>
+_female_: 5.59 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.3 years<br>
-_male_: 72.88 years<br>
-_female_: 79.94 years (2021 est.)<br>
+_total population_: 75.75 years<br>
+_male_: 72.3 years<br>
+_female_: 79.4 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.38 children born/woman (2021 est.)<br>
+1.63 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -713,7 +713,7 @@ conscription ended 2006; 18 years of age for male and female voluntary service; 
 up to 120 Poland (NATO) (2021)<br>
 
 **Military - note**<br>
-Romania officially became a member of NATO in 2004<br> <p>Romania hosts a NATO multinational divisional (Multinational Division Southeast; became operational in 2017) and a brigade-sized headquarters as part of NATO's tailored forward presence in the southeastern part of the Alliance</p><br>
+Romania officially became a member of NATO in 2004<br><br>Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 <br> <p>Romania hosts a NATO multinational divisional (Multinational Division Southeast; became operational in 2017) and a brigade-sized headquarters as part of NATO's tailored forward presence in the southeastern part of the Alliance</p><br>
 
 ## Terrorism
 
@@ -727,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 608,936 (Ukraine) (as of 29 March 2022)<br>
+_refugees (country of origin)_: 654,825 (Ukraine) (as of 5 April 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 9,519 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 

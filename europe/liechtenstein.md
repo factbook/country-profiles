@@ -75,7 +75,7 @@ along with Uzbekistan, one of only two doubly landlocked countries in the world;
 ## People and Society
 
 **Population**<br>
-39,425 (July 2021 est.)<br>
+39,711 (2022 est.)<br>
 <strong>note:</strong> immigrants make up 67% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -112,7 +112,7 @@ _male_: 42 years<br>
 _female_: 45.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.73% (2021 est.)<br>
+0.72% (2022 est.)<br>
 
 **Birth rate**<br>
 10.32 births/1,000 population (2022 est.)<br>
@@ -121,7 +121,7 @@ _female_: 45.3 years (2020 est.)<br>
 7.98 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-4.84 migrant(s)/1,000 population (2021 est.)<br>
+4.81 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is found in the western half of the country along the Rhine River<br>
@@ -134,29 +134,29 @@ _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
 5,000 VADUZ (capital) (2018)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.26 male(s)/female<br>
-_0-14 years_: 1.21 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
+_at birth_: 1.25 male(s)/female<br>
+_0-14 years_: 1.24 male(s)/female<br>
+_15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.3 years (2017)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.12 deaths/1,000 live births<br>
-_male_: 4.49 deaths/1,000 live births<br>
-_female_: 3.66 deaths/1,000 live births (2021 est.)<br>
+_total_: 4.05 deaths/1,000 live births<br>
+_male_: 4.41 deaths/1,000 live births<br>
+_female_: 3.59 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.36 years<br>
-_male_: 80.11 years<br>
-_female_: 85.19 years (2021 est.)<br>
+_total population_: 82.56 years<br>
+_male_: 80.33 years<br>
+_female_: 85.38 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.69 children born/woman (2021 est.)<br>
+1.69 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

@@ -74,7 +74,7 @@ strategic location on sea routes between the South Pacific Ocean, the Solomon Se
 ## People and Society
 
 **Population**<br>
-690,598 (July 2021 est.)<br>
+702,694 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Solomon Islander(s)<br>
@@ -108,7 +108,7 @@ _male_: 23.2 years<br>
 _female_: 23.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.75% (2021 est.)<br>
+1.72% (2022 est.)<br>
 
 **Birth rate**<br>
 22.71 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 23.7 years (2020 est.)<br>
 3.96 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.57 migrant(s)/1,000 population (2021 est.)<br>
+-1.55 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port<br>
@@ -134,9 +134,9 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.06 male(s)/female<br>
 _25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 1.07 male(s)/female<br>
-_65 years and over_: 0.88 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2020 est.)<br>
+_55-64 years_: 1.08 male(s)/female<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 1.04 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.6 years (2015 est.)<br>
@@ -146,17 +146,17 @@ _total population_: 1.04 male(s)/female (2020 est.)<br>
 104 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 20.52 deaths/1,000 live births<br>
-_male_: 24.49 deaths/1,000 live births<br>
-_female_: 16.36 deaths/1,000 live births (2021 est.)<br>
+_total_: 20.02 deaths/1,000 live births<br>
+_male_: 23.89 deaths/1,000 live births<br>
+_female_: 15.96 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.45 years<br>
-_male_: 73.78 years<br>
-_female_: 79.25 years (2021 est.)<br>
+_total population_: 76.7 years<br>
+_male_: 74.05 years<br>
+_female_: 79.49 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.92 children born/woman (2021 est.)<br>
+2.87 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.3% (2015)<br>

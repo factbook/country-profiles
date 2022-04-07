@@ -75,7 +75,7 @@ strategic location bordering China, South Korea, and Russia; mountainous interio
 ## People and Society
 
 **Population**<br>
-25,831,360 (July 2021 est.)<br>
+25,955,138 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Korean(s)<br>
@@ -111,7 +111,7 @@ _male_: 33.2 years<br>
 _female_: 36.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.49% (2021 est.)<br>
+0.46% (2022 est.)<br>
 
 **Birth rate**<br>
 14.21 births/1,000 population (2022 est.)<br>
@@ -120,7 +120,7 @@ _female_: 36.2 years (2020 est.)<br>
 9.53 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.04 migrant(s)/1,000 population (2021 est.)<br>
+-0.04 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the plains and lowlands; least populated regions are the mountainous provinces adjacent to the Chinese border; largest concentrations are in the western provinces, particularly the municipal district of Pyongyang, and around Hungnam and Wonsan in the east<br>
@@ -135,27 +135,27 @@ _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
+_15-24 years_: 1.02 male(s)/female<br>
 _25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.91 male(s)/female<br>
-_65 years and over_: 0.53 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.33 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 89 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.42 deaths/1,000 live births<br>
-_male_: 25.2 deaths/1,000 live births<br>
-_female_: 19.47 deaths/1,000 live births (2021 est.)<br>
+_total_: 22.21 deaths/1,000 live births<br>
+_male_: 25.03 deaths/1,000 live births<br>
+_female_: 19.23 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.65 years<br>
-_male_: 67.79 years<br>
-_female_: 75.74 years (2021 est.)<br>
+_total population_: 71.77 years<br>
+_male_: 67.88 years<br>
+_female_: 75.88 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.91 children born/woman (2021 est.)<br>
+1.9 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 70.2% (2017)<br>

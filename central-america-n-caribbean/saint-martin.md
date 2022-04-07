@@ -55,7 +55,7 @@ the southern border is shared with Sint Maarten, a country within the Kingdom of
 ## People and Society
 
 **Population**<br>
-32,680 (July 2021 est.)<br>
+32,792 (2022 est.)<br>
 
 **Ethnic groups**<br>
 Creole (Mulatto), Black, Guadeloupe Mestizo (French-East Asia), White, East Indian, other<br>
@@ -86,7 +86,7 @@ _male_: 32.5 years<br>
 _female_: 34.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.36% (2021 est.)<br>
+0.33% (2022 est.)<br>
 
 **Birth rate**<br>
 14.09 births/1,000 population (2022 est.)<br>
@@ -95,7 +95,7 @@ _female_: 34.1 years (2020 est.)<br>
 4.64 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--6.09 migrant(s)/1,000 population (2021 est.)<br>
+-6.13 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is found along the coast, with a largest concentrations around the capital Marigot, Orleans, and Grand-Case<br>
@@ -104,23 +104,23 @@ most of the population is found along the coast, with a largest concentrations a
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 0.99 male(s)/female<br>
 _15-24 years_: 0.97 male(s)/female<br>
-_25-54 years_: 0.92 male(s)/female<br>
-_55-64 years_: 0.88 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.92 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.91 male(s)/female<br>
+_55-64 years_: 0.89 male(s)/female<br>
+_65 years and over_: 0.61 male(s)/female<br>
+_total population_: 0.92 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.85 deaths/1,000 live births<br>
-_male_: 8 deaths/1,000 live births<br>
-_female_: 5.65 deaths/1,000 live births (2021 est.)<br>
+_total_: 6.71 deaths/1,000 live births<br>
+_male_: 7.85 deaths/1,000 live births<br>
+_female_: 5.53 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.36 years<br>
-_male_: 77.24 years<br>
-_female_: 83.6 years (2021 est.)<br>
+_total population_: 80.58 years<br>
+_male_: 77.48 years<br>
+_female_: 83.81 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.8 children born/woman (2021 est.)<br>
+1.8 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -213,10 +213,10 @@ see France<br>
 
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Prefect Vincent BERTON (since 28 March 2022)<br>
-_head of government_: President of Territorial Council Daniel GIBBS (since 2 April 2017); First Vice President Valerie DAMASEAU (since 2 April 2017)<br>
+_head of government_: President of Territorial Council Louis MUSSINGTON (since 3 April 2022); First Vice President Alain RICHARDSON (since 3 April 2022)<br>
 _cabinet_: Executive Council; note - there is also an advisory economic, social, and cultural council<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prefect appointed by French president on the advice of French Ministry of Interior; president of Territorial Council elected by its members for a 5-year term; election last held on 26 March 2017<br>
-_election results_: Daniel GIBBS (TDG) elected president; Territorial Council vote - 18 votes, 4 blank, 1 invalid<br>
+_election results_: Louis MUSSINGTON (RSM) elected president; Territorial Council vote - 23 out of 23 votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Council (23 seats; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms); Saint Martin elects 1 member to the French Senate and 1member (shared with Saint Barthelemy) to the French National Assembly<br>

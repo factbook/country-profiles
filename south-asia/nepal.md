@@ -79,7 +79,7 @@ landlocked; strategic location between China and India; contains eight of world'
 ## People and Society
 
 **Population**<br>
-30,424,878 (July 2021 est.)<br>
+30,666,598 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Nepali (singular and plural)<br>
@@ -115,7 +115,7 @@ _male_: 23.9 years<br>
 _female_: 26.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.81% (2021 est.)<br>
+0.78% (2022 est.)<br>
 
 **Birth rate**<br>
 17.53 births/1,000 population (2022 est.)<br>
@@ -124,7 +124,7 @@ _female_: 26.9 years (2020 est.)<br>
 5.58 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--4.12 migrant(s)/1,000 population (2021 est.)<br>
+-4.21 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low<br>
@@ -138,12 +138,12 @@ _rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.11 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 0.82 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.98 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-24 years_: 1.03 male(s)/female<br>
+_25-54 years_: 0.87 male(s)/female<br>
+_55-64 years_: 0.88 male(s)/female<br>
+_65 years and over_: 0.91 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.6 years (2016 est.)<br>
@@ -153,17 +153,17 @@ _total population_: 0.96 male(s)/female (2020 est.)<br>
 186 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25.73 deaths/1,000 live births<br>
-_male_: 27.13 deaths/1,000 live births<br>
-_female_: 24.25 deaths/1,000 live births (2021 est.)<br>
+_total_: 25.13 deaths/1,000 live births<br>
+_male_: 26.47 deaths/1,000 live births<br>
+_female_: 23.71 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.12 years<br>
-_male_: 71.38 years<br>
-_female_: 72.9 years (2021 est.)<br>
+_total population_: 72.4 years<br>
+_male_: 71.66 years<br>
+_female_: 73.17 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.93 children born/woman (2021 est.)<br>
+1.9 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 46.7% (2019)<br>

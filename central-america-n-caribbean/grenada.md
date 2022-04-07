@@ -72,7 +72,7 @@ the administration of the islands of the Grenadines group is divided between Sai
 ## People and Society
 
 **Population**<br>
-113,570 (July 2021 est.)<br>
+113,949 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Grenadian(s)<br>
@@ -106,7 +106,7 @@ _male_: 33.1 years<br>
 _female_: 33.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.35% (2021 est.)<br>
+0.32% (2022 est.)<br>
 
 **Birth rate**<br>
 13.94 births/1,000 population (2022 est.)<br>
@@ -115,7 +115,7 @@ _female_: 33.4 years (2020 est.)<br>
 8.31 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--2.53 migrant(s)/1,000 population (2021 est.)<br>
+-2.43 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 approximately one-third of the population is found in the capital of St. George's; the island's population is concentrated along the coast<br>
@@ -130,27 +130,27 @@ _rate of urbanization_: 0.86% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.1 male(s)/female<br>
 _0-14 years_: 1.09 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
+_15-24 years_: 1.02 male(s)/female<br>
+_25-54 years_: 1.05 male(s)/female<br>
 _55-64 years_: 1.04 male(s)/female<br>
-_65 years and over_: 0.88 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 25 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 9.6 deaths/1,000 live births<br>
-_male_: 9.11 deaths/1,000 live births<br>
-_female_: 10.14 deaths/1,000 live births (2021 est.)<br>
+_total_: 9.4 deaths/1,000 live births<br>
+_male_: 8.94 deaths/1,000 live births<br>
+_female_: 9.9 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.48 years<br>
-_male_: 72.86 years<br>
-_female_: 78.36 years (2021 est.)<br>
+_total population_: 75.74 years<br>
+_male_: 73.13 years<br>
+_female_: 78.6 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.95 children born/woman (2021 est.)<br>
+1.93 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

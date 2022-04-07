@@ -82,7 +82,7 @@ the capital of Damascus - located at an oasis fed by the Barada River - is thoug
 ## People and Society
 
 **Population**<br>
-20,384,316 (July 2021 est.)<br>
+21,563,800 (2022 est.)<br>
 <strong>note:</strong> approximately 22,900 Israeli settlers live in the Golan Heights (2018)<br>
 
 **Nationality**<br>
@@ -119,7 +119,7 @@ _male_: 23 years<br>
 _female_: 24 years (2020 est.)<br>
 
 **Population growth rate**<br>
-NA (2021 est.)<br>
+5.91% NA (2022 est.)<br>
 
 **Birth rate**<br>
 22.72 births/1,000 population (2022 est.)<br>
@@ -128,7 +128,7 @@ NA (2021 est.)<br>
 4.22 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-34.34 migrant(s)/1,000 population NA (2021 est.)<br>
+40.58 migrant(s)/1,000 population NA (2022 est.)<br>
 
 **Population distribution**<br>
 significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
@@ -144,27 +144,27 @@ _rate of urbanization_: 5.38% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
+_15-24 years_: 1.02 male(s)/female<br>
 _25-54 years_: 0.97 male(s)/female<br>
 _55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.88 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.76 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 31 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 16.27 deaths/1,000 live births<br>
-_male_: 17.95 deaths/1,000 live births<br>
-_female_: 14.48 deaths/1,000 live births (2021 est.)<br>
+_total_: 15.87 deaths/1,000 live births<br>
+_male_: 17.5 deaths/1,000 live births<br>
+_female_: 14.14 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.01 years<br>
-_male_: 72.54 years<br>
-_female_: 75.57 years (2021 est.)<br>
+_total population_: 74.28 years<br>
+_male_: 72.82 years<br>
+_female_: 75.84 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.85 children born/woman (2021 est.)<br>
+2.8 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -686,7 +686,7 @@ the SAF's inventory is comprised mostly of Russian and Soviet-era equipment; sin
 note - the SAF is largely comprised of conscripts<br>
 
 **Military - note**<br>
-the UN Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of November 2021, UNDOF consisted of about 1,250 personnel<br> <p>as of 2022, multiple actors were conducting military operations in Syria in support of the ASAD government or Syrian opposition forces, as well in pursuit of their own security goals, such counterterrorism; operations have included air strikes, direct ground combat, and sponsoring proxy forces, as well as providing non-lethal military support, including advisors, technicians, arms and equipment, funding, intelligence, and training:</p> <p><strong>pro-ASAD elements</strong> operating in Syria have included<strong> Lebanese Hezbollah, Iranian, Iranian-backed Shia militia, and Russian forces</strong>; since early in the civil war, the ASAD government has relied on Lebanese Hezbollah (see Appendix T for further information), as well as Iran and Iranian-backed forces, for combat operations and to hold territory; Iran has provided military advisors and combat troops from the Iranian Revolutionary Guard Corps (including the Qods Force; see Appendix T for further information), as well as intelligence, logistical, material, technical, and financial support; it has funded, trained, equipped, and led Shia militia/paramilitary units comprised of both Syrian and non-Syrian personnel, primarily from Afghanistan, Iraq, and Pakistan; Russia intervened at the request of the ASAD government in 2015 and has since provided air support, special operations forces, military advisors, private military contractors, training, arms, and equipment; Iranian and Russian support has also included assisting Syria in combating the Islamic State of Iraq and ash-Sham (ISIS; see Appendix T) terrorist group</p> <p><strong>Turkey </strong>intervened militarily in 2016 to combat Kurdish militants and ISIS, support select Syrian opposition forces, and establish a buffer along portions of its border with Syria; as of 2022, Turkey continued to maintain a considerable military presence in northern Syria; it has armed and trained militia/proxy forces, such as the Syrian National Army, which was formed in late 2017 of Syrian Arab and Turkmen rebel factions in the Halab (Aleppo) province and northwestern Syria</p> <p>the <strong>US and some regional and European states</strong> have at times backed Syrian opposition forces militarily and/or conducted military operations, primarily against ISIS; the US has operated in Syria since 2015 with ground forces and air strikes; as of 2022, the majority the ground forces were deployed in the Eastern Syria Security Area (ESSA, which includes parts of Hasakah and Dayr az Zawr provinces east of the Euphrates River) in support of operations by the Syrian Democratic Forces against ISIS, while the remainder were in southeast Syria around Tanf supporting counter-ISIS operations by the Jaysh Mughawir al-Thawra (MaT, or Revolutionary Commando Army) Syrian opposition force; the US has also conducted air strikes against Syrian military targets in response to Syrian Government use of chemical weapons against opposition forces and civilians; in addition, France, Jordan, Qatar, Saudi Arabia, and the UK have provided forms of military assistance to opposition forces and/or conducted operations against ISIS, including air strikes</p> <p><strong>Israel</strong> has conducted hundreds of military air strikes in Syria, mostly targeting Hezbollah, Iranian, and/or Iranian-backed militia targets</p> <p>the<strong> Syrian Democratic Forces (SDF) </strong>are an anti-ASAD regime coalition of forces composed primarily of Kurdish, Sunni Arab, and Syriac Christian fighters; it is dominated and led by Kurdish forces, particularly the People’s Protection Units (YPG) militia; the SDF began to receive US support in 2015 and as of 2021 was the main local US partner in its counter-ISIS campaign; the SDF has internal security, anti-terror, and commando units; Turkey views the SDF as an extension of the Kurdistan Workers’ Party (PKK), a US-designated terrorist organization (see Appendix T)</p> <p>the <strong>ISIS</strong> terrorist group (see Appendix T) lost its last territorial stronghold to SDF forces in 2019, but continued to maintain a low-level insurgency as of 2022; in addition, the SDF held about 10,000 captured suspected ISIS fighters in detention facilities across northern Syria, including 2,000 from countries other than Iraq and Syria</p> <p>as of 2021, the <strong>Hay'at Tahrir al-Sham </strong>(HTS; formerly known as al-Nusrah Front) terrorist organization (see Appendix T) was the dominate militant group in northwest Syria and asserted considerable influence and control over the so-called Syrian Salvation Government in the Iblib de-escalation zone; as of 2021, the group had an estimated 10,000 fighters</p><br>
+the UN Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of November 2021, UNDOF consisted of about 1,250 personnel<br><br>as of 2022, multiple actors were conducting military operations in Syria in support of the ASAD government or Syrian opposition forces, as well in pursuit of their own security goals, such counterterrorism; operations have included air strikes, direct ground combat, and sponsoring proxy forces, as well as providing non-lethal military support, including advisors, technicians, arms and equipment, funding, intelligence, and training: <p><strong>pro-ASAD elements</strong> operating in Syria have included<strong> Lebanese Hezbollah, Iranian, Iranian-backed Shia militia, and Russian forces</strong>; since early in the civil war, the ASAD government has relied on Lebanese Hezbollah (see Appendix T for further information), as well as Iran and Iranian-backed forces, for combat operations and to hold territory; Iran has provided military advisors and combat troops from the Iranian Revolutionary Guard Corps (including the Qods Force; see Appendix T for further information), as well as intelligence, logistical, material, technical, and financial support; it has funded, trained, equipped, and led Shia militia/paramilitary units comprised of both Syrian and non-Syrian personnel, primarily from Afghanistan, Iraq, and Pakistan; Russia intervened at the request of the ASAD government in 2015 and has since provided air support, special operations forces, military advisors, private military contractors, training, arms, and equipment; Iranian and Russian support has also included assisting Syria in combating the Islamic State of Iraq and ash-Sham (ISIS; see Appendix T) terrorist group</p> <p><strong>Turkey </strong>intervened militarily in 2016 to combat Kurdish militants and ISIS, support select Syrian opposition forces, and establish a buffer along portions of its border with Syria; as of 2022, Turkey continued to maintain a considerable military presence in northern Syria; it has armed and trained militia/proxy forces, such as the Syrian National Army, which was formed in late 2017 of Syrian Arab and Turkmen rebel factions in the Halab (Aleppo) province and northwestern Syria</p> <p>the <strong>US and some regional and European states</strong> have at times backed Syrian opposition forces militarily and/or conducted military operations, primarily against ISIS; the US has operated in Syria since 2015 with ground forces and air strikes; as of 2022, the majority the ground forces were deployed in the Eastern Syria Security Area (ESSA, which includes parts of Hasakah and Dayr az Zawr provinces east of the Euphrates River) in support of operations by the Syrian Democratic Forces against ISIS, while the remainder were in southeast Syria around Tanf supporting counter-ISIS operations by the Jaysh Mughawir al-Thawra (MaT, or Revolutionary Commando Army) Syrian opposition force; the US has also conducted air strikes against Syrian military targets in response to Syrian Government use of chemical weapons against opposition forces and civilians; in addition, France, Jordan, Qatar, Saudi Arabia, and the UK have provided forms of military assistance to opposition forces and/or conducted operations against ISIS, including air strikes</p> <p><strong>Israel</strong> has conducted hundreds of military air strikes in Syria, mostly targeting Hezbollah, Iranian, and/or Iranian-backed militia targets</p> <p>the<strong> Syrian Democratic Forces (SDF) </strong>are an anti-ASAD regime coalition of forces composed primarily of Kurdish, Sunni Arab, and Syriac Christian fighters; it is dominated and led by Kurdish forces, particularly the People’s Protection Units (YPG) militia; the SDF began to receive US support in 2015 and as of 2022 was the main local US partner in its counter-ISIS campaign; the SDF has internal security, anti-terror, and commando units; Turkey views the SDF as an extension of the Kurdistan Workers’ Party (PKK), a US-designated terrorist organization (see Appendix T)</p> <p>the <strong>ISIS</strong> terrorist group (see Appendix T) lost its last territorial stronghold to SDF forces in 2019, but continued to maintain a low-level insurgency as of 2022; in addition, the SDF held about 10,000 captured suspected ISIS fighters in detention facilities across northern Syria, including 2,000 from countries other than Iraq and Syria</p> <p>as of 2021, the <strong>Hay'at Tahrir al-Sham </strong>(HTS; formerly known as al-Nusrah Front) terrorist organization (see Appendix T) was the dominate militant group in northwest Syria and asserted considerable influence and control over the so-called Syrian Salvation Government in the Iblib de-escalation zone; as of 2021, the group had an estimated 10,000 fighters</p><br>
 
 ## Terrorism
 

@@ -76,7 +76,7 @@ shares island of Hispaniola with Dominican Republic (western one-third is Haiti,
 ## People and Society
 
 **Population**<br>
-11,198,240 (July 2021 est.)<br>
+11,334,637 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -113,7 +113,7 @@ _male_: 23.8 years<br>
 _female_: 24.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.22% (2021 est.)<br>
+1.2% (2022 est.)<br>
 
 **Birth rate**<br>
 21.12 births/1,000 population (2022 est.)<br>
@@ -122,7 +122,7 @@ _female_: 24.3 years (2020 est.)<br>
 7.23 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.9 migrant(s)/1,000 population (2021 est.)<br>
+-1.88 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 fairly even distribution; largest concentrations located near coastal areas<br>
@@ -137,11 +137,11 @@ _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.01 male(s)/female<br>
 _0-14 years_: 0.99 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
+_15-24 years_: 0.99 male(s)/female<br>
 _25-54 years_: 0.98 male(s)/female<br>
 _55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.62 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.4 years (2016/7 est.)<br>
@@ -151,17 +151,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 480 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 41.29 deaths/1,000 live births<br>
-_male_: 47.1 deaths/1,000 live births<br>
-_female_: 35.42 deaths/1,000 live births (2021 est.)<br>
+_total_: 40.02 deaths/1,000 live births<br>
+_male_: 45.71 deaths/1,000 live births<br>
+_female_: 34.26 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.61 years<br>
-_male_: 62.94 years<br>
-_female_: 68.31 years (2021 est.)<br>
+_total population_: 65.95 years<br>
+_male_: 63.26 years<br>
+_female_: 68.67 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.48 children born/woman (2021 est.)<br>
+2.43 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 34.3% (2016/17)<br>
@@ -593,13 +593,13 @@ _total subscriptions_: 6,843,380 (2019)<br>
 _subscriptions per 100 inhabitants_: 60.76 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: plagued by political and economic turmoil complicated by natural disasters, Haiti&rsquo;s telecommunications infrastructure is among the least-developed in the world; reliance on satellite and wireless mobile technology due to poor fixed-line infrastructure; investment boosted broadband availability though customer base is poor and theft of equipment remains problematic; promotion of LTE will enable access to remote areas and e-money services; World Bank grant to provide digital preparation and response for any future crises (2020)<br>
+_general assessment_: plagued by political and economic turmoil complicated by natural disasters, Haiti&rsquo;s telecommunications infrastructure is among the least-developed in the world; it relies on satellite and wireless mobile technology due to poor fixed-line infrastructure; investment boosted broadband availability though customer base is poor and theft of equipment remains problematic; promotion of LTE will enable access to remote areas and e-money services; World Bank grant to provide digital preparation and response for any future crises (2020)<br>
 _domestic_: fixed-line is less than 1 per 100; mobile-cellular telephone services have expanded greatly in the last decade due to low-cost GSM (Global Systems for Mobile) phones and pay-as-you-go plans; mobile-cellular teledensity is nearly 61 per 100 persons (2019)<br>
 _international_: country code - 509; landing points for the BDSNi and Fibralink submarine cables to 14 points in the Bahamas and Dominican Republic; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-<p>98 television stations throughout the country, including 1 government-owned; cable TV subscription service available; 850 radio stations (of them, only 346 are licensed), including 1 government-owned; more than 100 community radio stations; over 64 FM stations in Port-au-Prince alone; VOA Creole Service broadcasts daily on 30 affiliate stations</p> (2016)<br>
+<p>per 2019 data released by Haitian telecommunications regulator CONATEL (Conseil National des Télécommunications), there are 398 legal sound broadcasting stations on the territory, including about 60 community radio stations, and 7 radio stations on the AM band; the FM band in Haiti is oversaturated by 158%; most radio stations broadcast 17 to 19 hours a day; there are 105 television stations operating in Haiti, including 36 TV stations in Port- au- Prince, 41 others in the provinces, and more than 40 radio-television stations; a large number of broadcasting stations operate irregularly and some stations operate with technical parameters that do not comply with established standards, thus causing harmful interference to existing telecommunications systems; VOA Creole Service broadcasts daily on 30 affiliate stations</p> (2019)<br>
 
 **Internet country code**<br>
 .ht<br>

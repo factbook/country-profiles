@@ -72,7 +72,7 @@ one small islet, the Calf of Man, lies to the southwest and is a bird sanctuary<
 ## People and Society
 
 **Population**<br>
-90,895 (July 2021 est.)<br>
+91,382 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Manxman(men), Manxwoman(women)<br>
@@ -107,7 +107,7 @@ _male_: 43.6 years<br>
 _female_: 45.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.55% (2021 est.)<br>
+0.52% (2022 est.)<br>
 
 **Birth rate**<br>
 10.58 births/1,000 population (2022 est.)<br>
@@ -116,7 +116,7 @@ _female_: 45.6 years (2020 est.)<br>
 10.18 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-5.01 migrant(s)/1,000 population (2021 est.)<br>
+4.76 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most people concentrated in cities and large towns of which Douglas, in the southeast, is the largest<br>
@@ -130,25 +130,25 @@ _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.08 male(s)/female<br>
-_0-14 years_: 1.09 male(s)/female<br>
-_15-24 years_: 1.15 male(s)/female<br>
+_0-14 years_: 1.08 male(s)/female<br>
+_15-24 years_: 1.18 male(s)/female<br>
 _25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.9 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_55-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.31 deaths/1,000 live births<br>
-_male_: 4.67 deaths/1,000 live births<br>
-_female_: 3.92 deaths/1,000 live births (2021 est.)<br>
+_total_: 4.24 deaths/1,000 live births<br>
+_male_: 4.59 deaths/1,000 live births<br>
+_female_: 3.85 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.84 years<br>
-_male_: 80.01 years<br>
-_female_: 83.8 years (2021 est.)<br>
+_total population_: 82.04 years<br>
+_male_: 80.23 years<br>
+_female_: 84 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.9 children born/woman (2021 est.)<br>
+1.89 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

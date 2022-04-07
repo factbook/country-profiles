@@ -85,7 +85,7 @@ controls Khyber Pass and Bolan Pass, traditional invasion routes between Central
 ## People and Society
 
 **Population**<br>
-238,181,034 (July 2021 est.)<br>
+242,923,845 (2022 est.)<br>
 <strong>note:</strong> results of Pakistan's 2017 national census estimate the country's total population to be 207,684,626<br>
 
 **Nationality**<br>
@@ -121,7 +121,7 @@ _male_: 21.9 years<br>
 _female_: 22.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.99% (2021 est.)<br>
+1.95% (2022 est.)<br>
 
 **Birth rate**<br>
 26.48 births/1,000 population (2022 est.)<br>
@@ -130,7 +130,7 @@ _female_: 22.1 years (2020 est.)<br>
 6.02 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.92 migrant(s)/1,000 population (2021 est.)<br>
+-0.96 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the Indus River and its tributaries attract most of the settlement, with Punjab province the most densely populated<br>
@@ -148,8 +148,8 @@ _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.05 male(s)/female<br>
 _25-54 years_: 1.05 male(s)/female<br>
 _55-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.86 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 1.04 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.8 years (2017/18 est.)<br>
@@ -159,17 +159,17 @@ _total population_: 1.04 male(s)/female (2020 est.)<br>
 140 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 55.26 deaths/1,000 live births<br>
-_male_: 59.58 deaths/1,000 live births<br>
-_female_: 50.73 deaths/1,000 live births (2021 est.)<br>
+_total_: 53.98 deaths/1,000 live births<br>
+_male_: 58.34 deaths/1,000 live births<br>
+_female_: 49.4 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.37 years<br>
-_male_: 67.34 years<br>
-_female_: 71.5 years (2021 est.)<br>
+_total population_: 69.67 years<br>
+_male_: 67.62 years<br>
+_female_: 71.82 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.53 children born/woman (2021 est.)<br>
+3.46 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 34% (2018/19)<br>
@@ -213,7 +213,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _animal contact diseases_: rabies<br>
-<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 6 October 2021, Pakistan has reported a total of 1,252,656 cases of COVID-19 or 567.09 cumulative cases of COVID-19 per 100,000 population with 12.65 cumulative deaths per 100,000 population; as of 5 October 2021, 27.57% of the population has received at least one dose of COVID-19 vaccine<br><br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 30 March 2022, Pakistan has reported a total of 1,524,355 cases of COVID-19 or 690.09 cumulative cases of COVID-19 per 100,000 population with a total of 30,347 cumulative deaths or a rate of 13.73 cumulative deaths per 100,000 population; as of 29 March 2022, 56.87% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
@@ -280,7 +280,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _animal contact diseases_: rabies<br>
-<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 6 October 2021, Pakistan has reported a total of 1,252,656 cases of COVID-19 or 567.09 cumulative cases of COVID-19 per 100,000 population with 12.65 cumulative deaths per 100,000 population; as of 5 October 2021, 27.57% of the population has received at least one dose of COVID-19 vaccine<br><br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 30 March 2022, Pakistan has reported a total of 1,524,355 cases of COVID-19 or 690.09 cumulative cases of COVID-19 per 100,000 population with a total of 30,347 cumulative deaths or a rate of 13.73 cumulative deaths per 100,000 population; as of 29 March 2022, 56.87% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to population displacements, economic constraints, and high prices of the main food staple - the main causes of food insecurity in the country are limited livelihood opportunities, high food prices, and recurrent natural disasters, amplified by the COVID‑19 pandemic; severe floods in August 2020 in Sindh Province affected the livelihoods of about 2 million people and caused severe damage to housing and infrastructure; in addition, prices of wheat flour, the country&rsquo;s main staple, were at high levels in most markets in May 2021, constraining access to food of the most vulnerable households; Pakistan hosts large numbers of registered and unregistered Afghan refugees; most of these people are in need of humanitarian assistance and are straining the already limited resources of the host communities; poverty levels have increased due to losses of income-generating opportunities (2021)<br>
@@ -642,13 +642,13 @@ _total subscriptions_: 165,405,847<br>
 _subscriptions per 100 inhabitants_: 76.38 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Pakistan&rsquo;s telecom market recently transitioned from a regulated state-owned monopoly to a deregulated competitive structure, now aided by foreign investment; moderate growth over the last six years, supported by a young population and a rising use of mobile services; telecom infrastructure is improving, with investments in mobile-cellular networks, fixed-line subscriptions declining; system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks; 4G mobile services broadly available; 5G tests ongoing; data centers in major cities; mobile and broadband doing well and dominate over fixed-broadband sector; China-Pakistan Fiber Optic Project became operational in 2020; importer of broadcasting equipment and computers from China (2020)<br>
-_domestic_: mobile-cellular subscribership has increased; more than 90% of Pakistanis live within areas that have cell phone coverage; fiber-optic networks are being constructed throughout the country to increase broadband access, though broadband penetration in Pakistan is still relatively low; fixed-line a little over 1 per 100 and mobile-cellular roughly 76 per 100 persons (2020)<br>
+_general assessment_: Pakistan&rsquo;s telecom market transitioned from a regulated state-owned monopoly to a deregulated competitive structure in 2003, now aided by foreign investment; moderate growth over the last six years, supported by a young population and a rising use of mobile services; telecom infrastructure is improving, with investments in mobile-cellular networks, fixed-line subscriptions declining; system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks; 4G mobile services broadly available; 5G tests ongoing; data centers in major cities; mobile and broadband doing well and dominate over fixed-broadband sector; China-Pakistan Fiber Optic Project became operational in 2020; importer of broadcasting equipment and computers from China (2020)<br>
+_domestic_: mobile-cellular subscribership has increased; more than 90% of Pakistanis live within areas that have cell phone coverage; fiber-optic networks are being constructed throughout the country to increase broadband access and broadband penetration in Pakistan is increasing--by the end of 2021, 50% of the population had access to broadband services; fixed-line teledensity is a little over 1 per 100 and mobile-cellular roughly 84 per 100 persons (2021)<br>
 _international_: country code - 92; landing points for the SEA-ME-WE-3, -4, -5, AAE-1, IMEWE, Orient Express, PEACE Cable,&nbsp;and TW1 submarine cable systems that provide links to Europe, Africa, the Middle East, Asia, Southeast Asia, and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean); 3 operational international gateway exchanges (1 at Karachi and 2 at Islamabad); microwave radio relay to neighboring countries (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-media is government regulated; 1 dominant state-owned TV broadcaster, Pakistan Television Corporation (PTV), operates a network consisting of 8 channels; private TV broadcasters are permitted; to date 69 foreign satellite channels are operational; the state-owned radio network operates more than 30 stations; nearly 200 commercially licensed, privately owned radio stations provide programming mostly limited to music and talk shows (2019)<br>
+television is the most popular and dominant source of news in Pakistan with over 120 satellite tv stations licensed by the country&rsquo;s electronic media regulatory body, PEMRA ,and 40 media companies/channels with landing rights permission; state-run Pakistan Television Corporation (PTV) is the largest television network in the country and serves over 90% of the population with the largest terrestrial infrastructure of the country; PTV consists of nine TV Channels and PTV networks give special coverage to Kashmir; Pakistanis have access to over 100 private cable and satellite channels; 6 channels are considered the leaders for news reporting and current affairs programing in the country; state-owned Pakistan Broadcasting Corporation (PBC or Radio Pakistan) has the largest radio audience in the country, particularly in the rural areas; Radio Pakistan&rsquo;s AM/SW/FM stations cover 98 percent of the population and 80 percent of the total area in the country; all major newspapers have online editions and all major print publications operate websites; freedom of the press and freedom of speech in the country are fragile (2021)<br>
 
 **Internet country code**<br>
 .pk<br>

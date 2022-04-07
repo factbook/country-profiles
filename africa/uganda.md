@@ -81,7 +81,7 @@ landlocked; fertile, well-watered country with many lakes and rivers; Lake Victo
 ## People and Society
 
 **Population**<br>
-44,712,143 (July 2021 est.)<br>
+46,205,893 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -119,7 +119,7 @@ _male_: 14.9 years<br>
 _female_: 16.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.31% (2021 est.)<br>
+3.27% (2022 est.)<br>
 
 **Birth rate**<br>
 40.94 births/1,000 population (2022 est.)<br>
@@ -128,7 +128,7 @@ _female_: 16.5 years (2020 est.)<br>
 5.02 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--3.37 migrant(s)/1,000 population (2021 est.)<br>
+-3.26 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated as shown in this population distribution map<br>
@@ -142,12 +142,12 @@ _rate of urbanization_: 5.41% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 0.94 male(s)/female<br>
-_25-54 years_: 0.85 male(s)/female<br>
-_55-64 years_: 0.85 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.03 male(s)/female<br>
+_15-24 years_: 0.95 male(s)/female<br>
+_25-54 years_: 0.86 male(s)/female<br>
+_55-64 years_: 0.86 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2016 est.)<br>
@@ -157,17 +157,17 @@ _total population_: 0.94 male(s)/female (2020 est.)<br>
 375 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.49 deaths/1,000 live births<br>
-_male_: 34.98 deaths/1,000 live births<br>
-_female_: 27.88 deaths/1,000 live births (2021 est.)<br>
+_total_: 30.45 deaths/1,000 live births<br>
+_male_: 33.88 deaths/1,000 live births<br>
+_female_: 26.91 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.58 years<br>
-_male_: 66.34 years<br>
-_female_: 70.9 years (2021 est.)<br>
+_total population_: 68.96 years<br>
+_male_: 66.71 years<br>
+_female_: 71.27 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-5.45 children born/woman (2021 est.)<br>
+5.36 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 41.8% (2018)<br>
@@ -212,6 +212,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoi
 _vectorborne diseases_: malaria, dengue fever, and Trypanosomiasis-Gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Uganda is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.3% (2016)<br>
@@ -279,6 +280,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoi
 _vectorborne diseases_: malaria, dengue fever, and Trypanosomiasis-Gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Uganda is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to reduced incomes, and floods - in traditionally food secure urban areas, including the capital, Kampala, more than 600,000 people were food insecure due to the restrictive measures introduced to curb the spread of the COVID-19 virus; the food security situation in urban areas was the most affected by the COVID‑19‑related restrictive measures, as poor households mainly rely on the daily wages obtained through casual labor, petty trading, food vending, construction activities and domestic work; despite the phasing out of some restrictive measures, the food security situation of the urban poor has not significantly improved, as the restrictions still in place on business operations are resulting in a slow recovery of the economic activities; in rural areas, torrential rains in April and May 2020 resulted in localized crop and livelihood losses (2021)<br>

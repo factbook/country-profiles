@@ -72,7 +72,7 @@ largest and southernmost island in the Mariana Islands archipelago and the large
 ## People and Society
 
 **Population**<br>
-168,801 (July 2021 est.)<br>
+169,086 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Guamanian(s) (US citizens)<br>
@@ -106,7 +106,7 @@ _male_: 28.7 years<br>
 _female_: 30.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.18% (2021 est.)<br>
+0.16% (2022 est.)<br>
 
 **Birth rate**<br>
 18.56 births/1,000 population (2022 est.)<br>
@@ -115,7 +115,7 @@ _female_: 30.2 years (2020 est.)<br>
 6.03 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--10.98 migrant(s)/1,000 population (2021 est.)<br>
+-10.96 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 no large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo<br>
@@ -132,22 +132,22 @@ _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
 _15-24 years_: 1.16 male(s)/female<br>
 _25-54 years_: 1.07 male(s)/female<br>
-_55-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 0.87 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2020 est.)<br>
+_55-64 years_: 1.07 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 1.06 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.73 deaths/1,000 live births<br>
-_male_: 11.75 deaths/1,000 live births<br>
-_female_: 11.72 deaths/1,000 live births (2021 est.)<br>
+_total_: 11.46 deaths/1,000 live births<br>
+_male_: 11.49 deaths/1,000 live births<br>
+_female_: 11.44 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.25 years<br>
-_male_: 74.81 years<br>
-_female_: 79.85 years (2021 est.)<br>
+_total population_: 77.5 years<br>
+_male_: 75.07 years<br>
+_female_: 80.08 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.81 children born/woman (2021 est.)<br>
+2.78 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

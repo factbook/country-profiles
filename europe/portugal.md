@@ -77,7 +77,7 @@ Azores and Madeira Islands occupy strategic locations along western sea approach
 ## People and Society
 
 **Population**<br>
-10,263,850 (July 2021 est.)<br>
+10,242,081 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Portuguese (singular and plural)<br>
@@ -112,7 +112,7 @@ _male_: 42.7 years<br>
 _female_: 46.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.23% (2021 est.)<br>
+-0.2% (2022 est.)<br>
 
 **Birth rate**<br>
 8 births/1,000 population (2022 est.)<br>
@@ -121,7 +121,7 @@ _female_: 46.5 years (2020 est.)<br>
 10.9 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.62 migrant(s)/1,000 population (2021 est.)<br>
+0.91 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities<br>
@@ -137,10 +137,10 @@ _rate of urbanization_: 0.44% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.84 male(s)/female<br>
-_65 years and over_: 0.66 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.98 male(s)/female<br>
+_55-64 years_: 0.85 male(s)/female<br>
+_65 years and over_: 0.55 male(s)/female<br>
+_total population_: 0.9 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.9 years (2019 est.)<br>
@@ -149,17 +149,17 @@ _total population_: 0.9 male(s)/female (2020 est.)<br>
 8 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.53 deaths/1,000 live births<br>
-_male_: 2.89 deaths/1,000 live births<br>
-_female_: 2.15 deaths/1,000 live births (2021 est.)<br>
+_total_: 2.5 deaths/1,000 live births<br>
+_male_: 2.86 deaths/1,000 live births<br>
+_female_: 2.12 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.29 years<br>
-_male_: 78.14 years<br>
-_female_: 84.6 years (2021 est.)<br>
+_total population_: 81.5 years<br>
+_male_: 78.37 years<br>
+_female_: 84.79 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.42 children born/woman (2021 est.)<br>
+1.43 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73.9% (2014)<br>
@@ -330,7 +330,7 @@ _election results_: Marcelo REBELO DE SOUSA reelected president in the first rou
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 30 January 2022 (next to be held in January 2026); note - early elections were called after parliament was dissolved on 3 November 2021 because of the 27 October 2021 rejection of the government's budget<br>
-_election results_: percent of vote by party - PS 41.7%, PSD 27.8%, IL 5%, BE 4.5%, CDU 4.4%, PAN 1.5%, L 1.3%, Madeira First 0.9%, Democratic Alliance (in the Azores) 0.5%, other 12.4%; seats by party - PS 117, PSD 71,&nbsp; BE 19, IL 12, CDU 12, Madeira First 3, Democratic Alliance 2, PAN 1, L 1; composition (as of October 2021) - men 138, women 92, percent of women 40%<br>
+_election results_: percent of vote by party - PS 42.5%, PSD 28.4%, Enough 7.4%, IL 5%, BE 4.5%, CDU 4.4%, other 7.8%; seats by party - PS 120, PSD 72, Enough 12, IL 8, CDU 6, BE 5, other 3; composition - men NA, women NA, percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>

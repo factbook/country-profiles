@@ -76,7 +76,7 @@ within Bosnia and Herzegovina's recognized borders, the country is divided into 
 ## People and Society
 
 **Population**<br>
-3,824,782 (July 2021 est.)<br>
+3,816,459 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Bosnian(s), Herzegovinian(s)<br>
@@ -112,7 +112,7 @@ _male_: 41.6 years<br>
 _female_: 44.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.21% (2021 est.)<br>
+-0.22% (2022 est.)<br>
 
 **Birth rate**<br>
 8.41 births/1,000 population (2022 est.)<br>
@@ -121,7 +121,7 @@ _female_: 44.8 years (2020 est.)<br>
 10.26 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.38 migrant(s)/1,000 population (2021 est.)<br>
+-0.38 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the northern and central areas of the country are the most densely populated<br>
@@ -136,11 +136,11 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.06 male(s)/female<br>
+_25-54 years_: 1.02 male(s)/female<br>
+_55-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.42 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.7 years (2019 est.)<br>
@@ -149,17 +149,17 @@ _total population_: 0.95 male(s)/female (2020 est.)<br>
 10 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.32 deaths/1,000 live births<br>
-_male_: 5.44 deaths/1,000 live births<br>
-_female_: 5.19 deaths/1,000 live births (2021 est.)<br>
+_total_: 5.21 deaths/1,000 live births<br>
+_male_: 5.34 deaths/1,000 live births<br>
+_female_: 5.07 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.74 years<br>
-_male_: 74.76 years<br>
-_female_: 80.93 years (2021 est.)<br>
+_total population_: 77.98 years<br>
+_male_: 75.02 years<br>
+_female_: 81.15 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.35 children born/woman (2021 est.)<br>
+1.36 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 45.8% (2011/12)<br>
@@ -712,7 +712,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note:</strong> 87,380 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
+<strong>note:</strong> 87,590 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

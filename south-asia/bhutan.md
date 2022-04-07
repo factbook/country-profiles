@@ -70,7 +70,7 @@ landlocked; strategic location between China and India; controls several key Him
 ## People and Society
 
 **Population**<br>
-857,423 (July 2021 est.)<br>
+867,775 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Bhutanese (singular and plural)<br>
@@ -104,7 +104,7 @@ _male_: 29.6 years<br>
 _female_: 28.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.99% (2021 est.)<br>
+0.97% (2022 est.)<br>
 
 **Birth rate**<br>
 15.94 births/1,000 population (2022 est.)<br>
@@ -113,7 +113,7 @@ _female_: 28.6 years (2020 est.)<br>
 6.22 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 43.7% of total population (2022)<br>
@@ -127,25 +127,25 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 1.12 male(s)/female<br>
-_55-64 years_: 1.15 male(s)/female<br>
-_65 years and over_: 1.08 male(s)/female<br>
-_total population_: 1.08 male(s)/female (2020 est.)<br>
+_55-64 years_: 1.13 male(s)/female<br>
+_65 years and over_: 0.97 male(s)/female<br>
+_total population_: 1.08 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 183 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 35.99 deaths/1,000 live births<br>
-_male_: 38.49 deaths/1,000 live births<br>
-_female_: 33.37 deaths/1,000 live births (2021 est.)<br>
+_total_: 27.04 deaths/1,000 live births<br>
+_male_: 27.22 deaths/1,000 live births<br>
+_female_: 26.86 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.5 years<br>
-_male_: 70.1 years<br>
-_female_: 72.98 years (2021 est.)<br>
+_total population_: 72.31 years<br>
+_male_: 71.19 years<br>
+_female_: 73.49 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.8 children born/woman (2021 est.)<br>
+1.79 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

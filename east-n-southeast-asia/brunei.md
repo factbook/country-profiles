@@ -71,7 +71,7 @@ close to vital sea lanes through South China Sea linking Indian and Pacific Ocea
 ## People and Society
 
 **Population**<br>
-471,103 (July 2021 est.)<br>
+478,054 (2022 est.)<br>
 <strong>note:</strong> immigrants make up approximately 26% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -110,7 +110,7 @@ _male_: 30.5 years<br>
 _female_: 31.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.48% (2021 est.)<br>
+1.45% (2022 est.)<br>
 
 **Birth rate**<br>
 16.14 births/1,000 population (2022 est.)<br>
@@ -119,7 +119,7 @@ _female_: 31.8 years (2020 est.)<br>
 3.79 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-2.22 migrant(s)/1,000 population (2021 est.)<br>
+2.18 migrant(s)/1,000 population (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 78.9% of total population (2022)<br>
@@ -133,26 +133,26 @@ _rate of urbanization_: 1.44% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.9 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.95 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.89 male(s)/female<br>
+_55-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 31 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.79 deaths/1,000 live births<br>
-_male_: 13.21 deaths/1,000 live births<br>
-_female_: 8.25 deaths/1,000 live births (2021 est.)<br>
+_total_: 10.52 deaths/1,000 live births<br>
+_male_: 12.88 deaths/1,000 live births<br>
+_female_: 8.05 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.14 years<br>
-_male_: 75.75 years<br>
-_female_: 80.63 years (2021 est.)<br>
+_total population_: 78.38 years<br>
+_male_: 76.01 years<br>
+_female_: 80.86 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.75 children born/woman (2021 est.)<br>
+1.74 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -648,13 +648,13 @@ Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Bru
 approximately 6,500 total active troops (4,500 Army; 1,000 Navy; 1,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Royal Brunei Armed Forces imports nearly all of its military equipment and weapons systems; suppliers since 2010 include the US and several European countries with Germany as the leading provider (2021)<br>
+the Royal Brunei Armed Forces imports nearly all of its military equipment and weapons systems and has a variety of suppliers, including the US and several European countries (2021)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service; non-Malays are ineligible to serve; recruits from the army, navy, and air force all undergo 43-week initial training (2021)<br>
 
 **Military - note**<br>
-Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes the Gurkha Battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2021)<br>
+Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2021)<br>
 
 ## Transnational Issues
 

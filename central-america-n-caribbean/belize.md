@@ -74,7 +74,7 @@ only country in Central America without a coastline on the North Pacific Ocean<b
 ## People and Society
 
 **Population**<br>
-405,633 (July 2021 est.)<br>
+412,387 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Belizean(s)<br>
@@ -113,7 +113,7 @@ _male_: 23 years<br>
 _female_: 24.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.67% (2021 est.)<br>
+1.64% (2022 est.)<br>
 
 **Birth rate**<br>
 21.28 births/1,000 population (2022 est.)<br>
@@ -122,7 +122,7 @@ _female_: 24.8 years (2020 est.)<br>
 3.94 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.98 migrant(s)/1,000 population (2021 est.)<br>
+-0.96 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 approximately 25% to 30% of the population lives in the former capital, Belize City; over half of the overall population is rural; population density is slightly higher in the north and east<br>
@@ -137,27 +137,27 @@ _rate of urbanization_: 2.3% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.94 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.12 male(s)/female<br>
+_25-54 years_: 0.93 male(s)/female<br>
+_55-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 36 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.4 deaths/1,000 live births<br>
-_male_: 12.64 deaths/1,000 live births<br>
-_female_: 10.1 deaths/1,000 live births (2021 est.)<br>
+_total_: 11.15 deaths/1,000 live births<br>
+_male_: 12.36 deaths/1,000 live births<br>
+_female_: 9.88 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.56 years<br>
-_male_: 73.96 years<br>
-_female_: 77.24 years (2021 est.)<br>
+_total population_: 75.82 years<br>
+_male_: 74.23 years<br>
+_female_: 77.5 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.66 children born/woman (2021 est.)<br>
+2.62 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 51.4% (2015/16)<br>

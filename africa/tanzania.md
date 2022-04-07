@@ -85,7 +85,7 @@ Kilimanjaro is the highest point in Africa and one of only three mountain ranges
 ## People and Society
 
 **Population**<br>
-62,092,761 (July 2021 est.)<br>
+63,852,892 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -125,7 +125,7 @@ _male_: 17.9 years<br>
 _female_: 18.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.81% (2021 est.)<br>
+2.78% (2022 est.)<br>
 
 **Birth rate**<br>
 33.3 births/1,000 population (2022 est.)<br>
@@ -134,7 +134,7 @@ _female_: 18.4 years (2020 est.)<br>
 5.09 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.44 migrant(s)/1,000 population (2021 est.)<br>
+-0.41 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast as shown in this population distribution map<br>
@@ -150,10 +150,10 @@ _rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.86 male(s)/female<br>
-_65 years and over_: 0.71 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.99 male(s)/female<br>
+_55-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.8 years (2015/16 est.)<br>
@@ -163,17 +163,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 524 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.51 deaths/1,000 live births<br>
-_male_: 34.36 deaths/1,000 live births<br>
-_female_: 28.57 deaths/1,000 live births (2021 est.)<br>
+_total_: 30.87 deaths/1,000 live births<br>
+_male_: 33.66 deaths/1,000 live births<br>
+_female_: 28 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.9 years<br>
-_male_: 68.12 years<br>
-_female_: 71.74 years (2021 est.)<br>
+_total population_: 70.19 years<br>
+_male_: 68.42 years<br>
+_female_: 72.02 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.45 children born/woman (2021 est.)<br>
+4.39 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 38.4% (2015/16)<br>
@@ -376,14 +376,13 @@ _judge selection and term of office_: Court of Appeal and High Court justices ap
 _subordinate courts_: Resident Magistrates Courts; Kadhi courts (for Islamic family matters); district and primary courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Change and Transparency (Wazalendo) or ACT [Zitto KABWE]<br>Alliance for Democratic Change or ADC [Miraji ABDALLAH] <br>Civic United Front (Chama Cha Wananchi) or CUF [Ibrahim LIPUMBA]<br>National Convention for Construction and Reform-Mageuzi or NCCR-M [James Francis MBATIA]<br>National League for Democracy<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or Chadema [Freeman MBOWE]<br>Revolutionary Party (Chama Cha Mapinduzi) or CCM<br>Tanzania Labor Party or TLP [Augustine MREMA]<br>United Democratic Party or UDP [John Momose CHEYO]<br>
-<strong>note:</strong> in March 2014, four opposition parties (CUF, CHADEMA, NCCR-Mageuzi, and NLD) united to form Coalition for the People's Constitution (Umoja wa Katiba ya Wananchi) or UKAWA; during local elections held in October, 2014, UKAWA entered one candidate representing the three parties united in the coalition<br>
+Alliance for Change and Transparency (Wazalendo) or ACT [Zitto KABWE]<br>Alliance for Democratic Change or ADC [Hamad Rashid MOHAMED] <br>Civic United Front (Chama Cha Wananchi) or CUF [Ibrahim LIPUMBA]<br>National Convention for Construction and Reform-Mageuzi or NCCR-M [James Francis MBATIA]<br>National League for Democracy<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or Chadema [President Samia Suluhu HASSAN]<br>Revolutionary Party (Chama Cha Mapinduzi) or CCM<br>Tanzania Labor Party or TLP [Augustine MREMA]<br>United Democratic Party or UDP [John Momose CHEYO]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Jean Abel MSABILA, Counselor (since 21 May 2021)<br>
+_chief of mission_: Ambassador H.E. Elsie Sia KANZA (since August 2021)<br>
 _chancery_: 1232 22nd Street NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 884-1080, [1] (202) 939-6125, [1] (202) 939-6127<br>
 _FAX_: [1] (202) 797-7408<br>
@@ -636,13 +635,13 @@ _total subscriptions_: 51,220,233 (2020)<br>
 _subscriptions per 100 inhabitants_: 85.75 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Tanzania&rsquo;s telecom services are marginal and operating below capacity; one fixed-line operator with competition in mobile networks; high tariffs on telecom; mobile use is growing with popularity of 3G/LTE services; government allocated funds in 2019 to improve rural telecom infrastructure and work on national fiber backbone network connecting population around country (2020)<br>
+_general assessment_: Tanzania&rsquo;s telecom services are being developed to reach parity with more advanced networks from neighboring countries such as Kenya and fierce competition exists amongst Tanzania's 5 major mobile network operators; one fixed-line operator with competition in mobile networks; high tariffs on telecom; mobile use remains popular, with the government subsidizing expansion of mobile networks into rural communities; most mobile networks rely on older 2G and 3G technology with 4G/LTE service available in urban centers; the government is currently testing 5G technology and plans to begin rolling out 5G service in 2024; the government continues to improve rural telecom infrastructure including work on a national fiber backbone network connecting the entire population (2022)<br>
 _domestic_: fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly and exceeds 82 telephones per 100 persons; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital (2019)<br>
 _international_: country code - 255; landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS&nbsp;fiber-optic submarine cable system linking East Africa with the Middle East; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-a state-owned TV station and multiple privately owned TV stations; state-owned national radio station supplemented by more than 40 privately owned radio stations; transmissions of several international broadcasters are available (2019)<br>
+according to statistics from the Tanzania Communications Regulatory Authority (TCRA), Tanzania had 45 television stations as of 2020; 13 of those stations provided national content services (commercially broadcasting free-to-air television); there are 196 radio stations, most operating at the district level, but also including 5 independent nationally broadcasting stations and 1 state-owned national radio station; international broadcasting is available through satellite television which is becoming increasingly widespread; there are 3 major satellite TV providers (2020)<br>
 
 **Internet country code**<br>
 .tz<br>
@@ -687,14 +686,16 @@ _under 914 m_: 33 (2013)<br>
 311 km gas, 891 km oil, 8 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 4,567 km (2014)<br>
-_narrow gauge_: 1,860 km 1.067-m gauge (2014)<br>
+_total_: 4,097 km<br>
+_standard gauge_: 421 km<br>
+_narrow gauge_: 1,969 km 1.067 m gauge (2014)<br>
+_broad gauge_: 2,707 km 1.000 m guage <br>
 2707 km 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 87,581 km (2015)<br>
-_paved_: 10,025 km (2015)<br>
-_unpaved_: 77,556 km (2015)<br>
+_total_: 145,203 km<br>
+_paved_: 11,201 km (2015)<br>
+_unpaved_: 135,002 km<br>
 
 **Waterways**<br>
 (Lake Tanganyika, Lake Victoria, and Lake Nyasa (Lake Malawi) are the principal avenues of commerce with neighboring countries; the rivers are not navigable) (2011)<br>
@@ -709,7 +710,7 @@ _major seaport(s)_: Dar es Salaam, Zanzibar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves); Ministry of Home Affairs paramilitary forces: Police Field Force (2021)<br>
+Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves); Ministry of Home Affairs: Tanzania Police force (includes paramilitary Police Field Force) (2022)<br>
 note - the National Building Army is a paramilitary organization under the Defense Forces that provides 6 months of military and vocational training to individuals as part of their 2 years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br>
 
 **Military expenditures**<br>
@@ -732,7 +733,7 @@ the TPDF inventory includes mostly Soviet-era and Chinese equipment; since 2010,
 450 Central African Republic (MINUSCA); 830 Democratic Republic of the Congo (MONUSCO); 125 Lebanon (UNIFIL) (Dec 2021)<br>
 
 **Military - note**<br>
-in 2021-2022, Tanzania deployed additional troops to its border with Mozambique and contributed troops to the Southern African Development Community (SADC) intervention force that was assisting the Mozambique Government fight against Islamic militants<br>
+in 2021-2022, Tanzania deployed additional troops to its border with Mozambique and contributed troops to the Southern African Development Community (SADC) intervention force that was assisting the Mozambique Government's fight against Islamic militants<br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships</p><br>
@@ -756,5 +757,5 @@ _current situation_: Tanzania is a source, transit, and destination country for 
 _tier rating_: Tier 2 Watch List &mdash; Tanzania does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts were made to&nbsp; identify and refer victims for care; investigations and convictions of traffickers, training for officials, and public awareness campaigns were increased along with a National Guideline for Safe Houses; however, the government did not amend its law to remove sentencing provisions that allow fines in lieu of imprisonment; fewer prosecutions were initiated; the government did not implement the 2018-2021 national action plan; officials did not fully implement the creation of the anti-trafficking fund nor disperse funds; no formal victim identification and protection was provided (2020)<br>
 
 **Illicit drugs**<br>
-<p>significant transit country for illicit drugs in East Africa; international drug     trafficking organizations and courier networks transit through Tanzania to smuggle heroin from Southwest Asia; produces cannabis products and khat for domestic consumption and regional and international distribution; traffickers influence politicians, law enforcement, and others in positions of power with money</p><br>
+<p>significant transit country for illicit drugs in East Africa; international drug-trafficking organizations and courier networks transit through Tanzania to smuggle heroin and methamphetamine from Southwest Asia; produces cannabis products and khat for domestic consumption and regional and international distribution; traffickers influence politicians, law enforcement, and others in positions of power with money</p><br>
 

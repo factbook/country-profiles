@@ -73,7 +73,7 @@ second-smallest independent state in the world (after the Holy See); smallest co
 ## People and Society
 
 **Population**<br>
-31,223 (July 2021 est.)<br>
+31,400 (2022 est.)<br>
 <strong>note:</strong> immigrants make up almost 68% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -110,7 +110,7 @@ _male_: 53.7 years<br>
 _female_: 57 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.53% (2021 est.)<br>
+0.6% (2022 est.)<br>
 
 **Birth rate**<br>
 6.66 births/1,000 population (2022 est.)<br>
@@ -119,7 +119,7 @@ _female_: 57 years (2020 est.)<br>
 10.7 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-9.16 migrant(s)/1,000 population (2021 est.)<br>
+10.03 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the second most densely populated country in the world (after Macau); its entire population living on 2 square km<br>
@@ -132,26 +132,26 @@ _rate of urbanization_: 0.5% annual rate of change (2020-25 est.)<br>
 39,000 MONACO (capital) (2018)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
+_at birth_: 1.04 male(s)/female<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-24 years_: 1.07 male(s)/female<br>
 _25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.8 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.76 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.78 deaths/1,000 live births<br>
-_male_: 2.09 deaths/1,000 live births<br>
-_female_: 1.46 deaths/1,000 live births (2021 est.)<br>
+_total_: 1.76 deaths/1,000 live births<br>
+_male_: 2.07 deaths/1,000 live births<br>
+_female_: 1.45 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 89.4 years<br>
-_male_: 85.55 years<br>
-_female_: 93.4 years (2021 est.)<br>
+_total population_: 89.52 years<br>
+_male_: 85.7 years<br>
+_female_: 93.49 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.52 children born/woman (2021 est.)<br>
+1.53 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

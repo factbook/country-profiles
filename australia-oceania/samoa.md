@@ -73,7 +73,7 @@ occupies an almost central position within Polynesia<br>
 ## People and Society
 
 **Population**<br>
-204,898 (July 2021 est.)<br>
+206,179 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Samoan(s)<br>
@@ -108,7 +108,7 @@ _male_: 25.3 years<br>
 _female_: 26 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.61% (2021 est.)<br>
+0.63% (2022 est.)<br>
 
 **Birth rate**<br>
 19.21 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 26 years (2020 est.)<br>
 5.37 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--7.82 migrant(s)/1,000 population (2021 est.)<br>
+-7.51 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 about three-quarters of the population lives on the island of Upolu<br>
@@ -134,9 +134,9 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
 _15-24 years_: 1.06 male(s)/female<br>
 _25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1.04 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2020 est.)<br>
+_55-64 years_: 1.05 male(s)/female<br>
+_65 years and over_: 0.61 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.6 years (2009 est.)<br>
@@ -146,17 +146,17 @@ _total population_: 1.04 male(s)/female (2020 est.)<br>
 43 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.75 deaths/1,000 live births<br>
-_male_: 22.25 deaths/1,000 live births<br>
-_female_: 15.07 deaths/1,000 live births (2021 est.)<br>
+_total_: 18 deaths/1,000 live births<br>
+_male_: 21.76 deaths/1,000 live births<br>
+_female_: 14.05 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.92 years<br>
-_male_: 72.01 years<br>
-_female_: 77.98 years (2021 est.)<br>
+_total population_: 75.19 years<br>
+_male_: 72.28 years<br>
+_female_: 78.25 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.46 children born/woman (2021 est.)<br>
+2.42 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 16.6% (2019/20)<br>

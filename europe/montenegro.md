@@ -80,7 +80,7 @@ strategic location along the Adriatic coast<br>
 ## People and Society
 
 **Population**<br>
-607,414 (July 2021 est.)<br>
+604,966 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Montenegrin(s)<br>
@@ -115,7 +115,7 @@ _male_: 38.1 years<br>
 _female_: 41.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.4% (2021 est.)<br>
+-0.41% (2022 est.)<br>
 
 **Birth rate**<br>
 11.19 births/1,000 population (2022 est.)<br>
@@ -124,7 +124,7 @@ _female_: 41.1 years (2020 est.)<br>
 10.33 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--4.95 migrant(s)/1,000 population (2021 est.)<br>
+-4.97 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area<br>
@@ -138,12 +138,12 @@ _rate of urbanization_: 0.45% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
-_0-14 years_: 1.08 male(s)/female<br>
+_0-14 years_: 1.07 male(s)/female<br>
 _15-24 years_: 1.07 male(s)/female<br>
 _25-54 years_: 0.99 male(s)/female<br>
 _55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.3 years (2010 est.)<br>
@@ -152,17 +152,17 @@ _total population_: 0.97 male(s)/female (2020 est.)<br>
 6 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.29 deaths/1,000 live births<br>
-_male_: 2.75 deaths/1,000 live births<br>
-_female_: 3.85 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.24 deaths/1,000 live births<br>
+_male_: 2.72 deaths/1,000 live births<br>
+_female_: 3.79 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.51 years<br>
-_male_: 75.06 years<br>
-_female_: 80.04 years (2021 est.)<br>
+_total population_: 77.75 years<br>
+_male_: 75.32 years<br>
+_female_: 80.27 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.82 children born/woman (2021 est.)<br>
+1.81 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 20.7% (2018)<br>
@@ -699,7 +699,7 @@ the inventory of the Armed Forces of Montenegro is small and consists mostly of 
 note - as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military - note**<br>
-Montenegro officially became a member of NATO in 2017<br>
+Montenegro officially became a member of NATO in 2017; Greece and Italy provide NATO's air policing mission for Montenegro<br>
 
 ## Terrorism
 
@@ -710,7 +710,7 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 20,947 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
+<strong>note:</strong> 20,997 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

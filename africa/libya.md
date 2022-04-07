@@ -81,7 +81,7 @@ hot, dry, dust-laden ghibli is a southern wind lasting one to four days in sprin
 ## People and Society
 
 **Population**<br>
-7,017,224 (July 2021 est.)<br>
+7,137,931 (2022 est.)<br>
 <strong>note:</strong> immigrants make up just over 12% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -121,7 +121,7 @@ _male_: 25.9 years<br>
 _female_: 25.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.76% (2021 est.)<br>
+1.65% (2022 est.)<br>
 
 **Birth rate**<br>
 21.56 births/1,000 population (2022 est.)<br>
@@ -130,7 +130,7 @@ _female_: 25.7 years (2020 est.)<br>
 3.45 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.15 migrant(s)/1,000 population (2021 est.)<br>
+-1.61 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 well over 90% of the population lives along the Mediterranean coast in and between Tripoli to the west and Al Bayda to the east; the interior remains vastly underpopulated due to the Sahara and lack of surface water as shown in this population distribution map<br>
@@ -146,26 +146,26 @@ _rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.09 male(s)/female<br>
+_25-54 years_: 1.08 male(s)/female<br>
 _55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.86 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 1.04 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 72 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.48 deaths/1,000 live births<br>
-_male_: 12.97 deaths/1,000 live births<br>
-_female_: 9.93 deaths/1,000 live births (2021 est.)<br>
+_total_: 11.22 deaths/1,000 live births<br>
+_male_: 12.66 deaths/1,000 live births<br>
+_female_: 9.7 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.93 years<br>
-_male_: 74.68 years<br>
-_female_: 79.29 years (2021 est.)<br>
+_total population_: 77.18 years<br>
+_male_: 74.94 years<br>
+_female_: 79.53 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.13 children born/woman (2021 est.)<br>
+3.09 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 27.7% (2014)<br>
@@ -588,7 +588,7 @@ _total subscriptions_: 6.02 million (2018)<br>
 _subscriptions per 100 inhabitants_: 91.48 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: political and security instability in Libya has disrupted its telecom sector, as warring factions make mobile towers a target and construction workers regularly cut cables by mistake; much of its infrastructure remains superior to that in most other African countries; rival operators fight for control; investment in fiber backbone and upgrades to international cables; limited LTE and 5G service; some satellite broadband; Chinese companies have heavily invested in Libyan infrastructure and now dominate the telecommunications sector; in 2021 Libya signed deals and projects with US firms to upgrade portions of its infrastructure, increasing the diversity of its telecommunications networks (2021)<br>
+_general assessment_: political and security instability in Libya has disrupted its telecom sector; much of its infrastructure remains superior to that in most other African countries; rival operators fight for control; investment in fiber backbone and upgrades to international cables; limited LTE and 5G service; some satellite broadband; Chinese companies have heavily invested in Libyan infrastructure and now dominate the telecommunications sector; in 2021 Libya signed deals and projects with US firms to upgrade portions of its infrastructure, increasing the diversity of its telecommunications networks (2021)<br>
 _domestic_: nearly 24 per 100 fixed-line and over 91 per 100 mobile-cellular subscriptions; service generally adequate (2019)<br>
 _international_: country code - 218; landing points for LFON, EIG, Italy-Libya, Silphium and Tobrok-Emasaed&nbsp;submarine cable system connecting Europe, Africa, the Middle East and Asia; satellite earth stations - 4 Intelsat, Arabsat, and Intersputnik;&nbsp; microwave radio relay to Tunisia and Egypt; tropospheric scatter to Greece; participant in Medarabtel (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

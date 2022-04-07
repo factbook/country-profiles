@@ -73,7 +73,7 @@ vegetation scanty; the islands are actually part of the northern Appalachians al
 ## People and Society
 
 **Population**<br>
-5,321 (July 2021 est.)<br>
+5,257 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Frenchman(men), Frenchwoman(women)<br>
@@ -90,11 +90,11 @@ _major-language sample(s)_: <br>The World Factbook, une source indispensable d'i
 Roman Catholic 99%, other 1%<br>
 
 **Age structure**<br>
-_0-14 years_: 14.31% (male 395/female 370)<br>
-_15-24 years_: 8.83% (male 245/female 227)<br>
+_0-14 years_: 13.68% (male 370/female 349)<br>
+_15-24 years_: 8.71% (male 240/female 218)<br>
 _25-54 years_: 40% (male 1,039/female 1,100)<br>
-_55-64 years_: 14.49% (male 400/female 375)<br>
-_65 years and over_: 22.37% (male 513/female 683) (2020 est.)<br>
+_55-64 years_: 15.52% (male 419/female 397)<br>
+_65 years and over_: 24.1% (male 556/female 711) (2022 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -108,7 +108,7 @@ _male_: 47.9 years<br>
 _female_: 49 years (2020 est.)<br>
 
 **Population growth rate**<br>
--1.2% (2021 est.)<br>
+-1.2% (2022 est.)<br>
 
 **Birth rate**<br>
 6.47 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 49 years (2020 est.)<br>
 11.22 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--7.52 migrant(s)/1,000 population (2021 est.)<br>
+-7.23 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is found on Saint Pierre Island; a small settlement is located on the north end of Miquelon Island<br>
@@ -131,25 +131,25 @@ _rate of urbanization_: 0.75% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 0.94 male(s)/female<br>
-_55-64 years_: 1.07 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-24 years_: 1.11 male(s)/female<br>
+_25-54 years_: 0.93 male(s)/female<br>
+_55-64 years_: 1.05 male(s)/female<br>
+_65 years and over_: 0.62 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.35 deaths/1,000 live births<br>
-_male_: 10.37 deaths/1,000 live births<br>
-_female_: 6.23 deaths/1,000 live births (2021 est.)<br>
+_total_: 8.16 deaths/1,000 live births<br>
+_male_: 10.12 deaths/1,000 live births<br>
+_female_: 6.09 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.2 years<br>
-_male_: 78.83 years<br>
-_female_: 83.7 years (2021 est.)<br>
+_total population_: 81.41 years<br>
+_male_: 79.05 years<br>
+_female_: 83.9 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.58 children born/woman (2021 est.)<br>
+1.59 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

@@ -82,7 +82,7 @@ landlocked; population concentrated in the southern and eastern parts of the cou
 ## People and Society
 
 **Population**<br>
-2,350,667 (July 2021 est.)<br>
+2,384,246 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -120,7 +120,7 @@ _male_: 24.5 years<br>
 _female_: 26.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.43% (2021 est.)<br>
+1.4% (2022 est.)<br>
 
 **Birth rate**<br>
 20.28 births/1,000 population (2022 est.)<br>
@@ -129,7 +129,7 @@ _female_: 26.7 years (2020 est.)<br>
 9.05 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-2.85 migrant(s)/1,000 population (2021 est.)<br>
+2.81 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the population is primarily concentrated in the east with a focus in and around the captial of Gaborone, and the far central-eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari to the west as shown in this population distribution map<br>
@@ -144,27 +144,27 @@ _rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 0.97 male(s)/female<br>
+_15-24 years_: 0.96 male(s)/female<br>
 _25-54 years_: 0.9 male(s)/female<br>
-_55-64 years_: 0.76 male(s)/female<br>
-_65 years and over_: 0.71 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.79 male(s)/female<br>
+_65 years and over_: 0.6 male(s)/female<br>
+_total population_: 0.92 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 144 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 25.97 deaths/1,000 live births<br>
-_male_: 28.38 deaths/1,000 live births<br>
-_female_: 23.49 deaths/1,000 live births (2021 est.)<br>
+_total_: 25.18 deaths/1,000 live births<br>
+_male_: 27.54 deaths/1,000 live births<br>
+_female_: 22.75 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.24 years<br>
-_male_: 63.21 years<br>
-_female_: 67.32 years (2021 est.)<br>
+_total population_: 65.64 years<br>
+_male_: 63.6 years<br>
+_female_: 67.74 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.42 children born/woman (2021 est.)<br>
+2.39 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 67.4% (2017)<br>

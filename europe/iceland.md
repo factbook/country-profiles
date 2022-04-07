@@ -74,7 +74,7 @@ strategic location between Greenland and Europe; westernmost European country; R
 ## People and Society
 
 **Population**<br>
-354,234 (July 2021 est.)<br>
+357,603 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Icelander(s)<br>
@@ -109,7 +109,7 @@ _male_: 36.6 years<br>
 _female_: 37.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.97% (2021 est.)<br>
+0.93% (2022 est.)<br>
 
 **Birth rate**<br>
 12.96 births/1,000 population (2022 est.)<br>
@@ -118,7 +118,7 @@ _female_: 37.7 years (2020 est.)<br>
 6.56 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-3.09 migrant(s)/1,000 population (2021 est.)<br>
+2.89 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west<br>
@@ -136,8 +136,8 @@ _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.02 male(s)/female<br>
 _25-54 years_: 1.03 male(s)/female<br>
 _55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.76 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.7 years (2019 est.)<br>
@@ -146,17 +146,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 4 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.66 deaths/1,000 live births<br>
-_male_: 1.85 deaths/1,000 live births<br>
-_female_: 1.47 deaths/1,000 live births (2021 est.)<br>
+_total_: 1.65 deaths/1,000 live births<br>
+_male_: 1.83 deaths/1,000 live births<br>
+_female_: 1.46 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.45 years<br>
-_male_: 81.21 years<br>
-_female_: 85.79 years (2021 est.)<br>
+_total population_: 83.64 years<br>
+_male_: 81.41 years<br>
+_female_: 85.97 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.96 children born/woman (2021 est.)<br>
+1.95 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

@@ -62,7 +62,7 @@ large, deepwater harbor at Saint Peter Port<br>
 ## People and Society
 
 **Population**<br>
-67,334 (July 2021 est.)<br>
+67,491 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Channel Islander(s)<br>
@@ -98,7 +98,7 @@ _male_: 43 years<br>
 _female_: 45.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.24% (2021 est.)<br>
+0.23% (2022 est.)<br>
 
 **Birth rate**<br>
 9.75 births/1,000 population (2022 est.)<br>
@@ -107,7 +107,7 @@ _female_: 45.6 years (2020 est.)<br>
 9.17 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-1.8 migrant(s)/1,000 population (2021 est.)<br>
+1.7 migrant(s)/1,000 population (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 31.1% of total population (2022)<br>
@@ -121,23 +121,23 @@ _rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
+_25-54 years_: 1.03 male(s)/female<br>
 _55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.41 deaths/1,000 live births<br>
-_male_: 3.92 deaths/1,000 live births<br>
-_female_: 2.88 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.36 deaths/1,000 live births<br>
+_male_: 3.85 deaths/1,000 live births<br>
+_female_: 2.83 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.03 years<br>
-_male_: 80.31 years<br>
-_female_: 85.89 years (2021 est.)<br>
+_total population_: 83.23 years<br>
+_male_: 80.52 years<br>
+_female_: 86.07 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.58 children born/woman (2021 est.)<br>
+1.58 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

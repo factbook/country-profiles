@@ -90,7 +90,7 @@ recurring droughts in northeast; floods and occasional frost in south<br>
 ## People and Society
 
 **Population**<br>
-213,445,417 (July 2021 est.)<br>
+217,240,060 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Brazilian(s)<br>
@@ -128,7 +128,7 @@ _male_: 32.3 years<br>
 _female_: 34.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.65% (2021 est.)<br>
+0.7% (2022 est.)<br>
 
 **Birth rate**<br>
 13.96 births/1,000 population (2022 est.)<br>
@@ -137,7 +137,7 @@ _female_: 34.1 years (2020 est.)<br>
 6.81 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.13 migrant(s)/1,000 population (2021 est.)<br>
+-0.19 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of Sao Paolo, Brasilia, and Rio de Janeiro<br>
@@ -153,26 +153,26 @@ _rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
+_25-54 years_: 0.98 male(s)/female<br>
 _55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.58 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 60 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.37 deaths/1,000 live births<br>
-_male_: 21.72 deaths/1,000 live births<br>
-_female_: 14.85 deaths/1,000 live births (2021 est.)<br>
+_total_: 13.31 deaths/1,000 live births<br>
+_male_: 14.75 deaths/1,000 live births<br>
+_female_: 11.8 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.98 years<br>
-_male_: 71.49 years<br>
-_female_: 78.65 years (2021 est.)<br>
+_total population_: 75.92 years<br>
+_male_: 72.5 years<br>
+_female_: 79.5 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.73 children born/woman (2021 est.)<br>
+1.8 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 80.2% (2013)<br>
@@ -217,7 +217,7 @@ _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 6 October 2021, Brazil has reported a total of 21,478,546 cases of COVID-19 or 10,104.73 cumulative cases of COVID-19 per 100,000 population with 281.4 cumulative deaths per 100,000 population; as of 5 October 2021, 44.27% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 30 March 2022, Brazil has reported a total of 29,852,341 cases of COVID-19 or 14,044.23 cumulative cases of COVID-19 per 100,000 population with a total of 658,956 cumulative deaths or a rate 310.01 cumulative deaths per 100,000 population; as of 29 March 2022, 84.62% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 22.1% (2016)<br>
@@ -284,7 +284,7 @@ _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 6 October 2021, Brazil has reported a total of 21,478,546 cases of COVID-19 or 10,104.73 cumulative cases of COVID-19 per 100,000 population with 281.4 cumulative deaths per 100,000 population; as of 5 October 2021, 44.27% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 30 March 2022, Brazil has reported a total of 29,852,341 cases of COVID-19 or 14,044.23 cumulative cases of COVID-19 per 100,000 population with a total of 658,956 cumulative deaths or a rate 310.01 cumulative deaths per 100,000 population; as of 29 March 2022, 84.62% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 79,889,010 tons (2015 est.)<br>

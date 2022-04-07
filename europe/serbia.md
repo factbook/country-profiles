@@ -79,7 +79,7 @@ landlocked; controls one of the major land routes from Western Europe to Turkey 
 ## People and Society
 
 **Population**<br>
-6,974,289 (July 2021 est.)<br>
+6,739,471 (2022 est.)<br>
 <strong>note:</strong> does not include the population of Kosovo<br>
 
 **Nationality**<br>
@@ -118,7 +118,7 @@ _male_: 41.7 years<br>
 _female_: 45 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.48% (2021 est.)<br>
+-0.75% (2022 est.)<br>
 
 **Birth rate**<br>
 8.92 births/1,000 population (2022 est.)<br>
@@ -127,7 +127,7 @@ _female_: 45 years (2020 est.)<br>
 16.39 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -141,13 +141,13 @@ _rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
 1.405 million BELGRADE (capital) (2022)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.07 male(s)/female<br>
+_at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
+_15-24 years_: 1.05 male(s)/female<br>
 _25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.72 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.55 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.1 years (2019 est.)<br>
@@ -157,17 +157,17 @@ _total population_: 0.95 male(s)/female (2020 est.)<br>
 12 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.67 deaths/1,000 live births<br>
-_male_: 6.69 deaths/1,000 live births<br>
-_female_: 4.6 deaths/1,000 live births (2021 est.)<br>
+_total_: 4.81 deaths/1,000 live births<br>
+_male_: 5.43 deaths/1,000 live births<br>
+_female_: 4.16 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.56 years<br>
-_male_: 73.67 years<br>
-_female_: 79.64 years (2021 est.)<br>
+_total population_: 74.17 years<br>
+_male_: 71.5 years<br>
+_female_: 77 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.47 children born/woman (2021 est.)<br>
+1.46 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.3% (2019)<br>
@@ -727,7 +727,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 _refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 821,559 estimated refugee and migrant arrivals (January 2015-March 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
+<strong>note:</strong> 822,392 estimated refugee and migrant arrivals (January 2015-March 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

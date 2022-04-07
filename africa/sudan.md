@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Long referred to as Nubia, modern-day Sudan was the site of the Kingdom of Kerma (ca. 2500-1500 B.C.) until it was absorbed into the New Kingdom of Egypt. By the 11th century B.C., the Kingdom of Kush gained independence from Egypt; it lasted in various forms until the middle of the 4th century A.D. After the fall of Kush, the Nubians formed three Christian kingdoms of Nobatia, Makuria, and Alodia. The latter two endured until around 1500. Between the 14th and 15th centuries much of Sudan was settled by Arab nomads, and between the 16th–19th centuries it underwent extensive Islamization. Following Egyptian occupation early in the 19th century, the British established an Anglo-Egyptian Sudan - nominally a condominium, but in effect a British colony. <br><br>Military regimes favoring Islamic-oriented governments have dominated national politics since Sudan gained independence from Anglo-Egyptian co-rule in 1956. The 30-year reign of President Umar Hassan Ahmad al-BASHIR, following months of nationwide protests, ended with the military forcing him out in April 2019. In October 2021, the Sudanese military deposed Prime Minister HAMDOUK but reinstated him in November 2021. As of December 2021, a joint civilian-military-executive body known as the Sovereign Council rules Sudan; the transitional government has stated it intends to hold elections that result in a civilian led government by early 2024.<br><br>During most of the second half of the 20th century, Sudan was embroiled in two prolonged civil wars rooted in northern economic, political, and social domination of the largely non-Muslim, non-Arab southern portion of the country. The first civil war ended in 1972, but another broke out in 1983. Peace talks gained momentum in 2002-04, and the final North/South Comprehensive Peace Agreement (CPA), signed in January 2005, granted the southern rebels autonomy for six years followed by a referendum on independence for Southern Sudan. South Sudan became independent on 9 July 2011, but Sudan and South Sudan have yet to fully implement security and economic agreements relating to the normalization of relations between the two countries. <br><br>In the 21st century, Sudan faced conflict in Darfur, Southern Kordofan, and Blue Nile starting in 2003. Together, these conflicts displaced more than 3 million people; while some repatriation has taken place, about 2.28 million IDPs remained in Sudan as of December 2020. Sudan also faces refugee influxes from neighboring countries, primarily Central African Republic, Chad, Eritrea, Ethiopia, and South Sudan.</p> <p> </p><br>
+<p>Long referred to as Nubia, modern-day Sudan was the site of the Kingdom of Kerma (ca. 2500-1500 B.C.) until it was absorbed into the New Kingdom of Egypt. By the 11th century B.C., the Kingdom of Kush gained independence from Egypt; it lasted in various forms until the middle of the 4th century A.D. After the fall of Kush, the Nubians formed three Christian kingdoms of Nobatia, Makuria, and Alodia. The latter two endured until around 1500. Between the 14th and 15th centuries much of Sudan was settled by Arab nomads, and between the 16th–19th centuries it underwent extensive Islamization. Following Egyptian occupation early in the 19th century, the British established an Anglo-Egyptian Sudan - nominally a condominium, but in effect a British colony. <br><br>Military regimes favoring Islamic-oriented governments have dominated national politics since Sudan gained independence from Anglo-Egyptian co-rule in 1956. The 30-year reign of President Umar Hassan Ahmad al-BASHIR, following months of nationwide protests, ended with the military forcing him out in April 2019. In July 2019, the country’s Transitional Military Council signed an agreement with the Forces for Freedom and Change (an umbrella group of civilian actors) to form a transitional government under a Constitutional Declaration. Economist and former international civil servant Abdalla HAMDOUK al-Kinani was selected to serve as prime minister of a civilian-led transitional government, which was to have guided the country to credible democratic elections in late 2022. In October 2021, the Sudanese military organized a takeover that ousted Prime Minister HAMDOUK and his government and replaced civilian members of the Sovereign Council (Sudan’s collective Head of State) with individuals selected by the military. HAMDOUK was briefly reinstated in November 2021, but resigned in January 2022.</p> <p>As of March 2022, General Abd-al-Fatah al-BURHAN Abd-al-Rahman, the Chair of Sudan’s Sovereign Council and Commander-in-Chief of the Sudanese Armed Forces, serves as de facto head of state and government. He presides over a Sovereign Council consisting of military leaders, former armed opposition group representatives, and civilians appointed by the military. A cabinet of acting ministers handles day-to-day administration. These acting ministers are either senior civil servants (some appointed by former Prime Minister HAMDOUK and some selected by the military) or hold-over ministers from Prime Minister HAMDOUK’s former cabinet who were appointed by former armed opposition groups that the military allowed to remain in their positions. The UN, the African Union, and the Intergovernmental Authority on Development are currently facilitating a Sudanese-led political process intended to enable Sudanese civilian and military stakeholders to agree on the framework for a new civilian-led transitional government. <br><br>During most of the second half of the 20th century, Sudan was embroiled in two prolonged civil wars rooted in northern economic, political, and social domination of the largely non-Muslim, non-Arab southern portion of the country. The first civil war ended in 1972, but another broke out in 1983. Peace talks gained momentum in 2002-04, and the final North/South Comprehensive Peace Agreement (CPA), signed in January 2005, granted the southern rebels autonomy for six years followed by a referendum on independence for Southern Sudan. South Sudan became independent on 9 July 2011, but Sudan and South Sudan have yet to fully implement security and economic agreements relating to the normalization of relations between the two countries. <br><br>In the 21st century, Sudan faced conflict in Darfur, Southern Kordofan, and Blue Nile starting in 2003. Together, these conflicts displaced more than 3 million people; while some repatriation has taken place, about 2.28 million IDPs remained in Sudan as of December 2020. Sudan also faces refugee influxes from neighboring countries, primarily Central African Republic, Chad, Eritrea, Ethiopia, and South Sudan.</p> <p> </p><br>
 
 ## Geography
 
@@ -85,14 +85,14 @@ the Nile is Sudan's primary water source; its major tributaries, the White Nile 
 ## People and Society
 
 **Population**<br>
-46,751,152 (July 2021 est.)<br>
+47,958,856 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Sudanese (singular and plural)<br>
 _adjective_: Sudanese<br>
 
 **Ethnic groups**<br>
-Sudanese Arab (approximately 70%), Fur, Beja, Nuba, Fallata<br>
+Sudanese Arab (approximately 70%), Fur, Beja, Nuba, Ingessana, Uduk,Fallata, Masalit, Dajo, Gimir, Tunjur, Berti; there are over 500 ethnic groups<br>
 
 **Languages**<br>
 Arabic (official), English (official), Nubian, Ta Bedawie, Fur<br>
@@ -120,7 +120,7 @@ _male_: 18.1 years<br>
 _female_: 18.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.55% (2021 est.)<br>
+2.55% (2022 est.)<br>
 
 **Birth rate**<br>
 33.47 births/1,000 population (2022 est.)<br>
@@ -129,7 +129,7 @@ _female_: 18.5 years (2020 est.)<br>
 6.3 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.71 migrant(s)/1,000 population (2021 est.)<br>
+-1.67 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan, which extends into the dry Sahara, is sparsely populated; more abundant vegetation and broader access to water increases population distribution in the south extending habitable range along nearly the entire border with South Sudan; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and througout South Darfur as shown on this population distribution map<br>
@@ -144,27 +144,27 @@ _rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 1.04 male(s)/female<br>
-_65 years and over_: 1.12 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.03 male(s)/female<br>
+_25-54 years_: 0.94 male(s)/female<br>
+_55-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 1.04 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 295 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 43.15 deaths/1,000 live births<br>
-_male_: 48.66 deaths/1,000 live births<br>
-_female_: 37.36 deaths/1,000 live births (2021 est.)<br>
+_total_: 42.27 deaths/1,000 live births<br>
+_male_: 47.76 deaths/1,000 live births<br>
+_female_: 36.5 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.79 years<br>
-_male_: 64.58 years<br>
-_female_: 69.11 years (2021 est.)<br>
+_total population_: 67.12 years<br>
+_male_: 64.89 years<br>
+_female_: 69.46 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.66 children born/woman (2021 est.)<br>
+4.6 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 12.2% (2014)<br>
@@ -323,7 +323,7 @@ _etymology_: several explanations of the name exist; two of the more plausible a
 
 **Administrative divisions**<br>
 18 states (wilayat, singular - wilayah); Blue Nile, Central Darfur, East Darfur, Gedaref, Gezira, Kassala, Khartoum, North Darfur, North Kordofan, Northern, Red Sea, River Nile, Sennar, South Darfur, South Kordofan, West Darfur, West Kordofan, White Nile<br>
-note: the peace accord signed in October 2020 included a protocol to restructure the country's current 18 provinces/states into eight regions<br>
+note: the peace Agreement signed in October 2020 included a provision to establish a system of governance that will likely restructure the country's current 18 provinces/states into regions<br>
 
 **Independence**<br>
 1 January 1956 (from Egypt and the UK)<br>
@@ -332,7 +332,7 @@ note: the peace accord signed in October 2020 included a protocol to restructure
 Independence Day, 1 January (1956)<br>
 
 **Constitution**<br>
-_history_: previous 1973, 1998; 2005 (interim constitution, which was suspended in April 2019); latest initial draft completed by Transitional Military Council in May 2019; revised draft known as the "Draft Constitutional Charter for the 2019 Transitional Period," was signed by the Council and opposition coalition on 4 August 2019<br>
+_history_: history: previous 1973, 1998; 2005 (interim constitution, which was suspended in April 2019); latest initial draft completed by Transitional Military Council in May 2019; revised draft known as the "Draft Constitutional Charter for the 2019 Transitional Period," or &ldquo;2019 Constitutional Declaration&rdquo; was signed by the Council and opposition coalition on 4 August 2019 amendments: amended 2020 to incorporate the Juba Agreement for Peace in Sudan; the military suspended several provisions of the Constitutional Declaration in October 2021<br>
 _amendments_: amended 2020 to incorporate the Juba Agreement for Peace in Sudan<br>
 
 **Legal system**<br>
@@ -351,20 +351,20 @@ _residency requirement for naturalization_: 10 years<br>
 17 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: president (vacant); Sovereign Council Chairman General Abd-al-Fatah al-BURHAN Abd-al-Rahman; note - in August 2019, the ruling military council and civilian opposition alliance signed a power-sharing deal forming a "Sovereign Council," which served as a transitional collective chief of state chaired by al-BURHAN; on 25 October 2021, al-BURHAN dissolved the Sovereign Council but subsequently reinstated it on 11 November 2021, serving again as its Chairman; the Sovereign Council currently consists of 5 civilians, 5 generals, and 3 rebel leaders (2021)<br>
-_head of government_: Prime Minister (vacant); note - Prime Minister Abdallah HAMDOUK (since August 2019, reinstated November 2021) resigned on 2 January 2022 (2021)<br>
-_cabinet_: Council of Ministers primarily appointed by the prime minister (2021)<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed; last held on 13-16 April 2015 (next to be held at an undetermined date between July 2023 and January 2024 at the end of the transitional period); prime minister typically appointed by the president; note - the position of prime minister was reinstated in December 2016 as a result of the 2015-16 national dialogue process, and President al-BASHIR appointed BAKRI Hassan Salih to the position on 2 March 2017; on 21 August 2019, the Forces for Freedom and Change, the civilian opposition alliance, named Abdallah HAMDOUK as Prime Minister of Sudan for the transitional period; on 25 October 2021, General Abd-al-Fatah al-BURHAN Abd-al-Rahman dissolved the Sovereign Council and temporarily arrested HAMDOUK until his reinstatement on 21 November 2021 (2021)<br>
-_election results_: Umar Hassan Ahmad al-BASHIR reelected president; percent of vote - Umar Hassan Ahmad al-BASHIR (NCP) 94.1%, other (15 candidates) 5.9%<br>
+_chief of state_: <p>Sovereign Council Chair and Commander-in-Chief of the Sudanese Armed Forces General Abd-al-Fatah al-BURHAN Abd-al-Rahman (de facto); note – the 2019 Constitutional Declaration established a collective chief of state the "Sovereign Council," which was chaired by al-BURHAN; on 25 October 2021, al-BURHAN dissolved the Sovereign Council but subsequently reinstated it on 11 November 2021 replacing its civilian members (previously selected by the umbrella civilian coalition the Forces for Freedom and Change) with civilians of the military’s choosing; the Sovereign Council currently consists of five military appointed civilians, five generals, and three representatives selected by former armed opposition groups</p><br>
+_head of government_: Sovereign Council Chair and Commander-in-Chief of the Sudanese Armed Forces General Abd-al-Fatah al-BURHAN Abd-al-Rahman (de facto); note &ndash;the 2019 Constitutional Declaration calls for the appointment of a civilian Prime Minister; Prime Minister Abdallah HAMDOUK (since August 2019, ousted by military in October 2021 and then reinstated November 2021) resigned on 2 January 2022; he has not been replaced and Gen. BURHAN has effectively assumed his role<br>
+_cabinet_: most members of the Council of Ministers were forced from office in October 2021 by the military and subsequently resigned in November 2021; the military allowed a handful of ministers appointed by former armed opposition groups to retain their posts; at present, most of the members of the Council are senior civil servants serving in an acting minister capacity appointed either by Prime Minister HAMDOUK prior to his resignation or by the military<br>
+_elections/appointments_: the 2019 Constitutional Declaration originally called for elections to be held in late 2022 at the end of the transitional period; that date was pushed back to late 2023 by the Juba Peace Agreement; the methodology for future elections has not yet been defined; according to the 2019 Constitutional Declaration, civilian members of the Sovereign Council and the Prime Minister were to have been nominated by an umbrella coalition of civilian actors known as the Forces for Freedom and Change; this methodology was followed in selecting HAMDOUK as Prime Minister in August 2019; the military purports to have suspended this provision of the 2019 Constitutional Declaration in October 2021; Prime Minister HAMDOUK&rsquo;s restoration to office in November 2021 was the result of an agreement signed between him and Sovereign Council Chair BURHAN; military members of the Sovereign Council are selected by the leadership of the security forces;&nbsp; representatives of former armed groups to the Sovereign Council are selected by the signatories of the Juba Peace Agreement<br>
+_election results_: NA<br>
 
 **Legislative branch**<br>
-_description_: according to the August 2019 Constitutional Decree, which established Sudan's transitional government, the Transitional Legislative Council (TLC) will serve as the national legislature during the transitional period until elections can be held; as of early December 2021, the TLC had not been established<br>
-_elections_: <p>Council of State - last held 1 June 2015 <br>National Assembly - last held on 13-15 April 2015 <br>note - elections for a new legislature to be held at an undetermined date between July 2023 and January 2024 </p><br>
-_election results_: <br>Council of State - percent of vote by party - NA; seats by party - NA; composition - men 35, women 19, percent of women 35.2%<br>National Assembly - percent of vote by party - NA; seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19; composition - men 296 women 130, percent of women 30.5%; note - total National Legislature percent of women 31%<br>
+_description_: according to the August 2019 Constitutional Declaration, which established Sudan's transitional government, the Transitional Legislative Council (TLC) was to have served as the national legislature during the transitional period until elections could be held; as of March 2022, the TLC had not been established<br>
+_elections_: Council of State - last held 1 June 2015; subsequently dissolved in April 2019<br>National Assembly - last held on 13-15 April 2015; subsequently dissolved in April 2019 <br>note – according to the 2019 Constitutional Declaration, elections for a new legislature are to be held at an undetermined date in late 2023<br>
+_election results_: Council of State - percent of vote by party - NA; seats by party - NA; former composition - men 35, women 19, percent of women 35.2%<br>National Assembly - percent of vote by party - NA; former seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19; former composition - men 296 women 130, percent of women 30.5%; note - former<br>total National Legislature percent of women 31%<br>
 
 **Judicial branch**<br>
-_highest courts_: National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); Constitutional Court (consists of 9 justices including the court president); note - the Constitutional Court resides outside the national judiciary<br>
-_judge selection and term of office_: National Supreme Court and Constitutional Court judges selected by the Supreme Judicial Council, which replaced the National Judicial Service Commission upon enactment of the Draft Constitutional Charter for the 2019 Transitional Period<br>
+_highest courts_: National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); Constitutional Court (consists of 9 justices including the court president); note - the Constitutional Court resides outside the national judiciary and has not been appointed since the signature of the 2019 Constitutional Declaration<br>
+_judge selection and term of office_: National Supreme Court and Constitutional Court judges selected by the Supreme Judicial Council, which replaced the National Judicial Service Commission upon enactment of the 2019 Constitutional Declaration d subordinate courts: Court of Appeal; other national courts; public courts; district, town, and rural courts<br>
 _subordinate courts_: Court of Appeal; other national courts; public courts; district, town, and rural courts<br>
 
 **Political parties and leaders**<br>
@@ -374,14 +374,14 @@ Democratic Unionist Party or DUP [Jalal al-DIGAIR]<br>Democratic Unionist Party 
 ABEDA, ACP, AfDB, AFESD, AMF, AU, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Nureldin Mohamed Hamed SATTI (since 17 September 2020) (2021)<br>
+_chief of mission_: Charge D&rsquo;Affaires Ismat GABANNI (since February 2022)<br>
 _chancery_: 2210 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 338-8565<br>
 _FAX_: [1] (202) 667-2406<br>
 _email address and website_: <br>consular@sudanembassy.org<br><br>https://www.sudanembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Brian SHUKAN (since October 2019)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Lucy TAMLYN &nbsp;(since February &nbsp;2022)<br>
 _embassy_: P.O. Box 699, Kilo 10, Soba, Khartoum<br>
 _mailing address_: 2200 Khartoum Place, Washington DC&nbsp; 20521-2200<br>
 _telephone_: [249] 187-0-22000<br>
@@ -698,8 +698,8 @@ _major seaport(s)_: Port Sudan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Support Forces (RSF); Reserve Department (formerly the paramilitary Popular Defense Forces); Border Guards (Ministry of Defense)<br><br>Ministry of Interior: security police, special forces police, traffic police, and the combat-trained Central Reserve Police (2021)<br>
-note - the RSF is a semi-autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALO (aka Hemeti) as its commander (he is also Deputy Chairman of the Sovereign Council); it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; the RSF has been accused of committing rights abuses against civilians; it is also reportedly involved in business enterprises, such as gold mining; in late 2019, Sovereign Council Chairman and SAF Commander-in-Chief General Abd-al-Fatah al-BURHAN said the RSF would be fully integrated into the SAF, but did not give a timeline<br>
+Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Support Forces (RSF); Reserve Department (formerly the paramilitary Popular Defense Forces); Border Guards (Ministry of Defense)<br><br>Ministry of Interior: security police, special forces police, traffic police, and the combat-trained Central Reserve Police (2022)<br>
+note - the RSF is a semi-autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALO (aka Hemeti) as its commander (he is also a member of the Sovereign Council); it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; as a result, the RSF was better funded and equipped than the regular armed forces; RSF has since recruited from all parts of Sudan beyond its original Darfuri Arab groups but remains under the personal patronage and control of DAGALO; the RSF has been accused of committing rights abuses against civilians; it is also reportedly involved in business enterprises, such as gold mining; in late 2019, Sovereign Council Chairman and SAF Commander-in-Chief General Abd-al-Fatah al-BURHAN said the RSF would be fully integrated into the SAF, but did not give a timeline<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2020 est.)<br>
@@ -707,6 +707,7 @@ note - the RSF is a semi-autonomous paramilitary force formed in 2013 to fight a
 2% of GDP (2018 est.)<br>
 3.6% of GDP (2017 est.)<br>
 2.9% of GDP (2016 est.)<br>
+note - many defense expenditures are probably off-budget<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely, ranging from about 100,000 to more than 200,000 active personnel, including approximately 5,000 combined Navy and Air Force; approximately 30-40,000 paramilitary Rapid Support Forces; approximately 20,000 Reserve Department (formerly the paramilitary Popular Defense Forces) (2021)<br>
@@ -722,7 +723,7 @@ note - implementation of conscription is reportedly uneven<br>
 Sudan joined the Saudi-led coalition that intervened in Yemen in 2015, reportedly providing as many as 40,000 troops during the peak of the war in 2016-17, mostly from the Rapid Support Forces; by 2021, Sudan had reduced the size of the force to about a brigade (approximately 2-3,000 troops) (2021)<br>
 
 **Military - note**<br>
-<p>prior to the October 2021 overthrow of the Sovereignty Council, the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the Sudanese military and security forces have a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA had about 3,800 personnel deployed as of November 2021<br><br>in addition, the United Nations African Union Hybrid Operation in Darfur (UNAMID) operated in the war-torn Darfur region since 2007 until its mission was completed in mid-2021; UNAMID was a joint African Union-UN peacekeeping force with the mission of bringing stability to Darfur, including protecting civilians, facilitating humanitarian assistance, and promoting mediation efforts, while peace talks on a final settlement continued; in July 2021, UNAMID entered a year-long liquidation phase in which it will maintain a guard unit consisting of about 360 police to protect UN personnel, facilities, and assets inside the El Fasher Logistics Base; Sudanese joint security forces will continue to be deployed outside the base and assist the remaining UN contingent with securing its perimeter; note - the October 2020 peace agreement provided for the establishment of a joint security force comprised of 12,000 members tasked with securing the Darfur region in the place of UNAMID; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations (2021)<br>
+<p>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the Sudanese military and security forces have a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA had about 3,800 personnel deployed as of November 2021<br><br>in addition, the United Nations African Union Hybrid Operation in Darfur (UNAMID) operated in the war-torn Darfur region between 2007 and the end of its mandate in July 2021; UNAMID was a joint African Union-UN peacekeeping force with the mission of bringing stability to Darfur, including protecting civilians, facilitating humanitarian assistance, and promoting mediation efforts, while peace talks on a final settlement continued; UNAMID withdrew the last of its personnel in December 2021; note - the October 2020 peace agreement provided for the establishment of a joint security force comprised of 12,000 members tasked with securing the Darfur region in the place of UNAMID; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations (2022)<br>
 
 ## Terrorism
 

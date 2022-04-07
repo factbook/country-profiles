@@ -90,7 +90,7 @@ vast majority of Canadians are positioned in a discontinuous band within approxi
 ## People and Society
 
 **Population**<br>
-37,943,231 (July 2021 est.)<br>
+38,232,593 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Canadian(s)<br>
@@ -126,7 +126,7 @@ _male_: 40.6 years<br>
 _female_: 42.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.77% (2021 est.)<br>
+0.75% (2022 est.)<br>
 
 **Birth rate**<br>
 10.17 births/1,000 population (2022 est.)<br>
@@ -135,7 +135,7 @@ _female_: 42.9 years (2020 est.)<br>
 8.12 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-5.55 migrant(s)/1,000 population (2021 est.)<br>
+5.46 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
@@ -150,11 +150,11 @@ _rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
+_15-24 years_: 1.06 male(s)/female<br>
 _25-54 years_: 1.01 male(s)/female<br>
 _55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.84 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.4 years (2019 est.)<br>
@@ -163,17 +163,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 10 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.44 deaths/1,000 live births<br>
-_male_: 4.73 deaths/1,000 live births<br>
-_female_: 4.14 deaths/1,000 live births (2021 est.)<br>
+_total_: 4.38 deaths/1,000 live births<br>
+_male_: 4.66 deaths/1,000 live births<br>
+_female_: 4.08 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.62 years<br>
-_male_: 81.32 years<br>
-_female_: 86.03 years (2021 est.)<br>
+_total population_: 83.8 years<br>
+_male_: 81.52 years<br>
+_female_: 86.21 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.57 children born/woman (2021 est.)<br>
+1.57 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

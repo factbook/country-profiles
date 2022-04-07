@@ -78,7 +78,7 @@ the peninsula occupies a strategic location in the central Persian Gulf near maj
 ## People and Society
 
 **Population**<br>
-2,479,995 (July 2021 est.)<br>
+2,508,182 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Qatari(s)<br>
@@ -113,7 +113,7 @@ _male_: 35 years<br>
 _female_: 28.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.23% (2021 est.)<br>
+1.04% (2022 est.)<br>
 
 **Birth rate**<br>
 9.33 births/1,000 population (2022 est.)<br>
@@ -122,7 +122,7 @@ _female_: 28.2 years (2020 est.)<br>
 1.42 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-4.3 migrant(s)/1,000 population (2021 est.)<br>
+2.45 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is clustered in or around the capital of Doha on the eastern side of the peninsula<br>
@@ -137,27 +137,27 @@ Ar-Rayyan 779,000, 652,000 DOHA (capital) (2022)<br>
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 2.42 male(s)/female<br>
-_25-54 years_: 5.01 male(s)/female<br>
-_55-64 years_: 3.4 male(s)/female<br>
-_65 years and over_: 1.89 male(s)/female<br>
-_total population_: 3.39 male(s)/female (2020 est.)<br>
+_15-24 years_: 2.26 male(s)/female<br>
+_25-54 years_: 5.45 male(s)/female<br>
+_55-64 years_: 3.42 male(s)/female<br>
+_65 years and over_: 1.13 male(s)/female<br>
+_total population_: 3.36 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 9 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.7 deaths/1,000 live births<br>
-_male_: 7.3 deaths/1,000 live births<br>
-_female_: 6.08 deaths/1,000 live births (2021 est.)<br>
+_total_: 6.62 deaths/1,000 live births<br>
+_male_: 7.25 deaths/1,000 live births<br>
+_female_: 5.96 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.58 years<br>
-_male_: 77.47 years<br>
-_female_: 81.74 years (2021 est.)<br>
+_total population_: 79.81 years<br>
+_male_: 77.7 years<br>
+_female_: 81.96 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.9 children born/woman (2021 est.)<br>
+1.9 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 37.5% (2012)<br>
@@ -666,7 +666,7 @@ Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, in
 4.1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 14,000 active personnel (10,000 Land Force, including Emiri Guard; 2,000 Navy; 2,000 Air Force) (2021)<br>
+information varies; approximately 15,000 active personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on an extensive military expansion and modernization program with large air, ground, and naval equipment purchases; since 2010, France and the US are the top suppliers (2021)<br>

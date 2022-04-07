@@ -78,7 +78,7 @@ strategic location near world's busiest shipping lanes and close to Arabian oilf
 ## People and Society
 
 **Population**<br>
-938,413 (July 2021 est.)<br>
+957,273 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Djiboutian(s)<br>
@@ -115,7 +115,7 @@ _male_: 23 years<br>
 _female_: 26.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.01% (2021 est.)<br>
+1.97% (2022 est.)<br>
 
 **Birth rate**<br>
 22.25 births/1,000 population (2022 est.)<br>
@@ -124,7 +124,7 @@ _female_: 26.4 years (2020 est.)<br>
 7.12 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-4.81 migrant(s)/1,000 population (2021 est.)<br>
+4.59 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most densely populated areas are in the east; the largest city is Djibouti, with a population over 600,000; no other city in the country has a total population over 50,000 as shown in this population distribution map<br>
@@ -139,27 +139,27 @@ _rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 0.89 male(s)/female<br>
-_25-54 years_: 0.71 male(s)/female<br>
-_55-64 years_: 0.76 male(s)/female<br>
-_65 years and over_: 0.8 male(s)/female<br>
-_total population_: 0.83 male(s)/female (2020 est.)<br>
+_15-24 years_: 0.9 male(s)/female<br>
+_25-54 years_: 0.7 male(s)/female<br>
+_55-64 years_: 0.72 male(s)/female<br>
+_65 years and over_: 0.65 male(s)/female<br>
+_total population_: 0.83 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 248 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 47.78 deaths/1,000 live births<br>
-_male_: 55.17 deaths/1,000 live births<br>
-_female_: 40.16 deaths/1,000 live births (2021 est.)<br>
+_total_: 46.89 deaths/1,000 live births<br>
+_male_: 54.14 deaths/1,000 live births<br>
+_female_: 39.43 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65 years<br>
-_male_: 62.4 years<br>
-_female_: 67.67 years (2021 est.)<br>
+_total population_: 65.3 years<br>
+_male_: 62.72 years<br>
+_female_: 67.96 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.17 children born/woman (2021 est.)<br>
+2.15 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 19% (2012)<br>
@@ -202,6 +202,7 @@ _unimproved: total_: total: 26.2% of population (2020 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Djibouti is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 13.5% (2016)<br>
@@ -261,6 +262,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Djibouti is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to floods - about 194,000 people were estimated to be severely food insecure in the January‑August 2021 period, mainly due to livelihood losses caused by floods and landslides, and as a result of the socio‑economic impact of the pandemic on the livelihoods of vulnerable households; Cyclone Sagar struck the country on 19 and 20 May 2021, bringing torrential rains; the precipitation received, about 110 mm, was the equivalent of the average rainfall for an entire year and triggered heavy flooding, especially in the capital, Djibouti City and surrounding areas (2021)<br>

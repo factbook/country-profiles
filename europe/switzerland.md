@@ -82,7 +82,7 @@ landlocked; crossroads of northern and southern Europe; along with southeastern 
 ## People and Society
 
 **Population**<br>
-8,453,550 (July 2021 est.)<br>
+8,508,698 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Swiss (singular and plural)<br>
@@ -118,7 +118,7 @@ _male_: 41.7 years<br>
 _female_: 43.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.65% (2021 est.)<br>
+0.65% (2022 est.)<br>
 
 **Birth rate**<br>
 10.36 births/1,000 population (2022 est.)<br>
@@ -127,7 +127,7 @@ _female_: 43.7 years (2020 est.)<br>
 8.4 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-4.55 migrant(s)/1,000 population (2021 est.)<br>
+4.52 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement<br>
@@ -145,8 +145,8 @@ _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.05 male(s)/female<br>
 _25-54 years_: 1 male(s)/female<br>
 _55-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.8 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.64 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.7 years (2019 est.)<br>
@@ -155,17 +155,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.64 deaths/1,000 live births<br>
-_male_: 4.15 deaths/1,000 live births<br>
-_female_: 3.1 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.58 deaths/1,000 live births<br>
+_male_: 4.08 deaths/1,000 live births<br>
+_female_: 3.04 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.03 years<br>
-_male_: 80.71 years<br>
-_female_: 85.49 years (2021 est.)<br>
+_total population_: 83.23 years<br>
+_male_: 80.91 years<br>
+_female_: 85.67 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.58 children born/woman (2021 est.)<br>
+1.58 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 71.6% (2017)<br>

@@ -73,7 +73,7 @@ the 41-km long Nerodimka River divides into two branches each of which flows int
 ## People and Society
 
 **Population**<br>
-1,935,259 (July 2021 est.)<br>
+1,952,701 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Kosovan<br>
@@ -110,7 +110,7 @@ _male_: 30.2 years<br>
 _female_: 30.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.67% (2021 est.)<br>
+0.57% (2022 est.)<br>
 
 **Birth rate**<br>
 14.85 births/1,000 population (2022 est.)<br>
@@ -119,7 +119,7 @@ _female_: 30.8 years (2020 est.)<br>
 8.12 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.44 migrant(s)/1,000 population (2021 est.)<br>
+-1.07 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population clusters exist throughout the country, the largest being in the east in and around the capital of Pristina<br>
@@ -130,24 +130,24 @@ population clusters exist throughout the country, the largest being in the east 
 **Sex ratio**<br>
 _at birth_: 1.08 male(s)/female<br>
 _0-14 years_: 1.08 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 1.12 male(s)/female<br>
+_15-24 years_: 1.08 male(s)/female<br>
+_25-54 years_: 1.11 male(s)/female<br>
 _55-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 0.74 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.6 male(s)/female<br>
+_total population_: 1.06 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 35.93 deaths/1,000 live births<br>
-_male_: 37.99 deaths/1,000 live births<br>
-_female_: 33.7 deaths/1,000 live births (2021 est.)<br>
+_total_: 27.12 deaths/1,000 live births<br>
+_male_: 28.74 deaths/1,000 live births<br>
+_female_: 25.38 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.99 years<br>
-_male_: 70.8 years<br>
-_female_: 75.35 years (2021 est.)<br>
+_total population_: 71.12 years<br>
+_male_: 68.83 years<br>
+_female_: 73.58 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.92 children born/woman (2021 est.)<br>
+1.9 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

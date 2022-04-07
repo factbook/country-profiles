@@ -79,7 +79,7 @@ population concentrated in the highlands and eastern coastal areas on the island
 ## People and Society
 
 **Population**<br>
-7,399,757 (July 2021 est.)<br>
+9,593,498 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Papua New Guinean(s)<br>
@@ -115,7 +115,7 @@ _male_: 24 years<br>
 _female_: 24 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.61% (2021 est.)<br>
+2.35% (2022 est.)<br>
 
 **Birth rate**<br>
 29.03 births/1,000 population (2022 est.)<br>
@@ -124,7 +124,7 @@ _female_: 24 years (2020 est.)<br>
 5.54 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one-fifth of the population residing in urban areas<br>
@@ -139,11 +139,11 @@ _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1.07 male(s)/female<br>
-_65 years and over_: 0.96 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.04 male(s)/female<br>
+_25-54 years_: 1.02 male(s)/female<br>
+_55-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 1 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 <strong>note:</strong> median age a first birth among women 25-49<br>
@@ -152,17 +152,17 @@ _total population_: 1.04 male(s)/female (2020 est.)<br>
 145 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 40.33 deaths/1,000 live births<br>
-_male_: 45.32 deaths/1,000 live births<br>
-_female_: 35.09 deaths/1,000 live births (2021 est.)<br>
+_total_: 33.59 deaths/1,000 live births<br>
+_male_: 36.91 deaths/1,000 live births<br>
+_female_: 30.12 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.86 years<br>
-_male_: 67.37 years<br>
-_female_: 72.48 years (2021 est.)<br>
+_total population_: 69.43 years<br>
+_male_: 67.76 years<br>
+_female_: 71.19 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.79 children born/woman (2021 est.)<br>
+3.92 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 36.7% (2016/18)<br>

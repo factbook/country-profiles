@@ -94,7 +94,7 @@ largest West European nation; most major French rivers - the Meuse, Seine, Loire
 ## People and Society
 
 **Population**<br>
-68,084,217 (July 2021 est.)<br>
+68,305,148 (2022 est.)<br>
 <strong>note:</strong> the above figure is for metropolitan France and five overseas regions; the metropolitan France population is 62,814,233<br>
 
 **Nationality**<br>
@@ -132,7 +132,7 @@ _male_: 40 years<br>
 _female_: 43.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.33% (2021 est.)<br>
+0.32% (2022 est.)<br>
 
 **Birth rate**<br>
 11.66 births/1,000 population (2022 est.)<br>
@@ -141,7 +141,7 @@ _female_: 43.4 years (2020 est.)<br>
 9.54 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-1.06 migrant(s)/1,000 population (2021 est.)<br>
+1.06 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 much of the population is concentrated in the north and southeast; although there are many urban agglomerations throughout the country, Paris is by far the largest city, with Lyon ranked a distant second<br>
@@ -158,9 +158,9 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.05 male(s)/female<br>
 _25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.64 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.8 years (2019 est.)<br>
@@ -169,17 +169,17 @@ _total population_: 0.96 male(s)/female (2020 est.)<br>
 8 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.19 deaths/1,000 live births<br>
-_male_: 3.57 deaths/1,000 live births<br>
-_female_: 2.79 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.15 deaths/1,000 live births<br>
+_male_: 3.53 deaths/1,000 live births<br>
+_female_: 2.74 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.39 years<br>
-_male_: 79.31 years<br>
-_female_: 85.61 years (2021 est.)<br>
+_total population_: 82.59 years<br>
+_male_: 79.53 years<br>
+_female_: 85.79 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.04 children born/woman (2021 est.)<br>
+2.03 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 78.4% (2010/11)<br>
@@ -219,7 +219,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 <500 (2019 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 6 October 2021, France has reported a total of 6,816,783 cases of COVID-19 or 10,481.01 cumulative cases of COVID-19 per 100,000 population with 176.58 cumulative deaths per 100,000 population; as of 4 October 2021, 66.20% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 30 March 2022, France has reported a total of 24,527,949 cases of COVID-19 or 37,712.47 cumulative cases of COVID-19 per 100,000 population with a total of 138,802 cumulative deaths or a rate 213.41 cumulative deaths per 100,000 population; as of 29 March 2022, 80.09% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 21.6% (2016)<br>
@@ -275,7 +275,7 @@ _forest revenues_: 0.03% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 6 October 2021, France has reported a total of 6,816,783 cases of COVID-19 or 10,481.01 cumulative cases of COVID-19 per 100,000 population with 176.58 cumulative deaths per 100,000 population; as of 4 October 2021, 66.20% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 30 March 2022, France has reported a total of 24,527,949 cases of COVID-19 or 37,712.47 cumulative cases of COVID-19 per 100,000 population with a total of 138,802 cumulative deaths or a rate 213.41 cumulative deaths per 100,000 population; as of 29 March 2022, 80.09% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 33.399 million tons (2015 est.)<br>

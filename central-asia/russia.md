@@ -89,7 +89,7 @@ population is heavily concentrated in the westernmost fifth of the country exten
 ## People and Society
 
 **Population**<br>
-142,320,790 (July 2021 est.)<br>
+142,021,981 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Russian(s)<br>
@@ -126,7 +126,7 @@ _male_: 37.5 years<br>
 _female_: 43.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.2% (2021 est.)<br>
+-0.22% (2022 est.)<br>
 
 **Birth rate**<br>
 9.45 births/1,000 population (2022 est.)<br>
@@ -135,7 +135,7 @@ _female_: 43.2 years (2020 est.)<br>
 13.36 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-1.7 migrant(s)/1,000 population (2021 est.)<br>
+1.7 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population is heavily concentrated in the westernmost fifth of the country extending from the Baltic Sea, south to the Caspian Sea, and eastward parallel to the Kazakh border; elsewhere, sizeable pockets are isolated and generally found in the south<br>
@@ -152,9 +152,9 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.05 male(s)/female<br>
 _25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.77 male(s)/female<br>
-_65 years and over_: 0.47 male(s)/female<br>
-_total population_: 0.86 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.78 male(s)/female<br>
+_65 years and over_: 0.36 male(s)/female<br>
+_total population_: 0.86 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.2 years (2013 est.)<br>
@@ -163,17 +163,17 @@ _total population_: 0.86 male(s)/female (2020 est.)<br>
 17 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.51 deaths/1,000 live births<br>
-_male_: 7.38 deaths/1,000 live births<br>
-_female_: 5.58 deaths/1,000 live births (2021 est.)<br>
+_total_: 6.42 deaths/1,000 live births<br>
+_male_: 7.28 deaths/1,000 live births<br>
+_female_: 5.49 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.16 years<br>
-_male_: 66.61 years<br>
-_female_: 78.05 years (2021 est.)<br>
+_total population_: 72.44 years<br>
+_male_: 66.92 years<br>
+_female_: 78.3 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.6 children born/woman (2021 est.)<br>
+1.6 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 68% (2011)<br>
@@ -217,7 +217,7 @@ NA<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, tickborne encephalitis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 6 October 2021, Russia has reported a total of 7,662,560 cases of COVID-19 or 5,250.69 cumulative cases of COVID-19 per 100,000 population with 145.7 cumulative deaths per 100,000 population; as of 5 October 2021, 33.4% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 30 March 2022, Russia has reported a total of 17,823,648 cases of COVID-19 or 12,213.46 cumulative cases of COVID-19 per 100,000 population with a total of 368,377 cumulative deaths or a rate of 252.42 cumulative deaths per 100,000 population; as of 29 March 2022, 54.8% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
@@ -283,7 +283,7 @@ _coal revenues_: 0.53% of GDP (2018 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, tickborne encephalitis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 6 October 2021, Russia has reported a total of 7,662,560 cases of COVID-19 or 5,250.69 cumulative cases of COVID-19 per 100,000 population with 145.7 cumulative deaths per 100,000 population; as of 5 October 2021, 33.4% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 30 March 2022, Russia has reported a total of 17,823,648 cases of COVID-19 or 12,213.46 cumulative cases of COVID-19 per 100,000 population with a total of 368,377 cumulative deaths or a rate of 252.42 cumulative deaths per 100,000 population; as of 29 March 2022, 54.8% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 60 million tons (2012 est.)<br>
@@ -749,7 +749,7 @@ the Russian Federation's military and paramilitary services are equipped with do
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory (men only) or voluntary (men and women) military service; males are registered for the draft at 17 years of age; one-year service obligation (Russia offers the option of serving on a two-year contract instead of completing a one-year conscription period); reserve obligation for non-officers to age 50; enrollment in military schools from the age of 16, cadets classified as members of the armed forces (2021)<br>
-note(s) - as of 2021, conscripts reportedly comprised about 30% of the Russian military's active duty personnel; in April of 2019, the Russian Government pledged its intent to end conscription as part of a decade-long effort to shift from a large, conscript-based military to a smaller, more professional force; as of 2020, women made up about 5% of the active duty military<br>
+note(s) - in the spring of 2022, Russia drafted 134,500 conscripts into the military; as of 2021, conscripts reportedly comprised about 30% of the Russian military's active duty personnel; in April of 2019, the Russian Government pledged its intent to end conscription as part of a decade-long effort to shift from a large, conscript-based military to a smaller, more professional force; an existing law allows for a 21-month alternative civil service in hospitals, nursing homes and other facilities for those who view military duty as incompatible with their beliefs, but military conscription offices reportedly often broadly ignore requests for such service; as of 2020, women made up about 5% of the active duty military<br>
 
 **Military deployments**<br>
 information varies; est. 3,000-5,000 Armenia; est. 1,500 Belarus; est. 7,000-10,000 Georgia; est. 100 Central African Republic; est. 500 Kyrgyzstan; est. 1,500-2,000 Moldova (Transnistria); est. 3,000-5,000 Syria; est. 5,000-7,000 Tajikistan (2021)<br>

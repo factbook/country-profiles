@@ -63,7 +63,7 @@ most populous areas are Lower Prince's Quarter (north of Philipsburg), followed 
 ## People and Society
 
 **Population**<br>
-44,564 (July 2021 est.)<br>
+45,126 (2022 est.)<br>
 
 **Ethnic groups**<br>
 Saint Maarten 29.9%, Dominican Republic 10.2%, Haiti 7.8%, Jamaica 6.6%, Saint Martin 5.9%, Guyana 5%, Dominica 4.4%, Curacao 4.1%, Aruba 3.4%, Saint Kitts and Nevis 2.8%, India 2.6%, Netherlands 2.2%, US 1.6%, Suriname 1.4%, Saint Lucia 1.3%, Anguilla 1.1%, other 8%, unspecified 1.7% (2011 est.)<br>
@@ -94,7 +94,7 @@ _male_: 39.6 years<br>
 _female_: 42.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.28% (2021 est.)<br>
+1.23% (2022 est.)<br>
 
 **Birth rate**<br>
 12.56 births/1,000 population (2022 est.)<br>
@@ -103,7 +103,7 @@ _female_: 42.7 years (2020 est.)<br>
 6.07 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-5.9 migrant(s)/1,000 population (2021 est.)<br>
+5.83 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most populous areas are Lower Prince's Quarter (north of Philipsburg), followed closely by Cul de Sac<br>
@@ -117,25 +117,25 @@ _rate of urbanization_: 1.16% annual rate of change (2020-25 est. est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.08 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.07 male(s)/female<br>
+_15-24 years_: 1.08 male(s)/female<br>
+_25-54 years_: 0.98 male(s)/female<br>
+_55-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.16 deaths/1,000 live births<br>
-_male_: 9 deaths/1,000 live births<br>
-_female_: 7.28 deaths/1,000 live births (2021 est.)<br>
+_total_: 7.98 deaths/1,000 live births<br>
+_male_: 8.8 deaths/1,000 live births<br>
+_female_: 7.12 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.03 years<br>
-_male_: 76.67 years<br>
-_female_: 81.51 years (2021 est.)<br>
+_total population_: 79.26 years<br>
+_male_: 76.91 years<br>
+_female_: 81.73 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2 children born/woman (2021 est.)<br>
+1.99 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

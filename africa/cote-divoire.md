@@ -81,7 +81,7 @@ most of the inhabitants live along the sandy coastal region; apart from the capi
 ## People and Society
 
 **Population**<br>
-28,088,455 (July 2021 est.)<br>
+10,705,384 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -121,7 +121,7 @@ _male_: 20.3 years<br>
 _female_: 20.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.21% (2021 est.)<br>
+2.19% (2022 est.)<br>
 
 **Birth rate**<br>
 28.3 births/1,000 population (2022 est.)<br>
@@ -130,7 +130,7 @@ _female_: 20.3 years (2020 est.)<br>
 7.6 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-1.21 migrant(s)/1,000 population (2021 est.)<br>
+1.18 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated with higher concentrations located along transportation corridors as shown in this population distribution map<br>
@@ -144,12 +144,12 @@ _rate of urbanization_: 3.38% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 1.04 male(s)/female<br>
-_65 years and over_: 0.81 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-24 years_: 1.07 male(s)/female<br>
+_25-54 years_: 1.06 male(s)/female<br>
+_55-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.58 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2011/12 est.)<br>
@@ -159,17 +159,17 @@ _total population_: 1.01 male(s)/female (2020 est.)<br>
 617 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 57.36 deaths/1,000 live births<br>
-_male_: 64.83 deaths/1,000 live births<br>
-_female_: 49.66 deaths/1,000 live births (2021 est.)<br>
+_total_: 55.67 deaths/1,000 live births<br>
+_male_: 62.99 deaths/1,000 live births<br>
+_female_: 48.13 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 61.8 years<br>
-_male_: 59.62 years<br>
-_female_: 64.05 years (2021 est.)<br>
+_total population_: 62.26 years<br>
+_male_: 60.07 years<br>
+_female_: 64.52 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.6 children born/woman (2021 est.)<br>
+3.53 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 23.3% (2018)<br>
@@ -356,9 +356,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats - 254 for 2021-2026 term; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: <br>Senate - first ever held on 25 March 2018 (next to be held on 31 March 2023)<br>National Assembly - last held on 6 March 2021 (next to be held on 31 March 2026)<br>
-_election results_: <strong><br></strong>Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2%<br>National Assembly - percent of vote by party - RHDP 49.18%, PDCI-RRA-EDS 16.53%, DPIC 6.01%, TTB 2.017%  IPF 1.96%  seats by party - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, TTB 8, IPF 2; composition - men 217, women 32, percent of women 13%; note - total Parliament percent of women 32%<br>
+_election results_: <strong><br></strong>Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2%<br>National Assembly - percent of vote by party - RHDP 49.2%, PDCI-RRA-EDS 16.5%, DPIC 6%, TTB 2.1%  IPF 2%  seats by party - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, EDS 8, TTB 8, IPF 2, independent 26; composition - men 218, women 36, percent of women 14.2%; note - total Parliament percent of women 15.6%<br>
 <br><br><br>
 
 **Judicial branch**<br>
@@ -367,7 +367,7 @@ _judge selection and term of office_: judges nominated by the Superior Council o
 _subordinate courts_: Courts of Appeal (organized into civil, criminal, and social chambers); first instance courts; peace courts<br>
 
 **Political parties and leaders**<br>
-African Peoples' Party-Cote d'Ivoire or PPA-CI[Laurent GBAGBO]<br>Pan-African Congress for People's Justice and Equalityor COJEP [Charles BLE GOUDE]<br>Democratic Party of Cote d'Ivoire or PDCI [Henri Konan BEDIE]<br>Ivorian Popular Front or FPI [former pres. [Pascal Affi N'GUESSAN]<br>Liberty and Democracy for the Republic or LIDER [Mamadou KOULIBALY]<br>Movement of the Future Forces or MFA [Innocent Augustin ANAKY KOBENA]<br>Rally of Houphouetists for Democracy and Peace or RHDP [Alassane OUATTARA] <br>Rally of the Republicans or RDR [Henriette DIABATE]<br>Union for Cote d'Ivoire or UPCI [Gnamien KONAN]<br>Union for Democracy and Peace in Cote d'Ivoire or UDPCI [Albert Toikeusse MABRI]<br>
+African Peoples' Party-Cote d'Ivoire or PPA-CI[Laurent GBAGBO]<br>Pan-African Congress for People's Justice and Equalityor COJEP [Charles BLE GOUDE]<br>Democratic Party of Cote d'Ivoire or PDCI [Henri Konan BEDIE]<br>Ivorian Popular Front or FPI [former pres. [Pascal Affi N'GUESSAN]<br>Liberty and Democracy for the Republic or LIDER [Mamadou KOULIBALY]<br>Movement of the Future Forces or MFA [Innocent Augustin ANAKY KOBENA]<br>Rally of Houphouetists for Democracy and Peace or RHDP [Alassane OUATTARA] <br>Rally of the Republicans or RDR [Henriette DIABATE]<br>Together for Democrary and Sovereignty [Georges Armand OUEGNIN]<br>Together to Build (UDPCI, FPI,and allies) [Toikeuse MABRI]<br>Together to Build (UDPCI, FPI,and allies) [Toikeuse MABRI]<br>Union for Cote d'Ivoire or UPCI [Gnamien KONAN]<br>Union for Democracy and Peace in Cote d'Ivoire or UDPCI [Albert Toikeusse MABRI]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UN Security Council (temporary), UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

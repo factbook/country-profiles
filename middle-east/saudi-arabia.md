@@ -81,7 +81,7 @@ Saudi Arabia is the largest country in the world without a river; extensive coas
 ## People and Society
 
 **Population**<br>
-34,783,757 (July 2021 est.)<br>
+35,354,380 (2022 est.)<br>
 <strong>note:</strong> immigrants make up 38.3% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -118,7 +118,7 @@ _male_: 33 years<br>
 _female_: 27.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.62% (2021 est.)<br>
+1.63% (2022 est.)<br>
 
 **Birth rate**<br>
 14.22 births/1,000 population (2022 est.)<br>
@@ -127,7 +127,7 @@ _female_: 27.9 years (2020 est.)<br>
 3.42 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-5.04 migrant(s)/1,000 population (2021 est.)<br>
+5.52 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 historically a population that was mostly nomadic or semi-nomadic, the Saudi population has become more settled since petroleum was discovered in the 1930s; most of the economic activities - and with it the country's population - is concentrated in a wide area across the middle of the peninsula, from Ad Dammam in the east, through Riyadh in the interior, to Mecca-Medina in the west near the Red Sea<br>
@@ -142,27 +142,27 @@ _rate of urbanization_: 1.69% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 1.52 male(s)/female<br>
-_55-64 years_: 1.61 male(s)/female<br>
-_65 years and over_: 1.12 male(s)/female<br>
-_total population_: 1.3 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.08 male(s)/female<br>
+_25-54 years_: 1.54 male(s)/female<br>
+_55-64 years_: 1.62 male(s)/female<br>
+_65 years and over_: 0.94 male(s)/female<br>
+_total population_: 1.3 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 17 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.58 deaths/1,000 live births<br>
-_male_: 13.86 deaths/1,000 live births<br>
-_female_: 11.24 deaths/1,000 live births (2021 est.)<br>
+_total_: 12.27 deaths/1,000 live births<br>
+_male_: 13.51 deaths/1,000 live births<br>
+_female_: 10.97 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.4 years<br>
-_male_: 74.81 years<br>
-_female_: 78.07 years (2021 est.)<br>
+_total population_: 76.65 years<br>
+_male_: 75.07 years<br>
+_female_: 78.32 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.95 children born/woman (2021 est.)<br>
+1.92 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 24.6% (2016)<br>

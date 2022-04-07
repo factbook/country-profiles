@@ -72,7 +72,7 @@ focal point for Southeast Asian sea routes; consists of about 60 islands, by far
 ## People and Society
 
 **Population**<br>
-5,866,139 (July 2021 est.)<br>
+5,921,231 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Singaporean(s)<br>
@@ -111,7 +111,7 @@ _male_: 35.4 years<br>
 _female_: 35.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.95% (2021 est.)<br>
+0.92% (2022 est.)<br>
 
 **Birth rate**<br>
 9.05 births/1,000 population (2022 est.)<br>
@@ -120,7 +120,7 @@ _female_: 35.7 years (2020 est.)<br>
 4.04 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-4.26 migrant(s)/1,000 population (2021 est.)<br>
+4.22 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the urbanization is along the southern coast, with relatively dense population clusters found in the central areas<br>
@@ -133,13 +133,13 @@ _rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
 3.040 million SINGAPORE (capital) (2022)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.07 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 0.96 male(s)/female<br>
-_25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_at birth_: 1.05 male(s)/female<br>
+_0-14 years_: 1.07 male(s)/female<br>
+_15-24 years_: 1.11 male(s)/female<br>
+_25-54 years_: 1 male(s)/female<br>
+_55-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.5 years (2015 est.)<br>
@@ -149,17 +149,17 @@ median age<br>
 8 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 1.56 deaths/1,000 live births<br>
-_male_: 1.72 deaths/1,000 live births<br>
-_female_: 1.4 deaths/1,000 live births (2021 est.)<br>
+_total_: 1.55 deaths/1,000 live births<br>
+_male_: 1.71 deaths/1,000 live births<br>
+_female_: 1.38 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 86.19 years<br>
-_male_: 83.48 years<br>
-_female_: 89.05 years (2021 est.)<br>
+_total population_: 86.35 years<br>
+_male_: 83.65 years<br>
+_female_: 89.2 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.15 children born/woman (2021 est.)<br>
+1.16 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

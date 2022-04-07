@@ -75,7 +75,7 @@ smallest Asian country; archipelago of 1,190 coral islands grouped into 26 atoll
 ## People and Society
 
 **Population**<br>
-390,669 (July 2021 est.)<br>
+390,164 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Maldivian(s)<br>
@@ -109,7 +109,7 @@ _male_: 29.2 years<br>
 _female_: 30 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.12% (2021 est.)<br>
+-0.14% (2022 est.)<br>
 
 **Birth rate**<br>
 15.54 births/1,000 population (2022 est.)<br>
@@ -118,7 +118,7 @@ _female_: 30 years (2020 est.)<br>
 4.15 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--12.76 migrant(s)/1,000 population (2021 est.)<br>
+-12.78 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 about a third of the population lives in the centrally located capital city of Male and almost a tenth in southern Addu City; the remainder of the populace is spread over the 200 or so populated islands of the archipelago<br>
@@ -133,11 +133,11 @@ _rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.27 male(s)/female<br>
-_25-54 years_: 1.19 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.81 male(s)/female<br>
-_total population_: 1.13 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.2 male(s)/female<br>
+_25-54 years_: 1.11 male(s)/female<br>
+_55-64 years_: 0.89 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 1.08 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.5 years (2009 est.)<br>
@@ -147,17 +147,17 @@ _total population_: 1.13 male(s)/female (2020 est.)<br>
 53 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 26.4 deaths/1,000 live births<br>
-_male_: 29.53 deaths/1,000 live births<br>
-_female_: 23.1 deaths/1,000 live births (2021 est.)<br>
+_total_: 25.7 deaths/1,000 live births<br>
+_male_: 28.76 deaths/1,000 live births<br>
+_female_: 22.49 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.69 years<br>
-_male_: 74.31 years<br>
-_female_: 79.18 years (2021 est.)<br>
+_total population_: 76.94 years<br>
+_male_: 74.57 years<br>
+_female_: 79.42 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.71 children born/woman (2021 est.)<br>
+1.71 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 18.8% (2016/17)<br>

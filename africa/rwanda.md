@@ -82,7 +82,7 @@ landlocked; most of the country is intensively cultivated and rugged with the po
 ## People and Society
 
 **Population**<br>
-12,943,132 (July 2021 est.)<br>
+13,173,730 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -121,7 +121,7 @@ _male_: 18.9 years<br>
 _female_: 20.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.8% (2021 est.)<br>
+1.74% (2022 est.)<br>
 
 **Birth rate**<br>
 26.44 births/1,000 population (2022 est.)<br>
@@ -130,7 +130,7 @@ _female_: 20.4 years (2020 est.)<br>
 5.86 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--3.27 migrant(s)/1,000 population (2021 est.)<br>
+-3.21 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west as shown in this population distribution map<br>
@@ -146,10 +146,10 @@ _rate of urbanization_: 3.07% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.91 male(s)/female<br>
-_55-64 years_: 0.81 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.9 male(s)/female<br>
+_55-64 years_: 0.82 male(s)/female<br>
+_65 years and over_: 0.54 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.7 years (2014/15 est.)<br>
@@ -159,17 +159,17 @@ _total population_: 0.96 male(s)/female (2020 est.)<br>
 248 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 27.16 deaths/1,000 live births<br>
-_male_: 29.73 deaths/1,000 live births<br>
-_female_: 24.52 deaths/1,000 live births (2021 est.)<br>
+_total_: 26.39 deaths/1,000 live births<br>
+_male_: 28.9 deaths/1,000 live births<br>
+_female_: 23.81 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.48 years<br>
-_male_: 63.55 years<br>
-_female_: 67.47 years (2021 est.)<br>
+_total population_: 65.85 years<br>
+_male_: 63.89 years<br>
+_female_: 67.86 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.42 children born/woman (2021 est.)<br>
+3.33 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 53.2% (2014/15)<br>

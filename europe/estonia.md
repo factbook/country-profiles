@@ -75,7 +75,7 @@ the mainland terrain is flat, boggy, and partly wooded; offshore lie more than 1
 ## People and Society
 
 **Population**<br>
-1,220,042 (July 2021 est.)<br>
+1,211,524 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Estonian(s)<br>
@@ -109,7 +109,7 @@ _male_: 40.4 years<br>
 _female_: 47 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.69% (2021 est.)<br>
+-0.71% (2022 est.)<br>
 
 **Birth rate**<br>
 8.75 births/1,000 population (2022 est.)<br>
@@ -118,7 +118,7 @@ _female_: 47 years (2020 est.)<br>
 13.1 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--2.85 migrant(s)/1,000 population (2021 est.)<br>
+-2.79 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -134,10 +134,10 @@ _rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 0.84 male(s)/female<br>
-_65 years and over_: 0.53 male(s)/female<br>
-_total population_: 0.88 male(s)/female (2020 est.)<br>
+_25-54 years_: 1.05 male(s)/female<br>
+_55-64 years_: 0.85 male(s)/female<br>
+_65 years and over_: 0.42 male(s)/female<br>
+_total population_: 0.89 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.2 years (2019 est.)<br>
@@ -146,17 +146,17 @@ _total population_: 0.88 male(s)/female (2020 est.)<br>
 9 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.47 deaths/1,000 live births<br>
-_male_: 3.32 deaths/1,000 live births<br>
-_female_: 3.62 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.42 deaths/1,000 live births<br>
+_male_: 3.29 deaths/1,000 live births<br>
+_female_: 3.56 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.63 years<br>
-_male_: 72.98 years<br>
-_female_: 82.51 years (2021 est.)<br>
+_total population_: 77.88 years<br>
+_male_: 73.25 years<br>
+_female_: 82.73 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.61 children born/woman (2021 est.)<br>
+1.61 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -619,8 +619,8 @@ the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV cha
 .ee<br>
 
 **Internet users**<br>
-_total_: 1.21 million (2021 est.)<br>
-_percent of population_: 89.06% (2020 est.)<br>
+_total_: 1.22 million (2022 est.)<br>
+_percent of population_: 92% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 415,610 (2020)<br>

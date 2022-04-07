@@ -94,7 +94,7 @@ large urban clusters are spread throughout the eastern half of the US (particula
 ## People and Society
 
 **Population**<br>
-334,998,398 (July 2021 est.)<br>
+337,341,954 (2022 est.)<br>
 <strong>note: </strong>the US Census Bureau's 2020 census results show the US population as 331,449,281 as of 1 April 2020<br>
 
 **Nationality**<br>
@@ -131,7 +131,7 @@ _male_: 37.2 years<br>
 _female_: 39.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.7% (2021 est.)<br>
+0.69% (2022 est.)<br>
 
 **Birth rate**<br>
 12.28 births/1,000 population (2022 est.)<br>
@@ -140,7 +140,7 @@ _female_: 39.8 years (2020 est.)<br>
 8.38 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-3.03 migrant(s)/1,000 population (2021 est.)<br>
+3.02 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska's population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii's is centered on the island of Oahu<br>
@@ -158,8 +158,8 @@ _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 1.01 male(s)/female<br>
 _55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.81 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27 years (2019 est.)<br>
@@ -168,17 +168,17 @@ _total population_: 0.97 male(s)/female (2020 est.)<br>
 19 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 5.22 deaths/1,000 live births<br>
-_male_: 5.61 deaths/1,000 live births<br>
-_female_: 4.81 deaths/1,000 live births (2021 est.)<br>
+_total_: 5.17 deaths/1,000 live births<br>
+_male_: 5.55 deaths/1,000 live births<br>
+_female_: 4.77 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.43 years<br>
-_male_: 78.18 years<br>
-_female_: 82.65 years (2021 est.)<br>
+_total population_: 80.59 years<br>
+_male_: 78.36 years<br>
+_female_: 82.79 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.84 children born/woman (2021 est.)<br>
+1.84 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73.9% (2017/19)<br>
@@ -369,7 +369,7 @@ _subordinate courts_: Courts of Appeal (includes the US Court of Appeal for the 
 <strong>note:</strong> the US court system consists of the federal court system and the state court systems; although each court system is responsible for hearing certain types of cases, neither is completely independent of the other, and the systems often interact<br>
 
 **Political parties and leaders**<br>
-Democratic Party [Tom PEREZ]<br>Green Party [collective leadership]<br>Libertarian Party [Nicholas SARWARK]<br>Republican Party [Ronna Romney MCDANIEL]<br>
+Democratic Party [Jaime HARRISON]<br>Green Party [collective leadership]<br>Libertarian Party [Nicholas SARWARK]<br>Republican Party [Ronna Romney MCDANIEL]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), ANZUS, APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE (observer), CERN (observer), CICA (observer), CP, EAPC, EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SAARC (observer), SELEC (observer), SICA (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNITAR, UNMIL, UNMISS, UNRWA, UN Security Council (permanent), UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -732,7 +732,7 @@ the US military's inventory is comprised almost entirely of domestically-produce
 note - in 2019, women comprised about 18% of the total US military<br>
 
 **Military deployments**<br>
-5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,700 Australia; 1,150 Belgium; 150 Bulgaria; 250 Diego Garcia; 150 Canada; 650 Cuba (Guatanamo Bay); 290 Egypt (MFO); 35,000 Germany; 400 Greece; 150 Greenland; 6,200 Guam; 370 Honduras; 12,000 Italy; 56,000 Japan; 630 Kosovo (NATO/KFOR); approximately 15,000 assigned with several thousand more deployed on a rotational basis in the Middle East (includes Bahrain, Iraq, Israel, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, Syria, United Arab Emirates); 400 Netherlands; 700 Norway; 125 Philippines; 4,500 Poland; 250 Portugal; 26,500 Republic of Korea; 1,100 Romania; 200 Singapore; 3,200 Spain; 100 Thailand; 1,700 Turkey; 9,500 United Kingdom (2021)<br>
+5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,700 Australia; 250 Diego Garcia; 150 Canada; 650 Cuba (Guatanamo Bay); 290 Egypt (MFO); 65,000 Europe (Belgium, Bulgaria, Germany, Greece, Italy, Kosovo, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Turkey, UK); 150 Greenland; 6,200 Guam; 370 Honduras; 56,000 Japan; approximately 15,000 assigned (Bahrain, Iraq, Israel, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, Syria, United Arab Emirates); 125 Philippines; 26,500 South Korea; 200 Singapore; 100 Thailand (2021)<br>
 note - US military rotational policies affect deployed numbers; for example, the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (approximately 3,000 personnel) for 9 months at a time; in 2020-2021, it periodically rotated troops in some eastern European countries; contingencies also affect US troop deployments; in 2019-2020, the US deployed more than 15,000 additional military personnel to the Middle East for an extended period of time; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6-7,000 personnel<br>
 
 **Military - note**<br>

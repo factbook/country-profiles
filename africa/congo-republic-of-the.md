@@ -84,7 +84,7 @@ about 70% of the population lives in Brazzaville, Pointe-Noire, or along the rai
 ## People and Society
 
 **Population**<br>
-5,417,414 (July 2021 est.)<br>
+5,546,307 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -123,7 +123,7 @@ _male_: 19.3 years<br>
 _female_: 19.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.36% (2021 est.)<br>
+2.34% (2022 est.)<br>
 
 **Birth rate**<br>
 31.82 births/1,000 population (2022 est.)<br>
@@ -132,7 +132,7 @@ _female_: 19.7 years (2020 est.)<br>
 8.38 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the population is primarily located in the south, in and around the capital of Brazzaville as shown in this population distribution map<br>
@@ -148,10 +148,10 @@ _rate of urbanization_: 3.19% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 1.06 male(s)/female<br>
-_65 years and over_: 0.81 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_25-54 years_: 1.01 male(s)/female<br>
+_55-64 years_: 1.08 male(s)/female<br>
+_65 years and over_: 0.66 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.8 years (2011/12 est.)<br>
@@ -161,17 +161,17 @@ _total population_: 1.01 male(s)/female (2020 est.)<br>
 378 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 49.28 deaths/1,000 live births<br>
-_male_: 53.82 deaths/1,000 live births<br>
-_female_: 44.61 deaths/1,000 live births (2021 est.)<br>
+_total_: 47.93 deaths/1,000 live births<br>
+_male_: 52.39 deaths/1,000 live births<br>
+_female_: 43.34 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 61.69 years<br>
-_male_: 60.27 years<br>
-_female_: 63.16 years (2021 est.)<br>
+_total population_: 62.1 years<br>
+_male_: 60.65 years<br>
+_female_: 63.61 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.41 children born/woman (2021 est.)<br>
+4.36 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 30.1% (2014/15)<br>
@@ -213,6 +213,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 9.6% (2016)<br>
@@ -275,6 +276,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to restrictive measures related to the COVID‑19 pandemic - the negative impact of the restrictive measures related to the COVID‑19 pandemic on informal labor and on food supply chains, resulted, on one side, in the loss of income and, on the other, in high food prices due to a decline in food supply; these factors limited the access to food for the most vulnerable population (2021)<br>
@@ -356,9 +358,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 88.4%, Guy Price Parfait KOLELAS (MCDDI) 8.0%, turnout is 67.6%.<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate (72 seats; members indirectly elected by regional councils by simple majority vote to serve 6-year terms with one-half of membership renewed every 3 years)<br> National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: <strong> </strong><br> Senate - last held on 31 August 2017 for expiry of half the seats (next to be held in 2020)<br> National Assembly - last held on 16 and 30 July 2017 (next to be held in July 2022)<br>
-_election results_: <strong> </strong><br> Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4%<br> <br>National Assembly - percent of vote by party - NA; seats by party - PCT 96, UPADS 8, MCDDI 4, other 23 (less than 4 seats) independent 20; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br><br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate (72 seats; members indirectly elected by local, district, and regional councils by simple majority vote to serve 6-year terms with one-half of membership renewed every 3 years)<br>National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>
+_elections_: <strong> </strong><br>Senate - last held on 31 August 2017 for expiry of half the seats (next to be held in 2020)<br>National Assembly - last held on 16 and 30 July 2017 (next to be held in July 2022)<br>
+_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4%<br><br>National Assembly - percent of vote by party - NA; seats by party - PCT 96, UPADS 8, MCDDI 4, other 23 (less than 4 seats) independent 20; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the president of the republic<br>
@@ -722,6 +724,6 @@ the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a small
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 28,940 (Central African Republic), 23,746 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 28,940 (Central African Republic), 22,100 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 304,430 (multiple civil wars since 1992) (2021)<br>
 

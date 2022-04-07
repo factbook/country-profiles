@@ -79,7 +79,7 @@ landlocked; most of the country is rugged and mountainous; the Tatra Mountains i
 ## People and Society
 
 **Population**<br>
-5,436,066 (July 2021 est.)<br>
+5,431,252 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Slovak(s)<br>
@@ -115,7 +115,7 @@ _male_: 40.1 years<br>
 _female_: 43.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.08% (2021 est.)<br>
+-0.1% (2022 est.)<br>
 
 **Birth rate**<br>
 8.94 births/1,000 population (2022 est.)<br>
@@ -124,7 +124,7 @@ _female_: 43.6 years (2020 est.)<br>
 10.13 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.2 migrant(s)/1,000 population (2021 est.)<br>
+0.2 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country; slightly larger concentration in the west in proximity to the Czech border<br>
@@ -139,11 +139,11 @@ _rate of urbanization_: 0.17% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
+_15-24 years_: 1.04 male(s)/female<br>
+_25-54 years_: 1.03 male(s)/female<br>
 _55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.65 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.53 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.2 years (2019 est.)<br>
@@ -152,17 +152,17 @@ _total population_: 0.94 male(s)/female (2020 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.9 deaths/1,000 live births<br>
-_male_: 5.56 deaths/1,000 live births<br>
-_female_: 4.2 deaths/1,000 live births (2021 est.)<br>
+_total_: 4.82 deaths/1,000 live births<br>
+_male_: 5.48 deaths/1,000 live births<br>
+_female_: 4.12 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.07 years<br>
-_male_: 74.56 years<br>
-_female_: 81.82 years (2021 est.)<br>
+_total population_: 78.31 years<br>
+_male_: 74.83 years<br>
+_female_: 82.04 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.45 children born/woman (2021 est.)<br>
+1.46 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -691,10 +691,10 @@ the inventory of the Slovakian military consists mostly of Soviet-era platforms;
 note - as of 2019, women made up around 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-240 Cyprus (UNFICYP); up to 175 Latvia (NATO) (2021)<br>
+240 Cyprus (UNFICYP); up to 175 Latvia (NATO); 250 Slovakia (NATO) (2022)<br>
 
 **Military - note**<br>
-Slovakia officially became a member of NATO in 2004<br>
+Slovakia officially became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host a NATO ground force battlegroup comprised of troops from Czechia, Germany, the Netherlands, Poland, Slovakia, Slovenia, and the US<br>
 
 ## Transnational Issues
 
@@ -702,7 +702,7 @@ Slovakia officially became a member of NATO in 2004<br>
 <p>bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 281,172 (Ukraine) (as of 29 March 2022)<br>
+_refugees (country of origin)_: 302,417 (Ukraine) (as of 5 April 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

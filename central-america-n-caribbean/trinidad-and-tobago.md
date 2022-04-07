@@ -76,7 +76,7 @@ Pitch Lake, on Trinidad's southwestern coast, is the world's largest natural res
 ## People and Society
 
 **Population**<br>
-1,221,047 (July 2021 est.)<br>
+1,405,646 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Trinidadian(s), Tobagonian(s)<br>
@@ -111,7 +111,7 @@ _male_: 37.3 years<br>
 _female_: 38.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.28% (2021 est.)<br>
+0.14% (2022 est.)<br>
 
 **Birth rate**<br>
 10.79 births/1,000 population (2022 est.)<br>
@@ -120,7 +120,7 @@ _female_: 38.3 years (2020 est.)<br>
 8.38 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--5.18 migrant(s)/1,000 population (2021 est.)<br>
+-1.01 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population on Trinidad is concentrated in the western half of the island, on Tobago in the southern half<br>
@@ -133,29 +133,29 @@ _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 545,000 PORT-OF-SPAIN (capital) (2022)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.03 male(s)/female<br>
+_at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 1.1 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.05 male(s)/female<br>
+_25-54 years_: 1.04 male(s)/female<br>
+_55-64 years_: 0.99 male(s)/female<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 67 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 24.55 deaths/1,000 live births<br>
-_male_: 26.2 deaths/1,000 live births<br>
-_female_: 22.85 deaths/1,000 live births (2021 est.)<br>
+_total_: 15.83 deaths/1,000 live births<br>
+_male_: 17.97 deaths/1,000 live births<br>
+_female_: 13.61 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.92 years<br>
-_male_: 71.83 years<br>
-_female_: 78.1 years (2021 est.)<br>
+_total population_: 75.94 years<br>
+_male_: 74.02 years<br>
+_female_: 77.93 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.7 children born/woman (2021 est.)<br>
+1.63 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 40.3% (2011)<br>

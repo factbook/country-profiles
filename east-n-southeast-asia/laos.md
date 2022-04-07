@@ -79,7 +79,7 @@ landlocked; most of the country is mountainous and thickly forested; the Mekong 
 ## People and Society
 
 **Population**<br>
-7,574,356 (July 2021 est.)<br>
+7,749,595 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Lao(s) or Laotian(s)<br>
@@ -118,7 +118,7 @@ _male_: 23.7 years<br>
 _female_: 24.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.46% (2021 est.)<br>
+1.34% (2022 est.)<br>
 
 **Birth rate**<br>
 20.9 births/1,000 population (2022 est.)<br>
@@ -127,7 +127,7 @@ _female_: 24.4 years (2020 est.)<br>
 6.37 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.99 migrant(s)/1,000 population (2021 est.)<br>
+-1.17 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia<br>
@@ -141,28 +141,28 @@ _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
-_0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 0.99 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
+_0-14 years_: 1.03 male(s)/female<br>
+_15-24 years_: 1 male(s)/female<br>
+_25-54 years_: 0.99 male(s)/female<br>
 _55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.83 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 185 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 49.48 deaths/1,000 live births<br>
-_male_: 55.75 deaths/1,000 live births<br>
-_female_: 42.95 deaths/1,000 live births (2021 est.)<br>
+_total_: 37.78 deaths/1,000 live births<br>
+_male_: 41.76 deaths/1,000 live births<br>
+_female_: 33.63 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66 years<br>
-_male_: 63.83 years<br>
-_female_: 68.26 years (2021 est.)<br>
+_total population_: 68.15 years<br>
+_male_: 66.49 years<br>
+_female_: 69.88 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.57 children born/woman (2021 est.)<br>
+2.35 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 54.1% (2017)<br>

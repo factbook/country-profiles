@@ -75,7 +75,7 @@ consists of 332 islands, approximately 110 of which are inhabited, and more than
 ## People and Society
 
 **Population**<br>
-939,535 (July 2021 est.)<br>
+943,737 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Fijian(s)<br>
@@ -110,7 +110,7 @@ _male_: 29.7 years<br>
 _female_: 30.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.46% (2021 est.)<br>
+0.44% (2022 est.)<br>
 
 **Birth rate**<br>
 16.56 births/1,000 population (2022 est.)<br>
@@ -119,7 +119,7 @@ _female_: 30.1 years (2020 est.)<br>
 6.37 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--6.02 migrant(s)/1,000 population (2021 est.)<br>
+-5.84 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 approximately 70% of the population lives on the island of Viti Levu; roughly half of the population lives in urban areas<br>
@@ -133,28 +133,28 @@ _rate of urbanization_: 1.37% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
+_0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
+_25-54 years_: 1.06 male(s)/female<br>
 _55-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.6 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 34 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.27 deaths/1,000 live births<br>
-_male_: 11.84 deaths/1,000 live births<br>
-_female_: 8.63 deaths/1,000 live births (2021 est.)<br>
+_total_: 10.06 deaths/1,000 live births<br>
+_male_: 11.59 deaths/1,000 live births<br>
+_female_: 8.45 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74 years<br>
-_male_: 71.32 years<br>
-_female_: 76.82 years (2021 est.)<br>
+_total population_: 74.27 years<br>
+_male_: 71.6 years<br>
+_female_: 77.07 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.28 children born/woman (2021 est.)<br>
+2.26 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

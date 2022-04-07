@@ -73,7 +73,7 @@ Nauru is the third-smallest country in the world behind the Holy See (Vatican Ci
 ## People and Society
 
 **Population**<br>
-9,770 (July 2021 est.)<br>
+9,811 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Nauruan(s)<br>
@@ -91,10 +91,10 @@ Protestant 60.4% (includes Nauru Congregational 35.7%, Assembly of God 13%, Naur
 
 **Age structure**<br>
 _0-14 years_: 30.87% (male 1,337/female 1,684)<br>
-_15-24 years_: 16.35% (male 734/female 866)<br>
+_15-24 years_: 15.68% (male 732/female 806)<br>
 _25-54 years_: 42.57% (male 2,115/female 2,050)<br>
-_55-64 years_: 6.72% (male 262/female 396)<br>
-_65 years and over_: 3.48% (male 122/female 219) (2020 est.)<br>
+_55-64 years_: 6.97% (male 283/female 401)<br>
+_65 years and over_: 3.94% (male 133/female 254) (2022 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -108,7 +108,7 @@ _male_: 28.2 years<br>
 _female_: 25.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.42% (2021 est.)<br>
+0.42% (2022 est.)<br>
 
 **Birth rate**<br>
 21.1 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 25.9 years (2020 est.)<br>
 6.32 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--11.05 migrant(s)/1,000 population (2021 est.)<br>
+-10.6 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast<br>
@@ -127,26 +127,26 @@ _urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 0.18% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
-_at birth_: 0.84 male(s)/female<br>
-_0-14 years_: 0.79 male(s)/female<br>
-_15-24 years_: 0.85 male(s)/female<br>
+_at birth_: 1.04 male(s)/female<br>
+_0-14 years_: 1.04 male(s)/female<br>
+_15-24 years_: 0.91 male(s)/female<br>
 _25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.66 male(s)/female<br>
-_65 years and over_: 0.56 male(s)/female<br>
-_total population_: 0.88 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.7 male(s)/female<br>
+_65 years and over_: 0.51 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.96 deaths/1,000 live births<br>
-_male_: 10.25 deaths/1,000 live births<br>
-_female_: 5.59 deaths/1,000 live births (2021 est.)<br>
+_total_: 7.84 deaths/1,000 live births<br>
+_male_: 10.1 deaths/1,000 live births<br>
+_female_: 5.5 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.62 years<br>
-_male_: 64.06 years<br>
-_female_: 71.3 years (2021 est.)<br>
+_total population_: 67.93 years<br>
+_male_: 64.38 years<br>
+_female_: 71.62 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.65 children born/woman (2021 est.)<br>
+2.62 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

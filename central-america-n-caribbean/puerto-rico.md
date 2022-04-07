@@ -73,7 +73,7 @@ important location along the Mona Passage - a key shipping lane to the Panama Ca
 ## People and Society
 
 **Population**<br>
-3,142,779 (July 2021 est.)<br>
+3,098,423 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Puerto Rican(s) (US citizens)<br>
@@ -109,7 +109,7 @@ _male_: 41.6 years<br>
 _female_: 45.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
--1.46% (2021 est.)<br>
+-1.38% (2022 est.)<br>
 
 **Birth rate**<br>
 7.87 births/1,000 population (2022 est.)<br>
@@ -118,7 +118,7 @@ _female_: 45.3 years (2020 est.)<br>
 9.76 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--13 migrant(s)/1,000 population (2021 est.)<br>
+-11.9 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population clusters tend to be found along the coast, the largest of these is found in and around San Juan; an exception to this is a sizeable population located in the interior of the island immediately south of the capital around Caguas; most of the interior, particularly in the western half of the island, is dominated by the Cordillera Central mountains, where population density is low<br>
@@ -133,27 +133,27 @@ _rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
+_15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 0.91 male(s)/female<br>
 _55-64 years_: 0.85 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.64 male(s)/female<br>
+_total population_: 0.89 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 21 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.16 deaths/1,000 live births<br>
-_male_: 6.73 deaths/1,000 live births<br>
-_female_: 5.55 deaths/1,000 live births (2021 est.)<br>
+_total_: 6.04 deaths/1,000 live births<br>
+_male_: 6.61 deaths/1,000 live births<br>
+_female_: 5.43 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.47 years<br>
-_male_: 78.23 years<br>
-_female_: 84.89 years (2021 est.)<br>
+_total population_: 81.68 years<br>
+_male_: 78.47 years<br>
+_female_: 85.08 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.23 children born/woman (2021 est.)<br>
+1.24 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

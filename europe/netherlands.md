@@ -82,7 +82,7 @@ located at mouths of three major European rivers (Rhine, Maas or Meuse, and Sche
 ## People and Society
 
 **Population**<br>
-17,337,403 (July 2021 est.)<br>
+17,400,824 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Dutchman(men), Dutchwoman(women)<br>
@@ -117,7 +117,7 @@ _male_: 41.6 years<br>
 _female_: 44 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.37% (2021 est.)<br>
+0.36% (2022 est.)<br>
 
 **Birth rate**<br>
 10.99 births/1,000 population (2022 est.)<br>
@@ -126,7 +126,7 @@ _female_: 44 years (2020 est.)<br>
 9.24 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-1.9 migrant(s)/1,000 population (2021 est.)<br>
+1.9 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country<br>
@@ -144,8 +144,8 @@ _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 1.01 male(s)/female<br>
 _55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.83 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 30.1 years (2019 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.45 deaths/1,000 live births<br>
-_male_: 3.82 deaths/1,000 live births<br>
-_female_: 3.06 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.4 deaths/1,000 live births<br>
+_male_: 3.76 deaths/1,000 live births<br>
+_female_: 3.02 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.95 years<br>
-_male_: 79.72 years<br>
-_female_: 84.3 years (2021 est.)<br>
+_total population_: 82.16 years<br>
+_male_: 79.93 years<br>
+_female_: 84.49 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.78 children born/woman (2021 est.)<br>
+1.78 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73% (2013)<br>
@@ -715,7 +715,7 @@ note - in 2019, women made up about 11% of the military's full-time personnel<br
 270 Lithuania (NATO) (2021)<br>
 
 **Military - note**<br>
-the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force</p> <p>a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively<br><br></p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020 (2021)<br>
+the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force</p> <p>a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively</p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br> <p>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries</p><br>
 
 ## Terrorism
 

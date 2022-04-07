@@ -73,7 +73,7 @@ Saint Helena harbors at least 40 species of plants unknown elsewhere in the worl
 ## People and Society
 
 **Population**<br>
-7,915 (July 2021 est.)<br>
+7,925 (2022 est.)<br>
 <strong>note:</strong> Saint Helena's Statistical Office estimated the resident population to be 4,439 in 2021; only Saint Helena, Ascension, and Tristan da Cunha islands are inhabited, none of the other nearby islands/islets are<br>
 
 **Nationality**<br>
@@ -95,11 +95,11 @@ Protestant 75.9% (includes Anglican 68.9, Baptist 2.1%, Seventh Day Adventist 1.
 <p>The vast majority of the population of Saint Helena, Ascension, and Tristan da Cunha live on Saint Helena. Ascension has no indigenous or permanent residents and is inhabited only by persons contracted to work on the island (mainly with the UK and US military or in the space and communications industries) or their dependents, while Tristan da Cunha – the main island in a small archipelago – has fewer than 300 residents. The population of Saint Helena consists of the descendants of 17th century British sailors and settlers from the East India Company, African slaves, and indentured servants and laborers from India, Indonesia, and China. Most of the population of Ascension are Saint Helenians, Britons, and Americans, while that of Tristan da Cunha descends from shipwrecked sailors and Saint Helenians.</p><p>Change in Saint Helena’s population size is driven by net outward migration. Since the 1980s, Saint Helena’s population steadily has shrunk and aged as the birth rate has decreased and many working-age residents left for better opportunities elsewhere. The restoration of British citizenship in 2002 accelerated family emigration; from 1998 to 2008 alone, population declined by about 20%.</p><p>In the last few years, population has experienced some temporary growth, as foreigners and returning Saint Helenians, have come to build an international airport, but numbers are beginning to fade as the project reaches completion and workers depart. In the long term, once the airport is fully operational, increased access to the remote island has the potential to boost tourism and fishing, provide more jobs for Saint Helenians domestically, and could encourage some ex-patriots to return home. In the meantime, however, Saint Helena, Ascension, and Tristan da Cunha have to contend with the needs of an aging population. The elderly population of the islands has risen from an estimated 9.4% in 1998 to 20.4% in 2016.</p><br>
 
 **Age structure**<br>
-_0-14 years_: 14.86% (male 599/female 577)<br>
-_15-24 years_: 11.84% (male 477/female 460)<br>
+_0-14 years_: 14.66% (male 592/female 570)<br>
+_15-24 years_: 11.7% (male 472/female 455)<br>
 _25-54 years_: 42.59% (male 1,679/female 1,692)<br>
-_55-64 years_: 13.18% (male 514/female 529)<br>
-_65 years and over_: 17.54% (male 710/female 678) (2021 est.)<br>
+_55-64 years_: 13.53% (male 523/female 549)<br>
+_65 years and over_: 18.06% (male 730/female 701) (2022 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -113,7 +113,7 @@ _male_: 43.2 years<br>
 _female_: 43.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.14% (2021 est.)<br>
+0.13% (2022 est.)<br>
 
 **Birth rate**<br>
 9.34 births/1,000 population (2022 est.)<br>
@@ -122,7 +122,7 @@ _female_: 43.3 years (2020 est.)<br>
 8.08 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 Saint Helena - population is concentrated in and around the capital Jamestown in the northwest, with another significant cluster in the interior Longwood area; Ascension - largest settlement, and location of most of the population, is Georgetown; Tristan da Cunha - most of the nearly 300 inhabitants live in the northern coastal town of Edinburgh of the Seven Seas<br>
@@ -138,23 +138,23 @@ _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 1.04 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_25-54 years_: 1 male(s)/female<br>
+_55-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.81 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.77 deaths/1,000 live births<br>
-_male_: 23.74 deaths/1,000 live births<br>
-_female_: 15.6 deaths/1,000 live births (2021 est.)<br>
+_total_: 19.19 deaths/1,000 live births<br>
+_male_: 23.05 deaths/1,000 live births<br>
+_female_: 15.13 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.25 years<br>
-_male_: 77.34 years<br>
-_female_: 83.31 years (2021 est.)<br>
+_total population_: 80.48 years<br>
+_male_: 77.58 years<br>
+_female_: 83.51 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.6 children born/woman (2021 est.)<br>
+1.6 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

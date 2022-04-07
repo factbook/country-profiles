@@ -76,7 +76,7 @@ landlocked in the Lesser Caucasus Mountains; Sevana Lich (Lake Sevan) is the lar
 ## People and Society
 
 **Population**<br>
-3,011,609 (July 2021 est.)<br>
+3,000,756 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Armenian(s)<br>
@@ -111,7 +111,7 @@ _male_: 35.1 years<br>
 _female_: 38.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.35% (2021 est.)<br>
+-0.38% (2022 est.)<br>
 
 **Birth rate**<br>
 11.1 births/1,000 population (2022 est.)<br>
@@ -120,7 +120,7 @@ _female_: 38.3 years (2020 est.)<br>
 9.51 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--5.43 migrant(s)/1,000 population (2021 est.)<br>
+-5.36 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second largest city in the country<br>
@@ -133,13 +133,13 @@ _rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
 1.092 million YEREVAN (capital) (2022)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.1 male(s)/female<br>
-_0-14 years_: 1.12 male(s)/female<br>
-_15-24 years_: 1.1 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
+_at birth_: 1.08 male(s)/female<br>
+_0-14 years_: 1.11 male(s)/female<br>
+_15-24 years_: 1.11 male(s)/female<br>
+_25-54 years_: 0.99 male(s)/female<br>
 _55-64 years_: 0.85 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.65 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.2 years (2019 est.)<br>
@@ -148,17 +148,17 @@ _total population_: 0.95 male(s)/female (2020 est.)<br>
 26 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.47 deaths/1,000 live births<br>
-_male_: 14.02 deaths/1,000 live births<br>
-_female_: 10.78 deaths/1,000 live births (2021 est.)<br>
+_total_: 12.18 deaths/1,000 live births<br>
+_male_: 13.72 deaths/1,000 live births<br>
+_female_: 10.51 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.86 years<br>
-_male_: 72.58 years<br>
-_female_: 79.44 years (2021 est.)<br>
+_total population_: 76.13 years<br>
+_male_: 72.86 years<br>
+_female_: 79.68 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.65 children born/woman (2021 est.)<br>
+1.65 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 57.1% (2015/16)<br>

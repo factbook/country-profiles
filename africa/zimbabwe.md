@@ -82,7 +82,7 @@ landlocked; the Zambezi forms a natural riverine boundary with Zambia; in full f
 ## People and Society
 
 **Population**<br>
-14,829,988 (July 2021 est.)<br>
+15,121,004 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -120,7 +120,7 @@ _male_: 20.3 years<br>
 _female_: 20.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.94% (2021 est.)<br>
+1.95% (2022 est.)<br>
 
 **Birth rate**<br>
 33.07 births/1,000 population (2022 est.)<br>
@@ -129,7 +129,7 @@ _female_: 20.6 years (2020 est.)<br>
 8.76 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--4.93 migrant(s)/1,000 population (2021 est.)<br>
+-4.83 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 Aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half as shown in this population distribution map<br>
@@ -145,10 +145,10 @@ _rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 0.98 male(s)/female<br>
 _15-24 years_: 0.96 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 0.63 male(s)/female<br>
-_65 years and over_: 0.66 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_25-54 years_: 1.06 male(s)/female<br>
+_55-64 years_: 0.62 male(s)/female<br>
+_65 years and over_: 0.57 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.3 years (2015 est.)<br>
@@ -158,17 +158,17 @@ _total population_: 0.96 male(s)/female (2020 est.)<br>
 458 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.41 deaths/1,000 live births<br>
-_male_: 33.15 deaths/1,000 live births<br>
-_female_: 25.56 deaths/1,000 live births (2021 est.)<br>
+_total_: 28.53 deaths/1,000 live births<br>
+_male_: 32.17 deaths/1,000 live births<br>
+_female_: 24.77 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.83 years<br>
-_male_: 60.7 years<br>
-_female_: 65.02 years (2021 est.)<br>
+_total population_: 63.32 years<br>
+_male_: 61.18 years (2022 est.)<br>
+_female_: 65.52 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.91 children born/woman (2021 est.)<br>
+3.89 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.8% (2015)<br>
@@ -720,7 +720,7 @@ the ZDF was formed after independence from the former Rhodesian Army and the two
 <p><em>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,843 (Democratic Republic of Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 11,285 (Democratic Republic of Congo) (refugees and asylum seekers) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Zimbabwe is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Zimbabwean women and girls from towns bordering South Africa, Mozambique, and Zambia are subjected to forced labor, including domestic servitude, and prostitution catering to long-distance truck drivers; Zimbabwean men, women, and children experience forced labor in agriculture and domestic servitude in rural areas; family members may recruit children and other relatives from rural areas with promises of work or education in cities and towns where they end up in domestic servitude and sex trafficking; Zimbabwean women and men are lured into exploitative labor situations in South Africa and other neighboring countries<br>

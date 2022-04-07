@@ -75,7 +75,7 @@ strategic location dominating the Aegean Sea and southern approach to Turkish St
 ## People and Society
 
 **Population**<br>
-10,569,703 (July 2021 est.)<br>
+10,533,871 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Greek(s)<br>
@@ -111,7 +111,7 @@ _male_: 43.7 years<br>
 _female_: 46.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.34% (2021 est.)<br>
+-0.34% (2022 est.)<br>
 
 **Birth rate**<br>
 7.61 births/1,000 population (2022 est.)<br>
@@ -120,7 +120,7 @@ _female_: 46.8 years (2020 est.)<br>
 12.04 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.97 migrant(s)/1,000 population (2021 est.)<br>
+1 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 one-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters<br>
@@ -134,12 +134,12 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
-_0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.11 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.8 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-24 years_: 1.14 male(s)/female<br>
+_25-54 years_: 1 male(s)/female<br>
+_55-64 years_: 0.89 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.9 years (2019 est.)<br>
@@ -148,17 +148,17 @@ _total population_: 0.95 male(s)/female (2020 est.)<br>
 3 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.61 deaths/1,000 live births<br>
-_male_: 4 deaths/1,000 live births<br>
-_female_: 3.19 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.55 deaths/1,000 live births<br>
+_male_: 3.94 deaths/1,000 live births<br>
+_female_: 3.13 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.28 years<br>
-_male_: 78.73 years<br>
-_female_: 84 years (2021 est.)<br>
+_total population_: 81.49 years<br>
+_male_: 78.96 years<br>
+_female_: 84.2 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.39 children born/woman (2021 est.)<br>
+1.4 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,215,592 estimated refugee and migrant arrivals (January 2015-March 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,215,704 estimated refugee and migrant arrivals (January 2015-March 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

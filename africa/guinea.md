@@ -80,7 +80,7 @@ the Niger and its important tributary the Milo River have their sources in the G
 ## People and Society
 
 **Population**<br>
-12,877,894 (July 2021 est.)<br>
+13,237,832 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Guinean(s)<br>
@@ -118,7 +118,7 @@ _male_: 18.9 years<br>
 _female_: 19.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.76% (2021 est.)<br>
+2.76% (2022 est.)<br>
 
 **Birth rate**<br>
 35.67 births/1,000 population (2022 est.)<br>
@@ -127,7 +127,7 @@ _female_: 19.4 years (2020 est.)<br>
 8.12 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 areas of highest density are in the west and south; interior is sparsely populated as shown in this population distribution map<br>
@@ -145,8 +145,8 @@ _0-14 years_: 1.02 male(s)/female<br>
 _15-24 years_: 1.01 male(s)/female<br>
 _25-54 years_: 1 male(s)/female<br>
 _55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.81 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2018 est.)<br>
@@ -156,17 +156,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 576 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 50.99 deaths/1,000 live births<br>
-_male_: 55.83 deaths/1,000 live births<br>
-_female_: 46 deaths/1,000 live births (2021 est.)<br>
+_total_: 49.63 deaths/1,000 live births<br>
+_male_: 54.39 deaths/1,000 live births<br>
+_female_: 44.74 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.53 years<br>
-_male_: 61.7 years<br>
-_female_: 65.42 years (2021 est.)<br>
+_total population_: 63.9 years<br>
+_male_: 62.04 years<br>
+_female_: 65.82 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.89 children born/woman (2021 est.)<br>
+4.85 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 10.9% (2018)<br>
@@ -212,7 +212,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
-<strong>note:</strong> on 14 February 2021, the Guinea government declared an outbreak of Ebola in N'Zerekore; the Centers for Disease Control and Prevention has issued a Travel Advisory recommending travelers avoid non-essential travel to Guinea; travelers to this area could be infected with Ebola if they come into contact with an infected person’s blood or other body fluids; travelers should seek medical care immediately if they develop fever, muscle pain, sore throat, diarrhea, weakness, vomiting, stomach pain, or unexplained bleeding or bruising during or after travel<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 7.7% (2016)<br>
@@ -281,7 +281,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
-<strong>note:</strong> on 14 February 2021, the Guinea government declared an outbreak of Ebola in N'Zerekore; the Centers for Disease Control and Prevention has issued a Travel Advisory recommending travelers avoid non-essential travel to Guinea; travelers to this area could be infected with Ebola if they come into contact with an infected person’s blood or other body fluids; travelers should seek medical care immediately if they develop fever, muscle pain, sore throat, diarrhea, weakness, vomiting, stomach pain, or unexplained bleeding or bruising during or after travel<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to localized shortfalls of cereal production - despite overall favorable food security conditions, the most vulnerable households still need external food assistance; the aggregate number of severely food insecure people was estimated at 267,000 during the lean season between June and August 2020;&nbsp;&nbsp;it is very likely that the number of food insecure population increased with the impact of COVID‑19 (2021)<br>

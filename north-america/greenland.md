@@ -73,7 +73,7 @@ dominates North Atlantic Ocean between North America and Europe; sparse populati
 ## People and Society
 
 **Population**<br>
-57,799 (July 2021 est.)<br>
+57,792 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Greenlander(s)<br>
@@ -108,7 +108,7 @@ _male_: 35.1 years<br>
 _female_: 33.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.01% (2021 est.)<br>
+-0.02% (2022 est.)<br>
 
 **Birth rate**<br>
 13.79 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 33.4 years (2020 est.)<br>
 8.96 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--5.07 migrant(s)/1,000 population (2021 est.)<br>
+-5 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited<br>
@@ -133,23 +133,23 @@ _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1.1 male(s)/female<br>
-_55-64 years_: 1.17 male(s)/female<br>
-_65 years and over_: 1.13 male(s)/female<br>
-_total population_: 1.08 male(s)/female (2020 est.)<br>
+_25-54 years_: 1.08 male(s)/female<br>
+_55-64 years_: 1.19 male(s)/female<br>
+_65 years and over_: 0.84 male(s)/female<br>
+_total population_: 1.08 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.9 deaths/1,000 live births<br>
-_male_: 10.43 deaths/1,000 live births<br>
-_female_: 7.28 deaths/1,000 live births (2021 est.)<br>
+_total_: 8.75 deaths/1,000 live births<br>
+_male_: 10.25 deaths/1,000 live births<br>
+_female_: 7.16 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 73.71 years<br>
-_male_: 70.99 years<br>
-_female_: 76.56 years (2021 est.)<br>
+_total population_: 73.98 years<br>
+_male_: 71.28 years<br>
+_female_: 76.82 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.92 children born/woman (2021 est.)<br>
+1.91 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

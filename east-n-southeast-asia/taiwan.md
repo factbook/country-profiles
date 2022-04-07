@@ -72,7 +72,7 @@ strategic location adjacent to both the Taiwan Strait and the Luzon Strait<br>
 ## People and Society
 
 **Population**<br>
-23,572,052 (July 2021 est.)<br>
+23,580,712 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Taiwan (singular and plural)<br>
@@ -109,7 +109,7 @@ _male_: 41.5 years<br>
 _female_: 43.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.04% (2021 est.)<br>
+0.04% (2022 est.)<br>
 
 **Birth rate**<br>
 7.39 births/1,000 population (2022 est.)<br>
@@ -118,7 +118,7 @@ _female_: 43.1 years (2020 est.)<br>
 7.89 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.75 migrant(s)/1,000 population (2021 est.)<br>
+0.85 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 distribution exhibits a peripheral coastal settlement pattern, with the largest populations on the north and west coasts<br>
@@ -132,25 +132,25 @@ _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.83 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-24 years_: 1.06 male(s)/female<br>
+_25-54 years_: 1 male(s)/female<br>
+_55-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.03 deaths/1,000 live births<br>
-_male_: 4.35 deaths/1,000 live births<br>
-_female_: 3.7 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.97 deaths/1,000 live births<br>
+_male_: 4.29 deaths/1,000 live births<br>
+_female_: 3.63 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.95 years<br>
-_male_: 77.93 years<br>
-_female_: 84.14 years (2021 est.)<br>
+_total population_: 81.16 years<br>
+_male_: 78.17 years<br>
+_female_: 84.34 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.07 children born/woman (2021 est.)<br>
+1.08 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

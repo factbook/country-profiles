@@ -78,7 +78,7 @@ the third-smallest country in South America after Suriname and Uruguay; substant
 ## People and Society
 
 **Population**<br>
-787,971 (July 2021 est.)<br>
+789,683 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -116,7 +116,7 @@ _male_: 27.2 years<br>
 _female_: 27.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.19% (2021 est.)<br>
+0.24% (2022 est.)<br>
 
 **Birth rate**<br>
 16.72 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 27.9 years (2020 est.)<br>
 6.91 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--7.84 migrant(s)/1,000 population (2021 est.)<br>
+-7.42 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
@@ -140,11 +140,11 @@ _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.1 male(s)/female<br>
-_55-64 years_: 0.88 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.05 male(s)/female<br>
+_25-54 years_: 1.11 male(s)/female<br>
+_55-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 1.04 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.8 years (2009 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 1.02 male(s)/female (2020 est.)<br>
 667 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 22.68 deaths/1,000 live births<br>
-_male_: 25.66 deaths/1,000 live births<br>
-_female_: 19.55 deaths/1,000 live births (2021 est.)<br>
+_total_: 22.15 deaths/1,000 live births<br>
+_male_: 25.05 deaths/1,000 live births<br>
+_female_: 19.1 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 71.59 years<br>
-_male_: 69.74 years<br>
-_female_: 73.53 years (2021 est.)<br>
+_total population_: 71.87 years<br>
+_male_: 70.03 years<br>
+_female_: 73.8 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.07 children born/woman (2021 est.)<br>
+2.06 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 33.9% (2014)<br>

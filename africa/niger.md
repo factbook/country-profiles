@@ -85,7 +85,7 @@ landlocked; one of the hottest countries in the world; northern four-fifths is d
 ## People and Society
 
 **Population**<br>
-23,605,767 (July 2021 est.)<br>
+24,484,587 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Nigerien(s)<br>
@@ -122,7 +122,7 @@ _male_: 14.5 years<br>
 _female_: 15.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.65% (2021 est.)<br>
+3.66% (2022 est.)<br>
 
 **Birth rate**<br>
 47.08 births/1,000 population (2022 est.)<br>
@@ -131,7 +131,7 @@ _female_: 15.1 years (2020 est.)<br>
 9.87 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.66 migrant(s)/1,000 population (2021 est.)<br>
+-0.64 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin as shown in this population distribution map<br>
@@ -147,10 +147,10 @@ _rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-24 years_: 0.97 male(s)/female<br>
-_25-54 years_: 0.93 male(s)/female<br>
-_55-64 years_: 0.98 male(s)/female<br>
-_65 years and over_: 0.92 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.92 male(s)/female<br>
+_55-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.81 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.4 years (2012 est.)<br>
@@ -160,17 +160,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 509 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 68.12 deaths/1,000 live births<br>
-_male_: 73.02 deaths/1,000 live births<br>
-_female_: 63.06 deaths/1,000 live births (2021 est.)<br>
+_total_: 66.81 deaths/1,000 live births<br>
+_male_: 71.73 deaths/1,000 live births<br>
+_female_: 61.75 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 59.7 years<br>
-_male_: 58.19 years<br>
-_female_: 61.26 years (2021 est.)<br>
+_total population_: 60.09 years<br>
+_male_: 58.55 years<br>
+_female_: 61.68 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-6.91 children born/woman (2021 est.)<br>
+6.82 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 11% (2017/18)<br>
@@ -216,6 +216,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Niger is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.5% (2016)<br>
@@ -284,6 +285,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Niger is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to civil conflict - according to the latest analysis, about 2.3 million people are assessed to need humanitarian assistance in the June&minus;August 2021 period due to the increase in security incidents which have resulted in widespread disruption of agricultural and marketing activities, diminishing livelihood opportunities for households (2021)<br>
@@ -368,9 +370,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: percent of vote in 2020 first round - Mohamed BAZOUM (PNDS-Tarrayya) 39.33%, Mahamane OUSMANE (MODEN/FA Lumana Africa) 17%, Seini OUMAROU (MNSD-Nassara) 8.95%, Albade ABOUDA (MPR-Jamhuriya) 7.07%; percent of vote in 2021 second round - Mohamed BAZOUM (PNDS-Tarrayya) 55.67%, Mahamane OUSMANE (RDR Tchanji) 44.33%<br><br>2016 results: ISSOUFOU Mahamadou reelected president in second round; percent of vote in first round - ISSOUFOU Mahamadou (PNDS-Tarrayya) 48.6%, Hama AMADOU (MODEN/FA Lumana Africa) 17.8%, Seini OUMAROU (MNSD-Nassara) 11.3%, other 22.3%; percent of vote in second round - ISSOUFOU Mahamadou 92%, Hama AMADOU 8%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (171 seats; 158 members directly elected from 8 multi-member constituencies in 7 regions and Niamey by party-list proportional representation, 8 reserved for minorities elected in special single-seat constituencies by simple majority vote, 5 seats reserved for Nigeriens living abroad - l seat per continent - elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
-_elections_: last held on 21 February 2016 (next to be held on 27 December 2020)<br>
-_election results_: percent of vote by party - PNDS-Tarrayya 44.1%, MODEN/FA Lumana 14.7%, MNSD-Nassara 11.8%, MPR-Jamhuriya 7.1%, MNRD Hankuri-PSDN Alheri 3.5%, MPN-Kishin Kassa 2.9%, ANDP-Zaman Lahiya 2.4%, RSD-Gaskiya 2.4%, CDS-Rahama 1.8%, CPR-Inganci 1.8%, RDP-Jama'a 1.8%, AMEN AMIN 1.8%, other 3.9%; seats by party - PNDS-Tarrayya 75, MODEN/FA Lumana 25, MNSD-Nassara 20, MPR-Jamhuriya 12, MNRD Hankuri-PSDN Alheri 6, MPN-Kishin Kassa 5, ANDP-Zaman Lahiya 4, RSD-Gaskiya 4, CDS-Rahama 3, CPR-Inganci 3, RDP-Jama'a 3, RDP-Jama'a 3, AMEN AMIN 3, other 8; composition - men 146, women 24 percent of women 14.6%<br>
+_description_: unicameral National Assembly or Assemblee Nationale (171 seats - 166 currently; 158 members directly elected from 8 multi-member constituencies in 7 regions and Niamey by party-list proportional representation, 8 reserved for minorities elected in special single-seat constituencies by simple majority vote, 5 seats reserved for Nigeriens living abroad - l seat per continent - elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
+_elections_: last held on 27 December 2020 (next to be held in 2025)<br>
+_election results_: percent of vote by party - percent of vote by party - PNDS-Tarrayya 37.04%, MODEN/FA Lumana 8.71%, MPR-Jamhuriya 7.59%, MNSD-Nassara 6.77%,&nbsp; RDR-Tchanji 4.41%, CPR-Inganci 4.15%, MPN-Kishin Kassa 3.97%, PJP Generation Dubara 2.88%, ANDP Zaman Lahya 2.46%, RPP Farrilla 2.10%, ARD Adaltchi-Mutuntchi 1.74%, AMEN AMIN 1.43%, MDEN Falala 1.42%, other 15; seats by party - PNDS-Tarrayya 79, MODEN/FA Lumana 19, MPR-Jamhuriya 14, MNSD-Nassara 13, CPR-Inganci 8, MPN-Kishin Kassa 6, ANDP-Zaman Lahiya 3, RPP Farrilla 2, PJP Generation Dubara 2, ARD Adaltchi-Mutuntchi 2, AMEN AMIN 2, other 10; composition - men 123, women 43, percent of women 25.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Constitutional Court (consists of 7 judges); High Court of Justice (consists of 7 members)<br>

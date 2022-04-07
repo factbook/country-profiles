@@ -69,7 +69,7 @@ largest concentration on the island is Willemstad; smaller settlements near the 
 ## People and Society
 
 **Population**<br>
-151,885 (July 2021 est.)<br>
+11,008,112 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Curacaoan<br>
@@ -104,7 +104,7 @@ _male_: 34.4 years<br>
 _female_: 39.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.33% (2021 est.)<br>
+0.32% (2022 est.)<br>
 
 **Birth rate**<br>
 13.2 births/1,000 population (2022 est.)<br>
@@ -113,7 +113,7 @@ _female_: 39.5 years (2020 est.)<br>
 8.71 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.32 migrant(s)/1,000 population (2021 est.)<br>
+-1.31 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest<br>
@@ -127,25 +127,25 @@ _rate of urbanization_: 0.57% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.77 male(s)/female<br>
-_65 years and over_: 0.68 male(s)/female<br>
-_total population_: 0.92 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-24 years_: 1.08 male(s)/female<br>
+_25-54 years_: 1.02 male(s)/female<br>
+_55-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.69 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.05 deaths/1,000 live births<br>
-_male_: 8.89 deaths/1,000 live births<br>
-_female_: 7.18 deaths/1,000 live births (2021 est.)<br>
+_total_: 7.88 deaths/1,000 live births<br>
+_male_: 8.69 deaths/1,000 live births<br>
+_female_: 7.02 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.19 years<br>
-_male_: 76.85 years<br>
-_female_: 81.65 years (2021 est.)<br>
+_total population_: 79.42 years<br>
+_male_: 77.09 years<br>
+_female_: 81.87 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.99 children born/woman (2021 est.)<br>
+1.98 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -271,9 +271,9 @@ _cabinet_: Cabinet sworn-in by the governor<br>
 _elections/appointments_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually elected prime minister by the&nbsp;Parliament of Curacao; next election scheduled for 2016<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament of Curacao (21 seats; members directly elected by proportional representation vote to serve 4-year terms)<br>
+_description_: unicameral Parliament of Curacao (21 seats; members directly elected by party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 19 March 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - MFK 28.1%, PAR 14.1%, PNP 12.6%, MAN 6.5%, KEM 5.4%, TPK 5.3%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition -<br>
+_election results_: percent of vote by party - MFK 28.1%, PAR 14.1%, PNP 12.6%, MAN 6.5%, KEM 5.4%, TPK 5.3%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands<br>

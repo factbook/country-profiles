@@ -79,7 +79,7 @@ strategic location at head of Persian Gulf<br>
 ## People and Society
 
 **Population**<br>
-3,032,065 (July 2021 est.)<br>
+3,068,155 (2022 est.)<br>
 <strong>note:</strong> Kuwait's Public Authority for Civil Information estimates the country's total population to be 4,420,110 for 2019, with non-Kuwaitis accounting for nearly 70% of the population<br>
 
 **Nationality**<br>
@@ -116,7 +116,7 @@ _male_: 30.7 years<br>
 _female_: 27.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.2% (2021 est.)<br>
+1.17% (2022 est.)<br>
 
 **Birth rate**<br>
 17.78 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 27.9 years (2020 est.)<br>
 2.25 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--3.65 migrant(s)/1,000 population (2021 est.)<br>
+-3.87 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 densest settlement is along the Persian Gulf, particularly in Kuwait City and on Bubiyan Island; significant population threads extend south and west along highways that radiate from the capital, particularly in the southern half of the country<br>
@@ -140,27 +140,27 @@ _rate of urbanization_: 1.35% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.09 male(s)/female<br>
-_15-24 years_: 1.21 male(s)/female<br>
-_25-54 years_: 1.69 male(s)/female<br>
-_55-64 years_: 1.26 male(s)/female<br>
-_65 years and over_: 0.79 male(s)/female<br>
-_total population_: 1.38 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.19 male(s)/female<br>
+_25-54 years_: 1.66 male(s)/female<br>
+_55-64 years_: 1.21 male(s)/female<br>
+_65 years and over_: 0.66 male(s)/female<br>
+_total population_: 1.37 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 12 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.6 deaths/1,000 live births<br>
-_male_: 7.89 deaths/1,000 live births<br>
-_female_: 7.29 deaths/1,000 live births (2021 est.)<br>
+_total_: 7.43 deaths/1,000 live births<br>
+_male_: 7.75 deaths/1,000 live births<br>
+_female_: 7.1 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.9 years<br>
-_male_: 77.44 years<br>
-_female_: 80.43 years (2021 est.)<br>
+_total population_: 79.13 years<br>
+_male_: 77.67 years<br>
+_female_: 80.65 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.25 children born/woman (2021 est.)<br>
+2.24 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

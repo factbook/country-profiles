@@ -82,7 +82,7 @@ note 1: landlocked; strategic location at the crossroads of central Europe with 
 ## People and Society
 
 **Population**<br>
-8,884,864 (July 2021 est.)<br>
+8,913,088 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Austrian(s)<br>
@@ -119,7 +119,7 @@ _male_: 43.1 years<br>
 _female_: 45.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.32% (2021 est.)<br>
+0.32% (2022 est.)<br>
 
 **Birth rate**<br>
 9.45 births/1,000 population (2022 est.)<br>
@@ -128,7 +128,7 @@ _female_: 45.8 years (2020 est.)<br>
 9.85 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-3.57 migrant(s)/1,000 population (2021 est.)<br>
+3.55 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the northern and eastern portions of the country are more densely populated; nearly two-thirds of the populace lives in urban areas<br>
@@ -146,8 +146,8 @@ _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
 _25-54 years_: 1 male(s)/female<br>
 _55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.65 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.7 years (2019 est.)<br>
@@ -156,17 +156,17 @@ _total population_: 0.96 male(s)/female (2020 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.29 deaths/1,000 live births<br>
-_male_: 3.7 deaths/1,000 live births<br>
-_female_: 2.86 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.24 deaths/1,000 live births<br>
+_male_: 3.65 deaths/1,000 live births<br>
+_female_: 2.81 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.07 years<br>
-_male_: 79.42 years<br>
-_female_: 84.85 years (2021 est.)<br>
+_total population_: 82.27 years<br>
+_male_: 79.64 years<br>
+_female_: 85.04 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.5 children born/woman (2021 est.)<br>
+1.51 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 79% (2019)<br>

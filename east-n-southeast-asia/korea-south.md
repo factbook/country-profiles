@@ -76,7 +76,7 @@ strategic location on Korea Strait; about 3,000 mostly small and uninhabited isl
 ## People and Society
 
 **Population**<br>
-51,715,162 (July 2021 est.)<br>
+51,844,834 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Korean(s)<br>
@@ -112,7 +112,7 @@ _male_: 41.6 years<br>
 _female_: 45 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.26% (2021 est.)<br>
+0.24% (2022 est.)<br>
 
 **Birth rate**<br>
 6.92 births/1,000 population (2022 est.)<br>
@@ -121,7 +121,7 @@ _female_: 45 years (2020 est.)<br>
 7.12 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-2.65 migrant(s)/1,000 population (2021 est.)<br>
+2.63 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 with approximately 70% of the country considered mountainous, the country's population is primarily concentrated in the lowland areas, where density is quite high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated<br>
@@ -135,12 +135,12 @@ _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.1 male(s)/female<br>
-_25-54 years_: 1.08 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-24 years_: 1.09 male(s)/female<br>
+_25-54 years_: 1.11 male(s)/female<br>
+_55-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.6 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 32.2 years (2019 est.)<br>
@@ -149,17 +149,17 @@ _total population_: 1.01 male(s)/female (2020 est.)<br>
 11 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.91 deaths/1,000 live births<br>
-_male_: 3.12 deaths/1,000 live births<br>
-_female_: 2.68 deaths/1,000 live births (2021 est.)<br>
+_total_: 2.87 deaths/1,000 live births<br>
+_male_: 3.08 deaths/1,000 live births<br>
+_female_: 2.64 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.78 years<br>
-_male_: 79.66 years<br>
-_female_: 86.06 years (2021 est.)<br>
+_total population_: 82.97 years<br>
+_male_: 79.88 years<br>
+_female_: 86.24 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.09 children born/woman (2021 est.)<br>
+1.1 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 82.3% (2018)<br>
@@ -201,7 +201,7 @@ NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 6 October 2021, South Korea has reported a total of 323,379 <br>cases of COVID-19 or 630.75 cumulative cases of COVID-19 per 100,000 population with 4.95 cumulative deaths per 100,000 population; as of 5 October 2021, 77.54% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 30 March 2022, South Korea has reported a total of 12,774,956 cases of COVID-19 or 24,917.41 cumulative cases of COVID-19 per 100,000 population with a total of 15,855 cumulative deaths or a rate of 30.92 cumulative deaths per 100,000 population; as of 29 March 2022, 87.61% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 4.7% (2016)<br>
@@ -262,7 +262,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 6 October 2021, South Korea has reported a total of 323,379 <br>cases of COVID-19 or 630.75 cumulative cases of COVID-19 per 100,000 population with 4.95 cumulative deaths per 100,000 population; as of 5 October 2021, 77.54% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 30 March 2022, South Korea has reported a total of 12,774,956 cases of COVID-19 or 24,917.41 cumulative cases of COVID-19 per 100,000 population with a total of 15,855 cumulative deaths or a rate of 30.92 cumulative deaths per 100,000 population; as of 29 March 2022, 87.61% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,218,975 tons (2014 est.)<br>
@@ -328,8 +328,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President MOON Jae-in (since 10 May 2017); the president is both chief of state and head of government; Prime Minister KIM Boo-kyum (since 14 May 2021) serves as the principal executive assistant to the president, similar to the role of a vice president<br>
 _head of government_: President MOON Jae-in (since 10 May 2017)<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 May 2017 (next to be held on 9 March 2022); prime minister appointed by president with consent of National Assembly<br>
-_election results_: <em><br>2017:</em> MOON Jae-in elected president; percent of vote - MOON Jae-in (DP) 41.1%, HONG Joon-pyo (LKP) 25.5%, AHN Cheol-soo (PP) 21.4%, other 12%<br><br><em>2012: </em>PARK Geun-Hye elected president; percent of vote - PARK Geun-Hye (NFP) 51.6%, MOON Jae-In (DUP) 48%, other 0.4%<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next election held March 2027); prime minister appointed by president with consent of National Assembly<br>
+_election results_: 2022: YOON Suk-yeol elected president (to be inaugurated May 2022); YOON Suk-yeol (PPP) 48.56%, LEE Jae-myung (DP) 47.83% (note - voter turnout 77.1%)<br><br>2017: MOON Jae-in elected president; percent of vote - MOON Jae-in (DP) 41.1%, HONG Joon-pyo (LKP) 25.5%, AHN Cheol-soo (PP) 21.4%, other 12%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Kuk Hoe (300 seats statutory); 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
@@ -706,7 +706,7 @@ note(s) - women, in service since 1950, are able to serve in all branches, inclu
 250 Lebanon (UNIFIL); 250 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, the ROK has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (Sep 2021)<br>
 
 **Military - note**<br>
-<p>the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of South Korea’s security; the Treaty committed the US to provide assistance in the event of an attack, particularly from North Korea; in addition, the Treaty gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; as of 2021, the US maintained approximately 28,000 military personnel in the country</p> <p>the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>South Korea has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>in 2016, South Korea concluded an agreement with the European Union for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as the EU Naval Force Somalia – Operation Atalanta, which protects maritime shipping and conducts counter-piracy operations off the coast of East Africa</p> <p>South Korea has been engaged with NATO through dialogue and security cooperation since 2005 and is considered by NATO to be a global partner; it has participated in NATO-led missions and exercises, including leading an integrated civilian-military reconstruction team in Afghanistan as part of the NATO-led International Security Assistance Force, 2010-2013; it has also cooperated with NATO in countering the threat of piracy in the Gulf of Aden by providing naval vessels as escorts</p> <p> </p><br>
+<p>the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of South Korea’s security; the Treaty committed the US to provide assistance in the event of an attack, particularly from North Korea; in addition, the Treaty gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; as of 2021, the US maintained approximately 28,000 military personnel in the country</p> <p>the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>South Korea has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>in 2016, South Korea concluded an agreement with the European Union for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as the EU Naval Force Somalia – Operation Atalanta, which protects maritime shipping and conducts counter-piracy operations off the coast of East Africa</p> <p>South Korea has been engaged with NATO through dialogue and security cooperation since 2005 and is considered by NATO to be a global partner; it has participated in NATO-led missions and exercises, including leading an integrated civilian-military reconstruction team in Afghanistan as part of the NATO-led International Security Assistance Force, 2010-2013; it has also cooperated with NATO in countering the threat of piracy in the Gulf of Aden by providing naval vessels as escorts</p> <p>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean corvette, the <em>Cheonan</em>, in 2010, and the bombardment of a South Korean Marine Corps installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the North and the South Korean militaries maintain large numbers of troops<br><br>in 2018, North Korea and South Korea signed a tension reduction agreement known as the Comprehensive Military Agreement (CMA), which established land, sea, and air buffer zones along the DMZ and the NLL; implementation of the CMA required the removal of some land mines and guard posts; the efforts led to a reduction of tension in the DMZ, but as of 2021 North Korea had failed to uphold much of its side of the agreement</p><br>
 
 ## Transnational Issues
 

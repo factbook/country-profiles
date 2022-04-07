@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Most Cambodians consider themselves to be Khmers, descendants of the Angkor Empire that extended over much of Southeast Asia and reached its zenith between the 10th and 13th centuries. Attacks by the Thai and Cham (from present-day Vietnam) weakened the empire, ushering in a long period of decline. The king placed the country under French protection in 1863, and it became part of French Indochina in 1887. Following Japanese occupation in World War II, Cambodia gained full independence from France in 1953. In April 1975, after a seven-year struggle, communist Khmer Rouge forces captured Phnom Penh and evacuated all cities and towns. At least 1.5 million Cambodians died from execution, forced hardships, or starvation during the Khmer Rouge regime under POL POT. A December 1978 Vietnamese invasion drove the Khmer Rouge into the countryside, began a 10-year Vietnamese occupation, and touched off 20 years of civil war.</p> The 1991 Paris Peace Accords mandated democratic elections and a cease-fire, which was not fully respected by the Khmer Rouge. UN-sponsored elections in 1993 helped restore some semblance of normalcy under a coalition government. Factional fighting in 1997 ended the first coalition government, but a second round of national elections in 1998 led to the formation of another coalition government and renewed political stability. The remaining elements of the Khmer Rouge surrendered in early 1999. Some of the surviving Khmer Rouge leaders were tried for crimes against humanity by a hybrid UN-Cambodian tribunal supported by international assistance. In 2018, the tribunal heard its final cases, but it remains in operation to hear appeals. Elections in July 2003 were relatively peaceful, but it took one year of negotiations between contending political parties before a coalition government was formed. In October 2004, King Norodom SIHANOUK abdicated the throne and his son, Prince Norodom SIHAMONI, was selected to succeed him. Local (Commune Council) elections were held in Cambodia in 2012, with little of the violence that preceded prior elections. National elections in July 2013 were disputed, with the opposition - the Cambodia National Rescue Party (CNRP) - boycotting the National Assembly. The political impasse was ended nearly a year later, with the CNRP agreeing to enter parliament in exchange for commitments by the ruling Cambodian People’s Party (CPP) to undertake electoral and legislative reforms. The CNRP made further gains in local commune elections in June 2017, accelerating sitting Prime Minister HUN SEN’s efforts to marginalize the CNRP before national elections in 2018. HUN SEN arrested CNRP President KEM SOKHA in September 2017. The Supreme Court dissolved the CNRP in November 2017 and banned its leaders from participating in politics for at least five years. The CNRP’s seats in the National Assembly were redistributed to smaller, less influential opposition parties, while all of the CNRP’s 5,007 seats in the commune councils throughout the country were reallocated to the CPP. With the CNRP banned, the CPP swept the 2018 national elections, winning all 125 National Assembly seats and effectively turning the country into a one-party state.<br><br>Cambodia has strong and growing economic and political ties with its large neighbor to the north, China. More than 40% of foreign investment in the country in 2019 came from China, and Beijing has provided over $15 billion in financial assistance since the 1990s. The CPP also partly sees Chinese support as a counterbalance to Thailand and Vietnam and to international criticism of the CPP’s human rights and antidemocratic record.<br><br>Cambodia has strong and growing economic and political ties with its large neighbor to the north, China. More than 53% of foreign investment in the country in 2021 came from China, and Beijing has provided over $15 billion in financial assistance since the 1990s. China accounted for 443 percent of Cambodia’s foreign debt in 2021. The CPP also partly sees Chinese support as a counterbalance to Thailand and Vietnam and to international criticism of the CPP’s human rights and antidemocratic record.<br>
+<p>Most Cambodians consider themselves to be Khmers, descendants of the Angkor Empire that extended over much of Southeast Asia and reached its zenith between the 10th and 13th centuries. Attacks by the Thai and Cham (from present-day Vietnam) weakened the empire, ushering in a long period of decline. The king placed the country under French protection in 1863, and it became part of French Indochina in 1887. Following Japanese occupation in World War II, Cambodia gained full independence from France in 1953. In April 1975, after a seven-year struggle, communist Khmer Rouge forces captured Phnom Penh and evacuated all cities and towns. At least 1.5 million Cambodians died from execution, forced hardships, or starvation during the Khmer Rouge regime under POL POT. A December 1978 Vietnamese invasion drove the Khmer Rouge into the countryside, began a 10-year Vietnamese occupation, and touched off 20 years of civil war.</p> The 1991 Paris Peace Accords mandated democratic elections and a cease-fire, which was not fully respected by the Khmer Rouge. UN-sponsored elections in 1993 helped restore some semblance of normalcy under a coalition government. Factional fighting in 1997 ended the first coalition government, but a second round of national elections in 1998 led to the formation of another coalition government and renewed political stability. The remaining elements of the Khmer Rouge surrendered in early 1999. Some of the surviving Khmer Rouge leaders were tried for crimes against humanity by a hybrid UN-Cambodian tribunal supported by international assistance. In 2018, the tribunal heard its final cases, but it remains in operation to hear appeals. Elections in July 2003 were relatively peaceful, but it took one year of negotiations between contending political parties before a coalition government was formed. In October 2004, King Norodom SIHANOUK abdicated the throne and his son, Prince Norodom SIHAMONI, was selected to succeed him. Local (Commune Council) elections were held in Cambodia in 2012, with little of the violence that preceded prior elections. National elections in July 2013 were disputed, with the opposition - the Cambodia National Rescue Party (CNRP) - boycotting the National Assembly. The political impasse was ended nearly a year later, with the CNRP agreeing to enter parliament in exchange for commitments by the ruling Cambodian People’s Party (CPP) to undertake electoral and legislative reforms. The CNRP made further gains in local commune elections in June 2017, accelerating sitting Prime Minister HUN SEN’s efforts to marginalize the CNRP before national elections in 2018. HUN SEN arrested CNRP President KEM SOKHA in September 2017. The Supreme Court dissolved the CNRP in November 2017 and banned its leaders from participating in politics for at least five years. The CNRP’s seats in the National Assembly were redistributed to smaller, less influential opposition parties, while all of the CNRP’s 5,007 seats in the commune councils throughout the country were reallocated to the CPP. With the CNRP banned, the CPP swept the 2018 national elections, winning all 125 National Assembly seats and effectively turning the country into a one-party state.<br><br>Cambodia has strong and growing economic and political ties with its large neighbor to the north, China. More than 53% of foreign investment in the country in 2021 came from China, and Beijing has provided over $15 billion in financial assistance since the 1990s. China accounted for 443 percent of Cambodia’s foreign debt in 2021. The CPP also partly sees Chinese support as a counterbalance to Thailand and Vietnam and to international criticism of the CPP’s human rights and antidemocratic record.<br>
 
 ## Geography
 
@@ -85,7 +85,7 @@ a land of paddies and forests dominated by the Mekong River and Tonle Sap (South
 ## People and Society
 
 **Population**<br>
-17,304,363 (July 2021 est.)<br>
+16,713,015 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Cambodian(s)<br>
@@ -123,7 +123,7 @@ _male_: 25.6 years<br>
 _female_: 27.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.34% (2021 est.)<br>
+1.08% (2022 est.)<br>
 
 **Birth rate**<br>
 19.29 births/1,000 population (2022 est.)<br>
@@ -132,7 +132,7 @@ _female_: 27.2 years (2020 est.)<br>
 5.76 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.29 migrant(s)/1,000 population (2021 est.)<br>
+-2.7 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers<br>
@@ -147,11 +147,11 @@ _rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 0.99 male(s)/female<br>
-_25-54 years_: 0.96 male(s)/female<br>
-_55-64 years_: 0.78 male(s)/female<br>
-_65 years and over_: 0.59 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_15-24 years_: 0.97 male(s)/female<br>
+_25-54 years_: 0.94 male(s)/female<br>
+_55-64 years_: 0.81 male(s)/female<br>
+_65 years and over_: 0.51 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.4 years (2014 est.)<br>
@@ -161,17 +161,17 @@ _total population_: 0.95 male(s)/female (2020 est.)<br>
 160 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 45.62 deaths/1,000 live births<br>
-_male_: 52.46 deaths/1,000 live births<br>
-_female_: 38.47 deaths/1,000 live births (2021 est.)<br>
+_total_: 29.58 deaths/1,000 live births<br>
+_male_: 33.13 deaths/1,000 live births<br>
+_female_: 25.87 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.27 years<br>
-_male_: 63.7 years<br>
-_female_: 68.95 years (2021 est.)<br>
+_total population_: 70.65 years<br>
+_male_: 68.79 years<br>
+_female_: 72.59 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.36 children born/woman (2021 est.)<br>
+2.24 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 56.3% (2014)<br>
@@ -364,7 +364,8 @@ _judge selection and term of office_: Supreme Court and Constitutional Council j
 _subordinate courts_: Appellate Court; provincial and municipal courts; Military Court<br>
 
 **Political parties and leaders**<br>
-Cambodian People's Party or CPP [HUN SEN]<br>National United Front for Independent, Neutral, Peaceful, and Cooperative Cambodia or FUNCINPEC [Prince NORODOM CHAKRAVUTH]<br>League for Democracy Party or LDP [KHEM Veasna]<br>Khmer Will Party [KONG MONIKA]<br>Khmer National Unity Party or KNUP [NHEK BUN CHHAY]<br>Cambodia National Rescue Party or CNRP [KHEM SOKHA] (dissolved by the Cambodian Supreme Court in November 2017; formed from a 2012 merger of the Sam Rangsi Party or SRP and the former Human Rights Party or HRP [KHEM SOKHA, also spelled KEM SOKHA])<br>  (Dec 2021)<br>
+Cambodian People's Party or CPP [HUN SEN]<br>National United Front for Independent, Neutral, Peaceful, and Cooperative Cambodia or FUNCINPEC [Prince NORODOM CHAKRAVUTH]<br>League for Democracy Party or LDP [KHEM Veasna]<br>Khmer Will Party [KONG MONIKA]<br>Khmer National Unity Party or KNUP (an offshoot of FUNCINPEC) [NHEK BUN CHHAY]<br>Candlelight Party or CP (the latest incarnation of the Sam <u>Rainsy</u> Party or SRP and the former Human Rights Party or HRP, which joined to form the Cambodia National Rescue Party or CNRP in 2012; the CNRP was dissolved in 2017)<br><br> <p>Other minor parties that registered for the 2022 commune-level elections included: Cambodia National Love Party, Cambodia Nationality Party, Cambodian Youth Party, Khmer Will Party, Cambodia Reform Party, Kampucheaniyum Party, Grassroots Democratic Party, Khmer United Party, Beehive Social Democratic Party, Cambodia Indigenous People's Democracy Party, Ekpheap Cheat Khmer Party, Reaksmey Khemara Party, Khmer Economic Development Party</p> (March 2022)<br><br>note(s) - following the 2017 commune election, the CPP-led government arrested the CNRP president Kem SOKHA for treason, dissolved the party on similar grounds, and forced most of its senior leadership into exile, where the party’s former president, Sam RAINSY, had been living since late 2015; as of March 2022, a total of 17 political parties had registered to run in the June 2022 commune-level elections, and opposition parties, particularly the Candlelight Party, continued to report, intimidation, harassment, and arrests by the Cambodian Government<br>
+note(s) - following the 2017 commune election, the CPP-led government arrested the CNRP president Kem SOKHA for treason, dissolved the party on similar grounds, and forced most of its senior leadership into exile, where the party&rsquo;s former president, Sam RAINSY, had been living since late 2015; as of March 2022, a total of 17 political parties had registered to run in the June 2022 commune-level elections, and opposition parties, particularly the Candlelight Party, continued to report, intimidation, harassment, and arrests by the Cambodian Government<br>
 
 **International organization participation**<br>
 ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MINUSMA, MIGA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

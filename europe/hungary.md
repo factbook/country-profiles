@@ -79,7 +79,7 @@ landlocked; strategic location astride main land routes between Western Europe a
 ## People and Society
 
 **Population**<br>
-9,728,337 (July 2021 est.)<br>
+9,699,577 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Hungarian(s)<br>
@@ -115,7 +115,7 @@ _male_: 41.5 years<br>
 _female_: 45.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.29% (2021 est.)<br>
+-0.3% (2022 est.)<br>
 
 **Birth rate**<br>
 8.65 births/1,000 population (2022 est.)<br>
@@ -124,7 +124,7 @@ _female_: 45.5 years (2020 est.)<br>
 12.88 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-1.24 migrant(s)/1,000 population (2021 est.)<br>
+1.23 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -141,9 +141,9 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.07 male(s)/female<br>
 _25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.87 male(s)/female<br>
-_65 years and over_: 0.62 male(s)/female<br>
-_total population_: 0.91 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.88 male(s)/female<br>
+_65 years and over_: 0.51 male(s)/female<br>
+_total population_: 0.91 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.3 years (2019 est.)<br>
@@ -152,17 +152,17 @@ _total population_: 0.91 male(s)/female (2020 est.)<br>
 12 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.69 deaths/1,000 live births<br>
-_male_: 5.02 deaths/1,000 live births<br>
-_female_: 4.34 deaths/1,000 live births (2021 est.)<br>
+_total_: 4.62 deaths/1,000 live births<br>
+_male_: 4.95 deaths/1,000 live births<br>
+_female_: 4.27 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.95 years<br>
-_male_: 73.27 years<br>
-_female_: 80.83 years (2021 est.)<br>
+_total population_: 77.2 years<br>
+_male_: 73.55 years<br>
+_female_: 81.06 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.48 children born/woman (2021 est.)<br>
+1.48 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -729,7 +729,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 364,804 (Ukraine) (as of 29 March 2022)<br>
+_refugees (country of origin)_: 398,932 (Ukraine) (as of 5 April 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

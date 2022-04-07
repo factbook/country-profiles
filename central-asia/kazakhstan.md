@@ -83,7 +83,7 @@ world's largest landlocked country and one of only two landlocked countries in t
 ## People and Society
 
 **Population**<br>
-19,245,793 (July 2021 est.)<br>
+19,398,331 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Kazakhstani(s)<br>
@@ -118,7 +118,7 @@ _male_: 30.3 years<br>
 _female_: 32.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.81% (2021 est.)<br>
+0.77% (2022 est.)<br>
 
 **Birth rate**<br>
 15.38 births/1,000 population (2022 est.)<br>
@@ -127,7 +127,7 @@ _female_: 32.8 years (2020 est.)<br>
 8.11 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.39 migrant(s)/1,000 population (2021 est.)<br>
+0.39 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country<br>
@@ -141,12 +141,12 @@ _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 0.94 male(s)/female<br>
-_0-14 years_: 0.96 male(s)/female<br>
+_0-14 years_: 0.94 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
+_25-54 years_: 0.96 male(s)/female<br>
 _55-64 years_: 0.78 male(s)/female<br>
-_65 years and over_: 0.54 male(s)/female<br>
-_total population_: 0.91 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.35 male(s)/female<br>
+_total population_: 0.9 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.9 years (2019 est.)<br>
@@ -155,17 +155,17 @@ _total population_: 0.91 male(s)/female (2020 est.)<br>
 10 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.59 deaths/1,000 live births<br>
-_male_: 22.18 deaths/1,000 live births<br>
-_female_: 17.17 deaths/1,000 live births (2021 est.)<br>
+_total_: 19.18 deaths/1,000 live births<br>
+_male_: 21.73 deaths/1,000 live births<br>
+_female_: 16.79 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.25 years<br>
-_male_: 67.12 years<br>
-_female_: 77.06 years (2021 est.)<br>
+_total population_: 72.53 years<br>
+_male_: 67.43 years<br>
+_female_: 77.31 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.13 children born/woman (2021 est.)<br>
+2.11 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 53% (2018)<br>
@@ -342,7 +342,7 @@ _chief of state_: President Kasym-Zhomart TOKAYEV (since 20 March 2019); note - 
 _head of government_: Prime Minister Alikhan SMAILOV (since 11 January 2022); note - Prime Minister Askar MAMIN resigned on 5 January 2022 in the wake of massive protests of his government that began 2 January 2022 following a sudden, steep rise in gasoline prices<br>
 _cabinet_: the president appoints ministers after consultations with the Chair of the Security Council (NAZARBAYEV) who has veto power over all appointments except for the ministers of defense, internal affairs, and foreign affairs; however, the president is required to discuss these three offices with the National Security Committee, which NAZARBAYEV chairs under a lifetime appointment<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second consecutive term); election last held on 9 June 2019 (next to be held in 2024); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis<br>
-_election results_: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kassym-Jomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
+_election results_: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (49 seats statutory, 48 as of October 2021); 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 351-member, presidentially appointed advisory body designed to represent the country's ethnic minorities)<br>
@@ -355,10 +355,10 @@ _judge selection and term of office_: Supreme Court judges proposed by the presi
 _subordinate courts_: regional and local courts<br>
 
 **Political parties and leaders**<br>
-Ak Zhol (Bright Path) Party or Democratic Party of Kazakhstan Ak Zhol [Azat PERUASHEV]<br>Birlik (Unity) Party [Serik SULTANGALI]<br>National Social Democratic Party or NSDP [Zharmakhan TUYAKBAY]<br>Nur Otan (Radiant Fatherland) Democratic People's Party [Nursultan NAZARBAYEV]<br>People's Democratic (Patriotic) Party "Auyl" [Ali BEKTAYEV]<br>People's Party of Kazakhstan [informal leader Aikyn KONUROV]<br>Ult Tagdyry (Conscience of the Nation)<br>
+Adal [Serik SULTANGALI] (formerly Birlik (Unity) Party)<br>Ak Zhol (Bright Path) Party or Democratic Party of Kazakhstan Ak Zhol [Azat PERUASHEV]<br>Amanat [Kasym-Zhomart TOKAYEV] (formerly Nur Otan (Radiant Fatherland))<br>National Social Democratic Party or NSDP [Zharmakhan TUYAKBAY]<br>People's Democratic (Patriotic) Party "Auyl" [Ali BEKTAYEV]<br>People's Party of Kazakhstan [Aikyn KONUROV]<br>
 
 **International organization participation**<br>
-ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, MINURSO, NAM (observer), NSG, OAS (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC<br>
+ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, MINURSO, NAM (observer), NSG, OAS (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: <p>Ambassador Yerzhan ASHIKBAYEV (since 7 July 2021)</p><br>
@@ -369,9 +369,9 @@ _email address and website_: <br>washington@mfa.kz<br><br>https://www.gov.kz/mem
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador William MOSER (since 27 March 2019)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Judy KUO (since October 2021)<br>
 _embassy_: Rakhymzhan Koshkarbayev Avenue, No. 3, Nur-Sultan 010010<br>
-_mailing address_: 2230 Astana Place, Washington DC&nbsp; 20521-2230<br>
+_mailing address_: 2230 Nur-Sultan Place, Washington DC&nbsp; 20521-2230<br>
 _telephone_: [7] (7172) 70-21-00<br>
 _FAX_: [7] (7172) 54-09-14<br>
 _email address and website_: <br>USAKZ@state.gov<br><br>https://kz.usembassy.gov/<br>
@@ -618,13 +618,13 @@ _total subscriptions_: 25.177 million (2020)<br>
 _subscriptions per 100 inhabitants_: 134.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: one of the most progressive telecom sectors in Central Asia; vast 4G network; low fixed-line and fixed-broadband penetration; moderate mobile broadband penetration and high mobile penetration; mobile market highly competitive and growth is slow due to saturation (2020)<br>
+_general assessment_: one of the most progressive telecom sectors in Central Asia; vast 4G network; low fixed-line and fixed-broadband penetration; moderate mobile broadband penetration and high mobile penetration depending on location; mobile market highly competitive and growth is slow due to saturation (2020)<br>
 _domestic_: intercity by landline and microwave radio relay; number of fixed-line connections is approximately 17 per 100 persons; mobile-cellular subscriber base 134 per 100 persons (2020)<br>
 _international_: country code - 7; international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the TAE fiber-optic cable; satellite earth stations - 2 Intelsat<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-the state owns nearly all radio and TV transmission facilities and operates national TV and radio networks; there are 96 TV channels, many of which are owned by the government, and 4 state-run radio stations; some former state-owned media outlets have been privatized; households with satellite dishes have access to foreign media; a small number of commercial radio stations operate along with state-run radio stations; recent legislation requires all media outlets to register with the government and all TV providers to broadcast in digital format by 2018; broadcasts reach some 99% of the population as well as neighboring countries<br>
+the state owns nearly all radio and TV transmission facilities and operates national TV and radio networks; there are 96 TV channels, many of which are owned by the government, and 4 state-run radio stations; some former state-owned media outlets have been privatized; households with satellite dishes have access to foreign media; a small number of commercial radio stations operate along with state-run radio stations; recent legislation requires all media outlets to register with the government and all TV providers to broadcast in digital format by 2018; broadcasts reach some 99% of the population as well as neighboring countries (2018)<br>
 
 **Internet country code**<br>
 .kz<br>

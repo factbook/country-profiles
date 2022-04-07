@@ -78,7 +78,7 @@ consists of Oman proper and two northern exclaves, Musandam and Al Madhah; the f
 ## People and Society
 
 **Population**<br>
-3,694,755 (July 2021 est.)<br>
+3,764,348 (2022 est.)<br>
 <strong>note:</strong> immigrants make up approximately 46% of the total population (2019)<br>
 
 **Nationality**<br>
@@ -115,7 +115,7 @@ _male_: 27.2 years<br>
 _female_: 25.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.89% (2021 est.)<br>
+1.84% (2022 est.)<br>
 
 **Birth rate**<br>
 22.11 births/1,000 population (2022 est.)<br>
@@ -124,7 +124,7 @@ _female_: 25.1 years (2020 est.)<br>
 3.23 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.44 migrant(s)/1,000 population (2021 est.)<br>
+-0.45 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the population is located in and around the Al Hagar Mountains in the north of the country; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely poplulated<br>
@@ -139,27 +139,27 @@ _rate of urbanization_: 2.32% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.11 male(s)/female<br>
-_25-54 years_: 1.33 male(s)/female<br>
-_55-64 years_: 1.13 male(s)/female<br>
-_65 years and over_: 0.92 male(s)/female<br>
-_total population_: 1.18 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.1 male(s)/female<br>
+_25-54 years_: 1.32 male(s)/female<br>
+_55-64 years_: 1.12 male(s)/female<br>
+_65 years and over_: 0.79 male(s)/female<br>
+_total population_: 1.17 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 19 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.76 deaths/1,000 live births<br>
-_male_: 16.05 deaths/1,000 live births<br>
-_female_: 13.4 deaths/1,000 live births (2021 est.)<br>
+_total_: 14.45 deaths/1,000 live births<br>
+_male_: 15.71 deaths/1,000 live births<br>
+_female_: 13.12 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.64 years<br>
-_male_: 74.69 years<br>
-_female_: 78.68 years (2021 est.)<br>
+_total population_: 76.9 years<br>
+_male_: 74.96 years<br>
+_female_: 78.93 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.73 children born/woman (2021 est.)<br>
+2.7 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.7% (2014)<br>

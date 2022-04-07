@@ -81,7 +81,7 @@ major concentration on the island of Java, which is considered one of the most d
 ## People and Society
 
 **Population**<br>
-275,122,131 (July 2021 est.)<br>
+277,329,163 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Indonesian(s)<br>
@@ -119,7 +119,7 @@ _male_: 30.5 years<br>
 _female_: 31.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.81% (2021 est.)<br>
+0.79% (2022 est.)<br>
 
 **Birth rate**<br>
 15.32 births/1,000 population (2022 est.)<br>
@@ -128,7 +128,7 @@ _female_: 31.8 years (2020 est.)<br>
 6.75 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.72 migrant(s)/1,000 population (2021 est.)<br>
+-0.71 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
@@ -142,12 +142,12 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 0.85 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-24 years_: 1.05 male(s)/female<br>
+_25-54 years_: 0.99 male(s)/female<br>
+_55-64 years_: 0.98 male(s)/female<br>
+_65 years and over_: 0.66 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.4 years (2017 est.)<br>
@@ -157,17 +157,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 177 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 20.16 deaths/1,000 live births<br>
-_male_: 22.59 deaths/1,000 live births<br>
-_female_: 17.6 deaths/1,000 live births (2021 est.)<br>
+_total_: 19.73 deaths/1,000 live births<br>
+_male_: 22.15 deaths/1,000 live births<br>
+_female_: 17.18 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.82 years<br>
-_male_: 70.62 years<br>
-_female_: 75.12 years (2021 est.)<br>
+_total population_: 73.08 years<br>
+_male_: 70.86 years<br>
+_female_: 75.4 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.04 children born/woman (2021 est.)<br>
+2.01 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 55.5% (2018)<br>
@@ -210,7 +210,7 @@ _unimproved: total_: total: 7.5% of population (2020 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 6 October 2021, Indonesia has reported a total of 4,223,094 cases of COVID-19 or 1,543.96 cumulative cases of COVID-19 per 100,000 population with 52.07 cumulative deaths per 100,000 population; as of 5 October 2021, 34.36% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 30 March 2022, Indonesia has reported a total of 6,005,646 cases of COVID-19 or 2,195.66 cumulative cases of COVID-19 per 100,000 population with a total of 154,882 cumulative deaths or a rate 56.62 cumulative deaths per 100,000 population; as of 29 March 2022, 71.01% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.9% (2016)<br>
@@ -279,7 +279,7 @@ _coal revenues_: 1.06% of GDP (2018 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 6 October 2021, Indonesia has reported a total of 4,223,094 cases of COVID-19 or 1,543.96 cumulative cases of COVID-19 per 100,000 population with 52.07 cumulative deaths per 100,000 population; as of 5 October 2021, 34.36% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 30 March 2022, Indonesia has reported a total of 6,005,646 cases of COVID-19 or 2,195.66 cumulative cases of COVID-19 per 100,000 population with a total of 154,882 cumulative deaths or a rate 56.62 cumulative deaths per 100,000 population; as of 29 March 2022, 71.01% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 65.2 million tons (2016 est.)<br>

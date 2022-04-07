@@ -78,7 +78,7 @@ composed of the Jutland Peninsula and a group of more than 400 islands (Danish A
 ## People and Society
 
 **Population**<br>
-5,894,687 (July 2021 est.)<br>
+5,920,767 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Dane(s)<br>
@@ -114,7 +114,7 @@ _male_: 40.9 years<br>
 _female_: 43.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.44% (2021 est.)<br>
+0.44% (2022 est.)<br>
 
 **Birth rate**<br>
 11.22 births/1,000 population (2022 est.)<br>
@@ -123,7 +123,7 @@ _female_: 43.1 years (2020 est.)<br>
 9.52 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-2.74 migrant(s)/1,000 population (2021 est.)<br>
+2.73 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland<br>
@@ -139,10 +139,10 @@ _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
+_25-54 years_: 1.03 male(s)/female<br>
 _55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.7 years (2019 est.)<br>
@@ -151,17 +151,17 @@ _total population_: 0.99 male(s)/female (2020 est.)<br>
 4 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.09 deaths/1,000 live births<br>
-_male_: 3.54 deaths/1,000 live births<br>
-_female_: 2.6 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.04 deaths/1,000 live births<br>
+_male_: 3.49 deaths/1,000 live births<br>
+_female_: 2.56 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.45 years<br>
-_male_: 79.52 years<br>
-_female_: 83.51 years (2021 est.)<br>
+_total population_: 81.66 years<br>
+_male_: 79.74 years<br>
+_female_: 83.71 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.77 children born/woman (2021 est.)<br>
+1.77 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

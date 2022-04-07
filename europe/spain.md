@@ -80,7 +80,7 @@ strategic location along approaches to Strait of Gibraltar; Spain controls a num
 ## People and Society
 
 **Population**<br>
-47,260,584 (July 2021 est.)<br>
+47,163,418 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Spaniard(s)<br>
@@ -116,7 +116,7 @@ _male_: 42.7 years<br>
 _female_: 45.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.03% (2021 est.)<br>
+0.13% (2022 est.)<br>
 
 **Birth rate**<br>
 7.13 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 45.1 years (2020 est.)<br>
 10.22 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-1.39 migrant(s)/1,000 population (2021 est.)<br>
+4.35 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona<br>
@@ -139,13 +139,13 @@ _rate of urbanization_: 0.24% annual rate of change (2020-25 est.)<br>
 6.714 million MADRID (capital), 5.658 million Barcelona, 837,000 Valencia (2022)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.07 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.75 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_at birth_: 1.05 male(s)/female<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-24 years_: 1.04 male(s)/female<br>
+_25-54 years_: 1.01 male(s)/female<br>
+_55-64 years_: 0.95 male(s)/female<br>
+_65 years and over_: 0.66 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.1 years (201 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 4 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.14 deaths/1,000 live births<br>
-_male_: 3.51 deaths/1,000 live births<br>
-_female_: 2.74 deaths/1,000 live births (2021 est.)<br>
+_total_: 2.47 deaths/1,000 live births<br>
+_male_: 2.73 deaths/1,000 live births<br>
+_female_: 2.19 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.21 years<br>
-_male_: 79.22 years<br>
-_female_: 85.39 years (2021 est.)<br>
+_total population_: 82.55 years<br>
+_male_: 79.84 years<br>
+_female_: 85.4 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.51 children born/woman (2021 est.)<br>
+1.27 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.1% (2018)<br>
@@ -208,7 +208,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 6 October 2021, Spain has reported a total of 4,967,200 cases of COVID-19 or 10,494.24 cumulative cases of COVID-19 per 100,000 population with 183 cumulative deaths per 100,000 population; as of 4 October 2021, 80.73% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 30 March 2022, Spain has reported a total of 11,508,309 cases of COVID-19 or 24,313.69 cumulative cases of COVID-19 per 100,000 population with a total of 102,218 cumulative deaths or a rate of 215.95 cumulative deaths per 100,000 population; as of 29 March 2022, 87.99% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 23.8% (2016)<br>
@@ -273,7 +273,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 6 October 2021, Spain has reported a total of 4,967,200 cases of COVID-19 or 10,494.24 cumulative cases of COVID-19 per 100,000 population with 183 cumulative deaths per 100,000 population; as of 4 October 2021, 80.73% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 30 March 2022, Spain has reported a total of 11,508,309 cases of COVID-19 or 24,313.69 cumulative cases of COVID-19 per 100,000 population with a total of 102,218 cumulative deaths or a rate of 215.95 cumulative deaths per 100,000 population; as of 29 March 2022, 87.99% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 20.151 million tons (2015 est.)<br>
@@ -742,7 +742,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 6,.92 (mid-year 2021)<br>
-<strong>note: </strong>256,033 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2022)<br>
+<strong>note: </strong>256,279 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

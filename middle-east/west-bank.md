@@ -77,7 +77,7 @@ landlocked; highlands are main recharge area for Israel's coastal aquifers; ther
 ## People and Society
 
 **Population**<br>
-2,949,246 (July 2021 est.)<br>
+3,000,021 (2022 est.)<br>
 <strong>note:</strong> approximately 432,000 Israeli settlers live in the West Bank (2019); approximately 227,100 Israeli settlers live in East Jerusalem (2019)<br>
 
 **Nationality**<br>
@@ -114,7 +114,7 @@ _male_: 21.7 years<br>
 _female_: 22.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.72% (2021 est.)<br>
+1.69% (2022 est.)<br>
 
 **Birth rate**<br>
 24.42 births/1,000 population (2022 est.)<br>
@@ -123,7 +123,7 @@ _female_: 22.2 years (2020 est.)<br>
 3.4 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--4.16 migrant(s)/1,000 population (2021 est.)<br>
+-4.09 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the most populous Palestinian communities in the West Bank are located in the central ridge and western half of its territory; Jewish settlements are located throughout the West Bank, the most populous in the Seam Zone--between the 1949 Armistice Line and the separation barrier--and around Jerusalem<br>
@@ -139,25 +139,25 @@ _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 1.03 male(s)/female<br>
 _55-64 years_: 1.06 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 1.04 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 27 deaths/100,000 live births (2017 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
-_total_: 15.68 deaths/1,000 live births<br>
-_male_: 18.14 deaths/1,000 live births<br>
-_female_: 13.07 deaths/1,000 live births (2021 est.)<br>
+_total_: 15.29 deaths/1,000 live births<br>
+_male_: 17.68 deaths/1,000 live births<br>
+_female_: 12.76 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.12 years<br>
-_male_: 74.02 years<br>
-_female_: 78.36 years (2021 est.)<br>
+_total population_: 76.38 years<br>
+_male_: 74.29 years<br>
+_female_: 78.6 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.02 children born/woman (2021 est.)<br>
+2.96 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 57.3% (2019/20)<br>
@@ -198,6 +198,9 @@ NA<br>
 
 **HIV/AIDS - deaths**<br>
 NA<br>
+
+**Major infectious diseases**<br>
+<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the West Bank is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Children under the age of 5 years underweight**<br>
 2.1% (2019/20)<br>
@@ -254,6 +257,9 @@ _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
+
+**Major infectious diseases**<br>
+<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the West Bank is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.387 million tons (2016 est.)<br>

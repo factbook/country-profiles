@@ -73,7 +73,7 @@ known as "The Nature Island of the Caribbean" due to its spectacular, lush, and 
 ## People and Society
 
 **Population**<br>
-74,584 (July 2021 est.)<br>
+74,629 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Dominican(s)<br>
@@ -107,7 +107,7 @@ _male_: 34.4 years<br>
 _female_: 35.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.07% (2021 est.)<br>
+0.05% (2022 est.)<br>
 
 **Birth rate**<br>
 13.91 births/1,000 population (2022 est.)<br>
@@ -116,7 +116,7 @@ _female_: 35.5 years (2020 est.)<br>
 8.11 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--5.31 migrant(s)/1,000 population (2021 est.)<br>
+-5.31 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population is mosly clustered along the coast, with roughly a third living in the parish of St. George, in or around the capital of Roseau; the volcanic interior is sparsely populated<br>
@@ -132,23 +132,23 @@ _rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 1.1 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2020 est.)<br>
+_25-54 years_: 1.04 male(s)/female<br>
+_55-64 years_: 1.06 male(s)/female<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.56 deaths/1,000 live births<br>
-_male_: 15.67 deaths/1,000 live births<br>
-_female_: 7.24 deaths/1,000 live births (2021 est.)<br>
+_total_: 11.27 deaths/1,000 live births<br>
+_male_: 15.28 deaths/1,000 live births<br>
+_female_: 7.07 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.96 years<br>
-_male_: 74.99 years<br>
-_female_: 81.09 years (2021 est.)<br>
+_total population_: 78.21 years<br>
+_male_: 75.25 years<br>
+_female_: 81.31 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.02 children born/woman (2021 est.)<br>
+2.02 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

@@ -74,7 +74,7 @@ one of the smallest and most remote countries on Earth; six of the nine coral at
 ## People and Society
 
 **Population**<br>
-11,448 (July 2021 est.)<br>
+11,544 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Tuvaluan(s)<br>
@@ -91,10 +91,10 @@ Protestant 92.4% (Congregational Christian Church of Tuvalu 85.7%, Brethren 3%, 
 
 **Age structure**<br>
 _0-14 years_: 29.42% (male 1,711/female 1,626)<br>
-_15-24 years_: 17.61% (male 1,031/female 966)<br>
+_15-24 years_: 16.55% (male 986/female 925)<br>
 _25-54 years_: 37.17% (male 2,157/female 2,059)<br>
-_55-64 years_: 9.12% (male 427/female 607)<br>
-_65 years and over_: 6.68% (male 289/female 469) (2020 est.)<br>
+_55-64 years_: 9.25% (male 451/female 617)<br>
+_65 years and over_: 7.21% (male 307/female 525) (2022 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -108,7 +108,7 @@ _male_: 25.6 years<br>
 _female_: 27.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.85% (2021 est.)<br>
+0.83% (2022 est.)<br>
 
 **Birth rate**<br>
 22.7 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 27.6 years (2020 est.)<br>
 7.97 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--6.46 migrant(s)/1,000 population (2021 est.)<br>
+-6.41 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 over half of the population resides on the atoll of Funafuti<br>
@@ -133,23 +133,23 @@ _rate of urbanization_: 2.08% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 0.7 male(s)/female<br>
-_65 years and over_: 0.62 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_25-54 years_: 1.02 male(s)/female<br>
+_55-64 years_: 0.73 male(s)/female<br>
+_65 years and over_: 0.53 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.52 deaths/1,000 live births<br>
-_male_: 33.2 deaths/1,000 live births<br>
-_female_: 25.66 deaths/1,000 live births (2021 est.)<br>
+_total_: 28.92 deaths/1,000 live births<br>
+_male_: 32.55 deaths/1,000 live births<br>
+_female_: 25.09 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 68.07 years<br>
-_male_: 65.67 years<br>
-_female_: 70.59 years (2021 est.)<br>
+_total population_: 68.38 years<br>
+_male_: 65.96 years<br>
+_female_: 70.92 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.86 children born/woman (2021 est.)<br>
+2.83 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

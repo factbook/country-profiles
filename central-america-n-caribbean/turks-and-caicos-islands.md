@@ -72,7 +72,7 @@ include eight large islands and numerous smaller cays, islets, and reefs; only t
 ## People and Society
 
 **Population**<br>
-57,196 (July 2021 est.)<br>
+58,286 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: none<br>
@@ -106,7 +106,7 @@ _male_: 34.9 years<br>
 _female_: 34.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.91% (2021 est.)<br>
+1.86% (2022 est.)<br>
 
 **Birth rate**<br>
 13.54 births/1,000 population (2022 est.)<br>
@@ -115,7 +115,7 @@ _female_: 34.4 years (2020 est.)<br>
 3.5 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-8.74 migrant(s)/1,000 population (2021 est.)<br>
+8.58 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 eight of the thirty islands are inhabited; the island of Providenciales is the most populated, but the most densely populated is Grand Turk<br>
@@ -130,24 +130,24 @@ _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 1.11 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.01 male(s)/female<br>
+_25-54 years_: 1 male(s)/female<br>
+_55-64 years_: 1.1 male(s)/female<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.87 deaths/1,000 live births<br>
-_male_: 14.9 deaths/1,000 live births<br>
-_female_: 8.69 deaths/1,000 live births (2021 est.)<br>
+_total_: 11.59 deaths/1,000 live births<br>
+_male_: 14.54 deaths/1,000 live births<br>
+_female_: 8.5 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.6 years<br>
-_male_: 77.84 years<br>
-_female_: 83.51 years (2021 est.)<br>
+_total population_: 80.82 years<br>
+_male_: 78.07 years<br>
+_female_: 83.71 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.7 children born/woman (2021 est.)<br>
+1.7 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

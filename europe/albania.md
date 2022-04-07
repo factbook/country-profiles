@@ -80,7 +80,7 @@ strategic location along Strait of Otranto (links Adriatic Sea to Ionian Sea and
 ## People and Society
 
 **Population**<br>
-3,088,385 (July 2021 est.)<br>
+3,095,344 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Albanian(s)<br>
@@ -117,7 +117,7 @@ _male_: 32.9 years<br>
 _female_: 35.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.24% (2021 est.)<br>
+0.22% (2022 est.)<br>
 
 **Birth rate**<br>
 12.69 births/1,000 population (2022 est.)<br>
@@ -126,7 +126,7 @@ _female_: 35.7 years (2020 est.)<br>
 7.31 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--3.24 migrant(s)/1,000 population (2021 est.)<br>
+-3.23 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution, with somewhat higher concentrations of people in the western and central parts of the country<br>
@@ -139,13 +139,13 @@ _rate of urbanization_: 1.29% annual rate of change (2020-25 est.)<br>
 512,000 TIRANA (capital) (2022)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.08 male(s)/female<br>
-_0-14 years_: 1.11 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 0.93 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.87 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_at birth_: 1.07 male(s)/female<br>
+_0-14 years_: 1.1 male(s)/female<br>
+_15-24 years_: 1.11 male(s)/female<br>
+_25-54 years_: 0.92 male(s)/female<br>
+_55-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.66 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.8 years (2019 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 15 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.1 deaths/1,000 live births<br>
-_male_: 12.15 deaths/1,000 live births<br>
-_female_: 9.96 deaths/1,000 live births (2021 est.)<br>
+_total_: 10.82 deaths/1,000 live births<br>
+_male_: 11.85 deaths/1,000 live births<br>
+_female_: 9.71 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.23 years<br>
-_male_: 76.55 years<br>
-_female_: 82.12 years (2021 est.)<br>
+_total population_: 79.47 years<br>
+_male_: 76.8 years<br>
+_female_: 82.33 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.53 children born/woman (2021 est.)<br>
+1.54 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 46% (2017/18)<br>
@@ -348,7 +348,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the High
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized courts: Court for Corruption and Organized Crime, Appeals Court for Corruption and Organized Crime (responsible for corruption, organized crime, and crimes of high officials)<br>
 
 **Political parties and leaders**<br>
-Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD [Lulzim BASHA]<br>Party for Justice, Integration and Unity or PDIU [Shpetim IDRIZI] (part of the Alliance for Change; formerly part of APMI)<br>Social Democratic Party or PSD [Tom DOSHI]<br>Socialist Movement for Integration or LSI [Monika KRYEMADHI]<br>Socialist Party or PS [Edi RAMA]<br>
+Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD [Enkelejd ALIBEAJ, interim leader]<br>Party for Justice, Integration and Unity or PDIU [Shpetim IDRIZI] (part of the Alliance for Change; formerly part of APMI)<br>Social Democratic Party or PSD [Tom DOSHI]<br>Socialist Movement for Integration or LSI [Monika KRYEMADHI]<br>Socialist Party or PS [Edi RAMA]<br>
 
 **International organization participation**<br>
 BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -690,7 +690,7 @@ the Albanian military was previously equipped with mostly Soviet-era weapons tha
 note - as of 2020, women comprised about 14% of the military's full-time personnel, including 20% of the officers<br>
 
 **Military - note**<br>
-Albania officially became a member of NATO in 2009<br>
+Albania officially became a member of NATO in 2009; Greece and Italy provide NATO's air policing mission for Albania&nbsp;<br>
 
 ## Terrorism
 

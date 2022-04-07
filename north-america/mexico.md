@@ -89,7 +89,7 @@ most of the population is found in the middle of the country between the states 
 ## People and Society
 
 **Population**<br>
-130,207,371 (July 2021 est.)<br>
+129,150,971 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Mexican(s)<br>
@@ -125,7 +125,7 @@ _male_: 28.2 years<br>
 _female_: 30.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.04% (2021 est.)<br>
+0.51% (2022 est.)<br>
 
 **Birth rate**<br>
 13.55 births/1,000 population (2022 est.)<br>
@@ -134,7 +134,7 @@ _female_: 30.4 years (2020 est.)<br>
 7.71 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.46 migrant(s)/1,000 population (2021 est.)<br>
+-0.76 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City<br>
@@ -149,11 +149,11 @@ _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.94 male(s)/female<br>
+_15-24 years_: 1.09 male(s)/female<br>
+_25-54 years_: 0.91 male(s)/female<br>
 _55-64 years_: 0.84 male(s)/female<br>
-_65 years and over_: 0.8 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.3 years (2008 est.)<br>
@@ -162,17 +162,17 @@ _total population_: 0.96 male(s)/female (2020 est.)<br>
 33 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.64 deaths/1,000 live births<br>
-_male_: 13.18 deaths/1,000 live births<br>
-_female_: 10.02 deaths/1,000 live births (2021 est.)<br>
+_total_: 11.86 deaths/1,000 live births<br>
+_male_: 13.11 deaths/1,000 live births<br>
+_female_: 10.55 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.94 years<br>
-_male_: 74.15 years<br>
-_female_: 79.87 years (2021 est.)<br>
+_total population_: 72.32 years<br>
+_male_: 68.93 years<br>
+_female_: 75.88 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.17 children born/woman (2021 est.)<br>
+1.68 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73.1% (2018)<br>
@@ -215,7 +215,7 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Mexico has reported a total of 3,684,242 cases of COVID-19 or 2,857.49 cumulative cases of COVID-19 per 100,000 population with 216.47 cumulative deaths per 100,000 population; as of 2 October 2021, 49.38% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Mexico has reported a total of 5,651,553 cases of COVID-19 or 4,383.33 cumulative cases of COVID-19 per 100,000 population with a total of 322,761 cumulative deaths or a rate of 250.33 cumulative deaths per 100,000 population; as of 29 March 2022, 65.70% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.9% (2016)<br>
@@ -282,7 +282,7 @@ _coal revenues_: 0.03% of GDP (2018 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Mexico has reported a total of 3,684,242 cases of COVID-19 or 2,857.49 cumulative cases of COVID-19 per 100,000 population with 216.47 cumulative deaths per 100,000 population; as of 2 October 2021, 49.38% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Mexico has reported a total of 5,651,553 cases of COVID-19 or 4,383.33 cumulative cases of COVID-19 per 100,000 population with a total of 322,761 cumulative deaths or a rate of 250.33 cumulative deaths per 100,000 population; as of 29 March 2022, 65.70% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 53.1 million tons (2015 est.)<br>

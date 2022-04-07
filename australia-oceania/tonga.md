@@ -73,7 +73,7 @@ the western islands (making up the Tongan Volcanic Arch) are all of volcanic ori
 ## People and Society
 
 **Population**<br>
-105,780 (July 2021 est.)<br>
+105,517 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Tongan(s)<br>
@@ -108,7 +108,7 @@ _male_: 23.6 years<br>
 _female_: 24.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.23% (2021 est.)<br>
+-0.26% (2022 est.)<br>
 
 **Birth rate**<br>
 20.31 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 24.5 years (2020 est.)<br>
 4.95 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--17.96 migrant(s)/1,000 population (2021 est.)<br>
+-18.01 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 over two-thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied<br>
@@ -134,9 +134,9 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-24 years_: 1.05 male(s)/female<br>
 _25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 1.04 male(s)/female<br>
-_65 years and over_: 0.81 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_55-64 years_: 1.06 male(s)/female<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.9 years (2012 est.)<br>
@@ -146,17 +146,17 @@ _total population_: 1.01 male(s)/female (2020 est.)<br>
 52 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.73 deaths/1,000 live births<br>
-_male_: 13.77 deaths/1,000 live births<br>
-_female_: 11.65 deaths/1,000 live births (2021 est.)<br>
+_total_: 12.41 deaths/1,000 live births<br>
+_male_: 13.43 deaths/1,000 live births<br>
+_female_: 11.37 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.29 years<br>
-_male_: 75.63 years<br>
-_female_: 78.99 years (2021 est.)<br>
+_total population_: 77.53 years<br>
+_male_: 75.89 years<br>
+_female_: 79.23 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.81 children born/woman (2021 est.)<br>
+2.76 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 29.3% (2019)<br>

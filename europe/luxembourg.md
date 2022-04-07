@@ -76,7 +76,7 @@ landlocked; the only grand duchy in the world<br>
 ## People and Society
 
 **Population**<br>
-639,589 (July 2021 est.)<br>
+650,364 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Luxembourger(s)<br>
@@ -111,7 +111,7 @@ _male_: 38.9 years<br>
 _female_: 40 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.7% (2021 est.)<br>
+1.64% (2022 est.)<br>
 
 **Birth rate**<br>
 11.61 births/1,000 population (2022 est.)<br>
@@ -120,7 +120,7 @@ _female_: 40 years (2020 est.)<br>
 7.21 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-12.65 migrant(s)/1,000 population (2021 est.)<br>
+12.01 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most people live in the south, on or near the border with France<br>
@@ -137,9 +137,9 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.05 male(s)/female<br>
 _25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 0.82 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2020 est.)<br>
+_55-64 years_: 1.06 male(s)/female<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.1 years (2019 est.)<br>
@@ -148,17 +148,17 @@ _total population_: 1.02 male(s)/female (2020 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.3 deaths/1,000 live births<br>
-_male_: 3.7 deaths/1,000 live births<br>
-_female_: 2.87 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.25 deaths/1,000 live births<br>
+_male_: 3.65 deaths/1,000 live births<br>
+_female_: 2.83 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.78 years<br>
-_male_: 80.31 years<br>
-_female_: 85.39 years (2021 est.)<br>
+_total population_: 82.98 years<br>
+_male_: 80.52 years<br>
+_female_: 85.58 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.63 children born/woman (2021 est.)<br>
+1.63 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -682,7 +682,7 @@ the inventory of Luxembourg's Army is a small mix of Western-origin equipment; s
 note - as of 2019, women made up about 8% of the military's full-time personnel<br>
 
 **Military - note**<br>
-Luxembourg is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
+Luxembourg is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries</p><br>
 
 ## Transnational Issues
 

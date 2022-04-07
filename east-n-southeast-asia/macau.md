@@ -68,7 +68,7 @@ essentially urban; an area of land reclaimed from the sea measuring 5.2 sq km an
 ## People and Society
 
 **Population**<br>
-630,396 (July 2021 est.)<br>
+635,293 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Chinese<br>
@@ -103,7 +103,7 @@ _male_: 40.7 years<br>
 _female_: 40.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.79% (2021 est.)<br>
+0.75% (2022 est.)<br>
 
 **Birth rate**<br>
 9.11 births/1,000 population (2022 est.)<br>
@@ -112,7 +112,7 @@ _female_: 40.9 years (2020 est.)<br>
 4.72 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-3.17 migrant(s)/1,000 population (2021 est.)<br>
+3.15 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population fairly equally distributed<br>
@@ -123,25 +123,25 @@ _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.12 male(s)/female<br>
-_25-54 years_: 0.81 male(s)/female<br>
-_55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.88 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-24 years_: 1.11 male(s)/female<br>
+_25-54 years_: 0.83 male(s)/female<br>
+_55-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 0.9 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.69 deaths/1,000 live births<br>
-_male_: 4.77 deaths/1,000 live births<br>
-_female_: 4.6 deaths/1,000 live births (2021 est.)<br>
+_total_: 4.59 deaths/1,000 live births<br>
+_male_: 4.68 deaths/1,000 live births<br>
+_female_: 4.5 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 84.81 years<br>
-_male_: 81.89 years<br>
-_female_: 87.86 years (2021 est.)<br>
+_total population_: 84.98 years<br>
+_male_: 82.09 years<br>
+_female_: 88.02 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.21 children born/woman (2021 est.)<br>
+1.22 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

@@ -75,7 +75,7 @@ strategic location near major Indian Ocean sea lanes; Adam's Bridge is a chain o
 ## People and Society
 
 **Population**<br>
-23,044,123 (July 2021 est.)<br>
+23,187,516 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Sri Lankan(s)<br>
@@ -110,7 +110,7 @@ _male_: 32.3 years<br>
 _female_: 35.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.63% (2021 est.)<br>
+0.61% (2022 est.)<br>
 
 **Birth rate**<br>
 13.8 births/1,000 population (2022 est.)<br>
@@ -119,7 +119,7 @@ _female_: 35.1 years (2020 est.)<br>
 6.49 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.24 migrant(s)/1,000 population (2021 est.)<br>
+-1.22 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the population is primarily concentrated within a broad wet zone in the southwest, urban centers along the eastern coast, and on the Jaffna Peninsula in the north<br>
@@ -137,8 +137,8 @@ _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 0.97 male(s)/female<br>
 _55-64 years_: 0.86 male(s)/female<br>
-_65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.61 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.6 years (2016 est.)<br>
@@ -148,17 +148,17 @@ _total population_: 0.95 male(s)/female (2020 est.)<br>
 36 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.36 deaths/1,000 live births<br>
-_male_: 9.35 deaths/1,000 live births<br>
-_female_: 7.34 deaths/1,000 live births (2021 est.)<br>
+_total_: 8.2 deaths/1,000 live births<br>
+_male_: 9.18 deaths/1,000 live births<br>
+_female_: 7.18 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.75 years<br>
-_male_: 74.31 years<br>
-_female_: 81.33 years (2021 est.)<br>
+_total population_: 78 years<br>
+_male_: 74.57 years<br>
+_female_: 81.56 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2 children born/woman (2021 est.)<br>
+1.98 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 64.6% (2016)<br>

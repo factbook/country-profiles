@@ -75,7 +75,7 @@ strategic location along Strait of Malacca and southern South China Sea<br>
 ## People and Society
 
 **Population**<br>
-33,519,406 (July 2021 est.)<br>
+33,871,431 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Malaysian(s)<br>
@@ -113,7 +113,7 @@ _male_: 28.9 years<br>
 _female_: 29.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.06% (2021 est.)<br>
+1.03% (2022 est.)<br>
 
 **Birth rate**<br>
 14.55 births/1,000 population (2022 est.)<br>
@@ -122,7 +122,7 @@ _female_: 29.6 years (2020 est.)<br>
 5.69 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-1.49 migrant(s)/1,000 population (2021 est.)<br>
+1.48 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 a highly uneven distribution with over 80% of the population residing on the Malay Peninsula<br>
@@ -137,27 +137,27 @@ _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 1.03 male(s)/female<br>
-_65 years and over_: 0.9 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.05 male(s)/female<br>
+_25-54 years_: 1.07 male(s)/female<br>
+_55-64 years_: 1 male(s)/female<br>
+_65 years and over_: 1.14 male(s)/female<br>
+_total population_: 1.05 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 29 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.7 deaths/1,000 live births<br>
-_male_: 7.08 deaths/1,000 live births<br>
-_female_: 6.3 deaths/1,000 live births (2021 est.)<br>
+_total_: 6.59 deaths/1,000 live births<br>
+_male_: 6.97 deaths/1,000 live births<br>
+_female_: 6.19 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.87 years<br>
-_male_: 74.24 years<br>
-_female_: 77.62 years (2021 est.)<br>
+_total population_: 76.13 years<br>
+_male_: 74.5 years<br>
+_female_: 77.87 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.76 children born/woman (2021 est.)<br>
+1.75 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 52.2% (2014)<br>

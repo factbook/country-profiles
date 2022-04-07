@@ -86,7 +86,7 @@ strategic location on Shatt al Arab waterway and at the head of the Persian Gulf
 ## People and Society
 
 **Population**<br>
-39,650,145 (July 2021 est.)<br>
+40,462,701 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Iraqi(s)<br>
@@ -123,7 +123,7 @@ _male_: 20.8 years<br>
 _female_: 21.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.06% (2021 est.)<br>
+2% (2022 est.)<br>
 
 **Birth rate**<br>
 24.7 births/1,000 population (2022 est.)<br>
@@ -132,7 +132,7 @@ _female_: 21.6 years (2020 est.)<br>
 3.9 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.68 migrant(s)/1,000 population (2021 est.)<br>
+-0.83 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population is concentrated in the north, center, and eastern parts of the country, with many of the larger urban agglomerations found along extensive parts of the Tigris and Euphrates Rivers; much of the western and southern areas are either lightly populated or uninhabited<br>
@@ -147,27 +147,27 @@ _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.03 male(s)/female<br>
+_15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.8 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.65 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 79 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 20.08 deaths/1,000 live births<br>
-_male_: 21.84 deaths/1,000 live births<br>
-_female_: 18.24 deaths/1,000 live births (2021 est.)<br>
+_total_: 19.62 deaths/1,000 live births<br>
+_male_: 21.34 deaths/1,000 live births<br>
+_female_: 17.83 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.9 years<br>
-_male_: 71.01 years<br>
-_female_: 74.89 years (2021 est.)<br>
+_total population_: 73.18 years<br>
+_male_: 71.3 years<br>
+_female_: 75.15 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.32 children born/woman (2021 est.)<br>
+3.25 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 52.8% (2018)<br>
@@ -209,7 +209,7 @@ NA<br>
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 6 October 2021, Iraq has reported a total of 2,014,104 cases of COVID-19 or 5,007.41 cumulative cases of COVID-19 per 100,000 population with 55.74 cumulative deaths per 100,000 population; as of 26 September 2021, 11.35% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 30 March 2022, Iraq has reported a total of 2,318,865 cases of COVID-19 or 5,765.09 cumulative cases of COVID-19 per 100,000 population with a total of 25,160 cumulative deaths or a rate of 62.55 cumulative deaths per 100,000 population; as of 29 March 2022, 24.93% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 30.4% (2016)<br>
@@ -269,7 +269,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 6 October 2021, Iraq has reported a total of 2,014,104 cases of COVID-19 or 5,007.41 cumulative cases of COVID-19 per 100,000 population with 55.74 cumulative deaths per 100,000 population; as of 26 September 2021, 11.35% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 30 March 2022, Iraq has reported a total of 2,318,865 cases of COVID-19 or 5,765.09 cumulative cases of COVID-19 per 100,000 population with a total of 25,160 cumulative deaths or a rate of 62.55 cumulative deaths per 100,000 population; as of 29 March 2022, 24.93% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to civil conflict, low oil prices, and economic slowdown - the 2021 Humanitarian Needs Overview (HNO) for Iraq identified 4.1 million people in need, of which 2.4 million have acute humanitarian needs; while the number of people in need remained similar to the previous year, the severity of those needs increased, largely due to the impact of the COVID‑19 pandemic on top of an existing humanitarian crisis, leading to a 35% increase in the number of people in acute need; more than half of these are concentrated in the governorates of Nineveh and Anbar; the number of severely food insecure people is estimated at about 435,000, while 731,000 are vulnerable to food insecurity (2021)<br>
@@ -720,7 +720,7 @@ the Iraqi military inventory is comprised of a mix of equipment from a wide vari
 note - in late 2021, the Iraqi Government approved a draft conscription law for the Council of Representatives to debate<br>
 
 **Military - note**<br>
-<p>as of early 2022, Iraqi security forces (ISF) continued to conduct counterinsurgency and counter-terrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq; Kurdish Security Forces (KSF, aka Peshmerga) also conducted operations against ISIS<br><br>the KSF are formally recognized as a legitimate Iraqi military force under the country’s constitution and have operated jointly with the Iraqi military against ISIS militants, but they also operate outside of Iraqi military command structure; in mid-2021, the KSF and ISF conducted a joint counter-ISIS operation in an area known as the Kurdistan Coordination Line, a swath of disputed territory in northern Iraq claimed by both the Kurdistan Regional Government and the central Iraqi Government; the KSF/Peshmerga report to the Kurdistan Regional Government or Kurdistan Democratic Party and Patriotic Union of Kurdistan parties instead of the Iraqi Ministry of Defense<br><br>Popular Mobilization Commission and Affiliated Forces (PMF or PMC), also known as Popular Mobilization Units (PMU, or al-Hashd al-Sha’abi in Arabic), tribal militia units have fought alongside the Iraqi military against ISIS since 2014, but the majority of these forces continue to largely ignore the 2016 Law of the Popular Mobilization Authority, which mandated that armed militias must be regulated in a fashion similar to Iraq’s other security forces and act under the Iraqi Government’s direct control; the Iraqi prime minister legally commands the PMF, but most of the militia brigades take orders from associated political parties and/or other government officials, including some with ties to the Iranian Revolutionary Guard Corps (IRGC) and two that have been designated as terrorist organizations by the US; the PMF/PMU is an umbrella organization comprised of many different militias, the majority of which are Shia; there are typically three types of Shia militia:</p> <p>--militias backed by Iran, particularly the IRGC; they are considered the most active and capable, and include such groups as the Badr Organization, Asaib Ahl al-Haq, and Kataib Hizballah</p> <p>--militias affiliated with Shia political parties, but not aligned with Iran, such as Moqtada al-SADR's Saray al-Salam (Peace Brigades)</p> <p>--militias not connected with political parties, but affiliated with the Najaf-based Grand Ayatollah Ali al-SISTANI (Iraq’s supreme Shia cleric), such as the Hawza militias</p> <p>other PMF/PMU militias include Tribal Mobilization militias, or Hashd al-Asha’iri, which are composed of fighters from Sunni tribes; some of these militias take orders from the ISF and local authorities while others respond to orders from the larger Shia PMU militias; still other militias include Yazidi and Christian militias and the Turkmen brigades; the links of these forces to the PMU is not always clear-cut and may be loosely based on financial, legal, or political incentives</p> <p>at the request of the Iraqi government, NATO agreed to establish an advisory, training and capacity-building mission in Iraq in October 2018 to help Iraqi forces in their fight against ISIS; NATO Mission Iraq (NMI) currently has about 500 troops, but in February 2021 NATO announced it would increase the presence to about 4,000, although no timeframe was given</p> (2021)<br>
+<p>as of early 2022, Iraqi security forces (ISF) continued to conduct counterinsurgency and counter-terrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq; Kurdish Security Forces (KSF, aka Peshmerga) also conducted operations against ISIS<br><br>the KSF are formally recognized as a legitimate Iraqi military force under the country’s constitution and have operated jointly with the Iraqi military against ISIS militants, but they also operate outside of Iraqi military command structure; in late 2021, the ISF and the KSF signed an agreement to establish a Joint Force Brigade that would provide security in a disputed area known as the Kurdish Coordination Line (KCL); the KSF/Peshmerga report to the Kurdistan Regional Government or Kurdistan Democratic Party and Patriotic Union of Kurdistan parties instead of the Iraqi Ministry of Defense<br><br>Popular Mobilization Commission and Affiliated Forces (PMF or PMC), also known as Popular Mobilization Units (PMU, or al-Hashd al-Sha’abi in Arabic), tribal militia units have fought alongside the Iraqi military against ISIS since 2014, but the majority of these forces continue to largely ignore the 2016 Law of the Popular Mobilization Authority, which mandated that armed militias must be regulated in a fashion similar to Iraq’s other security forces and act under the Iraqi Government’s direct control; the Iraqi prime minister legally commands the PMF, but most of the militia brigades take orders from associated political parties and/or other government officials, including some with ties to the Iranian Revolutionary Guard Corps (IRGC) and two that have been designated as terrorist organizations by the US; the PMF/PMU is an umbrella organization comprised of many different militias, the majority of which are Shia; there are typically three types of Shia militia:</p> <p>--militias backed by Iran, particularly the IRGC; they are considered the most active and capable, and include such groups as the Badr Organization, Asaib Ahl al-Haq, and Kataib Hizballah</p> <p>--militias affiliated with Shia political parties, but not aligned with Iran, such as Moqtada al-SADR's Saray al-Salam (Peace Brigades)</p> <p>--militias not connected with political parties, but affiliated with the Najaf-based Grand Ayatollah Ali al-SISTANI (Iraq’s supreme Shia cleric), such as the Hawza militias</p> <p>other PMF/PMU militias include Tribal Mobilization militias, or Hashd al-Asha’iri, which are composed of fighters from Sunni tribes; some of these militias take orders from the ISF and local authorities while others respond to orders from the larger Shia PMU militias; still other militias include Yazidi and Christian militias and the Turkmen brigades; the links of these forces to the PMU is not always clear-cut and may be loosely based on financial, legal, or political incentives</p> <p>at the request of the Iraqi government, NATO agreed to establish an advisory, training and capacity-building mission in Iraq in October 2018 to help Iraqi forces in their fight against ISIS; NATO Mission Iraq (NMI) currently has about 500 troops, but in February 2021 NATO announced it would increase the presence to about 4,000, although no timeframe was given</p> (2021)<br>
 
 ## Terrorism
 

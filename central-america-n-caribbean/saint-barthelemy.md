@@ -51,7 +51,7 @@ a 1,200-hectare marine nature reserve, the Reserve Naturelle, is made up of five
 ## People and Society
 
 **Population**<br>
-7,116 (July 2021 est.)<br>
+7,103 (2022 est.)<br>
 
 **Ethnic groups**<br>
 French, Portuguese, Caribbean, Afro-Caribbean<br>
@@ -64,11 +64,11 @@ _major-language sample(s)_: <br>The World Factbook, une source indispensable d'i
 Roman Catholic, Protestant, Jehovah's Witnesses<br>
 
 **Age structure**<br>
-_0-14 years_: 15.16% (male 555/female 525)<br>
-_15-24 years_: 7.34% (male 275/female 248)<br>
+_0-14 years_: 14.36% (male 524/female 496)<br>
+_15-24 years_: 7.29% (male 272/female 246)<br>
 _25-54 years_: 41.86% (male 1,618/female 1,363)<br>
-_55-64 years_: 16.29% (male 630/female 530)<br>
-_65 years and over_: 19.35% (male 690/female 688) (2020 est.)<br>
+_55-64 years_: 16.43% (male 632/female 535)<br>
+_65 years and over_: 21.17% (male 753/female 751) (2022 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -82,7 +82,7 @@ _male_: 45.5 years<br>
 _female_: 45.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.2% (2021 est.)<br>
+-0.16% (2022 est.)<br>
 
 **Birth rate**<br>
 9.29 births/1,000 population (2022 est.)<br>
@@ -91,7 +91,7 @@ _female_: 45.8 years (2020 est.)<br>
 9.01 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--2.39 migrant(s)/1,000 population (2021 est.)<br>
+-1.83 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the populace concentrated in and around the capital of Gustavia, but scattered settlements exist around the island periphery<br>
@@ -99,24 +99,24 @@ most of the populace concentrated in and around the capital of Gustavia, but sca
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.11 male(s)/female<br>
+_15-24 years_: 1.09 male(s)/female<br>
 _25-54 years_: 1.19 male(s)/female<br>
-_55-64 years_: 1.19 male(s)/female<br>
-_65 years and over_: 1 male(s)/female<br>
-_total population_: 1.12 male(s)/female (2020 est.)<br>
+_55-64 years_: 1.18 male(s)/female<br>
+_65 years and over_: 0.85 male(s)/female<br>
+_total population_: 1.12 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.85 deaths/1,000 live births<br>
-_male_: 8 deaths/1,000 live births<br>
-_female_: 5.65 deaths/1,000 live births (2021 est.)<br>
+_total_: 6.71 deaths/1,000 live births<br>
+_male_: 7.85 deaths/1,000 live births<br>
+_female_: 5.53 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 80.36 years<br>
-_male_: 77.24 years<br>
-_female_: 83.6 years (2021 est.)<br>
+_total population_: 80.58 years<br>
+_male_: 77.48 years<br>
+_female_: 83.81 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.64 children born/woman (2021 est.)<br>
+1.64 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -206,10 +206,10 @@ see France<br>
 
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by Prefect Vincent BERTON (since 28 March 2022)<br>
-_head of government_: President of Territorial Council Bruno MAGRAS (since 16 July 2007)<br>
+_head of government_: President of Territorial Council Xavier LEDEE (since 3 April 2022)<br>
 _cabinet_: Executive Council elected by the Territorial Council; note - there is also an advisory, economic, social, and cultural council<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prefect appointed by the French president on the advice of French Ministry of Interior; president of Territorial Council indirectly elected by its members for a 5-year term; election last held on 2 April 2017 (next to be held in 2022)<br>
-_election results_: Bruno MAGRAS (SBA) reelected president; Territorial Council vote - NA<br>
+_election results_: Xavier LEDEE (Saint Barth United) elected president; Territorial Council vote - 13 votes for, 6 blank votes<br>
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Council (19 seats; members elected by absolute majority vote in the first round vote and proportional representation vote in the second round; members serve 5-year terms); Saint Barthelemy indirectly elects 1 senator to the French Senate by an electoral college for a 6-year term and directly elects 1 deputy (shared with Saint Martin) to the French National Assembly<br>

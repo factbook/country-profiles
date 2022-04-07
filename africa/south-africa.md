@@ -86,7 +86,7 @@ South Africa completely surrounds Lesotho and almost completely surrounds Eswati
 ## People and Society
 
 **Population**<br>
-56,978,635 (July 2021 est.)<br>
+57,516,665 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -126,7 +126,7 @@ _male_: 27.9 years<br>
 _female_: 28.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.95% (2021 est.)<br>
+0.93% (2022 est.)<br>
 
 **Birth rate**<br>
 18.56 births/1,000 population (2022 est.)<br>
@@ -135,7 +135,7 @@ _female_: 28.1 years (2020 est.)<br>
 9.26 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.12 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the population concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densly populated than the west as shown in this population distribution map<br>
@@ -150,27 +150,27 @@ _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1 male(s)/female<br>
-_15-24 years_: 0.97 male(s)/female<br>
+_15-24 years_: 0.98 male(s)/female<br>
 _25-54 years_: 1.02 male(s)/female<br>
 _55-64 years_: 0.87 male(s)/female<br>
-_65 years and over_: 0.72 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.58 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 119 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 26.82 deaths/1,000 live births<br>
-_male_: 29.9 deaths/1,000 live births<br>
-_female_: 23.68 deaths/1,000 live births (2021 est.)<br>
+_total_: 25.87 deaths/1,000 live births<br>
+_male_: 28.86 deaths/1,000 live births<br>
+_female_: 22.82 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.04 years<br>
-_male_: 63.68 years<br>
-_female_: 66.42 years (2021 est.)<br>
+_total population_: 65.32 years<br>
+_male_: 63.99 years<br>
+_female_: 66.68 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.2 children born/woman (2021 est.)<br>
+2.18 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 54.6% (2016)<br>
@@ -210,7 +210,7 @@ _unimproved: total_: total: 6.8% of population (2020 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 6 October 2021, South Africa has reported a total of 2,907,619 cases of COVID-19 or 4,902.52 cumulative cases of COVID-19 per 100,000 population with 148.24 cumulative deaths per 100,000 population; as of 5 October 2021, 21.76% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 30 March 2022, South Africa has reported a total of 3,715,390 cases of COVID-19 or 6,264.49 cumulative cases of COVID-19 per 100,000 population with a total of 99,976 cumulative deaths or a rate of 168.56 cumulative deaths per 100,000 population; as of 29 March 2022, 34.8% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
@@ -273,7 +273,7 @@ _coal revenues_: 2.4% of GDP (2018 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 6 October 2021, South Africa has reported a total of 2,907,619 cases of COVID-19 or 4,902.52 cumulative cases of COVID-19 per 100,000 population with 148.24 cumulative deaths per 100,000 population; as of 5 October 2021, 21.76% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 30 March 2022, South Africa has reported a total of 3,715,390 cases of COVID-19 or 6,264.49 cumulative cases of COVID-19 per 100,000 population with a total of 99,976 cumulative deaths or a rate of 168.56 cumulative deaths per 100,000 population; as of 29 March 2022, 34.8% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,457,232 tons (2011 est.)<br>

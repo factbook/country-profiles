@@ -75,7 +75,7 @@ the main island, from which the country derives its name, is of volcanic origin 
 ## People and Society
 
 **Population**<br>
-1,386,129 (July 2021 est.)<br>
+1,308,222 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Mauritian(s)<br>
@@ -113,7 +113,7 @@ _male_: 35 years<br>
 _female_: 37.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.52% (2021 est.)<br>
+0.1% (2022 est.)<br>
 
 **Birth rate**<br>
 9.86 births/1,000 population (2022 est.)<br>
@@ -122,7 +122,7 @@ _female_: 37.6 years (2020 est.)<br>
 8.86 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population density is one of the highest in the world; urban cluster are found throught the main island, with a greater density in and around Port Luis; population on Rodrigues Island is spread across the island with a slightly denser cluster on the north coast as shown in this population distribution map<br>
@@ -135,29 +135,29 @@ _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 149,000 PORT LOUIS (capital) (2018)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.04 male(s)/female<br>
+_at birth_: 1.07 male(s)/female<br>
+_0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
 _25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.91 male(s)/female<br>
-_65 years and over_: 0.71 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.9 male(s)/female<br>
+_65 years and over_: 0.47 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 61 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 10.82 deaths/1,000 live births<br>
-_male_: 13.11 deaths/1,000 live births<br>
-_female_: 8.41 deaths/1,000 live births (2021 est.)<br>
+_total_: 12.08 deaths/1,000 live births<br>
+_male_: 13.63 deaths/1,000 live births<br>
+_female_: 10.43 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.7 years<br>
-_male_: 73.29 years<br>
-_female_: 80.29 years (2021 est.)<br>
+_total population_: 74.86 years<br>
+_male_: 72.04 years<br>
+_female_: 77.88 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.73 children born/woman (2021 est.)<br>
+1.35 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 63.8% (2014)<br>

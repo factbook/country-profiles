@@ -79,7 +79,7 @@ over three-quarters of New Zealanders, including the indigenous Maori, live on t
 ## People and Society
 
 **Population**<br>
-4,991,442 (July 2021 est.)<br>
+5,053,004 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: New Zealander(s)<br>
@@ -116,7 +116,7 @@ _male_: 36.4 years<br>
 _female_: 37.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.28% (2021 est.)<br>
+1.17% (2022 est.)<br>
 
 **Birth rate**<br>
 12.78 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 37.9 years (2020 est.)<br>
 6.89 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-6.89 migrant(s)/1,000 population (2021 est.)<br>
+5.83 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 over three-quarters of New Zealanders, including the indigenous Maori, live on the North Island, primarily in urban areas<br>
@@ -140,11 +140,11 @@ _rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.02 male(s)/female<br>
+_15-24 years_: 1.06 male(s)/female<br>
+_25-54 years_: 1.03 male(s)/female<br>
 _55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.88 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.76 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.8 years (2009 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 9 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.5 deaths/1,000 live births<br>
-_male_: 3.69 deaths/1,000 live births<br>
-_female_: 3.29 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.44 deaths/1,000 live births<br>
+_male_: 3.64 deaths/1,000 live births<br>
+_female_: 3.23 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.33 years<br>
-_male_: 80.57 years<br>
-_female_: 84.19 years (2021 est.)<br>
+_total population_: 82.54 years<br>
+_male_: 80.78 years<br>
+_female_: 84.39 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.87 children born/woman (2021 est.)<br>
+1.86 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 79.9% (2014/15)<br>

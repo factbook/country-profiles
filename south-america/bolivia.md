@@ -83,7 +83,7 @@ a high altitude plain in the west between two cordillera of the Andes, known as 
 ## People and Society
 
 **Population**<br>
-11,758,869 (July 2021 est.)<br>
+12,054,379 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Bolivian(s)<br>
@@ -122,7 +122,7 @@ _male_: 24.5 years<br>
 _female_: 26 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.39% (2021 est.)<br>
+1.12% (2022 est.)<br>
 
 **Birth rate**<br>
 18.61 births/1,000 population (2022 est.)<br>
@@ -131,7 +131,7 @@ _female_: 26 years (2020 est.)<br>
 6.48 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.23 migrant(s)/1,000 population (2021 est.)<br>
+-0.98 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 a high altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
@@ -147,10 +147,10 @@ _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
-_25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.85 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.98 male(s)/female (2020 est.)<br>
+_25-54 years_: 1.01 male(s)/female<br>
+_55-64 years_: 0.97 male(s)/female<br>
+_65 years and over_: 0.72 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.2 years (2008 est.)<br>
@@ -160,17 +160,17 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 155 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 39.27 deaths/1,000 live births<br>
-_male_: 43.95 deaths/1,000 live births<br>
-_female_: 34.37 deaths/1,000 live births (2021 est.)<br>
+_total_: 22.28 deaths/1,000 live births<br>
+_male_: 24.5 deaths/1,000 live births<br>
+_female_: 19.95 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 70.7 years<br>
-_male_: 67.87 years<br>
-_female_: 73.67 years (2021 est.)<br>
+_total population_: 72.5 years<br>
+_male_: 71.04 years<br>
+_female_: 74.02 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.45 children born/woman (2021 est.)<br>
+2.33 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.5% (2016)<br>
@@ -362,20 +362,20 @@ _judge selection and term of office_: Supreme Court, Plurinational Constitutiona
 _subordinate courts_: National Electoral Court; District Courts (in each of the 9 administrative departments); agro-environmental lower courts<br>
 
 **Political parties and leaders**<br>
-Christian Democratic Party or PDC [Jorge Fernando QUIROGA Ramirez]<br>Community Citizen Alliance or ACC [Carlos Diego MESA Gisbert]<br>Movement Toward Socialism or MAS [Juan Evo MORALES Ayma]<br>National Unity or UN [Samuel DORIA MEDINA Arana]<br>Social Democrat Movement or MDS [Ruben COSTAS Aguilera]<br>We Believe or Creemos [Luis Fernando CAMACHO Vaca]<br>
-<em>note:</em> the Democrat Unity Coalition or UD [Samuel DORIA MEDINA Arana] was a coalition comprised of several of the largest opposition parties participating in the 2014 election, which included the Democrats (MDS), National Unity Front (UN), and Without Fear Movement<br>
+Community Citizen Alliance or ACC [Carlos Diego MESA Gisbert]<br>Movement Toward Socialism or MAS [Juan Evo MORALES Ayma]<br>National Unity or UN [Samuel DORIA MEDINA Arana]<br>Revolutionary Left Front or FRI [Edgar GUZMAN Jauregui]<br>Social Democrat Movement or MDS [Ruben COSTAS Aguilera]<br>We Believe or Creemos [Luis Fernando CAMACHO Vaca]<br>
+<em>note:</em> We Believe or Creemos [Luis Fernando CAMACHO Vaca] is a coalition comprised of several opposition parties that participated in the 2020 election, which includes the Christian Democratic Party (PDC) and Solidarity Civic Unity (UCS)<br>
 
 **International organization participation**<br>
 CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, UN, UN Security Council (temporary), UNAMID, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Alejandro Roberto BILBAO LA VIEJA RUIZ, First Secretary (since 6 July 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Alejandro Roberto BILBAO LA VIEJA RUIZ, First Secretary (since 6 July 2021)<br>
 _chancery_: 3014 Massachusetts Ave., NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-4410<br>
 _FAX_: [1] (202) 328-3712<br>
 _email address and website_: <br>embolivia.wdc@gmail.com<br>
 _consulate(s) general_: Houston, Los Angeles, Maple Grove (MN), Miami, New York, Washington, DC<br>
-<strong>note:</strong> in September 2008, the US expelled the Bolivian ambassador to the US in reciprocity for Bolivia expelling the US ambassador to Bolivia; in November 2019, the interim Bolivian Government names Oscar SERRATE Cuellar as its temporary special representative to the US<br>
+<strong>note:</strong> in September 2008, the US expelled the Bolivian ambassador to the US in reciprocity for Bolivia expelling the US ambassador to Bolivia; in November 2019, the interim Bolivian government named Oscar SERRATE Cuellar as its temporary special representative to the US<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Charisse PHILLIPS (since August 2020)<br>

@@ -79,7 +79,7 @@ landlocked; well endowed with various sedimentary rocks and minerals including s
 ## People and Society
 
 **Population**<br>
-3,323,875 (July 2021 est.)<br>
+3,287,326 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Moldovan(s)<br>
@@ -114,7 +114,7 @@ _male_: 36.2 years<br>
 _female_: 39.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
--1.1% (2021 est.)<br>
+-1.12% (2022 est.)<br>
 
 **Birth rate**<br>
 10.19 births/1,000 population (2022 est.)<br>
@@ -123,7 +123,7 @@ _female_: 39.5 years (2020 est.)<br>
 12.47 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--8.95 migrant(s)/1,000 population (2021 est.)<br>
+-8.87 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 pockets of agglomeration exist throughout the country, the largest being in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti<br>
@@ -141,8 +141,8 @@ _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.08 male(s)/female<br>
 _25-54 years_: 1.04 male(s)/female<br>
 _55-64 years_: 0.86 male(s)/female<br>
-_65 years and over_: 0.66 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.46 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 25.2 years (2019 est.)<br>
@@ -151,17 +151,17 @@ _total population_: 0.96 male(s)/female (2020 est.)<br>
 19 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.83 deaths/1,000 live births<br>
-_male_: 13.8 deaths/1,000 live births<br>
-_female_: 9.73 deaths/1,000 live births (2021 est.)<br>
+_total_: 11.6 deaths/1,000 live births<br>
+_male_: 13.55 deaths/1,000 live births<br>
+_female_: 9.54 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.16 years<br>
-_male_: 68.3 years<br>
-_female_: 76.26 years (2021 est.)<br>
+_total population_: 72.44 years<br>
+_male_: 68.6 years<br>
+_female_: 76.52 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.58 children born/woman (2021 est.)<br>
+1.59 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 56% (2020)<br>
@@ -705,7 +705,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p>Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 387,151 (Ukraine) (as of 29 March 2022)<br>
+_refugees (country of origin)_: 399,039 (Ukraine) (as of 5 April 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

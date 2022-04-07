@@ -72,7 +72,7 @@ a flat, riverless island renowned for its white sand beaches; its tropical clima
 ## People and Society
 
 **Population**<br>
-120,917 (July 2021 est.)<br>
+122,320 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Aruban(s)<br>
@@ -107,7 +107,7 @@ _male_: 38.2 years<br>
 _female_: 41.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.17% (2021 est.)<br>
+1.14% (2022 est.)<br>
 
 **Birth rate**<br>
 11.82 births/1,000 population (2022 est.)<br>
@@ -116,7 +116,7 @@ _female_: 41.5 years (2020 est.)<br>
 8.62 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-8.27 migrant(s)/1,000 population (2021 est.)<br>
+8.18 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most residents live in or around Oranjestad and San Nicolaas; most settlments tend to be located on the less mountainous western side of the island<br>
@@ -131,24 +131,24 @@ _rate of urbanization_: 0.77% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.02 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.93 male(s)/female<br>
-_55-64 years_: 0.88 male(s)/female<br>
-_65 years and over_: 0.65 male(s)/female<br>
-_total population_: 0.9 male(s)/female (2020 est.)<br>
+_15-24 years_: 1 male(s)/female<br>
+_25-54 years_: 0.94 male(s)/female<br>
+_55-64 years_: 0.87 male(s)/female<br>
+_65 years and over_: 0.52 male(s)/female<br>
+_total population_: 0.9 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.39 deaths/1,000 live births<br>
-_male_: 16.89 deaths/1,000 live births<br>
-_female_: 7.81 deaths/1,000 live births (2021 est.)<br>
+_total_: 12.09 deaths/1,000 live births<br>
+_male_: 16.46 deaths/1,000 live births<br>
+_female_: 7.63 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.76 years<br>
-_male_: 74.66 years<br>
-_female_: 80.93 years (2021 est.)<br>
+_total population_: 78.01 years<br>
+_male_: 74.93 years<br>
+_female_: 81.15 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.83 children born/woman (2021 est.)<br>
+1.83 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

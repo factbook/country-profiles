@@ -83,7 +83,7 @@ sometimes referred to as the hinge of Africa because of its central location on 
 ## People and Society
 
 **Population**<br>
-28,524,175 (July 2021 est.)<br>
+29,321,637 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -122,7 +122,7 @@ _male_: 18.2 years<br>
 _female_: 18.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.77% (2021 est.)<br>
+2.75% (2022 est.)<br>
 
 **Birth rate**<br>
 35.53 births/1,000 population (2022 est.)<br>
@@ -131,7 +131,7 @@ _female_: 18.8 years (2020 est.)<br>
 7.73 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.32 migrant(s)/1,000 population (2021 est.)<br>
+-0.31 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the west and north, with the interior of the country sparsely populated as shown in this population distribution map<br>
@@ -149,8 +149,8 @@ _0-14 years_: 1.02 male(s)/female<br>
 _15-24 years_: 1 male(s)/female<br>
 _25-54 years_: 0.97 male(s)/female<br>
 _55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.88 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.74 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.1 years (2018 est.)<br>
@@ -160,17 +160,17 @@ _total population_: 0.99 male(s)/female (2020 est.)<br>
 529 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 50.09 deaths/1,000 live births<br>
-_male_: 55.01 deaths/1,000 live births<br>
-_female_: 45.02 deaths/1,000 live births (2021 est.)<br>
+_total_: 48.73 deaths/1,000 live births<br>
+_male_: 53.58 deaths/1,000 live births<br>
+_female_: 43.73 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 62.79 years<br>
-_male_: 61.07 years<br>
-_female_: 64.57 years (2021 est.)<br>
+_total population_: 63.27 years<br>
+_male_: 61.49 years<br>
+_female_: 65.09 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.61 children born/woman (2021 est.)<br>
+4.55 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 19.3% (2018)<br>
@@ -216,6 +216,7 @@ _vectorborne diseases_: malaria and&nbsp;dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Cameroon is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 11.4% (2016)<br>
@@ -284,6 +285,7 @@ _vectorborne diseases_: malaria and&nbsp;dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Cameroon is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to civil insecurity and population displacements - according to a March 2021 analysis, about 1.9 million people (7 percent of the total population) were projected to be severely food insecure in the June‑August 2021 period; this mainly results from the effects of Boko Haram incursions in the Far North Region, the socio‑political unrest in the Northwest and Southwest regions and COVID‑19 related economic shocks, which disrupted trade flows and agricultural practices, deteriorated livelihoods and displaced people (2021)<br>

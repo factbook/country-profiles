@@ -75,7 +75,7 @@ smallest Central American country and only one without a coastline on the Caribb
 ## People and Society
 
 **Population**<br>
-6,528,135 (July 2021 est.)<br>
+6,568,745 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Salvadoran(s)<br>
@@ -113,7 +113,7 @@ _male_: 26.2 years<br>
 _female_: 29.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.67% (2021 est.)<br>
+0.57% (2022 est.)<br>
 
 **Birth rate**<br>
 17.87 births/1,000 population (2022 est.)<br>
@@ -122,7 +122,7 @@ _female_: 29.3 years (2020 est.)<br>
 5.91 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--5.57 migrant(s)/1,000 population (2021 est.)<br>
+-6.29 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 athough it is the smallest country in land area in Central America, El Salvador has a population that is 18 times larger than Belize; at least 20% of the population lives abroad; high population density country-wide, with particular concentration around the capital of San Salvador<br>
@@ -139,9 +139,9 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
 _25-54 years_: 0.87 male(s)/female<br>
-_55-64 years_: 0.73 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 0.92 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.72 male(s)/female<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 0.92 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.8 years (2008 est.)<br>
@@ -151,17 +151,17 @@ _total population_: 0.92 male(s)/female (2020 est.)<br>
 46 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.38 deaths/1,000 live births<br>
-_male_: 14.03 deaths/1,000 live births<br>
-_female_: 10.64 deaths/1,000 live births (2021 est.)<br>
+_total_: 12.14 deaths/1,000 live births<br>
+_male_: 13.79 deaths/1,000 live births<br>
+_female_: 10.41 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.11 years<br>
-_male_: 71.6 years<br>
-_female_: 78.79 years (2021 est.)<br>
+_total population_: 75.37 years<br>
+_male_: 71.88 years<br>
+_female_: 79.04 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.07 children born/woman (2021 est.)<br>
+2.05 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 71.9% (2014)<br>
@@ -621,8 +621,8 @@ multiple privately owned national terrestrial TV networks, supplemented by cable
 .sv<br>
 
 **Internet users**<br>
-_total_: 3.28 million (2021 est.)<br>
-_percent of population_: 50.49% (2019 est.)<br>
+_total_: 3.3 million (2022 est.)<br>
+_percent of population_: 50.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 525,088 (2019)<br>

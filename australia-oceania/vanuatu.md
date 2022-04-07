@@ -76,7 +76,7 @@ a Y-shaped chain of four main islands and 80 smaller islands; several of the isl
 ## People and Society
 
 **Population**<br>
-303,009 (July 2021 est.)<br>
+308,043 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Ni-Vanuatu (singular and plural)<br>
@@ -110,7 +110,7 @@ _male_: 22.6 years<br>
 _female_: 23.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.67% (2021 est.)<br>
+1.63% (2022 est.)<br>
 
 **Birth rate**<br>
 21.57 births/1,000 population (2022 est.)<br>
@@ -119,7 +119,7 @@ _female_: 23.5 years (2020 est.)<br>
 3.98 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.32 migrant(s)/1,000 population (2021 est.)<br>
+-1.3 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 three-quarters of the population lives in rural areas; the urban populace lives primarily in two cities, Port-Vila and Lugenville; three largest islands - Espiritu Santo, Malakula, and Efate - accomodate over half of the populace<br>
@@ -136,25 +136,25 @@ _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 0.98 male(s)/female<br>
 _25-54 years_: 0.95 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.99 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.91 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 72 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.69 deaths/1,000 live births<br>
-_male_: 16.14 deaths/1,000 live births<br>
-_female_: 13.17 deaths/1,000 live births (2021 est.)<br>
+_total_: 14.34 deaths/1,000 live births<br>
+_male_: 15.76 deaths/1,000 live births<br>
+_female_: 12.86 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.87 years<br>
-_male_: 73.18 years<br>
-_female_: 76.66 years (2021 est.)<br>
+_total population_: 75.14 years<br>
+_male_: 73.45 years<br>
+_female_: 76.91 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.72 children born/woman (2021 est.)<br>
+2.66 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49% (2013)<br>

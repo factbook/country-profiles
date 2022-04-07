@@ -73,7 +73,7 @@ the northern Cook Islands are seven low-lying, sparsely populated, coral atolls;
 ## People and Society
 
 **Population**<br>
-8,327 (July 2021 est.)<br>
+8,128 (2022 est.)<br>
 <strong>note:</strong> the Cook Islands' Ministry of Finance &amp; Economic Management estimated the resident population to have been 11,700 in September 2016<br>
 
 **Nationality**<br>
@@ -91,11 +91,11 @@ English (official) 86.4%, Cook Islands Maori (Rarotongan) (official) 76.2%, othe
 Protestant 62.8% (Cook Islands Christian Church 49.1%, Seventh Day Adventist 7.9%, Assemblies of God 3.7%, Apostolic Church 2.1%), Roman Catholic 17%, Church of Jesus Christ 4.4%, other 8%, none 5.6%, no response 2.2% (2011 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 19.93% (male 901/female 808)<br>
-_15-24 years_: 14.89% (male 684/female 593)<br>
+_0-14 years_: 18.69% (male 797/female 722)<br>
+_15-24 years_: 13.9% (male 606/female 524)<br>
 _25-54 years_: 37.66% (male 1,595/female 1,634)<br>
-_55-64 years_: 14.15% (male 674/female 539)<br>
-_65 years and over_: 13.37% (male 555/female 591) (2020 est.)<br>
+_55-64 years_: 15.69% (male 711/female 564)<br>
+_65 years and over_: 14.74% (male 584/female 614) (2022 est.)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -109,7 +109,7 @@ _male_: 37.8 years<br>
 _female_: 38.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
--2.46% (2021 est.)<br>
+-2.39% (2022 est.)<br>
 
 **Birth rate**<br>
 12.55 births/1,000 population (2022 est.)<br>
@@ -118,7 +118,7 @@ _female_: 38.7 years (2020 est.)<br>
 9.1 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--28.58 migrant(s)/1,000 population (2021 est.)<br>
+-27.31 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population is found on the island of Rarotonga<br>
@@ -128,26 +128,26 @@ _urban population_: 75.9% of total population (2022)<br>
 _rate of urbanization_: 0.52% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 1.12 male(s)/female<br>
-_15-24 years_: 1.15 male(s)/female<br>
-_25-54 years_: 0.98 male(s)/female<br>
-_55-64 years_: 1.25 male(s)/female<br>
-_65 years and over_: 0.94 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2020 est.)<br>
+_at birth_: 1.04 male(s)/female<br>
+_0-14 years_: 1.1 male(s)/female<br>
+_15-24 years_: 1.16 male(s)/female<br>
+_25-54 years_: 0.96 male(s)/female<br>
+_55-64 years_: 1.26 male(s)/female<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 1.06 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 16.33 deaths/1,000 live births<br>
-_male_: 20.54 deaths/1,000 live births<br>
-_female_: 11.91 deaths/1,000 live births (2021 est.)<br>
+_total_: 15.93 deaths/1,000 live births<br>
+_male_: 20.02 deaths/1,000 live births<br>
+_female_: 11.62 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.89 years<br>
-_male_: 74.05 years<br>
-_female_: 79.88 years (2021 est.)<br>
+_total population_: 77.14 years<br>
+_male_: 74.32 years<br>
+_female_: 80.11 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.09 children born/woman (2021 est.)<br>
+2.07 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -288,7 +288,7 @@ _elections/appointments_: the monarchy is hereditary; UK representative appointe
 **Legislative branch**<br>
 _description_: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms); note - the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the Queen's representative serves as a consultative body to the Parliament<br>
 _elections_: last held on 14 June 2018 (next to be held by 2022)<br>
-_election results_: percent of vote by party - NA; seats by party - Demo 11, CIP 10, One Cook Islands Movement 1, independent 2; composition - men 15, women 9, percent of women 37.5%<br>
+_election results_: percent of vote by party - NA; seats by party - Demo 11, CIP 10, One Cook Islands Movement 1, independent 2; composition - men 17, women 7, percent of women 17.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>

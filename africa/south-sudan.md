@@ -75,7 +75,7 @@ landlocked; The Sudd is a vast swamp in the north central region of South Sudan,
 ## People and Society
 
 **Population**<br>
-10,984,074 (July 2021 est.)<br>
+11,544,905 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: South Sudanese (singular and plural)<br>
@@ -114,7 +114,7 @@ _male_: 18.9 years<br>
 _female_: 18.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-5.05% (2021 est.)<br>
+4.91% (2022 est.)<br>
 
 **Birth rate**<br>
 37.69 births/1,000 population (2022 est.)<br>
@@ -123,7 +123,7 @@ _female_: 18.3 years (2020 est.)<br>
 9.52 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-22.04 migrant(s)/1,000 population (2021 est.)<br>
+20.97 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 clusters found in urban areas, particularly in the western interior and around the White Nile as shown in this population distribution map<br>
@@ -138,27 +138,27 @@ _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1.23 male(s)/female<br>
-_65 years and over_: 1.35 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.03 male(s)/female<br>
+_25-54 years_: 1.04 male(s)/female<br>
+_55-64 years_: 1.19 male(s)/female<br>
+_65 years and over_: 1.28 male(s)/female<br>
+_total population_: 1.05 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 1,150 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 64.77 deaths/1,000 live births<br>
-_male_: 70.75 deaths/1,000 live births<br>
-_female_: 58.49 deaths/1,000 live births (2021 est.)<br>
+_total_: 63.18 deaths/1,000 live births<br>
+_male_: 69.06 deaths/1,000 live births<br>
+_female_: 57 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 58.6 years<br>
-_male_: 56.92 years<br>
-_female_: 60.36 years (2021 est.)<br>
+_total population_: 59.16 years<br>
+_male_: 57.43 years<br>
+_female_: 60.97 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-5.43 children born/woman (2021 est.)<br>
+5.32 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -198,6 +198,7 @@ _vectorborne diseases_: malaria, dengue fever, Trypanosomiasis-Gambiense (Africa
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; South Sudan is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
@@ -257,6 +258,7 @@ _vectorborne diseases_: malaria, dengue fever, Trypanosomiasis-Gambiense (Africa
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; South Sudan is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to economic downturn, civil insecurity, lingering impact of floods and prolonged conflict - despite sustained humanitarian assistance, food insecurity still affects large segments of the population, driven by insufficient food supplies, an economic downturn, high food prices and the lingering impact of widespread floods in 2020; about 7.2 million people (about 60% of the total population) are estimated to be severely food insecure in the April&minus;July 2021 period; particular concern exists for households in Jonglei, Northern Bahr-el-Ghazal and Warrap states and in neighboring Pibor Administrative Area, where 60-85% of the&nbsp; population is estimated to be severely food insecure, with a total of 108,000 people facing &ldquo;Catastrophe&rdquo; levels of food insecurity (2021)<br>
@@ -642,7 +644,7 @@ the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s 
 <p><em>South Sudan- Central African Republic: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights<br><br><em>South Sudan-Kenya:</em> the boundary that separates Kenya and South Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times</p> <p><em>South Sudan-Sudan:</em> present boundary represents 1 January 1956 alignment, which clearly placed the Kafia Kingi area (adjacent to Central African Republic) within South Sudan as shown on US maps although it is mostly occupied by Sudan; final alignment pending negotiations and demarcation; the final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan; Sudan accuses South Sudan of supporting Sudanese rebel groups</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 308,475 (Sudan), 18,504 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 308,475 (Sudan), 18,514 (Democratic Republic of the Congo) (2022)<br>
 _IDPs_: 1,436,000 (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2020)<br>
 _stateless persons_: 10,000 (mid-year 2021)<br>
 

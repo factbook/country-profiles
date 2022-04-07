@@ -70,7 +70,7 @@ archipelago of 17 inhabited islands and one uninhabited island, and a few uninha
 ## People and Society
 
 **Population**<br>
-51,943 (July 2021 est.)<br>
+52,269 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Faroese (singular and plural)<br>
@@ -106,7 +106,7 @@ _male_: 36.9 years<br>
 _female_: 37.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.62% (2021 est.)<br>
+0.63% (2022 est.)<br>
 
 **Birth rate**<br>
 14.94 births/1,000 population (2022 est.)<br>
@@ -115,7 +115,7 @@ _female_: 37.7 years (2020 est.)<br>
 8.63 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have fewer than 100 people<br>
@@ -130,24 +130,24 @@ _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.16 male(s)/female<br>
-_55-64 years_: 1.07 male(s)/female<br>
-_65 years and over_: 0.94 male(s)/female<br>
-_total population_: 1.08 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.09 male(s)/female<br>
+_25-54 years_: 1.17 male(s)/female<br>
+_55-64 years_: 1.09 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 1.08 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.11 deaths/1,000 live births<br>
-_male_: 6.74 deaths/1,000 live births<br>
-_female_: 5.44 deaths/1,000 live births (2021 est.)<br>
+_total_: 5.99 deaths/1,000 live births<br>
+_male_: 6.61 deaths/1,000 live births<br>
+_female_: 5.32 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.04 years<br>
-_male_: 78.5 years<br>
-_female_: 83.77 years (2021 est.)<br>
+_total population_: 81.26 years<br>
+_male_: 78.73 years<br>
+_female_: 83.97 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.3 children born/woman (2021 est.)<br>
+2.29 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

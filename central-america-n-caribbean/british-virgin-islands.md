@@ -73,7 +73,7 @@ strong ties to nearby US Virgin Islands and Puerto Rico<br>
 ## People and Society
 
 **Population**<br>
-37,891 (July 2021 est.)<br>
+38,632 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: British Virgin Islander(s)<br>
@@ -107,7 +107,7 @@ _male_: 37 years<br>
 _female_: 37.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.96% (2021 est.)<br>
+1.91% (2022 est.)<br>
 
 **Birth rate**<br>
 10.95 births/1,000 population (2022 est.)<br>
@@ -116,7 +116,7 @@ _female_: 37.5 years (2020 est.)<br>
 5.38 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-13.93 migrant(s)/1,000 population (2021 est.)<br>
+13.56 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations<br>
@@ -130,25 +130,25 @@ _rate of urbanization_: 1.73% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
-_0-14 years_: 0.97 male(s)/female<br>
+_0-14 years_: 0.98 male(s)/female<br>
 _15-24 years_: 0.92 male(s)/female<br>
 _25-54 years_: 0.88 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.92 male(s)/female<br>
-_total population_: 0.91 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.76 male(s)/female<br>
+_total population_: 0.91 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.56 deaths/1,000 live births<br>
-_male_: 17.39 deaths/1,000 live births<br>
-_female_: 11.58 deaths/1,000 live births (2021 est.)<br>
+_total_: 14.16 deaths/1,000 live births<br>
+_male_: 16.89 deaths/1,000 live births<br>
+_female_: 11.28 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.44 years<br>
-_male_: 77.94 years<br>
-_female_: 81.03 years (2021 est.)<br>
+_total population_: 79.67 years<br>
+_male_: 78.17 years<br>
+_female_: 81.25 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.34 children born/woman (2021 est.)<br>
+1.35 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

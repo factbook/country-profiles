@@ -5,7 +5,7 @@ _East & Southeast Asia / Dependencies (China)_
 ## Introduction
 
 **Background**<br>
-Seized by the UK in 1841, Hong Kong was formally ceded by China the following year at the end of the First Opium War; the Kowloon Peninsula was added in 1860 at the end of the Second Opium War, and was further extended when Britain obtained a 99-year lease of the New Territories in 1898. Pursuant to an agreement signed by China and the UK on 19 December 1984, Hong Kong became the Hong Kong Special Administrative Region of the People's Republic of China on 1 July 1997. In this agreement, China promised that, under its "one country, two systems" formula, China's socialist economic and strict political system would not be imposed on Hong Kong and that Hong Kong would enjoy a "high degree of autonomy" in all matters except foreign and defense affairs for the subsequent 50 years. Since the turnover, Hong Kong has continued to enjoy success as an international financial center. However, dissatisfaction with the Hong Kong Government and growing Chinese political influence has been a central issue and led to considerable civil unrest. In June 2020, the Chinese Government passed a security law for Hong Kong that would criminalize acts such as those interpreted as secession, subversion, terrorism, and collusion with foreign or external forces. Critics said the law effectively curtailed protests and freedom of speech and was widely viewed as reducing Hong Kong&rsquo;s autonomy, while Beijing said it would return stability. The law was met with widespread international condemnation and criticism that it effectively ended the "one country, two systems" guiding principle of Hong Kong&rsquo;s Basic Law. Since its passing, authorities have used the law to detain pro-democracy activists and politicians, oust opposition lawmakers, and raid media offices. In March 2021, Beijing reduced the number of directly elected seats in Hong Kong&rsquo;s legislature, furthering its efforts to curtail political opposition and protests.<br>
+Seized by the UK in 1841, Hong Kong was formally ceded by China the following year at the end of the First Opium War; the Kowloon Peninsula was added in 1860 at the end of the Second Opium War, and was further extended when Britain obtained a 99-year lease of the New Territories in 1898. Pursuant to an agreement signed by China and the UK on 19 December 1984, Hong Kong became the Hong Kong Special Administrative Region (HKSAR) of the People's Republic of China on 1 July 1997. In this agreement, China promised that, under its "one country, two systems" formula, China's socialist economic and strict political system would not be imposed on Hong Kong and that Hong Kong would enjoy a "high degree of autonomy" in all matters except foreign and defense affairs for the subsequent 50 years. <br><br>Since the turnover, Hong Kong has continued to enjoy success as an international financial center. However, dissatisfaction with the Hong Kong Government and growing Chinese political influence has been a central issue and led to considerable civil unrest, including large-scale pro-democracy demonstrations in 2019 after the HKSAR attempted to revise a local ordinance to allow extraditions to mainland China. In response, the governments of the HKSAR and China took several actions that reduced the city's autonomy and placed new restrictions on the rights of Hong Kong residents, moves that were widely criticized to be in direct contravention of obligations under the Hong Kong Basic Law and the Sino-British Joint Declaration. Chief among these actions was a sweeping national security law for Hong Kong passed by the Chinese Government in June 2020 that criminalized acts such as those interpreted as secession, subversion, terrorism, and collusion with foreign or external forces. The law ushered in a widespread crackdown on public protests, criticism of authorities, and freedom of speech, and was used by authorities to target pro-democracy activists, organizations, and media companies. Democratic lawmakers and political figures were arrested, while others fled abroad. At the same time, dozens of civil society groups and several independent media outlets were closed or have disbanded. In March 2021, Beijing imposed a more restrictive electoral system, including restructuring the Legislative Council (LegCo) and allowing only government-approved candidates to run for office, claiming it was to ensure a system of "patriots" governed Hong Kong. The changes ensured that virtually all seats in the December 2021 LegCo election were won by pro-establishment candidates and effectively ended political opposition to Beijing in the territory.<br>
 
 ## Geography
 
@@ -72,7 +72,7 @@ consists of a mainland area (the New Territories) and more than 200 islands<br>
 ## People and Society
 
 **Population**<br>
-7,263,234 (July 2021 est.)<br>
+7,276,588 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Chinese/Hong Konger<br>
@@ -108,7 +108,7 @@ _male_: 44.2 years<br>
 _female_: 46.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.2% (2021 est.)<br>
+0.17% (2022 est.)<br>
 
 **Birth rate**<br>
 8.04 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 46.5 years (2020 est.)<br>
 7.98 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-1.65 migrant(s)/1,000 population (2021 est.)<br>
+1.65 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population fairly evenly distributed<br>
@@ -131,28 +131,28 @@ _rate of urbanization_: 0.58% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.12 male(s)/female<br>
-_15-24 years_: 1.1 male(s)/female<br>
-_25-54 years_: 0.75 male(s)/female<br>
-_55-64 years_: 0.87 male(s)/female<br>
-_65 years and over_: 0.88 male(s)/female<br>
-_total population_: 0.86 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.09 male(s)/female<br>
+_15-24 years_: 1.13 male(s)/female<br>
+_25-54 years_: 0.78 male(s)/female<br>
+_55-64 years_: 0.82 male(s)/female<br>
+_65 years and over_: 0.71 male(s)/female<br>
+_total population_: 0.86 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.8 years (2008 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.59 deaths/1,000 live births<br>
-_male_: 2.86 deaths/1,000 live births<br>
-_female_: 2.3 deaths/1,000 live births (2021 est.)<br>
+_total_: 2.55 deaths/1,000 live births<br>
+_male_: 2.82 deaths/1,000 live births<br>
+_female_: 2.26 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.41 years<br>
-_male_: 80.71 years<br>
-_female_: 86.28 years (2021 est.)<br>
+_total population_: 83.61 years<br>
+_male_: 80.91 years<br>
+_female_: 86.46 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.22 children born/woman (2021 est.)<br>
+1.22 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.7% (2017)<br>
@@ -280,17 +280,17 @@ see China<br>
 18 years of age in direct elections for half of the Legislative Council seats and all of the seats in 18 district councils; universal for permanent residents living in the territory of Hong Kong for the past 7 years; note - in indirect elections, suffrage is limited to about 220,000 members of functional constituencies for the other half of the legislature and a 1,200-member election committee for the chief executive drawn from broad sectoral groupings, central government bodies, municipal organizations, and elected Hong Kong officials<br>
 
 **Executive branch**<br>
-_chief of state_: President of China XI Jinping (since 14 March 2013)&nbsp;<br>
-_head of government_: &nbsp;Chief Executive Carrie LAM (since 1 July 2017)<br>
-_cabinet_: &nbsp;Executive Council or ExCo appointed by the chief executive&nbsp;<br>
+_chief of state_: President of China XI Jinping (since 14 March 2013)<br>
+_head of government_: Chief Executive Carrie LAM (since 1 July 2017)<br>
+_cabinet_: Executive Council or ExCo appointed by the chief executive<br>
 _elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 17 March 2018 (next to be held in March 2023); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term); election last held on 26 March 2017 (next to be held in 2022)<br>
 _election results_: Carrie LAM elected chief executive; Election Committee vote - Carrie LAM 777, John TSANG 365, WOO Kwok-hing 21, invalid 23<br>
 <strong>note:</strong> the Legislative Council voted in June 2010 to expand the Election Committee to 1,200 members<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Council or LegCo (70 seats; 35 members directly elected in multi-seat constituencies by party-list proportional representation vote; 30 members indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods; 5 at large "super-seat" members directly elected by all of Hong Kong&rsquo;s eligible voters who do not participate in a functional constituency; members serve 4-year terms)<br>
-_elections_: last held on 4 September 2016; (scheduled for September 2020, but delayed until 19 December 2021); note - byelection held on 11 March and 25 November 2018 to fill 5 seats left vacant after 5 legislators were removed from office<br>
-_election results_: percent of vote by block - pro-democracy 36%; pro-Beijing 40.2%, localist 19%, other 4.8%; seats by block/party - pro-Beijing 40 (DAB 12, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 9); pro-democracy 23 (Democratic Party 7, Civic Party 6, PP-LSD 2, Professional Commons 2, Labor 1, NWSC 1, PTU 1, other democrats 3), localists 6 (ALLinHK 2, CP-PPI-HKRO 1, Demosisto 1, Democracy Groundwork 1, other localist 1), non-aligned independent 1; composition - men 59, women 11, percent of women 15.7%; note - 2 localists were barred from taking office in November 2016 and 4 pro-democracy legislators were removed in July 2017; two pan-democratic, two DAB, and one pro-establishment candidates won the byelections in 2018 to fill the seats vacated by the 5 legislators removed from office; one pro-democracy seat remains unfilled pending a court appeal; percent of vote by block as of March 2019 - pro-Beijing 62% pro-democracy 38%; seats by block/party as of March 2019 - pro-Beijing 43 (DAB 13, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 11); pro-democracy 26 (Democratic Party 7, Civic Party 5, Professional Commons 2, Civic Passion 1, Labor 1 PTU 1, Council Front 6, independent 3); composition as of March 2019 - men 58, women 11; percent of women 15.7%<br> <p><strong> </strong></p><br>
+_description_: unicameral Legislative Council or LegCo (90 seats); 4 year term<br><br>note - in March 2021, China's National People's Congress amended the electoral rules and system for the LegCo; the total number of seats increased from 70 to 90; directly directed geographical constituencies were reduced from 35 to 20 seats, while trade-based indirectly elected functional constituencies remained at 30; an additional 40 seats were elected by the 1,500-member Election Commission; all political candidates were evaluated by a newly created Candidate Eligibility Review Committee (CERC) to ensure that they were “patriots,” virtually ensuring that all LegCo seats would be won by pro-Beijing candidates<br>
+_elections_: last held on 19 Dec 2021<br>
+_election results_: <p>percent of vote by bloc: pro-Beijing: 98.9%; non-establishment: 1.11%</p> <p>seats by block/party: pro-Beijing 89 (DAB 19, FTU 8, BPA 7, NPP 5, Liberal Party 4,  FEW 2, FLU 2, other 5, independent 37); non-establishment 1 (1 Third Side)<br><br>30.2% voter turnout; note - Hong Kong's leading pro-democracy political parties boycotted the 2021 LegCo election</p> <br> <p><strong> </strong></p><br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Final Appeal (consists of the chief justice, 3 permanent judges, and 20 non-permanent judges); note - a sitting bench consists of the chief justice, 3 permanent judges, and 1 non-permanent judge<br>
@@ -298,8 +298,8 @@ _judge selection and term of office_: all judges appointed by the Hong Kong Chie
 _subordinate courts_: High Court (consists of the Court of Appeal and Court of First Instance); District Courts (includes Family and Land Courts); magistrates' courts; specialized tribunals<br>
 
 **Political parties and leaders**<br>
-<strong>parties:</strong> <br>ALLinHK (alliance of 6 localist groups)<br>Business and Professional Alliance or BPA [LO Wai-kwok]<br>Civic Party [Alan LEONG]<br>Civic Passion or CP [CHENG Chung-tai] (part of Civic Passion-Proletariat Political Institute-Hong Kong Resurgence Order alliance or CP-PPI-HKRO that dissolved after the 2016 election)<br>Democracy Groundwork [LAU Siu-lai]<br>Democratic Alliance for the Betterment and Progress of Hong Kong or DAB [Starry LEE Wai-king]<br>Democratic Party [LO Kin-hei]<br>Demosisto [Ivan LAM] (announced cessation of all operations, 30 June 2020)<br>Federation of Trade Unions or FTU [Stanley NG Chau-pei]<br>Labor Party [Steven KWOK Wing-kin]<br>League of Social Democrats or LSD [Raphael WONG Ho-ming]<br>Liberal Party [Felix CHUNG Kwok-pan]<br>Neighborhood and Workers Service Center or NWSC [LEUNG Yui-chung]<br>New People's Party or NPP [Regina IP Lau Su-yee]<br>People Power or PP [TAM Tak-chi]<br>Youngspiration [Sixtus "Baggio" LEUNG Chung-hang]<br><strong>other:</strong> <br>Professional Commons [Charles Peter MOK] (think tank)<br>Professional Teachers Union or PTU<br>
-<strong>note:</strong> political blocks include: pro-democracy - Civic Party, Democratic Party, Labor Party, LSD, NWSC, PP, Professional Commons, PTU; pro-Beijing - DAB, FTU, Liberal Party, NPP, BPA; localist - ALLinHK, CP, Democracy Groundwork, Demosisto; there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies<br>
+<strong>parties:<br></strong>Bauhinia Party or BP [LI Shan]<br>Democratic Alliance for the Betterment and Progress of Hong Kong or DAB [Starry Lee Wai-king]<br>Business and Professionals Alliance for Hong Kong or BPA [LO Wai-kwok]<br>New People's Party or NPP [Regina IP]<br>Liberal Party or LP [led by Felix CHUNG; chaired by Tony CHEUNG]<br>Third Side [TIK Chi-yeun]<br>League of Social Democrats or LSD [CHAN Po-ying]<br>Labor Party [Steven KWOK Wing-kin; arrested in 2020]<br>Civic Party [Alan LEONG]<br>Democratic Party [LO Kin-hei]<br>People Power or PP [TAM Tak-chi]<br>Neighborhood and Workers Service Center or NWSC [LO Ngai-yin]<br>Neo Democrats (dissolved 2021)<br><br><strong>other:<br></strong>Hong Kong Federation of Trade Unions or HKFTU [labor and political group presided over by NG Chau-pei and chaired by Kingsley WON]<br>Hong Kong Federation of Education Workers or HKFEW [WONG Kwan-yu]<br>Federation of Hong Kong and Kowloon Labour Unions or HKFLU [represented by POON Siu-Ping]<br>Roundtable [Michael TIEN] <br>Professional Power [Christine FONG] <br>Kowloon West New Dynamic or KWND [Priscilla LEUNG]<br>New Prospect for Hong Kong<br>New Century Forum [Ma Fung-kwak]<br>Path of Democracy [Ronny Tong]<br>Professional Commons [Charles Peter MOK]<br>
+<strong>note(s) -</strong> political parties include: pro-democracy - Civic Party, Democratic Party, Labor Party, LSD, NWSC, PP; pro-Beijing - DAB, FTU, Liberal Party, NPP, BPA, BP; by the end of 2021, the leading pro-democracy figures in Hong Kong had been effectively removed from the political arena under the provisions of Beijing's 2021 electoral changes or via charges under the 2020 national security law <br>
 
 **International organization participation**<br>
 ADB, APEC, BIS, FATF, ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), IOC, ISO (correspondent), ITUC (NGOs), UNWTO (associate), UPU, WCO, WMO, WTO<br>

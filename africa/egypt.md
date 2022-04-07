@@ -88,7 +88,7 @@ periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving 
 ## People and Society
 
 **Population**<br>
-106,437,241 (July 2021 est.)<br>
+107,770,524 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Egyptian(s)<br>
@@ -127,7 +127,7 @@ _male_: 23.8 years<br>
 _female_: 24.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.17% (2021 est.)<br>
+1.68% (2022 est.)<br>
 
 **Birth rate**<br>
 21.46 births/1,000 population (2022 est.)<br>
@@ -136,7 +136,7 @@ _female_: 24.5 years (2020 est.)<br>
 4.32 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.34 migrant(s)/1,000 population (2021 est.)<br>
+-0.31 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map<br>
@@ -150,12 +150,12 @@ _rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.07 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 1 male(s)/female<br>
-_65 years and over_: 0.92 male(s)/female<br>
-_total population_: 1.05 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.06 male(s)/female<br>
+_15-24 years_: 1.06 male(s)/female<br>
+_25-54 years_: 1.06 male(s)/female<br>
+_55-64 years_: 1.08 male(s)/female<br>
+_65 years and over_: 0.89 male(s)/female<br>
+_total population_: 1.06 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 22.6 years (2014 est.)<br>
@@ -165,17 +165,17 @@ _total population_: 1.05 male(s)/female (2020 est.)<br>
 37 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 18.25 deaths/1,000 live births<br>
-_male_: 19.74 deaths/1,000 live births<br>
-_female_: 16.67 deaths/1,000 live births (2021 est.)<br>
+_total_: 17.7 deaths/1,000 live births<br>
+_male_: 18.69 deaths/1,000 live births<br>
+_female_: 16.64 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.01 years<br>
-_male_: 72.54 years<br>
-_female_: 75.57 years (2021 est.)<br>
+_total population_: 74.45 years<br>
+_male_: 73.26 years<br>
+_female_: 75.72 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.23 children born/woman (2021 est.)<br>
+2.88 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 58.5% (2014)<br>
@@ -648,8 +648,8 @@ mix of state-run and private broadcast media; state-run TV operates 2 national a
 .eg<br>
 
 **Internet users**<br>
-_total_: 59.19 million (2021 est.)<br>
-_percent of population_: 71.91% (2020 est.)<br>
+_total_: 75.66 million (2022 est.)<br>
+_percent of population_: 71.9% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,349,469 (2020)<br>

@@ -69,7 +69,7 @@ landlocked; an enclave of (completely surrounded by) Italy; smallest independent
 ## People and Society
 
 **Population**<br>
-34,467 (July 2021 est.)<br>
+34,682 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Sammarinese (singular and plural)<br>
@@ -104,7 +104,7 @@ _male_: 43.9 years<br>
 _female_: 46.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.63% (2021 est.)<br>
+0.61% (2022 est.)<br>
 
 **Birth rate**<br>
 8.85 births/1,000 population (2022 est.)<br>
@@ -113,7 +113,7 @@ _female_: 46.3 years (2020 est.)<br>
 8.82 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-6.38 migrant(s)/1,000 population (2021 est.)<br>
+6.11 migrant(s)/1,000 population (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 97.7% of total population (2022)<br>
@@ -124,28 +124,28 @@ _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.09 male(s)/female<br>
-_0-14 years_: 1.12 male(s)/female<br>
-_15-24 years_: 1.1 male(s)/female<br>
-_25-54 years_: 0.89 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.82 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.1 male(s)/female<br>
+_15-24 years_: 1.13 male(s)/female<br>
+_25-54 years_: 0.9 male(s)/female<br>
+_55-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 31.9 years (2019)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.67 deaths/1,000 live births<br>
-_male_: 7.9 deaths/1,000 live births<br>
-_female_: 5.32 deaths/1,000 live births (2021 est.)<br>
+_total_: 6.51 deaths/1,000 live births<br>
+_male_: 7.72 deaths/1,000 live births<br>
+_female_: 5.19 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.68 years<br>
-_male_: 81.1 years<br>
-_female_: 86.48 years (2021 est.)<br>
+_total population_: 83.86 years<br>
+_male_: 81.3 years<br>
+_female_: 86.65 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.52 children born/woman (2021 est.)<br>
+1.53 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -289,11 +289,11 @@ _residency requirement for naturalization_: 30 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: co-chiefs of state Captain Regent Francesco MUSSONI and Captain Regent Giacomo SIMONCINI (for the period 1 October 2021 - 1 April 2022)<br>
+_chief of state_: co-chiefs of state Captain Regent Oscar MONA and Captain Regent Paolo RONDELLI (for the period 1 April 2022 - 1 October 2022)<br>
 _head of government_: Secretary of State for Foreign and Political Affairs Luca BECCARI (since 8 January 2020)<br>
 _cabinet_: Congress of State elected by the Grand and General Council<br>
 _elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held in September 2021 (next to be held in March 2022); secretary of state for foreign and political affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019 (next to be held by November 2024)<br>
-_election results_: Francesco MUSSONI (PDCS) and Giacomo SIMONCINI (We for the Republic) elected captains regent; percent of Grand and General Council vote - NA; Luca BECCARI (PDCS) elected secretary of state for foreign and political affairs; percent of Grand and General Council vote - NA<br>
+_election results_: Oscar MINA (PDCS) and Paolo RONDELLI (RETE) elected captains regent; percent of Grand and General Council vote - NA; Luca BECCARI (PDCS) elected secretary of state for foreign and political affairs; percent of Grand and General Council vote - NA<br>
 <strong>note:</strong> the captains regent preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has 7 other members who are selected by the Grand and General Council; assisting the captains regent are 7 secretaries of state; the secretary of state for Foreign Affairs has some prime ministerial roles<br>
 
 **Legislative branch**<br>

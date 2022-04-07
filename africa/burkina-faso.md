@@ -79,7 +79,7 @@ landlocked savanna cut by the three principal rivers of the Black, Red, and Whit
 ## People and Society
 
 **Population**<br>
-21,382,659 (July 2021 est.)<br>
+21,935,389 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -117,7 +117,7 @@ _male_: 17 years<br>
 _female_: 18.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.58% (2021 est.)<br>
+2.53% (2022 est.)<br>
 
 **Birth rate**<br>
 33.57 births/1,000 population (2022 est.)<br>
@@ -126,7 +126,7 @@ _female_: 18.7 years (2020 est.)<br>
 7.71 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.62 migrant(s)/1,000 population (2021 est.)<br>
+-0.61 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
  <p>Most of the population is located in the center and south. Nearly one-third of the population lives in cities. The capital and largest city is Ouagadougou (Ouaga), with a population of 1.8 million as shown in this population distribution map</p>  (2019)<br>
@@ -141,11 +141,11 @@ _rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.87 male(s)/female<br>
-_55-64 years_: 0.76 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.01 male(s)/female<br>
+_25-54 years_: 0.86 male(s)/female<br>
+_55-64 years_: 0.75 male(s)/female<br>
+_65 years and over_: 0.66 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2010 est.)<br>
@@ -155,17 +155,17 @@ _total population_: 0.96 male(s)/female (2020 est.)<br>
 320 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 50.71 deaths/1,000 live births<br>
-_male_: 55.05 deaths/1,000 live births<br>
-_female_: 46.24 deaths/1,000 live births (2021 est.)<br>
+_total_: 49.42 deaths/1,000 live births<br>
+_male_: 53.7 deaths/1,000 live births<br>
+_female_: 45.02 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.06 years<br>
-_male_: 61.28 years<br>
-_female_: 64.89 years (2021 est.)<br>
+_total population_: 63.44 years<br>
+_male_: 61.63 years<br>
+_female_: 65.31 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.39 children born/woman (2021 est.)<br>
+4.27 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 30.1% (2020)<br>
@@ -211,6 +211,7 @@ _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Burkina Faso is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.6% (2016)<br>
@@ -279,6 +280,7 @@ _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Burkina Faso is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to civil insecurity in the north - according to the latest analysis, about 2.87 million people are estimated to need humanitarian assistance in the June&minus;August 2021; in Centre-Nord and Sahel regions, insecurity continues to cause population displacements, further deteriorating the food security situation (2021)<br>

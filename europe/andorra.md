@@ -73,7 +73,7 @@ landlocked; straddles a number of important crossroads in the Pyrenees<br>
 ## People and Society
 
 **Population**<br>
-85,645 (July 2021 est.)<br>
+85,560 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Andorran(s)<br>
@@ -108,7 +108,7 @@ _male_: 46.3 years<br>
 _female_: 46.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.1% (2021 est.)<br>
+-0.1% (2022 est.)<br>
 
 **Birth rate**<br>
 6.88 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 46.1 years (2020 est.)<br>
 7.92 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population is unevenly distributed and is concentrated in the seven urbanized valleys that make up the country's parishes (political administrative divisions)<br>
@@ -132,27 +132,27 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.06 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
-_55-64 years_: 1.12 male(s)/female<br>
-_65 years and over_: 1.03 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.04 male(s)/female<br>
+_25-54 years_: 1.05 male(s)/female<br>
+_55-64 years_: 1.1 male(s)/female<br>
+_65 years and over_: 0.9 male(s)/female<br>
+_total population_: 1.05 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 32.8 years (2019)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.5 deaths/1,000 live births<br>
-_male_: 3.59 deaths/1,000 live births<br>
-_female_: 3.4 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.44 deaths/1,000 live births<br>
+_male_: 3.54 deaths/1,000 live births<br>
+_female_: 3.34 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83.23 years<br>
-_male_: 80.99 years<br>
-_female_: 85.6 years (2021 est.)<br>
+_total population_: 83.42 years<br>
+_male_: 81.2 years<br>
+_female_: 85.79 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.44 children born/woman (2021 est.)<br>
+1.45 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

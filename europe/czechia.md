@@ -79,7 +79,7 @@ flooding<br>
 ## People and Society
 
 **Population**<br>
-10,702,596 (July 2021 est.)<br>
+1,295,102 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Czech(s)<br>
@@ -114,7 +114,7 @@ _male_: 42 years<br>
 _female_: 44.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.04% (2021 est.)<br>
+0.02% (2022 est.)<br>
 
 **Birth rate**<br>
 8.59 births/1,000 population (2022 est.)<br>
@@ -123,7 +123,7 @@ _female_: 44.7 years (2020 est.)<br>
 10.74 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-2.32 migrant(s)/1,000 population (2021 est.)<br>
+2.32 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations<br>
@@ -138,11 +138,11 @@ _rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.06 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.72 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.19 male(s)/female<br>
+_25-54 years_: 1.14 male(s)/female<br>
+_55-64 years_: 0.93 male(s)/female<br>
+_65 years and over_: 0.61 male(s)/female<br>
+_total population_: 1.05 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.5 years (2019 est.)<br>
@@ -151,17 +151,17 @@ _total population_: 0.97 male(s)/female (2020 est.)<br>
 3 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 2.42 deaths/1,000 live births<br>
-_male_: 2.62 deaths/1,000 live births<br>
-_female_: 2.22 deaths/1,000 live births (2021 est.)<br>
+_total_: 2.4 deaths/1,000 live births<br>
+_male_: 2.59 deaths/1,000 live births<br>
+_female_: 2.19 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.5 years<br>
-_male_: 76.55 years<br>
-_female_: 82.61 years (2021 est.)<br>
+_total population_: 79.73 years<br>
+_male_: 76.8 years<br>
+_female_: 82.82 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.49 children born/woman (2021 est.)<br>
+1.49 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

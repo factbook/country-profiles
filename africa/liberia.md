@@ -76,7 +76,7 @@ facing the Atlantic Ocean, the coastline is characterized by lagoons, mangrove s
 ## People and Society
 
 **Population**<br>
-5,214,030 (July 2021 est.)<br>
+5,358,483 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Liberian(s)<br>
@@ -113,7 +113,7 @@ _male_: 17.7 years<br>
 _female_: 18.2 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.74% (2021 est.)<br>
+2.73% (2022 est.)<br>
 
 **Birth rate**<br>
 36.64 births/1,000 population (2022 est.)<br>
@@ -122,7 +122,7 @@ _female_: 18.2 years (2020 est.)<br>
 6.62 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--2.82 migrant(s)/1,000 population (2021 est.)<br>
+-2.74 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 more than half of the population lives in urban areas, with approximately one-third living within an 80-km radius of Monrovia as shown in this population distribution map<br>
@@ -139,9 +139,9 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
 _15-24 years_: 1 male(s)/female<br>
 _25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 1.03 male(s)/female<br>
-_65 years and over_: 0.96 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_55-64 years_: 1.02 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.1 years (2019/20 est.)<br>
@@ -151,17 +151,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 661 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 45.98 deaths/1,000 live births<br>
-_male_: 50.16 deaths/1,000 live births<br>
-_female_: 41.68 deaths/1,000 live births (2021 est.)<br>
+_total_: 44.57 deaths/1,000 live births<br>
+_male_: 48.68 deaths/1,000 live births<br>
+_female_: 40.34 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.1 years<br>
-_male_: 62.86 years<br>
-_female_: 67.4 years (2021 est.)<br>
+_total population_: 65.45 years<br>
+_male_: 63.19 years<br>
+_female_: 67.78 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.84 children born/woman (2021 est.)<br>
+4.79 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 24.9% (2019/20)<br>
@@ -204,6 +204,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Liberia is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 9.9% (2016)<br>
@@ -267,6 +268,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Liberia is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 564,467 tons (2007 est.)<br>

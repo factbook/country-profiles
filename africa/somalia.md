@@ -77,7 +77,7 @@ strategic location on Horn of Africa along southern approaches to Bab el Mandeb 
 ## People and Society
 
 **Population**<br>
-12,094,640 (July 2021 est.)<br>
+12,386,248 (2022 est.)<br>
 <strong>note:</strong> this estimate was derived from an official census taken in 1975 by the Somali Government; population counting in Somalia is complicated by the large number of nomads and by refugee movements in response to famine and clan warfare<br>
 
 **Nationality**<br>
@@ -116,7 +116,7 @@ _male_: 18.7 years<br>
 _female_: 18.3 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.35% (2021 est.)<br>
+2.42% (2022 est.)<br>
 
 **Birth rate**<br>
 37.98 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 18.3 years (2020 est.)<br>
 11.62 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--2.98 migrant(s)/1,000 population (2021 est.)<br>
+-2.18 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 distribution varies greatly throughout the country; least densely populated areas are in the northeast and central regions, as well as areas along the Kenyan border; most populated areas are in and around the cities of Mogadishu, Marka, Boorama, Hargeysa, and Baidoa as shown on this population distribution map<br>
@@ -140,27 +140,27 @@ _rate of urbanization_: 4.2% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 1.07 male(s)/female<br>
-_55-64 years_: 1.05 male(s)/female<br>
-_65 years and over_: 0.66 male(s)/female<br>
-_total population_: 1.02 male(s)/female (2020 est.)<br>
+_15-24 years_: 1 male(s)/female<br>
+_25-54 years_: 1.08 male(s)/female<br>
+_55-64 years_: 1.08 male(s)/female<br>
+_65 years and over_: 0.56 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 829 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 88.03 deaths/1,000 live births<br>
-_male_: 97.71 deaths/1,000 live births<br>
-_female_: 78.05 deaths/1,000 live births (2021 est.)<br>
+_total_: 86.53 deaths/1,000 live births<br>
+_male_: 96.18 deaths/1,000 live births<br>
+_female_: 76.59 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 55.32 years<br>
-_male_: 53.02 years<br>
-_female_: 57.7 years (2021 est.)<br>
+_total population_: 55.72 years<br>
+_male_: 53.39 years<br>
+_female_: 58.12 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-5.41 children born/woman (2021 est.)<br>
+5.31 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 6.9% (2018/19)<br>
@@ -205,6 +205,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever, malaria, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.3% (2016)<br>
@@ -250,6 +251,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever, malaria, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _exceptional shortfall in aggregate food production/supplies_: due to poor seasonal rains - about 2.8 million people are estimated to be severely food insecure in the April&minus;September 2021 period, mainly as a result of the cumulative impact of poor October&minus;December 2020 &ldquo;Deyr&rdquo; rains and April&minus;June &ldquo;Gu&rdquo; rains, which severely affected crop and livestock production; below‑average cereal output gathered in 2020; production of 2021 main season cereals forecast at 20‑40 percent below average due to unfavorable seasonal rains; severe pasture and water shortages in pastoral areas are affecting livestock conditions (2021)<br>

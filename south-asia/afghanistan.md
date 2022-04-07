@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ahmad Shah DURRANI unified the Pashtun tribes and founded Afghanistan in 1747. The country served as a buffer between the British and Russian Empires until it won independence from notional British control in 1919. A brief experiment in increased democracy ended in a 1973 coup and a 1978 communist countercoup. The Soviet Union invaded in 1979 to support the tottering Afghan communist regime, touching off a long and destructive war. The USSR withdrew in 1989 under relentless pressure by internationally supported anti-communist mujahidin rebels. A series of subsequent civil wars saw Kabul finally fall in 1996 to the Taliban, a hardline Pakistani-sponsored movement that emerged in 1994 to end the country's civil war and anarchy. Following the 11 September 2001 terrorist attacks, a US, Allied, and anti-Taliban Northern Alliance military action toppled the Taliban for sheltering Usama BIN LADIN.</p> <p>A UN-sponsored Bonn Conference in 2001 established a process for political reconstruction that included the adoption of a new constitution, a presidential election in 2004, and National Assembly elections in 2005. In December 2004, Hamid KARZAI became the first democratically elected president of Afghanistan and was reelected in August 2009. In February 2020, the United States and the Taliban signed the “US-Taliban Agreement,” which contained commitments by the United States related to the withdrawal from Afghanistan of military forces of the United States, its allies, and Coalition partners, as well as commitments by the Taliban related to counterterrorism, among other topics. Following a US drawdown of virtually all its troops, a summer 2021 Taliban offensive quickly overran the country and the Taliban took over Kabul in August of 2021. </p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p><br>
+<p>Ahmad Shah DURRANI unified the Pashtun tribes and founded Afghanistan in 1747. The country served as a buffer between the British and Russian Empires until it won independence from notional British control in 1919. A brief experiment in increased democracy ended in a 1973 coup and a 1978 communist countercoup. The Soviet Union invaded in 1979 to support the tottering Afghan communist regime, touching off a long and destructive war. The USSR withdrew in 1989 under relentless pressure by internationally supported anti-communist mujahidin rebels. A series of subsequent civil wars saw Kabul finally fall in 1996 to the Taliban, a hardline Pakistani-sponsored movement that emerged in 1994 to end the country's civil war and anarchy. Following the 11 September 2001 terrorist attacks, a US, Allied, and anti-Taliban Northern Alliance military action toppled the Taliban for sheltering Usama BIN LADIN.</p> <p>A UN-sponsored Bonn Conference in 2001 established a process for political reconstruction that included the adoption of a new constitution, a presidential election in 2004, and National Assembly elections in 2005. In December 2004, Hamid KARZAI became the first democratically elected president of Afghanistan and was reelected in August 2009. In February 2020, the United States and the Taliban signed the “US-Taliban Agreement,” which contained commitments by the United States related to the withdrawal from Afghanistan of military forces of the United States, its allies, and Coalition partners, as well as commitments by the Taliban related to counterterrorism, among other topics. Following a US drawdown of virtually all its troops, a summer 2021 Taliban offensive quickly overran the country and the Taliban took over Kabul in August of 2021. </p><br>
 
 ## Geography
 
@@ -82,7 +82,7 @@ landlocked; the Hindu Kush mountains that run northeast to southwest divide the 
 ## People and Society
 
 **Population**<br>
-37,466,414 (July 2021 est.)<br>
+38,346,720 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Afghan(s)<br>
@@ -119,7 +119,7 @@ _male_: 19.4 years<br>
 _female_: 19.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.34% (2021 est.)<br>
+2.3% (2022 est.)<br>
 
 **Birth rate**<br>
 35.46 births/1,000 population (2022 est.)<br>
@@ -128,7 +128,7 @@ _female_: 19.5 years (2020 est.)<br>
 12.33 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.1 migrant(s)/1,000 population (2021 est.)<br>
+-0.1 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 populations tend to cluster in the foothills and periphery of the rugged Hindu Kush range; smaller groups are found in many of the country's interior valleys; in general, the east is more densely settled, while the south is sparsely populated<br>
@@ -146,8 +146,8 @@ _0-14 years_: 1.03 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
 _25-54 years_: 1.03 male(s)/female<br>
 _55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2015 est.)<br>
@@ -157,17 +157,17 @@ _total population_: 1.03 male(s)/female (2020 est.)<br>
 638 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 106.75 deaths/1,000 live births<br>
-_male_: 115.21 deaths/1,000 live births<br>
-_female_: 97.86 deaths/1,000 live births (2021 est.)<br>
+_total_: 104.89 deaths/1,000 live births<br>
+_male_: 113.33 deaths/1,000 live births<br>
+_female_: 96.03 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 53.25 years<br>
-_male_: 51.73 years<br>
-_female_: 54.85 years (2021 est.)<br>
+_total population_: 53.65 years<br>
+_male_: 52.1 years<br>
+_female_: 55.28 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.72 children born/woman (2021 est.)<br>
+4.62 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 18.9% (2018)<br>
@@ -336,7 +336,7 @@ _history_: last ratified in 2004<br>
 _amendments_: formerly proposed by a commission formed by presidential decree followed by the convention of a Grand Council (Loya Jirga) decreed by the president; passage requires at least two-thirds majority vote of the Loya Jirga membership and endorsement by the president<br>
 
 **Legal system**<br>
-<p>before the Taliban's takeover of Kabul in August 2021, Afghanistan had a mixed legal system of civil, customary, and Islamic (sharia) law; after August 2021, the Taliban’s so-called “interim government” has claimed to be implementing its own interpretation of Islamic law, partially based on the Hanafi school of Islamic jurisprudence.</p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p> (2021)<br>
+<p>before the Taliban's takeover of Kabul in August 2021, Afghanistan had a mixed legal system of civil, customary, and Islamic (sharia) law; after August 2021, the Taliban’s so-called “interim government” has claimed to be implementing its own interpretation of Islamic law, partially based on the Hanafi school of Islamic jurisprudence.</p> (2021)<br>
 
 **International law organization participation**<br>
 has not submitted an ICJ jurisdiction declaration; formerly accepted ICCt jurisdiction<br>
@@ -351,38 +351,38 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: <p>president (vacant); note – before 15 August, 2021, the president was both chief of state and head of government; President Ashraf GHANI departed the country on 15 August 2021; on 7 September 2021, the Taliban announced Mullah Mohammad HASSAN Akhund as the so-called “acting Prime Minister” of a so-called “interim government”; as of November 2021, the group had announced three acting so-called “Deputy Prime Ministers”: Mullah Abdul Ghani BERADER, Mullah Abdul Salam HANAFI, and Maulawi Abdul KABIR</p> <p> </p> <p> </p><br>
+_chief of state_: <p>president (vacant); note – before 15 August, 2021, the president was both chief of state and head of government; President Ashraf GHANI departed the country on 15 August 2021; on 7 September 2021, the Taliban announced Mullah Mohammad HASSAN Akhund as the so-called “acting Prime Minister” of a so-called “interim government”; as of November 2021, the group had announced three acting so-called “Deputy Prime Ministers”: Mullah Abdul Ghani BERADER, Mullah Abdul Salam HANAFI, and Maulawi Abdul KABIR</p><br>
 _head of government_: president (vacant); note - President Ashraf GHANI departed the country on 15 August 2021; on 7 September 2021, the Taliban announced Mullah Mohammad HASSAN Akhund as the acting Prime Minister of an interim Taliban government; the US does not recognize the Taliban government; as of November 2021, the group had announced three acting Deputy Prime Ministers: Mullah Abdul Ghani BERADER, Mullah Abdul Salam HANAFI, and Maulawi Abdul KABIR<br>
-_cabinet_: before 15 August 2021, the cabinet formerly consisted of 25 ministers appointed by the president, approved by the National Assembly; the Taliban have announced a so-called “cabinet” which includes 33 ministries <p> </p> <p> </p><br>
+_cabinet_: before 15 August 2021, the cabinet formerly consisted of 25 ministers appointed by the president, approved by the National Assembly; the Taliban have announced a so-called &ldquo;cabinet&rdquo; which includes 33 ministries<br>
 _elections/appointments_: the 2004 Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); election last held on 28 September 2019<br>
 _election results_: no elections have been held since 2019; in that election, Ashraf GHANI was declared winner by the Independent Election Commission on 18 February 2020; the IEC declared Ashraf GHANI the winner with 50.6% of the vote, Abdullah ABDULLAH, Dr. 39.5%, other 0.9%<br>
 
 **Legislative branch**<br>
-_description_: before 15 August, 2021, Afghanistan had a bicameral National Assembly that consisted of a House of Elders and a House of People; since August 15, the Taliban’s so-called “interim government” has not purported to announce the formation of a legislative branch <p> </p> <p> </p> <p> </p> <p> </p> <p> </p><br>
-_elections_: before 15 August, 2021:  House of Elders - district councils - held within 5 days of installation; provincial councils - within 15 days of installation; and presidential appointees - within 2 weeks after the presidential inauguration; note - in early 2016, former President Ashraf Ghani extended their mandate until parliamentary and district elections could be held; former House of People - last held on 20 October 2018 <p> </p> <p> </p><br>
-_election results_: former House of Elders - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>former House of People - percent of vote by party NA; seats by party - NA; composition - men 182, women 68, percent of women 27.2%; note - total National Assembly percent of women 24.1%<br>
+_description_: before 15 August, 2021, Afghanistan had a bicameral National Assembly that consisted of a House of Elders and a House of People; since August 15, the Taliban&rsquo;s so-called &ldquo;interim government&rdquo; has not purported to announce the formation of a legislative branch<br>
+_elections_: before 15 August, 2021:&nbsp; House of Elders - district councils - held within 5 days of installation; provincial councils - within 15 days of installation; and presidential appointees - within 2 weeks after the presidential inauguration; note - in early 2016, former President Ashraf Ghani extended their mandate until parliamentary and district elections could be held; former House of People - last held on 20 October 2018<br>
+_election results_: before 15 August 2021, House of Elders - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>before 15 August 2021, House of People - percent of vote by party NA; seats by party - NA; composition - men 179, women 69, percent of women 27.7%; note - total National Assembly percent of women 24.4%<br>
 
 **Judicial branch**<br>
-_highest courts_: the Taliban has a longstanding Ulema Shura consisting of Islamic jurists and scholars; prior to the Taliban takeover in August 2021, Afghanistan had a Supreme Court (consisting of a supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions)<br>
-_judge selection and term of office_: previously a court chief and justices were appointed by the president with the approval of the Wolesi Jirga; court chief and justices served single 10-year terms<br>
-_subordinate courts_: formerly consisted of Appeals Courts; Primary Courts; and Special Courts for issues including narcotics, security, property, family, and juveniles<br>
+_highest courts_: the Taliban&rsquo;s so-called &ldquo;interim government&rdquo; has a &ldquo;Supreme Court&rdquo; (consisting of a supreme court chief and an unknown number of justices); before 15 August, 2021, Afghanistan had a Supreme Court (consisting of a supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions)<br>
+_judge selection and term of office_: the court chief and justices were appointed by the president with the approval of the Wolesi Jirga; court chief and justices served single 10-year terms<br>
+_subordinate courts_: before 15 August 2021, consisted of Appeals Courts; Primary Courts; and Special Courts for issues including narcotics, security, property, family, and juveniles<br>
 
 **Political parties and leaders**<br>
-the Taliban enforces an authoritarian state in which there are no competing political parties; before the Taliban takeover in August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br>
+the Taliban’s so-called “interim government” includes mostly Taliban members and not other political parties; before 15 August, 2021, the Ministry of Justice had licensed 72 political parties as of April 2019 <p> </p> <p> </p> <p> </p> <p> </p><br>
 
 **International organization participation**<br>
-as of December 2021, the Taliban government does not participate in international organizations; before the Taliban takeover, Afghanistan was a member or participant in these organizations: ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+before 15 August, 2021, Afghanistan was a member or participant in the following organizations: ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); note - formerly Ambassador Adela RAZ (since July 2021); the Embassy of the former Afghan government remains in Washington, D.C. however, the US does not recognize the former government or the Taliban government<br>
+_chief of mission_: the Afghan Embassy closed in March 2022<br>
 _chancery_: 2341 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-6410<br>
 _FAX_: [1] (202) 483-6488<br>
 _email address and website_: <br>info@afghanembassy.us<br><br>https://www.afghanembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); note - the US does not recognize the Taliban government<br>
-_embassy_: the US Embassy in Kabul closed in August 2021<br>
+_chief of mission_: Ambassador (vacant); Charge d’Affaires: Ian MCCARY (since August 2021); note – since 15 August 2021, the United States has not yet made a decision whether to recognize the Taliban or any other entity as the Government of Afghanistan <p> </p> <p> </p> <p> </p> <p> </p><br>
+_embassy_: Embassy Kabul, operations have been suspended; Department of State’s Afghanistan Affairs Unit operates from Doha, Qatar. <p> </p> <p> </p> <p> </p> <p> </p><br>
 
 **Flag description**<br>
 three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>
@@ -622,13 +622,12 @@ _total subscriptions_: 22,580,071 (2019)<br>
 _subscriptions per 100 inhabitants_: 59.36 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: before the Taliban takeover in August 2021, Afghanistan had successfully rebuilt infrastructure to create a functional telecom sector that covered nearly all of the population; due to mountainous geography, country relies on its mobile network; mobile broadband penetration growing, but is still low compared to other countries in Asia; operator launched LTE in Kabul; World Bank and other donors support development of a nationwide fiber backbone; terrestrial cable connectivity to five neighboring countries; work on the &lsquo;Wakhan Corridor Fiber Optic Survey Project&rsquo; to connect to China is nearing completion; major importer of broadcasting equipment from UAE (2021)<br>
-_domestic_: before the Taliban takeover in August 2021, less than 1 per 100 for fixed-line teledensity; 59 per 100 for mobile-cellular; an increasing number of Afghans utilize mobile-cellular phone networks (2021)<br>
+_general assessment_: before 15 August 2021, Afghanistan had successfully rebuilt infrastructure to create a functional telecom sector that covered nearly all of the population; due to mountainous geography, Afghanistan relies on its mobile network; mobile broadband penetration growing, but is still low compared to other countries in Asia; operator launched LTE in Kabul; World Bank and other donors support development of a nationwide fiber backbone; terrestrial cable connectivity to five neighboring countries; work on the &lsquo;Wakhan Corridor Fiber Optic Survey Project&rsquo; to connect to China is nearing completion; major importer of broadcasting equipment from UAE (2021)<br>
+_domestic_: before 15 August 2021, less than 1 per 100 for fixed-line teledensity; 59 per 100 for mobile-cellular; an increasing number of Afghans utilize mobile-cellular phone networks (2021)<br>
 _international_: country code - 93; multiple VSAT's&nbsp;provide international and domestic voice and data connectivity (2019)<br>
-<p style="background: white; margin: 0in 0in 6.4pt 0in;"> </p><br>
 
 **Broadcast media**<br>
-since the Taliban takeover in August 2021, independent media outlets have decreased in number and are probably self-censoring criticism of the Taliban; before August 2021, the former Afghan Government-owned broadcaster, Radio Television Afghanistan (RTA), operated a series of radio and television stations in Kabul and the provinces and the country had an estimated 174 private radio stations and 83 TV stations; television and radio are key media platforms; only about a fifth of Afghans use the internet, mostly through smartphones (2021)<br>
+since 15 August 2021, independent media outlets have decreased in number due to financial hardships, departure of staff from the country, and restrictions placed by the Taliban; media workers report self-censoring criticism of the Taliban; before 15 August 2021, the former Afghan Government-owned broadcaster, Radio Television Afghanistan (RTA), operated a series of radio and television stations in Kabul and the provinces and the country had an estimated 174 private radio stations and 83 TV stations; television and radio are key media platforms; only about a fifth of Afghans in urban areas use the internet, mostly through smartphones, and young adults are significantly more likely to use the internet (2021)<br>
 
 **Internet country code**<br>
 .af<br>
@@ -709,7 +708,7 @@ the former Afghan military's inventory was mostly a mix of Soviet-era and more m
 not available<br>
 
 **Military - note**<br>
-<p>during the fighting with the Afghan Government, the Taliban’s military operations and strategy were directed by a leadership council (Rahbari Shura) led by HAIBATULLAH Akhundzada; Taliban forces were a decentralized guerrilla and militia force of approximately 60-80,000 full-time fighters loosely organized as battalions and brigades with at least one corps headquarters; as of October 2021, the Taliban was still forming an official military structure, although it reportedly had named commanders for 8 regional corps and established a named special forces unit</p> <p> </p><br>
+<p>during the fighting with the Afghan Government, the Taliban’s military operations and strategy were directed by a leadership council (Rahbari Shura) led by HAIBATULLAH Akhundzada; Taliban forces were a decentralized guerrilla and militia force of approximately 60-80,000 full-time fighters loosely organized as battalions and brigades with at least one corps headquarters; as of October 2021, the Taliban was still forming an official military structure, although it reportedly had named commanders for 8 regional corps and established a named special forces unit</p><br>
 
 ## Terrorism
 

@@ -79,7 +79,7 @@ crossroads of Western Europe; most West European capitals are within 1,000 km of
 ## People and Society
 
 **Population**<br>
-11,778,842 (July 2021 est.)<br>
+11,847,338 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Belgian(s)<br>
@@ -114,7 +114,7 @@ _male_: 40.4 years<br>
 _female_: 42.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.59% (2021 est.)<br>
+0.57% (2022 est.)<br>
 
 **Birth rate**<br>
 10.95 births/1,000 population (2022 est.)<br>
@@ -123,7 +123,7 @@ _female_: 42.8 years (2020 est.)<br>
 9.64 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-4.58 migrant(s)/1,000 population (2021 est.)<br>
+4.38 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas<br>
@@ -138,11 +138,11 @@ _rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
+_15-24 years_: 1.05 male(s)/female<br>
 _25-54 years_: 1.02 male(s)/female<br>
 _55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.65 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29.2 years (2019 est.)<br>
@@ -151,17 +151,17 @@ _total population_: 0.97 male(s)/female (2020 est.)<br>
 5 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.24 deaths/1,000 live births<br>
-_male_: 3.68 deaths/1,000 live births<br>
-_female_: 2.78 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.19 deaths/1,000 live births<br>
+_male_: 3.63 deaths/1,000 live births<br>
+_female_: 2.73 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 81.65 years<br>
-_male_: 79.02 years<br>
-_female_: 84.4 years (2021 est.)<br>
+_total population_: 81.86 years<br>
+_male_: 79.25 years<br>
+_female_: 84.59 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.77 children born/woman (2021 est.)<br>
+1.77 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.7% (2018)<br>
@@ -698,7 +698,7 @@ note - in 2020, women comprised about 9% of the military's full-time personnel<b
 125 France (contributing member of EuroCorps); 100 Mali (EUTM/MINUSMA); 200 Lithuania (NATO) (2021)<br>
 
 **Military - note**<br>
-Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 <br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
+Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries<br><br></p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
 
 ## Terrorism
 

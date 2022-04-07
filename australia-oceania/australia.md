@@ -89,7 +89,7 @@ population is primarily located on the periphery, with the highest concentration
 ## People and Society
 
 **Population**<br>
-25,809,973 (July 2021 est.)<br>
+26,141,369 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Australian(s)<br>
@@ -125,7 +125,7 @@ _male_: 36.5 years<br>
 _female_: 38.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.31% (2021 est.)<br>
+1.25% (2022 est.)<br>
 
 **Birth rate**<br>
 12.3 births/1,000 population (2022 est.)<br>
@@ -134,7 +134,7 @@ _female_: 38.5 years (2020 est.)<br>
 6.77 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-7.49 migrant(s)/1,000 population (2021 est.)<br>
+6.93 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or "outback", has a very sparse population<br>
@@ -149,12 +149,12 @@ _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
+_0-14 years_: 1.07 male(s)/female<br>
 _15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
+_25-54 years_: 1 male(s)/female<br>
 _55-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.86 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.72 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.7 years (2019 est.)<br>
@@ -163,17 +163,17 @@ _total population_: 0.99 male(s)/female (2020 est.)<br>
 6 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 3.05 deaths/1,000 live births<br>
-_male_: 3.29 deaths/1,000 live births<br>
-_female_: 2.8 deaths/1,000 live births (2021 est.)<br>
+_total_: 3.01 deaths/1,000 live births<br>
+_male_: 3.24 deaths/1,000 live births<br>
+_female_: 2.76 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 82.89 years<br>
-_male_: 80.73 years<br>
-_female_: 85.17 years (2021 est.)<br>
+_total population_: 83.09 years<br>
+_male_: 80.93 years<br>
+_female_: 85.36 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.74 children born/woman (2021 est.)<br>
+1.73 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 66.9% (2015/16)<br>
@@ -359,7 +359,7 @@ _election results_: <br>Senate - percent of vote by party - Liberal/National coa
 **Judicial branch**<br>
 _highest courts_: High Court of Australia (consists of 7 justices, including the chief justice); note - each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court beyond the state and territory supreme courts<br>
 _judge selection and term of office_: justices appointed by the governor-general in council for life with mandatory retirement at age 70<br>
-_subordinate courts_: <em>at the federal level:</em> Federal Court; Federal Magistrates' Courts of Australia; Family Court; <em>at the state and territory level:</em> Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island<br>
+_subordinate courts_: subordinate courts: <em>at the federal level:</em> Federal Court; Federal Circuit and Family Court of Australia;  <em>at the state and territory level:</em> Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island <p> </p> <p> </p><br>
 
 **Political parties and leaders**<br>
 Australian Greens Party [Adam BANDT]<br>Australian Labor Party or ALP [Anthony ALBANESE]<br>Liberal Party of Australia [Scott MORRISON]<br>The Nationals [Barnaby JOYCE]<br>Pauline Hanson’s One Nation [Pauline HANSON]<br>
@@ -393,7 +393,7 @@ Commonwealth Star (seven-pointed Star of Federation), golden wattle tree (Acacia
 **National anthem**<br>
 _name_: Advance Australia Fair<br>
 _lyrics/music_: Peter Dodds McCORMICK<br>
-<strong>note:</strong> adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br>
+<strong>note 1:</strong> adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br><br><strong>note 2:</strong> the well-known and much-loved bush ballad "Waltzing Matilda" is often referred to as Australia's unofficial national anthem; the original lyrics were written in 1895 by Australian poet Banjo Paterson, and were first published as sheet music in 1903; since 2012, a Waltzing Matilda Day has been held annually on 6 April, the anniversary of the first performance of the song in 1895<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 20 (4 cultural, 12 natural, 4 mixed); note - includes one site on Heard Island and McDonald Islands<br>

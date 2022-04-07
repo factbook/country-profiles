@@ -87,7 +87,7 @@ approximately one-third of the population resides along the desert coastal belt 
 ## People and Society
 
 **Population**<br>
-32,201,224 (July 2021 est.)<br>
+32,275,736 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Peruvian(s)<br>
@@ -125,7 +125,7 @@ _male_: 28.3 years<br>
 _female_: 29.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.88% (2021 est.)<br>
+0.51% (2022 est.)<br>
 
 **Birth rate**<br>
 17.21 births/1,000 population (2022 est.)<br>
@@ -134,7 +134,7 @@ _female_: 29.9 years (2020 est.)<br>
 11.32 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.76 migrant(s)/1,000 population (2021 est.)<br>
+-0.75 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated<br>
@@ -150,10 +150,10 @@ _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.01 male(s)/female<br>
-_25-54 years_: 0.92 male(s)/female<br>
-_55-64 years_: 0.92 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.95 male(s)/female<br>
+_55-64 years_: 0.9 male(s)/female<br>
+_65 years and over_: 0.63 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.9 years (2013 est.)<br>
@@ -163,17 +163,17 @@ _total population_: 0.96 male(s)/female (2020 est.)<br>
 88 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 19.37 deaths/1,000 live births<br>
-_male_: 22.02 deaths/1,000 live births<br>
-_female_: 16.6 deaths/1,000 live births (2021 est.)<br>
+_total_: 10.8 deaths/1,000 live births<br>
+_male_: 11.89 deaths/1,000 live births<br>
+_female_: 9.65 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.96 years<br>
-_male_: 72.84 years<br>
-_female_: 77.19 years (2021 est.)<br>
+_total population_: 68.94 years<br>
+_male_: 65.38 years<br>
+_female_: 72.67 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.02 children born/woman (2021 est.)<br>
+2.2 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 76.3% (2018)<br>
@@ -216,7 +216,7 @@ _unimproved: total_: total: 12.6% of population (2020 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 6 October 2021, Peru has reported a total of 2,179,316 cases of COVID-19 or 6,609.63 cumulative cases of COVID-19 per 100,000 population with 605.07 cumulative deaths per 100,000 population; as of 3 October 2021, 48.51% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 30 March 2022, Peru has reported a total of 3,545,628 cases of COVID-19 or 10,753.49 cumulative cases of COVID-19 per 100,000 population with a total of 212,157 cumulative deaths or a rate of 643.45 cumulative deaths per 100,000 population; as of 29 March 2022, 85.08% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 19.7% (2016)<br>
@@ -282,7 +282,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 6 October 2021, Peru has reported a total of 2,179,316 cases of COVID-19 or 6,609.63 cumulative cases of COVID-19 per 100,000 population with 605.07 cumulative deaths per 100,000 population; as of 3 October 2021, 48.51% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 30 March 2022, Peru has reported a total of 3,545,628 cases of COVID-19 or 10,753.49 cumulative cases of COVID-19 per 100,000 population with a total of 212,157 cumulative deaths or a rate of 643.45 cumulative deaths per 100,000 population; as of 29 March 2022, 85.08% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 8,356,711 tons (2014 est.)<br>
@@ -367,7 +367,7 @@ _election results_: <br><em>2021: </em>Jose Pedro CASTILLO Terrones elected pre
 **Legislative branch**<br>
 _description_: unicameral Congress of the Republic of Peru or Congreso de la Republica del Peru (130 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve single 5-year terms)<br>
 _elections_: last held on 11 April 2021 (next to be held in April 2026)<br>
-_election results_: <br>percent of vote by party/coalition - Free Peru 13.41%, Popular Force 11.34%, AP 9.02%, Popular Renewal 9.33%, APP 7.54%, Avanza Pais 7.54%, JP 6.59%, We Are Peru 6.13%, We Can Peru 5.83%, Purple Party 5.42%; <br><br>seats by party/coalition - Free Peru 37, Popular Force 24, AP 16, APP 15, Popular Renewal 13, Avanza Pais 7, We Are Peru 5, We Can Peru 5, JP 5, Purple Party 3; composition - men 96, women 34, percent of women 26.2%<br>
+_election results_: <br>percent of vote by party/coalition - Free Peru 13.41%, Popular Force 11.34%, AP 9.02%, Popular Renewal 9.33%, APP 7.54%, Avanza Pais 7.54%, JP 6.59%, We Are Peru 6.13%, We Can Peru 5.83%, Purple Party 5.42%; <br>seats by party/coalition - Free Peru 37, Popular Force 24, AP 16, APP 15, Popular Renewal 13, Avanza Pais 7, We Are Peru 5, We Can Peru 5, JP 5, Purple Party 3; composition - men 78, women 52, percent of women 40%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 16 judges and divided into civil, criminal, and constitutional-social sectors)<br>
@@ -649,7 +649,7 @@ _international_: country code - 51; landing points for the SAM-1, IGW, American 
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-10 major TV networks of which only one, Television Nacional de Peru, is state owned; multi-channel cable TV services are available; in excess of 2,000 radio stations including a substantial number of indigenous language stations (2019)<br>
+10 major TV networks of which only one, Television Nacional de Peru, is state owned; multi-channel cable TV services are available; in excess of 5,000 radio stations including a substantial number of indigenous language stations (2021)<br>
 
 **Internet country code**<br>
 .pe<br>

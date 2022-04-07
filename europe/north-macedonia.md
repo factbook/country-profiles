@@ -76,7 +76,7 @@ landlocked; major transportation corridor from Western and Central Europe to Aeg
 ## People and Society
 
 **Population**<br>
-2,128,262 (July 2021 est.)<br>
+2,130,936 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Macedonian(s)<br>
@@ -112,7 +112,7 @@ _male_: 38 years<br>
 _female_: 40 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.13% (2021 est.)<br>
+0.12% (2022 est.)<br>
 
 **Birth rate**<br>
 10.45 births/1,000 population (2022 est.)<br>
@@ -121,7 +121,7 @@ _female_: 40 years (2020 est.)<br>
 9.61 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.38 migrant(s)/1,000 population (2021 est.)<br>
+0.38 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -137,10 +137,10 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.07 male(s)/female<br>
 _0-14 years_: 1.07 male(s)/female<br>
 _15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
+_25-54 years_: 1.04 male(s)/female<br>
 _55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.78 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.55 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27 years (2019 est.)<br>
@@ -149,17 +149,17 @@ _total population_: 0.99 male(s)/female (2020 est.)<br>
 7 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 7.49 deaths/1,000 live births<br>
-_male_: 8.46 deaths/1,000 live births<br>
-_female_: 6.46 deaths/1,000 live births (2021 est.)<br>
+_total_: 7.32 deaths/1,000 live births<br>
+_male_: 8.27 deaths/1,000 live births<br>
+_female_: 6.31 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.59 years<br>
-_male_: 74.47 years<br>
-_female_: 78.84 years (2021 est.)<br>
+_total population_: 76.84 years<br>
+_male_: 74.73 years<br>
+_female_: 79.08 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.51 children born/woman (2021 est.)<br>
+1.51 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 59.9% (2018/19)<br>
@@ -675,7 +675,7 @@ the inventory of North Macedonia's Army consists mostly of Soviet-era equipment;
 note - as of 2019, women made up about 8% of the military's full-time personnel<br>
 
 **Military - note**<br>
-North Macedonia officially became the 30th member of NATO in 2020<br>
+North Macedonia officially became the 30th member of NATO in 2020; Greece provides NATO's air policing mission for North Macedonia<br>
 
 ## Terrorism
 

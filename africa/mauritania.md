@@ -85,7 +85,7 @@ Mauritania is considered both a part of North Africa's Maghreb region and West A
 ## People and Society
 
 **Population**<br>
-4,079,284 (July 2021 est.)<br>
+4,161,925 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Mauritanian(s)<br>
@@ -123,7 +123,7 @@ _male_: 20.1 years<br>
 _female_: 22 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.02% (2021 est.)<br>
+1.99% (2022 est.)<br>
 
 **Birth rate**<br>
 28.06 births/1,000 population (2022 est.)<br>
@@ -132,7 +132,7 @@ _female_: 22 years (2020 est.)<br>
 7.43 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.74 migrant(s)/1,000 population (2021 est.)<br>
+-0.72 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 with most of the country being a desert, vast areas of the country, particularly in the central, northern, and eastern areas, are without sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal as shown in this population distribution map<br>
@@ -148,26 +148,26 @@ _rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-24 years_: 0.96 male(s)/female<br>
-_25-54 years_: 0.87 male(s)/female<br>
+_25-54 years_: 0.86 male(s)/female<br>
 _55-64 years_: 0.83 male(s)/female<br>
-_65 years and over_: 0.73 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.61 male(s)/female<br>
+_total population_: 0.93 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 766 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 52.05 deaths/1,000 live births<br>
-_male_: 57.96 deaths/1,000 live births<br>
-_female_: 45.96 deaths/1,000 live births (2021 est.)<br>
+_total_: 50.99 deaths/1,000 live births<br>
+_male_: 56.89 deaths/1,000 live births<br>
+_female_: 44.91 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 64.86 years<br>
-_male_: 62.43 years<br>
-_female_: 67.37 years (2021 est.)<br>
+_total population_: 65.22 years<br>
+_male_: 62.77 years<br>
+_female_: 67.75 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.59 children born/woman (2021 est.)<br>
+3.53 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 17.8% (2015)<br>
@@ -209,6 +209,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mauritania is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 12.7% (2016)<br>
@@ -276,6 +277,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mauritania is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to poor performance of pastoral cropping season - according to the latest analysis, about 484,000 people are assessed to need humanitarian assistance in the June&minus;August 2021 period as a result of fodder production deficits in Trarza, Brakna, Gorgol, Guidimaka and Assaba districts (2021)<br>

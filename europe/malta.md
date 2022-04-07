@@ -74,7 +74,7 @@ the country comprises an archipelago, with only the three largest islands (Malta
 ## People and Society
 
 **Population**<br>
-460,891 (July 2021 est.)<br>
+464,186 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Maltese (singular and plural)<br>
@@ -108,7 +108,7 @@ _male_: 41.2 years<br>
 _female_: 43.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.75% (2021 est.)<br>
+0.67% (2022 est.)<br>
 
 **Birth rate**<br>
 9.73 births/1,000 population (2022 est.)<br>
@@ -117,7 +117,7 @@ _female_: 43.5 years (2020 est.)<br>
 8.48 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-6.04 migrant(s)/1,000 population (2021 est.)<br>
+5.49 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 most of the population lives on the eastern half of Malta, the largest of the three inhabited islands<br>
@@ -131,12 +131,12 @@ _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
-_0-14 years_: 1.07 male(s)/female<br>
+_0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.07 male(s)/female<br>
-_25-54 years_: 1.08 male(s)/female<br>
+_25-54 years_: 1.09 male(s)/female<br>
 _55-64 years_: 1.01 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 29 years (2019 est.)<br>
@@ -146,17 +146,17 @@ _total population_: 1.01 male(s)/female (2020 est.)<br>
 6 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.62 deaths/1,000 live births<br>
-_male_: 4.51 deaths/1,000 live births<br>
-_female_: 4.73 deaths/1,000 live births (2021 est.)<br>
+_total_: 4.53 deaths/1,000 live births<br>
+_male_: 4.43 deaths/1,000 live births<br>
+_female_: 4.64 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 83 years<br>
-_male_: 80.91 years<br>
-_female_: 85.19 years (2021 est.)<br>
+_total population_: 83.2 years<br>
+_male_: 81.11 years<br>
+_female_: 85.38 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.5 children born/woman (2021 est.)<br>
+1.5 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

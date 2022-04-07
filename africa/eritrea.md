@@ -73,7 +73,7 @@ strategic geopolitical position along world's busiest shipping lanes; Eritrea re
 ## People and Society
 
 **Population**<br>
-6,147,398 (July 2021 est.)<br>
+6,209,262 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Eritrean(s)<br>
@@ -111,7 +111,7 @@ _male_: 19.7 years<br>
 _female_: 20.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.98% (2021 est.)<br>
+1.03% (2022 est.)<br>
 
 **Birth rate**<br>
 27.04 births/1,000 population (2022 est.)<br>
@@ -120,7 +120,7 @@ _female_: 20.8 years (2020 est.)<br>
 6.69 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--10.84 migrant(s)/1,000 population (2021 est.)<br>
+-10.11 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 density is highest in the center of the country in and around the cities of Asmara (capital) and Keren; smaller settlements exist in the north and south as shown in this population distribution map<br>
@@ -137,9 +137,9 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-24 years_: 0.99 male(s)/female<br>
 _25-54 years_: 0.96 male(s)/female<br>
-_55-64 years_: 0.84 male(s)/female<br>
-_65 years and over_: 0.69 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.88 male(s)/female<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.3 years (2010 est.)<br>
@@ -149,17 +149,17 @@ _total population_: 0.97 male(s)/female (2020 est.)<br>
 480 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 42.39 deaths/1,000 live births<br>
-_male_: 49.3 deaths/1,000 live births<br>
-_female_: 35.28 deaths/1,000 live births (2021 est.)<br>
+_total_: 41.5 deaths/1,000 live births<br>
+_male_: 48.36 deaths/1,000 live births<br>
+_female_: 34.44 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.51 years<br>
-_male_: 63.92 years<br>
-_female_: 69.18 years (2021 est.)<br>
+_total population_: 66.85 years<br>
+_male_: 64.25 years<br>
+_female_: 69.53 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.65 children born/woman (2021 est.)<br>
+3.58 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 8.4% (2010)<br>
@@ -591,8 +591,8 @@ government controls broadcast media with private ownership prohibited; 1 state-o
 .er<br>
 
 **Internet users**<br>
-_total_: 248,200 (2021 est.)<br>
-_percent of population_: 1.31% (2019 est.)<br>
+_total_: 290,500 (2022 est.)<br>
+_percent of population_: 8% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2017 est.)<br>

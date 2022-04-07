@@ -87,7 +87,7 @@ highest density is found in the highlands of the north and middle areas of the c
 ## People and Society
 
 **Population**<br>
-110,871,031 (July 2021 est.)<br>
+113,656,596 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -126,7 +126,7 @@ _male_: 19.6 years<br>
 _female_: 20.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.5% (2021 est.)<br>
+2.46% (2022 est.)<br>
 
 **Birth rate**<br>
 30.49 births/1,000 population (2022 est.)<br>
@@ -135,7 +135,7 @@ _female_: 20.1 years (2020 est.)<br>
 5.7 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.2 migrant(s)/1,000 population (2021 est.)<br>
+-0.19 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map<br>
@@ -152,9 +152,9 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-24 years_: 1 male(s)/female<br>
 _25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.85 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.3 years (2019 est.)<br>
@@ -164,17 +164,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 401 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 34.62 deaths/1,000 live births<br>
-_male_: 39.56 deaths/1,000 live births<br>
-_female_: 29.53 deaths/1,000 live births (2021 est.)<br>
+_total_: 33.51 deaths/1,000 live births<br>
+_male_: 38.33 deaths/1,000 live births<br>
+_female_: 28.55 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 67.9 years<br>
-_male_: 65.79 years<br>
-_female_: 70.06 years (2021 est.)<br>
+_total population_: 68.25 years<br>
+_male_: 66.12 years<br>
+_female_: 70.44 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.07 children born/woman (2021 est.)<br>
+3.99 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 37% (2019)<br>
@@ -220,6 +220,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ethiopia is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 4.5% (2016)<br>
@@ -288,6 +289,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ethiopia is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to civil conflict - more than 16 million people were estimated to be severely food insecure in the May&minus;June 2021 period; particular concerns exist for the Tigray Region and neighboring zones of Amhara and Afar regions, where 5.5 million people (about 60 percent of the population) are estimated to face severe food insecurity due to the conflict which started in November 2020 (2021)<br>
@@ -661,8 +663,8 @@ _international_: country code - 251; open-wire to Sudan and Djibouti; microwave 
 .et<br>
 
 **Internet users**<br>
-_total_: 23.96 million (2021 est.)<br>
-_percent of population_: 18.62% (2019 est.)<br>
+_total_: 23.96 million (2022 est.)<br>
+_percent of population_: 25% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 62,950 (2017 est.)<br>

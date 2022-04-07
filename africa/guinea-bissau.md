@@ -77,7 +77,7 @@ this small country is swampy along its western coast and low-lying inland<br>
 ## People and Society
 
 **Population**<br>
-1,976,187 (July 2021 est.)<br>
+2,026,778 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Bissau-Guinean(s)<br>
@@ -114,7 +114,7 @@ _male_: 17.4 years<br>
 _female_: 18.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.52% (2021 est.)<br>
+2.53% (2022 est.)<br>
 
 **Birth rate**<br>
 36.45 births/1,000 population (2022 est.)<br>
@@ -123,7 +123,7 @@ _female_: 18.6 years (2020 est.)<br>
 7.5 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--3.72 migrant(s)/1,000 population (2021 est.)<br>
+-3.63 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 approximately one-fifth of the population lives in the capital city of Bissau along the Atlantic coast; the remainder is distributed among the eight other, mainly rural, regions as shown in this population distribution map<br>
@@ -139,26 +139,26 @@ _rate of urbanization_: 3.22% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-24 years_: 0.96 male(s)/female<br>
-_25-54 years_: 0.9 male(s)/female<br>
-_55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.91 male(s)/female<br>
+_55-64 years_: 1.1 male(s)/female<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 667 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 50.44 deaths/1,000 live births<br>
-_male_: 56.33 deaths/1,000 live births<br>
-_female_: 44.37 deaths/1,000 live births (2021 est.)<br>
+_total_: 49.05 deaths/1,000 live births<br>
+_male_: 54.84 deaths/1,000 live births<br>
+_female_: 43.08 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 63.26 years<br>
-_male_: 61.04 years<br>
-_female_: 65.55 years (2021 est.)<br>
+_total population_: 63.68 years<br>
+_male_: 61.45 years<br>
+_female_: 65.99 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.72 children born/woman (2021 est.)<br>
+4.69 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 20.6% (2018)<br>
@@ -200,6 +200,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea-Bissau is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 9.5% (2016)<br>
@@ -257,6 +258,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea-Bissau is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 289,514 tons (2015 est.)<br>
@@ -320,7 +322,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Umaro Sissoko EMBALO (since 27 February 2020); note - President EMBALO was declared winner of the 29 December 2019 runoff presidential election by the electoral commission. In late February 2020, Embalo seized power with the help of the military without being officially inaugurated, even though the Supreme Court of Justice had yet to rule on an electoral litigation appeal lodged by his political rival Domingos Simoes PEREIRA.<br>
+_chief of state_: President Umaro Sissoko EMBALO (since 27 February 2020); note - President EMBALO was declared winner of the 29 December 2019 runoff presidential election by the electoral commission. In late February 2020, Embalo inaugurated himself with only military leadership present, even though the Supreme Court of Justice had yet to rule on an electoral litigation appeal lodged by his political rival Domingos Simoes PEREIRA.<br>
 _head of government_: Prime Minister Nuno NABIAM (since 27 February 2020)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 24 November 2019 with a runoff on 29 December 2019 (next to be held in 2024); prime minister appointed by the president after consultation with party leaders in the National People's Assembly; note - the president cannot apply for a third consecutive term, nor during the 5 years following the end of the second term<br>
@@ -337,7 +339,7 @@ _judge selection and term of office_: judges nominated by the Higher Council of 
 _subordinate courts_: Appeals Court; regional (first instance) courts; military court<br>
 
 **Political parties and leaders**<br>
-African Party for the Independence of Guinea-Bissau and Cabo Verde or PAIGC [Domingos SIMOES PEREIRA]<br>Democratic Convergence Party or PCD [Vicente FERNANDES]<br>Movement for Democratic Alternation Group of 15 or MADEM-G15 [Braima CAMARA]<br>National People’s Assembly – Democratic Party of Guinea Bissau or APU-PDGB [Nuno Gomes NABIAM]<br>New Democracy Party or PND [Mamadu Iaia DJALO]<br>Party for Social Renewal or PRS [Alberto NAMBEIA]<br>Republican Party for Independence and Development or PRID [Aristides GOMES]<br>Union for Change or UM [Agnelo REGALA]<br>
+African Party for the Independence of Guinea and Cabo Verde or PAIGC [Domingos SIMOES PEREIRA]<br>Democratic Convergence Party or PCD [Vicente FERNANDES]<br>Movement for Democratic Alternation Group of 15 or MADEM-G15 [Braima CAMARA]<br>National People’s Assembly – Democratic Party of Guinea Bissau or APU-PDGB [Nuno Gomes NABIAM]<br>New Democracy Party or PND [Mamadu Iaia DJALO]<br>Party for Social Renewal or PRS [Alberto NAMBEIA]<br>Republican Party for Independence and Development or PRID [Aristides GOMES]<br>Union for Change or UM [Agnelo REGALA]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AOSIS, AU, CPLP, ECOWAS, FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -346,7 +348,7 @@ ACP, AfDB, AOSIS, AU, CPLP, ECOWAS, FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IDB, I
 _chief of mission_: none; note - Guinea-Bissau does not have official representation in Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US Embassy suspended operations on 14 June 1998; the US Ambassador to Senegal is accredited to Guinea-Bissau<br>
+_embassy_: the US Embassy suspended operations on 14 June 1998; the US Ambassador to Senegal is accredited to Guinea-Bissau. U.S. diplomatic representation in Guinea-Bissau is conducted through the U.S. Embassy in Dakar and the Guinea-Bissau Liaison Office located in Bissau.<br>
 _mailing address_: 2080 Bissau Place, Washington DC&nbsp; 20521-2080<br>
 _email address and website_: <br>dakarACS@state.gov<br><br>https://gw.usmission.gov/<br>
 
@@ -575,7 +577,7 @@ _total subscriptions_: 1,913,858 (2020)<br>
 _subscriptions per 100 inhabitants_: 97.25 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: small system including a combination of microwave radio relay, open-wire lines, radiotelephone, and mobile cellular communications;&nbsp;2 mobile network operators; one of the poorest countries in the world and this is reflected in the countries telecommunications development; radio is the most important source of information for the public (2020)<br>
+_general assessment_: small system including a combination of microwave radio relay, open-wire lines, radiotelephone, and mobile cellular communications; 2 mobile network operators; one of the poorest countries in the world and this is reflected in the country's telecommunications development; radio is the most important source of information for the public (2020)<br>
 _domestic_: fixed-line teledensity less than 1 per 100 persons; mobile cellular teledensity is just over 97 per 100 persons (2020)<br>
 _international_: country code - 245; ACE submarine cable connecting Guinea-Bissau with 20 landing points in Western and South Africa and Europe (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

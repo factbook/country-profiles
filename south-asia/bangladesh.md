@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The huge delta region formed at the confluence of the Ganges and Brahmaputra River systems - now referred to as Bangladesh - was a loosely incorporated outpost of various empires centered on the Gangetic plain for much of the first millennium A.D. Muslim conversions and settlement in the region began in the 10th century, primarily from Arab and Persian traders and preachers. Europeans established trading posts in the area in the 16th century. Eventually the area known as Bengal, primarily Hindu in the western section and mostly Muslim in the eastern half, became part of British India. Partition in 1947 resulted in an eastern wing of Pakistan in the Muslim-majority area, which became East Pakistan. Calls for greater autonomy and animosity between the eastern and western wings of Pakistan led to a Bengali independence movement. That movement, led by the Awami League (AL) and supported by India, won the independence war for Bangladesh in 1971.</p> <p>The post-independence AL government faced daunting challenges and in 1975 it was overthrown by the military, triggering a series of military coups that resulted in a military-backed government and subsequent creation of the Bangladesh Nationalist Party (BNP) in 1978. That government also ended in a coup in 1981, followed by military-backed rule until democratic elections occurred in 1991. The BNP and AL have alternated in power since 1991, with the exception of a military-backed, emergency caretaker regime that suspended parliamentary elections planned for January 2007 in an effort to reform the political system and root out corruption. That government returned the country to fully democratic rule in December 2008 with the election of the AL and Prime Minister Sheikh HASINA. In January 2014, the incumbent AL won the national election by an overwhelming majority after the BNP boycotted the election, which extended HASINA's term as prime minister. In December 2018, HASINA secured a third consecutive term (fourth overall) with the AL coalition securing 96% of available seats, amid widespread claims of election irregularities. With the help of international development assistance, Bangladesh has reduced the poverty rate from over half of the population to less than a third, achieved Millennium Development Goals for maternal and child health, and made great progress in food security since independence. The economy has grown at an annual average of about 6% for the last two decades and the country reached World Bank lower-middle income status in 2014.</p><br>
+<p>The huge delta region formed at the confluence of the Ganges and Brahmaputra River systems - now referred to as Bangladesh - was a loosely incorporated outpost of various empires centered on the Gangetic plain for much of the first millennium A.D. Muslim conversions and settlement in the region began in the 10th century, primarily from Arab and Persian traders and preachers. Europeans established trading posts in the area in the 16th century. Eventually the area known as Bengal, primarily Hindu in the western section and mostly Muslim in the eastern half, became part of British India. Partition in 1947 resulted in an eastern wing of Pakistan in the Muslim-majority area, which became East Pakistan. Calls for greater autonomy and animosity between the eastern and western wings of Pakistan led to a Bengali independence movement. That movement, led by the Awami League (AL) and supported by India, won the independence war for Bangladesh in 1971.</p> <p>The post-independence AL government faced daunting challenges and in 1975 it was overthrown by the military, triggering a series of military coups that resulted in a military-backed government and subsequent creation of the Bangladesh Nationalist Party (BNP) in 1978. That government also ended in a coup in 1981, followed by military-backed rule until democratic elections occurred in 1991. The BNP and AL have alternated in power since 1991, with the exception of a military-backed, emergency caretaker regime that suspended parliamentary elections planned for January 2007 in an effort to reform the political system and root out corruption. That government returned the country to fully democratic rule in December 2008 with the election of the AL and Prime Minister Sheikh HASINA. In January 2014, the incumbent AL won the national election by an overwhelming majority after the BNP boycotted the election, which extended HASINA's term as prime minister. In December 2018, HASINA secured a third consecutive term (fourth overall) with the AL coalition securing 96% of available seats, amid widespread claims of election irregularities. With the help of international development assistance, Bangladesh has reduced the poverty rate from over half of the population to less than a third, achieved Millennium Development Goals for maternal and child health, and made great progress in food security since independence. The economy has grown at an annual average of about 6% for the last two decades. In 2021 the UN approved a resolution to allow Bangladesh to officially graduate from least-developed-country (LDC) status in 2026, based on World Bank criteria.</p><br>
 
 ## Geography
 
@@ -82,7 +82,7 @@ most of the country is situated on deltas of large rivers flowing from the Himal
 ## People and Society
 
 **Population**<br>
-164,098,818 (July 2021 est.)<br>
+165,650,475 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Bangladeshi(s)<br>
@@ -118,7 +118,7 @@ _male_: 27.1 years<br>
 _female_: 28.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.95% (2021 est.)<br>
+0.93% (2022 est.)<br>
 
 **Birth rate**<br>
 17.69 births/1,000 population (2022 est.)<br>
@@ -127,7 +127,7 @@ _female_: 28.6 years (2020 est.)<br>
 5.47 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--2.93 migrant(s)/1,000 population (2021 est.)<br>
+-2.9 migrant(s)/1,000 population (2022 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 39.7% of total population (2022)<br>
@@ -139,11 +139,11 @@ _rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.01 male(s)/female<br>
+_15-24 years_: 1.02 male(s)/female<br>
 _25-54 years_: 0.92 male(s)/female<br>
-_55-64 years_: 0.97 male(s)/female<br>
-_65 years and over_: 0.89 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.96 male(s)/female<br>
+_65 years and over_: 0.73 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 18.6 years (2017/18 est.)<br>
@@ -153,17 +153,17 @@ _total population_: 0.97 male(s)/female (2020 est.)<br>
 173 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 31.13 deaths/1,000 live births<br>
-_male_: 33.82 deaths/1,000 live births<br>
-_female_: 28.34 deaths/1,000 live births (2021 est.)<br>
+_total_: 30.35 deaths/1,000 live births<br>
+_male_: 32.96 deaths/1,000 live births<br>
+_female_: 27.63 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 74.43 years<br>
-_male_: 72.25 years<br>
-_female_: 76.7 years (2021 est.)<br>
+_total population_: 74.7 years<br>
+_male_: 72.52 years<br>
+_female_: 76.96 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.1 children born/woman (2021 est.)<br>
+2.09 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.7% (2019)<br>
@@ -208,7 +208,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 6 October 2021, Bangladesh has reported a total of 1,560,155 cases of COVID-19 or 947.33 cumulative cases of COVID-19 per 100,000 population with 16.78 cumulative deaths per 100,000 population; as of 5 October 2021, 10.46% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 30 March 2022, Bangladesh has reported a total of 1,951,432 cases of COVID-19 or 1,184.91 cumulative cases of COVID-19 per 100,000 population with a total of 29,120 cumulative deaths or a rate of 16.78 cumulative deaths per 100,000 population; as of 29 March 2022, 76.69% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 3.6% (2016)<br>
@@ -276,7 +276,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 6 October 2021, Bangladesh has reported a total of 1,560,155 cases of COVID-19 or 947.33 cumulative cases of COVID-19 per 100,000 population with 16.78 cumulative deaths per 100,000 population; as of 5 October 2021, 10.46% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 30 March 2022, Bangladesh has reported a total of 1,951,432 cases of COVID-19 or 1,184.91 cumulative cases of COVID-19 per 100,000 population with a total of 29,120 cumulative deaths or a rate of 16.78 cumulative deaths per 100,000 population; as of 29 March 2022, 76.69% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to economic constraints - food insecurity poverty levels have increased due to income losses and a decline in remittances caused by the effects of the COVID‑19 pandemic (2021)<br>

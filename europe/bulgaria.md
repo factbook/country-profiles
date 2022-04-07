@@ -81,7 +81,7 @@ strategic location near Turkish Straits; controls key land routes from Europe to
 ## People and Society
 
 **Population**<br>
-6,919,180 (July 2021 est.)<br>
+6,873,253 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Bulgarian(s)<br>
@@ -117,7 +117,7 @@ _male_: 41.9 years<br>
 _female_: 45.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.67% (2021 est.)<br>
+-0.67% (2022 est.)<br>
 
 **Birth rate**<br>
 8.05 births/1,000 population (2022 est.)<br>
@@ -126,7 +126,7 @@ _female_: 45.6 years (2020 est.)<br>
 14.41 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.29 migrant(s)/1,000 population (2021 est.)<br>
+-0.29 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger populations<br>
@@ -142,10 +142,10 @@ _rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.08 male(s)/female<br>
-_25-54 years_: 1.06 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.95 male(s)/female (2020 est.)<br>
+_25-54 years_: 1.07 male(s)/female<br>
+_55-64 years_: 0.91 male(s)/female<br>
+_65 years and over_: 0.72 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 26.3 years (2019 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 0.95 male(s)/female (2020 est.)<br>
 10 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.14 deaths/1,000 live births<br>
-_male_: 9.19 deaths/1,000 live births<br>
-_female_: 7.03 deaths/1,000 live births (2021 est.)<br>
+_total_: 7.98 deaths/1,000 live births<br>
+_male_: 9.02 deaths/1,000 live births<br>
+_female_: 6.88 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.3 years<br>
-_male_: 72.08 years<br>
-_female_: 78.73 years (2021 est.)<br>
+_total population_: 75.57 years<br>
+_male_: 72.36 years<br>
+_female_: 78.97 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.49 children born/woman (2021 est.)<br>
+1.5 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -708,7 +708,7 @@ the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment,
 note - in 2021, women comprised about 17% of the Bulgarian military's full-time personnel<br>
 
 **Military - note**<br>
-Bulgaria officially became a member of NATO in 2004<br>
+Bulgaria officially became a member of NATO in 2004; Bulgaria conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Bulgarian Air Force since 2014<br>
 
 ## Terrorism
 

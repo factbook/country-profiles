@@ -78,7 +78,7 @@ strategic location on eastern end of isthmus forming land bridge connecting Nort
 ## People and Society
 
 **Population**<br>
-3,928,646 (July 2021 est.)<br>
+4,337,768 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Panamanian(s)<br>
@@ -116,7 +116,7 @@ _male_: 29.6 years<br>
 _female_: 30.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.16% (2021 est.)<br>
+1.53% (2022 est.)<br>
 
 **Birth rate**<br>
 17.99 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 30.5 years (2020 est.)<br>
 6.11 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.11 migrant(s)/1,000 population (2021 est.)<br>
+3.42 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population is concentrated towards the center of the country, particularly around the Canal, but a sizeable segment of the populace also lives in the far west around David; the eastern third of the country is sparsely inhabited<br>
@@ -138,29 +138,29 @@ _rate of urbanization_: 1.92% annual rate of change (2020-25 est.)<br>
 1.938 million PANAMA CITY (capital) (2022)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.04 male(s)/female<br>
-_0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 1.03 male(s)/female<br>
-_55-64 years_: 0.99 male(s)/female<br>
-_65 years and over_: 0.84 male(s)/female<br>
-_total population_: 1.01 male(s)/female (2020 est.)<br>
+_at birth_: 1.06 male(s)/female<br>
+_0-14 years_: 1.05 male(s)/female<br>
+_15-24 years_: 1.03 male(s)/female<br>
+_25-54 years_: 1.02 male(s)/female<br>
+_55-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.75 male(s)/female<br>
+_total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 52 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.25 deaths/1,000 live births<br>
-_male_: 12.37 deaths/1,000 live births<br>
-_female_: 10.08 deaths/1,000 live births (2021 est.)<br>
+_total_: 16.44 deaths/1,000 live births<br>
+_male_: 17.69 deaths/1,000 live births<br>
+_female_: 15.11 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.47 years<br>
-_male_: 76.66 years<br>
-_female_: 82.41 years (2021 est.)<br>
+_total population_: 77.62 years<br>
+_male_: 74.76 years<br>
+_female_: 80.66 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.21 children born/woman (2021 est.)<br>
+2.39 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 50.8% (2014/15)<br>

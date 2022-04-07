@@ -80,7 +80,7 @@ controls most land routes from Western Europe to Aegean Sea and Turkish Straits;
 ## People and Society
 
 **Population**<br>
-4,208,973 (July 2021 est.)<br>
+28,713,423 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Croat(s), Croatian(s)<br>
@@ -116,7 +116,7 @@ _male_: 42 years<br>
 _female_: 45.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.48% (2021 est.)<br>
+-0.47% (2022 est.)<br>
 
 **Birth rate**<br>
 8.65 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 45.9 years (2020 est.)<br>
 12.88 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.74 migrant(s)/1,000 population (2021 est.)<br>
+-0.5 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated<br>
@@ -139,12 +139,12 @@ _rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
-_0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.94 male(s)/female<br>
-_65 years and over_: 0.69 male(s)/female<br>
-_total population_: 0.93 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.01 male(s)/female<br>
+_15-24 years_: 1 male(s)/female<br>
+_25-54 years_: 1.03 male(s)/female<br>
+_55-64 years_: 1.04 male(s)/female<br>
+_65 years and over_: 0.67 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 28.9 years (2019 est.)<br>
@@ -153,17 +153,17 @@ _total population_: 0.93 male(s)/female (2020 est.)<br>
 8 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 8.91 deaths/1,000 live births<br>
-_male_: 8.67 deaths/1,000 live births<br>
-_female_: 9.15 deaths/1,000 live births (2021 est.)<br>
+_total_: 8.74 deaths/1,000 live births<br>
+_male_: 8.52 deaths/1,000 live births<br>
+_female_: 8.98 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.97 years<br>
-_male_: 73.83 years<br>
-_female_: 80.3 years (2021 est.)<br>
+_total population_: 77.22 years<br>
+_male_: 74.1 years<br>
+_female_: 80.53 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.44 children born/woman (2021 est.)<br>
+1.45 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -349,7 +349,7 @@ _election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in seco
 **Legislative branch**<br>
 _description_: unicameral Assembly or Hrvatski Sabor (151 seats; 140 members in 10 multi-seat constituencies and 3 members in a single constituency for Croatian diaspora directly elected by proportional representation vote using the D'Hondt method with a 5% threshold; an additional 8 members elected from a nationwide constituency by simple majority by voters belonging to minorities recognized by Croatia; the Serb minority elects 3 Assembly members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2; all members serve 4-year terms<br>
 _elections_: early election held on 5 July 2020 (next to be held by 2024)<br>
-_election results_: percent of vote by coalition/party - HDZ-led coalition 37.3%, Restart coalition 24.9%, DPMS-led coalition 10.9%, MOST 7.4%, Green-Left coalition 7%, P-F-SSIP 4%, HNS-LD 1.3%, NS-R 1%, other 6.2%; number of seats by coalition/party - HDZ-led coalition 66, Restart coalition 41, DPMS-led coalition 16, MOST 8, Green-Left coalition 7, P-F-SSIP 3, HNS-LD 1, NS-R 1, national minorities 8; composition - men 116, women 35, percent of women 23.2%<br>
+_election results_: percent of vote by coalition/party - HDZ-led coalition 37.3%, Restart coalition 24.9%, DPMS-led coalition 10.9%, MOST 7.4%, Green-Left coalition 7%, P-F-SSIP 4%, HNS-LD 1.3%, NS-R 1%, other 6.2%; number of seats by coalition/party - HDZ-led coalition 66, Restart coalition 41, DPMS-led coalition 16, MOST 8, Green-Left coalition 7, P-F-SSIP 3, HNS-LD 1, NS-R 1, national minorities 8; composition as of January 2021 - men 103, women 48, percent of women 31.8%<br>
 <strong>note:</strong> seats by party as of March 2021 - HDZ 62, SDP 33, DP 9, Most 6, Croatian Sovereignists 4, We Can! 4, IDS 3, SDSS 3, HSS 2, HSLS 2, BZH 1, Center 1, FOKUS 1, GLAS 1, HDS 1, HSU 1, NL 1, Reformists 1, SSIP 1, WF 1, independent 12<br>
 
 **Judicial branch**<br>

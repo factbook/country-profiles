@@ -73,7 +73,7 @@ strategic location in the North Pacific Ocean<br>
 ## People and Society
 
 **Population**<br>
-51,659 (July 2021 est.)<br>
+51,475 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: NA (US citizens)<br>
@@ -107,7 +107,7 @@ _male_: 31.8 years<br>
 _female_: 34.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.36% (2021 est.)<br>
+-0.35% (2022 est.)<br>
 
 **Birth rate**<br>
 15.5 births/1,000 population (2022 est.)<br>
@@ -116,7 +116,7 @@ _female_: 34.1 years (2020 est.)<br>
 5.44 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--13.67 migrant(s)/1,000 population (2021 est.)<br>
+-13.6 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 approximately 90% of the population lives on the island of Saipan<br>
@@ -129,26 +129,26 @@ _rate of urbanization_: 0.36% annual rate of change (2020-25 est.)<br>
 51,000 SAIPAN (capital) (2018)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.16 male(s)/female<br>
-_0-14 years_: 1.17 male(s)/female<br>
-_15-24 years_: 1.17 male(s)/female<br>
-_25-54 years_: 1.07 male(s)/female<br>
-_55-64 years_: 1.19 male(s)/female<br>
-_65 years and over_: 1.15 male(s)/female<br>
-_total population_: 1.13 male(s)/female (2020 est.)<br>
+_at birth_: 1.17 male(s)/female<br>
+_0-14 years_: 1.16 male(s)/female<br>
+_15-24 years_: 1.18 male(s)/female<br>
+_25-54 years_: 1.09 male(s)/female<br>
+_55-64 years_: 1.18 male(s)/female<br>
+_65 years and over_: 0.89 male(s)/female<br>
+_total population_: 1.13 male(s)/female (2022 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 12.79 deaths/1,000 live births<br>
-_male_: 15.52 deaths/1,000 live births<br>
-_female_: 9.61 deaths/1,000 live births (2021 est.)<br>
+_total_: 12.48 deaths/1,000 live births<br>
+_male_: 15.13 deaths/1,000 live births<br>
+_female_: 9.38 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.33 years<br>
-_male_: 74.22 years<br>
-_female_: 78.79 years (2021 est.)<br>
+_total population_: 76.58 years<br>
+_male_: 74.48 years<br>
+_female_: 79.03 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.66 children born/woman (2021 est.)<br>
+2.63 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

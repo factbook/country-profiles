@@ -80,7 +80,7 @@ _Fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq k
 ## People and Society
 
 **Population**<br>
-18,307,925 (July 2021 est.)<br>
+18,430,408 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Chilean(s)<br>
@@ -118,7 +118,7 @@ _male_: 34.3 years<br>
 _female_: 36.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.68% (2021 est.)<br>
+0.66% (2022 est.)<br>
 
 **Birth rate**<br>
 12.75 births/1,000 population (2022 est.)<br>
@@ -127,7 +127,7 @@ _female_: 36.7 years (2020 est.)<br>
 6.52 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0.33 migrant(s)/1,000 population (2021 est.)<br>
+0.33 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated<br>
@@ -144,25 +144,25 @@ _at birth_: 1.04 male(s)/female<br>
 _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
 _25-54 years_: 1.01 male(s)/female<br>
-_55-64 years_: 0.9 male(s)/female<br>
-_65 years and over_: 0.72 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.91 male(s)/female<br>
+_65 years and over_: 0.56 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 13 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.68 deaths/1,000 live births<br>
-_male_: 7.26 deaths/1,000 live births<br>
-_female_: 6.08 deaths/1,000 live births (2021 est.)<br>
+_total_: 6.55 deaths/1,000 live births<br>
+_male_: 7.12 deaths/1,000 live births<br>
+_female_: 5.95 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 79.57 years<br>
-_male_: 76.55 years<br>
-_female_: 82.71 years (2021 est.)<br>
+_total population_: 79.79 years<br>
+_male_: 76.8 years<br>
+_female_: 82.92 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.76 children born/woman (2021 est.)<br>
+1.76 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 76.3% (2015/16)<br>

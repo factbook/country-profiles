@@ -82,7 +82,7 @@ strategic location at the head of the Gulf of Aqaba and as the Arab country that
 ## People and Society
 
 **Population**<br>
-10,909,567 (July 2021 est.)<br>
+10,998,531 (2022 est.)<br>
 <strong>note:</strong> increased estimate reflects revised assumptions about the net migration rate due to the increased flow of Syrian refugees<br>
 
 **Nationality**<br>
@@ -119,7 +119,7 @@ _male_: 23.9 years<br>
 _female_: 22.9 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.82% (2021 est.)<br>
+0.81% (2022 est.)<br>
 
 **Birth rate**<br>
 22.58 births/1,000 population (2022 est.)<br>
@@ -128,7 +128,7 @@ _female_: 22.9 years (2020 est.)<br>
 3.45 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--11.17 migrant(s)/1,000 population (2021 est.)<br>
+-11.08 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population heavily concentrated in the west, and particularly the northwest, in and around the capital of Amman; a sizeable, but smaller population is located in the southwest along the shore of the Gulf of Aqaba<br>
@@ -143,11 +143,11 @@ _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
-_15-24 years_: 1.11 male(s)/female<br>
-_25-54 years_: 1.18 male(s)/female<br>
-_55-64 years_: 1.11 male(s)/female<br>
-_65 years and over_: 0.96 male(s)/female<br>
-_total population_: 1.11 male(s)/female (2020 est.)<br>
+_15-24 years_: 1.08 male(s)/female<br>
+_25-54 years_: 1.17 male(s)/female<br>
+_55-64 years_: 1.12 male(s)/female<br>
+_65 years and over_: 0.84 male(s)/female<br>
+_total population_: 1.1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 24.6 years (2017/18 est.)<br>
@@ -157,17 +157,17 @@ _total population_: 1.11 male(s)/female (2020 est.)<br>
 46 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 14.25 deaths/1,000 live births<br>
-_male_: 15.43 deaths/1,000 live births<br>
-_female_: 13 deaths/1,000 live births (2021 est.)<br>
+_total_: 13.9 deaths/1,000 live births<br>
+_male_: 15.04 deaths/1,000 live births<br>
+_female_: 12.69 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.75 years<br>
-_male_: 74.25 years<br>
-_female_: 77.35 years (2021 est.)<br>
+_total population_: 76.01 years<br>
+_male_: 74.51 years<br>
+_female_: 77.6 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3 children born/woman (2021 est.)<br>
+2.96 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 51.8% (2017/18)<br>
@@ -207,7 +207,7 @@ _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 <100 (2020 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 6 October 2021, Jordan has reported a total of 828,572 cases of COVID-19 or 8,120.76 cumulative cases of COVID-19 per 100,000 population with 105.48 cumulative deaths per 100,000 population; as of 5 October 2021, 36.52% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 30 March 2022, Jordan has reported a total of 1,692,485 cases of COVID-19 or 16,587.89 cumulative cases of COVID-19 per 100,000 population with a total of 14,031 cumulative deaths or a rate of 137.51 cumulative deaths per 100,000 population; as of 29 March 2022, 45.91% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 35.5% (2016)<br>
@@ -270,7 +270,7 @@ _forest revenues_: 0.02% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 6 October 2021, Jordan has reported a total of 828,572 cases of COVID-19 or 8,120.76 cumulative cases of COVID-19 per 100,000 population with 105.48 cumulative deaths per 100,000 population; as of 5 October 2021, 36.52% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 30 March 2022, Jordan has reported a total of 1,692,485 cases of COVID-19 or 16,587.89 cumulative cases of COVID-19 per 100,000 population with a total of 14,031 cumulative deaths or a rate of 137.51 cumulative deaths per 100,000 population; as of 29 March 2022, 45.91% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,529,997 tons (2013 est.)<br>
@@ -724,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>2004 Agreement settles border dispute with Syria pending demarcation</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 673,957 (Syria), 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 674,268 (Syria), 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021)<br>
 _stateless persons_: 63 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

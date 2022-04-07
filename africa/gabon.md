@@ -81,7 +81,7 @@ a small population and oil and mineral reserves have helped Gabon become one of 
 ## People and Society
 
 **Population**<br>
-2,284,912 (July 2021 est.)<br>
+2,340,613 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -119,7 +119,7 @@ _male_: 21.4 years<br>
 _female_: 20.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.41% (2021 est.)<br>
+2.4% (2022 est.)<br>
 
 **Birth rate**<br>
 26.03 births/1,000 population (2022 est.)<br>
@@ -128,7 +128,7 @@ _female_: 20.6 years (2020 est.)<br>
 5.67 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-3.76 migrant(s)/1,000 population (2021 est.)<br>
+3.67 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest as shown in this population distribution map<br>
@@ -142,12 +142,12 @@ _rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
-_0-14 years_: 1.04 male(s)/female<br>
-_15-24 years_: 1.09 male(s)/female<br>
-_25-54 years_: 1.15 male(s)/female<br>
-_55-64 years_: 1.04 male(s)/female<br>
-_65 years and over_: 1 male(s)/female<br>
-_total population_: 1.08 male(s)/female (2020 est.)<br>
+_0-14 years_: 1.03 male(s)/female<br>
+_15-24 years_: 1.08 male(s)/female<br>
+_25-54 years_: 1.12 male(s)/female<br>
+_55-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.78 male(s)/female<br>
+_total population_: 1.08 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.6 years (2012 est.)<br>
@@ -157,17 +157,17 @@ _total population_: 1.08 male(s)/female (2020 est.)<br>
 252 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 29.45 deaths/1,000 live births<br>
-_male_: 32.58 deaths/1,000 live births<br>
-_female_: 26.23 deaths/1,000 live births (2021 est.)<br>
+_total_: 28.56 deaths/1,000 live births<br>
+_male_: 31.58 deaths/1,000 live births<br>
+_female_: 25.46 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 69.37 years<br>
-_male_: 67.66 years<br>
-_female_: 71.14 years (2021 est.)<br>
+_total population_: 69.7 years<br>
+_male_: 67.98 years<br>
+_female_: 71.48 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.36 children born/woman (2021 est.)<br>
+3.31 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 31.1% (2012)<br>

@@ -83,7 +83,7 @@ historically, an area of conflict because of flat terrain and the lack of natura
 ## People and Society
 
 **Population**<br>
-38,185,913 (July 2021 est.)<br>
+38,093,101 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Pole(s)<br>
@@ -119,7 +119,7 @@ _male_: 40.3 years<br>
 _female_: 43.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.23% (2021 est.)<br>
+-0.26% (2022 est.)<br>
 
 **Birth rate**<br>
 8.5 births/1,000 population (2022 est.)<br>
@@ -128,7 +128,7 @@ _female_: 43.6 years (2020 est.)<br>
 10.71 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.33 migrant(s)/1,000 population (2021 est.)<br>
+-0.33 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk<br>
@@ -145,9 +145,9 @@ _at birth_: 1.06 male(s)/female<br>
 _0-14 years_: 1.06 male(s)/female<br>
 _15-24 years_: 1.06 male(s)/female<br>
 _25-54 years_: 1.02 male(s)/female<br>
-_55-64 years_: 0.91 male(s)/female<br>
-_65 years and over_: 0.67 male(s)/female<br>
-_total population_: 0.94 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.92 male(s)/female<br>
+_65 years and over_: 0.57 male(s)/female<br>
+_total population_: 0.94 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 27.6 years (2019 est.)<br>
@@ -156,17 +156,17 @@ _total population_: 0.94 male(s)/female (2020 est.)<br>
 2 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 4.22 deaths/1,000 live births<br>
-_male_: 4.64 deaths/1,000 live births<br>
-_female_: 3.78 deaths/1,000 live births (2021 est.)<br>
+_total_: 4.16 deaths/1,000 live births<br>
+_male_: 4.58 deaths/1,000 live births<br>
+_female_: 3.71 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 78.53 years<br>
-_male_: 74.76 years<br>
-_female_: 82.51 years (2021 est.)<br>
+_total population_: 78.76 years<br>
+_male_: 75.02 years<br>
+_female_: 82.73 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.39 children born/woman (2021 est.)<br>
+1.4 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 62.3% (2014)<br>
@@ -733,7 +733,7 @@ note - as of 2019, women made up about 7% of the military's full-time personnel<
 note: Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>
 
 **Military - note**<br>
-Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; Poland also</p> <p>Poland hosts a NATO-led divisional headquarters (Multinational Division Northeast; operational in 2018), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania; Poland also hosts a corps-level headquarters (Multinational Corps Northeast)</p> (2022)<br>
+Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; since 2014, Poland has also hosted NATO fighter detachments at Malbork Air Base under NATO's enhanced air policing arrangements</p> <p>Poland hosts a NATO-led divisional headquarters (Multinational Division Northeast; operational in 2018), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania; Poland also hosts a corps-level headquarters (Multinational Corps Northeast)</p> (2022)<br>
 
 ## Terrorism
 
@@ -747,7 +747,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 2,336,799 (as of 29 March 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 2,490,447 (as of 5 April 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

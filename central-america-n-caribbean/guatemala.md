@@ -78,7 +78,7 @@ the vast majority of the populace resides in the southern half of the country, p
 ## People and Society
 
 **Population**<br>
-17,422,821 (July 2021 est.)<br>
+17,703,190 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Guatemalan(s)<br>
@@ -116,7 +116,7 @@ _male_: 22.6 years<br>
 _female_: 23.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.62% (2021 est.)<br>
+1.58% (2022 est.)<br>
 
 **Birth rate**<br>
 22.34 births/1,000 population (2022 est.)<br>
@@ -125,7 +125,7 @@ _female_: 23.8 years (2020 est.)<br>
 4.91 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.69 migrant(s)/1,000 population (2021 est.)<br>
+-1.66 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 the vast majority of the populace resides in the southern half of the country, particularly in the mountainous regions; more than half of the population lives in rural areas<br>
@@ -143,8 +143,8 @@ _0-14 years_: 1.04 male(s)/female<br>
 _15-24 years_: 1.01 male(s)/female<br>
 _25-54 years_: 0.96 male(s)/female<br>
 _55-64 years_: 0.87 male(s)/female<br>
-_65 years and over_: 0.82 male(s)/female<br>
-_total population_: 0.99 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 20.6 years (2014/15 est.)<br>
@@ -154,17 +154,17 @@ _total population_: 0.99 male(s)/female (2020 est.)<br>
 95 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 26.81 deaths/1,000 live births<br>
-_male_: 30.23 deaths/1,000 live births<br>
-_female_: 23.21 deaths/1,000 live births (2021 est.)<br>
+_total_: 26.18 deaths/1,000 live births<br>
+_male_: 29.51 deaths/1,000 live births<br>
+_female_: 22.69 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 72.63 years<br>
-_male_: 70.59 years<br>
-_female_: 74.77 years (2021 est.)<br>
+_total population_: 72.91 years<br>
+_male_: 70.88 years<br>
+_female_: 75.04 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-2.67 children born/woman (2021 est.)<br>
+2.62 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 60.6% (2014/15)<br>
@@ -676,9 +676,9 @@ _narrow gauge_: 800 km 0.914-m gauge (2018)<br>
 <strong>note:</strong> despite the existence of a railway network, all rail service was suspended in 2007 and no passenger or freight train currently runs in the country (2018)<br>
 
 **Roadways**<br>
-_total_: 17,621 km (2016)<br>
-_paved_: 7,489 km (2016)<br>
-_unpaved_: 10,132 km (includes 4,960 km of rural roads) (2016)<br>
+_total_: 17,440 km (2016)<br>
+_paved_: 7,458 km (2016)<br>
+_unpaved_: 9,982 km (includes 4,548 km of rural roads) (2016)<br>
 
 **Waterways**<br>
 990 km (260 km navigable year round; additional 730 km navigable during high-water season) (2012)<br>

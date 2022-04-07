@@ -85,7 +85,7 @@ strategic location on the Persian Gulf and Strait of Hormuz, which are vital mar
 ## People and Society
 
 **Population**<br>
-85,888,910 (July 2021 est.)<br>
+86,758,304 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Iranian(s)<br>
@@ -120,7 +120,7 @@ _male_: 31.5 years<br>
 _female_: 32 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.03% (2021 est.)<br>
+0.98% (2022 est.)<br>
 
 **Birth rate**<br>
 15.27 births/1,000 population (2022 est.)<br>
@@ -129,7 +129,7 @@ _female_: 32 years (2020 est.)<br>
 5.17 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.3 migrant(s)/1,000 population (2021 est.)<br>
+-0.3 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population is concentrated in the north, northwest, and west, reflecting the position of the Zagros and Elburz Mountains; the vast dry areas in the center and eastern parts of the country, around the deserts of the Dasht-e Kavir and Dasht-e Lut, have a much lower population density<br>
@@ -145,26 +145,26 @@ _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.05 male(s)/female<br>
-_25-54 years_: 1.04 male(s)/female<br>
+_25-54 years_: 1.05 male(s)/female<br>
 _55-64 years_: 0.96 male(s)/female<br>
-_65 years and over_: 0.87 male(s)/female<br>
-_total population_: 1.03 male(s)/female (2020 est.)<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 1.03 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 16 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 15.1 deaths/1,000 live births<br>
-_male_: 16.24 deaths/1,000 live births<br>
-_female_: 13.91 deaths/1,000 live births (2021 est.)<br>
+_total_: 14.84 deaths/1,000 live births<br>
+_male_: 15.97 deaths/1,000 live births<br>
+_female_: 13.65 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 75.06 years<br>
-_male_: 73.71 years<br>
-_female_: 76.48 years (2021 est.)<br>
+_total population_: 75.25 years<br>
+_male_: 73.89 years<br>
+_female_: 76.67 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.93 children born/woman (2021 est.)<br>
+1.93 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 77.4% (2010/11)<br>
@@ -207,7 +207,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Iran has reported a total of 5,651,961 cases of COVID-19 or 6,729.09 cumulative cases of COVID-19 per 100,000 population with 144.73 cumulative deaths per 100,000 population; as of 27 September 2021, 42.69% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Iran has reported a total of 7,156,746 cases of COVID-19 or 8,520.65 cumulative cases of COVID-19 per 100,000 population with a total of 140,109 cumulative deaths or a rate 166.81 cumulative deaths per 100,000 population; as of 29 March 2022, 75.12% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 25.8% (2016)<br>
@@ -273,7 +273,7 @@ _coal revenues_: 0.01% of GDP (2017 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Iran has reported a total of 5,651,961 cases of COVID-19 or 6,729.09 cumulative cases of COVID-19 per 100,000 population with 144.73 cumulative deaths per 100,000 population; as of 27 September 2021, 42.69% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Iran has reported a total of 7,156,746 cases of COVID-19 or 8,520.65 cumulative cases of COVID-19 per 100,000 population with a total of 140,109 cumulative deaths or a rate 166.81 cumulative deaths per 100,000 population; as of 29 March 2022, 75.12% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17.885 million tons (2017 est.)<br>

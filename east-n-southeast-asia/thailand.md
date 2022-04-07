@@ -84,7 +84,7 @@ controls only land route from Asia to Malaysia and Singapore; ideas for the cons
 ## People and Society
 
 **Population**<br>
-69,480,520 (July 2021 est.)<br>
+69,648,117 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Thai (singular and plural)<br>
@@ -123,7 +123,7 @@ _male_: 37.8 years<br>
 _female_: 40.1 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.26% (2021 est.)<br>
+0.23% (2022 est.)<br>
 
 **Birth rate**<br>
 10.14 births/1,000 population (2022 est.)<br>
@@ -132,7 +132,7 @@ _female_: 40.1 years (2020 est.)<br>
 7.76 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.03 migrant(s)/1,000 population (2021 est.)<br>
+-0.13 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 highest population density is found in and around Bangkok; significant population clusters found througout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country<br>
@@ -148,10 +148,10 @@ _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
 _15-24 years_: 1.04 male(s)/female<br>
-_25-54 years_: 0.99 male(s)/female<br>
-_55-64 years_: 0.88 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.97 male(s)/female<br>
+_55-64 years_: 0.89 male(s)/female<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 23.3 years (2009 est.)<br>
@@ -160,17 +160,17 @@ _total population_: 0.96 male(s)/female (2020 est.)<br>
 37 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 6.58 deaths/1,000 live births<br>
-_male_: 7.2 deaths/1,000 live births<br>
-_female_: 5.92 deaths/1,000 live births (2021 est.)<br>
+_total_: 6.47 deaths/1,000 live births<br>
+_male_: 7.09 deaths/1,000 live births<br>
+_female_: 5.81 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 77.41 years<br>
-_male_: 74.39 years<br>
-_female_: 80.6 years (2021 est.)<br>
+_total population_: 77.66 years<br>
+_male_: 74.65 years<br>
+_female_: 80.83 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.54 children born/woman (2021 est.)<br>
+1.54 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 73% (2019)<br>
@@ -730,7 +730,7 @@ note(s) - information varies, but conscripts reportedly comprise as much as 50% 
 275 South Sudan (UNMISS) (Dec 2021)<br>
 
 **Military - note**<br>
-including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, the Thai military has been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed more than 7,000 lives; as of 2021, at least 70,000 military, paramilitary, and government-backed militia forces were estimated to be deployed in the south to combat the insurgency<br> <p>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, the Thai military has been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed more than 7,000 lives (as of early 2022); as of 2021, at least 70,000 military, paramilitary, and government-backed militia forces were estimated to be deployed in the south to combat the insurgency<br> <p>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Transnational Issues
 

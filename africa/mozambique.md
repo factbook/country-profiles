@@ -83,7 +83,7 @@ the Zambezi River flows through the north-central and most fertile part of the c
 ## People and Society
 
 **Population**<br>
-30,888,034 (July 2021 est.)<br>
+31,693,239 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -121,7 +121,7 @@ _male_: 16.3 years<br>
 _female_: 17.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-2.58% (2021 est.)<br>
+2.56% (2022 est.)<br>
 
 **Birth rate**<br>
 37.47 births/1,000 population (2022 est.)<br>
@@ -130,7 +130,7 @@ _female_: 17.6 years (2020 est.)<br>
 10.25 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--1.62 migrant(s)/1,000 population (2021 est.)<br>
+-1.58 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 three large populations clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas as shown in this population distribution map<br>
@@ -146,10 +146,10 @@ _rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-24 years_: 1 male(s)/female<br>
-_25-54 years_: 0.87 male(s)/female<br>
-_55-64 years_: 0.95 male(s)/female<br>
-_65 years and over_: 0.96 male(s)/female<br>
-_total population_: 0.97 male(s)/female (2020 est.)<br>
+_25-54 years_: 0.86 male(s)/female<br>
+_55-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.88 male(s)/female<br>
+_total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.2 years (2011 est.)<br>
@@ -159,17 +159,17 @@ _total population_: 0.97 male(s)/female (2020 est.)<br>
 289 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 63.03 deaths/1,000 live births<br>
-_male_: 65.06 deaths/1,000 live births<br>
-_female_: 60.94 deaths/1,000 live births (2021 est.)<br>
+_total_: 61.38 deaths/1,000 live births<br>
+_male_: 63.37 deaths/1,000 live births<br>
+_female_: 59.33 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 56.49 years<br>
-_male_: 55.09 years<br>
-_female_: 57.94 years (2021 est.)<br>
+_total population_: 57.1 years<br>
+_male_: 55.76 years<br>
+_female_: 58.49 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-4.89 children born/woman (2021 est.)<br>
+4.81 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 27.1% (2015)<br>
@@ -214,6 +214,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mozambique is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 7.2% (2016)<br>
@@ -281,6 +282,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mozambique is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <p>due to economic downturn, localized shortfalls in staple food production, and insecurity in northern areas - an estimated 1.65 million people require humanitarian assistance at least up until September 2021; populations in Cabo Delgado are experiencing the severest levels of acute food insecurity, where an estimated 227,000 people are facing "Emergency" levels of food insecurity, reflecting the effects of the conflict on livelihoods and rainfall deficits that caused a drop in cereal production in 2021</p> (2021)<br>
@@ -728,7 +730,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although since 
 registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2021)<br>
 
 **Military - note**<br>
-the Government of Mozambique is facing an insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of 2022, the fighting had left an estimated 3,000 dead and over 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of late 2021, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US are providing various forms of military assistance; African countries have provided approximately 3,000 troops<br>
+the Government of Mozambique is facing an insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of 2022, the fighting had left an estimated 3,000 dead and over 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of early 2022, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US were providing various forms of military assistance; African countries have provided approximately 3,000 troops<br>
 
 ## Terrorism
 
@@ -742,7 +744,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,938 (Democratic Republic of Congo) (refugees and asylum seekers), 8,395 (Burundi) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 10,786 (Democratic Republic of Congo) (refugees and asylum seekers), 8,395 (Burundi) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 881,047 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>

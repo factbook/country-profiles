@@ -89,7 +89,7 @@ overwhelming majority of the population is found in the eastern half of the coun
 ## People and Society
 
 **Population**<br>
-1,397,897,720 (July 2021 est.)<br>
+1,410,539,758 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Chinese (singular and plural)<br>
@@ -127,7 +127,7 @@ _male_: 37.5 years<br>
 _female_: 39.4 years (2020 est.)<br>
 
 **Population growth rate**<br>
-0.26% (2021 est.)<br>
+0.19% (2022 est.)<br>
 
 **Birth rate**<br>
 9.93 births/1,000 population (2022 est.)<br>
@@ -136,7 +136,7 @@ _female_: 39.4 years (2020 est.)<br>
 7.9 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.43 migrant(s)/1,000 population (2021 est.)<br>
+-0.11 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 overwhelming majority of the population is found in the eastern half of the country; the west, with its vast mountainous and desert areas, remains sparsely populated; though ranked first in the world in total population, overall density is less than that of many other countries in Asia and Europe; high population density is found along the Yangtze and Yellow River valleys, the Xi Jiang River delta, the Sichuan Basin (around Chengdu), in and around Beijing, and the industrial area around Shenyang<br>
@@ -150,29 +150,29 @@ _rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
 28.517 million Shanghai, 201.333 million BEIJING (capital), 16.875 million Chongqing, 14.012 million Tianjin, 13.965 million Guangzhou, 12.831 million Shenzhen (2022)<br>
 
 **Sex ratio**<br>
-_at birth_: 1.11 male(s)/female<br>
-_0-14 years_: 1.16 male(s)/female<br>
-_15-24 years_: 1.17 male(s)/female<br>
+_at birth_: 1.1 male(s)/female<br>
+_0-14 years_: 1.15 male(s)/female<br>
+_15-24 years_: 1.16 male(s)/female<br>
 _25-54 years_: 1.05 male(s)/female<br>
-_55-64 years_: 1.02 male(s)/female<br>
-_65 years and over_: 0.9 male(s)/female<br>
-_total population_: 1.06 male(s)/female (2020 est.)<br>
+_55-64 years_: 1 male(s)/female<br>
+_65 years and over_: 0.68 male(s)/female<br>
+_total population_: 1.04 male(s)/female (2022 est.)<br>
 
 **Maternal mortality ratio**<br>
 29 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 11.15 deaths/1,000 live births<br>
-_male_: 11.6 deaths/1,000 live births<br>
-_female_: 10.64 deaths/1,000 live births (2021 est.)<br>
+_total_: 6.76 deaths/1,000 live births<br>
+_male_: 7.19 deaths/1,000 live births<br>
+_female_: 6.3 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 76.31 years<br>
-_male_: 74.23 years<br>
-_female_: 78.62 years (2021 est.)<br>
+_total population_: 77.72 years<br>
+_male_: 75 years<br>
+_female_: 80.7 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-1.6 children born/woman (2021 est.)<br>
+1.45 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 84.5% (2017)<br>
@@ -216,7 +216,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, Japanese encephalitis<br>
 _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)<br>
-<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 6 October 2021, China has reported a total of 124,884 cases of COVID-19 or 8.49 cumulative cases of COVID-19 per 100,000 population with 0.39 cumulative deaths per 100,000 population; as of 18 September 2021, 70.78% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 30 March 2022, China has reported a total of 899,803 cases of COVID-19 or 61.15 cumulative cases of COVID-19 per 100,000 population with a total of 13,062 cumulative deaths or a rate 0.88 cumulative deaths per 100,000 population; as of 29 March 2022, 88.32% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.2% (2016)<br>
@@ -282,7 +282,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, Japanese encephalitis<br>
 _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)<br>
-<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 6 October 2021, China has reported a total of 124,884 cases of COVID-19 or 8.49 cumulative cases of COVID-19 per 100,000 population with 0.39 cumulative deaths per 100,000 population; as of 18 September 2021, 70.78% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 30 March 2022, China has reported a total of 899,803 cases of COVID-19 or 61.15 cumulative cases of COVID-19 per 100,000 population with a total of 13,062 cumulative deaths or a rate 0.88 cumulative deaths per 100,000 population; as of 29 March 2022, 88.32% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 210 million tons (2015 est.)<br>
@@ -391,7 +391,7 @@ _email address and website_: <br>chinaemppress_us@mfa.gov.cn<br><br>http://www.c
 _consulate(s) general_: Chicago, Los Angeles, New York, San Francisco; note - the US ordered closure of the Houston consulate in late July 2020<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires David MEALE (since July 2021)<br>
+_chief of mission_: Ambassador Nicholas BURNS (since March 2022)<br>
 _embassy_: 55 An Jia Lou Road, Chaoyang District, Beijing 100600<br>
 _mailing address_: 7300 Beijing Place, Washington DC&nbsp; 20521-7300<br>
 _telephone_: [86] (10) 8531-3000<br>
@@ -740,7 +740,7 @@ information varies; approximately 2 million total active duty troops (approximat
 
 **Military equipment inventories and acquisitions**<br>
 the PLA is outfitted primarily with a wide mix of older and modern domestically-produced systems heavily influenced by technology derived from other countries; Russia is the top supplier of foreign military equipment since 2010; the Chinese defense-industrial sector is large and capable of producing advanced weapons systems across all military domains (2021)<br>
-note - the PLA is in the midst of a decades-long modernization effort; in 2017, President XI set three developmental goals for the force - becoming a mechanized force with increased information and strategic capabilities by 2020, a fully modernized force by 2035, and a worldwide first-class military by mid-century<br>
+note - the PLA is in the midst of a decades-long modernization effort; in 2017, President XI set three developmental goals for the force - becoming a mechanized force with increased information and strategic capabilities by 2020, a fully modernized force by 2035, and a global first-class military by mid-century<br>
 
 **Military service age and obligation**<br>
 18-22 years of age for selective compulsory military service (not needed), with a 2-year service obligation; no minimum age for voluntary service (all officers are volunteers); 18-19 years of age for women high school graduates who meet requirements for specific military jobs (2021)<br>

@@ -73,7 +73,7 @@ the second-smallest African country (after the Seychelles); the two main islands
 ## People and Society
 
 **Population**<br>
-213,948 (July 2021 est.)<br>
+217,164 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Sao Tomean(s)<br>
@@ -110,7 +110,7 @@ _male_: 18.9 years<br>
 _female_: 19.7 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.5% (2021 est.)<br>
+1.48% (2022 est.)<br>
 
 **Birth rate**<br>
 28.19 births/1,000 population (2022 est.)<br>
@@ -119,7 +119,7 @@ _female_: 19.7 years (2020 est.)<br>
 6.2 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--7.57 migrant(s)/1,000 population (2021 est.)<br>
+-7.19 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 Sao Tome, the capital city, has roughly a quarter of the nation's population; Santo Antonio is the largest town on Principe; the northern areas of both islands have the highest population densities as shown in this population distribution map<br>
@@ -136,9 +136,9 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.03 male(s)/female<br>
 _15-24 years_: 1.03 male(s)/female<br>
 _25-54 years_: 0.97 male(s)/female<br>
-_55-64 years_: 0.87 male(s)/female<br>
-_65 years and over_: 0.77 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.88 male(s)/female<br>
+_65 years and over_: 0.7 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2008/09 est.)<br>
@@ -148,17 +148,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 130 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 45.3 deaths/1,000 live births<br>
-_male_: 48.72 deaths/1,000 live births<br>
-_female_: 41.77 deaths/1,000 live births (2021 est.)<br>
+_total_: 44.38 deaths/1,000 live births<br>
+_male_: 47.82 deaths/1,000 live births<br>
+_female_: 40.84 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 66.72 years<br>
-_male_: 65.14 years<br>
-_female_: 68.36 years (2021 est.)<br>
+_total population_: 67.06 years<br>
+_male_: 65.44 years<br>
+_female_: 68.72 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.69 children born/woman (2021 est.)<br>
+3.56 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 49.7% (2019)<br>

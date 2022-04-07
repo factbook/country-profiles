@@ -84,7 +84,7 @@ the Namib Desert, after which the country is named, is considered to be the olde
 ## People and Society
 
 **Population**<br>
-2,678,191 (July 2021 est.)<br>
+2,727,409 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -123,7 +123,7 @@ _male_: 21.1 years<br>
 _female_: 22.6 years (2020 est.)<br>
 
 **Population growth rate**<br>
-1.83% (2021 est.)<br>
+1.82% (2022 est.)<br>
 
 **Birth rate**<br>
 25.01 births/1,000 population (2022 est.)<br>
@@ -132,7 +132,7 @@ _female_: 22.6 years (2020 est.)<br>
 6.85 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-0 migrant(s)/1,000 population (2021 est.)<br>
+0 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 population density is very low, with the largest clustering found in the extreme north-central area along the border with Angola as shown in this population distribution map<br>
@@ -147,11 +147,11 @@ _rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 **Sex ratio**<br>
 _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.02 male(s)/female<br>
-_15-24 years_: 1 male(s)/female<br>
+_15-24 years_: 1.01 male(s)/female<br>
 _25-54 years_: 0.93 male(s)/female<br>
-_55-64 years_: 0.8 male(s)/female<br>
-_65 years and over_: 0.74 male(s)/female<br>
-_total population_: 0.96 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.79 male(s)/female<br>
+_65 years and over_: 0.61 male(s)/female<br>
+_total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.6 years (2013 est.)<br>
@@ -161,17 +161,17 @@ _total population_: 0.96 male(s)/female (2020 est.)<br>
 195 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 30.38 deaths/1,000 live births<br>
-_male_: 32.47 deaths/1,000 live births<br>
-_female_: 28.24 deaths/1,000 live births (2021 est.)<br>
+_total_: 29.42 deaths/1,000 live births<br>
+_male_: 31.48 deaths/1,000 live births<br>
+_female_: 27.3 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 65.87 years<br>
-_male_: 63.9 years<br>
-_female_: 67.9 years (2021 est.)<br>
+_total population_: 66.47 years<br>
+_male_: 64.46 years<br>
+_female_: 68.53 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-3.03 children born/woman (2021 est.)<br>
+2.98 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 56.1% (2013)<br>
@@ -724,5 +724,5 @@ note - as of 2018, women comprised more than 20% of the active military<br>
 <p>concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border; the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river<br><br><em>Namibia-Angola: </em>None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,702 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 5,744 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 

@@ -86,7 +86,7 @@ urban clusters are spread throughout the country, particularly in the northeast 
 ## People and Society
 
 **Population**<br>
-105,044,646 (July 2021 est.)<br>
+108,407,721 (2022 est.)<br>
 <strong>note:</strong> estimates for this country explicitly taken into account the impact of the HIV/AIDS epidemic<br>
 
 **Nationality**<br>
@@ -125,7 +125,7 @@ _male_: 16.5 years<br>
 _female_: 16.8 years (2020 est.)<br>
 
 **Population growth rate**<br>
-3.16% (2021 est.)<br>
+3.14% (2022 est.)<br>
 
 **Birth rate**<br>
 40.08 births/1,000 population (2022 est.)<br>
@@ -134,7 +134,7 @@ _female_: 16.8 years (2020 est.)<br>
 7.94 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
--0.78 migrant(s)/1,000 population (2021 est.)<br>
+-0.71 migrant(s)/1,000 population (2022 est.)<br>
 
 **Population distribution**<br>
 urban clusters are spread throughout the country, particularly in the northeast along the boarder with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
@@ -151,9 +151,9 @@ _at birth_: 1.03 male(s)/female<br>
 _0-14 years_: 1.01 male(s)/female<br>
 _15-24 years_: 1.01 male(s)/female<br>
 _25-54 years_: 1 male(s)/female<br>
-_55-64 years_: 0.93 male(s)/female<br>
-_65 years and over_: 0.76 male(s)/female<br>
-_total population_: 1 male(s)/female (2020 est.)<br>
+_55-64 years_: 0.94 male(s)/female<br>
+_65 years and over_: 0.6 male(s)/female<br>
+_total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.9 years (2013/14 est.)<br>
@@ -163,17 +163,17 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 473 deaths/100,000 live births (2017 est.)<br>
 
 **Infant mortality rate**<br>
-_total_: 62.63 deaths/1,000 live births<br>
-_male_: 68.39 deaths/1,000 live births<br>
-_female_: 56.69 deaths/1,000 live births (2021 est.)<br>
+_total_: 60.85 deaths/1,000 live births<br>
+_male_: 66.49 deaths/1,000 live births<br>
+_female_: 55.03 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
-_total population_: 61.43 years<br>
-_male_: 59.66 years<br>
-_female_: 63.25 years (2021 est.)<br>
+_total population_: 61.83 years<br>
+_male_: 60.03 years<br>
+_female_: 63.69 years (2022 est.)<br>
 
 **Total fertility rate**<br>
-5.7 children born/woman (2021 est.)<br>
+5.63 children born/woman (2022 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 28.1% (2017/18)<br>
@@ -215,7 +215,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria, dengue fever, and trypanosomiasis-gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> on 7 February 2021, the Ministry of Health declared the 12th outbreak of Ebola in Democratic Republic of the Congo; on 12 March 2021, the Centers for Disease Control and Prevention issued a Travel Health Notice recommending travelers avoid non-essential travel for an Ebola outbreak in the North Kivu (Kivu Nord) province in the eastern part of the Democratic Republic of the Congo; travelers to this area could be infected with Ebola if they come into contact with an infected person’s blood or other body fluids; travelers should seek medical care immediately if they develop fever, muscle pain, sore throat, diarrhea, weakness, vomiting, stomach pain, or unexplained bleeding or bruising during or after travel<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.7% (2016)<br>
@@ -283,7 +283,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria, dengue fever, and trypanosomiasis-gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> on 7 February 2021, the Ministry of Health declared the 12th outbreak of Ebola in Democratic Republic of the Congo; on 12 March 2021, the Centers for Disease Control and Prevention issued a Travel Health Notice recommending travelers avoid non-essential travel for an Ebola outbreak in the North Kivu (Kivu Nord) province in the eastern part of the Democratic Republic of the Congo; travelers to this area could be infected with Ebola if they come into contact with an infected person’s blood or other body fluids; travelers should seek medical care immediately if they develop fever, muscle pain, sore throat, diarrhea, weakness, vomiting, stomach pain, or unexplained bleeding or bruising during or after travel<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to persistent civil insecurity and COVID-19 restrictions - 27.3 million people are estimated to be severely food insecure in the February&minus;July 2021 period, the highest level on record; this is due to the severe impact of movement restrictions related to the COVID‑19 pandemic which continue to limit cross‑border trade and access to markets, and the ongoing conflict in eastern provinces, which triggered population displacements and locally disrupt crop production, resulting in shortages of food supplies in some markets; the eruption, on 22 May 2021, of the Nyiragongo volcano, in North Kivu Province, caused the further displacement of about 415,000 people (2021)<br>
@@ -370,9 +370,9 @@ _elections/appointments_: president directly elected by simple majority vote for
 _election results_: Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate (109 seats; 108 members indirectly elected by provincial assemblies by proportional representation vote and 1 member - former president appointed for life; members serve 5-year terms)<br><br>National Assembly (500 seats; 439 members directly elected in multi-seat constituencies by proportional representation vote and 61 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate (109 seats; 109 members to include 108 indirectly elected by provincial assemblies by proportional representation vote to serve 5-year terms and a former president, appointed for life)<br><br>National Assembly (500 seats; 439 members directly elected in multi-seat constituencies by proportional representation vote and 61 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
 _elections_: Senate - last held on 14 March 2019<br>National Assembly - last held on 30 December 2018 (first round), 31 March 2019 (second round)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, other 18, independent 26; composition as of 2022 - men 83, women 26, percent of women 23.9%<br>National Assembly - percent of vote by party - NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition as of 2022 - men 436, women 64, percent of women  12.8%; total Parliament percent of women 14.8%;note - the November 2011 election was marred by violence including the destruction of ballots in 2 constituencies resulting in the closure of polling sites; election results were delayed 3 months, strongly contested, and continue to be unresolved<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, other 18, independent 26; composition as of 2022 - men 83, women 26, percent of women 23.9%<br>National Assembly - percent of vote by party - NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition as of 2022 - men 436, women 64, percent of women  12.8%; total Parliament percent of women 14.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation or Cour de Cassation (consists of 26 justices and organized into legislative and judiciary sections); Constitutional Court (consists of 9 judges)<br>
