@@ -417,10 +417,10 @@ _selected World Heritage Site locales_: Cuzco (c), Machu Picchu (m), Chavin (c),
 <p>Peru's economy reflects its varied topography - an arid lowland coastal region, the central high sierra of the Andes, and the dense forest of the Amazon. A wide range of important mineral resources are found in the mountainous and coastal areas, and Peru's coastal waters provide excellent fishing grounds. Peru is the world's second largest producer of silver and copper.</p><p></p><p>The Peruvian economy grew by an average of 5.6% per year from 2009-13 with a stable exchange rate and low inflation. This growth was due partly to high international prices for Peru's metals and minerals exports, which account for 55% of the country's total exports. Growth slipped from 2014 to 2017, due to weaker world prices for these resources. Despite Peru's strong macroeconomic performance, dependence on minerals and metals exports and imported foodstuffs makes the economy vulnerable to fluctuations in world prices.</p><p></p><p>Peru's rapid expansion coupled with cash transfers and other programs have helped to reduce the national poverty rate by over 35 percentage points since 2004, but inequality persists and continued to pose a challenge for the Ollanta HUMALA administration, which championed a policy of social inclusion and a more equitable distribution of income. Poor infrastructure hinders the spread of growth to Peru's non-coastal areas. The HUMALA administration passed several economic stimulus packages in 2014 to bolster growth, including reforms to environmental regulations in order to spur investment in Peru’s lucrative mining sector, a move that was opposed by some environmental groups. However, in 2015, mining investment fell as global commodity prices remained low and social conflicts plagued the sector.</p><p></p><p>Peru's free trade policy continued under the HUMALA administration; since 2006, Peru has signed trade deals with the US, Canada, Singapore, China, Korea, Mexico, Japan, the EU, the European Free Trade Association, Chile, Thailand, Costa Rica, Panama, Venezuela, Honduras, concluded negotiations with Guatemala and the Trans-Pacific Partnership, and begun trade talks with El Salvador, India, and Turkey. Peru also has signed a trade pact with Chile, Colombia, and Mexico, called the Pacific Alliance, that seeks integration of services, capital, investment and movement of people. Since the US-Peru Trade Promotion Agreement entered into force in February 2009, total trade between Peru and the US has doubled. President Pedro Pablo KUCZYNSKI succeeded HUMALA in July 2016 and is focusing on economic reforms and free market policies aimed at boosting investment in Peru. Mining output increased significantly in 2016-17, which helped Peru attain one of the highest GDP growth rates in Latin America, and Peru should maintain strong growth in 2018. However, economic performance was depressed by delays in infrastructure mega-projects and the start of a corruption scandal associated with a Brazilian firm. Massive flooding in early 2017 also was a drag on growth, offset somewhat by additional public spending aimed at recovery efforts.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$371.29 billion note: data are in 2017 dollars (2020 est.)<br>
-$417.88 billion note: data are in 2017 dollars (2019 est.)<br>
-$408.87 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$371.29 billion (2020 est.)<br>
+$417.88 billion (2019 est.)<br>
+$408.87 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.18% (2019 est.)<br>
@@ -428,10 +428,10 @@ $408.87 billion note: data are in 2017 dollars (2018 est.)<br>
 2.48% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$11,300 note: data are in 2017 dollars (2020 est.)<br>
-$12,900 note: data are in 2017 dollars (2019 est.)<br>
-$12,800 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$11,300 (2020 est.)<br>
+$12,900 (2019 est.)<br>
+$12,800 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $230.707 billion (2019 est.)<br>
@@ -749,7 +749,7 @@ note - as of 2019, women made up about 10% of the active duty military<br>
 <p>as of 2021, the Peruvian security forces continued to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military had approximately 8,000-10,000 troops in the VRAEM under a special combined military-police command, including 3 army infantry battalions</p><br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2020, eight attacks against a commercial vessels were reported, down from 10 attacks in 2019; all of these occurred in the main port of Callao<br>
+the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2021, 18 attacks against commercial vessels were reported, a more than 50% increase over the eight attacks in 2020; all of these occurred in the main port of Callao while ships were berthed or at anchor<br>
 
 ## Terrorism
 

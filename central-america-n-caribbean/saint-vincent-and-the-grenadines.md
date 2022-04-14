@@ -341,9 +341,9 @@ _lyrics/music_: Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL<br>
 <p>Success of the economy hinges upon seasonal variations in agriculture, tourism, and construction activity, as well as remittances. Much of the workforce is employed in banana production and tourism. Saint Vincent and the Grenadines is home to a small offshore banking sector and continues to fully adopt international regulatory standards.</p><p></p><p>This lower-middle-income country remains vulnerable to natural and external shocks. The economy has shown some signs of recovery due to increased tourist arrivals, falling oil prices and renewed growth in the construction sector. The much anticipated international airport opened in early 2017 with hopes for increased airlift and tourism activity. The government's ability to invest in social programs and respond to external shocks is constrained by its high public debt burden, which was 67% of GDP at the end of 2013.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.34 billion note: data are in 2017 dollars (2020 est.)<br>
-$1.38 billion note: data are in 2017 dollars (2019 est.)<br>
-$1.37 billion note: data are in 2017 dollars (2018 est.)<br>
+$1.34 billion (2020 est.)<br>
+$1.38 billion (2019 est.)<br>
+$1.37 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -352,9 +352,9 @@ $1.37 billion note: data are in 2017 dollars (2018 est.)<br>
 0.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$12,100 note: data are in 2017 dollars (2020 est.)<br>
-$12,500 note: data are in 2017 dollars (2019 est.)<br>
-$12,500 note: data are in 2017 dollars (2018 est.)<br>
+$12,100 (2020 est.)<br>
+$12,500 (2019 est.)<br>
+$12,500 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

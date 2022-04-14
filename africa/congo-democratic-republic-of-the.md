@@ -422,10 +422,10 @@ _selected World Heritage Site locales_: Garamba National Park, Kahuzi-Biega Nati
 <p>The economy of the Democratic Republic of the Congo - a nation endowed with vast natural resource wealth - continues to perform poorly. Systemic corruption since independence in 1960, combined with countrywide instability and intermittent conflict that began in the early-90s, has reduced national output and government revenue, and increased external debt. With the installation of a transitional government in 2003 after peace accords, economic conditions slowly began to improve as the government reopened relations with international financial institutions and international donors, and President KABILA began implementing reforms. Progress on implementing substantive economic reforms remains slow because of political instability, bureaucratic inefficiency, corruption, and patronage, which also dampen international investment prospects.</p><p></p><p>Renewed activity in the mining sector, the source of most export income, boosted Kinshasa's fiscal position and GDP growth until 2015, but low commodity prices have led to slower growth, volatile inflation, currency depreciation, and a growing fiscal deficit. An uncertain legal framework, corruption, and a lack of transparency in government policy are long-term problems for the large mining sector and for the economy as a whole. Much economic activity still occurs in the informal sector and is not reflected in GDP data.</p><p></p><p>Poverty remains widespread in DRC, and the country failed to meet any Millennium Development Goals by 2015. DRC also concluded its program with the IMF in 2015. The price of copper – the DRC’s primary export - plummeted in 2015 and remained at record lows during 2016-17, reducing government revenues, expenditures, and foreign exchange reserves, while inflation reached nearly 50% in mid-2017 – its highest level since the early 2000s.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$96.03 billion note: data are in 2017 dollars (2020 est.)<br>
-$95.29 billion note: data are in 2017 dollars (2019 est.)<br>
-$91.29 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$96.03 billion (2020 est.)<br>
+$95.29 billion (2019 est.)<br>
+$91.29 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.4% (2017 est.)<br>
@@ -433,10 +433,10 @@ $91.29 billion note: data are in 2017 dollars (2018 est.)<br>
 6.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,100 note: data are in 2017 dollars (2020 est.)<br>
-$1,100 note: data are in 2017 dollars (2019 est.)<br>
-$1,100 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$1,100 (2020 est.)<br>
+$1,100 (2019 est.)<br>
+$1,100 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $47.16 billion (2019 est.)<br>

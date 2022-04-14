@@ -92,7 +92,7 @@ _noun_: Sudanese (singular and plural)<br>
 _adjective_: Sudanese<br>
 
 **Ethnic groups**<br>
-Sudanese Arab (approximately 70%), Fur, Beja, Nuba, Ingessana, Uduk,Fallata, Masalit, Dajo, Gimir, Tunjur, Berti; there are over 500 ethnic groups<br>
+Sudanese Arab (approximately 70%), Fur, Beja, Nuba, Ingessana, Uduk, Fallata, Masalit, Dajo, Gimir, Tunjur, Berti; there are over 500 ethnic groups<br>
 
 **Languages**<br>
 Arabic (official), English (official), Nubian, Ta Bedawie, Fur<br>
@@ -408,10 +408,10 @@ _selected World Heritage Site locales_: Gebel Barkal and the Sites of the Napata
 <p>Sudan has experienced protracted social conflict and the loss of three quarters of its oil production due to the secession of South Sudan. The oil sector had driven much of Sudan's GDP growth since 1999. For nearly a decade, the economy boomed on the back of rising oil production, high oil prices, and significant inflows of foreign direct investment. Since the economic shock of South Sudan's secession, Sudan has struggled to stabilize its economy and make up for the loss of foreign exchange earnings. The interruption of oil production in South Sudan in 2012 for over a year and the consequent loss of oil transit fees further exacerbated the fragile state of Sudan’s economy. Ongoing conflicts in Southern Kordofan, Darfur, and the Blue Nile states, lack of basic infrastructure in large areas, and reliance by much of the population on subsistence agriculture, keep close to half of the population at or below the poverty line.</p> <p>Sudan was subject to comprehensive US sanctions, which were lifted in October 2017. Sudan is attempting to develop non-oil sources of revenues, such as gold mining and agriculture, while carrying out an austerity program to reduce expenditures. The world’s largest exporter of gum Arabic, Sudan produces 75-80% of the world’s total output. Agriculture continues to employ 80% of the work force.</p> <p>Sudan introduced a new currency, still called the Sudanese pound, following South Sudan's secession, but the value of the currency has fallen since its introduction. Khartoum formally devalued the currency in June 2012, when it passed austerity measures that included gradually repealing fuel subsidies. Sudan also faces high inflation, which reached 47% on an annual basis in November 2012 but fell to about 35% per year in 2017.</p> (2017)<br>
 
 **Real GDP (purchasing power parity)**<br>
-$176.4 billion note: data are in 2017 dollars (2020 est.)<br>
-$179.2 billion note: data are in 2017 dollars (2019 est.)<br>
-$181.61 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$176.4 billion (2020 est.)<br>
+$179.2 billion (2019 est.)<br>
+$181.61 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.4% (2017 est.)<br>
@@ -419,10 +419,10 @@ $181.61 billion note: data are in 2017 dollars (2018 est.)<br>
 1.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$4,000 note: data are in 2017 dollars (2020 est.)<br>
-$4,200 note: data are in 2017 dollars (2019 est.)<br>
-$4,300 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$4,000 (2020 est.)<br>
+$4,200 (2019 est.)<br>
+$4,300 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $24.918 billion (2019 est.)<br>
@@ -625,10 +625,10 @@ _subscriptions per 100 inhabitants_: 80.26 (2020 est.)<br>
 _general assessment_: well-equipped system by regional standards with ongoing upgrades; despite economic challenges, government continues to boost mobile infrastructure through build-out of fiber-broadband network across country; economic climate has not encouraged client growth in telecom, but some investment has been made to build mobile towers and expand LTE services; growth of e-money services; interim constitution safeguards rights and freedoms, though some Internet users continue to face harassment for activities; importer of broadcasting equipment from UAE and China (2020)<br>
 _domestic_: consists of microwave radio relay, cable, fiber optic, radiotelephone communications, tropospheric scatter, and a domestic satellite system with 14 earth stations; teledensity fixed-line less than 1 per 100 and mobile-cellular over 80 telephones per 100 persons (2020)<br>
 _international_: country code - 249; landing points for the EASSy, FALCON&nbsp;and SAS-1,-2, fiber-optic submarine cable systems linking Africa, the Middle East, Indian Ocean Islands and Asia; satellite earth stations - 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> since 2020, some aspects of the telecom sector have experienced a downturn because of supply-chain disruptions related to the COVID-19 pandemic, particularly in mobile device production; many network operators delayed upgrades to infrastructure; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes<br>
+<strong>note:</strong> since 2020, some aspects of the telecom sector have experienced a downturn because of supply-chain disruptions related to the COVID-19 pandemic, particularly in mobile device production; many network operators delayed upgrades to infrastructure; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes. Security services imposed periodic internet and cellular communication blackouts during civilian protests of the military takeover in October, November, and December 2021.<br>
 
 **Broadcast media**<br>
-the Sudanese Government directly controls TV and radio, requiring that both media reflect government policies; TV has a permanent military censor (2019)<br>
+Following the establishment of Sudan&rsquo;s civilian-led transitional government in August 2019, government-owned broadcasters became increasingly independent from government and military control. Following the October 2021 military takeover, additional restrictions were imposed on these government-owned broadcasters, which now practice a heightened degree of self-censorship but still operate more independently than in the pre-2019 environment. (2022)<br>
 
 **Internet country code**<br>
 .sd<br>
@@ -736,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS), al-Qa&rsquo;ida, Harakat Sawa&rsquo;d
 <p>the effects of Sudan's ethnic and rebel militia fighting since the mid-20th century have penetrated all of the neighboring states; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; as of early 2019, more than 590,000 Sudanese refugees are being hosted in the Central African Republic, Chad, Egypt, Ethiopia, Kenya, and South Sudan; Sudan, in turn, is hosting more than 975,000 refugees and asylum seekers, including more than 845,000 from South Sudan; Sudan accuses South Sudan of supporting Sudanese rebel groups; Sudan claims but Egypt de facto administers security and economic development of the Halaib region north of the 22nd parallel boundary; periodic violent skirmishes with Sudanese residents over water and grazing rights persist among related pastoral populations along the border with the Central African Republic; South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 799,911 (South Sudan) (refugees and asylum seekers), 127,959 (Eritrea) (refugees and asylum seekers), 93,482 (Syria) (refugees and asylum seekers), 72,406 (Ethiopia) (refugees and asylum seekers), 27,867 (Central African Republic) (2022)<br>
+_refugees (country of origin)_: 799,911 (South Sudan) (refugees and asylum seekers), 128,996 (Eritrea) (refugees and asylum seekers), 93,482 (Syria) (refugees and asylum seekers), 73,335 (Ethiopia) (refugees and asylum seekers), 28,023 (Central African Republic) (2022)<br>
 _IDPs_: 2,276,000 (civil war 1983-2005; ongoing conflict in Darfur region; government and rebel fighting along South Sudan border; inter-tribal clashes) (2020)<br>
 
 **Trafficking in persons**<br>

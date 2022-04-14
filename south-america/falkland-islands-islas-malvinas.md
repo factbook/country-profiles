@@ -249,7 +249,7 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 5 members directly elected in the Stanley constituency and 3 members in the Camp constituency by simple majority vote, 2 appointed non-voting ex-officio members - the chief executive, appointed by the governor, and the financial secretary; members serve 4-year terms); note - several previous referendums -&nbsp; the latest in September 2020 - on whether to merge the Stanley and Camp constituencies into a single islands wide constituency, failed<br>
 _elections_: last held on 4 November 2021 (next to be held in November 2025)<br>
-_election results_: percent of vote - NA; seats - independent 8; composition (elected members) -men 6, women 2, percent of women 25%<br>
+_election results_: percent of vote - NA; seats - independent 8; composition of elected members -men 6, women 2, percent of women 25%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president, the chief justice as an ex officio, non-resident member, and 2 justices of appeal); Supreme Court (consists of the chief justice); note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>

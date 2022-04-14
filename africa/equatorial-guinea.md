@@ -320,9 +320,9 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: Teodoro OBIANG Nguema Mbasogo reelected president; percent of vote - Teodoro OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote and 15 appointed by the president)<br> Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed paryt-list proportional representation vote to serve 5-year terms)<br>
-_elections_: Senate - last held on 12 November 2017 (next to be held in 2022/2023)<br> Chamber of Deputies - last held on 12 November 2017 (next to be held in 2022/2023)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PDGE and aligned coalition 70; composition - men 60, women 10, percent of women 14.3%<br><br> Chamber of Deputies - percent of vote by party - NA; seats by party - PDGE 99, CI 1; composition - men 78, women 22, percent of women 22%; note - total National Assembly percent of women 18.8%<br>
+_description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats statutory, 72 seats for current term; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote, 15 appointed by the president, and 2 ex-officio)<br>Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed paryt-list proportional representation vote to serve 5-year terms)<br>
+_elections_: Senate - last held on 12 November 2017 (next to be held in 2022/2023)<br>Chamber of Deputies - last held on 12 November 2017 (next to be held in 2022/2023)<br>
+_election results_: Senate - percent of vote by party - NA; elected seats by party - PDGE and aligned coalition 70; composition (including 2 ex-officio) - men 60, women 12, percent of women 16.7%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - PDGE 99, CI 1; composition - men 78, women 22, percent of women 22%; note - total National Assembly percent of women 18.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of the chief justice - who is also chief of state - and 9 judges&nbsp; organized into civil, criminal, commercial, labor, administrative, and customary sections); Constitutional Court (consists of the court president and 4 members)<br>
@@ -367,10 +367,10 @@ _lyrics/music_: Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez 
 <p>Exploitation of oil and gas deposits, beginning in the 1990s, has driven economic growth in Equatorial Guinea; a recent rebasing of GDP resulted in an upward revision of the size of the economy by approximately 30%. Forestry and farming are minor components of GDP. Although preindependence Equatorial Guinea counted on cocoa production for hard currency earnings, the neglect of the rural economy since independence has diminished the potential for agriculture-led growth. Subsistence farming is the dominant form of livelihood. Declining revenue from hydrocarbon production, high levels of infrastructure expenditures, lack of economic diversification, and corruption have pushed the economy into decline in recent years and limited improvements in the general population’s living conditions. Equatorial Guinea’s real GDP growth has been weak in recent years, averaging -0.5% per year from 2010 to 2014, because of a declining hydrocarbon sector. Inflation remained very low in 2016, down from an average of 4% in 2014.</p><p></p><p>As a middle income country, Equatorial Guinea is now ineligible for most low-income World Bank and the IMF funding. The government has been widely criticized for its lack of transparency and misuse of oil revenues and has attempted to address this issue by working toward compliance with the Extractive Industries Transparency Initiative. US foreign assistance to Equatorial Guinea is limited in part because of US restrictions pursuant to the Trafficking Victims Protection Act.</p><p></p><p>Equatorial Guinea hosted two economic diversification symposia in 2014 that focused on attracting investment in five sectors: agriculture and animal ranching, fishing, mining and petrochemicals, tourism, and financial services. Undeveloped mineral resources include gold, zinc, diamonds, columbite-tantalite, and other base metals. In 2017 Equatorial Guinea signed a preliminary agreement with Ghana to sell liquefied natural gas (LNG); as oil production wanes, the government believes LNG could provide a boost to revenues, but it will require large investments and long lead times to develop.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$23.86 billion note: data are in 2017 dollars (2020 est.)<br>
-$25.09 billion note: data are in 2017 dollars (2019 est.)<br>
-$26.68 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$23.86 billion (2020 est.)<br>
+$25.09 billion (2019 est.)<br>
+$26.68 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -3.2% (2017 est.)<br>
@@ -378,10 +378,10 @@ $26.68 billion note: data are in 2017 dollars (2018 est.)<br>
 -9.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$17,000 note: data are in 2017 dollars (2020 est.)<br>
-$18,500 note: data are in 2017 dollars (2019 est.)<br>
-$20,400 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$17,000 (2020 est.)<br>
+$18,500 (2019 est.)<br>
+$20,400 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $10.634 billion (2019 est.)<br>
@@ -654,7 +654,7 @@ the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapo
 <p>as of 2021, the FAGE’s National Guard (Army) had only three small infantry battalions with limited combat capabilities; the Navy focused on anti-piracy and protecting the country’s natural resources in the Gulf of Guinea; the Navy is small is size, but its inventory included a light frigate and a corvette, as well as several off-shore patrol boats; the Air Force possessed only a few operational combat aircraft and ground attack-capable helicopters</p><br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.&rdquo;<br>
+the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
 
 ## Transnational Issues
 

@@ -398,9 +398,9 @@ _selected World Heritage Site locales_: Historic City of Colonia del Sacramento,
 <p>Uruguay has a free market economy characterized by an export-oriented agricultural sector, a well-educated workforce, and high levels of social spending. Uruguay has sought to expand trade within the Common Market of the South (Mercosur) and with non-Mercosur members, and President VAZQUEZ has maintained his predecessor's mix of pro-market policies and a strong social safety net. <br><br></p> Following financial difficulties in the late 1990s and early 2000s, Uruguay's economic growth averaged 8% annually during the 2004-08 period. The 2008-09 global financial crisis put a brake on Uruguay's vigorous growth, which decelerated to 2.6% in 2009. Nevertheless, the country avoided a recession and kept growth rates positive, mainly through higher public expenditure and investment; GDP growth reached 8.9% in 2010 but slowed markedly in the 2012-16 period as a result of a renewed slowdown in the global economy and in Uruguay's main trade partners and Mercosur counterparts, Argentina and Brazil. Reforms in those countries should give Uruguay an economic boost. Growth picked up in 2017.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$75.06 billion note: data are in 2017 dollars (2020 est.)<br>
-$79.73 billion note: data are in 2017 dollars (2019 est.)<br>
-$79.45 billion note: data are in 2017 dollars (2018 est.)<br>
+$75.06 billion (2020 est.)<br>
+$79.73 billion (2019 est.)<br>
+$79.45 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -409,9 +409,9 @@ $79.45 billion note: data are in 2017 dollars (2018 est.)<br>
 0.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$21,600 note: data are in 2017 dollars (2020 est.)<br>
-$23,000 note: data are in 2017 dollars (2019 est.)<br>
-$23,000 note: data are in 2017 dollars (2018 est.)<br>
+$21,600 (2020 est.)<br>
+$23,000 (2019 est.)<br>
+$23,000 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

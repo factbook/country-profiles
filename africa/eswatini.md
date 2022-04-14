@@ -335,9 +335,9 @@ _cabinet_: Cabinet recommended by the prime minister, confirmed by the monarch; 
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from among members of the House of Assembly<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament (Libandla) consists of:<br> Senate (30 seats; 20 members appointed by the monarch and 10 indirectly elected by simple majority vote by the House of Assembly; members serve 5-year terms)<br>House of Assembly (73 seats; 59 members directly elected in single-seat constituencies or tinkhundla by absolute majority vote in 2 rounds if needed, 10 members appointed by the monarch, 4 women elected by the members if representation of elected women is less than 30%; members serve 5-year terms)<br>
+_description_: bicameral Parliament (Libandla) consists of:<br> Senate (30 seats; 20 members appointed by the monarch and 10 indirectly elected by simple majority vote by the House of Assembly; members serve 5-year terms)<br>House of Assembly (70 seats statutory, current 74; 59 members directly elected in single-seat constituencies or tinkhundla by absolute majority vote in 2 rounds if needed, 10 members appointed by the monarch, 4 women elected by the members if representation of elected women is less than 30%, and 1 ex-officio member - the attorney general; members serve 5-year terms)<br>
 _elections_: Senate - last held on 23 October 2018 (next to be held - 31 October 2023)<br>House of Assembly - last held on 21 September 2018 (next to be held in 2023)<br>
-_election results_: Senate - percent of seats by party - NA; seats by party - NA; composition - men 20, women 10, percent of women 33.3% <br>House of Assembly - percent of vote by party - NA; seats by party - independent 59; composition - men 60, women 5, percent of women 7.7%; note - total Parliament percent of women 15.8%<br>
+_election results_: Senate - percent of seats by party - NA; seats by party - NA; composition - men 18, women 12, percent of women 40% <br>House of Assembly - percent of vote by party - NA; seats by party - independent 59; composition - men 65, women 9, percent of women 12.2%; note - total Parliament percent of women 20.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and at least 4 justices) and the High Court (consists of the chief justice - ex officio - and 4 justices); note - the Supreme Court has jurisdiction in all constitutional matters<br>
@@ -382,10 +382,10 @@ _lyrics/music_: Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT<br>
 <p>A small, landlocked kingdom, Eswatini is bordered in the north, west and south by the Republic of South Africa and by Mozambique in the east. Eswatini depends on South Africa for a majority of its exports and imports. Eswatini's currency is pegged to the South African rand, effectively relinquishing Eswatini's monetary policy to South Africa. The government is dependent on customs duties from the Southern African Customs Union (SACU) for almost half of its revenue. Eswatini is a lower middle income country. As of 2017, more than one-quarter of the adult population was infected by HIV/AIDS; Eswatini has the world’s highest HIV prevalence rate, a financial strain and source of economic instability.</p><p></p><p>The manufacturing sector diversified in the 1980s and 1990s, but manufacturing has grown little in the last decade. Sugar and soft drink concentrate are the largest foreign exchange earners, although a drought in 2015-16 decreased sugar production and exports. Overgrazing, soil depletion, drought, and floods are persistent problems. Mining has declined in importance in recent years. Coal, gold, diamond, and quarry stone mines are small scale, and the only iron ore mine closed in 2014. With an estimated 28% unemployment rate, Eswatini's need to increase the number and size of small and medium enterprises and to attract foreign direct investment is acute.</p><p></p><p>Eswatini's national development strategy, which expires in 2022, prioritizes increases in infrastructure, agriculture production, and economic diversification, while aiming to reduce poverty and government spending. Eswatini's revenue from SACU receipts are likely to continue to decline as South Africa pushes for a new distribution scheme, making it harder for the government to maintain fiscal balance without introducing new sources of revenue.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.74 billion note: data are in 2017 dollars (2020 est.)<br>
-$9.9 billion note: data are in 2017 dollars (2019 est.)<br>
-$9.68 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$9.74 billion (2020 est.)<br>
+$9.9 billion (2019 est.)<br>
+$9.68 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.6% (2017 est.)<br>
@@ -393,10 +393,10 @@ $9.68 billion note: data are in 2017 dollars (2018 est.)<br>
 0.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$8,400 note: data are in 2017 dollars (2020 est.)<br>
-$8,600 note: data are in 2017 dollars (2019 est.)<br>
-$8,500 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$8,400 (2020 est.)<br>
+$8,600 (2019 est.)<br>
+$8,500 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $4.484 billion (2019 est.)<br>

@@ -321,7 +321,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President HALIMAH Yacob (since 14 September 2017)<br>
-_head of government_: Prime Minister LEE Hsien Loong (since 12 August 2004, reelected 10 July 2020); Deputy Prime Ministers HENG Swee Keat (since 1 May 2019) (2019)<br>
+_head of government_: Prime Minister LEE Hsien Loong (since 12 August 2004, reelected 10 July 2020)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a fixed term of 6-years&nbsp;(there are no term limits); election last held on 13 September 2017 (next to be held in 2023); following legislative elections, leader of majority party or majority coalition appointed prime minister by president; deputy prime ministers appointed by the president<br>
 _election results_: HALIMAH Yacob was declared president on 13 September 2017, being the only eligible candidate; Tony TAN Keng Yam elected president in the previous contested election on 27 August 2011; percent of vote - Tony TAN Keng Yam (independent) 35.2% , TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
@@ -337,7 +337,7 @@ _judge selection and term of office_: judges appointed by the president from can
 _subordinate courts_: district, magistrates', juvenile, family, community, and coroners' courts; small claims tribunals; employment claims tribunals<br>
 
 **Political parties and leaders**<br>
-National Solidarity Party or NSP [Spencer NG]<br>People's Action Party or PAP [LEE Hsien Loong]<br>People's Power Party or (PPP) [Goh Meng SENG]<br>People's Voice or PV [Lim TEAN]<br>Progress Singapore Party or PSP [Francis YUENT]<br>Red Dot United or RDU [Ravi PHILEMON]<br>Reform Party or RP [Kenneth JEYARETNAM]<br>Singapore Democratic Alliance or SDA [Abu MOHAMED]<br>Singapore Democratic Party or SDP [Dr. CHEE Soon Juan]<br>Singapore People's Party or SPP [Steve Chia]<br>Workers' Party or WP [Pritam SINGH] (2021)<br>
+<p>Democratic Progressive Party or DPP [Mohamad Hamim BIN ALIYA]<br>National Solidarity Party or NSP [Spencer NG]<br>People's Action Party or PAP [LEE Hsien Loong]<br>People's Power Party or (PPP) [Goh Meng SENG]<br>People's Voice or PV [Lim TEAN]<br>Progress Singapore Party or PSP [Francis YUENT]<br>Red Dot United or RDU [Ravi PHILEMON]<br>Reform Party or RP [Kenneth JEYARETNAM]<br>Singapore Democratic Alliance or SDA [Desmond LIM]<br>Singapore Democratic Party or SDP [Dr. CHEE Soon Juan]<br>Singapore Malay National Organisation or PKMS [Muhammad Hairullah AHMAD]<br>Singapore People's Party or SPP [Steve Chia]<br>Singapore United Party or SUP [Andy ZHU]<br>Workers' Party or WP [Pritam SINGH]</p> (2021)<br>
 
 **International organization participation**<br>
 ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -380,10 +380,10 @@ _selected World Heritage Site locales_: Singapore Botanic Gardens<br>
 <p>Singapore has a highly developed and successful free-market economy. It enjoys an open and corruption-free environment, stable prices, and a per capita GDP higher than that of most developed countries. Unemployment is very low. The economy depends heavily on exports, particularly of electronics, petroleum products, chemicals, medical and optical devices, pharmaceuticals, and on Singapore’s vibrant transportation, business, and financial services sectors.</p><p></p><p>The economy contracted 0.6% in 2009 as a result of the global financial crisis, but has continued to grow since 2010. Growth from 2012-2017 was slower than during the previous decade, a result of slowing structural growth - as Singapore reached high-income levels - and soft global demand for exports. Growth recovered to 3.6% in 2017 with a strengthening global economy.</p><p></p><p>The government is attempting to restructure Singapore’s economy to reduce its dependence on foreign labor, raise productivity growth, and increase wages amid slowing labor force growth and an aging population. Singapore has attracted major investments in advanced manufacturing, pharmaceuticals, and medical technology production and will continue efforts to strengthen its position as Southeast Asia's leading financial and technology hub. Singapore is a signatory of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), and a party to the Regional Comprehensive Economic Partnership (RCEP) negotiations with nine other ASEAN members plus Australia, China, India, Japan, South Korea, and New Zealand. In 2015, Singapore formed, with the other ASEAN members, the ASEAN Economic Community.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$531.04 billion note: data are in 2017 dollars (2020 est.)<br>
-$561.3 billion note: data are in 2017 dollars (2019 est.)<br>
-$553.85 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$531.04 billion (2020 est.)<br>
+$561.3 billion (2019 est.)<br>
+$553.85 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 0.73% (2019 est.)<br>
@@ -391,10 +391,10 @@ $553.85 billion note: data are in 2017 dollars (2018 est.)<br>
 4.34% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$93,400 note: data are in 2017 dollars (2020 est.)<br>
-$98,400 note: data are in 2017 dollars (2019 est.)<br>
-$98,200 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$93,400 (2020 est.)<br>
+$98,400 (2019 est.)<br>
+$98,200 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $372.088 billion (2019 est.)<br>
@@ -691,7 +691,7 @@ maintains permanent training detachments of military personnel in Australia, Fra
 <p>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965; as of 2021, the SAF was widely viewed as the best equipped military in southeast Asia; the Army was largely based on conscripts and reservists with a small cadre of professional soldiers, while the Air Force and Navy were primarily comprised of well-trained professionals</p><br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; the Singapore Straits saw 23 attacks against commercial vessels in 2020, vessels were boarded in 22 of the 23 incidents, one crew was injured, another taken hostage and two threatened during these incidents<br>
+the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; the Singapore Straits saw 35 attacks against commercial vessels in 2021, a 50% increase over 2020 and the highest number of incidents reported since 1992; vessels were boarded in 33 of the 35 incidents, one crew was injured, another assaulted and two threatened during these incidents<br>
 
 ## Terrorism
 

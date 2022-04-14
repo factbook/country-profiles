@@ -380,10 +380,10 @@ _selected World Heritage Site locales_: Dilmun Burial Mounds, Qal'at al-Bahrain 
 <p>Oil and natural gas play a dominant role in Bahrain’s economy. Despite the Government’s past efforts to diversify the economy, oil still comprises 85% of Bahraini budget revenues. In the last few years lower world energy prices have generated sizable budget deficits - about 10% of GDP in 2017 alone. Bahrain has few options for covering these deficits, with low foreign assets and fewer oil resources compared to its GCC neighbors. The three major US credit agencies downgraded Bahrain’s sovereign debt rating to "junk" status in 2016, citing persistently low oil prices and the government’s high debt levels. Nevertheless, Bahrain was able to raise about $4 billion by issuing foreign currency denominated debt in 2017.</p><p></p><p>Other major economic activities are production of aluminum - Bahrain's second biggest export after oil and gas –finance, and construction. Bahrain continues to seek new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. In April 2018 Bahrain announced it had found a significant oil field off the country’s west coast, but is still assessing how much of the oil can be extracted profitably.</p><p></p><p>In addition to addressing its current fiscal woes, Bahraini authorities face the long-term challenge of boosting Bahrain’s regional competitiveness — especially regarding industry, finance, and tourism — and reconciling revenue constraints with popular pressure to maintain generous state subsidies and a large public sector. Since 2015, the government lifted subsidies on meat, diesel, kerosene, and gasoline and has begun to phase in higher prices for electricity and water. As part of its diversification plans, Bahrain implemented a Free Trade Agreement (FTA) with the US in August 2006, the first FTA between the US and a Gulf state. It plans to introduce a Value Added Tax (VAT) by the end of 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$69.65 billion note: data are in 2017 dollars (2020 est.)<br>
-$73.95 billion note: data are in 2017 dollars (2019 est.)<br>
-$72.51 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$69.65 billion (2020 est.)<br>
+$73.95 billion (2019 est.)<br>
+$72.51 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.49% (2019 est.)<br>
@@ -391,10 +391,10 @@ $72.51 billion note: data are in 2017 dollars (2018 est.)<br>
 3.85% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$40,900 note: data are in 2017 dollars (2020 est.)<br>
-$45,100 note: data are in 2017 dollars (2019 est.)<br>
-$46,200 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$40,900 (2020 est.)<br>
+$45,100 (2019 est.)<br>
+$46,200 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $38.472 billion (2019 est.)<br>

@@ -404,10 +404,10 @@ _selected World Heritage Site locales_: Archaeological Site of Troy (c), Ephesus
 <p>Turkey's largely free-market economy is driven by its industry and, increasingly, service sectors, although its traditional agriculture sector still accounts for about 25% of employment. The automotive, petrochemical, and electronics industries have risen in importance and surpassed the traditional textiles and clothing sectors within Turkey's export mix. However, the recent period of political stability and economic dynamism has given way to domestic uncertainty and security concerns, which are generating financial market volatility and weighing on Turkey’s economic outlook.</p><p></p><p>Current government policies emphasize populist spending measures and credit breaks, while implementation of structural economic reforms has slowed. The government is playing a more active role in some strategic sectors and has used economic institutions and regulators to target political opponents, undermining private sector confidence in the judicial system. Between July 2016 and March 2017, three credit ratings agencies downgraded Turkey’s sovereign credit ratings, citing concerns about the rule of law and the pace of economic reforms.</p><p></p><p>Turkey remains highly dependent on imported oil and gas but is pursuing energy relationships with a broader set of international partners and taking steps to increase use of domestic energy sources including renewables, nuclear, and coal. The joint Turkish-Azerbaijani Trans-Anatolian Natural Gas Pipeline is moving forward to increase transport of Caspian gas to Turkey and Europe, and when completed will help diversify Turkey's sources of imported gas.</p><p></p><p>After Turkey experienced a severe financial crisis in 2001, Ankara adopted financial and fiscal reforms as part of an IMF program. The reforms strengthened the country's economic fundamentals and ushered in an era of strong growth, averaging more than 6% annually until 2008. An aggressive privatization program also reduced state involvement in basic industry, banking, transport, power generation, and communication. Global economic conditions and tighter fiscal policy caused GDP to contract in 2009, but Turkey's well-regulated financial markets and banking system helped the country weather the global financial crisis, and GDP growth rebounded to around 9% in 2010 and 2011, as exports and investment recovered following the crisis.</p><p></p><p>The growth of Turkish GDP since 2016 has revealed the persistent underlying imbalances in the Turkish economy. In particular, Turkey’s large current account deficit means it must rely on external investment inflows to finance growth, leaving the economy vulnerable to destabilizing shifts in investor confidence. Other troublesome trends include rising unemployment and inflation, which increased in 2017, given the Turkish lira’s continuing depreciation against the dollar. Although government debt remains low at about 30% of GDP, bank and corporate borrowing has almost tripled as a percent of GDP during the past decade, outpacing its emerging-market peers and prompting investor concerns about its long-term sustainability.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,393,960,000,000 note: data are in 2017 dollars (2020 est.)<br>
-$2,352,640,000,000 note: data are in 2017 dollars (2019 est.)<br>
-$2,331,270,000,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$2,393,960,000,000 (2020 est.)<br>
+$2,352,640,000,000 (2019 est.)<br>
+$2,331,270,000,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 0.98% (2019 est.)<br>
@@ -415,10 +415,10 @@ $2,331,270,000,000 note: data are in 2017 dollars (2018 est.)<br>
 7.54% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$28,400 note: data are in 2017 dollars (2020 est.)<br>
-$28,200 note: data are in 2017 dollars (2019 est.)<br>
-$28,300 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$28,400 (2020 est.)<br>
+$28,200 (2019 est.)<br>
+$28,300 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $760.028 billion (2019 est.)<br>
@@ -741,7 +741,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,754,591 (Syria) (2022)<br>
+_refugees (country of origin)_: 3,763,565 (Syria) (2022)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 

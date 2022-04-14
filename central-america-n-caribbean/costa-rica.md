@@ -388,9 +388,9 @@ _selected World Heritage Site locales_: Guanacaste Conservation Area (n), Cocos 
 <p>Since 2010, Costa Rica has enjoyed strong and stable economic growth - 3.8% in 2017. Exports of bananas, coffee, sugar, and beef are the backbone of its commodity exports. Various industrial and processed agricultural products have broadened exports in recent years, as have high value-added goods, including medical devices. Costa Rica's impressive biodiversity also makes it a key destination for ecotourism.</p><p></p><p>Foreign investors remain attracted by the country's political stability and relatively high education levels, as well as the incentives offered in the free-trade zones; Costa Rica has attracted one of the highest levels of foreign direct investment per capita in Latin America. The US-Central American-Dominican Republic Free Trade Agreement (CAFTA-DR), which became effective for Costa Rica in 2009, helped increase foreign direct investment in key sectors of the economy, including insurance and telecommunication. However, poor infrastructure, high energy costs, a complex bureaucracy, weak investor protection, and uncertainty of contract enforcement impede greater investment.</p><p></p><p>Costa Rica’s economy also faces challenges due to a rising fiscal deficit, rising public debt, and relatively low levels of domestic revenue. Poverty has remained around 20-25% for nearly 20 years, and the government’s strong social safety net has eroded due to increased constraints on its expenditures. Costa Rica’s credit rating was downgraded from stable to negative in 2015 and again in 2017, upping pressure on lending rates - which could hurt small business, on the budget deficit - which could hurt infrastructure development, and on the rate of return on investment - which could soften foreign direct investment (FDI). Unlike the rest of Central America, Costa Rica is not highly dependent on remittances - which represented just 1 % of GDP in 2016, but instead relies on FDI - which accounted for 5.1% of GDP.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$100.25 billion note: data are in 2017 dollars (2020 est.)<br>
-$105.02 billion note: data are in 2017 dollars (2019 est.)<br>
-$102.79 billion note: data are in 2017 dollars (2018 est.)<br>
+$100.25 billion (2020 est.)<br>
+$105.02 billion (2019 est.)<br>
+$102.79 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -399,9 +399,9 @@ $102.79 billion note: data are in 2017 dollars (2018 est.)<br>
 3.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$19,700 note: data are in 2017 dollars (2020 est.)<br>
-$20,800 note: data are in 2017 dollars (2019 est.)<br>
-$20,600 note: data are in 2017 dollars (2018 est.)<br>
+$19,700 (2020 est.)<br>
+$20,800 (2019 est.)<br>
+$20,600 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

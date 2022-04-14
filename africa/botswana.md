@@ -402,9 +402,9 @@ _selected World Heritage Site locales_: Tsodilo Hills (c), Okavango Delta (n)<br
 <p>Until the beginning of the global recession in 2008, Botswana maintained one of the world's highest economic growth rates since its independence in 1966. Botswana recovered from the global recession in 2010, but only grew modestly until 2017, primarily due to a downturn in the global diamond market, though water and power shortages also played a role. Through fiscal discipline and sound management, Botswana has transformed itself from one of the poorest countries in the world five decades ago into a middle-income country with a per capita GDP of approximately $18,100 in 2017. Botswana also ranks as one of the least corrupt and best places to do business in Sub-Saharan Africa.</p> <p> </p> <p>Because of its heavy reliance on diamond exports, Botswana’s economy closely follows global price trends for that one commodity. Diamond mining fueled much of Botswana’s past economic expansion and currently accounts for one-quarter of GDP, approximately 85% of export earnings, and about one-third of the government's revenues. In 2017, Diamond exports increased to the highest levels since 2013 at about 22 million carats of output, driving Botswana’s economic growth to about 4.5% and increasing foreign exchange reserves to about 45% of GDP. De Beers, a major international diamond company, signed a 10-year deal with Botswana in 2012 and moved its rough stone sorting and trading division from London to Gaborone in 2013. The move was geared to support the development of Botswana's nascent downstream diamond industry.</p> <p> </p> <p>Tourism is a secondary earner of foreign exchange and many Batswana engage in tourism-related services, subsistence farming, and cattle rearing. According to official government statistics, unemployment is around 20%, but unofficial estimates run much higher. The prevalence of HIV/AIDS is second highest in the world and threatens the country's impressive economic gains.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$37.72 billion note: data are in 2017 dollars (2020 est.)<br>
-$40.95 billion note: data are in 2017 dollars (2019 est.)<br>
-$39.75 billion note: data are in 2017 dollars (2018 est.)<br>
+$37.72 billion (2020 est.)<br>
+$40.95 billion (2019 est.)<br>
+$39.75 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -413,9 +413,9 @@ $39.75 billion note: data are in 2017 dollars (2018 est.)<br>
 -1.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$16,000 note: data are in 2017 dollars (2020 est.)<br>
-$17,800 note: data are in 2017 dollars (2019 est.)<br>
-$17,600 note: data are in 2017 dollars (2018 est.)<br>
+$16,000 (2020 est.)<br>
+$17,800 (2019 est.)<br>
+$17,600 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

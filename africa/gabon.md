@@ -342,8 +342,8 @@ _election results_: Ali BONGO Ondimba reelected president; percent of vote - Ali
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (102 seats; members indirectly elected by municipal councils and departmental assemblies by absolute majority vote in 2 rounds if needed; members serve 6-year terms)<br>National Assembly or Assemblee Nationale (143 seats; members elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 13 December 2014 (next to be held on 31 December 2020)<br>National Assembly - held in 2 rounds on 6 and 27 October 2018 (next to be held in 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PDG 81, CLR 7, PSD 2, ADERE-UPG 1, UPG 1, PGCI 1, independent 7; composition - men 84, women 18, percent of women 17.6%<br>National Assembly - percent of vote by party - NA; seats by party - PDG 98, The Democrats or LD 11, RV 8, Social Democrats of Gabon 5, RH&amp;M 4, other 9, independent 8; composition - men 123, women 20, percent of women 14%; note - total Parliament percent of women 15.5%<br>
+_elections_: <br>Senate - last held on 30 January and 6 February 2021 (next to be held in December 2026)<br>National Assembly - held in 2 rounds on 6 and 27 October 2018 (next to be held in 2023)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PDG 81, CLR 7, PSD 2, ADERE-UPG 1, UPG 1, PGCI 1, independent 7; composition - NA<br>National Assembly - percent of vote by party - NA; seats by party - PDG 98, The Democrats or LD 11, RV 8, Social Democrats of Gabon 5, RH&amp;M 4, other 9, independent 8; composition - men 121, women 22, percent of women 15.4%; note - total Parliament percent of women NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 4 permanent specialized supreme courts - Supreme Court or Cour de Cassation, Administrative Supreme Court or Conseil d'Etat, Accounting Supreme Court or Cour des Comptes, Constitutional Court or Cour Constitutionnelle, and the non-permanent Court of State Security, initiated only for cases of high treason by the president and criminal activity by executive branch officials)<br>
@@ -392,10 +392,10 @@ _selected World Heritage Site locales_: Ecosystem and Relict Cultural Landscape 
 <p>Gabon enjoys a per capita income four times that of most Sub-Saharan African nations, but because of high income inequality, a large proportion of the population remains poor. Gabon relied on timber and manganese exports until oil was discovered offshore in the early 1970s. From 2010 to 2016, oil accounted for approximately 80% of Gabon’s exports, 45% of its GDP, and 60% of its state budget revenues.</p><p></p><p>Gabon faces fluctuating international prices for its oil, timber, and manganese exports. A rebound of oil prices from 2001 to 2013 helped growth, but declining production, as some fields passed their peak production, has hampered Gabon from fully realizing potential gains. GDP grew nearly 6% per year over the 2010-14 period, but slowed significantly from 2014 to just 1% in 2017 as oil prices declined. Low oil prices also weakened government revenue and negatively affected the trade and current account balances. In the wake of lower revenue, Gabon signed a 3-year agreement with the IMF in June 2017.</p><p></p><p>Despite an abundance of natural wealth, poor fiscal management and over-reliance on oil has stifled the economy. Power cuts and water shortages are frequent. Gabon is reliant on imports and the government heavily subsidizes commodities, including food, but will be hard pressed to tamp down public frustration with unemployment and corruption.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$32.05 billion note: data are in 2017 dollars (2020 est.)<br>
-$32.48 billion note: data are in 2017 dollars (2019 est.)<br>
-$31.25 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$32.05 billion (2020 est.)<br>
+$32.48 billion (2019 est.)<br>
+$31.25 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 0.5% (2017 est.)<br>
@@ -403,10 +403,10 @@ $31.25 billion note: data are in 2017 dollars (2018 est.)<br>
 3.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$14,400 note: data are in 2017 dollars (2020 est.)<br>
-$15,000 note: data are in 2017 dollars (2019 est.)<br>
-$14,700 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$14,400 (2020 est.)<br>
+$15,000 (2019 est.)<br>
+$14,700 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $16.064 billion (2019 est.)<br>
@@ -701,7 +701,7 @@ the FDG is lightly armed with a mixed inventory from a variety of suppliers; sin
 members of the Gabonese Defense Forces attempted a failed coup in January 2019<br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.&rdquo;<br>
+the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
 
 ## Transnational Issues
 

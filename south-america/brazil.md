@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Following more than three centuries under Portuguese rule, Brazil gained its independence in 1822, maintaining a monarchical system of government until the abolition of slavery in 1888 and the subsequent proclamation of a republic by the military in 1889. Brazilian coffee exporters politically dominated the country until populist leader Getulio VARGAS rose to power in 1930. VARGAS governed over various versions of democratic and authoritarian regimes from 1930 to 1945. Democratic rule returned (including a democratically elected VARGAS administration from 1951-55) and lasted until 1964, when the military overthrew President Joao GOULART. The military regime censored journalists and repressed and tortured dissidents in the late 1960s and early 1970s. The dictatorship lasted until 1985, when the military regime peacefully ceded power to civilian rulers, and the Brazilian Congress passed its current constitution in 1989. <br><br>By far the largest and most populous country in South America, Brazil continues to pursue industrial and agricultural growth and development of its interior. Having successfully weathered a period of global financial difficulty in the late 20th century, under President Luiz Inacio LULA da Silva (2003-2010) Brazil was seen as one of the world's strongest emerging markets and a contributor to global growth. The awarding of the 2014 FIFA World Cup and 2016 Summer Olympic Games, the first ever to be held in South America, was symbolic of the country's rise. However, from about 2013 to 2016, Brazil was plagued by a sagging economy, high unemployment, and high inflation, only emerging from recession in 2017. Former President Dilma ROUSSEFF (2011-2016) was removed from office in 2016 by Congress for having committed impeachable acts against Brazil's budgetary laws, and her vice president, Michel TEMER, served the remainder of her second term. A money-laundering investigation, Operation Lava Jato, uncovered a vast corruption scheme and prosecutors charged several high-profile Brazilian politicians with crimes. Former-President LULA was convicted of accepting bribes and served jail time from 2018-19, although his conviction was overturned in early 2021. In October 2018, Jair BOLSONARO won the presidency with 55% of the second-round vote and assumed office on 1 January 2019.</p><br>
+<p>Following more than three centuries under Portuguese rule, Brazil gained its independence in 1822, maintaining a monarchical system of government until the abolition of slavery in 1888 and the subsequent proclamation of a republic by the military in 1889. Brazilian coffee exporters politically dominated the country until populist leader Getulio VARGAS rose to power in 1930. VARGAS governed over various versions of democratic and authoritarian regimes from 1930 to 1945. Democratic rule returned (including a democratically elected VARGAS administration from 1951-55) and lasted until 1964, when the military overthrew President Joao GOULART. The military regime censored journalists and repressed and tortured dissidents in the late 1960s and early 1970s. The dictatorship lasted until 1985, when the military regime peacefully ceded power to civilian rulers, and the Brazilian Congress passed its current constitution in 1989. <br><br>By far the largest and most populous country in South America, Brazil continues to pursue industrial and agricultural growth and development of its interior. Having successfully weathered a period of global financial difficulty in the late 20th century, under President Luiz Inacio LULA da Silva (2003-2010) Brazil was seen as one of the world's strongest emerging markets and a contributor to global growth. The awarding of the 2014 FIFA World Cup and 2016 Summer Olympic Games, the first ever to be held in South America, was symbolic of the country's rise. However, from about 2013 to 2016, Brazil was plagued by a sagging economy, high unemployment, and high inflation, only emerging from recession in 2017. Former President Dilma ROUSSEFF (2011-2016) was removed from office in 2016 by Congress for having committed impeachable acts against Brazil's budgetary laws, and her vice president, Michel TEMER, served the remainder of her second term. A money-laundering investigation, Operation Lava Jato, uncovered a vast corruption scheme and prosecutors charged several high-profile Brazilian politicians with crimes. Former-President LULA was convicted of accepting bribes and served jail time from 2018-19, although his conviction was overturned in early 2021. In October 2018, Jair BOLSONARO won the presidency with 55% of the second-round vote and assumed office on 1 January 2019. The next national elections are scheduled for October 2022.</p><br>
 
 ## Geography
 
@@ -422,10 +422,10 @@ _selected World Heritage Site locales_: Brasilia (c), Historic Salvador de Bahia
 <p>Brazil is the eighth-largest economy in the world, but is recovering from a recession in 2015 and 2016 that ranks as the worst in the country’s history. In 2017, Brazil`s GDP grew 1%, inflation fell to historic lows of 2.9%, and the Central Bank lowered benchmark interest rates from 13.75% in 2016 to 7%.</p><p></p><p>The economy has been negatively affected by multiple corruption scandals involving private companies and government officials, including the impeachment and conviction of Former President Dilma ROUSSEFF in August 2016. Sanctions against the firms involved — some of the largest in Brazil — have limited their business opportunities, producing a ripple effect on associated businesses and contractors but creating opportunities for foreign companies to step into what had been a closed market.</p><p></p><p>The succeeding TEMER administration has implemented a series of fiscal and structural reforms to restore credibility to government finances. Congress approved legislation in December 2016 to cap public spending. Government spending growth had pushed public debt to 73.7% of GDP at the end of 2017, up from over 50% in 2012. The government also boosted infrastructure projects, such as oil and natural gas auctions, in part to raise revenues. Other economic reforms, proposed in 2016, aim to reduce barriers to foreign investment, and to improve labor conditions. Policies to strengthen Brazil’s workforce and industrial sector, such as local content requirements, have boosted employment, but at the expense of investment.</p><p></p><p>Brazil is a member of the Common Market of the South (Mercosur), a trade bloc that includes Argentina, Paraguay and Uruguay - Venezuela’s membership in the organization was suspended In August 2017. After the Asian and Russian financial crises, Mercosur adopted a protectionist stance to guard against exposure to volatile foreign markets and it currently is negotiating Free Trade Agreements with the European Union and Canada.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,989,430,000,000 note: data are in 2017 dollars (2020 est.)<br>
-$3,115,910,000,000 note: data are in 2017 dollars (2019 est.)<br>
-$3,072,550,000,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$2,989,430,000,000 (2020 est.)<br>
+$3,115,910,000,000 (2019 est.)<br>
+$3,072,550,000,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.13% (2019 est.)<br>
@@ -433,10 +433,10 @@ $3,072,550,000,000 note: data are in 2017 dollars (2018 est.)<br>
 1.62% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$14,100 note: data are in 2017 dollars (2020 est.)<br>
-$14,800 note: data are in 2017 dollars (2019 est.)<br>
-$14,700 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$14,100 (2020 est.)<br>
+$14,800 (2019 est.)<br>
+$14,700 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1,877,942,000,000 (2019 est.)<br>
@@ -747,6 +747,9 @@ note - in 2020, women comprised approximately 9% of the Brazilian military<br>
 
 **Military - note**<br>
 the origins of Brazil's military stretch back to the 1640s; as of 2021, the military's primary role was enforcing border security, particularly in the Amazon states; it was also assisting with internal security operations with a focus on organized crime<br><br>Brazilian police forces are divided into Federal Police (around 15,000 personnel), Military Police (approximately 400,000 personnel), and Civil Police (approximately 125,000 personnel); the Federal Police serve under the Ministry of Justice, while the Military and Civil police are subordinate to the state governments; the National Public Security Force (Forca Nacional de Seguranca Publica or SENASP) is a national police force made up of Military Police from various states; all state Military Police are classified as reserve troops and ancillary forces of the Brazilian Army<br><br>Brazil has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2021)<br>
+
+**Maritime threats**<br>
+the International Maritime Bureau reports the territorial waters of Brazil are a risk for armed robbery against ships; in 2021, three attacks against commercial vessels were reported, a decrease from the seven attacks in 2020; all of these occurred in the port of Macapa while ships were berthed or at anchor<br>
 
 ## Transnational Issues
 

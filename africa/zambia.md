@@ -410,9 +410,9 @@ _selected World Heritage Site locales_: Mosi-oa-Tunya/Victoria Falls<br>
 <p>Zambia had one of the world’s fastest growing economies for the ten years up to 2014, with real GDP growth averaging roughly 6.7% per annum, though growth slowed during the period 2015 to 2017, due to falling copper prices, reduced power generation, and depreciation of the kwacha. Zambia’s lack of economic diversification and dependency on copper as its sole major export makes it vulnerable to fluctuations in the world commodities market and prices turned downward in 2015 due to declining demand from China; Zambia was overtaken by the Democratic Republic of Congo as Africa’s largest copper producer. GDP growth picked up in 2017 as mineral prices rose.</p><p></p><p>Despite recent strong economic growth and its status as a lower middle-income country, widespread and extreme rural poverty and high unemployment levels remain significant problems, made worse by a high birth rate, a relatively high HIV/AIDS burden, by market-distorting agricultural and energy policies, and growing government debt. Zambia raised $7 billion from international investors by issuing separate sovereign bonds in 2012, 2014, and 2015. Concurrently, it issued over $4 billion in domestic debt and agreed to Chinese-financed infrastructure projects, significantly increasing the country’s public debt burden to more than 60% of GDP. The government has considered refinancing $3 billion worth of Eurobonds and significant Chinese loans to cut debt servicing costs.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$60.12 billion note: data are in 2017 dollars (2020 est.)<br>
-$61.99 billion note: data are in 2017 dollars (2019 est.)<br>
-$61.1 billion note: data are in 2017 dollars (2018 est.)<br>
+$60.12 billion (2020 est.)<br>
+$61.99 billion (2019 est.)<br>
+$61.1 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -421,9 +421,9 @@ $61.1 billion note: data are in 2017 dollars (2018 est.)<br>
 2.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,300 note: data are in 2017 dollars (2020 est.)<br>
-$3,500 note: data are in 2017 dollars (2019 est.)<br>
-$3,500 note: data are in 2017 dollars (2018 est.)<br>
+$3,300 (2020 est.)<br>
+$3,500 (2019 est.)<br>
+$3,500 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -735,7 +735,7 @@ the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era arm
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 66,027 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,234 (Burundi) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 66,027 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,240 (Burundi) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>

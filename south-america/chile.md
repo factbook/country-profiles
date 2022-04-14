@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-Indigenous groups inhabited central and southern Chile for several thousands of years, living in mixed pastoralist and settled communities, with the Inka also ruling the north of the country for nearly a century prior to the arrival of the Spanish in the 16th century. The Captaincy General of Chile was founded by the Spanish in 1541, lasting until Chile declared its independence in 1810. The subsequent struggle became tied to other South American independence conflicts, with a decisive victory over the Spanish not being achieved until 1818. In the War of the Pacific (1879-83), Chile defeated Peru and Bolivia to win its current northernmost regions. By the 1880s, the Chilean central government cemented its control over the central and southern regions inhabited by Mapuche Indigenous peoples. Between 1891 and 1973, a series of elected governments succeeded each other until the three-year-old Marxist government of Salvador ALLENDE was overthrown in 1973 by a military coup led by General Augusto PINOCHET, who ruled until a democratically-elected president was inaugurated in 1990. Economic reforms, maintained consistently since the 1980s, contributed to steady growth, reduced poverty rates by over half, and helped secure the country's commitment to democratic and representative government. Chile has increasingly assumed regional and international leadership roles befitting its status as a stable, democratic nation.<br>
+Indigenous groups inhabited central and southern Chile for several thousands of years, living in mixed pastoralist and settled communities, ending with the Inka ruling the north of the country for nearly a century prior to the arrival of the Spanish in the 16th century. The Captaincy General of Chile was founded by the Spanish in 1541, lasting until Chile declared its independence in 1810. The subsequent struggle became tied to other South American independence conflicts, with a decisive victory over the Spanish not being achieved until 1818. In the War of the Pacific (1879-83), Chile defeated Peru and Bolivia to win its current northernmost regions. By the 1880s, the Chilean central government cemented its control over the central and southern regions inhabited by Mapuche Indigenous peoples. Between 1891 and 1973, a series of elected governments succeeded each other until the three-year-old Marxist government of Salvador ALLENDE was overthrown in 1973 by a military coup led by General Augusto PINOCHET, who ruled until a democratically-elected president was inaugurated in 1990. Economic reforms, maintained consistently since the 1980s, contributed to steady growth, reduced poverty rates by over half, and helped secure the country's commitment to democratic and representative government. Chile has increasingly assumed regional and international leadership roles befitting its status as a stable, democratic nation.<br>
 
 ## Geography
 
@@ -94,7 +94,7 @@ Spanish 99.5% (official), English 10.2%, Indigenous 1% (includes Mapudungun, Aym
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 66.7%, Evangelical or Protestant 16.4%, Jehovah's Witness 1%, other 3.4%, none 11.5%, unspecified 1.1% (2012 est.)<br>
+Roman Catholic 60%, Evangelical&nbsp; 18%, atheist or agnostic 4%, none 17% (2018 est.)<br>
 
 **Demographic profile**<br>
 <p>Chile is in the advanced stages of demographic transition and is becoming an aging society - with fertility below replacement level, low mortality rates, and life expectancy on par with developed countries. Nevertheless, with its dependency ratio nearing its low point, Chile could benefit from its favorable age structure. It will need to keep its large working-age population productively employed, while preparing to provide for the needs of its growing proportion of elderly people, especially as women - the traditional caregivers - increasingly enter the workforce. Over the last two decades, Chile has made great strides in reducing its poverty rate, which is now lower than most Latin American countries. However, its severe income inequality ranks as the worst among members of the Organization for Economic Cooperation and Development. Unequal access to quality education perpetuates this uneven income distribution.</p><p>Chile has historically been a country of emigration but has slowly become more attractive to immigrants since transitioning to democracy in 1990 and improving its economic stability (other regional destinations have concurrently experienced deteriorating economic and political conditions). Most of Chile's small but growing foreign-born population consists of transplants from other Latin American countries, especially Peru.</p><br>
@@ -387,10 +387,10 @@ _selected World Heritage Site locales_: Rapa Nui National Park; Churches of Chil
 <p>Chile has a market-oriented economy characterized by a high level of foreign trade and a reputation for strong financial institutions and sound policy that have given it the strongest sovereign bond rating in South America. Exports of goods and services account for approximately one-third of GDP, with commodities making up some 60% of total exports. Copper is Chile’s top export and provides 20% of government revenue.</p><p></p><p>From 2003 through 2013, real growth averaged almost 5% per year, despite a slight contraction in 2009 that resulted from the global financial crisis. Growth slowed to an estimated 1.4% in 2017. A continued drop in copper prices prompted Chile to experience its third consecutive year of slow growth.</p><p></p><p>Chile deepened its longstanding commitment to trade liberalization with the signing of a free trade agreement with the US, effective 1 January 2004. Chile has 26 trade agreements covering 60 countries including agreements with the EU, Mercosur, China, India, South Korea, and Mexico. In May 2010, Chile signed the OECD Convention, becoming the first South American country to join the OECD. In October 2015, Chile signed the Trans-Pacific Partnership trade agreement, which was finalized as the Comprehensive and Progressive Trans-Pacific Partnership (CPTPP) and signed at a ceremony in Chile in March 2018.</p><p></p><p>The Chilean Government has generally followed a countercyclical fiscal policy, under which it accumulates surpluses in sovereign wealth funds during periods of high copper prices and economic growth, and generally allows deficit spending only during periods of low copper prices and growth. As of 31 October 2016, those sovereign wealth funds - kept mostly outside the country and separate from Central Bank reserves - amounted to more than $23.5 billion. Chile used these funds to finance fiscal stimulus packages during the 2009 economic downturn.</p><p></p><p>In 2014, then-President Michelle BACHELET introduced tax reforms aimed at delivering her campaign promise to fight inequality and to provide access to education and health care. The reforms are expected to generate additional tax revenues equal to 3% of Chile’s GDP, mostly by increasing corporate tax rates to OECD averages.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$445.88 billion note: data are in 2017 dollars (2020 est.)<br>
-$473.19 billion note: data are in 2017 dollars (2019 est.)<br>
-$468.77 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$445.88 billion (2020 est.)<br>
+$473.19 billion (2019 est.)<br>
+$468.77 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.03% (2019 est.)<br>
@@ -398,10 +398,10 @@ $468.77 billion note: data are in 2017 dollars (2018 est.)<br>
 1.41% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$23,300 note: data are in 2017 dollars (2020 est.)<br>
-$25,000 note: data are in 2017 dollars (2019 est.)<br>
-$25,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$23,300 (2020 est.)<br>
+$25,000 (2019 est.)<br>
+$25,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $282.655 billion (2019 est.)<br>

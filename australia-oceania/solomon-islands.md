@@ -362,9 +362,9 @@ _selected World Heritage Site locales_: East Rennell<br>
 The bulk of the population depends on agriculture, fishing, and forestry for at least part of its livelihood. Most manufactured goods and petroleum products must be imported. The islands are rich in undeveloped mineral resources such as lead, zinc, nickel, and gold. Prior to the arrival of The Regional Assistance Mission to the Solomon Islands (RAMSI), severe ethnic violence, the closure of key businesses, and an empty government treasury culminated in economic collapse. RAMSI's efforts, which concluded in Jun 2017, to restore law and order and economic stability have led to modest growth as the economy rebuilds.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.71 billion note: data are in 2017 dollars (2020 est.)<br>
-$1.78 billion note: data are in 2017 dollars (2019 est.)<br>
-$1.76 billion note: data are in 2017 dollars (2018 est.)<br>
+$1.71 billion (2020 est.)<br>
+$1.78 billion (2019 est.)<br>
+$1.76 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -373,9 +373,9 @@ $1.76 billion note: data are in 2017 dollars (2018 est.)<br>
 2.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,500 note: data are in 2017 dollars (2020 est.)<br>
-$2,700 note: data are in 2017 dollars (2019 est.)<br>
-$2,700 note: data are in 2017 dollars (2018 est.)<br>
+$2,500 (2020 est.)<br>
+$2,700 (2019 est.)<br>
+$2,700 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

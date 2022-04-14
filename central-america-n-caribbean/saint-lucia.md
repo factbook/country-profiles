@@ -355,9 +355,9 @@ _selected World Heritage Site locales_: Pitons Management Area<br>
 <p>The island nation has been able to attract foreign business and investment, especially in its offshore banking and tourism industries. Tourism is Saint Lucia's main source of jobs and income - accounting for 65% of GDP - and the island's main source of foreign exchange earnings. The manufacturing sector is the most diverse in the Eastern Caribbean area. Crops such as bananas, mangos, and avocados continue to be grown for export, but St. Lucia's once solid banana industry has been devastated by strong competition.</p><p></p><p>Saint Lucia is vulnerable to a variety of external shocks, including volatile tourism receipts, natural disasters, and dependence on foreign oil. Furthermore, high public debt - 77% of GDP in 2012 - and high debt servicing obligations constrain the CHASTANET administration's ability to respond to adverse external shocks.</p><p></p><p>St. Lucia has experienced anemic growth since the onset of the global financial crisis in 2008, largely because of a slowdown in tourism - airlines cut back on their routes to St. Lucia in 2012. Also, St. Lucia introduced a value added tax in 2012 of 15%, becoming the last country in the Eastern Caribbean to do so. In 2013, the government introduced a National Competitiveness and Productivity Council to address St. Lucia's high public wages and lack of productivity.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.25 billion note: data are in 2017 dollars (2020 est.)<br>
-$2.82 billion note: data are in 2017 dollars (2019 est.)<br>
-$2.78 billion note: data are in 2017 dollars (2018 est.)<br>
+$2.25 billion (2020 est.)<br>
+$2.82 billion (2019 est.)<br>
+$2.78 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -366,9 +366,9 @@ $2.78 billion note: data are in 2017 dollars (2018 est.)<br>
 -0.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$12,300 note: data are in 2017 dollars (2020 est.)<br>
-$15,400 note: data are in 2017 dollars (2019 est.)<br>
-$15,300 note: data are in 2017 dollars (2018 est.)<br>
+$12,300 (2020 est.)<br>
+$15,400 (2019 est.)<br>
+$15,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

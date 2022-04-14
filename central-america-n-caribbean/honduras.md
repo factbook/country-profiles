@@ -397,9 +397,9 @@ _selected World Heritage Site locales_: Maya Site of Copan (c), Río Plátano Bi
 <p>Honduras, the second poorest country in Central America, suffers from extraordinarily unequal distribution of income, as well as high underemployment. While historically dependent on the export of bananas and coffee, Honduras has diversified its export base to include apparel and automobile wire harnessing.</p><p></p><p>Honduras’s economy depends heavily on US trade and remittances. The US-Central America-Dominican Republic Free Trade Agreement came into force in 2006 and has helped foster foreign direct investment, but physical and political insecurity, as well as crime and perceptions of corruption, may deter potential investors; about 15% of foreign direct investment is from US firms.</p><p></p><p>The economy registered modest economic growth of 3.1%-4.0% from 2010 to 2017, insufficient to improve living standards for the nearly 65% of the population in poverty. In 2017, Honduras faced rising public debt, but its economy has performed better than expected due to low oil prices and improved investor confidence. Honduras signed a three-year standby arrangement with the IMF in December 2014, aimed at easing Honduras’s poor fiscal position.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$50.89 billion note: data are in 2017 dollars (2020 est.)<br>
-$55.91 billion note: data are in 2017 dollars (2019 est.)<br>
-$54.46 billion note: data are in 2017 dollars (2018 est.)<br>
+$50.89 billion (2020 est.)<br>
+$55.91 billion (2019 est.)<br>
+$54.46 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -408,9 +408,9 @@ $54.46 billion note: data are in 2017 dollars (2018 est.)<br>
 3.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$5,100 note: data are in 2017 dollars (2020 est.)<br>
-$5,700 note: data are in 2017 dollars (2019 est.)<br>
-$5,700 note: data are in 2017 dollars (2018 est.)<br>
+$5,100 (2020 est.)<br>
+$5,700 (2019 est.)<br>
+$5,700 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

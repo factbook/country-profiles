@@ -372,10 +372,10 @@ _selected World Heritage Site locales_: Cidade Velha, Historic Center of Ribeira
 <p>Cabo Verde’s economy depends on development aid, foreign investment, remittances, and tourism. The economy is service-oriented with commerce, transport, tourism, and public services accounting for about three-fourths of GDP. Tourism is the mainstay of the economy and depends on conditions in the euro-zone countries. Cabo Verde annually runs a high trade deficit financed by foreign aid and remittances from its large pool of emigrants; remittances as a share of GDP are one of the highest in Sub-Saharan Africa.</p><p></p><p>Although about 40% of the population lives in rural areas, the share of food production in GDP is low. The island economy suffers from a poor natural resource base, including serious water shortages, exacerbated by cycles of long-term drought, and poor soil for growing food on several of the islands, requiring it to import most of what it consumes. The fishing potential, mostly lobster and tuna, is not fully exploited.</p><p></p><p>Economic reforms are aimed at developing the private sector and attracting foreign investment to diversify the economy and mitigate high unemployment. The government’s elevated debt levels have limited its capacity to finance any shortfalls.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.36 billion note: data are in 2017 dollars (2020 est.)<br>
-$3.94 billion note: data are in 2017 dollars (2019 est.)<br>
-$3.73 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$3.36 billion (2020 est.)<br>
+$3.94 billion (2019 est.)<br>
+$3.73 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4% (2017 est.)<br>
@@ -383,10 +383,10 @@ $3.73 billion note: data are in 2017 dollars (2018 est.)<br>
 1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$6,000 note: data are in 2017 dollars (2020 est.)<br>
-$7,200 note: data are in 2017 dollars (2019 est.)<br>
-$6,900 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$6,000 (2020 est.)<br>
+$7,200 (2019 est.)<br>
+$6,900 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.971 billion (2019 est.)<br>

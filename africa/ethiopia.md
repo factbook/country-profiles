@@ -339,7 +339,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name in Amharic means "new flower" and was bestowed on the city in 1889, three years after its founding<br>
 
 **Administrative divisions**<br>
-10 ethnically based regional states (kililoch, singular - kilil) and 2 self-governing administrations* (astedaderoch, singular - astedader); Adis Abeba* (Addis Ababa), Afar, Amara (Amhara), Binshangul Gumuz, Dire Dawa*, Gambela Hizboch (Gambela Peoples), Hareri Hizb (Harari People), Oromiya (Oromia), Sidama, Sumale (Somali), Tigray, Ye Debub Biheroch Bihereseboch na Hizboch (Southern Nations, Nationalities and Peoples)<br>
+11 ethnically based regional states (kililoch, singular - kilil) and 2 chartered cities* (astedader akabibiwach, singular - astedader akabibi); Adis Abeba* (Addis Ababa), Afar, Amara (Amhara), Binshangul Gumuz, Dire Dawa*, Gambela Hizboch (Gambela Peoples), Hareri Hizb (Harari People), Oromiya (Oromia), Sidama, Sumale (Somali), Tigray, YeDebub Biheroch Bihereseboch na Hizboch (Southern Nations, Nationalities and Peoples), YeDebub M'irab Ityop'iya Hizboch (Southwest Ethiopia Peoples)<br>
 
 **Independence**<br>
 oldest independent country in Africa and one of the oldest in the world - at least 2,000 years (may be traced to the Aksumite Kingdom, which coalesced in the first century B.C.)<br>
@@ -375,9 +375,9 @@ _election results_: SAHLE-WORK Zewde elected president during joint session of P
 <strong>note:</strong> SAHLE-WORK Zewde is the first female elected head of state in Ethiopia; she is currently the only female president in Africa. Former President Dr. Mulatu TESHOME resigned on 25 October 2018, one year ahead of finishing his six-year term.<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>House of Federation or Yefedereshein Mikir Bete (153 seats maximum; 144 seats in 2021; members indirectly elected by state assemblies to serve 5-year terms)<br>House of People's Representatives or Yehizb Tewokayoch Mekir Bete (547 seats maximum; 425 seated in 2021; members directly elected in single-seat constituencies by simple majority vote; 22 seats reserved for minorities; all members serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>House of Federation or Yefedereshein Mikir Bete (153 seats maximum; 144 seats current; members indirectly elected by state assemblies to serve 5-year terms)<br>House of People's Representatives or Yehizb Tewokayoch Mekir Bete (547 seats maximum; 470 seats current; members directly elected in single-seat constituencies by simple majority vote; 22 seats reserved for minorities; all members serve 5-year terms)<br>
 _elections_: House of Federation - last held 4 October 2021 (next expected 31 October 2026)<br>House of People's Representatives - last held in two parts on 21 June 2021 and 30 September 2021 (next election expected 30 June 2026)<br>
-_election results_: House of Federation - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 100, women 44, percent of women 30.6%<br>House of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - Prosperity Party 410, NAMA 5, EZEMA 4, Gedeo People's Democratic organization 2, Independents 4; composition - men 244, women 181, percent of women  42.6%; note - total Parliament percent of women 39.5%<br>
+_election results_: House of Federation - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 100, women 44, percent of women 30.6%<br>House of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - Prosperity Party 410, NAMA 5, EZEMA 4, Gedeo People's Democratic organization 2, Independents 4; composition - men 275, women 195, percent of women  41.5%; note - total Parliament percent of women 38.9%<br>
 <strong>notes:</strong> House of Federation is responsible for interpreting the constitution and federal-regional issues and the House of People's Representatives is responsible for passing legislation; percent of vote percentages are calculated on the number of members actually seated versus on the constitutional maximums<br>
 
 **Judicial branch**<br>
@@ -431,10 +431,10 @@ _selected World Heritage Site locales_: Rock-Hewn Churches, Lalibela (c); Simien
 <p>Ethiopia - the second most populous country in Africa - is a one-party state with a planned economy. For more than a decade before 2016, GDP grew at a rate between 8% and 11% annually – one of the fastest growing states among the 188 IMF member countries. This growth was driven by government investment in infrastructure, as well as sustained progress in the agricultural and service sectors. More than 70% of Ethiopia’s population is still employed in the agricultural sector, but services have surpassed agriculture as the principal source of GDP.</p><p></p><p>Ethiopia has the lowest level of income-inequality in Africa and one of the lowest in the world, with a Gini coefficient comparable to that of the Scandinavian countries. Yet despite progress toward eliminating extreme poverty, Ethiopia remains one of the poorest countries in the world, due both to rapid population growth and a low starting base. Changes in rainfall associated with world-wide weather patterns resulted in the worst drought in 30 years in 2015-16, creating food insecurity for millions of Ethiopians.</p><p></p><p>The state is heavily engaged in the economy. Ongoing infrastructure projects include power production and distribution, roads, rails, airports and industrial parks. Key sectors are state-owned, including telecommunications, banking and insurance, and power distribution. Under Ethiopia's constitution, the state owns all land and provides long-term leases to tenants. Title rights in urban areas, particularly Addis Ababa, are poorly regulated, and subject to corruption.</p><p></p><p>Ethiopia’s foreign exchange earnings are led by the services sector - primarily the state-run Ethiopian Airlines - followed by exports of several commodities. While coffee remains the largest foreign exchange earner, Ethiopia is diversifying exports, and commodities such as gold, sesame, khat, livestock and horticulture products are becoming increasingly important. Manufacturing represented less than 8% of total exports in 2016, but manufacturing exports should increase in future years due to a growing international presence.</p><p></p><p>The banking, insurance, telecommunications, and micro-credit industries are restricted to domestic investors, but Ethiopia has attracted roughly $8.5 billion in foreign direct investment (FDI), mostly from China, Turkey, India and the EU; US FDI is $567 million. Investment has been primarily in infrastructure, construction, agriculture/horticulture, agricultural processing, textiles, leather and leather products.</p><p></p><p>To support industrialization in sectors where Ethiopia has a comparative advantage, such as textiles and garments, leather goods, and processed agricultural products, Ethiopia plans to increase installed power generation capacity by 8,320 MW, up from a capacity of 2,000 MW, by building three more major dams and expanding to other sources of renewable energy. In 2017, the government devalued the birr by 15% to increase exports and alleviate a chronic foreign currency shortage in the country.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$264.05 billion note: data are in 2017 dollars (2020 est.)<br>
-$248.97 billion note: data are in 2017 dollars (2019 est.)<br>
-$229.76 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$264.05 billion (2020 est.)<br>
+$248.97 billion (2019 est.)<br>
+$229.76 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 10.9% (2017 est.)<br>
@@ -442,10 +442,10 @@ $229.76 billion note: data are in 2017 dollars (2018 est.)<br>
 10.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,300 note: data are in 2017 dollars (2020 est.)<br>
-$2,200 note: data are in 2017 dollars (2019 est.)<br>
-$2,100 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$2,300 (2020 est.)<br>
+$2,200 (2019 est.)<br>
+$2,100 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $92.154 billion (2019 est.)<br>

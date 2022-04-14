@@ -422,10 +422,10 @@ _selected World Heritage Site locales_: Taj Mahal (c), Red Fort Complex (c), Ell
 <p>India's diverse economy encompasses traditional village farming, modern agriculture, handicrafts, a wide range of modern industries, and a multitude of services. Slightly less than half of the workforce is in agriculture, but services are the major source of economic growth, accounting for nearly two-thirds of India's output but employing less than one-third of its labor force. India has capitalized on its large educated English-speaking population to become a major exporter of information technology services, business outsourcing services, and software workers. Nevertheless, per capita income remains below the world average. India is developing into an open-market economy, yet traces of its past autarkic policies remain. Economic liberalization measures, including industrial deregulation, privatization of state-owned enterprises, and reduced controls on foreign trade and investment, began in the early 1990s and served to accelerate the country's growth, which averaged nearly 7% per year from 1997 to 2017.</p><p></p><p>India's economic growth slowed in 2011 because of a decline in investment caused by high interest rates, rising inflation, and investor pessimism about the government's commitment to further economic reforms and about slow world growth. Investors’ perceptions of India improved in early 2014, due to a reduction of the current account deficit and expectations of post-election economic reform, resulting in a surge of inbound capital flows and stabilization of the rupee. Growth rebounded in 2014 through 2016. Despite a high growth rate compared to the rest of the world, India’s government-owned banks faced mounting bad debt, resulting in low credit growth. Rising macroeconomic imbalances in India and improving economic conditions in Western countries led investors to shift capital away from India, prompting a sharp depreciation of the rupee through 2016.</p><p></p><p>The economy slowed again in 2017, due to shocks of "demonetizaton" in 2016 and introduction of GST in 2017. Since the election, the government has passed an important goods and services tax bill and raised foreign direct investment caps in some sectors, but most economic reforms have focused on administrative and governance changes, largely because the ruling party remains a minority in India’s upper house of Parliament, which must approve most bills.</p><p></p><p>India has a young population and corresponding low dependency ratio, healthy savings and investment rates, and is increasing integration into the global economy. However, long-term challenges remain significant, including: India's discrimination against women and girls, an inefficient power generation and distribution system, ineffective enforcement of intellectual property rights, decades-long civil litigation dockets, inadequate transport and agricultural infrastructure, limited non-agricultural employment opportunities, high spending and poorly targeted subsidies, inadequate availability of quality basic and higher education, and accommodating rural-to-urban migration.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$8,443,360,000,000 note: data are in 2017 dollars (2020 est.)<br>
-$9,174,040,000,000 note: data are in 2017 dollars (2019 est.)<br>
-$8,817,670,000,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$8,443,360,000,000 (2020 est.)<br>
+$9,174,040,000,000 (2019 est.)<br>
+$8,817,670,000,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.86% (2019 est.)<br>
@@ -433,10 +433,10 @@ $8,817,670,000,000 note: data are in 2017 dollars (2018 est.)<br>
 6.55% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$6,100 note: data are in 2017 dollars (2020 est.)<br>
-$6,700 note: data are in 2017 dollars (2019 est.)<br>
-$6,500 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$6,100 (2020 est.)<br>
+$6,700 (2019 est.)<br>
+$6,500 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2,835,927,000,000 (2019 est.)<br>

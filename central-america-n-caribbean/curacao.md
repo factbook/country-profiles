@@ -69,7 +69,7 @@ largest concentration on the island is Willemstad; smaller settlements near the 
 ## People and Society
 
 **Population**<br>
-11,008,112 (2022 est.)<br>
+152,379 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Curacaoan<br>
@@ -321,7 +321,6 @@ _selected World Heritage Site locales_: Historic Willemstad<br>
 $3.86 billion note: data are in 2017 dollars (2019 est.)<br>
 $3.99 billion note: data are in 2017 dollars (2018 est.)<br>
 $4.08 billion (2017 est.)<br>
-<strong>note: </strong>data are in 2012 US dollars<br>
 
 **Real GDP growth rate**<br>
 3.6% (2012 est.)<br>

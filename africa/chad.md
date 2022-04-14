@@ -413,10 +413,10 @@ _selected World Heritage Site locales_: Ennedi Massif: Natural and Cultural Land
 <p>Chad’s landlocked location results in high transportation costs for imported goods and dependence on neighboring countries. Oil and agriculture are mainstays of Chad’s economy. Oil provides about 60% of export revenues, while cotton, cattle, livestock, and gum arabic provide the bulk of Chad's non-oil export earnings. The services sector contributes less than one-third of GDP and has attracted foreign investment mostly through telecommunications and banking.</p><p></p><p>Nearly all of Chad’s fuel is provided by one domestic refinery, and unanticipated shutdowns occasionally result in shortages. The country regulates the price of domestic fuel, providing an incentive for black market sales.</p><p></p><p>Although high oil prices and strong local harvests supported the economy in the past, low oil prices now stress Chad’s fiscal position and have resulted in significant government cutbacks. Chad relies on foreign assistance and foreign capital for most of its public and private sector investment. Investment in Chad is difficult due to its limited infrastructure, lack of trained workers, extensive government bureaucracy, and corruption. Chad obtained a three-year extended credit facility from the IMF in 2014 and was granted debt relief under the Heavily Indebted Poor Countries Initiative in April 2015.</p><p></p><p>In 2018, economic policy will be driven by efforts that started in 2016 to reverse the recession and to repair damage to public finances and exports. The government is implementing an emergency action plan to counterbalance the drop in oil revenue and to diversify the economy. Chad’s national development plan (NDP) cost just over $9 billion with a financing gap of $6.7 billion. The NDP emphasized the importance of private sector participation in Chad’s development, as well as the need to improve the business environment, particularly in priority sectors such as mining and agriculture.</p><p></p><p>The Government of Chad reached a deal with Glencore and four other banks on the restructuring of a $1.45 billion oil-backed loan in February 2018, after a long negotiation. The new terms include an extension of the maturity to 2030 from 2022, a two-year grace period on principal repayments, and a lower interest rate of the London Inter-bank Offer Rate (Libor) plus 2% - down from Libor plus 7.5%. The original Glencore loan was to be repaid with crude oil assets, however, Chad's oil sales were hit by the downturn in the price of oil. Chad had secured a $312 million credit from the IMF in June 2017, but release of those funds hinged on restructuring the Glencore debt. Chad had already cut public spending to try to meet the terms of the IMF program, but that prompted strikes and protests in a country where nearly 40% of the population lives below the poverty line. Multinational partners, such as the African Development Bank, the EU, and the World Bank are likely to continue budget support in 2018, but Chad will remain at high debt risk, given its dependence on oil revenue and pressure to spend on subsidies and security.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$24.97 billion note: data are in 2017 dollars (2020 est.)<br>
-$25.19 billion note: data are in 2017 dollars (2019 est.)<br>
-$24.4 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$24.97 billion (2020 est.)<br>
+$25.19 billion (2019 est.)<br>
+$24.4 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -3.1% (2017 est.)<br>
@@ -424,10 +424,10 @@ $24.4 billion note: data are in 2017 dollars (2018 est.)<br>
 1.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,500 note: data are in 2017 dollars (2020 est.)<br>
-$1,600 note: data are in 2017 dollars (2019 est.)<br>
-$1,600 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$1,500 (2020 est.)<br>
+$1,600 (2019 est.)<br>
+$1,600 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $10.912 billion (2019 est.)<br>
@@ -721,7 +721,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 384,979 (Sudan), 121,253 (Central African Republic), 42,746 (Cameroon), 19,346 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 384,979 (Sudan), 122,362 (Central African Republic), 42,746 (Cameroon), 19,658 (Nigeria) (2022)<br>
 _IDPs_: 406,573 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>

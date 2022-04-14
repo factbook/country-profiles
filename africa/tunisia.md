@@ -382,9 +382,9 @@ _selected World Heritage Site locales_: Amphitheatre of El Jem (c), Archaeologic
 <p>Tunisia's economy – structurally designed to favor vested interests – faced an array of challenges exposed by the 2008 global financial crisis that helped precipitate the 2011 Arab Spring revolution. After the revolution and a series of terrorist attacks, including on the country’s tourism sector, barriers to economic inclusion continued to add to slow economic growth and high unemployment.</p><p></p><p>Following an ill-fated experiment with socialist economic policies in the 1960s, Tunisia focused on bolstering exports, foreign investment, and tourism, all of which have become central to the country's economy. Key exports now include textiles and apparel, food products, petroleum products, chemicals, and phosphates, with about 80% of exports bound for Tunisia's main economic partner, the EU. Tunisia's strategy, coupled with investments in education and infrastructure, fueled decades of 4-5% annual GDP growth and improved living standards. Former President Zine el Abidine BEN ALI (1987-2011) continued these policies, but as his reign wore on cronyism and corruption stymied economic performance, unemployment rose, and the informal economy grew. Tunisia’s economy became less and less inclusive. These grievances contributed to the January 2011 overthrow of BEN ALI, further depressing Tunisia's economy as tourism and investment declined sharply.</p><p></p><p>Tunisia’s government remains under pressure to boost economic growth quickly to mitigate chronic socio-economic challenges, especially high levels of youth unemployment, which has persisted since the 2011 revolution. Successive terrorist attacks against the tourism sector and worker strikes in the phosphate sector, which combined account for nearly 15% of GDP, slowed growth from 2015 to 2017. Tunis is seeking increased foreign investment and working with the IMF through an Extended Fund Facility agreement to fix fiscal deficiencies.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$114.97 billion note: data are in 2017 dollars (2020 est.)<br>
-$125.78 billion note: data are in 2017 dollars (2019 est.)<br>
-$124.48 billion note: data are in 2017 dollars (2018 est.)<br>
+$114.97 billion (2020 est.)<br>
+$125.78 billion (2019 est.)<br>
+$124.48 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -393,9 +393,9 @@ $124.48 billion note: data are in 2017 dollars (2018 est.)<br>
 1.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$9,700 note: data are in 2017 dollars (2020 est.)<br>
-$10,800 note: data are in 2017 dollars (2019 est.)<br>
-$10,800 note: data are in 2017 dollars (2018 est.)<br>
+$9,700 (2020 est.)<br>
+$10,800 (2019 est.)<br>
+$10,800 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

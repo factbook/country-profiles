@@ -390,10 +390,10 @@ _selected World Heritage Site locales_: Historic Salzburg (c); Palace and Garden
 <p>Austria is a well-developed market economy with skilled labor force and high standard of living. It is closely tied to other EU economies, especially Germany's, but also the US’, its third-largest trade partner. Its economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector.</p><p></p><p>Austrian economic growth strengthen in 2017, with a 2.9% increase in GDP. Austrian exports, accounting for around 60% of the GDP, were up 8.2% in 2017. Austria’s unemployment rate fell by 0.3% to 5.5%, which is low by European standards, but still at its second highest rate since the end of World War II, driven by an increased number of refugees and EU migrants entering the labor market.</p><p></p><p>Austria's fiscal position compares favorably with other euro-zone countries. The budget deficit stood at a low 0.7% of GDP in 2017 and public debt declined again to 78.4% of GDP in 2017, after reaching a post-war high 84.6% in 2015. The Austrian government has announced it plans to balance the fiscal budget in 2019. Several external risks, such as Austrian banks' exposure to Central and Eastern Europe, the refugee crisis, and continued unrest in Russia/Ukraine, eased in 2017, but are still a factor for the Austrian economy. Exposure to the Russian banking sector and a deep energy relationship with Russia present additional risks.</p><p></p><p>Austria elected a new pro-business government in October 2017 that campaigned on promises to reduce bureaucracy, improve public sector efficiency, reduce labor market protections, and provide positive investment incentives.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$463.12 billion note: data are in 2017 dollars (2020 est.)<br>
-$495.8 billion note: data are in 2017 dollars (2019 est.)<br>
-$488.86 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$463.12 billion (2020 est.)<br>
+$495.8 billion (2019 est.)<br>
+$488.86 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.42% (2019 est.)<br>
@@ -401,10 +401,10 @@ $488.86 billion note: data are in 2017 dollars (2018 est.)<br>
 2.4% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$51,900 note: data are in 2017 dollars (2020 est.)<br>
-$55,800 note: data are in 2017 dollars (2019 est.)<br>
-$55,300 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$51,900 (2020 est.)<br>
+$55,800 (2019 est.)<br>
+$55,300 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $445.025 billion (2019 est.)<br>

@@ -332,9 +332,9 @@ _lyrics/music_: Afaese MANOA<br>
 <p>Tuvalu consists of a densely populated, scattered group of nine coral atolls with poor soil. Only eight of the atolls are inhabited. It is one of the smallest countries in the world, with its highest point at 4.6 meters above sea level. The country is isolated, almost entirely dependent on imports, particularly of food and fuel, and vulnerable to climate change and rising sea levels, which pose significant challenges to development.</p><p></p><p>The public sector dominates economic activity. Tuvalu has few natural resources, except for its fisheries. Earnings from fish exports and fishing licenses for Tuvalu’s territorial waters are a significant source of government revenue. In 2013, revenue from fishing licenses doubled and totaled more than 45% of GDP.</p><p></p><p>Official aid from foreign development partners has also increased. Tuvalu has substantial assets abroad. The Tuvalu Trust Fund, an international trust fund established in 1987 by development partners, has grown to $104 million (A$141 million) in 2014 and is an important cushion for meeting shortfalls in the government's budget. While remittances are another substantial source of income, the value of remittances has declined since the 2008-09 global financial crisis, but has stabilized at nearly $4 million per year. The financial impact of climate change and the cost of climate related adaptation projects is one of many concerns for the nation.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$50 million note: data are in 2017 dollars (2020 est.)<br>
-$50 million note: data are in 2017 dollars (2019 est.)<br>
-$50 million note: data are in 2017 dollars (2018 est.)<br>
+$50 million (2020 est.)<br>
+$50 million (2019 est.)<br>
+$50 million (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -343,9 +343,9 @@ $50 million note: data are in 2017 dollars (2018 est.)<br>
 9.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$4,400 note: data are in 2017 dollars (2020 est.)<br>
-$4,300 note: data are in 2017 dollars (2019 est.)<br>
-$3,900 note: data are in 2017 dollars (2018 est.)<br>
+$4,400 (2020 est.)<br>
+$4,300 (2019 est.)<br>
+$3,900 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

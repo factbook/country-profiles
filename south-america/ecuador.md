@@ -397,10 +397,10 @@ _selected World Heritage Site locales_: Historic Quito (c), Galápagos Islands (
 <p>Ecuador is substantially dependent on its petroleum resources, which accounted for about a third of the country's export earnings in 2017. Remittances from overseas Ecuadorian are also important.</p><p></p><p>In 1999/2000, Ecuador's economy suffered from a banking crisis that lead to some reforms, including adoption of the US dollar as legal tender. Dollarization stabilized the economy, and positive growth returned in most of the years that followed. China has become Ecuador's largest foreign lender since 2008 and now accounts for 77.7% of the Ecuador’s bilateral debt. Various economic policies under the CORREA administration, such as an announcement in 2017 that Ecuador would terminate 13 bilateral investment treaties - including one with the US, generated economic uncertainty and discouraged private investment.</p><p></p><p>Faced with a 2013 trade deficit of $1.1 billion, Ecuador imposed tariff surcharges from 5% to 45% on an estimated 32% of imports. Ecuador’s economy fell into recession in 2015 and remained in recession in 2016. Declining oil prices and exports forced the CORREA administration to cut government oulays. Foreign investment in Ecuador is low as a result of the unstable regulatory environment and weak rule of law.</p><p></p><p>n April of 2017, Lenin MORENO was elected President of Ecuador by popular vote. His immediate challenge was to reengage the private sector to improve cash flow in the country. Ecuador’s economy returned to positive, but sluggish, growth. In early 2018, the MORENO administration held a public referendum on seven economic and political issues in a move counter to CORREA-administration policies, reduce corruption, strengthen democracy, and revive employment and the economy. The referendum resulted in repeal of taxes associated with recovery from the earthquake of 2016, reduced restrictions on metal mining in the Yasuni Intangible Zone - a protected area, and several political reforms.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$182.24 billion note: data are in 2017 dollars (2020 est.)<br>
-$197.55 billion note: data are in 2017 dollars (2019 est.)<br>
-$197.53 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$182.24 billion (2020 est.)<br>
+$197.55 billion (2019 est.)<br>
+$197.53 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 0.06% (2019 est.)<br>
@@ -408,10 +408,10 @@ $197.53 billion note: data are in 2017 dollars (2018 est.)<br>
 2.37% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$10,300 note: data are in 2017 dollars (2020 est.)<br>
-$11,400 note: data are in 2017 dollars (2019 est.)<br>
-$11,600 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$10,300 (2020 est.)<br>
+$11,400 (2019 est.)<br>
+$11,600 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $107.436 billion (2019 est.)<br>
@@ -721,7 +721,7 @@ note - in 2017, women made up an estimated 3% of the military<br>
 <p>border conflicts with Peru dominated the military’s focus until the late 1990s; as of 2021, border security remained a priority, but in more recent years, security challenges have shifted towards counterinsurgency and counter-narcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, has spilled over the border; troop deployments along the border with Colombia were scaled back following the 2016 signing of a peace agreement between the Colombian Government and the Revolutionary Armed Forces of Colombia (FARC) terrorist group (see Appendix T), but recent violence associated with FARC dissidents to the agreement have led Ecuador and Colombia to reinforce their shared border; since 2012, the Ecuadorian Government has also expanded the military’s role in general public security and counter-narcotics operations, in part due to rising violence, police corruption, and police ineffectiveness</p> <p>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010</p> <p> </p><br>
 
 **Maritime threats**<br>
-the International Maritime Bureau continues to report the territorial and offshore waters as at risk for piracy and armed robbery against ships; vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; there has been a slight increase with three attacks reported in 2019 and four in 2020<br>
+the International Maritime Bureau continues to report the territorial and offshore waters of Ecuador as at risk for piracy and armed robbery against ships; vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; there has been a slight decrease with four attacks reported in 2021 and five in 2020; one ship was boarded while underway and two ships were fired upon<br>
 
 ## Transnational Issues
 

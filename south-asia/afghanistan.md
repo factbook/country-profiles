@@ -406,9 +406,9 @@ _selected World Heritage Site locales_: Minaret of Jam, Buddhas of Bamyan<br>
 <p>Prior to 2001, Afghanistan was an extremely poor, landlocked, and foreign aid-dependent country. Increased domestic economic activity occurred following the US-led invasion, as well as significant international economic development assistance. This increased activity expanded access to water, electricity, sanitation, education, and health services, and fostered consistent growth in government revenues since 2014. While international security forces have been drawing down since 2012, with much higher U.S. forces’ drawdowns occurring since 2017, economic progress continues, albeit uneven across sectors and key economic indicators. After recovering from the 2018 drought and growing 3.9% in 2019, political instability, expiring international financial commitments, and the COVID-19 pandemic have wrought significant adversity on the Afghan economy, with a projected 5% contraction.</p> <p>Current political parties’ power-sharing agreement following the September 2019 presidential elections as well as ongoing Taliban attacks and peace talks have led to Afghan economic instability. This instability, coupled with expiring international grant and assistance, endangers recent fiscal gains and has led to more internally displaced persons. In November 2020, Afghanistan secured $12 billion in additional international aid for 2021-2025, much of which is conditional upon Taliban peace progress. Additionally, Afghanistan continues to experience influxes of repatriating Afghanis, mostly from Iran, significantly straining economic and security institutions.</p> <p>Afghanistan’s trade deficit remains at approximately 31% of GDP and is highly dependent on financing through grants and aid. While Afghan agricultural growth remains consistent, recent industrial and services growth have been enormously impacted by COVID-19 lockdowns and trade cessations. While trade with the People’s Republic of China has rapidly expanded in recent years, Afghanistan still relies heavily upon India and Pakistan as export partners but is more diverse in its import partners. Furthermore, Afghanistan still struggles to effectively enforce business contracts, facilitate easy tax collection, and enable greater international trade for domestic enterprises.<br><br>Current Afghan priorities focus on the following goals:</p> <ul> <li>Securing international economic agreements, many of which are contingent on Taliban peace progress;</li> <li>Increasing exports to $2 billion USD by 2023;</li> <li>Continuing to expand government revenue collection;</li> <li>Countering corruption and navigating challenges from the power-sharing agreement; and</li> <li>Developing a strong private sector that can empower the economy.</li> </ul><br>
 
 **Real GDP (purchasing power parity)**<br>
-$77.04 billion note: data are in 2017 dollars (2020 est.)<br>
-$78.56 billion note: data are in 2017 dollars (2019 est.)<br>
-$75.6 billion note: data are in 2017 dollars (2018 est.)<br>
+$77.04 billion (2020 est.)<br>
+$78.56 billion (2019 est.)<br>
+$75.6 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -417,9 +417,9 @@ $75.6 billion note: data are in 2017 dollars (2018 est.)<br>
 1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,000 note: data are in 2017 dollars (2020 est.)<br>
-$2,100 note: data are in 2017 dollars (2019 est.)<br>
-$2,000 note: data are in 2017 dollars (2018 est.)<br>
+$2,000 (2020 est.)<br>
+$2,100 (2019 est.)<br>
+$2,000 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -692,14 +692,14 @@ _river port(s)_: Hairatan, Qizil Qal`ah (Amu Darya)<br>
 not available; as of late 2021, the Taliban had established a Ministry of Defense and named commanders and deputy commanders for 8 regional corps (2021)<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2019)<br>
-1% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
-1% of GDP (2016)<br>
-1% of GDP (2015)<br>
+3.3% of GDP (approximately $2.35 billion) (2019)<br>
+3.2% of GDP (approximately $2.31 billion) (2018)<br>
+3.3% of GDP (approximately $2.34 billion) (2017)<br>
+3.1% of GDP (approximately $2.6 billion) (2016)<br>
+2.9% of GDP (approximately $2.22 billion) (2015)<br>
 
 **Military and security service personnel strengths**<br>
-not available; prior to August 2021, the ANDSF had approximately 300,000 personnel (180,000 Ministry of Defense; 120,000 Ministry of Interior) (2021)<br>
+not available; in early 2022, the Taliban announced intentions to form a military of approximately 110,000 personnel; prior to August 2021, the ANDSF had approximately 300,000 personnel (180,000 Ministry of Defense; 120,000 Ministry of Interior) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the former Afghan military's inventory was mostly a mix of Soviet-era and more modern US and Russian equipment (2021)<br>

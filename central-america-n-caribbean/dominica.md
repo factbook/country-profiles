@@ -287,7 +287,7 @@ _election results_: Charles A. SAVARIN (DLP) reelected president unopposed<br>
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (32 seats; 21 representatives directly elected in single-seat constituencies by simple majority vote, 9 senators appointed by the president - 5 on the advice of the prime minister, and 4 on the advice of the leader of the opposition party, plus 2 ex-officio members - the house speaker and the attorney general; members serve 5-year terms)<br>
 _elections_: last held on&nbsp;6 December 2019 (next to be held in 2024); note - tradition dictates that the election is held within 5 years of the last election, but technically it is 5 years from the first seating of parliament plus a 90-day grace period<br>
-_election results_: percent of vote by party - DLP 59.0%, UWP 41.0%; seats by party - DLP 18, UWP 3<br>
+_election results_: percent of vote by party - DLP 59.0%, UWP 41.0%; seats by party - DLP 18, UWP 3; composition - men 21, women 11, percent of women 34.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Dominica; note - in 2015, Dominica acceded to the Caribbean Court of Justice as final court of appeal, replacing that of the Judicial Committee of the Privy Council, in London<br>
@@ -332,9 +332,9 @@ _selected World Heritage Site locales_: Pitons Management Area<br>
 The Dominican economy was dependent on agriculture - primarily bananas - in years past, but increasingly has been driven by tourism, as the government seeks to promote Dominica as an "ecotourism" destination. However, Hurricane Maria, which passed through the island in September 2017, destroyed much of the country’s agricultural sector and caused damage to all of the country’s transportation and physical infrastructure. Before Hurricane Maria, the government had attempted to foster an offshore financial industry and planned to sign agreements with the private sector to develop geothermal energy resources. At a time when government finances are fragile, the government’s focus has been to get the country back in shape to service cruise ships. The economy contracted in 2015 and recovered to positive growth in 2016 due to a recovery of agriculture and tourism. Dominica suffers from high debt levels, which increased from 67% of GDP in 2010 to 77% in 2016. Dominica is one of five countries in the East Caribbean that have citizenship by investment programs whereby foreigners can obtain passports for a fee and revenue from this contribute to government budgets.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$710 million note: data are in 2017 dollars (2020 est.)<br>
-$850 million note: data are in 2017 dollars (2019 est.)<br>
-$830 million note: data are in 2017 dollars (2018 est.)<br>
+$710 million (2020 est.)<br>
+$850 million (2019 est.)<br>
+$830 million (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -343,9 +343,9 @@ $830 million note: data are in 2017 dollars (2018 est.)<br>
 -3.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$9,900 note: data are in 2017 dollars (2020 est.)<br>
-$11,900 note: data are in 2017 dollars (2019 est.)<br>
-$11,500 note: data are in 2017 dollars (2018 est.)<br>
+$9,900 (2020 est.)<br>
+$11,900 (2019 est.)<br>
+$11,500 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

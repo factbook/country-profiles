@@ -381,10 +381,10 @@ _selected World Heritage Site locales_: &Scaron;kocjan Caves (n), Ancient and Pr
 <p>With excellent infrastructure, a well-educated work force, and a strategic location between the Balkans and Western Europe, Slovenia has one of the highest per capita GDPs in Central Europe, despite having suffered a protracted recession in the 2008-09 period in the wake of the global financial crisis. Slovenia became the first 2004 EU entrant to adopt the euro (on 1 January 2007) and has experienced a stable political and economic transition.</p> <p> </p> <p>In March 2004, Slovenia became the first transition country to graduate from borrower status to donor partner at the World Bank. In 2007, Slovenia was invited to begin the process for joining the OECD; it became a member in 2012. From 2014 to 2016, export-led growth, fueled by demand in larger European markets, pushed annual GDP growth above 2.3%. Growth reached 5.0% in 2017 and is projected to near or reach 5% in 2018. What used to be stubbornly high unemployment fell below 5.5% in early 2018, driven by strong exports and increasing consumption that boosted labor demand. Continued fiscal consolidation through increased tax collection and social security contributions will likely result in a balanced government budget in 2019.</p> <p> </p> <p>Prime Minister CERAR’s government took office in September 2014, pledging to press ahead with commitments to privatize a select group of state-run companies, rationalize public spending, and further stabilize the banking sector. Efforts to privatize Slovenia’s largely state-owned banking sector have largely stalled, however, amid concerns about an ongoing dispute over Yugoslav-era foreign currency deposits.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$76.75 billion note: data are in 2017 dollars (2020 est.)<br>
-$81.25 billion note: data are in 2017 dollars (2019 est.)<br>
-$78.74 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$76.75 billion (2020 est.)<br>
+$81.25 billion (2019 est.)<br>
+$78.74 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.4% (2019 est.)<br>
@@ -392,10 +392,10 @@ $78.74 billion note: data are in 2017 dollars (2018 est.)<br>
 5.14% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$36,500 note: data are in 2017 dollars (2020 est.)<br>
-$38,900 note: data are in 2017 dollars (2019 est.)<br>
-$38,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$36,500 (2020 est.)<br>
+$38,900 (2019 est.)<br>
+$38,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $54.16 billion (2019 est.)<br>
@@ -703,7 +703,7 @@ Slovenia officially became a member of NATO in 2004; Hungary and Italy provide N
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>537,032 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
+<strong>note:  </strong>537,923 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

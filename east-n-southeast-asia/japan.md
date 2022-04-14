@@ -394,7 +394,6 @@ _selected World Heritage Site locales_: Buddhist Monuments in the Horyu-ji Area 
 $5,224,850,000,000 note: data are in 2017 dollars (2019 est.)<br>
 $5,210,770,000,000 note: data are in 2017 dollars (2018 est.)<br>
 $5,180,326,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
 0.7% (2019 est.)<br>
@@ -405,7 +404,6 @@ $5,180,326,000,000 (2017 est.)<br>
 $41,400 note: data are in 2017 dollars (2019 est.)<br>
 $41,200 note: data are in 2017 dollars (2018 est.)<br>
 $40,859 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $5,078,679,000,000 (2019 est.)<br>

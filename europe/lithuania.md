@@ -389,10 +389,10 @@ _selected World Heritage Site locales_: Vilnius Historic Center, Curonian Spit, 
 <p>After the country declared independence from the Soviet Union in 1990, Lithuania faced an initial dislocation that is typical during transitions from a planned economy to a free-market economy. Macroeconomic stabilization policies, including privatization of most state-owned enterprises, and a strong commitment to a currency board arrangement led to an open and rapidly growing economy and rising consumer demand. Foreign investment and EU funding aided in the transition. Lithuania joined the WTO in May 2001, the EU in May 2004, and the euro zone in January 2015, and is now working to complete the OECD accession roadmap it received in July 2015. In 2017, joined the OECD Working Group on Bribery, an important step in the OECD accession process.</p><p></p><p>The Lithuanian economy was severely hit by the 2008-09 global financial crisis, but it has rebounded and become one of the fastest growing in the EU. Increases in exports, investment, and wage growth that supported consumption helped the economy grow by 3.6% in 2017. In 2015, Russia was Lithuania’s largest trading partner, followed by Poland, Germany, and Latvia; goods and services trade between the US and Lithuania totaled $2.2 billion. Lithuania opened a self-financed liquefied natural gas terminal in January 2015, providing the first non-Russian supply of natural gas to the Baltic States and reducing Lithuania’s dependence on Russian gas from 100% to approximately 30% in 2016.</p><p></p><p>Lithuania’s ongoing recovery hinges on improving the business environment, especially by liberalizing labor laws, and improving competitiveness and export growth, the latter hampered by economic slowdowns in the EU and Russia. In addition, a steady outflow of young and highly educated people is causing a shortage of skilled labor, which, combined with a rapidly aging population, could stress public finances and constrain long-term growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$102.66 billion note: data are in 2017 dollars (2020 est.)<br>
-$103.56 billion note: data are in 2017 dollars (2019 est.)<br>
-$99.25 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$102.66 billion (2020 est.)<br>
+$103.56 billion (2019 est.)<br>
+$99.25 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.33% (2019 est.)<br>
@@ -400,10 +400,10 @@ $99.25 billion note: data are in 2017 dollars (2018 est.)<br>
 4.37% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$36,700 note: data are in 2017 dollars (2020 est.)<br>
-$37,100 note: data are in 2017 dollars (2019 est.)<br>
-$35,400 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$36,700 (2020 est.)<br>
+$37,100 (2019 est.)<br>
+$35,400 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $54.597 billion (2019 est.)<br>

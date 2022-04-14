@@ -385,10 +385,10 @@ _selected World Heritage Site locales_: Historic Center of Riga, Struve Geodetic
 <p>Latvia is a small, open economy with exports contributing more than half of GDP. Due to its geographical location, transit services are highly-developed, along with timber and wood-processing, agriculture and food products, and manufacturing of machinery and electronics industries. Corruption continues to be an impediment to attracting foreign direct investment and Latvia's low birth rate and decreasing population are major challenges to its long-term economic vitality.</p><p></p><p>Latvia's economy experienced GDP growth of more than 10% per year during 2006-07, but entered a severe recession in 2008 as a result of an unsustainable current account deficit and large debt exposure amid the slowing world economy. Triggered by the collapse of the second largest bank, GDP plunged by more than 14% in 2009 and, despite strong growth since 2011, the economy took until 2017 return to pre-crisis levels in real terms. Strong investment and consumption, the latter stoked by rising wages, helped the economy grow by more than 4% in 2017, while inflation rose to 3%. Continued gains in competitiveness and investment will be key to maintaining economic growth, especially in light of unfavorable demographic trends, including the emigration of skilled workers, and one of the highest levels of income inequality in the EU.</p><p></p><p>In the wake of the 2008-09 crisis, the IMF, EU, and other international donors provided substantial financial assistance to Latvia as part of an agreement to defend the currency's peg to the euro in exchange for the government's commitment to stringent austerity measures. The IMF/EU program successfully concluded in December 2011, although, the austerity measures imposed large social costs. The majority of companies, banks, and real estate have been privatized, although the state still holds sizable stakes in a few large enterprises, including 80% ownership of the Latvian national airline. Latvia officially joined the World Trade Organization in February 1999 and the EU in May 2004. Latvia also joined the euro zone in 2014 and the OECD in 2016.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$56.92 billion note: data are in 2017 dollars (2020 est.)<br>
-$59.06 billion note: data are in 2017 dollars (2019 est.)<br>
-$57.88 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$56.92 billion (2020 est.)<br>
+$59.06 billion (2019 est.)<br>
+$57.88 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.08% (2019 est.)<br>
@@ -396,10 +396,10 @@ $57.88 billion note: data are in 2017 dollars (2018 est.)<br>
 3.23% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$29,900 note: data are in 2017 dollars (2020 est.)<br>
-$30,900 note: data are in 2017 dollars (2019 est.)<br>
-$30,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$29,900 (2020 est.)<br>
+$30,900 (2019 est.)<br>
+$30,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $34.084 billion (2019 est.)<br>

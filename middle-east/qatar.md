@@ -379,10 +379,10 @@ _selected World Heritage Site locales_: Al Zubarah Archaeological Site<br>
 <p>Qatar’s oil and natural gas resources are the country’s main economic engine and government revenue source, driving Qatar’s high economic growth and per capita income levels, robust state spending on public entitlements, and booming construction spending, particularly as Qatar prepares to host the World Cup in 2022. Although the government has maintained high capital spending levels for ongoing infrastructure projects, low oil and natural gas prices in recent years have led the Qatari Government to tighten some spending to help stem its budget deficit.</p><p></p><p>Qatar’s reliance on oil and natural gas is likely to persist for the foreseeable future. Proved natural gas reserves exceed 25 trillion cubic meters - 13% of the world total and, among countries, third largest in the world. Proved oil reserves exceed 25 billion barrels, allowing production to continue at current levels for about 56 years. Despite the dominance of oil and natural gas, Qatar has made significant gains in strengthening non-oil sectors, such as manufacturing, construction, and financial services, leading non-oil GDP to steadily rise in recent years to just over half the total.</p><p></p><p>Following trade restriction imposed by Saudi Arabia, the UAE, Bahrain, and Egypt in 2017, Qatar established new trade routes with other countries to maintain access to imports.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$245.66 billion note: data are in 2017 dollars (2020 est.)<br>
-$255.01 billion note: data are in 2017 dollars (2019 est.)<br>
-$253.05 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$245.66 billion (2020 est.)<br>
+$255.01 billion (2019 est.)<br>
+$253.05 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.6% (2017 est.)<br>
@@ -390,10 +390,10 @@ $253.05 billion note: data are in 2017 dollars (2018 est.)<br>
 3.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$85,300 note: data are in 2017 dollars (2020 est.)<br>
-$90,000 note: data are in 2017 dollars (2019 est.)<br>
-$91,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$85,300 (2020 est.)<br>
+$90,000 (2019 est.)<br>
+$91,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $191.29 billion (2018 est.)<br>

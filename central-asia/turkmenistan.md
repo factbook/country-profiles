@@ -388,8 +388,8 @@ _selected World Heritage Site locales_: Ancient Merv, Kunya-Urgench, Parthian Fo
 <p>Turkmenistan is largely a desert country with intensive agriculture in irrigated oases and significant natural gas and oil resources. The two largest crops are cotton, most of which is produced for export, and wheat, which is domestically consumed. Although agriculture accounts for almost 8% of GDP, it continues to employ nearly half of the country's workforce. Hydrocarbon exports, the bulk of which is natural gas going to China, make up 25% of Turkmenistan’s GDP. Ashgabat has explored two initiatives to bring gas to new markets: a trans-Caspian pipeline that would carry gas to Europe and the Turkmenistan-Afghanistan-Pakistan-India gas pipeline. Both face major financing, political, and security hurdles and are unlikely to be completed soon.</p> <p>Turkmenistan’s autocratic governments under presidents NIYAZOW (1991-2006) and BERDIMUHAMEDOW (since 2007) have made little progress improving the business climate, privatizing state-owned industries, combatting corruption, and limiting economic development outside the energy sector. High energy prices in the mid-2000s allowed the government to undertake extensive development and social spending, including providing heavy utility subsidies.</p> <p>Low energy prices since mid-2014 are hampering Turkmenistan’s economic growth and reducing government revenues. The government has cut subsidies in several areas, and wage arrears have increased. In January 2014, the Central Bank of Turkmenistan devalued the manat by 19%, and downward pressure on the currency continues. There is a widening spread between the official exchange rate (3.5 TMM per US dollar) and the black market exchange rate (approximately 14 TMM per US dollar). Currency depreciation and conversion restrictions, corruption, isolationist policies, and declining spending on public services have resulted in a stagnate economy that is nearing crisis. Turkmenistan claims substantial foreign currency reserves, but non-transparent data limit international institutions’ ability to verify this information.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$92.33 billion note: data are in 2017 dollars (2019 est.)<br>
-$86.86 billion note: data are in 2017 dollars (2018 est.)<br>
+$92.33 billion (2019 est.)<br>
+$86.86 billion (2018 est.)<br>
 $81.787 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -402,7 +402,6 @@ $81.787 billion (2017 est.)<br>
 $15,500 note: data are in 2017 dollars (2019 est.)<br>
 $14,800 note: data are in 2017 dollars (2018 est.)<br>
 $14,205 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $40.819 billion (2018 est.)<br>

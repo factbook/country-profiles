@@ -363,10 +363,10 @@ _selected World Heritage Site locales_: Aldabra Atoll, Vall&eacute;e de Mai Natu
 <p>Since independence in 1976, per capita output in this Indian Ocean archipelago has expanded to roughly seven times the pre-independence, near-subsistence level, moving the island into the high income group of countries. Growth has been led by the tourism sector, which directly employs about 26% of the labor force and directly and indirectly accounts for more than 55% of GDP, and by tuna fishing. In recent years, the government has encouraged foreign investment to upgrade hotels and tourism industry services. At the same time, the government has moved to reduce the dependence on tourism by promoting the development of the offshore financial, information, and communication sectors and renewable energy.</p> <p>In 2008, having depleted its foreign exchange reserves, Seychelles defaulted on interest payments due on a $230 million Eurobond, requested assistance from the IMF, and immediately enacted a number of significant structural reforms, including liberalization of the exchange rate, reform of the public sector to include layoffs, and the sale of some state assets. In December 2013, the IMF declared that Seychelles had successfully transitioned to a market-based economy with full employment and a fiscal surplus. However, state-owned enterprises still play a prominent role in the economy. Effective 1 January 2017, Seychelles was no longer eligible for trade benefits under the US African Growth and Opportunities Act after having gained developed country status. Seychelles grew at 5% in 2017 because of a strong tourism sector and low commodity prices. The Seychellois Government met the IMF’s performance criteria for 2017 but recognizes a need to make additional progress to reduce high income inequality, represented by a Gini coefficient of 46.8.</p> <p>As a very small open economy dependent on tourism, Seychelles remains vulnerable to developments such as economic downturns in countries that supply tourists, natural disasters, and changes in local climatic conditions and ocean temperature. One of the main challenges facing the government is implementing strategies that will increase Seychelles' long-term resilience to climate change without weakening economic growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.4 billion note: data are in 2017 dollars (2020 est.)<br>
-$2.69 billion note: data are in 2017 dollars (2019 est.)<br>
-$2.65 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$2.4 billion (2020 est.)<br>
+$2.69 billion (2019 est.)<br>
+$2.65 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.3% (2017 est.)<br>
@@ -374,10 +374,10 @@ $2.65 billion note: data are in 2017 dollars (2018 est.)<br>
 4.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$24,400 note: data are in 2017 dollars (2020 est.)<br>
-$27,500 note: data are in 2017 dollars (2019 est.)<br>
-$27,300 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$24,400 (2020 est.)<br>
+$27,500 (2019 est.)<br>
+$27,300 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.748 billion (2019 est.)<br>

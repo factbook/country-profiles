@@ -302,7 +302,7 @@ $7,711,583 (2017 est.)<br>
 $6,004 (2017 est.)<br>
 $4,855 (2016 est.)<br>
 $4,292 (2015 est.)<br>
-<strong>note:</strong> data are in 2017 dollars.<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $12.658 million (2017 est.)<br>

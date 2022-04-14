@@ -408,10 +408,10 @@ _selected World Heritage Site locales_: City of Potosi (c), El Fuerte de Samaipa
 <p>Bolivia is a resource rich country with strong growth attributed to captive markets for natural gas exports – to Brazil and Argentina. However, the country remains one of the least developed countries in Latin America because of state-oriented policies that deter investment.</p><p></p><p>Following an economic crisis during the early 1980s, reforms in the 1990s spurred private investment, stimulated economic growth, and cut poverty rates. The period 2003-05 was characterized by political instability, racial tensions, and violent protests against plans - subsequently abandoned - to export Bolivia's newly discovered natural gas reserves to large Northern Hemisphere markets. In 2005-06, the government passed hydrocarbon laws that imposed significantly higher royalties and required foreign firms then operating under risk-sharing contracts to surrender all production to the state energy company in exchange for a predetermined service fee; the laws engendered much public debate. High commodity prices between 2010 and 2014 sustained rapid growth and large trade surpluses with GDP growing 6.8% in 2013 and 5.4% in 2014. The global decline in oil prices that began in late 2014 exerted downward pressure on the price Bolivia receives for exported gas and resulted in lower GDP growth rates - 4.9% in 2015 and 4.3% in 2016 - and losses in government revenue as well as fiscal and trade deficits.</p><p></p><p>A lack of foreign investment in the key sectors of mining and hydrocarbons, along with conflict among social groups, pose challenges for the Bolivian economy. In 2015, President Evo MORALES expanded efforts to court international investment and boost Bolivia’s energy production capacity. MORALES passed an investment law and promised not to nationalize additional industries in an effort to improve the investment climate. In early 2016, the Government of Bolivia approved the 2016-2020 National Economic and Social Development Plan aimed at maintaining growth of 5% and reducing poverty.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$92.59 billion note: data are in 2017 dollars (2020 est.)<br>
-$100.45 billion note: data are in 2017 dollars (2019 est.)<br>
-$98.27 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$92.59 billion (2020 est.)<br>
+$100.45 billion (2019 est.)<br>
+$98.27 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.22% (2019 est.)<br>
@@ -419,10 +419,10 @@ $98.27 billion note: data are in 2017 dollars (2018 est.)<br>
 4.19% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$7,900 note: data are in 2017 dollars (2020 est.)<br>
-$8,700 note: data are in 2017 dollars (2019 est.)<br>
-$8,700 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$7,900 (2020 est.)<br>
+$8,700 (2019 est.)<br>
+$8,700 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $40.822 billion (2019 est.)<br>

@@ -413,10 +413,10 @@ _selected World Heritage Site locales_: Pyu Ancient Cities, Bagan<br>
 <p>Since Burma began the transition to a civilian-led government in 2011, the country initiated economic reforms aimed at attracting foreign investment and reintegrating into the global economy. Burma established a managed float of the Burmese kyat in 2012, granted the Central Bank operational independence in July 2013, enacted a new anti-corruption law in September 2013, and granted licenses to 13 foreign banks in 2014-16. State Counsellor AUNG SAN SUU KYI and the ruling National League for Democracy, who took power in March 2016, have sought to improve Burma’s investment climate following the US sanctions lift in October 2016 and reinstatement of Generalized System of Preferences trade benefits in November 2016. In October 2016, Burma passed a foreign investment law that consolidates investment regulations and eases rules on foreign ownership of businesses.</p> <p>Burma’s economic growth rate recovered from a low growth under 6% in 2011 but has been volatile between 6% and 8% between 2014 and 2018. Burma’s abundant natural resources and young labor force have the potential to attract foreign investment in the energy, garment, information technology, and food and beverage sectors. The government is focusing on accelerating agricultural productivity and land reforms, modernizing and opening the financial sector, and developing transportation and electricity infrastructure. The government has also taken steps to improve transparency in the mining and oil sectors through publication of reports under the Extractive Industries Transparency Initiative (EITI) in 2016 and 2018.</p> <p>Despite these improvements, living standards have not improved for the majority of the people residing in rural areas. Burma remains one of the poorest countries in Asia – approximately 26% of the country’s 51 million people live in poverty. The isolationist policies and economic mismanagement of previous governments have left Burma with poor infrastructure, endemic corruption, underdeveloped human resources, and inadequate access to capital, which will require a major commitment to reverse. The Burmese Government has been slow to address impediments to economic development such as unclear land rights, a restrictive trade licensing system, an opaque revenue collection system, and an antiquated banking system.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$247.24 billion note: data are in 2017 dollars (2020 est.)<br>
-$274.69 billion note: data are in 2017 dollars (2019 est.)<br>
-$270.11 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$247.24 billion (2020 est.)<br>
+$274.69 billion (2019 est.)<br>
+$270.11 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 6.8% (2017 est.)<br>
@@ -424,9 +424,9 @@ $270.11 billion note: data are in 2017 dollars (2018 est.)<br>
 7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$4,500 note: data are in 2017 dollars (2020 est.)<br>
-$5,100 note: data are in 2017 dollars (2019 est.)<br>
-$5,000 note: data are in 2017 dollars (2018 est.)<br>
+$4,500 (2020 est.)<br>
+$5,100 (2019 est.)<br>
+$5,000 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

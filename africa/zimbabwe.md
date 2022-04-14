@@ -410,9 +410,9 @@ _selected World Heritage Site locales_: Mana Pools National Park, Sapi, and Chew
 <p>Zimbabwe's economy depends heavily on its mining and agriculture sectors. Following a contraction from 1998 to 2008, the economy recorded real growth of more than 10% per year in the period 2010-13, before falling below 3% in the period 2014-17, due to poor harvests, low diamond revenues, and decreased investment. Lower mineral prices, infrastructure and regulatory deficiencies, a poor investment climate, a large public and external debt burden, and extremely high government wage expenses impede the country’s economic performance.</p><p></p><p>Until early 2009, the Reserve Bank of Zimbabwe (RBZ) routinely printed money to fund the budget deficit, causing hyperinflation. Adoption of a multi-currency basket in early 2009 - which allowed currencies such as the Botswana pula, the South Africa rand, and the US dollar to be used locally - reduced inflation below 10% per year. In January 2015, as part of the government’s effort to boost trade and attract foreign investment, the RBZ announced that the Chinese renmimbi, Indian rupee, Australian dollar, and Japanese yen would be accepted as legal tender in Zimbabwe, though transactions were predominantly carried out in US dollars and South African rand until 2016, when the rand’s devaluation and instability led to near-exclusive use of the US dollar. The government in November 2016 began releasing bond notes, a parallel currency legal only in Zimbabwe which the government claims will have a one-to-one exchange ratio with the US dollar, to ease cash shortages. Bond notes began trading at a discount of up to 10% in the black market by the end of 2016.</p><p></p><p>Zimbabwe’s government entered a second Staff Monitored Program with the IMF in 2014 and undertook other measures to reengage with international financial institutions. Zimbabwe repaid roughly $108 million in arrears to the IMF in October 2016, but financial observers note that Zimbabwe is unlikely to gain new financing because the government has not disclosed how it plans to repay more than $1.7 billion in arrears to the World Bank and African Development Bank. International financial institutions want Zimbabwe to implement significant fiscal and structural reforms before granting new loans. Foreign and domestic investment continues to be hindered by the lack of land tenure and titling, the inability to repatriate dividends to investors overseas, and the lack of clarity regarding the government’s Indigenization and Economic Empowerment Act.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$40.79 billion note: data are in 2017 dollars (2020 est.)<br>
-$44.34 billion note: data are in 2017 dollars (2019 est.)<br>
-$48.25 billion note: data are in 2017 dollars (2018 est.)<br>
+$40.79 billion (2020 est.)<br>
+$44.34 billion (2019 est.)<br>
+$48.25 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -421,9 +421,9 @@ $48.25 billion note: data are in 2017 dollars (2018 est.)<br>
 1.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,700 note: data are in 2017 dollars (2020 est.)<br>
-$3,000 note: data are in 2017 dollars (2019 est.)<br>
-$3,300 note: data are in 2017 dollars (2018 est.)<br>
+$2,700 (2020 est.)<br>
+$3,000 (2019 est.)<br>
+$3,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -720,7 +720,7 @@ the ZDF was formed after independence from the former Rhodesian Army and the two
 <p><em>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,285 (Democratic Republic of Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 11,285 (Democratic Republic of Congo) (refugees and asylum seekers), 8,247 (Mozambique) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Zimbabwe is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Zimbabwean women and girls from towns bordering South Africa, Mozambique, and Zambia are subjected to forced labor, including domestic servitude, and prostitution catering to long-distance truck drivers; Zimbabwean men, women, and children experience forced labor in agriculture and domestic servitude in rural areas; family members may recruit children and other relatives from rural areas with promises of work or education in cities and towns where they end up in domestic servitude and sex trafficking; Zimbabwean women and men are lured into exploitative labor situations in South Africa and other neighboring countries<br>

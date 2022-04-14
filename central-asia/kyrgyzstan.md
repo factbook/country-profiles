@@ -333,7 +333,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Sadyr JAPAROV (since 28 January 2021)<br>
-_head of government_: Prime Minister Sadyr JAPAROV<br>
+_head of government_: President Sadyr JAPAROV (2021)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a five-year term (eligible for a second term); election last held on 10 January 2021 (next to be held in 2027)<br>
 _election results_: Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV 79.5%, Adakhan MADUMAROV 6.5%, other 14%<br>
@@ -391,10 +391,10 @@ _selected World Heritage Site locales_: Sulaiman-Too Sacred Mountain (c); Silk R
 <p>Kyrgyzstan is a landlocked, mountainous, lower middle income country with an economy dominated by minerals extraction, agriculture, and reliance on remittances from citizens working abroad. Cotton, wool, and meat are the main agricultural products, although only cotton is exported in any quantity. Other exports include gold, mercury, uranium, natural gas, and - in some years - electricity. The country has sought to attract foreign investment to expand its export base, including construction of hydroelectric dams, but a difficult investment climate and an ongoing legal battle with a Canadian firm over the joint ownership structure of the nation’s largest gold mine deter potential investors. Remittances from Kyrgyz migrant workers, predominantly in Russia and Kazakhstan, are equivalent to more than one-quarter of Kyrgyzstan’s GDP.</p><p></p><p>Following independence, Kyrgyzstan rapidly implemented market reforms, such as improving the regulatory system and instituting land reform. In 1998, Kyrgyzstan was the first Commonwealth of Independent States country to be accepted into the World Trade Organization. The government has privatized much of its ownership shares in public enterprises. Despite these reforms, the country suffered a severe drop in production in the early 1990s and has again faced slow growth in recent years as the global financial crisis and declining oil prices have dampened economies across Central Asia. The Kyrgyz government remains dependent on foreign donor support to finance its annual budget deficit of approximately 3 to 5% of GDP.</p><p></p><p>Kyrgyz leaders hope the country’s August 2015 accession to the Eurasian Economic Union (EAEU) will bolster trade and investment, but slowing economies in Russia and China and low commodity prices continue to hamper economic growth. Large-scale trade and investment pledged by Kyrgyz leaders has been slow to develop. Many Kyrgyz entrepreneurs and politicians complain that non-tariff measures imposed by other EAEU member states are hurting certain sectors of the Kyrgyz economy, such as meat and dairy production, in which they have comparative advantage. Since acceding to the EAEU, the Kyrgyz Republic has continued harmonizing its laws and regulations to meet EAEU standards, though many local entrepreneurs believe this process as disjointed and incomplete. Kyrgyzstan’s economic development continues to be hampered by corruption, lack of administrative transparency, lack of diversity in domestic industries, and difficulty attracting foreign aid and investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$31.02 billion note: data are in 2017 dollars (2020 est.)<br>
-$33.95 billion note: data are in 2017 dollars (2019 est.)<br>
-$32.46 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$31.02 billion (2020 est.)<br>
+$33.95 billion (2019 est.)<br>
+$32.46 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.6% (2017 est.)<br>
@@ -402,10 +402,10 @@ $32.46 billion note: data are in 2017 dollars (2018 est.)<br>
 3.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$4,700 note: data are in 2017 dollars (2020 est.)<br>
-$5,300 note: data are in 2017 dollars (2019 est.)<br>
-$5,100 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$4,700 (2020 est.)<br>
+$5,300 (2019 est.)<br>
+$5,100 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $8.442 billion (2019 est.)<br>

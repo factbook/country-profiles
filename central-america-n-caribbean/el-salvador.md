@@ -389,9 +389,9 @@ _selected World Heritage Site locales_: Joya de Cer&eacute;n Archaeological Site
 <p>The smallest country in Central America geographically, El Salvador has the fourth largest economy in the region. With the global recession, real GDP contracted in 2009 and economic growth has since remained low, averaging less than 2% from 2010 to 2014, but recovered somewhat in 2015-17 with an average annual growth rate of 2.4%. Remittances accounted for approximately 18% of GDP in 2017 and were received by about a third of all households.</p><p></p><p>In 2006, El Salvador was the first country to ratify the Dominican Republic-Central American Free Trade Agreement, which has bolstered the export of processed foods, sugar, and ethanol, and supported investment in the apparel sector amid increased Asian competition. In September 2015, El Salvador kicked off a five-year $277 million second compact with the Millennium Challenge Corporation - a US Government agency aimed at stimulating economic growth and reducing poverty - to improve El Salvador's competitiveness and productivity in international markets.</p><p></p><p>The Salvadoran Government maintained fiscal discipline during reconstruction and rebuilding following earthquakes in 2001 and hurricanes in 1998 and 2005, but El Salvador's public debt, estimated at 59.3% of GDP in 2017, has been growing over the last several years.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$52.26 billion note: data are in 2017 dollars (2020 est.)<br>
-$56.77 billion note: data are in 2017 dollars (2019 est.)<br>
-$55.31 billion note: data are in 2017 dollars (2018 est.)<br>
+$52.26 billion (2020 est.)<br>
+$56.77 billion (2019 est.)<br>
+$55.31 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -400,9 +400,9 @@ $55.31 billion note: data are in 2017 dollars (2018 est.)<br>
 2.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$8,100 note: data are in 2017 dollars (2020 est.)<br>
-$8,800 note: data are in 2017 dollars (2019 est.)<br>
-$8,600 note: data are in 2017 dollars (2018 est.)<br>
+$8,100 (2020 est.)<br>
+$8,800 (2019 est.)<br>
+$8,600 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

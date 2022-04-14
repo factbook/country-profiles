@@ -347,9 +347,9 @@ _selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br
 <p>The economy of Saint Kitts and Nevis depends on tourism; since the 1970s, tourism has replaced sugar as the economy’s traditional mainstay. Roughly 200,000 tourists visited the islands in 2009, but reduced tourism arrivals and foreign investment led to an economic contraction in the 2009-2013 period, and the economy returned to growth only in 2014. Like other tourist destinations in the Caribbean, Saint Kitts and Nevis is vulnerable to damage from natural disasters and shifts in tourism demand.</p><p></p><p>Following the 2005 harvest, the government closed the sugar industry after several decades of losses. To compensate for lost jobs, the government has embarked on a program to diversify the agricultural sector and to stimulate other sectors of the economy, such as export-oriented manufacturing and offshore banking. The government has made notable progress in reducing its public debt, from 154% of GDP in 2011 to 83% in 2013, although it still faces one of the highest levels in the world, largely attributable to public enterprise losses. Saint Kitts and Nevis is among other countries in the Caribbean that supplement their economic activity through economic citizenship programs, whereby foreigners can obtain citizenship from Saint Kitts and Nevis by investing there.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.24 billion note: data are in 2017 dollars (2020 est.)<br>
-$1.39 billion note: data are in 2017 dollars (2019 est.)<br>
-$1.36 billion note: data are in 2017 dollars (2018 est.)<br>
+$1.24 billion (2020 est.)<br>
+$1.39 billion (2019 est.)<br>
+$1.36 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -358,9 +358,9 @@ $1.36 billion note: data are in 2017 dollars (2018 est.)<br>
 2.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$23,300 note: data are in 2017 dollars (2020 est.)<br>
-$26,200 note: data are in 2017 dollars (2019 est.)<br>
-$25,900 note: data are in 2017 dollars (2018 est.)<br>
+$23,300 (2020 est.)<br>
+$26,200 (2019 est.)<br>
+$25,900 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

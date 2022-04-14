@@ -363,9 +363,9 @@ _lyrics/music_: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA<br>
 <p>Maldives has quickly become a middle-income country, driven by the rapid growth of its tourism and fisheries sectors, but the country still contends with a large and growing fiscal deficit. Infrastructure projects, largely funded by China, could add significantly to debt levels. Political turmoil and the declaration of a state of emergency in February 2018 led to the issuance of travel warnings by several countries whose citizens visit Maldives in significant numbers, but the overall impact on tourism revenue was unclear.</p><p></p><p>In 2015, Maldives’ Parliament passed a constitutional amendment legalizing foreign ownership of land; foreign land-buyers must reclaim at least 70% of the desired land from the ocean and invest at least $1 billion in a construction project approved by Parliament.</p><p></p><p>Diversifying the economy beyond tourism and fishing, reforming public finance, increasing employment opportunities, and combating corruption, cronyism, and a growing drug problem are near-term challenges facing the government. Over the longer term, Maldivian authorities worry about the impact of erosion and possible global warming on their low-lying country; 80% of the area is 1 meter or less above sea level.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$7.05 billion note: data are in 2017 dollars (2020 est.)<br>
-$10.37 billion note: data are in 2017 dollars (2019 est.)<br>
-$9.69 billion note: data are in 2017 dollars (2018 est.)<br>
+$7.05 billion (2020 est.)<br>
+$10.37 billion (2019 est.)<br>
+$9.69 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -374,9 +374,9 @@ $9.69 billion note: data are in 2017 dollars (2018 est.)<br>
 2.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$13,000 note: data are in 2017 dollars (2020 est.)<br>
-$19,500 note: data are in 2017 dollars (2019 est.)<br>
-$18,800 note: data are in 2017 dollars (2018 est.)<br>
+$13,000 (2020 est.)<br>
+$19,500 (2019 est.)<br>
+$18,800 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

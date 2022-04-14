@@ -342,7 +342,7 @@ _subordinate courts_: Court of Appeal; High Administrative, Tax, and Audit Court
 <strong>note:</strong> the UN Justice System Programme, launched in 2003 and being rolled out in 4 phases through 2018, is helping strengthen the country's justice system; the Programme is aligned with the country's long-range Justice Sector Strategic Plan, which includes legal reforms<br>
 
 **Political parties and leaders**<br>
-Alliance for Change and Progress or AMP [Xanana GUSMAO] (collapsed in 2020; alliance included CNRT, KHUNTO, PLP)<br>Democratic Development Forum or DDF<br>Democratic Party or PD [Mariano Assanami SABINO]<br>Frenti-Mudanca [Jose Luis GUTERRES]<br>Kmanek Haburas Unidade Nasional Timor Oan or KHUNTO [Armanda BERTA DOS SANTOS]<br>National Congress for Timorese Reconstruction or CNRT [Kay Rala Xanana GUSMAO]<br>People's Liberation Party or PLP [Taur Matan RUAK]<br>Revolutionary Front of Independent Timor-Leste or FRETILIN [Mari ALKATIRI]<br>
+Alliance for Change and Progress or AMP [Xanana GUSMAO] (collapsed in 2020; alliance included CNRT, KHUNTO, PLP)<br>Democratic Development Forum or DDF<br>Democratic Party or PD [Mariano Assanami SABINO]<br>Frenti-Mudanca (Front for National Reconstruction of Timor-Leste - Change) or FM [Jose Luis GUTERRES]<br>Kmanek Haburas Unidade Nasional Timor Oan or KHUNTO [Armanda BERTA DOS SANTOS]<br>National Congress for Timorese Reconstruction or CNRT [Kay Rala Xanana GUSMAO]<br>People's Liberation Party or PLP [Taur Matan RUAK]<br>Revolutionary Front of Independent Timor-Leste or FRETILIN [Mari ALKATIRI]<br>Timorese Democratic Union or UDT [Gilman SANTOS]<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, ARF, ASEAN (observer), CPLP, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WMO<br>
@@ -379,9 +379,9 @@ _lyrics/music_: Fransisco Borja DA COSTA/Afonso DE ARAUJO<br>
 <p>Since independence in 1999, Timor-Leste has faced great challenges in rebuilding its infrastructure, strengthening the civil administration, and generating jobs for young people entering the work force. The development of offshore oil and gas resources has greatly supplemented government revenues. This technology-intensive industry, however, has done little to create jobs in part because there are no production facilities in Timor-Leste. Gas is currently piped to Australia for processing, but Timor-Leste has expressed interest in developing a domestic processing capability.</p><p></p><p>In June 2005, the National Parliament unanimously approved the creation of the Timor-Leste Petroleum Fund to serve as a repository for all petroleum revenues and to preserve the value of Timor-Leste's petroleum wealth for future generations. The Fund held assets of $16 billion, as of mid-2016. Oil accounts for over 90% of government revenues, and the drop in the price of oil in 2014-16 has led to concerns about the long-term sustainability of government spending. Timor-Leste compensated for the decline in price by exporting more oil. The Ministry of Finance maintains that the Petroleum Fund is sufficient to sustain government operations for the foreseeable future.</p><p></p><p>Annual government budget expenditures increased markedly between 2009 and 2012 but dropped significantly through 2016. Historically, the government failed to spend as much as its budget allowed. The government has focused significant resources on basic infrastructure, including electricity and roads, but limited experience in procurement and infrastructure building has hampered these projects. The underlying economic policy challenge the country faces remains how best to use oil-and-gas wealth to lift the non-oil economy onto a higher growth path and to reduce poverty.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.19 billion note: data are in 2017 dollars (2020 est.)<br>
-$4.59 billion note: data are in 2017 dollars (2019 est.)<br>
-$3.87 billion note: data are in 2017 dollars (2018 est.)<br>
+$4.19 billion (2020 est.)<br>
+$4.59 billion (2019 est.)<br>
+$3.87 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -390,9 +390,9 @@ $3.87 billion note: data are in 2017 dollars (2018 est.)<br>
 4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,200 note: data are in 2017 dollars (2020 est.)<br>
-$3,600 note: data are in 2017 dollars (2019 est.)<br>
-$3,100 note: data are in 2017 dollars (2018 est.)<br>
+$3,200 (2020 est.)<br>
+$3,600 (2019 est.)<br>
+$3,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -664,7 +664,7 @@ Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (
 approximately 2,000 personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-Timor-Leste Defense Force's limited inventory consists of equipment donated by other countries; the only recorded deliveries of major arms to Timor-Leste since 2010 are naval patrol craft from China and South Korea (2021)<br>
+Timor-Leste Defense Force's limited inventory consists of equipment donated by other countries; the only recorded deliveries of major arms to Timor-Leste since 2010 were naval patrol craft from China and South Korea (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; 18-month service obligation (2021)<br>

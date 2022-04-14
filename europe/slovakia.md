@@ -382,10 +382,10 @@ _selected World Heritage Site locales_: Historic Town of Bansk&aacute; &Scaron;t
 <p>Slovakia’s economy suffered from a slow start in the first years after its separation from the Czech Republic in 1993, due to the country’s authoritarian leadership and high levels of corruption, but economic reforms implemented after 1998 have placed Slovakia on a path of strong growth. With a population of 5.4 million, the Slovak Republic has a small, open economy driven mainly by automobile and electronics exports, which account for more than 80% of GDP. Slovakia joined the EU in 2004 and the euro zone in 2009. The country’s banking sector is sound and predominantly foreign owned.</p><p></p><p>Slovakia has been a regional FDI champion for several years, attractive due to a relatively low-cost yet skilled labor force, and a favorable geographic location in the heart of Central Europe. Exports and investment have been key drivers of Slovakia’s robust growth in recent years. The unemployment rate fell to historical lows in 2017, and rising wages fueled increased consumption, which played a more prominent role in 2017 GDP growth. A favorable outlook for the Eurozone suggests continued strong growth prospects for Slovakia during the next few years, although inflation is also expected to pick up.</p><p></p><p>Among the most pressing domestic issues potentially threatening the attractiveness of the Slovak market are shortages in the qualified labor force, persistent corruption issues, and an inadequate judiciary, as well as a slow transition to an innovation-based economy. The energy sector in particular is characterized by unpredictable regulatory oversight and high costs, in part driven by government interference in regulated tariffs. Moreover, the government’s attempts to maintain low household energy prices could harm the profitability of domestic energy firms while undercutting energy efficiency initiatives.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$165.57 billion note: data are in 2017 dollars (2020 est.)<br>
-$173.83 billion note: data are in 2017 dollars (2019 est.)<br>
-$169.57 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$165.57 billion (2020 est.)<br>
+$173.83 billion (2019 est.)<br>
+$169.57 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.4% (2019 est.)<br>
@@ -393,10 +393,10 @@ $169.57 billion note: data are in 2017 dollars (2018 est.)<br>
 3.04% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$30,300 note: data are in 2017 dollars (2020 est.)<br>
-$31,900 note: data are in 2017 dollars (2019 est.)<br>
-$31,100 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$30,300 (2020 est.)<br>
+$31,900 (2019 est.)<br>
+$31,100 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $105.388 billion (2019 est.)<br>
@@ -702,7 +702,7 @@ Slovakia officially became a member of NATO in 2004<br><br>in 2022, Slovakia agr
 <p>bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 302,417 (Ukraine) (as of 5 April 2022)<br>
+_refugees (country of origin)_: 323,020 (Ukraine) (as of 12 April 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -373,9 +373,9 @@ _selected World Heritage Site locales_: Blue and John Crow Mountains<br>
 <p>The Jamaican economy is heavily dependent on services, which accounts for more than 70% of GDP. The country derives most of its foreign exchange from tourism, remittances, and bauxite/alumina. Earnings from remittances and tourism each account for 14% and 20% of GDP, while bauxite/alumina exports have declined to less than 5% of GDP.</p><p></p><p>Jamaica's economy has grown on average less than 1% a year for the last three decades and many impediments remain to growth: a bloated public sector which crowds out spending on important projects; high crime and corruption; red-tape; and a high debt-to-GDP ratio. Jamaica, however, has made steady progress in reducing its debt-to-GDP ratio from a high of almost 150% in 2012 to less than 110% in 2017, in close collaboration with the International Monetary Fund (IMF). The current IMF Stand-By Agreement requires Jamaica to produce an annual primary surplus of 7%, in an attempt to reduce its debt burden below 60% by 2025.</p><p></p><p>Economic growth reached 1.6% in 2016, but declined to 0.9% in 2017 after intense rainfall, demonstrating the vulnerability of the economy to weather-related events. The HOLNESS administration therefore faces the difficult prospect of maintaining fiscal discipline to reduce the debt load while simultaneously implementing growth inducing policies and attacking a serious crime problem. High unemployment exacerbates the crime problem, including gang violence fueled by advanced fee fraud (lottery scamming) and the drug trade.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$25.89 billion note: data are in 2017 dollars (2020 est.)<br>
-$28.83 billion note: data are in 2017 dollars (2019 est.)<br>
-$28.57 billion note: data are in 2017 dollars (2018 est.)<br>
+$25.89 billion (2020 est.)<br>
+$28.83 billion (2019 est.)<br>
+$28.57 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -384,9 +384,9 @@ $28.57 billion note: data are in 2017 dollars (2018 est.)<br>
 0.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$8,700 note: data are in 2017 dollars (2020 est.)<br>
-$9,800 note: data are in 2017 dollars (2019 est.)<br>
-$9,700 note: data are in 2017 dollars (2018 est.)<br>
+$8,700 (2020 est.)<br>
+$9,800 (2019 est.)<br>
+$9,700 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

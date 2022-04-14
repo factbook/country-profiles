@@ -384,9 +384,9 @@ _selected World Heritage Site locales_: Anjar, Baalbek, Byblos, Tyre, Ouadi Qadi
 <p>Lebanon has a free-market economy and a strong laissez-faire commercial tradition. The government does not restrict foreign investment; however, the investment climate suffers from red tape, corruption, arbitrary licensing decisions, complex customs procedures, high taxes, tariffs, and fees, archaic legislation, and inadequate intellectual property rights protection. The Lebanese economy is service-oriented; main growth sectors include banking and tourism.</p><p></p><p>The 1975-90 civil war seriously damaged Lebanon's economic infrastructure, cut national output by half, and derailed Lebanon's position as a Middle Eastern banking hub. Following the civil war, Lebanon rebuilt much of its war-torn physical and financial infrastructure by borrowing heavily, mostly from domestic banks, which saddled the government with a huge debt burden. Pledges of economic and financial reforms made at separate international donor conferences during the 2000s have mostly gone unfulfilled, including those made during the Paris III Donor Conference in 2007, following the July 2006 war. The "CEDRE" investment event hosted by France in April 2018 again rallied the international community to assist Lebanon with concessional financing and some grants for capital infrastructure improvements, conditioned upon long-delayed structural economic reforms in fiscal management, electricity tariffs, and transparent public procurement, among many others.</p><p></p><p>The Syria conflict cut off one of Lebanon's major markets and a transport corridor through the Levant. The influx of nearly one million registered and an estimated 300,000 unregistered Syrian refugees has increased social tensions and heightened competition for low-skill jobs and public services. Lebanon continues to face several long-term structural weaknesses that predate the Syria crisis, notably, weak infrastructure, poor service delivery, institutionalized corruption, and bureaucratic over-regulation. Chronic fiscal deficits have increased Lebanon’s debt-to-GDP ratio, the third highest in the world; most of the debt is held internally by Lebanese banks. These factors combined to slow economic growth to the 1-2% range in 2011-17, after four years of averaging 8% growth. Weak economic growth limits tax revenues, while the largest government expenditures remain debt servicing, salaries for government workers, and transfers to the electricity sector. These limitations constrain other government spending, limiting its ability to invest in necessary infrastructure improvements, such as water, electricity, and transportation. In early 2018, the Lebanese government signed long-awaited contract agreements with an international consortium for petroleum exploration and production as part of the country’s first offshore licensing round. Exploration is expected to begin in 2019.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$79.51 billion note: data are in 2017 dollars (2020 est.)<br>
-$99.76 billion note: data are in 2017 dollars (2019 est.)<br>
-$106.93 billion note: data are in 2017 dollars (2018 est.)<br>
+$79.51 billion (2020 est.)<br>
+$99.76 billion (2019 est.)<br>
+$106.93 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -395,9 +395,9 @@ $106.93 billion note: data are in 2017 dollars (2018 est.)<br>
 0.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$11,600 note: data are in 2017 dollars (2020 est.)<br>
-$14,600 note: data are in 2017 dollars (2019 est.)<br>
-$15,600 note: data are in 2017 dollars (2018 est.)<br>
+$11,600 (2020 est.)<br>
+$14,600 (2019 est.)<br>
+$15,600 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

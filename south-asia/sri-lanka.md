@@ -389,10 +389,10 @@ _selected World Heritage Site locales_: Ancient City of Polonnaruwa (c), Ancient
 <p>Sri Lanka is attempting to sustain economic growth while maintaining macroeconomic stability under the IMF program it began in 2016. The government's high debt payments and bloated civil service, which have contributed to historically high budget deficits, remain a concern. Government debt is about 79% of GDP and remains among the highest of the emerging markets. In the coming years, Sri Lanka will need to balance its elevated debt repayment schedule with its need to maintain adequate foreign exchange reserves.</p><p></p><p>In May 2016, Sri Lanka regained its preferential trade status under the European Union’s Generalized System of Preferences Plus, enabling many of its firms to export products, including its top export garments, tax free to the EU. In 2017, Parliament passed a new Inland Revenue Act in an effort to increase tax collection and broaden the tax base in response to recommendations made under its IMF program. In November 2017, the Financial Action Task Force on money laundering and terrorist financing listed Sri Lanka as non-compliant, but reported subsequently that Sri Lanka had made good progress in implementing an action plan to address deficiencies.</p><p></p><p>Tourism has experienced strong growth in the years since the resolution of the government's 26-year conflict with the Liberation Tigers of Tamil Eelam. In 2017, the government promulgated plans to transform the country into a knowledge-based, export-oriented Indian Ocean hub by 2025.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$274.8 billion note: data are in 2017 dollars (2020 est.)<br>
-$284.97 billion note: data are in 2017 dollars (2019 est.)<br>
-$278.68 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$274.8 billion (2020 est.)<br>
+$284.97 billion (2019 est.)<br>
+$278.68 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.29% (2019 est.)<br>
@@ -400,10 +400,10 @@ $278.68 billion note: data are in 2017 dollars (2018 est.)<br>
 3.58% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$12,500 note: data are in 2017 dollars (2020 est.)<br>
-$13,100 note: data are in 2017 dollars (2019 est.)<br>
-$12,900 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$12,500 (2020 est.)<br>
+$13,100 (2019 est.)<br>
+$12,900 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $84.016 billion (2019 est.)<br>

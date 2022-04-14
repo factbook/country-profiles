@@ -435,10 +435,10 @@ _selected World Heritage Site locales_: Medina of Fez, Medina of Marrakesh, Ksar
 <p>Morocco has capitalized on its proximity to Europe and relatively low labor costs to work towards building a diverse, open, market-oriented economy. Key sectors of the economy include agriculture, tourism, aerospace, automotive, phosphates, textiles, apparel, and subcomponents. Morocco has increased investment in its port, transportation, and industrial infrastructure to position itself as a center and broker for business throughout Africa. Industrial development strategies and infrastructure improvements - most visibly illustrated by a new port and free trade zone near Tangier - are improving Morocco's competitiveness.</p><p></p><p>In the 1980s, Morocco was a heavily indebted country before pursuing austerity measures and pro-market reforms, overseen by the IMF. Since taking the throne in 1999, King MOHAMMED VI has presided over a stable economy marked by steady growth, low inflation, and gradually falling unemployment, although poor harvests and economic difficulties in Europe contributed to an economic slowdown. To boost exports, Morocco entered into a bilateral Free Trade Agreement with the US in 2006 and an Advanced Status agreement with the EU in 2008. In late 2014, Morocco eliminated subsidies for gasoline, diesel, and fuel oil, dramatically reducing outlays that weighed on the country’s budget and current account. Subsidies on butane gas and certain food products remain in place. Morocco also seeks to expand its renewable energy capacity with a goal of making renewable more than 50% of installed electricity generation capacity by 2030.</p><p></p><p>Despite Morocco's economic progress, the country suffers from high unemployment, poverty, and illiteracy, particularly in rural areas. Key economic challenges for Morocco include reforming the education system and the judiciary.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$259.42 billion note: data are in 2017 dollars (2020 est.)<br>
-$279.3 billion note: data are in 2017 dollars (2019 est.)<br>
-$272.53 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$259.42 billion (2020 est.)<br>
+$279.3 billion (2019 est.)<br>
+$272.53 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.5% (2019 est.)<br>
@@ -446,10 +446,10 @@ $272.53 billion note: data are in 2017 dollars (2018 est.)<br>
 3.98% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$6,900 note: data are in 2017 dollars (2020 est.)<br>
-$7,500 note: data are in 2017 dollars (2019 est.)<br>
-$7,400 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$6,900 (2020 est.)<br>
+$7,500 (2019 est.)<br>
+$7,400 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $118.858 billion (2019 est.)<br>

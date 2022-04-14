@@ -410,9 +410,9 @@ _selected World Heritage Site locales_: Sangha Trinational Forest<br>
 <p>The Republic of the Congo’s economy is a mixture of subsistence farming, an industrial sector based largely on oil and support services, and government spending. Oil has supplanted forestry as the mainstay of the economy, providing a major share of government revenues and exports. Natural gas is increasingly being converted to electricity rather than being flared, greatly improving energy prospects. New mining projects, particularly iron ore, which entered production in late 2013, may add as much as $1 billion to annual government revenue. The Republic of the Congo is a member of the Central African Economic and Monetary Community (CEMAC) and shares a common currency – the Central African Franc – with five other member states in the region.</p><p></p><p>The current administration faces difficult economic challenges of stimulating recovery and reducing poverty. The drop in oil prices that began in 2014 has constrained government spending; lower oil prices forced the government to cut more than $1 billion in planned spending. The fiscal deficit amounted to 11% of GDP in 2017. The government’s inability to pay civil servant salaries has resulted in multiple rounds of strikes by many groups, including doctors, nurses, and teachers. In the wake of a multi-year recession, the country reached out to the IMF in 2017 for a new program; the IMF noted that the country’s continued dependence on oil, unsustainable debt, and significant governance weakness are key impediments to the country’s economy. In 2018, the country’s external debt level will approach 120% of GDP. The IMF urged the government to renegotiate debts levels to sustainable levels before it agreed to a new macroeconomic adjustment package.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$19.03 billion note: data are in 2017 dollars (2020 est.)<br>
-$20.68 billion note: data are in 2017 dollars (2019 est.)<br>
-$20.63 billion note: data are in 2017 dollars (2018 est.)<br>
+$19.03 billion (2020 est.)<br>
+$20.68 billion (2019 est.)<br>
+$20.63 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -421,9 +421,9 @@ $20.63 billion note: data are in 2017 dollars (2018 est.)<br>
 2.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,400 note: data are in 2017 dollars (2020 est.)<br>
-$3,800 note: data are in 2017 dollars (2019 est.)<br>
-$3,900 note: data are in 2017 dollars (2018 est.)<br>
+$3,400 (2020 est.)<br>
+$3,800 (2019 est.)<br>
+$3,900 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

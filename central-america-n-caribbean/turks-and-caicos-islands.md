@@ -306,9 +306,10 @@ _lyrics/music_: Conrad HOWELL<br>
 The Turks and Caicos economy is based on tourism, offshore financial services, and fishing. Most capital goods and food for domestic consumption are imported. The US is the leading source of tourists, accounting for more than three-quarters of the more than 1 million visitors that arrive annually. Three-quarters of the visitors come by ship. Major sources of government revenue also include fees from offshore financial activities and customs receipts.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$820 million note: data are in 2017 dollars (2020 est.)<br>
-$1.12 billion note: data are in 2017 dollars (2019 est.)<br>
-$1.06 billion note: data are in 2017 dollars (2018 est.)<br>
+$820 million (2020 est.)<br>
+$1.12 billion (2019 est.)<br>
+$1.06 billion (2018 est.)<br>
+<strong>note: </strong>data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.3% (2018 est.)<br>
@@ -316,9 +317,10 @@ $1.06 billion note: data are in 2017 dollars (2018 est.)<br>
 4.4% (2016 est.)<br>
 
 **Real GDP per capita**<br>
-$21,100 note: data are in 2017 dollars (2020 est.)<br>
-$29,300 note: data are in 2017 dollars (2019 est.)<br>
-$28,200 note: data are in 2017 dollars (2018 est.)<br>
+$21,100 (2020 est.)<br>
+$29,300 (2019 est.)<br>
+$28,200 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.02 billion (2018 est.)<br>

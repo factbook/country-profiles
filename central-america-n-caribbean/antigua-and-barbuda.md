@@ -350,9 +350,9 @@ _selected World Heritage Site locales_: Antigua Naval Dockyard&nbsp;<br>
 <p>Tourism continues to dominate Antigua and Barbuda's economy, accounting for nearly 60% of GDP and 40% of investment. The dual-island nation's agricultural production is focused on the domestic market and constrained by a limited water supply and a labor shortage stemming from the lure of higher wages in tourism and construction. Manufacturing comprises enclave-type assembly for export with major products being bedding, handicrafts, and electronic components.</p><p></p><p>Like other countries in the region, Antigua's economy was severely hit by effects of the global economic recession in 2009. The country suffered from the collapse of its largest private sector employer, a steep decline in tourism, a rise in debt, and a sharp economic contraction between 2009 and 2011. Antigua has not yet returned to its pre-crisis growth levels. Barbuda suffered significant damages after hurricanes Irma and Maria passed through the Caribbean in 2017.</p><p></p><p>Prospects for economic growth in the medium term will continue to depend on tourist arrivals from the US, Canada, and Europe and could be disrupted by potential damage from natural disasters. The new government, elected in 2014 and led by Prime Minister Gaston Browne, continues to face significant fiscal challenges. The government places some hope in a new Citizenship by Investment Program, to both reduce public debt levels and spur growth, and a resolution of a WTO dispute with the US.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.76 billion note: data are in 2017 dollars (2020 est.)<br>
-$2.09 billion note: data are in 2017 dollars (2019 est.)<br>
-$2.02 billion note: data are in 2017 dollars (2018 est.)<br>
+$1.76 billion (2020 est.)<br>
+$2.09 billion (2019 est.)<br>
+$2.02 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -361,9 +361,9 @@ $2.02 billion note: data are in 2017 dollars (2018 est.)<br>
 4.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$18,000 note: data are in 2017 dollars (2020 est.)<br>
-$21,500 note: data are in 2017 dollars (2019 est.)<br>
-$21,000 note: data are in 2017 dollars (2018 est.)<br>
+$18,000 (2020 est.)<br>
+$21,500 (2019 est.)<br>
+$21,000 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

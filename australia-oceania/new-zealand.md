@@ -384,10 +384,10 @@ _selected World Heritage Site locales_: Te Wahipounamu – South West New Zealan
 <p>Over the past 40 years, the government has transformed New Zealand from an agrarian economy, dependent on concessionary British market access, to a more industrialized, free market economy that can compete globally. This dynamic growth has boosted real incomes, but left behind some at the bottom of the ladder and broadened and deepened the technological capabilities of the industrial sector.</p><p></p><p>Per capita income rose for 10 consecutive years until 2007 in purchasing power parity terms, but fell in 2008-09. Debt-driven consumer spending drove robust growth in the first half of the decade, fueling a large balance of payments deficit that posed a challenge for policymakers. Inflationary pressures caused the central bank to raise its key rate steadily from January 2004 until it was among the highest in the OECD in 2007 and 2008. The higher rate attracted international capital inflows, which strengthened the currency and housing market while aggravating the current account deficit. Rising house prices, especially in Auckland, have become a political issue in recent years, as well as a policy challenge in 2016 and 2017, as the ability to afford housing has declined for many.</p><p></p><p>Expanding New Zealand’s network of free trade agreements remains a top foreign policy priority. New Zealand was an early promoter of the Trans-Pacific Partnership (TPP) and was the second country to ratify the agreement in May 2017. Following the United States’ withdrawal from the TPP in January 2017, on 10 November 2017 the remaining 11 countries agreed on the core elements of a modified agreement, which they renamed the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). In November 2016, New Zealand opened negotiations to upgrade its FTA with China; China is one of New Zealand’s most important trading partners.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$215.6 billion note: data are in 2017 dollars (2020 est.)<br>
-$213.5 billion note: data are in 2017 dollars (2019 est.)<br>
-$210.07 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$215.6 billion (2020 est.)<br>
+$213.5 billion (2019 est.)<br>
+$210.07 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.22% (2019 est.)<br>
@@ -395,10 +395,10 @@ $210.07 billion note: data are in 2017 dollars (2018 est.)<br>
 3.8% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$42,400 note: data are in 2017 dollars (2020 est.)<br>
-$42,900 note: data are in 2017 dollars (2019 est.)<br>
-$42,900 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$42,400 (2020 est.)<br>
+$42,900 (2019 est.)<br>
+$42,900 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $205.202 billion (2019 est.)<br>

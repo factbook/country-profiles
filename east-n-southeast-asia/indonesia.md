@@ -350,9 +350,9 @@ _residency requirement for naturalization_: 5 continuous years<br>
 17 years of age; universal and married persons regardless of age<br>
 
 **Executive branch**<br>
-_chief of state_: President Joko WIDODO (since 20 October 2014, reelected 17 April 2019, inauguration 19 October 2019); Vice President Ma'ruf AMIN (since 20 October 2019); note - the president is both chief of state and head of government (2019)<br>
-_head of government_: President Joko WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019) (2019)<br>
-_cabinet_: Cabinet appointed by the president&nbsp;<br>
+_chief of state_: President Joko WIDODO (since 20 October 2014, reelected 17 April 2019, inauguration 19 October 2019); Vice President Ma'ruf AMIN (since 20 October 2019); note - the president is both chief of state and head of government<br>
+_head of government_: President Joko WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019)<br>
+_cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on&nbsp;17 April 2019 (next election 2024)<br>
 _election results_: Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br>
 
@@ -367,7 +367,7 @@ _judge selection and term of office_: Supreme Court judges nominated by Judicial
 _subordinate courts_: High Courts of Appeal, district courts, religious courts<br>
 
 **Political parties and leaders**<br>
-Democrat Party or PD [Agus Harimurti YUDHOYONO]<br>Functional Groups Party or GOLKAR [Airlangga HARTARTO]<br>Great Indonesia Movement Party or GERINDRA [PRABOWO Subianto Djojohadikusumo]<br>Indonesia Democratic Party-Struggle or PDI-P [MEGAWATI Sukarnoputri]<br>National Awakening Party or PKB [Muhaiman ISKANDAR]<br>National Democratic Party or NasDem [Surya PALOH]<br>National Mandate Party or PAN [Zulkifli HASAN]<br>Prosperous Justice Party or PKS [Ahmad SYAIKHU]<br>United Development Party or PPP [Suharso MONOARFA] (2021)<br>
+Berkarya Party [Muchdi PURWOPRANJONO]<br>Crescent Star Party or PBB [Yusril Ihza MAHENDRA]<br>Democrat Party or PD [Agus Harimurti YUDHOYONO]<br>Functional Groups Party or GOLKAR [Airlangga HARTARTO]<br>Great Indonesia Movement Party or GERINDRA [PRABOWO Subianto Djojohadikusumo]<br>Garuda Party [Ahmad Ridha SABANA]<br>Indonesia Democratic Party-Struggle or PDI-P [MEGAWATI Sukarnoputri]<br>Indonesian Justice and Unity Party or PKPI [Yussuf SOLICHIEN]<br>Indonesian Solidarity Party or PSI [GIRING GANESHA]<br>National Awakening Party or PKB [Muhaiman ISKANDAR]<br>National Democratic Party or NasDem [Surya PALOH]<br>National Mandate Party or PAN [Zulkifli HASAN]<br>People's Conscience Party or Hanura [Oesman Sapta ODANG]<br>Perindo Party [Hary TANOESOEDIBJO]<br>Prosperous Justice Party or PKS [Ahmad SYAIKHU]<br>United Development Party or PPP [Suharso MONOARFA] (2021)<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -412,10 +412,10 @@ _selected World Heritage Site locales_: Borobudur Temple Compounds (c), Komodo N
 <p>Indonesia, the largest economy in Southeast Asia, has seen a slowdown in growth since 2012, mostly due to the end of the commodities export boom. During the global financial crisis, Indonesia outperformed its regional neighbors and joined China and India as the only G20 members posting growth. Indonesia’s annual budget deficit is capped at 3% of GDP, and the Government of Indonesia lowered its debt-to-GDP ratio from a peak of 100% shortly after the Asian financial crisis in 1999 to 34% today. In May 2017 Standard &amp; Poor’s became the last major ratings agency to upgrade Indonesia’s sovereign credit rating to investment grade.</p><p></p><p>Poverty and unemployment, inadequate infrastructure, corruption, a complex regulatory environment, and unequal resource distribution among its regions are still part of Indonesia’s economic landscape. President Joko WIDODO - elected in July 2014 – seeks to develop Indonesia’s maritime resources and pursue other infrastructure development, including significantly increasing its electrical power generation capacity. Fuel subsidies were significantly reduced in early 2015, a move which has helped the government redirect its spending to development priorities. Indonesia, with the nine other ASEAN members, will continue to move towards participation in the ASEAN Economic Community, though full implementation of economic integration has not yet materialized.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3,130,470,000,000 note: data are in 2017 dollars (2020 est.)<br>
-$3,196,620,000,000 note: data are in 2017 dollars (2019 est.)<br>
-$3,043,880,000,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$3,130,470,000,000 (2020 est.)<br>
+$3,196,620,000,000 (2019 est.)<br>
+$3,043,880,000,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.03% (2019 est.)<br>
@@ -423,10 +423,10 @@ $3,043,880,000,000 note: data are in 2017 dollars (2018 est.)<br>
 5.07% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$11,400 note: data are in 2017 dollars (2020 est.)<br>
-$11,800 note: data are in 2017 dollars (2019 est.)<br>
-$11,400 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$11,400 (2020 est.)<br>
+$11,800 (2019 est.)<br>
+$11,400 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1,119,720,000,000 (2019 est.)<br>
@@ -713,7 +713,7 @@ _LNG terminal(s) (import)_: Arun, Lampung, West Java<br>
 
 **Military and security forces**<br>
 Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat (TNI-AD)), Navy (TNI-Angkatan Laut (TNI-AL), includes Marine Corps (Korps Marinir, KorMar), Naval Aviation Center (PUSPENERBAL)), Air Force (TNI-Angkatan Udara (TNI-AU)), National Air Defense Command (Komando Pertahanan Udara Nasional (Kohanudnas)), Armed Forces Special Operations Command (Kopassus), Strategic Reserve Command (Kostrad), National Army Reserve Component (Komcad) (2021)<br>
-note(s) - in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br>the Indonesian National Police includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counter-terrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror);<br>
+note(s) - in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br>the Indonesian National Police includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counter-terrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror)<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
@@ -723,10 +723,10 @@ note(s) - in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coo
 0.9% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-approximately, 405,000 active duty troops (300,000 Army; 65,000 Navy, including about 20,000 marines; 30,000 Air Force) (2021)<br>
+approximately, 400,000 active duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Indonesian military inventory is comprised of equipment from a wide variety of sources; since 2010, the top suppliers included China, France, Germany, the Netherlands, Russia, South Korea, the UK, and the US; the TNI has been engaged in a long-term modernization program since 2010 with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government publicly said that growing its domestic defense industry is a national priority over the next 5-10 years (2021)<br>
+the Indonesian military inventory comes from a wide variety of sources; since 2010, the top suppliers included China, France, Germany, the Netherlands, Russia, South Korea, the UK, and the US; the TNI has been engaged in a long-term modernization program since 2010 with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government publicly said that growing its domestic defense industry is a national priority over the next 5-10 years (2021)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary military service, with selective conscription authorized (males, age 18), but not utilized; 2-year service obligation, with reserve obligation to age 45 (officers) (2021)<br>
@@ -738,7 +738,7 @@ the Indonesian military inventory is comprised of equipment from a wide variety 
 as of 2022, Indonesian military and police forces were engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969; in addition, the Indonesian military has been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local Islamic State (ISIS)-affiliated terrorist group <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, and held military exercises in surrounding waters<br>
 
 **Maritime threats**<br>
-the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks increased slightly from 25 incidents in 2019 to 26 in 2020 due to aggressive maritime patrolling by regional authorities; vessels continue to be boarded while anchored or berthed at Indonesian ports with two crew taken hostage and two threatened in 2020; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>
+the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks decreased from 26 incidents in 2020 to nine in 2021 due to aggressive maritime patrolling by regional authorities; vessels continue to be boarded while anchored or berthed at Indonesian ports with seven vessels attacked; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>
 
 ## Terrorism
 

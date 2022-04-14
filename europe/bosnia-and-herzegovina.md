@@ -327,13 +327,13 @@ _residency requirement for naturalization_: 8 years<br>
 _chief of state_: Chairman of the Presidency Sefik DZAFEROVIC (chairman since 20 March 2022; presidency member since 20 November 2018 - Bosniak seat); Zeljko KOMSIC&nbsp; (presidency member since 20 November 2018 - Croat seat); Milorad DODIK (presidency member since 20 November 2018 - Serb seat)<br>
 _head of government_: Chairman of the Council of Ministers Zoran TEGELTIJA &nbsp;(since 5 December 2019)<br>
 _cabinet_: Council of Ministers nominated by the council chairman, approved by the state-level House of Representatives<br>
-_elections/appointments_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term, but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; election last held on&nbsp;7 October 2018 (next to be held in October 2022); the chairman of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>
+_elections/appointments_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term, but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; election last held on 7 October 2018 (next to be held on 2 October 2022); the chairman of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>
 _election results_: <em><br>2018:</em> percent of vote - Milorad DODIK (SNSD) 53.9% - Serb seat; Zeljko KOMSIC (DF) 52.6% - Croat seat; Sefik DZAFEROVIC (SDA) 36.6% - Bosniak seat<br><br><em>2014:</em> percent of vote - Mladen IVANIC (PDP) 48.7% - Serb seat; Dragan COVIC (HDZ-BiH) 52.2% - Croat seat; Bakir IZETBEGOVIC (SDA) 32.9% - Bosniak seat<br>
 <strong>note:</strong> President of the Federation of Bosnia and Herzegovina Marinko CAVARA (since 9 February 2015); Vice Presidents Melika MAHMUTBEGOVIC (since 9 February 2015), Milan DUNOVIC (since 9 February 2015); President of the Republika Srpska Zeljka CVIJANOVIC (since 18 November 2018); Vice Presidents Ramiz SALKIC (since 24 November 2014), Josip JERKOVIC (since 24 November 2014)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliamentary Assembly or Skupstina consists of:<br>House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly to serve 4-year terms)<br>House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms); note - the Federation of Bosnia and Herzegovina has a bicameral legislature that consists of the House of Peoples (58 seats - 17 Bosniak, 17 Croat, 17 Serb, 7 other) and the House of Representatives (98 seats; members directly elected by proportional representation vote to serve 4-year terms); Republika Srpska's unicameral legislature is the National Assembly (83 directly elected delegates serve 4-year terms)<br>
-_elections_: House of Peoples - last held on 7 October 2018 (next to be held in October 2022)<br>House of Representatives - last held on 7 October 2018 (next to be held in October 2022)<br>
+_elections_: House of Peoples - last held on 7 October 2018 (next to be held on 2 October 2022)<br>House of Representatives - last held on 7 October 2018 (next to be held on 2 October 2022)<br>
 _election results_: House of Peoples - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 12, women 3, percent of women 20%<br>House of Representatives - percent of vote by coalition/party - SDA 17%, SNSD 16%, SDS/NDP/NS/SRS-VS 9.8%, SDP 9.1%, HDZ-BiH/HSS/HKDU/HSP-AS BiH/HDU BiH 9.1%, DF, 5.8%, PDP 5.1%, DNS 4.2%, SBB BiH 4.2%, NS/HC 2.9%, NB 2.5%, PDA 2.3%, SP 1.9%, A-SDA 1.8%, other 17.4%; seats by coalition/party - SDA 9, SNSD 6, SDP 5, HDZ-BiH/HSS/HKDU/HSP-AS BiH/HDU BiH 5, SDS/NDP/NS/SRS-VS 3, DF 3, PDP 2, SBB BiH 2, NS/HC 2, DNS 1, NB 1 PDA 1, SP 1, A-SDA 1; composition - men 31, women 11, percent of women 26.2%; note - total Parliamentary Assembly percent of women 24.6%<br>
 
 **Judicial branch**<br>
@@ -386,10 +386,10 @@ _selected World Heritage Site locales_: Old Bridge Area of Mostar (c), Mehmed Pa
 <p>Bosnia and Herzegovina has a transitional economy with limited market reforms. The economy relies heavily on the export of metals, energy, textiles, and furniture as well as on remittances and foreign aid. A highly decentralized government hampers economic policy coordination and reform, while excessive bureaucracy and a segmented market discourage foreign investment. The economy is among the least competitive in the region. Foreign banks, primarily from Austria and Italy, control much of the banking sector, though the largest bank is a private domestic one. The konvertibilna marka (convertible mark) - the national currency introduced in 1998 - is pegged to the euro through a currency board arrangement, which has maintained confidence in the currency and has facilitated reliable trade links with European partners. Bosnia and Herzegovina became a full member of the Central European Free Trade Agreement in September 2007. In 2016, Bosnia began a three-year IMF loan program, but it has struggled to meet the economic reform benchmarks required to receive all funding installments.</p><p></p><p>Bosnia and Herzegovina's private sector is growing slowly, but foreign investment dropped sharply after 2007 and remains low. High unemployment remains the most serious macroeconomic problem. Successful implementation of a value-added tax in 2006 provided a steady source of revenue for the government and helped rein in gray-market activity, though public perceptions of government corruption and misuse of taxpayer money has encouraged a large informal economy to persist. National-level statistics have improved over time, but a large share of economic activity remains unofficial and unrecorded.</p><p></p><p>Bosnia and Herzegovina's top economic priorities are: acceleration of integration into the EU; strengthening the fiscal system; public administration reform; World Trade Organization membership; and securing economic growth by fostering a dynamic, competitive private sector.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$47.05 billion note: data are in 2017 dollars (2020 est.)<br>
-$49.17 billion note: data are in 2017 dollars (2019 est.)<br>
-$47.82 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$47.05 billion (2020 est.)<br>
+$49.17 billion (2019 est.)<br>
+$47.82 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3% (2017 est.)<br>
@@ -397,10 +397,10 @@ $47.82 billion note: data are in 2017 dollars (2018 est.)<br>
 3.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$14,300 note: data are in 2017 dollars (2020 est.)<br>
-$14,900 note: data are in 2017 dollars (2019 est.)<br>
-$14,400 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$14,300 (2020 est.)<br>
+$14,900 (2019 est.)<br>
+$14,400 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $20.078 billion (2019 est.)<br>
@@ -712,7 +712,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note:</strong> 87,590 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
+<strong>note:</strong> 87,822 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

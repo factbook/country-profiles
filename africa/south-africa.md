@@ -405,10 +405,10 @@ _selected World Heritage Site locales_: Fossil Hominid Sites of South Africa (c)
 <p>South Africa is a middle-income emerging market with an abundant supply of natural resources; well-developed financial, legal, communications, energy, and transport sectors; and a stock exchange that is Africa’s largest and among the top 20 in the world.</p><p></p><p>Economic growth has decelerated in recent years, slowing to an estimated 0.7% in 2017. Unemployment, poverty, and inequality - among the highest in the world - remain a challenge. Official unemployment is roughly 27% of the workforce, and runs significantly higher among black youth. Even though the country's modern infrastructure supports a relatively efficient distribution of goods to major urban centers throughout the region, unstable electricity supplies retard growth. Eskom, the state-run power company, is building three new power stations and is installing new power demand management programs to improve power grid reliability but has been plagued with accusations of mismanagement and corruption and faces an increasingly high debt burden.</p><p></p><p>South Africa's economic policy has focused on controlling inflation while empowering a broader economic base; however, the country faces structural constraints that also limit economic growth, such as skills shortages, declining global competitiveness, and frequent work stoppages due to strike action. The government faces growing pressure from urban constituencies to improve the delivery of basic services to low-income areas, to increase job growth, and to provide university level-education at affordable prices. Political infighting among South Africa’s ruling party and the volatility of the rand risks economic growth. International investors are concerned about the country’s long-term economic stability; in late 2016, most major international credit ratings agencies downgraded South Africa’s international debt to junk bond status.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$680.04 billion note: data are in 2017 dollars (2020 est.)<br>
-$730.91 billion note: data are in 2017 dollars (2019 est.)<br>
-$729.8 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$680.04 billion (2020 est.)<br>
+$730.91 billion (2019 est.)<br>
+$729.8 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 0.06% (2019 est.)<br>
@@ -416,10 +416,10 @@ $729.8 billion note: data are in 2017 dollars (2018 est.)<br>
 1.4% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$11,500 note: data are in 2017 dollars (2020 est.)<br>
-$12,500 note: data are in 2017 dollars (2019 est.)<br>
-$12,600 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$11,500 (2020 est.)<br>
+$12,500 (2019 est.)<br>
+$12,600 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $350.032 billion (2019 est.)<br>

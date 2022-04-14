@@ -382,10 +382,10 @@ _lyrics/music_: Daniel Bashiel WARNER/Olmstead LUCA<br>
 <p>Liberia is a low-income country that relies heavily on foreign assistance and remittances from the diaspora. It is richly endowed with water, mineral resources, forests, and a climate favorable to agriculture. Its principal exports are iron ore, rubber, diamonds, and gold. Palm oil and cocoa are emerging as new export products. The government has attempted to revive raw timber extraction and is encouraging oil exploration.</p><p></p><p>In the 1990s and early 2000s, civil war and government mismanagement destroyed much of Liberia's economy, especially infrastructure in and around the capital. Much of the conflict was fueled by control over Liberia’s natural resources. With the conclusion of fighting and the installation of a democratically elected government in 2006, businesses that had fled the country began to return. The country achieved high growth during the period 2010-13 due to favorable world prices for its commodities. However, during the 2014-2015 Ebola crisis, the economy declined and many foreign-owned businesses departed with their capital and expertise. The epidemic forced the government to divert scarce resources to combat the spread of the virus, reducing funds available for needed public investment. The cost of addressing the Ebola epidemic coincided with decreased economic activity reducing government revenue, although higher donor support significantly offset this loss. During the same period, global commodities prices for key exports fell and have yet to recover to pre-Ebola levels.</p><p></p><p>In 2017, gold was a key driver of growth, as a new mining project began its first full year of production; iron ore exports are also increased as Arcelor Mittal opened new mines at Mount Gangra. The completion of the rehabilitation of the Mount Coffee Hydroelectric Dam increased electricity production to support ongoing and future economic activity, although electricity tariffs remain high relative to other countries in the region and transmission infrastructure is limited. Presidential and legislative elections in October 2017 generated election-related spending pressures.</p><p></p><p>Revitalizing the economy in the future will depend on economic diversification, increasing investment and trade, higher global commodity prices, sustained foreign aid and remittances, development of infrastructure and institutions, combating corruption, and maintaining political stability and security.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$6.85 billion note: data are in 2017 dollars (2020 est.)<br>
-$7.05 billion note: data are in 2017 dollars (2019 est.)<br>
-$7.21 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$6.85 billion (2020 est.)<br>
+$7.05 billion (2019 est.)<br>
+$7.21 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.5% (2017 est.)<br>
@@ -393,10 +393,10 @@ $7.21 billion note: data are in 2017 dollars (2018 est.)<br>
 0% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,400 note: data are in 2017 dollars (2020 est.)<br>
-$1,400 note: data are in 2017 dollars (2019 est.)<br>
-$1,500 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$1,400 (2020 est.)<br>
+$1,400 (2019 est.)<br>
+$1,500 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.071 billion (2019 est.)<br>
@@ -686,13 +686,16 @@ note - as of 2020, women made up about .4% of the active military<br>
 **Military - note**<br>
 <p>the first militia unit established for defense of the colony was raised in 1832; the Armed Forces of Liberia (AFL) traces its origins to the 1908 establishment of the Liberia Frontier Force, which became the Liberian National Guard in 1965; the AFL was established in 1970; at the end of the second civil war in 2003, military and police forces were disbanded and approximately 100,000 military, police, and rebel combatants were disarmed; the AFL began to rebuild in 2003 with US assistance and the first infantry battalion of the restructured AFL was re-activated in late 2007; a second battalion was added in 2008</p> <p>the UN Mission in Liberia (UNMIL) was established in 2003 as a peacekeeping force; at its height, UNMIL was comprised of about 15,000 personnel, including more than 3,000 troops absorbed from the Economic Community of West African States (ECOWAS) peacekeeping mission; Liberian forces reassumed full control of the country’s security in June of 2016, and the UNMIL mission was ended in 2018</p> <p>as of 2021, the AFL was comprised mostly of a small ground force consisting of 2 infantry battalions, while the Coast Guard had only a few small patrol boats; the AFL had no aircraft</p><br>
 
+**Maritime threats**<br>
+the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>as the UN Mission in Liberia (UNMIL) continues to drawdown prior to the 1 March 2018 closure date, the peacekeeping force is being reduced to 434 soldiers and two police units; some Liberian refugees still remain in Guinea, Cote d'Ivoire, Sierra Leone, and Ghana; Liberia shelters 8,804 Ivoirian refugees, as of 2019</p><br>
+<p>as the UN Mission in Liberia (UNMIL) continues to drawdown prior to the 1 March 2018 closure date, the peacekeeping force is being reduced to 434 soldiers and two police units; some Liberian refugees still remain in Guinea, Cote d'Ivoire, Sierra Leone, and Ghana; Liberia shelters 7,811 Ivoirian refugees, as of February 2022</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,811 (Cote d'Ivoire) (2022)<br>
+_refugees (country of origin)_: 5,365 (Cote d'Ivoire) (2022)<br>
 
 **Illicit drugs**<br>
 <p>not a significant transit country for illicit narcotics but proximity to major drug routes contribute to trafficking; not a significant producer of illicit narcotics; local drug use involves marijuana, heroin, cocaine, the synthetic opioid tramadol, and amphetamine-type stimulants</p><br>

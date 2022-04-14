@@ -408,10 +408,10 @@ _selected World Heritage Site locales_: Bagerhat Historic Mosque (c), Ruins of t
 <p>Bangladesh's economy has grown roughly 6% per year since 2005 despite prolonged periods of political instability, poor infrastructure, endemic corruption, insufficient power supplies, and slow implementation of economic reforms. Although more than half of GDP is generated through the services sector, almost half of Bangladeshis are employed in the agriculture sector, with rice as the single-most-important product.</p> <p> </p> <p>Garments, the backbone of Bangladesh's industrial sector, accounted for more than 80% of total exports in FY 2016-17. The industrial sector continues to grow, despite the need for improvements in factory safety conditions. Steady export growth in the garment sector, combined with $13 billion in remittances from overseas Bangladeshis, contributed to Bangladesh's rising foreign exchange reserves in FY 2016-17. Recent improvements to energy infrastructure, including the start of liquefied natural gas imports in 2018, represent a major step forward in resolving a key growth bottleneck.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$793.49 billion note: data are in 2017 dollars (2020 est.)<br>
-$775.08 billion note: data are in 2017 dollars (2019 est.)<br>
-$716.65 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$793.49 billion (2020 est.)<br>
+$775.08 billion (2019 est.)<br>
+$716.65 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 7.4% (2017 est.)<br>
@@ -419,10 +419,10 @@ $716.65 billion note: data are in 2017 dollars (2018 est.)<br>
 6.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$4,800 note: data are in 2017 dollars (2020 est.)<br>
-$4,800 note: data are in 2017 dollars (2019 est.)<br>
-$4,400 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$4,800 (2020 est.)<br>
+$4,800 (2019 est.)<br>
+$4,400 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $329.545 billion (2020 est.)<br>
@@ -735,7 +735,7 @@ Bangladesh is one of the leading contributors to UN peacekeeping missions since 
 <p>as of 2021, the military’s chief areas of focus were border, economic exclusion zone, and domestic security; the Army maintained a large domestic security presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; since 2009, the military has been in a force-wide expansion and modernization program known as Forces Goal 2030</p><br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; attacks increased in 2020 when four ships were boarded as opposed to no attacks in 2019<br>
+the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; there were no attacks reported in 2021 as opposed to four ships that were boarded in 2020<br>
 
 ## Terrorism
 

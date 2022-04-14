@@ -367,10 +367,10 @@ _lyrics/music_: Said Hachim SIDI ABDEREMANE/Said Hachim SIDI ABDEREMANE and Kami
 <p>One of the world's poorest and smallest economies, the Comoros is made up of three islands that are hampered by inadequate transportation links, a young and rapidly increasing population, and few natural resources. The low educational level of the labor force contributes to a subsistence level of economic activity and a heavy dependence on foreign grants and technical assistance. Agriculture, including fishing, hunting, and forestry, accounts for about 50% of GDP, employs a majority of the labor force, and provides most of the exports. Export income is heavily reliant on the three main crops of vanilla, cloves, and ylang ylang (perfume essence); and the Comoros' export earnings are easily disrupted by disasters such as fires and extreme weather. Despite agriculture’s importance to the economy, the country imports roughly 70% of its food; rice, the main staple, and other dried vegetables account for more than 25% of imports. Remittances from about 300,000 Comorans contribute about 25% of the country’s GDP. France, Comoros’s colonial power, remains a key trading partner and bilateral donor.</p><p></p><p>Comoros faces an education system in need of upgrades, limited opportunities for private commercial and industrial enterprises, poor health services, limited exports, and a high population growth rate. Recurring political instability, sometimes initiated from outside the country, and an ongoing electricity crisis have inhibited growth. The government, elected in mid-2016, has moved to improve revenue mobilization, reduce expenditures, and improve electricity access, although the public sector wage bill remains one of the highest in Sub-Saharan Africa. In mid-2017, Comoros joined the Southern African Development Community with 15 other regional member states.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.73 billion note: data are in 2017 dollars (2020 est.)<br>
-$2.6 billion note: data are in 2017 dollars (2019 est.)<br>
-$2.55 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$2.73 billion (2020 est.)<br>
+$2.6 billion (2019 est.)<br>
+$2.55 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.7% (2017 est.)<br>
@@ -378,10 +378,10 @@ $2.55 billion note: data are in 2017 dollars (2018 est.)<br>
 1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,100 note: data are in 2017 dollars (2020 est.)<br>
-$3,100 note: data are in 2017 dollars (2019 est.)<br>
-$3,100 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$3,100 (2020 est.)<br>
+$3,100 (2019 est.)<br>
+$3,100 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $1.186 billion (2019 est.)<br>

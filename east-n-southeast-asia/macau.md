@@ -276,7 +276,7 @@ _judge selection and term of office_: justices appointed by the Macau chief exec
 _subordinate courts_: Court of Second Instance; Court of First instance; Lower Court; Administrative Court<br>
 
 **Political parties and leaders**<br>
-Alliance for Change or APM [Melinda CHAN Mei-yi]<br>Alliance for a Happy Home or ABL [WONG Kit-cheng] (an electoral list of UPP)<br>Civic Watch or Civico [Agnes LAM Iok-fong]<br>Macau-Guangdong Union or UMG [MAK Soi-kun]<br>Macau Citizens' Development Association or ACDM [Becky SONG Pek-kei] (an electoral list of ACUM)New Democratic Macau Association or ANMD [AU Kam-san]<br>New Hope or NE [Jose Maria Pereira COUTINHO]<br>New Macau Association (New Macau Progressives) or AMN or ANPM [Sulu SOU Ka-hou]<br>New Union for Macau's Development or NUDM [Angela LEONG On-kei]<br>Prosperous Democratic Macau Association or APMD (an electoral list of AMN)<br>Union for Development or UPD [Ella LEI Cheng-I]<br>Union for Promoting Progress or UPP [HO Ion-sang]<br>United Citizens Association of Macau or ACUM [CHAN Meng-kam]<br>
+Alliance for Change or APM [Melinda CHAN Mei-yi]<br>Alliance for a Happy Home or ABL [WONG Kit-cheng] (an electoral list of UPP)<br>Civic Watch or Civico [Agnes LAM Iok-fong]<br>Macau-Guangdong Union or UMG [MAK Soi-kun]<br>Macau Citizens' Development Association or ACDM [Becky SONG Pek-kei] <br>New Democratic Macau Association or ANMD [AU Kam-san]<br>New Hope or NE [Jose Maria Pereira COUTINHO]<br>New Macau Association (New Macau Progressives) or AMN or ANPM [Sulu SOU Ka-hou]<br>New Union for Macau's Development or NUDM [Angela LEONG On-kei]<br>Progress Promotion Union<br>Prosperous Democratic Macau Association or APMD (an electoral list of AMN)<br>Union for Development or UPD [HO Sut Hen]<br>Union for Promoting Progress or UPP [HO Ion-sang]<br>United Citizens Association of Macau or ACUM [CHAN Meng-kam]<br>
 <strong>note:</strong> there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies<br>
 
 **International organization participation**<br>
@@ -303,9 +303,9 @@ lotus blossom; national colors: green, white, yellow<br>
 <p>Since opening up its locally-controlled casino industry to foreign competition in 2001, Macau has attracted tens of billions of dollars in foreign investment, transforming the territory into one of the world's largest gaming centers. Macau's gaming and tourism businesses were fueled by China's decision to relax travel restrictions on Chinese citizens wishing to visit Macau. In 2016, Macau's gaming-related taxes accounted for more than 76% of total government revenue.</p><p></p><p>Macau's economy slowed dramatically in 2009 as a result of the global economic slowdown, but strong growth resumed in the 2010-13 period, largely on the back of tourism from mainland China and the gaming sectors. In 2015, this city of 646,800 hosted nearly 30.7 million visitors. Almost 67% came from mainland China. Macau's traditional manufacturing industry has slowed greatly since the termination of the Multi-Fiber Agreement in 2005. Services export — primarily gaming — increasingly has driven Macau’s economic performance. Mainland China’s anti-corruption campaign brought Macau’s gambling boom to a halt in 2014, with spending in casinos contracting 34.3% in 2015. As a result, Macau's inflation-adjusted GDP contracted 21.5% in 2015 and another 2.1% in 2016 - down from double-digit expansion rates in the period 2010-13 - but the economy recovered handsomely in 2017.</p><p></p><p>Macau continues to face the challenges of managing its growing casino industry, risks from money-laundering activities, and the need to diversify the economy away from heavy dependence on gaming revenues. Macau's currency, the pataca, is closely tied to the Hong Kong dollar, which is also freely accepted in the territory.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$35.58 billion note: data are in 2017 dollars (2020 est.)<br>
-$81.44 billion note: data are in 2017 dollars (2019 est.)<br>
-$83.64 billion note: data are in 2017 dollars (2018 est.)<br>
+$35.58 billion (2020 est.)<br>
+$81.44 billion (2019 est.)<br>
+$83.64 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -314,9 +314,10 @@ $83.64 billion note: data are in 2017 dollars (2018 est.)<br>
 -21.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$54,800 note: data are in 2017 dollars (2020 est.)<br>
-$127,200 note: data are in 2017 dollars (2019 est.)<br>
-$132,400 note: data are in 2017 dollars (2018 est.)<br>
+$54,800 (2020 est.)<br>
+$127,200 (2019 est.)<br>
+$132,400 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $53.841 billion (2019 est.)<br>

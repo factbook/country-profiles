@@ -338,7 +338,7 @@ _election results_: Ismail Omar GUELLEH reelected president for a fifth term; pe
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 23 February 2018 (next to be held in February 2023)<br>
-_election results_: percent of vote by party - NA; seats by party - UMP 57, UDJ-PDD 7, CDU 1; composition - men 47, women 18, percent of women 26.7%<br>
+_election results_: percent of vote by party - NA; seats by party - UMP 57, UDJ-PDD 7, CDU 1; composition - men 48, women 17, percent of women 26.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of NA magistrates); Constitutional Council (consists of 6 magistrates)<br>
@@ -383,9 +383,9 @@ _lyrics/music_: Aden ELMI/Abdi ROBLEH<br>
 <p>Djibouti's economy is based on service activities connected with the country's strategic location as a deepwater port on the Red Sea. Three-fourths of Djibouti's inhabitants live in the capital city; the remainder are mostly nomadic herders. Scant rainfall and less than 4% arable land limits crop production to small quantities of fruits and vegetables, and most food must be imported.</p><p></p><p>Djibouti provides services as both a transit port for the region and an international transshipment and refueling center. Imports, exports, and reexports represent 70% of port activity at Djibouti's container terminal. Reexports consist primarily of coffee from landlocked neighbor Ethiopia. Djibouti has few natural resources and little industry. The nation is, therefore, heavily dependent on foreign assistance to support its balance of payments and to finance development projects. An official unemployment rate of nearly 40% - with youth unemployment near 80% - continues to be a major problem. Inflation was a modest 3% in 2014-2017, due to low international food prices and a decline in electricity tariffs.</p><p></p><p>Djibouti’s reliance on diesel-generated electricity and imported food and water leave average consumers vulnerable to global price shocks, though in mid-2015 Djibouti passed new legislation to liberalize the energy sector. The government has emphasized infrastructure development for transportation and energy and Djibouti – with the help of foreign partners, particularly China – has begun to increase and modernize its port capacity. In 2017, Djibouti opened two of the largest projects in its history, the Doraleh Port and Djibouti-Addis Ababa Railway, funded by China as part of the "Belt and Road Initiative," which will increase the country’s ability to capitalize on its strategic location.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.42 billion note: data are in 2017 dollars (2020 est.)<br>
-$5.39 billion note: data are in 2017 dollars (2019 est.)<br>
-$5 billion note: data are in 2017 dollars (2018 est.)<br>
+$5.42 billion (2020 est.)<br>
+$5.39 billion (2019 est.)<br>
+$5 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -394,9 +394,9 @@ $5 billion note: data are in 2017 dollars (2018 est.)<br>
 6.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$5,500 note: data are in 2017 dollars (2020 est.)<br>
-$5,500 note: data are in 2017 dollars (2019 est.)<br>
-$5,200 note: data are in 2017 dollars (2018 est.)<br>
+$5,500 (2020 est.)<br>
+$5,500 (2019 est.)<br>
+$5,200 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -682,7 +682,7 @@ the FAD is armed largely with older French and Soviet-era weapons systems; since
 <p>as of 2022, China, France, Italy, Japan, and the US maintained bases in Djibouti for regional military missions, including counter-terrorism, counter-piracy, crisis response, and security assistance (note – France has multiple bases and hosts troop contingents from Germany and Spain); the EU and NATO have also maintained a presence to support multinational naval counter-piracy operations and maritime training efforts; in 2017, Djibouti and Saudi Arabia announced plans for the Saudis to build a military base there, although no start date was announced</p><br>
 
 **Maritime threats**<br>
-the International Maritime Bureau&rsquo;s (IMB) Piracy Reporting Center (PRC) received zero incidents of piracy and armed robbery in 2020 for the Horn of Africa; while there were no recorded incidents, the IMB PRC warns that Somalia pirates continue to possess the capacity to carry out attacks in the Somali basin and wider Indian Ocean; in particular, the report warns that, "Masters and crew must remain vigilant and cautious when transiting these waters."; the presence of several naval task forces in the Gulf of Aden and additional anti-piracy measures on the part of ship operators, including the use of on-board armed security teams, contributed to the drop in incidents; the EU naval mission, Operation ATALANTA, continues its operations in the Gulf of Aden and Indian Ocean through 2022; naval units from China, India, Japan, Pakistan, South Korea, the US, and other countries also operate in conjunction with EU forces; China has established a logistical base in Djibouti to support its deployed naval units in the Horn of Africa<br>
+the International Maritime Bureau&rsquo;s (IMB) Piracy Reporting Center (PRC) received one incident of piracy and armed robbery in 2021 for the Horn of Africa; while there were no recorded incidents, the IMB PRC warns that Somalia pirates continue to possess the capacity to carry out attacks in the Somali basin and wider Indian Ocean; in particular, the report warns that, "Masters and crew must remain vigilant and cautious when transiting these waters."; the presence of several naval task forces in the Gulf of Aden and additional anti-piracy measures on the part of ship operators, including the use of on-board armed security teams, contributed to the drop in incidents; the EU naval mission, Operation ATALANTA, continues its operations in the Gulf of Aden and Indian Ocean through 2022; naval units from China, India, Japan, Pakistan, South Korea, the US, and other countries also operate in conjunction with EU forces; China has established a logistical base in Djibouti to support its deployed naval units in the Horn of Africa<br>
 
 ## Terrorism
 

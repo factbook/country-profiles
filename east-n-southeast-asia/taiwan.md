@@ -283,6 +283,7 @@ _subordinate courts_: high courts; district courts; hierarchy of administrative 
 
 **Political parties and leaders**<br>
 Democratic Progressive Party or DPP [TSAI Ing-wen]<br>Kuomintang or KMT (Nationalist Party) [CHU Chi-luan, aka Eric CHU]<br>Taiwan People's Party or TPP [KO Wen-je]<br>New Power Party or NPP [KAO Yu-ting]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi] (2021)<br>
+note - the DPP and the KMT are the two major political parties; there are hundreds of registered minor parties<br>
 
 **International organization participation**<br>
 ADB (Taipei, China), APEC (Chinese Taipei), BCIE, IOC, ITUC (NGOs), SICA (observer), WTO (Taipei, China);<br>
@@ -623,7 +624,7 @@ the Taiwan military is armed mostly with second-hand weapons and equipment provi
 
 **Military service age and obligation**<br>
 starting with those born in 1994, males 18-36 years of age may volunteer for military service or must complete 4 months of compulsory military training (or substitute civil service in some cases); men born before December 1993 are required to complete compulsory service for 1 year (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist, but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military in December 2018, the last cohort of one-year military conscripts completed their service obligations (2021)<br>
-note - as of 2018, women made up about 14% of the active duty military<br>
+note - as of 2021, women made up about 15% of the active duty military<br>
 
 **Military - note**<br>
 the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2021)<br>

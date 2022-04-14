@@ -417,10 +417,10 @@ _selected World Heritage Site locales_: Ngorongoro Conservation Area (m), Ruins 
 <p>Tanzania has achieved high growth rates based on its vast natural resource wealth and tourism with GDP growth in 2009-17 averaging 6%-7% per year. Dar es Salaam used fiscal stimulus measures and easier monetary policies to lessen the impact of the global recession and in general, benefited from low oil prices. Tanzania has largely completed its transition to a market economy, though the government retains a presence in sectors such as telecommunications, banking, energy, and mining.</p><p></p><p>The economy depends on agriculture, which accounts for slightly less than one-quarter of GDP and employs about 65% of the work force, although gold production in recent years has increased to about 35% of exports. All land in Tanzania is owned by the government, which can lease land for up to 99 years. Proposed reforms to allow for land ownership, particularly foreign land ownership, remain unpopular.</p><p></p><p>The financial sector in Tanzania has expanded in recent years and foreign-owned banks account for about 48% of the banking industry's total assets. Competition among foreign commercial banks has resulted in significant improvements in the efficiency and quality of financial services, though interest rates are still relatively high, reflecting high fraud risk. Banking reforms have helped increase private-sector growth and investment.</p><p></p><p>The World Bank, the IMF, and bilateral donors have provided funds to rehabilitate Tanzania's aging infrastructure, including rail and port, which provide important trade links for inland countries. In 2013, Tanzania completed the world's largest Millennium Challenge Compact (MCC) grant, worth $698 million, but in late 2015, the MCC Board of Directors deferred a decision to renew Tanzania’s eligibility because of irregularities in voting in Zanzibar and concerns over the government's use of a controversial cybercrime bill.</p><p></p><p>The new government elected in 2015 has developed an ambitious development agenda focused on creating a better business environment through improved infrastructure, access to financing, and education progress, but implementing budgets remains challenging for the government. Recent policy moves by President MAGUFULI are aimed at protecting domestic industry and have caused concern among foreign investors.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$152.79 billion note: data are in 2017 dollars (2020 est.)<br>
-$149.79 billion note: data are in 2017 dollars (2019 est.)<br>
-$141.59 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$152.79 billion (2020 est.)<br>
+$149.79 billion (2019 est.)<br>
+$141.59 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 6.98% (2019 est.)<br>
@@ -428,10 +428,10 @@ $141.59 billion note: data are in 2017 dollars (2018 est.)<br>
 6.78% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$2,600 note: data are in 2017 dollars (2020 est.)<br>
-$2,700 note: data are in 2017 dollars (2019 est.)<br>
-$2,600 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$2,600 (2020 est.)<br>
+$2,700 (2019 est.)<br>
+$2,600 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $60.633 billion (2019 est.)<br>
@@ -750,7 +750,7 @@ Islamic State of Iraq and ash-Sham - Mozambique<br>
 <p>dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,663 (Burundi), 79,839 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 127,009 (Burundi), 79,839 (Democratic Republic of the Congo) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>

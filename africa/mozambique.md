@@ -416,9 +416,9 @@ _selected World Heritage Site locales_: Island of Mozambique<br>
 <p>At independence in 1975, Mozambique was one of the world's poorest countries. Socialist policies, economic mismanagement, and a brutal civil war from 1977 to 1992 further impoverished the country. In 1987, the government embarked on a series of macroeconomic reforms designed to stabilize the economy. These steps, combined with donor assistance and with political stability since the multi-party elections in 1994, propelled the country’s GDP, in purchasing power parity terms, from $4 billion in 1993 to about $37 billion in 2017. Fiscal reforms, including the introduction of a value-added tax and reform of the customs service, have improved the government's revenue collection abilities. In spite of these gains, about half the population remains below the poverty line and subsistence agriculture continues to employ the vast majority of the country's work force.</p><p></p><p>Mozambique's once substantial foreign debt was reduced through forgiveness and rescheduling under the IMF's Heavily Indebted Poor Countries (HIPC) and Enhanced HIPC initiatives. However, in 2016, information surfaced revealing that the Mozambican Government was responsible for over $2 billion in government-backed loans secured between 2012-14 by state-owned defense and security companies without parliamentary approval or national budget inclusion; this prompted the IMF and international donors to halt direct budget support to the Government of Mozambique. An international audit was performed on Mozambique’s debt in 2016-17, but debt restructuring and resumption of donor support have yet to occur.</p><p></p><p>Mozambique grew at an average annual rate of 6%-8% in the decade leading up to 2015, one of Africa's strongest performances, but the sizable external debt burden, donor withdrawal, elevated inflation, and currency depreciation contributed to slower growth in 2016-17.</p><p></p><p>Two major International consortiums, led by American companies ExxonMobil and Anadarko, are seeking approval to develop massive natural gas deposits off the coast of Cabo Delgado province, in what has the potential to become the largest infrastructure project in Africa. . The government predicts sales of liquefied natural gas from these projects could generate several billion dollars in revenues annually sometime after 2022.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$38.42 billion note: data are in 2017 dollars (2020 est.)<br>
-$38.91 billion note: data are in 2017 dollars (2019 est.)<br>
-$38.04 billion note: data are in 2017 dollars (2018 est.)<br>
+$38.42 billion (2020 est.)<br>
+$38.91 billion (2019 est.)<br>
+$38.04 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -426,9 +426,9 @@ $38.04 billion note: data are in 2017 dollars (2018 est.)<br>
 4.07% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$1,200 note: data are in 2017 dollars (2020 est.)<br>
-$1,300 note: data are in 2017 dollars (2019 est.)<br>
-$1,300 note: data are in 2017 dollars (2018 est.)<br>
+$1,200 (2020 est.)<br>
+$1,300 (2019 est.)<br>
+$1,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -744,7 +744,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,786 (Democratic Republic of Congo) (refugees and asylum seekers), 8,395 (Burundi) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 10,786 (Democratic Republic of Congo) (refugees and asylum seekers), 8,447 (Burundi) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 881,047 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>

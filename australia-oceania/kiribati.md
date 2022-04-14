@@ -364,9 +364,9 @@ _selected World Heritage Site locales_: Phoenix Islands Protected Area<br>
 <p>A remote country of 33 scattered coral atolls, Kiribati has few natural resources and is one of the least developed Pacific Island countries. Commercially viable phosphate deposits were exhausted by the time of independence from the United Kingdom in 1979. Earnings from fishing licenses and seafarer remittances are important sources of income. Although the number of seafarers employed declined due to changes in global shipping demands, remittances are expected to improve with more overseas temporary and seasonal work opportunities for Kiribati nationals.</p><p></p><p>Economic development is constrained by a shortage of skilled workers, weak infrastructure, and remoteness from international markets. The public sector dominates economic activity, with ongoing capital projects in infrastructure including road rehabilitation, water and sanitation projects, and renovations to the international airport, spurring some growth. Public debt increased from 23% of GDP at the end of 2015 to 25.8% in 2016.</p><p></p><p>Kiribati is dependent on foreign aid, which was estimated to have contributed over 32.7% in 2016 to the government’s finances. The country’s sovereign fund, the Revenue Equalization Reserve Fund (RERF), which is held offshore, had an estimated balance of $855.5 million in late July 2016. The RERF seeks to avoid exchange rate risk by holding investments in more than 20 currencies, including the Australian dollar, US dollar, the Japanese yen, and the Euro. Drawdowns from the RERF helped finance the government’s annual budget.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$270 million note: data are in 2017 dollars (2020 est.)<br>
-$270 million note: data are in 2017 dollars (2019 est.)<br>
-$260 million note: data are in 2017 dollars (2018 est.)<br>
+$270 million (2020 est.)<br>
+$270 million (2019 est.)<br>
+$260 million (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -375,9 +375,9 @@ $260 million note: data are in 2017 dollars (2018 est.)<br>
 10.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,300 note: data are in 2017 dollars (2020 est.)<br>
-$2,300 note: data are in 2017 dollars (2019 est.)<br>
-$2,300 note: data are in 2017 dollars (2018 est.)<br>
+$2,300 (2020 est.)<br>
+$2,300 (2019 est.)<br>
+$2,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

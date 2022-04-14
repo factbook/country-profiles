@@ -400,9 +400,9 @@ _selected World Heritage Site locales_: Jesuit Missions of La Sant&iacute;sima T
 <p>Landlocked Paraguay has a market economy distinguished by a large informal sector, featuring re-export of imported consumer goods to neighboring countries, as well as the activities of thousands of microenterprises and urban street vendors. A large percentage of the population, especially in rural areas, derives its living from agricultural activity, often on a subsistence basis. Because of the importance of the informal sector, accurate economic measures are difficult to obtain.</p><p></p><p>On a per capita basis, real income has grown steadily over the past five years as strong world demand for commodities, combined with high prices and favorable weather, supported Paraguay's commodity-based export expansion. Paraguay is the fifth largest soy producer in the world. Drought hit in 2008, reducing agricultural exports and slowing the economy even before the onset of the global recession. The economy fell 3.8% in 2009, as lower world demand and commodity prices caused exports to contract. Severe drought and outbreaks of hoof-and-mouth disease in 2012 led to a brief drop in beef and other agricultural exports. Since 2014, however, Paraguay’s economy has grown at a 4% average annual rate due to strong production and high global prices, at a time when other countries in the region have contracted.</p><p></p><p>The Paraguayan Government recognizes the need to diversify its economy and has taken steps in recent years to do so. In addition to looking for new commodity markets in the Middle East and Europe, Paraguayan officials have promoted the country’s low labor costs, cheap energy from its massive Itaipu Hydroelectric Dam, and single-digit tax rate on foreign firms. As a result, the number of factories operating in the country – mostly transplants from Brazil - has tripled since 2014.</p><p></p><p>Corruption, limited progress on structural reform, and deficient infrastructure are the main obstacles to long-term growth. Judicial corruption is endemic and is seen as the greatest barrier to attracting more foreign investment. Paraguay has been adverse to public debt throughout its history, but has recently sought to finance infrastructure improvements to attract foreign investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$87.98 billion note: data are in 2017 dollars (2020 est.)<br>
-$88.87 billion note: data are in 2017 dollars (2019 est.)<br>
-$89.23 billion note: data are in 2017 dollars (2018 est.)<br>
+$87.98 billion (2020 est.)<br>
+$88.87 billion (2019 est.)<br>
+$89.23 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -411,9 +411,9 @@ $89.23 billion note: data are in 2017 dollars (2018 est.)<br>
 3.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$12,300 note: data are in 2017 dollars (2020 est.)<br>
-$12,600 note: data are in 2017 dollars (2019 est.)<br>
-$12,800 note: data are in 2017 dollars (2018 est.)<br>
+$12,300 (2020 est.)<br>
+$12,600 (2019 est.)<br>
+$12,800 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

@@ -378,10 +378,10 @@ _lyrics/music_: Alda Neves DA GRACA do Espirito Santo/Manuel dos Santos Barreto 
 <p>The economy of São Tomé and Príncipe is small, based mainly on agricultural production, and, since independence in 1975, increasingly dependent on the export of cocoa beans. Cocoa production has substantially declined in recent years because of drought and mismanagement. Sao Tome depends heavily on imports of food, fuels, most manufactured goods, and consumer goods, and changes in commodity prices affect the country’s inflation rate. Maintaining control of inflation, fiscal discipline, and increasing flows of foreign direct investment into the nascent oil sector are major economic problems facing the country. In recent years the government has attempted to reduce price controls and subsidies. In 2017, several business-related laws were enacted that aim to improve the business climate.</p><p></p><p>São Tomé and Príncipe has had difficulty servicing its external debt and has relied heavily on concessional aid and debt rescheduling. In April 2011, the country completed a Threshold Country Program with The Millennium Challenge Corporation to help increase tax revenues, reform customs, and improve the business environment. In 2016, Sao Tome and Portugal signed a five-year cooperation agreement worth approximately $64 million, some of which will be provided as loans. In 2017, China and São Tomé signed a mutual cooperation agreement in areas such as infrastructure, health, and agriculture worth approximately $146 million over five years.</p><p></p><p>Considerable potential exists for development of tourism, and the government has taken steps to expand tourist facilities in recent years. Potential also exists for the development of petroleum resources in São Tomé and Príncipe's territorial waters in the oil-rich Gulf of Guinea, some of which are being jointly developed in a 60-40 split with Nigeria, but production is at least several years off.</p><p></p><p>Volatile aid and investment inflows have limited growth, and poverty remains high. Restricteded capacity at the main port increases the periodic risk of shortages of consumer goods. Contract enforcement in the country’s judicial system is difficult. The IMF in late 2016 expressed concern about vulnerabilities in the country’s banking sector, although the country plans some austerity measures in line with IMF recommendations under their three year extended credit facility. Deforestation, coastal erosion, poor waste management, and misuse of natural resources also are challenging issues.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$890 million note: data are in 2017 dollars (2020 est.)<br>
-$860 million note: data are in 2017 dollars (2019 est.)<br>
-$840 million note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$890 million (2020 est.)<br>
+$860 million (2019 est.)<br>
+$840 million (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.9% (2017 est.)<br>
@@ -389,10 +389,10 @@ $840 million note: data are in 2017 dollars (2018 est.)<br>
 3.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$4,100 note: data are in 2017 dollars (2020 est.)<br>
-$4,000 note: data are in 2017 dollars (2019 est.)<br>
-$4,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$4,100 (2020 est.)<br>
+$4,000 (2019 est.)<br>
+$4,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $0 (2018 est.)<br>
@@ -663,7 +663,7 @@ the FASTP is lightly and poorly armed (2021)<br>
 <p>the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and a few small patrol boats; as of 2021, it did not have an air force</p><br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.&rdquo;<br>
+the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
 
 ## Transnational Issues
 

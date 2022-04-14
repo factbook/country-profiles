@@ -293,9 +293,10 @@ _etymology_: name refers to the location of the region of the British Mandate of
 <p>In 2017, the economic outlook in the West Bank - the larger of the two areas comprising the Palestinian Territories – remained fragile, as security concerns and political friction slowed economic growth. Unemployment in the West Bank remained high at 19.0% in the third quarter of 2017, only slightly better than 19.6% at the same point the previous year, while the labor force participation rate remained flat, year-on-year.</p><p></p><p>Longstanding Israeli restrictions on imports, exports, and movement of goods and people continue to disrupt labor and trade flows and the territory’s industrial capacity, and constrain private sector development. The PA’s budget benefited from an effort to improve tax collection, coupled with lower spending in 2017, but the PA for the foreseeable future will continue to rely heavily on donor aid for its budgetary needs and infrastructure development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$25.91 billion note: data are in 2017 dollars and includes Gaza Strip (2020 est.)<br>
-$29.26 billion note: data are in 2017 dollars and includes Gaza Strip (2019 est.)<br>
-$28.87 billion note: data are in 2017 dollars and includes Gaza Strip (2018 est.)<br>
+$25.91 billion (2020 est.)<br>
+$29.26 billion (2019 est.)<br>
+$28.87 billion (2018 est.)<br>
+<strong>note: </strong>data are in 2017 dollars and includes Gaza Strip<br>
 
 **Real GDP growth rate**<br>
 5.3% (2014 est.)<br>
@@ -304,10 +305,10 @@ $28.87 billion note: data are in 2017 dollars and includes Gaza Strip (2018 est.
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Real GDP per capita**<br>
-$5,400 note: data are in 2017 dollars and includes Gaza Strip (2020 est.)<br>
-$6,200 note: data are in 2017 dollars and includes Gaza Strip (2019 est.)<br>
-$6,300 note: data are in 2017 dollars and includes Gaza Strip (2018 est.)<br>
-<strong>note:</strong> includes Gaza Strip<br>
+$5,400 (2020 est.)<br>
+$6,200 (2019 est.)<br>
+$6,300 (2018 est.)<br>
+<strong>note: </strong>data are in 2017 dollars and includes Gaza Strip<br>
 
 **GDP (official exchange rate)**<br>
 $9.828 billion (2014 est.)<br>

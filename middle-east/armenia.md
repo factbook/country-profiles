@@ -379,9 +379,9 @@ _selected World Heritage Site locales_: Monasteries of Haghpat and Sanahin, Mona
 <p>Under the old Soviet central planning system, Armenia developed a modern industrial sector, supplying machine tools, textiles, and other manufactured goods to sister republics, in exchange for raw materials and energy. Armenia has since switched to small-scale agriculture and away from the large agro industrial complexes of the Soviet era. Armenia has only two open trade borders - Iran and Georgia - because its borders with Azerbaijan and Turkey have been closed since 1991 and 1993, respectively, as a result of Armenia's ongoing conflict with Azerbaijan over the separatist Nagorno-Karabakh region.</p><p></p><p>Armenia joined the World Trade Organization in January 2003. The government has made some improvements in tax and customs administration in recent years, but anti-corruption measures have been largely ineffective. Armenia will need to pursue additional economic reforms and strengthen the rule of law in order to raise its economic growth and improve economic competitiveness and employment opportunities, especially given its economic isolation from Turkey and Azerbaijan.</p><p></p><p>Armenia's geographic isolation, a narrow export base, and pervasive monopolies in important business sectors have made it particularly vulnerable to volatility in the global commodity markets and the economic challenges in Russia. Armenia is particularly dependent on Russian commercial and governmental support, as most key Armenian infrastructure is Russian-owned and/or managed, especially in the energy sector. Remittances from expatriates working in Russia are equivalent to about 12-14% of GDP. Armenia joined the Russia-led Eurasian Economic Union in January 2015, but has remained interested in pursuing closer ties with the EU as well, signing a Comprehensive and Enhanced Partnership Agreement with the EU in November 2017. Armenia’s rising government debt is leading Yerevan to tighten its fiscal policies – the amount is approaching the debt to GDP ratio threshold set by national legislation.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$37.31 billion note: data are in 2017 dollars (2020 est.)<br>
-$40.38 billion note: data are in 2017 dollars (2019 est.)<br>
-$37.53 billion note: data are in 2017 dollars (2018 est.)<br>
+$37.31 billion (2020 est.)<br>
+$40.38 billion (2019 est.)<br>
+$37.53 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -390,9 +390,9 @@ $37.53 billion note: data are in 2017 dollars (2018 est.)<br>
 3.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$12,600 note: data are in 2017 dollars (2020 est.)<br>
-$13,700 note: data are in 2017 dollars (2019 est.)<br>
-$12,700 note: data are in 2017 dollars (2018 est.)<br>
+$12,600 (2020 est.)<br>
+$13,700 (2019 est.)<br>
+$12,700 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

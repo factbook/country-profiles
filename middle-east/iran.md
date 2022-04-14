@@ -396,9 +396,9 @@ _selected World Heritage Site locales_: Persepolis (c), Tchogha Zanbil (c), Bam 
 <p>Iran's economy is marked by statist policies, inefficiencies, and reliance on oil and gas exports, but Iran also possesses significant agricultural, industrial, and service sectors. The Iranian government directly owns and operates hundreds of state-owned enterprises and indirectly controls many companies affiliated with the country's security forces. Distortions - including corruption, price controls, subsidies, and a banking system holding billions of dollars of non-performing loans - weigh down the economy, undermining the potential for private-sector-led growth.</p><p></p><p>Private sector activity includes small-scale workshops, farming, some manufacturing, and services, in addition to medium-scale construction, cement production, mining, and metalworking. Significant informal market activity flourishes and corruption is widespread.</p><p></p><p>The lifting of most nuclear-related sanctions under the Joint Comprehensive Plan of Action (JCPOA) in January 2016 sparked a restoration of Iran’s oil production and revenue that drove rapid GDP growth, but economic growth declined in 2017 as oil production plateaued. The economy continues to suffer from low levels of investment and declines in productivity since before the JCPOA, and from high levels of unemployment, especially among women and college-educated Iranian youth.</p><p></p><p>In May 2017, the re-election of President Hasan RUHANI generated widespread public expectations that the economic benefits of the JCPOA would expand and reach all levels of society. RUHANI will need to implement structural reforms that strengthen the banking sector and improve Iran’s business climate to attract foreign investment and encourage the growth of the private sector. Sanctions that are not related to Iran’s nuclear program remain in effect, and these—plus fears over the possible re-imposition of nuclear-related sanctions—will continue to deter foreign investors from engaging with Iran.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,044,310,000,000 note: data are in 2017 dollars (2020 est.)<br>
-$1,027,240,000,000 note: data are in 2017 dollars (2019 est.)<br>
-$1.102 trillion note: data are in 2017 dollars (2018 est.)<br>
+$1,044,310,000,000 (2020 est.)<br>
+$1,027,240,000,000 (2019 est.)<br>
+$1.102 trillion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -407,9 +407,9 @@ $1.102 trillion note: data are in 2017 dollars (2018 est.)<br>
 -1.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$12,400 note: data are in 2017 dollars (2020 est.)<br>
-$12,400 note: data are in 2017 dollars (2019 est.)<br>
-$13,500 note: data are in 2017 dollars (2018 est.)<br>
+$12,400 (2020 est.)<br>
+$12,400 (2019 est.)<br>
+$13,500 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -719,7 +719,7 @@ note - Iran has recruited, trained, and funded thousands of Syrian and foreign f
 <p>the Islamic Revolutionary Guard Corps (IRGC) was formed in May 1979 in the immediate aftermath of Shah Mohammad Reza PAHLAVI’s fall, as leftists, nationalists, and Islamists jockeyed for power; while the interim prime minister controlled the government and state institutions, such as the Army, followers of Ayatollah Ruhollah KHOMEINI organized counterweights, including the IRGC, to protect the Islamic revolution; the IRGC’s command structure bypassed the elected president and went directly to KHOMEINI; the Iran-Iraq War (1980–88) transformed the IRGC into more of a conventional fighting force with its own ground, air, naval, and special forces, plus control over Iran’s strategic missile and rocket forces; as of 2021, the IRGC was a highly institutionalized and parallel military force to Iran’s regular armed forces (Artesh); it was heavily involved in internal security and had significant influence in the political and economic spheres of Iranian society, as well as Iran’s foreign policy; its special operations forces, known as the Qods/Quds Force, specialized in foreign missions and has provided advice, funding, guidance, material support, training, and weapons to militants in countries such as Afghanistan, Iraq, Syria, and Yemen, as well as extremist groups, including HAMAS, Hizballah, Kata’ib Hizballah, and Palestine Islamic Jihad (see Appendix-T for additional details on the IRGC and Qods Force); the Qods Force also conducts intelligence and reconnaissance operations </p> <p>the Supreme Council for National Security (SCNS) is the senior-most body for formulating Iran’s foreign and security policy; it is formally chaired by the president, who also appoints the SCNS secretary; its members include the speaker of the Majles, the head of the judiciary, the chief of the Armed Forces General Staff (chief of defense or CHOD), the commanders of the Artesh (regular forces) and IRGC, and the ministers of defense, foreign affairs, interior, and intelligence; the SCNS reports to the supreme leader; the supreme leader is the commander-in-chief of the armed forces</p><br>
 
 **Maritime threats**<br>
-<p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-003A Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Red Sea-Threats to US and International Shipping from Iran) effective 26 February 2021, which states in part that "heightened military activities and increased political tensions in this region continue to present risk to commercial shipping...there is a continued possibility that Iran and/or its regional proxies could take actions against US and partner interests in the region;" Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>
+<p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-003 Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Red Sea-Threats to US and International Shipping from Iran) effective 28 February 2022, which states in part that "heightened military activities and increased political tensions in this region continue to present risk to commercial shipping...there is a continued possibility that Iran and/or its regional proxies could take actions against US and partner interests in the region;" Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>
 
 ## Terrorism
 

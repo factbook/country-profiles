@@ -387,10 +387,10 @@ _selected World Heritage Site locales_: Giant's Causeway and Causeway Coast (n),
 <p>The UK, a leading trading power and financial center, is the third largest economy in Europe after Germany and France. Agriculture is intensive, highly mechanized, and efficient by European standards, producing about 60% of food needs with less than 2% of the labor force. The UK has large coal, natural gas, and oil resources, but its oil and natural gas reserves are declining; the UK has been a net importer of energy since 2005. Services, particularly banking, insurance, and business services, are key drivers of British GDP growth. Manufacturing, meanwhile, has declined in importance but still accounts for about 10% of economic output.</p> <p>In 2008, the global financial crisis hit the economy particularly hard, due to the importance of its financial sector. Falling home prices, high consumer debt, and the global economic slowdown compounded the UK’s economic problems, pushing the economy into recession in the latter half of 2008 and prompting the then BROWN (Labour) government to implement a number of measures to stimulate the economy and stabilize the financial markets. Facing burgeoning public deficits and debt levels, in 2010 the then CAMERON-led coalition government (between Conservatives and Liberal Democrats) initiated an austerity program, which has continued under the Conservative government. However, the deficit still remains one of the highest in the G7, standing at 3.6% of GDP as of 2017, and the UK has pledged to lower its corporation tax from 20% to 17% by 2020. The UK had a debt burden of 90.4% GDP at the end of 2017.</p> <p>The UK economy has begun to slow since the referendum vote to leave the EU in June 2016. A sustained depreciation of the British pound has increased consumer and producer prices, weighing on consumer spending without spurring a meaningful increase in exports. The UK has an extensive trade relationship with other EU members through its single market membership, and economic observers have warned the exit will jeopardize its position as the central location for European financial services. The UK is slated to leave the EU at the end of January 2020.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,797,980,000,000 note: data are in 2017 dollars (2020 est.)<br>
-$3,101,640,000,000 note: data are in 2017 dollars (2019 est.)<br>
-$3,059,690,000,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$2,797,980,000,000 (2020 est.)<br>
+$3,101,640,000,000 (2019 est.)<br>
+$3,059,690,000,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.26% (2019 est.)<br>
@@ -398,10 +398,10 @@ $3,059,690,000,000 note: data are in 2017 dollars (2018 est.)<br>
 1.74% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$41,600 note: data are in 2017 dollars (2020 est.)<br>
-$46,400 note: data are in 2017 dollars (2019 est.)<br>
-$46,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$41,600 (2020 est.)<br>
+$46,400 (2019 est.)<br>
+$46,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2,827,918,000,000 (2019 est.)<br>

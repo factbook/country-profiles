@@ -386,9 +386,9 @@ _selected World Heritage Site locales_: Kuk Early Agricultural Site<br>
 <p>Papua New Guinea (PNG) is richly endowed with natural resources, but exploitation has been hampered by rugged terrain, land tenure issues, and the high cost of developing infrastructure. The economy has a small formal sector, focused mainly on the export of those natural resources, and an informal sector, employing the majority of the population. Agriculture provides a subsistence livelihood for 85% of the people. The global financial crisis had little impact because of continued foreign demand for PNG's commodities.</p><p></p><p>Mineral deposits, including copper, gold, and oil, account for nearly two-thirds of export earnings. Natural gas reserves amount to an estimated 155 billion cubic meters. Following construction of a $19 billion liquefied natural gas (LNG) project, PNG LNG, a consortium led by ExxonMobil, began exporting liquefied natural gas to Asian markets in May 2014. The project was delivered on time and only slightly above budget. The success of the project has encouraged other companies to look at similar LNG projects. French supermajor Total is hopes to begin construction on the Papua LNG project by 2020. Due to lower global commodity prices, resource revenues of all types have fallen dramatically. PNG’s government has recently been forced to adjust spending levels downward.</p><p></p><p>Numerous challenges still face the government of Peter O'NEILL, including providing physical security for foreign investors, regaining investor confidence, restoring integrity to state institutions, promoting economic efficiency by privatizing moribund state institutions, and maintaining good relations with Australia, its former colonial ruler. Other socio-cultural challenges could upend the economy including chronic law and order and land tenure issues. In August, 2017, PNG launched its first-ever national trade policy, PNG Trade Policy 2017-2032. The policy goal is to maximize trade and investment by increasing exports, to reduce imports, and to increase foreign direct investment (FDI).</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$36.69 billion note: data are in 2017 dollars (2020 est.)<br>
-$38.17 billion note: data are in 2017 dollars (2019 est.)<br>
-$36.06 billion note: data are in 2017 dollars (2018 est.)<br>
+$36.69 billion (2020 est.)<br>
+$38.17 billion (2019 est.)<br>
+$36.06 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -397,9 +397,9 @@ $36.06 billion note: data are in 2017 dollars (2018 est.)<br>
 5.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$4,100 note: data are in 2017 dollars (2020 est.)<br>
-$4,300 note: data are in 2017 dollars (2019 est.)<br>
-$4,200 note: data are in 2017 dollars (2018 est.)<br>
+$4,100 (2020 est.)<br>
+$4,300 (2019 est.)<br>
+$4,200 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

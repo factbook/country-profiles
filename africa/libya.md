@@ -379,10 +379,10 @@ _selected World Heritage Site locales_: Archaeological Site of Cyrene, Archaeolo
 <p>Libya's economy, almost entirely dependent on oil and gas exports, has struggled since 2014 given security and political instability, disruptions in oil production, and decline in global oil prices. The Libyan dinar has lost much of its value since 2014 and the resulting gap between official and black market exchange rates has spurred the growth of a shadow economy and contributed to inflation. The country suffers from widespread power outages, caused by shortages of fuel for power generation. Living conditions, including access to clean drinking water, medical services, and safe housing have all declined since 2011. Oil production in 2017 reached a five-year high, driving GDP growth, with daily average production rising to 879,000 barrels per day. However, oil production levels remain below the average pre-Revolution highs of 1.6 million barrels per day.</p><p></p><p>The Central Bank of Libya continued to pay government salaries to a majority of the Libyan workforce and to fund subsidies for fuel and food, resulting in an estimated budget deficit of about 17% of GDP in 2017. Low consumer confidence in the banking sector and the economy as a whole has driven a severe liquidity shortage.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$70.65 billion note: data are in 2017 dollars (2020 est.)<br>
-$102.84 billion note: data are in 2017 dollars (2019 est.)<br>
-$100.3 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$70.65 billion (2020 est.)<br>
+$102.84 billion (2019 est.)<br>
+$100.3 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 64% (2017 est.)<br>
@@ -390,10 +390,10 @@ $100.3 billion note: data are in 2017 dollars (2018 est.)<br>
 -13% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$10,300 note: data are in 2017 dollars (2020 est.)<br>
-$15,200 note: data are in 2017 dollars (2019 est.)<br>
-$15,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$10,300 (2020 est.)<br>
+$15,200 (2019 est.)<br>
+$15,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $52.259 billion (2019 est.)<br>
@@ -688,6 +688,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham – Libya; al-Mulatha
 <p><em>Libya-Algeria:</em> dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,604 (Sudan) (refugees and asylum seekers), 14,331 (Syria) (refugees and asylum seekers) (2022)<br>
-_IDPs_: 179,047 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2021)<br>
+_refugees (country of origin)_: 18,346 (Sudan) (refugees and asylum seekers), 15,014 (Syria) (refugees and asylum seekers) (2022)<br>
+_IDPs_: 168,011 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2022)<br>
 

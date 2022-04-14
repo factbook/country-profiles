@@ -355,7 +355,7 @@ _judge selection and term of office_: Supreme Court president proposed by genera
 _subordinate courts_: Administrative Courts; Appellate Court; Commercial Courts; High Courts; basic courts<br>
 
 **Political parties and leaders**<br>
-Albanian Alternative or AA [Nik DJELOSAJ]<br>Albanian Coalition (includes DP, DSCG, DUA)<br>Albanian Coalition Perspective or AKP<br>Albanian List (coalition includes AA, Forca, AKP, DSA)<br>Bosniak Party or BS [Rafet HUSOVIC]<br>Croatian Civic Initiative or HGI [Adrian VUKSANOVIC]<br>Croatian Reform Party [Marija VUCINOVIC]<br>Democratic Alliance or DEMOS [Miodrag LEKIC]<br>Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)<br>Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br>Democratic League of Albanians or DSA<br>Democratic Montenegro or DCG [Aleksa BECIC]<br>Democratic Party or DP [Fatmir GJEKA]<br>Democratic Party of Socialists or DPS [Milo DJUKANOVIC]<br>Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC]<br>Democratic People's Party or DNP [Milan KNEZEVIC]<br>Democratic Serb Party or DSS [Dragica PEROVIC]<br>Democratic Union of Albanians or DUA [Mehmet ZENKA]<br>For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP)<br>Liberal Party or LP [Andrija POPOVIC]<br>Movement for Change or PZP [Nebojsa MEDOJEVIC]<br>New Democratic Power or FORCA [Nazif CUNGU]<br>New Serb Democracy or NOVA [Andrija MANDIC]<br>Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC]<br>Peace is Our Nation or MNIM [Alexa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI)<br>Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties)<br>Social Democratic Party or SDP [Ranko KRIVOKAPIC]<br>Social Democrats or SD [Ivan BRAJOVIC]<br>Socialist People's Party or SNP [Vladimir JOKOVIC]<br>True Montenegro or PRAVA [Marko MILACIC]<br>United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br>United Reform Action or URA [Dritan ABAZOVIC]<br>Workers' Party or RP [Maksim VUCINIC]<br>
+Albanian Alternative or AA [Nik DJELOSAJ]<br>Albanian Coalition (includes DP, DSCG, DUA)<br>Albanian Coalition Perspective or AKP<br>Albanian List (coalition includes AA, Forca, AKP, DSA)<br>Bosniak Party or BS [Rafet HUSOVIC]<br>Croatian Civic Initiative or HGI [Adrian VUKSANOVIC]<br>Croatian Reform Party [Marija VUCINOVIC]<br>Democratic Alliance or DEMOS [Miodrag LEKIC]<br>Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)<br>Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br>Democratic League of Albanians or DSA<br>Democratic Montenegro or DCG [Aleksa BECIC]<br>Democratic Party or DP [Fatmir GJEKA]<br>Democratic Party of Socialists or DPS [Milo DJUKANOVIC]<br>Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC]<br>Democratic People's Party or DNP [Milan KNEZEVIC]<br>Democratic Serb Party or DSS [Dragica PEROVIC]<br>Democratic Union of Albanians or DUA [Mehmet ZENKA]<br>For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP)<br>In Black and White [Dritan ABAZOVIC]<br>Liberal Party or LP [Andrija POPOVIC]<br>Movement for Change or PZP [Nebojsa MEDOJEVIC]<br>New Democratic Power or FORCA [Nazif CUNGU]<br>New Serb Democracy or NOVA [Andrija MANDIC]<br>Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC]<br>Peace is Our Nation or MNIM [Alexa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI)<br>Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties)<br>Social Democratic Party or SDP [Ranko KRIVOKAPIC]<br>Social Democrats or SD [Ivan BRAJOVIC]<br>Socialist People's Party or SNP [Vladimir JOKOVIC]<br>True Montenegro or PRAVA [Marko MILACIC]<br>United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br>United Reform Action or URA [Dritan ABAZOVIC]<br>Workers' Party or RP [Maksim VUCINIC]<br>
 
 **International organization participation**<br>
 CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -397,9 +397,9 @@ _selected World Heritage Site locales_: Natural and Culturo-Historical Region of
 <p>Montenegro's economy is transitioning to a market system. Around 90% of Montenegrin state-owned companies have been privatized, including 100% of banking, telecommunications, and oil distribution. Tourism, which accounts for more than 20% of Montenegro’s GDP, brings in three times as many visitors as Montenegro’s total population every year. Several new luxury tourism complexes are in various stages of development along the coast, and a number are being offered in connection with nearby boating and yachting facilities. In addition to tourism, energy and agriculture are considered two distinct pillars of the economy. Only 20% of Montenegro’s hydropower potential is utilized. Montenegro plans to become a net energy exporter, and the construction of an underwater cable to Italy, which will be completed by the end of 2018, will help meet its goal.</p><p></p><p>Montenegro uses the euro as its domestic currency, though it is not an official member of the euro zone. In January 2007, Montenegro joined the World Bank and IMF, and in December 2011, the WTO. Montenegro began negotiations to join the EU in 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime.</p><p></p><p>The government recognizes the need to remove impediments in order to remain competitive and open the economy to foreign investors. Net foreign direct investment in 2017 reached $848 million and investment per capita is one of the highest in Europe, due to a low corporate tax rate. The biggest foreign investors in Montenegro in 2017 were Norway, Russia, Italy, Azerbaijan and Hungary.</p><p></p><p>Montenegro is currently planning major overhauls of its road and rail networks, and possible expansions of its air transportation system. In 2014, the Government of Montenegro selected two Chinese companies to construct a 41 km-long section of the country’s highway system, which will become part of China’s Belt and Road Initiative. Cheaper borrowing costs have stimulated Montenegro’s growing debt, which currently sits at 65.9% of GDP, with a forecast, absent fiscal consolidation, to increase to 80% once the repayment to China’s Ex/Im Bank of a €800 million highway loan begins in 2019. Montenegro first instituted a value-added tax (VAT) in April 2003, and introduced differentiated VAT rates of 17% and 7% (for tourism) in January 2006. The Montenegrin Government increased the non-tourism Value Added Tax (VAT) rate to 21% as of January 2018, with the goal of reducing its public debt.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$11.36 billion note: data are in 2017 dollars (2020 est.)<br>
-$13.39 billion note: data are in 2017 dollars (2019 est.)<br>
-$12.87 billion note: data are in 2017 dollars (2018 est.)<br>
+$11.36 billion (2020 est.)<br>
+$13.39 billion (2019 est.)<br>
+$12.87 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -408,9 +408,9 @@ $12.87 billion note: data are in 2017 dollars (2018 est.)<br>
 3.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$18,300 note: data are in 2017 dollars (2020 est.)<br>
-$21,500 note: data are in 2017 dollars (2019 est.)<br>
-$20,700 note: data are in 2017 dollars (2018 est.)<br>
+$18,300 (2020 est.)<br>
+$21,500 (2019 est.)<br>
+$20,700 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -710,7 +710,7 @@ Montenegro officially became a member of NATO in 2017; Greece and Italy provide 
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 20,997 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
+<strong>note:</strong> 21,025 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

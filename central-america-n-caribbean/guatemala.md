@@ -395,9 +395,9 @@ _selected World Heritage Site locales_: Antigua Guatemala (c), Tikal National Pa
 <p>Guatemala is the most populous country in Central America with a GDP per capita roughly half the average for Latin America and the Caribbean. The agricultural sector accounts for 13.5% of GDP and 31% of the labor force; key agricultural exports include sugar, coffee, bananas, and vegetables. Guatemala is the top remittance recipient in Central America as a result of Guatemala's large expatriate community in the US. These inflows are a primary source of foreign income, equivalent to two-thirds of the country's exports and about a tenth of its GDP.</p><p></p><p>The 1996 peace accords, which ended 36 years of civil war, removed a major obstacle to foreign investment, and Guatemala has since pursued important reforms and macroeconomic stabilization. The Dominican Republic-Central America Free Trade Agreement (CAFTA-DR) entered into force in July 2006, spurring increased investment and diversification of exports, with the largest increases in ethanol and non-traditional agricultural exports. While CAFTA-DR has helped improve the investment climate, concerns over security, the lack of skilled workers, and poor infrastructure continue to hamper foreign direct investment.</p><p></p><p>The distribution of income remains highly unequal with the richest 20% of the population accounting for more than 51% of Guatemala's overall consumption. More than half of the population is below the national poverty line, and 23% of the population lives in extreme poverty. Poverty among indigenous groups, which make up more than 40% of the population, averages 79%, with 40% of the indigenous population living in extreme poverty. Nearly one-half of Guatemala's children under age five are chronically malnourished, one of the highest malnutrition rates in the world.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$141.5 billion note: data are in 2017 dollars (2020 est.)<br>
-$143.68 billion note: data are in 2017 dollars (2019 est.)<br>
-$138.33 billion note: data are in 2017 dollars (2018 est.)<br>
+$141.5 billion (2020 est.)<br>
+$143.68 billion (2019 est.)<br>
+$138.33 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -406,9 +406,9 @@ $138.33 billion note: data are in 2017 dollars (2018 est.)<br>
 4.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$8,400 note: data are in 2017 dollars (2020 est.)<br>
-$8,700 note: data are in 2017 dollars (2019 est.)<br>
-$8,500 note: data are in 2017 dollars (2018 est.)<br>
+$8,400 (2020 est.)<br>
+$8,700 (2019 est.)<br>
+$8,500 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

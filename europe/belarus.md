@@ -390,10 +390,10 @@ _selected World Heritage Site locales_: Białowieża Forest (n); Mir Castle Comp
 <p>As part of the former Soviet Union, Belarus had a relatively well-developed industrial base, but it is now outdated, inefficient, and dependent on subsidized Russian energy and preferential access to Russian markets. The country’s agricultural base is largely dependent on government subsidies. Following the collapse of the Soviet Union, an initial burst of economic reforms included privatization of state enterprises, creation of private property rights, and the acceptance of private entrepreneurship, but by 1994 the reform effort dissipated. About 80% of industry remains in state hands, and foreign investment has virtually disappeared. Several businesses have been renationalized. State-owned entities account for 70-75% of GDP, and state banks make up 75% of the banking sector.</p><p></p><p>Economic output declined for several years following the break-up of the Soviet Union, but revived in the mid-2000s. Belarus has only small reserves of crude oil and imports crude oil and natural gas from Russia at subsidized, below market, prices. Belarus derives export revenue by refining Russian crude and selling it at market prices. Russia and Belarus have had serious disagreements over prices and quantities for Russian energy. Beginning in early 2016, Russia claimed Belarus began accumulating debt – reaching $740 million by April 2017 – for paying below the agreed price for Russian natural gas and Russia cut back its export of crude oil as a result of the debt. In April 2017, Belarus agreed to pay its gas debt and Russia restored the flow of crude.</p><p></p><p>New non-Russian foreign investment has been limited in recent years, largely because of an unfavorable financial climate. In 2011, a financial crisis lead to a nearly three-fold devaluation of the Belarusian ruble. The Belarusian economy has continued to struggle under the weight of high external debt servicing payments and a trade deficit. In mid-December 2014, the devaluation of the Russian ruble triggered a near 40% devaluation of the Belarusian ruble.</p><p></p><p>Belarus’s economy stagnated between 2012 and 2016, widening productivity and income gaps between Belarus and neighboring countries. Budget revenues dropped because of falling global prices on key Belarusian export commodities. Since 2015, the Belarusian government has tightened its macro-economic policies, allowed more flexibility to its exchange rate, taken some steps towards price liberalization, and reduced subsidized government lending to state-owned enterprises. Belarus returned to modest growth in 2017, largely driven by improvement of external conditions and Belarus issued sovereign debt for the first time since 2011, which provided the country with badly-needed liquidity, and issued $600 million worth of Eurobonds in February 2018, predominantly to US and British investors.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$179.97 billion note: data are in 2017 dollars (2020 est.)<br>
-$181.61 billion note: data are in 2017 dollars (2019 est.)<br>
-$179.1 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$179.97 billion (2020 est.)<br>
+$181.61 billion (2019 est.)<br>
+$179.1 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.22% (2019 est.)<br>
@@ -401,10 +401,10 @@ $179.1 billion note: data are in 2017 dollars (2018 est.)<br>
 2.53% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$19,100 note: data are in 2017 dollars (2020 est.)<br>
-$19,300 note: data are in 2017 dollars (2019 est.)<br>
-$18,900 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$19,100 (2020 est.)<br>
+$19,300 (2019 est.)<br>
+$18,900 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $63.168 billion (2019 est.)<br>
@@ -714,7 +714,7 @@ note - conscripts can be assigned to the military, as well as the Ministry of In
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,317 (Ukraine) (as of 4 April 2022)<br>
+_refugees (country of origin)_: 21,852 (Ukraine) (as of 12 April 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

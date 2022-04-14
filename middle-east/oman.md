@@ -376,8 +376,8 @@ _selected World Heritage Site locales_: Bahla Fort; Archaeological Sites of Bat;
 <p>Oman is heavily dependent on oil and gas resources, which can generate between and 68% and 85% of government revenue, depending on fluctuations in commodity prices. In 2016, low global oil prices drove Oman’s budget deficit to $13.8 billion, or approximately 20% of GDP, but the budget deficit is estimated to have reduced to 12% of GDP in 2017 as Oman reduced government subsidies. As of January 2018, Oman has sufficient foreign assets to support its currency’s fixed exchange rates. It is issuing debt to cover its deficit.</p><p></p><p>Oman is using enhanced oil recovery techniques to boost production, but it has simultaneously pursued a development plan that focuses on diversification, industrialization, and privatization, with the objective of reducing the oil sector's contribution to GDP. The key components of the government's diversification strategy are tourism, shipping and logistics, mining, manufacturing, and aquaculture.</p><p></p><p>Muscat also has notably focused on creating more Omani jobs to employ the rising number of nationals entering the workforce. However, high social welfare benefits - that had increased in the wake of the 2011 Arab Spring - have made it impossible for the government to balance its budget in light of current oil prices. In response, Omani officials imposed austerity measures on its gasoline and diesel subsidies in 2016. These spending cuts have had only a moderate effect on the government’s budget, which is projected to again face a deficit of $7.8 billion in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$135.79 billion note: data are in 2017 dollars (2019 est.)<br>
-$136.92 billion note: data are in 2017 dollars (2018 est.)<br>
+$135.79 billion (2019 est.)<br>
+$136.92 billion (2018 est.)<br>
 $135.696 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -390,7 +390,6 @@ $135.696 billion (2017 est.)<br>
 $27,300 note: data are in 2017 dollars (2019 est.)<br>
 $28,400 note: data are in 2017 dollars (2018 est.)<br>
 $29,082 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $76.883 billion (2019 est.)<br>
@@ -685,7 +684,7 @@ the SAF's inventory includes a mix of older and some more modern weapons systems
 <p>the Sultan’s Armed Forces (SAF) have a longstanding security relationship with the British military going back to the 18th century; as of 2021, the SAF and the British maintained a joint training base in Oman and exercised together regularly; in 2017, Oman and the British signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port</p><br>
 
 **Maritime threats**<br>
-<p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-003A Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Red Sea-Threats to US and International Shipping from Iran) effective 26 February 2021, which states in part that "heightened military activities and increased political tensions in this region continue to present risk to commercial shipping...there is a continued possibility that Iran and/or its regional proxies could take actions against US and partner interests in the region"; Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>
+<p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-003 Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Red Sea-Threats to US and International Shipping from Iran) effective 28 February 2022, which states in part that "heightened military activities and increased political tensions in this region continue to present risk to commercial shipping...there is a continued possibility that Iran and/or its regional proxies could take actions against US and partner interests in the region"; Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>
 
 ## Transnational Issues
 

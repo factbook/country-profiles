@@ -419,10 +419,10 @@ _selected World Heritage Site locales_: Old Towns of Djenn&eacute; (c), Timbuktu
 <p>Among the 25 poorest countries in the world, landlocked Mali depends on gold mining and agricultural exports for revenue. The country's fiscal status fluctuates with gold and agricultural commodity prices and the harvest; cotton and gold exports make up around 80% of export earnings. Mali remains dependent on foreign aid.</p><p></p><p>Economic activity is largely confined to the riverine area irrigated by the Niger River; about 65% of Mali’s land area is desert or semidesert. About 10% of the population is nomadic and about 80% of the labor force is engaged in farming and fishing. Industrial activity is concentrated on processing farm commodities. The government subsidizes the production of cereals to decrease the country’s dependence on imported foodstuffs and to reduce its vulnerability to food price shocks.</p><p></p><p>Mali is developing its iron ore extraction industry to diversify foreign exchange earnings away from gold, but the pace will depend on global price trends. Although the political coup in 2012 slowed Mali’s growth, the economy has since bounced back, with GDP growth above 5% in 2014-17, although physical insecurity, high population growth, corruption, weak infrastructure, and low levels of human capital continue to constrain economic development. Higher rainfall helped to boost cotton output in 2017, and the country’s 2017 budget increased spending more than 10%, much of which was devoted to infrastructure and agriculture. Corruption and political turmoil are strong downside risks in 2018 and beyond.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$44.89 billion note: data are in 2017 dollars (2020 est.)<br>
-$45.64 billion note: data are in 2017 dollars (2019 est.)<br>
-$43.57 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$44.89 billion (2020 est.)<br>
+$45.64 billion (2019 est.)<br>
+$43.57 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.4% (2017 est.)<br>
@@ -430,10 +430,10 @@ $43.57 billion note: data are in 2017 dollars (2018 est.)<br>
 6.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,200 note: data are in 2017 dollars (2020 est.)<br>
-$2,300 note: data are in 2017 dollars (2019 est.)<br>
-$2,300 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$2,200 (2020 est.)<br>
+$2,300 (2019 est.)<br>
+$2,300 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $17.508 billion (2019 est.)<br>
@@ -635,10 +635,10 @@ _total subscriptions_: 25,315,598 (2020)<br>
 _subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Mali&rsquo;s telecom systems are challenged by recent conflict, geography, areas of low population, poverty, security issues, and high illiteracy; telecom infrastructure is barely adequate in urban areas and not available in most of the country with underinvestment in fixed-line networks; high mobile penetration and potential for mobile broadband service; local plans for IXP; dependent on neighboring countries for international bandwidth and access to submarine cables; Chinese investment in infrastructure stymied by security issues; importer of broadcasting equipment from China (2020)<br>
+_general assessment_: Mali&rsquo;s telecom systems are challenged by recent conflict, geography, areas of low population, poverty, security issues, and high illiteracy; telecom infrastructure is barely adequate in urban areas and not available in most of the country with underinvestment in fixed-line networks; high mobile penetration and potential for mobile broadband service; local plans for IXP; dependent on neighboring countries for international bandwidth and access to submarine cables; there are Chinese investment agreements for infrastructure; importer of broadcasting equipment from China (2022)<br>
 _domestic_: fixed-line subscribership is over 1 per 100 persons; mobile-cellular subscribership has increased sharply to 125 per 100 persons; increasing use of local radio loops to extend network coverage to remote areas (2020)<br>
 _international_: country code - 223; satellite communications center and fiber-optic links to neighboring countries; satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation is slow; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
 national public TV broadcaster; 2 privately owned companies provide subscription services to foreign multi-channel TV packages; national public radio broadcaster supplemented by a large number of privately owned and community broadcast stations; transmissions of multiple international broadcasters are available (2019)<br>
@@ -720,7 +720,7 @@ the FAMa's inventory consists primarily of Soviet-era equipment, although in rec
 Mali is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mauritania, and Niger; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane&nbsp;<br>
 
 **Military - note**<br>
-prior to the coups in August 2020 and May 2021, the Malian military had intervened in the political arena at least five times since the country gained independence in 1960; two attempts failed (1976 and 1978), while three succeeded in overturning civilian rule (1968, 1991, and 2012); the military collapsed in 2012 during the fighting against Tuareg rebels and Islamic militants; it has been since rebuilt, but continues to have limited capabilities and is heavily reliant on external assistance <br><br>as of 2022, Malian security forces were conducting operations against insurgents and terrorist groups in the eastern, central, and northern parts of the country<br><br>the United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) has operated in the country since 2013; the Mission's responsibilities include providing security, rebuilding Malian security forces, supporting national political dialogue, and assisting in the reestablishment of Malian government authority; as of November 2021, MINUSMA had around 18,000 personnel deployed; in June 2021, MINUSMA's mission was extended until the end of June 2022<br><br>the European Union Training Mission in Mali (EUTM-M) and the French military have also operated in the country since 2013; the EUTM-M provides advice and training to the Malian Armed Forces and military assistance to the G5 Sahel Joint Force; as 2021, the mission included almost 700 personnel from 25 European countries; as of early 2022, the French had approximately 2,400 troops providing military assistance and conducting counter-terrorism/counter-insurgency operations; note - in February 2022, the EU and France both announced they would remove their personnel from Mali, citing obstructions from the ruling military government<br>
+prior to the coups in August 2020 and May 2021, the Malian military had intervened in the political arena at least five times since the country gained independence in 1960; two attempts failed (1976 and 1978), while three succeeded in overturning civilian rule (1968, 1991, and 2012); the military collapsed in 2012 during the fighting against Tuareg rebels and Islamic militants; it has been since rebuilt, but continues to have limited capabilities and is heavily reliant on external assistance <br><br>as of 2022, Malian security forces were conducting operations against insurgents and terrorist groups in the eastern, central, and northern parts of the country<br><br>the United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) has operated in the country since 2013; the Mission's responsibilities include providing security, rebuilding Malian security forces, supporting national political dialogue, and assisting in the reestablishment of Malian government authority; as of November 2021, MINUSMA had around 18,000 personnel deployed; in June 2021, MINUSMA's mission was extended until the end of June 2022<br><br>the European Union Training Mission in Mali (EUTM-M) and the French military have also operated in the country since 2013; the EUTM-M provides advice and training to the Malian Armed Forces and military assistance to the G5 Sahel Joint Force; as 2021, the mission included almost 700 personnel from 25 European countries; as of early 2022, the French had approximately 2,400 troops providing military assistance and conducting counter-terrorism/counter-insurgency operations; note - in February 2022, France announced it would remove its personnel from Mali, citing obstructions from the ruling military government; in April of 2022, the EU said it would halt its training program in Mali<br>
 
 ## Terrorism
 
@@ -734,7 +734,7 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara; Jama'at
 <p>demarcation is underway with Burkina Faso</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,910 (Niger), 14,965 (Mauritania), 14,932 (Burkina Faso) (2022)<br>
+_refugees (country of origin)_: 21,645 (Niger), 14,965 (Mauritania), 14,934 (Burkina Faso) (2022)<br>
 _IDPs_: 350,110 (Tuareg rebellion since 2012) (2021)<br>
 
 **Trafficking in persons**<br>

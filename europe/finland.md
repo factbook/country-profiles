@@ -329,7 +329,7 @@ _election results_: Sauli NIINISTO reelected president; percent of vote Sauli NI
 **Legislative branch**<br>
 _description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: last held on 14 April 2019 (next to be held in April 2023)<br>
-_election results_: percent of vote by party/coalition - SDP 17.7%, PS 17.5%, Kok 17.0%. Center Party&nbsp; 13.8%, Vihr 11.5%, Vas 8.2%, SFP 4.5%, KD 3.9%, other 5.9%; seats by party/coalition - SDP 40, PS 39, Kok 38, Centre Party 31, Vihr 20, Vas 16, SFP 9, KD 5; composition men 108, women 92, percent of women 46%<br>
+_election results_: percent of vote by party/coalition - SDP 17.7%, PS 17.5%, Kok 17.0%. Center Party&nbsp; 13.8%, Vihr 11.5%, Vas 8.2%, SFP 4.5%, KD 3.9%, other 5.9%; seats by party/coalition - SDP 40, PS 39, Kok 38, Centre Party 31, Vihr 20, Vas 16, SFP 9, KD 5; composition men 109, women 91, percent of women 45.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
@@ -379,10 +379,10 @@ _selected World Heritage Site locales_: Fortress of Suomenlinna (c), Old Rauma (
 <p>Finland has a highly industrialized, largely free-market economy with per capita GDP almost as high as that of Austria and the Netherlands and slightly above that of Germany and Belgium. Trade is important, with exports accounting for over one-third of GDP in recent years. The government is open to, and actively takes steps to attract, foreign direct investment.</p><p></p><p>Finland is historically competitive in manufacturing, particularly in the wood, metals, engineering, telecommunications, and electronics industries. Finland excels in export of technology as well as promotion of startups in the information and communications technology, gaming, cleantech, and biotechnology sectors. Except for timber and several minerals, Finland depends on imports of raw materials, energy, and some components for manufactured goods. Because of the cold climate, agricultural development is limited to maintaining self-sufficiency in basic products. Forestry, an important export industry, provides a secondary occupation for the rural population.</p><p></p><p>Finland had been one of the best performing economies within the EU before 2009 and its banks and financial markets avoided the worst of global financial crisis. However, the world slowdown hit exports and domestic demand hard in that year, causing Finland’s economy to contract from 2012 to 2014. The recession affected general government finances and the debt ratio. The economy returned to growth in 2016, posting a 1.9% GDP increase before growing an estimated 3.3% in 2017, supported by a strong increase in investment, private consumption, and net exports. Finnish economists expect GDP to grow a rate of 2-3% in the next few years.</p><p></p><p>Finland's main challenges will be reducing high labor costs and boosting demand for its exports. In June 2016, the government enacted a Competitiveness Pact aimed at reducing labor costs, increasing hours worked, and introducing more flexibility into the wage bargaining system. As a result, wage growth was nearly flat in 2017. The Government was also seeking to reform the health care system and social services. In the long term, Finland must address a rapidly aging population and decreasing productivity in traditional industries that threaten competitiveness, fiscal sustainability, and economic growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$261.39 billion note: data are in 2017 dollars (2020 est.)<br>
-$268.84 billion note: data are in 2017 dollars (2019 est.)<br>
-$265.46 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$261.39 billion (2020 est.)<br>
+$268.84 billion (2019 est.)<br>
+$265.46 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.15% (2019 est.)<br>
@@ -390,10 +390,10 @@ $265.46 billion note: data are in 2017 dollars (2018 est.)<br>
 3.27% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$47,300 note: data are in 2017 dollars (2020 est.)<br>
-$48,700 note: data are in 2017 dollars (2019 est.)<br>
-$48,100 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$47,300 (2020 est.)<br>
+$48,700 (2019 est.)<br>
+$48,100 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $269.259 billion (2019 est.)<br>

@@ -362,9 +362,9 @@ _selected World Heritage Site locales_: Chief Roi Mata&rsquo;s Domain<br>
 <p>This South Pacific island economy is based primarily on small-scale agriculture, which provides a living for about two thirds of the population. Fishing, offshore financial services, and tourism, with more than 330,000 visitors in 2017, are other mainstays of the economy. Tourism has struggled after Efate, the most populous and most popular island for tourists, was damaged by Tropical Cyclone Pam in 2015. Ongoing infrastructure difficulties at Port Vila’s Bauerfield Airport have caused air travel disruptions, further hampering tourism numbers. Australia and New Zealand are the main source of tourists and foreign aid. A small light industry sector caters to the local market. Tax revenues come mainly from import duties. Mineral deposits are negligible; the country has no known petroleum deposits.</p><p></p><p>Economic development is hindered by dependence on relatively few commodity exports, vulnerability to natural disasters, and long distances from main markets and between constituent islands. In response to foreign concerns, the government has promised to tighten regulation of its offshore financial center.</p><p></p><p>Since 2002, the government has stepped up efforts to boost tourism through improved air connections, resort development, and cruise ship facilities. Agriculture, especially livestock farming, is a second target for growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$850 million note: data are in 2017 dollars (2020 est.)<br>
-$930 million note: data are in 2017 dollars (2019 est.)<br>
-$910 million note: data are in 2017 dollars (2018 est.)<br>
+$850 million (2020 est.)<br>
+$930 million (2019 est.)<br>
+$910 million (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -373,9 +373,9 @@ $910 million note: data are in 2017 dollars (2018 est.)<br>
 0.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,800 note: data are in 2017 dollars (2020 est.)<br>
-$3,100 note: data are in 2017 dollars (2019 est.)<br>
-$3,100 note: data are in 2017 dollars (2018 est.)<br>
+$2,800 (2020 est.)<br>
+$3,100 (2019 est.)<br>
+$3,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

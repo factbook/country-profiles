@@ -397,10 +397,10 @@ _selected World Heritage Site locales_: Tsingy de Bemaraha Strict Nature Reserve
 <p>Madagascar is a mostly unregulated economy with many untapped natural resources, but no capital markets, a weak judicial system, poorly enforced contracts, and rampant government corruption. The country faces challenges to improve education, healthcare, and the environment to boost long-term economic growth. Agriculture, including fishing and forestry, is a mainstay of the economy, accounting for more than one-fourth of GDP and employing roughly 80% of the population. Deforestation and erosion, aggravated by bushfires, slash-and-burn clearing techniques, and the use of firewood as the primary source of fuel, are serious concerns to the agriculture dependent economy.</p><p></p><p>After discarding socialist economic policies in the mid-1990s, Madagascar followed a World Bank- and IMF-led policy of privatization and liberalization until a 2009 coup d’état led many nations, including the United States, to suspend non-humanitarian aid until a democratically-elected president was inaugurated in 2014. The pre-coup strategy had placed the country on a slow and steady growth path from an extremely low starting point. Exports of apparel boomed after gaining duty-free access to the US market in 2000 under the African Growth and Opportunity Act (AGOA); however, Madagascar's failure to comply with the requirements of the AGOA led to the termination of the country's duty-free access in January 2010, a sharp fall in textile production, a loss of more than 100,000 jobs, and a GDP drop of nearly 11%.</p><p></p><p>Madagascar regained AGOA access in January 2015 and ensuing growth has been slow and fragile. Madagascar produces around 80% of the world’s vanilla and its reliance on this commodity for most of its foreign exchange is a significant source of vulnerability. Economic reforms have been modest and the country’s financial sector remains weak, limiting the use of monetary policy to control inflation. An ongoing IMF program aims to strengthen financial and investment management capacity.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$41.82 billion note: data are in 2017 dollars (2020 est.)<br>
-$43.65 billion note: data are in 2017 dollars (2019 est.)<br>
-$41.81 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$41.82 billion (2020 est.)<br>
+$43.65 billion (2019 est.)<br>
+$41.81 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.2% (2017 est.)<br>
@@ -408,10 +408,10 @@ $41.81 billion note: data are in 2017 dollars (2018 est.)<br>
 3.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,500 note: data are in 2017 dollars (2020 est.)<br>
-$1,600 note: data are in 2017 dollars (2019 est.)<br>
-$1,600 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$1,500 (2020 est.)<br>
+$1,600 (2019 est.)<br>
+$1,600 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $13.964 billion (2019 est.)<br>

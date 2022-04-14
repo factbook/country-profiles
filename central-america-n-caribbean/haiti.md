@@ -382,9 +382,9 @@ _selected World Heritage Site locales_: National History Park &ndash; Citadel, S
 <p>Haiti is a free market economy with low labor costs and tariff-free access to the US for many of its exports. Two-fifths of all Haitians depend on the agricultural sector, mainly small-scale subsistence farming, which remains vulnerable to damage from frequent natural disasters. Poverty, corruption, vulnerability to natural disasters, and low levels of education for much of the population represent some of the most serious impediments to Haiti’s economic growth. Remittances are the primary source of foreign exchange, equivalent to more than a quarter of GDP, and nearly double the combined value of Haitian exports and foreign direct investment.</p><p></p><p>Currently the poorest country in the Western Hemisphere, with close to 60% of the population living under the national poverty line, Haiti’s GDP growth rose to 5.5% in 2011 as the Haitian economy began recovering from the devastating January 2010 earthquake that destroyed much of its capital city, Port-au-Prince, and neighboring areas. However, growth slowed to below 2% in 2015 and 2016 as political uncertainty, drought conditions, decreasing foreign aid, and the depreciation of the national currency took a toll on investment and economic growth. Hurricane Matthew, the fiercest Caribbean storm in nearly a decade, made landfall in Haiti on 4 October 2016, with 140 mile-per-hour winds, creating a new humanitarian emergency. An estimated 2.1 million people were affected by the category 4 storm, which caused extensive damage to crops, houses, livestock, and infrastructure across Haiti’s southern peninsula.</p><p></p><p>US economic engagement under the Caribbean Basin Trade Partnership Act (CBTPA) and the 2008 Haitian Hemispheric Opportunity through Partnership Encouragement Act (HOPE II) have contributed to an increase in apparel exports and investment by providing duty-free access to the US. The Haiti Economic Lift Program (HELP) Act of 2010 extended the CBTPA and HOPE II until 2020, while the Trade Preferences Extension Act of 2015 extended trade benefits provided to Haiti in the HOPE and HELP Acts through September 2025. Apparel sector exports in 2016 reached approximately $850 million and account for over 90% of Haitian exports and more than 10% of the GDP.</p><p></p><p>Investment in Haiti is hampered by the difficulty of doing business and weak infrastructure, including access to electricity. Haiti's outstanding external debt was cancelled by donor countries following the 2010 earthquake, but has since risen to $2.6 billion as of December 2017, the majority of which is owed to Venezuela under the PetroCaribe program. Although the government has increased its revenue collection, it continues to rely on formal international economic assistance for fiscal sustainability, with over 20% of its annual budget coming from foreign aid or direct budget support.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$31.62 billion note: data are in 2017 dollars (2020 est.)<br>
-$32.72 billion note: data are in 2017 dollars (2019 est.)<br>
-$33.28 billion note: data are in 2017 dollars (2018 est.)<br>
+$31.62 billion (2020 est.)<br>
+$32.72 billion (2019 est.)<br>
+$33.28 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -393,9 +393,9 @@ $33.28 billion note: data are in 2017 dollars (2018 est.)<br>
 1.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,800 note: data are in 2017 dollars (2020 est.)<br>
-$2,900 note: data are in 2017 dollars (2019 est.)<br>
-$3,000 note: data are in 2017 dollars (2018 est.)<br>
+$2,800 (2020 est.)<br>
+$2,900 (2019 est.)<br>
+$3,000 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -661,6 +661,9 @@ not available<br>
 
 **Military - note**<br>
 <p>according to the Haitian Government, the mission of the reconstituted armed forces will focus on patrolling the border with the Dominican Republic, combating smuggling, and executing recovery efforts after natural disasters</p> <p>the UN Stabilization Mission in Haiti (MINUSTAH) operated in Haiti from 2004 until 2017; its mission was to help restore stability after President Bertrand ARISTIDE fled the country, including assisting with the political process, strengthening government institutions, and promoting and protecting human rights; following the completion of MINUSTAH’s mandate in 2017, a smaller peacekeeping mission, the UN Mission for Justice Support in Haiti (MINUJUSTH), operated until 2019; its mission was to assist with the further development and strengthening of the national police, as well as Haiti’s justice and prison systems, and to promote and protect human rights; in 2019, the UN established the UN Integrated Office in Haiti (BINUH) with the political mission of advising the Haiti Government in elections, governance, and security; as of 2021, BINUH continued to operate</p><br>
+
+**Maritime threats**<br>
+the International Maritime Bureau reports the territorial waters of Haiti are a risk for armed robbery against ships; in 2021, four attacks against commercial vessels were reported, a slight decrease from the five attacks reported in 2020; most of these occurred in the main port of Port-au-Prince while ships were berthed or at anchor<br>
 
 ## Transnational Issues
 

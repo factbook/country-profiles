@@ -377,8 +377,8 @@ _lyrics/music_: Ahmad MUSHARI al-Adwani/Ibrahim Nasir al-SOULA<br>
 <p>Kuwait has a geographically small, but wealthy, relatively open economy with crude oil reserves of about 102 billion barrels - more than 6% of world reserves. Kuwaiti officials plan to increase production to 4 million barrels of oil equivalent per day by 2020. Petroleum accounts for over half of GDP, 92% of export revenues, and 90% of government income.</p><p></p><p>With world oil prices declining, Kuwait realized a budget deficit in 2015 for the first time more than a decade; in 2016, the deficit grew to 16.5% of GDP. Kuwaiti authorities announced cuts to fuel subsidies in August 2016, provoking outrage among the public and National Assembly, and the Amir dissolved the government for the seventh time in ten years. In 2017 the deficit was reduced to 7.2% of GDP, and the government raised $8 billion by issuing international bonds. Despite Kuwait’s dependence on oil, the government has cushioned itself against the impact of lower oil prices, by saving annually at least 10% of government revenue in the Fund for Future Generations.</p><p></p><p>Kuwait has failed to diversify its economy or bolster the private sector, because of a poor business climate, a large public sector that employs about 74% of citizens, and an acrimonious relationship between the National Assembly and the executive branch that has stymied most economic reforms. The Kuwaiti Government has made little progress on its long-term economic development plan first passed in 2010. While the government planned to spend up to $104 billion over four years to diversify the economy, attract more investment, and boost private sector participation in the economy, many of the projects did not materialize because of an uncertain political situation or delays in awarding contracts. To increase non-oil revenues, the Kuwaiti Government in August 2017 approved draft bills supporting a Gulf Cooperation Council-wide value added tax scheduled to take effect in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$209.74 billion note: data are in 2017 dollars (2019 est.)<br>
-$208.85 billion note: data are in 2017 dollars (2018 est.)<br>
+$209.74 billion (2019 est.)<br>
+$208.85 billion (2018 est.)<br>
 $206.274 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -391,7 +391,6 @@ $206.274 billion (2017 est.)<br>
 $49,900 note: data are in 2017 dollars (2019 est.)<br>
 $50,500 note: data are in 2017 dollars (2018 est.)<br>
 $50,856 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $134.638 billion (2019 est.)<br>

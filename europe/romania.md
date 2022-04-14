@@ -394,10 +394,10 @@ _selected World Heritage Site locales_: Danube Delta (n), Churches of Moldavia (
 <p>Romania, which joined the EU on 1 January 2007, began the transition from communism in 1989 with a largely obsolete industrial base and a pattern of output unsuited to the country's needs. Romania's macroeconomic gains have only recently started to spur creation of a middle class and to address Romania's widespread poverty. Corruption and red tape continue to permeate the business environment.</p><p></p><p>In the aftermath of the global financial crisis, Romania signed a $26 billion emergency assistance package from the IMF, the EU, and other international lenders, but GDP contracted until 2011. In March 2011, Romania and the IMF/EU/World Bank signed a 24-month precautionary standby agreement, worth $6.6 billion, to promote fiscal discipline, encourage progress on structural reforms, and strengthen financial sector stability; no funds were drawn. In September 2013, Romanian authorities and the IMF/EU agreed to a follow-on standby agreement, worth $5.4 billion, to continue with reforms. This agreement expired in September 2015, and no funds were drawn. Progress on structural reforms has been uneven, and the economy still is vulnerable to external shocks.</p><p></p><p>Economic growth rebounded in the 2013-17 period, driven by strong industrial exports, excellent agricultural harvests, and, more recently, expansionary fiscal policies in 2016-2017 that nearly quadrupled Bucharest’s annual fiscal deficit, from +0.8% of GDP in 2015 to -3% of GDP in 2016 and an estimated -3.4% in 2017. Industry outperformed other sectors of the economy in 2017. Exports remained an engine of economic growth, led by trade with the EU, which accounts for roughly 70% of Romania trade. Domestic demand was the major driver, due to tax cuts and large wage increases that began last year and are set to continue in 2018.</p><p></p><p>An aging population, emigration of skilled labor, significant tax evasion, insufficient health care, and an aggressive loosening of the fiscal package compromise Romania’s long-term growth and economic stability and are the economy's top vulnerabilities.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$556.07 billion note: data are in 2017 dollars (2020 est.)<br>
-$578.39 billion note: data are in 2017 dollars (2019 est.)<br>
-$555.47 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$556.07 billion (2020 est.)<br>
+$578.39 billion (2019 est.)<br>
+$555.47 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.2% (2019 est.)<br>
@@ -405,10 +405,10 @@ $555.47 billion note: data are in 2017 dollars (2018 est.)<br>
 7.11% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$28,800 note: data are in 2017 dollars (2020 est.)<br>
-$29,900 note: data are in 2017 dollars (2019 est.)<br>
-$28,500 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$28,800 (2020 est.)<br>
+$29,900 (2019 est.)<br>
+$28,500 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $249.543 billion (2019 est.)<br>
@@ -727,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 654,825 (Ukraine) (as of 5 April 2022)<br>
+_refugees (country of origin)_: 709,249 (Ukraine) (as of 12 April 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 9,519 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
 

@@ -327,9 +327,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Salome ZOURABICHVILI elected president in runoff; percent of vote - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats; 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
+_description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats statutory, 144 current; 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
 _elections_: last held on 31 October and 21 November 2020 (next to be held in October 2024)<br>
-_election results_: percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1; composition (as of October 2021) - men 121, women 29, percent of women 19.3%<br>
+_election results_: percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1; composition (as of October 2021) - men 117, women 27, percent of women 18.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 28 judges organized into several specialized judicial chambers; number of judges determined by the president of Georgia); Constitutional Court (consists of 9 judges); note - the Abkhazian and Ajarian Autonomous republics each have a supreme court and a hierarchy of lower courts<br>
@@ -379,9 +379,9 @@ _selected World Heritage Site locales_: Gelati Monastery (c), Historical Monumen
 <p>Georgia's main economic activities include cultivation of agricultural products such as grapes, citrus fruits, and hazelnuts; mining of manganese, copper, and gold; and producing alcoholic and nonalcoholic beverages, metals, machinery, and chemicals in small-scale industries. The country imports nearly all of its needed supplies of natural gas and oil products. It has sizeable hydropower capacity that now provides most of its electricity needs.</p><p></p><p>Georgia has overcome the chronic energy shortages and gas supply interruptions of the past by renovating hydropower plants and by increasingly relying on natural gas imports from Azerbaijan instead of from Russia. Construction of the Baku-Tbilisi-Ceyhan oil pipeline, the South Caucasus gas pipeline, and the Baku-Tbilisi-Kars railroad are part of a strategy to capitalize on Georgia's strategic location between Europe and Asia and develop its role as a transit hub for gas, oil, and other goods.</p><p></p><p>Georgia's economy sustained GDP growth of more than 10% in 2006-07, based on strong inflows of foreign investment, remittances, and robust government spending. However, GDP growth slowed following the August 2008 conflict with Russia, and sank to negative 4% in 2009 as foreign direct investment and workers' remittances declined in the wake of the global financial crisis. The economy rebounded in the period 2010-17, but FDI inflows, the engine of Georgian economic growth prior to the 2008 conflict, have not recovered fully. Unemployment remains persistently high.</p><p></p><p>The country is pinning its hopes for faster growth on a continued effort to build up infrastructure, enhance support for entrepreneurship, simplify regulations, and improve professional education, in order to attract foreign investment and boost employment, with a focus on transportation projects, tourism, hydropower, and agriculture. Georgia had historically suffered from a chronic failure to collect tax revenues; however, since 2004 the government has simplified the tax code, increased tax enforcement, and cracked down on petty corruption, leading to higher revenues. The government has received high marks from the World Bank for improvements in business transparency. Since 2012, the Georgian Dream-led government has continued the previous administration's low-regulation, low-tax, free market policies, while modestly increasing social spending and amending the labor code to comply with International Labor Standards. In mid-2014, Georgia concluded an association agreement with the EU, paving the way to free trade and visa-free travel. In 2017, Georgia signed Free Trade Agreement (FTA) with China as part of Tbilisi’s efforts to diversify its economic ties. Georgia is seeking to develop its Black Sea ports to further facilitate East-West trade.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$52.33 billion note: data are in 2017 dollars (2020 est.)<br>
-$55.76 billion note: data are in 2017 dollars (2019 est.)<br>
-$53.12 billion note: data are in 2017 dollars (2018 est.)<br>
+$52.33 billion (2020 est.)<br>
+$55.76 billion (2019 est.)<br>
+$53.12 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -390,9 +390,9 @@ $53.12 billion note: data are in 2017 dollars (2018 est.)<br>
 2.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$14,100 note: data are in 2017 dollars (2020 est.)<br>
-$15,000 note: data are in 2017 dollars (2019 est.)<br>
-$14,300 note: data are in 2017 dollars (2018 est.)<br>
+$14,100 (2020 est.)<br>
+$15,000 (2019 est.)<br>
+$14,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

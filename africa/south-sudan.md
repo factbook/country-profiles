@@ -644,7 +644,7 @@ the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s 
 <p><em>South Sudan- Central African Republic: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights<br><br><em>South Sudan-Kenya:</em> the boundary that separates Kenya and South Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times</p> <p><em>South Sudan-Sudan:</em> present boundary represents 1 January 1956 alignment, which clearly placed the Kafia Kingi area (adjacent to Central African Republic) within South Sudan as shown on US maps although it is mostly occupied by Sudan; final alignment pending negotiations and demarcation; the final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan; Sudan accuses South Sudan of supporting Sudanese rebel groups</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 308,475 (Sudan), 18,514 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 309,025 (Sudan), 18,514 (Democratic Republic of the Congo) (2022)<br>
 _IDPs_: 1,436,000 (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2020)<br>
 _stateless persons_: 10,000 (mid-year 2021)<br>
 

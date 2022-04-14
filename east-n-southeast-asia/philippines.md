@@ -402,10 +402,10 @@ _selected World Heritage Site locales_: Baroque Churches of the Philippines (c),
 <p>The economy has been relatively resilient to global economic shocks due to less exposure to troubled international securities, lower dependence on exports, relatively resilient domestic consumption, large remittances from about 10 million overseas Filipino workers and migrants, and a rapidly expanding services industry. During 2017, the current account balance fell into the negative range, the first time since the 2008 global financial crisis, in part due to an ambitious new infrastructure spending program announced this year. However, international reserves remain at comfortable levels and the banking system is stable.</p><p></p><p>Efforts to improve tax administration and expenditures management have helped ease the Philippines' debt burden and tight fiscal situation. The Philippines received investment-grade credit ratings on its sovereign debt under the former AQUINO administration and has had little difficulty financing its budget deficits. However, weak absorptive capacity and implementation bottlenecks have prevented the government from maximizing its expenditure plans. Although it has improved, the low tax-to-GDP ratio remains a constraint to supporting increasingly higher spending levels and sustaining high and inclusive growth over the longer term.</p><p></p><p>Economic growth has accelerated, averaging over 6% per year from 2011 to 2017, compared with 4.5% under the MACAPAGAL-ARROYO government; and competitiveness rankings have improved. Although 2017 saw a new record year for net foreign direct investment inflows, FDI to the Philippines has continued to lag regional peers, in part because the Philippine constitution and other laws limit foreign investment and restrict foreign ownership in important activities/sectors - such as land ownership and public utilities.</p><p></p><p>Although the economy grew at a rapid pace under the AQUINO government, challenges to achieving more inclusive growth remain. Wealth is concentrated in the hands of the rich. The unemployment rate declined from 7.3% to 5.7% between 2010 and 2017; while there has been some improvement, underemployment remains high at around 17% to 18% of the employed population. At least 40% of the employed work in the informal sector. Poverty afflicts more than a fifth of the total population but is as high as 75% in some areas of the southern Philippines. More than 60% of the poor reside in rural areas, where the incidence of poverty (about 30%) is more severe - a challenge to raising rural farm and non-farm incomes. Continued efforts are needed to improve governance, the judicial system, the regulatory environment, the infrastructure, and the overall ease of doing business.</p><p></p><p>2016 saw the election of President Rodrigo DUTERTE, who has pledged to make inclusive growth and poverty reduction his top priority. DUTERTE believes that illegal drug use, crime and corruption are key barriers to economic development. The administration wants to reduce the poverty rate to 17% and graduate the economy to upper-middle income status by the end of President DUTERTE’s term in 2022. Key themes under the government’s Ten-Point Socioeconomic Agenda include continuity of macroeconomic policy, tax reform, higher investments in infrastructure and human capital development, and improving competitiveness and the overall ease of doing business. The administration sees infrastructure shortcomings as a key barrier to sustained economic growth and has pledged to spend $165 billion on infrastructure by 2022. Although the final outcome has yet to be seen, the current administration is shepherding legislation for a comprehensive tax reform program to raise revenues for its ambitious infrastructure spending plan and to promote a more equitable and efficient tax system. However, the need to finance rehabilitation and reconstruction efforts in the southern region of Mindanao following the 2017 Marawi City siege may compete with other spending on infrastructure.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$871.56 billion note: data are in 2017 dollars (2020 est.)<br>
-$963.83 billion note: data are in 2017 dollars (2019 est.)<br>
-$908.26 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$871.56 billion (2020 est.)<br>
+$963.83 billion (2019 est.)<br>
+$908.26 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 6.04% (2019 est.)<br>
@@ -413,10 +413,10 @@ $908.26 billion note: data are in 2017 dollars (2018 est.)<br>
 6.94% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$8,000 note: data are in 2017 dollars (2020 est.)<br>
-$8,900 note: data are in 2017 dollars (2019 est.)<br>
-$8,500 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$8,000 (2020 est.)<br>
+$8,900 (2019 est.)<br>
+$8,500 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $377.205 billion (2019 est.)<br>
@@ -725,7 +725,7 @@ note - as of 2020, women made up about 6% of the active military; women were all
 <p>the US and Philippines agreed to a mutual defense treaty in 1951; the Philippines has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p> as of 2021, the AFP's primary operational focus was on internal security duties, particularly in the south, where several insurgent and terrorist groups operated and up to 60% of the armed forces were deployed; additional combat operations were being conducted against the Communist Peoples Party/New People’s Army, which was active mostly on Luzon, the Visayas, and areas of Mindanao<br><br>in addition to its typical roles of patrolling and defending the country's maritime claims, the Navy conducts interdiction operations against terrorist, insurgent, and criminal groups around the southern islands; in 2017, the Philippines began conducting joint maritime patrols with Indonesia and Malaysia to counter regional terrorist activities, particularly in the Sulu Sea; the Philippine Marine Corps assists the Army in counterinsurgency operations<br><br>the Philippines National Police (PNP) also has an active role in counterinsurgency and counter-terrorism operations alongside the AFP, particularly the Special Action Force, a PNP commando unit that specializes in counter-terrorism operations<br>
 
 **Maritime threats**<br>
-<p>the International Maritime Bureau reports the territorial waters of littoral states and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; an emerging threat area lies in the Celebes and Sulu Seas between the Philippines and Malaysia where three ships were attacked in 2020; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargoes stolen</p><br>
+<p>the International Maritime Bureau reports the territorial waters of littoral states and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; an emerging threat area lies in the Celebes and Sulu Seas between the Philippines and Malaysia where 11 ships were attacked in 2021; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargoes stolen</p><br>
 
 ## Terrorism
 

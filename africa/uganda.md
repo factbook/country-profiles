@@ -410,9 +410,9 @@ _selected World Heritage Site locales_: Bwindi Impenetrable National Park (c), R
 <p>Uganda has substantial natural resources, including fertile soils, regular rainfall, substantial reserves of recoverable oil, and small deposits of copper, gold, and other minerals. Agriculture is one of the most important sectors of the economy, employing 72% of the work force. The country’s export market suffered a major slump following the outbreak of conflict in South Sudan, but has recovered lately, largely due to record coffee harvests, which account for 16% of exports, and increasing gold exports, which account for 10% of exports. Uganda has a small industrial sector that is dependent on imported inputs such as refined oil and heavy equipment. Overall, productivity is hampered by a number of supply-side constraints, including insufficient infrastructure, lack of modern technology in agriculture, and corruption.</p><p></p><p>Uganda’s economic growth has slowed since 2016 as government spending and public debt has grown. Uganda’s budget is dominated by energy and road infrastructure spending, while Uganda relies on donor support for long-term drivers of growth, including agriculture, health, and education. The largest infrastructure projects are externally financed through concessional loans, but at inflated costs. As a result, debt servicing for these loans is expected to rise.</p><p></p><p>Oil revenues and taxes are expected to become a larger source of government funding as oil production starts in the next three to 10 years. Over the next three to five years, foreign investors are planning to invest $9 billion in production facilities projects, $4 billion in an export pipeline, as well as in a $2-3 billion refinery to produce petroleum products for the domestic and East African Community markets. Furthermore, the government is looking to build several hundred million dollars’ worth of highway projects to the oil region.</p><p></p><p>Uganda faces many economic challenges. Instability in South Sudan has led to a sharp increase in Sudanese refugees and is disrupting Uganda's main export market. Additional economic risks include: poor economic management, endemic corruption, and the government’s failure to invest adequately in the health, education, and economic opportunities for a burgeoning young population. Uganda has one of the lowest electrification rates in Africa - only 22% of Ugandans have access to electricity, dropping to 10% in rural areas.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$99.61 billion note: data are in 2017 dollars (2020 est.)<br>
-$96.84 billion note: data are in 2017 dollars (2019 est.)<br>
-$90.67 billion note: data are in 2017 dollars (2018 est.)<br>
+$99.61 billion (2020 est.)<br>
+$96.84 billion (2019 est.)<br>
+$90.67 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -421,9 +421,9 @@ $90.67 billion note: data are in 2017 dollars (2018 est.)<br>
 5.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,200 note: data are in 2017 dollars (2020 est.)<br>
-$2,200 note: data are in 2017 dollars (2019 est.)<br>
-$2,100 note: data are in 2017 dollars (2018 est.)<br>
+$2,200 (2020 est.)<br>
+$2,200 (2019 est.)<br>
+$2,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -734,7 +734,7 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda have begun a joint demarcation of the boundary in 2021 <br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 962,360 (South Sudan) (refugees and asylum seekers), 459,073 (Democratic Republic of the Congo), 48,555 (Burundi), 55,579 (Somalia) (refugees and asylum seekers), 25,999 (Rwanda), 22,096 (Eritrea) (2022)<br>
+_refugees (country of origin)_: 962,360 (South Sudan) (refugees and asylum seekers), 459,073 (Democratic Republic of the Congo), 48,555 (Burundi), 55,579 (Somalia) (refugees and asylum seekers), 26,092 (Rwanda), 22,843 (Eritrea) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Uganda, and traffickers exploit victims from Uganda abroad; young Ugandan children are exploited in forced labor in agriculture, fishing, forestry, cattle herding, mining, stone quarrying, brick making, carpentry, steel manufacturing, street vending, bars, restaurants, gold mining, and domestic service; traffickers exploit girls and boys in commercial sex; most are children from the northeastern region and are exploited in forced begging, commercial sex in brothels, or sold in markets; traffickers compel&nbsp; children from the Democratic Republic of Congo, Rwanda, Burundi, Kenya, Tanzania, and South Sudan into forced agricultural labor and sex trafficking in Uganda; young women most at risk for transnational trafficking seek employment as domestic workers in the Middle East and then are exploited in sex trafficking; traffickers subject Ugandans to forced labor and sex trafficking in UAE, Saudi Arabia, Oman, Qatar, Kuwait, Iraq, Iran, Egypt, Turkey, Algeria, Malaysia, Thailand, Bahrain, Jordan, China, Kenya, and India; traffickers are often relatives, friends of victims, or religious leaders who receive a fee per worker from recruiters<br>

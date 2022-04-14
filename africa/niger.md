@@ -372,7 +372,7 @@ _election results_: percent of vote in 2020 first round - Mohamed BAZOUM (PNDS-T
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (171 seats - 166 currently; 158 members directly elected from 8 multi-member constituencies in 7 regions and Niamey by party-list proportional representation, 8 reserved for minorities elected in special single-seat constituencies by simple majority vote, 5 seats reserved for Nigeriens living abroad - l seat per continent - elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
 _elections_: last held on 27 December 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - percent of vote by party - PNDS-Tarrayya 37.04%, MODEN/FA Lumana 8.71%, MPR-Jamhuriya 7.59%, MNSD-Nassara 6.77%,&nbsp; RDR-Tchanji 4.41%, CPR-Inganci 4.15%, MPN-Kishin Kassa 3.97%, PJP Generation Dubara 2.88%, ANDP Zaman Lahya 2.46%, RPP Farrilla 2.10%, ARD Adaltchi-Mutuntchi 1.74%, AMEN AMIN 1.43%, MDEN Falala 1.42%, other 15; seats by party - PNDS-Tarrayya 79, MODEN/FA Lumana 19, MPR-Jamhuriya 14, MNSD-Nassara 13, CPR-Inganci 8, MPN-Kishin Kassa 6, ANDP-Zaman Lahiya 3, RPP Farrilla 2, PJP Generation Dubara 2, ARD Adaltchi-Mutuntchi 2, AMEN AMIN 2, other 10; composition - men 123, women 43, percent of women 25.9%<br>
+_election results_: percent of vote by party - percent of vote by party - PNDS-Tarrayya 37.04%, MODEN/FA Lumana 8.71%, MPR-Jamhuriya 7.59%, MNSD-Nassara 6.77%,&nbsp; RDR-Tchanji 4.41%, CPR-Inganci 4.15%, MPN-Kishin Kassa 3.97%, PJP Generation Dubara 2.88%, ANDP Zaman Lahya 2.46%, RPP Farrilla 2.10%, ARD Adaltchi-Mutuntchi 1.74%, AMEN AMIN 1.43%, MDEN Falala 1.42%, other 15.33%; seats by party - PNDS-Tarrayya 79, MODEN/FA Lumana 19, MPR-Jamhuriya 14, MNSD-Nassara 13, CPR-Inganci 8, MPN-Kishin Kassa 6, ANDP-Zaman Lahiya 3, RPP Farrilla 2, PJP Generation Dubara 2, ARD Adaltchi-Mutuntchi 2, AMEN AMIN 2, other 16; composition - men 123, women 43, percent of women 25.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Constitutional Court (consists of 7 judges); High Court of Justice (consists of 7 members)<br>
@@ -423,9 +423,9 @@ _selected World Heritage Site locales_: Air and T&eacute;n&eacute;r&eacute; Natu
 <p>Niger is a landlocked, Sub-Saharan nation, whose economy centers on subsistence crops, livestock, and some of the world's largest uranium deposits. Agriculture contributes approximately 40% of GDP and provides livelihood for over 80% of the population. The UN ranked Niger as the second least developed country in the world in 2016 due to multiple factors such as food insecurity, lack of industry, high population growth, a weak educational sector, and few prospects for work outside of subsistence farming and herding.</p><p></p><p>Since 2011 public debt has increased due to efforts to scale-up public investment, particularly that related to infrastructure, as well as due to increased security spending. The government relies on foreign donor resources for a large portion of its fiscal budget. The economy in recent years has been hurt by terrorist activity near its uranium mines and by instability in Mali and in the Diffa region of the country; concerns about security have resulted in increased support from regional and international partners on defense. Low uranium prices, demographics, and security expenditures may continue to put pressure on the government’s finances.</p><p></p><p>The Government of Niger plans to exploit oil, gold, coal, and other mineral resources to sustain future growth. Although Niger has sizable reserves of oil, the prolonged drop in oil prices has reduced profitability. Food insecurity and drought remain perennial problems for Niger, and the government plans to invest more in irrigation. Niger’s three-year $131 million IMF Extended Credit Facility (ECF) agreement for the years 2012-15 was extended until the end of 2016. In February 2017, the IMF approved a new 3-year $134 million ECF. In June 2017, The World Bank’s International Development Association (IDA) granted Niger $1 billion over three years for IDA18, a program to boost the country’s development and alleviate poverty. A $437 million Millennium Challenge Account compact for Niger, commencing in FY18, will focus on large-scale irrigation infrastructure development and community-based, climate-resilient agriculture, while promoting sustainable increases in agricultural productivity and sales.</p><p></p><p>Formal private sector investment needed for economic diversification and growth remains a challenge, given the country’s limited domestic markets, access to credit, and competitiveness. Although President ISSOUFOU is courting foreign investors, including those from the US, as of April 2017, there were no US firms operating in Niger. In November 2017, the National Assembly passed the 2018 Finance Law that was geared towards raising government revenues and moving away from international support.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$28.97 billion note: data are in 2017 dollars (2020 est.)<br>
-$28.54 billion note: data are in 2017 dollars (2019 est.)<br>
-$26.95 billion note: data are in 2017 dollars (2018 est.)<br>
+$28.97 billion (2020 est.)<br>
+$28.54 billion (2019 est.)<br>
+$26.95 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -434,9 +434,9 @@ $26.95 billion note: data are in 2017 dollars (2018 est.)<br>
 4.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,200 note: data are in 2017 dollars (2020 est.)<br>
-$1,200 note: data are in 2017 dollars (2019 est.)<br>
-$1,200 note: data are in 2017 dollars (2018 est.)<br>
+$1,200 (2020 est.)<br>
+$1,200 (2019 est.)<br>
+$1,200 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -743,7 +743,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic St
 <p>Libya claims about 25,000 sq km in a currently dormant dispute in the Tommo region; location of Benin-Niger-Nigeria tripoint is unresolved; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries; the dispute with Burkina Faso was referred to the ICJ in 2010</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 187,145 (Nigeria), 61,487 (Mali) (2022)<br>
+_refugees (country of origin)_: 187,145 (Nigeria), 61,534 (Mali) (2022)<br>
 _IDPs_: 264,257 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

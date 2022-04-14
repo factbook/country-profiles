@@ -379,10 +379,10 @@ _selected World Heritage Site locales_: Royal Domain of Drottningholm (c), Lapon
 <p>Sweden’s small, open, and competitive economy has been thriving and Sweden has achieved an enviable standard of living with its combination of free-market capitalism and extensive welfare benefits. Sweden remains outside the euro zone largely out of concern that joining the European Economic and Monetary Union would diminish the country’s sovereignty over its welfare system.</p> <p> </p> <p>Timber, hydropower, and iron ore constitute the resource base of a manufacturing economy that relies heavily on foreign trade. Exports, including engines and other machines, motor vehicles, and telecommunications equipment, account for more than 44% of GDP. Sweden enjoys a current account surplus of about 5% of GDP, which is one of the highest margins in Europe.</p> <p> </p> <p>GDP grew an estimated 3.3% in 2016 and 2017 driven largely by investment in the construction sector. Swedish economists expect economic growth to ease slightly in the coming years as this investment subsides. Global economic growth boosted exports of Swedish manufactures further, helping drive domestic economic growth in 2017. The Central Bank is keeping an eye on deflationary pressures and bank observers expect it to maintain an expansionary monetary policy in 2018. Swedish prices and wages have grown only slightly over the past few years, helping to support the country’s competitiveness.</p> <p> </p> <p>In the short and medium term, Sweden’s economic challenges include providing affordable housing and successfully integrating migrants into the labor market.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$524.75 billion note: data are in 2017 dollars (2020 est.)<br>
-$539.96 billion note: data are in 2017 dollars (2019 est.)<br>
-$532.67 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$524.75 billion (2020 est.)<br>
+$539.96 billion (2019 est.)<br>
+$532.67 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.29% (2019 est.)<br>
@@ -390,10 +390,10 @@ $532.67 billion note: data are in 2017 dollars (2018 est.)<br>
 2.82% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$50,700 note: data are in 2017 dollars (2020 est.)<br>
-$52,500 note: data are in 2017 dollars (2019 est.)<br>
-$52,300 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$50,700 (2020 est.)<br>
+$52,500 (2019 est.)<br>
+$52,300 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $531.35 billion (2019 est.)<br>

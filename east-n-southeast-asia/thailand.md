@@ -363,7 +363,7 @@ _judge selection and term of office_: Supreme Court judges selected by the Judic
 _subordinate courts_: courts of first instance and appeals courts within both the judicial and administrative systems; military courts<br>
 
 **Political parties and leaders**<br>
-Action Coalition of Thailand Party or ACT [TAWEESAK Na Takuathung (acting); CHATUMONGKHON Sonakun resigned June 2020]<br>Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [KANCHANA Sinlapa-acha]<br>New Economics Party or NEP [MINGKHWAN Sangsuwan]<br>Move Forward Party or MFP (formed in 2020 from the disbanded Future Forward Party, FPP) [PHITHA Limcharoenrat]<br>Phalang Pracharat Party or PPP [PRAWIT Wongsuwan]<br>Phumchai Thai Party (Thai Pride Party) or PJT [ANUTHIN Chanwirakun]<br>Prachachat Party of PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DP [CHURIN Laksanawisit]<br>Puea Chat Party (For Nation Party) or PCP [SONGKHRAM Kitletpairot]<br>Puea Thai Party (For Thais Party) or PTP [CHONLANON Sikaew]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party) or TLP [SERIPHISUT Temiyawet]<br>Thai Forest Conservation Party or TFCP [DAMRONG Phidet]<br>Thai Local Power Party or TLP [collective leadership]<br>Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]<br>
+Action Coalition of Thailand Party or ACT [ANEK Laothamatas]<br>Bhumjaithai Party or BJT [ANUTIN Charnvirakul]<br>Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [KANCHANA Sinlapa-acha]<br>New Economics Party or NEP [MINGKHWAN Sangsuwan]<br>Move Forward Party or MFP (formed in 2020 from the disbanded Future Forward Party, FPP) [PHITHA Limcharoenrat]<br>Phalang Pracharat Party or PPP [PRAWIT Wongsuwan]<br>Phumchai Thai Party (Thai Pride Party) or PJT [ANUTHIN Chanwirakun]<br>Prachachat Party of PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DEM [JURIN Laksanawisit] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [CHONLANON Sikaew]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party) or TLP [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Forest Conservation Party or TFCP [DAMRONG Phidet]<br>Thai Liberal Party or TLP [SERIPISUT TEMIYAVET]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]<br>
 <strong>note:</strong> as of 5 April 2018, 98 new parties applied to be registered with the Election Commission in accordance with the provisions of the new organic law on political parties<br>
 
 **International organization participation**<br>
@@ -408,10 +408,10 @@ _selected World Heritage Site locales_: Historic City of Ayutthaya (c), Historic
 <p>With a relatively well-developed infrastructure, a free-enterprise economy, and generally pro-investment policies, Thailand is highly dependent on international trade, with exports accounting for about two thirds of GDP. Thailand’s exports include electronics, agricultural commodities, automobiles and parts, and processed foods. The industry and service sectors produce about 90% of GDP. The agricultural sector, comprised mostly of small-scale farms, contributes only 10% of GDP but employs about one third of the labor force. Thailand has attracted an estimated 3.0-4.5 million migrant workers, mostly from neighboring countries.</p> <p>Over the last few decades, Thailand has reduced poverty substantially. In 2013, the Thai Government implemented a nationwide 300 baht (roughly $10) per day minimum wage policy and deployed new tax reforms designed to lower rates on middle-income earners.</p> <p>Thailand’s economy is recovering from slow growth during the years since the 2014 coup. Thailand’s economic fundamentals are sound, with low inflation, low unemployment, and reasonable public and external debt levels. Tourism and government spending - mostly on infrastructure and short-term stimulus measures – have helped to boost the economy, and The Bank of Thailand has been supportive, with several interest rate reductions.</p> <p>Over the longer-term, household debt levels, political uncertainty, and an aging population pose risks to growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,206,620,000,000 note: data are in 2017 dollars (2020 est.)<br>
-$1,284,830,000,000 note: data are in 2017 dollars (2019 est.)<br>
-$1,256,360,000,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$1,206,620,000,000 (2020 est.)<br>
+$1,284,830,000,000 (2019 est.)<br>
+$1,256,360,000,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.62% (2019 est.)<br>
@@ -419,10 +419,10 @@ $1,256,360,000,000 note: data are in 2017 dollars (2018 est.)<br>
 4.26% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$17,300 note: data are in 2017 dollars (2020 est.)<br>
-$18,500 note: data are in 2017 dollars (2019 est.)<br>
-$18,100 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$17,300 (2020 est.)<br>
+$18,500 (2019 est.)<br>
+$18,100 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $543.798 billion (2019 est.)<br>
@@ -730,7 +730,7 @@ note(s) - information varies, but conscripts reportedly comprise as much as 50% 
 275 South Sudan (UNMISS) (Dec 2021)<br>
 
 **Military - note**<br>
-including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, the Thai military has been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed more than 7,000 lives (as of early 2022); as of 2021, at least 70,000 military, paramilitary, and government-backed militia forces were estimated to be deployed in the south to combat the insurgency<br> <p>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, the Thai military has been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed more than 7,000 lives (as of early 2022); as of 2021, at least 70,000 military, paramilitary, and government-backed militia forces were estimated to be deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>
 
 ## Transnational Issues
 

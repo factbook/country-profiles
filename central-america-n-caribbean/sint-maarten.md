@@ -281,7 +281,6 @@ The economy of Sint Maarten centers around tourism with nearly four-fifths of th
 **Real GDP (purchasing power parity)**<br>
 $1.436 billion (2018 est.)<br>
 $1.538 billion (2017 est.)<br>
-<strong>note: </strong>data are in 2014 US dollars<br>
 
 **Real GDP growth rate**<br>
 3.6% (2014 est.)<br>
@@ -291,7 +290,6 @@ $1.538 billion (2017 est.)<br>
 **Real GDP per capita**<br>
 $35,342 (2018 est.)<br>
 $37,914 (2017 est.)<br>
-<strong>note: </strong>data are in 2015 US dollars<br>
 
 **GDP (official exchange rate)**<br>
 $304.1 million (2014 est.)<br>

@@ -85,7 +85,7 @@ Mestizo 52.9%, Creole 25.9%, Maya 11.3%, Garifuna 6.1%, East Indian 3.9%, Mennon
 <strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin<br>
 
 **Languages**<br>
-English 62.9% (official), Spanish 56.6%, Creole 44.6%, Maya 10.5%, German 3.2%, Garifuna 2.9%, other 1.8%, unknown 0.3%, none 0.2% (cannot speak); note - shares sum to more than 100% because some respondents gave more than one answer on the census (2010 est.)<br>
+English 62.9% (official), Spanish 56.6%, Creole 44.6%, Maya 10.5%, German 3.2%, Garifuna 2.9%, other 1.8%, unknown 0.5%; note - shares sum to more than 100% because some respondents gave more than one answer on the census (2010 est.)<br>
 _major-language sample(s)_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br>
 
 **Religions**<br>
@@ -368,9 +368,9 @@ _selected World Heritage Site locales_: Belize Barrier Reef Reserve System<br>
 <p>Tourism is the number one foreign exchange earner in this small economy, followed by exports of sugar, bananas, citrus, marine products, and crude oil.</p><p></p><p>The government's expansionary monetary and fiscal policies, initiated in September 1998, led to GDP growth averaging nearly 4% in 1999-2007, but GPD growth has averaged only 2.1% from 2007-2016, with 2.5% growth estimated for 2017. Belize’s dependence on energy imports makes it susceptible to energy price shocks.</p><p></p><p>Although Belize has the third highest per capita income in Central America, the average income figure masks a huge income disparity between rich and poor, and a key government objective remains reducing poverty and inequality with the help of international donors. High unemployment, a growing trade deficit and heavy foreign debt burden continue to be major concerns. Belize faces continued pressure from rising sovereign debt, and a growing trade imbalance.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.43 billion note: data are in 2017 dollars (2020 est.)<br>
-$2.83 billion note: data are in 2017 dollars (2019 est.)<br>
-$2.78 billion note: data are in 2017 dollars (2018 est.)<br>
+$2.43 billion (2020 est.)<br>
+$2.83 billion (2019 est.)<br>
+$2.78 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -379,9 +379,9 @@ $2.78 billion note: data are in 2017 dollars (2018 est.)<br>
 3.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$6,100 note: data are in 2017 dollars (2020 est.)<br>
-$7,300 note: data are in 2017 dollars (2019 est.)<br>
-$7,300 note: data are in 2017 dollars (2018 est.)<br>
+$6,100 (2020 est.)<br>
+$7,300 (2019 est.)<br>
+$7,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

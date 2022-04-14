@@ -86,7 +86,7 @@ Indo-Mauritian (compose approximately two thirds of the total population), Creol
 <strong>note:</strong> Mauritius has not had a question on ethnicity on its national census since 1972<br>
 
 **Languages**<br>
-Creole 86.5%, Bhojpuri 5.3%, French 4.1%, two languages 1.4%, other 2.6% (includes English, the official language of the National Assembly, which is spoken by less than 1% of the population), unspecified 0.1% (2011 est.)<br>
+Creole 86.5%, Bhojpuri 5.3%, French 4.1%, two languages 1.4%, other 2.6% (includes English, one of the two official languages of the National Assembly, which is spoken by less than 1% of the population), unspecified 0.1% (2011 est.)<br>
 
 **Religions**<br>
 Hindu 48.5%, Roman Catholic 26.3%, Muslim 17.3%, other Christian 6.4%, other 0.6%, none 0.7%, unspecified 0.1% (2011 est.)<br>
@@ -374,9 +374,9 @@ _selected World Heritage Site locales_: Aapravasi Ghat, Le Morne Cultural Landsc
 <p>Since independence in 1968, Mauritius has undergone a remarkable economic transformation from a low-income, agriculturally based economy to a diversified, upper middle-income economy with growing industrial, financial, and tourist sectors. Mauritius has achieved steady growth over the last several decades, resulting in more equitable income distribution, increased life expectancy, lowered infant mortality, and a much-improved infrastructure.</p> <p> </p> <p>The economy currently depends on sugar, tourism, textiles and apparel, and financial services, but is expanding into fish processing, information and communications technology, education, and hospitality and property development. Sugarcane is grown on about 90% of the cultivated land area but sugar makes up only around 3-4% of national GDP. Authorities plan to emphasize services and innovation in the coming years. After several years of slow growth, government policies now seek to stimulate economic growth in five areas: serving as a gateway for international investment into Africa; increasing the use of renewable energy; developing smart cities; growing the ocean economy; and upgrading and modernizing infrastructure, including public transportation, the port, and the airport.</p> <p> </p> <p>Mauritius has attracted more than 32,000 offshore entities, many aimed at commerce in India, South Africa, and China. The Mauritius International Financial Center is under scrutiny by international bodies promoting fair tax competition and Mauritius has been cooperating with the European Union and the United states in the automatic exchange of account information. Mauritius is also a member of the OECD/G20’s Inclusive Framework on Base Erosion and Profit Shifting and is under pressure to review its Double Taxation Avoidance Agreements. The offshore sector is vulnerable to changes in the tax framework and authorities have been working on a Financial Services Sector Blueprint to enable Mauritius to transition to a jurisdiction of higher value added. Mauritius’ textile sector has taken advantage of the Africa Growth and Opportunity Act, a preferential trade program that allows duty free access to the US market, with Mauritian exports to the US growing by 35.6 % from 2000 to 2014. However, lack of local labor as well as rising labor costs eroding the competitiveness of textile firms in Mauritius.</p> <p> </p> <p>Mauritius' sound economic policies and prudent banking practices helped mitigate negative effects of the global financial crisis in 2008-09. GDP grew in the 3-4% per year range in 2010-17, and the country continues to expand its trade and investment outreach around the globe. Growth in the US and Europe fostered goods and services exports, including tourism, while lower oil prices kept inflation low. Mauritius continues to rank as one of the most business-friendly environments on the continent and passed a Business Facilitation Act to improve competitiveness and long-term growth prospects. A new National Economic Development Board was set up in 2017-2018 to spearhead efforts to promote exports and attract inward investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$24.64 billion note: data are in 2017 dollars (2020 est.)<br>
-$28.95 billion note: data are in 2017 dollars (2019 est.)<br>
-$28.1 billion note: data are in 2017 dollars (2018 est.)<br>
+$24.64 billion (2020 est.)<br>
+$28.95 billion (2019 est.)<br>
+$28.1 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -385,9 +385,9 @@ $28.1 billion note: data are in 2017 dollars (2018 est.)<br>
 3.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$19,500 note: data are in 2017 dollars (2020 est.)<br>
-$22,900 note: data are in 2017 dollars (2019 est.)<br>
-$22,200 note: data are in 2017 dollars (2018 est.)<br>
+$19,500 (2020 est.)<br>
+$22,900 (2019 est.)<br>
+$22,200 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

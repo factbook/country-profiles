@@ -374,8 +374,8 @@ _selected World Heritage Site locales_: Bikini Atoll Nuclear Test Site<br>
 <p>US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports.</p><p></p><p>The Marshall Islands received roughly $1 billion in aid from the US during the period 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact's financial package for a 20-year period, 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Under the amended Compact, the US and Marshall Islands are also jointly funding a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024, when direct Compact aid ends.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$240 million note: data are in 2017 dollars (2019 est.)<br>
-$220 million note: data are in 2017 dollars (2018 est.)<br>
+$240 million (2019 est.)<br>
+$220 million (2018 est.)<br>
 $219 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -388,7 +388,6 @@ $219 million (2017 est.)<br>
 $4,000 note: data are in 2017 dollars (2019 est.)<br>
 $3,800 note: data are in 2017 dollars (2018 est.)<br>
 $3,776 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $222 million (2017 est.)<br>

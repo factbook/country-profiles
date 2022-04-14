@@ -391,10 +391,10 @@ _selected World Heritage Site locales_: Caribbean Fortifications (c), Darien Nat
 <p>Panama's dollar-based economy rests primarily on a well-developed services sector that accounts for more than three-quarters of GDP. Services include operating the Panama Canal, logistics, banking, the Colon Free Trade Zone, insurance, container ports, flagship registry, and tourism and Panama is a center for offshore banking. Panama's transportation and logistics services sectors, along with infrastructure development projects, have boosted economic growth; however, public debt surpassed $37 billion in 2016 because of excessive government spending and public works projects. The US-Panama Trade Promotion Agreement was approved by Congress and signed into law in October 2011, and entered into force in October 2012.</p><p></p><p>Future growth will be bolstered by the Panama Canal expansion project that began in 2007 and was completed in 2016 at a cost of $5.3 billion - about 10-15% of current GDP. The expansion project more than doubled the Canal's capacity, enabling it to accommodate high-capacity vessels such as tankers and neopanamax vessels that are too large to traverse the existing canal. The US and China are the top users of the Canal.</p><p></p><p>Strong economic performance has not translated into broadly shared prosperity, as Panama has the second worst income distribution in Latin America. About one-fourth of the population lives in poverty; however, from 2006 to 2012 poverty was reduced by 10 percentage points.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$109.52 billion note: data are in 2017 dollars (2020 est.)<br>
-$133.47 billion note: data are in 2017 dollars (2019 est.)<br>
-$129.54 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$109.52 billion (2020 est.)<br>
+$133.47 billion (2019 est.)<br>
+$129.54 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 5.4% (2017 est.)<br>
@@ -402,10 +402,10 @@ $129.54 billion note: data are in 2017 dollars (2018 est.)<br>
 5.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$25,400 note: data are in 2017 dollars (2020 est.)<br>
-$31,400 note: data are in 2017 dollars (2019 est.)<br>
-$31,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$25,400 (2020 est.)<br>
+$31,400 (2019 est.)<br>
+$31,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $66.801 billion (2019 est.)<br>

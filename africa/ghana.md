@@ -358,7 +358,7 @@ _election results_: Nana Addo Dankwa AKUFO-ADDO reelected president in the first
 **Legislative branch**<br>
 _description_: unicameral Parliament (275 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
 _elections_: last held on 7 December 2020 (next to be held in December 2024)<br>
-_election results_: percent of vote by party - NA; seats by party (preliminary) - NPP 137, NDC 137, independent 1; composition - NA<br>
+_election results_: percent of vote by party - NA; seats by party (preliminary) - NPP 137, NDC 137, independent 1; composition - men 235, women 40, percent of women 14.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 13 justices)<br>
@@ -409,9 +409,9 @@ _selected World Heritage Site locales_: Forts and Castles, Volta, Greater Accra,
 <p>Ghana has a market-based economy with relatively few policy barriers to trade and investment in comparison with other countries in the region, and Ghana is endowed with natural resources. Ghana's economy was strengthened by a quarter century of relatively sound management, a competitive business environment, and sustained reductions in poverty levels, but in recent years has suffered the consequences of loose fiscal policy, high budget and current account deficits, and a depreciating currency.</p><p></p><p>Agriculture accounts for about 20% of GDP and employs more than half of the workforce, mainly small landholders. Gold, oil, and cocoa exports, and individual remittances, are major sources of foreign exchange. Expansion of Ghana’s nascent oil industry has boosted economic growth, but the fall in oil prices since 2015 reduced by half Ghana’s oil revenue. Production at Jubilee, Ghana's first commercial offshore oilfield, began in mid-December 2010. Production from two more fields, TEN and Sankofa, started in 2016 and 2017 respectively. The country’s first gas processing plant at Atuabo is also producing natural gas from the Jubilee field, providing power to several of Ghana’s thermal power plants.</p><p></p><p>As of 2018, key economic concerns facing the government include the lack of affordable electricity, lack of a solid domestic revenue base, and the high debt burden. The AKUFO-ADDO administration has made some progress by committing to fiscal consolidation, but much work is still to be done. Ghana signed a $920 million extended credit facility with the IMF in April 2015 to help it address its growing economic crisis. The IMF fiscal targets require Ghana to reduce the deficit by cutting subsidies, decreasing the bloated public sector wage bill, strengthening revenue administration, boosting tax revenues, and improving the health of Ghana’s banking sector. Priorities for the new administration include rescheduling some of Ghana’s $31 billion debt, stimulating economic growth, reducing inflation, and stabilizing the currency. Prospects for new oil and gas production and follow through on tighter fiscal management are likely to help Ghana’s economy in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$164.84 billion note: data are in 2017 dollars (2020 est.)<br>
-$164.16 billion note: data are in 2017 dollars (2019 est.)<br>
-$154.13 billion note: data are in 2017 dollars (2018 est.)<br>
+$164.84 billion (2020 est.)<br>
+$164.16 billion (2019 est.)<br>
+$154.13 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -420,9 +420,9 @@ $154.13 billion note: data are in 2017 dollars (2018 est.)<br>
 3.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$5,300 note: data are in 2017 dollars (2020 est.)<br>
-$5,400 note: data are in 2017 dollars (2019 est.)<br>
-$5,200 note: data are in 2017 dollars (2018 est.)<br>
+$5,300 (2020 est.)<br>
+$5,400 (2019 est.)<br>
+$5,200 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -629,9 +629,9 @@ _total subscriptions_: 40,461,609 (2020)<br>
 _subscriptions per 100 inhabitants_: 130.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: challenged by unreliable electricity, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure enabled 600 additional towers to provide basic mobile services; launch of LTE has improved mobile data services, including m-commerce and banking; highly competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity and reduced prices (2020)<br>
-_domestic_: fixed-line about 1 per 100 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a subscribership of more than 130 per 100 persons (2020)<br>
-_international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; Ghana-1 satellite launched in 2020 (2019)<br>
+_general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity&nbsp; (2020)<br>
+_domestic_: fixed-line data about 1 per 100 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a voice subscribership of more than 130 per 100 persons (2020)<br>
+_international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; GhanaSat-1 nanosatellite launched in 2017 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
@@ -673,16 +673,17 @@ _total_: 3<br>
 _914 to 1,523 m_: 3 (2013)<br>
 
 **Pipelines**<br>
-394 km gas, 20 km oil, 361 km refined products (2013)<br>
+681.3 km gas, 11.4 km oil, 435 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 947 km (2014)<br>
+_total_: 1,300 km (2014)<br>
 _narrow gauge_: 947 km 1.067-m gauge (2014)<br>
 
 **Roadways**<br>
-_total_: 109,515 km (2009)<br>
-_paved_: 13,787 km (2009)<br>
-_unpaved_: 95,728 km (2009)<br>
+_total_: 94,203 km (2021)<br>
+_paved_: 14,948 km (2021)<br>
+_unpaved_: 50,777 km (2021)<br>
+_urban_: 28,480 km 27% total paved 73% total unpaved <br>
 
 **Waterways**<br>
 1,293 km (168 km for launches and lighters on Volta, Ankobra, and Tano Rivers; 1,125 km of arterial and feeder waterways on Lake Volta) (2011)<br>
@@ -722,7 +723,7 @@ the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Wester
 <p>the military of Ghana traces its origins to the Gold Coast Constabulary that was established in 1879 and renamed the Gold Coast Regiment in 1901; the Gold Coast Regiment was part of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; following independence in 1957, the Gold Coast Regiment formed the basis for the new Ghanaian Army</p> <p>as of 2021, the primary missions for the Ghanaian military included assisting other security services with internal security and patrolling the country’s economic exclusion zone, which has led to efforts to expand the Navy’s capabilities in recent years; since sending a contingent of troops to the Congo in 1960, the Ghana military has been a regular contributor to African- and UN-sponsored peacekeeping missions</p><br>
 
 **Maritime threats**<br>
-<p>the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.”</p><br>
+<p>the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"</p><br>
 
 ## Transnational Issues
 

@@ -406,10 +406,10 @@ _selected World Heritage Site locales_: Historic Krakow (c); Historic Warsaw (c)
 <p>Poland has the sixth-largest economy in the EU and has long had a reputation as a business-friendly country with largely sound macroeconomic policies. Since 1990, Poland has pursued a policy of economic liberalization. During the 2008-09 economic slowdown Poland was the only EU country to avoid a recession, in part because of the government’s loose fiscal policy combined with a commitment to rein in spending in the medium-term Poland is the largest recipient of EU development funds and their cyclical allocation can significantly impact the rate of economic growth.</p><p></p><p>The Polish economy performed well during the 2014-17 period, with the real GDP growth rate generally exceeding 3%, in part because of increases in government social spending that have helped to accelerate consumer-driven growth. However, since 2015, Poland has implemented new business restrictions and taxes on foreign-dominated economic sectors, including banking and insurance, energy, and healthcare, that have dampened investor sentiment and has increased the government’s ownership of some firms. The government reduced the retirement age in 2016 and has had mixed success in introducing new taxes and boosting tax compliance to offset the increased costs of social spending programs and relieve upward pressure on the budget deficit. Some credit ratings agencies estimate that Poland during the next few years is at risk of exceeding the EU’s 3%-of-GDP limit on budget deficits, possibly impacting its access to future EU funds. Poland’s economy is projected to perform well in the next few years in part because of an anticipated cyclical increase in the use of its EU development funds and continued, robust household spending.</p><p></p><p>Poland faces several systemic challenges, which include addressing some of the remaining deficiencies in its road and rail infrastructure, business environment, rigid labor code, commercial court system, government red tape, and burdensome tax system, especially for entrepreneurs. Additional long-term challenges include diversifying Poland’s energy mix, strengthening investments in innovation, research, and development, as well as stemming the outflow of educated young Poles to other EU member states, especially in light of a coming demographic contraction due to emigration, persistently low fertility rates, and the aging of the Solidarity-era baby boom generation.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,223,460,000,000 note: data are in 2017 dollars (2020 est.)<br>
-$1,257,440,000,000 note: data are in 2017 dollars (2019 est.)<br>
-$1,202,820,000,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$1,223,460,000,000 (2020 est.)<br>
+$1,257,440,000,000 (2019 est.)<br>
+$1,202,820,000,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.55% (2019 est.)<br>
@@ -417,10 +417,10 @@ $1,202,820,000,000 note: data are in 2017 dollars (2018 est.)<br>
 4.83% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$32,200 note: data are in 2017 dollars (2020 est.)<br>
-$33,100 note: data are in 2017 dollars (2019 est.)<br>
-$31,700 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$32,200 (2020 est.)<br>
+$33,100 (2019 est.)<br>
+$31,700 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $595.72 billion (2019 est.)<br>
@@ -747,7 +747,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 2,490,447 (as of 5 April 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 2,669,637 (as of 12 April 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

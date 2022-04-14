@@ -348,8 +348,8 @@ _election results_: <em>2022: </em>Katalin NOVAK (Fidesz) elected president; Nat
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 8 April 2018 (next to be held in April 2022)<br>
-_election results_: percent of vote by party list - Fidesz-KDNP 49.3%, Jobbik 19.1%, MSZP-PM 11.9%, LMP 7.1%, DK 5.4%, Momentum Movement 3.1%, Together 0.7%, LdU 0.5%, other 2.9%; seats by party - Fidesz 117, Jobbik 26, KDNP 16, MSZP 15,&nbsp; DK 9, LMP 8, PM 5, Together 1, LdU 1, independent 1; composition (as of October 2021) - men 173, women 26, percent of women 13.1%<br>
+_elections_: last held on 3 April 2022 (next to be held in April 2026)<br>
+_election results_: percent of vote by party list - Fidesz-KDNP 54.1%, United for Hungary 34.5%, Mi Hazank 5.9%, other 5.5%; seats by party - Fidesz-KDNP 135, United for Hungary 57, Mi Hazank 6, independent 1; composition - men 175, women 24, percent of women 12.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and has a maximum of 113 judges, and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
@@ -357,7 +357,7 @@ _judge selection and term of office_: Curia president elected by the National As
 _subordinate courts_: 5 regional courts of appeal; 19 regional or county courts (including Budapest Metropolitan Court); 20 administrative-labor courts; 111 district or local courts<br>
 
 **Political parties and leaders**<br>
-Christian Democratic People's Party or KDNP [Zsolt SEMJEN]<br>Democratic Coalition or DK [Ferenc GYURCSANY]<br>Dialogue for Hungary (Parbeszed) or PM [Gergely KARACSONY, Timea SZABO]<br>Fidesz-Hungarian Civic Alliance or Fidesz [Viktor ORBAN]<br>Hungarian Socialist Party or MSZP [Bertalan TOTH]<br>Momentum Movement (Momentum Mozgalom) [Andras FEKETE-GYOR]<br>Movement for a Better Hungary or Jobbik [Tamas SNEIDER]<br>National Self-Government of Germans in Hungary or LdU [Olivia SCHUBERT]<br>Politics Can Be Different or LMP [Marta DEMETER, Laszlo LORANT-KERESZTES]<br>Together (Egyutt)<br>
+Christian Democratic People's Party or KDNP [Zsolt SEMJEN]<br>Democratic Coalition or DK [Ferenc GYURCSANY]<br>Dialogue for Hungary (Parbeszed) or PM [Gergely KARACSONY, Timea SZABO]<br>Fidesz-Hungarian Civic Alliance or Fidesz [Viktor ORBAN]<br>Hungarian Socialist Party or MSZP [Bertalan TOTH, Agnes KUNHALMI]<br>LMP-Hungary's Green Party [Mate KANASZ-NAGY, Erzsebet SCHMUCK]<br>Mi Hazank [Laszlo TOROCZKAI]<br>Momentum Movement (Momentum Mozgalom) [Anna DONATH]<br>Movement for a Better Hungary or Jobbik [Peter JAKAB]<br>National Self-Government of Germans in Hungary or LdU [Olivia SCHUBERT]<br>Together (Egyutt)<br>United for Hungary (a coalition of Jobbik, MSZP, Dialogue, DK, LMP, and Momentum)<br>
 
 **International organization participation**<br>
 Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -399,10 +399,10 @@ _selected World Heritage Site locales_: Budapest, including the Banks of the Dan
 <p>Hungary has transitioned from a centrally planned to a market-driven economy with a per capita income approximately two thirds of the EU-28 average; however, in recent years the government has become more involved in managing the economy. Budapest has implemented unorthodox economic policies to boost household consumption and has relied on EU-funded development projects to generate growth.</p> <p> </p> <p>Following the fall of communism in 1990, Hungary experienced a drop-off in exports and financial assistance from the former Soviet Union. Hungary embarked on a series of economic reforms, including privatization of state-owned enterprises and reduction of social spending programs, to shift from a centrally planned to a market-driven economy, and to reorient its economy towards trade with the West. These efforts helped to spur growth, attract investment, and reduce Hungary’s debt burden and fiscal deficits. Despite these reforms, living conditions for the average Hungarian initially deteriorated as inflation increased and unemployment reached double digits. Conditions slowly improved over the 1990s as the reforms came to fruition and export growth accelerated. Economic policies instituted during that decade helped position Hungary to join the European Union in 2004. Hungary has not yet joined the euro-zone. Hungary suffered a historic economic contraction as a result of the global economic slowdown in 2008-09 as export demand and domestic consumption dropped, prompting it to take an IMF-EU financial assistance package.</p> <p> </p> <p>Since 2010, the government has backpedaled on many economic reforms and taken a more populist approach towards economic management. The government has favored national industries and government-linked businesses through legislation, regulation, and public procurements. In 2011 and 2014, Hungary nationalized private pension funds, which squeezed financial service providers out of the system, but also helped Hungary curb its public debt and lower its budget deficit to below 3% of GDP, as subsequent pension contributions have been channeled into the state-managed pension fund. Hungary’s public debt (at 74.5% of GDP) is still high compared to EU peers in Central Europe. Real GDP growth has been robust in the past few years due to increased EU funding, higher EU demand for Hungarian exports, and a rebound in domestic household consumption. To further boost household consumption ahead of the 2018 election, the government embarked on a six-year phased increase to minimum wages and public sector salaries, decreased taxes on foodstuffs and services, cut the personal income tax from 16% to 15%, and implemented a uniform 9% business tax for small and medium-sized enterprises and large companies. Real GDP growth slowed in 2016 due to a cyclical decrease in EU funding, but increased to 3.8% in 2017 as the government pre-financed EU funded projects ahead of the 2018 election.</p> <p> </p> <p>Systemic economic challenges include pervasive corruption, labor shortages driven by demographic declines and migration, widespread poverty in rural areas, vulnerabilities to changes in demand for exports, and a heavy reliance on Russian energy imports.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$302.32 billion note: data are in 2017 dollars (2020 est.)<br>
-$318.09 billion note: data are in 2017 dollars (2019 est.)<br>
-$303.98 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$302.32 billion (2020 est.)<br>
+$318.09 billion (2019 est.)<br>
+$303.98 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.58% (2019 est.)<br>
@@ -410,10 +410,10 @@ $303.98 billion note: data are in 2017 dollars (2018 est.)<br>
 4.45% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$31,000 note: data are in 2017 dollars (2020 est.)<br>
-$32,600 note: data are in 2017 dollars (2019 est.)<br>
-$31,100 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$31,000 (2020 est.)<br>
+$32,600 (2019 est.)<br>
+$31,100 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $163.251 billion (2019 est.)<br>
@@ -729,7 +729,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 398,932 (Ukraine) (as of 5 April 2022)<br>
+_refugees (country of origin)_: 434,342 (Ukraine) (as of 12 April 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

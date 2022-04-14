@@ -383,10 +383,10 @@ _selected World Heritage Site locales_: Acropolis, Athens (c), Archaeological si
 <p>Greece has a capitalist economy with a public sector accounting for about 40% of GDP and with per capita GDP about two-thirds that of the leading euro-zone economies. Tourism provides 18% of GDP. Immigrants make up nearly one-fifth of the work force, mainly in agricultural and unskilled jobs. Greece is a major beneficiary of EU aid, equal to about 3.3% of annual GDP.</p><p></p><p>The Greek economy averaged growth of about 4% per year between 2003 and 2007, but the economy went into recession in 2009 as a result of the world financial crisis, tightening credit conditions, and Athens' failure to address a growing budget deficit. By 2013, the economy had contracted 26%, compared with the pre-crisis level of 2007. Greece met the EU's Growth and Stability Pact budget deficit criterion of no more than 3% of GDP in 2007-08, but violated it in 2009, when the deficit reached 15% of GDP. Deteriorating public finances, inaccurate and misreported statistics, and consistent underperformance on reforms prompted major credit rating agencies to downgrade Greece's international debt rating in late 2009 and led the country into a financial crisis. Under intense pressure from the EU and international market participants, the government accepted a bailout program that called on Athens to cut government spending, decrease tax evasion, overhaul the civil-service, health-care, and pension systems, and reform the labor and product markets. Austerity measures reduced the deficit to 1.3% in 2017. Successive Greek governments, however, failed to push through many of the most unpopular reforms in the face of widespread political opposition, including from the country's powerful labor unions and the general public.</p><p></p><p>In April 2010, a leading credit agency assigned Greek debt its lowest possible credit rating, and in May 2010, the IMF and euro-zone governments provided Greece emergency short- and medium-term loans worth $147 billion so that the country could make debt repayments to creditors. Greece, however, struggled to meet the targets set by the EU and the IMF, especially after Eurostat - the EU's statistical office - revised upward Greece's deficit and debt numbers for 2009 and 2010. European leaders and the IMF agreed in October 2011 to provide Athens a second bailout package of $169 billion. The second deal called for holders of Greek government bonds to write down a significant portion of their holdings to try to alleviate Greece’s government debt burden. However, Greek banks, saddled with a significant portion of sovereign debt, were adversely affected by the write down and $60 billion of the second bailout package was set aside to ensure the banking system was adequately capitalized.</p><p></p><p>In 2014, the Greek economy began to turn the corner on the recession. Greece achieved three significant milestones: balancing the budget - not including debt repayments; issuing government debt in financial markets for the first time since 2010; and generating 0.7% GDP growth — the first economic expansion since 2007.</p><p></p><p>Despite the nascent recovery, widespread discontent with austerity measures helped propel the far-left Coalition of the Radical Left (SYRIZA) party into government in national legislative elections in January 2015. Between January and July 2015, frustrations grew between the SYRIZA-led government and Greece’s EU and IMF creditors over the implementation of bailout measures and disbursement of funds. The Greek government began running up significant arrears to suppliers, while Greek banks relied on emergency lending, and Greece’s future in the euro zone was called into question. To stave off a collapse of the banking system, Greece imposed capital controls in June 2015, then became the first developed nation to miss a loan payment to the IMF, rattling international financial markets. Unable to reach an agreement with creditors, Prime Minister Alexios TSIPRAS held a nationwide referendum on 5 July on whether to accept the terms of Greece’s bailout, campaigning for the ultimately successful "no" vote. The TSIPRAS government subsequently agreed, however, to a new $96 billion bailout in order to avert Greece’s exit from the monetary bloc. On 20 August 2015, Greece signed its third bailout, allowing it to cover significant debt payments to its EU and IMF creditors and to ensure the banking sector retained access to emergency liquidity. The TSIPRAS government — which retook office on 20 September 2015 after calling new elections in late August — successfully secured disbursal of two delayed tranches of bailout funds. Despite the economic turmoil, Greek GDP did not contract as sharply as feared, boosted in part by a strong tourist season.</p><p></p><p>In 2017, Greece saw improvements in GDP and unemployment. Unfinished economic reforms, a massive non-performing loan problem, and ongoing uncertainty regarding the political direction of the country hold the economy back. Some estimates put Greece’s black market at 20- to 25% of GDP, as more people have stopped reporting their income to avoid paying taxes that, in some cases, have risen to 70% of an individual’s gross income.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$292.4 billion note: data are in 2017 dollars (2020 est.)<br>
-$318.68 billion note: data are in 2017 dollars (2019 est.)<br>
-$312.87 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$292.4 billion (2020 est.)<br>
+$318.68 billion (2019 est.)<br>
+$312.87 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 1.87% (2019 est.)<br>
@@ -394,10 +394,10 @@ $312.87 billion note: data are in 2017 dollars (2018 est.)<br>
 1.44% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$27,300 note: data are in 2017 dollars (2020 est.)<br>
-$29,700 note: data are in 2017 dollars (2019 est.)<br>
-$29,200 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$27,300 (2020 est.)<br>
+$29,700 (2019 est.)<br>
+$29,200 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $209.79 billion (2019 est.)<br>
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,215,704 estimated refugee and migrant arrivals (January 2015-March 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,215,772 estimated refugee and migrant arrivals (January 2015-April 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

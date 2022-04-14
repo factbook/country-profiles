@@ -92,10 +92,10 @@ _noun_: Mauritanian(s)<br>
 _adjective_: Mauritanian<br>
 
 **Ethnic groups**<br>
-Black Moors (Haratines - Arab-speaking descendants of African origin who are or were enslaved by white Moors) 40%, White Moors (of Arab-Berber descent, known as Beydane) 30%, Sub-Saharan Mauritanians (non-Arabic speaking, largely resident in or originating from the Senegal River Valley, including Halpulaar, Fulani, Soninke, Wolof, and Bambara ethnic groups) 30%<br>
+Black Moors (Haratines - Arabic-speaking descendants of African origin who are or were enslaved by white Moors) 40%, White Moors (of Arab-Berber descent, known as Beydane) 30%, Sub-Saharan Mauritanians (non-Arabic speaking, largely resident in or originating from the Senegal River Valley, including Halpulaar, Fulani, Soninke, Wolof, and Bambara ethnic groups) 30%<br>
 
 **Languages**<br>
-Arabic (official and national), Pular, Soninke, Wolof (all national languages), French; note - the spoken Arabic in Mauritania differs considerably from the modern standard Arabic used for official written purposes or in the media; the Mauritanian dialect, which incorporates many Berber words, is referred to as Hassaniya<br>
+Arabic (official and national), Pular, Soninke, Wolof (all national languages), French; note - the spoken Arabic in Mauritania differs considerably from the Modern Standard Arabic used for official written purposes or in the media; the Mauritanian dialect, which incorporates many Berber words, is referred to as Hassaniya<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -410,9 +410,9 @@ _selected World Heritage Site locales_: Banc d'Arguin National Park (n); Ancient
 <p>Mauritania's economy is dominated by extractive industries (oil and mines), fisheries, livestock, agriculture, and services. Half the population still depends on farming and raising livestock, even though many nomads and subsistence farmers were forced into the cities by recurrent droughts in the 1970s, 1980s, 2000s, and 2017. Recently, GDP growth has been driven largely by foreign investment in the mining and oil sectors.</p><p></p><p>Mauritania's extensive mineral resources include iron ore, gold, copper, gypsum, and phosphate rock, and exploration is ongoing for tantalum, uranium, crude oil, and natural gas. Extractive commodities make up about three-quarters of Mauritania's total exports, subjecting the economy to price swings in world commodity markets. Mining is also a growing source of government revenue, rising from 13% to 30% of total revenue from 2006 to 2014. The nation's coastal waters are among the richest fishing areas in the world, and fishing accounts for about 15% of budget revenues, 45% of foreign currency earnings. Mauritania processes a total of 1,800,000 tons of fish per year, but overexploitation by foreign and national fleets threaten the sustainability of this key source of revenue.</p><p></p><p>The economy is highly sensitive to international food and extractive commodity prices. Other risks to Mauritania's economy include its recurring droughts, dependence on foreign aid and investment, and insecurity in neighboring Mali, as well as significant shortages of infrastructure, institutional capacity, and human capital. In December 2017, Mauritania and the IMF agreed to a three year agreement under the Extended Credit Facility to foster economic growth, maintain macroeconomic stability, and reduce poverty. Investment in agriculture and infrastructure are the largest components of the country’s public expenditures.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$23.17 billion note: data are in 2017 dollars (2020 est.)<br>
-$23.52 billion note: data are in 2017 dollars (2019 est.)<br>
-$22.2 billion note: data are in 2017 dollars (2018 est.)<br>
+$23.17 billion (2020 est.)<br>
+$23.52 billion (2019 est.)<br>
+$22.2 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -421,10 +421,10 @@ $22.2 billion note: data are in 2017 dollars (2018 est.)<br>
 0.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$5,000 note: data are in 2017 dollars (2020 est.)<br>
-$5,200 note: data are in 2017 dollars (2019 est.)<br>
-$5,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$5,000 (2020 est.)<br>
+$5,200 (2019 est.)<br>
+$5,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $706 million (2018 est.)<br>
@@ -628,13 +628,13 @@ _total subscriptions_: 4,932,571 (2020)<br>
 _subscriptions per 100 inhabitants_: 106.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Mauritania&rsquo;s small population and low economic output limit sustained growth; transparency and tax burdens hinder foreign investment; World Bank and European Investment Bank support regulations to promote fixed-line broadband, improvement of the national backbone network, and connectivity to international cables; limited system of cable and open-wire lines, mobile-cellular services expanding though monopolies, and little stimulus for competition; 3G penetration high yet little development in LTE; mobile broadband access speeds are low; importer of broadcasting equipment from UAE (2020)<br>
+_general assessment_: Mauritania&rsquo;s small population and low economic output limit sustained growth; transparency and tax burdens hinder foreign investment; World Bank and European Investment Bank support regulatory reforms to promote fixed-line broadband, improvement of the national backbone network, and connectivity to international cables; limited system of cable and open-wire lines, mobile-cellular services expanding though monopolies, and little stimulus for competition; 3G penetration high yet little development in LTE; mobile broadband access speeds are low; importer of broadcasting equipment from UAE (2020)<br>
 _domestic_: fixed-line teledensity roughly 1 per 100 persons; mobile-cellular network coverage extends mainly to urban areas with a teledensity of roughly 106 per 100 persons; mostly cable and open-wire lines; a domestic satellite telecommunications system links Nouakchott with regional capitals (2020)<br>
 _international_: country code - 222; landing point for the ACE submarine cable for connectivity&nbsp;to 19 West African countries and 2 European countries; satellite earth stations - 3 (1 Intelsat - Atlantic Ocean, 2 Arabsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-10 TV stations: 5 government-owned and 5 private; in October 2017, the government suspended all private TV stations due to non-payment of broadcasting fees; as of April 2018, only one private TV station was broadcasting, Al Mourabitoune, the official TV of the Mauritanian Islamist party, Tewassoul; the other stations are negotiating payment options with the government and hope to be back on the air soon; 18 radio broadcasters: 15 government-owned, 3 (Radio Nouakchott Libre, Radio Tenwir, Radio Kobeni) private; all 3 private radio stations broadcast from Nouakchott; of the 15 government stations, 3 broadcast from Nouakchott (Radio Mauritanie, Radio Jeunesse, Radio Koran) and the other 12 broadcast from each of the 12 regions outside Nouakchott; Radio Jeunesse and Radio Koran are now also being re-broadcast in the regions (2019)<br>
+12 TV stations: 6 government-owned and 6 private (the 6th was started in early 2022, owed by the President of Mauritanian Businessmen); in October 2017, the government suspended most private TV stations due to non-payment of broadcasting fees, but they later negotiated payment options with the government and are back since 2019. There are 19 radio broadcasters: 15 government-owned, 4 (Radio Nouakchott Libre, Radio Tenwir, Radio Kobeni and Mauritanid) private; all 4 private radio stations broadcast from Nouakchott; of the 15 government stations, 4 broadcast from Nouakchott (Radio Mauritanie, Radio Jeunesse, Radio Koran and Mauritanid) and the other 12 broadcast from each of the 12 regions outside Nouakchott; Radio Jeunesse and Radio Koran are now also being re-broadcast in all the regions. (2022)<br>
 
 **Internet country code**<br>
 .mr<br>
@@ -731,7 +731,7 @@ Al-Qaeda in the Islamic Maghreb (AQIM)<br>
 <p>Mauritanian claims to Western Sahara remain dormant</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 72,816 (Mali) (2021)<br>
+_refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 80,373 (Mali) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Mauritania is a source, transit, and destination country for men, women, and children subjected to conditions of forced labor and sex trafficking; adults and children from traditional slave castes are subjected to slavery-related practices rooted in ancestral master-slave relationships; Mauritanian boys&nbsp; are trafficked within the country by religious teachers for forced begging; Mauritanian girls, as well as girls from Mali, Senegal, The Gambia, and other West African countries, are forced into domestic servitude; Mauritanian women and girls are forced into prostitution in the country or transported to countries in the Middle East for the same purpose<br>

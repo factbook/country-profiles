@@ -340,9 +340,9 @@ _lyrics/music_: Timothy GIBSON<br>
 The Bahamas has the second highest per capita GDP in the English-speaking Caribbean with an economy heavily dependent on tourism and financial services. Tourism accounts for approximately 50% of GDP and directly or indirectly employs half of the archipelago's labor force. Financial services constitute the second-most important sector of the Bahamian economy, accounting for about 15% of GDP. Manufacturing and agriculture combined contribute less than 7% of GDP and show little growth, despite government incentives aimed at those sectors. The new government led by Prime Minister Hubert MINNIS has prioritized addressing fiscal imbalances and rising debt, which stood at 75% of GDP in 2016. Large capital projects like the Baha Mar Casino and Hotel are driving growth. Public debt increased in 2017 in large part due to hurricane reconstruction and relief financing. The primary fiscal balance was a deficit of 0.4% of GDP in 2016. The Bahamas is the only country in the Western Hemisphere that is not a member of the World Trade Organization.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$12.1 billion note: data are in 2017 dollars (2020 est.)<br>
-$14.45 billion note: data are in 2017 dollars (2019 est.)<br>
-$14.28 billion note: data are in 2017 dollars (2018 est.)<br>
+$12.1 billion (2020 est.)<br>
+$14.45 billion (2019 est.)<br>
+$14.28 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -351,9 +351,9 @@ $14.28 billion note: data are in 2017 dollars (2018 est.)<br>
 1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$30,800 note: data are in 2017 dollars (2020 est.)<br>
-$37,100 note: data are in 2017 dollars (2019 est.)<br>
-$37,000 note: data are in 2017 dollars (2018 est.)<br>
+$30,800 (2020 est.)<br>
+$37,100 (2019 est.)<br>
+$37,000 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

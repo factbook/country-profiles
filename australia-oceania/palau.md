@@ -365,8 +365,8 @@ _selected World Heritage Site locales_: Rock Islands Southern Lagoon<br>
 <p>The economy is dominated by tourism, fishing, and subsistence agriculture. Government is a major employer of the work force relying on financial assistance from the US under the Compact of Free Association (Compact) with the US that took effect after the end of the UN trusteeship on 1 October 1994. The US provided Palau with roughly $700 million in aid for the first 15 years following commencement of the Compact in 1994 in return for unrestricted access to its land and waterways for strategic purposes. The population enjoys a per capita income roughly double that of the Philippines and much of Micronesia.</p><p></p><p>Business and leisure tourist arrivals reached a record 167,966 in 2015, a 14.4% increase over the previous year, but fell to 138,408 in 2016. Long-run prospects for tourism have been bolstered by the expansion of air travel in the Pacific, the rising prosperity of industrial East Asia, and the willingness of foreigners to finance infrastructure development. Proximity to Guam, the region's major destination for tourists from East Asia, and a regionally competitive tourist infrastructure enhance Palau's advantage as a destination.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$320 million note: data are in 2017 dollars (2019 est.)<br>
-$330 million note: data are in 2017 dollars (2018 est.)<br>
+$320 million (2019 est.)<br>
+$330 million (2018 est.)<br>
 $317 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -379,7 +379,6 @@ $317 million (2017 est.)<br>
 $17,600 note: data are in 2017 dollars (2019 est.)<br>
 $18,400 note: data are in 2017 dollars (2018 est.)<br>
 $17,841 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $292 million (2017 est.)<br>

@@ -411,10 +411,10 @@ _selected World Heritage Site locales_: Ruins of Lorop&eacute;ni (c), Ancient Fe
 <p>Burkina Faso is a poor, landlocked country that depends on adequate rainfall. Irregular patterns of rainfall, poor soil, and the lack of adequate communications and other infrastructure contribute to the economy’s vulnerability to external shocks. About 80% of the population is engaged in subsistence farming and cotton is the main cash crop. The country has few natural resources and a weak industrial base.</p><p></p><p>Cotton and gold are Burkina Faso’s key exports - gold has accounted for about three-quarters of the country’s total export revenues. Burkina Faso’s economic growth and revenue depends largely on production levels and global prices for the two commodities. The country has seen an upswing in gold exploration, production, and exports.</p><p></p><p>In 2016, the government adopted a new development strategy, set forth in the 2016-2020 National Plan for Economic and Social Development, that aims to reduce poverty, build human capital, and to satisfy basic needs. A new three-year IMF program (2018-2020), approved in 2018, will allow the government to reduce the budget deficit and preserve critical spending on social services and priority public investments.</p><p></p><p>While the end of the political crisis has allowed Burkina Faso’s economy to resume positive growth, the country’s fragile security situation could put these gains at risk. Political insecurity in neighboring Mali, unreliable energy supplies, and poor transportation links pose long-term challenges.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$45.16 billion note: data are in 2017 dollars (2020 est.)<br>
-$44.27 billion note: data are in 2017 dollars (2019 est.)<br>
-$41.88 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$45.16 billion (2020 est.)<br>
+$44.27 billion (2019 est.)<br>
+$41.88 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 6.4% (2017 est.)<br>
@@ -422,10 +422,10 @@ $41.88 billion note: data are in 2017 dollars (2018 est.)<br>
 3.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,200 note: data are in 2017 dollars (2020 est.)<br>
-$2,200 note: data are in 2017 dollars (2019 est.)<br>
-$2,100 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$2,200 (2020 est.)<br>
+$2,200 (2019 est.)<br>
+$2,100 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $14.271 billion (2018 est.)<br>

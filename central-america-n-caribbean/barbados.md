@@ -368,9 +368,9 @@ _selected World Heritage Site locales_: Historic Bridgetown and its Garrison<br>
 Barbados is the wealthiest and one of the most developed countries in the Eastern Caribbean and enjoys one of the highest per capita incomes in the region. Historically, the Barbadian economy was dependent on sugarcane cultivation and related activities. However, in recent years the economy has diversified into light industry and tourism. Offshore finance and information services are important foreign exchange earners, boosted by being in the same time zone as eastern US financial centers and by a relatively highly educated workforce. Following the 2008-09 recession, external vulnerabilities such as fluctuations in international oil prices have hurt economic growth, raised Barbados' already high public debt to GDP ratio - which stood at 105% of GDP in 2016 - and cut into its international reserves.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.7 billion note: data are in 2017 dollars (2020 est.)<br>
-$4.49 billion note: data are in 2017 dollars (2019 est.)<br>
-$4.49 billion note: data are in 2017 dollars (2018 est.)<br>
+$3.7 billion (2020 est.)<br>
+$4.49 billion (2019 est.)<br>
+$4.49 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -379,9 +379,9 @@ $4.49 billion note: data are in 2017 dollars (2018 est.)<br>
 2.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$12,900 note: data are in 2017 dollars (2020 est.)<br>
-$15,600 note: data are in 2017 dollars (2019 est.)<br>
-$15,700 note: data are in 2017 dollars (2018 est.)<br>
+$12,900 (2020 est.)<br>
+$15,600 (2019 est.)<br>
+$15,700 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -409,7 +409,7 @@ _exports of goods and services_: 31.6% (2017 est.)<br>
 _imports of goods and services_: -47% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, poultry, vegetables, milk, eggs, pork, coconuts, pulses nes, sweet potatoes, tropical fruit<br>
+sugar cane, poultry, vegetables, milk, eggs, pork, coconuts, pulses, sweet potatoes, tropical fruit<br>
 
 **Industries**<br>
 tourism, sugar, light manufacturing, component assembly for export<br>

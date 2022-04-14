@@ -419,9 +419,9 @@ $4.195 billion (2017 est.)<br>
 4.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$900 note: data are in 2017 dollars (2020 est.)<br>
-$900 note: data are in 2017 dollars (2019 est.)<br>
-$900 note: data are in 2017 dollars (2018 est.)<br>
+$900 (2020 est.)<br>
+$900 (2019 est.)<br>
+$900 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

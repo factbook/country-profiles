@@ -369,9 +369,9 @@ _lyrics/music_: Sauni Liga KURESA<br>
 <p>The economy of Samoa has traditionally been dependent on development aid, family remittances from overseas, tourism, agriculture, and fishing. It has a nominal GDP of $844 million. Agriculture, including fishing, furnishes 90% of exports, featuring fish, coconut oil, nonu products, and taro. The manufacturing sector mainly processes agricultural products. Industry accounts for nearly 22% of GDP while employing less than 6% of the work force. The service sector accounts for nearly two-thirds of GDP and employs approximately 50% of the labor force. Tourism is an expanding sector accounting for 25% of GDP; 132,000 tourists visited the islands in 2013.</p><p></p><p>The country is vulnerable to devastating storms. In September 2009, an earthquake and the resulting tsunami severely damaged Samoa and nearby American Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. In December 2012, extensive flooding and wind damage from Tropical Cyclone Evan killed four people, displaced over 6,000, and damaged or destroyed an estimated 1,500 homes on Samoa's Upolu Island.</p><p></p><p>The Samoan Government has called for deregulation of the country's financial sector, encouragement of investment, and continued fiscal discipline, while at the same time protecting the environment. Foreign reserves are relatively healthy and inflation is low, but external debt is approximately 45% of GDP. Samoa became the 155th member of the WTO in May 2012, and graduated from least developed country status in January 2014.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.25 billion note: data are in 2017 dollars (2020 est.)<br>
-$1.28 billion note: data are in 2017 dollars (2019 est.)<br>
-$1.24 billion note: data are in 2017 dollars (2018 est.)<br>
+$1.25 billion (2020 est.)<br>
+$1.28 billion (2019 est.)<br>
+$1.24 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -380,9 +380,9 @@ $1.24 billion note: data are in 2017 dollars (2018 est.)<br>
 1.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$6,300 note: data are in 2017 dollars (2020 est.)<br>
-$6,500 note: data are in 2017 dollars (2019 est.)<br>
-$6,300 note: data are in 2017 dollars (2018 est.)<br>
+$6,300 (2020 est.)<br>
+$6,500 (2019 est.)<br>
+$6,300 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

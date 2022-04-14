@@ -370,9 +370,9 @@ _lyrics/music_: Amilcar Lopes CABRAL/XIAO He<br>
 <p>Guinea-Bissau is highly dependent on subsistence agriculture, cashew nut exports, and foreign assistance. Two out of three Bissau-Guineans remain below the absolute poverty line. The legal economy is based on cashews and fishing. Illegal logging and trafficking in narcotics also play significant roles. The combination of limited economic prospects, weak institutions, and favorable geography have made this West African country a way station for drugs bound for Europe.</p><p></p><p>Guinea-Bissau has substantial potential for development of mineral resources, including phosphates, bauxite, and mineral sands. Offshore oil and gas exploration has begun. The country’s climate and soil make it feasible to grow a wide range of cash crops, fruit, vegetables, and tubers; however, cashews generate more than 80% of export receipts and are the main source of income for many rural communities.</p><p></p><p>The government was deposed in August 2015, and since then, a political stalemate has resulted in weak governance and reduced donor support.</p><p></p><p>The country is participating in a three-year, IMF extended credit facility program that was suspended because of a planned bank bailout. The program was renewed in 2017, but the major donors of direct budget support (the EU, World Bank, and African Development Bank) have halted their programs indefinitely. Diversification of the economy remains a key policy goal, but Guinea-Bissau’s poor infrastructure and business climate will constrain this effort.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.64 billion note: data are in 2017 dollars (2020 est.)<br>
-$3.73 billion note: data are in 2017 dollars (2019 est.)<br>
-$3.56 billion note: data are in 2017 dollars (2018 est.)<br>
+$3.64 billion (2020 est.)<br>
+$3.73 billion (2019 est.)<br>
+$3.56 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -381,9 +381,9 @@ $3.56 billion note: data are in 2017 dollars (2018 est.)<br>
 6.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,800 note: data are in 2017 dollars (2020 est.)<br>
-$1,900 note: data are in 2017 dollars (2019 est.)<br>
-$1,900 note: data are in 2017 dollars (2018 est.)<br>
+$1,800 (2020 est.)<br>
+$1,900 (2019 est.)<br>
+$1,900 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

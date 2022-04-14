@@ -373,10 +373,10 @@ _selected World Heritage Site locales_: Luxembourg City Old Quarters and Fortifi
 <p>This small, stable, high-income economy has historically featured solid growth, low inflation, and low unemployment. Luxembourg, the only Grand Duchy in the world, is a landlocked country in northwestern Europe surrounded by Belgium, France, and Germany. Despite its small landmass and small population, Luxembourg is the fifth-wealthiest country in the world when measured on a gross domestic product (PPP) per capita basis. Luxembourg has one of the highest current account surpluses as a share of GDP in the euro zone, and it maintains a healthy budgetary position, with a 2017 surplus of 0.5% of GDP, and the lowest public debt level in the region.</p><p></p><p>Since 2002, Luxembourg’s government has proactively implemented policies and programs to support economic diversification and to attract foreign direct investment. The government focused on key innovative industries that showed promise for supporting economic growth: logistics, information and communications technology (ICT); health technologies, including biotechnology and biomedical research; clean energy technologies, and more recently, space technology and financial services technologies. The economy has evolved and flourished, posting strong GDP growth of 3.4% in 2017, far outpacing the European average of 1.8%.</p><p></p><p>Luxembourg remains a financial powerhouse – the financial sector accounts for more than 35% of GDP - because of the exponential growth of the investment fund sector through the launch and development of cross-border funds (UCITS) in the 1990s. Luxembourg is the world’s second-largest investment fund asset domicile, after the US, with $4 trillion of assets in custody in financial institutions.</p><p></p><p>Luxembourg has lost some of its advantage as a favorable tax location because of OECD and EU pressure, as well as the "LuxLeaks" scandal, which revealed advantageous tax treatments offered to foreign corporations. In 2015, the government’s compliance with EU requirements to implement automatic exchange of tax information on savings accounts - thus ending banking secrecy - has constricted banking activity. Likewise, changes to the way EU members collect taxes from e-commerce has cut Luxembourg’s sales tax revenues, requiring the government to raise additional levies and to reduce some direct social benefits as part of the tax reform package of 2017. The tax reform package also included reductions in the corporate tax rate and increases in deductions for families, both intended to increase purchasing power and increase competitiveness.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$69.72 billion note: data are in 2017 dollars (2020 est.)<br>
-$70.64 billion note: data are in 2017 dollars (2019 est.)<br>
-$69.06 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$69.72 billion (2020 est.)<br>
+$70.64 billion (2019 est.)<br>
+$69.06 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.31% (2019 est.)<br>
@@ -384,10 +384,10 @@ $69.06 billion note: data are in 2017 dollars (2018 est.)<br>
 1.81% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$110,300 note: data are in 2017 dollars (2020 est.)<br>
-$113,900 note: data are in 2017 dollars (2019 est.)<br>
-$113,600 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$110,300 (2020 est.)<br>
+$113,900 (2019 est.)<br>
+$113,600 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $71.089 billion (2019 est.)<br>

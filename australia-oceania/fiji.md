@@ -375,9 +375,9 @@ _selected World Heritage Site locales_: Levuka Historical Port Town<br>
 <p>Fiji, endowed with forest, mineral, and fish resources, is one of the most developed and connected of the Pacific island economies. Earnings from the tourism industry, with an estimated 842,884 tourists visiting in 2017, and remittances from Fijian’s working abroad are the country’s largest foreign exchange earners.</p><p></p><p>Bottled water exports to the US is Fiji’s largest domestic export. Fiji's sugar sector remains a significant industry and a major export, but crops and one of the sugar mills suffered damage during Cyclone Winston in 2016. Fiji’s trade imbalance continues to widen with increased imports and sluggish performance of domestic exports.</p><p></p><p>The return to parliamentary democracy and successful elections in September 2014 improved investor confidence, but increasing bureaucratic regulation, new taxes, and lack of consultation with relevant stakeholders brought four consecutive years of decline for Fiji on the World Bank Ease of Doing Business index. Private sector investment in 2017 approached 20% of GDP, compared to 13% in 2013.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.86 billion note: data are in 2017 dollars (2020 est.)<br>
-$12.18 billion note: data are in 2017 dollars (2019 est.)<br>
-$12.23 billion note: data are in 2017 dollars (2018 est.)<br>
+$9.86 billion (2020 est.)<br>
+$12.18 billion (2019 est.)<br>
+$12.23 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -386,9 +386,9 @@ $12.23 billion note: data are in 2017 dollars (2018 est.)<br>
 3.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$11,000 note: data are in 2017 dollars (2020 est.)<br>
-$13,700 note: data are in 2017 dollars (2019 est.)<br>
-$13,800 note: data are in 2017 dollars (2018 est.)<br>
+$11,000 (2020 est.)<br>
+$13,700 (2019 est.)<br>
+$13,800 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

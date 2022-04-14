@@ -407,10 +407,10 @@ _selected World Heritage Site locales_: Mbanza-Kongo<br>
 <p>Angola's economy is overwhelmingly driven by its oil sector. Oil production and its supporting activities contribute about 50% of GDP, more than 70% of government revenue, and more than 90% of the country's exports; Angola is an OPEC member and subject to its direction regarding oil production levels. Diamonds contribute an additional 5% to exports. Subsistence agriculture provides the main livelihood for most of the people, but half of the country's food is still imported.</p><p></p><p>Increased oil production supported growth averaging more than 17% per year from 2004 to 2008. A postwar reconstruction boom and resettlement of displaced persons led to high rates of growth in construction and agriculture as well. Some of the country's infrastructure is still damaged or undeveloped from the 27-year-long civil war (1975-2002). However, the government since 2005 has used billions of dollars in credit from China, Brazil, Portugal, Germany, Spain, and the EU to help rebuild Angola's public infrastructure. Land mines left from the war still mar the countryside, and as a result, the national military, international partners, and private Angolan firms all continue to remove them.</p><p></p><p>The global recession that started in 2008 stalled Angola’s economic growth and many construction projects stopped because Luanda accrued billions in arrears to foreign construction companies when government revenue fell. Lower prices for oil and diamonds also resulted in GDP falling 0.7% in 2016. Angola formally abandoned its currency peg in 2009 but reinstituted it in April 2016 and maintains an overvalued exchange rate. In late 2016, Angola lost the last of its correspondent relationships with foreign banks, further exacerbating hard currency problems. Since 2013 the central bank has consistently spent down reserves to defend the kwanza, gradually allowing a 40% depreciation since late 2014. Consumer inflation declined from 325% in 2000 to less than 9% in 2014, before rising again to above 30% from 2015-2017.</p><p></p><p>Continued low oil prices, the depreciation of the kwanza, and slower than expected growth in non-oil GDP have reduced growth prospects, although several major international oil companies remain in Angola. Corruption, especially in the extractive sectors, is a major long-term challenge that poses an additional threat to the economy.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$203.71 billion note: data are in 2017 dollars (2020 est.)<br>
-$212.29 billion note: data are in 2017 dollars (2019 est.)<br>
-$213.62 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$203.71 billion (2020 est.)<br>
+$212.29 billion (2019 est.)<br>
+$213.62 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -2.5% (2017 est.)<br>
@@ -418,10 +418,10 @@ $213.62 billion note: data are in 2017 dollars (2018 est.)<br>
 0.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$6,200 note: data are in 2017 dollars (2020 est.)<br>
-$6,700 note: data are in 2017 dollars (2019 est.)<br>
-$6,900 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$6,200 (2020 est.)<br>
+$6,700 (2019 est.)<br>
+$6,900 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $97.261 billion (2019 est.)<br>
@@ -726,13 +726,16 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 **Military - note**<br>
 <p>the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the name remained even after UNITA rejected the 1992 election results and returned to fighting against the Angolan Government</p> <p>the Angolan Armed Forces are responsible for external security but also have domestic security responsibilities, including border security, expulsion of irregular migrants, and small-scale actions against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda</p><br>
 
+**Maritime threats**<br>
+the International Maritime Bureau reports the territorial waters of Angola are a risk for armed robbery against ships; in 2021, four attacks against commercial vessels were reported, a decrease from the six attacks in 2020; most of these occurred in the main port of Luanda while ships were berthed or at anchor<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
 <p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: </em>None identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) None identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,084 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
+_refugees (country of origin)_: 37,083 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

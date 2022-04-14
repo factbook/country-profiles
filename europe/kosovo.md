@@ -333,10 +333,10 @@ _selected World Heritage Site locales_: Medieval Monuments in Kosovo<br>
 <p>Kosovo's economy has shown progress in transitioning to a market-based system and maintaining macroeconomic stability, but it is still highly dependent on the international community and the diaspora for financial and technical assistance. Remittances from the diaspora - located mainly in Germany, Switzerland, and the Nordic countries - are estimated to account for about 17% of GDP and international donor assistance accounts for approximately 10% of GDP. With international assistance, Kosovo has been able to privatize a majority of its state-owned enterprises.</p><p></p><p>Kosovo's citizens are the second poorest in Europe, after Moldova, with a per capita GDP (PPP) of $10,400 in 2017. An unemployment rate of 33%, and a youth unemployment rate near 60%, in a country where the average age is 26, encourages emigration and fuels a significant informal, unreported economy. Most of Kosovo's population lives in rural towns outside of the capital, Pristina. Inefficient, near-subsistence farming is common - the result of small plots, limited mechanization, and a lack of technical expertise. Kosovo enjoys lower labor costs than the rest of the region. However, high levels of corruption, little contract enforcement, and unreliable electricity supply have discouraged potential investors. The official currency of Kosovo is the euro, but the Serbian dinar is also used illegally in Serb majority communities. Kosovo's tie to the euro has helped keep core inflation low.</p><p></p><p>Minerals and metals production - including lignite, lead, zinc, nickel, chrome, aluminum, magnesium, and a wide variety of construction materials - once the backbone of industry, has declined because of aging equipment and insufficient investment, problems exacerbated by competing and unresolved ownership claims of Kosovo’s largest mines. A limited and unreliable electricity supply is a major impediment to economic development. The US Government is cooperating with the Ministry of Economic Development (MED) and the World Bank to conclude a commercial tender for the construction of Kosovo C, a new lignite-fired power plant that would leverage Kosovo’s large lignite reserves. MED also has plans for the rehabilitation of an older bituminous-fired power plant, Kosovo B, and the development of a coal mine that could supply both plants.</p><p></p><p>In June 2009, Kosovo joined the World Bank and International Monetary Fund, the Central Europe Free Trade Area (CEFTA) in 2006, the European Bank for Reconstruction and Development in 2012, and the Council of Europe Development Bank in 2013. In 2016, Kosovo implemented the Stabilization and Association Agreement (SAA) negotiations with the EU, focused on trade liberalization. In 2014, nearly 60% of customs duty-eligible imports into Kosovo were EU goods. In August 2015, as part of its EU-facilitated normalization process with Serbia, Kosovo signed agreements on telecommunications and energy distribution, but disagreements over who owns economic assets, such as the Trepca mining conglomerate, within Kosovo continue.</p><p></p><p>Kosovo experienced its first federal budget deficit in 2012, when government expenditures climbed sharply. In May 2014, the government introduced a 25% salary increase for public sector employees and an equal increase in certain social benefits. Central revenues could not sustain these increases, and the government was forced to reduce its planned capital investments. The government, led by Prime Minister MUSTAFA - a trained economist - recently made several changes to its fiscal policy, expanding the list of duty-free imports, decreasing the Value Added Tax (VAT) for basic food items and public utilities, and increasing the VAT for all other goods.</p><p></p><p>While Kosovo’s economy continued to make progress, unemployment has not been reduced, nor living standards raised, due to lack of economic reforms and investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$19.13 billion note: data are in 2017 dollars (2020 est.)<br>
-$20.55 billion note: data are in 2017 dollars (2019 est.)<br>
-$19.58 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$19.13 billion (2020 est.)<br>
+$20.55 billion (2019 est.)<br>
+$19.58 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.7% (2017 est.)<br>
@@ -344,10 +344,10 @@ $19.58 billion note: data are in 2017 dollars (2018 est.)<br>
 4.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$10,800 note: data are in 2017 dollars (2020 est.)<br>
-$11,500 note: data are in 2017 dollars (2019 est.)<br>
-$10,900 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2016 US dollars<br>
+$10,800 (2020 est.)<br>
+$11,500 (2019 est.)<br>
+$10,900 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $7.926 billion (2019 est.)<br>

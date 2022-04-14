@@ -394,10 +394,10 @@ _selected World Heritage Site locales_: Maloti-Drakensberg Park<br>
 <p>Small, mountainous, and completely landlocked by South Africa, Lesotho depends on a narrow economic base of textile manufacturing, agriculture, remittances, and regional customs revenue. About three-fourths of the people live in rural areas and engage in animal herding and subsistence agriculture, although Lesotho produces less than 20% of the nation's demand for food. Agriculture is vulnerable to weather and climate variability.</p><p></p><p>Lesotho relies on South Africa for much of its economic activity; Lesotho imports 85% of the goods it consumes from South Africa, including most agricultural inputs. Households depend heavily on remittances from family members working in South Africa in mines, on farms, and as domestic workers, though mining employment has declined substantially since the 1990s. Lesotho is a member of the Southern Africa Customs Union (SACU), and revenues from SACU accounted for roughly 26% of total GDP in 2016; however, SACU revenues are volatile and expected to decline over the next 5 years. Lesotho also gains royalties from the South African Government for water transferred to South Africa from a dam and reservoir system in Lesotho. However, the government continues to strengthen its tax system to reduce dependency on customs duties and other transfers.</p><p></p><p>The government maintains a large presence in the economy - government consumption accounted for about 26% of GDP in 2017. The government remains Lesotho's largest employer; in 2016, the government wage bill rose to 23% of GDP – the largest in Sub-Saharan Africa. Lesotho's largest private employer is the textile and garment industry - approximately 36,000 Basotho, mainly women, work in factories producing garments for export to South Africa and the US. Diamond mining in Lesotho has grown in recent years and accounted for nearly 35% of total exports in 2015. Lesotho managed steady GDP growth at an average of 4.5% from 2010 to 2014, dropping to about 2.5% in 2015-16, but poverty remains widespread around 57% of the total population.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.88 billion note: data are in 2017 dollars (2020 est.)<br>
-$5.49 billion note: data are in 2017 dollars (2019 est.)<br>
-$5.51 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$4.88 billion (2020 est.)<br>
+$5.49 billion (2019 est.)<br>
+$5.51 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 -1.6% (2017 est.)<br>
@@ -405,10 +405,10 @@ $5.51 billion note: data are in 2017 dollars (2018 est.)<br>
 2.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,300 note: data are in 2017 dollars (2020 est.)<br>
-$2,600 note: data are in 2017 dollars (2019 est.)<br>
-$2,600 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$2,300 (2020 est.)<br>
+$2,600 (2019 est.)<br>
+$2,600 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $2.462 billion (2019 est.)<br>

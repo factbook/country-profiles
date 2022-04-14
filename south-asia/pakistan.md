@@ -356,7 +356,7 @@ _residency requirement for naturalization_: 4 out of the previous 7 years and in
 
 **Executive branch**<br>
 _chief of state_: President Arif ALVI (since 9 September 2018)<br>
-_head of government_: Prime Minister Imran KHAN (since 18 August 2018)<br>
+_head of government_: Prime Minister Shehbaz SHARIF (since 11 April 2022); former Prime Minister Imran KHAN on 10 April lost a no-confidence vote in the National Assembly<br>
 _cabinet_: Cabinet appointed by the president upon the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 4 September 2018 (next to be held in 2023); prime minister elected by the National Assembly on 17 August 2018<br>
 _election results_: Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
@@ -416,9 +416,9 @@ _selected World Heritage Site locales_: Archaeological Ruins at Moenjodaro; Budd
 <p>Decades of internal political disputes and low levels of foreign investment have led to underdevelopment in Pakistan. Pakistan has a large English-speaking population, with English-language skills less prevalent outside urban centers. Despite some progress in recent years in both security and energy, a challenging security environment, electricity shortages, and a burdensome investment climate have traditionally deterred investors. Agriculture accounts for one-fifth of output and two-fifths of employment. Textiles and apparel account for more than half of Pakistan's export earnings; Pakistan's failure to diversify its exports has left the country vulnerable to shifts in world demand. Pakistan’s GDP growth has gradually increased since 2012, and was 5.3% in 2017. Official unemployment was 6% in 2017, but this fails to capture the true picture, because much of the economy is informal and underemployment remains high. Human development continues to lag behind most of the region.</p><p></p><p>In 2013, Pakistan embarked on a $6.3 billion IMF Extended Fund Facility, which focused on reducing energy shortages, stabilizing public finances, increasing revenue collection, and improving its balance of payments position. The program concluded in September 2016. Although Pakistan missed several structural reform criteria, it restored macroeconomic stability, improved its credit rating, and boosted growth. The Pakistani rupee has remained relatively stable against the US dollar since 2015, though it declined about 10% between November 2017 and March 2018. Balance of payments concerns have reemerged, however, as a result of a significant increase in imports and weak export and remittance growth.</p><p></p><p>Pakistan must continue to address several longstanding issues, including expanding investment in education, healthcare, and sanitation; adapting to the effects of climate change and natural disasters; improving the country’s business environment; and widening the country’s tax base. Given demographic challenges, Pakistan’s leadership will be pressed to implement economic reforms, promote further development of the energy sector, and attract foreign investment to support sufficient economic growth necessary to employ its growing and rapidly urbanizing population, much of which is under the age of 25.</p><p></p><p>In an effort to boost development, Pakistan and China are implementing the "China-Pakistan Economic Corridor" (CPEC) with $60 billion in investments targeted towards energy and other infrastructure projects. Pakistan believes CPEC investments will enable growth rates of over 6% of GDP by laying the groundwork for increased exports. CPEC-related obligations, however, have raised IMF concern about Pakistan’s capital outflows and external financing needs over the medium term.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,021,130,000,000 note: data are in 2017 dollars (2020 est.)<br>
-$1,015,800,000,000 note: data are in 2017 dollars (2019 est.)<br>
-$1,005,850,000,000 note: data are in 2017 dollars (2018 est.)<br>
+$1,021,130,000,000 (2020 est.)<br>
+$1,015,800,000,000 (2019 est.)<br>
+$1,005,850,000,000 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>data are for fiscal years<br>
 
 **Real GDP growth rate**<br>
@@ -428,10 +428,10 @@ $1,005,850,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are for fiscal years<br>
 
 **Real GDP per capita**<br>
-$4,600 note: data are in 2017 dollars (2020 est.)<br>
-$4,700 note: data are in 2017 dollars (2019 est.)<br>
-$4,700 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$4,600 (2020 est.)<br>
+$4,700 (2019 est.)<br>
+$4,700 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $253.183 billion (2019 est.)<br>

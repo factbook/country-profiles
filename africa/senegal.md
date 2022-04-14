@@ -386,7 +386,7 @@ _email address and website_: <br>contact@ambasenegal-us.org<br><br>http://www.am
 _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Tulinabo S. MUSHINGI (since August 2017); note - also accredited to Guinea-Bissau<br>
+_chief of mission_: Ambassador Michael RAYNOR (since February 2022); note - also accredited to Guinea-Bissau<br>
 _embassy_: Route des Almadies, Dakar<br>
 _mailing address_: 2130 Dakar Place, Washington DC&nbsp; 20521-2130<br>
 _telephone_: [221] 33-879-4000<br>
@@ -414,10 +414,10 @@ _selected World Heritage Site locales_: Island of Gor&eacute;e (c); Niokolo-Koba
 <p>Senegal’s economy is driven by mining, construction, tourism, fisheries and agriculture, which are the primary sources of employment in rural areas. The country's key export industries include phosphate mining, fertilizer production, agricultural products and commercial fishing and Senegal is also working on oil exploration projects. It relies heavily on donor assistance, remittances and foreign direct investment. Senegal reached a growth rate of 7% in 2017, due in part to strong performance in agriculture despite erratic rainfall.</p><p></p><p>President Macky SALL, who was elected in March 2012 under a reformist policy agenda, inherited an economy with high energy costs, a challenging business environment, and a culture of overspending. President SALL unveiled an ambitious economic plan, the Emerging Senegal Plan (ESP), which aims to implement priority economic reforms and investment projects to increase economic growth while preserving macroeconomic stability and debt sustainability. Bureaucratic bottlenecks and a challenging business climate are among the perennial challenges that may slow the implementation of this plan.</p><p></p><p>Senegal receives technical support from the IMF under a Policy Support Instrument (PSI) to assist with implementation of the ESP. The PSI implementation continues to be satisfactory as concluded by the IMF’s fifth review in December 2017. Financial markets have signaled confidence in Senegal through successful Eurobond issuances in 2014, 2017, and 2018.</p><p></p><p>The government is focusing on 19 projects under the ESP to continue The government’s goal under the ESP is structural transformation of the economy. Key projects include the Thiès-Touba Highway, the new international airport opened in December 2017, and upgrades to energy infrastructure. The cost of electricity is a chief constraint for Senegal’s development. Electricity prices in Senegal are among the highest in the world. Power Africa, a US presidential initiative led by USAID, supports Senegal’s plans to improve reliability and increase generating capacity.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$55.26 billion note: data are in 2017 dollars (2020 est.)<br>
-$54.78 billion note: data are in 2017 dollars (2019 est.)<br>
-$52.47 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$55.26 billion (2020 est.)<br>
+$54.78 billion (2019 est.)<br>
+$52.47 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 7.2% (2017 est.)<br>
@@ -425,10 +425,10 @@ $52.47 billion note: data are in 2017 dollars (2018 est.)<br>
 6.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,300 note: data are in 2017 dollars (2020 est.)<br>
-$3,400 note: data are in 2017 dollars (2019 est.)<br>
-$3,300 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$3,300 (2020 est.)<br>
+$3,400 (2019 est.)<br>
+$3,300 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $23.576 billion (2019 est.)<br>
@@ -725,7 +725,7 @@ the FAS inventory includes mostly older or second-hand equipment from a variety 
 note - in 2021, Senegal also had over 700 police deployed on UN missions<br>
 
 **Military - note**<br>
-<p>as of 2021, Senegalese security forces continued to be engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance; while violent incidents have decreased since a tacit cease-fire was reached in 2012, the insurgency, which began in 1982, remains one of longest running low-level conflicts in the world, claiming more than 5,000 lives and leaving another 60,000 displaced</p><br>
+<p>Senegalese security forces continued to be engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance; while violent incidents have decreased since a tacit cease-fire was reached in 2012, the insurgency, which began in 1982, remains one of longest running low-level conflicts in the world, claiming more than 5,000 lives and leaving another 60,000 displaced</p><br>
 
 ## Terrorism
 

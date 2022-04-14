@@ -390,10 +390,10 @@ _lyrics/music_: Clifford Nelson FYLE/John Joseph AKA<br>
 <p>Sierra Leone is extremely poor and nearly half of the working-age population engages in subsistence agriculture. The country possesses substantial mineral, agricultural, and fishery resources, but it is still recovering from a civil war that destroyed most institutions before ending in the early 2000s.</p><p></p><p>In recent years, economic growth has been driven by mining - particularly iron ore. The country’s principal exports are iron ore, diamonds, and rutile, and the economy is vulnerable to fluctuations in international prices. Until 2014, the government had relied on external assistance to support its budget, but it was gradually becoming more independent. The Ebola outbreak of 2014 and 2015, combined with falling global commodities prices, caused a significant contraction of economic activity in all areas. While the World Health Organization declared an end to the Ebola outbreak in Sierra Leone in November 2015, low commodity prices in 2015-2016 contributed to the country’s biggest fiscal shortfall since 2001. In 2017, increased iron ore exports, together with the end of the Ebola epidemic, supported a resumption of economic growth.</p><p></p><p>Continued economic growth will depend on rising commodities prices and increased efforts to diversify the sources of growth. Non-mining activities will remain constrained by inadequate infrastructure, such as power and roads, even though power sector projects may provide some additional electricity capacity in the near term. Pervasive corruption and undeveloped human capital will continue to deter foreign investors. Sustained international donor support in the near future will partially offset these fiscal constraints.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$13.15 billion note: data are in 2017 dollars (2020 est.)<br>
-$13.44 billion note: data are in 2017 dollars (2019 est.)<br>
-$12.72 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$13.15 billion (2020 est.)<br>
+$13.44 billion (2019 est.)<br>
+$12.72 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.7% (2017 est.)<br>
@@ -401,9 +401,9 @@ $12.72 billion note: data are in 2017 dollars (2018 est.)<br>
 -20.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,600 note: data are in 2017 dollars (2020 est.)<br>
-$1,700 note: data are in 2017 dollars (2019 est.)<br>
-$1,700 note: data are in 2017 dollars (2018 est.)<br>
+$1,600 (2020 est.)<br>
+$1,700 (2019 est.)<br>
+$1,700 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

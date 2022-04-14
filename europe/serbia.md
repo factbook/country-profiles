@@ -349,13 +349,13 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: President Aleksandar VUCIC (since 31 May 2017)<br>
 _head of government_: Prime Minister Ana BRNABIC (since 29 June 2017)<br>
 _cabinet_: Cabinet elected by the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 2 April 2017 (next to be held in April 2022); prime minister elected by the National Assembly<br>
-_election results_: <br><em>2017:</em> Aleksandar VUCIC elected president in the first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, Bosko OBRADOVIC (Dveri) 2.3%, other 5.0%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020<br><br><em>2012: </em>Tomislav NIKOLIC elected president; percent of vote in second round - Tomislav NIKOLIC (SNS) 51.2%, Boris TADIC (NDS-Z) 48.8%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 3 April 2022 (next to be held in April 2027); prime minister elected by the National Assembly; note - in October 2020 President VUCIC called for early elections<br>
+_election results_: <em>2022:</em> Aleksandar VUCIC reelected in the first round; percent of vote - Aleksandar VUSIC (SNS) 60%, Zdravko PONOS (US) 18.9%, Milos JOVANOVIC (NADA) 6.1%, Bosko OBRADOVIC (Dveri-POKS) 4.5%, Milica DURDEVIC STAMENDOVSKI (SSZ) 4.3%, other 6.2%<br><br><em>2017:</em> Aleksandar VUCIC elected president in the first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, Bosko OBRADOVIC (Dveri) 2.3%, other 5.0%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms)<br>
-_elections_: last held on 21 June 2020 (originally scheduled for 26 April 2020 but postponed due to the COVID-19 pandemic) (next to be held in April 2022)<br>
-_election results_: percent of vote by party/coalition - For Our Children 60.7%, SPS-JS 10.4%, SPAS 3.8%, SVM 2.2%, Straight Ahead 1%, Albanian Democratic Alternative .8%, SDA .8%, other 20.3%; seats by party/coalition For Our Children 188, SPS-JS 32, SPAS 11, SVM 9, Straight Ahead 4, Albanian Democratic Alternative 3, SDA 3; composition (preliminary) -&nbsp; men 165, women 85, percent of women 30%<br>
+_elections_: last held on 3 April 2022 (next to be held in April 2026)<br>
+_election results_: percent of vote by party/coalition - Together We Can Do Everything 44.2%, US 14.1%, Ivica Dacic - Prime Minister 11.8%, NADA 5.6%, We Must 4.9%, Dveri-POKS 3.9%, SSZ 3.8%, other 11.7%; seats by party/coalition - Together We Can Do Everything 120, US 38, Ivica Dacic - Prime Minister 31, NADA 15, We Must 13, Dveri-POKS 10, SSZ 10, SVM 6, SPP 3, other 4; composition -&nbsp; men 150, women 100, percent of women 40%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cassation (consists of 36 judges, including the court president); Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
@@ -363,7 +363,7 @@ _judge selection and term of office_: Supreme Court justices proposed by the Hig
 _subordinate courts_: basic courts, higher courts, appellate courts; courts of special jurisdiction include the Administrative Court, commercial courts, and misdemeanor courts<br>
 
 **Political parties and leaders**<br>
-Albanian Democratic Alternative (coalition of ethnic Albanian parties) Shaip KAMBERI<br>Alliance of Vojvodina Hungarians or SVM [Istvan PASZTOR]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Democratic Party of Macedonians or DPM [Nenad KRSTESKI]<br>Democratic Party of Serbia or DSS [Milos JOVANOVIC]<br>Dveri [Bosko OBRADOVIC]<br>For Our Children (electoral alliance includes SNS, PS, PUPS, PSS, SNP, SPO, NSS) [Aleksandar VUCIC]<br>Justice and Reconciliation Party or SPP [Usame ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement of Socialists or PS [Aleksandar VULIN]<br>Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN]<br>Party of United Pensioners of Serbia or PUPS [Milan KRKOBABIC]<br>People's Party or NARODNA [Vuk JEREMIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Serbian Patriotic Alliance or SPAS [Aleksandar SAPIC] (merged into SNS)<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Aleksandar VUCIC]<br>Serbian Radical Party or SRS [Vojislav SESELJ]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party or SDS [Boris TADIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Straight Ahead (electoral coalition includes SPP, DPM)<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together for Serbia or ZZS [Nebojsa ZELENOVIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>
+Albanian Democratic Alternative (coalition of ethnic Albanian parties) [Shaip KAMBERI]<br>Alliance of Vojvodina Hungarians or SVM [Istvan PASZTOR]<br>Better Serbia [Dragan JOVANOVIC]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Democratic Party of Serbia or DSS [Milos JOVANOVIC]<br>Dveri [Bosko OBRADOVIC]<br>Greens of Serbia [Ivan KARIC]<br>Ivica Dacic - Prime Minister of Serbia [Ivica DACIC] (includes SPS, JS, ZS)<br>Justice and Reconciliation Party or SPP [Usame ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement for the Restoration of the Kingdom of Serbia or POKS (leadership is disputed)<br>Movement of Free Citizens or PSG [Pavle GRBOVIC]<br>Movement of Socialists or PS [Aleksandar VULIN]<br>National Democratic Alternative or NADA [Milos JOVANOVIC, Vojislav MIHAILOVIC, Bozidar DELIC] (includes DSS and POKS)<br>Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN]<br>Party of Freedom and Justice or SSP [Dragan DILAS]<br>Party of United Pensioners of Serbia or PUPS [Milan KRKOBABIC]<br>People's Party or NS or Narodna [Vuk JEREMIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Serbian Party Oathkeepers or SSZ [Stefan STAMENKOVSKI]<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Aleksandar VUCIC]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together for Serbia or ZZS [Nebojsa ZELENOVIC]<br>Together We Can Do Everything [Aleksandar VUCIC] (includes SNS, SDPS, PUPS, PSS, SNP, SPO, PS, NSS, USS, BS)<br>United for the Victory of Serbia or US (includes NS, SSP, DS, PSG)<br>United Peasant Party or USS [Milija MILETIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>We Must or Moramo [Nebojsa ZELENOVIC, Dobrica VESELINOVIC, Aleksandar JOVANOVIC CUTA, Biljana STOJKOVIC]<br>
 <strong>note:</strong> Serbia has more than 110 registered political parties and citizens' associations<br>
 
 **International organization participation**<br>
@@ -407,10 +407,10 @@ _selected World Heritage Site locales_: Stari Ras and Sopoćani; Studenica Monas
 <p>Serbia has a transitional economy largely dominated by market forces, but the state sector remains significant in certain areas. The economy relies on manufacturing and exports, driven largely by foreign investment. MILOSEVIC-era mismanagement of the economy, an extended period of international economic sanctions, civil war, and the damage to Yugoslavia's infrastructure and industry during the NATO airstrikes in 1999 left the economy worse off than it was in 1990. In 2015, Serbia’s GDP was 27.5% below where it was in 1989.</p><p></p><p>After former Federal Yugoslav President MILOSEVIC was ousted in September 2000, the Democratic Opposition of Serbia (DOS) coalition government implemented stabilization measures and embarked on a market reform program. Serbia renewed its membership in the IMF in December 2000 and rejoined the World Bank and the European Bank for Reconstruction and Development. Serbia has made progress in trade liberalization and enterprise restructuring and privatization, but many large enterprises - including the power utilities, telecommunications company, natural gas company, and others - remain state-owned. Serbia has made some progress towards EU membership, gaining candidate status in March 2012. In January 2014, Serbia's EU accession talks officially opened and, as of December 2017, Serbia had opened 12 negotiating chapters including one on foreign trade. Serbia's negotiations with the WTO are advanced, with the country's complete ban on the trade and cultivation of agricultural biotechnology products representing the primary remaining obstacle to accession. Serbia maintains a three-year Stand-by Arrangement with the IMF worth approximately $1.3 billion that is scheduled to end in February 2018. The government has shown progress implementing economic reforms, such as fiscal consolidation, privatization, and reducing public spending.</p><p></p><p>Unemployment in Serbia, while relatively low (16% in 2017) compared with its Balkan neighbors, remains significantly above the European average. Serbia is slowly implementing structural economic reforms needed to ensure the country's long-term prosperity. Serbia reduced its budget deficit to 1.7% of GDP and its public debt to 71% of GDP in 2017. Public debt had more than doubled between 2008 and 2015. Serbia's concerns about inflation and exchange-rate stability preclude the use of expansionary monetary policy.</p><p></p><p>Major economic challenges ahead include: stagnant household incomes; the need for private sector job creation; structural reforms of state-owned companies; strategic public sector reforms; and the need for new foreign direct investment. Other serious longer-term challenges include an inefficient judicial system, high levels of corruption, and an aging population. Factors favorable to Serbia's economic growth include the economic reforms it is undergoing as part of its EU accession process and IMF agreement, its strategic location, a relatively inexpensive and skilled labor force, and free trade agreements with the EU, Russia, Turkey, and countries that are members of the Central European Free Trade Agreement.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$125.8 billion note: data are in 2017 dollars (2020 est.)<br>
-$127.04 billion note: data are in 2017 dollars (2019 est.)<br>
-$121.87 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$125.8 billion (2020 est.)<br>
+$127.04 billion (2019 est.)<br>
+$121.87 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.18% (2019 est.)<br>
@@ -418,10 +418,10 @@ $121.87 billion note: data are in 2017 dollars (2018 est.)<br>
 2.05% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$18,200 note: data are in 2017 dollars (2020 est.)<br>
-$18,300 note: data are in 2017 dollars (2019 est.)<br>
-$17,500 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$18,200 (2020 est.)<br>
+$18,300 (2019 est.)<br>
+$17,500 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $51.449 billion (2019 est.)<br>
@@ -727,7 +727,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 _refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 822,392 estimated refugee and migrant arrivals (January 2015-March 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
+<strong>note:</strong> 823,549 estimated refugee and migrant arrivals (January 2015-March 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

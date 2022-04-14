@@ -362,7 +362,7 @@ Communist Party of Vietnam or CPV [CPV General Secretary Nguyen Phu TRONG]<br>
 ADB, APEC, ARF, ASEAN, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ha Kim NGOC (since 17 September 2018)<br>
+_chief of mission_: Ambassador NGUYEN Quoc Dzung (since February 2022)<br>
 _chancery_: 1233 20th Street NW, Suite 400, Washington, DC 20036<br>
 _telephone_: [1] (202) 861-0737<br>
 _FAX_: [1] (202) 861-0917<br>
@@ -400,9 +400,9 @@ _selected World Heritage Site locales_: Complex of Hué Monuments (c), Ha Long B
 <p>Vietnam is a densely populated developing country that has been transitioning since 1986 from the rigidities of a centrally planned, highly agrarian economy to a more industrial and market based economy, and it has raised incomes substantially. Vietnam exceeded its 2017 GDP growth target of 6.7% with growth of 6.8%, primarily due to unexpected increases in domestic demand, and strong manufacturing exports.</p><p></p><p>Vietnam has a young population, stable political system, commitment to sustainable growth, relatively low inflation, stable currency, strong FDI inflows, and strong manufacturing sector. In addition, the country is committed to continuing its global economic integration. Vietnam joined the WTO in January 2007 and concluded several free trade agreements in 2015-16, including the EU-Vietnam Free Trade Agreement (which the EU has not yet ratified), the Korean Free Trade Agreement, and the Eurasian Economic Union Free Trade Agreement. In 2017, Vietnam successfully chaired the Asia-Pacific Economic Cooperation (APEC) Conference with its key priorities including inclusive growth, innovation, strengthening small and medium enterprises, food security, and climate change. Seeking to diversify its opportunities, Vietnam also signed the Comprehensive and Progressive Agreement for the Transpacific Partnership in 2018 and continued to pursue the Regional Comprehensive Economic Partnership.</p><p></p><p>To continue its trajectory of strong economic growth, the government acknowledges the need to spark a ‘second wave’ of reforms, including reforming state-owned-enterprises, reducing red tape, increasing business sector transparency, reducing the level of non-performing loans in the banking sector, and increasing financial sector transparency. Vietnam’s public debt to GDP ratio is nearing the government mandated ceiling of 65%.</p><p></p><p>In 2016, Vietnam cancelled its civilian nuclear energy development program, citing public concerns about safety and the high cost of the program; it faces growing pressure on energy infrastructure. Overall, the country’s infrastructure fails to meet the needs of an expanding middle class. Vietnam has demonstrated a commitment to sustainable growth over the last several years, but despite the recent speed-up in economic growth the government remains cautious about the risk of external shocks.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$798.21 billion note: data are in 2017 dollars (2020 est.)<br>
-$775.67 billion note: data are in 2017 dollars (2019 est.)<br>
-$724.81 billion note: data are in 2017 dollars (2018 est.)<br>
+$798.21 billion (2020 est.)<br>
+$775.67 billion (2019 est.)<br>
+$724.81 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -410,10 +410,10 @@ $724.81 billion note: data are in 2017 dollars (2018 est.)<br>
 6.2% (2016 est.)<br>
 
 **Real GDP per capita**<br>
-$8,200 note: data are in 2017 dollars (2020 est.)<br>
-$8,000 note: data are in 2017 dollars (2019 est.)<br>
-$7,600 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$8,200 (2020 est.)<br>
+$8,000 (2019 est.)<br>
+$7,600 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $259.957 billion (2019 est.)<br>
@@ -720,7 +720,7 @@ the PAVN is armed largely with weapons and equipment from Russia and the former 
 <p>the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary</p> <p>as of 2021, Vietnam maintained a security policy of non-alignment, but noted in 2019 that it would consider developing appropriate defense and security relations with other countries depending on circumstances<br><br><br></p><br>
 
 **Maritime threats**<br>
-the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; the number of reported incidents increased from two in 2019 to four in 2020, primarily near the port of Vung Tau<br>
+the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; the number of reported incidents decreased from four in 2020 to one in 2021<br>
 
 ## Transnational Issues
 

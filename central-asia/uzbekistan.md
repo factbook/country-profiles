@@ -387,9 +387,9 @@ _selected World Heritage Site locales_: Itchan Kala (c), Historic Bukhara (c), H
 <p>Uzbekistan is a doubly landlocked country in which 51% of the population lives in urban settlements; the agriculture-rich Fergana Valley, in which Uzbekistan’s eastern borders are situated, has been counted among the most densely populated parts of Central Asia. Since its independence in September 1991, the government has largely maintained its Soviet-style command economy with subsidies and tight controls on production, prices, and access to foreign currency. Despite ongoing efforts to diversify crops, Uzbek agriculture remains largely centered on cotton; Uzbekistan is the world's fifth-largest cotton exporter and seventh-largest producer. Uzbekistan's growth has been driven primarily by state-led investments, and export of natural gas, gold, and cotton provides a significant share of foreign exchange earnings.</p><p></p><p>Recently, lower global commodity prices and economic slowdowns in neighboring Russia and China have hurt Uzbekistan's trade and investment and worsened its foreign currency shortage. Aware of the need to improve the investment climate, the government is taking incremental steps to reform the business sector and address impediments to foreign investment in the country. Since the death of first President Islam KARIMOV and election of President Shavkat MIRZIYOYEV, emphasis on such initiatives and government efforts to improve the private sector have increased. In the past, Uzbek authorities accused US and other foreign companies operating in Uzbekistan of violating Uzbek laws and have frozen and seized their assets.</p><p></p><p>As a part of its economic reform efforts, the Uzbek Government is looking to expand opportunities for small and medium enterprises and prioritizes increasing foreign direct investment. In September 2017, the government devalued the official currency rate by almost 50% and announced the loosening of currency restrictions to eliminate the currency black market, increase access to hard currency, and boost investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$239.42 billion note: data are in 2017 dollars (2020 est.)<br>
-$235.54 billion note: data are in 2017 dollars (2019 est.)<br>
-$222.63 billion note: data are in 2017 dollars (2018 est.)<br>
+$239.42 billion (2020 est.)<br>
+$235.54 billion (2019 est.)<br>
+$222.63 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -398,9 +398,9 @@ $222.63 billion note: data are in 2017 dollars (2018 est.)<br>
 7.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$7,000 note: data are in 2017 dollars (2020 est.)<br>
-$7,000 note: data are in 2017 dollars (2019 est.)<br>
-$6,800 note: data are in 2017 dollars (2018 est.)<br>
+$7,000 (2020 est.)<br>
+$7,000 (2019 est.)<br>
+$6,800 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

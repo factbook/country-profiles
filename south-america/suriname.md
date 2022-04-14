@@ -384,9 +384,9 @@ _selected World Heritage Site locales_: Central Suriname Nature Reserve (n), His
 <p>Suriname’s economy is dominated by the mining industry, with exports of oil and gold accounting for approximately 85% of exports and 27% of government revenues. This makes the economy highly vulnerable to mineral price volatility. The worldwide drop in international commodity prices and the cessation of alumina mining in Suriname significantly reduced government revenue and national income during the past few years. In November 2015, a major US aluminum company discontinued its mining activities in Suriname after 99 years of operation. Public sector revenues fell, together with exports, international reserves, employment, and private sector investment.</p><p></p><p>Economic growth declined annually from just under 5% in 2012 to -10.4% in 2016. In January 2011, the government devalued the currency by 20% and raised taxes to reduce the budget deficit. Suriname began instituting macro adjustments between September 2015 and 2016; these included another 20% currency devaluation in November 2015 and foreign currency interventions by the Central Bank until March 2016, after which time the Bank allowed the Surinamese dollar (SRD) to float. By December 2016, the SRD had lost 46% of its value against the dollar. Depreciation of the Surinamese dollar and increases in tariffs on electricity caused domestic prices in Suriname to rise 22.0% year-over-year by December 2017.</p><p></p><p>Suriname's economic prospects for the medium-term will depend on its commitment to responsible monetary and fiscal policies and on the introduction of structural reforms to liberalize markets and promote competition. The government's over-reliance on revenue from the extractive sector colors Suriname's economic outlook. Following two years of recession, the Fitch Credit Bureau reported a positive growth of 1.2% in 2017 and the World Bank predicted 2.2% growth in 2018. Inflation declined to 9%, down from 55% in 2016 , and increased gold production helped lift exports. Yet continued budget imbalances and a heavy debt and interest burden resulted in a debt-to-GDP ratio of 83% in September 2017. Purchasing power has fallen rapidly due to the devalued local currency. The government has announced its intention to pass legislation to introduce a new value-added tax in 2018. Without this and other measures to strengthen the country’s fiscal position, the government may face liquidity pressures.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.46 billion note: data are in 2017 dollars (2020 est.)<br>
-$11.07 billion note: data are in 2017 dollars (2019 est.)<br>
-$10.95 billion note: data are in 2017 dollars (2018 est.)<br>
+$9.46 billion (2020 est.)<br>
+$11.07 billion (2019 est.)<br>
+$10.95 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -395,9 +395,9 @@ $10.95 billion note: data are in 2017 dollars (2018 est.)<br>
 -2.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$16,100 note: data are in 2017 dollars (2020 est.)<br>
-$19,000 note: data are in 2017 dollars (2019 est.)<br>
-$19,000 note: data are in 2017 dollars (2018 est.)<br>
+$16,100 (2020 est.)<br>
+$19,000 (2019 est.)<br>
+$19,000 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

@@ -400,9 +400,9 @@ _lyrics/music_: Faustin MURIGO/Jean-Bosco HASHAKAIMANA<br>
 <p>Rwanda is a rural, agrarian country with agriculture accounting for about 63% of export earnings, and with some mineral and agro-processing. Population density is high but, with the exception of the capital Kigali, is not concentrated in large cities – its 12 million people are spread out on a small amount of land (smaller than the state of Maryland). Tourism, minerals, coffee, and tea are Rwanda's main sources of foreign exchange. Despite Rwanda's fertile ecosystem, food production often does not keep pace with demand, requiring food imports. Energy shortages, instability in neighboring states, and lack of adequate transportation linkages to other countries continue to handicap private sector growth.</p><p></p><p>The 1994 genocide decimated Rwanda's fragile economic base, severely impoverished the population, particularly women, and temporarily stalled the country's ability to attract private and external investment. However, Rwanda has made substantial progress in stabilizing and rehabilitating its economy well beyond pre-1994 levels. GDP has rebounded with an average annual growth of 6%-8% since 2003 and inflation has been reduced to single digits. In 2015, 39% of the population lived below the poverty line, according to government statistics, compared to 57% in 2006.</p><p></p><p>The government has embraced an expansionary fiscal policy to reduce poverty by improving education, infrastructure, and foreign and domestic investment. Rwanda consistently ranks well for ease of doing business and transparency.</p><p></p><p>The Rwandan Government is seeking to become a regional leader in information and communication technologies and aims to reach middle-income status by 2020 by leveraging the service industry. In 2012, Rwanda completed the first modern Special Economic Zone (SEZ) in Kigali. The SEZ seeks to attract investment in all sectors, but specifically in agribusiness, information and communications, trade and logistics, mining, and construction. In 2016, the government launched an online system to give investors information about public land and its suitability for agricultural development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$27.18 billion note: data are in 2017 dollars (2020 est.)<br>
-$28.13 billion note: data are in 2017 dollars (2019 est.)<br>
-$25.7 billion note: data are in 2017 dollars (2018 est.)<br>
+$27.18 billion (2020 est.)<br>
+$28.13 billion (2019 est.)<br>
+$25.7 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -411,9 +411,9 @@ $25.7 billion note: data are in 2017 dollars (2018 est.)<br>
 8.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,100 note: data are in 2017 dollars (2020 est.)<br>
-$2,200 note: data are in 2017 dollars (2019 est.)<br>
-$2,100 note: data are in 2017 dollars (2018 est.)<br>
+$2,100 (2020 est.)<br>
+$2,200 (2019 est.)<br>
+$2,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -706,6 +706,6 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,116 (Democratic Republic of the Congo) 47,989 (Burundi) (2022)<br>
+_refugees (country of origin)_: 77,116 (Democratic Republic of the Congo) 48,125 (Burundi) (2022)<br>
 _stateless persons_: 9,500 (mid-year 2021)<br>
 

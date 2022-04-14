@@ -344,9 +344,9 @@ _elections/appointments_: president and vice president directly elected on the s
 _election results_: <br><em>2020:</em> Luis Rodolfo ABINADER Corona elected president in first round; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 52.5%, Gonzalo CASTILLO Terrero (PLD) 37.5%, Leonel Antonio FERNANDEZ Reyna (FP) 8.9% other 1.1%<br><br><em>2016:</em> Danilo MEDINA Sanchez reelected president; percent of vote - Danilo MEDINA Sanchez (PLD) 61.7%, Luis Rodolfo ABINADER Corona (PRM) 35%, other 3.3%; Margarita CEDENO DE FERNANDEZ (PLD) reelected vice president<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; 26 members directly elected in single-seat constituencies by simple majority vote, and 6 members indirectly elected based upon province-wide party plurality votes for its candidates to the Chamber of Deputies; all members serve 4-year terms; note - in 2019, the Central Election Commission changed the electoral system for seats in26 constituencies to direct simple majority but retained indirect election for the remaining 6 constituencies; previously all 32 members were indirectly elected; the change had been challenged by the ruling and opposition parties)<br>House of Representatives or Camara de Diputados (190 seats; 178 members directly elected in multi-seat constituencies by closed party-list proportional representation vote using the D'Hondt method, 5 members in a nationwide constituency and 7 diaspora members directly elected by simple majority vote; members serve 4-year terms)<br>
+_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; 26 members directly elected in single-seat constituencies by simple majority vote, and 6 members indirectly elected based upon province-wide party plurality votes for its candidates to the Chamber of Deputies; all members serve 4-year terms; note - in 2019, the Central Election Commission changed the electoral system for seats in26 constituencies to direct simple majority but retained indirect election for the remaining 6 constituencies; previously all 32 members were indirectly elected; the change had been challenged by the ruling and opposition parties)<br><br>House of Representatives or Camara de Diputados (190 seats; 178 members directly elected in multi-seat constituencies by closed party-list proportional representation vote using the D'Hondt method, 5 members in a nationwide constituency and 7 diaspora members directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: <br>Senate - last held on 5 July 2020 (next to be held 2024)<br>House of Representatives - last held on 5 July 2020 (next to be held in 2024); note - the 2020 election was rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PRM 17, PLD 6, PRSC 6, BIS 1, DXC 1, FP 1<br>House of Representatives - percent of vote by party - NA; seats by party - PRM 86, PLD 75,  PRSC 6, PRD 4, Broad Front 3, FP 3, AP 2, APD 2, BIS 2, DXC 2, other 5<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PRM 17, PLD 6, PRSC 6, BIS 1, DXC 1, FP 1; composition - men 28, women 4, percent of women 12.5%<br>House of Representatives - percent of vote by party - NA; seats by party - PRM 86, PLD 75,  PRSC 6, PRD 4, Broad Front 3, FP 3, AP 2, APD 2, BIS 2, DXC 2, other 5; composition - men 137, women 53, percent of women 27.9%; note - total National Congress percent of women 25.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment<br>
@@ -396,9 +396,9 @@ _selected World Heritage Site locales_: Colonial City of Santo Domingo<br>
 <p>The Dominican Republic was for most of its history primarily an exporter of sugar, coffee, and tobacco, but over the last three decades the economy has become more diversified as the service sector has overtaken agriculture as the economy's largest employer, due to growth in construction, tourism, and free trade zones. The mining sector has also played a greater role in the export market since late 2012 with the commencement of the extraction phase of the Pueblo Viejo Gold and Silver mine, one of the largest gold mines in the world.</p><p></p><p>For the last 20 years, the Dominican Republic has been one of the fastest growing economies in Latin America. The economy rebounded from the global recession in 2010-16, and the fiscal situation is improving. A tax reform package passed in November 2012, a reduction in government spending, and lower energy costs helped to narrow the central government budget deficit from 6.6% of GDP in 2012 to 2.6% in 2016, and public debt is declining. Marked income inequality, high unemployment, and underemployment remain important long-term challenges; the poorest half of the population receives less than one-fifth of GDP, while the richest 10% enjoys nearly 40% of GDP.</p><p></p><p>The economy is highly dependent upon the US, the destination for approximately half of exports and the source of 40% of imports. Remittances from the US amount to about 7% of GDP, equivalent to about a third of exports and two-thirds of tourism receipts. The Central America-Dominican Republic Free Trade Agreement came into force in March 2007, boosting investment and manufacturing exports.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$184.45 billion note: data are in 2017 dollars (2020 est.)<br>
-$197.74 billion note: data are in 2017 dollars (2019 est.)<br>
-$188.23 billion note: data are in 2017 dollars (2018 est.)<br>
+$184.45 billion (2020 est.)<br>
+$197.74 billion (2019 est.)<br>
+$188.23 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -407,9 +407,9 @@ $188.23 billion note: data are in 2017 dollars (2018 est.)<br>
 7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$17,000 note: data are in 2017 dollars (2020 est.)<br>
-$18,400 note: data are in 2017 dollars (2019 est.)<br>
-$17,700 note: data are in 2017 dollars (2018 est.)<br>
+$17,000 (2020 est.)<br>
+$18,400 (2019 est.)<br>
+$17,700 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

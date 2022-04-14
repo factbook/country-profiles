@@ -76,7 +76,7 @@ largest country in Caribbean and westernmost island of the Greater Antilles<br>
 ## People and Society
 
 **Population**<br>
-4,188,853 (2022 est.)<br>
+11,008,112 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Cuban(s)<br>

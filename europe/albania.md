@@ -390,10 +390,10 @@ _selected World Heritage Site locales_: Butrint, Historic Berat and Gjirokast&eu
 <p>Albania, a formerly closed, centrally planned state, is a developing country with a modern open-market economy. Albania managed to weather the first waves of the global financial crisis but, the negative effects of the crisis caused a significant economic slowdown. Since 2014, Albania’s economy has steadily improved and economic growth reached 3.8% in 2017. However, close trade, remittance, and banking sector ties with Greece and Italy make Albania vulnerable to spillover effects of possible debt crises and weak growth in the euro zone.</p> <p>Remittances, a significant catalyst for economic growth, declined from 12-15% of GDP before the 2008 financial crisis to 5.8% of GDP in 2015, mostly from Albanians residing in Greece and Italy. The agricultural sector, which accounts for more than 40% of employment but less than one quarter of GDP, is limited primarily to small family operations and subsistence farming, because of a lack of modern equipment, unclear property rights, and the prevalence of small, inefficient plots of land. Complex tax codes and licensing requirements, a weak judicial system, endemic corruption, poor enforcement of contracts and property issues, and antiquated infrastructure contribute to Albania's poor business environment making attracting foreign investment difficult. Since 2015, Albania has launched an ambitious program to increase tax compliance and bring more businesses into the formal economy. In July 2016, Albania passed constitutional amendments reforming the judicial system in order to strengthen the rule of law and to reduce deeply entrenched corruption.</p> <p>Albania’s electricity supply is uneven despite upgraded transmission capacities with neighboring countries. However, the government has recently taken steps to stem non-technical losses and has begun to upgrade the distribution grid. Better enforcement of electricity contracts has improved the financial viability of the sector, decreasing its reliance on budget support. Also, with help from international donors, the government is taking steps to improve the poor road and rail networks, a long standing barrier to sustained economic growth.</p> <p>Inward foreign direct investment has increased significantly in recent years as the government has embarked on an ambitious program to improve the business climate through fiscal and legislative reforms. The government is focused on the simplification of licensing requirements and tax codes, and it entered into a new arrangement with the IMF for additional financial and technical support. Albania’s three-year IMF program, an extended fund facility arrangement, was successfully concluded in February 2017. The Albanian Government has strengthened tax collection amid moderate public wage and pension increases in an effort to reduce its budget deficit. The country continues to face high public debt, exceeding its former statutory limit of 60% of GDP in 2013 and reaching 72% in 2016.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$37.73 billion note: data are in 2017 dollars (2020 est.)<br>
-$39.02 billion note: data are in 2017 dollars (2019 est.)<br>
-$38.19 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$37.73 billion (2020 est.)<br>
+$39.02 billion (2019 est.)<br>
+$38.19 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.24% (2019 est.)<br>
@@ -401,10 +401,10 @@ $38.19 billion note: data are in 2017 dollars (2018 est.)<br>
 3.8% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$13,300 note: data are in 2017 dollars (2020 est.)<br>
-$13,700 note: data are in 2017 dollars (2019 est.)<br>
-$13,300 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$13,300 (2020 est.)<br>
+$13,700 (2019 est.)<br>
+$13,300 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $15.273 billion (2019 est.)<br>
@@ -673,10 +673,10 @@ _major seaport(s)_: Durres, Sarande, Shengjin, Vlore<br>
 Republic of Albania Armed Forces (Forcat e Armatosura t&euml; Republik&euml;s s&euml; Shqip&euml;ris&euml; (FARSH)): Land Forces, Navy Forces (includes Coast Guard), Air Forces (2021)<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2021)<br>
+1.4% of GDP (2021 est.)<br>
 1.3% of GDP (2020)<br>
-0.31% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
+1.5% of GDP (2019)<br>
+1.3% of GDP (2018)<br>
 1.1% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>

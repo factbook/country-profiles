@@ -402,10 +402,10 @@ _lyrics/music_: Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO<br>
 <p>Burundi is a landlocked, resource-poor country with an underdeveloped manufacturing sector. Agriculture accounts for over 40% of GDP and employs more than 90% of the population. Burundi's primary exports are coffee and tea, which account for more than half of foreign exchange earnings, but these earnings are subject to fluctuations in weather and international coffee and tea prices, Burundi is heavily dependent on aid from bilateral and multilateral donors, as well as foreign exchange earnings from participation in the African Union Mission to Somalia (AMISOM). Foreign aid represented 48% of Burundi's national income in 2015, one of the highest percentages in Sub-Saharan Africa, but this figure decreased to 33.5% in 2016 due to political turmoil surrounding President NKURUNZIZA’s bid for a third term. Burundi joined the East African Community (EAC) in 2009.</p><p></p><p>Burundi faces several underlying weaknesses – low governmental capacity, corruption, a high poverty rate, poor educational levels, a weak legal system, a poor transportation network, and overburdened utilities – that have prevented the implementation of planned economic reforms. The purchasing power of most Burundians has decreased as wage increases have not kept pace with inflation, which reached approximately 18% in 2017.</p><p></p><p>Real GDP growth dropped precipitously following political events in 2015 and has yet to recover to pre-conflict levels. Continued resistance by donors and the international community will restrict Burundi’s economic growth as the country deals with a large current account deficit.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$8.69 billion note: data are in 2017 dollars (2020 est.)<br>
-$8.67 billion note: data are in 2017 dollars (2019 est.)<br>
-$8.51 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$8.69 billion (2020 est.)<br>
+$8.67 billion (2019 est.)<br>
+$8.51 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 0% (2017 est.)<br>
@@ -413,10 +413,10 @@ $8.51 billion note: data are in 2017 dollars (2018 est.)<br>
 -4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$700 note: data are in 2017 dollars (2020 est.)<br>
-$800 note: data are in 2017 dollars (2019 est.)<br>
-$800 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$700 (2020 est.)<br>
+$800 (2019 est.)<br>
+$800 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $3.027 billion (2019 est.)<br>

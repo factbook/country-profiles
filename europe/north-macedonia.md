@@ -382,9 +382,9 @@ _selected World Heritage Site locales_: Natural and Cultural Heritage of the Ohr
 <p>Since its independence in 1991, Macedonia has made progress in liberalizing its economy and improving its business environment. Its low tax rates and free economic zones have helped to attract foreign investment, which is still low relative to the rest of Europe. Corruption and weak rule of law remain significant problems. Some businesses complain of opaque regulations and unequal enforcement of the law.</p> <p> </p> <p>Macedonia’s economy is closely linked to Europe as a customer for exports and source of investment, and has suffered as a result of prolonged weakness in the euro zone. Unemployment has remained consistently high at about 23% but may be overstated based on the existence of an extensive gray market, estimated to be between 20% and 45% of GDP, which is not captured by official statistics.</p> <p> </p> <p>Macedonia is working to build a country-wide natural gas pipeline and distribution network. Currently, Macedonia receives its small natural gas supplies from Russia via Bulgaria. In 2016, Macedonia signed a memorandum of understanding with Greece to build an interconnector that could connect to the Trans Adriatic Pipeline that will traverse the region once complete, or to an LNG import terminal in Greece.</p> <p> </p> <p>Macedonia maintained macroeconomic stability through the global financial crisis by conducting prudent monetary policy, which keeps the domestic currency pegged to the euro, and inflation at a low level. However, in the last two years, the internal political crisis has hampered economic performance, with GDP growth slowing in 2016 and 2017, and both domestic private and public investments declining. Fiscal policies were lax, with unproductive public expenditures, including subsidies and pension increases, and rising guarantees for the debt of state owned enterprises, and fiscal targets were consistently missed. In 2017, public debt stabilized at about 47% of GDP, still relatively low compared to its Western Balkan neighbors and the rest of Europe.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$33.02 billion note: data are in 2017 dollars (2020 est.)<br>
-$34.59 billion note: data are in 2017 dollars (2019 est.)<br>
-$33.52 billion note: data are in 2017 dollars (2018 est.)<br>
+$33.02 billion (2020 est.)<br>
+$34.59 billion (2019 est.)<br>
+$33.52 billion (2018 est.)<br>
 <strong>note: </strong>data are in 2017 dollars; Macedonia has a large informal sector that may not be reflected in these data<br>
 
 **Real GDP growth rate**<br>
@@ -393,9 +393,9 @@ $33.52 billion note: data are in 2017 dollars (2018 est.)<br>
 3.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$15,800 note: data are in 2017 dollars (2020 est.)<br>
-$16,600 note: data are in 2017 dollars (2019 est.)<br>
-$16,100 note: data are in 2017 dollars (2018 est.)<br>
+$15,800 (2020 est.)<br>
+$16,600 (2019 est.)<br>
+$16,100 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

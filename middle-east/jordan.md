@@ -400,9 +400,9 @@ _selected World Heritage Site locales_: Petra (c), Quseir Amra (c), Um er-Rasas 
 <p>Jordan's economy is among the smallest in the Middle East, with insufficient supplies of water, oil, and other natural resources, underlying the government's heavy reliance on foreign assistance. Other economic challenges for the government include chronic high rates of unemployment and underemployment, budget and current account deficits, and government debt.</p><p></p><p>King ABDALLAH, during the first decade of the 2000s, implemented significant economic reforms, such as expanding foreign trade and privatizing state-owned companies that attracted foreign investment and contributed to average annual economic growth of 8% for 2004 through 2008. The global economic slowdown and regional turmoil contributed to slower growth from 2010 to 2017 - with growth averaging about 2.5% per year - and hurt export-oriented sectors, construction/real estate, and tourism. Since the onset of the civil war in Syria and resulting refugee crisis, one of Jordan’s most pressing socioeconomic challenges has been managing the influx of approximately 660,000 UN-registered refugees, more than 80% of whom live in Jordan’s urban areas. Jordan’s own official census estimated the refugee number at 1.3 million Syrians as of early 2016.</p><p></p><p>Jordan is nearly completely dependent on imported energy—mostly natural gas—and energy consistently makes up 25-30% of Jordan’s imports. To diversify its energy mix, Jordan has secured several contracts for liquefied and pipeline natural gas, developed several major renewables projects, and is currently exploring nuclear power generation and exploitation of abundant oil shale reserves. In August 2016, Jordan and the IMF agreed to a $723 million Extended Fund Facility that aims to build on the three-year, $2.1 billion IMF program that ended in August 2015 with the goal of helping Jordan correct budgetary and balance of payments imbalances.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$100.16 billion note: data are in 2017 dollars (2020 est.)<br>
-$101.74 billion note: data are in 2017 dollars (2019 est.)<br>
-$99.79 billion note: data are in 2017 dollars (2018 est.)<br>
+$100.16 billion (2020 est.)<br>
+$101.74 billion (2019 est.)<br>
+$99.79 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -411,10 +411,10 @@ $99.79 billion note: data are in 2017 dollars (2018 est.)<br>
 2.12% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$9,800 note: data are in 2017 dollars (2020 est.)<br>
-$10,100 note: data are in 2017 dollars (2019 est.)<br>
-$10,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$9,800 (2020 est.)<br>
+$10,100 (2019 est.)<br>
+$10,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $44.568 billion (2019 est.)<br>

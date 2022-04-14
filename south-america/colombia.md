@@ -413,10 +413,10 @@ _selected World Heritage Site locales_: Chiribiquete National Park (m), Coffee C
 <p>Colombia heavily depends on energy and mining exports, making it vulnerable to fluctuations in commodity prices. Colombia is Latin America’s fourth largest oil producer and the world’s fourth largest coal producer, third largest coffee exporter, and second largest cut flowers exporter. Colombia’s economic development is hampered by inadequate infrastructure, poverty, narcotrafficking, and an uncertain security situation, in addition to dependence on primary commodities (goods that have little value-added from processing or labor inputs).</p><p></p><p>Colombia’s economy slowed in 2017 because of falling world market prices for oil and lower domestic oil production due to insurgent attacks on pipeline infrastructure. Although real GDP growth averaged 4.7% during the past decade, it fell to an estimated 1.8% in 2017. Declining oil prices also have contributed to reduced government revenues. In 2016, oil revenue dropped below 4% of the federal budget and likely remained below 4% in 2017. A Western credit rating agency in December 2017 downgraded Colombia’s sovereign credit rating to BBB-, because of weaker-than-expected growth and increasing external debt. Colombia has struggled to address local referendums against foreign investment, which have slowed its expansion, especially in the oil and mining sectors. Colombia’s FDI declined by 3% to $10.2 billion between January and September 2017.</p><p></p><p>Colombia has signed or is negotiating Free Trade Agreements (FTA) with more than a dozen countries; the US-Colombia FTA went into effect in May 2012. Colombia is a founding member of the Pacific Alliance—a regional trade block formed in 2012 by Chile, Colombia, Mexico, and Peru to promote regional trade and economic integration. The Colombian government took steps in 2017 to address several bilateral trade irritants with the US, including those on truck scrappage, distilled spirits, pharmaceuticals, ethanol imports, and labor rights. Colombia hopes to accede to the Organization for Economic Cooperation and Development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$683.94 billion note: data are in 2017 dollars (2020 est.)<br>
-$734.22 billion note: data are in 2017 dollars (2019 est.)<br>
-$710.89 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$683.94 billion (2020 est.)<br>
+$734.22 billion (2019 est.)<br>
+$710.89 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 3.26% (2019 est.)<br>
@@ -424,10 +424,10 @@ $710.89 billion note: data are in 2017 dollars (2018 est.)<br>
 1.36% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$13,400 note: data are in 2017 dollars (2020 est.)<br>
-$14,600 note: data are in 2017 dollars (2019 est.)<br>
-$14,300 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$13,400 (2020 est.)<br>
+$14,600 (2019 est.)<br>
+$14,300 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $323.255 billion (2019 est.)<br>
@@ -740,6 +740,9 @@ note - in 2020, conscripts reportedly comprised about 50% of the Colombian milit
 
 **Military - note**<br>
 the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from several factions of the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting; the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against both the FARC and ELN continued into 2022 (see Appendix T); the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents operate openly<br>
+
+**Maritime threats**<br>
+the International Maritime Bureau reports the territorial waters of Colombia are a risk for armed robbery against ships; in 2021, six attacks against commercial vessels were reported, an increase over the single attack in 2020; most of these occurred in the main port of Cartagena while ships were berthed or at anchor<br>
 
 ## Terrorism
 

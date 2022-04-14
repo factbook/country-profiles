@@ -80,7 +80,7 @@ controls most land routes from Western Europe to Aegean Sea and Turkish Straits;
 ## People and Society
 
 **Population**<br>
-28,713,423 (2022 est.)<br>
+4,188,853 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: Croat(s), Croatian(s)<br>
@@ -402,10 +402,10 @@ _selected World Heritage Site locales_: Plitvice Lakes National Park (n), Histor
 <p>Though still one of the wealthiest of the former Yugoslav republics, Croatia’s economy suffered badly during the 1991-95 war. The country's output during that time collapsed, and Croatia missed the early waves of investment in Central and Eastern Europe that followed the fall of the Berlin Wall. Between 2000 and 2007, however, Croatia's economic fortunes began to improve with moderate but steady GDP growth between 4% and 6%, led by a rebound in tourism and credit-driven consumer spending. Inflation over the same period remained tame and the currency, the kuna, stable.</p><p></p><p>Croatia experienced an abrupt slowdown in the economy in 2008; economic growth was stagnant or negative in each year between 2009 and 2014, but has picked up since the third quarter of 2014, ending 2017 with an average of 2.8% growth. Challenges remain including uneven regional development, a difficult investment climate, an inefficient judiciary, and loss of educated young professionals seeking higher salaries elsewhere in the EU. In 2016, Croatia revised its tax code to stimulate growth from domestic consumption and foreign investment. Income tax reduction began in 2017, and in 2018 various business costs were removed from income tax calculations. At the start of 2018, the government announced its economic reform plan, slated for implementation in 2019.</p><p></p><p>Tourism is one of the main pillars of the Croatian economy, comprising 19.6% of Croatia’s GDP. Croatia is working to become a regional energy hub, and is undertaking plans to open a floating liquefied natural gas (LNG) regasification terminal by the end of 2019 or early in 2020 to import LNG for re-distribution in southeast Europe.</p><p></p><p>Croatia joined the EU on July 1, 2013, following a decade-long accession process. Croatia has developed a plan for Eurozone accession, and the government projects Croatia will adopt the Euro by 2024. In 2017, the Croatian government decreased public debt to 78% of GDP, from an all-time high of 84% in 2014, and realized a 0.8% budget surplus - the first surplus since independence in 1991. The government has also sought to accelerate privatization of non-strategic assets with mixed success. Croatia’s economic recovery is still somewhat fragile; Croatia’s largest private company narrowly avoided collapse in 2017, thanks to a capital infusion from an American investor. Restructuring is ongoing, and projected to finish by mid-July 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$107.11 billion note: data are in 2017 dollars (2020 est.)<br>
-$116.89 billion note: data are in 2017 dollars (2019 est.)<br>
-$113.64 billion note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$107.11 billion (2020 est.)<br>
+$116.89 billion (2019 est.)<br>
+$113.64 billion (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 2.94% (2019 est.)<br>
@@ -413,10 +413,10 @@ $113.64 billion note: data are in 2017 dollars (2018 est.)<br>
 3.14% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$26,500 note: data are in 2017 dollars (2020 est.)<br>
-$28,800 note: data are in 2017 dollars (2019 est.)<br>
-$27,800 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$26,500 (2020 est.)<br>
+$28,800 (2019 est.)<br>
+$27,800 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $60.687 billion (2019 est.)<br>

@@ -339,7 +339,7 @@ _email address and website_: <br>info@bruneiembassy.org<br><br>http://www.brunei
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Emily M. FLECKNER&nbsp;(since 20 August 2020)<br>
+_chief of mission_: Ambassador Caryn R. McCLELLAND (since December 2021)<br>
 _embassy_: Simpang 336-52-16-9, Jalan Duta, Bandar Seri Begawan, BC4115<br>
 _mailing address_: 4020 Bandar Seri Begawan Place, Washington DC&nbsp; 20521-4020<br>
 _telephone_: (673) 238-7400<br>
@@ -363,9 +363,9 @@ _lyrics/music_: Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji 
 <p>Brunei is an energy-rich sultanate on the northern coast of Borneo in Southeast Asia. Brunei boasts a well-educated, largely English-speaking population; excellent infrastructure; and a stable government intent on attracting foreign investment. Crude oil and natural gas production account for approximately 65% of GDP and 95% of exports, with Japan as the primary export market.</p><p></p><p>Per capita GDP is among the highest in the world, and substantial income from overseas investment supplements income from domestic hydrocarbon production. Bruneian citizens pay no personal income taxes, and the government provides free medical services and free education through the university level.</p><p></p><p>The Bruneian Government wants to diversify its economy away from hydrocarbon exports to other industries such as information and communications technology and halal manufacturing, permissible under Islamic law. Brunei’s trade increased in 2016 and 2017, following its regional economic integration in the ASEAN Economic Community, and the expected ratification of the Trans-Pacific Partnership trade agreement.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$27.23 billion note: data are in 2017 dollars (2020 est.)<br>
-$26.91 billion note: data are in 2017 dollars (2019 est.)<br>
-$25.9 billion note: data are in 2017 dollars (2018 est.)<br>
+$27.23 billion (2020 est.)<br>
+$26.91 billion (2019 est.)<br>
+$25.9 billion (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -374,9 +374,9 @@ $25.9 billion note: data are in 2017 dollars (2018 est.)<br>
 -0.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$62,200 note: data are in 2017 dollars (2020 est.)<br>
-$62,100 note: data are in 2017 dollars (2019 est.)<br>
-$60,400 note: data are in 2017 dollars (2018 est.)<br>
+$62,200 (2020 est.)<br>
+$62,100 (2019 est.)<br>
+$60,400 (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

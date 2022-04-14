@@ -415,10 +415,10 @@ _selected World Heritage Site locales_: Memphis and its Necropolis (c), Ancient 
 <p>Occupying the northeast corner of the African continent, Egypt is bisected by the highly fertile Nile valley where most economic activity takes place. Egypt's economy was highly centralized during the rule of former President Gamal Abdel NASSER but opened up considerably under former Presidents Anwar EL-SADAT and Mohamed Hosni MUBARAK. Agriculture, hydrocarbons, manufacturing, tourism, and other service sectors drove the country’s relatively diverse economic activity.</p><p></p><p>Despite Egypt’s mixed record for attracting foreign investment over the past two decades, poor living conditions and limited job opportunities have contributed to public discontent. These socioeconomic pressures were a major factor leading to the January 2011 revolution that ousted MUBARAK. The uncertain political, security, and policy environment since 2011 has restricted economic growth and failed to alleviate persistent unemployment, especially among the young.</p><p></p><p>In late 2016, persistent dollar shortages and waning aid from its Gulf allies led Cairo to turn to the IMF for a 3-year, $12 billion loan program. To secure the deal, Cairo floated its currency, introduced new taxes, and cut energy subsidies - all of which pushed inflation above 30% for most of 2017, a high that had not been seen in a generation. Since the currency float, foreign investment in Egypt’s high interest treasury bills has risen exponentially, boosting both dollar availability and central bank reserves. Cairo will be challenged to obtain foreign and local investment in manufacturing and other sectors without a sustained effort to implement a range of business reforms.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,223,040,000,000 note: data are in 2017 dollars (2020 est.)<br>
-$1,180,890,000,000 note: data are in 2017 dollars (2019 est.)<br>
-$1,118,720,000,000 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$1,223,040,000,000 (2020 est.)<br>
+$1,180,890,000,000 (2019 est.)<br>
+$1,118,720,000,000 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
 4.2% (2017 est.)<br>
@@ -426,10 +426,10 @@ $1,118,720,000,000 note: data are in 2017 dollars (2018 est.)<br>
 4.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$12,000 note: data are in 2017 dollars (2020 est.)<br>
-$11,800 note: data are in 2017 dollars (2019 est.)<br>
-$11,400 note: data are in 2017 dollars (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
+$12,000 (2020 est.)<br>
+$11,800 (2019 est.)<br>
+$11,400 (2018 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $323.763 billion (2019 est.)<br>
