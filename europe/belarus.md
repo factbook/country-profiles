@@ -209,6 +209,11 @@ _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0.1% (2019)<br>
+_women married by age 18_: 4.7% (2019)<br>
+_men married by age 18_: 1.6% (2019 est.)<br>
+
 **Education expenditures**<br>
 5% of GDP (2020)<br>
 
@@ -627,8 +632,8 @@ _total_: 8.03 million (2022 est.)<br>
 _percent of population_: 85.1% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,255,552 (2020)<br>
-_subscriptions per 100 inhabitants_: 34.45 (2020 est.)<br>
+_total_: 3,255,552 (2021)<br>
+_subscriptions per 100 inhabitants_: 34.45 (2021 est.)<br>
 
 ## Transportation
 
@@ -642,7 +647,7 @@ _annual freight traffic on registered air carriers_: 1.9 million mt-km (2018)<br
 EW<br>
 
 **Airports**<br>
-_total_: 65 (2013)<br>
+_total_: 65 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 33<br>
@@ -650,14 +655,14 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 20<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 7 (2017)<br>
+_under 914 m_: 7 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 32<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 28 (2013)<br>
+_under 914 m_: 28 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -690,10 +695,10 @@ Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force,
 
 **Military expenditures**<br>
 1.5% of GDP (2020 est.)<br>
-1.5% of GDP (2019 est.)<br>
-1.5% of GDP (2018 est.)<br>
-1.5% of GDP (2017 est.)<br>
-1.5% of GDP (2016 est.)<br>
+1.5% of GDP (approximately $2.11 billion) (2019 est.)<br>
+1.5% of GDP (approximately $2.05 billion) (2018 est.)<br>
+1.5% of GDP (approximately $1.98 billion) (2017 est.)<br>
+1.5% of GDP (approximately $2.0 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 45,000 active duty troops; information on the individual services varies, but probably includes about 25,000 Army, 15,000 Air/Air Defense, and 5,000 Special Operations forces (2021)<br>
@@ -714,7 +719,7 @@ note - conscripts can be assigned to the military, as well as the Ministry of In
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,852 (Ukraine) (as of 12 April 2022)<br>
+_refugees (country of origin)_: 23,609 (Ukraine) (as of 18 April 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

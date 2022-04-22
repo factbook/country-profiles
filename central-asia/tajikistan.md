@@ -214,6 +214,10 @@ _vectorborne diseases_: malaria<br>
 **Children under the age of 5 years underweight**<br>
 7.6% (2017)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0.1% (2017)<br>
+_women married by age 18_: 8.7% (2017 est.)<br>
+
 **Education expenditures**<br>
 5.7% of GDP (2019)<br>
 
@@ -624,8 +628,8 @@ _total_: 3.36 million (2021 est.)<br>
 _percent of population_: 21.96% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 6,000 (2017 est.)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total_: 6,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.06 less than 1 (2021 est.)<br>
 
 ## Transportation
 
@@ -639,7 +643,7 @@ _annual freight traffic on registered air carriers_: 2.34 million mt-km (2018)<b
 EY<br>
 
 **Airports**<br>
-_total_: 24 (2013)<br>
+_total_: 24 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 17<br>
@@ -647,13 +651,13 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 4<br>
 _1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 3 (2013)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 5 (2013)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Pipelines**<br>
 549 km gas, 38 km oil (2013)<br>
@@ -675,10 +679,10 @@ Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and 
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>
-2.1% of GDP (2019 est.)<br>
-2.1% of GDP (2018 est.)<br>
-2.2% of GDP (2017 est.)<br>
-2.2% of GDP (2016 est.)<br>
+2.1% of GDP (approximately $360 million) (2019 est.)<br>
+2.1% of GDP (approximately $350 million) (2018 est.)<br>
+2.2% of GDP (approximately $330 million) (2017 est.)<br>
+2.2% of GDP (approximately $320 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,500 active troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2021)<br>

@@ -219,6 +219,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Children under the age of 5 years underweight**<br>
 29.2% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 24.2% (2019)<br>
+_women married by age 18_: 60.6% (2019)<br>
+_men married by age 18_: 8.1% (2019 est.)<br>
+
 **Education expenditures**<br>
 2.4% of GDP (2019)<br>
 
@@ -654,14 +659,14 @@ _inventory of registered aircraft operated by air carriers_: 3<br>
 TT<br>
 
 **Airports**<br>
-_total_: 59 (2013)<br>
+_total_: 59 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 9<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 4<br>
 _1,524 to 2,437 m_: 2<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 50<br>
@@ -669,7 +674,7 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 14<br>
 _914 to 1,523 m_: 22<br>
-_under 914 m_: 11 (2013)<br>
+_under 914 m_: 11 (2021)<br>
 
 **Pipelines**<br>
 582 km oil (2013)<br>
@@ -689,10 +694,10 @@ note(s) - the GDSSIE, formerly known as the Republican Guard, is the presidentia
 
 **Military expenditures**<br>
 2.9% of GDP (2020 est.)<br>
-2% of GDP (2019 est.)<br>
-2% of GDP (2018 est.)<br>
-2% of GDP (2017 est.)<br>
-2.5% of GDP (2016 est.)<br>
+2% of GDP (approximately $320 million) (2019 est.)<br>
+2% of GDP (approximately $310 million) (2018 est.)<br>
+2% of GDP (approximately $310 million) (2017 est.)<br>
+2.5% of GDP (approximately $380 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited and varied information; approximately 30,000 active personnel (20-25,000 Ground Forces; 300 Air Force; 5-10,000 General Direction of the Security Services of State Institutions); approximately 5,000 National Gendarmerie; approximately 3,000 National Nomadic Guard of Chad (2021)<br>

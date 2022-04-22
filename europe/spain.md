@@ -654,7 +654,7 @@ _annual freight traffic on registered air carriers_: 1,117,070,000 mt-km (2018)<
 EC<br>
 
 **Airports**<br>
-_total_: 135 (2020)<br>
+_total_: 135 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 102<br>
@@ -662,12 +662,12 @@ _over 3,047 m_: 18<br>
 _2,438 to 3,047 m_: 16<br>
 _1,524 to 2,437 m_: 19<br>
 _914 to 1,523 m_: 26<br>
-_under 914 m_: 23 (2020)<br>
+_under 914 m_: 23 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 33<br>
 _914 to 1,523 m_: 14<br>
-_under 914 m_: 19 (2020)<br>
+_under 914 m_: 19 (2021)<br>
 
 **Heliports**<br>
 13 (2020)<br>
@@ -707,10 +707,10 @@ note - the Civil Guard is a military force with police duties (including coast g
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
-1.2% of GDP (2020)<br>
-0.9% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
+1% of GDP (2020)<br>
+0.9% of GDP (approximately $16.8 billion) (2019)<br>
+0.9% of GDP (approximately $16.7 billion) (2018)<br>
+0.9% of GDP (approximately $15.9 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Spanish Armed Forces have approximately 120,000 active duty troops (75,000 Army; 25,000 Navy, inc about 5,000 marines; 20,000 Air Force); 80,000 Guardia Civil (2021)<br>
@@ -742,7 +742,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 6,.92 (mid-year 2021)<br>
-<strong>note: </strong>256,464 estimated refugee and migrant arrivals, including Canary Islands (January 2015-March 2022)<br>
+<strong>note: </strong>256,877 estimated refugee and migrant arrivals, including Canary Islands (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

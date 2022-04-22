@@ -442,11 +442,11 @@ _inventory of registered aircraft operated by air carriers_: 4<br>
 VP-A<br>
 
 **Airports**<br>
-_total_: 1 (2020)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2020)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 175 km (2004)<br>

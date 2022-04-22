@@ -218,6 +218,11 @@ _water contact diseases_: schistosomiasis<br>
 **Children under the age of 5 years underweight**<br>
 5.5% (2017)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0.9% (2016)<br>
+_women married by age 18_: 3.6% (2016)<br>
+_men married by age 18_: 0.6% (2016 est.)<br>
+
 **Education expenditures**<br>
 6.8% of GDP (2020)<br>
 
@@ -658,7 +663,7 @@ _annual freight traffic on registered air carriers_: 716.25 million mt-km (2018)
 ZS<br>
 
 **Airports**<br>
-_total_: 407 (2020)<br>
+_total_: 407 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 130<br>
@@ -666,14 +671,14 @@ _over 3,047 m_: 11<br>
 _2,438 to 3,047 m_: 6<br>
 _1,524 to 2,437 m_: 46<br>
 _914 to 1,523 m_: 60<br>
-_under 914 m_: 7 (2020)<br>
+_under 914 m_: 7 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 277<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 19<br>
 _914 to 1,523 m_: 178<br>
-_under 914 m_: 79 (2020)<br>
+_under 914 m_: 79 (2021)<br>
 
 **Pipelines**<br>
 94 km condensate, 1293 km gas, 992 km oil, 1460 km refined products (2013)<br>
@@ -706,9 +711,9 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
 1.1% of GDP (2020)<br>
-1% of GDP (2019)<br>
-1% of GDP (2018)<br>
-1% of GDP (2017)<br>
+1% of GDP (approximately $4.84 billion) (2019)<br>
+1% of GDP (approximately $4.86 billion) (2018)<br>
+1% of GDP (approximately $5.04 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the South African National Defence Force (SANDF) is comprised of approximately 75,000 personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2021)<br>

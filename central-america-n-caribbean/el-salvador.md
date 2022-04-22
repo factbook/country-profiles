@@ -640,20 +640,20 @@ _annual freight traffic on registered air carriers_: 10.73 million mt-km (2018)<
 YS<br>
 
 **Airports**<br>
-_total_: 68 (2013)<br>
+_total_: 68 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 63<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 11<br>
-_under 914 m_: 51 (2013)<br>
+_under 914 m_: 51 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -686,10 +686,10 @@ note - in 2016, El Salvador created a 1,000-strong combined Army commando and sp
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>
-1.2% of GDP (2019)<br>
-1.1% of GDP (2018)<br>
-1% of GDP (2017)<br>
-1% of GDP (2016)<br>
+1.2% of GDP (approximately $570 million) (2019)<br>
+1.1% of GDP (approximately $540 million) (2018)<br>
+1% of GDP (approximately $500 million) (2017)<br>
+1% of GDP (approximately $470 million) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 21,000 active troops (17,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>

@@ -648,21 +648,21 @@ _annual freight traffic on registered air carriers_: 110,000 mt-km (2018)<br>
 TG<br>
 
 **Airports**<br>
-_total_: 291 (2013)<br>
+_total_: 291 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 6<br>
-_under 914 m_: 4 (2017)<br>
+_under 914 m_: 4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 275<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 77<br>
-_under 914 m_: 195 (2013)<br>
+_under 914 m_: 195 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -697,10 +697,10 @@ Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Nava
 
 **Military expenditures**<br>
 0.5% of GDP (2020 est.)<br>
-0.4% of GDP (2019)<br>
-0.4% of GDP (2018)<br>
-0.4% of GDP (2017)<br>
-0.4% of GDP (2016)<br>
+0.4% of GDP (approximately $530 million) (2019)<br>
+0.4% of GDP (approximately $470 million) (2018)<br>
+0.4% of GDP (approximately $460 million) (2017)<br>
+0.4% of GDP (approximately $500 million) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 21,000 active personnel (19,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2021)<br>

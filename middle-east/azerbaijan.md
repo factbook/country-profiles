@@ -623,8 +623,8 @@ _total_: 8.32 million (2022 est.)<br>
 _percent of population_: 81.1% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,995,474 (2020)<br>
-_subscriptions per 100 inhabitants_: 19.68 (2020 est.)<br>
+_total_: 1,995,474 (2021)<br>
+_subscriptions per 100 inhabitants_: 19.68 (2021 est.)<br>
 
 ## Transportation
 
@@ -638,7 +638,7 @@ _annual freight traffic on registered air carriers_: 44.09 million mt-km (2018)<
 4K<br>
 
 **Airports**<br>
-_total_: 23 (2020)<br>
+_total_: 23 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 30<br>
@@ -646,11 +646,11 @@ _over 3,047 m_: 5<br>
 _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 13<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 3 (2017)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
-_under 914 m_: 7 (2013)<br>
+_under 914 m_: 7 (2021)<br>
 
 **Heliports**<br>
 1 (2012)<br>
@@ -680,10 +680,10 @@ Land Forces (Combined Arms Army), Air Forces, Navy Forces; Ministry of Internal 
 
 **Military expenditures**<br>
 5.4% of GDP (2020 est.)<br>
-3.8% of GDP (2019 est.)<br>
-3.6% of GDP (2018 est.)<br>
-3.8% of GDP (2017 est.)<br>
-3.7% of GDP (2016 est.)<br>
+3.8% of GDP (approximately $3.4 billion) (2019 est.)<br>
+3.6% of GDP (approximately $3.2 billion) (2018 est.)<br>
+3.8% of GDP (approximately $3.26 billion) (2017 est.)<br>
+3.7% of GDP (approximately $3.29 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 65,000 total active troops (55,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2021)<br>

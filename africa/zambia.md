@@ -224,6 +224,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 11.8% (2018/19)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 5.2% (2018)<br>
+_women married by age 18_: 29% (2018)<br>
+_men married by age 18_: 2.8% (2018 est.)<br>
+
 **Education expenditures**<br>
 4.5% of GDP (2019)<br>
 
@@ -663,21 +668,21 @@ _annual freight traffic on registered air carriers_: 75.08 million mt-km (2018)<
 9J<br>
 
 **Airports**<br>
-_total_: 88 (2013)<br>
+_total_: 88 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 3<br>
-_914 to 1,523 m_: 1 (2013)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 80<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 53<br>
-_under 914 m_: 21 (2013)<br>
+_under 914 m_: 21 (2021)<br>
 
 **Pipelines**<br>
 771 km oil (2013)<br>
@@ -709,10 +714,10 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.3% of GDP (2019 est.)<br>
-1.4% of GDP (2018 est.)<br>
-1.3% of GDP (2017 est.)<br>
-1.5% of GDP (2016 est.)<br>
+1.3% of GDP (approximately $450 million) (2019 est.)<br>
+1.4% of GDP (approximately $470 million) (2018 est.)<br>
+1.3% of GDP (approximately $420 million) (2017 est.)<br>
+1.5% of GDP (approximately $450 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Zambia Defense Force (ZDF) has approximately 17,000 active troops (15,000 Army; 2,000 Air) (2021)<br>

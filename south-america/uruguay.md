@@ -648,20 +648,20 @@ _inventory of registered aircraft operated by air carriers_: 5<br>
 CX<br>
 
 **Airports**<br>
-_total_: 133 (2013)<br>
+_total_: 133 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 11<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 122<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 40<br>
-_under 914 m_: 79 (2013)<br>
+_under 914 m_: 79 (2021)<br>
 
 **Pipelines**<br>
 257 km gas, 160 km oil (2013)<br>
@@ -693,9 +693,9 @@ Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito N
 **Military expenditures**<br>
 2.3% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-2.1% of GDP (2019 est.)<br>
-2.1% of GDP (2018 est.)<br>
-2% of GDP (2017 est.)<br>
+2.1% of GDP (approximately $1.47 billion) (2019 est.)<br>
+2.1% of GDP (approximately $1.51 billion) (2018 est.)<br>
+2% of GDP (approximately $1.38 billion) (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 22,000 active personnel (14,000 Army; 5,000 Navy; 3,000 Air Force) (2021)<br>

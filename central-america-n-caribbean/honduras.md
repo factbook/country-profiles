@@ -648,20 +648,20 @@ _annual freight traffic on registered air carriers_: 450,000 mt-km (2018)<br>
 HR<br>
 
 **Airports**<br>
-_total_: 103 (2013)<br>
+_total_: 103 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 13<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 3 (2017)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 90<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 16<br>
-_under 914 m_: 73 (2013)<br>
+_under 914 m_: 73 (2021)<br>
 
 **Railways**<br>
 _total_: 699 km (2014)<br>
@@ -692,10 +692,10 @@ note - the PMOP was created in 2013 as part of an effort by the Honduran Governm
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.)<br>
-1.6% of GDP (2018 est.)<br>
-1.7% of GDP (2017 est.)<br>
-1.7% of GDP (2016 est.)<br>
+1.6% of GDP (approximately $510 million) (2019 est.)<br>
+1.6% of GDP (approximately $500 million) (2018 est.)<br>
+1.7% of GDP (approximately $510 million) (2017 est.)<br>
+1.7% of GDP (approximately $470 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Honduran Armed Forces (FFAA) have approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Public Order Military Police); approximately 18,000 National Police (2021)<br>

@@ -224,6 +224,10 @@ _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<b
 **Children under the age of 5 years underweight**<br>
 2.4% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 2.5% (2018)<br>
+_women married by age 18_: 17.4% (2018 est.)<br>
+
 **Education expenditures**<br>
 4.2% of GDP (2020)<br>
 
@@ -674,7 +678,7 @@ _annual freight traffic on registered air carriers_: 313.26 million mt-km (2018)
 OB<br>
 
 **Airports**<br>
-_total_: 191 (2013)<br>
+_total_: 191 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 59<br>
@@ -682,14 +686,14 @@ _over 3,047 m_: 5<br>
 _2,438 to 3,047 m_: 21<br>
 _1,524 to 2,437 m_: 16<br>
 _914 to 1,523 m_: 12<br>
-_under 914 m_: 5 (2017)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 132<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 19<br>
 _914 to 1,523 m_: 30<br>
-_under 914 m_: 82 (2013)<br>
+_under 914 m_: 82 (2021)<br>
 
 **Heliports**<br>
 5 (2013)<br>
@@ -727,10 +731,10 @@ Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del 
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>
-1.2% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
-1.3% of GDP (2016)<br>
+1.2% of GDP (approximately $3.87 billion) (2019)<br>
+1.2% of GDP (approximately $3.83 billion) (2018)<br>
+1.2% of GDP (approximately $3.86 billion) (2017)<br>
+1.3% of GDP (approximately $4.06 billion) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 95,000 active personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2021)<br>

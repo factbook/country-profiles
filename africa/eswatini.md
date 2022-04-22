@@ -625,17 +625,17 @@ _subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 3DC<br>
 
 **Airports**<br>
-_total_: 14 (2013)<br>
+_total_: 14 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 1 (2019)<br>
+_2,438 to 3,047 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 12<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 7 (2013)<br>
+_under 914 m_: 7 (2021)<br>
 
 **Railways**<br>
 _total_: 301 km (2014)<br>
@@ -651,10 +651,10 @@ Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2021)<b
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-1.9% of GDP (2019 est.)<br>
-2.1% of GDP (2018 est.)<br>
-2.1% of GDP (2017 est.)<br>
-2.2% of GDP (2016 est.)<br>
+1.9% of GDP (approximately $140 million) (2019 est.)<br>
+2.1% of GDP (approximately $150 million) (2018 est.)<br>
+2.1% of GDP (approximately $140 million) (2017 est.)<br>
+2.2% of GDP (approximately $150 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 3,000 active personnel (2021)<br>

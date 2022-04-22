@@ -652,20 +652,20 @@ _annual freight traffic on registered air carriers_: 110,000 mt-km (2018)<br>
 A2<br>
 
 **Airports**<br>
-_total_: 74 (2013)<br>
+_total_: 74 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 10<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 6<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 64<br>
 _1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 46<br>
-_under 914 m_: 13 (2013)<br>
+_under 914 m_: 13 (2021)<br>
 
 **Railways**<br>
 _total_: 888 km (2014)<br>
@@ -684,10 +684,10 @@ note - both the armed forces and the Botswana Police Service report to the Minis
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>
-2.8% of GDP (2019)<br>
-2.8% of GDP (2018)<br>
-2.9% of GDP (2017)<br>
-3.1% of GDP (2016)<br>
+2.8% of GDP (approximately $760 million) (2019)<br>
+2.8% of GDP (approximately $730 million) (2018)<br>
+2.9% of GDP (approximately $740 million) (2017)<br>
+3.1% of GDP (approximately $760 million) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Botswana Defense Force (BDF) has approximately 9,000 active personnel (2021)<br>

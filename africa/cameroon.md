@@ -224,6 +224,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Children under the age of 5 years underweight**<br>
 11% (2018/19)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 10.7% (2018)<br>
+_women married by age 18_: 29.8% (2018)<br>
+_men married by age 18_: 2.9% (2018 est.)<br>
+
 **Education expenditures**<br>
 3.1% of GDP (2019)<br>
 
@@ -670,20 +675,20 @@ _annual freight traffic on registered air carriers_: 70,000 mt-km (2018)<br>
 TJ<br>
 
 **Airports**<br>
-_total_: 33 (2013)<br>
+_total_: 33 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 11<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 3<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 22<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 10<br>
-_under 914 m_: 8 (2013)<br>
+_under 914 m_: 8 (2021)<br>
 
 **Pipelines**<br>
 53 km gas, 5 km liquid petroleum gas, 1107 km oil, 35 km water (2013)<br>
@@ -718,10 +723,10 @@ note(s) - the National Police (under the General Delegation of National Security
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
-1.4% of GDP (2019 est.)<br>
-1.4% of GDP (2018 est.)<br>
-1.5% of GDP (2017 est.)<br>
-1.5% of GDP (2016 est.)<br>
+1.4% of GDP (approximately $710 million) (2019 est.)<br>
+1.4% of GDP (approximately $710 million) (2018 est.)<br>
+1.5% of GDP (approximately $710 million) (2017 est.)<br>
+1.5% of GDP (approximately $700 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; approximately 40,000 active duty troops; (25,000 ground forces, including the BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2021)<br>

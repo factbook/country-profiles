@@ -606,11 +606,11 @@ _subscriptions per 100 inhabitants_: 37.21 (2019 est.)<br>
 8P<br>
 
 **Airports**<br>
-_total_: 1 (2020)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_over 3,047 m_: 1 (2019)<br>
+_over 3,047 m_: 1 (2021)<br>
 
 **Pipelines**<br>
 33 km gas, 64 km oil, 6 km refined products (2013)<br>
@@ -633,10 +633,10 @@ Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2021)<b
 
 **Military expenditures**<br>
 0.9% of GDP (2020 est.)<br>
-0.8% of GDP (2019 est.)<br>
-0.8% of GDP (2018 est.)<br>
-0.8% of GDP (2017 est.)<br>
-0.8% of GDP (2016 est.)<br>
+0.8% of GDP (approximately $35 million) (2019 est.)<br>
+0.8% of GDP (approximately $40 million) (2018 est.)<br>
+0.8% of GDP (approximately $40 million) (2017 est.)<br>
+0.8% of GDP (approximately $40 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Barbados Defense Force (BDF) has approximately 600 active personnel (2021)<br>

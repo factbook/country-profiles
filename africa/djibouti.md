@@ -625,19 +625,19 @@ _inventory of registered aircraft operated by air carriers_: 4<br>
 J2<br>
 
 **Airports**<br>
-_total_: 13 (2013)<br>
+_total_: 13 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 10<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 7<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Railways**<br>
 _total_: 97 km (Djibouti segment of the 756 km Addis Ababa-Djibouti railway) (2017)<br>
@@ -660,11 +660,11 @@ Djibouti Armed Forces (FAD): Army, Navy, Air Force; Djibouti Coast Guard; Minist
 note - the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points, while the National Gendarmerie is responsible for all security outside of Djibouti City, as well as for protecting critical infrastructure within the city, such as the international airport<br>
 
 **Military expenditures**<br>
-3.5% of GDP (2019 est.)<br>
-3.5% of GDP (2018 est.)<br>
-3.3% of GDP (2017 est.)<br>
-2.7% of GDP (2016 est.)<br>
-2.5% of GDP (2015 est.)<br>
+3.5% of GDP (approximately $180 million) (2019 est.)<br>
+3.5% of GDP (approximately $160 million) (2018 est.)<br>
+3.3% of GDP (approximately $150 million) (2017 est.)<br>
+2.7% of GDP (approximately $120 million) (2016 est.)<br>
+2.5% of GDP (approximately $110 million) (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Djibouti Armed Forces (FAD) have approximately 10,500 active troops (8,000 Army; 250 Naval; 250 Air; 2,000 Gendarmerie) (2021)<br>

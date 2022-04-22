@@ -619,8 +619,8 @@ _total_: 18.6 million (2021 est.)<br>
 _percent of population_: 52.31% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,820,009 (2020)<br>
-_subscriptions per 100 inhabitants_: 14.4 (2020 est.)<br>
+_total_: 4,820,009 (2021)<br>
+_subscriptions per 100 inhabitants_: 14.4 (2021 est.)<br>
 
 ## Transportation
 
@@ -634,7 +634,7 @@ _annual freight traffic on registered air carriers_: 89.43 million mt-km (2018)<
 UK<br>
 
 **Airports**<br>
-_total_: 53 (2013)<br>
+_total_: 53 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 33<br>
@@ -642,12 +642,12 @@ _over 3,047 m_: 6<br>
 _2,438 to 3,047 m_: 13<br>
 _1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 4 (2013)<br>
+_under 914 m_: 4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 20<br>
 _2,438 to 3,047 m_: 2<br>
-_under 914 m_: 18 (2013)<br>
+_under 914 m_: 18 (2021)<br>
 
 **Pipelines**<br>
 13,700 km gas, 944 km oil (2016)<br>
@@ -674,11 +674,11 @@ Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard; Mi
 note - the National Guard, also under the Ministry of Defense, ensures public order and security of diplomatic missions, radio and television broadcasting, and other state entities<br>
 
 **Military expenditures**<br>
-2.8% of GDP (2019 est.)<br>
-2.9% of GDP (2018 est.)<br>
-2.7% of GDP (2017 est.)<br>
-2.5% of GDP (2016 est.)<br>
-2.5% of GDP (2015 est.)<br>
+2.8% of GDP (approximately $3 billion) (2019 est.)<br>
+2.9% of GDP (approximately $2.88 billion) (2018 est.)<br>
+2.7% of GDP (approximately $2.65 billion) (2017 est.)<br>
+2.5% of GDP (approximately $2.49 billion) (2016 est.)<br>
+2.5% of GDP (approximately $2.4 billion) (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 60,000 total active troops, including 10-15,000 Air Force (2021)<br>

@@ -629,19 +629,19 @@ _subscriptions per 100 inhabitants_: 8.37 (2017 est.)<br>
 8R<br>
 
 **Airports**<br>
-_total_: 117 (2013)<br>
+_total_: 117 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 11<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 8 (2017)<br>
+_under 914 m_: 8 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 106<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 16<br>
-_under 914 m_: 89 (2013)<br>
+_under 914 m_: 89 (2021)<br>
 
 **Roadways**<br>
 _total_: 3,995 km (2019)<br>
@@ -665,10 +665,10 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>
-1.3% of GDP (2019 est.)<br>
-1.3% of GDP (2018 est.)<br>
-1.2% of GDP (2017 est.)<br>
-1.1% of GDP (2016 est.)<br>
+1.3% of GDP (approximately $95 million) (2019 est.)<br>
+1.3% of GDP (approximately $85 million) (2018 est.)<br>
+1.2% of GDP (approximately $80 million) (2017 est.)<br>
+1.1% of GDP (approximately $75 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 4,000 active personnel (2021)<br>

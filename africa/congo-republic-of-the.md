@@ -221,6 +221,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 12.3% (2014/15)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 8.4% (2018)<br>
+_women married by age 18_: 29.1% (2018)<br>
+_men married by age 18_: 5.6% (2018 est.)<br>
+
 **Education expenditures**<br>
 3.9% of GDP (2019)<br>
 
@@ -654,19 +659,19 @@ _annual freight traffic on registered air carriers_: 4.6 million mt-km (2018)<br
 TN<br>
 
 **Airports**<br>
-_total_: 27 (2013)<br>
+_total_: 27 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 5 (2017)<br>
+_1,524 to 2,437 m_: 5 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 19<br>
 _1,524 to 2,437 m_: 8<br>
 _914 to 1,523 m_: 9<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Pipelines**<br>
 232 km gas, 4 km liquid petroleum gas, 982 km oil (2013)<br>
@@ -701,10 +706,10 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army (Armee de Terre), 
 
 **Military expenditures**<br>
 3.2% of GDP (2020 est.)<br>
-2.3% of GDP (2019 est.)<br>
-2.1% of GDP (2018 est.)<br>
-3.6% of GDP (2017 est.)<br>
-4.2% of GDP (2016 est.)<br>
+2.3% of GDP (approximately $350 million) (2019 est.)<br>
+2.1% of GDP (approximately $330 million) (2018 est.)<br>
+3.6% of GDP (approximately $580 million) (2017 est.)<br>
+4.2% of GDP (approximately $690 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Congolese Armed Forces (FAC) have approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 2,000 Gendarmerie) (2021)<br>

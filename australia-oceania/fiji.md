@@ -625,18 +625,18 @@ _annual freight traffic on registered air carriers_: 106.83 million mt-km (2018)
 DQ<br>
 
 **Airports**<br>
-_total_: 28 (2013)<br>
+_total_: 28 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 2 (2017)<br>
+_914 to 1,523 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 24<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 19 (2013)<br>
+_under 914 m_: 19 (2021)<br>
 
 **Railways**<br>
 _total_: 597 km (2008)<br>
@@ -666,10 +666,10 @@ both the RFMF and the Fiji Police report to the the Ministry of Defense, Nationa
 
 **Military expenditures**<br>
 1.4% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.)<br>
-1.5% of GDP (2018 est.)<br>
-1.5% of GDP (2017 est.)<br>
-1.3% of GDP (2016 est.)<br>
+1.6% of GDP (approximately $160 million) (2019 est.)<br>
+1.6% of GDP (approximately $160 million) (2018 est.)<br>
+1.5% of GDP (approximately $150 million) (2017 est.)<br>
+1.3% of GDP (approximately $130 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the<strong> </strong>Republic of Fiji Military Forces (RFMF) have about 3,500 personnel (3,200 Land Force; 300 Maritime Command) (2021)<br>

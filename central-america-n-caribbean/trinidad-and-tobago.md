@@ -606,17 +606,17 @@ _annual freight traffic on registered air carriers_: 41.14 million mt-km (2018)<
 9Y<br>
 
 **Airports**<br>
-_total_: 4 (2013)<br>
+_total_: 4 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 1 (2019)<br>
+_2,438 to 3,047 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Pipelines**<br>
 257 km condensate, 11 km condensate/gas, 1567 km gas, 587 km oil (2013)<br>
@@ -638,10 +638,10 @@ note - the Ministry of National Security oversees defense, immigration, and the 
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
-1% of GDP (2019 est.)<br>
-1% of GDP (2018 est.)<br>
-1.3% of GDP (2017 est.)<br>
-1.4% of GDP (2016 est.)<br>
+1% of GDP (approximately $350 million) (2019 est.)<br>
+1% of GDP (approximately $340 million) (2018 est.)<br>
+1.3% of GDP (approximately $420 million) (2017 est.)<br>
+1.4% of GDP (approximately $460 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,500 TTDF personnel; approximately 7,000 TTPS personnel (2021)<br>

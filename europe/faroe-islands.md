@@ -537,11 +537,11 @@ _inventory of registered aircraft operated by air carriers_: 3 (registered in De
 OY-H<br>
 
 **Airports**<br>
-_total_: 1 (2020)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2019)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 960 km (2017)<br>

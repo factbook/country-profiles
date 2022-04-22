@@ -224,6 +224,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Children under the age of 5 years underweight**<br>
 18.1% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 15.9% (2018)<br>
+_women married by age 18_: 53.7% (2018)<br>
+_men married by age 18_: 2.1% (2018 est.)<br>
+
 **Education expenditures**<br>
 3.4% of GDP (2019)<br>
 
@@ -663,20 +668,20 @@ _number of registered air carriers_: 0 (2020)<br>
 TZ, TT<br>
 
 **Airports**<br>
-_total_: 25 (2013)<br>
+_total_: 25 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 4<br>
 _1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 1 (2019)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 17<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 9<br>
-_under 914 m_: 5 (2013)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -702,10 +707,10 @@ note(s) - the Gendarmerie and the National Guard are under the authority of the 
 
 **Military expenditures**<br>
 3.4% of GDP (2020 est.)<br>
-3.1% of GDP (2019 est.)<br>
-3.1% of GDP (2018 est.)<br>
-3.2% of GDP (2017 est.)<br>
-2.8% of GDP (2016 est.)<br>
+3.1% of GDP (approximately $630 million) (2019 est.)<br>
+3.1% of GDP (approximately $600 million) (2018 est.)<br>
+3.2% of GDP (approximately $600 million) (2017 est.)<br>
+2.8% of GDP (approximately $500 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 16,000 active personnel (15,000 Army; 1,000 Air Force); estimated 10,000 Gendarmerie and National Guard (2021)<br>

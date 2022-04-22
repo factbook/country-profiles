@@ -649,18 +649,18 @@ _annual passenger traffic on registered air carriers_: 1,073,528 (2018)<br>
 9XR<br>
 
 **Airports**<br>
-_total_: 7 (2013)<br>
+_total_: 7 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
 _over 3,047 m_: 1<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 1 (2019)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 4,700 km (2012)<br>
@@ -680,10 +680,10 @@ Rwanda Defense Force (RDF): Rwanda Army (Rwanda Land Force), Rwanda Air Force (F
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.2% of GDP (2019 est.)<br>
-1.2% of GDP (2018 est.)<br>
-1.2% of GDP (2017 est.)<br>
-1.2% of GDP (2016 est.)<br>
+1.2% of GDP (approximately $220 million) (2019 est.)<br>
+1.2% of GDP (approximately $200 million) (2018 est.)<br>
+1.2% of GDP (approximately $190 million) (2017 est.)<br>
+1.2% of GDP (approximately $180 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Rwanda Defense Force (RDF) has approximately 33,000 active personnel (32,000 Army; 1,000 Air Force) (2021)<br>

@@ -208,6 +208,10 @@ _vectorborne diseases_: dengue fever<br>
 **Children under the age of 5 years underweight**<br>
 2.9% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 2% (2018)<br>
+_women married by age 18_: 17.1% (2018 est.)<br>
+
 **Education expenditures**<br>
 6.7% of GDP (2020)<br>
 
@@ -638,19 +642,19 @@ _annual freight traffic on registered air carriers_: 11.13 million mt-km (2018)<
 TI<br>
 
 **Airports**<br>
-_total_: 161 (2013)<br>
+_total_: 161 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 47<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 27<br>
-_under 914 m_: 16 (2017)<br>
+_under 914 m_: 16 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 114<br>
 _914 to 1,523 m_: 18<br>
-_under 914 m_: 96 (2013)<br>
+_under 914 m_: 96 (2021)<br>
 
 **Pipelines**<br>
 662 km refined products (2013)<br>
@@ -682,10 +686,10 @@ note - Costa Rica's armed forces were constitutionally abolished in 1949<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2020)<br>
-0.7% of GDP (2019)<br>
-0.7% of GDP (2018)<br>
-0.7% of GDP (2017)<br>
-0.7% of GDP (2016)<br>
+0.7% of GDP (approximately $630 million) (2019)<br>
+0.7% of GDP (approximately $610 million) (2018)<br>
+0.7% of GDP (approximately $600 million) (2017)<br>
+0.7% of GDP (approximately $580 million) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 12,500 Public Force personnel; approximately 400-500 air and 400-500 coast guard personnel (2021)<br>

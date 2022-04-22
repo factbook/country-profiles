@@ -641,14 +641,14 @@ _annual freight traffic on registered air carriers_: 3.27 million mt-km (2018)<b
 7O<br>
 
 **Airports**<br>
-_total_: 57 (2013)<br>
+_total_: 57 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 17<br>
 _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 9<br>
 _1,524 to 2,437 m_: 3<br>
-_914 to 1,523 m_: 1 (2013)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 40<br>
@@ -656,7 +656,7 @@ _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 7<br>
 _914 to 1,523 m_: 16<br>
-_under 914 m_: 9 (2013)<br>
+_under 914 m_: 9 (2021)<br>
 
 **Pipelines**<br>
 641 km gas, 22 km liquid petroleum gas, 1370 km oil (2013)<br>

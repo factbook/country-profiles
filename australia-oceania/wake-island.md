@@ -174,11 +174,11 @@ American Armed Forces Radio and Television Service (AFRTS) provides satellite ra
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2018)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_2,438 to 3,047 m_: 1 (2019)<br>
+_2,438 to 3,047 m_: 1 (2021)<br>
 
 **Ports and terminals**<br>
 none; two offshore anchorages for large ships<br>

@@ -213,6 +213,11 @@ _vectorborne diseases_: Japanese encephalitis, malaria, and dengue fever<br>
 **Children under the age of 5 years underweight**<br>
 24.4% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 7.9% (2019)<br>
+_women married by age 18_: 32.8% (2019)<br>
+_men married by age 18_: 9% (2019 est.)<br>
+
 **Education expenditures**<br>
 4.4% of GDP (2018)<br>
 
@@ -644,20 +649,20 @@ _annual freight traffic on registered air carriers_: 4.66 million mt-km (2018)<b
 9N<br>
 
 **Airports**<br>
-_total_: 47 (2013)<br>
+_total_: 47 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 11<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 6<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 36<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 6<br>
-_under 914 m_: 29 (2013)<br>
+_under 914 m_: 29 (2021)<br>
 
 **Railways**<br>
 _total_: 59 km (2018)<br>
@@ -675,10 +680,10 @@ Nepal Army (includes Air Wing); Nepal Armed Police Force (under the Ministry of 
 
 **Military expenditures**<br>
 1.4% of GDP (2020 est.)<br>
-2.1% of GDP (2019)<br>
-2.3% of GDP (2018)<br>
-2.6% of GDP (2017)<br>
-2.6% of GDP (2016)<br>
+2.1% of GDP (approximately $1.1 billion) (2019)<br>
+2.3% of GDP (approximately $1.11 billion) (2018)<br>
+2.6% of GDP (approximately $1.12 billion) (2017)<br>
+2.6% of GDP (approximately $990 million) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 95,000 active troops (including a small air wing of about 500 personnel) (2021)<br>

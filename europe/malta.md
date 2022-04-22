@@ -625,11 +625,11 @@ _annual freight traffic on registered air carriers_: 5.14 million mt-km (2018)<b
 9H<br>
 
 **Airports**<br>
-_total_: 1 (2013)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_over 3,047 m_: 1 (2019)<br>
+_over 3,047 m_: 1 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -657,9 +657,9 @@ Armed Forces of Malta (AFM, includes land, maritime, and air elements, plus a Vo
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>
 0.6% of GDP (2020)<br>
-0.5% of GDP (2019)<br>
-0.5% of GDP (2018)<br>
-0.5% of GDP (2017)<br>
+0.5% of GDP (approximately $110 million) (2019)<br>
+0.5% of GDP (approximately $110 million) (2018)<br>
+0.5% of GDP (approximately $110 million) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 active duty personnel (2021)<br>

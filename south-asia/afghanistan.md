@@ -219,6 +219,10 @@ _vectorborne diseases_: Crimea-Congo hemorrhagic fever, malaria<br>
 **Children under the age of 5 years underweight**<br>
 19.1% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 4.2% (2017)<br>
+_women married by age 18_: 28.3% (2017 est.)<br>
+
 **Education expenditures**<br>
 3.2% of GDP (2019)<br>
 
@@ -652,7 +656,7 @@ _annual freight traffic on registered air carriers_: 29.56 million mt-km (2018)<
 YA<br>
 
 **Airports**<br>
-_total_: 46 (2020)<br>
+_total_: 46 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 29<br>
@@ -660,14 +664,14 @@ _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 8<br>
 _1,524 to 2,437 m_: 12<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 3 (2020)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 17<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 7<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 5 (2020)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Heliports**<br>
 1 (2020)<br>

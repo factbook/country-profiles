@@ -664,7 +664,7 @@ _annual freight traffic on registered air carriers_: 294.97 million mt-km (2018)
 5Y<br>
 
 **Airports**<br>
-_total_: 197 (2013)<br>
+_total_: 197 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
@@ -672,13 +672,13 @@ _over 3,047 m_: 5<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 6<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 181<br>
 _1,524 to 2,437 m_: 14<br>
 _914 to 1,523 m_: 107<br>
-_under 914 m_: 60 (2013)<br>
+_under 914 m_: 60 (2021)<br>
 
 **Pipelines**<br>
 4 km oil, 1,432 km refined products (2018)<br>
@@ -712,10 +712,10 @@ note - the National Police Service maintains internal security and reports to th
 
 **Military expenditures**<br>
 1.2% of GDP (2020)<br>
-1.2% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
-1.4% of GDP (2017)<br>
-1.4% of GDP (2016)<br>
+1.2% of GDP (approximately $1.21 billion) (2019)<br>
+1.3% of GDP (approximately $1.24 billion) (2018)<br>
+1.4% of GDP (approximately $1.19 billion) (2017)<br>
+1.4% of GDP (approximately $1.16 billion) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 &nbsp;approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2021)<br>
@@ -747,7 +747,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 <p>Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; as of March 2019, Kenya provides shelter to nearly 475,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times<br><br><em>Uganda-Kenya:</em> Kenya and Uganda have begun a joint demarcation of the boundary in 2021 </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 278,998 (Somalia), 137,776 (South Sudan), 48,284 (Democratic Republic of the Congo), 20,924 (Ethiopia), 7,521 (Burundi) (2022)<br>
+_refugees (country of origin)_: 278,998 (Somalia), 139,846 (South Sudan), 48,284 (Democratic Republic of the Congo), 20,924 (Ethiopia), 7,521 (Burundi) (2022)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2020)<br>
 _stateless persons_: 16,820 (mid-year 2021); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

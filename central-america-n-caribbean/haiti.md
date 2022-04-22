@@ -211,6 +211,11 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Children under the age of 5 years underweight**<br>
 9.5% (2016/17)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 2.1% (2017)<br>
+_women married by age 18_: 14.9% (2017)<br>
+_men married by age 18_: 1.6% (2017 est.)<br>
+
 **Education expenditures**<br>
 1.7% of GDP (2018)<br>
 
@@ -622,17 +627,17 @@ _inventory of registered aircraft operated by air carriers_: 1<br>
 HH<br>
 
 **Airports**<br>
-_total_: 14 (2013)<br>
+_total_: 14 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
 _2,438 to 3,047 m_: 2<br>
-_914 to 1,523 m_: 2 (2019)<br>
+_914 to 1,523 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 10<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 8 (2013)<br>
+_under 914 m_: 8 (2021)<br>
 
 **Roadways**<br>
 _total_: 4,266 km Note – total paved plus unpaved is less than total roadways because some roads are under construction or only partially paved (2009)<br>

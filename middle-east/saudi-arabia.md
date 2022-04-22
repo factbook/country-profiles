@@ -641,7 +641,7 @@ _annual freight traffic on registered air carriers_: 1,085,470,000 mt-km (2018)<
 HZ<br>
 
 **Airports**<br>
-_total_: 214 (2013)<br>
+_total_: 214 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 82<br>
@@ -649,14 +649,14 @@ _over 3,047 m_: 33<br>
 _2,438 to 3,047 m_: 16<br>
 _1,524 to 2,437 m_: 27<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 4 (2017)<br>
+_under 914 m_: 4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 132<br>
 _2,438 to 3,047 m_: 7<br>
 _1,524 to 2,437 m_: 72<br>
 _914 to 1,523 m_: 37<br>
-_under 914 m_: 16 (2013)<br>
+_under 914 m_: 16 (2021)<br>
 
 **Heliports**<br>
 10 (2013)<br>
@@ -690,9 +690,9 @@ note - SANG (also known as the White Army) is a land force separate from the Min
 **Military expenditures**<br>
 5.7% of GDP (2021 est.)<br>
 7.8% of GDP (2020 est.)<br>
-8.8% of GDP (2019 est.)<br>
-10% of GDP (2018 est.)<br>
-11.1% of GDP (2017 est.)<br>
+8.8% of GDP (approximately $92.2 billion) (2019 est.)<br>
+10% of GDP (approximately $103 billion) (2018 est.)<br>
+11.1% of GDP (approximately $111 billion) (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Saudi military forces have about 225,000 active troops; approximately 125,000 under the Ministry of Defense (75,000 Land Forces; 15,000 Naval Forces; 35,000 Air Force/Air Defense/Strategic Missile Forces) and approximately 100,000 in the Saudi Arabia National Guard (SANG) (2021)<br>

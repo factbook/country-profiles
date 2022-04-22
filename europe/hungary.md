@@ -637,8 +637,8 @@ _total_: 8.01 million (2021 est.)<br>
 _percent of population_: 84.77% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,265,308 (2020)<br>
-_subscriptions per 100 inhabitants_: 33.8 (2020 est.)<br>
+_total_: 3,265,308 (2021)<br>
+_subscriptions per 100 inhabitants_: 33.8 (2021 est.)<br>
 
 ## Transportation
 
@@ -651,7 +651,7 @@ _annual passenger traffic on registered air carriers_: 31,226,848 (2018)<br>
 HA<br>
 
 **Airports**<br>
-_total_: 41 (2013)<br>
+_total_: 41 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 20<br>
@@ -659,13 +659,13 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 6<br>
 _1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 21<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 8<br>
-_under 914 m_: 11 (2013)<br>
+_under 914 m_: 11 (2021)<br>
 
 **Heliports**<br>
 3 (2013)<br>
@@ -700,11 +700,11 @@ _river port(s)_: Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danub
 the Hungarian Defense Forces are a unified force (Joint Force Command) with Land Forces, Air Forces, and Logistics components (2021)<br>
 
 **Military expenditures**<br>
-1.6% of GDP (2021 est.)<br>
+1.8% of GDP (2021 est.)<br>
 1.8% of GDP (2020)<br>
-1.3% of GDP (2019)<br>
-1% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
+1.3% of GDP (approximately $3.02 billion) (2019)<br>
+1% of GDP (approximately $2.4 billion) (2018)<br>
+1.2% of GDP (approximately $2.21 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Hungarian Defense Forces have approximately 23,000 active duty troops (18,000 Army; 5,000 Air Force) (2021)<br>
@@ -729,7 +729,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 434,342 (Ukraine) (as of 12 April 2022)<br>
+_refugees (country of origin)_: 465,598 (Ukraine) (as of 18 April 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

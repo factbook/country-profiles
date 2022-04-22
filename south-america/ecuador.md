@@ -214,6 +214,10 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Children under the age of 5 years underweight**<br>
 5.2% (2018/19)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 3.8% (2018)<br>
+_women married by age 18_: 22.2% (2018 est.)<br>
+
 **Education expenditures**<br>
 4.1% of GDP (2020)<br>
 
@@ -651,7 +655,7 @@ _annual freight traffic on registered air carriers_: 64.2 million mt-km (2018)<b
 HC<br>
 
 **Airports**<br>
-_total_: 432 (2013)<br>
+_total_: 432 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 104<br>
@@ -659,12 +663,12 @@ _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 18<br>
 _914 to 1,523 m_: 26<br>
-_under 914 m_: 51 (2017)<br>
+_under 914 m_: 51 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 328<br>
 _914 to 1,523 m_: 37<br>
-_under 914 m_: 291 (2013)<br>
+_under 914 m_: 291 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -702,10 +706,10 @@ note - the National Police of Ecuador (Polic&iacute;a Nacional del Ecuador) is u
 
 **Military expenditures**<br>
 2.3% of GDP (2020 est.)<br>
-2.2% of GDP (2019)<br>
-2.4% of GDP (2018)<br>
-2.4% of GDP (2017)<br>
-2.5% of GDP (2016)<br>
+2.2% of GDP (approximately $2.98 billion) (2019)<br>
+2.4% of GDP (approximately $3.14 billion) (2018)<br>
+2.4% of GDP (approximately $3.1 billion) (2017)<br>
+2.5% of GDP (approximately $3.17 billion) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Ecuadorian Armed Forces have approximately 40,000 active personnel (25,000 Army; 9,000 Navy; 6,000 Air Force) (2021)<br>

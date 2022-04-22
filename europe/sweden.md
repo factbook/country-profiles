@@ -629,7 +629,7 @@ _inventory of registered aircraft operated by air carriers_: 316<br>
 SE<br>
 
 **Airports**<br>
-_total_: 231 (2013)<br>
+_total_: 231 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 149<br>
@@ -637,12 +637,12 @@ _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 12<br>
 _1,524 to 2,437 m_: 75<br>
 _914 to 1,523 m_: 22<br>
-_under 914 m_: 37 (2013)<br>
+_under 914 m_: 37 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 82<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 77 (2013)<br>
+_under 914 m_: 77 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -680,9 +680,9 @@ Swedish Armed Forces (Forsvarsmakten): Army, Navy, Air Force; Home Guard (2021)<
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.2% of GDP (2020)<br>
-1.1% of GDP (2019)<br>
-1% of GDP (2018)<br>
-1% of GDP (2017)<br>
+1.1% of GDP (approximately $6.78 billion) (2019)<br>
+1% of GDP (approximately $6.26 billion) (2018)<br>
+1% of GDP (approximately $6.04 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 16,000 active duty troops (7,000 Army; 3,000 Navy; 3,000 Air Force; 3,000 other, including staff, logistics, support, medical, cyber, intelligence, etc); approximately 22,000 Home Guard (2021)<br>

@@ -648,7 +648,7 @@ _annual freight traffic on registered air carriers_: 1,841,310,000 mt-km (2018)<
 HB<br>
 
 **Airports**<br>
-_total_: 63 (2013)<br>
+_total_: 63 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 40<br>
@@ -656,11 +656,11 @@ _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 12<br>
 _914 to 1,523 m_: 6<br>
-_under 914 m_: 17 (2013)<br>
+_under 914 m_: 17 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 23<br>
-_under 914 m_: 23 (2013)<br>
+_under 914 m_: 23 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -695,10 +695,10 @@ Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2021)<br
 
 **Military expenditures**<br>
 0.8% of GDP (2020)<br>
-0.7% of GDP (2019)<br>
-0.7% of GDP (2018)<br>
-0.7% of GDP (2017)<br>
-0.7% of GDP (2016)<br>
+0.7% of GDP (approximately $5.26 billion) (2019)<br>
+0.7% of GDP (approximately $4.72 billion) (2018)<br>
+0.7% of GDP (approximately $4.67 billion) (2017)<br>
+0.7% of GDP (approximately $4.68 billion) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Swiss Armed Forces maintain a full-time professional cadre of about 4,000 personnel along with approximately 18-20,000 conscripts brought in annually for 18-23 weeks of training; approximately 120,000 reserve forces (2021)<br>

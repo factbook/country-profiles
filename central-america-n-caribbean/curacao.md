@@ -290,7 +290,7 @@ Korsou di Nos Tur or KdnT [Amparo dos SANTOS]<br>Korsou Esun Miho or KEM [Michel
 none (represented by the Kingdom of the Netherlands)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Consul General Allen GREENBERG (since June 2019); note - also accredited to Aruba and Sint Maarten<br>
+_chief of mission_: Consul General Margy BOND (since January 2022); note - also accredited to Aruba and Sint Maarten<br>
 _embassy_: P.O. Box 158, J.B. Gorsiraweg 1<br>
 _mailing address_: 3160 Curacao Place, Washington DC&nbsp; 20521-3160<br>
 _telephone_: [599] (9) 461-3066<br>
@@ -519,11 +519,11 @@ _inventory of registered aircraft operated by air carriers_: 11<br>
 PJ<br>
 
 **Airports**<br>
-_total_: 1 (2020)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_over 3,047 m_: 1 (2019)<br>
+_over 3,047 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 550 km<br>

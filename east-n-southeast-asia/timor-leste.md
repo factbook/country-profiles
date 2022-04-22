@@ -207,6 +207,11 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Children under the age of 5 years underweight**<br>
 37.5% (2013)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 2.6% (2016)<br>
+_women married by age 18_: 14.9% (2016)<br>
+_men married by age 18_: 1.2% (2016 est.)<br>
+
 **Education expenditures**<br>
 6.8% of GDP (2018)<br>
 
@@ -328,7 +333,7 @@ _chief of state_: President Francisco GUTERRES (since 20 May 2017); note - the p
 _head of government_: Prime Minister Taur Matan RUAK (since 22 June 2018)<br>
 _cabinet_: the governing coalition in the Parliament proposes cabinet member candidates to the Prime Minister, who presents these recommendations to the President of the Republic for swearing in<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held in March 2022; following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
-_election results_: in the first round, former president Jos&eacute; RAMOS-HORTA received 46.6%, incumbent Francisco GUTERRES 22.2%, and Armanda Berta DOS SANTOS 8.7% (note - a runoff is scheduled for April 2022)<br>
+_election results_: in the first round of the March 2022 elections, former president Jos&eacute; RAMOS-HORTA received 46.6%, incumbent Francisco GUTERRES 22.2%, and Armanda Berta DOS SANTOS 8.7% (note - a runoff was scheduled for April 2022 because no candidate won the necessary 50-percent-plus-one needed to declare a winner)<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by proportional representation vote to serve 5-year terms)<br>
@@ -621,17 +626,17 @@ _inventory of registered aircraft operated by air carriers_: 2<br>
 4W<br>
 
 **Airports**<br>
-_total_: 6 (2013)<br>
+_total_: 6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 4<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
 8 (2013)<br>
@@ -655,10 +660,10 @@ Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-1.7% of GDP (2019 est.)<br>
-1.3% of GDP (2018 est.)<br>
-1.6% of GDP (2017 est.)<br>
-1.6% of GDP (2016 est.)<br>
+1.7% of GDP (approximately $45 million) (2019 est.)<br>
+1.3% of GDP (approximately $30 million) (2018 est.)<br>
+1.6% of GDP (approximately $35 million) (2017 est.)<br>
+1.6% of GDP (approximately $35 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 personnel (2021)<br>

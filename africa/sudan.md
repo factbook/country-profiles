@@ -652,7 +652,7 @@ _annual passenger traffic on registered air carriers_: 269,958 (2018)<br>
 ST<br>
 
 **Airports**<br>
-_total_: 67 (2020)<br>
+_total_: 67 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 17<br>
@@ -660,13 +660,13 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 11<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 1 (2020)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 50<br>
 _1,524 to 2,437 m_: 17<br>
 _914 to 1,523 m_: 24<br>
-_under 914 m_: 9 (2020)<br>
+_under 914 m_: 9 (2021)<br>
 
 **Heliports**<br>
 7 (2020)<br>
@@ -703,10 +703,10 @@ note - the RSF is a semi-autonomous paramilitary force formed in 2013 to fight a
 
 **Military expenditures**<br>
 1.1% of GDP (2020 est.)<br>
-2.4% of GDP (2019 est.)<br>
-2% of GDP (2018 est.)<br>
-3.6% of GDP (2017 est.)<br>
-2.9% of GDP (2016 est.)<br>
+2.4% of GDP (approximately $2.08 billion) (2019 est.)<br>
+2% of GDP (approximately $2.08 billion) (2018 est.)<br>
+3.6% of GDP (approximately $2.75 billion) (2017 est.)<br>
+2.9% of GDP (approximately $2.55 billion) (2016 est.)<br>
 note - many defense expenditures are probably off-budget<br>
 
 **Military and security service personnel strengths**<br>
@@ -736,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS), al-Qa&rsquo;ida, Harakat Sawa&rsquo;d
 <p>the effects of Sudan's ethnic and rebel militia fighting since the mid-20th century have penetrated all of the neighboring states; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; as of early 2019, more than 590,000 Sudanese refugees are being hosted in the Central African Republic, Chad, Egypt, Ethiopia, Kenya, and South Sudan; Sudan, in turn, is hosting more than 975,000 refugees and asylum seekers, including more than 845,000 from South Sudan; Sudan accuses South Sudan of supporting Sudanese rebel groups; Sudan claims but Egypt de facto administers security and economic development of the Halaib region north of the 22nd parallel boundary; periodic violent skirmishes with Sudanese residents over water and grazing rights persist among related pastoral populations along the border with the Central African Republic; South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 799,911 (South Sudan) (refugees and asylum seekers), 128,996 (Eritrea) (refugees and asylum seekers), 93,482 (Syria) (refugees and asylum seekers), 73,335 (Ethiopia) (refugees and asylum seekers), 28,023 (Central African Republic) (2022)<br>
+_refugees (country of origin)_: 799,545 (South Sudan) (refugees and asylum seekers), 128,996 (Eritrea) (refugees and asylum seekers), 93,482 (Syria) (refugees and asylum seekers), 73,335 (Ethiopia) (refugees and asylum seekers), 28,023 (Central African Republic) (2022)<br>
 _IDPs_: 2,276,000 (civil war 1983-2005; ongoing conflict in Darfur region; government and rebel fighting along South Sudan border; inter-tribal clashes) (2020)<br>
 
 **Trafficking in persons**<br>

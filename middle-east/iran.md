@@ -642,7 +642,7 @@ _annual freight traffic on registered air carriers_: 290.74 million mt-km (2018)
 EP<br>
 
 **Airports**<br>
-_total_: 319 (2013)<br>
+_total_: 319 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 140<br>
@@ -650,7 +650,7 @@ _over 3,047 m_: 42<br>
 _2,438 to 3,047 m_: 29<br>
 _1,524 to 2,437 m_: 26<br>
 _914 to 1,523 m_: 36<br>
-_under 914 m_: 7 (2019)<br>
+_under 914 m_: 7 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 179<br>
@@ -658,7 +658,7 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 9<br>
 _914 to 1,523 m_: 135<br>
-_under 914 m_: 32 (2013)<br>
+_under 914 m_: 32 (2021)<br>
 
 **Heliports**<br>
 26 (2013)<br>
@@ -695,10 +695,10 @@ note(s) - the Artesh Navy operates Iran&rsquo;s larger warships and operates in 
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>
-2.5% of GDP (2019 est.)<br>
-3.4% of GDP (2018 est.)<br>
-3.4% of GDP (2017 est.)<br>
-3.1% of GDP (2016 est.)<br>
+2.5% of GDP (approximately $22.8 billion) (2019 est.)<br>
+3.4% of GDP (approximately $29.1 billion) (2018 est.)<br>
+3.4% of GDP (approximately $31.2 billion) (2017 est.)<br>
+3.1% of GDP (approximately $29.2 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 550-600,000 total active personnel; approximately 400,000 Islamic Republic of Iran Regular Forces (350,000 Ground Forces; 18,000 Navy; 40,000 Air Force/Air Defense Forces); approximately 150-190,000 Islamic Revolutionary Guard Corps (100-150,000 Ground Forces; 20,000 Navy; 15,000 Aerospace Force; 5-15,000 Qods Force); est. 90,000 active Basij Paramilitary Forces (2021)<br>
@@ -712,7 +712,7 @@ note - in 2020, the UN lifted a 2010 embargo on exports of most types of major a
 note - as of 2019, approximately 80% of Artesh ground forces personnel were conscripts, while Navy and Air/Air Defense Force personnel were primarily volunteers; conscripts reportedly comprised more than 50 percent of the IRGC<br>
 
 **Military deployments**<br>
-est. 1,000 Syria (2021)<br>
+est. 1-3,000 Syria (2021)<br>
 note - Iran has recruited, trained, and funded thousands of Syrian and foreign fighters to support the ASAD regime during the Syrian civil war<br>
 
 **Military - note**<br>

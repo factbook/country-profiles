@@ -646,7 +646,7 @@ _annual freight traffic on registered air carriers_: 47.63 million mt-km (2018)<
 HP<br>
 
 **Airports**<br>
-_total_: 117 (2013)<br>
+_total_: 117 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 57<br>
@@ -654,13 +654,13 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 20<br>
-_under 914 m_: 30 (2017)<br>
+_under 914 m_: 30 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 60<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 8<br>
-_under 914 m_: 51 (2013)<br>
+_under 914 m_: 51 (2021)<br>
 
 **Heliports**<br>
 3 (2013)<br>
@@ -691,10 +691,10 @@ note - the PNP includes paramilitary special forces units for counterterrorism a
 
 **Military expenditures**<br>
 1.4% of GDP (2020 est.)<br>
-1.2% of GDP (2019)<br>
-1.1% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
-1.3% of GDP (2016)<br>
+1.2% of GDP (approximately $1.38 billion) (2019)<br>
+1.1% of GDP (approximately $1.33 billion) (2018)<br>
+1.2% of GDP (approximately $1.32 billion) (2017)<br>
+1.3% of GDP (approximately $1.28 billion) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 20,000 National Police; 4,000 National Border Service; 3,000 National Air-Naval Service (2021)<br>

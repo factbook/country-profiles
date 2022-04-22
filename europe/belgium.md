@@ -630,7 +630,7 @@ _annual freight traffic on registered air carriers_: 1,285,340,000 mt-km (2018)<
 OO<br>
 
 **Airports**<br>
-_total_: 41 (2013)<br>
+_total_: 41 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 26<br>
@@ -638,11 +638,11 @@ _over 3,047 m_: 6<br>
 _2,438 to 3,047 m_: 9<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 8 (2019)<br>
+_under 914 m_: 8 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 15<br>
-_under 914 m_: 15 (2013)<br>
+_under 914 m_: 15 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -679,10 +679,10 @@ Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, M
 
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
-1.1% of GDP (2020)<br>
-0.9% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
+1% of GDP (2020)<br>
+0.9% of GDP (approximately $5.54 billion) (2019)<br>
+0.9% of GDP (approximately $5.43 billion) (2018)<br>
+0.9% of GDP (approximately $5.2 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Belgian Armed Forces have approximately 26,000 active duty personnel (11,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2020)<br>

@@ -152,11 +152,11 @@ The islands have the potential for oil and gas development. Waters around the is
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2013)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2019)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Ports and terminals**<br>
 small Chinese port facilities on Woody Island and Duncan Island<br>

@@ -211,6 +211,11 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid feve
 **Children under the age of 5 years underweight**<br>
 10.5% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 1% (2018)<br>
+_women married by age 18_: 16.4% (2018)<br>
+_men married by age 18_: 1.9% (2018 est.)<br>
+
 **Education expenditures**<br>
 7.4% of GDP (2020)<br>
 
@@ -639,18 +644,18 @@ _subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 7P<br>
 
 **Airports**<br>
-_total_: 24 (2013)<br>
+_total_: 24 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>
 _over 3,047 m_: 1<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 1 (2019)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 21<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 16 (2013)<br>
+_under 914 m_: 16 (2021)<br>
 
 **Roadways**<br>
 _total_: 5,940 km (2011)<br>
@@ -665,10 +670,10 @@ note - the Lesotho Mounted Police Service is responsible for internal security a
 
 **Military expenditures**<br>
 1.6% of GDP (2020 est.)<br>
-1.8% of GDP (2019 est.)<br>
-2.1% of GDP (2018 est.)<br>
-2.2% of GDP (2017 est.)<br>
-1.9% of GDP (2016 est.)<br>
+1.8% of GDP (approximately $60 million) (2019 est.)<br>
+2.1% of GDP (approximately $65 million) (2018 est.)<br>
+2.2% of GDP (approximately $70 million) (2017 est.)<br>
+1.9% of GDP (approximately $65 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 personnel (2021)<br>

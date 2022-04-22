@@ -644,18 +644,18 @@ _annual freight traffic on registered air carriers_: 20,000 mt-km (2018)<br>
 5B<br>
 
 **Airports**<br>
-_total_: 15 (2013)<br>
+_total_: 15 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 13<br>
 _2,438 to 3,047 m_: 7<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
 9 (2013)<br>
@@ -684,11 +684,11 @@ area administered by Turkish Cypriots: Famagusta, Kyrenia<br>
 Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF, includes Army Land Forces, Naval Command, Air Command) (2021)<br>
 
 **Military expenditures**<br>
-1.95% of GDP (2021 est.)<br>
-1.75% of GDP (2020 est.)<br>
-1.6% of GDP (2019)<br>
-1.8% of GDP (2018)<br>
-1.6% of GDP (2017)<br>
+2% of GDP (2021 est.)<br>
+1.8% of GDP (2020 est.)<br>
+1.6% of GDP (approximately $610 million) (2019)<br>
+1.8% of GDP (approximately $650 million) (2018)<br>
+1.6% of GDP (approximately $540 million) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Cypriot National Guard has approximately 15,000 total active duty personnel (2021)<br>

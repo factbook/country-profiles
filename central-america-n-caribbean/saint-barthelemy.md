@@ -257,7 +257,6 @@ France 78%, Switzerland 7%, Italy 7% (2019)<br>
 furniture, wine, refined petroleum, jewelry, food preparation materials (2019)<br>
 
 **Exchange rates**<br>
-2013 est.)<br>
 0.885 (2017 est.)<br>
 0.903 (2016 est.)<br>
 0.9214 (2015 est.)<br>
@@ -288,11 +287,11 @@ _total_: 2,025 (2021 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2013)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_under 914 m_: 1 (2019)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 40 km<br>

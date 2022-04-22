@@ -384,7 +384,7 @@ _exports of goods and services_: 62.5% (2017 est.)<br>
 _imports of goods and services_: -60.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-coconuts, tropical fruit, roots/tubers nes, vegetables, sweet potatoes, pulses nes, watermelons, carrots/turnips, eggs, tomatoes<br>
+coconuts, tropical fruit, roots/tubers nes, vegetables, sweet potatoes, pulses, watermelons, carrots/turnips, eggs, tomatoes<br>
 
 **Industries**<br>
 tourism, cotton, salt, copra, clothing, footwear, beverages<br>
@@ -569,12 +569,12 @@ _subscriptions per 100 inhabitants_: 55.82 (2018 est.)<br>
 V4<br>
 
 **Airports**<br>
-_total_: 2 (2013)<br>
+_total_: 2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1 (2019)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 50 km (2008)<br>

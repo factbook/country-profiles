@@ -427,7 +427,7 @@ _exports of goods and services_: 100.4% (2017 est.)<br>
 _imports of goods and services_: -72.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-dates, cucumbers, tomatoes, goat meat, eggs, milk, poultry, carrots/turnips, goat milk, milk<br>
+dates, cucumbers, tomatoes, goat meat, eggs, milk, poultry, carrots/turnips, goat milk, sheep milk<br>
 
 **Industries**<br>
 petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial ship repair, construction materials, handicrafts, textiles<br>
@@ -634,7 +634,7 @@ _annual freight traffic on registered air carriers_: 15,962,900,000 mt-km (2018)
 A6<br>
 
 **Airports**<br>
-_total_: 43 (2013)<br>
+_total_: 43 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 25<br>
@@ -642,7 +642,7 @@ _over 3,047 m_: 12<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 18<br>
@@ -650,7 +650,7 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 6<br>
-_under 914 m_: 6 (2013)<br>
+_under 914 m_: 6 (2021)<br>
 
 **Heliports**<br>
 5 (2013)<br>
@@ -679,10 +679,10 @@ note - the Presidential Guard includes a Special Operations Command<br>
 
 **Military expenditures**<br>
 5.6% of GDP (2020 est.)<br>
-5.4% of GDP (2019 est.)<br>
-5.5% of GDP (2018 est.)<br>
-5.2% of GDP (2017 est.)<br>
-6% of GDP (2016 est.)<br>
+5.4% of GDP (approximately $29 billion) (2019 est.)<br>
+5.5% of GDP (approximately $28.7 billion) (2018 est.)<br>
+5.2% of GDP (approximately $26.9 billion) (2017 est.)<br>
+6% of GDP (approximately $30 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 65,000 total active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2021)<br>
@@ -695,7 +695,7 @@ the UAE Armed Forces inventory is comprised of wide variety of mostly modern imp
 note - compulsory service may be completed in the uniformed military, the Ministry of Interior, the State Security Service, or other institutions designated by the military leadership<br>
 
 **Military deployments**<br>
-estimates vary; reportedly a few hundred remain in Yemen; maintains military bases in Eritrea and Somalia (2021)<br>
+estimates vary; reportedly a few hundred remain in Yemen; maintains military bases in Eritrea and Somalia (2022)<br>
 
 **Military - note**<br>
 <p>as of 2021, the UAE was closely aligned with Saudi Arabia and Bahrain on regional security issues; it hosted a multi-service French military base, which included the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and, as of 2021, hosted about 3,500 US troops, mostly air and naval personnel</p> <p>in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary units<br><br>the UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976</p><br>

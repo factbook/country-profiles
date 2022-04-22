@@ -623,13 +623,13 @@ _annual freight traffic on registered air carriers_: 510.43 million mt-km (2018)
 A4O<br>
 
 **Airports**<br>
-_total_: 132 (2013)<br>
+_total_: 132 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 13<br>
 _over 3,047 m_: 7<br>
 _2,438 to 3,047 m_: 5<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 119<br>
@@ -637,7 +637,7 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 7<br>
 _1,524 to 2,437 m_: 51<br>
 _914 to 1,523 m_: 33<br>
-_under 914 m_: 26 (2013)<br>
+_under 914 m_: 26 (2021)<br>
 
 **Heliports**<br>
 3 (2013)<br>
@@ -666,10 +666,10 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 
 **Military expenditures**<br>
 11% of GDP (2020 est.)<br>
-11.8% of GDP (2019 est.)<br>
-11.2% of GDP (2018 est.)<br>
-12.3% of GDP (2017 est.)<br>
-13.9% of GDP (2016 est.)<br>
+11.8% of GDP (approximately $12.1 billion) (2019 est.)<br>
+11.2% of GDP (approximately $11.8 billion) (2018 est.)<br>
+12.3% of GDP (approximately $12.7 billion) (2017 est.)<br>
+13.9% of GDP (approximately $14.2 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 total active troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2021)<br>

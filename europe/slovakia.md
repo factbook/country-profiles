@@ -632,7 +632,7 @@ _inventory of registered aircraft operated by air carriers_: 45<br>
 OM<br>
 
 **Airports**<br>
-_total_: 35 (2013)<br>
+_total_: 35 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 19<br>
@@ -640,12 +640,12 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 9 (2019)<br>
+_under 914 m_: 9 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 15<br>
 _914 to 1,523 m_: 10<br>
-_under 914 m_: 5 (2019)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Heliports**<br>
 1 (2019)<br>
@@ -676,9 +676,9 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
 2% of GDP (2020)<br>
-1.7% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.1% of GDP (2017)<br>
+1.7% of GDP (approximately $2.34 billion) (2019)<br>
+1.2% of GDP (approximately $1.72 billion) (2018)<br>
+1.1% of GDP (approximately $1.51 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of the Slovak Republic have approximately 13,000 active duty personnel (6,000 Land Forces; 4,000 Air Forces; 3,000 other, including staff, special operations, and support forces) (2021)<br>
@@ -702,7 +702,7 @@ Slovakia officially became a member of NATO in 2004<br><br>in 2022, Slovakia agr
 <p>bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 323,020 (Ukraine) (as of 12 April 2022)<br>
+_refugees (country of origin)_: 339,680 (Ukraine) (as of 18 April 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

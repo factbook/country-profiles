@@ -633,19 +633,19 @@ _annual freight traffic on registered air carriers_: 540,000 mt-km (2018)<br>
 S5<br>
 
 **Airports**<br>
-_total_: 16 (2020)<br>
+_total_: 16 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 9<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 3 (2020)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 3 (2020)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Pipelines**<br>
 1155 km gas, 5 km oil (2017)<br>
@@ -674,11 +674,11 @@ _major seaport(s)_: Koper<br>
 Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force with air, land, maritime, special operations, combat support, and combat service support elements (2021)<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2021 est.)<br>
-1.1% of GDP (2020)<br>
-1.1% of GDP (2019)<br>
-1% of GDP (2018)<br>
-1% of GDP (2017)<br>
+1.2% of GDP (2021 est.)<br>
+1% of GDP (2020)<br>
+1.1% of GDP (approximately $800 million) (2019)<br>
+1% of GDP (approximately $750 million) (2018)<br>
+1% of GDP (approximately $690 million) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Slovenian Armed Forces have approximately 7,000 active duty troops (2021)<br>

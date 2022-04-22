@@ -629,19 +629,19 @@ _inventory of registered aircraft operated by air carriers_: 125<br>
 LN<br>
 
 **Airports**<br>
-_total_: 95 (2013)<br>
+_total_: 95 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 67<br>
 _2,438 to 3,047 m_: 14<br>
 _1,524 to 2,437 m_: 10<br>
 _914 to 1,523 m_: 22<br>
-_under 914 m_: 21 (2017)<br>
+_under 914 m_: 21 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 28<br>
 _914 to 1,523 m_: 6<br>
-_under 914 m_: 22 (2013)<br>
+_under 914 m_: 22 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -674,11 +674,11 @@ _LNG terminal(s) (import)_: Fredrikstad, Mosjoen<br>
 Norwegian Armed Forces:&nbsp; Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Norwegian Special Forces, Norwegian Cyber Defense Force, Home Guard (Heimevernet, HV) (2021)<br>
 
 **Military expenditures**<br>
-1.9% of GDP (2021 est.)<br>
+1.7% of GDP (2021 est.)<br>
 2% of GDP (2020)<br>
-1.9% of GDP (2019)<br>
-1.7% of GDP (2018)<br>
-1.7% of GDP (2017)<br>
+1.9% of GDP (approximately $8.66 billion) (2019)<br>
+1.7% of GDP (approximately $8.02 billion) (2018)<br>
+1.6% of GDP (approximately $7.11 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Norwegian Armed Forces have approximately 23,000 active personnel (8,500 Army; 3,500 Navy; 3,500 Air Force; 7,500 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); 40,000 Home Guard (2021)<br>

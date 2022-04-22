@@ -202,6 +202,11 @@ _unimproved: total_: total: 2.7% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 4.6% (2015/16)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 6.3% (2016)<br>
+_women married by age 18_: 33.5% (2016)<br>
+_men married by age 18_: 22.2% (2016 est.)<br>
+
 **Education expenditures**<br>
 7.9% of GDP (2020)<br>
 
@@ -616,19 +621,19 @@ _annual freight traffic on registered air carriers_: 3.78 million mt-km (2018)<b
 V3<br>
 
 **Airports**<br>
-_total_: 47 (2013)<br>
+_total_: 47 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 6<br>
 _2,438 to 3,047 m_: 1<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 3 (2017)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 41<br>
 _2,438 to 3,047 m_: 1<br>
 _914 to 1,523 m_: 11<br>
-_under 914 m_: 29 (2013)<br>
+_under 914 m_: 29 (2021)<br>
 
 **Roadways**<br>
 _total_: 3,281 km (2017)<br>
@@ -652,10 +657,10 @@ Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (independent from
 
 **Military expenditures**<br>
 1.5% of GDP (2020 est.)<br>
-1.4% of GDP (2019 est.)<br>
-1.4% of GDP (2018 est.)<br>
-1.4% of GDP (2017 est.)<br>
-1.3% of GDP (2016 est.)<br>
+1.4% of GDP (approximately $35 million) (2019 est.)<br>
+1.4% of GDP (approximately $35 million) (2018 est.)<br>
+1.4% of GDP (approximately $30 million) (2017 est.)<br>
+1.3% of GDP (approximately $30 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Belize Defense Force (BDF) has approximately 1,300 active personnel; approximately 300 Belize Coast Guard (2021)<br>

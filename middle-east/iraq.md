@@ -217,6 +217,10 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid feve
 **Children under the age of 5 years underweight**<br>
 3.9% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 7.2% (2018)<br>
+_women married by age 18_: 27.9% (2018 est.)<br>
+
 **Education expenditures**<br>
 NA<br>
 
@@ -655,7 +659,7 @@ _annual freight traffic on registered air carriers_: 16.2 million mt-km (2018)<b
 YI<br>
 
 **Airports**<br>
-_total_: 102 (2013)<br>
+_total_: 102 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 72<br>
@@ -663,7 +667,7 @@ _over 3,047 m_: 20<br>
 _2,438 to 3,047 m_: 34<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 7<br>
-_under 914 m_: 7 (2017)<br>
+_under 914 m_: 7 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 30<br>
@@ -671,7 +675,7 @@ _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 13<br>
-_under 914 m_: 6 (2013)<br>
+_under 914 m_: 6 (2021)<br>
 
 **Heliports**<br>
 16 (2013)<br>
@@ -704,10 +708,10 @@ Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Fo
 
 **Military expenditures**<br>
 4.1% of GDP (2020 est.)<br>
-3.8% of GDP (2019 est.)<br>
-4.5% of GDP (2018 est.)<br>
-6% of GDP (2017 est.)<br>
-5.6% of GDP (2016 est.)<br>
+3.8% of GDP (approximately $14.6 billion) (2019 est.)<br>
+4.5% of GDP (approximately $16 billion) (2018 est.)<br>
+6% of GDP (approximately $20.4 billion) (2017 est.)<br>
+5.6% of GDP (approximately $18.5 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces (10,000 Iraqi Counterterrorism Service; 10,000 Presidential Brigades; 5,000 Prime Minister&rsquo;s Special Forces Division); Ministry of Peshmerga: approximately 150,000-plus (35,000 Regional Guard Brigades; 50,000 Unit 70 Forces; 70,000 Unit 80 Forces); estimated 100-160,000 Popular Mobilization Forces (2021)<br>
@@ -734,7 +738,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps/Qods Force;
 <p>Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf; Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,272 (Turkey), 7,881 (West Bank and Gaza Strip) (mid-year 2021); 257,964 (Syria) (2022)<br>
+_refugees (country of origin)_: 15,272 (Turkey), 7,881 (West Bank and Gaza Strip) (mid-year 2021); 257,974 (Syria) (2022)<br>
 _IDPs_: 1,198,940 (displacement in central and northern Iraq since January 2014) (2021)<br>
 _stateless persons_: 47,253 (mid-year 2021); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2,006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 <strong>note:</strong> estimate revised to reflect the reduction of statelessness in line with Law 26 of 2006, which allows stateless persons to apply for nationality in certain circumstances; more accurate studies of statelessness in Iraq are pending (2015)<br>

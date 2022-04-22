@@ -508,11 +508,11 @@ _inventory of registered aircraft operated by air carriers_: 3<br>
 VP-M<br>
 
 **Airports**<br>
-_total_: 1 (2013)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_under 914 m_: 1 (2019)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Roadways**<br>
 <p><strong>note:</strong> volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island</p><br>

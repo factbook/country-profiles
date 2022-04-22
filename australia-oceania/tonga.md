@@ -203,6 +203,11 @@ _vectorborne diseases_: malaria<br>
 **Children under the age of 5 years underweight**<br>
 0.8% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0.4% (2019)<br>
+_women married by age 18_: 10.1% (2019)<br>
+_men married by age 18_: 2.8% (2019 est.)<br>
+
 **Education expenditures**<br>
 8% of GDP (2019)<br>
 
@@ -611,17 +616,17 @@ _inventory of registered aircraft operated by air carriers_: 1<br>
 A3<br>
 
 **Airports**<br>
-_total_: 6 (2013)<br>
+_total_: 6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_2,438 to 3,047 m_: 1 (2019)<br>
+_2,438 to 3,047 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 5<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 680 km (2011)<br>
@@ -639,6 +644,9 @@ _major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>
 
 **Military and security forces**<br>
 Tonga Defense Services (His Majesty's Armed Forces): Joint Force headquarters, Territorial Forces, Land Force, Tonga Navy, Training Wing, Air Wing, and Support Unit (2021)<br>
+
+**Military expenditures**<br>
+not available<br>
 
 **Military and security service personnel strengths**<br>
 the Tonga Defense Services have approximately 500 personnel (2021)<br>

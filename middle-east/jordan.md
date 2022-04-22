@@ -215,6 +215,11 @@ _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 3% (2012)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 1.5% (2018)<br>
+_women married by age 18_: 9.7% (2018)<br>
+_men married by age 18_: 0.1% (2018 est.)<br>
+
 **Education expenditures**<br>
 3% of GDP (2019)<br>
 
@@ -651,18 +656,18 @@ _annual freight traffic on registered air carriers_: 175.84 million mt-km (2018)
 JY<br>
 
 **Airports**<br>
-_total_: 18 (2013)<br>
+_total_: 18 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
 _over 3,047 m_: 8<br>
 _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
 1 (2012)<br>
@@ -691,11 +696,11 @@ _major seaport(s)_: Al 'Aqabah<br>
 Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Coast Guard; Ministry of Interior: Public Security Directorate (includes national police, the Gendarmerie, and the Civil Defense Directorate) (2021)<br>
 
 **Military expenditures**<br>
-4.7% of GDP (2020 est.)<br>
-4.7% of GDP (2019)<br>
-4.7% of GDP (2018)<br>
-4.8% of GDP (2017)<br>
-4.6% of GDP (2016)<br>
+5% of GDP (2020 est.)<br>
+5.6% of GDP (approximately $5.18 billion) (2019 est.)<br>
+5.6% of GDP (approximately $5.14 billion) (2018 est.)<br>
+5.7% of GDP (approximately $5.18 billion) (2017 est.)<br>
+5.5% of GDP (approximately $4.91 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 90,000 active JAF personnel (77,000 Army; 500 Navy; 12,500 Air Force); approximately 15,000 Gendarmerie Forces (2021)<br>

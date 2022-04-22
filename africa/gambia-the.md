@@ -223,6 +223,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Children under the age of 5 years underweight**<br>
 11.6% (2019/20)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 7.5% (2018)<br>
+_women married by age 18_: 25.7% (2018)<br>
+_men married by age 18_: 0.2% (2020 est.)<br>
+
 **Education expenditures**<br>
 2.9% of GDP (2019)<br>
 
@@ -644,11 +649,11 @@ _annual passenger traffic on registered air carriers_: 53,735 (2018)<br>
 C5<br>
 
 **Airports**<br>
-_total_: 1 (2020)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_over 3,047 m_: 1 (2019)<br>
+_over 3,047 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 2,977 km (2011)<br>
@@ -672,10 +677,10 @@ Gambia Armed Forces: the Gambian National Army (GNA; includes a small air wing),
 
 **Military expenditures**<br>
 0.8% of GDP (2020 est.)<br>
-0.8% of GDP (2019 est.)<br>
-0.7% of GDP (2018 est.)<br>
-0.7% of GDP (2017 est.)<br>
-0.8% of GDP (2016 est.)<br>
+0.8% of GDP (approximately $25 million) (2019 est.)<br>
+0.7% of GDP (approximately $20 million) (2018 est.)<br>
+0.7% of GDP (approximately $20 million) (2017 est.)<br>
+0.8% of GDP (approximately $20 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 2,000 total active troops (2021)<br>

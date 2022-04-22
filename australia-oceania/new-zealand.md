@@ -635,7 +635,7 @@ _annual freight traffic on registered air carriers_: 1,349,300,000 mt-km (2018)<
 ZK<br>
 
 **Airports**<br>
-_total_: 123 (2013)<br>
+_total_: 123 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 39<br>
@@ -643,13 +643,13 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 12<br>
 _914 to 1,523 m_: 23<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 84<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 33<br>
-_under 914 m_: 48 (2013)<br>
+_under 914 m_: 48 (2021)<br>
 
 **Pipelines**<br>
 331 km condensate, 2500 km gas, 172 km liquid petroleum gas, 288 km oil, 198 km refined products (2018)<br>
@@ -678,9 +678,9 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
 1.5% of GDP (2020)<br>
-1.4% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.1% of GDP (2017)<br>
+1.4% of GDP (approximately $3.1 billion) (2019)<br>
+1.2% of GDP (approximately $2.62 billion) (2018)<br>
+1.1% of GDP (approximately $2.43 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the New Zealand Defense Force (NZDF) has about 9,600 active duty troops (4,700 Army; 2,300 Navy; 2,600 Air Force) (2021)<br>

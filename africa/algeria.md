@@ -209,6 +209,10 @@ _unimproved: total_: total: 3.5% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 2.7% (2018/19)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0% (2019)<br>
+_women married by age 18_: 3.8% (2019 est.)<br>
+
 **Education expenditures**<br>
 6.1% of GDP (2019)<br>
 
@@ -635,7 +639,7 @@ _annual freight traffic on registered air carriers_: 28.28 million mt-km (2018)<
 7T<br>
 
 **Airports**<br>
-_total_: 149 (2020)<br>
+_total_: 149 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 67<br>
@@ -643,14 +647,14 @@ _over 3,047 m_: 14<br>
 _2,438 to 3,047 m_: 27<br>
 _1,524 to 2,437 m_: 18<br>
 _914 to 1,523 m_: 6<br>
-_under 914 m_: 2 (2020)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 82<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 16<br>
 _914 to 1,523 m_: 36<br>
-_under 914 m_: 28 (2020)<br>
+_under 914 m_: 28 (2021)<br>
 
 **Heliports**<br>
 3 (2013)<br>
@@ -683,10 +687,10 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes coast
 
 **Military expenditures**<br>
 7% of GDP (2020 est.)<br>
-6% of GDP (2019)<br>
-5.5% of GDP (2018)<br>
-5.9% of GDP (2017)<br>
-6.4% of GDP (2016)<br>
+6% of GDP (approximately $19.2 billion) (2019)<br>
+5.5% of GDP (approximately $17.9 billion) (2018)<br>
+5.9% of GDP (approximately $18.8 billion) (2017)<br>
+6.4% of GDP (approximately $19.7 billion) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 140,000 ANP personnel (120,000 Army; 6,000 Navy; 14,000 Air Force); approximately 130,000 National Gendarmerie; approximately 200,000 General Directorate of National Security (2021)<br>
@@ -699,7 +703,7 @@ the ANP's inventory includes mostly Russian-sourced equipment; since 2010, Alger
 note - in 2020, conscripts comprised an estimated 70% of the military<br>
 
 **Military - note**<br>
-<p>the ANP has played a large role in the country’s politics since independence in 1962, including coups in 1965 and 1991; it was a key backer of BOUTEFLIKA’s election in 1999 and remained a center of power during his 20-year rule; the military was instrumental in BOUTEFLIKA’s resignation in 2019 when it withdrew support and called for him to be removed from office</p> <p>in 2021, Algeria had the largest defense budget (approximately $9 billion) and one of the best-equipped militaries in Africa</p> <p>the ANP traditionally has focused on internal stability and on Morocco where relations as of 2021 remained tense over Western Sahara and Algerian accusations that Morocco supports the Movement for the Autonomy of Kabylie (MAK), a separatist group in Algeria’s Kabylie region; however, following the Arab Spring events of 2011 and a series of cross-border terrorist attacks emanating from Mali in 2012-2013, particularly the 2013 attack on a commercial gas plant by al-Qa’ida-linked terrorists that resulted in the deaths of 35 hostages and 29 jihadists, it has made a concerted effort to beef up security along its other borders and promote regional security cooperation; since 2013, additional Army and paramilitary forces were deployed to the borders with Tunisia, Libya, Niger, and Mali to interdict and deter cross-border attacks by Islamic militant groups; in addition, Algeria has provided security assistance to some neighboring countries, particularly Tunisia, and conducted joint military/counter-terrorism operations</p><br>
+<p>the ANP has played a large role in the country’s politics since independence in 1962, including coups in 1965 and 1991; it was a key backer of BOUTEFLIKA’s election in 1999 and remained a center of power during his 20-year rule; the military was instrumental in BOUTEFLIKA’s resignation in 2019 when it withdrew support and called for him to be removed from office</p> <p>the ANP traditionally has focused on internal stability and on Morocco where relations as of 2022 remained tense over Western Sahara and Algerian accusations that Morocco supports the Movement for the Autonomy of Kabylie (MAK), a separatist group in Algeria’s Kabylie region; however, following the Arab Spring events of 2011 and a series of cross-border terrorist attacks emanating from Mali in 2012-2013, particularly the 2013 attack on a commercial gas plant by al-Qa’ida-linked terrorists that resulted in the deaths of 35 hostages and 29 jihadists, it has made a concerted effort to beef up security along its other borders and promote regional security cooperation; since 2013, additional Army and paramilitary forces were deployed to the borders with Tunisia, Libya, Niger, and Mali to interdict and deter cross-border attacks by Islamic militant groups; in addition, Algeria has provided security assistance to some neighboring countries, particularly Tunisia, and conducted joint military/counter-terrorism operations</p><br>
 
 ## Terrorism
 

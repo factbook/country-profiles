@@ -221,6 +221,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Children under the age of 5 years underweight**<br>
 14.4% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 8.8% (2019)<br>
+_women married by age 18_: 30.5% (2019)<br>
+_men married by age 18_: 0.7% (2019 est.)<br>
+
 **Education expenditures**<br>
 5.3% of GDP (2019)<br>
 
@@ -662,19 +667,19 @@ _annual freight traffic on registered air carriers_: 40,000 mt-km (2018)<br>
 6V<br>
 
 **Airports**<br>
-_total_: 20 (2013)<br>
+_total_: 20 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 9<br>
 _over 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 6<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 11<br>
 _1,524 to 2,437 m_: 7<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Pipelines**<br>
 43 km gas, 8 km refined products (2017)<br>
@@ -706,10 +711,10 @@ note - the National Police operates in major cities, while the Gendarmerie prima
 
 **Military expenditures**<br>
 1.5% of GDP (2020)<br>
-1.5% of GDP (2019 est.)<br>
-1.6% of GDP (2018)<br>
-1.5% of GDP (2017)<br>
-1.4% of GDP (2016)<br>
+1.5% of GDP (approximately $490 million) (2019 est.)<br>
+1.6% of GDP (approximately $490 million) (2018)<br>
+1.5% of GDP (approximately $430 million) (2017)<br>
+1.4% of GDP (approximately $400 million) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2021)<br>

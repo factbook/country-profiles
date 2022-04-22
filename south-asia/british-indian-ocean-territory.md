@@ -193,11 +193,11 @@ Diego Garcia hosts one of four dedicated ground antennas that assist in the oper
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2020)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_over 3,047 m_: 1 (2019)<br>
+_over 3,047 m_: 1 (2021)<br>
 
 **Roadways**<br>
 <p><strong>note:</strong> short section of paved road between port and airfield on Diego Garcia</p><br>

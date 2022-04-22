@@ -618,14 +618,14 @@ _annual freight traffic on registered air carriers_: 1,728,152 mt-km (2015)<br>
 D4<br>
 
 **Airports**<br>
-_total_: 9 (2013)<br>
+_total_: 9 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 9<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 2 (2017)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Roadways**<br>
 _total_: 1,350 km (2013)<br>
@@ -646,10 +646,10 @@ Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; incl
 
 **Military expenditures**<br>
 0.6% of GDP (2020 est.)<br>
-0.5% of GDP (2019)<br>
-0.6% of GDP (2018)<br>
-0.5% of GDP (2017)<br>
-0.6% of GDP (2016)<br>
+0.5% of GDP (approximately $20 million) (2019 est.)<br>
+0.5% of GDP (approximately $20 million) (2018 est.)<br>
+0.5% of GDP (approximately $20 million) (2017 est.)<br>
+0.6% of GDP (approximately $20 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,200 personnel including about 100 in the Coast Guard (2021)<br>

@@ -216,6 +216,10 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 22.6% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 15.5% (2019)<br>
+_women married by age 18_: 51.4% (2019 est.)<br>
+
 **Education expenditures**<br>
 1.3% of GDP (2019)<br>
 
@@ -663,7 +667,7 @@ _annual freight traffic on registered air carriers_: 63.82 million mt-km (2018)<
 S2<br>
 
 **Airports**<br>
-_total_: 18 (2013)<br>
+_total_: 18 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
@@ -671,12 +675,12 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 5 (2017)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
 3 (2013)<br>
@@ -715,9 +719,9 @@ note(s) - the RAB, Ansars, and VDP are paramilitary organizations for internal s
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
-1.4% of GDP (2019)<br>
-1.4% of GDP (2018)<br>
-1.3% of GDP (2017)<br>
+1.4% of GDP (approximately $5.12 billion) (2019)<br>
+1.4% of GDP (approximately $4.57 billion) (2018)<br>
+1.3% of GDP (approximately $4.21 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 165,000 total active personnel (135,000 Army; 15,000 Navy; 15,000 Air Force) (2021)<br>
@@ -749,7 +753,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p><em>Bangladesh-Burma:</em> Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border.<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 918,841 (Burma) (2021) (includes an estimated 756,554 Rohingya refugees who have fled conflict since 25 August 2017)<br>
+_refugees (country of origin)_: 923,179 (Burma) (2022) (includes an estimated 769,623 Rohingya refugees who have fled conflict since 25 August 2017)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2020)<br>
 _stateless persons_: 889,704 (mid-year 2021)<br>
 

@@ -609,19 +609,19 @@ _annual passenger traffic on registered air carriers_: 102,729 (2018)<br>
 E3<br>
 
 **Airports**<br>
-_total_: 13 (2020)<br>
+_total_: 13 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
 _over 3,047 m_: 2<br>
-_2,438 to 3,047 m_: 2 (2019)<br>
+_2,438 to 3,047 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 9<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 5<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_914 to 1,523 m_: 2 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -648,11 +648,11 @@ _major seaport(s)_: Assab, Massawa<br>
 Eritrean Defense Forces: Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force) (2021)<br>
 
 **Military expenditures**<br>
-10% of GDP (2019 est.)<br>
-10.2% of GDP (2018 est.)<br>
-10.3% of GDP (2017 est.)<br>
-10.4% of GDP (2016 est.)<br>
-10.6% of GDP (2015 est.)<br>
+10% of GDP (approximately $640 million) (2019 est.)<br>
+10.2% of GDP (approximately $630 million) (2018 est.)<br>
+10.3% of GDP (approximately $630 million) (2017 est.)<br>
+10.4% of GDP (approximately $640 million) (2016 est.)<br>
+10.6% of GDP (approximately $600 million) (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited available information; estimated 150,000-200,000 personnel, including about 2,000 in the naval and air forces (2021)<br>

@@ -207,6 +207,11 @@ _vectorborne diseases_: dengue fever<br>
 **Children under the age of 5 years underweight**<br>
 2.4% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 4.8% (2019)<br>
+_women married by age 18_: 29.4% (2019)<br>
+_men married by age 18_: 5.9% (2019 est.)<br>
+
 **Education expenditures**<br>
 NA<br>
 
@@ -626,7 +631,7 @@ _annual freight traffic on registered air carriers_: 17.76 million mt-km (2018)<
 CU<br>
 
 **Airports**<br>
-_total_: 133 (2017)<br>
+_total_: 133 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 64<br>
@@ -634,12 +639,12 @@ _over 3,047 m_: 7<br>
 _2,438 to 3,047 m_: 10<br>
 _1,524 to 2,437 m_: 16<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 27 (2017)<br>
+_under 914 m_: 27 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 69<br>
 _914 to 1,523 m_: 11<br>
-_under 914 m_: 58 (2013)<br>
+_under 914 m_: 58 (2021)<br>
 
 **Pipelines**<br>
 41 km gas, 230 km oil (2013)<br>
@@ -672,10 +677,10 @@ Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary
 
 **Military expenditures**<br>
 4.2% of GDP (2020 est.)<br>
-3.7% of GDP (2019 est.)<br>
-2.9% of GDP (2018 est.)<br>
-2.9% of GDP (2017 est.)<br>
-3.1% of GDP (2016 est.)<br>
+3.2% of GDP (approximately $5.9 billion) (2019 est.)<br>
+2.9% of GDP (approximately $5.6 billion) (2018 est.)<br>
+2.9% of GDP (approximately $5.5 billion) (2017 est.)<br>
+3.1% of GDP (approximately $5.5 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited available information; estimated 50,000 active personnel (approximately 40,000 Army; 3,000 Navy; 8,000 Air Force) (2021)<br>

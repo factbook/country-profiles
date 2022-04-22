@@ -637,7 +637,7 @@ _inventory of registered aircraft operated by air carriers_: 8<br>
 TR<br>
 
 **Airports**<br>
-_total_: 44 (2013)<br>
+_total_: 44 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 14<br>
@@ -645,13 +645,13 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 9<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 1 (2019)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 30<br>
 _1,524 to 2,437 m_: 7<br>
 _914 to 1,523 m_: 9 (2013)<br>
-_under 914 m_: 14 (2013)<br>
+_under 914 m_: 14 (2021)<br>
 
 **Pipelines**<br>
 807 km gas, 1639 km oil, 3 km water (2013)<br>
@@ -683,10 +683,10 @@ Gabonese Defense Forces (Forces de Defense Gabonaise): Land Forces (Army), Navy,
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.)<br>
-1.6% of GDP (2018 est.)<br>
-1.8% of GDP (2017 est.)<br>
-1.5% of GDP (2016 est.)<br>
+1.6% of GDP (approximately $450 million) (2019 est.)<br>
+1.6% of GDP (approximately $440 million) (2018 est.)<br>
+1.8% of GDP (approximately $480 million) (2017 est.)<br>
+1.5% of GDP (approximately $400 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2021)<br>

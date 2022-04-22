@@ -208,6 +208,9 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
+**Child marriage**<br>
+_women married by age 18_: 0% (2017 est.)<br>
+
 **Education expenditures**<br>
 6.3% of GDP (2018)<br>
 
@@ -633,7 +636,7 @@ _annual freight traffic on registered air carriers_: 957.64 million mt-km (2018)
 OH<br>
 
 **Airports**<br>
-_total_: 148 (2013)<br>
+_total_: 148 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 74<br>
@@ -641,12 +644,12 @@ _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 26<br>
 _1,524 to 2,437 m_: 10<br>
 _914 to 1,523 m_: 21<br>
-_under 914 m_: 14 (2017)<br>
+_under 914 m_: 14 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 74<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 71 (2013)<br>
+_under 914 m_: 71 (2021)<br>
 
 **Pipelines**<br>
 1288 km gas transmission pipes, 1976 km distribution pipes (2016)<br>
@@ -680,9 +683,9 @@ note - the Border Guard becomes part of the FDF in wartime<br>
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
 1.5% of GDP (2020)<br>
-1.4% of GDP (2019)<br>
-1.4% of GDP (2018)<br>
-1.3% of GDP (2017)<br>
+1.4% of GDP (approximately $4.18 billion) (2019)<br>
+1.4% of GDP (approximately $4.02 billion) (2018)<br>
+1.3% of GDP (approximately $3.8 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 22,000 total active duty personnel (15,000 Army; 4,000 Navy; 3,000 Air Force) (2021)<br>

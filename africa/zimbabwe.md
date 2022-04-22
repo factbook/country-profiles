@@ -220,6 +220,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 9.7% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 5.4% (2019)<br>
+_women married by age 18_: 33.7% (2019)<br>
+_men married by age 18_: 1.9% (2019 est.)<br>
+
 **Education expenditures**<br>
 3.6% of GDP (2018)<br>
 
@@ -657,20 +662,20 @@ _annual freight traffic on registered air carriers_: 670,000 mt-km (2018)<br>
 Z<br>
 
 **Airports**<br>
-_total_: 196 (2013)<br>
+_total_: 196 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 17<br>
 _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 5<br>
-_914 to 1,523 m_: 7 (2013)<br>
+_914 to 1,523 m_: 7 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 179<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 104<br>
-_under 914 m_: 72 (2013)<br>
+_under 914 m_: 72 (2021)<br>
 
 **Pipelines**<br>
 270 km refined products (2013)<br>
@@ -696,11 +701,11 @@ _river port(s)_: Binga, Kariba (Zambezi)<br>
 Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ) (2021)<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2019 est.)<br>
-1.4% of GDP (2018 est.)<br>
-1.3% of GDP (2017 est.)<br>
-1.5% of GDP (2016 est.)<br>
-1.7% of GDP (2015 est.)<br>
+2.6% of GDP (approximately $650 million) (2019 est.)<br>
+1.7% of GDP (approximately $510 million) (2018 est.)<br>
+1.5% of GDP (approximately $450 million) (2017 est.)<br>
+1.8% of GDP (approximately $480 million) (2016 est.)<br>
+1.9% of GDP (approximately $490 million) (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 30,000 active duty troops, including about 4,000 serving in the Air Force (2021)<br>

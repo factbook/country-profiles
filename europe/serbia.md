@@ -218,6 +218,10 @@ _food or waterborne diseases_: bacterial diarrhea<br>
 **Children under the age of 5 years underweight**<br>
 1% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 1.2% (2019)<br>
+_women married by age 18_: 5.5% (2019 est.)<br>
+
 **Education expenditures**<br>
 3.6% of GDP (2019)<br>
 
@@ -653,20 +657,20 @@ _annual freight traffic on registered air carriers_: 17.71 million mt-km (2018)<
 YU<br>
 
 **Airports**<br>
-_total_: 26 (2013)<br>
+_total_: 26 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 10<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 3<br>
-_914 to 1,523 m_: 2 (2017)<br>
+_914 to 1,523 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 16<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 10<br>
-_under 914 m_: 5 (2013)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Heliports**<br>
 2 (2012)<br>
@@ -698,9 +702,9 @@ note: the Guard is a brigade-sized unit that is directly subordinate to the Serb
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-2.2% of GDP (2019)<br>
-1.6% of GDP (2018)<br>
-1.8% of GDP (2017)<br>
+2.2% of GDP (approximately $1.83 billion) (2019)<br>
+1.6% of GDP (approximately $1.43 billion) (2018)<br>
+1.8% of GDP (approximately $1.47 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other) (2021)<br>
@@ -727,7 +731,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 _refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 823,549 estimated refugee and migrant arrivals (January 2015-March 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
+<strong>note:</strong> 824,669 estimated refugee and migrant arrivals (January 2015-April 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

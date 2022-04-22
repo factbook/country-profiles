@@ -215,6 +215,10 @@ _water contact diseases_: leptospirosis<br>
 **Children under the age of 5 years underweight**<br>
 19.1% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 2.2% (2017)<br>
+_women married by age 18_: 16.5% (2017 est.)<br>
+
 **Education expenditures**<br>
 3.2% of GDP (2019)<br>
 
@@ -655,7 +659,7 @@ _annual freight traffic on registered air carriers_: 835.9 million mt-km (2018)<
 RP<br>
 
 **Airports**<br>
-_total_: 247 (2013)<br>
+_total_: 247 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 89<br>
@@ -663,13 +667,13 @@ _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 8<br>
 _1,524 to 2,437 m_: 33<br>
 _914 to 1,523 m_: 34<br>
-_under 914 m_: 10 (2019)<br>
+_under 914 m_: 10 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 158<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 56<br>
-_under 914 m_: 99 (2013)<br>
+_under 914 m_: 99 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -707,9 +711,9 @@ note(s) - the Philippine Coast Guard is an armed and uniformed service under the
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
 1% of GDP (2020)<br>
-1.1% of GDP (2019)<br>
-1% of GDP (2018)<br>
-1.3% of GDP (2017)<br>
+1.1% of GDP (approximately $6.19 billion) (2019)<br>
+1% of GDP (approximately $5.31 billion) (2018)<br>
+1.3% of GDP (approximately $6.21 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of the Philippines (AFP) have approximately 120,000 active duty personnel (80,000 Army; 25,000 Navy, including about 9,000 marines; 15,000 Air Force) (2021)<br>

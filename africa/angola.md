@@ -218,6 +218,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 19% (2015/16)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 7.9% (2016)<br>
+_women married by age 18_: 30.3% (2016)<br>
+_men married by age 18_: 6% (2016 est.)<br>
+
 **Education expenditures**<br>
 1.8% of GDP (2019)<br>
 
@@ -658,14 +663,14 @@ _annual freight traffic on registered air carriers_: 78.16 million mt-km (2018)<
 D2<br>
 
 **Airports**<br>
-_total_: 102 (2020)<br>
+_total_: 102 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 32<br>
 _over 3,047 m_: 8<br>
 _2,438 to 3,047 m_: 8<br>
 _1,524 to 2,437 m_: 10<br>
-_914 to 1,523 m_: 6 (2020)<br>
+_914 to 1,523 m_: 6 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 70<br>
@@ -673,7 +678,7 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 17<br>
 _914 to 1,523 m_: 27<br>
-_under 914 m_: 22 (2020)<br>
+_under 914 m_: 22 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -709,10 +714,10 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
-1.8% of GDP (2019 est.)<br>
-2.1% of GDP (2018 est.)<br>
-2.6% of GDP (2017 est.)<br>
-2.9% of GDP (2016 est.)<br>
+1.8% of GDP (approximately $2.7 billion) (2019 est.)<br>
+2.1% of GDP (approximately $3.02 billion) (2018 est.)<br>
+2.6% of GDP (approximately $3.65 billion) (2017 est.)<br>
+2.9% of GDP (approximately $3.9 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 101,000 active troops (95,000 Army; 1,000 Navy; 5,000 Air Force); est. 10,000 Rapid Reaction Police (2021)<br>

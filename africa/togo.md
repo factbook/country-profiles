@@ -217,6 +217,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Children under the age of 5 years underweight**<br>
 15.2% (2017)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 6.4% (2017)<br>
+_women married by age 18_: 24.8% (2017)<br>
+_men married by age 18_: 2.6% (2017 est.)<br>
+
 **Education expenditures**<br>
 5% of GDP (2019)<br>
 
@@ -650,16 +655,16 @@ _annual freight traffic on registered air carriers_: 10.89 million mt-km (2018)<
 5V<br>
 
 **Airports**<br>
-_total_: 8 (2013)<br>
+_total_: 8 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
-_2,438 to 3,047 m_: 2 (2019)<br>
+_2,438 to 3,047 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 6<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Pipelines**<br>
 62 km gas<br>
@@ -692,10 +697,10 @@ note - the Gendarmerie falls under the Ministry of Defense but also reports to t
 
 **Military expenditures**<br>
 2% of GDP (2020 est.)<br>
-2.6% of GDP (2019 est.)<br>
-2% of GDP (2018 est.)<br>
-1.9% of GDP (2017 est.)<br>
-1.8% of GDP (2016 est.)<br>
+2.6% of GDP (approximately $190 million) (2019 est.)<br>
+1.9% of GDP (approximately $140 million) (2018 est.)<br>
+1.9% of GDP (approximately $130 million) (2017 est.)<br>
+1.8% of GDP (approximately $120 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,000 personnel, including about 8,000 Army (2021)<br>

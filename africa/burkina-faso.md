@@ -660,18 +660,18 @@ _annual freight traffic on registered air carriers_: 100,000 mt-km (2018)<br>
 XT<br>
 
 **Airports**<br>
-_total_: 23 (2013)<br>
+_total_: 23 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 1 (2019)<br>
+_2,438 to 3,047 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 21<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 13<br>
-_under 914 m_: 5 (2013)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Railways**<br>
 _total_: 622 km (2014)<br>
@@ -691,10 +691,10 @@ note - the National Gendarmerie officially reports to the Ministry of Defense, b
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
-2.2% of GDP (2019 est.)<br>
-2% of GDP (2018 est.)<br>
-1.4% of GDP (2017 est.)<br>
-1.2% of GDP (2016 est.)<br>
+2.2% of GDP (approximately $450 million) (2019 est.)<br>
+1.9% of GDP (approximately $370 million) (2018 est.)<br>
+1.4% of GDP (approximately $260 million) (2017 est.)<br>
+1.2% of GDP (approximately $200 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 personnel (7,000 Army; 500 Air Force; 4,500 National Gendarmerie) (2021)<br>
@@ -724,6 +724,6 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara; al-Mula
 <p>adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualau/Kourou</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,740 (Mali) (2022)<br>
-_IDPs_: <p>1,741,655 (2022)</p><br>
+_refugees (country of origin)_: 24,756 (Mali) (2022)<br>
+_IDPs_: <p>1,814,283 (2022)</p><br>
 

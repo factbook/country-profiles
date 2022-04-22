@@ -217,6 +217,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Children under the age of 5 years underweight**<br>
 16.8% (2017/18)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 9.4% (2018)<br>
+_women married by age 18_: 30.6% (2018)<br>
+_men married by age 18_: 4.8% (2018 est.)<br>
+
 **Education expenditures**<br>
 3% of GDP (2019)<br>
 
@@ -648,17 +653,17 @@ _annual freight traffic on registered air carriers_: 805,347 mt-km (2015)<br>
 TY<br>
 
 **Airports**<br>
-_total_: 6 (2013)<br>
+_total_: 6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 5<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_914 to 1,523 m_: 2 (2021)<br>
 
 **Pipelines**<br>
 134 km gas<br>
@@ -690,10 +695,10 @@ Benin Armed Forces (Forces Armees Beninoises, FAB): Army, Navy, Air Force; Minis
 
 **Military expenditures**<br>
 0.5% of GDP (2020 est.)<br>
-0.7% of GDP (2019 est.)<br>
-0.9% of GDP (2018 est.)<br>
-0.9% of GDP (2017 est.)<br>
-0.7% of GDP (2016 est.)<br>
+0.5% of GDP (approximately $130 million) (2019 est.)<br>
+0.7% of GDP (approximately $140 million) (2018 est.)<br>
+0.9% of GDP (approximately $160 million) (2017 est.)<br>
+0.7% of GDP (approximately $130 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Benin Armed Forces (FAB) are comprised of approximately 7,000 active duty troops; est. 5,000 Republican Police (2021)<br>

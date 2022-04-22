@@ -542,11 +542,11 @@ _subscriptions per 100 inhabitants_: 3.96 (2019 est.)<br>
 T2<br>
 
 **Airports**<br>
-_total_: 1 (2013)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 8 km (2011)<br>

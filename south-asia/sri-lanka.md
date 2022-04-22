@@ -209,6 +209,10 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 20.5% (2016)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0.9% (2016)<br>
+_women married by age 18_: 9.8% (2016 est.)<br>
+
 **Education expenditures**<br>
 2.1% of GDP (2018)<br>
 
@@ -641,19 +645,19 @@ _annual freight traffic on registered air carriers_: 436.2 million mt-km (2018)<
 4R<br>
 
 **Airports**<br>
-_total_: 18 (2020)<br>
+_total_: 18 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 11<br>
 _over 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 5<br>
-_914 to 1,523 m_: 4 (2020)<br>
+_914 to 1,523 m_: 4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 2 (2020)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
 1 (2020)<br>
@@ -688,10 +692,10 @@ Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy
 
 **Military expenditures**<br>
 2% of GDP (2020 est.)<br>
-2% of GDP (2019)<br>
-1.9% of GDP (2018)<br>
-2.2% of GDP (2017)<br>
-2.2% of GDP (2016)<br>
+2% of GDP (approximately $5.9 billion) (2019 est.)<br>
+1.9% of GDP (approximately $5.6 billion) (2018 est.)<br>
+2.2% of GDP (approximately $6.07 billion) (2017 est.)<br>
+2.2% of GDP (approximately $6.17 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Sri Lankan military has approximately 250,000 total personnel (180,000 Army; 40,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force (2021)<br>

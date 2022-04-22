@@ -381,7 +381,7 @@ _exports of goods and services_: 37.1% (2017 est.)<br>
 _imports of goods and services_: -51.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-bananas, sugar cane, roots/tubers nes, plantains, vegetables, fruit, coconuts, sweet potatoes, yams, mangoes/guavas<br>
+bananas, sugar cane, roots/tubers, plantains, vegetables, fruit, coconuts, sweet potatoes, yams, mangoes/guavas<br>
 
 **Industries**<br>
 tourism; food processing, cement, furniture, clothing, starch<br>
@@ -575,17 +575,17 @@ _inventory of registered aircraft operated by air carriers_: 11<br>
 J8<br>
 
 **Airports**<br>
-_total_: 6 (2013)<br>
+_total_: 6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Merchant marine**<br>
 _total_: 792<br>

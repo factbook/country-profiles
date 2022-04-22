@@ -651,20 +651,20 @@ _annual freight traffic on registered air carriers_: 481.37 million mt-km (2018)
 VN<br>
 
 **Airports**<br>
-_total_: 45 (2013)<br>
+_total_: 45 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 38<br>
 _over 3,047 m_: 10<br>
 _2,438 to 3,047 m_: 6<br>
 _1,524 to 2,437 m_: 13<br>
-_914 to 1,523 m_: 9 (2013)<br>
+_914 to 1,523 m_: 9 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 3 (2013)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -703,9 +703,9 @@ note(s) - the Public Security Ministry is responsible for internal security and 
 **Military expenditures**<br>
 2.4% of GDP (2021 est.)<br>
 2.4% of GDP (2020 est.)<br>
-2.3% of GDP (2019 est.)<br>
-2.3% of GDP (2018 est.)<br>
-2.3% of GDP (2017 est.)<br>
+2.3% of GDP (approximately $11.2 billion) (2019 est.)<br>
+2.3% of GDP (approximately $10.5 billion) (2018 est.)<br>
+2.3% of GDP (approximately $9.85 billion) (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information is limited and estimates vary; approximately 470,000 active duty troops (400,000 ground; 40,000 naval; 30,000 air); estimated 40,000 Border Defense Force and Coast Guard (2021)<br>

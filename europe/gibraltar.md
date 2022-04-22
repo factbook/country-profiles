@@ -488,11 +488,11 @@ _subscriptions per 100 inhabitants_: 57.85 (2019 est.)<br>
 VP-G<br>
 
 **Airports**<br>
-_total_: 1 (2013)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 29 km (2007)<br>

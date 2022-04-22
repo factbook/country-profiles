@@ -220,6 +220,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 10.4% (2016)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 7.3% (2016)<br>
+_women married by age 18_: 34% (2016)<br>
+_men married by age 18_: 5.5% (2016 est.)<br>
+
 **Education expenditures**<br>
 3% of GDP (2020)<br>
 
@@ -663,20 +668,20 @@ _annual passenger traffic on registered air carriers_: 21,537 (2018)<br>
 5X<br>
 
 **Airports**<br>
-_total_: 47 (2013)<br>
+_total_: 47 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
 _over 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1 (2019)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 42<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 8<br>
 _914 to 1,523 m_: 26<br>
-_under 914 m_: 7 (2013)<br>
+_under 914 m_: 7 (2021)<br>
 
 **Railways**<br>
 _total_: 1,244 km (2014)<br>
@@ -701,10 +706,10 @@ note - in 2018, President MUSEVENI created a volunteer force of Local Defense Un
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
-1.7% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
-1.3% of GDP (2016)<br>
+1.7% of GDP (approximately $870 million) (2019)<br>
+1.2% of GDP (approximately $640 million) (2018)<br>
+1.2% of GDP (approximately $610 million) (2017)<br>
+1.3% of GDP (approximately $620 million) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 45-50,000 troops, including about 1,000-1,500 air and marine personnel; approximately 20,000 personnel in the Local Defense Units (2021)<br>

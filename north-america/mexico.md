@@ -223,6 +223,10 @@ _vectorborne diseases_: dengue fever<br>
 **Children under the age of 5 years underweight**<br>
 4.7% (2018/19)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 3.6% (2018)<br>
+_women married by age 18_: 20.7% (2018 est.)<br>
+
 **Education expenditures**<br>
 4.3% of GDP (2018)<br>
 
@@ -678,7 +682,7 @@ _annual freight traffic on registered air carriers_: 1,090,380,000 mt-km (2018)<
 XA<br>
 
 **Airports**<br>
-_total_: 1,714 (2013)<br>
+_total_: 1,714 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 243<br>
@@ -686,7 +690,7 @@ _over 3,047 m_: 12<br>
 _2,438 to 3,047 m_: 32<br>
 _1,524 to 2,437 m_: 80<br>
 _914 to 1,523 m_: 86<br>
-_under 914 m_: 33 (2017)<br>
+_under 914 m_: 33 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1,471<br>
@@ -694,7 +698,7 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 42<br>
 _914 to 1,523 m_: 281<br>
-_under 914 m_: 1,146 (2013)<br>
+_under 914 m_: 1,146 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -734,9 +738,9 @@ note - the National Guard was formed in 2019 and consists of personnel from the 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
 0.6% of GDP (2020)<br>
-0.5% of GDP (2019)<br>
-0.5% of GDP (2018)<br>
-0.5% of GDP (2017)<br>
+0.5% of GDP (approximately $13.4 billion) (2019)<br>
+0.5% of GDP (approximately $12.5 billion) (2018)<br>
+0.5% of GDP (approximately $11.3 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 223,000 armed forces personnel (160,000 Army; 8,000 Air Force; 55,000 Navy, including about 20,000 marines); approximately 100,000 National Guard (2021)<br>

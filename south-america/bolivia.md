@@ -220,6 +220,11 @@ _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 **Children under the age of 5 years underweight**<br>
 3.4% (2016)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 3.4% (2016)<br>
+_women married by age 18_: 19.7% (2016)<br>
+_men married by age 18_: 5.2% (2016 est.)<br>
+
 **Education expenditures**<br>
 7.3% of GDP (2014)<br>
 
@@ -663,14 +668,14 @@ _annual freight traffic on registered air carriers_: 13.73 million mt-km (2018)<
 CP<br>
 
 **Airports**<br>
-_total_: 855 (2013)<br>
+_total_: 855 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 21<br>
 _over 3,047 m_: 5<br>
 _2,438 to 3,047 m_: 4<br>
 _1,524 to 2,437 m_: 6<br>
-_914 to 1,523 m_: 6 (2017)<br>
+_914 to 1,523 m_: 6 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 834<br>
@@ -678,7 +683,7 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 4<br>
 _1,524 to 2,437 m_: 47<br>
 _914 to 1,523 m_: 151<br>
-_under 914 m_: 631 (2013)<br>
+_under 914 m_: 631 (2021)<br>
 
 **Pipelines**<br>
 5457 km gas, 51 km liquid petroleum gas, 2511 km oil, 1627 km refined products (2013)<br>
@@ -711,10 +716,10 @@ note - the National Police is part of the reserves for the Armed Forces<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.4% of GDP (2019 est.)<br>
-1.5% of GDP (2018 est.)<br>
-1.5% of GDP (2017 est.)<br>
-1.6% of GDP (2016 est.)<br>
+1.4% of GDP (approximately $980 million) (2019 est.)<br>
+1.5% of GDP (approximately $1 billion) (2018 est.)<br>
+1.5% of GDP (approximately $1.01 billion) (2017 est.)<br>
+1.6% of GDP (approximately $970 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police; approximately 40,000 National Police (2021)<br>

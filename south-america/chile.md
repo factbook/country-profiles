@@ -94,7 +94,7 @@ Spanish 99.5% (official), English 10.2%, Indigenous 1% (includes Mapudungun, Aym
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 60%, Evangelical&nbsp; 18%, atheist or agnostic 4%, none 17% (2018 est.)<br>
+Roman Catholic 60%, Evangelical 18%, atheist or agnostic 4%, none 17% (2018 est.)<br>
 
 **Demographic profile**<br>
 <p>Chile is in the advanced stages of demographic transition and is becoming an aging society - with fertility below replacement level, low mortality rates, and life expectancy on par with developed countries. Nevertheless, with its dependency ratio nearing its low point, Chile could benefit from its favorable age structure. It will need to keep its large working-age population productively employed, while preparing to provide for the needs of its growing proportion of elderly people, especially as women - the traditional caregivers - increasingly enter the workforce. Over the last two decades, Chile has made great strides in reducing its poverty rate, which is now lower than most Latin American countries. However, its severe income inequality ranks as the worst among members of the Organization for Economic Cooperation and Development. Unequal access to quality education perpetuates this uneven income distribution.</p><p>Chile has historically been a country of emigration but has slowly become more attractive to immigrants since transitioning to democracy in 1990 and improving its economic stability (other regional destinations have concurrently experienced deteriorating economic and political conditions). Most of Chile's small but growing foreign-born population consists of transplants from other Latin American countries, especially Peru.</p><br>
@@ -638,7 +638,7 @@ _annual freight traffic on registered air carriers_: 1,226,440,000 mt-km (2018)<
 CC<br>
 
 **Airports**<br>
-_total_: 481 (2013)<br>
+_total_: 481 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 90<br>
@@ -646,14 +646,14 @@ _over 3,047 m_: 5<br>
 _2,438 to 3,047 m_: 7<br>
 _1,524 to 2,437 m_: 23<br>
 _914 to 1,523 m_: 31<br>
-_under 914 m_: 24 (2017)<br>
+_under 914 m_: 24 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 391<br>
 _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 11<br>
 _914 to 1,523 m_: 56<br>
-_under 914 m_: 319 (2013)<br>
+_under 914 m_: 319 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -686,10 +686,10 @@ note - Carabineros de Chile are responsible to both the Ministry of Defense and 
 
 **Military expenditures**<br>
 2% of GDP (2020 est.)<br>
-1.9% of GDP (2019)<br>
-1.9% of GDP (2018)<br>
-2% of GDP (2017)<br>
-2% of GDP (2016)<br>
+1.9% of GDP (approximately $7.33 billion) (2019)<br>
+1.9% of GDP (approximately $7.2 billion) (2018)<br>
+2% of GDP (approximately $7.1 billion) (2017)<br>
+2% of GDP (approximately $6.9 billion) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 75,000 active armed forces personnel (45,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2021)<br>

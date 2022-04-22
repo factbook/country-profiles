@@ -203,6 +203,11 @@ _vectorborne diseases_: malaria<br>
 **Children under the age of 5 years underweight**<br>
 3.4% (2019/20)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0.9% (2020)<br>
+_women married by age 18_: 7.4% (2020)<br>
+_men married by age 18_: 2% (2020 est.)<br>
+
 **Education expenditures**<br>
 4.8% of GDP (2020)<br>
 
@@ -609,15 +614,15 @@ _annual passenger traffic on registered air carriers_: 137,770 (2018)<br>
 5W<br>
 
 **Airports**<br>
-_total_: 4 (2013)<br>
+_total_: 4 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_2,438 to 3,047 m_: 1 (2019)<br>
+_2,438 to 3,047 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3<br>
-_under 914 m_: 3 (2013)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Roadways**<br>
 _total_: 1,150 km (2018)<br>

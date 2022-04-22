@@ -641,20 +641,20 @@ _inventory of registered aircraft operated by air carriers_: 7<br>
 YN<br>
 
 **Airports**<br>
-_total_: 147 (2013)<br>
+_total_: 147 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 12<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 4 (2017)<br>
+_under 914 m_: 4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 135<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 15<br>
-_under 914 m_: 119 (2013)<br>
+_under 914 m_: 119 (2021)<br>
 
 **Pipelines**<br>
 54 km oil (2013)<br>
@@ -682,10 +682,10 @@ note - both the military and the police report directly to the president<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2020 est.)<br>
-0.6% of GDP (2019)<br>
-0.6% of GDP (2018)<br>
-0.6% of GDP (2017)<br>
-0.5% of GDP (2016)<br>
+0.6% of GDP (approximately $170 million) (2019)<br>
+0.6% of GDP (approximately $180 million) (2018)<br>
+0.6% of GDP (approximately $190 million) (2017)<br>
+0.5% of GDP (approximately $170 million) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2021)<br>

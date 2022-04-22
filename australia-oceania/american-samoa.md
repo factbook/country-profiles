@@ -502,13 +502,13 @@ _percent of population_: 43.8% (2022 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 3 (2020)<br>
+_total_: 3 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>
 _over 3,047 m_: 1<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 1 (2019)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 241 km (2016)<br>

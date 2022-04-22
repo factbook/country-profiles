@@ -623,7 +623,7 @@ _annual freight traffic on registered air carriers_: 168.71 million mt-km (2018)
 EI<br>
 
 **Airports**<br>
-_total_: 40 (2013)<br>
+_total_: 40 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
@@ -631,13 +631,13 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 5 (2019)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 24<br>
 _2,438 to 3,047 m_: 1<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 21 (2013)<br>
+_under 914 m_: 21 (2021)<br>
 
 **Pipelines**<br>
 2,427 km gas (2017)<br>
@@ -672,9 +672,9 @@ Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Re
 **Military expenditures**<br>
 0.3% of GDP (2021)<br>
 0.3% of GDP (2020)<br>
-0.3% of GDP (2019)<br>
-0.3% of GDP (2018)<br>
-0.3% of GDP (2017)<br>
+0.3% of GDP (approximately $1.27 billion) (2019)<br>
+0.3% of GDP (approximately $1.25 billion (2018)<br>
+0.3% of GDP (approximately $1.21 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Irish Defense Forces have approximately 8,700 active duty personnel (7,000 Army; 1,000 Navy; 700 Air Force) (2021)<br>

@@ -202,6 +202,11 @@ NA<br>
 **Children under the age of 5 years underweight**<br>
 14.8% (2016/17)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0% (2017)<br>
+_women married by age 18_: 2.2% (2017)<br>
+_men married by age 18_: 2.2% (2017 est.)<br>
+
 **Education expenditures**<br>
 4.1% of GDP (2019)<br>
 
@@ -607,18 +612,18 @@ _annual freight traffic on registered air carriers_: 7.75 million (2018)<br>
 8Q<br>
 
 **Airports**<br>
-_total_: 9 (2013)<br>
+_total_: 9 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 7<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 4 (2017)<br>
+_914 to 1,523 m_: 4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_914 to 1,523 m_: 2 (2021)<br>
 
 **Roadways**<br>
 _total_: 93 km (2018)<br>

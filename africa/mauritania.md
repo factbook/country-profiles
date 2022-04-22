@@ -658,19 +658,19 @@ _annual passenger traffic on registered air carriers_: 454,435 (2018)<br>
 5T<br>
 
 **Airports**<br>
-_total_: 30 (2013)<br>
+_total_: 30 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 9<br>
 _2,438 to 3,047 m_: 5<br>
-_1,524 to 2,437 m_: 4 (2017)<br>
+_1,524 to 2,437 m_: 4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 21<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 10<br>
 _914 to 1,523 m_: 8<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Railways**<br>
 _total_: 728 km (2014)<br>
@@ -699,10 +699,10 @@ note(s) - the Gendarmerie is responsible for maintaining civil order around metr
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
-2.1% of GDP (2019 est.)<br>
-2.3% of GDP (2018 est.)<br>
-2.3% of GDP (2017 est.)<br>
-2.5% of GDP (2016 est.)<br>
+2.1% of GDP (approximately $440 million) (2019 est.)<br>
+2.3% of GDP (approximately $430 million) (2018 est.)<br>
+2.3% of GDP (approximately $440 million) (2017 est.)<br>
+2.5% of GDP (approximately $420 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 16,000 active personnel (15,000 Army; 700 Navy; 300 Air Force); est. 3,000 Gendarmerie; est. 2,000 National Guard (2021)<br>

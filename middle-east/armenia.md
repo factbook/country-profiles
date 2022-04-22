@@ -203,6 +203,11 @@ _unimproved: total_: total: 5.6% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 2.6% (2015/16)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0% (2016)<br>
+_women married by age 18_: 5.3% (2016)<br>
+_men married by age 18_: 0.4% (2016 est.)<br>
+
 **Education expenditures**<br>
 2.7% of GDP (2020)<br>
 
@@ -614,8 +619,8 @@ _total_: 1.98 million (2022 est.)<br>
 _percent of population_: 66.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 430,407 (2020)<br>
-_subscriptions per 100 inhabitants_: 14.52 (2020 est.)<br>
+_total_: 430,407 (2021)<br>
+_subscriptions per 100 inhabitants_: 14.52 (2021 est.)<br>
 
 ## Transportation
 
@@ -627,18 +632,18 @@ _inventory of registered aircraft operated by air carriers_: 5<br>
 EK<br>
 
 **Airports**<br>
-_total_: 7 (2020)<br>
+_total_: 7 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 10<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 4<br>
-_914 to 1,523 m_: 2 (2017)<br>
+_914 to 1,523 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>
-_914 to 1,523 m_: 1 (2013)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Pipelines**<br>
 3838 km gas (high and medium pressure) (2017)<br>
@@ -660,10 +665,10 @@ Armenian Armed Forces: Armenian Army (includes land, air, air defense forces) (2
 
 **Military expenditures**<br>
 5% of GDP (2020 est.)<br>
-5.3% of GDP (2019 est.)<br>
-4.6% of GDP (2018 est.)<br>
-4.4% of GDP (2017 est.)<br>
-4.6% of GDP (2016 est.)<br>
+5.3% of GDP (approximately $1.82 billion) (2019 est.)<br>
+4.6% of GDP (approximately 1.6 billion) (2018 est.)<br>
+4.4% of GDP (approximately $1.43 billion) (2017 est.)<br>
+4.6% of GDP (approximately $1.32 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2021)<br>

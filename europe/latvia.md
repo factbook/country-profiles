@@ -622,8 +622,8 @@ _total_: 1.67 million (2021 est.)<br>
 _percent of population_: 88.9% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 503,804 (2020)<br>
-_subscriptions per 100 inhabitants_: 26.71 (2020 est.)<br>
+_total_: 490,569 (2021)<br>
+_subscriptions per 100 inhabitants_: 26.01 (2021 est.)<br>
 
 ## Transportation
 
@@ -637,7 +637,7 @@ _annual freight traffic on registered air carriers_: 4.01 million mt-km (2018)<b
 YL<br>
 
 **Airports**<br>
-_total_: 42 (2013)<br>
+_total_: 42 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 18<br>
@@ -645,11 +645,11 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 7 (2017)<br>
+_under 914 m_: 7 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 24<br>
-_under 914 m_: 24 (2013)<br>
+_under 914 m_: 24 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -683,11 +683,11 @@ _major seaport(s)_: Riga, Ventspils<br>
 National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (2021)<br>
 
 **Military expenditures**<br>
-2.3% of GDP (2021 est.)<br>
-2.3% of GDP (2020)<br>
-2% of GDP (2019)<br>
-2.1% of GDP (2018)<br>
-1.6% of GDP (2017)<br>
+2.2% of GDP (2021 est.)<br>
+2.2% of GDP (2020)<br>
+2% of GDP (approximately $920 million) (2019)<br>
+2.1% of GDP (approximately $900 million) (2018)<br>
+1.6% of GDP (approximately $740 million) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the National Armed Forces of Latvia have approximately 6,500 active duty troops (5,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2021)<br>

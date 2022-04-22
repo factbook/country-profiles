@@ -626,12 +626,12 @@ _annual freight traffic on registered air carriers_: 420.98 million mt-km (2018)
 A9C<br>
 
 **Airports**<br>
-_total_: 4 (2013)<br>
+_total_: 4 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
 _over 3,047 m_: 3<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -659,10 +659,10 @@ note(s) - the Royal Guard is officially under the command of the Army, but exerc
 
 **Military expenditures**<br>
 4.2% of GDP (2020 est.)<br>
-4% of GDP (2019 est.)<br>
-4% of GDP (2018 est.)<br>
-4.2% of GDP (2017 est.)<br>
-4.7% of GDP (2016 est.)<br>
+4% of GDP (approximately $2.09 billion) (2019 est.)<br>
+4% of GDP (approximately $2.08 billion) (2018 est.)<br>
+4.2% of GDP (approximately $2.18 billion) (2017 est.)<br>
+4.7% of GDP (approximately $2.25 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 3,000 National Guard (2021)<br>

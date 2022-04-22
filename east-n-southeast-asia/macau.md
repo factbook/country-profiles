@@ -559,11 +559,11 @@ _annual freight traffic on registered air carriers_: 31.84 million mt-km (2018)<
 B-M<br>
 
 **Airports**<br>
-_total_: 1 (2013)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_over 3,047 m_: 1 (2019)<br>
+_over 3,047 m_: 1 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>

@@ -228,6 +228,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Children under the age of 5 years underweight**<br>
 21.1% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 14.1% (2016)<br>
+_women married by age 18_: 40.3% (2016)<br>
+_men married by age 18_: 5% (2016 est.)<br>
+
 **Education expenditures**<br>
 5.1% of GDP (2018)<br>
 
@@ -682,21 +687,21 @@ _annual freight traffic on registered air carriers_: 2,089,280,000 mt-km (2018)<
 ET<br>
 
 **Airports**<br>
-_total_: 57 (2013)<br>
+_total_: 57 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 17<br>
 _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 8<br>
 _1,524 to 2,437 m_: 4<br>
-_under 914 m_: 2 (2017)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 40<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 9<br>
 _914 to 1,523 m_: 20<br>
-_under 914 m_: 8 (2013)<br>
+_under 914 m_: 8 (2021)<br>
 
 **Railways**<br>
 _total_: 659 km (Ethiopian segment of the 756 km Addis Ababa-Djibouti railroad) (2017)<br>
@@ -721,10 +726,10 @@ note(s) - in January 2020 the Ethiopian Government announced it had re-establish
 
 **Military expenditures**<br>
 0.5% of GDP (2020 est.)<br>
-0.7% of GDP (2019 est.)<br>
-0.7% of GDP (2018 est.)<br>
-0.7% of GDP (2017 est.)<br>
-0.7% of GDP (2016 est.)<br>
+0.6% of GDP (approximately $970 million) (2019 est.)<br>
+0.6% of GDP (approximately $950 million) (2018 est.)<br>
+0.7% of GDP (approximately $930 million) (2017 est.)<br>
+0.7% of GDP (approximately $870 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; prior to the 2020-21 Tigray conflict, approximately 150,000 active duty troops, including about 3,000 Air Force personnel (no personnel numbers available for the newly-established Navy) (2021)<br>
@@ -755,7 +760,7 @@ al-Shabaab; IRGC/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement <br><br><em>Ethiopia-Somalia:</em> While border clashes continue in the al-Fashqa (Fashaga) area,  the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; <br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 390,612 (South Sudan), 228,797 (Somalia), 158,662 (Eritrea), 46,789 (Sudan) (2022)<br>
+_refugees (country of origin)_: 392,307 (South Sudan), 237,206 (Somalia), 159,040 (Eritrea), 46,963 (Sudan) (2022)<br>
 _IDPs_: 1,990,168 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>

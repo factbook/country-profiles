@@ -212,6 +212,11 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Children under the age of 5 years underweight**<br>
 21.1% (2017)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 7.1% (2017)<br>
+_women married by age 18_: 32.7% (2017)<br>
+_men married by age 18_: 10.8% (2017 est.)<br>
+
 **Education expenditures**<br>
 2.9% of GDP (2014)<br>
 
@@ -643,19 +648,19 @@ _annual freight traffic on registered air carriers_: 1.53 million mt-km (2018)<b
 RDPL<br>
 
 **Airports**<br>
-_total_: 41 (2013)<br>
+_total_: 41 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 4<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 33<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 9<br>
-_under 914 m_: 22 (2013)<br>
+_under 914 m_: 22 (2021)<br>
 
 **Pipelines**<br>
 540 km refined products (2013)<br>
@@ -678,11 +683,11 @@ _by type_: general cargo 1 (2021)<br>
 Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces<br><br>Ministry of Public Security (internal security and law enforcement):  local, traffic, immigration, and security police, as well as village police auxiliaries and other armed police units (2021)<br>
 
 **Military expenditures**<br>
-0.2% of GDP (2019 est.)<br>
-0.2% of GDP (2018 est.)<br>
-0.2% of GDP (2017 est.)<br>
-0.2% of GDP (2016 est.)<br>
-0.2% of GDP (2015 est.)<br>
+0.2% of GDP (approximately $120 million) (2019 est.)<br>
+0.2% of GDP (approximately $110 million) (2018 est.)<br>
+0.2% of GDP (approximately $100 million) (2017 est.)<br>
+0.2% of GDP (approximately $95 million) (2016 est.)<br>
+0.2% of GDP (approximately $85 million) (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information is limited and estimates vary; approximately 30,000 active duty troops (26,000 Army; 4,000 Air Force) (2021)<br>

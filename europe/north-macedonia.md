@@ -204,6 +204,10 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 0.9% (2018/19)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0.3% (2019)<br>
+_women married by age 18_: 7.5% (2019 est.)<br>
+
 **Education expenditures**<br>
 NA<br>
 
@@ -627,17 +631,17 @@ _subscriptions per 100 inhabitants_: 21.41 (2019 est.)<br>
 Z3<br>
 
 **Airports**<br>
-_total_: 10 (2013)<br>
+_total_: 10 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
 _2,438 to 3,047 m_: 2<br>
-_under 914 m_: 6 (2017)<br>
+_under 914 m_: 6 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Pipelines**<br>
 262 km gas, 120 km oil (2017)<br>
@@ -658,11 +662,11 @@ Army of the Republic of North Macedonia (ARSM; includes a General Staff and subo
 note - the Operations Command includes air, ground, special operations, support, and reserve forces<br>
 
 **Military expenditures**<br>
-1.6% of GDP (2021 est.)<br>
+1.5% of GDP (2021 est.)<br>
 1.3% of GDP (2020)<br>
-1.2% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
+1.2% of GDP (approximately $310 million) (2019)<br>
+0.9% of GDP (approximately $280 million) (2018)<br>
+0.9% of GDP (approximately $250 million) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Army of the Republic of North Macedonia (ARSM) has approximately 7,500 active duty personnel (2021)<br>
@@ -690,7 +694,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 553 (mid-year 2021)<br>
-<strong>note:</strong> 529,056 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
+<strong>note:</strong> 530,200 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

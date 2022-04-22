@@ -658,7 +658,7 @@ _annual freight traffic on registered air carriers_: 42,985,300,000 mt-km (2018)
 N<br>
 
 **Airports**<br>
-_total_: 13,513 (2013)<br>
+_total_: 13,513 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 5,054<br>
@@ -666,7 +666,7 @@ _over 3,047 m_: 189<br>
 _2,438 to 3,047 m_: 235<br>
 _1,524 to 2,437 m_: 1,478<br>
 _914 to 1,523 m_: 2,249<br>
-_under 914 m_: 903 (2013)<br>
+_under 914 m_: 903 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 8,459<br>
@@ -674,7 +674,7 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 6<br>
 _1,524 to 2,437 m_: 140<br>
 _914 to 1,523 m_: 1,552<br>
-_under 914 m_: 6,760 (2013)<br>
+_under 914 m_: 6,760 (2021)<br>
 
 **Heliports**<br>
 5,287 (2013)<br>
@@ -715,11 +715,11 @@ United States Armed Forces: US Army, US Navy (includes Marine Corps), US Air For
 note - the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority<br>
 
 **Military expenditures**<br>
-3.52% of GDP (2021 est.)<br>
+3.6% of GDP (2021 est.)<br>
 3.7% of GDP (2020)<br>
-3.5% of GDP (2019)<br>
-3.3% of GDP (2018)<br>
-3.3% of GDP (2017)<br>
+3.4% of GDP (approximately $730 billion) (2019)<br>
+3.3% of GDP (approximately $685 billion) (2018)<br>
+3.3% of GDP (approximately $671 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the US Armed Forces have approximately 1.4 million active duty personnel (480,000 Army; 350,000 Navy; 335,000 Air Force/Space Force; 180,000 Marine Corps; 40,000 Coast Guard); 335,000 Army National Guard; 105,000 Air National Guard (2021)<br>

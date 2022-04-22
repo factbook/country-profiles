@@ -219,6 +219,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Children under the age of 5 years underweight**<br>
 20.5% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 25.8% (2019)<br>
+_women married by age 18_: 61% (2019)<br>
+_men married by age 18_: 17.1% (2019 est.)<br>
+
 **Education expenditures**<br>
 1.8% of GDP (2019)<br>
 
@@ -643,18 +648,18 @@ _annual freight traffic on registered air carriers_: 0 mt-km (2015)<br>
 TL<br>
 
 **Airports**<br>
-_total_: 39 (2013)<br>
+_total_: 39 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_2,438 to 3,047 m_: 1 (2019)<br>
+_2,438 to 3,047 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 37<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 11<br>
 _914 to 1,523 m_: 19<br>
-_under 914 m_: 6 (2013)<br>
+_under 914 m_: 6 (2021)<br>
 
 **Roadways**<br>
 _total_: 24,000 km (2018)<br>
@@ -676,10 +681,10 @@ note - in 2019-2021, CAR created three Mixed Special Security units (<em>Unité
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-1.7% of GDP (2019 est.)<br>
-1.4% of GDP (2018 est.)<br>
-1.4% of GDP (2017 est.)<br>
-1.6% of GDP (2016 est.)<br>
+1.7% of GDP (approximately $50 million) (2019 est.)<br>
+1.4% of GDP (approximately $40 million) (2018 est.)<br>
+1.4% of GDP (approximately $40 million) (2017 est.)<br>
+1.6% of GDP (approximately $40 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active troops, including an air component of about 200 and up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2021)<br>

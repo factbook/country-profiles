@@ -119,7 +119,7 @@ _male_: 23 years<br>
 _female_: 24 years (2020 est.)<br>
 
 **Population growth rate**<br>
-5.91% NA (2022 est.)<br>
+5.91% (2022 est.)<br>
 
 **Birth rate**<br>
 22.72 births/1,000 population (2022 est.)<br>
@@ -626,20 +626,20 @@ _annual freight traffic on registered air carriers_: 30,000 mt-km (2018)<br>
 YK<br>
 
 **Airports**<br>
-_total_: 90 (2013)<br>
+_total_: 90 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 29<br>
 _over 3,047 m_: 5<br>
 _2,438 to 3,047 m_: 16<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 5 (2013)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 61<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 12<br>
-_under 914 m_: 48 (2013)<br>
+_under 914 m_: 48 (2021)<br>
 
 **Heliports**<br>
 6 (2013)<br>
@@ -671,12 +671,18 @@ _major seaport(s)_: Baniyas, Latakia, Tartus<br>
 
 **Military and security forces**<br>
 Syrian Armed Forces: Syrian Arab Army (includes Republican Guard), Syrian Naval Forces, Syrian Air Forces, Syrian Air Defense Forces, National Defense Forces (pro-government militia and auxiliary forces) (2021)<br>
+note - as of 2021, the Syrian military was supported by numerous pro-government and pro-Iranian militia forces<br>
 
 **Military expenditures**<br>
-since the start of the civil war, Syria has allocated an estimated 6-7% of GDP to military expenditures annually<br>
+6.5% of GDP (approximately $2.9 billion) (2019 est.)<br>
+6.7% of GDP (approximately $2.8 billion) (2018 est.)<br>
+6.8% of GDP (approximately $2.7 billion) (2017 est.)<br>
+6.9% of GDP (approximately $2.85 billion) (2016 est.)<br>
+7.2% of GDP (approximately $3.3 billion) (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 current estimates not available; since the start of the civil war in 2011, the Syrian Armed Forces (SAF) have taken significant losses in personnel due to casualties and desertions; prior to the civil war, the SAF had approximately 300,000 active duty troops, including 200-225,000 Army, plus about 300,000 reserve forces (2021)<br>
+note - pro-government and pro-Iranian militias probably number in the tens of thousands<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory is comprised mostly of Russian and Soviet-era equipment; since 2010, Russia has supplied nearly all of Syria's imported weapons systems, although China and Iran have also provided military equipment (2021)<br>

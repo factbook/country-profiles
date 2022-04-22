@@ -621,18 +621,18 @@ _number of registered air carriers_: 0 (2020)<br>
 6Y<br>
 
 **Airports**<br>
-_total_: 28 (2013)<br>
+_total_: 28 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 11<br>
 _2,438 to 3,047 m_: 2<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 5 (2017)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 17<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 16 (2013)<br>
+_under 914 m_: 16 (2021)<br>
 
 **Roadways**<br>
 _total_: 22,121 km (includes 44 km of expressways) (2011)<br>
@@ -655,10 +655,10 @@ note - both the JDF and JCF are under the Ministry of National Security<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.)<br>
-1.4% of GDP (2018 est.)<br>
-1% of GDP (2017 est.)<br>
-0.9% of GDP (2016 est.)<br>
+1.6% of GDP (approximately $300 million) (2019 est.)<br>
+1.4% of GDP (approximately $260 million) (2018 est.)<br>
+1% of GDP (approximately $190 million) (2017 est.)<br>
+0.9% of GDP (approximately $180 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 4,000 total active personnel (2021)<br>

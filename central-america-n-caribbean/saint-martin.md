@@ -321,11 +321,11 @@ _percent of population_: 3.5% (July 2016 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2013)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_914 to 1,523 m_: 1 (2019)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Transportation - note**<br>
 nearest airport for international flights is Princess Juliana International Airport (SXM) located on Sint Maarten<br>

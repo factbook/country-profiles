@@ -634,7 +634,7 @@ _annual freight traffic on registered air carriers_: 454.21 million mt-km (2018)
 CR, CS<br>
 
 **Airports**<br>
-_total_: 64 (2013)<br>
+_total_: 64 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 43<br>
@@ -642,12 +642,12 @@ _over 3,047 m_: 5<br>
 _2,438 to 3,047 m_: 7<br>
 _1,524 to 2,437 m_: 8<br>
 _914 to 1,523 m_: 15<br>
-_under 914 m_: 8 (2017)<br>
+_under 914 m_: 8 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 21<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 20 (2013)<br>
+_under 914 m_: 20 (2021)<br>
 
 **Pipelines**<br>
 1344 km gas, 11 km oil, 188 km refined products (2013)<br>
@@ -682,11 +682,11 @@ Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy 
 note - the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Minister of Internal Administration and to the Minister of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2021 est.)<br>
+1.6% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
-1.4% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
+1.4% of GDP (approximately $4.31 billion) (2019)<br>
+1.3% of GDP (approximately $4.06 billion) (2018)<br>
+1.2% of GDP (approximately $3.62 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Portuguese Armed Forces have approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, inc about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2021)<br>

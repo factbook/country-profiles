@@ -668,7 +668,7 @@ _annual freight traffic on registered air carriers_: 4.78 million mt-km (2018)<b
 C9<br>
 
 **Airports**<br>
-_total_: 98 (2013)<br>
+_total_: 98 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 21<br>
@@ -676,14 +676,14 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 9<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 4 (2017)<br>
+_under 914 m_: 4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 77<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 9<br>
 _914 to 1,523 m_: 29<br>
-_under 914 m_: 38 (2013)<br>
+_under 914 m_: 38 (2021)<br>
 
 **Pipelines**<br>
 972 km gas, 278 km refined products (2013)<br>
@@ -715,10 +715,10 @@ note - the FADM and other security forces are referred to collectively as the De
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
-1.2% of GDP (2019 est.)<br>
-1.1% of GDP (2018 est.)<br>
-0.9% of GDP (2017 est.)<br>
-0.9% of GDP (2016 est.)<br>
+1.2% of GDP (approximately $220 million) (2019 est.)<br>
+1.1% of GDP (approximately $210 million) (2018 est.)<br>
+0.9% of GDP (approximately $170 million) (2017 est.)<br>
+0.9% of GDP (approximately $170 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information limited and varied; approximately 12,000 personnel (11,000 Army; 200 Navy; 800 Air Force) (2021)<br>

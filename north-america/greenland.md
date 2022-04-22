@@ -559,20 +559,20 @@ _inventory of registered aircraft operated by air carriers_: 8 (registered in De
 OY-H<br>
 
 **Airports**<br>
-_total_: 15 (2013)<br>
+_total_: 15 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 10<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 6 (2019)<br>
+_under 914 m_: 6 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 5<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Roadways**<br>
 <p><strong>note:</strong> although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air</p><br>

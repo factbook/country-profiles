@@ -644,19 +644,19 @@ _annual freight traffic on registered air carriers_: 1.38 million mt-km (2018)<b
 LZ<br>
 
 **Airports**<br>
-_total_: 68 (2013)<br>
+_total_: 68 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 57<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 17<br>
 _1,524 to 2,437 m_: 12<br>
-_under 914 m_: 26 (2017)<br>
+_under 914 m_: 26 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 11<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 9 (2013)<br>
+_under 914 m_: 9 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -693,9 +693,9 @@ Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
 1.6% of GDP (2020)<br>
-3.1% of GDP (2019)<br>
-1.5% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
+3.1% of GDP (approximately $2.95 billion) (2019)<br>
+1.5% of GDP (approximately $1.72 billion) (2018)<br>
+1.2% of GDP (approximately $1.5 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 30,000 active duty personnel (16,000 Army; 4,000 Navy; 7,000 Air Force; 3,000 other, joint staff, support) (2021)<br>

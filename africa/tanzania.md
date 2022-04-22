@@ -225,6 +225,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 14.6% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 5.2% (2016)<br>
+_women married by age 18_: 30.5% (2016)<br>
+_men married by age 18_: 3.9% (2016 est.)<br>
+
 **Education expenditures**<br>
 3.1% of GDP (2020)<br>
 
@@ -666,21 +671,21 @@ _annual freight traffic on registered air carriers_: 390,000 mt-km (2018)<br>
 5H<br>
 
 **Airports**<br>
-_total_: 166 (2013)<br>
+_total_: 166 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 10<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 4<br>
-_914 to 1,523 m_: 2 (2019)<br>
+_914 to 1,523 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 156<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 24<br>
 _914 to 1,523 m_: 98<br>
-_under 914 m_: 33 (2013)<br>
+_under 914 m_: 33 (2021)<br>
 
 **Pipelines**<br>
 311 km gas, 891 km oil, 8 km refined products (2013)<br>
@@ -715,10 +720,10 @@ note - the National Building Army is a paramilitary organization under the Defen
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.)<br>
-1.3% of GDP (2018 est.)<br>
-1.1% of GDP (2017 est.)<br>
-1.1% of GDP (2016 est.)<br>
+1.1% of GDP (approximately $810 million) (2019 est.)<br>
+1.2% of GDP (approximately $800 million) (2018 est.)<br>
+1% of GDP (approximately $690 million) (2017 est.)<br>
+1.1% of GDP (approximately $690 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active personnel (21,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2021)<br>

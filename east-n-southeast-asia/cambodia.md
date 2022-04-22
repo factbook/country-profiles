@@ -364,7 +364,7 @@ _judge selection and term of office_: Supreme Court and Constitutional Council j
 _subordinate courts_: Appellate Court; provincial and municipal courts; Military Court<br>
 
 **Political parties and leaders**<br>
-Cambodian People's Party or CPP [HUN SEN]<br>National United Front for Independent, Neutral, Peaceful, and Cooperative Cambodia or FUNCINPEC [Prince NORODOM CHAKRAVUTH]<br>League for Democracy Party or LDP [KHEM Veasna]<br>Khmer Will Party [KONG MONIKA]<br>Khmer National Unity Party or KNUP (an offshoot of FUNCINPEC) [NHEK BUN CHHAY]<br>Candlelight Party or CP (the latest incarnation of the Sam <u>Rainsy</u> Party or SRP and the former Human Rights Party or HRP, which joined to form the Cambodia National Rescue Party or CNRP in 2012; the CNRP was dissolved in 2017)<br><br> <p>Other minor parties that registered for the 2022 commune-level elections included: Cambodia National Love Party, Cambodia Nationality Party, Cambodian Youth Party, Khmer Will Party, Cambodia Reform Party, Kampucheaniyum Party, Grassroots Democratic Party, Khmer United Party, Beehive Social Democratic Party, Cambodia Indigenous People's Democracy Party, Ekpheap Cheat Khmer Party, Reaksmey Khemara Party, Khmer Economic Development Party</p> (March 2022)<br><br>note(s) - following the 2017 commune election, the CPP-led government arrested the CNRP president Kem SOKHA for treason, dissolved the party on similar grounds, and forced most of its senior leadership into exile, where the party’s former president, Sam RAINSY, had been living since late 2015; as of March 2022, a total of 17 political parties had registered to run in the June 2022 commune-level elections, and opposition parties, particularly the Candlelight Party, continued to report, intimidation, harassment, and arrests by the Cambodian Government<br>
+Cambodian People's Party or CPP [HUN SEN]<br>National United Front for Independent, Neutral, Peaceful, and Cooperative Cambodia or FUNCINPEC [Prince NORODOM CHAKRAVUTH]<br>League for Democracy Party or LDP [KHEM Veasna]<br>Khmer Will Party [KONG MONIKA]<br>Khmer National Unity Party or KNUP (an offshoot of FUNCINPEC) [NHEK BUN CHHAY]<br>Candlelight Party or CP (the latest incarnation of the Sam <u>Rainsy</u> Party or SRP and the former Human Rights Party or HRP, which joined to form the Cambodia National Rescue Party or CNRP in 2012; the CNRP was dissolved in 2017)<br><br> <p>Other minor parties that registered for the 2022 commune-level elections included: Cambodia National Love Party, Cambodia Nationality Party, Cambodian Youth Party, Khmer Will Party, Cambodia Reform Party, Kampucheaniyum Party, Grassroots Democratic Party, Khmer United Party, Beehive Social Democratic Party, Cambodia Indigenous People's Democracy Party, Ekpheap Cheat Khmer Party, Reaksmey Khemara Party, Khmer Economic Development Party</p> (2022)<br><br>note(s) - following the 2017 commune election, the CPP-led government arrested the CNRP president Kem SOKHA for treason, dissolved the party on similar grounds, and forced most of its senior leadership into exile, where the party’s former president, Sam RAINSY, had been living since late 2015; as of March 2022, a total of 17 political parties had registered to run in the June 2022 commune-level elections, and opposition parties, particularly the Candlelight Party, continued to report, intimidation, harassment, and arrests by the Cambodian Government<br>
 note(s) - following the 2017 commune election, the CPP-led government arrested the CNRP president Kem SOKHA for treason, dissolved the party on similar grounds, and forced most of its senior leadership into exile, where the party&rsquo;s former president, Sam RAINSY, had been living since late 2015; as of March 2022, a total of 17 political parties had registered to run in the June 2022 commune-level elections, and opposition parties, particularly the Candlelight Party, continued to report, intimidation, harassment, and arrests by the Cambodian Government<br>
 
 **International organization participation**<br>
@@ -659,19 +659,19 @@ _annual freight traffic on registered air carriers_: 680,000 mt-km (2018)<br>
 XU<br>
 
 **Airports**<br>
-_total_: 16 (2013)<br>
+_total_: 16 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 6<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 1 (2019)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 10<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 7<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -705,10 +705,10 @@ note - the Cambodian National Police is under the Ministry of Interior<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
-2.2% of GDP (2019 est.)<br>
-2.2% of GDP (2018 est.)<br>
-2.1% of GDP (2017 est.)<br>
-2% of GDP (2016 est.)<br>
+2.2% of GDP (approximately $1.2 billion) (2019 est.)<br>
+2.2% of GDP (approximately $1.13 billion) (2018 est.)<br>
+2.1% of GDP (approximately $1.02 billion) (2017 est.)<br>
+2% of GDP (approximately $940 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 100,000 total active troops including about 3,000 Navy and 1,000 Air Force; est. 10,000 Gendarmerie (2021)<br>

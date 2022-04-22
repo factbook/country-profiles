@@ -206,6 +206,11 @@ _vectorborne diseases_: malaria<br>
 **Children under the age of 5 years underweight**<br>
 6.9% (2018/19)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 2.4% (2019)<br>
+_women married by age 18_: 18.4% (2019)<br>
+_men married by age 18_: 8.6% (2019 est.)<br>
+
 **Education expenditures**<br>
 12.4% of GDP NA (2019)<br>
 
@@ -596,16 +601,16 @@ _annual passenger traffic on registered air carriers_: 66,567 (2018)<br>
 T3<br>
 
 **Airports**<br>
-_total_: 19 (2013)<br>
+_total_: 19 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
-_1,524 to 2,437 m_: 4 (2017)<br>
+_1,524 to 2,437 m_: 4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 15<br>
 _914 to 1,523 m_: 10<br>
-_under 914 m_: 5 (2013)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Roadways**<br>
 _total_: 670 km (2017)<br>

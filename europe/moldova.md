@@ -626,7 +626,7 @@ _total_: 3.07 million (2021 est.)<br>
 _percent of population_: 76.12% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 719,001 (2020)<br>
+_total_: 719,001 (2021)<br>
 _subscriptions per 100 inhabitants_: 17.82 (2020 est.)<br>
 
 ## Transportation
@@ -641,18 +641,18 @@ _annual freight traffic on registered air carriers_: 640,000 mt-km (2018)<br>
 ER<br>
 
 **Airports**<br>
-_total_: 7 (2013)<br>
+_total_: 7 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 2 (2017)<br>
+_1,524 to 2,437 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Pipelines**<br>
 2026 km gas (2021) (2014)<br>
@@ -681,10 +681,10 @@ National Army: Land Forces (Fortele Terestre ale Republicii Moldova, FTRM); Air 
 
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>
-0.4% of GDP (2019 est.)<br>
-0.4% of GDP (2018 est.)<br>
-0.4% of GDP (2017 est.)<br>
-0.4% of GDP (2016 est.)<br>
+0.4% of GDP (approximately $160 million) (2019 est.)<br>
+0.4% of GDP (approximately $130 million) (2018 est.)<br>
+0.4% of GDP (approximately $120 million) (2017 est.)<br>
+0.4% of GDP (approximately $110 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,000 active troops (2021)<br>
@@ -705,7 +705,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p>Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 415,850 (Ukraine) (as of 12 April 2022)<br>
+_refugees (country of origin)_: 425,227 (Ukraine) (as of 18 April 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

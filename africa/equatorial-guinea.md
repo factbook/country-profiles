@@ -601,18 +601,18 @@ _annual freight traffic on registered air carriers_: 350,000 mt-km (2018)<br>
 3C<br>
 
 **Airports**<br>
-_total_: 7 (2013)<br>
+_total_: 7 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 6<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 1 (2019)<br>
-_under 914 m_: 2<br>
+_1,524 to 2,437 m_: 1<br>
+_under 914 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
+_2,438 to 3,047 m_: 1 (2021)<br>
 
 **Pipelines**<br>
 42 km condensate, 5 km condensate/gas, 79 km gas, 71 km oil (2013)<br>
@@ -635,11 +635,11 @@ Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equ
 note - the Gendarmerie reports to the Ministry of National Defense and is responsible for security outside cities and for special events; military personnel also fulfill some police functions in border areas, sensitive sites, and high-traffic areas<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2019 est.)<br>
-1.1% of GDP (2018 est.)<br>
-1.1% of GDP (2017 est.)<br>
-1.2% of GDP (2016 est.)<br>
-1% of GDP (2015 est.)<br>
+1.5% of GDP (approximately $270 million) (2019 est.)<br>
+1.1% of GDP (approximately $230 million) (2018 est.)<br>
+1.1% of GDP (approximately $250 million) (2017 est.)<br>
+1.2% of GDP (approximately $260 million) (2016 est.)<br>
+1% of GDP (approximately $250 million) (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,400 active duty troops; approximately 3-400 Gendarmerie (2021)<br>

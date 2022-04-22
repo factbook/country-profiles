@@ -636,7 +636,7 @@ _annual freight traffic on registered air carriers_: 11,929,560,000 mt-km (2018)
 HL<br>
 
 **Airports**<br>
-_total_: 111 (2013)<br>
+_total_: 111 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 71<br>
@@ -644,12 +644,12 @@ _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 19<br>
 _1,524 to 2,437 m_: 12<br>
 _914 to 1,523 m_: 13<br>
-_under 914 m_: 23 (2017)<br>
+_under 914 m_: 23 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 40<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 38 (2013)<br>
+_under 914 m_: 38 (2021)<br>
 
 **Heliports**<br>
 466 (2013)<br>
@@ -687,9 +687,9 @@ note - in January 2022, the South Korean military announced the formation of a s
 **Military expenditures**<br>
 2.6% of GDP (2021 est.)<br>
 2.6% of GDP (2020)<br>
-2.7% of GDP (2019)<br>
-2.5% of GDP (2018)<br>
-2.5% of GDP (2017)<br>
+2.7% of GDP (approximately $58.1 billion) (2019)<br>
+2.5% of GDP (approximately $55.8 billion) (2018)<br>
+2.5% of GDP (approximately $52.5 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Republic of Korea Armed Forces have approximately 555,000 active duty personnel (420,000 Army; 70,000 Navy/Marines; 65,000 Air Force) (2021)<br>

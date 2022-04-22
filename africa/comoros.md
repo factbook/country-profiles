@@ -608,12 +608,12 @@ _inventory of registered aircraft operated by air carriers_: 9<br>
 D6<br>
 
 **Airports**<br>
-_total_: 4 (2013)<br>
+_total_: 4 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
 _2,438 to 3,047 m_: 1<br>
-_914 to 1,523 m_: 3 (2017)<br>
+_914 to 1,523 m_: 3 (2021)<br>
 
 **Roadways**<br>
 _total_: 880 km (2002)<br>

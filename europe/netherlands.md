@@ -646,7 +646,7 @@ _annual freight traffic on registered air carriers_: 5,886,510,000 mt-km (2018)<
 PH<br>
 
 **Airports**<br>
-_total_: 29 (2013)<br>
+_total_: 29 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 23<br>
@@ -654,12 +654,12 @@ _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 11<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 6<br>
-_under 914 m_: 2 (2017)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 6<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -695,10 +695,10 @@ note - the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civil
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
-1.5% of GDP (2020)<br>
-1.4% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
+1.4% of GDP (2020)<br>
+1.3% of GDP (approximately $13.6 billion) (2019)<br>
+1.2% of GDP (approximately $12.3 billion) (2018)<br>
+1.2% of GDP (approximately $11.3 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Netherlands Armed Forces have approximately 35,000 active duty personnel (15,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2021)<br>

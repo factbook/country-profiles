@@ -488,12 +488,12 @@ Ascension Island hosts one of four dedicated ground antennas that assist in the 
 VQ-H<br>
 
 **Airports**<br>
-_total_: 2 (2015)<br>
+_total_: 2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _over 3,047 m_: 1 Ascension Island - Wideawake Field (ASI)<br>
-_1,524 to 2,437 m_: 1 Saint Helena (HLE); (2019)<br>
+_1,524 to 2,437 m_: 1 Saint Helena (HLE); (2021)<br>
 note - weekly commercial air service to South Africa via Namibia commenced on 14 October 2017<br>
 
 **Roadways**<br>

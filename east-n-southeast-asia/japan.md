@@ -640,7 +640,7 @@ _annual freight traffic on registered air carriers_: 9,420,660,000 mt-km (2018)<
 JA<br>
 
 **Airports**<br>
-_total_: 175 (2013)<br>
+_total_: 175 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 142<br>
@@ -648,12 +648,12 @@ _over 3,047 m_: 6<br>
 _2,438 to 3,047 m_: 45<br>
 _1,524 to 2,437 m_: 38<br>
 _914 to 1,523 m_: 28<br>
-_under 914 m_: 25 (2017)<br>
+_under 914 m_: 25 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 33<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 28 (2013)<br>
+_under 914 m_: 28 (2021)<br>
 
 **Heliports**<br>
 16 (2013)<br>
@@ -694,9 +694,9 @@ Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSD
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020)<br>
-1% of GDP (2019)<br>
-0.93% of GDP (2018)<br>
-0.93% of GDP (2017)<br>
+0.9% of GDP (approximately $53.4 billion) (2019)<br>
+0.9% of GDP (approximately $53.5 billion) (2018)<br>
+0.9% of GDP (approximately $52.6 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Japanese Self Defense Force (JSDF) is comprised of approximately 244,000 active personnel (150,000 Ground; 45,000 Maritime; 45,000 Air; 4,000 Joint Forces); 14,000 Coast Guard (2021)<br>

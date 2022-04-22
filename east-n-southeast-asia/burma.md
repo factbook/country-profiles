@@ -222,6 +222,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 19.1% (2017/18)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 1.9% (2016)<br>
+_women married by age 18_: 16% (2016)<br>
+_men married by age 18_: 5% (2016 est.)<br>
+
 **Education expenditures**<br>
 2% of GDP (2019)<br>
 
@@ -660,21 +665,21 @@ _annual freight traffic on registered air carriers_: 4.74 million mt-km (2018)<b
 XY<br>
 
 **Airports**<br>
-_total_: 64 (2013)<br>
+_total_: 64 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 36<br>
 _over 3,047 m_: 12<br>
 _2,438 to 3,047 m_: 11<br>
 _1,524 to 2,437 m_: 12<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 28<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 10<br>
-_under 914 m_: 13 (2013)<br>
+_under 914 m_: 13 (2021)<br>
 
 **Heliports**<br>
 11 (2013)<br>
@@ -710,10 +715,10 @@ note(s) - under the 2008 constitution, the Tatmadaw controls appointments of sen
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>
-4.1% of GDP (2019 est.)<br>
-4.4% of GDP (2018 est.)<br>
-4.7% of GDP (2017 est.)<br>
-4.9% of GDP (2016 est.)<br>
+4.1% of GDP (approximately $7.7 billion) (2019 est.)<br>
+4.4% of GDP (approximately $8.1 billion) (2018 est.)<br>
+4.7% of GDP (approximately $7.8 billion) (2017 est.)<br>
+4.9% of GDP (approximately $7.8 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary widely, from approximately 300,000 to as many as 400,000 total active duty personnel (2021)<br>

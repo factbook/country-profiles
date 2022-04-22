@@ -209,6 +209,11 @@ _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 1.8% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0.9% (2018)<br>
+_women married by age 18_: 12% (2018)<br>
+_men married by age 18_: 2.1% (2018 est.)<br>
+
 **Education expenditures**<br>
 4.9% of GDP (2019)<br>
 
@@ -643,20 +648,20 @@ _annual freight traffic on registered air carriers_: 7.82 million mt-km (2018)<b
 JU<br>
 
 **Airports**<br>
-_total_: 44 (2013)<br>
+_total_: 44 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 15<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 10<br>
-_1,524 to 2,437 m_: 3 (2017)<br>
+_1,524 to 2,437 m_: 3 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 29<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 24<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -685,10 +690,10 @@ Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): General Purpose Troops (Mo
 
 **Military expenditures**<br>
 0.8% of GDP (2020 est.)<br>
-0.7% of GDP (2019 est.)<br>
-0.7% of GDP (2018 est.)<br>
-0.8% of GDP (2017 est.)<br>
-0.9% of GDP (2016 est.)<br>
+0.7% of GDP (approximately $240 million) (2019 est.)<br>
+0.7% of GDP (approximately $240 million) (2018 est.)<br>
+0.8% of GDP (approximately $110 million) (2017 est.)<br>
+0.9% of GDP (approximately $230 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary; approximately 9,000 active duty troops (2021)<br>

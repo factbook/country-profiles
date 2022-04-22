@@ -366,8 +366,8 @@ _FAX_: [1] (202) 342-6820<br>
 _email address and website_: <br>despacho.embveus@mppre.gob.ve<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires James "Jimmy" STORY (since July 2018); note - on 11 March 2019, the Department of State announced the temporary suspension of operations of the US Embassy in Caracas and the withdrawal of diplomatic personnel; all consular services, routine and emergency, are suspended<br>
-_embassy_: now operating from Bogota, Colombia<br>Venezuela Affairs Unit, Carrera 45 N. 24B-27, Bogota<br><br>previously - F St. and Suapure St.; Urb . Colinas de Valle Arriba; Caracas 1080<br>
+_chief of mission_: James &ldquo;Jimmy&rdquo; STORY, Ambassador for the Venezuela Affairs Unit (since November 2020); note - on 11 March 2019, the Department of State announced the temporary suspension of operations of the US Embassy in Caracas and the withdrawal of diplomatic personnel; the Venezuela Affairs Unit is located at the United States Embassy in Bogota, Colombia<br>
+_embassy_: Venezuela Affairs Unit, Carrera 45 N. 24B-27, Bogota<br><br>previously - F St. and Suapure St.; Urb. Colinas de Valle Arriba; Caracas 1080<br>
 _mailing address_: 3140 Caracas Place, Washington DC&nbsp; 20521-3140<br>
 _telephone_: 1-888-407-4747<br>  <br>
 _email address and website_: <br>ACSBogota@state.gov<br><br>https://ve.usembassy.gov/<br>
@@ -642,7 +642,7 @@ _annual freight traffic on registered air carriers_: 1.55 million mt-km (2018)<b
 YV<br>
 
 **Airports**<br>
-_total_: 444 (2013)<br>
+_total_: 444 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 127<br>
@@ -650,14 +650,14 @@ _over 3,047 m_: 6<br>
 _2,438 to 3,047 m_: 9<br>
 _1,524 to 2,437 m_: 33<br>
 _914 to 1,523 m_: 62<br>
-_under 914 m_: 17 (2013)<br>
+_under 914 m_: 17 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 317<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 57<br>
 _914 to 1,523 m_: 127<br>
-_under 914 m_: 130 (2013)<br>
+_under 914 m_: 130 (2021)<br>
 
 **Heliports**<br>
 3 (2013)<br>
@@ -690,11 +690,11 @@ Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bol
 note(s) - the Bolivarian Militia was added as a "special component" to the FANB in 2020; the National Guard is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br>the FAES police paramilitary unit was created by President MADURO after the 2017 anti-government protests to bolster internal security; it has been accused of multiple human rights abuses <br>
 
 **Military expenditures**<br>
-5.2% of GDP (2019 est.)<br>
-4.4% of GDP (2018 est.)<br>
-2.9% of GDP (2017 est.)<br>
-2.2% of GDP (2016 est.)<br>
-1.8% of GDP (2015 est.)<br>
+5.2% of GDP (approximately $7.51 billion) (2019 est.)<br>
+4.4% of GDP (approximately $9.92 billion) (2018 est.)<br>
+2.9% of GDP (approximately $8.53 billion) (2017 est.)<br>
+2.2% of GDP (approximately $7.73 billion) (2016 est.)<br>
+1.8% of GDP (approximately $9.3 billion) (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 125-150,000 active personnel, including about 25-30,000 National Guard (2021)<br>

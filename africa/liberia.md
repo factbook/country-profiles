@@ -212,6 +212,9 @@ _aerosolized dust or soil contact diseases_: Lassa fever<br>
 **Children under the age of 5 years underweight**<br>
 10.9% (2019/20)<br>
 
+**Child marriage**<br>
+_men married by age 18_: 8.4% (2020 est.)<br>
+
 **Education expenditures**<br>
 2.3% of GDP (2020)<br>
 
@@ -623,18 +626,18 @@ _subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 A8<br>
 
 **Airports**<br>
-_total_: 29 (2013)<br>
+_total_: 29 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _over 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1 (2019)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 27<br>
 _1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 8<br>
-_under 914 m_: 14 (2013)<br>
+_under 914 m_: 14 (2021)<br>
 
 **Pipelines**<br>
 4 km oil (2013)<br>
@@ -665,10 +668,10 @@ note(s) - the AFL Air Wing was previously disbanded in 2005 and has been under d
 
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>
-0.6% of GDP (2019 est.)<br>
-0.5% of GDP (2018 est.)<br>
-0.4% of GDP (2017 est.)<br>
-0.4% of GDP (2016 est.)<br>
+0.6% of GDP (approximately $25 million) (2019 est.)<br>
+0.5% of GDP (approximately $20 million) (2018 est.)<br>
+0.4% of GDP (approximately $19 million) (2017 est.)<br>
+0.4% of GDP (approximately $18 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 personnel (2021)<br>

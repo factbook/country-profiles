@@ -670,19 +670,19 @@ _inventory of registered aircraft operated by air carriers_: 3<br>
 5U<br>
 
 **Airports**<br>
-_total_: 30 (2013)<br>
+_total_: 30 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 10<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 6<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 20<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 15<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -710,10 +710,10 @@ note - the Gendarmerie is subordinate to the Ministry of Defense and has primary
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>
-1.7% of GDP (2019 est.)<br>
-1.9% of GDP (2018 est.)<br>
-2% of GDP (2017 est.)<br>
-1.6% of GDP (2016 est.)<br>
+1.7% of GDP (approximately $260 million) (2019 est.)<br>
+1.9% of GDP (approximately $270 million) (2018 est.)<br>
+2% of GDP (approximately $270 million) (2017 est.)<br>
+1.6% of GDP (approximately $210 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active troops (est. 6,000 Army; 200 Air Force; 4,000 Gendarmerie); est. 3,000 National Guard (2021)<br>
@@ -743,7 +743,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic St
 <p>Libya claims about 25,000 sq km in a currently dormant dispute in the Tommo region; location of Benin-Niger-Nigeria tripoint is unresolved; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries; the dispute with Burkina Faso was referred to the ICJ in 2010</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 187,145 (Nigeria), 61,534 (Mali) (2022)<br>
+_refugees (country of origin)_: 187,146 (Nigeria), 61,534 (Mali) (2022)<br>
 _IDPs_: 264,257 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

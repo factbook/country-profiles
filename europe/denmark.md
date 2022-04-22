@@ -629,7 +629,7 @@ _annual freight traffic on registered air carriers_: 0 mt-km (2015)<br>
 OY<br>
 
 **Airports**<br>
-_total_: 80 (2013)<br>
+_total_: 80 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 28<br>
@@ -637,12 +637,12 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 7<br>
 _1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 12<br>
-_under 914 m_: 2 (2017)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 52<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 47 (2013)<br>
+_under 914 m_: 47 (2021)<br>
 
 **Pipelines**<br>
 1536 km gas, 330 km oil (2015)<br>
@@ -678,9 +678,9 @@ note - the Danish military maintains a Joint Arctic Command with the mission of 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
-1.3% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
-1.1% of GDP (2017)<br>
+1.3% of GDP (approximately $5.02 billion) (2019)<br>
+1.3% of GDP (approximately $4.8 billion) (2018)<br>
+1.1% of GDP (approximately $4.11 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Danish military has approximately 16,000 active duty personnel (8,000 Army; 3,000 Navy; 3,000 Air Force; 2,000 other) (2021)<br>

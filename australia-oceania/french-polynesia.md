@@ -556,19 +556,19 @@ _inventory of registered aircraft operated by air carriers_: 19 (registered in F
 F-OH<br>
 
 **Airports**<br>
-_total_: 54 (2013)<br>
+_total_: 54 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 45<br>
 _over 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 33<br>
-_under 914 m_: 5 (2017)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 9<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 5 (2013)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>

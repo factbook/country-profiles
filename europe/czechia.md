@@ -623,8 +623,8 @@ _total_: 9.66 million (2022 est.)<br>
 _percent of population_: 90% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,802,644 (2020)<br>
-_subscriptions per 100 inhabitants_: 35.51 (2020 est.)<br>
+_total_: 3,845,426 (2021)<br>
+_subscriptions per 100 inhabitants_: 35.91 (2021 est.)<br>
 
 ## Transportation
 
@@ -638,7 +638,7 @@ _annual freight traffic on registered air carriers_: 25.23 million mt-km (2018)<
 OK<br>
 
 **Airports**<br>
-_total_: 128 (2013)<br>
+_total_: 128 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 41<br>
@@ -646,13 +646,13 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 9<br>
 _1,524 to 2,437 m_: 12<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 16 (2017)<br>
+_under 914 m_: 16 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 87<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 25<br>
-_under 914 m_: 61 (2013)<br>
+_under 914 m_: 61 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -683,10 +683,10 @@ Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces Direct
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
-1.3% of GDP (2020 est.)<br>
-1.2% of GDP (2019)<br>
-1.1% of GDP (2018)<br>
-1% of GDP (2017)<br>
+1.3% of GDP (2020)<br>
+1.2% of GDP (approximately $4.05 billion) (2019)<br>
+1.1% of GDP (approximately $3.8 billion) (2018)<br>
+1% of GDP (approximately $3.4 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Czech military has approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2021)<br>

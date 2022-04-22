@@ -214,6 +214,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 26.4% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 12.7% (2018)<br>
+_women married by age 18_: 40.3% (2018)<br>
+_men married by age 18_: 11.8% (2018 est.)<br>
+
 **Education expenditures**<br>
 2.9% of GDP (2019)<br>
 
@@ -640,7 +645,7 @@ _annual freight traffic on registered air carriers_: 16.25 million mt-km (2018)<
 5R<br>
 
 **Airports**<br>
-_total_: 83 (2013)<br>
+_total_: 83 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 26<br>
@@ -648,13 +653,13 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 16<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 57<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 38<br>
-_under 914 m_: 18 (2013)<br>
+_under 914 m_: 18 (2021)<br>
 
 **Railways**<br>
 _total_: 836 km (2018)<br>
@@ -681,10 +686,10 @@ note - the National Gendarmerie is responsible for maintaining law and order in 
 
 **Military expenditures**<br>
 0.7% of GDP (2020 est.)<br>
-0.5% of GDP (2019 est.)<br>
-0.5% of GDP (2018 est.)<br>
-0.5% of GDP (2017 est.)<br>
-0.5% of GDP (2016 est.)<br>
+0.5% of GDP (approximately $130 million) (2019 est.)<br>
+0.5% of GDP (approximately $130 million) (2018 est.)<br>
+0.5% of GDP (approximately $120 million) (2017 est.)<br>
+0.5% of GDP (approximately $120 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); est. 10,000 Gendarmerie (2021)<br>

@@ -537,12 +537,12 @@ _inventory of registered aircraft operated by air carriers_: 6<br>
 VP-C<br>
 
 **Airports**<br>
-_total_: 3 (2020)<br>
+_total_: 3 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>
 _1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>

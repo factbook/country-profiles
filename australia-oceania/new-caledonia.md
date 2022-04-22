@@ -559,18 +559,18 @@ _number of registered air carriers_: 3 (registered in France) (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 15 (registered in France)<br>
 
 **Airports**<br>
-_total_: 25 (2013)<br>
+_total_: 25 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 12<br>
 _over 3,047 m_: 1<br>
 _914 to 1,523 m_: 10<br>
-_under 914 m_: 1 (2019)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 13<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 8 (2013)<br>
+_under 914 m_: 8 (2021)<br>
 
 **Heliports**<br>
 8 (2013)<br>

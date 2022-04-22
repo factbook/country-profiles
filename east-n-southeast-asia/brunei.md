@@ -603,11 +603,11 @@ _annual freight traffic on registered air carriers_: 129.35 million mt-km (2018)
 V8<br>
 
 **Airports**<br>
-_total_: 1 (2020)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_over 3,047 m_: 1 (2019)<br>
+_over 3,047 m_: 1 (2021)<br>
 
 **Heliports**<br>
 3 (2013)<br>
@@ -640,9 +640,9 @@ Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Bru
 **Military expenditures**<br>
 2.9% of GDP (2021 est.)<br>
 3.7% of GDP (2020 est.)<br>
-3.1% of GDP (2019)<br>
-2.7% of GDP (2018)<br>
-2.8% of GDP (2017)<br>
+3.1% of GDP (approximately $870 million) (2019)<br>
+2.7% of GDP (approximately $720 million) (2018)<br>
+2.8% of GDP (approximately $750 million) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,500 total active troops (4,500 Army; 1,000 Navy; 1,000 Air Force) (2021)<br>

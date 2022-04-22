@@ -626,15 +626,15 @@ _annual freight traffic on registered air carriers_: 7,323,040,000 mt-km (2018)<
 LX<br>
 
 **Airports**<br>
-_total_: 2 (2013)<br>
+_total_: 2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_over 3,047 m_: 1 (2019)<br>
+_over 3,047 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -665,11 +665,11 @@ _river port(s)_: Mertert (Moselle)<br>
 Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2021)<br>
 
 **Military expenditures**<br>
-0.6% of GDP (2021 est.)<br>
+0.5% of GDP (2021 est.)<br>
 0.6% of GDP (2020)<br>
-0.5% of GDP (2019)<br>
-0.5% of GDP (2018)<br>
-0.5% of GDP (2017)<br>
+0.5% of GDP (approximately $420 million) (2019)<br>
+0.5% of GDP (approximately $380 million) (2018)<br>
+0.5% of GDP (approximately $370 million) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Luxembourg Army has approximately 900 active personnel (2021)<br>

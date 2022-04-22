@@ -216,6 +216,10 @@ _respiratory diseases_: Covid-19 (2020)<br>
 **Children under the age of 5 years underweight**<br>
 1.5% (2018/19)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 2% (2018)<br>
+_women married by age 18_: 14.7% (2018 est.)<br>
+
 **Education expenditures**<br>
 4.3% of GDP (2018)<br>
 
@@ -656,7 +660,7 @@ _annual freight traffic on registered air carriers_: 5,949,210,000 mt-km (2018)<
 TC<br>
 
 **Airports**<br>
-_total_: 98 (2013)<br>
+_total_: 98 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 91<br>
@@ -664,13 +668,13 @@ _over 3,047 m_: 16<br>
 _2,438 to 3,047 m_: 38<br>
 _1,524 to 2,437 m_: 17<br>
 _914 to 1,523 m_: 16<br>
-_under 914 m_: 4 (2013)<br>
+_under 914 m_: 4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
 20 (2013)<br>
@@ -708,9 +712,9 @@ note(s) - the Gendarmerie is responsible for the maintenance of the public order
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
 1.9% of GDP (2020)<br>
-1.9% of GDP (2019)<br>
-1.8% of GDP (2018)<br>
-1.5% of GDP (2017)<br>
+1.9% of GDP (approximately $36.3 billion) (2019)<br>
+1.8% of GDP (approximately $37.2 billion) (2018)<br>
+1.5% of GDP (approximately $32.8 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 400,000 active duty personnel (300,000 Army; 50,000 Navy; 50,000 Air Force); approximately 150,000 Gendarmerie (2021)<br>
@@ -724,7 +728,7 @@ note - as of 2019, women made up about .3% of the military's full-time personnel
 
 **Military deployments**<br>
 est. 200 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); est. 25-35,000 Cyprus; 300 Kosovo (NATO/KFOR); 100 Lebanon (UNIFIL); est. 3-5,000 Qatar; est. 200 Somalia (training mission); est. 10-20,000 Syria (2021)<br>
-note(s) - between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018; its most recent incursions were smaller-scale raids in April and February of 2021; in 2020, Turkey deployed an undetermined number of Turkish military troops and an estimated 3,500-5,000 Syrian fighters to Libya to support the Libyan Government of National Accord (GNA)<br><br>in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years<br>
+note(s) - between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale incursions in 2021 and early 2022; in 2020, Turkey deployed an undetermined number of Turkish military troops and an estimated 3,500-5,000 Syrian fighters to Libya to support the Libyan Government of National Accord (GNA)<br><br>in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years<br>
 
 **Military - note**<br>
 Turkey is a NATO ally (joined 1952) and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO Missile Defense<br><br>as of 2021, the Turkish Land Forces continued an overhaul under the "Force 2014" program with the intent of producing a 20-30% smaller, more highly trained force characterized by greater mobility and firepower and capable of joint and combined operations<br><br>the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines (as of 2021); the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications <br><br>the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and is developing an integrated missile defense system; in a controversial move, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system <br><br>in recent years, the TLFC has taken on increasing international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; Turkey in recent years has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan<br> <p>the military has a substantial stake in Turkey's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production</p> (2021)<br>

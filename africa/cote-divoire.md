@@ -219,6 +219,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Children under the age of 5 years underweight**<br>
 12.8% (2016)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 7% (2016)<br>
+_women married by age 18_: 27% (2016)<br>
+_men married by age 18_: 3.5% (2016 est.)<br>
+
 **Education expenditures**<br>
 3.7% of GDP (2019)<br>
 
@@ -350,7 +355,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010); Vice President (vacant); note - Vice President Daniel Kablan DUNCAN resigned 8 July 2020; note - the 2016 constitution calls for the establishment of the position of vice-president<br>
-_head of government_: Prime Minister Patrick ACHI (since 10 March 2021); note - ACHI was acting prime minister from 8-10 March 2021 and became prime minister upon former Prime Minister Hamed BAKAYOKO's death on 10 March 2021<br>
+_head of government_: Prime Minister Patrick ACHI (since 10 March 2021) resigns 13 April 2022; note- President Alassane Dramane OUATTARA to appoint new prime minister and cabinet in April.&nbsp;<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term ; election last held on 31 October 2020 (next to be held in October 2025); vice president elected on same ballot as president; prime minister appointed by the president; note &ndash; because President OUATTARA promulgated the new constitution during his second term, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms<br>
 _election results_: Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%<br>
@@ -656,19 +661,19 @@ _annual freight traffic on registered air carriers_: 5.8 million mt-km (2018)<br
 TU<br>
 
 **Airports**<br>
-_total_: 27 (2013)<br>
+_total_: 27 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 7<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 4 (2017)<br>
+_1,524 to 2,437 m_: 4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 20<br>
 _1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 11<br>
-_under 914 m_: 3 (2013)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -705,10 +710,10 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 
 **Military expenditures**<br>
 1.1% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.)<br>
-1.4% of GDP (2018 est.)<br>
-1.3% of GDP (2017 est.)<br>
-1.7% of GDP (2016 est.)<br>
+0.1% of GDP (approximately $710 million) (2019 est.)<br>
+1.2% of GDP (approximately $780 million) (2018 est.)<br>
+1.1% of GDP (approximately $720 million) (2017 est.)<br>
+1.2% of GDP (approximately $720 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active troops (23,000 Army, including about 2,000 Special Forces; 1,000 Navy; 1,000 Air Force); est. 5-10,000 Gendarmerie (2021)<br>

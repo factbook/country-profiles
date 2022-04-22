@@ -312,15 +312,15 @@ _total_: 1,542 includes usage for Jan Mayen (2021 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 4 (2013)<br>
+_total_: 4 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_2,438 to 3,047 m_: 1 (2019)<br>
+_2,438 to 3,047 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3<br>
-_under 914 m_: 3 (2013)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>

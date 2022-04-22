@@ -223,6 +223,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Children under the age of 5 years underweight**<br>
 12.6% (2017/18)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 5% (2018)<br>
+_women married by age 18_: 19.3% (2018)<br>
+_men married by age 18_: 3.9% (2018 est.)<br>
+
 **Education expenditures**<br>
 4% of GDP (2018)<br>
 
@@ -659,18 +664,18 @@ _annual passenger traffic on registered air carriers_: 467,438 (2018)<br>
 9G<br>
 
 **Airports**<br>
-_total_: 10 (2013)<br>
+_total_: 10 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 7<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 3<br>
-_914 to 1,523 m_: 2 (2017)<br>
+_914 to 1,523 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3<br>
-_914 to 1,523 m_: 3 (2013)<br>
+_914 to 1,523 m_: 3 (2021)<br>
 
 **Pipelines**<br>
 681.3 km gas, 11.4 km oil, 435 km refined products (2013)<br>
@@ -702,10 +707,10 @@ Ghana Armed Forces: Army, Navy, Air Force (2021)<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>
-0.4% of GDP (2019)<br>
-0.3% of GDP (2018)<br>
-0.3% of GDP (2017)<br>
-0.3% of GDP (2016)<br>
+0.4% of GDP (approximately $360 million) (2019)<br>
+0.3% of GDP (approximately $330 million) (2018)<br>
+0.3% of GDP (approximately $300 million) (2017)<br>
+0.3% of GDP (approximately $300 million) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>

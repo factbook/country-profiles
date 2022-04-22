@@ -390,7 +390,7 @@ $300 million NA (2017 est.)<br>
 $210 million (2016 est.)<br>
 
 **Imports - partners**<br>
-Germany 32%, United States 22%%, Italy 9%, France 7%, Seychelles 7% (2019)<br>
+Germany 32%, United States 22%, Italy 9%, France 7%, Seychelles 7% (2019)<br>
 
 **Imports - commodities**<br>
 recreational boats, aircraft, refined petroleum, cars, furniture (2019)<br>
@@ -508,16 +508,16 @@ _subscriptions per 100 inhabitants_: 22.29 (2020 est.)<br>
 VP-L<br>
 
 **Airports**<br>
-_total_: 4 (2020)<br>
+_total_: 4 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 1 (2019)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_914 to 1,523 m_: 2 (2021)<br>
 
 **Roadways**<br>
 _total_: 200 km (2007)<br>

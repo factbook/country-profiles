@@ -618,7 +618,7 @@ _annual passenger traffic on registered air carriers_: 927,153 (2018)<br>
 5A<br>
 
 **Airports**<br>
-_total_: 146 (2013)<br>
+_total_: 146 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 68<br>
@@ -626,7 +626,7 @@ _over 3,047 m_: 23<br>
 _2,438 to 3,047 m_: 7<br>
 _1,524 to 2,437 m_: 30<br>
 _914 to 1,523 m_: 7<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 78<br>
@@ -634,7 +634,7 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 14<br>
 _914 to 1,523 m_: 37<br>
-_under 914 m_: 20 (2013)<br>
+_under 914 m_: 20 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>

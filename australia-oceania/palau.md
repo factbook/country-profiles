@@ -528,15 +528,15 @@ _inventory of registered aircraft operated by air carriers_: 1<br>
 T8<br>
 
 **Airports**<br>
-_total_: 3 (2013)<br>
+_total_: 3 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2019)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
-_1,524 to 2,437 m_: 2 (2013)<br>
+_1,524 to 2,437 m_: 2 (2021)<br>
 
 **Roadways**<br>
 _total_: 125 km (2018)<br>

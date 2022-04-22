@@ -555,11 +555,11 @@ _annual passenger traffic on registered air carriers_: 274,280 (2018)<br>
 P4<br>
 
 **Airports**<br>
-_total_: 1 (2020)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_2,438 to 3,047 m_: 1 (2019)<br>
+_2,438 to 3,047 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 1,000 km (2010)<br>

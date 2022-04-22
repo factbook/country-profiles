@@ -561,7 +561,7 @@ _inventory of registered aircraft operated by air carriers_: 216<br>
 B<br>
 
 **Airports**<br>
-_total_: 37 (2013)<br>
+_total_: 37 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 35<br>
@@ -569,12 +569,12 @@ _over 3,047 m_: 8<br>
 _2,438 to 3,047 m_: 7<br>
 _1,524 to 2,437 m_: 10<br>
 _914 to 1,523 m_: 8<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
 31 (2013)<br>
@@ -612,9 +612,9 @@ note - the Armed Forces also have Military Police and Armed Forces Reserve comma
 **Military expenditures**<br>
 2.1% of GDP (2021 est.)<br>
 2.2% of GDP (2020)<br>
-1.9% of GDP (2019)<br>
-1.7% of GDP (2018)<br>
-1.8% of GDP (2017)<br>
+1.8% of GDP (approximately $23.6 billion) (2019)<br>
+1.7% of GDP (approximately $21.9 billion) (2018)<br>
+1.8% of GDP (approximately $22.1 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Taiwan military has approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2021)<br>

@@ -196,6 +196,10 @@ NA<br>
 2.1% (2019/20)<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0.7% Includes both the Gaza Strip and the West Bank (2020)<br>
+_women married by age 18_: 13.4% Includes both the Gaza Strip and the West Bank (2020 est.)<br>
+
 **Education expenditures**<br>
 5.3% of GDP (2018)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
@@ -440,11 +444,11 @@ _subscriptions per 100 inhabitants_: 14 (2016 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2013)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_under 914 m_: 1 (2019)<br>
+_under 914 m_: 1 (2021)<br>
 <strong>note</strong> - non-operational<br>
 
 **Heliports**<br>

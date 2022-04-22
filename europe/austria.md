@@ -645,7 +645,7 @@ _annual freight traffic on registered air carriers_: 373.51 million mt-km (2018)
 OE<br>
 
 **Airports**<br>
-_total_: 50 (2020)<br>
+_total_: 50 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 24<br>
@@ -653,13 +653,13 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 13 (2017)<br>
+_under 914 m_: 13 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 28<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 24 (2013)<br>
+_under 914 m_: 24 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -691,11 +691,11 @@ _river port(s)_: Enns, Krems, Linz, Vienna (Danube)<br>
 Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2021)<br>
 
 **Military expenditures**<br>
-0.85% of GDP (2021 est.)<br>
+0.9% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
-0.7% of GDP (2019)<br>
-0.7% of GDP (2018)<br>
-0.8% of GDP (2017)<br>
+0.7% of GDP (approximately $3.78 billion) (2019)<br>
+0.7% of GDP (approximately $3.82 billion) (2018)<br>
+0.8% of GDP (approximately $3.71 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Austrian Armed Forces have approximately 25,000 total active duty personnel (20,000 Army; 5,000 Air Force) (2021)<br>

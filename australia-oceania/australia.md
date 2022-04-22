@@ -653,7 +653,7 @@ _annual freight traffic on registered air carriers_: 2,027,640,000 mt-km (2018)<
 VH<br>
 
 **Airports**<br>
-_total_: 418 (2020)<br>
+_total_: 418 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 349<br>
@@ -661,13 +661,13 @@ _over 3,047 m_: 11<br>
 _2,438 to 3,047 m_: 14<br>
 _1,524 to 2,437 m_: 155<br>
 _914 to 1,523 m_: 155<br>
-_under 914 m_: 14 (2017)<br>
+_under 914 m_: 14 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 131<br>
 _1,524 to 2,437 m_: 16<br>
 _914 to 1,523 m_: 101<br>
-_under 914 m_: 14 (2013)<br>
+_under 914 m_: 14 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -707,9 +707,9 @@ Australian Defense Force (ADF): Australian Army (includes Special Operations Com
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
 2.1% of GDP (2020)<br>
-2% of GDP (2019)<br>
-1.9% of GDP (2018)<br>
-2% of GDP (2017)<br>
+2% of GDP (approximately $31.5 billion) (2019)<br>
+1.9% of GDP (approximately $29.8 billion) (2018)<br>
+2% of GDP (approximately $29.7 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Australian Defense Force has approximately 59,000 total active troops (29,000 Army; 15,000 Navy; 15,000 Air Force) (2021)<br>

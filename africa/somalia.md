@@ -213,6 +213,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 23% (2009)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 16.8% (2020)<br>
+_women married by age 18_: 35.5% (2020)<br>
+_men married by age 18_: 5.6% (2020 est.)<br>
+
 **Education expenditures**<br>
 NA<br>
 
@@ -602,20 +607,20 @@ _annual passenger traffic on registered air carriers_: 4,486 (2018)<br>
 6O<br>
 
 **Airports**<br>
-_total_: 52 (2020)<br>
+_total_: 52 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 8<br>
 _over 3,047 m_: 5<br>
 _2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 2 (2020)<br>
+_1,524 to 2,437 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 44<br>
 _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 16<br>
 _914 to 1,523 m_: 22<br>
-_under 914 m_: 1 (2020)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 15,000 km (2018)<br>
@@ -634,7 +639,11 @@ Ministry of Defense: Somali National Army (SNA); Ministry of Internal Security: 
 note(s) - Somalia also has numerous militia and regional forces operating throughout the country; these forces include ones that are clan- and warlord-based, semi-official paramilitary and special police forces (aka <em>darwish</em>), and externally-sponsored militias; the SNA is attempting to incorporate some of these militia units; in addition, Somaliland has army and naval forces under the Somaliland Ministry of Defense and Armed Forces<br>
 
 **Military expenditures**<br>
-from 2014-2019, Somalia allocated an estimated 5-6% of its GDP to military expenditures annually<br>
+5.6% of GDP (approximately $120 million) (2019 est.)<br>
+6% of GDP (approximately $120 million) (2018 est.)<br>
+5.9% of GDP (approximately $110 million) (2017 est.)<br>
+6% of GDP (approximately $110 million) (2016 est.)<br>
+5.9% of GDP (approximately $110 million) (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 estimates for the size of the Somali National Army (SNA) vary widely, from a low of about 10,000 to a high of some 25,000 due to inconsistent internal reporting and the ongoing attempts to integrate various militias (2021)<br>
@@ -647,7 +656,7 @@ the SNA is lightly armed with an inventory that includes a variety of older, sec
 18 is the legal minimum age for compulsory and voluntary military service; conscription is authorized, but not currently utilized (2021)<br>
 
 **Military - note**<br>
-<p>as of 2022, a significant portion of the country remained outside government control and under the control of the insurgent Islamist group al-Shabaab; al-Shabaab contested government control in some other areas (see Appendix T)<br><br>as of 2022, a significant portion of the SNA was comprised of militia forces that lacked the discipline, structure, weapons, and overall capabilities for effective military operations; of the SNA’s approximately 13 brigades, the most effective were assessed to be the US-trained Danab ("Lightning") Advanced Infantry Brigade and those of the Turkish-trained Gorgor ("Eagle") Special Division; in 2020-2021, the Danab Brigade conducted most of the SNA’s offensive operations in Somalia and nearly all counterterrorism operations against the al-Shabaab terrorist group; as of 2021, it numbered about 1,000 troops with an eventual projected strength of 3,000, while the Gorgor Division was estimated to have 4,500-5,000 trained troops</p> AMISOM has operated in the country with the approval of the United Nations (UN) since 2007; its peacekeeping mission includes assisting Somali forces in providing security for a stable political process, enabling the gradual handing over of security responsibilities from AMISOM to the Somali security forces, and reducing the threat posed by Al-Shabaab and other armed opposition groups; as of early 2022, AMISOM had about 20,000 military troops from six African countries deployed in Somalia; note - AMISOM's mandate scheduled to end on 31 March 2022; it is to be replaced by the AU Transition Mission in Somalia (ATMIS); the ATMIS mission will be to support the Somalia Federal Government (FGS) in implementing the security objectives of the FGS's security transition plan, a comprehensive strategy developed by the FGS and its international partners to gradually transfer security responsibilities from AMISOM to Somali security forces<br><br>UN Assistance Mission in Somalia (UNSOM) is mandated by the Security Council to work with the Federal Government of Somalia to support national reconciliation, provide advice on peace-building and state-building, monitor the human rights situation, and help coordinate the efforts of the international community<br><br>the UN Support Office in Somalia (UNSOS) is responsible for providing logistical field support to AMISOM, UNSOM, the Somali National Army, and the Somali Police Force on joint operations with AMISOM<br><br>the European Union Training Mission in Somalia (EUTM-S) has operated in the country since 2010; the EUTM provides advice and training to the Somali military; the US and Turkey maintain separate unilateral military training missions in Somalia; the UAE also maintains a military presence in Somalia (Somaliland)<br>
+<p>as of 2022, large parts of the country remained outside government control and under the control of the insurgent Islamist group al-Shabaab; al-Shabaab contested government control in some other areas (see Appendix T)<br><br>as of 2022, a significant portion of the SNA was comprised of militia forces that lacked the discipline, structure, weapons, and overall capabilities for effective military operations; of the SNA’s approximately 13 brigades, the most effective were assessed to be the US-trained Danab ("Lightning") Advanced Infantry Brigade and those of the Turkish-trained Gorgor ("Eagle") Special Division; in 2020-2021, the Danab Brigade conducted most of the SNA’s offensive operations in Somalia and nearly all counterterrorism operations against the al-Shabaab terrorist group; as of 2021, it numbered about 1,000 troops with an eventual projected strength of 3,000, while the Gorgor Division was estimated to have 4,500-5,000 trained troops</p> AMISOM has operated in the country with the approval of the United Nations (UN) since 2007; its peacekeeping mission includes assisting Somali forces in providing security for a stable political process, enabling the gradual handing over of security responsibilities from AMISOM to the Somali security forces, and reducing the threat posed by Al-Shabaab and other armed opposition groups; as of early 2022, AMISOM had about 20,000 military troops from six African countries deployed in Somalia; note - AMISOM's mandate scheduled to end on 31 March 2022; it is to be replaced by the AU Transition Mission in Somalia (ATMIS); the ATMIS mission will be to support the Somalia Federal Government (FGS) in implementing the security objectives of the FGS's security transition plan, a comprehensive strategy developed by the FGS and its international partners to gradually transfer security responsibilities from AMISOM to Somali security forces<br><br>UN Assistance Mission in Somalia (UNSOM) is mandated by the Security Council to work with the Federal Government of Somalia to support national reconciliation, provide advice on peace-building and state-building, monitor the human rights situation, and help coordinate the efforts of the international community<br><br>the UN Support Office in Somalia (UNSOS) is responsible for providing logistical field support to AMISOM, UNSOM, the Somali National Army, and the Somali Police Force on joint operations with AMISOM<br><br>the European Union Training Mission in Somalia (EUTM-S) has operated in the country since 2010; the EUTM provides advice and training to the Somali military; the US and Turkey maintain separate unilateral military training missions in Somalia; the UAE also maintains a military presence in Somalia (Somaliland)<br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau’s (IMB) Piracy Reporting Center (PRC) received one incident of piracy and armed robbery in 2021 for the Horn of Africa; while there were no recorded incidents, the IMB PRC warns that Somalia pirates continue to possess the capacity to carry out attacks in the Somali basin and wider Indian Ocean; in particular, the report warns that, "Masters and crew must remain vigilant and cautious when transiting these waters."; the presence of several naval task forces in the Gulf of Aden and additional anti-piracy measures on the part of ship operators, including the use of on-board armed security teams, contributed to the drop in incidents; the EU naval mission, Operation ATALANTA, continues its operations in the Gulf of Aden and Indian Ocean through 2022; naval units from China, India, Japan, Pakistan, South Korea, the US, and other countries also operate in conjunction with EU forces; China has established a logistical base in Djibouti to support its deployed naval units in the Horn of Africa</p><br>

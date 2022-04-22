@@ -569,7 +569,7 @@ _subscriptions per 100 inhabitants_: 23.46 (2020 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 29 (2013)<br>
+_total_: 29 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 17<br>
@@ -577,13 +577,13 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 7<br>
-_under 914 m_: 5 (2017)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 12<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 10 (2013)<br>
+_under 914 m_: 10 (2021)<br>
 
 **Roadways**<br>
 _total_: 26,862 km (includes 454 km of expressways) (2012)<br>

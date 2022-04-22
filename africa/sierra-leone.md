@@ -215,6 +215,11 @@ _aerosolized dust or soil contact diseases_: Lassa fever<br>
 **Children under the age of 5 years underweight**<br>
 13.5% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 8.6% (2019)<br>
+_women married by age 18_: 29.6% (2019)<br>
+_men married by age 18_: 4.1% (2019 est.)<br>
+
 **Education expenditures**<br>
 9.3% of GDP (2020)<br>
 
@@ -630,15 +635,15 @@ _annual freight traffic on registered air carriers_: 0 mt-km (2015)<br>
 9L<br>
 
 **Airports**<br>
-_total_: 8 (2013)<br>
+_total_: 8 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_over 3,047 m_: 1 (2019)<br>
+_over 3,047 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 7<br>
-_914 to 1,523 m_: 7<br>
+_914 to 1,523 m_: 7 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -666,11 +671,11 @@ _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>
 Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Command with Land Forces, Maritime Forces, and an Air Wing (2021)<br>
 
 **Military expenditures**<br>
-0.5% of GDP (2020 est.)<br>
-0.3% of GDP (2019 est.)<br>
-0.3% of GDP (2018 est.)<br>
-0.3% of GDP (2017 est.)<br>
-0.4% of GDP (2016 est.)<br>
+0.3% of GDP (2020 est.)<br>
+0.3% of GDP (approximately $35 million) (2019 est.)<br>
+0.3% of GDP (approximately $45 million) (2018 est.)<br>
+0.3% of GDP (approximately $40 million) (2017 est.)<br>
+0.4% of GDP (approximately $45 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Republic of Sierra Leone Armed Forces (RSLAF) have approximately 9,000 personnel, mostly ground forces (2021)<br>

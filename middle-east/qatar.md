@@ -624,17 +624,17 @@ _annual freight traffic on registered air carriers_: 12,666,710,000 mt-km (2018)
 A7<br>
 
 **Airports**<br>
-_total_: 6 (2013)<br>
+_total_: 6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
 _over 3,047 m_: 3<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -660,10 +660,10 @@ Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, in
 
 **Military expenditures**<br>
 4% of GDP (2020 est.)<br>
-3.4% of GDP (2019 est.)<br>
-3.3% of GDP (2018 est.)<br>
-3.4% of GDP (2017 est.)<br>
-4.1% of GDP (2016 est.)<br>
+3.4% of GDP (approximately $8.44 billion) (2019 est.)<br>
+3.3% of GDP (approximately $8.23 billion) (2018 est.)<br>
+3.4% of GDP (approximately $8.22 billion) (2017 est.)<br>
+4.1% of GDP (approximately $9.22 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 15,000 active personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2021)<br>

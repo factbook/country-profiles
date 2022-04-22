@@ -173,7 +173,7 @@ has one or more meteorological stations on each possession<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 4 (2020)<br>
+_total_: 4 (2021)<br>
 
 **Merchant marine**<br>
 _total_: 2<br>

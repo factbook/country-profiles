@@ -392,7 +392,7 @@ _exports of goods and services_: 62.7% (2017 est.)<br>
 _imports of goods and services_: -56.9% (2017 est.)<br>
 
 **Agricultural products**<br>
-bananas, coconuts, fruit, tropical fruit, plantains, roots/tubers nes, cassava, poultry, vegetables, mangoes/guavas<br>
+bananas, coconuts, fruit, tropical fruit, plantains, roots/tubers, cassava, poultry, vegetables, mangoes/guavas<br>
 
 **Industries**<br>
 tourism; clothing, assembly of electronic components, beverages, corrugated cardboard boxes, lime processing, coconut processing<br>
@@ -592,12 +592,12 @@ _subscriptions per 100 inhabitants_: 17.56 (2019 est.)<br>
 J6<br>
 
 **Airports**<br>
-_total_: 2 (2013)<br>
+_total_: 2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1 (2019)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 1,210 km (2011)<br>

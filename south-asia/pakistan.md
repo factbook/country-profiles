@@ -221,6 +221,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 23.1% (2017/18)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 3.6% (2018)<br>
+_women married by age 18_: 18.3% (2018)<br>
+_men married by age 18_: 4.7% (2018 est.)<br>
+
 **Education expenditures**<br>
 2.5% of GDP (2019)<br>
 
@@ -673,7 +678,7 @@ _annual freight traffic on registered air carriers_: 217.53 million mt-km (2018)
 AP<br>
 
 **Airports**<br>
-_total_: 151 (2013)<br>
+_total_: 151 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 108<br>
@@ -681,14 +686,14 @@ _over 3,047 m_: 15<br>
 _2,438 to 3,047 m_: 20<br>
 _1,524 to 2,437 m_: 43<br>
 _914 to 1,523 m_: 20<br>
-_under 914 m_: 10 (2017)<br>
+_under 914 m_: 10 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 43<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 9<br>
 _914 to 1,523 m_: 9<br>
-_under 914 m_: 24 (2013)<br>
+_under 914 m_: 24 (2021)<br>
 
 **Heliports**<br>
 23 (2013)<br>
@@ -723,10 +728,10 @@ note(s) - the National Guard is a paramilitary force and one of the Army's reser
 
 **Military expenditures**<br>
 4% of GDP (2020 est.)<br>
-4.1% of GDP (2019)<br>
-4.1% of GDP (2018)<br>
-3.8% of GDP (2017)<br>
-3.6% of GDP (2016)<br>
+4.1% of GDP (approximately $21.6 billion) (2019)<br>
+4.1% of GDP (approximately $21.6 billion) (2018)<br>
+3.8% of GDP (approximately $19.3 billion) (2017)<br>
+3.6% of GDP (approximately $18 billion) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 625,000 active personnel (550,000 Army; 30,000 Navy; 45,000 Air Force); approximately 150,000 paramilitary (2021)<br>

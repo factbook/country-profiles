@@ -580,20 +580,20 @@ _annual freight traffic on registered air carriers_: 0 mt-km<br>
 Z8<br>
 
 **Airports**<br>
-_total_: 89 (2020)<br>
+_total_: 89 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 1 (2020)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 84<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 12<br>
 _914 to 1,523 m_: 38<br>
-_under 914 m_: 33 (2020)<br>
+_under 914 m_: 33 (2021)<br>
 
 **Heliports**<br>
 3 (2020)<br>
@@ -619,10 +619,10 @@ note - numerous irregular/militia forces operate in the country with official kn
 
 **Military expenditures**<br>
 2.3% of GDP (2020 est.)<br>
-3.1% of GDP (2019 est.)<br>
-3.2% of GDP (2018 est.)<br>
-2.1% of GDP (2017 est.)<br>
-4.4% of GDP (2016 est.)<br>
+3.1% of GDP (approximately $1.62 billion) (2019 est.)<br>
+3.2% of GDP (approximately $1.54 billion) (2018 est.)<br>
+2.1% of GDP (approximately $660 million) (2017 est.)<br>
+4.4% of GDP (approximately $1.0 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the South Sudan People’s Defense Force (SSPDF) has an estimated 150-200,000 active personnel, mostly ground forces with small contingents of air and riverine forces (2021)<br>

@@ -214,6 +214,11 @@ _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
 **Children under the age of 5 years underweight**<br>
 3.7% (2018/19)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 1.9% (2018)<br>
+_women married by age 18_: 5.8% (2018)<br>
+_men married by age 18_: 3.2% (2018 est.)<br>
+
 **Education expenditures**<br>
 NA<br>
 
@@ -648,14 +653,14 @@ _annual freight traffic on registered air carriers_: 130,000 mt-km (2018)<br>
 4O<br>
 
 **Airports**<br>
-_total_: 5 (2013)<br>
+_total_: 5 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1 (2019)<br>
-_under 914 m_: 1<br>
+_914 to 1,523 m_: 1<br>
+_under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
 1 (2012)<br>
@@ -682,11 +687,11 @@ _major seaport(s)_: Bar<br>
 the Armed Forces of the Republic of Montenegro: joint force with land, air, and naval elements (2021)<br>
 
 **Military expenditures**<br>
-1.7% of GDP (2021 est.)<br>
+1.6% of GDP (2021 est.)<br>
 1.7% of GDP (2020)<br>
-1.3% of GDP (2019)<br>
-1.4% of GDP (2018)<br>
-1.3% of GDP (2017)<br>
+1.3% of GDP (approximately $130 million) (2019)<br>
+1.4% of GDP (approximately $120 million) (2018)<br>
+1.3% of GDP (approximately $110 million) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 total active duty troops (2021)<br>
@@ -710,7 +715,7 @@ Montenegro officially became a member of NATO in 2017; Greece and Italy provide 
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 21,025 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
+<strong>note:</strong> 21,112 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

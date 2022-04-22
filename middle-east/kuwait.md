@@ -621,18 +621,18 @@ _annual freight traffic on registered air carriers_: 392.36 million mt-km (2018)
 9K<br>
 
 **Airports**<br>
-_total_: 7 (2013)<br>
+_total_: 7 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
-_914 to 1,523 m_: 1 (2019)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3<br>
 _1,524 to 2,437 m_: 1<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
 4 (2013)<br>
@@ -660,10 +660,10 @@ note(s) - the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercis
 
 **Military expenditures**<br>
 6.3% of GDP (2020 est.)<br>
-5.6% of GDP (2019)<br>
-5.1% of GDP (2018)<br>
-5.6% of GDP (2017)<br>
-5.9% of GDP (2016)<br>
+5.6% of GDP (approximately $10.2 billion) (2019)<br>
+5.1% of GDP (approximately $9.25 billion) (2018)<br>
+5.6% of GDP (approximately $10 billion) (2017)<br>
+5.9% of GDP (approximately $10.6 billion) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard; note – Army figures include the Kuwait Emiri Guard Authority (estimated 500 personnel) and the 25th Commando Brigade (strength not available) (2021)<br>

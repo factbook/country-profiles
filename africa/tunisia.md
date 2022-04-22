@@ -205,6 +205,11 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 1.6% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0% (2018)<br>
+_women married by age 18_: 1.5% (2018)<br>
+_men married by age 18_: 0% (2018 est.)<br>
+
 **Education expenditures**<br>
 7.3% of GDP (2016)<br>
 
@@ -631,20 +636,20 @@ _annual freight traffic on registered air carriers_: 13.23 million mt-km (2018)<
 TS<br>
 
 **Airports**<br>
-_total_: 29 (2013)<br>
+_total_: 29 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 15<br>
 _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 6<br>
 _1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 3 (2013)<br>
+_914 to 1,523 m_: 3 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 14<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 8 (2013)<br>
+_under 914 m_: 8 (2021)<br>
 
 **Pipelines**<br>
 68 km condensate, 3111 km gas, 1381 km oil, 453 km refined products (2013)<br>
@@ -673,10 +678,10 @@ note - the National Police has primary responsibility for law enforcement in the
 
 **Military expenditures**<br>
 2.9% of GDP (2020 est.)<br>
-3.8% of GDP (2019 est.)<br>
-3.9% of GDP (2018 est.)<br>
-4% of GDP (2017 est.)<br>
-4.4% of GDP (2016 est.)<br>
+3.8% of GDP (approximately $2.81 billion) (2019 est.)<br>
+3.9% of GDP (approximately $2.84 billion) (2018 est.)<br>
+4% of GDP (approximately $2.81 billion) (2017 est.)<br>
+4.4% of GDP (approximately $2.95 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 35,000 active personnel (25,000 Army; 5,000 Navy; 5,000 Air Force); est. 10,000 National Guard (2021)<br>

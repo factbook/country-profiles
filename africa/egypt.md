@@ -670,21 +670,21 @@ _annual freight traffic on registered air carriers_: 437.63 million mt-km (2018)
 SU<br>
 
 **Airports**<br>
-_total_: 83 (2013)<br>
+_total_: 83 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 72<br>
 _over 3,047 m_: 15<br>
 _2,438 to 3,047 m_: 36<br>
 _1,524 to 2,437 m_: 15<br>
-_under 914 m_: 6 (2017)<br>
+_under 914 m_: 6 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 11<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 3 (2013)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Heliports**<br>
 7 (2013)<br>
@@ -723,10 +723,10 @@ note(s) - the Public Security Sector Police are responsible for law enforcement 
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.3% of GDP (2019)<br>
-1.4% of GDP (2018)<br>
-1.6% of GDP (2017)<br>
-1.8% of GDP (2016)<br>
+1.3% of GDP (approximately $15.8 billion) (2019)<br>
+1.4% of GDP (approximately $15.9 billion) (2018)<br>
+1.6% of GDP (approximately $16.7 billion) (2017)<br>
+1.8% of GDP (approximately $17.5 billion) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 450,000 total active personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces (2021)<br>
@@ -756,7 +756,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province; Mujahidin 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 138,853 (Syria), 52,003 (Sudan) (refugees and asylum seekers), 20,713 (South Sudan) (refugees and asylum seekers), 20,927 (Eritrea) (refugees and asylum seekers), 15,484 (Ethiopia) (refugees and asylum seekers), 9,891 (Yemen) (refugees and asylum seekers), 6,807 (Iraq) (refugees and asylum seekers), 6,765 (Somalia) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 140,789 (Syria), 52,003 (Sudan) (refugees and asylum seekers), 20,713 (South Sudan) (refugees and asylum seekers), 20,927 (Eritrea) (refugees and asylum seekers), 15,484 (Ethiopia) (refugees and asylum seekers), 9,891 (Yemen) (refugees and asylum seekers), 6,807 (Iraq) (refugees and asylum seekers), 6,765 (Somalia) (refugees and asylum seekers) (2022)<br>
 _stateless persons_: 7 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

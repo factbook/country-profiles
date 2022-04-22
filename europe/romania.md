@@ -646,19 +646,19 @@ _annual freight traffic on registered air carriers_: 2.71 million mt-km (2018)<b
 YR<br>
 
 **Airports**<br>
-_total_: 45 (2013)<br>
+_total_: 45 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 26<br>
 _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 10<br>
 _1,524 to 2,437 m_: 11<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 19<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 14 (2013)<br>
+_under 914 m_: 14 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -695,10 +695,10 @@ Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Interna
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
-2.1% of GDP (2020)<br>
-1.8% of GDP (2019)<br>
-1.8% of GDP (2018)<br>
-1.7% of GDP (2017)<br>
+2% of GDP (2020)<br>
+1.8% of GDP (approximately $7.47 billion) (2019)<br>
+1.8% of GDP (approximately $6.9 billion) (2018)<br>
+1.7% of GDP (approximately $6.2 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Romanian Armed Forces have approximately 67,000 active duty personnel (50,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2021)<br>
@@ -727,9 +727,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 709,249 (Ukraine) (as of 12 April 2022)<br>
+_refugees (country of origin)_: 750,693 (Ukraine) (as of 18 April 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 9,519 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
+<strong>note:</strong> 9,778 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

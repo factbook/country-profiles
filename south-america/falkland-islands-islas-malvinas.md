@@ -493,16 +493,16 @@ _inventory of registered aircraft operated by air carriers_: 5<br>
 VP-F<br>
 
 **Airports**<br>
-_total_: 7 (2020)<br>
+_total_: 7 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _2,438 to 3,047 m_: 1<br>
-_914 to 1,523 m_: 1 (2019)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 5<br>
-_under 914 m_: 5 (2013)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Roadways**<br>
 _total_: 440 km (2008)<br>

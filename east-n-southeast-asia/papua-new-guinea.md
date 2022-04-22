@@ -211,6 +211,11 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Children under the age of 5 years underweight**<br>
 27.8% (2009/11)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 8% (2018)<br>
+_women married by age 18_: 27.3% (2018)<br>
+_men married by age 18_: 3.7% (2018 est.)<br>
+
 **Education expenditures**<br>
 1.9% of GDP (2018)<br>
 
@@ -629,7 +634,7 @@ _annual freight traffic on registered air carriers_: 30.93 million mt-km (2018)<
 P2<br>
 
 **Airports**<br>
-_total_: 561 (2013)<br>
+_total_: 561 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 21<br>
@@ -637,13 +642,13 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 12<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 540<br>
 _1,524 to 2,437 m_: 11<br>
 _914 to 1,523 m_: 53<br>
-_under 914 m_: 476 (2013)<br>
+_under 914 m_: 476 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -674,10 +679,10 @@ Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements
 
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>
-0.3% of GDP (2019)<br>
-0.3% of GDP (2018)<br>
-0.3% of GDP (2017)<br>
-0.4% of GDP (2016)<br>
+0.3% of GDP (approximately $100 million) (2019)<br>
+0.3% of GDP (approximately $100 million) (2018)<br>
+0.3% of GDP (approximately $110 million) (2017)<br>
+0.4% of GDP (approximately $110 million) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Papau New Guinea Defense Force has approximately 3,000 active duty troops, including a land element of about 2,500 (2021)<br>

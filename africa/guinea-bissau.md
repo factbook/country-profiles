@@ -208,6 +208,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 18.8% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 8.1% (2019)<br>
+_women married by age 18_: 25.7% (2019)<br>
+_men married by age 18_: 2.2% (2019 est.)<br>
+
 **Education expenditures**<br>
 2.9% of GDP (2019)<br>
 
@@ -329,7 +334,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Umaro Sissoco EMBALO elected president in second round; percent of vote in first round - Domingos Simoes PEREIRA (PAIGC) 40.1%, Umaro Sissoco EMBALO (Madem G15) 27.7%, Nuno Gomez NABIAM (APU-PDGB) 13.2%, Jose Mario VAZ (independent) 12.4%, other 6.6%; percent of vote in second round - Umaro Sissoco EMBALO 53.6%, Domingos Simoes PEREIRA 46.5%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National People's Assembly or Assembleia Nacional Popular (102 seats; 100 members directly elected in 27 multi-seat constituencies by closed party-list proportional representation vote and 2 elected in single-seat constituencies for citizens living abroad (1 for Africa, 1 for Europe); all members serve 4-year terms)<br>
+_description_: unicameral National People's Assembly or Assembleia Nacional Popular (102 seats; 100 members directly elected in 27 multi-seat constituencies by closed party-list proportional representation vote and 2 elected in single-seat constituencies for citizens living abroad (Africa 1, Europe 1 ); all members serve 4-year terms)<br>
 _elections_: last held on 10 March 2019 (next to be held in March 2023)<br>
 _election results_: percent of vote by party - PAIGC 35.2%, Madem G-15 21.1%, PRS 21.1%, other 22.6%; seats by party - PAIGC 47, Madem G-15 27, PRS 21, other 7; composition - men 88, women 14, percent of women 13.7%<br>
 
@@ -602,18 +607,18 @@ _subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 J5<br>
 
 **Airports**<br>
-_total_: 8 (2013)<br>
+_total_: 8 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _over 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1 (2019)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 6<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 3 (2013)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Roadways**<br>
 _total_: 4,400 km (2018)<br>
@@ -638,10 +643,10 @@ note - the Public Order Police is responsible for maintaining law and order, whi
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
-1.9% of GDP (2019 est.)<br>
-1.7% of GDP (2018 est.)<br>
-1.7% of GDP (2017 est.)<br>
-1.6% of GDP (2016 est.)<br>
+1.9% of GDP (approximately $50 million) (2019 est.)<br>
+1.7% of GDP (approximately $45 million) (2018 est.)<br>
+1.7% of GDP (approximately $45 million) (2017 est.)<br>
+1.6% of GDP (approximately $40 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 total active troops, including a few hundred air and naval personnel (2021)<br>

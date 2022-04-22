@@ -220,6 +220,11 @@ _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
 **Children under the age of 5 years underweight**<br>
 16.3% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 17% (2018)<br>
+_women married by age 18_: 46.5% (2018)<br>
+_men married by age 18_: 1.9% (2018 est.)<br>
+
 **Education expenditures**<br>
 2.2% of GDP (2020)<br>
 
@@ -354,15 +359,15 @@ _residency requirement for naturalization_: na<br>
 
 **Executive branch**<br>
 _chief of state_: President Col. Mamady DOUMBOUYA (since 1 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 1 October 2021, DOUMBOUYA was sworn in as transitional president<br>
-_head of government_: Prime Minister Mohamed BEAVOGUI (since 6 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government of Prime Minister Ibrahima Kassory FOFANA dissolved<br>
-_cabinet_: formerly, the Council of Ministers appointed by the president; note: on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup on 5 September 2021 in which President CONDE was arrested and detained, the constitution suspended, and dissolved the government and legislature. Future presidential elections and term limits depend upon the National Transition Council&rsquo;s timeline and constitutional referendum;<br>
-_elections/appointments_: formerly, the president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term) and the prime minister appointed by the president; election last held on 18 October 2020 (next to be held pending constitutional referendum and timeline published by National Transition Council);&nbsp; note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, and on 1 October 2021,Col. Mamady DOUMBOUYA was sworn in as transitional president; prime minister appointed by the transition president.<br>
+_head of government_: formerly, Prime Minister Mohamed BEAVOGUI (since 6 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government of Prime Minister Ibrahima Kassory FOFANA dissolved<br>
+_cabinet_: formerly, the Council of Ministers appointed by the president; note: on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup on 5 September 2021 in which President CONDE was arrested and detained, the constitution suspended, and the government and legislature dissolved<br>
+_elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term) and the prime minister appointed by the president; election last held on 18 October 2020; note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, and on 1 October 2021,Col. Mamady DOUMBOUYA was sworn in as transitional president<br>
 _election results_: in the election of 18 October 2020, Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%; note - following the military coup of 5 September 2021, coup leader Col. Mamady DOUMBOUYA was sworn in as transitional president on 1 October 2021<br>
 
 **Legislative branch**<br>
-_description_: formerly the unicameral National Transition Council (81 seats; 81 members) directly appointed by the by the CNRD; the members comprise representatives from political parties, civil society, labor unions, defense and security institutions, human rights organizations, Guineans abroad, women, youth, culture, religion, the informal sector, regional leadership, disabled people, the press, and others;28 are women; note - in early September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 22 January 2022, a Transitional National Council was formed with 81 members<br>
-_elections_: 81 members to the Transitional National Council were appointed by the transitional president on 22 January 2022 (elections for a permanent legislature have not been announced as of late January 2022)<br>
-_election results_: 81 members of the National Transitional Council appointed on 22 January 2022; the members represent all of the country's socio-professional organizations and political parties<br>
+_description_: formerly the People's National Assembly;&nbsp; note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 22 January 2022, an 81-member Transitional National Council was installed<br>
+_elections_: 81 members to the Transitional National Council were appointed by the transitional president Col. Mamady DOUMBOUYA on 22 January 2022; elections for a permanent legislature had not been announced as of late January 2022<br>
+_election results_: 81 members of the National Transitional Council appointed on 22 January 2022 by the transitional president; the members represent all of the country's socio-professional organizations and political parties<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (organized into Administrative Chamber and Civil, Penal, and Social Chamber; court consists of the first president, 2 chamber presidents, 10 councilors, the solicitor general, and NA deputies).<br>
@@ -657,18 +662,18 @@ _subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 3X<br>
 
 **Airports**<br>
-_total_: 16 (2013)<br>
+_total_: 16 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
 _over 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 3 (2019)<br>
+_1,524 to 2,437 m_: 3 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 12<br>
 _1,524 to 2,437 m_: 7<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Railways**<br>
 _total_: 1,086 km (2017)<br>
@@ -698,10 +703,10 @@ note - the National Gendarmerie is overseen by the Ministry of Defense, while th
 
 **Military expenditures**<br>
 1.4% of GDP (2020 est.)<br>
-1.6% of GDP (2019 est.)<br>
-1.8% of GDP (2018 est.)<br>
-1.8% of GDP (2017 est.)<br>
-1.9% of GDP (2016 est.)<br>
+1.6% of GDP (approximately $270 million) (2019 est.)<br>
+1.8% of GDP (approximately $280 million) (2018 est.)<br>
+1.8% of GDP (approximately $260 million) (2017 est.)<br>
+1.9% of GDP (approximately $240 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 Guinean National Armed Forces are comprised of approximately 12,000 active personnel <br>(9,000 Army; 400 Navy; 800 Air Force; 300 BASP; 1,500 Gendarmerie) (2021)<br>

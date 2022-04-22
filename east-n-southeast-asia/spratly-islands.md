@@ -146,17 +146,17 @@ Economic activity is limited to commercial fishing. The proximity to nearby oil-
 ## Transportation
 
 **Airports**<br>
-_total_: 8 (2020)<br>
+_total_: 8 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 6<br>
 _2,438 to 3,047 m_: 3<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 1 (2020)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 2<br>
-_914 to 1,523 m_: 2 (2020)<br>
+_914 to 1,523 m_: 2 (2021)<br>
 
 **Heliports**<br>
 5 (2020)<br>

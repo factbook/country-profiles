@@ -621,17 +621,17 @@ _annual freight traffic on registered air carriers_: 233.72 million mt-km (2018)
 3B<br>
 
 **Airports**<br>
-_total_: 5 (2013)<br>
+_total_: 5 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _over 3,047 m_: 1<br>
-_914 to 1,523 m_: 1 (2019)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 2,428 km (2015)<br>
@@ -652,10 +652,10 @@ no regular military forces; the Mauritius Police Force (MPF) includes a paramili
 
 **Military expenditures**<br>
 0.2% of GDP (2020 est.)<br>
-0.3% of GDP (2019 est.)<br>
-0.3% of GDP (2018 est.)<br>
-0.3% of GDP (2017 est.)<br>
-0.3% of GDP (2016 est.)<br>
+0.3% of GDP (approximately $80 million) (2019 est.)<br>
+0.3% of GDP (approximately $80 million) (2018 est.)<br>
+0.3% of GDP (approximately $80 million) (2017 est.)<br>
+0.3% of GDP (approximately $80 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,700 Special Mobile Force; approximately 800 National Coast Guard (2021)<br>

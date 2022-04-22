@@ -560,12 +560,12 @@ _subscriptions per 100 inhabitants_: 16.08 (2018 est.)<br>
 J7<br>
 
 **Airports**<br>
-_total_: 2 (2020)<br>
+_total_: 2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1 (2019)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 1,512 km (2018)<br>

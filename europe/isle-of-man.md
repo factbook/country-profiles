@@ -443,11 +443,11 @@ _total_: 63,500 (2021 est.)<br>
 M<br>
 
 **Airports**<br>
-_total_: 1 (2013)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2019)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 63 km (2008)<br>

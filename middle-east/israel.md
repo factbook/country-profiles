@@ -652,7 +652,7 @@ _annual freight traffic on registered air carriers_: 994.54 million mt-km (2018)
 4X<br>
 
 **Airports**<br>
-_total_: 42 (2020)<br>
+_total_: 42 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 33<br>
@@ -660,12 +660,12 @@ _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 12<br>
-_under 914 m_: 8 (2019)<br>
+_under 914 m_: 8 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 9<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 6 (2013)<br>
+_under 914 m_: 6 (2021)<br>
 
 **Heliports**<br>
 3 (2013)<br>
@@ -697,10 +697,10 @@ note - the Border Police is a unit within the Israel Police with its own organiz
 
 **Military expenditures**<br>
 5% of GDP (2020 est.)<br>
-5.2% of GDP (2019 est.)<br>
-5.3% of GDP (2018 est.)<br>
-5.5% of GDP (2017 est.)<br>
-5.6% of GDP (2016 est.)<br>
+5.2% of GDP (approximately $20 billion) (2019 est.)<br>
+5.3% of GDP (approximately $19.9 billion) (2018 est.)<br>
+5.5% of GDP (approximately $19.7 billion) (2017 est.)<br>
+5.6% of GDP (approximately $19.2 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 173,000 active personnel (130,000 Ground Forces; 9,000 Naval; 34,000 Air Force) (2021)<br>

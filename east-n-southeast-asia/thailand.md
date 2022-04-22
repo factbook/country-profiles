@@ -217,6 +217,11 @@ _vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
 **Children under the age of 5 years underweight**<br>
 7.7% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 3% (2019)<br>
+_women married by age 18_: 20.2% (2019)<br>
+_men married by age 18_: 9.8% (2019 est.)<br>
+
 **Education expenditures**<br>
 3% of GDP (2019)<br>
 
@@ -363,8 +368,8 @@ _judge selection and term of office_: Supreme Court judges selected by the Judic
 _subordinate courts_: courts of first instance and appeals courts within both the judicial and administrative systems; military courts<br>
 
 **Political parties and leaders**<br>
-Action Coalition of Thailand Party or ACT [ANEK Laothamatas]<br>Bhumjaithai Party or BJT [ANUTIN Charnvirakul]<br>Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [KANCHANA Sinlapa-acha]<br>New Economics Party or NEP [MINGKHWAN Sangsuwan]<br>Move Forward Party or MFP (formed in 2020 from the disbanded Future Forward Party, FPP) [PHITHA Limcharoenrat]<br>Phalang Pracharat Party or PPP [PRAWIT Wongsuwan]<br>Phumchai Thai Party (Thai Pride Party) or PJT [ANUTHIN Chanwirakun]<br>Prachachat Party of PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DEM [JURIN Laksanawisit] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [CHONLANON Sikaew]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party) or TLP [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Forest Conservation Party or TFCP [DAMRONG Phidet]<br>Thai Liberal Party or TLP [SERIPISUT TEMIYAVET]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]<br>
-<strong>note:</strong> as of 5 April 2018, 98 new parties applied to be registered with the Election Commission in accordance with the provisions of the new organic law on political parties<br>
+Action Coalition of Thailand Party or ACT [ANEK Laothamatas]<br>Bhumjaithai Party or BJT [ANUTIN Charnvirakul]<br>Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [KANCHANA Sinlapa-acha]<br>New Economics Party or NEP [MINGKHWAN Sangsuwan]<br>Move Forward Party or MFP (formed in 2020 from the disbanded Future Forward Party, FPP) [PHITHA Limcharoenrat]<br>Palang Pracharat Party or PPP (a pro-military party formed in 2018 by members of the military junta’s cabinet) [PRAWIT Wongsuwan]<br>Phumchai Thai Party (Thai Pride Party) or PJT [ANUTHIN Chanwirakun]<br>Prachachat Party of PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DEM [JURIN Laksanawisit] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [CHONLANON Sikaew]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party) or TLP [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Forest Conservation Party or TFCP [DAMRONG Phidet]<br>Thai Liberal Party or TLP [SERIPISUT TEMIYAVET]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]<br>
+note - as of 5 April 2018, 98 new parties applied to be registered with the Election Commission in accordance with the provisions of the new organic law on political parties<br>
 
 **International organization participation**<br>
 ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -660,7 +665,7 @@ _annual freight traffic on registered air carriers_: 2,666,260,000 mt-km (2018)<
 HS<br>
 
 **Airports**<br>
-_total_: 101 (2013)<br>
+_total_: 101 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 63<br>
@@ -668,14 +673,14 @@ _over 3,047 m_: 8<br>
 _2,438 to 3,047 m_: 12<br>
 _1,524 to 2,437 m_: 23<br>
 _914 to 1,523 m_: 14<br>
-_under 914 m_: 6 (2013)<br>
+_under 914 m_: 6 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 38<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 10<br>
-_under 914 m_: 26 (2013)<br>
+_under 914 m_: 26 (2021)<br>
 
 **Heliports**<br>
 7 (2013)<br>
@@ -712,9 +717,9 @@ note(s) - official paramilitary forces in Thailand include the Thai Rangers (<em
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
-1.3% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
-1.4% of GDP (2017)<br>
+1.3% of GDP (approximately $14.6 billion) (2019)<br>
+1.3% of GDP (approximately $14.2 billion) (2018)<br>
+1.4% of GDP (approximately $13.8 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary widely; approximately 300,000 active duty personnel (200,000 Army; 70,000 Navy; 30,000 Air Force); est. 20,000 Thai Rangers; est. 5,000 Internal Security Operations Command (2021)<br>
@@ -730,7 +735,7 @@ note(s) - information varies, but conscripts reportedly comprise as much as 50% 
 275 South Sudan (UNMISS) (Dec 2021)<br>
 
 **Military - note**<br>
-including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, the Thai military has been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed more than 7,000 lives (as of early 2022); as of 2021, at least 70,000 military, paramilitary, and government-backed militia forces were estimated to be deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>
+including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, the Thai military has been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed more than 7,000 lives (as of early 2022); as of 2021, at least 70,000 military, paramilitary, and government-backed militia forces were estimated to be deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
 
 ## Transnational Issues
 
@@ -738,7 +743,7 @@ including the most recent in 2014, the military has attempted more than 20 coups
 <p>separatist violence in Thailand's predominantly Malay-Muslim southern provinces prompt border closures and controls with Malaysia to stem insurgent activities; Southeast Asian states have enhanced border surveillance to check the spread of avian flu; talks continue on completion of demarcation with Laos but disputes remain over several islands in the Mekong River; despite continuing border committee talks, Thailand must deal with Karen and other ethnic rebels, refugees, and illegal cross-border activities; Cambodia and Thailand dispute sections of boundary; in 2011, Thailand and Cambodia resorted to arms in the dispute over the location of the boundary on the precipice surmounted by Preah Vihear temple ruins, awarded to Cambodia by ICJ decision in 1962 and part of a planned UN World Heritage site; Thailand is studying the feasibility of jointly constructing the Hatgyi Dam on the Salween river near the border with Burma; in 2004, international environmentalist pressure prompted China to halt construction of 13 dams on the Salween River that flows through China, Burma, and Thailand; approximately 100,000 mostly Karen refugees fleeing civil strife, political upheaval and economic stagnation in Burma live in remote camps in Thailand near the border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 91,479 (Burma) (2021)<br>
+_refugees (country of origin)_: 91,349 (Burma) (2022)<br>
 _IDPs_: 41,000<br>
 _stateless persons_: 554,103 (mid-year 2021) (estimate represents stateless persons registered with the Thai Government; actual number may be as high as 3.5 million); note - about half of Thailand's northern hill tribe people do not have citizenship and make up the bulk of Thailand's stateless population; most lack documentation showing they or one of their parents were born in Thailand; children born to Burmese refugees are not eligible for Burmese or Thai citizenship and are stateless; most Chao Lay, maritime nomadic peoples, who travel from island to island in the Andaman Sea west of Thailand are also stateless; stateless Rohingya refugees from Burma are considered illegal migrants by Thai authorities and are detained in inhumane conditions or expelled; stateless persons are denied access to voting, property, education, employment, healthcare, and driving<br>
 <strong>note:</strong> Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2018)<br>

@@ -643,7 +643,7 @@ _annual freight traffic on registered air carriers_: 1,404,410,000 mt-km (2018)<
 9M<br>
 
 **Airports**<br>
-_total_: 114 (2013)<br>
+_total_: 114 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 39<br>
@@ -651,12 +651,12 @@ _over 3,047 m_: 8<br>
 _2,438 to 3,047 m_: 8<br>
 _1,524 to 2,437 m_: 7<br>
 _914 to 1,523 m_: 8<br>
-_under 914 m_: 8 (2017)<br>
+_under 914 m_: 8 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 75<br>
 _914 to 1,523 m_: 6<br>
-_under 914 m_: 69 (2013)<br>
+_under 914 m_: 69 (2021)<br>
 
 **Heliports**<br>
 4 (2013)<br>
@@ -696,9 +696,9 @@ note - Malaysia created a National Special Operations Force in 2016 for combatin
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
 1.1% of GDP (2020)<br>
-1% of GDP (2019)<br>
-1% of GDP (2018)<br>
-1.1% of GDP (2017)<br>
+1% of GDP (approximately $7.84 billion) (2019)<br>
+1% of GDP (approximately $7.63 billion) (2018)<br>
+1.1% of GDP (approximately $7.75 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Malaysian Armed Forces have approximately 115,000 active duty troops (80,000 Army; 18,000 Navy; 17,000 Air Force) (2021)<br>

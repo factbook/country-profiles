@@ -375,7 +375,7 @@ Alternative Democratic Pole or PDA [Jorge Enrique ROBLEDO]<br>Citizens Option (O
 BCIE, BIS, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Francisco SANTOS Calderon (since 17 September 2018)<br>
+_chief of mission_: Ambassador Juan Carlos PINZON Bueno (since August 2021)<br>
 _chancery_: 1724 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 387-8338<br>
 _FAX_: [1] (202) 232-8643<br>
@@ -667,7 +667,7 @@ _annual freight traffic on registered air carriers_: 1,349,450,000 mt-km (2018)<
 HJ, HK<br>
 
 **Airports**<br>
-_total_: 836 (2013)<br>
+_total_: 836 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 121<br>
@@ -675,14 +675,14 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 9<br>
 _1,524 to 2,437 m_: 39<br>
 _914 to 1,523 m_: 53<br>
-_under 914 m_: 18 (2017)<br>
+_under 914 m_: 18 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 715<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 25<br>
 _914 to 1,523 m_: 201<br>
-_under 914 m_: 488 (2013)<br>
+_under 914 m_: 488 (2021)<br>
 
 **Heliports**<br>
 3 (2013)<br>
@@ -720,10 +720,10 @@ Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: 
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>
-3.1% of GDP (2019)<br>
-3.1% of GDP (2018)<br>
-3.2% of GDP (2017)<br>
-3.2% of GDP (2016)<br>
+3.1% of GDP (approximately $19.6 billion) (2019)<br>
+3.1% of GDP (approximately $18.6 billion) (2018)<br>
+3.2% of GDP (approximately $18.3 billion) (2017)<br>
+3.2% of GDP (approximately $17.8 billion) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary; approximately 260,000 total active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 14,000 Air Force); approximately 185,000 Colombian National Police (2021)<br>

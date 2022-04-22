@@ -637,19 +637,19 @@ _annual freight traffic on registered air carriers_: 87 mt-km (2015)<br>
 T9<br>
 
 **Airports**<br>
-_total_: 24 (2013)<br>
+_total_: 24 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 7<br>
 _2,438 to 3,047 m_: 4<br>
 _1,524 to 2,437 m_: 1<br>
-_under 914 m_: 2 (2017)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 17<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 11 (2013)<br>
+_under 914 m_: 11 (2021)<br>
 
 **Heliports**<br>
 6 (2013)<br>
@@ -680,9 +680,9 @@ Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegov
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020)<br>
-0.8% of GDP (2019)<br>
-0.9% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
+0.8% of GDP (approximately $370 million) (2019)<br>
+0.9% of GDP (approximately $370 million) (2018)<br>
+0.9% of GDP (approximately $360 million) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of Bosnia and Herzegovina have approximately 9,000 active duty personnel (2021)<br>
@@ -712,7 +712,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note:</strong> 87,822 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
+<strong>note:</strong> 88,149 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

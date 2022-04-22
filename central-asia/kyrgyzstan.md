@@ -209,6 +209,10 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 1.8% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0.3% (2018)<br>
+_women married by age 18_: 12.9% (2018 est.)<br>
+
 **Education expenditures**<br>
 5.4% of GDP (2019)<br>
 
@@ -626,8 +630,8 @@ _total_: 3.32 million (2021 est.)<br>
 _percent of population_: 38% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 269,091 (2019)<br>
-_subscriptions per 100 inhabitants_: 4.19 (2019 est.)<br>
+_total_: 289,000 (2021)<br>
+_subscriptions per 100 inhabitants_: 4.43 (2021 est.)<br>
 
 ## Transportation
 
@@ -640,20 +644,20 @@ _annual passenger traffic on registered air carriers_: 709,198 (2018)<br>
 EX<br>
 
 **Airports**<br>
-_total_: 28 (2013)<br>
+_total_: 28 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 18<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 11<br>
-_under 914 m_: 3 (2017)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 10<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 8 (2013)<br>
+_under 914 m_: 8 (2021)<br>
 
 **Pipelines**<br>
 3566 km gas (2018), 16 km oil (2013)<br>
@@ -678,10 +682,10 @@ Kyrgyz Armed Forces: Land Forces, Air Defense Forces, National Guard; State Bord
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-2.3% of GDP (2019 est.)<br>
-2.3% of GDP (2018 est.)<br>
-2.3% of GDP (2017 est.)<br>
-2.6% of GDP (2016 est.)<br>
+2.3% of GDP (approximately $410 million) (2019 est.)<br>
+2.3% of GDP (approximately $400 million) (2018 est.)<br>
+2.3% of GDP (approximately $390 million) (2017 est.)<br>
+2.6% of GDP (approximately $380 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Kyrgyz Armed Forces have approximately 12,000 active duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 1,000 National Guard) (2021)<br>

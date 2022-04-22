@@ -204,6 +204,11 @@ _unimproved: total_: total: 13.3% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 2.1% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0.3% (2018)<br>
+_women married by age 18_: 13.9% (2018)<br>
+_men married by age 18_: 0.5% (2018 est.)<br>
+
 **Education expenditures**<br>
 3.8% of GDP (2020)<br>
 
@@ -615,8 +620,8 @@ _total_: 2.74 million (2021 est.)<br>
 _percent of population_: 72.53% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 997,785 (2020)<br>
-_subscriptions per 100 inhabitants_: 25.01 (2020 est.)<br>
+_total_: 972,162 (2021)<br>
+_subscriptions per 100 inhabitants_: 24.37 (2021 est.)<br>
 
 ## Transportation
 
@@ -630,7 +635,7 @@ _annual freight traffic on registered air carriers_: 750,000 mt-km (2018)<br>
 4L<br>
 
 **Airports**<br>
-_total_: 22 (2013)<br>
+_total_: 22 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 18<br>
@@ -638,13 +643,13 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 7<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 2 (2017)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 4<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -674,10 +679,10 @@ Georgian Defense Forces: Land Forces (includes Aviation and Air Defense Forces),
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-1.8% of GDP (2019)<br>
-1.9% of GDP (2018)<br>
-1.9% of GDP (2017)<br>
-2% of GDP (2016)<br>
+1.8% of GDP (approximately $780 million) (2019)<br>
+1.9% of GDP (approximately $760 million) (2018)<br>
+1.9% of GDP (approximately $750 million) (2017)<br>
+2% of GDP (approximately $750 million) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 30,000 troops, including active National Guard forces (2021)<br>

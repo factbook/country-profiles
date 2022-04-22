@@ -227,6 +227,11 @@ _aerosolized dust or soil contact diseases_: Lassa fever<br>
 **Children under the age of 5 years underweight**<br>
 18.4% (2019/20)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 15.7% (2018)<br>
+_women married by age 18_: 43.4% (2018)<br>
+_men married by age 18_: 3.2% (2018 est.)<br>
+
 **Education expenditures**<br>
 NA<br>
 
@@ -676,7 +681,7 @@ _annual freight traffic on registered air carriers_: 19.42 million mt-km (2018)<
 5N<br>
 
 **Airports**<br>
-_total_: 54 (2013)<br>
+_total_: 54 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 40<br>
@@ -684,13 +689,13 @@ _over 3,047 m_: 10<br>
 _2,438 to 3,047 m_: 12<br>
 _1,524 to 2,437 m_: 9<br>
 _914 to 1,523 m_: 6<br>
-_under 914 m_: 3 (2017)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 14<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 9<br>
-_under 914 m_: 3 (2013)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Heliports**<br>
 5 (2013)<br>
@@ -728,10 +733,10 @@ Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of
 
 **Military expenditures**<br>
 0.6% of GDP (2020)<br>
-0.5% of GDP (2019)<br>
-0.5% of GDP (2018)<br>
-0.5% of GDP (2017)<br>
-0.4% of GDP (2016)<br>
+0.5% of GDP (approximately $3.53 billion) (2019)<br>
+0.5% of GDP (approximately $3.72 billion) (2018)<br>
+0.5% of GDP (approximately $3.42 billion) (2017)<br>
+0.4% of GDP (approximately $3.05 billion) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 135,000 active personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); est. 80,000 Security and Civil Defense Corps (2021)<br>
@@ -747,7 +752,7 @@ the Nigerian Armed Forces' inventory consists of a wide variety of imported weap
 note - Nigeria has committed an Army combat brigade (approximately 3,000 troops) to the Multinational Joint Task Force (MNJTF), regional counter-terrorism force comprised of troops from Benin, Cameroon, Chad, and Niger; the national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
 
 **Military - note**<br>
-as of 2022, the Nigerian military was sub-Saharan Africa’s largest and regarded as one of its most capable forces; it was focused largely on internal security and faced a number of challenges that have stretched its resources, however; in the northeast, the military was conducting counterinsurgency/counter-terrorist operations against the Boko Haram (BH) and Islamic State in West Africa (ISWA) terrorist groups, where it has deployed as many as 70,000 troops at times and jihadist-related violence has killed an estimated 35-40,000 people, mostly civilians, since 2009 (as of late 2021); in the northwest, it faced growing threats from criminal gangs, bandits, and violence associated with historical and ongoing farmer-herder conflicts, as well as BH and ISWA terrorists; bandits in the northwest are estimated to number in the low 10,000s and violence there has killed more than 10,000 since the mid-2010s; the military also continued to protect the oil industry in the Niger Delta region against militants and criminal activity, although the levels of violence there have decreased in recent years; in May 2021, a contingent of military troops and police were deployed to eastern Nigeria to quell renewed agitation for a state of Biafra (Biafra seceded from Nigeria in the late 1960s, sparking a civil war that caused more than 1 million deaths)<br><br> <p>the Nigerian military traces its origins to the Nigeria Regiment of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Gold Coast, Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; in 1956, the Nigeria Regiment of the RWAFF was renamed the Nigerian Military Forces (NMF) and in 1958, the colonial government of Nigeria took over control of the NMF from the British War Office; the Nigerian Armed Forces were established following independence in 1960</p><br>
+as of 2022, the Nigerian military was sub-Saharan Africa’s largest and regarded as one of its most capable forces; it was focused largely on internal security and faced a number of challenges that have stretched its resources, however; in the northeast, the military was conducting counterinsurgency/counter-terrorist operations against the Boko Haram (BH) and Islamic State in West Africa (ISWA) terrorist groups, where it has deployed as many as 70,000 troops at times and jihadist-related violence has killed an estimated 35-40,000 people, mostly civilians, since 2009 (as of late 2021); in the northwest, it faced growing threats from criminal gangs, bandits, and violence associated with historical and ongoing farmer-herder conflicts, as well as BH and ISWA terrorists; bandits in the northwest were estimated to number in the low 10,000s and violence there has killed more than 10,000 since the mid-2010s; the military also continued to protect the oil industry in the Niger Delta region against militants and criminal activity, although the levels of violence there have decreased in recent years; in May 2021, a contingent of military troops and police were deployed to eastern Nigeria to quell renewed agitation for a state of Biafra (Biafra seceded from Nigeria in the late 1960s, sparking a civil war that caused more than 1 million deaths)<br><br> <p>the Nigerian military traces its origins to the Nigeria Regiment of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Gold Coast, Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; in 1956, the Nigeria Regiment of the RWAFF was renamed the Nigerian Military Forces (NMF) and in 1958, the colonial government of Nigeria took over control of the NMF from the British War Office; the Nigerian Armed Forces were established following independence in 1960</p><br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"</p><br>

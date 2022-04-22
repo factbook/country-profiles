@@ -239,6 +239,10 @@ _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 2.6% (2017/18)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0.5% (2018)<br>
+_women married by age 18_: 13.7% (2018 est.)<br>
+
 **Education expenditures**<br>
 NA<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
@@ -690,7 +694,7 @@ _annual freight traffic on registered air carriers_: 97.71 million mt-km (2018)<
 CN<br>
 
 **Airports**<br>
-_total_: 62 (2020)<br>
+_total_: 62 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 36<br>
@@ -698,14 +702,14 @@ _over 3,047 m_: 13<br>
 _2,438 to 3,047 m_: 12<br>
 _1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 1 (2020)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 26<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 12<br>
-_under 914 m_: 6 (2020)<br>
+_under 914 m_: 6 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -738,10 +742,10 @@ note(s) - the National Police manages internal law enforcement in cities; the Ro
 
 **Military expenditures**<br>
 4.5% of GDP (2020 est.)<br>
-3.4% of GDP (2019 est.)<br>
-3.3% of GDP (2018 est.)<br>
-3.4% of GDP (2017 est.)<br>
-3.4% of GDP (2016 est.)<br>
+3.4% of GDP (approximately $7.46 billion) (2019 est.)<br>
+3.3% of GDP (approximately $7.12 billion) (2018 est.)<br>
+3.4% of GDP (approximately $7.08 billion) (2017 est.)<br>
+3.4% of GDP (approximately $6.9 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); est. 25,000 Gendarmerie (2021)<br>

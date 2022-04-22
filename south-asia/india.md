@@ -224,6 +224,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 33.4% (2016/18)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 6.8% (2016)<br>
+_women married by age 18_: 27.3% (2016)<br>
+_men married by age 18_: 4.2% (2016 est.)<br>
+
 **Education expenditures**<br>
 3.5% of GDP (2016)<br>
 
@@ -676,7 +681,7 @@ _annual freight traffic on registered air carriers_: 2,703,960,000 mt-km (2018)<
 VT<br>
 
 **Airports**<br>
-_total_: 346 (2013)<br>
+_total_: 346 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 253<br>
@@ -684,7 +689,7 @@ _over 3,047 m_: 22<br>
 _2,438 to 3,047 m_: 59<br>
 _1,524 to 2,437 m_: 76<br>
 _914 to 1,523 m_: 82<br>
-_under 914 m_: 14 (2017)<br>
+_under 914 m_: 14 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 93<br>
@@ -692,7 +697,7 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 38<br>
-_under 914 m_: 45 (2013)<br>
+_under 914 m_: 45 (2021)<br>
 
 **Heliports**<br>
 45 (2013)<br>
@@ -730,9 +735,9 @@ note - the Assam Rifles are under the administrative control of the Ministry of 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
 2.6% of GDP (2020)<br>
-2.4% of GDP (2019)<br>
-2.4% of GDP (2018)<br>
-2.4% of GDP (2017)<br>
+2.4% of GDP (approximately $93.9 billion) (2019)<br>
+2.4% of GDP (approximately $88.2 billion) (2018)<br>
+2.4% of GDP (approximately $83.8 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 1.45 million active personnel (est. 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2021)<br>

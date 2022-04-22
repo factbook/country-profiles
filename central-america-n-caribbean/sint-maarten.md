@@ -387,11 +387,11 @@ _total_: 29,600 (2021 est.)<br>
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2013)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_1,524 to 2,437 m_: 1 (2019)<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 <strong>note:</strong> Princess Juliana International Airport (SXM) was severely damaged on 6 September 2017 by hurricane Irma, but resumed commercial operations on 10 October 2017<br>
 
 **Roadways**<br>

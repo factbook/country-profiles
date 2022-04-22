@@ -223,6 +223,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 23.1% (2017/18)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0% (2017)<br>
+_women married by age 18_: 0.1% (2017)<br>
+_men married by age 18_: 0% (2017 est.)<br>
+
 **Education expenditures**<br>
 1.5% of GDP (2017)<br>
 
@@ -364,7 +369,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Felix TSHISEKEDI (since 24 January 2019)<br>
-_head of government_: Prime Minister Jean-Michel Sama Lukonde KYENGE (since 15 February 2021); Deputy Prime Ministers Jose MAKILA, Leonard She OKITUNDU, Henri MOVA Sankanyi (since February 2018)<br>
+_head of government_: Prime Minister Anatole Collinet MAKOSSO (since 12 May 2021); Deputy Prime Ministers Jose MAKILA, Leonard She OKITUNDU, Henri MOVA Sankanyi (since February 2018)<br>
 _cabinet_: Ministers of State appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority vote for a 5-year term (eligible for a second term); election last held on 30 December 2018 (next to be held in December 2023); prime minister appointed by the president<br>
 _election results_: Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities<br>
@@ -671,7 +676,7 @@ _annual freight traffic on registered air carriers_: 890,000 mt-km (2018)<br>
 9Q<br>
 
 **Airports**<br>
-_total_: 198 (2013)<br>
+_total_: 198 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 26<br>
@@ -679,13 +684,13 @@ _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 17<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 172<br>
 _1,524 to 2,437 m_: 20<br>
 _914 to 1,523 m_: 87<br>
-_under 914 m_: 65 (2013)<br>
+_under 914 m_: 65 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -724,10 +729,10 @@ note - the Republican Guard is a division-size element consisting of approximate
 
 **Military expenditures**<br>
 0.7% of GDP (2020 est.)<br>
-0.9% of GDP (2019 est.)<br>
-0.8% of GDP (2018 est.)<br>
-0.9% of GDP (2017 est.)<br>
-1.3% of GDP (2016 est.)<br>
+0.9% of GDP (approximately $570 million) (2019 est.)<br>
+0.8% of GDP (approximately $520 million) (2018 est.)<br>
+0.9% of GDP (approximately $550 million) (2017 est.)<br>
+1.3% of GDP (approximately $650 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 limited and widely varied information; approximately 100,000 active troops (mostly Army, but includes several thousand Navy and Air Force personnel, as well as about 10,000 Republican Guard; note -&nbsp; Navy personnel includes naval infantry) (2021)<br>
@@ -753,7 +758,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 210,980 (Rwanda), 210,499 (Central African Republic), 56,351 (South Sudan) (refugees and asylum seekers), 40,529 (Burundi) (2022)<br>
+_refugees (country of origin)_: 210,621 (Rwanda), 210,084 (Central African Republic), 56,351 (South Sudan) (refugees and asylum seekers), 40,511 (Burundi) (2022)<br>
 _IDPs_: 5.61 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2021)<br>
 
 **Trafficking in persons**<br>

@@ -210,6 +210,10 @@ NA<br>
 **Children under the age of 5 years underweight**<br>
 3.1% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0.2% (2019)<br>
+_women married by age 18_: 6.1% (2019 est.)<br>
+
 **Education expenditures**<br>
 3.1% of GDP (2019)<br>
 
@@ -609,8 +613,8 @@ _total_: 2.01 million (2021 est.)<br>
 _percent of population_: 21.25% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5,000 (2017 est.)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total_: 10,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.17 less than 1 (2021 est.)<br>
 
 ## Transportation
 
@@ -624,19 +628,19 @@ _annual freight traffic on registered air carriers_: 16.92 million mt-km (2018)<
 EZ<br>
 
 **Airports**<br>
-_total_: 26 (2013)<br>
+_total_: 26 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 21<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 9<br>
 _1,524 to 2,437 m_: 9<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_914 to 1,523 m_: 2 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 5<br>
 _1,524 to 2,437 m_: 1<br>
-_under 914 m_: 4 (2013)<br>
+_under 914 m_: 4 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -670,10 +674,10 @@ Armed Forces of Turkmenistan: Land Forces, Navy, Air and Air Defense Forces; Fed
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
-1.9% of GDP (2019 est.)<br>
-1.8% of GDP (2018 est.)<br>
-1.8% of GDP (2017 est.)<br>
-1.8% of GDP (2016 est.)<br>
+1.9% of GDP (approximately $1.54 billion) (2019 est.)<br>
+1.8% of GDP (approximately $1.45 billion) (2018 est.)<br>
+1.8% of GDP (approximately $1.32 billion) (2017 est.)<br>
+1.8% of GDP (approximately $1.3 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 30,000 active troops (est. 25,000 National Army; 1,000 Navy; 4,000 Air and Air Defense Forces) (2021)<br>

@@ -634,8 +634,8 @@ _total_: 15.47 million (2021 est.)<br>
 _percent of population_: 85.94% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,616,500 (2020)<br>
-_subscriptions per 100 inhabitants_: 13.93 (2020 est.)<br>
+_total_: 2,620,400 (2021)<br>
+_subscriptions per 100 inhabitants_: 13.96 (2021 est.)<br>
 
 ## Transportation
 
@@ -649,7 +649,7 @@ _annual freight traffic on registered air carriers_: 50.22 million mt-km (2018)<
 UP<br>
 
 **Airports**<br>
-_total_: 96 (2013)<br>
+_total_: 96 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 63<br>
@@ -657,7 +657,7 @@ _over 3,047 m_: 10<br>
 _2,438 to 3,047 m_: 25<br>
 _1,524 to 2,437 m_: 15<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 8 (2017)<br>
+_under 914 m_: 8 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 33<br>
@@ -665,7 +665,7 @@ _over 3,047 m_: 5<br>
 _2,438 to 3,047 m_: 7<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 13 (2013)<br>
+_under 914 m_: 13 (2021)<br>
 
 **Heliports**<br>
 3 (2013)<br>
@@ -700,10 +700,10 @@ Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and A
 
 **Military expenditures**<br>
 1.1% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.)<br>
-0.9% of GDP (2018 est.)<br>
-0.8% of GDP (2017 est.)<br>
-0.9% of GDP (2016 est.)<br>
+1.1% of GDP (approximately $3.6 billion) (2019 est.)<br>
+0.9% of GDP (approximately $3.06 billion) (2018 est.)<br>
+0.8% of GDP (approximately $2.85 billion) (2017 est.)<br>
+0.9% of GDP (approximately $2.93 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 40,000 active duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces) (2021)<br>

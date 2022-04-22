@@ -202,6 +202,10 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
+**Child marriage**<br>
+_women married by age 15_: 1.4% (2016)<br>
+_women married by age 18_: 6% (2016 est.)<br>
+
 **Education expenditures**<br>
 2.6% of GDP (2019)<br>
 
@@ -633,19 +637,19 @@ _annual freight traffic on registered air carriers_: 56.57 million mt-km (2018)<
 OD<br>
 
 **Airports**<br>
-_total_: 8 (2013)<br>
+_total_: 8 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 5<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_under 914 m_: 1 (2019)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -678,10 +682,10 @@ note(s) - the commander of the LAF is also the commander of the Army; the LAF pa
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>
-4.7% of GDP (2019 est.)<br>
-5.1% of GDP (2018 est.)<br>
-4.6% of GDP (2017 est.)<br>
-5.1% of GDP (2016 est.)<br>
+4.7% of GDP (approximately $3.6 billion) (2019 est.)<br>
+5.1% of GDP (approximately $4.1 billion) (2018 est.)<br>
+4.6% of GDP (approximately $3.95 billion) (2017 est.)<br>
+5.1% of GDP (approximately $4.15 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 Air Force) (2021)<br>
@@ -708,7 +712,7 @@ Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; Islamic Revolu
 <p>lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shab'a Farms area in the Israeli-controlled Golan Heights; the roughly 2,000-strong UN Interim Force in Lebanon has been in place since 1978</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 839,788 (Syria) (2022)<br>
+_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 839,086 (Syria) (2022)<br>
 _IDPs_: 7,000 (2020)<br>
 _stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
 

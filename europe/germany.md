@@ -650,7 +650,7 @@ _annual freight traffic on registered air carriers_: 7,969,860,000 mt-km (2018)<
 D<br>
 
 **Airports**<br>
-_total_: 539 (2013)<br>
+_total_: 539 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 318<br>
@@ -658,13 +658,13 @@ _over 3,047 m_: 14<br>
 _2,438 to 3,047 m_: 49<br>
 _1,524 to 2,437 m_: 60<br>
 _914 to 1,523 m_: 70<br>
-_under 914 m_: 125 (2017)<br>
+_under 914 m_: 125 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 221<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 35<br>
-_under 914 m_: 185 (2013)<br>
+_under 914 m_: 185 (2021)<br>
 
 **Heliports**<br>
 23 (2013)<br>
@@ -704,10 +704,10 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
-1.6% of GDP (2020)<br>
-1.4% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
+1.5% of GDP (2020)<br>
+1.4% of GDP (approximately $60.1 billion) (2019)<br>
+1.3% of GDP (approximately $55.4 billion) (2018)<br>
+1.2% of GDP (approximately $53.5 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 184,000 active duty personnel (63,500 Army; 16,500 Navy; 27,500 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 14,500 Cyber and Information Space Command; 15,000 other) (2021)<br>

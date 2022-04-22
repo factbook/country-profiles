@@ -673,7 +673,7 @@ _annual freight traffic on registered air carriers_: 4,443,790,000 mt-km (2018)<
 F<br>
 
 **Airports**<br>
-_total_: 464 (2013)<br>
+_total_: 464 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 294<br>
@@ -681,13 +681,13 @@ _over 3,047 m_: 14<br>
 _2,438 to 3,047 m_: 25<br>
 _1,524 to 2,437 m_: 97<br>
 _914 to 1,523 m_: 83<br>
-_under 914 m_: 75 (2017)<br>
+_under 914 m_: 75 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 170<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 64<br>
-_under 914 m_: 105 (2013)<br>
+_under 914 m_: 105 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -731,9 +731,9 @@ French Armed Forces (Forces Arm&eacute;es Fran&ccedil;aises): Army (Armee de Ter
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
 2% of GDP (2020)<br>
-1.8% of GDP (2019)<br>
-1.8% of GDP (2018)<br>
-1.8% of GDP (2017)<br>
+1.8% of GDP (approximately $59.1 billion) (2019)<br>
+1.8% of GDP (approximately $57 billion) (2018)<br>
+1.8% of GDP (approximately $54.4 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the French military has approximately 205,000 active duty troops (115,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2021)<br>

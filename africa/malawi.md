@@ -662,19 +662,19 @@ _annual freight traffic on registered air carriers_: 10,000 mt-km (2018)<br>
 7Q<br>
 
 **Airports**<br>
-_total_: 32 (2013)<br>
+_total_: 32 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 7<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 4 (2019)<br>
+_914 to 1,523 m_: 4 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 25 (2013)<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 11<br>
-_under 914 m_: 13 (2013)<br>
+_under 914 m_: 13 (2021)<br>
 
 **Railways**<br>
 _total_: 767 km (2014)<br>
@@ -699,10 +699,10 @@ note - the Malawi Police Service is under the Ministry of Homeland Security<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2020 est.)<br>
-1.1% of GDP (2019 est.)<br>
-0.8% of GDP (2018 est.)<br>
-0.7% of GDP (2017 est.)<br>
-0.6% of GDP (2016 est.)<br>
+1.1% of GDP (approximately $90 million) (2019 est.)<br>
+0.8% of GDP (approximately $70 million) (2018 est.)<br>
+0.7% of GDP (approximately $60 million) (2017 est.)<br>
+0.6% of GDP (approximately $50 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 8,000 total personnel (including about 200 air and 200 marine forces) (2021)<br>

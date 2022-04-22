@@ -210,6 +210,9 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
+**Child marriage**<br>
+_women married by age 18_: 0.1% (2020 est.)<br>
+
 **Education expenditures**<br>
 5.2% of GDP (2018)<br>
 
@@ -642,7 +645,7 @@ _annual freight traffic on registered air carriers_: 6,198,370,000 mt-km (2018)<
 G<br>
 
 **Airports**<br>
-_total_: 460 (2013)<br>
+_total_: 460 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 271<br>
@@ -650,13 +653,13 @@ _over 3,047 m_: 7<br>
 _2,438 to 3,047 m_: 29<br>
 _1,524 to 2,437 m_: 89<br>
 _914 to 1,523 m_: 80<br>
-_under 914 m_: 66 (2013)<br>
+_under 914 m_: 66 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 189<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 26<br>
-_under 914 m_: 160 (2013)<br>
+_under 914 m_: 160 (2021)<br>
 
 **Heliports**<br>
 9 (2013)<br>
@@ -698,9 +701,9 @@ note - in 2021 the UK formed a joint service Space Command staffed by Army, Navy
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>
 2.3% of GDP (2020)<br>
-2.1% of GDP (2019)<br>
-2.1% of GDP (2018)<br>
-2.1% of GDP (2017)<br>
+2.1% of GDP (approximately $68.4 billion) (2019)<br>
+2.1% of GDP (approximately $67.8 billion) (2018)<br>
+2.1% of GDP (approximately $65.9 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the British military has approximately 194,000 total active troops (120,500 Army, including about 4,000 Gurkhas; 40,500 Navy, including about 7,000 Royal Marines; 38,000 Air Force) (2021)<br>

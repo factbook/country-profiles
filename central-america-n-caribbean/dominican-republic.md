@@ -645,7 +645,7 @@ _inventory of registered aircraft operated by air carriers_: 6<br>
 HI<br>
 
 **Airports**<br>
-_total_: 36 (2013)<br>
+_total_: 36 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 16<br>
@@ -653,13 +653,13 @@ _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 4<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 1 (2017)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 20<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 18 (2013)<br>
+_under 914 m_: 18 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -694,10 +694,10 @@ note(s) - in addition to the military, the Ministry of Armed Forces directs the 
 
 **Military expenditures**<br>
 0.8% of GDP (2020 est.)<br>
-0.7% of GDP (2019 est.)<br>
-0.6% of GDP (2018 est.)<br>
-0.6% of GDP (2017 est.)<br>
-0.6% of GDP (2016 est.)<br>
+0.7% of GDP (approximately $1.43 billion) (2019 est.)<br>
+0.7% of GDP (approximately $1.33 billion) (2018 est.)<br>
+0.6% of GDP (approximately $1.2 billion) (2017 est.)<br>
+0.6% of GDP (approximately $1.11 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 30,000 National Police (2021)<br>

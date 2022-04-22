@@ -209,6 +209,11 @@ _water contact diseases_: schistosomiasis<br>
 **Children under the age of 5 years underweight**<br>
 5.4% (2019)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 5.4% (2019)<br>
+_women married by age 18_: 28% (2019)<br>
+_men married by age 18_: 3.1% (2019 est.)<br>
+
 **Education expenditures**<br>
 5.9% of GDP (2019)<br>
 
@@ -623,12 +628,12 @@ _inventory of registered aircraft operated by air carriers_: 1<br>
 S9<br>
 
 **Airports**<br>
-_total_: 2 (2013)<br>
+_total_: 2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1 (2019)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 1,300 km (2018)<br>

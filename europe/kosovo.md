@@ -569,17 +569,17 @@ _number of registered air carriers_: 0 (2020)<br>
 Z6<br>
 
 **Airports**<br>
-_total_: 6 (2013)<br>
+_total_: 6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 3<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 1<br>
-_under 914 m_: 1 (2019)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3<br>
-_under 914 m_: 3 (2013)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -601,9 +601,9 @@ Kosovo Security Force (KSF): Land Force Command; Logistics Command; Doctrine and
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
-0.8% of GDP (2019 est.)<br>
-0.8% of GDP (2018 est.)<br>
-0.7% of GDP (2017 est.)<br>
+0.8% of GDP (approximately $160 million) (2019 est.)<br>
+0.8% of GDP (approximately $150 million) (2018 est.)<br>
+0.7% of GDP (approximately $130 million) (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Kosovo Security Force (KSF) has approximately 3,500 personnel; note - Kosovo plans for the KSF to eventually number around 5,000 troops (2021)<br>
@@ -624,5 +624,5 @@ the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support 
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2,004 as a result of violence) (2020)<br>
-<strong>note:</strong> 7,703 estimated refugee and migrant arrivals (January 2015-February 2022)<br>
+<strong>note:</strong> 7,767 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
 

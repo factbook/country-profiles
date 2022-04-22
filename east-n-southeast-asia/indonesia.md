@@ -218,6 +218,10 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Children under the age of 5 years underweight**<br>
 17.7% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 2% (2017)<br>
+_women married by age 18_: 16.3% (2017 est.)<br>
+
 **Education expenditures**<br>
 2.8% of GDP (2019)<br>
 
@@ -664,7 +668,7 @@ _annual freight traffic on registered air carriers_: 1,131,910,000 mt-km (2018)<
 PK<br>
 
 **Airports**<br>
-_total_: 673 (2013)<br>
+_total_: 673 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 186<br>
@@ -672,13 +676,13 @@ _over 3,047 m_: 5<br>
 _2,438 to 3,047 m_: 21<br>
 _1,524 to 2,437 m_: 51<br>
 _914 to 1,523 m_: 72<br>
-_under 914 m_: 37 (2017)<br>
+_under 914 m_: 37 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 487<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 23<br>
-_under 914 m_: 460 (2013)<br>
+_under 914 m_: 460 (2021)<br>
 
 **Heliports**<br>
 76 (2013)<br>
@@ -718,9 +722,9 @@ note(s) - in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coo
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020)<br>
-0.8% of GDP (2019)<br>
-0.7% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
+0.8% of GDP (approximately $15.5 billion) (2019)<br>
+0.7% of GDP (approximately $14.5 billion) (2018)<br>
+0.9% of GDP (approximately $15.5 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately, 400,000 active duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2021)<br>
@@ -735,7 +739,7 @@ the Indonesian military inventory comes from a wide variety of sources; since 20
 230 Central African Republic (MINUSCA); 1,030 Democratic Republic of the Congo (MONUSCO); 1,230 Lebanon (UNIFIL) (Oct 2021)<br>
 
 **Military - note**<br>
-as of 2022, Indonesian military and police forces were engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969; in addition, the Indonesian military has been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local Islamic State (ISIS)-affiliated terrorist group <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, and held military exercises in surrounding waters<br>
+as of 2022, Indonesian military and police forces were engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969; in addition, the Indonesian military has been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local Islamic State (ISIS)-affiliated terrorist group <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, held military exercises in surrounding waters, and increased security cooperation<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks decreased from 26 incidents in 2020 to nine in 2021 due to aggressive maritime patrolling by regional authorities; vessels continue to be boarded while anchored or berthed at Indonesian ports with seven vessels attacked; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>

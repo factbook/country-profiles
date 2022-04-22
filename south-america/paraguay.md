@@ -218,6 +218,10 @@ _vectorborne diseases_: dengue fever<br>
 **Children under the age of 5 years underweight**<br>
 1.3% (2016)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 3.6% (2016)<br>
+_women married by age 18_: 21.6% (2016 est.)<br>
+
 **Education expenditures**<br>
 3.5% of GDP (2019)<br>
 
@@ -650,19 +654,19 @@ _annual freight traffic on registered air carriers_: 1.97 million mt-km (2018)<b
 ZP<br>
 
 **Airports**<br>
-_total_: 799 (2013)<br>
+_total_: 799 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 15<br>
 _over 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 7<br>
-_914 to 1,523 m_: 5 (2017)<br>
+_914 to 1,523 m_: 5 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 784<br>
 _1,524 to 2,437 m_: 23<br>
 _914 to 1,523 m_: 290<br>
-_under 914 m_: 471 (2013)<br>
+_under 914 m_: 471 (2021)<br>
 
 **Railways**<br>
 _total_: 30 km (2014)<br>
@@ -692,9 +696,9 @@ Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020)<br>
-1% of GDP (2019)<br>
-1% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
+1% of GDP (approximately $590 million) (2019)<br>
+1% of GDP (approximately $590 million) (2018)<br>
+0.9% of GDP (approximately $550 million) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of Paraguay have approximately 15,000 active personnel (10,000 Army; 3,500 Navy; 1,500 Air Force) (2021)<br>

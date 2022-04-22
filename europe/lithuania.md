@@ -207,6 +207,9 @@ _vectorborne diseases_: tickborne encephalitis<br>
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
+**Child marriage**<br>
+_women married by age 18_: 0% (2019 est.)<br>
+
 **Education expenditures**<br>
 3.9% of GDP (2018)<br>
 
@@ -626,8 +629,8 @@ _total_: 2.22 million (2021 est.)<br>
 _percent of population_: 83.06% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 796,814 (2020)<br>
-_subscriptions per 100 inhabitants_: 29.27 (2020 est.)<br>
+_total_: 796,814 (2021)<br>
+_subscriptions per 100 inhabitants_: 29.27 (2021 est.)<br>
 
 ## Transportation
 
@@ -640,7 +643,7 @@ _annual passenger traffic on registered air carriers_: 26,031 (2018)<br>
 LY<br>
 
 **Airports**<br>
-_total_: 61 (2013)<br>
+_total_: 61 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 22<br>
@@ -648,13 +651,13 @@ _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 7<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 9 (2017)<br>
+_under 914 m_: 9 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 39<br>
 _over 3,047 m_: 1<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 36 (2013)<br>
+_under 914 m_: 36 (2021)<br>
 
 **Pipelines**<br>
 1921 km gas, 121 km refined products (2013)<br>
@@ -687,11 +690,11 @@ _LNG terminal(s) (import)_: Klaipeda<br>
 Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos Pajegos), Naval Forces (Karines Juru Pajegos), Air Forces (Karines Oro Pajegos), Special Operations Forces (Specialiuju Operaciju Pajegos); National Defense Volunteer Forces (Savanoriu Pajegos); National Riflemen's Union (paramilitary force that acts as an additional reserve force) (2021)<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2021 est.)<br>
+2% of GDP (2021 est.)<br>
 2.1% of GDP (2020)<br>
-2% of GDP (2019)<br>
-2% of GDP (2018)<br>
-1.7% of GDP (2017)<br>
+2% of GDP (approximately $1.7 billion) (2019)<br>
+2% of GDP (approximately $1.59 billion) (2018)<br>
+1.7% of GDP (approximately $1.34 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Lithuanian Armed Forces have approximately 16,000 active duty personnel (12,500 Army, including about 5,000 National Defense Voluntary Forces; 600 Navy; 1,000 Air Force; 2,000 other, including special operations forces, logistics support, training, etc); est. 11,000 Riflemen Union (2021)<br>

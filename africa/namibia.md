@@ -662,20 +662,20 @@ _annual freight traffic on registered air carriers_: 26.29 million mt-km (2018)<
 V5<br>
 
 **Airports**<br>
-_total_: 112 (2013)<br>
+_total_: 112 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 19<br>
 _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 12<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 93<br>
 _1,524 to 2,437 m_: 25<br>
 _914 to 1,523 m_: 52<br>
-_under 914 m_: 16 (2013)<br>
+_under 914 m_: 16 (2021)<br>
 
 **Railways**<br>
 _total_: 2,628 km (2014)<br>
@@ -700,10 +700,10 @@ Namibian Defense Force (NDF): Army, Navy, Air Force<br><br>Ministry of Safety an
 
 **Military expenditures**<br>
 3.4% of GDP (2020 est.)<br>
-3.3% of GDP (2019)<br>
-3.4% of GDP (2018)<br>
-3.6% of GDP (2017)<br>
-4.1% of GDP (2016)<br>
+3.3% of GDP (approximately $620 million) (2019)<br>
+3.4% of GDP (approximately $640 million) (2018)<br>
+3.6% of GDP (approximately $670 million) (2017)<br>
+4.1% of GDP (approximately $750 million) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2021)<br>

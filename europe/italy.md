@@ -648,7 +648,7 @@ _annual freight traffic on registered air carriers_: 1.418 billion mt-km (2018)<
 I<br>
 
 **Airports**<br>
-_total_: 129 (2013)<br>
+_total_: 129 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 98<br>
@@ -656,13 +656,13 @@ _over 3,047 m_: 9<br>
 _2,438 to 3,047 m_: 31<br>
 _1,524 to 2,437 m_: 18<br>
 _914 to 1,523 m_: 29<br>
-_under 914 m_: 11 (2017)<br>
+_under 914 m_: 11 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 31<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 10<br>
-_under 914 m_: 20 (2013)<br>
+_under 914 m_: 20 (2021)<br>
 
 **Heliports**<br>
 5 (2013)<br>
@@ -700,11 +700,11 @@ Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italia
 note(s) - the Carabinieri is the national gendarmerie; for its civil police functions, the Carabinieri falls under the control of the Ministry of the Interior; the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2021 est.)<br>
-1.4% of GDP (2020)<br>
-1.2% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.2% of GDP (2017)<br>
+1.5% of GDP (2021 est.)<br>
+1.6% of GDP (2020)<br>
+1.2% of GDP (approximately $30.1 billion) (2019)<br>
+1.2% of GDP (approximately $31 billion) (2018)<br>
+1.2% of GDP (approximately $30.1 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 107,000 Carabinieri (2021)<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 597,951 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
+<strong>note:</strong> 599,056 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

@@ -655,7 +655,7 @@ _annual freight traffic on registered air carriers_: 3,434,070,000 mt-km (2018)<
 C<br>
 
 **Airports**<br>
-_total_: 1,467 (2013)<br>
+_total_: 1,467 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 523<br>
@@ -663,13 +663,13 @@ _over 3,047 m_: 21<br>
 _2,438 to 3,047 m_: 19<br>
 _1,524 to 2,437 m_: 147<br>
 _914 to 1,523 m_: 257<br>
-_under 914 m_: 79 (2017)<br>
+_under 914 m_: 79 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 944<br>
 _1,524 to 2,437 m_: 75<br>
 _914 to 1,523 m_: 385<br>
-_under 914 m_: 484 (2013)<br>
+_under 914 m_: 484 (2021)<br>
 
 **Heliports**<br>
 26 (2013)<br>
@@ -711,9 +711,9 @@ note - the Army reserves include the Canadian Rangers, which provides a limited 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
-1.3% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
-1.4% of GDP (2017)<br>
+1.3% of GDP (approximately $26 billion) (2019)<br>
+1.3% of GDP (approximately $25.7 billion) (2018)<br>
+1.4% of GDP (approximately $27.6 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 70,000 total active personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2021)<br>

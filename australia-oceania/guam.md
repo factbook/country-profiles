@@ -531,17 +531,17 @@ _subscriptions per 100 inhabitants_: 1.86 (2019)<br>
 N<br>
 
 **Airports**<br>
-_total_: 5 (2013)<br>
+_total_: 5 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 4<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 1<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 1<br>
-_under 914 m_: 1 (2013)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 1,045 km (2008)<br>

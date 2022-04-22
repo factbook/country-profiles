@@ -643,8 +643,8 @@ _total_: 31.97 million (2021 est.)<br>
 _percent of population_: 86.84% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,212,601 (2020)<br>
-_subscriptions per 100 inhabitants_: 21.7 (2020 est.)<br>
+_total_: 8,369,218 (2021)<br>
+_subscriptions per 100 inhabitants_: 22.11 (2021 est.)<br>
 
 ## Transportation
 
@@ -658,7 +658,7 @@ _annual freight traffic on registered air carriers_: 271.49 million mt-km (2018)
 SP<br>
 
 **Airports**<br>
-_total_: 126 (2013)<br>
+_total_: 126 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 87<br>
@@ -666,13 +666,13 @@ _over 3,047 m_: 5<br>
 _2,438 to 3,047 m_: 30<br>
 _1,524 to 2,437 m_: 36<br>
 _914 to 1,523 m_: 10<br>
-_under 914 m_: 6 (2017)<br>
+_under 914 m_: 6 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 39<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 17<br>
-_under 914 m_: 21 (2013)<br>
+_under 914 m_: 21 (2021)<br>
 
 **Heliports**<br>
 6 (2013)<br>
@@ -710,11 +710,11 @@ Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air 
 note - the Polish Armed Forces are organized into a General Staff, an Armed Forces General Command, an Armed Forces Operational Command, Territorial Defense Forces (established 2017), Military Police, and the Warsaw Garrison Command<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2021 est.)<br>
-2.3% of GDP (2020)<br>
-2% of GDP (2019)<br>
-2% of GDP (2018)<br>
-1.9% of GDP (2017)<br>
+2.3% of GDP (2021 est.)<br>
+2.2% of GDP (2020)<br>
+2% of GDP (approximately $17.5 billion) (2019)<br>
+2% of GDP (approximately $16.8 billion) (2018)<br>
+1.9% of GDP (approximately $14.9 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 120,000 total active duty personnel (approximately 60,000 Army; 7,000 Navy; 17,000 Air Force; 3,500 Special Forces; 7,500 joint service; 25,000 Territorial Defense Forces) (2021)<br>
@@ -747,7 +747,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 2,669,637 (as of 12 April 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 2,800,713 (as of 18 April 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

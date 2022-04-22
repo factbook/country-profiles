@@ -570,12 +570,12 @@ _subscriptions per 100 inhabitants_: 3.39 (2019 est.)<br>
 V6<br>
 
 **Airports**<br>
-_total_: 6 (2013)<br>
+_total_: 6 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 6<br>
 _1,524 to 2,437 m_: 4<br>
-_914 to 1,523 m_: 2 (2017)<br>
+_914 to 1,523 m_: 2 (2021)<br>
 
 **Roadways**<br>
 note - paved and unpaved circumferential roads, most interior roads are unpaved<br>

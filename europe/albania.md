@@ -211,6 +211,11 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 1.5% (2017/18)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 1.4% (2018)<br>
+_women married by age 18_: 11.8% (2018)<br>
+_men married by age 18_: 1.2% (2018 est.)<br>
+
 **Education expenditures**<br>
 3.9% of GDP (2019)<br>
 
@@ -640,12 +645,12 @@ _annual passenger traffic on registered air carriers_: 303,137 (2018)<br>
 ZA<br>
 
 **Airports**<br>
-_total_: 3 (2020)<br>
+_total_: 3 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 3 (2020)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
+_total_: 3<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 1 (2021)<br>
 
 **Pipelines**<br>
 498 km gas (a majority of the network is in disrepair and parts of it are missing), 249 km oil (2015)<br>
@@ -675,9 +680,9 @@ Republic of Albania Armed Forces (Forcat e Armatosura t&euml; Republik&euml;s s&
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.3% of GDP (2020)<br>
-1.5% of GDP (2019)<br>
-1.3% of GDP (2018)<br>
-1.1% of GDP (2017)<br>
+1.5% of GDP (approximately $360 million) (2019)<br>
+1.3% of GDP (approximately $330 million) (2018)<br>
+1.1% of GDP (approximately $290 million) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 8,000 total active duty personnel (6,000 Army; 1,500 Navy; 500 Air Force) (2021)<br>

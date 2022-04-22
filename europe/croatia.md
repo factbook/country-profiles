@@ -653,7 +653,7 @@ _annual freight traffic on registered air carriers_: 530,000 mt-km (2018)<br>
 9A<br>
 
 **Airports**<br>
-_total_: 69 (2013)<br>
+_total_: 69 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 24<br>
@@ -661,13 +661,13 @@ _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 6<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 10 (2017)<br>
+_under 914 m_: 10 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 45<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 6<br>
-_under 914 m_: 38 (2013)<br>
+_under 914 m_: 38 (2021)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -700,11 +700,11 @@ _river port(s)_: Vukovar (Danube)<br>
 Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM, includes Coast Guard), Air Force and Air Defense Forces; Military Police Force supports each of the three Croatian military forces (2021)<br>
 
 **Military expenditures**<br>
-2.8% of GDP (2021 est.)<br>
-1.8% of GDP (2020)<br>
-1.7% of GDP (2019)<br>
-1.6% of GDP (2018)<br>
-1.7% of GDP (2017)<br>
+2.2% of GDP (2021 est.)<br>
+1.7% of GDP (2020)<br>
+1.6% of GDP (approximately $1.62 billion) (2019)<br>
+1.6% of GDP (approximately $1.52 billion) (2018)<br>
+1.7% of GDP (approximately $1.5 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of the Republic of Croatia have approximately 15,000 active duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2021)<br>
@@ -726,7 +726,7 @@ Croatia officially became a member of NATO in 2009<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 2,910 (mid-year 2021)<br>
-<strong>note: </strong>736,622 estimated refugee and migrant arrivals (January 2015-January 2022); flows slowed considerably in 2017; Croatia is predominantly a transit country and hosts about 340 asylum seekers as of the end of June 2018<br>
+<strong>note: </strong>739,306 estimated refugee and migrant arrivals (January 2015-March 2022); flows slowed considerably in 2017; Croatia is predominantly a transit country and hosts about 340 asylum seekers as of the end of June 2018<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p> <p> </p><br>

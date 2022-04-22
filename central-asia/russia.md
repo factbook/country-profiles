@@ -664,8 +664,8 @@ _total_: 124 million (2021 est.)<br>
 _percent of population_: 84.99% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 33,872,758 (2020)<br>
-_subscriptions per 100 inhabitants_: 23.21 (2020 est.)<br>
+_total_: 33,893,305 (2021)<br>
+_subscriptions per 100 inhabitants_: 23.23 (2021 est.)<br>
 
 ## Transportation
 
@@ -679,7 +679,7 @@ _annual freight traffic on registered air carriers_: 6,810,610,000 mt-km (2018)<
 RA<br>
 
 **Airports**<br>
-_total_: 1,218 (2013)<br>
+_total_: 1,218 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 594<br>
@@ -687,7 +687,7 @@ _over 3,047 m_: 54<br>
 _2,438 to 3,047 m_: 197<br>
 _1,524 to 2,437 m_: 123<br>
 _914 to 1,523 m_: 95<br>
-_under 914 m_: 125 (2017)<br>
+_under 914 m_: 125 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 624<br>
@@ -695,7 +695,7 @@ _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 13<br>
 _1,524 to 2,437 m_: 69<br>
 _914 to 1,523 m_: 81<br>
-_under 914 m_: 457 (2013)<br>
+_under 914 m_: 457 (2021)<br>
 
 **Heliports**<br>
 49 (2013)<br>
@@ -736,10 +736,10 @@ note - the Air Force and Aerospace Defense Forces were merged into the VKS in 20
 
 **Military expenditures**<br>
 4% of GDP (2020 est.)<br>
-3.8% of GDP (2019 est.)<br>
-3.7% of GDP (2018 est.)<br>
-4.2% of GDP (2017 est.)<br>
-5.4% of GDP (2016 est.)<br>
+3.8% of GDP (approximately $104 billion) (2019 est.)<br>
+3.7% of GDP (approximately $100 billion) (2018 est.)<br>
+4.2% of GDP (approximately $104 billion) (2017 est.)<br>
+5.4% of GDP (approximately $121 billion) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 850,000 total active duty troops (300,000 Ground Troops; 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; approximately 20,000 special operations forces; approximately 100,000 other uniformed personnel (command and control, cyber, support, logistics, security, etc.); estimated 200-250,000 Federal National Guard Troops (2021)<br>
@@ -770,7 +770,7 @@ Aum Shimrikyo (AUM/Aleph); Islamic State of Iraq and ash-Sham; Islamic State of 
 <p>Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries; China and Russia have demarcated the once disputed islands at the Amur and Ussuri confluence and in the Argun River in accordance with the 2004 Agreement, ending their centuries-long border disputes; the sovereignty dispute over the islands of Etorofu, Kunashiri, Shikotan, and the Habomai group, known in Japan as the "Northern Territories" and in Russia as the "Southern Kurils," occupied by the Soviet Union in 1945, now administered by Russia, and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities; Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia; Azerbaijan, Kazakhstan, and Russia ratified Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea; Norway and Russia signed a comprehensive maritime boundary agreement in 2010; various groups in Finland advocate restoration of Karelia (Kareliya) and other areas ceded to the Soviet Union following World War II but the Finnish Government asserts no territorial demands; Russia and Estonia signed a technical border agreement in May 2005, but Russia recalled its signature in June 2005 after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia and Latvia; Russia remains involved in the conflict in eastern Ukraine while also occupying Ukraine’s territory of Crimea; Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as an EU member state with an EU external border, where strict Schengen border rules apply; preparations for the demarcation delimitation of land boundary with Ukraine have commenced; the dispute over the boundary between Russia and Ukraine through the Kerch Strait and Sea of Azov is suspended due to the occupation of Crimea by Russia; Kazakhstan and Russia boundary delimitation was ratified on November 2005 and field demarcation should commence in 2007; Russian Duma has not yet ratified 1990 Bering Sea Maritime Boundary Agreement with the US; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 433,083 (Ukraine) (as of 11 April 2022)<br>
+_refugees (country of origin)_: 535,842 (Ukraine) (as of 18 April 2022)<br>
 _stateless persons_: 56,960 (mid-year 2021); note - Russia's stateless population consists of Roma, Meskhetian Turks, and ex-Soviet citizens from the former republics; between 2003 and 2010 more than 600,000 stateless people were naturalized; most Meskhetian Turks, followers of Islam with origins in Georgia, fled or were evacuated from Uzbekistan after a 1989 pogrom and have lived in Russia for more than the required five-year residency period; they continue to be denied registration for citizenship and basic rights by local Krasnodar Krai authorities on the grounds that they are temporary illegal migrants<br>
 
 **Trafficking in persons**<br>

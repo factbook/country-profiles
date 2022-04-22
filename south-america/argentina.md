@@ -665,7 +665,7 @@ _annual freight traffic on registered air carriers_: 311.57 million mt-km (2018)
 LV<br>
 
 **Airports**<br>
-_total_: 916 (2020)<br>
+_total_: 916 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 161<br>
@@ -673,7 +673,7 @@ _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 29<br>
 _1,524 to 2,437 m_: 65<br>
 _914 to 1,523 m_: 53<br>
-_under 914 m_: 10 (2017)<br>
+_under 914 m_: 10 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 977<br>
@@ -681,7 +681,7 @@ _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 43<br>
 _914 to 1,523 m_: 484<br>
-_under 914 m_: 448 (2013)<br>
+_under 914 m_: 448 (2021)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -722,9 +722,9 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica A
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020)<br>
-0.7% of GDP (2019)<br>
-0.8% of GDP (2018)<br>
-0.9% of GDP (2017)<br>
+0.7% of GDP (approximately $5 billion) (2019)<br>
+0.8% of GDP (approximately $5.3 billion) (2018)<br>
+0.9% of GDP (approximately $5.95 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 78,000 active duty personnel (45,000 Army; 18,000 Navy (includes about 3,000 marines); 15,000 Air Force); est. 20,000 Gendarmerie (2021)<br>

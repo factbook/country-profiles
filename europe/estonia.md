@@ -623,8 +623,8 @@ _total_: 1.22 million (2022 est.)<br>
 _percent of population_: 92% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 415,610 (2020)<br>
-_subscriptions per 100 inhabitants_: 31.33 (2020 est.)<br>
+_total_: 415,610 (2021)<br>
+_subscriptions per 100 inhabitants_: 31.33 (2021 est.)<br>
 
 ## Transportation
 
@@ -637,20 +637,20 @@ _annual passenger traffic on registered air carriers_: 31,981 (2018)<br>
 ES<br>
 
 **Airports**<br>
-_total_: 18 (2013)<br>
+_total_: 18 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 13<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 8<br>
 _1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_914 to 1,523 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 5<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 3 (2013)<br>
+_under 914 m_: 3 (2021)<br>
 
 **Heliports**<br>
 1 (2012)<br>
@@ -684,11 +684,11 @@ _major seaport(s)_: Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn<br>
 Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves); Ministry of Interior: Border Guards (2021)<br>
 
 **Military expenditures**<br>
-2.3% of GDP (2021 est.)<br>
-2.3% of GDP (2020)<br>
-2% of GDP (2019)<br>
-2% of GDP (2018)<br>
-2% of GDP (2017)<br>
+2.2% of GDP (2021 est.)<br>
+2.4% of GDP (2020)<br>
+2% of GDP (approximately $850 million) (2019)<br>
+2% of GDP (approximately $800 million) (2018)<br>
+2% of GDP (approximately $750 million) (2017)<br>
 
 **Military and security service personnel strengths**<br>
 the Estonian Defense Forces have approximately 6,500 active duty personnel (2021)<br>

@@ -674,7 +674,7 @@ _annual freight traffic on registered air carriers_: 1,845,650,000 mt-km (2018)<
 PP<br>
 
 **Airports**<br>
-_total_: 4,093 (2013)<br>
+_total_: 4,093 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 698<br>
@@ -682,13 +682,13 @@ _over 3,047 m_: 7<br>
 _2,438 to 3,047 m_: 27<br>
 _1,524 to 2,437 m_: 179<br>
 _914 to 1,523 m_: 436 (2017)<br>
-_under 914 m_: 49 (2017)<br>
+_under 914 m_: 49 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 3,395<br>
 _1,524 to 2,437 m_: 92<br>
 _914 to 1,523 m_: 1,619<br>
-_under 914 m_: 1,684 (2013)<br>
+_under 914 m_: 1,684 (2021)<br>
 
 **Heliports**<br>
 13 (2013)<br>
@@ -730,10 +730,10 @@ Brazilian Armed Forces: Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.4% of GDP (2019)<br>
-1.5% of GDP (2018)<br>
-1.4% of GDP (2017)<br>
-1.3% of GDP (2016)<br>
+1.4% of GDP (approximately $35.6 billion) (2019)<br>
+1.5% of GDP (approximately $36 billion) (2018)<br>
+1.4% of GDP (approximately $34.4 billion) (2017)<br>
+1.3% of GDP (approximately $32.1 billion) (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Brazilian Armed Forces have approximately 360,000 active personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2021)<br>

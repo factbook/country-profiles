@@ -410,12 +410,12 @@ _inventory of registered aircraft operated by air carriers_: 9 (registered in UK
 2<br>
 
 **Airports**<br>
-_total_: 2 (2013)<br>
+_total_: 2 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_under 914 m_: 1 (2019)<br>
+_under 914 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 260 km (2017)<br>

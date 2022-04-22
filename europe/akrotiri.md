@@ -165,10 +165,10 @@ British Forces Broadcast Service (BFBS) provides multi-channel satellite TV serv
 ## Transportation
 
 **Airports**<br>
-_total_: 1 (2020)<br>
+_total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
-_2,438 to 3,047 m_: 1 (2017)<br>
+_2,438 to 3,047 m_: 1 (2021)<br>
 
 ## Military and Security
 

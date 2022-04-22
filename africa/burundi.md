@@ -219,6 +219,11 @@ _animal contact diseases_: rabies<br>
 **Children under the age of 5 years underweight**<br>
 27% (2018/19)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 2.8% (2017)<br>
+_women married by age 18_: 19% (2017)<br>
+_men married by age 18_: 1.4% (2017 est.)<br>
+
 **Education expenditures**<br>
 5.1% of GDP (2018)<br>
 
@@ -640,16 +645,16 @@ _subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 9U<br>
 
 **Airports**<br>
-_total_: 7 (2013)<br>
+_total_: 7 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 1<br>
-_over 3,047 m_: 1 (2019)<br>
+_over 3,047 m_: 1 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 6<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 2 (2013)<br>
+_under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
 1 (2012)<br>
@@ -672,10 +677,10 @@ National Defense Forces (Forces de Defense Nationale, FDN): Army (includes marit
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>
-3% of GDP (2019 est.)<br>
-2.3% of GDP (2018 est.)<br>
-2.1% of GDP (2017 est.)<br>
-2.4% of GDP (2016 est.)<br>
+3% of GDP (approximately $120 million) (2019 est.)<br>
+2.3% of GDP (approximately $100 million) (2018 est.)<br>
+2.1% of GDP (approximately $95 million) (2017 est.)<br>
+2.4% of GDP (approximately $100 million) (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active duty troops, the majority of which are ground forces (2021)<br>

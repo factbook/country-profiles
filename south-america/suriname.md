@@ -209,6 +209,11 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Children under the age of 5 years underweight**<br>
 6.7% (2018)<br>
 
+**Child marriage**<br>
+_women married by age 15_: 8.8% (2018)<br>
+_women married by age 18_: 36% (2018)<br>
+_men married by age 18_: 19.6% (2018 est.)<br>
+
 **Education expenditures**<br>
 7.2% of GDP (2019)<br>
 
@@ -630,17 +635,17 @@ _annual freight traffic on registered air carriers_: 33.2 million mt-km (2018)<b
 PZ<br>
 
 **Airports**<br>
-_total_: 55 (2013)<br>
+_total_: 55 (2021)<br>
 
 **Airports - with paved runways**<br>
 _total_: 6<br>
 _over 3,047 m_: 1<br>
-_under 914 m_: 5 (2019)<br>
+_under 914 m_: 5 (2021)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 49<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 45 (2013)<br>
+_under 914 m_: 45 (2021)<br>
 
 **Pipelines**<br>
 50 km oil (2013)<br>
@@ -666,11 +671,11 @@ _major seaport(s)_: Paramaribo, Wageningen<br>
 Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2021)<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2019 est.)<br>
-1.1% of GDP (2018 est.)<br>
-1.1% of GDP (2017 est.)<br>
-1.2% of GDP (2016 est.)<br>
-1.4% of GDP (2015 est.)<br>
+1.2% of GDP (approximately $100 million) (2019 est.)<br>
+1.1% of GDP (approximately $95 million) (2018 est.)<br>
+1.1% of GDP (approximately $95 million) (2017 est.)<br>
+1.2% of GDP (approximately $85 million) (2016 est.)<br>
+1.4% of GDP (approximately $110 million) (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Suriname Army is comprised of approximately 2,000 active personnel (ground, air, naval, and military police) (2021)<br>
