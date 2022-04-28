@@ -476,8 +476,8 @@ _total_: 38,200 (2021 est.)<br>
 _percent of population_: 97.05% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 20,877 (2020)<br>
-_subscriptions per 100 inhabitants_: 53.2 (2020 est.)<br>
+_total_: 20,877 (2021)<br>
+_subscriptions per 100 inhabitants_: 53.2 (2021)<br>
 
 ## Transportation
 
@@ -485,7 +485,7 @@ _subscriptions per 100 inhabitants_: 53.2 (2020 est.)<br>
 3A<br>
 
 **Heliports**<br>
-1 (2012)<br>
+1 (2021)<br>
 
 **Railways**<br>
 <strong>note:</strong> Monaco has a single railway station but does not operate its own train service;  the French operator SNCF operates rail services in Monaco<br>

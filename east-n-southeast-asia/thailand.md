@@ -650,8 +650,8 @@ _total_: 48.59 million (2021 est.)<br>
 _percent of population_: 77.84% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 11,599,513 (2020)<br>
-_subscriptions per 100 inhabitants_: 16.62 (2020 est.)<br>
+_total_: 11,478,265 (2021)<br>
+_subscriptions per 100 inhabitants_: 16.44 (2021 est.)<br>
 
 ## Transportation
 
@@ -683,7 +683,7 @@ _914 to 1,523 m_: 10<br>
 _under 914 m_: 26 (2021)<br>
 
 **Heliports**<br>
-7 (2013)<br>
+7 (2021)<br>
 
 **Pipelines**<br>
 2 km condensate, 5900 km gas, 85 km liquid petroleum gas, 1 km oil, 1097 km refined products (2013)<br>
@@ -732,7 +732,7 @@ the RTARF has a diverse array of foreign-supplied weapons systems, including a l
 note(s) - information varies, but conscripts reportedly comprise as much as 50% of the RTARF; around 100,000 males are drafted each year; as of 2020, women comprised about 8% of active military personnel<br>
 
 **Military deployments**<br>
-275 South Sudan (UNMISS) (Dec 2021)<br>
+275 South Sudan (UNMISS) (Feb 2022)<br>
 
 **Military - note**<br>
 including the most recent in 2014, the military has attempted more than 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2020, the Thai military has been negotiating with BRN, and has parallel talks with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed more than 7,000 lives (as of early 2022); as of 2021, at least 70,000 military, paramilitary, and government-backed militia forces were estimated to be deployed in the south to combat the insurgency<br><br>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>

@@ -644,8 +644,8 @@ _total_: 1.45 million (2022 est.)<br>
 _percent of population_: 25.4% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 500 (2014)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2014 est.)<br>
+_total_: 1,000 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.02 less than 1 (2021 est.)<br>
 
 ## Transportation
 
@@ -729,6 +729,6 @@ the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a small
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 28,940 (Central African Republic), 22,100 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 28,985 (Central African Republic), 22,100 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 304,430 (multiple civil wars since 1992) (2021)<br>
 

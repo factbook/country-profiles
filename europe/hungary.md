@@ -347,7 +347,7 @@ _elections/appointments_: president indirectly elected by the National Assembly 
 _election results_: <em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51; note - Katalin NOVAK will assume office in May 2022<em><br><br>2017:</em> Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39<br><br>Viktor ORBAN (Fidesz) reelected prime minister; National Assembly vote - 134 to 28<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
+_description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote, using the d&rsquo;Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 3 April 2022 (next to be held in April 2026)<br>
 _election results_: percent of vote by party list - Fidesz-KDNP 54.1%, United for Hungary 34.5%, Mi Hazank 5.9%, other 5.5%; seats by party - Fidesz-KDNP 135, United for Hungary 57, Mi Hazank 6, independent 1; composition - men 175, women 24, percent of women 12.1%<br>
 
@@ -617,8 +617,8 @@ _total subscriptions_: 2,970,347 (2020)<br>
 _subscriptions per 100 inhabitants_: 30.75 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,332,660 (2020)<br>
-_subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
+_total subscriptions_: 11.29 million (2022)<br>
+_subscriptions per 100 inhabitants_: 117.4 (2022)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Hungary benefits from a well-developed telecom infrastructure, with adoption of 5G and upgrade of fixed networks to 1Gb/s service; fixed-line subscribership fell as subscribers migrated to mobile for voice and data; effective infrastructure-based competition, with an extensive cable network competing against DSL and expanding fiber sector; high mobile penetration and highest fixed broadband penetration rate in Eastern Europe; government supports private partnership in smart agriculture applications; as part of EU, fully liberalized and open to investment; broadcasting equipment is one of the country&rsquo;s top five imports, plus mobile phones, from China (2020)<br>
@@ -627,17 +627,17 @@ _international_: country code - 36; Hungary has fiber-optic cable connections wi
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-mixed system of state-supported public service broadcast media and private broadcasters; the 5 publicly owned TV channels and the 2 main privately owned TV stations are the major national broadcasters; a large number of special interest channels; highly developed market for satellite and cable TV services with about two-thirds of viewers utilizing their services; 4 state-supported public-service radio networks; a large number of local stations including commercial, public service, nonprofit, and community radio stations; digital transition completed at the end of 2013; government-linked businesses have greatly consolidated ownership in broadcast and print media<br>
+mixed system of state-supported public service broadcast media and private broadcasters; the 5 publicly owned TV channels and the 2 main privately owned TV stations are the major national broadcasters; a large number of special interest channels; highly developed market for satellite and cable TV services with about two-thirds of viewers utilizing their services; 4 state-supported public-service radio networks; a large number of local stations including commercial, public service, nonprofit, and community radio stations; digital transition completed at the end of 2013; government-linked businesses have greatly consolidated ownership in broadcast and print media (2019)<br>
 
 **Internet country code**<br>
 .hu<br>
 
 **Internet users**<br>
-_total_: 8.01 million (2021 est.)<br>
-_percent of population_: 84.77% (2020 est.)<br>
+_total_: 8.56 million (2022)<br>
+_percent of population_: 89% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,265,308 (2021)<br>
+_total_: 3,265,308 Estimated value based on data of the seven largest operators. (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 33.8 (2021 est.)<br>
 
 ## Transportation
@@ -668,7 +668,7 @@ _914 to 1,523 m_: 8<br>
 _under 914 m_: 11 (2021)<br>
 
 **Heliports**<br>
-3 (2013)<br>
+3 (2021)<br>
 
 **Pipelines**<br>
 5874 km gas (high-pressure transmission system), 83732 km gas (low-pressure distribution network), 850 km oil, 1200 km refined products (2016)<br>
@@ -718,7 +718,7 @@ the inventory of the Hungarian Defense Forces consists largely of Soviet-era wea
 note - as of 2019, women comprised approximately 20% of Hungary's full-time military personnel<br>
 
 **Military deployments**<br>
-160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (counter-ISIS coalition); 430 Kosovo (NATO/KFOR) (2021)<br>
+160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (counter-ISIS coalition); 470 Kosovo (NATO/KFOR) (2021-2022)<br>
 
 **Military - note**<br>
 Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>
@@ -729,7 +729,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 465,598 (Ukraine) (as of 18 April 2022)<br>
+_refugees (country of origin)_: 496,914 (Ukraine) (as of 24 April 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

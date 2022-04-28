@@ -342,7 +342,7 @@ _election results_: Sergio MATTARELLA (independent) reelected president; elector
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (320 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 193 members in multi-seat constituencies and 6 members in multi-seat constituencies abroad directly elected by party-list proportional representation vote to serve 5-year terms and 5 ex-officio members appointed by the president of the Republic to serve for life)<br>Chamber of Deputies or Camera dei Deputati (630 seats; 629 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member from Valle d'Aosta elected by simple majority vote; members serve 5-year terms)<br>
 _elections_: <br>Senate - last held on 4 March 2018 (next to be held in March 2023)<br>Chamber of Deputies - last held on 4 March 2018 (next to be held in March 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - center-right coalition 137 (Lega 58, FI 57, FdI 18, NCI-UDC 4), M5S 112, center-left coalition 60 (PD 53, SVP-PATT 3, CP 1, +EU 1, Together 1, VdAI 1), LeU 4, MAIE 1, USEI 1; composition (as of September 2021) - men 210, women 110, percent of women 34.4%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition 265 (Lega 125, FI 104, FdI 32, NeI-UDC 4), M5S 227, center-left coalition 122 (PD 112, SVP-PATT 4, +EU 3, CP 2, Together 1), LeU 14, MAIE 1,USEI 1; composition (as of September 2021) - men 405, women 225, percent of women 35.7%; note - total Parliament percent of women 35.2%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - center-right coalition 137 (Lega 58, FI 57, FdI 18, NCI-UDC 4), M5S 112, center-left coalition 60 (PD 53, SVP-PATT 3, CP 1, +EU 1, Together 1, VdAI 1), LeU 4, MAIE 1, USEI 1; composition (as of March 2022) - men 208, women 112, percent of women 35%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - center-right coalition 265 (Lega 125, FI 104, FdI 32, NeI-UDC 4), M5S 227, center-left coalition 122 (PD 112, SVP-PATT 4, +EU 3, CP 2, Together 1), LeU 14, MAIE 1,USEI 1; composition (as of September 2021) - men 401, women 229, percent of women 36.4%; note - total Parliament percent of women 35.9%<br>
 <strong>Note</strong>: in October 2019, Italy's Parliament voted to reduce the number of Senate seats from 315 to 200 and the number of Chamber of Deputies seats from 630 to 400; a referendum to reduce the membership of Parliament held on 20-21 September 2020 was approved, effective for the 2023 election<br>
 
 **Judicial branch**<br>
@@ -613,8 +613,8 @@ _total subscriptions_: 19,430,559 (2020)<br>
 _subscriptions per 100 inhabitants_: 32.14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 77,796,840 (2020)<br>
-_subscriptions per 100 inhabitants_: 128.7 (2020 est.)<br>
+_total subscriptions_: 78.22 million (2022)<br>
+_subscriptions per 100 inhabitants_: 130 (2022)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-developed, fully automated telephone, and data services; among highest mobile penetration rates in Europe; benefitted from progressive government programs aimed at developing fiber in broadband sector; leading edge of development with 5G in six cities; fiber network reaches more than half of population; Milan developing smart city technology; importer of broadcasting equipment and computers from China (2020)<br>
@@ -629,12 +629,12 @@ two Italian media giants dominate - the publicly owned Radiotelevisione Italiana
 .it<br>
 
 **Internet users**<br>
-_total_: 50.54 million (2021 est.)<br>
-_percent of population_: 63.08% (2019 est.)<br>
+_total_: 50.85 million (2022)<br>
+_percent of population_: 84.3% (2022)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 17,855,620 (2020)<br>
-_subscriptions per 100 inhabitants_: 29.53 (2020 est.)<br>
+_total_: 18,128,787 (2021)<br>
+_subscriptions per 100 inhabitants_: 29.98 (2021)<br>
 
 ## Transportation
 
@@ -665,7 +665,7 @@ _914 to 1,523 m_: 10<br>
 _under 914 m_: 20 (2021)<br>
 
 **Heliports**<br>
-5 (2013)<br>
+5 (2021)<br>
 
 **Pipelines**<br>
 20223 km gas, 1393 km oil, 1574 km refined products (2013)<br>
@@ -717,7 +717,8 @@ the Italian Armed Forces' inventory includes a mix of domestically-produced, joi
 note - as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-120 Djibouti; 1,100 Middle East/Iraq/Kuwait (NATO, counter-ISIS campaign, European Assistance Mission Iraq); 630 Kosovo (NATO/KFOR); 200 Latvia (NATO); 900 Lebanon (UNIFIL); 400 Libya; 290 Niger; 150 Somalia (EUTM) (2021)<br>
+120 Djibouti; 900 Middle East/Iraq/Kuwait (NATO, counter-ISIS campaign, European Assistance Mission Iraq); 640 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,190 Lebanon (UNIFIL); 400 Libya; 290 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2022)<br><br>note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe <br>
+note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe&nbsp;<br>
 
 **Military - note**<br>
 Italy is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>Italy is an active participant in EU, NATO, UN, and other multinational military, security, and humanitarian operations abroad; as of 2021, it hosted the headquarters for the EU’s Mediterranean naval operations force (EUNAVFOR-MED) in Rome and the US Navy’s 6th Fleet in Naples; Italy was admitted to the UN in 1955 and in 1960 participated in its first UN peacekeeping mission, the UN Operation in Congo (ONUC); since 1960, it has committed more than 60,000 troops to UN missions, and as of 2021, was the top supplier of military and police forces among Western and EU nations to UN peacekeeping operations; since 2006, Italy has hosted a training center in Vicenza for police personnel destined for peacekeeping missions<br>
@@ -735,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 599,056 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
+<strong>note:</strong> 599,761 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

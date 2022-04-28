@@ -282,11 +282,11 @@ see France<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by High Commissioner Laurent PREVOST (since 5 August 2019)<br>
-_head of government_: President of the Government Thierry SANTA (since 9 July 2019); Temporary Vice President Gilbert TUIENON (since 9 July 2019); note - Temporary Vice President Gilbert TUIENON was elected so that the new government could take over; Philippe GERMAIN' s government remained caretaker government until the new government was settled<br>
+_chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by High Commissioner Patrice FAURE (since 6 June 2021)<br>
+_head of government_: President of the Government Louis MAPOU (since 22 July 2021); Vice President Isabelle CHAMPMOREAU (since 22 July 2021)<br>
 _cabinet_: Cabinet elected from and by the Territorial Congress<br>
-_elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 13 June 2017 (next to be held in 2022)<br>
-_election results_: Thierry SANTA elected president by Territorial Congress with 6 votes out of 11<br>
+_elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 8 July 2022 (next to be held in 2027)<br>
+_election results_: Louis MAPOU elected president by Territorial Congress with 6 votes out of 11<br>
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Congress or Congrès du Territoire (54 seats; members indirectly selected proportionally by the partisan makeup of the 3 Provincial Assemblies or Assemblés Provinciales; members of the 3 Provincial Assemblies directly elected by proportional representation vote; members serve 5-year terms); note - the Customary Senate is the assembly of the various traditional councils of the Kanaks, the indigenous population, which rules on laws affecting the indigenous population<br>New Caledonia indirectly elects 2 members to the French Senate by an electoral colleges for a 6-year term with one seat renewed every 3 years and directly elects 2 members to the French National Assembly by absolute majority vote in 2 rounds if needed for a 5-year term<br>
@@ -549,8 +549,8 @@ _total_: 235,200 (2021 est.)<br>
 _percent of population_: 82.01% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 55,371 (2016)<br>
-_subscriptions per 100 inhabitants_: 20.43 (2019)<br>
+_total_: 55,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 19.26 (2021 est.)<br>
 
 ## Transportation
 
@@ -573,7 +573,7 @@ _914 to 1,523 m_: 5<br>
 _under 914 m_: 8 (2021)<br>
 
 **Heliports**<br>
-8 (2013)<br>
+8 (2021)<br>
 
 **Roadways**<br>
 _total_: 5,622 km (2006)<br>

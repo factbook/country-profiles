@@ -647,8 +647,8 @@ _total_: 3.45 million (2021 est.)<br>
 _percent of population_: 13.78% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 12,255 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_total_: 12,255 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.06 less than 1 (2021)<br>
 
 ## Transportation
 
@@ -714,7 +714,7 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 18 years of age for voluntary military service (men and women); high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2021)<br>
 
 **Military deployments**<br>
-700 Democratic Republic of the Congo (MONUSCO) (Oct 2021)<br>
+700 Democratic Republic of the Congo (MONUSCO) (Feb 2022)<br>
 
 **Military - note**<br>
 <p>as of 2021, the Malawi Defense Force’s primary responsibility was external security; it was also tasked as necessary with carrying out policing or other domestic activities, such as disaster relief; Malawi contributes regularly to African Union and UN peace support operations</p><br>

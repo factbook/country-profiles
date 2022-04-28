@@ -630,8 +630,8 @@ _total_: 10.9 million (2021 est.)<br>
 _percent of population_: 35% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,992,429 (2020)<br>
-_subscriptions per 100 inhabitants_: 9.3 (2020 est.)<br>
+_total_: 1,781,530 (2021)<br>
+_subscriptions per 100 inhabitants_: 8.32 (2021)<br>
 
 ## Transportation
 
@@ -660,7 +660,7 @@ _914 to 1,523 m_: 3<br>
 _under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
-1 (2020)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 7 km refined products<br>
@@ -707,7 +707,7 @@ the Sri Lankan military inventory consists mostly of Chinese and Russian-origin 
 18-22 years of age for voluntary military service (men and women); no conscription (2021)<br>
 
 **Military deployments**<br>
-110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (Sep 2021)<br>
+110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (Feb 2022)<br>
 
 **Military - note**<br>
 <p>Sri Lanka traditionally has had close security ties to India; India participated in the counter-insurgency war against the LTTE from 1987-1991, losing over 1,000 soldiers in the conflict; as of 2021, the Sri Lankan and Indian militaries continued to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; however, since the end of the war with LTTE, Sri Lanka has also increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training</p><br>

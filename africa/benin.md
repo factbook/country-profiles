@@ -638,8 +638,8 @@ _total_: 3.66 million (2022 est.)<br>
 _percent of population_: 29% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 29,981 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_total_: 29,981 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.25 less than 1 (2021)<br>
 
 ## Transportation
 
@@ -710,7 +710,7 @@ the FAB is equipped with a small mix of mostly older French and Soviet-era equip
 18-35 years of age for selective compulsory and voluntary military service; a higher education diploma is required; both sexes are eligible for military service; conscript tour of duty - 18 months (2021)<br>
 
 **Military deployments**<br>
-260 Mali (MINUSMA) (Oct 2021)<br>
+260 (plus about 160 police) Mali (MINUSMA) (Jan 2022)<br>
 
 **Military - note**<br>
 as of 2021, Benin participated in the Multinational Joint Task Force (MNJTF) against the terrorist group Boko Haram (see Appendix T) along with Cameroon, Chad, Niger, and Nigeria; the Benin military contingent is in charge of MNJTF garrison duties<br> <p>as of 2021, the FAB had a close working relationship with the Belgian armed forces; the Belgians offered advice, training, and secondhand equipment donations, and deployed to Benin for limited military exercises</p><br>

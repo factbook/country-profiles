@@ -619,8 +619,8 @@ _total_: 4.64 million (2021 est.)<br>
 _percent of population_: 89.92% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,701,561 (2020)<br>
-_subscriptions per 100 inhabitants_: 31.17 (2020 est.)<br>
+_total_: 1,701,561 (2021)<br>
+_subscriptions per 100 inhabitants_: 31.17 (2021)<br>
 
 ## Transportation
 
@@ -648,7 +648,7 @@ _914 to 1,523 m_: 10<br>
 _under 914 m_: 5 (2021)<br>
 
 **Heliports**<br>
-1 (2019)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 2270 km gas transmission pipelines, 6278 km high-pressure gas distribution pipelines, 27023 km mid- and low-pressure gas distribution pipelines (2016), 510 km oil (2015)<br>
@@ -691,7 +691,7 @@ the inventory of the Slovakian military consists mostly of Soviet-era platforms;
 note - as of 2019, women made up around 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-240 Cyprus (UNFICYP); up to 175 Latvia (NATO); 250 Slovakia (NATO) (2022)<br>
+240 Cyprus (UNFICYP); up to 150 Latvia (NATO); 250 Slovakia (NATO) (2022)<br>
 
 **Military - note**<br>
 Slovakia officially became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host a NATO ground force battlegroup comprised of troops from Czechia, Germany, the Netherlands, Poland, Slovakia, Slovenia, and the US<br>
@@ -702,7 +702,7 @@ Slovakia officially became a member of NATO in 2004<br><br>in 2022, Slovakia agr
 <p>bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 339,680 (Ukraine) (as of 18 April 2022)<br>
+_refugees (country of origin)_: 357,560 (Ukraine) (as of 25 April 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

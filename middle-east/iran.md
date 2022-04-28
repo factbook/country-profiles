@@ -607,8 +607,8 @@ _total subscriptions_: 29,093,587 (2020)<br>
 _subscriptions per 100 inhabitants_: 34.64 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 127,624,951 (2020)<br>
-_subscriptions per 100 inhabitants_: 152 (2020 est.)<br>
+_total subscriptions_: 119 million (2022)<br>
+_subscriptions per 100 inhabitants_: 139.1 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: challenged by censorship and international sanctions; large, youthful, tech-savvy demographic with unmet demand; state-owned operators provided special offerings for services during pandemic, driving mobile broadband and deployment of 4G to nearly all of the population; government expanding fiber network and preparing for 5G to grow digital economy and smart city infrastructure; importer of broadcasting and computer equipment from UAE and China (2020)<br>
@@ -623,12 +623,12 @@ state-run broadcast media with no private, independent broadcasters; Islamic Rep
 .ir<br>
 
 **Internet users**<br>
-_total_: 59.16 million (2021 est.)<br>
-_percent of population_: 84.11% (2020 est.)<br>
+_total_: 71.94 million (2022)<br>
+_percent of population_: 84.1% (2022)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 9,564,195 (2020)<br>
-_subscriptions per 100 inhabitants_: 11.39 (2020 est.)<br>
+_total_: 9,564,195 (2021)<br>
+_subscriptions per 100 inhabitants_: 11.39 (2021)<br>
 
 ## Transportation
 
@@ -661,7 +661,7 @@ _914 to 1,523 m_: 135<br>
 _under 914 m_: 32 (2021)<br>
 
 **Heliports**<br>
-26 (2013)<br>
+26 (2021)<br>
 
 **Pipelines**<br>
 7 km condensate, 973 km condensate/gas, 20794 km gas, 570 km liquid petroleum gas, 8625 km oil, 7937 km refined products (2013)<br>
@@ -712,7 +712,7 @@ note - in 2020, the UN lifted a 2010 embargo on exports of most types of major a
 note - as of 2019, approximately 80% of Artesh ground forces personnel were conscripts, while Navy and Air/Air Defense Force personnel were primarily volunteers; conscripts reportedly comprised more than 50 percent of the IRGC<br>
 
 **Military deployments**<br>
-est. 1-3,000 Syria (2021)<br>
+estimated 1-3,000 Syria (2022)<br>
 note - Iran has recruited, trained, and funded thousands of Syrian and foreign fighters to support the ASAD regime during the Syrian civil war<br>
 
 **Military - note**<br>

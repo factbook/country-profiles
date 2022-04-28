@@ -606,12 +606,12 @@ Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji
 .fj<br>
 
 **Internet users**<br>
-_total_: 634,100 (2021 est.)<br>
-_percent of population_: 49.97% (2019 est.)<br>
+_total_: 676,200 (2022 est.)<br>
+_percent of population_: 74.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 13,033 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 1.38 (2019 est.)<br>
+_total_: 23,062 (2021)<br>
+_subscriptions per 100 inhabitants_: 2.57 (2021)<br>
 
 ## Transportation
 
@@ -681,7 +681,7 @@ the RFMF is lightly armed and equipped; Australia has provided patrol boats and 
 18 years of age for voluntary military service; mandatory retirement at age 55 (2021)<br>
 
 **Military deployments**<br>
-170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (Oct 2021)<br>
+170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (Jan 2022)<br>
 
 **Military - note**<br>
 <p>the RFMF consists of only 1 infantry regiment and a small naval element with a few patrol boats; as of 2021, it did not possess any aircraft</p> <p>the RFMF has a history of intervening in the country’s politics since the late 1980s, including coups in 1987 and 2006, and a mutiny in 2000</p> <p>the RFMF also has a long tradition of participating in UN peacekeeping operations; since its first deployment of troops to South Lebanon in 1978 under the United Nations Interim Force in Lebanon (UNIFIL), it has deployed troops on nearly 20 additional UN missions</p><br>

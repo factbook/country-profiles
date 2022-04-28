@@ -423,6 +423,10 @@ _electrification - total population_: 100% (2020)<br>
 
 ## Communications
 
+**Telephones - mobile cellular**<br>
+_total subscriptions_: 1.125 million (2022)<br>
+_subscriptions per 100 inhabitants_: 131.5 (2022)<br>
+
 **Telecommunication systems**<br>
 _domestic_: landline, telefax, mobile cellular telephone system<br>
 _international_: country code - 44; fiber-optic cable, microwave radio relay, satellite earth station, submarine cable<br>
@@ -435,7 +439,8 @@ national public radio broadcasts over 3 FM stations and 1 AM station; 2 commerci
 .im<br>
 
 **Internet users**<br>
-_total_: 63,500 (2021 est.)<br>
+_total_: 63,800 (2022)<br>
+_percent of population_: 76.9% (2022)<br>
 
 ## Transportation
 

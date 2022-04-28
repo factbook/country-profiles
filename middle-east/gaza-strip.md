@@ -452,7 +452,7 @@ _under 914 m_: 1 (2021)<br>
 <strong>note</strong> - non-operational<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Roadways**<br>
 <p><strong>note:</strong> see entry for the West Bank</p><br>

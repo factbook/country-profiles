@@ -354,8 +354,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010); Vice President (vacant); note - Vice President Daniel Kablan DUNCAN resigned 8 July 2020; note - the 2016 constitution calls for the establishment of the position of vice-president<br>
-_head of government_: Prime Minister Patrick ACHI (since 10 March 2021) resigns 13 April 2022; note- President Alassane Dramane OUATTARA to appoint new prime minister and cabinet in April.&nbsp;<br>
+_chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010); Vice President Ti&eacute;moko Meyliet KONE (since 19 April 2022) note - Vice President Ti&eacute;moko Meyliet KONE was appointed by President Alassane Dramane OUATTARA before a Congressional meeting on 19 April 2022<br>
+_head of government_: Prime Minister Patrick ACHI (since 19 April 2022) <br>note - Prime Minister ACHI resigned on 13 April 2022 and was reappointed by President Alassane Dramane OUATTARA before a Congressional meeting on 19 April 2022<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term ; election last held on 31 October 2020 (next to be held in October 2025); vice president elected on same ballot as president; prime minister appointed by the president; note &ndash; because President OUATTARA promulgated the new constitution during his second term, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms<br>
 _election results_: Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%<br>
@@ -646,8 +646,8 @@ _total_: 9.94 million (2022 est.)<br>
 _percent of population_: 36.3% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 260,097 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_total_: 260,097 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.99 less than 1 (2021)<br>
 
 ## Transportation
 
@@ -676,7 +676,7 @@ _914 to 1,523 m_: 11<br>
 _under 914 m_: 3 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 101 km condensate, 256 km gas, 118 km oil, 5 km oil/gas/water, 7 km water (2013)<br>
@@ -725,7 +725,7 @@ the inventory of the FACI consists mostly of older or second-hand equipment, typ
 18-25 years of age for compulsory and voluntary male and female military service; conscription is not enforced; voluntary recruitment of former rebels into the new national army is restricted to ages 22-29 (2021)<br>
 
 **Military deployments**<br>
-800 Mali (MINUSMA) (Oct 2021)<br>
+860 Mali (MINUSMA) (Jan 2022)<br>
 
 **Military - note**<br>
 the military has mutinied several times since the late 1990s, most recently in 2017, and has had a large role in the country’s political turmoil; as of late 2021, the FACI was focused on internal security and the growing threat posed by Islamic militants associated with the al-Qa’ida in the Islamic Maghreb (AQIM) terrorist group operating across the border in Burkina Faso; AQIM militants conducted significant attacks in the country in 2016 and 2020; Côte d’Ivoire since 2016 has stepped up border security and completed building a joint counter-terrorism training center with France near Abidjan in 2020<br><br>the UN maintained a 9,000-strong peacekeeping force in Cote d’Ivoire (UNOCI) from 2004 until 2017<br>

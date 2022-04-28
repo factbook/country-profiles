@@ -648,8 +648,8 @@ _total_: 38.19 million (2021 est.)<br>
 _percent of population_: 56.17% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,303,057 (2020)<br>
-_subscriptions per 100 inhabitants_: 2.2 (2020 est.)<br>
+_total_: 1,303,057 (2021)<br>
+_subscriptions per 100 inhabitants_: 2.2 (2021)<br>
 
 ## Transportation
 
@@ -726,8 +726,8 @@ the SANDF's inventory consists of a mix of domestically-produced and foreign-sup
 note - in 2019, women comprised about 30% of the SANDF<br>
 
 **Military deployments**<br>
-950 Democratic Republic of the Congo (MONUSCO) (Oct 2021)<br>
-note - in 2021, South Africa sent a contingent of about 1,500 troops to Mozambique as part of a Southern African Development Community (SADC) force to help quell an insurgency<br>
+930 Democratic Republic of the Congo (MONUSCO); 1,500 Mozambique (part of a Southern African Development Community force to help quell an insurgency) (2022)<br>
+note - in 2021, South Africa sent a contingent of about 1,500 troops to Mozambique as part of a Southern African Development Community (SADC) force to help quell an insurgency; in<br>
 
 **Military - note**<br>
 <p>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands</p> <p>as of 2021, the SANDF was one of Africa’s most capable militaries; it participated regularly in African and UN peacekeeping missions and had the ability to independently deploy throughout Africa; over the past decade, however, its operational readiness and modernization programs have been hampered by funding shortfalls</p><br>

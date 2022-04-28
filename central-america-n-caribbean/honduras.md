@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Once part of Spain's vast empire in the New World, Honduras became an independent nation in 1821. After two and a half decades of mostly military rule, a freely elected civilian government came to power in 1982. During the 1980s, Honduras proved a haven for anti-Sandinista contras fighting the Marxist Nicaraguan Government and an ally to Salvadoran Government forces fighting leftist guerrillas. The country was devastated by Hurricane Mitch in 1998, which killed about 5,600 people and caused approximately $2 billion in damage. Since then, the economy has slowly rebounded.<br>
+Once part of Spain's vast empire in the New World, Honduras became an independent nation in 1821. After two and a half decades of mostly military rule, a freely elected civilian government came to power in 1982. During the 1980s, Honduras proved a haven for anti-Sandinista contras fighting the Marxist Nicaraguan Government and an ally to Salvadoran Government forces fighting leftist guerrillas. The country was devastated by Hurricane Mitch in 1998, which killed about 5,600 people and caused approximately $2 billion in damage. Since then, the economy has slowly rebounded, despite COVID and severe storm-related setbacks in 2020 and 2021.<br>
 
 ## Geography
 
@@ -345,7 +345,7 @@ _election results_: <br><em>2021: </em>Iris Xiomara CASTRO de Zelaya elected pre
 **Legislative branch**<br>
 _description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 28 November 2021 (next to be held on 30 November 2025)<br>
-_election results_: percent of vote by party - LIBRE 39.8%, PNH 31.3%, PL 16.4%, PSH 10.9%, DC 0.8%, PAC 0.8%; seats by bloc or party - LIBRE 51, PNH 40, PL 21, PSH 14, DC 1, PAC 1<br>
+_election results_: percent of vote by party - LIBRE 39.8%, PNH 31.3%, PL 16.4%, PSH 10.9%, DC 0.8%, PAC 0.8%; seats by bloc or party - LIBRE 51, PNH 40, PL 21, PSH 14, DC 1, PAC 1; composition - men 93, women 35, percent of women 27.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 7 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction<br>
@@ -613,8 +613,8 @@ _total subscriptions_: 531,763 (2020)<br>
 _subscriptions per 100 inhabitants_: 5.37 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,960,654 (2020)<br>
-_subscriptions per 100 inhabitants_: 70.28 (2020 est.)<br>
+_total subscriptions_: 7.61 million (2020)<br>
+_subscriptions per 100 inhabitants_: 75.1 (2022)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p style="background: white; margin: 0in 0in 6.4pt 0in;">among the poorest countries in Central America, Honduras has a neglected telecom sector complicated by political stalemate and geographic challenges; mobile subscribership is growing; DSL and cable Internet available in urban areas but expensive; government proposed ICT master plan to boost e-government and business, including free Internet to households; US based network ready to deploy 5G <br></p> (2020)<br>
@@ -629,12 +629,12 @@ multiple privately owned terrestrial TV networks, supplemented by multiple cable
 .hn<br>
 
 **Internet users**<br>
-_total_: 3.81 million (2021 est.)<br>
-_percent of population_: 31.7% (2019 est.)<br>
+_total_: 5.67 million (2022)<br>
+_percent of population_: 55.9% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 396,454 (2020)<br>
-_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
+_total_: 396,916 (2021)<br>
+_subscriptions per 100 inhabitants_: 4.01 (2021 est.)<br>
 
 ## Transportation
 

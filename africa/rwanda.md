@@ -635,8 +635,8 @@ _total_: 4.12 million (2021 est.)<br>
 _percent of population_: 21.77% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 17,685 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_total_: 17,685 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.14 less than 1 (2021 est.)<br>
 
 ## Transportation
 
@@ -695,7 +695,7 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 18 years of age for voluntary military service (men and women); no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2021)<br>
 
 **Military deployments**<br>
-2,250 Central African Republic (approximately 1,500 for MINUSCA; an additional 750 sent bilaterally in August, 2021); 1,000 Mozambique (deployed mid-2021 to assist with combating insurgency); 2,600 South Sudan (UNMISS) (Oct 2021)<br>
+2,450 (plus about 500 police) Central African Republic (approximately 1,700 for MINUSCA; an additional 750 sent bilaterally in August, 2021); 1,000 Mozambique (deployed mid-2021 to assist with combating insurgency); 2,600 (plus about 400 police) South Sudan (UNMISS) (Feb 2022)<br>
 
 **Military - note**<br>
 <p>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of late 2021, over 5,000 RDF personnel were deployed on missions in the African countries of the Central African Republic, Mozambique, and South Sudan</p><br>

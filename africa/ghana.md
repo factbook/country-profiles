@@ -646,12 +646,12 @@ state-owned TV station, 2 state-owned radio networks; several privately owned TV
 .gh<br>
 
 **Internet users**<br>
-_total_: 15.7 million (2021 est.)<br>
-_percent of population_: 53% (2019 est.)<br>
+_total_: 16.99 million (2022 est.)<br>
+_percent of population_: 53% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 78,371 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_total_: 78,371 Total fixed broadband subscriptions from Vodafone 62,284; AirtelTigo 700; MTN 14,038; Mainone 111; Simba Fibre 41; K-Net 310; Tizeti 810; Sactis Ghana 45; Orange business 22; Vodafone (2021)<br>
+_subscriptions per 100 inhabitants_: 0.25 less than 1 (2021 est.)<br>
 
 ## Transportation
 
@@ -722,7 +722,7 @@ the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Wester
 18-26 years of age for voluntary military service, with basic education certificate; no conscription (2021)<br>
 
 **Military deployments**<br>
-150 Mali (MINUSMA); 875 Lebanon (UNIFIL); 860 South Sudan (UNMISS) (Oct 2021)<br>
+150 Mali (MINUSMA); 875 Lebanon (UNIFIL); 730 (plus about 300 police) South Sudan (UNMISS) (Jan 2022)<br>
 
 **Military - note**<br>
 <p>the military of Ghana traces its origins to the Gold Coast Constabulary that was established in 1879 and renamed the Gold Coast Regiment in 1901; the Gold Coast Regiment was part of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; following independence in 1957, the Gold Coast Regiment formed the basis for the new Ghanaian Army</p> <p>as of 2021, the primary missions for the Ghanaian military included assisting other security services with internal security and patrolling the country’s economic exclusion zone, which has led to efforts to expand the Navy’s capabilities in recent years; since sending a contingent of troops to the Congo in 1960, the Ghana military has been a regular contributor to African- and UN-sponsored peacekeeping missions</p><br>

@@ -371,7 +371,7 @@ _election results_: percent of vote in 2020 first round - Mohamed BAZOUM (PNDS-T
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (171 seats - 166 currently; 158 members directly elected from 8 multi-member constituencies in 7 regions and Niamey by party-list proportional representation, 8 reserved for minorities elected in special single-seat constituencies by simple majority vote, 5 seats reserved for Nigeriens living abroad - l seat per continent - elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
-_elections_: last held on 27 December 2020 (next to be held in 2025)<br>
+_elections_: last held on 27 December 2020&nbsp;<br>
 _election results_: percent of vote by party - percent of vote by party - PNDS-Tarrayya 37.04%, MODEN/FA Lumana 8.71%, MPR-Jamhuriya 7.59%, MNSD-Nassara 6.77%,&nbsp; RDR-Tchanji 4.41%, CPR-Inganci 4.15%, MPN-Kishin Kassa 3.97%, PJP Generation Dubara 2.88%, ANDP Zaman Lahya 2.46%, RPP Farrilla 2.10%, ARD Adaltchi-Mutuntchi 1.74%, AMEN AMIN 1.43%, MDEN Falala 1.42%, other 15.33%; seats by party - PNDS-Tarrayya 79, MODEN/FA Lumana 19, MPR-Jamhuriya 14, MNSD-Nassara 13, CPR-Inganci 8, MPN-Kishin Kassa 6, ANDP-Zaman Lahiya 3, RPP Farrilla 2, PJP Generation Dubara 2, ARD Adaltchi-Mutuntchi 2, AMEN AMIN 2, other 16; composition - men 123, women 43, percent of women 25.9%<br>
 
 **Judicial branch**<br>
@@ -380,21 +380,21 @@ _judge selection and term of office_: Constitutional Court judges nominated/elec
 _subordinate courts_: Court of Cassation; Council of State; Court of Finances; various specialized tribunals and customary courts<br>
 
 **Political parties and leaders**<br>
-Alliance of Movements for the Emergence of Niger or AMEN AMIN [Omar Hamidou TCHIANA]<br>Congress for the Republic or CPR-Inganci [Kassoum MOCTAR]<br>Democratic Alliance for Niger or ADN-Fusaha [Habi Mahamadou SALISSOU]<br>Democratic and Social Convention-Rahama or CDS-Rahama [Abdou LABO]<br>National Movement for the Development of Society-Nassara or MNSD-Nassara [Seini OUMAROU]<br>Nigerien Alliance for Democracy and Progress-Zaman Lahiya or ANDP-Zaman Lahiya [Moussa Moumouni DJERMAKOYE]<br>Nigerien Democratic Movement for an African Federation or MODEN/FA Lumana [Hama AMADOU]<br>Nigerien Movement for Democratic Renewal or MNRD-Hankuri [Mahamane OUSMANE]<br>Nigerien Party for Democracy and Socialism or PNDS-Tarrayya [Mahamadou ISSOUFOU]<br>Nigerien Patriotic Movement or MPN-Kishin Kassa [Ibrahim YACOUBA]<br>Party for Socialism and Democracy in Niger or PSDN-Alheri<br>Patriotic Movement for the Republic or MPR-Jamhuriya [Albade ABOUBA]<br>Rally for Democracy and Progress-Jama'a or RDP-Jama'a [Hamid ALGABID]<br>Social and Democratic Rally or RSD-Gaskiyya [Amadou CHEIFFOU]<br>Social Democratic Party or PSD-Bassira [Mohamed BEN OMAR]<br>Union for Democracy and the Republic-Tabbat or UDR-Tabbat [Amadou Boubacar CISSE]<br>
+Alliance of Movements for the Emergence of Niger or AMEN AMIN [Omar Hamidou TCHIANA]<br>Congress for the Republic or CPR-Inganci [Kassoum MOCTAR]<br>Democratic Alliance for Niger or ADN-Fusaha [Habi Mahamadou SALISSOU]<br>National Movement for the Development of Society-Nassara or MNSD-Nassara [Seini OUMAROU]<br>Nigerien Alliance for Democracy and Progress-Zaman Lahiya or ANDP-Zaman Lahiya [Moussa BARAZE]<br>Nigerien Democratic Movement for an African Federation or MODEN/FA Lumana [Seydou TAHIROU]<br>Nigerien Movement for Democratic Renewal or MNRD-Hankuri [Mahamane OUSMANE]<br>Nigerien Party for Democracy and Socialism or PNDS-Tarrayya [Mohamed BAZOUM]<br>Nigerien Patriotic Movement or MPN-Kishin Kassa [Ibrahim YACOUBA]<br>Patriotic Movement for the Republic or MPR-Jamhuriya [Albade ABOUBA]<br>Rally for Democracy and Progress-Jama'a or RDP-Jama'a [Hamid ALGABID]<br>Social and Democratic Rally or RSD-Gaskiyya [Amadou CHEIFFOU]<br>Social Democratic Party or PSD-Bassira [Sanoussi MAREINI]<br>Union for Democracy and the Republic-Tabbat or UDR-Tabbat [Amadou Boubacar CISSE]<br>
 <strong>note:</strong> the SPLM and SPLM-DC are banned political parties<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Mahamane Bachir FIFI, Minister (since 16 December 2020)<br>
+_chief of mission_: Ambassador Kiari LIMAN-TINGUIRI (since 7 February 2022)<br>
 _chancery_: 2204 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-4224<br>
 _FAX_: [1] (202) 483-3169<br>
 _email address and website_: <br>communication@embassyofniger.org<br><br>http://www.embassyofniger.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Eric P. WHITAKER (since 26 January 2018)<br>
+_chief of mission_: Ambassador (vacant), Charg&eacute; d&rsquo;Affaires, Susan N&rsquo;GARNIM (since 23 August 2021)<br>
 _embassy_: BP 11201, Niamey<br>
 _mailing address_: 2420 Niamey Place, Washington DC&nbsp; 20521-2420<br>
 _telephone_: [227] 20-72-26-61<br>
@@ -657,8 +657,8 @@ _total_: 3.36 million (2021 est.)<br>
 _percent of population_: 10.22% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,650 (2017 est.)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
+_total_: 12,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.05 less than 1 (2021 est.)<br>
 
 ## Transportation
 
@@ -685,7 +685,7 @@ _914 to 1,523 m_: 15<br>
 _under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 464 km oil<br>
@@ -725,7 +725,7 @@ the FAN's inventory consists of a wide variety of older weapons; since 2010, the
 has conscription, although it is reportedly not always enforced; 18 is the legal minimum age for compulsory or voluntary military service; enlistees must be Nigerien citizens and unmarried; 2-year service term; women may serve in health care (2021)<br>
 
 **Military deployments**<br>
-870 Mali (MINUSMA) (Sep 2021)<br>
+870 Mali (MINUSMA) (Feb 2022)<br>
 note(s) - Niger is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali, Mauritania, and Chad; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane<br><br>Niger also has about 1,000 troops committed to the Multinational Joint Task Force (MNJTF) against against the terrorist group Boko Haram (see Appendix T<u>)</u>; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
 
 **Military - note**<br>

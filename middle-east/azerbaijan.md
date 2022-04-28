@@ -653,7 +653,7 @@ _total_: 7<br>
 _under 914 m_: 7 (2021)<br>
 
 **Heliports**<br>
-1 (2012)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 89 km condensate, 3890 km gas, 2446 km oil (2013)<br>

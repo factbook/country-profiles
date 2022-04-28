@@ -636,8 +636,8 @@ _total_: 1.82 million (2022 est.)<br>
 _percent of population_: 14.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,230 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_total_: 4,230 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.04 less than 1 (2021)<br>
 
 ## Transportation
 
@@ -657,7 +657,7 @@ _914 to 1,523 m_: 4<br>
 _under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
-1 (2012)<br>
+1 (2021)<br>
 
 **Roadways**<br>
 _total_: 12,322 km (2016)<br>
@@ -692,7 +692,7 @@ the FDN is armed mostly with weapons from Russia and the former Soviet Union, wi
 18 years of age for voluntary military service (2021)<br>
 
 **Military deployments**<br>
-750 Central African Republic (MINUSCA); 5,400 Somalia (AMISOM) (Oct 2021)<br>
+750 Central African Republic (MINUSCA); 5,400 Somalia (AMISOM) (Jan 2022)<br>
 
 **Military - note**<br>
 in addition to its foreign deployments, the FDN as of 2021 was focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); these groups were based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi<br>

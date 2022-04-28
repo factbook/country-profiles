@@ -628,8 +628,8 @@ _total_: 27.43 million (2021 est.)<br>
 _percent of population_: 89.56% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,358,800 (2020)<br>
-_subscriptions per 100 inhabitants_: 10.38 (2020 est.)<br>
+_total_: 3,358,800 (2021)<br>
+_subscriptions per 100 inhabitants_: 10.38 (2021 est.)<br>
 
 ## Transportation
 
@@ -659,7 +659,7 @@ _914 to 1,523 m_: 6<br>
 _under 914 m_: 69 (2021)<br>
 
 **Heliports**<br>
-4 (2013)<br>
+4 (2021)<br>
 
 **Pipelines**<br>
 354 km condensate, 6439 km gas, 155 km liquid petroleum gas, 1937 km oil, 43 km oil/gas/water, 114 km refined products, 26 km water (2013)<br>
@@ -711,7 +711,7 @@ the Malaysian Armed Forces field a diverse mix of mostly older imported weapons 
 note - in 2020, the Malaysian Armed Forces announced a goal of having 10% of the active military comprised of women<br>
 
 **Military deployments**<br>
-880 Lebanon (UNIFIL) (Oct 2021)<br>
+830 Lebanon (UNIFIL) (Feb 2022)<br>
 
 **Military - note**<br>
 <p>maritime security has long been a top priority for the Malaysian Armed Forces, but it has received even greater emphasis in the 2000s, particularly anti-piracy operations in the Strait of Malacca and countering Chinese naval incursions in Malaysia’s Economic Exclusion Zone, as well as addressing identified shortfalls in maritime capabilities; as such, it has undertaken modest efforts to procure more modern ships, improve air and maritime surveillance, expand the Navy’s support infrastructure (particularly bases/ports) and domestic ship-building capacities, restructure naval command and control, and increase naval cooperation with regional and international partners; as of 2021, for example, the Navy had 6 frigates fitting out or under construction and scheduled for completion by 2023, which will increase the number of operational frigates from 2 to 8; in addition, it began tri-lateral air and naval patrols with Indonesia and the Philippines in 2017; Malaysia also cooperates closely with the US military, including on maritime surveillance and participating regularly in bilateral and multilateral training exercises</p><br>

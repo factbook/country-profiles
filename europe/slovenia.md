@@ -330,8 +330,8 @@ _election results_: <em><br>2017:</em> Borut PAHOR is reelected president in sec
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br>National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br>National Council - last held on 22 November 2017 (next to be held in 2022)<br>National Assembly - last held on 3 June 2018 (next to be held on 24 April 2022)<br>
-_election results_: <br>National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br>National Assembly - percent of vote by party - SDS 24.9%, LMS 12.7%, SD 9.9%, SMC 9.8%, Levica 9.3%, NSi 7.1%, Stranka AB 5.1%, DeSUS 4.9%, SNS 4.2%, other 12.1%; seats by party - SDS 25, LMS 13, SD 10, SMC 10, Levica 9, NSi 7, Stranka AB 5, DeSUS 5, SNS 4, Italian and Hungarian minorities 2; composition - men 68, women 22, percent of women 24.4%; note - total Parliament percent of women 20%<br>
+_elections_: <br>National Council - last held on 22 November 2017 (next to be held in 2022)<br>National Assembly - last held on 24 April 2022 (next to be held in 2026)<br>
+_election results_: <br>National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br>National Assembly - percent of vote by party - GS 34.5%, SDS 23.5%, NSi 6.9%, SD 6.7%, Levica 4.4%, other 24%; seats by party - GS 41, SDS 27, NSi 8, SD 7, Levica 5; composition - men NA, women NA, percent of women NA%; note - total Parliament percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and 37 judges organized into civil, criminal, commercial, labor and social security, administrative, and registry departments); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
@@ -339,7 +339,7 @@ _judge selection and term of office_: Supreme Court president and vice president
 _subordinate courts_: county, district, regional, and high courts; specialized labor-related and social courts; Court of Audit; Administrative Court<br>
 
 **Political parties and leaders**<br>
-Democratic Party of Pensioners of Slovenia or DeSUS [Aleksandra PIVEC]<br>List of Marjan Sarec or LMS [Marjan SAREC]<br>Modern Center Party or SMC [Miro CERAR]<br>New Slovenia or NSi [Matej TONIN]<br>Party of Alenka Bratusek or Stranka AB [Alenka BRATUSEK] (formerly Alliance of Social Liberal Democrats or ZSD and before that Alliance of Alenka Bratusek or ZaAB)<br>Slovenian Democratic Party or SDS [Janez JANSA]<br>Slovenian National Party or SNS [Zmago JELINCIC Plemeniti]<br>Social Democrats or SD [Dejan ZIDAN]<br>The Left or Levica [Luka MESEC] (successor to United Left or ZL)<br>
+Democratic Party of Pensioners of Slovenia or DeSUS [Aleksandra PIVEC]<br>Freedom Movement or GS [Robert GOLOB] (formerly Greens Actions Party)<br>List of Marjan Sarec or LMS [Marjan SAREC]<br>New Slovenia - Christian Democrats or NSi [Matej TONIN]<br>Party of Alenka Bratusek or Stranka AB [Alenka BRATUSEK] (formerly Alliance of Social Liberal Democrats or ZSD and before that Alliance of Alenka Bratusek or ZaAB)<br>Slovenian Democratic Party or SDS [Janez JANSA]<br>Slovenian National Party or SNS [Zmago JELINCIC Plemeniti]<br>Social Democrats or SD [Tanja FAJON]<br>The Left or Levica [Luka MESEC] (successor to United Left or ZL)<br>
 
 **International organization participation**<br>
 Australia Group, BIS, CD, CE, CEI, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -618,8 +618,8 @@ _total_: 1.75 million (2021 est.)<br>
 _percent of population_: 86.6% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 651,604 (2020)<br>
-_subscriptions per 100 inhabitants_: 31.34 (2020 est.)<br>
+_total_: 651,604 (2021)<br>
+_subscriptions per 100 inhabitants_: 31.34 (2021)<br>
 
 ## Transportation
 
@@ -691,7 +691,7 @@ the inventory of the Slovenian Armed Forces is a mix of Soviet-era and smaller q
 note - as of 2019, women comprised about 15% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-230 Kosovo (NATO) (2021)<br>
+200 Kosovo (NATO) (2022)<br>
 
 **Military - note**<br>
 Slovenia officially became a member of NATO in 2004; Hungary and Italy provide NATO's air policing mission for Slovenia&rsquo;s airspace<br>

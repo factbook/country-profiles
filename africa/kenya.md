@@ -358,9 +358,9 @@ _elections/appointments_: president and deputy president directly elected on the
 _election results_: Uhuru KENYATTA reelected president; percent of vote - Uhuru KENYATTA (Jubilee Party) 98.3%, Raila ODINGA (ODM) 1%, other 0.7%; note - Kenya held a previous presidential election on 8 August 2017, but Kenya's Supreme Court on 1 September 2017 nullified the results, citing irregularities; the political opposition boycotted the October vote<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (67 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, and 2 representing the disabled; members serve 5-year terms)<br>National Assembly (349 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled; members serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>Senate (68 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, 2 representing the disabled, and the Senate speaker; members serve 5-year terms)<br>National Assembly (350 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled, and the Assembly speaker; members serve 5-year terms)<br>
 _elections_: Senate - last held on 8 August 2017 (next to be held in August 2022)<br>National Assembly - last held on 8 August 2017 (next to be held on 9 August 2022)<br>
-_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 24; National Super Alliance 28, other 14, independent 1; composition - men 46, women 41, percent of women is 31.3%<br><br>National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 165, National Super Alliance 119, other 51, independent 13; composition - men 273, women 76, percent of women 21.8%; note - total Parliament percent of women is 23%<br>
+_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 24; National Super Alliance 28, other 14, independent 1; composition - men 47, women 21, percent of women is 30.9%<br><br>National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 165, National Super Alliance 119, other 51, independent 13; composition - men 275, women 75, percent of women 21.4%; note - total Parliament percent of women 23%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of chief and deputy chief justices and 5 judges)<br>
@@ -649,8 +649,8 @@ _total_: 21.75 million (2021 est.)<br>
 _percent of population_: 22.57% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 674,191 (2020)<br>
-_subscriptions per 100 inhabitants_: 1.25 (2020 est.)<br>
+_total_: 674,191 (2021)<br>
+_subscriptions per 100 inhabitants_: 1.25 (2021)<br>
 
 ## Transportation
 
@@ -727,7 +727,7 @@ the KDF's inventory traditionally carried mostly older or second-hand Western we
 no conscription; 18-26 years of age for male and female voluntary service (under 18 with parental consent; upper limit 30 years of age for specialists, tradesmen, or women with a diploma; 39 years of age for chaplains/imams), with a 9-year obligation (7 years for Kenyan Navy) and subsequent 3-year re-enlistments; applicants must be Kenyan citizens (2021)<br>
 
 **Military deployments**<br>
-3,650 Somalia (AMISOM) (2021)<br>
+260 Democratic Republic of the Congo (MONUSCO); 3,650 Somalia (AMISOM) (2022)<br>
 
 **Military - note**<br>
 <p>Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate the force into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; as of mid-2021, they consisted of approximately 3,600 troops and were responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix-T for additional details on al-Shabaab)</p><br>

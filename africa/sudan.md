@@ -638,8 +638,8 @@ _total_: 13.7 million (2021 est.)<br>
 _percent of population_: 30.87% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 28,782 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 28,782 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.07 less than 1 (2021)<br>
 
 ## Transportation
 
@@ -669,7 +669,7 @@ _914 to 1,523 m_: 24<br>
 _under 914 m_: 9 (2021)<br>
 
 **Heliports**<br>
-7 (2020)<br>
+7 (2021)<br>
 
 **Pipelines**<br>
 156 km gas, 4070 km oil, 1613 km refined products (2013)<br>
@@ -699,7 +699,7 @@ _major seaport(s)_: Port Sudan<br>
 
 **Military and security forces**<br>
 Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Support Forces (RSF); Reserve Department (formerly the paramilitary Popular Defense Forces); Border Guards (Ministry of Defense)<br><br>Ministry of Interior: security police, special forces police, traffic police, and the combat-trained Central Reserve Police (2022)<br>
-note - the RSF is a semi-autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALO (aka Hemeti) as its commander (he is also a member of the Sovereign Council); it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; as a result, the RSF was better funded and equipped than the regular armed forces; RSF has since recruited from all parts of Sudan beyond its original Darfuri Arab groups but remains under the personal patronage and control of DAGALO; the RSF has been accused of committing rights abuses against civilians; it is also reportedly involved in business enterprises, such as gold mining; in late 2019, Sovereign Council Chairman and SAF Commander-in-Chief General Abd-al-Fatah al-BURHAN said the RSF would be fully integrated into the SAF, but did not give a timeline<br>
+note - the RSF is a semi-autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALO (aka Hemeti) as its commander (he is also a member of the Sovereign Council); it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; as a result, the RSF was better funded and equipped than the regular armed forces; the RSF has since recruited from all parts of Sudan beyond its original Darfuri Arab groups but remains under the personal patronage and control of DAGALO; the RSF has been accused of committing rights abuses against civilians; it is also reportedly involved in business enterprises, such as gold mining; in late 2019, Sovereign Council Chairman and SAF Commander-in-Chief General Abd-al-Fatah al-BURHAN said the RSF would be fully integrated into the SAF, but did not give a timeline<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2020 est.)<br>
@@ -723,7 +723,7 @@ note - implementation of conscription is reportedly uneven<br>
 Sudan joined the Saudi-led coalition that intervened in Yemen in 2015, reportedly providing as many as 40,000 troops during the peak of the war in 2016-17, mostly from the Rapid Support Forces; by 2021, Sudan had reduced the size of the force to about a brigade (approximately 2-3,000 troops) (2021)<br>
 
 **Military - note**<br>
-<p>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the Sudanese military and security forces have a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA had about 3,800 personnel deployed as of November 2021<br><br>in addition, the United Nations African Union Hybrid Operation in Darfur (UNAMID) operated in the war-torn Darfur region between 2007 and the end of its mandate in July 2021; UNAMID was a joint African Union-UN peacekeeping force with the mission of bringing stability to Darfur, including protecting civilians, facilitating humanitarian assistance, and promoting mediation efforts, while peace talks on a final settlement continued; UNAMID withdrew the last of its personnel in December 2021; note - the October 2020 peace agreement provided for the establishment of a joint security force comprised of 12,000 members tasked with securing the Darfur region in the place of UNAMID; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations (2022)<br>
+<p>the Sudanese military has been a dominant force in the ruling of the country since its independence in 1956; in addition, the Sudanese military and security forces have a large role in the country's economy, reportedly controlling over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> the United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA had about 3,300 personnel deployed as of February 2022<br><br>in addition, the United Nations African Union Hybrid Operation in Darfur (UNAMID) operated in the war-torn Darfur region between 2007 and the end of its mandate in July 2021; UNAMID was a joint African Union-UN peacekeeping force with the mission of bringing stability to Darfur, including protecting civilians, facilitating humanitarian assistance, and promoting mediation efforts, while peace talks on a final settlement continued; UNAMID withdrew the last of its personnel in December 2021; note - the October 2020 peace agreement provided for the establishment of a joint security force comprised of 12,000 members tasked with securing the Darfur region in the place of UNAMID; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations (2022)<br>
 
 ## Terrorism
 

@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The Pacific coast of Nicaragua was settled as a Spanish colony from Panama in the early 16th century. Independence from Spain was declared in 1821 and the country became an independent republic in 1838. Britain occupied the Caribbean Coast in the first half of the 19th century, but gradually ceded control of the region in subsequent decades. Violent opposition to governmental manipulation and corruption spread to all classes by 1978 and resulted in a short-lived civil war that brought a civic-military coalition, spearheaded by the Marxist Sandinista guerrillas led by Daniel ORTEGA Saavedra to power in 1979. Nicaraguan aid to leftist rebels in El Salvador prompted the US to sponsor anti-Sandinista contra guerrillas through much of the 1980s. After losing free and fair elections in 1990, 1996, and 2001, former Sandinista President Daniel ORTEGA was elected president in 2006, 2011, 2016, and most recently in 2021. Municipal, regional, and national-level elections since 2008 have been marred by widespread irregularities. Democratic institutions have weakened under the ORTEGA administration as the president has garnered full control over all branches of government, especially after cracking down on a nationwide anti-government protest movement in 2018. In the lead-up to the 2021 presidential election, most of the prominent opposition candidates were either arrested or forced into exile leaving only five lesser-known candidates of mostly small parties allied to ORTEGA's Sandinistas to run against him.<br>
+The Pacific coast of Nicaragua was settled as a Spanish colony from Panama in the early 16th century. Independence from Spain was declared in 1821 and the country became an independent republic in 1838. Britain occupied the Caribbean Coast in the first half of the 19th century, but gradually ceded control of the region in subsequent decades. Violent opposition to governmental manipulation and corruption spread to all classes by 1978 and resulted in a short-lived civil war that brought a civic-military coalition, spearheaded by the Marxist Sandinista guerrillas led by Daniel ORTEGA Saavedra to power in 1979. Nicaraguan aid to leftist rebels in El Salvador prompted the US to sponsor anti-Sandinista contra guerrillas through much of the 1980s. After losing free and fair elections in 1990, 1996, and 2001, former Sandinista President Daniel ORTEGA was elected president in 2006, 2011, 2016, and most recently in 2021. Municipal, regional, and national-level elections since 2008 have been marred by widespread irregularities. Democratic institutions have weakened under the ORTEGA administration as the president has garnered full control over all branches of government, especially after cracking down on a nationwide pro-democracy protest movement in 2018. In the lead-up to the 2021 presidential election, authorities arrested over 40 individuals linked to the political opposition, including presidential candidates, private sector leaders, NGO workers, human rights defenders, and journalists. Only five lesser-known presidential candidates of mostly small parties allied to ORTEGA's Sandinistas were allowed to run against ORTEGA in the November 2021 election.<br>
 
 ## Geography
 
@@ -628,8 +628,8 @@ _total_: 2.78 million (2021 est.)<br>
 _percent of population_: 27.86% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 290,351 (2020)<br>
-_subscriptions per 100 inhabitants_: 4.38 (2020 est.)<br>
+_total_: 290,351 (2021)<br>
+_subscriptions per 100 inhabitants_: 4.38 (2021)<br>
 
 ## Transportation
 

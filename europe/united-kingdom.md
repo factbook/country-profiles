@@ -627,8 +627,8 @@ _total_: 65.32 million (2021 est.)<br>
 _percent of population_: 94.82% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 27,490,258 (2020)<br>
-_subscriptions per 100 inhabitants_: 40.49 (2020 est.)<br>
+_total_: 27,330,297 (2021)<br>
+_subscriptions per 100 inhabitants_: 40.26 (2021)<br>
 
 **Communications - note**<br>
 <strong>note 1:</strong> the British Library claims to be the largest library in the world with well over 150 million items and in most known languages; it receives copies of all books produced in the UK or Ireland, as well as a significant proportion of overseas titles distributed in the UK; in addition to books (print and digital), holdings include: journals, manuscripts, newspapers, magazines, sound and music recordings, videos, maps, prints, patents, and drawings<br><br><strong>note 2:</strong> on 1 May 1840, the United Kingdom led the world with the introduction of postage stamps; the Austrian Empire had examined the idea of an "adhesive tax postmark" for the prepayment of postage in 1835; while the suggestion was reviewed in detail, it was rejected for the time being; other countries (including Austria) soon followed the UK's example with their own postage stamps; by the 1860s, most countries were issuing stamps; originally, stamps had to be cut from sheets; the UK issued the first postage stamps with perforations in 1854<br>
@@ -662,7 +662,7 @@ _914 to 1,523 m_: 26<br>
 _under 914 m_: 160 (2021)<br>
 
 **Heliports**<br>
-9 (2013)<br>
+9 (2021)<br>
 
 **Pipelines**<br>
 502 km condensate, 9 km condensate/gas, 28603 km gas, 59 km liquid petroleum gas, 5256 km oil, 175 km oil/gas/water, 4919 km refined products, 255 km water (2013)<br>
@@ -717,7 +717,8 @@ slight variations by service, but generally 16-36 years of age for enlisted (wit
 note - as of 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 1,000 Brunei; approximately 400 Canada (BATUS); approximately 2,500 Cyprus (250 for UNFICYP); approximately 900 Estonia (NATO); approximately 1,200 Falkland Islands; approximately 200 Germany; 570 Gibraltar; approximately 1,400 Middle East (including Bahrain, Iraq, Kuwait, Oman, Saudi Arabia, UAE; coalition against ISIS; NATO); up to 350 Kenya (BATUK); approximately 350 Mali (EUTM, MINUSMA, and Operation Barkhane); 150 Poland (NATO) (2021)<br>
+approximately 1,000 Brunei; approximately 400 Canada (BATUS); approximately 2,500 Cyprus (250 for UNFICYP); approximately 900 Estonia (NATO); approximately 1,200 Falkland Islands; approximately 200 Germany; 570 Gibraltar; approximately 1,400 Middle East (including Bahrain, Iraq, Kuwait, Oman, Saudi Arabia, UAE; coalition against ISIS; NATO); up to 350 Kenya (BATUK); approximately 350 Mali (EUTM, MINUSMA, and Operation Barkhane); 150 Poland (NATO) (2022)<br><br>note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe <br>
+note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe&nbsp;<br>
 
 **Military - note**<br>
 the UK is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for UK-French bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance<br><br>in 2014, the UK led the formation of the Joint Expeditionary Force (JEF), a pool of high-readiness military forces from Baltic and Scandinavian countries able to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict; its principal geographic area of interest is the High North, North Atlantic, and Baltic Sea regions, where the JEF can complement national capabilities or NATO’s deterrence posture, although it is designed to be flexible and prepared to respond to humanitarian crises further afield; the JEF consists of 10 countries (Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, the Netherlands, Norway, Sweden, and the UK) and was declared operational in 2018; most of the forces in the pool are British, and the UK provides the most rapidly deployable units as well as the command and control elements</p><br>

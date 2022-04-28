@@ -642,8 +642,8 @@ _total_: 6.89 million (2021 est.)<br>
 _percent of population_: 78.37% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,724,392 (2020)<br>
-_subscriptions per 100 inhabitants_: 25.09 (2020 est.)<br>
+_total_: 1,730,496 (2021)<br>
+_subscriptions per 100 inhabitants_: 25.18 (2021)<br>
 
 ## Transportation
 
@@ -673,7 +673,7 @@ _914 to 1,523 m_: 10<br>
 _under 914 m_: 5 (2021)<br>
 
 **Heliports**<br>
-2 (2012)<br>
+2 (2021)<br>
 
 **Pipelines**<br>
 1936 km gas, 413 km oil<br>
@@ -717,7 +717,7 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 note - as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-175 Lebanon (UNIFIL) (Oct 2021)<br>
+200 Lebanon (UNIFIL) (Feb 2022)<br>
 
 **Military - note**<br>
 <p>Serbia does not aspire to join NATO, but has cooperated with the Alliance since 2006 when it joined the Partnership for Peace program</p><br>
@@ -731,7 +731,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 _refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 824,669 estimated refugee and migrant arrivals (January 2015-April 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
+<strong>note:</strong> 825,892 estimated refugee and migrant arrivals (January 2015-April 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

@@ -653,8 +653,8 @@ _total_: 5.48 million (2021 est.)<br>
 _percent of population_: 27.85% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 82,317 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_total_: 82,317 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.45 less than 1 (2021)<br>
 
 ## Transportation
 
@@ -729,7 +729,7 @@ the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era arm
 18-25 years of age for male and female voluntary military service (16 with parental consent); no conscription; 12-year enlistment period (7 years active, 5 in the Reserves) (2021)<br>
 
 **Military deployments**<br>
-925 Central African Republic (MINUSCA) (Oct 2021)<br>
+925 Central African Republic (MINUSCA) (Feb 2022)<br>
 
 **Military - note**<br>
 <p>the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regiment, which was raised by the British colonial government to fight in World War II; the ZDF was established in 1964 from units of the dissolved Federation of Rhodesia and Nyasaland armed forces; it participated in a number of regional conflicts during the 1970s and 1980s; Zambia actively supported independence movements such as the Union for the Total Liberation of Angola (UNITA), the Zimbabwe African People's Union (ZAPU), the African National Congress of South Africa (ANC), and the South-West Africa People's Organization (SWAPO)</p><br>

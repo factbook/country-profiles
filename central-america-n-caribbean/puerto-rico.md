@@ -263,7 +263,7 @@ unincorporated organized territory of the US with local self-government; republi
 Note: reference Puerto Rican Federal Relations Act, 2 March 1917, as amended by Public Law 600, 3 July 1950<br>
 
 **Dependency status**<br>
-unincorporated organized territory of the US; policy relations between Puerto Rico and the US conducted under the jurisdiction of the Office of the President<br>
+unincorporated organized territory of the US with commonwealth status; policy relations between Puerto Rico and the US conducted under the jurisdiction of the Office of the President<br>
 
 **Capital**<br>
 _name_: San Juan<br>
@@ -563,8 +563,8 @@ _total_: 2.21 million (2021 est.)<br>
 _percent of population_: 77.74% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 671,284 (2020)<br>
-_subscriptions per 100 inhabitants_: 23.46 (2020 est.)<br>
+_total_: 671,284 (2021)<br>
+_subscriptions per 100 inhabitants_: 23.46 (2021)<br>
 
 ## Transportation
 

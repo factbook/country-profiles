@@ -640,8 +640,8 @@ _total_: 298.8 million (2021 est.)<br>
 _percent of population_: 87.27% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 120.531 million (2020)<br>
-_subscriptions per 100 inhabitants_: 36.41 (2020 est.)<br>
+_total_: 121.176 million (2021)<br>
+_subscriptions per 100 inhabitants_: 36.61 (2021)<br>
 
 **Communications - note**<br>
 <strong>note 1:</strong> The Library of Congress, Washington DC, USA, claims to be the largest library in the world with more than 167 million items (as of 2018); its collections are universal, not limited by subject, format, or national boundary, and include materials from all parts of the world and in over 450 languages; collections include: books, newspapers, magazines, sheet music, sound and video recordings, photographic images, artwork, architectural drawings, and copyright data<br><br><strong>note 2:</strong> Cape Canaveral, Florida, USA, hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Ascension (Saint Helena, Ascension, and Tistan da Cunha), Diego Garcia (British Indian Ocean Territory), and at Kwajalein (Marshall Islands)<br>
@@ -677,7 +677,7 @@ _914 to 1,523 m_: 1,552<br>
 _under 914 m_: 6,760 (2021)<br>
 
 **Heliports**<br>
-5,287 (2013)<br>
+5,287 (2021)<br>
 
 **Pipelines**<br>
 1,984,321 km natural gas, 240,711 km petroleum products (2013)<br>
@@ -732,7 +732,7 @@ the US military's inventory is comprised almost entirely of domestically-produce
 note - in 2019, women comprised about 18% of the total US military<br>
 
 **Military deployments**<br>
-5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,700 Australia; 250 Diego Garcia; 150 Canada; 650 Cuba (Guatanamo Bay); 290 Egypt (MFO); 65,000 Europe (Belgium, Bulgaria, Germany, Greece, Italy, Kosovo, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Turkey, UK); 150 Greenland; 6,200 Guam; 370 Honduras; 56,000 Japan; approximately 15,000 assigned (Bahrain, Iraq, Israel, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, Syria, United Arab Emirates); 125 Philippines; 26,500 South Korea; 200 Singapore; 100 Thailand (2021)<br>
+5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,700 Australia; 250 Diego Garcia; 150 Canada; 650 Cuba (Guatanamo Bay); 290 Egypt (MFO); 65,000 Europe (Belgium, Bulgaria, Germany, Greece, Italy, Kosovo, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Turkey, UK); 150 Greenland; 6,200 Guam; 370 Honduras; 56,000 Japan; approximately 15,000 assigned Middle East (Bahrain, Iraq, Israel, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, Syria, United Arab Emirates); 125 Philippines; 26,500 South Korea; 200 Singapore; 100 Thailand (2021)<br>
 note - US military rotational policies affect deployment numbers; for example, the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (approximately 3,000 personnel) for 9 months at a time; contingencies also affect US troop deployments; in 2019-2020, the US deployed more than 15,000 additional military personnel to the Middle East for an extended period of time and in early 2022, it sent reinforcements to Europe in response to the Russian invasion of Ukraine; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6-7,000 personnel<br>
 
 **Military - note**<br>

@@ -625,8 +625,8 @@ _total_: 117.4 million (2021 est.)<br>
 _percent of population_: 92.73% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 43,633,244 (2020)<br>
-_subscriptions per 100 inhabitants_: 34.5 (2020 est.)<br>
+_total_: 44,000,791 Total does not equal the sum of subscriptions by speed since it included subscriptions with unknown speed. (2021)<br>
+_subscriptions per 100 inhabitants_: 34.79 (2021)<br>
 
 ## Transportation
 
@@ -656,7 +656,7 @@ _914 to 1,523 m_: 5<br>
 _under 914 m_: 28 (2021)<br>
 
 **Heliports**<br>
-16 (2013)<br>
+16 (2021)<br>
 
 **Pipelines**<br>
 4456 km gas, 174 km oil, 104 km oil/gas/water (2013)<br>
@@ -709,7 +709,7 @@ the JSDF is equipped with a mix of imported and domestically-produced equipment;
 note - as of 2020, women made up about 7% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 175 Djibouti (2021)<br>
+approximately 180 Djibouti (2022)<br>
 
 **Military - note**<br>
 <p>Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the current Self Defense Force was founded in 1954</p> <p>in addition to having one of the region’s largest and best equipped militaries, Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; as of 2021, nearly 55,000 US troops and other military assets, including aircraft and naval ships, were stationed in Japan and have exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence<br><br>Japan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>

@@ -567,12 +567,12 @@ The Bahamas has 4 major TV providers that provide service to all major islands i
 .bs<br>
 
 **Internet users**<br>
-_total_: 338,900 (2021 est.)<br>
-_percent of population_: 85% (2019 est.)<br>
+_total_: 338,900 (2022 est.)<br>
+_percent of population_: 85% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 82,295 (2019)<br>
-_subscriptions per 100 inhabitants_: 21.13 (2019 est.)<br>
+_total_: 83,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 21.11 (2021)<br>
 
 ## Transportation
 
@@ -602,7 +602,7 @@ _914 to 1,523 m_: 16<br>
 _under 914 m_: 17 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Roadways**<br>
 _total_: 2,700 km (2011)<br>

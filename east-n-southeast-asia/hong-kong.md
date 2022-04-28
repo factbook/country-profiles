@@ -551,8 +551,8 @@ _total subscriptions_: 3,934,129 (2020)<br>
 _subscriptions per 100 inhabitants_: 52.48 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21,865,215 (2020)<br>
-_subscriptions per 100 inhabitants_: 291.7 (2020 est.)<br>
+_total subscriptions_: 13.78 million (2022)<br>
+_subscriptions per 100 inhabitants_: 182 (2022)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent domestic and international services; some of the highest peak average broadband speeds and penetration rates in the world; HK government helps subsidize 5G projects and aims to be among earliest adopters of 5G mobile technology; almost all households have access to high-speed broadband connectivity through fiber; high mobile subscribership reflects tourism and multiple-device culture; government has organized the development of smart city and digital economy to encourage social inclusion and economic development, including health care, education, and utilities; US prevented use of Pacific Light submarine cable network due to security issues (2020)<br>
@@ -567,12 +567,12 @@ _international_: country code - 852;&nbsp;landing points for the APG, ASE, EAC-C
 .hk<br>
 
 **Internet users**<br>
-_total_: 6.92 million (2021 est.)<br>
-_percent of population_: 92.41% (2020 est.)<br>
+_total_: 7.05 million (2022)<br>
+_percent of population_: 93% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,871,081 (2020)<br>
-_subscriptions per 100 inhabitants_: 38.3 (2020 est.)<br>
+_total_: 2,885,586 Figure as of March 2021. From January 2019 onwards, the statistics are compiled in terms of the number of "access lines" provided by ISPs, while it was in terms of the number of "registered customer accounts" prior to that. (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 38.49 (2021 est.)<br>
 
 ## Transportation
 
@@ -594,7 +594,7 @@ _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 1 (2021)<br>
 
 **Heliports**<br>
-9 (2013)<br>
+9 (2021)<br>
 
 **Roadways**<br>
 _total_: 2,107 km (2017)<br>

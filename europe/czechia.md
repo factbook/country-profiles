@@ -623,8 +623,8 @@ _total_: 9.66 million (2022 est.)<br>
 _percent of population_: 90% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,845,426 (2021)<br>
-_subscriptions per 100 inhabitants_: 35.91 (2021 est.)<br>
+_total_: 3,845,426 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 35.91 (2021)<br>
 
 ## Transportation
 
@@ -655,7 +655,7 @@ _914 to 1,523 m_: 25<br>
 _under 914 m_: 61 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 7,160 km gas, 675 km oil, 94 km refined products (2016)<br>
@@ -699,7 +699,8 @@ the Czech military has a mix of Soviet-era and more modern equipment, mostly of 
 note - as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-the Czechia military has small numbers of troops deployed under EU, NATO, and UN command in several countries, including Bosnia and Herzegovina, the Central African Republic, Egypt, Iraq, Israel, Kosovo, Latvia, Lithuania, and Mali (2021)<br>
+up to 130 Lithuania (NATO) (2022)<br><br>note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe <br>
+note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe&nbsp;<br>
 
 **Military - note**<br>
 Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>

@@ -630,7 +630,7 @@ _percent of population_: 83.06% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 796,814 (2021)<br>
-_subscriptions per 100 inhabitants_: 29.27 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 29.27 (2021)<br>
 
 ## Transportation
 
@@ -707,7 +707,7 @@ the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons system
 note(s) - Lithuania conscripts up to 4,000 males each year; conscripts are selected using an automated lottery system; as of 2019, women comprised about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units (2021)<br>
+contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units (2022)<br>
 
 **Military - note**<br>
 Lithuania officially became a member of NATO in 2004<br> <p>since 2017, Lithuania has hosted a German-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative</p> <p>NATO also has provided air protection for Lithuania since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base</p><br>

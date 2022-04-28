@@ -638,8 +638,8 @@ _total_: 3.34 million (2022 est.)<br>
 _percent of population_: 82% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,030,973 (2020)<br>
-_subscriptions per 100 inhabitants_: 25.11 (2020 est.)<br>
+_total_: 1,030,973 (2021)<br>
+_subscriptions per 100 inhabitants_: 25.11 (2021)<br>
 
 ## Transportation
 
@@ -670,7 +670,7 @@ _914 to 1,523 m_: 6<br>
 _under 914 m_: 38 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 2410 km gas, 610 km oil (2011)<br>
@@ -715,6 +715,9 @@ the inventory of the Croatian Armed Forces consists mostly of Soviet-era equipme
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription abolished in 2008 (2021)<br>
 note - as of 2019, women comprised about 13% of the military's full-time personnel<br>
+
+**Military deployments**<br>
+130 Kosovo (KFOR/NATO) (2022)<br>
 
 **Military - note**<br>
 Croatia officially became a member of NATO in 2009<br>

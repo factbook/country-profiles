@@ -629,8 +629,8 @@ _total_: 1.11 million (2022 est.)<br>
 _percent of population_: 91% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 332,080 (2020)<br>
-_subscriptions per 100 inhabitants_: 37.4 (2020 est.)<br>
+_total_: 332,080 (2021)<br>
+_subscriptions per 100 inhabitants_: 37.4 (2021 est.)<br>
 
 ## Transportation
 
@@ -658,7 +658,7 @@ _total_: 2<br>
 _under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
-9 (2013)<br>
+9 (2021)<br>
 
 **Pipelines**<br>
 0 km oil<br>
@@ -700,7 +700,7 @@ the inventory of the Cypriot National Guard is a mix of Soviet-era and some more
 Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; 14-month service obligation (2021)<br>
 
 **Military - note**<br>
-the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UNFICYP mission had about 1,000 personnel as of November 2021<br>
+the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UNFICYP mission had about 850 personnel as of February 2022<br>
 
 ## Terrorism
 

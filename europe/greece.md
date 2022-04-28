@@ -615,12 +615,12 @@ broadcast media dominated by the private sector; roughly 150 private TV channels
 .gr<br>
 
 **Internet users**<br>
-_total_: 8.39 million (2021 est.)<br>
-_percent of population_: 78.12% (2020 est.)<br>
+_total_: 8.5 million (2022 est.)<br>
+_percent of population_: 82.2% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,257,026 (2020)<br>
-_subscriptions per 100 inhabitants_: 40.84 (2020 est.)<br>
+_total_: 4,257,026 (2021)<br>
+_subscriptions per 100 inhabitants_: 40.84 (2021 est.)<br>
 
 ## Transportation
 
@@ -650,7 +650,7 @@ _914 to 1,523 m_: 2<br>
 _under 914 m_: 7 (2021)<br>
 
 **Heliports**<br>
-9 (2013)<br>
+9 (2021)<br>
 
 **Pipelines**<br>
 1466 km gas, 94 km oil (2013)<br>
@@ -701,7 +701,7 @@ note - in addition to finalizing an update to the Mutual Defense Cooperation Agr
 note(s) - approximately 40-50% of the Greek military is comprised of conscripts; as of 2019, women comprised approximately 19% of the full-time military personnel<br>
 
 **Military deployments**<br>
-approximately 1,000 Cyprus; 110 Kosovo (NATO); 150 Lebanon (UNIFIL) (Sep 2021)<br>
+approximately 1,000 Cyprus; 100 Kosovo (NATO); 150 Lebanon (UNIFIL) (2022)<br>
 
 **Military - note**<br>
 Greece joined NATO in 1952<br>
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,215,844 estimated refugee and migrant arrivals (January 2015-April 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,215,981 estimated refugee and migrant arrivals (January 2015-April 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

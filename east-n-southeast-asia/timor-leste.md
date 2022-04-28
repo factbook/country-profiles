@@ -332,8 +332,8 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Francisco GUTERRES (since 20 May 2017); note - the president is commander in chief of the military and is able to veto legislation, dissolve parliament, and call national elections<br>
 _head of government_: Prime Minister Taur Matan RUAK (since 22 June 2018)<br>
 _cabinet_: the governing coalition in the Parliament proposes cabinet member candidates to the Prime Minister, who presents these recommendations to the President of the Republic for swearing in<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held in March 2022; following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
-_election results_: in the first round of the March 2022 elections, former president Jos&eacute; RAMOS-HORTA received 46.6%, incumbent Francisco GUTERRES 22.2%, and Armanda Berta DOS SANTOS 8.7% (note - a runoff was scheduled for April 2022 because no candidate won the necessary 50-percent-plus-one needed to declare a winner)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last election held in April 2022; following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
+_election results_: in the 19 April 2022 runoff, Jos&eacute; RAMOS-HORTA won 62.1%; Francisco GUTERRES won 37.9%; turnout was 71.6%; RAMOS-HORTA to be sworn in on 20 May 2022<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by proportional representation vote to serve 5-year terms)<br>
@@ -613,8 +613,8 @@ _total_: 599,700 (2021 est.)<br>
 _percent of population_: 27.49% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 75 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_total_: 75 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.01 less than 1 (2021 est.)<br>
 
 ## Transportation
 
@@ -639,7 +639,7 @@ _914 to 1,523 m_: 2<br>
 _under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
-8 (2013)<br>
+8 (2021)<br>
 
 **Roadways**<br>
 _total_: 6,040 km (2008)<br>

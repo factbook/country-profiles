@@ -631,8 +631,8 @@ _total_: 16.47 million (2021 est.)<br>
 _percent of population_: 91.33% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,525,016 (2020)<br>
-_subscriptions per 100 inhabitants_: 43.92 (2020 est.)<br>
+_total_: 7,525,016 (2021)<br>
+_subscriptions per 100 inhabitants_: 43.92 (2021)<br>
 
 ## Transportation
 
@@ -662,7 +662,7 @@ _914 to 1,523 m_: 4<br>
 _under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 14000 km gas, 2500 km oil and refined products, 3000 km chemicals (2016)<br>
@@ -712,7 +712,7 @@ the inventory of the Netherlands Armed Forces consists of a mix of domestically-
 note - in 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-270 Lithuania (NATO) (2021)<br>
+270 Lithuania (NATO) (2022)<br>
 
 **Military - note**<br>
 the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force</p> <p>a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively</p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br> <p>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries</p><br>

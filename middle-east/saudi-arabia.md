@@ -623,8 +623,8 @@ _total_: 33.58 million (2021 est.)<br>
 _percent of population_: 97.86% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,890,261 (2020)<br>
-_subscriptions per 100 inhabitants_: 22.66 (2020 est.)<br>
+_total_: 7,890,261 (2021)<br>
+_subscriptions per 100 inhabitants_: 22.66 (2021 est.)<br>
 
 **Communications - note**<br>
 the innovative King Abdulaziz Center for World Culture (informally known as Ithra, meaning "enrichment") opened on 1 December 2017 in Dhahran, Eastern Region; its facilities include a grand library, several museums, an archive, an Idea Lab, a theater, a cinema, and an Energy Exhibit, all which are meant to provide visitors an immersive and transformative experience<br>
@@ -659,7 +659,7 @@ _914 to 1,523 m_: 37<br>
 _under 914 m_: 16 (2021)<br>
 
 **Heliports**<br>
-10 (2013)<br>
+10 (2021)<br>
 
 **Pipelines**<br>
 209 km condensate, 2940 km gas, 1183 km liquid petroleum gas, 5117 km oil, 1151 km refined products (2013)<br>
@@ -705,7 +705,7 @@ the inventory of the Saudi military forces, including the SANG, includes a mix o
 17-40 for men; no conscription; as of 2021, women (aged 18-40) were allowed to serve in the Army, Air Defense, Navy, Strategic Missile Force, medical services, and internal security forces up to the rank of non-commissioned officer (2021)<br>
 
 **Military deployments**<br>
-est. 2,500-5,000 Yemen (varies depending on operations, which continued into 2021) (2021)<br>
+est. 2,500-5,000 Yemen (varies depending on operations, which continued into 2022) (2022)<br>
 
 **Military - note**<br>
 <p>in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in support of the Republic of Yemen Government against the separatist Huthis; as of 2022, the coalition (consisting largely of Saudi forces) and the Huthis continued to engage in fighting, mostly with air and missile forces, although heavy ground fighting was also reportedly taking place over the key province of Marib; the Saudis have conducted numerous air strikes in northern Yemen, while the Huthis have launched attacks into Saudi territory with ballistic missiles and unmanned aerial vehicles armed with explosives; the Saudi-led coalition controlled the country’s airspace and the port of Hodeida; Saudi Arabia also has raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border, especially the areas bordering the governorates of Saada and Al-Jawf</p><br>

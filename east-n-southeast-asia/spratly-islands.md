@@ -159,7 +159,7 @@ _total_: 2<br>
 _914 to 1,523 m_: 2 (2021)<br>
 
 **Heliports**<br>
-5 (2020)<br>
+5 (2021)<br>
 
 **Ports and terminals**<br>
 none; offshore anchorage only<br>

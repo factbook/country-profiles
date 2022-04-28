@@ -645,8 +645,8 @@ _total_: 65.8 million (2021 est.)<br>
 _percent of population_: 77.67% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 16,734,853 (2020)<br>
-_subscriptions per 100 inhabitants_: 19.84 (2020 est.)<br>
+_total_: 16,734,853 (2021)<br>
+_subscriptions per 100 inhabitants_: 19.84 (2021)<br>
 
 ## Transportation
 
@@ -677,7 +677,7 @@ _914 to 1,523 m_: 4<br>
 _under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
-20 (2013)<br>
+20 (2021)<br>
 
 **Pipelines**<br>
 14,666 km gas, 3,293 km oil (2017)<br>
@@ -727,7 +727,7 @@ President Erdoğan on 25 June 2019 signed a new law cutting the men’s mandator
 note - as of 2019, women made up about .3% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-est. 200 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); est. 25-35,000 Cyprus; 300 Kosovo (NATO/KFOR); 100 Lebanon (UNIFIL); est. 3-5,000 Qatar; est. 200 Somalia (training mission); est. 10-20,000 Syria (2021)<br>
+est. 200 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); est. 25-35,000 Cyprus; 300 Kosovo (NATO/KFOR); 100 Lebanon (UNIFIL); est. 3-5,000 Qatar; est. 200 Somalia (training mission); est. 10-20,000 Syria (2021-2022)<br>
 note(s) - between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale incursions in 2021 and early 2022; in 2020, Turkey deployed an undetermined number of Turkish military troops and an estimated 3,500-5,000 Syrian fighters to Libya to support the Libyan Government of National Accord (GNA)<br><br>in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years<br>
 
 **Military - note**<br>

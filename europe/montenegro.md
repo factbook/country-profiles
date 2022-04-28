@@ -638,8 +638,8 @@ _total_: 477,300 (2021 est.)<br>
 _percent of population_: 81.37% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 184,176 (2020)<br>
-_subscriptions per 100 inhabitants_: 29.32 (2020 est.)<br>
+_total_: 184,176 (2021)<br>
+_subscriptions per 100 inhabitants_: 29.32 (2021)<br>
 
 ## Transportation
 
@@ -663,7 +663,7 @@ _914 to 1,523 m_: 1<br>
 _under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
-1 (2012)<br>
+1 (2021)<br>
 
 **Railways**<br>
 _total_: 250 km (2017)<br>
@@ -715,7 +715,7 @@ Montenegro officially became a member of NATO in 2017; Greece and Italy provide 
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 21,112 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
+<strong>note:</strong> 21,160 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

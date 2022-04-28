@@ -346,7 +346,7 @@ _industry_: 12.7% (2010 est.)<br>
 _services_: 82.1% (2010 est.)<br>
 
 **Agricultural products**<br>
-vegetables, coconuts, roots/tubers nes, cassava, papayas, tomatoes, pork, fruit, sweet potatoes, mangoes/guavas<br>
+vegetables, coconuts, roots/tubers, cassava, papayas, tomatoes, pork, fruit, sweet potatoes, mangoes/guavas<br>
 
 **Industries**<br>
 fishing, fruit processing, tourism, clothing, handicrafts<br>
@@ -514,8 +514,8 @@ _total_: 9,487 (2022 est.)<br>
 _percent of population_: 54% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,700 (2013)<br>
-_subscriptions per 100 inhabitants_: 15.14 (2013)<br>
+_total_: 3,000 (2021)<br>
+_subscriptions per 100 inhabitants_: 17.08 (2021)<br>
 
 ## Transportation
 

@@ -623,8 +623,8 @@ _total_: 17.7 million (2022 est.)<br>
 _percent of population_: 92% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,751,227 (2020)<br>
-_subscriptions per 100 inhabitants_: 19.62 (2020 est.)<br>
+_total_: 3,763,826 (2021)<br>
+_subscriptions per 100 inhabitants_: 19.69 (2021)<br>
 
 ## Transportation
 
@@ -656,7 +656,7 @@ _914 to 1,523 m_: 56<br>
 _under 914 m_: 319 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 3160 km gas, 781 km liquid petroleum gas, 985 km oil, 722 km refined products (2013)<br>

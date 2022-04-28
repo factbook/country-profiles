@@ -47,7 +47,7 @@ _highest point_: Palwala Valley Point on Big Ridge 347 m<br>
 _lowest point_: Pacific Ocean 0 m<br>
 
 **Natural resources**<br>
-miro trees (used for handicrafts), fish, note, manganese, iron, copper, gold, silver, and zinc have been discovered offshore<br>
+miro trees (used for handicrafts), fish; note - manganese, iron, copper, gold, silver, and zinc have been discovered offshore<br>
 
 **Land use**<br>
 _agricultural land_: 0% (2011 est.)<br>

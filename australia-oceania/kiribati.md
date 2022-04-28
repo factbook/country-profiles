@@ -587,8 +587,8 @@ _total_: 17,600 (2021 est.)<br>
 _percent of population_: 14.58% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 185 (2020)<br>
-_subscriptions per 100 inhabitants_: 1 less than 1 (2020 est.)<br>
+_total_: 185 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.15 less than 1 (2021 est.)<br>
 
 ## Transportation
 

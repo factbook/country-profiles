@@ -640,8 +640,8 @@ _total_: 1.99 million (2021 est.)<br>
 _percent of population_: 12.36% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 52,706 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_total_: 52,706 DSL, dedicated internet line, Wimax, WLL, FTTH (2021)<br>
+_subscriptions per 100 inhabitants_: 0.64 less than 1 (2021 est.)<br>
 
 ## Transportation
 
@@ -712,7 +712,7 @@ the FAT's small inventory is a mix of older equipment from a variety of countrie
 18 years of age for military service; 2-year service obligation; no conscription; women have been able to serve since 2007 (2021)<br>
 
 **Military deployments**<br>
-925 Mali (MINUSMA; also has about 300 police deployed to MINUSMA) (Oct 2021)<br>
+730 (plus about 300 police) Mali (MINUSMA) (Feb 2022)<br>
 
 **Military - note**<br>
 <p>the first Togolese Army unit was created in 1963, while the Air Force was established in 1964; the Navy was not established until 1976; since its creation, the Togolese military has a history of interfering in the country’s politics with assassinations, coups, influence, and a large military crackdown in 2005 that killed hundreds; over the past decade, it has made some efforts to reform and professionalize; over the same period, the military has increased its role in UN peacekeeping activities and as of 2021, more than 10% of the Army was deployed on peacekeeping missions; Togolese police have also been deployed on peacekeeping operations, and Togo maintains a regional peacekeeping training center for military and police in Lome; the Navy and Air Force have increasingly focused on combating piracy and smuggling in the Gulf of Guinea</p><br>

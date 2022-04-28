@@ -340,7 +340,7 @@ _election results_: Issac HERZOG elected president; Knesset vote - Issac HERZOG 
 **Legislative branch**<br>
 _description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% vote threshold to gain representation; members serve 4-year terms)<br>
 _elections_: last held on 23 March 2021 (next to be held in 2025)<br>
-_election results_: percent by party - Likud 24.2%, Yesh Atid 13.9%, Shas 7.2%, Blue and White 6.6%, Yamina 6.2%, Labor 6.1%, UTJ 5.6%, Yisrael Beiteinu 5.6%, Religious Zionist Party 5.1%, Joint List 4.8%, New Hope 4.7%, Meretz 4.6%, Ra'am 3.8%, other 0.5%; seats by party - Likud 30, Yesh Atid 17, Shas 9, Blue and White 8, Yamina 7, Labor 7, UTJ 7, Yisrael Beiteinu 7, Religious Zionist Party 6, Joint List 6, New Hope 6, Meretz 6, Ra'am 4 - NA<br>
+_election results_: percent by party - Likud 24.2%, Yesh Atid 13.9%, Shas 7.2%, Blue and White 6.6%, Yamina 6.2%, Labor 6.1%, UTJ 5.6%, Yisrael Beiteinu 5.6%, Religious Zionist Party 5.1%, Joint List 4.8%, New Hope 4.7%, Meretz 4.6%, Ra'am 3.8%, other 0.5%; seats by party - Likud 30, Yesh Atid 17, Shas 9, Blue and White 8, Yamina 7, Labor 7, UTJ 7, Yisrael Beiteinu 7, Religious Zionist Party 6, Joint List 6, New Hope 6, Meretz 6, Ra'am 4; composition as of March 2022 - men 84, women 36, percentage of women 30%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the president, deputy president, 13 justices, and 2 registrars) and normally sits in panels of 3 justices; in special cases, the panel is expanded with an uneven number of justices<br>
@@ -617,8 +617,8 @@ _total subscriptions_: 3.08 million (2020)<br>
 _subscriptions per 100 inhabitants_: 35.58 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.4 million (2020)<br>
-_subscriptions per 100 inhabitants_: 131.7 (2020 est.)<br>
+_total subscriptions_: 10.39 million (2022)<br>
+_subscriptions per 100 inhabitants_: 117.3 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Israel has a highly developed economy with focus on technology products; investment in cyber-security industry and hub for start-ups; near universal broadband delivery to households and mobile penetration; LTE coverage, expanded fiber network with plans for 5G; emergency law allows mobile tracking; importer of broadcast equipment, integrated circuits, and computers from China; submarine cable connectivity to Europe (2020)<br>
@@ -633,12 +633,12 @@ the Israel Broadcasting Corporation (est 2015) broadcasts on&nbsp;3 channels,&nb
 .il<br>
 
 **Internet users**<br>
-_total_: 7.68 million (2021 est.)<br>
-_percent of population_: 86.79% (2019 est.)<br>
+_total_: 7.97 million (2022)<br>
+_percent of population_: 90% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,602,079 (2020)<br>
-_subscriptions per 100 inhabitants_: 30.06 (2020 est.)<br>
+_total_: 2,602,079 (2021)<br>
+_subscriptions per 100 inhabitants_: 30.06 (2021 est.)<br>
 
 ## Transportation
 
@@ -668,7 +668,7 @@ _914 to 1,523 m_: 3<br>
 _under 914 m_: 6 (2021)<br>
 
 **Heliports**<br>
-3 (2013)<br>
+3 (2021)<br>
 
 **Pipelines**<br>
 763 km gas, 442 km oil, 261 km refined products (2013)<br>
@@ -713,7 +713,7 @@ the majority of the IDF's inventory is comprised of weapons that are domesticall
 note(s) - women have served in the Israeli military since its establishment in 1948; as of 2021, women made up about 35% of IDF personnel; more than 90% of military specialties, including combat specialties, were open to women and more than 3,000 women were serving in combat units; the IDF's first mixed-gender infantry unit, the Caracal Battalion, was established in 2004; as of 2021, conscripts comprised about 70% of the IDF ground forces<br>
 
 **Military - note**<br>
-the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of November 2021, UNDOF consisted of about 1,250 personnel<br><br> <p>as of 2021 and since the outbreak of the Syrian civil war in 2011, Israel has routinely carried out air strikes in Syria targeting Iranian, Iranian-backed militia and Hizballah forces, and some Syrian Government troops; over the same period, the IDF has carried out numerous strikes against Hizballah in Lebanon in response to attacks on Israeli territory; Israel fought a month-long war in Lebanon with Hizballah in 2006 (see Appendix-T for details on Hizballah)</p> <p>as of 2021, the IDF also conducted frequent operations against the HAMAS and Palestine Islamic Jihad (PIJ) terrorist groups operating out of the Gaza Strip; since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the IDF; HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued through 2021, including incendiary balloon attacks from Palestinian territory and retaliatory IDF strikes; PIJ has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in February 2020 (see Appendix-T for more details on HAMAS and Palestine Islamic Jihad)<br><br>Israel has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of February 2022, UNDOF consisted of about 1,100 personnel<br><br> <p>as of 2022 and since the outbreak of the Syrian civil war in 2011, Israel has routinely carried out air strikes in Syria targeting Iranian, Iranian-backed militia and Hizballah forces, and some Syrian Government troops; over the same period, the IDF has carried out numerous strikes against Hizballah in Lebanon in response to attacks on Israeli territory; Israel fought a month-long war in Lebanon with Hizballah in 2006 (see Appendix-T for details on Hizballah)</p> <p>as of 2021, the IDF also conducted frequent operations against the HAMAS and Palestine Islamic Jihad (PIJ) terrorist groups operating out of the Gaza Strip; since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the IDF; HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued through 2021, including incendiary balloon attacks from Palestinian territory and retaliatory IDF strikes; PIJ has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in February 2020 (see Appendix-T for more details on HAMAS and Palestine Islamic Jihad)<br><br>Israel has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 

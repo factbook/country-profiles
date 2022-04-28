@@ -343,9 +343,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV 79.5%, Adakhan MADUMAROV 6.5%, other 14%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Supreme Council or Jogorku Kenesh (90 seats; 54 seats allocated for proportional division among political party lists from the national vote and 36 seats allocated for candidates running in single-mandate constituencies; members serve 5-year terms; parties must receive 5% of the vote to win seats in the legislature)<br>
-_elections_: last held on 28 November 2021 (next to be held NA)<br>
-_election results_: percent of vote by party - Ata-Jurt Kyrgyzstan 19.1%, Ishenim 15%, Yntymak 12.1%, Alliance 9.2%, Butun Kyrgyzstan 7.8%, Yiman Nuru 6.8%, other 30%; seats by party - Ata-Jurt Kyrgyzstan 15, Ishenim 12, Yntymak 9, Alliance 7, Butun Kyrgyzstan 6, Yiman Nuru 5, other 36<br>
+_description_: unicameral Supreme Council or Jogorku Kenesh (90 seats statutory, current 88; 54 seats allocated for proportional division among political party lists from the national vote and 36 seats allocated for candidates running in single-mandate constituencies; members serve 5-year terms; parties must receive 5% of the vote to win seats in the legislature)<br>
+_elections_: last held on 28 November 2021 (next to be held in 2026)<br>
+_election results_: percent of vote by party - Ata-Jurt Kyrgyzstan 19.1%, Ishenim 15%, Yntymak 12.1%, Alliance 9.2%, Butun Kyrgyzstan 7.8%, Yiman Nuru 6.8%, other 30%; seats by party - Ata-Jurt Kyrgyzstan 15, Ishenim 12, Yntymak 9, Alliance 7, Butun Kyrgyzstan 6, Yiman Nuru 5, other 36; composition - men 70, women 18, percent of women 20.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 25 judges); Constitutional Chamber of the Supreme Court (consists of the chairperson, deputy chairperson, and 9 judges)<br>
@@ -630,7 +630,7 @@ _total_: 3.32 million (2021 est.)<br>
 _percent of population_: 38% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 289,000 (2021)<br>
+_total_: 289,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 4.43 (2021 est.)<br>
 
 ## Transportation

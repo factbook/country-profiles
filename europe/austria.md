@@ -89,7 +89,7 @@ _noun_: Austrian(s)<br>
 _adjective_: Austrian<br>
 
 **Ethnic groups**<br>
-Austrian 80.8%, German 2.6%,  Bosnian and Herzegovinian 1.9%, Turkish 1.8%, Serbian 1.6%, Romanian 1.3%, other 10% (2018 est.)<br>
+Austrian 80.8%, German 2.6%, Bosnian and Herzegovinian 1.9%, Turkish 1.8%, Serbian 1.6%, Romanian 1.3%, other 10% (2018 est.)<br>
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
@@ -627,8 +627,8 @@ _total_: 8.42 million (2022 est.)<br>
 _percent of population_: 93% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2.606 million (2020)<br>
-_subscriptions per 100 inhabitants_: 28.93 (2020 est.)<br>
+_total_: 2.606 million (2021)<br>
+_subscriptions per 100 inhabitants_: 28.93 (2021 est.)<br>
 
 **Communications - note**<br>
 <strong>note 1:</strong> the Austrian National Library contains important collections of the Imperial Library of the Holy Roman Empire and of the Austrian Empire, as well as of the Austrian Republic; among its more than 12 million items are outstanding holdings of rare books, maps, globes, papyrus, and music; its Globe Museum is the only one in the world<br><br><strong>note 2:</strong> on 1 October 1869, Austria-Hungary introduced the world's first postal card - postal stationery with an imprinted stamp indicating the prepayment of postage; simple and cheap (sent for a fraction of the cost of a regular letter), postal cards became an instant success, widely produced in the millions worldwide<br><br><strong>note 3:</strong> Austria followed up with the creation of the world's first commercial picture postcards - cards bearing a picture or photo to which postage is affixed - in May 1871; sent from Vienna, the image served as a souvenir of the city; together, postal cards and post cards served as the world's e-mails of the late 19th and early 20th centuries<br><br><strong>note 4:</strong> Austria was also an airmail pioneer; from March to October of 1918, it conducted the world's first regular (daily) airmail service - between the imperial cities of Vienna, Krakow, and Lemberg - a combined distance of some 650 km (400 mi) (earlier airmail services had been set up in a few parts of the world, but only for short stretches and none lasted beyond a few days or weeks); an expansion of the route in June of 1918 allowed private mail to be flown to Kyiv, in newly independent Ukraine, which made the route the world's first regular international airmail service (covering a distance of some 1,200 km; 750 mi)<br>
@@ -662,7 +662,7 @@ _914 to 1,523 m_: 3<br>
 _under 914 m_: 24 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 1888 km gas, 594 km oil, 157 km refined products (2017)<br>
@@ -708,7 +708,7 @@ registration requirement at age 17, the legal minimum age for voluntary military
 note - as of 2019, women made up about 4% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-290 Bosnia-Herzegovina (EUFOR stabilization force); 340 Kosovo (NATO/KFOR); 170 Lebanon (UNIFIL) (Oct 2021)<br>
+275 Bosnia-Herzegovina (EUFOR stabilization force); 240 Kosovo (NATO/KFOR); 175 Lebanon (UNIFIL) (Jan 2022)<br>
 
 **Military - note**<br>
 <p>Austria is constitutionally non-aligned, but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO, but joined NATO’s Partnership for Peace framework in 1995 and participates in NATO-led crisis management and peacekeeping operations; as of 2021, more than 100,000 Austrian military and civilian personnel have taken part in more than 50 international peace support and humanitarian missions since 1960</p><br>

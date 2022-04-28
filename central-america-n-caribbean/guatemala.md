@@ -294,7 +294,7 @@ _conventional long form_: Republic of Guatemala<br>
 _conventional short form_: Guatemala<br>
 _local long form_: Republica de Guatemala<br>
 _local short form_: Guatemala<br>
-_etymology_: the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of trees" or "forested land", but which the Spanish pronounced "Guatemala"; the Spanish applied that name to a re founded capital city three years later and eventually it became the name of the country<br>
+_etymology_: the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of trees" or "forested land", but which the Spanish pronounced "Guatemala"; the Spanish applied that name to a re-founded capital city three years later and eventually it became the name of the country<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -303,7 +303,7 @@ presidential republic<br>
 _name_: Guatemala City<br>
 _geographic coordinates_: 14 37 N, 90 31 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
-_etymology_: the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of trees" or "forested land", but which the Spanish pronounced "Guatemala"; the Spanish applied that name to a re founded capital city three years later and eventually it became the name of the country<br>
+_etymology_: the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of trees" or "forested land", but which the Spanish pronounced "Guatemala"; the Spanish applied that name to a re-founded capital city three years later and eventually it became the name of the country<br>
 
 **Administrative divisions**<br>
 22 departments (departamentos, singular - departamento); Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa Rosa, Solola, Suchitepequez, Totonicapan, Zacapa<br>
@@ -613,8 +613,8 @@ _total subscriptions_: 2,272,467 (2020)<br>
 _subscriptions per 100 inhabitants_: 12.68 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 20,390,671 (2020)<br>
-_subscriptions per 100 inhabitants_: 113.8 (2020 est.)<br>
+_total subscriptions_: 20.26 million (2022)<br>
+_subscriptions per 100 inhabitants_: 110 Note that many people around the world make use of more than one mobile connection – for example, they might have one connection for personal use, and another one for work – so it’s not unusual for mobile connection figures to significantly exceed figures for total population. (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: due to years of underinvestment in infrastructure, has one of the lowest fixed-line tele densities in the region; rural areas rely on mobile services with little access to fixed-line access; mobile tele-density on par with region and is the most developed sector, with near universal phone connections; private investment to bring free Internet to parks; two submarine cables due for completion will support growth in fixed and mobile broadband (2020)<br>
@@ -629,12 +629,12 @@ _international_: country code - 502; landing points for&nbsp;the ARCOS, AMX-1, A
 .gt<br>
 
 **Internet users**<br>
-_total_: 11.75 million (2021 est.)<br>
-_percent of population_: 65% (2019 est.)<br>
+_total_: 11.97 million (2022 est.)<br>
+_percent of population_: 65% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 531,000 (2017 est.)<br>
-_subscriptions per 100 inhabitants_: 3.14 (2019 est.)<br>
+_total_: 612,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 3.42 (2021)<br>
 
 ## Transportation
 
@@ -665,7 +665,7 @@ _914 to 1,523 m_: 77<br>
 _under 914 m_: 195 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 480 km oil (2013)<br>
@@ -713,7 +713,7 @@ all male citizens between the ages of 18 and 50 are eligible for military servic
 note - as of 2017, women made up an estimated 5-10% of the active military<br>
 
 **Military deployments**<br>
-155 Democratic Republic of the Congo (MONUSCO) (Oct 2021)<br>
+155 Democratic Republic of the Congo (MONUSCO) (Jan 2022)<br>
 
 **Military - note**<br>
 <p>since the 2000s, the Guatemalan Government has frequently used the Army to support the National Civil Police (PNC; under the Ministry of Government) in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking</p> <p>the military held power during most of the country’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict</p><br>

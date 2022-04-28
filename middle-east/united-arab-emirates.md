@@ -77,7 +77,7 @@ strategic location along southern approaches to Strait of Hormuz, a vital transi
 
 **Population**<br>
 9,915,803 (2022 est.)<br>
-<strong>note:</strong> the UN estimated the country's total population was 9,771,000 as of mid-year 2019; immigrants make up 87.9% of the total population, according to UN data (2019)<br>
+<strong>note:</strong> the UN estimated the country's total population was 10,082,000 as of 2022; immigrants make up 88.1% of the total population, according to UN data (2020)<br>
 
 **Nationality**<br>
 _noun_: Emirati(s)<br>
@@ -85,6 +85,7 @@ _adjective_: Emirati<br>
 
 **Ethnic groups**<br>
 Emirati 11.6%, South Asian 59.4% (includes Indian 38.2%, Bangladeshi 9.5%, Pakistani 9.4%, other 2.3%), Egyptian 10.2%, Filipino 6.1%, other 12.8% (2015 est.)<br>
+<strong>note</strong><strong>:</strong> data represent the total population; as of 2019, immigrants make up about 87.9% of the total population, according to UN data<br>
 
 **Languages**<br>
 Arabic (official), English, Hindi, Malayam, Urdu, Pashto, Tagalog, Persian<br>
@@ -92,7 +93,7 @@ _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر 
 
 **Religions**<br>
 Muslim (official) 76%, Christian 9%, other (primarily Hindu and Buddhist, less than 5% of the population consists of Parsi, Baha'i, Druze, Sikh, Ahmadi, Ismaili, Dawoodi Bohra Muslim, and Jewish) 15% (2005 est.)<br>
-<strong>note:</strong> data represent the total population; as of 2019, immigrants make up about 87.9% of the total population, according to UN data<br>
+<strong>note</strong><strong>:</strong> data represent the total population; as of 2020, immigrants make up about 88.1% of the total population, according to UN data<br>
 
 **Age structure**<br>
 _0-14 years_: 14.45% (male 745,492/female 698,330)<br>
@@ -619,8 +620,8 @@ _total_: 9.94 million (2021 est.)<br>
 _percent of population_: 100% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,245,123 (2020)<br>
-_subscriptions per 100 inhabitants_: 32.81 (2020 est.)<br>
+_total_: 3,245,123 (2021)<br>
+_subscriptions per 100 inhabitants_: 32.81 (2021 est.)<br>
 
 ## Transportation
 
@@ -653,7 +654,7 @@ _914 to 1,523 m_: 6<br>
 _under 914 m_: 6 (2021)<br>
 
 **Heliports**<br>
-5 (2013)<br>
+5 (2021)<br>
 
 **Pipelines**<br>
 533 km condensate, 3277 km gas, 300 km liquid petroleum gas, 3287 km oil, 24 km oil/gas/water, 218 km refined products, 99 km water (2013)<br>

@@ -377,8 +377,8 @@ _total subscriptions_: 33,940 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 54 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 71,622 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 114 (2018 est.)<br>
+_total subscriptions_: 719,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 113.4 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high performance global connections with quality service; connections to major cities around the world to rival and attract future investment and future needs of islanders and businesses (2018)<br>
@@ -393,12 +393,12 @@ multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey w
 .gg<br>
 
 **Internet users**<br>
-_total_: 54,600 (2021 est.)<br>
-_percent of population_: 83.63% (2019 est.)<br>
+_total_: 55,000 (2022 est.)<br>
+_percent of population_: 86.8% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 25,336 (2020)<br>
-_subscriptions per 100 inhabitants_: 40.1 (2020)<br>
+_total_: 33,940 (2022)<br>
+_subscriptions per 100 inhabitants_: 54 (2022)<br>
 
 ## Transportation
 

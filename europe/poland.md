@@ -643,7 +643,7 @@ _total_: 31.97 million (2021 est.)<br>
 _percent of population_: 86.84% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,369,218 (2021)<br>
+_total_: 8,369,218 Speeds equal to or grater than 144 kbit/s. (2021)<br>
 _subscriptions per 100 inhabitants_: 22.11 (2021 est.)<br>
 
 ## Transportation
@@ -675,7 +675,7 @@ _914 to 1,523 m_: 17<br>
 _under 914 m_: 21 (2021)<br>
 
 **Heliports**<br>
-6 (2013)<br>
+6 (2021)<br>
 
 **Pipelines**<br>
 14198 km gas, 1374 km oil, 2483 km refined products (2019)<br>
@@ -729,8 +729,8 @@ note - in late 2018, Poland announced a 7-year (through 2026) approximately $50 
 note - as of 2019, women made up about 7% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-240 Kosovo (NATO/KFOR); up to 175 Latvia (NATO); 250 Lebanon (UNIFIL) (2021)<br>
-note: Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>
+240 Kosovo (NATO/KFOR); up to 180 Latvia (NATO); 190 Lebanon (UNIFIL) (2022)<br>
+note - Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>
 
 **Military - note**<br>
 Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; since 2014, Poland has also hosted NATO fighter detachments at Malbork Air Base under NATO's enhanced air policing arrangements</p> <p>Poland hosts a NATO-led divisional headquarters (Multinational Division Northeast; operational in 2018), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania; Poland also hosts a corps-level headquarters (Multinational Corps Northeast)</p> (2022)<br>
@@ -747,7 +747,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 2,800,713 (as of 18 April 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 2,922,978 (as of 25 April 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

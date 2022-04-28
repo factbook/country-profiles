@@ -633,8 +633,8 @@ _total_: 8.42 million (2021 est.)<br>
 _percent of population_: 93.15% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4.023 million (2020)<br>
-_subscriptions per 100 inhabitants_: 46.48 (2020 est.)<br>
+_total_: 4,028,238 (2021)<br>
+_subscriptions per 100 inhabitants_: 46.54 (2021)<br>
 
 ## Transportation
 
@@ -663,7 +663,7 @@ _total_: 23<br>
 _under 914 m_: 23 (2021)<br>
 
 **Heliports**<br>
-2 (2013)<br>
+2 (2021)<br>
 
 **Pipelines**<br>
 1,800 km gas, 94 km oil (of which 60 are inactive), 17 km refined products (2017)<br>
@@ -711,7 +711,7 @@ the Swiss Armed Forces inventory includes a mix of domestically-produced and imp
 note - conscientious objectors can choose 390 days of community service instead of military service<br>
 
 **Military deployments**<br>
-165 Kosovo (NATO/KFOR) (2021)<br>
+190 Kosovo (NATO/KFOR) (2022)<br>
 
 **Military - note**<br>
 <p>Switzerland has long maintained a policy of military neutrality, but does occasionally participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military operations; Swiss law excludes participation in combat operations for peace enforcement, and Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo peace-support force (KFOR) in 1999 and as of 2021, continued doing so with about 165 personnel; Switzerland also provided a small number of staff officers to the NATO mission in Afghanistan from 2004-2007</p><br>

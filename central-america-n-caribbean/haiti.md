@@ -334,9 +334,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2016:</em> Jovenel MOISE elected president in first round; percent of vote - Jovenel MOISE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOISE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in runoff; percent of vote - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
 
 **Legislative branch**<br>
-_description_: bicameral legislature or le Corps l'egislatif ou le Parlement consists of:<br>le S'enat or Senate (30 seats; 10 filled as of July 2021; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>la Chambre de deput'es or Chamber of Deputies (119 seats; 0 filled as of July 2021; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits); note - when the 2 chambers meet collectively it is known as L'Assembl'ee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution<br>
+_description_: bicameral legislature or le Corps l'egislatif ou le Parlement consists of:<br>le S'enat or Senate (30 seats statutory, reduced to 10 as of July 2021; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>la Chambre de deput'es or Chamber of Deputies (119 seats; 0 filled as of July 2021; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits); note - when the 2 chambers meet collectively it is known as L'Assembl'ee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution<br>
 _elections_: <br>Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next originally scheduled for 27 October 2019, but postponed to 26 September 2021) <br>Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next originally scheduled for 27 October 2019, but postponed to 26 September 2021)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 27, women 1, percent of women 3.6%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - men 115, women 3, percent of women 2.5%; note - total legislature percent of women 2.7%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 10, women 0, percent of women 0%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour de cassation (consists of a chief judge and other judges); note - Haiti is a member of the Caribbean Court of Justice<br>
@@ -594,8 +594,8 @@ _total subscriptions_: 5,952 (2019)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,843,380 (2019)<br>
-_subscriptions per 100 inhabitants_: 60.76 (2019 est.)<br>
+_total subscriptions_: 7.61 million (2022)<br>
+_subscriptions per 100 inhabitants_: 65.5 (2022)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: plagued by political and economic turmoil complicated by natural disasters, Haiti&rsquo;s telecommunications infrastructure is among the least-developed in the world; it relies on satellite and wireless mobile technology due to poor fixed-line infrastructure; investment boosted broadband availability though customer base is poor and theft of equipment remains problematic; promotion of LTE will enable access to remote areas and e-money services; World Bank grant to provide digital preparation and response for any future crises (2020)<br>
@@ -610,12 +610,12 @@ _international_: country code - 509; landing points for the BDSNi and Fibralink 
 .ht<br>
 
 **Internet users**<br>
-_total_: 4.28 million (2021 est.)<br>
-_percent of population_: 12.33% (2019 est.)<br>
+_total_: 4.81 million (2022)<br>
+_percent of population_: 41.4% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 31,100 (2019)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total_: 31,100 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.27 less than 1 (2021)<br>
 
 ## Transportation
 

@@ -326,14 +326,14 @@ _judge selection and term of office_: all judges appointed by the president of t
 _subordinate courts_: Magistrates' Courts of Seychelles; Family Tribunal for issues such as domestic violence, child custody, and maintenance; Employment Tribunal for labor-related disputes<br>
 
 **Political parties and leaders**<br>
-Lafors Seselwa Demokratik  or LSD [Martin AGLAE]<br>One Seychelles [Alain St. ANGE]<br>Seselwa (Seychelles) United Party or SUP [Robert ERNESTA] (formerly the New Democratic Party or NDP)<br>Seychelles National Party or SNP [Wavel RAMKALAWAN] (formerly the United Opposition or UO)<br>Seychelles Party for Social Justice and Democracy or SPSD [Alexia AMESBURY]<br>Seychelles Patriotic Movement or SPM [Vincent LARUER]<br>Seychelloise Alliance (Lalyans Seselwa) [Patrick PILLAY]<br>Seychellois Democratic Alliance (Linyon Demokratik Seselwa) or LDS [Roger MANCIENNE] (includes SNP, SPSD, and SUP)<br>United Seychelles or US [Vincent MERITON] (formerly People's Party (Parti Lepep) or PL; (formerly SPPF)<br>
+Linyon Sanzman or LS [Martin AGLAE]<br>One Seychelles [Peter SINON]<br>Seychelles Party for Social Justice and Democracy or SPSJD [Vesna RAKIC]<br>Seychellois Democratic Alliance (Linyon Demokratik Seselwa) or LDS [Roger MANCIENNE] (includes SPSJD)<br>United Seychelles or US [Patrick HERMINIE] (formerly People's Party (Parti Lepep) or PL; (formerly SPPF)<br>
 
 **International organization participation**<br>
-ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
+ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ronald Jean JUMEAU (since 8 September 2017) &nbsp; &nbsp; &nbsp;&nbsp;<br>
-_chancery_: 800 Second Avenue, Suite 400C, New York, NY 10017<br>
+_chief of mission_: Ambassador Ian MADELEINE (since 1 December 2021)<br>
+_chancery_: 685 Third Avenue, Suite 1107, 11th Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 972-1785<br>
 _FAX_: [1] (212) 972-1786<br>
 _email address and website_: <br>seychelles@un.int<br>
@@ -596,8 +596,8 @@ _total_: 58,000 (2021 est.)<br>
 _percent of population_: 79% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 34,966 (2020)<br>
-_subscriptions per 100 inhabitants_: 35.55 (2020 est.)<br>
+_total_: 34,966 (2021)<br>
+_subscriptions per 100 inhabitants_: 35.55 (2021)<br>
 
 ## Transportation
 
@@ -625,7 +625,7 @@ _914 to 1,523 m_: 2<br>
 _under 914 m_: 5 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Roadways**<br>
 _total_: 526 km (2015)<br>

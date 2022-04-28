@@ -622,8 +622,8 @@ _total_: 2.51 million (2022 est.)<br>
 _percent of population_: 77% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 770,624 (2020)<br>
-_subscriptions per 100 inhabitants_: 23.49 (2020 est.)<br>
+_total_: 770,424 (2021)<br>
+_subscriptions per 100 inhabitants_: 23.48 (2021 est.)<br>
 
 ## Transportation
 
@@ -652,7 +652,7 @@ _914 to 1,523 m_: 5<br>
 _under 914 m_: 11 (2021)<br>
 
 **Heliports**<br>
-6 (2013)<br>
+6 (2021)<br>
 
 **Pipelines**<br>
 147 km gas, 9 km oil (2013)<br>
@@ -712,7 +712,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note:</strong> 88,149 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
+<strong>note:</strong> 88,526 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

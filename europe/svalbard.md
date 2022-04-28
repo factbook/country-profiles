@@ -323,7 +323,7 @@ _total_: 3<br>
 _under 914 m_: 3 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Roadways**<br>
 _total_: 40 km (2020)<br>

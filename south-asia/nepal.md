@@ -634,8 +634,8 @@ _total_: 10.78 million (2021 est.)<br>
 _percent of population_: 34% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 791,961 (2018)<br>
-_subscriptions per 100 inhabitants_: 1.82 (2019 est.)<br>
+_total_: 1.27 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 4.36 (2021 est.)<br>
 
 ## Transportation
 
@@ -696,10 +696,10 @@ the Army's inventory includes a mix of older equipment largely of British, Chine
 note - as of 2020, women comprised about 5% of the active duty military<br>
 
 **Military deployments**<br>
-Nepal has about 5,500 total troops deployed on UN peacekeeping missions, including: 615 Central African Republic (MINUSCA); 900 Democratic Republic of the Congo (MONUSCO); 400 Golan Heights (UNDOF); 870 Lebanon (UNIFIL); 230 Liberia (UNSMIL); 200 Mali (MINUSMA); 1,750 South Sudan (UNMISS) (Sep 2021)<br>
+750 Central African Republic (MINUSCA); 1,140 Democratic Republic of the Congo (MONUSCO); 400 Golan Heights (UNDOF); 875 Lebanon (UNIFIL); 230 Liberia (UNSMIL); 175 Mali (MINUSMA); 1,625 South Sudan (UNMISS) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>Nepal became a member of the UN in 1955 and has been an active participant in UN peacekeeping operations since, sending its first military observers to a UN peacekeeping mission in 1958 and its first peacekeeping military contingent to Egypt in 1974<br><br></p> the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas until merged to form the Royal Gurkha Rifles in 1994; six Gurkha (aka Gorkha in India) regiments went to the new Indian Army; a seventh regiment was later added; Gurkhas are also recruited into the Singaporean Police and a special guard in the Sultanate of Brunei known as the Gurkha Reserve Unit (2021)<br>
+<p>Nepal became a member of the UN in 1955 and has been an active participant in UN peacekeeping operations since, sending its first military observers to a UN peacekeeping mission in 1958 and its first peacekeeping military contingent to Egypt in 1974<br><br></p> the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas until merged to form the Royal Gurkha Rifles in 1994; six Gurkha (aka Gorkha in India) regiments went to the new Indian Army; a seventh regiment was later added; Gurkhas are also recruited into the Singaporean Police and a special guard in the Sultanate of Brunei known as the Gurkha Reserve Unit (2022)<br>
 
 ## Terrorism
 

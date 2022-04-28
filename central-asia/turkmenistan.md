@@ -643,7 +643,7 @@ _1,524 to 2,437 m_: 1<br>
 _under 914 m_: 4 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 7500 km gas, 1501 km oil (2013)<br>

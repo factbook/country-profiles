@@ -652,8 +652,8 @@ _total_: 35.5 million (2022 est.)<br>
 _percent of population_: 69.1% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,764,772 (2020)<br>
-_subscriptions per 100 inhabitants_: 15.26 (2020 est.)<br>
+_total_: 7,764,772 (2021)<br>
+_subscriptions per 100 inhabitants_: 15.26 (2021 est.)<br>
 
 ## Transportation
 
@@ -685,7 +685,7 @@ _914 to 1,523 m_: 201<br>
 _under 914 m_: 488 (2021)<br>
 
 **Heliports**<br>
-3 (2013)<br>
+3 (2021)<br>
 
 **Pipelines**<br>
 4991 km gas, 6796 km oil, 3429 km refined products (2013)<br>
@@ -736,7 +736,7 @@ the Colombian military inventory includes a wide mix of equipment from a variety
 note - in 2020, conscripts reportedly comprised about 50% of the Colombian military's active force with approximately 60-90,000 conscripts brought into the military annually<br>
 
 **Military deployments**<br>
-275 Egypt (MFO) (2021)<br>
+275 Egypt (MFO) (2022)<br>
 
 **Military - note**<br>
 the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from several factions of the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting; the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against both the FARC and ELN continued into 2022 (see Appendix T); the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents operate openly<br>

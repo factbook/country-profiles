@@ -319,8 +319,8 @@ _election results_: Michael D. HIGGINS reelected president; percent of vote - Mi
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Oireachtas consists of:<br>Senate or Seanad Eireann (60 seats; 49 members indirectly elected from 5 vocational panels of nominees by an electoral college, 11 appointed by the prime minister<br>House of Representatives or Dail Eireann (160 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)<br>
-_elections_: <br>Senate - last held early on 30-21 May 2020 (next to be held in March 2025)<br>House of Representatives - last held on 8 February 2020 (next to be held no later than 2025)<br>
-_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - Fianna Fail 16, Fine Gael 12, Labor Party 5, Sinn Fein 5, Green Party 2<strong>,</strong> independent 9; composition - men 36, women 24, percent of women 40%  <br>House of Representatives - percent of vote by party - Sinn Fein 23%, Fianna Fail 23%, Fine Gael 22%, Green Party 8%, Labor Party 4%, Social Democrats 4%, AAA-PBD 3%, Aontu 0.6%, Independents for Change 0.6%, Ceann Comhairle 0.6%, independent 12%; seats by party - Sinn Fein 37, Fianna Fail 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, AAA-PBD 5, Aontu l, Independents for Change 1, Ceann Comhairle 1, Independents 19; composition as of September 2021 - men 124, women 36, percent of women 22.2%; note - total Parliament percent of women 27.3%<br>
+_elections_: <br>Senate - last held early on 21-30 May 2020 (next to be held in March 2025)<br>House of Representatives - last held on 8 February 2020 (next to be held no later than 2025)<br>
+_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - Fianna Fail 16, Fine Gael 12, Labor Party 5, Sinn Fein 5, Green Party 2<strong>,</strong> independent 9; composition - men 36, women 24, percent of women 40%  <br>House of Representatives - percent of vote by party - Sinn Fein 23%, Fianna Fail 23%, Fine Gael 22%, Green Party 8%, Labor Party 4%, Social Democrats 4%, AAA-PBD 3%, Aontu 0.6%, Independents for Change 0.6%, Ceann Comhairle 0.6%, independent 12%; seats by party - Sinn Fein 37, Fianna Fail 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, AAA-PBD 5, Aontu l, Independents for Change 1, Ceann Comhairle 1, Independents 19; composition as of March 2022 - men 123, women 37, percent of women 23.1%; note - total Parliament percent of women 27.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)<br>
@@ -588,8 +588,8 @@ _total subscriptions_: 1,678,651 (2020)<br>
 _subscriptions per 100 inhabitants_: 34 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,234,027 (2020)<br>
-_subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
+_total subscriptions_: 4.89 million (2022)<br>
+_subscriptions per 100 inhabitants_: 97.8 (2022)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: infrastructure projects are underway, including the national plan to deliver fiber-based service of at least 150Mb/s nationally by the end of 2022; operators invested in fiber-based networks to deliver a 1Gb/s service to most premises, and on 5G to cover more than half of population; operator test of satellite broadband; Dublin is a smart city (2020)<br>
@@ -604,12 +604,12 @@ publicly owned broadcaster Radio Telefis Eireann (RTE) operates&nbsp;4 TV statio
 .ie<br>
 
 **Internet users**<br>
-_total_: 4.51 million (2021 est.)<br>
-_percent of population_: 92% (2020 est.)<br>
+_total_: 4.95 million (2022)<br>
+_percent of population_: 99% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,516,252 (2020)<br>
-_subscriptions per 100 inhabitants_: 30.71 (2020 est.)<br>
+_total_: 1,516,473 (2021)<br>
+_subscriptions per 100 inhabitants_: 30.71 (2021)<br>
 
 ## Transportation
 
@@ -687,7 +687,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 note - as of 2019, women made up about 7% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-135 Golan Heights (UNDOF); 330 Lebanon (UNIFIL) (Oct 2021)<br>
+130 Golan Heights (UNDOF); 330 Lebanon (UNIFIL) (Feb 2022)<br>
 
 **Military - note**<br>
 <p>the Irish Defense Forces trace their origins back to the Irish Volunteers, which was established in 1913; the Irish Volunteers took part in the 1916 Easter Rising and the Irish War of Independence, 1919-1921</p> <p>Ireland has a long-standing policy of military neutrality; however, it participates in international peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO, but has a relationship going back to 1997 when it deployed personnel in support of the NATO-led peacekeeping operations in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; Ireland has been an active participate in UN peacekeeping operations since the 1950s</p><br>

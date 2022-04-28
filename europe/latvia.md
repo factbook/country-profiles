@@ -652,7 +652,7 @@ _total_: 24<br>
 _under 914 m_: 24 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 1,213 km gas, 417 km refined products (2018)<br>
@@ -698,6 +698,9 @@ the Latvian military's inventory is limited and consists of a mixture of Soviet-
 **Military service age and obligation**<br>
 18 years of age for voluntary male and female military service; no conscription (abolished 2007) (2021)<br>
 note - as of 2019, women comprised about 16% of the military's full-time personnel<br>
+
+**Military deployments**<br>
+130 Kosovo (KFOR/NATO) (2022)<br>
 
 **Military - note**<br>
 Latvia officially became a member of NATO in 2004<br> <p>since 2017, Latvia has hosted a Canadian-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia</p> <p>NATO also has provided air protection for Latvia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations</p><br>

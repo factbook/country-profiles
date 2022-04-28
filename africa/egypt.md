@@ -652,8 +652,8 @@ _total_: 75.66 million (2022 est.)<br>
 _percent of population_: 71.9% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 9,349,469 (2020)<br>
-_subscriptions per 100 inhabitants_: 9.14 (2020 est.)<br>
+_total_: 9,349,469 (2021)<br>
+_subscriptions per 100 inhabitants_: 9.14 (2021 est.)<br>
 
 **Communications - note**<br>
 one of the largest and most famous libraries in the ancient world was the Great Library of Alexandria in Egypt (founded about 295 B.C., it may have survived in some form into the 5th century A.D.); seeking to resurrect the great center of learning and communication, the Egyptian Government in 2002 inaugurated the Bibliotheca Alexandrina, an Egyptian National Library on the site of the original Great Library, which commemorates the original archive and also serves as a center of cultural and scientific excellence<br>
@@ -687,7 +687,7 @@ _914 to 1,523 m_: 4<br>
 _under 914 m_: 3 (2021)<br>
 
 **Heliports**<br>
-7 (2013)<br>
+7 (2021)<br>
 
 **Pipelines**<br>
 486 km condensate, 74 km condensate/gas, 7986 km gas, 957 km liquid petroleum gas, 5225 km oil, 37 km oil/gas/water, 895 km refined products, 65 km water (2013)<br>
@@ -739,7 +739,7 @@ voluntary enlistment possible from age 16 (men and women); 18-30 years of age fo
 note - as of 2020, conscripts were estimated to comprise over half of the military, as well as a considerable portion of the Central Security Force<br>
 
 **Military deployments**<br>
-1,000 Central African Republic (MINUSCA); 1,050 Mali (MINUSMA) (Sep 2021)<br>
+1,000 Central African Republic (MINUSCA); 1,050 Mali (MINUSMA) (Jan 2022)<br>
 
 **Military - note**<br>
 <p>since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of 2021, Egypt reportedly had approximately 40,000 military troops, police, and other security personnel deployed in the Sinai for internal security duties; in addition, tribal militias were assisting Egyptian security forces<br><br>the military has a large stake in the civilian economy, including running banks, businesses, and shipping lines, producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing<br><br>Egypt has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br></p> the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; as of 2021, it was composed of about 1,150 troops from 13 countries<br>

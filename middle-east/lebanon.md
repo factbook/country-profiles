@@ -622,8 +622,8 @@ _total_: 5.31 million (2021 est.)<br>
 _percent of population_: 78.18% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 432,070 (2020)<br>
-_subscriptions per 100 inhabitants_: 6.33 (2020 est.)<br>
+_total_: 432,070 (2021)<br>
+_subscriptions per 100 inhabitants_: 6.33 (2021)<br>
 
 ## Transportation
 
@@ -652,7 +652,7 @@ _914 to 1,523 m_: 2<br>
 _under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 88 km gas (2013)<br>
@@ -698,7 +698,7 @@ the LAF inventory includes a wide mix of mostly older equipment from a diverse a
 note - as of 2020, women comprised about 5% of the active duty military<br>
 
 **Military - note**<br>
-<p>as of late 2021, the Lebanese military faced multiple challenges, including securing the border with war-torn Syria from infiltrations of militants linked to the Islamic State and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based militant group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; in 2021, the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br></p> the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,500 personnel deployed in the country as of November 2021<br>
+<p>as of 2022, the Lebanese military faced multiple challenges, including securing the border with war-torn Syria from infiltrations of militants linked to the Islamic State and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based militant group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; in 2021, the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br>the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,000 personnel deployed in the country as of February 2022</p><br>
 
 ## Terrorism
 

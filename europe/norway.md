@@ -616,8 +616,8 @@ _total_: 5.39 million (2021 est.)<br>
 _percent of population_: 97% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,387,661 (2020)<br>
-_subscriptions per 100 inhabitants_: 44.04 (2020 est.)<br>
+_total_: 2,387,661 (2021)<br>
+_subscriptions per 100 inhabitants_: 44.04 (2021)<br>
 
 ## Transportation
 
@@ -644,7 +644,7 @@ _914 to 1,523 m_: 6<br>
 _under 914 m_: 22 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 8520 km gas, 1304 km oil/condensate (2017)<br>
@@ -691,7 +691,7 @@ the Norwegian Armed Forces inventory includes mostly imported European and US we
 note(s) - Norway conscripts about 8,000 individuals annually; Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as <em>Jegertroppen </em>(The Hunter Troop), which was established in 2014; as of 2019, women comprised about 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-120 Lithuania (NATO) (2021)<br>
+up to 150 Lithuania (NATO) (2022)<br>
 
 **Military - note**<br>
 Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p> (2021)<br>

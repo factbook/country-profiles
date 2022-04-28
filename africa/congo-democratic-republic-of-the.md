@@ -661,8 +661,8 @@ _total_: 16.5 million (2022 est.)<br>
 _percent of population_: 17.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 11,900 (2019)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total_: 31,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.03 less than 1 (2021 est.)<br>
 
 ## Transportation
 
@@ -693,7 +693,7 @@ _914 to 1,523 m_: 87<br>
 _under 914 m_: 65 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 62 km gas, 77 km oil, 756 km refined products (2013)<br>
@@ -744,7 +744,7 @@ the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era we
 18-45 years of age for voluntary (men and women) and compulsory (men only) military service; unclear how much conscription is used (2021)<br>
 
 **Military - note**<br>
-<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups, however, continue to fight (note - there are as many as 120 total armed groups in the country by some estimates); as of 2022, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> <br>MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of November 2021, MONUSCO comprised around 17,800 personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
+<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups, however, continue to fight (note - there are as many as 120 total armed groups in the country by some estimates); as of 2022, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> <br>MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of February 2022, MONUSCO had around 15,000 personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
 
 ## Terrorism
 

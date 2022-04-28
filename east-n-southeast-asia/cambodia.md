@@ -644,8 +644,8 @@ _total_: 13.44 million (2022 est.)<br>
 _percent of population_: 78.8% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 713,845 (2020)<br>
-_subscriptions per 100 inhabitants_: 1.12 (2019 est.)<br>
+_total_: 233,732 Slowly increase as focus is on mobile internet (2021)<br>
+_subscriptions per 100 inhabitants_: 1.4 (2021 est.)<br>
 
 ## Transportation
 
@@ -674,7 +674,7 @@ _914 to 1,523 m_: 7<br>
 _under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Railways**<br>
 _total_: 642 km (2014)<br>
@@ -721,7 +721,7 @@ the Royal Cambodian Armed Forces are armed largely with older Chinese and Russia
 note - in 2018, women made up an estimated 6% of the active duty military<br>
 
 **Military deployments**<br>
-200 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL); 330 Mali (MINUSMA) (Oct 2021)<br>
+200 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL); 290 Mali (MINUSMA) (Jan 2022)<br>
 
 **Military - note**<br>
 <p>the Royal Cambodian Armed Forces (RCAF) was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999</p> <p> </p><br>

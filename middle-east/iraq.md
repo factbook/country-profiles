@@ -624,8 +624,8 @@ _total subscriptions_: 4,166,461 (2020)<br>
 _subscriptions per 100 inhabitants_: 10.36 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 36,946,600 (2020)<br>
-_subscriptions per 100 inhabitants_: 91.86 (2020 est.)<br>
+_total subscriptions_: 42.54 million (2022)<br>
+_subscriptions per 100 inhabitants_: 102.1 (2022)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the 2003 liberation of Iraq severely disrupted telecommunications throughout the country; widespread government efforts to rebuild domestic and international communications have slowed due to political unrest; recent efforts create stability and developments in 4G and 5G technologies; operators focus on installations of new fiber-optic cables and growth in mobile broadband subscribers; the most popular plans are pre-paid; operators focused on fixing and replacing networks (2020)<br>
@@ -640,12 +640,12 @@ the number of private radio and TV stations has increased rapidly since 2003; go
 .iq<br>
 
 **Internet users**<br>
-_total_: 30.52 million (2021 est.)<br>
-_percent of population_: 49.36% (2019 est.)<br>
+_total_: 20.58 million (2022)<br>
+_percent of population_: 49.4% (2022)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5,453,799 (2020)<br>
-_subscriptions per 100 inhabitants_: 13.56 (2020 est.)<br>
+_total_: 6,254,099 (2021)<br>
+_subscriptions per 100 inhabitants_: 15.55 (2021)<br>
 
 ## Transportation
 
@@ -678,7 +678,7 @@ _914 to 1,523 m_: 13<br>
 _under 914 m_: 6 (2021)<br>
 
 **Heliports**<br>
-16 (2013)<br>
+16 (2021)<br>
 
 **Pipelines**<br>
 2455 km gas, 913 km liquid petroleum gas, 5432 km oil, 1637 km refined products (2013)<br>

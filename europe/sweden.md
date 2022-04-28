@@ -616,8 +616,8 @@ _total_: 9.93 million (2021 est.)<br>
 _percent of population_: 94.54% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,101,078 (2020)<br>
-_subscriptions per 100 inhabitants_: 40.61 (2020 est.)<br>
+_total_: 4,179,574 (2021)<br>
+_subscriptions per 100 inhabitants_: 41.38 (2021)<br>
 
 ## Transportation
 
@@ -645,7 +645,7 @@ _914 to 1,523 m_: 5<br>
 _under 914 m_: 77 (2021)<br>
 
 **Heliports**<br>
-2 (2013)<br>
+2 (2021)<br>
 
 **Pipelines**<br>
 1626 km gas (2013)<br>
@@ -695,7 +695,7 @@ the inventory of the Swedish Armed Forces is comprised of domestically-produced 
 note(s) - Sweden conscripts about 5,500 men and women each year; as of 2019, women made up about 9% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 450 Mali (EUTM, MINUSMA, Task Force Takuba) (2021)<br>
+approximately 450 Mali (EUTM, MINUSMA, Task Force Takuba) (2021-2022)<br>
 
 **Military - note**<br>
 <p>Sweden maintains a policy of military non-alignment, but cooperates with NATO and regional countries; it joined NATO’s Partnership for Peace program in 1994 and has contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo</p> <p>the Swedish military cooperates closely with the military forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<strong> </strong></p> <p>Sweden is a signatory of the EU’s Common Security and Defense Policy and contributes to CSDP missions and operations</p><br>

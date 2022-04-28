@@ -80,7 +80,7 @@ _noun_: Andorran(s)<br>
 _adjective_: Andorran<br>
 
 **Ethnic groups**<br>
-Andorran 48.7%, Spanish 24.6%, Portuguese 11.6%, French 4.4%, other 10.6% (2020 est.)<br>
+Andorran 48.3%, Spanish 24.8%, Portuguese 11.2%, French 4.5%, Argentine 1.4%, other 9.8% (2021 est.)<br>
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
@@ -540,8 +540,8 @@ _total_: 70,900 (2022 est.)<br>
 _percent of population_: 91.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 36,358 (2019)<br>
-_subscriptions per 100 inhabitants_: 47.13 (2019 est.)<br>
+_total_: 37,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 47.89 (2021)<br>
 
 ## Transportation
 

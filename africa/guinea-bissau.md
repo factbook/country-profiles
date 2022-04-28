@@ -578,8 +578,8 @@ _total subscriptions_: 0 (2018)<br>
 _subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,913,858 (2020)<br>
-_subscriptions per 100 inhabitants_: 97.25 (2020 est.)<br>
+_total subscriptions_: 1.95 million (2022)<br>
+_subscriptions per 100 inhabitants_: 95.5 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: small system including a combination of microwave radio relay, open-wire lines, radiotelephone, and mobile cellular communications; 2 mobile network operators; one of the poorest countries in the world and this is reflected in the country's telecommunications development; radio is the most important source of information for the public (2020)<br>
@@ -594,12 +594,12 @@ _international_: country code - 245; ACE submarine cable connecting Guinea-Bissa
 .gw<br>
 
 **Internet users**<br>
-_total_: 250,000 (2020 est.)<br>
-_percent of population_: 3.93% (2019 est.)<br>
+_total_: 571,000 (2022 est.)<br>
+_percent of population_: 28% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,383 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_total_: 2,383 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.12 less than 1 (2021)<br>
 
 ## Transportation
 

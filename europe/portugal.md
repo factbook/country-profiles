@@ -619,8 +619,8 @@ _total_: 8.58 million (2021 est.)<br>
 _percent of population_: 78.26% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,160,895 (2020)<br>
-_subscriptions per 100 inhabitants_: 40.81 (2020 est.)<br>
+_total_: 4,160,795 (2021)<br>
+_subscriptions per 100 inhabitants_: 40.81 (2021)<br>
 
 ## Transportation
 
@@ -699,7 +699,7 @@ the Portuguese Armed Forces inventory includes mostly European and US-origin wea
 note - as of 2019, women made up about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-200 Central African Republic (MINUSCA/EUTM); up to 120 Baltic States (NATO) (2021)<br>
+200 Central African Republic (MINUSCA/EUTM); up to 120 Lithuania (2022)<br>
 note - in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br>
 
 **Military - note**<br>

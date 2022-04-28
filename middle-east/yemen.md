@@ -626,8 +626,8 @@ _total_: 8.06 million (2021 est.)<br>
 _percent of population_: 26.72% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 386,330 (2018)<br>
-_subscriptions per 100 inhabitants_: 1.68 (2019 est.)<br>
+_total_: 391,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 1.31 (2021 est.)<br>
 
 ## Transportation
 
@@ -709,6 +709,6 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>Saudi Arabia has reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 75,315 (Somalia), 17,407 (Ethiopia) (2022)<br>
+_refugees (country of origin)_: 68,874 (Somalia), 17,407 (Ethiopia) (2022)<br>
 _IDPs_: 4,002,012 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2020)<br>
 

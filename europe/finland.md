@@ -617,12 +617,12 @@ a mix of 3 publicly operated TV stations and numerous privately owned TV station
 note - Aland Islands assigned .ax<br>
 
 **Internet users**<br>
-_total_: 5.27 million (2021 est.)<br>
-_percent of population_: 92.17% (2020 est.)<br>
+_total_: 5.39 million (2022 est.)<br>
+_percent of population_: 97% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1.846 million (2020)<br>
-_subscriptions per 100 inhabitants_: 33.32 (2020 est.)<br>
+_total_: 1.846 million (2021)<br>
+_subscriptions per 100 inhabitants_: 33.32 (2021)<br>
 
 ## Transportation
 
@@ -699,7 +699,7 @@ at age 18, all Finnish men are obligated to serve 5.5-12 months of service withi
 note(s) - the military trains approximately 21,000 (20,000 Army) conscripts each year; since 2017, between 1,000 and 1,700 women have volunteered for military service annually; as of 2019, women made up about 4% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-160 Lebanon (UNIFIL) (Oct 2021)<br>
+160 Lebanon (UNIFIL) (Jan 2022)<br>
 
 **Military - note**<br>
 <p>Finland is not a member of NATO, but the two actively cooperate in peace-support operations, exercise together, and exchange analysis and information; Finland joined NATO’s Partnership for Peace program in 1994; Finnish Armed Forces participated in NATO-led military operations and missions in the Balkans, Afghanistan, and Iraq</p> <p>Finland is a signatory of the EU’s Common Security and Defense Policy (CSDP) and actively participates in CSDP crisis management missions and operations</p> <p>the Finnish Armed Forces closely cooperate with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p><br>

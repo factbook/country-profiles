@@ -635,8 +635,8 @@ _total_: 2.69 million (2021 est.)<br>
 _percent of population_: 77.37% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,012,410 (2019)<br>
-_subscriptions per 100 inhabitants_: 29.95 (2019 est.)<br>
+_total_: 1,063,701 (2021)<br>
+_subscriptions per 100 inhabitants_: 30.62 (2021)<br>
 
 ## Transportation
 
@@ -708,7 +708,7 @@ the inventory of the Armed Forces of Uruguay includes a wide variety of older or
 note - as of 2017, women comprised about 19% of the active military<br>
 
 **Military deployments**<br>
-815 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (Oct 2021)<br>
+830 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (Feb 2022)<br>
 
 **Military - note**<br>
 <p>as of 2021, the military had some domestic responsibilities, including perimeter security for a number of prisons and border security; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018  </p><br>

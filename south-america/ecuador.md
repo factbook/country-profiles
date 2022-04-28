@@ -640,8 +640,8 @@ _percent of population_: 75.6% (2022 est.)<br>
 according to 2021 statistics from Ecuador's Ministry of Telecommunications and Information Society, 50% of homes do not have access to fixed internet<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,346,923 (2020)<br>
-_subscriptions per 100 inhabitants_: 13.3 (2020 est.)<br>
+_total_: 2,371,297 (2021)<br>
+_subscriptions per 100 inhabitants_: 13.44 (2021)<br>
 
 ## Transportation
 
@@ -671,7 +671,7 @@ _914 to 1,523 m_: 37<br>
 _under 914 m_: 291 (2021)<br>
 
 **Heliports**<br>
-2 (2013)<br>
+2 (2021)<br>
 
 **Pipelines**<br>
 485 km extra heavy crude, 123 km gas, 2131 km oil, 1526 km refined products (2017)<br>

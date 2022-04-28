@@ -650,8 +650,8 @@ _total_: 38.02 million (2022 est.)<br>
 _percent of population_: 83% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 9,571,562 (2020)<br>
-_subscriptions per 100 inhabitants_: 21.18 (2020 est.)<br>
+_total_: 9,571,562 (2021)<br>
+_subscriptions per 100 inhabitants_: 21.18 (2021 est.)<br>
 
 ## Transportation
 
@@ -684,7 +684,7 @@ _914 to 1,523 m_: 484<br>
 _under 914 m_: 448 (2021)<br>
 
 **Heliports**<br>
-2 (2013)<br>
+2 (2021)<br>
 
 **Pipelines**<br>
 29930 km gas, 41 km liquid petroleum gas, 6248 km oil, 3631 km refined products (2013)<br>
@@ -737,7 +737,7 @@ the inventory of Argentina's armed forces is a mix of domestically-produced and 
 note - as of 2017, women made up over 17% of the active duty military<br>
 
 **Military deployments**<br>
-250 Cyprus (UNFICYP) (Jan 2021)<br>
+200 Cyprus (UNFICYP) (Jan 2022)<br>
 
 **Military - note**<br>
 as of 2021, the Argentine military was focused primarily on border security and counter-narcotics operations; in 2018, the government approved a decree allowing greater latitude for the military in internal security missions, with a focus on logistics support in border areas<br><br>Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>

@@ -497,7 +497,7 @@ _total_: 41,820 (2021)<br>
 <br><br><strong>top ten by cargo (metric tons):</strong> Memphis, TN (MEM) - 4,613,431; Hong Kong (HKG) - 4,468,089; Shanghai (PVG) - 3,686,627; Anchorage, AK (ANC) - 3,157,682; Louisville, KY (SDF) - 2,917,243; Incheon (ICN) - 2,822,370; Taipei (TPE) - 2,342,714; Los Angeles, CA (LAX) 2,229,476; Doha, Qatar (DOH) 2,175,292; Miami, FL (MIA) 2,137,699 (2020)<br>
 
 **Heliports**<br>
-6,524 (2013)<br>
+6,524 (2021)<br>
 
 **Railways**<br>
 _total_: 1,148,186 km (2013)<br>
@@ -529,8 +529,7 @@ estimated 20-25 million active duty military (2020)<br>
 from 2010-2020, the US was assessed to be the world's leading arms exporter, followed by Russia; India and Saudi Arabia were the top arms importers for the same period<br>
 
 **Military deployments**<br>
-as of September 2021, the UN had about 76,000 peacekeepers deployed worldwide<br>
-note - in 2020, out of approximately 95,000 peacekeepers, women constituted almost 5% of UN military contingents and nearly 11% of formed UN police units<br>
+as of early 2022, there were about 75,000 UN peacekeepers deployed worldwide<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau (IMB) reports that 2021 saw a decrease in global pirate activities; in 2021, pirates attacked a total of 132 ships worldwide including boarding 115 ships, hijacking one ship, and firing on five; this activity is a decrease from 195 incidents in 2020 and the lowest number recorded since 1994; in 2021, the number of hostages taken was eight, and the number of seafarers kidnapped for ransom decreased to 57 compared with 135 in 2020, with all taken off West Africa<br><br>the EU naval mission, Operation ATALANTA, continues its operations in the Gulf of Aden and Indian Ocean through 2022; naval units from Japan, India, and China also operate in conjunction with EU forces; China has established a logistical base in Djibouti to support its deployed naval units in the Horn of Africa<br><br>the Horn of Africa saw one incident of pirate activity in 2021, up from no attacks in 2020; the decrease in successful pirate attacks off the Horn of Africa since the peak in 2007 was due, in part, to anti-piracy operations by international naval forces, the hardening of vessels, and the increased use of armed security teams aboard merchant ships; despite these preventative measures, the assessed risk remains high<br><br>West Africa remains a dangerous area for piracy in the world, but saw a dramatic decrease in incidents with 34 attacks in 2021 compared to 81 in 2020, including one hijacking and three of five ships fired upon; Nigerian pirates are very aggressive, operating as far as 200 nm offshore and kidnapping 57 mariners in seven incidents accounting for all crew kidnappings world-wide; attacks against ships underway in the Singapore Straits increased 50% to 35 incidents in 2021; there were nine attacks in Indonesian waters in 2021 compared to 26 in 2020, primarily to ships anchored or berthed; the majority (71%) of global attacks against shipping have occurred in the offshore waters of eight countries - Colombia, Ghana, Indonesia, Malaysia/Singapore, Nigeria, Peru, Philippines, and Sao Tome and Principe (2021)<br>

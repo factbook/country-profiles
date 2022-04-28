@@ -359,8 +359,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017)<br>
 _head of government_: Prime Minister Jean CASTEX (since 3 July 2020)<br>
 _cabinet_: Council of Ministers appointed by the president at the suggestion of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 April 2022 with a runoff to be held on 24 April 2022 (next to be held in April 2027); prime minister appointed by the president<br>
-_election results_: <em>2022: </em>percent of vote in first round - Emmanuel MACRON (LREM) 27.8%, Marine LE PEN (RN) 23.2%, Jean-Luc MELENCHON (LFI) 22%, Eric ZEMMOUR (Reconquete) 7.1%, Valerie PECRESSE (LR) 4.8%, Yannick JADOT (EELV) 4.6%, Jean LASSALLE (Resistons!) 3.1%, Fabien ROUSSEL (PCF) 2.3%, Nicolas DUPONT-AIGNAN (DLF) 2.1%, Anne HIDALGO 1.8%, other 1.2%<em><br></em><br><em>2017:</em> Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24.%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20.%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 April 2022 with a runoff held on 24 April 2022 (next to be held in April 2027); prime minister appointed by the president<br>
+_election results_: <em>2022: </em>Emmanuel MACRON reelected in second round; percent of vote in first round - Emmanuel MACRON (LREM) 27.8%, Marine LE PEN (RN) 23.2%, Jean-Luc MELENCHON (LFI) 22%, Eric ZEMMOUR (Reconquete) 7.1%, Valerie PECRESSE (LR) 4.8%, Yannick JADOT (EELV) 4.6%, Jean LASSALLE (Resistons!) 3.1%, Fabien ROUSSEL (PCF) 2.3%, Nicolas DUPONT-AIGNAN (DLF) 2.1%, Anne HIDALGO 1.8%, other 1.2%; percent of vote in second round - MACRON 58.5%, LE PEN 41.5%<em><br></em><br><em>2017:</em> Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24.%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20.%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members, and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
@@ -654,12 +654,12 @@ a mix of both publicly operated and privately owned TV stations; state-owned Fra
 metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Mayotte - .yt; Reunion - .re<br>
 
 **Internet users**<br>
-_total_: 59.47 million (2021 est.)<br>
-_percent of population_: 83.34% (2019 est.)<br>
+_total_: 60.92 million (2022 est.)<br>
+_percent of population_: 93% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 30.627 million (2020)<br>
-_subscriptions per 100 inhabitants_: 46.92 (2020 est.)<br>
+_total_: 30.627 million (2021)<br>
+_subscriptions per 100 inhabitants_: 46.92 (2021)<br>
 
 ## Transportation
 
@@ -690,7 +690,7 @@ _914 to 1,523 m_: 64<br>
 _under 914 m_: 105 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 15322 km gas, 2939 km oil, 5084 km refined products (2013)<br>
@@ -746,8 +746,8 @@ the French military's inventory consists mostly of domestically-produced weapons
 note(s) - men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign 5-year contracts; in 2019, women comprised approximately approximately 16% of the uniformed armed forces (21% including civilians)&nbsp;<br>
 
 **Military deployments**<br>
-4,300 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Task Force Takuba; note - in  2021, France announced that it would cut the number of troops from this force to about 2,500 by 2023; in 2022, France said it would move the troops in Mali--about 2,400--to other west African countries); approximately 300 Central African Republic; 950 Cote D'Ivoire; 1,450 Djibouti; 300 Baltics (NATO); 2,100 French Guyana; 900 French Polynesia; 1,000 French West Indies; 350 Gabon; est. 500 Middle East (Iraq/Jordan/Syria); 950 Lebanon (UNIFIL); 1,450 New Caledonia; 1,700 Reunion Island; 350 Senegal; 650 United Arab Emirates (2021)<br>
-note - France has been a contributing member of the EuroCorps since 1992<br>
+4,300 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Task Force Takuba; note - in  2021, France announced that it would cut the number of troops from this force to about 2,500 by 2023; in 2022, France said it would move the troops in Mali--about 2,400--to other west African countries); approximately 300 Central African Republic; 950 Cote D'Ivoire; 1,450 Djibouti; 350 Baltics (NATO); 2,100 French Guyana; 900 French Polynesia; 1,000 French West Indies; 350 Gabon; est. 500 Middle East (Iraq/Jordan/Syria); 570 Lebanon (UNIFIL); 1,450 New Caledonia; 1,700 Reunion Island; 350 Senegal; 650 United Arab Emirates (2021-2022)<br><br>note(s) - France has been a contributing member of the EuroCorps since 1992; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+note(s) - France has been a contributing member of the EuroCorps since 1992; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 France was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty), which created NATO in 1949; in 1966, President Charles DE GAULLE decided to withdraw France from NATO’s integrated military structure, reflecting his desire for greater military independence, particularly vis-à-vis the US, and the refusal to integrate France’s nuclear deterrent or accept any form of control over its armed forces; it did, however, sign agreements with NATO setting out procedures in the event of Soviet aggression; beginning with the fall of the Berlin Wall in 1989, France distanced itself from the 1966 decision and has regularly contributed troops to NATO’s military operations, being one of the largest troop-contributing states; in 2009 it officially announced its decision to fully participate in NATO structures<br><br> <p>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for French-UK bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance</p> <p>the French Foreign Legion, established in 1831, is a military force that is open to foreign recruits willing to serve in the French Armed Forces for service in France and abroad; the Foreign Legion is an integrated part of the French Army and is comprised of approximately 8,000 personnel in eight regiments, a regiment-sized demi-brigade, a battalion-sized overseas detachment, a battalion-sized recruiting group, and a command staff; the combat units are a mix of armored cavalry and airborne, light, mechanized, and motorized infantry</p> (2021)<br>

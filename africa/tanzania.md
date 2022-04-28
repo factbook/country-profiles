@@ -656,8 +656,8 @@ _total_: 15.15 million (2021 est.)<br>
 _percent of population_: 25% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,084,698 (2020)<br>
-_subscriptions per 100 inhabitants_: 1.82 (2020 est.)<br>
+_total_: 1,135,608 (2021)<br>
+_subscriptions per 100 inhabitants_: 1.9 (2021 est.)<br>
 
 ## Transportation
 
@@ -735,7 +735,7 @@ the TPDF inventory includes mostly Soviet-era and Chinese equipment; since 2010,
 18-25 years of age for voluntary military service; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2021)<br>
 
 **Military deployments**<br>
-450 Central African Republic (MINUSCA); 830 Democratic Republic of the Congo (MONUSCO); 125 Lebanon (UNIFIL) (Dec 2021)<br>
+450 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO); 125 Lebanon (UNIFIL) (Feb 2022)<br>
 
 **Military - note**<br>
 in 2021-2022, Tanzania deployed additional troops to its border with Mozambique and contributed troops to the Southern African Development Community (SADC) intervention force that was assisting the Mozambique Government's fight against Islamic militants<br>

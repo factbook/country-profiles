@@ -502,8 +502,8 @@ _total subscriptions_: 68,000 (2018)<br>
 _subscriptions per 100 inhabitants_: 42.01 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 98,000 (2004 est.)<br>
-_subscriptions per 100 inhabitants_: 61.99 (2004 est.)<br>
+_total subscriptions_: 190,200 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 111.3 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: integrated with US facilities for direct dialing, including free use of 800 numbers (2020)<br>
@@ -518,12 +518,12 @@ about a dozen TV channels, including digital channels; multi-channel cable TV se
 .gu<br>
 
 **Internet users**<br>
-_total_: 136,500 (2021 est.)<br>
-_percent of population_: 80.51% (2019 est.)<br>
+_total_: 137,600 (2022 est.)<br>
+_percent of population_: 80.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,000 (2014)<br>
-_subscriptions per 100 inhabitants_: 1.86 (2019)<br>
+_total_: 3,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 1.78 (2021)<br>
 
 ## Transportation
 

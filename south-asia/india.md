@@ -646,13 +646,13 @@ _total subscriptions_: 20,052,162 (2020)<br>
 _subscriptions per 100 inhabitants_: 1.45 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,153,709,832 (2020)<br>
-_subscriptions per 100 inhabitants_: 83.6 (2020 est.)<br>
+_total subscriptions_: 1.14 billion (2022)<br>
+_subscriptions per 100 inhabitants_: 81.3 (2022 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: supported by deregulation, India is one of the fastest-growing telecom markets in the world; implementation of 4G/LTE; fixed-line/broadband underdeveloped; government investment in national infrastructure; project aims to connect 600,000 villages to broadband networks; expansive foreign investment; imports of integrated circuits and broadcast equipment from China; steps taken towards a 5G auction and tests; submarine cable linking mainland to the Andaman and Nicobar Islands; smart cities mission to promote 100 model cities in providing core infrastructure, sustainable environment, and quality of life through economic growth and competition, including focus on social, economic, and institutional pillars (2020)<br>
-_domestic_: fixed-line subscriptions stands at roughly 1 per 100 and mobile-cellular at nearly 84 per 100; mobile cellular service introduced in 1994 and organized nationwide into four metropolitan areas and 19 telecom circles, each with multiple private service providers and one or more state-owned service providers; in recent years significant trunk capacity added in the form of fiber-optic cable and one of the world's largest domestic satellite systems, the Indian National Satellite system (INSAT), with 6 satellites supporting 33,000 (very small aperture terminals) VSAT (2020)<br>
-_international_: country code - 91; a number of major international submarine cable systems, including SEA-ME-WE-3 &amp; 4, AAE-1, BBG, EIG, FALCON,&nbsp;FEA, GBICS, MENA, IMEWE, SEACOM/ Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, Chennai-Andaman &amp; Nicobar Island Cable, SAEx2, Tata TGN-Tata Indicom and i2icn&nbsp;that provide connectivity&nbsp;to Europe, Africa, Asia, the Middle East, South East Asia, numerous Indian Ocean islands&nbsp;including&nbsp;Australia&nbsp;; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian Ocean region (2019)<br>
+_general assessment_: <p>supported by deregulation, India is one of the fastest-growing telecom markets in the world; implementation of 4G/LTE; fixed-line/broadband underdeveloped; government investment in national infrastructure; project aims to connect 600,000 villages to broadband networks; expansive foreign investment; imports of integrated circuits and broadcast equipment from China; steps taken towards a 5G auction and tests; submarine cable linking mainland to the Andaman and Nicobar Islands; smart cities mission to promote 100 model cities in providing core infrastructure, sustainable environment, and quality of life through economic growth and competition, including focus on social, economic, and institutional pillars</p> (2022)<br>
+_domestic_: fixed-line subscriptions stands at roughly 1 per 100 and mobile-cellular at nearly 84 per 100; mobile cellular service introduced in 1994 and organized nationwide into four metropolitan areas and 19 telecom circles, each with multiple private service providers and one or more state-owned service providers; in recent years significant trunk capacity added in the form of fiber-optic cable and one of the world's largest domestic satellite systems, the Indian National Satellite system (INSAT), with 6 satellites supporting 33,000 (very small aperture terminals) VSAT (2022)<br>
+_international_: country code - 91; a number of major international submarine cable systems, including SEA-ME-WE-3 &amp; 4, AAE-1, BBG, EIG, FALCON, FEA, GBICS, MENA, IMEWE, SEACOM/ Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, Chennai-Andaman &amp; Nicobar Island Cable, SAEx2, Tata TGN-Tata Indicom and i2icn that provide connectivity to Europe, Africa, Asia, the Middle East, South East Asia, numerous Indian Ocean islands including Australia ; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat; Indian Ocean region (2022)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
@@ -662,12 +662,12 @@ Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasti
 .in<br>
 
 **Internet users**<br>
-_total_: 624 million (2021 est.)<br>
-_percent of population_: 34.45% (2019 est.)<br>
+_total_: 658 million (2022)<br>
+_percent of population_: 47% (2022)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 22.29 million (2020)<br>
-_subscriptions per 100 inhabitants_: 1.62 (2020 est.)<br>
+_total_: 22.95 million (2020)<br>
+_subscriptions per 100 inhabitants_: 1.66 (2020)<br>
 
 ## Transportation
 
@@ -700,7 +700,7 @@ _914 to 1,523 m_: 38<br>
 _under 914 m_: 45 (2021)<br>
 
 **Heliports**<br>
-45 (2013)<br>
+45 (2021)<br>
 
 **Pipelines**<br>
 17,389 km natural gas, 10, 419 km crude oil, 3544 liquid petroleum gas, 14,729 km refined products (2020) 9 km condensate/gas, 20 km oil/gas/water (2013)&nbsp; (2013)<br>
@@ -749,7 +749,7 @@ the inventory of the Indian Armed Forces consists mostly of Russian- and Soviet-
 16-18 years of age for voluntary military service (Army 17 1/2, Air Force 17, Navy 16 1/2); no conscription; women may join as officers, currently serve in combat roles as Air Force pilots, and under consideration for Army and Navy combat roles (currently can fly naval reconnaissance aircraft) (2021)<br>
 
 **Military deployments**<br>
-1,850 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 850 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS) (Oct 2021)<br>
+1,900 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 900 Lebanon (UNIFIL); 2,400 South Sudan (UNMISS) (Jan 2022)<br>
 
 **Military - note**<br>
 <p>as of 2021, the Indian Armed Forces were chiefly focused on China and Pakistan; the short 1962 Sino-India War left in place one of the world’s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003 and revised in 2018, although the border, known as the Line of Control, remained contested as of 2021, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; a cease-fire went into effect in 2003, but as of 2021, both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness</p><br>

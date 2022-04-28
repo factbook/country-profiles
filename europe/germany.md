@@ -631,12 +631,12 @@ a mixture of publicly operated and privately owned TV and radio stations; 70 nat
 .de<br>
 
 **Internet users**<br>
-_total_: 78.81 million (2021 est.)<br>
-_percent of population_: 89.81% (2020 est.)<br>
+_total_: 78.2 million (2022 est.)<br>
+_percent of population_: 93% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 36,040,739 (2020)<br>
-_subscriptions per 100 inhabitants_: 25.01 (2020 est.)<br>
+_total_: 36,215,303 (2021)<br>
+_subscriptions per 100 inhabitants_: 43.22 (2021)<br>
 
 ## Transportation
 
@@ -667,7 +667,7 @@ _914 to 1,523 m_: 35<br>
 _under 914 m_: 185 (2021)<br>
 
 **Heliports**<br>
-23 (2013)<br>
+23 (2021)<br>
 
 **Pipelines**<br>
 37 km condensate, 26985 km gas, 2400 km oil, 4479 km refined products, 8 km water (2013)<br>
@@ -721,7 +721,8 @@ the German Federal Armed Forces inventory is mostly comprised of weapons systems
 note - in 2021, women accounted for about 12% of the German military<br>
 
 **Military deployments**<br>
-approximately 500 Middle East (NATO/Counter-ISIS campaign); 130 Lebanon (UNIFIL); 600 Lithuania (NATO); approximately 1,400 Mali (MINUSMA/EUTM); note - Germany is a contributing member of the EuroCorps (2021)<br>
+approximately 500 Middle East (NATO/Counter-ISIS campaign); 550 Lithuania (NATO); approximately 1,200 Mali (MINUSMA/EUTM) (2021-2022)<br><br>note(s) - Germany is a contributing member of the EuroCorps; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+note(s) - Germany is a contributing member of the EuroCorps; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br><br>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group (2021)<br>

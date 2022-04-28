@@ -341,7 +341,8 @@ _judge selection and term of office_: judges appointed by the president from can
 _subordinate courts_: district, magistrates', juvenile, family, community, and coroners' courts; small claims tribunals; employment claims tribunals<br>
 
 **Political parties and leaders**<br>
-<p>Democratic Progressive Party or DPP [Mohamad Hamim BIN ALIYA]<br>National Solidarity Party or NSP [Spencer NG]<br>People's Action Party or PAP [LEE Hsien Loong]<br>People's Power Party or (PPP) [Goh Meng SENG]<br>People's Voice or PV [Lim TEAN]<br>Progress Singapore Party or PSP [Francis YUENT]<br>Red Dot United or RDU [Ravi PHILEMON]<br>Reform Party or RP [Kenneth JEYARETNAM]<br>Singapore Democratic Alliance or SDA [Desmond LIM]<br>Singapore Democratic Party or SDP [Dr. CHEE Soon Juan]<br>Singapore Malay National Organisation or PKMS [Muhammad Hairullah AHMAD]<br>Singapore People's Party or SPP [Steve Chia]<br>Singapore United Party or SUP [Andy ZHU]<br>Workers' Party or WP [Pritam SINGH]</p> (2021)<br>
+Democratic Progressive Party or DPP [Mohamad Hamim BIN ALIYA]<br>National Solidarity Party or NSP [Spencer NG]<br>People's Action Party or PAP [LEE Hsien Loong]<br>People's Power Party or (PPP) [Goh Meng SENG]<br>People's Voice or PV [Lim TEAN]<br>Progress Singapore Party or PSP [Francis YUENT]<br>Red Dot United or RDU [Ravi PHILEMON]<br>Reform Party or RP [Kenneth JEYARETNAM]<br>Singapore Democratic Alliance or SDA [Desmond LIM]<br>Singapore Democratic Party or SDP [Dr. CHEE Soon Juan]<br>Singapore Malay National Organisation or PKMS [Muhammad Hairullah AHMAD]<br>Singapore People's Party or SPP [Steve Chia]<br>Singapore United Party or SUP [Andy ZHU]<br>Workers' Party or WP [Pritam SINGH] (2022)<br>
+note - the PAP has won every general election since the end of the British colonial era in 1959<br>
 
 **International organization participation**<br>
 ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -624,8 +625,8 @@ _total_: 5.29 million (2021 est.)<br>
 _percent of population_: 92% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,517,600 (2020)<br>
-_subscriptions per 100 inhabitants_: 25.94 (2020 est.)<br>
+_total_: 1,509,700 (2021)<br>
+_subscriptions per 100 inhabitants_: 25.81 (2021)<br>
 
 ## Transportation
 
@@ -689,7 +690,7 @@ the SAF has a diverse and largely modern mix of domestically-produced and import
 note(s) - under the Enlistment Act, all male Singaporean citizens and permanent residents, unless exempted, are required to enter National Service (NS) upon attaining the age of 18; most NS conscripts serve in the SAF, but some go into the Police Force or Civil Defense Force; as of 2020, conscripts comprised over half of the defense establishment; as of 2017, women made up about 7% of the active force<br>
 
 **Military deployments**<br>
-maintains permanent training detachments of military personnel in Australia, France, and the US (2021)<br>
+maintains permanent training detachments of military personnel in Australia, France, and the US (2022)<br>
 
 **Military - note**<br>
 <p>the SAF's roots go back to 1854 when the Singapore Volunteer Rifle Corps was formed under colonial rule; the first battalion of regular soldiers, the First Singapore Infantry Regiment, was organized in 1957; the modern SAF was established in 1965; as of 2021, the SAF was widely viewed as the best equipped military in southeast Asia; the Army was largely based on conscripts and reservists with a small cadre of professional soldiers, while the Air Force and Navy were primarily comprised of well-trained professionals</p><br>

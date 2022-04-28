@@ -641,8 +641,8 @@ _total_: 6.84 million (2021 est.)<br>
 _percent of population_: 66.79% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 625,657 (2020)<br>
-_subscriptions per 100 inhabitants_: 6.13 (2020 est.)<br>
+_total_: 630,545 (2021)<br>
+_subscriptions per 100 inhabitants_: 6.18 (2021)<br>
 
 ## Transportation
 
@@ -670,7 +670,7 @@ _total_: 2<br>
 _under 914 m_: 2 (2021)<br>
 
 **Heliports**<br>
-1 (2012)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 473 km gas, 49 km oil (2013)<br>
@@ -713,7 +713,7 @@ the JAF inventory is comprised of a wide mix of imported equipment from Europe, 
 note - most women serve in the medical service; outside the medical service, women comprised about 1.5% of the military as of 2019; the Jordanian Government intended to raise this to 3%<br>
 
 **Military deployments**<br>
-325 Mali (MINUSMA) (Oct 2021)<br>
+330 Mali (MINUSMA) (Feb 2022)<br>
 
 **Military - note**<br>
 <p>the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s</p> <p>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2021 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan</p> <p>Jordan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>Jordan signed a peace treaty with Israel in 1994</p><br>

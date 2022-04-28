@@ -89,7 +89,7 @@ _noun_: Afghan(s)<br>
 _adjective_: Afghan<br>
 
 **Ethnic groups**<br>
-Current reliable statistical data on ethnicity in Afghanistan are not available; Afghanistan's 2004 Constitution cited Pashtun, Tajik, Hazara, Uzbek, Turkman, Baluch, Pachaie, Nuristani, Aymaq, Arab, Qirghiz, Qizilbash, Gujur, and Brahwui ethnicities; Afghanistan has dozens of other small ethnic groups<br>
+Current, reliable statistical data on ethnicity in Afghanistan are not available; Afghanistan's 2004 Constitution cited Pashtun, Tajik, Hazara, Uzbek, Turkman, Baluch, Pachaie, Nuristani, Aymaq, Arab, Qirghiz, Qizilbash, Gujur, and Brahwui ethnicities; Afghanistan has dozens of other small ethnic groups<br>
 
 **Languages**<br>
 Afghan Persian or Dari (official, lingua franca) 77%, Pashto (official) 48%, Uzbeki 11%, English 6%, Turkmani 3%, Urdu 3%, Pachaie 1%, Nuristani 1%, Arabic 1%, Balochi 1%, other &lt;1% (2020 est.)<br>
@@ -390,7 +390,7 @@ _embassy_: Embassy Kabul, operations have been suspended; Department of State’
 
 **Flag description**<br>
 three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>
-<strong>note:</strong> Afghanistan had more changes to its national flag in the 20th century - 19 by one count - than any other country; the colors black, red, and green appeared on most of them<br>
+<strong>note 1: </strong>the United States has not recognized the Taliban or any other entity as the government of Afghanistan and, accordingly, continues to display the flag of Afghanistan as set forth in the country's constitution<strong><br><br>note 2:</strong> Afghanistan had more changes to its national flag in the 20th century - 19 by one count - than any other country; the colors black, red, and green appeared on most of them<br><br><br><br><br><br>
 
 **National symbol(s)**<br>
 lion; national colors: red, green, black<br>
@@ -641,8 +641,8 @@ _total_: 9.23 million (2022 est.)<br>
 _percent of population_: 22.9% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 26,570 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
+_total_: 26,570 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.07 (2021)<br>
 
 ## Transportation
 
@@ -674,7 +674,7 @@ _914 to 1,523 m_: 4<br>
 _under 914 m_: 5 (2021)<br>
 
 **Heliports**<br>
-1 (2020)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 466 km gas (2013)<br>

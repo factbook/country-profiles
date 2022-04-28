@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Guinea's deep Muslim heritage arrived via the neighboring Almoravid Empire in the 11th century. Following Almoravid decline, Guinea existed on the fringe of several African kingdoms, all competing for regional dominance. In the 13th century, the Mali Empire took control of Guinea, encouraging its already growing Muslim faith. After the fall of the West African empires, various smaller kingdoms controlled Guinea. In the 18th century, Fulani Muslims established an Islamic state in central Guinea that represents one of the earliest examples of a written constitution and alternating leadership. While European traders first arrived in the 16th century, it was the French who secured colonial rule in the 19th century.</p> <p>In 1958, Guinea achieved independence from France. Sekou TOURE became Guinea’s first post-independence president; he established a dictatorial regime and ruled until his death in 1984, after which General Lansana CONTE staged a coup and seized the government. He too established an authoritarian regime and manipulated presidential elections until his death in December 2008, when Captain Moussa Dadis CAMARA led a military coup, seized power, and suspended the constitution. In September 2009, presidential guards opened fire on an opposition rally, killing more than 150 people in Conakry, the capital. In early December 2009, CAMARA was wounded in an assassination attempt and exiled to Burkina Faso. In 2010 and 2013 respectively, the country held its first free and fair presidential and legislative elections. Alpha CONDE won the 2010 and 2015 presidential elections. CONDE's first cabinet was the first all-civilian government in Guinean history. In March 2020, Guinea passed a new constitution in a national referendum that changed presidential term limit rules. CONDE argued that, given this change, he was allowed to run for a third term, which he then won in October 2020. On 5 September 2021, Col Mamady DOUMBOUYA led special forces troops in a successful military coup, ousting and detaining CONDE and establishing the National Committee for Reconciliation (CNRD). DOUMBOUYA and the CNRD  suspended the constitution and dissolved the government and the legislature. DOUMBOUYA was sworn in as transition president on 1 October 2021, and appointed Mohamed BEAVOGUI as transition prime minister. on October 7, 2021. BEAVOGUI subsequently formed a largely technocratic cabinet. The National Transition Council (CNT), which acts as the legislative body for the transition, was formed on January 22, 2022.The 81-member CNT is led by Dr. Dansa KOUROUMA and consists of appointed members representing a broad swath of Guinean society. <br><br></p><br>
+<p>Guinea's deep Muslim heritage arrived via the neighboring Almoravid Empire in the 11th century. Following Almoravid decline, Guinea existed on the fringe of several African kingdoms, all competing for regional dominance. In the 13th century, the Mali Empire took control of Guinea, encouraging its already growing Muslim faith. After the fall of the West African empires, various smaller kingdoms controlled Guinea. In the 18th century, Fulani Muslims established an Islamic state in central Guinea that represents one of the earliest examples of a written constitution and alternating leadership. While European traders first arrived in the 16th century, it was the French who secured colonial rule in the 19th century.</p> <p>In 1958, Guinea achieved independence from France. Sekou TOURE became Guinea’s first post-independence president; he established a dictatorial regime and ruled until his death in 1984, after which General Lansana CONTE staged a coup and seized the government. He too established an authoritarian regime and manipulated presidential elections until his death in December 2008, when Captain Moussa Dadis CAMARA led a military coup, seized power, and suspended the constitution. In September 2009, presidential guards opened fire on an opposition rally, killing more than 150 people in Conakry, the capital. In early December 2009, CAMARA was wounded in an assassination attempt and exiled to Burkina Faso. In 2010 and 2013 respectively, the country held its first free and fair presidential and legislative elections. Alpha CONDE won the 2010 and 2015 presidential elections. CONDE's first cabinet was the first all-civilian government in Guinean history. In March 2020, Guinea passed a new constitution in a national referendum that changed presidential term limit rules. CONDE argued that, given this change, he was allowed to run for a third term, which he then won in October 2020. On 5 September 2021, Col Mamady DOUMBOUYA led special forces troops in a successful military coup, ousting and detaining CONDE and establishing the National Committee for Reconciliation and Development (CNRD). DOUMBOUYA and the CNRD suspended the constitution and dissolved the government and the legislature. DOUMBOUYA was sworn in as transition president on 1 October 2021, and appointed Mohamed BEAVOGUI as transition prime minister a week later. BEAVOGUI subsequently formed a largely technocratic cabinet. The National Transition Council (CNT), which acts as the legislative body for the transition, was formed on January 22, 2022. The 81-member CNT is led by Dr. Dansa KOUROUMA and consists of appointed members representing a broad swath of Guinean society.</p> <p> </p> <p><br><br></p><br>
 
 ## Geography
 
@@ -633,8 +633,8 @@ _total subscriptions_: 0 (2018)<br>
 _subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12.873 million (2019)<br>
-_subscriptions per 100 inhabitants_: 100.8 (2019 est.)<br>
+_total subscriptions_: 14.01 million (2022)<br>
+_subscriptions per 100 inhabitants_: 102.4 (2022 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Guinea&rsquo;s mobile subscribership growing through investment of South African telecom operators and Chinese Huawei management; m-transactions supported commerce; broadband still limited and expensive though submarine cable and IXP improved reliability of infrastructure; 4G Wi-Fi in the capital; National Backbone Network will connect regional administrative centers; ECOWAS countries to launch free roaming; importer of broadcasting equipment from China (2020)<br>
@@ -643,18 +643,18 @@ _international_: country code - 224; ACE submarine cable connecting Guinea with 
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-<p>government maintains marginal control over broadcast media; single state-run TV station; state-run radio broadcast station also operates several stations in rural areas; a dozen private television stations; a steadily increasing number of privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services </p> (2019)<br>
+<p>Government maintains marginal control over broadcast media; single state-run TV station; state-run radio broadcast station also operates several stations in rural areas; a dozen private television stations; a steadily increasing number of privately owned radio stations, nearly all in Conakry, and about a dozen community radio stations; foreign TV programming available via satellite and cable subscription services </p> (2022)<br>
 
 **Internet country code**<br>
 .gn<br>
 
 **Internet users**<br>
-_total_: 2.91 million (2021 est.)<br>
-_percent of population_: 18% (2019 est.)<br>
+_total_: 3.15 million (2022 est.)<br>
+_percent of population_: 23% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,250 (2019)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total_: 1,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.01 less than 1 (2021)<br>
 
 ## Transportation
 
@@ -718,7 +718,7 @@ the inventory of the Guinean military consists largely of ageing and outdated (m
 Voluntary and selective conscripted service, 9-24 mos (2021)<br>
 
 **Military deployments**<br>
-660 Mali (MINUSMA) (Oct 2021)<br>
+670 Mali (MINUSMA) (Jan 2022)<br>
 
 **Military - note**<br>
 <p>the Army is responsible for external defense, but also has some domestic security responsibilities; piracy and natural resource protection in the Gulf of Guinea are key areas of concern for the small Navy, which possesses only a few patrol boats</p><br>

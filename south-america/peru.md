@@ -663,8 +663,8 @@ _total_: 19.9 million (2021 est.)<br>
 _percent of population_: 65.25% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,536,077 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 7.93 (2018 est.)<br>
+_total_: 3.044 million (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 9.23 (2021 est.)<br>
 
 ## Transportation
 
@@ -696,7 +696,7 @@ _914 to 1,523 m_: 30<br>
 _under 914 m_: 82 (2021)<br>
 
 **Heliports**<br>
-5 (2013)<br>
+5 (2021)<br>
 
 **Pipelines**<br>
 786 km extra heavy crude, 1526 km gas, 679 km liquid petroleum gas, 1033 km oil, 15 km refined products (2013)<br>
@@ -747,7 +747,7 @@ the Peruvian military's inventory is a mix of mostly older equipment from a wide
 note - as of 2019, women made up about 10% of the active duty military<br>
 
 **Military deployments**<br>
-220 Central African Republic (MINUSCA) (Oct 2021)<br>
+210 Central African Republic (MINUSCA) (Feb 2022)<br>
 
 **Military - note**<br>
 <p>as of 2021, the Peruvian security forces continued to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military had approximately 8,000-10,000 troops in the VRAEM under a special combined military-police command, including 3 army infantry battalions</p><br>

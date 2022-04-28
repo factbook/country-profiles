@@ -652,8 +652,8 @@ _total_: 52.58 million (2022 est.)<br>
 _percent of population_: 31.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 9,521,970 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 5.78 (2020 est.)<br>
+_total_: 10,052,819 Data through June 2021. (2021)<br>
+_subscriptions per 100 inhabitants_: 6.1 (2021)<br>
 
 ## Transportation
 
@@ -683,7 +683,7 @@ _1,524 to 2,437 m_: 1<br>
 _under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
-3 (2013)<br>
+3 (2021)<br>
 
 **Pipelines**<br>
 2950 km gas (2013)<br>
@@ -733,7 +733,7 @@ much of the military's inventory is comprised of Chinese- and Russian-origin equ
 16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2021)<br>
 
 **Military deployments**<br>
-Bangladesh is one of the leading contributors to UN peacekeeping missions since it joined the UN in 1974; as of mid-2021, it had over 5,500 troops deployed, including: 1,325 Central African Republic (MINUSCA); 1,625 Democratic Republic of the Congo (MONUSCO; plus about 175 police); 120 Lebanon (UNIFIL); 1,100 Mali (MINUSMA; plus about 280 police); 1,625 South Sudan (UNMISS) (Oct 2021)<br>
+Bangladesh is one of the leading contributors to UN peacekeeping missions since it joined the UN in 1974; as of mid-early 2022, it had approximately 6,400 personnel deployed, including about 5,800 troops, including: 1,375 Central African Republic (MINUSCA); 1,625 Democratic Republic of the Congo (MONUSCO; plus about 175 police); 125 Lebanon (UNIFIL); 1,100 Mali (MINUSMA; plus about 280 police); 1,600 South Sudan (UNMISS) (Jan 2022)<br>
 
 **Military - note**<br>
 <p>as of 2021, the military’s chief areas of focus were border, economic exclusion zone, and domestic security; the Army maintained a large domestic security presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; since 2009, the military has been in a force-wide expansion and modernization program known as Forces Goal 2030</p><br>
@@ -753,7 +753,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p><em>Bangladesh-Burma:</em> Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border.<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 923,179 (Burma) (2022) (includes an estimated 769,623 Rohingya refugees who have fled conflict since 25 August 2017)<br>
+_refugees (country of origin)_: 926,561 (Burma) (2022) (includes an estimated 769,623 Rohingya refugees who have fled conflict since 25 August 2017)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2020)<br>
 _stateless persons_: 889,704 (mid-year 2021)<br>
 

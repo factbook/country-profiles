@@ -672,8 +672,8 @@ _total_: 23.96 million (2022 est.)<br>
 _percent of population_: 25% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 62,950 (2017 est.)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total_: 212,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.18 less than 1 (2021)<br>
 
 ## Transportation
 
@@ -742,7 +742,7 @@ the ENDF's inventory is comprised mostly of Soviet-era equipment from the 1970s;
 note - in November 2021, the Ethiopian Government issued a nationwide state of emergency that enabled officials to order military-age citizens to undergo training and accept military duty in support of the Tigray conflict<br>
 
 **Military deployments**<br>
-prior to the 2020-21 Tigray conflict, 5-10,000 Somalia (4,500 for AMISOM; the remainder under a bilateral agreement with Somalia); 3,300 Sudan (UNISFA); 1,500 South Sudan (UNMISS) (2021)<br>
+prior to the 2020-21 Tigray conflict, 5-10,000 Somalia (4,500 for AMISOM; the remainder under a bilateral agreement with Somalia); 3,200 Sudan (UNISFA); 1,500 South Sudan (UNMISS) (2022)<br>
 note - in August 2021, Sudan asked the UN to remove the Ethiopian troops from the UNISFA mission<br>
 
 **Military - note**<br>

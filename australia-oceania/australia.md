@@ -638,8 +638,8 @@ _total_: 23.6 million (2022 est.)<br>
 _percent of population_: 91% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,937,550 (2020)<br>
-_subscriptions per 100 inhabitants_: 35.05 (2020 est.)<br>
+_total_: 9,099,619 Total includes both NBN and non-NBN subscriptions. (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 35.68 (2021)<br>
 
 ## Transportation
 
@@ -670,7 +670,7 @@ _914 to 1,523 m_: 101<br>
 _under 914 m_: 14 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 637 km condensate/gas, 30054 km gas, 240 km liquid petroleum gas, 3609 km oil, 110 km oil/gas/water, 72 km refined products (2013)<br>

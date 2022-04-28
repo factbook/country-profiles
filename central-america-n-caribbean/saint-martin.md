@@ -19,8 +19,8 @@ Caribbean, located in the Leeward Islands (northern) group; French part of the i
 Central America and the Caribbean<br>
 
 **Area**<br>
-_total_: 54 sq km<br>
-_land_: 54.4 sq km<br>
+_total_: 50 sq km<br>
+_land_: 50 sq km<br>
 _water_: negligible<br>
 
 **Area - comparative**<br>
@@ -215,7 +215,7 @@ see France<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Prefect Vincent BERTON (since 28 March 2022)<br>
 _head of government_: President of Territorial Council Louis MUSSINGTON (since 3 April 2022); First Vice President Alain RICHARDSON (since 3 April 2022)<br>
 _cabinet_: Executive Council; note - there is also an advisory economic, social, and cultural council<br>
-_elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prefect appointed by French president on the advice of French Ministry of Interior; president of Territorial Council elected by its members for a 5-year term; election last held on 26 March 2017<br>
+_elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prefect appointed by French president on the advice of French Ministry of Interior; president of Territorial Council elected by its members for a 5-year term; election last held on 3 April 2022 (next to be held in 2027)<br>
 _election results_: Louis MUSSINGTON (RSM) elected president; Territorial Council vote - 23 out of 23 votes<br>
 
 **Legislative branch**<br>

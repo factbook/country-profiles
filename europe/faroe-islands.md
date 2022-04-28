@@ -520,12 +520,12 @@ _international_: country code - 298; landing points for the SHEFA-2, FARICE-1, a
 .fo<br>
 
 **Internet users**<br>
-_total_: 47,800 (2021 est.)<br>
-_percent of population_: 97.58% (2019 est.)<br>
+_total_: 48,000 (2022 est.)<br>
+_percent of population_: 97.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 18,443 (2020)<br>
-_subscriptions per 100 inhabitants_: 37.74 (2020 est.)<br>
+_total_: 18,443 (2021)<br>
+_subscriptions per 100 inhabitants_: 37.74 (2021)<br>
 
 ## Transportation
 

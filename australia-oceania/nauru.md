@@ -551,7 +551,7 @@ _percent of population_: 57% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 950 (2010)<br>
-_subscriptions per 100 inhabitants_: 9.5 (2018)<br>
+_subscriptions per 100 inhabitants_: 9.5 (2010)<br>
 
 ## Transportation
 

@@ -542,12 +542,12 @@ the Greenland Broadcasting Company provides public radio and TV services through
 .gl<br>
 
 **Internet users**<br>
-_total_: 39,500 (2021 est.)<br>
-_percent of population_: 69.48% (2019 est.)<br>
+_total_: 39,600 (2022 est.)<br>
+_percent of population_: 69.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 14,404 (2019)<br>
-_subscriptions per 100 inhabitants_: 25.42 (2019 est.)<br>
+_total_: 15,649 (2021)<br>
+_subscriptions per 100 inhabitants_: 27.57 (2021)<br>
 
 ## Transportation
 

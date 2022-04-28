@@ -257,7 +257,7 @@ English common law<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor-General of New Zealand Dame Patricia Lee REDDY (since 28 September 2016); the UK and New Zealand are represented by New Zealand High Commissioner Kirk YATES (since May 2018)<br>
+_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor-General of New Zealand Cindy KIRO (since 21 October 2021); the UK and New Zealand are represented by New Zealand High Commissioner Helen TUNNAH (since July 2020)<br>
 _head of government_: Premier Dalton TAGELAGI (since 10 June 2020)<br>
 _cabinet_: Cabinet chosen by the premier<br>
 _elections/appointments_: the monarchy is hereditary; premier indirectly elected by the Legislative Assembly for a 3-year term; election last held on 10 June 2020 (next to be held in 2023)<br>

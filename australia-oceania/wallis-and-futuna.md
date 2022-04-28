@@ -80,7 +80,7 @@ _adjective_: Wallisian, Futunan, or Wallis and Futuna Islander<br>
 Polynesian<br>
 
 **Languages**<br>
-Wallisian (indigenous Polynesian language) 58.9%, Futunian 30.1%, French (official) 10.8%, other 0.2% (2003 census)<br>
+Wallisian (indigenous Polynesian language) 58.9%, Futunian 30.1%, French (official) 10.8%, other 0.2% (2003 est.)<br>
 
 **Religions**<br>
 Roman Catholic 99%, other 1%<br>

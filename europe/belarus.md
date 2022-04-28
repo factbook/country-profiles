@@ -665,7 +665,7 @@ _914 to 1,523 m_: 2<br>
 _under 914 m_: 28 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 5386 km gas, 1589 km oil, 1730 km refined products (2013)<br>
@@ -719,7 +719,7 @@ note - conscripts can be assigned to the military, as well as the Ministry of In
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,609 (Ukraine) (as of 18 April 2022)<br>
+_refugees (country of origin)_: 24,578 (Ukraine) (as of 25 April 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

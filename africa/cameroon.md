@@ -660,8 +660,8 @@ _total_: 10.05 million (2022 est.)<br>
 _percent of population_: 36.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 713,845 (2020)<br>
-_subscriptions per 100 inhabitants_: 2.69 (2020 est.)<br>
+_total_: 722,579 (2021)<br>
+_subscriptions per 100 inhabitants_: 2.72 (2021)<br>
 
 ## Transportation
 
@@ -738,7 +738,7 @@ the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Ru
 18-23 years of age for male and female voluntary military service; no conscription; high school graduation required; service obligation 4 years (2021)<br>
 
 **Military deployments**<br>
-750 Central African Republic (MINUSCA; note - Cameroon also has deployed more than 300 police to MINUSCA) (Oct 2021)<br>
+750 (plus about 350 police) Central African Republic (MINUSCA) (Jan 2022)<br>
 note - Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
 
 **Military - note**<br>

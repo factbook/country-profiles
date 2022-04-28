@@ -616,12 +616,12 @@ The Tbilisi-based Georgian Public Broadcaster (GPB) includes Channel 1, Channel 
 .ge<br>
 
 **Internet users**<br>
-_total_: 2.74 million (2021 est.)<br>
-_percent of population_: 72.53% (2020 est.)<br>
+_total_: 2.88 million (2022 est.)<br>
+_percent of population_: 72.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 972,162 (2021)<br>
-_subscriptions per 100 inhabitants_: 24.37 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 24.37 (2021)<br>
 
 ## Transportation
 
@@ -652,7 +652,7 @@ _914 to 1,523 m_: 2<br>
 _under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
-2 (2013)<br>
+2 (2021)<br>
 
 **Pipelines**<br>
 1596 km gas, 1175 km oil (2013)<br>
@@ -670,7 +670,7 @@ _total_: 25<br>
 _by type_: bulk carrier 2, general cargo 3, other 20 (2021)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: Black Sea - Bat'umi, P'ot'i<br>
+_major seaport(s)_: Black Sea - Batumi, Poti<br>
 
 ## Military and Security
 

@@ -633,8 +633,8 @@ _total subscriptions_: 9,186,370 (2020)<br>
 _subscriptions per 100 inhabitants_: 3.36 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 355,748,606 (2020)<br>
-_subscriptions per 100 inhabitants_: 130.1 (2020 est.)<br>
+_total subscriptions_: 370.1 million (2022)<br>
+_subscriptions per 100 inhabitants_: 133.3 (2022)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Indonesia&rsquo;s telecom sector is based on 3G/LTE mobile infrastructure and inadequate fixed-line capacity; large population and disbursed island geography make upgrades difficult; market is attracting foreign investment, especially in data center and cloud based services; tests of 5G challenged by lack of spectrum; satellite improvements in 2020 (2020)<br>
@@ -649,12 +649,12 @@ mixture of about a dozen national TV networks -&nbsp;1 public broadcaster, the r
 .id<br>
 
 **Internet users**<br>
-_total_: 202.6 million (2021 est.)<br>
-_percent of population_: 53.73% (2020 est.)<br>
+_total_: 204.7 million (2022)<br>
+_percent of population_: 73.7% (2022)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 10,713,107 (2020)<br>
-_subscriptions per 100 inhabitants_: 3.92 (2020 est.)<br>
+_total_: 11,722,218 (2021)<br>
+_subscriptions per 100 inhabitants_: 4.29 (2021 est.)<br>
 
 ## Transportation
 
@@ -685,7 +685,7 @@ _914 to 1,523 m_: 23<br>
 _under 914 m_: 460 (2021)<br>
 
 **Heliports**<br>
-76 (2013)<br>
+76 (2021)<br>
 
 **Pipelines**<br>
 1064 km condensate, 150 km condensate/gas, 11702 km gas, 119 km liquid petroleum gas, 7767 km oil, 77 km oil/gas/water, 728 km refined products, 53 km unknown, 44 km water (2013)<br>
@@ -736,7 +736,7 @@ the Indonesian military inventory comes from a wide variety of sources; since 20
 18-45 years of age for voluntary military service, with selective conscription authorized (males, age 18), but not utilized; 2-year service obligation, with reserve obligation to age 45 (officers) (2021)<br>
 
 **Military deployments**<br>
-230 Central African Republic (MINUSCA); 1,030 Democratic Republic of the Congo (MONUSCO); 1,230 Lebanon (UNIFIL) (Oct 2021)<br>
+225 Central African Republic (MINUSCA); 1,030 Democratic Republic of the Congo (MONUSCO); 1,250 Lebanon (UNIFIL) (Jan 2022)<br>
 
 **Military - note**<br>
 as of 2022, Indonesian military and police forces were engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969; in addition, the Indonesian military has been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local Islamic State (ISIS)-affiliated terrorist group <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, held military exercises in surrounding waters, and increased security cooperation<br>

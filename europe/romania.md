@@ -631,8 +631,8 @@ _total_: 15.49 million (2021)<br>
 _percent of population_: 78.46% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5.685 million (2020)<br>
-_subscriptions per 100 inhabitants_: 29.55 (2020 est.)<br>
+_total_: 5,684,782 (2021)<br>
+_subscriptions per 100 inhabitants_: 29.55 (2021)<br>
 
 ## Transportation
 
@@ -661,7 +661,7 @@ _914 to 1,523 m_: 5<br>
 _under 914 m_: 14 (2021)<br>
 
 **Heliports**<br>
-2 (2013)<br>
+2 (2021)<br>
 
 **Pipelines**<br>
 3726 km gas, 2451 km oil (2013)<br>
@@ -710,7 +710,7 @@ the inventory of the Romanian Armed Forces is comprised mostly of Soviet-era and
 conscription ended 2006; 18 years of age for male and female voluntary service; all military inductees (including women) contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36 (2021)<br>
 
 **Military deployments**<br>
-up to 120 Poland (NATO) (2021)<br>
+up to 120 Poland (NATO) (2022)<br>
 
 **Military - note**<br>
 Romania officially became a member of NATO in 2004<br><br>Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 <br> <p>Romania hosts a NATO multinational divisional (Multinational Division Southeast; became operational in 2017) and a brigade-sized headquarters as part of NATO's tailored forward presence in the southeastern part of the Alliance</p><br>
@@ -727,9 +727,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 750,693 (Ukraine) (as of 18 April 2022)<br>
+_refugees (country of origin)_: 782,598 (Ukraine) (as of 25 April 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 9,778 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
+<strong>note:</strong> 9,789 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

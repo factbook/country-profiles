@@ -539,12 +539,12 @@ French public overseas broadcaster Reseau Outre-Mer provides 2 TV channels and 1
 .pf<br>
 
 **Internet users**<br>
-_total_: 204,800 (2021 est.)<br>
-_percent of population_: 72.7% (2019 est.)<br>
+_total_: 206,000 (2022 est.)<br>
+_percent of population_: 72.7% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 59,790 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 20.89 (2019 est.)<br>
+_total_: 64,000 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 22.78 (2021)<br>
 
 ## Transportation
 
@@ -571,7 +571,7 @@ _914 to 1,523 m_: 4<br>
 _under 914 m_: 5 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Roadways**<br>
 _total_: 2,590 km (1999)<br>

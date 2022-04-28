@@ -646,7 +646,7 @@ _total_: 7<br>
 _914 to 1,523 m_: 7 (2021)<br>
 
 **Heliports**<br>
-2 (2013)<br>
+2 (2021)<br>
 
 **Roadways**<br>
 _total_: 11,700 km (2015)<br>

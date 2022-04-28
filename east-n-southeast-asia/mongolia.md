@@ -633,8 +633,8 @@ _total_: 2.01 million (2021 est.)<br>
 _percent of population_: 62.5% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 307,166 (2020)<br>
-_subscriptions per 100 inhabitants_: 9.37 (2020 est.)<br>
+_total_: 307,166 Excl. terrestrial fixed wireless and satellite broadband subscriptions. (2021)<br>
+_subscriptions per 100 inhabitants_: 9.37 (2021)<br>
 
 ## Transportation
 
@@ -664,7 +664,7 @@ _1,524 to 2,437 m_: 24<br>
 _under 914 m_: 1 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Railways**<br>
 _total_: 1,815 km (2017)<br>
@@ -705,7 +705,7 @@ the MAF are armed with Soviet-era equipment supplemented by deliveries of second
 18-27 years of age for compulsory and voluntary military service; 1-year conscript service obligation in army or air forces or police for males only (can be exchanged for a 24‐month stint in the civil service or a tax voucher); after conscription, soldiers can contract into military service for 2 or 4 years; citizens can also voluntarily join the armed forces (2021)<br>
 
 **Military deployments**<br>
-870 South Sudan (UNMISS) (Oct 2021)<br>
+860 South Sudan (UNMISS) (Feb 2022)<br>
 note(s) - from 2003 to July 2021, some 3,300 Mongolian troops served in Afghanistan, including about 1,300 under the NATO-led mission Resolute Support Mission (2015 to 2021); since 2002, Mongolia has deployed more than 19,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
 
 **Military - note**<br>

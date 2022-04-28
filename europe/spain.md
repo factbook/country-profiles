@@ -639,8 +639,8 @@ _total_: 42.54 million (2021 est.)<br>
 _percent of population_: 93.21% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 15,850,358 (2020)<br>
-_subscriptions per 100 inhabitants_: 33.9 (2020 est.)<br>
+_total_: 16,188,502 (2021)<br>
+_subscriptions per 100 inhabitants_: 34.62 (2021)<br>
 
 ## Transportation
 
@@ -670,7 +670,7 @@ _914 to 1,523 m_: 14<br>
 _under 914 m_: 19 (2021)<br>
 
 **Heliports**<br>
-13 (2020)<br>
+13 (2021)<br>
 
 **Pipelines**<br>
 10481 km gas, 358 km oil, 4378 km refined products (2017)<br>
@@ -723,7 +723,8 @@ the inventory of the Spanish military is comprised of domestically-produced and 
 note - as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 200 Iraq (training mission, counter-ISIS coalition); 350 Latvia (NATO); 625 Lebanon (UNIFIL); approximately 400 Mali (EUTM); 150 Turkey (NATO) (2021)<br>
+approximately 200 Iraq (training mission, counter-ISIS coalition); 350 Latvia (NATO); 650 Lebanon (UNIFIL); approximately 400 Mali (EUTM); 150 Turkey (NATO) (2021-2022)<br><br>note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Spain joined NATO in 1982, but refrained from participating in the integrated military structure until 1996<br><br>the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world<br>

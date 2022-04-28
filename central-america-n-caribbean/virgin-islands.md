@@ -86,7 +86,7 @@ Black 76%, White 15.6%, Asian 1.4%, other 4.9%, mixed 2.1% (2010 est.)<br>
 English 71.6%, Spanish or Spanish Creole 17.2%, French or French Creole 8.6%, other 2.5% (2010 est.)<br>
 
 **Religions**<br>
-Protestant 59% (Baptist 42%, Episcopalian 17%), Roman Catholic 34%, other 7%<br>
+Protestant 65.5%, Roman Catholic 27.1%, other Christians 2.2%, other 1.5%, none 3.7% (2010 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 19.71% (male 10,671/female 10,192)<br>

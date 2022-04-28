@@ -625,8 +625,8 @@ _total_: 3.3 million (2022 est.)<br>
 _percent of population_: 50.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 525,088 (2019)<br>
-_subscriptions per 100 inhabitants_: 8.14 (2019 est.)<br>
+_total_: 586,000 (2021)<br>
+_subscriptions per 100 inhabitants_: 9.03 (2021 est.)<br>
 
 ## Transportation
 
@@ -656,7 +656,7 @@ _914 to 1,523 m_: 11<br>
 _under 914 m_: 51 (2021)<br>
 
 **Heliports**<br>
-2 (2013)<br>
+2 (2021)<br>
 
 **Railways**<br>
 _total_: 13 km (2014)<br>
@@ -703,7 +703,7 @@ the FAES is dependent on a mix of mostly older imported platforms, largely from 
 note - as of 2016, women made up about 6% of the active duty military<br>
 
 **Military deployments**<br>
-175 Mali (MINUSMA) (Oct 2021)<br>
+175 Mali (MINUSMA) (Jan 2022)<br>
 
 **Military - note**<br>
 <p>the National Civilian Police (Ministry of Justice and Public Security) is responsible for maintaining public security, while the Ministry of Defense is responsible for maintaining national security; the constitution separates public security and military functions, but allows the president to use the armed forces in exceptional circumstances to maintain internal peace and public security; Salvadoran presidents have deployed military troops for internal security duties for years, and President BUKELE has continued the tradition; in November 2019, he signed a decree authorizing military involvement in police duties to combat gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; as of 2021, about half of the Army was reportedly deployed in support of the National Police</p><br>

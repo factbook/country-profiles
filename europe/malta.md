@@ -610,8 +610,8 @@ _total_: 380,300 (2021 est.)<br>
 _percent of population_: 86.86% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 213,419 (2020)<br>
-_subscriptions per 100 inhabitants_: 48 (2020 est.)<br>
+_total_: 213,419 (2021)<br>
+_subscriptions per 100 inhabitants_: 48.33 (2021)<br>
 
 ## Transportation
 
@@ -632,7 +632,7 @@ _total_: 1<br>
 _over 3,047 m_: 1 (2021)<br>
 
 **Heliports**<br>
-2 (2013)<br>
+2 (2021)<br>
 
 **Roadways**<br>
 _total_: 2,254 km (2001)<br>

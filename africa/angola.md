@@ -84,7 +84,6 @@ the province of Cabinda is an exclave, separated from the rest of the country by
 
 **Population**<br>
 34,795,287 (2022 est.)<br>
-<strong>note:</strong> Angola's national statistical agency projected the country's 2017 population to be 28.4 million<br>
 
 **Nationality**<br>
 _noun_: Angolan(s)<br>
@@ -648,8 +647,8 @@ _total_: 12.41 million (2022 est.)<br>
 _percent of population_: 36% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 230,610 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_total_: 230,610 This year we included fixed wireless technologies. (2021)<br>
+_subscriptions per 100 inhabitants_: 0.7 less than 1 (2021 est.)<br>
 
 ## Transportation
 
@@ -681,7 +680,7 @@ _914 to 1,523 m_: 27<br>
 _under 914 m_: 22 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 352 km gas, 85 km liquid petroleum gas, 1065 km oil, 5 km oil/gas/water (2013)<br>

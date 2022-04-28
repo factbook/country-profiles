@@ -676,8 +676,8 @@ _total_: 27.62 million (2021 est.)<br>
 _percent of population_: 84.12% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,102,434 (2020)<br>
-_subscriptions per 100 inhabitants_: 5.7 (2020 est.)<br>
+_total_: 2,102,434 (2021)<br>
+_subscriptions per 100 inhabitants_: 5.7 (2021)<br>
 
 **Communications - note**<br>
 the University of al-Quarawiyyin Library in Fez is recognized as the oldest existing, continually operating library in the world, dating back to A.D. 859; among its holdings are approximately 4,000 ancient Islamic manuscripts<br>
@@ -712,7 +712,7 @@ _914 to 1,523 m_: 12<br>
 _under 914 m_: 6 (2021)<br>
 
 **Heliports**<br>
-1 (2013)<br>
+1 (2021)<br>
 
 **Pipelines**<br>
 944 km gas, 270 km oil, 175 km refined products (2013)<br>
@@ -757,10 +757,10 @@ the Moroccan military's inventory is comprised of mostly older French and US equ
 19-25 years of age for 12-month compulsory military service (reintroduced in 2019); both sexes are obligated to military service (2021)<br>
 
 **Military deployments**<br>
-870 Central African Republic (MINUSCA); 920 Democratic Republic of the Congo (MONUSCO) (Sep 2021)<br>
+770 Central African Republic (MINUSCA); 920 Democratic Republic of the Congo (MONUSCO) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>the UN Mission for the Referendum in Western Sahara (MINURSO) was established by Security Council resolution 690 in April 1991 in accordance with settlement proposals accepted in August 1988 by Morocco and the Polisario Front (aka Frente Popular para la Liberación de Saguia el-Hamra y de Río de Oro or Frente Polisario); MINURSO was unable to carry out all the original settlement proposals, but as of 2021 continued to monitor the cease-fire and reduce the threat of mines and unexploded ordnance, and has provided logistic support to the Office of the UN High Commissioner for Refugees (UNHCR)-led confidence building measures with personnel and air and ground assets; as of July 2021, MINURSO had about 200 military personnel assigned<br><br>Morocco has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+<p>the UN Mission for the Referendum in Western Sahara (MINURSO) was established by Security Council resolution 690 in April 1991 in accordance with settlement proposals accepted in August 1988 by Morocco and the Polisario Front (aka Frente Popular para la Liberación de Saguia el-Hamra y de Río de Oro or Frente Polisario); MINURSO was unable to carry out all the original settlement proposals, but as of 2021 continued to monitor the cease-fire and reduce the threat of mines and unexploded ordnance, and has provided logistic support to the Office of the UN High Commissioner for Refugees (UNHCR)-led confidence building measures with personnel and air and ground assets<br><br>Morocco has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 

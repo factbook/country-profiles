@@ -586,8 +586,8 @@ _total subscriptions_: 107,032 (2020)<br>
 _subscriptions per 100 inhabitants_: 31.37 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 421,384 (2020)<br>
-_subscriptions per 100 inhabitants_: 123.5 (2020 est.)<br>
+_total subscriptions_: 478,800 (2022)<br>
+_subscriptions per 100 inhabitants_: 139 (2022)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: small but most progressive telecom market in Europe; telecom infrastructure is modern and fully digitized, with satellite-earth stations, fiber-optic cables, and an extensive broadband network; near universal fixed broadband service of at least 100Mb/s by the end of 2021; operator aims for national 5G coverage by end of 2022; good competition among mobile and broadband markets; investment by operators and government in support of NGN, particularly in rural areas; submarine cable to Ireland; importer of broadcasting equipment from Vietnam and China (2020)<br>
@@ -602,12 +602,12 @@ state-owned public TV broadcaster (RUV) operates 21 TV channels nationally (RUV 
 .is<br>
 
 **Internet users**<br>
-_total_: 338,900 (2021 est.)<br>
-_percent of population_: 98.26% (2019 est.)<br>
+_total_: 340,900 (2022)<br>
+_percent of population_: 99% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 141,816 (2020)<br>
-_subscriptions per 100 inhabitants_: 41.56 (2020 est.)<br>
+_total_: 141,816 (2021)<br>
+_subscriptions per 100 inhabitants_: 41.56 (2021 est.)<br>
 
 ## Transportation
 
