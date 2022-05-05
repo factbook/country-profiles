@@ -630,10 +630,6 @@ a mixture of publicly operated and privately owned TV and radio stations; 70 nat
 **Internet country code**<br>
 .de<br>
 
-**Internet users**<br>
-_total_: 78.2 million (2022 est.)<br>
-_percent of population_: 93% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 36,215,303 (2021)<br>
 _subscriptions per 100 inhabitants_: 43.22 (2021)<br>

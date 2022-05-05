@@ -628,8 +628,8 @@ _total subscriptions_: 2,098,802 (2020)<br>
 _subscriptions per 100 inhabitants_: 3.54 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 95,959,439 (2020)<br>
-_subscriptions per 100 inhabitants_: 161.8 (2020 est.)<br>
+_total subscriptions_: 96,972,500 (2019)<br>
+_subscriptions per 100 inhabitants_: 165.6 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>one of the most advanced infrastructures on the continent; investment by operators and municipal providers to improve network capability focused on fiber and LTE to extend connectivity; increase in Internet use for e-commerce, e-government, and e-health; government funds to improve broadband to more municipalities; high mobile penetration rate and FttP to 90% of the premises; regulatory intervention has improved telecommunications market; 5G in Capetown with additional auction and tests; importer of broadcasting equipment and computers from China</p> (2020)<br>
@@ -642,10 +642,6 @@ the South African Broadcasting Corporation (SABC) operates 4 TV stations, 3 are 
 
 **Internet country code**<br>
 .za<br>
-
-**Internet users**<br>
-_total_: 38.19 million (2021 est.)<br>
-_percent of population_: 56.17% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,303,057 (2021)<br>
@@ -744,7 +740,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration; the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,054 (Somalia), 15,629 (Ethiopia) (mid-year 2021); 57,595 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 23,054 (Somalia), 15,629 (Ethiopia) (mid-year 2021); 56,735 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 5,000 (2020)<br>
 
 **Illicit drugs**<br>

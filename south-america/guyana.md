@@ -600,8 +600,8 @@ _total subscriptions_: 135,795 (2018)<br>
 _subscriptions per 100 inhabitants_: 17.52 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 671,200 (2022)<br>
-_subscriptions per 100 inhabitants_: 84.7 (2022)<br>
+_total subscriptions_: 643,210 (2020)<br>
+_subscriptions per 100 inhabitants_: 82.97 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: revenues gained from newly tapped off-shore oil reserves may provide a boost of Guyana&rsquo;s infrastructure, including upgrade of aging telecom systems to LTE and fiber broadband; competition in mobile services but monopoly in fixed-line; submarine cable improved broadband availability but service is still slow and expensive; second cable will improve delivery and pricing; government promotes ICT for e-government, e-health, and tele-education, and connection to remote locations (2020)<br>
@@ -614,10 +614,6 @@ government-dominated broadcast media; the National Communications Network (NCN) 
 
 **Internet country code**<br>
 .gy<br>
-
-**Internet users**<br>
-_total_: 337,900 (2022)<br>
-_percent of population_: 42.6% (2022)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 95,000 (2021 est.)<br>

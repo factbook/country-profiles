@@ -207,7 +207,7 @@ _vectorborne diseases_: malaria and&nbsp;dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sierra Leone is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sierra Leone is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.7% (2016)<br>
@@ -276,7 +276,7 @@ _vectorborne diseases_: malaria and&nbsp;dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sierra Leone is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sierra Leone is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to high food prices - about 1.76 million people are estimated to be severely food insecure during the June&minus;August 2021 period on account of high food prices and low purchasing power, resulting in acute constraints on households&rsquo; access to food; the main drivers of the food insecurity are the effects of adverse weather events (flooding), Fall Armyworm attacks on maize in some localized areas, high inflation rate, weakening local currency and the effects of the COVID‑19 pandemic restrictions (2021)<br>
@@ -606,8 +606,8 @@ _total subscriptions_: 189 (2020)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,884,201 (2020)<br>
-_subscriptions per 100 inhabitants_: 86.3 (2020 est.)<br>
+_total subscriptions_: 6,729,800 (2019)<br>
+_subscriptions per 100 inhabitants_: 86.13 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom sector is recovering from the decades of war, yet still constrained by inadequate power and pervasive corruption; recently installed terrestrial fiber backbone infrastructure; telephone service improving with the rapid growth of mobile sector; operators increased investment to provide national coverage; LTE available in some parts of the country; construction of 600 km ECOWAS Wide Area Network completed; fiber link to Guinea completed; importer of broadcasting equipment from China (2020)<br>
@@ -620,10 +620,6 @@ _international_: country code - 232; landing point for the ACE submarine cable l
 
 **Internet country code**<br>
 .sl<br>
-
-**Internet users**<br>
-_total_: 2.39 million (2021 est.)<br>
-_percent of population_: 9% (2019 est.)<br>
 
 ## Transportation
 

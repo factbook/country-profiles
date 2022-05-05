@@ -514,7 +514,7 @@ _subscriptions per 100 inhabitants_: 17.59 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 8,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 70.36 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 70.36 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: internal communications needs met; small global scale of over 11,000 people on 9 inhabited islands; mobile subscriber penetration about 40% and broadband&nbsp;about 10% penetration; govt. owned and sole provider of telecommunications services;&nbsp;2G widespread; the launch in 2019 of the Kacific-1 satellite will improve the telecommunication sector&nbsp;for the Asia Pacific region (2020)<br>
@@ -527,10 +527,6 @@ no TV stations; many households use satellite dishes to watch foreign TV station
 
 **Internet country code**<br>
 .tv<br>
-
-**Internet users**<br>
-_total_: 5,849 (2021 est.)<br>
-_percent of population_: 49.32% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 450 (2017 est.)<br>

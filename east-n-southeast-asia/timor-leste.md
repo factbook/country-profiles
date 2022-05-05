@@ -593,8 +593,8 @@ _total subscriptions_: 2,012 (2020)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,377,915 (2020)<br>
-_subscriptions per 100 inhabitants_: 104.5 (2020 est.)<br>
+_total subscriptions_: 1,425,260 (2019)<br>
+_subscriptions per 100 inhabitants_: 110.22 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: following years of civil unrest, the government and operators are working toward rebuilding key infrastructure, including telecommunications networks; service in urban and some rural areas expanding with competition; most of the population has access to 4G LTE service; increase in mobile-broadband penetration; government aims to boost e-government services with new national terrestrial fiber-optic network; launch of satellite and approval for submarine cable link to Australia will boost sector growth; importer of broadcasting equipment from Indonesia and China (2020)<br>
@@ -607,10 +607,6 @@ _international_: country code - 670; &nbsp;international service is available; p
 
 **Internet country code**<br>
 .tl<br>
-
-**Internet users**<br>
-_total_: 599,700 (2021 est.)<br>
-_percent of population_: 27.49% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 75 (2021)<br>

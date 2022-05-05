@@ -212,7 +212,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 7.7% (2016)<br>
@@ -286,7 +286,7 @@ _vectorborne diseases_: malaria, dengue fever, and yellow fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to localized shortfalls of cereal production - despite overall favorable food security conditions, the most vulnerable households still need external food assistance; the aggregate number of severely food insecure people was estimated at 267,000 during the lean season between June and August 2020;&nbsp;&nbsp;it is very likely that the number of food insecure population increased with the impact of COVID‑19 (2021)<br>
@@ -633,8 +633,8 @@ _total subscriptions_: 0 (2018)<br>
 _subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14.01 million (2022)<br>
-_subscriptions per 100 inhabitants_: 102.4 (2022 est.)<br>
+_total subscriptions_: 12.873 million (2020)<br>
+_subscriptions per 100 inhabitants_: 100.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Guinea&rsquo;s mobile subscribership growing through investment of South African telecom operators and Chinese Huawei management; m-transactions supported commerce; broadband still limited and expensive though submarine cable and IXP improved reliability of infrastructure; 4G Wi-Fi in the capital; National Backbone Network will connect regional administrative centers; ECOWAS countries to launch free roaming; importer of broadcasting equipment from China (2020)<br>
@@ -647,10 +647,6 @@ _international_: country code - 224; ACE submarine cable connecting Guinea with 
 
 **Internet country code**<br>
 .gn<br>
-
-**Internet users**<br>
-_total_: 3.15 million (2022 est.)<br>
-_percent of population_: 23% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2021 est.)<br>

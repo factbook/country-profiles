@@ -205,7 +205,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever, malaria, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.3% (2016)<br>
@@ -256,7 +256,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever, malaria, and Rift Valley fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _exceptional shortfall in aggregate food production/supplies_: due to poor seasonal rains - about 2.8 million people are estimated to be severely food insecure in the April&minus;September 2021 period, mainly as a result of the cumulative impact of poor October&minus;December 2020 &ldquo;Deyr&rdquo; rains and April&minus;June &ldquo;Gu&rdquo; rains, which severely affected crop and livestock production; below‑average cereal output gathered in 2020; production of 2021 main season cereals forecast at 20‑40 percent below average due to unfavorable seasonal rains; severe pasture and water shortages in pastoral areas are affecting livestock conditions (2021)<br>
@@ -573,8 +573,8 @@ _total subscriptions_: 74,800 (2018)<br>
 _subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,653,040 (2018)<br>
-_subscriptions per 100 inhabitants_: 50.99 (2019 est.)<br>
+_total subscriptions_: 7.119 million (2018)<br>
+_subscriptions per 100 inhabitants_: 48.8 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the public telecom system was almost completely destroyed during years of civil war; private companies offer limited local fixed-line and wireless service in most major cities; early 2020 landing of DARE 1 submarine cables in Mogadishu and Bossaso eased dependence on expensive satellite dependency for Internet access; in 2019, Al Shabaab Islamic militant group forced closure of Internet services in some parts of the country; new telecom regulatory sector in place (2020)<br>
@@ -587,10 +587,6 @@ _international_: country code - 252; landing points for the G2A, DARE1, PEACE, a
 
 **Internet country code**<br>
 .so<br>
-
-**Internet users**<br>
-_total_: 1.95 million (2021 est.)<br>
-_percent of population_: 2% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 119,000 (2021)<br>

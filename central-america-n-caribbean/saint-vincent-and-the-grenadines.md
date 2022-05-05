@@ -542,8 +542,8 @@ _total subscriptions_: 12,483 (2020)<br>
 _subscriptions per 100 inhabitants_: 11.25 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 97,059 (2020)<br>
-_subscriptions per 100 inhabitants_: 87.49 (2020 est.)<br>
+_total subscriptions_: 102,700 (2019)<br>
+_subscriptions per 100 inhabitants_: 92.87 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate island-wide, fully automatic telephone system; broadband access; expanded FttP (Fiber to the Home) markets; LTE launches; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
@@ -556,10 +556,6 @@ St. Vincent and the Grenadines Broadcasting Corporation operates 1 TV station an
 
 **Internet country code**<br>
 .vc<br>
-
-**Internet users**<br>
-_total_: 67,000 (2020 est.)<br>
-_percent of population_: 22% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 24,733 (2020)<br>

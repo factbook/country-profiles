@@ -618,10 +618,6 @@ _international_: country code - 420; satellite earth stations - 6 (2 Intersputni
 **Internet country code**<br>
 .cz<br>
 
-**Internet users**<br>
-_total_: 9.66 million (2022 est.)<br>
-_percent of population_: 90% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 3,845,426 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 35.91 (2021)<br>

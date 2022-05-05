@@ -601,8 +601,8 @@ _total subscriptions_: 1,533,273 (2020)<br>
 _subscriptions per 100 inhabitants_: 12.97 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14,852,857 (2020)<br>
-_subscriptions per 100 inhabitants_: 125.7 (2020 est.)<br>
+_total subscriptions_: 14.771 million (2019)<br>
+_subscriptions per 100 inhabitants_: 126.31 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Tunisia has one of the most sophisticated telecom infrastructures in North Africa; penetration rates for mobile and Internet services are among the highest in the region; government program of regulation and infrastructure projects aims to improve Internet connectivity to underserved areas; operators built extensive LTE infrastructure in 2019, and are developing 5G networks and services; Chinese company Huawei invested in LTE network; operator planning nano-satellite launches in 2023; Internet censorship abolished, though concerns of government surveillance remain; legislation passed in 2017 supporting e-commerce and active e-government; importer of integrated circuits and broadcasting equipment from China (2020)<br>
@@ -615,10 +615,6 @@ _international_: country code - 216; landing points for the SEA-ME-WE-4, Didon, 
 
 **Internet country code**<br>
 .tn<br>
-
-**Internet users**<br>
-_total_: 7.92 million (2021 est.)<br>
-_percent of population_: 66.7% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,334,059 (2021)<br>

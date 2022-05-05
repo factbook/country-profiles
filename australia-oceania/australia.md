@@ -633,10 +633,6 @@ the Australian Broadcasting Corporation (ABC) runs multiple national and local r
 **Internet country code**<br>
 .au<br>
 
-**Internet users**<br>
-_total_: 23.6 million (2022 est.)<br>
-_percent of population_: 91% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 9,099,619 Total includes both NBN and non-NBN subscriptions. (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 35.68 (2021)<br>

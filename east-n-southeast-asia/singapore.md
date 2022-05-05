@@ -605,8 +605,8 @@ _total subscriptions_: 1,891,600 (2020)<br>
 _subscriptions per 100 inhabitants_: 32.33 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,427,500 (2020)<br>
-_subscriptions per 100 inhabitants_: 144.1 (2020 est.)<br>
+_total subscriptions_: 9,034,300 (2019)<br>
+_subscriptions per 100 inhabitants_: 155.65 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; the government's telecommunication regulator, Infocomm Media Development Authority (IMDA), issued awards in mid-2020 to telecom operators with the goal of having at least 50% of the city-state covered with a standalone 5G network by the end of 2022; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers and controls Internet content; well served by submarine cable and satellite connections; major importer of integrated circuits and broadcasting equipment from China and exporter of same to SE Asian neighboring countries (2021)<br>
@@ -619,10 +619,6 @@ state controls broadcast media;&nbsp;6 domestic TV stations operated by MediaCor
 
 **Internet country code**<br>
 .sg<br>
-
-**Internet users**<br>
-_total_: 5.29 million (2021 est.)<br>
-_percent of population_: 92% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,509,700 (2021)<br>

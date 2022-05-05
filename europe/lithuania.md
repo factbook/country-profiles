@@ -624,10 +624,6 @@ public broadcaster operates 3 channels with the third channel - a satellite chan
 **Internet country code**<br>
 .lt<br>
 
-**Internet users**<br>
-_total_: 2.22 million (2021 est.)<br>
-_percent of population_: 83.06% (2020 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 796,814 (2021)<br>
 _subscriptions per 100 inhabitants_: 29.27 (2021)<br>

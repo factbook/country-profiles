@@ -404,7 +404,7 @@ _total subscriptions_: 3,132 (2017)<br>
 _subscriptions per 100 inhabitants_: 25.38 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 0 (2019)<br>
+_total subscriptions_: 0 (2018)<br>
 _subscriptions per 100 inhabitants_: 0 (2019)<br>
 
 **Telecommunication systems**<br>
@@ -418,10 +418,6 @@ the publicly owned French Overseas Network (RFO), which broadcasts to France's o
 
 **Internet country code**<br>
 .wf<br>
-
-**Internet users**<br>
-_total_: 5,500 (2020 est.)<br>
-_percent of population_: 48% (2020 est.)<br>
 
 ## Transportation
 

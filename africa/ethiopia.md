@@ -82,7 +82,7 @@ highest density is found in the highlands of the north and middle areas of the c
 <p>geologically active Great Rift Valley susceptible to earthquakes, volcanic eruptions; frequent droughts</p><p><strong>volcanism:</strong> volcanic activity in the Great Rift Valley; Erta Ale (613 m), which has caused frequent lava flows in recent years, is the country's most active volcano; Dabbahu became active in 2005, forcing evacuations; other historically active volcanoes include Alayta, Dalaffilla, Dallol, Dama Ali, Fentale, Kone, Manda Hararo, and Manda-Inakir</p><br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> landlocked - entire coastline along the Red Sea was lost with the de jure independence of Eritrea on 24 May 1993; Ethiopia is, therefore, the most populous landlocked country in the world; the Blue Nile, the chief headstream of the Nile by water volume, rises in T'ana Hayk (Lake Tana) in northwest Ethiopia<br><br><strong>note 2:</strong> three major crops are believed to have originated in Ethiopia: coffee, grain sorghum, and castor bean<br>
+<strong>note 1:</strong> landlocked - entire coastline along the Red Sea was lost with the de jure independence of Eritrea on 24 May 1993; Ethiopia is, therefore, the most populous landlocked country in the world; the Blue Nile, the chief headstream of the Nile by water volume, rises in T'ana Hayk (Lake Tana) in northwest Ethiopia<br><br><strong>note 2:</strong> three major crops may have originated in Ethiopia: coffee (almost certainly), grain sorghum, and castor bean<br>
 
 ## People and Society
 
@@ -220,7 +220,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ethiopia is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ethiopia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 4.5% (2016)<br>
@@ -294,7 +294,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ethiopia is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ethiopia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to civil conflict - more than 16 million people were estimated to be severely food insecure in the May&minus;June 2021 period; particular concerns exist for the Tigray Region and neighboring zones of Amhara and Afar regions, where 5.5 million people (about 60 percent of the population) are estimated to face severe food insecurity due to the conflict which started in November 2020 (2021)<br>
@@ -373,7 +373,7 @@ _residency requirement for naturalization_: 4 years<br>
 
 **Executive branch**<br>
 _chief of state_: President SAHLE-WORK Zewde (since 25 October 2018) (2018)<br>
-_head of government_: Prime Minister ABIY Ahmed Ali (since April 2018, began a new five year term on 4 October 2021); Deputy Prime Minister DEMEKE Mekonnen Hassen (since 29 November 2012) (2021)<br>
+_head of government_: Prime Minister ABIY Ahmed Ali (since April 2018, began a new five-year term on 4 October 2021); Deputy Prime Minister DEMEKE Mekonnen Hassen (since 29 November 2012) (2021)<br>
 _cabinet_: Council of Ministers selected by the prime minister and approved by the House of People's Representatives<br>
 _elections/appointments_: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); election held on 21 June 2021 and 30 September 2021 (the scheduled 29 August 2020 election was postponed by Prime Minister ABIY due to the COVID-19 pandemic); prime minister designated by the majority party following legislative elections<br>
 _election results_: SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); ABIY Ahmed confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br>
@@ -666,10 +666,6 @@ _international_: country code - 251; open-wire to Sudan and Djibouti; microwave 
 
 **Internet country code**<br>
 .et<br>
-
-**Internet users**<br>
-_total_: 23.96 million (2022 est.)<br>
-_percent of population_: 25% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 212,000 (2021 est.)<br>

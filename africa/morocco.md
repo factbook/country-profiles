@@ -217,7 +217,7 @@ _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1 est.><br><strong>note:</strong> does not include data from the former Western Sahara</.1><br>
+&lt;.1% (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
@@ -670,10 +670,6 @@ _international_: country code - 212; landing point for the Atlas Offshore, Estep
 
 **Internet country code**<br>
 .ma<br>
-
-**Internet users**<br>
-_total_: 27.62 million (2021 est.)<br>
-_percent of population_: 84.12% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,102,434 (2021)<br>

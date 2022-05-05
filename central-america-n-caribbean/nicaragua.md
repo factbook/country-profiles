@@ -608,8 +608,8 @@ _total subscriptions_: 210,981 (2020)<br>
 _subscriptions per 100 inhabitants_: 3.18 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,976,479 (2020)<br>
-_subscriptions per 100 inhabitants_: 90.22 (2020 est.)<br>
+_total subscriptions_: 5,788,430 (2019)<br>
+_subscriptions per 100 inhabitants_: 88.43 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: with authoritarian government, weak public institutions, and impoverished citizenry, Nicaragua&rsquo;s telecom system is dependent on upgrades through foreign investment, primarily from Russia and China; World Bank funded national fiber broadband network and links to Caribbean submarine cables; Chinese-financed projects, including airport, oil pipeline, and roads in process; nearly all installed telecom capacity now uses financed digital technology; lowest fixed-line tele-density and mobile penetration in Central America; Internet cafes provide access to Internet and email services; rural areas lack access to most basic telecom infrastructure; LTE service in dozens of towns and cities; importer of broadcasting equipment and computers from China (2020)<br>
@@ -622,10 +622,6 @@ multiple terrestrial TV stations, supplemented by cable TV in most urban areas; 
 
 **Internet country code**<br>
 .ni<br>
-
-**Internet users**<br>
-_total_: 2.78 million (2021 est.)<br>
-_percent of population_: 27.86% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 290,351 (2021)<br>

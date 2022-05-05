@@ -568,7 +568,7 @@ _subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 54,661 (2020)<br>
-_subscriptions per 100 inhabitants_: 45.76 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 45.76 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: generally good national and international service; wireline service available on Tarawa and Kiritimati (Christmas Island); connections to outer islands by HF/VHF radiotelephone; recently formed (mobile network operator) MNO is implementing the first phase of improvements with 3G and 4G upgrades on some islands; islands are connected to each other and the rest of the world via satellite; launch of Kacific-1 in December 2019 will improve telecommunication for Kiribati (2020)<br>
@@ -581,10 +581,6 @@ multi-channel TV packages provide access to Australian and US stations; 1 govern
 
 **Internet country code**<br>
 .ki<br>
-
-**Internet users**<br>
-_total_: 17,600 (2021 est.)<br>
-_percent of population_: 14.58% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 185 (2021)<br>

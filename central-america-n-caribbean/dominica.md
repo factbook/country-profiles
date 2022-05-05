@@ -546,10 +546,6 @@ no terrestrial TV service available; subscription cable TV provider offers some 
 **Internet country code**<br>
 .dm<br>
 
-**Internet users**<br>
-_total_: 50,300 (2022 est.)<br>
-_percent of population_: 69.6% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 11,514 (2021)<br>
 _subscriptions per 100 inhabitants_: 22.23 (2021)<br>

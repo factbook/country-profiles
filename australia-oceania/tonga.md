@@ -584,7 +584,7 @@ _subscriptions per 100 inhabitants_: 6.35 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 62,104 (2019)<br>
-_subscriptions per 100 inhabitants_: 59.43 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 59.43 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high speed Internet provided by 3 MNOs, has subsequently allowed for better health care services, faster connections for education and growing e-commerce services; in 2018 new 4G LTE network; fixed-line teledensity has dropped given mobile subscriptions; mobile technology dominates given the island's geography; satellite technology is widespread and is important especially in areas away from the city; the launch in 2019 of the Kacific-1 broadband satellite has made broadband more widely available for around 89 remote communities (2020)<br>
@@ -597,10 +597,6 @@ _international_: country code - 676; landing point for the Tonga Cable and the T
 
 **Internet country code**<br>
 .to<br>
-
-**Internet users**<br>
-_total_: 43,800 (2021 est.)<br>
-_percent of population_: 41.25% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5,000 (2021 est.)<br>

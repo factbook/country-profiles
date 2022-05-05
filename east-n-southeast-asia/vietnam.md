@@ -616,8 +616,8 @@ _total subscriptions_: 3,205,775 (2020)<br>
 _subscriptions per 100 inhabitants_: 3.29 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 138,934,626 (2020)<br>
-_subscriptions per 100 inhabitants_: 142.7 (2020 est.)<br>
+_total subscriptions_: 136.23 million (2019)<br>
+_subscriptions per 100 inhabitants_: 141.23 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: though communist, government plans to partially privatize the state&rsquo;s holdings in telecom companies; competition is thriving in the telecom market place and driving e-commerce; mobile dominates over fixed-line; FttH market is growing; government is the driving force for growth with aims of commercializing 5G services with test licenses; Ho Chi Minh City to become the first smart city in Vietnam with cloud computing infrastructure, big data, data centers, and security-monitoring centers (2020)<br>
@@ -630,10 +630,6 @@ government controls all broadcast media exercising oversight through the Ministr
 
 **Internet country code**<br>
 .vn<br>
-
-**Internet users**<br>
-_total_: 68.72 million (2021 est.)<br>
-_percent of population_: 70.29% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 16,699,249 (2021)<br>

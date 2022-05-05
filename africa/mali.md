@@ -385,7 +385,7 @@ _subordinate courts_: Court of Appeal; High Court of Justice (jurisdiction limit
 African Solidarity for Democracy and Independence or SADI [Oumar MARIKO]<br>Alliance for Democracy in Mali-Pan-African Party for Liberty, Solidarity, and Justice or ADEMA-PASJ [Tiemoko SANGARE]<br>Alliance for Democracy and Progress or ADP-Maliba [Amadou THIAM]<br>Alliance for the Solidarity of Mali-Convergence of Patriotic Forces or ASMA-CFP [Amadou CISSE] (vice-president, acting)<br>Alternative Forces for Renewal and Emergence or FARE [Modibo SIDIBE]<br>Convergence for the Development of Mali or CODEM [Housseyni Amion GUINDO]<br>Democratic Alliance for Peace or ADP-Maliba [Aliou Boubacar DIALLO]<br>Economic and Social Development Party or PDES [Jamille BITTAR]<br>Front for Democracy and the Republic or FDR (coalition of smaller opposition parties)<br>National Congress for Democratic Initiative or CNID [Mountaga TALL]<br>Party for National Renewal or PARENA [Tiebile DRAME]<br>Patriotic Movement for Renewal or MPR [Choguel Kokalla MAIGA]<br>Rally for Mali or RPM [Boucary TRETA]<br>Union for Republic and Democracy or URD [Younoussi TOURE]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU (suspended), CD, ECOWAS (suspended), EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNAMID, UNCTAD, UNDP, UNESCO, UNFPA, UNHCR, UNIDO, UNISFA, UNMISS, UNOPS, UN Women, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU (suspended), CD, ECOWAS (suspended), EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNAMID, UNCTAD, UNDP, UNESCO, UNFPA, UNHCR, UNIDO, UNISFA, UNMISS, UNOPS, UN Women, UNWTO, UPU, WADB (regional), WAEMU, World Bank Group, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (appointed) Sekou BERTHE (since April 2022)<br>
@@ -650,10 +650,6 @@ national public TV broadcaster; 2 privately owned companies provide subscription
 
 **Internet country code**<br>
 .ml<br>
-
-**Internet users**<br>
-_total_: 5.74 million (2021 est.)<br>
-_percent of population_: 13% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 243,806 (2021)<br>

@@ -635,10 +635,6 @@ _international_: country code - 1; landing points for the Nunavut Undersea Fiber
 **Internet country code**<br>
 .ca<br>
 
-**Internet users**<br>
-_total_: 36.89 million (2022 est.)<br>
-_percent of population_: 96.5% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 15,825,813 Retail high-speed Internet access subs (2021)<br>
 _subscriptions per 100 inhabitants_: 41.93 (2021)<br>

@@ -633,10 +633,6 @@ the national state-owned public broadcaster, Croatian Radiotelevision, operates 
 **Internet country code**<br>
 .hr<br>
 
-**Internet users**<br>
-_total_: 3.34 million (2022 est.)<br>
-_percent of population_: 82% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 1,030,973 (2021)<br>
 _subscriptions per 100 inhabitants_: 25.11 (2021)<br>

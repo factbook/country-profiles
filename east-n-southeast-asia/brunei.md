@@ -583,10 +583,6 @@ state-controlled Radio Television Brunei (RTB) operates 5 channels; 3 Malaysian 
 **Internet country code**<br>
 .bn<br>
 
-**Internet users**<br>
-_total_: 421,300 (2022 est.)<br>
-_percent of population_: 95% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 71,078 (2021)<br>
 _subscriptions per 100 inhabitants_: 16.25 (2021)<br>

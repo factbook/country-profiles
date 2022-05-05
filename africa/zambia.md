@@ -633,8 +633,8 @@ _total subscriptions_: 71,844 (2020)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 19,104,208 (2019)<br>
-_subscriptions per 100 inhabitants_: 103.9 (2020 est.)<br>
+_total subscriptions_: 17,220,600 (2019)<br>
+_subscriptions per 100 inhabitants_: 96.41 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: service is among the best in Sub-Saharan Africa; regulator promotes competition and is a partner to private sector service providers, offering mobile voice and Internet at some of the lowest prices in the region; investment made in data centers, education centers, and computer assembly training plants; operators invest in 3G and LTE-based services; Chinese company Huawei is helping to upgrade state-owned mobile infrastructure for 5G services; operators focused on improvements to towers (2020)<br>
@@ -647,10 +647,6 @@ _international_: country code - 260; multiple providers operate overland fiber o
 
 **Internet country code**<br>
 .zm<br>
-
-**Internet users**<br>
-_total_: 5.48 million (2021 est.)<br>
-_percent of population_: 27.85% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 82,317 (2021)<br>
@@ -740,7 +736,7 @@ the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era arm
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 66,027 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,240 (Burundi) (2022)<br>
+_refugees (country of origin)_: 66,675 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,240 (Burundi) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>

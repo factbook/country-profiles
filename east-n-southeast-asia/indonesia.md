@@ -76,7 +76,7 @@ major concentration on the island of Java, which is considered one of the most d
 <p>occasional floods; severe droughts; tsunamis; earthquakes; volcanoes; forest fires</p> <p><strong>volcanism:</strong> Indonesia contains the most volcanoes of any country in the world - some 76 are historically active; significant volcanic activity occurs on Java, Sumatra, the Sunda Islands, Halmahera Island, Sulawesi Island, Sangihe Island, and in the Banda Sea; Merapi (2,968 m), Indonesia's most active volcano and in eruption since 2010, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; on 22 December 2018, a large explosion and flank collapse destroyed most of the 338 m high island of Anak Krakatau (Child of Krakatau) and generated a deadly tsunami inundating portions of western Java and southern Sumatra leaving more than 400 dead; other notable historically active volcanoes include Agung, Awu, Karangetang, Krakatau (Krakatoa), Makian, Raung, Sinabung, and Tambora; see note 2 under "Geography - note"</p><br>
 
 **Geography - note**<br>
-<p><strong>note 1:</strong> according to Indonesia's National Coordinating Agency for Survey and Mapping, the total number of islands in the archipelago is 13,466, of which 922 are permanently inhabited (Indonesia is the world's largest country comprised solely of islands); the country straddles the equator and occupies a strategic location astride or along major sea lanes from the Indian Ocean to the Pacific Ocean</p> <p><strong>note 2:</strong> Indonesia is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire; 80% of tsunamis, caused by volcanic or seismic events, occur within the "Pacific Ring of Fire"</p> <p><strong>note 3:</strong> despite having the fourth largest population in the world, Indonesia is the most heavily forested region on earth after the Amazon</p><br>
+<p><strong>note 1:</strong> according to Indonesia's National Coordinating Agency for Survey and Mapping, the total number of islands in the archipelago is 13,466, of which 922 are permanently inhabited (Indonesia is the world's largest country comprised solely of islands); the country straddles the equator and occupies a strategic location astride or along major sea lanes from the Indian Ocean to the Pacific Ocean</p> <p><strong>note 2:</strong> Indonesia is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire; 80% of tsunamis, caused by volcanic or seismic events, occur within the "Pacific Ring of Fire"</p> <p><strong>note 3:</strong> despite having the fourth largest population in the world, Indonesia is the most heavily forested region on earth after the Amazon<br><br><strong>note 4: </strong>two major food crops apparently developed on the island of New Guinea: bananas and sugarcane</p><br>
 
 ## People and Society
 
@@ -361,9 +361,9 @@ _elections/appointments_: president and vice president directly elected by absol
 _election results_: Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br>
 
 **Legislative branch**<br>
-_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br> House of Representatives or Dewan Perwakilan Rakyat (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms) (2019)<br>
-_elections_: Regional Representative Council - last held 17 April 2019 (next to be held 2024)<br> House of Representatives - last held on 17 April 2019 (next to be held 2024) (2019)<br>
-_election results_: Regional Representative Council - all seats elected on a non-partisan basis; compostion - NA<br> House of Representatives - percent of vote by party - PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%,  PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition - men 475, women 100, percent of women 17.9%; total People's Consultative Assembly percent of women NA (2019)<br>
+_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat (MPR) consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br>House of Representatives or Dewan Perwakilan Rakyat (DPR) (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms) (2019)<br>
+_elections_: Regional Representative Council - last held on 17 April 2019 (next to be held 2024)<br>House of Representatives - last held on 17 April 2019 (next to be held 2024) (2019)<br>
+_election results_: Regional Representative Council - all seats elected on a non-partisan basis; composition - men 102, women 34, percent of women 25%<br>House of Representatives - percent of vote by party - PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%,  PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition - men 449, women 126, percent of women 21.9%; total People's Consultative Assembly percent of women 22.5% (2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Mahkamah Agung (51 judges divided into 8 chambers); Constitutional Court or Mahkamah Konstitusi (consists of 9 judges)<br>
@@ -633,8 +633,8 @@ _total subscriptions_: 9,186,370 (2020)<br>
 _subscriptions per 100 inhabitants_: 3.36 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 370.1 million (2022)<br>
-_subscriptions per 100 inhabitants_: 133.3 (2022)<br>
+_total subscriptions_: 355,748,606 (2020)<br>
+_subscriptions per 100 inhabitants_: 130.1 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Indonesia&rsquo;s telecom sector is based on 3G/LTE mobile infrastructure and inadequate fixed-line capacity; large population and disbursed island geography make upgrades difficult; market is attracting foreign investment, especially in data center and cloud based services; tests of 5G challenged by lack of spectrum; satellite improvements in 2020 (2020)<br>
@@ -647,10 +647,6 @@ mixture of about a dozen national TV networks -&nbsp;1 public broadcaster, the r
 
 **Internet country code**<br>
 .id<br>
-
-**Internet users**<br>
-_total_: 204.7 million (2022)<br>
-_percent of population_: 73.7% (2022)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 11,722,218 (2021)<br>

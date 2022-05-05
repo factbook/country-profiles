@@ -625,8 +625,8 @@ _total subscriptions_: 12,448,604 (2020)<br>
 _subscriptions per 100 inhabitants_: 14.76 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 82,128,104 (2020)<br>
-_subscriptions per 100 inhabitants_: 97.38 (2020 est.)<br>
+_total subscriptions_: 80,790,900 (2019)<br>
+_subscriptions per 100 inhabitants_: 96.84 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: following earthquake damage to infrastructure in 2020, telecom sector undergoing rapid modernization and expansion, especially in mobile-cellular services; mobile broadband becoming increasingly popular; near saturation of 4G LTE coverage for the population; strides made with 5G through investment by Huawei and Ericcson; fixed and mobile infrastructure will help to underpin Smart City initiatives; tight government control on social media platforms; importer of broadcasting equipment and computers from China (2020)<br>
@@ -639,10 +639,6 @@ _international_: country code - 90; landing points for the SeaMeWe-3 &amp; -5, M
 
 **Internet country code**<br>
 .tr<br>
-
-**Internet users**<br>
-_total_: 65.8 million (2021 est.)<br>
-_percent of population_: 77.67% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 16,734,853 (2021)<br>

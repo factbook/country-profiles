@@ -617,8 +617,8 @@ _total subscriptions_: 2,970,347 (2020)<br>
 _subscriptions per 100 inhabitants_: 30.75 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.29 million (2022)<br>
-_subscriptions per 100 inhabitants_: 117.4 (2022)<br>
+_total subscriptions_: 10,332,660 (2020)<br>
+_subscriptions per 100 inhabitants_: 107 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Hungary benefits from a well-developed telecom infrastructure, with adoption of 5G and upgrade of fixed networks to 1Gb/s service; fixed-line subscribership fell as subscribers migrated to mobile for voice and data; effective infrastructure-based competition, with an extensive cable network competing against DSL and expanding fiber sector; high mobile penetration and highest fixed broadband penetration rate in Eastern Europe; government supports private partnership in smart agriculture applications; as part of EU, fully liberalized and open to investment; broadcasting equipment is one of the country&rsquo;s top five imports, plus mobile phones, from China (2020)<br>
@@ -631,10 +631,6 @@ mixed system of state-supported public service broadcast media and private broad
 
 **Internet country code**<br>
 .hu<br>
-
-**Internet users**<br>
-_total_: 8.56 million (2022)<br>
-_percent of population_: 89% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,265,308 Estimated value based on data of the seven largest operators. (2021 est.)<br>
@@ -729,7 +725,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 496,914 (Ukraine) (as of 24 April 2022)<br>
+_refugees (country of origin)_: 539,821 (Ukraine) (as of 3 May 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

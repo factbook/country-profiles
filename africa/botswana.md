@@ -632,10 +632,6 @@ _international_: country code - 267; international calls are made via satellite,
 **Internet country code**<br>
 .bw<br>
 
-**Internet users**<br>
-_total_: 1.48 million (2022 est.)<br>
-_percent of population_: 61% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 259,525 (2021)<br>
 _subscriptions per 100 inhabitants_: 11.04 (2021)<br>

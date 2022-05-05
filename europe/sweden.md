@@ -596,8 +596,8 @@ _total subscriptions_: 1,624,271 (2020)<br>
 _subscriptions per 100 inhabitants_: 16.08 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12,959,858 (2020)<br>
-_subscriptions per 100 inhabitants_: 128.3 (2020 est.)<br>
+_total subscriptions_: 12,895,900 (2019)<br>
+_subscriptions per 100 inhabitants_: 128.49 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Sweden&rsquo;s telecom market includes mature mobile and broadband sectors stimulated by investment of the main operators in new technologies; one of the best developed LTE infrastructures in the region; ranked among leading countries for fixed-line, mobile-cellular, Internet, and broadband penetration; best developed LTE infrastructure in the region; government promotes national broadband strategy to increase connectivity (2020)<br>
@@ -610,10 +610,6 @@ publicly owned TV broadcaster operates 2 terrestrial networks plus regional stat
 
 **Internet country code**<br>
 .se<br>
-
-**Internet users**<br>
-_total_: 9.93 million (2021 est.)<br>
-_percent of population_: 94.54% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,179,574 (2021)<br>

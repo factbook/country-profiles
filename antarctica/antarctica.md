@@ -111,10 +111,6 @@ _international_: country code - none allocated; via satellite (including mobile 
 **Internet country code**<br>
 .aq<br>
 
-**Internet users**<br>
-_total_: 4,400<br>
-_percent of population_: 100% (July 2016 est.)<br>
-
 ## Transportation
 
 **Airports**<br>

@@ -552,8 +552,8 @@ _total subscriptions_: 32,491 (2018)<br>
 _subscriptions per 100 inhabitants_: 29.3 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.336 million (2022)<br>
-_subscriptions per 100 inhabitants_: 117.9 (2022 est.)<br>
+_total subscriptions_: 113,177 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 102.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate, island-wide telephone system; lack of local competition, but telecoms are a high contributors to overall GDP; growth sectors include the mobile telephony and data segments (2020)<br>
@@ -566,10 +566,6 @@ multiple publicly and privately owned television and radio stations; Grenada Inf
 
 **Internet country code**<br>
 .gd<br>
-
-**Internet users**<br>
-_total_: 66,900 (2022 est.)<br>
-_percent of population_: 59.01% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 32,000 (2021 est.)<br>

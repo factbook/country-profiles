@@ -529,10 +529,6 @@ note - see individual country entries of member states<br>
 **Internet country code**<br>
 .eu; note - see country entries of member states for individual country codes<br>
 
-**Internet users**<br>
-_total_: 398.1 million (2018 est.)<br>
-_percent of population_: 85%<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 158,303,562
 <br>

@@ -599,8 +599,8 @@ _total subscriptions_: 5,212,507 (2020)<br>
 _subscriptions per 100 inhabitants_: 51.12 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,854,999 (2020)<br>
-_subscriptions per 100 inhabitants_: 116.3 (2020 est.)<br>
+_total subscriptions_: 11,909,800 (2019)<br>
+_subscriptions per 100 inhabitants_: 116.46 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; mobile market dominated by one operator with room for competition; 3G infrastructure is universal, with investment directed toward expanding provision of 90% LTE coverage in rural areas and 5G technologies; cable sector shifting to wireless, with access to 66% of population; developments in m-commerce; operator assessing installation of submarine cable between islands and mainland; importer of broadcasting equipment from EU (2020)<br>
@@ -613,10 +613,6 @@ Radio e Televisao de Portugal (RTP), the publicly owned TV broadcaster, operates
 
 **Internet country code**<br>
 .pt<br>
-
-**Internet users**<br>
-_total_: 8.58 million (2021 est.)<br>
-_percent of population_: 78.26% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,160,795 (2021)<br>

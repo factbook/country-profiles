@@ -432,10 +432,6 @@ _international_: country code 970 or 972 (2018)<br>
 **Internet country code**<br>
 .psnote - same as the West Bank<br>
 
-**Internet users**<br>
-_total_: 2.673 million (includes the West Bank)<br>
-_percent of population_: 57.4% (July 2016 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 320,500<br>
 _subscriptions per 100 inhabitants_: 14 (2016 est.)<br>

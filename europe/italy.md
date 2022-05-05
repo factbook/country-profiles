@@ -613,8 +613,8 @@ _total subscriptions_: 19,430,559 (2020)<br>
 _subscriptions per 100 inhabitants_: 32.14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 78.22 million (2022)<br>
-_subscriptions per 100 inhabitants_: 130 (2022)<br>
+_total subscriptions_: 77,796,840 (2020)<br>
+_subscriptions per 100 inhabitants_: 128.7 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-developed, fully automated telephone, and data services; among highest mobile penetration rates in Europe; benefitted from progressive government programs aimed at developing fiber in broadband sector; leading edge of development with 5G in six cities; fiber network reaches more than half of population; Milan developing smart city technology; importer of broadcasting equipment and computers from China (2020)<br>
@@ -627,10 +627,6 @@ two Italian media giants dominate - the publicly owned Radiotelevisione Italiana
 
 **Internet country code**<br>
 .it<br>
-
-**Internet users**<br>
-_total_: 50.85 million (2022)<br>
-_percent of population_: 84.3% (2022)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 18,128,787 (2021)<br>

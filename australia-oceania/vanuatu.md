@@ -570,8 +570,8 @@ _total subscriptions_: 3,472 (2020)<br>
 _subscriptions per 100 inhabitants_: 1.13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 246,232 (2020)<br>
-_subscriptions per 100 inhabitants_: 80.17 (2020 est.)<br>
+_total subscriptions_: 265,219 (2019)<br>
+_subscriptions per 100 inhabitants_: 88.44 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: liberalized telecom services; mobile phones are primary means of communication; LTE services and rural satellite broadband services; mobile phone use in some rural areas is constrained by electricity shortages; investment in fixed-broadband infrastructure and installation of fiber-optic cables supported sector growth; mobile broadband infrastructure expanded in 2020, resulting in reduced consumer prices; Kacific-1 broadband satellite has improved broadband capacity and access since 2019; importer of broadcasting equipment from China (2020)<br>
@@ -584,10 +584,6 @@ _international_: country code - 678; landing points for the ICN1 &amp; ICN2 subm
 
 **Internet country code**<br>
 .vu<br>
-
-**Internet users**<br>
-_total_: 104,100 (2021 est.)<br>
-_percent of population_: 25.72% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,785 (2021)<br>

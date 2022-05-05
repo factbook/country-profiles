@@ -344,7 +344,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Milo DJUKANOVIC (since 20 May 2018)<br>
-_head of government_: Prime Minister Zdravko KRIVOKAPIC (since 4 December 2020)<br>
+_head of government_: Prime Minister Dritan ABAZOVIC (since 28 April 2022)<br>
 _cabinet_: Ministers act as cabinet<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 15 April 2018 (next to be held in 2023); prime minister nominated by the president, approved by the Assembly<br>
 _election results_: Milo DJUKANOVIC elected president in the first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br>
@@ -633,10 +633,6 @@ state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1
 **Internet country code**<br>
 .me<br>
 
-**Internet users**<br>
-_total_: 477,300 (2021 est.)<br>
-_percent of population_: 81.37% (2020 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 184,176 (2021)<br>
 _subscriptions per 100 inhabitants_: 29.32 (2021)<br>
@@ -715,7 +711,7 @@ Montenegro officially became a member of NATO in 2017; Greece and Italy provide 
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 21,160 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
+<strong>note:</strong> 21,222 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

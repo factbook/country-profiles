@@ -592,10 +592,6 @@ state-owned radio and TV monopoly until recently;&nbsp;4 state-operated and 7 pr
 **Internet country code**<br>
 .mv<br>
 
-**Internet users**<br>
-_total_: 342,500 (2021 est.)<br>
-_percent of population_: 63.19% (2019 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 63,685 (2021)<br>
 _subscriptions per 100 inhabitants_: 11.78 (2021 est.)<br>

@@ -345,7 +345,7 @@ none; the government does not recognize any political parties or allow their for
 ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, CD, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, Paris Club (associate), PCA, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador SAL<br><br><br><br><br><br><br><br>SALEM Abdallah al-Jaber al-Sabah (since 10 October 2001)<br>
+_chief of mission_: Ambassador SALEM Abdallah al-Jaber al-Sabah<br><br><br><br><br><br><br><br>SALEM Abdallah al-Jaber al-Sabah (since 10 October 2001)<br>
 _chancery_: 2940 Tilden Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 966-0702<br>
 _FAX_: [1] (202) 966-8468<br>
@@ -353,7 +353,7 @@ _email address and website_: <br>https://www.kuwaitembassy.us/<br>
 _consulate(s) general_: Beverly Hills (CA), New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Alina L. ROMANOWSKI (since 6 January 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires James HOLTSNIDER<br>
 _embassy_: P.O. Box 77, Safat 13001<br>
 _mailing address_: 6200 Kuwait Place, Washington DC&nbsp; 20521-6200<br>
 _telephone_: [00] (965) 2259-1001<br>
@@ -587,7 +587,7 @@ _subscriptions per 100 inhabitants_: 13.66 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6,770,346 (2020)<br>
-_subscriptions per 100 inhabitants_: 158.5 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 158.5 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the quality of service is excellent; new telephone exchanges provide a large capacity for new subscribers; trunk traffic is carried by microwave radio relay, coaxial cable, open-wire, and fiber-optic cable; a 4G LTE mobile-cellular telephone system operates throughout Kuwait; Internet access is available via 4G LTE connections for fixed and mobile users; high ownership levels of smart phones in Kuwait; one of the highest mobile penetration rates in the world; exploring 5G opportunities; improvements to fiber-broadband underway (2020)<br>
@@ -600,10 +600,6 @@ state-owned TV broadcaster operates 4 networks and a satellite channel; several 
 
 **Internet country code**<br>
 .kw<br>
-
-**Internet users**<br>
-_total_: 4.26 million (2021 est.)<br>
-_percent of population_: 98.6% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 73,948 (2021)<br>

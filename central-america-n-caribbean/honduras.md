@@ -613,8 +613,8 @@ _total subscriptions_: 531,763 (2020)<br>
 _subscriptions per 100 inhabitants_: 5.37 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.61 million (2020)<br>
-_subscriptions per 100 inhabitants_: 75.1 (2022)<br>
+_total subscriptions_: 6,960,654 (2020)<br>
+_subscriptions per 100 inhabitants_: 70.28 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p style="background: white; margin: 0in 0in 6.4pt 0in;">among the poorest countries in Central America, Honduras has a neglected telecom sector complicated by political stalemate and geographic challenges; mobile subscribership is growing; DSL and cable Internet available in urban areas but expensive; government proposed ICT master plan to boost e-government and business, including free Internet to households; US based network ready to deploy 5G <br></p> (2020)<br>
@@ -627,10 +627,6 @@ multiple privately owned terrestrial TV networks, supplemented by multiple cable
 
 **Internet country code**<br>
 .hn<br>
-
-**Internet users**<br>
-_total_: 5.67 million (2022)<br>
-_percent of population_: 55.9% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 396,916 (2021)<br>

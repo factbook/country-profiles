@@ -576,7 +576,7 @@ _subscriptions per 100 inhabitants_: 1.06 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 478,116 (2019)<br>
-_subscriptions per 100 inhabitants_: 71.38 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 71.38 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Internet penetration has reached 20%; 3G and&nbsp;4G LTE mobile network expansions, investment in mobile services in the region; otherwise 3G and satellite services for communication and Internet access; increase in broadband subscriptions; the launch of the Kacific-1 satellite in 2019 and the Coral Sea Cable System have vastly improved the telecom sector (2020)<br>
@@ -589,10 +589,6 @@ Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; m
 
 **Internet country code**<br>
 .sb<br>
-
-**Internet users**<br>
-_total_: 198,900 (2021 est.)<br>
-_percent of population_: 11.92% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2021 est.)<br>

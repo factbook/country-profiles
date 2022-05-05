@@ -321,7 +321,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (21 seats; 13 members appointed by the governor general on the advice of the prime minister and 8 members appointed by the governor general on the advice of the opposition party leader; members serve 5-year terms (no term limits) or until Parliament is dissolved)<br>House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms (no term limits) or until Parliament is dissolved)<br>
-_elections_: Senate - last full slate of appointments on 10 March 2016 (next full slate early on 3 September 2020, following dissolution in mid-August)<br>House of Representatives - last held on 3 September 2020 (next to be held in 2025)<br>
+_elections_: Senate - last full slate of appointments early on 3 September 2020 (next full slate in 2025)<br>House of Representatives - last held on 3 September 2020 (next to be held in 2025)<br>
 _election results_: Senate - percent by party - NA; seats by party - NA; composition (as of June 2021) - men 13, women 8, percent of women 38.1%<br>House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition (as of June 2021) - men 45, women 18; percent of women 28.6%; note - total Parliament percent of women 31%<br>
 
 **Judicial branch**<br>
@@ -590,7 +590,7 @@ _subscriptions per 100 inhabitants_: 14.73 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 2,873,259 (2020)<br>
-_subscriptions per 100 inhabitants_: 97.03 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 97.03 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good domestic and international service; mobile sector dominates, accounting for majority of the Internet connections and half of telecom sector revenue; extensive LTE networks providing coverage to most of the island population; regulator encouraging competition with little success due to breach of license; government announced support of national broadband network to aid access to education, hospitals, police, and municipal institutions; operators provided customers with data plans to support educational platforms; US grant to fund New Kingston smart city program (2020)<br>
@@ -603,10 +603,6 @@ _international_: country code - 1-876 and 1-658; landing points for the ALBA-1, 
 
 **Internet country code**<br>
 .jm<br>
-
-**Internet users**<br>
-_total_: 1.63 million (2021 est.)<br>
-_percent of population_: 55.07% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 385,603 (2021)<br>

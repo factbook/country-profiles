@@ -198,7 +198,7 @@ _vectorborne diseases_: malaria, dengue fever, Trypanosomiasis-Gambiense (Africa
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; South Sudan is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; South Sudan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
@@ -258,7 +258,7 @@ _vectorborne diseases_: malaria, dengue fever, Trypanosomiasis-Gambiense (Africa
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; South Sudan is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; South Sudan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to economic downturn, civil insecurity, lingering impact of floods and prolonged conflict - despite sustained humanitarian assistance, food insecurity still affects large segments of the population, driven by insufficient food supplies, an economic downturn, high food prices and the lingering impact of widespread floods in 2020; about 7.2 million people (about 60% of the total population) are estimated to be severely food insecure in the April&minus;July 2021 period; particular concern exists for households in Jonglei, Northern Bahr-el-Ghazal and Warrap states and in neighboring Pibor Administrative Area, where 60-85% of the&nbsp; population is estimated to be severely food insecure, with a total of 108,000 people facing &ldquo;Catastrophe&rdquo; levels of food insecurity (2021)<br>
@@ -546,8 +546,8 @@ _total subscriptions_: less than 1<br>
 _subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,221,967 (2019)<br>
-_subscriptions per 100 inhabitants_: 20.09 (2019 est.)<br>
+_total subscriptions_: 2,221,970 (2019)<br>
+_subscriptions per 100 inhabitants_: 20.09 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: with little infrastructure and electricity, South Sudan has one of the least developed telecom and Internet systems in the world and one of the lowest mobile penetration rates in Africa; instability, widespread poverty, and low literacy rates contribute to a struggling telecom sector; due to revenue losses, the few carriers in the market have reduced the areas in which they offer service; the government recognizes the positive effects of ICT on development and is providing a range of investment incentives; the international community has provided billions of dollars in aid to help the young country, with Chinese investment playing a growing role in the infrastructure and energy sectors and South Sudan purchasing broadcasting equipment from China; by 2020, one operator had initiated e-money service (2020)<br>
@@ -560,10 +560,6 @@ _international_: country code - 211 (2017)<br>
 
 **Internet country code**<br>
 .ss<br>
-
-**Internet users**<br>
-_total_: 900,700 (2021 est.)<br>
-_percent of population_: 7.98% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 200 (2020)<br>
@@ -644,7 +640,7 @@ the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s 
 <p><em>South Sudan- Central African Republic: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights<br><br><em>South Sudan-Kenya:</em> the boundary that separates Kenya and South Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times</p> <p><em>South Sudan-Sudan:</em> present boundary represents 1 January 1956 alignment, which clearly placed the Kafia Kingi area (adjacent to Central African Republic) within South Sudan as shown on US maps although it is mostly occupied by Sudan; final alignment pending negotiations and demarcation; the final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan; Sudan accuses South Sudan of supporting Sudanese rebel groups</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 309,025 (Sudan), 18,514 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 309,025 (Sudan), 18,407 (Democratic Republic of the Congo) (2022)<br>
 _IDPs_: 1,436,000 (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2020)<br>
 _stateless persons_: 10,000 (mid-year 2021)<br>
 

@@ -599,8 +599,8 @@ _total subscriptions_: 3,550,069 (2020)<br>
 _subscriptions per 100 inhabitants_: 10.61 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 33.387 million (2020)<br>
-_subscriptions per 100 inhabitants_: 99.75 (2020 est.)<br>
+_total subscriptions_: 33.38 million (2019)<br>
+_subscriptions per 100 inhabitants_: 101.21 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: land-locked, authoritarian state with government grip on ICT technology and no integrated plan; government plans to develop infrastructure to improve geographical disparities in service; increased investment in infrastructure, with aims of expanding subscriber base and rising revenue; some villages have no connectivity, and 70% have 2G with development of 3G and 4G; free WiFi spots across country to boost tourism; Russian operator invested in joint venture on mobile services; government in discussion with Huawei on additional ventures; digital exchanges in large cities and some rural areas; fixed-line is underdeveloped due to preeminence of mobile market; introduction of prepaid Internet has contributed to home Internet usage; consumers largely reliant on terrestrial links and VSAT networks; media controlled by state; importer of broadcasting equipment from China (2020)<br>
@@ -613,10 +613,6 @@ the government controls media; 17 state-owned broadcasters - 13 TV and 4 radio -
 
 **Internet country code**<br>
 .uz<br>
-
-**Internet users**<br>
-_total_: 18.6 million (2021 est.)<br>
-_percent of population_: 52.31% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,820,009 (2021)<br>

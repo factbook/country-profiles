@@ -363,7 +363,7 @@ _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York,
 _honorary consulate(s)_: San Juan (Puerto Rico), Saint Paul (MN), Tucson (AZ)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Marcos MANDOJANA (since August 2021)<br>
+_chief of mission_: Ambassador Cynthia A. TELLES (since 11 March 2022)<br>
 _embassy_: Calle 98 Via 104, Pavas, San Jose<br>
 _mailing address_: 3180 St. George's Place, Washington DC&nbsp; 20521-3180<br>
 _telephone_: [506] 2519-2000<br>
@@ -621,10 +621,6 @@ multiple privately owned TV stations and 1 publicly owned TV station; cable netw
 
 **Internet country code**<br>
 .cr<br>
-
-**Internet users**<br>
-_total_: 4.21 million (2022 est.)<br>
-_percent of population_: 81.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 992,725 (2021)<br>

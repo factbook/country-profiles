@@ -331,7 +331,7 @@ _election results_: <em><br>2017:</em> Borut PAHOR is reelected president in sec
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br>National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
 _elections_: <br>National Council - last held on 22 November 2017 (next to be held in 2022)<br>National Assembly - last held on 24 April 2022 (next to be held in 2026)<br>
-_election results_: <br>National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br>National Assembly - percent of vote by party - GS 34.5%, SDS 23.5%, NSi 6.9%, SD 6.7%, Levica 4.4%, other 24%; seats by party - GS 41, SDS 27, NSi 8, SD 7, Levica 5; composition - men NA, women NA, percent of women NA%; note - total Parliament percent of women NA%<br>
+_election results_: <br>National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br>National Assembly - percent of vote by party - GS 34.5%, SDS 23.5%, NSi 6.9%, SD 6.7%, Levica 4.4%, other 24%; seats by party - GS 41, SDS 27, NSi 8, SD 7, Levica 5; composition - men 54, women 36, percent of women 40%; note - total Parliament percent of women 31%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and 37 judges organized into civil, criminal, commercial, labor and social security, administrative, and registry departments); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
@@ -598,8 +598,8 @@ _total subscriptions_: 704,909 (2020)<br>
 _subscriptions per 100 inhabitants_: 33.91 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,550,895 (2020)<br>
-_subscriptions per 100 inhabitants_: 122.7 (2020 est.)<br>
+_total subscriptions_: 2,511,980 (2019)<br>
+_subscriptions per 100 inhabitants_: 120.85 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-developed telecom infrastructure with sound regulatory intervention; increase in Internet community utilizing e-government, e-commerce, and e-health; government funds to improve broadband to more municipalities; high mobile penetration rate retaining customers with bundled products; extensive reach of 5G; FttP to 90% of premises; importer of broadcasting equipment from neighboring Central Europe (2020)<br>
@@ -612,10 +612,6 @@ public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of nat
 
 **Internet country code**<br>
 .si<br>
-
-**Internet users**<br>
-_total_: 1.75 million (2021 est.)<br>
-_percent of population_: 86.6% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 651,604 (2021)<br>

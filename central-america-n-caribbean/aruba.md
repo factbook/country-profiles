@@ -536,10 +536,6 @@ _international_: country code - 297; landing&nbsp;points for the PAN-AM, PCCS, D
 **Internet country code**<br>
 .aw<br>
 
-**Internet users**<br>
-_total_: 104,400 (2022 est.)<br>
-_percent of population_: 97.2% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 19,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 17.8 (2021)<br>

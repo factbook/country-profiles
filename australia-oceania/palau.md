@@ -496,7 +496,7 @@ _subscriptions per 100 inhabitants_: 40.78 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 23,743 (2018)<br>
-_subscriptions per 100 inhabitants_: 134.4 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 134.41 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-developed mobile sector, recently boosted by satellite network capacity upgrades; 3G services available with satellite; lack of telecom regulations; newest and most powerful commercial satellite, Kacific-1 satellite, launched in 2019 to improve telecommunications in the Asia Pacific region (2020)<br>
@@ -509,10 +509,6 @@ no broadcast TV stations; a cable TV network covers the major islands and provid
 
 **Internet country code**<br>
 .pw<br>
-
-**Internet users**<br>
-_total_: 6,752 (2021 est.)<br>
-_percent of population_: 26.97% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,224 (2015)<br>

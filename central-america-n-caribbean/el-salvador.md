@@ -620,10 +620,6 @@ multiple privately owned national terrestrial TV networks, supplemented by cable
 **Internet country code**<br>
 .sv<br>
 
-**Internet users**<br>
-_total_: 3.3 million (2022 est.)<br>
-_percent of population_: 50.5% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 586,000 (2021)<br>
 _subscriptions per 100 inhabitants_: 9.03 (2021 est.)<br>

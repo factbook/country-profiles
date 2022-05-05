@@ -602,7 +602,7 @@ _total subscriptions_: 400,454<br>
 _subscriptions per 100 inhabitants_: 19.22 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,921,013<br>
+_total subscriptions_: 1,921,010 (2019)<br>
 _subscriptions per 100 inhabitants_: 92.2 (2019 est.)<br>
 
 **Telecommunication systems**<br>
@@ -616,10 +616,6 @@ public service TV broadcaster Macedonian Radio and Television operates 3 nationa
 
 **Internet country code**<br>
 .mk<br>
-
-**Internet users**<br>
-_total_: 1.71 million (2021 est.)<br>
-_percent of population_: 81.41% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 475,569 (2021)<br>

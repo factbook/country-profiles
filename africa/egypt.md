@@ -83,7 +83,7 @@ approximately 95% of the population lives within 20 km of the Nile River and its
 periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving windstorms called khamsin occur in spring; dust storms; sandstorms<br>
 
 **Geography - note**<br>
-<strong>note 1:</strong> controls Sinai Peninsula, the only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea; size, and juxtaposition to Israel, establish its major role in Middle Eastern geopolitics; dependence on upstream neighbors; dominance of Nile basin issues; prone to influxes of refugees from Sudan and the Palestinian territories<br><br><strong>note 2:</strong> the earliest evidence for wild sorghum cultivation occurs in southern Egypt and dates to roughly 7500 B.C.<br>
+<strong>note:</strong> controls Sinai Peninsula, the only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea; size, and juxtaposition to Israel, establish its major role in Middle Eastern geopolitics; dependence on upstream neighbors; dominance of Nile basin issues; prone to influxes of refugees from Sudan and the Palestinian territories<br>
 
 ## People and Society
 
@@ -646,10 +646,6 @@ mix of state-run and private broadcast media; state-run TV operates 2 national a
 
 **Internet country code**<br>
 .eg<br>
-
-**Internet users**<br>
-_total_: 75.66 million (2022 est.)<br>
-_percent of population_: 71.9% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,349,469 (2021)<br>

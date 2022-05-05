@@ -281,9 +281,6 @@ _international_: country code - 590; landing points for the SSCS and the Souther
 **Internet country code**<br>
 .bl; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered<br>
 
-**Internet users**<br>
-_total_: 2,025 (2021 est.)<br>
-
 ## Transportation
 
 **Airports**<br>

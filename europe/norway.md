@@ -596,8 +596,8 @@ _total subscriptions_: 348,808 (2020)<br>
 _subscriptions per 100 inhabitants_: 6.43 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,825,584 (2020)<br>
-_subscriptions per 100 inhabitants_: 107.5 (2020 est.)<br>
+_total subscriptions_: 5,775,830 (2019)<br>
+_subscriptions per 100 inhabitants_: 107.38 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector; synchronized with EC legislation; comprehensive LTE and focus on 5G;&nbsp; broadband penetration among highest in Europe; operators will migrate all DSL subscribers to fiber by 2023 and close 2G and 3G networks by 2025; regulator assigned spectrum for 5G; operator partners with Huawei for smart agriculture project; Oslo utilizes smart city technology; municipalities access EU-funded public Wi-Fi; importer of broadcasting equipment and computers from China (2020)<br>
@@ -610,10 +610,6 @@ state-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nat
 
 **Internet country code**<br>
 .no<br>
-
-**Internet users**<br>
-_total_: 5.39 million (2021 est.)<br>
-_percent of population_: 97% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,387,661 (2021)<br>

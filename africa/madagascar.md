@@ -206,7 +206,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid feve
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Madagascar is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Madagascar is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.3% (2016)<br>
@@ -279,7 +279,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid feve
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Madagascar is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Madagascar is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to drought in southern areas and limited income-earning opportunities - an estimated 1.14 million people are food insecure in southern and southeastern regions and require urgent humanitarian assistance; the effects of a severe drought on agricultural production in 2021 and the impact of the COVID-19 pandemic, particularly the loss of incomes due to the economic slowdown, are the key drivers of food insecurity (2021)<br>
@@ -611,7 +611,7 @@ _subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 10,654,710 (2018)<br>
-_subscriptions per 100 inhabitants_: 34.14 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 40.57 (2018 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: penetration rates below African average; competition among mobile service providers has spurred recent growth in the mobile market and reduced consumer costs; 3G and LTE services available; fiber backbone connects major cities with wireless networks upgraded to LTE; government committed to free WiFi hotspots to ensure universal access; telecom service tax raised to 10%; investment in submarine cable to South Africa and Mauritius; importer of broadcasting and video equipment from China (2020)<br>
@@ -624,10 +624,6 @@ state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an
 
 **Internet country code**<br>
 .mg<br>
-
-**Internet users**<br>
-_total_: 5.45 million (2021 est.)<br>
-_percent of population_: 9.8% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 32,000 (2021 est.)<br>

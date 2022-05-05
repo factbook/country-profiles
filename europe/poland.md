@@ -623,8 +623,8 @@ _total subscriptions_: 5,777,428 (2020)<br>
 _subscriptions per 100 inhabitants_: 15.27 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 49,350,724 (2020)<br>
-_subscriptions per 100 inhabitants_: 130.4 (2020 est.)<br>
+_total subscriptions_: 48,392,900 (2019)<br>
+_subscriptions per 100 inhabitants_: 127.73 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: liberalized telecom market supported by market competition in broadband and mobile sectors ensuring access to cable and fiber infrastructure; rapid extension of LTE networks and development of mobile data service; mobile penetration is above European average; fixed broadband benefits from DSL infrastructure and investment in fiber through EU support; major importer of broadcasting equipment and accessories from Germany (2020)<br>
@@ -637,10 +637,6 @@ state-run public TV operates 2 national channels supplemented by 16 regional cha
 
 **Internet country code**<br>
 .pl<br>
-
-**Internet users**<br>
-_total_: 31.97 million (2021 est.)<br>
-_percent of population_: 86.84% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 8,369,218 Speeds equal to or grater than 144 kbit/s. (2021)<br>
@@ -747,7 +743,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 2,922,978 (as of 25 April 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 3,094,446 (as of 3 May 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

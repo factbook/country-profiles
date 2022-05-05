@@ -647,10 +647,6 @@ combination of state-owned and privately owned broadcast media provide service; 
 **Internet country code**<br>
 .co<br>
 
-**Internet users**<br>
-_total_: 35.5 million (2022 est.)<br>
-_percent of population_: 69.1% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 7,764,772 (2021)<br>
 _subscriptions per 100 inhabitants_: 15.26 (2021 est.)<br>

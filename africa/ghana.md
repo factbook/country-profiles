@@ -645,10 +645,6 @@ state-owned TV station, 2 state-owned radio networks; several privately owned TV
 **Internet country code**<br>
 .gh<br>
 
-**Internet users**<br>
-_total_: 16.99 million (2022 est.)<br>
-_percent of population_: 53% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 78,371 Total fixed broadband subscriptions from Vodafone 62,284; AirtelTigo 700; MTN 14,038; Mainone 111; Simba Fibre 41; K-Net 310; Tizeti 810; Sactis Ghana 45; Orange business 22; Vodafone (2021)<br>
 _subscriptions per 100 inhabitants_: 0.25 less than 1 (2021 est.)<br>

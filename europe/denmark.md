@@ -85,7 +85,7 @@ _noun_: Dane(s)<br>
 _adjective_: Danish<br>
 
 **Ethnic groups**<br>
-Danish (includes Greenlandic (who are predominantly Inuit) and Faroese) 86.3%, Turkish 1.1%, other 12.6% (largest groups are Polish, Syrian, German, Iraqi, and Romanian) (2018 est.)<br>
+Danish (includes Greenlandic (who are predominantly Inuit) and Faroese) 85.6%, Turkish 1.1%, other 13.3% (largest groups are Polish, Syrian, Romanian, German, and Iraqi) (2022 est.)<br>
 <strong>note:</strong> data represent population by ancestry<br>
 
 **Languages**<br>
@@ -608,10 +608,6 @@ strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 
 
 **Internet country code**<br>
 .dk<br>
-
-**Internet users**<br>
-_total_: 5.77 million (2022 est.)<br>
-_percent of population_: 99% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,590,282 (2021)<br>

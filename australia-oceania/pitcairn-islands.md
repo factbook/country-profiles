@@ -336,10 +336,6 @@ satellite TV from Fiji-based Sky Pacific offering a wide range of international 
 **Internet country code**<br>
 .pn<br>
 
-**Internet users**<br>
-_total_: 54<br>
-_percent of population_: 100% (July 2016 est.)<br>
-
 **Communications - note**<br>
 satellite-based local phone service and broadband Internet connections available in all homes<br>
 

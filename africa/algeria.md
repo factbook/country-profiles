@@ -619,10 +619,6 @@ state-run Radio-Television Algerienne operates the broadcast media and carries p
 **Internet country code**<br>
 .dz<br>
 
-**Internet users**<br>
-_total_: 27.28 million (2022 est.)<br>
-_percent of population_: 60.6% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 3,790,459 (2021)<br>
 _subscriptions per 100 inhabitants_: 8.64 (2021)<br>

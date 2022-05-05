@@ -483,6 +483,10 @@ _electrification - total population_: 100% (2020)<br>
 _total subscriptions_: 76,000 (2018)<br>
 _subscriptions per 100 inhabitants_: 72.41 (2017 est.)<br>
 
+**Telephones - mobile cellular**<br>
+_total subscriptions_: 59,121 (2018)<br>
+_subscriptions per 100 inhabitants_: 204.5 (2019)<br>
+
 **Telecommunication systems**<br>
 _general assessment_: modern system with total digital switching, uses fiber-optic cable and microwave radio relay; good interisland and international connections; broadband access; expansion of&nbsp;FttP (Fiber to the Home) markets; LTE launches; regulatory development and expansion in several markets point to investment and focus on data (2020)<br>
 _domestic_: full range of services available; fixed-line roughly 72 per 100 persons, no recent teledensity numbers available for mobile-cellular usage, although it was approximately 75 per 100 in 2010 (2018)<br>
@@ -494,10 +498,6 @@ about a dozen TV broadcast stations including 1 public TV station; multi-channel
 
 **Internet country code**<br>
 .vi<br>
-
-**Internet users**<br>
-_total_: 67,200 (2021 est.)<br>
-_percent of population_: 64.38% (2019 est.)<br>
 
 ## Transportation
 

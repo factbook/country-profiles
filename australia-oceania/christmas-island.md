@@ -307,10 +307,6 @@ _international_: international code - 61 8; ASC submarine cable to Singapore and
 **Internet country code**<br>
 .cx<br>
 
-**Internet users**<br>
-_total_: 1,449 (2022 est.)<br>
-_percent of population_: 78.6% (2022 est.)<br>
-
 ## Transportation
 
 **Airports**<br>

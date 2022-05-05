@@ -621,7 +621,7 @@ _subscriptions per 100 inhabitants_: 31.13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 442.457 million (2019)<br>
-_subscriptions per 100 inhabitants_: 134.5 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 134.46 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a large, technologically advanced, multipurpose communications system; reliable Internet available for most of the population though challenges remain in rural areas and tribal lands; concentration among industry operators; saturated mobile subscriber penetration rate; national LTE-M services with reassignment of 2G spectrum for 5G, centered in urban areas; operators signed alliance to develop 6G in line with technology standards, and government policies; almost all citizens have access to both fixed-line and mobile-broadband services; government fund to connect 5.3 million residences and businesses in rural areas; in pandemic, emergency funding for Internet and devices related to education; cooperative approach to e-commerce, health, education, and energy with smart city technology in several areas; federal subsidies to private satellite Internet constellation with aims for fast, world-wide connections; government policy designated Chinese companies Huawei and ZTE as national security threats and restricted partnership; importer of broadcasting equipment from China with export of same to Hong Kong (2020)<br>
@@ -634,10 +634,6 @@ _international_: country code - 1; landing points for the Quintillion Subsea Cab
 
 **Internet country code**<br>
 .us<br>
-
-**Internet users**<br>
-_total_: 298.8 million (2021 est.)<br>
-_percent of population_: 87.27% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 121.176 million (2021)<br>
@@ -722,7 +718,7 @@ note - the Army National Guard and the Air National Guard are reserve components
 3.3% of GDP (approximately $671 billion) (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the US Armed Forces have approximately 1.4 million active duty personnel (480,000 Army; 350,000 Navy; 335,000 Air Force/Space Force; 180,000 Marine Corps; 40,000 Coast Guard); 335,000 Army National Guard; 105,000 Air National Guard (2021)<br>
+the US Armed Forces have approximately 1.39 million active duty personnel (475,000 Army; 345,000 Navy; 335,000 Air Force/Space Force; 180,000 Marine Corps; 40,000 Coast Guard); 335,000 Army National Guard; 105,000 Air National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the US military's inventory is comprised almost entirely of domestically-produced weapons systems (some assembled with foreign components) along with a smaller mix of imported equipment from a variety of Western countries; since 2010, Germany and the UK are the leading suppliers of military hardware; the US defense industry is capable of designing, developing, maintaining, and producing the full spectrum of weapons systems; the US is the world's leading arms exporter (2021)<br>

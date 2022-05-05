@@ -619,8 +619,8 @@ _total subscriptions_: 19,455,779 (2020)<br>
 _subscriptions per 100 inhabitants_: 41.61 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 55,644,651 (2020)<br>
-_subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
+_total subscriptions_: 55,354,900 (2019)<br>
+_subscriptions per 100 inhabitants_: 118.44 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-developed and one of the largest telecom markets in Europe, with average mobile penetration for Europe; regulator has championed competition; LTE is nearly universal with shifts of service to 5G; operator joined government smart cities project; fixed-line broadband is backed by investment in fiber infrastructure; fiber broadband accounts for most of all fixed-line broadband connections; Chinese company Huawei contributes investment to the telecom sector; increased connectivity through submarine cable connection to Brazil; importer of broadcasting equipment from Europe (2020)<br>
@@ -633,10 +633,6 @@ _international_: country code - 34; landing points for the MAREA, Tata TGN-Weste
 
 **Internet country code**<br>
 .es<br>
-
-**Internet users**<br>
-_total_: 42.54 million (2021 est.)<br>
-_percent of population_: 93.21% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 16,188,502 (2021)<br>
@@ -743,7 +739,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 6,.92 (mid-year 2021)<br>
-<strong>note: </strong>256,877 estimated refugee and migrant arrivals, including Canary Islands (January 2015-April 2022)<br>
+<strong>note: </strong>257,364 estimated refugee and migrant arrivals, including Canary Islands (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

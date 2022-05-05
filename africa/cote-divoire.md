@@ -641,10 +641,6 @@ state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up of&nbsp;
 **Internet country code**<br>
 .ci<br>
 
-**Internet users**<br>
-_total_: 9.94 million (2022 est.)<br>
-_percent of population_: 36.3% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 260,097 (2021)<br>
 _subscriptions per 100 inhabitants_: 0.99 less than 1 (2021)<br>

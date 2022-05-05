@@ -613,8 +613,8 @@ _total subscriptions_: 2.952 million (2020)<br>
 _subscriptions per 100 inhabitants_: 34.11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10.9 million (2020)<br>
-_subscriptions per 100 inhabitants_: 125.9 (2020 est.)<br>
+_total subscriptions_: 10.829 million (2019)<br>
+_subscriptions per 100 inhabitants_: 126.05 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Switzerland emerged as a European leader for 1Gb/s fiber broadband, complemented by 5G to 97% of the population; competitive market buttressed by regulator assurances of 5G-compatible network infrastructure; although not a member of the EU, Switzerland follows the EU's telecom framework and regulations; Zurich is being developed as a smart city (2020)<br>
@@ -627,10 +627,6 @@ _international_: country code - 41; satellite earth stations - 2 Intelsat (Atlan
 
 **Internet country code**<br>
 .ch<br>
-
-**Internet users**<br>
-_total_: 8.42 million (2021 est.)<br>
-_percent of population_: 93.15% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,028,238 (2021)<br>

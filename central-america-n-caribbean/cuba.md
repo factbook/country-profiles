@@ -92,7 +92,7 @@ _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indi
 
 **Religions**<br>
 Christian 58.9%, folk religion 17.6%, Buddhist &lt;1%, Hindu &lt;1%, Jewish &lt;1%, Muslim &lt;1%, other &lt;1%, none 23.2% (2020 est.)<br>
-<strong>note:</strong> folk religions include religions of African origin, spiritualism, and others intermingled with Catholicism or Protestantism; data is estimative because no authoritative source on religious affiliation exists in Cuba<br>
+<strong>note:</strong> folk religions include religions of African origin, spiritualism, and others intermingled with Catholicism or Protestantism; data is estimative because no authoritative source on religious affiliation exists for Cuba<br>
 
 **Age structure**<br>
 _0-14 years_: 16.34% (male 929,927/female 877,035)<br>
@@ -609,11 +609,6 @@ government owns and controls all broadcast media: five national TV channels (Cub
 
 **Internet country code**<br>
 .cu<br>
-
-**Internet users**<br>
-_total_: 7.69 million (2022 est.)<br>
-_percent of population_: 68% (2022 est.)<br>
-<strong>note:</strong> private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled "intranet"; issues relating to COVID-19 impact research into internet adoption, so actual internet user figures may be different than published numbers suggest<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 231,654 (2021)<br>

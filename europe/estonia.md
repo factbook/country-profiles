@@ -618,10 +618,6 @@ the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV cha
 **Internet country code**<br>
 .ee<br>
 
-**Internet users**<br>
-_total_: 1.22 million (2022 est.)<br>
-_percent of population_: 92% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 415,610 (2021)<br>
 _subscriptions per 100 inhabitants_: 31.33 (2021)<br>
@@ -699,9 +695,6 @@ the Estonian Defense Forces have a limited inventory of Soviet-era and more rece
 **Military service age and obligation**<br>
 men 18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months; women can volunteer and as of 2018, women could serve in any branch of the military (2021)<br>
 note(s) - conscripts comprise about half (approximately 3,000-3,300) of the Estonian military's 6,500 active personnel and serve in all branches, except for the Air Force, which does not have conscripts; in 2020, women comprised about 10% of the full-time professional military force<br>
-
-**Military deployments**<br>
-approximately 100 Mali (Operation Barkhane/MINUSMA/EUTM) (2021)<br>
 
 **Military - note**<br>
 Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia has hosted a UK-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative</p> <p>NATO also has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014</p><br>

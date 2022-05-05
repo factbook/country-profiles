@@ -617,10 +617,6 @@ multiple national TV networks with 2 of the 3 largest networks publicly operated
 **Internet country code**<br>
 .kr<br>
 
-**Internet users**<br>
-_total_: 49.75 million (2021 est.)<br>
-_percent of population_: 96.51% (2020 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 22,327,182 (2021)<br>
 _subscriptions per 100 inhabitants_: 43.55 (2021)<br>

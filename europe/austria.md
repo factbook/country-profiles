@@ -622,10 +622,6 @@ worldwide cable and satellite TV are available; the public incumbent ORF compete
 **Internet country code**<br>
 .at<br>
 
-**Internet users**<br>
-_total_: 8.42 million (2022 est.)<br>
-_percent of population_: 93% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 2.606 million (2021)<br>
 _subscriptions per 100 inhabitants_: 28.93 (2021 est.)<br>

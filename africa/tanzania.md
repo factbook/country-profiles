@@ -636,8 +636,8 @@ _total subscriptions_: 72,469 (2020)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 51,220,233 (2020)<br>
-_subscriptions per 100 inhabitants_: 85.75 (2020 est.)<br>
+_total subscriptions_: 47,685,200 (2019)<br>
+_subscriptions per 100 inhabitants_: 82.21 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Tanzania&rsquo;s telecom services are being developed to reach parity with more advanced networks from neighboring countries such as Kenya and fierce competition exists amongst Tanzania's 5 major mobile network operators; one fixed-line operator with competition in mobile networks; high tariffs on telecom; mobile use remains popular, with the government subsidizing expansion of mobile networks into rural communities; most mobile networks rely on older 2G and 3G technology with 4G/LTE service available in urban centers; the government is currently testing 5G technology and plans to begin rolling out 5G service in 2024; the government continues to improve rural telecom infrastructure including work on a national fiber backbone network connecting the entire population (2022)<br>
@@ -650,10 +650,6 @@ according to statistics from the Tanzania Communications Regulatory Authority (T
 
 **Internet country code**<br>
 .tz<br>
-
-**Internet users**<br>
-_total_: 15.15 million (2021 est.)<br>
-_percent of population_: 25% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,135,608 (2021)<br>
@@ -755,7 +751,7 @@ Islamic State of Iraq and ash-Sham - Mozambique<br>
 <p>dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 127,009 (Burundi), 79,839 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 127,009 (Burundi), 80,599 (Democratic Republic of the Congo) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>

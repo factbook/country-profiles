@@ -645,10 +645,6 @@ government controls all domestic broadcast media; 2 state-controlled TV stations
 **Internet country code**<br>
 .mm<br>
 
-**Internet users**<br>
-_total_: 25.28 million (2022 est.)<br>
-_percent of population_: 45.9% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 688,185 (2021)<br>
 _subscriptions per 100 inhabitants_: 1.27 less than 1 (2021)<br>

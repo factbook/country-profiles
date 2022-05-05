@@ -618,10 +618,6 @@ national and local terrestrial TV channels, coupled with extensive cable TV netw
 **Internet country code**<br>
 .cl<br>
 
-**Internet users**<br>
-_total_: 17.7 million (2022 est.)<br>
-_percent of population_: 92% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 3,763,826 (2021)<br>
 _subscriptions per 100 inhabitants_: 19.69 (2021)<br>

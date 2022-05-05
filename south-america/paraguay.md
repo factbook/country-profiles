@@ -619,8 +619,8 @@ _total subscriptions_: 272,656 (2019)<br>
 _subscriptions per 100 inhabitants_: 3.87 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,761,848 (2019)<br>
-_subscriptions per 100 inhabitants_: 110.2 (2019 est.)<br>
+_total subscriptions_: 7,761,850 (2019)<br>
+_subscriptions per 100 inhabitants_: 110.18 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to telecom platform; monopolized fixed-line service; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; South Korean investment in education centers; operator enabled 109 free Internet points across the country and is looking to expand to 430 points in 2022; Inter-American Development Bank loan supports modernization within regulatory framework; dependent on neighboring countries for access to submarine cables; major importer of broadcasting equipment from the USA (2022)<br>
@@ -633,10 +633,6 @@ _international_: country code - 595; Paraguay's landlocked position means they m
 
 **Internet country code**<br>
 .py<br>
-
-**Internet users**<br>
-_total_: 4.92 million (2021 est.)<br>
-_percent of population_: 74.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 562,369 (2021)<br>

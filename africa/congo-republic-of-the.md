@@ -99,7 +99,7 @@ French (official), French Lingala and Monokutuba (lingua franca trade languages)
 _major-language sample(s)_: <br>Buku oyo ya bosembo ya Mokili Mobimba Ezali na Makanisi ya Liboso Mpenza. (Lingala)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 33.1%, Awakening Churches/Christian Revival 22.3%, Protestant 19.9%, Salutiste 2.2%, Muslim 1.6%, Kimbanguiste 1.5%, other 8.1%, none 11.3% (2010 est.)<br>
+Roman Catholic 33.1%, Awakening Churches/Christian Revival 22.3%, Protestant 19.9%, Salutiste 2.2%, Muslim 1.6%, Kimbanguiste 1.5%, other 8.1%, none 11.3% (2007 est.)<br>
 
 **Demographic profile**<br>
 <p>The Republic of the Congo is one of the most urbanized countries in Africa, with nearly 70% of Congolese living in urban areas.  The population is concentrated in the southwest of the country, mainly in the capital Brazzaville, Pointe-Noire, and along the railway line that connects the two.  The tropical jungles in the north of the country are sparsely populated.  Most Congolese are Bantu, and most belong to one of four main ethnic groups, the Kongo, Teke, Mbochi, and Sangha, which consist of over 70 subgroups.</p> <p>The Republic of Congo is in the early stages of a demographic transition, whereby a population shifts from high fertility and mortality rates to low fertility and mortality rates associated with industrialized societies.  Its total fertility rate (TFR), the average number of children born per woman, remains high at 4.4.  While its TFR has steadily decreased, the progress slowed beginning in about 1995.  The slowdown in fertility reduction has delayed the demographic transition and Congo’s potential to reap a demographic dividend, the economic boost that can occur when the share of the working-age population is larger than the dependent age groups. </p> <p>The TFR differs significantly between urban and rural areas – 3.7 in urban areas versus 6.5 in rural areas.  The TFR also varies among regions.  The urban regions of Brazzaville and Pointe-Noire have much lower TFRs than other regions, which are predominantly or completely rural.  The gap between desired fertility and actual fertility is also greatest in rural areas.  Rural families may have more children to contribute to agricultural production and/or due to a lack of information about and access to contraception.  Urban families may prefer to have fewer children because raising them is more expensive and balancing work and childcare may be more difficult.  The number of births among teenage girls, the frequency of giving birth before the age of fifteen, and a lack of education are the most likely reasons for higher TFRs in rural areas.  Although 90% of school-age children are enrolled in primary school, repetition and dropout rates are high and the quality of education is poor.  Congolese women with no or little education start having children earlier and have more children in total than those with at least some secondary education.</p> <p> </p><br>
@@ -213,7 +213,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 9.6% (2016)<br>
@@ -281,7 +281,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to restrictive measures related to the COVID‑19 pandemic - the negative impact of the restrictive measures related to the COVID‑19 pandemic on informal labor and on food supply chains, resulted, on one side, in the loss of income and, on the other, in high food prices due to a decline in food supply; these factors limited the access to food for the most vulnerable population (2021)<br>
@@ -639,10 +639,6 @@ _international_: country code - 242; WACS submarine cables to Europe and Western
 **Internet country code**<br>
 .cg<br>
 
-**Internet users**<br>
-_total_: 1.45 million (2022 est.)<br>
-_percent of population_: 25.4% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2021)<br>
 _subscriptions per 100 inhabitants_: 0.02 less than 1 (2021 est.)<br>
@@ -729,6 +725,6 @@ the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a small
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 28,985 (Central African Republic), 22,100 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 28,985 (Central African Republic), 22,108 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 304,430 (multiple civil wars since 1992) (2021)<br>
 

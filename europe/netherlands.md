@@ -611,8 +611,8 @@ _total subscriptions_: 4.937 million (2020)<br>
 _subscriptions per 100 inhabitants_: 28.81 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21.415 million (2020)<br>
-_subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
+_total subscriptions_: 21,914,852 (2019)<br>
+_subscriptions per 100 inhabitants_: 127.29 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: highly developed and well maintained; Dutch telecom market is gradually migrating to upgraded platforms; operators repurposing their spectrum and physical assets for LTE and 5G; one of the highest fixed broadband penetration rates in the world, with competition between DSL and fiber networks; fixed-line voice market is in decline while VoIP and mobile platforms advance; plans for 3G network shutdown in 2023; operators are concentrating investment on LTE-A and 5G services; operators and banks launch m-payments system; adoption of smart city concepts and technology in major cities; major exporter of broadcasting equipment and computers to Europe, and importer of same from China (2020)<br>
@@ -625,10 +625,6 @@ more than 90% of households are connected to cable or satellite TV systems that 
 
 **Internet country code**<br>
 .nl<br>
-
-**Internet users**<br>
-_total_: 16.47 million (2021 est.)<br>
-_percent of population_: 91.33% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 7,525,016 (2021)<br>

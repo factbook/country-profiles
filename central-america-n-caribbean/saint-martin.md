@@ -302,6 +302,10 @@ _electrification - total population_: 100% (2020)<br>
 
 ## Communications
 
+**Telephones - mobile cellular**<br>
+_total subscriptions_: 68,840 (2017)<br>
+_subscriptions per 100 inhabitants_: 195.54 (2019)<br>
+
 **Telecommunication systems**<br>
 _general assessment_: fully integrated access; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
 _domestic_: direct dial capability with both fixed and wireless systems (2018)<br>
@@ -313,10 +317,6 @@ _international_: country code - 590;&nbsp;landing points for the SMPR-1, Souther
 
 **Internet country code**<br>
 .mf; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered<br>
-
-**Internet users**<br>
-_total_: 7,339 (2021 est.)<br>
-_percent of population_: 3.5% (July 2016 est.)<br>
 
 ## Transportation
 

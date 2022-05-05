@@ -581,7 +581,7 @@ _subscriptions per 100 inhabitants_: 4.33 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 124,211 (2018)<br>
-_subscriptions per 100 inhabitants_: 63.58 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 63.58 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: development of infrastructure is hampered by geography of remote islands, vulnerable to devastating storms; telecom sector has been inhibited by lack of international connectivity; most households have at least one mobile phone; businesses in the capital area have access to broadband and Wi-Fi; rural islands have some access to Internet and Wi-Fi; liberalized regulatory infrastructure and competition in the mobile market increased coverage and reduced cost; access to submarine cables improved Internet data rates and reliability; Australian companies countering Chinese companies in the acquisition of Pacific operations; importer of broadcasting equipment from USA (2020)<br>
@@ -594,10 +594,6 @@ state-owned TV station privatized in 2008; 4 privately owned television broadcas
 
 **Internet country code**<br>
 .ws<br>
-
-**Internet users**<br>
-_total_: 67,000 (2021 est.)<br>
-_percent of population_: 33.61% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,692 (2021 est.)<br>

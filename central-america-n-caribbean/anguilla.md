@@ -425,10 +425,6 @@ _international_: country code - 1-264; landing points for the&nbsp;SSCS, ECFS, G
 **Internet country code**<br>
 .ai<br>
 
-**Internet users**<br>
-_total_: 12,400 (2022 est.)<br>
-_percent of population_: 81.6% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 5,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 33.33 (2021)<br>

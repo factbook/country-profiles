@@ -576,8 +576,8 @@ _total subscriptions_: 18,882 (2020)<br>
 _subscriptions per 100 inhabitants_: 19.2 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 183,498 (2020)<br>
-_subscriptions per 100 inhabitants_: 186.6 (2020 est.)<br>
+_total subscriptions_: 193,672 (2019)<br>
+_subscriptions per 100 inhabitants_: 198.15 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: effective system; direct international calls to over 100 countries; radiotelephone communications between islands in the archipelago; 3 ISPs; use of Internet cafes' for access to Internet; 4G services and 5G pending (2020)<br>
@@ -590,10 +590,6 @@ _international_: country code - 248; landing points for the PEACE and the SEAS s
 
 **Internet country code**<br>
 .sc<br>
-
-**Internet users**<br>
-_total_: 58,000 (2021 est.)<br>
-_percent of population_: 79% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 34,966 (2021)<br>

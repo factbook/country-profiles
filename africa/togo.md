@@ -620,8 +620,8 @@ _total subscriptions_: 46,499 (2020)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,516,510 (2020)<br>
-_subscriptions per 100 inhabitants_: 78.71 (2020 est.)<br>
+_total subscriptions_: 6,239,180 (2019)<br>
+_subscriptions per 100 inhabitants_: 77.2 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: system based on a network of microwave radio relay routes supplemented by open-wire lines and a mobile-cellular system; telecoms supply 8% of GDP; 3 mobile operators; 12% of residents have access to the Internet; mobile subscribers and mobile broadband both increasing (2020)<br>
@@ -634,10 +634,6 @@ _international_: country code - 228; landing point for the WACS submarine cable,
 
 **Internet country code**<br>
 .tg<br>
-
-**Internet users**<br>
-_total_: 1.99 million (2021 est.)<br>
-_percent of population_: 12.36% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 52,706 DSL, dedicated internet line, Wimax, WLL, FTTH (2021)<br>

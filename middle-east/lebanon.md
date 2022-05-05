@@ -603,7 +603,7 @@ _subscriptions per 100 inhabitants_: 12.83 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 4,288,221 (2020)<br>
-_subscriptions per 100 inhabitants_: 62.83 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 62.83 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: struggling with effects of the economic crisis compounded by the Covid-19 pandemic and the Port of Beirut explosion in 2020; Lebanon&rsquo;s telecom infrastructure is relatively weak and services are expensive; rural areas are less connected and experience frequent power cuts; state retains a monopoly over the Internet backbone and dominant ownership of the telecom industry; government backed improvements to fixed infrastructure; new landlines and fiber-optic networks provide faster DSL; limited 5G services; three international gateways through submarine cables; importer of broadcasting equipment from UAE; UAE investment in tech solutions (2020)<br>
@@ -616,10 +616,6 @@ _international_: country code - 961; landing points for the IMEWE, BERYTAR AND C
 
 **Internet country code**<br>
 .lb<br>
-
-**Internet users**<br>
-_total_: 5.31 million (2021 est.)<br>
-_percent of population_: 78.18% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 432,070 (2021)<br>

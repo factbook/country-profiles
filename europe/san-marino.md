@@ -497,10 +497,6 @@ state-owned public broadcaster operates 1 TV station and 3 radio stations; recei
 **Internet country code**<br>
 .sm<br>
 
-**Internet users**<br>
-_total_: 20,400 (2021 est.)<br>
-_percent of population_: 60.18% (2019 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 11,000 (2021)<br>
 _subscriptions per 100 inhabitants_: 32.42 (2021)<br>

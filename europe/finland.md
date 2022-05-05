@@ -616,10 +616,6 @@ a mix of 3 publicly operated TV stations and numerous privately owned TV station
 <p>.fi</p> <p> </p><br>
 note - Aland Islands assigned .ax<br>
 
-**Internet users**<br>
-_total_: 5.39 million (2022 est.)<br>
-_percent of population_: 97% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 1.846 million (2021)<br>
 _subscriptions per 100 inhabitants_: 33.32 (2021)<br>

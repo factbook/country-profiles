@@ -588,8 +588,8 @@ _total subscriptions_: 1,678,651 (2020)<br>
 _subscriptions per 100 inhabitants_: 34 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.89 million (2022)<br>
-_subscriptions per 100 inhabitants_: 97.8 (2022)<br>
+_total subscriptions_: 5,234,027 (2020)<br>
+_subscriptions per 100 inhabitants_: 106 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: infrastructure projects are underway, including the national plan to deliver fiber-based service of at least 150Mb/s nationally by the end of 2022; operators invested in fiber-based networks to deliver a 1Gb/s service to most premises, and on 5G to cover more than half of population; operator test of satellite broadband; Dublin is a smart city (2020)<br>
@@ -602,10 +602,6 @@ publicly owned broadcaster Radio Telefis Eireann (RTE) operates&nbsp;4 TV statio
 
 **Internet country code**<br>
 .ie<br>
-
-**Internet users**<br>
-_total_: 4.95 million (2022)<br>
-_percent of population_: 99% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,516,473 (2021)<br>

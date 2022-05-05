@@ -624,8 +624,8 @@ _total subscriptions_: 4,255,808 (2019)<br>
 _subscriptions per 100 inhabitants_: 3.94 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 167,322,432 (2019)<br>
-_subscriptions per 100 inhabitants_: 154.8 (2019 est.)<br>
+_total subscriptions_: 16,732,200 (2019)<br>
+_subscriptions per 100 inhabitants_: 154.76 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high unemployment and rural population impede investment in fixed infrastructure; dominance in the mobile segment and rapid development of mobile broadband; investment focused on fiber infrastructure in urban areas with 4G available in most areas; national broadband plan to improve connectivity in rural areas underway; data center and smart city pilot in Manila; submarine cable link and satellite improves telecom for the region; major exporter of integrated circuits to China, and importer of circuits and broadcasting equipment from China (2020)<br>
@@ -638,10 +638,6 @@ multiple national private TV and radio networks; multi-channel satellite and cab
 
 **Internet country code**<br>
 .ph<br>
-
-**Internet users**<br>
-_total_: 73.91 million (2021 est.)<br>
-_percent of population_: 43.03% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 7,936,574 (2021)<br>

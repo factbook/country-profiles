@@ -598,10 +598,6 @@ state-run TV and radio broadcast network plus a growing number of private broadc
 **Internet country code**<br>
 .cv<br>
 
-**Internet users**<br>
-_total_: 349,800 (2022 est.)<br>
-_percent of population_: 61.9% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 24,839 (2021)<br>
 _subscriptions per 100 inhabitants_: 4.47 (2021 est.)<br>

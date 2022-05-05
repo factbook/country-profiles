@@ -96,7 +96,7 @@ _noun_: Chinese (singular and plural)<br>
 _adjective_: Chinese<br>
 
 **Ethnic groups**<br>
-Han Chinese 91.6%, Zhuang 1.3%, other (includes Hui, Manchu, Uighur, Miao, Yi, Tujia, Tibetan, Mongol, Dong, Buyei, Yao, Bai, Korean, Hani, Li, Kazakh, Dai, and other nationalities) 7.1% (2010 est.)<br>
+Han Chinese 91.1%, ethnic minorities 8.9% (includes Zhang, Hui, Manchu, Uighur, Miao, Yi, Tujia, Tibetan, Mongol, Dong, Buyei, Yao, Bai, Korean, Hani, Li, Kazakh, Dai, and other nationalities) (2021 est.)<br>
 <strong>note:</strong> the Chinese Government officially recognizes 56 ethnic groups<br>
 
 **Languages**<br>
@@ -104,7 +104,7 @@ Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect)
 _major-language sample(s)_: <br>世界概況  –  不可缺少的基本消息來源 (Standard Chinese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-folk religion 21.9%, Buddhist 18.3%, Christian 5.2%, Muslim 2%, Hindu &lt; 0.1%, Jewish &lt; 0.1%, other 0.7% (includes Daoist (Taoist)), unaffiliated 51.8% (2020 est.)<br>
+folk religion 21.9%, Buddhist 18.2%, Christian 5.1%, Muslim 1.8%, Hindu &lt; 0.1%, Jewish &lt; 0.1%, other 0.7% (includes Daoist (Taoist)), unaffiliated 52.1% (2021 est.)<br>
 <strong>note:</strong> officially atheist<br>
 
 **Age structure**<br>
@@ -644,20 +644,15 @@ _total subscriptions_: 1,696,356,000 (2020)<br>
 _subscriptions per 100 inhabitants_: 117.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: China has the largest Internet market in the world with almost all subscribers accessing Internet through mobile devices; market is driven through government-allied investment; fast-developing data center market; government aims to provide universal and affordable broadband coverage through market competition and private investment in state-controlled enterprises; 3G and LTE subscribers will migrate to 5G aiming for 1M 5G base stations; government strengthens IoT policies to boost economic growth; China is pushing development of smart cities beyond Beijing; Beijing residents carry virtual card integrating identity, social security, health, and education documents; government controls gateways to global Internet through censorship, surveillance, and shut-downs; major exporter of broadcasting equipment world-wide (2020)<br>
+_general assessment_: China has the largest Internet market in the world with almost all subscribers accessing Internet through mobile devices; market is driven through government-allied investment; fast-developing data center market; government aims to provide universal and affordable broadband coverage through market competition and private investment in state-controlled enterprises; 3G and LTE subscribers will migrate to 5G aiming for 2 million 5G base stations by the end of 2022; government strengthens IoT policies to boost economic growth; China is pushing development of smart cities beyond Beijing; Beijing residents carry virtual card integrating identity, social security, health, and education documents; government controls gateways to global Internet through censorship, surveillance, and shut-downs; major exporter of broadcasting equipment world-wide (2022)<br>
 _domestic_: nearly 13 per 100 fixed line and 118 per 100 mobile-cellular; a domestic satellite system with several earth stations has been in place since 2018 (2020)<br>
 _international_: country code - 86;&nbsp;landing points for the RJCN, EAC-C2C, TPE, APCN-2, APG, NCP, TEA, SeaMeWe-3, SJC2, Taiwan Strait Express-1, AAE-1, APCN-2, AAG, FEA, FLAG and TSE&nbsp;submarine cables providing connectivity to Asia, the Middle East, Europe, and the US; satellite earth stations - 7 (5 Intelsat - 4 Pacific Ocean and 1 Indian Ocean; 1 Intersputnik - Indian Ocean region; and 1 Inmarsat - Pacific and Indian Ocean regions) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-all broadcast media are owned by, or affiliated with, the Communist Party of China or a government agency; no privately owned TV or radio stations; state-run Chinese Central TV, provincial, and municipal stations offer more than 2,000 channels; the Central Propaganda Department sends directives to all domestic media outlets to guide its reporting with the government maintaining authority to approve all programming; foreign-made TV programs must be approved prior to broadcast; increasingly, Chinese turn to online and satellite television to access Chinese and international films and television shows (2019)<br>
+all broadcast media are owned by, or affiliated with, the Chinese Communisty Party (CCP) or a government agency; no privately owned TV or radio stations; state-run Chinese Central TV, provincial, and municipal stations offer more than 2,000 channels; the Central Propaganda Department as well as local (provincial, municipal) sends directives to all domestic media outlets to guide its reporting with the government maintaining authority to approve all programming; foreign-made TV programs must be approved/censored prior to broadcast; increasingly, PRC nationals turn to online platforms (Bilibili, Tencent Video, iQiyi, etc) to access PRC and international films and television shows.&nbsp; Video platforms have to abide by regulations issued by the Cyberspace Administration of China (CAC), which align with censorship policies from CCP propaganda authorities. (2022)<br>
 
 **Internet country code**<br>
 .cn<br>
-
-**Internet users**<br>
-_total_: 1.02 billion (2022 est.)<br>
-_percent of population_: 70.9% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 483,549,500 (2021)<br>
@@ -700,15 +695,15 @@ _under 914 m_: 13 (2021)<br>
 76000 km gas, 30400 km crude oil, 27700 km refined petroleum products, 797000 km water (2018)<br>
 
 **Railways**<br>
-_total_: 131,000 km 1.435-m gauge (80,000 km electrified); 102,000 traditional, 29,000 high-speed (2018)<br>
+_total_: 50,000 km 1.435-m gauge (100,000 km electrified); 104,0000 traditional, 29,000 high-speed (2018)<br>
 
 **Roadways**<br>
-_total_: 4,960,600 km (2017)<br>
-_paved_: 4,338,600 km (includes 136,500 km of expressways) (2017)<br>
+_total_: 45.2 million km (2017)<br>
+_paved_: 4.578 million km (includes 168000 km of expressways) (2017)<br>
 _unpaved_: 622,000 km (2017)<br>
 
 **Waterways**<br>
-110,000 km (navigable waterways) (2011)<br>
+27,700 km (navigable waterways) (2011)<br>
 
 **Merchant marine**<br>
 _total_: 6,662<br>

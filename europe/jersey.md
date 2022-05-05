@@ -413,8 +413,8 @@ _total subscriptions_: 48,310 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 124,262 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 115 (2020 est.)<br>
+_total subscriptions_: 122,668 (2016)<br>
+_subscriptions per 100 inhabitants_: 119 (2016)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good system with broadband access (2018)<br>
@@ -427,10 +427,6 @@ multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey; 
 
 **Internet country code**<br>
 .je<br>
-
-**Internet users**<br>
-_total_: 100,300 (2021 est.)<br>
-_percent of population_: 41.03% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 39,699 NA (2020)<br>

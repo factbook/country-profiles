@@ -614,10 +614,6 @@ _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus C
 **Internet country code**<br>
 .am<br>
 
-**Internet users**<br>
-_total_: 1.98 million (2022 est.)<br>
-_percent of population_: 66.5% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 430,407 (2021)<br>
 _subscriptions per 100 inhabitants_: 14.52 (2021 est.)<br>

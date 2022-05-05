@@ -630,8 +630,8 @@ _total subscriptions_: 5.003 million (2020)<br>
 _subscriptions per 100 inhabitants_: 7.17 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 116.294 million (2020)<br>
-_subscriptions per 100 inhabitants_: 166.6 (2020 est.)<br>
+_total subscriptions_: 129.614 million (2019)<br>
+_subscriptions per 100 inhabitants_: 186.16 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high-quality system, especially in urban areas; mobile and mobile broadband penetration are on the increase; FttH has strong growth in cities; 4G-LTE available with adoption of 5G services; seven smart cities with aim for 100 smart cities by 2024; one of the biggest e-commerce markets in Southeast Asia; fixed-broadband and mobile marketplace on par with other developed Asian markets; development of Asian data center underway; Internet connectivity supported by international bandwidth to Singapore, Malaysia, and Hong Kong, and terrestrial cables with neighboring countries; two more submarine cables under construction with anticipated landings in 2022; government restricts Internet and freedom of press, with additional constraints in response to pandemic-related criticism in 2020; importer of broadcasting equipment and integrated circuits from China and export of same to neighboring countries in Asia (2020)<br>
@@ -644,10 +644,6 @@ _international_: country code - 66; landing points for the AAE-1, FEA, SeaMeWe-3
 
 **Internet country code**<br>
 .th<br>
-
-**Internet users**<br>
-_total_: 48.59 million (2021 est.)<br>
-_percent of population_: 77.84% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 11,478,265 (2021)<br>

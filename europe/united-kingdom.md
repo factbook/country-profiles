@@ -607,8 +607,8 @@ _total subscriptions_: 32.078 million (2020)<br>
 _subscriptions per 100 inhabitants_: 47.25 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 79.007 million (2020)<br>
-_subscriptions per 100 inhabitants_: 116.4 (2020 est.)<br>
+_total subscriptions_: 80.967 million (2019)<br>
+_subscriptions per 100 inhabitants_: 119.9 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: UK&rsquo;s telecom market remains one of the largest in Europe, characterized by competition, affordable pricing, and its technologically advanced systems; mobile penetration above the EU average; government to invest in infrastructure and 5G technologies with ambition for a fully-fibered nation by 2033; operators expanded the reach of 5G services in 2020; super-fast broadband available to about 95% of customers; London is developing smart city technology, in collaboration with private, tech, and academic sectors; in 2020 the UK Government banned Chinese company Huawei's 5G equipment from the UK's 5G networks following advisement from the National Cyber Security Centre (NCSC); importer of broadcasting equipment from China (2020)<br>
@@ -621,10 +621,6 @@ public service broadcaster, British Broadcasting Corporation (BBC), is the large
 
 **Internet country code**<br>
 .uk<br>
-
-**Internet users**<br>
-_total_: 65.32 million (2021 est.)<br>
-_percent of population_: 94.82% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 27,330,297 (2021)<br>

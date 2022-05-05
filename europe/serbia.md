@@ -625,8 +625,8 @@ _total subscriptions_: 2,572,169 (2020)<br>
 _subscriptions per 100 inhabitants_: 37.43 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,260,758 (2020)<br>
-_subscriptions per 100 inhabitants_: 120.2 (2020 est.)<br>
+_total subscriptions_: 8,453,890 (2019)<br>
+_subscriptions per 100 inhabitants_: 96.37 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Serbia's integration with the EU helped regulator reforms and promotion of telecom; EU development loans for broadband to rural areas; pandemic spurred use of mobile data and other services; wireless service is available through multiple providers; national coverage is growing rapidly; best telecom services are centered in urban centers; 4G/LTE mobile network launched; 5G tests ongoing with Ericsson and Huawei (2020)<br>
@@ -636,10 +636,6 @@ _international_: country code - 381<br>
 
 **Internet country code**<br>
 .rs<br>
-
-**Internet users**<br>
-_total_: 6.89 million (2021 est.)<br>
-_percent of population_: 78.37% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,730,496 (2021)<br>
@@ -731,7 +727,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 _refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 825,892 estimated refugee and migrant arrivals (January 2015-April 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
+<strong>note:</strong> 827,464 estimated refugee and migrant arrivals (January 2015-April 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

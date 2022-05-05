@@ -101,7 +101,7 @@ French (official), Lingala (a lingua franca trade language), Kingwana (a dialect
 _major-language sample(s)_: <br>Buku oyo ya bosembo ya Mokili Mobimba Ezali na Makanisi ya Liboso Mpenza. (Lingala)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 29.9%, Protestant 26.7%, other Christian 36.5%, Kimbanguist 2.8%, Muslim 1.3%, other (includes syncretic sects and indigenous beliefs) 1.2%, none 1.3%, unspecified .2% (2014 est.)<br>
+Roman Catholic 29.9%, Protestant 26.7%, other Christian 36.5%, Kimbanguist 2.8%, Muslim 1.3%, other (includes syncretic sects and indigenous beliefs) 1.2%, none 1.3%, unspecified 0.2% (2014 est.)<br>
 
 **Demographic profile**<br>
 <p>Despite a wealth of fertile soil, hydroelectric power potential, and mineral resources, the Democratic Republic of the Congo (DRC) struggles with many socioeconomic problems, including high infant and maternal mortality rates, malnutrition, poor vaccination coverage, lack of access to improved water sources and sanitation, and frequent and early fertility. Ongoing conflict, mismanagement of resources, and a lack of investment have resulted in food insecurity; almost 30 percent of children under the age of 5 are malnourished. The overall coverage of basic public services – education, health, sanitation, and potable water – is very limited and piecemeal, with substantial regional and rural/urban disparities. Fertility remains high at almost 5 children per woman and is likely to remain high because of the low use of contraception and the cultural preference for larger families.</p><p>The DRC is a source and host country for refugees. Between 2012 and 2014, more than 119,000 Congolese refugees returned from the Republic of Congo to the relative stability of northwest DRC, but more than 540,000 Congolese refugees remained abroad as of year-end 2015. In addition, an estimated 3.9 million Congolese were internally displaced as of October 2017, the vast majority fleeing violence between rebel group and Congolese armed forces. Thousands of refugees have come to the DRC from neighboring countries, including Rwanda, the Central African Republic, and Burundi.</p><br>
@@ -215,7 +215,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria, dengue fever, and trypanosomiasis-gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.7% (2016)<br>
@@ -288,7 +288,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A, an
 _vectorborne diseases_: malaria, dengue fever, and trypanosomiasis-gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to persistent civil insecurity and COVID-19 restrictions - 27.3 million people are estimated to be severely food insecure in the February&minus;July 2021 period, the highest level on record; this is due to the severe impact of movement restrictions related to the COVID‑19 pandemic which continue to limit cross‑border trade and access to markets, and the ongoing conflict in eastern provinces, which triggered population displacements and locally disrupt crop production, resulting in shortages of food supplies in some markets; the eruption, on 22 May 2021, of the Nyiragongo volcano, in North Kivu Province, caused the further displacement of about 415,000 people (2021)<br>
@@ -655,10 +655,6 @@ state-owned TV broadcast station with near national coverage; more than a dozen 
 
 **Internet country code**<br>
 .cd<br>
-
-**Internet users**<br>
-_total_: 16.5 million (2022 est.)<br>
-_percent of population_: 17.6% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 31,000 (2021 est.)<br>

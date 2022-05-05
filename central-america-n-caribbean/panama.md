@@ -355,7 +355,7 @@ Alliance Party or PA [Jose MUNOZ Molina]<br>Alternative Independent Socialist Pa
 BCIE, CAN (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNASUR (observer), UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Laura CASTRO Grimaldo (since December 2021)<br>
 _chancery_: 2862 McGill Terrace NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 483-1407<br>
 _FAX_: [1] (202) 483-8413<br>
@@ -363,7 +363,7 @@ _email address and website_: <br>info@embassyofpanama.org<br><br>https://www.emb
 _consulate(s) general_: Houston, Miami, Los Angeles, New Orleans, New York, Philadelphia, Tampa, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant), Charge d'Affairs Steward TUTTLE (since August 2020)<br>
+_chief of mission_: Ambassador (vacant), Charge d'Affairs Stewart TUTTLE (since August 2020)<br>
 _embassy_: Building 783, Demetrio Basilio Lakas Avenue, Clayton<br>
 _mailing address_: 9100 Panama City PL, Washington, DC 20521-9100<br>
 _telephone_: [507] 317-5000<br>
@@ -611,8 +611,8 @@ _total subscriptions_: 616,698 (2020)<br>
 _subscriptions per 100 inhabitants_: 14.29 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,708,163 (2020)<br>
-_subscriptions per 100 inhabitants_: 132.3 (2020 est.)<br>
+_total subscriptions_: 5,599,010 (2019)<br>
+_subscriptions per 100 inhabitants_: 131.85 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: domestic and international facilities well-developed; steady increase in telecom revenue with effective competition; mobile connections account for 90% of connections; government-funded program to improve Internet infrastructure; connectivity through two submarine cables; launch of LTE services; Chinese company Huawei investment in bandwidth technologies; importer of broadcasting equipment from China (2020)<br>
@@ -625,10 +625,6 @@ multiple privately owned TV networks and a government-owned educational TV stati
 
 **Internet country code**<br>
 .pa<br>
-
-**Internet users**<br>
-_total_: 2.82 million (2021 est.)<br>
-_percent of population_: 63.63% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 562,413 (2021 est.)<br>

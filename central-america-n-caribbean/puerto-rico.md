@@ -543,8 +543,8 @@ _total subscriptions_: 711,512 (2020)<br>
 _subscriptions per 100 inhabitants_: 24.87 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,483,570 (2020)<br>
-_subscriptions per 100 inhabitants_: 121.8 (2020 est.)<br>
+_total subscriptions_: 3,371,970 (2019)<br>
+_subscriptions per 100 inhabitants_: 114.95 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: small telecom market affected by mismanagement and natural disasters; hurricanes in 2017 and earthquake in 2020 caused destruction of telecom infrastructure, leading to market decline; US provided funds to rebuild after some delay; lags behind US in fixed and broadband penetration due to high unemployment and lack of operator investment; multi-national telcoms enable LTE and launch of 5G; growing number of submarine cables helps to reduce costs and supports streaming of international content and cloud services; operator launched connectivity for school children during pandemic (2020)<br>
@@ -557,10 +557,6 @@ more than 30 TV stations operating; cable TV subscription services are available
 
 **Internet country code**<br>
 .pr<br>
-
-**Internet users**<br>
-_total_: 2.21 million (2021 est.)<br>
-_percent of population_: 77.74% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 671,284 (2021)<br>

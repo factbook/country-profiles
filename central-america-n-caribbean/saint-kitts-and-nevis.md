@@ -541,7 +541,7 @@ _subscriptions per 100 inhabitants_: 33.23 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 76,878 (2018)<br>
-_subscriptions per 100 inhabitants_: 147.7 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 147.71 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
@@ -554,10 +554,6 @@ the government operates a national TV network that broadcasts on 2 channels; cab
 
 **Internet country code**<br>
 .kn<br>
-
-**Internet users**<br>
-_total_: 43,100 (2021 est.)<br>
-_percent of population_: 80.71% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 30,000 (2021 est.)<br>

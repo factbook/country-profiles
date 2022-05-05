@@ -95,7 +95,7 @@ Spanish (Castilian) 93% (official), Quechua 4.1%, other indigenous 0.7%, foreign
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 68.8%, Evangelical 15.4%, Adventist 1.2%, Jehovah's Witness 1%, other 1.3%, agnostic or atheist 1.4%, none 10.1%, don't know/no response 1%<br> (2020 est.)<br>
+Roman Catholic 68.8%, Evangelical 15.4%, Adventist 1.2%, Jehovah's Witness 1%, other 1.3%, agnostic or atheist 1.4%, none 10.1%, don't know/no response 1% (2020 est.)<br>
 <strong>note:</strong> data represent persons at least 16 years of age from five Ecuadoran cities<br>
 
 **Demographic profile**<br>
@@ -633,11 +633,6 @@ the Communication Council, an official entity, carried out a media registry in D
 
 **Internet country code**<br>
 .ec<br>
-
-**Internet users**<br>
-_total_: 13.6 million (2022 est.)<br>
-_percent of population_: 75.6% (2022 est.)<br>
-according to 2021 statistics from Ecuador's Ministry of Telecommunications and Information Society, 50% of homes do not have access to fixed internet<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,371,297 (2021)<br>

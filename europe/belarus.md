@@ -627,10 +627,6 @@ _international_: country code - 375; Belarus is landlocked and therefore a membe
 **Internet country code**<br>
 .by<br>
 
-**Internet users**<br>
-_total_: 8.03 million (2022 est.)<br>
-_percent of population_: 85.1% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 3,255,552 (2021)<br>
 _subscriptions per 100 inhabitants_: 34.45 (2021 est.)<br>
@@ -719,7 +715,7 @@ note - conscripts can be assigned to the military, as well as the Ministry of In
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,578 (Ukraine) (as of 25 April 2022)<br>
+_refugees (country of origin)_: 25,852 (Ukraine) (as of 3 May 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

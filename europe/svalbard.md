@@ -306,9 +306,6 @@ the Norwegian Broadcasting Corporation (NRK) began direct TV transmission to Sva
 **Internet country code**<br>
 .sj<br>
 
-**Internet users**<br>
-_total_: 1,542 includes usage for Jan Mayen (2021 est.)<br>
-
 ## Transportation
 
 **Airports**<br>

@@ -654,10 +654,6 @@ state-run Radiobras operates a radio and a TV network; more than 1,000 radio sta
 **Internet country code**<br>
 .br<br>
 
-**Internet users**<br>
-_total_: 165.3 million (2022 est.)<br>
-_percent of population_: 77% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 36,344,670 The value presented includes subscriptions with speeds less than 256 kbit/s. (2021)<br>
 _subscriptions per 100 inhabitants_: 17.1 (2021 est.)<br>

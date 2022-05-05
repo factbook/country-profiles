@@ -611,8 +611,8 @@ _total subscriptions_: 223,469 (2020)<br>
 _subscriptions per 100 inhabitants_: 7.77 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,618,880 (2020)<br>
-_subscriptions per 100 inhabitants_: 91 (2020 est.)<br>
+_total subscriptions_: 2,618,880 (2021)<br>
+_subscriptions per 100 inhabitants_: 91 (2021)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Albania&rsquo;s small telecom market has improved through signatory status of EU accession plan; EU financial aid will build infrastructure and enhance cooperation; operator committed &euro;100 million to upgrade fixed-line infrastructure, supporting broadband services nationally; consistent with the region, fixed-line telephony use and penetration is declining as subscribers prefer mobile solutions; mobile sector is supported through LTE networks; operators have invested in 5G, including the intention to create a corridor with Kosovo; importer of broadcasting equipment from EU neighbors (2021)<br>
@@ -625,10 +625,6 @@ Albania has more than 65 TV stations, including several that broadcast nationall
 
 **Internet country code**<br>
 .al<br>
-
-**Internet users**<br>
-_total_: 2.07 million (2022 est.)<br>
-_percent of population_: 72.2% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 508,937 (2021)<br>

@@ -623,10 +623,6 @@ state-owned TV broadcaster operates 2 TV networks with relays throughout the cou
 **Internet country code**<br>
 .my<br>
 
-**Internet users**<br>
-_total_: 27.43 million (2021 est.)<br>
-_percent of population_: 89.56% (2020 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 3,358,800 (2021)<br>
 _subscriptions per 100 inhabitants_: 10.38 (2021 est.)<br>

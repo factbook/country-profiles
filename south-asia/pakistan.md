@@ -213,7 +213,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _animal contact diseases_: rabies<br>
-<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 30 March 2022, Pakistan has reported a total of 1,524,355 cases of COVID-19 or 690.09 cumulative cases of COVID-19 per 100,000 population with a total of 30,347 cumulative deaths or a rate of 13.73 cumulative deaths per 100,000 population; as of 29 March 2022, 56.87% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 30 March 2022, Pakistan has reported a total of 1,524,355 cases of COVID-19 or 690.09 cumulative cases of COVID-19 per 100,000 population with a total of 30,347 cumulative deaths or a rate of 13.73 cumulative deaths per 100,000 population; as of 29 March 2022, 56.87% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus (the other is Afghanistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
@@ -285,7 +285,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _animal contact diseases_: rabies<br>
-<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 30 March 2022, Pakistan has reported a total of 1,524,355 cases of COVID-19 or 690.09 cumulative cases of COVID-19 per 100,000 population with a total of 30,347 cumulative deaths or a rate of 13.73 cumulative deaths per 100,000 population; as of 29 March 2022, 56.87% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 30 March 2022, Pakistan has reported a total of 1,524,355 cases of COVID-19 or 690.09 cumulative cases of COVID-19 per 100,000 population with a total of 30,347 cumulative deaths or a rate of 13.73 cumulative deaths per 100,000 population; as of 29 March 2022, 56.87% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus (the other is Afghanistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to population displacements, economic constraints, and high prices of the main food staple - the main causes of food insecurity in the country are limited livelihood opportunities, high food prices, and recurrent natural disasters, amplified by the COVID‑19 pandemic; severe floods in August 2020 in Sindh Province affected the livelihoods of about 2 million people and caused severe damage to housing and infrastructure; in addition, prices of wheat flour, the country&rsquo;s main staple, were at high levels in most markets in May 2021, constraining access to food of the most vulnerable households; Pakistan hosts large numbers of registered and unregistered Afghan refugees; most of these people are in need of humanitarian assistance and are straining the already limited resources of the host communities; poverty levels have increased due to losses of income-generating opportunities (2021)<br>
@@ -643,7 +643,7 @@ _total subscriptions_: 2,876,794 (2020)<br>
 _subscriptions per 100 inhabitants_: 1.3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 165,405,847<br>
+_total subscriptions_: 165.406 million (2019)<br>
 _subscriptions per 100 inhabitants_: 76.38 (2019 est.)<br>
 
 **Telecommunication systems**<br>
@@ -657,10 +657,6 @@ television is the most popular and dominant source of news in Pakistan with over
 
 **Internet country code**<br>
 .pk<br>
-
-**Internet users**<br>
-_total_: 61.34 million (2021 est.)<br>
-_percent of population_: 17.07% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,523,027 (2021)<br>

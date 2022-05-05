@@ -585,7 +585,7 @@ _subscriptions per 100 inhabitants_: 23.95 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6.02 million (2018)<br>
-_subscriptions per 100 inhabitants_: 91.48 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 91.48 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: political and security instability in Libya has disrupted its telecom sector; much of its infrastructure remains superior to that in most other African countries; rival operators fight for control; investment in fiber backbone and upgrades to international cables; limited LTE and 5G service; some satellite broadband; Chinese companies have heavily invested in Libyan infrastructure and now dominate the telecommunications sector; in 2021 Libya signed deals and projects with US firms to upgrade portions of its infrastructure, increasing the diversity of its telecommunications networks (2021)<br>
@@ -598,10 +598,6 @@ state-funded and private TV stations; some provinces operate local TV stations; 
 
 **Internet country code**<br>
 .ly<br>
-
-**Internet users**<br>
-_total_: 3.19 million (2021 est.)<br>
-_percent of population_: 21.76% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 33,200 (2021 est.)<br>

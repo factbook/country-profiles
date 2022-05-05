@@ -599,8 +599,8 @@ _total subscriptions_: 616,148 (2020)<br>
 _subscriptions per 100 inhabitants_: 11.29 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,289,707 (2020)<br>
-_subscriptions per 100 inhabitants_: 133.5 (2020 est.)<br>
+_total subscriptions_: 7,399,530 (2019)<br>
+_subscriptions per 100 inhabitants_: 135.6 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a modern telecom system; one operator has near monopoly of fixed-line market; competition in mobile- and fixed-broadband market; broadband growth in recent years; competition among DSL, cable, and fiber platforms; FttP growth in cities; operator launched 1Gb/s cable broadband service in 3 cities and 200,000 premises in 2019; EU funding for development and improvement of e-government and online services; regulator prepared groundwork for 5G services in 2020 (2020)<br>
@@ -613,10 +613,6 @@ state-owned public broadcaster, Radio and Television of Slovakia (RTVS), operate
 
 **Internet country code**<br>
 .sk<br>
-
-**Internet users**<br>
-_total_: 4.64 million (2021 est.)<br>
-_percent of population_: 89.92% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,701,561 (2021)<br>
@@ -702,7 +698,7 @@ Slovakia officially became a member of NATO in 2004<br><br>in 2022, Slovakia agr
 <p>bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 357,560 (Ukraine) (as of 25 April 2022)<br>
+_refugees (country of origin)_: 385,284 (Ukraine) (as of 3 May 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

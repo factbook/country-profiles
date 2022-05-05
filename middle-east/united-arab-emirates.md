@@ -600,8 +600,8 @@ _total subscriptions_: 2,380,866 (2020)<br>
 _subscriptions per 100 inhabitants_: 24.07 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 18,374,332 (2020)<br>
-_subscriptions per 100 inhabitants_: 185.8 (2020 est.)<br>
+_total subscriptions_: 19,602,800 (2019)<br>
+_subscriptions per 100 inhabitants_: 200.63 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the world&rsquo;s most connected countries with modern infrastructure and record Internet, broadband, and mobile use; low-cost smartphones drive mobile-broadband penetration; LTE networks cover most of the population with launch of 5G in partnership with Chinese company ZTE; submarine cables connect to South Africa, Middle East, Pakistan, and Europe; ISPs are fully or partially owned by state, allowing control over flow of information; during pandemic, there was a surge of Internet use from home, with temporary government relaxation of restrictions on streaming such as Zoom, Skype, and Microsoft Teams; government censorship and surveillance of online platforms; service prices are highest in the region, yet affordable for population&rsquo;s affluent users; government launched free digital platforms for students; Dubai and Abu Dhabi are smart cities with government plan to digitize services across country; major importer of broadcasting equipment from China and exporter of broadcasting equipment to Iraq and Saudi Arabia (2020)<br>
@@ -614,10 +614,6 @@ except for the many organizations now operating in media free zones in Abu Dhabi
 
 **Internet country code**<br>
 .ae<br>
-
-**Internet users**<br>
-_total_: 9.94 million (2021 est.)<br>
-_percent of population_: 100% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,245,123 (2021)<br>

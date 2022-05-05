@@ -97,7 +97,7 @@ Bangla 98.8% (official, also known as Bengali), other 1.2% (2011 est.)<br>
 _major-language sample(s)_: <p><br>বিশ্ব ফ্যাক্টবুক, মৌলিক তথ্যের অপরিহার্য উৎস (Bangla)</p> <br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 88.4%, other 11.6% (2018 est.)<br>
+Muslim 88.4%, other 11.6% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 26.48% (male 21,918,651/female 21,158,574)<br>
@@ -646,10 +646,6 @@ state-owned Bangladesh Television (BTV) broadcasts throughout the country. Some 
 
 **Internet country code**<br>
 .bd<br>
-
-**Internet users**<br>
-_total_: 52.58 million (2022 est.)<br>
-_percent of population_: 31.5% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 10,052,819 Data through June 2021. (2021)<br>

@@ -595,8 +595,8 @@ _total subscriptions_: 2,720 (2020)<br>
 _subscriptions per 100 inhabitants_: 1.24 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 174,203 (2020)<br>
-_subscriptions per 100 inhabitants_: 79.49 (2020 est.)<br>
+_total subscriptions_: 165,761 (2019)<br>
+_subscriptions per 100 inhabitants_: 77.08 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: local telephone network of adequate quality with most lines connected to digital switches; mobile cellular superior choice to landland; dial-up quality low; broadband expensive (2018)<br>
@@ -609,10 +609,6 @@ _international_: country code - 239; landing points for the Ultramar GE and ACE 
 
 **Internet country code**<br>
 .st<br>
-
-**Internet users**<br>
-_total_: 65,000 (2020 est.)<br>
-_percent of population_: 29.93% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,512 (2021)<br>

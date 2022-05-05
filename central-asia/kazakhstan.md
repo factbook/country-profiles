@@ -614,8 +614,8 @@ _total subscriptions_: 2,616,500 (2020)<br>
 _subscriptions per 100 inhabitants_: 16.55 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 25.177 million (2020)<br>
-_subscriptions per 100 inhabitants_: 134.1 (2020 est.)<br>
+_total subscriptions_: 25.117 million (2020)<br>
+_subscriptions per 100 inhabitants_: 134.1 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the most progressive telecom sectors in Central Asia; vast 4G network; low fixed-line and fixed-broadband penetration; moderate mobile broadband penetration and high mobile penetration depending on location; mobile market highly competitive and growth is slow due to saturation (2020)<br>
@@ -628,10 +628,6 @@ the state owns nearly all radio and TV transmission facilities and operates nati
 
 **Internet country code**<br>
 .kz<br>
-
-**Internet users**<br>
-_total_: 15.47 million (2021 est.)<br>
-_percent of population_: 85.94% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,620,400 (2021)<br>

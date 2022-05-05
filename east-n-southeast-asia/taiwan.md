@@ -528,8 +528,8 @@ _total subscriptions_: 12,750,429 (2020)<br>
 _subscriptions per 100 inhabitants_: 53.54 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 29,351,150 (2020)<br>
-_subscriptions per 100 inhabitants_: 123.2 (2020 est.)<br>
+_total subscriptions_: 29,291,500 (2019)<br>
+_subscriptions per 100 inhabitants_: 123.21 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: dynamic telecommunications industry defined by excellent infrastructure and competitive mobile market; solid availability of fixed and mobile broadband networks; investors attracted to regulatory certainty, market maturity, an educated workforce, and ICT sector at the heart of economic development; 4G LTE service with fiber is the most popular platform; 5G to 80% of subscribers; government funds development of 5G and IoT market; concerns include China&rsquo;s efforts to influence media and ICT policy (2020)<br>
@@ -542,10 +542,6 @@ _international_: country code - 886; landing points for the EAC-C2C,&nbsp;APCN-2
 
 **Internet country code**<br>
 .tw<br>
-
-**Internet users**<br>
-_total_: 21.45 million (2021 est.)<br>
-_percent of population_: 88.96% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,049,909 (2021)<br>

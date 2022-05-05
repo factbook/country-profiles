@@ -258,9 +258,10 @@ see United Kingdom<br>
 
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor John J. RANKIN (since 29 January 2021)<br>
-_head of government_: Premier Andrew FAHIE (since 26 February 2019)<br>
+_head of government_: Acting Premier Dr. Natalio WHEATLEY (since 28 April 2022)<br>
 _cabinet_: Executive Council appointed by the governor from members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
+<strong>note -</strong> Premier Andrew FAHIE was arrested on drug trafficking and money laundering charges on 28 April 2022 and removed as premier<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (15 seats; 13 members - 9 in single-seat constituencies and 4 at-large seats directly elected by simple majority vote and 2 ex-officio members - the attorney general and the speaker - chosen from outside the House; members serve 4-year terms)<br>
@@ -493,10 +494,6 @@ _international_: country code - 1-284; landing points for PCCS, ECFS, CBUS, Deep
 
 **Internet country code**<br>
 .vg<br>
-
-**Internet users**<br>
-_total_: 23,700 (2022 est.)<br>
-_percent of population_: 77.7% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,738 (2021)<br>

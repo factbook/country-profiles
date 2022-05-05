@@ -271,7 +271,7 @@ _history_: several previous (governance documents while under British authority)
 _amendments_: proposed by the Standing Committee of the National People&rsquo;s Congress (NPC), the People&rsquo;s Republic of China State Council, or the Special Administrative Region of Hong Kong; submittal of proposals to the NPC requires two-thirds majority vote by the Legislative Council of Hong Kong, approval by two thirds of Hong Kong&rsquo;s deputies to the NPC, and approval by the Hong Kong chief executive; final passage requires approval by the NPC<br>
 
 **Legal system**<br>
-mixed legal system of common law based on the English model and Chinese customary law (in matters of family and land tenure)<br>
+mixed legal system of common law based on the English model and Chinese customary law (in matters of family and land tenure); PRC imposition of National Security Law incorporates elements of Chinese civil law<br>
 
 **Citizenship**<br>
 see China<br>
@@ -284,13 +284,13 @@ _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive Carrie LAM (since 1 July 2017)<br>
 _cabinet_: Executive Council or ExCo appointed by the chief executive<br>
 _elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 17 March 2018 (next to be held in March 2023); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term); election last held on 26 March 2017 (next to be held on 8 May 2022)<br>
-_election results_: Carrie LAM elected chief executive; Election Committee vote - Carrie LAM 777, John TSANG 365, WOO Kwok-hing 21, invalid 23<br>
-<strong>note:</strong> the Legislative Council voted in June 2010 to expand the Election Committee to 1,200 members<br>
+_election results_: Carrie LAM elected chief executive in 2017; Election Committee vote - Carrie LAM 777, John TSANG 365, WOO Kwok-hing 21, invalid 23<br>
+<strong>note:</strong> electoral changes that Beijing imposed in March 2021 expanded the Election Committee to 1,500 members<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Council or LegCo (90 seats); 4 year term<br><br>note - in March 2021, China's National People's Congress amended the electoral rules and system for the LegCo; the total number of seats increased from 70 to 90; directly directed geographical constituencies were reduced from 35 to 20 seats, while trade-based indirectly elected functional constituencies remained at 30; an additional 40 seats were elected by the 1,500-member Election Commission; all political candidates were evaluated by a newly created Candidate Eligibility Review Committee (CERC) to ensure that they were “patriots,” virtually ensuring that all LegCo seats would be won by pro-Beijing candidates<br>
-_elections_: last held on 19 Dec 2021<br>
-_election results_: <p>percent of vote by bloc: pro-Beijing: 98.9%; non-establishment: 1.11%</p> <p>seats by block/party: pro-Beijing 89 (DAB 19, FTU 8, BPA 7, NPP 5, Liberal Party 4,  FEW 2, FLU 2, other 5, independent 37); non-establishment 1 (1 Third Side)<br><br>30.2% voter turnout; note - Hong Kong's leading pro-democracy political parties boycotted the 2021 LegCo election</p> <br> <p><strong> </strong></p><br>
+_description_: unicameral Legislative Council or LegCo (90 seats); 20 members directly elected in 2-seat constituencies, 30 indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods, and 50 indirectly elected by the 1,500-member Election Committee; members serve 4-year terms;<br>note: in March 2021, China's National People's Congress amended the electoral rules and system for the LegCo; the total number of seats increased from 70 to 90, directly elected geographical constituencies were reduced from 35 to 20 seats, while trade-based indirectly elected functional constituencies remained at 30; an additional 40 seats were elected by the 1,500-member Election Commission; all political candidates are evaluated by the  Candidate Eligibility Review Committee (CERC), established in April 2022; the CERC consists of the chairperson, 2-4 official members and 1-3 non-official members, all appointed by the chief executive<br>
+_elections_: last held on 19 Dec 2021 (next scheduled for 2025)<br>
+_election results_: <p>percent of vote by bloc: pro-Beijing 93%, non-establishment 7%; seats by block/party - pro-Beijing 89 (DAB 19, FTU 8, BPA 7, NPP 5, Liberal Party 4, FEW 2, FLU 2, other 46), non-establishment 1 (Third Side); composition - men 73, women 17, percent of women 18.9%; voter turnout 30.2%; note - Hong Kong's leading pro-democracy political parties boycotted the 2021 election</p> <br> <p><strong> </strong></p><br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Final Appeal (consists of the chief justice, 3 permanent judges, and 20 non-permanent judges); note - a sitting bench consists of the chief justice, 3 permanent judges, and 1 non-permanent judge<br>
@@ -551,13 +551,13 @@ _total subscriptions_: 3,934,129 (2020)<br>
 _subscriptions per 100 inhabitants_: 52.48 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13.78 million (2022)<br>
-_subscriptions per 100 inhabitants_: 182 (2022)<br>
+_total subscriptions_: 21,865,215 (2020)<br>
+_subscriptions per 100 inhabitants_: 291.7 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent domestic and international services; some of the highest peak average broadband speeds and penetration rates in the world; HK government helps subsidize 5G projects and aims to be among earliest adopters of 5G mobile technology; almost all households have access to high-speed broadband connectivity through fiber; high mobile subscribership reflects tourism and multiple-device culture; government has organized the development of smart city and digital economy to encourage social inclusion and economic development, including health care, education, and utilities; US prevented use of Pacific Light submarine cable network due to security issues (2020)<br>
 _domestic_: microwave radio relay links and extensive fiber-optic network; fixed-line is over 52 per 100 and mobile-cellular is nearly 292 subscriptions per 100 (2020)<br>
-_international_: country code - 852;&nbsp;landing points for the APG, ASE, EAC-C2C, HK-G,&nbsp;Bay-to-Bay Express Cable System, H2 Cable,&nbsp;HKA, SJC, SJC2, PLCN, SeaMeWe-3, TGN-IA, APCN-2, AAG, FLAG&nbsp;and FEA&nbsp;submarine cables that provide connections to Asia, US, Australia, the Middle East, and&nbsp;Europe; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); coaxial cable to Guangzhou, China (2019)<br>
+_international_: country code - 852; landing points for the AAE-1, AAG, APCN-2, APG, ASE, FEA, FNAL, RNAL, H2HE, SeaMeWe-3, SJC and TGN-IA submarine cables that provide connections to Asia, US, Australia, the Middle East, and Europe; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); coaxial cable to Guangzhou, China (2022)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
@@ -565,10 +565,6 @@ _international_: country code - 852;&nbsp;landing points for the APG, ASE, EAC-C
 
 **Internet country code**<br>
 .hk<br>
-
-**Internet users**<br>
-_total_: 7.05 million (2022)<br>
-_percent of population_: 93% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,885,586 Figure as of March 2021. From January 2019 onwards, the statistics are compiled in terms of the number of "access lines" provided by ISPs, while it was in terms of the number of "registered customer accounts" prior to that. (2021 est.)<br>

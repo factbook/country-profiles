@@ -610,8 +610,8 @@ _total subscriptions_: 2,428,957 (2020)<br>
 _subscriptions per 100 inhabitants_: 11.34 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 29,730,465 (2020)<br>
-_subscriptions per 100 inhabitants_: 138.8 (2020 est.)<br>
+_total subscriptions_: 30,778,600 (2019)<br>
+_subscriptions per 100 inhabitants_: 144.34 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telephone services have improved significantly; strong growth&nbsp;anticipated as Sri Lanka is&nbsp;lagging behind&nbsp;other&nbsp;Asian telecoms; increase in mobile broadband penetration; govt. funds telecom sector to expand fiber and LTE networks and growing investment in 5G services (2020)<br>
@@ -624,10 +624,6 @@ government operates 5 TV channels and 19 radio channels; multi-channel satellite
 
 **Internet country code**<br>
 .lk<br>
-
-**Internet users**<br>
-_total_: 10.9 million (2021 est.)<br>
-_percent of population_: 35% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,781,530 (2021)<br>

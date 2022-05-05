@@ -588,8 +588,8 @@ _total subscriptions_: 594,550 (2020)<br>
 _subscriptions per 100 inhabitants_: 12.68 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,276,535 (2020)<br>
-_subscriptions per 100 inhabitants_: 133.9 (2020 est.)<br>
+_total subscriptions_: 6,383,460 (2019)<br>
+_subscriptions per 100 inhabitants_: 138.23 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern system consisting of open-wire, microwave, and radiotelephone communication stations; domestic satellite system; progressive mobile sector with both 3G and 4G LTE networks and readiness for 5G launch; competition among mobile operators; government program to improve fiber network; important communications hub in the Middle East, with access to numerous submarine cables enabling increased bandwidth; major importer of broadcasting equipment and computers from UAE (2020)<br>
@@ -602,10 +602,6 @@ _international_: country code - 968;&nbsp;landing points for GSA, AAE-1,&nbsp;Se
 
 **Internet country code**<br>
 .om<br>
-
-**Internet users**<br>
-_total_: 4.92 million (2021 est.)<br>
-_percent of population_: 95.23% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 508,949 (2021)<br>

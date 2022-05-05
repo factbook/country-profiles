@@ -355,7 +355,7 @@ _judge selection and term of office_: judges nominated by the president and appo
 _subordinate courts_: Courts of Appeal; District Courts (Juzgados Letrados); Peace Courts (Juzgados de Paz); Rural Courts (Juzgados Rurales)<br>
 
 **Political parties and leaders**<br>
-Broad Front or FA (Frente Amplio) [Javier MIRANDA] - (a broad governing coalition that includes Uruguay Assembly [Danilo ASTORI], Progressive Alliance [Rodolfo NIN NOVOA], New Space [Rafael MICHELINI], Socialist Party [Gonzalo CIVILA], Vertiente Artiguista [Enrique RUBIO], Christian Democratic Party [Jorge RODRIGUEZ], For the People’s Victory [Luis PUIG], Popular Participation Movement (MPP) [Jose MUJICA], Big House [Constanza MOREIRA], Communist Party [Juan CASTILLO], The Federal League [Dario PEREZ]<br>Colorado Party (including Vamos Uruguay (or Let's Go Uruguay) [Pedro BORDABERRY], Open Space [Tabare VIERA], and Open Batllism [Ope PASQUET])<br>Independent Party [Pablo MIERES]<br>National Party or Blanco (including Todos (Everyone) [Luis LACALLE POU] and National Alliance [Carlos CAMY])<br>Popular Unity [Gonzalo ABELLA]<br>Open Cabildo [Guido MANINI RIOS]<br>
+Broad Front or FA (Frente Amplio) [Fernando PEREIRA] - (a broad governing coalition that comprises 34 factions including Uruguay Assembly [Danilo ASTORI], Progressive Alliance [Rodolfo NIN NOVOA], New Space [Rafael MICHELINI], Socialist Party [Gonzalo CIVILA], Vertiente Artiguista [Enrique RUBIO], Christian Democratic Party [Jorge RODRIGUEZ], For the People’s Victory [Luis PUIG], Popular Participation Movement (MPP) [Jose MUJICA], Big House [Constanza MOREIRA], Communist Party [Juan CASTILLO], The Federal League [Sergio LIER], Fuerza Renovadora [Mario BERGARA],<br>Colorado Party (including Batllistas [Julio Maria SANGUINETTI], and Ciudadanos [Adrian Pena])<br>Independent Party [Pablo MIERES]<br>National Party or Blanco (including Todos (Everyone) [Luis LACALLE POU] and National Alliance [Carlos CAMY])<br>Popular Unity [Gonzalo ABELLA]<br>Open Cabildo [Guido MANINI RIOS]<br>
 
 **International organization participation**<br>
 CAN (associate), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAES, LAIA, Mercosur, MIGA, MINUSTAH, MONUSCO, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -366,7 +366,7 @@ _chancery_: 1913 I Street NW, Washington, DC 20006<br>
 _telephone_: [1] (202) 331-1313<br>
 _FAX_: [1] (202) 331-8142<br>
 _email address and website_: <br>urueeuu@mrree.gub.uy<br>
-_consulate(s) general_: Chicago, Los Angeles, Miami, New York<br>
+_consulate(s) general_: Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Jennifer SAVAGE (since 20 January 2021)<br>
@@ -615,8 +615,8 @@ _total subscriptions_: 1,165,373 (2019)<br>
 _subscriptions per 100 inhabitants_: 33.66 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,779,787 (2019)<br>
-_subscriptions per 100 inhabitants_: 138.1 (2019 est.)<br>
+_total subscriptions_: 4,779,790 (2019)<br>
+_subscriptions per 100 inhabitants_: 138.08 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Uruguay has an advanced telecom market, with excellent infrastructure and one of the highest broadband penetration rates in Latin America; fully digitized; high computer use and fixed-line/mobile penetrations; deployment of fiber infrastructure will encourage economic growth and stimulate e-commerce; state-owned monopoly on fixed-line market and dominance of mobile market; nationwide 3G coverage and LTE networks; limited 5G commercial reach; strong focus on fiber infrastructure with high percentage of residential fixed-broadband connections and near total business connections; importer of broadcasting equipment from China (2020)<br>
@@ -629,10 +629,6 @@ mixture of privately owned and state-run broadcast media; more than 100 commerci
 
 **Internet country code**<br>
 .uy<br>
-
-**Internet users**<br>
-_total_: 2.69 million (2021 est.)<br>
-_percent of population_: 77.37% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,063,701 (2021)<br>

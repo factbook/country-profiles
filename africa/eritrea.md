@@ -590,10 +590,6 @@ government controls broadcast media with private ownership prohibited; 1 state-o
 **Internet country code**<br>
 .er<br>
 
-**Internet users**<br>
-_total_: 290,500 (2022 est.)<br>
-_percent of population_: 8% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 5,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 0.14 less than 1 (2021 est.)<br>

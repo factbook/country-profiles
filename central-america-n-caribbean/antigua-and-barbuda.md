@@ -559,10 +559,6 @@ state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV st
 **Internet country code**<br>
 .ag<br>
 
-**Internet users**<br>
-_total_: 75,300 (2022 est.)<br>
-_percent of population_: 76% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 8,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 8.17 (2021)<br>

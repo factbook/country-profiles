@@ -644,8 +644,8 @@ _total subscriptions_: 27,674,128 (2019)<br>
 _subscriptions per 100 inhabitants_: 18.97 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 238,733,217 (2020)<br>
-_subscriptions per 100 inhabitants_: 163.6 (2020 est.)<br>
+_total subscriptions_: 239.796 million (2019)<br>
+_subscriptions per 100 inhabitants_: 164.39 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom market is largest in Europe, centered in large cities; competition active in Moscow and St Petersburg; most users access Internet through mobile platforms; fiber broadband sector is growing, supported by government in aim to extend reach to outlying regions; tests of 5G with Moscow adopting smart city technology; government justifies censorship and website blocks under a range of laws and regulations; government program aims to provide 97% of households with fixed broadband by 2024; publicly accessible Internet connections in institutions such as hospitals, libraries, schools, and mass transit available in cities; in rural areas, the availability of public Internet connections remains limited; major importer of broadcasting equipment and computers from China (2020)<br>
@@ -658,10 +658,6 @@ _international_: country code - 7; landing points for the Far East Submarine Cab
 
 **Internet country code**<br>
 .ru; note - Russia also has responsibility for a legacy domain ".su" that was allocated to the Soviet Union and is being phased out<br>
-
-**Internet users**<br>
-_total_: 124 million (2021 est.)<br>
-_percent of population_: 84.99% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 33,893,305 (2021)<br>
@@ -770,7 +766,7 @@ Aum Shimrikyo (AUM/Aleph); Islamic State of Iraq and ash-Sham; Islamic State of 
 <p>Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries; China and Russia have demarcated the once disputed islands at the Amur and Ussuri confluence and in the Argun River in accordance with the 2004 Agreement, ending their centuries-long border disputes; the sovereignty dispute over the islands of Etorofu, Kunashiri, Shikotan, and the Habomai group, known in Japan as the "Northern Territories" and in Russia as the "Southern Kurils," occupied by the Soviet Union in 1945, now administered by Russia, and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities; Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia; Azerbaijan, Kazakhstan, and Russia ratified Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea; Norway and Russia signed a comprehensive maritime boundary agreement in 2010; various groups in Finland advocate restoration of Karelia (Kareliya) and other areas ceded to the Soviet Union following World War II but the Finnish Government asserts no territorial demands; Russia and Estonia signed a technical border agreement in May 2005, but Russia recalled its signature in June 2005 after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia and Latvia; Russia remains involved in the conflict in eastern Ukraine while also occupying Ukraine’s territory of Crimea; Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as an EU member state with an EU external border, where strict Schengen border rules apply; preparations for the demarcation delimitation of land boundary with Ukraine have commenced; the dispute over the boundary between Russia and Ukraine through the Kerch Strait and Sea of Azov is suspended due to the occupation of Crimea by Russia; Kazakhstan and Russia boundary delimitation was ratified on November 2005 and field demarcation should commence in 2007; Russian Duma has not yet ratified 1990 Bering Sea Maritime Boundary Agreement with the US; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 614,318 (Ukraine) (as of 25 April 2022)<br>
+_refugees (country of origin)_: 703,523 (Ukraine) (as of 3 May 2022)<br>
 _stateless persons_: 56,960 (mid-year 2021); note - Russia's stateless population consists of Roma, Meskhetian Turks, and ex-Soviet citizens from the former republics; between 2003 and 2010 more than 600,000 stateless people were naturalized; most Meskhetian Turks, followers of Islam with origins in Georgia, fled or were evacuated from Uzbekistan after a 1989 pogrom and have lived in Russia for more than the required five-year residency period; they continue to be denied registration for citizenship and basic rights by local Krasnodar Krai authorities on the grounds that they are temporary illegal migrants<br>
 
 **Trafficking in persons**<br>

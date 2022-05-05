@@ -543,8 +543,8 @@ _total subscriptions_: 117,317<br>
 _subscriptions per 100 inhabitants_: 6.11 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 620,186<br>
-_subscriptions per 100 inhabitants_: 32.3 (2019 est.)<br>
+_total subscriptions_: 620,186 (2021)<br>
+_subscriptions per 100 inhabitants_: 32.3 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: EU pre-accession process supported progress in the telecom industry with a regulatory framework, European standards, and a market of new players encouraging development; two operators dominate the sector; under-developed telecom infrastructure leads to low fixed-line penetration; little expansion of fiber networks for broadband; expansion of LTE services (2020)<br>
@@ -555,10 +555,6 @@ _international_: country code - 383<br>
 **Internet country code**<br>
 .xk<br>
 <strong>note:</strong> assigned as a temporary code under UN Security Council resolution 1244/99<br>
-
-**Internet users**<br>
-_total_: 1.76 million (2021 est.)<br>
-_percent of population_: 83.89% (2019 est.)<br>
 
 ## Transportation
 

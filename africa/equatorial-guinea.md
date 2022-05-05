@@ -81,10 +81,10 @@ _noun_: Equatorial Guinean(s) or Equatoguinean(s)<br>
 _adjective_: Equatorial Guinean or Equatoguinean<br>
 
 **Ethnic groups**<br>
-Fang 85.7%, Bubi 6.5%, Mdowe 3.6%, Annobon 1.6%, Bujeba 1.1%, other 1.4% (1994 census)<br>
+Fang 85.7%, Bubi 6.5%, Mdowe 3.6%, Annobon 1.6%, Bujeba 1.1%, other 1.4% (1994 est.)<br>
 
 **Languages**<br>
-Spanish (official) 67.6%, other (includes Fang, Bubi, Portuguese (official), French (official), Portuguese-based Creoles spoken in Ano Bom) 32.4% (1994 census)<br>
+Spanish (official) 67.6%, other (includes Fang, Bubi, Portuguese (official), French (official), Portuguese-based Creoles spoken in Ano Bom) 32.4% (1994 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -313,9 +313,9 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Brig. Gen. (Ret.) Teodoro OBIANG Nguema Mbasogo (since 3 August 1979 when he seized power in a military coup); Vice President Teodoro Nguema OBIANG Mangue(since 2012)<br>
-_head of government_: Prime Minister Francisco Pascual Eyegue OBAMA Asue (since 23 June 2016); First Deputy Prime Minister Clemente Engonga NGUEMA Onguene (since 23 June 2016); Second Deputy Prime Minister Angel MESIE Mibuy (since 5 February 2018); Third Deputy Prime Minister Alfonso Nsue MOKUY (since 23 June 2016)&nbsp;<br>
-_cabinet_: Council of Ministers appointed by the president and overseen by the prime minister&nbsp;<br>
+_chief of state_: President Brig. Gen. (Ret.) Teodoro OBIANG Nguema Mbasogo (since 3 August 1979 when he seized power in a military coup); Vice President Teodoro Nguema OBIANG Mangue (since 2012)<br>
+_head of government_: Prime Minister Francisco Pascual Eyegue OBAMA Asue (since 23 June 2016); First Deputy Prime Minister Clemente Engonga NGUEMA Onguene (since 23 June 2016); Second Deputy Prime Minister Angel MESIE Mibuy (since 5 February 2018); Third Deputy Prime Minister Alfonso Nsue MOKUY (since 23 June 2016)<br>
+_cabinet_: Council of Ministers appointed by the president and overseen by the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 24 April 2016 (next to be held in 2023); prime minister and deputy prime ministers appointed by the president<br>
 _election results_: Teodoro OBIANG Nguema Mbasogo reelected president; percent of vote - Teodoro OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%<br>
 
@@ -580,10 +580,6 @@ the state maintains control of broadcast media with domestic broadcast media lim
 
 **Internet country code**<br>
 .gq<br>
-
-**Internet users**<br>
-_total_: 386,500 (2022 est.)<br>
-_percent of population_: 26.2% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2021 est.)<br>

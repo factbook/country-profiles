@@ -70,6 +70,8 @@ _etymology_: name derives from the Greek description of the waters beyond the St
 **Economic overview**<br>
 The Atlantic Ocean provides some of the world's most heavily trafficked sea routes, between and within the Eastern and Western Hemispheres. Other economic activity includes the exploitation of natural resources, e.g., fishing, dredging of aragonite sands (The Bahamas), and production of crude oil and natural gas (Caribbean Sea, Gulf of Mexico, and North Sea).<br>
 
+## Communications
+
 ## Transportation
 
 **Ports and terminals**<br>

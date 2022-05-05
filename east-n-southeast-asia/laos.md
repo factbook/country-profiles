@@ -613,8 +613,8 @@ _total subscriptions_: 1,490,831 (2019)<br>
 _subscriptions per 100 inhabitants_: 20.79 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,362,183 (2019)<br>
-_subscriptions per 100 inhabitants_: 60.84 (2019 est.)<br>
+_total subscriptions_: 4,362,183 (2020)<br>
+_subscriptions per 100 inhabitants_: 60.84 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: reliance on radio network to communicate with remote areas; regulatory reform is below industry standards; government aims to strengthen infrastructure and attract foreign investment; low fixed-broadband penetration; dominance in mobile broadband with 4G and LTE, but low compared to other Asian markets; ASEAN Digital Hub investment provides international capacity; state owns almost all media, except for some entertainment outlets, and has suppressed some news; importer of broadcasting equipment and computers from China; providers examining m-payment platforms and 5G tests (2020)<br>
@@ -627,10 +627,6 @@ _international_: country code - 856; satellite earth station - 1 Intersputnik (I
 
 **Internet country code**<br>
 .la<br>
-
-**Internet users**<br>
-_total_: 3.55 million (2021 est.)<br>
-_percent of population_: 25.51% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 128,000 (2021 est.)<br>

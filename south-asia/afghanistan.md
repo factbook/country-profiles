@@ -211,7 +211,7 @@ _unimproved: total_: total: 38.6% of population (2020 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimea-Congo hemorrhagic fever, malaria<br>
-<strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.5% (2016)<br>
@@ -281,7 +281,7 @@ _coal revenues_: 0.45% of GDP (2018 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimea-Congo hemorrhagic fever, malaria<br>
-<strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to civil conflict, population displacement, and economic slowdown - the food security situation worsened in recent months due to the impact of COVID‑19 as informal labor opportunities and remittances declined; between November 2020 and March 2021, about 13.15 million people were estimated to be in severe acute food insecurity and to require urgent humanitarian assistance, including 8.52 million people in "Crisis" and 4.3 million people in "Emergency"; the food security of the vulnerable populations, including IDPs and the urban poor, is likely to deteriorate as curfews and restrictions on movements to contain the COVID‑19 outbreak limit the employment opportunities for casual laborers (2021)<br>
@@ -622,8 +622,8 @@ _total subscriptions_: 134,636 (2019)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22,580,071 (2019)<br>
-_subscriptions per 100 inhabitants_: 59.36 (2019 est.)<br>
+_total subscriptions_: 22,580,071 (2020)<br>
+_subscriptions per 100 inhabitants_: 63.18 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: before 15 August 2021, Afghanistan had successfully rebuilt infrastructure to create a functional telecom sector that covered nearly all of the population; due to mountainous geography, Afghanistan relies on its mobile network; mobile broadband penetration growing, but is still low compared to other countries in Asia; operator launched LTE in Kabul; World Bank and other donors support development of a nationwide fiber backbone; terrestrial cable connectivity to five neighboring countries; work on the &lsquo;Wakhan Corridor Fiber Optic Survey Project&rsquo; to connect to China is nearing completion; major importer of broadcasting equipment from UAE (2021)<br>
@@ -635,10 +635,6 @@ since 15 August 2021, independent media outlets have decreased in number due to 
 
 **Internet country code**<br>
 .af<br>
-
-**Internet users**<br>
-_total_: 9.23 million (2022 est.)<br>
-_percent of population_: 22.9% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 26,570 (2021)<br>

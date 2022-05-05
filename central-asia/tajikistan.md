@@ -206,7 +206,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria<br>
-<strong>note: </strong><strong>o</strong>n 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Tajikistan is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Tajikistan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 14.2% (2016)<br>
@@ -271,7 +271,7 @@ _coal revenues_: 0.54% of GDP (2018 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: malaria<br>
-<strong>note: </strong><strong>o</strong>n 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Tajikistan is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Tajikistan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,787,400 tons (2013 est.)<br>
@@ -608,8 +608,8 @@ _total subscriptions_: 479,000 (2018)<br>
 _subscriptions per 100 inhabitants_: 5.39 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9.904 million (2018)<br>
-_subscriptions per 100 inhabitants_: 111.5 (2019 est.)<br>
+_total subscriptions_: 9.904 million (2019)<br>
+_subscriptions per 100 inhabitants_: 111.53 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Tajikistan&rsquo;s telecom sector continues to struggle due to geographic isolation, lack of electricity, dysfunctional business climate, and impoverished citizenry; despite the launch of 4G/LTE services, one of the lowest fixed-line penetrations in Asia and one of the lowest broadband levels in the world; with help from foreign investment, mobile sector near saturation phase; Russian loans and Chinese investment in infrastructure through Economic Corridor initiatives; a few cities have 4G coverage; LTE-based smart city concept in Dushanbe; government restricts political rights and civil liberties, controlling information through media interruptions; government raised rates on Internet-based calls and Internet services in 2020, making price one of the highest in the world; importer of video displays and broadcasting equipment from China (2020)<br>
@@ -622,10 +622,6 @@ state-run TV broadcasters transmit nationally on 9 TV and 10 radio stations, and
 
 **Internet country code**<br>
 .tj<br>
-
-**Internet users**<br>
-_total_: 3.36 million (2021 est.)<br>
-_percent of population_: 21.96% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,000 (2021 est.)<br>

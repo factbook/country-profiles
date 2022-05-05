@@ -501,10 +501,6 @@ government-run TeleCuracao operates a TV station and a radio station;&nbsp;2 oth
 **Internet country code**<br>
 <p>.cw</p><br>
 
-**Internet users**<br>
-_total_: 112,500 (2022 est.)<br>
-_percent of population_: 68.1% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 55,000 (2021)<br>
 _subscriptions per 100 inhabitants_: 33.52 (2021)<br>

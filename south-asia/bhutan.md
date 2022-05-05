@@ -576,10 +576,6 @@ state-owned TV station established in 1999; cable TV service offers dozens of In
 **Internet country code**<br>
 .bt<br>
 
-**Internet users**<br>
-_total_: 373,100 (2022 est.)<br>
-_percent of population_: 48.1% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 3,189 (2021)<br>
 _subscriptions per 100 inhabitants_: 0.41 less than 1 (2021)<br>

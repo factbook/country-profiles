@@ -648,10 +648,6 @@ large number of radio and TV stations broadcasting with private media outlets do
 **Internet country code**<br>
 .bo<br>
 
-**Internet users**<br>
-_total_: 6.57 million (2022 est.)<br>
-_percent of population_: 55.1% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 931,918 (2021)<br>
 _subscriptions per 100 inhabitants_: 7.98 (2021)<br>

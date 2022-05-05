@@ -627,10 +627,6 @@ combination of state-owned and privately owned broadcast media; 1 state-owned TV
 **Internet country code**<br>
 .do<br>
 
-**Internet users**<br>
-_total_: 8.78 million (2022 est.)<br>
-_percent of population_: 79.8% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 1,031,858 (2021)<br>
 _subscriptions per 100 inhabitants_: 9.51 (2021)<br>

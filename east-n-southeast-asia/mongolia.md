@@ -628,10 +628,6 @@ following a law passed in 2005, Mongolia's state-run radio and TV provider conve
 **Internet country code**<br>
 .mn<br>
 
-**Internet users**<br>
-_total_: 2.01 million (2021 est.)<br>
-_percent of population_: 62.5% (2020 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 307,166 Excl. terrestrial fixed wireless and satellite broadband subscriptions. (2021)<br>
 _subscriptions per 100 inhabitants_: 9.37 (2021)<br>

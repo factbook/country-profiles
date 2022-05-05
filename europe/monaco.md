@@ -471,10 +471,6 @@ TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has 
 **Internet country code**<br>
 .mc<br>
 
-**Internet users**<br>
-_total_: 38,200 (2021 est.)<br>
-_percent of population_: 97.05% (2019 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 20,877 (2021)<br>
 _subscriptions per 100 inhabitants_: 53.2 (2021)<br>

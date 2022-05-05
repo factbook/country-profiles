@@ -642,10 +642,6 @@ state controls all broadcast media with nationwide reach; state-owned Televisao 
 **Internet country code**<br>
 .ao<br>
 
-**Internet users**<br>
-_total_: 12.41 million (2022 est.)<br>
-_percent of population_: 36% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 230,610 This year we included fixed wireless technologies. (2021)<br>
 _subscriptions per 100 inhabitants_: 0.7 less than 1 (2021 est.)<br>

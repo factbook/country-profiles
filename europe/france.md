@@ -653,10 +653,6 @@ a mix of both publicly operated and privately owned TV stations; state-owned Fra
 **Internet country code**<br>
 metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Mayotte - .yt; Reunion - .re<br>
 
-**Internet users**<br>
-_total_: 60.92 million (2022 est.)<br>
-_percent of population_: 93% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 30.627 million (2021)<br>
 _subscriptions per 100 inhabitants_: 46.92 (2021)<br>

@@ -607,8 +607,8 @@ _total subscriptions_: 5,276,274 (2020)<br>
 _subscriptions per 100 inhabitants_: 18.55 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 18,028,388 (2020)<br>
-_subscriptions per 100 inhabitants_: 63.4 (2020 est.)<br>
+_total subscriptions_: 13,476,300 (2019)<br>
+_subscriptions per 100 inhabitants_: 47.26 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom industry is struggling due to political upheaval in the country; poor quality of service in many areas of the country due to decrepit state of fixed-line network and operators&rsquo; inability to pay for equipment from foreign vendors; operator suffering from stolen or damaged infrastructure; many consumers favor mobile service, and cancel their fixed-line services; popularity of social networks caused growth in mobile data traffic; LTE coverage to about half of the population; government launched National Fiber Optic backbone project in 2019; national satellite drifted off course and became non-operational; an American company closed a telecom service due to US sanctions and a Chilean company later acquired the service; Internet freedom deteriorating amid crisis, with frequent disruptions to service and monitoring; importer of broadcasting equipment from the US (2020)<br>
@@ -621,10 +621,6 @@ Venezuela has a mixture of state-run and private broadcast media that are subjec
 
 **Internet country code**<br>
 .ve<br>
-
-**Internet users**<br>
-_total_: 20.57 million (2021 est.)<br>
-_percent of population_: 72% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,561,556 (2021)<br>

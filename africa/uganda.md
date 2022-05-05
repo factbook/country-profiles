@@ -212,7 +212,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoi
 _vectorborne diseases_: malaria, dengue fever, and Trypanosomiasis-Gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Uganda is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Uganda is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.3% (2016)<br>
@@ -285,7 +285,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoi
 _vectorborne diseases_: malaria, dengue fever, and Trypanosomiasis-Gambiense (African sleeping sickness)<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Uganda is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Uganda is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to reduced incomes, and floods - in traditionally food secure urban areas, including the capital, Kampala, more than 600,000 people were food insecure due to the restrictive measures introduced to curb the spread of the COVID-19 virus; the food security situation in urban areas was the most affected by the COVID‑19‑related restrictive measures, as poor households mainly rely on the daily wages obtained through casual labor, petty trading, food vending, construction activities and domestic work; despite the phasing out of some restrictive measures, the food security situation of the urban poor has not significantly improved, as the restrictions still in place on business operations are resulting in a slow recovery of the economic activities; in rural areas, torrential rains in April and May 2020 resulted in localized crop and livelihood losses (2021)<br>
@@ -634,8 +634,8 @@ _total subscriptions_: 90,774 (2020)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 27,688,987 (2020)<br>
-_subscriptions per 100 inhabitants_: 60.53 (2020 est.)<br>
+_total subscriptions_: 25,395,500 (2019)<br>
+_subscriptions per 100 inhabitants_: 57.37 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom infrastructure has developed through private partnerships; as of 2018, fixed-fiber backbone infrastructure is available in over half of Uganda&rsquo;s districts; mobile phone companies now provide 4G networks across all major cities and national parks, while offering 3G coverage in small cities and most rural areas with road access; price of commercial Internet services dropped substantially in 2019; consumers rely on mobile infrastructure to provide voice and broadband services as fixed-line infrastructure is poor; 5G migration is developing slowly; government commissioned broadband satellite services for rural areas in 2019 (2020)<br>
@@ -648,10 +648,6 @@ public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV
 
 **Internet country code**<br>
 .ug<br>
-
-**Internet users**<br>
-_total_: 12.16 million (2021 est.)<br>
-_percent of population_: 23.71% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 58,594 (2021)<br>
@@ -739,7 +735,7 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda have begun a joint demarcation of the boundary in 2021 <br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 963,086 (South Sudan) (refugees and asylum seekers), 459,073 (Democratic Republic of the Congo), 48,555 (Burundi), 55,877 (Somalia) (refugees and asylum seekers), 26,092 (Rwanda), 22,843 (Eritrea) (2022)<br>
+_refugees (country of origin)_: 963,086 (South Sudan) (refugees and asylum seekers), 462,120 (Democratic Republic of the Congo), 48,555 (Burundi), 55,877 (Somalia) (refugees and asylum seekers), 26,092 (Rwanda), 22,843 (Eritrea) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Uganda, and traffickers exploit victims from Uganda abroad; young Ugandan children are exploited in forced labor in agriculture, fishing, forestry, cattle herding, mining, stone quarrying, brick making, carpentry, steel manufacturing, street vending, bars, restaurants, gold mining, and domestic service; traffickers exploit girls and boys in commercial sex; most are children from the northeastern region and are exploited in forced begging, commercial sex in brothels, or sold in markets; traffickers compel&nbsp; children from the Democratic Republic of Congo, Rwanda, Burundi, Kenya, Tanzania, and South Sudan into forced agricultural labor and sex trafficking in Uganda; young women most at risk for transnational trafficking seek employment as domestic workers in the Middle East and then are exploited in sex trafficking; traffickers subject Ugandans to forced labor and sex trafficking in UAE, Saudi Arabia, Oman, Qatar, Kuwait, Iraq, Iran, Egypt, Turkey, Algeria, Malaysia, Thailand, Bahrain, Jordan, China, Kenya, and India; traffickers are often relatives, friends of victims, or religious leaders who receive a fee per worker from recruiters<br>

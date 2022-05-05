@@ -630,7 +630,7 @@ _subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 61,408,904 (2020)<br>
-_subscriptions per 100 inhabitants_: 114.2 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 114.2 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: through increased competition, Kenya&rsquo;s telecom market has improved international bandwidth and experienced rapid development in mobile sector, including remote regions; four fiber-optic submarine cables reduced costs and increased service to population; government supported LTE and broadband, promising economic support of free WiFi; mobile operators progress with 5G tests; e-commerce interoperability; importer of broadcasting equipment, video displays, and computers from China (2020)<br>
@@ -643,10 +643,6 @@ about a half-dozen large-scale privately owned media companies with TV and radio
 
 **Internet country code**<br>
 .ke<br>
-
-**Internet users**<br>
-_total_: 21.75 million (2021 est.)<br>
-_percent of population_: 22.57% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 674,191 (2021)<br>
@@ -747,7 +743,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 <p>Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; as of March 2019, Kenya provides shelter to nearly 475,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times<br><br><em>Uganda-Kenya:</em> Kenya and Uganda have begun a joint demarcation of the boundary in 2021 </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 278,998 (Somalia), 139,846 (South Sudan), 48,284 (Democratic Republic of the Congo), 20,924 (Ethiopia), 7,521 (Burundi) (2022)<br>
+_refugees (country of origin)_: 278,998 (Somalia), 139,846 (South Sudan), 20,924 (Ethiopia), 19,036 (Democratic Republic of the Congo), 7,521 (Burundi) (2022)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2020)<br>
 _stateless persons_: 16,820 (mid-year 2021); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

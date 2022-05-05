@@ -613,8 +613,8 @@ _total subscriptions_: 2,272,467 (2020)<br>
 _subscriptions per 100 inhabitants_: 12.68 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 20.26 million (2022)<br>
-_subscriptions per 100 inhabitants_: 110 Note that many people around the world make use of more than one mobile connection – for example, they might have one connection for personal use, and another one for work – so it’s not unusual for mobile connection figures to significantly exceed figures for total population. (2022 est.)<br>
+_total subscriptions_: 20,390,671 (2020)<br>
+_subscriptions per 100 inhabitants_: 113.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: due to years of underinvestment in infrastructure, has one of the lowest fixed-line tele densities in the region; rural areas rely on mobile services with little access to fixed-line access; mobile tele-density on par with region and is the most developed sector, with near universal phone connections; private investment to bring free Internet to parks; two submarine cables due for completion will support growth in fixed and mobile broadband (2020)<br>
@@ -627,10 +627,6 @@ _international_: country code - 502; landing points for&nbsp;the ARCOS, AMX-1, A
 
 **Internet country code**<br>
 .gt<br>
-
-**Internet users**<br>
-_total_: 11.97 million (2022 est.)<br>
-_percent of population_: 65% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 612,000 (2021 est.)<br>

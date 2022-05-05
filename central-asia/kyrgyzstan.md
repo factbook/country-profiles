@@ -610,8 +610,8 @@ _total subscriptions_: 298,855 (2019)<br>
 _subscriptions per 100 inhabitants_: 4.66 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,622,565 (2019)<br>
-_subscriptions per 100 inhabitants_: 134.4 (2019 est.)<br>
+_total subscriptions_: 8,662,565 (2020)<br>
+_subscriptions per 100 inhabitants_: 134.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fixed-line declining as 4G LTE mobile is universally available; brief interruptions of service with security as pretext; ICT sector rocked by allegation of corruption in 2020; digital radio-relay stations and fiber-optic links; 5G in development; importer of broadcasting equipment from UAE and computers from China; Chinese Economic Corridor investment into domestic backbone; World Bank investment into digital infrastructure with aims to provide broadband Internet to 60% of the population; social disparity evident in pandemic as many school children could not attend classes on-line (2020 )<br>
@@ -624,10 +624,6 @@ state-funded public TV broadcaster KTRK has nationwide coverage; also operates A
 
 **Internet country code**<br>
 .kg<br>
-
-**Internet users**<br>
-_total_: 3.32 million (2021 est.)<br>
-_percent of population_: 38% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 289,000 (2021 est.)<br>

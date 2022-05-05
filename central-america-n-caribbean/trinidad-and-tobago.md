@@ -571,8 +571,8 @@ _total subscriptions_: 323,905 (2020)<br>
 _subscriptions per 100 inhabitants_: 23.14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,987,996 (2020)<br>
-_subscriptions per 100 inhabitants_: 142.1 (2020 est.)<br>
+_total subscriptions_: 2,163,730 (2019)<br>
+_subscriptions per 100 inhabitants_: 155.11 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent international service; good local service; broadband access; expanded FttP (Fiber to the Home) markets; LTE launch; regulatory development; major growth in mobile telephony and data segments which attacks operation investment in fiber infrastructure; moves to end roaming charges (2020)<br>
@@ -585,10 +585,6 @@ _international_: country code - 1-868; landing points for the EC Link, ECFS, Sou
 
 **Internet country code**<br>
 .tt<br>
-
-**Internet users**<br>
-_total_: 860,000 (2020 est.)<br>
-_percent of population_: 77.33% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 376,771 (2021)<br>

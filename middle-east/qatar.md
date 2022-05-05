@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ruled by the Al Thani family since the mid-1800s, Qatar within the last 60 years transformed itself from a poor British protectorate noted mainly for pearling into an independent state with significant oil and natural gas revenues. Former Amir HAMAD bin Khalifa Al Thani, who overthrew his father in a bloodless coup in 1995, ushered in wide-sweeping political and media reforms, unprecedented economic investment, and a growing Qatari regional leadership role, in part through the creation of the pan-Arab satellite news network Al-Jazeera and Qatar's mediation of some regional conflicts. In the 2000s, Qatar resolved its longstanding border disputes with both Bahrain and Saudi Arabia and by 2007 had attained the highest per capita income in the world. Qatar did not experience domestic unrest or violence like that seen in other Near Eastern and North African countries in 2011, due in part to its immense wealth and patronage network. In mid-2013, HAMAD peacefully abdicated, transferring power to his son, the current Amir TAMIM bin Hamad. TAMIM is popular with the Qatari public, for his role in shepherding the country through an economic embargo by some other regional countries, for his efforts to improve the country's healthcare and education systems, and for his expansion of the country's infrastructure in anticipation of Doha's hosting of the 2022 World Cup.</p> Recently, Qatar’s relationships with its neighbors have been tense, although since the fall of 2019 there have been signs of improved prospects for a thaw. Following the outbreak of regional unrest in 2011, Doha prided itself on its support for many popular revolutions, particularly in Libya and Syria. This stance was to the detriment of Qatar’s relations with Bahrain, Egypt, Saudi Arabia, and the United Arab Emirates (UAE), which temporarily recalled their respective ambassadors from Doha in March 2014. TAMIM later oversaw a warming of Qatar’s relations with Bahrain, Egypt, Saudi Arabia, and the UAE in November 2014 following Kuwaiti mediation and signing of the Riyadh Agreement. This reconciliation, however, was short-lived. In June 2017, Bahrain, Egypt, Saudi Arabia, and the UAE (the "Quartet") cut diplomatic and economic ties with Qatar in response to alleged violations of the agreement, among other complaints.<br>
+<p>Ruled by the Al Thani family since the mid-1800s, Qatar within the last 60 years transformed itself from a poor British protectorate noted mainly for pearling into an independent state with significant oil and natural gas revenues. Former Amir HAMAD bin Khalifa Al Thani, who overthrew his father in a bloodless coup in 1995, ushered in wide-sweeping political and media reforms, unprecedented economic investment, and a growing Qatari regional leadership role, in part through the creation of the pan-Arab satellite news network Al-Jazeera and Qatar's mediation of some regional conflicts. In the 2000s, Qatar resolved its longstanding border disputes with both Bahrain and Saudi Arabia and by 2007 had attained the highest per capita income in the world. Qatar did not experience domestic unrest or violence like that seen in other Near Eastern and North African countries in 2011, due in part to its immense wealth and patronage network. In mid-2013, HAMAD peacefully abdicated, transferring power to his son, the current Amir TAMIM bin Hamad. TAMIM is popular with the Qatari public, for his role in shepherding the country through an economic embargo by some other regional countries, for his efforts to improve the country's healthcare and education systems, and for his expansion of the country's infrastructure in anticipation of Doha's hosting of the 2022 FIFA Men’s World Cup.</p> Following the outbreak of regional unrest in 2011, Doha prided itself on its support for many popular revolutions, particularly in Libya and Syria. This stance was to the detriment of Qatar’s relations with Bahrain, Egypt, Saudi Arabia, and the United Arab Emirates (UAE), which temporarily recalled their respective ambassadors from Doha in March 2014. TAMIM later oversaw a warming of Qatar’s relations with Bahrain, Egypt, Saudi Arabia, and the UAE in November 2014 following Kuwaiti mediation and signing of the Riyadh Agreement. This reconciliation, however, was short-lived. In June 2017, Bahrain, Egypt, Saudi Arabia, and the UAE (the "Quartet") cut diplomatic and economic ties with Qatar in response to alleged violations of the agreement, among other complaints. They restored ties in January 2021 after signing a declaration at the GCC Summit in Al Ula, Saudi Arabia. <p> </p><br>
 
 ## Geography
 
@@ -350,7 +350,7 @@ _email address and website_: <br>info.dc@mofa.gov.qa<br><br>https://washington.e
 _consulate(s) general_: Houston, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: ambassador (vacant); Charge d'Affaires Ambassador John DESROCHER (since 1 June 2021)<br>
+_chief of mission_: <p>chief of mission: ambassador (vacant); Charge d'Affaires Natalie A. BAKER (since October 2021)</p><br>
 _embassy_: 22 February Street, Al Luqta District, P.O. Box 2399, Doha<br>
 _mailing address_: 6130 Doha Place, Washington DC&nbsp; 20521-6130<br>
 _telephone_: [974] 4496-6000<br>
@@ -589,8 +589,8 @@ _total subscriptions_: 454,701 (2020)<br>
 _subscriptions per 100 inhabitants_: 15.78 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,798,514 (2020)<br>
-_subscriptions per 100 inhabitants_: 131.8 (2020 est.)<br>
+_total subscriptions_: 3,917,570 (2019)<br>
+_subscriptions per 100 inhabitants_: 138.33 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom infrastructure in Qatar demonstrated resilience during the pandemic, following surge in Internet usage; highest fixed-line and mobile penetrations in Middle East with almost 100% LTE coverage; operator deployed 5G across the country with positive subscribership, primarily around Doha; largest user of the Internet in the Middle East; importer of broadcasting equipment from China (2020)<br>
@@ -603,10 +603,6 @@ TV and radio broadcast licensing and access to local media markets are state con
 
 **Internet country code**<br>
 .qa<br>
-
-**Internet users**<br>
-_total_: 2.88 million (2021 est.)<br>
-_percent of population_: 99.65% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 296,126 (2021)<br>
@@ -674,9 +670,6 @@ the Qatari military's inventory includes a broad mix of older and modern weapons
 **Military service age and obligation**<br>
 conscription for males aged 18-35 introduced in 2013; compulsory service times range from 4-12 months, depending on the cadets educational and professional circumstances; since 2018, women have been permitted to serve in the armed forces, including as uniformed officers and pilots (2021)<br>
 note - as of 2020, the military incorporated about 2,000 conscripts annually<br>
-
-**Military deployments**<br>
-in 2021, Turkey agreed to train Qatari fighter pilots and allow the temporary deployment of up to 36 Qatari military aircraft and 250 personnel<br>
 
 **Military - note**<br>
 <p>as of 2021, Qatar hosted more than 8,000 US military forces and the regional headquarters for the US Central Command (CENTCOM; established 1983) at various military facilities, including the large Al Udeid Air Base; Qatar also hosted as many as 5,000 Turkish military forces at two bases established in 2014 and 2019<br><br>Qatar (as of early 2022) has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>

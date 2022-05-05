@@ -472,10 +472,6 @@ _international_: country code - 683; landing point for the Manatua submarine cab
 **Internet country code**<br>
 .nu<br>
 
-**Internet users**<br>
-_total_: 1,286 (2021 est.)<br>
-_percent of population_: 79.56% (2019 est.)<br>
-
 ## Transportation
 
 **Airports**<br>

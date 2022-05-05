@@ -204,7 +204,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Yemen is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Yemen is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 17.1% (2016)<br>
@@ -271,7 +271,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Yemen is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Yemen is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to conflict, poverty, floods, high food and fuel prices - between January and June 2021, the number of food insecure was projected to increase by nearly 3 million to 16.2 million people; out of these, an estimated 11 million people will likely be in "Crisis," 5 million in "Emergency," and the number of those in "Catastrophe" will likely increase to 47,000; economic conditions in the country remain dire; the conflict is further hampering the already constrained livelihood activities and humanitarian access; income earning opportunities have declined due to COVID‑19‑related business disruptions (2021)<br>
@@ -606,8 +606,8 @@ _total subscriptions_: 1.19 million (2018)<br>
 _subscriptions per 100 inhabitants_: 4.28 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 15,297,789 (2018)<br>
-_subscriptions per 100 inhabitants_: 55.18 (2019 est.)<br>
+_total subscriptions_: 15,357,900 (2019)<br>
+_subscriptions per 100 inhabitants_: 55.18 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: large percent of the population is in need of humanitarian assistance and telecom services are vital but disrupted; mobile towers are often deliberately targeted; maintenance is dangerous to staff; aid organizations rely on satellite and radio communications; scarcity of telecom equipment in rural areas; ownership of telecom services and the related revenues and taxes have become a political issue; Chinese company Huawei helping to rebuild some equipment (2020)<br>
@@ -620,10 +620,6 @@ state-run TV with 2 stations; state-run radio with 2 national radio stations and
 
 **Internet country code**<br>
 .ye<br>
-
-**Internet users**<br>
-_total_: 8.06 million (2021 est.)<br>
-_percent of population_: 26.72% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 391,000 (2021 est.)<br>

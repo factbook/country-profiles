@@ -627,8 +627,8 @@ _total subscriptions_: 252,067 (2020)<br>
 _subscriptions per 100 inhabitants_: 1.7 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13,191,708 (2020)<br>
-_subscriptions per 100 inhabitants_: 88.76 (2020 est.)<br>
+_total subscriptions_: 13,195,900 (2019)<br>
+_subscriptions per 100 inhabitants_: 90.1 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the pandemic, drought, and rising hyperinflation have devastated the economy and hindered foreign investment; regulator extended tax exemption for Huawei, raising concerns of independence; mobile tariffs were increased three times since mid-2019, raising consumer prices; Internet is limited, exacerbated by inadequate electricity; mobile Internet connections make up almost all Internet connections; competition has driven some expansion of the telecommunications sector, though operators warn that lack of government investment will cause further deterioration, especially in rural areas; mobile network operators continue to invest in e-commerce and e-banking; slow progress on national and international fiber backbone network, as well as 3G and LTE mobile-broadband services; international bandwidth through submarine cables via neighboring countries (2020)<br>
@@ -641,10 +641,6 @@ government owns all local radio and TV stations; foreign shortwave broadcasts an
 
 **Internet country code**<br>
 .zw<br>
-
-**Internet users**<br>
-_total_: 5.01 million (2021)<br>
-_percent of population_: 27.06% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 203,461 (2021)<br>
@@ -725,7 +721,7 @@ the ZDF was formed after independence from the former Rhodesian Army and the two
 <p><em>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,285 (Democratic Republic of Congo) (refugees and asylum seekers), 8,247 (Mozambique) (2022)<br>
+_refugees (country of origin)_: 11,358 (Democratic Republic of Congo) (refugees and asylum seekers), 8,247 (Mozambique) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Zimbabwe is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Zimbabwean women and girls from towns bordering South Africa, Mozambique, and Zambia are subjected to forced labor, including domestic servitude, and prostitution catering to long-distance truck drivers; Zimbabwean men, women, and children experience forced labor in agriculture and domestic servitude in rural areas; family members may recruit children and other relatives from rural areas with promises of work or education in cities and towns where they end up in domestic servitude and sex trafficking; Zimbabwean women and men are lured into exploitative labor situations in South Africa and other neighboring countries<br>

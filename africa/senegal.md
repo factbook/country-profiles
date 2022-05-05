@@ -213,7 +213,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Senegal is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Senegal is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.8% (2016)<br>
@@ -287,7 +287,7 @@ _vectorborne diseases_: malaria and dengue fever<br>
 _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
-<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Senegal is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Senegal is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to localized shortfalls in cereal production - according to the latest analysis, about 490,000 people are estimated to need humanitarian assistance in the June&minus;August 2021 period due to the effects of adverse weather events (droughts and floods) on cereal and fodder production (2021)<br>
@@ -632,8 +632,8 @@ _total subscriptions_: 207,592 (2019)<br>
 _subscriptions per 100 inhabitants_: 1.27 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 19,078,948 (2020)<br>
-_subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
+_total subscriptions_: 17,880,600 (2019)<br>
+_subscriptions per 100 inhabitants_: 109.72 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: universal mobile penetration since 2019; mobile broadband accounts for 97% of Internet access; 3G and LTE services for half of the population; African consortium issued a bond to finance network upgrades and services; importer of broadcasting equipment from UAE and China (2020)<br>
@@ -646,10 +646,6 @@ state-run Radiodiffusion Television Senegalaise (RTS) broadcasts TV programs fro
 
 **Internet country code**<br>
 .sn<br>
-
-**Internet users**<br>
-_total_: 7.81 million (2021 est.)<br>
-_percent of population_: 46% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 153,813 (2021)<br>

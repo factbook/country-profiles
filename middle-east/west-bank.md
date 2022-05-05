@@ -518,7 +518,7 @@ _subscriptions per 100 inhabitants_: 9 (includes Gaza Strip) (2016 est.) (2020 e
 <strong>note</strong>: includes Gaza Strip<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,268 (2020 est.)<br>
+_total subscriptions_: 4,274,119 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 84 (2020 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
@@ -533,10 +533,6 @@ the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV
 
 **Internet country code**<br>
 .psnote - same as Gaza Strip<br>
-
-**Internet users**<br>
-_total_: 2.673 million (includes Gaza Strip)<br>
-_percent of population_: 57.4% (July 2016 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 373,050 (2020 est.)<br>

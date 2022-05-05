@@ -645,10 +645,6 @@ government owns a TV station and radio network; more than 2 dozen TV stations an
 **Internet country code**<br>
 .ar<br>
 
-**Internet users**<br>
-_total_: 38.02 million (2022 est.)<br>
-_percent of population_: 83% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 9,571,562 (2021)<br>
 _subscriptions per 100 inhabitants_: 21.18 (2021 est.)<br>

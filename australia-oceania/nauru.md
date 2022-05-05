@@ -545,10 +545,6 @@ _international_: country code - 674; satellite earth station - 1 Intelsat (Pacif
 **Internet country code**<br>
 .nr<br>
 
-**Internet users**<br>
-_total_: 6,771 (2021 est.)<br>
-_percent of population_: 57% (2019 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 950 (2010)<br>
 _subscriptions per 100 inhabitants_: 9.5 (2010)<br>

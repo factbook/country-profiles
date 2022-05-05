@@ -580,10 +580,6 @@ no TV broadcast station; a cable network is available on Majuro with programming
 **Internet country code**<br>
 .mh<br>
 
-**Internet users**<br>
-_total_: 23,000 (2021 est.)<br>
-_percent of population_: 38.7% (2019 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 1.69 (2021 est.)<br>

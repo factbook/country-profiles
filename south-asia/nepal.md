@@ -615,7 +615,7 @@ _subscriptions per 100 inhabitants_: 2.85 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 39,178,451 (2018)<br>
-_subscriptions per 100 inhabitants_: 130.6 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 130.6 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: poverty, inconsistent electricity, and mountainous topography stymie development of telecom infrastructure; mobile market is developed and has been extended to all districts covering 90% of Nepal; fixed broadband is low due to limited number of fixed-lines and preeminence of the mobile platform; increasing 3G and 4G subscribers; fiber-optic networks developing under private and public funding to meet demand for Internet; government supports digital society, whereby 90% of the population will have access to broadband and free Internet access for students; plans to launch a Nepalese satellite by 2022; importer of broadcasting equipment from China (2020)<br>
@@ -628,10 +628,6 @@ state operates 3 TV stations, as well as national and regional radio stations; 1
 
 **Internet country code**<br>
 .np<br>
-
-**Internet users**<br>
-_total_: 10.78 million (2021 est.)<br>
-_percent of population_: 34% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.27 million (2021 est.)<br>

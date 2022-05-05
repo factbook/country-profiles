@@ -356,7 +356,7 @@ _election results_: <em>2021:</em> Ebrahim RAISI elected president; percent of v
 **Legislative branch**<br>
 _description_: unicameral Islamic Consultative Assembly or Majles-e Shura-ye Eslami or Majles (290 seats; 285 members directly elected in single- and multi-seat constituencies by 2-round vote, and 1 seat each for Zoroastrians, Jews, Assyrian and Chaldean Christians, Armenians in the north of the country and Armenians in the south; members serve 4-year terms); note - all candidates to the Majles must be approved by the Council of Guardians, a 12-member group of which 6 are appointed by the supreme leader and 6 are jurists nominated by the judiciary and elected by the Majles<br>
 _elections_: first round held on 21 February 2020 and second round for 11 remaining seats held on 11 September 2020 (next full Majles election to be held in 2024)<br>
-_election results_: percent of vote by coalition (first round) - NA; seats by coalition (first round) - conservatives and hardliners 226, reformists 19, independents 40, religious minorities 5; as of June 2021 by-elections<br>
+_election results_: percent of vote by coalition (first round) - NA; seats by coalition (first round) - conservatives and hardliners 226, reformists 19, independents 40, religious minorities 5; as of June 2021 by-elections; composition - men 274, women 16, percent of women 5.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and organized into 42 two-bench branches, each with a justice and a judge)<br>
@@ -607,8 +607,8 @@ _total subscriptions_: 29,093,587 (2020)<br>
 _subscriptions per 100 inhabitants_: 34.64 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 119 million (2022)<br>
-_subscriptions per 100 inhabitants_: 139.1 (2022 est.)<br>
+_total subscriptions_: 127,624,951 (2020)<br>
+_subscriptions per 100 inhabitants_: 152 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: challenged by censorship and international sanctions; large, youthful, tech-savvy demographic with unmet demand; state-owned operators provided special offerings for services during pandemic, driving mobile broadband and deployment of 4G to nearly all of the population; government expanding fiber network and preparing for 5G to grow digital economy and smart city infrastructure; importer of broadcasting and computer equipment from UAE and China (2020)<br>
@@ -621,10 +621,6 @@ state-run broadcast media with no private, independent broadcasters; Islamic Rep
 
 **Internet country code**<br>
 .ir<br>
-
-**Internet users**<br>
-_total_: 71.94 million (2022)<br>
-_percent of population_: 84.1% (2022)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,564,195 (2021)<br>
@@ -705,7 +701,7 @@ information varies; approximately 550-600,000 total active personnel; approximat
 
 **Military equipment inventories and acquisitions**<br>
 the Iranian military's inventory includes a mix of domestically-produced and mostly older foreign equipment largely of Chinese, Russian, Soviet, and US origin (US equipment acquired prior to the Islamic Revolution in 1979); Iran has also received some military equipment from North Korea, including midget submarines and ballistic missiles; Iran has a defense industry with the capacity to develop, produce, support, and sustain air, land, missile, and naval weapons programs (2021)<br>
-note - in 2020, the UN lifted a 2010 embargo on exports of most types of major arms to Iran" (SIPRI: "Trends in International Arms Transfers, 2020<br>
+note - in 2020, the UN lifted a 2010 embargo on exports of most types of major arms to Iran"<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory military service; 16 years of age for volunteers; 17 years of age for Law Enforcement Forces; 15 years of age for Basij Forces (Popular Mobilization Army); conscript military service obligation is 18-24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempt from military service (2021)<br>

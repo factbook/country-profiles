@@ -457,7 +457,7 @@ _subscriptions per 100 inhabitants_: 49.93 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 4,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 66.58 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 66.58 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: capability to&nbsp;communicate worldwide; ADSL- broadband service; LTE coverage of 95% of population, includes voice calls, text messages, mobile data as well as inbound and outbound roaming; Wi-Fi hotspots in Jamestown, 1 ISP, many services are not offered locally but made available for visitors; some sun outages due to the reliance of international telephone and Internet communication relying on single satellite link (2020)<br>
@@ -470,10 +470,6 @@ Saint Helena has no local TV station; 2 local radio stations, one of which is re
 
 **Internet country code**<br>
 .sh; note - Ascension Island assigned .ac<br>
-
-**Internet users**<br>
-_total_: 2,281 (2020 est.)<br>
-_percent of population_: 23.1% (July 2016 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2021 est.)<br>

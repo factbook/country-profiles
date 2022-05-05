@@ -370,7 +370,7 @@ _electrification - total population_: 100% (2020)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 68,840 (2017)<br>
-_subscriptions per 100 inhabitants_: 196 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 195.94 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: generally adequate facilities; growth sectors include mobile telephone and data segments; effective competition; LTE expansion; tourism and telecom sector contribute greatly to the GDP (2018)<br>
@@ -380,9 +380,6 @@ _international_: country code - 1-721; landing points for SMPR-1 and the ECFS su
 
 **Internet country code**<br>
 <p>.sx; note - IANA has designated .sx for Sint Maarten, but has not yet assigned it to a sponsoring organization</p><br>
-
-**Internet users**<br>
-_total_: 29,600 (2021 est.)<br>
 
 ## Transportation
 

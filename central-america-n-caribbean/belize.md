@@ -601,10 +601,6 @@ _international_: country code - 501; landing points for the&nbsp;ARCOS and SEUL&
 **Internet country code**<br>
 .bz<br>
 
-**Internet users**<br>
-_total_: 192,400 (2022 est.)<br>
-_percent of population_: 47.1% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 36,000 (2021)<br>
 _subscriptions per 100 inhabitants_: 9.05 (2021)<br>

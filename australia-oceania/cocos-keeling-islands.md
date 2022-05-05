@@ -314,10 +314,6 @@ _international_: international code - 61 8; telephone, telex, and facsimile comm
 **Internet country code**<br>
 .cc<br>
 
-**Internet users**<br>
-_total_: 414 (2022 est.)<br>
-_percent of population_: 76.1% (2022 est.)<br>
-
 ## Transportation
 
 **Airports**<br>

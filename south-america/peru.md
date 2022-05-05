@@ -365,13 +365,13 @@ _chief of state_: President Jose Pedro CASTILLO Terrones (since 28 July 2021); F
 _head of government_: President Jose Pedro CASTILLO Terrones (since 28 July 2021); First Vice President Dina Ercilia BOLUARTE Zegarra (since 28 July 2021); Second Vice President (vacant)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 11 April 2021 with a runoff on 6 June 2021 (next to be held in April 2026)<br>
-_election results_: <br><em>2021: </em>Jose Pedro CASTILLO Terrones elected president in second round; percent of vote in first round - Jose Pedro CASTILLO Terrones (Free Peru) 18.9%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 13.4%, Rafael LOPEZ ALIAGA Cazorla (Popular Renewal) 11.8%, Hernando DE SOTO Polar (Social Integration Party) 11.6%, Yonhy LESCANO Ancieta (Popular Action) 9.1%, Veronika MENDOZA Frisch (JP) 7.9%, Cesar ACUNA Peralta (APP) 6%, George FORSYTH Sommer (VN) 5.7%, Daniel Belizario URRESTI Elera (We Can Peru) 5.6%, other 10%; percent of vote second round - Jose Pedro CASTILLO Terrones (Free Peru) 50.1%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 49.9%<br><br><em>2016:</em> Pedro Pablo KUCZYNSKI Godard elected president in second round; percent of vote in first round - Keiko FUJIMORI Higuchi (Popular Force) 39.9%, Pedro Pablo KUCZYNSKI Godard (PPK) 21.1%, Veronika MENDOZA (Broad Front) 18.7%, Alfredo BARNECHEA (Popular Action) 7%, Alan GARCIA (APRA) 5.8%, other 7.5%; percent of vote in second round - Pedro Pablo KUCZYNSKI Godard 50.1%, Keiko FUJIMORI Higuchi 49.9%<br>
+_election results_: <br><em>2021: </em>Jose Pedro CASTILLO Terrones elected president in second round; percent of vote in first round - Jose Pedro CASTILLO Terrones (Free Peru) 18.9%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 13.4%, Rafael LOPEZ ALIAGA Cazorla (Popular Renewal) 11.8%, Hernando DE SOTO Polar (Social Integration Party) 11.6%, Yonhy LESCANO Ancieta (Popular Action) 9.1%, Veronika MENDOZA Frisch (JP) 7.9%, Cesar ACUNA Peralta (APP) 6%, George FORSYTH Sommer (National Victory) 5.7%, Daniel Belizario URRESTI Elera (We Can Peru) 5.6%, other 10%; percent of vote second round - Jose Pedro CASTILLO Terrones (Free Peru) 50.1%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 49.9%<br><br><em>2016:</em> Pedro Pablo KUCZYNSKI Godard elected president in second round; percent of vote in first round - Keiko FUJIMORI Higuchi (Popular Force) 39.9%, Pedro Pablo KUCZYNSKI Godard (PPK) 21.1%, Veronika MENDOZA (Broad Front) 18.7%, Alfredo BARNECHEA (Popular Action) 7%, Alan GARCIA (APRA) 5.8%, other 7.5%; percent of vote in second round - Pedro Pablo KUCZYNSKI Godard 50.1%, Keiko FUJIMORI Higuchi 49.9%<br>
 <strong>note: </strong>President Martin Alberto VIZCARRA Cornejo assumed office after President Pedro Pablo KUCZYNSKI Godard resigned from office on 21 March 2018; after VIZCARRA was impeached on 9 November 2020, the constitutional line of succession led to the inauguration of the President of the Peruvian Congress, Manuel Arturo MERINO, as President of Peru on 10 November 2020; following his resignation only days later on 15 November 2020, Francisco Rafael SAGASTI Hochhausler - who had been elected by the legislature to be the new President of Congress on 16 November 2020 - was then sworn in as President of Peru on 17 November 2020 by line of succession and remained president until the inauguration of Jose Pedro CASTILLO Terrones, winner of the 2021 presidential election<strong><br><br>note:</strong> Prime Minister Anibal TORRES Vasquez (since 8 February 2022) does not exercise executive power; this power rests with the president<br>
 
 **Legislative branch**<br>
 _description_: unicameral Congress of the Republic of Peru or Congreso de la Republica del Peru (130 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve single 5-year terms)<br>
 _elections_: last held on 11 April 2021 (next to be held in April 2026)<br>
-_election results_: <br>percent of vote by party/coalition - Free Peru 13.41%, Popular Force 11.34%, AP 9.02%, Popular Renewal 9.33%, APP 7.54%, Avanza Pais 7.54%, JP 6.59%, We Are Peru 6.13%, We Can Peru 5.83%, Purple Party 5.42%; <br>seats by party/coalition - Free Peru 37, Popular Force 24, AP 16, APP 15, Popular Renewal 13, Avanza Pais 7, We Are Peru 5, We Can Peru 5, JP 5, Purple Party 3; composition - men 78, women 52, percent of women 40%<br>
+_election results_: percent of vote by party/coalition - NA; seats by party/coalition - Free Peru 32, Popular Force 24, AP 15, APP 15, Avanza Pais 10, Popular Renewal 9, Democratic Peru 7, We Are Peru 5, We Can Peru 5, JP 5, Purple Party 3; composition - men 78, women 52, percent of women 40%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 16 judges and divided into civil, criminal, and constitutional-social sectors)<br>
@@ -379,13 +379,13 @@ _judge selection and term of office_: justices proposed by the National Board of
 _subordinate courts_: Court of Constitutional Guarantees; Superior Courts or Cortes Superiores; specialized civil, criminal, and mixed courts; 2 types of peace courts in which professional judges and selected members of the local communities preside<br>
 
 **Political parties and leaders**<br>
-<p>Alliance for Progress (Alianza para el Progreso) or APP [Cesar ACUNA Peralta] <br>American Popular Revolutionary Alliance or APRA [Cesar TRELLES Lara]<br>Broad Front (Frente Amplio; also known as El Frente Amplio por Justicia, Vida y Libertad) (coalition includes Nuevo Peru [Veronika MENDOZA], Tierra y Libertad [Marco ARANA Zegarra], and Fuerza Social [Susana VILLARAN de la Puente]<br>Free Peru (Peru Libre) [Vladimir CERRON Rojas]<br>National Solidarity (Solidaridad Nacional) or SN [Luis CASTANEDA Lossio]<br>National Victory (Victoria Nacional) or VN [George FORSYTH Sommer]<br>Peru Posible or PP (coalition includes Accion Popular and Somos Peru) [Alejandro TOLEDO Manrique]<br>Peruvian Aprista Party (Partido Aprista Peruano) or PAP [Javier VELASQUEZ Quesquen] (also referred to by its original name Alianza Popular Revolucionaria Americana or APRA)<br>Peruvian Nationalist Party [Ollanta HUMALA]<br>Peruvians for Change (Peruanos Por el Kambio) or PPK [Pedro Pablo KUCZYNSKI]<br>Popular Action (Accion Popular) or AP [Mesias GUEVARA Amasifuen]<br>Popular Christian Party (Partido Popular Cristiano) or PPC [Lourdes FLORES Nano]<br>Popular Force (Fuerza Popular; formerly Fuerza 2011) [Keiko FUJIMORI Higuchi]<br>Popular Renewal (Renovacion Popular) [Rafael LOPEZ ALIAGA]<br>Purple Party (Partido Morado) [Julio Armando GUZMAN Caceres]<br>Social Integration Party (Avanza Pais - Partido de Integracion Social) [Pedro CENAS Casamayor]<br>Together For Peru (Juntos por el Peru) or JP [Robert SANCHEZ Palomino]<br>We Are Peru (Somos Peru) [Patricia LI]<br>We Can Peru (Podemos Peru) [Jose Leon LUNA Galvez]</p><br>
+<p>Advance the Nation (Avanza Pais) [Aldo BORRERO Zeta]<br>Alliance for Progress (Alianza para el Progreso) or APP [Cesar ACUNA Peralta] <br>Broad Front (Frente Amplio) [Marco ARANA]<br>Free Peru (Peru Libre) [Vladimir CERRON Rojas]<br>Front for Hope (Frente Esperanza) [Fernando OLIVERA Vega]<br>National Victory (Victoria Nacional) or VN [George FORSYTH Sommer]<br>Popular Action (Accion Popular) or AP [Mesias GUEVARA Amasifuen]<br>Popular Force (Fuerza Popular or FP) [Keiko FUJIMORI Higuchi]<br>Popular Renewal (Renovacion Popular) [Rafael LOPEZ ALIAGA]<br>Purple Party (Partido Morado) [Luis DURAN Rojo]<br>Social Integration Party (Avanza Pais - Partido de Integracion Social) [Aldo BORRERO]<br>Together For Peru (Juntos por el Peru) or JP [Robert SANCHEZ Palomino]<br>We Are Peru (Somos Peru) [Patricia LI]<br>We Can Peru (Podemos Peru) [Jose Leon LUNA Galvez]</p><br>
 
 **International organization participation**<br>
 APEC, BIS, CAN, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Hugo DE ZELA Mart&iacute;nez (since 8 July 2019)<br>
+_chief of mission_: Ambassador Oswaldo DE RIVERO Barreto (since 17 November 2021)<br>
 _chancery_: 1700 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 833-9860 through 9869<br>
 _FAX_: [1] (202) 659-8124<br>
@@ -644,7 +644,7 @@ _subscriptions per 100 inhabitants_: 9.8 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 38,915,400 (2018)<br>
-_subscriptions per 100 inhabitants_: 123.8 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 123.76 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: economic impact on telcom services during pandemic due to consumer unemployment; good mobile operator competition with LTE services; fixed-line tele-density remains among lowest in South America, with obstacles to growth including widespread poverty, fixed-to-mobile substitution, expensive telephone services, and geographical inaccessibility in the Andean mountains and Amazon jungles; government investment in underserved areas with fiber backbone; government facilitated virtual learning during pandemic via tablets with Internet connectivity; 3G network and new LTE services expanded providing mobile broadband to rural communities, though low penetration still exists; major importer of broadcasting equipment and computers from China (2020)<br>
@@ -657,10 +657,6 @@ _international_: country code - 51; landing points for the SAM-1, IGW, American 
 
 **Internet country code**<br>
 .pe<br>
-
-**Internet users**<br>
-_total_: 19.9 million (2021 est.)<br>
-_percent of population_: 65.25% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3.044 million (2021 est.)<br>
@@ -699,17 +695,17 @@ _under 914 m_: 82 (2021)<br>
 5 (2021)<br>
 
 **Pipelines**<br>
-786 km extra heavy crude, 1526 km gas, 679 km liquid petroleum gas, 1033 km oil, 15 km refined products (2013)<br>
+786 km extra heavy crude, 1526 km gas, 679 km liquid petroleum gas, 1106 km oil, 15 km refined products (2021)<br>
 
 **Railways**<br>
-_total_: 1,854 km (2014)<br>
+_total_: 1,940 km (2017)<br>
 _standard gauge_: 1,730.4 km 1.435-m gauge (34 km electrified) (2014)<br>
 _narrow gauge_: 124 km 0.914-m gauge (2014)<br>
 
 **Roadways**<br>
-_total_: 168,473 km (18,699 km paved) (2012)<br>
+_total_: 168,473 km (18,699 km paved) (2018)<br>
 _paved_: 26,916 km<br>
-<strong>note:</strong> includes 24,593 km of national roads (14,748 km paved), 24,235 km of departmental roads (2,340 km paved), and 91,844 km of local roads (1,611 km paved)<br>
+<strong>note:</strong> includes 27,109 km of national roads (21,434 km paved), 247,505 km of departmental roads (3,623 km paved), and 113,857 km of local roads (1,858 km paved)<br>
 
 **Waterways**<br>
 8,808 km (8,600 km of navigable tributaries on the Amazon River system and 208 km on Lago Titicaca) (2011)<br>

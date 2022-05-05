@@ -618,10 +618,6 @@ _international_: country code - 994; the TAE fiber-optic link transits Azerbaija
 **Internet country code**<br>
 .az<br>
 
-**Internet users**<br>
-_total_: 8.32 million (2022 est.)<br>
-_percent of population_: 81.1% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 1,995,474 (2021)<br>
 _subscriptions per 100 inhabitants_: 19.68 (2021 est.)<br>

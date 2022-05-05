@@ -564,7 +564,7 @@ _subscriptions per 100 inhabitants_: 20.05 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 184,944 (2018)<br>
-_subscriptions per 100 inhabitants_: 97.65 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 97.65 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: an adequate system that is automatically switched; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes to the overall GDP; telecom sector is a growth area (2020)<br>
@@ -577,10 +577,6 @@ _international_: country code - 1-758; landing points for the ECFS&nbsp;and Sout
 
 **Internet country code**<br>
 .lc<br>
-
-**Internet users**<br>
-_total_: 104,400 (2021 est.)<br>
-_percent of population_: 50.82% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 33,000 (2021 est.)<br>

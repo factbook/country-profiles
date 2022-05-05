@@ -621,10 +621,6 @@ state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; a t
 **Internet country code**<br>
 .md<br>
 
-**Internet users**<br>
-_total_: 3.07 million (2021 est.)<br>
-_percent of population_: 76.12% (2019 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 719,001 (2021)<br>
 _subscriptions per 100 inhabitants_: 17.82 (2020 est.)<br>
@@ -705,7 +701,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p>Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 435,275 (Ukraine) (as of 25 April 2022)<br>
+_refugees (country of origin)_: 449,605 (Ukraine) (as of 3 May 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

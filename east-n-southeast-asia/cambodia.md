@@ -639,10 +639,6 @@ mixture of state-owned, joint public-private, and privately owned broadcast medi
 **Internet country code**<br>
 .kh<br>
 
-**Internet users**<br>
-_total_: 13.44 million (2022 est.)<br>
-_percent of population_: 78.8% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 233,732 Slowly increase as focus is on mobile internet (2021)<br>
 _subscriptions per 100 inhabitants_: 1.4 (2021 est.)<br>

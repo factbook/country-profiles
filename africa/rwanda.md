@@ -615,8 +615,8 @@ _total subscriptions_: 11,671 (2020)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,614,408 (2020)<br>
-_subscriptions per 100 inhabitants_: 81.95 (2020 est.)<br>
+_total subscriptions_: 9,658,550 (2019)<br>
+_subscriptions per 100 inhabitants_: 76.49 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom market impacted by energy shortages and instability in neighboring states; government investing in smart city infrastructure; growing economy and foreign aid from South Korea help launch telecom sector, despite widespread poverty; expansion of LTE services; competing operators roll out national fiber optic backbone through connection to submarine cables, ending expensive dependence on satellite; importer of broadcasting equipment from China (2020)<br>
@@ -629,10 +629,6 @@ _international_: country code - 250; international connections employ microwave 
 
 **Internet country code**<br>
 .rw<br>
-
-**Internet users**<br>
-_total_: 4.12 million (2021 est.)<br>
-_percent of population_: 21.77% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 17,685 (2021)<br>
@@ -706,6 +702,6 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,116 (Democratic Republic of the Congo) 48,125 (Burundi) (2022)<br>
+_refugees (country of origin)_: 77,288 (Democratic Republic of the Congo) 48,125 (Burundi) (2022)<br>
 _stateless persons_: 9,500 (mid-year 2021)<br>
 

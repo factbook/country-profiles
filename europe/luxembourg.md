@@ -606,10 +606,6 @@ Luxembourg has a long tradition of operating radio and TV services for pan-Europ
 **Internet country code**<br>
 .lu<br>
 
-**Internet users**<br>
-_total_: 612,100 (2021 est.)<br>
-_percent of population_: 98.82% (2020 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 235,155 (2021)<br>
 _subscriptions per 100 inhabitants_: 37.57 (2021)<br>

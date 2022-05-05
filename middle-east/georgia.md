@@ -615,10 +615,6 @@ The Tbilisi-based Georgian Public Broadcaster (GPB) includes Channel 1, Channel 
 **Internet country code**<br>
 .ge<br>
 
-**Internet users**<br>
-_total_: 2.88 million (2022 est.)<br>
-_percent of population_: 72.5% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 972,162 (2021)<br>
 _subscriptions per 100 inhabitants_: 24.37 (2021)<br>

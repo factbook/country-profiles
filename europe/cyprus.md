@@ -624,10 +624,6 @@ mixture of state and privately run TV and radio services; the public broadcaster
 **Internet country code**<br>
 .cy<br>
 
-**Internet users**<br>
-_total_: 1.11 million (2022 est.)<br>
-_percent of population_: 91% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 332,080 (2021)<br>
 _subscriptions per 100 inhabitants_: 37.4 (2021 est.)<br>

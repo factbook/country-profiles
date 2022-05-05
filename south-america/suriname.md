@@ -600,8 +600,8 @@ _total subscriptions_: 103,240 (2020)<br>
 _subscriptions per 100 inhabitants_: 17.6 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 899,339 (2020)<br>
-_subscriptions per 100 inhabitants_: 153.3 (2020 est.)<br>
+_total subscriptions_: 813,844 (2019)<br>
+_subscriptions per 100 inhabitants_: 139.99 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: smallest nation in South America with low population and client base; state-owned fixed-line tele-density rates and broadband services below regional average for Latin America and Caribbean; operator building out fiber network; mobile penetration is above regional average; fixed-line effective along the coastline yet poor in the interior; competition in the mobile sector; launch of 5G in Paramaribo; importer of broadcasting equipment from USA (2020)<br>
@@ -614,10 +614,6 @@ _international_: country code - 597; landing point for the SG-SCS submarine cabl
 
 **Internet country code**<br>
 .sr<br>
-
-**Internet users**<br>
-_total_: 352,100 (2021 est.)<br>
-_percent of population_: 48.95% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 92,270 (2021)<br>

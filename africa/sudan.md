@@ -618,8 +618,8 @@ _total subscriptions_: 129,408 (2020)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 35,195,207 (2020)<br>
-_subscriptions per 100 inhabitants_: 80.26 (2020 est.)<br>
+_total subscriptions_: 33,014,200 (2019)<br>
+_subscriptions per 100 inhabitants_: 77.11 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-equipped system by regional standards with ongoing upgrades; despite economic challenges, government continues to boost mobile infrastructure through build-out of fiber-broadband network across country; economic climate has not encouraged client growth in telecom, but some investment has been made to build mobile towers and expand LTE services; growth of e-money services; interim constitution safeguards rights and freedoms, though some Internet users continue to face harassment for activities; importer of broadcasting equipment from UAE and China (2020)<br>
@@ -632,10 +632,6 @@ Following the establishment of Sudan&rsquo;s civilian-led transitional governmen
 
 **Internet country code**<br>
 .sd<br>
-
-**Internet users**<br>
-_total_: 13.7 million (2021 est.)<br>
-_percent of population_: 30.87% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 28,782 (2021)<br>

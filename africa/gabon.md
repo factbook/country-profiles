@@ -619,10 +619,6 @@ state owns and operates 2 TV stations and 2 radio broadcast stations; a few priv
 **Internet country code**<br>
 .ga<br>
 
-**Internet users**<br>
-_total_: 1.43 million (2022 est.)<br>
-_percent of population_: 62% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 44,607 (2021)<br>
 _subscriptions per 100 inhabitants_: 2 (2021)<br>

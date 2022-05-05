@@ -611,8 +611,8 @@ _total subscriptions_: 3.025 million (2020)<br>
 _subscriptions per 100 inhabitants_: 15.72 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22.592 million (2020)<br>
-_subscriptions per 100 inhabitants_: 117.4 (2020 est.)<br>
+_total subscriptions_: 22.671 million (2019)<br>
+_subscriptions per 100 inhabitants_: 117.08 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Romania&rsquo;s telecom sector benefits from infrastructure-based competition; domestic and international service improving rapidly, especially mobile-cellular services; fiber sector is one of strongest in Europe; government secured EU funding to extend broadband to rural areas; operators invest in networks&rsquo; capacity upgrades; operator testing IoT; importer of broadcasting equipment from EU neighbors (2020)<br>
@@ -625,10 +625,6 @@ a mixture of public and private TV stations; there are 7 public TV stations (2 n
 
 **Internet country code**<br>
 .ro<br>
-
-**Internet users**<br>
-_total_: 15.49 million (2021)<br>
-_percent of population_: 78.46% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5,684,782 (2021)<br>
@@ -727,9 +723,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 782,598 (Ukraine) (as of 25 April 2022)<br>
+_refugees (country of origin)_: 846,521 (Ukraine) (as of 3 May 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 9,789 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
+<strong>note:</strong> 9,825 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

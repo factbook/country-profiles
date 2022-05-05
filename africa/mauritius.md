@@ -586,8 +586,8 @@ _total subscriptions_: 478,700 (2020)<br>
 _subscriptions per 100 inhabitants_: 37.64 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,912,900<br>
-_subscriptions per 100 inhabitants_: 150.4 (2020 est.)<br>
+_total subscriptions_: 1,912,900 (2019)<br>
+_subscriptions per 100 inhabitants_: 150.4 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Mauritius is successfully pursuing a policy to make telecommunications a pillar of economic growth, and to have a fully digital-based smart infrastructure; the island nation is a pioneer in the telecom sector, with the first market in greater Africa to launch mobile networks and provide 3G, the first in the world to develop a nationwide WiMAX wireless broadband network, and one of the first to launch IPTV; LTE and fiber broadband are nationally available, and the government supports national Wi-Fi; international cable connectivity has improved, increasing bandwidth capacity; submarine cable provides connectivity to South Africa and beyond; major importer of broadcasting equipment from China (2020)<br>
@@ -600,10 +600,6 @@ the government maintains control over TV broadcasting through the Mauritius Broa
 
 **Internet country code**<br>
 .mu<br>
-
-**Internet users**<br>
-_total_: 814,500 (2021 est.)<br>
-_percent of population_: 64.88% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 323,200 (2021)<br>

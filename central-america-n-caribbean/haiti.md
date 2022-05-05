@@ -594,8 +594,8 @@ _total subscriptions_: 5,952 (2019)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.61 million (2022)<br>
-_subscriptions per 100 inhabitants_: 65.5 (2022)<br>
+_total subscriptions_: 6,843,380 (2020)<br>
+_subscriptions per 100 inhabitants_: 60.76 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: plagued by political and economic turmoil complicated by natural disasters, Haiti&rsquo;s telecommunications infrastructure is among the least-developed in the world; it relies on satellite and wireless mobile technology due to poor fixed-line infrastructure; investment boosted broadband availability though customer base is poor and theft of equipment remains problematic; promotion of LTE will enable access to remote areas and e-money services; World Bank grant to provide digital preparation and response for any future crises (2020)<br>
@@ -608,10 +608,6 @@ _international_: country code - 509; landing points for the BDSNi and Fibralink 
 
 **Internet country code**<br>
 .ht<br>
-
-**Internet users**<br>
-_total_: 4.81 million (2022)<br>
-_percent of population_: 41.4% (2022 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 31,100 (2021 est.)<br>

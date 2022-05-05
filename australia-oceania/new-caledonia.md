@@ -529,7 +529,7 @@ _total subscriptions_: 77,719 (2018)<br>
 _subscriptions per 100 inhabitants_: 28.67 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 260,277 (2018)<br>
+_total subscriptions_: 260,277 (2019)<br>
 _subscriptions per 100 inhabitants_: 96.02 (2019 est.)<br>
 
 **Telecommunication systems**<br>
@@ -543,10 +543,6 @@ the publicly owned French Overseas Network (RFO), which operates in France's ove
 
 **Internet country code**<br>
 .nc<br>
-
-**Internet users**<br>
-_total_: 235,200 (2021 est.)<br>
-_percent of population_: 82.01% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 55,000 (2021 est.)<br>

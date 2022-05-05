@@ -606,7 +606,7 @@ _subscriptions per 100 inhabitants_: 49.22 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 192,284,308 (2020)<br>
-_subscriptions per 100 inhabitants_: 152 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 152 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent domestic and international service; exceedingly high mobile, mobile broadband, and fixed broadband penetration; in last decade, government policies supported delivery of fiber-optic broadband to over 90% of households; one of Japan's largest e-commerce companies planning to build its own nationwide stand-alone 5G mobile network; government to implement a telecom tax to pay for rural 5G network; fixed broadband subscriptions grow as DSL is phased out; major importer of integrated circuits from China (2020)<br>
@@ -619,10 +619,6 @@ a mixture of public and commercial broadcast TV and radio stations; 6 national t
 
 **Internet country code**<br>
 .jp<br>
-
-**Internet users**<br>
-_total_: 117.4 million (2021 est.)<br>
-_percent of population_: 92.73% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 44,000,791 Total does not equal the sum of subscriptions by speed since it included subscriptions with unknown speed. (2021)<br>

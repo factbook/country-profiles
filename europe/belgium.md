@@ -610,10 +610,6 @@ a segmented market with the three major communities (Flemish, French, and German
 **Internet country code**<br>
 .be<br>
 
-**Internet users**<br>
-_total_: 10.95 million (2022 est.)<br>
-_percent of population_: 94% (2022 est.)<br>
-
 **Broadband - fixed subscriptions**<br>
 _total_: 4,734,210 (2021)<br>
 _subscriptions per 100 inhabitants_: 40.85 (2021)<br>
