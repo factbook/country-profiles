@@ -72,6 +72,9 @@ moderate earthquake activity; droughts<br>
 **Geography - note**<br>
 the third largest island in the Mediterranean Sea (after Sicily and Sardinia); several small Cypriot enclaves exist within the Dhekelia Sovereign Base Area<br>
 
+**Map description**<br>
+<p>Cyprus map showing the island country in the Mediterranean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -98,7 +101,7 @@ _0-14 years_: 15.69% (male 102,095/female 96,676)<br>
 _15-24 years_: 12.29% (male 84,832/female 70,879)<br>
 _25-54 years_: 47.12% (male 316,710/female 280,167)<br>
 _55-64 years_: 11.92% (male 72,476/female 78,511)<br>
-_65 years and over_: 12.97% (male 71,053/female 93,277) (2020 est.)<br>
+_65 years and over_: 12.97% (2020 est.) (male 71,053/female 93,277)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.9<br>
@@ -195,10 +198,10 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 0.1% (2017 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<1000 (2017 est.)<br>
+(2017 est.) <1000<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2017 est.)<br>
+(2017 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 21.8% (2016)<br>
@@ -491,9 +494,9 @@ calendar year<br>
 -$958 million (2018 est.)<br>
 
 **Exports**<br>
-$16.1 billion note: data are in current year dollars (2020 est.)<br>
-$17.92 billion note: data are in current year dollars (2019 est.)<br>
-$19.02 billion note: data are in current year dollars (2018 est.)<br>
+$16.1 billion (2020 est.) note: data are in current year dollars<br>
+$17.92 billion (2019 est.) note: data are in current year dollars<br>
+$19.02 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 India 9%, Greece 9%, Libya 8%, United Kingdom 7% (2019)<br>
@@ -502,9 +505,9 @@ India 9%, Greece 9%, Libya 8%, United Kingdom 7% (2019)<br>
 ships, refined petroleum, packaged medicines, cheese, crude petroleum (2019)<br>
 
 **Imports**<br>
-$17.58 billion note: data are in current year dollars (2020 est.)<br>
-$18.2 billion note: data are in current year dollars (2019 est.)<br>
-$18.6 billion note: data are in current year dollars (2018 est.)<br>
+$17.58 billion (2020 est.) note: data are in current year dollars<br>
+$18.2 billion (2019 est.) note: data are in current year dollars<br>
+$18.6 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Greece 16%, Italy 10%, Turkey 8%, Russia 5%, Germany 5%, United Kingdom 5%, China 5% (2019)<br>
@@ -624,6 +627,10 @@ mixture of state and privately run TV and radio services; the public broadcaster
 **Internet country code**<br>
 .cy<br>
 
+**Internet users**<br>
+_total_: 1,098,699 (2020 est.)<br>
+_percent of population_: 91% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 332,080 (2021)<br>
 _subscriptions per 100 inhabitants_: 37.4 (2021 est.)<br>
@@ -634,7 +641,7 @@ _subscriptions per 100 inhabitants_: 37.4 (2021 est.)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 6<br>
 _annual passenger traffic on registered air carriers_: 401,408 (2018)<br>
-_annual freight traffic on registered air carriers_: 20,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 20,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 5B<br>
@@ -661,7 +668,7 @@ _under 914 m_: 2 (2021)<br>
 
 **Roadways**<br>
 _total_: 19,901 km (2016)<br>
-_government control_: 12,901 km (includes 272 km of expressways) (2016)<br>
+_government control_: 12,901 km (2016) (includes 272 km of expressways)<br>
 _paved_: 8,631 km (2016)<br>
 _unpaved_: 4,270 km (2016)<br>
 _Turkish Cypriot control_: 7,000 km (2011)<br>
@@ -682,9 +689,9 @@ Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF, includes Army La
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
-1.6% of GDP (approximately $610 million) (2019)<br>
-1.8% of GDP (approximately $650 million) (2018)<br>
-1.6% of GDP (approximately $540 million) (2017)<br>
+1.6% of GDP (2019) (approximately $610 million)<br>
+1.8% of GDP (2018) (approximately $650 million)<br>
+1.6% of GDP (2017) (approximately $540 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Cypriot National Guard has approximately 15,000 total active duty personnel (2021)<br>

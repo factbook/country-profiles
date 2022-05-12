@@ -82,6 +82,9 @@ flooding<br>
 **Geography - note**<br>
 strategic location on North European Plain and along the entrance to the Baltic Sea; most major rivers in Germany - the Rhine, Weser, Oder, Elbe - flow northward; the Danube, which originates in the Black Forest, flows eastward<br>
 
+**Map description**<br>
+<p>Germany showing major cities as well as parts of surrounding countries and the North and Baltic Seas.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -107,7 +110,7 @@ _0-14 years_: 12.89% (male 5,302,850/female 5,025,863)<br>
 _15-24 years_: 9.81% (male 4,012,412/female 3,854,471)<br>
 _25-54 years_: 38.58% (male 15,553,328/female 15,370,417)<br>
 _55-64 years_: 15.74% (male 6,297,886/female 6,316,024)<br>
-_65 years and over_: 22.99% (male 8,148,873/female 10,277,538) (2020 est.)<br>
+_65 years and over_: 22.99% (2020 est.) (male 8,148,873/female 10,277,538)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.4<br>
@@ -207,7 +210,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;500 (2020 est.)<br>
+(2020 est.) &lt;500<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -500,9 +503,9 @@ $280.238 billion (2019 est.)<br>
 $297.434 billion (2018 est.)<br>
 
 **Exports**<br>
-$1,671,650,000,000 note: data are in current year dollars (2020 est.)<br>
-$1,813,190,000,000 note: data are in current year dollars (2019 est.)<br>
-$1,881,510,000,000 note: data are in current year dollars (2018 est.)<br>
+$1,671,650,000,000 (2020 est.) note: data are in current year dollars<br>
+$1,813,190,000,000 (2019 est.) note: data are in current year dollars<br>
+$1,881,510,000,000 (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 9%, France 8%, China 7%, Netherlands 6%, United Kingdom 6%, Italy 5%, Poland 5%, Austria 5% (2019)<br>
@@ -511,9 +514,9 @@ United States 9%, France 8%, China 7%, Netherlands 6%, United Kingdom 6%, Italy 
 cars and vehicle parts, packaged medicines, aircraft, medical cultures/vaccines, industrial machinery (2019)<br>
 
 **Imports**<br>
-$1,452,560,000,000 note: data are in current year dollars (2020 est.)<br>
-$1,593,720,000,000 note: data are in current year dollars (2019 est.)<br>
-$1,635,580,000,000 note: data are in current year dollars (2018 est.)<br>
+$1,452,560,000,000 (2020 est.) note: data are in current year dollars<br>
+$1,593,720,000,000 (2019 est.) note: data are in current year dollars<br>
+$1,635,580,000,000 (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Netherlands 9%, China 8%, France 7%, Belgium 6%, Poland 6%, Italy 6%, Czechia 5%, United States 5% (2019)<br>
@@ -630,6 +633,10 @@ a mixture of publicly operated and privately owned TV and radio stations; 70 nat
 **Internet country code**<br>
 .de<br>
 
+**Internet users**<br>
+_total_: 74,844,784 (2020 est.)<br>
+_percent of population_: 90% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 36,215,303 (2021)<br>
 _subscriptions per 100 inhabitants_: 43.22 (2021)<br>
@@ -640,7 +647,7 @@ _subscriptions per 100 inhabitants_: 43.22 (2021)<br>
 _number of registered air carriers_: 20 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 1,113<br>
 _annual passenger traffic on registered air carriers_: 109,796,202 (2018)<br>
-_annual freight traffic on registered air carriers_: 7,969,860,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 7,969,860,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 D<br>
@@ -670,17 +677,17 @@ _under 914 m_: 185 (2021)<br>
 
 **Railways**<br>
 _total_: 33,590 km (2017)<br>
-_standard gauge_: 33,331 km 1.435-m gauge (19,973 km electrified) (2015)<br>
+_standard gauge_: 33,331 km (2015) 1.435-m gauge (19,973 km electrified)<br>
 _narrow gauge_: 220 km 1.000-m gauge (79 km electrified)<br>
 15 km 0.900-m gauge, 24 km 0.750-m gauge (2015)<br>
 
 **Roadways**<br>
 _total_: 625,000 km (2017)<br>
-_paved_: 625,000 km (includes 12,996 km of expressways) (2017)<br>
+_paved_: 625,000 km (2017) (includes 12,996 km of expressways)<br>
 <strong>note:</strong> includes local roads<br>
 
 **Waterways**<br>
-7,467 km (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea) (2012)<br>
+7,467 km (2012) (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea)<br>
 
 **Merchant marine**<br>
 _total_: 599<br>
@@ -701,9 +708,9 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
 1.5% of GDP (2020)<br>
-1.4% of GDP (approximately $60.1 billion) (2019)<br>
-1.3% of GDP (approximately $55.4 billion) (2018)<br>
-1.2% of GDP (approximately $53.5 billion) (2017)<br>
+1.4% of GDP (2019) (approximately $60.1 billion)<br>
+1.3% of GDP (2018) (approximately $55.4 billion)<br>
+1.2% of GDP (2017) (approximately $53.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 184,000 active duty personnel (63,500 Army; 16,500 Navy; 27,500 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 14,500 Cyber and Information Space Command; 15,000 other) (2021)<br>

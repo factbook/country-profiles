@@ -82,6 +82,9 @@ the most densely populated area is found around the Bosporus in the northwest wh
 **Geography - note**<br>
 strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Dardanelles) that link the Black and Aegean Seas; the 3% of Turkish territory north of the Straits lies in Europe and goes by the names of European Turkey, Eastern Thrace, or Turkish Thrace; the 97% of the country in Asia is referred to as Anatolia; Istanbul, which straddles the Bosporus, is the only metropolis in the world located on two continents; Mount Ararat, the legendary landing place of Noah's ark, is in the far eastern portion of the country<br>
 
+**Map description**<br>
+<p>Turkey map showing major cities as well as parts of surrounding countries and the Mediterranean and Black Seas.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -106,7 +109,7 @@ _0-14 years_: 23.41% (male 9,823,553/female 9,378,767)<br>
 _15-24 years_: 15.67% (male 6,564,263/female 6,286,615)<br>
 _25-54 years_: 43.31% (male 17,987,103/female 17,536,957)<br>
 _55-64 years_: 9.25% (male 3,764,878/female 3,822,946)<br>
-_65 years and over_: 8.35% (male 3,070,258/female 3,782,174) (2020 est.)<br>
+_65 years and over_: 8.35% (2020 est.) (male 3,070,258/female 3,782,174)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.1<br>
@@ -510,9 +513,9 @@ $8.561 billion (2019 est.)<br>
 -$20.745 billion (2018 est.)<br>
 
 **Exports**<br>
-$203.29 billion note: data are in current year dollars (2020 est.)<br>
-$245.84 billion note: data are in current year dollars (2019 est.)<br>
-$237.54 billion note: data are in current year dollars (2018 est.)<br>
+$203.29 billion (2020 est.) note: data are in current year dollars<br>
+$245.84 billion (2019 est.) note: data are in current year dollars<br>
+$237.54 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 9%, United Kingdom 6%, Iraq 5%, Italy 5%, United States 5% (2019)<br>
@@ -521,9 +524,9 @@ Germany 9%, United Kingdom 6%, Iraq 5%, Italy 5%, United States 5% (2019)<br>
 cars and vehicle parts, refined petroleum, delivery trucks, jewelry, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$232.01 billion note: data are in current year dollars (2020 est.)<br>
-$227.06 billion note: data are in current year dollars (2019 est.)<br>
-$248.09 billion note: data are in current year dollars (2018 est.)<br>
+$232.01 billion (2020 est.) note: data are in current year dollars<br>
+$227.06 billion (2019 est.) note: data are in current year dollars<br>
+$248.09 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 11%, China 9%, Russia 9%, United States 5%, Italy 5% (2019)<br>
@@ -640,6 +643,10 @@ _international_: country code - 90; landing points for the SeaMeWe-3 &amp; -5, M
 **Internet country code**<br>
 .tr<br>
 
+**Internet users**<br>
+_total_: 65,784,472 (2020 est.)<br>
+_percent of population_: 78% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 16,734,853 (2021)<br>
 _subscriptions per 100 inhabitants_: 19.84 (2021)<br>
@@ -650,7 +657,7 @@ _subscriptions per 100 inhabitants_: 19.84 (2021)<br>
 _number of registered air carriers_: 11 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 618<br>
 _annual passenger traffic on registered air carriers_: 115,595,495 (2018)<br>
-_annual freight traffic on registered air carriers_: 5,949,210,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 5,949,210,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 TC<br>
@@ -680,11 +687,11 @@ _under 914 m_: 2 (2021)<br>
 
 **Railways**<br>
 _total_: 12,710 km (2018)<br>
-_standard gauge_: 11,497 km 1.435-m gauge (1.435 km high speed train) (2018)<br>
+_standard gauge_: 11,497 km (2018) 1.435-m gauge (1.435 km high speed train)<br>
 
 **Roadways**<br>
 _total_: 67,333 km (2018)<br>
-_paved_: 24,082 km (includes 2,159 km of expressways) (2018)<br>
+_paved_: 24,082 km (2018) (includes 2,159 km of expressways)<br>
 _unpaved_: 43,251 km (2018)<br>
 
 **Waterways**<br>
@@ -708,12 +715,12 @@ note(s) - the Gendarmerie is responsible for the maintenance of the public order
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
 1.9% of GDP (2020)<br>
-1.9% of GDP (approximately $36.3 billion) (2019)<br>
-1.8% of GDP (approximately $37.2 billion) (2018)<br>
-1.5% of GDP (approximately $32.8 billion) (2017)<br>
+1.9% of GDP (2019) (approximately $36.3 billion)<br>
+1.8% of GDP (2018) (approximately $37.2 billion)<br>
+1.5% of GDP (2017) (approximately $32.8 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 400,000 active duty personnel (300,000 Army; 50,000 Navy; 50,000 Air Force); approximately 150,000 Gendarmerie (2021)<br>
+approximately 440,000 active duty personnel (345,000 Army; 45,000 Navy; 50,000 Air Force); approximately 150,000 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Turkish Armed Forces inventory is mostly comprised of a mix of domestically-produced and Western weapons systems, although in recent years, Turkey has also acquired some Chinese, Russian, and South Korean equipment; since 2010, the US is the leading provider of armaments to Turkey, followed by Italy, South Korea, and Spain; Turkey has a robust defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial platforms, although it is heavily dependent on Western technology; Turkey's defense industry also partners with other countries for defense production (2021)<br>
@@ -727,7 +734,7 @@ est. 200 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzego
 note(s) - between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale incursions in 2021 and early 2022; in 2020, Turkey deployed an undetermined number of Turkish military troops and an estimated 3,500-5,000 Syrian fighters to Libya to support the Libyan Government of National Accord (GNA)<br><br>in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years<br>
 
 **Military - note**<br>
-Turkey is a NATO ally (joined 1952) and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO Missile Defense<br><br>as of 2021, the Turkish Land Forces continued an overhaul under the "Force 2014" program with the intent of producing a 20-30% smaller, more highly trained force characterized by greater mobility and firepower and capable of joint and combined operations<br><br>the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines (as of 2021); the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications <br><br>the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and is developing an integrated missile defense system; in a controversial move, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system <br><br>in recent years, the TLFC has taken on increasing international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; Turkey in recent years has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan<br> <p>the military has a substantial stake in Turkey's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production</p> (2021)<br>
+Turkey is a NATO ally (joined 1952) and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO Missile Defense<br><br>as of 2021, the Turkish Land Forces continued an overhaul under the "Force 2014" program with the intent of producing a 20-30% smaller, more highly trained force characterized by greater mobility and firepower and capable of joint and combined operations<br><br>the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines (as of 2021); the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications <br><br>the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and is developing an integrated missile defense system; in a controversial move, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system <br><br>in recent years, the TLFC has taken on increasing international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; Turkey in recent years has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan<br><br>the military has a substantial stake in Turkey's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production (2021)<br>
 
 ## Terrorism
 

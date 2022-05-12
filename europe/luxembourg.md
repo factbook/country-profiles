@@ -73,6 +73,9 @@ occasional flooding<br>
 **Geography - note**<br>
 landlocked; the only grand duchy in the world<br>
 
+**Map description**<br>
+Luxembourg map showing major population centers as well as parts of surrounding countries.<br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 16.73% (male 54,099/female 51,004)<br>
 _15-24 years_: 11.78% (male 37,946/female 36,061)<br>
 _25-54 years_: 43.93% (male 141,535/female 134,531)<br>
 _55-64 years_: 12.19% (male 39,289/female 37,337)<br>
-_65 years and over_: 15.37% (male 43,595/female 52,984) (2020 est.)<br>
+_65 years and over_: 15.37% (2020 est.) (male 43,595/female 52,984)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 42.8<br>
@@ -195,7 +198,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 1,200 (2018 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018 est.)<br>
+(2018 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 22.6% (2016)<br>
@@ -476,9 +479,9 @@ $3.254 billion (2019 est.)<br>
 $3.296 billion (2018 est.)<br>
 
 **Exports**<br>
-$137.09 billion note: data are in current year dollars (2020 est.)<br>
-$133.59 billion note: data are in current year dollars (2019 est.)<br>
-$136.11 billion note: data are in current year dollars (2018 est.)<br>
+$137.09 billion (2020 est.) note: data are in current year dollars<br>
+$133.59 billion (2019 est.) note: data are in current year dollars<br>
+$136.11 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 23%, France 13%, Belgium 12%, Netherlands 6%, Italy 5% (2019)<br>
@@ -487,9 +490,9 @@ Germany 23%, France 13%, Belgium 12%, Netherlands 6%, Italy 5% (2019)<br>
 iron and iron products, tires, cars, broadcasting equipment, clothing and apparel&nbsp; (2019)<br>
 
 **Imports**<br>
-$110.1 billion note: data are in current year dollars (2020 est.)<br>
-$108.29 billion note: data are in current year dollars (2019 est.)<br>
-$110.28 billion note: data are in current year dollars (2018 est.)<br>
+$110.1 billion (2020 est.) note: data are in current year dollars<br>
+$108.29 billion (2019 est.) note: data are in current year dollars<br>
+$110.28 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Belgium 27%, Germany 24%, France 11%, Netherlands 5% (2019)<br>
@@ -606,6 +609,10 @@ Luxembourg has a long tradition of operating radio and TV services for pan-Europ
 **Internet country code**<br>
 .lu<br>
 
+**Internet users**<br>
+_total_: 624,115 (2020 est.)<br>
+_percent of population_: 99% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 235,155 (2021)<br>
 _subscriptions per 100 inhabitants_: 37.57 (2021)<br>
@@ -616,7 +623,7 @@ _subscriptions per 100 inhabitants_: 37.57 (2021)<br>
 _number of registered air carriers_: 4 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 66<br>
 _annual passenger traffic on registered air carriers_: 2,099,102 (2018)<br>
-_annual freight traffic on registered air carriers_: 7,323,040,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 7,323,040,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 LX<br>
@@ -640,13 +647,13 @@ _under 914 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 275 km (2014)<br>
-_standard gauge_: 275 km 1.435-m gauge (275 km electrified) (2014)<br>
+_standard gauge_: 275 km (2014) 1.435-m gauge (275 km electrified)<br>
 
 **Roadways**<br>
 _total_: 2,875 km (2019)<br>
 
 **Waterways**<br>
-37 km (on Moselle River) (2010)<br>
+37 km (2010) (on Moselle River)<br>
 
 **Merchant marine**<br>
 _total_: 153<br>
@@ -663,12 +670,12 @@ Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2021)<br>
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>
 0.6% of GDP (2020)<br>
-0.5% of GDP (approximately $420 million) (2019)<br>
-0.5% of GDP (approximately $380 million) (2018)<br>
-0.5% of GDP (approximately $370 million) (2017)<br>
+0.5% of GDP (2019) (approximately $420 million)<br>
+0.5% of GDP (2018) (approximately $380 million)<br>
+0.5% of GDP (2017) (approximately $370 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Luxembourg Army has approximately 900 active personnel (2021)<br>
+the Luxembourg Army has approximately 800 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Luxembourg's Army is a small mix of Western-origin equipment; since 2010, it has received equipment from several European countries (2021)<br>

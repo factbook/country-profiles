@@ -78,6 +78,9 @@ nearly half of the population is concentrated in the interior in the Andean inte
 **Geography - note**<br>
 <strong>note 1:</strong> Cotopaxi in Andes is highest active volcano in world<br><br><strong>note 2:</strong> genetic research indicates that the cherry-sized tomato originated in Ecuador without any human domestication; later domestication in Mexico transformed the plant into the large modern tomato; archeological research indicates that the cacao tree, whose seeds are used to make chocolate and which was long thought to have originated in Mesoamerica, was first domesticated in the upper Amazon region of northwest South America - present-day Ecuador - about 3,300 B.C.<br>
 
+**Map description**<br>
+<p>Ecuador map showing major cities as well as parts of surrounding countries and the Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -106,7 +109,7 @@ _0-14 years_: 25.82% (male 2,226,240/female 2,138,219)<br>
 _15-24 years_: 17.8% (male 1,531,545/female 1,478,222)<br>
 _25-54 years_: 40.31% (male 3,333,650/female 3,480,262)<br>
 _55-64 years_: 7.92% (male 647,718/female 691,759)<br>
-_65 years and over_: 8.15% (male 648,761/female 728,491) (2020 est.)<br>
+_65 years and over_: 8.15% (2020 est.) (male 648,761/female 728,491)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.8<br>
@@ -201,7 +204,7 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 45,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -505,9 +508,9 @@ calendar year<br>
 -$1.328 billion (2018 est.)<br>
 
 **Exports**<br>
-$22.23 billion note: data are in current year dollars (2020 est.)<br>
-$26.12 billion note: data are in current year dollars (2019 est.)<br>
-$25.38 billion note: data are in current year dollars (2018 est.)<br>
+$22.23 billion (2020 est.) note: data are in current year dollars<br>
+$26.12 billion (2019 est.) note: data are in current year dollars<br>
+$25.38 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 30%, China 13%, Panama 8%, Chile 7% (2019)<br>
@@ -516,9 +519,9 @@ United States 30%, China 13%, Panama 8%, Chile 7% (2019)<br>
 crude petroleum, crustaceans, bananas, fish, refined petroleum (2019)<br>
 
 **Imports**<br>
-$19.89 billion note: data are in current year dollars (2020 est.)<br>
-$25.89 billion note: data are in current year dollars (2019 est.)<br>
-$26.29 billion note: data are in current year dollars (2018 est.)<br>
+$19.89 billion (2020 est.) note: data are in current year dollars<br>
+$25.89 billion (2019 est.) note: data are in current year dollars<br>
+$26.29 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 22%, China 18%, Colombia 9%, Panama 5% (2019)<br>
@@ -624,15 +627,20 @@ _total subscriptions_: 15,485,366<br>
 _subscriptions per 100 inhabitants_: 87.77 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Ecuador&rsquo;s remote and mountainous geography lends challenges to tele-density; government-owned provider to improve fixed-line and LTE infrastructure, with emphasis on fiber expansion from urban to rural areas and installation of a 5G network; small telecom market dominated by the non-competitive mobile sector; inadequate fixed-line infrastructure and slowed fixed-line broadband services; Ecuador's&nbsp; telecom regulator, ARCOTEL, is currently evaluating and reorganizing the 3.5GHz, 2.5GHz, 700 MHz, and AWS spectrum for future government tenders; 2G/3G technologies have a 91.11% penetration rate of the total population and 4G technologies have a 60.74% penetration rate (2021)<br>
-_domestic_: fixed-line services with digital networks provided by multiple telecommunications operators; fixed-line teledensity stands at about 12 per 100 persons and mobile-cellular use nearly 88 per 100 persons (2019)<br>
-_international_: country code - 593; landing points for the SPSC (Mistral Submarine Cable), Panamerican Cable System (PAN-AM), Pacific Caribbean Cable System (PCCS), America Movil-Telxius West Coast Cable and SAm-1 submarine cables that provide links to South and Central America, and extending onward to the Caribbean and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
+_general assessment_: Ecuador&rsquo;s remote and mountainous geography lends challenges to tele-density; government-owned provider to improve fixed-line and LTE infrastructure, with emphasis on fiber expansion from urban to rural areas and installation of a 5G network; small telecom market dominated by the non-competitive mobile sector; inadequate fixed-line infrastructure and slowed fixed-line broadband services (2020). (2020)<br>
+_domestic_: according to 2021 statistics from the Ministry of Telecommunications and Information Society, 50 percent of Ecuadorian homes do not have access to fixed internet. &nbsp;Ecuador&rsquo;s telecoms regulator, ARCOTEL is currently evaluating and reorganizing the 3.5GHz, 2.5 GHz, 700 MHz and AWS spectrum for future government tenders.&nbsp; 2G/3G technologies have a 91.11 percent of penetration and 4G technologies has 60.74 percent (2021). (2021)<br>
+_international_: country code - 593; landing points for the SPSC (Mistral Submarine Cable), Panamerican Cable System (PAN-AM), Pacific Caribbean Cable System (PCCS), America Movil-Telxius West Coast Cable and SAm-1 submarine (SAm-1) cables that provide links to South and Central America, and extending onward to the Caribbean and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>
-the Communication Council, an official entity, carried out a media registry in December 2020 and registered 956 media outlets--89% are private, 5% are public, and 6% belong to small communities; of the 956 registered media, 58% are radio and 18% are print; the government controls most of the 44 public media, including national media and multiple local radio stations; the largest provinces with media outlets are Guayas with 172 and Pichincha with 130 media outlets; in May 2021 President LASSO repealed the regulations of the Organic Law of Communication that journalists considered restrictive and punitive; LASSO also sent a new regulation proposal to&nbsp; the National Assembly that is still under discussion (2021)<br>
+<p>the Communication Council, an official entity, carried out a media registry in Ecuador in December 2020.  It registered 956 media outlets, 89% are private, 5% are public and 6% belong to small communities. The government controls most of the 44 public media, this includes national media and multiple local radio stations. In addition, of the 956 registered media, 58% are radio and 18% print. Two provinces have the largest number of media outlets: Guayas has 172 media outlets and Pichincha has 130 media outlets. (2020) so also sent to the National Assembly a new regulation proposal that is still under discussion.</p> (2022)<br>
 
 **Internet country code**<br>
 .ec<br>
+
+**Internet users**<br>
+_total_: 11,467,989 (2020 est.)<br>
+_percent of population_: 65% (2020 est.)<br>
+according to 2021 statistics from Ecuador's Ministry of Telecommunications and Information Society, 50% of homes do not have access to fixed internet<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,371,297 (2021)<br>
@@ -644,7 +652,7 @@ _subscriptions per 100 inhabitants_: 13.44 (2021)<br>
 _number of registered air carriers_: 7 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 35<br>
 _annual passenger traffic on registered air carriers_: 5,365,261 (2018)<br>
-_annual freight traffic on registered air carriers_: 64.2 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 64.2 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 HC<br>
@@ -672,17 +680,17 @@ _under 914 m_: 291 (2021)<br>
 485 km extra heavy crude, 123 km gas, 2131 km oil, 1526 km refined products (2017)<br>
 
 **Railways**<br>
-_total_: 965 km (2017)<br>
-_narrow gauge_: 965 km 1.067-m gauge (2017)<br>
+_total_: 965 km (2022)<br>
+_narrow gauge_: 965 km (2022) 1.067-m gauge<br>
 <strong>note:</strong> passenger service limited to certain sections of track, mostly for tourist trains<br>
 
 **Roadways**<br>
-_total_: 81,968 km (2015)<br>
-_paved_: 18,935 km (2015)<br>
-_unpaved_: 63,033 km (2015)<br>
+_total_: 43,950 km (2022)<br>
+_paved_: 8,895 km (2022)<br>
+_unpaved_: 35,055 km (2022)<br>
 
 **Waterways**<br>
-1,500 km (most inaccessible) (2012)<br>
+1,500 km (2012) (most inaccessible)<br>
 
 **Merchant marine**<br>
 _total_: 145<br>
@@ -696,28 +704,28 @@ _river port(s)_: Guayaquil (Guayas)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ecuadorian Armed Forces: the Ecuadorian Army (El Ejército Ecuatoriano), Ecuadorian Navy (Fuerza Naval del Ecuador, FNE, includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE) (2021)<br><br>note - the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government<br>
+Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian Navy (Armada del Ecuador, Fuerza Naval del Ecuador, FNE, includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE) (2022)<br><br>note - the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government<br>
 note - the National Police of Ecuador (Polic&iacute;a Nacional del Ecuador) is under the Ministry of Government<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2020 est.)<br>
-2.2% of GDP (approximately $2.98 billion) (2019)<br>
-2.4% of GDP (approximately $3.14 billion) (2018)<br>
-2.4% of GDP (approximately $3.1 billion) (2017)<br>
-2.5% of GDP (approximately $3.17 billion) (2016)<br>
+2.2% of GDP (2019) (approximately $2.98 billion)<br>
+2.4% of GDP (2018) (approximately $3.14 billion)<br>
+2.4% of GDP (2017) (approximately $3.1 billion)<br>
+2.5% of GDP (2016) (approximately $3.17 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Ecuadorian Armed Forces have approximately 40,000 active personnel (25,000 Army; 9,000 Navy; 6,000 Air Force) (2021)<br>
+the Ecuadorian Armed Forces have approximately 40,000 active personnel (25,000 Army; 9,000 Navy; 6,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military's equipment inventory is mostly older and derived from a wide variety of sources; since 2010, Ecuador has received limited amounts of military equipment from more than 15 countries, including China, Russia, and the US&nbsp; (2021)<br>
+the military's equipment inventory is mostly older and derived from a wide variety of sources; since 2010, Ecuador has received limited amounts of military equipment from more than 15 countries, including China, Russia, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for selective conscript military service, although conscription was suspended in 2008; 18 years of age for voluntary military service; Ecuadorian birth requirement; 1-year service obligation; females have been allowed to serve in all branches since 2012 (2021)<br>
+18 years of age for selective conscript military service, although conscription was suspended in 2008; 18 years of age for voluntary military service; Ecuadorian birth requirement; 1-year service obligation; females have been allowed to serve in all branches since 2012 (2022)<br>
 note - in 2017, women made up an estimated 3% of the military<br>
 
 **Military - note**<br>
-<p>border conflicts with Peru dominated the military’s focus until the late 1990s; as of 2021, border security remained a priority, but in more recent years, security challenges have shifted towards counterinsurgency and counter-narcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, has spilled over the border; troop deployments along the border with Colombia were scaled back following the 2016 signing of a peace agreement between the Colombian Government and the Revolutionary Armed Forces of Colombia (FARC) terrorist group (see Appendix T), but recent violence associated with FARC dissidents to the agreement have led Ecuador and Colombia to reinforce their shared border; since 2012, the Ecuadorian Government has also expanded the military’s role in general public security and counter-narcotics operations, in part due to rising violence, police corruption, and police ineffectiveness</p> <p>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010</p> <p> </p><br>
+<p>border conflicts with Peru dominated the military’s focus until the late 1990s; as of 2022, border security remained a priority, but in more recent years, security challenges have shifted towards counterinsurgency and counter-narcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, has spilled over the border; troop deployments along the border with Colombia were scaled back following the 2016 signing of a peace agreement between the Colombian Government and the Revolutionary Armed Forces of Colombia (FARC) terrorist group (see Appendix T), but recent violence associated with FARC dissidents to the agreement have led Ecuador and Colombia to reinforce their shared border; since 2012, the Ecuadorian Government has also expanded the military’s role in general public security and counter-narcotics operations, in part due to rising violence, police corruption, and police ineffectiveness</p> <p>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010</p> <p> </p><br>
 
 **Maritime threats**<br>
 the International Maritime Bureau continues to report the territorial and offshore waters of Ecuador as at risk for piracy and armed robbery against ships; vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; there has been a slight decrease with four attacks reported in 2021 and five in 2020; one ship was boarded while underway and two ships were fired upon<br>

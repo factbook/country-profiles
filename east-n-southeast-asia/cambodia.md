@@ -82,6 +82,9 @@ monsoonal rains (June to November); flooding; occasional droughts<br>
 **Geography - note**<br>
 a land of paddies and forests dominated by the Mekong River and Tonle Sap (Southeast Asia's largest freshwater lake)<br>
 
+**Map description**<br>
+<p>Cambodia map showing major cities as well as parts of surrounding countries and the Gulf of Thailand.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ _0-14 years_: 30.18% (male 2,582,427/female 2,525,619)<br>
 _15-24 years_: 17.28% (male 1,452,784/female 1,472,769)<br>
 _25-54 years_: 41.51% (male 3,442,051/female 3,584,592)<br>
 _55-64 years_: 6.44% (male 476,561/female 612,706)<br>
-_65 years and over_: 4.59% (male 287,021/female 490,454) (2020 est.)<br>
+_65 years and over_: 4.59% (2020 est.) (male 287,021/female 490,454)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.7<br>
@@ -507,9 +510,9 @@ calendar year<br>
 -$1.731 billion (2016 est.)<br>
 
 **Exports**<br>
-$19.4 billion note: data are in current year dollars (2020 est.)<br>
-$21.07 billion note: data are in current year dollars (2019 est.)<br>
-$18.41 billion note: data are in current year dollars (2018 est.)<br>
+$19.4 billion (2020 est.) note: data are in current year dollars<br>
+$21.07 billion (2019 est.) note: data are in current year dollars<br>
+$18.41 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 21%, Singapore 8%, Thailand 8%, Germany 7%, Japan 6%, China 5%, Canada 5%, United Kingdom 5% (2019)<br>
@@ -518,9 +521,9 @@ United States 21%, Singapore 8%, Thailand 8%, Germany 7%, Japan 6%, China 5%, Ca
 clothing, precious metal scraps, trunks/cases, gold, leather footwear (2019)<br>
 
 **Imports**<br>
-$23.12 billion note: data are in current year dollars (2020 est.)<br>
-$25.52 billion note: data are in current year dollars (2019 est.)<br>
-$21.86 billion note: data are in current year dollars (2018 est.)<br>
+$23.12 billion (2020 est.) note: data are in current year dollars<br>
+$25.52 billion (2019 est.) note: data are in current year dollars<br>
+$21.86 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 27%, Thailand 25%, Vietnam 15%, Singapore 8% (2019)<br>
@@ -621,7 +624,7 @@ _electrification - rural areas_: 67% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 56,445 (2019)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: (2019 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 21,418,681 (2019)<br>
@@ -639,8 +642,12 @@ mixture of state-owned, joint public-private, and privately owned broadcast medi
 **Internet country code**<br>
 .kh<br>
 
+**Internet users**<br>
+_total_: 5,440,559 (2019 est.)<br>
+_percent of population_: 33% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 233,732 Slowly increase as focus is on mobile internet (2021)<br>
+_total_: 233,732 (2021) Slowly increase as focus is on mobile internet<br>
 _subscriptions per 100 inhabitants_: 1.4 (2021 est.)<br>
 
 ## Transportation
@@ -649,7 +656,7 @@ _subscriptions per 100 inhabitants_: 1.4 (2021 est.)<br>
 _number of registered air carriers_: 6 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 25<br>
 _annual passenger traffic on registered air carriers_: 1,411,059 (2018)<br>
-_annual freight traffic on registered air carriers_: 680,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 680,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 XU<br>
@@ -674,7 +681,7 @@ _under 914 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 642 km (2014)<br>
-_narrow gauge_: 642 km 1.000-m gauge (2014)<br>
+_narrow gauge_: 642 km (2014) 1.000-m gauge<br>
 <strong>note:</strong> under restoration<br>
 
 **Roadways**<br>
@@ -683,7 +690,7 @@ _paved_: 12,239 km (2013)<br>
 _unpaved_: 35,024 km (2013)<br>
 
 **Waterways**<br>
-3,700 km (mainly on Mekong River) (2012)<br>
+3,700 km (2012) (mainly on Mekong River)<br>
 
 **Merchant marine**<br>
 _total_: 245<br>
@@ -700,11 +707,11 @@ Royal Cambodian Armed Forces: High Command Headquarters, Royal Cambodian Army, R
 note - the Cambodian National Police is under the Ministry of Interior<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2021 est.)<br>
 2.5% of GDP (2020 est.)<br>
-2.2% of GDP (approximately $1.2 billion) (2019 est.)<br>
-2.2% of GDP (approximately $1.13 billion) (2018 est.)<br>
-2.1% of GDP (approximately $1.02 billion) (2017 est.)<br>
-2% of GDP (approximately $940 million) (2016 est.)<br>
+2.2% of GDP (2019 est.) (approximately $1.2 billion)<br>
+2.2% of GDP (2018 est.) (approximately $1.13 billion)<br>
+2.1% of GDP (2017 est.) (approximately $1.02 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 100,000 total active troops including about 3,000 Navy and 1,000 Air Force; est. 10,000 Gendarmerie (2021)<br>

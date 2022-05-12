@@ -86,6 +86,9 @@ population is primarily located on the periphery, with the highest concentration
 **Geography - note**<br>
 <strong>note 1:</strong> world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders<br><br><strong>note 2:</strong> the Great Dividing Range that runs along eastern Australia is that continent’s longest mountain range and the third-longest land-based range in the world; the term "Great Dividing Range" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow – east, west, north, and south<br><br><strong>note 3:</strong> Australia is the only continent without glaciers; it is the driest inhabited continent on earth, making it particularly vulnerable to the challenges of climate change; the invigorating sea breeze known as the "Fremantle Doctor" affects the city of Perth on the west coast and is one of the most consistent winds in the world; Australia is home to 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world<br>
 
+**Map description**<br>
+<p>Australia map showing the major cities of the continent as well parts of surrounding seas.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -111,7 +114,7 @@ _0-14 years_: 18.72% (male 2,457,418/female 2,309,706)<br>
 _15-24 years_: 12.89% (male 1,710,253/female 1,572,794)<br>
 _25-54 years_: 41.15% (male 5,224,840/female 5,255,041)<br>
 _55-64 years_: 11.35% (male 1,395,844/female 1,495,806)<br>
-_65 years and over_: 15.88% (male 1,866,761/female 2,177,996) (2020 est.)<br>
+_65 years and over_: 15.88% (2020 est.) (male 1,866,761/female 2,177,996)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.1<br>
@@ -212,7 +215,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br>
+(2020 est.) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -503,9 +506,9 @@ $8.146 billion (2019 est.)<br>
 -$29.777 billion (2018 est.)<br>
 
 **Exports**<br>
-$299.04 billion note: data are in current year dollars (2020 est.)<br>
-$342.43 billion note: data are in current year dollars (2019 est.)<br>
-$327.32 billion note: data are in current year dollars (2018 est.)<br>
+$299.04 billion (2020 est.) note: data are in current year dollars<br>
+$342.43 billion (2019 est.) note: data are in current year dollars<br>
+$327.32 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 39%, Japan 15%, South Korea 7%, India 5% (2019)<br>
@@ -514,9 +517,9 @@ China 39%, Japan 15%, South Korea 7%, India 5% (2019)<br>
 iron ore, coal, natural gas, gold, aluminum oxide (2019)<br>
 
 **Imports**<br>
-$249.07 billion note: data are in current year dollars (2020 est.)<br>
-$295.46 billion note: data are in current year dollars (2019 est.)<br>
-$310.23 billion note: data are in current year dollars (2018 est.)<br>
+$249.07 billion (2020 est.) note: data are in current year dollars<br>
+$295.46 billion (2019 est.) note: data are in current year dollars<br>
+$310.23 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 25%, United States 12%, Japan 7%, Germany 5%, Thailand 5% (2019)<br>
@@ -633,8 +636,12 @@ the Australian Broadcasting Corporation (ABC) runs multiple national and local r
 **Internet country code**<br>
 .au<br>
 
+**Internet users**<br>
+_total_: 23,123,940 (2020 est.)<br>
+_percent of population_: 90% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 9,099,619 Total includes both NBN and non-NBN subscriptions. (2021 est.)<br>
+_total_: 9,099,619 (2021 est.) Total includes both NBN and non-NBN subscriptions.<br>
 _subscriptions per 100 inhabitants_: 35.68 (2021)<br>
 
 ## Transportation
@@ -643,7 +650,7 @@ _subscriptions per 100 inhabitants_: 35.68 (2021)<br>
 _number of registered air carriers_: 25 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 583<br>
 _annual passenger traffic on registered air carriers_: 75,667,645 (2018)<br>
-_annual freight traffic on registered air carriers_: 2,027,640,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 2,027,640,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 VH<br>
@@ -673,9 +680,9 @@ _under 914 m_: 14 (2021)<br>
 
 **Railways**<br>
 _total_: 33,343 km (2015)<br>
-_standard gauge_: 17,446 km 1.435-m gauge (650 km electrified) (2015)<br>
-_narrow gauge_: 12,318 km 1.067-m gauge (2,075.5 km electrified) (2015)<br>
-_broad gauge_: 3,247 km 1.600-m gauge (372 km electrified) (2015)<br>
+_standard gauge_: 17,446 km (2015) 1.435-m gauge (650 km electrified)<br>
+_narrow gauge_: 12,318 km (2015) 1.067-m gauge (2,075.5 km electrified)<br>
+_broad gauge_: 3,247 km (2015) 1.600-m gauge (372 km electrified)<br>
 
 **Roadways**<br>
 _total_: 873,573 km (2015)<br>
@@ -683,7 +690,7 @@ _urban_: 145,928 km (2015)<br>
 _non-urban_: 727,645 km (2015)<br>
 
 **Waterways**<br>
-2,000 km (mainly used for recreation on Murray and Murray-Darling River systems) (2011)<br>
+2,000 km (2011) (mainly used for recreation on Murray and Murray-Darling River systems)<br>
 
 **Merchant marine**<br>
 _total_: 581<br>
@@ -701,11 +708,11 @@ _dry bulk cargo port(s)_: Dampier (iron ore), Dalrymple Bay (coal), Hay Point (c
 Australian Defense Force (ADF): Australian Army (includes Special Operations Command), Royal Australian Navy (includes Naval Aviation Force), Royal Australian Air Force (2021)<br>
 
 **Military expenditures**<br>
-2.2% of GDP (2021 est.)<br>
+2.1% of GDP (2021 est.)<br>
 2.1% of GDP (2020)<br>
-2% of GDP (approximately $31.5 billion) (2019)<br>
-1.9% of GDP (approximately $29.8 billion) (2018)<br>
-2% of GDP (approximately $29.7 billion) (2017)<br>
+2% of GDP (2019) (approximately $31.5 billion)<br>
+1.9% of GDP (2018) (approximately $29.8 billion)<br>
+2% of GDP (2017) (approximately $29.7 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Australian Defense Force has approximately 59,000 total active troops (29,000 Army; 15,000 Navy; 15,000 Air Force) (2021)<br>

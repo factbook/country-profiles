@@ -73,6 +73,9 @@ the east coast is subject to hurricanes from August to November (in general, the
 **Geography - note**<br>
 largest country in Caribbean and westernmost island of the Greater Antilles<br>
 
+**Map description**<br>
+<p>Cuba map showing the island country in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -99,7 +102,7 @@ _0-14 years_: 16.34% (male 929,927/female 877,035)<br>
 _15-24 years_: 11.81% (male 678,253/female 627,384)<br>
 _25-54 years_: 41.95% (male 2,335,680/female 2,303,793)<br>
 _55-64 years_: 14.11% (male 760,165/female 799,734)<br>
-_65 years and over_: 15.8% (male 794,743/female 952,348) (2020 est.)<br>
+_65 years and over_: 15.8% (2020 est.) (male 794,743/female 952,348)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.7<br>
@@ -194,7 +197,7 @@ _unimproved: total_: total: 7% of population (2017 est.)<br>
 33,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -610,6 +613,11 @@ government owns and controls all broadcast media: five national TV channels (Cub
 **Internet country code**<br>
 .cu<br>
 
+**Internet users**<br>
+_total_: 8,381,696 (2020 est.)<br>
+_percent of population_: 74% (2020 est.)<br>
+<strong>note:</strong> private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled "intranet"; issues relating to COVID-19 impact research into internet adoption, so actual internet user figures may be different than published numbers suggest<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 231,654 (2021)<br>
 _subscriptions per 100 inhabitants_: 2.05 (2021)<br>
@@ -620,7 +628,7 @@ _subscriptions per 100 inhabitants_: 2.05 (2021)<br>
 _number of registered air carriers_: 4 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 18<br>
 _annual passenger traffic on registered air carriers_: 560,754 (2018)<br>
-_annual freight traffic on registered air carriers_: 17.76 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 17.76 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 CU<br>
@@ -646,8 +654,8 @@ _under 914 m_: 58 (2021)<br>
 
 **Railways**<br>
 _total_: 8,125 km (2017)<br>
-_standard gauge_: 8,195 km 1.435-m gauge (124 km electrified) (2017)<br>
-_narrow gauge_: 172 km 1.000-m gauge (2017)<br>
+_standard gauge_: 8,195 km (2017) 1.435-m gauge (124 km electrified)<br>
+_narrow gauge_: 172 km (2017) 1.000-m gauge<br>
 <strong>note: </strong>As of 2013, 70 km of standard gauge and 12 km of narrow gauge track were not for public use<br>
 
 **Roadways**<br>
@@ -656,7 +664,7 @@ _paved_: 20,000 km (2001)<br>
 _unpaved_: 40,000 km (2001)<br>
 
 **Waterways**<br>
-240 km (almost all navigable inland waterways are near the mouths of rivers) (2011)<br>
+240 km (2011) (almost all navigable inland waterways are near the mouths of rivers)<br>
 
 **Merchant marine**<br>
 _total_: 59<br>
@@ -672,10 +680,10 @@ Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary
 
 **Military expenditures**<br>
 4.2% of GDP (2020 est.)<br>
-3.2% of GDP (approximately $5.9 billion) (2019 est.)<br>
-2.9% of GDP (approximately $5.6 billion) (2018 est.)<br>
-2.9% of GDP (approximately $5.5 billion) (2017 est.)<br>
-3.1% of GDP (approximately $5.5 billion) (2016 est.)<br>
+3.2% of GDP (2019 est.) (approximately $5.9 billion)<br>
+2.9% of GDP (2018 est.) (approximately $5.6 billion)<br>
+2.9% of GDP (2017 est.) (approximately $5.5 billion)<br>
+3.1% of GDP (2016 est.) (approximately $5.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
 limited available information; estimated 50,000 active personnel (approximately 40,000 Army; 3,000 Navy; 8,000 Air Force) (2021)<br>

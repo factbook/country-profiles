@@ -73,6 +73,9 @@ occasional floods, droughts<br>
 **Geography - note**<br>
 fertile central plains are separated by hilly uplands that are ancient glacial deposits<br>
 
+**Map description**<br>
+<p>Lithuania map showing major cities as well as parts of surrounding countries and the Baltic Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 15.26% (male 213,802/female 202,948)<br>
 _15-24 years_: 10.23% (male 144,679/female 134,822)<br>
 _25-54 years_: 38.96% (male 528,706/female 535,485)<br>
 _55-64 years_: 15.1% (male 183,854/female 228,585)<br>
-_65 years and over_: 20.45% (male 190,025/female 368,558) (2020 est.)<br>
+_65 years and over_: 20.45% (2020 est.) (male 190,025/female 368,558)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.5<br>
@@ -195,7 +198,7 @@ _unimproved: total_: total: 4% of population (2020 est.)<br>
 3,400 (2019 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2019 est.)<br>
+(2019 est.) <100<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -494,9 +497,9 @@ $1.817 billion (2019 est.)<br>
 $131 million (2018 est.)<br>
 
 **Exports**<br>
-$41.48 billion note: data are in current year dollars (2020 est.)<br>
-$42.3 billion note: data are in current year dollars (2019 est.)<br>
-$40.36 billion note: data are in current year dollars (2018 est.)<br>
+$41.48 billion (2020 est.) note: data are in current year dollars<br>
+$42.3 billion (2019 est.) note: data are in current year dollars<br>
+$40.36 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Russia 13%, Latvia 9%, Poland 8%, Germany 7%, Estonia 5% (2019)<br>
@@ -505,9 +508,9 @@ Russia 13%, Latvia 9%, Poland 8%, Germany 7%, Estonia 5% (2019)<br>
 refined petroleum, furniture, cigarettes, wheat, polyethylene (2019)<br>
 
 **Imports**<br>
-$36.06 billion note: data are in current year dollars (2020 est.)<br>
-$39.46 billion note: data are in current year dollars (2019 est.)<br>
-$39.38 billion note: data are in current year dollars (2018 est.)<br>
+$36.06 billion (2020 est.) note: data are in current year dollars<br>
+$39.46 billion (2019 est.) note: data are in current year dollars<br>
+$39.38 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Poland 12%, Russia 12%, Germany 12%, Latvia 7%, Netherlands 5% (2019)<br>
@@ -624,9 +627,13 @@ public broadcaster operates 3 channels with the third channel - a satellite chan
 **Internet country code**<br>
 .lt<br>
 
+**Internet users**<br>
+_total_: 2,319,755 (2020 est.)<br>
+_percent of population_: 83% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 796,814 (2021)<br>
-_subscriptions per 100 inhabitants_: 29.27 (2021)<br>
+_total_: 796,814 (2022)<br>
+_subscriptions per 100 inhabitants_: 29.27 (2022)<br>
 
 ## Transportation
 
@@ -660,16 +667,16 @@ _under 914 m_: 36 (2021)<br>
 
 **Railways**<br>
 _total_: 1,768 km (2014)<br>
-_standard gauge_: 22 km 1.435-m gauge (2014)<br>
-_broad gauge_: 1,746 km 1.520-m gauge (122 km electrified) (2014)<br>
+_standard gauge_: 22 km (2014) 1.435-m gauge<br>
+_broad gauge_: 1,746 km (2014) 1.520-m gauge (122 km electrified)<br>
 
 **Roadways**<br>
 _total_: 84,166 km (2012)<br>
-_paved_: 72,297 km (includes 312 km of expressways) (2012)<br>
+_paved_: 72,297 km (2012) (includes 312 km of expressways)<br>
 _unpaved_: 11,869 km (2012)<br>
 
 **Waterways**<br>
-441 km (navigable year-round) (2007)<br>
+441 km (2007) (navigable year-round)<br>
 
 **Merchant marine**<br>
 _total_: 64<br>
@@ -688,12 +695,12 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
 2.1% of GDP (2020)<br>
-2% of GDP (approximately $1.7 billion) (2019)<br>
-2% of GDP (approximately $1.59 billion) (2018)<br>
-1.7% of GDP (approximately $1.34 billion) (2017)<br>
+2% of GDP (2019) (approximately $1.7 billion)<br>
+2% of GDP (2018) (approximately $1.59 billion)<br>
+1.7% of GDP (2017) (approximately $1.34 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Lithuanian Armed Forces have approximately 16,000 active duty personnel (12,500 Army, including about 5,000 National Defense Voluntary Forces; 600 Navy; 1,000 Air Force; 2,000 other, including special operations forces, logistics support, training, etc); est. 11,000 Riflemen Union (2021)<br>
+the Lithuanian Armed Forces have approximately 16,500 active duty personnel (13,000 Army, including about 5,000 National Defense Voluntary Forces; 500 Navy; 1,000 Air Force; 2,000 other, including special operations forces, logistics support, training, etc); est. 11,000 Riflemen Union (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons systems and Soviet-era equipment (primarily aircraft and helicopters); as of 2021, Germany was the leading supplier of armaments to Lithuania (2021)<br>

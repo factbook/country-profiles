@@ -67,6 +67,9 @@ _other_: 0% (2018 est.)<br>
 **Geography - note**<br>
 Pago Pago has one of the best natural deepwater harbors in the South Pacific Ocean, sheltered by shape from rough seas and protected by peripheral mountains from high winds; strategic location in the South Pacific Ocean<br>
 
+**Map description**<br>
+<p>Map of American Samoa showing the islands that together comprise this US territory and its relative location in the South Pacific Ocean; an inset provides detail of the major island of Tutuila with the capital Pago Pago.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -92,7 +95,7 @@ _0-14 years_: 27.76% (male 7,063/female 6,662)<br>
 _15-24 years_: 18.16% (male 4,521/female 4,458)<br>
 _25-54 years_: 37.49% (male 9,164/female 9,370)<br>
 _55-64 years_: 9.69% (male 2,341/female 2,447)<br>
-_65 years and over_: 6.9% (male 1,580/female 1,831) (2020 est.)<br>
+_65 years and over_: 6.9% (2020 est.) (male 1,580/female 1,831)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -481,7 +484,8 @@ _total subscriptions_: 10,000 (2018 est.)<br>
 _subscriptions per 100 inhabitants_: 17.92 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_subscriptions per 100 inhabitants_: 4 (2004)<br>
+_total subscriptions_: 2,250 (2009 est.)<br>
+_subscriptions per 100 inhabitants_: 3.8 (2009 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good telex, telegraph, facsimile, and cellular telephone services; one of the most complete and modern telecommunications systems in the South Pacific Islands; all inhabited islands have telephone connectivity<br>
@@ -494,6 +498,10 @@ _international_: country code - 1-684; landing points for the ASH, Southern Cros
 
 **Internet country code**<br>
 .as<br>
+
+**Internet users**<br>
+_total_: 17,147 (2020 est.)<br>
+_percent of population_: 31% (2020 est.)<br>
 
 ## Transportation
 
@@ -520,5 +528,5 @@ defense is the responsibility of the US<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Tokelau included American Samoa's Swains Island (Olosega) in its 2006 draft independence constitution</p><br>
+<p>none identified</p><br>
 

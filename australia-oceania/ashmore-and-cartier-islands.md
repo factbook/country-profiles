@@ -62,10 +62,13 @@ surrounded by shoals and reefs that can pose maritime hazards<br>
 **Geography - note**<br>
 Ashmore Reef National Nature Reserve established in August 1983; Cartier Island Marine Reserve established in 2000<br>
 
+**Map description**<br>
+<p>Ashmore and Cartier Islands map showing the islands and reefs that make up this Australian territory in the Indian Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
-no indigenous inhabitants (July 2021 est.)<br>
+(July 2021 est.) no indigenous inhabitants<br>
 <strong>note:</strong> Indonesian fishermen are allowed access to the lagoon and fresh water at Ashmore Reef's West Island; access to East and Middle Islands is by permit only<br>
 
 **Age structure**<br>
@@ -88,7 +91,7 @@ _potential support ratio_: NA<br>
 NA<br>
 
 **Death rate**<br>
-NA (2021 est.)<br>
+(2021 est.) NA<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

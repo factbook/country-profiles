@@ -38,6 +38,9 @@ temperate; Mediterranean with hot, dry summers and cool winters<br>
 **Geography - note**<br>
 British extraterritorial rights also extended to several small off-post sites scattered across Cyprus; several small Cypriot enclaves exist within the Sovereign Base Area (SBA); of the SBA land, 60% is privately owned and farmed, 20% is owned by the Ministry of Defense, and 20% is SBA Crown land<br>
 
+**Map description**<br>
+<p>Dhekelia map showing the UK Sovereign Base Area as well as the adjacent part of southeast Cyprus.</p><br>
+
 ## People and Society
 
 **Population**<br>

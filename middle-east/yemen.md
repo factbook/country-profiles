@@ -74,6 +74,9 @@ the vast majority of the population is found in the Asir Mountains (part of the 
 **Geography - note**<br>
 strategic location on Bab el Mandeb, the strait linking the Red Sea and the Gulf of Aden, one of world's most active shipping lanes<br>
 
+**Map description**<br>
+<p>Yemen map showing major population centers as well as parts of neighboring countries and the Gulf of Aden and the Red Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -98,7 +101,7 @@ _0-14 years_: 39.16% (male 5,711,709 /female 5,513,526)<br>
 _15-24 years_: 21.26% (male 3,089,817 /female 3,005,693)<br>
 _25-54 years_: 32.78% (male 4,805,059 /female 4,591,811)<br>
 _55-64 years_: 4% (male 523,769 /female 623,100)<br>
-_65 years and over_: 2.8% (male 366,891 /female 435,855) (2018 est.)<br>
+_65 years and over_: 2.8% (2018 est.) (male 366,891 /female 435,855)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 71.7<br>
@@ -191,13 +194,13 @@ _unimproved: rural_: rural: 55.8% of population<br>
 _unimproved: total_: total: 40.9% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 11,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -621,6 +624,10 @@ state-run TV with 2 stations; state-run radio with 2 national radio stations and
 **Internet country code**<br>
 .ye<br>
 
+**Internet users**<br>
+_total_: 7,873,719 (2019 est.)<br>
+_percent of population_: 27% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 391,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 1.31 (2021 est.)<br>
@@ -631,7 +638,7 @@ _subscriptions per 100 inhabitants_: 1.31 (2021 est.)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 8<br>
 _annual passenger traffic on registered air carriers_: 336,310 (2018)<br>
-_annual freight traffic on registered air carriers_: 3.27 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 3.27 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 7O<br>

@@ -79,6 +79,9 @@ recurring droughts; floods and severe storms are rare<br>
 **Geography - note**<br>
 landlocked; the Zambezi forms a natural riverine boundary with Zambia; in full flood (February-April) the massive Victoria Falls on the river forms the world's largest curtain of falling water; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)<br>
 
+**Map description**<br>
+<p>Zimbabwe map showing major population centers as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -106,7 +109,7 @@ _0-14 years_: 38.32% (male 2,759,155/female 2,814,462)<br>
 _15-24 years_: 20.16% (male 1,436,710/female 1,495,440)<br>
 _25-54 years_: 32.94% (male 2,456,392/female 2,334,973)<br>
 _55-64 years_: 4.07% (male 227,506/female 363,824)<br>
-_65 years and over_: 4.52% (male 261,456/female 396,396) (2020 est.)<br>
+_65 years and over_: 4.52% (2020 est.) (male 261,456/female 396,396)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 81.6<br>
@@ -287,7 +290,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to High food prices and economic downturn - a well above-average cereal production in 2021 has resulted in an improvement in food security; an estimated 1.8 million people are still assessed to be food insecure in the July&minus;September period, about half the level in the previous year, largely on account of poor food access due to prevailing high prices and reduced incomes owing to the effects of the economic downturn; the negative effects of the COVID‑19 pandemic aggravated conditions, particularly with regard to income levels due to market instability from COVID‑19 lockdown measures<br>
+_widespread lack of access_: due to High food prices and economic downturn - an estimated 3 million people are projected to be in need of humanitarian assistance between January and March 2022, largely on account of poor food access due to prevailing high food prices and reduced incomes owing to the effects of an economic downturn; below-average rainfall and extreme weather events in 2021/22 are likely to result in a decrease in cereal production and heighten food insecurity later in 2022 (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,449,752 tons (2015 est.)<br>
@@ -642,6 +645,10 @@ government owns all local radio and TV stations; foreign shortwave broadcasts an
 **Internet country code**<br>
 .zw<br>
 
+**Internet users**<br>
+_total_: 4,310,249 (2020 est.)<br>
+_percent of population_: 29% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 203,461 (2021)<br>
 _subscriptions per 100 inhabitants_: 1.37 (2021)<br>
@@ -652,7 +659,7 @@ _subscriptions per 100 inhabitants_: 1.37 (2021)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 12<br>
 _annual passenger traffic on registered air carriers_: 285,539 (2018)<br>
-_annual freight traffic on registered air carriers_: 670,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 670,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 Z<br>
@@ -678,7 +685,7 @@ _under 914 m_: 72 (2021)<br>
 
 **Railways**<br>
 _total_: 3,427 km (2014)<br>
-_narrow gauge_: 3,427 km 1.067-m gauge (313 km electrified) (2014)<br>
+_narrow gauge_: 3,427 km (2014) 1.067-m gauge (313 km electrified)<br>
 
 **Roadways**<br>
 _total_: 97,267 km (2019)<br>
@@ -686,7 +693,7 @@ _paved_: 18,481 km (2019)<br>
 _unpaved_: 78,786 km (2019)<br>
 
 **Waterways**<br>
-(some navigation possible on Lake Kariba) (2011)<br>
+(2011) (some navigation possible on Lake Kariba)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Binga, Kariba (Zambezi)<br>
@@ -697,11 +704,11 @@ _river port(s)_: Binga, Kariba (Zambezi)<br>
 Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ) (2021)<br>
 
 **Military expenditures**<br>
-2.6% of GDP (approximately $650 million) (2019 est.)<br>
-1.7% of GDP (approximately $510 million) (2018 est.)<br>
-1.5% of GDP (approximately $450 million) (2017 est.)<br>
-1.8% of GDP (approximately $480 million) (2016 est.)<br>
-1.9% of GDP (approximately $490 million) (2015 est.)<br>
+2.6% of GDP (2019 est.) (approximately $650 million)<br>
+1.7% of GDP (2018 est.) (approximately $510 million)<br>
+1.5% of GDP (2017 est.) (approximately $450 million)<br>
+1.8% of GDP (2016 est.) (approximately $480 million)<br>
+1.9% of GDP (2015 est.) (approximately $490 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 30,000 active duty troops, including about 4,000 serving in the Air Force (2021)<br>

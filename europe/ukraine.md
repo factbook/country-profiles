@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ukraine was the center of the first eastern Slavic state, Kyivan Rus, which during the 10th and 11th centuries was the largest and most powerful state in Europe. Weakened by internecine quarrels and Mongol invasions, Kyivan Rus was incorporated into the Grand Duchy of Lithuania and eventually into the Polish-Lithuanian Commonwealth. The cultural and religious legacy of Kyivan Rus laid the foundation for Ukrainian nationalism through subsequent centuries. A new Ukrainian state, the Cossack Hetmanate, was established during the mid-17th century after an uprising against the Poles. Despite continuous Muscovite pressure, the Hetmanate managed to remain autonomous for well over 100 years. During the latter part of the 18th century, most Ukrainian ethnographic territory was absorbed by the Russian Empire. Following the collapse of czarist Russia in 1917, Ukraine achieved a short-lived period of independence (1917-20), but was reconquered and endured a brutal Soviet rule that engineered two forced famines (1921-22 and 1932-33) in which over 8 million died. In World War II, German and Soviet armies were responsible for 7 to 8 million more deaths. Although Ukraine achieved independence in 1991 with the dissolution of the USSR, democracy and prosperity remained elusive as the legacy of state control and endemic corruption stalled efforts at economic reform, privatization, and civil liberties.</p> <p>A peaceful mass protest referred to as the "Orange Revolution" in the closing months of 2004 forced the authorities to overturn a rigged presidential election and to allow a new internationally monitored vote that swept into power a reformist slate under Viktor YUSHCHENKO. Subsequent internal squabbles in the YUSHCHENKO camp allowed his rival Viktor YANUKOVYCH to stage a comeback in parliamentary (Rada) elections, become prime minister in August 2006, and be elected president in February 2010. In October 2012, Ukraine held Rada elections, widely criticized by Western observers as flawed due to use of government resources to favor ruling party candidates, interference with media access, and harassment of opposition candidates. President YANUKOVYCH's backtracking on a trade and cooperation agreement with the EU in November 2013 - in favor of closer economic ties with Russia - and subsequent use of force against students, civil society activists, and other civilians in favor of the agreement led to a three-month protest occupation of Kyiv's central square. The government's use of violence to break up the protest camp in February 2014 led to all out pitched battles, scores of deaths, international condemnation, a failed political deal, and the president's abrupt departure for Russia. New elections in the spring allowed pro-West president Petro POROSHENKO to assume office in June 2014; he was succeeded by Volodymyr ZELENSKY in May 2019.</p> <p>Shortly after YANUKOVYCH's departure in late February 2014, Russian President PUTIN ordered the invasion of Ukraine's Crimean Peninsula falsely claiming the action was to protect ethnic Russians living there. Two weeks later, a "referendum" was held regarding the integration of Crimea into the Russian Federation. The "referendum" was condemned as illegitimate by the Ukrainian Government, the EU, the US, and the UN General Assembly (UNGA). In response to Russia's illegal annexation of Crimea, 100 members of the UN passed UNGA resolution 68/262, rejecting the "referendum" as baseless and invalid and confirming the sovereignty, political independence, unity, and territorial integrity of Ukraine. In mid-2014, Russia began supplying proxies in two of Ukraine's eastern provinces with manpower, funding, and materiel driving an armed conflict with the Ukrainian Government that continues to this day. Representatives from Ukraine, Russia, and the unrecognized Russian proxy republics signed the Minsk Protocol and Memorandum in September 2014 to end the conflict. However, this agreement failed to stop the fighting or find a political solution. In a renewed attempt to alleviate ongoing clashes, leaders of Ukraine, Russia, France, and Germany negotiated a follow-on Package of Measures in February 2015 to implement the Minsk agreements. Representatives from Ukraine, Russia, the unrecognized Russian proxy republics, and the Organization for Security and Cooperation in Europe also meet regularly to facilitate implementation of the peace deal. By early 2022, more than 14,000 civilians were killed or wounded as a result of the Russian intervention in eastern Ukraine.<br><br>On 24 February 2022, Russia escalated its conflict with Ukraine by invading the country on several fronts in what has become the largest conventional military attack on a sovereign state in Europe since World War II. The invasion has received near universal international condemnation and many countries have imposed sanctions on Russia and also supplied humanitarian and military aid to Ukraine. The invasion has also created Europe's largest refugee crisis since World War II. As of 3 May, approximately 5.66 million people had fled Ukraine, and some 7.7 million people were internally displaced as of 17 April.  Some 6,470 civilian casualties had been reported, as of 2 May.</p> <p> </p><br>
+<p>Ukraine was the center of the first eastern Slavic state, Kyivan Rus, which during the 10th and 11th centuries was the largest and most powerful state in Europe. Weakened by internecine quarrels and Mongol invasions, Kyivan Rus was incorporated into the Grand Duchy of Lithuania and eventually into the Polish-Lithuanian Commonwealth. The cultural and religious legacy of Kyivan Rus laid the foundation for Ukrainian nationalism through subsequent centuries. A new Ukrainian state, the Cossack Hetmanate, was established during the mid-17th century after an uprising against the Poles. Despite continuous Muscovite pressure, the Hetmanate managed to remain autonomous for well over 100 years. During the latter part of the 18th century, most Ukrainian ethnographic territory was absorbed by the Russian Empire. Following the collapse of czarist Russia in 1917, Ukraine achieved a short-lived period of independence (1917-20), but was reconquered and endured a brutal Soviet rule that engineered two forced famines (1921-22 and 1932-33) in which over 8 million died. In World War II, German and Soviet armies were responsible for 7 to 8 million more deaths. Although Ukraine achieved independence in 1991 with the dissolution of the USSR, democracy and prosperity remained elusive as the legacy of state control and endemic corruption stalled efforts at economic reform, privatization, and civil liberties.</p> <p>A peaceful mass protest referred to as the "Orange Revolution" in the closing months of 2004 forced the authorities to overturn a rigged presidential election and to allow a new internationally monitored vote that swept into power a reformist slate under Viktor YUSHCHENKO. Subsequent internal squabbles in the YUSHCHENKO camp allowed his rival Viktor YANUKOVYCH to stage a comeback in parliamentary (Rada) elections, become prime minister in August 2006, and be elected president in February 2010. In October 2012, Ukraine held Rada elections, widely criticized by Western observers as flawed due to use of government resources to favor ruling party candidates, interference with media access, and harassment of opposition candidates. President YANUKOVYCH's backtracking on a trade and cooperation agreement with the EU in November 2013 - in favor of closer economic ties with Russia - and subsequent use of force against students, civil society activists, and other civilians in favor of the agreement led to a three-month protest occupation of Kyiv's central square. The government's use of violence to break up the protest camp in February 2014 led to all out pitched battles, scores of deaths, international condemnation, a failed political deal, and the president's abrupt departure for Russia. New elections in the spring allowed pro-West president Petro POROSHENKO to assume office in June 2014; he was succeeded by Volodymyr ZELENSKY in May 2019.</p> <p>Shortly after YANUKOVYCH's departure in late February 2014, Russian President PUTIN ordered the invasion of Ukraine's Crimean Peninsula falsely claiming the action was to protect ethnic Russians living there. Two weeks later, a "referendum" was held regarding the integration of Crimea into the Russian Federation. The "referendum" was condemned as illegitimate by the Ukrainian Government, the EU, the US, and the UN General Assembly (UNGA). In response to Russia's illegal annexation of Crimea, 100 members of the UN passed UNGA resolution 68/262, rejecting the "referendum" as baseless and invalid and confirming the sovereignty, political independence, unity, and territorial integrity of Ukraine. In mid-2014, Russia began supplying proxies in two of Ukraine's eastern provinces with manpower, funding, and materiel driving an armed conflict with the Ukrainian Government that continues to this day. Representatives from Ukraine, Russia, and the unrecognized Russian proxy republics signed the Minsk Protocol and Memorandum in September 2014 to end the conflict. However, this agreement failed to stop the fighting or find a political solution. In a renewed attempt to alleviate ongoing clashes, leaders of Ukraine, Russia, France, and Germany negotiated a follow-on Package of Measures in February 2015 to implement the Minsk agreements. Representatives from Ukraine, Russia, the unrecognized Russian proxy republics, and the Organization for Security and Cooperation in Europe also meet regularly to facilitate implementation of the peace deal. By early 2022, more than 14,000 civilians were killed or wounded as a result of the Russian intervention in eastern Ukraine.<br><br>On 24 February 2022, Russia escalated its conflict with Ukraine by invading the country on several fronts in what has become the largest conventional military attack on a sovereign state in Europe since World War II. The invasion has received near universal international condemnation and many countries have imposed sanctions on Russia and also supplied humanitarian and military aid to Ukraine. The invasion has also created Europe's largest refugee crisis since World War II. As of 10 May, approximately 5.98 million people had fled Ukraine, and nearly 8.03 million people were internally displaced as of 3 May.  More than 7,170 civilian casualties had been reported, as of 9 May.</p> <p> </p><br>
 
 ## Geography
 
@@ -79,6 +79,9 @@ occasional floods; occasional droughts<br>
 **Geography - note**<br>
 strategic position at the crossroads between Europe and Asia; second-largest country in Europe after Russia<br>
 
+**Map description**<br>
+<p>Ukraine map showing major cities as well as parts of surrounding countries and the Black Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -104,7 +107,7 @@ _0-14 years_: 16.16% (male 3,658,127/female 3,438,887)<br>
 _15-24 years_: 9.28% (male 2,087,185/female 1,987,758)<br>
 _25-54 years_: 43.66% (male 9,456,905/female 9,718,758)<br>
 _55-64 years_: 13.87% (male 2,630,329/female 3,463,851)<br>
-_65 years and over_: 17.03% (male 2,523,600/female 4,957,539) (2020 est.)<br>
+_65 years and over_: 17.03% (2020 est.) (male 2,523,600/female 4,957,539)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.1<br>
@@ -313,8 +316,7 @@ _etymology_: the name is associated with that of Kyi, who along with his brother
 
 **Administrative divisions**<br>
 24 provinces (oblasti, singular - oblast'), 1 autonomous republic* (avtonomna respublika), and 2 municipalities** (mista, singular - misto) with oblast status; Cherkasy, Chernihiv, Chernivtsi, Crimea or Avtonomna Respublika Krym* (Simferopol), Dnipropetrovsk (Dnipro), Donetsk, Ivano-Frankivsk, Kharkiv, Kherson, Khmelnytskyi, Kirovohrad (Kropyvnytskyi), Kyiv**, Kyiv, Luhansk, Lviv, Mykolaiv, Odesa, Poltava, Rivne, Sevastopol**, Sumy, Ternopil, Vinnytsia, Volyn (Lutsk), Zakarpattia (Uzhhorod), Zaporizhzhia, Zhytomyr<br>
-<strong>note 1:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); plans include the eventual renaming of Dnipropetrovsk and Kirovohrad oblasts, but because these names are mentioned in the Constitution of Ukraine, the change will require a constitutional amendment
-<br><br><strong>note 2:</strong> the US Government does not recognize Russia's illegal annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"<br>
+<strong>note 1:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); plans include the eventual renaming of Dnipropetrovsk and Kirovohrad oblasts, but because these names are mentioned in the Constitution of Ukraine, the change will require a constitutional amendment <br><br><strong>note 2:</strong> the US Government does not recognize Russia's illegal annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"<br>
 
 **Independence**<br>
 24 August 1991 (from the Soviet Union); notable earlier dates: ca. 982 (VOLODYMYR I consolidates Kyivan Rus); 1199 (Principality (later Kingdom) of Ruthenia formed); 1648 (establishment of the Cossack Hetmanate); 22 January 1918 (from Soviet Russia)<br>
@@ -508,9 +510,9 @@ calendar year<br>
 -$6.432 billion (2018 est.)<br>
 
 **Exports**<br>
-$60.67 billion note: data are in current year dollars (2020 est.)<br>
-$63.56 billion note: data are in current year dollars (2019 est.)<br>
-$59.18 billion note: data are in current year dollars (2018 est.)<br>
+$60.67 billion (2020 est.) note: data are in current year dollars<br>
+$63.56 billion (2019 est.) note: data are in current year dollars<br>
+$59.18 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Russia 9%, China 8%, Germany 6%, Poland 6%, Italy 5%, Turkey 5% (2019)<br>
@@ -519,9 +521,9 @@ Russia 9%, China 8%, Germany 6%, Poland 6%, Italy 5%, Turkey 5% (2019)<br>
 corn, sunflower seed oils, iron and iron products, wheat, insulated wiring, rapeseed (2019)<br>
 
 **Imports**<br>
-$62.46 billion note: data are in current year dollars (2020 est.)<br>
-$76.07 billion note: data are in current year dollars (2019 est.)<br>
-$70.56 billion note: data are in current year dollars (2018 est.)<br>
+$62.46 billion (2020 est.) note: data are in current year dollars<br>
+$76.07 billion (2019 est.) note: data are in current year dollars<br>
+$70.56 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 13%, Russia 12%, Germany 10%, Poland 9%, Belarus 7% (2019)<br>
@@ -638,9 +640,13 @@ Ukraine’s media landscape is dominated by oligarch-owned news outlets, which a
 **Internet country code**<br>
 .ua<br>
 
+**Internet users**<br>
+_total_: 33,101,020 (2020 est.)<br>
+_percent of population_: 75% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 7,769,401 (2021)<br>
-_subscriptions per 100 inhabitants_: 18.62 (2021)<br>
+_total_: 7,769,401 (2022)<br>
+_subscriptions per 100 inhabitants_: 18.62 (2022)<br>
 
 **Communications - note**<br>
 a sorting code to expeditiously handle large volumes of mail&nbsp;was first set up in Ukraine (then part of the Soviet Union) in the 1930s; the sophisticated, three-part (number-letter-number) postal code system, referred to as an "index," was the world's first postal zip code; the system functioned well and was in use from 1932 to 1939 when it was abruptly discontinued<br>
@@ -651,7 +657,7 @@ a sorting code to expeditiously handle large volumes of mail&nbsp;was first set 
 _number of registered air carriers_: 14 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 126<br>
 _annual passenger traffic on registered air carriers_: 7,854,842 (2018)<br>
-_annual freight traffic on registered air carriers_: 75.26 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 75.26 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 UR<br>
@@ -681,16 +687,16 @@ _under 914 m_: 69 (2021)<br>
 
 **Railways**<br>
 _total_: 21,733 km (2014)<br>
-_standard gauge_: 49 km 1.435-m gauge (49 km electrified) (2014)<br>
-_broad gauge_: 21,684 km 1.524-m gauge (9,250 km electrified) (2014)<br>
+_standard gauge_: 49 km (2014) 1.435-m gauge (49 km electrified)<br>
+_broad gauge_: 21,684 km (2014) 1.524-m gauge (9,250 km electrified)<br>
 
 **Roadways**<br>
 _total_: 169,694 km (2012)<br>
-_paved_: 166,095 km (includes 17 km of expressways) (2012)<br>
+_paved_: 166,095 km (2012) (includes 17 km of expressways)<br>
 _unpaved_: 3,599 km (2012)<br>
 
 **Waterways**<br>
-1,672 km (most on Dnieper River) (2012)<br>
+1,672 km (2012) (most on Dnieper River)<br>
 
 **Merchant marine**<br>
 _total_: 409<br>
@@ -707,10 +713,10 @@ Armed Forces of Ukraine (Zbroyni Syly Ukrayiny, ZSU): Ground Forces (Sukhoputni 
 
 **Military expenditures**<br>
 4% of GDP (2020 est.)<br>
-3.4% of GDP (approximately $9.7 billion) (2019)<br>
-3.1% of GDP (approximately $8.87 billion) (2018)<br>
-3.1% of GDP (approximately $8.54 billion) (2017)<br>
-3.6% of GDP (approximately $8.53 billion) (2016)<br>
+3.4% of GDP (2019) (approximately $9.7 billion)<br>
+3.1% of GDP (2018) (approximately $8.87 billion)<br>
+3.1% of GDP (2017) (approximately $8.54 billion)<br>
+3.6% of GDP (2016) (approximately $8.53 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 200,000 active troops (125,000 Army; 25,000 Airborne/Air Assault Forces; 2,000 Special Operations Forces; 10,000 Navy; 40,000 Air Force); approximately 50,000 National Guard (2021)<br><br>note - in early 2022, the Ukrainian Government announced plans to add 100,000 personnel to the armed forces over three years <br>
@@ -721,8 +727,7 @@ the Ukrainian military is equipped mostly with older Russian and Soviet-era weap
 
 **Military service age and obligation**<br>
 conscription abolished in 2012, but reintroduced in 2014; 20-27 years of age for compulsory military service; conscript service obligation is 12 months (2021)<br>
-note(s) - the Ukrainian military has a mix of conscripts (14,000 conscripted in 2021) and professional soldiers on contracts; women can volunteer and have served in the Ukrainian armed forces since 1993; as of 2021, women comprised approximately 15-20% of the military; in late 2021, the Ukrainian Government began requiring women between 18 and 60 who are fit for military service and work in a broad range of professions to register with Ukraine's armed forces<br>
- <br>
+note(s) - the Ukrainian military has a mix of conscripts (14,000 conscripted in 2021) and professional soldiers on contracts; women can volunteer and have served in the Ukrainian armed forces since 1993; as of 2021, women comprised approximately 15-20% of the military; in late 2021, the Ukrainian Government began requiring women between 18 and 60 who are fit for military service and work in a broad range of professions to register with Ukraine's armed forces<br>  <br>
 
 **Military deployments**<br>
 note - Ukraine contributes about 500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>

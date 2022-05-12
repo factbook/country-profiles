@@ -79,6 +79,9 @@ major flooding during snow melt; prone to earthquakes<br>
 **Geography - note**<br>
 landlocked; entirely mountainous, dominated by the Tien Shan range; 94% of the country is 1,000 m above sea level with an average elevation of 2,750 m; many tall peaks, glaciers, and high-altitude lakes<br>
 
+**Map description**<br>
+<p>Kyrgyzstan showing major population centers as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -103,7 +106,7 @@ _0-14 years_: 30.39% (male 930,455/female 882,137)<br>
 _15-24 years_: 15.7% (male 475,915/female 460,604)<br>
 _25-54 years_: 40.02% (male 1,172,719/female 1,214,624)<br>
 _55-64 years_: 8.09% (male 210,994/female 271,480)<br>
-_65 years and over_: 5.8% (male 132,134/female 213,835) (2020 est.)<br>
+_65 years and over_: 5.8% (2020 est.) (male 132,134/female 213,835)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 59.7<br>
@@ -201,7 +204,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 9,200 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020 est.)<br>
+(2020 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>
@@ -495,8 +498,8 @@ calendar year<br>
 -$792 million (2016 est.)<br>
 
 **Exports**<br>
-$3.11 billion note: data are in current year dollars (2019 est.)<br>
-$2.73 billion note: data are in current year dollars (2018 est.)<br>
+$3.11 billion (2019 est.) note: data are in current year dollars<br>
+$2.73 billion (2018 est.) note: data are in current year dollars<br>
 $2.352 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -506,8 +509,8 @@ United Kingdom 56%, Kazakhstan 13%, Russia 13%, Uzbekistan 5% (2019)<br>
 gold, precious metals, various beans, refined petroleum, scrap copper (2019)<br>
 
 **Imports**<br>
-$5.67 billion note: data are in current year dollars (2019 est.)<br>
-$5.86 billion note: data are in current year dollars (2018 est.)<br>
+$5.67 billion (2019 est.) note: data are in current year dollars<br>
+$5.86 billion (2018 est.) note: data are in current year dollars<br>
 $4.953 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -625,9 +628,13 @@ state-funded public TV broadcaster KTRK has nationwide coverage; also operates A
 **Internet country code**<br>
 .kg<br>
 
+**Internet users**<br>
+_total_: 3,355,749 (2020 est.)<br>
+_percent of population_: 51% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 289,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 4.43 (2021 est.)<br>
+_total_: 289,000 (2022)<br>
+_subscriptions per 100 inhabitants_: 4.43 (2022)<br>
 
 ## Transportation
 
@@ -660,7 +667,7 @@ _under 914 m_: 8 (2021)<br>
 
 **Railways**<br>
 _total_: 424 km (2018)<br>
-_broad gauge_: 424 km 1.520-m gauge (2018)<br>
+_broad gauge_: 424 km (2018) 1.520-m gauge<br>
 
 **Roadways**<br>
 _total_: 34,000 km (2018)<br>
@@ -677,11 +684,11 @@ _lake port(s)_: Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)<br>
 Kyrgyz Armed Forces: Land Forces, Air Defense Forces, National Guard; State Border Service; Internal Troops; State Committee for National Security (2021)<br>
 
 **Military expenditures**<br>
-1.8% of GDP (2020 est.)<br>
-2.3% of GDP (approximately $410 million) (2019 est.)<br>
-2.3% of GDP (approximately $400 million) (2018 est.)<br>
-2.3% of GDP (approximately $390 million) (2017 est.)<br>
-2.6% of GDP (approximately $380 million) (2016 est.)<br>
+2.3% of GDP (2019 est.) (approximately $410 million)<br>
+2.3% of GDP (2018 est.) (approximately $400 million)<br>
+2.3% of GDP (2017 est.) (approximately $390 million)<br>
+2.6% of GDP (2016 est.) (approximately $380 million)<br>
+2.6% of GDP (2015 est.) (approximately $360 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Kyrgyz Armed Forces have approximately 12,000 active duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 1,000 National Guard) (2021)<br>

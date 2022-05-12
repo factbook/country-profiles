@@ -85,6 +85,9 @@ periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving 
 **Geography - note**<br>
 <strong>note:</strong> controls Sinai Peninsula, the only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea; size, and juxtaposition to Israel, establish its major role in Middle Eastern geopolitics; dependence on upstream neighbors; dominance of Nile basin issues; prone to influxes of refugees from Sudan and the Palestinian territories<br>
 
+**Map description**<br>
+<p>Egypt map showing major cities as well as parts of surrounding countries and the Mediterranean and Red Seas.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -113,7 +116,7 @@ _0-14 years_: 33.62% (male 18,112,550/female 16,889,155)<br>
 _15-24 years_: 18.01% (male 9,684,437/female 9,071,163)<br>
 _25-54 years_: 37.85% (male 20,032,310/female 19,376,847)<br>
 _55-64 years_: 6.08% (male 3,160,438/female 3,172,544)<br>
-_65 years and over_: 4.44% (male 2,213,539/female 2,411,457) (2020 est.)<br>
+_65 years and over_: 4.44% (2020 est.) (male 2,213,539/female 2,411,457)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 64.6<br>
@@ -206,13 +209,13 @@ _unimproved: rural_: rural: 1.8% of population<br>
 _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 24,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -226,7 +229,7 @@ _water contact diseases_: schistosomiasis<br>
 7% (2014)<br>
 
 **Education expenditures**<br>
-3.9% of GDP NA (2015)<br>
+3.9% of GDP (2015) NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -517,9 +520,9 @@ _expenditures_: 62.61 billion (2017 est.)<br>
 -$7.682 billion (2018 est.)<br>
 
 **Exports**<br>
-$40.1 billion note: data are in current year dollars (2020 est.)<br>
-$53.52 billion note: data are in current year dollars (2019 est.)<br>
-$51.62 billion note: data are in current year dollars (2018 est.)<br>
+$40.1 billion (2020 est.) note: data are in current year dollars<br>
+$53.52 billion (2019 est.) note: data are in current year dollars<br>
+$51.62 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 9%, United Arab Emirates 6%, Italy 6%, Turkey 6%, Saudi Arabia 6%, India 5% (2019)<br>
@@ -528,9 +531,9 @@ United States 9%, United Arab Emirates 6%, Italy 6%, Turkey 6%, Saudi Arabia 6%,
 crude petroleum, refined petroleum, gold, natural gas, fertilizers (2019)<br>
 
 **Imports**<br>
-$72.48 billion note: data are in current year dollars (2020 est.)<br>
-$78.95 billion note: data are in current year dollars (2019 est.)<br>
-$76.33 billion note: data are in current year dollars (2018 est.)<br>
+$72.48 billion (2020 est.) note: data are in current year dollars<br>
+$78.95 billion (2019 est.) note: data are in current year dollars<br>
+$76.33 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 15%, Russia 7%, United States 6%, Saudi Arabia 6%, Germany 5%, Turkey 5% (2019)<br>
@@ -647,6 +650,10 @@ mix of state-run and private broadcast media; state-run TV operates 2 national a
 **Internet country code**<br>
 .eg<br>
 
+**Internet users**<br>
+_total_: 73,680,770 (2020 est.)<br>
+_percent of population_: 72% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 9,349,469 (2021)<br>
 _subscriptions per 100 inhabitants_: 9.14 (2021 est.)<br>
@@ -660,7 +667,7 @@ one of the largest and most famous libraries in the ancient world was the Great 
 _number of registered air carriers_: 14 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 101<br>
 _annual passenger traffic on registered air carriers_: 12,340,832 (2018)<br>
-_annual freight traffic on registered air carriers_: 437.63 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 437.63 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 SU<br>
@@ -690,7 +697,7 @@ _under 914 m_: 3 (2021)<br>
 
 **Railways**<br>
 _total_: 5,085 km (2014)<br>
-_standard gauge_: 5,085 km 1.435-m gauge (62 km electrified) (2014)<br>
+_standard gauge_: 5,085 km (2014) 1.435-m gauge (62 km electrified)<br>
 
 **Roadways**<br>
 _total_: 65,050 km (2018)<br>
@@ -698,7 +705,7 @@ _paved_: 48,000 km (2018)<br>
 _unpaved_: 17,050 km (2018)<br>
 
 **Waterways**<br>
-3,500 km (includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches) is navigable by oceangoing vessels drawing up to 17.68 m) (2018)<br>
+3,500 km (2018) (includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches) is navigable by oceangoing vessels drawing up to 17.68 m)<br>
 
 **Merchant marine**<br>
 _total_: 421<br>
@@ -719,10 +726,10 @@ note(s) - the Public Security Sector Police are responsible for law enforcement 
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.3% of GDP (approximately $15.8 billion) (2019)<br>
-1.4% of GDP (approximately $15.9 billion) (2018)<br>
-1.6% of GDP (approximately $16.7 billion) (2017)<br>
-1.8% of GDP (approximately $17.5 billion) (2016)<br>
+1.3% of GDP (2019) (approximately $15.8 billion)<br>
+1.4% of GDP (2018) (approximately $15.9 billion)<br>
+1.6% of GDP (2017) (approximately $16.7 billion)<br>
+1.8% of GDP (2016) (approximately $17.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 450,000 total active personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces (2021)<br>
@@ -738,7 +745,7 @@ note - as of 2020, conscripts were estimated to comprise over half of the milita
 1,000 Central African Republic (MINUSCA); 1,050 Mali (MINUSMA) (Jan 2022)<br>
 
 **Military - note**<br>
-<p>since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of 2021, Egypt reportedly had approximately 40,000 military troops, police, and other security personnel deployed in the Sinai for internal security duties; in addition, tribal militias were assisting Egyptian security forces<br><br>the military has a large stake in the civilian economy, including running banks, businesses, and shipping lines, producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing<br><br>Egypt has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br></p> the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; as of 2021, it was composed of about 1,150 troops from 13 countries<br>
+<p>since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of 2021, Egypt reportedly had approximately 40,000 military troops, police, and other security personnel deployed in the Sinai for internal security duties; in addition, tribal militias were assisting Egyptian security forces<br><br>the military has a large stake in the civilian economy, including running banks, businesses, and shipping lines, producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing; the various enterprises are reportedly profitable enough to make the armed forces largely self-funded<br><br>Egypt has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br></p> the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; as of 2021, it was composed of about 1,150 troops from 13 countries<br>
 
 ## Terrorism
 

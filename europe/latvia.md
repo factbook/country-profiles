@@ -73,6 +73,9 @@ large percentage of agricultural fields can become waterlogged and require drain
 **Geography - note**<br>
 most of the country is composed of fertile low-lying plains with some hills in the east<br>
 
+**Map description**<br>
+<p>Latvia map showing major population centers as well as parts of surrounding countries and the Baltic Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 15.32% (male 148,120/female 140,028)<br>
 _15-24 years_: 9% (male 87,372/female 81,965)<br>
 _25-54 years_: 40.41% (male 380,817/female 379,359)<br>
 _55-64 years_: 14.77% (male 125,401/female 152,548)<br>
-_65 years and over_: 20.5% (male 128,151/female 257,471) (2020 est.)<br>
+_65 years and over_: 20.5% (2020 est.) (male 128,151/female 257,471)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 59<br>
@@ -195,7 +198,7 @@ _unimproved: total_: total: 5.4% of population (2020 est.)<br>
 5,600 (2019 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2019 est.)<br>
+(2019 est.) <100<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -487,9 +490,9 @@ calendar year<br>
 -$99 million (2018 est.)<br>
 
 **Exports**<br>
-$20.23 billion note: data are in current year dollars (2020 est.)<br>
-$20.5 billion note: data are in current year dollars (2019 est.)<br>
-$21.12 billion note: data are in current year dollars (2018 est.)<br>
+$20.23 billion (2020 est.) note: data are in current year dollars<br>
+$20.5 billion (2019 est.) note: data are in current year dollars<br>
+$21.12 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Lithuania 16%, Estonia 10%, Russia 9%, Germany 7%, Sweden 6%, United Kingdom 6% (2019)<br>
@@ -498,9 +501,9 @@ Lithuania 16%, Estonia 10%, Russia 9%, Germany 7%, Sweden 6%, United Kingdom 6% 
 lumber, broadcasting equipment, whiskey and other hard liquors, wheat, packaged medicines (2019)<br>
 
 **Imports**<br>
-$19.84 billion note: data are in current year dollars (2020 est.)<br>
-$20.79 billion note: data are in current year dollars (2019 est.)<br>
-$21.38 billion note: data are in current year dollars (2018 est.)<br>
+$19.84 billion (2020 est.) note: data are in current year dollars<br>
+$20.79 billion (2019 est.) note: data are in current year dollars<br>
+$21.38 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Russia 21%, Lithuania 14%, Germany 9%, Poland 7%, Estonia 7% (2019)<br>
@@ -617,9 +620,13 @@ several national and regional commercial TV stations are foreign-owned, 2 nation
 **Internet country code**<br>
 .lv<br>
 
+**Internet users**<br>
+_total_: 1,691,400 (2020 est.)<br>
+_percent of population_: 89% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 490,569 (2021)<br>
-_subscriptions per 100 inhabitants_: 26.01 (2021 est.)<br>
+_total_: 490,569 (2022)<br>
+_subscriptions per 100 inhabitants_: 26.01 (2022)<br>
 
 ## Transportation
 
@@ -627,7 +634,7 @@ _subscriptions per 100 inhabitants_: 26.01 (2021 est.)<br>
 _number of registered air carriers_: 3 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 53<br>
 _annual passenger traffic on registered air carriers_: 4,058,762 (2018)<br>
-_annual freight traffic on registered air carriers_: 4.01 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 4.01 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 YL<br>
@@ -655,8 +662,8 @@ _under 914 m_: 24 (2021)<br>
 
 **Railways**<br>
 _total_: 1,860 km (2018)<br>
-_narrow gauge_: 34 km 0.750-m gauge (2018)<br>
-_broad gauge_: 1,826 km 1.520-m gauge (2018)<br>
+_narrow gauge_: 34 km (2018) 0.750-m gauge<br>
+_broad gauge_: 1,826 km (2018) 1.520-m gauge<br>
 
 **Roadways**<br>
 _total_: 70,244 km (2018)<br>
@@ -664,7 +671,7 @@ _paved_: 15,158 km (2018)<br>
 _unpaved_: 55,086 km (2018)<br>
 
 **Waterways**<br>
-300 km (navigable year-round) (2010)<br>
+300 km (2010) (navigable year-round)<br>
 
 **Merchant marine**<br>
 _total_: 70<br>
@@ -681,9 +688,9 @@ National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszem
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
 2.2% of GDP (2020)<br>
-2% of GDP (approximately $920 million) (2019)<br>
-2.1% of GDP (approximately $900 million) (2018)<br>
-1.6% of GDP (approximately $740 million) (2017)<br>
+2% of GDP (2019) (approximately $920 million)<br>
+2.1% of GDP (2018) (approximately $900 million)<br>
+1.6% of GDP (2017) (approximately $740 million)<br>
 
 **Military and security service personnel strengths**<br>
 the National Armed Forces of Latvia have approximately 6,500 active duty troops (5,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2021)<br>

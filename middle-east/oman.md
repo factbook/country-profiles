@@ -75,6 +75,9 @@ summer winds often raise large sandstorms and dust storms in interior; periodic 
 **Geography - note**<br>
 consists of Oman proper and two northern exclaves, Musandam and Al Madhah; the former is a peninsula that occupies a strategic location adjacent to the Strait of Hormuz, a vital transit point for world crude oil<br>
 
+**Map description**<br>
+<p>Oman map showing major population centers as well as parts of surrounding countries and the Arabian Sea and Gulf of Oman.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -101,7 +104,7 @@ _0-14 years_: 30.15% (male 561,791/female 533,949)<br>
 _15-24 years_: 17.35% (male 331,000/female 299,516)<br>
 _25-54 years_: 44.81% (male 928,812/female 699,821)<br>
 _55-64 years_: 4.02% (male 77,558/female 68,427)<br>
-_65 years and over_: 3.68% (male 64,152/female 69,663) (2020 est.)<br>
+_65 years and over_: 3.68% (2020 est.) (male 64,152/female 69,663)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 33.3<br>
@@ -196,7 +199,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 2,500 (2019)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2019)<br>
+(2019) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 27% (2016)<br>
@@ -387,8 +390,8 @@ $135.696 billion (2017 est.)<br>
 4.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$27,300 note: data are in 2017 dollars (2019 est.)<br>
-$28,400 note: data are in 2017 dollars (2018 est.)<br>
+$27,300 (2019 est.) note: data are in 2017 dollars<br>
+$28,400 (2018 est.) note: data are in 2017 dollars<br>
 $29,082 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -433,7 +436,7 @@ crude oil production and refining, natural and liquefied natural gas production;
 **Labor force - by occupation**<br>
 _agriculture_: 4.7% NA<br>
 _industry_: 49.6% NA<br>
-_services_: 45% NA (2016 est.)<br>
+_services_: 45% (2016 est.) NA<br>
 
 **Unemployment rate**<br>
 <p>NA</p><br>
@@ -473,8 +476,8 @@ calendar year<br>
 -$12.32 billion (2016 est.)<br>
 
 **Exports**<br>
-$43.69 billion note: data are in current year dollars (2019 est.)<br>
-$46.32 billion note: data are in current year dollars (2018 est.)<br>
+$43.69 billion (2019 est.) note: data are in current year dollars<br>
+$46.32 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 46%, India 8%, Japan 6%, South Korea 6%, United Arab Emirates 6%, Saudi Arabia 5% (2019)<br>
@@ -483,8 +486,8 @@ China 46%, India 8%, Japan 6%, South Korea 6%, United Arab Emirates 6%, Saudi Ar
 crude petroleum, natural gas, refined petroleum, iron products, fertilizers (2019)<br>
 
 **Imports**<br>
-$32.55 billion note: data are in current year dollars (2019 est.)<br>
-$35.37 billion note: data are in current year dollars (2018 est.)<br>
+$32.55 billion (2019 est.) note: data are in current year dollars<br>
+$35.37 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 36%, China 10%, Japan 7%, India 7%, United States 5% (2019)<br>
@@ -603,6 +606,10 @@ _international_: country code - 968;&nbsp;landing points for GSA, AAE-1,&nbsp;Se
 **Internet country code**<br>
 .om<br>
 
+**Internet users**<br>
+_total_: 4,851,291 (2020 est.)<br>
+_percent of population_: 95% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 508,949 (2021)<br>
 _subscriptions per 100 inhabitants_: 10.85 (2021 est.)<br>
@@ -613,7 +620,7 @@ _subscriptions per 100 inhabitants_: 10.85 (2021 est.)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 57<br>
 _annual passenger traffic on registered air carriers_: 10,438,241 (2018)<br>
-_annual freight traffic on registered air carriers_: 510.43 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 510.43 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 A4O<br>
@@ -643,7 +650,7 @@ _under 914 m_: 26 (2021)<br>
 
 **Roadways**<br>
 _total_: 60,230 km (2012)<br>
-_paved_: 29,685 km (includes 1,943 km of expressways) (2012)<br>
+_paved_: 29,685 km (2012) (includes 1,943 km of expressways)<br>
 _unpaved_: 30,545 km (2012)<br>
 
 **Merchant marine**<br>
@@ -662,10 +669,10 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 
 **Military expenditures**<br>
 11% of GDP (2020 est.)<br>
-11.8% of GDP (approximately $12.1 billion) (2019 est.)<br>
-11.2% of GDP (approximately $11.8 billion) (2018 est.)<br>
-12.3% of GDP (approximately $12.7 billion) (2017 est.)<br>
-13.9% of GDP (approximately $14.2 billion) (2016 est.)<br>
+11.8% of GDP (2019 est.) (approximately $12.1 billion)<br>
+11.2% of GDP (2018 est.) (approximately $11.8 billion)<br>
+12.3% of GDP (2017 est.) (approximately $12.7 billion)<br>
+13.9% of GDP (2016 est.) (approximately $14.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 total active troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2021)<br>

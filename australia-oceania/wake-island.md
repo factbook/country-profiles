@@ -62,10 +62,13 @@ subject to occasional typhoons<br>
 **Geography - note**<br>
 strategic location in the North Pacific Ocean; emergency landing location for transpacific flights<br>
 
+**Map description**<br>
+<p>Wake Island map showing the three component islands and surrounding reef that make up the US territory in the North Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
-no indigenous inhabitants (2018 est.)<br>
+(2018 est.) no indigenous inhabitants<br>
 <strong>note:</strong> approximately 100 military personnel and civilian contractors maintain and operate the airfield and communications facilities<br>
 
 **Age structure**<br>

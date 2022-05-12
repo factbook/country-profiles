@@ -78,6 +78,9 @@ major concentration on the island of Java, which is considered one of the most d
 **Geography - note**<br>
 <p><strong>note 1:</strong> according to Indonesia's National Coordinating Agency for Survey and Mapping, the total number of islands in the archipelago is 13,466, of which 922 are permanently inhabited (Indonesia is the world's largest country comprised solely of islands); the country straddles the equator and occupies a strategic location astride or along major sea lanes from the Indian Ocean to the Pacific Ocean</p> <p><strong>note 2:</strong> Indonesia is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire; 80% of tsunamis, caused by volcanic or seismic events, occur within the "Pacific Ring of Fire"</p> <p><strong>note 3:</strong> despite having the fourth largest population in the world, Indonesia is the most heavily forested region on earth after the Amazon<br><br><strong>note 4: </strong>two major food crops apparently developed on the island of New Guinea: bananas and sugarcane</p><br>
 
+**Map description**<br>
+<p>Indonesia map showing major cities and islands of this archipelagic country as well as parts of surrounding countries.</p> <p> </p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -105,7 +108,7 @@ _0-14 years_: 23.87% (male 32,473,246/female 31,264,034)<br>
 _15-24 years_: 16.76% (male 22,786,920/female 21,960,130)<br>
 _25-54 years_: 42.56% (male 58,249,570/female 55,409,579)<br>
 _55-64 years_: 8.99% (male 11,033,838/female 12,968,005)<br>
-_65 years and over_: 7.82% (male 9,099,773/female 11,781,271) (2020 est.)<br>
+_65 years and over_: 7.82% (2020 est.) (male 9,099,773/female 11,781,271)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47.5<br>
@@ -517,9 +520,9 @@ calendar year<br>
 -$30.633 billion (2018 est.)<br>
 
 **Exports**<br>
-$178.26 billion note: data are in current year dollars (2020 est.)<br>
-$200.1 billion note: data are in current year dollars (2019 est.)<br>
-$211.93 billion note: data are in current year dollars (2018 est.)<br>
+$178.26 billion (2020 est.) note: data are in current year dollars<br>
+$200.1 billion (2019 est.) note: data are in current year dollars<br>
+$211.93 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 15%, United States 10%, Japan 9%, Singapore 8%, India 7%, Malaysia 5% (2019)<br>
@@ -528,9 +531,9 @@ China 15%, United States 10%, Japan 9%, Singapore 8%, India 7%, Malaysia 5% (201
 coal, palm oil, natural gas, cars, gold (2019)<br>
 
 **Imports**<br>
-$159.64 billion note: data are in current year dollars (2020 est.)<br>
-$204.23 billion note: data are in current year dollars (2019 est.)<br>
-$218.65 billion note: data are in current year dollars (2018 est.)<br>
+$159.64 billion (2020 est.) note: data are in current year dollars<br>
+$204.23 billion (2019 est.) note: data are in current year dollars<br>
+$218.65 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 27%, Singapore 12%, Japan 8%, Thailand 5%, United States 5%, South Korea 5%, Malaysia 5% (2019)<br>
@@ -648,6 +651,10 @@ mixture of about a dozen national TV networks -&nbsp;1 public broadcaster, the r
 **Internet country code**<br>
 .id<br>
 
+**Internet users**<br>
+_total_: 147,702,755 (2020 est.)<br>
+_percent of population_: 54% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 11,722,218 (2021)<br>
 _subscriptions per 100 inhabitants_: 4.29 (2021 est.)<br>
@@ -658,7 +665,7 @@ _subscriptions per 100 inhabitants_: 4.29 (2021 est.)<br>
 _number of registered air carriers_: 25 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 611<br>
 _annual passenger traffic on registered air carriers_: 115,154,100 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,131,910,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1,131,910,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 PK<br>
@@ -688,7 +695,7 @@ _under 914 m_: 460 (2021)<br>
 
 **Railways**<br>
 _total_: 8,159 km (2014)<br>
-_narrow gauge_: 8,159 km 1.067-m gauge (565 km electrified) (2014)<br>
+_narrow gauge_: 8,159 km (2014) 1.067-m gauge (565 km electrified)<br>
 <strong>note:</strong> 4,816 km operational<br>
 
 **Roadways**<br>
@@ -718,9 +725,9 @@ note(s) - in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coo
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020)<br>
-0.8% of GDP (approximately $15.5 billion) (2019)<br>
-0.7% of GDP (approximately $14.5 billion) (2018)<br>
-0.9% of GDP (approximately $15.5 billion) (2017)<br>
+0.8% of GDP (2019) (approximately $15.5 billion)<br>
+0.7% of GDP (2018) (approximately $14.5 billion)<br>
+0.9% of GDP (2017) (approximately $15.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately, 400,000 active duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2021)<br>

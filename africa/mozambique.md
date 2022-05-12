@@ -80,6 +80,9 @@ severe droughts; devastating cyclones and floods in central and southern provinc
 **Geography - note**<br>
 the Zambezi River flows through the north-central and most fertile part of the country<br>
 
+**Map description**<br>
+<p>Mozambique map showing major cities as well as parts of surrounding countries and the Indian Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -107,7 +110,7 @@ _0-14 years_: 45.57% (male 6,950,800/female 6,766,373)<br>
 _15-24 years_: 19.91% (male 2,997,529/female 2,994,927)<br>
 _25-54 years_: 28.28% (male 3,949,085/female 4,564,031)<br>
 _55-64 years_: 3.31% (male 485,454/female 509,430)<br>
-_65 years and over_: 2.93% (male 430,797/female 449,771) (2020 est.)<br>
+_65 years and over_: 2.93% (2020 est.) (male 430,797/female 449,771)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 88.4<br>
@@ -516,9 +519,9 @@ calendar year<br>
 -$4.499 billion (2018 est.)<br>
 
 **Exports**<br>
-$4.35 billion note: data are in current year dollars (2020 est.)<br>
-$5.6 billion note: data are in current year dollars (2019 est.)<br>
-$5.97 billion note: data are in current year dollars (2018 est.)<br>
+$4.35 billion (2020 est.) note: data are in current year dollars<br>
+$5.6 billion (2019 est.) note: data are in current year dollars<br>
+$5.97 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 South Africa 16%, India 13%, China 12%, Italy 7%, United Arab Emirates 5%, Germany 5% (2019)<br>
@@ -527,9 +530,9 @@ South Africa 16%, India 13%, China 12%, Italy 7%, United Arab Emirates 5%, Germa
 coal, aluminum, natural gas, tobacco, electricity, gold, lumber (2019)<br>
 
 **Imports**<br>
-$8.38 billion note: data are in current year dollars (2020 est.)<br>
-$9.57 billion note: data are in current year dollars (2019 est.)<br>
-$10.52 billion note: data are in current year dollars (2018 est.)<br>
+$8.38 billion (2020 est.) note: data are in current year dollars<br>
+$9.57 billion (2019 est.) note: data are in current year dollars<br>
+$10.52 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 South Africa 31%, India 18%, China 17% (2019)<br>
@@ -630,7 +633,7 @@ _electrification - rural areas_: 22% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 80,791 (2019)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: (2019 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 14,773,364 (2019)<br>
@@ -648,9 +651,13 @@ _international_: country code - 258; landing points for the EASSy and SEACOM/ Ta
 **Internet country code**<br>
 .mz<br>
 
+**Internet users**<br>
+_total_: 5,313,424 (2020 est.)<br>
+_percent of population_: 17% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 70,000 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.22 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.22 (2021) less than 1<br>
 
 ## Transportation
 
@@ -658,7 +665,7 @@ _subscriptions per 100 inhabitants_: 0.22 less than 1 (2021)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 11<br>
 _annual passenger traffic on registered air carriers_: 540,124 (2018)<br>
-_annual freight traffic on registered air carriers_: 4.78 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 4.78 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 C9<br>
@@ -686,7 +693,7 @@ _under 914 m_: 38 (2021)<br>
 
 **Railways**<br>
 _total_: 4,787 km (2014)<br>
-_narrow gauge_: 4,787 km 1.067-m gauge (2014)<br>
+_narrow gauge_: 4,787 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
 _total_: 31,083 km (2015)<br>
@@ -694,7 +701,7 @@ _paved_: 7,365 km (2015)<br>
 _unpaved_: 23,718 km (2015)<br>
 
 **Waterways**<br>
-460 km (Zambezi River navigable to Tete and along Cahora Bassa Lake) (2010)<br>
+460 km (2010) (Zambezi River navigable to Tete and along Cahora Bassa Lake)<br>
 
 **Merchant marine**<br>
 _total_: 30<br>
@@ -710,11 +717,11 @@ Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM
 note - the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br>
 
 **Military expenditures**<br>
-1% of GDP (2020 est.)<br>
-1.2% of GDP (approximately $220 million) (2019 est.)<br>
-1.1% of GDP (approximately $210 million) (2018 est.)<br>
-0.9% of GDP (approximately $170 million) (2017 est.)<br>
-0.9% of GDP (approximately $170 million) (2016 est.)<br>
+1.1% of GDP (2020 est.)<br>
+1.2% of GDP (2019 est.) (approximately $220 million)<br>
+1.1% of GDP (2018 est.) (approximately $210 million)<br>
+0.9% of GDP (2017 est.) (approximately $170 million)<br>
+0.9% of GDP (2016 est.) (approximately $170 million)<br>
 
 **Military and security service personnel strengths**<br>
 information limited and varied; approximately 12,000 personnel (11,000 Army; 200 Navy; 800 Air Force) (2021)<br>

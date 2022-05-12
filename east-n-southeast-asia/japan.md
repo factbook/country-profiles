@@ -75,6 +75,9 @@ all primary and secondary regions of high population density lie on the coast; o
 **Geography - note**<br>
 <p><strong>note 1:</strong> strategic location in northeast Asia; composed of four main islands - from north: Hokkaido, Honshu (the largest and most populous), Shikoku, and Kyushu (the "Home Islands") - and 6,848 smaller islands and islets</p> <p><strong>note 2:</strong> Japan annually records the most earthquakes in the world; it is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
 
+**Map description**<br>
+<p>Japan map showing major cities and islands of this archipelagic Pacific Ocean country as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -101,7 +104,7 @@ _0-14 years_: 12.49% (male 8,047,183/female 7,623,767)<br>
 _15-24 years_: 9.47% (male 6,254,352/female 5,635,377)<br>
 _25-54 years_: 36.8% (male 22,867,385/female 23,317,140)<br>
 _55-64 years_: 12.06% (male 7,564,067/female 7,570,732)<br>
-_65 years and over_: 29.18% (male 16,034,973/female 20,592,496) (2020 est.)<br>
+_65 years and over_: 29.18% (2020 est.) (male 16,034,973/female 20,592,496)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 69<br>
@@ -194,14 +197,14 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 30,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br>
+(2020 est.) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -336,9 +339,9 @@ _elections/appointments_: the monarchy is hereditary; the leader of the majority
 _election results_: Fumio KISHIDA relected prime minister on 10 November 2021 by the lower house with 297 votes against 108 for Yukio EDANO and in the upper houese 141 for KISHIDA and 60 for EDANO&nbsp;<br>
 
 **Legislative branch**<br>
-_description_: bicameral Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (242 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br>House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)<br>
+_description_: bicameral Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (245 seats, currently 242; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years); note - the number of seats increases to 248 at the July 2022 election for renewal of half the membership <br>House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: <br>House of Councillors - last held on 21 July 2019 (next to be held in July 2022)<br>House of Representatives - last held on 31 October 2021 (next to be held by October 2025)<br>
-_election results_: <br>House of Councillors - percent of vote by party - NA; seats by party - LDP 55, DP 32, Komeito 14, JCP 6, Osaka Ishin no Kai (Initiatives from Osaka) 7, PLPTYF 1, SDP 1, independent 5<br>House of Representatives - percent of vote by party - NA; seats by party - LDP 261, CDP 96, Ishin 41, Komeito 32, DPFP 11, JCP 10, Reiwa 3, SDP 1, independent 10<br>
+_election results_: <br>House of Councillors - percent of vote by party - NA; seats by party - LDP 55, DP 32, Komeito 14, JCP 6, Osaka Ishin no Kai (Initiatives from Osaka) 7, PLPTYF 1, SDP 1, independent 5; composition - men 186, women 56, percent of women 21.3%<br>House of Representatives - percent of vote by party - NA; seats by party - LDP 261, CDP 96, Ishin 41, Komeito 32, DPFP 11, JCP 10, Reiwa 3, SDP 1, independent 10; composition - men 420, women 45, percent of women 9.7%; note - total Diet percent of women 14.7%<br>
 <strong>note: </strong>the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts<br>
 
 **Judicial branch**<br>
@@ -391,8 +394,8 @@ _selected World Heritage Site locales_: Buddhist Monuments in the Horyu-ji Area 
 <p>Over the past 70 years, government-industry cooperation, a strong work ethic, mastery of high technology, and a comparatively small defense allocation (slightly less than 1% of GDP) have helped Japan develop an advanced economy. Two notable characteristics of the post-World War II economy were the close interlocking structures of manufacturers, suppliers, and distributors, known as keiretsu, and the guarantee of lifetime employment for a substantial portion of the urban labor force. Both features have significantly eroded under the dual pressures of global competition and domestic demographic change.</p><p></p><p>Measured on a purchasing power parity basis that adjusts for price differences, Japan in 2017 stood as the fourth-largest economy in the world after first-place China, which surpassed Japan in 2001, and third-place India, which edged out Japan in 2012. For three postwar decades, overall real economic growth was impressive - averaging 10% in the 1960s, 5% in the 1970s, and 4% in the 1980s. Growth slowed markedly in the 1990s, averaging just 1.7%, largely because of the aftereffects of inefficient investment and the collapse of an asset price bubble in the late 1980s, which resulted in several years of economic stagnation as firms sought to reduce excess debt, capital, and labor. Modest economic growth continued after 2000, but the economy has fallen into recession four times since 2008.</p><p></p><p>Japan enjoyed an uptick in growth since 2013, supported by Prime Minister Shinzo ABE’s "Three Arrows" economic revitalization agenda - dubbed "Abenomics" - of monetary easing, "flexible" fiscal policy, and structural reform. Led by the Bank of Japan’s aggressive monetary easing, Japan is making modest progress in ending deflation, but demographic decline – a low birthrate and an aging, shrinking population – poses a major long-term challenge for the economy. The government currently faces the quandary of balancing its efforts to stimulate growth and institute economic reforms with the need to address its sizable public debt, which stands at 235% of GDP. To help raise government revenue, Japan adopted legislation in 2012 to gradually raise the consumption tax rate. However, the first such increase, in April 2014, led to a sharp contraction, so Prime Minister ABE has twice postponed the next increase, which is now scheduled for October 2019. Structural reforms to unlock productivity are seen as central to strengthening the economy in the long-run.</p><p></p><p>Scarce in critical natural resources, Japan has long been dependent on imported energy and raw materials. After the complete shutdown of Japan’s nuclear reactors following the earthquake and tsunami disaster in 2011, Japan's industrial sector has become even more dependent than before on imported fossil fuels. However, ABE’s government is seeking to restart nuclear power plants that meet strict new safety standards and is emphasizing nuclear energy’s importance as a base-load electricity source. In August 2015, Japan successfully restarted one nuclear reactor at the Sendai Nuclear Power Plant in Kagoshima prefecture, and several other reactors around the country have since resumed operations; however, opposition from local governments has delayed several more restarts that remain pending. Reforms of the electricity and gas sectors, including full liberalization of Japan’s energy market in April 2016 and gas market in April 2017, constitute an important part of Prime Minister Abe’s economic program.</p><p></p><p>Under the Abe Administration, Japan’s government sought to open the country’s economy to greater foreign competition and create new export opportunities for Japanese businesses, including by joining 11 trading partners in the Trans-Pacific Partnership (TPP). Japan became the first country to ratify the TPP in December 2016, but the United States signaled its withdrawal from the agreement in January 2017. In November 2017 the remaining 11 countries agreed on the core elements of a modified agreement, which they renamed the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). Japan also reached agreement with the European Union on an Economic Partnership Agreement in July 2017, and is likely seek to ratify both agreements in the Diet this year.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$5,224,850,000,000 note: data are in 2017 dollars (2019 est.)<br>
-$5,210,770,000,000 note: data are in 2017 dollars (2018 est.)<br>
+$5,224,850,000,000 (2019 est.) note: data are in 2017 dollars<br>
+$5,210,770,000,000 (2018 est.) note: data are in 2017 dollars<br>
 $5,180,326,000,000 (2017 est.)<br>
 
 **Real GDP growth rate**<br>
@@ -401,8 +404,8 @@ $5,180,326,000,000 (2017 est.)<br>
 2.19% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$41,400 note: data are in 2017 dollars (2019 est.)<br>
-$41,200 note: data are in 2017 dollars (2018 est.)<br>
+$41,400 (2019 est.) note: data are in 2017 dollars<br>
+$41,200 (2018 est.) note: data are in 2017 dollars<br>
 $40,859 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -490,9 +493,9 @@ $185.644 billion (2019 est.)<br>
 $177.08 billion (2018 est.)<br>
 
 **Exports**<br>
-$793.32 billion note: data are in current year dollars (2020 est.)<br>
-$904.63 billion note: data are in current year dollars (2019 est.)<br>
-$929.83 billion note: data are in current year dollars (2018 est.)<br>
+$793.32 billion (2020 est.) note: data are in current year dollars<br>
+$904.63 billion (2019 est.) note: data are in current year dollars<br>
+$929.83 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 19%, China 18%, South Korea 6%, Taiwan 6% (2019)<br>
@@ -501,9 +504,9 @@ United States 19%, China 18%, South Korea 6%, Taiwan 6% (2019)<br>
 cars and vehicle parts, integrated circuits, personal appliances, ships (2019)<br>
 
 **Imports**<br>
-$799.52 billion note: data are in current year dollars (2020 est.)<br>
-$913.25 billion note: data are in current year dollars (2019 est.)<br>
-$928.42 billion note: data are in current year dollars (2018 est.)<br>
+$799.52 billion (2020 est.) note: data are in current year dollars<br>
+$913.25 billion (2019 est.) note: data are in current year dollars<br>
+$928.42 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 23%, United States 11%, Australia 6% (2019)<br>
@@ -620,8 +623,12 @@ a mixture of public and commercial broadcast TV and radio stations; 6 national t
 **Internet country code**<br>
 .jp<br>
 
+**Internet users**<br>
+_total_: 113,252,419 (2020 est.)<br>
+_percent of population_: 90% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 44,000,791 Total does not equal the sum of subscriptions by speed since it included subscriptions with unknown speed. (2021)<br>
+_total_: 44,000,791 (2021) Total does not equal the sum of subscriptions by speed since it included subscriptions with unknown speed.<br>
 _subscriptions per 100 inhabitants_: 34.79 (2021)<br>
 
 ## Transportation
@@ -630,7 +637,7 @@ _subscriptions per 100 inhabitants_: 34.79 (2021)<br>
 _number of registered air carriers_: 22 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 673<br>
 _annual passenger traffic on registered air carriers_: 126,387,527 (2018)<br>
-_annual freight traffic on registered air carriers_: 9,420,660,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 9,420,660,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 JA<br>
@@ -659,18 +666,18 @@ _under 914 m_: 28 (2021)<br>
 
 **Railways**<br>
 _total_: 27,311 km (2015)<br>
-_standard gauge_: 4,800 km 1.435-m gauge (4,800 km electrified) (2015)<br>
-_narrow gauge_: 124 km 1.372-m gauge (124 km electrified) (2015)<br>
-_dual gauge_: 132 km 1.435-1.067-m gauge (132 km electrified) (2015)<br>
+_standard gauge_: 4,800 km (2015) 1.435-m gauge (4,800 km electrified)<br>
+_narrow gauge_: 124 km (2015) 1.372-m gauge (124 km electrified)<br>
+_dual gauge_: 132 km (2015) 1.435-1.067-m gauge (132 km electrified)<br>
 22.207 km 1.067-m gauge (15,430 km electrified)<br>48 km 0.762-m gauge (48 km electrified)<br>
 
 **Roadways**<br>
 _total_: 1,218,772 km (2015)<br>
-_paved_: 992,835 km (includes 8,428 km of expressways) (2015)<br>
+_paved_: 992,835 km (2015) (includes 8,428 km of expressways)<br>
 _unpaved_: 225,937 km (2015)<br>
 
 **Waterways**<br>
-1,770 km (seagoing vessels use inland seas) (2010)<br>
+1,770 km (2010) (seagoing vessels use inland seas)<br>
 
 **Merchant marine**<br>
 _total_: 5,201<br>
@@ -690,9 +697,9 @@ Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSD
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020)<br>
-0.9% of GDP (approximately $53.4 billion) (2019)<br>
-0.9% of GDP (approximately $53.5 billion) (2018)<br>
-0.9% of GDP (approximately $52.6 billion) (2017)<br>
+0.9% of GDP (2019) (approximately $53.4 billion)<br>
+0.9% of GDP (2018) (approximately $53.5 billion)<br>
+0.9% of GDP (2017) (approximately $52.6 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Japanese Self Defense Force (JSDF) is comprised of approximately 244,000 active personnel (150,000 Ground; 45,000 Maritime; 45,000 Air; 4,000 Joint Forces); 14,000 Coast Guard (2021)<br>

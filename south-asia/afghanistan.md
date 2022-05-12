@@ -79,6 +79,9 @@ damaging earthquakes occur in Hindu Kush mountains; flooding; droughts<br>
 **Geography - note**<br>
 landlocked; the Hindu Kush mountains that run northeast to southwest divide the northern provinces from the rest of the country; the highest peaks are in the northern Vakhan (Wakhan Corridor)<br>
 
+**Map description**<br>
+<p>Afghanistan map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,8 +97,7 @@ Current, reliable statistical data on ethnicity in Afghanistan are not available
 **Languages**<br>
 Afghan Persian or Dari (official, lingua franca) 77%, Pashto (official) 48%, Uzbeki 11%, English 6%, Turkmani 3%, Urdu 3%, Pachaie 1%, Nuristani 1%, Arabic 1%, Balochi 1%, other &lt;1% (2020 est.)<br>
 _major-language sample(s)_: <br> <p>کتاب حقایق جهان، مرجعی ضروری برای اطلاعات اولیە (Dari)</p> د دنیا د حقائېقو کتاب، بنیادی معلوماتو لپاره ضروری سرچینه- (Pashto)<br><br>The World Factbook, the indispensable source for basic information.<br>
-<strong>note 1:</strong> percentages sum to more than 100% because many people are multilingual
-<br><br><strong>note 2: </strong>Uzbeki, Turkmani, Pachaie, Nuristani, Balochi, and Pamiri are the third official languages in areas where the majority speaks them<br>
+<strong>note 1:</strong> percentages sum to more than 100% because many people are multilingual <br><br><strong>note 2: </strong>Uzbeki, Turkmani, Pachaie, Nuristani, Balochi, and Pamiri are the third official languages in areas where the majority speaks them<br>
 
 **Religions**<br>
 Muslim 99.7% (Sunni 84.7 - 89.7%, Shia 10 - 15%), other &lt;0.3% (2009 est.)<br>
@@ -105,7 +107,7 @@ _0-14 years_: 40.62% (male 7,562,703/female 7,321,646)<br>
 _15-24 years_: 21.26% (male 3,960,044/female 3,828,670)<br>
 _25-54 years_: 31.44% (male 5,858,675/female 5,661,887)<br>
 _55-64 years_: 4.01% (male 724,597/female 744,910)<br>
-_65 years and over_: 2.68% (male 451,852/female 528,831) (2020 est.)<br>
+_65 years and over_: 2.68% (2020 est.) (male 451,852/female 528,831)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 88.8<br>
@@ -199,13 +201,13 @@ _unimproved: rural_: rural: 48% of population<br>
 _unimproved: total_: total: 38.6% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 12,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<1,000 (2020 est.)<br>
+(2020 est.) <1,000<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -505,9 +507,9 @@ $1.014 billion (2017 est.)<br>
 $1.409 billion (2016 est.)<br>
 
 **Exports**<br>
-$1.48 billion note: data are in current year dollars (2020 est.)<br>
-$1.52 billion note: data are in current year dollars (2019 est.)<br>
-$1.61 billion note: data are in current year dollars (2018 est.)<br>
+$1.48 billion (2020 est.) note: data are in current year dollars<br>
+$1.52 billion (2019 est.) note: data are in current year dollars<br>
+$1.61 billion (2018 est.) note: data are in current year dollars<br>
 <strong>note:</strong> not including illicit exports or reexports<br>
 
 **Exports - partners**<br>
@@ -517,9 +519,9 @@ United Arab Emirates 45%, Pakistan 24%, India 22%, China 1% (2019)<br>
 gold, grapes, opium, fruits and nuts, insect resins, cotton, handwoven carpets, soapstone, scrap metal (2019)<br>
 
 **Imports**<br>
-$6.98 billion note: data are in current year dollars (2020 est.)<br>
-$7.37 billion note: data are in current year dollars (2019 est.)<br>
-$7.98 billion note: data are in current year dollars (2018 est.)<br>
+$6.98 billion (2020 est.) note: data are in current year dollars<br>
+$7.37 billion (2019 est.) note: data are in current year dollars<br>
+$7.98 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 23%, Pakistan 17%, India 13%, China 9%, United States 9%, Uzbekistan 7%, Kazakhstan 6% (2019)<br>
@@ -619,7 +621,7 @@ _electrification - rural areas_: 98% (2018)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 134,636 (2019)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: (2019 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 22,580,071 (2020)<br>
@@ -636,9 +638,13 @@ since 15 August 2021, independent media outlets have decreased in number due to 
 **Internet country code**<br>
 .af<br>
 
+**Internet users**<br>
+_total_: 7,007,101 (2020 est.)<br>
+_percent of population_: 18% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 26,570 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.07 (2021)<br>
+_total_: 26,570 (2022)<br>
+_subscriptions per 100 inhabitants_: 0.07 (2022)<br>
 
 ## Transportation
 
@@ -646,7 +652,7 @@ _subscriptions per 100 inhabitants_: 0.07 (2021)<br>
 _number of registered air carriers_: 3 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 13<br>
 _annual passenger traffic on registered air carriers_: 1,722,612 (2018)<br>
-_annual freight traffic on registered air carriers_: 29.56 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 29.56 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 YA<br>
@@ -681,7 +687,7 @@ _paved_: 17,903 km (2017)<br>
 _unpaved_: 17,000 km (2017)<br>
 
 **Waterways**<br>
-1,200 km (chiefly Amu Darya, which handles vessels up to 500 DWT) (2011)<br>
+1,200 km (2011) (chiefly Amu Darya, which handles vessels up to 500 DWT)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Hairatan, Qizil Qal`ah (Amu Darya)<br>
@@ -692,11 +698,11 @@ _river port(s)_: Hairatan, Qizil Qal`ah (Amu Darya)<br>
 not available; as of late 2021, the Taliban had established a Ministry of Defense and named commanders and deputy commanders for 8 regional corps (2021)<br>
 
 **Military expenditures**<br>
-3.3% of GDP (approximately $2.35 billion) (2019)<br>
-3.2% of GDP (approximately $2.31 billion) (2018)<br>
-3.3% of GDP (approximately $2.34 billion) (2017)<br>
-3.1% of GDP (approximately $2.6 billion) (2016)<br>
-2.9% of GDP (approximately $2.22 billion) (2015)<br>
+3.3% of GDP (2019) (approximately $2.35 billion)<br>
+3.2% of GDP (2018) (approximately $2.31 billion)<br>
+3.3% of GDP (2017) (approximately $2.34 billion)<br>
+3.1% of GDP (2016) (approximately $2.6 billion)<br>
+2.9% of GDP (2015) (approximately $2.22 billion)<br>
 
 **Military and security service personnel strengths**<br>
 not available; in early 2022, the Taliban announced intentions to form a military of approximately 110,000 personnel; prior to August 2021, the ANDSF had approximately 300,000 personnel (180,000 Ministry of Defense; 120,000 Ministry of Interior) (2022)<br>
@@ -708,7 +714,7 @@ the former Afghan military's inventory was mostly a mix of Soviet-era and more m
 not available<br>
 
 **Military - note**<br>
-<p>during the fighting with the Afghan Government, the Taliban’s military operations and strategy were directed by a leadership council (Rahbari Shura) led by HAIBATULLAH Akhundzada; Taliban forces were a decentralized guerrilla and militia force of approximately 60-80,000 full-time fighters loosely organized as battalions and brigades with at least one corps headquarters; as of October 2021, the Taliban was still forming an official military structure, although it reportedly had named commanders for 8 regional corps and established a named special forces unit</p><br>
+<p>as of early 2022, the Taliban was still forming a military, although it reportedly had named commanders for 8 regional corps and established a special forces unit; during the fighting with the Afghan Government, the Taliban forces were a decentralized guerrilla and militia force of approximately 60-80,000 full-time fighters loosely organized as battalions and brigades with at least one corps headquarters</p><br>
 
 ## Terrorism
 

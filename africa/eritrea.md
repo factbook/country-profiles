@@ -70,6 +70,9 @@ density is highest in the center of the country in and around the cities of Asma
 **Geography - note**<br>
 strategic geopolitical position along world's busiest shipping lanes; Eritrea retained the entire coastline of Ethiopia along the Red Sea upon de jure independence from Ethiopia on 24 May 1993<br>
 
+**Map description**<br>
+<p>Eritrea map showing major cities as well as parts of surrounding countries and the Red Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 38.23% (male 1,169,456/female 1,155,460)<br>
 _15-24 years_: 20.56% (male 622,172/female 627,858)<br>
 _25-54 years_: 33.42% (male 997,693/female 1,034,550)<br>
 _55-64 years_: 3.8% (male 105,092/female 125,735)<br>
-_65 years and over_: 4% (male 99,231/female 143,949) (2020 est.)<br>
+_65 years and over_: 4% (2020 est.) (male 99,231/female 143,949)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 83.9<br>
@@ -196,7 +199,7 @@ _unimproved: total_: total: 84.3% of population (2017 est.)<br>
 13,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -590,9 +593,13 @@ government controls broadcast media with private ownership prohibited; 1 state-o
 **Internet country code**<br>
 .er<br>
 
+**Internet users**<br>
+_total_: 53,200 (2019 est.)<br>
+_percent of population_: 1% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 5,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.14 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.14 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -624,7 +631,7 @@ _914 to 1,523 m_: 2 (2021)<br>
 
 **Railways**<br>
 _total_: 306 km (2018)<br>
-_narrow gauge_: 306 km 0.950-m gauge (2018)<br>
+_narrow gauge_: 306 km (2018) 0.950-m gauge<br>
 
 **Roadways**<br>
 _total_: 16,000 km (2018)<br>
@@ -644,11 +651,11 @@ _major seaport(s)_: Assab, Massawa<br>
 Eritrean Defense Forces: Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force) (2021)<br>
 
 **Military expenditures**<br>
-10% of GDP (approximately $640 million) (2019 est.)<br>
-10.2% of GDP (approximately $630 million) (2018 est.)<br>
-10.3% of GDP (approximately $630 million) (2017 est.)<br>
-10.4% of GDP (approximately $640 million) (2016 est.)<br>
-10.6% of GDP (approximately $600 million) (2015 est.)<br>
+10% of GDP (2019 est.) (approximately $640 million)<br>
+10.2% of GDP (2018 est.) (approximately $630 million)<br>
+10.3% of GDP (2017 est.) (approximately $630 million)<br>
+10.4% of GDP (2016 est.) (approximately $640 million)<br>
+10.6% of GDP (2015 est.) (approximately $600 million)<br>
 
 **Military and security service personnel strengths**<br>
 limited available information; estimated 150,000-200,000 personnel, including about 2,000 in the naval and air forces (2021)<br>

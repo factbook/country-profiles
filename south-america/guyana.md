@@ -75,6 +75,9 @@ flash flood threat during rainy seasons<br>
 **Geography - note**<br>
 the third-smallest country in South America after Suriname and Uruguay; substantial portions of its western and eastern territories are claimed by Venezuela and Suriname respectively; contains some of the largest unspoiled rainforests on the continent<br>
 
+**Map description**<br>
+<p>Guyana map showing major population centers as well as parts of surrounding countries and the North Atlantic Ocean.</p> <p> </p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 23.91% (male 91,317/female 88,025)<br>
 _15-24 years_: 21.23% (male 81,294/female 77,987)<br>
 _25-54 years_: 39.48% (male 154,825/female 141,385)<br>
 _55-64 years_: 8.37% (male 29,385/female 33,386)<br>
-_65 years and over_: 7.01% (male 21,325/female 31,275) (2020 est.)<br>
+_65 years and over_: 7.01% (2020 est.) (male 21,325/female 31,275)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.2<br>
@@ -201,7 +204,7 @@ _unimproved: total_: total: 4% of population (2020 est.)<br>
 9,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2020 est.)<br>
+(2020 est.) <200<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -485,8 +488,8 @@ calendar year<br>
 $13 million (2016 est.)<br>
 
 **Exports**<br>
-$1.8 billion note: data are in current year dollars (2019 est.)<br>
-$1.58 billion note: data are in current year dollars (2018 est.)<br>
+$1.8 billion (2019 est.) note: data are in current year dollars<br>
+$1.58 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Trinidad and Tobago 31%, Canada 11%, Portugal 11%, Ghana 8%, Norway 6%, United Arab Emirates 5% (2019)<br>
@@ -495,8 +498,8 @@ Trinidad and Tobago 31%, Canada 11%, Portugal 11%, Ghana 8%, Norway 6%, United A
 ships, gold, shipping containers, excavation machinery, aluminum ores, rice (2019)<br>
 
 **Imports**<br>
-$4 billion note: data are in current year dollars (2019 est.)<br>
-$3.12 billion note: data are in current year dollars (2018 est.)<br>
+$4 billion (2019 est.) note: data are in current year dollars<br>
+$3.12 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 26%, Trinidad and Tobago 16%, Singapore 18%, Liberia 11%, China 5%, Norway 5% (2019)<br>
@@ -615,6 +618,10 @@ government-dominated broadcast media; the National Communications Network (NCN) 
 **Internet country code**<br>
 .gy<br>
 
+**Internet users**<br>
+_total_: 289,627 (2019 est.)<br>
+_percent of population_: 37% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 95,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 12.08 (2021)<br>
@@ -645,7 +652,7 @@ _paved_: 799 km (2019)<br>
 _unpaved_: 3,196 km (2019)<br>
 
 **Waterways**<br>
-330 km (the Berbice, Demerara, and Essequibo Rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively) (2012)<br>
+330 km (2012) (the Berbice, Demerara, and Essequibo Rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively)<br>
 
 **Merchant marine**<br>
 _total_: 56<br>
@@ -661,10 +668,10 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>
-1.3% of GDP (approximately $95 million) (2019 est.)<br>
-1.3% of GDP (approximately $85 million) (2018 est.)<br>
-1.2% of GDP (approximately $80 million) (2017 est.)<br>
-1.1% of GDP (approximately $75 million) (2016 est.)<br>
+1.3% of GDP (2019 est.) (approximately $95 million)<br>
+1.3% of GDP (2018 est.) (approximately $85 million)<br>
+1.2% of GDP (2017 est.) (approximately $80 million)<br>
+1.1% of GDP (2016 est.) (approximately $75 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 4,000 active personnel (2021)<br>

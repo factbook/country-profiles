@@ -76,6 +76,9 @@ destructive earthquakes<br>
 **Geography - note**<br>
 landlocked; controls one of the major land routes from Western Europe to Turkey and the Near East<br>
 
+**Map description**<br>
+<p>Serbia map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -103,7 +106,7 @@ _0-14 years_: 14.07% (male 508,242/female 478,247)<br>
 _15-24 years_: 11.04% (male 399,435/female 374,718)<br>
 _25-54 years_: 41.19% (male 1,459,413/female 1,429,176)<br>
 _55-64 years_: 13.7% (male 464,881/female 495,663)<br>
-_65 years and over_: 20% (male 585,705/female 816,685) (2020 est.)<br>
+_65 years and over_: 20% (2020 est.) (male 585,705/female 816,685)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.5<br>
@@ -198,14 +201,14 @@ _unimproved: rural_: rural: 4.3% of population<br>
 _unimproved: total_: total: 2.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 3,300 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br>
+(2020 est.) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -298,7 +301,7 @@ _industrial_: 4.057 billion cubic meters (2017 est.)<br>
 _agricultural_: 660.8 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
-162.2 billion cubic meters (note - includes Kosovo) (2017 est.)<br>
+162.2 billion cubic meters (2017 est.) (note - includes Kosovo)<br>
 
 ## Government
 
@@ -510,9 +513,9 @@ _expenditures_: 17.59 billion (2017 est.)<br>
 -$1.189 billion (2016 est.)<br>
 
 **Exports**<br>
-$25.42 billion note: data are in current year dollars (2020 est.)<br>
-$26.13 billion note: data are in current year dollars (2019 est.)<br>
-$24.97 billion note: data are in current year dollars (2018 est.)<br>
+$25.42 billion (2020 est.) note: data are in current year dollars<br>
+$26.13 billion (2019 est.) note: data are in current year dollars<br>
+$24.97 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 12%, Italy 10%, Bosnia and Herzegovina 7%, Romania 6%, Russia 5%&nbsp; (2019)<br>
@@ -521,9 +524,9 @@ Germany 12%, Italy 10%, Bosnia and Herzegovina 7%, Romania 6%, Russia 5%&nbsp; (
 insulated wiring, tires, corn, cars, iron products, copper (2019)<br>
 
 **Imports**<br>
-$30.15 billion note: data are in current year dollars (2020 est.)<br>
-$31.29 billion note: data are in current year dollars (2019 est.)<br>
-$29.78 billion note: data are in current year dollars (2018 est.)<br>
+$30.15 billion (2020 est.) note: data are in current year dollars<br>
+$31.29 billion (2019 est.) note: data are in current year dollars<br>
+$29.78 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 13%, Russia 9%, Italy 8%, Hungary 6%, China 5%, Turkey 5% (2019)<br>
@@ -637,6 +640,10 @@ _international_: country code - 381<br>
 **Internet country code**<br>
 .rs<br>
 
+**Internet users**<br>
+_total_: 5,381,318 (2020 est.)<br>
+_percent of population_: 78% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,730,496 (2021)<br>
 _subscriptions per 100 inhabitants_: 25.18 (2021)<br>
@@ -647,7 +654,7 @@ _subscriptions per 100 inhabitants_: 25.18 (2021)<br>
 _number of registered air carriers_: 4 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 43<br>
 _annual passenger traffic on registered air carriers_: 2,262,703 (2018)<br>
-_annual freight traffic on registered air carriers_: 17.71 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 17.71 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 YU<br>
@@ -676,15 +683,15 @@ _under 914 m_: 5 (2021)<br>
 
 **Railways**<br>
 _total_: 3,809 km (2015)<br>
-_standard gauge_: 3,809 km 1.435-m gauge (3,526 km one-track lines and 283 km double-track lines) out of which 1,279 km electrified (1,000 km one-track lines and 279 km double-track lines) (2015)<br>
+_standard gauge_: 3,809 km (2015) 1.435-m gauge (3,526 km one-track lines and 283 km double-track lines) out of which 1,279 km electrified (1,000 km one-track lines and 279 km double-track lines)<br>
 
 **Roadways**<br>
 _total_: 44,248 km (2016)<br>
-_paved_: 28,000 km (16,162 km state roads, out of which 741 km highways) (2016)<br>
+_paved_: 28,000 km (2016) (16,162 km state roads, out of which 741 km highways)<br>
 _unpaved_: 16,248 km (2016)<br>
 
 **Waterways**<br>
-587 km (primarily on the Danube and Sava Rivers) (2009)<br>
+587 km (2009) (primarily on the Danube and Sava Rivers)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Belgrade (Danube)<br>
@@ -696,11 +703,11 @@ Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Compone
 note: the Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff<br>
 
 **Military expenditures**<br>
-1.7% of GDP (2021 est.)<br>
+1.9% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-2.2% of GDP (approximately $1.83 billion) (2019)<br>
-1.6% of GDP (approximately $1.43 billion) (2018)<br>
-1.8% of GDP (approximately $1.47 billion) (2017)<br>
+2.2% of GDP (2019) (approximately $1.83 billion)<br>
+1.6% of GDP (2018) (approximately $1.43 billion)<br>
+1.8% of GDP (2017) (approximately $1.47 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other) (2021)<br>
@@ -727,7 +734,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 _refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 827,464 estimated refugee and migrant arrivals (January 2015-April 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
+<strong>note:</strong> 828,876 estimated refugee and migrant arrivals (January 2015-April 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

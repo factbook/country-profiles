@@ -84,6 +84,9 @@ periodic droughts; flooding<br>
 **Geography - note**<br>
 the Niger River enters the country in the northwest and flows southward through tropical rain forests and swamps to its delta in the Gulf of Guinea<br>
 
+**Map description**<br>
+<p>Nigeria map showing major cities as well as parts of surrounding countries and the Gulf of Guinea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -112,7 +115,7 @@ _0-14 years_: 41.7% (male 45,571,738/female 43,674,769)<br>
 _15-24 years_: 20.27% (male 22,022,660/female 21,358,753)<br>
 _25-54 years_: 30.6% (male 32,808,913/female 32,686,474)<br>
 _55-64 years_: 4.13% (male 4,327,847/female 4,514,264)<br>
-_65 years and over_: 3.3% (male 3,329,083/female 3,733,801) (2020 est.)<br>
+_65 years and over_: 3.3% (2020 est.) (male 3,329,083/female 3,733,801)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 86<br>
@@ -218,8 +221,7 @@ _water contact diseases_: leptospirosis and schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note 1:</strong> on 30 September 2021, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><br><strong>note 2:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 30 March 2022, Nigeria has reported a total of 255,341 cases of COVID-19 or 123.86 cumulative cases of COVID-19 per 100,000 population with a total of 3,142 cumulative deaths or a rate of 1.52 cumulative death per 100,000 population; as of 29 March 2022, 9.95% of the population has received at least one dose of COVID-19 vaccine<br>
-<strong>note 3: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note 1:</strong> on 30 September 2021, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><br><strong>note 2:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 30 March 2022, Nigeria has reported a total of 255,341 cases of COVID-19 or 123.86 cumulative cases of COVID-19 per 100,000 population with a total of 3,142 cumulative deaths or a rate of 1.52 cumulative death per 100,000 population; as of 29 March 2022, 9.95% of the population has received at least one dose of COVID-19 vaccine<br> <strong>note 3: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.9% (2016)<br>
@@ -249,7 +251,7 @@ _female_: 8 years (2011)<br>
 **Unemployment, youth ages 15-24**<br>
 _total_: 18.3%<br>
 _male_: 18.4% NA<br>
-_female_: 18.2% NA (2019 est.)<br>
+_female_: 18.2% (2019 est.) NA<br>
 
 ## Environment
 
@@ -294,8 +296,7 @@ _water contact diseases_: leptospirosis and schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note 1:</strong> on 30 September 2021, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><br><strong>note 2:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 30 March 2022, Nigeria has reported a total of 255,341 cases of COVID-19 or 123.86 cumulative cases of COVID-19 per 100,000 population with a total of 3,142 cumulative deaths or a rate of 1.52 cumulative death per 100,000 population; as of 29 March 2022, 9.95% of the population has received at least one dose of COVID-19 vaccine<br>
-<strong>note 3: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note 1:</strong> on 30 September 2021, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><br><strong>note 2:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 30 March 2022, Nigeria has reported a total of 255,341 cases of COVID-19 or 123.86 cumulative cases of COVID-19 per 100,000 population with a total of 3,142 cumulative deaths or a rate of 1.52 cumulative death per 100,000 population; as of 29 March 2022, 9.95% of the population has received at least one dose of COVID-19 vaccine<br> <strong>note 3: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to persistent civil conflict in the northern areas - according to the latest analysis, about 12.8 million people are assessed to be in need of humanitarian assistance in the June&minus;August 2021 period as a result of worsening conflict that is driving new population displacements; over 2.8 million people are estimated to be internally displaced in northeastern states of Adamawa, Borno and Yobe, due to communal clashes in northwestern/northcentral zones and natural disasters; the areas inaccessible to humanitarian interventions are facing the worst food insecurity conditions (2021)<br>
@@ -494,7 +495,7 @@ _services_: 20% (1999 est.)<br>
 **Unemployment, youth ages 15-24**<br>
 _total_: 18.3%<br>
 _male_: 18.4% NA<br>
-_female_: 18.2% NA (2019 est.)<br>
+_female_: 18.2% (2019 est.) NA<br>
 
 **Population below poverty line**<br>
 40.1% (2018 est.)<br>
@@ -529,9 +530,9 @@ $10.38 billion (2017 est.)<br>
 $2.714 billion (2016 est.)<br>
 
 **Exports**<br>
-$39.94 billion note: data are in current year dollars (2020 est.)<br>
-$69.93 billion note: data are in current year dollars (2019 est.)<br>
-$66.04 billion note: data are in current year dollars (2018 est.)<br>
+$39.94 billion (2020 est.) note: data are in current year dollars<br>
+$69.93 billion (2019 est.) note: data are in current year dollars<br>
+$66.04 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 India 16%, Spain 10%, United States 7%, France 7%, Netherlands 6% (2019)<br>
@@ -540,9 +541,9 @@ India 16%, Spain 10%, United States 7%, France 7%, Netherlands 6% (2019)<br>
 crude petroleum, natural gas, scrap vessels, flexible metal tubing, cocoa beans (2019)<br>
 
 **Imports**<br>
-$72.18 billion note: data are in current year dollars (2020 est.)<br>
-$100.82 billion note: data are in current year dollars (2019 est.)<br>
-$71.64 billion note: data are in current year dollars (2018 est.)<br>
+$72.18 billion (2020 est.) note: data are in current year dollars<br>
+$100.82 billion (2019 est.) note: data are in current year dollars<br>
+$71.64 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 30%, Netherlands 11%, United States 6%, Belgium 5% (2019)<br>
@@ -643,7 +644,7 @@ _electrification - rural areas_: 30% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 107,031 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 184.592 million (2019)<br>
@@ -661,9 +662,13 @@ nearly 70 federal government-controlled national and regional TV stations; all 3
 **Internet country code**<br>
 .ng<br>
 
+**Internet users**<br>
+_total_: 74,210,251 (2020 est.)<br>
+_percent of population_: 36% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 65,313 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.03 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.03 (2021) less than 1<br>
 
 ## Transportation
 
@@ -671,7 +676,7 @@ _subscriptions per 100 inhabitants_: 0.03 less than 1 (2021)<br>
 _number of registered air carriers_: 13 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 104<br>
 _annual passenger traffic on registered air carriers_: 8,169,192 (2018)<br>
-_annual freight traffic on registered air carriers_: 19.42 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 19.42 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 5N<br>
@@ -701,8 +706,8 @@ _under 914 m_: 3 (2021)<br>
 
 **Railways**<br>
 _total_: 3,798 km (2014)<br>
-_standard gauge_: 293 km 1.435-m gauge (2014)<br>
-_narrow gauge_: 3,505 km 1.067-m gauge (2014)<br>
+_standard gauge_: 293 km (2014) 1.435-m gauge<br>
+_narrow gauge_: 3,505 km (2014) 1.067-m gauge<br>
 <strong>note:</strong> as of the end of 2018, there were only six operational locomotives in Nigeria primarily used for passenger service; the majority of the rail lines are in a severe state of disrepair and need to be replaced<br>
 
 **Roadways**<br>
@@ -711,7 +716,7 @@ _paved_: 60,000 km (2017)<br>
 _unpaved_: 135,000 km (2017)<br>
 
 **Waterways**<br>
-8,600 km (Niger and Benue Rivers and smaller rivers and creeks) (2011)<br>
+8,600 km (2011) (Niger and Benue Rivers and smaller rivers and creeks)<br>
 
 **Merchant marine**<br>
 _total_: 791<br>
@@ -729,10 +734,10 @@ Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of
 
 **Military expenditures**<br>
 0.6% of GDP (2020)<br>
-0.5% of GDP (approximately $3.53 billion) (2019)<br>
-0.5% of GDP (approximately $3.72 billion) (2018)<br>
-0.5% of GDP (approximately $3.42 billion) (2017)<br>
-0.4% of GDP (approximately $3.05 billion) (2016)<br>
+0.5% of GDP (2019) (approximately $3.53 billion)<br>
+0.5% of GDP (2018) (approximately $3.72 billion)<br>
+0.5% of GDP (2017) (approximately $3.42 billion)<br>
+0.4% of GDP (2016) (approximately $3.05 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 135,000 active personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); est. 80,000 Security and Civil Defense Corps (2021)<br>

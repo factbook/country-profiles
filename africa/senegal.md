@@ -82,6 +82,9 @@ lowlands seasonally flooded; periodic droughts<br>
 **Geography - note**<br>
 westernmost country on the African continent; The Gambia is almost an enclave within Senegal<br>
 
+**Map description**<br>
+<p>Senegal map showing major cities as well as parts of surrounding countries and the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -108,7 +111,7 @@ _0-14 years_: 40.38% (male 3,194,454/female 3,160,111)<br>
 _15-24 years_: 20.35% (male 1,596,896/female 1,606,084)<br>
 _25-54 years_: 31.95% (male 2,327,424/female 2,700,698)<br>
 _55-64 years_: 4.21% (male 283,480/female 378,932)<br>
-_65 years and over_: 3.1% (male 212,332/female 275,957) (2020 est.)<br>
+_65 years and over_: 3.1% (2020 est.) (male 212,332/female 275,957)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 84.2<br>
@@ -517,7 +520,7 @@ calendar year<br>
 -$769 million (2016 est.)<br>
 
 **Exports**<br>
-$5.29 billion note: data are in current year dollars (2018 est.)<br>
+$5.29 billion (2018 est.) note: data are in current year dollars<br>
 $2.498 billion (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -527,7 +530,7 @@ Mali 22%, Switzerland 14%, India 9%, China 7% (2019)<br>
 gold, refined petroleum, phosphoric acid, fish, ground nuts (2019)<br>
 
 **Imports**<br>
-$8.96 billion note: data are in current year dollars (2018 est.)<br>
+$8.96 billion (2018 est.) note: data are in current year dollars<br>
 $4.966 billion (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -647,9 +650,13 @@ state-run Radiodiffusion Television Senegalaise (RTS) broadcasts TV programs fro
 **Internet country code**<br>
 .sn<br>
 
+**Internet users**<br>
+_total_: 7,199,890 (2020 est.)<br>
+_percent of population_: 43% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 153,813 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.92 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.92 (2021) less than 1<br>
 
 ## Transportation
 
@@ -657,7 +664,7 @@ _subscriptions per 100 inhabitants_: 0.92 less than 1 (2021)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 11<br>
 _annual passenger traffic on registered air carriers_: 21,038 (2018)<br>
-_annual freight traffic on registered air carriers_: 40,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 40,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 6V<br>
@@ -681,16 +688,16 @@ _under 914 m_: 1 (2021)<br>
 43 km gas, 8 km refined products (2017)<br>
 
 **Railways**<br>
-_total_: 906 km (713 km operational in 2017) (2017)<br>
-_narrow gauge_: 906 km 1.000-m gauge (2017)<br>
+_total_: 906 km (2017) (713 km operational in 2017)<br>
+_narrow gauge_: 906 km (2017) 1.000-m gauge<br>
 
 **Roadways**<br>
 _total_: 16,665 km (2017)<br>
-_paved_: 6,126 km (includes 241 km of expressways) (2017)<br>
+_paved_: 6,126 km (2017) (includes 241 km of expressways)<br>
 _unpaved_: 10,539 km (2017)<br>
 
 **Waterways**<br>
-1,000 km (primarily on the Senegal, Saloum, and Casamance Rivers) (2012)<br>
+1,000 km (2012) (primarily on the Senegal, Saloum, and Casamance Rivers)<br>
 
 **Merchant marine**<br>
 _total_: 35<br>
@@ -707,10 +714,10 @@ note - the National Police operates in major cities, while the Gendarmerie prima
 
 **Military expenditures**<br>
 1.5% of GDP (2020)<br>
-1.5% of GDP (approximately $490 million) (2019 est.)<br>
-1.6% of GDP (approximately $490 million) (2018)<br>
-1.5% of GDP (approximately $430 million) (2017)<br>
-1.4% of GDP (approximately $400 million) (2016)<br>
+1.5% of GDP (2019 est.) (approximately $490 million)<br>
+1.6% of GDP (2018) (approximately $490 million)<br>
+1.5% of GDP (2017) (approximately $430 million)<br>
+1.4% of GDP (2016) (approximately $400 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2021)<br>

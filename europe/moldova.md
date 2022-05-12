@@ -76,6 +76,9 @@ landslides<br>
 **Geography - note**<br>
 landlocked; well endowed with various sedimentary rocks and minerals including sand, gravel, gypsum, and limestone<br>
 
+**Map description**<br>
+<p>Moldova map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -100,7 +103,7 @@ _0-14 years_: 18.31% (male 317,243/female 298,673)<br>
 _15-24 years_: 11.27% (male 196,874/female 182,456)<br>
 _25-54 years_: 43.13% (male 738,103/female 712,892)<br>
 _55-64 years_: 13.26% (male 205,693/female 240,555)<br>
-_65 years and over_: 14.03% (male 186,949/female 285,058) (2020 est.)<br>
+_65 years and over_: 14.03% (2020 est.) (male 186,949/female 285,058)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 39.6<br>
@@ -198,7 +201,7 @@ _unimproved: total_: total: 10.1% of population (2020 est.)<br>
 14,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
@@ -488,9 +491,9 @@ calendar year<br>
 -$268 million (2016 est.)<br>
 
 **Exports**<br>
-$3.24 billion note: data are in current year dollars (2020 est.)<br>
-$3.66 billion note: data are in current year dollars (2019 est.)<br>
-$3.45 billion note: data are in current year dollars (2018 est.)<br>
+$3.24 billion (2020 est.) note: data are in current year dollars<br>
+$3.66 billion (2019 est.) note: data are in current year dollars<br>
+$3.45 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Romania 27%, Russia 9%, Italy 9%, Germany 9%, Turkey 6%, Poland 5% (2019)<br>
@@ -499,9 +502,9 @@ Romania 27%, Russia 9%, Italy 9%, Germany 9%, Turkey 6%, Poland 5% (2019)<br>
 insulated wiring, sunflower seeds, wine, corn, seats (2019)<br>
 
 **Imports**<br>
-$5.93 billion note: data are in current year dollars (2020 est.)<br>
-$6.62 billion note: data are in current year dollars (2019 est.)<br>
-$6.39 billion note: data are in current year dollars (2018 est.)<br>
+$5.93 billion (2020 est.) note: data are in current year dollars<br>
+$6.62 billion (2019 est.) note: data are in current year dollars<br>
+$6.39 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Romania 20%, Russia 10%, Ukraine 9%, Germany 8%, China 7%, Turkey 6%, Italy 6% (2019)<br>
@@ -597,7 +600,7 @@ _electrification - total population_: 100% (2020)<br>
 <strong>note:</strong> excludes breakaway Transnistria<br>
 
 **Natural gas - proved reserves**<br>
-NA cu m (1 January 2017 est.)<br>
+(1 January 2017 est.) NA cu m<br>
 
 ## Communications
 
@@ -621,9 +624,13 @@ state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; a t
 **Internet country code**<br>
 .md<br>
 
+**Internet users**<br>
+_total_: 2,025,380 (2019 est.)<br>
+_percent of population_: 76% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 719,001 (2021)<br>
-_subscriptions per 100 inhabitants_: 17.82 (2020 est.)<br>
+_total_: 719,001 (2022)<br>
+_subscriptions per 100 inhabitants_: 17.82 (2022)<br>
 
 ## Transportation
 
@@ -631,7 +638,7 @@ _subscriptions per 100 inhabitants_: 17.82 (2020 est.)<br>
 _number of registered air carriers_: 6 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 21<br>
 _annual passenger traffic on registered air carriers_: 1,135,999 (2018)<br>
-_annual freight traffic on registered air carriers_: 640,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 640,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 ER<br>
@@ -655,8 +662,8 @@ _under 914 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 1,171 km (2014)<br>
-_standard gauge_: 14 km 1.435-m gauge (2014)<br>
-_broad gauge_: 1,157 km 1.520-m gauge (2014)<br>
+_standard gauge_: 14 km (2014) 1.435-m gauge<br>
+_broad gauge_: 1,157 km (2014) 1.520-m gauge<br>
 
 **Roadways**<br>
 _total_: 9,352 km (2012)<br>
@@ -664,7 +671,7 @@ _paved_: 8,835 km (2012)<br>
 _unpaved_: 517 km (2012)<br>
 
 **Waterways**<br>
-558 km (in public use on Danube, Dniester and Prut Rivers) (2011)<br>
+558 km (2011) (in public use on Danube, Dniester and Prut Rivers)<br>
 
 **Merchant marine**<br>
 _total_: 147<br>
@@ -676,11 +683,11 @@ _by type_: bulk carrier 5, container ship 5, general cargo 97, oil tanker 7, oth
 National Army: Land Forces (Fortele Terestre ale Republicii Moldova, FTRM); Air Forces (Forţele Aeriene ale Republicii Moldova, FARM); Carabinieri Troops (a component of the Ministry of Internal Affairs that also has official status as a service of the Armed Forces during wartime; it is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions) (2021)<br>
 
 **Military expenditures**<br>
+0.4% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
-0.4% of GDP (approximately $160 million) (2019 est.)<br>
-0.4% of GDP (approximately $130 million) (2018 est.)<br>
-0.4% of GDP (approximately $120 million) (2017 est.)<br>
-0.4% of GDP (approximately $110 million) (2016 est.)<br>
+0.4% of GDP (2019 est.) (approximately $160 million)<br>
+0.4% of GDP (2018 est.) (approximately $130 million)<br>
+0.4% of GDP (2017 est.) (approximately $120 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,000 active troops (2021)<br>
@@ -693,7 +700,7 @@ the Moldovan military's inventory is limited and almost entirely comprised of ol
 note - as of 2019, women made up about 20% of the military's full-time personnel<br>
 
 **Military - note**<br>
-Moldova is constitutionally neutral, but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO&rsquo;s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO&rsquo;s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support (2021)<br>
+Moldova is constitutionally neutral, but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO’s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support<br><br>the 1992 war between Moldovan forces and Transnistrian separatists backed by Russian troops ended with a cease-fire; as of 2022, Russia maintained about 1,500 troops in Transnistria, some of which served under the authority of a peacekeeping force known as a Joint Control Commission that also included Moldovan and separatist personnel; the remainder of the Russian contingent guarded a depot of Soviet-era ammunition and trained separatist paramilitaries (2021)<br>
 
 ## Transnational Issues
 
@@ -701,7 +708,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p>Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 449,605 (Ukraine) (as of 3 May 2022)<br>
+_refugees (country of origin)_: 457,066 (Ukraine) (as of 9 May 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

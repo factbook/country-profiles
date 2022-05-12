@@ -73,6 +73,9 @@ frequent sand and dust storms<br>
 **Geography - note**<br>
 strategic location along southern approaches to Strait of Hormuz, a vital transit point for world crude oil<br>
 
+**Map description**<br>
+<p>United Arab Emirates map showing major population centers as well as parts of neighboring countries and the Persian Gulf and Gulf of Oman.</p> <p> </p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -100,7 +103,7 @@ _0-14 years_: 14.45% (male 745,492/female 698,330)<br>
 _15-24 years_: 7.94% (male 431,751/female 361,804)<br>
 _25-54 years_: 68.03% (male 5,204,618/female 1,592,987)<br>
 _55-64 years_: 7.68% (male 658,892/female 108,850)<br>
-_65 years and over_: 1.9% (male 146,221/female 43,138) (2020 est.)<br>
+_65 years and over_: 1.9% (2020 est.) (male 146,221/female 43,138)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 19.2<br>
@@ -192,10 +195,10 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 0.1% (2020)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<1,000 (2020)<br>
+(2020) <1,000<br>
 
 **HIV/AIDS - deaths**<br>
-100 <100 (2020)<br>
+100 (2020) <100<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 30 March 2022, UAE has reported a total of 890,699 cases of COVID-19 or 9,005.69 cumulative cases of COVID-19 per 100,000 population with a total of 2,302 cumulative deaths or a rate of 23.27 cumulative deaths per 100,000 population; as of 29 March 2022, 98.99% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -397,8 +400,8 @@ $637.384 billion (2017 est.)<br>
 5.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$67,100 note: data are in 2017 dollars (2019 est.)<br>
-$67,000 note: data are in 2017 dollars (2018 est.)<br>
+$67,100 (2019 est.) note: data are in 2017 dollars<br>
+$67,000 (2018 est.) note: data are in 2017 dollars<br>
 $67,184 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -615,6 +618,10 @@ except for the many organizations now operating in media free zones in Abu Dhabi
 **Internet country code**<br>
 .ae<br>
 
+**Internet users**<br>
+_total_: 9,890,400 (2020 est.)<br>
+_percent of population_: 100% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 3,245,123 (2021)<br>
 _subscriptions per 100 inhabitants_: 32.81 (2021 est.)<br>
@@ -625,7 +632,7 @@ _subscriptions per 100 inhabitants_: 32.81 (2021 est.)<br>
 _number of registered air carriers_: 10 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 497<br>
 _annual passenger traffic on registered air carriers_: 95,533,069 (2018)<br>
-_annual freight traffic on registered air carriers_: 15,962,900,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 15,962,900,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 A6<br>
@@ -657,7 +664,7 @@ _under 914 m_: 6 (2021)<br>
 
 **Roadways**<br>
 _total_: 4,080 km (2008)<br>
-_paved_: 4,080 km (includes 253 km of expressways) (2008)<br>
+_paved_: 4,080 km (2008) (includes 253 km of expressways)<br>
 
 **Merchant marine**<br>
 _total_: 623<br>
@@ -676,10 +683,10 @@ note - the Presidential Guard includes a Special Operations Command<br>
 
 **Military expenditures**<br>
 5.6% of GDP (2020 est.)<br>
-5.4% of GDP (approximately $29 billion) (2019 est.)<br>
-5.5% of GDP (approximately $28.7 billion) (2018 est.)<br>
-5.2% of GDP (approximately $26.9 billion) (2017 est.)<br>
-6% of GDP (approximately $30 billion) (2016 est.)<br>
+5.4% of GDP (2019 est.) (approximately $29 billion)<br>
+5.5% of GDP (2018 est.) (approximately $28.7 billion)<br>
+5.2% of GDP (2017 est.) (approximately $26.9 billion)<br>
+6% of GDP (2016 est.) (approximately $30 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 65,000 total active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2021)<br>

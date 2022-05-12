@@ -82,6 +82,9 @@ the majority of people live in the north and west where agricultural opportuniti
 **Geography - note**<br>
 only South American country with coastlines on both the North Pacific Ocean and Caribbean Sea<br>
 
+**Map description**<br>
+<p>Colombia map showing major cities as well as parts of surrounding countries and the North Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ _0-14 years_: 23.27% (male 5,853,351/female 5,567,196)<br>
 _15-24 years_: 16.38% (male 4,098,421/female 3,939,870)<br>
 _25-54 years_: 42.04% (male 10,270,516/female 10,365,423)<br>
 _55-64 years_: 9.93% (male 2,307,705/female 2,566,173)<br>
-_65 years and over_: 8.39% (male 1,725,461/female 2,390,725) (2020 est.)<br>
+_65 years and over_: 8.39% (2020 est.) (male 1,725,461/female 2,390,725)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.4<br>
@@ -515,9 +518,9 @@ calendar year<br>
 -$13.118 billion (2018 est.)<br>
 
 **Exports**<br>
-$39.14 billion note: data are in current year dollars (2020 est.)<br>
-$52.96 billion note: data are in current year dollars (2019 est.)<br>
-$55.06 billion note: data are in current year dollars (2018 est.)<br>
+$39.14 billion (2020 est.) note: data are in current year dollars<br>
+$52.96 billion (2019 est.) note: data are in current year dollars<br>
+$55.06 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 31%, China 11%, Panama 6%, Ecuador 5% (2019)<br>
@@ -526,9 +529,9 @@ United States 31%, China 11%, Panama 6%, Ecuador 5% (2019)<br>
 crude petroleum, coal, refined petroleum, coffee, gold (2019)<br>
 
 **Imports**<br>
-$51.56 billion note: data are in current year dollars (2020 est.)<br>
-$65.83 billion note: data are in current year dollars (2019 est.)<br>
-$64.56 billion note: data are in current year dollars (2018 est.)<br>
+$51.56 billion (2020 est.) note: data are in current year dollars<br>
+$65.83 billion (2019 est.) note: data are in current year dollars<br>
+$64.56 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 27%, China 20%, Mexico 7%, Brazil 6% (2019)<br>
@@ -647,6 +650,10 @@ combination of state-owned and privately owned broadcast media provide service; 
 **Internet country code**<br>
 .co<br>
 
+**Internet users**<br>
+_total_: 35,618,019 (2020 est.)<br>
+_percent of population_: 70% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 7,764,772 (2021)<br>
 _subscriptions per 100 inhabitants_: 15.26 (2021 est.)<br>
@@ -657,7 +664,7 @@ _subscriptions per 100 inhabitants_: 15.26 (2021 est.)<br>
 _number of registered air carriers_: 12 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 157<br>
 _annual passenger traffic on registered air carriers_: 33,704,037 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,349,450,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1,349,450,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 HJ, HK<br>
@@ -688,14 +695,14 @@ _under 914 m_: 488 (2021)<br>
 
 **Railways**<br>
 _total_: 2,141 km (2015)<br>
-_standard gauge_: 150 km 1.435-m gauge (2015)<br>
-_narrow gauge_: 1,991 km 0.914-m gauge (2015)<br>
+_standard gauge_: 150 km (2015) 1.435-m gauge<br>
+_narrow gauge_: 1,991 km (2015) 0.914-m gauge<br>
 
 **Roadways**<br>
 _total_: 205,379 km (2016)<br>
 
 **Waterways**<br>
-24,725 km (18,225 km navigable; the most important waterway, the River Magdalena, of which 1,092 km is navigable, is dredged regularly to ensure safe passage of cargo vessels and container barges) (2012)<br>
+24,725 km (2012) (18,225 km navigable; the most important waterway, the River Magdalena, of which 1,092 km is navigable, is dredged regularly to ensure safe passage of cargo vessels and container barges)<br>
 
 **Merchant marine**<br>
 _total_: 122<br>
@@ -716,10 +723,10 @@ Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: 
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>
-3.1% of GDP (approximately $19.6 billion) (2019)<br>
-3.1% of GDP (approximately $18.6 billion) (2018)<br>
-3.2% of GDP (approximately $18.3 billion) (2017)<br>
-3.2% of GDP (approximately $17.8 billion) (2016)<br>
+3.1% of GDP (2019) (approximately $19.6 billion)<br>
+3.1% of GDP (2018) (approximately $18.6 billion)<br>
+3.2% of GDP (2017) (approximately $18.3 billion)<br>
+3.2% of GDP (2016) (approximately $17.8 billion)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary; approximately 260,000 total active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 14,000 Air Force); approximately 185,000 Colombian National Police (2021)<br>

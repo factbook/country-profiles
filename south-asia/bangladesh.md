@@ -79,6 +79,9 @@ droughts; cyclones; much of the country routinely inundated during the summer mo
 **Geography - note**<br>
 most of the country is situated on deltas of large rivers flowing from the Himalayas: the Ganges unites with the Jamuna (main channel of the Brahmaputra) and later joins the Meghna to eventually empty into the Bay of Bengal<br>
 
+**Map description**<br>
+<p>Bangladesh map showing major cities as well as parts of surrounding countries and the Bay of Bengal.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -104,7 +107,7 @@ _0-14 years_: 26.48% (male 21,918,651/female 21,158,574)<br>
 _15-24 years_: 18.56% (male 15,186,470/female 15,001,950)<br>
 _25-54 years_: 40.72% (male 31,694,267/female 34,535,643)<br>
 _55-64 years_: 7.41% (male 5,941,825/female 6,115,856)<br>
-_65 years and over_: 6.82% (male 5,218,206/female 5,879,411) (2020 est.)<br>
+_65 years and over_: 6.82% (2020 est.) (male 5,218,206/female 5,879,411)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47<br>
@@ -194,13 +197,13 @@ _unimproved: rural_: rural: 26.5% of population<br>
 _unimproved: total_: total: 22% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2018 est.)<br>
+(2018 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 14,000 (2018 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<1000 (2018 est.)<br>
+(2018 est.) <1000<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -515,9 +518,9 @@ _expenditures_: 33.5 billion (2017 est.)<br>
 $1.391 billion (2016 est.)<br>
 
 **Exports**<br>
-$38.78 billion note: data are in current year dollars (2020 est.)<br>
-$44.96 billion note: data are in current year dollars (2019 est.)<br>
-$44.13 billion note: data are in current year dollars (2018 est.)<br>
+$38.78 billion (2020 est.) note: data are in current year dollars<br>
+$44.96 billion (2019 est.) note: data are in current year dollars<br>
+$44.13 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 15%, Germany 14%, United Kingdom 8%, Spain 7%, France 7% (2019)<br>
@@ -526,9 +529,9 @@ United States 15%, Germany 14%, United Kingdom 8%, Spain 7%, France 7% (2019)<br
 clothing, knitwear, leather footwear (2019)<br>
 
 **Imports**<br>
-$57.26 billion note: data are in current year dollars (2020 est.)<br>
-$64.23 billion note: data are in current year dollars (2019 est.)<br>
-$65.59 billion note: data are in current year dollars (2018 est.)<br>
+$57.26 billion (2020 est.) note: data are in current year dollars<br>
+$64.23 billion (2019 est.) note: data are in current year dollars<br>
+$65.59 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 31%, India 15%, Singapore 5% (2019)<br>
@@ -629,7 +632,7 @@ _electrification - rural areas_: 77% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 1,450,321 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 170,136,762 (2020)<br>
@@ -647,8 +650,12 @@ state-owned Bangladesh Television (BTV) broadcasts throughout the country. Some 
 **Internet country code**<br>
 .bd<br>
 
+**Internet users**<br>
+_total_: 41,172,346 (2020 est.)<br>
+_percent of population_: 25% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 10,052,819 Data through June 2021. (2021)<br>
+_total_: 10,052,819 (2021) Data through June 2021.<br>
 _subscriptions per 100 inhabitants_: 6.1 (2021)<br>
 
 ## Transportation
@@ -657,7 +664,7 @@ _subscriptions per 100 inhabitants_: 6.1 (2021)<br>
 _number of registered air carriers_: 6 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 30<br>
 _annual passenger traffic on registered air carriers_: 5,984,155 (2018)<br>
-_annual freight traffic on registered air carriers_: 63.82 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 63.82 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 S2<br>
@@ -686,8 +693,8 @@ _under 914 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 2,460 km (2014)<br>
-_narrow gauge_: 1,801 km 1.000-m gauge (2014)<br>
-_broad gauge_: 659 km 1.676-m gauge (2014)<br>
+_narrow gauge_: 1,801 km (2014) 1.000-m gauge<br>
+_broad gauge_: 659 km (2014) 1.676-m gauge<br>
 
 **Roadways**<br>
 _total_: 369,105 km (2018)<br>
@@ -695,7 +702,7 @@ _paved_: 110,311 km (2018)<br>
 _unpaved_: 258,794 km (2018)<br>
 
 **Waterways**<br>
-8,370 km (includes up to 3,060 km of main cargo routes; network reduced to 5,200 km in the dry season) (2011)<br>
+8,370 km (2011) (includes up to 3,060 km of main cargo routes; network reduced to 5,200 km in the dry season)<br>
 
 **Merchant marine**<br>
 _total_: 468<br>
@@ -713,11 +720,11 @@ Bangladesh Defense Force: Bangladesh Army, Bangladesh Navy, Bangladesh Air Force
 note(s) - the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force founded in 2004 and composed of members of the police, army, navy, air force, and border guards seconded to the RAB from their respective units; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2021 est.)<br>
-1.2% of GDP (2020 est.)<br>
-1.4% of GDP (approximately $5.12 billion) (2019)<br>
-1.4% of GDP (approximately $4.57 billion) (2018)<br>
-1.3% of GDP (approximately $4.21 billion) (2017)<br>
+1.2% of GDP (2021 est.)<br>
+1.3% of GDP (2020 est.)<br>
+1.4% of GDP (2019) (approximately $5.12 billion)<br>
+1.4% of GDP (2018) (approximately $4.57 billion)<br>
+1.3% of GDP (2017) (approximately $4.21 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 165,000 total active personnel (135,000 Army; 15,000 Navy; 15,000 Air Force) (2021)<br>

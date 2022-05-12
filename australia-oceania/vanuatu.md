@@ -73,6 +73,9 @@ three-quarters of the population lives in rural areas; the urban populace lives 
 **Geography - note**<br>
 a Y-shaped chain of four main islands and 80 smaller islands; several of the islands have active volcanoes and there are several underwater volcanoes as well<br>
 
+**Map description**<br>
+<p>Vanuatu map showing the major islands that make up this archipelago in the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -96,7 +99,7 @@ _0-14 years_: 33.65% (male 51,267/female 49,111)<br>
 _15-24 years_: 19.99% (male 29,594/female 30,050)<br>
 _25-54 years_: 36.09% (male 52,529/female 55,130)<br>
 _55-64 years_: 5.89% (male 8,666/female 8,904)<br>
-_65 years and over_: 4.39% (male 6,518/female 6,564) (2020 est.)<br>
+_65 years and over_: 4.39% (2020 est.) (male 6,518/female 6,564)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 72.5<br>
@@ -455,8 +458,8 @@ calendar year<br>
 -$37 million (2016 est.)<br>
 
 **Exports**<br>
-$380 million note: data are in current year dollars (2019 est.)<br>
-$520 million note: data are in current year dollars (2018 est.)<br>
+$380 million (2019 est.) note: data are in current year dollars<br>
+$520 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Japan 33%, Thailand 13%, Mauritania 13%, South Korea 11%, China 9%, Fiji 7% (2019)<br>
@@ -465,8 +468,8 @@ Japan 33%, Thailand 13%, Mauritania 13%, South Korea 11%, China 9%, Fiji 7% (201
 fish and fish products, tug boats, perfume plants, mollusks, cocoa beans (2019)<br>
 
 **Imports**<br>
-$460 million note: data are in current year dollars (2019 est.)<br>
-$460 million note: data are in current year dollars (2018 est.)<br>
+$460 million (2019 est.) note: data are in current year dollars<br>
+$460 million (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 29%, Australia 18%, New Zealand 11%, Fiji 11%, Taiwan 5%, Thailand 5% (2019)<br>
@@ -585,9 +588,13 @@ _international_: country code - 678; landing points for the ICN1 &amp; ICN2 subm
 **Internet country code**<br>
 .vu<br>
 
+**Internet users**<br>
+_total_: 77,969 (2019 est.)<br>
+_percent of population_: 26% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 2,785 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.91 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.91 (2021) less than 1<br>
 
 ## Transportation
 
@@ -595,7 +602,7 @@ _subscriptions per 100 inhabitants_: 0.91 less than 1 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 8<br>
 _annual passenger traffic on registered air carriers_: 374,603 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.66 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1.66 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 YJ<br>

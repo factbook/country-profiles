@@ -70,6 +70,9 @@ hurricanes and tropical storms (July to October)<br>
 **Geography - note**<br>
 strong ties to nearby US Virgin Islands and Puerto Rico<br>
 
+**Map description**<br>
+<p>British Virgin Islands map showing the many islands that make up this UK territory in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -93,7 +96,7 @@ _0-14 years_: 16.48% (male 3,088/female 3,156)<br>
 _15-24 years_: 12.22% (male 2,212/female 2,418)<br>
 _25-54 years_: 47.84% (male 8,476/female 9,652)<br>
 _55-64 years_: 12.83% (male 2,242/female 2,521)<br>
-_65 years and over_: 10.63% (male 1,921/female 2,105) (2021 est.)<br>
+_65 years and over_: 10.63% (2021 est.) (male 1,921/female 2,105)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -258,10 +261,10 @@ see United Kingdom<br>
 
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor John J. RANKIN (since 29 January 2021)<br>
-_head of government_: Acting Premier Dr. Natalio WHEATLEY (since 28 April 2022)<br>
+_head of government_: Premier Dr. Natalio WHEATLEY (since 5 May 2022)<br>
 _cabinet_: Executive Council appointed by the governor from members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
-<strong>note -</strong> Premier Andrew FAHIE was arrested on drug trafficking and money laundering charges on 28 April 2022 and removed as premier<br>
+<strong>note -</strong> on 5 May 2022, Premier Andrew FAHIE removed by a no confidence vote in House of Assembly following his arrest on drug trafficking and money laundering charges on 28 April 2022; Premier Dr. Natalio WHEATLEY sworn in as premier on 5 May 2022<br>
 
 **Legislative branch**<br>
 _description_: unicameral House of Assembly (15 seats; 13 members - 9 in single-seat constituencies and 4 at-large seats directly elected by simple majority vote and 2 ex-officio members - the attorney general and the speaker - chosen from outside the House; members serve 4-year terms)<br>
@@ -387,7 +390,7 @@ Malta 30%, Seychelles 29%, Switzerland 14% (2019)<br>
 recreational boats, aircraft, diamonds, paintings, precious stones (2019)<br>
 
 **Imports**<br>
-$300 million NA (2017 est.)<br>
+$300 million (2017 est.) NA<br>
 $210 million (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -494,6 +497,10 @@ _international_: country code - 1-284; landing points for PCCS, ECFS, CBUS, Deep
 
 **Internet country code**<br>
 .vg<br>
+
+**Internet users**<br>
+_total_: 23,585 (2020 est.)<br>
+_percent of population_: 78% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,738 (2021)<br>

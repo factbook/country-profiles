@@ -65,6 +65,9 @@ _other_: 100% (2018 est.)<br>
 **Geography - note**<br>
 barren volcanic spoon-shaped island with some moss and grass flora; island consists of two parts: a larger northeast Nord-Jan (the spoon "bowl") and the smaller Sor-Jan (the "handle"), linked by a 2.5 km-wide isthmus (the "stem") with two large lakes, Sorlaguna (South Lagoon) and Nordlaguna (North Lagoon)<br>
 
+**Map description**<br>
+<p>Jan Mayen map showing the island – a territory of Norway – situated in the Greenland Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>

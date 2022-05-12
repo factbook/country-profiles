@@ -83,6 +83,9 @@ dust storms; sandstorms; floods<br>
 **Geography - note**<br>
 strategic location on Shatt al Arab waterway and at the head of the Persian Gulf<br>
 
+**Map description**<br>
+<p>Iraq map showing major cities as well as parts of surrounding countries and the Persian Gulf.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ _0-14 years_: 37.02% (male 7,349,868/female 7,041,405)<br>
 _15-24 years_: 19.83% (male 3,918,433/female 3,788,157)<br>
 _25-54 years_: 35.59% (male 6,919,569/female 6,914,856)<br>
 _55-64 years_: 4.23% (male 805,397/female 839,137)<br>
-_65 years and over_: 3.33% (male 576,593/female 719,240) (2020 est.)<br>
+_65 years and over_: 3.33% (2020 est.) (male 576,593/female 719,240)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 69.9<br>
@@ -509,9 +512,9 @@ $4.344 billion (2017 est.)<br>
 -$13.38 billion (2016 est.)<br>
 
 **Exports**<br>
-$50.61 billion note: data are in current year dollars (2020 est.)<br>
-$88.9 billion note: data are in current year dollars (2019 est.)<br>
-$91.93 billion note: data are in current year dollars (2018 est.)<br>
+$50.61 billion (2020 est.) note: data are in current year dollars<br>
+$88.9 billion (2019 est.) note: data are in current year dollars<br>
+$91.93 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 26%, India 24%, South Korea 9%, United States 8%, Italy 6%, Greece 6% (2019)<br>
@@ -520,9 +523,9 @@ China 26%, India 24%, South Korea 9%, United States 8%, Italy 6%, Greece 6% (201
 crude petroleum, refined petroleum, gold, dates, petroleum coke (2019)<br>
 
 **Imports**<br>
-$54.72 billion note: data are in current year dollars (2020 est.)<br>
-$72.28 billion note: data are in current year dollars (2019 est.)<br>
-$56.88 billion note: data are in current year dollars (2018 est.)<br>
+$54.72 billion (2020 est.) note: data are in current year dollars<br>
+$72.28 billion (2019 est.) note: data are in current year dollars<br>
+$56.88 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 28%, Turkey 21%, China 19% (2019)<br>
@@ -639,6 +642,10 @@ the number of private radio and TV stations has increased rapidly since 2003; go
 **Internet country code**<br>
 .iq<br>
 
+**Internet users**<br>
+_total_: 24,133,502 (2020 est.)<br>
+_percent of population_: 60% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 6,254,099 (2021)<br>
 _subscriptions per 100 inhabitants_: 15.55 (2021)<br>
@@ -649,7 +656,7 @@ _subscriptions per 100 inhabitants_: 15.55 (2021)<br>
 _number of registered air carriers_: 4 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 34<br>
 _annual passenger traffic on registered air carriers_: 2,075,065 (2018)<br>
-_annual freight traffic on registered air carriers_: 16.2 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 16.2 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 YI<br>
@@ -681,14 +688,14 @@ _under 914 m_: 6 (2021)<br>
 
 **Railways**<br>
 _total_: 2,272 km (2014)<br>
-_standard gauge_: 2,272 km 1.435-m gauge (2014)<br>
+_standard gauge_: 2,272 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>
 _total_: 59,623 km (2012)<br>
-_paved_: 59,623 km (includes Kurdistan region) (2012)<br>
+_paved_: 59,623 km (2012) (includes Kurdistan region)<br>
 
 **Waterways**<br>
-5,279 km (the Euphrates River (2,815 km), Tigris River (1,899 km), and Third River (565 km) are the principal waterways) (2012)<br>
+5,279 km (2012) (the Euphrates River (2,815 km), Tigris River (1,899 km), and Third River (565 km) are the principal waterways)<br>
 
 **Merchant marine**<br>
 _total_: 68<br>
@@ -700,17 +707,17 @@ _river port(s)_: Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az 
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division (Green Zone protection)<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; a Special Forces Division aka the "Golden Division"), Prime Minister's Special Forces Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police<br><br>Ministry of Oil: Energy Police Directorate<br><br>Kurdistan Regional Government Ministry of Peshmerga: Regional Guard Brigades, Unit (or Division) 70 Forces, Unit (or Division) 80 Forces, special operations/counter-terrorism forces (Counter Terrorism Group, CTG and Counter Terrorism Directorate, CTD); note - Unit 70 and the CTG are associated with the Patriotic Union of Kurdistan (PUK) political party, while Unit 80 and the CTD are associated with the Kurdistan Democratic Party (KDP);  Kurdistan Regional Government Ministry of Interior: Zeravani and Emergency Response Forces (paramilitary internal security forces)<br><br>Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of approximately 60 militias of widely varied sizes and political interests (2021)<br>
+Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division (Green Zone protection)<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; a Special Forces Division aka the "Golden Division"), Prime Minister's Special Forces Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police<br><br>Ministry of Oil: Energy Police Directorate<br><br>Kurdistan Regional Government Ministry of Peshmerga: Regional Guard Brigades, Unit (or Division) 70 Forces, Unit (or Division) 80 Forces, special operations/counter-terrorism forces (Counter Terrorism Group, CTG and Counter Terrorism Directorate, CTD); note - Unit 70 and the CTG are associated with the Patriotic Union of Kurdistan (PUK) political party, while Unit 80 and the CTD are associated with the Kurdistan Democratic Party (KDP); Kurdistan Regional Government Ministry of Interior: Zeravani and Emergency Response Forces (paramilitary internal security forces)<br><br>Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of approximately 60 militias of widely varied sizes and political interests (2021)<br>
 
 **Military expenditures**<br>
 4.1% of GDP (2020 est.)<br>
-3.8% of GDP (approximately $14.6 billion) (2019 est.)<br>
-4.5% of GDP (approximately $16 billion) (2018 est.)<br>
-6% of GDP (approximately $20.4 billion) (2017 est.)<br>
-5.6% of GDP (approximately $18.5 billion) (2016 est.)<br>
+3.8% of GDP (2019 est.) (approximately $14.6 billion)<br>
+4.5% of GDP (2018 est.) (approximately $16 billion)<br>
+6% of GDP (2017 est.) (approximately $20.4 billion)<br>
+5.6% of GDP (2016 est.) (approximately $18.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces (10,000 Iraqi Counterterrorism Service; 10,000 Presidential Brigades; 5,000 Prime Minister&rsquo;s Special Forces Division); Ministry of Peshmerga: approximately 150,000-plus (35,000 Regional Guard Brigades; 50,000 Unit 70 Forces; 70,000 Unit 80 Forces); estimated 100-160,000 Popular Mobilization Forces (2021)<br>
+information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces (10,000 Iraqi Counterterrorism Service; 10,000 Presidential Brigades; 5,000 Prime Minister&rsquo;s Special Forces Division); Ministry of Peshmerga: approximately 150,000-plus (45-50,000 Regional Guard Brigades; 40-45,000 Unit 70 Forces; 65-70,000 Unit 80 Forces); estimated 100-160,000 Popular Mobilization Forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Iraqi military inventory is comprised of a mix of equipment from a wide variety of sources, including Europe, South Africa, South Korea, Russia, and the US; since 2010, Russia and the US are the leading suppliers of military hardware to Iraq (2021)<br>

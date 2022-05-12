@@ -75,6 +75,9 @@ ice floes in the surrounding waters, especially in the Gulf of Bothnia, can inte
 **Geography - note**<br>
 strategic location along Danish Straits linking Baltic and North Seas; Sweden has almost 100,000 lakes, the largest of which, Vanern, is the third largest in Europe<br>
 
+**Map description**<br>
+<p>Sweden map showing major cities as well as parts of surrounding countries and the Baltic Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 17.71% (male 928,413/female 878,028)<br>
 _15-24 years_: 10.8% (male 569,082/female 532,492)<br>
 _25-54 years_: 39.01% (male 2,016,991/female 1,962,617)<br>
 _55-64 years_: 11.9% (male 610,521/female 603,795)<br>
-_65 years and over_: 20.59% (male 974,410/female 1,126,142) (2020 est.)<br>
+_65 years and over_: 20.59% (2020 est.) (male 974,410/female 1,126,142)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 61.2<br>
@@ -337,7 +340,7 @@ _judge selection and term of office_: Supreme Court and Supreme Administrative C
 _subordinate courts_: first instance, appellate, general, and administrative courts; specialized courts that handle cases such as land and environment, immigration, labor, markets, and patents<br>
 
 **Political parties and leaders**<br>
-Center Party (Centerpartiet) or C [Annie LOOF]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Marta STEVENI and Per BOLUND]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Liberal Party (Liberalerna) or L [Nyamko SABUNI]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or SAP [Magdalena ANDERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>
+Center Party (Centerpartiet) or C [Annie LOOF]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Marta STEVENI and Per BOLUND]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Liberal Party (Liberalerna) or L [Johan PEHRSON]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or SAP [Magdalena ANDERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNRWA, UN Security Council (temporary), UNSOM, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -481,9 +484,9 @@ $22.339 billion (2019 est.)<br>
 $13.902 billion (2018 est.)<br>
 
 **Exports**<br>
-$240.08 billion note: data are in current year dollars (2020 est.)<br>
-$254.53 billion note: data are in current year dollars (2019 est.)<br>
-$254.25 billion note: data are in current year dollars (2018 est.)<br>
+$240.08 billion (2020 est.) note: data are in current year dollars<br>
+$254.53 billion (2019 est.) note: data are in current year dollars<br>
+$254.25 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 10%, Norway 9%, United States 8%, Denmark 7%, Finland 6%, United Kingdom 5%, Netherlands 5%, China 5% (2019)<br>
@@ -492,9 +495,9 @@ Germany 10%, Norway 9%, United States 8%, Denmark 7%, Finland 6%, United Kingdom
 cars and vehicle parts, packaged medicines, refined petroleum, broadcasting equipment, lumber (2019)<br>
 
 **Imports**<br>
-$217.68 billion note: data are in current year dollars (2020 est.)<br>
-$232.81 billion note: data are in current year dollars (2019 est.)<br>
-$241.53 billion note: data are in current year dollars (2018 est.)<br>
+$217.68 billion (2020 est.) note: data are in current year dollars<br>
+$232.81 billion (2019 est.) note: data are in current year dollars<br>
+$241.53 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 18%, Netherlands 9%, Denmark 7%, Norway 7%, China 6%, Finland 5%, Belgium 5%, Poland 5% (2019)<br>
@@ -611,6 +614,10 @@ publicly owned TV broadcaster operates 2 terrestrial networks plus regional stat
 **Internet country code**<br>
 .se<br>
 
+**Internet users**<br>
+_total_: 9,835,769 (2020 est.)<br>
+_percent of population_: 95% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 4,179,574 (2021)<br>
 _subscriptions per 100 inhabitants_: 41.38 (2021)<br>
@@ -648,11 +655,11 @@ _under 914 m_: 77 (2021)<br>
 
 **Railways**<br>
 _total_: 14,127 km (2016)<br>
-_standard gauge_: 14,062 km 1.435-m gauge (12,322 km electrified) (2016)<br>
-_narrow gauge_: 65 km 0.891-m gauge (65 km electrified) (2016)<br>
+_standard gauge_: 14,062 km (2016) 1.435-m gauge (12,322 km electrified)<br>
+_narrow gauge_: 65 km (2016) 0.891-m gauge (65 km electrified)<br>
 
 **Roadways**<br>
-_total_: 573,134 km (includes 2,050 km of expressways) (2016)<br>
+_total_: 573,134 km (2016) (includes 2,050 km of expressways)<br>
 _paved_: 140,100 km (2016)<br>
 _unpaved_: 433,034 km (2016)<br>
 <strong>note:</strong> includes 98,500 km of state roads, 433,034 km of private roads, and 41,600 km of municipal roads<br>
@@ -674,11 +681,11 @@ _LNG terminal(s) (import)_: Brunnsviksholme, Lysekil<br>
 Swedish Armed Forces (Forsvarsmakten): Army, Navy, Air Force; Home Guard (2021)<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2021 est.)<br>
+1.3% of GDP (2021 est.)<br>
 1.2% of GDP (2020)<br>
-1.1% of GDP (approximately $6.78 billion) (2019)<br>
-1% of GDP (approximately $6.26 billion) (2018)<br>
-1% of GDP (approximately $6.04 billion) (2017)<br>
+1.1% of GDP (2019) (approximately $6.78 billion)<br>
+1% of GDP (2018) (approximately $6.26 billion)<br>
+1% of GDP (2017) (approximately $6.04 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 16,000 active duty troops (7,000 Army; 3,000 Navy; 3,000 Air Force; 3,000 other, including staff, logistics, support, medical, cyber, intelligence, etc); approximately 22,000 Home Guard (2021)<br>

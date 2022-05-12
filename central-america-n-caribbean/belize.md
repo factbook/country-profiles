@@ -71,6 +71,9 @@ frequent, devastating hurricanes (June to November) and coastal flooding (especi
 **Geography - note**<br>
 only country in Central America without a coastline on the North Pacific Ocean<br>
 
+**Map description**<br>
+<p>Belize map showing major cities as well as parts of surrounding countries and the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -99,7 +102,7 @@ _0-14 years_: 32.57% (male 66,454/female 63,700)<br>
 _15-24 years_: 19% (male 39,238/female 36,683)<br>
 _25-54 years_: 37.72% (male 73,440/female 77,300)<br>
 _55-64 years_: 6.18% (male 12,235/female 12,444)<br>
-_65 years and over_: 4.53% (male 8,781/female 9,323) (2020 est.)<br>
+_65 years and over_: 4.53% (2020 est.) (male 8,781/female 9,323)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52<br>
@@ -194,7 +197,7 @@ _unimproved: total_: total: 2.7% of population (2020 est.)<br>
 3,800 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2020 est.)<br>
+(2020 est.) <200<br>
 
 **Obesity - adult prevalence rate**<br>
 24.1% (2016)<br>
@@ -469,9 +472,9 @@ _expenditures_: 572 million (2017 est.)<br>
 -$163 million (2016 est.)<br>
 
 **Exports**<br>
-$710 million note: data are in current year dollars (2020 est.)<br>
-$1.1 billion note: data are in current year dollars (2019 est.)<br>
-$1.07 billion note: data are in current year dollars (2018 est.)<br>
+$710 million (2020 est.) note: data are in current year dollars<br>
+$1.1 billion (2019 est.) note: data are in current year dollars<br>
+$1.07 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United Kingdom 27%, United States 24%, Spain 6%, Jamaica 5%, Ireland 5% (2019)<br>
@@ -480,9 +483,9 @@ United Kingdom 27%, United States 24%, Spain 6%, Jamaica 5%, Ireland 5% (2019)<b
 raw sugar, bananas, fruit juice, fish products, crude petroleum (2019)<br>
 
 **Imports**<br>
-$900 million note: data are in current year dollars (2020 est.)<br>
-$1.2 billion note: data are in current year dollars (2019 est.)<br>
-$1.16 billion note: data are in current year dollars (2018 est.)<br>
+$900 million (2020 est.) note: data are in current year dollars<br>
+$1.2 billion (2019 est.) note: data are in current year dollars<br>
+$1.16 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 36%, China 13%, Mexico 12%, Guatemala 10% (2019)<br>
@@ -601,6 +604,10 @@ _international_: country code - 501; landing points for the&nbsp;ARCOS and SEUL&
 **Internet country code**<br>
 .bz<br>
 
+**Internet users**<br>
+_total_: 202,787 (2020 est.)<br>
+_percent of population_: 51% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 36,000 (2021)<br>
 _subscriptions per 100 inhabitants_: 9.05 (2021)<br>
@@ -611,7 +618,7 @@ _subscriptions per 100 inhabitants_: 9.05 (2021)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 28<br>
 _annual passenger traffic on registered air carriers_: 1,297,533 (2018)<br>
-_annual freight traffic on registered air carriers_: 3.78 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 3.78 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 V3<br>
@@ -637,7 +644,7 @@ _paved_: 601 km (2017)<br>
 _unpaved_: 2,680 km (2017)<br>
 
 **Waterways**<br>
-825 km (navigable only by small craft) (2011)<br>
+825 km (2011) (navigable only by small craft)<br>
 
 **Merchant marine**<br>
 _total_: 813<br>
@@ -653,10 +660,10 @@ Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (independent from
 
 **Military expenditures**<br>
 1.5% of GDP (2020 est.)<br>
-1.4% of GDP (approximately $35 million) (2019 est.)<br>
-1.4% of GDP (approximately $35 million) (2018 est.)<br>
-1.4% of GDP (approximately $30 million) (2017 est.)<br>
-1.3% of GDP (approximately $30 million) (2016 est.)<br>
+1.4% of GDP (2019 est.) (approximately $35 million)<br>
+1.4% of GDP (2018 est.) (approximately $35 million)<br>
+1.4% of GDP (2017 est.) (approximately $30 million)<br>
+1.3% of GDP (2016 est.) (approximately $30 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Belize Defense Force (BDF) has approximately 1,300 active personnel; approximately 300 Belize Coast Guard (2021)<br>

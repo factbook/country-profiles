@@ -73,6 +73,9 @@ high seismic risks<br>
 **Geography - note**<br>
 landlocked; major transportation corridor from Western and Central Europe to Aegean Sea and Southern Europe to Western Europe<br>
 
+**Map description**<br>
+<p>North Macedonia map showing major population centers as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -98,7 +101,7 @@ _0-14 years_: 16.16% (male 177,553/female 165,992)<br>
 _15-24 years_: 12.65% (male 139,250/female 129,770)<br>
 _25-54 years_: 44.47% (male 480,191/female 465,145)<br>
 _55-64 years_: 12.55% (male 131,380/female 135,407)<br>
-_65 years and over_: 14.17% (male 131,674/female 169,609) (2020 est.)<br>
+_65 years and over_: 14.17% (2020 est.) (male 131,674/female 169,609)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.5<br>
@@ -190,10 +193,10 @@ _unimproved: rural_: rural: 2% of population<br>
 _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2018 est.)<br>
+(2018 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<500 (2018 est.)<br>
+(2018 est.) <500<br>
 
 **HIV/AIDS - deaths**<br>
 300 (2018 est.)<br>
@@ -487,9 +490,9 @@ calendar year<br>
 -$293 million (2016 est.)<br>
 
 **Exports**<br>
-$7.18 billion note: data are in current year dollars (2020 est.)<br>
-$7.78 billion note: data are in current year dollars (2019 est.)<br>
-$7.61 billion note: data are in current year dollars (2018 est.)<br>
+$7.18 billion (2020 est.) note: data are in current year dollars<br>
+$7.78 billion (2019 est.) note: data are in current year dollars<br>
+$7.61 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 45%, Serbia 8%, Bulgaria 5% (2019)<br>
@@ -498,9 +501,9 @@ Germany 45%, Serbia 8%, Bulgaria 5% (2019)<br>
 support catalysts, centrifuges, insulated wiring, vehicle parts, buses, seats (2019)<br>
 
 **Imports**<br>
-$8.76 billion note: data are in current year dollars (2020 est.)<br>
-$9.6 billion note: data are in current year dollars (2019 est.)<br>
-$9.23 billion note: data are in current year dollars (2018 est.)<br>
+$8.76 billion (2020 est.) note: data are in current year dollars<br>
+$9.6 billion (2019 est.) note: data are in current year dollars<br>
+$9.23 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United Kingdom 14%, Germany 14%, Greece 8%, Serbia 8% (2019)<br>
@@ -617,6 +620,10 @@ public service TV broadcaster Macedonian Radio and Television operates 3 nationa
 **Internet country code**<br>
 .mk<br>
 
+**Internet users**<br>
+_total_: 1,678,750 (2020 est.)<br>
+_percent of population_: 81% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 475,569 (2021)<br>
 _subscriptions per 100 inhabitants_: 22.83 (2021 est.)<br>
@@ -644,10 +651,10 @@ _under 914 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 925 km (2017)<br>
-_standard gauge_: 925 km 1.435-m gauge (313 km electrified) (2017)<br>
+_standard gauge_: 925 km (2017) 1.435-m gauge (313 km electrified)<br>
 
 **Roadways**<br>
-_total_: 14,182 km (includes 290 km of expressways) (2017)<br>
+_total_: 14,182 km (2017) (includes 290 km of expressways)<br>
 _paved_: 9,633 km (2017)<br>
 _unpaved_: 4,549 km (2017)<br>
 
@@ -660,12 +667,12 @@ note - the Operations Command includes air, ground, special operations, support,
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
 1.3% of GDP (2020)<br>
-1.2% of GDP (approximately $310 million) (2019)<br>
-0.9% of GDP (approximately $280 million) (2018)<br>
-0.9% of GDP (approximately $250 million) (2017)<br>
+1.2% of GDP (2019) (approximately $310 million)<br>
+0.9% of GDP (2018) (approximately $280 million)<br>
+0.9% of GDP (2017) (approximately $250 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Army of the Republic of North Macedonia (ARSM) has approximately 7,500 active duty personnel (2021)<br>
+the Army of the Republic of North Macedonia (ARSM) has approximately 6,000 active duty personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of North Macedonia's Army consists mostly of Soviet-era equipment; since 2010, it has received small amounts of equipment from Ireland and Turkey (2021)<br>

@@ -78,6 +78,9 @@ none<br>
 **Geography - note**<br>
 a small population and oil and mineral reserves have helped Gabon become one of Africa's wealthier countries; in general, these circumstances have allowed the country to maintain and conserve its pristine rain forest and rich biodiversity<br>
 
+**Map description**<br>
+<p>Gabon map showing major cities and towns as well as parts of surrounding countries and the Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -89,7 +92,7 @@ _noun_: Gabonese (singular and plural)<br>
 _adjective_: Gabonese<br>
 
 **Ethnic groups**<br>
-Gabonese-born 80.1% (includes Fang 23.2%, Shira-Punu/Vili 18.9%, Nzabi-Duma 11.3%, Mbede-Teke 6.9%, Myene 5%, Kota-Kele 4.9%, Okande-Tsogo 2.1%, Pygmy .3%, other 7.5%), Cameroonian 4.6%, Malian 2.4%, Beninese 2.1%, acquired Gabonese nationality 1.6%, Togolese 1.6%, Senegalese 1.1%, Congolese (Brazzaville) 1%, other 5.5% (includes Congolese (Kinshasa), Equatorial Guinean, Nigerian) (2012)<br>
+Gabonese-born 80.1% (includes Fang 23.2%, Shira-Punu/Vili 18.9%, Nzabi-Duma 11.3%, Mbede-Teke 6.9%, Myene 5%, Kota-Kele 4.9%, Okande-Tsogo 2.1%, Pygmy .3%, other 7.5%), Cameroonian 4.6%, Malian 2.4%, Beninese 2.1%, acquired Gabonese nationality 1.6%, Togolese 1.6%, Senegalese 1.1%, Congolese (Brazzaville) 1%, other 5.5% (includes Congolese (Kinshasa), Equatorial Guinean, Nigerian) (2012 est.)<br>
 
 **Languages**<br>
 French (official), Fang, Myene, Nzebi, Bapounou/Eschira, Bandjabi<br>
@@ -105,7 +108,7 @@ _0-14 years_: 36.45% (male 413,883/female 399,374)<br>
 _15-24 years_: 21.9% (male 254,749/female 233,770)<br>
 _25-54 years_: 32.48% (male 386,903/female 337,776)<br>
 _55-64 years_: 5.19% (male 58,861/female 56,843)<br>
-_65 years and over_: 3.98% (male 44,368/female 44,381) (2020 est.)<br>
+_65 years and over_: 3.98% (2020 est.) (male 44,368/female 44,381)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 68.9<br>
@@ -204,7 +207,7 @@ _unimproved: total_: total: 21.3% of population (2020 est.)<br>
 46,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<1000 (2020 est.)<br>
+(2020 est.) <1000<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -619,6 +622,10 @@ state owns and operates 2 TV stations and 2 radio broadcast stations; a few priv
 **Internet country code**<br>
 .ga<br>
 
+**Internet users**<br>
+_total_: 1,379,951 (2020 est.)<br>
+_percent of population_: 62% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 44,607 (2021)<br>
 _subscriptions per 100 inhabitants_: 2 (2021)<br>
@@ -654,7 +661,7 @@ _under 914 m_: 14 (2021)<br>
 
 **Railways**<br>
 _total_: 649 km (2014)<br>
-_standard gauge_: 649 km 1.435-m gauge (2014)<br>
+_standard gauge_: 649 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>
 _total_: 14,300 km (2001)<br>
@@ -662,7 +669,7 @@ _paved_: 900 km (2001)<br>
 _unpaved_: 13,400 km (2001)<br>
 
 **Waterways**<br>
-1,600 km (310 km on Ogooue River) (2010)<br>
+1,600 km (2010) (310 km on Ogooue River)<br>
 
 **Merchant marine**<br>
 _total_: 62<br>
@@ -679,10 +686,10 @@ Gabonese Defense Forces (Forces de Defense Gabonaise): Land Forces (Army), Navy,
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-1.6% of GDP (approximately $450 million) (2019 est.)<br>
-1.6% of GDP (approximately $440 million) (2018 est.)<br>
-1.8% of GDP (approximately $480 million) (2017 est.)<br>
-1.5% of GDP (approximately $400 million) (2016 est.)<br>
+1.6% of GDP (2019 est.) (approximately $450 million)<br>
+1.6% of GDP (2018 est.) (approximately $440 million)<br>
+1.8% of GDP (2017 est.) (approximately $480 million)<br>
+1.5% of GDP (2016 est.) (approximately $400 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2021)<br>

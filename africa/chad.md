@@ -79,6 +79,9 @@ hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plague
 **Geography - note**<br>
 <p><strong>note 1:</strong> Chad is the largest of Africa's 16 landlocked countries</p> <p><strong>note 2:</strong> not long ago - geologically speaking - what is today the Sahara was green savannah teeming with wildlife; during the African Humid Period, roughly 11,000 to 5,000 years ago, a vibrant animal community, including elephants, giraffes, hippos, and antelope lived there; the last remnant of the "Green Sahara" exists in the Lakes of Ounianga (oo-nee-ahn-ga) in northern Chad, a series of 18 interconnected freshwater, saline, and hypersaline lakes now protected as a World Heritage site</p> <p><strong>note 3:</strong> Lake Chad, the most significant water body in the Sahel, is a remnant of a former inland sea, paleolake Mega-Chad; at its greatest extent, sometime before 5000 B.C., Lake Mega-Chad was the largest of four Saharan paleolakes that existed during the African Humid Period; it covered an area of about 400,000 sq km (150,000 sq mi), roughly the size of today's Caspian Sea</p><br>
 
+**Map description**<br>
+<p>Chad map showing major cities and towns as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -106,7 +109,7 @@ _0-14 years_: 47.43% (male 4,050,505/female 3,954,413)<br>
 _15-24 years_: 19.77% (male 1,676,495/female 1,660,417)<br>
 _25-54 years_: 27.14% (male 2,208,181/female 2,371,490)<br>
 _55-64 years_: 3.24% (male 239,634/female 306,477)<br>
-_65 years and over_: 2.43% (male 176,658/female 233,087) (2020 est.)<br>
+_65 years and over_: 2.43% (2020 est.) (male 176,658/female 233,087)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 96<br>
@@ -288,7 +291,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Chad is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to civil insecurity - about 1.78 million people were projected to be in &ldquo;Crisis&rdquo; and above in the June‑August 2021 period due to persistent insecurity in the Lac and Tibesti regions, which continues to disrupt livelihood activities and to cause population displacements; about 336,124 people were displaced due to insecurity in Lake Chad Region; COVID‑19 pandemic containment measures continue to slow down the national economy, reducing employment opportunities; this downturn has contributed to a weakening of the purchasing power of poor vulnerable households, limiting their access to food (2021)<br>
+_widespread lack of access_: due to civil insecurity - according to the latest analysis, about 965 000 people were estimated to be in "Crisis" and above, between October and December 2021 due to persisting insecurity in Lac and Tibesti regions that disrupted livelihood activities and caused population displacements; domestic cereal production was estimated at a below-average level in 2021 due to adverse weather and the civil conflict; as a result, between June and August 2022, 1.74 million people are projected to face severe food insecurity (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,358,851 tons (2010 est.)<br>
@@ -623,7 +626,7 @@ _electrification - rural areas_: 1% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 5,340 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 8,687,151 (2020)<br>
@@ -640,6 +643,10 @@ _international_: country code - 235; satellite earth station - 1 Intelsat (Atlan
 
 **Internet country code**<br>
 .td<br>
+
+**Internet users**<br>
+_total_: 1,642,586 (2020 est.)<br>
+_percent of population_: 10% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 0 (2021)<br>
@@ -680,7 +687,7 @@ _total_: 40,000 km (2018)<br>
 <strong>note:</strong> consists of 25,000 km of national and regional roads and 15,000 km of local roads; 206 km of urban roads are paved<br>
 
 **Waterways**<br>
-(Chari and Legone Rivers are navigable only in wet season) (2012)<br>
+(2012) (Chari and Legone Rivers are navigable only in wet season)<br>
 
 ## Military and Security
 
@@ -689,11 +696,11 @@ Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de
 note(s) - the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-size unit with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT)<br>
 
 **Military expenditures**<br>
-2.9% of GDP (2020 est.)<br>
-2% of GDP (approximately $320 million) (2019 est.)<br>
-2% of GDP (approximately $310 million) (2018 est.)<br>
-2% of GDP (approximately $310 million) (2017 est.)<br>
-2.5% of GDP (approximately $380 million) (2016 est.)<br>
+2.5% of GDP (2020 est.)<br>
+2% of GDP (2019 est.) (approximately $320 million)<br>
+2% of GDP (2018 est.) (approximately $310 million)<br>
+2% of GDP (2017 est.) (approximately $310 million)<br>
+2.5% of GDP (2016 est.) (approximately $380 million)<br>
 
 **Military and security service personnel strengths**<br>
 limited and varied information; approximately 30,000 active personnel (20-25,000 Ground Forces; 300 Air Force; 5-10,000 General Direction of the Security Services of State Institutions); approximately 5,000 National Gendarmerie; approximately 3,000 National Nomadic Guard of Chad (2021)<br>
@@ -723,7 +730,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 384,979 (Sudan), 122,362 (Central African Republic), 42,746 (Cameroon), 19,658 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 384,979 (Sudan), 122,421 (Central African Republic), 42,746 (Cameroon), 19,724 (Nigeria) (2022)<br>
 _IDPs_: 406,573 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>

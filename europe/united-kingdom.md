@@ -73,10 +73,13 @@ winter windstorms; floods<br>
 **Geography - note**<br>
 lies near vital North Atlantic sea lanes; only 35 km from France and linked by tunnel under the English Channel (the Channel Tunnel or Chunnel); because of heavily indented coastline, no location is more than 125 km from tidal waters<br>
 
+**Map description**<br>
+<p>United Kingdom map showing the British Isles (including Northern Ireland) situated in the North Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
-67,791,400 United Kingdom (2022 est.)<br>
+67,791,400 (2022 est.) United Kingdom<br>
 <strong>constituent countries by percentage of total population: </strong><br>England 84.3%<br>Scotland 8.1%<br>Wales 4.7%<br>Northern Ireland 2.8%<br>
 
 **Nationality**<br>
@@ -98,7 +101,7 @@ _0-14 years_: 17.63% (male 5,943,435/female 5,651,780)<br>
 _15-24 years_: 11.49% (male 3,860,435/female 3,692,398)<br>
 _25-54 years_: 39.67% (male 13,339,965/female 12,747,598)<br>
 _55-64 years_: 12.73% (male 4,139,378/female 4,234,701)<br>
-_65 years and over_: 18.48% (male 5,470,116/female 6,681,311) (2020 est.)<br>
+_65 years and over_: 18.48% (2020 est.) (male 5,470,116/female 6,681,311)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.1<br>
@@ -492,9 +495,9 @@ _expenditures_: 1.079 trillion (2017 est.)<br>
 -$104.927 billion (2018 est.)<br>
 
 **Exports**<br>
-$741.95 billion note: data are in current year dollars (2020 est.)<br>
-$879.92 billion note: data are in current year dollars (2019 est.)<br>
-$882.65 billion note: data are in current year dollars (2018 est.)<br>
+$741.95 billion (2020 est.) note: data are in current year dollars<br>
+$879.92 billion (2019 est.) note: data are in current year dollars<br>
+$882.65 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 15%, Germany 10%, China 7%, Netherlands 7%, France 7%, Ireland 6% (2019)<br>
@@ -503,9 +506,9 @@ United States 15%, Germany 10%, China 7%, Netherlands 7%, France 7%, Ireland 6% 
 cars, gas turbines, gold, crude petroleum, packaged medicines (2019)<br>
 
 **Imports**<br>
-$752.77 billion note: data are in current year dollars (2020 est.)<br>
-$914.96 billion note: data are in current year dollars (2019 est.)<br>
-$916.4 billion note: data are in current year dollars (2018 est.)<br>
+$752.77 billion (2020 est.) note: data are in current year dollars<br>
+$914.96 billion (2019 est.) note: data are in current year dollars<br>
+$916.4 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 13%, China 10%, United States 8%, Netherlands 7%, France 6%, Belgium 5% (2019)<br>
@@ -622,6 +625,10 @@ public service broadcaster, British Broadcasting Corporation (BBC), is the large
 **Internet country code**<br>
 .uk<br>
 
+**Internet users**<br>
+_total_: 63,854,528 (2020 est.)<br>
+_percent of population_: 95% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 27,330,297 (2021)<br>
 _subscriptions per 100 inhabitants_: 40.26 (2021)<br>
@@ -635,7 +642,7 @@ _subscriptions per 100 inhabitants_: 40.26 (2021)<br>
 _number of registered air carriers_: 20 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 794<br>
 _annual passenger traffic on registered air carriers_: 165,388,610 (2018)<br>
-_annual freight traffic on registered air carriers_: 6,198,370,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 6,198,370,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 G<br>
@@ -665,15 +672,15 @@ _under 914 m_: 160 (2021)<br>
 
 **Railways**<br>
 _total_: 16,837 km (2015)<br>
-_standard gauge_: 16,534 km 1.435-m gauge (5,357 km electrified) (2015)<br>
-_broad gauge_: 303 km 1.600-m gauge (in Northern Ireland) (2015)<br>
+_standard gauge_: 16,534 km (2015) 1.435-m gauge (5,357 km electrified)<br>
+_broad gauge_: 303 km (2015) 1.600-m gauge (in Northern Ireland)<br>
 
 **Roadways**<br>
 _total_: 394,428 km (2009)<br>
-_paved_: 394,428 km (includes 3,519 km of expressways) (2009)<br>
+_paved_: 394,428 km (2009) (includes 3,519 km of expressways)<br>
 
 **Waterways**<br>
-3,200 km (620 km used for commerce) (2009)<br>
+3,200 km (2009) (620 km used for commerce)<br>
 
 **Merchant marine**<br>
 _total_: 1,249<br>
@@ -697,13 +704,13 @@ note - in 2021 the UK formed a joint service Space Command staffed by Army, Navy
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>
 2.3% of GDP (2020)<br>
-2.1% of GDP (approximately $68.4 billion) (2019)<br>
-2.1% of GDP (approximately $67.8 billion) (2018)<br>
-2.1% of GDP (approximately $65.9 billion) (2017)<br>
+2.1% of GDP (2019) (approximately $68.4 billion)<br>
+2.1% of GDP (2018) (approximately $67.8 billion)<br>
+2.1% of GDP (2017) (approximately $65.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the British military has approximately 194,000 total active troops (120,500 Army, including about 4,000 Gurkhas; 40,500 Navy, including about 7,000 Royal Marines; 38,000 Air Force) (2021)<br>
-note(s) - the total includes 149,000 Regular Forces and approximately 37,000 Volunteer Reserves (30,000 Army; 4,000 Navy; 3000 Air Force) and some 8,000 "Other Personnel" (4,500 Army; 2,500 Navy; 1,000 Air Force)<br><br>Volunteer Reserves voluntarily accept an annual training commitment and are liable to be mobilized to deploy on operations; they can be utilized on a part-time or full-time basis to provide support to the Regular Forces at home and overseas; "Other Personnel" include the Serving Regular Reserve, Sponsored Reserve, Military Provost Guard Service, Locally Engaged Personnel, and elements of the UK Full-time Reserve Service<br>
+the British military has approximately 155,000 total active troops (85,000 Army, including about 4,000 Gurkhas; 35,000 Navy, including about 7,000 Royal Marines; 35,000 Air Force) (2021)<br>
+note - as of 2021, the military also had approximately 40-45,000 reserves on active duty<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the British military is comprised of a mix of domestically-produced and imported Western weapons systems; the US is the leading supplier of armaments to the UK since 2010; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers (2021)<br>
@@ -713,8 +720,8 @@ slight variations by service, but generally 16-36 years of age for enlisted (wit
 note - as of 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 1,000 Brunei; approximately 400 Canada (BATUS); approximately 2,500 Cyprus (250 for UNFICYP); approximately 900 Estonia (NATO); approximately 1,200 Falkland Islands; approximately 200 Germany; 570 Gibraltar; approximately 1,400 Middle East (including Bahrain, Iraq, Kuwait, Oman, Saudi Arabia, UAE; coalition against ISIS; NATO); up to 350 Kenya (BATUK); approximately 350 Mali (EUTM, MINUSMA, and Operation Barkhane); 150 Poland (NATO) (2022)<br><br>note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe <br>
-note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe&nbsp;<br>
+approximately 1,000 Brunei; approximately 400 Canada (BATUS); approximately 2,500 Cyprus (250 for UNFICYP); approximately 900 Estonia (NATO); approximately 1,200 Falkland Islands; approximately 200 Germany; 570 Gibraltar; approximately 1,400 Middle East (including Bahrain, Iraq, Kuwait, Oman, Saudi Arabia, UAE; coalition against ISIS; NATO); up to 350 Kenya (BATUK); approximately 350 Mali (EUTM, MINUSMA, and Operation Barkhane); 150 Poland (NATO) (2022)<br><br>note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe; the UK has sent several thousand <br>
+note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe; the UK has sent several thousand <br>
 
 **Military - note**<br>
 the UK is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for UK-French bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance<br><br>in 2014, the UK led the formation of the Joint Expeditionary Force (JEF), a pool of high-readiness military forces from Baltic and Scandinavian countries able to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict; its principal geographic area of interest is the High North, North Atlantic, and Baltic Sea regions, where the JEF can complement national capabilities or NATO’s deterrence posture, although it is designed to be flexible and prepared to respond to humanitarian crises further afield; the JEF consists of 10 countries (Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, the Netherlands, Norway, Sweden, and the UK) and was declared operational in 2018; most of the forces in the pool are British, and the UK provides the most rapidly deployable units as well as the command and control elements</p><br>

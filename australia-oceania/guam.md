@@ -69,6 +69,9 @@ frequent squalls during rainy season; relatively rare but potentially destructiv
 **Geography - note**<br>
 largest and southernmost island in the Mariana Islands archipelago and the largest island in Micronesia; strategic location in western North Pacific Ocean<br>
 
+**Map description**<br>
+<p>Guam map showing the island and its major population centers in the North Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -92,7 +95,7 @@ _0-14 years_: 27.22% (male 23,748/female 22,122)<br>
 _15-24 years_: 16.08% (male 14,522/female 12,572)<br>
 _25-54 years_: 36.65% (male 31,880/female 29,871)<br>
 _55-64 years_: 10.5% (male 9,079/female 8,610)<br>
-_65 years and over_: 9.54% (male 7,504/female 8,577) (2020 est.)<br>
+_65 years and over_: 9.54% (2020 est.) (male 7,504/female 8,577)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.4<br>
@@ -343,7 +346,7 @@ _services_: 58.4% (2015 est.)<br>
 _household consumption_: 56.2% (2016 est.)<br>
 _government consumption_: 55% (2016 est.)<br>
 _investment in fixed capital_: 20.6% (2016 est.)<br>
-_investment in inventories_: NA (2016 est.)<br>
+_investment in inventories_: (2016 est.) NA<br>
 _exports of goods and services_: 19.4% (2016 est.)<br>
 _imports of goods and services_: -51.2% (2016 est.)<br>
 
@@ -516,6 +519,10 @@ about a dozen TV channels, including digital channels; multi-channel cable TV se
 
 **Internet country code**<br>
 .gu<br>
+
+**Internet users**<br>
+_total_: 135,509 (2019 est.)<br>
+_percent of population_: 81% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,000 (2021 est.)<br>

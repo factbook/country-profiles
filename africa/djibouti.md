@@ -75,6 +75,9 @@ most densely populated areas are in the east; the largest city is Djibouti, with
 **Geography - note**<br>
 strategic location near world's busiest shipping lanes and close to Arabian oilfields; terminus of rail traffic into Ethiopia; mostly wasteland; Lac Assal (Lake Assal) is the lowest point in Africa and the saltiest lake in the world<br>
 
+**Map description**<br>
+<p>Djibouti map showing the capital and major towns, as well as parts of surrounding countries and the Gulf of Aden.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -101,7 +104,7 @@ _0-14 years_: 29.97% (male 138,701/female 137,588)<br>
 _15-24 years_: 20.32% (male 88,399/female 98,955)<br>
 _25-54 years_: 40.73% (male 156,016/female 219,406)<br>
 _55-64 years_: 5.01% (male 19,868/female 26,307)<br>
-_65 years and over_: 3.97% (male 16,245/female 20,319) (2020 est.)<br>
+_65 years and over_: 3.97% (2020 est.) (male 16,245/female 20,319)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.6<br>
@@ -196,7 +199,7 @@ _unimproved: total_: total: 26.2% of population (2020 est.)<br>
 6,800 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -265,7 +268,7 @@ _vectorborne diseases_: dengue fever<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Djibouti is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to floods - about 194,000 people were estimated to be severely food insecure in the January‑August 2021 period, mainly due to livelihood losses caused by floods and landslides, and as a result of the socio‑economic impact of the pandemic on the livelihoods of vulnerable households; Cyclone Sagar struck the country on 19 and 20 May 2021, bringing torrential rains; the precipitation received, about 110 mm, was the equivalent of the average rainfall for an entire year and triggered heavy flooding, especially in the capital, Djibouti City and surrounding areas (2021)<br>
+_widespread lack of access_: due to floods - about 194,000 people were estimated to be severely food insecure in the January‑August 2021 period, mainly due to livelihood losses caused by floods and landslides, and as a result of the socio‑economic impact of the pandemic on the livelihoods of vulnerable households; Cyclone Sagar struck the country on 19 and 20 May 2021, bringing torrential rains; the precipitation received, about 110 mm, was the equivalent of the average rainfall for an entire year and triggered heavy flooding, especially in the capital, Djibouti City and surrounding areas (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 114,997 tons (2002 est.)<br>
@@ -477,8 +480,8 @@ calendar year<br>
 -$178 million (2016 est.)<br>
 
 **Exports**<br>
-$5.15 billion note: data are in current year dollars (2019 est.)<br>
-$4.56 billion note: data are in current year dollars (2018 est.)<br>
+$5.15 billion (2019 est.) note: data are in current year dollars<br>
+$4.56 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Saudi Arabia 42%, India 15%, China 14%, Egypt 5%, South Korea 5% (2019)<br>
@@ -487,8 +490,8 @@ Saudi Arabia 42%, India 15%, China 14%, Egypt 5%, South Korea 5% (2019)<br>
 various animals, chlorides, dried legumes, industrial fatty acids/oils, coffee, chickpeas (2019)<br>
 
 **Imports**<br>
-$4.76 billion note: data are in current year dollars (2019 est.)<br>
-$4.19 billion note: data are in current year dollars (2018 est.)<br>
+$4.76 billion (2019 est.) note: data are in current year dollars<br>
+$4.19 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 43%, United Arab Emirates 15%, India 7%, Turkey 5% (2019)<br>
@@ -607,6 +610,10 @@ state-owned Radiodiffusion-Television de Djibouti operates the sole terrestrial 
 **Internet country code**<br>
 .dj<br>
 
+**Internet users**<br>
+_total_: 582,921 (2020 est.)<br>
+_percent of population_: 59% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 25,053 (2021)<br>
 _subscriptions per 100 inhabitants_: 2.54 (2021 est.)<br>
@@ -636,8 +643,8 @@ _914 to 1,523 m_: 7<br>
 _under 914 m_: 2 (2021)<br>
 
 **Railways**<br>
-_total_: 97 km (Djibouti segment of the 756 km Addis Ababa-Djibouti railway) (2017)<br>
-_standard gauge_: 97 km 1.435-m gauge (2017)<br>
+_total_: 97 km (2017) (Djibouti segment of the 756 km Addis Ababa-Djibouti railway)<br>
+_standard gauge_: 97 km (2017) 1.435-m gauge<br>
 
 **Roadways**<br>
 _total_: 2,893 km (2013)<br>
@@ -656,11 +663,11 @@ Djibouti Armed Forces (FAD): Army, Navy, Air Force; Djibouti Coast Guard; Minist
 note - the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points, while the National Gendarmerie is responsible for all security outside of Djibouti City, as well as for protecting critical infrastructure within the city, such as the international airport<br>
 
 **Military expenditures**<br>
-3.5% of GDP (approximately $180 million) (2019 est.)<br>
-3.5% of GDP (approximately $160 million) (2018 est.)<br>
-3.3% of GDP (approximately $150 million) (2017 est.)<br>
-2.7% of GDP (approximately $120 million) (2016 est.)<br>
-2.5% of GDP (approximately $110 million) (2015 est.)<br>
+3.5% of GDP (2019 est.) (approximately $180 million)<br>
+3.5% of GDP (2018 est.) (approximately $160 million)<br>
+3.3% of GDP (2017 est.) (approximately $150 million)<br>
+2.7% of GDP (2016 est.) (approximately $120 million)<br>
+2.5% of GDP (2015 est.) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Djibouti Armed Forces (FAD) have approximately 10,500 active troops (8,000 Army; 250 Naval; 250 Air; 2,000 Gendarmerie) (2021)<br>

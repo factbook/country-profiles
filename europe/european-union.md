@@ -55,42 +55,14 @@ population distribution varies considerably from country to country, but tends t
 **Natural hazards**<br>
 flooding along coasts; avalanches in mountainous area; earthquakes in the south; volcanic eruptions in Italy; periodic droughts in Spain; ice floes in the Baltic<br>
 
+**Map description**<br>
+<p>European Union map highlighting the member and candidate countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
- 450,131,902 (July 2021 est.)<br>
-<strong>rank by population:</strong> 
-
-<ol>
-<li>Germany - 79,903,481; </li>
-<li>France - 68,084,217; </li>
-<li>Italy - 62,390,364; </li>
-<li>Spain - 47,260,584; </li>
-<li>Poland - 38,185,913; </li>
-<li>Romania - 21,230,362; </li>
-<li>Netherlands - 17,337,403; </li>
-<li>Belgium - 11,778,842; </li>
-<li>Czechia - 10,702,596; </li>
-<li>Greece - 10,569,703; </li>
-<li>Portugal - 10,263,850; </li>
-<li>Sweden - 10,261,767; </li>
-<li>Hungary - 9,728,337; </li>
-<li>Austria - 8,884,864; </li>
-<li>Bulgaria - 6,919,180; </li>
-<li>Denmark - 5,894,687; </li>
-<li>Finland - 5,587,442; </li>
-<li>Slovakia - 5,436,066; </li>
-<li>Ireland - 5,224,884; </li>
-<li>Croatia - 4,208,973; </li>
-<li>Lithuania - 2,711,566; </li>
-<li>Slovenia - 2,102,106; </li>
-<li>Latvia - 1,862,687; </li>
-<li>Cyprus - 1,281,506; </li>
-<li>Estonia - 1,220,042; </li>
-<li>Luxembourg - 639,589; </li>
-<li>Malta - 460,891 (July 2021 est.)</li>
-</ol>
-<br>
+(July 2021 est.) 450,131,902<br>
+<strong>rank by population:</strong>   <ol> <li>Germany - 79,903,481; </li> <li>France - 68,084,217; </li> <li>Italy - 62,390,364; </li> <li>Spain - 47,260,584; </li> <li>Poland - 38,185,913; </li> <li>Romania - 21,230,362; </li> <li>Netherlands - 17,337,403; </li> <li>Belgium - 11,778,842; </li> <li>Czechia - 10,702,596; </li> <li>Greece - 10,569,703; </li> <li>Portugal - 10,263,850; </li> <li>Sweden - 10,261,767; </li> <li>Hungary - 9,728,337; </li> <li>Austria - 8,884,864; </li> <li>Bulgaria - 6,919,180; </li> <li>Denmark - 5,894,687; </li> <li>Finland - 5,587,442; </li> <li>Slovakia - 5,436,066; </li> <li>Ireland - 5,224,884; </li> <li>Croatia - 4,208,973; </li> <li>Lithuania - 2,711,566; </li> <li>Slovenia - 2,102,106; </li> <li>Latvia - 1,862,687; </li> <li>Cyprus - 1,281,506; </li> <li>Estonia - 1,220,042; </li> <li>Luxembourg - 639,589; </li> <li>Malta - 460,891 (July 2021 est.)</li> </ol> <br>
 
 **Languages**<br>
 Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovene, Spanish, Swedish<br>
@@ -104,7 +76,7 @@ _0-14 years_: 15.05% (male 34,978,216/female 33,217,600)<br>
 _15-24 years_: 10.39% (male 24,089,260/female 22,990,579)<br>
 _25-54 years_: 40.54% (male 92,503,000/female 91,144,596)<br>
 _55-64 years_: 13.52% (male 29,805,200/female 31,424,172)<br>
-_65 years and over_: 20.5% (male 39,834,507/female 53,020,673) (2020 est.)<br>
+_65 years and over_: 20.5% (2020 est.) (male 39,834,507/female 53,020,673)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -118,16 +90,16 @@ _male_: 42.6 years<br>
 _female_: 45.5 years (2020 est.)<br>
 
 **Population growth rate**<br>
--0.69% 0.10% (2021 est.)<br>
+-0.69% (2021 est.) 0.10%<br>
 
 **Birth rate**<br>
-9.5 births/1,000 population (2020 est.)<br>
+(2020 est.) 9.5 births/1,000 population<br>
 
 **Death rate**<br>
-10.7 deaths/1,000 population (2021 est.)<br>
+(2021 est.) 10.7 deaths/1,000 population<br>
 
 **Net migration rate**<br>
--2.85 migrant(s)/1,000 population 2.2 migrant(s)/1,000 population (2021 est.)<br>
+-2.85 migrant(s)/1,000 population (2021 est.) 2.2 migrant(s)/1,000 population<br>
 
 **Population distribution**<br>
 population distribution varies considerably from country to country, but tends to follow a pattern of coastal and river settlement, with urban agglomerations forming large hubs facilitating large scale housing, industry, and commerce; the area in and around the Netherlands, Belgium, and Luxembourg (known collectively as Benelux), is the most densely populated area in the EU<br>
@@ -152,7 +124,7 @@ _male_: 72.98 years<br>
 _female_: 82.51 years (2021 est.)<br>
 
 **Total fertility rate**<br>
-1.62 children born/woman (2021 est.)<br>
+(2021 est.) 1.62 children born/woman<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -517,11 +489,11 @@ euros per US dollar -<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 165,475,641<br>
-_subscriptions per 100 inhabitants_: 36.78 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: (2019 est.) 36.78<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 529,497,242<br>
-_subscriptions per 100 inhabitants_: 117.70 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: (2019 est.) 117.70<br>
 
 **Telecommunication systems**<br>
 note - see individual country entries of member states<br>
@@ -529,10 +501,13 @@ note - see individual country entries of member states<br>
 **Internet country code**<br>
 .eu; note - see country entries of member states for individual country codes<br>
 
+**Internet users**<br>
+_total_: 380,357,569 (2020 est.)<br>
+_percent of population_: 85% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 158,303,562
-<br>
-_subscriptions per 100 inhabitants_: 35.19 (2019 est.)<br>
+_total_: 158,303,562<br>
+_subscriptions per 100 inhabitants_: (2019 est.) 35.19<br>
 
 ## Transportation
 
@@ -557,16 +532,16 @@ _914 to 1,523 m_: 245<br>
 _under 914 m_: 982 (2013)<br>
 
 **Heliports**<br>
-90 (2021)<br>
+(2021) 90<br>
 
 **Railways**<br>
-_total_: 230,548 km (2013)<br>
+_total_: (2013) 230,548 km<br>
 
 **Roadways**<br>
-_total_: 10,582,653 km (2013)<br>
+_total_: (2013) 10,582,653 km<br>
 
 **Waterways**<br>
-53,384 km (2013)<br>
+(2013) 53,384 km<br>
 
 **Ports and terminals**<br>
 _major port(s)_: Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen (Germany), Burgas (Bulgaria), Constanta (Romania), Copenhagen (Denmark), Galati (Romania), Gdansk (Poland), Hamburg (Germany), Helsinki (Finland), Las Palmas (Canary Islands, Spain), Le Havre (France), Lisbon (Portugal), Marseille (France), Naples (Italy), Peiraiefs or Piraeus (Greece), Riga (Latvia), Rotterdam (Netherlands), Split (Croatia), Stockholm (Sweden), Talinn (Estonia), Tulcea (Romania), Varna (Bulgaria)<br>

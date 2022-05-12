@@ -81,6 +81,9 @@ prolonged periods of drought<br>
 **Geography - note**<br>
 the Namib Desert, after which the country is named, is considered to be the oldest desert in the world; Namibia is the first country in the world to incorporate the protection of the environment into its constitution; some 14% of the land is protected, including virtually the entire Namib Desert coastal strip; Namib-Naukluft National Park (49,768 sq km), is the largest game park in Africa and one of the largest in the world<br>
 
+**Map description**<br>
+<p>Namibia map showing major population centers as well as parts of surrounding countries and the South Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ _0-14 years_: 35.68% (male 473,937/female 464,453)<br>
 _15-24 years_: 20.27% (male 267,106/female 265,882)<br>
 _25-54 years_: 35.47% (male 449,132/female 483,811)<br>
 _55-64 years_: 4.68% (male 54,589/female 68,619)<br>
-_65 years and over_: 3.9% (male 43,596/female 58,948) (2020 est.)<br>
+_65 years and over_: 3.9% (2020 est.) (male 43,596/female 58,948)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 67.9<br>
@@ -510,9 +513,9 @@ _expenditures_: 5 billion (2017 est.)<br>
 -$465 million (2018 est.)<br>
 
 **Exports**<br>
-$3.56 billion note: data are in current year dollars (2020 est.)<br>
-$4.56 billion note: data are in current year dollars (2019 est.)<br>
-$4.95 billion note: data are in current year dollars (2018 est.)<br>
+$3.56 billion (2020 est.) note: data are in current year dollars<br>
+$4.56 billion (2019 est.) note: data are in current year dollars<br>
+$4.95 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 27%, South Africa 18%, Botswana 8%, Belgium 7% (2019)<br>
@@ -521,9 +524,9 @@ China 27%, South Africa 18%, Botswana 8%, Belgium 7% (2019)<br>
 copper, diamonds, uranium, thorium, gold, radioactive chemicals, fish (2019)<br>
 
 **Imports**<br>
-$4.54 billion note: data are in current year dollars (2020 est.)<br>
-$5.77 billion note: data are in current year dollars (2019 est.)<br>
-$6.33 billion note: data are in current year dollars (2018 est.)<br>
+$4.54 billion (2020 est.) note: data are in current year dollars<br>
+$5.77 billion (2019 est.) note: data are in current year dollars<br>
+$6.33 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 South Africa 47%, Zambia 16% (2019)<br>
@@ -642,6 +645,10 @@ _international_: country code - 264;&nbsp;landing points for the ACE and WACS&nb
 **Internet country code**<br>
 .na<br>
 
+**Internet users**<br>
+_total_: 1,041,776 (2020 est.)<br>
+_percent of population_: 41% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 71,063 (2021)<br>
 _subscriptions per 100 inhabitants_: 2.8 (2021)<br>
@@ -652,7 +659,7 @@ _subscriptions per 100 inhabitants_: 2.8 (2021)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 21<br>
 _annual passenger traffic on registered air carriers_: 602,893 (2018)<br>
-_annual freight traffic on registered air carriers_: 26.29 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 26.29 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 V5<br>
@@ -675,7 +682,7 @@ _under 914 m_: 16 (2021)<br>
 
 **Railways**<br>
 _total_: 2,628 km (2014)<br>
-_narrow gauge_: 2,628 km 1.067-m gauge (2014)<br>
+_narrow gauge_: 2,628 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
 _total_: 48,875 km (2018)<br>
@@ -696,10 +703,10 @@ Namibian Defense Force (NDF): Army, Navy, Air Force<br><br>Ministry of Safety an
 
 **Military expenditures**<br>
 3.4% of GDP (2020 est.)<br>
-3.3% of GDP (approximately $620 million) (2019)<br>
-3.4% of GDP (approximately $640 million) (2018)<br>
-3.6% of GDP (approximately $670 million) (2017)<br>
-4.1% of GDP (approximately $750 million) (2016)<br>
+3.3% of GDP (2019) (approximately $620 million)<br>
+3.4% of GDP (2018) (approximately $640 million)<br>
+3.6% of GDP (2017) (approximately $670 million)<br>
+4.1% of GDP (2016) (approximately $750 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2021)<br>

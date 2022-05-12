@@ -76,6 +76,9 @@ population concentrated in the highlands and eastern coastal areas on the island
 **Geography - note**<br>
 <p><strong>note 1:</strong> shares island of New Guinea with Indonesia; generally east-west trending highlands break up New Guinea into diverse ecoregions; one of world's largest swamps along southwest coast<br><br><strong>note 2: </strong>two major food crops apparently developed on the island of New Guinea: bananas and sugarcane</p> <p><strong>note 3:</strong> Papua New Guinea is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
 
+**Map description**<br>
+<p>Papua New Guinea map showing major cities and islands of this archipelagic Pacific Ocean country as well as parts of neighboring countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -101,7 +104,7 @@ _0-14 years_: 31.98% (male 1,182,539/female 1,139,358)<br>
 _15-24 years_: 19.87% (male 731,453/female 711,164)<br>
 _25-54 years_: 37.68% (male 1,397,903/female 1,337,143)<br>
 _55-64 years_: 5.83% (male 218,529/female 204,717)<br>
-_65 years and over_: 4.64% (male 164,734/female 171,916) (2020 est.)<br>
+_65 years and over_: 4.64% (2020 est.) (male 164,734/female 171,916)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 63.2<br>
@@ -197,7 +200,7 @@ _unimproved: total_: total: 76.5% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;500 (2020 est.)<br>
+(2020 est.) &lt;500<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -484,7 +487,7 @@ $4.859 billion (2017 est.)<br>
 $4.569 billion (2016 est.)<br>
 
 **Exports**<br>
-$10.6 billion note: data are in current year dollars (2018 est.)<br>
+$10.6 billion (2018 est.) note: data are in current year dollars<br>
 $9.224 billion (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -494,7 +497,7 @@ Australia 26%, China 26%, Japan 22%, Taiwan 7% (2019)<br>
 natural gas, gold, copper, lumber, crude petroleum, nickel, palm oil, fish, coffee (2019)<br>
 
 **Imports**<br>
-$4.84 billion note: data are in current year dollars (2018 est.)<br>
+$4.84 billion (2018 est.) note: data are in current year dollars<br>
 $2.077 billion (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -614,9 +617,13 @@ _international_: country code - 675; landing points for the Kumul Domestic Subma
 **Internet country code**<br>
 .pg<br>
 
+**Internet users**<br>
+_total_: 965,373 (2019 est.)<br>
+_percent of population_: 11% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 21,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.23 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.23 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -624,7 +631,7 @@ _subscriptions per 100 inhabitants_: 0.23 less than 1 (2021 est.)<br>
 _number of registered air carriers_: 6 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 48<br>
 _annual passenger traffic on registered air carriers_: 964,713 (2018)<br>
-_annual freight traffic on registered air carriers_: 30.93 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 30.93 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 P2<br>
@@ -674,11 +681,11 @@ _LNG terminal(s) (export)_: Port Moresby<br>
 Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements); Ministry of Police: Royal Papua New Guinea Constabulary (2021)<br>
 
 **Military expenditures**<br>
+0.4% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
-0.3% of GDP (approximately $100 million) (2019)<br>
-0.3% of GDP (approximately $100 million) (2018)<br>
-0.3% of GDP (approximately $110 million) (2017)<br>
-0.4% of GDP (approximately $110 million) (2016)<br>
+0.3% of GDP (2019) (approximately $100 million)<br>
+0.3% of GDP (2018) (approximately $100 million)<br>
+0.3% of GDP (2017) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Papau New Guinea Defense Force has approximately 3,000 active duty troops, including a land element of about 2,500 (2021)<br>

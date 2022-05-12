@@ -71,6 +71,9 @@ most of the population is concentrated in and around the capital of Kingstown<br
 **Geography - note**<br>
 the administration of the islands of the Grenadines group is divided between Saint Vincent and the Grenadines and Grenada; Saint Vincent and the Grenadines is comprised of 32 islands and cays<br>
 
+**Map description**<br>
+<p>Saint Vincent and the Grenadines map showing the islands that comprise this archipelagic country in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 20.15% (male 10,309/female 10,121)<br>
 _15-24 years_: 14.83% (male 7,582/female 7,451)<br>
 _25-54 years_: 42.63% (male 22,395/female 20,824)<br>
 _55-64 years_: 11.68% (male 6,136/female 5,703)<br>
-_65 years and over_: 10.72% (male 5,167/female 5,702) (2020 est.)<br>
+_65 years and over_: 10.72% (2020 est.) (male 5,167/female 5,702)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.7<br>
@@ -185,7 +188,7 @@ _unimproved: total_: total: 9.8% of population (2017 est.)<br>
 1,200 (2018)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018)<br>
+(2018) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 23.7% (2016)<br>
@@ -429,7 +432,7 @@ calendar year<br>
 -$122 million (2016 est.)<br>
 
 **Exports**<br>
-$320 million note: data are in current year dollars (2018 est.)<br>
+$320 million (2018 est.) note: data are in current year dollars<br>
 $47.3 million (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -439,7 +442,7 @@ Jordan 39%, Singapore 14% (2019)<br>
 natural gas, drilling platforms and ships, recreational boats, collector's items, eddoes and dasheen (taro), arrowroot starch (2019)<br>
 
 **Imports**<br>
-$450 million note: data are in current year dollars (2018 est.)<br>
+$450 million (2018 est.) note: data are in current year dollars<br>
 $294.6 million (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -556,6 +559,10 @@ St. Vincent and the Grenadines Broadcasting Corporation operates 1 TV station an
 
 **Internet country code**<br>
 .vc<br>
+
+**Internet users**<br>
+_total_: 24,408 (2020 est.)<br>
+_percent of population_: 22% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 24,733 (2020)<br>

@@ -66,6 +66,9 @@ occasional tropical cyclones (especially November to March), but generally only 
 **Geography - note**<br>
 Britain's most isolated dependency; only the larger island of Pitcairn is inhabited but it has no port or natural harbor; supplies must be transported by rowed longboat from larger ships stationed offshore<br>
 
+**Map description**<br>
+<p>Pitcairn Islands map showing the scattered islands in the South Pacific Ocean and an inset of Pitcairn Island itself.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -116,14 +119,14 @@ _rate of urbanization_: NA<br>
 NA<br>
 
 **Infant mortality rate**<br>
-_total_: NA (2018)<br>
+_total_: (2018) NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
 **Life expectancy at birth**<br>
 _total population_: NA<br>
 _male_: NA<br>
-_female_: NA (2021 est.)<br>
+_female_: (2021 est.) NA<br>
 
 **Total fertility rate**<br>
 NA<br>
@@ -335,6 +338,10 @@ satellite TV from Fiji-based Sky Pacific offering a wide range of international 
 
 **Internet country code**<br>
 .pn<br>
+
+**Internet users**<br>
+_total_: 50 (2022 est.)<br>
+_percent of population_: 100% (2018 est.)<br>
 
 **Communications - note**<br>
 satellite-based local phone service and broadband Internet connections available in all homes<br>

@@ -65,6 +65,9 @@ ice floes often block the entrance to Bellsund (a transit point for coal export)
 **Geography - note**<br>
 northernmost part of the Kingdom of Norway; consists of nine main islands; glaciers and snowfields cover 60% of the total area; Spitsbergen Island is the site of the Svalbard Global Seed Vault, a seed repository established by the Global Crop Diversity Trust and the Norwegian Government<br>
 
+**Map description**<br>
+<p>Svalbard map showing the major population centers and islands of this Norwegian territory in the Arctic Ocean.</p> <p> </p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -98,7 +101,7 @@ _potential support ratio_: NA<br>
 NA<br>
 
 **Death rate**<br>
-NA (2021 est.)<br>
+(2021 est.) NA<br>
 
 **Net migration rate**<br>
 -5.57 migrant(s)/1,000 population (2021 est.)<br>
@@ -112,15 +115,15 @@ NA<br>
 **Infant mortality rate**<br>
 _total_: NA<br>
 _male_: NA<br>
-_female_: NA (2021 est.)<br>
+_female_: (2021 est.) NA<br>
 
 **Life expectancy at birth**<br>
 _total population_: NA<br>
 _male_: NA<br>
-_female_: NA (2021 est.)<br>
+_female_: (2021 est.) NA<br>
 
 **Total fertility rate**<br>
-NA (2021 est.)<br>
+(2021 est.) NA<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

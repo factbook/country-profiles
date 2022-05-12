@@ -74,6 +74,9 @@ hot, dry harmattan wind can reduce visibility in north during winter; periodic d
 **Geography - note**<br>
 the country's length allows it to stretch through six distinct geographic regions; climate varies from tropical to savanna<br>
 
+**Map description**<br>
+<p>Togo map showing major population centers as well as parts of surrounding countries and the Bight of Benin.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 39.73% (male 1,716,667/female 1,703,230)<br>
 _15-24 years_: 19.03% (male 817,093/female 820,971)<br>
 _25-54 years_: 33.26% (male 1,423,554/female 1,439,380)<br>
 _55-64 years_: 4.42% (male 179,779/female 200,392)<br>
-_65 years and over_: 3.57% (male 132,304/female 175,074) (2020 est.)<br>
+_65 years and over_: 3.57% (2020 est.) (male 132,304/female 175,074)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 77.1<br>
@@ -505,8 +508,8 @@ calendar year<br>
 -$416 million (2016 est.)<br>
 
 **Exports**<br>
-$1.67 billion note: data are in current year dollars (2019 est.)<br>
-$1.7 billion note: data are in current year dollars (2018 est.)<br>
+$1.67 billion (2019 est.) note: data are in current year dollars<br>
+$1.7 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 India 16%, Benin 15%, Burkina Faso 6%, France 6%, Morocco 5% (2019)<br>
@@ -515,8 +518,8 @@ India 16%, Benin 15%, Burkina Faso 6%, France 6%, Morocco 5% (2019)<br>
 refined petroleum, crude petroleum, electricity, calcium phosphates, cotton (2019)<br>
 
 **Imports**<br>
-$2.26 billion note: data are in current year dollars (2019 est.)<br>
-$2.33 billion note: data are in current year dollars (2018 est.)<br>
+$2.26 billion (2019 est.) note: data are in current year dollars<br>
+$2.33 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 18%, South Korea 13%, India 11%, Belgium 10%, Netherlands 8%, United States 5% (2019)<br>
@@ -617,7 +620,7 @@ _electrification - rural areas_: 19% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 46,499 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6,239,180 (2019)<br>
@@ -635,9 +638,13 @@ _international_: country code - 228; landing point for the WACS submarine cable,
 **Internet country code**<br>
 .tg<br>
 
+**Internet users**<br>
+_total_: 1,986,897 (2020 est.)<br>
+_percent of population_: 24% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 52,706 DSL, dedicated internet line, Wimax, WLL, FTTH (2021)<br>
-_subscriptions per 100 inhabitants_: 0.64 less than 1 (2021 est.)<br>
+_total_: 52,706 (2021) DSL, dedicated internet line, Wimax, WLL, FTTH<br>
+_subscriptions per 100 inhabitants_: 0.64 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -645,7 +652,7 @@ _subscriptions per 100 inhabitants_: 0.64 less than 1 (2021 est.)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 8<br>
 _annual passenger traffic on registered air carriers_: 566,295 (2018)<br>
-_annual freight traffic on registered air carriers_: 10.89 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 10.89 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 5V<br>
@@ -667,7 +674,7 @@ _under 914 m_: 2 (2021)<br>
 
 **Railways**<br>
 _total_: 568 km (2014)<br>
-_narrow gauge_: 568 km 1.000-m gauge (2014)<br>
+_narrow gauge_: 568 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
 _total_: 11,734 km (2081)<br>
@@ -676,7 +683,7 @@ _unpaved_: 8,157 km (2018)<br>
 _urban_: 1,783 km (2018)<br>
 
 **Waterways**<br>
-50 km (seasonally navigable by small craft on the Mono River depending on rainfall) (2011)<br>
+50 km (2011) (seasonally navigable by small craft on the Mono River depending on rainfall)<br>
 
 **Merchant marine**<br>
 _total_: 411<br>
@@ -693,10 +700,10 @@ note - the Gendarmerie falls under the Ministry of Defense but also reports to t
 
 **Military expenditures**<br>
 2% of GDP (2020 est.)<br>
-2.6% of GDP (approximately $190 million) (2019 est.)<br>
-1.9% of GDP (approximately $140 million) (2018 est.)<br>
-1.9% of GDP (approximately $130 million) (2017 est.)<br>
-1.8% of GDP (approximately $120 million) (2016 est.)<br>
+2.6% of GDP (2019 est.) (approximately $190 million)<br>
+1.9% of GDP (2018 est.) (approximately $140 million)<br>
+1.9% of GDP (2017 est.) (approximately $130 million)<br>
+1.8% of GDP (2016 est.) (approximately $120 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,000 personnel, including about 8,000 Army (2021)<br>

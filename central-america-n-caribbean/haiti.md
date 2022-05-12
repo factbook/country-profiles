@@ -73,6 +73,9 @@ lies in the middle of the hurricane belt and subject to severe storms from June 
 **Geography - note**<br>
 shares island of Hispaniola with Dominican Republic (western one-third is Haiti, eastern two-thirds is the Dominican Republic); it is the most mountainous nation in the Caribbean<br>
 
+**Map description**<br>
+<p>Haiti map shows the country’s border with the Dominican Republic and its position in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -99,7 +102,7 @@ _0-14 years_: 31.21% (male 1,719,961/female 1,734,566)<br>
 _15-24 years_: 20.71% (male 1,145,113/female 1,146,741)<br>
 _25-54 years_: 38.45% (male 2,110,294/female 2,145,209)<br>
 _55-64 years_: 5.3% (male 280,630/female 305,584)<br>
-_65 years and over_: 4.33% (male 210,451/female 269,228) (2020 est.)<br>
+_65 years and over_: 4.33% (2020 est.) (male 210,451/female 269,228)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.4<br>
@@ -479,8 +482,8 @@ _expenditures_: 1.65 billion (2017 est.)<br>
 -$83 million (2016 est.)<br>
 
 **Exports**<br>
-$1.73 billion note: data are in current year dollars (2019 est.)<br>
-$1.78 billion note: data are in current year dollars (2018 est.)<br>
+$1.73 billion (2019 est.) note: data are in current year dollars<br>
+$1.78 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 81%, Canada 7% (2019)<br>
@@ -489,8 +492,8 @@ United States 81%, Canada 7% (2019)<br>
 clothing and apparel, eels, essential oils, perfumes, mangoes, cocoa beans (2019)<br>
 
 **Imports**<br>
-$5.21 billion note: data are in current year dollars (2019 est.)<br>
-$5.67 billion note: data are in current year dollars (2018 est.)<br>
+$5.21 billion (2019 est.) note: data are in current year dollars<br>
+$5.67 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 39%, China 22%, Turkey 5% (2019)<br>
@@ -591,7 +594,7 @@ _electrification - rural areas_: 12% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 5,952 (2019)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: (2019 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6,843,380 (2020)<br>
@@ -609,9 +612,13 @@ _international_: country code - 509; landing points for the BDSNi and Fibralink 
 **Internet country code**<br>
 .ht<br>
 
+**Internet users**<br>
+_total_: 3,990,887 (2020 est.)<br>
+_percent of population_: 35% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 31,100 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.27 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.27 (2021) less than 1<br>
 
 ## Transportation
 
@@ -636,7 +643,7 @@ _914 to 1,523 m_: 2<br>
 _under 914 m_: 8 (2021)<br>
 
 **Roadways**<br>
-_total_: 4,266 km Note – total paved plus unpaved is less than total roadways because some roads are under construction or only partially paved (2009)<br>
+_total_: 4,266 km (2009) Note – total paved plus unpaved is less than total roadways because some roads are under construction or only partially paved<br>
 _paved_: 600 km (2009)<br>
 _unpaved_: 3,502 km (2009)<br>
 
@@ -651,8 +658,7 @@ _major seaport(s)_: Cap-Haitien, Gonaives, Jacmel, Port-au-Prince<br>
 
 **Military and security forces**<br>
 the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018; the small Coast Guard is not part of the military, but rather the Haitian National Police (2021)<br>
-note - the National Police has a paramilitary, rapid-response unit known as the Motorized Intervention Unit or BIM
-<p class="gmail-css-axufdj"> </p><br>
+note - the National Police has a paramilitary, rapid-response unit known as the Motorized Intervention Unit or BIM <p class="gmail-css-axufdj"> </p><br>
 
 **Military and security service personnel strengths**<br>
 the FAdH has approximately 500 troops (the force is planned to eventually have around 5,000 personnel); approximately 16,000 National Police (2021)<br>

@@ -79,6 +79,9 @@ local flooding in southeast (early September to June); poorly drained plains may
 **Geography - note**<br>
 <strong>note 1: </strong>landlocked; lies between Argentina, Bolivia, and Brazil; population concentrated in eastern and southern part of country<br><br><strong>note 2:</strong> pineapples are probably indigenous to the southern Brazil-Paraguay region <br>
 
+**Map description**<br>
+<p>Paraguay map showing major population centers as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -106,7 +109,7 @@ _0-14 years_: 23.41% (male 857,303/female 826,470)<br>
 _15-24 years_: 17.71% (male 640,400/female 633,525)<br>
 _25-54 years_: 42.63% (male 1,532,692/female 1,532,851)<br>
 _55-64 years_: 8.37% (male 306,100/female 295,890)<br>
-_65 years and over_: 7.88% (male 267,351/female 299,103) (2020 est.)<br>
+_65 years and over_: 7.88% (2020 est.) (male 267,351/female 299,103)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.5<br>
@@ -205,7 +208,7 @@ _unimproved: total_: total: 3.8% of population (2020 est.)<br>
 19,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -504,9 +507,9 @@ calendar year<br>
 $416 million (2016 est.)<br>
 
 **Exports**<br>
-$11.81 billion note: data are in current year dollars (2020 est.)<br>
-$13.27 billion note: data are in current year dollars (2019 est.)<br>
-$14.36 billion note: data are in current year dollars (2018 est.)<br>
+$11.81 billion (2020 est.) note: data are in current year dollars<br>
+$13.27 billion (2019 est.) note: data are in current year dollars<br>
+$14.36 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Brazil 32%, Argentina 22%, Chile 8%, Russia 8% (2019)<br>
@@ -515,9 +518,9 @@ Brazil 32%, Argentina 22%, Chile 8%, Russia 8% (2019)<br>
 soybeans and soybean products, electricity, beef, corn, insulated wiring (2019)<br>
 
 **Imports**<br>
-$10.62 billion note: data are in current year dollars (2020 est.)<br>
-$13.15 billion note: data are in current year dollars (2019 est.)<br>
-$13.88 billion note: data are in current year dollars (2018 est.)<br>
+$10.62 billion (2020 est.) note: data are in current year dollars<br>
+$13.15 billion (2019 est.) note: data are in current year dollars<br>
+$13.88 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Brazil 24%, United States 22%, China 17%, Argentina 10%, Chile 5% (2019)<br>
@@ -634,6 +637,10 @@ _international_: country code - 595; Paraguay's landlocked position means they m
 **Internet country code**<br>
 .py<br>
 
+**Internet users**<br>
+_total_: 5,278,072 (2020 est.)<br>
+_percent of population_: 74% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 562,369 (2021)<br>
 _subscriptions per 100 inhabitants_: 7.88 (2021)<br>
@@ -644,7 +651,7 @@ _subscriptions per 100 inhabitants_: 7.88 (2021)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 8<br>
 _annual passenger traffic on registered air carriers_: 560,631 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.97 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1.97 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 ZP<br>
@@ -666,7 +673,7 @@ _under 914 m_: 471 (2021)<br>
 
 **Railways**<br>
 _total_: 30 km (2014)<br>
-_standard gauge_: 30 km 1.435-m gauge (2014)<br>
+_standard gauge_: 30 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>
 _total_: 78,811 km (2017)<br>
@@ -674,7 +681,7 @@ _paved_: 8,573 km (2017)<br>
 _unpaved_: 70,238 km (2017)<br>
 
 **Waterways**<br>
-3,100 km (primarily on the Paraguay and Paraná River systems) (2012)<br>
+3,100 km (2012) (primarily on the Paraguay and Paraná River systems)<br>
 
 **Merchant marine**<br>
 _total_: 110<br>
@@ -692,9 +699,9 @@ Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020)<br>
-1% of GDP (approximately $590 million) (2019)<br>
-1% of GDP (approximately $590 million) (2018)<br>
-0.9% of GDP (approximately $550 million) (2017)<br>
+1% of GDP (2019) (approximately $590 million)<br>
+1% of GDP (2018) (approximately $590 million)<br>
+0.9% of GDP (2017) (approximately $550 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of Paraguay have approximately 15,000 active personnel (10,000 Army; 3,500 Navy; 1,500 Air Force) (2021)<br>

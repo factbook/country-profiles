@@ -70,6 +70,9 @@ over two-thirds of the population lives on the island of Tongatapu; only 45 of t
 **Geography - note**<br>
 the western islands (making up the Tongan Volcanic Arch) are all of volcanic origin; the eastern islands are nonvolcanic and are composed of coral limestone and sand<br>
 
+**Map description**<br>
+<p>Tonga map showing the major islands that make up this archipelago in the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 32% (male 17,250/female 16,698)<br>
 _15-24 years_: 19.66% (male 10,679/female 10,175)<br>
 _25-54 years_: 35.35% (male 18,701/female 18,802)<br>
 _55-64 years_: 6.17% (male 3,345/female 3,202)<br>
-_65 years and over_: 6.83% (male 3,249/female 3,994) (2020 est.)<br>
+_65 years and over_: 6.83% (2020 est.) (male 3,249/female 3,994)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 68.6<br>
@@ -384,8 +387,8 @@ $660 million (2017 est.)<br>
 3.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$6,400 note: data are in 2017 dollars (2019 est.)<br>
-$6,400 note: data are in 2017 dollars (2018 est.)<br>
+$6,400 (2019 est.) note: data are in 2017 dollars<br>
+$6,400 (2018 est.) note: data are in 2017 dollars<br>
 $6,472 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -466,9 +469,9 @@ _expenditures_: 181.2 million (2017 est.)<br>
 -$30 million (2016 est.)<br>
 
 **Exports**<br>
-$90 million note: data are in current year dollars (2020 est.)<br>
-$110 million note: data are in current year dollars (2019 est.)<br>
-$100 million note: data are in current year dollars (2018 est.)<br>
+$90 million (2020 est.) note: data are in current year dollars<br>
+$110 million (2019 est.) note: data are in current year dollars<br>
+$100 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 38%, South Korea 18%, Australia 14%, New Zealand 14%, Japan 6%,&nbsp; (2019)<br>
@@ -477,9 +480,9 @@ United States 38%, South Korea 18%, Australia 14%, New Zealand 14%, Japan 6%,&nb
 squash, fish, various fruits and nuts, antiques, coral and shells (2019)<br>
 
 **Imports**<br>
-$300 million note: data are in current year dollars (2020 est.)<br>
-$330 million note: data are in current year dollars (2019 est.)<br>
-$320 million note: data are in current year dollars (2018 est.)<br>
+$300 million (2020 est.) note: data are in current year dollars<br>
+$330 million (2019 est.) note: data are in current year dollars<br>
+$320 million (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Fiji 29%, New Zealand 23%, China 14%, United States 8%, Australia 6%, Japan 6% (2019)<br>
@@ -598,6 +601,10 @@ _international_: country code - 676; landing point for the Tonga Cable and the T
 **Internet country code**<br>
 .to<br>
 
+**Internet users**<br>
+_total_: 42,844 (2019 est.)<br>
+_percent of population_: 41% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 5,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 4.73 (2021 est.)<br>
@@ -642,7 +649,11 @@ _major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>
 Tonga Defense Services (His Majesty's Armed Forces): Joint Force headquarters, Territorial Forces, Land Force, Tonga Navy, Training Wing, Air Wing, and Support Unit (2021)<br>
 
 **Military expenditures**<br>
-not available<br>
+2.1% of GDP (2020 est.) (approximately $10 million)<br>
+2.4% of GDP (2019 est.) (approximately $12 million)<br>
+1.5% of GDP (2018 est.) (approximately $7.1 million)<br>
+2.1% of GDP (2017 est.) (approximately $10 million)<br>
+1.7% of GDP (2016 est.) (approximately $7.6 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Tonga Defense Services have approximately 500 personnel (2021)<br>

@@ -83,6 +83,9 @@ the population concentrated along the southern and southeastern coast, and inlan
 **Geography - note**<br>
 South Africa completely surrounds Lesotho and almost completely surrounds Eswatini<br>
 
+**Map description**<br>
+<p>South Africa map showing major cities as well as parts of surrounding countries and the Indian and South Atlantic Oceans.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -112,7 +115,7 @@ _0-14 years_: 27.94% (male 7,894,742/female 7,883,266)<br>
 _15-24 years_: 16.8% (male 4,680,587/female 4,804,337)<br>
 _25-54 years_: 42.37% (male 12,099,441/female 11,825,193)<br>
 _55-64 years_: 6.8% (male 1,782,902/female 2,056,988)<br>
-_65 years and over_: 6.09% (male 1,443,956/female 1,992,205) (2020 est.)<br>
+_65 years and over_: 6.09% (2020 est.) (male 1,443,956/female 1,992,205)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.2<br>
@@ -511,9 +514,9 @@ _expenditures_: 108.3 billion (2017 est.)<br>
 -$13.31 billion (2018 est.)<br>
 
 **Exports**<br>
-$93.01 billion note: data are in current year dollars (2020 est.)<br>
-$104.85 billion note: data are in current year dollars (2019 est.)<br>
-$110.07 billion note: data are in current year dollars (2018 est.)<br>
+$93.01 billion (2020 est.) note: data are in current year dollars<br>
+$104.85 billion (2019 est.) note: data are in current year dollars<br>
+$110.07 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 15%, United Kingdom 8%, Germany 7%, United States 6%, India 6% (2019)<br>
@@ -522,9 +525,9 @@ China 15%, United Kingdom 8%, Germany 7%, United States 6%, India 6% (2019)<br>
 gold, platinum, cars, iron products, coal, manganese, diamonds&nbsp; (2019)<br>
 
 **Imports**<br>
-$77.86 billion note: data are in current year dollars (2020 est.)<br>
-$103.12 billion note: data are in current year dollars (2019 est.)<br>
-$108.91 billion note: data are in current year dollars (2018 est.)<br>
+$77.86 billion (2020 est.) note: data are in current year dollars<br>
+$103.12 billion (2019 est.) note: data are in current year dollars<br>
+$108.91 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 18%, Germany 11%, United States 6%, India 5% (2019)<br>
@@ -643,6 +646,10 @@ the South African Broadcasting Corporation (SABC) operates 4 TV stations, 3 are 
 **Internet country code**<br>
 .za<br>
 
+**Internet users**<br>
+_total_: 41,516,083 (2020 est.)<br>
+_percent of population_: 70% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,303,057 (2021)<br>
 _subscriptions per 100 inhabitants_: 2.2 (2021)<br>
@@ -653,7 +660,7 @@ _subscriptions per 100 inhabitants_: 2.2 (2021)<br>
 _number of registered air carriers_: 17 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 243<br>
 _annual passenger traffic on registered air carriers_: 23,921,748 (2018)<br>
-_annual freight traffic on registered air carriers_: 716.25 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 716.25 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 ZS<br>
@@ -681,9 +688,9 @@ _under 914 m_: 79 (2021)<br>
 
 **Railways**<br>
 _total_: 20,986 km (2014)<br>
-_standard gauge_: 80 km 1.435-m gauge (80 km electrified) (2014)<br>
-_narrow gauge_: 19,756 km 1.065-m gauge (8,271 km electrified) (2014)<br>
-_other_: 1,150 km (passenger rail, gauge unspecified, 1,115.5 km electrified) (2014)<br>
+_standard gauge_: 80 km (2014) 1.435-m gauge (80 km electrified)<br>
+_narrow gauge_: 19,756 km (2014) 1.065-m gauge (8,271 km electrified)<br>
+_other_: (2014) 1,150 km (passenger rail, gauge unspecified, 1,115.5 km electrified)<br>
 
 **Roadways**<br>
 _total_: 750,000 km (2016)<br>
@@ -707,9 +714,9 @@ South African National Defense Force (SANDF): South African Army (includes Reser
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
 1.1% of GDP (2020)<br>
-1% of GDP (approximately $4.84 billion) (2019)<br>
-1% of GDP (approximately $4.86 billion) (2018)<br>
-1% of GDP (approximately $5.04 billion) (2017)<br>
+1% of GDP (2019) (approximately $4.84 billion)<br>
+1% of GDP (2018) (approximately $4.86 billion)<br>
+1% of GDP (2017) (approximately $5.04 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the South African National Defence Force (SANDF) is comprised of approximately 75,000 personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police); 180,000 South African Police Service (2021)<br>
@@ -726,7 +733,7 @@ note - in 2019, women comprised about 30% of the SANDF<br>
 note - in 2021, South Africa sent a contingent of about 1,500 troops to Mozambique as part of a Southern African Development Community (SADC) force to help quell an insurgency; in<br>
 
 **Military - note**<br>
-<p>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands</p> <p>as of 2021, the SANDF was one of Africa’s most capable militaries; it participated regularly in African and UN peacekeeping missions and had the ability to independently deploy throughout Africa; over the past decade, however, its operational readiness and modernization programs have been hampered by funding shortfalls</p><br>
+<p>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands</p> <p>as of 2022, the SANDF was one of Africa’s most capable militaries; it participated regularly in African and UN peacekeeping missions and had the ability to independently deploy throughout Africa; over the past decade, however, its operational readiness and modernization programs have been hampered by funding shortfalls</p><br>
 
 ## Terrorism
 

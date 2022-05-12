@@ -71,6 +71,9 @@ lies outside the cyclone belt, so severe storms are rare; occasional short droug
 **Geography - note**<br>
 the smallest African country in terms of both area and population; the constitution of the Republic of Seychelles lists 155 islands: 42 granitic and 113 coralline; by far the largest island is Mahe, which is home to about 90% of the population and the site of the capital city of Victoria<br>
 
+**Map description**<br>
+<p>Seychelles map showing the major islands and atolls that comprise this country in the Indian Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 18.85% (male 9,297/female 8,798)<br>
 _15-24 years_: 12.39% (male 6,283/female 5,607)<br>
 _25-54 years_: 49.03% (male 25,209/female 21,851)<br>
 _55-64 years_: 11.46% (male 5,545/female 5,455)<br>
-_65 years and over_: 8.27% (male 3,272/female 4,664) (2020 est.)<br>
+_65 years and over_: 8.27% (2020 est.) (male 3,272/female 4,664)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.7<br>
@@ -461,9 +464,9 @@ calendar year<br>
 -$286 million (2016 est.)<br>
 
 **Exports**<br>
-$1.09 billion note: data are in current year dollars (2020 est.)<br>
-$1.61 billion note: data are in current year dollars (2019 est.)<br>
-$1.68 billion note: data are in current year dollars (2018 est.)<br>
+$1.09 billion (2020 est.) note: data are in current year dollars<br>
+$1.61 billion (2019 est.) note: data are in current year dollars<br>
+$1.68 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 17%, United Kingdom 13%, France 12%, British Virgin Islands 11%, Zambia 9%, Mauritius 5%, Japan 5% (2019)<br>
@@ -472,9 +475,9 @@ United Arab Emirates 17%, United Kingdom 13%, France 12%, British Virgin Islands
 refined petroleum, fish, recreational boats, cigarettes, animal meal (2019)<br>
 
 **Imports**<br>
-$1.35 billion note: data are in current year dollars (2020 est.)<br>
-$1.79 billion note: data are in current year dollars (2019 est.)<br>
-$1.86 billion note: data are in current year dollars (2018 est.)<br>
+$1.35 billion (2020 est.) note: data are in current year dollars<br>
+$1.79 billion (2019 est.) note: data are in current year dollars<br>
+$1.86 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 21%, Qatar 13%, British Virgin Islands 7%, Germany 6%, France 6%, China 5%, Spain 5%, South Africa 5% (2019)<br>
@@ -591,6 +594,10 @@ _international_: country code - 248; landing points for the PEACE and the SEAS s
 **Internet country code**<br>
 .sc<br>
 
+**Internet users**<br>
+_total_: 77,785 (2020 est.)<br>
+_percent of population_: 79% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 34,966 (2021)<br>
 _subscriptions per 100 inhabitants_: 35.55 (2021)<br>
@@ -601,7 +608,7 @@ _subscriptions per 100 inhabitants_: 35.55 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 7<br>
 _annual passenger traffic on registered air carriers_: 455,201 (2018)<br>
-_annual freight traffic on registered air carriers_: 7.79 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 7.79 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 S7<br>
@@ -638,10 +645,8 @@ _major seaport(s)_: Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Seychelles People’s Defense Forces (SPDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force; Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, the Anti-Narcotics Bureau, and the Marine Police Unit) (2021)<br><br>note - the military reports to the president, who acts as minister of defense
- <br>
-note - the military reports to the president, who acts as minister of defense
-&nbsp;<br>
+Seychelles People’s Defense Forces (SPDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force; Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, the Anti-Narcotics Bureau, and the Marine Police Unit) (2021)<br><br>note - the military reports to the president, who acts as minister of defense  <br>
+note - the military reports to the president, who acts as minister of defense &nbsp;<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2020 est.)<br>

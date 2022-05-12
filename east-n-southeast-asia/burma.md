@@ -79,6 +79,9 @@ destructive earthquakes and cyclones; flooding and landslides common during rain
 **Geography - note**<br>
 strategic location near major Indian Ocean shipping lanes; the north-south flowing Irrawaddy River is the country's largest and most important commercial waterway<br>
 
+**Map description**<br>
+<p>Burma map showing major cities as well as parts of surrounding countries and the Andaman Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ _0-14 years_: 25.97% (male 7,524,869/female 7,173,333)<br>
 _15-24 years_: 17% (male 4,852,122/female 4,769,412)<br>
 _25-54 years_: 42.76% (male 11,861,971/female 12,337,482)<br>
 _55-64 years_: 8.22% (male 2,179,616/female 2,472,681)<br>
-_65 years and over_: 6.04% (male 1,489,807/female 1,928,778) (2020 est.)<br>
+_65 years and over_: 6.04% (2020 est.) (male 1,489,807/female 1,928,778)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.5<br>
@@ -513,8 +516,8 @@ $240 million (2019 est.)<br>
 -$2.398 billion (2018 est.)<br>
 
 **Exports**<br>
-$17.52 billion note: data are in current year dollars (2019 est.)<br>
-$15.73 billion note: data are in current year dollars (2018 est.)<br>
+$17.52 billion (2019 est.) note: data are in current year dollars<br>
+$15.73 billion (2018 est.) note: data are in current year dollars<br>
 <strong>note:</strong> official export figures are grossly underestimated due to the value of timber, gems, narcotics, rice, and other products smuggled to Thailand, China, and Bangladesh<br>
 
 **Exports - partners**<br>
@@ -524,8 +527,8 @@ China 24%, Thailand 24%, Japan 7%, Germany 5% (2019)<br>
 natural gas, clothing products, rice, copper, dried legumes (2019)<br>
 
 **Imports**<br>
-$17.36 billion note: data are in current year dollars (2019 est.)<br>
-$18.66 billion note: data are in current year dollars (2018 est.)<br>
+$17.36 billion (2019 est.) note: data are in current year dollars<br>
+$18.66 billion (2018 est.) note: data are in current year dollars<br>
 <strong>note:</strong> import figures are grossly underestimated due to the value of consumer goods, diesel fuel, and other products smuggled in from Thailand, China, Malaysia, and India<br>
 
 **Imports - partners**<br>
@@ -627,7 +630,7 @@ _electrification - rural areas_: 39% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 520,863 (2018)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 61,143,964 (2018)<br>
@@ -645,9 +648,13 @@ government controls all domestic broadcast media; 2 state-controlled TV stations
 **Internet country code**<br>
 .mm<br>
 
+**Internet users**<br>
+_total_: 19,043,428 (2020 est.)<br>
+_percent of population_: 35% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 688,185 (2021)<br>
-_subscriptions per 100 inhabitants_: 1.27 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 1.27 (2021) less than 1<br>
 
 ## Transportation
 
@@ -655,7 +662,7 @@ _subscriptions per 100 inhabitants_: 1.27 less than 1 (2021)<br>
 _number of registered air carriers_: 8 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 42<br>
 _annual passenger traffic on registered air carriers_: 3,407,788 (2018)<br>
-_annual freight traffic on registered air carriers_: 4.74 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 4.74 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 XY<br>
@@ -685,7 +692,7 @@ _under 914 m_: 13 (2021)<br>
 
 **Railways**<br>
 _total_: 5,031 km (2008)<br>
-_narrow gauge_: 5,031 km 1.000-m gauge (2008)<br>
+_narrow gauge_: 5,031 km (2008) 1.000-m gauge<br>
 
 **Roadways**<br>
 _total_: 157,000 km (2013)<br>
@@ -710,11 +717,11 @@ Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Ai
 note(s) - under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br><br><br>
 
 **Military expenditures**<br>
-3% of GDP (2020 est.)<br>
-4.1% of GDP (approximately $7.7 billion) (2019 est.)<br>
-4.4% of GDP (approximately $8.1 billion) (2018 est.)<br>
-4.7% of GDP (approximately $7.8 billion) (2017 est.)<br>
-4.9% of GDP (approximately $7.8 billion) (2016 est.)<br>
+4.1% of GDP (2019 est.) (approximately $7.7 billion)<br>
+4.4% of GDP (2018 est.) (approximately $8.1 billion)<br>
+4.7% of GDP (2017 est.) (approximately $7.8 billion)<br>
+4.9% of GDP (2016 est.) (approximately $7.8 billion)<br>
+5.1% of GDP (2015 est.) (approximately $7.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary widely, from approximately 300,000 to as many as 400,000 total active duty personnel (2021)<br>

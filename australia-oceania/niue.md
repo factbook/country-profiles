@@ -69,6 +69,9 @@ tropical cyclones<br>
 **Geography - note**<br>
 one of world's largest coral islands; the only major break in the surrounding coral reef occurs in the central western part of the coast<br>
 
+**Map description**<br>
+<p>Niue map showing some population centers on this island in the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ _potential support ratio_: NA<br>
 NA<br>
 
 **Death rate**<br>
-NA (2021 est.)<br>
+(2021 est.) NA<br>
 
 **Population distribution**<br>
 population distributed around the peripheral coastal areas of the island<br>
@@ -127,15 +130,15 @@ NA<br>
 **Infant mortality rate**<br>
 _total_: NA<br>
 _male_: NA<br>
-_female_: NA (2021 est.)<br>
+_female_: (2021 est.) NA<br>
 
 **Life expectancy at birth**<br>
 _total population_: NA<br>
 _male_: NA<br>
-_female_: NA (2021 est.)<br>
+_female_: (2021 est.) NA<br>
 
 **Total fertility rate**<br>
-NA (2021 est.)<br>
+(2021 est.) NA<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -471,6 +474,10 @@ _international_: country code - 683; landing point for the Manatua submarine cab
 
 **Internet country code**<br>
 .nu<br>
+
+**Internet users**<br>
+_total_: 1,292 (2019 est.)<br>
+_percent of population_: 80% (2019 est.)<br>
 
 ## Transportation
 

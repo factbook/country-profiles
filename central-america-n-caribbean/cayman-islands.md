@@ -70,6 +70,9 @@ hurricanes (July to November)<br>
 **Geography - note**<br>
 important location between Cuba and Central America<br>
 
+**Map description**<br>
+<p>Cayman Islands map showing the islands that comprise the UK territory in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 17.75% (male 5,535/female 5,457)<br>
 _15-24 years_: 11.86% (male 3,673/female 3,675)<br>
 _25-54 years_: 41.37% (male 12,489/female 13,140)<br>
 _55-64 years_: 14.78% (male 4,398/female 4,755)<br>
-_65 years and over_: 14.24% (male 4,053/female 4,769) (2020 est.)<br>
+_65 years and over_: 14.24% (2020 est.) (male 4,053/female 4,769)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -310,8 +313,8 @@ _lyrics/music_: Leila E. ROSS<br>
 <p>With no direct taxation, the islands are a thriving offshore financial center. More than 65,000 companies were registered in the Cayman Islands as of 2017, including more than 280 banks, 700 insurers, and 10,500 mutual funds. A stock exchange was opened in 1997. Nearly 90% of the islands' food and consumer goods must be imported. The Caymanians enjoy a standard of living comparable to that of Switzerland.</p><p></p><p>Tourism is also a mainstay, accounting for about 70% of GDP and 75% of foreign currency earnings. The tourist industry is aimed at the luxury market and caters mainly to visitors from North America. Total tourist arrivals exceeded 2.1 million in 2016, with more than three-quarters from the US.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.78 billion note: data are in 2017 dollars (2019 est.)<br>
-$4.61 billion note: data are in 2017 dollars (2018 est.)<br>
+$4.78 billion (2019 est.) note: data are in 2017 dollars<br>
+$4.61 billion (2018 est.) note: data are in 2017 dollars<br>
 $4.409 billion (2017 est.)<br>
 
 **Real GDP growth rate**<br>
@@ -320,8 +323,8 @@ $4.409 billion (2017 est.)<br>
 1.6% (2012 est.)<br>
 
 **Real GDP per capita**<br>
-$73,600 note: data are in 2017 dollars (2019 est.)<br>
-$71,800 note: data are in 2017 dollars (2018 est.)<br>
+$73,600 (2019 est.) note: data are in 2017 dollars<br>
+$71,800 (2018 est.) note: data are in 2017 dollars<br>
 $69,573 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -399,8 +402,8 @@ _expenditures_: 766.6 million (2017 est.)<br>
 -$493.5 million (2016 est.)<br>
 
 **Exports**<br>
-$4.13 billion note: data are in current year dollars (2019 est.)<br>
-$3.96 billion note: data are in current year dollars (2018 est.)<br>
+$4.13 billion (2019 est.) note: data are in current year dollars<br>
+$3.96 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Netherlands 82%, Spain 11% (2019)<br>
@@ -409,8 +412,8 @@ Netherlands 82%, Spain 11% (2019)<br>
 recreational boats, gold, broadcasting equipment, sulfates, collector's items (2019)<br>
 
 **Imports**<br>
-$2.7 billion note: data are in current year dollars (2019 est.)<br>
-$2.52 billion note: data are in current year dollars (2018 est.)<br>
+$2.7 billion (2019 est.) note: data are in current year dollars<br>
+$2.52 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Netherlands 56%, United States 18%, Italy 8%, Switzerland 5% (2019)<br>
@@ -518,6 +521,10 @@ _international_: country code - 1-345; landing points for the Maya-1, Deep Blue 
 
 **Internet country code**<br>
 .ky<br>
+
+**Internet users**<br>
+_total_: 53,233 (2020 est.)<br>
+_percent of population_: 81% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,200 (2021 est.)<br>

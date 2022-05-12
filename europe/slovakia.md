@@ -76,6 +76,9 @@ flooding<br>
 **Geography - note**<br>
 landlocked; most of the country is rugged and mountainous; the Tatra Mountains in the north are interspersed with many scenic lakes and valleys<br>
 
+**Map description**<br>
+<p>Slovakia map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -101,7 +104,7 @@ _0-14 years_: 15.13% (male 423,180/female 400,128)<br>
 _15-24 years_: 10.06% (male 280,284/female 266,838)<br>
 _25-54 years_: 44.61% (male 1,228,462/female 1,198,747)<br>
 _55-64 years_: 13.15% (male 342,124/female 373,452)<br>
-_65 years and over_: 17.05% (male 366,267/female 561,120) (2020 est.)<br>
+_65 years and over_: 17.05% (2020 est.) (male 366,267/female 561,120)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47.6<br>
@@ -193,13 +196,13 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2018 est.)<br>
+(2018 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 1,200 (2018 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018 est.)<br>
+(2018 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 20.5% (2016)<br>
@@ -484,9 +487,9 @@ calendar year<br>
 -$2.635 billion (2018 est.)<br>
 
 **Exports**<br>
-$89.92 billion note: data are in current year dollars (2020 est.)<br>
-$97.04 billion note: data are in current year dollars (2019 est.)<br>
-$100.76 billion note: data are in current year dollars (2018 est.)<br>
+$89.92 billion (2020 est.) note: data are in current year dollars<br>
+$97.04 billion (2019 est.) note: data are in current year dollars<br>
+$100.76 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 22%, Czechia 11%, Poland 7%, France 7%, Hungary 6%, Austria 5%, United Kingdom 5% (2019)<br>
@@ -495,9 +498,9 @@ Germany 22%, Czechia 11%, Poland 7%, France 7%, Hungary 6%, Austria 5%, United K
 cars and vehicle parts, video displays, broadcasting equipment, tires, refined petroleum (2019)<br>
 
 **Imports**<br>
-$87.95 billion note: data are in current year dollars (2020 est.)<br>
-$96.75 billion note: data are in current year dollars (2019 est.)<br>
-$99.92 billion note: data are in current year dollars (2018 est.)<br>
+$87.95 billion (2020 est.) note: data are in current year dollars<br>
+$96.75 billion (2019 est.) note: data are in current year dollars<br>
+$99.92 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 18%, Czechia 18%, Poland 8%, Hungary 7%, Russia 5% (2019)<br>
@@ -614,9 +617,13 @@ state-owned public broadcaster, Radio and Television of Slovakia (RTVS), operate
 **Internet country code**<br>
 .sk<br>
 
+**Internet users**<br>
+_total_: 4,912,944 (2020 est.)<br>
+_percent of population_: 90% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 1,701,561 (2021)<br>
-_subscriptions per 100 inhabitants_: 31.17 (2021)<br>
+_total_: 1,701,561 (2022)<br>
+_subscriptions per 100 inhabitants_: 31.17 (2022)<br>
 
 ## Transportation
 
@@ -651,15 +658,15 @@ _under 914 m_: 5 (2021)<br>
 
 **Railways**<br>
 _total_: 3,580 km (2016)<br>
-_standard gauge_: 3,435 km 1.435-m gauge (1,587 km electrified) (2016)<br>
-_narrow gauge_: 46 km 1.000-m or 0.750-m gauge (2016)<br>
-_broad gauge_: 99 km 1.520-m gauge (2016)<br>
+_standard gauge_: 3,435 km (2016) 1.435-m gauge (1,587 km electrified)<br>
+_narrow gauge_: 46 km (2016) 1.000-m or 0.750-m gauge<br>
+_broad gauge_: 99 km (2016) 1.520-m gauge<br>
 
 **Roadways**<br>
-_total_: 56,926 km (includes local roads, national roads, and 464 km of highways) (2016)<br>
+_total_: 56,926 km (2016) (includes local roads, national roads, and 464 km of highways)<br>
 
 **Waterways**<br>
-172 km (on Danube River) (2012)<br>
+172 km (2012) (on Danube River)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Bratislava, Komarno (Danube)<br>
@@ -672,9 +679,9 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
 2% of GDP (2020)<br>
-1.7% of GDP (approximately $2.34 billion) (2019)<br>
-1.2% of GDP (approximately $1.72 billion) (2018)<br>
-1.1% of GDP (approximately $1.51 billion) (2017)<br>
+1.7% of GDP (2019) (approximately $2.34 billion)<br>
+1.2% of GDP (2018) (approximately $1.72 billion)<br>
+1.1% of GDP (2017) (approximately $1.51 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of the Slovak Republic have approximately 13,000 active duty personnel (6,000 Land Forces; 4,000 Air Forces; 3,000 other, including staff, special operations, and support forces) (2021)<br>
@@ -698,7 +705,7 @@ Slovakia officially became a member of NATO in 2004<br><br>in 2022, Slovakia agr
 <p>bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 385,284 (Ukraine) (as of 3 May 2022)<br>
+_refugees (country of origin)_: 404,463 (Ukraine) (as of 9 May 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

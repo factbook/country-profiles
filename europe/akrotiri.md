@@ -38,10 +38,13 @@ temperate; Mediterranean with hot, dry summers and cool winters<br>
 **Geography - note**<br>
 British extraterritorial rights also extended to several small off-post sites scattered across Cyprus; of the Sovereign Base Area (SBA) land, 60% is privately owned and farmed, 20% is owned by the Ministry of Defense, and 20% is SBA Crown land<br>
 
+**Map description**<br>
+Akrotiri map showing the UK Sovereign Base Area as well as the adjacent part of south Cyprus.<br>
+
 ## People and Society
 
 **Population**<br>
-approximately 18,195 on the Sovereign Base Areas of Akrotiri and Dhekelia including 11,000 Cypriots and 7,195 Service and UK-based contract personnel and dependents (2020)<br>
+(2020) approximately 18,195 on the Sovereign Base Areas of Akrotiri and Dhekelia including 11,000 Cypriots and 7,195 Service and UK-based contract personnel and dependents<br>
 
 **Languages**<br>
 English, Greek<br>

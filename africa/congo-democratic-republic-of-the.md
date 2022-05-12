@@ -83,6 +83,9 @@ urban clusters are spread throughout the country, particularly in the northeast 
 **Geography - note**<br>
 <p><strong>note 1:</strong> second largest country in Africa (after Algeria) and largest country in Sub-Saharan Africa; straddles the equator; dense tropical rain forest in central river basin and eastern highlands; the narrow strip of land that controls the lower Congo River is the DRC's only outlet to the South Atlantic Ocean</p> <p><strong>note 2:</strong> because of its speed, cataracts, rapids, and turbulence the Congo River, most of which flows through the DRC, has never been accurately measured along much of its length; nonetheless, it is conceded to be the deepest river in the world; estimates of its greatest depth vary between 220 and 250 meters</p><br>
 
+**Map description**<br>
+<p>Democratic Republic of the Congo map showing major cities as well as parts of surrounding countries and the South Atlantic Ocean.</p> <p> </p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -111,7 +114,7 @@ _0-14 years_: 46.38% (male 23,757,297/female 23,449,057)<br>
 _15-24 years_: 19.42% (male 9,908,686/female 9,856,841)<br>
 _25-54 years_: 28.38% (male 14,459,453/female 14,422,912)<br>
 _55-64 years_: 3.36% (male 1,647,267/female 1,769,429)<br>
-_65 years and over_: 2.47% (male 1,085,539/female 1,423,782) (2020 est.)<br>
+_65 years and over_: 2.47% (2020 est.) (male 1,085,539/female 1,423,782)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 95.4<br>
@@ -291,7 +294,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to persistent civil insecurity and COVID-19 restrictions - 27.3 million people are estimated to be severely food insecure in the February&minus;July 2021 period, the highest level on record; this is due to the severe impact of movement restrictions related to the COVID‑19 pandemic which continue to limit cross‑border trade and access to markets, and the ongoing conflict in eastern provinces, which triggered population displacements and locally disrupt crop production, resulting in shortages of food supplies in some markets; the eruption, on 22 May 2021, of the Nyiragongo volcano, in North Kivu Province, caused the further displacement of about 415,000 people (2021)<br>
+_widespread lack of access_: according to a November 2021 analysis, 26 million people are projected to be severely food insecure, in "Crisis" or above, between January and June 2022; this is due to persisting conflict in eastern provinces of North Kivu, South Kivu and Ituri, which continues to cause displacements, coupled with the economic effects of the COVID-19 pandemic (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 14,385,226 tons (2016 est.)<br>
@@ -524,9 +527,9 @@ calendar year<br>
 -$1.215 billion (2016 est.)<br>
 
 **Exports**<br>
-$13.93 billion note: data are in current year dollars (2020 est.)<br>
-$15.17 billion note: data are in current year dollars (2019 est.)<br>
-$16.08 billion note: data are in current year dollars (2018 est.)<br>
+$13.93 billion (2020 est.) note: data are in current year dollars<br>
+$15.17 billion (2019 est.) note: data are in current year dollars<br>
+$16.08 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 53%, United Arab Emirates 11%, Saudi Arabia 6%, South Korea 5% (2019)<br>
@@ -535,9 +538,9 @@ China 53%, United Arab Emirates 11%, Saudi Arabia 6%, South Korea 5% (2019)<br>
 copper, cobalt, crude petroleum, diamonds (2019)<br>
 
 **Imports**<br>
-$14.56 billion note: data are in current year dollars (2020 est.)<br>
-$16.89 billion note: data are in current year dollars (2019 est.)<br>
-$17.77 billion note: data are in current year dollars (2018 est.)<br>
+$14.56 billion (2020 est.) note: data are in current year dollars<br>
+$16.89 billion (2019 est.) note: data are in current year dollars<br>
+$17.77 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 29%, South Africa 15%, Zambia 12%, Rwanda 5%, Belgium 5%, India 5% (2019)<br>
@@ -656,9 +659,13 @@ state-owned TV broadcast station with near national coverage; more than a dozen 
 **Internet country code**<br>
 .cd<br>
 
+**Internet users**<br>
+_total_: 12,538,597 (2020 est.)<br>
+_percent of population_: 14% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 31,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.03 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.03 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -666,7 +673,7 @@ _subscriptions per 100 inhabitants_: 0.03 less than 1 (2021 est.)<br>
 _number of registered air carriers_: 8 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 13<br>
 _annual passenger traffic on registered air carriers_: 932,043 (2018)<br>
-_annual freight traffic on registered air carriers_: 890,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 890,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 9Q<br>
@@ -696,7 +703,7 @@ _under 914 m_: 65 (2021)<br>
 
 **Railways**<br>
 _total_: 4,007 km (2014)<br>
-_narrow gauge_: 3,882 km 1.067-m gauge (858 km electrified) (2014)<br>
+_narrow gauge_: 3,882 km (2014) 1.067-m gauge (858 km electrified)<br>
 125 1.000-m gauge<br>
 
 **Roadways**<br>
@@ -707,7 +714,7 @@ _urban_: 7,400 km (2015)<br>
 _non-urban_: 144,973 km<br>
 
 **Waterways**<br>
-15,000 km (including the Congo River, its tributaries, and unconnected lakes) (2011)<br>
+15,000 km (2011) (including the Congo River, its tributaries, and unconnected lakes)<br>
 
 **Merchant marine**<br>
 _total_: 22<br>
@@ -725,10 +732,10 @@ note - the Republican Guard is a division-size element consisting of approximate
 
 **Military expenditures**<br>
 0.7% of GDP (2020 est.)<br>
-0.9% of GDP (approximately $570 million) (2019 est.)<br>
-0.8% of GDP (approximately $520 million) (2018 est.)<br>
-0.9% of GDP (approximately $550 million) (2017 est.)<br>
-1.3% of GDP (approximately $650 million) (2016 est.)<br>
+0.9% of GDP (2019 est.) (approximately $570 million)<br>
+0.8% of GDP (2018 est.) (approximately $520 million)<br>
+0.9% of GDP (2017 est.) (approximately $550 million)<br>
+1.3% of GDP (2016 est.) (approximately $650 million)<br>
 
 **Military and security service personnel strengths**<br>
 limited and widely varied information; approximately 100,000 active troops (mostly Army, but includes several thousand Navy and Air Force personnel, as well as about 10,000 Republican Guard; note -&nbsp; Navy personnel includes naval infantry) (2021)<br>

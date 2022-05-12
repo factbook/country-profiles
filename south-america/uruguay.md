@@ -82,6 +82,9 @@ seasonally high winds (the pampero is a chilly and occasional violent wind that 
 **Geography - note**<br>
 second-smallest South American country (after Suriname); most of the low-lying landscape (three-quarters of the country) is grassland, ideal for cattle and sheep raising<br>
 
+**Map description**<br>
+<p>Uruguay map showing major population centers as well as parts of neighboring countries and the South Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -110,7 +113,7 @@ _0-14 years_: 19.51% (male 336,336/female 324,563)<br>
 _15-24 years_: 15.14% (male 259,904/female 252,945)<br>
 _25-54 years_: 39.86% (male 670,295/female 679,850)<br>
 _55-64 years_: 10.79% (male 172,313/female 193,045)<br>
-_65 years and over_: 14.71% (male 200,516/female 297,838) (2020 est.)<br>
+_65 years and over_: 14.71% (2020 est.) (male 200,516/female 297,838)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.9<br>
@@ -206,7 +209,7 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 12,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2020 est.)<br>
+(2020 est.) <200<br>
 
 **Obesity - adult prevalence rate**<br>
 27.9% (2016)<br>
@@ -500,9 +503,9 @@ $879 million (2017 est.)<br>
 $410 million (2016 est.)<br>
 
 **Exports**<br>
-$13.55 billion note: data are in current year dollars (2020 est.)<br>
-$16.99 billion note: data are in current year dollars (2019 est.)<br>
-$17.04 billion note: data are in current year dollars (2018 est.)<br>
+$13.55 billion (2020 est.) note: data are in current year dollars<br>
+$16.99 billion (2019 est.) note: data are in current year dollars<br>
+$17.04 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 29%, Brazil 12%, United States 5%, Netherlands 5%, Argentina 5% (2019)<br>
@@ -511,9 +514,9 @@ China 29%, Brazil 12%, United States 5%, Netherlands 5%, Argentina 5% (2019)<br>
 sulfate wood pulp, beef, soybeans, concentrated milk, rice (2019)<br>
 
 **Imports**<br>
-$11.29 billion note: data are in current year dollars (2020 est.)<br>
-$13.31 billion note: data are in current year dollars (2019 est.)<br>
-$13.82 billion note: data are in current year dollars (2018 est.)<br>
+$11.29 billion (2020 est.) note: data are in current year dollars<br>
+$13.31 billion (2019 est.) note: data are in current year dollars<br>
+$13.82 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Brazil 25%, China 15%, United States 11%, Argentina 11% (2019)<br>
@@ -630,6 +633,10 @@ mixture of privately owned and state-run broadcast media; more than 100 commerci
 **Internet country code**<br>
 .uy<br>
 
+**Internet users**<br>
+_total_: 2,987,405 (2020 est.)<br>
+_percent of population_: 86% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,063,701 (2021)<br>
 _subscriptions per 100 inhabitants_: 30.62 (2021)<br>
@@ -663,8 +670,8 @@ _under 914 m_: 79 (2021)<br>
 257 km gas, 160 km oil (2013)<br>
 
 **Railways**<br>
-_total_: 1,673 km (operational; government claims overall length is 2,961 km) (2016)<br>
-_standard gauge_: 1,673 km 1.435-m gauge (2016)<br>
+_total_: 1,673 km (2016) (operational; government claims overall length is 2,961 km)<br>
+_standard gauge_: 1,673 km (2016) 1.435-m gauge<br>
 
 **Roadways**<br>
 _total_: 77,732 km (2010)<br>
@@ -684,14 +691,14 @@ _major seaport(s)_: Montevideo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Maritime National Prefecture (Coast Guard)), Uruguayan Air Force (Fuerza Aerea); Guardia Nacional Republicana (paramilitary regiment of the National Police) (2021)<br>
+Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Coast Guard (Prefectura Nacional Naval)), Uruguayan Air Force (Fuerza Aerea); Guardia Nacional Republicana (paramilitary regiment of the National Police) (2022)<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-2.1% of GDP (approximately $1.47 billion) (2019 est.)<br>
-2.1% of GDP (approximately $1.51 billion) (2018 est.)<br>
-2% of GDP (approximately $1.38 billion) (2017 est.)<br>
+2.1% of GDP (2019 est.) (approximately $1.47 billion)<br>
+2.1% of GDP (2018 est.) (approximately $1.51 billion)<br>
+2% of GDP (2017 est.) (approximately $1.38 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 22,000 active personnel (14,000 Army; 5,000 Navy; 3,000 Air Force) (2021)<br>

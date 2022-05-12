@@ -80,6 +80,9 @@ locally heavy rainfall causes periodic flooding on the plateau<br>
 **Geography - note**<br>
 the province of Cabinda is an exclave, separated from the rest of the country by the Democratic Republic of the Congo<br>
 
+**Map description**<br>
+<p>Angola map showing major cities as well as parts of surrounding countries and the South Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -106,7 +109,7 @@ _0-14 years_: 47.83% (male 7,758,636/female 7,797,869)<br>
 _15-24 years_: 18.64% (male 2,950,999/female 3,109,741)<br>
 _25-54 years_: 27.8% (male 4,301,618/female 4,740,463)<br>
 _55-64 years_: 3.43% (male 523,517/female 591,249)<br>
-_65 years and over_: 2.3% (male 312,197/female 436,050) (2020 est.)<br>
+_65 years and over_: 2.3% (2020 est.) (male 312,197/female 436,050)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 94.5<br>
@@ -510,9 +513,9 @@ calendar year<br>
 -$4.834 billion (2016 est.)<br>
 
 **Exports**<br>
-$21 billion note: data are in current year dollars (2020 est.)<br>
-$35.18 billion note: data are in current year dollars (2019 est.)<br>
-$41.39 billion note: data are in current year dollars (2018 est.)<br>
+$21 billion (2020 est.) note: data are in current year dollars<br>
+$35.18 billion (2019 est.) note: data are in current year dollars<br>
+$41.39 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 62%, India 10%, United Arab Emirates 4%, Portugal 3%, Spain 3% (2019)<br>
@@ -521,9 +524,9 @@ China 62%, India 10%, United Arab Emirates 4%, Portugal 3%, Spain 3% (2019)<br>
 crude petroleum, diamonds, natural gas, refined petroleum, ships (2019)<br>
 
 **Imports**<br>
-$15.12 billion note: data are in current year dollars (2020 est.)<br>
-$22.3 billion note: data are in current year dollars (2019 est.)<br>
-$25.89 billion note: data are in current year dollars (2018 est.)<br>
+$15.12 billion (2020 est.) note: data are in current year dollars<br>
+$22.3 billion (2019 est.) note: data are in current year dollars<br>
+$25.89 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 22%, Portugal 15%, Nigeria 6%, Belgium 6%, United States 5%, South Africa 5%, Brazil 5% (2019)<br>
@@ -624,7 +627,7 @@ _electrification - rural areas_: 6% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 119,164 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020)<br>
+_subscriptions per 100 inhabitants_: (2020) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 14,645,050 (2020)<br>
@@ -642,9 +645,13 @@ state controls all broadcast media with nationwide reach; state-owned Televisao 
 **Internet country code**<br>
 .ao<br>
 
+**Internet users**<br>
+_total_: 11,831,857 (2020 est.)<br>
+_percent of population_: 36% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 230,610 This year we included fixed wireless technologies. (2021)<br>
-_subscriptions per 100 inhabitants_: 0.7 less than 1 (2021 est.)<br>
+_total_: 230,610 (2021) This year we included fixed wireless technologies.<br>
+_subscriptions per 100 inhabitants_: 0.7 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -652,7 +659,7 @@ _subscriptions per 100 inhabitants_: 0.7 less than 1 (2021 est.)<br>
 _number of registered air carriers_: 10 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 55<br>
 _annual passenger traffic on registered air carriers_: 1,516,628 (2018)<br>
-_annual freight traffic on registered air carriers_: 78.16 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 78.16 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 D2<br>
@@ -683,7 +690,7 @@ _under 914 m_: 22 (2021)<br>
 
 **Railways**<br>
 _total_: 2,852 km (2014)<br>
-_narrow gauge_: 2,729 km 1.067-m gauge (2014)<br>
+_narrow gauge_: 2,729 km (2014) 1.067-m gauge<br>
 123 km 0.600-m gauge<br>
 
 **Roadways**<br>
@@ -709,10 +716,10 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
-1.8% of GDP (approximately $2.7 billion) (2019 est.)<br>
-2.1% of GDP (approximately $3.02 billion) (2018 est.)<br>
-2.6% of GDP (approximately $3.65 billion) (2017 est.)<br>
-2.9% of GDP (approximately $3.9 billion) (2016 est.)<br>
+1.8% of GDP (2019 est.) (approximately $2.7 billion)<br>
+2.1% of GDP (2018 est.) (approximately $3.02 billion)<br>
+2.6% of GDP (2017 est.) (approximately $3.65 billion)<br>
+2.9% of GDP (2016 est.) (approximately $3.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 101,000 active troops (95,000 Army; 1,000 Navy; 5,000 Air Force); est. 10,000 Rapid Reaction Police (2021)<br>
@@ -732,7 +739,7 @@ the International Maritime Bureau reports the territorial waters of Angola are a
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: </em>None identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) None identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
+<p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: n</em>one identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 37,083 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>

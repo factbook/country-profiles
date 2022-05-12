@@ -71,6 +71,9 @@ strong winds persist throughout the year<br>
 **Geography - note**<br>
 deeply indented coast provides good natural harbors; short growing season<br>
 
+**Map description**<br>
+<p>Falkland Islands (Islas Malvinas) map showing the islands that make up this UK territory in the South Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -131,14 +134,14 @@ _total population_: 1.12 male(s)/female (2016 est.)<br>
 <strong>note:</strong> sex ratio is somewhat skewed by the high proportion of males at the Royal Air Force station, Mount Pleasant Airport (MPA); excluding MPA, the sex ratio of the total population would be 1.04<br>
 
 **Infant mortality rate**<br>
-_total_: NA (2018)<br>
+_total_: (2018) NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
 **Life expectancy at birth**<br>
 _total population_: 77.9<br>
 _male_: 75.6<br>
-_female_: 79.6 (2017 est.)<br>
+_female_: (2017 est.) 79.6<br>
 
 **Total fertility rate**<br>
 NA<br>
@@ -474,6 +477,10 @@ TV service provided by a multi-channel service provider; radio services provided
 
 **Internet country code**<br>
 .fk<br>
+
+**Internet users**<br>
+_total_: 3,343 (2019 est.)<br>
+_percent of population_: 99% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2021 est.)<br>

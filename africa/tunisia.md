@@ -75,6 +75,9 @@ flooding; earthquakes; droughts<br>
 **Geography - note**<br>
 strategic location in central Mediterranean; Malta and Tunisia are discussing the commercial exploitation of the continental shelf between their countries, particularly for oil exploration<br>
 
+**Map description**<br>
+<p>Tunisia map showing major population centers as well as parts of surrounding countries and the Mediterranean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 25.28% (male 1,529,834/female 1,433,357)<br>
 _15-24 years_: 12.9% (male 766,331/female 745,888)<br>
 _25-54 years_: 42.85% (male 2,445,751/female 2,576,335)<br>
 _55-64 years_: 10.12% (male 587,481/female 598,140)<br>
-_65 years and over_: 8.86% (male 491,602/female 546,458) (2020 est.)<br>
+_65 years and over_: 8.86% (2020 est.) (male 491,602/female 546,458)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49.6<br>
@@ -191,13 +194,13 @@ _unimproved: rural_: rural: 0.6% of population<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 4,500 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2020 est.)<br>
+(2020 est.) <200<br>
 
 **Obesity - adult prevalence rate**<br>
 26.9% (2016)<br>
@@ -488,8 +491,8 @@ calendar year<br>
 -$3.694 billion (2016 est.)<br>
 
 **Exports**<br>
-$19.17 billion note: data are in current year dollars (2019 est.)<br>
-$19.42 billion note: data are in current year dollars (2018 est.)<br>
+$19.17 billion (2019 est.) note: data are in current year dollars<br>
+$19.42 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 France 29%, Italy 17%, Germany 13% (2019)<br>
@@ -498,8 +501,8 @@ France 29%, Italy 17%, Germany 13% (2019)<br>
 insulated wiring, clothing and apparel, crude petroleum, olive oil, vehicle parts (2019)<br>
 
 **Imports**<br>
-$23.42 billion note: data are in current year dollars (2019 est.)<br>
-$24.65 billion note: data are in current year dollars (2018 est.)<br>
+$23.42 billion (2019 est.) note: data are in current year dollars<br>
+$24.65 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 France 17%, Italy 16%, Germany 8%, China 8%, Algeria 7% (2019)<br>
@@ -616,6 +619,10 @@ _international_: country code - 216; landing points for the SEA-ME-WE-4, Didon, 
 **Internet country code**<br>
 .tn<br>
 
+**Internet users**<br>
+_total_: 8,509,405 (2020 est.)<br>
+_percent of population_: 72% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,334,059 (2021)<br>
 _subscriptions per 100 inhabitants_: 11.29 (2021)<br>
@@ -626,7 +633,7 @@ _subscriptions per 100 inhabitants_: 11.29 (2021)<br>
 _number of registered air carriers_: 7 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 53<br>
 _annual passenger traffic on registered air carriers_: 4,274,199 (2018)<br>
-_annual freight traffic on registered air carriers_: 13.23 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 13.23 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 TS<br>
@@ -651,10 +658,10 @@ _under 914 m_: 8 (2021)<br>
 68 km condensate, 3111 km gas, 1381 km oil, 453 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 2,173 km (1,991 in use) (2014)<br>
-_standard gauge_: 471 km 1.435-m gauge (2014)<br>
-_narrow gauge_: 1,694 km 1.000-m gauge (65 km electrified) (2014)<br>
-_dual gauge_: 8 km 1.435-1.000-m gauge (2014)<br>
+_total_: 2,173 km (2014) (1,991 in use)<br>
+_standard gauge_: 471 km (2014) 1.435-m gauge<br>
+_narrow gauge_: 1,694 km (2014) 1.000-m gauge (65 km electrified)<br>
+_dual gauge_: 8 km (2014) 1.435-1.000-m gauge<br>
 
 **Roadways**<br>
 _paved_: 20,000 km (2015)<br>
@@ -674,10 +681,10 @@ note - the National Police has primary responsibility for law enforcement in the
 
 **Military expenditures**<br>
 2.9% of GDP (2020 est.)<br>
-3.8% of GDP (approximately $2.81 billion) (2019 est.)<br>
-3.9% of GDP (approximately $2.84 billion) (2018 est.)<br>
-4% of GDP (approximately $2.81 billion) (2017 est.)<br>
-4.4% of GDP (approximately $2.95 billion) (2016 est.)<br>
+3.8% of GDP (2019 est.) (approximately $2.81 billion)<br>
+3.9% of GDP (2018 est.) (approximately $2.84 billion)<br>
+4% of GDP (2017 est.) (approximately $2.81 billion)<br>
+4.4% of GDP (2016 est.) (approximately $2.95 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 35,000 active personnel (25,000 Army; 5,000 Navy; 5,000 Air Force); est. 10,000 National Guard (2021)<br>

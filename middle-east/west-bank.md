@@ -60,7 +60,7 @@ _other_: 55.2% (2018 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Irrigated land**<br>
-240 sq km; note - includes Gaza Strip (2012)<br>
+(2012) 240 sq km; note - includes Gaza Strip<br>
 
 **Major lakes (area sq km)**<br>
 _Salt water lake(s)_: Dead Sea (shared with Jordan and Israel) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
@@ -73,6 +73,9 @@ droughts<br>
 
 **Geography - note**<br>
 landlocked; highlands are main recharge area for Israel's coastal aquifers; there are about 380 Israeli civilian sites, including about 213 settlements and 132 small outpost communities in the West Bank and 35 sites in East Jerusalem (2017)<br>
+
+**Map description**<br>
+<p>West Bank map showing its major population centers as well as parts of the two countries that surround it – Israel to the west and Jordan to the east.</p><br>
 
 ## People and Society
 
@@ -99,7 +102,7 @@ _0-14 years_: 35.31% (male 525,645/female 498,458)<br>
 _15-24 years_: 20.75% (male 307,420/female 294,469)<br>
 _25-54 years_: 35.19% (male 516,758/female 503,626)<br>
 _55-64 years_: 5.12% (male 76,615/female 72,006)<br>
-_65 years and over_: 3.62% (male 48,387/female 56,650) (2020 est.)<br>
+_65 years and over_: 3.62% (2020 est.) (male 48,387/female 56,650)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 71.2<br>
@@ -207,8 +210,8 @@ NA<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.7% Includes both the Gaza Strip and the West Bank (2020)<br>
-_women married by age 18_: 13.4% Includes both the Gaza Strip and the West Bank (2020 est.)<br>
+_women married by age 15_: 0.7% (2020) Includes both the Gaza Strip and the West Bank<br>
+_women married by age 18_: 13.4% (2020 est.) Includes both the Gaza Strip and the West Bank<br>
 
 **Education expenditures**<br>
 5.3% of GDP (2018)<br>
@@ -405,16 +408,16 @@ calendar year<br>
 -$1.348 billion (2016 est.)<br>
 
 **Exports**<br>
-$2.65 billion note: data are in current year dollars and includes Gaza Strip (2019 est.)<br>
-$2.6 billion note: data are in current year dollars and includes Gaza Strip (2018 est.)<br>
+$2.65 billion (2019 est.) note: data are in current year dollars and includes Gaza Strip<br>
+$2.6 billion (2018 est.) note: data are in current year dollars and includes Gaza Strip<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Exports - commodities**<br>
 stone, olives, fruit, vegetables, limestone<br>
 
 **Imports**<br>
-$9.15 billion note: data are in current year dollars and includes Gaza Strip (2019 est.)<br>
-$9.02 billion note: data are in current year dollars and includes Gaza Strip (2018 est.)<br>
+$9.15 billion (2019 est.) note: data are in current year dollars and includes Gaza Strip<br>
+$9.02 billion (2018 est.) note: data are in current year dollars and includes Gaza Strip<br>
 <strong>note:</strong> data include the Gaza Strip<br>
 
 **Imports - commodities**<br>
@@ -513,8 +516,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 466,283 (includes Gaza Strip) (2017 est.) (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (includes Gaza Strip) (2016 est.) (2020 est.)<br>
+_total subscriptions_: 466,283 (2020 est.) (includes Gaza Strip) (2017 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2020 est.) (includes Gaza Strip) (2016 est.)<br>
 <strong>note</strong>: includes Gaza Strip<br>
 
 **Telephones - mobile cellular**<br>
@@ -533,6 +536,10 @@ the Palestinian Authority operates 1 TV and 1 radio station; about 20 private TV
 
 **Internet country code**<br>
 .psnote - same as Gaza Strip<br>
+
+**Internet users**<br>
+_total_: 3,602,452 (2020 est.) (includes Gaza Strip)<br>
+_percent of population_: 75% (2020 est.) (includes Gaza Strip)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 373,050 (2020 est.)<br>

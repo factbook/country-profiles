@@ -74,6 +74,9 @@ hot, dry, dusty harmattan haze may reduce visibility during dry season; brush fi
 **Geography - note**<br>
 this small country is swampy along its western coast and low-lying inland<br>
 
+**Map description**<br>
+<p>Guinea-Bissau map showing major cities as well as parts of surrounding countries and the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -100,7 +103,7 @@ _0-14 years_: 43.17% (male 417,810/female 414,105)<br>
 _15-24 years_: 20.38% (male 192,451/female 200,370)<br>
 _25-54 years_: 30.24% (male 275,416/female 307,387)<br>
 _55-64 years_: 3.12% (male 29,549/female 30,661)<br>
-_65 years and over_: 3.08% (male 25,291/female 34,064) (2020 est.)<br>
+_65 years and over_: 3.08% (2020 est.) (male 25,291/female 34,064)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 81.2<br>
@@ -463,8 +466,8 @@ calendar year<br>
 $16 million (2016 est.)<br>
 
 **Exports**<br>
-$290 million note: data are in current year dollars (2019 est.)<br>
-$380 million note: data are in current year dollars (2018 est.)<br>
+$290 million (2019 est.) note: data are in current year dollars<br>
+$380 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 India 50%, Belgium 28%, Cote d'Ivoire 8% (2019)<br>
@@ -473,8 +476,8 @@ India 50%, Belgium 28%, Cote d'Ivoire 8% (2019)<br>
 cashews, gold, fish, lumber, aluminum ores (2019)<br>
 
 **Imports**<br>
-$500 million note: data are in current year dollars (2019 est.)<br>
-$460 million note: data are in current year dollars (2018 est.)<br>
+$500 million (2019 est.) note: data are in current year dollars<br>
+$460 million (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Portugal 31%, Senegal 20%, China 10%, Netherlands 7%, Pakistan 7% (2019)<br>
@@ -593,9 +596,13 @@ _international_: country code - 245; ACE submarine cable connecting Guinea-Bissa
 **Internet country code**<br>
 .gw<br>
 
+**Internet users**<br>
+_total_: 452,640 (2020 est.)<br>
+_percent of population_: 23% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 2,383 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.12 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.12 (2021) less than 1<br>
 
 ## Transportation
 
@@ -622,7 +629,7 @@ _paved_: 453 km (2018)<br>
 _unpaved_: 3,947 km (2018)<br>
 
 **Waterways**<br>
-(rivers are partially navigable; many inlets and creeks provide shallow-water access to much of interior) (2012)<br>
+(2012) (rivers are partially navigable; many inlets and creeks provide shallow-water access to much of interior)<br>
 
 **Merchant marine**<br>
 _total_: 8<br>
@@ -639,10 +646,10 @@ note - the Public Order Police is responsible for maintaining law and order, whi
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
-1.9% of GDP (approximately $50 million) (2019 est.)<br>
-1.7% of GDP (approximately $45 million) (2018 est.)<br>
-1.7% of GDP (approximately $45 million) (2017 est.)<br>
-1.6% of GDP (approximately $40 million) (2016 est.)<br>
+1.9% of GDP (2019 est.) (approximately $50 million)<br>
+1.7% of GDP (2018 est.) (approximately $45 million)<br>
+1.7% of GDP (2017 est.) (approximately $45 million)<br>
+1.6% of GDP (2016 est.) (approximately $40 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 total active troops, including a few hundred air and naval personnel (2021)<br>

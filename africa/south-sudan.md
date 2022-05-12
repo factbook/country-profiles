@@ -72,6 +72,9 @@ clusters found in urban areas, particularly in the western interior and around t
 **Geography - note**<br>
 landlocked; The Sudd is a vast swamp in the north central region of South Sudan, formed by the White Nile, its size is variable but can reach some 15% of the country's total area during the rainy season; it is one of the world's largest wetlands<br>
 
+**Map description**<br>
+<p>South Sudan map showing major population centers as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -100,7 +103,7 @@ _0-14 years_: 41.58% (male 2,238,534/female 2,152,685)<br>
 _15-24 years_: 21.28% (male 1,153,108/female 1,094,568)<br>
 _25-54 years_: 30.67% (male 1,662,409/female 1,577,062)<br>
 _55-64 years_: 3.93% (male 228,875/female 186,571)<br>
-_65 years and over_: 2.53% (male 153,502/female 113,930) (2020 est.)<br>
+_65 years and over_: 2.53% (2020 est.) (male 153,502/female 113,930)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 80.8<br>
@@ -261,7 +264,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; South Sudan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to economic downturn, civil insecurity, lingering impact of floods and prolonged conflict - despite sustained humanitarian assistance, food insecurity still affects large segments of the population, driven by insufficient food supplies, an economic downturn, high food prices and the lingering impact of widespread floods in 2020; about 7.2 million people (about 60% of the total population) are estimated to be severely food insecure in the April&minus;July 2021 period; particular concern exists for households in Jonglei, Northern Bahr-el-Ghazal and Warrap states and in neighboring Pibor Administrative Area, where 60-85% of the&nbsp; population is estimated to be severely food insecure, with a total of 108,000 people facing &ldquo;Catastrophe&rdquo; levels of food insecurity (2021)<br>
+_widespread lack of access_: due to economic downturn, civil insecurity, lingering impact of floods and prolonged conflict - despite sustained humanitarian assistance, food insecurity still affects large segments of the population, driven by insufficient food supplies, an economic downturn, high food prices and the lingering impact of widespread floods in 2020; about 7.2 million people (about 60% of the total population) are estimated to be severely food insecure in the April&minus;July 2021 period; particular concern exists for households in Jonglei, Northern Bahr-el-Ghazal and Warrap states and in neighboring Pibor Administrative Area, where 60-85% of the&nbsp; population is estimated to be severely food insecure, with a total of 108,000 people facing &ldquo;Catastrophe&rdquo; levels of food insecurity (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,680,681 tons (2013 est.)<br>
@@ -436,8 +439,8 @@ _expenditures_: 298.6 million (FY2017/18 est.)<br>
 $39 million (2016 est.)<br>
 
 **Exports**<br>
-$3.01 billion note: data are in current year dollars (2019 est.)<br>
-$3.09 billion note: data are in current year dollars (2018 est.)<br>
+$3.01 billion (2019 est.) note: data are in current year dollars<br>
+$3.09 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 88%, United Arab Emirates 5% (2019)<br>
@@ -446,8 +449,8 @@ China 88%, United Arab Emirates 5% (2019)<br>
 crude petroleum, gold, forage crops, lumber, insect resins (2019)<br>
 
 **Imports**<br>
-$3.07 billion note: data are in current year dollars (2019 est.)<br>
-$3.57 billion note: data are in current year dollars (2018 est.)<br>
+$3.07 billion (2019 est.) note: data are in current year dollars<br>
+$3.57 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 37%, Kenya 18%, China 18% (2019)<br>
@@ -543,7 +546,7 @@ _electrification - rural areas_: 23.6% (2018)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: less than 1<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 2,221,970 (2019)<br>
@@ -561,9 +564,13 @@ _international_: country code - 211 (2017)<br>
 **Internet country code**<br>
 .ss<br>
 
+**Internet users**<br>
+_total_: 783,561 (2020 est.)<br>
+_percent of population_: 7% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 200 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -615,10 +622,10 @@ note - numerous irregular/militia forces operate in the country with official kn
 
 **Military expenditures**<br>
 2.3% of GDP (2020 est.)<br>
-3.1% of GDP (approximately $1.62 billion) (2019 est.)<br>
-3.2% of GDP (approximately $1.54 billion) (2018 est.)<br>
-2.1% of GDP (approximately $660 million) (2017 est.)<br>
-4.4% of GDP (approximately $1.0 billion) (2016 est.)<br>
+3.1% of GDP (2019 est.) (approximately $1.62 billion)<br>
+3.2% of GDP (2018 est.) (approximately $1.54 billion)<br>
+2.1% of GDP (2017 est.) (approximately $660 million)<br>
+4.4% of GDP (2016 est.) (approximately $1.0 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the South Sudan People’s Defense Force (SSPDF) has an estimated 150-200,000 active personnel, mostly ground forces with small contingents of air and riverine forces (2021)<br>

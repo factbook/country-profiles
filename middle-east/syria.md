@@ -79,6 +79,9 @@ significant population density along the Mediterranean coast; larger concentrati
 **Geography - note**<br>
 the capital of Damascus - located at an oasis fed by the Barada River - is thought to be one of the world's oldest continuously inhabited cities; there are 42 Israeli settlements and civilian land use sites in the Israeli-controlled Golan Heights (2017)<br>
 
+**Map description**<br>
+<p>Syria map showing major cities as well as parts of surrounding countries and the Mediterranean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -105,7 +108,7 @@ _0-14 years_: 33.47% (male 3,323,072/female 3,170,444)<br>
 _15-24 years_: 19.34% (male 1,872,903/female 1,879,564)<br>
 _25-54 years_: 37.31% (male 3,558,241/female 3,679,596)<br>
 _55-64 years_: 5.41% (male 516,209/female 534,189)<br>
-_65 years and over_: 4.46% (male 404,813/female 459,417) (2020 est.)<br>
+_65 years and over_: 4.46% (2020 est.) (male 404,813/female 459,417)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.4<br>
@@ -128,7 +131,7 @@ _female_: 24 years (2020 est.)<br>
 4.22 deaths/1,000 population (2022 est.)<br>
 
 **Net migration rate**<br>
-40.58 migrant(s)/1,000 population NA (2022 est.)<br>
+40.58 migrant(s)/1,000 population (2022 est.) NA<br>
 
 **Population distribution**<br>
 significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
@@ -195,13 +198,13 @@ _unimproved: rural_: rural: 0.5% of population<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020)<br>
+(2020) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<1,000 (2020)<br>
+(2020) <1,000<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020)<br>
+(2020) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
@@ -606,6 +609,10 @@ state-run TV and radio broadcast networks;&nbsp;state operates 2 TV networks and
 **Internet country code**<br>
 .sy<br>
 
+**Internet users**<br>
+_total_: 6,300,237 (2020 est.)<br>
+_percent of population_: 36% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,549,356 (2021)<br>
 _subscriptions per 100 inhabitants_: 8.85 (2021)<br>
@@ -616,7 +623,7 @@ _subscriptions per 100 inhabitants_: 8.85 (2021)<br>
 _number of registered air carriers_: 3 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 11<br>
 _annual passenger traffic on registered air carriers_: 17,896 (2018)<br>
-_annual freight traffic on registered air carriers_: 30,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 30,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 YK<br>
@@ -645,8 +652,8 @@ _under 914 m_: 48 (2021)<br>
 
 **Railways**<br>
 _total_: 2,052 km (2014)<br>
-_standard gauge_: 1,801 km 1.435-m gauge (2014)<br>
-_narrow gauge_: 251 km 1.050-m gauge (2014)<br>
+_standard gauge_: 1,801 km (2014) 1.435-m gauge<br>
+_narrow gauge_: 251 km (2014) 1.050-m gauge<br>
 
 **Roadways**<br>
 _total_: 69,873 km (2010)<br>
@@ -654,7 +661,7 @@ _paved_: 63,060 km (2010)<br>
 _unpaved_: 6,813 km (2010)<br>
 
 **Waterways**<br>
-900 km (navigable but not economically significant) (2011)<br>
+900 km (2011) (navigable but not economically significant)<br>
 
 **Merchant marine**<br>
 _total_: 28<br>
@@ -670,11 +677,11 @@ Syrian Armed Forces: Syrian Arab Army (includes Republican Guard), Syrian Naval 
 note - as of 2021, the Syrian military was supported by numerous pro-government and pro-Iranian militia forces<br>
 
 **Military expenditures**<br>
-6.5% of GDP (approximately $2.9 billion) (2019 est.)<br>
-6.7% of GDP (approximately $2.8 billion) (2018 est.)<br>
-6.8% of GDP (approximately $2.7 billion) (2017 est.)<br>
-6.9% of GDP (approximately $2.85 billion) (2016 est.)<br>
-7.2% of GDP (approximately $3.3 billion) (2015 est.)<br>
+6.5% of GDP (2019 est.) (approximately $2.9 billion)<br>
+6.7% of GDP (2018 est.) (approximately $2.8 billion)<br>
+6.8% of GDP (2017 est.) (approximately $2.7 billion)<br>
+6.9% of GDP (2016 est.) (approximately $2.85 billion)<br>
+7.2% of GDP (2015 est.) (approximately $3.3 billion)<br>
 
 **Military and security service personnel strengths**<br>
 current estimates not available; since the start of the civil war in 2011, the Syrian Armed Forces (SAF) have taken significant losses in personnel due to casualties and desertions; prior to the civil war, the SAF had approximately 300,000 active duty troops, including 200-225,000 Army, plus about 300,000 reserve forces (2021)<br>

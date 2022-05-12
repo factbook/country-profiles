@@ -78,6 +78,9 @@ coast has heavy surf and no natural harbors; during the rainy season torrential 
 **Geography - note**<br>
 most of the inhabitants live along the sandy coastal region; apart from the capital area, the forested interior is sparsely populated<br>
 
+**Map description**<br>
+<p>Cote d’Ivoire map showing major cities as well as parts of surrounding countries and the Gulf of Guinea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -107,7 +110,7 @@ _0-14 years_: 38.53% (male 5,311,971/female 5,276,219)<br>
 _15-24 years_: 20.21% (male 2,774,374/female 2,779,012)<br>
 _25-54 years_: 34.88% (male 4,866,957/female 4,719,286)<br>
 _55-64 years_: 3.53% (male 494,000/female 476,060)<br>
-_65 years and over_: 2.85% (male 349,822/female 433,385) (2020 est.)<br>
+_65 years and over_: 2.85% (2020 est.) (male 349,822/female 433,385)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 79.8<br>
@@ -354,8 +357,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010); Vice President Ti&eacute;moko Meyliet KONE (since 19 April 2022) note - Vice President Ti&eacute;moko Meyliet KONE was appointed by President Alassane Dramane OUATTARA before a Congressional meeting on 19 April 2022<br>
-_head of government_: Prime Minister Patrick ACHI (since 19 April 2022) <br>note - Prime Minister ACHI resigned on 13 April 2022 and was reappointed by President Alassane Dramane OUATTARA before a Congressional meeting on 19 April 2022<br>
+_chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010); Vice President Ti&eacute;moko Meyliet KONE (since 19 April 2022); note - Vice President Ti&eacute;moko Meyliet KONE was appointed by President Alassane Dramane OUATTARA before a Congressional meeting on 19 April 2022<br>
+_head of government_: Prime Minister Patrick ACHI (since 19 April 2022); note - Prime Minister ACHI resigned on 13 April 2022 and was reappointed by President Alassane Dramane OUATTARA before a Congressional meeting on 19 April 2022<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term ; election last held on 31 October 2020 (next to be held in October 2025); vice president elected on same ballot as president; prime minister appointed by the president; note &ndash; because President OUATTARA promulgated the new constitution during his second term, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms<br>
 _election results_: Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%<br>
@@ -511,8 +514,8 @@ calendar year<br>
 -$414 million (2016 est.)<br>
 
 **Exports**<br>
-$13.79 billion note: data are in current year dollars (2019 est.)<br>
-$13.08 billion note: data are in current year dollars (2018 est.)<br>
+$13.79 billion (2019 est.) note: data are in current year dollars<br>
+$13.08 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Netherlands 10%, United States 6%, France 6%, Spain 5%, Malaysia 5%, Switzerland 5%, Germany 5%, Vietnam 5% (2019)<br>
@@ -521,8 +524,8 @@ Netherlands 10%, United States 6%, France 6%, Spain 5%, Malaysia 5%, Switzerland
 cocoa beans, gold, rubber, refined petroleum, crude petroleum (2019)<br>
 
 **Imports**<br>
-$12.88 billion note: data are in current year dollars (2019 est.)<br>
-$13.18 billion note: data are in current year dollars (2018 est.)<br>
+$12.88 billion (2019 est.) note: data are in current year dollars<br>
+$13.18 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 18%, Nigeria 13%, France 11% (2019)<br>
@@ -641,9 +644,13 @@ state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up of&nbsp;
 **Internet country code**<br>
 .ci<br>
 
+**Internet users**<br>
+_total_: 9,496,179 (2020 est.)<br>
+_percent of population_: 36% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 260,097 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.99 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.99 (2021) less than 1<br>
 
 ## Transportation
 
@@ -651,7 +658,7 @@ _subscriptions per 100 inhabitants_: 0.99 less than 1 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 10<br>
 _annual passenger traffic on registered air carriers_: 779,482 (2018)<br>
-_annual freight traffic on registered air carriers_: 5.8 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 5.8 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 TU<br>
@@ -679,7 +686,7 @@ _under 914 m_: 3 (2021)<br>
 
 **Railways**<br>
 _total_: 660 km (2008)<br>
-_narrow gauge_: 660 km 1.000-m gauge (2008)<br>
+_narrow gauge_: 660 km (2008) 1.000-m gauge<br>
 <strong>note:</strong> an additional 622 km of this railroad extends into Burkina Faso<br>
 
 **Roadways**<br>
@@ -689,7 +696,7 @@ _unpaved_: 75,494 km (2007)<br>
 <strong>note:</strong> includes intercity and urban roads; another 20,000 km of dirt roads are in poor condition and 150,000 km of dirt roads are impassable<br>
 
 **Waterways**<br>
-980 km (navigable rivers, canals, and numerous coastal lagoons) (2011)<br>
+980 km (2011) (navigable rivers, canals, and numerous coastal lagoons)<br>
 
 **Merchant marine**<br>
 _total_: 25<br>
@@ -706,10 +713,10 @@ Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republi
 
 **Military expenditures**<br>
 1.1% of GDP (2020 est.)<br>
-0.1% of GDP (approximately $710 million) (2019 est.)<br>
-1.2% of GDP (approximately $780 million) (2018 est.)<br>
-1.1% of GDP (approximately $720 million) (2017 est.)<br>
-1.2% of GDP (approximately $720 million) (2016 est.)<br>
+1.1% of GDP (2019 est.) (approximately $710 million)<br>
+1.2% of GDP (2018 est.) (approximately $780 million)<br>
+1.1% of GDP (2017 est.) (approximately $720 million)<br>
+1.2% of GDP (2016 est.) (approximately $720 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active troops (23,000 Army, including about 2,000 Special Forces; 1,000 Navy; 1,000 Air Force); est. 5-10,000 Gendarmerie (2021)<br>

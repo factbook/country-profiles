@@ -79,6 +79,9 @@ in the north, the mountains are geologically unstable and subject to earthquakes
 **Geography - note**<br>
 strategic location along Strait of Gibraltar; the only African nation to have both Atlantic and Mediterranean coastlines; the waters off the Atlantic coast are particularly rich fishing areas<br>
 
+**Map description**<br>
+<p>Morocco map showing major population centers as well as parts of surrounding countries and the North Atlantic Ocean. Note that in 2020 the US recognized Western Sahara as part of Morocco.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ _0-14 years_: 27.04% (male 4,905,626/female 4,709,333)<br>
 _15-24 years_: 16.55% (male 2,953,523/female 2,930,708)<br>
 _25-54 years_: 40.64% (male 7,126,781/female 7,325,709)<br>
 _55-64 years_: 8.67% (male 1,533,771/female 1,548,315)<br>
-_65 years and over_: 7.11% (male 1,225,307/female 1,302,581) (2020 est.)<br>
+_65 years and over_: 7.11% (2020 est.) (male 1,225,307/female 1,302,581)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Dependency ratios**<br>
@@ -217,7 +220,7 @@ _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-&lt;.1% (2020 est.)<br>
+(2020 est.) &lt;.1%<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
@@ -225,7 +228,7 @@ _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;500 (2020 est.)<br>
+(2020 est.) &lt;500<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Major infectious diseases**<br>
@@ -541,9 +544,9 @@ calendar year<br>
 -$6.758 billion (2018 est.)<br>
 
 **Exports**<br>
-$37.52 billion note: data are in current year dollars (2020 est.)<br>
-$44.05 billion note: data are in current year dollars (2019 est.)<br>
-$43.25 billion note: data are in current year dollars (2018 est.)<br>
+$37.52 billion (2020 est.) note: data are in current year dollars<br>
+$44.05 billion (2019 est.) note: data are in current year dollars<br>
+$43.25 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Spain 23%, France 19% (2019)<br>
@@ -552,9 +555,9 @@ Spain 23%, France 19% (2019)<br>
 cars, insulated wiring, fertilizers, phosphoric acid, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$46.26 billion note: data are in current year dollars (2020 est.)<br>
-$54.1 billion note: data are in current year dollars (2019 est.)<br>
-$55.38 billion note: data are in current year dollars (2018 est.)<br>
+$46.26 billion (2020 est.) note: data are in current year dollars<br>
+$54.1 billion (2019 est.) note: data are in current year dollars<br>
+$55.38 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Spain 19%, France 11%, China 9%, United States 7%, Germany 5%, Turkey 5%, Italy 5% (2019)<br>
@@ -660,7 +663,7 @@ _total subscriptions_: 49,421,023 (2020)<br>
 _subscriptions per 100 inhabitants_: 133.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: despite Morocco's economic progress, the country suffers from high unemployment and illiteracy affecting telecom market, particularly in rural areas; national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay; one of the most state-of-the-art markets in Africa; high mobile penetration rates in the region with low cost for broadband Internet access; improvement in LTE reach and capabilities; 5G tests underway; mobile Internet accounts for 93% of all Internet connections; World Bank provided funds for Morocco&rsquo;s digital transformation; government supported digital education during pandemic; submarine cables and satellite provide connectivity to Asia, Africa, the Middle East, Europe, and Australia; importer of broadcasting equipment and video displays from China (2020)<br>
+_general assessment_: despite Morocco's economic progress, the country suffers from high unemployment and illiteracy affecting telecom market, particularly in rural areas; national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay; one of the most state-of-the-art markets in Africa; high mobile penetration rates in the region with low cost for broadband Internet access; improvement in LTE reach and capabilities; service providers have all successfully completed 5G proofs of concept and are currently lining up 5G equipment providers for both radio and core technology; regulatory agency expects to conduct the 5G spectrum auction in 2023; mobile Internet accounts for 93% of all Internet connections; World Bank provided funds for Morocco&rsquo;s digital transformation; government supported digital education during pandemic; submarine cables and satellite provide connectivity to Asia, Africa, the Middle East, Europe, and Australia; importer of broadcasting equipment, surveillance equipment, scanning equipment, and video displays from China (2022)<br>
 _domestic_: fixed-line teledensity is just over 6 per 100 persons and mobile-cellular subscribership is nearly 134 per 100 persons; good system composed of open-wire lines, cables, and microwave radio relay links; principal switching centers are Casablanca and Rabat (2020)<br>
 _international_: country code - 212; landing point for the Atlas Offshore, Estepona-Tetouan, Canalink&nbsp;and SEA-ME-WE-3 fiber-optic telecommunications undersea cables that provide connectivity to Asia,&nbsp;Africa,&nbsp;the Middle East, Europe and Australia; satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat; microwave radio relay to Gibraltar, Spain, and Western Sahara (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -670,6 +673,10 @@ _international_: country code - 212; landing point for the Atlas Offshore, Estep
 
 **Internet country code**<br>
 .ma<br>
+
+**Internet users**<br>
+_total_: 31,004,869 (2020 est.)<br>
+_percent of population_: 84% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,102,434 (2021)<br>
@@ -684,7 +691,7 @@ the University of al-Quarawiyyin Library in Fez is recognized as the oldest exis
 _number of registered air carriers_: 3 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 76<br>
 _annual passenger traffic on registered air carriers_: 8,132,917 (2018)<br>
-_annual freight traffic on registered air carriers_: 97.71 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 97.71 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 CN<br>
@@ -715,7 +722,7 @@ _under 914 m_: 6 (2021)<br>
 
 **Railways**<br>
 _total_: 2,067 km (2014)<br>
-_standard gauge_: 2,067 km 1.435-m gauge (1,022 km electrified) (2014)<br>
+_standard gauge_: 2,067 km (2014) 1.435-m gauge (1,022 km electrified)<br>
 
 **Roadways**<br>
 _total_: 57,300 km (2018)<br>
@@ -733,15 +740,14 @@ _LNG terminal(s) (import)_: Jorf Lasfar (planned)<br>
 
 **Military and security forces**<br>
 Royal Armed Forces: Royal Moroccan Army (includes the Moroccan Royal Guard), Royal Moroccan Navy (includes Coast Guard, marines), Royal Moroccan Air Force; Ministry of Defense (aka Administration of National Defense): Royal Moroccan Gendarmerie; Ministry of Interior: National Police, Auxiliary Forces (provides support to the Gendarmerie and National Police; includes a Mobile Intervention Corps, a motorized paramilitary security force that supplements the military and the police as needed) (2021)<br>
-note(s) - the National Police manages internal law enforcement in cities; the Royal Gendarmerie is responsible for law enforcement in rural regions and on national highways
-<br><br> <br>
+note(s) - the National Police manages internal law enforcement in cities; the Royal Gendarmerie is responsible for law enforcement in rural regions and on national highways <br><br> <br>
 
 **Military expenditures**<br>
 4.5% of GDP (2020 est.)<br>
-3.4% of GDP (approximately $7.46 billion) (2019 est.)<br>
-3.3% of GDP (approximately $7.12 billion) (2018 est.)<br>
-3.4% of GDP (approximately $7.08 billion) (2017 est.)<br>
-3.4% of GDP (approximately $6.9 billion) (2016 est.)<br>
+3.4% of GDP (2019 est.) (approximately $7.46 billion)<br>
+3.3% of GDP (2018 est.) (approximately $7.12 billion)<br>
+3.4% of GDP (2017 est.) (approximately $7.08 billion)<br>
+3.4% of GDP (2016 est.) (approximately $6.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); est. 25,000 Gendarmerie (2021)<br>
@@ -750,13 +756,13 @@ approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Fo
 the Moroccan military's inventory is comprised of mostly older French and US equipment; since 2010, it has received equipment from about a dozen countries with France and the US as the leading suppliers (2021)<br>
 
 **Military service age and obligation**<br>
-19-25 years of age for 12-month compulsory military service (reintroduced in 2019); both sexes are obligated to military service (2021)<br>
+19-25 years of age for 12-month compulsory military service (reintroduced in 2019); both sexes (age 20-27 for women) are obligated to national service (2021)<br>
 
 **Military deployments**<br>
 770 Central African Republic (MINUSCA); 920 Democratic Republic of the Congo (MONUSCO) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>the UN Mission for the Referendum in Western Sahara (MINURSO) was established by Security Council resolution 690 in April 1991 in accordance with settlement proposals accepted in August 1988 by Morocco and the Polisario Front (aka Frente Popular para la Liberación de Saguia el-Hamra y de Río de Oro or Frente Polisario); MINURSO was unable to carry out all the original settlement proposals, but as of 2021 continued to monitor the cease-fire and reduce the threat of mines and unexploded ordnance, and has provided logistic support to the Office of the UN High Commissioner for Refugees (UNHCR)-led confidence building measures with personnel and air and ground assets<br><br>Morocco has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+<p>Moroccan military forces were engaged in combat operations against the Polisario Front (aka Frente Popular para la Liberación de Saguia el-Hamra y de Río de Oro or Frente Polisario) from 1975 until a UN-brokered cease-fire in 1991; a 2,500-kilometer long sand berm, built in 1987, separates the forces of Morocco and the Polisario Front<br><br>the UN Mission for the Referendum in Western Sahara (MINURSO) was established by Security Council resolution 690 in April 1991 in accordance with settlement proposals accepted in August 1988 by Morocco and the Polisario Front; MINURSO was unable to carry out all the original settlement proposals, but as of 2021 continued to monitor the cease-fire and reduce the threat of mines and unexploded ordnance, and has provided logistic support to the Office of the UN High Commissioner for Refugees (UNHCR)-led confidence building measures with personnel and air and ground assets<br><br>Morocco has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 

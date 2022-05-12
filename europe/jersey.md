@@ -69,6 +69,9 @@ very large tidal variation can be hazardous to navigation<br>
 **Geography - note**<br>
 largest and southernmost of Channel Islands; about 30% of population concentrated in Saint Helier<br>
 
+**Map description**<br>
+<p>Jersey map showing this British crown dependency island in the English Channel.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -79,7 +82,7 @@ _noun_: Channel Islander(s)<br>
 _adjective_: Channel Islander<br>
 
 **Ethnic groups**<br>
-Jersey 46.4%, British 32.7%, Portuguese/Madeiran 8.2%, Polish 3.3%, Irish, French, and other White 7.1%, other 2.4% (2011 est.)<br>
+Jersey 44.4%, British 30.5%, Portuguese/Madeiran 9.4%, Polish 3%, Irish 2.1%, other 10.6% (2021 est.)<br>
 
 **Languages**<br>
 <p>English (official) 94.5%, Portuguese 4.6%, other .9% (includes French (official) and Jerriais)</p> (2001 est.)<br>
@@ -93,7 +96,7 @@ _0-14 years_: 16.63% (male 8,689/female 8,124)<br>
 _15-24 years_: 12.98% (male 6,764/female 6,354)<br>
 _25-54 years_: 40.12% (male 20,499/female 20,054)<br>
 _55-64 years_: 13.22% (male 6,515/female 6,844)<br>
-_65 years and over_: 17.05% (male 7,324/female 9,906) (2020 est.)<br>
+_65 years and over_: 17.05% (2020 est.) (male 7,324/female 9,906)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49<br>
@@ -401,7 +404,7 @@ Jersey pounds (JEP) per US dollar<br>
 _electrification - total population_: 100% (2020)<br>
 
 **Electricity - production**<br>
-NA (2017)<br>
+(2017) NA<br>
 
 **Electricity - consumption**<br>
 630.1 million kWh (2004 est.)<br>
@@ -428,14 +431,18 @@ multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey; 
 **Internet country code**<br>
 .je<br>
 
+**Internet users**<br>
+_total_: 44,198 (2019 est.)<br>
+_percent of population_: 41% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 39,699 NA (2020)<br>
-_subscriptions per 100 inhabitants_: 36.8 NA (2020)<br>
+_total_: 39,699 (2020) NA<br>
+_subscriptions per 100 inhabitants_: 36.8 (2020) NA<br>
 
 ## Transportation
 
 **National air transport system**<br>
-_number of registered air carriers_: 1 (registered in UK) (2020)<br>
+_number of registered air carriers_: 1 (2020) (registered in UK)<br>
 _inventory of registered aircraft operated by air carriers_: 4 (registered in UK)<br>
 
 **Airports**<br>

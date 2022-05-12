@@ -67,7 +67,7 @@ _forest_: 29.2% (2018 est.)<br>
 _other_: 18.1% (2018 est.)<br>
 
 **Irrigated land**<br>
-26,420 sq km 26,950 sq km (2012)<br>
+26,420 sq km (2012) 26,950 sq km<br>
 <strong>metropolitan France: </strong>26,000 sq km (2012)<br>
 
 **Major lakes (area sq km)**<br>
@@ -90,6 +90,9 @@ much of the population is concentrated in the north and southeast; although ther
 
 **Geography - note**<br>
 largest West European nation; most major French rivers - the Meuse, Seine, Loire, Charente, Dordogne, and Garonne - flow northward or westward into the Atlantic Ocean, only the Rhone flows southward into the Mediterranean Sea<br>
+
+**Map description**<br>
+<p>France map showing major cities as well as parts of surrounding countries and water bodies.</p><br>
 
 ## People and Society
 
@@ -118,7 +121,7 @@ _0-14 years_: 18.36% (male 6,368,767/female 6,085,318)<br>
 _15-24 years_: 11.88% (male 4,122,981/female 3,938,938)<br>
 _25-54 years_: 36.83% (male 12,619,649/female 12,366,120)<br>
 _55-64 years_: 12.47% (male 4,085,564/female 4,376,272)<br>
-_65 years and over_: 20.46% (male 6,029,303/female 7,855,244) (2020 est.)<br>
+_65 years and over_: 20.46% (2020 est.) (male 6,029,303/female 7,855,244)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 62.4<br>
@@ -216,7 +219,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 190,000 (2019 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2019 est.)<br>
+(2019 est.) <500<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 30 March 2022, France has reported a total of 24,527,949 cases of COVID-19 or 37,712.47 cumulative cases of COVID-19 per 100,000 population with a total of 138,802 cumulative deaths or a rate 213.41 cumulative deaths per 100,000 population; as of 29 March 2022, 80.09% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -522,9 +525,9 @@ calendar year<br>
 -$16.02 billion (2018 est.)<br>
 
 **Exports**<br>
-$746.91 billion note: data are in current year dollars (2020 est.)<br>
-$891.18 billion note: data are in current year dollars (2019 est.)<br>
-$918.97 billion note: data are in current year dollars (2018 est.)<br>
+$746.91 billion (2020 est.) note: data are in current year dollars<br>
+$891.18 billion (2019 est.) note: data are in current year dollars<br>
+$918.97 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 14%, United States 8%, Italy 7%, Spain 7%, Belgium 7%, United Kingdom 7% (2019)<br>
@@ -533,9 +536,9 @@ Germany 14%, United States 8%, Italy 7%, Spain 7%, Belgium 7%, United Kingdom 7%
 aircraft, packaged medicines, cars and vehicle parts, gas turbines, wine (2019)<br>
 
 **Imports**<br>
-$803.66 billion note: data are in current year dollars (2020 est.)<br>
-$919.63 billion note: data are in current year dollars (2019 est.)<br>
-$947.31 billion note: data are in current year dollars (2018 est.)<br>
+$803.66 billion (2020 est.) note: data are in current year dollars<br>
+$919.63 billion (2019 est.) note: data are in current year dollars<br>
+$947.31 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 18%, Belgium 9%, Italy 9%, Spain 7%, China 7%, Netherlands 6%, United Kingdom 5% (2019)<br>
@@ -653,6 +656,10 @@ a mix of both publicly operated and privately owned TV stations; state-owned Fra
 **Internet country code**<br>
 metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Mayotte - .yt; Reunion - .re<br>
 
+**Internet users**<br>
+_total_: 57,272,921 (2020 est.)<br>
+_percent of population_: 85% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 30.627 million (2021)<br>
 _subscriptions per 100 inhabitants_: 46.92 (2021)<br>
@@ -663,7 +670,7 @@ _subscriptions per 100 inhabitants_: 46.92 (2021)<br>
 _number of registered air carriers_: 19 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 553<br>
 _annual passenger traffic on registered air carriers_: 70,188,028 (2018)<br>
-_annual freight traffic on registered air carriers_: 4,443,790,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 4,443,790,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 F<br>
@@ -693,8 +700,8 @@ _under 914 m_: 105 (2021)<br>
 
 **Railways**<br>
 _total_: 29,640 km (2014)<br>
-_standard gauge_: 29,473 km 1.435-m gauge (15,561 km electrified) (2014)<br>
-_narrow gauge_: 167 km 1.000-m gauge (63 km electrified) (2014)<br>
+_standard gauge_: 29,473 km (2014) 1.435-m gauge (15,561 km electrified)<br>
+_narrow gauge_: 167 km (2014) 1.000-m gauge (63 km electrified)<br>
 
 **Roadways**<br>
 _total_: 1,053,215 km (2011)<br>
@@ -725,11 +732,11 @@ begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) 
 French Armed Forces (Forces Arm&eacute;es Fran&ccedil;aises): Army (Armee de Terre; includes Foreign Legion), Navy (Marine Nationale), Air and Space Force (Armee de l&rsquo;Air et de l&rsquo;Espace); includes Air Defense), National Guard (Reserves), National Gendarmerie (paramilitary police force that is a branch of the Armed Forces but under the jurisdiction of the Ministry of the Interior; also has additional duties to the Ministry of Defense and the Ministry of Justice) (2021)<br>
 
 **Military expenditures**<br>
-2% of GDP (2021 est.)<br>
+1.9% of GDP (2021 est.)<br>
 2% of GDP (2020)<br>
-1.8% of GDP (approximately $59.1 billion) (2019)<br>
-1.8% of GDP (approximately $57 billion) (2018)<br>
-1.8% of GDP (approximately $54.4 billion) (2017)<br>
+1.8% of GDP (2019) (approximately $59.1 billion)<br>
+1.8% of GDP (2018) (approximately $57 billion)<br>
+1.8% of GDP (2017) (approximately $54.4 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the French military has approximately 205,000 active duty troops (115,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, administration, logistics, procurement, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2021)<br>

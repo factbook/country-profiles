@@ -69,6 +69,9 @@ only the northern half of the island is populated, the southern portion is uninh
 **Geography - note**<br>
 the island is entirely volcanic in origin and comprised of three major volcanic centers of differing ages<br>
 
+**Map description**<br>
+<p>Montserrat map showing some of the major features of this UK island territory in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -93,7 +96,7 @@ _0-14 years_: 15.87% (male 442/female 417)<br>
 _15-24 years_: 19.67% (male 556/female 509)<br>
 _25-54 years_: 47.09% (male 1,217/female 1,313)<br>
 _55-64 years_: 10.47% (male 258/female 309)<br>
-_65 years and over_: 7.15% (male 209/female 178) (2022 est.)<br>
+_65 years and over_: 7.15% (2022 est.) (male 209/female 178)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -489,6 +492,10 @@ Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a r
 
 **Internet country code**<br>
 .ms<br>
+
+**Internet users**<br>
+_total_: 2,744 (2019 est.)<br>
+_percent of population_: 55% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,000 (2021 est.)<br>

@@ -82,6 +82,9 @@ recurring droughts<br>
 **Geography - note**<br>
 landlocked; one of the hottest countries in the world; northern four-fifths is desert, southern one-fifth is savanna, suitable for livestock and limited agriculture<br>
 
+**Map description**<br>
+<p>Niger map showing major population centers as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -108,7 +111,7 @@ _0-14 years_: 50.58% (male 5,805,102/female 5,713,815)<br>
 _15-24 years_: 19.99% (male 2,246,670/female 2,306,285)<br>
 _25-54 years_: 23.57% (male 2,582,123/female 2,784,464)<br>
 _55-64 years_: 3.17% (male 357,832/female 364,774)<br>
-_65 years and over_: 2.68% (male 293,430/female 317,866) (2020 est.)<br>
+_65 years and over_: 2.68% (2020 est.) (male 293,430/female 317,866)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 109.5<br>
@@ -288,7 +291,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Niger is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to civil conflict - according to the latest analysis, about 2.3 million people are assessed to need humanitarian assistance in the June&minus;August 2021 period due to the increase in security incidents which have resulted in widespread disruption of agricultural and marketing activities, diminishing livelihood opportunities for households (2021)<br>
+_exceptional shortfall in aggregate food production/supplies_: as of January 2022, an estimated 265 000 people have been displaced due to civil conflict; in addition, domestic cereal production was estimated at a below-average level in 2021, due to effects of adverse weather and the civil conflict, which is expected to further aggravate conditions; the aggregate cereal production in 2021 is officially estimated at 3.5 million mt, nearly 40 percent below the five‑year average; as a result, between June and August 2022, 3.64 million people are projected to face severe food insecurity; this is a 40 percent increase compared to the current post‑harvest period, underpinned by the reduced cereal production in 2021, high food prices and the high likelihood of persisting disruptions of markets and agricultural activities amid increasing insecurity&nbsp; (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,865,646 tons (1993 est.)<br>
@@ -387,7 +390,7 @@ Alliance of Movements for the Emergence of Niger or AMEN AMIN [Omar Hamidou TCHI
 ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Kiari LIMAN-TINGUIRI (since 7 February 2022)<br>
+_chief of mission_: Ambassador Mamadou Kiari LIMAN-TINGUIRI (since 19 April 2022)<br>
 _chancery_: 2204 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-4224<br>
 _FAX_: [1] (202) 483-3169<br>
@@ -522,8 +525,8 @@ calendar year<br>
 -$1.181 billion (2016 est.)<br>
 
 **Exports**<br>
-$1.39 billion note: data are in current year dollars (2019 est.)<br>
-$1.45 billion note: data are in current year dollars (2018 est.)<br>
+$1.39 billion (2019 est.) note: data are in current year dollars<br>
+$1.45 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 54%, China 25%, France 7%, Pakistan 5% (2019)<br>
@@ -532,8 +535,8 @@ United Arab Emirates 54%, China 25%, France 7%, Pakistan 5% (2019)<br>
 gold, sesame seeds, uranium, natural gas, refined petroleum (2019)<br>
 
 **Imports**<br>
-$3.4 billion note: data are in current year dollars (2019 est.)<br>
-$3.37 billion note: data are in current year dollars (2018 est.)<br>
+$3.4 billion (2019 est.) note: data are in current year dollars<br>
+$3.37 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 19%, France 9%, United Arab Emirates 7%, Cote d'Ivoire 6%, India 6%, Nigeria 5%, Togo 5%, Turkey 5% (2019)<br>
@@ -634,7 +637,7 @@ _electrification - rural areas_: 2% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 114,352 (2018)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 8,778,880 (2018)<br>
@@ -652,9 +655,13 @@ state-run TV station; 3 private TV stations provide a mix of local and foreign p
 **Internet country code**<br>
 .ne<br>
 
+**Internet users**<br>
+_total_: 2,331,072 (2019 est.)<br>
+_percent of population_: 10% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 12,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.05 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.05 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -692,7 +699,7 @@ _paved_: 3,912 km (2010)<br>
 _unpaved_: 15,037 km (2010)<br>
 
 **Waterways**<br>
-300 km (the Niger, the only major river, is navigable to Gaya between September and March) (2012)<br>
+300 km (2012) (the Niger, the only major river, is navigable to Gaya between September and March)<br>
 
 **Merchant marine**<br>
 _total_: 1<br>
@@ -706,10 +713,10 @@ note - the Gendarmerie is subordinate to the Ministry of Defense and has primary
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>
-1.7% of GDP (approximately $260 million) (2019 est.)<br>
-1.9% of GDP (approximately $270 million) (2018 est.)<br>
-2% of GDP (approximately $270 million) (2017 est.)<br>
-1.6% of GDP (approximately $210 million) (2016 est.)<br>
+1.7% of GDP (2019 est.) (approximately $260 million)<br>
+1.9% of GDP (2018 est.) (approximately $270 million)<br>
+2% of GDP (2017 est.) (approximately $270 million)<br>
+1.6% of GDP (2016 est.) (approximately $210 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active troops (est. 6,000 Army; 200 Air Force; 4,000 Gendarmerie); est. 3,000 National Guard (2021)<br>

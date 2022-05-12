@@ -79,6 +79,9 @@ occasional typhoons (May to January) with extensive flooding, especially in the 
 **Geography - note**<br>
 <strong>note 1:</strong> extending 1,650 km north to south, the country is only 50 km across at its narrowest point <br><br><strong>note 2:</strong> Son Doong in Phong Nha-Ke Bang National Park is the world's largest cave (greatest cross sectional area) and is the largest known cave passage in the world by volume; it currently measures a total of 38.5 million cu m (about 1.35 billion cu ft); it connects to Thung cave (but not yet officially); when recognized, it will add an additional 1.6 million cu m in volume; Son Doong is so massive that it contains its own jungle, underground river, and localized weather system; clouds form inside the cave and spew out from its exits and two dolines (openings (sinkhole skylights) created by collapsed ceilings that allow sunlight to stream in)<br><strong><br></strong><br>
 
+**Map description**<br>
+<p>Vietnam map showing major cities as well as parts of surrounding countries and adjacent water bodies.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -108,7 +111,7 @@ _0-14 years_: 22.61% (male 11,733,704/female 10,590,078)<br>
 _15-24 years_: 15.22% (male 7,825,859/female 7,202,716)<br>
 _25-54 years_: 45.7% (male 22,852,429/female 22,262,566)<br>
 _55-64 years_: 9.55% (male 4,412,111/female 5,016,880)<br>
-_65 years and over_: 6.91% (male 2,702,963/female 4,121,969) (2020 est.)<br>
+_65 years and over_: 6.91% (2020 est.) (male 2,702,963/female 4,121,969)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.1<br>
@@ -501,8 +504,8 @@ $12.478 billion (2019 est.)<br>
 $5.769 billion (2018 est.)<br>
 
 **Exports**<br>
-$280.83 billion note: data are in current year dollars (2019 est.)<br>
-$258.49 billion note: data are in current year dollars (2018 est.)<br>
+$280.83 billion (2019 est.) note: data are in current year dollars<br>
+$258.49 billion (2018 est.) note: data are in current year dollars<br>
 $204.169 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -512,8 +515,8 @@ United States 23%, China 14%, Japan 8%, South Korea 7% (2019)<br>
 broadcasting equipment, telephones, integrated circuits, footwear, furniture (2019)<br>
 
 **Imports**<br>
-$261.68 billion note: data are in current year dollars (2019 est.)<br>
-$245.63 billion note: data are in current year dollars (2018 est.)<br>
+$261.68 billion (2019 est.) note: data are in current year dollars<br>
+$245.63 billion (2018 est.) note: data are in current year dollars<br>
 $217.684 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -631,6 +634,10 @@ government controls all broadcast media exercising oversight through the Ministr
 **Internet country code**<br>
 .vn<br>
 
+**Internet users**<br>
+_total_: 68,137,008 (2020 est.)<br>
+_percent of population_: 70% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 16,699,249 (2021)<br>
 _subscriptions per 100 inhabitants_: 17.16 (2021)<br>
@@ -641,7 +648,7 @@ _subscriptions per 100 inhabitants_: 17.16 (2021)<br>
 _number of registered air carriers_: 5 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 224<br>
 _annual passenger traffic on registered air carriers_: 47,049,671 (2018)<br>
-_annual freight traffic on registered air carriers_: 481.37 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 481.37 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 VN<br>
@@ -670,8 +677,8 @@ _under 914 m_: 3 (2021)<br>
 
 **Railways**<br>
 _total_: 2,600 km (2014)<br>
-_standard gauge_: 178 km 1.435-m gauge; 253 km mixed gauge (2014)<br>
-_narrow gauge_: 2,169 km 1.000-m gauge (2014)<br>
+_standard gauge_: 178 km (2014) 1.435-m gauge; 253 km mixed gauge<br>
+_narrow gauge_: 2,169 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
 _total_: 195,468 km (2013)<br>
@@ -679,7 +686,7 @@ _paved_: 148,338 km (2013)<br>
 _unpaved_: 47,130 km (2013)<br>
 
 **Waterways**<br>
-47,130 km (30,831 km weight under 50 tons) (2011)<br>
+47,130 km (2011) (30,831 km weight under 50 tons)<br>
 
 **Merchant marine**<br>
 _total_: 1,926<br>
@@ -699,9 +706,9 @@ note(s) - the Public Security Ministry is responsible for internal security and 
 **Military expenditures**<br>
 2.4% of GDP (2021 est.)<br>
 2.4% of GDP (2020 est.)<br>
-2.3% of GDP (approximately $11.2 billion) (2019 est.)<br>
-2.3% of GDP (approximately $10.5 billion) (2018 est.)<br>
-2.3% of GDP (approximately $9.85 billion) (2017 est.)<br>
+2.3% of GDP (2019 est.) (approximately $11.2 billion)<br>
+2.3% of GDP (2018 est.) (approximately $10.5 billion)<br>
+2.3% of GDP (2017 est.) (approximately $9.85 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information is limited and estimates vary; approximately 470,000 active duty troops (400,000 ground; 40,000 naval; 30,000 air); estimated 40,000 Border Defense Force and Coast Guard (2021)<br>

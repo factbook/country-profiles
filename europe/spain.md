@@ -77,6 +77,9 @@ with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban a
 **Geography - note**<br>
 strategic location along approaches to Strait of Gibraltar; Spain controls a number of territories in northern Morocco including the enclaves of Ceuta and Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas; Spain's Canary Islands are one of four North Atlantic archipelagos that make up Macaronesia; the others are Azores (Portugal), Madeira (Portugal), and Cabo Verde<br>
 
+**Map description**<br>
+<p>Spain map showing major population centers as well as parts of surrounding countries and the Mediterranean Sea and Bay of Biscay.</p> <p> </p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 15.02% (male 3,861,522/female 3,650,085)<br>
 _15-24 years_: 9.9% (male 2,557,504/female 2,392,498)<br>
 _25-54 years_: 43.61% (male 11,134,006/female 10,675,873)<br>
 _55-64 years_: 12.99% (male 3,177,080/female 3,319,823)<br>
-_65 years and over_: 18.49% (male 3,970,417/female 5,276,984) (2020 est.)<br>
+_65 years and over_: 18.49% (2020 est.) (male 3,970,417/female 5,276,984)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 52.4<br>
@@ -203,7 +206,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;1,000 (2020)<br>
+(2020) &lt;1,000<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -504,9 +507,9 @@ $29.603 billion (2019 est.)<br>
 $27.206 billion (2018 est.)<br>
 
 **Exports**<br>
-$392.85 billion note: data are in current year dollars (2020 est.)<br>
-$486.15 billion note: data are in current year dollars (2019 est.)<br>
-$499.55 billion note: data are in current year dollars (2018 est.)<br>
+$392.85 billion (2020 est.) note: data are in current year dollars<br>
+$486.15 billion (2019 est.) note: data are in current year dollars<br>
+$499.55 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 France 15%, Germany 11%, Portugal 8%, Italy 8%, United Kingdom 7%, United States 5% (2019)<br>
@@ -515,9 +518,9 @@ France 15%, Germany 11%, Portugal 8%, Italy 8%, United Kingdom 7%, United States
 cars and vehicle parts, refined petroleum, packaged medicines, delivery trucks, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$373.67 billion note: data are in current year dollars (2020 est.)<br>
-$444.31 billion note: data are in current year dollars (2019 est.)<br>
-$460.98 billion note: data are in current year dollars (2018 est.)<br>
+$373.67 billion (2020 est.) note: data are in current year dollars<br>
+$444.31 billion (2019 est.) note: data are in current year dollars<br>
+$460.98 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 13%, France 11%, China 8%, Italy 7% (2019)<br>
@@ -634,6 +637,10 @@ _international_: country code - 34; landing points for the MAREA, Tata TGN-Weste
 **Internet country code**<br>
 .es<br>
 
+**Internet users**<br>
+_total_: 44,047,980 (2020 est.)<br>
+_percent of population_: 93% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 16,188,502 (2021)<br>
 _subscriptions per 100 inhabitants_: 34.62 (2021)<br>
@@ -644,7 +651,7 @@ _subscriptions per 100 inhabitants_: 34.62 (2021)<br>
 _number of registered air carriers_: 21 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 552<br>
 _annual passenger traffic on registered air carriers_: 80,672,105 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,117,070,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1,117,070,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 EC<br>
@@ -672,15 +679,15 @@ _under 914 m_: 19 (2021)<br>
 10481 km gas, 358 km oil, 4378 km refined products (2017)<br>
 
 **Railways**<br>
-_total_: 15,333 km (9,699 km electrified) (2017)<br>
-_standard gauge_: 2,571 km 1.435-m gauge (2,571 km electrified) (2017)<br>
-_narrow gauge_: 1,207 km 1.000-m gauge (400 km electrified) (2017)<br>
-_broad gauge_: 11,333 km 1.668-m gauge (6,538 km electrified) (2017)<br>
+_total_: 15,333 km (2017) (9,699 km electrified)<br>
+_standard gauge_: 2,571 km (2017) 1.435-m gauge (2,571 km electrified)<br>
+_narrow gauge_: 1,207 km (2017) 1.000-m gauge (400 km electrified)<br>
+_broad gauge_: 11,333 km (2017) 1.668-m gauge (6,538 km electrified)<br>
 mixed gauge: 190 km 1.668-m and 1.435m gage (190.1 km electrified); 28 km 0.914-m gauge (28 km electrified); 4 km 0.600-m gauge<br>
 
 **Roadways**<br>
 _total_: 683,175 km (2011)<br>
-_paved_: 683,175 km (includes 16,205 km of expressways) (2011)<br>
+_paved_: 683,175 km (2011) (includes 16,205 km of expressways)<br>
 
 **Waterways**<br>
 1,000 km (2012)<br>
@@ -704,9 +711,9 @@ note - the Civil Guard is a military force with police duties (including coast g
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
 1% of GDP (2020)<br>
-0.9% of GDP (approximately $16.8 billion) (2019)<br>
-0.9% of GDP (approximately $16.7 billion) (2018)<br>
-0.9% of GDP (approximately $15.9 billion) (2017)<br>
+0.9% of GDP (2019) (approximately $16.8 billion)<br>
+0.9% of GDP (2018) (approximately $16.7 billion)<br>
+0.9% of GDP (2017) (approximately $15.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Spanish Armed Forces have approximately 120,000 active duty troops (75,000 Army; 25,000 Navy, inc about 5,000 marines; 20,000 Air Force); 80,000 Guardia Civil (2021)<br>
@@ -739,7 +746,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 6,.92 (mid-year 2021)<br>
-<strong>note: </strong>257,364 estimated refugee and migrant arrivals, including Canary Islands (January 2015-April 2022)<br>
+<strong>note: </strong>257,630 estimated refugee and migrant arrivals, including Canary Islands (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

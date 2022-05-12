@@ -49,6 +49,9 @@ occasional icebergs pose navigational hazard in southern reaches<br>
 **Geography - note**<br>
 major chokepoints include Bab el Mandeb, Strait of Hormuz, Strait of Malacca, southern access to the Suez Canal, and the Lombok Strait<br>
 
+**Map description**<br>
+<p>Indian Ocean map highlights the Ocean in relation to surrounding continents and shows the major chokepoints.</p><br>
+
 ## Environment
 
 **Environment - current issues**<br>

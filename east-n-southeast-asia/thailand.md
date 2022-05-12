@@ -81,6 +81,9 @@ land subsidence in Bangkok area resulting from the depletion of the water table;
 **Geography - note**<br>
 controls only land route from Asia to Malaysia and Singapore; ideas for the construction of a canal across the Kra Isthmus that would create a bypass to the Strait of Malacca and shorten shipping times around Asia continue to be discussed<br>
 
+**Map description**<br>
+<p>Thailand map showing major cities as well as parts of surrounding countries and the Gulf of Thailand.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ _0-14 years_: 16.45% (male 5,812,803/female 5,533,772)<br>
 _15-24 years_: 13.02% (male 4,581,622/female 4,400,997)<br>
 _25-54 years_: 45.69% (male 15,643,583/female 15,875,353)<br>
 _55-64 years_: 13.01% (male 4,200,077/female 4,774,801)<br>
-_65 years and over_: 11.82% (male 3,553,273/female 4,601,119) (2020 est.)<br>
+_65 years and over_: 11.82% (2020 est.) (male 3,553,273/female 4,601,119)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 41.9<br>
@@ -515,9 +518,9 @@ $37.033 billion (2019 est.)<br>
 $28.423 billion (2018 est.)<br>
 
 **Exports**<br>
-$258.42 billion note: data are in current year dollars (2020 est.)<br>
-$323.88 billion note: data are in current year dollars (2019 est.)<br>
-$328.58 billion note: data are in current year dollars (2018 est.)<br>
+$258.42 billion (2020 est.) note: data are in current year dollars<br>
+$323.88 billion (2019 est.) note: data are in current year dollars<br>
+$328.58 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 13%, China 12%, Japan 10%, Vietnam 5% (2019)<br>
@@ -526,9 +529,9 @@ United States 13%, China 12%, Japan 10%, Vietnam 5% (2019)<br>
 office machinery/parts, cars and vehicle parts, integrated circuits, delivery trucks, gold (2019)<br>
 
 **Imports**<br>
-$233.75 billion note: data are in current year dollars (2020 est.)<br>
-$272.83 billion note: data are in current year dollars (2019 est.)<br>
-$283.66 billion note: data are in current year dollars (2018 est.)<br>
+$233.75 billion (2020 est.) note: data are in current year dollars<br>
+$272.83 billion (2019 est.) note: data are in current year dollars<br>
+$283.66 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 22%, Japan 14%, United States 7%, Malaysia 6% (2019)<br>
@@ -645,6 +648,10 @@ _international_: country code - 66; landing points for the AAE-1, FEA, SeaMeWe-3
 **Internet country code**<br>
 .th<br>
 
+**Internet users**<br>
+_total_: 54,443,983 (2020 est.)<br>
+_percent of population_: 78% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 11,478,265 (2021)<br>
 _subscriptions per 100 inhabitants_: 16.44 (2021 est.)<br>
@@ -655,7 +662,7 @@ _subscriptions per 100 inhabitants_: 16.44 (2021 est.)<br>
 _number of registered air carriers_: 15 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 283<br>
 _annual passenger traffic on registered air carriers_: 76,053,042 (2018)<br>
-_annual freight traffic on registered air carriers_: 2,666,260,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 2,666,260,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 HS<br>
@@ -686,14 +693,14 @@ _under 914 m_: 26 (2021)<br>
 
 **Railways**<br>
 _total_: 4,127 km (2017)<br>
-_standard gauge_: 84 km 1.435-m gauge (84 km electrified) (2017)<br>
-_narrow gauge_: 4,043 km 1.000-m gauge (2017)<br>
+_standard gauge_: 84 km (2017) 1.435-m gauge (84 km electrified)<br>
+_narrow gauge_: 4,043 km (2017) 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 180,053 km (includes 450 km of expressways) (2006)<br>
+_total_: 180,053 km (2006) (includes 450 km of expressways)<br>
 
 **Waterways**<br>
-4,000 km (3,701 km navigable by boats with drafts up to 0.9 m) (2011)<br>
+4,000 km (2011) (3,701 km navigable by boats with drafts up to 0.9 m)<br>
 
 **Merchant marine**<br>
 _total_: 839<br>
@@ -713,9 +720,9 @@ note(s) - official paramilitary forces in Thailand include the Thai Rangers (<em
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
-1.3% of GDP (approximately $14.6 billion) (2019)<br>
-1.3% of GDP (approximately $14.2 billion) (2018)<br>
-1.4% of GDP (approximately $13.8 billion) (2017)<br>
+1.3% of GDP (2019) (approximately $14.6 billion)<br>
+1.3% of GDP (2018) (approximately $14.2 billion)<br>
+1.4% of GDP (2017) (approximately $13.8 billion)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary widely; approximately 300,000 active duty personnel (200,000 Army; 70,000 Navy; 30,000 Air Force); est. 20,000 Thai Rangers; est. 5,000 Internal Security Operations Command (2021)<br>

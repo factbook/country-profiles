@@ -76,6 +76,9 @@ periodic droughts<br>
 **Geography - note**<br>
 landlocked, an enclave of (completely surrounded by) South Africa; mountainous, more than 80% of the country is 1,800 m above sea level<br>
 
+**Map description**<br>
+<p>Lesotho map showing major population centers of this landlocked country surrounded by South Africa.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -103,7 +106,7 @@ _0-14 years_: 31.3% (male 309,991/female 306,321)<br>
 _15-24 years_: 19.26% (male 181,874/female 197,452)<br>
 _25-54 years_: 38.86% (male 373,323/female 391,901)<br>
 _55-64 years_: 4.98% (male 52,441/female 45,726)<br>
-_65 years and over_: 5.6% (male 57,030/female 53,275) (2020 est.)<br>
+_65 years and over_: 5.6% (2020 est.) (male 57,030/female 53,275)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 59.2<br>
@@ -233,7 +236,7 @@ _female_: 13 years (2017)<br>
 **Unemployment, youth ages 15-24**<br>
 _total_: 35.5%<br>
 _male_: 31.2% NA<br>
-_female_: 41.5% NA (2019 est.)<br>
+_female_: 41.5% (2019 est.) NA<br>
 
 ## Environment
 
@@ -463,7 +466,7 @@ _industry and services_: 14% (2002 est.)<br>
 **Unemployment, youth ages 15-24**<br>
 _total_: 35.5%<br>
 _male_: 31.2% NA<br>
-_female_: 41.5% NA (2019 est.)<br>
+_female_: 41.5% (2019 est.) NA<br>
 
 **Population below poverty line**<br>
 49.7% (2017 est.)<br>
@@ -498,9 +501,9 @@ _expenditures_: 1.255 billion (2017 est.)<br>
 -$201 million (2016 est.)<br>
 
 **Exports**<br>
-$900 million note: data are in current year dollars (2020 est.)<br>
-$1.09 billion note: data are in current year dollars (2019 est.)<br>
-$1.25 billion note: data are in current year dollars (2018 est.)<br>
+$900 million (2020 est.) note: data are in current year dollars<br>
+$1.09 billion (2019 est.) note: data are in current year dollars<br>
+$1.25 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 29%, Belgium 26%, South Africa 25%, Switzerland 6% (2019)<br>
@@ -509,9 +512,9 @@ United States 29%, Belgium 26%, South Africa 25%, Switzerland 6% (2019)<br>
 diamonds, clothing and apparel, low-voltage protection equipment, wheat products, footwear (2019)<br>
 
 **Imports**<br>
-$1.96 billion note: data are in current year dollars (2020 est.)<br>
-$2.2 billion note: data are in current year dollars (2019 est.)<br>
-$2.39 billion note: data are in current year dollars (2018 est.)<br>
+$1.96 billion (2020 est.) note: data are in current year dollars<br>
+$2.2 billion (2019 est.) note: data are in current year dollars<br>
+$2.39 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 South Africa 85%, China 5% (2019)<br>
@@ -612,7 +615,7 @@ _electrification - rural areas_: 26% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 11,574 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1,562,648 (2020)<br>
@@ -630,9 +633,13 @@ _international_: country code - 266; Internet accessibility has improved with se
 **Internet country code**<br>
 .ls<br>
 
+**Internet users**<br>
+_total_: 921,168 (2020 est.)<br>
+_percent of population_: 43% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 5,060 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.24 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.24 (2021) less than 1<br>
 
 ## Transportation
 
@@ -666,10 +673,10 @@ note - the Lesotho Mounted Police Service is responsible for internal security a
 
 **Military expenditures**<br>
 1.6% of GDP (2020 est.)<br>
-1.8% of GDP (approximately $60 million) (2019 est.)<br>
-2.1% of GDP (approximately $65 million) (2018 est.)<br>
-2.2% of GDP (approximately $70 million) (2017 est.)<br>
-1.9% of GDP (approximately $65 million) (2016 est.)<br>
+1.8% of GDP (2019 est.) (approximately $60 million)<br>
+2.1% of GDP (2018 est.) (approximately $65 million)<br>
+2.2% of GDP (2017 est.) (approximately $70 million)<br>
+1.9% of GDP (2016 est.) (approximately $65 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 personnel (2021)<br>

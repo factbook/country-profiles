@@ -77,6 +77,9 @@ destructive earthquakes<br>
 **Geography - note**<br>
 strategic location along the Adriatic coast<br>
 
+**Map description**<br>
+<p>Montenegro map showing major population centers as well as parts of surrounding countries and the Adriatic Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -101,7 +104,7 @@ _0-14 years_: 18.14% (male 57,402/female 53,217)<br>
 _15-24 years_: 12.78% (male 40,220/female 37,720)<br>
 _25-54 years_: 39.65% (male 120,374/female 121,461)<br>
 _55-64 years_: 13.41% (male 40,099/female 41,670)<br>
-_65 years and over_: 16.02% (male 42,345/female 55,351) (2020 est.)<br>
+_65 years and over_: 16.02% (2020 est.) (male 42,345/female 55,351)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.1<br>
@@ -193,14 +196,14 @@ _unimproved: rural_: rural: 6.1% of population<br>
 _unimproved: total_: total: 2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-&lt;500 (2020 est.)<br>
+(2020 est.) &lt;500<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br>
+(2020 est.) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -503,9 +506,9 @@ calendar year<br>
 -$710 million (2016 est.)<br>
 
 **Exports**<br>
-$1.24 billion note: data are in current year dollars (2020 est.)<br>
-$2.42 billion note: data are in current year dollars (2019 est.)<br>
-$2.35 billion note: data are in current year dollars (2018 est.)<br>
+$1.24 billion (2020 est.) note: data are in current year dollars<br>
+$2.42 billion (2019 est.) note: data are in current year dollars<br>
+$2.35 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Serbia 17%, Hungary 15%, China 11%, Russia 7%, Bosnia and Herzegovina 6%, Germany 6%, Italy 5%, Poland 5% (2019)<br>
@@ -514,9 +517,9 @@ Serbia 17%, Hungary 15%, China 11%, Russia 7%, Bosnia and Herzegovina 6%, German
 aluminum, packaged medicines, cars, zinc, wine (2019)<br>
 
 **Imports**<br>
-$2.9 billion note: data are in current year dollars (2020 est.)<br>
-$3.59 billion note: data are in current year dollars (2019 est.)<br>
-$3.67 billion note: data are in current year dollars (2018 est.)<br>
+$2.9 billion (2020 est.) note: data are in current year dollars<br>
+$3.59 billion (2019 est.) note: data are in current year dollars<br>
+$3.67 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Serbia 30%, Bosnia and Herzegovina 8%, Croatia 8%, Italy 6%, Greece 6%, Germany 5% (2019)<br>
@@ -633,6 +636,10 @@ state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1
 **Internet country code**<br>
 .me<br>
 
+**Internet users**<br>
+_total_: 484,619 (2020 est.)<br>
+_percent of population_: 78% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 184,176 (2021)<br>
 _subscriptions per 100 inhabitants_: 29.32 (2021)<br>
@@ -643,7 +650,7 @@ _subscriptions per 100 inhabitants_: 29.32 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 4<br>
 _annual passenger traffic on registered air carriers_: 565,522 (2018)<br>
-_annual freight traffic on registered air carriers_: 130,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 130,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 4O<br>
@@ -663,7 +670,7 @@ _under 914 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 250 km (2017)<br>
-_standard gauge_: 250 km 1.435-m gauge (224 km electrified) (2017)<br>
+_standard gauge_: 250 km (2017) 1.435-m gauge (224 km electrified)<br>
 
 **Roadways**<br>
 _total_: 7,762 km (2010)<br>
@@ -685,9 +692,9 @@ the Armed Forces of the Republic of Montenegro: joint force with land, air, and 
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
 1.7% of GDP (2020)<br>
-1.3% of GDP (approximately $130 million) (2019)<br>
-1.4% of GDP (approximately $120 million) (2018)<br>
-1.3% of GDP (approximately $110 million) (2017)<br>
+1.3% of GDP (2019) (approximately $130 million)<br>
+1.4% of GDP (2018) (approximately $120 million)<br>
+1.3% of GDP (2017) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 total active duty troops (2021)<br>
@@ -711,7 +718,7 @@ Montenegro officially became a member of NATO in 2017; Greece and Italy provide 
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 21,222 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
+<strong>note:</strong> 21,274 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

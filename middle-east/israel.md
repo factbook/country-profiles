@@ -74,10 +74,13 @@ sandstorms may occur during spring and summer; droughts; periodic earthquakes<br
 **Geography - note**<br>
 <strong>note 1:</strong> Lake Tiberias (Sea of Galilee) is an important freshwater source; the Dead Sea is the second saltiest body of water in the world (after Lake Assal in Djibouti)<br><br><strong>note 2: </strong>the Malham Cave in Mount Sodom is the world's longest salt cave at 10 km (6 mi); its survey is not complete and its length will undoubtedly increase; Mount Sodom is actually a hill some 220 m (722 ft) high that is 80% salt (multiple salt layers covered by a veneer of rock) <br><br><strong>note 3:</strong> in March 2019, there were 380 Israeli settlements,to include 213 settlements and 132 outposts in the West Bank, and 35 settlements in East Jerusalem; there are no Israeli settlements in the Gaza Strip, as all were evacuated in 2005 (2019)<br>
 
+**Map description**<br>
+<p>Israel map showing major cities and significant features including - but not limited to - Jerusalem, the Golan Heights, the Gaza Strip, and the West Bank. Note that in 2017 the US recognized Jerusalem as the capital of Israel and in 2019 recognized the Golan Heights as part of Israel.</p><br>
+
 ## People and Society
 
 **Population**<br>
-8,914,885 (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967) (2022 est.)<br>
+8,914,885 (2022 est.) (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967)<br>
 <strong>note:</strong> approximately 227,100 Israeli settlers live in East Jerusalem (2019); following the March 2019 US recognition of the Golan Heights as being part of Israel, <em>The World Factbook</em> no longer includes Israeli settler population of the Golan Heights (estimated at 23,400 in 2019) in its overall Israeli settler total<br>
 
 **Nationality**<br>
@@ -99,7 +102,7 @@ _0-14 years_: 26.76% (male 1,187,819/female 1,133,365)<br>
 _15-24 years_: 15.67% (male 694,142/female 665,721)<br>
 _25-54 years_: 37.2% (male 1,648,262/female 1,579,399)<br>
 _55-64 years_: 8.4% (male 363,262/female 365,709)<br>
-_65 years and over_: 11.96% (male 467,980/female 569,816) (2020 est.)<br>
+_65 years and over_: 11.96% (2020 est.) (male 467,980/female 569,816)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 67.3<br>
@@ -197,7 +200,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 9,000 (2018)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018)<br>
+(2018) <100<br>
 
 **Major infectious diseases**<br>
 <p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Israel is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
@@ -500,9 +503,9 @@ $13.411 billion (2019 est.)<br>
 $7.888 billion (2018 est.)<br>
 
 **Exports**<br>
-$113.87 billion note: data are in current year dollars (2020 est.)<br>
-$115.57 billion note: data are in current year dollars (2019 est.)<br>
-$110.05 billion note: data are in current year dollars (2018 est.)<br>
+$113.87 billion (2020 est.) note: data are in current year dollars<br>
+$115.57 billion (2019 est.) note: data are in current year dollars<br>
+$110.05 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 26%, China 9%, United Kingdom 7% (2020)<br>
@@ -511,9 +514,9 @@ United States 26%, China 9%, United Kingdom 7% (2020)<br>
 diamonds, packaged medicines, medical instruments, integrated circuits, refined petroleum (2019)<br>
 
 **Imports**<br>
-$96.53 billion note: data are in current year dollars (2020 est.)<br>
-$108.26 billion note: data are in current year dollars (2019 est.)<br>
-$107.74 billion note: data are in current year dollars (2018 est.)<br>
+$96.53 billion (2020 est.) note: data are in current year dollars<br>
+$108.26 billion (2019 est.) note: data are in current year dollars<br>
+$107.74 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 12%, China 11%, Germany 7.5%, Switzerland 7%, Turkey 6% (2020)<br>
@@ -632,6 +635,10 @@ the Israel Broadcasting Corporation (est 2015) broadcasts on&nbsp;3 channels,&nb
 **Internet country code**<br>
 .il<br>
 
+**Internet users**<br>
+_total_: 8,293,590 (2020 est.)<br>
+_percent of population_: 90% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 2,602,079 (2021)<br>
 _subscriptions per 100 inhabitants_: 30.06 (2021 est.)<br>
@@ -642,7 +649,7 @@ _subscriptions per 100 inhabitants_: 30.06 (2021 est.)<br>
 _number of registered air carriers_: 6 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 64<br>
 _annual passenger traffic on registered air carriers_: 7,404,373 (2018)<br>
-_annual freight traffic on registered air carriers_: 994.54 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 994.54 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 4X<br>
@@ -671,11 +678,11 @@ _under 914 m_: 6 (2021)<br>
 
 **Railways**<br>
 _total_: 1,599 km (2019) (2019)<br>
-_standard gauge_: 1,384 km 1.435-m gauge (2014)<br>
+_standard gauge_: 1,384 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>
 _total_: 19,555 km (2017)<br>
-_paved_: 19,555 km (includes 449 km of expressways) (2017)<br>
+_paved_: 19,555 km (2017) (includes 449 km of expressways)<br>
 
 **Merchant marine**<br>
 _total_: 41<br>
@@ -693,10 +700,10 @@ note - the Border Police is a unit within the Israel Police with its own organiz
 
 **Military expenditures**<br>
 5% of GDP (2020 est.)<br>
-5.2% of GDP (approximately $20 billion) (2019 est.)<br>
-5.3% of GDP (approximately $19.9 billion) (2018 est.)<br>
-5.5% of GDP (approximately $19.7 billion) (2017 est.)<br>
-5.6% of GDP (approximately $19.2 billion) (2016 est.)<br>
+5.2% of GDP (2019 est.) (approximately $20 billion)<br>
+5.3% of GDP (2018 est.) (approximately $19.9 billion)<br>
+5.5% of GDP (2017 est.) (approximately $19.7 billion)<br>
+5.6% of GDP (2016 est.) (approximately $19.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 173,000 active personnel (130,000 Ground Forces; 9,000 Naval; 34,000 Air Force) (2021)<br>

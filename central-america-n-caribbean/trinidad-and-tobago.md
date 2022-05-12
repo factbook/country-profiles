@@ -73,6 +73,9 @@ outside usual path of hurricanes and other tropical storms<br>
 **Geography - note**<br>
 Pitch Lake, on Trinidad's southwestern coast, is the world's largest natural reservoir of asphalt<br>
 
+**Map description**<br>
+<p>Trinidad and Tobago map showing the major population centers of these islands in the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 19.01% (male 116,953/female 112,805)<br>
 _15-24 years_: 11.28% (male 70,986/female 65,389)<br>
 _25-54 years_: 43.77% (male 276,970/female 252,108)<br>
 _55-64 years_: 13.83% (male 83,650/female 83,585)<br>
-_65 years and over_: 12.11% (male 64,092/female 82,251) (2020 est.)<br>
+_65 years and over_: 12.11% (2020 est.) (male 64,092/female 82,251)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.1<br>
@@ -193,7 +196,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;200 (2020 est.)<br>
+(2020 est.) &lt;200<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -458,8 +461,8 @@ $2.325 billion (2017 est.)<br>
 -$653 million (2016 est.)<br>
 
 **Exports**<br>
-$9.57 billion note: data are in current year dollars (2019 est.)<br>
-$11.57 billion note: data are in current year dollars (2018 est.)<br>
+$9.57 billion (2019 est.) note: data are in current year dollars<br>
+$11.57 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 33%, Guyana 9%, Spain 6%, China 6% (2019)<br>
@@ -468,8 +471,8 @@ United States 33%, Guyana 9%, Spain 6%, China 6% (2019)<br>
 natural gas, industrial alcohols, crude petroleum, ammonia, iron products, refined petroleum (2019)<br>
 
 **Imports**<br>
-$7.93 billion note: data are in current year dollars (2019 est.)<br>
-$9.16 billion note: data are in current year dollars (2018 est.)<br>
+$7.93 billion (2019 est.) note: data are in current year dollars<br>
+$9.16 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 40%, Guyana 19%, China 6% (2019)<br>
@@ -586,6 +589,10 @@ _international_: country code - 1-868; landing points for the EC Link, ECFS, Sou
 **Internet country code**<br>
 .tt<br>
 
+**Internet users**<br>
+_total_: 1,074,126 (2019 est.)<br>
+_percent of population_: 77% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 376,771 (2021)<br>
 _subscriptions per 100 inhabitants_: 26.92 (2021)<br>
@@ -596,7 +603,7 @@ _subscriptions per 100 inhabitants_: 26.92 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 19<br>
 _annual passenger traffic on registered air carriers_: 2,525,130 (2018)<br>
-_annual freight traffic on registered air carriers_: 41.14 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 41.14 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 9Y<br>
@@ -634,10 +641,10 @@ note - the Ministry of National Security oversees defense, immigration, and the 
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
-1% of GDP (approximately $350 million) (2019 est.)<br>
-1% of GDP (approximately $340 million) (2018 est.)<br>
-1.3% of GDP (approximately $420 million) (2017 est.)<br>
-1.4% of GDP (approximately $460 million) (2016 est.)<br>
+1% of GDP (2019 est.) (approximately $350 million)<br>
+1% of GDP (2018 est.) (approximately $340 million)<br>
+1.3% of GDP (2017 est.) (approximately $420 million)<br>
+1.4% of GDP (2016 est.) (approximately $460 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,500 TTDF personnel; approximately 7,000 TTPS personnel (2021)<br>

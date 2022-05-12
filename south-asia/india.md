@@ -85,6 +85,9 @@ with the notable exception of the deserts in the northwest, including the Thar D
 **Geography - note**<br>
 dominates South Asian subcontinent; near important Indian Ocean trade routes; Kanchenjunga, third tallest mountain in the world, lies on the border with Nepal<br>
 
+**Map description**<br>
+<p>India map showing major cities as well as parts of surrounding countries and the Indian Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ _0-14 years_: 26.31% (male 185,017,089/female 163,844,572)<br>
 _15-24 years_: 17.51% (male 123,423,531/female 108,739,780)<br>
 _25-54 years_: 41.56% (male 285,275,667/female 265,842,319)<br>
 _55-64 years_: 7.91% (male 52,444,817/female 52,447,038)<br>
-_65 years and over_: 6.72% (male 42,054,459/female 47,003,975) (2020 est.)<br>
+_65 years and over_: 6.72% (2020 est.) (male 42,054,459/female 47,003,975)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48.7<br>
@@ -332,7 +335,7 @@ federal parliamentary republic<br>
 _name_: New Delhi<br>
 _geographic coordinates_: 28 36 N, 77 12 E<br>
 _time difference_: UTC+5.5 (10.5 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: he city's name is associated with various myths and legends; the original name for the city may have been Dhilli or Dhillika; alternatively, the name could be a corruption of the Hindustani words "dehleez" or "dehali" - both terms meaning "threshold" or "gateway" - and indicative of the city as a gateway to the Gangetic Plain; after the British decided to move the capital of their Indian Empire from Calcutta to Delhi in 1911, they created a new governmental district south of the latter designated as New Delhi; the new capital was not formally inaugurated until 1931<br>
+_etymology_: the city's name is associated with various myths and legends; the original name for the city may have been Dhilli or Dhillika; alternatively, the name could be a corruption of the Hindustani words "dehleez" or "dehali" - both terms meaning "threshold" or "gateway" - and indicative of the city as a gateway to the Gangetic Plain; after the British decided to move the capital of their Indian Empire from Calcutta to Delhi in 1911, they created a new governmental district south of the latter designated as New Delhi; the new capital was not formally inaugurated until 1931<br>
 
 **Administrative divisions**<br>
 28 states and 8 union territories*; Andaman and Nicobar Islands*, Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chandigarh*, Chhattisgarh, Dadra and Nagar Haveli and Daman and Diu*, Delhi*, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir*, Jharkhand, Karnataka, Kerala, Ladakh*, Lakshadweep*, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Puducherry*, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Tripura, Uttar Pradesh, Uttarakhand, West Bengal<br>
@@ -529,9 +532,9 @@ _expenditures_: 329 billion (2017 est.)<br>
 -$65.939 billion (2018 est.)<br>
 
 **Exports**<br>
-$484.95 billion note: data are in current year dollars (2020 est.)<br>
-$546.03 billion note: data are in current year dollars (2019 est.)<br>
-$537.04 billion note: data are in current year dollars (2018 est.)<br>
+$484.95 billion (2020 est.) note: data are in current year dollars<br>
+$546.03 billion (2019 est.) note: data are in current year dollars<br>
+$537.04 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 17%, United Arab Emirates 9%, China 5% (2019)<br>
@@ -540,9 +543,9 @@ United States 17%, United Arab Emirates 9%, China 5% (2019)<br>
 refined petroleum, diamonds, packaged medicines, jewelry, cars (2019)<br>
 
 **Imports**<br>
-$493.18 billion note: data are in current year dollars (2020 est.)<br>
-$619.48 billion note: data are in current year dollars (2019 est.)<br>
-$642.96 billion note: data are in current year dollars (2018 est.)<br>
+$493.18 billion (2020 est.) note: data are in current year dollars<br>
+$619.48 billion (2019 est.) note: data are in current year dollars<br>
+$642.96 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 15%, United States 7%, United Arab Emirates 6%, Saudi Arabia 5% (2019)<br>
@@ -661,6 +664,10 @@ Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasti
 **Internet country code**<br>
 .in<br>
 
+**Internet users**<br>
+_total_: 593.4 million (2020 est.)<br>
+_percent of population_: 43% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 22.95 million (2020)<br>
 _subscriptions per 100 inhabitants_: 1.66 (2020)<br>
@@ -671,7 +678,7 @@ _subscriptions per 100 inhabitants_: 1.66 (2020)<br>
 _number of registered air carriers_: 14 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 485<br>
 _annual passenger traffic on registered air carriers_: 164,035,637 (2018)<br>
-_annual freight traffic on registered air carriers_: 2,703,960,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 2,703,960,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 VT<br>
@@ -703,15 +710,15 @@ _under 914 m_: 45 (2021)<br>
 
 **Railways**<br>
 _total_: 68,525 km (2014)<br>
-_narrow gauge_: 1,604 km 1.000-m gauge (2014)<br>
-_broad gauge_: 63,950 km (39, 329 km electrified) (2014)<br>
+_narrow gauge_: 1,604 km (2014) 1.000-m gauge<br>
+_broad gauge_: 63,950 km (2014) (39, 329 km electrified)<br>
 
 **Roadways**<br>
-_total_: 6,386,297 km note: includes 132,500 km of national highways and expressways, 186,528 km of state highways , and 6,067,269 km of other roads (2015)<br>
+_total_: 6,386,297 km (2015) note: includes 132,500 km of national highways and expressways, 186,528 km of state highways , and 6,067,269 km of other roads<br>
 <strong>note:</strong> includes 96,214 km of national highways and expressways, 147,800 km of state highways, and 4,455,010 km of other roads<br>
 
 **Waterways**<br>
-14,500 km (5,200 km on major rivers and 485 km on canals suitable for mechanized vessels) (2012)<br>
+14,500 km (2012) (5,200 km on major rivers and 485 km on canals suitable for mechanized vessels)<br>
 
 **Merchant marine**<br>
 _total_: 1,801<br>
@@ -730,10 +737,10 @@ note - the Assam Rifles are under the administrative control of the Ministry of 
 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
-2.6% of GDP (2020)<br>
-2.4% of GDP (approximately $93.9 billion) (2019)<br>
-2.4% of GDP (approximately $88.2 billion) (2018)<br>
-2.4% of GDP (approximately $83.8 billion) (2017)<br>
+2.6% of GDP (2020 est.)<br>
+2.4% of GDP (2019) (approximately $93.9 billion)<br>
+2.4% of GDP (2018) (approximately $88.2 billion)<br>
+2.4% of GDP (2017) (approximately $83.8 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 1.45 million active personnel (est. 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2021)<br>

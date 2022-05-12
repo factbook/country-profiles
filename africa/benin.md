@@ -75,6 +75,9 @@ hot, dry, dusty harmattan wind may affect north from December to March<br>
 **Geography - note**<br>
 sandbanks create difficult access to a coast with no natural harbors, river mouths, or islands<br>
 
+**Map description**<br>
+<p>Benin map showing major cities as well as parts of surrounding countries and the Bight of Benin.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 45.56% (male 2,955,396/female 2,906,079)<br>
 _15-24 years_: 20.36% (male 1,300,453/female 1,318,880)<br>
 _25-54 years_: 28.54% (male 1,735,229/female 1,935,839)<br>
 _55-64 years_: 3.15% (male 193,548/female 211,427)<br>
-_65 years and over_: 2.39% (male 140,513/female 167,270) (2020 est.)<br>
+_65 years and over_: 2.39% (2020 est.) (male 140,513/female 167,270)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 82.6<br>
@@ -502,8 +505,8 @@ calendar year<br>
 -$808 million (2016 est.)<br>
 
 **Exports**<br>
-$3.58 billion note: data are in current year dollars (2019 est.)<br>
-$3.85 billion note: data are in current year dollars (2018 est.)<br>
+$3.58 billion (2019 est.) note: data are in current year dollars<br>
+$3.85 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Nigeria 25%, Bangladesh 14%, United Arab Emirates 14%, India 13%, China 8%, Vietnam 5% (2019)<br>
@@ -512,8 +515,8 @@ Nigeria 25%, Bangladesh 14%, United Arab Emirates 14%, India 13%, China 8%, Viet
 cotton, refined petroleum, gold, cashews, copper (2019)<br>
 
 **Imports**<br>
-$4.31 billion note: data are in current year dollars (2019 est.)<br>
-$4.67 billion note: data are in current year dollars (2018 est.)<br>
+$4.31 billion (2019 est.) note: data are in current year dollars<br>
+$4.67 billion (2018 est.) note: data are in current year dollars<br>
 $5.035 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -615,7 +618,7 @@ _electrification - rural areas_: 9% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 32,386 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 11,140,891 (2020)<br>
@@ -633,9 +636,13 @@ state-run Office de Radiodiffusion et de Television du Benin (ORTB) operates a T
 **Internet country code**<br>
 .bj<br>
 
+**Internet users**<br>
+_total_: 3,152,032 (2020 est.)<br>
+_percent of population_: 26% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 29,981 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.25 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.25 (2021) less than 1<br>
 
 ## Transportation
 
@@ -643,7 +650,7 @@ _subscriptions per 100 inhabitants_: 0.25 less than 1 (2021)<br>
 _number of registered air carriers_: 1 (2015)<br>
 _inventory of registered aircraft operated by air carriers_: 1 (2015)<br>
 _annual passenger traffic on registered air carriers_: 112,392 (2015)<br>
-_annual freight traffic on registered air carriers_: 805,347 mt-km (2015)<br>
+_annual freight traffic on registered air carriers_: 805,347 (2015) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 TY<br>
@@ -666,7 +673,7 @@ _914 to 1,523 m_: 2 (2021)<br>
 
 **Railways**<br>
 _total_: 438 km (2014)<br>
-_narrow gauge_: 438 km 1.000-m gauge (2014)<br>
+_narrow gauge_: 438 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
 _total_: 16,000 km (2006)<br>
@@ -674,7 +681,7 @@ _paved_: 1,400 km (2006)<br>
 _unpaved_: 14,600 km (2006)<br>
 
 **Waterways**<br>
-150 km (seasonal navigation on River Niger along northern border) (2011)<br>
+150 km (2011) (seasonal navigation on River Niger along northern border)<br>
 
 **Merchant marine**<br>
 _total_: 6<br>
@@ -691,10 +698,10 @@ Benin Armed Forces (Forces Armees Beninoises, FAB): Army, Navy, Air Force; Minis
 
 **Military expenditures**<br>
 0.5% of GDP (2020 est.)<br>
-0.5% of GDP (approximately $130 million) (2019 est.)<br>
-0.7% of GDP (approximately $140 million) (2018 est.)<br>
-0.9% of GDP (approximately $160 million) (2017 est.)<br>
-0.7% of GDP (approximately $130 million) (2016 est.)<br>
+0.5% of GDP (2019 est.) (approximately $130 million)<br>
+0.7% of GDP (2018 est.) (approximately $140 million)<br>
+0.9% of GDP (2017 est.) (approximately $160 million)<br>
+0.7% of GDP (2016 est.) (approximately $130 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Benin Armed Forces (FAB) are comprised of approximately 7,000 active duty troops; est. 5,000 Republican Police (2021)<br>

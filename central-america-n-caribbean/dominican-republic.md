@@ -77,6 +77,9 @@ lies in the middle of the hurricane belt and subject to severe storms from June 
 **Geography - note**<br>
 shares island of Hispaniola with Haiti (eastern two-thirds makes up the Dominican Republic, western one-third is Haiti); the second largest country in the Antilles (after Cuba); geographically diverse with the Caribbean's tallest mountain, Pico Duarte, and lowest elevation and largest lake, Lago Enriquillo<br>
 
+**Map description**<br>
+<p>Dominican Republic map shows the country’s border with Haiti and its position in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 26.85% (male 1,433,166/female 1,385,987)<br>
 _15-24 years_: 18.15% (male 968,391/female 937,227)<br>
 _25-54 years_: 40.54% (male 2,168,122/female 2,088,926)<br>
 _55-64 years_: 8.17% (male 429,042/female 428,508)<br>
-_65 years and over_: 6.29% (male 310,262/female 350,076) (2020 est.)<br>
+_65 years and over_: 6.29% (2020 est.) (male 310,262/female 350,076)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.8<br>
@@ -497,9 +500,9 @@ calendar year<br>
 -$815 million (2016 est.)<br>
 
 **Exports**<br>
-$14.44 billion note: data are in current year dollars (2020 est.)<br>
-$20.51 billion note: data are in current year dollars (2019 est.)<br>
-$20.05 billion note: data are in current year dollars (2018 est.)<br>
+$14.44 billion (2020 est.) note: data are in current year dollars<br>
+$20.51 billion (2019 est.) note: data are in current year dollars<br>
+$20.05 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 54%, Switzerland 8%, Canada 5%, India 5%, China 5% (2019)<br>
@@ -508,9 +511,9 @@ United States 54%, Switzerland 8%, Canada 5%, India 5%, China 5% (2019)<br>
 gold, medical instruments, cigars, low-voltage protection equipment, bananas (2019)<br>
 
 **Imports**<br>
-$20.19 billion note: data are in current year dollars (2020 est.)<br>
-$24.53 billion note: data are in current year dollars (2019 est.)<br>
-$24.11 billion note: data are in current year dollars (2018 est.)<br>
+$20.19 billion (2020 est.) note: data are in current year dollars<br>
+$24.53 billion (2019 est.) note: data are in current year dollars<br>
+$24.11 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 50%, China 13% (2019)<br>
@@ -627,6 +630,10 @@ combination of state-owned and privately owned broadcast media; 1 state-owned TV
 **Internet country code**<br>
 .do<br>
 
+**Internet users**<br>
+_total_: 8,352,886 (2020 est.)<br>
+_percent of population_: 77% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,031,858 (2021)<br>
 _subscriptions per 100 inhabitants_: 9.51 (2021)<br>
@@ -665,8 +672,8 @@ _under 914 m_: 18 (2021)<br>
 
 **Railways**<br>
 _total_: 496 km (2014)<br>
-_standard gauge_: 354 km 1.435-m gauge (2014)<br>
-_narrow gauge_: 142 km 0.762-m gauge (2014)<br>
+_standard gauge_: 354 km (2014) 1.435-m gauge<br>
+_narrow gauge_: 142 km (2014) 0.762-m gauge<br>
 
 **Roadways**<br>
 _total_: 19,705 km (2002)<br>
@@ -690,10 +697,10 @@ note(s) - in addition to the military, the Ministry of Armed Forces directs the 
 
 **Military expenditures**<br>
 0.8% of GDP (2020 est.)<br>
-0.7% of GDP (approximately $1.43 billion) (2019 est.)<br>
-0.7% of GDP (approximately $1.33 billion) (2018 est.)<br>
-0.6% of GDP (approximately $1.2 billion) (2017 est.)<br>
-0.6% of GDP (approximately $1.11 billion) (2016 est.)<br>
+0.7% of GDP (2019 est.) (approximately $1.43 billion)<br>
+0.7% of GDP (2018 est.) (approximately $1.33 billion)<br>
+0.6% of GDP (2017 est.) (approximately $1.2 billion)<br>
+0.6% of GDP (2016 est.) (approximately $1.11 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 30,000 National Police (2021)<br>

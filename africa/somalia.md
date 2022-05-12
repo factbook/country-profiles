@@ -74,6 +74,9 @@ recurring droughts; frequent dust storms over eastern plains in summer; floods d
 **Geography - note**<br>
 strategic location on Horn of Africa along southern approaches to Bab el Mandeb and route through Red Sea and Suez Canal<br>
 
+**Map description**<br>
+<p>Somalia map showing major population centers as well as parts of surrounding countries and the Indian Ocean and Gulf of Aden.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 42.38% (male 2,488,604/female 2,493,527)<br>
 _15-24 years_: 19.81% (male 1,167,807/female 1,161,040)<br>
 _25-54 years_: 30.93% (male 1,881,094/female 1,755,166)<br>
 _55-64 years_: 4.61% (male 278,132/female 264,325)<br>
-_65 years and over_: 2.27% (male 106,187/female 161,242) (2020 est.)<br>
+_65 years and over_: 2.27% (2020 est.) (male 106,187/female 161,242)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 96.3<br>
@@ -191,13 +194,13 @@ _unimproved: rural_: rural: 66.2% of population<br>
 _unimproved: total_: total: 43.8% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 8,700 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -259,7 +262,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Somalia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: due to poor seasonal rains - about 2.8 million people are estimated to be severely food insecure in the April&minus;September 2021 period, mainly as a result of the cumulative impact of poor October&minus;December 2020 &ldquo;Deyr&rdquo; rains and April&minus;June &ldquo;Gu&rdquo; rains, which severely affected crop and livestock production; below‑average cereal output gathered in 2020; production of 2021 main season cereals forecast at 20‑40 percent below average due to unfavorable seasonal rains; severe pasture and water shortages in pastoral areas are affecting livestock conditions (2021)<br>
+_exceptional shortfall in aggregate food production/supplies_: an estimated 4.15 million people are facing severe food insecurity between February and March 2022, mainly as a result of consecutive poor rainy seasons since late 2020, which severely affected crop and livestock production, and due to heightened conflict since early 2021; two consecutive poor rainy seasons resulted in significant crop and livestock production shortfalls, while food access has been severely affected in recent months by declining employment opportunities in rural areas and by the escalation of conflict (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,326,099 tons (2016 est.)<br>
@@ -588,9 +591,13 @@ _international_: country code - 252; landing points for the G2A, DARE1, PEACE, a
 **Internet country code**<br>
 .so<br>
 
+**Internet users**<br>
+_total_: 308,858 (2019 est.)<br>
+_percent of population_: 2% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 119,000 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.75 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.75 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -635,11 +642,11 @@ Ministry of Defense: Somali National Army (SNA); Ministry of Internal Security: 
 note(s) - Somalia also has numerous militia and regional forces operating throughout the country; these forces include ones that are clan- and warlord-based, semi-official paramilitary and special police forces (aka <em>darwish</em>), and externally-sponsored militias; the SNA is attempting to incorporate some of these militia units; in addition, Somaliland has army and naval forces under the Somaliland Ministry of Defense and Armed Forces<br>
 
 **Military expenditures**<br>
-5.6% of GDP (approximately $120 million) (2019 est.)<br>
-6% of GDP (approximately $120 million) (2018 est.)<br>
-5.9% of GDP (approximately $110 million) (2017 est.)<br>
-6% of GDP (approximately $110 million) (2016 est.)<br>
-5.9% of GDP (approximately $110 million) (2015 est.)<br>
+5.6% of GDP (2019 est.) (approximately $120 million)<br>
+6% of GDP (2018 est.) (approximately $120 million)<br>
+5.9% of GDP (2017 est.) (approximately $110 million)<br>
+6% of GDP (2016 est.) (approximately $110 million)<br>
+5.9% of GDP (2015 est.) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
 estimates for the size of the Somali National Army (SNA) vary widely, from a low of about 10,000 to a high of some 25,000 due to inconsistent internal reporting and the ongoing attempts to integrate various militias (2021)<br>

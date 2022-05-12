@@ -75,6 +75,9 @@ despite a distinctive pattern with an industrial north and an agrarian south, a 
 **Geography - note**<br>
 strategic location dominating central Mediterranean as well as southern sea and air approaches to Western Europe<br>
 
+**Map description**<br>
+<p>Italy map showing major cities as well as parts of surrounding countries and water bodies.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -88,7 +91,7 @@ _adjective_: Italian<br>
 Italian (includes small clusters of German-, French-, and Slovene-Italians in the north and Albanian-Italians and Greek-Italians in the south)<br>
 
 **Languages**<br>
-Italian (official), German (parts of Trentino-Alto Adige region are predominantly German speaking), French (small French-speaking minority in Valle d'Aosta region), Slovene (Slovene-speaking minority in the Trieste-Gorizia area)<br>
+Italian (official), German (parts of Trentino-Alto Adige region are predominantly German-speaking), French (small French-speaking minority in Valle d'Aosta region), Slovene (Slovene-speaking minority in the Trieste-Gorizia area)<br>
 _major-language sample(s)_: <br>L'Almanacco dei fatti del mondo, l'indispensabile fonte per le informazioni di base. (Italian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -99,7 +102,7 @@ _0-14 years_: 13.45% (male 4,292,431/female 4,097,732)<br>
 _15-24 years_: 9.61% (male 3,005,402/female 2,989,764)<br>
 _25-54 years_: 40.86% (male 12,577,764/female 12,921,614)<br>
 _55-64 years_: 14% (male 4,243,735/female 4,493,581)<br>
-_65 years and over_: 22.08% (male 5,949,560/female 7,831,076) (2020 est.)<br>
+_65 years and over_: 22.08% (2020 est.) (male 5,949,560/female 7,831,076)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57<br>
@@ -199,7 +202,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-<1000 (2020 est.)<br>
+(2020 est.) <1000<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
@@ -498,9 +501,9 @@ $59.517 billion (2019 est.)<br>
 $51.735 billion (2018 est.)<br>
 
 **Exports**<br>
-$558.26 billion note: data are in current year dollars (2020 est.)<br>
-$636.01 billion note: data are in current year dollars (2019 est.)<br>
-$656.06 billion note: data are in current year dollars (2018 est.)<br>
+$558.26 billion (2020 est.) note: data are in current year dollars<br>
+$636.01 billion (2019 est.) note: data are in current year dollars<br>
+$656.06 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 12%, France 11%, United States 10%, United Kingdom 5%, Spain 5%, Switzerland 5% (2019)<br>
@@ -509,9 +512,9 @@ Germany 12%, France 11%, United States 10%, United Kingdom 5%, Spain 5%, Switzer
 packaged medicines, cars and vehicle parts, refined petroleum, valves, trunks/cases, wine (2019)<br>
 
 **Imports**<br>
-$486.35 billion note: data are in current year dollars (2020 est.)<br>
-$569.7 billion note: data are in current year dollars (2019 est.)<br>
-$605.44 billion note: data are in current year dollars (2018 est.)<br>
+$486.35 billion (2020 est.) note: data are in current year dollars<br>
+$569.7 billion (2019 est.) note: data are in current year dollars<br>
+$605.44 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 16%, France 9%, China 7%, Spain 5%, Netherlands 5%, Belgium 5% (2019)<br>
@@ -628,6 +631,10 @@ two Italian media giants dominate - the publicly owned Radiotelevisione Italiana
 **Internet country code**<br>
 .it<br>
 
+**Internet users**<br>
+_total_: 41,614,669 (2020 est.)<br>
+_percent of population_: 70% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 18,128,787 (2021)<br>
 _subscriptions per 100 inhabitants_: 29.98 (2021)<br>
@@ -638,7 +645,7 @@ _subscriptions per 100 inhabitants_: 29.98 (2021)<br>
 _number of registered air carriers_: 9 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 180<br>
 _annual passenger traffic on registered air carriers_: 27,630,435 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.418 billion mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1.418 billion (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 I<br>
@@ -668,16 +675,16 @@ _under 914 m_: 20 (2021)<br>
 
 **Railways**<br>
 _total_: 20,182 km (2014)<br>
-_standard gauge_: 18,770.1 km 1.435-m gauge (12,893.6 km electrified) (2014)<br>
-_narrow gauge_: 122.3 km 1.000-m gauge (122.3 km electrified) (2014)<br>
+_standard gauge_: 18,770.1 km (2014) 1.435-m gauge (12,893.6 km electrified)<br>
+_narrow gauge_: 122.3 km (2014) 1.000-m gauge (122.3 km electrified)<br>
 1289.3 0.950-m gauge (151.3 km electrified)<br>
 
 **Roadways**<br>
 _total_: 487,700 km (2007)<br>
-_paved_: 487,700 km (includes 6,700 km of expressways) (2007)<br>
+_paved_: 487,700 km (2007) (includes 6,700 km of expressways)<br>
 
 **Waterways**<br>
-2,400 km (used for commercial traffic; of limited overall value compared to road and rail) (2012)<br>
+2,400 km (2012) (used for commercial traffic; of limited overall value compared to road and rail)<br>
 
 **Merchant marine**<br>
 _total_: 1,296<br>
@@ -698,12 +705,12 @@ note(s) - the Carabinieri is the national gendarmerie; for its civil police func
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
 1.6% of GDP (2020)<br>
-1.2% of GDP (approximately $30.1 billion) (2019)<br>
-1.2% of GDP (approximately $31 billion) (2018)<br>
-1.2% of GDP (approximately $30.1 billion) (2017)<br>
+1.2% of GDP (2019) (approximately $30.1 billion)<br>
+1.2% of GDP (2018) (approximately $31 billion)<br>
+1.2% of GDP (2017) (approximately $30.1 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 107,000 Carabinieri (2021)<br>
+approximately 175,000 active personnel (105,000 Army; 30,000 Navy; 40,000 Air Force); approximately 107,000 Carabinieri (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Italian Armed Forces' inventory includes a mix of domestically-produced, jointly-produced, and imported weapons systems, mostly from Europe and the US; the US is the leading supplier of weapons to Italy since 2010, followed by Germany; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in naval vessels and aircraft; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2021)<br>
@@ -732,7 +739,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 599,761 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
+<strong>note:</strong> 601,011 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

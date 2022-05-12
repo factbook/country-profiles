@@ -70,6 +70,9 @@ active volcanoes on Pagan and Agrihan; typhoons (especially August to November)<
 **Geography - note**<br>
 strategic location in the North Pacific Ocean<br>
 
+**Map description**<br>
+<p>Northern Mariana Islands map showing the major islands of this archipelago in the North Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -93,7 +96,7 @@ _0-14 years_: 25.02% (male 6,937/female 5,934)<br>
 _15-24 years_: 16.28% (male 4,518/female 3,857)<br>
 _25-54 years_: 37.44% (male 9,934/female 9,325)<br>
 _55-64 years_: 14.01% (male 3,921/female 3,286)<br>
-_65 years and over_: 7.23% (male 1,988/female 1,733) (2020 est.)<br>
+_65 years and over_: 7.23% (2020 est.) (male 1,988/female 1,733)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -333,7 +336,7 @@ _services_: 40.2% (2016)<br>
 _household consumption_: 43.1% (2016 est.)<br>
 _government consumption_: 28.9% (2016 est.)<br>
 _investment in fixed capital_: 26.3% (2016 est.)<br>
-_investment in inventories_: NA (2016 est.)<br>
+_investment in inventories_: (2016 est.) NA<br>
 _exports of goods and services_: 73.6% (2016 est.)<br>
 _imports of goods and services_: -71.9% (2016 est.)<br>
 
@@ -446,6 +449,10 @@ _international_: country code - 1-670; landing points for the Atisa and Mariana-
 
 **Internet country code**<br>
 .mp<br>
+
+**Internet users**<br>
+_total_: 17,418 (2016 est.)<br>
+_percent of population_: 31% (2016 est.)<br>
 
 ## Transportation
 

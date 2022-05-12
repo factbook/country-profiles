@@ -76,6 +76,9 @@ flooding<br>
 **Geography - note**<br>
 <strong>note 1:</strong> landlocked; strategically located astride some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europe<br><br><strong>note 2:</strong> the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete and it could end up being some 800-1,200 m deep<br>
 
+**Map description**<br>
+<p>Czechia map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -86,21 +89,23 @@ _noun_: Czech(s)<br>
 _adjective_: Czech<br>
 
 **Ethnic groups**<br>
-Czech 64.3%, Moravian 5%, Slovak 1.4%, other 1.8%, unspecified 27.5% (2011 est.)<br>
+Czech 57.3%, Moravian 3.4%, other 7.7%, unspecified 31.6% (2021 est.)<br>
+<strong>note:</strong> includes only persons with one ethnicity<br>
 
 **Languages**<br>
-Czech (official) 95.4%, Slovak 1.6%, other 3% (2011 est.)<br>
+Czech (official) 88.4%, Slovak 1.5%, other 2.6%, unspecified 7.2% (2021 est.)<br>
 _major-language sample(s)_: <br>World Fackbook, nepostradatelný zdroj základních informací. (Czech)<br><br>The World Factbook, the indispensable source for basic information.<br>
+<strong>note:</strong> includes only persons with one mother tongue<br>
 
 **Religions**<br>
-Roman Catholic 10.4%, Protestant (includes Czech Brethren and Hussite) 1.1%, other and unspecified 54%, none 34.5% (2011 est.)<br>
+Roman Catholic 7.4%, Evangelical United Brethren Church 0.3%, Czechoslovak Hussite Church 0.2%, believers unaffiliated with a religious society 90.7%, none 50.5%, unspecified 31.8% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 15.17% (male 834,447/female 789,328)<br>
 _15-24 years_: 9.2% (male 508,329/female 475,846)<br>
 _25-54 years_: 43.29% (male 2,382,899/female 2,249,774)<br>
 _55-64 years_: 12.12% (male 636,357/female 660,748)<br>
-_65 years and over_: 20.23% (male 907,255/female 1,257,515) (2020 est.)<br>
+_65 years and over_: 20.23% (2020 est.) (male 907,255/female 1,257,515)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56<br>
@@ -192,13 +197,13 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2018 est.)<br>
+(2018 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 4,400 (2018 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018 est.)<br>
+(2018 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 26% (2016)<br>
@@ -488,9 +493,9 @@ calendar year<br>
 $1.259 billion (2018 est.)<br>
 
 **Exports**<br>
-$174.92 billion note: data are in current year dollars (2020 est.)<br>
-$186.54 billion note: data are in current year dollars (2019 est.)<br>
-$191.69 billion note: data are in current year dollars (2018 est.)<br>
+$174.92 billion (2020 est.) note: data are in current year dollars<br>
+$186.54 billion (2019 est.) note: data are in current year dollars<br>
+$191.69 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 31%, Slovakia 7%, Poland 6%, France 5% (2019)<br>
@@ -499,9 +504,9 @@ Germany 31%, Slovakia 7%, Poland 6%, France 5% (2019)<br>
 cars and vehicle parts, computers, broadcasting equipment, office machinery/parts, seating (2019)<br>
 
 **Imports**<br>
-$157.95 billion note: data are in current year dollars (2020 est.)<br>
-$171.43 billion note: data are in current year dollars (2019 est.)<br>
-$176.78 billion note: data are in current year dollars (2018 est.)<br>
+$157.95 billion (2020 est.) note: data are in current year dollars<br>
+$171.43 billion (2019 est.) note: data are in current year dollars<br>
+$176.78 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 27%, China 12%, Poland 9%, Slovakia 5% (2019)<br>
@@ -618,9 +623,13 @@ _international_: country code - 420; satellite earth stations - 6 (2 Intersputni
 **Internet country code**<br>
 .cz<br>
 
+**Internet users**<br>
+_total_: 8,665,265 (2020 est.)<br>
+_percent of population_: 81% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 3,845,426 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 35.91 (2021)<br>
+_total_: 3,845,426 (2022)<br>
+_subscriptions per 100 inhabitants_: 35.91 (2022)<br>
 
 ## Transportation
 
@@ -628,7 +637,7 @@ _subscriptions per 100 inhabitants_: 35.91 (2021)<br>
 _number of registered air carriers_: 4 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 48<br>
 _annual passenger traffic on registered air carriers_: 5,727,200 (2018)<br>
-_annual freight traffic on registered air carriers_: 25.23 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 25.23 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 OK<br>
@@ -658,15 +667,15 @@ _under 914 m_: 61 (2021)<br>
 
 **Railways**<br>
 _total_: 9,408 km (2017)<br>
-_standard gauge_: 9,385 km 1.435-m gauge (3,218 km electrified) (2017)<br>
-_narrow gauge_: 23 km 0.760-m gauge (2017)<br>
+_standard gauge_: 9,385 km (2017) 1.435-m gauge (3,218 km electrified)<br>
+_narrow gauge_: 23 km (2017) 0.760-m gauge<br>
 
 **Roadways**<br>
-_total_: 55,744 km (includes urban and category I, II, III roads) (2019)<br>
-_paved_: 55,744 km (includes 1,252 km of expressways) (2019)<br>
+_total_: 55,744 km (2019) (includes urban and category I, II, III roads)<br>
+_paved_: 55,744 km (2019) (includes 1,252 km of expressways)<br>
 
 **Waterways**<br>
-664 km (principally on Elbe, Vltava, Oder, and other navigable rivers, lakes, and canals) (2010)<br>
+664 km (2010) (principally on Elbe, Vltava, Oder, and other navigable rivers, lakes, and canals)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Prague (Vltava)<br>
@@ -680,9 +689,9 @@ Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces Direct
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.3% of GDP (2020)<br>
-1.2% of GDP (approximately $4.05 billion) (2019)<br>
-1.1% of GDP (approximately $3.8 billion) (2018)<br>
-1% of GDP (approximately $3.4 billion) (2017)<br>
+1.2% of GDP (2019) (approximately $4.05 billion)<br>
+1.1% of GDP (2018) (approximately $3.8 billion)<br>
+1% of GDP (2017) (approximately $3.4 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Czech military has approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2021)<br>

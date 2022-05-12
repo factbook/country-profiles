@@ -82,6 +82,9 @@ hot, dust-laden harmattan haze common during dry seasons; recurring droughts; oc
 **Geography - note**<br>
 landlocked; divided into three natural zones: the southern, cultivated Sudanese; the central, semiarid Sahelian; and the northern, arid Saharan<br>
 
+**Map description**<br>
+<p>Mali map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ _0-14 years_: 47.69% (male 4,689,121/female 4,636,685)<br>
 _15-24 years_: 19% (male 1,768,772/female 1,945,582)<br>
 _25-54 years_: 26.61% (male 2,395,566/female 2,806,830)<br>
 _55-64 years_: 3.68% (male 367,710/female 352,170)<br>
-_65 years and over_: 3.02% (male 293,560/female 297,401) (2020 est.)<br>
+_65 years and over_: 3.02% (2020 est.) (male 293,560/female 297,401)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 98<br>
@@ -388,7 +391,7 @@ African Solidarity for Democracy and Independence or SADI [Oumar MARIKO]<br>Alli
 ACP, AfDB, AU (suspended), CD, ECOWAS (suspended), EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNAMID, UNCTAD, UNDP, UNESCO, UNFPA, UNHCR, UNIDO, UNISFA, UNMISS, UNOPS, UN Women, UNWTO, UPU, WADB (regional), WAEMU, World Bank Group, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (appointed) Sekou BERTHE (since April 2022)<br>
+_chief of mission_: Ambassador (designate) S&eacute;kou BERTHE (since April 2022)<br>
 _chancery_: 2130 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-2249<br>
 _FAX_: [1] (202) 332-6603<br>
@@ -521,7 +524,7 @@ calendar year<br>
 -$1.015 billion (2016 est.)<br>
 
 **Exports**<br>
-$4.18 billion note: data are in current year dollars (2018 est.)<br>
+$4.18 billion (2018 est.) note: data are in current year dollars<br>
 $2.803 billion (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -531,7 +534,7 @@ United Arab Emirates 66%, Switzerland 26% (2019)<br>
 gold, cotton, sesame seeds, lumber, vegetable oils/residues (2019)<br>
 
 **Imports**<br>
-$6.08 billion note: data are in current year dollars (2018 est.)<br>
+$6.08 billion (2018 est.) note: data are in current year dollars<br>
 $3.403 billion (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -651,6 +654,10 @@ national public TV broadcaster; 2 privately owned companies provide subscription
 **Internet country code**<br>
 .ml<br>
 
+**Internet users**<br>
+_total_: 5,467,725 (2020 est.)<br>
+_percent of population_: 27% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 243,806 (2021)<br>
 _subscriptions per 100 inhabitants_: 1.2 (2021)<br>
@@ -684,13 +691,13 @@ _under 914 m_: 5 (2021)<br>
 
 **Railways**<br>
 _total_: 593 km (2014)<br>
-_narrow gauge_: 593 km 1.000-m gauge (2014)<br>
+_narrow gauge_: 593 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
 _total_: 139,107 km (2018)<br>
 
 **Waterways**<br>
-1,800 km (downstream of Koulikoro; low water levels on the River Niger cause problems in dry years; in the months before the rainy season the river is not navigable by commercial vessels) (2011)<br>
+1,800 km (2011) (downstream of Koulikoro; low water levels on the River Niger cause problems in dry years; in the months before the rainy season the river is not navigable by commercial vessels)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Koulikoro (Niger)<br>
@@ -703,10 +710,10 @@ note(s) - the Gendarmerie and the National Guard are under the authority of the 
 
 **Military expenditures**<br>
 3.4% of GDP (2020 est.)<br>
-3.1% of GDP (approximately $630 million) (2019 est.)<br>
-3.1% of GDP (approximately $600 million) (2018 est.)<br>
-3.2% of GDP (approximately $600 million) (2017 est.)<br>
-2.8% of GDP (approximately $500 million) (2016 est.)<br>
+3.1% of GDP (2019 est.) (approximately $630 million)<br>
+3.1% of GDP (2018 est.) (approximately $600 million)<br>
+3.2% of GDP (2017 est.) (approximately $600 million)<br>
+2.8% of GDP (2016 est.) (approximately $500 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 16,000 active personnel (15,000 Army; 1,000 Air Force); estimated 10,000 Gendarmerie and National Guard (2021)<br>

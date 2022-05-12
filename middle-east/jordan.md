@@ -79,6 +79,9 @@ droughts; periodic earthquakes; flash floods<br>
 **Geography - note**<br>
 strategic location at the head of the Gulf of Aqaba and as the Arab country that shares the longest border with Israel and the occupied West Bank; the Dead Sea, the lowest point in Asia and the second saltiest body of water in the world (after Lac Assal in Djibouti), lies on Jordan's western border with Israel and the West Bank; Jordan is almost landlocked but does have a 26 km southwestern coastline with a single port, Al 'Aqabah (Aqaba)<br>
 
+**Map description**<br>
+<p>Jordan map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -105,7 +108,7 @@ _0-14 years_: 33.05% (male 1,837,696/female 1,738,935)<br>
 _15-24 years_: 19.77% (male 1,126,567/female 1,012,812)<br>
 _25-54 years_: 38.39% (male 2,250,328/female 1,903,996)<br>
 _55-64 years_: 5.11% (male 290,633/female 262,827)<br>
-_65 years and over_: 3.67% (male 194,464/female 202,386) (2020 est.)<br>
+_65 years and over_: 3.67% (2020 est.) (male 194,464/female 202,386)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 58.2<br>
@@ -198,13 +201,13 @@ _unimproved: rural_: rural: 2.2% of population<br>
 _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<1,000 (2020 est.)<br>
+(2020 est.) <1,000<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020 est.)<br>
+(2020 est.) <100<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 30 March 2022, Jordan has reported a total of 1,692,485 cases of COVID-19 or 16,587.89 cumulative cases of COVID-19 per 100,000 population with a total of 14,031 cumulative deaths or a rate of 137.51 cumulative deaths per 100,000 population; as of 29 March 2022, 45.91% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -355,8 +358,8 @@ _elections/appointments_: the monarchy is hereditary; prime minister appointed b
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Majlis al-'Umma consists of:<br>Senate or the House of Notables or Majlis al-Ayan (65 seats; members appointed by the monarch to serve 4-year terms)<br>Chamber of Deputies or House of Representatives or Majlis al-Nuwaab (130 seats; 115 members directly elected in 23 multi-seat constituencies by open-list proportional representation vote and 15 seats for women; 12 of the 115 seats reserved for Christian, Chechen, and Circassian candidates; members serve 4-year terms)<br>
-_elections_: <br>Chamber of Deputies - last held on 10 November 2020 (next to be held in November 2024)<br>
-_election results_: <br>Chamber of Deputies - note - tribal, centrist, and pro-government candidates dominated in the 130-seat election; the Islamic Action Front, the political wing of the Muslim Brotherhood, garnered only 10 seats, down from 15 in the previous election; women, who are guaranteed 15 seats by Jordan’s legislative quota system, only won the requisite number, down from the 20 seats won in the previous election <p> </p><br>
+_elections_: Senate - last appointments on 27 Sep 2020 (next appointments in 2024)<br>Chamber of Deputies - last held on 10 November 2020 (next to be held in November 2024)<br>
+_election results_: Senate - composition men 58, women 7, percent of women 10.8%<br>Chamber of Deputies - note - tribal, centrist, and pro-government candidates dominated in the 130-seat election; the Islamic Action Front, the political wing of the Muslim Brotherhood, garnered only 10 seats, down from 15 in the previous election; women, who are guaranteed 15 seats by Jordan’s legislative quota system, won 16 seats, down from 20 seats won in the previous election; composition - men 114, women 16, percent of women 12.3%; note - total National Assembly percent of women 11.8%<br> <p> </p><br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation or Supreme Court (consists of 15 members, including the chief justice); Constitutional Court (consists of&nbsp;9 members)<br>
@@ -508,8 +511,8 @@ calendar year<br>
 -$2.964 billion (2018 est.)<br>
 
 **Exports**<br>
-$16.29 billion note: data are in current year dollars (2019 est.)<br>
-$15.09 billion note: data are in current year dollars (2018 est.)<br>
+$16.29 billion (2019 est.) note: data are in current year dollars<br>
+$15.09 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 21%, Saudi Arabia 13%, India 8%, Iraq 7%, United Arab Emirates 5%, China 5% (2019)<br>
@@ -518,8 +521,8 @@ United States 21%, Saudi Arabia 13%, India 8%, Iraq 7%, United Arab Emirates 5%,
 fertilizers, calcium phosphates, packaged medicines, clothing and apparel, phosphoric acid (2019)<br>
 
 **Imports**<br>
-$22.04 billion note: data are in current year dollars (2019 est.)<br>
-$22.92 billion note: data are in current year dollars (2018 est.)<br>
+$22.04 billion (2019 est.) note: data are in current year dollars<br>
+$22.92 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 17%, Saudi Arabia 15%, United States 6%, United Arab Emirates 6%, Egypt 5%, India 5% (2019)<br>
@@ -636,6 +639,10 @@ radio and TV dominated by the government-owned Jordan Radio and Television Corpo
 **Internet country code**<br>
 .jo<br>
 
+**Internet users**<br>
+_total_: 6,768,137 (2019 est.)<br>
+_percent of population_: 67% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 630,545 (2021)<br>
 _subscriptions per 100 inhabitants_: 6.18 (2021)<br>
@@ -646,7 +653,7 @@ _subscriptions per 100 inhabitants_: 6.18 (2021)<br>
 _number of registered air carriers_: 4 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 54<br>
 _annual passenger traffic on registered air carriers_: 3,383,805 (2018)<br>
-_annual freight traffic on registered air carriers_: 175.84 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 175.84 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 JY<br>
@@ -673,7 +680,7 @@ _under 914 m_: 2 (2021)<br>
 
 **Railways**<br>
 _total_: 1,596 km (2020)<br>
-_narrow gauge_: 509 km 1.050-m gauge (2014)<br>
+_narrow gauge_: 509 km (2014) 1.050-m gauge<br>
 
 **Roadways**<br>
 _total_: 7,203 km (2011)<br>
@@ -693,10 +700,10 @@ Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations 
 
 **Military expenditures**<br>
 5% of GDP (2020 est.)<br>
-5.6% of GDP (approximately $5.18 billion) (2019 est.)<br>
-5.6% of GDP (approximately $5.14 billion) (2018 est.)<br>
-5.7% of GDP (approximately $5.18 billion) (2017 est.)<br>
-5.5% of GDP (approximately $4.91 billion) (2016 est.)<br>
+5.6% of GDP (2019 est.) (approximately $5.18 billion)<br>
+5.6% of GDP (2018 est.) (approximately $5.14 billion)<br>
+5.7% of GDP (2017 est.) (approximately $5.18 billion)<br>
+5.5% of GDP (2016 est.) (approximately $4.91 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 90,000 active JAF personnel (77,000 Army; 500 Navy; 12,500 Air Force); approximately 15,000 Gendarmerie Forces (2021)<br>

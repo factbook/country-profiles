@@ -80,6 +80,9 @@ earthquakes in the south; mudslides around Almaty<br>
 **Geography - note**<br>
 world's largest landlocked country and one of only two landlocked countries in the world that extends into two continents (the other is Azerbaijan); Russia leases approximately 6,000 sq km of territory enclosing the Baikonur Cosmodrome; in January 2004, Kazakhstan and Russia extended the lease to 2050<br>
 
+**Map description**<br>
+<p>Kazakhstan map showing major cities as well as parts of surrounding countries and the Caspian Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -104,7 +107,7 @@ _0-14 years_: 26.13% (male 2,438,148/female 2,550,535)<br>
 _15-24 years_: 12.97% (male 1,262,766/female 1,212,645)<br>
 _25-54 years_: 42.23% (male 3,960,188/female 4,102,845)<br>
 _55-64 years_: 10.25% (male 856,180/female 1,099,923)<br>
-_65 years and over_: 8.43% (male 567,269/female 1,041,450) (2020 est.)<br>
+_65 years and over_: 8.43% (2020 est.) (male 567,269/female 1,041,450)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 58.8<br>
@@ -203,7 +206,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 35,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Obesity - adult prevalence rate**<br>
 21% (2016)<br>
@@ -499,9 +502,9 @@ calendar year<br>
 -$138 million (2018 est.)<br>
 
 **Exports**<br>
-$51.75 billion note: data are in current year dollars (2020 est.)<br>
-$65.91 billion note: data are in current year dollars (2019 est.)<br>
-$67.15 billion note: data are in current year dollars (2018 est.)<br>
+$51.75 billion (2020 est.) note: data are in current year dollars<br>
+$65.91 billion (2019 est.) note: data are in current year dollars<br>
+$67.15 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 13%, Italy 12%, Russia 10%, Netherlands 7%, France 6%, South Korea 5% (2019)<br>
@@ -510,9 +513,9 @@ China 13%, Italy 12%, Russia 10%, Netherlands 7%, France 6%, South Korea 5% (201
 crude petroleum, natural gas, copper, iron alloys, radioactive chemicals (2019)<br>
 
 **Imports**<br>
-$44.3 billion note: data are in current year dollars (2020 est.)<br>
-$51.5 billion note: data are in current year dollars (2019 est.)<br>
-$46.23 billion note: data are in current year dollars (2018 est.)<br>
+$44.3 billion (2020 est.) note: data are in current year dollars<br>
+$51.5 billion (2019 est.) note: data are in current year dollars<br>
+$46.23 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Russia 34%, China 24% (2019)<br>
@@ -629,9 +632,13 @@ the state owns nearly all radio and TV transmission facilities and operates nati
 **Internet country code**<br>
 .kz<br>
 
+**Internet users**<br>
+_total_: 16,128,818 (2020 est.)<br>
+_percent of population_: 86% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 2,620,400 (2021)<br>
-_subscriptions per 100 inhabitants_: 13.96 (2021 est.)<br>
+_total_: 2,620,400 (2022)<br>
+_subscriptions per 100 inhabitants_: 13.96 (2022)<br>
 
 ## Transportation
 
@@ -639,7 +646,7 @@ _subscriptions per 100 inhabitants_: 13.96 (2021 est.)<br>
 _number of registered air carriers_: 12 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 84<br>
 _annual passenger traffic on registered air carriers_: 7,143,797 (2018)<br>
-_annual freight traffic on registered air carriers_: 50.22 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 50.22 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 UP<br>
@@ -671,7 +678,7 @@ _under 914 m_: 13 (2021)<br>
 
 **Railways**<br>
 _total_: 16,614 km (2017)<br>
-_broad gauge_: 16,614 km 1.520-m gauge (4,200 km electrified) (2017)<br>
+_broad gauge_: 16,614 km (2017) 1.520-m gauge (4,200 km electrified)<br>
 
 **Roadways**<br>
 _total_: 95,409 km (2017)<br>
@@ -679,7 +686,7 @@ _paved_: 81,814 km (2017)<br>
 _unpaved_: 13,595 km (2017)<br>
 
 **Waterways**<br>
-4,000 km (on the Ertis (Irtysh) River (80%) and Syr Darya (Syrdariya) River) (2010)<br>
+4,000 km (2010) (on the Ertis (Irtysh) River (80%) and Syr Darya (Syrdariya) River)<br>
 
 **Merchant marine**<br>
 _total_: 119<br>
@@ -695,11 +702,11 @@ _river port(s)_: Oskemen (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk) (Irt
 Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces; Ministry of Internal Affairs: National Police, National Guard, Border Service (includes Coast Guard), Committee for National Security (2021)<br>
 
 **Military expenditures**<br>
+1% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
-1.1% of GDP (approximately $3.6 billion) (2019 est.)<br>
-0.9% of GDP (approximately $3.06 billion) (2018 est.)<br>
-0.8% of GDP (approximately $2.85 billion) (2017 est.)<br>
-0.9% of GDP (approximately $2.93 billion) (2016 est.)<br>
+1.1% of GDP (2019 est.) (approximately $3.6 billion)<br>
+0.9% of GDP (2018 est.) (approximately $3.06 billion)<br>
+0.8% of GDP (2017 est.) (approximately $2.85 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 40,000 active duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces) (2021)<br>

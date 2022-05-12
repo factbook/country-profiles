@@ -76,6 +76,9 @@ severe winters in the north<br>
 **Geography - note**<br>
 long boundary with Russia; Helsinki is northernmost national capital on European continent; population concentrated on small southwestern coastal plain<br>
 
+**Map description**<br>
+<p>Finland map showing major cities as well as parts of surrounding countries and the Baltic Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -87,21 +90,21 @@ _adjective_: Finnish<br>
 
 **Ethnic groups**<br>
 Finnish, Swedish, Russian, Estonian, Romani, Sami<br>
-<strong>note:</strong> 92% of the population has a Finnish background<br>
+<strong>note:</strong> 91.5% of the population has a Finnish background<br>
 
 **Languages**<br>
-Finnish (official) 86.9%, Swedish (official) 5.2%, Russian 1.5%, other 6.4% (2020 est.)<br>
+Finnish (official) 86.5%, Swedish (official) 5.2%, Russian 1.6%, other 6.7% (2021 est.)<br>
 _major-language sample(s)_: <br>World Factbook, korvaamaton perustietolähde. (Finnish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Lutheran 67.8%, Greek Orthodox 1.1%, other 1.7%, unspecified 29.4% (2020 est.)<br>
+Lutheran 66.6%, Greek Orthodox 1.1%, other 1.7%, none 30.6% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 16.41% (male 467,220/female 447,005)<br>
 _15-24 years_: 10.95% (male 312,179/female 297,717)<br>
 _25-54 years_: 37.37% (male 1,064,326/female 1,017,545)<br>
 _55-64 years_: 13.02% (male 357,687/female 367,610)<br>
-_65 years and over_: 22.26% (male 543,331/female 697,045) (2020 est.)<br>
+_65 years and over_: 22.26% (2020 est.) (male 543,331/female 697,045)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 62.4<br>
@@ -200,7 +203,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 4,000 (2018)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018)<br>
+(2018) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 22.2% (2016)<br>
@@ -485,8 +488,8 @@ calendar year<br>
 -$4.908 billion (2018 est.)<br>
 
 **Exports**<br>
-$108.22 billion note: data are in current year dollars (2019 est.)<br>
-$106.01 billion note: data are in current year dollars (2018 est.)<br>
+$108.22 billion (2019 est.) note: data are in current year dollars<br>
+$106.01 billion (2018 est.) note: data are in current year dollars<br>
 $109.513 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -496,8 +499,8 @@ Germany 14%, Sweden 10%, United States 8%, Netherlands 6%, China 6%, Russia 5% (
 refined petroleum, paper and wood pulp products, cars, stainless steel, lumber (2019)<br>
 
 **Imports**<br>
-$107.39 billion note: data are in current year dollars (2019 est.)<br>
-$109.45 billion note: data are in current year dollars (2018 est.)<br>
+$107.39 billion (2019 est.) note: data are in current year dollars<br>
+$109.45 billion (2018 est.) note: data are in current year dollars<br>
 $110.701 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -591,7 +594,7 @@ _electrification - total population_: 100% (2020)<br>
 2.322 billion cu m (2017 est.)<br>
 
 **Natural gas - proved reserves**<br>
-NA cu m (1 January 2016 est.)<br>
+(1 January 2016 est.) NA cu m<br>
 
 ## Communications
 
@@ -616,6 +619,10 @@ a mix of 3 publicly operated TV stations and numerous privately owned TV station
 <p>.fi</p> <p> </p><br>
 note - Aland Islands assigned .ax<br>
 
+**Internet users**<br>
+_total_: 5,087,180 (2020 est.)<br>
+_percent of population_: 92% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1.846 million (2021)<br>
 _subscriptions per 100 inhabitants_: 33.32 (2021)<br>
@@ -626,7 +633,7 @@ _subscriptions per 100 inhabitants_: 33.32 (2021)<br>
 _number of registered air carriers_: 3 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 77<br>
 _annual passenger traffic on registered air carriers_: 13,364,839 (2018)<br>
-_annual freight traffic on registered air carriers_: 957.64 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 957.64 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 OH<br>
@@ -652,16 +659,16 @@ _under 914 m_: 71 (2021)<br>
 
 **Railways**<br>
 _total_: 5,926 km (2016)<br>
-_broad gauge_: 5,926 km 1.524-m gauge (3,270 km electrified) (2016)<br>
+_broad gauge_: 5,926 km (2016) 1.524-m gauge (3,270 km electrified)<br>
 
 **Roadways**<br>
 _total_: 454,000 km (2012)<br>
-_highways_: 78,000 km (50,000 paved, including 700 km of expressways; 28,000 unpaved) (2012)<br>
+_highways_: 78,000 km (2012) (50,000 paved, including 700 km of expressways; 28,000 unpaved)<br>
 _private and forest roads_: 350,000 km (2012)<br>
 _urban_: 26,000 km (2012)<br>
 
 **Waterways**<br>
-8,000 km (includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport used frequently in the summer and widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km); Finland also maintains 8,200 km of coastal fairways (2013)<br>
+8,000 km (2013) (includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport used frequently in the summer and widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km); Finland also maintains 8,200 km of coastal fairways<br>
 
 **Merchant marine**<br>
 _total_: 272<br>
@@ -679,9 +686,9 @@ note - the Border Guard becomes part of the FDF in wartime<br>
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
 1.5% of GDP (2020)<br>
-1.4% of GDP (approximately $4.18 billion) (2019)<br>
-1.4% of GDP (approximately $4.02 billion) (2018)<br>
-1.3% of GDP (approximately $3.8 billion) (2017)<br>
+1.4% of GDP (2019) (approximately $4.18 billion)<br>
+1.4% of GDP (2018) (approximately $4.02 billion)<br>
+1.3% of GDP (2017) (approximately $3.8 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 22,000 total active duty personnel (15,000 Army; 4,000 Navy; 3,000 Air Force) (2021)<br>

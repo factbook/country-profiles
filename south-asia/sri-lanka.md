@@ -72,6 +72,9 @@ occasional cyclones and tornadoes<br>
 **Geography - note**<br>
 strategic location near major Indian Ocean sea lanes; Adam's Bridge is a chain of limestone shoals between the southeastern coast of India and the northwestern coast of Sri Lanka; geological evidence suggests that this 50-km long Bridge once connected India and Sri Lanka; ancient records seem to indicate that a foot passage was possible between the two land masses until the 15th century when the land bridge broke up in a cyclone<br>
 
+**Map description**<br>
+<p>Sri Lanka map showing major cities of this island country in the Indian Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -96,7 +99,7 @@ _0-14 years_: 23.11% (male 2,696,379/female 2,592,450)<br>
 _15-24 years_: 14.58% (male 1,700,442/female 1,636,401)<br>
 _25-54 years_: 41.2% (male 4,641,842/female 4,789,101)<br>
 _55-64 years_: 10.48% (male 1,110,481/female 1,288,056)<br>
-_65 years and over_: 10.63% (male 1,023,315/female 1,410,734) (2020 est.)<br>
+_65 years and over_: 10.63% (2020 est.) (male 1,023,315/female 1,410,734)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.7<br>
@@ -189,13 +192,13 @@ _unimproved: rural_: rural: 2.1% of population<br>
 _unimproved: total_: total: 2.4% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 3,700 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2020 est.)<br>
+(2020 est.) <200<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: <p>intermediate</p> (2020)<br>
@@ -495,8 +498,8 @@ calendar year<br>
 -$17 million (2018 est.)<br>
 
 **Exports**<br>
-$19.41 billion note: data are in current year dollars (2019 est.)<br>
-$20.26 billion note: data are in current year dollars (2018 est.)<br>
+$19.41 billion (2019 est.) note: data are in current year dollars<br>
+$20.26 billion (2018 est.) note: data are in current year dollars<br>
 $15.166 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -506,8 +509,8 @@ United States 24%, India 8%, United Kingdom 7%, Germany 7% (2019)<br>
 clothing and apparel, tea, used tires, rubber products, precious stones, cinnamon (2019)<br>
 
 **Imports**<br>
-$24.56 billion note: data are in current year dollars (2019 est.)<br>
-$26.84 billion note: data are in current year dollars (2018 est.)<br>
+$24.56 billion (2019 est.) note: data are in current year dollars<br>
+$26.84 billion (2018 est.) note: data are in current year dollars<br>
 $26.063 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -625,6 +628,10 @@ government operates 5 TV channels and 19 radio channels; multi-channel satellite
 **Internet country code**<br>
 .lk<br>
 
+**Internet users**<br>
+_total_: 7,671,650 (2020 est.)<br>
+_percent of population_: 35% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,781,530 (2021)<br>
 _subscriptions per 100 inhabitants_: 8.32 (2021)<br>
@@ -635,7 +642,7 @@ _subscriptions per 100 inhabitants_: 8.32 (2021)<br>
 _number of registered air carriers_: 3 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 34<br>
 _annual passenger traffic on registered air carriers_: 5,882,376 (2018)<br>
-_annual freight traffic on registered air carriers_: 436.2 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 436.2 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 4R<br>
@@ -663,7 +670,7 @@ _under 914 m_: 2 (2021)<br>
 
 **Railways**<br>
 _total_: 1,562 km (2016)<br>
-_broad gauge_: 1,562 km 1.676-m gauge (2016)<br>
+_broad gauge_: 1,562 km (2016) 1.676-m gauge<br>
 
 **Roadways**<br>
 _total_: 114,093 km (2010)<br>
@@ -671,7 +678,7 @@ _paved_: 16,977 km (2010)<br>
 _unpaved_: 97,116 km (2010)<br>
 
 **Waterways**<br>
-160 km (primarily on rivers in southwest) (2012)<br>
+160 km (2012) (primarily on rivers in southwest)<br>
 
 **Merchant marine**<br>
 _total_: 90<br>
@@ -687,11 +694,11 @@ _container port(s) (TEUs)_: Colombo (7,228,337) (2019)<br>
 Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy (includes Marine Corps), Sri Lanka Air Force, Sri Lanka Coast Guard; Civil Security Department (Home Guard); Sri Lanka National Police: Special Task Force (counter-terrorism and counter-insurgency) (2021)<br>
 
 **Military expenditures**<br>
+1.9% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
-2% of GDP (approximately $5.9 billion) (2019 est.)<br>
-1.9% of GDP (approximately $5.6 billion) (2018 est.)<br>
-2.2% of GDP (approximately $6.07 billion) (2017 est.)<br>
-2.2% of GDP (approximately $6.17 billion) (2016 est.)<br>
+2% of GDP (2019 est.) (approximately $5.9 billion)<br>
+1.9% of GDP (2018 est.) (approximately $5.6 billion)<br>
+2.2% of GDP (2017 est.) (approximately $6.07 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Sri Lankan military has approximately 250,000 total personnel (180,000 Army; 40,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force (2021)<br>

@@ -73,6 +73,9 @@ dust-laden harmattan winds blow from the Sahara (December to March)<br>
 **Geography - note**<br>
 facing the Atlantic Ocean, the coastline is characterized by lagoons, mangrove swamps, and river-deposited sandbars; the inland grassy plateau supports limited agriculture<br>
 
+**Map description**<br>
+<p>Liberia map showing major cities as well as parts of surrounding countries and the North Atlantic Ocean.</p> <p> </p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -99,7 +102,7 @@ _0-14 years_: 43.35% (male 1,111,479/female 1,087,871)<br>
 _15-24 years_: 20.35% (male 516,136/female 516,137)<br>
 _25-54 years_: 30.01% (male 747,983/female 774,615)<br>
 _55-64 years_: 3.46% (male 89,150/female 86,231)<br>
-_65 years and over_: 2.83% (male 70,252/female 73,442) (2020 est.)<br>
+_65 years and over_: 2.83% (2020 est.) (male 70,252/female 73,442)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 77.6<br>
@@ -479,8 +482,8 @@ calendar year<br>
 -$464 million (2016 est.)<br>
 
 **Exports**<br>
-$550 million note: data are in current year dollars (2019 est.)<br>
-$530 million note: data are in current year dollars (2018 est.)<br>
+$550 million (2019 est.) note: data are in current year dollars<br>
+$530 million (2018 est.) note: data are in current year dollars<br>
 $359 million (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -490,8 +493,8 @@ Guyana 32%, Poland 10%, Switzerland 8%, Japan 7%, China 5% (2019)<br>
 ships, iron, gold, rubber, crude petroleum (2019)<br>
 
 **Imports**<br>
-$1.24 billion note: data are in current year dollars (2019 est.)<br>
-$1.25 billion note: data are in current year dollars (2018 est.)<br>
+$1.24 billion (2019 est.) note: data are in current year dollars<br>
+$1.25 billion (2018 est.) note: data are in current year dollars<br>
 $2.118 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -594,7 +597,7 @@ _electrification - rural areas_: 6% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 8,000 (2018)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 2.66 million (2018)<br>
@@ -612,9 +615,13 @@ _international_: country code - 231; landing point for the ACE submarine cable&n
 **Internet country code**<br>
 .lr<br>
 
+**Internet users**<br>
+_total_: 1,314,996 (2020 est.)<br>
+_percent of population_: 26% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 13,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.26 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.26 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -640,8 +647,8 @@ _under 914 m_: 14 (2021)<br>
 
 **Railways**<br>
 _total_: 429 km (2008)<br>
-_standard gauge_: 345 km 1.435-m gauge (2008)<br>
-_narrow gauge_: 84 km 1.067-m gauge (2008)<br>
+_standard gauge_: 345 km (2008) 1.435-m gauge<br>
+_narrow gauge_: 84 km (2008) 1.067-m gauge<br>
 <strong>note:</strong> most sections of the railways inoperable due to damage sustained during the civil wars from 1980 to 2003, but many are being rebuilt<br>
 
 **Roadways**<br>
@@ -663,11 +670,11 @@ Armed Forces of Liberia (AFL): Army, Liberian Coast Guard, Air Wing (2021)<br>
 note(s) - the AFL Air Wing was previously disbanded in 2005 and has been under development since 2019; the Liberian National Police and the Liberian Drug Enforcement Agency are under the Ministry of Justice<br>
 
 **Military expenditures**<br>
-0.4% of GDP (2020 est.)<br>
-0.6% of GDP (approximately $25 million) (2019 est.)<br>
-0.5% of GDP (approximately $20 million) (2018 est.)<br>
-0.4% of GDP (approximately $19 million) (2017 est.)<br>
-0.4% of GDP (approximately $18 million) (2016 est.)<br>
+0.5% of GDP (2020 est.)<br>
+0.6% of GDP (2019 est.) (approximately $25 million)<br>
+0.5% of GDP (2018 est.) (approximately $20 million)<br>
+0.4% of GDP (2017 est.) (approximately $19 million)<br>
+0.4% of GDP (2016 est.) (approximately $18 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 personnel (2021)<br>

@@ -69,6 +69,9 @@ occasional typhoons<br>
 **Geography - note**<br>
 consists of a mainland area (the New Territories) and more than 200 islands<br>
 
+**Map description**<br>
+<p>Hong Kong map showing major districts of this special administrative region of China that extends into the South China Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 12.81% (male 490,477/female 437,971)<br>
 _15-24 years_: 8.81% (male 334,836/female 303,897)<br>
 _25-54 years_: 42.66% (male 1,328,529/female 1,763,970)<br>
 _55-64 years_: 17.24% (male 582,047/female 668,051)<br>
-_65 years and over_: 18.48% (male 625,453/female 714,676) (2020 est.)<br>
+_65 years and over_: 18.48% (2020 est.) (male 625,453/female 714,676)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.7<br>
@@ -283,12 +286,12 @@ see China<br>
 _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive Carrie LAM (since 1 July 2017)<br>
 _cabinet_: Executive Council or ExCo appointed by the chief executive<br>
-_elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 17 March 2018 (next to be held in March 2023); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term); election last held on 26 March 2017 (next to be held on 8 May 2022)<br>
-_election results_: Carrie LAM elected chief executive in 2017; Election Committee vote - Carrie LAM 777, John TSANG 365, WOO Kwok-hing 21, invalid 23<br>
+_elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 17 March 2018 (next to be held in March 2023); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term); election last held on 8 May 2022<br>
+_election results_: John LEE was the only candidate and won with over 99% of the vote by the Election Committee; LEE assumes office on 1 July 2022<br>
 <strong>note:</strong> electoral changes that Beijing imposed in March 2021 expanded the Election Committee to 1,500 members<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Council or LegCo (90 seats); 20 members directly elected in 2-seat constituencies, 30 indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods, and 50 indirectly elected by the 1,500-member Election Committee; members serve 4-year terms;<br>note: in March 2021, China's National People's Congress amended the electoral rules and system for the LegCo; the total number of seats increased from 70 to 90, directly elected geographical constituencies were reduced from 35 to 20 seats, while trade-based indirectly elected functional constituencies remained at 30; an additional 40 seats were elected by the 1,500-member Election Commission; all political candidates are evaluated by the  Candidate Eligibility Review Committee (CERC), established in April 2022; the CERC consists of the chairperson, 2-4 official members and 1-3 non-official members, all appointed by the chief executive<br>
+_description_: unicameral Legislative Council or LegCo (90 seats); 20 members directly elected in 2-seat constituencies, 30 indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods, and 50 indirectly elected by the 1,500-member Election Committee; members serve 4-year terms;<br>note: in March 2021, China's National People's Congress amended the electoral rules and system for the LegCo; the total number of seats increased from 70 to 90, directly elected geographical constituencies were reduced from 35 to 20 seats, while trade-based indirectly elected functional constituencies remained at 30; an additional 40 seats were elected by the 1,500-member Election Commission; all political candidates are evaluated by the Candidate Eligibility Review Committee (CERC), established in April 2022; the CERC consists of the chairperson, 2-4 official members and 1-3 non-official members, all appointed by the chief executive<br>
 _elections_: last held on 19 Dec 2021 (next scheduled for 2025)<br>
 _election results_: <p>percent of vote by bloc: pro-Beijing 93%, non-establishment 7%; seats by block/party - pro-Beijing 89 (DAB 19, FTU 8, BPA 7, NPP 5, Liberal Party 4, FEW 2, FLU 2, other 46), non-establishment 1 (Third Side); composition - men 73, women 17, percent of women 18.9%; voter turnout 30.2%; note - Hong Kong's leading pro-democracy political parties boycotted the 2021 election</p> <br> <p><strong> </strong></p><br>
 
@@ -298,8 +301,8 @@ _judge selection and term of office_: all judges appointed by the Hong Kong Chie
 _subordinate courts_: High Court (consists of the Court of Appeal and Court of First Instance); District Courts (includes Family and Land Courts); magistrates' courts; specialized tribunals<br>
 
 **Political parties and leaders**<br>
-<strong>parties:<br></strong>Bauhinia Party or BP [LI Shan]<br>Democratic Alliance for the Betterment and Progress of Hong Kong or DAB [Starry Lee Wai-king]<br>Business and Professionals Alliance for Hong Kong or BPA [LO Wai-kwok]<br>New People's Party or NPP [Regina IP]<br>Liberal Party or LP [led by Felix CHUNG; chaired by Tony CHEUNG]<br>Third Side [TIK Chi-yeun]<br>League of Social Democrats or LSD [CHAN Po-ying]<br>Labor Party [Steven KWOK Wing-kin; arrested in 2020]<br>Civic Party [vacant]<br>Democratic Party [LO Kin-hei]<br>People Power or PP [LEUNG Ka-shing]<br>Neighborhood and Workers Service Center or NWSC [LO Ngai-yin]<br>Neo Democrats (dissolved 2021)<br><br><strong>other:<br></strong>Hong Kong Federation of Trade Unions or HKFTU [labor and political group presided over by NG Chau-pei and chaired by Kingsley WON]<br>Hong Kong Federation of Education Workers or HKFEW [WONG Kwan-yu]<br>Federation of Hong Kong and Kowloon Labour Unions or HKFLU [represented by POON Siu-Ping]<br>Roundtable [Michael TIEN] <br>Professional Power [Christine FONG] <br>Kowloon West New Dynamic or KWND [Priscilla LEUNG]<br>New Prospect for Hong Kong<br>New Century Forum [Ma Fung-kwak]<br>Path of Democracy [Ronny TONG]<br>
-<strong>note(s) -</strong> political parties include: pro-democracy - Civic Party, Democratic Party, Labor Party, LSD, NWSC, PP; pro-Beijing - DAB, FTU, Liberal Party, NPP, BPA, BP; by the end of 2021, the leading pro-democracy figures in Hong Kong had been effectively removed from the political arena under the provisions of Beijing's 2021 electoral changes or via charges under the 2020 national security law; in addition, dozens of pro-democracy organizations, including political parties, unions, churches, civil rights groups, and media organizations have disbanded or closed<br>
+<strong>parties:<br></strong>Bauhinia Party or BP [WONG Chau-chi/LI Shan]<br>Democratic Alliance for the Betterment and Progress of Hong Kong or DAB [Starry LEE Wai-king]<br>Business and Professionals Alliance for Hong Kong or BPA [LO Wai-kwok]<br>New People's Party or NPP [Regina IP]<br>Liberal Party or LP [led by Felix CHUNG Kwok-pan; chaired by Tony CHEUNG]<br>Third Side [TIK Chi-yeun]<br>League of Social Democrats or LSD [Raphael WONG Ho-ming]<br>Labor Party [Steven KWOK Wing-kin; arrested in 2020]<br>Civic Party [vacant]<br>Democratic Party [LO Kin-hei]<br>Hong Kong Association for Democracy and People's Livelihood [Howard LEE]<br>People Power or PP [LEUNG Ka-shing]<br>Neighborhood and Workers Service Center or NWSC [LEUNG Yui-chung]<br><br><strong>other:<br></strong>Hong Kong Federation of Trade Unions or HKFTU [labor and political group presided over by NG Chau-pei and chaired by Kingsley WON]<br>Hong Kong Federation of Education Workers or HKFEW [WONG Kwan-yu]<br>Federation of Hong Kong and Kowloon Labour Unions or HKFLU [represented by POON Siu-Ping]<br>Roundtable [Michael TIEN Puk-sun] <br>Professional Power [Christine FONG Kwok Shan] <br>Kowloon West New Dynamic or KWND [Priscilla LEUNG]<br>New Prospect for Hong Kong [Gary ZHANG Xinyu]<br>New Century Forum [Ma Fung-kwak]<br>Path of Democracy [Ronny TONG] (think tank) (2022)<br>
+<strong>note(s) -</strong> pro-democracy - Civic Party, Democratic Party, Labor Party, LSD, PP, Professional Commons; pro-Beijing - DAB, FTU, Liberal Party, NPP, BPA, BP; non-establishment - Third Side, Path of Democracy; there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies<br><br>by the end of 2021, the leading pro-democracy figures in Hong Kong had been effectively removed from the political arena under the provisions of Beijing's 2021 electoral changes or via charges under the 2020 national security law; in addition, dozens of pro-democracy organizations, including political parties, unions, churches, civil rights groups, and media organizations have disbanded or closed<br>
 
 **International organization participation**<br>
 ADB, APEC, BIS, FATF, ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), IOC, ISO (correspondent), ITUC (NGOs), UNWTO (associate), UPU, WCO, WMO, WTO<br>
@@ -412,7 +415,7 @@ _female_: 13.6% (2020 est.)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 1.8% NA<br>
-_highest 10%_: 38.1% NA (2016)<br>
+_highest 10%_: 38.1% (2016) NA<br>
 
 **Budget**<br>
 _revenues_: 79.34 billion (2017 est.)<br>
@@ -436,9 +439,9 @@ $22.469 billion (2019 est.)<br>
 $13.516 billion (2018 est.)<br>
 
 **Exports**<br>
-$615.88 billion note: data are in current year dollars (2020 est.)<br>
-$649.02 billion note: data are in current year dollars (2019 est.)<br>
-$681.28 billion note: data are in current year dollars (2018 est.)<br>
+$615.88 billion (2020 est.) note: data are in current year dollars<br>
+$649.02 billion (2019 est.) note: data are in current year dollars<br>
+$681.28 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 23%, India 14%, Netherlands 6%, United Kingdom 5% (2019)<br>
@@ -447,9 +450,9 @@ China 23%, India 14%, Netherlands 6%, United Kingdom 5% (2019)<br>
 gold, broadcasting equipment, integrated circuits, diamonds, telephones (2019)<br>
 
 **Imports**<br>
-$609.13 billion note: data are in current year dollars (2020 est.)<br>
-$642.8 billion note: data are in current year dollars (2019 est.)<br>
-$682.05 billion note: data are in current year dollars (2018 est.)<br>
+$609.13 billion (2020 est.) note: data are in current year dollars<br>
+$642.8 billion (2019 est.) note: data are in current year dollars<br>
+$682.05 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 46%, Taiwan 7%, Singapore 7%, South Korea 5%, United States 5%, Japan 5% (2019)<br>
@@ -566,17 +569,21 @@ _international_: country code - 852; landing points for the AAE-1, AAG, APCN-2, 
 **Internet country code**<br>
 .hk<br>
 
+**Internet users**<br>
+_total_: 6,883,256 (2020 est.)<br>
+_percent of population_: 92% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 2,885,586 Figure as of March 2021. From January 2019 onwards, the statistics are compiled in terms of the number of "access lines" provided by ISPs, while it was in terms of the number of "registered customer accounts" prior to that. (2021 est.)<br>
+_total_: 2,885,586 (2021 est.) Figure as of March 2021. From January 2019 onwards, the statistics are compiled in terms of the number of "access lines" provided by ISPs, while it was in terms of the number of "registered customer accounts" prior to that.<br>
 _subscriptions per 100 inhabitants_: 38.49 (2021 est.)<br>
 
 ## Transportation
 
 **National air transport system**<br>
-_number of registered air carriers_: 12 (registered in China) (2020)<br>
+_number of registered air carriers_: 12 (2020) (registered in China)<br>
 _inventory of registered aircraft operated by air carriers_: 275 (registered in China)<br>
 _annual passenger traffic on registered air carriers_: 47,101,822 (2018)<br>
-_annual freight traffic on registered air carriers_: 12,676,720,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 12,676,720,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 B-H<br>

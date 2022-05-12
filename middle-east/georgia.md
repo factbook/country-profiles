@@ -72,6 +72,9 @@ earthquakes<br>
 **Geography - note**<br>
 <strong>note 1:</strong> strategically located east of the Black Sea; Georgia controls much of the Caucasus Mountains and the routes through them <br><br><strong>note 2:</strong> the world's four deepest caves are all in Georgia, including two that are the only known caves on earth deeper than 2,000 m: Krubera Cave at -2,197 m (-7,208 ft; reached in 2012) and Veryovkina Cave at -2,212 (-7,257 ft; reached in 2018)<br>
 
+**Map description**<br>
+<p>Georgia map showing major cities as well as parts of surrounding countries and the Black Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -96,7 +99,7 @@ _0-14 years_: 18.42% (male 472,731/female 435,174)<br>
 _15-24 years_: 10.9% (male 286,518/female 250,882)<br>
 _25-54 years_: 40.59% (male 984,942/female 1,016,353)<br>
 _55-64 years_: 13.24% (male 288,650/female 364,117)<br>
-_65 years and over_: 16.85% (male 326,219/female 504,444) (2020 est.)<br>
+_65 years and over_: 16.85% (2020 est.) (male 326,219/female 504,444)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55<br>
@@ -196,7 +199,7 @@ _unimproved: total_: total: 13.3% of population (2020 est.)<br>
 9,100 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020 est.)<br>
+(2020 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 21.7% (2016)<br>
@@ -296,8 +299,7 @@ _etymology_: the name in Georgian means "warm place," referring to the numerous 
 
 **Administrative divisions**<br>
 <p>9 regions (mkharebi, singular - mkhare), 1 city (kalaki), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika)</p> <p><strong>regions:</strong> Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti</p> <p><strong>city:</strong> Tbilisi</p> <p><strong>autonomous republics:</strong> Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)</p><br>
-<strong>note 1:</strong> the administrative centers of the two autonomous republics are shown in parentheses
-<br><br><strong>note 2:</strong> the United States recognizes the breakaway regions of Abkhazia and South Ossetia to be part of Georgia<br>
+<strong>note 1:</strong> the administrative centers of the two autonomous republics are shown in parentheses <br><br><strong>note 2:</strong> the United States recognizes the breakaway regions of Abkhazia and South Ossetia to be part of Georgia<br>
 
 **Independence**<br>
 9 April 1991 (from the Soviet Union); notable earlier date: A.D. 1008 (Georgia unified under King BAGRAT III)<br>
@@ -485,9 +487,9 @@ calendar year<br>
 -$1.84 billion (2016 est.)<br>
 
 **Exports**<br>
-$5.94 billion note: data are in current year dollars (2020 est.)<br>
-$9.54 billion note: data are in current year dollars (2019 est.)<br>
-$8.9 billion note: data are in current year dollars (2018 est.)<br>
+$5.94 billion (2020 est.) note: data are in current year dollars<br>
+$9.54 billion (2019 est.) note: data are in current year dollars<br>
+$8.9 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Russia 12%, Azerbaijan 12%, Armenia 9%, Bulgaria 8%, China 6%, Turkey 6%, Ukraine 6% (2019)<br>
@@ -496,9 +498,9 @@ Russia 12%, Azerbaijan 12%, Armenia 9%, Bulgaria 8%, China 6%, Turkey 6%, Ukrain
 copper, cars, iron alloys, wine, packaged medicines (2019)<br>
 
 **Imports**<br>
-$8.94 billion note: data are in current year dollars (2020 est.)<br>
-$11.11 billion note: data are in current year dollars (2019 est.)<br>
-$10.77 billion note: data are in current year dollars (2018 est.)<br>
+$8.94 billion (2020 est.) note: data are in current year dollars<br>
+$11.11 billion (2019 est.) note: data are in current year dollars<br>
+$10.77 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Turkey 17%, China 11%, Russia 9%, Azerbaijan 6%, United States 6%, Germany 5% (2019)<br>
@@ -615,9 +617,13 @@ The Tbilisi-based Georgian Public Broadcaster (GPB) includes Channel 1, Channel 
 **Internet country code**<br>
 .ge<br>
 
+**Internet users**<br>
+_total_: 2,717,583 (2020 est.)<br>
+_percent of population_: 73% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 972,162 (2021)<br>
-_subscriptions per 100 inhabitants_: 24.37 (2021)<br>
+_total_: 972,162 (2022)<br>
+_subscriptions per 100 inhabitants_: 24.37 (2022)<br>
 
 ## Transportation
 
@@ -625,7 +631,7 @@ _subscriptions per 100 inhabitants_: 24.37 (2021)<br>
 _number of registered air carriers_: 4 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 12<br>
 _annual passenger traffic on registered air carriers_: 516,034 (2018)<br>
-_annual freight traffic on registered air carriers_: 750,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 750,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 4L<br>
@@ -655,8 +661,8 @@ _under 914 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 1,363 km (2014)<br>
-_narrow gauge_: 37 km 0.912-m gauge (37 km electrified) (2014)<br>
-_broad gauge_: 1,326 km 1.520-m gauge (1,251 km electrified) (2014)<br>
+_narrow gauge_: 37 km (2014) 0.912-m gauge (37 km electrified)<br>
+_broad gauge_: 1,326 km (2014) 1.520-m gauge (1,251 km electrified)<br>
 
 **Roadways**<br>
 _total_: 20,295 km (2018)<br>
@@ -674,11 +680,11 @@ _major seaport(s)_: Black Sea - Batumi, Poti<br>
 Georgian Defense Forces: Land Forces (includes Aviation and Air Defense Forces), Special Operations Forces, National Guard; Ministry of Internal Affairs: Border Police, Coast Guard (includes Georgian naval forces, which were merged with the Coast Guard in 2009) (2021)<br>
 
 **Military expenditures**<br>
+1.7% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
-1.8% of GDP (approximately $780 million) (2019)<br>
-1.9% of GDP (approximately $760 million) (2018)<br>
-1.9% of GDP (approximately $750 million) (2017)<br>
-2% of GDP (approximately $750 million) (2016)<br>
+1.8% of GDP (2019) (approximately $780 million)<br>
+1.9% of GDP (2018) (approximately $760 million)<br>
+1.9% of GDP (2017) (approximately $750 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 30,000 troops, including active National Guard forces (2021)<br>

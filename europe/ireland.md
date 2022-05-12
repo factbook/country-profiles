@@ -71,6 +71,9 @@ rare extreme weather events<br>
 **Geography - note**<br>
 strategic location on major air and sea routes between North America and northern Europe; over 40% of the population resides within 100 km of Dublin<br>
 
+**Map description**<br>
+<p>Ireland map showing major cities and the island’s setting in the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 21.15% (male 560,338/female 534,570)<br>
 _15-24 years_: 12.08% (male 316,239/female 308,872)<br>
 _25-54 years_: 42.19% (male 1,098,058/female 1,085,794)<br>
 _55-64 years_: 10.77% (male 278,836/female 278,498)<br>
-_65 years and over_: 13.82% (male 331,772/female 383,592) (2020 est.)<br>
+_65 years and over_: 13.82% (2020 est.) (male 331,772/female 383,592)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.8<br>
@@ -193,7 +196,7 @@ _unimproved: total_: total: 1.7% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br>
+(2020 est.) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -473,8 +476,8 @@ calendar year<br>
 $24.154 billion (2018 est.)<br>
 
 **Exports**<br>
-$502.31 billion note: data are in current year dollars (2019 est.)<br>
-$471.6 billion note: data are in current year dollars (2018 est.)<br>
+$502.31 billion (2019 est.) note: data are in current year dollars<br>
+$471.6 billion (2018 est.) note: data are in current year dollars<br>
 $440.693 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -484,8 +487,8 @@ United States 28%, Belgium 10%, Germany 10%, UK 9%, China 5%, Netherlands 5% (20
 medical cultures/vaccines, nitrogen compounds, packaged medicines, integrated circuits, scented mixtures (2019)<br>
 
 **Imports**<br>
-$452.98 billion note: data are in current year dollars (2019 est.)<br>
-$361.12 billion note: data are in current year dollars (2018 est.)<br>
+$452.98 billion (2019 est.) note: data are in current year dollars<br>
+$361.12 billion (2018 est.) note: data are in current year dollars<br>
 $359.725 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -603,6 +606,10 @@ publicly owned broadcaster Radio Telefis Eireann (RTE) operates&nbsp;4 TV statio
 **Internet country code**<br>
 .ie<br>
 
+**Internet users**<br>
+_total_: 4,586,820 (2020 est.)<br>
+_percent of population_: 92% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,516,473 (2021)<br>
 _subscriptions per 100 inhabitants_: 30.71 (2021)<br>
@@ -613,7 +620,7 @@ _subscriptions per 100 inhabitants_: 30.71 (2021)<br>
 _number of registered air carriers_: 9 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 450<br>
 _annual passenger traffic on registered air carriers_: 167,598,633 (2018)<br>
-_annual freight traffic on registered air carriers_: 168.71 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 168.71 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 EI<br>
@@ -640,15 +647,15 @@ _under 914 m_: 21 (2021)<br>
 
 **Railways**<br>
 _total_: 4,301 km (2018)<br>
-_narrow gauge_: 1,930 km 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants) (2018)<br>
-_broad gauge_: 2,371 km 1.600-m gauge (53 km electrified) (2018)<br>
+_narrow gauge_: 1,930 km (2018) 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants)<br>
+_broad gauge_: 2,371 km (2018) 1.600-m gauge (53 km electrified)<br>
 
 **Roadways**<br>
 _total_: 99,830 km (2018)<br>
-_paved_: 99,830 km (includes 2,717 km of expressways) (2018)<br>
+_paved_: 99,830 km (2018) (includes 2,717 km of expressways)<br>
 
 **Waterways**<br>
-956 km (pleasure craft only) (2010)<br>
+956 km (2010) (pleasure craft only)<br>
 
 **Merchant marine**<br>
 _total_: 96<br>
@@ -668,9 +675,9 @@ Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Re
 **Military expenditures**<br>
 0.3% of GDP (2021)<br>
 0.3% of GDP (2020)<br>
-0.3% of GDP (approximately $1.27 billion) (2019)<br>
-0.3% of GDP (approximately $1.25 billion (2018)<br>
-0.3% of GDP (approximately $1.21 billion) (2017)<br>
+0.3% of GDP (2019) (approximately $1.27 billion)<br>
+0.3% of GDP (2018) (approximately $1.25 billion<br>
+0.3% of GDP (2017) (approximately $1.21 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Irish Defense Forces have approximately 8,700 active duty personnel (7,000 Army; 1,000 Navy; 700 Air Force) (2021)<br>

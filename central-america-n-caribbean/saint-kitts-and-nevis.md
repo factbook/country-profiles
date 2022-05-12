@@ -71,6 +71,9 @@ population clusters are found in the small towns located on the periphery of bot
 **Geography - note**<br>
 smallest country in the Western Hemisphere both in terms of area and population; with coastlines in the shape of a baseball bat and ball, the two volcanic islands are separated by a 3-km-wide channel called The Narrows; on the southern tip of long, baseball bat-shaped Saint Kitts lies the Great Salt Pond; Nevis Peak sits in the center of its almost circular namesake island and its ball shape complements that of its sister island<br>
 
+**Map description**<br>
+<p>Saint Kitts and Nevis map shows a few of the major features on these two islands in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 19.87% (male 5,357/female 5,336)<br>
 _15-24 years_: 13.46% (male 3,504/female 3,741)<br>
 _25-54 years_: 43.64% (male 12,010/female 11,477)<br>
 _55-64 years_: 13.03% (male 3,527/female 3,485)<br>
-_65 years and over_: 10% (male 2,540/female 2,844) (2020 est.)<br>
+_65 years and over_: 10% (2020 est.) (male 2,540/female 2,844)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -183,10 +186,10 @@ _unimproved: total_: total: 12.7% of population (2017 est.)<br>
 0.5% (2018)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<200 (2018)<br>
+(2018) <200<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018)<br>
+(2018) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 22.9% (2016)<br>
@@ -427,7 +430,7 @@ calendar year<br>
 -$102 million (2016 est.)<br>
 
 **Exports**<br>
-$610 million note: data are in current year dollars (2018 est.)<br>
+$610 million (2018 est.) note: data are in current year dollars<br>
 $53.9 million (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -437,7 +440,7 @@ United States 69%, Germany 8%, Italy 5% (2019)<br>
 low-voltage protection equipment, broadcasting equipment, measuring instruments, electric motor parts, electrical transformers (2019)<br>
 
 **Imports**<br>
-$590 million note: data are in current year dollars (2018 est.)<br>
+$590 million (2018 est.) note: data are in current year dollars<br>
 $307.9 million (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -555,6 +558,10 @@ the government operates a national TV network that broadcasts on 2 channels; cab
 **Internet country code**<br>
 .kn<br>
 
+**Internet users**<br>
+_total_: 42,796 (2019 est.)<br>
+_percent of population_: 81% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 30,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 56.39 (2021 est.)<br>
@@ -574,7 +581,7 @@ _914 to 1,523 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 50 km (2008)<br>
-_narrow gauge_: 50 km 0.762-m gauge on Saint Kitts for tourists (2008)<br>
+_narrow gauge_: 50 km (2008) 0.762-m gauge on Saint Kitts for tourists<br>
 
 **Roadways**<br>
 _total_: 383 km (2002)<br>

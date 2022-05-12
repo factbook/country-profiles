@@ -91,6 +91,9 @@ large urban clusters are spread throughout the eastern half of the US (particula
 **Geography - note**<br>
 <p><strong>note 1:</strong> world's third-largest country by size (after Russia and Canada) and by population (after China and India); Denali (Mt. McKinley) is the highest point (6,190 m) in North America and Death Valley the lowest point (-86 m) on the continent</p> <p><strong>note 2:</strong> the western coast of the United States and southern coast of Alaska lie along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Aleutian Islands are a chain of volcanic islands that divide the Bering Sea (north) from the main Pacific Ocean (south); they extend about 1,800 km westward from the Alaskan Peninsula; the archipelago consists of 14 larger islands, 55 smaller islands, and hundreds of islets; there are 41 active volcanoes on the islands, which together form a large northern section of the Ring of Fire<br><br><strong>note 4: </strong>Mammoth Cave, in west-central Kentucky, is the world's longest known cave system with more than 650 km (405 miles) of surveyed passageways, which is nearly twice as long as the second-longest cave system, the Sac Actun underwater cave in Mexico - the world's longest underwater cave system (see "Geography - note" under Mexico); <br><br><strong>note 5:</strong> Kazumura Cave on the island of Hawaii is the world's longest and deepest lava tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep <br><br><strong>note 6: </strong>Bracken Cave outside of San Antonio, Texas is the world's largest bat cave; it is the summer home to the largest colony of bats in the world; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October making it the world's largest known concentration of mammals<br><br><strong>note 7:</strong> the US is reliant on foreign imports for 100% of its needs for the following strategic resources - Arsenic, Cesium, Fluorspar, Gallium, Graphite, Indium, Manganese, Niobium, Rare Earths, Rubidium, Scandium, Tantalum, Yttrium; see Appendix H: Strategic Materials for further details<br><br><strong>note 8:</strong> three food crops are generally acknowledged to be native to areas of what is now the United States: cranberries, pecans, and sunflowers</p><br>
 
+**Map description**<br>
+<p>United States map showing the United States – including Alaska and Hawaii – within northern North America. Most major US cities are indicated.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,8 +105,8 @@ _noun_: American(s)<br>
 _adjective_: American<br>
 
 **Ethnic groups**<br>
-White 72.4%, Black 12.6%, Asian 4.8%, Amerindian and Alaska Native 0.9%, Native Hawaiian and other Pacific Islander 0.2%, other 6.2%, two or more races 2.9% (2010 est.)<br>
-<strong>note:</strong> a separate listing for Hispanic is not included because the US Census Bureau considers Hispanic to mean persons of Spanish/Hispanic/Latino origin including those of Mexican, Cuban, Puerto Rican, Dominican Republic, Spanish, and Central or South American origin living in the US who may be of any race or ethnic group (White, Black, Asian, etc.); an estimated 16.3% of the total US population is Hispanic as of 2010<br>
+White 61.6%, Black or African American 12.4%, Asian 6%, Amerindian and Alaska native 1.1%, Native Hawaiian and Other Pacific Islander 0.2%, other 8.4%, two or more races 10.2% (2020 est.)<br>
+<strong>note:</strong> a separate listing for Hispanic is not included because the US Census Bureau considers Hispanic to mean persons of Spanish/Hispanic/Latino origin including those of Mexican, Cuban, Puerto Rican, Dominican Republic, Spanish, and Central or South American origin living in the US who may be of any race or ethnic group (White, Black, Asian, etc.); an estimated 18.7% of the total US population is Hispanic as of 2020<br>
 
 **Languages**<br>
 English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)<br>
@@ -117,7 +120,7 @@ _0-14 years_: 18.46% (male 31,374,555/female 30,034,371)<br>
 _15-24 years_: 12.91% (male 21,931,368/female 21,006,463)<br>
 _25-54 years_: 38.92% (male 64,893,670/female 64,564,565)<br>
 _55-64 years_: 12.86% (male 20,690,736/female 22,091,808)<br>
-_65 years and over_: 16.85% (male 25,014,147/female 31,037,419) (2020 est.)<br>
+_65 years and over_: 16.85% (2020 est.) (male 25,014,147/female 31,037,419)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.9<br>
@@ -509,9 +512,9 @@ _expenditures_: 3.981 trillion (2017 est.)<br>
 -$449.694 billion (2018 est.)<br>
 
 **Exports**<br>
-$2,127,250,000,000 note: data are in current year dollars (2020 est.)<br>
-$2,528,270,000,000 note: data are in current year dollars (2019 est.)<br>
-$2,539,380,000,000 note: data are in current year dollars (2018 est.)<br>
+$2,127,250,000,000 (2020 est.) note: data are in current year dollars<br>
+$2,528,270,000,000 (2019 est.) note: data are in current year dollars<br>
+$2,539,380,000,000 (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Canada 17%, Mexico 16%, China 7%, Japan 5% (2019)<br>
@@ -520,9 +523,9 @@ Canada 17%, Mexico 16%, China 7%, Japan 5% (2019)<br>
 refined petroleum, crude petroleum, cars and vehicle parts, integrated circuits, aircraft (2019)<br>
 
 **Imports**<br>
-$2,808,960,000,000 note: data are in current year dollars (2020 est.)<br>
-$3,105,130,000,000 note: data are in current year dollars (2019 est.)<br>
-$3,119,320,000,000 note: data are in current year dollars (2018 est.)<br>
+$2,808,960,000,000 (2020 est.) note: data are in current year dollars<br>
+$3,105,130,000,000 (2019 est.) note: data are in current year dollars<br>
+$3,119,320,000,000 (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 18%, Mexico 15%, Canada 13%, Japan 6%, Germany 5% (2019)<br>
@@ -584,7 +587,7 @@ _electrification - total population_: 100% (2020)<br>
 7.969 million bbl/day (2017 est.)<br>
 
 **Crude oil - proved reserves**<br>
-NA bbl (1 January 2018 est.)<br>
+(1 January 2018 est.) NA bbl<br>
 
 **Refined petroleum products - production**<br>
 20.3 million bbl/day (2017 est.)<br>
@@ -635,6 +638,10 @@ _international_: country code - 1; landing points for the Quintillion Subsea Cab
 **Internet country code**<br>
 .us<br>
 
+**Internet users**<br>
+_total_: 301,665,983 (2020 est.)<br>
+_percent of population_: 91% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 121.176 million (2021)<br>
 _subscriptions per 100 inhabitants_: 36.61 (2021)<br>
@@ -648,7 +655,7 @@ _subscriptions per 100 inhabitants_: 36.61 (2021)<br>
 _number of registered air carriers_: 99 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 7,249<br>
 _annual passenger traffic on registered air carriers_: 889.022 million (2018)<br>
-_annual freight traffic on registered air carriers_: 42,985,300,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 42,985,300,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 N<br>
@@ -680,15 +687,15 @@ _under 914 m_: 6,760 (2021)<br>
 
 **Railways**<br>
 _total_: 293,564 km (2014)<br>
-_standard gauge_: 293,564.2 km 1.435-m gauge (2014)<br>
+_standard gauge_: 293,564.2 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>
 _total_: 6,586,610 km (2012)<br>
-_paved_: 4,304,715 km (includes 76,334 km of expressways) (2012)<br>
+_paved_: 4,304,715 km (2012) (includes 76,334 km of expressways)<br>
 _unpaved_: 2,281,895 km (2012)<br>
 
 **Waterways**<br>
-41,009 km (19,312 km used for commerce; Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, is shared with Canada) (2012)<br>
+41,009 km (2012) (19,312 km used for commerce; Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, is shared with Canada)<br>
 
 **Merchant marine**<br>
 _total_: 3,627<br>
@@ -713,9 +720,9 @@ note - the Army National Guard and the Air National Guard are reserve components
 **Military expenditures**<br>
 3.6% of GDP (2021 est.)<br>
 3.7% of GDP (2020)<br>
-3.4% of GDP (approximately $730 billion) (2019)<br>
-3.3% of GDP (approximately $685 billion) (2018)<br>
-3.3% of GDP (approximately $671 billion) (2017)<br>
+3.4% of GDP (2019) (approximately $730 billion)<br>
+3.3% of GDP (2018) (approximately $685 billion)<br>
+3.3% of GDP (2017) (approximately $671 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the US Armed Forces have approximately 1.39 million active duty personnel (475,000 Army; 345,000 Navy; 335,000 Air Force/Space Force; 180,000 Marine Corps; 40,000 Coast Guard); 335,000 Army National Guard; 105,000 Air National Guard (2022)<br>

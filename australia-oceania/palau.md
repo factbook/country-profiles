@@ -71,6 +71,9 @@ typhoons (June to December)<br>
 **Geography - note**<br>
 westernmost archipelago in the Caroline chain, consists of six island groups totaling more than 300 islands; includes World War II battleground of Beliliou (Peleliu) and world-famous Rock Islands<br>
 
+**Map description**<br>
+<p>Palau map showing the major islands of this archipelagic country in the North Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -95,7 +98,7 @@ _0-14 years_: 18.68% (male 2,090/female 1,961)<br>
 _15-24 years_: 15.86% (male 1,723/female 1,716)<br>
 _25-54 years_: 45.33% (male 6,026/female 3,804)<br>
 _55-64 years_: 10.68% (male 853/female 1,463)<br>
-_65 years and over_: 9.45% (male 501/female 1,548) (2020 est.)<br>
+_65 years and over_: 9.45% (2020 est.) (male 501/female 1,548)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -376,8 +379,8 @@ $317 million (2017 est.)<br>
 10.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$17,600 note: data are in 2017 dollars (2019 est.)<br>
-$18,400 note: data are in 2017 dollars (2018 est.)<br>
+$17,600 (2019 est.) note: data are in 2017 dollars<br>
+$18,400 (2018 est.) note: data are in 2017 dollars<br>
 $17,841 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -425,7 +428,7 @@ _services_: 86.4% (2016)<br>
 _total_: 5.6%<br>
 
 **Population below poverty line**<br>
-24.9% NA (2006)<br>
+24.9% (2006) NA<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: NA<br>
@@ -509,6 +512,10 @@ no broadcast TV stations; a cable TV network covers the major islands and provid
 
 **Internet country code**<br>
 .pw<br>
+
+**Internet users**<br>
+_total_: 7,650 (2016 est.)<br>
+_percent of population_: 36% (2016 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,224 (2015)<br>

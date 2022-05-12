@@ -69,6 +69,9 @@ frequent hurricanes<br>
 **Geography - note**<br>
 include eight large islands and numerous smaller cays, islets, and reefs; only two of the Caicos Islands and six of the Turks group are inhabited<br>
 
+**Map description**<br>
+<p>Turks and Caicos Islands map showing the major islands that make up this UK territory in the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -92,7 +95,7 @@ _0-14 years_: 21.33% (male 6,077/female 5,852)<br>
 _15-24 years_: 13.19% (male 3,689/female 3,687)<br>
 _25-54 years_: 52.51% (male 14,729/female 14,637)<br>
 _55-64 years_: 7.81% (male 2,297/female 2,069)<br>
-_65 years and over_: 5.17% (male 1,364/female 1,525) (2020 est.)<br>
+_65 years and over_: 5.17% (2020 est.) (male 1,364/female 1,525)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -185,7 +188,7 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
 _male_: NA<br>
-_female_: NA (2015)<br>
+_female_: (2015) NA<br>
 
 **People - note**<br>
 destination and transit point for illegal Haitian immigrants bound for the Bahamas and the US<br>
@@ -375,7 +378,7 @@ _expenditures_: 224.3 million (2017 est.)<br>
 calendar year<br>
 
 **Exports**<br>
-$830 million note: data are in current year dollars (2018 est.)<br>
+$830 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 France 31%, United States 16%, Zambia 13%, Singapore 9%, Republic of the Congo 8% (2019)<br>
@@ -384,7 +387,7 @@ France 31%, United States 16%, Zambia 13%, Singapore 9%, Republic of the Congo 8
 plastic building materials, stone processing machinery, iron structures, crustaceans, integrated circuits (2019)<br>
 
 **Imports**<br>
-$540 million note: data are in current year dollars (2018 est.)<br>
+$540 million (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 76% (2019)<br>

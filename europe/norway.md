@@ -73,6 +73,9 @@ most Norwegians live in the south where the climate is milder and there is bette
 **Geography - note**<br>
 about two-thirds mountains; some 50,000 islands off its much-indented coastline; strategic location adjacent to sea lanes and air routes in North Atlantic; one of the most rugged and longest coastlines in the world<br>
 
+**Map description**<br>
+<p>Norway map showing major population centers as well as parts of surrounding countries and the Norwegian and North Seas.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 17.96% (male 503,013/female 478,901)<br>
 _15-24 years_: 12.02% (male 336,597/female 320,720)<br>
 _25-54 years_: 40.75% (male 1,150,762/female 1,077,357)<br>
 _55-64 years_: 11.84% (male 328,865/female 318,398)<br>
-_65 years and over_: 17.43% (male 442,232/female 510,594) (2020 est.)<br>
+_65 years and over_: 17.43% (2020 est.) (male 442,232/female 510,594)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.3<br>
@@ -198,7 +201,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 5,800 (2018 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br>
+(2020 est.) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -480,9 +483,9 @@ $16.656 billion (2019 est.)<br>
 $31.111 billion (2018 est.)<br>
 
 **Exports**<br>
-$117.06 billion note: data are in current year dollars (2020 est.)<br>
-$146.71 billion note: data are in current year dollars (2019 est.)<br>
-$165.37 billion note: data are in current year dollars (2018 est.)<br>
+$117.06 billion (2020 est.) note: data are in current year dollars<br>
+$146.71 billion (2019 est.) note: data are in current year dollars<br>
+$165.37 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United Kingdom 18%, Germany 14%, Netherlands 10%, Sweden 9%, France 6%, United States 5% (2019)<br>
@@ -491,9 +494,9 @@ United Kingdom 18%, Germany 14%, Netherlands 10%, Sweden 9%, France 6%, United S
 crude petroleum, natural gas, fish, refined petroleum, aluminum (2019)<br>
 
 **Imports**<br>
-$119.08 billion note: data are in current year dollars (2020 est.)<br>
-$140.14 billion note: data are in current year dollars (2019 est.)<br>
-$140.3 billion note: data are in current year dollars (2018 est.)<br>
+$119.08 billion (2020 est.) note: data are in current year dollars<br>
+$140.14 billion (2019 est.) note: data are in current year dollars<br>
+$140.3 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Sweden 17%, Germany 12%, China 8%, Denmark 7%, United States 6%, United Kingdom 5%, Netherlands 5% (2019)<br>
@@ -611,6 +614,10 @@ state-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nat
 **Internet country code**<br>
 .no<br>
 
+**Internet users**<br>
+_total_: 5,218,091 (2020 est.)<br>
+_percent of population_: 97% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 2,387,661 (2021)<br>
 _subscriptions per 100 inhabitants_: 44.04 (2021)<br>
@@ -647,10 +654,10 @@ _under 914 m_: 22 (2021)<br>
 
 **Railways**<br>
 _total_: 4,200 km (2019)<br>
-_standard gauge_: 4,200 km 1.435-m gauge (2,480 km electrified) (2019)<br>
+_standard gauge_: 4,200 km (2019) 1.435-m gauge (2,480 km electrified)<br>
 
 **Roadways**<br>
-_total_: 94,902 km (includes 455 km of expressways) (2018)<br>
+_total_: 94,902 km (2018) (includes 455 km of expressways)<br>
 
 **Waterways**<br>
 1,577 km (2010)<br>
@@ -672,9 +679,9 @@ Norwegian Armed Forces:&nbsp; Norwegian Army (Haeren), Royal Norwegian Navy (Kon
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
 2% of GDP (2020)<br>
-1.9% of GDP (approximately $8.66 billion) (2019)<br>
-1.7% of GDP (approximately $8.02 billion) (2018)<br>
-1.6% of GDP (approximately $7.11 billion) (2017)<br>
+1.9% of GDP (2019) (approximately $8.66 billion)<br>
+1.7% of GDP (2018) (approximately $8.02 billion)<br>
+1.6% of GDP (2017) (approximately $7.11 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Norwegian Armed Forces have approximately 23,000 active personnel (8,500 Army; 3,500 Navy; 3,500 Air Force; 7,500 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); 40,000 Home Guard (2021)<br>

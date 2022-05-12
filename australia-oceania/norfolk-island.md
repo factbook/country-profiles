@@ -70,6 +70,9 @@ tropical cyclones (especially May to July)<br>
 **Geography - note**<br>
 most of the 32 km coastline consists of almost inaccessible cliffs, but the land slopes down to the sea in one small southern area on Sydney Bay, where the capital of Kingston is situated<br>
 
+**Map description**<br>
+<p>Norfolk Island map shows a few population centers on this island in the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -119,12 +122,12 @@ population concentrated around the capital of Kingston<br>
 NA<br>
 
 **Infant mortality rate**<br>
-_total_: NA (2018)<br>
+_total_: (2018) NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
 **Life expectancy at birth**<br>
-_total population_: NA (2017 est.)<br>
+_total population_: (2017 est.) NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
@@ -151,7 +154,7 @@ _improved: rural_: rural: NA<br>
 _improved: total_: total: NA<br>
 _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA (2020)<br>
+_unimproved: total_: total: (2020) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -338,6 +341,10 @@ _international_: country code - 672; submarine cable links with Australia and Ne
 
 **Internet country code**<br>
 .nf<br>
+
+**Internet users**<br>
+_total_: 612 (2016 est.)<br>
+_percent of population_: 35% (2016 est.)<br>
 
 ## Transportation
 

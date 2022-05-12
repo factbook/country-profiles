@@ -76,6 +76,9 @@ floods, droughts<br>
 **Geography - note**<br>
 landlocked; most of the country is mountainous and thickly forested; the Mekong River forms a large part of the western boundary with Thailand<br>
 
+**Map description**<br>
+<p>Laos map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -104,7 +107,7 @@ _0-14 years_: 31.25% (male 1,177,297/female 1,149,727)<br>
 _15-24 years_: 20.6% (male 763,757/female 770,497)<br>
 _25-54 years_: 38.29% (male 1,407,823/female 1,443,774)<br>
 _55-64 years_: 5.73% (male 206,977/female 219,833)<br>
-_65 years and over_: 4.13% (male 139,665/female 168,046) (2020 est.)<br>
+_65 years and over_: 4.13% (2020 est.) (male 139,665/female 168,046)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.8<br>
@@ -199,7 +202,7 @@ _unimproved: total_: total: 17.8% of population (2020 est.)<br>
 15,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -498,8 +501,8 @@ _expenditures_: 4.038 billion (2017 est.)<br>
 -$2.07 billion (2016 est.)<br>
 
 **Exports**<br>
-$6.99 billion note: data are in current year dollars (2019 est.)<br>
-$6.39 billion note: data are in current year dollars (2018 est.)<br>
+$6.99 billion (2019 est.) note: data are in current year dollars<br>
+$6.39 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Thailand 36%, China 28%, Vietnam 16% (2019)<br>
@@ -508,8 +511,8 @@ Thailand 36%, China 28%, Vietnam 16% (2019)<br>
 electricity, copper, rubber, gold, flavored water (2019)<br>
 
 **Imports**<br>
-$7.52 billion note: data are in current year dollars (2019 est.)<br>
-$7.56 billion note: data are in current year dollars (2018 est.)<br>
+$7.52 billion (2019 est.) note: data are in current year dollars<br>
+$7.56 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Thailand 53%, China 26%, Vietnam 10% (2019)<br>
@@ -628,6 +631,10 @@ _international_: country code - 856; satellite earth station - 1 Intersputnik (I
 **Internet country code**<br>
 .la<br>
 
+**Internet users**<br>
+_total_: 2,473,689 (2020 est.)<br>
+_percent of population_: 34% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 128,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 1.76 (2021 est.)<br>
@@ -638,7 +645,7 @@ _subscriptions per 100 inhabitants_: 1.76 (2021 est.)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 12<br>
 _annual passenger traffic on registered air carriers_: 1,251,961 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.53 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1.53 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 RDPL<br>
@@ -667,7 +674,7 @@ _paved_: 5,415 km (2009)<br>
 _unpaved_: 34,171 km (2009)<br>
 
 **Waterways**<br>
-4,600 km (primarily on the Mekong River and its tributaries; 2,900 additional km are intermittently navigable by craft drawing less than 0.5 m) (2012)<br>
+4,600 km (2012) (primarily on the Mekong River and its tributaries; 2,900 additional km are intermittently navigable by craft drawing less than 0.5 m)<br>
 
 **Merchant marine**<br>
 _total_: 1<br>
@@ -679,11 +686,11 @@ _by type_: general cargo 1 (2021)<br>
 Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces<br><br>Ministry of Public Security (internal security and law enforcement):  local, traffic, immigration, and security police, as well as village police auxiliaries and other armed police units (2021)<br>
 
 **Military expenditures**<br>
-0.2% of GDP (approximately $120 million) (2019 est.)<br>
-0.2% of GDP (approximately $110 million) (2018 est.)<br>
-0.2% of GDP (approximately $100 million) (2017 est.)<br>
-0.2% of GDP (approximately $95 million) (2016 est.)<br>
-0.2% of GDP (approximately $85 million) (2015 est.)<br>
+0.2% of GDP (2019 est.) (approximately $120 million)<br>
+0.2% of GDP (2018 est.) (approximately $110 million)<br>
+0.2% of GDP (2017 est.) (approximately $100 million)<br>
+0.2% of GDP (2016 est.) (approximately $95 million)<br>
+0.2% of GDP (2015 est.) (approximately $85 million)<br>
 
 **Military and security service personnel strengths**<br>
 information is limited and estimates vary; approximately 30,000 active duty troops (26,000 Army; 4,000 Air Force) (2021)<br>

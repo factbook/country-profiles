@@ -77,6 +77,9 @@ destructive earthquakes<br>
 **Geography - note**<br>
 controls most land routes from Western Europe to Aegean Sea and Turkish Straits; most Adriatic Sea islands lie off the coast of Croatia - some 1,200 islands, islets, ridges, and rocks<br>
 
+**Map description**<br>
+<p>Croatia map showing major cities as well as parts of surrounding countries and the Adriatic Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 14.16% (male 308,668/female 289,996)<br>
 _15-24 years_: 10.76% (male 233,602/female 221,495)<br>
 _25-54 years_: 39.77% (male 841,930/female 839,601)<br>
 _55-64 years_: 14.24% (male 290,982/female 310,969)<br>
-_65 years and over_: 21.06% (male 364,076/female 526,427) (2020 est.)<br>
+_65 years and over_: 21.06% (2020 est.) (male 364,076/female 526,427)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.7<br>
@@ -194,14 +197,14 @@ _unimproved: rural_: rural: 1.6% of population<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 1,700 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br>
+(2020 est.) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -503,9 +506,9 @@ $1.597 billion (2019 est.)<br>
 $1 billion (2018 est.)<br>
 
 **Exports**<br>
-$23.66 billion note: data are in current year dollars (2020 est.)<br>
-$31.07 billion note: data are in current year dollars (2019 est.)<br>
-$30.71 billion note: data are in current year dollars (2018 est.)<br>
+$23.66 billion (2020 est.) note: data are in current year dollars<br>
+$31.07 billion (2019 est.) note: data are in current year dollars<br>
+$30.71 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Italy 13%, Germany 13%, Slovenia 10%, Bosnia and Herzegovina 9%, Austria 6%, Serbia 5% (2019)<br>
@@ -514,9 +517,9 @@ Italy 13%, Germany 13%, Slovenia 10%, Bosnia and Herzegovina 9%, Austria 6%, Ser
 refined petroleum, packaged medicines, cars, medical cultures/vaccines, lumber (2019)<br>
 
 **Imports**<br>
-$27.59 billion note: data are in current year dollars (2020 est.)<br>
-$31.39 billion note: data are in current year dollars (2019 est.)<br>
-$31.32 billion note: data are in current year dollars (2018 est.)<br>
+$27.59 billion (2020 est.) note: data are in current year dollars<br>
+$31.39 billion (2019 est.) note: data are in current year dollars<br>
+$31.32 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Italy 14%, Germany 14%, Slovenia 11%, Hungary 7%, Austria 6% (2019)<br>
@@ -633,6 +636,10 @@ the national state-owned public broadcaster, Croatian Radiotelevision, operates 
 **Internet country code**<br>
 .hr<br>
 
+**Internet users**<br>
+_total_: 3,157,190 (2020 est.)<br>
+_percent of population_: 78% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,030,973 (2021)<br>
 _subscriptions per 100 inhabitants_: 25.11 (2021)<br>
@@ -643,7 +650,7 @@ _subscriptions per 100 inhabitants_: 25.11 (2021)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 18<br>
 _annual passenger traffic on registered air carriers_: 2,093,577 (2018)<br>
-_annual freight traffic on registered air carriers_: 530,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 530,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 9A<br>
@@ -673,10 +680,10 @@ _under 914 m_: 38 (2021)<br>
 
 **Railways**<br>
 _total_: 2,722 km (2014)<br>
-_standard gauge_: 2,722 km 1.435-m gauge (980 km electrified) (2014)<br>
+_standard gauge_: 2,722 km (2014) 1.435-m gauge (980 km electrified)<br>
 
 **Roadways**<br>
-_total_: 26,958 km (includes 1,416 km of expressways) (2015)<br>
+_total_: 26,958 km (2015) (includes 1,416 km of expressways)<br>
 
 **Waterways**<br>
 785 km (2009)<br>
@@ -698,9 +705,9 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
 1.7% of GDP (2020)<br>
-1.6% of GDP (approximately $1.62 billion) (2019)<br>
-1.6% of GDP (approximately $1.52 billion) (2018)<br>
-1.7% of GDP (approximately $1.5 billion) (2017)<br>
+1.6% of GDP (2019) (approximately $1.62 billion)<br>
+1.6% of GDP (2018) (approximately $1.52 billion)<br>
+1.7% of GDP (2017) (approximately $1.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of the Republic of Croatia have approximately 15,000 active duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2021)<br>

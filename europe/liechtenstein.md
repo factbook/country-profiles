@@ -72,6 +72,9 @@ avalanches, landslides<br>
 **Geography - note**<br>
 along with Uzbekistan, one of only two doubly landlocked countries in the world; variety of microclimatic variations based on elevation<br>
 
+**Map description**<br>
+<p>Liechtenstein map showing major population centers of this landlocked country surrounded by Switzerland and Austria.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -98,7 +101,7 @@ _0-14 years_: 15.2% (male 3,259/female 2,688)<br>
 _15-24 years_: 11.29% (male 2,238/female 2,181)<br>
 _25-54 years_: 40.22% (male 7,869/female 7,872)<br>
 _55-64 years_: 14.41% (male 2,711/female 2,930)<br>
-_65 years and over_: 18.88% (male 3,403/female 3,986) (2020 est.)<br>
+_65 years and over_: 18.88% (2020 est.) (male 3,403/female 3,986)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -380,7 +383,7 @@ electronics, metal manufacturing, dental products, ceramics, pharmaceuticals, fo
 NA<br>
 
 **Labor force**<br>
-38,520 (2012) (2015 est.)<br>
+38,520 (2015 est.) (2012)<br>
 <strong>note:</strong> 51% of the labor force in Liechtenstein commute daily from Austria, Switzerland, and Germany<br>
 
 **Labor force - by occupation**<br>
@@ -478,6 +481,10 @@ relies on foreign terrestrial and satellite broadcasters for most broadcast medi
 **Internet country code**<br>
 .li<br>
 
+**Internet users**<br>
+_total_: 37,260 (2019 est.)<br>
+_percent of population_: 98% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 18,050 (2021)<br>
 _subscriptions per 100 inhabitants_: 47.34 (2021)<br>
@@ -492,7 +499,7 @@ HB<br>
 
 **Railways**<br>
 _total_: 9 km (2018)<br>
-_standard gauge_: 9 km 1.435-m gauge (electrified) (2018)<br>
+_standard gauge_: 9 km (2018) 1.435-m gauge (electrified)<br>
 <strong>note:</strong> belongs to the Austrian Railway System connecting Austria and Switzerland<br>
 
 **Roadways**<br>

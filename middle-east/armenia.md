@@ -73,6 +73,9 @@ occasionally severe earthquakes; droughts<br>
 **Geography - note**<br>
 landlocked in the Lesser Caucasus Mountains; Sevana Lich (Lake Sevan) is the largest lake in this mountain range<br>
 
+**Map description**<br>
+<p>Armenia map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 18.64% (male 297,320/female 265,969)<br>
 _15-24 years_: 11.63% (male 184,258/female 167,197)<br>
 _25-54 years_: 43.04% (male 639,101/female 661,421)<br>
 _55-64 years_: 14.08% (male 195,754/female 229,580)<br>
-_65 years and over_: 12.6% (male 154,117/female 226,607) (2020 est.)<br>
+_65 years and over_: 12.6% (2020 est.) (male 154,117/female 226,607)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48.4<br>
@@ -195,7 +198,7 @@ _unimproved: total_: total: 5.6% of population (2020 est.)<br>
 4,800 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020 est.)<br>
+(2020 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
@@ -484,9 +487,9 @@ calendar year<br>
 -$238 million (2016 est.)<br>
 
 **Exports**<br>
-$3.82 billion note: data are in current year dollars (2020 est.)<br>
-$5.64 billion note: data are in current year dollars (2019 est.)<br>
-$4.91 billion note: data are in current year dollars (2018 est.)<br>
+$3.82 billion (2020 est.) note: data are in current year dollars<br>
+$5.64 billion (2019 est.) note: data are in current year dollars<br>
+$4.91 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Russia 22%, Switzerland 20%, China 7%, Bulgaria 6%, Iraq 5%, Serbia 5%, Netherlands 5%, Germany 5% (2019)<br>
@@ -495,9 +498,9 @@ Russia 22%, Switzerland 20%, China 7%, Bulgaria 6%, Iraq 5%, Serbia 5%, Netherla
 copper ore, gold, tobacco, liquors, iron alloys (2019)<br>
 
 **Imports**<br>
-$5 billion note: data are in current year dollars (2020 est.)<br>
-$7.47 billion note: data are in current year dollars (2019 est.)<br>
-$6.61 billion note: data are in current year dollars (2018 est.)<br>
+$5 billion (2020 est.) note: data are in current year dollars<br>
+$7.47 billion (2019 est.) note: data are in current year dollars<br>
+$6.61 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Russia 29%, China 10%, Georgia 8%, Iran 6%, Turkey 5% (2019)<br>
@@ -614,9 +617,13 @@ _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus C
 **Internet country code**<br>
 .am<br>
 
+**Internet users**<br>
+_total_: 2,281,690 (2020 est.)<br>
+_percent of population_: 77% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 430,407 (2021)<br>
-_subscriptions per 100 inhabitants_: 14.52 (2021 est.)<br>
+_total_: 430,407 (2022)<br>
+_subscriptions per 100 inhabitants_: 14.52 (2022)<br>
 
 ## Transportation
 
@@ -646,7 +653,7 @@ _914 to 1,523 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 780 km (2014)<br>
-_broad gauge_: 780 km 1.520-m gauge (780 km electrified) (2014)<br>
+_broad gauge_: 780 km (2014) 1.520-m gauge (780 km electrified)<br>
 <strong>note:</strong> 726 km operational<br>
 
 **Roadways**<br>
@@ -660,11 +667,11 @@ _non-urban_: 3,920 km<br>
 Armenian Armed Forces: Armenian Army (includes land, air, air defense forces) (2021)<br>
 
 **Military expenditures**<br>
+4.4% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
-5.3% of GDP (approximately $1.82 billion) (2019 est.)<br>
-4.6% of GDP (approximately 1.6 billion) (2018 est.)<br>
-4.4% of GDP (approximately $1.43 billion) (2017 est.)<br>
-4.6% of GDP (approximately $1.32 billion) (2016 est.)<br>
+5.3% of GDP (2019 est.) (approximately $1.82 billion)<br>
+4.6% of GDP (2018 est.) (approximately 1.6 billion)<br>
+4.4% of GDP (2017 est.) (approximately $1.43 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2021)<br>

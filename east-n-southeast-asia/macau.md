@@ -65,6 +65,9 @@ typhoons<br>
 **Geography - note**<br>
 essentially urban; an area of land reclaimed from the sea measuring 5.2 sq km and known as Cotai now connects the islands of Coloane and Taipa; the island area is connected to the mainland peninsula by three bridges<br>
 
+**Map description**<br>
+<p>Macau map showing major districts of this special administrative region of China that extends into the South China Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -89,7 +92,7 @@ _0-14 years_: 13.43% (male 42,449/female 40,051)<br>
 _15-24 years_: 10.45% (male 33,845/female 30,354)<br>
 _25-54 years_: 49% (male 134,302/female 166,762)<br>
 _55-64 years_: 14.57% (male 44,512/female 45,007)<br>
-_65 years and over_: 12.56% (male 36,223/female 40,953) (2020 est.)<br>
+_65 years and over_: 12.56% (2020 est.) (male 36,223/female 40,953)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 35.7<br>
@@ -409,8 +412,8 @@ $16.75 billion (2017 est.)<br>
 $12.22 billion (2016 est.)<br>
 
 **Exports**<br>
-$45.35 billion note: data are in current year dollars (2019 est.)<br>
-$45.62 billion note: data are in current year dollars (2018 est.)<br>
+$45.35 billion (2019 est.) note: data are in current year dollars<br>
+$45.62 billion (2018 est.) note: data are in current year dollars<br>
 <strong>note:</strong> includes reexports<br>
 
 **Exports - partners**<br>
@@ -420,8 +423,8 @@ Hong Kong 66%, China 9% (2019)<br>
 broadcasting equipment, jewelry, watches, trunks/cases, telephones (2019)<br>
 
 **Imports**<br>
-$17.35 billion note: data are in current year dollars (2019 est.)<br>
-$18.28 billion note: data are in current year dollars (2018 est.)<br>
+$17.35 billion (2019 est.) note: data are in current year dollars<br>
+$18.28 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 33%, Hong Kong 31%, France 5% (2019)<br>
@@ -539,6 +542,10 @@ local government dominates broadcast media; 2 television stations operated by th
 **Internet country code**<br>
 .mo<br>
 
+**Internet users**<br>
+_total_: 571,421 (2020 est.)<br>
+_percent of population_: 88% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 208,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 32.03 (2021 est.)<br>
@@ -546,10 +553,10 @@ _subscriptions per 100 inhabitants_: 32.03 (2021 est.)<br>
 ## Transportation
 
 **National air transport system**<br>
-_number of registered air carriers_: 1 (registered in China) (2020)<br>
+_number of registered air carriers_: 1 (2020) (registered in China)<br>
 _inventory of registered aircraft operated by air carriers_: 21 (registered in China)<br>
 _annual passenger traffic on registered air carriers_: 3,157,724 (2018)<br>
-_annual freight traffic on registered air carriers_: 31.84 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 31.84 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 B-M<br>

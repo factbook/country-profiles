@@ -70,6 +70,9 @@ hurricanes (June to November)<br>
 **Geography - note**<br>
 consists of about 138 coral islands and islets with ample rainfall, but no rivers or freshwater lakes; some land was leased by the US Government from 1941 to 1995<br>
 
+**Map description**<br>
+<p>Bermuda map showing the many islands that make up the country in the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -93,7 +96,7 @@ _0-14 years_: 16.7% (male 6,053/female 5,928)<br>
 _15-24 years_: 11.88% (male 4,290/female 4,235)<br>
 _25-54 years_: 35.31% (male 12,758/female 12,575)<br>
 _55-64 years_: 16.37% (male 5,560/female 6,185)<br>
-_65 years and over_: 19.74% (male 6,032/female 8,134) (2020 est.)<br>
+_65 years and over_: 19.74% (2020 est.) (male 6,032/female 8,134)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -330,8 +333,8 @@ _selected World Heritage Site locales_: Historic Town of St George and Related F
 <p>International business, which consists primarily of insurance and other financial services, is the real bedrock of Bermuda's economy, consistently accounting for about 85% of the island's GDP. Tourism is the country’s second largest industry, accounting for about 5% of Bermuda's GDP but a much larger share of employment. Over 80% of visitors come from the US and the sector struggled in the wake of the global recession of 2008-09. Even the financial sector has lost roughly 5,000 high-paying expatriate jobs since 2008, weighing heavily on household consumption and retail sales. Bermuda must import almost everything. Agriculture and industry are limited due to the small size of the island.</p><p></p><p>Bermuda's economy returned to negative growth in 2016, reporting a contraction of 0.1% GDP, after growing by 0.6% in 2015. Unemployment reached 7% in 2016 and 2017, public debt is growing and exceeds $2.4 billion, and the government continues to work on attracting foreign investment. Still, Bermuda enjoys one of the highest per capita incomes in the world.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.23 billion note: data are in 2017 dollars (2019 est.)<br>
-$5.2 billion note: data are in 2017 dollars (2018 est.)<br>
+$5.23 billion (2019 est.) note: data are in 2017 dollars<br>
+$5.2 billion (2018 est.) note: data are in 2017 dollars<br>
 $5.227 billion (2017 est.)<br>
 
 **Real GDP growth rate**<br>
@@ -340,8 +343,8 @@ $5.227 billion (2017 est.)<br>
 -0.3% (2014 est.)<br>
 
 **Real GDP per capita**<br>
-$81,800 note: data are in 2017 dollars (2019 est.)<br>
-$81,400 note: data are in 2017 dollars (2018 est.)<br>
+$81,800 (2019 est.) note: data are in 2017 dollars<br>
+$81,400 (2018 est.) note: data are in 2017 dollars<br>
 $81,835 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -423,8 +426,8 @@ $818.6 million (2017 est.)<br>
 $763 million (2016 est.)<br>
 
 **Exports**<br>
-$1.59 billion note: data are in current year dollars (2019 est.)<br>
-$1.59 billion note: data are in current year dollars (2018 est.)<br>
+$1.59 billion (2019 est.) note: data are in current year dollars<br>
+$1.59 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Jamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)<br>
@@ -433,8 +436,8 @@ Jamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)<br>
 re-exports of pharmaceuticals<br>
 
 **Imports**<br>
-$2.23 billion note: data are in current year dollars (2019 est.)<br>
-$2.2 billion note: data are in current year dollars (2018 est.)<br>
+$2.23 billion (2019 est.) note: data are in current year dollars<br>
+$2.2 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 44%, South Korea 17%, Germany 10%, Canada 8% (2019)<br>
@@ -548,6 +551,10 @@ _international_: country code - 1-441; landing points for the GlobeNet, Gemini B
 **Internet country code**<br>
 .bm<br>
 
+**Internet users**<br>
+_total_: 62,625 (2020 est.)<br>
+_percent of population_: 98% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 23,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 36.93 (2021)<br>
@@ -597,5 +604,5 @@ defense is the responsibility of the UK<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 

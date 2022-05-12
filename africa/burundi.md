@@ -76,6 +76,9 @@ flooding; landslides; drought<br>
 **Geography - note**<br>
 landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drains into Lake Victoria, is the most remote headstream of the White Nile<br>
 
+**Map description**<br>
+<p>Burundi map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -105,7 +108,7 @@ _0-14 years_: 43.83% (male 2,618,868/female 2,581,597)<br>
 _15-24 years_: 19.76% (male 1,172,858/female 1,171,966)<br>
 _25-54 years_: 29.18% (male 1,713,985/female 1,748,167)<br>
 _55-64 years_: 4.17% (male 231,088/female 264,131)<br>
-_65 years and over_: 3.06% (male 155,262/female 207,899) (2020 est.)<br>
+_65 years and over_: 3.06% (2020 est.) (male 155,262/female 207,899)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 91<br>
@@ -286,7 +289,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to floods, and lack of rain - about 1 million people are estimated to be severely food insecure in the June&minus;September 2021 period, mainly due to livelihood losses caused by poor rains in northern areas and by floods in western areas bordering Lake Tanganyika; the socio‑economic impact of the COVID-19 pandemic has put further constraints on livelihoods of vulnerable households. (2021)<br>
+_widespread lack of access_: about 1 million people are estimated to be severely food insecure between January and March 2022, due to livelihood losses and displacements caused by the rising water level of Lake Tanganyika and the overflow of rivers, sustained repatriation flows and the socio-economic impact of the COVID‑19 pandemic (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,872,016 tons (2002 est.)<br>
@@ -613,7 +616,7 @@ _electrification - rural areas_: 2% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 18,300 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6,631,154 (2020)<br>
@@ -631,9 +634,13 @@ state-controlled Radio Television Nationale de Burundi (RTNB) operates a TV stat
 **Internet country code**<br>
 .bi<br>
 
+**Internet users**<br>
+_total_: 1,070,170 (2020 est.)<br>
+_percent of population_: 9% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 4,230 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.04 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.04 (2021) less than 1<br>
 
 ## Transportation
 
@@ -661,7 +668,7 @@ _paved_: 1,500 km (2016)<br>
 _unpaved_: 10,822 km (2016)<br>
 
 **Waterways**<br>
-(mainly on Lake Tanganyika between Bujumbura, Burundi's principal port, and lake ports in Tanzania, Zambia, and the Democratic Republic of the Congo) (2011)<br>
+(2011) (mainly on Lake Tanganyika between Bujumbura, Burundi's principal port, and lake ports in Tanzania, Zambia, and the Democratic Republic of the Congo)<br>
 
 **Ports and terminals**<br>
 _lake port(s)_: Bujumbura (Lake Tanganyika)<br>
@@ -673,10 +680,10 @@ National Defense Forces (Forces de Defense Nationale, FDN): Army (includes marit
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>
-3% of GDP (approximately $120 million) (2019 est.)<br>
-2.3% of GDP (approximately $100 million) (2018 est.)<br>
-2.1% of GDP (approximately $95 million) (2017 est.)<br>
-2.4% of GDP (approximately $100 million) (2016 est.)<br>
+3% of GDP (2019 est.) (approximately $120 million)<br>
+2.3% of GDP (2018 est.) (approximately $100 million)<br>
+2.1% of GDP (2017 est.) (approximately $95 million)<br>
+2.4% of GDP (2016 est.) (approximately $100 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active duty troops, the majority of which are ground forces (2021)<br>

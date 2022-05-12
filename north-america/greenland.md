@@ -70,6 +70,9 @@ continuous permafrost over northern two-thirds of the island<br>
 **Geography - note**<br>
 dominates North Atlantic Ocean between North America and Europe; sparse population confined to small settlements along coast; close to one-quarter of the population lives in the capital, Nuuk; world's second largest ice sheet after that of Antarctica covering an area of 1.71 million sq km (660,000 sq mi) or about 79% of the island, and containing 2.85 million cu km (684 thousand cu mi) of ice (this is almost 7% of all of the world's fresh water); if all this ice were converted to liquid water, one estimate is that it would be sufficient to raise the height of the world's oceans by 7.2 m (24 ft)<br>
 
+**Map description**<br>
+<p>Greenland map showing the massive island that makes up this part of Denmark in the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -80,7 +83,7 @@ _noun_: Greenlander(s)<br>
 _adjective_: Greenlandic<br>
 
 **Ethnic groups**<br>
-Greenlandic 89.5%, Danish 7.5%, other Nordic peoples 1.1%, and other 1.9% (2020 est.)<br>
+Greenlandic 89.1%, Danish 7.5%, other Nordic peoples 0.9%, and other 2.5% (2022 est.)<br>
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 20.82% (male 6,079/female 5,916)<br>
 _15-24 years_: 14.45% (male 4,186/female 4,137)<br>
 _25-54 years_: 39.72% (male 11,962/female 10,921)<br>
 _55-64 years_: 14.66% (male 4,561/female 3,886)<br>
-_65 years and over_: 10.36% (male 3,170/female 2,798) (2020 est.)<br>
+_65 years and over_: 10.36% (2020 est.) (male 3,170/female 2,798)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -192,7 +195,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-10.6% of GDP NA (2018)<br>
+10.6% of GDP (2018) NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -541,6 +544,10 @@ the Greenland Broadcasting Company provides public radio and TV services through
 **Internet country code**<br>
 .gl<br>
 
+**Internet users**<br>
+_total_: 39,358 (2019 est.)<br>
+_percent of population_: 70% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 15,649 (2021)<br>
 _subscriptions per 100 inhabitants_: 27.57 (2021)<br>
@@ -548,7 +555,7 @@ _subscriptions per 100 inhabitants_: 27.57 (2021)<br>
 ## Transportation
 
 **National air transport system**<br>
-_number of registered air carriers_: 1 (registered in Denmark) (2020)<br>
+_number of registered air carriers_: 1 (2020) (registered in Denmark)<br>
 _inventory of registered aircraft operated by air carriers_: 8 (registered in Denmark)<br>
 
 **Civil aircraft registration country code prefix**<br>

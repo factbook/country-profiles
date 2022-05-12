@@ -58,10 +58,13 @@ typhoons; numerous reefs and shoals pose a serious maritime hazard<br>
 **Geography - note**<br>
 strategically located near several primary shipping lanes in the central South China Sea; includes numerous small islands, atolls, shoals, and coral reefs<br>
 
+**Map description**<br>
+<p>Spratly Islands map showing the major islands and reefs of this archipelago in the South China Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
-no indigenous inhabitants (July 2021 est.)<br>
+(July 2021 est.) no indigenous inhabitants<br>
 <strong>note:</strong> there are scattered garrisons occupied by military personnel of several claimant states<br>
 
 **Age structure**<br>
@@ -81,7 +84,7 @@ _potential support ratio_: NA<br>
 NA<br>
 
 **Death rate**<br>
-NA (2021 est.)<br>
+(2021 est.) NA<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

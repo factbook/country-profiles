@@ -75,6 +75,9 @@ occasional severe storms and forest fires in the Darien area<br>
 **Geography - note**<br>
 strategic location on eastern end of isthmus forming land bridge connecting North and South America; controls Panama Canal that links North Atlantic Ocean via Caribbean Sea with North Pacific Ocean<br>
 
+**Map description**<br>
+<p>Panama map showing major cities as well as parts of surrounding countries and the North Pacific Ocean and Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 25.56% (male 508,131/female 487,205)<br>
 _15-24 years_: 16.59% (male 329,250/female 316,796)<br>
 _25-54 years_: 40.31% (male 794,662/female 774,905)<br>
 _55-64 years_: 8.54% (male 165,129/female 167,317)<br>
-_65 years and over_: 9.01% (male 160,516/female 190,171) (2020 est.)<br>
+_65 years and over_: 9.01% (2020 est.) (male 160,516/female 190,171)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.9<br>
@@ -198,7 +201,7 @@ _unimproved: total_: total: 12.8% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;500 (2020 est.)<br>
+(2020 est.) &lt;500<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -363,7 +366,7 @@ _email address and website_: <br>info@embassyofpanama.org<br><br>https://www.emb
 _consulate(s) general_: Houston, Miami, Los Angeles, New Orleans, New York, Philadelphia, Tampa, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant), Charge d'Affairs Stewart TUTTLE (since August 2020)<br>
+_chief of mission_: Ambassador (vacant), Charge d'Affaires Stewart TUTTLE (since August 2020)<br>
 _embassy_: Building 783, Demetrio Basilio Lakas Avenue, Clayton<br>
 _mailing address_: 9100 Panama City PL, Washington, DC 20521-9100<br>
 _telephone_: [507] 317-5000<br>
@@ -492,9 +495,9 @@ calendar year<br>
 -$3.16 billion (2016 est.)<br>
 
 **Exports**<br>
-$20.18 billion note: data are in current year dollars (2020 est.)<br>
-$28.58 billion note: data are in current year dollars (2019 est.)<br>
-$28.55 billion note: data are in current year dollars (2018 est.)<br>
+$20.18 billion (2020 est.) note: data are in current year dollars<br>
+$28.58 billion (2019 est.) note: data are in current year dollars<br>
+$28.55 billion (2018 est.) note: data are in current year dollars<br>
 <strong>note:</strong> includes the Colon Free Zone<br>
 
 **Exports - partners**<br>
@@ -504,9 +507,9 @@ Ecuador 20%, Guatemala 14%, China 8%, United States 6%, Netherlands 6% (2019)<br
 refined petroleum, copper, bananas, ships, coal tar oil, packaged medicines (2019)<br>
 
 **Imports**<br>
-$17.41 billion note: data are in current year dollars (2020 est.)<br>
-$27.38 billion note: data are in current year dollars (2019 est.)<br>
-$28.9 billion note: data are in current year dollars (2018 est.)<br>
+$17.41 billion (2020 est.) note: data are in current year dollars<br>
+$27.38 billion (2019 est.) note: data are in current year dollars<br>
+$28.9 billion (2018 est.) note: data are in current year dollars<br>
 <strong>note:</strong> includes the Colon Free Zone<br>
 
 **Imports - partners**<br>
@@ -626,6 +629,10 @@ multiple privately owned TV networks and a government-owned educational TV stati
 **Internet country code**<br>
 .pa<br>
 
+**Internet users**<br>
+_total_: 2,761,452 (2020 est.)<br>
+_percent of population_: 64% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 562,413 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 13.03 (2021 est.)<br>
@@ -636,7 +643,7 @@ _subscriptions per 100 inhabitants_: 13.03 (2021 est.)<br>
 _number of registered air carriers_: 4 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 122<br>
 _annual passenger traffic on registered air carriers_: 12,939,350 (2018)<br>
-_annual freight traffic on registered air carriers_: 47.63 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 47.63 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 HP<br>
@@ -666,10 +673,10 @@ _under 914 m_: 51 (2021)<br>
 
 **Railways**<br>
 _total_: 77 km (2014)<br>
-_standard gauge_: 77 km 1.435-m gauge (2014)<br>
+_standard gauge_: 77 km (2014) 1.435-m gauge<br>
 
 **Waterways**<br>
-800 km (includes the 82-km Panama Canal that is being widened) (2011)<br>
+800 km (2011) (includes the 82-km Panama Canal that is being widened)<br>
 
 **Merchant marine**<br>
 _total_: 7,980<br>
@@ -687,10 +694,10 @@ note - the PNP includes paramilitary special forces units for counterterrorism a
 
 **Military expenditures**<br>
 1.4% of GDP (2020 est.)<br>
-1.2% of GDP (approximately $1.38 billion) (2019)<br>
-1.1% of GDP (approximately $1.33 billion) (2018)<br>
-1.2% of GDP (approximately $1.32 billion) (2017)<br>
-1.3% of GDP (approximately $1.28 billion) (2016)<br>
+1.2% of GDP (2019) (approximately $1.38 billion)<br>
+1.1% of GDP (2018) (approximately $1.33 billion)<br>
+1.2% of GDP (2017) (approximately $1.32 billion)<br>
+1.3% of GDP (2016) (approximately $1.28 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 20,000 National Police; 4,000 National Border Service; 3,000 National Air-Naval Service (2021)<br>

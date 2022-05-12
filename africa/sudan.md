@@ -82,6 +82,9 @@ dust storms and periodic persistent droughts<br>
 **Geography - note**<br>
 the Nile is Sudan's primary water source; its major tributaries, the White Nile and the Blue Nile, meet at Khartoum to form the River Nile which flows northward through Egypt to the Mediterranean Sea<br>
 
+**Map description**<br>
+<p>Sudan showing major population centers as well as parts of surrounding countries and the Red Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -106,7 +109,7 @@ _0-14 years_: 42.01% (male 9,726,937/female 9,414,988)<br>
 _15-24 years_: 20.94% (male 4,852,903/female 4,687,664)<br>
 _25-54 years_: 29.89% (male 6,633,567/female 6,986,241)<br>
 _55-64 years_: 4.13% (male 956,633/female 923,688)<br>
-_65 years and over_: 3.03% (male 729,214/female 649,721) (2020 est.)<br>
+_65 years and over_: 3.03% (2020 est.) (male 729,214/female 649,721)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 76.9<br>
@@ -374,7 +377,7 @@ Democratic Unionist Party or DUP [Jalal al-DIGAIR]<br>Democratic Unionist Party 
 ABEDA, ACP, AfDB, AFESD, AMF, AU, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Charge D&rsquo;Affaires Ismat GABANNI (since February 2022)<br>
+_chief of mission_: Charge D&rsquo;Affaires Ismat Kamil GABBANI (since 14 January 2022)<br>
 _chancery_: 2210 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 338-8565<br>
 _FAX_: [1] (202) 667-2406<br>
@@ -503,8 +506,8 @@ calendar year<br>
 -$4.213 billion (2016 est.)<br>
 
 **Exports**<br>
-$5.11 billion note: data are in current year dollars (2019 est.)<br>
-$5 billion note: data are in current year dollars (2018 est.)<br>
+$5.11 billion (2019 est.) note: data are in current year dollars<br>
+$5 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 31%, China 19%, Saudi Arabia 14%, India 12%, Egypt 5% (2019)<br>
@@ -513,8 +516,8 @@ United Arab Emirates 31%, China 19%, Saudi Arabia 14%, India 12%, Egypt 5% (2019
 gold, crude petroleum, sesame seeds, sheep, goats, cotton, ground nuts (2019)<br>
 
 **Imports**<br>
-$9.79 billion note: data are in current year dollars (2019 est.)<br>
-$8.24 billion note: data are in current year dollars (2018 est.)<br>
+$9.79 billion (2019 est.) note: data are in current year dollars<br>
+$8.24 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 31%, India 14%, United Arab Emirates 11%, Egypt 6% (2019)<br>
@@ -615,7 +618,7 @@ _electrification - rural areas_: 35% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 129,408 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 33,014,200 (2019)<br>
@@ -633,9 +636,13 @@ Following the establishment of Sudan&rsquo;s civilian-led transitional governmen
 **Internet country code**<br>
 .sd<br>
 
+**Internet users**<br>
+_total_: 12,277,795 (2020 est.)<br>
+_percent of population_: 28% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 28,782 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.07 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.07 (2021) less than 1<br>
 
 ## Transportation
 
@@ -672,7 +679,7 @@ _under 914 m_: 9 (2021)<br>
 
 **Railways**<br>
 _total_: 7,251 km (2014)<br>
-_narrow gauge_: 5,851 km 1.067-m gauge (2014)<br>
+_narrow gauge_: 5,851 km (2014) 1.067-m gauge<br>
 1,400 km 0.600-m gauge for cotton plantations<br>
 
 **Roadways**<br>
@@ -682,7 +689,7 @@ _unpaved_: 23,000 km (2019)<br>
 _urban_: 1,000 km (2019)<br>
 
 **Waterways**<br>
-4,068 km (1,723 km open year-round on White and Blue Nile Rivers) (2011)<br>
+4,068 km (2011) (1,723 km open year-round on White and Blue Nile Rivers)<br>
 
 **Merchant marine**<br>
 _total_: 15<br>
@@ -698,11 +705,11 @@ Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Suppo
 note - the RSF is a semi-autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALO (aka Hemeti) as its commander (he is also a member of the Sovereign Council); it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; as a result, the RSF was better funded and equipped than the regular armed forces; the RSF has since recruited from all parts of Sudan beyond its original Darfuri Arab groups but remains under the personal patronage and control of DAGALO; the RSF has been accused of committing rights abuses against civilians; it is also reportedly involved in business enterprises, such as gold mining; in late 2019, Sovereign Council Chairman and SAF Commander-in-Chief General Abd-al-Fatah al-BURHAN said the RSF would be fully integrated into the SAF, but did not give a timeline<br>
 
 **Military expenditures**<br>
-1.1% of GDP (2020 est.)<br>
-2.4% of GDP (approximately $2.08 billion) (2019 est.)<br>
-2% of GDP (approximately $2.08 billion) (2018 est.)<br>
-3.6% of GDP (approximately $2.75 billion) (2017 est.)<br>
-2.9% of GDP (approximately $2.55 billion) (2016 est.)<br>
+2.4% of GDP (2019 est.) (approximately $2.08 billion)<br>
+2% of GDP (2018 est.) (approximately $2.08 billion)<br>
+3.6% of GDP (2017 est.) (approximately $2.75 billion)<br>
+2.9% of GDP (2016 est.) (approximately $2.55 billion)<br>
+2.4% of GDP (2015 est.) (approximately $2.64 billion)<br>
 note - many defense expenditures are probably off-budget<br>
 
 **Military and security service personnel strengths**<br>

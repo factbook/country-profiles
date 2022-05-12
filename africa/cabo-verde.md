@@ -71,6 +71,9 @@ among the nine inhabited islands, population distribution is variable; islands i
 **Geography - note**<br>
 strategic location 500 km from west coast of Africa near major north-south sea routes; important communications station; important sea and air refueling site; one of four North Atlantic archipelagos that make up Macaronesia; the others are Azores (Portugal), Canary Islands (Spain), and Madeira (Portugal)<br>
 
+**Map description**<br>
+<p>Cabo Verde map showing the many islands that make up the country in the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 27.95% (male 82,010/female 81,012)<br>
 _15-24 years_: 18.69% (male 54,521/female 54,504)<br>
 _25-54 years_: 40.76% (male 115,811/female 121,923)<br>
 _55-64 years_: 7.12% (male 18,939/female 22,597)<br>
-_65 years and over_: 5.48% (male 12,037/female 19,901) (2020 est.)<br>
+_65 years and over_: 5.48% (2020 est.) (male 12,037/female 19,901)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49<br>
@@ -192,7 +195,7 @@ _unimproved: total_: total: 14.4% of population (2020 est.)<br>
 2,400 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020 est.)<br>
+(2020 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 11.8% (2016)<br>
@@ -466,9 +469,9 @@ calendar year<br>
 -$40 million (2016 est.)<br>
 
 **Exports**<br>
-$420 million note: data are in current year dollars (2020 est.)<br>
-$1 billion note: data are in current year dollars (2019 est.)<br>
-$960 million note: data are in current year dollars (2018 est.)<br>
+$420 million (2020 est.) note: data are in current year dollars<br>
+$1 billion (2019 est.) note: data are in current year dollars<br>
+$960 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Spain 65%, Portugal 14%, Italy 8% (2019)<br>
@@ -477,9 +480,9 @@ Spain 65%, Portugal 14%, Italy 8% (2019)<br>
 processed and frozen fish, mollusks, clothing, scrap iron (2019)<br>
 
 **Imports**<br>
-$1.02 billion note: data are in current year dollars (2020 est.)<br>
-$1.29 billion note: data are in current year dollars (2019 est.)<br>
-$1.34 billion note: data are in current year dollars (2018 est.)<br>
+$1.02 billion (2020 est.) note: data are in current year dollars<br>
+$1.29 billion (2019 est.) note: data are in current year dollars<br>
+$1.34 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Portugal 36%, Netherlands 16%, Spain 11%, China 6% (2019)<br>
@@ -598,6 +601,10 @@ state-run TV and radio broadcast network plus a growing number of private broadc
 **Internet country code**<br>
 .cv<br>
 
+**Internet users**<br>
+_total_: 361,392 (2020 est.)<br>
+_percent of population_: 65% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 24,839 (2021)<br>
 _subscriptions per 100 inhabitants_: 4.47 (2021 est.)<br>
@@ -608,7 +615,7 @@ _subscriptions per 100 inhabitants_: 4.47 (2021 est.)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 5<br>
 _annual passenger traffic on registered air carriers_: 140,429 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,728,152 mt-km (2015)<br>
+_annual freight traffic on registered air carriers_: 1,728,152 (2015) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 D4<br>
@@ -641,11 +648,11 @@ _major seaport(s)_: Porto Grande<br>
 Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; includes a small air component), Cabo Verde Coast Guard (Guardia Costeira de Cabo Verde, GCCV) (2021)<br>
 
 **Military expenditures**<br>
-0.6% of GDP (2020 est.)<br>
-0.5% of GDP (approximately $20 million) (2019 est.)<br>
-0.5% of GDP (approximately $20 million) (2018 est.)<br>
-0.5% of GDP (approximately $20 million) (2017 est.)<br>
-0.6% of GDP (approximately $20 million) (2016 est.)<br>
+0.5% of GDP (2020 est.)<br>
+0.5% of GDP (2019 est.) (approximately $20 million)<br>
+0.5% of GDP (2018 est.) (approximately $20 million)<br>
+0.5% of GDP (2017 est.) (approximately $20 million)<br>
+0.6% of GDP (2016 est.) (approximately $20 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,200 personnel including about 100 in the Coast Guard (2021)<br>

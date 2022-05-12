@@ -78,6 +78,9 @@ mountainous areas subject to severe earthquakes; mudslides and floods in rainy s
 **Geography - note**<br>
 largest country in Africa but 80% desert; canyons and caves in the southern Hoggar Mountains and in the barren Tassili n'Ajjer area in the southeast of the country contain numerous examples of prehistoric art - rock paintings and carvings depicting human activities and wild and domestic animals (elephants, giraffes, cattle) - that date to the African Humid Period, roughly 11,000 to 5,000 years ago, when the region was completely vegetated<br>
 
+**Map description**<br>
+<p>Algeria map showing major cities as well as parts of surrounding countries and the Mediterranean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -106,7 +109,7 @@ _0-14 years_: 29.58% (male 6,509,490/female 6,201,450)<br>
 _15-24 years_: 13.93% (male 3,063,972/female 2,922,368)<br>
 _25-54 years_: 42.91% (male 9,345,997/female 9,091,558)<br>
 _55-64 years_: 7.41% (male 1,599,369/female 1,585,233)<br>
-_65 years and over_: 6.17% (male 1,252,084/female 1,401,357) (2020 est.)<br>
+_65 years and over_: 6.17% (2020 est.) (male 1,252,084/female 1,401,357)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.1<br>
@@ -195,13 +198,13 @@ _unimproved: rural_: rural: 8.7% of population<br>
 _unimproved: total_: total: 3.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 18,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2020 est.)<br>
+(2020 est.) <200<br>
 
 **Obesity - adult prevalence rate**<br>
 27.4% (2016)<br>
@@ -489,8 +492,8 @@ calendar year<br>
 -$26.47 billion (2016 est.)<br>
 
 **Exports**<br>
-$38.32 billion note: data are in current year dollars (2019 est.)<br>
-$44.39 billion note: data are in current year dollars (2018 est.)<br>
+$38.32 billion (2019 est.) note: data are in current year dollars<br>
+$44.39 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Italy 13%, France 13%, Spain 12%, United States 7%, United Kingdom 7%, India 5%, South Korea 5% (2019)<br>
@@ -499,8 +502,8 @@ Italy 13%, France 13%, Spain 12%, United States 7%, United Kingdom 7%, India 5%,
 crude petroleum, natural gas, refined petroleum, fertilizers, ammonia (2019)<br>
 
 **Imports**<br>
-$54.26 billion note: data are in current year dollars (2019 est.)<br>
-$60.05 billion note: data are in current year dollars (2018 est.)<br>
+$54.26 billion (2019 est.) note: data are in current year dollars<br>
+$60.05 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 18%, France 14%, Italy 8%, Spain 8%, Germany 5%, Turkey 5% (2019)<br>
@@ -619,9 +622,13 @@ state-run Radio-Television Algerienne operates the broadcast media and carries p
 **Internet country code**<br>
 .dz<br>
 
+**Internet users**<br>
+_total_: 27,626,157 (2020 est.)<br>
+_percent of population_: 63% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 3,790,459 (2021)<br>
-_subscriptions per 100 inhabitants_: 8.64 (2021)<br>
+_total_: 3,790,459 (2022)<br>
+_subscriptions per 100 inhabitants_: 8.64 (2022)<br>
 
 ## Transportation
 
@@ -629,7 +636,7 @@ _subscriptions per 100 inhabitants_: 8.64 (2021)<br>
 _number of registered air carriers_: 3 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 87<br>
 _annual passenger traffic on registered air carriers_: 6,442,442 (2018)<br>
-_annual freight traffic on registered air carriers_: 28.28 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 28.28 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 7T<br>
@@ -660,8 +667,8 @@ _under 914 m_: 28 (2021)<br>
 
 **Railways**<br>
 _total_: 3,973 km (2014)<br>
-_standard gauge_: 2,888 km 1.432-m gauge (283 km electrified) (2014)<br>
-_narrow gauge_: 1,085 km 1.055-m gauge (2014)<br>
+_standard gauge_: 2,888 km (2014) 1.432-m gauge (283 km electrified)<br>
+_narrow gauge_: 1,085 km (2014) 1.055-m gauge<br>
 
 **Roadways**<br>
 _total_: 104,000 km (2015)<br>
@@ -682,11 +689,11 @@ _LNG terminal(s) (export)_: Arzew, Bethioua, Skikda<br>
 Algerian People's National Army (ANP): Land Forces, Naval Forces (includes coast guard), Air Forces, Territorial Air Defense Forces, Republican Guard (under ANP, but responsible to the President), National Gendarmerie; Ministry of Interior: General Directorate of National Security (national police) (2021)<br>
 
 **Military expenditures**<br>
-7% of GDP (2020 est.)<br>
-6% of GDP (approximately $19.2 billion) (2019)<br>
-5.5% of GDP (approximately $17.9 billion) (2018)<br>
-5.9% of GDP (approximately $18.8 billion) (2017)<br>
-6.4% of GDP (approximately $19.7 billion) (2016)<br>
+6.7% of GDP (2020 est.)<br>
+6% of GDP (2019) (approximately $19.2 billion)<br>
+5.5% of GDP (2018) (approximately $17.9 billion)<br>
+5.9% of GDP (2017) (approximately $18.8 billion)<br>
+6.4% of GDP (2016) (approximately $19.7 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 140,000 ANP personnel (120,000 Army; 6,000 Navy; 14,000 Air Force); approximately 130,000 National Gendarmerie; approximately 200,000 General Directorate of National Security (2021)<br>
@@ -710,7 +717,7 @@ al-Qa'ida in the Islamic Maghreb (AQIM); Islamic State of Iraq and ash-Sham (ISI
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Algeria-Morocco:</em> the Algerian-Moroccan land border remains closed; Algeria's border with Morocco remains an irritant to bilateral relations, each nation accusing the other of harboring militants and arms smuggling; the National Liberation Front's (FLN) assertions of a claim to Chirac Pastures in southeastern Morocco remain a dormant dispute<br><br><em>Algeria-Libya:</em> dormant dispute includes Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria</p><br>
+<p><em>Algeria-Morocco:</em> the Algerian-Moroccan land border remains closed; Algeria's border with Morocco remains an irritant to bilateral relations, each nation accusing the other of harboring militants and arms smuggling; the National Liberation Front's (FLN) assertions of a claim to Chirac Pastures in southeastern Morocco remain a dormant dispute<br><br><em>Algeria-Libya:</em> dormant dispute includes Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Algeria-Mali:</em> none identified<br><br><em>Algeria-Mauritania:</em> none identified<br><br><em>Algeria-Niger:</em> none identified<br><br><em>Algeria-Tunisia:</em> none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf) (2018); 6,750 (Syria) (mid-year 2021)<br>

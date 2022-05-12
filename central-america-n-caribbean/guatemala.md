@@ -75,6 +75,9 @@ the vast majority of the populace resides in the southern half of the country, p
 **Geography - note**<br>
 <p><strong>note 1:</strong> despite having both eastern and western coastlines (Caribbean Sea and Pacific Ocean respectively), there are no natural harbors on the west coast</p> <p><strong>note 2:</strong> Guatemala is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p><br>
 
+**Map description**<br>
+<p>Guatemala map showing major cities as well as parts of surrounding countries and the North Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 33.68% (male 2,944,145/female 2,833,432)<br>
 _15-24 years_: 19.76% (male 1,705,730/female 1,683,546)<br>
 _25-54 years_: 36.45% (male 3,065,933/female 3,186,816)<br>
 _55-64 years_: 5.41% (male 431,417/female 496,743)<br>
-_65 years and over_: 4.7% (male 363,460/female 442,066) (2020 est.)<br>
+_65 years and over_: 4.7% (2020 est.) (male 363,460/female 442,066)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 62.3<br>
@@ -201,7 +204,7 @@ _unimproved: total_: total: 21.2% of population (2020 est.)<br>
 33,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<1,000 (2020 est.)<br>
+(2020 est.) <1,000<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -496,9 +499,9 @@ $1.134 billion (2017 est.)<br>
 $1.023 billion (2016 est.)<br>
 
 **Exports**<br>
-$13.12 billion note: data are in current year dollars (2020 est.)<br>
-$13.6 billion note: data are in current year dollars (2019 est.)<br>
-$13.35 billion note: data are in current year dollars (2018 est.)<br>
+$13.12 billion (2020 est.) note: data are in current year dollars<br>
+$13.6 billion (2019 est.) note: data are in current year dollars<br>
+$13.35 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 33%, El Salvador 12%, Honduras 8%, Mexico 5%, Nicaragua 5% (2019)<br>
@@ -507,9 +510,9 @@ United States 33%, El Salvador 12%, Honduras 8%, Mexico 5%, Nicaragua 5% (2019)<
 bananas, raw sugar, coffee, cardamom, palm oil (2019)<br>
 
 **Imports**<br>
-$19.3 billion note: data are in current year dollars (2020 est.)<br>
-$21.52 billion note: data are in current year dollars (2019 est.)<br>
-$21.17 billion note: data are in current year dollars (2018 est.)<br>
+$19.3 billion (2020 est.) note: data are in current year dollars<br>
+$21.52 billion (2019 est.) note: data are in current year dollars<br>
+$21.17 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 36%, China 12%, Mexico 11%, El Salvador 5% (2019)<br>
@@ -628,6 +631,10 @@ _international_: country code - 502; landing points for&nbsp;the ARCOS, AMX-1, A
 **Internet country code**<br>
 .gt<br>
 
+**Internet users**<br>
+_total_: 8,429,167 (2020 est.)<br>
+_percent of population_: 50% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 612,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 3.42 (2021)<br>
@@ -638,7 +645,7 @@ _subscriptions per 100 inhabitants_: 3.42 (2021)<br>
 _number of registered air carriers_: 3 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 5<br>
 _annual passenger traffic on registered air carriers_: 145,795 (2018)<br>
-_annual freight traffic on registered air carriers_: 110,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 110,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 TG<br>
@@ -668,16 +675,16 @@ _under 914 m_: 195 (2021)<br>
 
 **Railways**<br>
 _total_: 800 km (2018)<br>
-_narrow gauge_: 800 km 0.914-m gauge (2018)<br>
+_narrow gauge_: 800 km (2018) 0.914-m gauge<br>
 <strong>note:</strong> despite the existence of a railway network, all rail service was suspended in 2007 and no passenger or freight train currently runs in the country (2018)<br>
 
 **Roadways**<br>
 _total_: 17,440 km (2016)<br>
 _paved_: 7,458 km (2016)<br>
-_unpaved_: 9,982 km (includes 4,548 km of rural roads) (2016)<br>
+_unpaved_: 9,982 km (2016) (includes 4,548 km of rural roads)<br>
 
 **Waterways**<br>
-990 km (260 km navigable year round; additional 730 km navigable during high-water season) (2012)<br>
+990 km (2012) (260 km navigable year round; additional 730 km navigable during high-water season)<br>
 
 **Merchant marine**<br>
 _total_: 9<br>
@@ -692,11 +699,11 @@ _major seaport(s)_: Puerto Quetzal, Santo Tomas de Castilla<br>
 Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Naval Forces (Fuerza de Mar), and Air Force (Fuerza de Aire); Ministry of Interior: National Civil Police (Policia Nacional Civil; includes paramilitary units) (2021)<br>
 
 **Military expenditures**<br>
-0.5% of GDP (2020 est.)<br>
-0.4% of GDP (approximately $530 million) (2019)<br>
-0.4% of GDP (approximately $470 million) (2018)<br>
-0.4% of GDP (approximately $460 million) (2017)<br>
-0.4% of GDP (approximately $500 million) (2016)<br>
+0.4% of GDP (2020 est.)<br>
+0.4% of GDP (2019) (approximately $530 million)<br>
+0.4% of GDP (2018) (approximately $470 million)<br>
+0.4% of GDP (2017) (approximately $460 million)<br>
+0.4% of GDP (2016) (approximately $500 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 21,000 active personnel (19,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2021)<br>

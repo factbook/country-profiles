@@ -79,6 +79,9 @@ avalanches, landslides; flash floods<br>
 **Geography - note**<br>
 landlocked; crossroads of northern and southern Europe; along with southeastern France, northern Italy, and southwestern Austria, has the highest elevations in the Alps<br>
 
+**Map description**<br>
+<p>Switzerland map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -104,7 +107,7 @@ _0-14 years_: 15.34% (male 664,255/female 625,252)<br>
 _15-24 years_: 10.39% (male 446,196/female 426,708)<br>
 _25-54 years_: 42.05% (male 1,768,245/female 1,765,941)<br>
 _55-64 years_: 13.48% (male 569,717/female 563,482)<br>
-_65 years and over_: 18.73% (male 699,750/female 874,448) (2020 est.)<br>
+_65 years and over_: 18.73% (2020 est.) (male 699,750/female 874,448)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.6<br>
@@ -203,7 +206,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;200 (2020)<br>
+(2020) &lt;200<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -381,8 +384,7 @@ Swiss cross (white cross on red field, arms equal length); national colors: red,
 
 **National anthem**<br>
 _lyrics/music_: Leonhard WIDMER [German], Charles CHATELANAT [French], Camillo VALSANGIACOMO [Italian], and Flurin CAMATHIAS [Romansch]/Alberik ZWYSSIG<br>
-the Swiss anthem has four names: "Schweizerpsalm" [German] "Cantique Suisse" [French] "Salmo svizzero," [Italian] "Psalm svizzer" [Romansch] (Swiss Psalm)
-<strong>note:</strong> unofficially adopted 1961, officially 1981; the anthem has been popular in a number of Swiss cantons since its composition (in German) in 1841; translated into the other three official languages of the country (French, Italian, and Romansch), it is official in each of those languages<br>
+the Swiss anthem has four names: "Schweizerpsalm" [German] "Cantique Suisse" [French] "Salmo svizzero," [Italian] "Psalm svizzer" [Romansch] (Swiss Psalm) <strong>note:</strong> unofficially adopted 1961, officially 1981; the anthem has been popular in a number of Swiss cantons since its composition (in German) in 1841; translated into the other three official languages of the country (French, Italian, and Romansch), it is official in each of those languages<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 13 (9 cultural, 4 natural)<br>
@@ -497,9 +499,9 @@ $79.937 billion (2019 est.)<br>
 $63.273 billion (2018 est.)<br>
 
 **Exports**<br>
-$470.91 billion note: data are in current year dollars (2020 est.)<br>
-$478.34 billion note: data are in current year dollars (2019 est.)<br>
-$482.58 billion note: data are in current year dollars (2018 est.)<br>
+$470.91 billion (2020 est.) note: data are in current year dollars<br>
+$478.34 billion (2019 est.) note: data are in current year dollars<br>
+$482.58 billion (2018 est.) note: data are in current year dollars<br>
 <strong>note:</strong> trade data exclude trade with Switzerland<br>
 
 **Exports - partners**<br>
@@ -509,9 +511,9 @@ Germany 16%, United States 14%, United Kingdom 8%, China 7%, France 6%, India 6%
 gold, packaged medicines, medical cultures/vaccines, watches, jewelry (2019)<br>
 
 **Imports**<br>
-$401.91 billion note: data are in current year dollars (2020 est.)<br>
-$394 billion note: data are in current year dollars (2019 est.)<br>
-$395.86 billion note: data are in current year dollars (2018 est.)<br>
+$401.91 billion (2020 est.) note: data are in current year dollars<br>
+$394 billion (2019 est.) note: data are in current year dollars<br>
+$395.86 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 21%, Italy 8%, United States 6%, France 6%, United Kingdom 5%, United Arab Emirates 5% (2019)<br>
@@ -604,7 +606,7 @@ _electrification - total population_: 100% (2020)<br>
 3.681 billion cu m (2017 est.)<br>
 
 **Natural gas - proved reserves**<br>
-NA cu m (1 January 2011 est.)<br>
+(1 January 2011 est.) NA cu m<br>
 
 ## Communications
 
@@ -628,6 +630,10 @@ _international_: country code - 41; satellite earth stations - 2 Intelsat (Atlan
 **Internet country code**<br>
 .ch<br>
 
+**Internet users**<br>
+_total_: 8,118,367 (2020 est.)<br>
+_percent of population_: 94% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 4,028,238 (2021)<br>
 _subscriptions per 100 inhabitants_: 46.54 (2021)<br>
@@ -638,7 +644,7 @@ _subscriptions per 100 inhabitants_: 46.54 (2021)<br>
 _number of registered air carriers_: 6 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 179<br>
 _annual passenger traffic on registered air carriers_: 28,857,994 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,841,310,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1,841,310,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 HB<br>
@@ -665,17 +671,17 @@ _under 914 m_: 23 (2021)<br>
 1,800 km gas, 94 km oil (of which 60 are inactive), 17 km refined products (2017)<br>
 
 **Railways**<br>
-_total_: 5,690 km (includes 19 km in neighboring countries) (2015)<br>
-_standard gauge_: 3,836 km 1.435-m gauge (3,634 km electrified) (2015)<br>
-_narrow gauge_: 1,630 km 1.200-m gauge (2 km electrified) (includes 19 km in neighboring countries) (2015)<br>
+_total_: 5,690 km (2015) (includes 19 km in neighboring countries)<br>
+_standard gauge_: 3,836 km (2015) 1.435-m gauge (3,634 km electrified)<br>
+_narrow gauge_: 1,630 km (2015) 1.200-m gauge (2 km electrified) (includes 19 km in neighboring countries)<br>
 1188 km 1.000-m gauge (1,167.3 km electrified)<br>36 km 0.800-m gauge (36.4 km electrified)<br>
 
 **Roadways**<br>
 _total_: 71,557 km (2017)<br>
-_paved_: 71,557 km (includes 1,458 of expressways) (2017)<br>
+_paved_: 71,557 km (2017) (includes 1,458 of expressways)<br>
 
 **Waterways**<br>
-1,292 km (there are 1,227 km of waterways on lakes and rivers for public transport and 65 km on the Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee for commercial goods transport) (2010)<br>
+1,292 km (2010) (there are 1,227 km of waterways on lakes and rivers for public transport and 65 km on the Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee for commercial goods transport)<br>
 
 **Merchant marine**<br>
 _total_: 20<br>
@@ -690,11 +696,11 @@ _river port(s)_: Basel (Rhine)<br>
 Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2021)<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2021 est.)<br>
 0.8% of GDP (2020)<br>
-0.7% of GDP (approximately $5.26 billion) (2019)<br>
-0.7% of GDP (approximately $4.72 billion) (2018)<br>
-0.7% of GDP (approximately $4.67 billion) (2017)<br>
-0.7% of GDP (approximately $4.68 billion) (2016)<br>
+0.7% of GDP (2019) (approximately $5.26 billion)<br>
+0.7% of GDP (2018) (approximately $4.72 billion)<br>
+0.7% of GDP (2017) (approximately $4.67 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Swiss Armed Forces maintain a full-time professional cadre of about 4,000 personnel along with approximately 18-20,000 conscripts brought in annually for 18-23 weeks of training; approximately 120,000 reserve forces (2021)<br>

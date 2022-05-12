@@ -78,6 +78,9 @@ hot, dry, dust-laden ghibli is a southern wind lasting one to four days in sprin
 **Geography - note**<br>
 <strong>note 1:</strong> more than 90% of the country is desert or semidesert<br><br><strong>note 2:</strong> the volcano Waw an Namus lies in south central Libya in the middle of the Sahara; the caldera is an oasis - the name means "oasis of mosquitoes" - containing several small lakes surrounded by vegetation and hosting various insects and a large diversity of birds<br>
 
+**Map description**<br>
+<p>Libya map showing major population centers as well as parts of surrounding countries and the Mediterranean Sea.</p> <p> </p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -107,7 +110,7 @@ _0-14 years_: 33.65% (male 1,184,755/female 1,134,084)<br>
 _15-24 years_: 15.21% (male 534,245/female 513,728)<br>
 _25-54 years_: 41.57% (male 1,491,461/female 1,373,086)<br>
 _55-64 years_: 5.52% (male 186,913/female 193,560)<br>
-_65 years and over_: 4.04% (male 129,177/female 149,526) (2020 est.)<br>
+_65 years and over_: 4.04% (2020 est.) (male 129,177/female 149,526)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47.7<br>
@@ -188,7 +191,7 @@ NA<br>
 3.2 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: NA (2015 est.)<br>
+_improved: urban_: urban: (2015 est.) NA<br>
 _improved: rural_: rural: NA<br>
 _improved: total_: total: 99.3% of population<br>
 _unimproved: urban_: urban: NA<br>
@@ -202,7 +205,7 @@ _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 9,500 (2020)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020)<br>
+(2020) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 32.5% (2016)<br>
@@ -469,7 +472,7 @@ $2.574 billion (2017 est.)<br>
 -$4.575 billion (2016 est.)<br>
 
 **Exports**<br>
-$29.96 billion note: data are in current year dollars (2018 est.)<br>
+$29.96 billion (2018 est.) note: data are in current year dollars<br>
 $11.99 billion (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -479,7 +482,7 @@ Italy 18%, China 16%, Germany 15%, Spain 15%, United Arab Emirates 6%, France 6%
 crude petroleum, natural gas, gold, refined petroleum, scrap iron (2019)<br>
 
 **Imports**<br>
-$18.85 billion note: data are in current year dollars (2018 est.)<br>
+$18.85 billion (2018 est.) note: data are in current year dollars<br>
 $8.667 billion (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -599,6 +602,10 @@ state-funded and private TV stations; some provinces operate local TV stations; 
 **Internet country code**<br>
 .ly<br>
 
+**Internet users**<br>
+_total_: 1,491,040 (2019 est.)<br>
+_percent of population_: 22% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 33,200 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 4.83 (2021 est.)<br>
@@ -656,6 +663,7 @@ _LNG terminal(s) (export)_: Marsa el Brega<br>
 
 **Military and security forces**<br>
 Libya lacks a nationwide military and the interim government, the Government of National Unity (GNU), relies on its cooperation with disparate militias that it cannot entirely control for security; the GNU has access to various ground, air, and naval/coast guard forces comprised of a mix of semi-regular military units, militias, civilian volunteers, and foreign troops and mercenaries<br><br>the Libyan National Army (LNA), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval units comprised of semi-regular military personnel, militias, and foreign troops and mercenaries; as of late 2021, the LNA continued to operate independently from the GNU and exerted influence throughout eastern, central, and southern Libya (2021)<br>
+note - the Stability Support Authority (SSA) is a state-funded militia established in January 2021 by the GNU; it is tasked with securing government buildings and officials, participating in combat operations, apprehending those suspected of national security crimes, and cooperating with other security bodies<br>
 
 **Military expenditures**<br>
 not available<br>

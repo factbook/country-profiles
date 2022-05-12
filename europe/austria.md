@@ -79,6 +79,9 @@ landslides; avalanches; earthquakes<br>
 **Geography - note**<br>
 note 1: landlocked; strategic location at the crossroads of central Europe with many easily traversable Alpine passes and valleys; major river is the Danube; population is concentrated on eastern lowlands because of steep slopes, poor soils, and low temperatures elsewhere<br><br>note 2: the world's largest and longest ice cave system at 42 km (26 mi) is the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, about 40 km south of Salzburg; ice caves are bedrock caves that contain year-round ice formations; they differ from glacial caves, which are transient and are formed by melting ice and flowing water within and under glaciers<br>
 
+**Map description**<br>
+<p>Austria map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -105,7 +108,7 @@ _0-14 years_: 14.01% (male 635,803/female 605,065)<br>
 _15-24 years_: 10.36% (male 466,921/female 451,248)<br>
 _25-54 years_: 41.35% (male 1,831,704/female 1,831,669)<br>
 _55-64 years_: 14.41% (male 635,342/female 641,389)<br>
-_65 years and over_: 19.87% (male 768,687/female 991,621) (2020 est.)<br>
+_65 years and over_: 19.87% (2020 est.) (male 768,687/female 991,621)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.6<br>
@@ -204,7 +207,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 7,400 (2017 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2017 est.)<br>
+(2017 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 20.1% (2016)<br>
@@ -492,9 +495,9 @@ $12.667 billion (2019 est.)<br>
 $5.989 billion (2018 est.)<br>
 
 **Exports**<br>
-$226.79 billion note: data are in current year dollars (2020 est.)<br>
-$247.17 billion note: data are in current year dollars (2019 est.)<br>
-$253.3 billion note: data are in current year dollars (2018 est.)<br>
+$226.79 billion (2020 est.) note: data are in current year dollars<br>
+$247.17 billion (2019 est.) note: data are in current year dollars<br>
+$253.3 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 28%, United States 7%, Italy 6%, Switzerland 5% (2019)<br>
@@ -503,9 +506,9 @@ Germany 28%, United States 7%, Italy 6%, Switzerland 5% (2019)<br>
 cars, packaged medical supplies, vehicle parts, medical vaccines/cultures, flavored water (2019)<br>
 
 **Imports**<br>
-$211.85 billion note: data are in current year dollars (2020 est.)<br>
-$232.8 billion note: data are in current year dollars (2019 est.)<br>
-$238.79 billion note: data are in current year dollars (2018 est.)<br>
+$211.85 billion (2020 est.) note: data are in current year dollars<br>
+$232.8 billion (2019 est.) note: data are in current year dollars<br>
+$238.79 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 39%, Italy 7%, Czechia 5% (2019)<br>
@@ -622,6 +625,10 @@ worldwide cable and satellite TV are available; the public incumbent ORF compete
 **Internet country code**<br>
 .at<br>
 
+**Internet users**<br>
+_total_: 7,846,840 (2020 est.)<br>
+_percent of population_: 88% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 2.606 million (2021)<br>
 _subscriptions per 100 inhabitants_: 28.93 (2021 est.)<br>
@@ -635,7 +642,7 @@ _subscriptions per 100 inhabitants_: 28.93 (2021 est.)<br>
 _number of registered air carriers_: 11 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 130<br>
 _annual passenger traffic on registered air carriers_: 12,935,505 (2018)<br>
-_annual freight traffic on registered air carriers_: 373.51 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 373.51 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 OE<br>
@@ -669,7 +676,7 @@ _standard gauge_: 5,300 km 1.435-m gauge (3,826 km electrified) (2016)<br>
 
 **Roadways**<br>
 _total_: 137,039 km (2018)<br>
-_paved_: 137,039 km (includes 2,232 km of expressways) (2018)<br>
+_paved_: 137,039 km (2018) (includes 2,232 km of expressways)<br>
 
 **Waterways**<br>
 358 km (2011)<br>
@@ -689,9 +696,9 @@ Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (20
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
-0.7% of GDP (approximately $3.78 billion) (2019)<br>
-0.7% of GDP (approximately $3.82 billion) (2018)<br>
-0.8% of GDP (approximately $3.71 billion) (2017)<br>
+0.7% of GDP (2019) (approximately $3.78 billion)<br>
+0.7% of GDP (2018) (approximately $3.82 billion)<br>
+0.8% of GDP (2017) (approximately $3.71 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Austrian Armed Forces have approximately 25,000 total active duty personnel (20,000 Army; 5,000 Air Force) (2021)<br>
@@ -718,7 +725,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>None</p><br>
+<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021)<br>

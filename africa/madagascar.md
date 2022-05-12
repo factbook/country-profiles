@@ -72,6 +72,9 @@ most of population lives on the eastern half of the island; significant clusteri
 **Geography - note**<br>
 world's fourth-largest island; strategic location along Mozambique Channel; despite Madagascar’s close proximity to the African continent, ocean currents isolate the island resulting in high rates of endemic plant and animal species; approximately 90% of the flora and fauna on the island are found nowhere else<br>
 
+**Map description**<br>
+<p>Madagascar map showing major cities of this island country in the Indian Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -99,7 +102,7 @@ _0-14 years_: 38.86% (male 5,278,838/female 5,196,036)<br>
 _15-24 years_: 20.06% (male 2,717,399/female 2,689,874)<br>
 _25-54 years_: 33.02% (male 4,443,147/female 4,456,691)<br>
 _55-64 years_: 4.6% (male 611,364/female 627,315)<br>
-_65 years and over_: 3.47% (male 425,122/female 509,951) (2020 est.)<br>
+_65 years and over_: 3.47% (2020 est.) (male 425,122/female 509,951)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 75.9<br>
@@ -493,8 +496,8 @@ calendar year<br>
 $57 million (2016 est.)<br>
 
 **Exports**<br>
-$4.09 billion note: data are in current year dollars (2019 est.)<br>
-$4.41 billion note: data are in current year dollars (2018 est.)<br>
+$4.09 billion (2019 est.) note: data are in current year dollars<br>
+$4.41 billion (2018 est.) note: data are in current year dollars<br>
 $4.839 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -504,8 +507,8 @@ United States 19%, France 18%, United Arab Emirates 7%, China 6%, Japan 6%, Germ
 vanilla, nickel, gold, clothing and apparel, gemstones (2019)<br>
 
 **Imports**<br>
-$4.7 billion note: data are in current year dollars (2019 est.)<br>
-$4.82 billion note: data are in current year dollars (2018 est.)<br>
+$4.7 billion (2019 est.) note: data are in current year dollars<br>
+$4.82 billion (2018 est.) note: data are in current year dollars<br>
 $5.796 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -607,7 +610,7 @@ _electrification - rural areas_: 23% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 69,046 (2018)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 10,654,710 (2018)<br>
@@ -625,9 +628,13 @@ state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an
 **Internet country code**<br>
 .mg<br>
 
+**Internet users**<br>
+_total_: 2,696,931 (2019 est.)<br>
+_percent of population_: 10% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 32,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.12 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.12 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -635,7 +642,7 @@ _subscriptions per 100 inhabitants_: 0.12 less than 1 (2021 est.)<br>
 _number of registered air carriers_: 4 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 18<br>
 _annual passenger traffic on registered air carriers_: 541,290 (2018)<br>
-_annual freight traffic on registered air carriers_: 16.25 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 16.25 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 5R<br>
@@ -659,13 +666,13 @@ _under 914 m_: 18 (2021)<br>
 
 **Railways**<br>
 _total_: 836 km (2018)<br>
-_narrow gauge_: 836 km 1.000-m gauge (2018)<br>
+_narrow gauge_: 836 km (2018) 1.000-m gauge<br>
 
 **Roadways**<br>
 _total_: 31,640 km (2018)<br>
 
 **Waterways**<br>
-600 km (432 km navigable) (2011)<br>
+600 km (2011) (432 km navigable)<br>
 
 **Merchant marine**<br>
 _total_: 27<br>
@@ -682,10 +689,10 @@ note - the National Gendarmerie is responsible for maintaining law and order in 
 
 **Military expenditures**<br>
 0.7% of GDP (2020 est.)<br>
-0.5% of GDP (approximately $130 million) (2019 est.)<br>
-0.5% of GDP (approximately $130 million) (2018 est.)<br>
-0.5% of GDP (approximately $120 million) (2017 est.)<br>
-0.5% of GDP (approximately $120 million) (2016 est.)<br>
+0.5% of GDP (2019 est.) (approximately $130 million)<br>
+0.5% of GDP (2018 est.) (approximately $130 million)<br>
+0.5% of GDP (2017 est.) (approximately $120 million)<br>
+0.5% of GDP (2016 est.) (approximately $120 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); est. 10,000 Gendarmerie (2021)<br>

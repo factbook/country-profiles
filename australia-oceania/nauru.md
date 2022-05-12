@@ -70,6 +70,9 @@ periodic droughts<br>
 **Geography - note**<br>
 Nauru is the third-smallest country in the world behind the Holy See (Vatican City) and Monaco; it is the smallest country in the Pacific Ocean, the smallest country outside Europe, the world's smallest island country, and the the world's smallest independent republic; situated just 53 km south of the Equator, Nauru is one of the three great phosphate rock islands in the Pacific Ocean - the others are Banaba (Ocean Island) in Kiribati and Makatea in French Polynesia<br>
 
+**Map description**<br>
+Nauru map shows some features on this island in the South Pacific Ocean.<br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 30.87% (male 1,337/female 1,684)<br>
 _15-24 years_: 15.68% (male 732/female 806)<br>
 _25-54 years_: 42.57% (male 2,115/female 2,050)<br>
 _55-64 years_: 6.97% (male 283/female 401)<br>
-_65 years and over_: 3.94% (male 133/female 254) (2022 est.)<br>
+_65 years and over_: 3.94% (2022 est.) (male 133/female 254)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -307,7 +310,7 @@ Nauru First (Naoero Amo) Party [David ADEANG]<br>
 ACP, ADB, AOSIS, C, FAO, G-77, ICAO, ICCt, IFAD, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Marlene Inemwin MOSES (since 13 March 2006)<br>
+_chief of mission_: Ambassador Margo DEIYE (since 1 December 2021)<br>
 _chancery_: 800 2nd Avenue, Third Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 937-0074<br>
 _FAX_: [1] (212) 937-0079<br>
@@ -344,8 +347,8 @@ $137 million (2017 est.)<br>
 2.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$13,500 note: data are in 2017 dollars (2019 est.)<br>
-$13,600 note: data are in 2017 dollars (2018 est.)<br>
+$13,500 (2019 est.) note: data are in 2017 dollars<br>
+$13,600 (2018 est.) note: data are in 2017 dollars<br>
 $10,667 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -420,7 +423,7 @@ $5 million (2017 est.)<br>
 $2 million (2016 est.)<br>
 
 **Exports**<br>
-$30 million note: data are in current year dollars (2018 est.)<br>
+$30 million (2018 est.) note: data are in current year dollars<br>
 $110.3 million (2012 est.)<br>
 
 **Exports - partners**<br>
@@ -430,7 +433,7 @@ Thailand 34%, Australia 16%, United States 13%, South Korea 10%, Philippines 9%,
 fish, calcium phosphates, low-voltage protection equipment, air conditioners, leather apparel (2019)<br>
 
 **Imports**<br>
-$90 million note: data are in current year dollars (2018 est.)<br>
+$90 million (2018 est.) note: data are in current year dollars<br>
 $64.9 million (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -545,6 +548,10 @@ _international_: country code - 674; satellite earth station - 1 Intelsat (Pacif
 **Internet country code**<br>
 .nr<br>
 
+**Internet users**<br>
+_total_: 6,136 (2019 est.)<br>
+_percent of population_: 57% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 950 (2010)<br>
 _subscriptions per 100 inhabitants_: 9.5 (2010)<br>
@@ -555,7 +562,7 @@ _subscriptions per 100 inhabitants_: 9.5 (2010)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 5<br>
 _annual passenger traffic on registered air carriers_: 45,457 (2018)<br>
-_annual freight traffic on registered air carriers_: 7.94 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 7.94 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 C2<br>

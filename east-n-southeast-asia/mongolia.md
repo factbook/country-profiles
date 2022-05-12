@@ -77,6 +77,9 @@ dust storms; grassland and forest fires; drought; "zud," which is harsh winter c
 **Geography - note**<br>
 landlocked; strategic location between China and Russia<br>
 
+**Map description**<br>
+<p>Mongolia map showing major population centers as well as parts of surrounding countries – Russia to the north and China to the south.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 26.96% (male 435,596/female 418,524)<br>
 _15-24 years_: 14.93% (male 239,495/female 233,459)<br>
 _25-54 years_: 45.29% (male 694,481/female 740,334)<br>
 _55-64 years_: 8.04% (male 115,560/female 139,129)<br>
-_65 years and over_: 4.78% (male 60,966/female 90,482) (2020 est.)<br>
+_65 years and over_: 4.78% (2020 est.) (male 60,966/female 90,482)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.8<br>
@@ -195,13 +198,13 @@ _unimproved: rural_: rural: 30.1% of population<br>
 _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<1,000 (2020 est.)<br>
+(2020 est.) <1,000<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020 est.)<br>
+(2020 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 20.6% (2016)<br>
@@ -496,9 +499,9 @@ calendar year<br>
 -$700 million (2016 est.)<br>
 
 **Exports**<br>
-$7.65 billion note: data are in current year dollars (2020 est.)<br>
-$8.42 billion note: data are in current year dollars (2019 est.)<br>
-$7.71 billion note: data are in current year dollars (2018 est.)<br>
+$7.65 billion (2020 est.) note: data are in current year dollars<br>
+$8.42 billion (2019 est.) note: data are in current year dollars<br>
+$7.71 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 81%, Switzerland 9% (2019)<br>
@@ -507,9 +510,9 @@ China 81%, Switzerland 9% (2019)<br>
 coal, copper, gold, iron, crude petroleum (2019)<br>
 
 **Imports**<br>
-$7.34 billion note: data are in current year dollars (2020 est.)<br>
-$9.25 billion note: data are in current year dollars (2019 est.)<br>
-$8.48 billion note: data are in current year dollars (2018 est.)<br>
+$7.34 billion (2020 est.) note: data are in current year dollars<br>
+$9.25 billion (2019 est.) note: data are in current year dollars<br>
+$8.48 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 31%, Russia 29%, Japan 10%, South Korea 5% (2019)<br>
@@ -577,7 +580,7 @@ _electrification - rural areas_: 73% (2019)<br>
 0 bbl/day (2015 est.)<br>
 
 **Crude oil - proved reserves**<br>
-NA bbl (1 January 2017)<br>
+(1 January 2017) NA bbl<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -628,8 +631,12 @@ following a law passed in 2005, Mongolia's state-run radio and TV provider conve
 **Internet country code**<br>
 .mn<br>
 
+**Internet users**<br>
+_total_: 2,065,324 (2020 est.)<br>
+_percent of population_: 63% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 307,166 Excl. terrestrial fixed wireless and satellite broadband subscriptions. (2021)<br>
+_total_: 307,166 (2021) Excl. terrestrial fixed wireless and satellite broadband subscriptions.<br>
 _subscriptions per 100 inhabitants_: 9.37 (2021)<br>
 
 ## Transportation
@@ -638,7 +645,7 @@ _subscriptions per 100 inhabitants_: 9.37 (2021)<br>
 _number of registered air carriers_: 4 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 12<br>
 _annual passenger traffic on registered air carriers_: 670,360 (2018)<br>
-_annual freight traffic on registered air carriers_: 7.82 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 7.82 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 JU<br>
@@ -664,7 +671,7 @@ _under 914 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 1,815 km (2017)<br>
-_broad gauge_: 1,815 km 1.520-m gauge (2017)<br>
+_broad gauge_: 1,815 km (2017) 1.520-m gauge<br>
 <strong>note:</strong> national operator Ulaanbaatar Railway is jointly owned by the Mongolian Government and by the Russian State Railway<br>
 
 **Roadways**<br>
@@ -673,7 +680,7 @@ _paved_: 10,600 km (2017)<br>
 _unpaved_: 102,600 km (2017)<br>
 
 **Waterways**<br>
-580 km (the only waterway in operation is Lake Hovsgol) (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers ice free from May to September) (2010)<br>
+580 km (2010) (the only waterway in operation is Lake Hovsgol) (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers ice free from May to September)<br>
 
 **Merchant marine**<br>
 _total_: 302<br>
@@ -685,11 +692,11 @@ _by type_: bulk carrier 4, container ship 7, general cargo 131, oil tanker 64, o
 Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): General Purpose Troops (Mongolian Army), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces; Border Troops; Internal Security Troops<br><br>Ministry of Justice and Home Affairs: National Police Agency, General Authority for Border Protection (2021)<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
-0.7% of GDP (approximately $240 million) (2019 est.)<br>
-0.7% of GDP (approximately $240 million) (2018 est.)<br>
-0.8% of GDP (approximately $110 million) (2017 est.)<br>
-0.9% of GDP (approximately $230 million) (2016 est.)<br>
+0.7% of GDP (2019 est.) (approximately $240 million)<br>
+0.7% of GDP (2018 est.) (approximately $240 million)<br>
+0.8% of GDP (2017 est.) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary; approximately 9,000 active duty troops (2021)<br>

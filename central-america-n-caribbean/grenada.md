@@ -69,6 +69,9 @@ approximately one-third of the population is found in the capital of St. George'
 **Geography - note**<br>
 the administration of the islands of the Grenadines group is divided between Saint Vincent and the Grenadines and Grenada<br>
 
+**Map description**<br>
+<p>Grenada map showing the islands that make up this country in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -92,7 +95,7 @@ _0-14 years_: 23.23% (male 13,709/female 12,564)<br>
 _15-24 years_: 14.14% (male 8,034/female 7,959)<br>
 _25-54 years_: 40.05% (male 23,104/female 22,187)<br>
 _55-64 years_: 11.69% (male 6,734/female 6,490)<br>
-_65 years and over_: 10.89% (male 5,774/female 6,539) (2020 est.)<br>
+_65 years and over_: 10.89% (2020 est.) (male 5,774/female 6,539)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.5<br>
@@ -180,10 +183,10 @@ _unimproved: total_: total: 6.3% of population (2020 est.)<br>
 0.5% (2018)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<500 (2018)<br>
+(2018) <500<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018)<br>
+(2018) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 21.3% (2016)<br>
@@ -439,7 +442,7 @@ calendar year<br>
 -$34 million (2016 est.)<br>
 
 **Exports**<br>
-$650 million note: data are in current year dollars (2018 est.)<br>
+$650 million (2018 est.) note: data are in current year dollars<br>
 $44.2 million (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -449,7 +452,7 @@ United States 40%, Saint Vincent and the Grenadines 7%, Saint Lucia 7%, France 6
 fish, nutmeg, cocoa beans, fruits, wheat, toilet paper (2019)<br>
 
 **Imports**<br>
-$640 million note: data are in current year dollars (2018 est.)<br>
+$640 million (2018 est.) note: data are in current year dollars<br>
 $314.7 million (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -566,6 +569,10 @@ multiple publicly and privately owned television and radio stations; Grenada Inf
 
 **Internet country code**<br>
 .gd<br>
+
+**Internet users**<br>
+_total_: 64,136 (2020 est.)<br>
+_percent of population_: 57% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 32,000 (2021 est.)<br>

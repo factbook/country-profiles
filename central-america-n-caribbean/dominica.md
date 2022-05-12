@@ -70,6 +70,9 @@ population is mosly clustered along the coast, with roughly a third living in th
 **Geography - note**<br>
 known as "The Nature Island of the Caribbean" due to its spectacular, lush, and varied flora and fauna, which are protected by an extensive natural park system; the most mountainous of the Lesser Antilles, its volcanic peaks are cones of lava craters and include Boiling Lake, the second-largest, thermally active lake in the world<br>
 
+**Map description**<br>
+<p>Dominica map showing the island country in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -93,7 +96,7 @@ _0-14 years_: 21.41% (male 8,135/female 7,760)<br>
 _15-24 years_: 13.15% (male 5,017/female 4,746)<br>
 _25-54 years_: 42.79% (male 16,133/female 15,637)<br>
 _55-64 years_: 10.53% (male 4,089/female 3,731)<br>
-_65 years and over_: 12.12% (male 4,128/female 4,867) (2020 est.)<br>
+_65 years and over_: 12.12% (2020 est.) (male 4,128/female 4,867)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -170,10 +173,10 @@ _unimproved: urban_: urban: 4.3% of population<br>
 0.6% (2018)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<500 (2018)<br>
+(2018) <500<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018)<br>
+(2018) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 27.9% (2016)<br>
@@ -301,11 +304,11 @@ Dominica Freedom Party or DFP [Kent VITAL]<br>Dominica Labor Party or DLP [Roose
 ACP, AOSIS, C, Caricom, CD, CDB, CELAC, Commonwealth of Nations, ECCU, FAO, G-77, IAEA, IBRD, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Vince HENDERSON (since 18 January 2017)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Judith-Anne ROLLE&nbsp;(since 16 December 2021)<br>
 _chancery_: 3216 New Mexico Avenue NW, Washington, DC 20016<br>
 _telephone_: [1] (202) 364-6781<br>
 _FAX_: [1] (202) 364-6791<br>
-_email address and website_: <br>embdomdc@aol.com<br><br>
+_email address and website_: <br>embdomdc@aol.com<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -418,7 +421,7 @@ _expenditures_: 260.4 million (2017 est.)<br>
 $5 million (2016 est.)<br>
 
 **Exports**<br>
-$160 million note: data are in current year dollars (2018 est.)<br>
+$160 million (2018 est.) note: data are in current year dollars<br>
 $43.7 million (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -428,7 +431,7 @@ Saudi Arabia 47%, Qatar 5% (2019)<br>
 medical instruments, pharmaceuticals, low-voltage protection equipment, tropical fruits, bandages (2019)<br>
 
 **Imports**<br>
-$430 million note: data are in current year dollars (2018 est.)<br>
+$430 million (2018 est.) note: data are in current year dollars<br>
 $188.4 million (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -545,6 +548,10 @@ no terrestrial TV service available; subscription cable TV provider offers some 
 
 **Internet country code**<br>
 .dm<br>
+
+**Internet users**<br>
+_total_: 50,266 (2019 est.)<br>
+_percent of population_: 70% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 11,514 (2021)<br>

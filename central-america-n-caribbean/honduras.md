@@ -76,6 +76,9 @@ frequent, but generally mild, earthquakes; extremely susceptible to damaging hur
 **Geography - note**<br>
 has only a short Pacific coast but a long Caribbean shoreline, including the virtually uninhabited eastern Mosquito Coast<br>
 
+**Map description**<br>
+<p>Honduras map showing major cities as well as parts of surrounding countries and the Caribbean Sea and North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -104,7 +107,7 @@ _0-14 years_: 30.2% (male 1,411,537/female 1,377,319)<br>
 _15-24 years_: 21.03% (male 969,302/female 972,843)<br>
 _25-54 years_: 37.79% (male 1,657,260/female 1,832,780)<br>
 _55-64 years_: 5.58% (male 233,735/female 281,525)<br>
-_65 years and over_: 5.4% (male 221,779/female 277,260) (2020 est.)<br>
+_65 years and over_: 5.4% (2020 est.) (male 221,779/female 277,260)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.2<br>
@@ -203,7 +206,7 @@ _unimproved: total_: total: 7% of population (2020 est.)<br>
 22,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<1000 (2020 est.)<br>
+(2020 est.) <1000<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -498,8 +501,8 @@ calendar year<br>
 -$587 million (2016 est.)<br>
 
 **Exports**<br>
-$7.16 billion note: data are in current year dollars (2019 est.)<br>
-$7.14 billion note: data are in current year dollars (2018 est.)<br>
+$7.16 billion (2019 est.) note: data are in current year dollars<br>
+$7.14 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 53%, El Salvador 8%, Guatemala 5%, Nicaragua 5% (2019)<br>
@@ -508,8 +511,8 @@ United States 53%, El Salvador 8%, Guatemala 5%, Nicaragua 5% (2019)<br>
 clothing and apparel, coffee, insulated wiring, bananas, palm oil (2019)<br>
 
 **Imports**<br>
-$11.5 billion note: data are in current year dollars (2019 est.)<br>
-$11.78 billion note: data are in current year dollars (2018 est.)<br>
+$11.5 billion (2019 est.) note: data are in current year dollars<br>
+$11.78 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 42%, China 10%, Guatemala 8%, El Salvador 8%, Mexico 6% (2019)<br>
@@ -628,6 +631,10 @@ multiple privately owned terrestrial TV networks, supplemented by multiple cable
 **Internet country code**<br>
 .hn<br>
 
+**Internet users**<br>
+_total_: 4,159,935 (2020 est.)<br>
+_percent of population_: 42% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 396,916 (2021)<br>
 _subscriptions per 100 inhabitants_: 4.01 (2021 est.)<br>
@@ -638,7 +645,7 @@ _subscriptions per 100 inhabitants_: 4.01 (2021 est.)<br>
 _number of registered air carriers_: 4 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 26<br>
 _annual passenger traffic on registered air carriers_: 251,149 (2018)<br>
-_annual freight traffic on registered air carriers_: 450,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 450,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 HR<br>
@@ -661,17 +668,17 @@ _under 914 m_: 73 (2021)<br>
 
 **Railways**<br>
 _total_: 699 km (2014)<br>
-_narrow gauge_: 164 km 1.067-m gauge (2014)<br>
+_narrow gauge_: 164 km (2014) 1.067-m gauge<br>
 115 km 1.057-m gauge<br>420 km 0.914-m gauge<br>
 
 **Roadways**<br>
 _total_: 14,742 km (2012)<br>
 _paved_: 3,367 km (2012)<br>
-_unpaved_: 11,375 km (1,543 km summer only) (2012)<br>
+_unpaved_: 11,375 km (2012) (1,543 km summer only)<br>
 <strong>note:</strong> an additional 8,951 km of non-official roads used by the coffee industry<br>
 
 **Waterways**<br>
-465 km (most navigable only by small craft) (2012)<br>
+465 km (2012) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
 _total_: 505<br>
@@ -687,11 +694,11 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 note - the PMOP was created in 2013 as part of an effort by the Honduran Government to expand the military&rsquo;s role in law enforcement alongside the Honduran National Police (HNP), particularly against narcotics trafficking and organized crime; since its creation, the PMOP&rsquo;s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2021, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who have undergone some police training; it reported to military authorities but conducts operations sanctioned by both civilian security officials and military leaders<br>
 
 **Military expenditures**<br>
-1.7% of GDP (2020 est.)<br>
-1.6% of GDP (approximately $510 million) (2019 est.)<br>
-1.6% of GDP (approximately $500 million) (2018 est.)<br>
-1.7% of GDP (approximately $510 million) (2017 est.)<br>
-1.7% of GDP (approximately $470 million) (2016 est.)<br>
+1.6% of GDP (2020 est.)<br>
+1.6% of GDP (2019 est.) (approximately $510 million)<br>
+1.6% of GDP (2018 est.) (approximately $500 million)<br>
+1.7% of GDP (2017 est.) (approximately $510 million)<br>
+1.7% of GDP (2016 est.) (approximately $470 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Honduran Armed Forces (FFAA) have approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Public Order Military Police); approximately 18,000 National Police (2021)<br>
@@ -712,7 +719,7 @@ the armed forces, including the PMOP, are subordinate to the Secretariat of Defe
 <p>International Court of Justice (ICJ) ruled on the delimitation of "bolsones" (disputed areas) along the El Salvador-Honduras border in 1992 with final settlement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca with consideration of Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not mentioned in the ICJ ruling, off Honduras in the Gulf of Fonseca; Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution, but agreed to a joint ecological park around the cays should Guatemala consent to a maritime corridor in the Caribbean under the OAS-sponsored 2002 Belize-Guatemala Differendum</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 247,000 (violence, extortion, threats, forced recruitment by urban gangs between 2004 and 2018) (2020)<br>
+_IDPs_: 247,090 (violence, extortion, threats, forced recruitment by urban gangs between 2004 and 2018) (2021)<br>
 
 **Illicit drugs**<br>
 <p>transshipment point for cocaine destined for the United States and precursor chemicals used to produce illicit drugs; some experimental coca cultivation</p><br>

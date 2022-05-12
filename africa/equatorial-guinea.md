@@ -71,6 +71,9 @@ only two large cities over 30,000 people (Bata on the mainland, and the capital 
 **Geography - note**<br>
 insular and continental regions widely separated; despite its name, no part of the Equator passes through Equatorial Guinea; the mainland part of the country is located just north of the Equator<br>
 
+**Map description**<br>
+<p>Equatorial Guinea map showing major cities and towns as well as parts of surrounding countries and the Gulf of Guinea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -98,7 +101,7 @@ _0-14 years_: 38.73% (male 164,417/female 159,400)<br>
 _15-24 years_: 19.94% (male 84,820/female 81,880)<br>
 _25-54 years_: 32.72% (male 137,632/female 135,973)<br>
 _55-64 years_: 4.69% (male 17,252/female 22,006)<br>
-_65 years and over_: 3.92% (male 13,464/female 19,334) (2020 est.)<br>
+_65 years and over_: 3.92% (2020 est.) (male 13,464/female 19,334)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 64.4<br>
@@ -563,7 +566,7 @@ _electrification - rural areas_: 45% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 10,848 (2018)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 591,223 (2018)<br>
@@ -581,9 +584,13 @@ the state maintains control of broadcast media with domestic broadcast media lim
 **Internet country code**<br>
 .gq<br>
 
+**Internet users**<br>
+_total_: 352,555 (2019 est.)<br>
+_percent of population_: 26% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.07 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.07 (2021) less than 1<br>
 
 ## Transportation
 
@@ -591,7 +598,7 @@ _subscriptions per 100 inhabitants_: 0.07 less than 1 (2021)<br>
 _number of registered air carriers_: 6 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 15<br>
 _annual passenger traffic on registered air carriers_: 466,435 (2018)<br>
-_annual freight traffic on registered air carriers_: 350,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 350,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 3C<br>
@@ -631,11 +638,11 @@ Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equ
 note - the Gendarmerie reports to the Ministry of National Defense and is responsible for security outside cities and for special events; military personnel also fulfill some police functions in border areas, sensitive sites, and high-traffic areas<br>
 
 **Military expenditures**<br>
-1.5% of GDP (approximately $270 million) (2019 est.)<br>
-1.1% of GDP (approximately $230 million) (2018 est.)<br>
-1.1% of GDP (approximately $250 million) (2017 est.)<br>
-1.2% of GDP (approximately $260 million) (2016 est.)<br>
-1% of GDP (approximately $250 million) (2015 est.)<br>
+1.5% of GDP (2019 est.) (approximately $270 million)<br>
+1.1% of GDP (2018 est.) (approximately $230 million)<br>
+1.1% of GDP (2017 est.) (approximately $250 million)<br>
+1.2% of GDP (2016 est.) (approximately $260 million)<br>
+1% of GDP (2015 est.) (approximately $250 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,400 active duty troops; approximately 3-400 Gendarmerie (2021)<br>

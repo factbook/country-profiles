@@ -73,6 +73,9 @@ with approximately 70% of the country considered mountainous, the country's popu
 **Geography - note**<br>
 strategic location on Korea Strait; about 3,000 mostly small and uninhabited islands lie off the western and southern coasts<br>
 
+**Map description**<br>
+<p>South Korea map showing major cities as well as parts of surrounding countries and water bodies.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -98,7 +101,7 @@ _0-14 years_: 12.02% (male 3,191,584/female 3,025,029)<br>
 _15-24 years_: 10.75% (male 2,900,013/female 2,658,057)<br>
 _25-54 years_: 44.83% (male 12,106,860/female 11,077,642)<br>
 _55-64 years_: 15.66% (male 3,958,718/female 4,142,322)<br>
-_65 years and over_: 16.74% (male 3,766,138/female 4,888,799) (2021 est.)<br>
+_65 years and over_: 16.74% (2021 est.) (male 3,766,138/female 4,888,799)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 39.5<br>
@@ -325,11 +328,11 @@ _residency requirement for naturalization_: 5 years<br>
 18years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election<br>
 
 **Executive branch**<br>
-_chief of state_: President MOON Jae-in (since 10 May 2017); the president is both chief of state and head of government; Prime Minister KIM Boo-kyum (since 14 May 2021) serves as the principal executive assistant to the president, similar to the role of a vice president<br>
-_head of government_: President MOON Jae-in (since 10 May 2017)<br>
+_chief of state_: President YOON Suk-yeol (since 10 May 2022); the president is both chief of state and head of government; Prime Minister KIM Boo-kyum (since 14 May 2021) serves as the principal executive assistant to the president, similar to the role of a vice president (note - President YOON has nominated HAN Duck-soo to the role of prime minister)<br>
+_head of government_: President YOON Suk-yeol (since 10 May 2022)<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next election held March 2027); prime minister appointed by president with consent of National Assembly<br>
-_election results_: 2022: YOON Suk-yeol elected president (to be inaugurated May 2022); YOON Suk-yeol (PPP) 48.56%, LEE Jae-myung (DP) 47.83% (note - voter turnout 77.1%)<br><br>2017: MOON Jae-in elected president; percent of vote - MOON Jae-in (DP) 41.1%, HONG Joon-pyo (LKP) 25.5%, AHN Cheol-soo (PP) 21.4%, other 12%<br>
+_election results_: YOON Suk-yeol (PPP) 48.56%, LEE Jae-myung (DP) 47.83% (note - voter turnout 77.1%)<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Kuk Hoe (300 seats statutory; 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
@@ -487,9 +490,9 @@ $59.971 billion (2019 est.)<br>
 $77.467 billion (2018 est.)<br>
 
 **Exports**<br>
-$606.71 billion note: data are in current year dollars (2020 est.)<br>
-$660.51 billion note: data are in current year dollars (2019 est.)<br>
-$729.94 billion note: data are in current year dollars (2018 est.)<br>
+$606.71 billion (2020 est.) note: data are in current year dollars<br>
+$660.51 billion (2019 est.) note: data are in current year dollars<br>
+$729.94 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 25%, United States 14%, Vietnam 9%, Hong Kong 6%, Japan 5% (2019)<br>
@@ -498,9 +501,9 @@ China 25%, United States 14%, Vietnam 9%, Hong Kong 6%, Japan 5% (2019)<br>
 integrated circuits, cars and vehicle parts, refined petroleum, ships, office machinery (2019)<br>
 
 **Imports**<br>
-$540.96 billion note: data are in current year dollars (2020 est.)<br>
-$607.54 billion note: data are in current year dollars (2019 est.)<br>
-$649.23 billion note: data are in current year dollars (2018 est.)<br>
+$540.96 billion (2020 est.) note: data are in current year dollars<br>
+$607.54 billion (2019 est.) note: data are in current year dollars<br>
+$649.23 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 22%, United States 12%, Japan 9% (2019)<br>
@@ -566,7 +569,7 @@ _electrification - total population_: 100% (2020)<br>
 3.057 million bbl/day (2017 est.)<br>
 
 **Crude oil - proved reserves**<br>
-NA (1 January 2017 est.)<br>
+(1 January 2017 est.) NA<br>
 
 **Refined petroleum products - production**<br>
 3.302 million bbl/day (2017 est.)<br>
@@ -617,6 +620,10 @@ multiple national TV networks with 2 of the 3 largest networks publicly operated
 **Internet country code**<br>
 .kr<br>
 
+**Internet users**<br>
+_total_: 50,281,152 (2020 est.)<br>
+_percent of population_: 97% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 22,327,182 (2021)<br>
 _subscriptions per 100 inhabitants_: 43.55 (2021)<br>
@@ -627,7 +634,7 @@ _subscriptions per 100 inhabitants_: 43.55 (2021)<br>
 _number of registered air carriers_: 14 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 424<br>
 _annual passenger traffic on registered air carriers_: 88,157,579 (2018)<br>
-_annual freight traffic on registered air carriers_: 11,929,560,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 11,929,560,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 HL<br>
@@ -656,15 +663,15 @@ _under 914 m_: 38 (2021)<br>
 
 **Railways**<br>
 _total_: 3,979 km (2016)<br>
-_standard gauge_: 3,979 km 1.435-m gauge (2,727 km electrified) (2016)<br>
+_standard gauge_: 3,979 km (2016) 1.435-m gauge (2,727 km electrified)<br>
 
 **Roadways**<br>
 _total_: 100,428 km (2016)<br>
-_paved_: 92,795 km (includes 4,193 km of expressways) (2016)<br>
+_paved_: 92,795 km (2016) (includes 4,193 km of expressways)<br>
 _unpaved_: 7,633 km (2016)<br>
 
 **Waterways**<br>
-1,600 km (most navigable only by small craft) (2011)<br>
+1,600 km (2011) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
 _total_: 1,904<br>
@@ -684,9 +691,9 @@ note - in January 2022, the South Korean military announced the formation of a s
 **Military expenditures**<br>
 2.6% of GDP (2021 est.)<br>
 2.6% of GDP (2020)<br>
-2.7% of GDP (approximately $58.1 billion) (2019)<br>
-2.5% of GDP (approximately $55.8 billion) (2018)<br>
-2.5% of GDP (approximately $52.5 billion) (2017)<br>
+2.7% of GDP (2019) (approximately $58.1 billion)<br>
+2.5% of GDP (2018) (approximately $55.8 billion)<br>
+2.5% of GDP (2017) (approximately $52.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Republic of Korea Armed Forces have approximately 555,000 active duty personnel (420,000 Army; 70,000 Navy/Marines; 65,000 Air Force) (2021)<br>

@@ -77,6 +77,9 @@ destructive earthquakes; tsunamis occur along southwestern coast; floods; drough
 **Geography - note**<br>
 strategic location along Strait of Otranto (links Adriatic Sea to Ionian Sea and Mediterranean Sea)<br>
 
+**Map description**<br>
+Albania map showing major cities as well as parts of surrounding countries and the Adriatic Sea.<br>
+
 ## People and Society
 
 **Population**<br>
@@ -103,7 +106,7 @@ _0-14 years_: 17.6% (male 284,636/female 256,474)<br>
 _15-24 years_: 15.39% (male 246,931/female 226,318)<br>
 _25-54 years_: 42.04% (male 622,100/female 670,307)<br>
 _55-64 years_: 11.94% (male 178,419/female 188,783)<br>
-_65 years and over_: 13.03% (male 186,335/female 214,276) (2020 est.)<br>
+_65 years and over_: 13.03% (2020 est.) (male 186,335/female 214,276)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.9<br>
@@ -195,14 +198,14 @@ _unimproved: rural_: rural: 0.5% of population<br>
 _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1 (2020 est.)<br>
+(2020 est.) <.1<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 1,400 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br>
+(2020 est.) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -496,9 +499,9 @@ calendar year<br>
 -$899 million (2016 est.)<br>
 
 **Exports**<br>
-$3.47 billion note: data are in current year dollars (2020 est.)<br>
-$4.82 billion note: data are in current year dollars (2019 est.)<br>
-$4.78 billion note: data are in current year dollars (2018 est.)<br>
+$3.47 billion (2020 est.) note: data are in current year dollars<br>
+$4.82 billion (2019 est.) note: data are in current year dollars<br>
+$4.78 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Italy 45%, Spain 8%, Germany 6%, Greece 5%, France 4%, China 4% (2019)<br>
@@ -507,9 +510,9 @@ Italy 45%, Spain 8%, Germany 6%, Greece 5%, France 4%, China 4% (2019)<br>
 leather footwear and parts, crude petroleum, iron alloys, clothing, electricity, perfumes (2019)<br>
 
 **Imports**<br>
-$5.67 billion note: data are in current year dollars (2020 est.)<br>
-$6.93 billion note: data are in current year dollars (2019 est.)<br>
-$6.85 billion note: data are in current year dollars (2018 est.)<br>
+$5.67 billion (2020 est.) note: data are in current year dollars<br>
+$6.93 billion (2019 est.) note: data are in current year dollars<br>
+$6.85 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Italy 28%, Greece 12%, China 11%, Turkey 9%, Germany 5% (2019)<br>
@@ -626,9 +629,13 @@ Albania has more than 65 TV stations, including several that broadcast nationall
 **Internet country code**<br>
 .al<br>
 
+**Internet users**<br>
+_total_: 2,043,251 (2020 est.)<br>
+_percent of population_: 72% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 508,937 (2021)<br>
-_subscriptions per 100 inhabitants_: 17.68 (2021)<br>
+_total_: 508,937 (2022)<br>
+_subscriptions per 100 inhabitants_: 17.68 (2022)<br>
 
 ## Transportation
 
@@ -652,14 +659,14 @@ _1,524 to 2,437 m_: 1 (2021)<br>
 498 km gas (a majority of the network is in disrepair and parts of it are missing), 249 km oil (2015)<br>
 
 **Railways**<br>
-_total_: 677 km (447 km of major railway lines and 230 km of secondary lines) (2015)<br>
-_standard gauge_: 677 km 1.435-m gauge (2015)<br>
+_total_: 677 km (2015) (447 km of major railway lines and 230 km of secondary lines)<br>
+_standard gauge_: 677 km (2015) 1.435-m gauge<br>
 
 **Roadways**<br>
 _total_: 3,945 km (2018)<br>
 
 **Waterways**<br>
-41 km (on the Bojana River) (2011)<br>
+41 km (2011) (on the Bojana River)<br>
 
 **Merchant marine**<br>
 _total_: 70<br>
@@ -676,9 +683,9 @@ Republic of Albania Armed Forces (Forcat e Armatosura t&euml; Republik&euml;s s&
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.3% of GDP (2020)<br>
-1.5% of GDP (approximately $360 million) (2019)<br>
-1.3% of GDP (approximately $330 million) (2018)<br>
-1.1% of GDP (approximately $290 million) (2017)<br>
+1.5% of GDP (2019) (approximately $360 million)<br>
+1.3% of GDP (2018) (approximately $330 million)<br>
+1.1% of GDP (2017) (approximately $290 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 8,000 total active duty personnel (6,000 Army; 1,500 Navy; 500 Air Force) (2021)<br>

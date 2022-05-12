@@ -73,6 +73,9 @@ hurricanes (especially July to November)<br>
 **Geography - note**<br>
 third largest island in the Caribbean (after Cuba and Hispaniola); strategic location between Cayman Trench and Jamaica Channel, the main sea lanes for the Panama Canal<br>
 
+**Map description**<br>
+<p>Jamaica map showing major population centers of this island nation in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -96,7 +99,7 @@ _0-14 years_: 25.2% (male 360,199/female 347,436)<br>
 _15-24 years_: 17.95% (male 255,102/female 248,927)<br>
 _25-54 years_: 38.06% (male 518,583/female 550,410)<br>
 _55-64 years_: 9.63% (male 133,890/female 136,442)<br>
-_65 years and over_: 9.17% (male 121,969/female 135,612) (2020 est.)<br>
+_65 years and over_: 9.17% (2020 est.) (male 121,969/female 135,612)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48<br>
@@ -195,7 +198,7 @@ _unimproved: total_: total: 1.1% of population (2020 est.)<br>
 32,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<1,000 (2020 est.)<br>
+(2020 est.) <1,000<br>
 
 **Obesity - adult prevalence rate**<br>
 24.7% (2016)<br>
@@ -474,8 +477,8 @@ _expenditures_: 4.314 billion (2017 est.)<br>
 -$288 million (2018 est.)<br>
 
 **Exports**<br>
-$5.92 billion note: data are in current year dollars (2019 est.)<br>
-$5.79 billion note: data are in current year dollars (2018 est.)<br>
+$5.92 billion (2019 est.) note: data are in current year dollars<br>
+$5.79 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 32%, Netherlands 11%, Germany 9%, Canada 7%, Iceland 7% (2019)<br>
@@ -484,8 +487,8 @@ United States 32%, Netherlands 11%, Germany 9%, Canada 7%, Iceland 7% (2019)<br>
 bauxite, refined petroleum, aluminum, rum, fruits, nuts (2019)<br>
 
 **Imports**<br>
-$8.25 billion note: data are in current year dollars (2019 est.)<br>
-$7.89 billion note: data are in current year dollars (2018 est.)<br>
+$8.25 billion (2019 est.) note: data are in current year dollars<br>
+$7.89 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 43%, China 11% (2019)<br>
@@ -604,6 +607,10 @@ _international_: country code - 1-876 and 1-658; landing points for the ALBA-1, 
 **Internet country code**<br>
 .jm<br>
 
+**Internet users**<br>
+_total_: 1,621,552 (2019 est.)<br>
+_percent of population_: 55% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 385,603 (2021)<br>
 _subscriptions per 100 inhabitants_: 13.02 (2021)<br>
@@ -631,7 +638,7 @@ _914 to 1,523 m_: 1<br>
 _under 914 m_: 16 (2021)<br>
 
 **Roadways**<br>
-_total_: 22,121 km (includes 44 km of expressways) (2011)<br>
+_total_: 22,121 km (2011) (includes 44 km of expressways)<br>
 _paved_: 16,148 km (2011)<br>
 _unpaved_: 5,973 km (2011)<br>
 
@@ -651,10 +658,10 @@ note - both the JDF and JCF are under the Ministry of National Security<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
-1.6% of GDP (approximately $300 million) (2019 est.)<br>
-1.4% of GDP (approximately $260 million) (2018 est.)<br>
-1% of GDP (approximately $190 million) (2017 est.)<br>
-0.9% of GDP (approximately $180 million) (2016 est.)<br>
+1.6% of GDP (2019 est.) (approximately $300 million)<br>
+1.4% of GDP (2018 est.) (approximately $260 million)<br>
+1% of GDP (2017 est.) (approximately $190 million)<br>
+0.9% of GDP (2016 est.) (approximately $180 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 4,000 total active personnel (2021)<br>

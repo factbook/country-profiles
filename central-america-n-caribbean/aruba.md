@@ -69,6 +69,9 @@ hurricanes; lies outside the Caribbean hurricane belt and is rarely threatened<b
 **Geography - note**<br>
 a flat, riverless island renowned for its white sand beaches; its tropical climate is moderated by constant trade winds from the Atlantic Ocean; the temperature is almost constant at about 27 degrees Celsius (81 degrees Fahrenheit)<br>
 
+**Map description**<br>
+<p>Aruba map showing the island situated in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -93,7 +96,7 @@ _0-14 years_: 17.55% (male 10,524/female 10,437)<br>
 _15-24 years_: 12.06% (male 7,231/female 7,175)<br>
 _25-54 years_: 40.54% (male 23,387/female 25,029)<br>
 _55-64 years_: 14.79% (male 8,285/female 9,383)<br>
-_65 years and over_: 15.05% (male 7,064/female 10,913) (2020 est.)<br>
+_65 years and over_: 15.05% (2020 est.) (male 7,064/female 10,913)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 47<br>
@@ -406,9 +409,9 @@ $22 million (2017 est.)<br>
 $133 million (2016 est.)<br>
 
 **Exports**<br>
-$1.45 billion note: data are in current year dollars (2020 est.)<br>
-$2.56 billion note: data are in current year dollars (2019 est.)<br>
-$2.56 billion note: data are in current year dollars (2018 est.)<br>
+$1.45 billion (2020 est.) note: data are in current year dollars<br>
+$2.56 billion (2019 est.) note: data are in current year dollars<br>
+$2.56 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Malaysia 57%, United States 11%, Netherlands 6%, Jordan 6%, Venezuela 5% (2019)<br>
@@ -417,9 +420,9 @@ Malaysia 57%, United States 11%, Netherlands 6%, Jordan 6%, Venezuela 5% (2019)<
 refined petroleum, liquors, scrap iron, soap, tobacco (2019)<br>
 
 **Imports**<br>
-$1.67 billion note: data are in current year dollars (2020 est.)<br>
-$2.24 billion note: data are in current year dollars (2019 est.)<br>
-$2.27 billion note: data are in current year dollars (2018 est.)<br>
+$1.67 billion (2020 est.) note: data are in current year dollars<br>
+$2.24 billion (2019 est.) note: data are in current year dollars<br>
+$2.27 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 48%, Netherlands 16% (2019)<br>
@@ -536,6 +539,10 @@ _international_: country code - 297; landing&nbsp;points for the PAN-AM, PCCS, D
 **Internet country code**<br>
 .aw<br>
 
+**Internet users**<br>
+_total_: 103,121 (2019 est.)<br>
+_percent of population_: 97% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 19,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 17.8 (2021)<br>
@@ -580,7 +587,7 @@ defense is the responsibility of the Kingdom of the Netherlands; the Aruba secur
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 17,000 (Venezuela) (2021)<br>

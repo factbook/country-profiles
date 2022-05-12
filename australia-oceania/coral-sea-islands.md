@@ -60,10 +60,13 @@ occasional tropical cyclones<br>
 **Geography - note**<br>
 important nesting area for birds and turtles<br>
 
+**Map description**<br>
+<p>Coral Sea Islands map showing the Australian territory in the Coral Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
-no indigenous inhabitants (July 2021 est.)<br>
+(July 2021 est.) no indigenous inhabitants<br>
 <strong>note:</strong> there is a staff of four at the meteorological station on Willis Island<br>
 
 **Age structure**<br>
@@ -83,7 +86,7 @@ _potential support ratio_: NA<br>
 NA<br>
 
 **Death rate**<br>
-NA (2021 est.)<br>
+(2021 est.) NA<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

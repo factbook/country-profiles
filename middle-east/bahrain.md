@@ -73,6 +73,9 @@ periodic droughts; dust storms<br>
 **Geography - note**<br>
 close to primary Middle Eastern petroleum sources; strategic location in Persian Gulf, through which much of the Western world's petroleum must transit to reach open ocean<br>
 
+**Map description**<br>
+<p>Bahrain map showing the islands that make up the country in the Gulf of Bahrain.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -98,7 +101,7 @@ _0-14 years_: 18.45% (male 141,039/female 136,687)<br>
 _15-24 years_: 15.16% (male 129,310/female 98,817)<br>
 _25-54 years_: 56.14% (male 550,135/female 294,778)<br>
 _55-64 years_: 6.89% (male 64,761/female 38,870)<br>
-_65 years and over_: 3.36% (male 25,799/female 24,807) (2020 est.)<br>
+_65 years and over_: 3.36% (2020 est.) (male 25,799/female 24,807)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 26.5<br>
@@ -187,13 +190,13 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2017 est.)<br>
+(2017 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<500 (2017 est.)<br>
+(2017 est.) <500<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2017 est.)<br>
+(2017 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 29.8% (2016)<br>
@@ -478,7 +481,7 @@ calendar year<br>
 -$1.493 billion (2016 est.)<br>
 
 **Exports**<br>
-$30.1 billion note: data are in current year dollars (2018 est.)<br>
+$30.1 billion (2018 est.) note: data are in current year dollars<br>
 $26.762 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -488,7 +491,7 @@ United Arab Emirates 31%, Saudi Arabia 12%, Japan 8%, United States 8% (2019)<br
 refined petroleum, aluminum and plating, crude petroleum, iron ore, gold (2019)<br>
 
 **Imports**<br>
-$27.19 billion note: data are in current year dollars (2018 est.)<br>
+$27.19 billion (2018 est.) note: data are in current year dollars<br>
 $22.132 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -606,6 +609,10 @@ state-run Bahrain Radio and Television Corporation (BRTC) operates 5 terrestrial
 **Internet country code**<br>
 .bh<br>
 
+**Internet users**<br>
+_total_: 170,158 (2020 est.)<br>
+_percent of population_: 100% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 148,928 (2021)<br>
 _subscriptions per 100 inhabitants_: 8.75 (2021)<br>
@@ -616,7 +623,7 @@ _subscriptions per 100 inhabitants_: 8.75 (2021)<br>
 _number of registered air carriers_: 6 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 42<br>
 _annual passenger traffic on registered air carriers_: 5,877,003 (2018)<br>
-_annual freight traffic on registered air carriers_: 420.98 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 420.98 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 A9C<br>
@@ -655,10 +662,10 @@ note(s) - the Royal Guard is officially under the command of the Army, but exerc
 
 **Military expenditures**<br>
 4.2% of GDP (2020 est.)<br>
-4% of GDP (approximately $2.09 billion) (2019 est.)<br>
-4% of GDP (approximately $2.08 billion) (2018 est.)<br>
-4.2% of GDP (approximately $2.18 billion) (2017 est.)<br>
-4.7% of GDP (approximately $2.25 billion) (2016 est.)<br>
+4% of GDP (2019 est.) (approximately $2.09 billion)<br>
+4% of GDP (2018 est.) (approximately $2.08 billion)<br>
+4.2% of GDP (2017 est.) (approximately $2.18 billion)<br>
+4.7% of GDP (2016 est.) (approximately $2.25 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 3,000 National Guard (2021)<br>
@@ -676,11 +683,10 @@ the inventory of the Bahrain Defense force consists of a mix of equipment acquir
 
 **Terrorist group(s)**<br>
 al-Ashtar Brigades; Islamic Revolutionary Guard Corps/Qods Force<br>
-note(s) - details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br><br>
-<br><br>in addition to the al-Ashtar Brigades and the IGRC/Qods Force, Saraya al-Mukhtar (aka The Mukhtar Brigade) is an Iran-backed terrorist organization based in Bahrain, reportedly receiving financial and logistic support from the IGRC; Saraya al-Mukhtar’s self-described goal is to depose the Bahraini Government with the intention of paving the way for Iran to exert greater influence in Bahrain; the group was designated by the US as a Specially Designated Global Terrorist in Dec 2020<br>
+note(s) - details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br><br> <br><br>in addition to the al-Ashtar Brigades and the IGRC/Qods Force, Saraya al-Mukhtar (aka The Mukhtar Brigade) is an Iran-backed terrorist organization based in Bahrain, reportedly receiving financial and logistic support from the IGRC; Saraya al-Mukhtar’s self-described goal is to depose the Bahraini Government with the intention of paving the way for Iran to exert greater influence in Bahrain; the group was designated by the US as a Specially Designated Global Terrorist in Dec 2020<br>
 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 

@@ -75,6 +75,9 @@ the overwhelming majority of the population resides in the western half of the c
 **Geography - note**<br>
 largest country in Central America; contains the largest freshwater body in Central America, Lago de Nicaragua<br>
 
+**Map description**<br>
+<p>Nicaragua map showing major cities as well as parts of surrounding countries and the North Pacific Ocean and Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 25.63% (male 811,731/female 777,984)<br>
 _15-24 years_: 19.51% (male 609,962/female 600,567)<br>
 _25-54 years_: 42.41% (male 1,254,683/female 1,376,052)<br>
 _55-64 years_: 6.63% (male 188,591/female 222,766)<br>
-_65 years and over_: 5.82% (male 159,140/female 201,965) (2020 est.)<br>
+_65 years and over_: 5.82% (2020 est.) (male 159,140/female 201,965)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.3<br>
@@ -201,7 +204,7 @@ _unimproved: total_: total: 19.7% of population (2020 est.)<br>
 12,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -491,9 +494,9 @@ calendar year<br>
 -$989 million (2016 est.)<br>
 
 **Exports**<br>
-$5.34 billion note: data are in current year dollars (2020 est.)<br>
-$5.71 billion note: data are in current year dollars (2019 est.)<br>
-$5.56 billion note: data are in current year dollars (2018 est.)<br>
+$5.34 billion (2020 est.) note: data are in current year dollars<br>
+$5.71 billion (2019 est.) note: data are in current year dollars<br>
+$5.56 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 60%, El Salvador 5%, Mexico 5% (2019)<br>
@@ -502,9 +505,9 @@ United States 60%, El Salvador 5%, Mexico 5% (2019)<br>
 clothing and apparel, gold, insulated wiring, coffee, beef (2019)<br>
 
 **Imports**<br>
-$5.94 billion note: data are in current year dollars (2020 est.)<br>
-$6.25 billion note: data are in current year dollars (2019 est.)<br>
-$6.75 billion note: data are in current year dollars (2018 est.)<br>
+$5.94 billion (2020 est.) note: data are in current year dollars<br>
+$6.25 billion (2019 est.) note: data are in current year dollars<br>
+$6.75 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 27%, Mexico 12%, China 11%, Guatemala 9%, Costa Rica 7%, El Salvador 6%, Honduras 6% (2019)<br>
@@ -623,6 +626,10 @@ multiple terrestrial TV stations, supplemented by cable TV in most urban areas; 
 **Internet country code**<br>
 .ni<br>
 
+**Internet users**<br>
+_total_: 2,981,049 (2020 est.)<br>
+_percent of population_: 45% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 290,351 (2021)<br>
 _subscriptions per 100 inhabitants_: 4.38 (2021)<br>
@@ -661,7 +668,7 @@ _paved_: 3,346 km (2014)<br>
 _unpaved_: 20,551 km (2014)<br>
 
 **Waterways**<br>
-2,220 km (navigable waterways as well as the use of the large Lake Managua and Lake Nicaragua; rivers serve only the sparsely populated eastern part of the country) (2011)<br>
+2,220 km (2011) (navigable waterways as well as the use of the large Lake Managua and Lake Nicaragua; rivers serve only the sparsely populated eastern part of the country)<br>
 
 **Merchant marine**<br>
 _total_: 5<br>
@@ -677,11 +684,11 @@ Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); N
 note - both the military and the police report directly to the president<br>
 
 **Military expenditures**<br>
-0.7% of GDP (2020 est.)<br>
-0.6% of GDP (approximately $170 million) (2019)<br>
-0.6% of GDP (approximately $180 million) (2018)<br>
-0.6% of GDP (approximately $190 million) (2017)<br>
-0.5% of GDP (approximately $170 million) (2016)<br>
+0.6% of GDP (2020 est.)<br>
+0.6% of GDP (2019) (approximately $170 million)<br>
+0.6% of GDP (2018) (approximately $180 million)<br>
+0.6% of GDP (2017) (approximately $190 million)<br>
+0.5% of GDP (2016) (approximately $170 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2021)<br>

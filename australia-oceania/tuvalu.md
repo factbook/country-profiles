@@ -71,6 +71,9 @@ severe tropical storms are usually rare, but in 1997 there were three cyclones; 
 **Geography - note**<br>
 one of the smallest and most remote countries on Earth; six of the nine coral atolls - Nanumea, Nui, Vaitupu, Nukufetau, Funafuti, and Nukulaelae - have lagoons open to the ocean; Nanumaya and Niutao have landlocked lagoons; Niulakita does not have a lagoon<br>
 
+**Map description**<br>
+<p>Tuvalu map showing the major islands that make up this island group in the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 29.42% (male 1,711/female 1,626)<br>
 _15-24 years_: 16.55% (male 986/female 925)<br>
 _25-54 years_: 37.17% (male 2,157/female 2,059)<br>
 _55-64 years_: 9.25% (male 451/female 617)<br>
-_65 years and over_: 7.21% (male 307/female 525) (2022 est.)<br>
+_65 years and over_: 7.21% (2022 est.) (male 307/female 525)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -423,8 +426,8 @@ $2 million (2017 est.)<br>
 $8 million (2016 est.)<br>
 
 **Exports**<br>
-$10 million note: data are in current year dollars (2019 est.)<br>
-$10 million note: data are in current year dollars (2018 est.)<br>
+$10 million (2019 est.) note: data are in current year dollars<br>
+$10 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Thailand 50%, Indonesia 40% (2019)<br>
@@ -433,8 +436,8 @@ Thailand 50%, Indonesia 40% (2019)<br>
 fish, ships, coins, metal-clad products, electrical power accessories (2019)<br>
 
 **Imports**<br>
-$70 million note: data are in current year dollars (2019 est.)<br>
-$60 million note: data are in current year dollars (2018 est.)<br>
+$70 million (2019 est.) note: data are in current year dollars<br>
+$60 million (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 32%, Japan 29%, Fiji 23%, New Zealand 6% (2019)<br>
@@ -527,6 +530,10 @@ no TV stations; many households use satellite dishes to watch foreign TV station
 
 **Internet country code**<br>
 .tv<br>
+
+**Internet users**<br>
+_total_: 5,711 (2019 est.)<br>
+_percent of population_: 49% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 450 (2017 est.)<br>

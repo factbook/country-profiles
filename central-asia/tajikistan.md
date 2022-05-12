@@ -76,6 +76,9 @@ earthquakes; floods<br>
 **Geography - note**<br>
 landlocked; highest point, Qullai Ismoili Somoni (formerly Communism Peak), was the tallest mountain in the former USSR<br>
 
+**Map description**<br>
+<p>Tajikistan map showing major population centers as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -101,7 +104,7 @@ _0-14 years_: 31.43% (male 1,420,271/female 1,368,445)<br>
 _15-24 years_: 18.13% (male 816,658/female 792,231)<br>
 _25-54 years_: 40.58% (male 1,789,271/female 1,811,566)<br>
 _55-64 years_: 6.23% (male 253,862/female 299,378)<br>
-_65 years and over_: 3.63% (male 132,831/female 189,156) (2020 est.)<br>
+_65 years and over_: 3.63% (2020 est.) (male 132,831/female 189,156)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 67.9<br>
@@ -200,7 +203,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 14,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -468,8 +471,8 @@ _services_: 46.4% (2016 est.)<br>
 34.7 (1998)<br>
 
 **Household income or consumption by percentage share**<br>
-_lowest 10%_: NA (2009 est.)<br>
-_highest 10%_: NA (2009 est.)<br>
+_lowest 10%_: (2009 est.) NA<br>
+_highest 10%_: (2009 est.) NA<br>
 
 **Budget**<br>
 _revenues_: 2.269 billion (2017 est.)<br>
@@ -493,9 +496,9 @@ calendar year<br>
 -$362 million (2016 est.)<br>
 
 **Exports**<br>
-$1.41 billion note: data are in current year dollars (2020 est.)<br>
-$1.24 billion note: data are in current year dollars (2019 est.)<br>
-$1.12 billion note: data are in current year dollars (2018 est.)<br>
+$1.41 billion (2020 est.) note: data are in current year dollars<br>
+$1.24 billion (2019 est.) note: data are in current year dollars<br>
+$1.12 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Turkey 24%, Switzerland 22%, Uzbekistan 16%, Kazakhstan 12%, China 10% (2019)<br>
@@ -504,9 +507,9 @@ Turkey 24%, Switzerland 22%, Uzbekistan 16%, Kazakhstan 12%, China 10% (2019)<br
 gold, aluminum, cotton, zinc, antimony, lead (2019)<br>
 
 **Imports**<br>
-$3.13 billion note: data are in current year dollars (2020 est.)<br>
-$3.41 billion note: data are in current year dollars (2019 est.)<br>
-$3.22 billion note: data are in current year dollars (2018 est.)<br>
+$3.13 billion (2020 est.) note: data are in current year dollars<br>
+$3.41 billion (2019 est.) note: data are in current year dollars<br>
+$3.22 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 40%, Russia 38%, Kazakhstan 19%, Uzbekistan 5% (2019)<br>
@@ -542,7 +545,7 @@ _electrification - total population_: 100% (2020)<br>
 12.96 billion kWh (2016 est.)<br>
 
 **Electricity - exports**<br>
-1.4 billion kWh NA (2015 est.)<br>
+1.4 billion kWh (2015 est.) NA<br>
 
 **Electricity - imports**<br>
 103 million kWh (2016 est.)<br>
@@ -623,9 +626,13 @@ state-run TV broadcasters transmit nationally on 9 TV and 10 radio stations, and
 **Internet country code**<br>
 .tj<br>
 
+**Internet users**<br>
+_total_: 2,050,625 (2019 est.)<br>
+_percent of population_: 22% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 6,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.06 less than 1 (2021 est.)<br>
+_total_: 6,000 (2022)<br>
+_subscriptions per 100 inhabitants_: 0.06 (2022) less than 1<br>
 
 ## Transportation
 
@@ -633,7 +640,7 @@ _subscriptions per 100 inhabitants_: 0.06 less than 1 (2021 est.)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 6<br>
 _annual passenger traffic on registered air carriers_: 492,320 (2018)<br>
-_annual freight traffic on registered air carriers_: 2.34 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 2.34 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 EY<br>
@@ -660,13 +667,13 @@ _under 914 m_: 5 (2021)<br>
 
 **Railways**<br>
 _total_: 680 km (2014)<br>
-_broad gauge_: 680 km 1.520-m gauge (2014)<br>
+_broad gauge_: 680 km (2014) 1.520-m gauge<br>
 
 **Roadways**<br>
 _total_: 30,000 km (2018)<br>
 
 **Waterways**<br>
-200 km (along Vakhsh River) (2011)<br>
+200 km (2011) (along Vakhsh River)<br>
 
 ## Military and Security
 
@@ -674,11 +681,11 @@ _total_: 30,000 km (2018)<br>
 Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime); State Committee on National Security: Border Guard Forces (2021)<br>
 
 **Military expenditures**<br>
-1.2% of GDP (2020 est.)<br>
-2.1% of GDP (approximately $360 million) (2019 est.)<br>
-2.1% of GDP (approximately $350 million) (2018 est.)<br>
-2.2% of GDP (approximately $330 million) (2017 est.)<br>
-2.2% of GDP (approximately $320 million) (2016 est.)<br>
+2.1% of GDP (2019 est.) (approximately $360 million)<br>
+2.1% of GDP (2018 est.) (approximately $350 million)<br>
+2.2% of GDP (2017 est.) (approximately $330 million)<br>
+2.2% of GDP (2016 est.) (approximately $320 million)<br>
+2.2% of GDP (2015 est.) (approximately $310 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,500 active troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2021)<br>

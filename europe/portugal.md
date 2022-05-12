@@ -74,6 +74,9 @@ concentrations are primarily along or near the Atlantic coast; both Lisbon and t
 **Geography - note**<br>
 Azores and Madeira Islands occupy strategic locations along western sea approaches to Strait of Gibraltar; they are two of the four North Atlantic archipelagos that make up Macaronesia; the others are the Canary Islands (Spain) and Cabo Verde<br>
 
+**Map description**<br>
+<p>Portugal map showing major cities as well as parts of surrounding Spain and the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -98,7 +101,7 @@ _0-14 years_: 13.58% (male 716,102/female 682,582)<br>
 _15-24 years_: 10.94% (male 580,074/female 547,122)<br>
 _25-54 years_: 41.49% (male 2,109,693/female 2,164,745)<br>
 _55-64 years_: 13.08% (male 615,925/female 731,334)<br>
-_65 years and over_: 20.92% (male 860,198/female 1,294,899) (2020 est.)<br>
+_65 years and over_: 20.92% (2020 est.) (male 860,198/female 1,294,899)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.8<br>
@@ -196,7 +199,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 42,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Obesity - adult prevalence rate**<br>
 20.8% (2016)<br>
@@ -484,9 +487,9 @@ calendar year<br>
 $988 million (2018 est.)<br>
 
 **Exports**<br>
-$85.28 billion note: data are in current year dollars (2020 est.)<br>
-$104.77 billion note: data are in current year dollars (2019 est.)<br>
-$105.76 billion note: data are in current year dollars (2018 est.)<br>
+$85.28 billion (2020 est.) note: data are in current year dollars<br>
+$104.77 billion (2019 est.) note: data are in current year dollars<br>
+$105.76 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Spain 23%, France 13%, Germany 12%, United Kingdom 6%, United States 5% (2019)<br>
@@ -495,9 +498,9 @@ Spain 23%, France 13%, Germany 12%, United Kingdom 6%, United States 5% (2019)<b
 cars and vehicle parts, refined petroleum, leather footwear, paper products, tires (2019)<br>
 
 **Imports**<br>
-$89.31 billion note: data are in current year dollars (2020 est.)<br>
-$103.05 billion note: data are in current year dollars (2019 est.)<br>
-$103.59 billion note: data are in current year dollars (2018 est.)<br>
+$89.31 billion (2020 est.) note: data are in current year dollars<br>
+$103.05 billion (2019 est.) note: data are in current year dollars<br>
+$103.59 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Spain 29%, Germany 13%, France 9%, Italy 5%, Netherlands 5% (2019)<br>
@@ -614,6 +617,10 @@ Radio e Televisao de Portugal (RTP), the publicly owned TV broadcaster, operates
 **Internet country code**<br>
 .pt<br>
 
+**Internet users**<br>
+_total_: 8,031,723 (2020 est.)<br>
+_percent of population_: 78% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 4,160,795 (2021)<br>
 _subscriptions per 100 inhabitants_: 40.81 (2021)<br>
@@ -624,7 +631,7 @@ _subscriptions per 100 inhabitants_: 40.81 (2021)<br>
 _number of registered air carriers_: 10 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 168<br>
 _annual passenger traffic on registered air carriers_: 17,367,956 (2018)<br>
-_annual freight traffic on registered air carriers_: 454.21 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 454.21 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 CR, CS<br>
@@ -650,17 +657,17 @@ _under 914 m_: 20 (2021)<br>
 
 **Railways**<br>
 _total_: 3,075 km (2014)<br>
-_narrow gauge_: 108.1 km 1.000-m gauge (2014)<br>
-_broad gauge_: 2,439 km 1.668-m gauge (1,633.4 km electrified) (2014)<br>
-_other_: 528 km (gauge unspecified) (2014)<br>
+_narrow gauge_: 108.1 km (2014) 1.000-m gauge<br>
+_broad gauge_: 2,439 km (2014) 1.668-m gauge (1,633.4 km electrified)<br>
+_other_: 528 km (2014) (gauge unspecified)<br>
 
 **Roadways**<br>
 _total_: 82,900 km (2008)<br>
-_paved_: 71,294 km (includes 2,613 km of expressways) (2008)<br>
+_paved_: 71,294 km (2008) (includes 2,613 km of expressways)<br>
 _unpaved_: 11,606 km (2008)<br>
 
 **Waterways**<br>
-210 km (on Douro River from Porto) (2011)<br>
+210 km (2011) (on Douro River from Porto)<br>
 
 **Merchant marine**<br>
 _total_: 726<br>
@@ -680,9 +687,9 @@ note - the GNR is a national gendarmerie force comprised of military personnel w
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
-1.4% of GDP (approximately $4.31 billion) (2019)<br>
-1.3% of GDP (approximately $4.06 billion) (2018)<br>
-1.2% of GDP (approximately $3.62 billion) (2017)<br>
+1.4% of GDP (2019) (approximately $4.31 billion)<br>
+1.3% of GDP (2018) (approximately $4.06 billion)<br>
+1.2% of GDP (2017) (approximately $3.62 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Portuguese Armed Forces have approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, inc about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2021)<br>

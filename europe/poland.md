@@ -80,6 +80,9 @@ flooding<br>
 **Geography - note**<br>
 historically, an area of conflict because of flat terrain and the lack of natural barriers on the North European Plain<br>
 
+**Map description**<br>
+<p>Poland map showing major cities as well as parts of surrounding countries and the Baltic Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -105,7 +108,7 @@ _0-14 years_: 14.83% (male 2,918,518/female 2,756,968)<br>
 _15-24 years_: 9.8% (male 1,928,637/female 1,823,894)<br>
 _25-54 years_: 43.33% (male 8,384,017/female 8,203,646)<br>
 _55-64 years_: 13.32% (male 2,424,638/female 2,675,351)<br>
-_65 years and over_: 18.72% (male 2,867,315/female 4,299,341) (2020 est.)<br>
+_65 years and over_: 18.72% (2020 est.) (male 2,867,315/female 4,299,341)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.4<br>
@@ -508,9 +511,9 @@ $2.92 billion (2019 est.)<br>
 -$7.52 billion (2018 est.)<br>
 
 **Exports**<br>
-$333.54 billion note: data are in current year dollars (2020 est.)<br>
-$330.68 billion note: data are in current year dollars (2019 est.)<br>
-$324.22 billion note: data are in current year dollars (2018 est.)<br>
+$333.54 billion (2020 est.) note: data are in current year dollars<br>
+$330.68 billion (2019 est.) note: data are in current year dollars<br>
+$324.22 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 27%, Czechia 6%, United Kingdom 6%, France 6%, Italy 5% (2019)<br>
@@ -519,9 +522,9 @@ Germany 27%, Czechia 6%, United Kingdom 6%, France 6%, Italy 5% (2019)<br>
 cars and vehicle parts, seats, furniture, computers, video displays (2019)<br>
 
 **Imports**<br>
-$292.44 billion note: data are in current year dollars (2020 est.)<br>
-$302.87 billion note: data are in current year dollars (2019 est.)<br>
-$306.43 billion note: data are in current year dollars (2018 est.)<br>
+$292.44 billion (2020 est.) note: data are in current year dollars<br>
+$302.87 billion (2019 est.) note: data are in current year dollars<br>
+$306.43 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 25%, China 10%, Italy 5%, Netherlands 5% (2019)<br>
@@ -638,9 +641,13 @@ state-run public TV operates 2 national channels supplemented by 16 regional cha
 **Internet country code**<br>
 .pl<br>
 
+**Internet users**<br>
+_total_: 31,456,228 (2020 est.)<br>
+_percent of population_: 83% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 8,369,218 Speeds equal to or grater than 144 kbit/s. (2021)<br>
-_subscriptions per 100 inhabitants_: 22.11 (2021 est.)<br>
+_total_: 8,369,218 (2022)<br>
+_subscriptions per 100 inhabitants_: 22.11 (2022)<br>
 
 ## Transportation
 
@@ -648,7 +655,7 @@ _subscriptions per 100 inhabitants_: 22.11 (2021 est.)<br>
 _number of registered air carriers_: 6 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 169<br>
 _annual passenger traffic on registered air carriers_: 9,277,538 (2018)<br>
-_annual freight traffic on registered air carriers_: 271.49 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 271.49 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 SP<br>
@@ -678,16 +685,16 @@ _under 914 m_: 21 (2021)<br>
 
 **Railways**<br>
 _total_: 19,231 km (2016)<br>
-_standard gauge_: 18,836 km 1.435-m gauge (11,874 km electrified) (2016)<br>
-_broad gauge_: 395 km 1.524-m gauge (2016)<br>
+_standard gauge_: 18,836 km (2016) 1.435-m gauge (11,874 km electrified)<br>
+_broad gauge_: 395 km (2016) 1.524-m gauge<br>
 
 **Roadways**<br>
 _total_: 420,000 km (2016)<br>
-_paved_: 291,000 km (includes 1,492 km of expressways, 1,559 of motorways) (2016)<br>
+_paved_: 291,000 km (2016) (includes 1,492 km of expressways, 1,559 of motorways)<br>
 _unpaved_: 129,000 km (2016)<br>
 
 **Waterways**<br>
-3,997 km (navigable rivers and canals) (2009)<br>
+3,997 km (2009) (navigable rivers and canals)<br>
 
 **Merchant marine**<br>
 _total_: 143<br>
@@ -708,9 +715,9 @@ note - the Polish Armed Forces are organized into a General Staff, an Armed Forc
 **Military expenditures**<br>
 2.3% of GDP (2021 est.)<br>
 2.2% of GDP (2020)<br>
-2% of GDP (approximately $17.5 billion) (2019)<br>
-2% of GDP (approximately $16.8 billion) (2018)<br>
-1.9% of GDP (approximately $14.9 billion) (2017)<br>
+2% of GDP (2019) (approximately $17.5 billion)<br>
+2% of GDP (2018) (approximately $16.8 billion)<br>
+1.9% of GDP (2017) (approximately $14.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 120,000 total active duty personnel (approximately 60,000 Army; 7,000 Navy; 17,000 Air Force; 3,500 Special Forces; 7,500 joint service; 25,000 Territorial Defense Forces) (2021)<br>
@@ -743,7 +750,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 3,094,446 (as of 3 May 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 3,234,036 (as of 9 May 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

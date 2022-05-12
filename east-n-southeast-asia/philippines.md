@@ -74,6 +74,9 @@ population concentrated where good farmlands lie; highest concentrations are nor
 **Geography - note**<br>
 <p><strong>note 1:</strong> for decades, the Philippine archipelago was reported as having 7,107 islands; in 2016, the national mapping authority reported that hundreds of new islands had been discovered and increased the number of islands to 7,641 - though not all of the new islands have been verified; the country is favorably located in relation to many of Southeast Asia's main water bodies: the South China Sea, Philippine Sea, Sulu Sea, Celebes Sea, and Luzon Strait</p> <p><strong>note 2:</strong> Philippines is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Philippines sits astride the Pacific typhoon belt and an average of 9 typhoons make landfall on the islands each year - with about 5 of these being destructive; the country is the most exposed in the world to tropical storms</p><br>
 
+**Map description**<br>
+<p>Philippines map showing the major islands of this archipelago in the western Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -101,7 +104,7 @@ _0-14 years_: 32.42% (male 18,060,976/female 17,331,781)<br>
 _15-24 years_: 19.16% (male 10,680,325/female 10,243,047)<br>
 _25-54 years_: 37.37% (male 20,777,741/female 20,027,153)<br>
 _55-64 years_: 6.18% (male 3,116,485/female 3,633,301)<br>
-_65 years and over_: 4.86% (male 2,155,840/female 3,154,166) (2020 est.)<br>
+_65 years and over_: 4.86% (2020 est.) (male 2,155,840/female 3,154,166)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.2<br>
@@ -200,7 +203,7 @@ _unimproved: total_: total: 6.6% of population (2020 est.)<br>
 120,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-1,600 <1,000 (2020 est.)<br>
+1,600 (2020 est.) <1,000<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -507,9 +510,9 @@ calendar year<br>
 -$8.877 billion (2018 est.)<br>
 
 **Exports**<br>
-$78.82 billion note: data are in current year dollars (2020 est.)<br>
-$94.74 billion note: data are in current year dollars (2019 est.)<br>
-$90.37 billion note: data are in current year dollars (2018 est.)<br>
+$78.82 billion (2020 est.) note: data are in current year dollars<br>
+$94.74 billion (2019 est.) note: data are in current year dollars<br>
+$90.37 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 16%, United States 15%, Japan 13%, Hong Kong 12%, Singapore 7%, Germany 5% (2019)<br>
@@ -518,9 +521,9 @@ China 16%, United States 15%, Japan 13%, Hong Kong 12%, Singapore 7%, Germany 5%
 integrated circuits, office machinery/parts, insulated wiring, semiconductors, transformers (2019)<br>
 
 **Imports**<br>
-$97.58 billion note: data are in current year dollars (2020 est.)<br>
-$131.01 billion note: data are in current year dollars (2019 est.)<br>
-$129.74 billion note: data are in current year dollars (2018 est.)<br>
+$97.58 billion (2020 est.) note: data are in current year dollars<br>
+$131.01 billion (2019 est.) note: data are in current year dollars<br>
+$129.74 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 29%, Japan 8%, South Korea 7%, United States 6%, Singapore 6%, Indonesia 6%, Thailand 5%, Taiwan 5% (2019)<br>
@@ -639,6 +642,10 @@ multiple national private TV and radio networks; multi-channel satellite and cab
 **Internet country code**<br>
 .ph<br>
 
+**Internet users**<br>
+_total_: 54,790,543 (2020 est.)<br>
+_percent of population_: 50% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 7,936,574 (2021)<br>
 _subscriptions per 100 inhabitants_: 7.24 (2021)<br>
@@ -649,7 +656,7 @@ _subscriptions per 100 inhabitants_: 7.24 (2021)<br>
 _number of registered air carriers_: 13 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 200<br>
 _annual passenger traffic on registered air carriers_: 43,080,118 (2018)<br>
-_annual freight traffic on registered air carriers_: 835.9 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 835.9 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 RP<br>
@@ -679,8 +686,8 @@ _under 914 m_: 99 (2021)<br>
 
 **Railways**<br>
 _total_: 77 km (2017)<br>
-_standard gauge_: 49 km 1.435-m gauge (2017)<br>
-_narrow gauge_: 28 km 1.067-m gauge (2017)<br>
+_standard gauge_: 49 km (2017) 1.435-m gauge<br>
+_narrow gauge_: 28 km (2017) 1.067-m gauge<br>
 
 **Roadways**<br>
 _total_: 216,387 km (2014)<br>
@@ -688,7 +695,7 @@ _paved_: 61,093 km (2014)<br>
 _unpaved_: 155,294 km (2014)<br>
 
 **Waterways**<br>
-3,219 km (limited to vessels with draft less than 1.5 m) (2011)<br>
+3,219 km (2011) (limited to vessels with draft less than 1.5 m)<br>
 
 **Merchant marine**<br>
 _total_: 1,805<br>
@@ -706,10 +713,10 @@ note(s) - the Philippine Coast Guard is an armed and uniformed service under the
 
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
-1% of GDP (2020)<br>
-1.1% of GDP (approximately $6.19 billion) (2019)<br>
-1% of GDP (approximately $5.31 billion) (2018)<br>
-1.3% of GDP (approximately $6.21 billion) (2017)<br>
+1.1% of GDP (2020)<br>
+1.1% of GDP (2019) (approximately $6.19 billion)<br>
+1% of GDP (2018) (approximately $5.31 billion)<br>
+1.3% of GDP (2017) (approximately $6.21 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of the Philippines (AFP) have approximately 120,000 active duty personnel (80,000 Army; 25,000 Navy, including about 9,000 marines; 15,000 Air Force) (2021)<br>

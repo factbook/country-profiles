@@ -68,6 +68,9 @@ typhoons, earthquakes, and severe flooding are rare<br>
 **Geography - note**<br>
 close to vital sea lanes through South China Sea linking Indian and Pacific Oceans; two parts physically separated by Malaysia; the eastern part, the Temburong district, is an exclave and is almost an enclave within Malaysia<br>
 
+**Map description**<br>
+<p>Brunei map showing major cities and towns as well as neighboring Malaysia and the North China Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -96,7 +99,7 @@ _0-14 years_: 22.41% (male 53,653/female 50,446)<br>
 _15-24 years_: 16.14% (male 37,394/female 37,559)<br>
 _25-54 years_: 47.21% (male 103,991/female 115,291)<br>
 _55-64 years_: 8.34% (male 19,159/female 19,585)<br>
-_65 years and over_: 5.9% (male 13,333/female 14,067) (2020 est.)<br>
+_65 years and over_: 5.9% (2020 est.) (male 13,333/female 14,067)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 38.7<br>
@@ -454,8 +457,8 @@ $2.021 billion (2017 est.)<br>
 $1.47 billion (2016 est.)<br>
 
 **Exports**<br>
-$7.83 billion note: data are in current year dollars (2019 est.)<br>
-$7.04 billion note: data are in current year dollars (2018 est.)<br>
+$7.83 billion (2019 est.) note: data are in current year dollars<br>
+$7.04 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Japan 34%, Australia 12%, Singapore 10%, India 8%, Malaysia 8%, Thailand 7%, China 6%, South Korea 5% (2019)<br>
@@ -464,8 +467,8 @@ Japan 34%, Australia 12%, Singapore 10%, India 8%, Malaysia 8%, Thailand 7%, Chi
 natural gas, crude petroleum, refined petroleum, industrial alcohols, industrial hydrocarbons (2019)<br>
 
 **Imports**<br>
-$6.81 billion note: data are in current year dollars (2019 est.)<br>
-$5.68 billion note: data are in current year dollars (2018 est.)<br>
+$6.81 billion (2019 est.) note: data are in current year dollars<br>
+$5.68 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Singapore 18%, China 14%, Malaysia 12%, Nigeria 5%, United Arab Emirates 5%, United States 5% (2019)<br>
@@ -583,6 +586,10 @@ state-controlled Radio Television Brunei (RTB) operates 5 channels; 3 Malaysian 
 **Internet country code**<br>
 .bn<br>
 
+**Internet users**<br>
+_total_: 415,609 (2020 est.)<br>
+_percent of population_: 95% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 71,078 (2021)<br>
 _subscriptions per 100 inhabitants_: 16.25 (2021)<br>
@@ -593,7 +600,7 @@ _subscriptions per 100 inhabitants_: 16.25 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 10<br>
 _annual passenger traffic on registered air carriers_: 1,234,455 (2018)<br>
-_annual freight traffic on registered air carriers_: 129.35 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 129.35 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 V8<br>
@@ -617,7 +624,7 @@ _paved_: 2,559 km (2014)<br>
 _unpaved_: 417 km (2014)<br>
 
 **Waterways**<br>
-209 km (navigable by craft drawing less than 1.2 m; the Belait, Brunei, and Tutong Rivers are major transport links) (2012)<br>
+209 km (2012) (navigable by craft drawing less than 1.2 m; the Belait, Brunei, and Tutong Rivers are major transport links)<br>
 
 **Merchant marine**<br>
 _total_: 96<br>
@@ -634,11 +641,11 @@ _LNG terminal(s) (export)_: Lumut<br>
 Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Brunei Air Force (2021)<br>
 
 **Military expenditures**<br>
-2.9% of GDP (2021 est.)<br>
+3.1% of GDP (2021 est.)<br>
 3.7% of GDP (2020 est.)<br>
-3.1% of GDP (approximately $870 million) (2019)<br>
-2.7% of GDP (approximately $720 million) (2018)<br>
-2.8% of GDP (approximately $750 million) (2017)<br>
+3.1% of GDP (2019) (approximately $870 million)<br>
+2.7% of GDP (2018) (approximately $720 million)<br>
+2.8% of GDP (2017) (approximately $750 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,500 total active troops (4,500 Army; 1,000 Navy; 1,000 Air Force) (2021)<br>

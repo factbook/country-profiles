@@ -72,6 +72,9 @@ hurricanes and tropical storms (July to October); periodic droughts<br>
 **Geography - note**<br>
 Antigua has a deeply indented shoreline with many natural harbors and beaches; Barbuda has a large western harbor<br>
 
+**Map description**<br>
+<p>Antigua and Barbuda map showing the two islands situated in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -96,7 +99,7 @@ _0-14 years_: 22.52% (male 11,243/female 10,871)<br>
 _15-24 years_: 16.15% (male 7,891/female 7,961)<br>
 _25-54 years_: 41.68% (male 18,757/female 22,167)<br>
 _55-64 years_: 10.74% (male 4,693/female 5,848)<br>
-_65 years and over_: 8.91% (male 3,736/female 5,012) (2020 est.)<br>
+_65 years and over_: 8.91% (2020 est.) (male 3,736/female 5,012)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.3<br>
@@ -181,10 +184,10 @@ _unimproved: total_: total: 8.1% of population (2017 est.)<br>
 1.1% (2018)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<1,000 (2018)<br>
+(2018) <1,000<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018)<br>
+(2018) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
@@ -435,7 +438,7 @@ _expenditures_: 334 million (2017 est.)<br>
 $2 million (2016 est.)<br>
 
 **Exports**<br>
-$1.15 billion note: data are in current year dollars (2018 est.)<br>
+$1.15 billion (2018 est.) note: data are in current year dollars<br>
 $56.5 million (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -445,7 +448,7 @@ Poland 37%, Suriname 33%, United Arab Emirates 8% (2019)<br>
 ships, refined petroleum, precious/semi-precious metal scraps, rice, corn (2019)<br>
 
 **Imports**<br>
-$1.12 billion note: data are in current year dollars (2018 est.)<br>
+$1.12 billion (2018 est.) note: data are in current year dollars<br>
 $503.4 million (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -559,6 +562,10 @@ state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV st
 **Internet country code**<br>
 .ag<br>
 
+**Internet users**<br>
+_total_: 73,807 (2019 est.)<br>
+_percent of population_: 76% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 8,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 8.17 (2021)<br>
@@ -569,7 +576,7 @@ _subscriptions per 100 inhabitants_: 8.17 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 10<br>
 _annual passenger traffic on registered air carriers_: 580,174 (2018)<br>
-_annual freight traffic on registered air carriers_: 290,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 290,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 V2<br>
@@ -603,6 +610,9 @@ _major seaport(s)_: Saint John's<br>
 **Military and security forces**<br>
 Antigua and Barbuda Defense Force (ABDF): Coast Guard and the Antigua and Barbuda Regiment (2021)<br>
 
+**Military expenditures**<br>
+not available<br>
+
 **Military and security service personnel strengths**<br>
 the Antigua and Barbuda Defense Force (ABDF) has approximately 200 active personnel (2021)<br>
 
@@ -618,7 +628,7 @@ the ABDF's equipment inventory is limited to small arms, light weapons, and soft
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Illicit drugs**<br>
 <p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p><br>

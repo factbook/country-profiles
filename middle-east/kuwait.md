@@ -76,6 +76,9 @@ sudden cloudbursts are common from October to April and bring heavy rain, which 
 **Geography - note**<br>
 strategic location at head of Persian Gulf<br>
 
+**Map description**<br>
+<p>Kuwait map showing major population centers as well as parts of surrounding countries and the Persian Gulf.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 24.29% (male 378,778/female 348,512)<br>
 _15-24 years_: 14.96% (male 245,354/female 202,642)<br>
 _25-54 years_: 52.39% (male 984,813/female 583,632)<br>
 _55-64 years_: 5.43% (male 90,583/female 72,026)<br>
-_65 years and over_: 2.92% (male 38,614/female 48,752) (2020 est.)<br>
+_65 years and over_: 2.92% (2020 est.) (male 38,614/female 48,752)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 32.4<br>
@@ -191,13 +194,13 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2018 est.)<br>
+(2018 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<1000 (2018 est.)<br>
+(2018 est.) <1000<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018 est.)<br>
+(2018 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 37.9% (2016)<br>
@@ -388,8 +391,8 @@ $206.274 billion (2017 est.)<br>
 -1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$49,900 note: data are in 2017 dollars (2019 est.)<br>
-$50,500 note: data are in 2017 dollars (2018 est.)<br>
+$49,900 (2019 est.) note: data are in 2017 dollars<br>
+$50,500 (2018 est.) note: data are in 2017 dollars<br>
 $50,856 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -473,8 +476,8 @@ $7.127 billion (2017 est.)<br>
 -$5.056 billion (2016 est.)<br>
 
 **Exports**<br>
-$72.83 billion note: data are in current year dollars (2019 est.)<br>
-$85.2 billion note: data are in current year dollars (2018 est.)<br>
+$72.83 billion (2019 est.) note: data are in current year dollars<br>
+$85.2 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 20%, South Korea 16%, India 15%, Japan 10%, Taiwan 6%, Vietnam 5% (2019)<br>
@@ -483,8 +486,8 @@ China 20%, South Korea 16%, India 15%, Japan 10%, Taiwan 6%, Vietnam 5% (2019)<b
 crude petroleum, refined petroleum, aircraft, natural gas, industrial hydrocarbon products (2019)<br>
 
 **Imports**<br>
-$59.65 billion note: data are in current year dollars (2019 est.)<br>
-$68.2 billion note: data are in current year dollars (2018 est.)<br>
+$59.65 billion (2019 est.) note: data are in current year dollars<br>
+$68.2 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 14%, United Arab Emirates 12%, United States 10%, Saudi Arabia 6%, Japan 6%, Germany 5%, India 5% (2019)<br>
@@ -601,6 +604,10 @@ state-owned TV broadcaster operates 4 networks and a satellite channel; several 
 **Internet country code**<br>
 .kw<br>
 
+**Internet users**<br>
+_total_: 4,227,857 (2020 est.)<br>
+_percent of population_: 99% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 73,948 (2021)<br>
 _subscriptions per 100 inhabitants_: 1.73 (2021 est.)<br>
@@ -611,7 +618,7 @@ _subscriptions per 100 inhabitants_: 1.73 (2021 est.)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 44<br>
 _annual passenger traffic on registered air carriers_: 6,464,847 (2018)<br>
-_annual freight traffic on registered air carriers_: 392.36 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 392.36 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 9K<br>
@@ -656,10 +663,10 @@ note(s) - the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercis
 
 **Military expenditures**<br>
 6.3% of GDP (2020 est.)<br>
-5.6% of GDP (approximately $10.2 billion) (2019)<br>
-5.1% of GDP (approximately $9.25 billion) (2018)<br>
-5.6% of GDP (approximately $10 billion) (2017)<br>
-5.9% of GDP (approximately $10.6 billion) (2016)<br>
+5.6% of GDP (2019) (approximately $10.2 billion)<br>
+5.1% of GDP (2018) (approximately $9.25 billion)<br>
+5.6% of GDP (2017) (approximately $10 billion)<br>
+5.9% of GDP (2016) (approximately $10.6 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard; note – Army figures include the Kuwait Emiri Guard Authority (estimated 500 personnel) and the 25th Commando Brigade (strength not available) (2021)<br>

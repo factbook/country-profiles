@@ -72,6 +72,9 @@ athough it is the smallest country in land area in Central America, El Salvador 
 **Geography - note**<br>
 smallest Central American country and only one without a coastline on the Caribbean Sea<br>
 
+**Map description**<br>
+<p>El Salvador map showing major cities as well as parts of surrounding countries and the North Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -99,7 +102,7 @@ _0-14 years_: 25.83% (male 857,003/female 817,336)<br>
 _15-24 years_: 18.82% (male 619,368/female 600,501)<br>
 _25-54 years_: 40.51% (male 1,221,545/female 1,404,163)<br>
 _55-64 years_: 7.23% (male 198,029/female 270,461)<br>
-_65 years and over_: 7.6% (male 214,717/female 277,979) (2020 est.)<br>
+_65 years and over_: 7.6% (2020 est.) (male 214,717/female 277,979)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.4<br>
@@ -198,7 +201,7 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 25,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<1000 (2020 est.)<br>
+(2020 est.) <1000<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -492,9 +495,9 @@ calendar year<br>
 -$500 million (2016 est.)<br>
 
 **Exports**<br>
-$6.29 billion note: data are in current year dollars (2020 est.)<br>
-$7.98 billion note: data are in current year dollars (2019 est.)<br>
-$7.56 billion note: data are in current year dollars (2018 est.)<br>
+$6.29 billion (2020 est.) note: data are in current year dollars<br>
+$7.98 billion (2019 est.) note: data are in current year dollars<br>
+$7.56 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 40%, Guatemala 15%, Honduras 15%, Nicaragua 6% (2019)<br>
@@ -503,9 +506,9 @@ United States 40%, Guatemala 15%, Honduras 15%, Nicaragua 6% (2019)<br>
 textiles and apparel, electrical capacitors, plastic lids, raw sugar, toilet paper (2019)<br>
 
 **Imports**<br>
-$10.82 billion note: data are in current year dollars (2020 est.)<br>
-$12.45 billion note: data are in current year dollars (2019 est.)<br>
-$12.32 billion note: data are in current year dollars (2018 est.)<br>
+$10.82 billion (2020 est.) note: data are in current year dollars<br>
+$12.45 billion (2019 est.) note: data are in current year dollars<br>
+$12.32 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 30%, China 14%, Guatemala 13%, Mexico 8%, Honduras 6% (2019)<br>
@@ -620,6 +623,10 @@ multiple privately owned national terrestrial TV networks, supplemented by cable
 **Internet country code**<br>
 .sv<br>
 
+**Internet users**<br>
+_total_: 3,567,410 (2020 est.)<br>
+_percent of population_: 55% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 586,000 (2021)<br>
 _subscriptions per 100 inhabitants_: 9.03 (2021 est.)<br>
@@ -630,7 +637,7 @@ _subscriptions per 100 inhabitants_: 9.03 (2021 est.)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 13<br>
 _annual passenger traffic on registered air carriers_: 2,545,105 (2018)<br>
-_annual freight traffic on registered air carriers_: 10.73 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 10.73 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 YS<br>
@@ -656,7 +663,7 @@ _under 914 m_: 51 (2021)<br>
 
 **Railways**<br>
 _total_: 13 km (2014)<br>
-_narrow gauge_: 12.5 km 0.914-m gauge (2014)<br>
+_narrow gauge_: 12.5 km (2014) 0.914-m gauge<br>
 
 **Roadways**<br>
 _total_: 9,012 km (2017)<br>
@@ -664,7 +671,7 @@ _paved_: 5,341 km (2017)<br>
 _unpaved_: 3,671 km (2017)<br>
 
 **Waterways**<br>
-(Rio Lempa River is partially navigable by small craft) (2011)<br>
+(2011) (Rio Lempa River is partially navigable by small craft)<br>
 
 **Merchant marine**<br>
 _total_: 2<br>
@@ -682,10 +689,10 @@ note - in 2016, El Salvador created a 1,000-strong combined Army commando and sp
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>
-1.2% of GDP (approximately $570 million) (2019)<br>
-1.1% of GDP (approximately $540 million) (2018)<br>
-1% of GDP (approximately $500 million) (2017)<br>
-1% of GDP (approximately $470 million) (2016)<br>
+1.2% of GDP (2019) (approximately $570 million)<br>
+1.1% of GDP (2018) (approximately $540 million)<br>
+1% of GDP (2017) (approximately $500 million)<br>
+1% of GDP (2016) (approximately $470 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 21,000 active troops (17,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>
@@ -708,6 +715,9 @@ note - as of 2016, women made up about 6% of the active duty military<br>
 
 **Disputes - international**<br>
 <p>International Court of Justice (ICJ) ruled on the delimitation of "bolsones" (disputed areas) along the El Salvador-Honduras boundary, in 1992, with final agreement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca advocating Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not identified in the ICJ decision, off Honduras in the Gulf of Fonseca</p><br>
+
+**Refugees and internally displaced persons**<br>
+_IDPs_: 71,500 (2021)<br>
 
 **Illicit drugs**<br>
 <p>a transit country for illicit drugs destined for the United States  </p><br>

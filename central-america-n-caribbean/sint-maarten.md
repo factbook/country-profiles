@@ -58,7 +58,10 @@ most populous areas are Lower Prince's Quarter (north of Philipsburg), followed 
 <p>subject to hurricanes from July to November</p><br>
 
 **Geography - note**<br>
-<p>the northern border is shared with the French overseas collectivity of Saint Martin; together, these two entities make up the smallest landmass in the world shared by two self-governing states</p><br>
+<p><strong>note 1:</strong> the northern border is shared with the French overseas collectivity of Saint Martin; together, these two entities make up the smallest landmass in the world shared by two self-governing states<br><br><strong>note 2:</strong> Simpson Bay Lagoon (aka as Simson Bay Lagoon or The Great Pond) is one of the largest inland lagoons in the West Indies; the border between the French and Dutch halves of the island of Saint Martin runs across the center of the lagoon, which is shared by both of the island's entities</p><br>
+
+**Map description**<br>
+<p>Sint Maarten map showing some of the major features of this part of the Kingdom of the Netherlands in the Caribbean Sea.</p> <p> </p><br>
 
 ## People and Society
 
@@ -80,7 +83,7 @@ _0-14 years_: 18.64% (male 4,242/female 3,932)<br>
 _15-24 years_: 13.26% (male 2,967/female 2,849)<br>
 _25-54 years_: 39.08% (male 8,417/female 8,717)<br>
 _55-64 years_: 17.47% (male 3,638/female 4,020)<br>
-_65 years and over_: 11.55% (male 2,385/female 2,680) (2020 est.)<br>
+_65 years and over_: 11.55% (2020 est.) (male 2,385/female 2,680)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -322,15 +325,15 @@ _services_: 83.7% (2008 est.)<br>
 10.6% (2008 est.)<br>
 
 **Exports**<br>
-$1.09 billion note: data are in current year dollars (2019 est.)<br>
-$800 million note: data are in current year dollars (2018 est.)<br>
+$1.09 billion (2019 est.) note: data are in current year dollars<br>
+$800 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - commodities**<br>
 sugar<br>
 
 **Imports**<br>
-$1.23 billion note: data are in current year dollars (2019 est.)<br>
-$1.22 billion note: data are in current year dollars (2018 est.)<br>
+$1.23 billion (2019 est.) note: data are in current year dollars<br>
+$1.22 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exchange rates**<br>
 Netherlands Antillean guilders (ANG) per US dollar -<br>

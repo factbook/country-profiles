@@ -81,6 +81,9 @@ seasonal flooding<br>
 **Geography - note**<br>
 about 70% of the population lives in Brazzaville, Pointe-Noire, or along the railroad between them<br>
 
+**Map description**<br>
+<p>Republic of the Congo map showing major cities as well as parts of surrounding countries and the South Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ _0-14 years_: 41.57% (male 1,110,484/female 1,089,732)<br>
 _15-24 years_: 17.14% (male 454,981/female 452,204)<br>
 _25-54 years_: 33.5% (male 886,743/female 886,312)<br>
 _55-64 years_: 4.59% (male 125,207/female 117,810)<br>
-_65 years and over_: 3.2% (male 75,921/female 93,676) (2020 est.)<br>
+_65 years and over_: 3.2% (2020 est.) (male 75,921/female 93,676)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 78.7<br>
@@ -621,7 +624,7 @@ _electrification - rural areas_: 36% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 17,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 5 million (2018 est.)<br>
@@ -639,9 +642,13 @@ _international_: country code - 242; WACS submarine cables to Europe and Western
 **Internet country code**<br>
 .cg<br>
 
+**Internet users**<br>
+_total_: 484,245 (2019 est.)<br>
+_percent of population_: 9% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.02 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.02 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -649,7 +656,7 @@ _subscriptions per 100 inhabitants_: 0.02 less than 1 (2021 est.)<br>
 _number of registered air carriers_: 3 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 12<br>
 _annual passenger traffic on registered air carriers_: 333,899 (2018)<br>
-_annual freight traffic on registered air carriers_: 4.6 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 4.6 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 TN<br>
@@ -674,7 +681,7 @@ _under 914 m_: 2 (2021)<br>
 
 **Railways**<br>
 _total_: 510 km (2014)<br>
-_narrow gauge_: 510 km 1.067-m gauge (2014)<br>
+_narrow gauge_: 510 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
 _total_: 23,324 km (2017)<br>
@@ -683,7 +690,7 @@ _unpaved_: 20,213 km (2017)<br>
 <strong>note:</strong> road network in Congo is composed of 23,324 km of which 17,000 km are classified as national, departmental, and routes of local interest: 6,324 km are non-classified routes<br>
 
 **Waterways**<br>
-1,120 km (commercially navigable on Congo and Oubangui Rivers above Brazzaville; there are many ferries across the river to Kinshasa; the Congo south of Brazzaville-Kinshasa to the coast is not navigable because of rapids, necessitating a rail connection to Pointe-Noire; other rivers are used for local traffic only) (2011)<br>
+1,120 km (2011) (commercially navigable on Congo and Oubangui Rivers above Brazzaville; there are many ferries across the river to Kinshasa; the Congo south of Brazzaville-Kinshasa to the coast is not navigable because of rapids, necessitating a rail connection to Pointe-Noire; other rivers are used for local traffic only)<br>
 
 **Merchant marine**<br>
 _total_: 11<br>
@@ -702,10 +709,10 @@ Congolese Armed Forces (Forces Armees Congolaises, FAC): Army (Armee de Terre), 
 
 **Military expenditures**<br>
 3.2% of GDP (2020 est.)<br>
-2.3% of GDP (approximately $350 million) (2019 est.)<br>
-2.1% of GDP (approximately $330 million) (2018 est.)<br>
-3.6% of GDP (approximately $580 million) (2017 est.)<br>
-4.2% of GDP (approximately $690 million) (2016 est.)<br>
+2.3% of GDP (2019 est.) (approximately $350 million)<br>
+2.1% of GDP (2018 est.) (approximately $330 million)<br>
+3.6% of GDP (2017 est.) (approximately $580 million)<br>
+4.2% of GDP (2016 est.) (approximately $690 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Congolese Armed Forces (FAC) have approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 2,000 Gendarmerie) (2021)<br>

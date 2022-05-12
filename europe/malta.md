@@ -71,6 +71,9 @@ occasional droughts<br>
 **Geography - note**<br>
 the country comprises an archipelago, with only the three largest islands (Malta, Ghawdex or Gozo, and Kemmuna or Comino) inhabited; numerous bays provide good harbors; Malta and Tunisia are discussing oil exploration on the continental shelf between their countries, although no commercially viable reserves have been found as of 2017<br>
 
+**Map description**<br>
+<p>Malta map showing the major population centers of this archipelagic country in the Mediterranean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 14.38% (male 33,934/female 31,823)<br>
 _15-24 years_: 10.33% (male 24,445/female 22,811)<br>
 _25-54 years_: 41.1% (male 97,685/female 90,264)<br>
 _55-64 years_: 12.88% (male 29,533/female 29,353)<br>
-_65 years and over_: 21.3% (male 44,644/female 52,775) (2020 est.)<br>
+_65 years and over_: 21.3% (2020 est.) (male 44,644/female 52,775)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.5<br>
@@ -190,10 +193,10 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 0.1% (2016 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<500 (2016 est.)<br>
+(2016 est.) <500<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2016 est.)<br>
+(2016 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 28.9% (2016)<br>
@@ -475,9 +478,9 @@ $1.561 billion (2019 est.)<br>
 $1.55 billion (2018 est.)<br>
 
 **Exports**<br>
-$19.04 billion note: data are in current year dollars (2020 est.)<br>
-$20.76 billion note: data are in current year dollars (2019 est.)<br>
-$20.19 billion note: data are in current year dollars (2018 est.)<br>
+$19.04 billion (2020 est.) note: data are in current year dollars<br>
+$20.76 billion (2019 est.) note: data are in current year dollars<br>
+$20.19 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 12%, France 9%, Italy 9% (2019)<br>
@@ -486,9 +489,9 @@ Germany 12%, France 9%, Italy 9% (2019)<br>
 integrated circuits, refined petroleum, packaged medicines, children's toys and stuffed animals, postage stamps&nbsp; (2019)<br>
 
 **Imports**<br>
-$18.01 billion note: data are in current year dollars (2020 est.)<br>
-$18.45 billion note: data are in current year dollars (2019 est.)<br>
-$17.87 billion note: data are in current year dollars (2018 est.)<br>
+$18.01 billion (2020 est.) note: data are in current year dollars<br>
+$18.45 billion (2019 est.) note: data are in current year dollars<br>
+$17.87 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Russia 22%, Italy 12%, United Kingdom 11%, Germany 6%, Turkey 5%, France 5%, China 5%, South Korea 5% (2019)<br>
@@ -605,6 +608,10 @@ _international_: country code - 356; landing points for the Malta-Gozo Cable, VM
 **Internet country code**<br>
 .mt<br>
 
+**Internet users**<br>
+_total_: 448,339 (2020 est.)<br>
+_percent of population_: 87% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 213,419 (2021)<br>
 _subscriptions per 100 inhabitants_: 48.33 (2021)<br>
@@ -615,7 +622,7 @@ _subscriptions per 100 inhabitants_: 48.33 (2021)<br>
 _number of registered air carriers_: 13 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 180<br>
 _annual passenger traffic on registered air carriers_: 2,576,898 (2018)<br>
-_annual freight traffic on registered air carriers_: 5.14 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 5.14 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 9H<br>
@@ -653,9 +660,9 @@ Armed Forces of Malta (AFM, includes land, maritime, and air elements, plus a Vo
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>
 0.6% of GDP (2020)<br>
-0.5% of GDP (approximately $110 million) (2019)<br>
-0.5% of GDP (approximately $110 million) (2018)<br>
-0.5% of GDP (approximately $110 million) (2017)<br>
+0.5% of GDP (2019) (approximately $110 million)<br>
+0.5% of GDP (2018) (approximately $110 million)<br>
+0.5% of GDP (2017) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 active duty personnel (2021)<br>

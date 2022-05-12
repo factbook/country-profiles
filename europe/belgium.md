@@ -76,6 +76,9 @@ flooding is a threat along rivers and in areas of reclaimed coastal land, protec
 **Geography - note**<br>
 crossroads of Western Europe; most West European capitals are within 1,000 km of Brussels, the seat of both the European Union and NATO<br>
 
+**Map description**<br>
+<p>Belgium map showing major cities as well as parts of surrounding countries and the North Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -100,7 +103,7 @@ _0-14 years_: 17.22% (male 1,033,383/female 984,624)<br>
 _15-24 years_: 11.2% (male 670,724/female 642,145)<br>
 _25-54 years_: 39.23% (male 2,319,777/female 2,278,450)<br>
 _55-64 years_: 13.14% (male 764,902/female 775,454)<br>
-_65 years and over_: 19.21% (male 988,148/female 1,263,109) (2020 est.)<br>
+_65 years and over_: 19.21% (2020 est.) (male 988,148/female 1,263,109)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57<br>
@@ -480,9 +483,9 @@ $1.843 billion (2019 est.)<br>
 -$4.135 billion (2018 est.)<br>
 
 **Exports**<br>
-$414.79 billion note: data are in current year dollars (2020 est.)<br>
-$436.3 billion note: data are in current year dollars (2019 est.)<br>
-$451.25 billion note: data are in current year dollars (2018 est.)<br>
+$414.79 billion (2020 est.) note: data are in current year dollars<br>
+$436.3 billion (2019 est.) note: data are in current year dollars<br>
+$451.25 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 17%, France 14%, Netherlands 13%, United Kingdom 8%, United States 6%, Italy 5% (2019)<br>
@@ -491,9 +494,9 @@ Germany 17%, France 14%, Netherlands 13%, United Kingdom 8%, United States 6%, I
 cars and vehicle parts, refined petroleum, packaged medicines, medical cultures/vaccines, diamonds, natural gas (2019)<br>
 
 **Imports**<br>
-$412.85 billion note: data are in current year dollars (2020 est.)<br>
-$433.04 billion note: data are in current year dollars (2019 est.)<br>
-$452.53 billion note: data are in current year dollars (2018 est.)<br>
+$412.85 billion (2020 est.) note: data are in current year dollars<br>
+$433.04 billion (2019 est.) note: data are in current year dollars<br>
+$452.53 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Netherlands 16%, Germany 13%, France 10%, United States 8%, Ireland 5%, China 5% (2019)<br>
@@ -610,6 +613,10 @@ a segmented market with the three major communities (Flemish, French, and German
 **Internet country code**<br>
 .be<br>
 
+**Internet users**<br>
+_total_: 10,620,701 (2020 est.)<br>
+_percent of population_: 92% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 4,734,210 (2021)<br>
 _subscriptions per 100 inhabitants_: 40.85 (2021)<br>
@@ -620,7 +627,7 @@ _subscriptions per 100 inhabitants_: 40.85 (2021)<br>
 _number of registered air carriers_: 7 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 117<br>
 _annual passenger traffic on registered air carriers_: 13,639,487 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,285,340,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1,285,340,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 OO<br>
@@ -648,14 +655,14 @@ _under 914 m_: 15 (2021)<br>
 
 **Railways**<br>
 _total_: 3,592 km (2014)<br>
-_standard gauge_: 3,592 km 1.435-m gauge (2,960 km electrified) (2014)<br>
+_standard gauge_: 3,592 km (2014) 1.435-m gauge (2,960 km electrified)<br>
 
 **Roadways**<br>
 _total_: 118,414 km (2015)<br>
-_paved_: 118,414 km (includes 1,747 km of expressways) (2015)<br>
+_paved_: 118,414 km (2015) (includes 1,747 km of expressways)<br>
 
 **Waterways**<br>
-2,043 km (1,528 km in regular commercial use) (2012)<br>
+2,043 km (2012) (1,528 km in regular commercial use)<br>
 
 **Merchant marine**<br>
 _total_: 201<br>
@@ -676,12 +683,12 @@ Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, M
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
 1% of GDP (2020)<br>
-0.9% of GDP (approximately $5.54 billion) (2019)<br>
-0.9% of GDP (approximately $5.43 billion) (2018)<br>
-0.9% of GDP (approximately $5.2 billion) (2017)<br>
+0.9% of GDP (2019) (approximately $5.54 billion)<br>
+0.9% of GDP (2018) (approximately $5.43 billion)<br>
+0.9% of GDP (2017) (approximately $5.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Belgian Armed Forces have approximately 26,000 active duty personnel (11,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2020)<br>
+the Belgian Armed Forces have approximately 26,000 active duty personnel (11,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Belgian Armed Forces have a mix of weapons systems from European countries, Israel, and the US; since 2010, several European nations are the leading suppliers of armaments; Belgium has an export-focused defense industry that focuses on components and subcontracting (2021)<br>
@@ -694,7 +701,7 @@ note - in 2020, women comprised about 9% of the military's full-time personnel<b
 125 France (contributing member of EuroCorps); 100 Mali (EUTM/MINUSMA); 200 Lithuania (NATO) (2021)<br>
 
 **Military - note**<br>
-Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries<br><br></p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
+Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Belgium hosts the NATO headquarters in Brussels<br> <p>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries<br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020</p><br>
 
 ## Terrorism
 
@@ -705,7 +712,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020)<br>

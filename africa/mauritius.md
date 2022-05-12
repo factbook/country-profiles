@@ -72,6 +72,9 @@ cyclones (November to April); almost completely surrounded by reefs that may pos
 **Geography - note**<br>
 the main island, from which the country derives its name, is of volcanic origin and is almost entirely surrounded by coral reefs; former home of the dodo, a large flightless bird related to pigeons, driven to extinction by the end of the 17th century through a combination of hunting and the introduction of predatory species<br>
 
+**Map description**<br>
+<p>Mauritius map showing major population centers on this island nation in the Indian Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -99,7 +102,7 @@ _0-14 years_: 19.44% (male 137,010/female 131,113)<br>
 _15-24 years_: 14.06% (male 98,480/female 95,472)<br>
 _25-54 years_: 43.11% (male 297,527/female 297,158)<br>
 _55-64 years_: 12.31% (male 80,952/female 88,785)<br>
-_65 years and over_: 11.08% (male 63,230/female 89,638) (2020 est.)<br>
+_65 years and over_: 11.08% (2020 est.) (male 63,230/female 89,638)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 41.5<br>
@@ -185,7 +188,7 @@ _improved: rural_: rural: NA<br>
 _improved: total_: total: NA<br>
 _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA (2020 est.)<br>
+_unimproved: total_: total: (2020 est.) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 1.7% (2020)<br>
@@ -194,7 +197,7 @@ _unimproved: total_: total: NA (2020 est.)<br>
 14,000 (2020)<br>
 
 **HIV/AIDS - deaths**<br>
-<1000 (2020)<br>
+(2020) <1000<br>
 
 **Obesity - adult prevalence rate**<br>
 10.8% (2016)<br>
@@ -473,8 +476,8 @@ _expenditures_: 3.038 billion (2017 est.)<br>
 -$531 million (2016 est.)<br>
 
 **Exports**<br>
-$5.17 billion note: data are in current year dollars (2019 est.)<br>
-$5.59 billion note: data are in current year dollars (2018 est.)<br>
+$5.17 billion (2019 est.) note: data are in current year dollars<br>
+$5.59 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 France 10%, South Africa 10%, United States 10%, United Kingdom 8%, Zambia 7%, Madagascar 6% (2019)<br>
@@ -483,8 +486,8 @@ France 10%, South Africa 10%, United States 10%, United Kingdom 8%, Zambia 7%, M
 fish products, raw sugar, clothing and apparel, diamonds, refined petroleum (2019)<br>
 
 **Imports**<br>
-$7.41 billion note: data are in current year dollars (2019 est.)<br>
-$7.53 billion note: data are in current year dollars (2018 est.)<br>
+$7.41 billion (2019 est.) note: data are in current year dollars<br>
+$7.53 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 15%, India 13%, France 10%, South Africa 8%, United Arab Emirates 7% (2019)<br>
@@ -601,6 +604,10 @@ the government maintains control over TV broadcasting through the Mauritius Broa
 **Internet country code**<br>
 .mu<br>
 
+**Internet users**<br>
+_total_: 822,731 (2020 est.)<br>
+_percent of population_: 65% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 323,200 (2021)<br>
 _subscriptions per 100 inhabitants_: 25.41 (2021)<br>
@@ -611,7 +618,7 @@ _subscriptions per 100 inhabitants_: 25.41 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 13<br>
 _annual passenger traffic on registered air carriers_: 1,745,291 (2018)<br>
-_annual freight traffic on registered air carriers_: 233.72 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 233.72 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 3B<br>
@@ -631,7 +638,7 @@ _under 914 m_: 1 (2021)<br>
 
 **Roadways**<br>
 _total_: 2,428 km (2015)<br>
-_paved_: 2,379 km (includes 99 km of expressways) (2015)<br>
+_paved_: 2,379 km (2015) (includes 99 km of expressways)<br>
 _unpaved_: 49 km (2015)<br>
 
 **Merchant marine**<br>
@@ -648,10 +655,10 @@ no regular military forces; the Mauritius Police Force (MPF) includes a paramili
 
 **Military expenditures**<br>
 0.2% of GDP (2020 est.)<br>
-0.3% of GDP (approximately $80 million) (2019 est.)<br>
-0.3% of GDP (approximately $80 million) (2018 est.)<br>
-0.3% of GDP (approximately $80 million) (2017 est.)<br>
-0.3% of GDP (approximately $80 million) (2016 est.)<br>
+0.3% of GDP (2019 est.) (approximately $80 million)<br>
+0.3% of GDP (2018 est.) (approximately $80 million)<br>
+0.3% of GDP (2017 est.) (approximately $80 million)<br>
+0.3% of GDP (2016 est.) (approximately $80 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,700 Special Mobile Force; approximately 800 National Coast Guard (2021)<br>

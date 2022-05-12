@@ -77,6 +77,9 @@ _Fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq k
 **Geography - note**<br>
 <p><strong>note 1:</strong> the longest north-south trending country in the world, extending across 39 degrees of latitude; strategic location relative to sea lanes between the Atlantic and Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage)</p> <p><strong>note 2:</strong> Chile is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Atacama Desert - the driest desert in the world - spreads across the northern part of the country; Ojos del Salado (6,893 m) in the Atacama Desert is the highest active volcano in the world, Chile's tallest mountain, and the second highest in the Western Hemisphere and the Southern Hemisphere - its small crater lake (at 6,390 m) is the world's highest lake </p><br>
 
+**Map description**<br>
+<p>Chile map showing major cities as well as parts of surrounding countries and the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -104,7 +107,7 @@ _0-14 years_: 19.79% (male 1,836,240/female 1,763,124)<br>
 _15-24 years_: 13.84% (male 1,283,710/female 1,233,238)<br>
 _25-54 years_: 42.58% (male 3,882,405/female 3,860,700)<br>
 _55-64 years_: 11.98% (male 1,034,049/female 1,145,022)<br>
-_65 years and over_: 11.81% (male 902,392/female 1,245,890) (2020 est.)<br>
+_65 years and over_: 11.81% (2020 est.) (male 902,392/female 1,245,890)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.9<br>
@@ -199,7 +202,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 77,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<1000 (2018)<br>
+(2018) <1000<br>
 
 **Obesity - adult prevalence rate**<br>
 28% (2016)<br>
@@ -350,7 +353,7 @@ Approve Dignity (Apruebo Dignidad) coalition or AD  - (includes PC, RD, and CS)
 APEC, BIS, CAN (associate), CD, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OECD (enhanced engagement), OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina, UNMOGIP, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Oscar Alfonso Sebastian SILVA Navarro (since 17 September 2018)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Beatriz DE LA FUENTE FUENTES (since 8 March 2022)<br>
 _chancery_: 1732 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 785-1746<br>
 _FAX_: [1] (202) 887-5579<br>
@@ -488,9 +491,9 @@ calendar year<br>
 -$10.601 billion (2018 est.)<br>
 
 **Exports**<br>
-$79.8 billion note: data are in current year dollars (2020 est.)<br>
-$78.02 billion note: data are in current year dollars (2019 est.)<br>
-$84.65 billion note: data are in current year dollars (2018 est.)<br>
+$79.8 billion (2020 est.) note: data are in current year dollars<br>
+$78.02 billion (2019 est.) note: data are in current year dollars<br>
+$84.65 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 32%, United States 14%, Japan 9%, South Korea 7% (2019)<br>
@@ -499,9 +502,9 @@ China 32%, United States 14%, Japan 9%, South Korea 7% (2019)<br>
 copper, wood pulp, fish fillets, pitted fruits, wine (2019)<br>
 
 **Imports**<br>
-$66.43 billion note: data are in current year dollars (2020 est.)<br>
-$80.17 billion note: data are in current year dollars (2019 est.)<br>
-$85.11 billion note: data are in current year dollars (2018 est.)<br>
+$66.43 billion (2020 est.) note: data are in current year dollars<br>
+$80.17 billion (2019 est.) note: data are in current year dollars<br>
+$85.11 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 24%, United States 20%, Brazil 8%, Germany 5%, Argentina 5% (2019)<br>
@@ -618,6 +621,10 @@ national and local terrestrial TV channels, coupled with extensive cable TV netw
 **Internet country code**<br>
 .cl<br>
 
+**Internet users**<br>
+_total_: 16,822,264 (2020 est.)<br>
+_percent of population_: 88% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 3,763,826 (2021)<br>
 _subscriptions per 100 inhabitants_: 19.69 (2021)<br>
@@ -628,7 +635,7 @@ _subscriptions per 100 inhabitants_: 19.69 (2021)<br>
 _number of registered air carriers_: 9 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 173<br>
 _annual passenger traffic on registered air carriers_: 19,517,185 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,226,440,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1,226,440,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 CC<br>
@@ -659,8 +666,8 @@ _under 914 m_: 319 (2021)<br>
 
 **Railways**<br>
 _total_: 7,282 km (2014)<br>
-_narrow gauge_: 3,853.5 km 1.000-m gauge (2014)<br>
-_broad gauge_: 3,428 km 1.676-m gauge (1,691 km electrified) (2014)<br>
+_narrow gauge_: 3,853.5 km (2014) 1.000-m gauge<br>
+_broad gauge_: 3,428 km (2014) 1.676-m gauge (1,691 km electrified)<br>
 
 **Roadways**<br>
 _total_: 77,801 km (2016)<br>
@@ -682,10 +689,10 @@ note - Carabineros de Chile are responsible to both the Ministry of Defense and 
 
 **Military expenditures**<br>
 2% of GDP (2020 est.)<br>
-1.9% of GDP (approximately $7.33 billion) (2019)<br>
-1.9% of GDP (approximately $7.2 billion) (2018)<br>
-2% of GDP (approximately $7.1 billion) (2017)<br>
-2% of GDP (approximately $6.9 billion) (2016)<br>
+1.9% of GDP (2019) (approximately $7.33 billion)<br>
+1.9% of GDP (2018) (approximately $7.2 billion)<br>
+2% of GDP (2017) (approximately $7.1 billion)<br>
+2% of GDP (2016) (approximately $6.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 75,000 active armed forces personnel (45,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2021)<br>

@@ -49,6 +49,9 @@ ice islands occasionally break away from northern Ellesmere Island; icebergs cal
 **Geography - note**<br>
 major chokepoint is the southern Chukchi Sea (northern access to the Pacific Ocean via the Bering Strait); strategic location between North America and Russia; shortest marine link between the extremes of eastern and western Russia; floating research stations operated by the US and Russia; maximum snow cover in March or April about 20 to 50 centimeters over the frozen ocean; snow cover lasts about 10 months<br>
 
+**Map description**<br>
+<p>Arctic Ocean map centered on the North Pole showing the major sea routes along the outer edges of the Ocean.</p><br>
+
 ## People and Society
 
 ## Environment

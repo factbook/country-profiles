@@ -60,7 +60,7 @@ _forest_: 78.9% (2018 est.)<br>
 _other_: 17.2% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km NA (2012)<br>
+0 sq km (2012) NA<br>
 
 **Population distribution**<br>
 most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port<br>
@@ -70,6 +70,9 @@ most of the population lives along the coastal regions; about one in five live i
 
 **Geography - note**<br>
 strategic location on sea routes between the South Pacific Ocean, the Solomon Sea, and the Coral Sea; Rennell Island, the southernmost in the Solomon Islands chain, is one of the world&rsquo;s largest raised coral atolls; the island&rsquo;s Lake Tegano, formerly a lagoon on the atoll, is the largest lake in the insular Pacific (15,500 hectares)<br>
+
+**Map description**<br>
+Solomon Islands map showing the major islands of this archipelagic country in the South Pacific Ocean.<br>
 
 ## People and Society
 
@@ -94,7 +97,7 @@ _0-14 years_: 32.99% (male 116,397/female 109,604)<br>
 _15-24 years_: 19.82% (male 69,914/female 65,874)<br>
 _25-54 years_: 37.64% (male 131,201/female 126,681)<br>
 _55-64 years_: 5.04% (male 17,844/female 16,704)<br>
-_65 years and over_: 4.51% (male 14,461/female 16,417) (2020 est.)<br>
+_65 years and over_: 4.51% (2020 est.) (male 14,461/female 16,417)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 77.6<br>
@@ -458,9 +461,9 @@ calendar year<br>
 -$49 million (2016 est.)<br>
 
 **Exports**<br>
-$430 million note: data are in current year dollars (2020 est.)<br>
-$590 million note: data are in current year dollars (2019 est.)<br>
-$680 million note: data are in current year dollars (2018 est.)<br>
+$430 million (2020 est.) note: data are in current year dollars<br>
+$590 million (2019 est.) note: data are in current year dollars<br>
+$680 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 65%, Italy 9%, India 6% (2019)<br>
@@ -469,9 +472,9 @@ China 65%, Italy 9%, India 6% (2019)<br>
 lumber, fish, aluminum, palm oil, cocoa beans (2019)<br>
 
 **Imports**<br>
-$560 million note: data are in current year dollars (2020 est.)<br>
-$750 million note: data are in current year dollars (2019 est.)<br>
-$750 million note: data are in current year dollars (2018 est.)<br>
+$560 million (2020 est.) note: data are in current year dollars<br>
+$750 million (2019 est.) note: data are in current year dollars<br>
+$750 million (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 24%, Australia 13%, South Korea 12%, Singapore 12%, Malaysia 10% (2019)<br>
@@ -590,9 +593,13 @@ Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; m
 **Internet country code**<br>
 .sb<br>
 
+**Internet users**<br>
+_total_: 80,379 (2019 est.)<br>
+_percent of population_: 12% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.15 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.15 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -600,7 +607,7 @@ _subscriptions per 100 inhabitants_: 0.15 less than 1 (2021 est.)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 6<br>
 _annual passenger traffic on registered air carriers_: 427,806 (2018)<br>
-_annual freight traffic on registered air carriers_: 3.84 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 3.84 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 H4<br>

@@ -52,12 +52,7 @@ _Ten Cave Superlatives_: compiled from "Geography - note(s)" under various count
 _highest point_: Mount Everest 8,849 m<br>
 _lowest point_: Denman Glacier (Antarctica) more than -3,500 m (in the oceanic realm, Challenger Deep in the Mariana Trench is the lowest point, lying -10,924 m below the surface of the Pacific Ocean)<br>
 _mean elevation_: 840 m<br>
-<strong>top ten highest mountains (measured from sea level):</strong> Mount Everest (China-Nepal) 8,849 m; K2 (Pakistan) 8,611 m; Kanchenjunga (India-Nepal) 8,598 m; Lhotse (Nepal) 8,516 m; Makalu (China-Nepal) 8,463 m; Cho Oyu (China-Nepal) 8,201 m; Dhaulagiri (Nepal) 8,167 m; Manaslu (Nepal) 8,163 m; Nanga Parbat (Pakistan) 8,125 m; Anapurna (Nepal) 8,091 m; <strong>note -</strong> Mauna Kea (United States) is the world's tallest mountain as measured from base to summit; the peak of this volcanic colossus lies on the island of Hawaii, but its base begins more than 70 km offshore and at a depth of about 6,000 m; total height estimates range from 9,966 m to 10,203 m
-<br><br><strong>top ten highest island peaks:</strong> Puncak Jaya (New Guinea) 4,884 m (Indonesia)*; Mauna Kea (Hawaii) 4,207 m (United States); Gunung Kinabalu (Borneo) 4,095 m (Malaysia)*; Yu Shan (Taiwan) 3,952 (Taiwan)*; Mount Kerinci (Sumatra) 3,805 m (Indonesia); Mount Erebus (Ross Island) 3,794 (Antarctica); Mount Fuji (Honshu) 3,776 m (Japan)*; Mount Rinjani (Lombok) 3,726 m (Indonesia); Aoraki-Mount Cook (South Island) 3,724 m (New Zealand)*; Pico de Teide (Tenerife) 3,718 m (Spain)*; <strong>note -</strong> * indicates the highest peak for that Factbook entry
-<br><br><strong>highest point on each continent:</strong> Asia - Mount Everest (China-Nepal) 8,849 m; South America - Cerro Aconcagua (Argentina) 6,960 m; North America - Denali (Mount McKinley) (United States) 6,190 m; Africa - Kilimanjaro (Tanzania) 5,895 m; Europe - El'brus (Russia) 5,633 m; Antarctica - Vinson Massif 4,897 m; Australia - Mount Kosciuszko 2,229 m
-<br><br><strong>highest capital on each continent:</strong> South America - La Paz (Bolivia) 3,640 m; Africa - Addis Ababa (Ethiopia) 2,355 m; Asia - Thimphu (Bhutan) 2,334 m; North America - Mexico City (Mexico) 2,240 m; Europe - Andorra la Vella (Andorra) 1,023 m; Australia - Canberra (Australia) 605 m
-<br><br><strong>lowest point on each continent:</strong> Antarctica - Denman Glacier more than -3,500 m; Asia - Dead Sea (Israel-Jordan) -431 m; Africa - Lac Assal (Djibouti) -155 m; South America - Laguna del Carbon (Argentina) -105 m; North America - Death Valley (United States) -86 m; Europe - Caspian Sea (Azerbaijan-Kazakhstan-Russia) -28 m; Australia - Lake Eyre -15
-<br><br><strong>lowest capital on each continent:</strong> Asia - Baku (Azerbaijan) -28 m; Europe - Amsterdam (Netherlands) -2 m; Africa - Banjul (Gambia); Bissau (Guinea-Bissau), Conakry (Guinea), Djibouti (Djibouti), Libreville (Gabon), Male (Maldives), Monrovia (Liberia), Tunis (Tunisia), Victoria (Seychelles) 0 m; North America - Basseterre (Saint Kitts and Nevis), Kingstown (Saint Vincent and the Grenadines), Panama City (Panama), Port of Spain (Trinidad and Tobago), Roseau (Dominica), Saint John's (Antigua and Barbuda), Santo Domingo (Dominican Republic) 0 m; South America - Georgetown (Guyana) 0 m; Australia - Canberra (Australia) 605 m<br>
+<strong>top ten highest mountains (measured from sea level):</strong> Mount Everest (China-Nepal) 8,849 m; K2 (Pakistan) 8,611 m; Kanchenjunga (India-Nepal) 8,598 m; Lhotse (Nepal) 8,516 m; Makalu (China-Nepal) 8,463 m; Cho Oyu (China-Nepal) 8,201 m; Dhaulagiri (Nepal) 8,167 m; Manaslu (Nepal) 8,163 m; Nanga Parbat (Pakistan) 8,125 m; Anapurna (Nepal) 8,091 m; <strong>note -</strong> Mauna Kea (United States) is the world's tallest mountain as measured from base to summit; the peak of this volcanic colossus lies on the island of Hawaii, but its base begins more than 70 km offshore and at a depth of about 6,000 m; total height estimates range from 9,966 m to 10,203 m <br><br><strong>top ten highest island peaks:</strong> Puncak Jaya (New Guinea) 4,884 m (Indonesia)*; Mauna Kea (Hawaii) 4,207 m (United States); Gunung Kinabalu (Borneo) 4,095 m (Malaysia)*; Yu Shan (Taiwan) 3,952 (Taiwan)*; Mount Kerinci (Sumatra) 3,805 m (Indonesia); Mount Erebus (Ross Island) 3,794 (Antarctica); Mount Fuji (Honshu) 3,776 m (Japan)*; Mount Rinjani (Lombok) 3,726 m (Indonesia); Aoraki-Mount Cook (South Island) 3,724 m (New Zealand)*; Pico de Teide (Tenerife) 3,718 m (Spain)*; <strong>note -</strong> * indicates the highest peak for that Factbook entry <br><br><strong>highest point on each continent:</strong> Asia - Mount Everest (China-Nepal) 8,849 m; South America - Cerro Aconcagua (Argentina) 6,960 m; North America - Denali (Mount McKinley) (United States) 6,190 m; Africa - Kilimanjaro (Tanzania) 5,895 m; Europe - El'brus (Russia) 5,633 m; Antarctica - Vinson Massif 4,897 m; Australia - Mount Kosciuszko 2,229 m <br><br><strong>highest capital on each continent:</strong> South America - La Paz (Bolivia) 3,640 m; Africa - Addis Ababa (Ethiopia) 2,355 m; Asia - Thimphu (Bhutan) 2,334 m; North America - Mexico City (Mexico) 2,240 m; Europe - Andorra la Vella (Andorra) 1,023 m; Australia - Canberra (Australia) 605 m <br><br><strong>lowest point on each continent:</strong> Antarctica - Denman Glacier more than -3,500 m; Asia - Dead Sea (Israel-Jordan) -431 m; Africa - Lac Assal (Djibouti) -155 m; South America - Laguna del Carbon (Argentina) -105 m; North America - Death Valley (United States) -86 m; Europe - Caspian Sea (Azerbaijan-Kazakhstan-Russia) -28 m; Australia - Lake Eyre -15 <br><br><strong>lowest capital on each continent:</strong> Asia - Baku (Azerbaijan) -28 m; Europe - Amsterdam (Netherlands) -2 m; Africa - Banjul (Gambia); Bissau (Guinea-Bissau), Conakry (Guinea), Djibouti (Djibouti), Libreville (Gabon), Male (Maldives), Monrovia (Liberia), Tunis (Tunisia), Victoria (Seychelles) 0 m; North America - Basseterre (Saint Kitts and Nevis), Kingstown (Saint Vincent and the Grenadines), Panama City (Panama), Port of Spain (Trinidad and Tobago), Roseau (Dominica), Saint John's (Antigua and Barbuda), Santo Domingo (Dominican Republic) 0 m; South America - Georgetown (Guyana) 0 m; Australia - Canberra (Australia) 605 m<br>
 
 **Natural resources**<br>
 the rapid depletion of nonrenewable mineral resources, the depletion of forest areas and wetlands, the extinction of animal and plant species, and the deterioration in air and water quality pose serious long-term problems<br>
@@ -86,14 +81,14 @@ six of the world's seven continents are widely and permanently inhabited; Asia i
 **Geography - note**<br>
 <p><strong>note 1:</strong> the world is now thought to be about 4.55 billion years old, just about one-third of the 13.8-billion-year age estimated for the universe; the earliest widely accepted date for life appearing on earth is 3.48 billion years ago, but this date is conservative and may get pushed back further</p> <p><strong>note 2:</strong> although earthquakes can strike anywhere at any time, the vast majority occur in three large zones of the earth; the world's greatest earthquake belt, the Circum-Pacific Belt (popularly referred to as the Ring of Fire), is the zone of active volcanoes and earthquake epicenters bordering the Pacific Ocean; about 90% of the world's earthquakes (81% of the largest earthquakes) and some 75% of the world's volcanoes occur within the Ring of Fire; the belt extends northward from Chile, along the South American coast, through Central America, Mexico, the western US, southern Alaska and the Aleutian Islands, to Japan, the Philippines, Papua New Guinea, island groups in the southwestern Pacific, and New Zealand<br><br>the second prominent belt, the Alpide, extends from Java to Sumatra, northward along the mountains of Burma, then eastward through the Himalayas, the Mediterranean, and out into the Atlantic Ocean; it accounts for about 17% of the world's largest earthquakes; the third important belt follows the long Mid-Atlantic Ridge<br><br><strong>note 3:</strong> information on the origin sites for many of the world's major food crops may be found in the "Geography - note" for the following countries: Argentina, Bolivia, Brazil, China, Ecuador, Ethiopia, Indonesia, Mexico, Papua New Guinea, Paraguay, Peru, and the United States</p><br>
 
+**Map description**<br>
+World map shown in a cylindrical equal area projection, oblique case view with each of the seven continents labeled.<br>
+
 ## People and Society
 
 **Population**<br>
 7,772,850,805 (July 2021 est.)<br>
-<strong>top ten most populous countries (in millions):</strong> China 1397.89; India 1339.33; United States 334.99; Indonesia 275.12; Pakistan 238.18; Nigeria 219.47; Brazil 213.45; Bangladesh 164.1; Russia 142.32; Japan 124.69
-<br><br><strong>ten least populous countries:</strong> Holy See (Vatican City) 1,000; Saint Pierre and Miquelon 5,321; Montserrat 5,387; Saint Barthelemy 7,116; Saint Helena, Ascension, and Tristan de Cunha 7,915; Cook Islands 8,327; Nauru 9,770; Tuvalu 11,448; Wallis and Futuna 15,851; Anguilla 18,403
-<br><br><strong>ten most densely populated countries (population per sq km):</strong> Macau 22,514; Monaco 15,611; Singapore 8,273; Hong Kong 6,769; Gaza Strip 5,436; Gibraltar 4,216; Bahrain 2,009; Malta 1,458; Bermuda 1,335; Maldives 1,311
-<br><br><strong>ten least densely populated countries (population per sq km):</strong> Greenland .027; Falkland Islands .26; Mongolia 2.1; Namibia 3.3; Australia 3.4; Iceland 3.5; Suriname 3.9; Mauritania 4; Libya 4; Guyana 4<br>
+<strong>top ten most populous countries (in millions):</strong> China 1397.89; India 1339.33; United States 334.99; Indonesia 275.12; Pakistan 238.18; Nigeria 219.47; Brazil 213.45; Bangladesh 164.1; Russia 142.32; Japan 124.69 <br><br><strong>ten least populous countries:</strong> Holy See (Vatican City) 1,000; Saint Pierre and Miquelon 5,321; Montserrat 5,387; Saint Barthelemy 7,116; Saint Helena, Ascension, and Tristan de Cunha 7,915; Cook Islands 8,327; Nauru 9,770; Tuvalu 11,448; Wallis and Futuna 15,851; Anguilla 18,403 <br><br><strong>ten most densely populated countries (population per sq km):</strong> Macau 22,514; Monaco 15,611; Singapore 8,273; Hong Kong 6,769; Gaza Strip 5,436; Gibraltar 4,216; Bahrain 2,009; Malta 1,458; Bermuda 1,335; Maldives 1,311 <br><br><strong>ten least densely populated countries (population per sq km):</strong> Greenland .027; Falkland Islands .26; Mongolia 2.1; Namibia 3.3; Australia 3.4; Iceland 3.5; Suriname 3.9; Mauritania 4; Libya 4; Guyana 4<br>
 
 **Languages**<br>
 <p><strong>most-spoken language: </strong>English 16.5%, Mandarin Chinese 14.6%, Hindi 8.3%, Spanish 7%, French 3.6%, Arabic 3.6%, Bengali 3.4%, Russian 3.4%, Portuguese 3.3%, Indonesian 2.6% (2020 est.) <br><br><strong>most-spoken first language:</strong> Mandarin Chinese 12.3%, Spanish 6%, English 5.1%, Arabic 5.1%, Hindi 3.5%, Bengali 3.3%, Portuguese 3%, Russian 2.1%, Japanese 1.7%, Punjabi, Western 1.3%, Javanese 1.1% (2018 est.)</p> <p><strong>note 1:</strong> the six UN languages - Arabic, Chinese (Mandarin), English, French, Russian, and Spanish (Castilian) - are the mother tongue or second language of about 45% of the world's population, and are the official languages in more than half the states in the world; some 400 languages have more than a million first-language speakers (2018)</p> <p><strong>note 2:</strong> all told, there are estimated to be just over 7,115 languages spoken in the world (2020); approximately 80% of these languages are spoken by less than 100,000 people; about 150 languages are spoken by fewer than 10 people; communities that are isolated from each other in mountainous regions often develop multiple languages; Papua New Guinea, for example, boasts about 840 separate languages (2018)</p> <p><strong>note 3:</strong> approximately 2,300 languages are spoken in Asia, 2,140, in Africa, 1,310 in the Pacific, 1,060 in the Americas, and 290 in Europe (2020)</p><br>
@@ -102,16 +97,11 @@ six of the world's seven continents are widely and permanently inhabited; Asia i
 Christian 31.1%, Muslim 24.9%, Hindu 15.2%, Buddhist 6.6%, folk religions 5.6%, Jewish &lt;1%, other &lt;1%, unaffiliated 15.6% (2020 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 25.18% (male 1,010,373,278/female 946,624,579)	
-<br>
-_15-24 years_: 15.29% (male 614,046,344/female 574,513,854) 	
-<br>
-_25-54 years_: 40.6% (male 1,597,805,095/female 1,557,807,873) 	
-<br>
-_55-64 years_: 9.23% (male 351,094,945/female 366,240,730) 	
-<br>
-_65 years and over_: 9.69% male 337,244,947/female 415,884,753) 	
- (2021 est.)<br>
+_0-14 years_: 25.18% (male 1,010,373,278/female 946,624,579)<br>
+_15-24 years_: 15.29% (male 614,046,344/female 574,513,854)<br>
+_25-54 years_: 40.6% (male 1,597,805,095/female 1,557,807,873)<br>
+_55-64 years_: 9.23% (male 351,094,945/female 366,240,730)<br>
+_65 years and over_: 9.69% (2021 est.) male 337,244,947/female 415,884,753)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.3<br>
@@ -310,7 +300,7 @@ $16,800 (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$80.27 trillion SGWP (gross world product) (2017 est.)<br>
+$80.27 trillion (2017 est.) SGWP (gross world product)<br>
 
 **Inflation rate (consumer prices)**<br>
 6.4% (2017 est.)<br>
@@ -467,19 +457,24 @@ _electrification - rural areas_: 85% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 917,318,375<br>
-_subscriptions per 100 inhabitants_: 12 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: (2017 est.) 12<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 7,876,696,447<br>
-_subscriptions per 100 inhabitants_: 103.4 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: (2017 est.) 103.4<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Information, Communications, and Technology (ICT) is tied to economic growth; business, trade, and foreign direct investment are all based on effective sources of ICT, and development of ICT flourishes with a vigorous economy, open trade, and sound regulation; some 2020 estimates point to a digital economy worth $11.5 trillion globally, equivalent to 15.5% of global GDP (with ICT growing 2.5 times faster than global GDP over the past 15 years);&nbsp; 2020 reports indicate about 7.7 billion global mobile broadband subscriptions, rising from 3.3 billion in five years, and over 1.1 billion fixed broadband subscribers, up from 830 million in 2015<br>
 _international_: economically, telecommunications has been and continues to be one of the world’s fastest growing markets; countries and firms are transitioning from analog to digital broadcasting, increasing automation capabilities and applications, adopting more high-definition technologies, and converting to digital channels<br><br>broadcasting typically refers to transmission of information to all devices in a network without any acknowledgment by the receivers; data processing parts and accessories includes many supporting elements to broadcasting equipment, such as monitors, keyboards, printers, etc.<br><br>in terms of market size, broadcasting equipment constituted $413 billion in global trade, making it the fifth most traded commodity in 2019; similarly, data processing equipment equaled $230 billion, the eighth most traded commodity globally; the chief exporters and importers of telecommunications commodities remain largely the same: 1) China leads in both broadcasting and data processing equipment exports, $208 billion and $81.5 billion respectively and 2) the United States, conversely, receives the most of both commodities, importing $81.1 billion in broadcasting equipment and $38.3 billion in data processing equipment in 2019<br>
 
+**Internet users**<br>
+_total_: 4.656 billion (2020 est.) 7.76 B<br>
+_percent of population_: 60% (2020 est.)<br>
+<strong>top ten countries by Internet usage (in millions):</strong> 730.7 China; 374.3 India; 246.8 United States; 122.8 Brazil; 116.6 Japan; 108.8 Russia; 73.3 Mexico; 72.3 Germany; 65.5 Indonesia; 61 United Kingdom (2017)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,132,215,546<br>
-_subscriptions per 100 inhabitants_: 14.8 (2017)<br>
+_subscriptions per 100 inhabitants_: (2017) 14.8<br>
 
 **Communications - note**<br>
 <strong>note 1:</strong> data centers consist of a dedicated space within a building or a group of buildings used to house computing resources and other components, such as telecommunications and storage systems; the ongoing worldwide boom in data generation is responsible for the mushrooming of data centers; the three largest data center facilities by area as of the first half of 2021 are:<br> <br>no. 1. - the China Telecom data center located in the Inner Mongolia Information Park, Hohhot, China, reportedly covers 1 million sq m (10.7 million sq ft); the largest Internet data center in the world, it has over 50% market share in the Chinese data center market, with an extensive network of over 400 data centers located in prime regions in mainland China and overseas markets <br><br>no. 2. - the China Mobile data center located in the Inner Mongolia Information Park, Hohhot, China, covers 720,000 sq m (7.7 million sq ft); it is one of the world's biggest cloud computing data centers<br><br>no. 3. - The Citadel data center owned by US-based Switch, in Tahoe Reno, Nevada, covers 670,000 sq m (7.2 million sq ft); called the world’s largest technology ecosystem, the facility runs on 100% renewable (solar and wind) energy<br><br><strong>note 2:</strong> of the global population, it is estimated that 51% (3.96 billion people) were using the Internet by the end of 2019<br>
@@ -488,8 +483,7 @@ _subscriptions per 100 inhabitants_: 14.8 (2017)<br>
 
 **Airports**<br>
 _total_: 41,820 (2021)<br>
-<strong>top ten by passengers </strong>(2020)<strong>:</strong> Guangzhou (CAN) 43,767,558; Atlanta (ATL) - 42,918,685; Chengdu (CTU) 40,741,509; Dallas/Fort Worth, TX (DFW) 39,364,990; Shenzhen (SZX) 37,916,054; Beijing (PEK) - 34,513,827; Denver, CO (DEN) 33,741,129; Kunming (KMG) 32,990,805; Shanghai (PVG) 31,165,641; Xi'an (XIY)  31,073,924 (2020)<br><br><strong>top ten by passengers </strong>(2019)<strong>: </strong>Atlanta (ATL) 110,531,300; Beijing (PEK) - 100,011,438; Los Angeles, CA (LAX) 88,068,013; Dubai, UAE (DXB) 86,396,757; Tokyo (HND) 85,505,054; Chicago (ORD) 84,649,115; London (LHR) 80,888,305; Shanghai (PVG) 76,153,455; Paris (CDG) 76,150,009; Dallas/Fort Worth, TX (DFW) 75,066,956; note - 2019 numbers included to allow for a comparison with the effects of COVID-19 restrictions on international air travel in 2020
-<br><br><strong>top ten by cargo (metric tons):</strong> Memphis, TN (MEM) - 4,613,431; Hong Kong (HKG) - 4,468,089; Shanghai (PVG) - 3,686,627; Anchorage, AK (ANC) - 3,157,682; Louisville, KY (SDF) - 2,917,243; Incheon (ICN) - 2,822,370; Taipei (TPE) - 2,342,714; Los Angeles, CA (LAX) 2,229,476; Doha, Qatar (DOH) 2,175,292; Miami, FL (MIA) 2,137,699 (2020)<br>
+<strong>top ten by passengers </strong>(2020)<strong>:</strong> Guangzhou (CAN) 43,767,558; Atlanta (ATL) - 42,918,685; Chengdu (CTU) 40,741,509; Dallas/Fort Worth, TX (DFW) 39,364,990; Shenzhen (SZX) 37,916,054; Beijing (PEK) - 34,513,827; Denver, CO (DEN) 33,741,129; Kunming (KMG) 32,990,805; Shanghai (PVG) 31,165,641; Xi'an (XIY)  31,073,924 (2020)<br><br><strong>top ten by passengers </strong>(2019)<strong>: </strong>Atlanta (ATL) 110,531,300; Beijing (PEK) - 100,011,438; Los Angeles, CA (LAX) 88,068,013; Dubai, UAE (DXB) 86,396,757; Tokyo (HND) 85,505,054; Chicago (ORD) 84,649,115; London (LHR) 80,888,305; Shanghai (PVG) 76,153,455; Paris (CDG) 76,150,009; Dallas/Fort Worth, TX (DFW) 75,066,956; note - 2019 numbers included to allow for a comparison with the effects of COVID-19 restrictions on international air travel in 2020 <br><br><strong>top ten by cargo (metric tons):</strong> Memphis, TN (MEM) - 4,613,431; Hong Kong (HKG) - 4,468,089; Shanghai (PVG) - 3,686,627; Anchorage, AK (ANC) - 3,157,682; Louisville, KY (SDF) - 2,917,243; Incheon (ICN) - 2,822,370; Taipei (TPE) - 2,342,714; Los Angeles, CA (LAX) 2,229,476; Doha, Qatar (DOH) 2,175,292; Miami, FL (MIA) 2,137,699 (2020)<br>
 
 **Heliports**<br>
 6,524 (2021)<br>

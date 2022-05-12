@@ -86,6 +86,9 @@ one-third of the population lives in Buenos Aires; pockets of agglomeration occu
 **Geography - note**<br>
 <strong>note 1:</strong> second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carbon is the lowest point in the Western Hemisphere; shares Iguazu Falls, the world's largest waterfalls system, with Brazil<br><br><strong>note 2: </strong>southeast Bolivia and northwest Argentina seem to be the original development site for peanuts<br>
 
+**Map description**<br>
+<p>Argentina map showing major cities as well as parts of surrounding countries and the South Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -113,7 +116,7 @@ _0-14 years_: 24.02% (male 5,629,188/female 5,294,723)<br>
 _15-24 years_: 15.19% (male 3,539,021/female 3,367,321)<br>
 _25-54 years_: 39.6% (male 9,005,758/female 9,002,931)<br>
 _55-64 years_: 9.07% (male 2,000,536/female 2,122,699)<br>
-_65 years and over_: 12.13% (male 2,331,679/female 3,185,262) (2020 est.)<br>
+_65 years and over_: 12.13% (2020 est.) (male 2,331,679/female 3,185,262)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.5<br>
@@ -183,7 +186,7 @@ _improved: rural_: rural: NA<br>
 _improved: total_: total: NA<br>
 _unimproved: urban_: urban: 0.2% of population<br>
 _unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA (2020 est.)<br>
+_unimproved: total_: total: (2020 est.) NA<br>
 
 **Current Health Expenditure**<br>
 9.5% (2019)<br>
@@ -200,7 +203,7 @@ _improved: rural_: rural: NA<br>
 _improved: total_: total: NA<br>
 _unimproved: urban_: urban: 1% of population (2017 est.)<br>
 _unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA (2020 est.)<br>
+_unimproved: total_: total: (2020 est.) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>
@@ -513,9 +516,9 @@ calendar year<br>
 -$27.049 billion (2018 est.)<br>
 
 **Exports**<br>
-$64.18 billion note: data are in current year dollars (2020 est.)<br>
-$79.29 billion note: data are in current year dollars (2019 est.)<br>
-$77.07 billion note: data are in current year dollars (2018 est.)<br>
+$64.18 billion (2020 est.) note: data are in current year dollars<br>
+$79.29 billion (2019 est.) note: data are in current year dollars<br>
+$77.07 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Brazil 16%, China 11%, United States 7%, Chile 5% (2019)<br>
@@ -524,9 +527,9 @@ Brazil 16%, China 11%, United States 7%, Chile 5% (2019)<br>
 soybean products, corn, delivery trucks, wheat, frozen meat, gold (2019)<br>
 
 **Imports**<br>
-$52.14 billion note: data are in current year dollars (2020 est.)<br>
-$66.28 billion note: data are in current year dollars (2019 est.)<br>
-$86.78 billion note: data are in current year dollars (2018 est.)<br>
+$52.14 billion (2020 est.) note: data are in current year dollars<br>
+$66.28 billion (2019 est.) note: data are in current year dollars<br>
+$86.78 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Brazil 21%, China 18%, US 14%, Germany 6% (2019)<br>
@@ -645,6 +648,10 @@ government owns a TV station and radio network; more than 2 dozen TV stations an
 **Internet country code**<br>
 .ar<br>
 
+**Internet users**<br>
+_total_: 39,024,016 (2020 est.)<br>
+_percent of population_: 86% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 9,571,562 (2021)<br>
 _subscriptions per 100 inhabitants_: 21.18 (2021 est.)<br>
@@ -655,7 +662,7 @@ _subscriptions per 100 inhabitants_: 21.18 (2021 est.)<br>
 _number of registered air carriers_: 6 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 107<br>
 _annual passenger traffic on registered air carriers_: 18,081,937 (2018)<br>
-_annual freight traffic on registered air carriers_: 311.57 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 311.57 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 LV<br>
@@ -687,9 +694,9 @@ _under 914 m_: 448 (2021)<br>
 
 **Railways**<br>
 _total_: 36,917 km (2014)<br>
-_standard gauge_: 2,745.1 km 1.435-m gauge (41.1 km electrified) (2014)<br>
-_narrow gauge_: 7,523.3 km 1.000-m gauge (2014)<br>
-_broad gauge_: 26,391 km 1.676-m gauge (149 km electrified) (2014)<br>
+_standard gauge_: 2,745.1 km (2014) 1.435-m gauge (41.1 km electrified)<br>
+_narrow gauge_: 7,523.3 km (2014) 1.000-m gauge<br>
+_broad gauge_: 26,391 km (2014) 1.676-m gauge (149 km electrified)<br>
 258 km 0.750-m gauge<br>
 
 **Roadways**<br>
@@ -718,9 +725,9 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica A
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020)<br>
-0.7% of GDP (approximately $5 billion) (2019)<br>
-0.8% of GDP (approximately $5.3 billion) (2018)<br>
-0.9% of GDP (approximately $5.95 billion) (2017)<br>
+0.7% of GDP (2019) (approximately $5 billion)<br>
+0.8% of GDP (2018) (approximately $5.3 billion)<br>
+0.9% of GDP (2017) (approximately $5.95 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 78,000 active duty personnel (45,000 Army; 18,000 Navy (includes about 3,000 marines); 15,000 Air Force); est. 20,000 Gendarmerie (2021)<br>

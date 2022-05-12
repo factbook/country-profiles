@@ -70,6 +70,9 @@ frequent hurricanes and other tropical storms (July to October)<br>
 **Geography - note**<br>
 the most northerly of the Leeward Islands in the Lesser Antilles<br>
 
+**Map description**<br>
+<p>Anguilla map showing the major island of Anguilla and its nearby small islands that comprise this UK territory in the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 21.63% (male 1,991/female 1,922)<br>
 _15-24 years_: 13.9% (male 1,269/female 1,246)<br>
 _25-54 years_: 42.27% (male 3,428/female 4,218)<br>
 _55-64 years_: 12.42% (male 993/female 1,254)<br>
-_65 years and over_: 9.78% (male 874/female 895) (2020 est.)<br>
+_65 years and over_: 9.78% (2020 est.) (male 874/female 895)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -425,6 +428,10 @@ _international_: country code - 1-264; landing points for the&nbsp;SSCS, ECFS, G
 **Internet country code**<br>
 .ai<br>
 
+**Internet users**<br>
+_total_: 12,489 (2019 est.)<br>
+_percent of population_: 82% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 5,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 33.33 (2021)<br>
@@ -465,7 +472,7 @@ defense is the responsibility of the UK<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Illicit drugs**<br>
 <p>transshipment point for South American narcotics destined for the US and Europe</p><br>

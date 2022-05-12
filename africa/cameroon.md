@@ -80,6 +80,9 @@ population concentrated in the west and north, with the interior of the country 
 **Geography - note**<br>
 sometimes referred to as the hinge of Africa because of its central location on the continent and its position at the west-south juncture of the Gulf of Guinea; throughout the country there are areas of thermal springs and indications of current or prior volcanic activity; Mount Cameroon, the highest mountain in Sub-Saharan west Africa, is an active volcano<br>
 
+**Map description**<br>
+<p>Cameroon map showing major cities as well as parts of surrounding countries and the Bight of Benin.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -108,7 +111,7 @@ _0-14 years_: 42.34% (male 5,927,640/female 5,820,226)<br>
 _15-24 years_: 20.04% (male 2,782,376/female 2,776,873)<br>
 _25-54 years_: 30.64% (male 4,191,151/female 4,309,483)<br>
 _55-64 years_: 3.87% (male 520,771/female 552,801)<br>
-_65 years and over_: 3.11% (male 403,420/female 460,248) (2020 est.)<br>
+_65 years and over_: 3.11% (2020 est.) (male 403,420/female 460,248)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 81.1<br>
@@ -525,8 +528,8 @@ _expenditures_: 6.556 billion (2017 est.)<br>
 -$1.034 billion (2016 est.)<br>
 
 **Exports**<br>
-$7.73 billion note: data are in current year dollars (2019 est.)<br>
-$7.3 billion note: data are in current year dollars (2018 est.)<br>
+$7.73 billion (2019 est.) note: data are in current year dollars<br>
+$7.3 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 17%, Netherlands 14%, Italy 9%, United Arab Emirates 8%, India 7%, United States 6%, Belgium 6%, Spain 5%, France 5% (2019)<br>
@@ -535,8 +538,8 @@ China 17%, Netherlands 14%, Italy 9%, United Arab Emirates 8%, India 7%, United 
 crude petroleum, cocoa beans, lumber, gold, natural gas, bananas (2019)<br>
 
 **Imports**<br>
-$9.09 billion note: data are in current year dollars (2019 est.)<br>
-$8.42 billion note: data are in current year dollars (2018 est.)<br>
+$9.09 billion (2019 est.) note: data are in current year dollars<br>
+$8.42 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 28%, Nigeria 15%, France 9%, Belgium 6% (2019)<br>
@@ -655,6 +658,10 @@ government maintains tight control over broadcast media; state-owned Cameroon Ra
 **Internet country code**<br>
 .cm<br>
 
+**Internet users**<br>
+_total_: 10,087,428 (2020 est.)<br>
+_percent of population_: 38% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 722,579 (2021)<br>
 _subscriptions per 100 inhabitants_: 2.72 (2021)<br>
@@ -665,7 +672,7 @@ _subscriptions per 100 inhabitants_: 2.72 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 3<br>
 _annual passenger traffic on registered air carriers_: 265,136 (2018)<br>
-_annual freight traffic on registered air carriers_: 70,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 70,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 TJ<br>
@@ -691,7 +698,7 @@ _under 914 m_: 8 (2021)<br>
 
 **Railways**<br>
 _total_: 987 km (2014)<br>
-_narrow gauge_: 987 km 1.000-m gauge (2014)<br>
+_narrow gauge_: 987 km (2014) 1.000-m gauge<br>
 <strong>note:</strong> railway connections generally efficient but limited; rail lines connect major cities of Douala, Yaounde, Ngaoundere, and Garoua; passenger and freight service provided by CAMRAIL<br>
 
 **Roadways**<br>
@@ -700,7 +707,7 @@ _paved_: 5,133 km (2016)<br>
 _unpaved_: 72,456 km (2016)<br>
 
 **Waterways**<br>
-(major rivers in the south, such as the Wouri and the Sanaga, are largely non-navigable; in the north, the Benue, which connects through Nigeria to the Niger River, is navigable in the rainy season only to the port of Garoua) (2010)<br>
+(2010) (major rivers in the south, such as the Wouri and the Sanaga, are largely non-navigable; in the north, the Benue, which connects through Nigeria to the Niger River, is navigable in the rainy season only to the port of Garoua)<br>
 
 **Merchant marine**<br>
 _total_: 94<br>
@@ -719,10 +726,10 @@ note(s) - the National Police (under the General Delegation of National Security
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
-1.4% of GDP (approximately $710 million) (2019 est.)<br>
-1.4% of GDP (approximately $710 million) (2018 est.)<br>
-1.5% of GDP (approximately $710 million) (2017 est.)<br>
-1.5% of GDP (approximately $700 million) (2016 est.)<br>
+1.4% of GDP (2019 est.) (approximately $710 million)<br>
+1.4% of GDP (2018 est.) (approximately $710 million)<br>
+1.5% of GDP (2017 est.) (approximately $710 million)<br>
+1.5% of GDP (2016 est.) (approximately $700 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; approximately 40,000 active duty troops; (25,000 ground forces, including the BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2021)<br>

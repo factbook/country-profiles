@@ -77,6 +77,9 @@ hot, dry, dusty harmattan haze may reduce visibility during dry season<br>
 **Geography - note**<br>
 the Niger and its important tributary the Milo River have their sources in the Guinean highlands<br>
 
+**Map description**<br>
+<p>Guinea map showing major cities as well as parts of surrounding countries and the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -104,7 +107,7 @@ _0-14 years_: 41.2% (male 2,601,221/female 2,559,918)<br>
 _15-24 years_: 19.32% (male 1,215,654/female 1,204,366)<br>
 _25-54 years_: 30.85% (male 1,933,141/female 1,930,977)<br>
 _55-64 years_: 4.73% (male 287,448/female 305,420)<br>
-_65 years and over_: 3.91% (male 218,803/female 270,492) (2020 est.)<br>
+_65 years and over_: 3.91% (2020 est.) (male 218,803/female 270,492)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 85.2<br>
@@ -376,8 +379,7 @@ _subordinate courts_: Court of Appeal or Cour d'Appel; High Court of Justice or 
 
 **Political parties and leaders**<br>
 Bloc Liberal or BL [Faya MILLIMONO]<br>National Party for Hope and Development or PEDN [Lansana KOUYATE]<br>Rally for the Guinean People or RPG [Vacant]<br>Union for the Progress of Guinea or UPG (Jacques GBONIMY)<br>Union of Democratic Forces of Guinea or UFDG [Cellou Dalein DIALLO]<br>Union of Republican Forces or UFR [Sidya TOURE]<br>Democratic Alliance for Renewal or ADR [Alpha Oumar Taran DIALLO]<br>Modern Guinea [Thierno Yaya DIALLO]<br>Party for Progress and Change or PPC [Aboubacar Biro SOUMAH]<br>Rally for the Republic or RPR [Diabaty DORE]<br>Democratic Union for Renewal and Progress or UDRP [Edouard Zoutomou KPOGHOMOU]<br>Guinean Union for Democracy and Development or UGDD [Francis HABA]<br>National Union for Prosperity or UNP [Alpha Mady SOUMAH]<br>Citizen Party for the Defense of Collective Interests or PCDIC [Hamidou BARRY]<br>Democratic Union of Guinea or UDG [Mamadou SYLLA]<br>Union of Democrats for the Renaissance of Guinea or UDRG [Amadou Oury BAH]<br>Party of Citizen Action through Labor or PACT [Makale TRAORE]<br>Union for the Defense of Republican Interests or UDIR [Bouya KONATE]<br>Front for the National Alliance or FAN [Makale CAMARA]<br>Alliance for National Renewal or ARN [Pepe Koulemou KOULEMOU]<br>Democratic Workers' Party of Guinea or PDTG [Talibi Dos CAMARA]<br>Party of Freedom and Progress or PLP [Laye Souleymane DIALLO]<br>Movement for Solidarity and Development or MSD [Abdoulaye DIALLO]<br>New Guinea or NG [Mohamed CISSE]<br>Guinean Party for Peaceful Coexistence and Development or PGCD [Nene Moussa Maleya CAMARA]<br>Guinean Rally for Unity and Development or RGUD [Abraham BOURE]<br>Guinean Party for Solidarity and Democracy or PGSD [Elie KAMANO]<br>New Political Generation or NGP [Badra KONE]<br>African Congress for Democracy and Renewal or CADRE [Daniel KOLIE]<br>Party of Democrats for Hope or PADES [Ousmane KABA]<br>Rally for Renaissance and Development or RRD [Abdoulaye KOUROUMA]<br>Democratic National Movement or MND [Ousmane DORE]<br>New Generation for the Republic or NGR [Abbe SYLLA]<br>Generation for Reconciliation Union and Prosperity or GRUP [Papa Koly KOUROUMA]<br>New Democratic Forces or NFD [Mouctar DIALLO]<br>Union for Progress and Renewal or UPR [Ousmane BAH]<br>National Front for Development or FND [Alhousseine Makanera KAKE]<br>Unity and Progress Party or PUP [Fode BANGOURA]<br>Rally for the Integrated Development of Guinea or RDIG [Jean Marc TELIANO]<br>Alliance for National Renewal or ARENA [Sekou Koureissy CONDE<br>Guinean Rally for Development or RGD [Abdoul Kabele CAMARA]<br>Guinean Renaissance Party or PGR [Ibrahima Sory CONDE]<br>Party of Hope for National Development or PEDN [Lansana KOUYATE]<br>Citizen Generation or GECI [Mohamed SOUMAH]<br>Union of Democratic Forces or UFD [Mamadou Baadiko BAH]<br>Democratic People's Movement of Guinea or MPDG [Siaka BARRY]<br>Guinea for Democracy and Balance or GDE [Aboubacar SOUMAH]<br>
-<h3>Ruling party<br><br>Guinea is currently lead by the National Committee for Reconciliation and Development, the transition government <br>(<em>Comité national du rassemblement et du développement</em>, CNRD)</h3>
-<h3>
+<h3>Ruling party<br><br>Guinea is currently lead by the National Committee for Reconciliation and Development, the transition government <br>(<em>Comité national du rassemblement et du développement</em>, CNRD)</h3> <h3>
 <br>Opposition parties<br><br><br><br>
 </h3><br>
 
@@ -516,8 +518,8 @@ calendar year<br>
 -$2.705 billion (2016 est.)<br>
 
 **Exports**<br>
-$4.04 billion note: data are in current year dollars (2019 est.)<br>
-$4.08 billion note: data are in current year dollars (2018 est.)<br>
+$4.04 billion (2019 est.) note: data are in current year dollars<br>
+$4.08 billion (2018 est.) note: data are in current year dollars<br>
 $4.733 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -527,8 +529,8 @@ United Arab Emirates 39%, China 36%, India 6% (2019)<br>
 aluminum, gold, bauxite, diamonds, fish, cashews (2019)<br>
 
 **Imports**<br>
-$4.32 billion note: data are in current year dollars (2019 est.)<br>
-$4.18 billion note: data are in current year dollars (2018 est.)<br>
+$4.32 billion (2019 est.) note: data are in current year dollars<br>
+$4.18 billion (2018 est.) note: data are in current year dollars<br>
 $7.317 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -648,9 +650,13 @@ _international_: country code - 224; ACE submarine cable connecting Guinea with 
 **Internet country code**<br>
 .gn<br>
 
+**Internet users**<br>
+_total_: 3,414,526 (2020 est.)<br>
+_percent of population_: 26% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.01 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.01 (2021) less than 1<br>
 
 ## Transportation
 
@@ -673,8 +679,8 @@ _under 914 m_: 2 (2021)<br>
 
 **Railways**<br>
 _total_: 1,086 km (2017)<br>
-_standard gauge_: 279 km 1.435-m gauge (2017)<br>
-_narrow gauge_: 807 km 1.000-m gauge (2017)<br>
+_standard gauge_: 279 km (2017) 1.435-m gauge<br>
+_narrow gauge_: 807 km (2017) 1.000-m gauge<br>
 
 **Roadways**<br>
 _total_: 44,301 km (2018)<br>
@@ -682,7 +688,7 @@ _paved_: 3,346 km (2018)<br>
 _unpaved_: 40,955 km (2018)<br>
 
 **Waterways**<br>
-1,300 km (navigable by shallow-draft native craft in the northern part of the Niger River system) (2011)<br>
+1,300 km (2011) (navigable by shallow-draft native craft in the northern part of the Niger River system)<br>
 
 **Merchant marine**<br>
 _total_: 2<br>
@@ -699,10 +705,10 @@ note - the National Gendarmerie is overseen by the Ministry of Defense, while th
 
 **Military expenditures**<br>
 1.4% of GDP (2020 est.)<br>
-1.6% of GDP (approximately $270 million) (2019 est.)<br>
-1.8% of GDP (approximately $280 million) (2018 est.)<br>
-1.8% of GDP (approximately $260 million) (2017 est.)<br>
-1.9% of GDP (approximately $240 million) (2016 est.)<br>
+1.6% of GDP (2019 est.) (approximately $270 million)<br>
+1.8% of GDP (2018 est.) (approximately $280 million)<br>
+1.8% of GDP (2017 est.) (approximately $260 million)<br>
+1.9% of GDP (2016 est.) (approximately $240 million)<br>
 
 **Military and security service personnel strengths**<br>
 Guinean National Armed Forces are comprised of approximately 12,000 active personnel <br>(9,000 Army; 400 Navy; 800 Air Force; 300 BASP; 1,500 Gendarmerie) (2021)<br>

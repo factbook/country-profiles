@@ -59,7 +59,7 @@ _forest_: 74.5% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
 **Irrigated land**<br>
-0 sq km NA (2012)<br>
+0 sq km (2012) NA<br>
 
 **Population distribution**<br>
 the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas<br>
@@ -69,6 +69,9 @@ typhoons (June to December)<br>
 
 **Geography - note**<br>
 composed of four major island groups totaling 607 islands<br>
+
+**Map description**<br>
+<p>Federated States of Micronesia map showing the major islands of this archipelagic country in the North Pacific Ocean.</p><br>
 
 ## People and Society
 
@@ -93,7 +96,7 @@ _0-14 years_: 28.24% (male 14,585/female 14,129)<br>
 _15-24 years_: 18.62% (male 9,473/female 9,461)<br>
 _25-54 years_: 40.81% (male 19,998/female 21,493)<br>
 _55-64 years_: 7.38% (male 3,602/female 3,898)<br>
-_65 years and over_: 4.95% (male 2,260/female 2,776) (2021 est.)<br>
+_65 years and over_: 4.95% (2021 est.) (male 2,260/female 2,776)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.2<br>
@@ -365,8 +368,8 @@ $389 million (2017 est.)<br>
 3.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,500 note: data are in 2017 dollars (2019 est.)<br>
-$3,500 note: data are in 2017 dollars (2018 est.)<br>
+$3,500 (2019 est.) note: data are in 2017 dollars<br>
+$3,500 (2018 est.) note: data are in 2017 dollars<br>
 $3,200 (2015 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -555,6 +558,10 @@ no TV broadcast stations; each state has a multi-channel cable service with TV t
 
 **Internet country code**<br>
 .fm<br>
+
+**Internet users**<br>
+_total_: 39,834 (2019 est.)<br>
+_percent of population_: 35% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,000 (2021 est.)<br>

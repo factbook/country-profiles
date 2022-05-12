@@ -72,6 +72,9 @@ infrequent typhoons<br>
 **Geography - note**<br>
 the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein atoll, famous as a World War II battleground, surrounds the world's largest lagoon and is used as a US missile test range; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific<br>
 
+**Map description**<br>
+<p>Marshall Islands map showing the major islands of this archipelagic country in the North Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 32.94% (male 13,090/female 12,575)<br>
 _15-24 years_: 19.09% (male 7,568/female 7,308)<br>
 _25-54 years_: 37.35% (male 14,834/female 14,270)<br>
 _55-64 years_: 5.92% (male 2,269/female 2,341)<br>
-_65 years and over_: 4.7% (male 1,805/female 1,857) (2020 est.)<br>
+_65 years and over_: 4.7% (2020 est.) (male 1,805/female 1,857)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -385,8 +388,8 @@ $219 million (2017 est.)<br>
 2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$4,000 note: data are in 2017 dollars (2019 est.)<br>
-$3,800 note: data are in 2017 dollars (2018 est.)<br>
+$4,000 (2019 est.) note: data are in 2017 dollars<br>
+$3,800 (2018 est.) note: data are in 2017 dollars<br>
 $3,776 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -463,7 +466,7 @@ _expenditures_: 113.9 million (2013 est.)<br>
 $15 million (2016 est.)<br>
 
 **Exports**<br>
-$130 million note: data are in current year dollars (2018 est.)<br>
+$130 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Poland 28%, Denmark 19%, South Korea 13%, Indonesia 10%, Cyprus 6% (2019)<br>
@@ -472,7 +475,7 @@ Poland 28%, Denmark 19%, South Korea 13%, Indonesia 10%, Cyprus 6% (2019)<br>
 ships, fish, recreational boats, broadcasting equipment, coal tar oil (2019)<br>
 
 **Imports**<br>
-$170 million note: data are in current year dollars (2018 est.)<br>
+$170 million (2018 est.) note: data are in current year dollars<br>
 $103.8 million (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -580,6 +583,10 @@ no TV broadcast station; a cable network is available on Majuro with programming
 **Internet country code**<br>
 .mh<br>
 
+**Internet users**<br>
+_total_: 22,929 (2019 est.)<br>
+_percent of population_: 39% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 1.69 (2021 est.)<br>
@@ -593,7 +600,7 @@ Kwajalein hosts one of four dedicated ground antennas that assist in the operati
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 3<br>
 _annual passenger traffic on registered air carriers_: 24,313 (2018)<br>
-_annual freight traffic on registered air carriers_: 130,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 130,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 V7<br>

@@ -80,6 +80,9 @@ flooding; droughts; earthquakes<br>
 **Geography - note**<br>
 landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physical feature; it contains more fish species than any other lake on earth<br>
 
+**Map description**<br>
+<p>Malawi map showing major population centers as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -108,7 +111,7 @@ _0-14 years_: 45.87% (male 4,843,107/female 4,878,983)<br>
 _15-24 years_: 20.51% (male 2,151,417/female 2,195,939)<br>
 _25-54 years_: 27.96% (male 2,944,936/female 2,982,195)<br>
 _55-64 years_: 2.98% (male 303,803/female 328,092)<br>
-_65 years and over_: 2.68% (male 249,219/female 318,938) (2020 est.)<br>
+_65 years and over_: 2.68% (2020 est.) (male 249,219/female 318,938)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 83.9<br>
@@ -510,8 +513,8 @@ _expenditures_: 1.567 billion (2017 est.)<br>
 -$744 million (2016 est.)<br>
 
 **Exports**<br>
-$1.16 billion note: data are in current year dollars (2019 est.)<br>
-$1.11 billion note: data are in current year dollars (2018 est.)<br>
+$1.16 billion (2019 est.) note: data are in current year dollars<br>
+$1.11 billion (2018 est.) note: data are in current year dollars<br>
 $9.658 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -521,8 +524,8 @@ Belgium 16%, United States 8%, Egypt 7%, South Africa 6%, Germany 6%, Kenya 5%, 
 tobacco, tea, raw sugar, beans, soybean products, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$3.2 billion note: data are in current year dollars (2019 est.)<br>
-$2.92 billion note: data are in current year dollars (2018 est.)<br>
+$3.2 billion (2019 est.) note: data are in current year dollars<br>
+$2.92 billion (2018 est.) note: data are in current year dollars<br>
 $11.631 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -624,7 +627,7 @@ _electrification - rural areas_: 5% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 12,465 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 10,004,680 (2020)<br>
@@ -642,9 +645,13 @@ radio is the main broadcast medium; privately owned Zodiak radio has the widest 
 **Internet country code**<br>
 .mw<br>
 
+**Internet users**<br>
+_total_: 2,608,025 (2019 est.)<br>
+_percent of population_: 14% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 12,255 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.06 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.06 (2021) less than 1<br>
 
 ## Transportation
 
@@ -652,7 +659,7 @@ _subscriptions per 100 inhabitants_: 0.06 less than 1 (2021)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 9<br>
 _annual passenger traffic on registered air carriers_: 10,545 (2018)<br>
-_annual freight traffic on registered air carriers_: 10,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 10,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 7Q<br>
@@ -674,7 +681,7 @@ _under 914 m_: 13 (2021)<br>
 
 **Railways**<br>
 _total_: 767 km (2014)<br>
-_narrow gauge_: 767 km 1.067-m gauge (2014)<br>
+_narrow gauge_: 767 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
 _total_: 15,452 km (2015)<br>
@@ -682,7 +689,7 @@ _paved_: 4,074 km (2015)<br>
 _unpaved_: 11,378 km (2015)<br>
 
 **Waterways**<br>
-700 km (on Lake Nyasa [Lake Malawi] and Shire River) (2010)<br>
+700 km (2010) (on Lake Nyasa [Lake Malawi] and Shire River)<br>
 
 **Ports and terminals**<br>
 _lake port(s)_: Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba (Lake Nyasa)<br>
@@ -695,10 +702,10 @@ note - the Malawi Police Service is under the Ministry of Homeland Security<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2020 est.)<br>
-1.1% of GDP (approximately $90 million) (2019 est.)<br>
-0.8% of GDP (approximately $70 million) (2018 est.)<br>
-0.7% of GDP (approximately $60 million) (2017 est.)<br>
-0.6% of GDP (approximately $50 million) (2016 est.)<br>
+1.1% of GDP (2019 est.) (approximately $90 million)<br>
+0.8% of GDP (2018 est.) (approximately $70 million)<br>
+0.7% of GDP (2017 est.) (approximately $60 million)<br>
+0.6% of GDP (2016 est.) (approximately $50 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 8,000 total personnel (including about 200 air and 200 marine forces) (2021)<br>

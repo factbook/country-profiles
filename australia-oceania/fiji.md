@@ -72,6 +72,9 @@ cyclonic storms can occur from November to January<br>
 **Geography - note**<br>
 consists of 332 islands, approximately 110 of which are inhabited, and more than 500 islets<br>
 
+**Map description**<br>
+<p>Fiji map showing the many islands that make up the country in the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -96,7 +99,7 @@ _0-14 years_: 26.86% (male 128,499/female 122,873)<br>
 _15-24 years_: 15.51% (male 73,993/female 71,139)<br>
 _25-54 years_: 41.05% (male 196,932/female 187,270)<br>
 _55-64 years_: 9.25% (male 43,813/female 42,763)<br>
-_65 years and over_: 7.34% (male 31,556/female 37,136) (2020 est.)<br>
+_65 years and over_: 7.34% (2020 est.) (male 31,556/female 37,136)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.4<br>
@@ -191,7 +194,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 1,300 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020 est.)<br>
+(2020 est.) <100<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -473,9 +476,9 @@ calendar year<br>
 -$131 million (2016 est.)<br>
 
 **Exports**<br>
-$1.23 billion note: data are in current year dollars (2020 est.)<br>
-$2.64 billion note: data are in current year dollars (2019 est.)<br>
-$2.67 billion note: data are in current year dollars (2018 est.)<br>
+$1.23 billion (2020 est.) note: data are in current year dollars<br>
+$2.64 billion (2019 est.) note: data are in current year dollars<br>
+$2.67 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 29%, Australia 14%, New Zealand 7%, Japan 6%, Tonga 6% (2019)<br>
@@ -484,9 +487,9 @@ United States 29%, Australia 14%, New Zealand 7%, Japan 6%, Tonga 6% (2019)<br>
 water, refined petroleum, fish, raw sugar, gold (2019)<br>
 
 **Imports**<br>
-$1.97 billion note: data are in current year dollars (2020 est.)<br>
-$3.21 billion note: data are in current year dollars (2019 est.)<br>
-$3.1 billion note: data are in current year dollars (2018 est.)<br>
+$1.97 billion (2020 est.) note: data are in current year dollars<br>
+$3.21 billion (2019 est.) note: data are in current year dollars<br>
+$3.1 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Singapore 18%, Australia 13%, China 13.8%, New Zealand 11%, France 11%, South Korea 8% (2017)<br>
@@ -605,6 +608,10 @@ Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji
 **Internet country code**<br>
 .fj<br>
 
+**Internet users**<br>
+_total_: 444,978 (2019 est.)<br>
+_percent of population_: 50% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 23,062 (2021)<br>
 _subscriptions per 100 inhabitants_: 2.57 (2021)<br>
@@ -615,7 +622,7 @@ _subscriptions per 100 inhabitants_: 2.57 (2021)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 16<br>
 _annual passenger traffic on registered air carriers_: 1,670,216 (2018)<br>
-_annual freight traffic on registered air carriers_: 106.83 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 106.83 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 DQ<br>
@@ -636,7 +643,7 @@ _under 914 m_: 19 (2021)<br>
 
 **Railways**<br>
 _total_: 597 km (2008)<br>
-_narrow gauge_: 597 km 0.600-m gauge (2008)<br>
+_narrow gauge_: 597 km (2008) 0.600-m gauge<br>
 <strong>note:</strong> belongs to the government-owned Fiji Sugar Corporation; used to haul sugarcane during the harvest season, which runs from May to December<br>
 
 **Roadways**<br>
@@ -645,7 +652,7 @@ _paved_: 1,686 km (2011)<br>
 _unpaved_: 1,754 km (2011)<br>
 
 **Waterways**<br>
-203 km (122 km are navigable by motorized craft and 200-metric-ton barges) (2012)<br>
+203 km (2012) (122 km are navigable by motorized craft and 200-metric-ton barges)<br>
 
 **Merchant marine**<br>
 _total_: 73<br>
@@ -661,11 +668,11 @@ Republic of Fiji Military Forces (RFMF): Land Force Command, Maritime Command; F
 both the RFMF and the Fiji Police report to the the Ministry of Defense, National Security, and Policing<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
-1.6% of GDP (approximately $160 million) (2019 est.)<br>
-1.6% of GDP (approximately $160 million) (2018 est.)<br>
-1.5% of GDP (approximately $150 million) (2017 est.)<br>
-1.3% of GDP (approximately $130 million) (2016 est.)<br>
+1.6% of GDP (2019 est.) (approximately $160 million)<br>
+1.6% of GDP (2018 est.) (approximately $160 million)<br>
+1.5% of GDP (2017 est.) (approximately $150 million)<br>
 
 **Military and security service personnel strengths**<br>
 the<strong> </strong>Republic of Fiji Military Forces (RFMF) have about 3,500 personnel (3,200 Land Force; 300 Maritime Command) (2021)<br>

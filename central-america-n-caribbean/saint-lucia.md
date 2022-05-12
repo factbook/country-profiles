@@ -71,6 +71,9 @@ most of the population is found on the periphery of the island, with a larger co
 **Geography - note**<br>
 the twin Pitons (Gros Piton and Petit Piton), striking cone-shaped peaks south of Soufriere, are one of the scenic natural highlights of the Caribbean<br>
 
+**Map description**<br>
+<p>Saint Lucia map showing major population centers on this island in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 19.24% (male 16,484/female 15,546)<br>
 _15-24 years_: 13.6% (male 11,475/female 11,165)<br>
 _25-54 years_: 42.83% (male 34,436/female 36,868)<br>
 _55-64 years_: 11.23% (male 8,624/female 10,075)<br>
-_65 years and over_: 13.1% (male 9,894/female 11,920) (2020 est.)<br>
+_65 years and over_: 13.1% (2020 est.) (male 9,894/female 11,920)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 39.4<br>
@@ -186,10 +189,10 @@ _unimproved: total_: total: 6.2% of population (2020 est.)<br>
 0.6% (2018)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<1,000 (2018)<br>
+(2018) <1,000<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018)<br>
+(2018) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 19.7% (2016)<br>
@@ -324,7 +327,7 @@ Saint Lucia Labor Party or SLP [Philip J. PIERRE]<br>United Workers Party or UWP
 ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Anton Edsel EDMUNDS (since 8 September 2017)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Shirnaya V. STEPHEN (since 1 January 2022)<br>
 _chancery_: 1629 K Street NW, Suite 1250, Washington, DC 20006<br>
 _telephone_: [1] (202) 364-6792<br>
 _FAX_: [1] (202) 364-6723<br>
@@ -448,7 +451,7 @@ $21 million (2017 est.)<br>
 -$31 million (2016 est.)<br>
 
 **Exports**<br>
-$1.22 billion note: data are in current year dollars (2018 est.)<br>
+$1.22 billion (2018 est.) note: data are in current year dollars<br>
 $188.2 million (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -458,7 +461,7 @@ United States 29%, Uruguay 16%, Barbados 8%, Trinidad and Tobago 5.5%, United Ki
 crude petroleum, beer, jewelry, bananas, refined petroleum, rum (2019)<br>
 
 **Imports**<br>
-$1 billion note: data are in current year dollars (2018 est.)<br>
+$1 billion (2018 est.) note: data are in current year dollars<br>
 $575.9 million (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -577,6 +580,10 @@ _international_: country code - 1-758; landing points for the ECFS&nbsp;and Sout
 
 **Internet country code**<br>
 .lc<br>
+
+**Internet users**<br>
+_total_: 97,323 (2020 est.)<br>
+_percent of population_: 53% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 33,000 (2021 est.)<br>

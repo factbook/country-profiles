@@ -71,6 +71,9 @@ typhoons can occur any time, but usually November to March; occasional tornadoes
 **Geography - note**<br>
 21 of the 33 islands are inhabited; Banaba (Ocean Island) in Kiribati is one of the three great phosphate rock islands in the Pacific Ocean - the others are Makatea in French Polynesia, and Nauru; Kiribati is the only country in the world to fall into all four hemispheres (northern, southern, eastern, and western)<br>
 
+**Map description**<br>
+<p>Kiribati map showing the extent of the three island groups that comprise Kiribati and that straddle both sides of the Equator.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -81,20 +84,20 @@ _noun_: I-Kiribati (singular and plural)<br>
 _adjective_: I-Kiribati<br>
 
 **Ethnic groups**<br>
-I-Kiribati 96.2%, I-Kiribati/mixed 1.8%, Tuvaluan 0.2%, other 1.8% (2015 est.)<br>
+I-Kiribati 95.78%, I-Kiribati/mixed 3.8%, Tuvaluan 0.2%, other 1.7% (2020 est.)<br>
 
 **Languages**<br>
 I-Kiribati, English (official)<br>
 
 **Religions**<br>
-Roman Catholic 57.3%, Kiribati Uniting Church 31.3%, Christ of Jesus Christ 5.3%, Baha'i 2.1%, Seventh Day Adventist 1.9%, other 2.1% (2015 est.)<br>
+Roman Catholic 58.9%, Kiribati Uniting Church 21.2%, Kiribati Protestant Church 8.4%, Church of Jesus Christ 5.6%, Seventh Day Adventist 2.1%, Baha'i 2.1%, other 1.7% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 28.47% (male 16,223/female 15,604)<br>
 _15-24 years_: 20.24% (male 11,171/female 11,459)<br>
 _25-54 years_: 40.05% (male 21,530/female 23,249)<br>
 _55-64 years_: 6.65% (male 3,350/female 4,084)<br>
-_65 years and over_: 4.59% (male 2,004/female 3,122) (2020 est.)<br>
+_65 years and over_: 4.59% (2020 est.) (male 2,004/female 3,122)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 67<br>
@@ -212,7 +215,7 @@ _women married by age 18_: 18.4% (2019)<br>
 _men married by age 18_: 8.6% (2019 est.)<br>
 
 **Education expenditures**<br>
-12.4% of GDP NA (2019)<br>
+12.4% of GDP (2019) NA<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 22.5%<br>
@@ -453,8 +456,8 @@ $18 million (2017 est.)<br>
 $35 million (2016 est.)<br>
 
 **Exports**<br>
-$30 million note: data are in current year dollars (2019 est.)<br>
-$20 million note: data are in current year dollars (2018 est.)<br>
+$30 million (2019 est.) note: data are in current year dollars<br>
+$20 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Thailand 53%, Philippines 17%, South Korea 10%, Japan 9% (2019)<br>
@@ -463,8 +466,8 @@ Thailand 53%, Philippines 17%, South Korea 10%, Japan 9% (2019)<br>
 fish and fish produces, ships, coconut oil, copra (2019)<br>
 
 **Imports**<br>
-$180 million note: data are in current year dollars (2019 est.)<br>
-$170 million note: data are in current year dollars (2018 est.)<br>
+$180 million (2019 est.) note: data are in current year dollars<br>
+$170 million (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 20%, Fiji 19%, Australia 12%, Taiwan 11%, South Korea 11%, New Zealand 7%, Japan 5% (2019)<br>
@@ -564,7 +567,7 @@ _electrification - total population_: 100% (2020)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 33 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 54,661 (2020)<br>
@@ -582,9 +585,13 @@ multi-channel TV packages provide access to Australian and US stations; 1 govern
 **Internet country code**<br>
 .ki<br>
 
+**Internet users**<br>
+_total_: 45,390 (2020 est.)<br>
+_percent of population_: 38% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 185 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.15 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.15 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -612,7 +619,7 @@ _under 914 m_: 5 (2021)<br>
 _total_: 670 km (2017)<br>
 
 **Waterways**<br>
-5 km (small network of canals in Line Islands) (2012)<br>
+5 km (2012) (small network of canals in Line Islands)<br>
 
 **Merchant marine**<br>
 _total_: 88<br>

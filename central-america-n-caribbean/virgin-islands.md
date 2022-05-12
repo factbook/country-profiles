@@ -69,6 +69,9 @@ several hurricanes in recent years; frequent and severe droughts and floods; occ
 **Geography - note**<br>
 important location along the Anegada Passage - a key shipping lane for the Panama Canal; Saint Thomas has one of the best natural deepwater harbors in the Caribbean<br>
 
+**Map description**<br>
+<p>Virgin Islands map showing the three major islands that make up the US territory in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -93,7 +96,7 @@ _0-14 years_: 19.71% (male 10,671/female 10,192)<br>
 _15-24 years_: 10.16% (male 5,219/female 5,535)<br>
 _25-54 years_: 36.07% (male 17,844/female 20,342)<br>
 _55-64 years_: 14.24% (male 7,222/female 7,859)<br>
-_65 years and over_: 19.82% (male 9,424/female 11,562) (2021 est.)<br>
+_65 years and over_: 19.82% (2021 est.) (male 9,424/female 11,562)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 66<br>
@@ -331,7 +334,7 @@ _services_: 78% (2012 est.)<br>
 _household consumption_: 68.2% (2016 est.)<br>
 _government consumption_: 26.8% (2016 est.)<br>
 _investment in fixed capital_: 7.5% (2016 est.)<br>
-_investment in inventories_: 15% NA (2016 est.)<br>
+_investment in inventories_: 15% (2016 est.) NA<br>
 _exports of goods and services_: 46.7% (2016 est.)<br>
 _imports of goods and services_: -64.3% (2016 est.)<br>
 
@@ -498,6 +501,10 @@ about a dozen TV broadcast stations including 1 public TV station; multi-channel
 
 **Internet country code**<br>
 .vi<br>
+
+**Internet users**<br>
+_total_: 68,268 (2019 est.)<br>
+_percent of population_: 64% (2019 est.)<br>
 
 ## Transportation
 

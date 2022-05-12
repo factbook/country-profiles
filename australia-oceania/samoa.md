@@ -70,6 +70,9 @@ about three-quarters of the population lives on the island of Upolu<br>
 **Geography - note**<br>
 occupies an almost central position within Polynesia<br>
 
+**Map description**<br>
+<p>Samoa map showing the islands that comprise this archipelagic country in the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 29.31% (male 30,825/female 28,900)<br>
 _15-24 years_: 19.61% (male 20,519/female 19,439)<br>
 _25-54 years_: 37.4% (male 39,011/female 37,200)<br>
 _55-64 years_: 7.5% (male 7,780/female 7,505)<br>
-_65 years and over_: 6.18% (male 5,513/female 7,082) (2020 est.)<br>
+_65 years and over_: 6.18% (2020 est.) (male 5,513/female 7,082)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 73.3<br>
@@ -469,7 +472,7 @@ June 1 - May 31<br>
 -$37 million (2016 est.)<br>
 
 **Exports**<br>
-$310 million note: data are in current year dollars (2018 est.)<br>
+$310 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 American Samoa 21%, United States 13%, New Zealand 12%, Australia 10%, Tokelau 6%, Taiwan 5% (2019)<br>
@@ -478,7 +481,7 @@ American Samoa 21%, United States 13%, New Zealand 12%, Australia 10%, Tokelau 6
 refined petroleum, fish, fruit juice, coconut oil, beer (2019)<br>
 
 **Imports**<br>
-$430 million note: data are in current year dollars (2018 est.)<br>
+$430 million (2018 est.) note: data are in current year dollars<br>
 $312.6 million (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -595,9 +598,13 @@ state-owned TV station privatized in 2008; 4 privately owned television broadcas
 **Internet country code**<br>
 .ws<br>
 
+**Internet users**<br>
+_total_: 67,012 (2019 est.)<br>
+_percent of population_: 34% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,692 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.85 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.85 (2021 est.) less than 1<br>
 
 ## Transportation
 

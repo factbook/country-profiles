@@ -70,6 +70,9 @@ tropical cyclones (November to March)<br>
 **Geography - note**<br>
 the northern Cook Islands are seven low-lying, sparsely populated, coral atolls; the southern Cook Islands, where most of the population lives, consist of eight elevated, fertile, volcanic isles, including the largest, Rarotonga, at 67 sq km<br>
 
+**Map description**<br>
+<p>Cook Islands map showing the islands positioned in the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -95,7 +98,7 @@ _0-14 years_: 18.69% (male 797/female 722)<br>
 _15-24 years_: 13.9% (male 606/female 524)<br>
 _25-54 years_: 37.66% (male 1,595/female 1,634)<br>
 _55-64 years_: 15.69% (male 711/female 564)<br>
-_65 years and over_: 14.74% (male 584/female 614) (2022 est.)<br>
+_65 years and over_: 14.74% (2022 est.) (male 584/female 614)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -508,6 +511,10 @@ _international_: country code - 682; the Manatua submarine cable to surrounding 
 
 **Internet country code**<br>
 .ck<br>
+
+**Internet users**<br>
+_total_: 9,476 (2019 est.)<br>
+_percent of population_: 54% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,000 (2021)<br>

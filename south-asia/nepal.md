@@ -76,6 +76,9 @@ severe thunderstorms; flooding; landslides; drought and famine depending on the 
 **Geography - note**<br>
 landlocked; strategic location between China and India; contains eight of world's 10 highest peaks, including Mount Everest and Kanchenjunga - the world's tallest and third tallest mountains - on the borders with China and India respectively<br>
 
+**Map description**<br>
+<p>Nepal map showing major population centers as well as parts of surrounding countries – China to the north, India to the south.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -101,7 +104,7 @@ _0-14 years_: 28.36% (male 4,526,786/female 4,073,642)<br>
 _15-24 years_: 20.93% (male 3,276,431/female 3,070,843)<br>
 _25-54 years_: 38.38% (male 5,251,553/female 6,387,365)<br>
 _55-64 years_: 6.64% (male 954,836/female 1,059,360)<br>
-_65 years and over_: 5.69% (male 852,969/female 874,092) (2020 est.)<br>
+_65 years and over_: 5.69% (2020 est.) (male 852,969/female 874,092)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53<br>
@@ -200,7 +203,7 @@ _unimproved: total_: total: 12.3% of population (2020 est.)<br>
 30,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<1000 (2020 est.)<br>
+(2020 est.) <1000<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -497,9 +500,9 @@ _expenditures_: 5.945 billion (2017 est.)<br>
 $1.339 billion (2016 est.)<br>
 
 **Exports**<br>
-$1.79 billion note: data are in current year dollars (2020 est.)<br>
-$2.73 billion note: data are in current year dollars (2019 est.)<br>
-$2.68 billion note: data are in current year dollars (2018 est.)<br>
+$1.79 billion (2020 est.) note: data are in current year dollars<br>
+$2.73 billion (2019 est.) note: data are in current year dollars<br>
+$2.68 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 India 68%, United States 10% (2019)<br>
@@ -508,9 +511,9 @@ India 68%, United States 10% (2019)<br>
 palm oil, clothing and apparel, carpets, soybean oil, flavored water (2019)<br>
 
 **Imports**<br>
-$10.68 billion note: data are in current year dollars (2020 est.)<br>
-$13.83 billion note: data are in current year dollars (2019 est.)<br>
-$14.65 billion note: data are in current year dollars (2018 est.)<br>
+$10.68 billion (2020 est.) note: data are in current year dollars<br>
+$13.83 billion (2019 est.) note: data are in current year dollars<br>
+$14.65 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 India 70%, China 15% (2019)<br>
@@ -629,6 +632,10 @@ state operates 3 TV stations, as well as national and regional radio stations; 1
 **Internet country code**<br>
 .np<br>
 
+**Internet users**<br>
+_total_: 11,071,987 (2020 est.)<br>
+_percent of population_: 38% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1.27 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 4.36 (2021 est.)<br>
@@ -639,7 +646,7 @@ _subscriptions per 100 inhabitants_: 4.36 (2021 est.)<br>
 _number of registered air carriers_: 6 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 39<br>
 _annual passenger traffic on registered air carriers_: 3,296,953 (2018)<br>
-_annual freight traffic on registered air carriers_: 4.66 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 4.66 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 9N<br>
@@ -662,7 +669,7 @@ _under 914 m_: 29 (2021)<br>
 
 **Railways**<br>
 _total_: 59 km (2018)<br>
-_narrow gauge_: 59 km 0.762-m gauge (2018)<br>
+_narrow gauge_: 59 km (2018) 0.762-m gauge<br>
 
 **Roadways**<br>
 _total_: 27,990 km (2016)<br>
@@ -675,11 +682,11 @@ _unpaved_: 16,100 km (2016)<br>
 Nepal Army (includes Air Wing); Nepal Armed Police Force (under the Ministry of Home Affairs; paramilitary force responsible for border and internal security, including counter-insurgency, and assisting the Army in the event of an external invasion) (2021)<br>
 
 **Military expenditures**<br>
-1.4% of GDP (2020 est.)<br>
-2.1% of GDP (approximately $1.1 billion) (2019)<br>
-2.3% of GDP (approximately $1.11 billion) (2018)<br>
-2.6% of GDP (approximately $1.12 billion) (2017)<br>
-2.6% of GDP (approximately $990 million) (2016)<br>
+2.1% of GDP (2019) (approximately $1.1 billion)<br>
+2.3% of GDP (2018) (approximately $1.11 billion)<br>
+2.6% of GDP (2017) (approximately $1.12 billion)<br>
+2.6% of GDP (2016) (approximately $990 million)<br>
+2.4% of GDP (2015) (approximately $950 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 95,000 active troops (including a small air wing of about 500 personnel) (2021)<br>

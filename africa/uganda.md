@@ -78,6 +78,9 @@ droughts; floods; earthquakes; landslides; hailstorms<br>
 **Geography - note**<br>
 landlocked; fertile, well-watered country with many lakes and rivers; Lake Victoria, the world's largest tropical lake and the second largest fresh water lake, is shared among three countries: Kenya, Tanzania, and Uganda<br>
 
+**Map description**<br>
+<p>Uganda map showing major population centers as well as parts of surrounding countries and Lake Victoria.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -105,7 +108,7 @@ _0-14 years_: 48.21% (male 10,548,913/female 10,304,876)<br>
 _15-24 years_: 20.25% (male 4,236,231/female 4,521,698)<br>
 _25-54 years_: 26.24% (male 5,202,570/female 6,147,304)<br>
 _55-64 years_: 2.91% (male 579,110/female 681,052)<br>
-_65 years and over_: 2.38% (male 442,159/female 589,053) (2020 est.)<br>
+_65 years and over_: 2.38% (2020 est.) (male 442,159/female 589,053)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 92.3<br>
@@ -515,8 +518,8 @@ _expenditures_: 4.928 billion (2017 est.)<br>
 -$707 million (2016 est.)<br>
 
 **Exports**<br>
-$6.12 billion note: data are in current year dollars (2019 est.)<br>
-$5.63 billion note: data are in current year dollars (2018 est.)<br>
+$6.12 billion (2019 est.) note: data are in current year dollars<br>
+$5.63 billion (2018 est.) note: data are in current year dollars<br>
 $5.958 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -526,8 +529,8 @@ United Arab Emirates 58%, Kenya 9% (2019)<br>
 gold, coffee, milk, fish and fish products, tobacco (2019)<br>
 
 **Imports**<br>
-$9.54 billion note: data are in current year dollars (2019 est.)<br>
-$8.65 billion note: data are in current year dollars (2018 est.)<br>
+$9.54 billion (2019 est.) note: data are in current year dollars<br>
+$8.65 billion (2018 est.) note: data are in current year dollars<br>
 $7.44 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -631,7 +634,7 @@ _electrification - rural areas_: 17% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 90,774 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 25,395,500 (2019)<br>
@@ -649,9 +652,13 @@ public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV
 **Internet country code**<br>
 .ug<br>
 
+**Internet users**<br>
+_total_: 9,148,200 (2020 est.)<br>
+_percent of population_: 20% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 58,594 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.13 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.13 (2021) less than 1<br>
 
 ## Transportation
 
@@ -681,15 +688,15 @@ _under 914 m_: 7 (2021)<br>
 
 **Railways**<br>
 _total_: 1,244 km (2014)<br>
-_narrow gauge_: 1,244 km 1.000-m gauge (2014)<br>
+_narrow gauge_: 1,244 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 20,544 km (excludes local roads) (2017)<br>
+_total_: 20,544 km (2017) (excludes local roads)<br>
 _paved_: 4,257 km (2017)<br>
 _unpaved_: 16,287 km (2017)<br>
 
 **Waterways**<br>
-(there are no long navigable stretches of river in Uganda; parts of the Albert Nile that flow out of Lake Albert in the northwestern part of the country are navigable; several lakes including Lake Victoria and Lake Kyoga have substantial traffic; Lake Albert is navigable along a 200-km stretch from its northern tip to its southern shores) (2011)<br>
+(2011) (there are no long navigable stretches of river in Uganda; parts of the Albert Nile that flow out of Lake Albert in the northwestern part of the country are navigable; several lakes including Lake Victoria and Lake Kyoga have substantial traffic; Lake Albert is navigable along a 200-km stretch from its northern tip to its southern shores)<br>
 
 **Ports and terminals**<br>
 _lake port(s)_: Entebbe, Jinja, Port Bell (Lake Victoria)<br>
@@ -702,10 +709,10 @@ note - in 2018, President MUSEVENI created a volunteer force of Local Defense Un
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
-1.7% of GDP (approximately $870 million) (2019)<br>
-1.2% of GDP (approximately $640 million) (2018)<br>
-1.2% of GDP (approximately $610 million) (2017)<br>
-1.3% of GDP (approximately $620 million) (2016)<br>
+1.7% of GDP (2019) (approximately $870 million)<br>
+1.2% of GDP (2018) (approximately $640 million)<br>
+1.2% of GDP (2017) (approximately $610 million)<br>
+1.3% of GDP (2016) (approximately $620 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 45-50,000 troops, including about 1,000-1,500 air and marine personnel; approximately 20,000 personnel in the Local Defense Units (2021)<br>

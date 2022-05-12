@@ -87,6 +87,9 @@ vast majority of Canadians are positioned in a discontinuous band within approxi
 **Geography - note**<br>
 <p><strong>note 1:</strong> second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border</p> <p><strong>note 2:</strong> Canada has more fresh water than any other country and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes - that is more than all other countries combined</p><br>
 
+**Map description**<br>
+<p>Canada map showing the country positioned in northern North America between the North Pacific, Arctic, and North Atlantic Oceans.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -112,7 +115,7 @@ _0-14 years_: 15.99% (male 3,094,008/female 2,931,953)<br>
 _15-24 years_: 11.14% (male 2,167,013/female 2,032,064)<br>
 _25-54 years_: 39.81% (male 7,527,554/female 7,478,737)<br>
 _55-64 years_: 14.08% (male 2,624,474/female 2,682,858)<br>
-_65 years and over_: 18.98% (male 3,274,298/female 3,881,126) (2020 est.)<br>
+_65 years and over_: 18.98% (2020 est.) (male 3,274,298/female 3,881,126)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.2<br>
@@ -505,9 +508,9 @@ _expenditures_: 665.7 billion (2017 est.)<br>
 -$42.862 billion (2018 est.)<br>
 
 **Exports**<br>
-$477.31 billion note: data are in current year dollars (2020 est.)<br>
-$555.83 billion note: data are in current year dollars (2019 est.)<br>
-$556.89 billion note: data are in current year dollars (2018 est.)<br>
+$477.31 billion (2020 est.) note: data are in current year dollars<br>
+$555.83 billion (2019 est.) note: data are in current year dollars<br>
+$556.89 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 US 73% (2019)<br>
@@ -516,9 +519,9 @@ US 73% (2019)<br>
 crude petroleum, cars and vehicle parts, gold, refined petroleum, natural gas (2019)<br>
 
 **Imports**<br>
-$510.29 billion note: data are in current year dollars (2020 est.)<br>
-$583.6 billion note: data are in current year dollars (2019 est.)<br>
-$589.55 billion note: data are in current year dollars (2018 est.)<br>
+$510.29 billion (2020 est.) note: data are in current year dollars<br>
+$583.6 billion (2019 est.) note: data are in current year dollars<br>
+$589.55 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 US 57%, China 11%, Mexico 5% (2019)<br>
@@ -635,8 +638,12 @@ _international_: country code - 1; landing points for the Nunavut Undersea Fiber
 **Internet country code**<br>
 .ca<br>
 
+**Internet users**<br>
+_total_: 36,896,088 (2020 est.)<br>
+_percent of population_: 97% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 15,825,813 Retail high-speed Internet access subs (2021)<br>
+_total_: 15,825,813 (2021) Retail high-speed Internet access subs<br>
 _subscriptions per 100 inhabitants_: 41.93 (2021)<br>
 
 ## Transportation
@@ -645,7 +652,7 @@ _subscriptions per 100 inhabitants_: 41.93 (2021)<br>
 _number of registered air carriers_: 51 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 879<br>
 _annual passenger traffic on registered air carriers_: 89.38 million (2018)<br>
-_annual freight traffic on registered air carriers_: 3,434,070,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 3,434,070,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 C<br>
@@ -674,16 +681,16 @@ _under 914 m_: 484 (2021)<br>
 840,000 km oil and gas&nbsp; (2017)<br>
 
 **Railways**<br>
-_total_: 77,932 km note: 129 km electrified (2021) (2014)<br>
-_standard gauge_: 77,932 km 1.435-m gauge (2014)<br>
+_total_: 77,932 km (2014) note: 129 km electrified (2021)<br>
+_standard gauge_: 77,932 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>
 _total_: 1,042,300 km (2011)<br>
-_paved_: 415,600 km (includes 17,000 km of expressways) (2011)<br>
+_paved_: 415,600 km (2011) (includes 17,000 km of expressways)<br>
 _unpaved_: 626,700 km (2011)<br>
 
 **Waterways**<br>
-636 km (Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with United States) (2011)<br>
+636 km (2011) (Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with United States)<br>
 
 **Merchant marine**<br>
 _total_: 679<br>
@@ -707,9 +714,9 @@ note - the Army reserves include the Canadian Rangers, which provides a limited 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
-1.3% of GDP (approximately $26 billion) (2019)<br>
-1.3% of GDP (approximately $25.7 billion) (2018)<br>
-1.4% of GDP (approximately $27.6 billion) (2017)<br>
+1.3% of GDP (2019) (approximately $26 billion)<br>
+1.3% of GDP (2018) (approximately $25.7 billion)<br>
+1.4% of GDP (2017) (approximately $27.6 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 70,000 total active personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2021)<br>

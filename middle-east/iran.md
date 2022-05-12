@@ -82,6 +82,9 @@ periodic droughts, floods; dust storms, sandstorms; earthquakes<br>
 **Geography - note**<br>
 strategic location on the Persian Gulf and Strait of Hormuz, which are vital maritime pathways for crude oil transport<br>
 
+**Map description**<br>
+<p>Iran map showing major cities as well as parts of surrounding countries and the Persian Gulf and Gulf of Oman.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -106,7 +109,7 @@ _0-14 years_: 24.11% (male 10,472,844/female 10,000,028)<br>
 _15-24 years_: 13.36% (male 5,806,034/female 5,537,561)<br>
 _25-54 years_: 48.94% (male 21,235,038/female 20,327,384)<br>
 _55-64 years_: 7.72% (male 3,220,074/female 3,337,420)<br>
-_65 years and over_: 5.87% (male 2,316,677/female 2,670,254) (2020 est.)<br>
+_65 years and over_: 5.87% (2020 est.) (male 2,316,677/female 2,670,254)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.6<br>
@@ -195,7 +198,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 54,000 (2020 est.)<br>
@@ -622,6 +625,10 @@ state-run broadcast media with no private, independent broadcasters; Islamic Rep
 **Internet country code**<br>
 .ir<br>
 
+**Internet users**<br>
+_total_: 75,594,081 (2020 est.)<br>
+_percent of population_: 84% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 9,564,195 (2021)<br>
 _subscriptions per 100 inhabitants_: 11.39 (2021)<br>
@@ -632,7 +639,7 @@ _subscriptions per 100 inhabitants_: 11.39 (2021)<br>
 _number of registered air carriers_: 22 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 237<br>
 _annual passenger traffic on registered air carriers_: 25,604,871 (2018)<br>
-_annual freight traffic on registered air carriers_: 290.74 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 290.74 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 EP<br>
@@ -664,8 +671,8 @@ _under 914 m_: 32 (2021)<br>
 
 **Railways**<br>
 _total_: 8,484 km (2014)<br>
-_standard gauge_: 8,389.5 km 1.435-m gauge (189.5 km electrified) (2014)<br>
-_broad gauge_: 94 km 1.676-m gauge (2014)<br>
+_standard gauge_: 8,389.5 km (2014) 1.435-m gauge (189.5 km electrified)<br>
+_broad gauge_: 94 km (2014) 1.676-m gauge<br>
 
 **Roadways**<br>
 _total_: 223,485 km (2018)<br>
@@ -673,7 +680,7 @@ _paved_: 195,485 km (2018)<br>
 _unpaved_: 28,000 km (2018)<br>
 
 **Waterways**<br>
-850 km (on Karun River; some navigation on Lake Urmia) (2012)<br>
+850 km (2012) (on Karun River; some navigation on Lake Urmia)<br>
 
 **Merchant marine**<br>
 _total_: 893<br>
@@ -691,10 +698,10 @@ note(s) - the Artesh Navy operates Iran&rsquo;s larger warships and operates in 
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>
-2.5% of GDP (approximately $22.8 billion) (2019 est.)<br>
-3.4% of GDP (approximately $29.1 billion) (2018 est.)<br>
-3.4% of GDP (approximately $31.2 billion) (2017 est.)<br>
-3.1% of GDP (approximately $29.2 billion) (2016 est.)<br>
+2.5% of GDP (2019 est.) (approximately $22.8 billion)<br>
+3.4% of GDP (2018 est.) (approximately $29.1 billion)<br>
+3.4% of GDP (2017 est.) (approximately $31.2 billion)<br>
+3.1% of GDP (2016 est.) (approximately $29.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 550-600,000 total active personnel; approximately 400,000 Islamic Republic of Iran Regular Forces (350,000 Ground Forces; 18,000 Navy; 40,000 Air Force/Air Defense Forces); approximately 150-190,000 Islamic Revolutionary Guard Corps (100-150,000 Ground Forces; 20,000 Navy; 15,000 Aerospace Force; 5-15,000 Qods Force); est. 90,000 active Basij Paramilitary Forces (2021)<br>
@@ -705,7 +712,7 @@ note - in 2020, the UN lifted a 2010 embargo on exports of most types of major a
 
 **Military service age and obligation**<br>
 18 years of age for compulsory military service; 16 years of age for volunteers; 17 years of age for Law Enforcement Forces; 15 years of age for Basij Forces (Popular Mobilization Army); conscript military service obligation is 18-24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempt from military service (2021)<br>
-note - as of 2019, approximately 80% of Artesh ground forces personnel were conscripts, while Navy and Air/Air Defense Force personnel were primarily volunteers; conscripts reportedly comprised more than 50 percent of the IRGC<br>
+note - as of 2019, approximately 80% of Artesh ground forces personnel were conscripts, while Navy and Air/Air Defense Force personnel were primarily volunteers; conscripts reportedly comprised more than 50 percent of the IRGC (most volunteers were reportedly recruited from the Basij Forces)<br>
 
 **Military deployments**<br>
 estimated 1-3,000 Syria (2022)<br>

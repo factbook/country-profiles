@@ -70,6 +70,9 @@ periodic droughts; hurricanes<br>
 **Geography - note**<br>
 important location along the Mona Passage - a key shipping lane to the Panama Canal; San Juan is one of the biggest and best natural harbors in the Caribbean; many small rivers and high central mountains ensure land is well watered; south coast relatively dry; fertile coastal plain belt in north<br>
 
+**Map description**<br>
+<p>Puerto Rico map showing major population centers and islands of this US territory in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -95,7 +98,7 @@ _0-14 years_: 14.22% (male 231,406/female 222,061)<br>
 _15-24 years_: 12.78% (male 207,169/female 200,373)<br>
 _25-54 years_: 37.73% (male 573,114/female 630,276)<br>
 _55-64 years_: 13.5% (male 197,438/female 232,931)<br>
-_65 years and over_: 21.77% (male 297,749/female 396,551) (2020 est.)<br>
+_65 years and over_: 21.77% (2020 est.) (male 297,749/female 396,551)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.7<br>
@@ -558,6 +561,10 @@ more than 30 TV stations operating; cable TV subscription services are available
 **Internet country code**<br>
 .pr<br>
 
+**Internet users**<br>
+_total_: 2,559,600 (2020 est.)<br>
+_percent of population_: 78% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 671,284 (2021)<br>
 _subscriptions per 100 inhabitants_: 23.46 (2021)<br>
@@ -582,7 +589,7 @@ _914 to 1,523 m_: 1<br>
 _under 914 m_: 10 (2021)<br>
 
 **Roadways**<br>
-_total_: 26,862 km (includes 454 km of expressways) (2012)<br>
+_total_: 26,862 km (2012) (includes 454 km of expressways)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, San Juan<br>

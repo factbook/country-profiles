@@ -76,6 +76,9 @@ recurring droughts<br>
 **Geography - note**<br>
 landlocked savanna cut by the three principal rivers of the Black, Red, and White Voltas<br>
 
+**Map description**<br>
+<p>Burkina Faso map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -103,7 +106,7 @@ _0-14 years_: 43.58% (male 4,606,350/female 4,473,951)<br>
 _15-24 years_: 20.33% (male 2,121,012/female 2,114,213)<br>
 _25-54 years_: 29.36% (male 2,850,621/female 3,265,926)<br>
 _55-64 years_: 3.57% (male 321,417/female 423,016)<br>
-_65 years and over_: 3.16% (male 284,838/female 374,057) (2020 est.)<br>
+_65 years and over_: 3.16% (2020 est.) (male 284,838/female 374,057)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 87.9<br>
@@ -375,7 +378,7 @@ African Democratic Rally/Alliance for Democracy and Federation or ADF/RDA [Gilbe
 ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Seydou KABORE (since 18 January 2017)<br>
+_chief of mission_: Charge d'Affaires Boulmonli Leonard LOMBO (since 15 April 2022)<br>
 _chancery_: 2340 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-5577<br>
 _FAX_: [1] (202) 667-1882<br>
@@ -509,8 +512,8 @@ calendar year<br>
 -$820 million (2016 est.)<br>
 
 **Exports**<br>
-$4.47 billion note: data are in current year dollars (2019 est.)<br>
-$4.51 billion note: data are in current year dollars (2018 est.)<br>
+$4.47 billion (2019 est.) note: data are in current year dollars<br>
+$4.51 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Switzerland 59%, India 21% (2019)<br>
@@ -519,8 +522,8 @@ Switzerland 59%, India 21% (2019)<br>
 gold, cotton, zinc, cashews, sesame seeds (2019)<br>
 
 **Imports**<br>
-$5.02 billion note: data are in current year dollars (2019 est.)<br>
-$5.17 billion note: data are in current year dollars (2018 est.)<br>
+$5.02 billion (2019 est.) note: data are in current year dollars<br>
+$5.17 billion (2018 est.) note: data are in current year dollars<br>
 $5.3 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -622,7 +625,7 @@ _electrification - rural areas_: 2% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 75,039 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 22,117,218 (2020)<br>
@@ -640,9 +643,13 @@ since the official inauguration of Terrestrial Digital Television (TNT) in Decem
 **Internet country code**<br>
 .bf<br>
 
+**Internet users**<br>
+_total_: 4,598,721 (2020 est.)<br>
+_percent of population_: 22% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 13,979 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.07 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.07 (2021) less than 1<br>
 
 ## Transportation
 
@@ -650,7 +657,7 @@ _subscriptions per 100 inhabitants_: 0.07 less than 1 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 3<br>
 _annual passenger traffic on registered air carriers_: 151,531 (2018)<br>
-_annual freight traffic on registered air carriers_: 100,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 100,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 XT<br>
@@ -671,7 +678,7 @@ _under 914 m_: 5 (2021)<br>
 
 **Railways**<br>
 _total_: 622 km (2014)<br>
-_narrow gauge_: 622 km 1.000-m gauge (2014)<br>
+_narrow gauge_: 622 km (2014) 1.000-m gauge<br>
 <strong>note:</strong> another 660 km of this railway extends into Cote d'Ivoire<br>
 
 **Roadways**<br>
@@ -687,10 +694,10 @@ note - the National Gendarmerie officially reports to the Ministry of Defense, b
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
-2.2% of GDP (approximately $450 million) (2019 est.)<br>
-1.9% of GDP (approximately $370 million) (2018 est.)<br>
-1.4% of GDP (approximately $260 million) (2017 est.)<br>
-1.2% of GDP (approximately $200 million) (2016 est.)<br>
+2.2% of GDP (2019 est.) (approximately $450 million)<br>
+1.9% of GDP (2018 est.) (approximately $370 million)<br>
+1.4% of GDP (2017 est.) (approximately $260 million)<br>
+1.2% of GDP (2016 est.) (approximately $200 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 personnel (7,000 Army; 500 Air Force; 4,500 National Gendarmerie) (2021)<br>

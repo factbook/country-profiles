@@ -70,6 +70,9 @@ avalanches<br>
 **Geography - note**<br>
 landlocked; straddles a number of important crossroads in the Pyrenees<br>
 
+**Map description**<br>
+<p>Andorra map showing major towns as well as parts of neighboring France and Spain.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 13.37% (male 5,901/female 5,551)<br>
 _15-24 years_: 10.16% (male 4,474/female 4,227)<br>
 _25-54 years_: 43.19% (male 18,857/female 18,131)<br>
 _55-64 years_: 15.91% (male 7,184/female 6,443)<br>
-_65 years and over_: 17.36% (male 7,544/female 7,323) (2020 est.)<br>
+_65 years and over_: 17.36% (2020 est.) (male 7,544/female 7,323)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -535,9 +538,13 @@ _international_: country code - 376; landline circuits to France and Spain; mode
 **Internet country code**<br>
 .ad<br>
 
+**Internet users**<br>
+_total_: 71,084 (2020 est.)<br>
+_percent of population_: 92% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 37,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 47.89 (2021)<br>
+_total_: 37,000 (2022 est.)<br>
+_subscriptions per 100 inhabitants_: 47.89 (2022)<br>
 
 ## Transportation
 
@@ -558,5 +565,5 @@ defense is the responsibility of France and Spain<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Andorra-France:</em> None<br><br><em>Andorra-Spain:</em> None</p><br>
+<p><em>Andorra-France:</em> none identified<br><br><em>Andorra-Spain:</em> none identified</p><br>
 

@@ -67,6 +67,9 @@ cyclone season is October to April<br>
 **Geography - note**<br>
 <strong>note 1: </strong>there are 27 coral islands in the group; apart from North Keeling Island, which lies 30 km north of the main group, the islands form a horseshoe-shaped atoll surrounding a lagoon; North Keeling Island was declared a national park in 1995 and is administered by Parks Australia; the population on the two inhabited islands generally is split between the ethnic Europeans on West Island and the ethnic Malays on Home Island; the islands are thickly covered with coconut palms and other vegetation<br><br><strong>note 2:</strong> site of a World War I naval battle in November 1914 between the Australian light cruiser HMAS Sydney and the German raider SMS Emden; after being heavily damaged in the engagement, the Emden was beached by her captain on North Keeling Island<br>
 
+**Map description**<br>
+<p>Cocos (Keeling) Island map showing the Australian territory in the Indian Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ NA<br>
 8.89 deaths/1,000 population (2021 est.)<br>
 
 **Net migration rate**<br>
-NA (2021 est.)<br>
+(2021 est.) NA<br>
 
 **Population distribution**<br>
 only Home Island and West Island are populated<br>
@@ -117,15 +120,15 @@ only Home Island and West Island are populated<br>
 **Infant mortality rate**<br>
 _total_: NA<br>
 _male_: NA<br>
-_female_: NA (2021 est.)<br>
+_female_: (2021 est.) NA<br>
 
 **Life expectancy at birth**<br>
 _total population_: NA<br>
 _male_: NA<br>
-_female_: NA (2021 est.)<br>
+_female_: (2021 est.) NA<br>
 
 **Total fertility rate**<br>
-NA (2021 est.)<br>
+(2021 est.) NA<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

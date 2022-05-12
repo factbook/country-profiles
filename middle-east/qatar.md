@@ -75,6 +75,9 @@ haze, dust storms, sandstorms common<br>
 **Geography - note**<br>
 the peninsula occupies a strategic location in the central Persian Gulf near major petroleum deposits<br>
 
+**Map description**<br>
+<p>Qatar map showing major population centers and neighboring countries of this peninsular country that extends into the Persian Gulf.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -99,7 +102,7 @@ _0-14 years_: 12.84% (male 158,702/female 155,211)<br>
 _15-24 years_: 11.78% (male 203,703/female 84,323)<br>
 _25-54 years_: 70.66% (male 1,439,364/female 287,575)<br>
 _55-64 years_: 3.53% (male 66,561/female 19,600)<br>
-_65 years and over_: 1.19% (male 19,067/female 10,068) (2020 est.)<br>
+_65 years and over_: 1.19% (2020 est.) (male 19,067/female 10,068)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 18.1<br>
@@ -188,13 +191,13 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<200 (2020 est.)<br>
+(2020 est.) <200<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020 est.)<br>
+(2020 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 35.1% (2016)<br>
@@ -474,9 +477,9 @@ $6.426 billion (2017 est.)<br>
 -$8.27 billion (2016 est.)<br>
 
 **Exports**<br>
-$70.93 billion note: data are in current year dollars (2020 est.)<br>
-$92.05 billion note: data are in current year dollars (2019 est.)<br>
-$102.56 billion note: data are in current year dollars (2018 est.)<br>
+$70.93 billion (2020 est.) note: data are in current year dollars<br>
+$92.05 billion (2019 est.) note: data are in current year dollars<br>
+$102.56 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Japan 17%, South Korea 16%, India 14%, China 13%, Singapore 7% (2019)<br>
@@ -485,9 +488,9 @@ Japan 17%, South Korea 16%, India 14%, China 13%, Singapore 7% (2019)<br>
 natural gas, crude petroleum, refined petroleum, ethylene polymers, fertilizers (2019)<br>
 
 **Imports**<br>
-$59.06 billion note: data are in current year dollars (2020 est.)<br>
-$66.77 billion note: data are in current year dollars (2019 est.)<br>
-$65.81 billion note: data are in current year dollars (2018 est.)<br>
+$59.06 billion (2020 est.) note: data are in current year dollars<br>
+$66.77 billion (2019 est.) note: data are in current year dollars<br>
+$65.81 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 15%, France 13%, United Kingdom 9%, China 9%, Germany 5%, Italy 5% (2019)<br>
@@ -604,6 +607,10 @@ TV and radio broadcast licensing and access to local media markets are state con
 **Internet country code**<br>
 .qa<br>
 
+**Internet users**<br>
+_total_: 2,881,060 (2020 est.)<br>
+_percent of population_: 100% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 296,126 (2021)<br>
 _subscriptions per 100 inhabitants_: 10.28 (2021)<br>
@@ -614,7 +621,7 @@ _subscriptions per 100 inhabitants_: 10.28 (2021)<br>
 _number of registered air carriers_: 3 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 251<br>
 _annual passenger traffic on registered air carriers_: 29,178,923 (2018)<br>
-_annual freight traffic on registered air carriers_: 12,666,710,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 12,666,710,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 A7<br>
@@ -656,10 +663,10 @@ Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, in
 
 **Military expenditures**<br>
 4% of GDP (2020 est.)<br>
-3.4% of GDP (approximately $8.44 billion) (2019 est.)<br>
-3.3% of GDP (approximately $8.23 billion) (2018 est.)<br>
-3.4% of GDP (approximately $8.22 billion) (2017 est.)<br>
-4.1% of GDP (approximately $9.22 billion) (2016 est.)<br>
+3.4% of GDP (2019 est.) (approximately $8.44 billion)<br>
+3.3% of GDP (2018 est.) (approximately $8.23 billion)<br>
+3.4% of GDP (2017 est.) (approximately $8.22 billion)<br>
+4.1% of GDP (2016 est.) (approximately $9.22 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 15,000 active personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2021)<br>

@@ -76,6 +76,9 @@ a fairly even distribution throughout most of the country, with urban areas attr
 **Geography - note**<br>
 landlocked; strategic location astride main land routes between Western Europe and Balkan Peninsula as well as between Ukraine and Mediterranean basin; the north-south flowing Duna (Danube) and Tisza Rivers divide the country into three large regions<br>
 
+**Map description**<br>
+<p>Hungary map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -101,7 +104,7 @@ _0-14 years_: 14.54% (male 731,542/female 689,739)<br>
 _15-24 years_: 10.43% (male 526,933/female 492,388)<br>
 _25-54 years_: 42.17% (male 2,075,763/female 2,044,664)<br>
 _55-64 years_: 12.17% (male 552,876/female 636,107)<br>
-_65 years and over_: 20.69% (male 773,157/female 1,248,658) (2020 est.)<br>
+_65 years and over_: 20.69% (2020 est.) (male 773,157/female 1,248,658)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.9<br>
@@ -193,13 +196,13 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2018 est.)<br>
+(2018 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 3,700 (2018 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018 est.)<br>
+(2018 est.) <100<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2016)<br>
@@ -340,11 +343,11 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age, 16 if married and marriage is registered in Hungary; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Janos ADER (since 10 May 2012)<br>
+_chief of state_: President Katalin NOVAK (since 10 May 2022)<br>
 _head of government_: Prime Minister Viktor ORBAN (since 29 May 2010)<br>
 _cabinet_: Cabinet of Ministers proposed by the prime minister and appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 11 March 2022 (next to be held spring 2027); prime minister elected by the National Assembly on the recommendation of the president; election last held on 10 May 2018 (next to be held in April or May 2022)<br>
-_election results_: <em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51; note - Katalin NOVAK will assume office in May 2022<em><br><br>2017:</em> Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39<br><br>Viktor ORBAN (Fidesz) reelected prime minister; National Assembly vote - 134 to 28<br>
+_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 11 March 2022 (next to be held spring 2027); prime minister elected by the National Assembly on the recommendation of the president; election last held on 3 April 2022 (next to be held April or May 2027)<br>
+_election results_: <em>2022: </em>Katalin NOVAK (Fidesz) elected president; National Assembly vote - 137 to 51<em><br><br>2017:</em> Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39<br><br>Viktor ORBAN (Fidesz) reelected prime minister<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote, using the d&rsquo;Hondt method; members serve 4-year terms)<br>
@@ -502,9 +505,9 @@ calendar year<br>
 $510 million (2018 est.)<br>
 
 **Exports**<br>
-$123.83 billion note: data are in current year dollars (2020 est.)<br>
-$134.55 billion note: data are in current year dollars (2019 est.)<br>
-$134.66 billion note: data are in current year dollars (2018 est.)<br>
+$123.83 billion (2020 est.) note: data are in current year dollars<br>
+$134.55 billion (2019 est.) note: data are in current year dollars<br>
+$134.66 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 27%, Romania 5%, Italy 5%, Slovakia 5% (2019)<br>
@@ -513,9 +516,9 @@ Germany 27%, Romania 5%, Italy 5%, Slovakia 5% (2019)<br>
 cars and vehicle parts, packaged medicines, spark-ignition engines, video displays, broadcasting equipment (2019)<br>
 
 **Imports**<br>
-$120.25 billion note: data are in current year dollars (2020 est.)<br>
-$129.9 billion note: data are in current year dollars (2019 est.)<br>
-$127.52 billion note: data are in current year dollars (2018 est.)<br>
+$120.25 billion (2020 est.) note: data are in current year dollars<br>
+$129.9 billion (2019 est.) note: data are in current year dollars<br>
+$127.52 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 25%, China 6%, Poland 6%, Austria 6%, Czechia 5%, Slovakia 5%, Italy 5%, Netherlands 5% (2019)<br>
@@ -632,9 +635,13 @@ mixed system of state-supported public service broadcast media and private broad
 **Internet country code**<br>
 .hu<br>
 
+**Internet users**<br>
+_total_: 8,287,626 (2020 est.)<br>
+_percent of population_: 85% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 3,265,308 Estimated value based on data of the seven largest operators. (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 33.8 (2021 est.)<br>
+_total_: 3,265,308 (2022)<br>
+_subscriptions per 100 inhabitants_: 33.8 (2022 est.)<br>
 
 ## Transportation
 
@@ -671,17 +678,17 @@ _under 914 m_: 11 (2021)<br>
 
 **Railways**<br>
 _total_: 8,049 km (2014)<br>
-_standard gauge_: 7,794 km 1.435-m gauge (2,889 km electrified) (2014)<br>
-_narrow gauge_: 219 km 0.760-m gauge (2014)<br>
-_broad gauge_: 36 km 1.524-m gauge (2014)<br>
+_standard gauge_: 7,794 km (2014) 1.435-m gauge (2,889 km electrified)<br>
+_narrow gauge_: 219 km (2014) 0.760-m gauge<br>
+_broad gauge_: 36 km (2014) 1.524-m gauge<br>
 
 **Roadways**<br>
 _total_: 203,601 km (2014)<br>
-_paved_: 77,087 km (includes 1,582 km of expressways) (2014)<br>
+_paved_: 77,087 km (2014) (includes 1,582 km of expressways)<br>
 _unpaved_: 126,514 km (2014)<br>
 
 **Waterways**<br>
-1,622 km (most on Danube River) (2011)<br>
+1,622 km (2011) (most on Danube River)<br>
 
 **Merchant marine**<br>
 _total_: 1<br>
@@ -698,12 +705,12 @@ the Hungarian Defense Forces are a unified force (Joint Force Command) with Land
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
 1.8% of GDP (2020)<br>
-1.3% of GDP (approximately $3.02 billion) (2019)<br>
-1% of GDP (approximately $2.4 billion) (2018)<br>
-1.2% of GDP (approximately $2.21 billion) (2017)<br>
+1.3% of GDP (2019) (approximately $3.02 billion)<br>
+1% of GDP (2018) (approximately $2.4 billion)<br>
+1.2% of GDP (2017) (approximately $2.21 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Hungarian Defense Forces have approximately 23,000 active duty troops (18,000 Army; 5,000 Air Force) (2021)<br>
+the Hungarian Defense Forces have approximately 20,000 active duty troops (15,000 Army; 5,000 Air Force) (2021)<br>
 note - in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000, but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -725,7 +732,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 539,821 (Ukraine) (as of 3 May 2022)<br>
+_refugees (country of origin)_: 572,760 (Ukraine) (as of 9 May 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

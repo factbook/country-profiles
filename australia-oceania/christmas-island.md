@@ -66,6 +66,9 @@ the narrow fringing reef surrounding the island can be a maritime hazard<br>
 **Geography - note**<br>
 located along major sea lanes of the Indian Ocean<br>
 
+**Map description**<br>
+<p>Christmas Island map showing the Australian territory in the Indian Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -87,11 +90,11 @@ English (official) 27.6%, Mandarin 17.2%, Malay 17.1%, Cantonese 3.9%, Min Nan 1
 Muslim 19.4%, Buddhist 18.3%, Roman Catholic 8.8%, Protestant 6.5% (includes Anglican 3.6%, Uniting Church 1.2%, other 1.7%), other Christian 3.3%, other 0.6%, none 15.3%, unspecified 27.7% (2016 est.)<br>
 
 **Age structure**<br>
-_0-14 years_: 12.79% (male 147/female 135) (2017 est.)<br>
-_15-24 years_: 12.2% (male 202/female 67) (2017 est.)<br>
-_25-54 years_: 57.91% (male 955/female 322) (2017 est.)<br>
-_55-64 years_: 11.66% (male 172/female 85) (2017 est.)<br>
-_65 years and over_: 5.44% (male 84/female 36) (2017 est.)<br>
+_0-14 years_: 12.79% (2017 est.) (male 147/female 135)<br>
+_15-24 years_: 12.2% (2017 est.) (male 202/female 67)<br>
+_25-54 years_: 57.91% (2017 est.) (male 955/female 322)<br>
+_55-64 years_: 11.66% (2017 est.) (male 172/female 85)<br>
+_65 years and over_: 5.44% (2017 est.) (male 84/female 36)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -115,12 +118,12 @@ majority of the population lives on the northern tip of the island<br>
 NA<br>
 
 **Infant mortality rate**<br>
-_total_: NA (2018)<br>
+_total_: (2018) NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
 **Life expectancy at birth**<br>
-_total population_: NA (2017 est.)<br>
+_total population_: (2017 est.) NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
@@ -307,6 +310,10 @@ _international_: international code - 61 8; ASC submarine cable to Singapore and
 **Internet country code**<br>
 .cx<br>
 
+**Internet users**<br>
+_total_: 790 (2016 est.)<br>
+_percent of population_: 36% (2016 est.)<br>
+
 ## Transportation
 
 **Airports**<br>
@@ -318,7 +325,7 @@ _1,524 to 2,437 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 18 km (2017)<br>
-_standard gauge_: 18 km 1.435-m (not in operation) (2017)<br>
+_standard gauge_: 18 km (2017) 1.435-m (not in operation)<br>
 <strong>note:</strong> the 18-km Christmas Island Phosphate Company Railway between Flying Fish Cove and South Point was decommissioned in 1987; some tracks and scrap remain in place<br>
 
 **Roadways**<br>

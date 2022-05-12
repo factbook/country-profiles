@@ -73,6 +73,9 @@ flooding; earthquakes<br>
 **Geography - note**<br>
 despite its small size, this eastern Alpine country controls some of Europe's major transit routes<br>
 
+**Map description**<br>
+<p>Slovenia map showing major population centers as well as parts of surrounding countries and the Gulf of Venice.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 14.84% (male 160,134/female 151,960)<br>
 _15-24 years_: 9.01% (male 98,205/female 91,318)<br>
 _25-54 years_: 40.73% (male 449,930/female 406,395)<br>
 _55-64 years_: 14.19% (male 148,785/female 149,635)<br>
-_65 years and over_: 21.23% (male 192,420/female 253,896) (2020 est.)<br>
+_65 years and over_: 21.23% (2020 est.) (male 192,420/female 253,896)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.9<br>
@@ -188,14 +191,14 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 1% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-&lt;1,000 (2020 est.)<br>
+(2020 est.) &lt;1,000<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018 est.)<br>
+(2018 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
@@ -483,9 +486,9 @@ $3.05 billion (2019 est.)<br>
 $3.17 billion (2018 est.)<br>
 
 **Exports**<br>
-$41.73 billion note: data are in current year dollars (2020 est.)<br>
-$45.41 billion note: data are in current year dollars (2019 est.)<br>
-$45.93 billion note: data are in current year dollars (2018 est.)<br>
+$41.73 billion (2020 est.) note: data are in current year dollars<br>
+$45.41 billion (2019 est.) note: data are in current year dollars<br>
+$45.93 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 18%, Italy 11%, Croatia 8%, Austria 7%, France 5%, Switzerland 5% (2019)<br>
@@ -494,9 +497,9 @@ Germany 18%, Italy 11%, Croatia 8%, Austria 7%, France 5%, Switzerland 5% (2019)
 packaged medicines, cars and vehicle parts, refined petroleum, electrical lighting/signaling equipment, electricity (2019)<br>
 
 **Imports**<br>
-$36.6 billion note: data are in current year dollars (2020 est.)<br>
-$40.8 billion note: data are in current year dollars (2019 est.)<br>
-$41.32 billion note: data are in current year dollars (2018 est.)<br>
+$36.6 billion (2020 est.) note: data are in current year dollars<br>
+$40.8 billion (2019 est.) note: data are in current year dollars<br>
+$41.32 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 14%, Italy 12%, Austria 8%, Switzerland 8%, China 7% (2019)<br>
@@ -589,7 +592,7 @@ _electrification - total population_: 100% (2020)<br>
 906.1 million cu m (2017 est.)<br>
 
 **Natural gas - proved reserves**<br>
-NA cu m (2017 est.)<br>
+(2017 est.) NA cu m<br>
 
 ## Communications
 
@@ -613,6 +616,10 @@ public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of nat
 **Internet country code**<br>
 .si<br>
 
+**Internet users**<br>
+_total_: 1,829,105 (2020 est.)<br>
+_percent of population_: 87% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 651,604 (2021)<br>
 _subscriptions per 100 inhabitants_: 31.34 (2021)<br>
@@ -623,7 +630,7 @@ _subscriptions per 100 inhabitants_: 31.34 (2021)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 21<br>
 _annual passenger traffic on registered air carriers_: 1,094,762 (2018)<br>
-_annual freight traffic on registered air carriers_: 540,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 540,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 S5<br>
@@ -648,14 +655,14 @@ _under 914 m_: 3 (2021)<br>
 
 **Railways**<br>
 _total_: 1,229 km (2014)<br>
-_standard gauge_: 1,229 km 1.435-m gauge (503 km electrified) (2014)<br>
+_standard gauge_: 1,229 km (2014) 1.435-m gauge (503 km electrified)<br>
 
 **Roadways**<br>
 _total_: 38,985 km (2012)<br>
-_paved_: 38,985 km (includes 769 km of expressways) (2012)<br>
+_paved_: 38,985 km (2012) (includes 769 km of expressways)<br>
 
 **Waterways**<br>
-(some transport on the Drava River) (2012)<br>
+(2012) (some transport on the Drava River)<br>
 
 **Merchant marine**<br>
 _total_: 9<br>
@@ -672,12 +679,12 @@ Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force wi
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
 1% of GDP (2020)<br>
-1.1% of GDP (approximately $800 million) (2019)<br>
-1% of GDP (approximately $750 million) (2018)<br>
-1% of GDP (approximately $690 million) (2017)<br>
+1.1% of GDP (2019) (approximately $800 million)<br>
+1% of GDP (2018) (approximately $750 million)<br>
+1% of GDP (2017) (approximately $690 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Slovenian Armed Forces have approximately 7,000 active duty troops (2021)<br>
+the Slovenian Armed Forces have approximately 6,000 active duty troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Slovenian Armed Forces is a mix of Soviet-era and smaller quantities of more modern Russian and Western equipment; since 2010, it has received limited amounts of military equipment from several countries led by France and Russia (2021)<br>

@@ -76,6 +76,9 @@ dry, sand-laden harmattan winds blow from the Sahara (December to February); san
 **Geography - note**<br>
 rainfall along the coast can reach 495 cm (195 inches) a year, making it one of the wettest places along coastal, western Africa<br>
 
+**Map description**<br>
+<p>Sierra Leone map showing major population centers as well as parts of surrounding countries and the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 41.38% (male 1,369,942/female 1,371,537)<br>
 _15-24 years_: 18.83% (male 610,396/female 636,880)<br>
 _25-54 years_: 32.21% (male 1,020,741/female 1,112,946)<br>
 _55-64 years_: 3.89% (male 121,733/female 135,664)<br>
-_65 years and over_: 3.7% (male 100,712/female 144,382) (2020 est.)<br>
+_65 years and over_: 3.7% (2020 est.) (male 100,712/female 144,382)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 76.3<br>
@@ -491,8 +494,8 @@ calendar year<br>
 -$88 million (2016 est.)<br>
 
 **Exports**<br>
-$740 million note: data are in current year dollars (2019 est.)<br>
-$720 million note: data are in current year dollars (2018 est.)<br>
+$740 million (2019 est.) note: data are in current year dollars<br>
+$720 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Belgium 26%, China 25%, Romania 9%, United Arab Emirates 6%, Germany 5%, Netherlands 5% (2019)<br>
@@ -501,8 +504,8 @@ Belgium 26%, China 25%, Romania 9%, United Arab Emirates 6%, Germany 5%, Netherl
 titanium, lumber, diamonds, aluminum, cocoa beans (2019)<br>
 
 **Imports**<br>
-$1.82 billion note: data are in current year dollars (2019 est.)<br>
-$1.59 billion note: data are in current year dollars (2018 est.)<br>
+$1.82 billion (2019 est.) note: data are in current year dollars<br>
+$1.59 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 27%, India 11%, United States 6%, Ghana 5%, Turkey 5% (2019)<br>
@@ -621,11 +624,15 @@ _international_: country code - 232; landing point for the ACE submarine cable l
 **Internet country code**<br>
 .sl<br>
 
+**Internet users**<br>
+_total_: 1,435,857 (2020 est.)<br>
+_percent of population_: 18% (2020 est.)<br>
+
 ## Transportation
 
 **National air transport system**<br>
 _annual passenger traffic on registered air carriers_: 50,193 (2015)<br>
-_annual freight traffic on registered air carriers_: 0 mt-km (2015)<br>
+_annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 9L<br>
@@ -652,7 +659,7 @@ _urban_: 3,000 km (2015)<br>
 _non-urban_: 8,700 km (2015)<br>
 
 **Waterways**<br>
-800 km (600 km navigable year-round) (2011)<br>
+800 km (2011) (600 km navigable year-round)<br>
 
 **Merchant marine**<br>
 _total_: 591<br>
@@ -668,10 +675,10 @@ Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Comm
 
 **Military expenditures**<br>
 0.3% of GDP (2020 est.)<br>
-0.3% of GDP (approximately $35 million) (2019 est.)<br>
-0.3% of GDP (approximately $45 million) (2018 est.)<br>
-0.3% of GDP (approximately $40 million) (2017 est.)<br>
-0.4% of GDP (approximately $45 million) (2016 est.)<br>
+0.3% of GDP (2019 est.) (approximately $35 million)<br>
+0.3% of GDP (2018 est.) (approximately $45 million)<br>
+0.3% of GDP (2017 est.) (approximately $40 million)<br>
+0.4% of GDP (2016 est.) (approximately $45 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Republic of Sierra Leone Armed Forces (RSLAF) have approximately 9,000 personnel, mostly ground forces (2021)<br>

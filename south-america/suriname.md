@@ -74,6 +74,9 @@ flooding<br>
 **Geography - note**<br>
 smallest independent country on South American continent; mostly tropical rain forest; great diversity of flora and fauna that, for the most part, is increasingly threatened by new development; relatively small population, mostly along the coast<br>
 
+**Map description**<br>
+<p>Suriname map showing major population centers as well as parts of surrounding countries and the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -101,7 +104,7 @@ _0-14 years_: 23.38% (male 72,642/female 69,899)<br>
 _15-24 years_: 17.2% (male 53,427/female 51,438)<br>
 _25-54 years_: 44.09% (male 136,889/female 131,868)<br>
 _55-64 years_: 8.78% (male 26,435/female 27,066)<br>
-_65 years and over_: 6.55% (male 17,437/female 22,468) (2020 est.)<br>
+_65 years and over_: 6.55% (2020 est.) (male 17,437/female 22,468)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.1<br>
@@ -196,7 +199,7 @@ _unimproved: total_: total: 4% of population (2020 est.)<br>
 5,200 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2020 est.)<br>
+(2020 est.) <200<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -485,8 +488,8 @@ calendar year<br>
 -$169 million (2016 est.)<br>
 
 **Exports**<br>
-$2.29 billion note: data are in current year dollars (2019 est.)<br>
-$2.24 billion note: data are in current year dollars (2018 est.)<br>
+$2.29 billion (2019 est.) note: data are in current year dollars<br>
+$2.24 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Switzerland 39%, United Arab Emirates 31%, Belgium 10% (2019)<br>
@@ -495,8 +498,8 @@ Switzerland 39%, United Arab Emirates 31%, Belgium 10% (2019)<br>
 gold, lumber, refined petroleum, fish, cigarettes (2019)<br>
 
 **Imports**<br>
-$2.41 billion note: data are in current year dollars (2019 est.)<br>
-$2.07 billion note: data are in current year dollars (2018 est.)<br>
+$2.41 billion (2019 est.) note: data are in current year dollars<br>
+$2.07 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 22%, Netherlands 14%, China 13%, Trinidad and Tobago 7%, Antigua and Barbuda 5% (2019)<br>
@@ -615,6 +618,10 @@ _international_: country code - 597; landing point for the SG-SCS submarine cabl
 **Internet country code**<br>
 .sr<br>
 
+**Internet users**<br>
+_total_: 410,644 (2020 est.)<br>
+_percent of population_: 70% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 92,270 (2021)<br>
 _subscriptions per 100 inhabitants_: 15.73 (2021)<br>
@@ -625,7 +632,7 @@ _subscriptions per 100 inhabitants_: 15.73 (2021)<br>
 _number of registered air carriers_: 4 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 20<br>
 _annual passenger traffic on registered air carriers_: 272,347 (2018)<br>
-_annual freight traffic on registered air carriers_: 33.2 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 33.2 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 PZ<br>
@@ -652,7 +659,7 @@ _paved_: 1,119 km (2003)<br>
 _unpaved_: 3,185 km (2003)<br>
 
 **Waterways**<br>
-1,200 km (most navigable by ships with drafts up to 7 m) (2011)<br>
+1,200 km (2011) (most navigable by ships with drafts up to 7 m)<br>
 
 **Merchant marine**<br>
 _total_: 10<br>
@@ -667,11 +674,11 @@ _major seaport(s)_: Paramaribo, Wageningen<br>
 Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2021)<br>
 
 **Military expenditures**<br>
-1.2% of GDP (approximately $100 million) (2019 est.)<br>
-1.1% of GDP (approximately $95 million) (2018 est.)<br>
-1.1% of GDP (approximately $95 million) (2017 est.)<br>
-1.2% of GDP (approximately $85 million) (2016 est.)<br>
-1.4% of GDP (approximately $110 million) (2015 est.)<br>
+1.2% of GDP (2019 est.) (approximately $100 million)<br>
+1.1% of GDP (2018 est.) (approximately $95 million)<br>
+1.1% of GDP (2017 est.) (approximately $95 million)<br>
+1.2% of GDP (2016 est.) (approximately $85 million)<br>
+1.4% of GDP (2015 est.) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Suriname Army is comprised of approximately 2,000 active personnel (ground, air, naval, and military police) (2021)<br>

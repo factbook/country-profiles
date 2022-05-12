@@ -67,6 +67,9 @@ cyclones; tsunamis<br>
 **Geography - note**<br>
 both island groups have fringing reefs; Wallis contains several prominent crater lakes<br>
 
+**Map description**<br>
+<p>Wallis and Futuna map showing the islands that make up this French overseas collectivity in the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -90,7 +93,7 @@ _0-14 years_: 20.58% (male 1,702/female 1,561)<br>
 _15-24 years_: 14.72% (male 1,238/female 1,095)<br>
 _25-54 years_: 43.55% (male 3,529/female 3,376)<br>
 _55-64 years_: 9.99% (male 745/female 842)<br>
-_65 years and over_: 11.73% (male 953/female 911) (2022 est.)<br>
+_65 years and over_: 11.73% (2022 est.) (male 953/female 911)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -353,18 +356,18 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 32.54 million NA (2015 est.)<br>
-_expenditures_: 34.18 million NA (2015 est.)<br>
+_revenues_: 32.54 million (2015 est.) NA<br>
+_expenditures_: 34.18 million (2015 est.) NA<br>
 
 **Budget surplus (+) or deficit (-)**<br>
--0.8% (of GDP) NA (2015 est.)<br>
+-0.8% (of GDP) (2015 est.) NA<br>
 
 **Public debt**<br>
 5.6% of GDP (2004 est.)<br>
 <strong>note:</strong> offical data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
 
 **Taxes and other revenues**<br>
-16.7% (of GDP) NA (2015 est.)<br>
+16.7% (of GDP) (2015 est.) NA<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -418,6 +421,10 @@ the publicly owned French Overseas Network (RFO), which broadcasts to France's o
 
 **Internet country code**<br>
 .wf<br>
+
+**Internet users**<br>
+_total_: 1,029 (2019 est.)<br>
+_percent of population_: 9% (2019 est.)<br>
 
 ## Transportation
 

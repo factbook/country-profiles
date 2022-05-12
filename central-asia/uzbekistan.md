@@ -78,6 +78,9 @@ earthquakes; floods; landslides or mudslides; avalanches; droughts<br>
 **Geography - note**<br>
 along with Liechtenstein, one of the only two doubly landlocked countries in the world<br>
 
+**Map description**<br>
+<p>Uzbekistan map showing major population centers as well as parts of neighboring countries.</p> <p> </p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -103,7 +106,7 @@ _0-14 years_: 23.19% (male 3,631,693/female 3,456,750)<br>
 _15-24 years_: 16.63% (male 2,601,803/female 2,481,826)<br>
 _25-54 years_: 45.68% (male 6,955,260/female 7,006,172)<br>
 _55-64 years_: 8.63% (male 1,245,035/female 1,392,263)<br>
-_65 years and over_: 5.87% (male 768,769/female 1,025,840) (2020 est.)<br>
+_65 years and over_: 5.87% (2020 est.) (male 768,769/female 1,025,840)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.6<br>
@@ -201,7 +204,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 58,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<1,000 (2020 est.)<br>
+(2020 est.) <1,000<br>
 
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>
@@ -484,9 +487,9 @@ $1.713 billion (2017 est.)<br>
 $384 million (2016 est.)<br>
 
 **Exports**<br>
-$14.52 billion note: data are in current year dollars (2020 est.)<br>
-$16.99 billion note: data are in current year dollars (2019 est.)<br>
-$14.14 billion note: data are in current year dollars (2018 est.)<br>
+$14.52 billion (2020 est.) note: data are in current year dollars<br>
+$16.99 billion (2019 est.) note: data are in current year dollars<br>
+$14.14 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Switzerland 19%, United Kingdom 17%, Russia 15%, China 14%, Kazakhstan 9%, Turkey 8%, Kyrgyzstan 5% (2019)<br>
@@ -495,9 +498,9 @@ Switzerland 19%, United Kingdom 17%, Russia 15%, China 14%, Kazakhstan 9%, Turke
 gold, natural gas, cotton fibers, copper, ethylene polymers (2019)<br>
 
 **Imports**<br>
-$22.56 billion note: data are in current year dollars (2020 est.)<br>
-$26.55 billion note: data are in current year dollars (2019 est.)<br>
-$23.44 billion note: data are in current year dollars (2018 est.)<br>
+$22.56 billion (2020 est.) note: data are in current year dollars<br>
+$26.55 billion (2019 est.) note: data are in current year dollars<br>
+$23.44 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 23%, Russia 18%, South Korea 11%, Kazakhstan 9%, Turkey 6%, Germany 5% (2019)<br>
@@ -599,8 +602,8 @@ _total subscriptions_: 3,550,069 (2020)<br>
 _subscriptions per 100 inhabitants_: 10.61 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 33.38 million (2019)<br>
-_subscriptions per 100 inhabitants_: 101.21 (2019)<br>
+_total subscriptions_: 33.387 million (2022)<br>
+_subscriptions per 100 inhabitants_: 100 (2022)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: land-locked, authoritarian state with government grip on ICT technology and no integrated plan; government plans to develop infrastructure to improve geographical disparities in service; increased investment in infrastructure, with aims of expanding subscriber base and rising revenue; some villages have no connectivity, and 70% have 2G with development of 3G and 4G; free WiFi spots across country to boost tourism; Russian operator invested in joint venture on mobile services; government in discussion with Huawei on additional ventures; digital exchanges in large cities and some rural areas; fixed-line is underdeveloped due to preeminence of mobile market; introduction of prepaid Internet has contributed to home Internet usage; consumers largely reliant on terrestrial links and VSAT networks; media controlled by state; importer of broadcasting equipment from China (2020)<br>
@@ -614,9 +617,13 @@ the government controls media; 17 state-owned broadcasters - 13 TV and 4 radio -
 **Internet country code**<br>
 .uz<br>
 
+**Internet users**<br>
+_total_: 24,304,756 (2020 est.)<br>
+_percent of population_: 71% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 4,820,009 (2021)<br>
-_subscriptions per 100 inhabitants_: 14.4 (2021 est.)<br>
+_total_: 4,820,009 (2022)<br>
+_subscriptions per 100 inhabitants_: 14.4 (2022)<br>
 
 ## Transportation
 
@@ -624,7 +631,7 @@ _subscriptions per 100 inhabitants_: 14.4 (2021 est.)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 34<br>
 _annual passenger traffic on registered air carriers_: 3,056,558 (2018)<br>
-_annual freight traffic on registered air carriers_: 89.43 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 89.43 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 UK<br>
@@ -650,7 +657,7 @@ _under 914 m_: 18 (2021)<br>
 
 **Railways**<br>
 _total_: 4,642 km (2018)<br>
-_broad gauge_: 4,642 km 1.520-m gauge (1,684 km electrified) (2018)<br>
+_broad gauge_: 4,642 km (2018) 1.520-m gauge (1,684 km electrified)<br>
 
 **Roadways**<br>
 _total_: 86,496 km (2000)<br>
@@ -670,11 +677,11 @@ Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard; Mi
 note - the National Guard, also under the Ministry of Defense, ensures public order and security of diplomatic missions, radio and television broadcasting, and other state entities<br>
 
 **Military expenditures**<br>
-2.8% of GDP (approximately $3 billion) (2019 est.)<br>
-2.9% of GDP (approximately $2.88 billion) (2018 est.)<br>
-2.7% of GDP (approximately $2.65 billion) (2017 est.)<br>
-2.5% of GDP (approximately $2.49 billion) (2016 est.)<br>
-2.5% of GDP (approximately $2.4 billion) (2015 est.)<br>
+2.8% of GDP (2019 est.) (approximately $3 billion)<br>
+2.9% of GDP (2018 est.) (approximately $2.88 billion)<br>
+2.7% of GDP (2017 est.) (approximately $2.65 billion)<br>
+2.5% of GDP (2016 est.) (approximately $2.49 billion)<br>
+2.5% of GDP (2015 est.) (approximately $2.4 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 60,000 total active troops, including 10-15,000 Air Force (2021)<br>
@@ -691,7 +698,7 @@ the Uzbek Armed Forces use mainly Soviet-era equipment; since 2010, Russia has b
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Jihad Union; Islamic Movement of Uzbekistan<br>
+Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and ash-Sham - Khorasan (ISIS-K)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

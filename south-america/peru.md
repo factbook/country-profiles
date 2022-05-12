@@ -84,6 +84,9 @@ approximately one-third of the population resides along the desert coastal belt 
 **Geography - note**<br>
 <p><strong>note 1:</strong> shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316 m peak, is the ultimate source of the Amazon River</p> <p><strong>note 2:</strong> Peru is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 3:</strong> on 19 February 1600, Mount Huaynaputina in the southern Peruvian Andes erupted in the largest volcanic explosion in South America in historical times; intermittent eruptions lasted until 5 March 1600 and pumped an estimated 16 to 32 million metric tons of particulates into the atmosphere reducing the amount of sunlight reaching the earth's surface and affecting weather worldwide; over the next two and a half years, millions died around the globe in famines from bitterly cold winters, cool summers, and the loss of crops and animals<br><br><strong>note 4:</strong> the southern regions of Peru and the extreme northwestern part of Bolivia are considered to be the place of origin for the common potato </p><br>
 
+**Map description**<br>
+<p>Peru map showing major cities as well as parts of surrounding countries and the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -111,7 +114,7 @@ _0-14 years_: 25.43% (male 4,131,985/female 3,984,546)<br>
 _15-24 years_: 17.21% (male 2,756,024/female 2,736,394)<br>
 _25-54 years_: 41.03% (male 6,279,595/female 6,815,159)<br>
 _55-64 years_: 8.28% (male 1,266,595/female 1,375,708)<br>
-_65 years and over_: 8.05% (male 1,207,707/female 1,361,276) (2020 est.)<br>
+_65 years and over_: 8.05% (2020 est.) (male 1,207,707/female 1,361,276)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.2<br>
@@ -210,7 +213,7 @@ _unimproved: total_: total: 12.6% of population (2020 est.)<br>
 91,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<1000 (2020 est.)<br>
+(2020 est.) <1000<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -526,8 +529,8 @@ calendar year<br>
 -$3.821 billion (2018 est.)<br>
 
 **Exports**<br>
-$54.88 billion note: data are in current year dollars (2019 est.)<br>
-$55.84 billion note: data are in current year dollars (2018 est.)<br>
+$54.88 billion (2019 est.) note: data are in current year dollars<br>
+$55.84 billion (2018 est.) note: data are in current year dollars<br>
 $53.823 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -537,8 +540,8 @@ China 29%, United States 12%, Canada 5%, South Korea 5%, Switzerland 5% (2019)<b
 copper, gold, refined petroleum, zinc, fishmeal, tropical fruits, lead, iron, molybdenum (2019)<br>
 
 **Imports**<br>
-$51.38 billion note: data are in current year dollars (2019 est.)<br>
-$51.41 billion note: data are in current year dollars (2018 est.)<br>
+$51.38 billion (2019 est.) note: data are in current year dollars<br>
+$51.41 billion (2018 est.) note: data are in current year dollars<br>
 $46.15 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -658,6 +661,10 @@ _international_: country code - 51; landing points for the SAM-1, IGW, American 
 **Internet country code**<br>
 .pe<br>
 
+**Internet users**<br>
+_total_: 21,431,700 (2020 est.)<br>
+_percent of population_: 65% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 3.044 million (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 9.23 (2021 est.)<br>
@@ -668,7 +675,7 @@ _subscriptions per 100 inhabitants_: 9.23 (2021 est.)<br>
 _number of registered air carriers_: 6 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 62<br>
 _annual passenger traffic on registered air carriers_: 17,758,527 (2018)<br>
-_annual freight traffic on registered air carriers_: 313.26 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 313.26 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 OB<br>
@@ -699,16 +706,16 @@ _under 914 m_: 82 (2021)<br>
 
 **Railways**<br>
 _total_: 1,940 km (2017)<br>
-_standard gauge_: 1,730.4 km 1.435-m gauge (34 km electrified) (2014)<br>
-_narrow gauge_: 124 km 0.914-m gauge (2014)<br>
+_standard gauge_: 1,730.4 km (2014) 1.435-m gauge (34 km electrified)<br>
+_narrow gauge_: 124 km (2014) 0.914-m gauge<br>
 
 **Roadways**<br>
-_total_: 168,473 km (18,699 km paved) (2018)<br>
+_total_: 168,473 km (2018) (18,699 km paved)<br>
 _paved_: 26,916 km<br>
 <strong>note:</strong> includes 27,109 km of national roads (21,434 km paved), 247,505 km of departmental roads (3,623 km paved), and 113,857 km of local roads (1,858 km paved)<br>
 
 **Waterways**<br>
-8,808 km (8,600 km of navigable tributaries on the Amazon River system and 208 km on Lago Titicaca) (2011)<br>
+8,808 km (2011) (8,600 km of navigable tributaries on the Amazon River system and 208 km on Lago Titicaca)<br>
 
 **Merchant marine**<br>
 _total_: 98<br>
@@ -727,10 +734,10 @@ Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del 
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>
-1.2% of GDP (approximately $3.87 billion) (2019)<br>
-1.2% of GDP (approximately $3.83 billion) (2018)<br>
-1.2% of GDP (approximately $3.86 billion) (2017)<br>
-1.3% of GDP (approximately $4.06 billion) (2016)<br>
+1.2% of GDP (2019) (approximately $3.87 billion)<br>
+1.2% of GDP (2018) (approximately $3.83 billion)<br>
+1.2% of GDP (2017) (approximately $3.86 billion)<br>
+1.3% of GDP (2016) (approximately $4.06 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 95,000 active personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2021)<br>

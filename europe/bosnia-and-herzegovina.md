@@ -73,6 +73,9 @@ destructive earthquakes<br>
 **Geography - note**<br>
 within Bosnia and Herzegovina's recognized borders, the country is divided into a joint Bosniak/Croat Federation (about 51% of the territory) and the Bosnian Serb-led Republika Srpska or RS (about 49% of the territory); the region called Herzegovina is contiguous to Croatia and Montenegro, and traditionally has been settled by an ethnic Croat majority in the west and an ethnic Serb majority in the east<br>
 
+**Map description**<br>
+<p>Bosnia and Herzegovina map showing major cities as well as parts of surrounding countries and the Adriatic Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -98,7 +101,7 @@ _0-14 years_: 13.18% (male 261,430/female 244,242)<br>
 _15-24 years_: 10.83% (male 214,319/female 201,214)<br>
 _25-54 years_: 44.52% (male 859,509/female 848,071)<br>
 _55-64 years_: 15.24% (male 284,415/female 300,168)<br>
-_65 years and over_: 16.22% (male 249,624/female 372,594) (2020 est.)<br>
+_65 years and over_: 16.22% (2020 est.) (male 249,624/female 372,594)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48<br>
@@ -187,16 +190,16 @@ _improved: rural_: rural: NA<br>
 _improved: total_: total: NA<br>
 _unimproved: urban_: urban: 0.5% of population<br>
 _unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA (2020 est.)<br>
+_unimproved: total_: total: (2020 est.) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2018)<br>
+(2018) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<500 (2018)<br>
+(2018) <500<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018)<br>
+(2018) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 17.9% (2016)<br>
@@ -487,9 +490,9 @@ calendar year<br>
 -$821 million (2016 est.)<br>
 
 **Exports**<br>
-$6.81 billion note: data are in current year dollars (2020 est.)<br>
-$8.17 billion note: data are in current year dollars (2019 est.)<br>
-$8.57 billion note: data are in current year dollars (2018 est.)<br>
+$6.81 billion (2020 est.) note: data are in current year dollars<br>
+$8.17 billion (2019 est.) note: data are in current year dollars<br>
+$8.57 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 14%, Italy 12%, Croatia 11%, Serbia 11%, Austria 9%, Slovenia 8% (2019)<br>
@@ -498,9 +501,9 @@ Germany 14%, Italy 12%, Croatia 11%, Serbia 11%, Austria 9%, Slovenia 8% (2019)<
 electricity, seating, leather shoes, furniture, insulated wiring (2019)<br>
 
 **Imports**<br>
-$9.71 billion note: data are in current year dollars (2020 est.)<br>
-$11.15 billion note: data are in current year dollars (2019 est.)<br>
-$11.55 billion note: data are in current year dollars (2018 est.)<br>
+$9.71 billion (2020 est.) note: data are in current year dollars<br>
+$11.15 billion (2019 est.) note: data are in current year dollars<br>
+$11.55 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Croatia 15%, Serbia 13%, Germany 10%, Italy 9%, Slovenia 7%, China 6% (2019)<br>
@@ -617,6 +620,10 @@ _international_: country code - 387; no satellite earth stations<br>
 **Internet country code**<br>
 .ba<br>
 
+**Internet users**<br>
+_total_: 2,394,995 (2020 est.)<br>
+_percent of population_: 73% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 770,424 (2021)<br>
 _subscriptions per 100 inhabitants_: 23.48 (2021 est.)<br>
@@ -627,7 +634,7 @@ _subscriptions per 100 inhabitants_: 23.48 (2021 est.)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 1<br>
 _annual passenger traffic on registered air carriers_: 7,070 (2015)<br>
-_annual freight traffic on registered air carriers_: 87 mt-km (2015)<br>
+_annual freight traffic on registered air carriers_: 87 (2015) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 T9<br>
@@ -655,15 +662,15 @@ _under 914 m_: 11 (2021)<br>
 
 **Railways**<br>
 _total_: 965 km (2014)<br>
-_standard gauge_: 965 km 1.435-m gauge (565 km electrified) (2014)<br>
+_standard gauge_: 965 km (2014) 1.435-m gauge (565 km electrified)<br>
 
 **Roadways**<br>
 _total_: 22,926 km (2010)<br>
-_paved_: 19,426 km (4,652 km of interurban roads) (2010)<br>
+_paved_: 19,426 km (2010) (4,652 km of interurban roads)<br>
 _unpaved_: 3,500 km (2010)<br>
 
 **Waterways**<br>
-(Sava River on northern border; open to shipping but use limited) (2011)<br>
+(2011) (Sava River on northern border; open to shipping but use limited)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Bosanska Gradiska, Bosanski Brod, Bosanski Samac, Brcko, Orasje (Sava River)<br>
@@ -676,9 +683,9 @@ Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegov
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020)<br>
-0.8% of GDP (approximately $370 million) (2019)<br>
-0.9% of GDP (approximately $370 million) (2018)<br>
-0.9% of GDP (approximately $360 million) (2017)<br>
+0.8% of GDP (2019) (approximately $370 million)<br>
+0.9% of GDP (2018) (approximately $370 million)<br>
+0.9% of GDP (2017) (approximately $360 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of Bosnia and Herzegovina have approximately 9,000 active duty personnel (2021)<br>
@@ -702,13 +709,13 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Bosnia and Herzegovina-Serbia:</em> Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute.</p><br>
+<p><em>Bosnia and Herzegovina-Serbia:</em> Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute.<br><br><em>Bosnia and Herzegovina-Croatia:</em> none identified<br><br><em>Bosnia and Herzegovina-Montenegro:</em> none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note:</strong> 88,912 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
+<strong>note:</strong> 89,389 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

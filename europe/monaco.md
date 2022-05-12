@@ -70,6 +70,9 @@ none<br>
 **Geography - note**<br>
 second-smallest independent state in the world (after the Holy See); smallest country with a coastline; almost entirely urban<br>
 
+**Map description**<br>
+<p>Monaco map identifies some of the major sites of the microstate surrounded by France and the Mediterranean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -96,7 +99,7 @@ _0-14 years_: 9.41% (male 1,497/female 1,415)<br>
 _15-24 years_: 9.52% (male 1,538/female 1,406)<br>
 _25-54 years_: 30.46% (male 4,779/female 4,644)<br>
 _55-64 years_: 15.47% (male 2,370/female 2,417)<br>
-_65 years and over_: 35.15% (male 4,817/female 6,057) (2020 est.)<br>
+_65 years and over_: 35.15% (2020 est.) (male 4,817/female 6,057)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -470,6 +473,10 @@ TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has 
 
 **Internet country code**<br>
 .mc<br>
+
+**Internet users**<br>
+_total_: 37,798 (2019 est.)<br>
+_percent of population_: 97% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 20,877 (2021)<br>

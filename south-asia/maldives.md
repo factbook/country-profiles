@@ -72,6 +72,9 @@ tsunamis; low elevation of islands makes them sensitive to sea level rise<br>
 **Geography - note**<br>
 smallest Asian country; archipelago of 1,190 coral islands grouped into 26 atolls (200 inhabited islands, plus 80 islands with tourist resorts); strategic location astride and along major sea lanes in Indian Ocean<br>
 
+**Map description**<br>
+<p>Madives map showing this archipelagic country in the Indian Ocean.</p> <p> </p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -95,7 +98,7 @@ _0-14 years_: 22.13% (male 44,260/female 42,477)<br>
 _15-24 years_: 17.24% (male 37,826/female 29,745)<br>
 _25-54 years_: 48.91% (male 104,217/female 87,465)<br>
 _55-64 years_: 6.91% (male 12,942/female 14,123)<br>
-_65 years and over_: 4.81% (male 8,417/female 10,432) (2020 est.)<br>
+_65 years and over_: 4.81% (2020 est.) (male 8,417/female 10,432)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 30.2<br>
@@ -401,10 +404,10 @@ _industry_: 16% (2015 est.)<br>
 _services_: 81% (2015 est.)<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: NA (2016 est.)<br>
-_government consumption_: NA (2016 est.)<br>
-_investment in fixed capital_: NA (2016 est.)<br>
-_investment in inventories_: NA (2016 est.)<br>
+_household consumption_: (2016 est.) NA<br>
+_government consumption_: (2016 est.) NA<br>
+_investment in fixed capital_: (2016 est.) NA<br>
+_investment in inventories_: (2016 est.) NA<br>
 _exports of goods and services_: 93.6% (2016 est.)<br>
 _imports of goods and services_: 89% (2016 est.)<br>
 
@@ -467,8 +470,8 @@ calendar year<br>
 -$1.033 billion (2016 est.)<br>
 
 **Exports**<br>
-$3.72 billion note: data are in current year dollars (2019 est.)<br>
-$3.58 billion note: data are in current year dollars (2018 est.)<br>
+$3.72 billion (2019 est.) note: data are in current year dollars<br>
+$3.58 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Thailand 24%, United States 13%, China 12%, France 11%, Germany 11%, Italy 5%, United Kingdom 5% (2019)<br>
@@ -477,8 +480,8 @@ Thailand 24%, United States 13%, China 12%, France 11%, Germany 11%, Italy 5%, U
 fish products, natural gas, scrap iron, jewelry, liquid pumps (2019)<br>
 
 **Imports**<br>
-$4.09 billion note: data are in current year dollars (2019 est.)<br>
-$4.1 billion note: data are in current year dollars (2018 est.)<br>
+$4.09 billion (2019 est.) note: data are in current year dollars<br>
+$4.1 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 24%, China 16%, Singapore 14%, India 11%, Malaysia 6%, Thailand 5% (2019)<br>
@@ -592,6 +595,10 @@ state-owned radio and TV monopoly until recently;&nbsp;4 state-operated and 7 pr
 **Internet country code**<br>
 .mv<br>
 
+**Internet users**<br>
+_total_: 340,542 (2020 est.)<br>
+_percent of population_: 63% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 63,685 (2021)<br>
 _subscriptions per 100 inhabitants_: 11.78 (2021 est.)<br>
@@ -623,7 +630,7 @@ _914 to 1,523 m_: 2 (2021)<br>
 
 **Roadways**<br>
 _total_: 93 km (2018)<br>
-_paved_: 93 km - 60 km in Male; 16 km on Addu Atolis; 17 km on Laamu (2018)<br>
+_paved_: 93 km (2018) - 60 km in Male; 16 km on Addu Atolis; 17 km on Laamu<br>
 <strong>note:</strong> island roads are mainly compacted coral<br>
 
 **Merchant marine**<br>

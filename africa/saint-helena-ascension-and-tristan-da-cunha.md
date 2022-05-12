@@ -70,6 +70,9 @@ Saint Helena - population is concentrated in and around the capital Jamestown in
 **Geography - note**<br>
 Saint Helena harbors at least 40 species of plants unknown elsewhere in the world; Ascension is a breeding ground for sea turtles and sooty terns; Queen Mary's Peak on Tristan da Cunha is the highest island mountain in the South Atlantic and a prominent landmark on the sea lanes around southern Africa<br>
 
+**Map description**<br>
+<p>Saint Helena, Ascension, and Tristan da Cunha map showing the various islands that comprise this UK territory in the South Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -99,7 +102,7 @@ _0-14 years_: 14.66% (male 592/female 570)<br>
 _15-24 years_: 11.7% (male 472/female 455)<br>
 _25-54 years_: 42.59% (male 1,679/female 1,692)<br>
 _55-64 years_: 13.53% (male 523/female 549)<br>
-_65 years and over_: 18.06% (male 730/female 701) (2022 est.)<br>
+_65 years and over_: 18.06% (2022 est.) (male 730/female 701)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -471,6 +474,10 @@ Saint Helena has no local TV station; 2 local radio stations, one of which is re
 **Internet country code**<br>
 .sh; note - Ascension Island assigned .ac<br>
 
+**Internet users**<br>
+_total_: 2,302 (2019 est.)<br>
+_percent of population_: 38% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 16.64 (2021 est.)<br>
@@ -489,13 +496,13 @@ _total_: 2 (2021)<br>
 **Airports - with paved runways**<br>
 _total_: 2<br>
 _over 3,047 m_: 1 Ascension Island - Wideawake Field (ASI)<br>
-_1,524 to 2,437 m_: 1 Saint Helena (HLE); (2021)<br>
+_1,524 to 2,437 m_: 1 (2021) Saint Helena (HLE);<br>
 note - weekly commercial air service to South Africa via Namibia commenced on 14 October 2017<br>
 
 **Roadways**<br>
-_total_: 198 km (Saint Helena 138 km, Ascension 40 km, Tristan da Cunha 20 km) (2002)<br>
-_paved_: 168 km (Saint Helena 118 km, Ascension 40 km, Tristan da Cunha 10 km) (2002)<br>
-_unpaved_: 30 km (Saint Helena 20 km, Tristan da Cunha 10 km) (2002)<br>
+_total_: 198 km (2002) (Saint Helena 138 km, Ascension 40 km, Tristan da Cunha 20 km)<br>
+_paved_: 168 km (2002) (Saint Helena 118 km, Ascension 40 km, Tristan da Cunha 10 km)<br>
+_unpaved_: 30 km (2002) (Saint Helena 20 km, Tristan da Cunha 10 km)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Saint Helena<br>

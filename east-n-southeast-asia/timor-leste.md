@@ -71,6 +71,9 @@ floods and landslides are common; earthquakes; tsunamis; tropical cyclones<br>
 **Geography - note**<br>
 Timor comes from the Malay word for "east"; the island of Timor is part of the Malay Archipelago and is the largest and easternmost of the Lesser Sunda Islands; the district of Oecussi is an exclave separated from Timor-Leste proper by Indonesia; Timor-Leste has the unique distinction of being the only Asian country located completely in the Southern Hemisphere<br>
 
+**Map description**<br>
+<p>Timor Leste map showing the major population centers of this country on the eastern end of the island of Timor in the Timor Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -98,7 +101,7 @@ _0-14 years_: 39.96% (male 284,353/female 268,562)<br>
 _15-24 years_: 20.32% (male 142,693/female 138,508)<br>
 _25-54 years_: 30.44% (male 202,331/female 218,914)<br>
 _55-64 years_: 5.22% (male 34,956/female 37,229)<br>
-_65 years and over_: 4.06% (male 27,153/female 29,024) (2020 est.)<br>
+_65 years and over_: 4.06% (2020 est.) (male 27,153/female 29,024)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 90.3<br>
@@ -194,7 +197,7 @@ _unimproved: total_: total: 33.7% of population (2020 est.)<br>
 1,200 (2020)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020)<br>
+(2020) <100<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -480,9 +483,9 @@ calendar year<br>
 -$544 million (2016 est.)<br>
 
 **Exports**<br>
-$60 million note: data are in current year dollars (2020 est.)<br>
-$120 million note: data are in current year dollars (2019 est.)<br>
-$120 million note: data are in current year dollars (2018 est.)<br>
+$60 million (2020 est.) note: data are in current year dollars<br>
+$120 million (2019 est.) note: data are in current year dollars<br>
+$120 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Singapore 51%, China 20%, Japan 9%, Indonesia 6% (2019)<br>
@@ -491,9 +494,9 @@ Singapore 51%, China 20%, Japan 9%, Indonesia 6% (2019)<br>
 crude petroleum, natural gas, coffee, various vegetables, scrap iron (2019)<br>
 
 **Imports**<br>
-$850 million note: data are in current year dollars (2020 est.)<br>
-$1.04 billion note: data are in current year dollars (2019 est.)<br>
-$1.06 billion note: data are in current year dollars (2018 est.)<br>
+$850 million (2020 est.) note: data are in current year dollars<br>
+$1.04 billion (2019 est.) note: data are in current year dollars<br>
+$1.06 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Indonesia 39%, China 27%, Singapore 10%, Malaysia 5% (2019)<br>
@@ -521,7 +524,7 @@ _electrification - urban areas_: 100% (2018)<br>
 _electrification - rural areas_: 79.2% (2018)<br>
 
 **Electricity - production**<br>
-0 kWh NA (2016 est.)<br>
+0 kWh (2016 est.) NA<br>
 
 **Electricity - consumption**<br>
 0 kWh (2016 est.)<br>
@@ -533,7 +536,7 @@ _electrification - rural areas_: 79.2% (2018)<br>
 0 kWh (2016 est.)<br>
 
 **Electricity - installed generating capacity**<br>
-600 kW NA (2016 est.)<br>
+600 kW (2016 est.) NA<br>
 
 **Electricity - from fossil fuels**<br>
 100% of total installed capacity (2018 est.)<br>
@@ -590,7 +593,7 @@ _electrification - rural areas_: 79.2% (2018)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 2,012 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1,425,260 (2019)<br>
@@ -608,9 +611,13 @@ _international_: country code - 670; &nbsp;international service is available; p
 **Internet country code**<br>
 .tl<br>
 
+**Internet users**<br>
+_total_: 382,348 (2020 est.)<br>
+_percent of population_: 29% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 75 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.01 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.01 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -655,11 +662,11 @@ _major seaport(s)_: Dili<br>
 Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components; National Police (Pol&iacute;cia Nacional de Timor-Leste, PNTL) (2021)<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
-1.7% of GDP (approximately $45 million) (2019 est.)<br>
-1.3% of GDP (approximately $30 million) (2018 est.)<br>
-1.6% of GDP (approximately $35 million) (2017 est.)<br>
-1.6% of GDP (approximately $35 million) (2016 est.)<br>
+1.7% of GDP (2019 est.) (approximately $45 million)<br>
+1.3% of GDP (2018 est.) (approximately $30 million)<br>
+1.6% of GDP (2017 est.) (approximately $35 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 personnel (2021)<br>

@@ -70,6 +70,9 @@ flooding<br>
 **Geography - note**<br>
 the second-smallest African country (after the Seychelles); the two main islands form part of a chain of extinct volcanoes and both are mountainous<br>
 
+**Map description**<br>
+<p>Sao Tome and Principe map showing the islands that make up this country in the Gulf of Guinea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -96,7 +99,7 @@ _0-14 years_: 39.77% (male 42,690/female 41,277)<br>
 _15-24 years_: 21.59% (male 23,088/female 22,487)<br>
 _25-54 years_: 31.61% (male 32,900/female 33,834)<br>
 _55-64 years_: 4.17% (male 4,095/female 4,700)<br>
-_65 years and over_: 2.87% (male 2,631/female 3,420) (2020 est.)<br>
+_65 years and over_: 2.87% (2020 est.) (male 2,631/female 3,420)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 81<br>
@@ -192,10 +195,10 @@ _unimproved: total_: total: 46.6% of population (2020 est.)<br>
 0.3% (2020)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<1,000 (2020)<br>
+(2020) <1,000<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020)<br>
+(2020) <100<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -231,7 +234,7 @@ _female_: 13 years (2015)<br>
 **Unemployment, youth ages 15-24**<br>
 _total_: 20.8%<br>
 _male_: NA<br>
-_female_: NA (2012 est.)<br>
+_female_: (2012 est.) NA<br>
 
 ## Environment
 
@@ -443,7 +446,7 @@ _services_: 52.5% (2014 est.)<br>
 **Unemployment, youth ages 15-24**<br>
 _total_: 20.8%<br>
 _male_: NA<br>
-_female_: NA (2012 est.)<br>
+_female_: (2012 est.) NA<br>
 
 **Population below poverty line**<br>
 66.7% (2017 est.)<br>
@@ -478,9 +481,9 @@ calendar year<br>
 -$23 million (2016 est.)<br>
 
 **Exports**<br>
-$50 million note: data are in current year dollars (2020 est.)<br>
-$70 million note: data are in current year dollars (2019 est.)<br>
-$100 million note: data are in current year dollars (2018 est.)<br>
+$50 million (2020 est.) note: data are in current year dollars<br>
+$70 million (2019 est.) note: data are in current year dollars<br>
+$100 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Singapore 30%, Switzerland 24%, France 11%, Poland 7%, Belgium 7%, United States 5% (2019)<br>
@@ -489,9 +492,9 @@ Singapore 30%, Switzerland 24%, France 11%, Poland 7%, Belgium 7%, United States
 gas turbines, cocoa beans, aircraft parts, iron products, chocolate (2019)<br>
 
 **Imports**<br>
-$160 million note: data are in current year dollars (2020 est.)<br>
-$190 million note: data are in current year dollars (2019 est.)<br>
-$200 million note: data are in current year dollars (2018 est.)<br>
+$160 million (2020 est.) note: data are in current year dollars<br>
+$190 million (2019 est.) note: data are in current year dollars<br>
+$200 million (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Portugal 41%, Angola 17%, China 8% (2019 )<br>
@@ -609,6 +612,10 @@ _international_: country code - 239; landing points for the Ultramar GE and ACE 
 
 **Internet country code**<br>
 .st<br>
+
+**Internet users**<br>
+_total_: 72,323 (2020 est.)<br>
+_percent of population_: 33% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,512 (2021)<br>

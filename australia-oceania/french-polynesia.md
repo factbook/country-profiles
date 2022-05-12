@@ -69,6 +69,9 @@ occasional cyclonic storms in January<br>
 **Geography - note**<br>
 includes five archipelagoes: four volcanic (Iles Gambier, Iles Marquises, Iles Tubuai, Society Islands) and one coral (Archipel des Tuamotu); the Tuamotu Archipelago forms the largest group of atolls in the world - 78 in total, 48 inhabited; Makatea in the Tuamotu Archipelago is one of the three great phosphate rock islands in the Pacific Ocean - the others are Banaba (Ocean Island) in Kiribati and Nauru<br>
 
+**Map description**<br>
+<p>French Polynesia map showing the many islands that make up the overseas French land in the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -93,7 +96,7 @@ _0-14 years_: 21.69% (male 32,920/female 31,100)<br>
 _15-24 years_: 14.72% (male 22,640/female 20,793)<br>
 _25-54 years_: 44.24% (male 66,921/female 63,636)<br>
 _55-64 years_: 10.31% (male 15,610/female 14,823)<br>
-_65 years and over_: 9.04% (male 12,854/female 13,824) (2020 est.)<br>
+_65 years and over_: 9.04% (2020 est.) (male 12,854/female 13,824)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.5<br>
@@ -538,6 +541,10 @@ French public overseas broadcaster Reseau Outre-Mer provides 2 TV channels and 1
 **Internet country code**<br>
 .pf<br>
 
+**Internet users**<br>
+_total_: 203,878 (2019 est.)<br>
+_percent of population_: 73% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 64,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 22.78 (2021)<br>
@@ -545,7 +552,7 @@ _subscriptions per 100 inhabitants_: 22.78 (2021)<br>
 ## Transportation
 
 **National air transport system**<br>
-_number of registered air carriers_: 2 (registered in France) (2020)<br>
+_number of registered air carriers_: 2 (2020) (registered in France)<br>
 _inventory of registered aircraft operated by air carriers_: 19 (registered in France)<br>
 
 **Civil aircraft registration country code prefix**<br>

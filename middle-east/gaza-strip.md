@@ -50,7 +50,7 @@ _lowest point_: Mediterranean Sea 0 m<br>
 arable land, natural gas<br>
 
 **Irrigated land**<br>
-240 sq km; note - includes the West Bank (2012)<br>
+(2012) 240 sq km; note - includes the West Bank<br>
 
 **Population distribution**<br>
 population concentrated in major cities, particularly Gaza City in the north<br>
@@ -60,6 +60,9 @@ droughts<br>
 
 **Geography - note**<br>
 once a strategic strip of land along Mideast-North African trade routes that has experienced an incredibly turbulent history; the town of Gaza itself has been besieged countless times in its history; Israel evacuated its civilian settlements and soldiers from the Gaza Strip in 2005<br>
+
+**Map description**<br>
+<p>Gaza Strip showing major populated areas as well as parts of surrounding countries and the Mediterranean Sea.</p><br>
 
 ## People and Society
 
@@ -86,7 +89,7 @@ _0-14 years_: 42.53% (male 418,751/female 397,013)<br>
 _15-24 years_: 21.67% (male 210,240/female 205,385)<br>
 _25-54 years_: 29.47% (male 275,976/female 289,277)<br>
 _55-64 years_: 3.66% (male 36,409/female 33,731)<br>
-_65 years and over_: 2.68% (male 27,248/female 24,191) (2020 est.)<br>
+_65 years and over_: 2.68% (2020 est.) (male 27,248/female 24,191)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 71.2<br>
@@ -197,8 +200,8 @@ NA<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.7% Includes both the Gaza Strip and the West Bank (2020)<br>
-_women married by age 18_: 13.4% Includes both the Gaza Strip and the West Bank (2020 est.)<br>
+_women married by age 15_: 0.7% (2020) Includes both the Gaza Strip and the West Bank<br>
+_women married by age 18_: 13.4% (2020 est.) Includes both the Gaza Strip and the West Bank<br>
 
 **Education expenditures**<br>
 5.3% of GDP (2018)<br>
@@ -431,6 +434,10 @@ _international_: country code 970 or 972 (2018)<br>
 
 **Internet country code**<br>
 .psnote - same as the West Bank<br>
+
+**Internet users**<br>
+_total_: 3,602,452 (2020 est.) (includes the West Bank)<br>
+_percent of population_: 75% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 320,500<br>

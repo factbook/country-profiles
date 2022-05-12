@@ -69,6 +69,9 @@ occasional high winds and rough seas<br>
 **Geography - note**<br>
 one small islet, the Calf of Man, lies to the southwest and is a bird sanctuary<br>
 
+**Map description**<br>
+<p>Isle of Man map showing the major population centers of this UK crown dependency in the Irish Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -79,21 +82,21 @@ _noun_: Manxman(men), Manxwoman(women)<br>
 _adjective_: Manx<br>
 
 **Ethnic groups**<br>
-British 92.6%, European 5%, Asian 1%, African 1%, other 0.2% (2011 est.)<br>
+White 94.7%, Asian 3.1%, Mixed 1%, Black 0.6%, other 0.4% (2021 est.)<br>
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
 English, Manx Gaelic (about 2% of the population has some knowledge)<br>
 
 **Religions**<br>
-Protestant (Anglican, Methodist, Baptist, Presbyterian, Society of Friends), Roman Catholic<br>
+Christian 54.7%, Muslim 0.5%, Buddhist 0.5%, Hindu 0.4%, Jewish 0.2%, none 43.8% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 16.28% (male 7,688/female 7,046)<br>
 _15-24 years_: 11.02% (male 5,328/female 4,642)<br>
 _25-54 years_: 37.8% (male 17,080/female 17,131)<br>
 _55-64 years_: 13.82% (male 6,284/female 6,219)<br>
-_65 years and over_: 21.08% (male 9,023/female 10,058) (2020 est.)<br>
+_65 years and over_: 21.08% (2020 est.) (male 9,023/female 10,058)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -452,9 +455,8 @@ _1,524 to 2,437 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 63 km (2008)<br>
-_narrow gauge_: 6 km 1.076-m gauge (6 km electrified) (2008)<br>
-57 0.914-m gauge (29 km electrified)
-<strong>note:</strong> primarily summer tourist attractions<br>
+_narrow gauge_: 6 km (2008) 1.076-m gauge (6 km electrified)<br>
+57 0.914-m gauge (29 km electrified) <strong>note:</strong> primarily summer tourist attractions<br>
 
 **Roadways**<br>
 _total_: 500 km (2008)<br>

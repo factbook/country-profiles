@@ -82,6 +82,9 @@ frequent earthquakes, occasionally severe especially in north and west; flooding
 **Geography - note**<br>
 controls Khyber Pass and Bolan Pass, traditional invasion routes between Central Asia and the Indian Subcontinent<br>
 
+**Map description**<br>
+<p>Pakistan map showing major cities as well as parts of surrounding countries and the Arabian Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -107,7 +110,7 @@ _0-14 years_: 36.01% (male 42,923,925/female 41,149,694)<br>
 _15-24 years_: 19.3% (male 23,119,205/female 21,952,976)<br>
 _25-54 years_: 34.7% (male 41,589,381/female 39,442,046)<br>
 _55-64 years_: 5.55% (male 6,526,656/female 6,423,993)<br>
-_65 years and over_: 4.44% (male 4,802,165/female 5,570,595) (2020 est.)<br>
+_65 years and over_: 4.44% (2020 est.) (male 4,802,165/female 5,570,595)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 64.4<br>
@@ -526,9 +529,9 @@ _expenditures_: 64.49 billion (2017 est.)<br>
 -$19.482 billion (2018 est.)<br>
 
 **Exports**<br>
-$27.3 billion note: data are in current year dollars (2020 est.)<br>
-$30.67 billion note: data are in current year dollars (2019 est.)<br>
-$30.77 billion note: data are in current year dollars (2018 est.)<br>
+$27.3 billion (2020 est.) note: data are in current year dollars<br>
+$30.67 billion (2019 est.) note: data are in current year dollars<br>
+$30.77 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 14%, China 8%, Germany 7%, United Kingdom 6% (2019)<br>
@@ -537,9 +540,9 @@ United States 14%, China 8%, Germany 7%, United Kingdom 6% (2019)<br>
 textiles, clothing and apparel, rice, leather goods, surgical instruments (2019)<br>
 
 **Imports**<br>
-$51.07 billion note: data are in current year dollars (2020 est.)<br>
-$57.98 billion note: data are in current year dollars (2019 est.)<br>
-$68.42 billion note: data are in current year dollars (2018 est.)<br>
+$51.07 billion (2020 est.) note: data are in current year dollars<br>
+$57.98 billion (2019 est.) note: data are in current year dollars<br>
+$68.42 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 28%, United Arab Emirates 11%, United States 5% (2019)<br>
@@ -658,6 +661,10 @@ television is the most popular and dominant source of news in Pakistan with over
 **Internet country code**<br>
 .pk<br>
 
+**Internet users**<br>
+_total_: 55,223,083 (2020 est.)<br>
+_percent of population_: 25% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 2,523,027 (2021)<br>
 _subscriptions per 100 inhabitants_: 1.14 (2021 est.)<br>
@@ -668,7 +675,7 @@ _subscriptions per 100 inhabitants_: 1.14 (2021 est.)<br>
 _number of registered air carriers_: 5 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 52<br>
 _annual passenger traffic on registered air carriers_: 6,880,637 (2018)<br>
-_annual freight traffic on registered air carriers_: 217.53 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 217.53 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 AP<br>
@@ -699,12 +706,12 @@ _under 914 m_: 24 (2021)<br>
 
 **Railways**<br>
 _total_: 11,881 km (2019)<br>
-_narrow gauge_: 389 km 1.000-m gauge (2019)<br>
-_broad gauge_: 11,492 km 1.676-m gauge (293 km electrified) (2019)<br>
+_narrow gauge_: 389 km (2019) 1.000-m gauge<br>
+_broad gauge_: 11,492 km (2019) 1.676-m gauge (293 km electrified)<br>
 
 **Roadways**<br>
 _total_: 263,775 km (2019)<br>
-_paved_: 185,063 km (includes 708 km of expressways) (2019)<br>
+_paved_: 185,063 km (2019) (includes 708 km of expressways)<br>
 _unpaved_: 78,712 km (2019)<br>
 
 **Merchant marine**<br>
@@ -723,11 +730,11 @@ Pakistan Army (includes National Guard), Pakistan Navy (includes Marine forces, 
 note(s) - the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers; the Frontier Corps is a paramilitary force which operates in Balochistan and Khyber Pakhtunkhwa, including the former Federally Administered Tribal Areas; its primary mission is security of the Pakistan-Afghanistan border; the Pakistan Rangers are also a paramilitary force which operate in Sindh and Punjab<br>
 
 **Military expenditures**<br>
+3.8% of GDP (2021 est.)<br>
 4% of GDP (2020 est.)<br>
-4.1% of GDP (approximately $21.6 billion) (2019)<br>
-4.1% of GDP (approximately $21.6 billion) (2018)<br>
-3.8% of GDP (approximately $19.3 billion) (2017)<br>
-3.6% of GDP (approximately $18 billion) (2016)<br>
+4.1% of GDP (2019) (approximately $21.6 billion)<br>
+4.1% of GDP (2018) (approximately $21.6 billion)<br>
+3.8% of GDP (2017) (approximately $19.3 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 625,000 active personnel (550,000 Army; 30,000 Navy; 45,000 Air Force); approximately 150,000 paramilitary (2021)<br>

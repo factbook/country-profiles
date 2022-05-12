@@ -82,6 +82,9 @@ periodic drought; tropical storms (November to April)<br>
 **Geography - note**<br>
 landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)<br>
 
+**Map description**<br>
+<p>Zambia map showing major population centers as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -110,7 +113,7 @@ _0-14 years_: 45.74% (male 4,005,134/female 3,964,969)<br>
 _15-24 years_: 20.03% (male 1,744,843/female 1,746,561)<br>
 _25-54 years_: 28.96% (male 2,539,697/female 2,506,724)<br>
 _55-64 years_: 3.01% (male 242,993/female 280,804)<br>
-_65 years and over_: 2.27% (male 173,582/female 221,316) (2020 est.)<br>
+_65 years and over_: 2.27% (2020 est.) (male 173,582/female 221,316)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 85.7<br>
@@ -516,9 +519,9 @@ calendar year<br>
 -$934 million (2016 est.)<br>
 
 **Exports**<br>
-$8.55 billion note: data are in current year dollars (2020 est.)<br>
-$8.26 billion note: data are in current year dollars (2019 est.)<br>
-$9.98 billion note: data are in current year dollars (2018 est.)<br>
+$8.55 billion (2020 est.) note: data are in current year dollars<br>
+$8.26 billion (2019 est.) note: data are in current year dollars<br>
+$9.98 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Switzerland 29%, China 16%, Namibia 12%, Democratic Republic of the Congo 9%, Singapore 5% (2019)<br>
@@ -527,9 +530,9 @@ Switzerland 29%, China 16%, Namibia 12%, Democratic Republic of the Congo 9%, Si
 copper, gold, gemstones, sulfuric acid, raw sugar, tobacco (2019)<br>
 
 **Imports**<br>
-$5.92 billion note: data are in current year dollars (2020 est.)<br>
-$8.04 billion note: data are in current year dollars (2019 est.)<br>
-$10.19 billion note: data are in current year dollars (2018 est.)<br>
+$5.92 billion (2020 est.) note: data are in current year dollars<br>
+$8.04 billion (2019 est.) note: data are in current year dollars<br>
+$10.19 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 South Africa 29%, China 14%, United Arab Emirates 12%, India 5% (2019)<br>
@@ -630,7 +633,7 @@ _electrification - rural areas_: 6% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 71,844 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 17,220,600 (2019)<br>
@@ -648,9 +651,13 @@ _international_: country code - 260; multiple providers operate overland fiber o
 **Internet country code**<br>
 .zm<br>
 
+**Internet users**<br>
+_total_: 3,676,791 (2020 est.)<br>
+_percent of population_: 20% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 82,317 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.45 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.45 (2021) less than 1<br>
 
 ## Transportation
 
@@ -658,7 +665,7 @@ _subscriptions per 100 inhabitants_: 0.45 less than 1 (2021)<br>
 _number of registered air carriers_: 3 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 6<br>
 _annual passenger traffic on registered air carriers_: 8,904 (2018)<br>
-_annual freight traffic on registered air carriers_: 75.08 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 75.08 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 9J<br>
@@ -685,7 +692,7 @@ _under 914 m_: 21 (2021)<br>
 
 **Railways**<br>
 _total_: 3,126 km (2014)<br>
-_narrow gauge_: 3,126 km 1.067-m gauge (2014)<br>
+_narrow gauge_: 3,126 km (2014) 1.067-m gauge<br>
 <strong>note:</strong> includes 1,860 km of the Tanzania-Zambia Railway Authority (TAZARA)<br>
 
 **Roadways**<br>
@@ -694,7 +701,7 @@ _paved_: 14,888 km (2018)<br>
 _unpaved_: 52,783 km (2018)<br>
 
 **Waterways**<br>
-2,250 km (includes Lake Tanganyika and the Zambezi and Luapula Rivers) (2010)<br>
+2,250 km (2010) (includes Lake Tanganyika and the Zambezi and Luapula Rivers)<br>
 
 **Merchant marine**<br>
 _total_: 2<br>
@@ -710,10 +717,10 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.3% of GDP (approximately $450 million) (2019 est.)<br>
-1.4% of GDP (approximately $470 million) (2018 est.)<br>
-1.3% of GDP (approximately $420 million) (2017 est.)<br>
-1.5% of GDP (approximately $450 million) (2016 est.)<br>
+1.3% of GDP (2019 est.) (approximately $450 million)<br>
+1.4% of GDP (2018 est.) (approximately $470 million)<br>
+1.3% of GDP (2017 est.) (approximately $420 million)<br>
+1.5% of GDP (2016 est.) (approximately $450 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Zambia Defense Force (ZDF) has approximately 17,000 active troops (15,000 Army; 2,000 Air) (2021)<br>

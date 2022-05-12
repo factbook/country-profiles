@@ -72,6 +72,9 @@ one-third of the population lives in and around metropolitan Athens; the remaind
 **Geography - note**<br>
 strategic location dominating the Aegean Sea and southern approach to Turkish Straits; a peninsular country, possessing an archipelago of about 2,000 islands<br>
 
+**Map description**<br>
+<p>Greece map showing major cities as well as parts of surrounding countries and water bodies.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -82,7 +85,7 @@ _noun_: Greek(s)<br>
 _adjective_: Greek<br>
 
 **Ethnic groups**<br>
-Greek 91.6%, Albanian 4.4%, other 4% (2011)<br>
+Greek 91.6%, Albanian 4.4%, other 4% (2011 est.)<br>
 <strong>note:</strong> data represent citizenship; Greece does not collect data on ethnicity<br>
 
 **Languages**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 14.53% (male 794,918/female 745,909)<br>
 _15-24 years_: 10.34% (male 577,134/female 519,819)<br>
 _25-54 years_: 39.6% (male 2,080,443/female 2,119,995)<br>
 _55-64 years_: 13.1% (male 656,404/female 732,936)<br>
-_65 years and over_: 22.43% (male 1,057,317/female 1,322,176) (2020 est.)<br>
+_65 years and over_: 22.43% (2020 est.) (male 1,057,317/female 1,322,176)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.1<br>
@@ -196,7 +199,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br>
+(2020 est.) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -484,9 +487,9 @@ calendar year<br>
 -$6.245 billion (2018 est.)<br>
 
 **Exports**<br>
-$59.02 billion note: data are in current year dollars (2020 est.)<br>
-$81.18 billion note: data are in current year dollars (2019 est.)<br>
-$81.87 billion note: data are in current year dollars (2018 est.)<br>
+$59.02 billion (2020 est.) note: data are in current year dollars<br>
+$81.18 billion (2019 est.) note: data are in current year dollars<br>
+$81.87 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Italy 10%, Germany 7%, Turkey 5%, Cyprus 5%, Bulgaria 5% (2019)<br>
@@ -495,9 +498,9 @@ Italy 10%, Germany 7%, Turkey 5%, Cyprus 5%, Bulgaria 5% (2019)<br>
 refined petroleum, packaged medicines, aluminum plating, computers, cotton (2019)<br>
 
 **Imports**<br>
-$71.76 billion note: data are in current year dollars (2020 est.)<br>
-$83.19 billion note: data are in current year dollars (2019 est.)<br>
-$85.8 billion note: data are in current year dollars (2018 est.)<br>
+$71.76 billion (2020 est.) note: data are in current year dollars<br>
+$83.19 billion (2019 est.) note: data are in current year dollars<br>
+$85.8 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 11%, China 9%, Italy 8%, Iraq 7%, Russia 6%, Netherlands 5% (2019)<br>
@@ -614,6 +617,10 @@ broadcast media dominated by the private sector; roughly 150 private TV channels
 **Internet country code**<br>
 .gr<br>
 
+**Internet users**<br>
+_total_: 8,346,434 (2020 est.)<br>
+_percent of population_: 78% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 4,257,026 (2021)<br>
 _subscriptions per 100 inhabitants_: 40.84 (2021 est.)<br>
@@ -624,7 +631,7 @@ _subscriptions per 100 inhabitants_: 40.84 (2021 est.)<br>
 _number of registered air carriers_: 11 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 97<br>
 _annual passenger traffic on registered air carriers_: 15,125,933 (2018)<br>
-_annual freight traffic on registered air carriers_: 21.91 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 21.91 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 SX<br>
@@ -653,15 +660,15 @@ _under 914 m_: 7 (2021)<br>
 
 **Railways**<br>
 _total_: 2,548 km (2014)<br>
-_standard gauge_: 1,565 km 1.435-m gauge (764 km electrified) (2014)<br>
-_narrow gauge_: 961 km 1.000-m gauge (2014)<br>
+_standard gauge_: 1,565 km (2014) 1.435-m gauge (764 km electrified)<br>
+_narrow gauge_: 961 km (2014) 1.000-m gauge<br>
 22 0.750-m gauge<br>
 
 **Roadways**<br>
 _total_: 117,000 km (2018)<br>
 
 **Waterways**<br>
-6 km (the 6-km-long Corinth Canal crosses the Isthmus of Corinth; it shortens a sea voyage by 325 km) (2012)<br>
+6 km (2012) (the 6-km-long Corinth Canal crosses the Isthmus of Corinth; it shortens a sea voyage by 325 km)<br>
 
 **Merchant marine**<br>
 _total_: 1,236<br>
@@ -681,12 +688,12 @@ Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National G
 **Military expenditures**<br>
 3.6% of GDP (2021 est.)<br>
 2.9% of GDP (2020)<br>
-2.3% of GDP (approximately $7.95 billion) (2019)<br>
-2.5% of GDP (approximately $8.31 billion) (2018)<br>
-2.3% of GDP (approximately $7.56 billion) (2017)<br>
+2.3% of GDP (2019) (approximately $7.95 billion)<br>
+2.5% of GDP (2018) (approximately $8.31 billion)<br>
+2.3% of GDP (2017) (approximately $7.56 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 130,000 active duty personnel (90,000 Army; 15,000 Navy; 25,000 Air Force); approximately 35,000 National Guard (2021)<br>
+approximately 120,000 active duty personnel (85,000 Army; 15,000 Navy; 20,000 Air Force); approximately 35,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Hellenic Armed Forces consists mostly of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems, particularly naval vessels; Germany is the leading supplier of weapons systems to Greece since 2010; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2021)<br>
@@ -716,7 +723,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,216,008 estimated refugee and migrant arrivals (January 2015-April 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,216,443 estimated refugee and migrant arrivals (January 2015-April 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

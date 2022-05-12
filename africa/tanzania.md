@@ -82,6 +82,9 @@ the largest and most populous East African country; population distribution is e
 **Geography - note**<br>
 Kilimanjaro is the highest point in Africa and one of only three mountain ranges on the continent that has glaciers (the others are Mount Kenya [in Kenya] and the Ruwenzori Mountains [on the Uganda-Democratic Republic of the Congo border]); Tanzania is bordered by three of the largest lakes on the continent: Lake Victoria (the world's second-largest freshwater lake) in the north, Lake Tanganyika (the world's second deepest) in the west, and Lake Nyasa (Lake Malawi) in the southwest<br>
 
+**Map description**<br>
+<p>Tanzania map showing major cities as well as parts of surrounding countries and the Indian Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -111,7 +114,7 @@ _0-14 years_: 42.7% (male 12,632,772/female 12,369,115)<br>
 _15-24 years_: 20.39% (male 5,988,208/female 5,948,134)<br>
 _25-54 years_: 30.31% (male 8,903,629/female 8,844,180)<br>
 _55-64 years_: 3.52% (male 954,251/female 1,107,717)<br>
-_65 years and over_: 3.08% (male 747,934/female 1,056,905) (2020 est.)<br>
+_65 years and over_: 3.08% (2020 est.) (male 747,934/female 1,056,905)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 85.9<br>
@@ -387,7 +390,7 @@ Alliance for Change and Transparency (Wazalendo) or ACT [Zitto KABWE]<br>Allianc
 ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador H.E. Elsie Sia KANZA (since August 2021)<br>
+_chief of mission_: Ambassador Elsie Sia KANZA (since August 2021)<br>
 _chancery_: 1232 22nd Street NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 884-1080, [1] (202) 939-6125, [1] (202) 939-6127<br>
 _FAX_: [1] (202) 797-7408<br>
@@ -520,8 +523,8 @@ _expenditures_: 8.818 billion (2017 est.)<br>
 -$1.898 billion (2018 est.)<br>
 
 **Exports**<br>
-$9.66 billion note: data are in current year dollars (2019 est.)<br>
-$8.46 billion note: data are in current year dollars (2018 est.)<br>
+$9.66 billion (2019 est.) note: data are in current year dollars<br>
+$8.46 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 India 20%, United Arab Emirates 13%, China 8%, Switzerland 7%, Rwanda 6%, Kenya 5%, Vietnam 5% (2019)<br>
@@ -530,8 +533,8 @@ India 20%, United Arab Emirates 13%, China 8%, Switzerland 7%, Rwanda 6%, Kenya 
 gold, tobacco, cashews, sesame seeds, refined petroleum (2019)<br>
 
 **Imports**<br>
-$10.36 billion note: data are in current year dollars (2019 est.)<br>
-$10.2 billion note: data are in current year dollars (2018 est.)<br>
+$10.36 billion (2019 est.) note: data are in current year dollars<br>
+$10.2 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 34%, India 15%, United Arab Emirates 12% (2019)<br>
@@ -633,7 +636,7 @@ _electrification - rural areas_: 23% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 72,469 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 47,685,200 (2019)<br>
@@ -651,6 +654,10 @@ according to statistics from the Tanzania Communications Regulatory Authority (T
 **Internet country code**<br>
 .tz<br>
 
+**Internet users**<br>
+_total_: 13,141,527 (2020 est.)<br>
+_percent of population_: 22% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,135,608 (2021)<br>
 _subscriptions per 100 inhabitants_: 1.9 (2021 est.)<br>
@@ -661,7 +668,7 @@ _subscriptions per 100 inhabitants_: 1.9 (2021 est.)<br>
 _number of registered air carriers_: 11 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 91<br>
 _annual passenger traffic on registered air carriers_: 1,481,557 (2018)<br>
-_annual freight traffic on registered air carriers_: 390,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 390,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 5H<br>
@@ -689,8 +696,8 @@ _under 914 m_: 33 (2021)<br>
 **Railways**<br>
 _total_: 4,097 km<br>
 _standard gauge_: 421 km<br>
-_narrow gauge_: 1,969 km 1.067 m gauge (2014)<br>
-_broad gauge_: 2,707 km 1.000 m guage <br>
+_narrow gauge_: 1,969 km (2014) 1.067 m gauge<br>
+_broad gauge_: 2,707 km 1.000 m guage<br>
 2707 km 1.000-m gauge<br>
 
 **Roadways**<br>
@@ -699,7 +706,7 @@ _paved_: 11,201 km (2015)<br>
 _unpaved_: 135,002 km<br>
 
 **Waterways**<br>
-(Lake Tanganyika, Lake Victoria, and Lake Nyasa (Lake Malawi) are the principal avenues of commerce with neighboring countries; the rivers are not navigable) (2011)<br>
+(2011) (Lake Tanganyika, Lake Victoria, and Lake Nyasa (Lake Malawi) are the principal avenues of commerce with neighboring countries; the rivers are not navigable)<br>
 
 **Merchant marine**<br>
 _total_: 314<br>
@@ -715,11 +722,11 @@ Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): 
 note - the National Building Army is a paramilitary organization under the Defense Forces that provides 6 months of military and vocational training to individuals as part of their 2 years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2020 est.)<br>
-1.1% of GDP (approximately $810 million) (2019 est.)<br>
-1.2% of GDP (approximately $800 million) (2018 est.)<br>
-1% of GDP (approximately $690 million) (2017 est.)<br>
-1.1% of GDP (approximately $690 million) (2016 est.)<br>
+1.2% of GDP (2020 est.)<br>
+1.1% of GDP (2019 est.) (approximately $810 million)<br>
+1.2% of GDP (2018 est.) (approximately $800 million)<br>
+1% of GDP (2017 est.) (approximately $690 million)<br>
+1.1% of GDP (2016 est.) (approximately $690 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active personnel (21,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2021)<br>

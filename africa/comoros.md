@@ -69,6 +69,9 @@ the capital city of Maroni, located on the western side of the island of Grande 
 **Geography - note**<br>
 important location at northern end of Mozambique Channel; the only Arab League country that lies entirely in the Southern Hemisphere<br>
 
+**Map description**<br>
+<p>Comoros map showing the three major islands that make up the country in the Indian Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -96,7 +99,7 @@ _0-14 years_: 36.68% (male 154,853/female 155,602)<br>
 _15-24 years_: 20.75% (male 85,208/female 90,422)<br>
 _25-54 years_: 33.99% (male 136,484/female 151,178)<br>
 _55-64 years_: 4.49% (male 17,237/female 20,781)<br>
-_65 years and over_: 4.08% (male 15,437/female 19,079) (2020 est.)<br>
+_65 years and over_: 4.08% (2020 est.) (male 15,437/female 19,079)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 75.5<br>
@@ -186,13 +189,13 @@ _unimproved: rural_: rural: 56.4% of population<br>
 _unimproved: total_: total: 51% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<200 (2020 est.)<br>
+(2020 est.) <200<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020 est.)<br>
+(2020 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 7.8% (2016)<br>
@@ -329,9 +332,7 @@ _election results_: seats by party -1st round - Boycotting parties 16, Independe
 _highest courts_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
 _judge selection and term of office_: Supreme Court judges - selection and term of office NA<br>
 _subordinate courts_: Court of Appeals (in Moroni); Tribunal de premiere instance; island village (community) courts; religious courts<br>
-<br>
- 
-<br><br> <br>
+<br>   <br><br> <br>
 
 **Political parties and leaders**<br>
 Convention for the Renewal of the Comoros or CRC [AZALI Assoumani]<br>Democratic Rally of the Comoros or RDC [Mouigni BARAKA]<br>Independent Party [N/A]<br>Juwa Party or PJ [[Ahmed Abdallah SAMBI, Mahamoudou AHAMADA]<br>Orange Party [Mohamed DAOUDOU]<br>Party for the Comorian Agreement (Partie Pour l'Entente Commorienne) or PEC [Fahmi Said IBRAHIM]<br>Rally for an Alternative of Harmonious and Integrated Development or RADHI [Mohamed AHMED]<br>Rally with a Development Initiative for Enlightened Youth or RIDJA [Said LARIFOU]<br>Union for the Development of the Comoros or UPDC [Mohamed HALIFA] (2018)<br>
@@ -460,8 +461,8 @@ calendar year<br>
 -$45 million (2016 est.)<br>
 
 **Exports**<br>
-$140 million note: data are in current year dollars (2019 est.)<br>
-$150 million note: data are in current year dollars (2018 est.)<br>
+$140 million (2019 est.) note: data are in current year dollars<br>
+$150 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 France 32%, India 23%, Germany 10%, Turkey 9%, Madagascar 7% (2019)<br>
@@ -470,8 +471,8 @@ France 32%, India 23%, Germany 10%, Turkey 9%, Madagascar 7% (2019)<br>
 cloves, essential oils, vacuum flask, vanilla, scrap vessels (2019)<br>
 
 **Imports**<br>
-$350 million note: data are in current year dollars (2019 est.)<br>
-$360 million note: data are in current year dollars (2018 est.)<br>
+$350 million (2019 est.) note: data are in current year dollars<br>
+$360 million (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 22%, United Arab Emirates 16%, France 11%, Pakistan 9%, India 6% (2019)<br>
@@ -572,7 +573,7 @@ _electrification - rural areas_: 62% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 7,573 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 472,815 (2020)<br>
@@ -590,9 +591,13 @@ national state-owned TV station and a TV station run by Anjouan regional governm
 **Internet country code**<br>
 .km<br>
 
+**Internet users**<br>
+_total_: 69,568 (2020 est.)<br>
+_percent of population_: 8% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,066 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.12 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.12 (2021) less than 1<br>
 
 ## Transportation
 

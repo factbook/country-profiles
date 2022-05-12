@@ -72,6 +72,9 @@ population concentrated in the plains and lowlands; least populated regions are 
 **Geography - note**<br>
 strategic location bordering China, South Korea, and Russia; mountainous interior is isolated and sparsely populated<br>
 
+**Map description**<br>
+<p>North Korea map showing major cities as well as parts of surrounding countries and water bodies.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 20.33% (male 2,680,145/female 2,571,334)<br>
 _15-24 years_: 14.39% (male 1,873,814/female 1,842,269)<br>
 _25-54 years_: 43.77% (male 5,671,900/female 5,633,861)<br>
 _55-64 years_: 11.77% (male 1,454,000/female 1,585,830)<br>
-_65 years and over_: 9.75% (male 878,176/female 1,640,031) (2021 est.)<br>
+_65 years and over_: 9.75% (2021 est.) (male 878,176/female 1,640,031)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 41.2<br>
@@ -379,10 +382,10 @@ _industry_: 47.6% (2017 est.)<br>
 _services_: 29.9% (2017 est.)<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: NA (2014 est.)<br>
-_government consumption_: NA (2014 est.)<br>
-_investment in fixed capital_: NA (2014 est.)<br>
-_investment in inventories_: NA (2014 est.)<br>
+_household consumption_: (2014 est.) NA<br>
+_government consumption_: (2014 est.) NA<br>
+_investment in fixed capital_: (2014 est.) NA<br>
+_investment in inventories_: (2014 est.) NA<br>
 _exports of goods and services_: 5.9% (2016 est.)<br>
 _imports of goods and services_: -11.1% (2016 est.)<br>
 
@@ -561,7 +564,7 @@ no independent media; radios and TVs are pre-tuned to government stations; 4 gov
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 4<br>
 _annual passenger traffic on registered air carriers_: 103,560 (2018)<br>
-_annual freight traffic on registered air carriers_: 250,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 250,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 P<br>
@@ -592,7 +595,7 @@ _under 914 m_: 8 (2021)<br>
 
 **Railways**<br>
 _total_: 7,435 km (2014)<br>
-_standard gauge_: 7,435 km 1.435-m gauge (5,400 km electrified) (2014)<br>
+_standard gauge_: 7,435 km (2014) 1.435-m gauge (5,400 km electrified)<br>
 <strong>note:</strong> figures are approximate; some narrow-gauge railway also exists<br>
 
 **Roadways**<br>
@@ -601,7 +604,7 @@ _paved_: 724 km (2006)<br>
 _unpaved_: 24,830 km (2006)<br>
 
 **Waterways**<br>
-2,250 km (most navigable only by small craft) (2011)<br>
+2,250 km (2011) (most navigable only by small craft)<br>
 
 **Merchant marine**<br>
 _total_: 264<br>

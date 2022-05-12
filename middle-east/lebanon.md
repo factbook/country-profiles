@@ -70,6 +70,9 @@ earthquakes; dust storms, sandstorms<br>
 **Geography - note**<br>
 smallest country in continental Asia; Nahr el Litani is the only major river in Near East not crossing an international boundary; rugged terrain historically helped isolate, protect, and develop numerous factional groups based on religion, clan, and ethnicity<br>
 
+**Map description**<br>
+<p>Lebanon map showing major population centers as well as parts of surrounding countries and the Mediterranean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -96,7 +99,7 @@ _0-14 years_: 20.75% (male 581,015/female 554,175)<br>
 _15-24 years_: 14.98% (male 417,739/female 401,357)<br>
 _25-54 years_: 46.69% (male 1,296,250/female 1,257,273)<br>
 _55-64 years_: 9.62% (male 250,653/female 275,670)<br>
-_65 years and over_: 7.96% (male 187,001/female 248,479) (2020 est.)<br>
+_65 years and over_: 7.96% (2020 est.) (male 187,001/female 248,479)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48.4<br>
@@ -185,13 +188,13 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 2,700 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020 est.)<br>
+(2020 est.) <100<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 30 March 2022, Lebanon has reported a total of 1,091,413 cases of COVID-19 or 15,990.35 cumulative cases of COVID-19 per 100,000 population with a total of 10,291 cumulative deaths or a rate of 150.77 cumulative deaths per 100,000 population; as of 29 March 2022, 37.17% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -444,7 +447,7 @@ banking, tourism, real estate and construction, food processing, wine, jewelry, 
 <strong>note:</strong> excludes as many as 1 million foreign workers and refugees<br>
 
 **Labor force - by occupation**<br>
-_agriculture_: 39% NA (2009 est.)<br>
+_agriculture_: 39% (2009 est.) NA<br>
 _industry_: NA<br>
 _services_: NA<br>
 
@@ -489,8 +492,8 @@ calendar year<br>
 -$11.18 billion (2016 est.)<br>
 
 **Exports**<br>
-$18.17 billion note: data are in current year dollars (2019 est.)<br>
-$19.16 billion note: data are in current year dollars (2018 est.)<br>
+$18.17 billion (2019 est.) note: data are in current year dollars<br>
+$19.16 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Switzerland 27%, United Arab Emirates 15%, South Korea 11%, Saudi Arabia 7%, Kuwait 6% (2019)<br>
@@ -499,8 +502,8 @@ Switzerland 27%, United Arab Emirates 15%, South Korea 11%, Saudi Arabia 7%, Kuw
 gold, jewelry, shotguns, diamonds, scrap copper (2019)<br>
 
 **Imports**<br>
-$31.34 billion note: data are in current year dollars (2019 est.)<br>
-$32.78 billion note: data are in current year dollars (2018 est.)<br>
+$31.34 billion (2019 est.) note: data are in current year dollars<br>
+$32.78 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United Arab Emirates 11%, China 10%, Italy 8%, Greece 8%, Turkey 7%, United States 6% (2019)<br>
@@ -617,6 +620,10 @@ _international_: country code - 961; landing points for the IMEWE, BERYTAR AND C
 **Internet country code**<br>
 .lb<br>
 
+**Internet users**<br>
+_total_: 6,825,442 (2020 est.)<br>
+_percent of population_: 84% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 432,070 (2021)<br>
 _subscriptions per 100 inhabitants_: 6.33 (2021)<br>
@@ -627,7 +634,7 @@ _subscriptions per 100 inhabitants_: 6.33 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 21<br>
 _annual passenger traffic on registered air carriers_: 2,981,937 (2018)<br>
-_annual freight traffic on registered air carriers_: 56.57 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 56.57 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 OD<br>
@@ -655,8 +662,8 @@ _under 914 m_: 1 (2021)<br>
 
 **Railways**<br>
 _total_: 401 km (2017)<br>
-_standard gauge_: 319 km 1.435-m gauge (2017)<br>
-_narrow gauge_: 82 km 1.050-m gauge (2017)<br>
+_standard gauge_: 319 km (2017) 1.435-m gauge<br>
+_narrow gauge_: 82 km (2017) 1.050-m gauge<br>
 <strong>note:</strong> rail system is still unusable due to damage sustained from fighting in the 1980s and in 2006<br>
 
 **Roadways**<br>
@@ -678,10 +685,10 @@ note(s) - the commander of the LAF is also the commander of the Army; the LAF pa
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>
-4.7% of GDP (approximately $3.6 billion) (2019 est.)<br>
-5.1% of GDP (approximately $4.1 billion) (2018 est.)<br>
-4.6% of GDP (approximately $3.95 billion) (2017 est.)<br>
-5.1% of GDP (approximately $4.15 billion) (2016 est.)<br>
+4.7% of GDP (2019 est.) (approximately $3.6 billion)<br>
+5.1% of GDP (2018 est.) (approximately $4.1 billion)<br>
+4.6% of GDP (2017 est.) (approximately $3.95 billion)<br>
+5.1% of GDP (2016 est.) (approximately $4.15 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 Air Force) (2021)<br>

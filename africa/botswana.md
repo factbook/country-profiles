@@ -79,6 +79,9 @@ periodic droughts; seasonal August winds blow from the west, carrying sand and d
 **Geography - note**<br>
 landlocked; population concentrated in the southern and eastern parts of the country<br>
 
+**Map description**<br>
+<p>Botswana map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -106,7 +109,7 @@ _0-14 years_: 30.54% (male 357,065/female 350,550)<br>
 _15-24 years_: 18.31% (male 208,824/female 215,462)<br>
 _25-54 years_: 39.67% (male 434,258/female 484,922)<br>
 _55-64 years_: 5.92% (male 59,399/female 77,886)<br>
-_65 years and over_: 5.56% (male 53,708/female 75,159) (2020 est.)<br>
+_65 years and over_: 5.56% (2020 est.) (male 53,708/female 75,159)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 61.1<br>
@@ -502,8 +505,8 @@ $2.146 billion (2017 est.)<br>
 $2.147 billion (2016 est.)<br>
 
 **Exports**<br>
-$6.16 billion note: data are in current year dollars (2019 est.)<br>
-$7.53 billion note: data are in current year dollars (2018 est.)<br>
+$6.16 billion (2019 est.) note: data are in current year dollars<br>
+$7.53 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 India 21%, Belgium 19%, United Arab Emirates 19%, South Africa 9%, Israel 7%, Hong Kong 6%, Singapore 5% (2019)<br>
@@ -512,8 +515,8 @@ India 21%, Belgium 19%, United Arab Emirates 19%, South Africa 9%, Israel 7%, Ho
 diamonds, insulated wiring, gold, beef, carbonates (2019)<br>
 
 **Imports**<br>
-$7.44 billion note: data are in current year dollars (2019 est.)<br>
-$7.31 billion note: data are in current year dollars (2018 est.)<br>
+$7.44 billion (2019 est.) note: data are in current year dollars<br>
+$7.31 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 South Africa 58%, Namibia 9%, Canada 7% (2019)<br>
@@ -632,6 +635,10 @@ _international_: country code - 267; international calls are made via satellite,
 **Internet country code**<br>
 .bw<br>
 
+**Internet users**<br>
+_total_: 1,505,040 (2020 est.)<br>
+_percent of population_: 64% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 259,525 (2021)<br>
 _subscriptions per 100 inhabitants_: 11.04 (2021)<br>
@@ -642,7 +649,7 @@ _subscriptions per 100 inhabitants_: 11.04 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 6<br>
 _annual passenger traffic on registered air carriers_: 253,417 (2018)<br>
-_annual freight traffic on registered air carriers_: 110,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 110,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 A2<br>
@@ -665,7 +672,7 @@ _under 914 m_: 13 (2021)<br>
 
 **Railways**<br>
 _total_: 888 km (2014)<br>
-_narrow gauge_: 888 km 1.067-m gauge (2014)<br>
+_narrow gauge_: 888 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
 _total_: 31,747 km (2017)<br>
@@ -680,10 +687,10 @@ note - both the armed forces and the Botswana Police Service report to the Minis
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>
-2.8% of GDP (approximately $760 million) (2019)<br>
-2.8% of GDP (approximately $730 million) (2018)<br>
-2.9% of GDP (approximately $740 million) (2017)<br>
-3.1% of GDP (approximately $760 million) (2016)<br>
+2.8% of GDP (2019) (approximately $760 million)<br>
+2.8% of GDP (2018) (approximately $730 million)<br>
+2.9% of GDP (2017) (approximately $740 million)<br>
+3.1% of GDP (2016) (approximately $760 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Botswana Defense Force (BDF) has approximately 9,000 active personnel (2021)<br>
@@ -700,5 +707,5 @@ the BDF has a mix of foreign-supplied and mostly older weapons and equipment, la
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 

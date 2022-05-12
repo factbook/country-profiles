@@ -74,6 +74,9 @@ droughts<br>
 **Geography - note**<br>
 both the main area of the country and the Naxcivan exclave are landlocked<br>
 
+**Map description**<br>
+<p>Azerbaijan map showing major cities as well as parts of surrounding countries and the Caspian Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -101,7 +104,7 @@ _0-14 years_: 22.84% (male 1,235,292/female 1,095,308)<br>
 _15-24 years_: 13.17% (male 714,718/female 629,494)<br>
 _25-54 years_: 45.29% (male 2,291,600/female 2,330,843)<br>
 _55-64 years_: 11.41% (male 530,046/female 634,136)<br>
-_65 years and over_: 7.29% (male 289,604/female 454,769) (2020 est.)<br>
+_65 years and over_: 7.29% (2020 est.) (male 289,604/female 454,769)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.4<br>
@@ -191,7 +194,7 @@ _improved: rural_: rural: NA<br>
 _improved: total_: total: NA<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA (2020 est.)<br>
+_unimproved: total_: total: (2020 est.) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.1% (2020 est.)<br>
@@ -200,7 +203,7 @@ _unimproved: total_: total: NA (2020 est.)<br>
 9,900 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2020 est.)<br>
+(2020 est.) <200<br>
 
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
@@ -488,9 +491,9 @@ $1.685 billion (2017 est.)<br>
 -$1.363 billion (2016 est.)<br>
 
 **Exports**<br>
-$15.21 billion note: data are in current year dollars (2020 est.)<br>
-$23.63 billion note: data are in current year dollars (2019 est.)<br>
-$25.48 billion note: data are in current year dollars (2018 est.)<br>
+$15.21 billion (2020 est.) note: data are in current year dollars<br>
+$23.63 billion (2019 est.) note: data are in current year dollars<br>
+$25.48 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Italy 28%, Turkey 15%, Israel 7%, Germany 5%, India 5% (2017)<br>
@@ -499,9 +502,9 @@ Italy 28%, Turkey 15%, Israel 7%, Germany 5%, India 5% (2017)<br>
 crude petroleum, natural gas, refined petroleum, tomatoes, gold (2019)<br>
 
 **Imports**<br>
-$15.54 billion note: data are in current year dollars (2020 est.)<br>
-$17.71 billion note: data are in current year dollars (2019 est.)<br>
-$17.71 billion note: data are in current year dollars (2018 est.)<br>
+$15.54 billion (2020 est.) note: data are in current year dollars<br>
+$17.71 billion (2019 est.) note: data are in current year dollars<br>
+$17.71 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United Kingdom 17%, Russia 17%, Turkey 12%, China 6% (2019)<br>
@@ -618,9 +621,13 @@ _international_: country code - 994; the TAE fiber-optic link transits Azerbaija
 **Internet country code**<br>
 .az<br>
 
+**Internet users**<br>
+_total_: 8,579,153 (2020 est.)<br>
+_percent of population_: 85% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 1,995,474 (2021)<br>
-_subscriptions per 100 inhabitants_: 19.68 (2021 est.)<br>
+_total_: 1,995,474 (2022)<br>
+_subscriptions per 100 inhabitants_: 19.68 (2022)<br>
 
 ## Transportation
 
@@ -628,7 +635,7 @@ _subscriptions per 100 inhabitants_: 19.68 (2021 est.)<br>
 _number of registered air carriers_: 42 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 44<br>
 _annual passenger traffic on registered air carriers_: 2,279,546 (2018)<br>
-_annual freight traffic on registered air carriers_: 44.09 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 44.09 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 4K<br>
@@ -656,7 +663,7 @@ _under 914 m_: 7 (2021)<br>
 
 **Railways**<br>
 _total_: 2,944 km (2017)<br>
-_broad gauge_: 2,944.3 km 1.520-m gauge (approx. 1,767 km electrified) (2017)<br>
+_broad gauge_: 2,944.3 km (2017) 1.520-m gauge (approx. 1,767 km electrified)<br>
 
 **Roadways**<br>
 _total_: 24,981 km (2013)<br>
@@ -675,11 +682,11 @@ _major seaport(s)_: Baku (Baki) located on the Caspian Sea<br>
 Land Forces (Combined Arms Army), Air Forces, Navy Forces; Ministry of Internal Affairs: State Border Service (includes Coast Guard), Internal Security Troops (2021)<br>
 
 **Military expenditures**<br>
+5.2% of GDP (2021 est.)<br>
 5.4% of GDP (2020 est.)<br>
-3.8% of GDP (approximately $3.4 billion) (2019 est.)<br>
-3.6% of GDP (approximately $3.2 billion) (2018 est.)<br>
-3.8% of GDP (approximately $3.26 billion) (2017 est.)<br>
-3.7% of GDP (approximately $3.29 billion) (2016 est.)<br>
+3.8% of GDP (2019 est.) (approximately $3.4 billion)<br>
+3.6% of GDP (2018 est.) (approximately $3.2 billion)<br>
+3.8% of GDP (2017 est.) (approximately $3.26 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 65,000 total active troops (55,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2021)<br>

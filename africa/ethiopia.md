@@ -84,6 +84,9 @@ highest density is found in the highlands of the north and middle areas of the c
 **Geography - note**<br>
 <strong>note 1:</strong> landlocked - entire coastline along the Red Sea was lost with the de jure independence of Eritrea on 24 May 1993; Ethiopia is, therefore, the most populous landlocked country in the world; the Blue Nile, the chief headstream of the Nile by water volume, rises in T'ana Hayk (Lake Tana) in northwest Ethiopia<br><br><strong>note 2:</strong> three major crops may have originated in Ethiopia: coffee (almost certainly), grain sorghum, and castor bean<br>
 
+**Map description**<br>
+<p>Ethiopia map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -112,7 +115,7 @@ _0-14 years_: 39.81% (male 21,657,152/female 21,381,628)<br>
 _15-24 years_: 19.47% (male 10,506,144/female 10,542,128)<br>
 _25-54 years_: 32.92% (male 17,720,540/female 17,867,298)<br>
 _55-64 years_: 4.42% (male 2,350,606/female 2,433,319)<br>
-_65 years and over_: 3.38% (male 1,676,478/female 1,977,857) (2020 est.)<br>
+_65 years and over_: 3.38% (2020 est.) (male 1,676,478/female 1,977,857)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 76.8<br>
@@ -297,7 +300,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Ethiopia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to civil conflict - more than 16 million people were estimated to be severely food insecure in the May&minus;June 2021 period; particular concerns exist for the Tigray Region and neighboring zones of Amhara and Afar regions, where 5.5 million people (about 60 percent of the population) are estimated to face severe food insecurity due to the conflict which started in November 2020 (2021)<br>
+_widespread lack of access_: due to civil conflict - more than 16 million people were estimated to be severely food insecure in the May&minus;June 2021 period; the high levels of food insecurity are mainly due to the lingering impact of the measures implemented in 2020 to curb the spread of the COVID‑19 pandemic, macro‑economic challenges resulting in high food prices, localized but significant locust‑induced crop and pasture losses, the negative impact on crop and livestock production of erratic rains in the first half of the year and to the intensification of inter‑communal violence since 2020 in several areas and the ongoing conflict in Tigray Region (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 6,532,787 tons (2015 est.)<br>
@@ -537,7 +540,7 @@ _expenditures_: 13.79 billion (2017 est.)<br>
 -$6.574 billion (2016 est.)<br>
 
 **Exports**<br>
-$7.62 billion note: data are in current year dollars (2018 est.)<br>
+$7.62 billion (2018 est.) note: data are in current year dollars<br>
 $2.814 billion (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -547,7 +550,7 @@ China 17%, United States 16%, United Arab Emirates 8%, Saudi Arabia 6%, South Ko
 coffee, sesame seeds, gold, cut flowers, zinc (2019)<br>
 
 **Imports**<br>
-$19.93 billion note: data are in current year dollars (2018 est.)<br>
+$19.93 billion (2018 est.) note: data are in current year dollars<br>
 $14.69 billion (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -667,9 +670,13 @@ _international_: country code - 251; open-wire to Sudan and Djibouti; microwave 
 **Internet country code**<br>
 .et<br>
 
+**Internet users**<br>
+_total_: 27,591,260 (2020 est.)<br>
+_percent of population_: 24% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 212,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.18 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.18 (2021) less than 1<br>
 
 ## Transportation
 
@@ -677,7 +684,7 @@ _subscriptions per 100 inhabitants_: 0.18 less than 1 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 75<br>
 _annual passenger traffic on registered air carriers_: 11,501,244 (2018)<br>
-_annual freight traffic on registered air carriers_: 2,089,280,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 2,089,280,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 ET<br>
@@ -700,8 +707,8 @@ _914 to 1,523 m_: 20<br>
 _under 914 m_: 8 (2021)<br>
 
 **Railways**<br>
-_total_: 659 km (Ethiopian segment of the 756 km Addis Ababa-Djibouti railroad) (2017)<br>
-_standard gauge_: 659 km 1.435-m gauge (2017)<br>
+_total_: 659 km (2017) (Ethiopian segment of the 756 km Addis Ababa-Djibouti railroad)<br>
+_standard gauge_: 659 km (2017) 1.435-m gauge<br>
 <strong>note:</strong> electric railway with redundant power supplies; under joint control of Djibouti and Ethiopia and managed by a Chinese contractor<br>
 
 **Roadways**<br>
@@ -722,10 +729,10 @@ note(s) - in January 2020 the Ethiopian Government announced it had re-establish
 
 **Military expenditures**<br>
 0.5% of GDP (2020 est.)<br>
-0.6% of GDP (approximately $970 million) (2019 est.)<br>
-0.6% of GDP (approximately $950 million) (2018 est.)<br>
-0.7% of GDP (approximately $930 million) (2017 est.)<br>
-0.7% of GDP (approximately $870 million) (2016 est.)<br>
+0.6% of GDP (2019 est.) (approximately $970 million)<br>
+0.6% of GDP (2018 est.) (approximately $950 million)<br>
+0.7% of GDP (2017 est.) (approximately $930 million)<br>
+0.7% of GDP (2016 est.) (approximately $870 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; prior to the 2020-21 Tigray conflict, approximately 150,000 active duty troops, including about 3,000 Air Force personnel (no personnel numbers available for the newly-established Navy) (2021)<br>
@@ -742,7 +749,7 @@ prior to the 2020-21 Tigray conflict, 5-10,000 Somalia (4,500 for AMISOM; the re
 note - in August 2021, Sudan asked the UN to remove the Ethiopian troops from the UNISFA mission<br>
 
 **Military - note**<br>
-each of the nine states has a regional and/or a "special" paramilitary security forces that report to regional civilian authorities; local militias operate across the country in loose and varying coordination with these regional security and police forces, the Ethiopian Federal Police (EFP), and the Ethiopian military; the EFP reports to the Ministry of Peace, which was created in October of 2018<br><br>since November 2020, the Government of Ethiopia has been engaged in a protracted military conflict with the Tigray People’s Liberation Front (TPLF), the former governing party of the Tigray Region; the government deemed a TPLF attack on Ethiopia military forces as a domestic terrorism incident and launched a military offensive in response; the TPLF asserted that its actions were self-defense in the face of planned Ethiopian Government action to remove it from the provincial government; the Ethiopian Government sent large elements of the ENDF into Tigray to remove the TPLF and invited militia and paramilitary forces from the states of Afar and Amara, as well as the military forces of Eritrea, to assist; fighting continued through the end of 2021 with heavy civilian and military casualties and widespread human rights abuses reported <p>the military forces of the Tigray regional government are known as the Tigray Defense Force (TDF); the TDF is comprised of state paramilitary forces, local militia, and troops that defected from the ENDF; it reportedly had up to 250,000 fighters at the start of the conflict; in August 2021, the TPLF struck an alliance with the Oromo Liberation Army (OLA)</p> <p>as of 2021, the Ethiopian military consisted of approximately 22 Army divisions (approximately 14 light infantry, 6 mechanized, and 1 commando/special operations), while the Air Force had 2 fighter/ground attack and 2 mixed attack/transport helicopter squadrons</p> <br> <p> </p><br>
+each of the nine states has a regional and/or a "special" paramilitary security forces that report to regional civilian authorities; local militias operate across the country in loose and varying coordination with these regional security and police forces, the Ethiopian Federal Police (EFP), and the Ethiopian military; the EFP reports to the Ministry of Peace, which was created in October of 2018<br><br>since November 2020, the Government of Ethiopia has been engaged in a protracted military conflict with the Tigray People’s Liberation Front (TPLF), the former governing party of the Tigray Region; the government deemed a TPLF attack on Ethiopia military forces as a domestic terrorism incident and launched a military offensive in response; the TPLF asserted that its actions were self-defense in the face of planned Ethiopian Government action to remove it from the provincial government; the Ethiopian Government sent large elements of the ENDF into Tigray to remove the TPLF and invited militia and paramilitary forces from the states of Afar and Amara, as well as the military forces of Eritrea, to assist; fighting continued through the end of 2021 with heavy civilian and military casualties and widespread human rights abuses reported<br><br>the military forces of the Tigray regional government are known as the Tigray Defense Force (TDF); the TDF is comprised of state paramilitary forces, local militia, and troops that defected from the ENDF; it reportedly had up to 250,000 fighters at the start of the conflict; in August 2021, the TPLF struck an alliance with the Oromo Liberation Army (OLA) <p>as of 2021, the Ethiopian military consisted of approximately 22 Army divisions (approximately 14 light infantry, 6 mechanized, and 1 commando/special operations), while the Air Force had 2 fighter/ground attack and 2 mixed attack/transport helicopter squadrons</p> <br> <p> </p><br>
 
 ## Terrorism
 
@@ -756,7 +763,7 @@ al-Shabaab; IRGC/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement <br><br><em>Ethiopia-Somalia:</em> While border clashes continue in the al-Fashqa (Fashaga) area,  the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; <br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 392,307 (South Sudan), 237,206 (Somalia), 159,040 (Eritrea), 46,963 (Sudan) (2022)<br>
+_refugees (country of origin)_: 395,810 (South Sudan), 243,040 (Somalia), 159,040 (Eritrea), 46,963 (Sudan) (2022)<br>
 _IDPs_: 1,990,168 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>

@@ -76,6 +76,9 @@ large tracts of marshy land<br>
 **Geography - note**<br>
 landlocked; glacial scouring accounts for the flatness of Belarusian terrain and for its 11,000 lakes<br>
 
+**Map description**<br>
+<p>Belarus map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -100,7 +103,7 @@ _0-14 years_: 16.09% (male 784,231/female 740,373)<br>
 _15-24 years_: 9.59% (male 467,393/female 441,795)<br>
 _25-54 years_: 43.94% (male 2,058,648/female 2,105,910)<br>
 _55-64 years_: 14.45% (male 605,330/female 763,972)<br>
-_65 years and over_: 15.93% (male 493,055/female 1,017,211) (2020 est.)<br>
+_65 years and over_: 15.93% (2020 est.) (male 493,055/female 1,017,211)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 48.9<br>
@@ -200,7 +203,7 @@ _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;200 (2020 est.)<br>
+(2020 est.) &lt;200<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -497,9 +500,9 @@ calendar year<br>
 -$1.669 billion (2016 est.)<br>
 
 **Exports**<br>
-$37.04 billion note: data are in current year dollars (2020 est.)<br>
-$41.97 billion note: data are in current year dollars (2019 est.)<br>
-$42.27 billion note: data are in current year dollars (2018 est.)<br>
+$37.04 billion (2020 est.) note: data are in current year dollars<br>
+$41.97 billion (2019 est.) note: data are in current year dollars<br>
+$42.27 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Russia 42%, Ukraine 13%, United Kingdom 7% (2019)<br>
@@ -508,9 +511,9 @@ Russia 42%, Ukraine 13%, United Kingdom 7% (2019)<br>
 refined petroleum, fertilizers, cheese, delivery trucks, crude petroleum (2019)<br>
 
 **Imports**<br>
-$35.16 billion note: data are in current year dollars (2020 est.)<br>
-$42.38 billion note: data are in current year dollars (2019 est.)<br>
-$41.34 billion note: data are in current year dollars (2018 est.)<br>
+$35.16 billion (2020 est.) note: data are in current year dollars<br>
+$42.38 billion (2019 est.) note: data are in current year dollars<br>
+$41.34 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Russia 57%, China 7%, Poland 5%, Germany 5%, Ukraine 5% (2019)<br>
@@ -627,9 +630,13 @@ _international_: country code - 375; Belarus is landlocked and therefore a membe
 **Internet country code**<br>
 .by<br>
 
+**Internet users**<br>
+_total_: 7,972,959 (2020 est.)<br>
+_percent of population_: 85% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 3,255,552 (2021)<br>
-_subscriptions per 100 inhabitants_: 34.45 (2021 est.)<br>
+_total_: 3,255,552 (2022)<br>
+_subscriptions per 100 inhabitants_: 34.45 (2022 est.)<br>
 
 ## Transportation
 
@@ -637,7 +644,7 @@ _subscriptions per 100 inhabitants_: 34.45 (2021 est.)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 30<br>
 _annual passenger traffic on registered air carriers_: 2,760,168 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.9 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1.9 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 EW<br>
@@ -668,14 +675,14 @@ _under 914 m_: 28 (2021)<br>
 
 **Railways**<br>
 _total_: 5,528 km (2014)<br>
-_standard gauge_: 25 km 1.435-m gauge (2014)<br>
-_broad gauge_: 5,503 km 1.520-m gauge (874 km electrified) (2014)<br>
+_standard gauge_: 25 km (2014) 1.435-m gauge<br>
+_broad gauge_: 5,503 km (2014) 1.520-m gauge (874 km electrified)<br>
 
 **Roadways**<br>
 _total_: 86,600 km (2017)<br>
 
 **Waterways**<br>
-2,500 km (major rivers are the west-flowing Western Dvina and Neman Rivers and the south-flowing Dnepr River and its tributaries, the Berezina, Sozh, and Pripyat Rivers) (2011)<br>
+2,500 km (2011) (major rivers are the west-flowing Western Dvina and Neman Rivers and the south-flowing Dnepr River and its tributaries, the Berezina, Sozh, and Pripyat Rivers)<br>
 
 **Merchant marine**<br>
 _total_: 4<br>
@@ -690,17 +697,17 @@ _river port(s)_: Mazyr (Prypyats')<br>
 Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force, Special Troops (electronic warfare, signals, engineers, biological/chemical/nuclear protection troops, etc); Ministry of Interior: State Border Troops, Militia, Internal Troops (2021)<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2021 est.)<br>
 1.5% of GDP (2020 est.)<br>
-1.5% of GDP (approximately $2.11 billion) (2019 est.)<br>
-1.5% of GDP (approximately $2.05 billion) (2018 est.)<br>
-1.5% of GDP (approximately $1.98 billion) (2017 est.)<br>
-1.5% of GDP (approximately $2.0 billion) (2016 est.)<br>
+1.5% of GDP (2019 est.) (approximately $2.11 billion)<br>
+1.5% of GDP (2018 est.) (approximately $2.05 billion)<br>
+1.5% of GDP (2017 est.) (approximately $1.98 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 45,000 active duty troops; information on the individual services varies, but probably includes about 25,000 Army, 15,000 Air/Air Defense, and 5,000 Special Operations forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-origin equipment, and since 2010 Russia is the leading provider of arms; Belarus's defense industry manufactures some equipment, including vehicles, guided weapons, and electronic warfare systems (2021)<br>
+the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-origin equipment, and since 2010 Russia is the leading provider of arms; Belarus's defense industry manufactures some equipment (mostly modernized Soviet designs), including vehicles, guided weapons, and electronic warfare systems (2021)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service, depending on academic qualifications; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2021)<br>
@@ -715,7 +722,7 @@ note - conscripts can be assigned to the military, as well as the Ministry of In
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 25,852 (Ukraine) (as of 3 May 2022)<br>
+_refugees (country of origin)_: 26,985 (Ukraine) (as of 9 May 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

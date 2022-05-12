@@ -69,6 +69,9 @@ hurricanes and other tropical storms cause extensive flood and wind damage<br>
 **Geography - note**<br>
 strategic location adjacent to US and Cuba; extensive island chain of which 30 are inhabited<br>
 
+**Map description**<br>
+<p>The Bahamas map showing the many islands and cays that make up the country in the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 21.7% (male 38,811/female 37,719)<br>
 _15-24 years_: 14.91% (male 26,636/female 25,945)<br>
 _25-54 years_: 43.56% (male 76,505/female 77,119)<br>
 _55-64 years_: 10.75% (male 17,508/female 20,391)<br>
-_65 years and over_: 9.08% (male 12,587/female 19,434) (2021 est.)<br>
+_65 years and over_: 9.08% (2021 est.) (male 12,587/female 19,434)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 41.5<br>
@@ -178,7 +181,7 @@ _unimproved: total_: total: 1.8% of population (2017 est.)<br>
 4,700 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2018)<br>
+(2018) <200<br>
 
 **Obesity - adult prevalence rate**<br>
 31.6% (2016)<br>
@@ -308,7 +311,7 @@ Democratic National Alliance or DNA [Arinthia KOMOLAFE]<br>Free National Movemen
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sidney Stanley COLLIE (since 29 November 2017)<br>
+_chief of mission_: Ambassador Wendall Kermith JONES (since 19 April 2022)<br>
 _chancery_: 2220 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 319-2660<br>
 _FAX_: [1] (202) 319-2668<br>
@@ -436,9 +439,9 @@ _expenditures_: 2.46 billion (2017 est.)<br>
 -$868 million (2016 est.)<br>
 
 **Exports**<br>
-$1.69 billion note: data are in current year dollars (2020 est.)<br>
-$5.14 billion note: data are in current year dollars (2019 est.)<br>
-$4.75 billion note: data are in current year dollars (2018 est.)<br>
+$1.69 billion (2020 est.) note: data are in current year dollars<br>
+$5.14 billion (2019 est.) note: data are in current year dollars<br>
+$4.75 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Poland 32%, United States 17%, Ecuador 9%, China 6%, Japan 5% (2019)<br>
@@ -447,9 +450,9 @@ Poland 32%, United States 17%, Ecuador 9%, China 6%, Japan 5% (2019)<br>
 ships, refined petroleum, nitrogen compounds, crustaceans, styrene polymers (2019)<br>
 
 **Imports**<br>
-$3.64 billion note: data are in current year dollars (2020 est.)<br>
-$4.91 billion note: data are in current year dollars (2019 est.)<br>
-$5.12 billion note: data are in current year dollars (2018 est.)<br>
+$3.64 billion (2020 est.) note: data are in current year dollars<br>
+$4.91 billion (2019 est.) note: data are in current year dollars<br>
+$5.12 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 31%, South Korea 29%, Japan 14% (2019)<br>
@@ -566,6 +569,10 @@ The Bahamas has 4 major TV providers that provide service to all major islands i
 **Internet country code**<br>
 .bs<br>
 
+**Internet users**<br>
+_total_: 342,126 (2020 est.)<br>
+_percent of population_: 87% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 83,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 21.11 (2021)<br>
@@ -576,7 +583,7 @@ _subscriptions per 100 inhabitants_: 21.11 (2021)<br>
 _number of registered air carriers_: 5 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 35<br>
 _annual passenger traffic on registered air carriers_: 1,197,116 (2018)<br>
-_annual freight traffic on registered air carriers_: 160,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 160,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 C6<br>

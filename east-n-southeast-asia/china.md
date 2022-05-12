@@ -86,6 +86,9 @@ overwhelming majority of the population is found in the eastern half of the coun
 **Geography - note**<br>
 <strong>note 1:</strong> world's fourth largest country (after Russia, Canada, and US) and largest country situated entirely in Asia; Mount Everest on the border with Nepal is the world's tallest peak above sea level<br><br><strong>note 2:</strong> the largest cave chamber in the world is the Miao Room, in the Gebihe cave system at China's Ziyun Getu He Chuandong National Park, which encloses some 10.78 million cu m (380.7 million cu ft) of volume<br><br><strong>note 3:</strong> China appears to have been the center of domestication for two of the world's leading cereal crops: millet in the north along the Yellow River and rice in the south along the lower or middle Yangtze River<br>
 
+**Map description**<br>
+<p>China map showing major cities as well as the many bordering East Asian countries and neighboring seas.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _adjective_: Chinese<br>
 
 **Ethnic groups**<br>
 Han Chinese 91.1%, ethnic minorities 8.9% (includes Zhang, Hui, Manchu, Uighur, Miao, Yi, Tujia, Tibetan, Mongol, Dong, Buyei, Yao, Bai, Korean, Hani, Li, Kazakh, Dai, and other nationalities) (2021 est.)<br>
-<strong>note:</strong> the Chinese Government officially recognizes 56 ethnic groups<br>
+<strong>note:</strong> the PRC officially recognizes 56 ethnic groups<br>
 
 **Languages**<br>
 Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages (see Ethnic groups entry); note - Zhuang is official in Guangxi Zhuang, Yue is official in Guangdong, Mongolian is official in Nei Mongol, Uighur is official in Xinjiang Uygur, Kyrgyz is official in Xinjiang Uygur, and Tibetan is official in Xizang (Tibet)<br>
@@ -112,7 +115,7 @@ _0-14 years_: 17.29% (male 129,296,339/female 111,782,427)<br>
 _15-24 years_: 11.48% (male 86,129,841/female 73,876,148)<br>
 _25-54 years_: 46.81% (male 333,789,731/female 318,711,557)<br>
 _55-64 years_: 12.08% (male 84,827,645/female 83,557,507)<br>
-_65 years and over_: 12.34% (male 81,586,490/female 90,458,292) (2020 est.)<br>
+_65 years and over_: 12.34% (2020 est.) (male 81,586,490/female 90,458,292)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 42.2<br>
@@ -147,7 +150,7 @@ _rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data do not include Hong Kong and Macau<br>
 
 **Major urban areas - population**<br>
-28.517 million Shanghai, 201.333 million BEIJING (capital), 16.875 million Chongqing, 14.012 million Tianjin, 13.965 million Guangzhou, 12.831 million Shenzhen (2022)<br>
+28.517 million Shanghai, 21.333 million BEIJING (capital), 16.875 million Chongqing, 14.012 million Tianjin, 13.965 million Guangzhou, 12.831 million Shenzhen (2022)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.1 male(s)/female<br>
@@ -225,7 +228,7 @@ _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)
 2.4% (2013)<br>
 
 **Education expenditures**<br>
-3.5% of GDP NA (2018)<br>
+3.5% of GDP (2018) NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -525,9 +528,9 @@ $141.335 billion (2019 est.)<br>
 $25.499 billion (2018 est.)<br>
 
 **Exports**<br>
-$2,732,370,000,000 note: data are in current year dollars (2020 est.)<br>
-$2.631 trillion note: data are in current year dollars (2019 est.)<br>
-$2,651,010,000,000 note: data are in current year dollars (2018 est.)<br>
+$2,732,370,000,000 (2020 est.) note: data are in current year dollars<br>
+$2.631 trillion (2019 est.) note: data are in current year dollars<br>
+$2,651,010,000,000 (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 17%, Hong Kong 10%, Japan 6% (2019)<br>
@@ -536,9 +539,9 @@ United States 17%, Hong Kong 10%, Japan 6% (2019)<br>
 broadcasting equipment, computers, integrated circuits, office machinery and parts, telephones (2019)<br>
 
 **Imports**<br>
-$2,362,690,000,000 note: data are in current year dollars (2020 est.)<br>
-$2,499,150,000,000 note: data are in current year dollars (2019 est.)<br>
-$2,563,100,000,000 note: data are in current year dollars (2018 est.)<br>
+$2,362,690,000,000 (2020 est.) note: data are in current year dollars<br>
+$2,499,150,000,000 (2019 est.) note: data are in current year dollars<br>
+$2,563,100,000,000 (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 South Korea 9%, Japan 8%, Australia 7%, Germany 7%, US 7%, Taiwan 6% (2019)<br>
@@ -654,6 +657,10 @@ all broadcast media are owned by, or affiliated with, the Chinese Communisty Par
 **Internet country code**<br>
 .cn<br>
 
+**Internet users**<br>
+_total_: 987 million (2020 est.)<br>
+_percent of population_: 70% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 483,549,500 (2021)<br>
 _subscriptions per 100 inhabitants_: 33.6 (2021)<br>
@@ -664,7 +671,7 @@ _subscriptions per 100 inhabitants_: 33.6 (2021)<br>
 _number of registered air carriers_: 56 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 2,890<br>
 _annual passenger traffic on registered air carriers_: 436,183,969 (2018)<br>
-_annual freight traffic on registered air carriers_: 611,439,830 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 611,439,830 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 B<br>
@@ -695,15 +702,15 @@ _under 914 m_: 13 (2021)<br>
 76000 km gas, 30400 km crude oil, 27700 km refined petroleum products, 797000 km water (2018)<br>
 
 **Railways**<br>
-_total_: 50,000 km 1.435-m gauge (100,000 km electrified); 104,0000 traditional, 29,000 high-speed (2018)<br>
+_total_: 50,000 km (2018) 1.435-m gauge (100,000 km electrified); 104,0000 traditional, 29,000 high-speed<br>
 
 **Roadways**<br>
 _total_: 45.2 million km (2017)<br>
-_paved_: 4.578 million km (includes 168000 km of expressways) (2017)<br>
+_paved_: 4.578 million km (2017) (includes 168000 km of expressways)<br>
 _unpaved_: 622,000 km (2017)<br>
 
 **Waterways**<br>
-27,700 km (navigable waterways) (2011)<br>
+27,700 km (2011) (navigable waterways)<br>
 
 **Merchant marine**<br>
 _total_: 6,662<br>
@@ -727,9 +734,9 @@ note(s) - the Strategic Support Force includes the Space Systems Department, whi
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
-1.7% of GDP (approximately $290 billion) (2019)<br>
-1.7% of GDP (approximately $265 billion) (2018)<br>
-1.8% of GDP (approximately $260 billion) (2017)<br>
+1.7% of GDP (2019) (approximately $290 billion)<br>
+1.7% of GDP (2018) (approximately $265 billion)<br>
+1.8% of GDP (2017) (approximately $260 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 2 million total active duty troops (approximately 1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); estimated 600-650,000 People&rsquo;s Armed Police (2021)<br>
@@ -745,7 +752,7 @@ note - the PLA is in the midst of a decades-long modernization effort; in 2017, 
 425 Mali (MINUSMA); 225 Democratic Republic of the Congo (MONUSCO); 420 Lebanon (UNIFIL); 1,050 South Sudan (UNMISS); up to 2,000 Djibouti (Feb 2022)<br>
 
 **Military - note**<br>
-<p>established in 1927, the PLA is the military arm of the ruling Chinese Communist Party (CCP), which oversees the PLA through its Central Military Commission; the Central Military Commission is China’s top military decision making body</p> <p>the PRC's <strong>internal security forces </strong>consist primarily of the <strong>Ministry of Public Security (MPS)</strong>, the <strong>Ministry of State Security (MSS)</strong>, the <strong>People’s Armed Police (PAP)</strong>, and the <strong>militia</strong>; the PLA support the internal security forces as necessary:</p> <p>the <strong>MPS</strong> controls the civilian national police, which serves as the first-line force for public order; its primary mission is domestic law enforcement and maintaining order, including anti-rioting and anti-terrorism</p> <p>the <strong>MSS</strong> is China’s main civilian intelligence and counterintelligence service</p> <p>the <strong>PAP</strong> is a paramilitary component of the PLA; its primary missions include internal security, maintaining public order, maritime security, and assisting the PLA in times of war; it is under the command of the Central Military Commission (CMC); the <strong>China Coast Guard (CCG)</strong> administratively falls under the PAP; the CCG has a variety of missions, such as maritime sovereignty enforcement, surveillance, resource protection, anti-smuggling, and general law enforcement</p> <p>the <strong>militia</strong> is an armed reserve of civilians which serves as an auxiliary and reserve force for the PLA upon mobilization; it is distinct from the PLA’s reserve forces; militia units are organized around towns, villages, urban sub-districts, and enterprises, and vary widely in composition and mission; they have dual civilian-military command structures; a key component of the militia are the local maritime forces, commonly referred to as the <strong>People’s Armed Forces Maritime Militia (PAFMM)</strong>; the PAFMM consists of mariners (and their vessels) who receive training, equipment, and other forms of support from the Navy and CCG (although the PAFMM remains separate from both) to perform tasks such as maritime patrolling, surveillance and reconnaissance, emergency/disaster response, transportation, search and rescue, and auxiliary tasks in support of naval operations in wartime; the PAFMM’s tasks are often conducted in conjunction or coordination with the Navy and the CCG; it has been used to assert Chinese maritime claims in the East and South China seas</p><br>
+<p>established in 1927, the PLA is the military arm of the ruling Chinese Communist Party (CCP), which oversees the PLA through its Central Military Commission; the Central Military Commission is China’s top military decision making body</p> <p>the PRC's <strong>internal security forces </strong>consist primarily of the <strong>Ministry of Public Security (MPS)</strong>, the <strong>Ministry of State Security (MSS)</strong>, the <strong>People’s Armed Police (PAP)</strong>, and the <strong>militia</strong>; the PLA support the internal security forces as necessary:</p> <p>the <strong>MPS</strong> controls the civilian national police, which serves as the first-line force for public order; its primary mission is domestic law enforcement and maintaining order, including anti-rioting and anti-terrorism</p> <p>the <strong>MSS</strong> is the PRC’s main civilian intelligence and counterintelligence service</p> <p>the <strong>PAP</strong> is a paramilitary component (or adjunct) of the PLA; its primary missions include internal security, maintaining public order, maritime security, and assisting the PLA in times of war; it is under the command of the Central Military Commission (CMC); the <strong>China Coast Guard (CCG)</strong> administratively falls under the PAP; the CCG has a variety of missions, such as maritime sovereignty enforcement, surveillance, resource protection, anti-smuggling, and general law enforcement</p> <p>the <strong>militia</strong> is an armed reserve of civilians which serves as an auxiliary and reserve force for the PLA upon mobilization; it is distinct from the PLA’s reserve forces; militia units are organized around towns, villages, urban sub-districts, and enterprises, and vary widely in composition and mission; they have dual civilian-military command structures; a key component of the militia are the local maritime forces, commonly referred to as the <strong>People’s Armed Forces Maritime Militia (PAFMM)</strong>; the PAFMM consists of mariners (and their vessels) who receive training, equipment, and other forms of support from the Navy and CCG (although the PAFMM remains separate from both) to perform tasks such as maritime patrolling, surveillance and reconnaissance, emergency/disaster response, transportation, search and rescue, and auxiliary tasks in support of naval operations in wartime; the PAFMM’s tasks are often conducted in conjunction or coordination with the Navy and the CCG; it has been used to assert Chinese maritime claims in the East and South China seas</p><br>
 
 ## Transnational Issues
 

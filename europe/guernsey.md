@@ -59,6 +59,9 @@ very large tidal variation and fast currents can make local waters dangerous<br>
 **Geography - note**<br>
 large, deepwater harbor at Saint Peter Port<br>
 
+**Map description**<br>
+<p>Guernsey map showing the islands that make up this British crown dependency in the English Channel.</p> <p> </p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -69,7 +72,7 @@ _noun_: Channel Islander(s)<br>
 _adjective_: Channel Islander<br>
 
 **Ethnic groups**<br>
-Guernsey 52.9%, UK and Ireland 23.9%, Portugal 2.2%, Latvia 1.5%, other Europe 2.9%, other 4.6%, unspecified 12% (2019 est.)<br>
+Guernsey 53.1%, UK and Ireland 23.9%, Portugal 2.2%, Latvia 1.5%, other Europe 2.8%, other 4.4%, unspecified 11.4% (2020 est.)<br>
 <strong>note:</strong> data represent population by country of birth; the native population is of British and Norman-French descent<br>
 
 **Languages**<br>
@@ -83,7 +86,7 @@ _0-14 years_: 14.5% (male 5,008/female 4,712)<br>
 _15-24 years_: 10.58% (male 3,616/female 3,476)<br>
 _25-54 years_: 40.73% (male 13,821/female 13,492)<br>
 _55-64 years_: 13.96% (male 4,635/female 4,728)<br>
-_65 years and over_: 20.23% (male 6,229/female 7,335) (2020 est.)<br>
+_65 years and over_: 20.23% (2020 est.) (male 6,229/female 7,335)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 49<br>
@@ -392,6 +395,10 @@ multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey w
 **Internet country code**<br>
 .gg<br>
 
+**Internet users**<br>
+_total_: 54,726 (2019 est.)<br>
+_percent of population_: 84% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 33,940 (2022)<br>
 _subscriptions per 100 inhabitants_: 54 (2022)<br>
@@ -399,7 +406,7 @@ _subscriptions per 100 inhabitants_: 54 (2022)<br>
 ## Transportation
 
 **National air transport system**<br>
-_number of registered air carriers_: 1 (registered in UK) (2020)<br>
+_number of registered air carriers_: 1 (2020) (registered in UK)<br>
 _inventory of registered aircraft operated by air carriers_: 9 (registered in UK)<br>
 
 **Civil aircraft registration country code prefix**<br>

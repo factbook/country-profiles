@@ -69,6 +69,9 @@ infrequent hurricanes; periodic landslides<br>
 **Geography - note**<br>
 easternmost Caribbean island<br>
 
+**Map description**<br>
+<p>Barbados map showing the island situated in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -92,7 +95,7 @@ _0-14 years_: 17.49% (male 25,762/female 25,764)<br>
 _15-24 years_: 12.34% (male 18,024/female 18,330)<br>
 _25-54 years_: 42.69% (male 62,655/female 63,093)<br>
 _55-64 years_: 13.91% (male 19,533/female 21,430)<br>
-_65 years and over_: 13.57% (male 16,398/female 23,571) (2020 est.)<br>
+_65 years and over_: 13.57% (2020 est.) (male 16,398/female 23,571)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.3<br>
@@ -187,7 +190,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 2,700 (2019 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2019 est.)<br>
+(2019 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
@@ -442,7 +445,7 @@ _lowest 10%_: NA<br>
 _highest 10%_: NA<br>
 
 **Budget**<br>
-_revenues_: 1.466 billion (2013 est.) (2017 est.)<br>
+_revenues_: 1.466 billion (2017 est.) (2013 est.)<br>
 _expenditures_: 1.664 billion (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -592,6 +595,10 @@ government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terr
 **Internet country code**<br>
 .bb<br>
 
+**Internet users**<br>
+_total_: 235,357 (2019 est.)<br>
+_percent of population_: 82% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 128,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 44.54 (2021)<br>
@@ -629,10 +636,10 @@ Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2021)<b
 
 **Military expenditures**<br>
 0.9% of GDP (2020 est.)<br>
-0.8% of GDP (approximately $35 million) (2019 est.)<br>
-0.8% of GDP (approximately $40 million) (2018 est.)<br>
-0.8% of GDP (approximately $40 million) (2017 est.)<br>
-0.8% of GDP (approximately $40 million) (2016 est.)<br>
+0.8% of GDP (2019 est.) (approximately $35 million)<br>
+0.8% of GDP (2018 est.) (approximately $40 million)<br>
+0.8% of GDP (2017 est.) (approximately $40 million)<br>
+0.8% of GDP (2016 est.) (approximately $40 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Barbados Defense Force (BDF) has approximately 600 active personnel (2021)<br>

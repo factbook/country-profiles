@@ -80,6 +80,9 @@ a high altitude plain in the west between two cordillera of the Andes, known as 
 **Geography - note**<br>
 <strong>note 1:</strong> landlocked; shares control of Lago Titicaca, world's highest navigable lake (elevation 3,805 m), with Peru<br><br><strong>note 2:</strong> the southern regions of Peru and the extreme northwestern part of Bolivia are considered to be the place of origin for the common potato, while southeast Bolivia and northwest Argentina seem to be the original development site for peanuts<br>
 
+**Map description**<br>
+Bolivia map showing major cities as well as parts of surrounding countries.<br>
+
 ## People and Society
 
 **Population**<br>
@@ -108,7 +111,7 @@ _0-14 years_: 30.34% (male 1,799,925/female 1,731,565)<br>
 _15-24 years_: 19.21% (male 1,133,120/female 1,103,063)<br>
 _25-54 years_: 38.68% (male 2,212,096/female 2,289,888)<br>
 _55-64 years_: 6.06% (male 323,210/female 382,139)<br>
-_65 years and over_: 5.71% (male 291,368/female 373,535) (2020 est.)<br>
+_65 years and over_: 5.71% (2020 est.) (male 291,368/female 373,535)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 60.5<br>
@@ -207,7 +210,7 @@ _unimproved: total_: total: 16.9% of population (2020 est.)<br>
 17,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2020 est.)<br>
+(2020 est.) <200<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -354,7 +357,7 @@ _chief of state_: President Luis Alberto ARCE Catacora (since 8 November 2020); 
 _head of government_: President Luis Alberto ARCE Catacora (since 8 November 2020); Vice President David CHOQUEHUANCA Cespedes (since 8 November 2020)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits (changed from two consecutive term limit by Constitutional Court in late 2017); election last held on 18 October 2020 (next to be held in October 2025)<br>
-_election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2018:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%; note - MORALES resigned from office on 10 November 2019 over alleged election rigging; resignations of all his constitutionally designated successors followed, including the Vice President, President of the Senate, President of the Chamber of Deputies, and First Vice President of the Senate, leaving the Second Vice President of the Senate, Jeanine ANEZ Chavez, the highest-ranking official still in office; her appointment to the presidency was endorsed by Bolivia's Constitutional Court, and she served as interim president until the inauguration of Luis Alberto ARCE Catacora, winner of the 18 October 2020 presidential election<br>
+_election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2018:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%; note - MORALES resigned from office on 10 November 2019 over alleged election rigging; resignations of all his constitutionally designated successors followed, including the Vice President, President of the Senate, President of the Chamber of Deputies, and First Vice President of the Senate, leaving the Second Vice President of the Senate, Jeanine ANEZ Chavez, the highest-ranking official still in office; her appointment to the presidency was endorsed by Bolivia's Constitutional Court, and she served as interim president until the 8 November 2020 inauguration of Luis Alberto ARCE Catacora, who was winner of the 18 October 2020 presidential election<br>
 
 **Legislative branch**<br>
 _description_: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of:<br>Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by closed party-list proportional representation vote, and 7 (apportioned to non-contiguous, rural areas in 7 of the 9 states) directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
@@ -516,9 +519,9 @@ calendar year<br>
 -$1.932 billion (2016 est.)<br>
 
 **Exports**<br>
-$7.55 billion note: data are in current year dollars (2020 est.)<br>
-$10.26 billion note: data are in current year dollars (2019 est.)<br>
-$10.35 billion note: data are in current year dollars (2018 est.)<br>
+$7.55 billion (2020 est.) note: data are in current year dollars<br>
+$10.26 billion (2019 est.) note: data are in current year dollars<br>
+$10.35 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Argentina 16%, Brazil 15%, United Arab Emirates 12%, India 10%, United States 6%, South Korea 5%, Peru 5%, Colombia 5% (2019)<br>
@@ -527,9 +530,9 @@ Argentina 16%, Brazil 15%, United Arab Emirates 12%, India 10%, United States 6%
 natural gas, gold, zinc, soybean oil and soy products, tin, silver, lead (2019)<br>
 
 **Imports**<br>
-$8.27 billion note: data are in current year dollars (2020 est.)<br>
-$11.95 billion note: data are in current year dollars (2019 est.)<br>
-$12.44 billion note: data are in current year dollars (2018 est.)<br>
+$8.27 billion (2020 est.) note: data are in current year dollars<br>
+$11.95 billion (2019 est.) note: data are in current year dollars<br>
+$12.44 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Brazil 22%, Chile 15%, China 13%, Peru 11%, Argentina 8%, United States 7% (2017)<br>
@@ -648,6 +651,10 @@ large number of radio and TV stations broadcasting with private media outlets do
 **Internet country code**<br>
 .bo<br>
 
+**Internet users**<br>
+_total_: 7,003,817 (2020 est.)<br>
+_percent of population_: 60% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 931,918 (2021)<br>
 _subscriptions per 100 inhabitants_: 7.98 (2021)<br>
@@ -658,7 +665,7 @@ _subscriptions per 100 inhabitants_: 7.98 (2021)<br>
 _number of registered air carriers_: 7 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 39<br>
 _annual passenger traffic on registered air carriers_: 4,122,113 (2018)<br>
-_annual freight traffic on registered air carriers_: 13.73 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 13.73 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 CP<br>
@@ -686,7 +693,7 @@ _under 914 m_: 631 (2021)<br>
 
 **Railways**<br>
 _total_: 3,960 km (2019)<br>
-_narrow gauge_: 3,960 km 1.000-m gauge (2014)<br>
+_narrow gauge_: 3,960 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
 _total_: 90,568 km (2017)<br>
@@ -694,7 +701,7 @@ _paved_: 9,792 km (2017)<br>
 _unpaved_: 80,776 km (2017)<br>
 
 **Waterways**<br>
-10,000 km (commercially navigable almost exclusively in the northern and eastern parts of the country) (2012)<br>
+10,000 km (2012) (commercially navigable almost exclusively in the northern and eastern parts of the country)<br>
 
 **Merchant marine**<br>
 _total_: 45<br>
@@ -712,10 +719,10 @@ note - the National Police is part of the reserves for the Armed Forces<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.4% of GDP (approximately $980 million) (2019 est.)<br>
-1.5% of GDP (approximately $1 billion) (2018 est.)<br>
-1.5% of GDP (approximately $1.01 billion) (2017 est.)<br>
-1.6% of GDP (approximately $970 million) (2016 est.)<br>
+1.4% of GDP (2019 est.) (approximately $980 million)<br>
+1.5% of GDP (2018 est.) (approximately $1 billion)<br>
+1.5% of GDP (2017 est.) (approximately $1.01 billion)<br>
+1.6% of GDP (2016 est.) (approximately $970 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police; approximately 40,000 National Police (2021)<br>
@@ -732,7 +739,7 @@ compulsory for all men between the ages of 18 and 22; men can volunteer from the
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of its border regions with all of its neighbors (Argentina, Brazil, Chile, Paraguay, and Peru).<br><br><em>Bolivia-Chile:</em> Despite tariff-free access to ports in southern Peru and northern Chile, Bolivia persists with its long-standing claims to regain sovereign access to the Pacific Ocean. <br><br><em>Bolivia-Peru:</em> Despite tariff-free access to ports in southern Peru and northern Chile, Bolivia persists with its long-standing claims to regain sovereign access to the Pacific Ocean. Smuggling of archaeological artifacts from Peru to Bolivia, illegal timber and narcotics smuggling, human trafficking, and falsified documents are current issues. </p><br>
+<p>Contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of its border regions with all of its neighbors (Argentina, Brazil, Chile, Paraguay, and Peru).<br><br><em>Bolivia-Chile:</em> Despite tariff-free access to ports in southern Peru and northern Chile, Bolivia persists with its long-standing claims to regain sovereign access to the Pacific Ocean. <br><br><em>Bolivia-Peru:</em> Despite tariff-free access to ports in southern Peru and northern Chile, Bolivia persists with its long-standing claims to regain sovereign access to the Pacific Ocean. Smuggling of archaeological artifacts from Peru to Bolivia, illegal timber and narcotics smuggling, human trafficking, and falsified documents are current issues. <br><br><em>Bolivia-Brazil:</em> The Roboré Accord of March 29, 1958 placed the long-disputed Isla Suárez/Ilha de Guajará-Mirim, a fluvial island on the Río Mamoré, between the two towns of Guajará-Mirim (Brazil) and Guayaramerin (Bolivia), under Bolivian administration but did not resolve the sovereignty dispute<br><br><em>Bolivia-Argentina:</em> Contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border. <br><br><em>Bolivia-Paraguay:</em> On April 27, 2009, the president of Argentina hosted the presidents of Bolivia and Paraguay together with representatives of the fiver other guarantor states -- Brazil, Chile, Peru, the United States, and Uruguay -- to the signing for the Final Record of the Boundary Commission in execution of the 1938 Peace Treaty between Bolivia and Paraguay.</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,100 (Venezuela) (2021)<br>

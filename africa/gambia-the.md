@@ -79,6 +79,9 @@ droughts<br>
 **Geography - note**<br>
 almost an enclave of Senegal; smallest country on the African mainland<br>
 
+**Map description**<br>
+<p>The Gambia map showing the country surrounded by Senegal except to the west where the Gambia River empties into the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -105,7 +108,7 @@ _0-14 years_: 35.15% (male 391,993/female 388,816)<br>
 _15-24 years_: 20.12% (male 221,519/female 225,414)<br>
 _25-54 years_: 36.39% (male 396,261/female 412,122)<br>
 _55-64 years_: 4.53% (male 48,032/female 52,538)<br>
-_65 years and over_: 3.81% (male 38,805/female 45,801) (2021 est.)<br>
+_65 years and over_: 3.81% (2021 est.) (male 38,805/female 45,801)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 86.9<br>
@@ -630,9 +633,13 @@ _international_: country code - 220; landing point for the ACE submarine cable t
 **Internet country code**<br>
 .gm<br>
 
+**Internet users**<br>
+_total_: 894,166 (2020 est.)<br>
+_percent of population_: 37% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 5,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.21 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.21 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -657,7 +664,7 @@ _paved_: 518 km (2011)<br>
 _unpaved_: 2,459 km (2011)<br>
 
 **Waterways**<br>
-390 km (on River Gambia; small oceangoing vessels can reach 190 km) (2010)<br>
+390 km (2010) (on River Gambia; small oceangoing vessels can reach 190 km)<br>
 
 **Merchant marine**<br>
 _total_: 8<br>
@@ -673,10 +680,10 @@ Gambia Armed Forces: the Gambian National Army (GNA; includes a small air wing),
 
 **Military expenditures**<br>
 0.8% of GDP (2020 est.)<br>
-0.8% of GDP (approximately $25 million) (2019 est.)<br>
-0.7% of GDP (approximately $20 million) (2018 est.)<br>
-0.7% of GDP (approximately $20 million) (2017 est.)<br>
-0.8% of GDP (approximately $20 million) (2016 est.)<br>
+0.8% of GDP (2019 est.) (approximately $25 million)<br>
+0.7% of GDP (2018 est.) (approximately $20 million)<br>
+0.7% of GDP (2017 est.) (approximately $20 million)<br>
+0.8% of GDP (2016 est.) (approximately $20 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 2,000 total active troops (2021)<br>

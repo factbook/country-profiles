@@ -76,6 +76,9 @@ over three-quarters of New Zealanders, including the indigenous Maori, live on t
 **Geography - note**<br>
 <p><strong>note 1:</strong> consists of two main islands and a number of smaller islands; South Island, the larger main island, is the 12th largest island in the world and is divided along its length by the Southern Alps; North Island is the 14th largest island in the world and is not as mountainous, but it is marked by volcanism</p> <p><strong>note 2:</strong> New Zealand lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> almost 90% of the population lives in cities and over three-quarters on North Island; Wellington is the southernmost national capital in the world</p><br>
 
+**Map description**<br>
+<p>New Zealand map showing major cities and islands of this archipelagic country in the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -102,7 +105,7 @@ _0-14 years_: 19.63% (male 496,802/female 469,853)<br>
 _15-24 years_: 12.92% (male 328,327/female 308,132)<br>
 _25-54 years_: 39.98% (male 996,857/female 972,566)<br>
 _55-64 years_: 11.93% (male 285,989/female 301,692)<br>
-_65 years and over_: 15.54% (male 358,228/female 407,031) (2020 est.)<br>
+_65 years and over_: 15.54% (2020 est.) (male 358,228/female 407,031)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.8<br>
@@ -196,14 +199,14 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 3,600 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br>
+(2020 est.) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -485,9 +488,9 @@ _expenditures_: 70.97 billion (2017 est.)<br>
 -$8.742 billion (2018 est.)<br>
 
 **Exports**<br>
-$50.43 billion note: data are in current year dollars (2020 est.)<br>
-$57.16 billion note: data are in current year dollars (2019 est.)<br>
-$57.71 billion note: data are in current year dollars (2018 est.)<br>
+$50.43 billion (2020 est.) note: data are in current year dollars<br>
+$57.16 billion (2019 est.) note: data are in current year dollars<br>
+$57.71 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 28%, Australia 14%, United States 9%, Japan 6% (2019)<br>
@@ -496,9 +499,9 @@ China 28%, Australia 14%, United States 9%, Japan 6% (2019)<br>
 dairy products, sheep/goat meats, lumber, beef products, fresh fruits (2019)<br>
 
 **Imports**<br>
-$47.86 billion note: data are in current year dollars (2020 est.)<br>
-$57.75 billion note: data are in current year dollars (2019 est.)<br>
-$58.39 billion note: data are in current year dollars (2018 est.)<br>
+$47.86 billion (2020 est.) note: data are in current year dollars<br>
+$57.75 billion (2019 est.) note: data are in current year dollars<br>
+$58.39 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 18%, Australia 15%, United States 9%, Japan 6%, Germany 5% (2019)<br>
@@ -615,6 +618,10 @@ state-owned Television New Zealand operates multiple TV networks and state-owned
 **Internet country code**<br>
 .nz<br>
 
+**Internet users**<br>
+_total_: 4,677,556 (2020 est.)<br>
+_percent of population_: 92% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 1,764,984 (2021)<br>
 _subscriptions per 100 inhabitants_: 36.6 (2021)<br>
@@ -625,7 +632,7 @@ _subscriptions per 100 inhabitants_: 36.6 (2021)<br>
 _number of registered air carriers_: 15 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 199<br>
 _annual passenger traffic on registered air carriers_: 17,249,049 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,349,300,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1,349,300,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 ZK<br>
@@ -652,11 +659,11 @@ _under 914 m_: 48 (2021)<br>
 
 **Railways**<br>
 _total_: 4,128 km (2018)<br>
-_narrow gauge_: 4,128 km 1.067-m gauge (506 km electrified) (2018)<br>
+_narrow gauge_: 4,128 km (2018) 1.067-m gauge (506 km electrified)<br>
 
 **Roadways**<br>
 _total_: 94,000 km (2017)<br>
-_paved_: 61,600 km (includes 199 km of expressways) (2017)<br>
+_paved_: 61,600 km (2017) (includes 199 km of expressways)<br>
 _unpaved_: 32,400 km (2017)<br>
 
 **Merchant marine**<br>
@@ -674,9 +681,9 @@ New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
 1.5% of GDP (2020)<br>
-1.4% of GDP (approximately $3.1 billion) (2019)<br>
-1.2% of GDP (approximately $2.62 billion) (2018)<br>
-1.1% of GDP (approximately $2.43 billion) (2017)<br>
+1.4% of GDP (2019) (approximately $3.1 billion)<br>
+1.2% of GDP (2018) (approximately $2.62 billion)<br>
+1.1% of GDP (2017) (approximately $2.43 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the New Zealand Defense Force (NZDF) has about 9,600 active duty troops (4,700 Army; 2,300 Navy; 2,600 Air Force) (2021)<br>

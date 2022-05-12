@@ -66,6 +66,9 @@ occasional earthquakes<br>
 **Geography - note**<br>
 landlocked; an enclave of (completely surrounded by) Italy; smallest independent state in Europe after the Holy See and Monaco; dominated by the Apennine Mountains<br>
 
+**Map description**<br>
+<p>San Marino map showing the major population centers in this microstate surrounded by Italy.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -90,7 +93,7 @@ _0-14 years_: 14.73% (male 2,662/female 2,379)<br>
 _15-24 years_: 11.64% (male 2,091/female 1,894)<br>
 _25-54 years_: 39.12% (male 6,310/female 7,081)<br>
 _55-64 years_: 14.28% (male 2,367/female 2,520)<br>
-_65 years and over_: 20.24% (male 3,123/female 3,805) (2020 est.)<br>
+_65 years and over_: 20.24% (2020 est.) (male 3,123/female 3,805)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -354,8 +357,8 @@ $1.982 billion (2017 est.)<br>
 0.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$60,800 note: data are in 2017 dollars (2019 est.)<br>
-$59,600 note: data are in 2017 dollars (2018 est.)<br>
+$60,800 (2019 est.) note: data are in 2017 dollars<br>
+$59,600 (2018 est.) note: data are in 2017 dollars<br>
 $58,867 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -374,10 +377,10 @@ _industry_: 39.2% (2009)<br>
 _services_: 60.7% (2009)<br>
 
 **GDP - composition, by end use**<br>
-_household consumption_: NA (2011 est.)<br>
-_government consumption_: NA (2011 est.)<br>
-_investment in fixed capital_: NA (2011 est.)<br>
-_investment in inventories_: NA (2011 est.)<br>
+_household consumption_: (2011 est.) NA<br>
+_government consumption_: (2011 est.) NA<br>
+_investment in fixed capital_: (2011 est.) NA<br>
+_investment in inventories_: (2011 est.) NA<br>
 _exports of goods and services_: 176.6% (2011)<br>
 _imports of goods and services_: -153.3% (2011)<br>
 
@@ -496,6 +499,10 @@ state-owned public broadcaster operates 1 TV station and 3 radio stations; recei
 
 **Internet country code**<br>
 .sm<br>
+
+**Internet users**<br>
+_total_: 20,318 (2019 est.)<br>
+_percent of population_: 60% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 11,000 (2021)<br>

@@ -79,6 +79,9 @@ hot, dry, dusty harmattan winds affect northern areas; floods are common<br>
 **Geography - note**<br>
 landlocked; almost the precise center of Africa<br>
 
+**Map description**<br>
+<p>Central African Republic map showing major cities as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -107,7 +110,7 @@ _0-14 years_: 39.49% (male 1,188,682/female 1,176,958)<br>
 _15-24 years_: 19.89% (male 598,567/female 593,075)<br>
 _25-54 years_: 32.95% (male 988,077/female 986,019)<br>
 _55-64 years_: 4.32% (male 123,895/female 134,829)<br>
-_65 years and over_: 3.35% (male 78,017/female 122,736) (2020 est.)<br>
+_65 years and over_: 3.35% (2020 est.) (male 78,017/female 122,736)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 86.4<br>
@@ -283,7 +286,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: due to conflict and population displacements - ongoing conflicts and population displacements due to armed violence that followed the December 2020 elections, adding to the already high levels of civil insecurity, coupled with restrictive measures to control the COVID‑19 pandemic, are expected to continue affecting agricultural activities and limit farmers&rsquo; access to crop‑growing areas and inputs, with a negative impact on 2021 crop production (2021)<br>
+_exceptional shortfall in aggregate food production/supplies_: Persisting conflicts and displacements are expected to continue affecting agricultural activities and limit farmers&rsquo; access to crop growing areas and inputs, with a negative impact on 2022 crop production; in most prefectures, civil insecurity in 2021 continued to cause population displacements and widespread disruption of agricultural and marketing activities with negative consequences on food availability and access; the socio‑economic effects of the COVID‑19 pandemic, coupled with the high level of prices of some food staples, reduced substantially the households&rsquo; purchasing power (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>
@@ -466,7 +469,7 @@ gold and diamond mining, logging, brewing, sugar refining<br>
 6.9% (2017 est.)<br>
 
 **Population below poverty line**<br>
-62% NA (2008 est.)<br>
+62% (2008 est.) NA<br>
 
 **Gini Index coefficient - distribution of family income**<br>
 43.6 (2003 est.)<br>
@@ -610,7 +613,7 @@ _electrification - rural areas_: 0.4% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 2,193 (2018)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1,595,294 (2019)<br>
@@ -628,9 +631,13 @@ government-owned network, Radiodiffusion Television Centrafricaine, provides lim
 **Internet country code**<br>
 .cf<br>
 
+**Internet users**<br>
+_total_: 482,976 (2020 est.)<br>
+_percent of population_: 10% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 499 Data available for 2019 only. (2019)<br>
-_subscriptions per 100 inhabitants_: 0.01 less than 1 (2019 est.)<br>
+_total_: 499 (2019) Data available for 2019 only.<br>
+_subscriptions per 100 inhabitants_: 0.01 (2019 est.) less than 1<br>
 
 ## Transportation
 
@@ -638,7 +645,7 @@ _subscriptions per 100 inhabitants_: 0.01 less than 1 (2019 est.)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 2<br>
 _annual passenger traffic on registered air carriers_: 46,364 (2015)<br>
-_annual freight traffic on registered air carriers_: 0 mt-km (2015)<br>
+_annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 TL<br>
@@ -663,7 +670,7 @@ _paved_: 700 km (2018)<br>
 _unpaved_: 23,300 km (2018)<br>
 
 **Waterways**<br>
-2,800 km (the primary navigable river is the Ubangi, which joins the River Congo; it was the traditional route for the export of products because it connected with the Congo-Ocean railway at Brazzaville; because of the warfare on both sides of the River Congo from 1997, importers and exporters preferred routes through Cameroon) (2011)<br>
+2,800 km (2011) (the primary navigable river is the Ubangi, which joins the River Congo; it was the traditional route for the export of products because it connected with the Congo-Ocean railway at Brazzaville; because of the warfare on both sides of the River Congo from 1997, importers and exporters preferred routes through Cameroon)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Bangui (Oubangui)<br>
@@ -677,10 +684,10 @@ note - in 2019-2021, CAR created three Mixed Special Security units (<em>Unité
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-1.7% of GDP (approximately $50 million) (2019 est.)<br>
-1.4% of GDP (approximately $40 million) (2018 est.)<br>
-1.4% of GDP (approximately $40 million) (2017 est.)<br>
-1.6% of GDP (approximately $40 million) (2016 est.)<br>
+1.7% of GDP (2019 est.) (approximately $50 million)<br>
+1.4% of GDP (2018 est.) (approximately $40 million)<br>
+1.4% of GDP (2017 est.) (approximately $40 million)<br>
+1.6% of GDP (2016 est.) (approximately $40 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active troops, including an air component of about 200 and up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2021)<br>
@@ -693,7 +700,7 @@ note - since 2013, CAR has been under a UNSC arms embargo; the embargo bans all 
 18 years of age for military service; no conscription (2021)<br>
 
 **Military - note**<br>
-the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; reportedly only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since; the European Union, France, Russia, the UN, and the US are providing various levels of security assistance <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; Russia sent private military contractors, and as of late 2021, there were reportedly as many as 2,300 providing assistance to the FACA, as well as performing other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its peacekeeping mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; in November 2019, the UN Security Council extended the mandate of the MINUSCA peacekeeping mission another year; as of February 2022, MINUSCA had about 14,000 total personnel<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016; the EUTM-RCA contributes to the restructuring of the country's military and defense sector through advice, training, and educational programs; as of mid-2021, it had trained 4 territorial infantry battalions (Bataillon d’Infanterie Territorial) and 1 amphibious infantry battalion<br><br> <p> </p><br>
+the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; reportedly only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since; the European Union, France, Russia, the UN, and the US are providing various levels of security assistance <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; Russia sent private military contractors, and as of late 2021, there were reportedly as many as 2,000 providing assistance to the FACA, as well as performing other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its peacekeeping mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; in November 2019, the UN Security Council extended the mandate of the MINUSCA peacekeeping mission another year; as of February 2022, MINUSCA had about 14,000 total personnel<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016; the EUTM-RCA contributes to the restructuring of the country's military and defense sector through advice, training, and educational programs; as of mid-2021, it had trained 4 territorial infantry battalions (Bataillon d’Infanterie Territorial) and 1 amphibious infantry battalion<br><br> <p> </p><br>
 
 ## Transnational Issues
 

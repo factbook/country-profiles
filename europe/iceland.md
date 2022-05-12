@@ -71,6 +71,9 @@ Iceland is almost entirely urban with half of the population located in and arou
 **Geography - note**<br>
 strategic location between Greenland and Europe; westernmost European country; Reykjavik is the northernmost national capital in the world; more land covered by glaciers than in all of continental Europe<br>
 
+**Map description**<br>
+<p>Iceland map showing the North Atlantic Ocean island and its major population centers.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -95,7 +98,7 @@ _0-14 years_: 20.31% (male 36,394/female 34,837)<br>
 _15-24 years_: 12.85% (male 22,748/female 22,317)<br>
 _25-54 years_: 39.44% (male 70,227/female 68,095)<br>
 _55-64 years_: 11.94% (male 20,762/female 21,111)<br>
-_65 years and over_: 15.47% (male 25,546/female 28,697) (2020 est.)<br>
+_65 years and over_: 15.47% (2020 est.) (male 25,546/female 28,697)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54<br>
@@ -190,11 +193,11 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 0.1% (2020)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-&lt;500 (2020)<br>
+(2020) &lt;500<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020)<br>
+(2020) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -471,9 +474,9 @@ $1.496 billion (2019 est.)<br>
 $814 million (2018 est.)<br>
 
 **Exports**<br>
-$7.43 billion note: data are in current year dollars (2020 est.)<br>
-$11.01 billion note: data are in current year dollars (2019 est.)<br>
-$12.26 billion note: data are in current year dollars (2018 est.)<br>
+$7.43 billion (2020 est.) note: data are in current year dollars<br>
+$11.01 billion (2019 est.) note: data are in current year dollars<br>
+$12.26 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Netherlands 23%, United Kingdom 9%, Germany 9%, Spain 8%, United States 7%, France 7%, Canada 5% (2019)<br>
@@ -482,9 +485,9 @@ Netherlands 23%, United Kingdom 9%, Germany 9%, Spain 8%, United States 7%, Fran
 aluminum and aluminum products, fish products, aircraft, iron alloys, animal meal (2019)<br>
 
 **Imports**<br>
-$7.55 billion note: data are in current year dollars (2020 est.)<br>
-$9.76 billion note: data are in current year dollars (2019 est.)<br>
-$11.34 billion note: data are in current year dollars (2018 est.)<br>
+$7.55 billion (2020 est.) note: data are in current year dollars<br>
+$9.76 billion (2019 est.) note: data are in current year dollars<br>
+$11.34 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Norway 11%, Netherlands 10%, Germany 8%, Denmark 8%, United States 7%, United Kingdom 6%, China 6%, Sweden 5% (2019)<br>
@@ -601,6 +604,10 @@ state-owned public TV broadcaster (RUV) operates 21 TV channels nationally (RUV 
 **Internet country code**<br>
 .is<br>
 
+**Internet users**<br>
+_total_: 362,798 (2020 est.)<br>
+_percent of population_: 99% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 141,816 (2021)<br>
 _subscriptions per 100 inhabitants_: 41.56 (2021 est.)<br>
@@ -611,7 +618,7 @@ _subscriptions per 100 inhabitants_: 41.56 (2021 est.)<br>
 _number of registered air carriers_: 6 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 63<br>
 _annual passenger traffic on registered air carriers_: 7,819,740 (2018)<br>
-_annual freight traffic on registered air carriers_: 163.65 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 163.65 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 TF<br>
@@ -633,7 +640,7 @@ _under 914 m_: 60 (2021)<br>
 
 **Roadways**<br>
 _total_: 12,898 km (2012)<br>
-_paved/oiled gravel_: 5,647 km (excludes urban roads) (2012)<br>
+_paved/oiled gravel_: 5,647 km (2012) (excludes urban roads)<br>
 _unpaved_: 7,251 km (2012)<br>
 
 **Merchant marine**<br>

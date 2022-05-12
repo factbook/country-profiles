@@ -67,6 +67,9 @@ strong winds and heavy rains can occur throughout the year<br>
 **Geography - note**<br>
 archipelago of 17 inhabited islands and one uninhabited island, and a few uninhabited islets; strategically located along important sea lanes in northeastern Atlantic; precipitous terrain limits habitation to small coastal lowlands<br>
 
+**Map description**<br>
+<p>Faroe Islands map showing the many islands that make up this part of Denmark in the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -77,7 +80,7 @@ _noun_: Faroese (singular and plural)<br>
 _adjective_: Faroese<br>
 
 **Ethnic groups**<br>
-Faroese 85.9% (Scandinavian and Anglo-Saxon descent), Danish 8.2%, other Nordic 1.4%, other 4.5% (includes Filipino, Romanian, Polish) (2021 est.)<br>
+Faroese 85.3% (Scandinavian and Anglo-Saxon descent), Danish 8.3%, other Nordic 1.4%, other 4.5% (includes Filipino, Poland, Romanian) (2022 est.)<br>
 <strong>note:</strong> data represent respondents by country of birth<br>
 
 **Languages**<br>
@@ -92,7 +95,7 @@ _0-14 years_: 19.69% (male 5,247/female 4,920)<br>
 _15-24 years_: 13.89% (male 3,708/female 3,465)<br>
 _25-54 years_: 37.01% (male 10,277/female 8,828)<br>
 _55-64 years_: 12% (male 3,199/female 2,996)<br>
-_65 years and over_: 17.41% (male 4,352/female 4,636) (2020 est.)<br>
+_65 years and over_: 17.41% (2020 est.) (male 4,352/female 4,636)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -519,6 +522,10 @@ _international_: country code - 298; landing points for the SHEFA-2, FARICE-1, a
 **Internet country code**<br>
 .fo<br>
 
+**Internet users**<br>
+_total_: 47,703 (2019 est.)<br>
+_percent of population_: 98% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 18,443 (2021)<br>
 _subscriptions per 100 inhabitants_: 37.74 (2021)<br>
@@ -526,7 +533,7 @@ _subscriptions per 100 inhabitants_: 37.74 (2021)<br>
 ## Transportation
 
 **National air transport system**<br>
-_number of registered air carriers_: 1 (registered in Denmark) (2020)<br>
+_number of registered air carriers_: 1 (2020) (registered in Denmark)<br>
 _inventory of registered aircraft operated by air carriers_: 3 (registered in Denmark)<br>
 
 **Civil aircraft registration country code prefix**<br>

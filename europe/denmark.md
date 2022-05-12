@@ -75,6 +75,9 @@ flooding is a threat in some areas of the country (e.g., parts of Jutland, along
 **Geography - note**<br>
 composed of the Jutland Peninsula and a group of more than 400 islands (Danish Archipelago); controls Danish Straits (Skagerrak and Kattegat) linking Baltic and North Seas; about one-quarter of the population lives in greater Copenhagen<br>
 
+**Map description**<br>
+<p>Denmark map showing major cities and the country in relation to neighboring countries and water bodies.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -100,7 +103,7 @@ _0-14 years_: 16.42% (male 494,806/female 469,005)<br>
 _15-24 years_: 12.33% (male 370,557/female 352,977)<br>
 _25-54 years_: 38.71% (male 1,149,991/female 1,122,016)<br>
 _55-64 years_: 12.63% (male 370,338/female 371,149)<br>
-_65 years and over_: 19.91% (male 538,096/female 630,475) (2020 est.)<br>
+_65 years and over_: 19.91% (2020 est.) (male 538,096/female 630,475)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 57.3<br>
@@ -199,7 +202,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br>
+(2020 est.) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -479,9 +482,9 @@ $30.935 billion (2019 est.)<br>
 $24.821 billion (2018 est.)<br>
 
 **Exports**<br>
-$191.53 billion note: data are in current year dollars (2020 est.)<br>
-$204.14 billion note: data are in current year dollars (2019 est.)<br>
-$200.81 billion note: data are in current year dollars (2018 est.)<br>
+$191.53 billion (2020 est.) note: data are in current year dollars<br>
+$204.14 billion (2019 est.) note: data are in current year dollars<br>
+$200.81 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 14%, United States 11%, Sweden 10%, United Kingdom 7%, Norway 6%, Netherlands 5%, China 5% (2019)<br>
@@ -490,9 +493,9 @@ Germany 14%, United States 11%, Sweden 10%, United Kingdom 7%, Norway 6%, Nether
 packaged medicines, electric generators, pork, refined petroleum, medical cultures/vaccines (2019)<br>
 
 **Imports**<br>
-$170.33 billion note: data are in current year dollars (2020 est.)<br>
-$178.44 billion note: data are in current year dollars (2019 est.)<br>
-$179.95 billion note: data are in current year dollars (2018 est.)<br>
+$170.33 billion (2020 est.) note: data are in current year dollars<br>
+$178.44 billion (2019 est.) note: data are in current year dollars<br>
+$179.95 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 21%, Sweden 11%, Netherlands 8%, China 7% (2019)<br>
@@ -609,6 +612,10 @@ strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 
 **Internet country code**<br>
 .dk<br>
 
+**Internet users**<br>
+_total_: 5,656,462 (2020 est.)<br>
+_percent of population_: 97% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 2,590,282 (2021)<br>
 _subscriptions per 100 inhabitants_: 44.72 (2021)<br>
@@ -619,7 +626,7 @@ _subscriptions per 100 inhabitants_: 44.72 (2021)<br>
 _number of registered air carriers_: 10 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 76<br>
 _annual passenger traffic on registered air carriers_: 582,011 (2015)<br>
-_annual freight traffic on registered air carriers_: 0 mt-km (2015)<br>
+_annual freight traffic on registered air carriers_: 0 (2015) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 OY<br>
@@ -645,11 +652,11 @@ _under 914 m_: 47 (2021)<br>
 
 **Railways**<br>
 _total_: 3,476 km (2017)<br>
-_standard gauge_: 3,476 km 1.435-m gauge (1,756 km electrified) (2017)<br>
+_standard gauge_: 3,476 km (2017) 1.435-m gauge (1,756 km electrified)<br>
 
 **Roadways**<br>
 _total_: 74,558 km (2017)<br>
-_paved_: 74,558 km (includes 1,205 km of expressways) (2017)<br>
+_paved_: 74,558 km (2017) (includes 1,205 km of expressways)<br>
 
 **Waterways**<br>
 400 km (2010)<br>
@@ -674,12 +681,12 @@ note - the Danish military maintains a Joint Arctic Command with the mission of 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
-1.3% of GDP (approximately $5.02 billion) (2019)<br>
-1.3% of GDP (approximately $4.8 billion) (2018)<br>
-1.1% of GDP (approximately $4.11 billion) (2017)<br>
+1.3% of GDP (2019) (approximately $5.02 billion)<br>
+1.3% of GDP (2018) (approximately $4.8 billion)<br>
+1.1% of GDP (2017) (approximately $4.11 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Danish military has approximately 16,000 active duty personnel (8,000 Army; 3,000 Navy; 3,000 Air Force; 2,000 other) (2021)<br>
+the Danish military has approximately 17,000 active duty personnel (9,000 Army; 3,000 Navy; 3,000 Air Force; 2,000 other) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Danish military inventory is comprised of a mix of modern European, US, and domestically-produced equipment; the US is the largest supplier of military equipment to Denmark since 2010; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft (2021)<br>

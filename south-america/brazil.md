@@ -87,6 +87,9 @@ recurring droughts in northeast; floods and occasional frost in south<br>
 **Geography - note**<br>
 <strong>note 1:</strong> largest country in South America and in the Southern Hemisphere; shares common boundaries with every South American country except Chile and Ecuador; most of the Pantanal, the world's largest tropical wetland, extends through the west central part of the country; shares Iguazu Falls, the world's largest waterfalls system, with Argentina<br><br><strong>note 2:</strong> cassava (manioc) the sixth most important food crop in the world - after maize, rice, wheat, potatoes, and soybeans - seems to have originated in the west-central part of Brazil; pineapples are probably indigenous to the southern Brazil-Paraguay region<br>
 
+**Map description**<br>
+<p>Brazil map showing major cities as well as parts of surrounding countries and the Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -114,7 +117,7 @@ _0-14 years_: 21.11% (male 22,790,634/female 21,907,018)<br>
 _15-24 years_: 16.06% (male 17,254,363/female 16,750,581)<br>
 _25-54 years_: 43.83% (male 46,070,240/female 46,729,640)<br>
 _55-64 years_: 9.78% (male 9,802,995/female 10,911,140)<br>
-_65 years and over_: 9.21% (male 8,323,344/female 11,176,018) (2020 est.)<br>
+_65 years and over_: 9.21% (2020 est.) (male 8,323,344/female 11,176,018)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 43.5<br>
@@ -524,9 +527,9 @@ calendar year<br>
 -$41.54 billion (2018 est.)<br>
 
 **Exports**<br>
-$239.18 billion note: data are in current year dollars (2020 est.)<br>
-$260.07 billion note: data are in current year dollars (2019 est.)<br>
-$274.9 billion note: data are in current year dollars (2018 est.)<br>
+$239.18 billion (2020 est.) note: data are in current year dollars<br>
+$260.07 billion (2019 est.) note: data are in current year dollars<br>
+$274.9 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 28%, United States 13% (2019)<br>
@@ -535,9 +538,9 @@ China 28%, United States 13% (2019)<br>
 soybeans, crude petroleum, iron, corn, wood pulp products (2019)<br>
 
 **Imports**<br>
-$227.44 billion note: data are in current year dollars (2020 est.)<br>
-$269.02 billion note: data are in current year dollars (2019 est.)<br>
-$267.52 billion note: data are in current year dollars (2018 est.)<br>
+$227.44 billion (2020 est.) note: data are in current year dollars<br>
+$269.02 billion (2019 est.) note: data are in current year dollars<br>
+$267.52 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 21%, United States 18%, Germany 6%, Argentina 6% (2019)<br>
@@ -654,8 +657,12 @@ state-run Radiobras operates a radio and a TV network; more than 1,000 radio sta
 **Internet country code**<br>
 .br<br>
 
+**Internet users**<br>
+_total_: 172,173,121 (2020 est.)<br>
+_percent of population_: 81% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 36,344,670 The value presented includes subscriptions with speeds less than 256 kbit/s. (2021)<br>
+_total_: 36,344,670 (2021) The value presented includes subscriptions with speeds less than 256 kbit/s.<br>
 _subscriptions per 100 inhabitants_: 17.1 (2021 est.)<br>
 
 ## Transportation
@@ -664,7 +671,7 @@ _subscriptions per 100 inhabitants_: 17.1 (2021 est.)<br>
 _number of registered air carriers_: 9 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 443<br>
 _annual passenger traffic on registered air carriers_: 102,109,977 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,845,650,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1,845,650,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 PP<br>
@@ -694,10 +701,10 @@ _under 914 m_: 1,684 (2021)<br>
 
 **Railways**<br>
 _total_: 29,850 km (2014)<br>
-_standard gauge_: 194 km 1.435-m gauge (2014)<br>
-_narrow gauge_: 23,341.6 km 1.000-m gauge (24 km electrified) (2014)<br>
-_broad gauge_: 5,822.3 km 1.600-m gauge (498.3 km electrified) (2014)<br>
-_dual gauge_: 492 km 1.600-1.000-m gauge (2014)<br>
+_standard gauge_: 194 km (2014) 1.435-m gauge<br>
+_narrow gauge_: 23,341.6 km (2014) 1.000-m gauge (24 km electrified)<br>
+_broad gauge_: 5,822.3 km (2014) 1.600-m gauge (498.3 km electrified)<br>
+_dual gauge_: 492 km (2014) 1.600-1.000-m gauge<br>
 
 **Roadways**<br>
 _total_: 2 million km (2018)<br>
@@ -705,7 +712,7 @@ _paved_: 246,000 km (2018)<br>
 _unpaved_: 1.754 million km (2018)<br>
 
 **Waterways**<br>
-50,000 km (most in areas remote from industry and population) (2012)<br>
+50,000 km (2012) (most in areas remote from industry and population)<br>
 
 **Merchant marine**<br>
 _total_: 864<br>
@@ -726,10 +733,10 @@ Brazilian Armed Forces: Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.4% of GDP (approximately $35.6 billion) (2019)<br>
-1.5% of GDP (approximately $36 billion) (2018)<br>
-1.4% of GDP (approximately $34.4 billion) (2017)<br>
-1.3% of GDP (approximately $32.1 billion) (2016)<br>
+1.4% of GDP (2019) (approximately $35.6 billion)<br>
+1.5% of GDP (2018) (approximately $36 billion)<br>
+1.4% of GDP (2017) (approximately $34.4 billion)<br>
+1.3% of GDP (2016) (approximately $32.1 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Brazilian Armed Forces have approximately 360,000 active personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2021)<br>

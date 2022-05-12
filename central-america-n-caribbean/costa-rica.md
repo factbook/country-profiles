@@ -73,6 +73,9 @@ roughly half of the nation's population resides in urban areas; the capital of S
 **Geography - note**<br>
 four volcanoes, two of them active, rise near the capital of San Jose in the center of the country; one of the volcanoes, Irazu, erupted destructively in 1963-65<br>
 
+**Map description**<br>
+<p>Costa Rica map showing major cities as well as parts of surrounding countries and the North Pacific Ocean and Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -100,7 +103,7 @@ _0-14 years_: 22.08% (male 575,731/female 549,802)<br>
 _15-24 years_: 15.19% (male 395,202/female 379,277)<br>
 _25-54 years_: 43.98% (male 1,130,387/female 1,111,791)<br>
 _55-64 years_: 9.99% (male 247,267/female 261,847)<br>
-_65 years and over_: 8.76% (male 205,463/female 241,221) (2020 est.)<br>
+_65 years and over_: 8.76% (2020 est.) (male 205,463/female 241,221)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.1<br>
@@ -195,7 +198,7 @@ _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 16,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -331,11 +334,11 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President Carlos ALVARADO Quesada (since 8 May 2018); First Vice President Epsy CAMPBELL Barr (since 8 May 2018); Second Vice President Marvin RODRIGUEZ Cordero (since 8 May 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Carlos ALVARADO Quesada (since 8 May 2018); First Vice President Epsy CAMPBELL Barr (since 8 May 2018); Second Vice President Marvin RODRIGUEZ Cordero (since 8 May 2018)<br>
+_chief of state_: President Rodrigo CHAVES Robles (since 8 May 2022); First Vice President Stephan BRUNNER Neibig (since 8 May 2022); Second Vice President Mary Denisse MUNIVE Angermuller (since 8 May 2022); note - the president is both chief of state and head of government<br>
+_head of government_: President Rodrigo CHAVES Robles (since 8 May 2022); First Vice President Stephan BRUNNER Neibig (since 8 May 2022); Second Vice President Mary Denisse MUNIVE Angermuller (since 8 May 2022)<br>
 _cabinet_: Cabinet selected by the president<br>
 _elections/appointments_: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms); election last held on 6 February 2022 with a runoff on 3 April 2022 (next to be held in February 2026 with a runoff in April 2026)<br>
-_election results_: <p><em>2022: </em>Rodrigo CHAVES Robles elected president in second round; percent of vote in first round - Jose Maria FIGUERES Olsen (PLN) 27.3%;<em> </em>Rodrigo CHAVES Robles (PPSD) 16.8%; Fabricio ALVARADO Munoz (PNR) 14.9%; Eliecer FEINZAIG Mintz (PLP) 12.4%; Lineth SABORIO Chaverri (PUSC) 12.4%; Jose Maria VILLALTA Florez-Estrada 8.7% (PFA); other 7.5%; percent of vote in second round - Rodrigo CHAVES Robles (PPSD) 52.8%; Jose Maria FIGUERES Olsen (PLN) 47.2%; note - official results pending; CHAVES will take office on 8 May 2022 <br><br><em>2018:</em> Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRS) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%</p><br>
+_election results_: <p><em>2022: </em>Rodrigo CHAVES Robles elected president in second round; percent of vote in first round - Jose Maria FIGUERES Olsen (PLN) 27.3%,<em> </em>Rodrigo CHAVES Robles (PPSD) 16.8%, Fabricio ALVARADO Munoz (PNR) 14.9%, Eliecer FEINZAIG Mintz (PLP) 12.4%, Lineth SABORIO Chaverri (PUSC) 12.4%, Jose Maria VILLALTA Florez-Estrada 8.7% (PFA), other 7.5%; percent of vote in second round - Rodrigo CHAVES Robles (PPSD) 52.8%, Jose Maria FIGUERES Olsen (PLN) 47.2%<br><br><em>2018:</em> Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRS) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%</p><br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country's 7 provinces - by closed party-list proportional representation vote; members serve 4-year terms)<br>
@@ -348,7 +351,7 @@ _judge selection and term of office_: Supreme Court of Justice judges elected by
 _subordinate courts_: appellate courts; trial courts; first instance and justice of the peace courts; Superior Electoral Tribunal<br>
 
 **Political parties and leaders**<br>
-<p>Accessibility Without Exclusion or PASE [Oscar Andres LOPEZ Arias]<br>Broad Front (Frente Amplio) or PFA [Ana Patricia MORA Castellanos]<br>Christian Democratic Alliance or ADC [Mario REDONDO Poveda]<br>Citizen Action Party or PAC [Marta Eugenia SOLANO Arias]<br>Costa Rican Renewal Party or PRC [Justo OROZCO Alvarez]<br>Libertarian Movement Party or ML [Victor Danilo CUBERO Corrales]<br>Liberal Progressive Party or PLP [Eliecer FEINZAIG Mintz]<br>National Integration Party or PIN [Walter MUNOZ Cespedes]<br>National Liberation Party or PLN [Jorge Julio PATTONI Saenz]<br>National Restoration Party or PRN [Carlos Luis AVENDANO Calvo]<br>New Generation or PNG [Sergio MENA]<br>New Republic Party or PNR [Francisco PRENDAS]<br>Patriotic Alliance [Jorge ARAYA Westover]<br>Social Christian Republican Party or PRS [Otto ROBERTO Vargas]<br>Social Christian Unity Party or PUSC [Randall QUIROS]<br>Social Democratic Progress Party or PPSD [Rodrigo CHAVES Robles]<br><br></p><br>
+<p>Accessibility Without Exclusion or PASE [Oscar Andres LOPEZ Arias]<br>Broad Front (Frente Amplio) or PFA [Ana Patricia MORA Castellanos]<br>Christian Democratic Alliance or ADC [Mario REDONDO Poveda]<br>Citizen Action Party or PAC [Marta Eugenia SOLANO Arias]<br>Costa Rican Renewal Party or PRC [Justo OROZCO Alvarez]<br>Libertarian Movement Party or ML [Victor Danilo CUBERO Corrales]<br>Liberal Progressive Party or PLP [Eliecer FEINZAIG Mintz]<br>National Integration Party or PIN [Walter MUNOZ Cespedes]<br>National Liberation Party or PLN [Kattia RIVERA Soto]<br>National Restoration Party or PRN [Carlos Luis AVENDANO Calvo]<br>New Generation or PNG [Rodolfo SOLIS Herrera]<br>New Republic Party or PNR [Francisco Javier PRENDAS Rodriguez]<br>Patriotic Alliance [Jorge ARAYA Westover]<br>Social Christian Republican Party or PRS [Otto ROBERTO Vargas]<br>Social Christian Unity Party or PUSC [Randall QUIROS Bustamante]<br>Social Democratic Progress Party or PPSD [Luz Mary ALPIZAR Loaiza]<br><br></p><br>
 
 **International organization participation**<br>
 BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -494,8 +497,8 @@ calendar year<br>
 -$1.326 billion (2016 est.)<br>
 
 **Exports**<br>
-$21.2 billion note: data are in current year dollars (2019 est.)<br>
-$20.53 billion note: data are in current year dollars (2018 est.)<br>
+$21.2 billion (2019 est.) note: data are in current year dollars<br>
+$20.53 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 38%, Netherlands 6%, Belgium 5%, Guatemala 5%, Panama 5% (2019)<br>
@@ -504,8 +507,8 @@ United States 38%, Netherlands 6%, Belgium 5%, Guatemala 5%, Panama 5% (2019)<br
 medical instruments, bananas, tropical fruits, orthopedic appliances, food preparations (2019)<br>
 
 **Imports**<br>
-$19.39 billion note: data are in current year dollars (2019 est.)<br>
-$19.64 billion note: data are in current year dollars (2018 est.)<br>
+$19.39 billion (2019 est.) note: data are in current year dollars<br>
+$19.64 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 41%, China 13%, Mexico 7% (2019)<br>
@@ -617,10 +620,14 @@ _international_: country code - 506; landing points for the ARCOS-1, MAYA-1, and
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-multiple privately owned TV stations and 1 publicly owned TV station; cable network services are widely available; more than 100 privately owned radio stations and a public radio network (2017)<br>
+over two dozen privately owned TV stations and 1 publicly owned TV station nationwide; cable network services are widely available; more than 100 privately owned radio stations and a public radio network (2022)<br>
 
 **Internet country code**<br>
 .cr<br>
+
+**Internet users**<br>
+_total_: 4,126,232 (2020 est.)<br>
+_percent of population_: 81% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 992,725 (2021)<br>
@@ -632,7 +639,7 @@ _subscriptions per 100 inhabitants_: 19.49 (2021)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 39<br>
 _annual passenger traffic on registered air carriers_: 1,948,546 (2018)<br>
-_annual freight traffic on registered air carriers_: 11.13 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 11.13 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 TI<br>
@@ -657,14 +664,14 @@ _under 914 m_: 96 (2021)<br>
 
 **Railways**<br>
 _total_: 278 km (2014)<br>
-_narrow gauge_: 278 km 1.067-m gauge (2014)<br>
+_narrow gauge_: 278 km (2014) 1.067-m gauge<br>
 <strong>note:</strong> the entire rail network fell into disrepair and out of use at the end of the 20th century; since 2005, certain sections of rail have been rehabilitated<br>
 
 **Roadways**<br>
 _total_: 5,035 km (2017)<br>
 
 **Waterways**<br>
-730 km (seasonally navigable by small craft) (2011)<br>
+730 km (2011) (seasonally navigable by small craft)<br>
 
 **Merchant marine**<br>
 _total_: 11<br>
@@ -677,24 +684,24 @@ Pacific Ocean - Caldera<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Public Security: the Public Force (Fuerza Pública (National Police)), Air Surveillance Service (Servicio de Vigilancia Aérea), and National Coast Guard Service (Servicio Nacional de Guardacostas) (2021)<br>
+no regular military forces; Ministry of Public Security: the Public Force (Fuerza Pública (National Police)), Air Surveillance Service (Servicio de Vigilancia Aérea), National Coast Guard Service (Servicio Nacional de Guardacostas), Border Police (Policia de Fronteras); Ministry of Presidency: Directorate of Intelligence and Security (DIS), Special Intervention Unit (UEI) (2022)<br>
 note - Costa Rica's armed forces were constitutionally abolished in 1949<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2020)<br>
-0.7% of GDP (approximately $630 million) (2019)<br>
-0.7% of GDP (approximately $610 million) (2018)<br>
-0.7% of GDP (approximately $600 million) (2017)<br>
-0.7% of GDP (approximately $580 million) (2016)<br>
+0.7% of GDP (2019) (approximately $630 million)<br>
+0.7% of GDP (2018) (approximately $610 million)<br>
+0.7% of GDP (2017) (approximately $600 million)<br>
+0.7% of GDP (2016) (approximately $580 million)<br>
 
 **Military and security service personnel strengths**<br>
-12,500 Public Force personnel; approximately 400-500 air and 400-500 coast guard personnel (2021)<br>
+12,500 Public Force personnel; approximately 500-600 Air, 500-600 Coast Guard, and 300-400 Border Police personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Public Force is lightly armed with an inventory that includes mostly second-hand US equipment (2021)<br>
+the Public Force is lightly armed with an inventory that includes mostly second-hand US equipment (2022)<br>
 
 **Military - note**<br>
-Costa Rica relies on specialized paramilitary units within the Ministry of Public Security (MPS) for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided equipment, including aircraft and patrol boats (2021)<br>
+Costa Rica relies on specialized paramilitary units within the Ministry of Public Security (MPS) for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided some military equipment, including aircraft and patrol boats (2022)<br>
 
 ## Transnational Issues
 

@@ -86,6 +86,9 @@ population is heavily concentrated in the westernmost fifth of the country exten
 **Geography - note**<br>
 <p><strong>note 1:</strong> largest country in the world in terms of area but unfavorably located in relation to major sea lanes of the world; despite its size, much of the country lacks proper soils and climates (either too cold or too dry) for agriculture</p> <p><strong>note 2:</strong> Russia's far east, particularly the Kamchatka Peninsula, lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> Mount El'brus is Europe's tallest peak; Lake Baikal, the deepest lake in the world, is estimated to hold one fifth of the world's fresh surface water<br><br><strong>note 4:</strong> Kaliningrad oblast is an exclave annexed from Germany following World War II (it was formerly part of East Prussia); its capital city of Kaliningrad - formerly Koenigsberg - is the only Baltic port in Russia that remains ice free in the winter</p><br>
 
+**Map description**<br>
+Russia map showing major cities as well as the many bordering countries and neighboring seas.<br>
+
 ## People and Society
 
 **Population**<br>
@@ -112,7 +115,7 @@ _0-14 years_: 17.24% (male 12,551,611/female 11,881,297)<br>
 _15-24 years_: 9.54% (male 6,920,070/female 6,602,776)<br>
 _25-54 years_: 43.38% (male 30,240,260/female 31,245,104)<br>
 _55-64 years_: 14.31% (male 8,808,330/female 11,467,697)<br>
-_65 years and over_: 15.53% (male 7,033,381/female 14,971,679) (2020 est.)<br>
+_65 years and over_: 15.53% (2020 est.) (male 7,033,381/female 14,971,679)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 51.2<br>
@@ -334,8 +337,7 @@ _etymology_: named after the Moskva River; the origin of the river's name is obs
 
 **Administrative divisions**<br>
 <p>46 provinces (oblasti, singular - oblast), 21 republics (respubliki, singular - respublika), 4 autonomous okrugs (avtonomnyye okrugi, singular - avtonomnyy okrug), 9 krays (kraya, singular - kray), 2 federal cities (goroda, singular - gorod), and 1 autonomous oblast (avtonomnaya oblast')</p> <p><strong>oblasts:</strong> Amur (Blagoveshchensk), Arkhangel'sk, Astrakhan', Belgorod, Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga, Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad, Lipetsk, Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk, Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan', Sakhalin (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk (Yekaterinburg), Tambov, Tomsk, Tula, Tver', Tyumen', Ul'yanovsk, Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl'</p> <p><strong>republics:</strong> Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas), Kabardino-Balkariya (Nal'chik), Kalmykiya (Elista), Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk), Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola), Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya] (Yakutsk), Tatarstan (Kazan'), Tyva (Kyzyl), Udmurtiya (Izhevsk)</p> <p><strong>autonomous okrugs:</strong> Chukotka (Anadyr'), Khanty-Mansi-Yugra (Khanty-Mansiysk), Nenets (Nar'yan-Mar), Yamalo-Nenets (Salekhard)</p> <p><strong>krays:</strong> Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy), Khabarovsk, Krasnodar, Krasnoyarsk, Perm', Primorskiy [Maritime] (Vladivostok), Stavropol', Zabaykal'sk [Transbaikal] (Chita)</p> <p><strong>federal cities:</strong> Moscow [Moskva], Saint Petersburg [Sankt-Peterburg]</p> <strong>autonomous oblast:</strong> Yevreyskaya [Jewish] (Birobidzhan)<br>
-<strong>note 1:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)
-<br><br><strong>note 2:</strong> the United States does not recognize Russia's annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"<br>
+<strong>note 1:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) <br><br><strong>note 2:</strong> the United States does not recognize Russia's annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"<br>
 
 **Independence**<br>
 25 December 1991 (from the Soviet Union; Russian SFSR renamed Russian Federation); notable earlier dates: 1157 (Principality of Vladimir-Suzdal created); 16 January 1547 (Tsardom of Muscovy established); 22 October 1721 (Russian Empire proclaimed); 30 December 1922 (Soviet Union established)<br>
@@ -529,9 +531,9 @@ $65.311 billion (2019 est.)<br>
 $115.68 billion (2018 est.)<br>
 
 **Exports**<br>
-$379.12 billion note: data are in current year dollars (2020 est.)<br>
-$481.76 billion note: data are in current year dollars (2019 est.)<br>
-$508.56 billion note: data are in current year dollars (2018 est.)<br>
+$379.12 billion (2020 est.) note: data are in current year dollars<br>
+$481.76 billion (2019 est.) note: data are in current year dollars<br>
+$508.56 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 14%, Netherlands 10%, Belarus 5%, Germany 5% (2019)<br>
@@ -540,9 +542,9 @@ China 14%, Netherlands 10%, Belarus 5%, Germany 5% (2019)<br>
 crude petroleum, refined petroleum, natural gas, coal, wheat, iron (2019)<br>
 
 **Imports**<br>
-$304.68 billion note: data are in current year dollars (2020 est.)<br>
-$353.25 billion note: data are in current year dollars (2019 est.)<br>
-$343.58 billion note: data are in current year dollars (2018 est.)<br>
+$304.68 billion (2020 est.) note: data are in current year dollars<br>
+$353.25 billion (2019 est.) note: data are in current year dollars<br>
+$343.58 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 20%, Germany 13%, Belarus 6% (2019)<br>
@@ -659,9 +661,13 @@ _international_: country code - 7; landing points for the Far East Submarine Cab
 **Internet country code**<br>
 .ru; note - Russia also has responsibility for a legacy domain ".su" that was allocated to the Soviet Union and is being phased out<br>
 
+**Internet users**<br>
+_total_: 122,488,468 (2020 est.)<br>
+_percent of population_: 85% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 33,893,305 (2021)<br>
-_subscriptions per 100 inhabitants_: 23.23 (2021)<br>
+_total_: 33,893,305 (2022)<br>
+_subscriptions per 100 inhabitants_: 23.23 (2022)<br>
 
 ## Transportation
 
@@ -669,7 +675,7 @@ _subscriptions per 100 inhabitants_: 23.23 (2021)<br>
 _number of registered air carriers_: 32 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 958<br>
 _annual passenger traffic on registered air carriers_: 99,327,311 (2018)<br>
-_annual freight traffic on registered air carriers_: 6,810,610,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 6,810,610,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 RA<br>
@@ -701,17 +707,17 @@ _under 914 m_: 457 (2021)<br>
 
 **Railways**<br>
 _total_: 87,157 km (2014)<br>
-_narrow gauge_: 957 km 1.067-m gauge (on Sakhalin Island) (2014)<br>
-_broad gauge_: 86,200 km 1.520-m gauge (40,300 km electrified) (2014)<br>
+_narrow gauge_: 957 km (2014) 1.067-m gauge (on Sakhalin Island)<br>
+_broad gauge_: 86,200 km (2014) 1.520-m gauge (40,300 km electrified)<br>
 <strong>note:</strong> an additional 30,000 km of non-common carrier lines serve industries<br>
 
 **Roadways**<br>
 _total_: 1,283,387 km (2012)<br>
-_paved_: 927,721 km (includes 39,143 km of expressways) (2012)<br>
+_paved_: 927,721 km (2012) (includes 39,143 km of expressways)<br>
 _unpaved_: 355,666 km (2012)<br>
 
 **Waterways**<br>
-102,000 km (including 48,000 km with guaranteed depth; the 72,000-km system in European Russia links Baltic Sea, White Sea, Caspian Sea, Sea of Azov, and Black Sea) (2009)<br>
+102,000 km (2009) (including 48,000 km with guaranteed depth; the 72,000-km system in European Russia links Baltic Sea, White Sea, Caspian Sea, Sea of Azov, and Black Sea)<br>
 
 **Merchant marine**<br>
 _total_: 2,873<br>
@@ -731,11 +737,11 @@ Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV)
 note - the Air Force and Aerospace Defense Forces were merged into the VKS in 2015; VKS responsibilities also include launching military and dual‐use satellites, maintaining military satellites, and monitoring and defending against space threats<br>
 
 **Military expenditures**<br>
+4% of GDP (2021 est.)<br>
 4% of GDP (2020 est.)<br>
-3.8% of GDP (approximately $104 billion) (2019 est.)<br>
-3.7% of GDP (approximately $100 billion) (2018 est.)<br>
-4.2% of GDP (approximately $104 billion) (2017 est.)<br>
-5.4% of GDP (approximately $121 billion) (2016 est.)<br>
+3.8% of GDP (2019 est.) (approximately $104 billion)<br>
+3.7% of GDP (2018 est.) (approximately $100 billion)<br>
+4.2% of GDP (2017 est.) (approximately $104 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 850,000 total active duty troops (300,000 Ground Troops; 40,000 Airborne Troops; 150,000 Navy; 160,000 Aerospace Forces; 70,000 Strategic Rocket Forces; approximately 20,000 special operations forces; approximately 100,000 other uniformed personnel (command and control, cyber, support, logistics, security, etc.); estimated 200-250,000 Federal National Guard Troops (2021)<br>
@@ -766,7 +772,7 @@ Aum Shimrikyo (AUM/Aleph); Islamic State of Iraq and ash-Sham; Islamic State of 
 <p>Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries; China and Russia have demarcated the once disputed islands at the Amur and Ussuri confluence and in the Argun River in accordance with the 2004 Agreement, ending their centuries-long border disputes; the sovereignty dispute over the islands of Etorofu, Kunashiri, Shikotan, and the Habomai group, known in Japan as the "Northern Territories" and in Russia as the "Southern Kurils," occupied by the Soviet Union in 1945, now administered by Russia, and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities; Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia; Azerbaijan, Kazakhstan, and Russia ratified Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea; Norway and Russia signed a comprehensive maritime boundary agreement in 2010; various groups in Finland advocate restoration of Karelia (Kareliya) and other areas ceded to the Soviet Union following World War II but the Finnish Government asserts no territorial demands; Russia and Estonia signed a technical border agreement in May 2005, but Russia recalled its signature in June 2005 after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia and Latvia; Russia remains involved in the conflict in eastern Ukraine while also occupying Ukraine’s territory of Crimea; Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as an EU member state with an EU external border, where strict Schengen border rules apply; preparations for the demarcation delimitation of land boundary with Ukraine have commenced; the dispute over the boundary between Russia and Ukraine through the Kerch Strait and Sea of Azov is suspended due to the occupation of Crimea by Russia; Kazakhstan and Russia boundary delimitation was ratified on November 2005 and field demarcation should commence in 2007; Russian Duma has not yet ratified 1990 Bering Sea Maritime Boundary Agreement with the US; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 703,523 (Ukraine) (as of 3 May 2022)<br>
+_refugees (country of origin)_: 739,418 (Ukraine) (as of 8 May 2022)<br>
 _stateless persons_: 56,960 (mid-year 2021); note - Russia's stateless population consists of Roma, Meskhetian Turks, and ex-Soviet citizens from the former republics; between 2003 and 2010 more than 600,000 stateless people were naturalized; most Meskhetian Turks, followers of Islam with origins in Georgia, fled or were evacuated from Uzbekistan after a 1989 pogrom and have lived in Russia for more than the required five-year residency period; they continue to be denied registration for citizenship and basic rights by local Krasnodar Krai authorities on the grounds that they are temporary illegal migrants<br>
 
 **Trafficking in persons**<br>

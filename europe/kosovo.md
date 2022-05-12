@@ -70,6 +70,9 @@ population clusters exist throughout the country, the largest being in the east 
 **Geography - note**<br>
 the 41-km long Nerodimka River divides into two branches each of which flows into a different sea: the northern branch flows into the Sitnica River, which via the Ibar, Morava, and Danube Rivers ultimately flows into the Black Sea; the southern branch flows via the Lepenac and Vardar Rivers into the Aegean Sea<br>
 
+**Map description**<br>
+<p>Kosovo map showing major population centers as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -96,7 +99,7 @@ _0-14 years_: 24.07% (male 241,563/female 223,568)<br>
 _15-24 years_: 16.95% (male 170,566/female 157,063)<br>
 _25-54 years_: 42.56% (male 433,914/female 388,595)<br>
 _55-64 years_: 8.67% (male 85,840/female 81,782)<br>
-_65 years and over_: 7.75% (male 63,943/female 85,940) (2020 est.)<br>
+_65 years and over_: 7.75% (2020 est.) (male 63,943/female 85,940)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -295,7 +298,7 @@ Alliance for the Future of Kosovo or AAK [Ramush HARADINAJ]<br>Alternativa [Mimo
 IBRD, IDA, IFC, IMF, ITUC (NGOs), MIGA, OIF (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Valdet SADIKU (since 9 March 2021)<br>
+_chief of mission_: Ambassador Ilir DUGOLLI (since 13 January 2022)<br>
 _chancery_: 2175 K Street NW, Suite 300, Washington, DC 20037<br>
 _telephone_: [1] (202) 450-2130<br>
 _FAX_: [1] (202) 735-0609<br>
@@ -428,9 +431,9 @@ _expenditures_: 2.203 billion (2017 est.)<br>
 -$533 million (2016 est.)<br>
 
 **Exports**<br>
-$1.69 billion note: data are in current year dollars (2020 est.)<br>
-$2.31 billion note: data are in current year dollars (2019 est.)<br>
-$2.28 billion note: data are in current year dollars (2018 est.)<br>
+$1.69 billion (2020 est.) note: data are in current year dollars<br>
+$2.31 billion (2019 est.) note: data are in current year dollars<br>
+$2.28 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Albania 16%, India 14%, North Macedonia 12.1%, Serbia 10.6%, Switzerland 5.6%, Germany 5.4% (2017)<br>
@@ -439,9 +442,9 @@ Albania 16%, India 14%, North Macedonia 12.1%, Serbia 10.6%, Switzerland 5.6%, G
 mining and processed metal products, scrap metals, leather products, machinery, appliances, prepared foodstuffs, beverages and tobacco, vegetable products, textiles and apparel<br>
 
 **Imports**<br>
-$4.19 billion note: data are in current year dollars (2020 est.)<br>
-$4.45 billion note: data are in current year dollars (2019 est.)<br>
-$4.5 billion note: data are in current year dollars (2018 est.)<br>
+$4.19 billion (2020 est.) note: data are in current year dollars<br>
+$4.45 billion (2019 est.) note: data are in current year dollars<br>
+$4.5 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 12.4%, Serbia 12.3%, Turkey 9.6%, China 9.1%, Italy 6.4%, North Macedonia 5.1%, Albania 5%, Greece 4.4% (2017)<br>
@@ -507,7 +510,7 @@ _electrification - total population_: 100% (2020)<br>
 0 bbl/day (2015 est.)<br>
 
 **Crude oil - proved reserves**<br>
-0 bbl NA (2017 est.)<br>
+0 bbl (2017 est.) NA<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
@@ -534,7 +537,7 @@ _electrification - total population_: 100% (2020)<br>
 0 cu m (2017 est.)<br>
 
 **Natural gas - proved reserves**<br>
-0 cu m NA (2017 est.)<br>
+0 cu m (2017 est.) NA<br>
 
 ## Communications
 
@@ -555,6 +558,10 @@ _international_: country code - 383<br>
 **Internet country code**<br>
 .xk<br>
 <strong>note:</strong> assigned as a temporary code under UN Security Council resolution 1244/99<br>
+
+**Internet users**<br>
+_total_: 1,502,658 (2019 est.)<br>
+_percent of population_: 84% (2019 est.)<br>
 
 ## Transportation
 
@@ -582,11 +589,11 @@ _under 914 m_: 3 (2021)<br>
 
 **Railways**<br>
 _total_: 333 km (2015)<br>
-_standard gauge_: 333 km 1.435-m gauge (2015)<br>
+_standard gauge_: 333 km (2015) 1.435-m gauge<br>
 
 **Roadways**<br>
 _total_: 2,012 km (2015)<br>
-_paved_: 1,921 km (includes 78 km of expressways) (2015)<br>
+_paved_: 1,921 km (2015) (includes 78 km of expressways)<br>
 _unpaved_: 91 km (2015)<br>
 
 ## Military and Security
@@ -595,11 +602,11 @@ _unpaved_: 91 km (2015)<br>
 Kosovo Security Force (KSF): Land Force Command; Logistics Command; Doctrine and Training Command; National Guard Command (2021)<br>
 
 **Military expenditures**<br>
-2% of GDP (2021 est.)<br>
+0.9% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
-0.8% of GDP (approximately $160 million) (2019 est.)<br>
-0.8% of GDP (approximately $150 million) (2018 est.)<br>
-0.7% of GDP (approximately $130 million) (2017 est.)<br>
+0.8% of GDP (2019 est.) (approximately $160 million)<br>
+0.8% of GDP (2018 est.) (approximately $150 million)<br>
+0.7% of GDP (2017 est.) (approximately $130 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Kosovo Security Force (KSF) has approximately 3,500 personnel; note - Kosovo plans for the KSF to eventually number around 5,000 troops (2021)<br>

@@ -82,6 +82,9 @@ hot, dry, dust/sand-laden sirocco wind primarily in March and April; periodic dr
 **Geography - note**<br>
 Mauritania is considered both a part of North Africa's Maghreb region and West Africa's Sahel region; most of the population is concentrated in the cities of Nouakchott and Nouadhibou and along the Senegal River in the southern part of the country<br>
 
+**Map description**<br>
+<p>Mauritania map showing major population centers as well as parts of surrounding countries and the North Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ _0-14 years_: 37.56% (male 755,788/female 748,671)<br>
 _15-24 years_: 19.71% (male 387,140/female 402,462)<br>
 _25-54 years_: 33.91% (male 630,693/female 727,518)<br>
 _55-64 years_: 4.9% (male 88,888/female 107,201)<br>
-_65 years and over_: 3.92% (male 66,407/female 90,707) (2020 est.)<br>
+_65 years and over_: 3.92% (2020 est.) (male 66,407/female 90,707)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 75<br>
@@ -205,7 +208,7 @@ _unimproved: total_: total: 42.5% of population (2020 est.)<br>
 8,500 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2020 est.)<br>
+(2020 est.) <500<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -379,7 +382,7 @@ Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moct
 ABEDA, ACP, AfDB, AFESD, AMF, AMU, AU, CAEU (candidate), EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, MIUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Jiddou JIDDOU, First Secretary (since 24 June 2021)<br>
+_chief of mission_: Ambassador BOIDE Cisse (since 15 September 2021)<br>
 _chancery_: 2129 Leroy Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 232-5700<br>
 _FAX_: [1] (202) 319-2623<br>
@@ -511,8 +514,8 @@ calendar year<br>
 -$707 million (2016 est.)<br>
 
 **Exports**<br>
-$2.52 billion note: data are in current year dollars (2019 est.)<br>
-$2.06 billion note: data are in current year dollars (2018 est.)<br>
+$2.52 billion (2019 est.) note: data are in current year dollars<br>
+$2.06 billion (2018 est.) note: data are in current year dollars<br>
 $302 million (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -522,8 +525,8 @@ China 32%, Switzerland 13%, Spain 9%, Japan 9%, Italy 5% (2019)<br>
 iron ore, fish products, gold, mollusks, processed crustaceans (2019)<br>
 
 **Imports**<br>
-$3.68 billion note: data are in current year dollars (2019 est.)<br>
-$3.28 billion note: data are in current year dollars (2018 est.)<br>
+$3.68 billion (2019 est.) note: data are in current year dollars<br>
+$3.28 billion (2018 est.) note: data are in current year dollars<br>
 $319 million (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -643,9 +646,13 @@ _international_: country code - 222; landing point for the ACE submarine cable f
 **Internet country code**<br>
 .mr<br>
 
+**Internet users**<br>
+_total_: 1,906,360 (2020 est.)<br>
+_percent of population_: 41% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 18,457 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.4 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.4 (2021) less than 1<br>
 
 ## Transportation
 
@@ -674,7 +681,7 @@ _under 914 m_: 2 (2021)<br>
 
 **Railways**<br>
 _total_: 728 km (2014)<br>
-_standard gauge_: 728 km 1.435-m gauge (2014)<br>
+_standard gauge_: 728 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>
 _total_: 12,253 km (2018)<br>
@@ -682,7 +689,7 @@ _paved_: 3,988 km (2018)<br>
 _unpaved_: 8,265 km (2018)<br>
 
 **Waterways**<br>
-(some navigation possible on the Senegal River) (2011)<br>
+(2011) (some navigation possible on the Senegal River)<br>
 
 **Merchant marine**<br>
 _total_: 5<br>
@@ -699,10 +706,10 @@ note(s) - the Gendarmerie is responsible for maintaining civil order around metr
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
-2.1% of GDP (approximately $440 million) (2019 est.)<br>
-2.3% of GDP (approximately $430 million) (2018 est.)<br>
-2.3% of GDP (approximately $440 million) (2017 est.)<br>
-2.5% of GDP (approximately $420 million) (2016 est.)<br>
+2.1% of GDP (2019 est.) (approximately $440 million)<br>
+2.3% of GDP (2018 est.) (approximately $430 million)<br>
+2.3% of GDP (2017 est.) (approximately $440 million)<br>
+2.5% of GDP (2016 est.) (approximately $420 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 16,000 active personnel (15,000 Army; 700 Navy; 300 Air Force); est. 3,000 Gendarmerie; est. 2,000 National Guard (2021)<br>

@@ -72,6 +72,9 @@ sometimes flooding occurs in the spring<br>
 **Geography - note**<br>
 the mainland terrain is flat, boggy, and partly wooded; offshore lie more than 1,500 islands<br>
 
+**Map description**<br>
+<p>Estonia map showing major cities as well as parts of surrounding countries and the Baltic Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -95,7 +98,7 @@ _0-14 years_: 16.22% (male 102,191/female 97,116)<br>
 _15-24 years_: 8.86% (male 56,484/female 52,378)<br>
 _25-54 years_: 40.34% (male 252,273/female 243,382)<br>
 _55-64 years_: 13.58% (male 76,251/female 90,576)<br>
-_65 years and over_: 21% (male 89,211/female 168,762) (2020 est.)<br>
+_65 years and over_: 21% (2020 est.) (male 89,211/female 168,762)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 58.4<br>
@@ -194,7 +197,7 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br>
+(2020 est.) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -488,9 +491,9 @@ $616 million (2019 est.)<br>
 $280 million (2018 est.)<br>
 
 **Exports**<br>
-$21.69 billion note: data are in current year dollars (2020 est.)<br>
-$22.94 billion note: data are in current year dollars (2019 est.)<br>
-$22.69 billion note: data are in current year dollars (2018 est.)<br>
+$21.69 billion (2020 est.) note: data are in current year dollars<br>
+$22.94 billion (2019 est.) note: data are in current year dollars<br>
+$22.69 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Finland 13%, Sweden 9%, Latvia 8%, Russia 8%, United States 7%, Lithuania 6%, Germany 6% (2019)<br>
@@ -499,9 +502,9 @@ Finland 13%, Sweden 9%, Latvia 8%, Russia 8%, United States 7%, Lithuania 6%, Ge
 broadcasting equipment, refined petroleum, coal tar oil, cars, prefabricated buildings (2019)<br>
 
 **Imports**<br>
-$21.73 billion note: data are in current year dollars (2020 est.)<br>
-$21.68 billion note: data are in current year dollars (2019 est.)<br>
-$21.89 billion note: data are in current year dollars (2018 est.)<br>
+$21.73 billion (2020 est.) note: data are in current year dollars<br>
+$21.68 billion (2019 est.) note: data are in current year dollars<br>
+$21.89 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Russia 12%, Germany 10%, Finland 9%, Lithuania 7%, Latvia 7%, Sweden 6%, Poland 6%, China 6% (2019)<br>
@@ -618,9 +621,13 @@ the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV cha
 **Internet country code**<br>
 .ee<br>
 
+**Internet users**<br>
+_total_: 1,183,236 (2020 est.)<br>
+_percent of population_: 89% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 415,610 (2021)<br>
-_subscriptions per 100 inhabitants_: 31.33 (2021)<br>
+_total_: 415,610 (2022)<br>
+_subscriptions per 100 inhabitants_: 31.33 (2022)<br>
 
 ## Transportation
 
@@ -656,16 +663,16 @@ _under 914 m_: 3 (2021)<br>
 
 **Railways**<br>
 _total_: 2,146 km (2016)<br>
-_broad gauge_: 2,146 km 1.520-m and 1.524-m gauge (132 km electrified) (2016)<br>
+_broad gauge_: 2,146 km (2016) 1.520-m and 1.524-m gauge (132 km electrified)<br>
 <strong>note:</strong> includes 1,510 km public and 636 km non-public railway<br>
 
 **Roadways**<br>
-_total_: 58,412 km (includes urban roads) (2011)<br>
-_paved_: 10,427 km (includes 115 km of expressways) (2011)<br>
+_total_: 58,412 km (2011) (includes urban roads)<br>
+_paved_: 10,427 km (2011) (includes 115 km of expressways)<br>
 _unpaved_: 47,985 km (2011)<br>
 
 **Waterways**<br>
-335 km (320 km are navigable year-round) (2011)<br>
+335 km (2011) (320 km are navigable year-round)<br>
 
 **Merchant marine**<br>
 _total_: 68<br>
@@ -682,9 +689,9 @@ Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
 2.4% of GDP (2020)<br>
-2% of GDP (approximately $850 million) (2019)<br>
-2% of GDP (approximately $800 million) (2018)<br>
-2% of GDP (approximately $750 million) (2017)<br>
+2% of GDP (2019) (approximately $850 million)<br>
+2% of GDP (2018) (approximately $800 million)<br>
+2% of GDP (2017) (approximately $750 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Estonian Defense Forces have approximately 6,500 active duty personnel (2021)<br>

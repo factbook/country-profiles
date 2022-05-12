@@ -69,6 +69,9 @@ most of the populace lives in the southern part of the main island, in and aroun
 **Geography - note**<br>
 consists of the main island of New Caledonia (one of the largest in the Pacific Ocean), the archipelago of Iles Loyaute, and numerous small, sparsely populated islands and atolls<br>
 
+**Map description**<br>
+<p>New Caledonia map showing the various islands that comprise this French territorial archipelago in the Coral Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -93,7 +96,7 @@ _0-14 years_: 21.74% (male 32,227/female 30,819)<br>
 _15-24 years_: 15.63% (male 23,164/female 22,163)<br>
 _25-54 years_: 43.73% (male 63,968/female 62,856)<br>
 _55-64 years_: 9.06% (male 12,700/female 13,568)<br>
-_65 years and over_: 9.84% (male 12,552/female 15,992) (2020 est.)<br>
+_65 years and over_: 9.84% (2020 est.) (male 12,552/female 15,992)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 46.6<br>
@@ -544,6 +547,10 @@ the publicly owned French Overseas Network (RFO), which operates in France's ove
 **Internet country code**<br>
 .nc<br>
 
+**Internet users**<br>
+_total_: 222,466 (2019 est.)<br>
+_percent of population_: 82% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 55,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 19.26 (2021 est.)<br>
@@ -551,7 +558,7 @@ _subscriptions per 100 inhabitants_: 19.26 (2021 est.)<br>
 ## Transportation
 
 **National air transport system**<br>
-_number of registered air carriers_: 3 (registered in France) (2020)<br>
+_number of registered air carriers_: 3 (2020) (registered in France)<br>
 _inventory of registered aircraft operated by air carriers_: 15 (registered in France)<br>
 
 **Airports**<br>

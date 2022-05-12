@@ -82,6 +82,9 @@ subject to floods, rockslides, mudslides; periodic droughts<br>
 **Geography - note**<br>
 <p><strong>note 1:</strong> the country lies on major sea and air routes linking North and South America</p> <p><strong>note 2:</strong> Venezuela has some of the most unique geology in the world; tepuis are massive table-top mountains of the western Guiana Highlands that tend to be isolated and thus support unique endemic plant and animal species; their sheer cliffsides account for some of the most spectacular waterfalls in the world including Angel Falls, the world's highest (979 m) that drops off Auyan Tepui</p><br>
 
+**Map description**<br>
+<p>Venezuela map showing major cities as well as parts of surrounding countries and the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -109,7 +112,7 @@ _0-14 years_: 25.66% (male 3,759,280/female 3,591,897)<br>
 _15-24 years_: 16.14% (male 2,348,073/female 2,275,912)<br>
 _25-54 years_: 41.26% (male 5,869,736/female 5,949,082)<br>
 _55-64 years_: 8.76% (male 1,203,430/female 1,305,285)<br>
-_65 years and over_: 8.18% (male 1,069,262/female 1,272,646) (2020 est.)<br>
+_65 years and over_: 8.18% (2020 est.) (male 1,069,262/female 1,272,646)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 54.4<br>
@@ -227,7 +230,7 @@ _female_: 97.2% (2016)<br>
 **Unemployment, youth ages 15-24**<br>
 _total_: 12.1%<br>
 _male_: 10.5% NA<br>
-_female_: 14.9% NA (2017 est.)<br>
+_female_: 14.9% (2017 est.) NA<br>
 
 ## Environment
 
@@ -456,7 +459,7 @@ _services_: 70.9% (4th quarter, 2011 est.)<br>
 **Unemployment, youth ages 15-24**<br>
 _total_: 12.1%<br>
 _male_: 10.5% NA<br>
-_female_: 14.9% NA (2017 est.)<br>
+_female_: 14.9% (2017 est.) NA<br>
 
 **Population below poverty line**<br>
 33.1% (2015 est.)<br>
@@ -622,6 +625,10 @@ Venezuela has a mixture of state-run and private broadcast media that are subjec
 **Internet country code**<br>
 .ve<br>
 
+**Internet users**<br>
+_total_: 20,531,397 (2019 est.)<br>
+_percent of population_: 72% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 2,561,556 (2021)<br>
 _subscriptions per 100 inhabitants_: 9.01 (2021 est.)<br>
@@ -632,7 +639,7 @@ _subscriptions per 100 inhabitants_: 9.01 (2021 est.)<br>
 _number of registered air carriers_: 12 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 75<br>
 _annual passenger traffic on registered air carriers_: 2,137,771 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.55 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1.55 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 YV<br>
@@ -663,13 +670,13 @@ _under 914 m_: 130 (2021)<br>
 
 **Railways**<br>
 _total_: 447 km (2014)<br>
-_standard gauge_: 447 km 1.435-m gauge (41.4 km electrified) (2014)<br>
+_standard gauge_: 447 km (2014) 1.435-m gauge (41.4 km electrified)<br>
 
 **Roadways**<br>
 _total_: 96,189 km (2014)<br>
 
 **Waterways**<br>
-7,100 km (Orinoco River (400 km) and Lake de Maracaibo navigable by oceangoing vessels) (2011)<br>
+7,100 km (2011) (Orinoco River (400 km) and Lake de Maracaibo navigable by oceangoing vessels)<br>
 
 **Merchant marine**<br>
 _total_: 281<br>
@@ -686,15 +693,15 @@ Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bol
 note(s) - the Bolivarian Militia was added as a "special component" to the FANB in 2020; the National Guard is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br>the FAES police paramilitary unit was created by President MADURO after the 2017 anti-government protests to bolster internal security; it has been accused of multiple human rights abuses <br>
 
 **Military expenditures**<br>
-5.2% of GDP (approximately $7.51 billion) (2019 est.)<br>
-4.4% of GDP (approximately $9.92 billion) (2018 est.)<br>
-2.9% of GDP (approximately $8.53 billion) (2017 est.)<br>
-2.2% of GDP (approximately $7.73 billion) (2016 est.)<br>
-1.8% of GDP (approximately $9.3 billion) (2015 est.)<br>
+5.2% of GDP (2019 est.) (approximately $7.5 billion)<br>
+4.4% of GDP (2018 est.) (approximately $9.9 billion)<br>
+2.9% of GDP (2017 est.) (approximately $8.5 billion)<br>
+2.2% of GDP (2016 est.) (approximately $7.7 billion)<br>
+1.8% of GDP (2015 est.) (approximately $9.3 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 125-150,000 active personnel, including about 25-30,000 National Guard (2021)<br>
-note - in 2020, the Venezuelan Government claimed the Bolivarian Militia had over 4 million members, but most reportedly have little to no military training<br>
+information varies; approximately 125-150,000 active personnel, including about 25-30,000 National Guard; approximately 200-225,000 Bolivarian Militia (2021)<br>
+note - the Bolivarian Militia is comprised of armed civilians who receive periodic training in exchange for a small stipend<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries, including the US; since 2010, Russia is the top supplier of military hardware to Venezuela (2021)<br>

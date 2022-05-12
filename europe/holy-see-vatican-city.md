@@ -59,6 +59,9 @@ occasional earthquakes<br>
 **Geography - note**<br>
 landlocked; an enclave in Rome, Italy; world's smallest state; beyond the territorial boundary of Vatican City, the Lateran Treaty of 1929 grants the Holy See extraterritorial authority over 23 sites in Rome and five outside of Rome, including the Pontifical Palace at Castel Gandolfo (the Pope's summer residence)<br>
 
+**Map description**<br>
+<p>Holy See (Vatican City) map identifies some of the major structures in this entity surrounded by Italy (Rome).</p><br>
+
 ## People and Society
 
 **Population**<br>

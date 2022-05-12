@@ -67,6 +67,9 @@ violent storms from the Himalayas are the source of the country's Bhutanese name
 **Geography - note**<br>
 landlocked; strategic location between China and India; controls several key Himalayan mountain passes<br>
 
+**Map description**<br>
+<p>Bhutan map showing major towns as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -90,7 +93,7 @@ _0-14 years_: 24.52% (male 98,113/female 93,740)<br>
 _15-24 years_: 17.77% (male 70,768/female 68,211)<br>
 _25-54 years_: 44.72% (male 184,500/female 165,374)<br>
 _55-64 years_: 6.39% (male 26,714/female 23,280)<br>
-_65 years and over_: 6.6% (male 26,797/female 24,821) (2020 est.)<br>
+_65 years and over_: 6.6% (2020 est.) (male 26,797/female 24,821)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 45.1<br>
@@ -182,7 +185,7 @@ _unimproved: total_: total: 13.6% of population (2020 est.)<br>
 1,300 (2020)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2020)<br>
+(2020) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 6.4% (2016)<br>
@@ -446,9 +449,9 @@ _expenditures_: 737.4 million (2017 est.)<br>
 -$621 million (2016 est.)<br>
 
 **Exports**<br>
-$790 million note: data are in current year dollars (2020 est.)<br>
-$780 million note: data are in current year dollars (2019 est.)<br>
-$790 million note: data are in current year dollars (2018 est.)<br>
+$790 million (2020 est.) note: data are in current year dollars<br>
+$780 million (2019 est.) note: data are in current year dollars<br>
+$790 million (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 India 94% (2019)<br>
@@ -457,9 +460,9 @@ India 94% (2019)<br>
 iron alloys, dolomite, refined iron, cement, silicon carbides (2019)<br>
 
 **Imports**<br>
-$1.19 billion note: data are in current year dollars (2020 est.)<br>
-$1.23 billion note: data are in current year dollars (2019 est.)<br>
-$1.25 billion note: data are in current year dollars (2018 est.)<br>
+$1.19 billion (2020 est.) note: data are in current year dollars<br>
+$1.23 billion (2019 est.) note: data are in current year dollars<br>
+$1.25 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 India 85%, Thailand 5% (2019)<br>
@@ -576,9 +579,13 @@ state-owned TV station established in 1999; cable TV service offers dozens of In
 **Internet country code**<br>
 .bt<br>
 
+**Internet users**<br>
+_total_: 416,671 (2020 est.)<br>
+_percent of population_: 54% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 3,189 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.41 less than 1 (2021)<br>
+_subscriptions per 100 inhabitants_: 0.41 (2021) less than 1<br>
 
 ## Transportation
 
@@ -586,7 +593,7 @@ _subscriptions per 100 inhabitants_: 0.41 less than 1 (2021)<br>
 _number of registered air carriers_: 2 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 6<br>
 _annual passenger traffic on registered air carriers_: 275,849 (2018)<br>
-_annual freight traffic on registered air carriers_: 690,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 690,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 A5<br>
@@ -628,7 +635,7 @@ India is responsible for military training, arms supplies, and the air defense o
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Bhutan-China:</em> Lacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China’s Chumbi salient.</p><br>
+<p><em>Bhutan-China:</em> Lacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China’s Chumbi salient.<br><br><em>Bhutan-India:</em> none identified</p><br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bhutan and Bhutanese abroad; some traffickers posing as recruiters use the lure of well-paying jobs overseas to exploit Bhutanese citizens for forced labor; some Bhutanese working in hospitality, retail, and service industries in the Gulf states and India, Thailand, and the UK reported trafficking indicators, including illegal recruitment fees, wage deductions, restricted movement, passport retention, and non-payment of wages; Bhutanese women and girls working as domestics, caregivers, and entertainers are subject to sex and labor trafficking domestically; Bhutanese and Indian women may be forced to work in hotels, massage parlors, and nightclubs, while male Indian workers face unauthorized deductions and non-payment of wages in the construction and hydropower sectors<br>

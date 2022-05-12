@@ -86,6 +86,9 @@ most of the population is found in the middle of the country between the states 
 **Geography - note**<br>
 <p><strong>note 1:</strong> strategic location on southern border of the US; Mexico is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 2:</strong> some of the world's most important food crops were first domesticated in Mexico; the "Three Sisters" companion plants - winter squash, maize (corn), and climbing beans - served as the main agricultural crops for various North American Indian groups; all three apparently originated in Mexico but then were widely disseminated through much of North America; avocado, amaranth, and chili peppers also emanate from Mexico, as does vanilla, the world's most popular aroma and flavor spice; although cherry tomatoes originated in Ecuador, their domestication in Mexico transformed them into the larger modern tomato<br><br><strong>note 3: </strong>the Sac Actun cave system at 348 km (216 mi) is the longest underwater cave in the world and the second longest cave worldwide, after Mammoth Cave in the United States (see "Geography - note" under United States)<br><br><strong>note 4:</strong> the prominent Yucatan Peninsula that divides the Gulf of Mexico from the Caribbean Sea is shared by Mexico, Guatemala, and Belize; just on the northern coast of Yucatan, near the town of Chicxulub (pronounce cheek-sha-loob), lie the remnants of a massive crater (some 150 km in diameter and extending well out into the Gulf of Mexico); formed by an asteroid or comet when it struck the earth 66 million years ago, the impact is now widely accepted as initiating a worldwide climate disruption that caused a mass extinction of 75% of all the earth's plant and animal species - including the non-avian dinosaurs</p><br>
 
+**Map description**<br>
+<p>Mexico map showing major cities as well as parts of surrounding countries and bodies of water.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -111,7 +114,7 @@ _0-14 years_: 26.01% (male 17,111,199/female 16,349,767)<br>
 _15-24 years_: 16.97% (male 11,069,260/female 10,762,784)<br>
 _25-54 years_: 41.06% (male 25,604,223/female 27,223,720)<br>
 _55-64 years_: 8.29% (male 4,879,048/female 5,784,176)<br>
-_65 years and over_: 7.67% (male 4,373,807/female 5,491,581) (2020 est.)<br>
+_65 years and over_: 7.67% (2020 est.) (male 4,373,807/female 5,491,581)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 50.3<br>
@@ -531,9 +534,9 @@ calendar year<br>
 -$25.415 billion (2018 est.)<br>
 
 **Exports**<br>
-$434.93 billion note: data are in current year dollars (2020 est.)<br>
-$492.73 billion note: data are in current year dollars (2019 est.)<br>
-$480.1 billion note: data are in current year dollars (2018 est.)<br>
+$434.93 billion (2020 est.) note: data are in current year dollars<br>
+$492.73 billion (2019 est.) note: data are in current year dollars<br>
+$480.1 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United States 75% (2019)<br>
@@ -542,9 +545,9 @@ United States 75% (2019)<br>
 cars and vehicle parts, computers, delivery trucks, crude petroleum, insulated wiring (2019)<br>
 
 **Imports**<br>
-$410.66 billion note: data are in current year dollars (2020 est.)<br>
-$495.79 billion note: data are in current year dollars (2019 est.)<br>
-$505.05 billion note: data are in current year dollars (2018 est.)<br>
+$410.66 billion (2020 est.) note: data are in current year dollars<br>
+$495.79 billion (2019 est.) note: data are in current year dollars<br>
+$505.05 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 54%, China 14% (2019)<br>
@@ -662,6 +665,10 @@ telecom reform in 2013 enabled the creation of new broadcast television channels
 **Internet country code**<br>
 .mx<br>
 
+**Internet users**<br>
+_total_: 92,831,582 (2020 est.)<br>
+_percent of population_: 72% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 21,936,131 (2021)<br>
 _subscriptions per 100 inhabitants_: 17.01 (2021)<br>
@@ -672,7 +679,7 @@ _subscriptions per 100 inhabitants_: 17.01 (2021)<br>
 _number of registered air carriers_: 16 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 370<br>
 _annual passenger traffic on registered air carriers_: 64,569,640 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,090,380,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1,090,380,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 XA<br>
@@ -704,15 +711,15 @@ _under 914 m_: 1,146 (2021)<br>
 
 **Railways**<br>
 _total_: 23,389 km (2017)<br>
-_standard gauge_: 23,389 km 1.435-m gauge (27 km electrified) (2017)<br>
+_standard gauge_: 23,389 km (2017) 1.435-m gauge (27 km electrified)<br>
 
 **Roadways**<br>
 _total_: 817,966 km (2017)<br>
-_paved_: 175,526 km (includes 10,845 km of expressways) (2017)<br>
+_paved_: 175,526 km (2017) (includes 10,845 km of expressways)<br>
 _unpaved_: 529,358 km (2017)<br>
 
 **Waterways**<br>
-2,900 km (navigable rivers and coastal canals mostly connected with ports on the country's east coast) (2012)<br>
+2,900 km (2012) (navigable rivers and coastal canals mostly connected with ports on the country's east coast)<br>
 
 **Merchant marine**<br>
 _total_: 671<br>
@@ -728,28 +735,28 @@ _LNG terminal(s) (import)_: Altamira, Ensenada<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM); Secretariat of the Navy (Secretaria de Marina, SEMAR): Mexican Navy (Armada de Mexico (ARM), includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)); Secretariat of Public Security and Civil Protection: National Guard (2021)<br>
-note - the National Guard was formed in 2019 and consists of personnel from the former Federal Police (disbanded in December 2019) and military police units of the Army and Navy; while the Guard is part of the civilian-led Secretariat of Public Security and Civil Protection, the Secretariat of National Defense has day-to-day operational control; in addition, the armed forces provide the commanders and the training; the Guard, along with state and municipal police are responsible for enforcing the law and maintaining order<br>
+Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM); Secretariat of the Navy (Secretaria de Marina, SEMAR): Mexican Navy (Armada de Mexico (ARM), includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)); Secretariat of Public Security and Civilian Protection (Secretaria de Seguridad y Proteccion Ciudadana): National Guard (Guardia Nacional) (2022)<br>
+note - the National Guard was formed in 2019 and consists of personnel from the former Federal Police (disbanded in December 2019) and military police units of the Army and Navy; while the Guard is part of the civilian-led Secretariat of Security and Civilian Protection, the Secretariat of National Defense has day-to-day operational control; in addition, the armed forces provide the commanders and the training; the Guard, along with state and municipal police are responsible for enforcing the law and maintaining order; the military also actively supports police operations<br>
 
 **Military expenditures**<br>
-0.7% of GDP (2021 est.)<br>
+0.8% of GDP (2022 est.)<br>
+0.8% of GDP (2021 est.)<br>
 0.6% of GDP (2020)<br>
-0.5% of GDP (approximately $13.4 billion) (2019)<br>
-0.5% of GDP (approximately $12.5 billion) (2018)<br>
-0.5% of GDP (approximately $11.3 billion) (2017)<br>
+0.5% of GDP (2019) (approximately $13.4 billion)<br>
+0.5% of GDP (2018) (approximately $12.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 223,000 armed forces personnel (160,000 Army; 8,000 Air Force; 55,000 Navy, including about 20,000 marines); approximately 100,000 National Guard (2021)<br>
+information varies; approximately 218,000 armed forces personnel (160,000 Army; 8,000 Air Force; 50,000 Navy, including about 20,000 marines); approximately 110,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Mexican military inventory includes a mix of domestically-produced and imported equipment from a variety of mostly Western suppliers; since 2010, the US is the leading supplier of military hardware to Mexico; Mexico's defense industry produces naval vessels and light armored vehicles (2021)<br>
+the Mexican military inventory includes a mix of domestically-produced and imported equipment from a variety of mostly Western suppliers; since 2010, the US is the leading supplier of military hardware to Mexico; Mexico's defense industry produces naval vessels and light armored vehicles, as well as small arms and other miscellaneous equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory military service for males (selection for service determined by lottery); conscript service obligation is 12 months; those selected serve on Saturdays in a Batallón del Servicio Militar Nacional (National Military Service Battalion) composed entirely of one-year Servicio Militar Nacional (SMN) conscripts; conscripts remain in reserve status until the age of 40; 16 years of age with consent for voluntary enlistment; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; women are eligible for voluntary military service (2021)<br>
-note - as of 2018, women comprised about 9% of the active duty military<br>
+18 years of age for compulsory military service for males (selection for service determined by lottery); conscript service obligation is 12 months; those selected serve on Saturdays in a Batallón del Servicio Militar Nacional (National Military Service Battalion) composed entirely of one-year Servicio Militar Nacional (SMN) conscripts; conscripts remain in reserve status until the age of 40; 16 years of age with consent for voluntary enlistment; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; women are eligible for voluntary military service (2022)<br>
+note - as of early 2022, women comprised about 15% of the active duty military<br>
 
 **Military - note**<br>
-the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2024; under these authorities, President LOPEZ OBRADOR has expanded the Mexican military's role in public security duties and other internal tasks; as of 2021, Mexican military operations were heavily focused on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; in addition, the military has been placed in charge of some infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast; in mid-2020, the armed forces were directed to administer the country&rsquo;s land and sea ports and customs services in order to fight crime and corruption; the military also runs approximately 2,700 branches of a state-owned bank<br>
+the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2024; as of 2022, Mexican military operations were heavily focused on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; the armed forces also administer most of the country's land and sea ports and customs services, and it built and runs approximately 2,700 branches of a state-owned development bank; in addition, President LOPEZ OBRADOR has placed the military in charge of a growing number of infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast (2022)<br>
 
 ## Transnational Issues
 

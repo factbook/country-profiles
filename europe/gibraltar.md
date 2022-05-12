@@ -62,6 +62,9 @@ occasional droughts; no streams or large bodies of water on the peninsula (all p
 **Geography - note**<br>
 <p><strong>note 1:</strong> strategic location on Strait of Gibraltar that links the North Atlantic Ocean and Mediterranean Sea</p> <p><strong>note 2:</strong> one of only two British territories where traffic drives on the right, the other being the island of Diego Garcia in the British Indian Ocean Territory</p><br>
 
+**Map description**<br>
+<p>Gibraltar map showing major populated areas and significant features on this UK peninsular territory that projects into the Mediterranean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -86,7 +89,7 @@ _0-14 years_: 20.24% (male 3,080/female 2,907)<br>
 _15-24 years_: 13.07% (male 2,000/female 1,866)<br>
 _25-54 years_: 41.28% (male 6,289/female 5,922)<br>
 _55-64 years_: 8.71% (male 1,082/female 1,495)<br>
-_65 years and over_: 16.7% (male 2,378/female 2,562) (2020 est.)<br>
+_65 years and over_: 16.7% (2020 est.) (male 2,378/female 2,562)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -473,6 +476,10 @@ Gibraltar Broadcasting Corporation (GBC) provides TV and radio broadcasting serv
 
 **Internet country code**<br>
 .gi<br>
+
+**Internet users**<br>
+_total_: 31,684 (2019 est.)<br>
+_percent of population_: 94% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 21,009 (2021)<br>

@@ -50,7 +50,10 @@ most of the population is found along the coast, with a largest concentrations a
 subject to hurricanes from July to November<br>
 
 **Geography - note**<br>
-the southern border is shared with Sint Maarten, a country within the Kingdom of the Netherlands; together, these two entities make up the smallest landmass in the world shared by two self-governing states<br>
+<strong>note 1:</strong> the southern border is shared with Sint Maarten, a country within the Kingdom of the Netherlands; together, these two entities make up the smallest landmass in the world shared by two self-governing states<br><br><strong>note 2:</strong> Simpson Bay Lagoon (aka as Simson Bay Lagoon or The Great Pond) is one of the largest inland lagoons in the West Indies; the border between the French and Dutch halves of the island of Saint Martin runs across the center of the lagoon, which is shared by both of the island's entities <br>
+
+**Map description**<br>
+<p>Saint Martin map showing major population centers of this French overseas collectivity in the Caribbean Sea.</p><br>
 
 ## People and Society
 
@@ -72,7 +75,7 @@ _0-14 years_: 25.63% (male 4,148/female 4,197)<br>
 _15-24 years_: 10.28% (male 1,647/female 1,701)<br>
 _25-54 years_: 46.2% (male 7,201/female 7,841)<br>
 _55-64 years_: 8.71% (male 1,328/female 1,508)<br>
-_65 years and over_: 9.17% (male 1,305/female 1,680) (2020 est.)<br>
+_65 years and over_: 9.17% (2020 est.) (male 1,305/female 1,680)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>

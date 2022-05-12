@@ -79,6 +79,9 @@ an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, t
 **Geography - note**<br>
 located at mouths of three major European rivers (Rhine, Maas or Meuse, and Schelde); about a quarter of the country lies below sea level and only about half of the land exceeds one meter above sea level<br>
 
+**Map description**<br>
+<p>Netherlands map showing major cities as well as parts of surrounding countries and the North Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -103,7 +106,7 @@ _0-14 years_: 16.11% (male 1,425,547/female 1,358,894)<br>
 _15-24 years_: 11.91% (male 1,049,000/female 1,008,763)<br>
 _25-54 years_: 38.47% (male 3,334,064/female 3,313,238)<br>
 _55-64 years_: 13.69% (male 1,177,657/female 1,188,613)<br>
-_65 years and over_: 19.82% (male 1,558,241/female 1,866,380) (2020 est.)<br>
+_65 years and over_: 19.82% (2020 est.) (male 1,558,241/female 1,866,380)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.6<br>
@@ -203,7 +206,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br>
+(2020 est.) &lt;100<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -302,8 +305,7 @@ _etymology_: the original Dutch name, Amstellerdam, meaning "a dam on the Amstel
 
 **Administrative divisions**<br>
 12 provinces (provincies, singular - provincie), 3 public entities* (openbare lichamen, singular - openbaar lichaam (Dutch); entidatnan publiko, singular - entidat publiko (Papiamento)); Bonaire*, Drenthe, Flevoland, Fryslan (Friesland), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Saba*, Sint Eustatius*, Utrecht, Zeeland (Zealand), Zuid-Holland (South Holland)<br>
-<strong>note 1:</strong> the Netherlands is one of four constituent countries of the Kingdom of the Netherlands; the other three, Aruba, Curacao, and Sint Maarten, are all islands in the Caribbean; while all four parts are considered equal partners, in practice, most of the Kingdom's affairs are administered by the Netherlands, which makes up about 98% of the Kingdom's total land area and population
-<br><br><strong>note 2:</strong> although Bonaire, Saba, and Sint Eustatius are officially incorporated into the country of the Netherlands under the broad designation of "public entities," Dutch Government sources regularly apply to them the more descriptive term of "special municipalities"; Bonaire, Saba, and Sint Eustatius are collectively referred to as the Caribbean Netherlands<br>
+<strong>note 1:</strong> the Netherlands is one of four constituent countries of the Kingdom of the Netherlands; the other three, Aruba, Curacao, and Sint Maarten, are all islands in the Caribbean; while all four parts are considered equal partners, in practice, most of the Kingdom's affairs are administered by the Netherlands, which makes up about 98% of the Kingdom's total land area and population <br><br><strong>note 2:</strong> although Bonaire, Saba, and Sint Eustatius are officially incorporated into the country of the Netherlands under the broad designation of "public entities," Dutch Government sources regularly apply to them the more descriptive term of "special municipalities"; Bonaire, Saba, and Sint Eustatius are collectively referred to as the Caribbean Netherlands<br>
 
 **Dependent areas**<br>
 Aruba, Curacao, Sint Maarten<br>
@@ -495,9 +497,9 @@ $90.207 billion (2019 est.)<br>
 $98.981 billion (2018 est.)<br>
 
 **Exports**<br>
-$719.78 billion note: data are in current year dollars (2020 est.)<br>
-$755.77 billion note: data are in current year dollars (2019 est.)<br>
-$773.74 billion note: data are in current year dollars (2018 est.)<br>
+$719.78 billion (2020 est.) note: data are in current year dollars<br>
+$755.77 billion (2019 est.) note: data are in current year dollars<br>
+$773.74 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 20%, Belgium 12%, United Kingdom 9%, France 7%, United States 5% (2019)<br>
@@ -506,9 +508,9 @@ Germany 20%, Belgium 12%, United Kingdom 9%, France 7%, United States 5% (2019)<
 refined petroleum, packaged medicines, broadcasting equipment, photography equipment, computers (2019)<br>
 
 **Imports**<br>
-$622.66 billion note: data are in current year dollars (2020 est.)<br>
-$661.18 billion note: data are in current year dollars (2019 est.)<br>
-$677.38 billion note: data are in current year dollars (2018 est.)<br>
+$622.66 billion (2020 est.) note: data are in current year dollars<br>
+$661.18 billion (2019 est.) note: data are in current year dollars<br>
+$677.38 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 15%, China 11%, Belgium 9%, United States 8%, Russia 7%, United Kingdom 5% (2019)<br>
@@ -626,6 +628,10 @@ more than 90% of households are connected to cable or satellite TV systems that 
 **Internet country code**<br>
 .nl<br>
 
+**Internet users**<br>
+_total_: 15,871,765 (2020 est.)<br>
+_percent of population_: 91% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 7,525,016 (2021)<br>
 _subscriptions per 100 inhabitants_: 43.92 (2021)<br>
@@ -636,7 +642,7 @@ _subscriptions per 100 inhabitants_: 43.92 (2021)<br>
 _number of registered air carriers_: 8 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 238<br>
 _annual passenger traffic on registered air carriers_: 43,996,044 (2018)<br>
-_annual freight traffic on registered air carriers_: 5,886,510,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 5,886,510,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 PH<br>
@@ -665,13 +671,13 @@ _under 914 m_: 2 (2021)<br>
 
 **Railways**<br>
 _total_: 3,058 km (2016)<br>
-_standard gauge_: 3,058 km 1.435-m gauge (2,314 km electrified) (2016)<br>
+_standard gauge_: 3,058 km (2016) 1.435-m gauge (2,314 km electrified)<br>
 
 **Roadways**<br>
-_total_: 139,124 km (includes 3,654 km of expressways) (2016)<br>
+_total_: 139,124 km (2016) (includes 3,654 km of expressways)<br>
 
 **Waterways**<br>
-6,237 km (navigable by ships up to 50 tons) (2012)<br>
+6,237 km (2012) (navigable by ships up to 50 tons)<br>
 
 **Merchant marine**<br>
 _total_: 1,199<br>
@@ -692,12 +698,12 @@ note - the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civil
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
-1.3% of GDP (approximately $13.6 billion) (2019)<br>
-1.2% of GDP (approximately $12.3 billion) (2018)<br>
-1.2% of GDP (approximately $11.3 billion) (2017)<br>
+1.3% of GDP (2019) (approximately $13.6 billion)<br>
+1.2% of GDP (2018) (approximately $12.3 billion)<br>
+1.2% of GDP (2017) (approximately $11.3 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Netherlands Armed Forces have approximately 35,000 active duty personnel (15,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2021)<br>
+the Royal Netherlands Armed Forces have approximately 40,000 active duty personnel (20,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2021)<br>
 note - the Navy includes about 2,300 marines<br>
 
 **Military equipment inventories and acquisitions**<br>

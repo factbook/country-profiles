@@ -70,6 +70,9 @@ persistent fog throughout the year can be a maritime hazard<br>
 **Geography - note**<br>
 vegetation scanty; the islands are actually part of the northern Appalachians along with Newfoundland<br>
 
+**Map description**<br>
+<p>Saint Pierre and Miquelon map showing the two islands that make up this French territorial overseas collectivity in the Gulf of St. Lawrence.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,7 +97,7 @@ _0-14 years_: 13.68% (male 370/female 349)<br>
 _15-24 years_: 8.71% (male 240/female 218)<br>
 _25-54 years_: 40% (male 1,039/female 1,100)<br>
 _55-64 years_: 15.52% (male 419/female 397)<br>
-_65 years and over_: 24.1% (male 556/female 711) (2022 est.)<br>
+_65 years and over_: 24.1% (2022 est.) (male 556/female 711)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: NA<br>
@@ -477,6 +480,10 @@ _international_: country code - 508; landing point for the St Pierre and Miquelo
 
 **Internet country code**<br>
 .pm<br>
+
+**Internet users**<br>
+_total_: 4,500 (2016 est.)<br>
+_percent of population_: 79.5% (2016 est.)<br>
 
 ## Transportation
 

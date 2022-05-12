@@ -70,6 +70,9 @@ drought<br>
 **Geography - note**<br>
 landlocked; almost completely surrounded by South Africa<br>
 
+**Map description**<br>
+<p>Eswatini map showing major population centers as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -97,7 +100,7 @@ _0-14 years_: 33.63% (male 185,640/female 185,808)<br>
 _15-24 years_: 18.71% (male 98,029/female 108,654)<br>
 _25-54 years_: 39.46% (male 202,536/female 233,275)<br>
 _55-64 years_: 4.36% (male 20,529/female 27,672)<br>
-_65 years and over_: 3.83% (male 15,833/female 26,503) (2020 est.)<br>
+_65 years and over_: 3.83% (2020 est.) (male 15,833/female 26,503)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 70.8<br>
@@ -479,9 +482,9 @@ $604 million (2017 est.)<br>
 $642 million (2016 est.)<br>
 
 **Exports**<br>
-$1.81 billion note: data are in current year dollars (2020 est.)<br>
-$2.07 billion note: data are in current year dollars (2019 est.)<br>
-$1.9 billion note: data are in current year dollars (2018 est.)<br>
+$1.81 billion (2020 est.) note: data are in current year dollars<br>
+$2.07 billion (2019 est.) note: data are in current year dollars<br>
+$1.9 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 South Africa 94% (2017)<br>
@@ -490,9 +493,9 @@ South Africa 94% (2017)<br>
 soft drink concentrates, sugar, timber, cotton yarn, refrigerators, citrus, and canned fruit<br>
 
 **Imports**<br>
-$1.7 billion note: data are in current year dollars (2020 est.)<br>
-$1.93 billion note: data are in current year dollars (2019 est.)<br>
-$2.07 billion note: data are in current year dollars (2018 est.)<br>
+$1.7 billion (2020 est.) note: data are in current year dollars<br>
+$1.93 billion (2019 est.) note: data are in current year dollars<br>
+$2.07 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 South Africa 81.6%, China 5.2% (2017)<br>
@@ -611,6 +614,10 @@ _international_: country code - 268; satellite earth station - 1 Intelsat (Atlan
 **Internet country code**<br>
 .sz<br>
 
+**Internet users**<br>
+_total_: 539,623 (2019 est.)<br>
+_percent of population_: 47% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 12,000 (2021 est.)<br>
 _subscriptions per 100 inhabitants_: 1.03 (2021)<br>
@@ -635,7 +642,7 @@ _under 914 m_: 7 (2021)<br>
 
 **Railways**<br>
 _total_: 301 km (2014)<br>
-_narrow gauge_: 301 km 1.067-m gauge (2014)<br>
+_narrow gauge_: 301 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
 _total_: 3,769 km (2019)<br>
@@ -647,10 +654,10 @@ Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2021)<b
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
-1.9% of GDP (approximately $140 million) (2019 est.)<br>
-2.1% of GDP (approximately $150 million) (2018 est.)<br>
-2.1% of GDP (approximately $140 million) (2017 est.)<br>
-2.2% of GDP (approximately $150 million) (2016 est.)<br>
+1.9% of GDP (2019 est.) (approximately $140 million)<br>
+2.1% of GDP (2018 est.) (approximately $150 million)<br>
+2.1% of GDP (2017 est.) (approximately $140 million)<br>
+2.2% of GDP (2016 est.) (approximately $150 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 3,000 active personnel (2021)<br>

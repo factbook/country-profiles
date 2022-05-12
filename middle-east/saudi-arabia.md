@@ -78,6 +78,9 @@ historically a population that was mostly nomadic or semi-nomadic, the Saudi pop
 **Geography - note**<br>
 Saudi Arabia is the largest country in the world without a river; extensive coastlines on the Persian Gulf and Red Sea allow&nbsp;for considerable&nbsp;shipping (especially of crude oil) through the Persian Gulf and Suez Canal<br>
 
+**Map description**<br>
+<p>Saudi Arabia map showing major cities as well as parts of surrounding countries and water bodies.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -104,7 +107,7 @@ _0-14 years_: 24.84% (male 4,327,830/female 4,159,242)<br>
 _15-24 years_: 15.38% (male 2,741,371/female 2,515,188)<br>
 _25-54 years_: 50.2% (male 10,350,028/female 6,804,479)<br>
 _55-64 years_: 5.95% (male 1,254,921/female 778,467)<br>
-_65 years and over_: 3.63% (male 657,395/female 584,577) (2020 est.)<br>
+_65 years and over_: 3.63% (2020 est.) (male 657,395/female 584,577)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 39.3<br>
@@ -193,13 +196,13 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2020 est.)<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 12,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2020 est.)<br>
+(2020 est.) <200<br>
 
 **Obesity - adult prevalence rate**<br>
 35.4% (2016)<br>
@@ -488,9 +491,9 @@ $15.23 billion (2017 est.)<br>
 -$23.87 billion (2016 est.)<br>
 
 **Exports**<br>
-$184.11 billion note: data are in current year dollars (2020 est.)<br>
-$285.86 billion note: data are in current year dollars (2019 est.)<br>
-$314.92 billion note: data are in current year dollars (2018 est.)<br>
+$184.11 billion (2020 est.) note: data are in current year dollars<br>
+$285.86 billion (2019 est.) note: data are in current year dollars<br>
+$314.92 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 China 20%, India 11%, Japan 11%, South Korea 9%, United States 5% (2019)<br>
@@ -499,9 +502,9 @@ China 20%, India 11%, Japan 11%, South Korea 9%, United States 5% (2019)<br>
 crude petroleum, refined petroleum, polymers, industrial alcohols, natural gas (2019)<br>
 
 **Imports**<br>
-$179.8 billion note: data are in current year dollars (2020 est.)<br>
-$218.94 billion note: data are in current year dollars (2019 est.)<br>
-$209.59 billion note: data are in current year dollars (2018 est.)<br>
+$179.8 billion (2020 est.) note: data are in current year dollars<br>
+$218.94 billion (2019 est.) note: data are in current year dollars<br>
+$209.59 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 18%, United Arab Emirates 12%, United States 9%, Germany 5% (2019)<br>
@@ -618,6 +621,10 @@ broadcast media are state-controlled; state-run TV operates 4 networks; Saudi Ar
 **Internet country code**<br>
 .sa<br>
 
+**Internet users**<br>
+_total_: 34,117,590 (2020 est.)<br>
+_percent of population_: 98% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 7,890,261 (2021)<br>
 _subscriptions per 100 inhabitants_: 22.66 (2021 est.)<br>
@@ -631,7 +638,7 @@ the innovative King Abdulaziz Center for World Culture (informally known as Ithr
 _number of registered air carriers_: 12 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 230<br>
 _annual passenger traffic on registered air carriers_: 39,141,660 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,085,470,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1,085,470,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 HZ<br>
@@ -662,11 +669,11 @@ _under 914 m_: 16 (2021)<br>
 
 **Railways**<br>
 _total_: 5,410 km (2016)<br>
-_standard gauge_: 5,410 km 1.435-m gauge (with branch lines and sidings) (2016)<br>
+_standard gauge_: 5,410 km (2016) 1.435-m gauge (with branch lines and sidings)<br>
 
 **Roadways**<br>
 _total_: 221,372 km (2006)<br>
-_paved_: 47,529 km (includes 3,891 km of expressways) (2006)<br>
+_paved_: 47,529 km (2006) (includes 3,891 km of expressways)<br>
 _unpaved_: 173,843 km (2006)<br>
 
 **Merchant marine**<br>
@@ -686,9 +693,9 @@ note - SANG (also known as the White Army) is a land force separate from the Min
 **Military expenditures**<br>
 5.7% of GDP (2021 est.)<br>
 7.8% of GDP (2020 est.)<br>
-8.8% of GDP (approximately $92.2 billion) (2019 est.)<br>
-10% of GDP (approximately $103 billion) (2018 est.)<br>
-11.1% of GDP (approximately $111 billion) (2017 est.)<br>
+8.8% of GDP (2019 est.) (approximately $92.2 billion)<br>
+10% of GDP (2018 est.) (approximately $103 billion)<br>
+11.1% of GDP (2017 est.) (approximately $111 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Saudi military forces have about 225,000 active troops; approximately 125,000 under the Ministry of Defense (75,000 Land Forces; 15,000 Naval Forces; 35,000 Air Force/Air Defense/Strategic Missile Forces) and approximately 100,000 in the Saudi Arabia National Guard (SANG) (2021)<br>

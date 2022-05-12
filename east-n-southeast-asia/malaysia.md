@@ -72,6 +72,9 @@ flooding; landslides; forest fires<br>
 **Geography - note**<br>
 strategic location along Strait of Malacca and southern South China Sea<br>
 
+**Map description**<br>
+<p>Malaysia map showing the major cities of the two main parts of the country along the South China Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -99,7 +102,7 @@ _0-14 years_: 26.8% (male 4,504,562/female 4,246,681)<br>
 _15-24 years_: 16.63% (male 2,760,244/female 2,670,186)<br>
 _25-54 years_: 40.86% (male 6,737,826/female 6,604,776)<br>
 _55-64 years_: 8.81% (male 1,458,038/female 1,418,280)<br>
-_65 years and over_: 6.9% (male 1,066,627/female 1,184,863) (2020 est.)<br>
+_65 years and over_: 6.9% (2020 est.) (male 1,066,627/female 1,184,863)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 44.2<br>
@@ -185,7 +188,7 @@ _improved: rural_: rural: NA<br>
 _improved: total_: total: NA<br>
 _unimproved: urban_: urban: 0.1% of population<br>
 _unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: NA (2020 est.)<br>
+_unimproved: total_: total: (2020 est.) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.4% (2020 est.)<br>
@@ -493,9 +496,9 @@ $12.295 billion (2019 est.)<br>
 $8.027 billion (2018 est.)<br>
 
 **Exports**<br>
-$207.37 billion note: data are in current year dollars (2020 est.)<br>
-$237.83 billion note: data are in current year dollars (2019 est.)<br>
-$245.89 billion note: data are in current year dollars (2018 est.)<br>
+$207.37 billion (2020 est.) note: data are in current year dollars<br>
+$237.83 billion (2019 est.) note: data are in current year dollars<br>
+$245.89 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Singapore 13%, China 13%, United States 11%, Hong Kong 6%, Japan 6%, Thailand 5% (2019)<br>
@@ -504,9 +507,9 @@ Singapore 13%, China 13%, United States 11%, Hong Kong 6%, Japan 6%, Thailand 5%
 integrated circuits, refined petroleum, natural gas, semiconductors, palm oil (2019)<br>
 
 **Imports**<br>
-$185.59 billion note: data are in current year dollars (2020 est.)<br>
-$210.68 billion note: data are in current year dollars (2019 est.)<br>
-$221.83 billion note: data are in current year dollars (2018 est.)<br>
+$185.59 billion (2020 est.) note: data are in current year dollars<br>
+$210.68 billion (2019 est.) note: data are in current year dollars<br>
+$221.83 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 24%, Singapore 14%, Japan 6%, United States 6%, Taiwan 5%, Thailand 5% (2019)<br>
@@ -623,6 +626,10 @@ state-owned TV broadcaster operates 2 TV networks with relays throughout the cou
 **Internet country code**<br>
 .my<br>
 
+**Internet users**<br>
+_total_: 29,129,398 (2020 est.)<br>
+_percent of population_: 90% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 3,358,800 (2021)<br>
 _subscriptions per 100 inhabitants_: 10.38 (2021 est.)<br>
@@ -633,7 +640,7 @@ _subscriptions per 100 inhabitants_: 10.38 (2021 est.)<br>
 _number of registered air carriers_: 13 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 270<br>
 _annual passenger traffic on registered air carriers_: 60,481,772 (2018)<br>
-_annual freight traffic on registered air carriers_: 1,404,410,000 mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1,404,410,000 (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 9M<br>
@@ -662,16 +669,16 @@ _under 914 m_: 69 (2021)<br>
 
 **Railways**<br>
 _total_: 1,851 km (2014)<br>
-_standard gauge_: 59 km 1.435-m gauge (59 km electrified) (2014)<br>
-_narrow gauge_: 1,792 km 1.000-m gauge (339 km electrified) (2014)<br>
+_standard gauge_: 59 km (2014) 1.435-m gauge (59 km electrified)<br>
+_narrow gauge_: 1,792 km (2014) 1.000-m gauge (339 km electrified)<br>
 
 **Roadways**<br>
-_total_: 144,403 km (excludes local roads) (2010)<br>
-_paved_: 116,169 km (includes 1,821 km of expressways) (2010)<br>
+_total_: 144,403 km (2010) (excludes local roads)<br>
+_paved_: 116,169 km (2010) (includes 1,821 km of expressways)<br>
 _unpaved_: 28,234 km (2010)<br>
 
 **Waterways**<br>
-7,200 km (Peninsular Malaysia 3,200 km; Sabah 1,500 km; Sarawak 2,500 km) (2011)<br>
+7,200 km (2011) (Peninsular Malaysia 3,200 km; Sabah 1,500 km; Sarawak 2,500 km)<br>
 
 **Merchant marine**<br>
 _total_: 1,769<br>
@@ -692,9 +699,9 @@ note - Malaysia created a National Special Operations Force in 2016 for combatin
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
 1.1% of GDP (2020)<br>
-1% of GDP (approximately $7.84 billion) (2019)<br>
-1% of GDP (approximately $7.63 billion) (2018)<br>
-1.1% of GDP (approximately $7.75 billion) (2017)<br>
+1% of GDP (2019) (approximately $7.84 billion)<br>
+1% of GDP (2018) (approximately $7.63 billion)<br>
+1.1% of GDP (2017) (approximately $7.75 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Malaysian Armed Forces have approximately 115,000 active duty troops (80,000 Army; 18,000 Navy; 17,000 Air Force) (2021)<br>

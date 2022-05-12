@@ -66,6 +66,9 @@ largest concentration on the island is Willemstad; smaller settlements near the 
 **Geography - note**<br>
 <p>Curacao is a part of the Windward Islands (southern) group in the Lesser Antilles</p><br>
 
+**Map description**<br>
+<p>Curacao map showing the island country in the Caribbean Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -90,7 +93,7 @@ _0-14 years_: 19.68% (male 15,227/female 14,553)<br>
 _15-24 years_: 13.38% (male 10,438/female 9,806)<br>
 _25-54 years_: 36.55% (male 27,733/female 27,589)<br>
 _55-64 years_: 13.88% (male 9,130/female 11,873)<br>
-_65 years and over_: 16.52% (male 10,127/female 14,869) (2020 est.)<br>
+_65 years and over_: 16.52% (2020 est.) (male 10,127/female 14,869)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.9<br>
@@ -318,8 +321,8 @@ _selected World Heritage Site locales_: Historic Willemstad<br>
 <p>Most of Curacao's GDP results from services. Tourism, petroleum refining and bunkering, offshore finance, and transportation and communications are the mainstays of this small island economy, which is closely tied to the outside world. Curacao has limited natural resources, poor soil, and inadequate water supplies, and budgetary problems complicate reform of the health and education systems. Although GDP grew only slightly during the past decade, Curacao enjoys a high per capita income and a well-developed infrastructure compared to other countries in the region.</p> <p>Curacao has an excellent natural harbor that can accommodate large oil tankers, and the port of Willemstad hosts a free trade zone and a dry dock. Venezuelan state-owned oil company PdVSA, under a contract in effect until 2019, leases the single refinery on the island from the government, directly employing some 1,000 people. Most of the oil for the refinery is imported from Venezuela and most of the refined products are exported to the US and Asia. Almost all consumer and capital goods are imported, with the US, the Netherlands, and Venezuela being the major suppliers.</p> <p>The government is attempting to diversify its industry and trade. Curacao is an Overseas Countries and Territories (OCT) of the European Union. Nationals of Curacao are citizens of the European Union, even though it is not a member. Based on its OCT status, products that originate in Curacao have preferential access to the EU and are exempt from import duties. Curacao is a beneficiary of the Caribbean Basin Initiative and, as a result, products originating in Curacao can be imported tax free into the US if at least 35% has been added to the value of these products in Curacao. The island has state-of-the-art information and communication technology connectivity with the rest of the world, including a Tier IV datacenter. With several direct satellite and submarine optic fiber cables, Curacao has one of the best Internet speeds and reliability in the Western Hemisphere.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.86 billion note: data are in 2017 dollars (2019 est.)<br>
-$3.99 billion note: data are in 2017 dollars (2018 est.)<br>
+$3.86 billion (2019 est.) note: data are in 2017 dollars<br>
+$3.99 billion (2018 est.) note: data are in 2017 dollars<br>
 $4.08 billion (2017 est.)<br>
 
 **Real GDP growth rate**<br>
@@ -328,8 +331,8 @@ $4.08 billion (2017 est.)<br>
 0.1% (2010 est.)<br>
 
 **Real GDP per capita**<br>
-$24,500 note: data are in 2017 dollars (2019 est.)<br>
-$25,100 note: data are in 2017 dollars (2018 est.)<br>
+$24,500 (2019 est.) note: data are in 2017 dollars<br>
+$25,100 (2018 est.) note: data are in 2017 dollars<br>
 $25,475 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -393,8 +396,8 @@ _female_: 34.5% (2018 est.)<br>
 -$600 million (2010 est.)<br>
 
 **Exports**<br>
-$1.77 billion note: data are in current year dollars (2019 est.)<br>
-$1.93 billion note: data are in current year dollars (2018 est.)<br>
+$1.77 billion (2019 est.) note: data are in current year dollars<br>
+$1.93 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Switzerland 27%, United States 17%, Spain 14%, Ecuador 7%, India 7%, Antigua and Barbuda 5% (2019)<br>
@@ -403,8 +406,8 @@ Switzerland 27%, United States 17%, Spain 14%, Ecuador 7%, India 7%, Antigua and
 gold, precious metal scraps, petroleum coke, frozen fish, coal tar oil (2019)<br>
 
 **Imports**<br>
-$2.33 billion note: data are in current year dollars (2019 est.)<br>
-$2.75 billion note: data are in current year dollars (2018 est.)<br>
+$2.33 billion (2019 est.) note: data are in current year dollars<br>
+$2.75 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 United States 35%, Netherlands 24%, China 5% (2019)<br>
@@ -500,6 +503,10 @@ government-run TeleCuracao operates a TV station and a radio station;&nbsp;2 oth
 
 **Internet country code**<br>
 <p>.cw</p><br>
+
+**Internet users**<br>
+_total_: 107,060 (2019 est.)<br>
+_percent of population_: 68% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 55,000 (2021)<br>

@@ -79,6 +79,9 @@ one of Africa's most densely populated countries; large concentrations tend to b
 **Geography - note**<br>
 landlocked; most of the country is intensively cultivated and rugged with the population predominantly rural<br>
 
+**Map description**<br>
+<p>Rwanda map showing major population centers as well as parts of surrounding countries.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -107,7 +110,7 @@ _0-14 years_: 39.95% (male 2,564,893/female 2,513,993)<br>
 _15-24 years_: 20.1% (male 1,280,948/female 1,273,853)<br>
 _25-54 years_: 33.06% (male 2,001,629/female 2,201,132)<br>
 _55-64 years_: 4.24% (male 241,462/female 298,163)<br>
-_65 years and over_: 2.65% (male 134,648/female 201,710) (2020 est.)<br>
+_65 years and over_: 2.65% (2020 est.) (male 134,648/female 201,710)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 74.2<br>
@@ -500,8 +503,8 @@ calendar year<br>
 -$1.336 billion (2016 est.)<br>
 
 **Exports**<br>
-$2.25 billion note: data are in current year dollars (2019 est.)<br>
-$2.04 billion note: data are in current year dollars (2018 est.)<br>
+$2.25 billion (2019 est.) note: data are in current year dollars<br>
+$2.04 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 United Arab Emirates 35%, Democratic Republic of the Congo 28%, Uganda 5% (2019)<br>
@@ -510,8 +513,8 @@ United Arab Emirates 35%, Democratic Republic of the Congo 28%, Uganda 5% (2019)
 gold, refined petroleum, coffee, tea, tin (2019)<br>
 
 **Imports**<br>
-$3.74 billion note: data are in current year dollars (2019 est.)<br>
-$3.34 billion note: data are in current year dollars (2018 est.)<br>
+$3.74 billion (2019 est.) note: data are in current year dollars<br>
+$3.34 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 17%, Kenya 10%, Tanzania 9%, United Arab Emirates 9%, India 7%, Saudi Arabia 5% (2019)<br>
@@ -612,7 +615,7 @@ _electrification - rural areas_: 48% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 11,671 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 9,658,550 (2019)<br>
@@ -630,9 +633,13 @@ _international_: country code - 250; international connections employ microwave 
 **Internet country code**<br>
 .rw<br>
 
+**Internet users**<br>
+_total_: 3,497,096 (2020 est.)<br>
+_percent of population_: 27% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 17,685 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.14 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.14 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -664,7 +671,7 @@ _paved_: 1,207 km (2012)<br>
 _unpaved_: 3,493 km (2012)<br>
 
 **Waterways**<br>
-(Lac Kivu navigable by shallow-draft barges and native craft) (2011)<br>
+(2011) (Lac Kivu navigable by shallow-draft barges and native craft)<br>
 
 **Ports and terminals**<br>
 _lake port(s)_: Cyangugu, Gisenyi, Kibuye (Lake Kivu)<br>
@@ -676,10 +683,10 @@ Rwanda Defense Force (RDF): Rwanda Army (Rwanda Land Force), Rwanda Air Force (F
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
-1.2% of GDP (approximately $220 million) (2019 est.)<br>
-1.2% of GDP (approximately $200 million) (2018 est.)<br>
-1.2% of GDP (approximately $190 million) (2017 est.)<br>
-1.2% of GDP (approximately $180 million) (2016 est.)<br>
+1.2% of GDP (2019 est.) (approximately $220 million)<br>
+1.2% of GDP (2018 est.) (approximately $200 million)<br>
+1.2% of GDP (2017 est.) (approximately $190 million)<br>
+1.2% of GDP (2016 est.) (approximately $180 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Rwanda Defense Force (RDF) has approximately 33,000 active personnel (32,000 Army; 1,000 Air Force) (2021)<br>

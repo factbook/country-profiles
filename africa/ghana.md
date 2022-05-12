@@ -79,6 +79,9 @@ dry, dusty, northeastern harmattan winds from January to March; droughts<br>
 **Geography - note**<br>
 Lake Volta is the world's largest artificial lake (manmade reservoir) by surface area (8,482 sq km; 3,275 sq mi); the lake was created following the completion of the Akosombo Dam in 1965, which holds back the White Volta and Black Volta Rivers<br>
 
+**Map description**<br>
+<p>Ghana map showing major cities as well as parts of surrounding countries and the Gulf of Guinea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -107,7 +110,7 @@ _0-14 years_: 37.44% (male 5,524,932/female 5,460,943)<br>
 _15-24 years_: 18.64% (male 2,717,481/female 2,752,601)<br>
 _25-54 years_: 34.27% (male 4,875,985/female 5,177,959)<br>
 _55-64 years_: 5.21% (male 743,757/female 784,517)<br>
-_65 years and over_: 4.44% (male 598,387/female 703,686) (2020 est.)<br>
+_65 years and over_: 4.44% (2020 est.) (male 598,387/female 703,686)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 67.4<br>
@@ -515,8 +518,8 @@ calendar year<br>
 -$2.86 billion (2016 est.)<br>
 
 **Exports**<br>
-$25.59 billion note: data are in current year dollars (2019 est.)<br>
-$22.51 billion note: data are in current year dollars (2018 est.)<br>
+$25.59 billion (2019 est.) note: data are in current year dollars<br>
+$22.51 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Switzerland 23%, India 17%, China 12%, United Arab Emirates 8%, South Africa 8% (2019)<br>
@@ -525,8 +528,8 @@ Switzerland 23%, India 17%, China 12%, United Arab Emirates 8%, South Africa 8% 
 gold, crude petroleum, cocoa products, manganese, cashews (2019)<br>
 
 **Imports**<br>
-$26.91 billion note: data are in current year dollars (2019 est.)<br>
-$23.22 billion note: data are in current year dollars (2018 est.)<br>
+$26.91 billion (2019 est.) note: data are in current year dollars<br>
+$23.22 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 China 24%, Nigeria 22%, United States 5% (2019)<br>
@@ -627,7 +630,7 @@ _electrification - rural areas_: 75% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 307,668 (2020)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 40,461,609 (2020)<br>
@@ -645,9 +648,13 @@ state-owned TV station, 2 state-owned radio networks; several privately owned TV
 **Internet country code**<br>
 .gh<br>
 
+**Internet users**<br>
+_total_: 18,022,308 (2020 est.)<br>
+_percent of population_: 58% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 78,371 Total fixed broadband subscriptions from Vodafone 62,284; AirtelTigo 700; MTN 14,038; Mainone 111; Simba Fibre 41; K-Net 310; Tizeti 810; Sactis Ghana 45; Orange business 22; Vodafone (2021)<br>
-_subscriptions per 100 inhabitants_: 0.25 less than 1 (2021 est.)<br>
+_total_: 78,371 (2021) Total fixed broadband subscriptions from Vodafone 62,284; AirtelTigo 700; MTN 14,038; Mainone 111; Simba Fibre 41; K-Net 310; Tizeti 810; Sactis Ghana 45; Orange business 22; Vodafone<br>
+_subscriptions per 100 inhabitants_: 0.25 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -678,16 +685,16 @@ _914 to 1,523 m_: 3 (2021)<br>
 
 **Railways**<br>
 _total_: 1,300 km (2014)<br>
-_narrow gauge_: 947 km 1.067-m gauge (2014)<br>
+_narrow gauge_: 947 km (2014) 1.067-m gauge<br>
 
 **Roadways**<br>
 _total_: 94,203 km (2021)<br>
 _paved_: 14,948 km (2021)<br>
 _unpaved_: 50,777 km (2021)<br>
-_urban_: 28,480 km 27% total paved 73% total unpaved <br>
+_urban_: 28,480 km 27% total paved 73% total unpaved<br>
 
 **Waterways**<br>
-1,293 km (168 km for launches and lighters on Volta, Ankobra, and Tano Rivers; 1,125 km of arterial and feeder waterways on Lake Volta) (2011)<br>
+1,293 km (2011) (168 km for launches and lighters on Volta, Ankobra, and Tano Rivers; 1,125 km of arterial and feeder waterways on Lake Volta)<br>
 
 **Merchant marine**<br>
 _total_: 51<br>
@@ -703,10 +710,10 @@ Ghana Armed Forces: Army, Navy, Air Force (2021)<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>
-0.4% of GDP (approximately $360 million) (2019)<br>
-0.3% of GDP (approximately $330 million) (2018)<br>
-0.3% of GDP (approximately $300 million) (2017)<br>
-0.3% of GDP (approximately $300 million) (2016)<br>
+0.4% of GDP (2019) (approximately $360 million)<br>
+0.3% of GDP (2018) (approximately $330 million)<br>
+0.3% of GDP (2017) (approximately $300 million)<br>
+0.3% of GDP (2016) (approximately $300 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>

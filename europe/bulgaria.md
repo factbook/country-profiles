@@ -78,6 +78,9 @@ earthquakes; landslides<br>
 **Geography - note**<br>
 strategic location near Turkish Straits; controls key land routes from Europe to Middle East and Asia<br>
 
+**Map description**<br>
+<p>Bulgaria map showing major cities as well as parts of surrounding countries and the Black Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -103,7 +106,7 @@ _0-14 years_: 14.52% (male 520,190/female 491,506)<br>
 _15-24 years_: 9.4% (male 340,306/female 314,241)<br>
 _25-54 years_: 42.87% (male 1,538,593/female 1,448,080)<br>
 _55-64 years_: 13.15% (male 433,943/female 482,474)<br>
-_65 years and over_: 20.06% (male 562,513/female 835,053) (2020 est.)<br>
+_65 years and over_: 20.06% (2020 est.) (male 562,513/female 835,053)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 56.6<br>
@@ -195,13 +198,13 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2019 est.)<br>
+(2019 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 3,300 (2019 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2019 est.)<br>
+(2019 est.) <100<br>
 
 **Obesity - adult prevalence rate**<br>
 25% (2016)<br>
@@ -354,7 +357,7 @@ Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgarian Agrarian People’s
 Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Tihomir Anguelov STOYTCHEV (since 27 June 2016)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Stefka Ivanova YOVCHEVA, Counselor<br>
 _chancery_: 1621 22nd Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 387-0174; [1] (202) 299-0273, [1] (202) 483-1386<br>
 _FAX_: [1] (202) 234-7973<br>
@@ -494,9 +497,9 @@ $2.06 billion (2019 est.)<br>
 $611 million (2018 est.)<br>
 
 **Exports**<br>
-$39.27 billion note: data are in current year dollars (2020 est.)<br>
-$44.04 billion note: data are in current year dollars (2019 est.)<br>
-$43.52 billion note: data are in current year dollars (2018 est.)<br>
+$39.27 billion (2020 est.) note: data are in current year dollars<br>
+$44.04 billion (2019 est.) note: data are in current year dollars<br>
+$43.52 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 16%, Romania 8%, Italy 7%, Turkey 7%, Greece 6% (2019)<br>
@@ -505,9 +508,9 @@ Germany 16%, Romania 8%, Italy 7%, Turkey 7%, Greece 6% (2019)<br>
 refined petroleum, packaged medicines, copper, wheat, electricity (2019)<br>
 
 **Imports**<br>
-$38.07 billion note: data are in current year dollars (2020 est.)<br>
-$41.84 billion note: data are in current year dollars (2019 est.)<br>
-$41.91 billion note: data are in current year dollars (2018 est.)<br>
+$38.07 billion (2020 est.) note: data are in current year dollars<br>
+$41.84 billion (2019 est.) note: data are in current year dollars<br>
+$41.91 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 11%, Russia 9%, Italy 7%, Romania 7%, Turkey 7% (2019)<br>
@@ -624,8 +627,12 @@ _international_: country code - 359; Caucasus Cable System via submarine cable p
 **Internet country code**<br>
 .bg<br>
 
+**Internet users**<br>
+_total_: 4,853,811 (2020 est.)<br>
+_percent of population_: 70% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
-_total_: 2,115,053 Information provided by 91,03% of the undertakings. Dedicated access included. (2021)<br>
+_total_: 2,115,053 (2021) Information provided by 91,03% of the undertakings. Dedicated access included.<br>
 _subscriptions per 100 inhabitants_: 30.44 (2021)<br>
 
 ## Transportation
@@ -634,7 +641,7 @@ _subscriptions per 100 inhabitants_: 30.44 (2021)<br>
 _number of registered air carriers_: 8 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 44<br>
 _annual passenger traffic on registered air carriers_: 1,022,645 (2018)<br>
-_annual freight traffic on registered air carriers_: 1.38 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 1.38 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 LZ<br>
@@ -662,12 +669,12 @@ _under 914 m_: 9 (2021)<br>
 
 **Railways**<br>
 _total_: 5,114 km (2014)<br>
-_standard gauge_: 4,989 km 1.435-m gauge (2,880 km electrified) (2014)<br>
-_narrow gauge_: 125 km 0.760-m gauge (2014)<br>
+_standard gauge_: 4,989 km (2014) 1.435-m gauge (2,880 km electrified)<br>
+_narrow gauge_: 125 km (2014) 0.760-m gauge<br>
 
 **Roadways**<br>
 _total_: 19,512 km (2011)<br>
-_paved_: 19,235 km (includes 458 km of expressways) (2011)<br>
+_paved_: 19,235 km (2011) (includes 458 km of expressways)<br>
 _unpaved_: 277 km (2011)<br>
 <strong>note:</strong> does not include Category IV local roads<br>
 
@@ -689,9 +696,9 @@ Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
 1.6% of GDP (2020)<br>
-3.1% of GDP (approximately $2.95 billion) (2019)<br>
-1.5% of GDP (approximately $1.72 billion) (2018)<br>
-1.2% of GDP (approximately $1.5 billion) (2017)<br>
+3.1% of GDP (2019) (approximately $2.95 billion)<br>
+1.5% of GDP (2018) (approximately $1.72 billion)<br>
+1.2% of GDP (2017) (approximately $1.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 30,000 active duty personnel (16,000 Army; 4,000 Navy; 7,000 Air Force; 3,000 other, joint staff, support) (2021)<br>

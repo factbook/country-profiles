@@ -79,6 +79,9 @@ earthquakes; mudslides; droughts; dust storms; floods<br>
 **Geography - note**<br>
 landlocked; the western and central low-lying desolate portions of the country make up the great Garagum (Kara-Kum) desert, which occupies over 80% of the country; eastern part is plateau<br>
 
+**Map description**<br>
+<p>Turkmenistan map showing major population centers as well as parts of surrounding countries and the Caspian Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -104,7 +107,7 @@ _0-14 years_: 25.44% (male 713,441/female 693,042)<br>
 _15-24 years_: 16.48% (male 458,566/female 452,469)<br>
 _25-54 years_: 44.14% (male 1,214,581/female 1,226,027)<br>
 _55-64 years_: 8.56% (male 221,935/female 251,238)<br>
-_65 years and over_: 5.38% (male 129,332/female 167,996) (2020 est.)<br>
+_65 years and over_: 5.38% (2020 est.) (male 129,332/female 167,996)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 55.2<br>
@@ -403,8 +406,8 @@ $81.787 billion (2017 est.)<br>
 6.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$15,500 note: data are in 2017 dollars (2019 est.)<br>
-$14,800 note: data are in 2017 dollars (2018 est.)<br>
+$15,500 (2019 est.) note: data are in 2017 dollars<br>
+$14,800 (2018 est.) note: data are in 2017 dollars<br>
 $14,205 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -608,9 +611,13 @@ broadcast media is government controlled and censored; 7 state-owned TV and 4 st
 **Internet country code**<br>
 .tm<br>
 
+**Internet users**<br>
+_total_: 1,247,940 (2019 est.)<br>
+_percent of population_: 21% (2019 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 10,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.17 less than 1 (2021 est.)<br>
+_subscriptions per 100 inhabitants_: 0.17 (2021 est.) less than 1<br>
 
 ## Transportation
 
@@ -618,7 +625,7 @@ _subscriptions per 100 inhabitants_: 0.17 less than 1 (2021 est.)<br>
 _number of registered air carriers_: 1 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 27<br>
 _annual passenger traffic on registered air carriers_: 2,457,474 (2018)<br>
-_annual freight traffic on registered air carriers_: 16.92 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 16.92 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 EZ<br>
@@ -646,7 +653,7 @@ _under 914 m_: 4 (2021)<br>
 
 **Railways**<br>
 _total_: 5,113 km (2017)<br>
-_broad gauge_: 5,113 km 1.520-m gauge (2017)<br>
+_broad gauge_: 5,113 km (2017) 1.520-m gauge<br>
 
 **Roadways**<br>
 _total_: 58,592 km (2002)<br>
@@ -654,7 +661,7 @@ _paved_: 47,577 km (2002)<br>
 _unpaved_: 11,015 km (2002)<br>
 
 **Waterways**<br>
-1,300 km (Amu Darya River and Kara Kum Canal are important inland waterways) (2011)<br>
+1,300 km (2011) (Amu Darya River and Kara Kum Canal are important inland waterways)<br>
 
 **Merchant marine**<br>
 _total_: 73<br>
@@ -669,11 +676,11 @@ _major seaport(s)_: Caspian Sea - Turkmenbasy<br>
 Armed Forces of Turkmenistan: Land Forces, Navy, Air and Air Defense Forces; Federal Border Guard Service (2021)<br>
 
 **Military expenditures**<br>
-1% of GDP (2020 est.)<br>
-1.9% of GDP (approximately $1.54 billion) (2019 est.)<br>
-1.8% of GDP (approximately $1.45 billion) (2018 est.)<br>
-1.8% of GDP (approximately $1.32 billion) (2017 est.)<br>
-1.8% of GDP (approximately $1.3 billion) (2016 est.)<br>
+1.9% of GDP (2019 est.) (approximately $1.54 billion)<br>
+1.8% of GDP (2018 est.) (approximately $1.45 billion)<br>
+1.8% of GDP (2017 est.) (approximately $1.32 billion)<br>
+1.8% of GDP (2016 est.) (approximately $1.3 billion)<br>
+1.5% of GDP (2015 est.) (approximately $1.1 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 30,000 active troops (est. 25,000 National Army; 1,000 Navy; 4,000 Air and Air Defense Forces) (2021)<br>

@@ -63,6 +63,9 @@ typhoons<br>
 **Geography - note**<br>
 composed of 130 small coral islands and reefs divided into the northeast Amphitrite Group and the western Crescent Group<br>
 
+**Map description**<br>
+<p>Paracel Islands map showing the major islands of this archipelago in the South China Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -89,7 +92,7 @@ _potential support ratio_: NA<br>
 NA<br>
 
 **Death rate**<br>
-NA (2021 est.)<br>
+(2021 est.) NA<br>
 
 **Net migration rate**<br>
 -0.66 migrant(s)/1,000 population (2021 est.)<br>

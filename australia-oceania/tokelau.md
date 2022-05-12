@@ -69,6 +69,9 @@ lies in Pacific cyclone belt<br>
 **Geography - note**<br>
 consists of three atolls (Atafu, Fakaofo, Nukunonu), each with a lagoon surrounded by a number of reef-bound islets of varying length and rising to over 3 m above sea level<br>
 
+**Map description**<br>
+<p>Tokelau map shows the three atolls that make up this New Zealand territory in the South Pacific Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -123,15 +126,15 @@ NA<br>
 **Infant mortality rate**<br>
 _total_: NA<br>
 _male_: NA<br>
-_female_: NA (2021 est.)<br>
+_female_: (2021 est.) NA<br>
 
 **Life expectancy at birth**<br>
 _total population_: NA<br>
 _male_: NA<br>
-_female_: NA (2021 est.)<br>
+_female_: (2021 est.) NA<br>
 
 **Total fertility rate**<br>
-NA (2021 est.)<br>
+(2021 est.) NA<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
@@ -387,6 +390,10 @@ Sky TV access for around 30% of the population; each atoll operates a radio serv
 
 **Internet country code**<br>
 .tk<br>
+
+**Internet users**<br>
+_total_: 805 (2019 est.)<br>
+_percent of population_: 58% (2019 est.)<br>
 
 ## Transportation
 

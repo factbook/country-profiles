@@ -59,6 +59,9 @@ katabatic (gravity-driven) winds blow coastward from the high interior; frequent
 **Geography - note**<br>
 the coldest, windiest, highest (on average), and driest continent; during summer, more solar radiation reaches the surface at the South Pole than is received at the Equator in an equivalent period <br><br>mostly uninhabitable, 99% of the land area is covered by the Antarctic ice sheet, the largest single mass of ice on earth covering an area of 14 million sq km (5.4 million sq mi) and containing 26.5 million cu km (6.4 million cu mi) of ice (this is almost 62% of all of the world's fresh water); if all this ice were converted to liquid water, one estimate is that it would be sufficient to raise the height of the world's oceans by 58 m (190 ft)<br>
 
+**Map description**<br>
+<p>Antarctica map showing the continent and its major regions (Lands) surrounded by the Southern Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -110,6 +113,10 @@ _international_: country code - none allocated; via satellite (including mobile 
 
 **Internet country code**<br>
 .aq<br>
+
+**Internet users**<br>
+_total_: 4,400 (2016 est.)<br>
+_percent of population_: 100% (2016 est.)<br>
 
 ## Transportation
 

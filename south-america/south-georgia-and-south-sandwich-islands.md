@@ -62,10 +62,13 @@ the South Sandwich Islands have prevailing weather conditions that generally mak
 **Geography - note**<br>
 the north coast of South Georgia has several large bays, which provide good anchorage<br>
 
+**Map description**<br>
+<p>South Georgia and South Sandwich Islands map showing the islands that make up this UK territory in the South Atlantic Ocean.</p><br>
+
 ## People and Society
 
 **Population**<br>
-no indigenous inhabitants (July 2021 est.)<br>
+(July 2021 est.) no indigenous inhabitants<br>
 <strong>note:</strong> the small military garrison on South Georgia withdrew in March 2001, replaced by a permanent group of scientists of the British Antarctic Survey, which also has a biological station on Bird Island; the South Sandwich Islands are uninhabited<br>
 
 **Dependency ratios**<br>
@@ -78,7 +81,7 @@ _potential support ratio_: NA<br>
 NA<br>
 
 **Death rate**<br>
-NA (2021 est.)<br>
+(2021 est.) NA<br>
 
 **Net migration rate**<br>
 5.9 migrant(s)/1,000 population (2021 est.)<br>

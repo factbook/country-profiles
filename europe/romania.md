@@ -79,6 +79,9 @@ earthquakes, most severe in south and southwest; geologic structure and climate 
 **Geography - note**<br>
 controls the most easily traversable land route between the Balkans, Moldova, and Ukraine; the Carpathian Mountains dominate the center of the country, while the Danube River forms much of the southern boundary with Serbia and Bulgaria<br>
 
+**Map description**<br>
+<p>Romania map showing major cities as well as parts of surrounding countries and the Black Sea.</p><br>
+
 ## People and Society
 
 **Population**<br>
@@ -104,7 +107,7 @@ _0-14 years_: 14.12% (male 1,545,196/female 1,463,700)<br>
 _15-24 years_: 10.31% (male 1,126,997/female 1,068,817)<br>
 _25-54 years_: 46.26% (male 4,993,886/female 4,860,408)<br>
 _55-64 years_: 11.73% (male 1,176,814/female 1,322,048)<br>
-_65 years and over_: 17.58% (male 1,516,472/female 2,228,555) (2020 est.)<br>
+_65 years and over_: 17.58% (2020 est.) (male 1,516,472/female 2,228,555)<br>
 
 **Dependency ratios**<br>
 _total dependency ratio_: 53.3<br>
@@ -203,7 +206,7 @@ _unimproved: total_: total: 12.7% of population (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;500 (2020 est.)<br>
+(2020 est.) &lt;500<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -496,9 +499,9 @@ calendar year<br>
 -$10.78 billion (2018 est.)<br>
 
 **Exports**<br>
-$93.01 billion note: data are in current year dollars (2020 est.)<br>
-$100.9 billion note: data are in current year dollars (2019 est.)<br>
-$101.11 billion note: data are in current year dollars (2018 est.)<br>
+$93.01 billion (2020 est.) note: data are in current year dollars<br>
+$100.9 billion (2019 est.) note: data are in current year dollars<br>
+$101.11 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exports - partners**<br>
 Germany 22%, Italy 10%, France 7% (2019)<br>
@@ -507,9 +510,9 @@ Germany 22%, Italy 10%, France 7% (2019)<br>
 cars and vehicle parts, insulated wiring, refined petroleum, electrical control boards, seats (2019)<br>
 
 **Imports**<br>
-$104.16 billion note: data are in current year dollars (2020 est.)<br>
-$111.18 billion note: data are in current year dollars (2019 est.)<br>
-$109.26 billion note: data are in current year dollars (2018 est.)<br>
+$104.16 billion (2020 est.) note: data are in current year dollars<br>
+$111.18 billion (2019 est.) note: data are in current year dollars<br>
+$109.26 billion (2018 est.) note: data are in current year dollars<br>
 
 **Imports - partners**<br>
 Germany 19%, Italy 9%, Hungary 7%, Poland 6%, China 5%, France 5% (2019)<br>
@@ -626,6 +629,10 @@ a mixture of public and private TV stations; there are 7 public TV stations (2 n
 **Internet country code**<br>
 .ro<br>
 
+**Internet users**<br>
+_total_: 15,020,866 (2020 est.)<br>
+_percent of population_: 78% (2020 est.)<br>
+
 **Broadband - fixed subscriptions**<br>
 _total_: 5,684,782 (2021)<br>
 _subscriptions per 100 inhabitants_: 29.55 (2021)<br>
@@ -636,7 +643,7 @@ _subscriptions per 100 inhabitants_: 29.55 (2021)<br>
 _number of registered air carriers_: 8 (2020)<br>
 _inventory of registered aircraft operated by air carriers_: 60<br>
 _annual passenger traffic on registered air carriers_: 4,908,235 (2018)<br>
-_annual freight traffic on registered air carriers_: 2.71 million mt-km (2018)<br>
+_annual freight traffic on registered air carriers_: 2.71 million (2018) mt-km<br>
 
 **Civil aircraft registration country code prefix**<br>
 YR<br>
@@ -664,17 +671,17 @@ _under 914 m_: 14 (2021)<br>
 
 **Railways**<br>
 _total_: 11,268 km (2014)<br>
-_standard gauge_: 10,781 km 1.435-m gauge (3,292 km electrified) (2014)<br>
-_narrow gauge_: 427 km 0.760-m gauge (2014)<br>
-_broad gauge_: 60 km 1.524-m gauge (2014)<br>
+_standard gauge_: 10,781 km (2014) 1.435-m gauge (3,292 km electrified)<br>
+_narrow gauge_: 427 km (2014) 0.760-m gauge<br>
+_broad gauge_: 60 km (2014) 1.524-m gauge<br>
 
 **Roadways**<br>
 _total_: 84,185 km (2012)<br>
-_paved_: 49,873 km (includes 337 km of expressways) (2012)<br>
+_paved_: 49,873 km (2012) (includes 337 km of expressways)<br>
 _unpaved_: 34,312 km (2012)<br>
 
 **Waterways**<br>
-1,731 km (includes 1,075 km on the Danube River, 524 km on secondary branches, and 132 km on canals) (2010)<br>
+1,731 km (2010) (includes 1,075 km on the Danube River, 524 km on secondary branches, and 132 km on canals)<br>
 
 **Merchant marine**<br>
 _total_: 121<br>
@@ -692,9 +699,9 @@ Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Interna
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
 2% of GDP (2020)<br>
-1.8% of GDP (approximately $7.47 billion) (2019)<br>
-1.8% of GDP (approximately $6.9 billion) (2018)<br>
-1.7% of GDP (approximately $6.2 billion) (2017)<br>
+1.8% of GDP (2019) (approximately $7.47 billion)<br>
+1.8% of GDP (2018) (approximately $6.9 billion)<br>
+1.7% of GDP (2017) (approximately $6.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Romanian Armed Forces have approximately 67,000 active duty personnel (50,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2021)<br>
@@ -709,7 +716,7 @@ conscription ended 2006; 18 years of age for male and female voluntary service; 
 up to 120 Poland (NATO) (2022)<br>
 
 **Military - note**<br>
-Romania officially became a member of NATO in 2004<br><br>Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 <br> <p>Romania hosts a NATO multinational divisional (Multinational Division Southeast; became operational in 2017) and a brigade-sized headquarters as part of NATO's tailored forward presence in the southeastern part of the Alliance</p><br>
+Romania officially became a member of NATO in 2004<br><br>Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 <br><br>Romania hosts a NATO multinational divisional (Multinational Division Southeast; became operational in 2017) and a brigade-sized headquarters as part of NATO's tailored forward presence in the southeastern part of the Alliance<br>
 
 ## Terrorism
 
@@ -723,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 846,521 (Ukraine) (as of 3 May 2022)<br>
+_refugees (country of origin)_: 883,655 (Ukraine) (as of 9 May 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 9,825 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
