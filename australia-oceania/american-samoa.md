@@ -302,7 +302,7 @@ _lyrics/music_: Mariota Tiumalu TUIASOSOPO/Napoleon Andrew TUITELELEAPAGA<br>
 ## Economy
 
 **Economic overview**<br>
-<p>American Samoa s a traditional Polynesian economy in which more than 90% of the land is communally owned. Economic activity is strongly linked to the US with which American Samoa conducts most of its commerce. Tuna fishing and processing are the backbone of the private sector with processed fish products as the primary exports. The fish processing business accounted for 15.5% of employment in 2015.</p><p></p><p>In late September 2009, an earthquake and the resulting tsunami devastated American Samoa and nearby Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. The US Federal Emergency Management Agency oversaw a relief program of nearly $25 million. Transfers from the US Government add substantially to American Samoa's economic well-being.</p><p></p><p>Attempts by the government to develop a larger and broader economy are restrained by Samoa's remote location, its limited transportation, and its devastating hurricanes. Tourism has some potential as a source of income and jobs.</p><br>
+<p>American Samoa s a traditional Polynesian economy in which more than 90% of the land is communally owned. Economic activity is strongly linked to the US with which American Samoa conducts most of its commerce. Tuna fishing and processing are the backbone of the private sector with processed fish products as the primary exports. The fish processing business accounted for 15.5% of employment in 2015.</p> <p> </p> <p>In late September 2009, an earthquake and the resulting tsunami devastated American Samoa and nearby Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. The US Federal Emergency Management Agency oversaw a relief program of nearly $25 million. Transfers from the US Government add substantially to American Samoa's economic well-being.</p> <p> </p> <p>Attempts by the government to develop a larger and broader economy are restrained by Samoa's remote location, its limited transportation, and its devastating hurricanes. Tourism has some potential as a source of income and jobs.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $658 million (2016 est.)<br>
@@ -480,12 +480,12 @@ raw materials for canneries, food, petroleum products, machinery and parts<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 10,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 17.92 (2018 est.)<br>
+_total subscriptions_: 10,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 2,250 (2009 est.)<br>
-_subscriptions per 100 inhabitants_: 3.8 (2009 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2009 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good telex, telegraph, facsimile, and cellular telephone services; one of the most complete and modern telecommunications systems in the South Pacific Islands; all inhabited islands have telephone connectivity<br>

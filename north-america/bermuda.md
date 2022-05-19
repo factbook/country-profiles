@@ -330,7 +330,7 @@ _selected World Heritage Site locales_: Historic Town of St George and Related F
 ## Economy
 
 **Economic overview**<br>
-<p>International business, which consists primarily of insurance and other financial services, is the real bedrock of Bermuda's economy, consistently accounting for about 85% of the island's GDP. Tourism is the country’s second largest industry, accounting for about 5% of Bermuda's GDP but a much larger share of employment. Over 80% of visitors come from the US and the sector struggled in the wake of the global recession of 2008-09. Even the financial sector has lost roughly 5,000 high-paying expatriate jobs since 2008, weighing heavily on household consumption and retail sales. Bermuda must import almost everything. Agriculture and industry are limited due to the small size of the island.</p><p></p><p>Bermuda's economy returned to negative growth in 2016, reporting a contraction of 0.1% GDP, after growing by 0.6% in 2015. Unemployment reached 7% in 2016 and 2017, public debt is growing and exceeds $2.4 billion, and the government continues to work on attracting foreign investment. Still, Bermuda enjoys one of the highest per capita incomes in the world.</p><br>
+<p>International business, which consists primarily of insurance and other financial services, is the real bedrock of Bermuda's economy, consistently accounting for about 85% of the island's GDP. Tourism is the country’s second largest industry, accounting for about 5% of Bermuda's GDP but a much larger share of employment. Over 80% of visitors come from the US and the sector struggled in the wake of the global recession of 2008-09. Even the financial sector has lost roughly 5,000 high-paying expatriate jobs since 2008, weighing heavily on household consumption and retail sales. Bermuda must import almost everything. Agriculture and industry are limited due to the small size of the island.</p> <p> </p> <p>Bermuda's economy returned to negative growth in 2016, reporting a contraction of 0.1% GDP, after growing by 0.6% in 2015. Unemployment reached 7% in 2016 and 2017, public debt is growing and exceeds $2.4 billion, and the government continues to work on attracting foreign investment. Still, Bermuda enjoys one of the highest per capita incomes in the world.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $5.23 billion (2019 est.) note: data are in 2017 dollars<br>
@@ -532,12 +532,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 21,883 (2018)<br>
-_subscriptions per 100 inhabitants_: 34.71 (2018 est.)<br>
+_total subscriptions_: 25,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 40 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 64,997 (2018)<br>
-_subscriptions per 100 inhabitants_: 103.1 (2019 est.)<br>
+_total subscriptions_: 68,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 109 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a good, fully automatic digital telephone system with fiber-optic trunk lines; telecom sector provides a relatively high contribution to overall GDP; numerous competitors licensed, but small and localized; telecom sector a growth area across the Caribbean (2020)<br>
@@ -556,8 +556,8 @@ _total_: 62,625 (2020 est.)<br>
 _percent of population_: 98% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 23,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 36.93 (2021)<br>
+_total_: 23,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
 
 ## Transportation
 

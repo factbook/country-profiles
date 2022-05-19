@@ -303,7 +303,7 @@ _lyrics/music_: Gerard LE FEUVRE<br>
 ## Economy
 
 **Economic overview**<br>
-Jersey's economy is based on international financial services, agriculture, and tourism. In 2016, the financial services sector accounted for about 41% of the island's output. Agriculture represented about 1% of Jersey’s economy in 2016. Potatoes are an important export crop, shipped mostly to the UK. The Jersey breed of dairy cattle originated on the island and is known worldwide. The dairy industry remains important to the island with approximately $8.8 million gallons of milk produced in 2015. Tourism accounts for a significant portion of Jersey’s economy, with more than 700,000 total visitors in 2015. Living standards come close to those of the UK. All raw material and energy requirements are imported as well as a large share of Jersey's food needs. Light taxes and death duties make the island a popular offshore financial center. Jersey maintains its relationship with the EU through the UK. Therefore, in light of the UK’s decision to leave the EU, Jersey will also need to renegotiate its ties to the EU.<br>
+Jersey's economy is based on international financial services, agriculture, and tourism. In 2016, the financial services sector accounted for about 41% of the island's output. Agriculture represented about 1% of Jersey&rsquo;s economy in 2016. Potatoes are an important export crop, shipped mostly to the UK. The Jersey breed of dairy cattle originated on the island and is known worldwide. The dairy industry remains important to the island with approximately $8.8 million gallons of milk produced in 2015. Tourism accounts for a significant portion of Jersey&rsquo;s economy, with more than 700,000 total visitors in 2015. Living standards come close to those of the UK. All raw material and energy requirements are imported as well as a large share of Jersey's food needs. Light taxes and death duties make the island a popular offshore financial center. Jersey maintains its relationship with the EU through the UK. Therefore, in light of the UK&rsquo;s decision to leave the EU, Jersey will also need to renegotiate its ties to the EU.<br>
 
 **Real GDP (purchasing power parity)**<br>
 $5.569 billion (2016 est.)<br>
@@ -412,8 +412,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 48,310 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
+_total subscriptions_: 48,310 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 122,668 (2016)<br>
@@ -436,8 +436,8 @@ _total_: 44,198 (2019 est.)<br>
 _percent of population_: 41% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 39,699 (2020) NA<br>
-_subscriptions per 100 inhabitants_: 36.8 (2020) NA<br>
+_total_: 39,699 (2020 est.) NA<br>
+_subscriptions per 100 inhabitants_: 37 (2020 est.) NA<br>
 
 ## Transportation
 

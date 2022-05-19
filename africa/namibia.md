@@ -409,7 +409,7 @@ _selected World Heritage Site locales_: Twyfelfontein or /Ui-//aes (c), Namib Sa
 ## Economy
 
 **Economic overview**<br>
-<p>Namibia’s economy is heavily dependent on the extraction and processing of minerals for export. Mining accounts for about 12.5% of GDP, but provides more than 50% of foreign exchange earnings. Rich alluvial diamond deposits make Namibia a primary source for gem-quality diamonds. Marine diamond mining is increasingly important as the terrestrial diamond supply has dwindled. The rising cost of mining diamonds, especially from the sea, combined with increased diamond production in Russia and China, has reduced profit margins. Namibian authorities have emphasized the need to add value to raw materials, do more in-country manufacturing, and exploit the services market, especially in the logistics and transportation sectors.</p><p></p><p>Namibia is one of the world’s largest producers of uranium. The Chinese-owned Husab uranium mine began producing uranium ore in 2017, and is expected to reach full production in August 2018 and produce 15 million pounds of uranium a year. Namibia also produces large quantities of zinc and is a smaller producer of gold and copper. Namibia's economy remains vulnerable to world commodity price fluctuations and drought.</p><p></p><p>Namibia normally imports about 50% of its cereal requirements; in drought years, food shortages are problematic in rural areas. A high per capita GDP, relative to the region, obscures one of the world's most unequal income distributions; the current government has prioritized exploring wealth redistribution schemes while trying to maintain a pro-business environment. GDP growth in 2017 slowed to about 1%, however, due to contractions in both the construction and mining sectors, as well as an ongoing drought. Growth is expected to recover modestly in 2018.</p><p></p><p>A five-year Millennium Challenge Corporation compact ended in September 2014. As an upper middle income country, Namibia is ineligible for a second compact. The Namibian economy is closely linked to South Africa with the Namibian dollar pegged one-to-one to the South African rand. Namibia receives 30%-40% of its revenues from the Southern African Customs Union (SACU); volatility in the size of Namibia's annual SACU allotment and global mineral prices complicates budget planning.</p><br>
+<p>Namibia’s economy is heavily dependent on the extraction and processing of minerals for export. Mining accounts for about 12.5% of GDP, but provides more than 50% of foreign exchange earnings. Rich alluvial diamond deposits make Namibia a primary source for gem-quality diamonds. Marine diamond mining is increasingly important as the terrestrial diamond supply has dwindled. The rising cost of mining diamonds, especially from the sea, combined with increased diamond production in Russia and China, has reduced profit margins. Namibian authorities have emphasized the need to add value to raw materials, do more in-country manufacturing, and exploit the services market, especially in the logistics and transportation sectors.</p> <p> </p> <p>Namibia is one of the world’s largest producers of uranium. The Chinese-owned Husab uranium mine began producing uranium ore in 2017, and is expected to reach full production in August 2018 and produce 15 million pounds of uranium a year. Namibia also produces large quantities of zinc and is a smaller producer of gold and copper. Namibia's economy remains vulnerable to world commodity price fluctuations and drought.</p> <p> </p> <p>Namibia normally imports about 50% of its cereal requirements; in drought years, food shortages are problematic in rural areas. A high per capita GDP, relative to the region, obscures one of the world's most unequal income distributions; the current government has prioritized exploring wealth redistribution schemes while trying to maintain a pro-business environment. GDP growth in 2017 slowed to about 1%, however, due to contractions in both the construction and mining sectors, as well as an ongoing drought. Growth is expected to recover modestly in 2018.</p> <p> </p> <p>A five-year Millennium Challenge Corporation compact ended in September 2014. As an upper middle income country, Namibia is ineligible for a second compact. The Namibian economy is closely linked to South Africa with the Namibian dollar pegged one-to-one to the South African rand. Namibia receives 30%-40% of its revenues from the Southern African Customs Union (SACU); volatility in the size of Namibia's annual SACU allotment and global mineral prices complicates budget planning.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $22.6 billion (2020 est.)<br>
@@ -626,8 +626,8 @@ _electrification - rural areas_: 36% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 141,334 (2020)<br>
-_subscriptions per 100 inhabitants_: 5.56 (2020 est.)<br>
+_total subscriptions_: 140,370 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 2,594,382 (2020)<br>
@@ -650,8 +650,8 @@ _total_: 1,041,776 (2020 est.)<br>
 _percent of population_: 41% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 71,063 (2021)<br>
-_subscriptions per 100 inhabitants_: 2.8 (2021)<br>
+_total_: 71,063 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 ## Transportation
 
@@ -702,11 +702,11 @@ _major seaport(s)_: Luderitz, Walvis Bay<br>
 Namibian Defense Force (NDF): Army, Navy, Air Force<br><br>Ministry of Safety and Security: Namibian Police Force (includes a paramilitary Special Field Force responsible for protecting borders and government installations) (2021)<br>
 
 **Military expenditures**<br>
+3% of GDP (2021 est.)<br>
 3.4% of GDP (2020 est.)<br>
 3.3% of GDP (2019) (approximately $620 million)<br>
 3.4% of GDP (2018) (approximately $640 million)<br>
 3.6% of GDP (2017) (approximately $670 million)<br>
-4.1% of GDP (2016) (approximately $750 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2021)<br>

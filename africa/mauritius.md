@@ -585,8 +585,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 478,700 (2020)<br>
-_subscriptions per 100 inhabitants_: 37.64 (2020 est.)<br>
+_total subscriptions_: 478,700 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 38 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1,912,900 (2019)<br>
@@ -609,8 +609,8 @@ _total_: 822,731 (2020 est.)<br>
 _percent of population_: 65% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 323,200 (2021)<br>
-_subscriptions per 100 inhabitants_: 25.41 (2021)<br>
+_total_: 323,200 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 25 (2020 est.)<br>
 
 ## Transportation
 
@@ -654,11 +654,11 @@ _major seaport(s)_: Port Louis<br>
 no regular military forces; the Mauritius Police Force (MPF) includes a paramilitary unit known as the Special Mobile Force, which includes a motorized infantry battalion and 2 light armored squadrons; the MPF also has a Police Helicopter Squadron, a Special Support Unit (riot police), and the National Coast Guard (also includes an air squadron) (2021)<br>
 
 **Military expenditures**<br>
+0.2% of GDP (2021 est.)<br>
 0.2% of GDP (2020 est.)<br>
 0.3% of GDP (2019 est.) (approximately $80 million)<br>
 0.3% of GDP (2018 est.) (approximately $80 million)<br>
 0.3% of GDP (2017 est.) (approximately $80 million)<br>
-0.3% of GDP (2016 est.) (approximately $80 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,700 Special Mobile Force; approximately 800 National Coast Guard (2021)<br>

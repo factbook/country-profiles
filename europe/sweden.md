@@ -595,8 +595,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,624,271 (2020)<br>
-_subscriptions per 100 inhabitants_: 16.08 (2020 est.)<br>
+_total subscriptions_: 1,478,610 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 12,895,900 (2019)<br>
@@ -619,8 +619,8 @@ _total_: 9,835,769 (2020 est.)<br>
 _percent of population_: 95% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,179,574 (2021)<br>
-_subscriptions per 100 inhabitants_: 41.38 (2021)<br>
+_total_: 4,179,574 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 41 (2020 est.)<br>
 
 ## Transportation
 

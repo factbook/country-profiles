@@ -516,8 +516,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 466,283 (2020 est.) (includes Gaza Strip) (2017 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (2020 est.) (includes Gaza Strip) (2016 est.)<br>
+_total subscriptions_: 466,283 (2020 est.) includes Gaza Strip<br>
+_subscriptions per 100 inhabitants_: 9 (2020 est.) includes Gaza Strip<br>
 <strong>note</strong>: includes Gaza Strip<br>
 
 **Telephones - mobile cellular**<br>
@@ -543,7 +543,7 @@ _percent of population_: 75% (2020 est.) (includes Gaza Strip)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 373,050 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 7.31 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 ## Transportation

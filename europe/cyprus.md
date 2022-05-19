@@ -389,7 +389,7 @@ _selected World Heritage Site locales_: Paphos, Painted Churches in the Troodos 
 ## Economy
 
 **Economic overview**<br>
-<p>The area of the Republic of Cyprus under government control has a market economy dominated by a services sector that accounts for more than four-fifths of GDP. Tourism, finance, shipping, and real estate have traditionally been the most important services. Cyprus has been a member of the EU since May 2004 and adopted the euro as its national currency in January 2008.</p><p></p><p>During the first five years of EU membership, the Cyprus economy grew at an average rate of about 4%, with unemployment between 2004 and 2008 averaging about 4%. However, the economy tipped into recession in 2009 as the ongoing global financial crisis and resulting low demand hit the tourism and construction sectors. An overextended banking sector with excessive exposure to Greek debt added to the contraction. Cyprus’ biggest two banks were among the largest holders of Greek bonds in Europe and had a substantial presence in Greece through bank branches and subsidiaries. Following numerous downgrades of its credit rating, Cyprus lost access to international capital markets in May 2011. In July 2012, Cyprus became the fifth euro-zone government to request an economic bailout program from the European Commission, European Central Bank and the International Monetary Fund - known collectively as the "Troika."</p><p></p><p>Shortly after the election of President Nikos ANASTASIADES in February 2013, Cyprus reached an agreement with the Troika on a $13 billion bailout that triggered a two-week bank closure and the imposition of capital controls that remained partially in place until April 2015. Cyprus' two largest banks merged and the combined entity was recapitalized through conversion of some large bank deposits to shares and imposition of losses on bank bondholders. As with other EU countries, the Troika conditioned the bailout on passing financial and structural reforms and privatizing state-owned enterprises. Despite downsizing and restructuring, the Cypriot financial sector remains burdened by the largest stock of non-performing loans in the euro zone, equal to nearly half of all loans. Since the bailout, Cyprus has received positive appraisals by the Troika and outperformed fiscal targets but has struggled to overcome political opposition to bailout-mandated legislation, particularly regarding privatizations. The rate of non-performing loans (NPLs) is still very high at around 49%, and growth would accelerate if Cypriot banks could increase the pace of resolution of the NPLs.</p><p></p><p>In October 2013, a US-Israeli consortium completed preliminary appraisals of hydrocarbon deposits in Cyprus’ exclusive economic zone (EEZ), which estimated gross mean reserves of about 130 billion cubic meters. Though exploration continues in Cyprus’ EEZ, no additional commercially exploitable reserves have been identified. Developing offshore hydrocarbon resources remains a critical component of the government’s economic recovery efforts, but development has been delayed as a result of regional developments and disagreements about exploitation methods.</p><br>
+<p>The area of the Republic of Cyprus under government control has a market economy dominated by a services sector that accounts for more than four-fifths of GDP. Tourism, finance, shipping, and real estate have traditionally been the most important services. Cyprus has been a member of the EU since May 2004 and adopted the euro as its national currency in January 2008.</p> <p> </p> <p>During the first five years of EU membership, the Cyprus economy grew at an average rate of about 4%, with unemployment between 2004 and 2008 averaging about 4%. However, the economy tipped into recession in 2009 as the ongoing global financial crisis and resulting low demand hit the tourism and construction sectors. An overextended banking sector with excessive exposure to Greek debt added to the contraction. Cyprus’ biggest two banks were among the largest holders of Greek bonds in Europe and had a substantial presence in Greece through bank branches and subsidiaries. Following numerous downgrades of its credit rating, Cyprus lost access to international capital markets in May 2011. In July 2012, Cyprus became the fifth euro-zone government to request an economic bailout program from the European Commission, European Central Bank and the International Monetary Fund - known collectively as the "Troika."</p> <p> </p> <p>Shortly after the election of President Nikos ANASTASIADES in February 2013, Cyprus reached an agreement with the Troika on a $13 billion bailout that triggered a two-week bank closure and the imposition of capital controls that remained partially in place until April 2015. Cyprus' two largest banks merged and the combined entity was recapitalized through conversion of some large bank deposits to shares and imposition of losses on bank bondholders. As with other EU countries, the Troika conditioned the bailout on passing financial and structural reforms and privatizing state-owned enterprises. Despite downsizing and restructuring, the Cypriot financial sector remains burdened by the largest stock of non-performing loans in the euro zone, equal to nearly half of all loans. Since the bailout, Cyprus has received positive appraisals by the Troika and outperformed fiscal targets but has struggled to overcome political opposition to bailout-mandated legislation, particularly regarding privatizations. The rate of non-performing loans (NPLs) is still very high at around 49%, and growth would accelerate if Cypriot banks could increase the pace of resolution of the NPLs.</p> <p> </p> <p>In October 2013, a US-Israeli consortium completed preliminary appraisals of hydrocarbon deposits in Cyprus’ exclusive economic zone (EEZ), which estimated gross mean reserves of about 130 billion cubic meters. Though exploration continues in Cyprus’ EEZ, no additional commercially exploitable reserves have been identified. Developing offshore hydrocarbon resources remains a critical component of the government’s economic recovery efforts, but development has been delayed as a result of regional developments and disagreements about exploitation methods.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $33.67 billion (2020 est.)<br>
@@ -608,8 +608,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 311,439 (2020)<br>
-_subscriptions per 100 inhabitants_: 35.07 (2020 est.)<br>
+_total subscriptions_: 311,439 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1,230,706 (2020)<br>
@@ -632,8 +632,8 @@ _total_: 1,098,699 (2020 est.)<br>
 _percent of population_: 91% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 332,080 (2021)<br>
-_subscriptions per 100 inhabitants_: 37.4 (2021 est.)<br>
+_total_: 332,080 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
 
 ## Transportation
 
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 _refugees (country of origin)_: 9,820 (Syria) (mid-year 2021)<br>
 _IDPs_: 228,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2020)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
-<strong>note:</strong> 35,683 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
+<strong>note:</strong> 37,550 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 <p>vulnerable to money laundering from illegal drugs</p> <p> </p><br>

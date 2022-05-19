@@ -413,7 +413,7 @@ _selected World Heritage Site locales_: City of Potosi (c), El Fuerte de Samaipa
 ## Economy
 
 **Economic overview**<br>
-<p>Bolivia is a resource rich country with strong growth attributed to captive markets for natural gas exports – to Brazil and Argentina. However, the country remains one of the least developed countries in Latin America because of state-oriented policies that deter investment.</p><p></p><p>Following an economic crisis during the early 1980s, reforms in the 1990s spurred private investment, stimulated economic growth, and cut poverty rates. The period 2003-05 was characterized by political instability, racial tensions, and violent protests against plans - subsequently abandoned - to export Bolivia's newly discovered natural gas reserves to large Northern Hemisphere markets. In 2005-06, the government passed hydrocarbon laws that imposed significantly higher royalties and required foreign firms then operating under risk-sharing contracts to surrender all production to the state energy company in exchange for a predetermined service fee; the laws engendered much public debate. High commodity prices between 2010 and 2014 sustained rapid growth and large trade surpluses with GDP growing 6.8% in 2013 and 5.4% in 2014. The global decline in oil prices that began in late 2014 exerted downward pressure on the price Bolivia receives for exported gas and resulted in lower GDP growth rates - 4.9% in 2015 and 4.3% in 2016 - and losses in government revenue as well as fiscal and trade deficits.</p><p></p><p>A lack of foreign investment in the key sectors of mining and hydrocarbons, along with conflict among social groups, pose challenges for the Bolivian economy. In 2015, President Evo MORALES expanded efforts to court international investment and boost Bolivia’s energy production capacity. MORALES passed an investment law and promised not to nationalize additional industries in an effort to improve the investment climate. In early 2016, the Government of Bolivia approved the 2016-2020 National Economic and Social Development Plan aimed at maintaining growth of 5% and reducing poverty.</p><br>
+<p>Bolivia is a resource rich country with strong growth attributed to captive markets for natural gas exports – to Brazil and Argentina. However, the country remains one of the least developed countries in Latin America because of state-oriented policies that deter investment.</p> <p> </p> <p>Following an economic crisis during the early 1980s, reforms in the 1990s spurred private investment, stimulated economic growth, and cut poverty rates. The period 2003-05 was characterized by political instability, racial tensions, and violent protests against plans - subsequently abandoned - to export Bolivia's newly discovered natural gas reserves to large Northern Hemisphere markets. In 2005-06, the government passed hydrocarbon laws that imposed significantly higher royalties and required foreign firms then operating under risk-sharing contracts to surrender all production to the state energy company in exchange for a predetermined service fee; the laws engendered much public debate. High commodity prices between 2010 and 2014 sustained rapid growth and large trade surpluses with GDP growing 6.8% in 2013 and 5.4% in 2014. The global decline in oil prices that began in late 2014 exerted downward pressure on the price Bolivia receives for exported gas and resulted in lower GDP growth rates - 4.9% in 2015 and 4.3% in 2016 - and losses in government revenue as well as fiscal and trade deficits.</p> <p> </p> <p>A lack of foreign investment in the key sectors of mining and hydrocarbons, along with conflict among social groups, pose challenges for the Bolivian economy. In 2015, President Evo MORALES expanded efforts to court international investment and boost Bolivia’s energy production capacity. MORALES passed an investment law and promised not to nationalize additional industries in an effort to improve the investment climate. In early 2016, the Government of Bolivia approved the 2016-2020 National Economic and Social Development Plan aimed at maintaining growth of 5% and reducing poverty.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $92.59 billion (2020 est.)<br>
@@ -632,12 +632,12 @@ _electrification - rural areas_: 79% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 598,082 (2020)<br>
-_subscriptions per 100 inhabitants_: 5.12 (2020 est.)<br>
+_total subscriptions_: 598,082 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,804,343 (2020)<br>
-_subscriptions per 100 inhabitants_: 101.1 (2020 est.)<br>
+_total subscriptions_: 11,804,343 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 101 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>with low national GDP and remote landlocked geography, Bolivia’s telecom services are historically expensive and neglected resulting in low penetration; fixed telecom market is provided by non-profit cooperatives focused on improvement of services such as broadband and paid TV services; some operators adopted fixed-wireless technologies and fiber-optic capacity; fixed broadband services migrating from DSL to fiber remain expensive and largely unavailable in many areas; historically relied on satellite services or terrestrial links and inaugurated a new cable running via Peru to the Pacific; operator aims to increase coverage through mobile networks for voice and data access, especially to rural areas; space agency plans to boost satellite-based Internet; in 2020, communications towers in Yapacani were destroyed due to pandemic conspiracy fears; importer of broadcasting equipment from China</p> (2021)<br>
@@ -656,8 +656,8 @@ _total_: 7,003,817 (2020 est.)<br>
 _percent of population_: 60% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 931,918 (2021)<br>
-_subscriptions per 100 inhabitants_: 7.98 (2021)<br>
+_total_: 931,918 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 8 (2020 est.)<br>
 
 ## Transportation
 
@@ -718,11 +718,11 @@ Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval
 note - the National Police is part of the reserves for the Armed Forces<br>
 
 **Military expenditures**<br>
-1.3% of GDP (2020 est.)<br>
+1.4% of GDP (2021 est.)<br>
+1.4% of GDP (2020 est.)<br>
 1.4% of GDP (2019 est.) (approximately $980 million)<br>
 1.5% of GDP (2018 est.) (approximately $1 billion)<br>
 1.5% of GDP (2017 est.) (approximately $1.01 billion)<br>
-1.6% of GDP (2016 est.) (approximately $970 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police; approximately 40,000 National Police (2021)<br>
@@ -742,7 +742,7 @@ compulsory for all men between the ages of 18 and 22; men can volunteer from the
 <p>Contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of its border regions with all of its neighbors (Argentina, Brazil, Chile, Paraguay, and Peru).<br><br><em>Bolivia-Chile:</em> Despite tariff-free access to ports in southern Peru and northern Chile, Bolivia persists with its long-standing claims to regain sovereign access to the Pacific Ocean. <br><br><em>Bolivia-Peru:</em> Despite tariff-free access to ports in southern Peru and northern Chile, Bolivia persists with its long-standing claims to regain sovereign access to the Pacific Ocean. Smuggling of archaeological artifacts from Peru to Bolivia, illegal timber and narcotics smuggling, human trafficking, and falsified documents are current issues. <br><br><em>Bolivia-Brazil:</em> The Roboré Accord of March 29, 1958 placed the long-disputed Isla Suárez/Ilha de Guajará-Mirim, a fluvial island on the Río Mamoré, between the two towns of Guajará-Mirim (Brazil) and Guayaramerin (Bolivia), under Bolivian administration but did not resolve the sovereignty dispute<br><br><em>Bolivia-Argentina:</em> Contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border. <br><br><em>Bolivia-Paraguay:</em> On April 27, 2009, the president of Argentina hosted the presidents of Bolivia and Paraguay together with representatives of the fiver other guarantor states -- Brazil, Chile, Peru, the United States, and Uruguay -- to the signing for the Final Record of the Boundary Commission in execution of the 1938 Peace Treaty between Bolivia and Paraguay.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,100 (Venezuela) (2021)<br>
+_refugees (country of origin)_: 12,400 (Venezuela) (2022)<br>
 
 **Illicit drugs**<br>
 <p>third-largest source country of cocaine and a major transit for Peruvian cocaine; in 2020 coca cultivation totaled 39,400 hectares (ha); illicit drug consumption is low in Bolivia;  most cocaine is exported to other Latin American countries, such as  Brazil, Paraguay, and Argentina, for domestic consumption, or for onward transit to West Africa and Europe, not the United States</p><br>

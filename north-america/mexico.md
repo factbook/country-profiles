@@ -429,7 +429,7 @@ _selected World Heritage Site locales_: Historic Mexico City (c); Earliest 16th-
 ## Economy
 
 **Economic overview**<br>
-<p>Mexico's $2.4 trillion economy – 11th largest in the world - has become increasingly oriented toward manufacturing since the North American Free Trade Agreement (NAFTA) entered into force in 1994. Per capita income is roughly one-third that of the US; income distribution remains highly unequal.</p><p></p><p>Mexico has become the US' second-largest export market and third-largest source of imports. In 2017, two-way trade in goods and services exceeded $623 billion. Mexico has free trade agreements with 46 countries, putting more than 90% of its trade under free trade agreements. In 2012, Mexico formed the Pacific Alliance with Peru, Colombia, and Chile.</p><p></p><p>Mexico's current government, led by President Enrique PENA NIETO, has emphasized economic reforms, passing and implementing sweeping energy, financial, fiscal, and telecommunications reform legislation, among others, with the long-term aim to improve competitiveness and economic growth across the Mexican economy. Since 2015, Mexico has held public auctions of oil and gas exploration and development rights and for long-term electric power generation contracts. Mexico has also issued permits for private sector import, distribution, and retail sales of refined petroleum products in an effort to attract private investment into the energy sector and boost production.</p><p></p><p>Since 2013, Mexico’s economic growth has averaged 2% annually, falling short of private-sector expectations that President PENA NIETO’s sweeping reforms would bolster economic prospects. Growth is predicted to remain below potential given falling oil production, weak oil prices, structural issues such as low productivity, high inequality, a large informal sector employing over half of the workforce, weak rule of law, and corruption. Mexico’s economy remains vulnerable to uncertainty surrounding the future of NAFTA — because the United States is its top trading partner and the two countries share integrated supply chains — and to potential shifts in domestic policies following the inauguration of a new a president in December 2018.</p><br>
+<p>Mexico's $2.4 trillion economy – 11th largest in the world - has become increasingly oriented toward manufacturing since the North American Free Trade Agreement (NAFTA) entered into force in 1994. Per capita income is roughly one-third that of the US; income distribution remains highly unequal.</p> <p> </p> <p>Mexico has become the US' second-largest export market and third-largest source of imports. In 2017, two-way trade in goods and services exceeded $623 billion. Mexico has free trade agreements with 46 countries, putting more than 90% of its trade under free trade agreements. In 2012, Mexico formed the Pacific Alliance with Peru, Colombia, and Chile.</p> <p> </p> <p>Mexico's current government, led by President Enrique PENA NIETO, has emphasized economic reforms, passing and implementing sweeping energy, financial, fiscal, and telecommunications reform legislation, among others, with the long-term aim to improve competitiveness and economic growth across the Mexican economy. Since 2015, Mexico has held public auctions of oil and gas exploration and development rights and for long-term electric power generation contracts. Mexico has also issued permits for private sector import, distribution, and retail sales of refined petroleum products in an effort to attract private investment into the energy sector and boost production.</p> <p> </p> <p>Since 2013, Mexico’s economic growth has averaged 2% annually, falling short of private-sector expectations that President PENA NIETO’s sweeping reforms would bolster economic prospects. Growth is predicted to remain below potential given falling oil production, weak oil prices, structural issues such as low productivity, high inequality, a large informal sector employing over half of the workforce, weak rule of law, and corruption. Mexico’s economy remains vulnerable to uncertainty surrounding the future of NAFTA — because the United States is its top trading partner and the two countries share integrated supply chains — and to potential shifts in domestic policies following the inauguration of a new a president in December 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2,306,320,000,000 (2020 est.)<br>
@@ -646,8 +646,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 23,800,105 (2020)<br>
-_subscriptions per 100 inhabitants_: 18.46 (2020 est.)<br>
+_total subscriptions_: 24,500,456 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 19 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 120,481,969 (2020)<br>
@@ -670,8 +670,8 @@ _total_: 92,831,582 (2020 est.)<br>
 _percent of population_: 72% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 21,936,131 (2021)<br>
-_subscriptions per 100 inhabitants_: 17.01 (2021)<br>
+_total_: 21,936,131 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
 
 ## Transportation
 
@@ -741,7 +741,7 @@ note - the National Guard was formed in 2019 and consists of personnel from the 
 **Military expenditures**<br>
 0.8% of GDP (2022 est.)<br>
 0.8% of GDP (2021 est.)<br>
-0.6% of GDP (2020)<br>
+0.6% of GDP (2020 est.)<br>
 0.5% of GDP (2019) (approximately $13.4 billion)<br>
 0.5% of GDP (2018) (approximately $12.5 billion)<br>
 

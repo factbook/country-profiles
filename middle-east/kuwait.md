@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Kuwait has been ruled by the AL-SABAH dynasty since the 18th century. The threat of Ottoman invasion in 1899 prompted Amir Mubarak AL-SABAH to seek protection from Britain, ceding foreign and defense responsibility to Britain until 1961, when the country attained its independence. Kuwait was attacked and overrun by Iraq in August 1990. Following several weeks of aerial bombardment, a US-led UN coalition began a ground assault in February 1991 that liberated Kuwait in four days. In 1992, the Amir reconstituted the parliament that he had dissolved in 1986. Amid the 2010-11 uprisings and protests across the Arab world, stateless Arabs, known as Bidoon, staged small protests in early 2011 demanding citizenship, jobs, and other benefits available to Kuwaiti nationals. Other demographic groups, notably Islamists and Kuwaitis from tribal backgrounds, soon joined the growing protest movements, which culminated in late 2011 with the resignation of the prime minister amidst allegations of corruption. Demonstrations renewed in late 2012 in response to an amiri decree amending the electoral law that lessened the voting power of the tribal blocs. <br><br>An opposition coalition of Sunni Islamists, tribal populists, and some liberals, largely boycotted legislative elections in 2012 and 2013, which ushered in a legislature more amenable to the government's agenda. Faced with the prospect of painful subsidy cuts, oppositionists and independents actively participated in the November 2016 election, winning nearly half of the seats but a cohesive opposition alliance largely ceased to exist with the 2016 election and the opposition became increasingly factionalized. Since coming to power in 2006, the Amir has dissolved the National Assembly on seven occasions (the Constitutional Court annulled the Assembly elections in June 2012 and again in June 2013) and shuffled the cabinet over a dozen times, usually citing political stagnation and gridlock between the legislature and the government.<br><br>The current Amir, who assumed his role in 2020, launched a "National Dialogue" in September 2021 meant to resolve political gridlock. As part of the "National Dialogue," the Amir pardoned several opposition figures who had been living in exile, and they returned to Kuwait. Legislative challenges remain, and the cabinet was reshuffled in March 2022. </p><br>
+<p>Kuwait has been ruled by the AL-SABAH dynasty since the 18th century. The threat of Ottoman invasion in 1899 prompted Amir Mubarak AL-SABAH to seek protection from Britain, ceding foreign and defense responsibility to Britain until 1961, when the country attained its independence. Kuwait was attacked and overrun by Iraq in August 1990. Following several weeks of aerial bombardment, a US-led UN coalition began a ground assault in February 1991 that liberated Kuwait in four days. In 1992, the Amir reconstituted the parliament that he had dissolved in 1986. Amid the 2010-11 uprisings and protests across the Arab world, stateless Arabs, known as Bidoon, staged small protests in early 2011 demanding citizenship, jobs, and other benefits available to Kuwaiti nationals. Other demographic groups, notably Islamists and Kuwaitis from tribal backgrounds, soon joined the growing protest movements, which culminated in late 2011 with the resignation of the prime minister amidst allegations of corruption. Demonstrations renewed in late 2012 in response to an amiri decree amending the electoral law that lessened the voting power of the tribal blocs. <br><br>An opposition coalition of Sunni Islamists, tribal populists, and some liberals, largely boycotted legislative elections in 2012 and 2013, which ushered in a legislature more amenable to the government's agenda. Faced with the prospect of painful subsidy cuts, oppositionists and independents actively participated in the November 2016 election, winning nearly half of the seats but a cohesive opposition alliance largely ceased to exist with the 2016 election and the opposition became increasingly factionalized. Since coming to power in 2006, the Amir has dissolved the National Assembly on seven occasions (the Constitutional Court annulled the Assembly elections in June 2012 and again in June 2013) and shuffled the cabinet over a dozen times, usually citing political stagnation and gridlock between the legislature and the government.<br><br>The current Amir, who assumed his role in 2020, launched a "National Dialogue" in September 2021 meant to resolve political gridlock. As part of the "National Dialogue," the Amir pardoned several opposition figures who had been living in exile, and they returned to Kuwait. Legislative challenges remain, and the cabinet was reshuffled in March 2022.</p><br>
 
 ## Geography
 
@@ -356,7 +356,7 @@ _email address and website_: <br>https://www.kuwaitembassy.us/<br>
 _consulate(s) general_: Beverly Hills (CA), New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires James HOLTSNIDER<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires James HOLTSNIDER (July 2021)<br>
 _embassy_: P.O. Box 77, Safat 13001<br>
 _mailing address_: 6200 Kuwait Place, Washington DC&nbsp; 20521-6200<br>
 _telephone_: [00] (965) 2259-1001<br>
@@ -377,7 +377,7 @@ _lyrics/music_: Ahmad MUSHARI al-Adwani/Ibrahim Nasir al-SOULA<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Kuwait has a geographically small, but wealthy, relatively open economy with crude oil reserves of about 102 billion barrels - more than 6% of world reserves. Kuwaiti officials plan to increase production to 4 million barrels of oil equivalent per day by 2020. Petroleum accounts for over half of GDP, 92% of export revenues, and 90% of government income.</p><p></p><p>With world oil prices declining, Kuwait realized a budget deficit in 2015 for the first time more than a decade; in 2016, the deficit grew to 16.5% of GDP. Kuwaiti authorities announced cuts to fuel subsidies in August 2016, provoking outrage among the public and National Assembly, and the Amir dissolved the government for the seventh time in ten years. In 2017 the deficit was reduced to 7.2% of GDP, and the government raised $8 billion by issuing international bonds. Despite Kuwait’s dependence on oil, the government has cushioned itself against the impact of lower oil prices, by saving annually at least 10% of government revenue in the Fund for Future Generations.</p><p></p><p>Kuwait has failed to diversify its economy or bolster the private sector, because of a poor business climate, a large public sector that employs about 74% of citizens, and an acrimonious relationship between the National Assembly and the executive branch that has stymied most economic reforms. The Kuwaiti Government has made little progress on its long-term economic development plan first passed in 2010. While the government planned to spend up to $104 billion over four years to diversify the economy, attract more investment, and boost private sector participation in the economy, many of the projects did not materialize because of an uncertain political situation or delays in awarding contracts. To increase non-oil revenues, the Kuwaiti Government in August 2017 approved draft bills supporting a Gulf Cooperation Council-wide value added tax scheduled to take effect in 2018.</p><br>
+<p>Kuwait has a geographically small, but wealthy, relatively open economy with crude oil reserves of about 102 billion barrels - more than 6% of world reserves. Kuwaiti officials plan to increase production to 4 million barrels of oil equivalent per day by 2020. Petroleum accounts for over half of GDP, 92% of export revenues, and 90% of government income.</p> <p> </p> <p>With world oil prices declining, Kuwait realized a budget deficit in 2015 for the first time more than a decade; in 2016, the deficit grew to 16.5% of GDP. Kuwaiti authorities announced cuts to fuel subsidies in August 2016, provoking outrage among the public and National Assembly, and the Amir dissolved the government for the seventh time in ten years. In 2017 the deficit was reduced to 7.2% of GDP, and the government raised $8 billion by issuing international bonds. Despite Kuwait’s dependence on oil, the government has cushioned itself against the impact of lower oil prices, by saving annually at least 10% of government revenue in the Fund for Future Generations.</p> <p> </p> <p>Kuwait has failed to diversify its economy or bolster the private sector, because of a poor business climate, a large public sector that employs about 74% of citizens, and an acrimonious relationship between the National Assembly and the executive branch that has stymied most economic reforms. The Kuwaiti Government has made little progress on its long-term economic development plan first passed in 2010. While the government planned to spend up to $104 billion over four years to diversify the economy, attract more investment, and boost private sector participation in the economy, many of the projects did not materialize because of an uncertain political situation or delays in awarding contracts. To increase non-oil revenues, the Kuwaiti Government in August 2017 approved draft bills supporting a Gulf Cooperation Council-wide value added tax scheduled to take effect in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $209.74 billion (2019 est.)<br>
@@ -585,8 +585,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 583,463 (2020)<br>
-_subscriptions per 100 inhabitants_: 13.66 (2020 est.)<br>
+_total subscriptions_: 583,463 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6,770,346 (2020)<br>
@@ -609,8 +609,8 @@ _total_: 4,227,857 (2020 est.)<br>
 _percent of population_: 99% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 73,948 (2021)<br>
-_subscriptions per 100 inhabitants_: 1.73 (2021 est.)<br>
+_total_: 73,948 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1.7 (2020 est.)<br>
 
 ## Transportation
 
@@ -662,11 +662,11 @@ Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force
 note(s) - the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the Kuwaiti National Guard reports directly to the prime minister and amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior<br>
 
 **Military expenditures**<br>
+6.8% of GDP (2021 est.)<br>
 6.3% of GDP (2020 est.)<br>
 5.6% of GDP (2019) (approximately $10.2 billion)<br>
 5.1% of GDP (2018) (approximately $9.25 billion)<br>
 5.6% of GDP (2017) (approximately $10 billion)<br>
-5.9% of GDP (2016) (approximately $10.6 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard; note – Army figures include the Kuwait Emiri Guard Authority (estimated 500 personnel) and the 25th Commando Brigade (strength not available) (2021)<br>

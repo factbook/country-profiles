@@ -606,8 +606,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 32.078 million (2020)<br>
-_subscriptions per 100 inhabitants_: 47.25 (2020 est.)<br>
+_total subscriptions_: 32.037 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 80.967 million (2019)<br>
@@ -630,8 +630,8 @@ _total_: 63,854,528 (2020 est.)<br>
 _percent of population_: 95% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 27,330,297 (2021)<br>
-_subscriptions per 100 inhabitants_: 40.26 (2021)<br>
+_total_: 27,330,297 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 40 (2020 est.)<br>
 
 **Communications - note**<br>
 <strong>note 1:</strong> the British Library claims to be the largest library in the world with well over 150 million items and in most known languages; it receives copies of all books produced in the UK or Ireland, as well as a significant proportion of overseas titles distributed in the UK; in addition to books (print and digital), holdings include: journals, manuscripts, newspapers, magazines, sound and music recordings, videos, maps, prints, patents, and drawings<br><br><strong>note 2:</strong> on 1 May 1840, the United Kingdom led the world with the introduction of postage stamps; the Austrian Empire had examined the idea of an "adhesive tax postmark" for the prepayment of postage in 1835; while the suggestion was reviewed in detail, it was rejected for the time being; other countries (including Austria) soon followed the UK's example with their own postage stamps; by the 1860s, most countries were issuing stamps; originally, stamps had to be cut from sheets; the UK issued the first postage stamps with perforations in 1854<br>

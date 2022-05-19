@@ -339,7 +339,7 @@ _lyrics/music_: Louis NOTARI/Charles ALBRECHT<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Monaco, bordering France on the Mediterranean coast, is a popular resort, attracting tourists to its casino and pleasant climate. The principality also is a banking center and has successfully sought to diversify into services and small, high-value-added, nonpolluting industries. The state retains monopolies in a number of sectors, including tobacco, the telephone network, and the postal service. Living standards are high, roughly comparable to those in prosperous French metropolitan areas.</p><p></p><p>The state has no income tax and low business taxes and thrives as a tax haven both for individuals who have established residence and for foreign companies that have set up businesses and offices. Monaco, however, is not a tax-free shelter; it charges nearly 20% value-added tax, collects stamp duties, and companies face a 33% tax on profits unless they can show that three-quarters of profits are generated within the principality. Monaco was formally removed from the OECD's "grey list" of uncooperative tax jurisdictions in late 2009, but continues to face international pressure to abandon its banking secrecy laws and help combat tax evasion. In October 2014, Monaco officially became the 84th jurisdiction participating in the OECD’s Multilateral Convention on Mutual Administrative Assistance in Tax Matters, an effort to combat offshore tax avoidance and evasion.</p><p></p><p>Monaco's reliance on tourism and banking for its economic growth has left it vulnerable to downturns in France and other European economies which are the principality's main trade partners. In 2009, Monaco's GDP fell by 11.5% as the euro-zone crisis precipitated a sharp drop in tourism and retail activity and home sales. A modest recovery ensued in 2010 and intensified in 2013, with GDP growth of more than 9%, but Monaco's economic prospects remain uncertain.</p><br>
+<p>Monaco, bordering France on the Mediterranean coast, is a popular resort, attracting tourists to its casino and pleasant climate. The principality also is a banking center and has successfully sought to diversify into services and small, high-value-added, nonpolluting industries. The state retains monopolies in a number of sectors, including tobacco, the telephone network, and the postal service. Living standards are high, roughly comparable to those in prosperous French metropolitan areas.</p> <p> </p> <p>The state has no income tax and low business taxes and thrives as a tax haven both for individuals who have established residence and for foreign companies that have set up businesses and offices. Monaco, however, is not a tax-free shelter; it charges nearly 20% value-added tax, collects stamp duties, and companies face a 33% tax on profits unless they can show that three-quarters of profits are generated within the principality. Monaco was formally removed from the OECD's "grey list" of uncooperative tax jurisdictions in late 2009, but continues to face international pressure to abandon its banking secrecy laws and help combat tax evasion. In October 2014, Monaco officially became the 84th jurisdiction participating in the OECD’s Multilateral Convention on Mutual Administrative Assistance in Tax Matters, an effort to combat offshore tax avoidance and evasion.</p> <p> </p> <p>Monaco's reliance on tourism and banking for its economic growth has left it vulnerable to downturns in France and other European economies which are the principality's main trade partners. In 2009, Monaco's GDP fell by 11.5% as the euro-zone crisis precipitated a sharp drop in tourism and retail activity and home sales. A modest recovery ensued in 2010 and intensified in 2013, with GDP growth of more than 9%, but Monaco's economic prospects remain uncertain.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $7.672 billion (2015 est.)<br>
@@ -455,8 +455,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 43,706 (2020)<br>
-_subscriptions per 100 inhabitants_: 111.4 (2020 est.)<br>
+_total subscriptions_: 43,706 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 35,485 (2020)<br>
@@ -479,8 +479,8 @@ _total_: 37,798 (2019 est.)<br>
 _percent of population_: 97% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 20,877 (2021)<br>
-_subscriptions per 100 inhabitants_: 53.2 (2021)<br>
+_total_: 20,877 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 53 (2020 est.)<br>
 
 ## Transportation
 

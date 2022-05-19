@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-With a civilization that dates back thousands of years, Malta boasts some of the oldest megalithic sites in the world. Situated in the center of the Mediterranean, Malta’s islands have long served as a strategic military asset, with the islands at various times having come under control of the Phoenicians, Carthaginians, Greeks, Romans, Byzantines, Moors, Normans, Sicilians, Spanish, Knights of St. John, and the French. Most recently a British colony (since 1814), Malta gained its independence in 1964 and declared itself a republic ten years later. While under British rule, the island staunchly supported the UK through both world wars. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination while its key industries moved toward more service-oriented activities. Malta became an EU member in May 2004 and began using the euro as currency in 2008.<br>
+With a civilization that dates back thousands of years, Malta boasts some of the oldest megalithic sites in the world. Situated in the center of the Mediterranean, Malta&rsquo;s islands have long served as a strategic military asset, with the islands at various times having come under control of the Phoenicians, Carthaginians, Greeks, Romans, Byzantines, Moors, Normans, Sicilians, Spanish, Knights of St. John, and the French. Most recently a British colony (since 1814), Malta gained its independence in 1964 and declared itself a republic ten years later. While under British rule, the island staunchly supported the UK through both world wars. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination while its key industries moved toward more service-oriented activities. Malta became an EU member in May 2004 and began using the euro as currency in 2008.<br>
 
 ## Geography
 
@@ -373,7 +373,7 @@ _selected World Heritage Site locales_: City of Valletta, Ħal Saflieni Hypogeum
 ## Economy
 
 **Economic overview**<br>
-<p>Malta’s free market economy – the smallest economy in the euro-zone – relies heavily on trade in both goods and services, principally with Europe. Malta produces less than a quarter of its food needs, has limited fresh water supplies, and has few domestic energy sources. Malta's economy is dependent on foreign trade, manufacturing, and tourism. Malta joined the EU in 2004 and adopted the euro on 1 January 2008.</p><p></p><p>Malta has weathered the euro-zone crisis better than most EU member states due to a low debt-to-GDP ratio and financially sound banking sector. It maintains one of the lowest unemployment rates in Europe, and growth has fully recovered since the 2009 recession. In 2014 through 2016, Malta led the euro zone in growth, expanding more than 4.5% per year.</p><p></p><p>Malta’s services sector continues to grow, with sustained growth in the financial services and online gaming sectors. Advantageous tax schemes remained attractive to foreign investors, though EU discussions of anti-tax avoidance measures have raised concerns among Malta’s financial services and insurance providers, as the measures could have a significant impact on those sectors. The tourism sector also continued to grow, with 2016 showing record-breaking numbers of both air and cruise passenger arrivals.</p><p></p><p>Malta’s GDP growth remains strong and is supported by a strong labor market. The government has implemented new programs, including free childcare, to encourage increased labor participation. The high cost of borrowing and small labor market remain potential constraints to future economic growth. Increasingly, other EU and European migrants are relocating to Malta for employment, though wages have remained low compared to other European countries. Inflation remains low.</p><br>
+<p>Malta’s free market economy – the smallest economy in the euro-zone – relies heavily on trade in both goods and services, principally with Europe. Malta produces less than a quarter of its food needs, has limited fresh water supplies, and has few domestic energy sources. Malta's economy is dependent on foreign trade, manufacturing, and tourism. Malta joined the EU in 2004 and adopted the euro on 1 January 2008.</p> <p> </p> <p>Malta has weathered the euro-zone crisis better than most EU member states due to a low debt-to-GDP ratio and financially sound banking sector. It maintains one of the lowest unemployment rates in Europe, and growth has fully recovered since the 2009 recession. In 2014 through 2016, Malta led the euro zone in growth, expanding more than 4.5% per year.</p> <p> </p> <p>Malta’s services sector continues to grow, with sustained growth in the financial services and online gaming sectors. Advantageous tax schemes remained attractive to foreign investors, though EU discussions of anti-tax avoidance measures have raised concerns among Malta’s financial services and insurance providers, as the measures could have a significant impact on those sectors. The tourism sector also continued to grow, with 2016 showing record-breaking numbers of both air and cruise passenger arrivals.</p> <p> </p> <p>Malta’s GDP growth remains strong and is supported by a strong labor market. The government has implemented new programs, including free childcare, to encourage increased labor participation. The high cost of borrowing and small labor market remain potential constraints to future economic growth. Increasingly, other EU and European migrants are relocating to Malta for employment, though wages have remained low compared to other European countries. Inflation remains low.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $20.6 billion (2020 est.)<br>
@@ -589,7 +589,7 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 256,838<br>
+_total subscriptions_: 259,456 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 59 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -613,8 +613,8 @@ _total_: 448,339 (2020 est.)<br>
 _percent of population_: 87% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 213,419 (2021)<br>
-_subscriptions per 100 inhabitants_: 48.33 (2021)<br>
+_total_: 213,419 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 48 (2020 est.)<br>
 
 ## Transportation
 
@@ -683,7 +683,7 @@ the small inventory of the Armed Forces of Malta consists of equipment from a mi
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 11 (mid-year 2021)<br>
-<strong>note:</strong> 8,119 estimated refugee and migrant arrivals by sea (January 2015-December 2021)<br>
+<strong>note:</strong> 8,120 estimated refugee and migrant arrivals by sea (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 minor transshipment point for hashish from North Africa to Western Europe<br>

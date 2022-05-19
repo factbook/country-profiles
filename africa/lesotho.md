@@ -399,7 +399,7 @@ _selected World Heritage Site locales_: Maloti-Drakensberg Park<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Small, mountainous, and completely landlocked by South Africa, Lesotho depends on a narrow economic base of textile manufacturing, agriculture, remittances, and regional customs revenue. About three-fourths of the people live in rural areas and engage in animal herding and subsistence agriculture, although Lesotho produces less than 20% of the nation's demand for food. Agriculture is vulnerable to weather and climate variability.</p><p></p><p>Lesotho relies on South Africa for much of its economic activity; Lesotho imports 85% of the goods it consumes from South Africa, including most agricultural inputs. Households depend heavily on remittances from family members working in South Africa in mines, on farms, and as domestic workers, though mining employment has declined substantially since the 1990s. Lesotho is a member of the Southern Africa Customs Union (SACU), and revenues from SACU accounted for roughly 26% of total GDP in 2016; however, SACU revenues are volatile and expected to decline over the next 5 years. Lesotho also gains royalties from the South African Government for water transferred to South Africa from a dam and reservoir system in Lesotho. However, the government continues to strengthen its tax system to reduce dependency on customs duties and other transfers.</p><p></p><p>The government maintains a large presence in the economy - government consumption accounted for about 26% of GDP in 2017. The government remains Lesotho's largest employer; in 2016, the government wage bill rose to 23% of GDP – the largest in Sub-Saharan Africa. Lesotho's largest private employer is the textile and garment industry - approximately 36,000 Basotho, mainly women, work in factories producing garments for export to South Africa and the US. Diamond mining in Lesotho has grown in recent years and accounted for nearly 35% of total exports in 2015. Lesotho managed steady GDP growth at an average of 4.5% from 2010 to 2014, dropping to about 2.5% in 2015-16, but poverty remains widespread around 57% of the total population.</p><br>
+<p>Small, mountainous, and completely landlocked by South Africa, Lesotho depends on a narrow economic base of textile manufacturing, agriculture, remittances, and regional customs revenue. About three-fourths of the people live in rural areas and engage in animal herding and subsistence agriculture, although Lesotho produces less than 20% of the nation's demand for food. Agriculture is vulnerable to weather and climate variability.</p> <p> </p> <p>Lesotho relies on South Africa for much of its economic activity; Lesotho imports 85% of the goods it consumes from South Africa, including most agricultural inputs. Households depend heavily on remittances from family members working in South Africa in mines, on farms, and as domestic workers, though mining employment has declined substantially since the 1990s. Lesotho is a member of the Southern Africa Customs Union (SACU), and revenues from SACU accounted for roughly 26% of total GDP in 2016; however, SACU revenues are volatile and expected to decline over the next 5 years. Lesotho also gains royalties from the South African Government for water transferred to South Africa from a dam and reservoir system in Lesotho. However, the government continues to strengthen its tax system to reduce dependency on customs duties and other transfers.</p> <p> </p> <p>The government maintains a large presence in the economy - government consumption accounted for about 26% of GDP in 2017. The government remains Lesotho's largest employer; in 2016, the government wage bill rose to 23% of GDP – the largest in Sub-Saharan Africa. Lesotho's largest private employer is the textile and garment industry - approximately 36,000 Basotho, mainly women, work in factories producing garments for export to South Africa and the US. Diamond mining in Lesotho has grown in recent years and accounted for nearly 35% of total exports in 2015. Lesotho managed steady GDP growth at an average of 4.5% from 2010 to 2014, dropping to about 2.5% in 2015-16, but poverty remains widespread around 57% of the total population.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.88 billion (2020 est.)<br>
@@ -614,8 +614,8 @@ _electrification - rural areas_: 26% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 11,574 (2020)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 11,574 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1,562,648 (2020)<br>
@@ -638,8 +638,8 @@ _total_: 921,168 (2020 est.)<br>
 _percent of population_: 43% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5,060 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.24 (2021) less than 1<br>
+_total_: 5,060 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.24 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -672,11 +672,11 @@ Lesotho Defense Force (LDF): Army (includes Air Wing) (2021)<br>
 note - the Lesotho Mounted Police Service is responsible for internal security and reports to the Minister of Police and Public Safety<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2021 est.)<br>
 1.6% of GDP (2020 est.)<br>
 1.8% of GDP (2019 est.) (approximately $60 million)<br>
 2.1% of GDP (2018 est.) (approximately $65 million)<br>
 2.2% of GDP (2017 est.) (approximately $70 million)<br>
-1.9% of GDP (2016 est.) (approximately $65 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 personnel (2021)<br>

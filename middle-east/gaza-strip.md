@@ -416,8 +416,8 @@ _electrification - total population_: 100% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 472,293 (includes the West Bank); (July 2016 est.)<br>
-_subscriptions per 100 inhabitants_: 9 (includes the West Bank); (July 2016 est.)<br>
+_total subscriptions_: 466,283 (2020 est.) includes the West Bank<br>
+_subscriptions per 100 inhabitants_: 9 (2020 est.) includes the West Bank<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 4,135,363 (includes the West Bank)<br>
@@ -440,8 +440,8 @@ _total_: 3,602,452 (2020 est.) (includes the West Bank)<br>
 _percent of population_: 75% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 320,500<br>
-_subscriptions per 100 inhabitants_: 14 (2016 est.)<br>
+_total_: 376,911 (2020 est.) includes the West Bank<br>
+_subscriptions per 100 inhabitants_: 7 (2020 est.) includes the West Bank<br>
 <strong>note:</strong> includes West Bank<br>
 
 ## Transportation

@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Poland's history as a state began near the middle of the 10th century. By the mid-16th century, the Polish-Lithuanian Commonwealth ruled a vast tract of land in Central and Eastern Europe. During the 18th century, internal disorders weakened the nation, and in a series of agreements between 1772 and 1795, Russia, Prussia, and Austria partitioned Poland among themselves. Poland regained its independence in 1918 only to be overrun by Germany and the Soviet Union in World War II. It became a Soviet satellite state following the war. Labor turmoil in 1980 led to the formation of the independent trade union "Solidarity" that over time became a political force with over 10 million members. Free elections in 1989 and 1990 won Solidarity control of the parliament and the presidency, bringing the communist era to a close. A "shock therapy" program during the early 1990s enabled the country to transform its economy into one of the most robust in Central Europe. Poland joined NATO in 1999 and the EU in 2004.&nbsp;<br>
+Poland's history as a state began near the middle of the 10th century. By the mid-16th century, the Polish-Lithuanian Commonwealth ruled a vast tract of land in Central and Eastern Europe. During the 18th century, internal disorders weakened the nation, and in a series of agreements between 1772 and 1795, Russia, Prussia, and Austria partitioned Poland among themselves. Poland regained its independence in 1918 only to be overrun by Germany and the Soviet Union in World War II. It became a Soviet satellite state following the war. Labor turmoil in 1980 led to the formation of the independent trade union "Solidarity" that over time became a political force with over 10 million members. Free elections in 1989 and 1990 won Solidarity control of the parliament and the presidency, bringing the communist era to a close. A "shock therapy" program during the early 1990s enabled the country to transform its economy into one of the most robust in Central Europe. Poland joined NATO in 1999 and the EU in 2004.<br>
 
 ## Geography
 
@@ -406,7 +406,7 @@ _selected World Heritage Site locales_: Historic Krakow (c); Historic Warsaw (c)
 ## Economy
 
 **Economic overview**<br>
-<p>Poland has the sixth-largest economy in the EU and has long had a reputation as a business-friendly country with largely sound macroeconomic policies. Since 1990, Poland has pursued a policy of economic liberalization. During the 2008-09 economic slowdown Poland was the only EU country to avoid a recession, in part because of the government’s loose fiscal policy combined with a commitment to rein in spending in the medium-term Poland is the largest recipient of EU development funds and their cyclical allocation can significantly impact the rate of economic growth.</p><p></p><p>The Polish economy performed well during the 2014-17 period, with the real GDP growth rate generally exceeding 3%, in part because of increases in government social spending that have helped to accelerate consumer-driven growth. However, since 2015, Poland has implemented new business restrictions and taxes on foreign-dominated economic sectors, including banking and insurance, energy, and healthcare, that have dampened investor sentiment and has increased the government’s ownership of some firms. The government reduced the retirement age in 2016 and has had mixed success in introducing new taxes and boosting tax compliance to offset the increased costs of social spending programs and relieve upward pressure on the budget deficit. Some credit ratings agencies estimate that Poland during the next few years is at risk of exceeding the EU’s 3%-of-GDP limit on budget deficits, possibly impacting its access to future EU funds. Poland’s economy is projected to perform well in the next few years in part because of an anticipated cyclical increase in the use of its EU development funds and continued, robust household spending.</p><p></p><p>Poland faces several systemic challenges, which include addressing some of the remaining deficiencies in its road and rail infrastructure, business environment, rigid labor code, commercial court system, government red tape, and burdensome tax system, especially for entrepreneurs. Additional long-term challenges include diversifying Poland’s energy mix, strengthening investments in innovation, research, and development, as well as stemming the outflow of educated young Poles to other EU member states, especially in light of a coming demographic contraction due to emigration, persistently low fertility rates, and the aging of the Solidarity-era baby boom generation.</p><br>
+<p>Poland has the sixth-largest economy in the EU and has long had a reputation as a business-friendly country with largely sound macroeconomic policies. Since 1990, Poland has pursued a policy of economic liberalization. During the 2008-09 economic slowdown Poland was the only EU country to avoid a recession, in part because of the government’s loose fiscal policy combined with a commitment to rein in spending in the medium-term Poland is the largest recipient of EU development funds and their cyclical allocation can significantly impact the rate of economic growth.</p> <p> </p> <p>The Polish economy performed well during the 2014-17 period, with the real GDP growth rate generally exceeding 3%, in part because of increases in government social spending that have helped to accelerate consumer-driven growth. However, since 2015, Poland has implemented new business restrictions and taxes on foreign-dominated economic sectors, including banking and insurance, energy, and healthcare, that have dampened investor sentiment and has increased the government’s ownership of some firms. The government reduced the retirement age in 2016 and has had mixed success in introducing new taxes and boosting tax compliance to offset the increased costs of social spending programs and relieve upward pressure on the budget deficit. Some credit ratings agencies estimate that Poland during the next few years is at risk of exceeding the EU’s 3%-of-GDP limit on budget deficits, possibly impacting its access to future EU funds. Poland’s economy is projected to perform well in the next few years in part because of an anticipated cyclical increase in the use of its EU development funds and continued, robust household spending.</p> <p> </p> <p>Poland faces several systemic challenges, which include addressing some of the remaining deficiencies in its road and rail infrastructure, business environment, rigid labor code, commercial court system, government red tape, and burdensome tax system, especially for entrepreneurs. Additional long-term challenges include diversifying Poland’s energy mix, strengthening investments in innovation, research, and development, as well as stemming the outflow of educated young Poles to other EU member states, especially in light of a coming demographic contraction due to emigration, persistently low fertility rates, and the aging of the Solidarity-era baby boom generation.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1,223,460,000,000 (2020 est.)<br>
@@ -622,8 +622,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,777,428 (2020)<br>
-_subscriptions per 100 inhabitants_: 15.27 (2020 est.)<br>
+_total subscriptions_: 5,777,428 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 48,392,900 (2019)<br>
@@ -646,8 +646,8 @@ _total_: 31,456,228 (2020 est.)<br>
 _percent of population_: 83% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,369,218 (2022)<br>
-_subscriptions per 100 inhabitants_: 22.11 (2022)<br>
+_total_: 8,369,218 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 22 (2020 est.)<br>
 
 ## Transportation
 
@@ -750,7 +750,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 3,234,036 (as of 9 May 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 3,357,984 (as of 15 May 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

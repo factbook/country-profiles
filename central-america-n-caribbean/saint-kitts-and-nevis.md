@@ -321,9 +321,10 @@ ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dr. Thelma Patricia PHILLIP-BROWNE (since 28 January 2016)<br>
-_chancery_: 3216 New Mexico Avenue NW, Washington, DC 20016<br>
+_chancery_: 1203 19th St. NW, 5th Floor, Washington, DC 20036<br>
 _telephone_: [1] (202) 686-2636<br>
 _FAX_: [1] (202) 686-5740<br>
+_email address and website_: info@embskn.com<br>
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -347,7 +348,7 @@ _selected World Heritage Site locales_: Brimstone Hill Fortress National Park<br
 ## Economy
 
 **Economic overview**<br>
-<p>The economy of Saint Kitts and Nevis depends on tourism; since the 1970s, tourism has replaced sugar as the economy’s traditional mainstay. Roughly 200,000 tourists visited the islands in 2009, but reduced tourism arrivals and foreign investment led to an economic contraction in the 2009-2013 period, and the economy returned to growth only in 2014. Like other tourist destinations in the Caribbean, Saint Kitts and Nevis is vulnerable to damage from natural disasters and shifts in tourism demand.</p><p></p><p>Following the 2005 harvest, the government closed the sugar industry after several decades of losses. To compensate for lost jobs, the government has embarked on a program to diversify the agricultural sector and to stimulate other sectors of the economy, such as export-oriented manufacturing and offshore banking. The government has made notable progress in reducing its public debt, from 154% of GDP in 2011 to 83% in 2013, although it still faces one of the highest levels in the world, largely attributable to public enterprise losses. Saint Kitts and Nevis is among other countries in the Caribbean that supplement their economic activity through economic citizenship programs, whereby foreigners can obtain citizenship from Saint Kitts and Nevis by investing there.</p><br>
+<p>The economy of Saint Kitts and Nevis depends on tourism; since the 1970s, tourism has replaced sugar as the economy’s traditional mainstay. Roughly 200,000 tourists visited the islands in 2009, but reduced tourism arrivals and foreign investment led to an economic contraction in the 2009-2013 period, and the economy returned to growth only in 2014. Like other tourist destinations in the Caribbean, Saint Kitts and Nevis is vulnerable to damage from natural disasters and shifts in tourism demand.</p> <p> </p> <p>Following the 2005 harvest, the government closed the sugar industry after several decades of losses. To compensate for lost jobs, the government has embarked on a program to diversify the agricultural sector and to stimulate other sectors of the economy, such as export-oriented manufacturing and offshore banking. The government has made notable progress in reducing its public debt, from 154% of GDP in 2011 to 83% in 2013, although it still faces one of the highest levels in the world, largely attributable to public enterprise losses. Saint Kitts and Nevis is among other countries in the Caribbean that supplement their economic activity through economic citizenship programs, whereby foreigners can obtain citizenship from Saint Kitts and Nevis by investing there.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.24 billion (2020 est.)<br>
@@ -387,7 +388,7 @@ _exports of goods and services_: 62.5% (2017 est.)<br>
 _imports of goods and services_: -60.4% (2017 est.)<br>
 
 **Agricultural products**<br>
-coconuts, tropical fruit, roots/tubers nes, vegetables, sweet potatoes, pulses, watermelons, carrots/turnips, eggs, tomatoes<br>
+coconuts, tropical fruit, roots/tubers, vegetables, sweet potatoes, pulses, watermelons, carrots/turnips, eggs, tomatoes<br>
 
 **Industries**<br>
 tourism, cotton, salt, copra, clothing, footwear, beverages<br>
@@ -539,8 +540,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 17,293 (2018)<br>
-_subscriptions per 100 inhabitants_: 33.23 (2018 est.)<br>
+_total subscriptions_: 15,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 76,878 (2018)<br>
@@ -563,8 +564,8 @@ _total_: 42,796 (2019 est.)<br>
 _percent of population_: 81% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 30,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 56.39 (2021 est.)<br>
+_total_: 30,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
 
 ## Transportation
 

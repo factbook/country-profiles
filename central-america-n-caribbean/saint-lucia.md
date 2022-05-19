@@ -87,7 +87,7 @@ _adjective_: Saint Lucian<br>
 Black/African descent 85.3%, mixed 10.9%, East Indian 2.2%, other 1.6%, unspecified 0.1% (2010 est.)<br>
 
 **Languages**<br>
-English (official), French patois<br>
+English (official), Saint Lucian Creole<br>
 
 **Religions**<br>
 Roman Catholic 61.5%, Protestant 25.5% (includes Seventh Day Adventist 10.4%, Pentecostal 8.9%, Baptist 2.2%, Anglican 1.6%, Church of God 1.5%, other Protestant 0.9%), other Christian 3.4% (includes Evangelical 2.3% and Jehovah's Witness 1.1%), Rastafarian 1.9%, other 0.4%, none 5.9%, unspecified 1.4% (2010 est.)<br>
@@ -265,7 +265,7 @@ _agricultural_: 30.4 million cubic meters (2017 est.)<br>
 _conventional long form_: none<br>
 _conventional short form_: Saint Lucia<br>
 _etymology_: named after Saint LUCY of Syracuse by French sailors who were shipwrecked on the island on 13 December 1502, the saint's feast day; Saint Lucia is the only country named specifically after a woman<br>
-<strong>note:</strong> pronounced saynt-looshya<br>
+<strong>note:</strong> pronounced saynt-looshuh<br>
 
 **Government type**<br>
 parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br>
@@ -355,7 +355,7 @@ _selected World Heritage Site locales_: Pitons Management Area<br>
 ## Economy
 
 **Economic overview**<br>
-<p>The island nation has been able to attract foreign business and investment, especially in its offshore banking and tourism industries. Tourism is Saint Lucia's main source of jobs and income - accounting for 65% of GDP - and the island's main source of foreign exchange earnings. The manufacturing sector is the most diverse in the Eastern Caribbean area. Crops such as bananas, mangos, and avocados continue to be grown for export, but St. Lucia's once solid banana industry has been devastated by strong competition.</p><p></p><p>Saint Lucia is vulnerable to a variety of external shocks, including volatile tourism receipts, natural disasters, and dependence on foreign oil. Furthermore, high public debt - 77% of GDP in 2012 - and high debt servicing obligations constrain the CHASTANET administration's ability to respond to adverse external shocks.</p><p></p><p>St. Lucia has experienced anemic growth since the onset of the global financial crisis in 2008, largely because of a slowdown in tourism - airlines cut back on their routes to St. Lucia in 2012. Also, St. Lucia introduced a value added tax in 2012 of 15%, becoming the last country in the Eastern Caribbean to do so. In 2013, the government introduced a National Competitiveness and Productivity Council to address St. Lucia's high public wages and lack of productivity.</p><br>
+<p>The island nation has been able to attract foreign business and investment, especially in its offshore banking and tourism industries. Tourism is Saint Lucia's main source of jobs and income - accounting for 65% of GDP - and the island's main source of foreign exchange earnings. The manufacturing sector is the most diverse in the Eastern Caribbean area. Crops such as bananas, mangos, and avocados continue to be grown for export, but St. Lucia's once solid banana industry has been devastated by strong competition.</p> <p> </p> <p>Saint Lucia is vulnerable to a variety of external shocks, including volatile tourism receipts, natural disasters, and dependence on foreign oil. Furthermore, high public debt - 77% of GDP in 2012 - and high debt servicing obligations constrain the CHASTANET administration's ability to respond to adverse external shocks.</p> <p> </p> <p>St. Lucia has experienced anemic growth since the onset of the global financial crisis in 2008, largely because of a slowdown in tourism - airlines cut back on their routes to St. Lucia in 2012. Also, St. Lucia introduced a value added tax in 2012 of 15%, becoming the last country in the Eastern Caribbean to do so. In 2013, the government introduced a National Competitiveness and Productivity Council to address St. Lucia's high public wages and lack of productivity.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.25 billion (2020 est.)<br>
@@ -562,8 +562,8 @@ _electrification - rural areas_: 99.9% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 36,469 (2018)<br>
-_subscriptions per 100 inhabitants_: 20.05 (2018 est.)<br>
+_total subscriptions_: 38,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 184,944 (2018)<br>
@@ -586,8 +586,8 @@ _total_: 97,323 (2020 est.)<br>
 _percent of population_: 53% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 33,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 17.97 (2021 est.)<br>
+_total_: 33,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2020 est.)<br>
 
 ## Transportation
 

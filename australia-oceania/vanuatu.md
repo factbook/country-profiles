@@ -362,7 +362,7 @@ _selected World Heritage Site locales_: Chief Roi Mata&rsquo;s Domain<br>
 ## Economy
 
 **Economic overview**<br>
-<p>This South Pacific island economy is based primarily on small-scale agriculture, which provides a living for about two thirds of the population. Fishing, offshore financial services, and tourism, with more than 330,000 visitors in 2017, are other mainstays of the economy. Tourism has struggled after Efate, the most populous and most popular island for tourists, was damaged by Tropical Cyclone Pam in 2015. Ongoing infrastructure difficulties at Port Vila’s Bauerfield Airport have caused air travel disruptions, further hampering tourism numbers. Australia and New Zealand are the main source of tourists and foreign aid. A small light industry sector caters to the local market. Tax revenues come mainly from import duties. Mineral deposits are negligible; the country has no known petroleum deposits.</p><p></p><p>Economic development is hindered by dependence on relatively few commodity exports, vulnerability to natural disasters, and long distances from main markets and between constituent islands. In response to foreign concerns, the government has promised to tighten regulation of its offshore financial center.</p><p></p><p>Since 2002, the government has stepped up efforts to boost tourism through improved air connections, resort development, and cruise ship facilities. Agriculture, especially livestock farming, is a second target for growth.</p><br>
+<p>This South Pacific island economy is based primarily on small-scale agriculture, which provides a living for about two thirds of the population. Fishing, offshore financial services, and tourism, with more than 330,000 visitors in 2017, are other mainstays of the economy. Tourism has struggled after Efate, the most populous and most popular island for tourists, was damaged by Tropical Cyclone Pam in 2015. Ongoing infrastructure difficulties at Port Vila’s Bauerfield Airport have caused air travel disruptions, further hampering tourism numbers. Australia and New Zealand are the main source of tourists and foreign aid. A small light industry sector caters to the local market. Tax revenues come mainly from import duties. Mineral deposits are negligible; the country has no known petroleum deposits.</p> <p> </p> <p>Economic development is hindered by dependence on relatively few commodity exports, vulnerability to natural disasters, and long distances from main markets and between constituent islands. In response to foreign concerns, the government has promised to tighten regulation of its offshore financial center.</p> <p> </p> <p>Since 2002, the government has stepped up efforts to boost tourism through improved air connections, resort development, and cruise ship facilities. Agriculture, especially livestock farming, is a second target for growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $850 million (2020 est.)<br>
@@ -569,8 +569,8 @@ _electrification - rural areas_: 51.1% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,472 (2020)<br>
-_subscriptions per 100 inhabitants_: 1.13 (2020 est.)<br>
+_total subscriptions_: 3,472 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 265,219 (2019)<br>
@@ -593,8 +593,8 @@ _total_: 77,969 (2019 est.)<br>
 _percent of population_: 26% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,785 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.91 (2021) less than 1<br>
+_total_: 2,785 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.9 (2020 est.) less than 1<br>
 
 ## Transportation
 

@@ -303,7 +303,7 @@ _lyrics/music_: unknown/unknown, prepared by Sioeli FUSIKATA<br>
 ## Economy
 
 **Economic overview**<br>
-<p>The economy suffers from the typical Pacific island problems of geographic isolation, few resources, and a small population. The agricultural sector consists mainly of subsistence gardening, although some cash crops are grown for export. Industry consists primarily of small factories for processing passion fruit, lime oil, honey, and coconut cream. The sale of postage stamps to foreign collectors is an important source of revenue.</p><p></p><p>Government expenditures regularly exceed revenues, and the shortfall is made up by critically needed grants from New Zealand that are used to pay wages to public employees. Economic aid allocation from New Zealand in FY13/14 was US$10.1 million. Niue has cut government expenditures by reducing the public service by almost half.</p><p></p><p>The island in recent years has suffered a serious loss of population because of emigration to New Zealand. Efforts to increase GDP include the promotion of tourism and financial services, although the International Banking Repeal Act of 2002 resulted in the termination of all offshore banking licenses.</p><br>
+<p>The economy suffers from the typical Pacific island problems of geographic isolation, few resources, and a small population. The agricultural sector consists mainly of subsistence gardening, although some cash crops are grown for export. Industry consists primarily of small factories for processing passion fruit, lime oil, honey, and coconut cream. The sale of postage stamps to foreign collectors is an important source of revenue.</p> <p> </p> <p>Government expenditures regularly exceed revenues, and the shortfall is made up by critically needed grants from New Zealand that are used to pay wages to public employees. Economic aid allocation from New Zealand in FY13/14 was US$10.1 million. Niue has cut government expenditures by reducing the public service by almost half.</p> <p> </p> <p>The island in recent years has suffered a serious loss of population because of emigration to New Zealand. Efforts to increase GDP include the promotion of tourism and financial services, although the International Banking Repeal Act of 2002 resulted in the termination of all offshore banking licenses.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $10.01 million (2003 est.)<br>
@@ -460,8 +460,8 @@ New Zealand dollars (NZD) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 61.77 (2018)<br>
+_total subscriptions_: 1,000 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 62 (2018 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: sole provider service for over 1000 landlines and fixed wireless lines; cellular telephone service operates on AMPS and GSM platforms; difficult geography presents challenges for rural areas; mobile is primary source of Internet access; mobile broadband demand is growing&nbsp;due to mobile services (2020)<br>

@@ -415,7 +415,7 @@ _selected World Heritage Site locales_: Mana Pools National Park, Sapi, and Chew
 ## Economy
 
 **Economic overview**<br>
-<p>Zimbabwe's economy depends heavily on its mining and agriculture sectors. Following a contraction from 1998 to 2008, the economy recorded real growth of more than 10% per year in the period 2010-13, before falling below 3% in the period 2014-17, due to poor harvests, low diamond revenues, and decreased investment. Lower mineral prices, infrastructure and regulatory deficiencies, a poor investment climate, a large public and external debt burden, and extremely high government wage expenses impede the country’s economic performance.</p><p></p><p>Until early 2009, the Reserve Bank of Zimbabwe (RBZ) routinely printed money to fund the budget deficit, causing hyperinflation. Adoption of a multi-currency basket in early 2009 - which allowed currencies such as the Botswana pula, the South Africa rand, and the US dollar to be used locally - reduced inflation below 10% per year. In January 2015, as part of the government’s effort to boost trade and attract foreign investment, the RBZ announced that the Chinese renmimbi, Indian rupee, Australian dollar, and Japanese yen would be accepted as legal tender in Zimbabwe, though transactions were predominantly carried out in US dollars and South African rand until 2016, when the rand’s devaluation and instability led to near-exclusive use of the US dollar. The government in November 2016 began releasing bond notes, a parallel currency legal only in Zimbabwe which the government claims will have a one-to-one exchange ratio with the US dollar, to ease cash shortages. Bond notes began trading at a discount of up to 10% in the black market by the end of 2016.</p><p></p><p>Zimbabwe’s government entered a second Staff Monitored Program with the IMF in 2014 and undertook other measures to reengage with international financial institutions. Zimbabwe repaid roughly $108 million in arrears to the IMF in October 2016, but financial observers note that Zimbabwe is unlikely to gain new financing because the government has not disclosed how it plans to repay more than $1.7 billion in arrears to the World Bank and African Development Bank. International financial institutions want Zimbabwe to implement significant fiscal and structural reforms before granting new loans. Foreign and domestic investment continues to be hindered by the lack of land tenure and titling, the inability to repatriate dividends to investors overseas, and the lack of clarity regarding the government’s Indigenization and Economic Empowerment Act.</p><br>
+<p>Zimbabwe's economy depends heavily on its mining and agriculture sectors. Following a contraction from 1998 to 2008, the economy recorded real growth of more than 10% per year in the period 2010-13, before falling below 3% in the period 2014-17, due to poor harvests, low diamond revenues, and decreased investment. Lower mineral prices, infrastructure and regulatory deficiencies, a poor investment climate, a large public and external debt burden, and extremely high government wage expenses impede the country’s economic performance.</p> <p> </p> <p>Until early 2009, the Reserve Bank of Zimbabwe (RBZ) routinely printed money to fund the budget deficit, causing hyperinflation. Adoption of a multi-currency basket in early 2009 - which allowed currencies such as the Botswana pula, the South Africa rand, and the US dollar to be used locally - reduced inflation below 10% per year. In January 2015, as part of the government’s effort to boost trade and attract foreign investment, the RBZ announced that the Chinese renmimbi, Indian rupee, Australian dollar, and Japanese yen would be accepted as legal tender in Zimbabwe, though transactions were predominantly carried out in US dollars and South African rand until 2016, when the rand’s devaluation and instability led to near-exclusive use of the US dollar. The government in November 2016 began releasing bond notes, a parallel currency legal only in Zimbabwe which the government claims will have a one-to-one exchange ratio with the US dollar, to ease cash shortages. Bond notes began trading at a discount of up to 10% in the black market by the end of 2016.</p> <p> </p> <p>Zimbabwe’s government entered a second Staff Monitored Program with the IMF in 2014 and undertook other measures to reengage with international financial institutions. Zimbabwe repaid roughly $108 million in arrears to the IMF in October 2016, but financial observers note that Zimbabwe is unlikely to gain new financing because the government has not disclosed how it plans to repay more than $1.7 billion in arrears to the World Bank and African Development Bank. International financial institutions want Zimbabwe to implement significant fiscal and structural reforms before granting new loans. Foreign and domestic investment continues to be hindered by the lack of land tenure and titling, the inability to repatriate dividends to investors overseas, and the lack of clarity regarding the government’s Indigenization and Economic Empowerment Act.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $40.79 billion (2020 est.)<br>
@@ -626,8 +626,8 @@ _electrification - rural areas_: 36% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 252,067 (2020)<br>
-_subscriptions per 100 inhabitants_: 1.7 (2020 est.)<br>
+_total subscriptions_: 252,067 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 13,195,900 (2019)<br>
@@ -650,8 +650,8 @@ _total_: 4,310,249 (2020 est.)<br>
 _percent of population_: 29% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 203,461 (2021)<br>
-_subscriptions per 100 inhabitants_: 1.37 (2021)<br>
+_total_: 203,461 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1.4 (2020 est.)<br>
 
 ## Transportation
 

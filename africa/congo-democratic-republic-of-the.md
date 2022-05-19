@@ -427,7 +427,7 @@ _selected World Heritage Site locales_: Garamba National Park, Kahuzi-Biega Nati
 ## Economy
 
 **Economic overview**<br>
-<p>The economy of the Democratic Republic of the Congo - a nation endowed with vast natural resource wealth - continues to perform poorly. Systemic corruption since independence in 1960, combined with countrywide instability and intermittent conflict that began in the early-90s, has reduced national output and government revenue, and increased external debt. With the installation of a transitional government in 2003 after peace accords, economic conditions slowly began to improve as the government reopened relations with international financial institutions and international donors, and President KABILA began implementing reforms. Progress on implementing substantive economic reforms remains slow because of political instability, bureaucratic inefficiency, corruption, and patronage, which also dampen international investment prospects.</p><p></p><p>Renewed activity in the mining sector, the source of most export income, boosted Kinshasa's fiscal position and GDP growth until 2015, but low commodity prices have led to slower growth, volatile inflation, currency depreciation, and a growing fiscal deficit. An uncertain legal framework, corruption, and a lack of transparency in government policy are long-term problems for the large mining sector and for the economy as a whole. Much economic activity still occurs in the informal sector and is not reflected in GDP data.</p><p></p><p>Poverty remains widespread in DRC, and the country failed to meet any Millennium Development Goals by 2015. DRC also concluded its program with the IMF in 2015. The price of copper – the DRC’s primary export - plummeted in 2015 and remained at record lows during 2016-17, reducing government revenues, expenditures, and foreign exchange reserves, while inflation reached nearly 50% in mid-2017 – its highest level since the early 2000s.</p><br>
+<p>The economy of the Democratic Republic of the Congo - a nation endowed with vast natural resource wealth - continues to perform poorly. Systemic corruption since independence in 1960, combined with countrywide instability and intermittent conflict that began in the early-90s, has reduced national output and government revenue, and increased external debt. With the installation of a transitional government in 2003 after peace accords, economic conditions slowly began to improve as the government reopened relations with international financial institutions and international donors, and President KABILA began implementing reforms. Progress on implementing substantive economic reforms remains slow because of political instability, bureaucratic inefficiency, corruption, and patronage, which also dampen international investment prospects.</p> <p> </p> <p>Renewed activity in the mining sector, the source of most export income, boosted Kinshasa's fiscal position and GDP growth until 2015, but low commodity prices have led to slower growth, volatile inflation, currency depreciation, and a growing fiscal deficit. An uncertain legal framework, corruption, and a lack of transparency in government policy are long-term problems for the large mining sector and for the economy as a whole. Much economic activity still occurs in the informal sector and is not reflected in GDP data.</p> <p> </p> <p>Poverty remains widespread in DRC, and the country failed to meet any Millennium Development Goals by 2015. DRC also concluded its program with the IMF in 2015. The price of copper – the DRC’s primary export - plummeted in 2015 and remained at record lows during 2016-17, reducing government revenues, expenditures, and foreign exchange reserves, while inflation reached nearly 50% in mid-2017 – its highest level since the early 2000s.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $96.03 billion (2020 est.)<br>
@@ -640,8 +640,8 @@ _electrification - rural areas_: 0.4% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 0 (2019)<br>
-_subscriptions per 100 inhabitants_: 0 (2019 est.)<br>
+_total subscriptions_: 0 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 40,798,396 (2019)<br>
@@ -664,8 +664,8 @@ _total_: 12,538,597 (2020 est.)<br>
 _percent of population_: 14% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 31,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.03 (2021 est.) less than 1<br>
+_total_: 31,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.03 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -761,7 +761,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 210,621 (Rwanda), 210,084 (Central African Republic), 56,351 (South Sudan) (refugees and asylum seekers), 40,511 (Burundi) (2022)<br>
+_refugees (country of origin)_: 210,621 (Rwanda), 210,357 (Central African Republic), 56,356 (South Sudan) (refugees and asylum seekers), 40,522 (Burundi) (2022)<br>
 _IDPs_: 5.61 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2021)<br>
 
 **Trafficking in persons**<br>

@@ -376,7 +376,7 @@ _selected World Heritage Site locales_: Bahla Fort; Archaeological Sites of Bat;
 ## Economy
 
 **Economic overview**<br>
-<p>Oman is heavily dependent on oil and gas resources, which can generate between and 68% and 85% of government revenue, depending on fluctuations in commodity prices. In 2016, low global oil prices drove Oman’s budget deficit to $13.8 billion, or approximately 20% of GDP, but the budget deficit is estimated to have reduced to 12% of GDP in 2017 as Oman reduced government subsidies. As of January 2018, Oman has sufficient foreign assets to support its currency’s fixed exchange rates. It is issuing debt to cover its deficit.</p><p></p><p>Oman is using enhanced oil recovery techniques to boost production, but it has simultaneously pursued a development plan that focuses on diversification, industrialization, and privatization, with the objective of reducing the oil sector's contribution to GDP. The key components of the government's diversification strategy are tourism, shipping and logistics, mining, manufacturing, and aquaculture.</p><p></p><p>Muscat also has notably focused on creating more Omani jobs to employ the rising number of nationals entering the workforce. However, high social welfare benefits - that had increased in the wake of the 2011 Arab Spring - have made it impossible for the government to balance its budget in light of current oil prices. In response, Omani officials imposed austerity measures on its gasoline and diesel subsidies in 2016. These spending cuts have had only a moderate effect on the government’s budget, which is projected to again face a deficit of $7.8 billion in 2018.</p><br>
+<p>Oman is heavily dependent on oil and gas resources, which can generate between and 68% and 85% of government revenue, depending on fluctuations in commodity prices. In 2016, low global oil prices drove Oman’s budget deficit to $13.8 billion, or approximately 20% of GDP, but the budget deficit is estimated to have reduced to 12% of GDP in 2017 as Oman reduced government subsidies. As of January 2018, Oman has sufficient foreign assets to support its currency’s fixed exchange rates. It is issuing debt to cover its deficit.</p> <p> </p> <p>Oman is using enhanced oil recovery techniques to boost production, but it has simultaneously pursued a development plan that focuses on diversification, industrialization, and privatization, with the objective of reducing the oil sector's contribution to GDP. The key components of the government's diversification strategy are tourism, shipping and logistics, mining, manufacturing, and aquaculture.</p> <p> </p> <p>Muscat also has notably focused on creating more Omani jobs to employ the rising number of nationals entering the workforce. However, high social welfare benefits - that had increased in the wake of the 2011 Arab Spring - have made it impossible for the government to balance its budget in light of current oil prices. In response, Omani officials imposed austerity measures on its gasoline and diesel subsidies in 2016. These spending cuts have had only a moderate effect on the government’s budget, which is projected to again face a deficit of $7.8 billion in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $135.79 billion (2019 est.)<br>
@@ -587,8 +587,8 @@ _electrification - rural areas_: 92% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 594,550 (2020)<br>
-_subscriptions per 100 inhabitants_: 12.68 (2020 est.)<br>
+_total subscriptions_: 594,550 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6,383,460 (2019)<br>
@@ -611,8 +611,8 @@ _total_: 4,851,291 (2020 est.)<br>
 _percent of population_: 95% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 508,949 (2021)<br>
-_subscriptions per 100 inhabitants_: 10.85 (2021 est.)<br>
+_total_: 508,949 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 ## Transportation
 
@@ -668,11 +668,11 @@ _LNG terminal(s) (export)_: Qalhat<br>
 Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO); Royal Oman Police (ROP): Civil Defense, Immigration, Customs, Royal Oman Police Coast Guard (2021)<br>
 
 **Military expenditures**<br>
+8% of GDP (2021 est.)<br>
 11% of GDP (2020 est.)<br>
 11.8% of GDP (2019 est.) (approximately $12.1 billion)<br>
 11.2% of GDP (2018 est.) (approximately $11.8 billion)<br>
 12.3% of GDP (2017 est.) (approximately $12.7 billion)<br>
-13.9% of GDP (2016 est.) (approximately $14.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 40,000 total active troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2021)<br>

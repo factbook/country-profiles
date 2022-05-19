@@ -399,7 +399,7 @@ _selected World Heritage Site locales_: Town of Luangphrabang, Vat Phou and Asso
 ## Economy
 
 **Economic overview**<br>
-<p>The government of Laos, one of the few remaining one-party communist states, began decentralizing control and encouraging private enterprise in 1986. Economic growth averaged more than 6% per year in the period 1988-2008, and Laos' growth has more recently been amongst the fastest in Asia, averaging more than 7% per year for most of the last decade.</p><p></p><p>Nevertheless, Laos remains a country with an underdeveloped infrastructure, particularly in rural areas. It has a basic, but improving, road system, and limited external and internal land-line telecommunications. Electricity is available to 83% of the population. Agriculture, dominated by rice cultivation in lowland areas, accounts for about 20% of GDP and 73% of total employment. Recently, the country has faced a persistent current account deficit, falling foreign currency reserves, and growing public debt.</p><p></p><p>Laos' economy is heavily dependent on capital-intensive natural resource exports. The economy has benefited from high-profile foreign direct investment in hydropower dams along the Mekong River, copper and gold mining, logging, and construction, although some projects in these industries have drawn criticism for their environmental impacts.</p><p></p><p>Laos gained Normal Trade Relations status with the US in 2004 and applied for Generalized System of Preferences trade benefits in 2013 after being admitted to the World Trade Organization earlier in the year. Laos held the chairmanship of ASEAN in 2016. Laos is in the process of implementing a value-added tax system. The government appears committed to raising the country's profile among foreign investors and has developed special economic zones replete with generous tax incentives, but a limited labor pool, a small domestic market, and corruption remain impediments to investment. Laos also has ongoing problems with the business environment, including onerous registration requirements, a gap between legislation and implementation, and unclear or conflicting regulations.</p><br>
+<p>The government of Laos, one of the few remaining one-party communist states, began decentralizing control and encouraging private enterprise in 1986. Economic growth averaged more than 6% per year in the period 1988-2008, and Laos' growth has more recently been amongst the fastest in Asia, averaging more than 7% per year for most of the last decade.</p> <p> </p> <p>Nevertheless, Laos remains a country with an underdeveloped infrastructure, particularly in rural areas. It has a basic, but improving, road system, and limited external and internal land-line telecommunications. Electricity is available to 83% of the population. Agriculture, dominated by rice cultivation in lowland areas, accounts for about 20% of GDP and 73% of total employment. Recently, the country has faced a persistent current account deficit, falling foreign currency reserves, and growing public debt.</p> <p> </p> <p>Laos' economy is heavily dependent on capital-intensive natural resource exports. The economy has benefited from high-profile foreign direct investment in hydropower dams along the Mekong River, copper and gold mining, logging, and construction, although some projects in these industries have drawn criticism for their environmental impacts.</p> <p> </p> <p>Laos gained Normal Trade Relations status with the US in 2004 and applied for Generalized System of Preferences trade benefits in 2013 after being admitted to the World Trade Organization earlier in the year. Laos held the chairmanship of ASEAN in 2016. Laos is in the process of implementing a value-added tax system. The government appears committed to raising the country's profile among foreign investors and has developed special economic zones replete with generous tax incentives, but a limited labor pool, a small domestic market, and corruption remain impediments to investment. Laos also has ongoing problems with the business environment, including onerous registration requirements, a gap between legislation and implementation, and unclear or conflicting regulations.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $56.79 billion (2020 est.)<br>
@@ -612,8 +612,8 @@ _electrification - rural areas_: 93% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,490,831 (2019)<br>
-_subscriptions per 100 inhabitants_: 20.79 (2019 est.)<br>
+_total subscriptions_: 1.491 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 20 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 4,362,183 (2020)<br>
@@ -636,8 +636,8 @@ _total_: 2,473,689 (2020 est.)<br>
 _percent of population_: 34% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 128,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 1.76 (2021 est.)<br>
+_total_: 128,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1.8 (2020 est.)<br>
 
 ## Transportation
 

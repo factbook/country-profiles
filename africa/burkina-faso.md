@@ -411,7 +411,7 @@ _selected World Heritage Site locales_: Ruins of Lorop&eacute;ni (c), Ancient Fe
 ## Economy
 
 **Economic overview**<br>
-<p>Burkina Faso is a poor, landlocked country that depends on adequate rainfall. Irregular patterns of rainfall, poor soil, and the lack of adequate communications and other infrastructure contribute to the economy’s vulnerability to external shocks. About 80% of the population is engaged in subsistence farming and cotton is the main cash crop. The country has few natural resources and a weak industrial base.</p><p></p><p>Cotton and gold are Burkina Faso’s key exports - gold has accounted for about three-quarters of the country’s total export revenues. Burkina Faso’s economic growth and revenue depends largely on production levels and global prices for the two commodities. The country has seen an upswing in gold exploration, production, and exports.</p><p></p><p>In 2016, the government adopted a new development strategy, set forth in the 2016-2020 National Plan for Economic and Social Development, that aims to reduce poverty, build human capital, and to satisfy basic needs. A new three-year IMF program (2018-2020), approved in 2018, will allow the government to reduce the budget deficit and preserve critical spending on social services and priority public investments.</p><p></p><p>While the end of the political crisis has allowed Burkina Faso’s economy to resume positive growth, the country’s fragile security situation could put these gains at risk. Political insecurity in neighboring Mali, unreliable energy supplies, and poor transportation links pose long-term challenges.</p><br>
+<p>Burkina Faso is a poor, landlocked country that depends on adequate rainfall. Irregular patterns of rainfall, poor soil, and the lack of adequate communications and other infrastructure contribute to the economy’s vulnerability to external shocks. About 80% of the population is engaged in subsistence farming and cotton is the main cash crop. The country has few natural resources and a weak industrial base.</p> <p> </p> <p>Cotton and gold are Burkina Faso’s key exports - gold has accounted for about three-quarters of the country’s total export revenues. Burkina Faso’s economic growth and revenue depends largely on production levels and global prices for the two commodities. The country has seen an upswing in gold exploration, production, and exports.</p> <p> </p> <p>In 2016, the government adopted a new development strategy, set forth in the 2016-2020 National Plan for Economic and Social Development, that aims to reduce poverty, build human capital, and to satisfy basic needs. A new three-year IMF program (2018-2020), approved in 2018, will allow the government to reduce the budget deficit and preserve critical spending on social services and priority public investments.</p> <p> </p> <p>While the end of the political crisis has allowed Burkina Faso’s economy to resume positive growth, the country’s fragile security situation could put these gains at risk. Political insecurity in neighboring Mali, unreliable energy supplies, and poor transportation links pose long-term challenges.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $45.16 billion (2020 est.)<br>
@@ -624,8 +624,8 @@ _electrification - rural areas_: 2% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 75,039 (2020)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 75,039 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 22,117,218 (2020)<br>
@@ -648,8 +648,8 @@ _total_: 4,598,721 (2020 est.)<br>
 _percent of population_: 22% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 13,979 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.07 (2021) less than 1<br>
+_total_: 13,979 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.1 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -693,11 +693,11 @@ Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, L
 note - the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; for example, Gendarmerie, Army, and police forces were combined to form a 1,500-member task force known as the <em>Groupement des Forces Anti-Terroristes</em> (GFAT) to address terrorist activities along the country's northern border in 2013<br>
 
 **Military expenditures**<br>
-2.5% of GDP (2020 est.)<br>
+2.4% of GDP (2021 est.)<br>
+2.4% of GDP (2020 est.)<br>
 2.2% of GDP (2019 est.) (approximately $450 million)<br>
 1.9% of GDP (2018 est.) (approximately $370 million)<br>
 1.4% of GDP (2017 est.) (approximately $260 million)<br>
-1.2% of GDP (2016 est.) (approximately $200 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 personnel (7,000 Army; 500 Air Force; 4,500 National Gendarmerie) (2021)<br>
@@ -728,5 +728,5 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISGS); 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 24,756 (Mali) (2022)<br>
-_IDPs_: <p>1,814,283 (2022)</p><br>
+_IDPs_: <p>1,850,293 (2022)</p><br>
 

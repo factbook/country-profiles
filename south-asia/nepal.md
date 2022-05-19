@@ -401,7 +401,7 @@ _selected World Heritage Site locales_: Kathmandu Valley (c); Sagarmatha Nationa
 ## Economy
 
 **Economic overview**<br>
-<p>Nepal is among the least developed countries in the world, with about one-quarter of its population living below the poverty line. Nepal is heavily dependent on remittances, which amount to as much as 30% of GDP. Agriculture is the mainstay of the economy, providing a livelihood for almost two-thirds of the population but accounting for less than a third of GDP. Industrial activity mainly involves the processing of agricultural products, including pulses, jute, sugarcane, tobacco, and grain.</p><p></p><p>Nepal has considerable scope for exploiting its potential in hydropower, with an estimated 42,000 MW of commercially feasible capacity. Nepal has signed trade and investment agreements with India, China, and other countries, but political uncertainty and a difficult business climate have hampered foreign investment. The United States and Nepal signed a $500 million Millennium Challenge Corporation Compact in September 2017 which will expand Nepal’s electricity infrastructure and help maintain transportation infrastructure.</p><p></p><p>Massive earthquakes struck Nepal in early 2015, which damaged or destroyed infrastructure and homes and set back economic development. Although political gridlock and lack of capacity have hindered post-earthquake recovery, government-led reconstruction efforts have progressively picked up speed, although many hard hit areas still have seen little assistance. Additional challenges to Nepal's growth include its landlocked geographic location, inconsistent electricity supply, and underdeveloped transportation infrastructure.</p><br>
+<p>Nepal is among the least developed countries in the world, with about one-quarter of its population living below the poverty line. Nepal is heavily dependent on remittances, which amount to as much as 30% of GDP. Agriculture is the mainstay of the economy, providing a livelihood for almost two-thirds of the population but accounting for less than a third of GDP. Industrial activity mainly involves the processing of agricultural products, including pulses, jute, sugarcane, tobacco, and grain.</p> <p> </p> <p>Nepal has considerable scope for exploiting its potential in hydropower, with an estimated 42,000 MW of commercially feasible capacity. Nepal has signed trade and investment agreements with India, China, and other countries, but political uncertainty and a difficult business climate have hampered foreign investment. The United States and Nepal signed a $500 million Millennium Challenge Corporation Compact in September 2017 which will expand Nepal’s electricity infrastructure and help maintain transportation infrastructure.</p> <p> </p> <p>Massive earthquakes struck Nepal in early 2015, which damaged or destroyed infrastructure and homes and set back economic development. Although political gridlock and lack of capacity have hindered post-earthquake recovery, government-led reconstruction efforts have progressively picked up speed, although many hard hit areas still have seen little assistance. Additional challenges to Nepal's growth include its landlocked geographic location, inconsistent electricity supply, and underdeveloped transportation infrastructure.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $110.72 billion (2020 est.)<br>
@@ -613,8 +613,8 @@ _electrification - rural areas_: 93% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 799,368 (2018)<br>
-_subscriptions per 100 inhabitants_: 2.85 (2018 est.)<br>
+_total subscriptions_: 726,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 39,178,451 (2018)<br>
@@ -637,8 +637,8 @@ _total_: 11,071,987 (2020 est.)<br>
 _percent of population_: 38% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1.27 million (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 4.36 (2021 est.)<br>
+_total_: 1.27 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 ## Transportation
 
@@ -682,11 +682,11 @@ _unpaved_: 16,100 km (2016)<br>
 Nepal Army (includes Air Wing); Nepal Armed Police Force (under the Ministry of Home Affairs; paramilitary force responsible for border and internal security, including counter-insurgency, and assisting the Army in the event of an external invasion) (2021)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2021 est.)<br>
+1.3% of GDP (2020 est.)<br>
 2.1% of GDP (2019) (approximately $1.1 billion)<br>
 2.3% of GDP (2018) (approximately $1.11 billion)<br>
 2.6% of GDP (2017) (approximately $1.12 billion)<br>
-2.6% of GDP (2016) (approximately $990 million)<br>
-2.4% of GDP (2015) (approximately $950 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 95,000 active troops (including a small air wing of about 500 personnel) (2021)<br>

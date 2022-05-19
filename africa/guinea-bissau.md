@@ -375,7 +375,7 @@ _lyrics/music_: Amilcar Lopes CABRAL/XIAO He<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Guinea-Bissau is highly dependent on subsistence agriculture, cashew nut exports, and foreign assistance. Two out of three Bissau-Guineans remain below the absolute poverty line. The legal economy is based on cashews and fishing. Illegal logging and trafficking in narcotics also play significant roles. The combination of limited economic prospects, weak institutions, and favorable geography have made this West African country a way station for drugs bound for Europe.</p><p></p><p>Guinea-Bissau has substantial potential for development of mineral resources, including phosphates, bauxite, and mineral sands. Offshore oil and gas exploration has begun. The country’s climate and soil make it feasible to grow a wide range of cash crops, fruit, vegetables, and tubers; however, cashews generate more than 80% of export receipts and are the main source of income for many rural communities.</p><p></p><p>The government was deposed in August 2015, and since then, a political stalemate has resulted in weak governance and reduced donor support.</p><p></p><p>The country is participating in a three-year, IMF extended credit facility program that was suspended because of a planned bank bailout. The program was renewed in 2017, but the major donors of direct budget support (the EU, World Bank, and African Development Bank) have halted their programs indefinitely. Diversification of the economy remains a key policy goal, but Guinea-Bissau’s poor infrastructure and business climate will constrain this effort.</p><br>
+<p>Guinea-Bissau is highly dependent on subsistence agriculture, cashew nut exports, and foreign assistance. Two out of three Bissau-Guineans remain below the absolute poverty line. The legal economy is based on cashews and fishing. Illegal logging and trafficking in narcotics also play significant roles. The combination of limited economic prospects, weak institutions, and favorable geography have made this West African country a way station for drugs bound for Europe.</p> <p> </p> <p>Guinea-Bissau has substantial potential for development of mineral resources, including phosphates, bauxite, and mineral sands. Offshore oil and gas exploration has begun. The country’s climate and soil make it feasible to grow a wide range of cash crops, fruit, vegetables, and tubers; however, cashews generate more than 80% of export receipts and are the main source of income for many rural communities.</p> <p> </p> <p>The government was deposed in August 2015, and since then, a political stalemate has resulted in weak governance and reduced donor support.</p> <p> </p> <p>The country is participating in a three-year, IMF extended credit facility program that was suspended because of a planned bank bailout. The program was renewed in 2017, but the major donors of direct budget support (the EU, World Bank, and African Development Bank) have halted their programs indefinitely. Diversification of the economy remains a key policy goal, but Guinea-Bissau’s poor infrastructure and business climate will constrain this effort.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.64 billion (2020 est.)<br>
@@ -577,7 +577,7 @@ _electrification - rural areas_: 7% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 0 (2018)<br>
+_total subscriptions_: 0 (2018 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -601,8 +601,8 @@ _total_: 452,640 (2020 est.)<br>
 _percent of population_: 23% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,383 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.12 (2021) less than 1<br>
+_total_: 2,383 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.12 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -645,11 +645,11 @@ People's Revolutionary Armed Force (FARP): Army, Navy, Air Force<br><br>Ministry
 note - the Public Order Police is responsible for maintaining law and order, while the Judicial Police, under the Ministry of Justice, has primary responsibility for investigating drug trafficking, terrorism, and other transnational crimes<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
 1.9% of GDP (2019 est.) (approximately $50 million)<br>
 1.7% of GDP (2018 est.) (approximately $45 million)<br>
 1.7% of GDP (2017 est.) (approximately $45 million)<br>
-1.6% of GDP (2016 est.) (approximately $40 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 4,000 total active troops, including a few hundred air and naval personnel (2021)<br>

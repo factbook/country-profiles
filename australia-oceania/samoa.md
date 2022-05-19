@@ -374,7 +374,7 @@ _lyrics/music_: Sauni Liga KURESA<br>
 ## Economy
 
 **Economic overview**<br>
-<p>The economy of Samoa has traditionally been dependent on development aid, family remittances from overseas, tourism, agriculture, and fishing. It has a nominal GDP of $844 million. Agriculture, including fishing, furnishes 90% of exports, featuring fish, coconut oil, nonu products, and taro. The manufacturing sector mainly processes agricultural products. Industry accounts for nearly 22% of GDP while employing less than 6% of the work force. The service sector accounts for nearly two-thirds of GDP and employs approximately 50% of the labor force. Tourism is an expanding sector accounting for 25% of GDP; 132,000 tourists visited the islands in 2013.</p><p></p><p>The country is vulnerable to devastating storms. In September 2009, an earthquake and the resulting tsunami severely damaged Samoa and nearby American Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. In December 2012, extensive flooding and wind damage from Tropical Cyclone Evan killed four people, displaced over 6,000, and damaged or destroyed an estimated 1,500 homes on Samoa's Upolu Island.</p><p></p><p>The Samoan Government has called for deregulation of the country's financial sector, encouragement of investment, and continued fiscal discipline, while at the same time protecting the environment. Foreign reserves are relatively healthy and inflation is low, but external debt is approximately 45% of GDP. Samoa became the 155th member of the WTO in May 2012, and graduated from least developed country status in January 2014.</p><br>
+<p>The economy of Samoa has traditionally been dependent on development aid, family remittances from overseas, tourism, agriculture, and fishing. It has a nominal GDP of $844 million. Agriculture, including fishing, furnishes 90% of exports, featuring fish, coconut oil, nonu products, and taro. The manufacturing sector mainly processes agricultural products. Industry accounts for nearly 22% of GDP while employing less than 6% of the work force. The service sector accounts for nearly two-thirds of GDP and employs approximately 50% of the labor force. Tourism is an expanding sector accounting for 25% of GDP; 132,000 tourists visited the islands in 2013.</p> <p> </p> <p>The country is vulnerable to devastating storms. In September 2009, an earthquake and the resulting tsunami severely damaged Samoa and nearby American Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. In December 2012, extensive flooding and wind damage from Tropical Cyclone Evan killed four people, displaced over 6,000, and damaged or destroyed an estimated 1,500 homes on Samoa's Upolu Island.</p> <p> </p> <p>The Samoan Government has called for deregulation of the country's financial sector, encouragement of investment, and continued fiscal discipline, while at the same time protecting the environment. Foreign reserves are relatively healthy and inflation is low, but external debt is approximately 45% of GDP. Samoa became the 155th member of the WTO in May 2012, and graduated from least developed country status in January 2014.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.25 billion (2020 est.)<br>
@@ -579,8 +579,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8,454 (2018)<br>
-_subscriptions per 100 inhabitants_: 4.33 (2018 est.)<br>
+_total subscriptions_: 6,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 124,211 (2018)<br>
@@ -603,8 +603,8 @@ _total_: 67,012 (2019 est.)<br>
 _percent of population_: 34% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,692 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.85 (2021 est.) less than 1<br>
+_total_: 1,692 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.85 (2020 est.) less than 1<br>
 
 ## Transportation
 

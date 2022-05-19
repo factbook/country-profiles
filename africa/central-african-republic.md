@@ -413,7 +413,7 @@ _selected World Heritage Site locales_: Manovo-Gounda St. Floris National Park, 
 ## Economy
 
 **Economic overview**<br>
-<p>Subsistence agriculture, together with forestry and mining, remains the backbone of the economy of the Central African Republic (CAR), with about 60% of the population living in outlying areas. The agricultural sector generates more than half of estimated GDP, although statistics are unreliable in the conflict-prone country. Timber and diamonds account for most export earnings, followed by cotton. Important constraints to economic development include the CAR's landlocked geography, poor transportation system, largely unskilled work force, and legacy of misdirected macroeconomic policies. Factional fighting between the government and its opponents remains a drag on economic revitalization. Distribution of income is highly unequal and grants from the international community can only partially meet humanitarian needs. CAR shares a common currency with the Central African Monetary Union. The currency is pegged to the Euro.</p><p></p><p>Since 2009, the IMF has worked closely with the government to institute reforms that have resulted in some improvement in budget transparency, but other problems remain. The government's additional spending in the run-up to the 2011 election worsened CAR's fiscal situation. In 2012, the World Bank approved $125 million in funding for transport infrastructure and regional trade, focused on the route between CAR's capital and the port of Douala in Cameroon. In July 2016, the IMF approved a three-year extended credit facility valued at $116 million; in mid-2017, the IMF completed a review of CAR’s fiscal performance and broadly approved of the government’s management, although issues with revenue collection, weak government capacity, and transparency remain. The World Bank in late 2016 approved a $20 million grant to restore basic fiscal management, improve transparency, and assist with economic recovery.</p><p></p><p>Participation in the Kimberley Process, a commitment to remove conflict diamonds from the global supply chain, led to a partially lifted the ban on diamond exports from CAR in 2015, but persistent insecurity is likely to constrain real GDP growth.</p><br>
+<p>Subsistence agriculture, together with forestry and mining, remains the backbone of the economy of the Central African Republic (CAR), with about 60% of the population living in outlying areas. The agricultural sector generates more than half of estimated GDP, although statistics are unreliable in the conflict-prone country. Timber and diamonds account for most export earnings, followed by cotton. Important constraints to economic development include the CAR's landlocked geography, poor transportation system, largely unskilled work force, and legacy of misdirected macroeconomic policies. Factional fighting between the government and its opponents remains a drag on economic revitalization. Distribution of income is highly unequal and grants from the international community can only partially meet humanitarian needs. CAR shares a common currency with the Central African Monetary Union. The currency is pegged to the Euro.</p> <p> </p> <p>Since 2009, the IMF has worked closely with the government to institute reforms that have resulted in some improvement in budget transparency, but other problems remain. The government's additional spending in the run-up to the 2011 election worsened CAR's fiscal situation. In 2012, the World Bank approved $125 million in funding for transport infrastructure and regional trade, focused on the route between CAR's capital and the port of Douala in Cameroon. In July 2016, the IMF approved a three-year extended credit facility valued at $116 million; in mid-2017, the IMF completed a review of CAR’s fiscal performance and broadly approved of the government’s management, although issues with revenue collection, weak government capacity, and transparency remain. The World Bank in late 2016 approved a $20 million grant to restore basic fiscal management, improve transparency, and assist with economic recovery.</p> <p> </p> <p>Participation in the Kimberley Process, a commitment to remove conflict diamonds from the global supply chain, led to a partially lifted the ban on diamond exports from CAR in 2015, but persistent insecurity is likely to constrain real GDP growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.483 billion (2019 est.)<br>
@@ -612,8 +612,8 @@ _electrification - rural areas_: 0.4% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,193 (2018)<br>
-_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
+_total subscriptions_: 2,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1,595,294 (2019)<br>
@@ -636,7 +636,7 @@ _total_: 482,976 (2020 est.)<br>
 _percent of population_: 10% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 499 (2019) Data available for 2019 only.<br>
+_total_: 499 (2019 est.) Data available for 2019 only.<br>
 _subscriptions per 100 inhabitants_: 0.01 (2019 est.) less than 1<br>
 
 ## Transportation
@@ -683,11 +683,11 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 note - in 2019-2021, CAR created three Mixed Special Security units (<em>Unités Spéciales Mixtes de Sécurité</em> or USMS), regionally based battalion-sized units comprised of about 40% government and 60% rebel soldiers that are intended to provide security along transportation corridors and at mining sites; the units are intended to be transitional in nature with a scheduled deployment time of two years<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
 1.7% of GDP (2019 est.) (approximately $50 million)<br>
 1.4% of GDP (2018 est.) (approximately $40 million)<br>
 1.4% of GDP (2017 est.) (approximately $40 million)<br>
-1.6% of GDP (2016 est.) (approximately $40 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active troops, including an air component of about 200 and up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2021)<br>

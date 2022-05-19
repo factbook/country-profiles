@@ -395,7 +395,7 @@ _lyrics/music_: Clifford Nelson FYLE/John Joseph AKA<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Sierra Leone is extremely poor and nearly half of the working-age population engages in subsistence agriculture. The country possesses substantial mineral, agricultural, and fishery resources, but it is still recovering from a civil war that destroyed most institutions before ending in the early 2000s.</p><p></p><p>In recent years, economic growth has been driven by mining - particularly iron ore. The country’s principal exports are iron ore, diamonds, and rutile, and the economy is vulnerable to fluctuations in international prices. Until 2014, the government had relied on external assistance to support its budget, but it was gradually becoming more independent. The Ebola outbreak of 2014 and 2015, combined with falling global commodities prices, caused a significant contraction of economic activity in all areas. While the World Health Organization declared an end to the Ebola outbreak in Sierra Leone in November 2015, low commodity prices in 2015-2016 contributed to the country’s biggest fiscal shortfall since 2001. In 2017, increased iron ore exports, together with the end of the Ebola epidemic, supported a resumption of economic growth.</p><p></p><p>Continued economic growth will depend on rising commodities prices and increased efforts to diversify the sources of growth. Non-mining activities will remain constrained by inadequate infrastructure, such as power and roads, even though power sector projects may provide some additional electricity capacity in the near term. Pervasive corruption and undeveloped human capital will continue to deter foreign investors. Sustained international donor support in the near future will partially offset these fiscal constraints.</p><br>
+<p>Sierra Leone is extremely poor and nearly half of the working-age population engages in subsistence agriculture. The country possesses substantial mineral, agricultural, and fishery resources, but it is still recovering from a civil war that destroyed most institutions before ending in the early 2000s.</p> <p> </p> <p>In recent years, economic growth has been driven by mining - particularly iron ore. The country’s principal exports are iron ore, diamonds, and rutile, and the economy is vulnerable to fluctuations in international prices. Until 2014, the government had relied on external assistance to support its budget, but it was gradually becoming more independent. The Ebola outbreak of 2014 and 2015, combined with falling global commodities prices, caused a significant contraction of economic activity in all areas. While the World Health Organization declared an end to the Ebola outbreak in Sierra Leone in November 2015, low commodity prices in 2015-2016 contributed to the country’s biggest fiscal shortfall since 2001. In 2017, increased iron ore exports, together with the end of the Ebola epidemic, supported a resumption of economic growth.</p> <p> </p> <p>Continued economic growth will depend on rising commodities prices and increased efforts to diversify the sources of growth. Non-mining activities will remain constrained by inadequate infrastructure, such as power and roads, even though power sector projects may provide some additional electricity capacity in the near term. Pervasive corruption and undeveloped human capital will continue to deter foreign investors. Sustained international donor support in the near future will partially offset these fiscal constraints.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $13.15 billion (2020 est.)<br>
@@ -605,7 +605,7 @@ _electrification - rural areas_: 6% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 189 (2020)<br>
+_total subscriptions_: 189 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -674,11 +674,11 @@ _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>
 Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Command with Land Forces, Maritime Forces, and an Air Wing (2021)<br>
 
 **Military expenditures**<br>
+0.3% of GDP (2021 est.)<br>
 0.3% of GDP (2020 est.)<br>
 0.3% of GDP (2019 est.) (approximately $35 million)<br>
 0.3% of GDP (2018 est.) (approximately $45 million)<br>
 0.3% of GDP (2017 est.) (approximately $40 million)<br>
-0.4% of GDP (2016 est.) (approximately $45 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Republic of Sierra Leone Armed Forces (RSLAF) have approximately 9,000 personnel, mostly ground forces (2021)<br>

@@ -384,7 +384,7 @@ _selected World Heritage Site locales_: Ancient City of Damascus, Ancient City o
 ## Economy
 
 **Economic overview**<br>
-<p>Syria's economy has deeply deteriorated amid the ongoing conflict that began in 2011, declining by more than 70% from 2010 to 2017. The government has struggled to fully address the effects of international sanctions, widespread infrastructure damage, diminished domestic consumption and production, reduced subsidies, and high inflation, which have caused dwindling foreign exchange reserves, rising budget and trade deficits, a decreasing value of the Syrian pound, and falling household purchasing power. In 2017, some economic indicators began to stabilize, including the exchange rate and inflation, but economic activity remains depressed and GDP almost certainly fell.</p><p></p><p>During 2017, the ongoing conflict and continued unrest and economic decline worsened the humanitarian crisis, necessitating high levels of international assistance, as more than 13 million people remain in need inside Syria, and the number of registered Syrian refugees increased from 4.8 million in 2016 to more than 5.4 million.</p><p></p><p>Prior to the turmoil, Damascus had begun liberalizing economic policies, including cutting lending interest rates, opening private banks, consolidating multiple exchange rates, raising prices on some subsidized items, and establishing the Damascus Stock Exchange, but the economy remains highly regulated. Long-run economic constraints include foreign trade barriers, declining oil production, high unemployment, rising budget deficits, increasing pressure on water supplies caused by heavy use in agriculture, industrial contaction, water pollution, and widespread infrastructure damage.</p><br>
+<p>Syria's economy has deeply deteriorated amid the ongoing conflict that began in 2011, declining by more than 70% from 2010 to 2017. The government has struggled to fully address the effects of international sanctions, widespread infrastructure damage, diminished domestic consumption and production, reduced subsidies, and high inflation, which have caused dwindling foreign exchange reserves, rising budget and trade deficits, a decreasing value of the Syrian pound, and falling household purchasing power. In 2017, some economic indicators began to stabilize, including the exchange rate and inflation, but economic activity remains depressed and GDP almost certainly fell.</p> <p> </p> <p>During 2017, the ongoing conflict and continued unrest and economic decline worsened the humanitarian crisis, necessitating high levels of international assistance, as more than 13 million people remain in need inside Syria, and the number of registered Syrian refugees increased from 4.8 million in 2016 to more than 5.4 million.</p> <p> </p> <p>Prior to the turmoil, Damascus had begun liberalizing economic policies, including cutting lending interest rates, opening private banks, consolidating multiple exchange rates, raising prices on some subsidized items, and establishing the Damascus Stock Exchange, but the economy remains highly regulated. Long-run economic constraints include foreign trade barriers, declining oil production, high unemployment, rising budget deficits, increasing pressure on water supplies caused by heavy use in agriculture, industrial contaction, water pollution, and widespread infrastructure damage.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $50.28 billion (2015 est.)<br>
@@ -590,8 +590,8 @@ _electrification - rural areas_: 84% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,892,515 (2020)<br>
-_subscriptions per 100 inhabitants_: 16.53 (2020 est.)<br>
+_total subscriptions_: 2,857,193 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 19,387,600 (2019)<br>
@@ -614,8 +614,8 @@ _total_: 6,300,237 (2020 est.)<br>
 _percent of population_: 36% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,549,356 (2021)<br>
-_subscriptions per 100 inhabitants_: 8.85 (2021)<br>
+_total_: 1,549,356 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
 
 ## Transportation
 
@@ -712,7 +712,7 @@ Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras 
 _refugees (country of origin)_: 568,730 (Palestinian Refugees) (2020); 12,435 (Iraq) (mid-year 2021)<br>
 _IDPs_: 6.568 million (ongoing civil war since 2011) (2020)<br>
 _stateless persons_: 160,000 (mid-year 2021); note - Syria's stateless population consists of Kurds and Palestinians; stateless persons are prevented from voting, owning land, holding certain jobs, receiving food subsidies or public healthcare, enrolling in public schools, or being legally married to Syrian citizens; in 1962, some 120,000 Syrian Kurds were stripped of their Syrian citizenship, rendering them and their descendants stateless; in 2011, the Syrian Government granted citizenship to thousands of Syrian Kurds as a means of appeasement; however, resolving the question of statelessness is not a priority given Syria's ongoing civil war<br>
-<strong>note:</strong> the ongoing civil war has resulted in more than 5.7 million registered Syrian refugees - dispersed in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of March 2022<br>
+<strong>note:</strong> the ongoing civil war has resulted in more than 5.7 million registered Syrian refugees - dispersed in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of May 2022<br>
 
 **Trafficking in persons**<br>
 _current situation_: due to Syria&rsquo;s civil war, hundreds of thousands of Syrians, foreign migrant workers, and refugees have fled the country and are vulnerable to human trafficking; the lack of security and inaccessibility of the majority of the country makes it impossible to conduct a thorough analysis of the impact of the ongoing conflict on the scope and magnitude of Syria&rsquo;s human trafficking situation; prior to the uprising, the Syrian armed forces and opposition forces used Syrian children in combat and support roles and as human shields<br>

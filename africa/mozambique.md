@@ -416,7 +416,7 @@ _selected World Heritage Site locales_: Island of Mozambique<br>
 ## Economy
 
 **Economic overview**<br>
-<p>At independence in 1975, Mozambique was one of the world's poorest countries. Socialist policies, economic mismanagement, and a brutal civil war from 1977 to 1992 further impoverished the country. In 1987, the government embarked on a series of macroeconomic reforms designed to stabilize the economy. These steps, combined with donor assistance and with political stability since the multi-party elections in 1994, propelled the country’s GDP, in purchasing power parity terms, from $4 billion in 1993 to about $37 billion in 2017. Fiscal reforms, including the introduction of a value-added tax and reform of the customs service, have improved the government's revenue collection abilities. In spite of these gains, about half the population remains below the poverty line and subsistence agriculture continues to employ the vast majority of the country's work force.</p><p></p><p>Mozambique's once substantial foreign debt was reduced through forgiveness and rescheduling under the IMF's Heavily Indebted Poor Countries (HIPC) and Enhanced HIPC initiatives. However, in 2016, information surfaced revealing that the Mozambican Government was responsible for over $2 billion in government-backed loans secured between 2012-14 by state-owned defense and security companies without parliamentary approval or national budget inclusion; this prompted the IMF and international donors to halt direct budget support to the Government of Mozambique. An international audit was performed on Mozambique’s debt in 2016-17, but debt restructuring and resumption of donor support have yet to occur.</p><p></p><p>Mozambique grew at an average annual rate of 6%-8% in the decade leading up to 2015, one of Africa's strongest performances, but the sizable external debt burden, donor withdrawal, elevated inflation, and currency depreciation contributed to slower growth in 2016-17.</p><p></p><p>Two major International consortiums, led by American companies ExxonMobil and Anadarko, are seeking approval to develop massive natural gas deposits off the coast of Cabo Delgado province, in what has the potential to become the largest infrastructure project in Africa. . The government predicts sales of liquefied natural gas from these projects could generate several billion dollars in revenues annually sometime after 2022.</p><br>
+<p>At independence in 1975, Mozambique was one of the world's poorest countries. Socialist policies, economic mismanagement, and a brutal civil war from 1977 to 1992 further impoverished the country. In 1987, the government embarked on a series of macroeconomic reforms designed to stabilize the economy. These steps, combined with donor assistance and with political stability since the multi-party elections in 1994, propelled the country’s GDP, in purchasing power parity terms, from $4 billion in 1993 to about $37 billion in 2017. Fiscal reforms, including the introduction of a value-added tax and reform of the customs service, have improved the government's revenue collection abilities. In spite of these gains, about half the population remains below the poverty line and subsistence agriculture continues to employ the vast majority of the country's work force.</p> <p> </p> <p>Mozambique's once substantial foreign debt was reduced through forgiveness and rescheduling under the IMF's Heavily Indebted Poor Countries (HIPC) and Enhanced HIPC initiatives. However, in 2016, information surfaced revealing that the Mozambican Government was responsible for over $2 billion in government-backed loans secured between 2012-14 by state-owned defense and security companies without parliamentary approval or national budget inclusion; this prompted the IMF and international donors to halt direct budget support to the Government of Mozambique. An international audit was performed on Mozambique’s debt in 2016-17, but debt restructuring and resumption of donor support have yet to occur.</p> <p> </p> <p>Mozambique grew at an average annual rate of 6%-8% in the decade leading up to 2015, one of Africa's strongest performances, but the sizable external debt burden, donor withdrawal, elevated inflation, and currency depreciation contributed to slower growth in 2016-17.</p> <p> </p> <p>Two major International consortiums, led by American companies ExxonMobil and Anadarko, are seeking approval to develop massive natural gas deposits off the coast of Cabo Delgado province, in what has the potential to become the largest infrastructure project in Africa. . The government predicts sales of liquefied natural gas from these projects could generate several billion dollars in revenues annually sometime after 2022.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $38.42 billion (2020 est.)<br>
@@ -632,8 +632,8 @@ _electrification - rural areas_: 22% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 80,791 (2019)<br>
-_subscriptions per 100 inhabitants_: (2019 est.) less than 1<br>
+_total subscriptions_: 89,016 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 14,773,364 (2019)<br>
@@ -656,8 +656,8 @@ _total_: 5,313,424 (2020 est.)<br>
 _percent of population_: 17% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 70,000 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.22 (2021) less than 1<br>
+_total_: 70,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.22 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -717,11 +717,11 @@ Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM
 note - the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
 1.2% of GDP (2019 est.) (approximately $220 million)<br>
 1.1% of GDP (2018 est.) (approximately $210 million)<br>
 0.9% of GDP (2017 est.) (approximately $170 million)<br>
-0.9% of GDP (2016 est.) (approximately $170 million)<br>
 
 **Military and security service personnel strengths**<br>
 information limited and varied; approximately 12,000 personnel (11,000 Army; 200 Navy; 800 Air Force) (2021)<br>

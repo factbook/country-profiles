@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Resistance by native Caribs prevented colonization on Saint Vincent until 1719. Disputed between France and the UK for most of the 18th century, the island was ceded to the latter in 1783. The British prized Saint Vincent due to its fertile soil, which allowed for thriving slave-run plantations of sugar, coffee, indigo, tobacco, cotton, and cocoa. In 1834, the British abolished slavery. Immigration of indentured servants eased the ensuing labor shortage, as did subsequent Portuguese immigrants from Madeira and East Indian laborers. Conditions remained harsh for both former slaves and immigrant agricultural workers, however, as depressed world sugar prices kept the economy stagnant until the early 1900s. The economy then went into a period of decline with many landowners abandoning their estates and leaving the land to be cultivated by liberated slaves. Between 1960 and 1962, Saint Vincent and the Grenadines was a separate administrative unit of the Federation of the West Indies. Autonomy was granted in 1969 and independence in 1979.<br>
+Resistance by native Caribs prevented colonization on Saint Vincent until 1719. Disputed between France and the UK for most of the 18th century, the island was ceded to the latter in 1783. The British prized Saint Vincent due to its fertile soil, which allowed for thriving slave-run plantations of sugar, coffee, indigo, tobacco, cotton, and cocoa. In 1834, the British abolished slavery. Immigration of indentured servants eased the ensuing labor shortage, as did subsequent Portuguese immigrants from Madeira and East Indian laborers. Conditions remained harsh for both former slaves and immigrant agricultural workers, however, as depressed world sugar prices kept the economy stagnant until the early 1900s. The economy then went into a period of decline with many landowners abandoning their estates and leaving the land to be cultivated by liberated slaves. Between 1960 and 1962, Saint Vincent and the Grenadines was a separate administrative unit of the Federation of the West Indies. Autonomy was granted in 1969 and independence in 1979. In April 2021, the explosive eruption of the La Soufri&egrave;re volcano in the north of Saint Vincent destroyed much of Saint Vincent&rsquo;s most productive agricultural lands. Unlike most of its tourism-dependent neighbors, the Vincentian economy is primarily agricultural. The US provided $4.7 million in humanitarian support after the eruption.<br>
 
 ## Geography
 
@@ -341,7 +341,7 @@ _lyrics/music_: Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Success of the economy hinges upon seasonal variations in agriculture, tourism, and construction activity, as well as remittances. Much of the workforce is employed in banana production and tourism. Saint Vincent and the Grenadines is home to a small offshore banking sector and continues to fully adopt international regulatory standards.</p><p></p><p>This lower-middle-income country remains vulnerable to natural and external shocks. The economy has shown some signs of recovery due to increased tourist arrivals, falling oil prices and renewed growth in the construction sector. The much anticipated international airport opened in early 2017 with hopes for increased airlift and tourism activity. The government's ability to invest in social programs and respond to external shocks is constrained by its high public debt burden, which was 67% of GDP at the end of 2013.</p><br>
+<p>Success of the economy hinges upon seasonal variations in agriculture, tourism, and construction activity, as well as remittances. Much of the workforce is employed in banana production and tourism. Saint Vincent and the Grenadines is home to a small offshore banking sector and continues to fully adopt international regulatory standards.</p> <p> </p> <p>This lower-middle-income country remains vulnerable to natural and external shocks. The economy has shown some signs of recovery due to increased tourist arrivals, falling oil prices and renewed growth in the construction sector. The much anticipated international airport opened in early 2017 with hopes for increased airlift and tourism activity. The government's ability to invest in social programs and respond to external shocks is constrained by its high public debt burden, which was 67% of GDP at the end of 2013.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.34 billion (2020 est.)<br>
@@ -541,8 +541,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 12,483 (2020)<br>
-_subscriptions per 100 inhabitants_: 11.25 (2020 est.)<br>
+_total subscriptions_: 12,483 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 102,700 (2019)<br>
@@ -565,8 +565,8 @@ _total_: 24,408 (2020 est.)<br>
 _percent of population_: 22% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 24,733 (2020)<br>
-_subscriptions per 100 inhabitants_: 22.29 (2020)<br>
+_total_: 24,733 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 22 (2020 est.)<br>
 
 ## Transportation
 

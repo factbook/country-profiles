@@ -378,7 +378,7 @@ _selected World Heritage Site locales_: Belfries of Belgium (c); Historic Brugge
 ## Economy
 
 **Economic overview**<br>
-<p>Belgium’s central geographic location and highly developed transport network have helped develop a well-diversified economy, with a broad mix of transport, services, manufacturing, and high tech. Service and high-tech industries are concentrated in the northern Flanders region while the southern region of Wallonia is home to industries like coal and steel manufacturing. Belgium is completely reliant on foreign sources of fossil fuels, and the planned closure of its seven nuclear plants by 2025 should increase its dependence on foreign energy. Its role as a regional logistical hub makes its economy vulnerable to shifts in foreign demand, particularly with EU trading partners. Roughly three-quarters of Belgium's trade is with other EU countries, and the port of Zeebrugge conducts almost half its trade with the United Kingdom alone, leaving Belgium’s economy vulnerable to the outcome of negotiations on the UK’s exit from the EU.</p><p></p><p>Belgium’s GDP grew by 1.7% in 2017 and the budget deficit was 1.5% of GDP. Unemployment stood at 7.3%, however the unemployment rate is lower in Flanders than Wallonia, 4.4% compared to 9.4%, because of industrial differences between the regions. The economy largely recovered from the March 2016 terrorist attacks that mainly impacted the Brussels region tourist and hospitality industry. Prime Minister Charles MICHEL's center-right government has pledged to further reduce the deficit in response to EU pressure to decrease Belgium's high public debt of about 104% of GDP, but such efforts would also dampen economic growth. In addition to restrained public spending, low wage growth and higher inflation promise to curtail a more robust recovery in private consumption.</p><p></p><p>The government has pledged to pursue a reform program to improve Belgium’s competitiveness, including changes to labor market rules and welfare benefits. These changes have generally made Belgian wages more competitive regionally, but have raised tensions with trade unions, which have called for extended strikes. In 2017, Belgium approved a tax reform plan to ease corporate rates from 33% to 29% by 2018 and down to 25% by 2020. The tax plan also included benefits for innovation and SMEs, intended to spur competitiveness and private investment.</p><br>
+<p>Belgium’s central geographic location and highly developed transport network have helped develop a well-diversified economy, with a broad mix of transport, services, manufacturing, and high tech. Service and high-tech industries are concentrated in the northern Flanders region while the southern region of Wallonia is home to industries like coal and steel manufacturing. Belgium is completely reliant on foreign sources of fossil fuels, and the planned closure of its seven nuclear plants by 2025 should increase its dependence on foreign energy. Its role as a regional logistical hub makes its economy vulnerable to shifts in foreign demand, particularly with EU trading partners. Roughly three-quarters of Belgium's trade is with other EU countries, and the port of Zeebrugge conducts almost half its trade with the United Kingdom alone, leaving Belgium’s economy vulnerable to the outcome of negotiations on the UK’s exit from the EU.</p> <p> </p> <p>Belgium’s GDP grew by 1.7% in 2017 and the budget deficit was 1.5% of GDP. Unemployment stood at 7.3%, however the unemployment rate is lower in Flanders than Wallonia, 4.4% compared to 9.4%, because of industrial differences between the regions. The economy largely recovered from the March 2016 terrorist attacks that mainly impacted the Brussels region tourist and hospitality industry. Prime Minister Charles MICHEL's center-right government has pledged to further reduce the deficit in response to EU pressure to decrease Belgium's high public debt of about 104% of GDP, but such efforts would also dampen economic growth. In addition to restrained public spending, low wage growth and higher inflation promise to curtail a more robust recovery in private consumption.</p> <p> </p> <p>The government has pledged to pursue a reform program to improve Belgium’s competitiveness, including changes to labor market rules and welfare benefits. These changes have generally made Belgian wages more competitive regionally, but have raised tensions with trade unions, which have called for extended strikes. In 2017, Belgium approved a tax reform plan to ease corporate rates from 33% to 29% by 2018 and down to 25% by 2020. The tax plan also included benefits for innovation and SMEs, intended to spur competitiveness and private investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $557.11 billion (2020 est.)<br>
@@ -594,12 +594,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,634,639 (2020)<br>
-_subscriptions per 100 inhabitants_: 31.36 (2020 est.)<br>
+_total subscriptions_: 3,634,639 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,529,728 (2020)<br>
-_subscriptions per 100 inhabitants_: 99.48 (2020 est.)<br>
+_total subscriptions_: 11,529,728 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 99 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Belgium has a highly developed, technologically advanced telecom system; LTE is nearly universal; ongoing investment in 5G with services to dozens of cities and towns; competition between the DSL and cable platforms with investment in fiber networks; 5G; operators accelerating fiber roll-out program; Brussels Airport collaborating with operator to deploy 5G and IoT solutions; international connections through satellite and submarine cables; importer of broadcast equipment from EU neighbors (2020)<br>
@@ -618,8 +618,8 @@ _total_: 10,620,701 (2020 est.)<br>
 _percent of population_: 92% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,734,210 (2021)<br>
-_subscriptions per 100 inhabitants_: 40.85 (2021)<br>
+_total_: 4,734,210 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 41 (2020 est.)<br>
 
 ## Transportation
 

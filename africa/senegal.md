@@ -419,7 +419,7 @@ _selected World Heritage Site locales_: Island of Gor&eacute;e (c); Niokolo-Koba
 ## Economy
 
 **Economic overview**<br>
-<p>Senegal’s economy is driven by mining, construction, tourism, fisheries and agriculture, which are the primary sources of employment in rural areas. The country's key export industries include phosphate mining, fertilizer production, agricultural products and commercial fishing and Senegal is also working on oil exploration projects. It relies heavily on donor assistance, remittances and foreign direct investment. Senegal reached a growth rate of 7% in 2017, due in part to strong performance in agriculture despite erratic rainfall.</p><p></p><p>President Macky SALL, who was elected in March 2012 under a reformist policy agenda, inherited an economy with high energy costs, a challenging business environment, and a culture of overspending. President SALL unveiled an ambitious economic plan, the Emerging Senegal Plan (ESP), which aims to implement priority economic reforms and investment projects to increase economic growth while preserving macroeconomic stability and debt sustainability. Bureaucratic bottlenecks and a challenging business climate are among the perennial challenges that may slow the implementation of this plan.</p><p></p><p>Senegal receives technical support from the IMF under a Policy Support Instrument (PSI) to assist with implementation of the ESP. The PSI implementation continues to be satisfactory as concluded by the IMF’s fifth review in December 2017. Financial markets have signaled confidence in Senegal through successful Eurobond issuances in 2014, 2017, and 2018.</p><p></p><p>The government is focusing on 19 projects under the ESP to continue The government’s goal under the ESP is structural transformation of the economy. Key projects include the Thiès-Touba Highway, the new international airport opened in December 2017, and upgrades to energy infrastructure. The cost of electricity is a chief constraint for Senegal’s development. Electricity prices in Senegal are among the highest in the world. Power Africa, a US presidential initiative led by USAID, supports Senegal’s plans to improve reliability and increase generating capacity.</p><br>
+<p>Senegal’s economy is driven by mining, construction, tourism, fisheries and agriculture, which are the primary sources of employment in rural areas. The country's key export industries include phosphate mining, fertilizer production, agricultural products and commercial fishing and Senegal is also working on oil exploration projects. It relies heavily on donor assistance, remittances and foreign direct investment. Senegal reached a growth rate of 7% in 2017, due in part to strong performance in agriculture despite erratic rainfall.</p> <p> </p> <p>President Macky SALL, who was elected in March 2012 under a reformist policy agenda, inherited an economy with high energy costs, a challenging business environment, and a culture of overspending. President SALL unveiled an ambitious economic plan, the Emerging Senegal Plan (ESP), which aims to implement priority economic reforms and investment projects to increase economic growth while preserving macroeconomic stability and debt sustainability. Bureaucratic bottlenecks and a challenging business climate are among the perennial challenges that may slow the implementation of this plan.</p> <p> </p> <p>Senegal receives technical support from the IMF under a Policy Support Instrument (PSI) to assist with implementation of the ESP. The PSI implementation continues to be satisfactory as concluded by the IMF’s fifth review in December 2017. Financial markets have signaled confidence in Senegal through successful Eurobond issuances in 2014, 2017, and 2018.</p> <p> </p> <p>The government is focusing on 19 projects under the ESP to continue The government’s goal under the ESP is structural transformation of the economy. Key projects include the Thiès-Touba Highway, the new international airport opened in December 2017, and upgrades to energy infrastructure. The cost of electricity is a chief constraint for Senegal’s development. Electricity prices in Senegal are among the highest in the world. Power Africa, a US presidential initiative led by USAID, supports Senegal’s plans to improve reliability and increase generating capacity.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $55.26 billion (2020 est.)<br>
@@ -631,8 +631,8 @@ _electrification - rural areas_: 50% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 207,592 (2019)<br>
-_subscriptions per 100 inhabitants_: 1.27 (2019 est.)<br>
+_total subscriptions_: 228,774 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 17,880,600 (2019)<br>
@@ -655,8 +655,8 @@ _total_: 7,199,890 (2020 est.)<br>
 _percent of population_: 43% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 153,813 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.92 (2021) less than 1<br>
+_total_: 153,813 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.92 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -713,11 +713,11 @@ Senegalese Armed Forces (Forces Armées Sénégalaises, FAS): Army, Senegalese N
 note - the National Police operates in major cities, while the Gendarmerie primarily operates outside urban areas<br>
 
 **Military expenditures**<br>
-1.5% of GDP (2020)<br>
+1.7% of GDP (2021 est.)<br>
+1.5% of GDP (2020 est.)<br>
 1.5% of GDP (2019 est.) (approximately $490 million)<br>
 1.6% of GDP (2018) (approximately $490 million)<br>
 1.5% of GDP (2017) (approximately $430 million)<br>
-1.4% of GDP (2016) (approximately $400 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2021)<br>

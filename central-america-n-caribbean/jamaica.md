@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The island - discovered by Christopher COLUMBUS in 1494 - was settled by the Spanish early in the 16th century. The native Taino, who had inhabited Jamaica for centuries, were gradually exterminated and replaced by African slaves. England seized the island in 1655 and established a plantation economy based on sugar, cocoa, and coffee. The abolition of slavery in 1834 freed a quarter million slaves, many of whom became small farmers. Jamaica gradually increased its independence from Britain. In 1958 it joined other British Caribbean colonies in forming the Federation of the West Indies. Jamaica withdrew from the Federation in 1961 and gained full independence in 1962. Deteriorating economic conditions during the 1970s led to recurrent violence as rival gangs affiliated with the major political parties evolved into powerful organized crime networks involved in international drug smuggling and money laundering. Violent crime, drug trafficking, and poverty pose significant challenges to the government today. Nonetheless, many rural and resort areas remain relatively safe and contribute substantially to the economy.<br>
+The island - discovered by Christopher COLUMBUS in 1494 - was settled by the Spanish early in the 16th century. The native Taino, who had inhabited Jamaica for centuries, were gradually exterminated and replaced by African slaves. England seized the island in 1655 and established a plantation economy based on sugar, cocoa, and coffee. The abolition of slavery in 1834 freed a quarter million slaves, many of whom became small farmers. Jamaica gradually increased its independence from Britain. In 1958 it joined other British Caribbean colonies in forming the Federation of the West Indies. Jamaica withdrew from the Federation in 1961 and gained full independence in 1962. Deteriorating economic conditions during the 1970s led to recurrent violence as rival gangs affiliated with the major political parties evolved into powerful organized crime networks involved in international drug smuggling and money laundering. Violent crime, drug trafficking, corruption, the COVID-19 pandemic, and poverty pose significant challenges to the government today. Nonetheless, many rural and resort areas remain relatively safe and contribute substantially to the economy.<br>
 
 ## Geography
 
@@ -333,7 +333,7 @@ _judge selection and term of office_: chief justice of the Supreme Court and pre
 _subordinate courts_: resident magistrate courts, district courts, and petty sessions courts<br>
 
 **Political parties and leaders**<br>
-Jamaica Labor Party or JLP [Andrew Michael HOLNESS]<br>People's National Party or PNP [Mark GOLDING]<br>National Democratic Movement or NDM [Peter TOWNSEND]<br>
+<p>Jamaica Labor Party or JLP [Andrew Michael HOLNESS]<br>People's National Party or PNP [Mark GOLDING]<br>United Independents' Congress or UIC [Joseph PATTERSON]<br>Jamaica Progressive Party or JPP [Gilbert EDWARDS]</p><br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -348,7 +348,7 @@ _consulate(s) general_: Miami, New York<br>
 _consulate(s)_: Atlanta, Boston, Chicago, Concord (MA), Houston, Los Angeles, Philadelphia, Richmond (VA), San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires John McINTYRE (since 20 January 2021)<br>
+_chief of mission_: Ambassador N. Nickolas PERRY (since 13 May 2022)<br>
 _embassy_: 142 Old Hope Road, Kingston 6<br>
 _mailing address_: 3210 Kingston Place, Washington DC&nbsp; 20521-3210<br>
 _telephone_: (876) 702-6000 (2018)<br>
@@ -373,7 +373,7 @@ _selected World Heritage Site locales_: Blue and John Crow Mountains<br>
 ## Economy
 
 **Economic overview**<br>
-<p>The Jamaican economy is heavily dependent on services, which accounts for more than 70% of GDP. The country derives most of its foreign exchange from tourism, remittances, and bauxite/alumina. Earnings from remittances and tourism each account for 14% and 20% of GDP, while bauxite/alumina exports have declined to less than 5% of GDP.</p><p></p><p>Jamaica's economy has grown on average less than 1% a year for the last three decades and many impediments remain to growth: a bloated public sector which crowds out spending on important projects; high crime and corruption; red-tape; and a high debt-to-GDP ratio. Jamaica, however, has made steady progress in reducing its debt-to-GDP ratio from a high of almost 150% in 2012 to less than 110% in 2017, in close collaboration with the International Monetary Fund (IMF). The current IMF Stand-By Agreement requires Jamaica to produce an annual primary surplus of 7%, in an attempt to reduce its debt burden below 60% by 2025.</p><p></p><p>Economic growth reached 1.6% in 2016, but declined to 0.9% in 2017 after intense rainfall, demonstrating the vulnerability of the economy to weather-related events. The HOLNESS administration therefore faces the difficult prospect of maintaining fiscal discipline to reduce the debt load while simultaneously implementing growth inducing policies and attacking a serious crime problem. High unemployment exacerbates the crime problem, including gang violence fueled by advanced fee fraud (lottery scamming) and the drug trade.</p><br>
+<p>The Jamaican economy is heavily dependent on services, which accounts for more than 70% of GDP. The country derives most of its foreign exchange from tourism, remittances, and bauxite/alumina. Earnings from remittances and tourism each account for 14% and 20% of GDP, while bauxite/alumina exports have declined to less than 5% of GDP.</p> <p> </p> <p>Jamaica's economy has grown on average less than 1% a year for the last three decades and many impediments remain to growth: a bloated public sector which crowds out spending on important projects; high crime and corruption; red-tape; and a high debt-to-GDP ratio. Jamaica, however, has made steady progress in reducing its debt-to-GDP ratio from a high of almost 150% in 2012 to less than 110% in 2017, in close collaboration with the International Monetary Fund (IMF). The current IMF Stand-By Agreement requires Jamaica to produce an annual primary surplus of 7%, in an attempt to reduce its debt burden below 60% by 2025.</p> <p> </p> <p>Economic growth reached 1.6% in 2016, but declined to 0.9% in 2017 after intense rainfall, demonstrating the vulnerability of the economy to weather-related events. The HOLNESS administration therefore faces the difficult prospect of maintaining fiscal discipline to reduce the debt load while simultaneously implementing growth inducing policies and attacking a serious crime problem. High unemployment exacerbates the crime problem, including gang violence fueled by advanced fee fraud (lottery scamming) and the drug trade.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $25.89 billion (2020 est.)<br>
@@ -588,8 +588,8 @@ _electrification - rural areas_: 97% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 436,249 (2020)<br>
-_subscriptions per 100 inhabitants_: 14.73 (2020 est.)<br>
+_total subscriptions_: 436,249 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 2,873,259 (2020)<br>
@@ -612,8 +612,8 @@ _total_: 1,621,552 (2019 est.)<br>
 _percent of population_: 55% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 385,603 (2021)<br>
-_subscriptions per 100 inhabitants_: 13.02 (2021)<br>
+_total_: 385,603 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 ## Transportation
 
@@ -657,11 +657,11 @@ Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cybe
 note - both the JDF and JCF are under the Ministry of National Security<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
 1.6% of GDP (2019 est.) (approximately $300 million)<br>
 1.4% of GDP (2018 est.) (approximately $260 million)<br>
 1% of GDP (2017 est.) (approximately $190 million)<br>
-0.9% of GDP (2016 est.) (approximately $180 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 4,000 total active personnel (2021)<br>

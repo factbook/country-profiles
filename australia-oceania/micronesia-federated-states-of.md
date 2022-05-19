@@ -354,7 +354,7 @@ _selected World Heritage Site locales_: Nan Madol: Ceremonial Center of Eastern 
 ## Economy
 
 **Economic overview**<br>
-<p>Economic activity consists largely of subsistence farming and fishing, and government, which employs two-thirds of the adult working population and receives funding largely - 58% in 2013 – from Compact of Free Association assistance provided by the US. The islands have few commercially valuable mineral deposits. The potential for tourism is limited by isolation, lack of adequate facilities, and limited internal air and water transportation.</p><p></p><p>Under the terms of the original Compact, the US provided $1.3 billion in grants and aid from 1986 to 2001. The US and the Federated States of Micronesia (FSM) negotiated a second (amended) Compact agreement in 2002-03 that took effect in 2004. The amended Compact runs for a 20-year period to 2023; during which the US will provide roughly $2.1 billion to the FSM. The amended Compact also develops a trust fund for the FSM that will provide a comparable income stream beyond 2024 when Compact grants end.</p><p></p><p>The country's medium-term economic outlook appears fragile because of dependence on US assistance and lackluster performance of its small and stagnant private sector.</p><br>
+<p>Economic activity consists largely of subsistence farming and fishing, and government, which employs two-thirds of the adult working population and receives funding largely - 58% in 2013 – from Compact of Free Association assistance provided by the US. The islands have few commercially valuable mineral deposits. The potential for tourism is limited by isolation, lack of adequate facilities, and limited internal air and water transportation.</p> <p> </p> <p>Under the terms of the original Compact, the US provided $1.3 billion in grants and aid from 1986 to 2001. The US and the Federated States of Micronesia (FSM) negotiated a second (amended) Compact agreement in 2002-03 that took effect in 2004. The amended Compact runs for a 20-year period to 2023; during which the US will provide roughly $2.1 billion to the FSM. The amended Compact also develops a trust fund for the FSM that will provide a comparable income stream beyond 2024 when Compact grants end.</p> <p> </p> <p>The country's medium-term economic outlook appears fragile because of dependence on US assistance and lackluster performance of its small and stagnant private sector.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $390 million (2019 est.)<br>
@@ -540,8 +540,8 @@ _electrification - rural areas_: 78.7% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,947 (2018)<br>
-_subscriptions per 100 inhabitants_: 6.23 (2018 est.)<br>
+_total subscriptions_: 7,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 23,114 (2018)<br>
@@ -564,8 +564,8 @@ _total_: 39,834 (2019 est.)<br>
 _percent of population_: 35% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 6,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 5.52 (2021 est.)<br>
+_total_: 6,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 
 ## Transportation
 

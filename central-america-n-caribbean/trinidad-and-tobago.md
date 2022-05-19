@@ -317,7 +317,7 @@ _elections/appointments_: president indirectly elected by an electoral college o
 _election results_: Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she is Trinidad and Tabago's first female head of state<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives 42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives (42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
 _elections_: Senate - last appointments on 23 September 2015 (next in 2020)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
 _election results_: Senate - percent by party - NA; seats by party - NA; composition - men 21, women 10, percent of women 32.3%<br>House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition - NA<br>
 <strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
@@ -363,7 +363,7 @@ _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Trinidad and Tobago relies on its energy sector for much of its economic activity, and has one of the highest per capita incomes in Latin America. Economic growth between 2000 and 2007 averaged slightly over 8% per year, significantly above the regional average of about 3.7% for that same period; however, GDP has slowed down since then, contracting during 2009-12, making small gains in 2013 and contracting again in 2014-17. Trinidad and Tobago is buffered by considerable foreign reserves and a sovereign wealth fund that equals about one-and-a-half times the national budget, but the country is still in a recession and the government faces the dual challenge of gas shortages and a low price environment. Large-scale energy projects in the last quarter of 2017 are helping to mitigate the gas shortages.</p><p></p><p>Energy production and downstream industrial use dominate the economy. Oil and gas typically account for about 40% of GDP and 80% of exports but less than 5% of employment. Trinidad and Tobago is home to one of the largest natural gas liquefaction facilities in the Western Hemisphere. The country produces about nine times more natural gas than crude oil on an energy equivalent basis with gas contributing about two-thirds of energy sector government revenue. The US is the country’s largest trading partner, accounting for 28% of its total imports and 48% of its exports.</p><p></p><p>Economic diversification is a longstanding government talking point, and Trinidad and Tobago has much potential due to its stable, democratic government and its educated, English speaking workforce. The country is also a regional financial center with a well-regulated and stable financial system. Other sectors the Government of Trinidad and Tobago has targeted for increased investment and projected growth include tourism, agriculture, information and communications technology, and shipping. Unfortunately, a host of other factors, including low labor productivity, inefficient government bureaucracy, and corruption, have hampered economic development.</p><br>
+<p>Trinidad and Tobago relies on its energy sector for much of its economic activity, and has one of the highest per capita incomes in Latin America. Economic growth between 2000 and 2007 averaged slightly over 8% per year, significantly above the regional average of about 3.7% for that same period; however, GDP has slowed down since then, contracting during 2009-12, making small gains in 2013 and contracting again in 2014-17. Trinidad and Tobago is buffered by considerable foreign reserves and a sovereign wealth fund that equals about one-and-a-half times the national budget, but the country is still in a recession and the government faces the dual challenge of gas shortages and a low price environment. Large-scale energy projects in the last quarter of 2017 are helping to mitigate the gas shortages.</p> <p> </p> <p>Energy production and downstream industrial use dominate the economy. Oil and gas typically account for about 40% of GDP and 80% of exports but less than 5% of employment. Trinidad and Tobago is home to one of the largest natural gas liquefaction facilities in the Western Hemisphere. The country produces about nine times more natural gas than crude oil on an energy equivalent basis with gas contributing about two-thirds of energy sector government revenue. The US is the country’s largest trading partner, accounting for 28% of its total imports and 48% of its exports.</p> <p> </p> <p>Economic diversification is a longstanding government talking point, and Trinidad and Tobago has much potential due to its stable, democratic government and its educated, English speaking workforce. The country is also a regional financial center with a well-regulated and stable financial system. Other sectors the Government of Trinidad and Tobago has targeted for increased investment and projected growth include tourism, agriculture, information and communications technology, and shipping. Unfortunately, a host of other factors, including low labor productivity, inefficient government bureaucracy, and corruption, have hampered economic development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $33.21 billion (2020 est.)<br>
@@ -571,7 +571,7 @@ _electrification - total population_: 100% (2020)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 323,905 (2020)<br>
-_subscriptions per 100 inhabitants_: 23.14 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 2,163,730 (2019)<br>
@@ -594,8 +594,8 @@ _total_: 1,074,126 (2019 est.)<br>
 _percent of population_: 77% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 376,771 (2021)<br>
-_subscriptions per 100 inhabitants_: 26.92 (2021)<br>
+_total_: 376,771 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 27 (2020 est.)<br>
 
 ## Transportation
 

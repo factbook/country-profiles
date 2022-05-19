@@ -383,7 +383,7 @@ _lyrics/music_: Aden ELMI/Abdi ROBLEH<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Djibouti's economy is based on service activities connected with the country's strategic location as a deepwater port on the Red Sea. Three-fourths of Djibouti's inhabitants live in the capital city; the remainder are mostly nomadic herders. Scant rainfall and less than 4% arable land limits crop production to small quantities of fruits and vegetables, and most food must be imported.</p><p></p><p>Djibouti provides services as both a transit port for the region and an international transshipment and refueling center. Imports, exports, and reexports represent 70% of port activity at Djibouti's container terminal. Reexports consist primarily of coffee from landlocked neighbor Ethiopia. Djibouti has few natural resources and little industry. The nation is, therefore, heavily dependent on foreign assistance to support its balance of payments and to finance development projects. An official unemployment rate of nearly 40% - with youth unemployment near 80% - continues to be a major problem. Inflation was a modest 3% in 2014-2017, due to low international food prices and a decline in electricity tariffs.</p><p></p><p>Djibouti’s reliance on diesel-generated electricity and imported food and water leave average consumers vulnerable to global price shocks, though in mid-2015 Djibouti passed new legislation to liberalize the energy sector. The government has emphasized infrastructure development for transportation and energy and Djibouti – with the help of foreign partners, particularly China – has begun to increase and modernize its port capacity. In 2017, Djibouti opened two of the largest projects in its history, the Doraleh Port and Djibouti-Addis Ababa Railway, funded by China as part of the "Belt and Road Initiative," which will increase the country’s ability to capitalize on its strategic location.</p><br>
+<p>Djibouti's economy is based on service activities connected with the country's strategic location as a deepwater port on the Red Sea. Three-fourths of Djibouti's inhabitants live in the capital city; the remainder are mostly nomadic herders. Scant rainfall and less than 4% arable land limits crop production to small quantities of fruits and vegetables, and most food must be imported.</p> <p> </p> <p>Djibouti provides services as both a transit port for the region and an international transshipment and refueling center. Imports, exports, and reexports represent 70% of port activity at Djibouti's container terminal. Reexports consist primarily of coffee from landlocked neighbor Ethiopia. Djibouti has few natural resources and little industry. The nation is, therefore, heavily dependent on foreign assistance to support its balance of payments and to finance development projects. An official unemployment rate of nearly 40% - with youth unemployment near 80% - continues to be a major problem. Inflation was a modest 3% in 2014-2017, due to low international food prices and a decline in electricity tariffs.</p> <p> </p> <p>Djibouti’s reliance on diesel-generated electricity and imported food and water leave average consumers vulnerable to global price shocks, though in mid-2015 Djibouti passed new legislation to liberalize the energy sector. The government has emphasized infrastructure development for transportation and energy and Djibouti – with the help of foreign partners, particularly China – has begun to increase and modernize its port capacity. In 2017, Djibouti opened two of the largest projects in its history, the Doraleh Port and Djibouti-Addis Ababa Railway, funded by China as part of the "Belt and Road Initiative," which will increase the country’s ability to capitalize on its strategic location.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $5.42 billion (2020 est.)<br>
@@ -591,8 +591,8 @@ _electrification - rural areas_: 1% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 38,866 (2020)<br>
-_subscriptions per 100 inhabitants_: 3.93 (2020 est.)<br>
+_total subscriptions_: 38,866 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 434,035 (2020)<br>
@@ -615,8 +615,8 @@ _total_: 582,921 (2020 est.)<br>
 _percent of population_: 59% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 25,053 (2021)<br>
-_subscriptions per 100 inhabitants_: 2.54 (2021 est.)<br>
+_total_: 25,053 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 ## Transportation
 

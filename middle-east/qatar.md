@@ -379,7 +379,7 @@ _selected World Heritage Site locales_: Al Zubarah Archaeological Site<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Qatar’s oil and natural gas resources are the country’s main economic engine and government revenue source, driving Qatar’s high economic growth and per capita income levels, robust state spending on public entitlements, and booming construction spending, particularly as Qatar prepares to host the World Cup in 2022. Although the government has maintained high capital spending levels for ongoing infrastructure projects, low oil and natural gas prices in recent years have led the Qatari Government to tighten some spending to help stem its budget deficit.</p><p></p><p>Qatar’s reliance on oil and natural gas is likely to persist for the foreseeable future. Proved natural gas reserves exceed 25 trillion cubic meters - 13% of the world total and, among countries, third largest in the world. Proved oil reserves exceed 25 billion barrels, allowing production to continue at current levels for about 56 years. Despite the dominance of oil and natural gas, Qatar has made significant gains in strengthening non-oil sectors, such as manufacturing, construction, and financial services, leading non-oil GDP to steadily rise in recent years to just over half the total.</p><p></p><p>Following trade restriction imposed by Saudi Arabia, the UAE, Bahrain, and Egypt in 2017, Qatar established new trade routes with other countries to maintain access to imports.</p><br>
+<p>Qatar’s oil and natural gas resources are the country’s main economic engine and government revenue source, driving Qatar’s high economic growth and per capita income levels, robust state spending on public entitlements, and booming construction spending, particularly as Qatar prepares to host the World Cup in 2022. Although the government has maintained high capital spending levels for ongoing infrastructure projects, low oil and natural gas prices in recent years have led the Qatari Government to tighten some spending to help stem its budget deficit.</p> <p> </p> <p>Qatar’s reliance on oil and natural gas is likely to persist for the foreseeable future. Proved natural gas reserves exceed 25 trillion cubic meters - 13% of the world total and, among countries, third largest in the world. Proved oil reserves exceed 25 billion barrels, allowing production to continue at current levels for about 56 years. Despite the dominance of oil and natural gas, Qatar has made significant gains in strengthening non-oil sectors, such as manufacturing, construction, and financial services, leading non-oil GDP to steadily rise in recent years to just over half the total.</p> <p> </p> <p>Following trade restriction imposed by Saudi Arabia, the UAE, Bahrain, and Egypt in 2017, Qatar established new trade routes with other countries to maintain access to imports.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $245.66 billion (2020 est.)<br>
@@ -588,8 +588,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 454,701 (2020)<br>
-_subscriptions per 100 inhabitants_: 15.78 (2020 est.)<br>
+_total subscriptions_: 454,701 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 3,917,570 (2019)<br>
@@ -612,8 +612,8 @@ _total_: 2,881,060 (2020 est.)<br>
 _percent of population_: 100% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 296,126 (2021)<br>
-_subscriptions per 100 inhabitants_: 10.28 (2021)<br>
+_total_: 296,126 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2020 est.)<br>
 
 ## Transportation
 
@@ -662,11 +662,11 @@ _LNG terminal(s) (export)_: Ras Laffan<br>
 Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, includes Coast Guard), Qatari Amiri Air Force (QAAF); Internal Security Forces: Mobile Gendarmerie (2021)<br>
 
 **Military expenditures**<br>
+4% of GDP (2021 est.)<br>
 4% of GDP (2020 est.)<br>
 3.4% of GDP (2019 est.) (approximately $8.44 billion)<br>
 3.3% of GDP (2018 est.) (approximately $8.23 billion)<br>
 3.4% of GDP (2017 est.) (approximately $8.22 billion)<br>
-4.1% of GDP (2016 est.) (approximately $9.22 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 15,000 active personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2021)<br>

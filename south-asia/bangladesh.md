@@ -631,12 +631,12 @@ _electrification - rural areas_: 77% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,450,321 (2020)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 1,390,048 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 170,136,762 (2020)<br>
-_subscriptions per 100 inhabitants_: 103.3 (2020 est.)<br>
+_total subscriptions_: 176,279,465 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Bangladesh&rsquo;s economic constraints hinder network infrastructure, resulting in the lowest fixed-line penetration rate in South Asia and a very low fixed broadband rate; most consumers utilize mobile broadband for data on LTE networks but rates are still well below that of most other Asian countries; the government approved a modernization project to support investment and prepare for 5G launches; 2020 test of 5G technology in Dhaka; government directive allows IoT for smart buildings and automation industries; government project aims to provide network to services and schools; importer of broadcasting equipment from China (2020)<br>
@@ -655,8 +655,8 @@ _total_: 41,172,346 (2020 est.)<br>
 _percent of population_: 25% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 10,052,819 (2021) Data through June 2021.<br>
-_subscriptions per 100 inhabitants_: 6.1 (2021)<br>
+_total_: 10,052,819 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
 
 ## Transportation
 
@@ -756,7 +756,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p><em>Bangladesh-Burma:</em> Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border.<br><br><em>Bangladesh-India:</em> Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over un-demarcated areas and the exchange of territorial enclaves, but which had never been implemented.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 926,561 (Burma) (2022) (includes an estimated 769,623 Rohingya refugees who have fled conflict since 25 August 2017)<br>
+_refugees (country of origin)_: 925,380 (Burma) (2022) (includes an estimated 773,972 Rohingya refugees who have fled conflict since 25 August 2017)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2020)<br>
 _stateless persons_: 889,704 (mid-year 2021)<br>
 

@@ -373,7 +373,7 @@ _lyrics/music_: Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Tonga has a small, open island economy and is the last constitutional monarchy among the Pacific Island countries. It has a narrow export base in agricultural goods. Squash, vanilla beans, and yams are the main crops. Agricultural exports, including fish, make up two-thirds of total exports. Tourism is the second-largest source of hard currency earnings following remittances. Tonga had 53,800 visitors in 2015. The country must import a high proportion of its food, mainly from New Zealand.</p><p></p><p>The country remains dependent on external aid and remittances from overseas Tongans to offset its trade deficit. The government is emphasizing the development of the private sector, encouraging investment, and is committing increased funds for health care and education. Tonga's English-speaking and educated workforce offers a viable labor market, and the tropical climate provides fertile soil. Renewable energy and deep-sea mining also offer opportunities for investment.</p><p></p><p>Tonga has a reasonably sound basic infrastructure and well developed social services. But the government faces high unemployment among the young, moderate inflation, pressures for democratic reform, and rising civil service expenditures.</p><br>
+<p>Tonga has a small, open island economy and is the last constitutional monarchy among the Pacific Island countries. It has a narrow export base in agricultural goods. Squash, vanilla beans, and yams are the main crops. Agricultural exports, including fish, make up two-thirds of total exports. Tourism is the second-largest source of hard currency earnings following remittances. Tonga had 53,800 visitors in 2015. The country must import a high proportion of its food, mainly from New Zealand.</p> <p> </p> <p>The country remains dependent on external aid and remittances from overseas Tongans to offset its trade deficit. The government is emphasizing the development of the private sector, encouraging investment, and is committing increased funds for health care and education. Tonga's English-speaking and educated workforce offers a viable labor market, and the tropical climate provides fertile soil. Renewable energy and deep-sea mining also offer opportunities for investment.</p> <p> </p> <p>Tonga has a reasonably sound basic infrastructure and well developed social services. But the government faces high unemployment among the young, moderate inflation, pressures for democratic reform, and rising civil service expenditures.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $670 million (2019 est.)<br>
@@ -582,8 +582,8 @@ _electrification - rural areas_: 98.9% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,637 (2019)<br>
-_subscriptions per 100 inhabitants_: 6.35 (2019 est.)<br>
+_total subscriptions_: 7,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 62,104 (2019)<br>
@@ -606,8 +606,8 @@ _total_: 42,844 (2019 est.)<br>
 _percent of population_: 41% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 4.73 (2021 est.)<br>
+_total_: 5,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 
 ## Transportation
 

@@ -422,7 +422,7 @@ _selected World Heritage Site locales_: Brasilia (c), Historic Salvador de Bahia
 ## Economy
 
 **Economic overview**<br>
-<p>Brazil is the eighth-largest economy in the world, but is recovering from a recession in 2015 and 2016 that ranks as the worst in the country’s history. In 2017, Brazil`s GDP grew 1%, inflation fell to historic lows of 2.9%, and the Central Bank lowered benchmark interest rates from 13.75% in 2016 to 7%.</p><p></p><p>The economy has been negatively affected by multiple corruption scandals involving private companies and government officials, including the impeachment and conviction of Former President Dilma ROUSSEFF in August 2016. Sanctions against the firms involved — some of the largest in Brazil — have limited their business opportunities, producing a ripple effect on associated businesses and contractors but creating opportunities for foreign companies to step into what had been a closed market.</p><p></p><p>The succeeding TEMER administration has implemented a series of fiscal and structural reforms to restore credibility to government finances. Congress approved legislation in December 2016 to cap public spending. Government spending growth had pushed public debt to 73.7% of GDP at the end of 2017, up from over 50% in 2012. The government also boosted infrastructure projects, such as oil and natural gas auctions, in part to raise revenues. Other economic reforms, proposed in 2016, aim to reduce barriers to foreign investment, and to improve labor conditions. Policies to strengthen Brazil’s workforce and industrial sector, such as local content requirements, have boosted employment, but at the expense of investment.</p><p></p><p>Brazil is a member of the Common Market of the South (Mercosur), a trade bloc that includes Argentina, Paraguay and Uruguay - Venezuela’s membership in the organization was suspended In August 2017. After the Asian and Russian financial crises, Mercosur adopted a protectionist stance to guard against exposure to volatile foreign markets and it currently is negotiating Free Trade Agreements with the European Union and Canada.</p><br>
+<p>Brazil is the eighth-largest economy in the world, but is recovering from a recession in 2015 and 2016 that ranks as the worst in the country’s history. In 2017, Brazil`s GDP grew 1%, inflation fell to historic lows of 2.9%, and the Central Bank lowered benchmark interest rates from 13.75% in 2016 to 7%.</p> <p> </p> <p>The economy has been negatively affected by multiple corruption scandals involving private companies and government officials, including the impeachment and conviction of Former President Dilma ROUSSEFF in August 2016. Sanctions against the firms involved — some of the largest in Brazil — have limited their business opportunities, producing a ripple effect on associated businesses and contractors but creating opportunities for foreign companies to step into what had been a closed market.</p> <p> </p> <p>The succeeding TEMER administration has implemented a series of fiscal and structural reforms to restore credibility to government finances. Congress approved legislation in December 2016 to cap public spending. Government spending growth had pushed public debt to 73.7% of GDP at the end of 2017, up from over 50% in 2012. The government also boosted infrastructure projects, such as oil and natural gas auctions, in part to raise revenues. Other economic reforms, proposed in 2016, aim to reduce barriers to foreign investment, and to improve labor conditions. Policies to strengthen Brazil’s workforce and industrial sector, such as local content requirements, have boosted employment, but at the expense of investment.</p> <p> </p> <p>Brazil is a member of the Common Market of the South (Mercosur), a trade bloc that includes Argentina, Paraguay and Uruguay - Venezuela’s membership in the organization was suspended In August 2017. After the Asian and Russian financial crises, Mercosur adopted a protectionist stance to guard against exposure to volatile foreign markets and it currently is negotiating Free Trade Agreements with the European Union and Canada.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2,989,430,000,000 (2020 est.)<br>
@@ -638,8 +638,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 30,653,813 (2020)<br>
-_subscriptions per 100 inhabitants_: 14.42 (2020 est.)<br>
+_total subscriptions_: 30,653,813 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 205,834,781 (2020)<br>
@@ -662,8 +662,8 @@ _total_: 172,173,121 (2020 est.)<br>
 _percent of population_: 81% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 36,344,670 (2021) The value presented includes subscriptions with speeds less than 256 kbit/s.<br>
-_subscriptions per 100 inhabitants_: 17.1 (2021 est.)<br>
+_total_: 36,344,670 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
 
 ## Transportation
 
@@ -732,11 +732,11 @@ _dry bulk cargo port(s)_: Sepetiba ore terminal, Tubarao<br>
 Brazilian Armed Forces: Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy (Marinha do Brasil, MB, includes Naval Aviation (Aviacao Naval Brasileira) and Marine Corps (Corpo de Fuzileiros Navais)), Brazilian Air Force (Forca Aerea Brasileira, FAB) (2021)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
 1.4% of GDP (2019) (approximately $35.6 billion)<br>
 1.5% of GDP (2018) (approximately $36 billion)<br>
 1.4% of GDP (2017) (approximately $34.4 billion)<br>
-1.3% of GDP (2016) (approximately $32.1 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Brazilian Armed Forces have approximately 360,000 active personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2021)<br>
@@ -757,7 +757,7 @@ the International Maritime Bureau reports the territorial waters of Brazil are a
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Brazil-Colombia:</em> Contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources, Colombian (FARC) insurgent incursions in the area remain problematic issues.<em><br><br>Brazil-Uruguay:</em> The uncontested boundary dispute between Brazil and Uruguay over over Arroyo de la Invernada triangle and sovereignty over Isla Brsillera leaves the tripoint with Argentina in question. Smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border.<br><br><em>Brazil-Venezuela:</em> Colombian-organized illegal narcotics and paramilitary activities penetrate Brazil's border region with Venezuela.</p><br>
+<p><em>Brazil-Bolivia: The Roboré Accord of March 29, 1958 placed the long-disputed Isla Suárez/Ilha de Guajará-Mirim, a fluvial island on the Río Mamoré, between the two towns of Guajará-Mirim (Brazil) and Guayaramerin (Bolivia), under Bolivian administration but did not resolve the sovereignty dispute<br><br>Brazil-Colombia:</em> Contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources, Colombian (FARC) insurgent incursions in the area remain problematic issues.<em><br><br>Brazil-Uruguay:</em> The uncontested boundary dispute between Brazil and Uruguay over over Arroyo de la Invernada triangle and sovereignty over Isla Brsillera leaves the tripoint with Argentina in question. Smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border.<br><br><em>Brazil-Venezuela:</em> Colombian-organized illegal narcotics and paramilitary activities penetrate Brazil's border region with Venezuela.</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 261,441 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2020)<br>

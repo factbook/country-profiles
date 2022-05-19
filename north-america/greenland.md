@@ -333,7 +333,7 @@ _selected World Heritage Site locales_: Ilulissat Icefjord (n); Kujataa, Norse a
 ## Economy
 
 **Economic overview**<br>
-<p>Greenland’s economy depends on exports of shrimp and fish, and on a substantial subsidy from the Danish Government. Fish account for over 90% of its exports, subjecting the economy to price fluctuations. The subsidy from the Danish Government is budgeted to be about $535 million in 2017, more than 50% of government revenues, and 25% of GDP.</p><p></p><p>The economy is expanding after a period of decline. The economy contracted between 2012 and 2014, grew by 1.7% in 2015 and by 7.7%in 2016. The expansion has been driven by larger quotas for shrimp, the predominant Greenlandic export, and also by increased activity in the construction sector, especially in Nuuk, the capital. Private consumption and tourism also are contributing to GDP growth more than in previous years. Tourism in Greenland grew annually around 20% in 2015 and 2016, largely a result of increasing numbers of cruise lines now operating in Greenland's western and southern waters during the peak summer tourism season.</p><p></p><p>The public sector, including publicly owned enterprises and the municipalities, plays a dominant role in Greenland's economy. During the last decade the Greenland Self Rule Government pursued conservative fiscal and monetary policies, but public pressure has increased for better schools, health care, and retirement systems. The budget was in deficit in 2014 and 2016, but public debt remains low at about 5% of GDP. The government plans a balanced budget for the 2017–20 period.</p><p></p><p>Significant challenges face the island, including low levels of qualified labor, geographic dispersion, lack of industry diversification, the long-term sustainability of the public budget, and a declining population due to emigration. Hydrocarbon exploration has ceased with declining oil prices. The island has potential for natural resource exploitation with rare-earth, uranium, and iron ore mineral projects proposed, but a lack of infrastructure hinders development.</p><br>
+<p>Greenland’s economy depends on exports of shrimp and fish, and on a substantial subsidy from the Danish Government. Fish account for over 90% of its exports, subjecting the economy to price fluctuations. The subsidy from the Danish Government is budgeted to be about $535 million in 2017, more than 50% of government revenues, and 25% of GDP.</p> <p> </p> <p>The economy is expanding after a period of decline. The economy contracted between 2012 and 2014, grew by 1.7% in 2015 and by 7.7%in 2016. The expansion has been driven by larger quotas for shrimp, the predominant Greenlandic export, and also by increased activity in the construction sector, especially in Nuuk, the capital. Private consumption and tourism also are contributing to GDP growth more than in previous years. Tourism in Greenland grew annually around 20% in 2015 and 2016, largely a result of increasing numbers of cruise lines now operating in Greenland's western and southern waters during the peak summer tourism season.</p> <p> </p> <p>The public sector, including publicly owned enterprises and the municipalities, plays a dominant role in Greenland's economy. During the last decade the Greenland Self Rule Government pursued conservative fiscal and monetary policies, but public pressure has increased for better schools, health care, and retirement systems. The budget was in deficit in 2014 and 2016, but public debt remains low at about 5% of GDP. The government plans a balanced budget for the 2017–20 period.</p> <p> </p> <p>Significant challenges face the island, including low levels of qualified labor, geographic dispersion, lack of industry diversification, the long-term sustainability of the public budget, and a declining population due to emigration. Hydrocarbon exploration has ceased with declining oil prices. The island has potential for natural resource exploitation with rare-earth, uranium, and iron ore mineral projects proposed, but a lack of infrastructure hinders development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.413 billion (2015 est.)<br>
@@ -525,8 +525,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,133 (2019)<br>
-_subscriptions per 100 inhabitants_: 12.59 (2019 est.)<br>
+_total subscriptions_: 6,352 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 61,656 (2019)<br>
@@ -549,8 +549,8 @@ _total_: 39,358 (2019 est.)<br>
 _percent of population_: 70% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 15,649 (2021)<br>
-_subscriptions per 100 inhabitants_: 27.57 (2021)<br>
+_total_: 15,649 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2020 est.)<br>
 
 ## Transportation
 

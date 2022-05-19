@@ -575,8 +575,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 18,882 (2020)<br>
-_subscriptions per 100 inhabitants_: 19.2 (2020 est.)<br>
+_total subscriptions_: 18,882 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 19 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 193,672 (2019)<br>
@@ -599,8 +599,8 @@ _total_: 77,785 (2020 est.)<br>
 _percent of population_: 79% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 34,966 (2021)<br>
-_subscriptions per 100 inhabitants_: 35.55 (2021)<br>
+_total_: 34,966 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 36 (2020 est.)<br>
 
 ## Transportation
 
@@ -649,11 +649,11 @@ Seychelles People’s Defense Forces (SPDF): Army (includes infantry, special fo
 note - the military reports to the president, who acts as minister of defense &nbsp;<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2021 est.)<br>
 1.6% of GDP (2020 est.)<br>
-1.3% of GDP (2019)<br>
-1.4% of GDP (2018)<br>
-1.5% of GDP (2017)<br>
-1.4% of GDP (2016)<br>
+1.3% of GDP (2019 est.)<br>
+1.4% of GDP (2018 est.)<br>
+1.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Seychelles People&rsquo;s Defense Forces (SPDF) have approximately 500 personnel (2021)<br>

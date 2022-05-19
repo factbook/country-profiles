@@ -379,7 +379,7 @@ regional and local governing bodies continue to exist and control various areas 
 ## Economy
 
 **Economic overview**<br>
-<p>Despite the lack of effective national governance, Somalia maintains an informal economy largely based on livestock, remittance/money transfer companies, and telecommunications. Somalia's government lacks the ability to collect domestic revenue and external debt – mostly in arrears – was estimated at about 77% of GDP in 2017.</p><p></p><p>Agriculture is the most important sector, with livestock normally accounting for about 40% of GDP and more than 50% of export earnings. Nomads and semi-pastoralists, who are dependent upon livestock for their livelihood, make up a large portion of the population. Economic activity is estimated to have increased by 2.4% in 2017 because of growth in the agriculture, construction and telecommunications sector. Somalia's small industrial sector, based on the processing of agricultural products, has largely been looted and the machinery sold as scrap metal.</p><p></p><p>In recent years, Somalia's capital city, Mogadishu, has witnessed the development of the city's first gas stations, supermarkets, and airline flights to Turkey since the collapse of central authority in 1991. Mogadishu's main market offers a variety of goods from food to electronic gadgets. Hotels continue to operate and are supported with private-security militias. Formalized economic growth has yet to expand outside of Mogadishu and a few regional capitals, and within the city, security concerns dominate business. Telecommunication firms provide wireless services in most major cities and offer the lowest international call rates on the continent. In the absence of a formal banking sector, money transfer/remittance services have sprouted throughout the country, handling up to $1.6 billion in remittances annually, although international concerns over the money transfers into Somalia continues to threaten these services’ ability to operate in Western nations. In 2017, Somalia elected a new president and collected a record amount of foreign aid and investment, a positive sign for economic recovery.</p><br>
+<p>Despite the lack of effective national governance, Somalia maintains an informal economy largely based on livestock, remittance/money transfer companies, and telecommunications. Somalia's government lacks the ability to collect domestic revenue and external debt – mostly in arrears – was estimated at about 77% of GDP in 2017.</p> <p> </p> <p>Agriculture is the most important sector, with livestock normally accounting for about 40% of GDP and more than 50% of export earnings. Nomads and semi-pastoralists, who are dependent upon livestock for their livelihood, make up a large portion of the population. Economic activity is estimated to have increased by 2.4% in 2017 because of growth in the agriculture, construction and telecommunications sector. Somalia's small industrial sector, based on the processing of agricultural products, has largely been looted and the machinery sold as scrap metal.</p> <p> </p> <p>In recent years, Somalia's capital city, Mogadishu, has witnessed the development of the city's first gas stations, supermarkets, and airline flights to Turkey since the collapse of central authority in 1991. Mogadishu's main market offers a variety of goods from food to electronic gadgets. Hotels continue to operate and are supported with private-security militias. Formalized economic growth has yet to expand outside of Mogadishu and a few regional capitals, and within the city, security concerns dominate business. Telecommunication firms provide wireless services in most major cities and offer the lowest international call rates on the continent. In the absence of a formal banking sector, money transfer/remittance services have sprouted throughout the country, handling up to $1.6 billion in remittances annually, although international concerns over the money transfers into Somalia continues to threaten these services’ ability to operate in Western nations. In 2017, Somalia elected a new president and collected a record amount of foreign aid and investment, a positive sign for economic recovery.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $13.19 billion (2020 est.)<br>
@@ -572,8 +572,8 @@ _electrification - rural areas_: 4% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 74,800 (2018)<br>
-_subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
+_total subscriptions_: 91,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 7.119 million (2018)<br>
@@ -596,8 +596,8 @@ _total_: 308,858 (2019 est.)<br>
 _percent of population_: 2% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 119,000 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.75 (2021 est.) less than 1<br>
+_total_: 119,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.75 (2020 est.) less than 1<br>
 
 ## Transportation
 

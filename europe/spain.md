@@ -403,7 +403,7 @@ _selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Ar
 ## Economy
 
 **Economic overview**<br>
-<p>After a prolonged recession that began in 2008 in the wake of the global financial crisis, Spain marked the fourth full year of positive economic growth in 2017, with economic activity surpassing its pre-crisis peak, largely because of increased private consumption. The financial crisis of 2008 broke 16 consecutive years of economic growth for Spain, leading to an economic contraction that lasted until late 2013. In that year, the government successfully shored up its struggling banking sector - heavily exposed to the collapse of Spain’s real estate boom - with the help of an EU-funded restructuring and recapitalization program.</p><p></p><p>Until 2014, contraction in bank lending, fiscal austerity, and high unemployment constrained domestic consumption and investment. The unemployment rate rose from a low of about 8% in 2007 to more than 26% in 2013, but labor reforms prompted a modest reduction to 16.4% in 2017. High unemployment strained Spain's public finances, as spending on social benefits increased while tax revenues fell. Spain’s budget deficit peaked at 11.4% of GDP in 2010, but Spain gradually reduced the deficit to about 3.3% of GDP in 2017. Public debt has increased substantially – from 60.1% of GDP in 2010 to nearly 96.7% in 2017.</p><p></p><p>Strong export growth helped bring Spain's current account into surplus in 2013 for the first time since 1986 and sustain Spain’s economic growth. Increasing labor productivity and an internal devaluation resulting from moderating labor costs and lower inflation have improved Spain’s export competitiveness and generated foreign investor interest in the economy, restoring FDI flows.</p><p></p><p>In 2017, the Spanish Government’s minority status constrained its ability to implement controversial labor, pension, health care, tax, and education reforms. The European Commission expects the government to meet its 2017 budget deficit target and anticipates that expected economic growth in 2018 will help the government meet its deficit target. Spain’s borrowing costs are dramatically lower since their peak in mid-2012, and increased economic activity has generated a modest level of inflation, at 2% in 2017.</p><br>
+<p>After a prolonged recession that began in 2008 in the wake of the global financial crisis, Spain marked the fourth full year of positive economic growth in 2017, with economic activity surpassing its pre-crisis peak, largely because of increased private consumption. The financial crisis of 2008 broke 16 consecutive years of economic growth for Spain, leading to an economic contraction that lasted until late 2013. In that year, the government successfully shored up its struggling banking sector - heavily exposed to the collapse of Spain’s real estate boom - with the help of an EU-funded restructuring and recapitalization program.</p> <p> </p> <p>Until 2014, contraction in bank lending, fiscal austerity, and high unemployment constrained domestic consumption and investment. The unemployment rate rose from a low of about 8% in 2007 to more than 26% in 2013, but labor reforms prompted a modest reduction to 16.4% in 2017. High unemployment strained Spain's public finances, as spending on social benefits increased while tax revenues fell. Spain’s budget deficit peaked at 11.4% of GDP in 2010, but Spain gradually reduced the deficit to about 3.3% of GDP in 2017. Public debt has increased substantially – from 60.1% of GDP in 2010 to nearly 96.7% in 2017.</p> <p> </p> <p>Strong export growth helped bring Spain's current account into surplus in 2013 for the first time since 1986 and sustain Spain’s economic growth. Increasing labor productivity and an internal devaluation resulting from moderating labor costs and lower inflation have improved Spain’s export competitiveness and generated foreign investor interest in the economy, restoring FDI flows.</p> <p> </p> <p>In 2017, the Spanish Government’s minority status constrained its ability to implement controversial labor, pension, health care, tax, and education reforms. The European Commission expects the government to meet its 2017 budget deficit target and anticipates that expected economic growth in 2018 will help the government meet its deficit target. Spain’s borrowing costs are dramatically lower since their peak in mid-2012, and increased economic activity has generated a modest level of inflation, at 2% in 2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1,714,860,000,000 (2020 est.)<br>
@@ -618,8 +618,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19,455,779 (2020)<br>
-_subscriptions per 100 inhabitants_: 41.61 (2020 est.)<br>
+_total subscriptions_: 19,455,658 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 42 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 55,354,900 (2019)<br>
@@ -642,8 +642,8 @@ _total_: 44,047,980 (2020 est.)<br>
 _percent of population_: 93% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 16,188,502 (2021)<br>
-_subscriptions per 100 inhabitants_: 34.62 (2021)<br>
+_total_: 16,188,502 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
 
 ## Transportation
 
@@ -746,7 +746,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 6,.92 (mid-year 2021)<br>
-<strong>note: </strong>257,630 estimated refugee and migrant arrivals, including Canary Islands (January 2015-April 2022)<br>
+<strong>note: </strong>258,339 estimated refugee and migrant arrivals, including Canary Islands (January 2015-May 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

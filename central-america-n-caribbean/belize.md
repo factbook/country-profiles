@@ -373,7 +373,7 @@ _selected World Heritage Site locales_: Belize Barrier Reef Reserve System<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Tourism is the number one foreign exchange earner in this small economy, followed by exports of sugar, bananas, citrus, marine products, and crude oil.</p><p></p><p>The government's expansionary monetary and fiscal policies, initiated in September 1998, led to GDP growth averaging nearly 4% in 1999-2007, but GPD growth has averaged only 2.1% from 2007-2016, with 2.5% growth estimated for 2017. Belize’s dependence on energy imports makes it susceptible to energy price shocks.</p><p></p><p>Although Belize has the third highest per capita income in Central America, the average income figure masks a huge income disparity between rich and poor, and a key government objective remains reducing poverty and inequality with the help of international donors. High unemployment, a growing trade deficit and heavy foreign debt burden continue to be major concerns. Belize faces continued pressure from rising sovereign debt, and a growing trade imbalance.</p><br>
+<p>Tourism is the number one foreign exchange earner in this small economy, followed by exports of sugar, bananas, citrus, marine products, and crude oil.</p> <p> </p> <p>The government's expansionary monetary and fiscal policies, initiated in September 1998, led to GDP growth averaging nearly 4% in 1999-2007, but GPD growth has averaged only 2.1% from 2007-2016, with 2.5% growth estimated for 2017. Belize’s dependence on energy imports makes it susceptible to energy price shocks.</p> <p> </p> <p>Although Belize has the third highest per capita income in Central America, the average income figure masks a huge income disparity between rich and poor, and a key government objective remains reducing poverty and inequality with the help of international donors. High unemployment, a growing trade deficit and heavy foreign debt burden continue to be major concerns. Belize faces continued pressure from rising sovereign debt, and a growing trade imbalance.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.43 billion (2020 est.)<br>
@@ -585,12 +585,12 @@ _electrification - rural areas_: 100% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 18,500 (2019)<br>
-_subscriptions per 100 inhabitants_: 4.74 (2019 est.)<br>
+_total subscriptions_: 19,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 254,919 (2019)<br>
-_subscriptions per 100 inhabitants_: 65.3 (2019 est.)<br>
+_total subscriptions_: 264,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 66 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Belize&rsquo;s fixed-line tele-density and mobile penetration is lower than average for the region, due to insufficient competition, underinvestment in services, and lax standards; mobile accounts for 90% of all phones; operator aims to provide cheaper prices and customer retention through investment in broadband to over 80% of premises and LTE infrastructure; operator launched safe cities project to fight crime; government distributed tablets to students to promote e-learning; submarine cable to Ambergris Caye enables FttP service in San Pedro; importer of broadcast equipment from the United States (2020)<br>
@@ -609,8 +609,8 @@ _total_: 202,787 (2020 est.)<br>
 _percent of population_: 51% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 36,000 (2021)<br>
-_subscriptions per 100 inhabitants_: 9.05 (2021)<br>
+_total_: 36,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
 
 ## Transportation
 
@@ -659,11 +659,11 @@ _major seaport(s)_: Belize City, Big Creek<br>
 Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (independent from the BDF, but under the Ministry of Defense) (2021)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2021 est.)<br>
 1.5% of GDP (2020 est.)<br>
 1.4% of GDP (2019 est.) (approximately $35 million)<br>
 1.4% of GDP (2018 est.) (approximately $35 million)<br>
 1.4% of GDP (2017 est.) (approximately $30 million)<br>
-1.3% of GDP (2016 est.) (approximately $30 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Belize Defense Force (BDF) has approximately 1,300 active personnel; approximately 300 Belize Coast Guard (2021)<br>

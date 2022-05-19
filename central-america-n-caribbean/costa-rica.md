@@ -392,7 +392,7 @@ _selected World Heritage Site locales_: Guanacaste Conservation Area (n), Cocos 
 ## Economy
 
 **Economic overview**<br>
-<p>Since 2010, Costa Rica has enjoyed strong and stable economic growth - 3.8% in 2017. Exports of bananas, coffee, sugar, and beef are the backbone of its commodity exports. Various industrial and processed agricultural products have broadened exports in recent years, as have high value-added goods, including medical devices. Costa Rica's impressive biodiversity also makes it a key destination for ecotourism.</p><p></p><p>Foreign investors remain attracted by the country's political stability and relatively high education levels, as well as the incentives offered in the free-trade zones; Costa Rica has attracted one of the highest levels of foreign direct investment per capita in Latin America. The US-Central American-Dominican Republic Free Trade Agreement (CAFTA-DR), which became effective for Costa Rica in 2009, helped increase foreign direct investment in key sectors of the economy, including insurance and telecommunication. However, poor infrastructure, high energy costs, a complex bureaucracy, weak investor protection, and uncertainty of contract enforcement impede greater investment.</p><p></p><p>Costa Rica’s economy also faces challenges due to a rising fiscal deficit, rising public debt, and relatively low levels of domestic revenue. Poverty has remained around 20-25% for nearly 20 years, and the government’s strong social safety net has eroded due to increased constraints on its expenditures. Costa Rica’s credit rating was downgraded from stable to negative in 2015 and again in 2017, upping pressure on lending rates - which could hurt small business, on the budget deficit - which could hurt infrastructure development, and on the rate of return on investment - which could soften foreign direct investment (FDI). Unlike the rest of Central America, Costa Rica is not highly dependent on remittances - which represented just 1 % of GDP in 2016, but instead relies on FDI - which accounted for 5.1% of GDP.</p><br>
+<p>Since 2010, Costa Rica has enjoyed strong and stable economic growth - 3.8% in 2017. Exports of bananas, coffee, sugar, and beef are the backbone of its commodity exports. Various industrial and processed agricultural products have broadened exports in recent years, as have high value-added goods, including medical devices. Costa Rica's impressive biodiversity also makes it a key destination for ecotourism.</p> <p> </p> <p>Foreign investors remain attracted by the country's political stability and relatively high education levels, as well as the incentives offered in the free-trade zones; Costa Rica has attracted one of the highest levels of foreign direct investment per capita in Latin America. The US-Central American-Dominican Republic Free Trade Agreement (CAFTA-DR), which became effective for Costa Rica in 2009, helped increase foreign direct investment in key sectors of the economy, including insurance and telecommunication. However, poor infrastructure, high energy costs, a complex bureaucracy, weak investor protection, and uncertainty of contract enforcement impede greater investment.</p> <p> </p> <p>Costa Rica’s economy also faces challenges due to a rising fiscal deficit, rising public debt, and relatively low levels of domestic revenue. Poverty has remained around 20-25% for nearly 20 years, and the government’s strong social safety net has eroded due to increased constraints on its expenditures. Costa Rica’s credit rating was downgraded from stable to negative in 2015 and again in 2017, upping pressure on lending rates - which could hurt small business, on the budget deficit - which could hurt infrastructure development, and on the rate of return on investment - which could soften foreign direct investment (FDI). Unlike the rest of Central America, Costa Rica is not highly dependent on remittances - which represented just 1 % of GDP in 2016, but instead relies on FDI - which accounted for 5.1% of GDP.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $100.25 billion (2020 est.)<br>
@@ -606,8 +606,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 559,882 (2020)<br>
-_subscriptions per 100 inhabitants_: 10.99 (2020 est.)<br>
+_total subscriptions_: 559,882 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 7,512,370 (2020 est.)<br>
@@ -630,8 +630,8 @@ _total_: 4,126,232 (2020 est.)<br>
 _percent of population_: 81% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 992,725 (2021)<br>
-_subscriptions per 100 inhabitants_: 19.49 (2021)<br>
+_total_: 992,725 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 20 (2020 est.)<br>
 
 ## Transportation
 
@@ -688,11 +688,11 @@ no regular military forces; Ministry of Public Security: the Public Force (Fuerz
 note - Costa Rica's armed forces were constitutionally abolished in 1949<br>
 
 **Military expenditures**<br>
-0.7% of GDP (2020)<br>
+0.7% of GDP (2021 est.)<br>
+0.7% of GDP (2020 est.)<br>
 0.7% of GDP (2019) (approximately $630 million)<br>
 0.7% of GDP (2018) (approximately $610 million)<br>
 0.7% of GDP (2017) (approximately $600 million)<br>
-0.7% of GDP (2016) (approximately $580 million)<br>
 
 **Military and security service personnel strengths**<br>
 12,500 Public Force personnel; approximately 500-600 Air, 500-600 Coast Guard, and 300-400 Border Police personnel (2022)<br>

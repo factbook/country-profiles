@@ -402,7 +402,7 @@ _selected World Heritage Site locales_: Natural and Culturo-Historical Region of
 ## Economy
 
 **Economic overview**<br>
-<p>Montenegro's economy is transitioning to a market system. Around 90% of Montenegrin state-owned companies have been privatized, including 100% of banking, telecommunications, and oil distribution. Tourism, which accounts for more than 20% of Montenegro’s GDP, brings in three times as many visitors as Montenegro’s total population every year. Several new luxury tourism complexes are in various stages of development along the coast, and a number are being offered in connection with nearby boating and yachting facilities. In addition to tourism, energy and agriculture are considered two distinct pillars of the economy. Only 20% of Montenegro’s hydropower potential is utilized. Montenegro plans to become a net energy exporter, and the construction of an underwater cable to Italy, which will be completed by the end of 2018, will help meet its goal.</p><p></p><p>Montenegro uses the euro as its domestic currency, though it is not an official member of the euro zone. In January 2007, Montenegro joined the World Bank and IMF, and in December 2011, the WTO. Montenegro began negotiations to join the EU in 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime.</p><p></p><p>The government recognizes the need to remove impediments in order to remain competitive and open the economy to foreign investors. Net foreign direct investment in 2017 reached $848 million and investment per capita is one of the highest in Europe, due to a low corporate tax rate. The biggest foreign investors in Montenegro in 2017 were Norway, Russia, Italy, Azerbaijan and Hungary.</p><p></p><p>Montenegro is currently planning major overhauls of its road and rail networks, and possible expansions of its air transportation system. In 2014, the Government of Montenegro selected two Chinese companies to construct a 41 km-long section of the country’s highway system, which will become part of China’s Belt and Road Initiative. Cheaper borrowing costs have stimulated Montenegro’s growing debt, which currently sits at 65.9% of GDP, with a forecast, absent fiscal consolidation, to increase to 80% once the repayment to China’s Ex/Im Bank of a €800 million highway loan begins in 2019. Montenegro first instituted a value-added tax (VAT) in April 2003, and introduced differentiated VAT rates of 17% and 7% (for tourism) in January 2006. The Montenegrin Government increased the non-tourism Value Added Tax (VAT) rate to 21% as of January 2018, with the goal of reducing its public debt.</p><br>
+<p>Montenegro's economy is transitioning to a market system. Around 90% of Montenegrin state-owned companies have been privatized, including 100% of banking, telecommunications, and oil distribution. Tourism, which accounts for more than 20% of Montenegro’s GDP, brings in three times as many visitors as Montenegro’s total population every year. Several new luxury tourism complexes are in various stages of development along the coast, and a number are being offered in connection with nearby boating and yachting facilities. In addition to tourism, energy and agriculture are considered two distinct pillars of the economy. Only 20% of Montenegro’s hydropower potential is utilized. Montenegro plans to become a net energy exporter, and the construction of an underwater cable to Italy, which will be completed by the end of 2018, will help meet its goal.</p> <p> </p> <p>Montenegro uses the euro as its domestic currency, though it is not an official member of the euro zone. In January 2007, Montenegro joined the World Bank and IMF, and in December 2011, the WTO. Montenegro began negotiations to join the EU in 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime.</p> <p> </p> <p>The government recognizes the need to remove impediments in order to remain competitive and open the economy to foreign investors. Net foreign direct investment in 2017 reached $848 million and investment per capita is one of the highest in Europe, due to a low corporate tax rate. The biggest foreign investors in Montenegro in 2017 were Norway, Russia, Italy, Azerbaijan and Hungary.</p> <p> </p> <p>Montenegro is currently planning major overhauls of its road and rail networks, and possible expansions of its air transportation system. In 2014, the Government of Montenegro selected two Chinese companies to construct a 41 km-long section of the country’s highway system, which will become part of China’s Belt and Road Initiative. Cheaper borrowing costs have stimulated Montenegro’s growing debt, which currently sits at 65.9% of GDP, with a forecast, absent fiscal consolidation, to increase to 80% once the repayment to China’s Ex/Im Bank of a €800 million highway loan begins in 2019. Montenegro first instituted a value-added tax (VAT) in April 2003, and introduced differentiated VAT rates of 17% and 7% (for tourism) in January 2006. The Montenegrin Government increased the non-tourism Value Added Tax (VAT) rate to 21% as of January 2018, with the goal of reducing its public debt.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $11.36 billion (2020 est.)<br>
@@ -617,8 +617,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 191,768 (2020)<br>
-_subscriptions per 100 inhabitants_: 30.53 (2020 est.)<br>
+_total subscriptions_: 191,768 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1,080,089 (2020)<br>
@@ -641,8 +641,8 @@ _total_: 484,619 (2020 est.)<br>
 _percent of population_: 78% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 184,176 (2021)<br>
-_subscriptions per 100 inhabitants_: 29.32 (2021)<br>
+_total_: 184,176 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 29 (2020 est.)<br>
 
 ## Transportation
 
@@ -718,7 +718,7 @@ Montenegro officially became a member of NATO in 2017; Greece and Italy provide 
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 21,274 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
+<strong>note:</strong> 21,385 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

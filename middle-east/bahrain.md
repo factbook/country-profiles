@@ -380,7 +380,7 @@ _selected World Heritage Site locales_: Dilmun Burial Mounds, Qal'at al-Bahrain 
 ## Economy
 
 **Economic overview**<br>
-<p>Oil and natural gas play a dominant role in Bahrain’s economy. Despite the Government’s past efforts to diversify the economy, oil still comprises 85% of Bahraini budget revenues. In the last few years lower world energy prices have generated sizable budget deficits - about 10% of GDP in 2017 alone. Bahrain has few options for covering these deficits, with low foreign assets and fewer oil resources compared to its GCC neighbors. The three major US credit agencies downgraded Bahrain’s sovereign debt rating to "junk" status in 2016, citing persistently low oil prices and the government’s high debt levels. Nevertheless, Bahrain was able to raise about $4 billion by issuing foreign currency denominated debt in 2017.</p><p></p><p>Other major economic activities are production of aluminum - Bahrain's second biggest export after oil and gas –finance, and construction. Bahrain continues to seek new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. In April 2018 Bahrain announced it had found a significant oil field off the country’s west coast, but is still assessing how much of the oil can be extracted profitably.</p><p></p><p>In addition to addressing its current fiscal woes, Bahraini authorities face the long-term challenge of boosting Bahrain’s regional competitiveness — especially regarding industry, finance, and tourism — and reconciling revenue constraints with popular pressure to maintain generous state subsidies and a large public sector. Since 2015, the government lifted subsidies on meat, diesel, kerosene, and gasoline and has begun to phase in higher prices for electricity and water. As part of its diversification plans, Bahrain implemented a Free Trade Agreement (FTA) with the US in August 2006, the first FTA between the US and a Gulf state. It plans to introduce a Value Added Tax (VAT) by the end of 2018.</p><br>
+<p>Oil and natural gas play a dominant role in Bahrain’s economy. Despite the Government’s past efforts to diversify the economy, oil still comprises 85% of Bahraini budget revenues. In the last few years lower world energy prices have generated sizable budget deficits - about 10% of GDP in 2017 alone. Bahrain has few options for covering these deficits, with low foreign assets and fewer oil resources compared to its GCC neighbors. The three major US credit agencies downgraded Bahrain’s sovereign debt rating to "junk" status in 2016, citing persistently low oil prices and the government’s high debt levels. Nevertheless, Bahrain was able to raise about $4 billion by issuing foreign currency denominated debt in 2017.</p> <p> </p> <p>Other major economic activities are production of aluminum - Bahrain's second biggest export after oil and gas –finance, and construction. Bahrain continues to seek new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. In April 2018 Bahrain announced it had found a significant oil field off the country’s west coast, but is still assessing how much of the oil can be extracted profitably.</p> <p> </p> <p>In addition to addressing its current fiscal woes, Bahraini authorities face the long-term challenge of boosting Bahrain’s regional competitiveness — especially regarding industry, finance, and tourism — and reconciling revenue constraints with popular pressure to maintain generous state subsidies and a large public sector. Since 2015, the government lifted subsidies on meat, diesel, kerosene, and gasoline and has begun to phase in higher prices for electricity and water. As part of its diversification plans, Bahrain implemented a Free Trade Agreement (FTA) with the US in August 2006, the first FTA between the US and a Gulf state. It plans to introduce a Value Added Tax (VAT) by the end of 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $69.65 billion (2020 est.)<br>
@@ -590,12 +590,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 266,659 (2020)<br>
-_subscriptions per 100 inhabitants_: 15.67 (2020 est.)<br>
+_total subscriptions_: 274,106 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,748,672 (2020)<br>
-_subscriptions per 100 inhabitants_: 102.8 (2020 est.)<br>
+_total subscriptions_: 1,748,672 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 103 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Bahrain is one of the most technically advanced and connected countries in the world; NGN for increased mobile and Wi-Fi traffic; mobile infrastructure and fiber-optic Internet allows greater Internet penetration and competitive prices; government provides free Internet in schools and public areas, and national broadband with sole control over network; regulator controlled by monarchy; Internet freedom restricted through blocks; well served by satellite and submarine cable access; importer of broadcasting equipment from UAE (2020)<br>
@@ -614,8 +614,8 @@ _total_: 170,158 (2020 est.)<br>
 _percent of population_: 100% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 148,928 (2021)<br>
-_subscriptions per 100 inhabitants_: 8.75 (2021)<br>
+_total_: 148,928 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
 
 ## Transportation
 
@@ -661,11 +661,11 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 note(s) - the Royal Guard is officially under the command of the Army, but exercises considerable autonomy; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields; while the Guard is under the Ministry of Interior, it reports directly to the king<br>
 
 **Military expenditures**<br>
+3.6% of GDP (2021 est.)<br>
 4.2% of GDP (2020 est.)<br>
 4% of GDP (2019 est.) (approximately $2.09 billion)<br>
 4% of GDP (2018 est.) (approximately $2.08 billion)<br>
 4.2% of GDP (2017 est.) (approximately $2.18 billion)<br>
-4.7% of GDP (2016 est.) (approximately $2.25 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 3,000 National Guard (2021)<br>

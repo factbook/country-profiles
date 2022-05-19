@@ -439,7 +439,7 @@ _selected World Heritage Site locales_: Medina of Fez, Medina of Marrakesh, Ksar
 ## Economy
 
 **Economic overview**<br>
-<p>Morocco has capitalized on its proximity to Europe and relatively low labor costs to work towards building a diverse, open, market-oriented economy. Key sectors of the economy include agriculture, tourism, aerospace, automotive, phosphates, textiles, apparel, and subcomponents. Morocco has increased investment in its port, transportation, and industrial infrastructure to position itself as a center and broker for business throughout Africa. Industrial development strategies and infrastructure improvements - most visibly illustrated by a new port and free trade zone near Tangier - are improving Morocco's competitiveness.</p><p></p><p>In the 1980s, Morocco was a heavily indebted country before pursuing austerity measures and pro-market reforms, overseen by the IMF. Since taking the throne in 1999, King MOHAMMED VI has presided over a stable economy marked by steady growth, low inflation, and gradually falling unemployment, although poor harvests and economic difficulties in Europe contributed to an economic slowdown. To boost exports, Morocco entered into a bilateral Free Trade Agreement with the US in 2006 and an Advanced Status agreement with the EU in 2008. In late 2014, Morocco eliminated subsidies for gasoline, diesel, and fuel oil, dramatically reducing outlays that weighed on the country’s budget and current account. Subsidies on butane gas and certain food products remain in place. Morocco also seeks to expand its renewable energy capacity with a goal of making renewable more than 50% of installed electricity generation capacity by 2030.</p><p></p><p>Despite Morocco's economic progress, the country suffers from high unemployment, poverty, and illiteracy, particularly in rural areas. Key economic challenges for Morocco include reforming the education system and the judiciary.</p><br>
+<p>Morocco has capitalized on its proximity to Europe and relatively low labor costs to work towards building a diverse, open, market-oriented economy. Key sectors of the economy include agriculture, tourism, aerospace, automotive, phosphates, textiles, apparel, and subcomponents. Morocco has increased investment in its port, transportation, and industrial infrastructure to position itself as a center and broker for business throughout Africa. Industrial development strategies and infrastructure improvements - most visibly illustrated by a new port and free trade zone near Tangier - are improving Morocco's competitiveness.</p> <p> </p> <p>In the 1980s, Morocco was a heavily indebted country before pursuing austerity measures and pro-market reforms, overseen by the IMF. Since taking the throne in 1999, King MOHAMMED VI has presided over a stable economy marked by steady growth, low inflation, and gradually falling unemployment, although poor harvests and economic difficulties in Europe contributed to an economic slowdown. To boost exports, Morocco entered into a bilateral Free Trade Agreement with the US in 2006 and an Advanced Status agreement with the EU in 2008. In late 2014, Morocco eliminated subsidies for gasoline, diesel, and fuel oil, dramatically reducing outlays that weighed on the country’s budget and current account. Subsidies on butane gas and certain food products remain in place. Morocco also seeks to expand its renewable energy capacity with a goal of making renewable more than 50% of installed electricity generation capacity by 2030.</p> <p> </p> <p>Despite Morocco's economic progress, the country suffers from high unemployment, poverty, and illiteracy, particularly in rural areas. Key economic challenges for Morocco include reforming the education system and the judiciary.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $259.42 billion (2020 est.)<br>
@@ -655,8 +655,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,357,286 (2020)<br>
-_subscriptions per 100 inhabitants_: 6.39 (2020 est.)<br>
+_total subscriptions_: 2,357,286 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 49,421,023 (2020)<br>
@@ -679,8 +679,8 @@ _total_: 31,004,869 (2020 est.)<br>
 _percent of population_: 84% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,102,434 (2021)<br>
-_subscriptions per 100 inhabitants_: 5.7 (2021)<br>
+_total_: 2,102,434 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
 
 **Communications - note**<br>
 the University of al-Quarawiyyin Library in Fez is recognized as the oldest existing, continually operating library in the world, dating back to A.D. 859; among its holdings are approximately 4,000 ancient Islamic manuscripts<br>
@@ -743,11 +743,11 @@ Royal Armed Forces: Royal Moroccan Army (includes the Moroccan Royal Guard), Roy
 note(s) - the National Police manages internal law enforcement in cities; the Royal Gendarmerie is responsible for law enforcement in rural regions and on national highways <br><br> <br>
 
 **Military expenditures**<br>
+4.5% of GDP (2021 est.)<br>
 4.5% of GDP (2020 est.)<br>
 3.4% of GDP (2019 est.) (approximately $7.46 billion)<br>
 3.3% of GDP (2018 est.) (approximately $7.12 billion)<br>
 3.4% of GDP (2017 est.) (approximately $7.08 billion)<br>
-3.4% of GDP (2016 est.) (approximately $6.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); est. 25,000 Gendarmerie (2021)<br>

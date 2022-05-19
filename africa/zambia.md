@@ -415,7 +415,7 @@ _selected World Heritage Site locales_: Mosi-oa-Tunya/Victoria Falls<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Zambia had one of the world’s fastest growing economies for the ten years up to 2014, with real GDP growth averaging roughly 6.7% per annum, though growth slowed during the period 2015 to 2017, due to falling copper prices, reduced power generation, and depreciation of the kwacha. Zambia’s lack of economic diversification and dependency on copper as its sole major export makes it vulnerable to fluctuations in the world commodities market and prices turned downward in 2015 due to declining demand from China; Zambia was overtaken by the Democratic Republic of Congo as Africa’s largest copper producer. GDP growth picked up in 2017 as mineral prices rose.</p><p></p><p>Despite recent strong economic growth and its status as a lower middle-income country, widespread and extreme rural poverty and high unemployment levels remain significant problems, made worse by a high birth rate, a relatively high HIV/AIDS burden, by market-distorting agricultural and energy policies, and growing government debt. Zambia raised $7 billion from international investors by issuing separate sovereign bonds in 2012, 2014, and 2015. Concurrently, it issued over $4 billion in domestic debt and agreed to Chinese-financed infrastructure projects, significantly increasing the country’s public debt burden to more than 60% of GDP. The government has considered refinancing $3 billion worth of Eurobonds and significant Chinese loans to cut debt servicing costs.</p><br>
+<p>Zambia had one of the world’s fastest growing economies for the ten years up to 2014, with real GDP growth averaging roughly 6.7% per annum, though growth slowed during the period 2015 to 2017, due to falling copper prices, reduced power generation, and depreciation of the kwacha. Zambia’s lack of economic diversification and dependency on copper as its sole major export makes it vulnerable to fluctuations in the world commodities market and prices turned downward in 2015 due to declining demand from China; Zambia was overtaken by the Democratic Republic of Congo as Africa’s largest copper producer. GDP growth picked up in 2017 as mineral prices rose.</p> <p> </p> <p>Despite recent strong economic growth and its status as a lower middle-income country, widespread and extreme rural poverty and high unemployment levels remain significant problems, made worse by a high birth rate, a relatively high HIV/AIDS burden, by market-distorting agricultural and energy policies, and growing government debt. Zambia raised $7 billion from international investors by issuing separate sovereign bonds in 2012, 2014, and 2015. Concurrently, it issued over $4 billion in domestic debt and agreed to Chinese-financed infrastructure projects, significantly increasing the country’s public debt burden to more than 60% of GDP. The government has considered refinancing $3 billion worth of Eurobonds and significant Chinese loans to cut debt servicing costs.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $60.12 billion (2020 est.)<br>
@@ -632,8 +632,8 @@ _electrification - rural areas_: 6% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 71,844 (2020)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 71,844 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 17,220,600 (2019)<br>
@@ -656,8 +656,8 @@ _total_: 3,676,791 (2020 est.)<br>
 _percent of population_: 20% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 82,317 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.45 (2021) less than 1<br>
+_total_: 82,317 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.5 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -716,11 +716,11 @@ _river port(s)_: Mpulungu (Zambezi)<br>
 Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service (support organization that also does public work projects); Defense Force Medical Service; Ministry of Home Affairs: Zambia Police (includes a paramilitary battalion) (2021)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
 1.3% of GDP (2019 est.) (approximately $450 million)<br>
 1.4% of GDP (2018 est.) (approximately $470 million)<br>
 1.3% of GDP (2017 est.) (approximately $420 million)<br>
-1.5% of GDP (2016 est.) (approximately $450 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Zambia Defense Force (ZDF) has approximately 17,000 active troops (15,000 Army; 2,000 Air) (2021)<br>

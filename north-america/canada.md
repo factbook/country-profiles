@@ -400,7 +400,7 @@ _selected World Heritage Site locales_: L'Anse aux Meadows (c), Canadian Rocky M
 ## Economy
 
 **Economic overview**<br>
-<p>Canada resembles the US in its market-oriented economic system, pattern of production, and high living standards. Since World War II, the impressive growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy into one primarily industrial and urban. Canada has a large oil and natural gas sector with the majority of crude oil production derived from oil sands in the western provinces, especially Alberta. Canada now ranks third in the world in proved oil reserves behind Venezuela and Saudi Arabia and is the world’s seventh-largest oil producer.</p><p></p><p>TThe 1989 Canada-US Free Trade Agreement and the 1994 North American Free Trade Agreement (which includes Mexico) dramatically increased trade and economic integration between the US and Canada. Canada and the US enjoy the world’s most comprehensive bilateral trade and investment relationship, with goods and services trade totaling more than $680 billion in 2017, and two-way investment stocks of more than $800 billion. Over three-fourths of Canada’s merchandise exports are destined for the US each year. Canada is the largest foreign supplier of energy to the US, including oil, natural gas, and electric power, and a top source of US uranium imports.</p><p></p><p>Given its abundant natural resources, highly skilled labor force, and modern capital stock, Canada enjoyed solid economic growth from 1993 through 2007. The global economic crisis of 2007-08 moved the Canadian economy into sharp recession by late 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada's major banks emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the financial sector's tradition of conservative lending practices and strong capitalization. Canada’s economy posted strong growth in 2017 at 3%, but most analysts are projecting Canada’s economic growth will drop back closer to 2% in 2018.</p><br>
+<p>Canada resembles the US in its market-oriented economic system, pattern of production, and high living standards. Since World War II, the impressive growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy into one primarily industrial and urban. Canada has a large oil and natural gas sector with the majority of crude oil production derived from oil sands in the western provinces, especially Alberta. Canada now ranks third in the world in proved oil reserves behind Venezuela and Saudi Arabia and is the world’s seventh-largest oil producer.</p> <p> </p> <p>TThe 1989 Canada-US Free Trade Agreement and the 1994 North American Free Trade Agreement (which includes Mexico) dramatically increased trade and economic integration between the US and Canada. Canada and the US enjoy the world’s most comprehensive bilateral trade and investment relationship, with goods and services trade totaling more than $680 billion in 2017, and two-way investment stocks of more than $800 billion. Over three-fourths of Canada’s merchandise exports are destined for the US each year. Canada is the largest foreign supplier of energy to the US, including oil, natural gas, and electric power, and a top source of US uranium imports.</p> <p> </p> <p>Given its abundant natural resources, highly skilled labor force, and modern capital stock, Canada enjoyed solid economic growth from 1993 through 2007. The global economic crisis of 2007-08 moved the Canadian economy into sharp recession by late 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada's major banks emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the financial sector's tradition of conservative lending practices and strong capitalization. Canada’s economy posted strong growth in 2017 at 3%, but most analysts are projecting Canada’s economic growth will drop back closer to 2% in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1,742,790,000,000 (2020 est.)<br>
@@ -619,8 +619,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 13.926 million (2020)<br>
-_subscriptions per 100 inhabitants_: 36.9 (2020 est.)<br>
+_total subscriptions_: 13.34 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 36,093,021 (2020)<br>
@@ -643,8 +643,8 @@ _total_: 36,896,088 (2020 est.)<br>
 _percent of population_: 97% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 15,825,813 (2021) Retail high-speed Internet access subs<br>
-_subscriptions per 100 inhabitants_: 41.93 (2021)<br>
+_total_: 15,825,813 (2020 est.) Retail high-speed Internet access subs<br>
+_subscriptions per 100 inhabitants_: 42 (2020 est.)<br>
 
 ## Transportation
 

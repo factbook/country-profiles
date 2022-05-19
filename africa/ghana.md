@@ -414,7 +414,7 @@ _selected World Heritage Site locales_: Forts and Castles, Volta, Greater Accra,
 ## Economy
 
 **Economic overview**<br>
-<p>Ghana has a market-based economy with relatively few policy barriers to trade and investment in comparison with other countries in the region, and Ghana is endowed with natural resources. Ghana's economy was strengthened by a quarter century of relatively sound management, a competitive business environment, and sustained reductions in poverty levels, but in recent years has suffered the consequences of loose fiscal policy, high budget and current account deficits, and a depreciating currency.</p><p></p><p>Agriculture accounts for about 20% of GDP and employs more than half of the workforce, mainly small landholders. Gold, oil, and cocoa exports, and individual remittances, are major sources of foreign exchange. Expansion of Ghana’s nascent oil industry has boosted economic growth, but the fall in oil prices since 2015 reduced by half Ghana’s oil revenue. Production at Jubilee, Ghana's first commercial offshore oilfield, began in mid-December 2010. Production from two more fields, TEN and Sankofa, started in 2016 and 2017 respectively. The country’s first gas processing plant at Atuabo is also producing natural gas from the Jubilee field, providing power to several of Ghana’s thermal power plants.</p><p></p><p>As of 2018, key economic concerns facing the government include the lack of affordable electricity, lack of a solid domestic revenue base, and the high debt burden. The AKUFO-ADDO administration has made some progress by committing to fiscal consolidation, but much work is still to be done. Ghana signed a $920 million extended credit facility with the IMF in April 2015 to help it address its growing economic crisis. The IMF fiscal targets require Ghana to reduce the deficit by cutting subsidies, decreasing the bloated public sector wage bill, strengthening revenue administration, boosting tax revenues, and improving the health of Ghana’s banking sector. Priorities for the new administration include rescheduling some of Ghana’s $31 billion debt, stimulating economic growth, reducing inflation, and stabilizing the currency. Prospects for new oil and gas production and follow through on tighter fiscal management are likely to help Ghana’s economy in 2018.</p><br>
+<p>Ghana has a market-based economy with relatively few policy barriers to trade and investment in comparison with other countries in the region, and Ghana is endowed with natural resources. Ghana's economy was strengthened by a quarter century of relatively sound management, a competitive business environment, and sustained reductions in poverty levels, but in recent years has suffered the consequences of loose fiscal policy, high budget and current account deficits, and a depreciating currency.</p> <p> </p> <p>Agriculture accounts for about 20% of GDP and employs more than half of the workforce, mainly small landholders. Gold, oil, and cocoa exports, and individual remittances, are major sources of foreign exchange. Expansion of Ghana’s nascent oil industry has boosted economic growth, but the fall in oil prices since 2015 reduced by half Ghana’s oil revenue. Production at Jubilee, Ghana's first commercial offshore oilfield, began in mid-December 2010. Production from two more fields, TEN and Sankofa, started in 2016 and 2017 respectively. The country’s first gas processing plant at Atuabo is also producing natural gas from the Jubilee field, providing power to several of Ghana’s thermal power plants.</p> <p> </p> <p>As of 2018, key economic concerns facing the government include the lack of affordable electricity, lack of a solid domestic revenue base, and the high debt burden. The AKUFO-ADDO administration has made some progress by committing to fiscal consolidation, but much work is still to be done. Ghana signed a $920 million extended credit facility with the IMF in April 2015 to help it address its growing economic crisis. The IMF fiscal targets require Ghana to reduce the deficit by cutting subsidies, decreasing the bloated public sector wage bill, strengthening revenue administration, boosting tax revenues, and improving the health of Ghana’s banking sector. Priorities for the new administration include rescheduling some of Ghana’s $31 billion debt, stimulating economic growth, reducing inflation, and stabilizing the currency. Prospects for new oil and gas production and follow through on tighter fiscal management are likely to help Ghana’s economy in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $164.84 billion (2020 est.)<br>
@@ -629,8 +629,8 @@ _electrification - rural areas_: 75% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 307,668 (2020)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 307,668 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 40,461,609 (2020)<br>
@@ -653,8 +653,8 @@ _total_: 18,022,308 (2020 est.)<br>
 _percent of population_: 58% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 78,371 (2021) Total fixed broadband subscriptions from Vodafone 62,284; AirtelTigo 700; MTN 14,038; Mainone 111; Simba Fibre 41; K-Net 310; Tizeti 810; Sactis Ghana 45; Orange business 22; Vodafone<br>
-_subscriptions per 100 inhabitants_: 0.25 (2021 est.) less than 1<br>
+_total_: 78,371 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.25 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -709,11 +709,11 @@ _major seaport(s)_: Takoradi, Tema<br>
 Ghana Armed Forces: Army, Navy, Air Force (2021)<br>
 
 **Military expenditures**<br>
+0.5% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
-0.4% of GDP (2019) (approximately $360 million)<br>
-0.3% of GDP (2018) (approximately $330 million)<br>
-0.3% of GDP (2017) (approximately $300 million)<br>
-0.3% of GDP (2016) (approximately $300 million)<br>
+0.4% of GDP (2019 est.) (approximately $360 million)<br>
+0.3% of GDP (2018 est.) (approximately $330 million)<br>
+0.3% of GDP (2017 est.) (approximately $300 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>

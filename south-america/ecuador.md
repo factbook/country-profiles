@@ -356,8 +356,8 @@ _elections_: last held on 7 February 2021 (next scheduled for February 2025)<br>
 _election results_: percent of vote by party - UNES 32.21%, MUPP 16.81%, ID 11.98%, PSC 9.73%, CREO 9.65%, MC-PSE 3.76%, other 15.86%; seats by party - UNES 49, MUPP 27, ID 18, PSC 18, CREO 12, MC-PSE 2, independents 3, other 8; composition as of March 2022 - men 84, women 53, percent of women 38.7%; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
 
 **Judicial branch**<br>
-_highest courts_: National Court of Justice or Corte Nacional de Justicia (consists of 21 judges, including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of 9 judges)<br>
-_judge selection and term of office_: justices of National Court of Justice elected by the Judiciary Council, a 9-member independent body of law professionals; judges elected for 9-year, non-renewable terms, with one-third of the membership renewed every 3 years; Constitutional Court judges appointed by the executive, legislative, and Citizen Participation branches of government; judges appointed for 9-year non-renewable terms with one-third of the membership renewed every 3 years<br>
+_highest courts_: National Court of Justice or Corte Nacional de Justicia (consists of 21 judges, including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of the court president and 8 judges)<br>
+_judge selection and term of office_: candidates for the National Court of Justice evaluated and appointed justices by the Judicial Council, a 9-member independent body of law professionals; justices elected for 9-year, non-renewable terms, with one-third of the membership renewed every 3 years; candidates for the Constitutional Court evaluated and appointed judges by a 6-member independent body of law professionals; judges appointed for 4-year renewable terms<br>
 _subordinate courts_: provincial courts (one for each province except Galapagos); fiscal, criminal, and administrative tribunals; Election Dispute Settlement Courts; cantonal courts<br>
 
 **Political parties and leaders**<br>
@@ -401,7 +401,7 @@ _selected World Heritage Site locales_: Historic Quito (c), Galápagos Islands (
 ## Economy
 
 **Economic overview**<br>
-<p>Ecuador is substantially dependent on its petroleum resources, which accounted for about a third of the country's export earnings in 2017. Remittances from overseas Ecuadorian are also important.</p><p></p><p>In 1999/2000, Ecuador's economy suffered from a banking crisis that lead to some reforms, including adoption of the US dollar as legal tender. Dollarization stabilized the economy, and positive growth returned in most of the years that followed. China has become Ecuador's largest foreign lender since 2008 and now accounts for 77.7% of the Ecuador’s bilateral debt. Various economic policies under the CORREA administration, such as an announcement in 2017 that Ecuador would terminate 13 bilateral investment treaties - including one with the US, generated economic uncertainty and discouraged private investment.</p><p></p><p>Faced with a 2013 trade deficit of $1.1 billion, Ecuador imposed tariff surcharges from 5% to 45% on an estimated 32% of imports. Ecuador’s economy fell into recession in 2015 and remained in recession in 2016. Declining oil prices and exports forced the CORREA administration to cut government oulays. Foreign investment in Ecuador is low as a result of the unstable regulatory environment and weak rule of law.</p><p></p><p>n April of 2017, Lenin MORENO was elected President of Ecuador by popular vote. His immediate challenge was to reengage the private sector to improve cash flow in the country. Ecuador’s economy returned to positive, but sluggish, growth. In early 2018, the MORENO administration held a public referendum on seven economic and political issues in a move counter to CORREA-administration policies, reduce corruption, strengthen democracy, and revive employment and the economy. The referendum resulted in repeal of taxes associated with recovery from the earthquake of 2016, reduced restrictions on metal mining in the Yasuni Intangible Zone - a protected area, and several political reforms.</p><br>
+<p>Ecuador is substantially dependent on its petroleum resources, which accounted for about a third of the country's export earnings in 2017. Remittances from overseas Ecuadorian are also important.</p> <p> </p> <p>In 1999/2000, Ecuador's economy suffered from a banking crisis that lead to some reforms, including adoption of the US dollar as legal tender. Dollarization stabilized the economy, and positive growth returned in most of the years that followed. China has become Ecuador's largest foreign lender since 2008 and now accounts for 77.7% of the Ecuador’s bilateral debt. Various economic policies under the CORREA administration, such as an announcement in 2017 that Ecuador would terminate 13 bilateral investment treaties - including one with the US, generated economic uncertainty and discouraged private investment.</p> <p> </p> <p>Faced with a 2013 trade deficit of $1.1 billion, Ecuador imposed tariff surcharges from 5% to 45% on an estimated 32% of imports. Ecuador’s economy fell into recession in 2015 and remained in recession in 2016. Declining oil prices and exports forced the CORREA administration to cut government oulays. Foreign investment in Ecuador is low as a result of the unstable regulatory environment and weak rule of law.</p> <p> </p> <p>n April of 2017, Lenin MORENO was elected President of Ecuador by popular vote. His immediate challenge was to reengage the private sector to improve cash flow in the country. Ecuador’s economy returned to positive, but sluggish, growth. In early 2018, the MORENO administration held a public referendum on seven economic and political issues in a move counter to CORREA-administration policies, reduce corruption, strengthen democracy, and revive employment and the economy. The referendum resulted in repeal of taxes associated with recovery from the earthquake of 2016, reduced restrictions on metal mining in the Yasuni Intangible Zone - a protected area, and several political reforms.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $182.24 billion (2020 est.)<br>
@@ -619,8 +619,8 @@ _electrification - rural areas_: 93% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,063,044<br>
-_subscriptions per 100 inhabitants_: 11.69 (2019 est.)<br>
+_total subscriptions_: 2,063,044 (2020)<br>
+_subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 15,485,366<br>
@@ -643,8 +643,8 @@ _percent of population_: 65% (2020 est.)<br>
 according to 2021 statistics from Ecuador's Ministry of Telecommunications and Information Society, 50% of homes do not have access to fixed internet<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,371,297 (2021)<br>
-_subscriptions per 100 inhabitants_: 13.44 (2021)<br>
+_total_: 2,371,297 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 ## Transportation
 
@@ -708,11 +708,11 @@ Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian
 note - the National Police of Ecuador (Polic&iacute;a Nacional del Ecuador) is under the Ministry of Government<br>
 
 **Military expenditures**<br>
+2% of GDP (2021 est.)<br>
 2.3% of GDP (2020 est.)<br>
 2.2% of GDP (2019) (approximately $2.98 billion)<br>
 2.4% of GDP (2018) (approximately $3.14 billion)<br>
 2.4% of GDP (2017) (approximately $3.1 billion)<br>
-2.5% of GDP (2016) (approximately $3.17 billion)<br>
 
 **Military and security service personnel strengths**<br>
 the Ecuadorian Armed Forces have approximately 40,000 active personnel (25,000 Army; 9,000 Navy; 6,000 Air Force) (2022)<br>
@@ -736,7 +736,7 @@ the International Maritime Bureau continues to report the territorial and offsho
 <p>organized illegal narcotics operations in Colombia penetrate across Ecuador's shared border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 508,935 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay), 65,854 (Colombia) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 65,854 (Colombia) (refugees and asylum seekers) (2021); 513,900 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2022)<br>
 
 **Illicit drugs**<br>
 Ecuador is a major transit country for illicit drugs such as cocaine, heroin and chemical precursors to process cocaine from Colombia and Peru; not a major drug producing country<br>

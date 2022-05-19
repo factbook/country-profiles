@@ -576,12 +576,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 128,043 (2019)<br>
-_subscriptions per 100 inhabitants_: 44.61 (2019 est.)<br>
+_total subscriptions_: 128,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 329,326 (2019)<br>
-_subscriptions per 100 inhabitants_: 114.7 (2019 est.)<br>
+_total subscriptions_: 295,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 103 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: island-wide automatic telephone system; telecom sector across the Caribbean region remains one of the key growth areas and contributors to the overall GDP; numerous competitors licensed, but small and localized (2020)<br>
@@ -600,8 +600,8 @@ _total_: 235,357 (2019 est.)<br>
 _percent of population_: 82% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 128,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 44.54 (2021)<br>
+_total_: 128,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
 
 ## Transportation
 
@@ -635,11 +635,11 @@ _major seaport(s)_: Bridgetown<br>
 Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2021)<br>
 
 **Military expenditures**<br>
+0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020 est.)<br>
 0.8% of GDP (2019 est.) (approximately $35 million)<br>
 0.8% of GDP (2018 est.) (approximately $40 million)<br>
 0.8% of GDP (2017 est.) (approximately $40 million)<br>
-0.8% of GDP (2016 est.) (approximately $40 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Barbados Defense Force (BDF) has approximately 600 active personnel (2021)<br>

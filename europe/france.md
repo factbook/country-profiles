@@ -360,7 +360,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017)<br>
-_head of government_: Prime Minister Jean CASTEX (since 3 July 2020)<br>
+_head of government_: Prime Minister &Eacute;lisabeth BORNE (since 16 May 2022)<br>
 _cabinet_: Council of Ministers appointed by the president at the suggestion of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 April 2022 with a runoff held on 24 April 2022 (next to be held in April 2027); prime minister appointed by the president<br>
 _election results_: <em>2022: </em>Emmanuel MACRON reelected in second round; percent of vote in first round - Emmanuel MACRON (LREM) 27.8%, Marine LE PEN (RN) 23.2%, Jean-Luc MELENCHON (LFI) 22%, Eric ZEMMOUR (Reconquete) 7.1%, Valerie PECRESSE (LR) 4.8%, Yannick JADOT (EELV) 4.6%, Jean LASSALLE (Resistons!) 3.1%, Fabien ROUSSEL (PCF) 2.3%, Nicolas DUPONT-AIGNAN (DLF) 2.1%, Anne HIDALGO 1.8%, other 1.2%; percent of vote in second round - MACRON 58.5%, LE PEN 41.5%<em><br></em><br><em>2017:</em> Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24.%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20.%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%<br>
@@ -419,7 +419,7 @@ _selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park 
 ## Economy
 
 **Economic overview**<br>
-<p>The French economy is diversified across all sectors. The government has partially or fully privatized many large companies, including Air France, France Telecom, Renault, and Thales. However, the government maintains a strong presence in some sectors, particularly power, public transport, and defense industries. France is the most visited country in the world with 89 million foreign tourists in 2017. France's leaders remain committed to a capitalism in which they maintain social equity by means of laws, tax policies, and social spending that mitigate economic inequality.</p><p></p><p>France's real GDP grew by 1.9% in 2017, up from 1.2% the year before. The unemployment rate (including overseas territories) increased from 7.8% in 2008 to 10.2% in 2015, before falling to 9.0% in 2017. Youth unemployment in metropolitan France decreased from 24.6% in the fourth quarter of 2014 to 20.6% in the fourth quarter of 2017.</p><p></p><p>France’s public finances have historically been strained by high spending and low growth. In 2017, the budget deficit improved to 2.7% of GDP, bringing it in compliance with the EU-mandated 3% deficit target. Meanwhile, France's public debt rose from 89.5% of GDP in 2012 to 97% in 2017.</p><p></p><p>Since entering office in May 2017, President Emmanuel MACRON launched a series of economic reforms to improve competitiveness and boost economic growth. President MACRON campaigned on reforming France’s labor code and in late 2017 implemented a range of reforms to increase flexibility in the labor market by making it easier for firms to hire and fire and simplifying negotiations between employers and employees. In addition to labor reforms, President MACRON’s 2018 budget cuts public spending, taxes, and social security contributions to spur private investment and increase purchasing power. The government plans to gradually reduce corporate tax rate for businesses from 33.3% to 25% by 2022.</p><br>
+<p>The French economy is diversified across all sectors. The government has partially or fully privatized many large companies, including Air France, France Telecom, Renault, and Thales. However, the government maintains a strong presence in some sectors, particularly power, public transport, and defense industries. France is the most visited country in the world with 89 million foreign tourists in 2017. France's leaders remain committed to a capitalism in which they maintain social equity by means of laws, tax policies, and social spending that mitigate economic inequality.</p> <p> </p> <p>France's real GDP grew by 1.9% in 2017, up from 1.2% the year before. The unemployment rate (including overseas territories) increased from 7.8% in 2008 to 10.2% in 2015, before falling to 9.0% in 2017. Youth unemployment in metropolitan France decreased from 24.6% in the fourth quarter of 2014 to 20.6% in the fourth quarter of 2017.</p> <p> </p> <p>France’s public finances have historically been strained by high spending and low growth. In 2017, the budget deficit improved to 2.7% of GDP, bringing it in compliance with the EU-mandated 3% deficit target. Meanwhile, France's public debt rose from 89.5% of GDP in 2012 to 97% in 2017.</p> <p> </p> <p>Since entering office in May 2017, President Emmanuel MACRON launched a series of economic reforms to improve competitiveness and boost economic growth. President MACRON campaigned on reforming France’s labor code and in late 2017 implemented a range of reforms to increase flexibility in the labor market by making it easier for firms to hire and fire and simplifying negotiations between employers and employees. In addition to labor reforms, President MACRON’s 2018 budget cuts public spending, taxes, and social security contributions to spur private investment and increase purchasing power. The government plans to gradually reduce corporate tax rate for businesses from 33.3% to 25% by 2022.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2,832,170,000,000 (2020 est.)<br>
@@ -636,8 +636,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 37.759 million (2020)<br>
-_subscriptions per 100 inhabitants_: 57.85 (2020 est.)<br>
+_total subscriptions_: 37.759 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 58 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 72.751 million (2020)<br>
@@ -661,8 +661,8 @@ _total_: 57,272,921 (2020 est.)<br>
 _percent of population_: 85% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 30.627 million (2021)<br>
-_subscriptions per 100 inhabitants_: 46.92 (2021)<br>
+_total_: 30.627 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2020 est.)<br>
 
 ## Transportation
 

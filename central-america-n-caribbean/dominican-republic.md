@@ -396,7 +396,7 @@ _selected World Heritage Site locales_: Colonial City of Santo Domingo<br>
 ## Economy
 
 **Economic overview**<br>
-<p>The Dominican Republic was for most of its history primarily an exporter of sugar, coffee, and tobacco, but over the last three decades the economy has become more diversified as the service sector has overtaken agriculture as the economy's largest employer, due to growth in construction, tourism, and free trade zones. The mining sector has also played a greater role in the export market since late 2012 with the commencement of the extraction phase of the Pueblo Viejo Gold and Silver mine, one of the largest gold mines in the world.</p><p></p><p>For the last 20 years, the Dominican Republic has been one of the fastest growing economies in Latin America. The economy rebounded from the global recession in 2010-16, and the fiscal situation is improving. A tax reform package passed in November 2012, a reduction in government spending, and lower energy costs helped to narrow the central government budget deficit from 6.6% of GDP in 2012 to 2.6% in 2016, and public debt is declining. Marked income inequality, high unemployment, and underemployment remain important long-term challenges; the poorest half of the population receives less than one-fifth of GDP, while the richest 10% enjoys nearly 40% of GDP.</p><p></p><p>The economy is highly dependent upon the US, the destination for approximately half of exports and the source of 40% of imports. Remittances from the US amount to about 7% of GDP, equivalent to about a third of exports and two-thirds of tourism receipts. The Central America-Dominican Republic Free Trade Agreement came into force in March 2007, boosting investment and manufacturing exports.</p><br>
+<p>The Dominican Republic was for most of its history primarily an exporter of sugar, coffee, and tobacco, but over the last three decades the economy has become more diversified as the service sector has overtaken agriculture as the economy's largest employer, due to growth in construction, tourism, and free trade zones. The mining sector has also played a greater role in the export market since late 2012 with the commencement of the extraction phase of the Pueblo Viejo Gold and Silver mine, one of the largest gold mines in the world.</p> <p> </p> <p>For the last 20 years, the Dominican Republic has been one of the fastest growing economies in Latin America. The economy rebounded from the global recession in 2010-16, and the fiscal situation is improving. A tax reform package passed in November 2012, a reduction in government spending, and lower energy costs helped to narrow the central government budget deficit from 6.6% of GDP in 2012 to 2.6% in 2016, and public debt is declining. Marked income inequality, high unemployment, and underemployment remain important long-term challenges; the poorest half of the population receives less than one-fifth of GDP, while the richest 10% enjoys nearly 40% of GDP.</p> <p> </p> <p>The economy is highly dependent upon the US, the destination for approximately half of exports and the source of 40% of imports. Remittances from the US amount to about 7% of GDP, equivalent to about a third of exports and two-thirds of tourism receipts. The Central America-Dominican Republic Free Trade Agreement came into force in March 2007, boosting investment and manufacturing exports.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $184.45 billion (2020 est.)<br>
@@ -611,8 +611,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,155,493 (2020)<br>
-_subscriptions per 100 inhabitants_: 10.65 (2020 est.)<br>
+_total subscriptions_: 1,155,493 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 8,989,587 (2020)<br>
@@ -635,8 +635,8 @@ _total_: 8,352,886 (2020 est.)<br>
 _percent of population_: 77% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,031,858 (2021)<br>
-_subscriptions per 100 inhabitants_: 9.51 (2021)<br>
+_total_: 1,031,858 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2020 est.)<br>
 
 ## Transportation
 
@@ -696,11 +696,11 @@ Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Mari
 note(s) - in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation, Port Security Authority, the Tourist Security Corps, and Border Security Corps; the National Police (Policia Nacional) are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
 0.7% of GDP (2019 est.) (approximately $1.43 billion)<br>
 0.7% of GDP (2018 est.) (approximately $1.33 billion)<br>
 0.6% of GDP (2017 est.) (approximately $1.2 billion)<br>
-0.6% of GDP (2016 est.) (approximately $1.11 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 30,000 National Police (2021)<br>

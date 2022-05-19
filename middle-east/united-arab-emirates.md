@@ -328,12 +328,12 @@ _residency requirement for naturalization_: 30 years<br>
 limited; note - rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that together account for about 12 percent of Emirati citizens<br>
 
 **Executive branch**<br>
-_chief of state_: President KHALIFA bin Zayid Al-Nuhayan (since 2 November 2004), ruler of Abu Zaby (Abu Dhabi) (since 4 November 2004); Vice President and Prime Minister MUHAMMAD BIN RASHID Al-Maktoum (since 5 January 2006)<br>
-_head of government_: Prime Minister Vice President MUHAMMAD BIN RASHID Al-Maktoum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayyan, MANSUR bin Zayid Al-Nuhayan (both since 11 May 2009), and MAKTOUM bin Mohammed Al-Maktoum (since 25 September 2021)<br>
+_chief of state_: President MUHAMMAD bin Rashid Al-Nuhayan (since 14 May 2022); Vice President MUHAMMAD bin Rashid Al-Maktoum (since 5 January 2006); note - MUHAMMAD bin Rashid Al-Nuhayan elected president by the Federal Supreme Council following the death of President KHALIFA bin Zayid Al-Nuhayan on 13 May<br>
+_head of government_: Prime Minister and Vice President MUHAMMAD bin Rashid Al-Maktoum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayan, MANSUR bin Zayid Al-Nuhayan (both since 11 May 2009), and MAKTOUM bin Mohammed Al-Maktoum (since 25 September 2021)<br>
 _cabinet_: Council of Ministers announced by the prime minister and approved by the president<br>
-_elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); election last held 3 November 2009 (next election NA); prime minister and deputy prime minister appointed by the president<br>
-_election results_: KHALIFA bin Zayid Al-Nuhayyan reelected president; FSC vote NA<br>
-<strong>note:</strong> there is also a Federal Supreme Council (FSC) composed of the 7 emirate rulers; the FSC is the highest constitutional authority in the UAE; establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power<br>
+_elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); unscheduled election held on 14 May 2022, following the death of President KHALIFA bin Zayid Al-Nuhayan (next election NA); prime minister and deputy prime minister appointed by the president<br>
+_election results_: MUHAMMAD bin Rashid Al-Nuhayan elected president; Federal Supreme Council vote NA<br>
+<strong>note:</strong> there is also a Federal Supreme Council (FSC) composed of the 7 emirate rulers; the FSC is the highest constitutional authority in the UAE; establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power; Vice President MUHAMMAD BIN RASHID Al-Maktoum assumed presidential responsibilities after the death of President KHALIFA bin Zayid Al-Nuhayan on 13 May 2022; under the constitution, MUHAMMAD BIN RASHID will serve as President until the FSC meets within 30 days to elect a new president<br>
 
 **Legislative branch**<br>
 _description_: unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)<br>
@@ -352,7 +352,7 @@ none; political parties are banned<br>
 ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OIF (observer), OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Yusif bin Mani bin Said al-UTAYBA (since 28 July 2008)<br>
+_chief of mission_: Ambassador Yousif Mana Saeed Ahmed ALOTAIBA (since 28 July 2008)<br>
 _chancery_: 3522 International Court NW, Suite 400, Washington, DC 20008<br>
 _telephone_: [1] (202) 243-2400<br>
 _FAX_: [1] (202) 243-2432<br>
@@ -386,7 +386,7 @@ _selected World Heritage Site locales_: Cultural Sites of Al Ain (Hafit, Hili, B
 ## Economy
 
 **Economic overview**<br>
-<p>The UAE has an open economy with a high per capita income and a sizable annual trade surplus. Successful efforts at economic diversification have reduced the portion of GDP from the oil and gas sector to 30%.</p><p></p><p>Since the discovery of oil in the UAE nearly 60 years ago, the country has undergone a profound transformation from an impoverished region of small desert principalities to a modern state with a high standard of living. The government has increased spending on job creation and infrastructure expansion and is opening up utilities to greater private sector involvement. The country's free trade zones - offering 100% foreign ownership and zero taxes - are helping to attract foreign investors.</p><p></p><p>The global financial crisis of 2008-09, tight international credit, and deflated asset prices constricted the economy in 2009. UAE authorities tried to blunt the crisis by increasing spending and boosting liquidity in the banking sector. The crisis hit Dubai hardest, as it was heavily exposed to depressed real estate prices. Dubai lacked sufficient cash to meet its debt obligations, prompting global concern about its solvency and ultimately a $20 billion bailout from the UAE Central Bank and Abu Dhabi Government that was refinanced in March 2014.</p><p></p><p>The UAE’s dependence on oil is a significant long-term challenge, although the UAE is one of the most diversified countries in the Gulf Cooperation Council. Low oil prices have prompted the UAE to cut expenditures, including on some social programs, but the UAE has sufficient assets in its sovereign investment funds to cover its deficits. The government reduced fuel subsidies in August 2015, and introduced excise taxes (50% on sweetened carbonated beverages and 100% on energy drinks and tobacco) in October 2017. A five-percent value-added tax was introduced in January 2018. The UAE's strategic plan for the next few years focuses on economic diversification, promoting the UAE as a global trade and tourism hub, developing industry, and creating more job opportunities for nationals through improved education and increased private sector employment.</p><br>
+<p>The UAE has an open economy with a high per capita income and a sizable annual trade surplus. Successful efforts at economic diversification have reduced the portion of GDP from the oil and gas sector to 30%.</p> <p> </p> <p>Since the discovery of oil in the UAE nearly 60 years ago, the country has undergone a profound transformation from an impoverished region of small desert principalities to a modern state with a high standard of living. The government has increased spending on job creation and infrastructure expansion and is opening up utilities to greater private sector involvement. The country's free trade zones - offering 100% foreign ownership and zero taxes - are helping to attract foreign investors.</p> <p> </p> <p>The global financial crisis of 2008-09, tight international credit, and deflated asset prices constricted the economy in 2009. UAE authorities tried to blunt the crisis by increasing spending and boosting liquidity in the banking sector. The crisis hit Dubai hardest, as it was heavily exposed to depressed real estate prices. Dubai lacked sufficient cash to meet its debt obligations, prompting global concern about its solvency and ultimately a $20 billion bailout from the UAE Central Bank and Abu Dhabi Government that was refinanced in March 2014.</p> <p> </p> <p>The UAE’s dependence on oil is a significant long-term challenge, although the UAE is one of the most diversified countries in the Gulf Cooperation Council. Low oil prices have prompted the UAE to cut expenditures, including on some social programs, but the UAE has sufficient assets in its sovereign investment funds to cover its deficits. The government reduced fuel subsidies in August 2015, and introduced excise taxes (50% on sweetened carbonated beverages and 100% on energy drinks and tobacco) in October 2017. A five-percent value-added tax was introduced in January 2018. The UAE's strategic plan for the next few years focuses on economic diversification, promoting the UAE as a global trade and tourism hub, developing industry, and creating more job opportunities for nationals through improved education and increased private sector employment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $655.79 billion (2019 est.)<br>
@@ -599,8 +599,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,380,866 (2020)<br>
-_subscriptions per 100 inhabitants_: 24.07 (2020 est.)<br>
+_total subscriptions_: 2,380,866 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 19,602,800 (2019)<br>
@@ -623,8 +623,8 @@ _total_: 9,890,400 (2020 est.)<br>
 _percent of population_: 100% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,245,123 (2021)<br>
-_subscriptions per 100 inhabitants_: 32.81 (2021 est.)<br>
+_total_: 3,245,123 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
 
 ## Transportation
 

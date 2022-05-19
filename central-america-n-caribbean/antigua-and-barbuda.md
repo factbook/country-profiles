@@ -20,7 +20,7 @@ Central America and the Caribbean<br>
 
 **Area**<br>
 _total_: 443 sq km (Antigua 280 sq km; Barbuda 161 sq km)<br>
-_land_: 442.6 sq km<br>
+_land_: 443 sq km<br>
 _water_: 0 sq km<br>
 <strong>note:</strong> includes Redonda, 1.6 sq km<br>
 
@@ -350,7 +350,7 @@ _selected World Heritage Site locales_: Antigua Naval Dockyard&nbsp;<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Tourism continues to dominate Antigua and Barbuda's economy, accounting for nearly 60% of GDP and 40% of investment. The dual-island nation's agricultural production is focused on the domestic market and constrained by a limited water supply and a labor shortage stemming from the lure of higher wages in tourism and construction. Manufacturing comprises enclave-type assembly for export with major products being bedding, handicrafts, and electronic components.</p><p></p><p>Like other countries in the region, Antigua's economy was severely hit by effects of the global economic recession in 2009. The country suffered from the collapse of its largest private sector employer, a steep decline in tourism, a rise in debt, and a sharp economic contraction between 2009 and 2011. Antigua has not yet returned to its pre-crisis growth levels. Barbuda suffered significant damages after hurricanes Irma and Maria passed through the Caribbean in 2017.</p><p></p><p>Prospects for economic growth in the medium term will continue to depend on tourist arrivals from the US, Canada, and Europe and could be disrupted by potential damage from natural disasters. The new government, elected in 2014 and led by Prime Minister Gaston Browne, continues to face significant fiscal challenges. The government places some hope in a new Citizenship by Investment Program, to both reduce public debt levels and spur growth, and a resolution of a WTO dispute with the US.</p><br>
+<p>Tourism continues to dominate Antigua and Barbuda's economy, accounting for nearly 60% of GDP and 40% of investment. The dual-island nation's agricultural production is focused on the domestic market and constrained by a limited water supply and a labor shortage stemming from the lure of higher wages in tourism and construction. Manufacturing comprises enclave-type assembly for export with major products being bedding, handicrafts, and electronic components.</p> <p> </p> <p>Like other countries in the region, Antigua's economy was severely hit by effects of the global economic recession in 2009. The country suffered from the collapse of its largest private sector employer, a steep decline in tourism, a rise in debt, and a sharp economic contraction between 2009 and 2011. Antigua has not yet returned to its pre-crisis growth levels. Barbuda suffered significant damages after hurricanes Irma and Maria passed through the Caribbean in 2017.</p> <p> </p> <p>Prospects for economic growth in the medium term will continue to depend on tourist arrivals from the US, Canada, and Europe and could be disrupted by potential damage from natural disasters. The new government, elected in 2014 and led by Prime Minister Gaston Browne, continues to face significant fiscal challenges. The government places some hope in a new Citizenship by Investment Program, to both reduce public debt levels and spur growth, and a resolution of a WTO dispute with the US.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.76 billion (2020 est.)<br>
@@ -543,12 +543,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 24,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 25.15 (2018 est.)<br>
+_total subscriptions_: 27,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 184,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 192.8 (2019 est.)<br>
+_total subscriptions_: 184,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 188 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good automatic telephone system with fiber-optic lines; telecom sector contributes heavily to GDP; numerous mobile network competitors licensed, but small and local; govt. to spend EC80 million in 2019 to improve state-owned telecom market competitiveness; legislative amendments extend jurisdiction of its telecom regulator in Barbuda to include mobile services (2020)<br>
@@ -567,8 +567,8 @@ _total_: 73,807 (2019 est.)<br>
 _percent of population_: 76% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 8.17 (2021)<br>
+_total_: 8,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 8 (2020 est.)<br>
 
 ## Transportation
 

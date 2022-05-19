@@ -331,7 +331,7 @@ _selected World Heritage Site locales_: Lagoons of New Caledonia<br>
 ## Economy
 
 **Economic overview**<br>
-<p>New Caledonia has 11% of the world's nickel reserves, representing the second largest reserves on the planet. Only a small amount of the land is suitable for cultivation, and food accounts for about 20% of imports. In addition to nickel, substantial financial support from France - equal to more than 15% of GDP - and tourism are keys to the health of the economy.</p><p></p><p>With the gradual increase in the production of two new nickel plants in 2015, average production of metallurgical goods stood at a record level of 94 thousand tons. However, the sector is exposed to the high volatility of nickel prices, which have been in decline since 2016. In 2017, one of the three major mining firms on the island, Vale, put its operations up for sale, triggering concerns of layoffs ahead of the 2018 independence referendum.</p><br>
+<p>New Caledonia has 11% of the world's nickel reserves, representing the second largest reserves on the planet. Only a small amount of the land is suitable for cultivation, and food accounts for about 20% of imports. In addition to nickel, substantial financial support from France - equal to more than 15% of GDP - and tourism are keys to the health of the economy.</p> <p> </p> <p>With the gradual increase in the production of two new nickel plants in 2015, average production of metallurgical goods stood at a record level of 94 thousand tons. However, the sector is exposed to the high volatility of nickel prices, which have been in decline since 2016. In 2017, one of the three major mining firms on the island, Vale, put its operations up for sale, triggering concerns of layoffs ahead of the 2018 independence referendum.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $11.11 billion (2017 est.)<br>
@@ -528,8 +528,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 77,719 (2018)<br>
-_subscriptions per 100 inhabitants_: 28.67 (2018 est.)<br>
+_total subscriptions_: 46,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 260,277 (2019)<br>
@@ -552,8 +552,8 @@ _total_: 222,466 (2019 est.)<br>
 _percent of population_: 82% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 55,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 19.26 (2021 est.)<br>
+_total_: 55,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 19 (2020 est.)<br>
 
 ## Transportation
 

@@ -365,7 +365,7 @@ _selected World Heritage Site locales_: Rock Islands Southern Lagoon<br>
 ## Economy
 
 **Economic overview**<br>
-<p>The economy is dominated by tourism, fishing, and subsistence agriculture. Government is a major employer of the work force relying on financial assistance from the US under the Compact of Free Association (Compact) with the US that took effect after the end of the UN trusteeship on 1 October 1994. The US provided Palau with roughly $700 million in aid for the first 15 years following commencement of the Compact in 1994 in return for unrestricted access to its land and waterways for strategic purposes. The population enjoys a per capita income roughly double that of the Philippines and much of Micronesia.</p><p></p><p>Business and leisure tourist arrivals reached a record 167,966 in 2015, a 14.4% increase over the previous year, but fell to 138,408 in 2016. Long-run prospects for tourism have been bolstered by the expansion of air travel in the Pacific, the rising prosperity of industrial East Asia, and the willingness of foreigners to finance infrastructure development. Proximity to Guam, the region's major destination for tourists from East Asia, and a regionally competitive tourist infrastructure enhance Palau's advantage as a destination.</p><br>
+<p>The economy is dominated by tourism, fishing, and subsistence agriculture. Government is a major employer of the work force relying on financial assistance from the US under the Compact of Free Association (Compact) with the US that took effect after the end of the UN trusteeship on 1 October 1994. The US provided Palau with roughly $700 million in aid for the first 15 years following commencement of the Compact in 1994 in return for unrestricted access to its land and waterways for strategic purposes. The population enjoys a per capita income roughly double that of the Philippines and much of Micronesia.</p> <p> </p> <p>Business and leisure tourist arrivals reached a record 167,966 in 2015, a 14.4% increase over the previous year, but fell to 138,408 in 2016. Long-run prospects for tourism have been bolstered by the expansion of air travel in the Pacific, the rising prosperity of industrial East Asia, and the willingness of foreigners to finance infrastructure development. Proximity to Guam, the region's major destination for tourists from East Asia, and a regionally competitive tourist infrastructure enhance Palau's advantage as a destination.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $320 million (2019 est.)<br>
@@ -494,8 +494,8 @@ _electrification - total population_: 100% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,204 (2018)<br>
-_subscriptions per 100 inhabitants_: 40.78 (2018 est.)<br>
+_total subscriptions_: 8,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 23,743 (2018)<br>
@@ -518,8 +518,8 @@ _total_: 7,650 (2016 est.)<br>
 _percent of population_: 36% (2016 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,224 (2015)<br>
-_subscriptions per 100 inhabitants_: 6.93 (2015)<br>
+_total_: 1,224 (2015 est.)<br>
+_subscriptions per 100 inhabitants_: 7 (2015 est.)<br>
 
 ## Transportation
 

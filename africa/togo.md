@@ -407,7 +407,7 @@ _selected World Heritage Site locales_: Koutammakou, the Land of the Batammariba
 ## Economy
 
 **Economic overview**<br>
-<p>Togo has enjoyed a period of steady economic growth fueled by political stability and a concerted effort by the government to modernize the country’s commercial infrastructure, but discontent with President Faure GNASSINGBE has led to a rapid rise in protests, creating downside risks. The country completed an ambitious large-scale infrastructure improvement program, including new principal roads, a new airport terminal, and a new seaport. The economy depends heavily on both commercial and subsistence agriculture, providing employment for around 60% of the labor force. Some basic foodstuffs must still be imported. Cocoa, coffee, and cotton and other agricultural products generate about 20% of export earnings with cotton being the most important cash crop. Togo is among the world's largest producers of phosphate and seeks to develop its carbonate phosphate reserves, which provide more than 20% of export earnings.</p><p></p><p>Supported by the World Bank and the IMF, the government's decade-long effort to implement economic reform measures, encourage foreign investment, and bring revenues in line with expenditures has moved slowly. Togo completed its IMF Extended Credit Facility in 2011 and reached a Heavily Indebted Poor Country debt relief completion point in 2010 at which 95% of the country's debt was forgiven. Togo continues to work with the IMF on structural reforms, and in January 2017, the IMF signed an Extended Credit Facility arrangement consisting of a three-year $238 million loan package. Progress depends on follow through on privatization, increased transparency in government financial operations, progress toward legislative elections, and continued support from foreign donors.</p><p></p><p>Togo’s 2017 economic growth probably remained steady at 5.0%, largely driven by infusions of foreign aid, infrastructure investment in its port and mineral industry, and improvements in the business climate. Foreign direct investment inflows have slowed in recent years.</p><br>
+<p>Togo has enjoyed a period of steady economic growth fueled by political stability and a concerted effort by the government to modernize the country’s commercial infrastructure, but discontent with President Faure GNASSINGBE has led to a rapid rise in protests, creating downside risks. The country completed an ambitious large-scale infrastructure improvement program, including new principal roads, a new airport terminal, and a new seaport. The economy depends heavily on both commercial and subsistence agriculture, providing employment for around 60% of the labor force. Some basic foodstuffs must still be imported. Cocoa, coffee, and cotton and other agricultural products generate about 20% of export earnings with cotton being the most important cash crop. Togo is among the world's largest producers of phosphate and seeks to develop its carbonate phosphate reserves, which provide more than 20% of export earnings.</p> <p> </p> <p>Supported by the World Bank and the IMF, the government's decade-long effort to implement economic reform measures, encourage foreign investment, and bring revenues in line with expenditures has moved slowly. Togo completed its IMF Extended Credit Facility in 2011 and reached a Heavily Indebted Poor Country debt relief completion point in 2010 at which 95% of the country's debt was forgiven. Togo continues to work with the IMF on structural reforms, and in January 2017, the IMF signed an Extended Credit Facility arrangement consisting of a three-year $238 million loan package. Progress depends on follow through on privatization, increased transparency in government financial operations, progress toward legislative elections, and continued support from foreign donors.</p> <p> </p> <p>Togo’s 2017 economic growth probably remained steady at 5.0%, largely driven by infusions of foreign aid, infrastructure investment in its port and mineral industry, and improvements in the business climate. Foreign direct investment inflows have slowed in recent years.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $17.45 billion (2020 est.)<br>
@@ -619,8 +619,8 @@ _electrification - rural areas_: 19% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 46,499 (2020)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 46,499 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6,239,180 (2019)<br>
@@ -643,8 +643,8 @@ _total_: 1,986,897 (2020 est.)<br>
 _percent of population_: 24% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 52,706 (2021) DSL, dedicated internet line, Wimax, WLL, FTTH<br>
-_subscriptions per 100 inhabitants_: 0.64 (2021 est.) less than 1<br>
+_total_: 52,706 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.64 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -699,11 +699,11 @@ Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de 
 note - the Gendarmerie falls under the Ministry of Defense but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 2.6% of GDP (2019 est.) (approximately $190 million)<br>
 1.9% of GDP (2018 est.) (approximately $140 million)<br>
 1.9% of GDP (2017 est.) (approximately $130 million)<br>
-1.8% of GDP (2016 est.) (approximately $120 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 9,000 personnel, including about 8,000 Army (2021)<br>

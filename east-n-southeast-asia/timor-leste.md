@@ -384,7 +384,7 @@ _lyrics/music_: Fransisco Borja DA COSTA/Afonso DE ARAUJO<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Since independence in 1999, Timor-Leste has faced great challenges in rebuilding its infrastructure, strengthening the civil administration, and generating jobs for young people entering the work force. The development of offshore oil and gas resources has greatly supplemented government revenues. This technology-intensive industry, however, has done little to create jobs in part because there are no production facilities in Timor-Leste. Gas is currently piped to Australia for processing, but Timor-Leste has expressed interest in developing a domestic processing capability.</p><p></p><p>In June 2005, the National Parliament unanimously approved the creation of the Timor-Leste Petroleum Fund to serve as a repository for all petroleum revenues and to preserve the value of Timor-Leste's petroleum wealth for future generations. The Fund held assets of $16 billion, as of mid-2016. Oil accounts for over 90% of government revenues, and the drop in the price of oil in 2014-16 has led to concerns about the long-term sustainability of government spending. Timor-Leste compensated for the decline in price by exporting more oil. The Ministry of Finance maintains that the Petroleum Fund is sufficient to sustain government operations for the foreseeable future.</p><p></p><p>Annual government budget expenditures increased markedly between 2009 and 2012 but dropped significantly through 2016. Historically, the government failed to spend as much as its budget allowed. The government has focused significant resources on basic infrastructure, including electricity and roads, but limited experience in procurement and infrastructure building has hampered these projects. The underlying economic policy challenge the country faces remains how best to use oil-and-gas wealth to lift the non-oil economy onto a higher growth path and to reduce poverty.</p><br>
+<p>Since independence in 1999, Timor-Leste has faced great challenges in rebuilding its infrastructure, strengthening the civil administration, and generating jobs for young people entering the work force. The development of offshore oil and gas resources has greatly supplemented government revenues. This technology-intensive industry, however, has done little to create jobs in part because there are no production facilities in Timor-Leste. Gas is currently piped to Australia for processing, but Timor-Leste has expressed interest in developing a domestic processing capability.</p> <p> </p> <p>In June 2005, the National Parliament unanimously approved the creation of the Timor-Leste Petroleum Fund to serve as a repository for all petroleum revenues and to preserve the value of Timor-Leste's petroleum wealth for future generations. The Fund held assets of $16 billion, as of mid-2016. Oil accounts for over 90% of government revenues, and the drop in the price of oil in 2014-16 has led to concerns about the long-term sustainability of government spending. Timor-Leste compensated for the decline in price by exporting more oil. The Ministry of Finance maintains that the Petroleum Fund is sufficient to sustain government operations for the foreseeable future.</p> <p> </p> <p>Annual government budget expenditures increased markedly between 2009 and 2012 but dropped significantly through 2016. Historically, the government failed to spend as much as its budget allowed. The government has focused significant resources on basic infrastructure, including electricity and roads, but limited experience in procurement and infrastructure building has hampered these projects. The underlying economic policy challenge the country faces remains how best to use oil-and-gas wealth to lift the non-oil economy onto a higher growth path and to reduce poverty.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.19 billion (2020 est.)<br>
@@ -592,7 +592,7 @@ _electrification - rural areas_: 79.2% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,012 (2020)<br>
+_total subscriptions_: 2,012 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
@@ -616,8 +616,8 @@ _total_: 382,348 (2020 est.)<br>
 _percent of population_: 29% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 75 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.01 (2021 est.) less than 1<br>
+_total_: 75 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.01 (2020 est.) less than 1<br>
 
 ## Transportation
 

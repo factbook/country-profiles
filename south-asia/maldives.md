@@ -368,7 +368,7 @@ _lyrics/music_: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Maldives has quickly become a middle-income country, driven by the rapid growth of its tourism and fisheries sectors, but the country still contends with a large and growing fiscal deficit. Infrastructure projects, largely funded by China, could add significantly to debt levels. Political turmoil and the declaration of a state of emergency in February 2018 led to the issuance of travel warnings by several countries whose citizens visit Maldives in significant numbers, but the overall impact on tourism revenue was unclear.</p><p></p><p>In 2015, Maldives’ Parliament passed a constitutional amendment legalizing foreign ownership of land; foreign land-buyers must reclaim at least 70% of the desired land from the ocean and invest at least $1 billion in a construction project approved by Parliament.</p><p></p><p>Diversifying the economy beyond tourism and fishing, reforming public finance, increasing employment opportunities, and combating corruption, cronyism, and a growing drug problem are near-term challenges facing the government. Over the longer term, Maldivian authorities worry about the impact of erosion and possible global warming on their low-lying country; 80% of the area is 1 meter or less above sea level.</p><br>
+<p>Maldives has quickly become a middle-income country, driven by the rapid growth of its tourism and fisheries sectors, but the country still contends with a large and growing fiscal deficit. Infrastructure projects, largely funded by China, could add significantly to debt levels. Political turmoil and the declaration of a state of emergency in February 2018 led to the issuance of travel warnings by several countries whose citizens visit Maldives in significant numbers, but the overall impact on tourism revenue was unclear.</p> <p> </p> <p>In 2015, Maldives’ Parliament passed a constitutional amendment legalizing foreign ownership of land; foreign land-buyers must reclaim at least 70% of the desired land from the ocean and invest at least $1 billion in a construction project approved by Parliament.</p> <p> </p> <p>Diversifying the economy beyond tourism and fishing, reforming public finance, increasing employment opportunities, and combating corruption, cronyism, and a growing drug problem are near-term challenges facing the government. Over the longer term, Maldivian authorities worry about the impact of erosion and possible global warming on their low-lying country; 80% of the area is 1 meter or less above sea level.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $7.05 billion (2020 est.)<br>
@@ -576,8 +576,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 14,508 (2020)<br>
-_subscriptions per 100 inhabitants_: 2.68 (2020 est.)<br>
+_total subscriptions_: 14,508 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 717,708 (2020)<br>
@@ -600,8 +600,8 @@ _total_: 340,542 (2020 est.)<br>
 _percent of population_: 63% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 63,685 (2021)<br>
-_subscriptions per 100 inhabitants_: 11.78 (2021 est.)<br>
+_total_: 63,685 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
 
 ## Transportation
 

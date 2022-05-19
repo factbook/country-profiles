@@ -614,8 +614,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,165,373 (2019)<br>
-_subscriptions per 100 inhabitants_: 33.66 (2019 est.)<br>
+_total subscriptions_: 1,224,600 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 4,779,790 (2019)<br>
@@ -638,8 +638,8 @@ _total_: 2,987,405 (2020 est.)<br>
 _percent of population_: 86% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,063,701 (2021)<br>
-_subscriptions per 100 inhabitants_: 30.62 (2021)<br>
+_total_: 1,063,701 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
 
 ## Transportation
 
@@ -722,7 +722,7 @@ note - as of 2017, women comprised about 19% of the active military<br>
 <p>in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime; uncontested boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,500 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 19,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2022)<br>
 _stateless persons_: 5 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

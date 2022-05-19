@@ -386,7 +386,7 @@ _selected World Heritage Site locales_: Hegra Archaeological Site (al-Hijr / Mad
 ## Economy
 
 **Economic overview**<br>
-<p>Saudi Arabia has an oil-based economy with strong government controls over major economic activities. It possesses about 16% of the world's proven petroleum reserves, ranks as the largest exporter of petroleum, and plays a leading role in OPEC. The petroleum sector accounts for roughly 87% of budget revenues, 42% of GDP, and 90% of export earnings.</p><p></p><p>Saudi Arabia is encouraging the growth of the private sector in order to diversify its economy and to employ more Saudi nationals. Approximately 6 million foreign workers play an important role in the Saudi economy, particularly in the oil and service sectors; at the same time, however, Riyadh is struggling to reduce unemployment among its own nationals. Saudi officials are particularly focused on employing its large youth population.</p><p></p><p>In 2017, the Kingdom incurred a budget deficit estimated at 8.3% of GDP, which was financed by bond sales and drawing down reserves. Although the Kingdom can finance high deficits for several years by drawing down its considerable foreign assets or by borrowing, it has cut capital spending and reduced subsidies on electricity, water, and petroleum products and recently introduced a value-added tax of 5%. In January 2016, Crown Prince and Deputy Prime Minister MUHAMMAD BIN SALMAN announced that Saudi Arabia intends to list shares of its state-owned petroleum company, ARAMCO - another move to increase revenue and outside investment. The government has also looked at privatization and diversification of the economy more closely in the wake of a diminished oil market. Historically, Saudi Arabia has focused diversification efforts on power generation, telecommunications, natural gas exploration, and petrochemical sectors. More recently, the government has approached investors about expanding the role of the private sector in the health care, education and tourism industries. While Saudi Arabia has emphasized their goals of diversification for some time, current low oil prices may force the government to make more drastic changes ahead of their long-run timeline.</p><br>
+<p>Saudi Arabia has an oil-based economy with strong government controls over major economic activities. It possesses about 16% of the world's proven petroleum reserves, ranks as the largest exporter of petroleum, and plays a leading role in OPEC. The petroleum sector accounts for roughly 87% of budget revenues, 42% of GDP, and 90% of export earnings.</p> <p> </p> <p>Saudi Arabia is encouraging the growth of the private sector in order to diversify its economy and to employ more Saudi nationals. Approximately 6 million foreign workers play an important role in the Saudi economy, particularly in the oil and service sectors; at the same time, however, Riyadh is struggling to reduce unemployment among its own nationals. Saudi officials are particularly focused on employing its large youth population.</p> <p> </p> <p>In 2017, the Kingdom incurred a budget deficit estimated at 8.3% of GDP, which was financed by bond sales and drawing down reserves. Although the Kingdom can finance high deficits for several years by drawing down its considerable foreign assets or by borrowing, it has cut capital spending and reduced subsidies on electricity, water, and petroleum products and recently introduced a value-added tax of 5%. In January 2016, Crown Prince and Deputy Prime Minister MUHAMMAD BIN SALMAN announced that Saudi Arabia intends to list shares of its state-owned petroleum company, ARAMCO - another move to increase revenue and outside investment. The government has also looked at privatization and diversification of the economy more closely in the wake of a diminished oil market. Historically, Saudi Arabia has focused diversification efforts on power generation, telecommunications, natural gas exploration, and petrochemical sectors. More recently, the government has approached investors about expanding the role of the private sector in the health care, education and tourism industries. While Saudi Arabia has emphasized their goals of diversification for some time, current low oil prices may force the government to make more drastic changes ahead of their long-run timeline.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1,543,240,000,000 (2020 est.)<br>
@@ -602,8 +602,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,749,058 (2020)<br>
-_subscriptions per 100 inhabitants_: 16.51 (2020 est.)<br>
+_total subscriptions_: 5,749,058 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 41,298,600 (2019)<br>
@@ -626,8 +626,8 @@ _total_: 34,117,590 (2020 est.)<br>
 _percent of population_: 98% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,890,261 (2021)<br>
-_subscriptions per 100 inhabitants_: 22.66 (2021 est.)<br>
+_total_: 7,890,261 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 
 **Communications - note**<br>
 the innovative King Abdulaziz Center for World Culture (informally known as Ithra, meaning "enrichment") opened on 1 December 2017 in Dhahran, Eastern Region; its facilities include a grand library, several museums, an archive, an Idea Lab, a theater, a cinema, and an Energy Exhibit, all which are meant to provide visitors an immersive and transformative experience<br>
@@ -691,7 +691,7 @@ Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes
 note - SANG (also known as the White Army) is a land force separate from the Ministry of Defense that is responsible for internal security, protecting the royal family, and external defense<br>
 
 **Military expenditures**<br>
-5.7% of GDP (2021 est.)<br>
+6% of GDP (2021 est.)<br>
 7.8% of GDP (2020 est.)<br>
 8.8% of GDP (2019 est.) (approximately $92.2 billion)<br>
 10% of GDP (2018 est.) (approximately $103 billion)<br>

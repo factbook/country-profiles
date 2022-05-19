@@ -330,7 +330,7 @@ under certain acts of France, French Polynesia has acquired autonomy in all area
 ## Economy
 
 **Economic overview**<br>
-<p>Since 1962, when France stationed military personnel in the region, French Polynesia has changed from a subsistence agricultural economy to one in which a high proportion of the work force is either employed by the military or supports the tourist industry. With the halt of French nuclear testing in 1996, the military contribution to the economy fell sharply.</p><p></p><p>After growing at an average yearly rate of 4.2% from 1997-2007, the economic and financial crisis in 2008 marked French Polynesia’s entry into recession. However, since 2014, French Polynesia has shown signs of recovery. Business turnover reached 1.8% year-on-year in September 2016, tourism increased 1.8% in 2015, and GDP grew 2.0% in 2015.</p><p></p><p>French Polynesia’s tourism-dominated service sector accounted for 85% of total value added for the economy in 2012. Tourism employs 17% of the workforce. Pearl farming is the second biggest industry, accounting for 54% of exports in 2015; however, the output has decreased to 12.5 tons – the lowest level since 2008. A small manufacturing sector predominantly processes commodities from French Polynesia’s primary sector - 8% of total economy in 2012 - including agriculture and fishing.</p><p></p><p>France has agreed to finance infrastructure, marine businesses, and cultural and ecological sites at roughly $80 million per year between 2015 and 2020. Japan, the US, and China are French Polynesia’s three largest trade partners.</p><br>
+<p>Since 1962, when France stationed military personnel in the region, French Polynesia has changed from a subsistence agricultural economy to one in which a high proportion of the work force is either employed by the military or supports the tourist industry. With the halt of French nuclear testing in 1996, the military contribution to the economy fell sharply.</p> <p> </p> <p>After growing at an average yearly rate of 4.2% from 1997-2007, the economic and financial crisis in 2008 marked French Polynesia’s entry into recession. However, since 2014, French Polynesia has shown signs of recovery. Business turnover reached 1.8% year-on-year in September 2016, tourism increased 1.8% in 2015, and GDP grew 2.0% in 2015.</p> <p> </p> <p>French Polynesia’s tourism-dominated service sector accounted for 85% of total value added for the economy in 2012. Tourism employs 17% of the workforce. Pearl farming is the second biggest industry, accounting for 54% of exports in 2015; however, the output has decreased to 12.5 tons – the lowest level since 2008. A small manufacturing sector predominantly processes commodities from French Polynesia’s primary sector - 8% of total economy in 2012 - including agriculture and fishing.</p> <p> </p> <p>France has agreed to finance infrastructure, marine businesses, and cultural and ecological sites at roughly $80 million per year between 2015 and 2020. Japan, the US, and China are French Polynesia’s three largest trade partners.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $5.49 billion (2017 est.)<br>
@@ -522,8 +522,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 60,123 (2018)<br>
-_subscriptions per 100 inhabitants_: 32.51 (2018 est.)<br>
+_total subscriptions_: 94,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 302,673 (2018)<br>
@@ -546,8 +546,8 @@ _total_: 203,878 (2019 est.)<br>
 _percent of population_: 73% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 64,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 22.78 (2021)<br>
+_total_: 64,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 
 ## Transportation
 

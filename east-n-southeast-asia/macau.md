@@ -303,7 +303,7 @@ lotus blossom; national colors: green, white, yellow<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Since opening up its locally-controlled casino industry to foreign competition in 2001, Macau has attracted tens of billions of dollars in foreign investment, transforming the territory into one of the world's largest gaming centers. Macau's gaming and tourism businesses were fueled by China's decision to relax travel restrictions on Chinese citizens wishing to visit Macau. In 2016, Macau's gaming-related taxes accounted for more than 76% of total government revenue.</p><p></p><p>Macau's economy slowed dramatically in 2009 as a result of the global economic slowdown, but strong growth resumed in the 2010-13 period, largely on the back of tourism from mainland China and the gaming sectors. In 2015, this city of 646,800 hosted nearly 30.7 million visitors. Almost 67% came from mainland China. Macau's traditional manufacturing industry has slowed greatly since the termination of the Multi-Fiber Agreement in 2005. Services export — primarily gaming — increasingly has driven Macau’s economic performance. Mainland China’s anti-corruption campaign brought Macau’s gambling boom to a halt in 2014, with spending in casinos contracting 34.3% in 2015. As a result, Macau's inflation-adjusted GDP contracted 21.5% in 2015 and another 2.1% in 2016 - down from double-digit expansion rates in the period 2010-13 - but the economy recovered handsomely in 2017.</p><p></p><p>Macau continues to face the challenges of managing its growing casino industry, risks from money-laundering activities, and the need to diversify the economy away from heavy dependence on gaming revenues. Macau's currency, the pataca, is closely tied to the Hong Kong dollar, which is also freely accepted in the territory.</p><br>
+<p>Since opening up its locally-controlled casino industry to foreign competition in 2001, Macau has attracted tens of billions of dollars in foreign investment, transforming the territory into one of the world's largest gaming centers. Macau's gaming and tourism businesses were fueled by China's decision to relax travel restrictions on Chinese citizens wishing to visit Macau. In 2016, Macau's gaming-related taxes accounted for more than 76% of total government revenue.</p> <p> </p> <p>Macau's economy slowed dramatically in 2009 as a result of the global economic slowdown, but strong growth resumed in the 2010-13 period, largely on the back of tourism from mainland China and the gaming sectors. In 2015, this city of 646,800 hosted nearly 30.7 million visitors. Almost 67% came from mainland China. Macau's traditional manufacturing industry has slowed greatly since the termination of the Multi-Fiber Agreement in 2005. Services export — primarily gaming — increasingly has driven Macau’s economic performance. Mainland China’s anti-corruption campaign brought Macau’s gambling boom to a halt in 2014, with spending in casinos contracting 34.3% in 2015. As a result, Macau's inflation-adjusted GDP contracted 21.5% in 2015 and another 2.1% in 2016 - down from double-digit expansion rates in the period 2010-13 - but the economy recovered handsomely in 2017.</p> <p> </p> <p>Macau continues to face the challenges of managing its growing casino industry, risks from money-laundering activities, and the need to diversify the economy away from heavy dependence on gaming revenues. Macau's currency, the pataca, is closely tied to the Hong Kong dollar, which is also freely accepted in the territory.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $35.58 billion (2020 est.)<br>
@@ -523,8 +523,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 123,469 (2018)<br>
-_subscriptions per 100 inhabitants_: 19.55 (2018 est.)<br>
+_total subscriptions_: 110,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 2,181,194 (2018)<br>
@@ -547,8 +547,8 @@ _total_: 571,421 (2020 est.)<br>
 _percent of population_: 88% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 208,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 32.03 (2021 est.)<br>
+_total_: 208,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2020 est.)<br>
 
 ## Transportation
 

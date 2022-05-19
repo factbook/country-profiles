@@ -422,7 +422,7 @@ _selected World Heritage Site locales_: Ngorongoro Conservation Area (m), Ruins 
 ## Economy
 
 **Economic overview**<br>
-<p>Tanzania has achieved high growth rates based on its vast natural resource wealth and tourism with GDP growth in 2009-17 averaging 6%-7% per year. Dar es Salaam used fiscal stimulus measures and easier monetary policies to lessen the impact of the global recession and in general, benefited from low oil prices. Tanzania has largely completed its transition to a market economy, though the government retains a presence in sectors such as telecommunications, banking, energy, and mining.</p><p></p><p>The economy depends on agriculture, which accounts for slightly less than one-quarter of GDP and employs about 65% of the work force, although gold production in recent years has increased to about 35% of exports. All land in Tanzania is owned by the government, which can lease land for up to 99 years. Proposed reforms to allow for land ownership, particularly foreign land ownership, remain unpopular.</p><p></p><p>The financial sector in Tanzania has expanded in recent years and foreign-owned banks account for about 48% of the banking industry's total assets. Competition among foreign commercial banks has resulted in significant improvements in the efficiency and quality of financial services, though interest rates are still relatively high, reflecting high fraud risk. Banking reforms have helped increase private-sector growth and investment.</p><p></p><p>The World Bank, the IMF, and bilateral donors have provided funds to rehabilitate Tanzania's aging infrastructure, including rail and port, which provide important trade links for inland countries. In 2013, Tanzania completed the world's largest Millennium Challenge Compact (MCC) grant, worth $698 million, but in late 2015, the MCC Board of Directors deferred a decision to renew Tanzania’s eligibility because of irregularities in voting in Zanzibar and concerns over the government's use of a controversial cybercrime bill.</p><p></p><p>The new government elected in 2015 has developed an ambitious development agenda focused on creating a better business environment through improved infrastructure, access to financing, and education progress, but implementing budgets remains challenging for the government. Recent policy moves by President MAGUFULI are aimed at protecting domestic industry and have caused concern among foreign investors.</p><br>
+<p>Tanzania has achieved high growth rates based on its vast natural resource wealth and tourism with GDP growth in 2009-17 averaging 6%-7% per year. Dar es Salaam used fiscal stimulus measures and easier monetary policies to lessen the impact of the global recession and in general, benefited from low oil prices. Tanzania has largely completed its transition to a market economy, though the government retains a presence in sectors such as telecommunications, banking, energy, and mining.</p> <p> </p> <p>The economy depends on agriculture, which accounts for slightly less than one-quarter of GDP and employs about 65% of the work force, although gold production in recent years has increased to about 35% of exports. All land in Tanzania is owned by the government, which can lease land for up to 99 years. Proposed reforms to allow for land ownership, particularly foreign land ownership, remain unpopular.</p> <p> </p> <p>The financial sector in Tanzania has expanded in recent years and foreign-owned banks account for about 48% of the banking industry's total assets. Competition among foreign commercial banks has resulted in significant improvements in the efficiency and quality of financial services, though interest rates are still relatively high, reflecting high fraud risk. Banking reforms have helped increase private-sector growth and investment.</p> <p> </p> <p>The World Bank, the IMF, and bilateral donors have provided funds to rehabilitate Tanzania's aging infrastructure, including rail and port, which provide important trade links for inland countries. In 2013, Tanzania completed the world's largest Millennium Challenge Compact (MCC) grant, worth $698 million, but in late 2015, the MCC Board of Directors deferred a decision to renew Tanzania’s eligibility because of irregularities in voting in Zanzibar and concerns over the government's use of a controversial cybercrime bill.</p> <p> </p> <p>The new government elected in 2015 has developed an ambitious development agenda focused on creating a better business environment through improved infrastructure, access to financing, and education progress, but implementing budgets remains challenging for the government. Recent policy moves by President MAGUFULI are aimed at protecting domestic industry and have caused concern among foreign investors.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $152.79 billion (2020 est.)<br>
@@ -635,8 +635,8 @@ _electrification - rural areas_: 23% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 72,469 (2020)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 72,469 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 47,685,200 (2019)<br>
@@ -659,8 +659,8 @@ _total_: 13,141,527 (2020 est.)<br>
 _percent of population_: 22% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,135,608 (2021)<br>
-_subscriptions per 100 inhabitants_: 1.9 (2021 est.)<br>
+_total_: 1,135,608 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 ## Transportation
 
@@ -722,11 +722,11 @@ Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): 
 note - the National Building Army is a paramilitary organization under the Defense Forces that provides 6 months of military and vocational training to individuals as part of their 2 years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
 1.1% of GDP (2019 est.) (approximately $810 million)<br>
 1.2% of GDP (2018 est.) (approximately $800 million)<br>
 1% of GDP (2017 est.) (approximately $690 million)<br>
-1.1% of GDP (2016 est.) (approximately $690 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active personnel (21,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2021)<br>
@@ -758,7 +758,7 @@ Islamic State of Iraq and ash-Sham - Mozambique<br>
 <p>dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 127,009 (Burundi), 80,599 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 127,104 (Burundi), 80,599 (Democratic Republic of the Congo) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>

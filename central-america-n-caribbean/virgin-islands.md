@@ -300,7 +300,7 @@ _lyrics/music_: multiple/Alton Augustus ADAMS, Sr.<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Tourism, trade, other services, and rum production are the primary economic activities of the US Virgin Islands (USVI), accounting for most of its GDP and employment. The USVI receives between 2.5 and 3 million tourists a year, mostly from visiting cruise ships. The islands are vulnerable to damage from storms, as evidenced by the destruction from two major hurricanes in 2017. Recovery and rebuilding have continued, but full recovery from these back-to-back hurricanes is years away. The USVI government estimates it will need $7.5 billion, almost twice the territory’s GDP, to rebuild the territory.</p><p></p><p>The agriculture sector is small and most food is imported. In 2016, government spending (both federal and territorial together) accounted for about 27% of GDP while exports of goods and services, including spending by tourists, accounted for nearly 47%. Federal programs and grants, including rum tax cover-over totaling $482.3 million in 2016, contributed 32.2% of the territory’s total revenues. The economy picked up 0.9% in 2016 and had appeared to be progressing before the 2017 hurricanes severely damaged the territory’s infrastructure and the economy.</p><br>
+<p>Tourism, trade, other services, and rum production are the primary economic activities of the US Virgin Islands (USVI), accounting for most of its GDP and employment. The USVI receives between 2.5 and 3 million tourists a year, mostly from visiting cruise ships. The islands are vulnerable to damage from storms, as evidenced by the destruction from two major hurricanes in 2017. Recovery and rebuilding have continued, but full recovery from these back-to-back hurricanes is years away. The USVI government estimates it will need $7.5 billion, almost twice the territory’s GDP, to rebuild the territory.</p> <p> </p> <p>The agriculture sector is small and most food is imported. In 2016, government spending (both federal and territorial together) accounted for about 27% of GDP while exports of goods and services, including spending by tourists, accounted for nearly 47%. Federal programs and grants, including rum tax cover-over totaling $482.3 million in 2016, contributed 32.2% of the territory’s total revenues. The economy picked up 0.9% in 2016 and had appeared to be progressing before the 2017 hurricanes severely damaged the territory’s infrastructure and the economy.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.872 billion (2016 est.)<br>
@@ -483,8 +483,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 76,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 72.41 (2017 est.)<br>
+_total subscriptions_: 76,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 73 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 59,121 (2018)<br>

@@ -414,7 +414,7 @@ _selected World Heritage Site locales_: Banc d'Arguin National Park (n); Ancient
 ## Economy
 
 **Economic overview**<br>
-<p>Mauritania's economy is dominated by extractive industries (oil and mines), fisheries, livestock, agriculture, and services. Half the population still depends on farming and raising livestock, even though many nomads and subsistence farmers were forced into the cities by recurrent droughts in the 1970s, 1980s, 2000s, and 2017. Recently, GDP growth has been driven largely by foreign investment in the mining and oil sectors.</p><p></p><p>Mauritania's extensive mineral resources include iron ore, gold, copper, gypsum, and phosphate rock, and exploration is ongoing for tantalum, uranium, crude oil, and natural gas. Extractive commodities make up about three-quarters of Mauritania's total exports, subjecting the economy to price swings in world commodity markets. Mining is also a growing source of government revenue, rising from 13% to 30% of total revenue from 2006 to 2014. The nation's coastal waters are among the richest fishing areas in the world, and fishing accounts for about 15% of budget revenues, 45% of foreign currency earnings. Mauritania processes a total of 1,800,000 tons of fish per year, but overexploitation by foreign and national fleets threaten the sustainability of this key source of revenue.</p><p></p><p>The economy is highly sensitive to international food and extractive commodity prices. Other risks to Mauritania's economy include its recurring droughts, dependence on foreign aid and investment, and insecurity in neighboring Mali, as well as significant shortages of infrastructure, institutional capacity, and human capital. In December 2017, Mauritania and the IMF agreed to a three year agreement under the Extended Credit Facility to foster economic growth, maintain macroeconomic stability, and reduce poverty. Investment in agriculture and infrastructure are the largest components of the country’s public expenditures.</p><br>
+<p>Mauritania's economy is dominated by extractive industries (oil and mines), fisheries, livestock, agriculture, and services. Half the population still depends on farming and raising livestock, even though many nomads and subsistence farmers were forced into the cities by recurrent droughts in the 1970s, 1980s, 2000s, and 2017. Recently, GDP growth has been driven largely by foreign investment in the mining and oil sectors.</p> <p> </p> <p>Mauritania's extensive mineral resources include iron ore, gold, copper, gypsum, and phosphate rock, and exploration is ongoing for tantalum, uranium, crude oil, and natural gas. Extractive commodities make up about three-quarters of Mauritania's total exports, subjecting the economy to price swings in world commodity markets. Mining is also a growing source of government revenue, rising from 13% to 30% of total revenue from 2006 to 2014. The nation's coastal waters are among the richest fishing areas in the world, and fishing accounts for about 15% of budget revenues, 45% of foreign currency earnings. Mauritania processes a total of 1,800,000 tons of fish per year, but overexploitation by foreign and national fleets threaten the sustainability of this key source of revenue.</p> <p> </p> <p>The economy is highly sensitive to international food and extractive commodity prices. Other risks to Mauritania's economy include its recurring droughts, dependence on foreign aid and investment, and insecurity in neighboring Mali, as well as significant shortages of infrastructure, institutional capacity, and human capital. In December 2017, Mauritania and the IMF agreed to a three year agreement under the Extended Credit Facility to foster economic growth, maintain macroeconomic stability, and reduce poverty. Investment in agriculture and infrastructure are the largest components of the country’s public expenditures.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $23.17 billion (2020 est.)<br>
@@ -627,8 +627,8 @@ _electrification - rural areas_: 4% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 62,099 (2020)<br>
-_subscriptions per 100 inhabitants_: 1.34 (2020 est.)<br>
+_total subscriptions_: 62,099 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 4,932,571 (2020)<br>
@@ -651,8 +651,8 @@ _total_: 1,906,360 (2020 est.)<br>
 _percent of population_: 41% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 18,457 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.4 (2021) less than 1<br>
+_total_: 18,457 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.4 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -705,11 +705,11 @@ Mauritanian Armed Forces: Army, Mauritanian Navy (Marine Mauritanienne), Islamic
 note(s) - the Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
 
 **Military expenditures**<br>
+2.4% of GDP (2021 est.)<br>
 2.5% of GDP (2020 est.)<br>
 2.1% of GDP (2019 est.) (approximately $440 million)<br>
 2.3% of GDP (2018 est.) (approximately $430 million)<br>
 2.3% of GDP (2017 est.) (approximately $440 million)<br>
-2.5% of GDP (2016 est.) (approximately $420 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 16,000 active personnel (15,000 Army; 700 Navy; 300 Air Force); est. 3,000 Gendarmerie; est. 2,000 National Guard (2021)<br>

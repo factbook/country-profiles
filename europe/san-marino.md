@@ -343,7 +343,7 @@ _selected World Heritage Site locales_: San Marino Historic Center and Mount Tit
 ## Economy
 
 **Economic overview**<br>
-<p>San Marino's economy relies heavily on tourism, banking, and the manufacture and export of ceramics, clothing, fabrics, furniture, paints, spirits, tiles, and wine. The manufacturing and financial sectors account for more than half of San Marino's GDP. The per capita level of output and standard of living are comparable to those of the most prosperous regions of Italy.</p><p></p><p>San Marino's economy contracted considerably in the years since 2008, largely due to weakened demand from Italy - which accounts for nearly 90% of its export market - and financial sector consolidation. Difficulties in the banking sector, the global economic downturn, and the sizable decline in tax revenues all contributed to negative real GDP growth. The government adopted measures to counter the downturn, including subsidized credit to businesses and is seeking to shift its growth model away from a reliance on bank and tax secrecy. San Marino does not issue public debt securities; when necessary, it finances deficits by drawing down central bank deposits.</p><p></p><p>The economy benefits from foreign investment due to its relatively low corporate taxes and low taxes on interest earnings. The income tax rate is also very low, about one-third the average EU level. San Marino continues to work towards harmonizing its fiscal laws with EU and international standards. In September 2009, the OECD removed San Marino from its list of tax havens that have yet to fully adopt global tax standards, and in 2010 San Marino signed Tax Information Exchange Agreements with most major countries. In 2013, the San Marino Government signed a Double Taxation Agreement with Italy, but a referendum on EU membership failed to reach the quorum needed to bring it to a vote.</p><br>
+<p>San Marino's economy relies heavily on tourism, banking, and the manufacture and export of ceramics, clothing, fabrics, furniture, paints, spirits, tiles, and wine. The manufacturing and financial sectors account for more than half of San Marino's GDP. The per capita level of output and standard of living are comparable to those of the most prosperous regions of Italy.</p> <p> </p> <p>San Marino's economy contracted considerably in the years since 2008, largely due to weakened demand from Italy - which accounts for nearly 90% of its export market - and financial sector consolidation. Difficulties in the banking sector, the global economic downturn, and the sizable decline in tax revenues all contributed to negative real GDP growth. The government adopted measures to counter the downturn, including subsidized credit to businesses and is seeking to shift its growth model away from a reliance on bank and tax secrecy. San Marino does not issue public debt securities; when necessary, it finances deficits by drawing down central bank deposits.</p> <p> </p> <p>The economy benefits from foreign investment due to its relatively low corporate taxes and low taxes on interest earnings. The income tax rate is also very low, about one-third the average EU level. San Marino continues to work towards harmonizing its fiscal laws with EU and international standards. In September 2009, the OECD removed San Marino from its list of tax havens that have yet to fully adopt global tax standards, and in 2010 San Marino signed Tax Information Exchange Agreements with most major countries. In 2013, the San Marino Government signed a Double Taxation Agreement with Italy, but a referendum on EU membership failed to reach the quorum needed to bring it to a vote.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.06 billion (2019 est.)<br>
@@ -481,8 +481,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 16,000 (2019)<br>
-_subscriptions per 100 inhabitants_: 47.25 (2019 est.)<br>
+_total subscriptions_: 16,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 38,750 (2019)<br>
@@ -505,8 +505,8 @@ _total_: 20,318 (2019 est.)<br>
 _percent of population_: 60% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 11,000 (2021)<br>
-_subscriptions per 100 inhabitants_: 32.42 (2021)<br>
+_total_: 11,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2020 est.)<br>
 
 ## Transportation
 

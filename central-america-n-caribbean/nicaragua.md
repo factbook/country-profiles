@@ -388,7 +388,7 @@ _selected World Heritage Site locales_: Ruins of Le&oacute;n Viejo, Le&oacute;n 
 ## Economy
 
 **Economic overview**<br>
-<p>Nicaragua, the poorest country in Central America and the second poorest in the Western Hemisphere, has widespread underemployment and poverty. GDP growth of 4.5% in 2017 was insufficient to make a significant difference. Textiles and agriculture combined account for nearly 50% of Nicaragua's exports. Beef, coffee, and gold are Nicaragua’s top three export commodities.</p><p></p><p>The Dominican Republic-Central America-United States Free Trade Agreement has been in effect since April 2006 and has expanded export opportunities for many Nicaraguan agricultural and manufactured goods.</p><p></p><p>In 2013, the government granted a 50-year concession with the option for an additional 50 years to a newly formed Chinese-run company to finance and build an inter-oceanic canal and related projects, at an estimated cost of $50 billion. The canal construction has not started.</p><br>
+<p>Nicaragua, the poorest country in Central America and the second poorest in the Western Hemisphere, has widespread underemployment and poverty. GDP growth of 4.5% in 2017 was insufficient to make a significant difference. Textiles and agriculture combined account for nearly 50% of Nicaragua's exports. Beef, coffee, and gold are Nicaragua’s top three export commodities.</p> <p> </p> <p>The Dominican Republic-Central America-United States Free Trade Agreement has been in effect since April 2006 and has expanded export opportunities for many Nicaraguan agricultural and manufactured goods.</p> <p> </p> <p>In 2013, the government granted a 50-year concession with the option for an additional 50 years to a newly formed Chinese-run company to finance and build an inter-oceanic canal and related projects, at an estimated cost of $50 billion. The canal construction has not started.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $34.98 billion (2020 est.)<br>
@@ -607,8 +607,8 @@ _electrification - rural areas_: 92% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 210,981 (2020)<br>
-_subscriptions per 100 inhabitants_: 3.18 (2020 est.)<br>
+_total subscriptions_: 210,981 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 5,788,430 (2019)<br>
@@ -631,8 +631,8 @@ _total_: 2,981,049 (2020 est.)<br>
 _percent of population_: 45% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 290,351 (2021)<br>
-_subscriptions per 100 inhabitants_: 4.38 (2021)<br>
+_total_: 290,351 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 ## Transportation
 
@@ -684,11 +684,11 @@ Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); N
 note - both the military and the police report directly to the president<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2021 est.)<br>
 0.6% of GDP (2020 est.)<br>
 0.6% of GDP (2019) (approximately $170 million)<br>
 0.6% of GDP (2018) (approximately $180 million)<br>
 0.6% of GDP (2017) (approximately $190 million)<br>
-0.5% of GDP (2016) (approximately $170 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2021)<br>

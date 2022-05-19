@@ -391,7 +391,7 @@ _selected World Heritage Site locales_: Caribbean Fortifications (c), Darien Nat
 ## Economy
 
 **Economic overview**<br>
-<p>Panama's dollar-based economy rests primarily on a well-developed services sector that accounts for more than three-quarters of GDP. Services include operating the Panama Canal, logistics, banking, the Colon Free Trade Zone, insurance, container ports, flagship registry, and tourism and Panama is a center for offshore banking. Panama's transportation and logistics services sectors, along with infrastructure development projects, have boosted economic growth; however, public debt surpassed $37 billion in 2016 because of excessive government spending and public works projects. The US-Panama Trade Promotion Agreement was approved by Congress and signed into law in October 2011, and entered into force in October 2012.</p><p></p><p>Future growth will be bolstered by the Panama Canal expansion project that began in 2007 and was completed in 2016 at a cost of $5.3 billion - about 10-15% of current GDP. The expansion project more than doubled the Canal's capacity, enabling it to accommodate high-capacity vessels such as tankers and neopanamax vessels that are too large to traverse the existing canal. The US and China are the top users of the Canal.</p><p></p><p>Strong economic performance has not translated into broadly shared prosperity, as Panama has the second worst income distribution in Latin America. About one-fourth of the population lives in poverty; however, from 2006 to 2012 poverty was reduced by 10 percentage points.</p><br>
+<p>Panama's dollar-based economy rests primarily on a well-developed services sector that accounts for more than three-quarters of GDP. Services include operating the Panama Canal, logistics, banking, the Colon Free Trade Zone, insurance, container ports, flagship registry, and tourism and Panama is a center for offshore banking. Panama's transportation and logistics services sectors, along with infrastructure development projects, have boosted economic growth; however, public debt surpassed $37 billion in 2016 because of excessive government spending and public works projects. The US-Panama Trade Promotion Agreement was approved by Congress and signed into law in October 2011, and entered into force in October 2012.</p> <p> </p> <p>Future growth will be bolstered by the Panama Canal expansion project that began in 2007 and was completed in 2016 at a cost of $5.3 billion - about 10-15% of current GDP. The expansion project more than doubled the Canal's capacity, enabling it to accommodate high-capacity vessels such as tankers and neopanamax vessels that are too large to traverse the existing canal. The US and China are the top users of the Canal.</p> <p> </p> <p>Strong economic performance has not translated into broadly shared prosperity, as Panama has the second worst income distribution in Latin America. About one-fourth of the population lives in poverty; however, from 2006 to 2012 poverty was reduced by 10 percentage points.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $109.52 billion (2020 est.)<br>
@@ -610,8 +610,8 @@ _electrification - rural areas_: 77% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 616,698 (2020)<br>
-_subscriptions per 100 inhabitants_: 14.29 (2020 est.)<br>
+_total subscriptions_: 649,156 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 5,599,010 (2019)<br>
@@ -634,8 +634,8 @@ _total_: 2,761,452 (2020 est.)<br>
 _percent of population_: 64% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 562,413 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 13.03 (2021 est.)<br>
+_total_: 562,413 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 ## Transportation
 
@@ -693,11 +693,11 @@ no regular military forces; Ministry of Public Security: the Panama National Pol
 note - the PNP includes paramilitary special forces units for counterterrorism and counternarcotics missions; in addition to its 3 regionally-based border security brigades, SENAFRONT includes a special forces brigade, which is comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2021 est.)<br>
 1.4% of GDP (2020 est.)<br>
 1.2% of GDP (2019) (approximately $1.38 billion)<br>
 1.1% of GDP (2018) (approximately $1.33 billion)<br>
 1.2% of GDP (2017) (approximately $1.32 billion)<br>
-1.3% of GDP (2016) (approximately $1.28 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 20,000 National Police; 4,000 National Border Service; 3,000 National Air-Naval Service (2021)<br>

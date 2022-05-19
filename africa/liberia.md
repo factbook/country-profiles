@@ -385,7 +385,7 @@ _lyrics/music_: Daniel Bashiel WARNER/Olmstead LUCA<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Liberia is a low-income country that relies heavily on foreign assistance and remittances from the diaspora. It is richly endowed with water, mineral resources, forests, and a climate favorable to agriculture. Its principal exports are iron ore, rubber, diamonds, and gold. Palm oil and cocoa are emerging as new export products. The government has attempted to revive raw timber extraction and is encouraging oil exploration.</p><p></p><p>In the 1990s and early 2000s, civil war and government mismanagement destroyed much of Liberia's economy, especially infrastructure in and around the capital. Much of the conflict was fueled by control over Liberia’s natural resources. With the conclusion of fighting and the installation of a democratically elected government in 2006, businesses that had fled the country began to return. The country achieved high growth during the period 2010-13 due to favorable world prices for its commodities. However, during the 2014-2015 Ebola crisis, the economy declined and many foreign-owned businesses departed with their capital and expertise. The epidemic forced the government to divert scarce resources to combat the spread of the virus, reducing funds available for needed public investment. The cost of addressing the Ebola epidemic coincided with decreased economic activity reducing government revenue, although higher donor support significantly offset this loss. During the same period, global commodities prices for key exports fell and have yet to recover to pre-Ebola levels.</p><p></p><p>In 2017, gold was a key driver of growth, as a new mining project began its first full year of production; iron ore exports are also increased as Arcelor Mittal opened new mines at Mount Gangra. The completion of the rehabilitation of the Mount Coffee Hydroelectric Dam increased electricity production to support ongoing and future economic activity, although electricity tariffs remain high relative to other countries in the region and transmission infrastructure is limited. Presidential and legislative elections in October 2017 generated election-related spending pressures.</p><p></p><p>Revitalizing the economy in the future will depend on economic diversification, increasing investment and trade, higher global commodity prices, sustained foreign aid and remittances, development of infrastructure and institutions, combating corruption, and maintaining political stability and security.</p><br>
+<p>Liberia is a low-income country that relies heavily on foreign assistance and remittances from the diaspora. It is richly endowed with water, mineral resources, forests, and a climate favorable to agriculture. Its principal exports are iron ore, rubber, diamonds, and gold. Palm oil and cocoa are emerging as new export products. The government has attempted to revive raw timber extraction and is encouraging oil exploration.</p> <p> </p> <p>In the 1990s and early 2000s, civil war and government mismanagement destroyed much of Liberia's economy, especially infrastructure in and around the capital. Much of the conflict was fueled by control over Liberia’s natural resources. With the conclusion of fighting and the installation of a democratically elected government in 2006, businesses that had fled the country began to return. The country achieved high growth during the period 2010-13 due to favorable world prices for its commodities. However, during the 2014-2015 Ebola crisis, the economy declined and many foreign-owned businesses departed with their capital and expertise. The epidemic forced the government to divert scarce resources to combat the spread of the virus, reducing funds available for needed public investment. The cost of addressing the Ebola epidemic coincided with decreased economic activity reducing government revenue, although higher donor support significantly offset this loss. During the same period, global commodities prices for key exports fell and have yet to recover to pre-Ebola levels.</p> <p> </p> <p>In 2017, gold was a key driver of growth, as a new mining project began its first full year of production; iron ore exports are also increased as Arcelor Mittal opened new mines at Mount Gangra. The completion of the rehabilitation of the Mount Coffee Hydroelectric Dam increased electricity production to support ongoing and future economic activity, although electricity tariffs remain high relative to other countries in the region and transmission infrastructure is limited. Presidential and legislative elections in October 2017 generated election-related spending pressures.</p> <p> </p> <p>Revitalizing the economy in the future will depend on economic diversification, increasing investment and trade, higher global commodity prices, sustained foreign aid and remittances, development of infrastructure and institutions, combating corruption, and maintaining political stability and security.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $6.85 billion (2020 est.)<br>
@@ -596,8 +596,8 @@ _electrification - rural areas_: 6% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8,000 (2018)<br>
-_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
+_total subscriptions_: 6,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 2.66 million (2018)<br>
@@ -620,8 +620,8 @@ _total_: 1,314,996 (2020 est.)<br>
 _percent of population_: 26% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 13,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.26 (2021 est.) less than 1<br>
+_total_: 13,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.26 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -670,11 +670,11 @@ Armed Forces of Liberia (AFL): Army, Liberian Coast Guard, Air Wing (2021)<br>
 note(s) - the AFL Air Wing was previously disbanded in 2005 and has been under development since 2019; the Liberian National Police and the Liberian Drug Enforcement Agency are under the Ministry of Justice<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
 0.6% of GDP (2019 est.) (approximately $25 million)<br>
 0.5% of GDP (2018 est.) (approximately $20 million)<br>
 0.4% of GDP (2017 est.) (approximately $19 million)<br>
-0.4% of GDP (2016 est.) (approximately $18 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 2,000 personnel (2021)<br>

@@ -395,7 +395,7 @@ _selected World Heritage Site locales_: Antigua Guatemala (c), Tikal National Pa
 ## Economy
 
 **Economic overview**<br>
-<p>Guatemala is the most populous country in Central America with a GDP per capita roughly half the average for Latin America and the Caribbean. The agricultural sector accounts for 13.5% of GDP and 31% of the labor force; key agricultural exports include sugar, coffee, bananas, and vegetables. Guatemala is the top remittance recipient in Central America as a result of Guatemala's large expatriate community in the US. These inflows are a primary source of foreign income, equivalent to two-thirds of the country's exports and about a tenth of its GDP.</p><p></p><p>The 1996 peace accords, which ended 36 years of civil war, removed a major obstacle to foreign investment, and Guatemala has since pursued important reforms and macroeconomic stabilization. The Dominican Republic-Central America Free Trade Agreement (CAFTA-DR) entered into force in July 2006, spurring increased investment and diversification of exports, with the largest increases in ethanol and non-traditional agricultural exports. While CAFTA-DR has helped improve the investment climate, concerns over security, the lack of skilled workers, and poor infrastructure continue to hamper foreign direct investment.</p><p></p><p>The distribution of income remains highly unequal with the richest 20% of the population accounting for more than 51% of Guatemala's overall consumption. More than half of the population is below the national poverty line, and 23% of the population lives in extreme poverty. Poverty among indigenous groups, which make up more than 40% of the population, averages 79%, with 40% of the indigenous population living in extreme poverty. Nearly one-half of Guatemala's children under age five are chronically malnourished, one of the highest malnutrition rates in the world.</p><br>
+<p>Guatemala is the most populous country in Central America with a GDP per capita roughly half the average for Latin America and the Caribbean. The agricultural sector accounts for 13.5% of GDP and 31% of the labor force; key agricultural exports include sugar, coffee, bananas, and vegetables. Guatemala is the top remittance recipient in Central America as a result of Guatemala's large expatriate community in the US. These inflows are a primary source of foreign income, equivalent to two-thirds of the country's exports and about a tenth of its GDP.</p> <p> </p> <p>The 1996 peace accords, which ended 36 years of civil war, removed a major obstacle to foreign investment, and Guatemala has since pursued important reforms and macroeconomic stabilization. The Dominican Republic-Central America Free Trade Agreement (CAFTA-DR) entered into force in July 2006, spurring increased investment and diversification of exports, with the largest increases in ethanol and non-traditional agricultural exports. While CAFTA-DR has helped improve the investment climate, concerns over security, the lack of skilled workers, and poor infrastructure continue to hamper foreign direct investment.</p> <p> </p> <p>The distribution of income remains highly unequal with the richest 20% of the population accounting for more than 51% of Guatemala's overall consumption. More than half of the population is below the national poverty line, and 23% of the population lives in extreme poverty. Poverty among indigenous groups, which make up more than 40% of the population, averages 79%, with 40% of the indigenous population living in extreme poverty. Nearly one-half of Guatemala's children under age five are chronically malnourished, one of the highest malnutrition rates in the world.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $141.5 billion (2020 est.)<br>
@@ -612,8 +612,8 @@ _electrification - rural areas_: 85% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,272,467 (2020)<br>
-_subscriptions per 100 inhabitants_: 12.68 (2020 est.)<br>
+_total subscriptions_: 2,272,467 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 20,390,671 (2020)<br>
@@ -636,8 +636,8 @@ _total_: 8,429,167 (2020 est.)<br>
 _percent of population_: 50% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 612,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 3.42 (2021)<br>
+_total_: 612,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 ## Transportation
 
@@ -699,11 +699,11 @@ _major seaport(s)_: Puerto Quetzal, Santo Tomas de Castilla<br>
 Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Naval Forces (Fuerza de Mar), and Air Force (Fuerza de Aire); Ministry of Interior: National Civil Police (Policia Nacional Civil; includes paramilitary units) (2021)<br>
 
 **Military expenditures**<br>
+0.4% of GDP (2021 est.)<br>
 0.4% of GDP (2020 est.)<br>
 0.4% of GDP (2019) (approximately $530 million)<br>
 0.4% of GDP (2018) (approximately $470 million)<br>
 0.4% of GDP (2017) (approximately $460 million)<br>
-0.4% of GDP (2016) (approximately $500 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 21,000 active personnel (19,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2021)<br>

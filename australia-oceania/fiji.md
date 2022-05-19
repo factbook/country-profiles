@@ -375,7 +375,7 @@ _selected World Heritage Site locales_: Levuka Historical Port Town<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Fiji, endowed with forest, mineral, and fish resources, is one of the most developed and connected of the Pacific island economies. Earnings from the tourism industry, with an estimated 842,884 tourists visiting in 2017, and remittances from Fijian’s working abroad are the country’s largest foreign exchange earners.</p><p></p><p>Bottled water exports to the US is Fiji’s largest domestic export. Fiji's sugar sector remains a significant industry and a major export, but crops and one of the sugar mills suffered damage during Cyclone Winston in 2016. Fiji’s trade imbalance continues to widen with increased imports and sluggish performance of domestic exports.</p><p></p><p>The return to parliamentary democracy and successful elections in September 2014 improved investor confidence, but increasing bureaucratic regulation, new taxes, and lack of consultation with relevant stakeholders brought four consecutive years of decline for Fiji on the World Bank Ease of Doing Business index. Private sector investment in 2017 approached 20% of GDP, compared to 13% in 2013.</p><br>
+<p>Fiji, endowed with forest, mineral, and fish resources, is one of the most developed and connected of the Pacific island economies. Earnings from the tourism industry, with an estimated 842,884 tourists visiting in 2017, and remittances from Fijian’s working abroad are the country’s largest foreign exchange earners.</p> <p> </p> <p>Bottled water exports to the US is Fiji’s largest domestic export. Fiji's sugar sector remains a significant industry and a major export, but crops and one of the sugar mills suffered damage during Cyclone Winston in 2016. Fiji’s trade imbalance continues to widen with increased imports and sluggish performance of domestic exports.</p> <p> </p> <p>The return to parliamentary democracy and successful elections in September 2014 improved investor confidence, but increasing bureaucratic regulation, new taxes, and lack of consultation with relevant stakeholders brought four consecutive years of decline for Fiji on the World Bank Ease of Doing Business index. Private sector investment in 2017 approached 20% of GDP, compared to 13% in 2013.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $9.86 billion (2020 est.)<br>
@@ -589,8 +589,8 @@ _electrification - rural areas_: 99.2% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 76,522 (2018)<br>
-_subscriptions per 100 inhabitants_: 8.66 (2018 est.)<br>
+_total subscriptions_: 48,510 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1,033,920 (2018)<br>
@@ -613,8 +613,8 @@ _total_: 444,978 (2019 est.)<br>
 _percent of population_: 50% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 23,062 (2021)<br>
-_subscriptions per 100 inhabitants_: 2.57 (2021)<br>
+_total_: 23,062 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 ## Transportation
 

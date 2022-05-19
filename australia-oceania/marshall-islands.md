@@ -374,7 +374,7 @@ _selected World Heritage Site locales_: Bikini Atoll Nuclear Test Site<br>
 ## Economy
 
 **Economic overview**<br>
-<p>US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports.</p><p></p><p>The Marshall Islands received roughly $1 billion in aid from the US during the period 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact's financial package for a 20-year period, 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Under the amended Compact, the US and Marshall Islands are also jointly funding a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024, when direct Compact aid ends.</p><br>
+<p>US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports.</p> <p> </p> <p>The Marshall Islands received roughly $1 billion in aid from the US during the period 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact's financial package for a 20-year period, 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Under the amended Compact, the US and Marshall Islands are also jointly funding a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024, when direct Compact aid ends.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $240 million (2019 est.)<br>
@@ -564,8 +564,8 @@ _electrification - rural areas_: 98.4% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,361 (2018)<br>
-_subscriptions per 100 inhabitants_: 4.13 (2018 est.)<br>
+_total subscriptions_: 2,361 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 16,000 (2018)<br>
@@ -588,8 +588,8 @@ _total_: 22,929 (2019 est.)<br>
 _percent of population_: 39% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 1.69 (2021 est.)<br>
+_total_: 1,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1.7 (2020 est.)<br>
 
 **Communications - note**<br>
 Kwajalein hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory))<br>

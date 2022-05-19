@@ -629,8 +629,8 @@ _electrification - rural areas_: 39% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 520,863 (2018)<br>
-_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
+_total subscriptions_: 523,951 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 61,143,964 (2018)<br>
@@ -653,8 +653,8 @@ _total_: 19,043,428 (2020 est.)<br>
 _percent of population_: 35% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 688,185 (2021)<br>
-_subscriptions per 100 inhabitants_: 1.27 (2021) less than 1<br>
+_total_: 688,185 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1.3 (2020 est.)<br>
 
 ## Transportation
 

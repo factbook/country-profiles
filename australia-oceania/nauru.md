@@ -333,7 +333,7 @@ _lyrics/music_: Margaret HENDRIE/Laurence Henry HICKS<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Revenues of this tiny island - a coral atoll with a land area of 21 square kilometers - traditionally have come from exports of phosphates. Few other resources exist, with most necessities being imported, mainly from Australia, its former occupier and later major source of support. Primary reserves of phosphates were exhausted and mining ceased in 2006, but mining of a deeper layer of "secondary phosphate" in the interior of the island began the following year. The secondary phosphate deposits may last another 30 years. Earnings from Nauru’s export of phosphate remains an important source of income. Few comprehensive statistics on the Nauru economy exist; estimates of Nauru's GDP vary widely.</p><p></p><p>The rehabilitation of mined land and the replacement of income from phosphates are serious long-term problems. In anticipation of the exhaustion of Nauru's phosphate deposits, substantial amounts of phosphate income were invested in trust funds to help cushion the transition and provide for Nauru's economic future.</p><p></p><p>Although revenue sources for government are limited, the opening of the Australian Regional Processing Center for asylum seekers since 2012 has sparked growth in the economy. Revenue derived from fishing licenses under the "vessel day scheme" has also boosted government income. Housing, hospitals, and other capital plant are deteriorating. The cost to Australia of keeping the Nauruan government and economy afloat continues to climb.</p><br>
+<p>Revenues of this tiny island - a coral atoll with a land area of 21 square kilometers - traditionally have come from exports of phosphates. Few other resources exist, with most necessities being imported, mainly from Australia, its former occupier and later major source of support. Primary reserves of phosphates were exhausted and mining ceased in 2006, but mining of a deeper layer of "secondary phosphate" in the interior of the island began the following year. The secondary phosphate deposits may last another 30 years. Earnings from Nauru’s export of phosphate remains an important source of income. Few comprehensive statistics on the Nauru economy exist; estimates of Nauru's GDP vary widely.</p> <p> </p> <p>The rehabilitation of mined land and the replacement of income from phosphates are serious long-term problems. In anticipation of the exhaustion of Nauru's phosphate deposits, substantial amounts of phosphate income were invested in trust funds to help cushion the transition and provide for Nauru's economic future.</p> <p> </p> <p>Although revenue sources for government are limited, the opening of the Australian Regional Processing Center for asylum seekers since 2012 has sparked growth in the economy. Revenue derived from fishing licenses under the "vessel day scheme" has also boosted government income. Housing, hospitals, and other capital plant are deteriorating. The cost to Australia of keeping the Nauruan government and economy afloat continues to climb.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $150 million (2019 est.)<br>
@@ -529,8 +529,8 @@ _electrification - rural areas_: 98.7% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 0 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
+_total subscriptions_: 1,900 (2009 est.)<br>
+_subscriptions per 100 inhabitants_: 19 (2009 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 10,000 (2018)<br>
@@ -553,8 +553,8 @@ _total_: 6,136 (2019 est.)<br>
 _percent of population_: 57% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 950 (2010)<br>
-_subscriptions per 100 inhabitants_: 9.5 (2010)<br>
+_total_: 950 (2010 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2010 est.)<br>
 
 ## Transportation
 

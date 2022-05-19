@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-The Sultanate of Brunei's influence peaked between the 15th and 17th centuries when its control extended over coastal areas of northwest Borneo and the southern Philippines. Brunei subsequently entered a period of decline brought on by internal strife over royal succession, colonial expansion of European powers, and piracy. In 1888, Brunei became a British protectorate; independence was achieved in 1984. The same family has ruled Brunei for over six centuries. Brunei benefits from extensive petroleum and natural gas fields, the source of one of the highest per capita GDPs in the world. In 2017, Brunei celebrated the 50th anniversary of the Sultan Hassanal BOLKIAH’s accession to the throne.<br>
+The Sultanate of Brunei's influence peaked between the 15th and 17th centuries when its control extended over coastal areas of northwest Borneo and the southern Philippines. Brunei subsequently entered a period of decline brought on by internal strife over royal succession, colonial expansion of European powers, and piracy. In 1888, Brunei became a British protectorate; independence was achieved in 1984. The same family has ruled Brunei for over six centuries. Brunei benefits from extensive petroleum and natural gas fields, the source of one of the highest per capita GDPs in the world. In 2017, Brunei celebrated the 50th anniversary of the Sultan Hassanal BOLKIAH&rsquo;s accession to the throne.<br>
 
 ## Geography
 
@@ -363,7 +363,7 @@ _lyrics/music_: Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji 
 ## Economy
 
 **Economic overview**<br>
-<p>Brunei is an energy-rich sultanate on the northern coast of Borneo in Southeast Asia. Brunei boasts a well-educated, largely English-speaking population; excellent infrastructure; and a stable government intent on attracting foreign investment. Crude oil and natural gas production account for approximately 65% of GDP and 95% of exports, with Japan as the primary export market.</p><p></p><p>Per capita GDP is among the highest in the world, and substantial income from overseas investment supplements income from domestic hydrocarbon production. Bruneian citizens pay no personal income taxes, and the government provides free medical services and free education through the university level.</p><p></p><p>The Bruneian Government wants to diversify its economy away from hydrocarbon exports to other industries such as information and communications technology and halal manufacturing, permissible under Islamic law. Brunei’s trade increased in 2016 and 2017, following its regional economic integration in the ASEAN Economic Community, and the expected ratification of the Trans-Pacific Partnership trade agreement.</p><br>
+<p>Brunei is an energy-rich sultanate on the northern coast of Borneo in Southeast Asia. Brunei boasts a well-educated, largely English-speaking population; excellent infrastructure; and a stable government intent on attracting foreign investment. Crude oil and natural gas production account for approximately 65% of GDP and 95% of exports, with Japan as the primary export market.</p> <p> </p> <p>Per capita GDP is among the highest in the world, and substantial income from overseas investment supplements income from domestic hydrocarbon production. Bruneian citizens pay no personal income taxes, and the government provides free medical services and free education through the university level.</p> <p> </p> <p>The Bruneian Government wants to diversify its economy away from hydrocarbon exports to other industries such as information and communications technology and halal manufacturing, permissible under Islamic law. Brunei’s trade increased in 2016 and 2017, following its regional economic integration in the ASEAN Economic Community, and the expected ratification of the Trans-Pacific Partnership trade agreement.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $27.23 billion (2020 est.)<br>
@@ -567,8 +567,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 103,885 (2020)<br>
-_subscriptions per 100 inhabitants_: 23.75 (2020 est.)<br>
+_total subscriptions_: 103,885 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 526,732 (2020)<br>
@@ -591,8 +591,8 @@ _total_: 415,609 (2020 est.)<br>
 _percent of population_: 95% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 71,078 (2021)<br>
-_subscriptions per 100 inhabitants_: 16.25 (2021)<br>
+_total_: 71,078 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
 
 ## Transportation
 

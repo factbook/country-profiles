@@ -392,7 +392,7 @@ _selected World Heritage Site locales_: Schokland and Surroundings (c); Dutch Wa
 ## Economy
 
 **Economic overview**<br>
-<p>The Netherlands, the sixth-largest economy in the European Union, plays an important role as a European transportation hub, with a consistently high trade surplus, stable industrial relations, and low unemployment. Industry focuses on food processing, chemicals, petroleum refining, and electrical machinery. A highly mechanized agricultural sector employs only 2% of the labor force but provides large surpluses for food-processing and underpins the country’s status as the world’s second largest agricultural exporter.</p><p></p><p>The Netherlands is part of the euro zone, and as such, its monetary policy is controlled by the European Central Bank. The Dutch financial sector is highly concentrated, with four commercial banks possessing over 80% of banking assets, and is four times the size of Dutch GDP.</p><p></p><p>In 2008, during the financial crisis, the government budget deficit hit 5.3% of GDP. Following a protracted recession from 2009 to 2013, during which unemployment doubled to 7.4% and household consumption contracted for four consecutive years, economic growth began inching forward in 2014. Since 2010, Prime Minister Mark RUTTE’s government has implemented significant austerity measures to improve public finances and has instituted broad structural reforms in key policy areas, including the labor market, the housing sector, the energy market, and the pension system. In 2017, the government budget returned to a surplus of 0.7% of GDP, with economic growth of 3.2%, and GDP per capita finally surpassed pre-crisis levels. The fiscal policy announced by the new government in the 2018-2021 coalition plans for increases in government consumption and public investment, fueling domestic demand and household consumption and investment. The new government’s policy also plans to increase demand for workers in the public and private sector, forecasting a further decline in the unemployment rate, which hit 4.8% in 2017.</p><br>
+<p>The Netherlands, the sixth-largest economy in the European Union, plays an important role as a European transportation hub, with a consistently high trade surplus, stable industrial relations, and low unemployment. Industry focuses on food processing, chemicals, petroleum refining, and electrical machinery. A highly mechanized agricultural sector employs only 2% of the labor force but provides large surpluses for food-processing and underpins the country’s status as the world’s second largest agricultural exporter.</p> <p> </p> <p>The Netherlands is part of the euro zone, and as such, its monetary policy is controlled by the European Central Bank. The Dutch financial sector is highly concentrated, with four commercial banks possessing over 80% of banking assets, and is four times the size of Dutch GDP.</p> <p> </p> <p>In 2008, during the financial crisis, the government budget deficit hit 5.3% of GDP. Following a protracted recession from 2009 to 2013, during which unemployment doubled to 7.4% and household consumption contracted for four consecutive years, economic growth began inching forward in 2014. Since 2010, Prime Minister Mark RUTTE’s government has implemented significant austerity measures to improve public finances and has instituted broad structural reforms in key policy areas, including the labor market, the housing sector, the energy market, and the pension system. In 2017, the government budget returned to a surplus of 0.7% of GDP, with economic growth of 3.2%, and GDP per capita finally surpassed pre-crisis levels. The fiscal policy announced by the new government in the 2018-2021 coalition plans for increases in government consumption and public investment, fueling domestic demand and household consumption and investment. The new government’s policy also plans to increase demand for workers in the public and private sector, forecasting a further decline in the unemployment rate, which hit 4.8% in 2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $945.48 billion (2020 est.)<br>
@@ -609,8 +609,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4.937 million (2020)<br>
-_subscriptions per 100 inhabitants_: 28.81 (2020 est.)<br>
+_total subscriptions_: 4.937 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 29 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 21,914,852 (2019)<br>
@@ -633,8 +633,8 @@ _total_: 15,871,765 (2020 est.)<br>
 _percent of population_: 91% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,525,016 (2021)<br>
-_subscriptions per 100 inhabitants_: 43.92 (2021)<br>
+_total_: 7,525,016 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2020 est.)<br>
 
 ## Transportation
 

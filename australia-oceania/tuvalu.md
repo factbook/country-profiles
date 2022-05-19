@@ -332,7 +332,7 @@ _lyrics/music_: Afaese MANOA<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Tuvalu consists of a densely populated, scattered group of nine coral atolls with poor soil. Only eight of the atolls are inhabited. It is one of the smallest countries in the world, with its highest point at 4.6 meters above sea level. The country is isolated, almost entirely dependent on imports, particularly of food and fuel, and vulnerable to climate change and rising sea levels, which pose significant challenges to development.</p><p></p><p>The public sector dominates economic activity. Tuvalu has few natural resources, except for its fisheries. Earnings from fish exports and fishing licenses for Tuvalu’s territorial waters are a significant source of government revenue. In 2013, revenue from fishing licenses doubled and totaled more than 45% of GDP.</p><p></p><p>Official aid from foreign development partners has also increased. Tuvalu has substantial assets abroad. The Tuvalu Trust Fund, an international trust fund established in 1987 by development partners, has grown to $104 million (A$141 million) in 2014 and is an important cushion for meeting shortfalls in the government's budget. While remittances are another substantial source of income, the value of remittances has declined since the 2008-09 global financial crisis, but has stabilized at nearly $4 million per year. The financial impact of climate change and the cost of climate related adaptation projects is one of many concerns for the nation.</p><br>
+<p>Tuvalu consists of a densely populated, scattered group of nine coral atolls with poor soil. Only eight of the atolls are inhabited. It is one of the smallest countries in the world, with its highest point at 4.6 meters above sea level. The country is isolated, almost entirely dependent on imports, particularly of food and fuel, and vulnerable to climate change and rising sea levels, which pose significant challenges to development.</p> <p> </p> <p>The public sector dominates economic activity. Tuvalu has few natural resources, except for its fisheries. Earnings from fish exports and fishing licenses for Tuvalu’s territorial waters are a significant source of government revenue. In 2013, revenue from fishing licenses doubled and totaled more than 45% of GDP.</p> <p> </p> <p>Official aid from foreign development partners has also increased. Tuvalu has substantial assets abroad. The Tuvalu Trust Fund, an international trust fund established in 1987 by development partners, has grown to $104 million (A$141 million) in 2014 and is an important cushion for meeting shortfalls in the government's budget. While remittances are another substantial source of income, the value of remittances has declined since the 2008-09 global financial crisis, but has stabilized at nearly $4 million per year. The financial impact of climate change and the cost of climate related adaptation projects is one of many concerns for the nation.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $50 million (2020 est.)<br>
@@ -512,8 +512,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 17.59 (2018 est.)<br>
+_total subscriptions_: 2,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 8,000 (2018)<br>
@@ -537,7 +537,7 @@ _percent of population_: 49% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 450 (2017 est.)<br>
-_subscriptions per 100 inhabitants_: 3.96 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2017 est.)<br>
 
 ## Transportation
 

@@ -425,7 +425,7 @@ _selected World Heritage Site locales_: Dja Faunal Reserve, Sangha Trinational F
 ## Economy
 
 **Economic overview**<br>
-<p>Cameroon’s market-based, diversified economy features oil and gas, timber, aluminum, agriculture, mining and the service sector. Oil remains Cameroon’s main export commodity, and despite falling global oil prices, still accounts for nearly 40% of exports. Cameroon’s economy suffers from factors that often impact underdeveloped countries, such as stagnant per capita income, a relatively inequitable distribution of income, a top-heavy civil service, endemic corruption, continuing inefficiencies of a large parastatal system in key sectors, and a generally unfavorable climate for business enterprise.</p><p></p><p>Since 1990, the government has embarked on various IMF and World Bank programs designed to spur business investment, increase efficiency in agriculture, improve trade, and recapitalize the nation's banks. The IMF continues to press for economic reforms, including increased budget transparency, privatization, and poverty reduction programs. The Government of Cameroon provides subsidies for electricity, food, and fuel that have strained the federal budget and diverted funds from education, healthcare, and infrastructure projects, as low oil prices have led to lower revenues.</p><p></p><p>Cameroon devotes significant resources to several large infrastructure projects currently under construction, including a deep seaport in Kribi and the Lom Pangar Hydropower Project. Cameroon’s energy sector continues to diversify, recently opening a natural gas-powered electricity generating plant. Cameroon continues to seek foreign investment to improve its inadequate infrastructure, create jobs, and improve its economic footprint, but its unfavorable business environment remains a significant deterrent to foreign investment.</p><br>
+<p>Cameroon’s market-based, diversified economy features oil and gas, timber, aluminum, agriculture, mining and the service sector. Oil remains Cameroon’s main export commodity, and despite falling global oil prices, still accounts for nearly 40% of exports. Cameroon’s economy suffers from factors that often impact underdeveloped countries, such as stagnant per capita income, a relatively inequitable distribution of income, a top-heavy civil service, endemic corruption, continuing inefficiencies of a large parastatal system in key sectors, and a generally unfavorable climate for business enterprise.</p> <p> </p> <p>Since 1990, the government has embarked on various IMF and World Bank programs designed to spur business investment, increase efficiency in agriculture, improve trade, and recapitalize the nation's banks. The IMF continues to press for economic reforms, including increased budget transparency, privatization, and poverty reduction programs. The Government of Cameroon provides subsidies for electricity, food, and fuel that have strained the federal budget and diverted funds from education, healthcare, and infrastructure projects, as low oil prices have led to lower revenues.</p> <p> </p> <p>Cameroon devotes significant resources to several large infrastructure projects currently under construction, including a deep seaport in Kribi and the Lom Pangar Hydropower Project. Cameroon’s energy sector continues to diversify, recently opening a natural gas-powered electricity generating plant. Cameroon continues to seek foreign investment to improve its inadequate infrastructure, create jobs, and improve its economic footprint, but its unfavorable business environment remains a significant deterrent to foreign investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $94.94 billion (2020 est.)<br>
@@ -639,8 +639,8 @@ _electrification - rural areas_: 32% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 883,015 (2020)<br>
-_subscriptions per 100 inhabitants_: 3.33 (2020 est.)<br>
+_total subscriptions_: 964,378 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 25,245,134 (2020)<br>
@@ -663,8 +663,8 @@ _total_: 10,087,428 (2020 est.)<br>
 _percent of population_: 38% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 722,579 (2021)<br>
-_subscriptions per 100 inhabitants_: 2.72 (2021)<br>
+_total_: 722,579 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 ## Transportation
 
@@ -725,11 +725,11 @@ Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre
 note(s) - the National Police (under the General Delegation of National Security) and the Gendarmerie are responsible for internal security; the Rapid Intervention Battalion (RIB) is a large brigade-sized force comprised of approximately 9 battalions, detachments, or groups (5 infantry, 1 airborne, 1 amphibious, 1 armored reconnaissance, and 1 counter-terrorism); the RIB maintains its own command and control structure and reports directly to the president, rather than the defense minister<br>
 
 **Military expenditures**<br>
+1% of GDP (2021 est.)<br>
 1% of GDP (2020 est.)<br>
 1.4% of GDP (2019 est.) (approximately $710 million)<br>
 1.4% of GDP (2018 est.) (approximately $710 million)<br>
 1.5% of GDP (2017 est.) (approximately $710 million)<br>
-1.5% of GDP (2016 est.) (approximately $700 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; approximately 40,000 active duty troops; (25,000 ground forces, including the BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2021)<br>
@@ -762,7 +762,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 345,587 (Central African Republic), 129,266 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 345,622 (Central African Republic), 128,893 (Nigeria) (2022)<br>
 _IDPs_: 936,767 (2022) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

@@ -620,12 +620,12 @@ _electrification - rural areas_: 98% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 134,636 (2019)<br>
-_subscriptions per 100 inhabitants_: (2019 est.) less than 1<br>
+_total subscriptions_: 145,787 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22,580,071 (2020)<br>
-_subscriptions per 100 inhabitants_: 63.18 (2020)<br>
+_total subscriptions_: 22,678,024 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 58 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: before 15 August 2021, Afghanistan had successfully rebuilt infrastructure to create a functional telecom sector that covered nearly all of the population; due to mountainous geography, Afghanistan relies on its mobile network; mobile broadband penetration growing, but is still low compared to other countries in Asia; operator launched LTE in Kabul; World Bank and other donors support development of a nationwide fiber backbone; terrestrial cable connectivity to five neighboring countries; work on the &lsquo;Wakhan Corridor Fiber Optic Survey Project&rsquo; to connect to China is nearing completion; major importer of broadcasting equipment from UAE (2021)<br>
@@ -643,8 +643,8 @@ _total_: 7,007,101 (2020 est.)<br>
 _percent of population_: 18% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 26,570 (2022)<br>
-_subscriptions per 100 inhabitants_: 0.07 (2022)<br>
+_total_: 26,570 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.07 (2020 est.) less than 1<br>
 
 ## Transportation
 

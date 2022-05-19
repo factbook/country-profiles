@@ -372,7 +372,7 @@ _selected World Heritage Site locales_: Cidade Velha, Historic Center of Ribeira
 ## Economy
 
 **Economic overview**<br>
-<p>Cabo Verde’s economy depends on development aid, foreign investment, remittances, and tourism. The economy is service-oriented with commerce, transport, tourism, and public services accounting for about three-fourths of GDP. Tourism is the mainstay of the economy and depends on conditions in the euro-zone countries. Cabo Verde annually runs a high trade deficit financed by foreign aid and remittances from its large pool of emigrants; remittances as a share of GDP are one of the highest in Sub-Saharan Africa.</p><p></p><p>Although about 40% of the population lives in rural areas, the share of food production in GDP is low. The island economy suffers from a poor natural resource base, including serious water shortages, exacerbated by cycles of long-term drought, and poor soil for growing food on several of the islands, requiring it to import most of what it consumes. The fishing potential, mostly lobster and tuna, is not fully exploited.</p><p></p><p>Economic reforms are aimed at developing the private sector and attracting foreign investment to diversify the economy and mitigate high unemployment. The government’s elevated debt levels have limited its capacity to finance any shortfalls.</p><br>
+<p>Cabo Verde’s economy depends on development aid, foreign investment, remittances, and tourism. The economy is service-oriented with commerce, transport, tourism, and public services accounting for about three-fourths of GDP. Tourism is the mainstay of the economy and depends on conditions in the euro-zone countries. Cabo Verde annually runs a high trade deficit financed by foreign aid and remittances from its large pool of emigrants; remittances as a share of GDP are one of the highest in Sub-Saharan Africa.</p> <p> </p> <p>Although about 40% of the population lives in rural areas, the share of food production in GDP is low. The island economy suffers from a poor natural resource base, including serious water shortages, exacerbated by cycles of long-term drought, and poor soil for growing food on several of the islands, requiring it to import most of what it consumes. The fishing potential, mostly lobster and tuna, is not fully exploited.</p> <p> </p> <p>Economic reforms are aimed at developing the private sector and attracting foreign investment to diversify the economy and mitigate high unemployment. The government’s elevated debt levels have limited its capacity to finance any shortfalls.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.36 billion (2020 est.)<br>
@@ -582,8 +582,8 @@ _electrification - rural areas_: 89% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 57,668 (2020)<br>
-_subscriptions per 100 inhabitants_: 10.37 (2020 est.)<br>
+_total subscriptions_: 57,668 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 544,729 (2020)<br>
@@ -606,8 +606,8 @@ _total_: 361,392 (2020 est.)<br>
 _percent of population_: 65% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 24,839 (2021)<br>
-_subscriptions per 100 inhabitants_: 4.47 (2021 est.)<br>
+_total_: 24,839 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 
 ## Transportation
 
@@ -648,11 +648,11 @@ _major seaport(s)_: Porto Grande<br>
 Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; includes a small air component), Cabo Verde Coast Guard (Guardia Costeira de Cabo Verde, GCCV) (2021)<br>
 
 **Military expenditures**<br>
+0.5% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
 0.5% of GDP (2019 est.) (approximately $20 million)<br>
 0.5% of GDP (2018 est.) (approximately $20 million)<br>
 0.5% of GDP (2017 est.) (approximately $20 million)<br>
-0.6% of GDP (2016 est.) (approximately $20 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 1,200 personnel including about 100 in the Coast Guard (2021)<br>

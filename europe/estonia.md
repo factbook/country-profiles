@@ -386,7 +386,7 @@ _selected World Heritage Site locales_: Historic Center (Old Town) of Tallinn, �
 ## Economy
 
 **Economic overview**<br>
-<p>Estonia, a member of the EU since 2004 and the euro zone since 2011, has a modern market-based economy and one of the higher per capita income levels in Central Europe and the Baltic region, but its economy is highly dependent on trade, leaving it vulnerable to external shocks. Estonia's successive governments have pursued a free market, pro-business economic agenda, and sound fiscal policies that have resulted in balanced budgets and the lowest debt-to-GDP ratio in the EU.</p><p></p><p>The economy benefits from strong electronics and telecommunications sectors and strong trade ties with Finland, Sweden, Germany, and Russia. The economy’s 4.9% GDP growth in 2017 was the fastest in the past six years, leaving the Estonian economy in its best position since the financial crisis 10 years ago. For the first time in many years, labor productivity increased faster than labor costs in 2017. Inflation also rose in 2017 to 3.5% alongside increased global prices for food and energy, which make up a large share of Estonia’s consumption.</p><p></p><p>Estonia is challenged by a shortage of labor, both skilled and unskilled, although the government has amended its immigration law to allow easier hiring of highly qualified foreign workers, and wage growth that outpaces productivity gains. The government is also pursuing efforts to boost productivity growth with a focus on innovations that emphasize technology start-ups and e-commerce.</p><br>
+<p>Estonia, a member of the EU since 2004 and the euro zone since 2011, has a modern market-based economy and one of the higher per capita income levels in Central Europe and the Baltic region, but its economy is highly dependent on trade, leaving it vulnerable to external shocks. Estonia's successive governments have pursued a free market, pro-business economic agenda, and sound fiscal policies that have resulted in balanced budgets and the lowest debt-to-GDP ratio in the EU.</p> <p> </p> <p>The economy benefits from strong electronics and telecommunications sectors and strong trade ties with Finland, Sweden, Germany, and Russia. The economy’s 4.9% GDP growth in 2017 was the fastest in the past six years, leaving the Estonian economy in its best position since the financial crisis 10 years ago. For the first time in many years, labor productivity increased faster than labor costs in 2017. Inflation also rose in 2017 to 3.5% alongside increased global prices for food and energy, which make up a large share of Estonia’s consumption.</p> <p> </p> <p>Estonia is challenged by a shortage of labor, both skilled and unskilled, although the government has amended its immigration law to allow easier hiring of highly qualified foreign workers, and wage growth that outpaces productivity gains. The government is also pursuing efforts to boost productivity growth with a focus on innovations that emphasize technology start-ups and e-commerce.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $47.44 billion (2020 est.)<br>
@@ -602,8 +602,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 304,728 (2020)<br>
-_subscriptions per 100 inhabitants_: 22.97 (2020 est.)<br>
+_total subscriptions_: 304,728 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1,925,789 (2020)<br>
@@ -626,8 +626,8 @@ _total_: 1,183,236 (2020 est.)<br>
 _percent of population_: 89% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 415,610 (2022)<br>
-_subscriptions per 100 inhabitants_: 31.33 (2022)<br>
+_total_: 415,610 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
 
 ## Transportation
 

@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Lucayan Indians inhabited the islands when Christopher COLUMBUS first set foot in the New World on San Salvador in 1492. British settlement of the islands began in 1647; the islands became a colony in 1783. Piracy thrived in the 17th and 18th centuries because of The Bahamas close proximity to shipping lanes. Since attaining independence from the UK in 1973, The Bahamas has prospered through tourism, international banking, and investment management, which comprise up to 85% of GDP. Because of its proximity to the US - the nearest Bahamian landmass being only 80 km (50 mi) from Florida - the country is a major transshipment point for illicit trafficking, particularly to the US mainland, as well as Europe. US law enforcement agencies cooperate closely with The Bahamas, and the US Coast Guard assists Bahamian authorities in coastal defense through Operation Bahamas, Turks and Caicos, or OPBAT.<br>
+Lucayan Indians inhabited the islands when Christopher COLUMBUS first set foot in the New World on San Salvador in 1492. British settlement of the islands began in 1647; the islands became a colony in 1783. Piracy thrived in the 17th and 18th centuries because of The Bahamas close proximity to shipping lanes. Since attaining independence from the UK in 1973, The Bahamas has prospered through tourism, international banking, and investment management, which comprise up to 85% of GDP. Because of its proximity to the US - the nearest Bahamian landmass being only 80 km (50 mi) from Florida - the country is a major transshipment point for illicit trafficking, particularly to the US mainland, as well as Europe. US law enforcement agencies cooperate closely with The Bahamas, and the US Coast Guard assists Bahamian authorities in maritime security and law enforcement through Operation Bahamas, Turks and Caicos, or OPBAT.<br>
 
 ## Geography
 
@@ -550,12 +550,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 91,129 (2019)<br>
-_subscriptions per 100 inhabitants_: 23.4 (2019 est.)<br>
+_total subscriptions_: 91,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 425,507 (2019)<br>
-_subscriptions per 100 inhabitants_: 109.3 (2019 est.)<br>
+_total subscriptions_: 466,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector across the Caribbean continues to be a growth area, contributing to the country's overall GDP; totally automatic system; highly developed; operators focus investment on mobile networks; the activation of (mobile number portability) MNP in April 2017, allowing mobile subscribers to port their numbers between competing MNO (mobile network operators) has contributed to the competition and liberalization of the market (2020)<br>
@@ -574,8 +574,8 @@ _total_: 342,126 (2020 est.)<br>
 _percent of population_: 87% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 83,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 21.11 (2021)<br>
+_total_: 83,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 21 (2020 est.)<br>
 
 ## Transportation
 

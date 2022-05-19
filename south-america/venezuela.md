@@ -393,7 +393,7 @@ _selected World Heritage Site locales_: Coro and its Port (c), Canaima National 
 ## Economy
 
 **Economic overview**<br>
-<p>Venezuela remains highly dependent on oil revenues, which account for almost all export earnings and nearly half of the government’s revenue, despite a continued decline in oil production in 2017. In the absence of official statistics, foreign experts estimate that GDP contracted 12% in 2017, inflation exceeded 2000%, people faced widespread shortages of consumer goods and medicine, and the central bank's international reserves dwindled. In late 2017, Venezuela also entered selective default on some of its sovereign and state oil company, Petroleos de Venezuela, S.A., (PDVSA) bonds. Domestic production and industry continues to severely underperform and the Venezuelan Government continues to rely on imports to meet its basic food and consumer goods needs.</p><p></p><p>Falling oil prices since 2014 have aggravated Venezuela’s economic crisis. Insufficient access to dollars, price controls, and rigid labor regulations have led some US and multinational firms to reduce or shut down their Venezuelan operations. Market uncertainty and PDVSA’s poor cash flow have slowed investment in the petroleum sector, resulting in a decline in oil production.</p><p></p><p>Under President Nicolas MADURO, the Venezuelan Government’s response to the economic crisis has been to increase state control over the economy and blame the private sector for shortages. MADURO has given authority for the production and distribution of basic goods to the military and to local socialist party member committees. The Venezuelan Government has maintained strict currency controls since 2003. The government has been unable to sustain its mechanisms for distributing dollars to the private sector, in part because it needed to withhold some foreign exchange reserves to make its foreign bond payments. As a result of price and currency controls, local industries have struggled to purchase production inputs necessary to maintain their operations or sell goods at a profit on the local market. Expansionary monetary policies and currency controls have created opportunities for arbitrage and corruption and fueled a rapid increase in black market activity.</p><br>
+<p>Venezuela remains highly dependent on oil revenues, which account for almost all export earnings and nearly half of the government’s revenue, despite a continued decline in oil production in 2017. In the absence of official statistics, foreign experts estimate that GDP contracted 12% in 2017, inflation exceeded 2000%, people faced widespread shortages of consumer goods and medicine, and the central bank's international reserves dwindled. In late 2017, Venezuela also entered selective default on some of its sovereign and state oil company, Petroleos de Venezuela, S.A., (PDVSA) bonds. Domestic production and industry continues to severely underperform and the Venezuelan Government continues to rely on imports to meet its basic food and consumer goods needs.</p> <p> </p> <p>Falling oil prices since 2014 have aggravated Venezuela’s economic crisis. Insufficient access to dollars, price controls, and rigid labor regulations have led some US and multinational firms to reduce or shut down their Venezuelan operations. Market uncertainty and PDVSA’s poor cash flow have slowed investment in the petroleum sector, resulting in a decline in oil production.</p> <p> </p> <p>Under President Nicolas MADURO, the Venezuelan Government’s response to the economic crisis has been to increase state control over the economy and blame the private sector for shortages. MADURO has given authority for the production and distribution of basic goods to the military and to local socialist party member committees. The Venezuelan Government has maintained strict currency controls since 2003. The government has been unable to sustain its mechanisms for distributing dollars to the private sector, in part because it needed to withhold some foreign exchange reserves to make its foreign bond payments. As a result of price and currency controls, local industries have struggled to purchase production inputs necessary to maintain their operations or sell goods at a profit on the local market. Expansionary monetary policies and currency controls have created opportunities for arbitrage and corruption and fueled a rapid increase in black market activity.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $269.068 billion (2018 est.)<br>
@@ -606,8 +606,8 @@ _electrification - rural areas_: 99% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,276,274 (2020)<br>
-_subscriptions per 100 inhabitants_: 18.55 (2020 est.)<br>
+_total subscriptions_: 5,251,182 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 13,476,300 (2019)<br>
@@ -630,8 +630,8 @@ _total_: 20,531,397 (2019 est.)<br>
 _percent of population_: 72% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,561,556 (2021)<br>
-_subscriptions per 100 inhabitants_: 9.01 (2021 est.)<br>
+_total_: 2,561,556 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
 
 ## Transportation
 

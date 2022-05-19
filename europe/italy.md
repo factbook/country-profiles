@@ -396,7 +396,7 @@ _selected World Heritage Site locales_: Historic Center of Rome (c); Archaeologi
 ## Economy
 
 **Economic overview**<br>
-<p>Italy’s economy comprises a developed industrial north, dominated by private companies, and a less-developed, highly subsidized, agricultural south, with a legacy of unemployment and underdevelopment. The Italian economy is driven in large part by the manufacture of high-quality consumer goods produced by small and medium-sized enterprises, many of them family-owned. Italy also has a sizable underground economy, which by some estimates accounts for as much as 17% of GDP. These activities are most common within the agriculture, construction, and service sectors.</p><p></p><p>Italy is the third-largest economy in the euro zone, but its exceptionally high public debt and structural impediments to growth have rendered it vulnerable to scrutiny by financial markets. Public debt has increased steadily since 2007, reaching 131% of GDP in 2017. Investor concerns about Italy and the broader euro-zone crisis eased in 2013, bringing down Italy's borrowing costs on sovereign government debt from euro-era records. The government still faces pressure from investors and European partners to sustain its efforts to address Italy's longstanding structural economic problems, including labor market inefficiencies, a sluggish judicial system, and a weak banking sector. Italy’s economy returned to modest growth in late 2014 for the first time since 2011. In 2015-16, Italy’s economy grew at about 1% each year, and in 2017 growth accelerated to 1.5% of GDP. In 2017, overall unemployment was 11.4%, but youth unemployment remained high at 37.1%. GDP growth is projected to slow slightly in 2018.</p><br>
+<p>Italy’s economy comprises a developed industrial north, dominated by private companies, and a less-developed, highly subsidized, agricultural south, with a legacy of unemployment and underdevelopment. The Italian economy is driven in large part by the manufacture of high-quality consumer goods produced by small and medium-sized enterprises, many of them family-owned. Italy also has a sizable underground economy, which by some estimates accounts for as much as 17% of GDP. These activities are most common within the agriculture, construction, and service sectors.</p> <p> </p> <p>Italy is the third-largest economy in the euro zone, but its exceptionally high public debt and structural impediments to growth have rendered it vulnerable to scrutiny by financial markets. Public debt has increased steadily since 2007, reaching 131% of GDP in 2017. Investor concerns about Italy and the broader euro-zone crisis eased in 2013, bringing down Italy's borrowing costs on sovereign government debt from euro-era records. The government still faces pressure from investors and European partners to sustain its efforts to address Italy's longstanding structural economic problems, including labor market inefficiencies, a sluggish judicial system, and a weak banking sector. Italy’s economy returned to modest growth in late 2014 for the first time since 2011. In 2015-16, Italy’s economy grew at about 1% each year, and in 2017 growth accelerated to 1.5% of GDP. In 2017, overall unemployment was 11.4%, but youth unemployment remained high at 37.1%. GDP growth is projected to slow slightly in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2,322,140,000,000 (2020 est.)<br>
@@ -612,8 +612,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19,430,559 (2020)<br>
-_subscriptions per 100 inhabitants_: 32.14 (2020 est.)<br>
+_total subscriptions_: 19,607,341 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 77,796,840 (2020)<br>
@@ -636,8 +636,8 @@ _total_: 41,614,669 (2020 est.)<br>
 _percent of population_: 70% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 18,128,787 (2021)<br>
-_subscriptions per 100 inhabitants_: 29.98 (2021)<br>
+_total_: 18,128,787 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2020 est.)<br>
 
 ## Transportation
 
@@ -739,7 +739,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 601,011 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
+<strong>note:</strong> 603,001 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

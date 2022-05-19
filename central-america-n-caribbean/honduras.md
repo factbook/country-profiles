@@ -371,7 +371,7 @@ _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New Orlea
 _consulate(s)_: Dallas, McAllen (TX)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Colleen A. HOEY (since August 2019)<br>
+_chief of mission_: Ambassador Laura F. DOGU (since 12 April 2022)<br>
 _embassy_: Avenida La Paz, Tegucigalpa M.D.C.<br>
 _mailing address_: 3480 Tegucigalpa Place, Washington DC&nbsp; 20521-3480<br>
 _telephone_: [504] 2236-9320,<br>
@@ -397,7 +397,7 @@ _selected World Heritage Site locales_: Maya Site of Copan (c), Río Plátano Bi
 ## Economy
 
 **Economic overview**<br>
-<p>Honduras, the second poorest country in Central America, suffers from extraordinarily unequal distribution of income, as well as high underemployment. While historically dependent on the export of bananas and coffee, Honduras has diversified its export base to include apparel and automobile wire harnessing.</p><p></p><p>Honduras’s economy depends heavily on US trade and remittances. The US-Central America-Dominican Republic Free Trade Agreement came into force in 2006 and has helped foster foreign direct investment, but physical and political insecurity, as well as crime and perceptions of corruption, may deter potential investors; about 15% of foreign direct investment is from US firms.</p><p></p><p>The economy registered modest economic growth of 3.1%-4.0% from 2010 to 2017, insufficient to improve living standards for the nearly 65% of the population in poverty. In 2017, Honduras faced rising public debt, but its economy has performed better than expected due to low oil prices and improved investor confidence. Honduras signed a three-year standby arrangement with the IMF in December 2014, aimed at easing Honduras’s poor fiscal position.</p><br>
+<p>Honduras, the second poorest country in Central America, suffers from extraordinarily unequal distribution of income, as well as high underemployment. While historically dependent on the export of bananas and coffee, Honduras has diversified its export base to include apparel and automobile wire harnessing.</p> <p> </p> <p>Honduras’s economy depends heavily on US trade and remittances. The US-Central America-Dominican Republic Free Trade Agreement came into force in 2006 and has helped foster foreign direct investment, but physical and political insecurity, as well as crime and perceptions of corruption, may deter potential investors; about 15% of foreign direct investment is from US firms.</p> <p> </p> <p>The economy registered modest economic growth of 3.1%-4.0% from 2010 to 2017, insufficient to improve living standards for the nearly 65% of the population in poverty. In 2017, Honduras faced rising public debt, but its economy has performed better than expected due to low oil prices and improved investor confidence. Honduras signed a three-year standby arrangement with the IMF in December 2014, aimed at easing Honduras’s poor fiscal position.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $50.89 billion (2020 est.)<br>
@@ -612,8 +612,8 @@ _electrification - rural areas_: 68% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 531,763 (2020)<br>
-_subscriptions per 100 inhabitants_: 5.37 (2020 est.)<br>
+_total subscriptions_: 531,763 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6,960,654 (2020)<br>
@@ -636,8 +636,8 @@ _total_: 4,159,935 (2020 est.)<br>
 _percent of population_: 42% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 396,916 (2021)<br>
-_subscriptions per 100 inhabitants_: 4.01 (2021 est.)<br>
+_total_: 396,916 (2020)<br>
+_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 ## Transportation
 
@@ -694,11 +694,11 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 note - the PMOP was created in 2013 as part of an effort by the Honduran Government to expand the military&rsquo;s role in law enforcement alongside the Honduran National Police (HNP), particularly against narcotics trafficking and organized crime; since its creation, the PMOP&rsquo;s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2021, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who have undergone some police training; it reported to military authorities but conducts operations sanctioned by both civilian security officials and military leaders<br>
 
 **Military expenditures**<br>
+1.6% of GDP (2021 est.)<br>
 1.6% of GDP (2020 est.)<br>
 1.6% of GDP (2019 est.) (approximately $510 million)<br>
 1.6% of GDP (2018 est.) (approximately $500 million)<br>
 1.7% of GDP (2017 est.) (approximately $510 million)<br>
-1.7% of GDP (2016 est.) (approximately $470 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Honduran Armed Forces (FFAA) have approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Public Order Military Police); approximately 18,000 National Police (2021)<br>

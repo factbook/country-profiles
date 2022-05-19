@@ -455,7 +455,7 @@ Saint Helenian pounds (SHP) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,000 (2018)<br>
+_total subscriptions_: 3,000 (2018 est.)<br>
 _subscriptions per 100 inhabitants_: 49.93 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -479,8 +479,8 @@ _total_: 2,302 (2019 est.)<br>
 _percent of population_: 38% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 16.64 (2021 est.)<br>
+_total_: 1,000 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
 
 **Communications - note**<br>
 Ascension Island hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Diego Garcia (British Indian Ocean Territory), Kwajalein (Marshall Islands), and at Cape Canaveral, Florida (US)); South Africa maintains a meteorological station on Gough Island in the Tristan da Cunha archipelago<br>

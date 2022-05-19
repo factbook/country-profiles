@@ -383,7 +383,7 @@ _lyrics/music_: Alda Neves DA GRACA do Espirito Santo/Manuel dos Santos Barreto 
 ## Economy
 
 **Economic overview**<br>
-<p>The economy of São Tomé and Príncipe is small, based mainly on agricultural production, and, since independence in 1975, increasingly dependent on the export of cocoa beans. Cocoa production has substantially declined in recent years because of drought and mismanagement. Sao Tome depends heavily on imports of food, fuels, most manufactured goods, and consumer goods, and changes in commodity prices affect the country’s inflation rate. Maintaining control of inflation, fiscal discipline, and increasing flows of foreign direct investment into the nascent oil sector are major economic problems facing the country. In recent years the government has attempted to reduce price controls and subsidies. In 2017, several business-related laws were enacted that aim to improve the business climate.</p><p></p><p>São Tomé and Príncipe has had difficulty servicing its external debt and has relied heavily on concessional aid and debt rescheduling. In April 2011, the country completed a Threshold Country Program with The Millennium Challenge Corporation to help increase tax revenues, reform customs, and improve the business environment. In 2016, Sao Tome and Portugal signed a five-year cooperation agreement worth approximately $64 million, some of which will be provided as loans. In 2017, China and São Tomé signed a mutual cooperation agreement in areas such as infrastructure, health, and agriculture worth approximately $146 million over five years.</p><p></p><p>Considerable potential exists for development of tourism, and the government has taken steps to expand tourist facilities in recent years. Potential also exists for the development of petroleum resources in São Tomé and Príncipe's territorial waters in the oil-rich Gulf of Guinea, some of which are being jointly developed in a 60-40 split with Nigeria, but production is at least several years off.</p><p></p><p>Volatile aid and investment inflows have limited growth, and poverty remains high. Restricteded capacity at the main port increases the periodic risk of shortages of consumer goods. Contract enforcement in the country’s judicial system is difficult. The IMF in late 2016 expressed concern about vulnerabilities in the country’s banking sector, although the country plans some austerity measures in line with IMF recommendations under their three year extended credit facility. Deforestation, coastal erosion, poor waste management, and misuse of natural resources also are challenging issues.</p><br>
+<p>The economy of São Tomé and Príncipe is small, based mainly on agricultural production, and, since independence in 1975, increasingly dependent on the export of cocoa beans. Cocoa production has substantially declined in recent years because of drought and mismanagement. Sao Tome depends heavily on imports of food, fuels, most manufactured goods, and consumer goods, and changes in commodity prices affect the country’s inflation rate. Maintaining control of inflation, fiscal discipline, and increasing flows of foreign direct investment into the nascent oil sector are major economic problems facing the country. In recent years the government has attempted to reduce price controls and subsidies. In 2017, several business-related laws were enacted that aim to improve the business climate.</p> <p> </p> <p>São Tomé and Príncipe has had difficulty servicing its external debt and has relied heavily on concessional aid and debt rescheduling. In April 2011, the country completed a Threshold Country Program with The Millennium Challenge Corporation to help increase tax revenues, reform customs, and improve the business environment. In 2016, Sao Tome and Portugal signed a five-year cooperation agreement worth approximately $64 million, some of which will be provided as loans. In 2017, China and São Tomé signed a mutual cooperation agreement in areas such as infrastructure, health, and agriculture worth approximately $146 million over five years.</p> <p> </p> <p>Considerable potential exists for development of tourism, and the government has taken steps to expand tourist facilities in recent years. Potential also exists for the development of petroleum resources in São Tomé and Príncipe's territorial waters in the oil-rich Gulf of Guinea, some of which are being jointly developed in a 60-40 split with Nigeria, but production is at least several years off.</p> <p> </p> <p>Volatile aid and investment inflows have limited growth, and poverty remains high. Restricteded capacity at the main port increases the periodic risk of shortages of consumer goods. Contract enforcement in the country’s judicial system is difficult. The IMF in late 2016 expressed concern about vulnerabilities in the country’s banking sector, although the country plans some austerity measures in line with IMF recommendations under their three year extended credit facility. Deforestation, coastal erosion, poor waste management, and misuse of natural resources also are challenging issues.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $890 million (2020 est.)<br>
@@ -594,8 +594,8 @@ _electrification - rural areas_: 25% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,720 (2020)<br>
-_subscriptions per 100 inhabitants_: 1.24 (2020 est.)<br>
+_total subscriptions_: 2,790 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 165,761 (2019)<br>
@@ -618,8 +618,8 @@ _total_: 72,323 (2020 est.)<br>
 _percent of population_: 33% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,512 (2021)<br>
-_subscriptions per 100 inhabitants_: 1.15 (2021)<br>
+_total_: 2,512 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1.15 (2020 est.)<br>
 
 ## Transportation
 

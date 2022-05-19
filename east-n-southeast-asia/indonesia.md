@@ -416,7 +416,7 @@ _selected World Heritage Site locales_: Borobudur Temple Compounds (c), Komodo N
 ## Economy
 
 **Economic overview**<br>
-<p>Indonesia, the largest economy in Southeast Asia, has seen a slowdown in growth since 2012, mostly due to the end of the commodities export boom. During the global financial crisis, Indonesia outperformed its regional neighbors and joined China and India as the only G20 members posting growth. Indonesia’s annual budget deficit is capped at 3% of GDP, and the Government of Indonesia lowered its debt-to-GDP ratio from a peak of 100% shortly after the Asian financial crisis in 1999 to 34% today. In May 2017 Standard &amp; Poor’s became the last major ratings agency to upgrade Indonesia’s sovereign credit rating to investment grade.</p><p></p><p>Poverty and unemployment, inadequate infrastructure, corruption, a complex regulatory environment, and unequal resource distribution among its regions are still part of Indonesia’s economic landscape. President Joko WIDODO - elected in July 2014 – seeks to develop Indonesia’s maritime resources and pursue other infrastructure development, including significantly increasing its electrical power generation capacity. Fuel subsidies were significantly reduced in early 2015, a move which has helped the government redirect its spending to development priorities. Indonesia, with the nine other ASEAN members, will continue to move towards participation in the ASEAN Economic Community, though full implementation of economic integration has not yet materialized.</p><br>
+<p>Indonesia, the largest economy in Southeast Asia, has seen a slowdown in growth since 2012, mostly due to the end of the commodities export boom. During the global financial crisis, Indonesia outperformed its regional neighbors and joined China and India as the only G20 members posting growth. Indonesia’s annual budget deficit is capped at 3% of GDP, and the Government of Indonesia lowered its debt-to-GDP ratio from a peak of 100% shortly after the Asian financial crisis in 1999 to 34% today. In May 2017 Standard &amp; Poor’s became the last major ratings agency to upgrade Indonesia’s sovereign credit rating to investment grade.</p> <p> </p> <p>Poverty and unemployment, inadequate infrastructure, corruption, a complex regulatory environment, and unequal resource distribution among its regions are still part of Indonesia’s economic landscape. President Joko WIDODO - elected in July 2014 – seeks to develop Indonesia’s maritime resources and pursue other infrastructure development, including significantly increasing its electrical power generation capacity. Fuel subsidies were significantly reduced in early 2015, a move which has helped the government redirect its spending to development priorities. Indonesia, with the nine other ASEAN members, will continue to move towards participation in the ASEAN Economic Community, though full implementation of economic integration has not yet materialized.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $3,130,470,000,000 (2020 est.)<br>
@@ -632,8 +632,8 @@ _electrification - rural areas_: 99% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 9,186,370 (2020)<br>
-_subscriptions per 100 inhabitants_: 3.36 (2020 est.)<br>
+_total subscriptions_: 9,662,135 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 355,748,606 (2020)<br>
@@ -656,8 +656,8 @@ _total_: 147,702,755 (2020 est.)<br>
 _percent of population_: 54% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 11,722,218 (2021)<br>
-_subscriptions per 100 inhabitants_: 4.29 (2021 est.)<br>
+_total_: 11,722,218 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 ## Transportation
 

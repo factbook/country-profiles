@@ -411,7 +411,7 @@ _selected World Heritage Site locales_: Mbanza-Kongo<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Angola's economy is overwhelmingly driven by its oil sector. Oil production and its supporting activities contribute about 50% of GDP, more than 70% of government revenue, and more than 90% of the country's exports; Angola is an OPEC member and subject to its direction regarding oil production levels. Diamonds contribute an additional 5% to exports. Subsistence agriculture provides the main livelihood for most of the people, but half of the country's food is still imported.</p><p></p><p>Increased oil production supported growth averaging more than 17% per year from 2004 to 2008. A postwar reconstruction boom and resettlement of displaced persons led to high rates of growth in construction and agriculture as well. Some of the country's infrastructure is still damaged or undeveloped from the 27-year-long civil war (1975-2002). However, the government since 2005 has used billions of dollars in credit from China, Brazil, Portugal, Germany, Spain, and the EU to help rebuild Angola's public infrastructure. Land mines left from the war still mar the countryside, and as a result, the national military, international partners, and private Angolan firms all continue to remove them.</p><p></p><p>The global recession that started in 2008 stalled Angola’s economic growth and many construction projects stopped because Luanda accrued billions in arrears to foreign construction companies when government revenue fell. Lower prices for oil and diamonds also resulted in GDP falling 0.7% in 2016. Angola formally abandoned its currency peg in 2009 but reinstituted it in April 2016 and maintains an overvalued exchange rate. In late 2016, Angola lost the last of its correspondent relationships with foreign banks, further exacerbating hard currency problems. Since 2013 the central bank has consistently spent down reserves to defend the kwanza, gradually allowing a 40% depreciation since late 2014. Consumer inflation declined from 325% in 2000 to less than 9% in 2014, before rising again to above 30% from 2015-2017.</p><p></p><p>Continued low oil prices, the depreciation of the kwanza, and slower than expected growth in non-oil GDP have reduced growth prospects, although several major international oil companies remain in Angola. Corruption, especially in the extractive sectors, is a major long-term challenge that poses an additional threat to the economy.</p><br>
+<p>Angola's economy is overwhelmingly driven by its oil sector. Oil production and its supporting activities contribute about 50% of GDP, more than 70% of government revenue, and more than 90% of the country's exports; Angola is an OPEC member and subject to its direction regarding oil production levels. Diamonds contribute an additional 5% to exports. Subsistence agriculture provides the main livelihood for most of the people, but half of the country's food is still imported.</p> <p> </p> <p>Increased oil production supported growth averaging more than 17% per year from 2004 to 2008. A postwar reconstruction boom and resettlement of displaced persons led to high rates of growth in construction and agriculture as well. Some of the country's infrastructure is still damaged or undeveloped from the 27-year-long civil war (1975-2002). However, the government since 2005 has used billions of dollars in credit from China, Brazil, Portugal, Germany, Spain, and the EU to help rebuild Angola's public infrastructure. Land mines left from the war still mar the countryside, and as a result, the national military, international partners, and private Angolan firms all continue to remove them.</p> <p> </p> <p>The global recession that started in 2008 stalled Angola’s economic growth and many construction projects stopped because Luanda accrued billions in arrears to foreign construction companies when government revenue fell. Lower prices for oil and diamonds also resulted in GDP falling 0.7% in 2016. Angola formally abandoned its currency peg in 2009 but reinstituted it in April 2016 and maintains an overvalued exchange rate. In late 2016, Angola lost the last of its correspondent relationships with foreign banks, further exacerbating hard currency problems. Since 2013 the central bank has consistently spent down reserves to defend the kwanza, gradually allowing a 40% depreciation since late 2014. Consumer inflation declined from 325% in 2000 to less than 9% in 2014, before rising again to above 30% from 2015-2017.</p> <p> </p> <p>Continued low oil prices, the depreciation of the kwanza, and slower than expected growth in non-oil GDP have reduced growth prospects, although several major international oil companies remain in Angola. Corruption, especially in the extractive sectors, is a major long-term challenge that poses an additional threat to the economy.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $203.71 billion (2020 est.)<br>
@@ -626,12 +626,12 @@ _electrification - rural areas_: 6% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 119,164 (2020)<br>
-_subscriptions per 100 inhabitants_: (2020) less than 1<br>
+_total subscriptions_: 119,164 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14,645,050 (2020)<br>
-_subscriptions per 100 inhabitants_: 44.56 (2020 est.)<br>
+_total subscriptions_: 14,645,050 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 45 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Angola&rsquo;s telecom sector shows consistent recovery following political stability, encouraging foreign investment; while the government opened the telecom sector to new competitors, there has been slow progress in LTE network development; only a small proportion of the country is covered by the 3G network infrastructure; Internet and mobile phone penetration remains low, hindered by high costs and poor infrastructure that limits access, especially in rural areas; upgrading telecom will support e-commerce, and rural access to education and health care; AngoSat-2 satellite expected to be ready in 2021; government aims to connect an additional 160,000 people to free Wi-Fi; importer of broadcasting equipment from China (2021)<br>
@@ -650,8 +650,8 @@ _total_: 11,831,857 (2020 est.)<br>
 _percent of population_: 36% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 230,610 (2021) This year we included fixed wireless technologies.<br>
-_subscriptions per 100 inhabitants_: 0.7 (2021 est.) less than 1<br>
+_total_: 230,610 (2020 est.) This year we included fixed wireless technologies.<br>
+_subscriptions per 100 inhabitants_: 0.7 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -715,11 +715,11 @@ _LNG terminal(s) (export)_: Angola Soyo<br>
 Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA; under operational control of the Army); Rapid Reaction Police (paramilitary) (2021)<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2021 est.)<br>
 1.7% of GDP (2020 est.)<br>
 1.8% of GDP (2019 est.) (approximately $2.7 billion)<br>
 2.1% of GDP (2018 est.) (approximately $3.02 billion)<br>
 2.6% of GDP (2017 est.) (approximately $3.65 billion)<br>
-2.9% of GDP (2016 est.) (approximately $3.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 101,000 active troops (95,000 Army; 1,000 Navy; 5,000 Air Force); est. 10,000 Rapid Reaction Police (2021)<br>

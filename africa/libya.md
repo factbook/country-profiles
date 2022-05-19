@@ -379,7 +379,7 @@ _selected World Heritage Site locales_: Archaeological Site of Cyrene, Archaeolo
 ## Economy
 
 **Economic overview**<br>
-<p>Libya's economy, almost entirely dependent on oil and gas exports, has struggled since 2014 given security and political instability, disruptions in oil production, and decline in global oil prices. The Libyan dinar has lost much of its value since 2014 and the resulting gap between official and black market exchange rates has spurred the growth of a shadow economy and contributed to inflation. The country suffers from widespread power outages, caused by shortages of fuel for power generation. Living conditions, including access to clean drinking water, medical services, and safe housing have all declined since 2011. Oil production in 2017 reached a five-year high, driving GDP growth, with daily average production rising to 879,000 barrels per day. However, oil production levels remain below the average pre-Revolution highs of 1.6 million barrels per day.</p><p></p><p>The Central Bank of Libya continued to pay government salaries to a majority of the Libyan workforce and to fund subsidies for fuel and food, resulting in an estimated budget deficit of about 17% of GDP in 2017. Low consumer confidence in the banking sector and the economy as a whole has driven a severe liquidity shortage.</p><br>
+<p>Libya's economy, almost entirely dependent on oil and gas exports, has struggled since 2014 given security and political instability, disruptions in oil production, and decline in global oil prices. The Libyan dinar has lost much of its value since 2014 and the resulting gap between official and black market exchange rates has spurred the growth of a shadow economy and contributed to inflation. The country suffers from widespread power outages, caused by shortages of fuel for power generation. Living conditions, including access to clean drinking water, medical services, and safe housing have all declined since 2011. Oil production in 2017 reached a five-year high, driving GDP growth, with daily average production rising to 879,000 barrels per day. However, oil production levels remain below the average pre-Revolution highs of 1.6 million barrels per day.</p> <p> </p> <p>The Central Bank of Libya continued to pay government salaries to a majority of the Libyan workforce and to fund subsidies for fuel and food, resulting in an estimated budget deficit of about 17% of GDP in 2017. Low consumer confidence in the banking sector and the economy as a whole has driven a severe liquidity shortage.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $70.65 billion (2020 est.)<br>
@@ -583,8 +583,8 @@ _electrification - total population_: 100% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.576 million (2018)<br>
-_subscriptions per 100 inhabitants_: 23.95 (2018 est.)<br>
+_total subscriptions_: 1.576 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6.02 million (2018)<br>
@@ -607,8 +607,8 @@ _total_: 1,491,040 (2019 est.)<br>
 _percent of population_: 22% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 33,200 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 4.83 (2021 est.)<br>
+_total_: 332,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 
 ## Transportation
 

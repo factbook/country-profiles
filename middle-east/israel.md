@@ -88,7 +88,7 @@ _noun_: Israeli(s)<br>
 _adjective_: Israeli<br>
 
 **Ethnic groups**<br>
-Jewish 74.1% (of which Israel-born 78.1%, Europe/America/Oceania-born 15.2%, Africa-born 4.3%, Asia-born 2.4%), Arab 21%, other 4.9% (2019 est.)<br>
+Jewish 74% (of which Israel-born 78.7%, Europe/America/Oceania-born 14.8%, Africa-born 4.2%, Asia-born 2.3%), Arab 21.1%, other 4.9% (2020 est.)<br>
 
 **Languages**<br>
 Hebrew (official), Arabic (special status under Israeli law), English (most commonly used foreign language)<br>
@@ -616,8 +616,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3.08 million (2020)<br>
-_subscriptions per 100 inhabitants_: 35.58 (2020 est.)<br>
+_total subscriptions_: 3.37 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 39 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 11.4 million (2020)<br>
@@ -640,8 +640,8 @@ _total_: 8,293,590 (2020 est.)<br>
 _percent of population_: 90% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,602,079 (2021)<br>
-_subscriptions per 100 inhabitants_: 30.06 (2021 est.)<br>
+_total_: 2,602,079 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2020 est.)<br>
 
 ## Transportation
 
@@ -699,11 +699,11 @@ Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes com
 note - the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and the IDF<br>
 
 **Military expenditures**<br>
+5% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
 5.2% of GDP (2019 est.) (approximately $20 billion)<br>
 5.3% of GDP (2018 est.) (approximately $19.9 billion)<br>
 5.5% of GDP (2017 est.) (approximately $19.7 billion)<br>
-5.6% of GDP (2016 est.) (approximately $19.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 173,000 active personnel (130,000 Ground Forces; 9,000 Naval; 34,000 Air Force) (2021)<br>

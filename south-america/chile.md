@@ -387,7 +387,7 @@ _selected World Heritage Site locales_: Rapa Nui National Park; Churches of Chil
 ## Economy
 
 **Economic overview**<br>
-<p>Chile has a market-oriented economy characterized by a high level of foreign trade and a reputation for strong financial institutions and sound policy that have given it the strongest sovereign bond rating in South America. Exports of goods and services account for approximately one-third of GDP, with commodities making up some 60% of total exports. Copper is Chile’s top export and provides 20% of government revenue.</p><p></p><p>From 2003 through 2013, real growth averaged almost 5% per year, despite a slight contraction in 2009 that resulted from the global financial crisis. Growth slowed to an estimated 1.4% in 2017. A continued drop in copper prices prompted Chile to experience its third consecutive year of slow growth.</p><p></p><p>Chile deepened its longstanding commitment to trade liberalization with the signing of a free trade agreement with the US, effective 1 January 2004. Chile has 26 trade agreements covering 60 countries including agreements with the EU, Mercosur, China, India, South Korea, and Mexico. In May 2010, Chile signed the OECD Convention, becoming the first South American country to join the OECD. In October 2015, Chile signed the Trans-Pacific Partnership trade agreement, which was finalized as the Comprehensive and Progressive Trans-Pacific Partnership (CPTPP) and signed at a ceremony in Chile in March 2018.</p><p></p><p>The Chilean Government has generally followed a countercyclical fiscal policy, under which it accumulates surpluses in sovereign wealth funds during periods of high copper prices and economic growth, and generally allows deficit spending only during periods of low copper prices and growth. As of 31 October 2016, those sovereign wealth funds - kept mostly outside the country and separate from Central Bank reserves - amounted to more than $23.5 billion. Chile used these funds to finance fiscal stimulus packages during the 2009 economic downturn.</p><p></p><p>In 2014, then-President Michelle BACHELET introduced tax reforms aimed at delivering her campaign promise to fight inequality and to provide access to education and health care. The reforms are expected to generate additional tax revenues equal to 3% of Chile’s GDP, mostly by increasing corporate tax rates to OECD averages.</p><br>
+<p>Chile has a market-oriented economy characterized by a high level of foreign trade and a reputation for strong financial institutions and sound policy that have given it the strongest sovereign bond rating in South America. Exports of goods and services account for approximately one-third of GDP, with commodities making up some 60% of total exports. Copper is Chile’s top export and provides 20% of government revenue.</p> <p> </p> <p>From 2003 through 2013, real growth averaged almost 5% per year, despite a slight contraction in 2009 that resulted from the global financial crisis. Growth slowed to an estimated 1.4% in 2017. A continued drop in copper prices prompted Chile to experience its third consecutive year of slow growth.</p> <p> </p> <p>Chile deepened its longstanding commitment to trade liberalization with the signing of a free trade agreement with the US, effective 1 January 2004. Chile has 26 trade agreements covering 60 countries including agreements with the EU, Mercosur, China, India, South Korea, and Mexico. In May 2010, Chile signed the OECD Convention, becoming the first South American country to join the OECD. In October 2015, Chile signed the Trans-Pacific Partnership trade agreement, which was finalized as the Comprehensive and Progressive Trans-Pacific Partnership (CPTPP) and signed at a ceremony in Chile in March 2018.</p> <p> </p> <p>The Chilean Government has generally followed a countercyclical fiscal policy, under which it accumulates surpluses in sovereign wealth funds during periods of high copper prices and economic growth, and generally allows deficit spending only during periods of low copper prices and growth. As of 31 October 2016, those sovereign wealth funds - kept mostly outside the country and separate from Central Bank reserves - amounted to more than $23.5 billion. Chile used these funds to finance fiscal stimulus packages during the 2009 economic downturn.</p> <p> </p> <p>In 2014, then-President Michelle BACHELET introduced tax reforms aimed at delivering her campaign promise to fight inequality and to provide access to education and health care. The reforms are expected to generate additional tax revenues equal to 3% of Chile’s GDP, mostly by increasing corporate tax rates to OECD averages.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $445.88 billion (2020 est.)<br>
@@ -602,8 +602,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,567,938 (2020)<br>
-_subscriptions per 100 inhabitants_: 13.43 (2020 est.)<br>
+_total subscriptions_: 2,567,938 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 25,068,249 (2020)<br>
@@ -626,8 +626,8 @@ _total_: 16,822,264 (2020 est.)<br>
 _percent of population_: 88% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,763,826 (2021)<br>
-_subscriptions per 100 inhabitants_: 19.69 (2021)<br>
+_total_: 3,763,826 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 20 (2020 est.)<br>
 
 ## Transportation
 
@@ -688,11 +688,11 @@ Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chi
 note - Carabineros de Chile are responsible to both the Ministry of Defense and the Ministry of the Interior<br>
 
 **Military expenditures**<br>
+1.9% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 1.9% of GDP (2019) (approximately $7.33 billion)<br>
 1.9% of GDP (2018) (approximately $7.2 billion)<br>
 2% of GDP (2017) (approximately $7.1 billion)<br>
-2% of GDP (2016) (approximately $6.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 75,000 active armed forces personnel (45,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2021)<br>

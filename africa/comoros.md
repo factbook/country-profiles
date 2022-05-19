@@ -365,7 +365,7 @@ _lyrics/music_: Said Hachim SIDI ABDEREMANE/Said Hachim SIDI ABDEREMANE and Kami
 ## Economy
 
 **Economic overview**<br>
-<p>One of the world's poorest and smallest economies, the Comoros is made up of three islands that are hampered by inadequate transportation links, a young and rapidly increasing population, and few natural resources. The low educational level of the labor force contributes to a subsistence level of economic activity and a heavy dependence on foreign grants and technical assistance. Agriculture, including fishing, hunting, and forestry, accounts for about 50% of GDP, employs a majority of the labor force, and provides most of the exports. Export income is heavily reliant on the three main crops of vanilla, cloves, and ylang ylang (perfume essence); and the Comoros' export earnings are easily disrupted by disasters such as fires and extreme weather. Despite agriculture’s importance to the economy, the country imports roughly 70% of its food; rice, the main staple, and other dried vegetables account for more than 25% of imports. Remittances from about 300,000 Comorans contribute about 25% of the country’s GDP. France, Comoros’s colonial power, remains a key trading partner and bilateral donor.</p><p></p><p>Comoros faces an education system in need of upgrades, limited opportunities for private commercial and industrial enterprises, poor health services, limited exports, and a high population growth rate. Recurring political instability, sometimes initiated from outside the country, and an ongoing electricity crisis have inhibited growth. The government, elected in mid-2016, has moved to improve revenue mobilization, reduce expenditures, and improve electricity access, although the public sector wage bill remains one of the highest in Sub-Saharan Africa. In mid-2017, Comoros joined the Southern African Development Community with 15 other regional member states.</p><br>
+<p>One of the world's poorest and smallest economies, the Comoros is made up of three islands that are hampered by inadequate transportation links, a young and rapidly increasing population, and few natural resources. The low educational level of the labor force contributes to a subsistence level of economic activity and a heavy dependence on foreign grants and technical assistance. Agriculture, including fishing, hunting, and forestry, accounts for about 50% of GDP, employs a majority of the labor force, and provides most of the exports. Export income is heavily reliant on the three main crops of vanilla, cloves, and ylang ylang (perfume essence); and the Comoros' export earnings are easily disrupted by disasters such as fires and extreme weather. Despite agriculture’s importance to the economy, the country imports roughly 70% of its food; rice, the main staple, and other dried vegetables account for more than 25% of imports. Remittances from about 300,000 Comorans contribute about 25% of the country’s GDP. France, Comoros’s colonial power, remains a key trading partner and bilateral donor.</p> <p> </p> <p>Comoros faces an education system in need of upgrades, limited opportunities for private commercial and industrial enterprises, poor health services, limited exports, and a high population growth rate. Recurring political instability, sometimes initiated from outside the country, and an ongoing electricity crisis have inhibited growth. The government, elected in mid-2016, has moved to improve revenue mobilization, reduce expenditures, and improve electricity access, although the public sector wage bill remains one of the highest in Sub-Saharan Africa. In mid-2017, Comoros joined the Southern African Development Community with 15 other regional member states.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.73 billion (2020 est.)<br>
@@ -572,8 +572,8 @@ _electrification - rural areas_: 62% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,573 (2020)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 7,573 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 472,815 (2020)<br>
@@ -596,8 +596,8 @@ _total_: 69,568 (2020 est.)<br>
 _percent of population_: 8% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,066 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.12 (2021) less than 1<br>
+_total_: 1,066 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.12 (2020 est.) less than 1<br>
 
 ## Transportation
 

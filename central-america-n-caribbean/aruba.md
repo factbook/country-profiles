@@ -293,7 +293,7 @@ _judge selection and term of office_: Joint Court judges appointed for life by t
 _subordinate courts_: &nbsp;Court in First Instance<br>
 
 **Political parties and leaders**<br>
-Accion21 [Miguel MANSUR]<br>Aruban People's Party or AVP [Michiel "Mike" EMAN]<br>Democratic Electoral Network or RED [L.R. CROES]<br>Movimiento Aruba Soberano or MAS [Marisol LOPEZ-TROMP]<br>People's Electoral Movement Party or MEP [Evelyn WEVER-CROES]<br>Pueblo Orguyoso y Respeta or POR [O.E. ODUBER]<br>RAIZ (ROOTS) [Ursell ARENDS]<br>Real Democracy or PDR [Andin BIKKER]<br>
+Accion21 [Miguel MANSUR]<br>Aruban People's Party or AVP [Michiel "Mike" EMAN]<br>Democratic Electoral Network or RED [L.R. CROES]<br>Movimiento Aruba Soberano or MAS [Marisol LOPEZ-TROMP]<br>People's Electoral Movement Party or MEP [Evelyn WEVER-CROES]<br>Pueblo Orguyoso y Respeta or POR [<u>Alan HOWELL</u>]<br>RAIZ (ROOTS) [Ursell ARENDS]<br>
 
 **International organization participation**<br>
 Caricom (observer), FATF, ILO, IMF, Interpol, IOC, ITUC (NGOs), UNESCO (associate), UNWTO (associate), UPU<br>
@@ -319,7 +319,7 @@ _lyrics/music_: Juan Chabaya 'Padu' LAMPE/Rufo Inocencio WEVER<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Tourism, petroleum bunkering, hospitality, and financial and business services are the mainstays of the small open Aruban economy.</p><p></p><p>Tourism accounts for a majority of economic activity; as of 2017, over 2 million tourists visited Aruba annually, with the large majority (80-85%) of those from the US. The rapid growth of the tourism sector has resulted in a substantial expansion of other activities. Construction continues to boom, especially in the hospitality sector.</p><p></p><p>Aruba is heavily dependent on imports and is making efforts to expand exports to improve its trade balance. Almost all consumer and capital goods are imported, with the US, the Netherlands, and Panama being the major suppliers.</p><p></p><p>In 2016, Citgo Petroleum Corporation, an indirect wholly owned subsidiary of Petroleos de Venezuela SA, and the Government of Aruba signed an agreement to restart Valero Energy Corp.'s former 235,000-b/d refinery. Tourism and related industries have continued to grow, and the Aruban Government is working to attract more diverse industries. Aruba's banking sector continues to be a strong sector; unemployment has significantly decreased.</p><br>
+<p>Tourism, petroleum bunkering, hospitality, and financial and business services are the mainstays of the small open Aruban economy.</p> <p> </p> <p>Tourism accounts for a majority of economic activity; as of 2017, over 2 million tourists visited Aruba annually, with the large majority (80-85%) of those from the US. The rapid growth of the tourism sector has resulted in a substantial expansion of other activities. Construction continues to boom, especially in the hospitality sector.</p> <p> </p> <p>Aruba is heavily dependent on imports and is making efforts to expand exports to improve its trade balance. Almost all consumer and capital goods are imported, with the US, the Netherlands, and Panama being the major suppliers.</p> <p> </p> <p>In 2016, Citgo Petroleum Corporation, an indirect wholly owned subsidiary of Petroleos de Venezuela SA, and the Government of Aruba signed an agreement to restart Valero Energy Corp.'s former 235,000-b/d refinery. Tourism and related industries have continued to grow, and the Aruban Government is working to attract more diverse industries. Aruba's banking sector continues to be a strong sector; unemployment has significantly decreased.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.05 billion (2017 est.)<br>
@@ -520,12 +520,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 35,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 33.54 (2018 est.)<br>
+_total subscriptions_: 35,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 141,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 135.1 (2018 est.)<br>
+_total subscriptions_: 141,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 132 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern fully automatic telecommunications system; increased competition through privatization has increased mobile-cellular teledensity; three mobile-cellular service providers are now licensed; MNO (mobile network operator) launched island-wide LTE services; MNP (mobile number portability) introduced (2018)<br>
@@ -544,8 +544,8 @@ _total_: 103,121 (2019 est.)<br>
 _percent of population_: 97% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 19,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 17.8 (2021)<br>
+_total_: 19,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2020 est.)<br>
 
 ## Transportation
 

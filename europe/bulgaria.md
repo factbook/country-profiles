@@ -391,7 +391,7 @@ _selected World Heritage Site locales_: Boyana Church (c), Madara Rider (c), Thr
 ## Economy
 
 **Economic overview**<br>
-<p>Bulgaria, a former communist country that entered the EU in 2007, has an open economy that historically has demonstrated strong growth, but its per-capita income remains the lowest among EU members and its reliance on energy imports and foreign demand for its exports makes its growth sensitive to external market conditions.</p><p></p><p>The government undertook significant structural economic reforms in the 1990s to move the economy from a centralized, planned economy to a more liberal, market-driven economy. These reforms included privatization of state-owned enterprises, liberalization of trade, and strengthening of the tax system - changes that initially caused some economic hardships but later helped to attract investment, spur growth, and make gradual improvements to living conditions. From 2000 through 2008, Bulgaria maintained robust, average annual real GDP growth in excess of 6%, which was followed by a deep recession in 2009 as the financial crisis caused domestic demand, exports, capital inflows and industrial production to contract, prompting the government to rein in spending. Real GDP growth remained slow - less than 2% annually - until 2015, when demand from EU countries for Bulgarian exports, plus an inflow of EU development funds, boosted growth to more than 3%. In recent years, strong domestic demand combined with low international energy prices have contributed to Bulgaria’s economic growth approaching 4% and have also helped to ease inflation. Bulgaria’s prudent public financial management contributed to budget surpluses both in 2016 and 2017.</p><p></p><p>Bulgaria is heavily reliant on energy imports from Russia, a potential vulnerability, and is a participant in EU-backed efforts to diversify regional natural gas supplies. In late 2016, the Bulgarian Government provided funding to Bulgaria’s National Electric Company to cover the $695 million compensation owed to Russian nuclear equipment manufacturer Atomstroyexport for the cancellation of the Belene Nuclear Power Plant project, which the Bulgarian Government terminated in 2012. As of early 2018, the government was floating the possibility of resurrecting the Belene project. The natural gas market, dominated by state-owned Bulgargaz, is also almost entirely supplied by Russia. Infrastructure projects such as the Inter-Connector Greece-Bulgaria and Inter-Connector Bulgaria-Serbia, which would enable Bulgaria to have access to non-Russian gas, have either stalled or made limited progress. In 2016, the Bulgarian Government established the State eGovernment Agency. This new agency is responsible for the electronic governance, coordinating national policies with the EU, and strengthening cybersecurity.</p><p></p><p>Despite a favorable investment regime, including low, flat corporate income taxes, significant challenges remain. Corruption in public administration, a weak judiciary, low productivity, lack of transparency in public procurements, and the presence of organized crime continue to hamper the country's investment climate and economic prospects.</p><br>
+<p>Bulgaria, a former communist country that entered the EU in 2007, has an open economy that historically has demonstrated strong growth, but its per-capita income remains the lowest among EU members and its reliance on energy imports and foreign demand for its exports makes its growth sensitive to external market conditions.</p> <p> </p> <p>The government undertook significant structural economic reforms in the 1990s to move the economy from a centralized, planned economy to a more liberal, market-driven economy. These reforms included privatization of state-owned enterprises, liberalization of trade, and strengthening of the tax system - changes that initially caused some economic hardships but later helped to attract investment, spur growth, and make gradual improvements to living conditions. From 2000 through 2008, Bulgaria maintained robust, average annual real GDP growth in excess of 6%, which was followed by a deep recession in 2009 as the financial crisis caused domestic demand, exports, capital inflows and industrial production to contract, prompting the government to rein in spending. Real GDP growth remained slow - less than 2% annually - until 2015, when demand from EU countries for Bulgarian exports, plus an inflow of EU development funds, boosted growth to more than 3%. In recent years, strong domestic demand combined with low international energy prices have contributed to Bulgaria’s economic growth approaching 4% and have also helped to ease inflation. Bulgaria’s prudent public financial management contributed to budget surpluses both in 2016 and 2017.</p> <p> </p> <p>Bulgaria is heavily reliant on energy imports from Russia, a potential vulnerability, and is a participant in EU-backed efforts to diversify regional natural gas supplies. In late 2016, the Bulgarian Government provided funding to Bulgaria’s National Electric Company to cover the $695 million compensation owed to Russian nuclear equipment manufacturer Atomstroyexport for the cancellation of the Belene Nuclear Power Plant project, which the Bulgarian Government terminated in 2012. As of early 2018, the government was floating the possibility of resurrecting the Belene project. The natural gas market, dominated by state-owned Bulgargaz, is also almost entirely supplied by Russia. Infrastructure projects such as the Inter-Connector Greece-Bulgaria and Inter-Connector Bulgaria-Serbia, which would enable Bulgaria to have access to non-Russian gas, have either stalled or made limited progress. In 2016, the Bulgarian Government established the State eGovernment Agency. This new agency is responsible for the electronic governance, coordinating national policies with the EU, and strengthening cybersecurity.</p> <p> </p> <p>Despite a favorable investment regime, including low, flat corporate income taxes, significant challenges remain. Corruption in public administration, a weak judiciary, low productivity, lack of transparency in public procurements, and the presence of organized crime continue to hamper the country's investment climate and economic prospects.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $155.06 billion (2020 est.)<br>
@@ -608,8 +608,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 872,323 (2020)<br>
-_subscriptions per 100 inhabitants_: 12.55 (2020 est.)<br>
+_total subscriptions_: 872,757 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 7,945,739 (2020)<br>
@@ -632,8 +632,8 @@ _total_: 4,853,811 (2020 est.)<br>
 _percent of population_: 70% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,115,053 (2021) Information provided by 91,03% of the undertakings. Dedicated access included.<br>
-_subscriptions per 100 inhabitants_: 30.44 (2021)<br>
+_total_: 2,115,053 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 30 (2020 est.)<br>
 
 ## Transportation
 
@@ -727,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,014 (Syria) (mid-year 2021)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
-<strong>note:</strong> 72,606 estimated refugee and migrant arrivals (January 2015-February 2022); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 74,107 estimated refugee and migrant arrivals (January 2015-March 2022); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 source country for amphetamine tablets<br>

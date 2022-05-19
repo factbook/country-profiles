@@ -426,7 +426,7 @@ _selected World Heritage Site locales_: Sukur Cultural Landscape, Osun-Osogbo Sa
 ## Economy
 
 **Economic overview**<br>
-<p>Nigeria is Sub Saharan Africa’s largest economy and relies heavily on oil as its main source of foreign exchange earnings and government revenues. Following the 2008-09 global financial crises, the banking sector was effectively recapitalized and regulation enhanced. Since then, Nigeria’s economic growth has been driven by growth in agriculture, telecommunications, and services. Economic diversification and strong growth have not translated into a significant decline in poverty levels; over 62% of Nigeria's over 180 million people still live in extreme poverty.</p><p></p><p>Despite its strong fundamentals, oil-rich Nigeria has been hobbled by inadequate power supply, lack of infrastructure, delays in the passage of legislative reforms, an inefficient property registration system, restrictive trade policies, an inconsistent regulatory environment, a slow and ineffective judicial system, unreliable dispute resolution mechanisms, insecurity, and pervasive corruption. Regulatory constraints and security risks have limited new investment in oil and natural gas, and Nigeria's oil production had been contracting every year since 2012 until a slight rebound in 2017.</p><p></p><p>President BUHARI, elected in March 2015, has established a cabinet of economic ministers that includes several technocrats, and he has announced plans to increase transparency, diversify the economy away from oil, and improve fiscal management, but has taken a primarily protectionist approach that favors domestic producers at the expense of consumers. President BUHARI ran on an anti-corruption platform, and has made some headway in alleviating corruption, such as implementation of a Treasury Single Account that allows the government to better manage its resources and a more transparent government payroll and personnel system that eliminated duplicate and "ghost workers." The government also is working to develop stronger public-private partnerships for roads, agriculture, and power.</p><p></p><p>Nigeria entered recession in 2016 as a result of lower oil prices and production, exacerbated by militant attacks on oil and gas infrastructure in the Niger Delta region, coupled with detrimental economic policies, including foreign exchange restrictions. GDP growth turned positive in 2017 as oil prices recovered and output stabilized.</p><br>
+<p>Nigeria is Sub Saharan Africa’s largest economy and relies heavily on oil as its main source of foreign exchange earnings and government revenues. Following the 2008-09 global financial crises, the banking sector was effectively recapitalized and regulation enhanced. Since then, Nigeria’s economic growth has been driven by growth in agriculture, telecommunications, and services. Economic diversification and strong growth have not translated into a significant decline in poverty levels; over 62% of Nigeria's over 180 million people still live in extreme poverty.</p> <p> </p> <p>Despite its strong fundamentals, oil-rich Nigeria has been hobbled by inadequate power supply, lack of infrastructure, delays in the passage of legislative reforms, an inefficient property registration system, restrictive trade policies, an inconsistent regulatory environment, a slow and ineffective judicial system, unreliable dispute resolution mechanisms, insecurity, and pervasive corruption. Regulatory constraints and security risks have limited new investment in oil and natural gas, and Nigeria's oil production had been contracting every year since 2012 until a slight rebound in 2017.</p> <p> </p> <p>President BUHARI, elected in March 2015, has established a cabinet of economic ministers that includes several technocrats, and he has announced plans to increase transparency, diversify the economy away from oil, and improve fiscal management, but has taken a primarily protectionist approach that favors domestic producers at the expense of consumers. President BUHARI ran on an anti-corruption platform, and has made some headway in alleviating corruption, such as implementation of a Treasury Single Account that allows the government to better manage its resources and a more transparent government payroll and personnel system that eliminated duplicate and "ghost workers." The government also is working to develop stronger public-private partnerships for roads, agriculture, and power.</p> <p> </p> <p>Nigeria entered recession in 2016 as a result of lower oil prices and production, exacerbated by militant attacks on oil and gas infrastructure in the Niger Delta region, coupled with detrimental economic policies, including foreign exchange restrictions. GDP growth turned positive in 2017 as oil prices recovered and output stabilized.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1,013,530,000,000 (2020 est.)<br>
@@ -643,8 +643,8 @@ _electrification - rural areas_: 30% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 107,031 (2020)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 107,031 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 184.592 million (2019)<br>
@@ -667,8 +667,8 @@ _total_: 74,210,251 (2020 est.)<br>
 _percent of population_: 36% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 65,313 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.03 (2021) less than 1<br>
+_total_: 65,313 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.03 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -733,11 +733,11 @@ _LNG terminal(s) (export)_: Bonny Island<br>
 Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of Interior: Nigeria Security and Civil Defense Corps (NSCDC, a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters) (2021)<br>
 
 **Military expenditures**<br>
-0.6% of GDP (2020)<br>
+0.7% of GDP (2021 est.)<br>
+0.6% of GDP (2020 est.)<br>
 0.5% of GDP (2019) (approximately $3.53 billion)<br>
 0.5% of GDP (2018) (approximately $3.72 billion)<br>
 0.5% of GDP (2017) (approximately $3.42 billion)<br>
-0.4% of GDP (2016) (approximately $3.05 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 135,000 active personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); est. 80,000 Security and Civil Defense Corps (2021)<br>

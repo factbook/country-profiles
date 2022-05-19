@@ -292,7 +292,7 @@ _lyrics/music_: unknown/Falani KALOLO<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Tokelau's small size (three villages), isolation, and lack of resources greatly restrain economic development and confine agriculture to the subsistence level. The principal sources of revenue are from sales of copra, postage stamps, souvenir coins, and handicrafts. Money is also remitted to families from relatives in New Zealand.</p><p></p><p>The people rely heavily on aid from New Zealand - about $15 million annually in FY12/13 and FY13/14 - to maintain public services. New Zealand's support amounts to 80% of Tokelau's recurrent government budget. An international trust fund, currently worth nearly $32 million, was established in 2004 by New Zealand to provide Tokelau an independent source of revenue.</p><br>
+<p>Tokelau's small size (three villages), isolation, and lack of resources greatly restrain economic development and confine agriculture to the subsistence level. The principal sources of revenue are from sales of copra, postage stamps, souvenir coins, and handicrafts. Money is also remitted to families from relatives in New Zealand.</p> <p> </p> <p>The people rely heavily on aid from New Zealand - about $15 million annually in FY12/13 and FY13/14 - to maintain public services. New Zealand's support amounts to 80% of Tokelau's recurrent government budget. An international trust fund, currently worth nearly $32 million, was established in 2004 by New Zealand to provide Tokelau an independent source of revenue.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $7,711,583 (2017 est.)<br>

@@ -410,7 +410,7 @@ _selected World Heritage Site locales_: Fossil Hominid Sites of South Africa (c)
 ## Economy
 
 **Economic overview**<br>
-<p>South Africa is a middle-income emerging market with an abundant supply of natural resources; well-developed financial, legal, communications, energy, and transport sectors; and a stock exchange that is Africa’s largest and among the top 20 in the world.</p><p></p><p>Economic growth has decelerated in recent years, slowing to an estimated 0.7% in 2017. Unemployment, poverty, and inequality - among the highest in the world - remain a challenge. Official unemployment is roughly 27% of the workforce, and runs significantly higher among black youth. Even though the country's modern infrastructure supports a relatively efficient distribution of goods to major urban centers throughout the region, unstable electricity supplies retard growth. Eskom, the state-run power company, is building three new power stations and is installing new power demand management programs to improve power grid reliability but has been plagued with accusations of mismanagement and corruption and faces an increasingly high debt burden.</p><p></p><p>South Africa's economic policy has focused on controlling inflation while empowering a broader economic base; however, the country faces structural constraints that also limit economic growth, such as skills shortages, declining global competitiveness, and frequent work stoppages due to strike action. The government faces growing pressure from urban constituencies to improve the delivery of basic services to low-income areas, to increase job growth, and to provide university level-education at affordable prices. Political infighting among South Africa’s ruling party and the volatility of the rand risks economic growth. International investors are concerned about the country’s long-term economic stability; in late 2016, most major international credit ratings agencies downgraded South Africa’s international debt to junk bond status.</p><br>
+<p>South Africa is a middle-income emerging market with an abundant supply of natural resources; well-developed financial, legal, communications, energy, and transport sectors; and a stock exchange that is Africa’s largest and among the top 20 in the world.</p> <p> </p> <p>Economic growth has decelerated in recent years, slowing to an estimated 0.7% in 2017. Unemployment, poverty, and inequality - among the highest in the world - remain a challenge. Official unemployment is roughly 27% of the workforce, and runs significantly higher among black youth. Even though the country's modern infrastructure supports a relatively efficient distribution of goods to major urban centers throughout the region, unstable electricity supplies retard growth. Eskom, the state-run power company, is building three new power stations and is installing new power demand management programs to improve power grid reliability but has been plagued with accusations of mismanagement and corruption and faces an increasingly high debt burden.</p> <p> </p> <p>South Africa's economic policy has focused on controlling inflation while empowering a broader economic base; however, the country faces structural constraints that also limit economic growth, such as skills shortages, declining global competitiveness, and frequent work stoppages due to strike action. The government faces growing pressure from urban constituencies to improve the delivery of basic services to low-income areas, to increase job growth, and to provide university level-education at affordable prices. Political infighting among South Africa’s ruling party and the volatility of the rand risks economic growth. International investors are concerned about the country’s long-term economic stability; in late 2016, most major international credit ratings agencies downgraded South Africa’s international debt to junk bond status.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $680.04 billion (2020 est.)<br>
@@ -627,8 +627,8 @@ _electrification - rural areas_: 92% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,098,802 (2020)<br>
-_subscriptions per 100 inhabitants_: 3.54 (2020 est.)<br>
+_total subscriptions_: 2,098,802 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 96,972,500 (2019)<br>
@@ -651,8 +651,8 @@ _total_: 41,516,083 (2020 est.)<br>
 _percent of population_: 70% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,303,057 (2021)<br>
-_subscriptions per 100 inhabitants_: 2.2 (2021)<br>
+_total_: 1,303,057 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 ## Transportation
 

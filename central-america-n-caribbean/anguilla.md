@@ -409,12 +409,12 @@ East Caribbean dollars (XCD) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 42.02 (2018 est.)<br>
+_total subscriptions_: 6,000 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 42 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 26,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 182.09 (2019 est.)<br>
+_total subscriptions_: 26,000 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 182 (2018 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern internal telephone system with fiber-optic trunk lines; telecom sector provides a relatively high contribution to overall GDP; numerous competitors licensed, but small and localized; major growth sectors include the mobile telephony and data segments (2020)<br>
@@ -433,8 +433,8 @@ _total_: 12,489 (2019 est.)<br>
 _percent of population_: 82% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 33.33 (2021)<br>
+_total_: 5,000 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 35 (2018 est.)<br>
 
 ## Transportation
 

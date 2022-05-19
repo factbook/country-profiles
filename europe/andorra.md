@@ -347,7 +347,7 @@ _selected World Heritage Site locales_: Madriu-Perafita-Claror Valley<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Andorra has a developed economy and a free market, with per capita income above the European average and above the level of its neighbors, Spain and France. The country has developed a sophisticated infrastructure including a one-of-a-kind micro-fiber-optic network for the entire country. Tourism, retail sales, and finance comprise more than three-quarters of GDP. Duty-free shopping for some products and the country’s summer and winter resorts attract millions of visitors annually. Andorra uses the euro and is effectively subject to the monetary policy of the European Central Bank. Andorra's comparative advantage as a tax haven eroded when the borders of neighboring France and Spain opened and the government eased bank secrecy laws under pressure from the EU and OECD.</p><p></p><p>Agricultural production is limited - only about 5% of the land is arable - and most food has to be imported, making the economy vulnerable to changes in fuel and food prices. The principal livestock is sheep. Manufacturing output and exports consist mainly of perfumes and cosmetic products, products of the printing industry, electrical machinery and equipment, clothing, tobacco products, and furniture. Andorra is a member of the EU Customs Union and is treated as an EU member for trade in manufactured goods (no tariffs) and as a non-EU member for agricultural products.</p><p></p><p>To provide incentives for growth and diversification in the economy, the Andorran government began sweeping economic reforms in 2006. The Parliament approved three laws to complement the first phase of economic openness: on companies (October 2007), on business accounting (December 2007), and on foreign investment (April 2008 and June 2012). From 2011 to 2015, the Parliament also approved direct taxes in the form of taxes on corporations, on individual incomes of residents and non-residents, and on capital gains, savings, and economic activities. These regulations aim to establish a transparent, modern, and internationally comparable regulatory framework, in order to attract foreign investment and businesses that offer higher value added.</p><br>
+<p>Andorra has a developed economy and a free market, with per capita income above the European average and above the level of its neighbors, Spain and France. The country has developed a sophisticated infrastructure including a one-of-a-kind micro-fiber-optic network for the entire country. Tourism, retail sales, and finance comprise more than three-quarters of GDP. Duty-free shopping for some products and the country’s summer and winter resorts attract millions of visitors annually. Andorra uses the euro and is effectively subject to the monetary policy of the European Central Bank. Andorra's comparative advantage as a tax haven eroded when the borders of neighboring France and Spain opened and the government eased bank secrecy laws under pressure from the EU and OECD.</p> <p> </p> <p>Agricultural production is limited - only about 5% of the land is arable - and most food has to be imported, making the economy vulnerable to changes in fuel and food prices. The principal livestock is sheep. Manufacturing output and exports consist mainly of perfumes and cosmetic products, products of the printing industry, electrical machinery and equipment, clothing, tobacco products, and furniture. Andorra is a member of the EU Customs Union and is treated as an EU member for trade in manufactured goods (no tariffs) and as a non-EU member for agricultural products.</p> <p> </p> <p>To provide incentives for growth and diversification in the economy, the Andorran government began sweeping economic reforms in 2006. The Parliament approved three laws to complement the first phase of economic openness: on companies (October 2007), on business accounting (December 2007), and on foreign investment (April 2008 and June 2012). From 2011 to 2015, the Parliament also approved direct taxes in the form of taxes on corporations, on individual incomes of residents and non-residents, and on capital gains, savings, and economic activities. These regulations aim to establish a transparent, modern, and internationally comparable regulatory framework, in order to attract foreign investment and businesses that offer higher value added.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $3.327 billion (2015 est.)<br>
@@ -519,12 +519,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 39,657 (2019)<br>
-_subscriptions per 100 inhabitants_: 51.41 (2019 est.)<br>
+_total subscriptions_: 40,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 52 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 87,909 (2019)<br>
-_subscriptions per 100 inhabitants_: 114 (2019 est.)<br>
+_total subscriptions_: 94,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 122 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern automatic telephone system; broadband Internet and&nbsp;LTE mobile lines for both consumer and enterprise customers available (2019)<br>
@@ -543,8 +543,8 @@ _total_: 71,084 (2020 est.)<br>
 _percent of population_: 92% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 37,000 (2022 est.)<br>
-_subscriptions per 100 inhabitants_: 47.89 (2022)<br>
+_total_: 37,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 48 (2020 est.)<br>
 
 ## Transportation
 

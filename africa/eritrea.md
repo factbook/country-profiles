@@ -375,7 +375,7 @@ _selected World Heritage Site locales_: Asmara: A Modernist African City<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Since formal independence from Ethiopia in 1993, Eritrea has faced many economic problems, including lack of financial resources and chronic drought. Eritrea has a command economy under the control of the sole political party, the People's Front for Democracy and Justice. Like the economies of many African nations, a large share of the population - nearly 80% in Eritrea - is engaged in subsistence agriculture, but the sector only produces a small share of the country's total output. Mining accounts for the lion's share of output.</p><p></p><p>The government has strictly controlled the use of foreign currency by limiting access and availability; new regulations in 2013 aimed at relaxing currency controls have had little economic effect. Few large private enterprises exist in Eritrea and most operate in conjunction with government partners, including a number of large international mining ventures, which began production in 2013. In late 2015, the Government of Eritrea introduced a new currency, retaining the name nakfa, and restricted the amount of hard currency individuals could withdraw from banks per month. The changeover has resulted in exchange fluctuations and the scarcity of hard currency available in the market.</p><p></p><p>While reliable statistics on Eritrea are difficult to obtain, erratic rainfall and the large percentage of the labor force tied up in military service continue to interfere with agricultural production and economic development. Eritrea's harvests generally cannot meet the food needs of the country without supplemental grain purchases. Copper, potash, and gold production are likely to continue to drive limited economic growth and government revenue over the next few years, but military spending will continue to compete with development and investment plans.</p><br>
+<p>Since formal independence from Ethiopia in 1993, Eritrea has faced many economic problems, including lack of financial resources and chronic drought. Eritrea has a command economy under the control of the sole political party, the People's Front for Democracy and Justice. Like the economies of many African nations, a large share of the population - nearly 80% in Eritrea - is engaged in subsistence agriculture, but the sector only produces a small share of the country's total output. Mining accounts for the lion's share of output.</p> <p> </p> <p>The government has strictly controlled the use of foreign currency by limiting access and availability; new regulations in 2013 aimed at relaxing currency controls have had little economic effect. Few large private enterprises exist in Eritrea and most operate in conjunction with government partners, including a number of large international mining ventures, which began production in 2013. In late 2015, the Government of Eritrea introduced a new currency, retaining the name nakfa, and restricted the amount of hard currency individuals could withdraw from banks per month. The changeover has resulted in exchange fluctuations and the scarcity of hard currency available in the market.</p> <p> </p> <p>While reliable statistics on Eritrea are difficult to obtain, erratic rainfall and the large percentage of the labor force tied up in military service continue to interfere with agricultural production and economic development. Eritrea's harvests generally cannot meet the food needs of the country without supplemental grain purchases. Copper, potash, and gold production are likely to continue to drive limited economic growth and government revenue over the next few years, but military spending will continue to compete with development and investment plans.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $9.702 billion (2017 est.)<br>
@@ -574,8 +574,8 @@ _electrification - rural areas_: 13% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 66,170 (2017)<br>
-_subscriptions per 100 inhabitants_: 1.94 (2018 est.)<br>
+_total subscriptions_: 66,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 695,000 (2017)<br>
@@ -598,8 +598,8 @@ _total_: 53,200 (2019 est.)<br>
 _percent of population_: 1% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.14 (2021 est.) less than 1<br>
+_total_: 5,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.14 (2020 est.) less than 1<br>
 
 ## Transportation
 

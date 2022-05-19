@@ -402,7 +402,7 @@ _selected World Heritage Site locales_: Tsingy de Bemaraha Strict Nature Reserve
 ## Economy
 
 **Economic overview**<br>
-<p>Madagascar is a mostly unregulated economy with many untapped natural resources, but no capital markets, a weak judicial system, poorly enforced contracts, and rampant government corruption. The country faces challenges to improve education, healthcare, and the environment to boost long-term economic growth. Agriculture, including fishing and forestry, is a mainstay of the economy, accounting for more than one-fourth of GDP and employing roughly 80% of the population. Deforestation and erosion, aggravated by bushfires, slash-and-burn clearing techniques, and the use of firewood as the primary source of fuel, are serious concerns to the agriculture dependent economy.</p><p></p><p>After discarding socialist economic policies in the mid-1990s, Madagascar followed a World Bank- and IMF-led policy of privatization and liberalization until a 2009 coup d’état led many nations, including the United States, to suspend non-humanitarian aid until a democratically-elected president was inaugurated in 2014. The pre-coup strategy had placed the country on a slow and steady growth path from an extremely low starting point. Exports of apparel boomed after gaining duty-free access to the US market in 2000 under the African Growth and Opportunity Act (AGOA); however, Madagascar's failure to comply with the requirements of the AGOA led to the termination of the country's duty-free access in January 2010, a sharp fall in textile production, a loss of more than 100,000 jobs, and a GDP drop of nearly 11%.</p><p></p><p>Madagascar regained AGOA access in January 2015 and ensuing growth has been slow and fragile. Madagascar produces around 80% of the world’s vanilla and its reliance on this commodity for most of its foreign exchange is a significant source of vulnerability. Economic reforms have been modest and the country’s financial sector remains weak, limiting the use of monetary policy to control inflation. An ongoing IMF program aims to strengthen financial and investment management capacity.</p><br>
+<p>Madagascar is a mostly unregulated economy with many untapped natural resources, but no capital markets, a weak judicial system, poorly enforced contracts, and rampant government corruption. The country faces challenges to improve education, healthcare, and the environment to boost long-term economic growth. Agriculture, including fishing and forestry, is a mainstay of the economy, accounting for more than one-fourth of GDP and employing roughly 80% of the population. Deforestation and erosion, aggravated by bushfires, slash-and-burn clearing techniques, and the use of firewood as the primary source of fuel, are serious concerns to the agriculture dependent economy.</p> <p> </p> <p>After discarding socialist economic policies in the mid-1990s, Madagascar followed a World Bank- and IMF-led policy of privatization and liberalization until a 2009 coup d’état led many nations, including the United States, to suspend non-humanitarian aid until a democratically-elected president was inaugurated in 2014. The pre-coup strategy had placed the country on a slow and steady growth path from an extremely low starting point. Exports of apparel boomed after gaining duty-free access to the US market in 2000 under the African Growth and Opportunity Act (AGOA); however, Madagascar's failure to comply with the requirements of the AGOA led to the termination of the country's duty-free access in January 2010, a sharp fall in textile production, a loss of more than 100,000 jobs, and a GDP drop of nearly 11%.</p> <p> </p> <p>Madagascar regained AGOA access in January 2015 and ensuing growth has been slow and fragile. Madagascar produces around 80% of the world’s vanilla and its reliance on this commodity for most of its foreign exchange is a significant source of vulnerability. Economic reforms have been modest and the country’s financial sector remains weak, limiting the use of monetary policy to control inflation. An ongoing IMF program aims to strengthen financial and investment management capacity.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $41.82 billion (2020 est.)<br>
@@ -609,8 +609,8 @@ _electrification - rural areas_: 23% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 69,046 (2018)<br>
-_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
+_total subscriptions_: 69,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 10,654,710 (2018)<br>
@@ -633,8 +633,8 @@ _total_: 2,696,931 (2019 est.)<br>
 _percent of population_: 10% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 32,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.12 (2021 est.) less than 1<br>
+_total_: 32,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.12 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -688,11 +688,11 @@ People's Armed Forces: Army, Navy, Air Force; National Gendarmerie (operates und
 note - the National Gendarmerie is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police is responsible for maintaining law and order in urban areas<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2021 est.)<br>
 0.7% of GDP (2020 est.)<br>
 0.5% of GDP (2019 est.) (approximately $130 million)<br>
 0.5% of GDP (2018 est.) (approximately $130 million)<br>
 0.5% of GDP (2017 est.) (approximately $120 million)<br>
-0.5% of GDP (2016 est.) (approximately $120 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); est. 10,000 Gendarmerie (2021)<br>

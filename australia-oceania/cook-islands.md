@@ -493,8 +493,8 @@ NZ dollars (NZD) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,576 (2018)<br>
-_subscriptions per 100 inhabitants_: 37.56 (2018 est.)<br>
+_total subscriptions_: 6,576 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 38 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 14,539 (2018)<br>
@@ -517,8 +517,8 @@ _total_: 9,476 (2019 est.)<br>
 _percent of population_: 54% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,000 (2021)<br>
-_subscriptions per 100 inhabitants_: 17.08 (2021)<br>
+_total_: 2,700 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2018 est.)<br>
 
 ## Transportation
 

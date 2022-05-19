@@ -382,7 +382,7 @@ _lyrics/music_: Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT<br>
 ## Economy
 
 **Economic overview**<br>
-<p>A small, landlocked kingdom, Eswatini is bordered in the north, west and south by the Republic of South Africa and by Mozambique in the east. Eswatini depends on South Africa for a majority of its exports and imports. Eswatini's currency is pegged to the South African rand, effectively relinquishing Eswatini's monetary policy to South Africa. The government is dependent on customs duties from the Southern African Customs Union (SACU) for almost half of its revenue. Eswatini is a lower middle income country. As of 2017, more than one-quarter of the adult population was infected by HIV/AIDS; Eswatini has the world’s highest HIV prevalence rate, a financial strain and source of economic instability.</p><p></p><p>The manufacturing sector diversified in the 1980s and 1990s, but manufacturing has grown little in the last decade. Sugar and soft drink concentrate are the largest foreign exchange earners, although a drought in 2015-16 decreased sugar production and exports. Overgrazing, soil depletion, drought, and floods are persistent problems. Mining has declined in importance in recent years. Coal, gold, diamond, and quarry stone mines are small scale, and the only iron ore mine closed in 2014. With an estimated 28% unemployment rate, Eswatini's need to increase the number and size of small and medium enterprises and to attract foreign direct investment is acute.</p><p></p><p>Eswatini's national development strategy, which expires in 2022, prioritizes increases in infrastructure, agriculture production, and economic diversification, while aiming to reduce poverty and government spending. Eswatini's revenue from SACU receipts are likely to continue to decline as South Africa pushes for a new distribution scheme, making it harder for the government to maintain fiscal balance without introducing new sources of revenue.</p><br>
+<p>A small, landlocked kingdom, Eswatini is bordered in the north, west and south by the Republic of South Africa and by Mozambique in the east. Eswatini depends on South Africa for a majority of its exports and imports. Eswatini's currency is pegged to the South African rand, effectively relinquishing Eswatini's monetary policy to South Africa. The government is dependent on customs duties from the Southern African Customs Union (SACU) for almost half of its revenue. Eswatini is a lower middle income country. As of 2017, more than one-quarter of the adult population was infected by HIV/AIDS; Eswatini has the world’s highest HIV prevalence rate, a financial strain and source of economic instability.</p> <p> </p> <p>The manufacturing sector diversified in the 1980s and 1990s, but manufacturing has grown little in the last decade. Sugar and soft drink concentrate are the largest foreign exchange earners, although a drought in 2015-16 decreased sugar production and exports. Overgrazing, soil depletion, drought, and floods are persistent problems. Mining has declined in importance in recent years. Coal, gold, diamond, and quarry stone mines are small scale, and the only iron ore mine closed in 2014. With an estimated 28% unemployment rate, Eswatini's need to increase the number and size of small and medium enterprises and to attract foreign direct investment is acute.</p> <p> </p> <p>Eswatini's national development strategy, which expires in 2022, prioritizes increases in infrastructure, agriculture production, and economic diversification, while aiming to reduce poverty and government spending. Eswatini's revenue from SACU receipts are likely to continue to decline as South Africa pushes for a new distribution scheme, making it harder for the government to maintain fiscal balance without introducing new sources of revenue.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $9.74 billion (2020 est.)<br>
@@ -595,8 +595,8 @@ _electrification - rural areas_: 87% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 41,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 3.65 (2018 est.)<br>
+_total subscriptions_: 39,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 1.052 million (2018)<br>
@@ -619,8 +619,8 @@ _total_: 539,623 (2019 est.)<br>
 _percent of population_: 47% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 12,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 1.03 (2021)<br>
+_total_: 12,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -653,11 +653,11 @@ _total_: 3,769 km (2019)<br>
 Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2021)<br>
 
 **Military expenditures**<br>
+1.7% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
 1.9% of GDP (2019 est.) (approximately $140 million)<br>
 2.1% of GDP (2018 est.) (approximately $150 million)<br>
 2.1% of GDP (2017 est.) (approximately $140 million)<br>
-2.2% of GDP (2016 est.) (approximately $150 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 3,000 active personnel (2021)<br>

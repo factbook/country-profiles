@@ -290,7 +290,7 @@ blue with the flag of the UK in the upper hoist-side quadrant and the Montserrat
 ## Economy
 
 **Economic overview**<br>
-<p>Severe volcanic activity, which began in July 1995, has put a damper on this small, open economy. A catastrophic eruption in June 1997 closed the airport and seaports, causing further economic and social dislocation. Two-thirds of the 12,000 inhabitants fled the island. Some began to return in 1998 but lack of housing limited the number. The agriculture sector continued to be affected by the lack of suitable land for farming and the destruction of crops.</p><p></p><p>Prospects for the economy depend largely on developments in relation to the volcanic activity and on public sector construction activity. Half of the island remains uninhabitable. In January 2013, the EU announced the disbursement of a $55.2 million aid package to Montserrat in order to boost the country's economic recovery, with a specific focus on public finance management, public sector reform, and prudent economic management. Montserrat is tied to the EU through the UK. Although the UK is leaving the EU, Montserrat’s aid will not be affected as Montserrat maintains a direct agreement with the EU regarding aid.</p><br>
+<p>Severe volcanic activity, which began in July 1995, has put a damper on this small, open economy. A catastrophic eruption in June 1997 closed the airport and seaports, causing further economic and social dislocation. Two-thirds of the 12,000 inhabitants fled the island. Some began to return in 1998 but lack of housing limited the number. The agriculture sector continued to be affected by the lack of suitable land for farming and the destruction of crops.</p> <p> </p> <p>Prospects for the economy depend largely on developments in relation to the volcanic activity and on public sector construction activity. Half of the island remains uninhabitable. In January 2013, the EU announced the disbursement of a $55.2 million aid package to Montserrat in order to boost the country's economic recovery, with a specific focus on public finance management, public sector reform, and prudent economic management. Montserrat is tied to the EU through the UK. Although the UK is leaving the EU, Montserrat’s aid will not be affected as Montserrat maintains a direct agreement with the EU regarding aid.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $167.4 million (2011 est.)<br>
@@ -474,8 +474,8 @@ East Caribbean dollars (XCD) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 60.4 (2018 est.)<br>
+_total subscriptions_: 3,000 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 60 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 5,000 (2018)<br>
@@ -498,8 +498,8 @@ _total_: 2,744 (2019 est.)<br>
 _percent of population_: 55% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 60.1 (2021 est.)<br>
+_total_: 2,700 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 55 (2018 est.)<br>
 
 ## Transportation
 

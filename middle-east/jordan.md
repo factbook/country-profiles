@@ -405,7 +405,7 @@ _selected World Heritage Site locales_: Petra (c), Quseir Amra (c), Um er-Rasas 
 ## Economy
 
 **Economic overview**<br>
-<p>Jordan's economy is among the smallest in the Middle East, with insufficient supplies of water, oil, and other natural resources, underlying the government's heavy reliance on foreign assistance. Other economic challenges for the government include chronic high rates of unemployment and underemployment, budget and current account deficits, and government debt.</p><p></p><p>King ABDALLAH, during the first decade of the 2000s, implemented significant economic reforms, such as expanding foreign trade and privatizing state-owned companies that attracted foreign investment and contributed to average annual economic growth of 8% for 2004 through 2008. The global economic slowdown and regional turmoil contributed to slower growth from 2010 to 2017 - with growth averaging about 2.5% per year - and hurt export-oriented sectors, construction/real estate, and tourism. Since the onset of the civil war in Syria and resulting refugee crisis, one of Jordan’s most pressing socioeconomic challenges has been managing the influx of approximately 660,000 UN-registered refugees, more than 80% of whom live in Jordan’s urban areas. Jordan’s own official census estimated the refugee number at 1.3 million Syrians as of early 2016.</p><p></p><p>Jordan is nearly completely dependent on imported energy—mostly natural gas—and energy consistently makes up 25-30% of Jordan’s imports. To diversify its energy mix, Jordan has secured several contracts for liquefied and pipeline natural gas, developed several major renewables projects, and is currently exploring nuclear power generation and exploitation of abundant oil shale reserves. In August 2016, Jordan and the IMF agreed to a $723 million Extended Fund Facility that aims to build on the three-year, $2.1 billion IMF program that ended in August 2015 with the goal of helping Jordan correct budgetary and balance of payments imbalances.</p><br>
+<p>Jordan's economy is among the smallest in the Middle East, with insufficient supplies of water, oil, and other natural resources, underlying the government's heavy reliance on foreign assistance. Other economic challenges for the government include chronic high rates of unemployment and underemployment, budget and current account deficits, and government debt.</p> <p> </p> <p>King ABDALLAH, during the first decade of the 2000s, implemented significant economic reforms, such as expanding foreign trade and privatizing state-owned companies that attracted foreign investment and contributed to average annual economic growth of 8% for 2004 through 2008. The global economic slowdown and regional turmoil contributed to slower growth from 2010 to 2017 - with growth averaging about 2.5% per year - and hurt export-oriented sectors, construction/real estate, and tourism. Since the onset of the civil war in Syria and resulting refugee crisis, one of Jordan’s most pressing socioeconomic challenges has been managing the influx of approximately 660,000 UN-registered refugees, more than 80% of whom live in Jordan’s urban areas. Jordan’s own official census estimated the refugee number at 1.3 million Syrians as of early 2016.</p> <p> </p> <p>Jordan is nearly completely dependent on imported energy—mostly natural gas—and energy consistently makes up 25-30% of Jordan’s imports. To diversify its energy mix, Jordan has secured several contracts for liquefied and pipeline natural gas, developed several major renewables projects, and is currently exploring nuclear power generation and exploitation of abundant oil shale reserves. In August 2016, Jordan and the IMF agreed to a $723 million Extended Fund Facility that aims to build on the three-year, $2.1 billion IMF program that ended in August 2015 with the goal of helping Jordan correct budgetary and balance of payments imbalances.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $100.16 billion (2020 est.)<br>
@@ -620,8 +620,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 391,486 (2020)<br>
-_subscriptions per 100 inhabitants_: 3.84 (2020 est.)<br>
+_total subscriptions_: 391,486 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6,987,891 (2020)<br>
@@ -644,8 +644,8 @@ _total_: 6,768,137 (2019 est.)<br>
 _percent of population_: 67% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 630,545 (2021)<br>
-_subscriptions per 100 inhabitants_: 6.18 (2021)<br>
+_total_: 630,545 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
 
 ## Transportation
 
@@ -699,11 +699,11 @@ _major seaport(s)_: Al 'Aqabah<br>
 Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Coast Guard; Ministry of Interior: Public Security Directorate (includes national police, the Gendarmerie, and the Civil Defense Directorate) (2021)<br>
 
 **Military expenditures**<br>
+5% of GDP (2021 est.)<br>
 5% of GDP (2020 est.)<br>
 5.6% of GDP (2019 est.) (approximately $5.18 billion)<br>
 5.6% of GDP (2018 est.) (approximately $5.14 billion)<br>
 5.7% of GDP (2017 est.) (approximately $5.18 billion)<br>
-5.5% of GDP (2016 est.) (approximately $4.91 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 90,000 active JAF personnel (77,000 Army; 500 Navy; 12,500 Air Force); approximately 15,000 Gendarmerie Forces (2021)<br>
@@ -732,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>2004 Agreement settles border dispute with Syria pending demarcation</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 674,268 (Syria), 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 674,458 (Syria) (2022)<br>
 _stateless persons_: 63 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

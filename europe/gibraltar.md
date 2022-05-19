@@ -286,7 +286,7 @@ _lyrics/music_: Peter EMBERLEY<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Self-sufficient Gibraltar benefits from an extensive shipping trade, offshore banking, and its position as an international conference center. Tax rates are low to attract foreign investment. The British military presence has been sharply reduced and now contributes about 7% to the local economy, compared with 60% in 1984. In recent years, Gibraltar has seen major structural change from a public to a private sector economy, but changes in government spending still have a major impact on the level of employment.</p><p></p><p>The financial sector, tourism (over 11 million visitors in 2012), gaming revenues, shipping services fees, and duties on consumer goods also generate revenue. The financial sector, tourism, and the shipping sector contribute 30%, 30%, and 25%, respectively, of GDP. Telecommunications, e-commerce, and e-gaming account for the remaining 15%.</p><br>
+<p>Self-sufficient Gibraltar benefits from an extensive shipping trade, offshore banking, and its position as an international conference center. Tax rates are low to attract foreign investment. The British military presence has been sharply reduced and now contributes about 7% to the local economy, compared with 60% in 1984. In recent years, Gibraltar has seen major structural change from a public to a private sector economy, but changes in government spending still have a major impact on the level of employment.</p> <p> </p> <p>The financial sector, tourism (over 11 million visitors in 2012), gaming revenues, shipping services fees, and duties on consumer goods also generate revenue. The financial sector, tourism, and the shipping sector contribute 30%, 30%, and 25%, respectively, of GDP. Telecommunications, e-commerce, and e-gaming account for the remaining 15%.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $2.044 billion (2014 est.)<br>
@@ -459,8 +459,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 16,968 (2019)<br>
-_subscriptions per 100 inhabitants_: 50.35 (2019 est.)<br>
+_total subscriptions_: 17,041 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 51 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 40,537 (2019)<br>
@@ -482,8 +482,8 @@ _total_: 31,684 (2019 est.)<br>
 _percent of population_: 94% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 21,009 (2021)<br>
-_subscriptions per 100 inhabitants_: 62.36 (2021)<br>
+_total_: 21,009 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 62 (2020 est.)<br>
 
 ## Transportation
 

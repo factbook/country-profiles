@@ -424,7 +424,7 @@ _selected World Heritage Site locales_: Old Towns of Djenn&eacute; (c), Timbuktu
 ## Economy
 
 **Economic overview**<br>
-<p>Among the 25 poorest countries in the world, landlocked Mali depends on gold mining and agricultural exports for revenue. The country's fiscal status fluctuates with gold and agricultural commodity prices and the harvest; cotton and gold exports make up around 80% of export earnings. Mali remains dependent on foreign aid.</p><p></p><p>Economic activity is largely confined to the riverine area irrigated by the Niger River; about 65% of Mali’s land area is desert or semidesert. About 10% of the population is nomadic and about 80% of the labor force is engaged in farming and fishing. Industrial activity is concentrated on processing farm commodities. The government subsidizes the production of cereals to decrease the country’s dependence on imported foodstuffs and to reduce its vulnerability to food price shocks.</p><p></p><p>Mali is developing its iron ore extraction industry to diversify foreign exchange earnings away from gold, but the pace will depend on global price trends. Although the political coup in 2012 slowed Mali’s growth, the economy has since bounced back, with GDP growth above 5% in 2014-17, although physical insecurity, high population growth, corruption, weak infrastructure, and low levels of human capital continue to constrain economic development. Higher rainfall helped to boost cotton output in 2017, and the country’s 2017 budget increased spending more than 10%, much of which was devoted to infrastructure and agriculture. Corruption and political turmoil are strong downside risks in 2018 and beyond.</p><br>
+<p>Among the 25 poorest countries in the world, landlocked Mali depends on gold mining and agricultural exports for revenue. The country's fiscal status fluctuates with gold and agricultural commodity prices and the harvest; cotton and gold exports make up around 80% of export earnings. Mali remains dependent on foreign aid.</p> <p> </p> <p>Economic activity is largely confined to the riverine area irrigated by the Niger River; about 65% of Mali’s land area is desert or semidesert. About 10% of the population is nomadic and about 80% of the labor force is engaged in farming and fishing. Industrial activity is concentrated on processing farm commodities. The government subsidizes the production of cereals to decrease the country’s dependence on imported foodstuffs and to reduce its vulnerability to food price shocks.</p> <p> </p> <p>Mali is developing its iron ore extraction industry to diversify foreign exchange earnings away from gold, but the pace will depend on global price trends. Although the political coup in 2012 slowed Mali’s growth, the economy has since bounced back, with GDP growth above 5% in 2014-17, although physical insecurity, high population growth, corruption, weak infrastructure, and low levels of human capital continue to constrain economic development. Higher rainfall helped to boost cotton output in 2017, and the country’s 2017 budget increased spending more than 10%, much of which was devoted to infrastructure and agriculture. Corruption and political turmoil are strong downside risks in 2018 and beyond.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $44.89 billion (2020 est.)<br>
@@ -635,8 +635,8 @@ _electrification - rural areas_: 28% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 281,638 (2020)<br>
-_subscriptions per 100 inhabitants_: 1.39 (2020 est.)<br>
+_total subscriptions_: 281,638 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 25,315,598 (2020)<br>
@@ -659,8 +659,8 @@ _total_: 5,467,725 (2020 est.)<br>
 _percent of population_: 27% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 243,806 (2021)<br>
-_subscriptions per 100 inhabitants_: 1.2 (2021)<br>
+_total_: 243,806 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1.2 (2020 est.)<br>
 
 ## Transportation
 
@@ -709,11 +709,11 @@ Malian Armed Forces (FAMa): Army (Armee de Terre; includes a riverine patrol for
 note(s) - the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared between the MDAC and the Ministry of Internal Security and Civil Protection<br><br>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas; as of 2021, the Gendarmerie was comprised of approximately 8 paramilitary companies and a mobile intervention unit<br><br>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; as of 2021, it had approximately 8 companies of troops, including a camel corps for patrolling the deserts and borders of northern Mali<br>
 
 **Military expenditures**<br>
+3.5% of GDP (2021 est.)<br>
 3.4% of GDP (2020 est.)<br>
 3.1% of GDP (2019 est.) (approximately $630 million)<br>
 3.1% of GDP (2018 est.) (approximately $600 million)<br>
 3.2% of GDP (2017 est.) (approximately $600 million)<br>
-2.8% of GDP (2016 est.) (approximately $500 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 16,000 active personnel (15,000 Army; 1,000 Air Force); estimated 10,000 Gendarmerie and National Guard (2021)<br>

@@ -389,7 +389,7 @@ _selected World Heritage Site locales_: Joya de Cer&eacute;n Archaeological Site
 ## Economy
 
 **Economic overview**<br>
-<p>The smallest country in Central America geographically, El Salvador has the fourth largest economy in the region. With the global recession, real GDP contracted in 2009 and economic growth has since remained low, averaging less than 2% from 2010 to 2014, but recovered somewhat in 2015-17 with an average annual growth rate of 2.4%. Remittances accounted for approximately 18% of GDP in 2017 and were received by about a third of all households.</p><p></p><p>In 2006, El Salvador was the first country to ratify the Dominican Republic-Central American Free Trade Agreement, which has bolstered the export of processed foods, sugar, and ethanol, and supported investment in the apparel sector amid increased Asian competition. In September 2015, El Salvador kicked off a five-year $277 million second compact with the Millennium Challenge Corporation - a US Government agency aimed at stimulating economic growth and reducing poverty - to improve El Salvador's competitiveness and productivity in international markets.</p><p></p><p>The Salvadoran Government maintained fiscal discipline during reconstruction and rebuilding following earthquakes in 2001 and hurricanes in 1998 and 2005, but El Salvador's public debt, estimated at 59.3% of GDP in 2017, has been growing over the last several years.</p><br>
+<p>The smallest country in Central America geographically, El Salvador has the fourth largest economy in the region. With the global recession, real GDP contracted in 2009 and economic growth has since remained low, averaging less than 2% from 2010 to 2014, but recovered somewhat in 2015-17 with an average annual growth rate of 2.4%. Remittances accounted for approximately 18% of GDP in 2017 and were received by about a third of all households.</p> <p> </p> <p>In 2006, El Salvador was the first country to ratify the Dominican Republic-Central American Free Trade Agreement, which has bolstered the export of processed foods, sugar, and ethanol, and supported investment in the apparel sector amid increased Asian competition. In September 2015, El Salvador kicked off a five-year $277 million second compact with the Millennium Challenge Corporation - a US Government agency aimed at stimulating economic growth and reducing poverty - to improve El Salvador's competitiveness and productivity in international markets.</p> <p> </p> <p>The Salvadoran Government maintained fiscal discipline during reconstruction and rebuilding following earthquakes in 2001 and hurricanes in 1998 and 2005, but El Salvador's public debt, estimated at 59.3% of GDP in 2017, has been growing over the last several years.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $52.26 billion (2020 est.)<br>
@@ -604,8 +604,8 @@ _electrification - rural areas_: 93% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 893,630 (2019)<br>
-_subscriptions per 100 inhabitants_: 13.85 (2019 est.)<br>
+_total subscriptions_: 894,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 10,396,786<br>
@@ -628,8 +628,8 @@ _total_: 3,567,410 (2020 est.)<br>
 _percent of population_: 55% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 586,000 (2021)<br>
-_subscriptions per 100 inhabitants_: 9.03 (2021 est.)<br>
+_total_: 586,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
 
 ## Transportation
 
@@ -688,11 +688,11 @@ the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of 
 note - in 2016, El Salvador created a 1,000-strong combined Army commando and special police unit to combat criminal gang violence<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2021 est.)<br>
 1.2% of GDP (2020 est.)<br>
 1.2% of GDP (2019) (approximately $570 million)<br>
 1.1% of GDP (2018) (approximately $540 million)<br>
 1% of GDP (2017) (approximately $500 million)<br>
-1% of GDP (2016) (approximately $470 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 21,000 active troops (17,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>

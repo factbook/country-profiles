@@ -300,7 +300,7 @@ red saltire (Saint Andrew's Cross) on a white square on a red field; national co
 ## Economy
 
 **Economic overview**<br>
-<p>The economy is limited to traditional subsistence agriculture, with about 80% of labor force earnings coming from agriculture (coconuts and vegetables), livestock (mostly pigs), and fishing. However, roughly 70% of the labor force is employed in the public sector, although only about a third of the population is in salaried employment.</p><p></p><p>Revenues come from French Government subsidies, licensing of fishing rights to Japan and South Korea, import taxes, and remittances from expatriate workers in New Caledonia. France directly finances the public sector and health-care and education services. It also provides funding for key development projects in a range of areas, including infrastructure, economic development, environmental management, and health-care facilities.</p><p></p><p>A key concern for Wallis and Futuna is an aging population with consequent economic development issues. Very few people aged 18-30 live on the islands due to the limited formal employment opportunities. Improving job creation is a current priority for the territorial government.</p><br>
+<p>The economy is limited to traditional subsistence agriculture, with about 80% of labor force earnings coming from agriculture (coconuts and vegetables), livestock (mostly pigs), and fishing. However, roughly 70% of the labor force is employed in the public sector, although only about a third of the population is in salaried employment.</p> <p> </p> <p>Revenues come from French Government subsidies, licensing of fishing rights to Japan and South Korea, import taxes, and remittances from expatriate workers in New Caledonia. France directly finances the public sector and health-care and education services. It also provides funding for key development projects in a range of areas, including infrastructure, economic development, environmental management, and health-care facilities.</p> <p> </p> <p>A key concern for Wallis and Futuna is an aging population with consequent economic development issues. Very few people aged 18-30 live on the islands due to the limited formal employment opportunities. Improving job creation is a current priority for the territorial government.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $60 million (2004 est.)<br>
@@ -403,8 +403,8 @@ Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,132 (2017)<br>
-_subscriptions per 100 inhabitants_: 25.38 (2018 est.)<br>
+_total subscriptions_: 3,132 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 25 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 0 (2018)<br>

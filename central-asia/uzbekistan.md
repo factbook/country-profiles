@@ -387,7 +387,7 @@ _selected World Heritage Site locales_: Itchan Kala (c), Historic Bukhara (c), H
 ## Economy
 
 **Economic overview**<br>
-<p>Uzbekistan is a doubly landlocked country in which 51% of the population lives in urban settlements; the agriculture-rich Fergana Valley, in which Uzbekistan’s eastern borders are situated, has been counted among the most densely populated parts of Central Asia. Since its independence in September 1991, the government has largely maintained its Soviet-style command economy with subsidies and tight controls on production, prices, and access to foreign currency. Despite ongoing efforts to diversify crops, Uzbek agriculture remains largely centered on cotton; Uzbekistan is the world's fifth-largest cotton exporter and seventh-largest producer. Uzbekistan's growth has been driven primarily by state-led investments, and export of natural gas, gold, and cotton provides a significant share of foreign exchange earnings.</p><p></p><p>Recently, lower global commodity prices and economic slowdowns in neighboring Russia and China have hurt Uzbekistan's trade and investment and worsened its foreign currency shortage. Aware of the need to improve the investment climate, the government is taking incremental steps to reform the business sector and address impediments to foreign investment in the country. Since the death of first President Islam KARIMOV and election of President Shavkat MIRZIYOYEV, emphasis on such initiatives and government efforts to improve the private sector have increased. In the past, Uzbek authorities accused US and other foreign companies operating in Uzbekistan of violating Uzbek laws and have frozen and seized their assets.</p><p></p><p>As a part of its economic reform efforts, the Uzbek Government is looking to expand opportunities for small and medium enterprises and prioritizes increasing foreign direct investment. In September 2017, the government devalued the official currency rate by almost 50% and announced the loosening of currency restrictions to eliminate the currency black market, increase access to hard currency, and boost investment.</p><br>
+<p>Uzbekistan is a doubly landlocked country in which 51% of the population lives in urban settlements; the agriculture-rich Fergana Valley, in which Uzbekistan’s eastern borders are situated, has been counted among the most densely populated parts of Central Asia. Since its independence in September 1991, the government has largely maintained its Soviet-style command economy with subsidies and tight controls on production, prices, and access to foreign currency. Despite ongoing efforts to diversify crops, Uzbek agriculture remains largely centered on cotton; Uzbekistan is the world's fifth-largest cotton exporter and seventh-largest producer. Uzbekistan's growth has been driven primarily by state-led investments, and export of natural gas, gold, and cotton provides a significant share of foreign exchange earnings.</p> <p> </p> <p>Recently, lower global commodity prices and economic slowdowns in neighboring Russia and China have hurt Uzbekistan's trade and investment and worsened its foreign currency shortage. Aware of the need to improve the investment climate, the government is taking incremental steps to reform the business sector and address impediments to foreign investment in the country. Since the death of first President Islam KARIMOV and election of President Shavkat MIRZIYOYEV, emphasis on such initiatives and government efforts to improve the private sector have increased. In the past, Uzbek authorities accused US and other foreign companies operating in Uzbekistan of violating Uzbek laws and have frozen and seized their assets.</p> <p> </p> <p>As a part of its economic reform efforts, the Uzbek Government is looking to expand opportunities for small and medium enterprises and prioritizes increasing foreign direct investment. In September 2017, the government devalued the official currency rate by almost 50% and announced the loosening of currency restrictions to eliminate the currency black market, increase access to hard currency, and boost investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $239.42 billion (2020 est.)<br>
@@ -598,8 +598,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,550,069 (2020)<br>
-_subscriptions per 100 inhabitants_: 10.61 (2020 est.)<br>
+_total subscriptions_: 3,550,069 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 33.387 million (2022)<br>
@@ -622,8 +622,8 @@ _total_: 24,304,756 (2020 est.)<br>
 _percent of population_: 71% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,820,009 (2022)<br>
-_subscriptions per 100 inhabitants_: 14.4 (2022)<br>
+_total_: 4,820,009 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
 
 ## Transportation
 

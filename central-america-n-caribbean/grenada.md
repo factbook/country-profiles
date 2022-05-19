@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Carib Indians inhabited Grenada when Christopher COLUMBUS discovered the island in 1498, but it remained uncolonized for more than a century. The French settled Grenada in the 17th century, established sugar estates, and imported large numbers of African slaves. Britain took the island in 1762 and vigorously expanded sugar production. In the 19th century, cacao eventually surpassed sugar as the main export crop; in the 20th century, nutmeg became the leading export. In 1967, Britain gave Grenada autonomy over its internal affairs. Full independence was attained in 1974 making Grenada one of the smallest independent countries in the Western Hemisphere. In 1979, a leftist New Jewel Movement seized power under Maurice BISHOP ushering in the Grenada Revolution. On 19 October 1983, factions within the revolutionary government overthrew and killed BISHOP and members of his party. Six days later the island was invaded by US forces and those of six other Caribbean nations, which quickly captured the ringleaders and their hundreds of Cuban advisers. The rule of law was restored and democratic elections were reinstituted the following year and have continued since then.<br>
+Carib Indians inhabited Grenada when Christopher COLUMBUS landed on the island in 1498, but it remained uncolonized for more than a century. The French settled Grenada in the 17th century, established sugar estates, and imported large numbers of African slaves. Britain took the island in 1762 and vigorously expanded sugar production. In the 19th century, cacao eventually surpassed sugar as the main export crop; in the 20th century, nutmeg became the leading export. In 1967, Britain gave Grenada autonomy over its internal affairs. Full independence was attained in 1974, making Grenada one of the smallest independent countries in the Western Hemisphere. In 1979, a leftist New Jewel Movement seized power under Maurice BISHOP, ushering in the Grenada Revolution. On 19 October 1983, factions within the revolutionary government overthrew and killed BISHOP and members of his party. Six days later, the island was invaded by US forces and those of six other Caribbean nations, which quickly captured the ringleaders and their hundreds of Cuban advisers. The rule of law was restored, and democratic elections were reinstituted the following year and have continued since then.<br>
 
 ## Geography
 
@@ -305,9 +305,9 @@ _cabinet_: Cabinet appointed by the governor general on the advice of the prime 
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms)<br> House of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last appointments on 27 April 2018 (next no later than2023)<br> House of Representatives - last held on 13 March 2018 (next no later than 2023)<br>
-_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 11, women 2 percent of women 15.4%<br> House of Representatives - percent of vote by party - NNP 58.9%, NDC 40.5%; other 0.6% seats by party - NNP 15; composition - men 8, women 7, percent of women 46.7%; note - total Parliament percent of women 32.1%<br>
+_description_: bicameral Parliament consists of:<br>Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms)<br>House of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: Senate - last appointments on 27 April 2018 (next no later than 2023)<br>House of Representatives - last held on 13 March 2018 (next no later than 2023)<br>
+_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 11, women 2 percent of women 15.4%<br>House of Representatives - percent of vote by party - NNP 58.9%, NDC 40.5%; other 0.6% seats by party - NNP 15; composition - men 8, women 7, percent of women 46.7%; note - total Parliament percent of women 32.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: regionally, the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Grenada; appeals beyond the ECSC in civil and criminal matters are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -350,7 +350,7 @@ _lyrics/music_: Irva Merle BAPTISTE/Louis Arnold MASANTO<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Grenada relies on tourism and revenue generated by St. George’s University - a private university offering degrees in medicine, veterinary medicine, public health, the health sciences, nursing, arts and sciences, and business - as its main source of foreign exchange. In the past two years the country expanded its sources of revenue, including from selling passports under its citizenship by investment program. These projects produced a resurgence in the construction and manufacturing sectors of the economy.</p><p></p><p>In 2017, Grenada experienced its fifth consecutive year of growth and the government successfully marked the completion of its five-year structural adjustment program that included among other things austerity measures, increased tax revenue and debt restructuring. Public debt-to-GDP was reduced from 100% of GDP in 2013 to 71.8% in 2017.</p><br>
+<p>Grenada relies on tourism and revenue generated by St. George’s University - a private university offering degrees in medicine, veterinary medicine, public health, the health sciences, nursing, arts and sciences, and business - as its main source of foreign exchange. In the past two years the country expanded its sources of revenue, including from selling passports under its citizenship by investment program. These projects produced a resurgence in the construction and manufacturing sectors of the economy.</p> <p> </p> <p>In 2017, Grenada experienced its fifth consecutive year of growth and the government successfully marked the completion of its five-year structural adjustment program that included among other things austerity measures, increased tax revenue and debt restructuring. Public debt-to-GDP was reduced from 100% of GDP in 2013 to 71.8% in 2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.7 billion (2020 est.)<br>
@@ -551,8 +551,8 @@ _electrification - total population_: 95.3% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 32,491 (2018)<br>
-_subscriptions per 100 inhabitants_: 29.3 (2018 est.)<br>
+_total subscriptions_: 16,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 113,177 (2020 est.)<br>
@@ -575,8 +575,8 @@ _total_: 64,136 (2020 est.)<br>
 _percent of population_: 57% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 32,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 28.44 (2021)<br>
+_total_: 32,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 28 (2020 est.)<br>
 
 ## Transportation
 

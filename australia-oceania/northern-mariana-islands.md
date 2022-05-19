@@ -302,7 +302,7 @@ _lyrics/music_: Jose S. PANGELINAN [Chamoru], David PETER [Carolinian]/Wilhelm G
 ## Economy
 
 **Economic overview**<br>
-<p>The economy of the Commonwealth of the Northern Mariana Islands(CNMI) has been on the rebound in the last few years, mainly on the strength of its tourism industry. In 2016, the CNMI’s real GDP increased 28.6% over the previous year, following two years of relatively rapid growth in 2014 and 2015. Chinese and Korean tourists have supplanted Japanese tourists in the last few years. The Commonwealth is making a concerted effort to broaden its tourism by extending casino gambling from the small Islands of Tinian and Rota to the main Island of Saipan, its political and commercial center. Investment is concentrated on hotels and casinos in Saipan, the CNMI’s largest island and home to about 90% of its population.</p><p></p><p>Federal grants have also contributed to economic growth and stability. In 2016, federal grants amounted to $101.4 billion which made up 26% of the CNMI government’s total revenues. A small agriculture sector consists of cattle ranches and small farms producing coconuts, breadfruit, tomatoes, and melons.</p><p></p><p>Legislation is pending in the US Congress to extend the transition period to allow foreign workers to work in the CNMI on temporary visas.</p><br>
+<p>The economy of the Commonwealth of the Northern Mariana Islands(CNMI) has been on the rebound in the last few years, mainly on the strength of its tourism industry. In 2016, the CNMI’s real GDP increased 28.6% over the previous year, following two years of relatively rapid growth in 2014 and 2015. Chinese and Korean tourists have supplanted Japanese tourists in the last few years. The Commonwealth is making a concerted effort to broaden its tourism by extending casino gambling from the small Islands of Tinian and Rota to the main Island of Saipan, its political and commercial center. Investment is concentrated on hotels and casinos in Saipan, the CNMI’s largest island and home to about 90% of its population.</p> <p> </p> <p>Federal grants have also contributed to economic growth and stability. In 2016, federal grants amounted to $101.4 billion which made up 26% of the CNMI government’s total revenues. A small agriculture sector consists of cattle ranches and small farms producing coconuts, breadfruit, tomatoes, and melons.</p> <p> </p> <p>Legislation is pending in the US Congress to extend the transition period to allow foreign workers to work in the CNMI on temporary visas.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1.242 billion (2016 est.)<br>
@@ -431,8 +431,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 22,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 39.44 (2018 est.)<br>
+_total subscriptions_: 20,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 20,474 (2004)<br>

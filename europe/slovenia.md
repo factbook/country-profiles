@@ -597,8 +597,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 704,909 (2020)<br>
-_subscriptions per 100 inhabitants_: 33.91 (2020 est.)<br>
+_total subscriptions_: 704,909 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 34 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 2,511,980 (2019)<br>
@@ -621,8 +621,8 @@ _total_: 1,829,105 (2020 est.)<br>
 _percent of population_: 87% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 651,604 (2021)<br>
-_subscriptions per 100 inhabitants_: 31.34 (2021)<br>
+_total_: 651,604 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
 
 ## Transportation
 
@@ -706,7 +706,7 @@ Slovenia officially became a member of NATO in 2004; Hungary and Italy provide N
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>537,923 estimated refugee and migrant arrivals (January 2015-March 2022)<br>
+<strong>note:  </strong>538,973 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

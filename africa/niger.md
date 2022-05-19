@@ -423,7 +423,7 @@ _selected World Heritage Site locales_: Air and T&eacute;n&eacute;r&eacute; Natu
 ## Economy
 
 **Economic overview**<br>
-<p>Niger is a landlocked, Sub-Saharan nation, whose economy centers on subsistence crops, livestock, and some of the world's largest uranium deposits. Agriculture contributes approximately 40% of GDP and provides livelihood for over 80% of the population. The UN ranked Niger as the second least developed country in the world in 2016 due to multiple factors such as food insecurity, lack of industry, high population growth, a weak educational sector, and few prospects for work outside of subsistence farming and herding.</p><p></p><p>Since 2011 public debt has increased due to efforts to scale-up public investment, particularly that related to infrastructure, as well as due to increased security spending. The government relies on foreign donor resources for a large portion of its fiscal budget. The economy in recent years has been hurt by terrorist activity near its uranium mines and by instability in Mali and in the Diffa region of the country; concerns about security have resulted in increased support from regional and international partners on defense. Low uranium prices, demographics, and security expenditures may continue to put pressure on the government’s finances.</p><p></p><p>The Government of Niger plans to exploit oil, gold, coal, and other mineral resources to sustain future growth. Although Niger has sizable reserves of oil, the prolonged drop in oil prices has reduced profitability. Food insecurity and drought remain perennial problems for Niger, and the government plans to invest more in irrigation. Niger’s three-year $131 million IMF Extended Credit Facility (ECF) agreement for the years 2012-15 was extended until the end of 2016. In February 2017, the IMF approved a new 3-year $134 million ECF. In June 2017, The World Bank’s International Development Association (IDA) granted Niger $1 billion over three years for IDA18, a program to boost the country’s development and alleviate poverty. A $437 million Millennium Challenge Account compact for Niger, commencing in FY18, will focus on large-scale irrigation infrastructure development and community-based, climate-resilient agriculture, while promoting sustainable increases in agricultural productivity and sales.</p><p></p><p>Formal private sector investment needed for economic diversification and growth remains a challenge, given the country’s limited domestic markets, access to credit, and competitiveness. Although President ISSOUFOU is courting foreign investors, including those from the US, as of April 2017, there were no US firms operating in Niger. In November 2017, the National Assembly passed the 2018 Finance Law that was geared towards raising government revenues and moving away from international support.</p><br>
+<p>Niger is a landlocked, Sub-Saharan nation, whose economy centers on subsistence crops, livestock, and some of the world's largest uranium deposits. Agriculture contributes approximately 40% of GDP and provides livelihood for over 80% of the population. The UN ranked Niger as the second least developed country in the world in 2016 due to multiple factors such as food insecurity, lack of industry, high population growth, a weak educational sector, and few prospects for work outside of subsistence farming and herding.</p> <p> </p> <p>Since 2011 public debt has increased due to efforts to scale-up public investment, particularly that related to infrastructure, as well as due to increased security spending. The government relies on foreign donor resources for a large portion of its fiscal budget. The economy in recent years has been hurt by terrorist activity near its uranium mines and by instability in Mali and in the Diffa region of the country; concerns about security have resulted in increased support from regional and international partners on defense. Low uranium prices, demographics, and security expenditures may continue to put pressure on the government’s finances.</p> <p> </p> <p>The Government of Niger plans to exploit oil, gold, coal, and other mineral resources to sustain future growth. Although Niger has sizable reserves of oil, the prolonged drop in oil prices has reduced profitability. Food insecurity and drought remain perennial problems for Niger, and the government plans to invest more in irrigation. Niger’s three-year $131 million IMF Extended Credit Facility (ECF) agreement for the years 2012-15 was extended until the end of 2016. In February 2017, the IMF approved a new 3-year $134 million ECF. In June 2017, The World Bank’s International Development Association (IDA) granted Niger $1 billion over three years for IDA18, a program to boost the country’s development and alleviate poverty. A $437 million Millennium Challenge Account compact for Niger, commencing in FY18, will focus on large-scale irrigation infrastructure development and community-based, climate-resilient agriculture, while promoting sustainable increases in agricultural productivity and sales.</p> <p> </p> <p>Formal private sector investment needed for economic diversification and growth remains a challenge, given the country’s limited domestic markets, access to credit, and competitiveness. Although President ISSOUFOU is courting foreign investors, including those from the US, as of April 2017, there were no US firms operating in Niger. In November 2017, the National Assembly passed the 2018 Finance Law that was geared towards raising government revenues and moving away from international support.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $28.97 billion (2020 est.)<br>
@@ -636,8 +636,8 @@ _electrification - rural areas_: 2% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 114,352 (2018)<br>
-_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
+_total subscriptions_: 58,000 (2020)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 8,778,880 (2018)<br>
@@ -660,8 +660,8 @@ _total_: 2,331,072 (2019 est.)<br>
 _percent of population_: 10% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 12,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.05 (2021 est.) less than 1<br>
+_total_: 12,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.05 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -712,11 +712,11 @@ Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force
 note - the Gendarmerie is subordinate to the Ministry of Defense and has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br>
 
 **Military expenditures**<br>
-2.1% of GDP (2020 est.)<br>
+1.8% of GDP (2021 est.)<br>
+2% of GDP (2020 est.)<br>
 1.7% of GDP (2019 est.) (approximately $260 million)<br>
 1.9% of GDP (2018 est.) (approximately $270 million)<br>
 2% of GDP (2017 est.) (approximately $270 million)<br>
-1.6% of GDP (2016 est.) (approximately $210 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active troops (est. 6,000 Army; 200 Air Force; 4,000 Gendarmerie); est. 3,000 National Guard (2021)<br>
@@ -746,7 +746,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic St
 <p>Libya claims about 25,000 sq km in a currently dormant dispute in the Tommo region; location of Benin-Niger-Nigeria tripoint is unresolved; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries; the dispute with Burkina Faso was referred to the ICJ in 2010</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 187,146 (Nigeria), 61,534 (Mali) (2022)<br>
+_refugees (country of origin)_: 187,148 (Nigeria), 61,534 (Mali) (2022)<br>
 _IDPs_: 264,257 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

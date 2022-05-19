@@ -390,7 +390,7 @@ _selected World Heritage Site locales_: Historic Salzburg (c); Palace and Garden
 ## Economy
 
 **Economic overview**<br>
-<p>Austria is a well-developed market economy with skilled labor force and high standard of living. It is closely tied to other EU economies, especially Germany's, but also the US’, its third-largest trade partner. Its economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector.</p><p></p><p>Austrian economic growth strengthen in 2017, with a 2.9% increase in GDP. Austrian exports, accounting for around 60% of the GDP, were up 8.2% in 2017. Austria’s unemployment rate fell by 0.3% to 5.5%, which is low by European standards, but still at its second highest rate since the end of World War II, driven by an increased number of refugees and EU migrants entering the labor market.</p><p></p><p>Austria's fiscal position compares favorably with other euro-zone countries. The budget deficit stood at a low 0.7% of GDP in 2017 and public debt declined again to 78.4% of GDP in 2017, after reaching a post-war high 84.6% in 2015. The Austrian government has announced it plans to balance the fiscal budget in 2019. Several external risks, such as Austrian banks' exposure to Central and Eastern Europe, the refugee crisis, and continued unrest in Russia/Ukraine, eased in 2017, but are still a factor for the Austrian economy. Exposure to the Russian banking sector and a deep energy relationship with Russia present additional risks.</p><p></p><p>Austria elected a new pro-business government in October 2017 that campaigned on promises to reduce bureaucracy, improve public sector efficiency, reduce labor market protections, and provide positive investment incentives.</p><br>
+<p>Austria is a well-developed market economy with skilled labor force and high standard of living. It is closely tied to other EU economies, especially Germany's, but also the US’, its third-largest trade partner. Its economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector.</p> <p> </p> <p>Austrian economic growth strengthen in 2017, with a 2.9% increase in GDP. Austrian exports, accounting for around 60% of the GDP, were up 8.2% in 2017. Austria’s unemployment rate fell by 0.3% to 5.5%, which is low by European standards, but still at its second highest rate since the end of World War II, driven by an increased number of refugees and EU migrants entering the labor market.</p> <p> </p> <p>Austria's fiscal position compares favorably with other euro-zone countries. The budget deficit stood at a low 0.7% of GDP in 2017 and public debt declined again to 78.4% of GDP in 2017, after reaching a post-war high 84.6% in 2015. The Austrian government has announced it plans to balance the fiscal budget in 2019. Several external risks, such as Austrian banks' exposure to Central and Eastern Europe, the refugee crisis, and continued unrest in Russia/Ukraine, eased in 2017, but are still a factor for the Austrian economy. Exposure to the Russian banking sector and a deep energy relationship with Russia present additional risks.</p> <p> </p> <p>Austria elected a new pro-business government in October 2017 that campaigned on promises to reduce bureaucracy, improve public sector efficiency, reduce labor market protections, and provide positive investment incentives.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $463.12 billion (2020 est.)<br>
@@ -606,12 +606,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,786,725 (2020)<br>
-_subscriptions per 100 inhabitants_: 42.04 (2020 est.)<br>
+_total subscriptions_: 3,786,725 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 42 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,682,294 (2020)<br>
-_subscriptions per 100 inhabitants_: 118.6 (2020 est.)<br>
+_total subscriptions_: 10,717,445 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: mature telecom market benefitting from effective competition; government and regulator are focused on improving telecom infrastructure; program to provide a national gigabit service by 2030 based on 5G networks; fixed-line broadband market is dominated by DSL sector, while cable broadband enjoys steady share of connections; fiber penetration remains low pending build out network infrastructure; EU-funded projects develop infrastructure to enable an 'Internet of Services; Vienna is a smart city; importer of broadcasting equipment from Vietnam and China (2020)<br>
@@ -630,8 +630,8 @@ _total_: 7,846,840 (2020 est.)<br>
 _percent of population_: 88% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2.606 million (2021)<br>
-_subscriptions per 100 inhabitants_: 28.93 (2021 est.)<br>
+_total_: 2.606 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 29 (2020 est.)<br>
 
 **Communications - note**<br>
 <strong>note 1:</strong> the Austrian National Library contains important collections of the Imperial Library of the Holy Roman Empire and of the Austrian Empire, as well as of the Austrian Republic; among its more than 12 million items are outstanding holdings of rare books, maps, globes, papyrus, and music; its Globe Museum is the only one in the world<br><br><strong>note 2:</strong> on 1 October 1869, Austria-Hungary introduced the world's first postal card - postal stationery with an imprinted stamp indicating the prepayment of postage; simple and cheap (sent for a fraction of the cost of a regular letter), postal cards became an instant success, widely produced in the millions worldwide<br><br><strong>note 3:</strong> Austria followed up with the creation of the world's first commercial picture postcards - cards bearing a picture or photo to which postage is affixed - in May 1871; sent from Vienna, the image served as a souvenir of the city; together, postal cards and post cards served as the world's e-mails of the late 19th and early 20th centuries<br><br><strong>note 4:</strong> Austria was also an airmail pioneer; from March to October of 1918, it conducted the world's first regular (daily) airmail service - between the imperial cities of Vienna, Krakow, and Lemberg - a combined distance of some 650 km (400 mi) (earlier airmail services had been set up in a few parts of the world, but only for short stretches and none lasted beyond a few days or weeks); an expansion of the route in June of 1918 allowed private mail to be flown to Kyiv, in newly independent Ukraine, which made the route the world's first regular international airmail service (covering a distance of some 1,200 km; 750 mi)<br>

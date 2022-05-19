@@ -300,7 +300,7 @@ zenaida dove, white cedar flower; national colors: yellow, green, red, white, bl
 ## Economy
 
 **Economic overview**<br>
-<p>The economy, one of the most stable and prosperous in the Caribbean, is highly dependent on tourism, which generates an estimated 45% of the national income. More than 934,000 tourists, mainly from the US, visited the islands in 2008. Because of traditionally close links with the US Virgin Islands, the British Virgin Islands has used the US dollar as its currency since 1959.</p><p></p><p>Livestock raising is the most important agricultural activity; poor soils limit the islands' ability to meet domestic food requirements.</p><p></p><p>In the mid-1980s, the government began offering offshore registration to companies wishing to incorporate in the islands, and incorporation fees now generate substantial revenues. Roughly 400,000 companies were on the offshore registry by yearend 2000. The adoption of a comprehensive insurance law in late 1994, which provides a blanket of confidentiality with regulated statutory gateways for investigation of criminal offenses, made the British Virgin Islands even more attractive to international business.</p><br>
+<p>The economy, one of the most stable and prosperous in the Caribbean, is highly dependent on tourism, which generates an estimated 45% of the national income. More than 934,000 tourists, mainly from the US, visited the islands in 2008. Because of traditionally close links with the US Virgin Islands, the British Virgin Islands has used the US dollar as its currency since 1959.</p> <p> </p> <p>Livestock raising is the most important agricultural activity; poor soils limit the islands' ability to meet domestic food requirements.</p> <p> </p> <p>In the mid-1980s, the government began offering offshore registration to companies wishing to incorporate in the islands, and incorporation fees now generate substantial revenues. Roughly 400,000 companies were on the offshore registry by yearend 2000. The adoption of a comprehensive insurance law in late 1994, which provides a blanket of confidentiality with regulated statutory gateways for investigation of criminal offenses, made the British Virgin Islands even more attractive to international business.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $500 million (2017 est.)<br>
@@ -479,8 +479,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,311 (2019)<br>
-_subscriptions per 100 inhabitants_: 24.35 (2019 est.)<br>
+_total subscriptions_: 7,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 35,163 (2020)<br>
@@ -503,8 +503,8 @@ _total_: 23,585 (2020 est.)<br>
 _percent of population_: 78% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 6,738 (2021)<br>
-_subscriptions per 100 inhabitants_: 22.29 (2021)<br>
+_total_: 6,738 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 22 (2020 est.)<br>
 
 ## Transportation
 

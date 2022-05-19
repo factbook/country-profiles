@@ -310,7 +310,7 @@ _lyrics/music_: Leila E. ROSS<br>
 ## Economy
 
 **Economic overview**<br>
-<p>With no direct taxation, the islands are a thriving offshore financial center. More than 65,000 companies were registered in the Cayman Islands as of 2017, including more than 280 banks, 700 insurers, and 10,500 mutual funds. A stock exchange was opened in 1997. Nearly 90% of the islands' food and consumer goods must be imported. The Caymanians enjoy a standard of living comparable to that of Switzerland.</p><p></p><p>Tourism is also a mainstay, accounting for about 70% of GDP and 75% of foreign currency earnings. The tourist industry is aimed at the luxury market and caters mainly to visitors from North America. Total tourist arrivals exceeded 2.1 million in 2016, with more than three-quarters from the US.</p><br>
+<p>With no direct taxation, the islands are a thriving offshore financial center. More than 65,000 companies were registered in the Cayman Islands as of 2017, including more than 280 banks, 700 insurers, and 10,500 mutual funds. A stock exchange was opened in 1997. Nearly 90% of the islands' food and consumer goods must be imported. The Caymanians enjoy a standard of living comparable to that of Switzerland.</p> <p> </p> <p>Tourism is also a mainstay, accounting for about 70% of GDP and 75% of foreign currency earnings. The tourist industry is aimed at the luxury market and caters mainly to visitors from North America. Total tourist arrivals exceeded 2.1 million in 2016, with more than three-quarters from the US.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.78 billion (2019 est.) note: data are in 2017 dollars<br>
@@ -503,8 +503,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 34,768 (2018)<br>
-_subscriptions per 100 inhabitants_: 54.85 (2018 est.)<br>
+_total subscriptions_: 36,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 55 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 96,656 (2018)<br>
@@ -527,8 +527,8 @@ _total_: 53,233 (2020 est.)<br>
 _percent of population_: 81% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,200 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 48.69 (2021)<br>
+_total_: 3,200 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 49 (2020 est.)<br>
 
 ## Transportation
 

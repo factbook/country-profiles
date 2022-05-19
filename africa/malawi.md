@@ -415,7 +415,7 @@ _selected World Heritage Site locales_: Lake Malawi National Park (n), Chongoni 
 ## Economy
 
 **Economic overview**<br>
-<p>Landlocked Malawi ranks among the world's least developed countries. The country’s economic performance has historically been constrained by policy inconsistency, macroeconomic instability, poor infrastructure, rampant corruption, high population growth, and poor health and education outcomes that limit labor productivity. The economy is predominately agricultural with about 80% of the population living in rural areas. Agriculture accounts for about one-third of GDP and 80% of export revenues. The performance of the tobacco sector is key to short-term growth as tobacco accounts for more than half of exports, although Malawi is looking to diversify away from tobacco to other cash crops.</p><p></p><p>The economy depends on substantial inflows of economic assistance from the IMF, the World Bank, and individual donor nations. Donors halted direct budget support from 2013 to 2016 because of concerns about corruption and fiscal carelessness, but the World Bank resumed budget support in May 2017. In 2006, Malawi was approved for relief under the Heavily Indebted Poor Countries (HIPC) program but recent increases in domestic borrowing mean that debt servicing in 2016 exceeded the levels prior to HIPC debt relief.</p><p></p><p>Heavily dependent on rain-fed agriculture, with corn being the staple crop, Malawi’s economy was hit hard by the El Nino-driven drought in 2015 and 2016, and now faces threat from the fall armyworm. The drought also slowed economic activity, led to two consecutive years of declining economic growth, and contributed to high inflation rates. Depressed food prices over 2017 led to a significant drop in inflation (from an average of 21.7% in 2016 to 12.3% in 2017), with a similar drop in interest rates.</p><br>
+<p>Landlocked Malawi ranks among the world's least developed countries. The country’s economic performance has historically been constrained by policy inconsistency, macroeconomic instability, poor infrastructure, rampant corruption, high population growth, and poor health and education outcomes that limit labor productivity. The economy is predominately agricultural with about 80% of the population living in rural areas. Agriculture accounts for about one-third of GDP and 80% of export revenues. The performance of the tobacco sector is key to short-term growth as tobacco accounts for more than half of exports, although Malawi is looking to diversify away from tobacco to other cash crops.</p> <p> </p> <p>The economy depends on substantial inflows of economic assistance from the IMF, the World Bank, and individual donor nations. Donors halted direct budget support from 2013 to 2016 because of concerns about corruption and fiscal carelessness, but the World Bank resumed budget support in May 2017. In 2006, Malawi was approved for relief under the Heavily Indebted Poor Countries (HIPC) program but recent increases in domestic borrowing mean that debt servicing in 2016 exceeded the levels prior to HIPC debt relief.</p> <p> </p> <p>Heavily dependent on rain-fed agriculture, with corn being the staple crop, Malawi’s economy was hit hard by the El Nino-driven drought in 2015 and 2016, and now faces threat from the fall armyworm. The drought also slowed economic activity, led to two consecutive years of declining economic growth, and contributed to high inflation rates. Depressed food prices over 2017 led to a significant drop in inflation (from an average of 21.7% in 2016 to 12.3% in 2017), with a similar drop in interest rates.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $28.44 billion (2020 est.)<br>
@@ -626,8 +626,8 @@ _electrification - rural areas_: 5% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 12,465 (2020)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 12,465 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 10,004,680 (2020)<br>
@@ -650,8 +650,8 @@ _total_: 2,608,025 (2019 est.)<br>
 _percent of population_: 14% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 12,255 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.06 (2021) less than 1<br>
+_total_: 12,255 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.06 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -701,11 +701,11 @@ Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established 
 note - the Malawi Police Service is under the Ministry of Homeland Security<br>
 
 **Military expenditures**<br>
+0.9% of GDP (2021 est.)<br>
 0.9% of GDP (2020 est.)<br>
 1.1% of GDP (2019 est.) (approximately $90 million)<br>
 0.8% of GDP (2018 est.) (approximately $70 million)<br>
 0.7% of GDP (2017 est.) (approximately $60 million)<br>
-0.6% of GDP (2016 est.) (approximately $50 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 8,000 total personnel (including about 200 air and 200 marine forces) (2021)<br>

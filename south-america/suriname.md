@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-First explored by the Spaniards in the 16th century and then settled by the English in the mid-17th century, Suriname became a Dutch colony in 1667. With the abolition of African slavery in 1863, workers were brought in from India and Java. The Netherlands granted the colony independence in 1975. Five years later the civilian government was replaced by a military regime that soon declared Suriname a socialist republic. It continued to exert control through a succession of nominally civilian administrations until 1987, when international pressure finally forced a democratic election. In 1990, the military overthrew the civilian leadership, but a democratically elected government - a four-party coalition - returned to power in 1991. The coalition expanded to eight parties in 2005 and ruled until August 2010, when voters returned former military leader Desire BOUTERSE and his opposition coalition to power. President BOUTERSE was reelected unopposed in 2015.<br>
+First explored by the Spaniards in the 16th century and then settled by the English in the mid-17th century, Suriname became a Dutch colony in 1667. With the abolition of African slavery in 1863, workers were brought in from India and Java. The Netherlands granted the colony independence in 1975. Five years later the civilian government was replaced by a military regime that soon declared Suriname a socialist republic. It continued to exert control through a succession of nominally civilian administrations until 1987, when international pressure finally forced a democratic election. In 1990, the military overthrew the civilian leadership, but a democratically elected government - a four-party coalition - returned to power in 1991. The coalition expanded to eight parties in 2005 and ruled until August 2010, when voters returned former military leader Desire BOUTERSE and his opposition coalition to power. President BOUTERSE was reelected unopposed in 2015. Opposition parties campaigned hard against BOUTERSE in the lead up to the May 2020 elections, and in July 2020, a coalition led by Chandrikapersad SANTOKHI&rsquo;s VHP and Ronnie Brunswijk&rsquo;s ABOP was installed. The SANTOKHI government promised to tackle COVID-19, the economic crisis it inherited, and corruption.<br>
 
 ## Geography
 
@@ -356,7 +356,7 @@ Alternative Combination or A-Com (coalition includes ABOP, KTPI, Party for Democ
 ACP, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Niermala Sakoentala BADRISING (since 21 July 2017)<br>
+_chief of mission_: Ambassador Jan Marten Willem SCHALKWIJK (since 19 April 2022)<br>
 _chancery_: 4301 Connecticut Avenue NW, Suite 400, Washington, DC 20008<br>
 _telephone_: [1] (202) 629-4302<br>
 _FAX_: [1] (202) 629-4769<br>
@@ -389,7 +389,7 @@ _selected World Heritage Site locales_: Central Suriname Nature Reserve (n), His
 ## Economy
 
 **Economic overview**<br>
-<p>Suriname’s economy is dominated by the mining industry, with exports of oil and gold accounting for approximately 85% of exports and 27% of government revenues. This makes the economy highly vulnerable to mineral price volatility. The worldwide drop in international commodity prices and the cessation of alumina mining in Suriname significantly reduced government revenue and national income during the past few years. In November 2015, a major US aluminum company discontinued its mining activities in Suriname after 99 years of operation. Public sector revenues fell, together with exports, international reserves, employment, and private sector investment.</p><p></p><p>Economic growth declined annually from just under 5% in 2012 to -10.4% in 2016. In January 2011, the government devalued the currency by 20% and raised taxes to reduce the budget deficit. Suriname began instituting macro adjustments between September 2015 and 2016; these included another 20% currency devaluation in November 2015 and foreign currency interventions by the Central Bank until March 2016, after which time the Bank allowed the Surinamese dollar (SRD) to float. By December 2016, the SRD had lost 46% of its value against the dollar. Depreciation of the Surinamese dollar and increases in tariffs on electricity caused domestic prices in Suriname to rise 22.0% year-over-year by December 2017.</p><p></p><p>Suriname's economic prospects for the medium-term will depend on its commitment to responsible monetary and fiscal policies and on the introduction of structural reforms to liberalize markets and promote competition. The government's over-reliance on revenue from the extractive sector colors Suriname's economic outlook. Following two years of recession, the Fitch Credit Bureau reported a positive growth of 1.2% in 2017 and the World Bank predicted 2.2% growth in 2018. Inflation declined to 9%, down from 55% in 2016 , and increased gold production helped lift exports. Yet continued budget imbalances and a heavy debt and interest burden resulted in a debt-to-GDP ratio of 83% in September 2017. Purchasing power has fallen rapidly due to the devalued local currency. The government has announced its intention to pass legislation to introduce a new value-added tax in 2018. Without this and other measures to strengthen the country’s fiscal position, the government may face liquidity pressures.</p><br>
+<p>Suriname’s economy is dominated by the mining industry, with exports of oil and gold accounting for approximately 85% of exports and 27% of government revenues. This makes the economy highly vulnerable to mineral price volatility. The worldwide drop in international commodity prices and the cessation of alumina mining in Suriname significantly reduced government revenue and national income during the past few years. In November 2015, a major US aluminum company discontinued its mining activities in Suriname after 99 years of operation. Public sector revenues fell, together with exports, international reserves, employment, and private sector investment.</p> <p> </p> <p>Economic growth declined annually from just under 5% in 2012 to -10.4% in 2016. In January 2011, the government devalued the currency by 20% and raised taxes to reduce the budget deficit. Suriname began instituting macro adjustments between September 2015 and 2016; these included another 20% currency devaluation in November 2015 and foreign currency interventions by the Central Bank until March 2016, after which time the Bank allowed the Surinamese dollar (SRD) to float. By December 2016, the SRD had lost 46% of its value against the dollar. Depreciation of the Surinamese dollar and increases in tariffs on electricity caused domestic prices in Suriname to rise 22.0% year-over-year by December 2017.</p> <p> </p> <p>Suriname's economic prospects for the medium-term will depend on its commitment to responsible monetary and fiscal policies and on the introduction of structural reforms to liberalize markets and promote competition. The government's over-reliance on revenue from the extractive sector colors Suriname's economic outlook. Following two years of recession, the Fitch Credit Bureau reported a positive growth of 1.2% in 2017 and the World Bank predicted 2.2% growth in 2018. Inflation declined to 9%, down from 55% in 2016 , and increased gold production helped lift exports. Yet continued budget imbalances and a heavy debt and interest burden resulted in a debt-to-GDP ratio of 83% in September 2017. Purchasing power has fallen rapidly due to the devalued local currency. The government has announced its intention to pass legislation to introduce a new value-added tax in 2018. Without this and other measures to strengthen the country’s fiscal position, the government may face liquidity pressures.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $9.46 billion (2020 est.)<br>
@@ -599,8 +599,8 @@ _electrification - rural areas_: 94.3% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 103,240 (2020)<br>
-_subscriptions per 100 inhabitants_: 17.6 (2020 est.)<br>
+_total subscriptions_: 103,240 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 18 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 813,844 (2019)<br>
@@ -623,8 +623,8 @@ _total_: 410,644 (2020 est.)<br>
 _percent of population_: 70% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 92,270 (2021)<br>
-_subscriptions per 100 inhabitants_: 15.73 (2021)<br>
+_total_: 92,270 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
 
 ## Transportation
 

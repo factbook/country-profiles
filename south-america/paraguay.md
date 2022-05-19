@@ -95,7 +95,7 @@ _adjective_: Paraguayan<br>
 Mestizo (mixed Spanish and Amerindian ancestry) 95%, other 5%<br>
 
 **Languages**<br>
-Spanish (official) and Guarani (official) 46.3%, only Guarani 34%, only Spanish 15.2%, other (includes Portuguese, German, other Indigenous languages) 4.1% , no response 0.4%; note - data represent predominant household language (2012 est.)<br>
+Spanish (official) and Guarani (official) 46.3%, only Guarani 34%, only Spanish 15.2%, other (includes Portuguese, German, other Indigenous languages) 4.1%, no response 0.4%; note - data represent predominant household language (2012 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -370,7 +370,7 @@ Asociacion Nacional Republicana - Colorado Party or ANR [Pedro ALLIANA]<br>Avanz
 CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jose Antonio DOS SANTOS (since 24 June 2021)<br>
+_chief of mission_: Ambassador Jose Antonio DOS SANTOS BEDOYA (since 15 September 2021)<br>
 _chancery_: 2400 Massachusetts Avenue, NW, Washington DC&nbsp; 20008<br>
 _telephone_: [1] (202) 483-6960<br>
 _FAX_: [1] (202) 234-4508<br>
@@ -404,7 +404,7 @@ _selected World Heritage Site locales_: Jesuit Missions of La Sant&iacute;sima T
 ## Economy
 
 **Economic overview**<br>
-<p>Landlocked Paraguay has a market economy distinguished by a large informal sector, featuring re-export of imported consumer goods to neighboring countries, as well as the activities of thousands of microenterprises and urban street vendors. A large percentage of the population, especially in rural areas, derives its living from agricultural activity, often on a subsistence basis. Because of the importance of the informal sector, accurate economic measures are difficult to obtain.</p><p></p><p>On a per capita basis, real income has grown steadily over the past five years as strong world demand for commodities, combined with high prices and favorable weather, supported Paraguay's commodity-based export expansion. Paraguay is the fifth largest soy producer in the world. Drought hit in 2008, reducing agricultural exports and slowing the economy even before the onset of the global recession. The economy fell 3.8% in 2009, as lower world demand and commodity prices caused exports to contract. Severe drought and outbreaks of hoof-and-mouth disease in 2012 led to a brief drop in beef and other agricultural exports. Since 2014, however, Paraguay’s economy has grown at a 4% average annual rate due to strong production and high global prices, at a time when other countries in the region have contracted.</p><p></p><p>The Paraguayan Government recognizes the need to diversify its economy and has taken steps in recent years to do so. In addition to looking for new commodity markets in the Middle East and Europe, Paraguayan officials have promoted the country’s low labor costs, cheap energy from its massive Itaipu Hydroelectric Dam, and single-digit tax rate on foreign firms. As a result, the number of factories operating in the country – mostly transplants from Brazil - has tripled since 2014.</p><p></p><p>Corruption, limited progress on structural reform, and deficient infrastructure are the main obstacles to long-term growth. Judicial corruption is endemic and is seen as the greatest barrier to attracting more foreign investment. Paraguay has been adverse to public debt throughout its history, but has recently sought to finance infrastructure improvements to attract foreign investment.</p><br>
+<p>Landlocked Paraguay has a market economy distinguished by a large informal sector, featuring re-export of imported consumer goods to neighboring countries, as well as the activities of thousands of microenterprises and urban street vendors. A large percentage of the population, especially in rural areas, derives its living from agricultural activity, often on a subsistence basis. Because of the importance of the informal sector, accurate economic measures are difficult to obtain.</p> <p> </p> <p>On a per capita basis, real income has grown steadily over the past five years as strong world demand for commodities, combined with high prices and favorable weather, supported Paraguay's commodity-based export expansion. Paraguay is the fifth largest soy producer in the world. Drought hit in 2008, reducing agricultural exports and slowing the economy even before the onset of the global recession. The economy fell 3.8% in 2009, as lower world demand and commodity prices caused exports to contract. Severe drought and outbreaks of hoof-and-mouth disease in 2012 led to a brief drop in beef and other agricultural exports. Since 2014, however, Paraguay’s economy has grown at a 4% average annual rate due to strong production and high global prices, at a time when other countries in the region have contracted.</p> <p> </p> <p>The Paraguayan Government recognizes the need to diversify its economy and has taken steps in recent years to do so. In addition to looking for new commodity markets in the Middle East and Europe, Paraguayan officials have promoted the country’s low labor costs, cheap energy from its massive Itaipu Hydroelectric Dam, and single-digit tax rate on foreign firms. As a result, the number of factories operating in the country – mostly transplants from Brazil - has tripled since 2014.</p> <p> </p> <p>Corruption, limited progress on structural reform, and deficient infrastructure are the main obstacles to long-term growth. Judicial corruption is endemic and is seen as the greatest barrier to attracting more foreign investment. Paraguay has been adverse to public debt throughout its history, but has recently sought to finance infrastructure improvements to attract foreign investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $87.98 billion (2020 est.)<br>
@@ -618,8 +618,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 272,656 (2019)<br>
-_subscriptions per 100 inhabitants_: 3.87 (2019 est.)<br>
+_total subscriptions_: 249,231 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 7,761,850 (2019)<br>
@@ -642,8 +642,8 @@ _total_: 5,278,072 (2020 est.)<br>
 _percent of population_: 74% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 562,369 (2021)<br>
-_subscriptions per 100 inhabitants_: 7.88 (2021)<br>
+_total_: 562,369 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 8 (2020 est.)<br>
 
 ## Transportation
 
@@ -698,7 +698,7 @@ Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy 
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
-1% of GDP (2020)<br>
+1% of GDP (2020 est.)<br>
 1% of GDP (2019) (approximately $590 million)<br>
 1% of GDP (2018) (approximately $590 million)<br>
 0.9% of GDP (2017) (approximately $550 million)<br>
@@ -722,7 +722,7 @@ as of 2022, the armed forces were principally focused on the Paraguayan People's
 <p>unruly region at convergence of Argentina-Brazil-Paraguay borders is locus of money laundering, smuggling, arms and illegal narcotics trafficking, and fundraising for violent extremist organizations</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,800 (Venezuela) (2021)<br>
+_refugees (country of origin)_: 5,900 (Venezuela) (2022)<br>
 
 **Illicit drugs**<br>
 <p>cannabis cultivation and the trafficking of Andean cocaine in the tri-border area shared with Argentina, and Brazil facilitates money laundering, violence and other criminal activity. </p><br>

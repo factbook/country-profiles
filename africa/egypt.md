@@ -415,7 +415,7 @@ _selected World Heritage Site locales_: Memphis and its Necropolis (c), Ancient 
 ## Economy
 
 **Economic overview**<br>
-<p>Occupying the northeast corner of the African continent, Egypt is bisected by the highly fertile Nile valley where most economic activity takes place. Egypt's economy was highly centralized during the rule of former President Gamal Abdel NASSER but opened up considerably under former Presidents Anwar EL-SADAT and Mohamed Hosni MUBARAK. Agriculture, hydrocarbons, manufacturing, tourism, and other service sectors drove the country’s relatively diverse economic activity.</p><p></p><p>Despite Egypt’s mixed record for attracting foreign investment over the past two decades, poor living conditions and limited job opportunities have contributed to public discontent. These socioeconomic pressures were a major factor leading to the January 2011 revolution that ousted MUBARAK. The uncertain political, security, and policy environment since 2011 has restricted economic growth and failed to alleviate persistent unemployment, especially among the young.</p><p></p><p>In late 2016, persistent dollar shortages and waning aid from its Gulf allies led Cairo to turn to the IMF for a 3-year, $12 billion loan program. To secure the deal, Cairo floated its currency, introduced new taxes, and cut energy subsidies - all of which pushed inflation above 30% for most of 2017, a high that had not been seen in a generation. Since the currency float, foreign investment in Egypt’s high interest treasury bills has risen exponentially, boosting both dollar availability and central bank reserves. Cairo will be challenged to obtain foreign and local investment in manufacturing and other sectors without a sustained effort to implement a range of business reforms.</p><br>
+<p>Occupying the northeast corner of the African continent, Egypt is bisected by the highly fertile Nile valley where most economic activity takes place. Egypt's economy was highly centralized during the rule of former President Gamal Abdel NASSER but opened up considerably under former Presidents Anwar EL-SADAT and Mohamed Hosni MUBARAK. Agriculture, hydrocarbons, manufacturing, tourism, and other service sectors drove the country’s relatively diverse economic activity.</p> <p> </p> <p>Despite Egypt’s mixed record for attracting foreign investment over the past two decades, poor living conditions and limited job opportunities have contributed to public discontent. These socioeconomic pressures were a major factor leading to the January 2011 revolution that ousted MUBARAK. The uncertain political, security, and policy environment since 2011 has restricted economic growth and failed to alleviate persistent unemployment, especially among the young.</p> <p> </p> <p>In late 2016, persistent dollar shortages and waning aid from its Gulf allies led Cairo to turn to the IMF for a 3-year, $12 billion loan program. To secure the deal, Cairo floated its currency, introduced new taxes, and cut energy subsidies - all of which pushed inflation above 30% for most of 2017, a high that had not been seen in a generation. Since the currency float, foreign investment in Egypt’s high interest treasury bills has risen exponentially, boosting both dollar availability and central bank reserves. Cairo will be challenged to obtain foreign and local investment in manufacturing and other sectors without a sustained effort to implement a range of business reforms.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1,223,040,000,000 (2020 est.)<br>
@@ -631,8 +631,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 9,858,331 (2020)<br>
-_subscriptions per 100 inhabitants_: 9.63 (2020 est.)<br>
+_total subscriptions_: 9,858,331 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 10 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 95,357,427 (2020)<br>
@@ -655,8 +655,8 @@ _total_: 73,680,770 (2020 est.)<br>
 _percent of population_: 72% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 9,349,469 (2021)<br>
-_subscriptions per 100 inhabitants_: 9.14 (2021 est.)<br>
+_total_: 9,349,469 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
 
 **Communications - note**<br>
 one of the largest and most famous libraries in the ancient world was the Great Library of Alexandria in Egypt (founded about 295 B.C., it may have survived in some form into the 5th century A.D.); seeking to resurrect the great center of learning and communication, the Egyptian Government in 2002 inaugurated the Bibliotheca Alexandrina, an Egyptian National Library on the site of the original Great Library, which commemorates the original archive and also serves as a center of cultural and scientific excellence<br>
@@ -725,11 +725,11 @@ Egyptian Armed Forces (EAF): Army (includes surface-to-surface missile forces, s
 note(s) - the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Sector is responsible for internal security threats and counterterrorism along with other security services; in addition to its external defense duties, the EAF also has a mandate to assist police in protecting vital infrastructure during a state of emergency; military personnel were granted full arrest authority in 2011 but normally only use this authority during states of emergency and &ldquo;periods of significant turmoil&rdquo;<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2021 est.)<br>
 1.3% of GDP (2020 est.)<br>
 1.3% of GDP (2019) (approximately $15.8 billion)<br>
 1.4% of GDP (2018) (approximately $15.9 billion)<br>
 1.6% of GDP (2017) (approximately $16.7 billion)<br>
-1.8% of GDP (2016) (approximately $17.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 450,000 total active personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces (2021)<br>
@@ -759,7 +759,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province; Mujahidin 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 140,789 (Syria), 52,003 (Sudan) (refugees and asylum seekers), 20,713 (South Sudan) (refugees and asylum seekers), 20,927 (Eritrea) (refugees and asylum seekers), 15,484 (Ethiopia) (refugees and asylum seekers), 9,891 (Yemen) (refugees and asylum seekers), 6,807 (Iraq) (refugees and asylum seekers), 6,765 (Somalia) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 141,303 (Syria), 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022)<br>
 _stateless persons_: 7 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

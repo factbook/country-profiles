@@ -5,7 +5,7 @@ _Central America and Caribbean / Dependencies (Netherlands)_
 ## Introduction
 
 **Background**<br>
-The original Arawak Indian settlers who arrived on the island from South America in about 1000, were largely enslaved by the Spanish early in the 16th century and forcibly relocated to other colonies where labor was needed. Curacao was seized by the Dutch from the Spanish in 1634. Once the center of the Caribbean slave trade, Curacao was hard hit economically by the abolition of slavery in 1863. Its prosperity (and that of neighboring Aruba) was restored in the early 20th century with the construction of the Isla Refineria to service the newly discovered Venezuelan oil fields. In 1954, Curacao and several other Dutch Caribbean possessions were reorganized as the Netherlands Antilles, part of the Kingdom of the Netherlands. In referenda in 2005 and 2009, the citizens of Curacao voted to become a self-governing country within the Kingdom of the Netherlands. The change in status became effective in October 2010 with the dissolution of the Netherlands Antilles.<br>
+The original Arawak Indian settlers who arrived on the island from South America in about 1000, were largely enslaved by the Spanish early in the 16th century and forcibly relocated to other colonies where labor was needed. Curacao was seized by the Dutch from the Spanish in 1634. Once the center of the Caribbean slave trade, Curacao was hard hit economically by the abolition of slavery in 1863. Its prosperity (and that of neighboring Aruba) was restored in the early 20th century with the construction of the Isla Refineria to service the newly discovered Venezuelan oil fields. In 1954, Curacao and several other Dutch Caribbean colonies were reorganized as the Netherlands Antilles, part of the Kingdom of the Netherlands. In referenda in 2005 and 2009, the citizens of Curacao voted to become a self-governing country within the Kingdom of the Netherlands. The change in status became effective in October 2010 with the dissolution of the Netherlands Antilles.<br>
 
 ## Geography
 
@@ -485,8 +485,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 53,500 (2019)<br>
-_subscriptions per 100 inhabitants_: 32.74 (2019 est.)<br>
+_total subscriptions_: 54,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 184,236 (2019)<br>
@@ -509,8 +509,8 @@ _total_: 107,060 (2019 est.)<br>
 _percent of population_: 68% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 55,000 (2021)<br>
-_subscriptions per 100 inhabitants_: 33.52 (2021)<br>
+_total_: 55,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 34 (2020 est.)<br>
 
 ## Transportation
 

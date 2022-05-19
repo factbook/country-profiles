@@ -415,7 +415,7 @@ _selected World Heritage Site locales_: Sangha Trinational Forest<br>
 ## Economy
 
 **Economic overview**<br>
-<p>The Republic of the Congo’s economy is a mixture of subsistence farming, an industrial sector based largely on oil and support services, and government spending. Oil has supplanted forestry as the mainstay of the economy, providing a major share of government revenues and exports. Natural gas is increasingly being converted to electricity rather than being flared, greatly improving energy prospects. New mining projects, particularly iron ore, which entered production in late 2013, may add as much as $1 billion to annual government revenue. The Republic of the Congo is a member of the Central African Economic and Monetary Community (CEMAC) and shares a common currency – the Central African Franc – with five other member states in the region.</p><p></p><p>The current administration faces difficult economic challenges of stimulating recovery and reducing poverty. The drop in oil prices that began in 2014 has constrained government spending; lower oil prices forced the government to cut more than $1 billion in planned spending. The fiscal deficit amounted to 11% of GDP in 2017. The government’s inability to pay civil servant salaries has resulted in multiple rounds of strikes by many groups, including doctors, nurses, and teachers. In the wake of a multi-year recession, the country reached out to the IMF in 2017 for a new program; the IMF noted that the country’s continued dependence on oil, unsustainable debt, and significant governance weakness are key impediments to the country’s economy. In 2018, the country’s external debt level will approach 120% of GDP. The IMF urged the government to renegotiate debts levels to sustainable levels before it agreed to a new macroeconomic adjustment package.</p><br>
+<p>The Republic of the Congo’s economy is a mixture of subsistence farming, an industrial sector based largely on oil and support services, and government spending. Oil has supplanted forestry as the mainstay of the economy, providing a major share of government revenues and exports. Natural gas is increasingly being converted to electricity rather than being flared, greatly improving energy prospects. New mining projects, particularly iron ore, which entered production in late 2013, may add as much as $1 billion to annual government revenue. The Republic of the Congo is a member of the Central African Economic and Monetary Community (CEMAC) and shares a common currency – the Central African Franc – with five other member states in the region.</p> <p> </p> <p>The current administration faces difficult economic challenges of stimulating recovery and reducing poverty. The drop in oil prices that began in 2014 has constrained government spending; lower oil prices forced the government to cut more than $1 billion in planned spending. The fiscal deficit amounted to 11% of GDP in 2017. The government’s inability to pay civil servant salaries has resulted in multiple rounds of strikes by many groups, including doctors, nurses, and teachers. In the wake of a multi-year recession, the country reached out to the IMF in 2017 for a new program; the IMF noted that the country’s continued dependence on oil, unsustainable debt, and significant governance weakness are key impediments to the country’s economy. In 2018, the country’s external debt level will approach 120% of GDP. The IMF urged the government to renegotiate debts levels to sustainable levels before it agreed to a new macroeconomic adjustment package.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $19.03 billion (2020 est.)<br>
@@ -623,8 +623,8 @@ _electrification - rural areas_: 36% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 17,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
+_total subscriptions_: 17,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 5 million (2018 est.)<br>
@@ -647,8 +647,8 @@ _total_: 484,245 (2019 est.)<br>
 _percent of population_: 9% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,000 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.02 (2021 est.) less than 1<br>
+_total_: 1,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.02 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -708,11 +708,11 @@ Impfondo (Oubangui) Ouesso (Sangha) Oyo (Alima)<br>
 Congolese Armed Forces (Forces Armees Congolaises, FAC): Army (Armee de Terre), Navy, Congolese Air Force (Armee de l'Air Congolaise), Gendarmerie (2021)<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2021 est.)<br>
 3.2% of GDP (2020 est.)<br>
 2.3% of GDP (2019 est.) (approximately $350 million)<br>
 2.1% of GDP (2018 est.) (approximately $330 million)<br>
 3.6% of GDP (2017 est.) (approximately $580 million)<br>
-4.2% of GDP (2016 est.) (approximately $690 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Congolese Armed Forces (FAC) have approximately 12,000 active duty troops (8,000 Army; 800 Navy; 1,000 Air Force; 2,000 Gendarmerie) (2021)<br>

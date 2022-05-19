@@ -396,7 +396,7 @@ _selected World Heritage Site locales_: Persepolis (c), Tchogha Zanbil (c), Bam 
 ## Economy
 
 **Economic overview**<br>
-<p>Iran's economy is marked by statist policies, inefficiencies, and reliance on oil and gas exports, but Iran also possesses significant agricultural, industrial, and service sectors. The Iranian government directly owns and operates hundreds of state-owned enterprises and indirectly controls many companies affiliated with the country's security forces. Distortions - including corruption, price controls, subsidies, and a banking system holding billions of dollars of non-performing loans - weigh down the economy, undermining the potential for private-sector-led growth.</p><p></p><p>Private sector activity includes small-scale workshops, farming, some manufacturing, and services, in addition to medium-scale construction, cement production, mining, and metalworking. Significant informal market activity flourishes and corruption is widespread.</p><p></p><p>The lifting of most nuclear-related sanctions under the Joint Comprehensive Plan of Action (JCPOA) in January 2016 sparked a restoration of Iran’s oil production and revenue that drove rapid GDP growth, but economic growth declined in 2017 as oil production plateaued. The economy continues to suffer from low levels of investment and declines in productivity since before the JCPOA, and from high levels of unemployment, especially among women and college-educated Iranian youth.</p><p></p><p>In May 2017, the re-election of President Hasan RUHANI generated widespread public expectations that the economic benefits of the JCPOA would expand and reach all levels of society. RUHANI will need to implement structural reforms that strengthen the banking sector and improve Iran’s business climate to attract foreign investment and encourage the growth of the private sector. Sanctions that are not related to Iran’s nuclear program remain in effect, and these—plus fears over the possible re-imposition of nuclear-related sanctions—will continue to deter foreign investors from engaging with Iran.</p><br>
+<p>Iran's economy is marked by statist policies, inefficiencies, and reliance on oil and gas exports, but Iran also possesses significant agricultural, industrial, and service sectors. The Iranian government directly owns and operates hundreds of state-owned enterprises and indirectly controls many companies affiliated with the country's security forces. Distortions - including corruption, price controls, subsidies, and a banking system holding billions of dollars of non-performing loans - weigh down the economy, undermining the potential for private-sector-led growth.</p> <p> </p> <p>Private sector activity includes small-scale workshops, farming, some manufacturing, and services, in addition to medium-scale construction, cement production, mining, and metalworking. Significant informal market activity flourishes and corruption is widespread.</p> <p> </p> <p>The lifting of most nuclear-related sanctions under the Joint Comprehensive Plan of Action (JCPOA) in January 2016 sparked a restoration of Iran’s oil production and revenue that drove rapid GDP growth, but economic growth declined in 2017 as oil production plateaued. The economy continues to suffer from low levels of investment and declines in productivity since before the JCPOA, and from high levels of unemployment, especially among women and college-educated Iranian youth.</p> <p> </p> <p>In May 2017, the re-election of President Hasan RUHANI generated widespread public expectations that the economic benefits of the JCPOA would expand and reach all levels of society. RUHANI will need to implement structural reforms that strengthen the banking sector and improve Iran’s business climate to attract foreign investment and encourage the growth of the private sector. Sanctions that are not related to Iran’s nuclear program remain in effect, and these—plus fears over the possible re-imposition of nuclear-related sanctions—will continue to deter foreign investors from engaging with Iran.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1,044,310,000,000 (2020 est.)<br>
@@ -606,8 +606,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 29,093,587 (2020)<br>
-_subscriptions per 100 inhabitants_: 34.64 (2020 est.)<br>
+_total subscriptions_: 29,093,587 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 127,624,951 (2020)<br>
@@ -630,8 +630,8 @@ _total_: 75,594,081 (2020 est.)<br>
 _percent of population_: 84% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 9,564,195 (2021)<br>
-_subscriptions per 100 inhabitants_: 11.39 (2021)<br>
+_total_: 9,564,195 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 ## Transportation
 
@@ -697,11 +697,11 @@ Islamic Republic of Iran Regular Forces (Artesh): Ground Forces, Navy (includes 
 note(s) - the Artesh Navy operates Iran&rsquo;s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz; the Basij is a volunteer paramilitary group with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit subordinate to Revolutionary Guard ground forces<br>
 
 **Military expenditures**<br>
+2.3% of GDP (2021 est.)<br>
 2.1% of GDP (2020 est.)<br>
 2.5% of GDP (2019 est.) (approximately $22.8 billion)<br>
 3.4% of GDP (2018 est.) (approximately $29.1 billion)<br>
 3.4% of GDP (2017 est.) (approximately $31.2 billion)<br>
-3.1% of GDP (2016 est.) (approximately $29.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 550-600,000 total active personnel; approximately 400,000 Islamic Republic of Iran Regular Forces (350,000 Ground Forces; 18,000 Navy; 40,000 Air Force/Air Defense Forces); approximately 150-190,000 Islamic Revolutionary Guard Corps (100-150,000 Ground Forces; 20,000 Navy; 15,000 Aerospace Force; 5-15,000 Qods Force); est. 90,000 active Basij Paramilitary Forces (2021)<br>

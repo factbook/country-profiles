@@ -337,7 +337,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2016:</em> Jovenel MOISE elected president in first round; percent of vote - Jovenel MOISE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOISE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in runoff; percent of vote - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
 
 **Legislative branch**<br>
-_description_: bicameral legislature or le Corps l'egislatif ou le Parlement consists of:<br>le S'enat or Senate (30 seats statutory, reduced to 10 as of July 2021; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>la Chambre de deput'es or Chamber of Deputies (119 seats; 0 filled as of July 2021; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits); note - when the 2 chambers meet collectively it is known as L'Assembl'ee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution<br>
+_description_: bicameral legislature or le Corps legislatif ou le Parlement consists of:<br>le Senat or Senate (30 seats statutory, reduced to 10 as of July 2021; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>la Chambre de deputes or Chamber of Deputies (119 seats; 0 filled as of July 2021; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits); note - when the 2 chambers meet collectively it is known as L'Assemblee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution<br>
 _elections_: <br>Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next originally scheduled for 27 October 2019, but postponed to 26 September 2021) <br>Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next originally scheduled for 27 October 2019, but postponed to 26 September 2021)<br>
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 10, women 0, percent of women 0%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - NA<br>
 
@@ -387,7 +387,7 @@ _selected World Heritage Site locales_: National History Park &ndash; Citadel, S
 ## Economy
 
 **Economic overview**<br>
-<p>Haiti is a free market economy with low labor costs and tariff-free access to the US for many of its exports. Two-fifths of all Haitians depend on the agricultural sector, mainly small-scale subsistence farming, which remains vulnerable to damage from frequent natural disasters. Poverty, corruption, vulnerability to natural disasters, and low levels of education for much of the population represent some of the most serious impediments to Haiti’s economic growth. Remittances are the primary source of foreign exchange, equivalent to more than a quarter of GDP, and nearly double the combined value of Haitian exports and foreign direct investment.</p><p></p><p>Currently the poorest country in the Western Hemisphere, with close to 60% of the population living under the national poverty line, Haiti’s GDP growth rose to 5.5% in 2011 as the Haitian economy began recovering from the devastating January 2010 earthquake that destroyed much of its capital city, Port-au-Prince, and neighboring areas. However, growth slowed to below 2% in 2015 and 2016 as political uncertainty, drought conditions, decreasing foreign aid, and the depreciation of the national currency took a toll on investment and economic growth. Hurricane Matthew, the fiercest Caribbean storm in nearly a decade, made landfall in Haiti on 4 October 2016, with 140 mile-per-hour winds, creating a new humanitarian emergency. An estimated 2.1 million people were affected by the category 4 storm, which caused extensive damage to crops, houses, livestock, and infrastructure across Haiti’s southern peninsula.</p><p></p><p>US economic engagement under the Caribbean Basin Trade Partnership Act (CBTPA) and the 2008 Haitian Hemispheric Opportunity through Partnership Encouragement Act (HOPE II) have contributed to an increase in apparel exports and investment by providing duty-free access to the US. The Haiti Economic Lift Program (HELP) Act of 2010 extended the CBTPA and HOPE II until 2020, while the Trade Preferences Extension Act of 2015 extended trade benefits provided to Haiti in the HOPE and HELP Acts through September 2025. Apparel sector exports in 2016 reached approximately $850 million and account for over 90% of Haitian exports and more than 10% of the GDP.</p><p></p><p>Investment in Haiti is hampered by the difficulty of doing business and weak infrastructure, including access to electricity. Haiti's outstanding external debt was cancelled by donor countries following the 2010 earthquake, but has since risen to $2.6 billion as of December 2017, the majority of which is owed to Venezuela under the PetroCaribe program. Although the government has increased its revenue collection, it continues to rely on formal international economic assistance for fiscal sustainability, with over 20% of its annual budget coming from foreign aid or direct budget support.</p><br>
+<p>Haiti is a free market economy with low labor costs and tariff-free access to the US for many of its exports. Two-fifths of all Haitians depend on the agricultural sector, mainly small-scale subsistence farming, which remains vulnerable to damage from frequent natural disasters. Poverty, corruption, vulnerability to natural disasters, and low levels of education for much of the population represent some of the most serious impediments to Haiti’s economic growth. Remittances are the primary source of foreign exchange, equivalent to more than a quarter of GDP, and nearly double the combined value of Haitian exports and foreign direct investment.</p> <p> </p> <p>Currently the poorest country in the Western Hemisphere, with close to 60% of the population living under the national poverty line, Haiti’s GDP growth rose to 5.5% in 2011 as the Haitian economy began recovering from the devastating January 2010 earthquake that destroyed much of its capital city, Port-au-Prince, and neighboring areas. However, growth slowed to below 2% in 2015 and 2016 as political uncertainty, drought conditions, decreasing foreign aid, and the depreciation of the national currency took a toll on investment and economic growth. Hurricane Matthew, the fiercest Caribbean storm in nearly a decade, made landfall in Haiti on 4 October 2016, with 140 mile-per-hour winds, creating a new humanitarian emergency. An estimated 2.1 million people were affected by the category 4 storm, which caused extensive damage to crops, houses, livestock, and infrastructure across Haiti’s southern peninsula.</p> <p> </p> <p>US economic engagement under the Caribbean Basin Trade Partnership Act (CBTPA) and the 2008 Haitian Hemispheric Opportunity through Partnership Encouragement Act (HOPE II) have contributed to an increase in apparel exports and investment by providing duty-free access to the US. The Haiti Economic Lift Program (HELP) Act of 2010 extended the CBTPA and HOPE II until 2020, while the Trade Preferences Extension Act of 2015 extended trade benefits provided to Haiti in the HOPE and HELP Acts through September 2025. Apparel sector exports in 2016 reached approximately $850 million and account for over 90% of Haitian exports and more than 10% of the GDP.</p> <p> </p> <p>Investment in Haiti is hampered by the difficulty of doing business and weak infrastructure, including access to electricity. Haiti's outstanding external debt was cancelled by donor countries following the 2010 earthquake, but has since risen to $2.6 billion as of December 2017, the majority of which is owed to Venezuela under the PetroCaribe program. Although the government has increased its revenue collection, it continues to rely on formal international economic assistance for fiscal sustainability, with over 20% of its annual budget coming from foreign aid or direct budget support.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $31.62 billion (2020 est.)<br>
@@ -593,8 +593,8 @@ _electrification - rural areas_: 12% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,952 (2019)<br>
-_subscriptions per 100 inhabitants_: (2019 est.) less than 1<br>
+_total subscriptions_: 6,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6,843,380 (2020)<br>
@@ -617,8 +617,8 @@ _total_: 3,990,887 (2020 est.)<br>
 _percent of population_: 35% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 31,100 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.27 (2021) less than 1<br>
+_total_: 31,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.27 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -657,8 +657,11 @@ _major seaport(s)_: Cap-Haitien, Gonaives, Jacmel, Port-au-Prince<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018; the small Coast Guard is not part of the military, but rather the Haitian National Police (2021)<br>
-note - the National Police has a paramilitary, rapid-response unit known as the Motorized Intervention Unit or BIM <p class="gmail-css-axufdj"> </p><br>
+the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018 (2021)<br>
+note - the National Police has a number of specialized units, including a coast guard, a presidential guard, and a paramilitary rapid-response Motorized Intervention Unit or BIM <p class="gmail-css-axufdj"> </p><br>
+
+**Military expenditures**<br>
+not available<br>
 
 **Military and security service personnel strengths**<br>
 the FAdH has approximately 500 troops (the force is planned to eventually have around 5,000 personnel); approximately 16,000 National Police (2021)<br>

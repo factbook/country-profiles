@@ -392,7 +392,7 @@ _selected World Heritage Site locales_: Ecosystem and Relict Cultural Landscape 
 ## Economy
 
 **Economic overview**<br>
-<p>Gabon enjoys a per capita income four times that of most Sub-Saharan African nations, but because of high income inequality, a large proportion of the population remains poor. Gabon relied on timber and manganese exports until oil was discovered offshore in the early 1970s. From 2010 to 2016, oil accounted for approximately 80% of Gabon’s exports, 45% of its GDP, and 60% of its state budget revenues.</p><p></p><p>Gabon faces fluctuating international prices for its oil, timber, and manganese exports. A rebound of oil prices from 2001 to 2013 helped growth, but declining production, as some fields passed their peak production, has hampered Gabon from fully realizing potential gains. GDP grew nearly 6% per year over the 2010-14 period, but slowed significantly from 2014 to just 1% in 2017 as oil prices declined. Low oil prices also weakened government revenue and negatively affected the trade and current account balances. In the wake of lower revenue, Gabon signed a 3-year agreement with the IMF in June 2017.</p><p></p><p>Despite an abundance of natural wealth, poor fiscal management and over-reliance on oil has stifled the economy. Power cuts and water shortages are frequent. Gabon is reliant on imports and the government heavily subsidizes commodities, including food, but will be hard pressed to tamp down public frustration with unemployment and corruption.</p><br>
+<p>Gabon enjoys a per capita income four times that of most Sub-Saharan African nations, but because of high income inequality, a large proportion of the population remains poor. Gabon relied on timber and manganese exports until oil was discovered offshore in the early 1970s. From 2010 to 2016, oil accounted for approximately 80% of Gabon’s exports, 45% of its GDP, and 60% of its state budget revenues.</p> <p> </p> <p>Gabon faces fluctuating international prices for its oil, timber, and manganese exports. A rebound of oil prices from 2001 to 2013 helped growth, but declining production, as some fields passed their peak production, has hampered Gabon from fully realizing potential gains. GDP grew nearly 6% per year over the 2010-14 period, but slowed significantly from 2014 to just 1% in 2017 as oil prices declined. Low oil prices also weakened government revenue and negatively affected the trade and current account balances. In the wake of lower revenue, Gabon signed a 3-year agreement with the IMF in June 2017.</p> <p> </p> <p>Despite an abundance of natural wealth, poor fiscal management and over-reliance on oil has stifled the economy. Power cuts and water shortages are frequent. Gabon is reliant on imports and the government heavily subsidizes commodities, including food, but will be hard pressed to tamp down public frustration with unemployment and corruption.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $32.05 billion (2020 est.)<br>
@@ -603,8 +603,8 @@ _electrification - rural areas_: 39% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 25,428 (2020)<br>
-_subscriptions per 100 inhabitants_: 1.14 (2020 est.)<br>
+_total subscriptions_: 25,428 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 3,088,742 (2020)<br>
@@ -627,8 +627,8 @@ _total_: 1,379,951 (2020 est.)<br>
 _percent of population_: 62% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 44,607 (2021)<br>
-_subscriptions per 100 inhabitants_: 2 (2021)<br>
+_total_: 44,607 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 ## Transportation
 
@@ -685,11 +685,11 @@ _oil terminal(s)_: Gamba, Lucina<br>
 Gabonese Defense Forces (Forces de Defense Gabonaise): Land Forces (Army), Navy, Air Forces, National Gendarmerie; Republican Guard (land forces under direct presidential control) (2021)<br>
 
 **Military expenditures**<br>
+1.7% of GDP (2021 est.)<br>
 1.8% of GDP (2020 est.)<br>
 1.6% of GDP (2019 est.) (approximately $450 million)<br>
 1.6% of GDP (2018 est.) (approximately $440 million)<br>
 1.8% of GDP (2017 est.) (approximately $480 million)<br>
-1.5% of GDP (2016 est.) (approximately $400 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2021)<br>

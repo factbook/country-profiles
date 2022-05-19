@@ -616,8 +616,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,970,347 (2020)<br>
-_subscriptions per 100 inhabitants_: 30.75 (2020 est.)<br>
+_total subscriptions_: 2,970,347 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 10,332,660 (2020)<br>
@@ -640,8 +640,8 @@ _total_: 8,287,626 (2020 est.)<br>
 _percent of population_: 85% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,265,308 (2022)<br>
-_subscriptions per 100 inhabitants_: 33.8 (2022 est.)<br>
+_total_: 3,265,308 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 34 (2020 est.)<br>
 
 ## Transportation
 
@@ -732,7 +732,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 572,760 (Ukraine) (as of 9 May 2022)<br>
+_refugees (country of origin)_: 605,628 (Ukraine) (as of 15 May 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

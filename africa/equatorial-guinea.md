@@ -282,10 +282,10 @@ _etymology_: the country is named for the Guinea region of West Africa that lies
 presidential republic<br>
 
 **Capital**<br>
-_name_: Malabo; note - a new capital of Cuidad de la Paz (formerly referred to as Oyala) is being built on the mainland near Djibloho; Malabo is on the island of Bioko<br>
+_name_: Malabo; note - a new capital of Ciudad de la Paz (formerly referred to as Oyala) is being built on the mainland near Djibloho; Malabo is on the island of Bioko<br>
 _geographic coordinates_: 3 45 N, 8 47 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-_etymology_: named after Malabo Lopelo Melaka (1837&ndash;1937), the last king of the Bubi, the ethnic group indigenous to the island of Bioko; the name of the new capital, Cuidad de la Paz, translates to "City of Peace" in Spanish<br>
+_etymology_: named after Malabo Lopelo Melaka (1837&ndash;1937), the last king of the Bubi, the ethnic group indigenous to the island of Bioko; the name of the new capital, Ciudad de la Paz, translates to "City of Peace" in Spanish<br>
 
 **Administrative divisions**<br>
 8 provinces (provincias, singular - provincia); Annobon, Bioko Norte, Bioko Sur, Centro Sur, Djibloho, Kie-Ntem, Litoral, Wele-Nzas<br>
@@ -367,7 +367,7 @@ _lyrics/music_: Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez 
 ## Economy
 
 **Economic overview**<br>
-<p>Exploitation of oil and gas deposits, beginning in the 1990s, has driven economic growth in Equatorial Guinea; a recent rebasing of GDP resulted in an upward revision of the size of the economy by approximately 30%. Forestry and farming are minor components of GDP. Although preindependence Equatorial Guinea counted on cocoa production for hard currency earnings, the neglect of the rural economy since independence has diminished the potential for agriculture-led growth. Subsistence farming is the dominant form of livelihood. Declining revenue from hydrocarbon production, high levels of infrastructure expenditures, lack of economic diversification, and corruption have pushed the economy into decline in recent years and limited improvements in the general population’s living conditions. Equatorial Guinea’s real GDP growth has been weak in recent years, averaging -0.5% per year from 2010 to 2014, because of a declining hydrocarbon sector. Inflation remained very low in 2016, down from an average of 4% in 2014.</p><p></p><p>As a middle income country, Equatorial Guinea is now ineligible for most low-income World Bank and the IMF funding. The government has been widely criticized for its lack of transparency and misuse of oil revenues and has attempted to address this issue by working toward compliance with the Extractive Industries Transparency Initiative. US foreign assistance to Equatorial Guinea is limited in part because of US restrictions pursuant to the Trafficking Victims Protection Act.</p><p></p><p>Equatorial Guinea hosted two economic diversification symposia in 2014 that focused on attracting investment in five sectors: agriculture and animal ranching, fishing, mining and petrochemicals, tourism, and financial services. Undeveloped mineral resources include gold, zinc, diamonds, columbite-tantalite, and other base metals. In 2017 Equatorial Guinea signed a preliminary agreement with Ghana to sell liquefied natural gas (LNG); as oil production wanes, the government believes LNG could provide a boost to revenues, but it will require large investments and long lead times to develop.</p><br>
+<p>Exploitation of oil and gas deposits, beginning in the 1990s, has driven economic growth in Equatorial Guinea; a recent rebasing of GDP resulted in an upward revision of the size of the economy by approximately 30%. Forestry and farming are minor components of GDP. Although preindependence Equatorial Guinea counted on cocoa production for hard currency earnings, the neglect of the rural economy since independence has diminished the potential for agriculture-led growth. Subsistence farming is the dominant form of livelihood. Declining revenue from hydrocarbon production, high levels of infrastructure expenditures, lack of economic diversification, and corruption have pushed the economy into decline in recent years and limited improvements in the general population’s living conditions. Equatorial Guinea’s real GDP growth has been weak in recent years, averaging -0.5% per year from 2010 to 2014, because of a declining hydrocarbon sector. Inflation remained very low in 2016, down from an average of 4% in 2014.</p> <p> </p> <p>As a middle income country, Equatorial Guinea is now ineligible for most low-income World Bank and the IMF funding. The government has been widely criticized for its lack of transparency and misuse of oil revenues and has attempted to address this issue by working toward compliance with the Extractive Industries Transparency Initiative. US foreign assistance to Equatorial Guinea is limited in part because of US restrictions pursuant to the Trafficking Victims Protection Act.</p> <p> </p> <p>Equatorial Guinea hosted two economic diversification symposia in 2014 that focused on attracting investment in five sectors: agriculture and animal ranching, fishing, mining and petrochemicals, tourism, and financial services. Undeveloped mineral resources include gold, zinc, diamonds, columbite-tantalite, and other base metals. In 2017 Equatorial Guinea signed a preliminary agreement with Ghana to sell liquefied natural gas (LNG); as oil production wanes, the government believes LNG could provide a boost to revenues, but it will require large investments and long lead times to develop.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $23.86 billion (2020 est.)<br>
@@ -565,8 +565,8 @@ _electrification - rural areas_: 45% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 10,848 (2018)<br>
-_subscriptions per 100 inhabitants_: (2018 est.) less than 1<br>
+_total subscriptions_: 11,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 591,223 (2018)<br>
@@ -589,8 +589,8 @@ _total_: 352,555 (2019 est.)<br>
 _percent of population_: 26% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.07 (2021) less than 1<br>
+_total_: 1,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.07 (2020 est.) less than 1<br>
 
 ## Transportation
 

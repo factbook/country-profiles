@@ -311,7 +311,7 @@ _etymology_: three possibilities exist for the derivation of the name; originall
 Independence Day, 20 March (1956); Revolution and Youth Day, 14 January (2011)<br>
 
 **Constitution**<br>
-_history_: several previous; latest approved by Constituent Assembly 26 January 2014, signed by the president, prime minister, and Constituent Assembly speaker 27 January 2014; note - in mid-December 2021 President Kais SAIED announced that a constitutional referendum would be held in late July 2022<br>
+_history_: <p>history: several previous; latest approved by Constituent Assembly 26 January 2014, signed by the president, prime minister, and Constituent Assembly speaker on 27 January 2014; note - in September 2021, President Kais SAIED issued a decree granting him certain executive, legislative, and judiciary powers, and the authority to rule by decree, but allowed continued implementation of the preamble and chapters one and two of the Constitution, which guarantee rights and freedoms; in mid-December 202, SAIED announced that a constitutional referendum would be held on 25 July 2022</p><br>
 _amendments_: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds majority vote by the Assembly; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage<br>
 
 **Legal system**<br>
@@ -337,18 +337,18 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <p>first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI(independent) 10.7%,Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; runoff - Kais SAIED elected president; Kais SAIED 72.7%, Nabil KAROUI 27.3%</p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p><br>
 
 **Legislative branch**<br>
-_description_: <strong>note</strong>: on 25 July 2021, President SAIED suspended indefinitely  the Assembly<br>unicameral Assembly of the Representatives of the People or Majlis Nuwwab ash-Sha'b (Assemblee des representants du peuple) (217 seats; 199 members directly elected in Tunisian multi-seat constituencies and 18 members in multi-seat constituencies living abroad by party-list proportional representation vote; members serve 5-year terms)<br>
+_description_: <strong>note</strong>: on 25 July 2021, President SAIED suspended indefinitely the Assembly, and on 30 March 2022 he dissolved the Assembly<br>unicameral Assembly of the Representatives of the People or Majlis Nuwwab ash-Sha'b (Assemblee des representants du peuple) (217 seats; 199 members directly elected in Tunisian multi-seat constituencies and 18 members in multi-seat constituencies living abroad by party-list proportional representation vote; members serve 5-year terms)<br>
 _elections_: initial election held on 6 October 2019 (next to be held in December 2022)<br>
 _election results_: percent of vote by party - Ennahda 19.6%, Heart of Tunisia 14.6%, Free Destourian Party 6.6%, Democratic Current 6.4%, Dignity Coalition 5.9%, People's Movement 4.5%, TahyaTounes 4.1%, other 35.4%, independent 2.9%; seats by party -&nbsp; Ennahda 52, Heart of Tunisia 38, Free Destourian Party 17, Democratic Current 22, Dignity Coalition 21, People's Movement 16, Long Live Tunisia 14, other 25, independent 12; composition (as of October 2021) - men 160, women 57, percent of women 26.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation (consists of the first president, chamber presidents, and magistrates and organized into 27 civil and 11 criminal chambers)<br>
-_judge selection and term of office_: Supreme Court judges nominated by the Supreme Judicial Council, an independent 4-part body consisting mainly of elected judges and the remainder legal specialists; judge tenure based on terms of appointment; Constitutional Court; note -court was established in the constitution but establishment has been delayed<br>
+_judge selection and term of office_: Supreme Court judges nominated by the Supreme Judicial Council, an independent 4-part body consisting mainly of elected judges and the remainder legal specialists; judge tenure based on terms of appointment; Constitutional Court (established in the constitution but inception has been delayed; note - in mid-February 2022, President SAIED dissolved the Supreme Judicial Council and replaced it with an interim council in early March<br>
 _subordinate courts_: Courts of Appeal; administrative courts; Court of Audit; Housing Court; courts of first instance; lower district courts; military courts<br>
 <strong>note:</strong> the new Tunisian constitution of January 2014 called for the creation of a constitutional court by the end of 2015, but as November 2021, the court had not been appointed; the court to consist of 12 members - 4 each to be appointed by the president, the Supreme Judicial Council (an independent 4-part body consisting mainly of elected judges and the remainder are legal specialists), and the Chamber of the People's Deputies (parliament); members are to serve 9-year terms with one-third of the membership renewed every 3 years<br>
 
 **Political parties and leaders**<br>
-Afek Tounes [Yassine BRAHIM]Al Badil Al-Tounisi (The Tunisian Alternative) [Mehdi JOMAA]<br>Call for Tunisia Party (Nidaa Tounes) [Ali HAFSI]<br>Current of Love [Hachemi HAMDI] (formerly the Popular Petition party)<br>Democratic Current [Mohamed ABBOU]<br>Democratic Patriots' Unified Party [Zied LAKHDHAR]<br>Dignity Coalition or Al Karama [Seifeddine MAKHIOUF]<br>Ennahda Movement (The Renaissance) [Rachid GHANNOUCHI]<br>Free Destourian Party or PDL [Abir MOUSSI]<br>Free Patriotic Union (Union patriotique libre) or UPL  [Slim RIAHI]<br>Green Tunisia Party [Abdelkader ZITOUNI]<br>Heart of Tunisia (Qalb Tounes) [Nabil KAROUI]<br>Irada Movement or Movement Party [Moncef MARZOUKI]<br>Long Live Tunisia (Tahya Tounes) [Youssef CHAHED]<br>Machrou Tounes (Tunisia Project) [Mohsen MARZOUK]<br>Movement of Socialist Democrats or MDS [Ahmed KHASKHOUSSI]<br>Party of the Democratic Arab Vanguard [Kheireddine SOUABNI]<br>People's Movement [Zouheir MAGHZAOUI]<br>Republican Party [Maya JRIBI]<br>Tunisian Ba'ath Movement [Othmen Bel Haj AMOR]<br>Tunisia First (Tunis Awlan) [Ridha BELHAJ]<br>Workers' Party [Hamma HAMMAMI]<br>
+Afek Tounes [Yassine BRAHIM]Al Badil Al-Tounisi (The Tunisian Alternative) [Mehdi JOMAA]<br>Amal Party [Ridha BELHAJ]<br>Call for Tunisia Party (Nidaa Tounes) [Ali HAFSI]<br>Current of Love [Hachemi HAMDI] (formerly the Popular Petition party)<br>Democratic Current [Ghazi CHAOUACHI]<br>Democratic Patriots' Unified Party [Zied LAKHDHAR]<br>Dignity Coalition or Al Karama Coalition [Seifeddine MAKHIOUF]<br>Ennahda Movement (The Renaissance) [Rached GHANNOUCHI]<br>Free Destourian Party or PDL [Abir MOUSSI]<br>Green Tunisia Party [Abdelkader ZITOUNI]<br>Heart of Tunisia (Qalb Tounes) [Nabil KAROUI]<br>Long Live Tunisia (Tahya Tounes) [Youssef CHAHED]<br>Machrou Tounes (Tunisia Project) [Mohsen MARZOUK]<br>Movement of Socialist Democrats or MDS [Ahmed KHASKHOUSSI]<br>Party of the Democratic Arab Vanguard [Kheireddine SOUABNI]<br>People's Movement [Zouheir MAGHZAOUI]<br>Republican Party (Al Joumhouri) [Issam CHEBBI] <br>The Movement Party (Hizb Harak) [Moncef MARZOUKI]<br>Third Republic Party [Olfa Hamdi]<br>Tunisian Ba'ath Movement [Othmen Bel Haj AMOR]<br>Workers' Party [Hamma HAMMAMI]<br>
 
 **International organization participation**<br>
 ABEDA, AfDB, AFESD, AMF, AMU, AU, BSEC (observer), CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -387,7 +387,7 @@ _selected World Heritage Site locales_: Amphitheatre of El Jem (c), Archaeologic
 ## Economy
 
 **Economic overview**<br>
-<p>Tunisia's economy – structurally designed to favor vested interests – faced an array of challenges exposed by the 2008 global financial crisis that helped precipitate the 2011 Arab Spring revolution. After the revolution and a series of terrorist attacks, including on the country’s tourism sector, barriers to economic inclusion continued to add to slow economic growth and high unemployment.</p><p></p><p>Following an ill-fated experiment with socialist economic policies in the 1960s, Tunisia focused on bolstering exports, foreign investment, and tourism, all of which have become central to the country's economy. Key exports now include textiles and apparel, food products, petroleum products, chemicals, and phosphates, with about 80% of exports bound for Tunisia's main economic partner, the EU. Tunisia's strategy, coupled with investments in education and infrastructure, fueled decades of 4-5% annual GDP growth and improved living standards. Former President Zine el Abidine BEN ALI (1987-2011) continued these policies, but as his reign wore on cronyism and corruption stymied economic performance, unemployment rose, and the informal economy grew. Tunisia’s economy became less and less inclusive. These grievances contributed to the January 2011 overthrow of BEN ALI, further depressing Tunisia's economy as tourism and investment declined sharply.</p><p></p><p>Tunisia’s government remains under pressure to boost economic growth quickly to mitigate chronic socio-economic challenges, especially high levels of youth unemployment, which has persisted since the 2011 revolution. Successive terrorist attacks against the tourism sector and worker strikes in the phosphate sector, which combined account for nearly 15% of GDP, slowed growth from 2015 to 2017. Tunis is seeking increased foreign investment and working with the IMF through an Extended Fund Facility agreement to fix fiscal deficiencies.</p><br>
+<p>Tunisia's economy – structurally designed to favor vested interests – faced an array of challenges exposed by the 2008 global financial crisis that helped precipitate the 2011 Arab Spring revolution. After the revolution and a series of terrorist attacks, including on the country’s tourism sector, barriers to economic inclusion continued to add to slow economic growth and high unemployment.</p> <p> </p> <p>Following an ill-fated experiment with socialist economic policies in the 1960s, Tunisia focused on bolstering exports, foreign investment, and tourism, all of which have become central to the country's economy. Key exports now include textiles and apparel, food products, petroleum products, chemicals, and phosphates, with about 80% of exports bound for Tunisia's main economic partner, the EU. Tunisia's strategy, coupled with investments in education and infrastructure, fueled decades of 4-5% annual GDP growth and improved living standards. Former President Zine el Abidine BEN ALI (1987-2011) continued these policies, but as his reign wore on cronyism and corruption stymied economic performance, unemployment rose, and the informal economy grew. Tunisia’s economy became less and less inclusive. These grievances contributed to the January 2011 overthrow of BEN ALI, further depressing Tunisia's economy as tourism and investment declined sharply.</p> <p> </p> <p>Tunisia’s government remains under pressure to boost economic growth quickly to mitigate chronic socio-economic challenges, especially high levels of youth unemployment, which has persisted since the 2011 revolution. Successive terrorist attacks against the tourism sector and worker strikes in the phosphate sector, which combined account for nearly 15% of GDP, slowed growth from 2015 to 2017. Tunis is seeking increased foreign investment and working with the IMF through an Extended Fund Facility agreement to fix fiscal deficiencies.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $114.97 billion (2020 est.)<br>
@@ -600,8 +600,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,533,273 (2020)<br>
-_subscriptions per 100 inhabitants_: 12.97 (2020 est.)<br>
+_total subscriptions_: 1,533,273 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 14.771 million (2019)<br>
@@ -624,8 +624,8 @@ _total_: 8,509,405 (2020 est.)<br>
 _percent of population_: 72% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,334,059 (2021)<br>
-_subscriptions per 100 inhabitants_: 11.29 (2021)<br>
+_total_: 1,334,059 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 ## Transportation
 
@@ -680,11 +680,11 @@ Tunisian Armed Forces (Forces Armees Tunisiennes, FAT): Tunisian Army (includes 
 note - the National Police has primary responsibility for law enforcement in the major cities, while the National Guard (gendarmerie) oversees border security and patrols smaller towns and rural areas<br>
 
 **Military expenditures**<br>
-2.9% of GDP (2020 est.)<br>
+3% of GDP (2021 est.)<br>
+3% of GDP (2020 est.)<br>
 3.8% of GDP (2019 est.) (approximately $2.81 billion)<br>
 3.9% of GDP (2018 est.) (approximately $2.84 billion)<br>
 4% of GDP (2017 est.) (approximately $2.81 billion)<br>
-4.4% of GDP (2016 est.) (approximately $2.95 billion)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 35,000 active personnel (25,000 Army; 5,000 Navy; 5,000 Air Force); est. 10,000 National Guard (2021)<br>

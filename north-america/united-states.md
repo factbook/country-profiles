@@ -619,8 +619,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 103.052 million (2020)<br>
-_subscriptions per 100 inhabitants_: 31.13 (2020 est.)<br>
+_total subscriptions_: 101.526 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 442.457 million (2019)<br>
@@ -643,8 +643,8 @@ _total_: 301,665,983 (2020 est.)<br>
 _percent of population_: 91% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 121.176 million (2021)<br>
-_subscriptions per 100 inhabitants_: 36.61 (2021)<br>
+_total_: 121.176 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
 
 **Communications - note**<br>
 <strong>note 1:</strong> The Library of Congress, Washington DC, USA, claims to be the largest library in the world with more than 167 million items (as of 2018); its collections are universal, not limited by subject, format, or national boundary, and include materials from all parts of the world and in over 450 languages; collections include: books, newspapers, magazines, sheet music, sound and video recordings, photographic images, artwork, architectural drawings, and copyright data<br><br><strong>note 2:</strong> Cape Canaveral, Florida, USA, hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Ascension (Saint Helena, Ascension, and Tistan da Cunha), Diego Garcia (British Indian Ocean Territory), and at Kwajalein (Marshall Islands)<br>

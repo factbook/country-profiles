@@ -616,12 +616,12 @@ _electrification - rural areas_: 29% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 142,587 (2020)<br>
-_subscriptions per 100 inhabitants_: 5.95 (2020 est.)<br>
+_total subscriptions_: 140,003 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,819,019 (2020)<br>
-_subscriptions per 100 inhabitants_: 162.4 (2020 est.)<br>
+_total subscriptions_: 3,829,408 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 163 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>due to effective regulatory reform and active competition, Botswana’s telecom market is one of the most liberalized in the region; strategy to drive nationwide ICT penetration is slowed; one of the highest mobile penetration rates in Africa; operators developing 3G and LTE; Internet use rising due to lower prices; government has embraced digitalization, e-government and identity programs that require citizens to provide detailed personal information; previously dependent on satellites for international connectivity, country’s new submarine cable landings improved competition and tripled international Internet capacity; importer of broadcast equipment from Hong Kong and China (2020)</p> (2020)<br>
@@ -640,8 +640,8 @@ _total_: 1,505,040 (2020 est.)<br>
 _percent of population_: 64% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 259,525 (2021)<br>
-_subscriptions per 100 inhabitants_: 11.04 (2021)<br>
+_total_: 259,525 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 ## Transportation
 
@@ -686,11 +686,11 @@ Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Lo
 note - both the armed forces and the Botswana Police Service report to the Ministry of Defense, Justice, and Security<br>
 
 **Military expenditures**<br>
+3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
 2.8% of GDP (2019) (approximately $760 million)<br>
 2.8% of GDP (2018) (approximately $730 million)<br>
 2.9% of GDP (2017) (approximately $740 million)<br>
-3.1% of GDP (2016) (approximately $760 million)<br>
 
 **Military and security service personnel strengths**<br>
 the Botswana Defense Force (BDF) has approximately 9,000 active personnel (2021)<br>

@@ -406,7 +406,7 @@ _selected World Heritage Site locales_: Kunta Kinteh Island and Related Sites, S
 ## Economy
 
 **Economic overview**<br>
-<p>The government has invested in the agriculture sector because three-quarters of the population depends on the sector for its livelihood and agriculture provides for about one-third of GDP, making The Gambia largely reliant on sufficient rainfall. The agricultural sector has untapped potential - less than half of arable land is cultivated and agricultural productivity is low. Small-scale manufacturing activity features the processing of cashews, groundnuts, fish, and hides. The Gambia's reexport trade accounts for almost 80% of goods exports and China has been its largest trade partner for both exports and imports for several years.</p><p></p><p>The Gambia has sparse natural resource deposits. It relies heavily on remittances from workers overseas and tourist receipts. Remittance inflows to The Gambia amount to about one-fifth of the country’s GDP. The Gambia's location on the ocean and proximity to Europe has made it one of the most frequented tourist destinations in West Africa, boosted by private sector investments in eco-tourism and facilities. Tourism normally brings in about 20% of GDP, but it suffered in 2014 from tourists’ fears of Ebola virus in neighboring West African countries. Unemployment and underemployment remain high.</p><p></p><p>Economic progress depends on sustained bilateral and multilateral aid, on responsible government economic management, and on continued technical assistance from multilateral and bilateral donors. International donors and lenders were concerned about the quality of fiscal management under the administration of former President Yahya JAMMEH, who reportedly stole hundreds of millions of dollars of the country’s funds during his 22 years in power, but anticipate significant improvements under the new administration of President Adama BARROW, who assumed power in early 2017. As of April 2017, the IMF, the World Bank, the European Union, and the African Development Bank were all negotiating with the new government of The Gambia to provide financial support in the coming months to ease the country’s financial crisis.</p><p></p><p>The country faces a limited availability of foreign exchange, weak agricultural output, a border closure with Senegal, a slowdown in tourism, high inflation, a large fiscal deficit, and a high domestic debt burden that has crowded out private sector investment and driven interest rates to new highs. The government has committed to taking steps to reduce the deficit, including through expenditure caps, debt consolidation, and reform of state-owned enterprises.</p><br>
+<p>The government has invested in the agriculture sector because three-quarters of the population depends on the sector for its livelihood and agriculture provides for about one-third of GDP, making The Gambia largely reliant on sufficient rainfall. The agricultural sector has untapped potential - less than half of arable land is cultivated and agricultural productivity is low. Small-scale manufacturing activity features the processing of cashews, groundnuts, fish, and hides. The Gambia's reexport trade accounts for almost 80% of goods exports and China has been its largest trade partner for both exports and imports for several years.</p> <p> </p> <p>The Gambia has sparse natural resource deposits. It relies heavily on remittances from workers overseas and tourist receipts. Remittance inflows to The Gambia amount to about one-fifth of the country’s GDP. The Gambia's location on the ocean and proximity to Europe has made it one of the most frequented tourist destinations in West Africa, boosted by private sector investments in eco-tourism and facilities. Tourism normally brings in about 20% of GDP, but it suffered in 2014 from tourists’ fears of Ebola virus in neighboring West African countries. Unemployment and underemployment remain high.</p> <p> </p> <p>Economic progress depends on sustained bilateral and multilateral aid, on responsible government economic management, and on continued technical assistance from multilateral and bilateral donors. International donors and lenders were concerned about the quality of fiscal management under the administration of former President Yahya JAMMEH, who reportedly stole hundreds of millions of dollars of the country’s funds during his 22 years in power, but anticipate significant improvements under the new administration of President Adama BARROW, who assumed power in early 2017. As of April 2017, the IMF, the World Bank, the European Union, and the African Development Bank were all negotiating with the new government of The Gambia to provide financial support in the coming months to ease the country’s financial crisis.</p> <p> </p> <p>The country faces a limited availability of foreign exchange, weak agricultural output, a border closure with Senegal, a slowdown in tourism, high inflation, a large fiscal deficit, and a high domestic debt burden that has crowded out private sector investment and driven interest rates to new highs. The government has committed to taking steps to reduce the deficit, including through expenditure caps, debt consolidation, and reform of state-owned enterprises.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $5.22 billion (2020 est.)<br>
@@ -614,8 +614,8 @@ _electrification - rural areas_: 16% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 44,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 1.93 (2018 est.)<br>
+_total subscriptions_: 60,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 2,677,954 (2020)<br>
@@ -638,8 +638,8 @@ _total_: 894,166 (2020 est.)<br>
 _percent of population_: 37% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.21 (2021 est.) less than 1<br>
+_total_: 5,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.21 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -679,11 +679,11 @@ _major seaport(s)_: Banjul<br>
 Gambia Armed Forces: the Gambian National Army (GNA; includes a small air wing), Navy, Republican National Guard (responsible for VIP protection, riot control, and presidential security) (2021)<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2021 est.)<br>
 0.8% of GDP (2020 est.)<br>
 0.8% of GDP (2019 est.) (approximately $25 million)<br>
 0.7% of GDP (2018 est.) (approximately $20 million)<br>
 0.7% of GDP (2017 est.) (approximately $20 million)<br>
-0.8% of GDP (2016 est.) (approximately $20 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 2,000 total active troops (2021)<br>

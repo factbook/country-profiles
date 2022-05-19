@@ -414,7 +414,7 @@ _selected World Heritage Site locales_: Como&eacute; National Park (n), Historic
 ## Economy
 
 **Economic overview**<br>
-<p>For the last 5 years Cote d'Ivoire's growth rate has been among the highest in the world. Cote d'Ivoire is heavily dependent on agriculture and related activities, which engage roughly two-thirds of the population. Cote d'Ivoire is the world's largest producer and exporter of cocoa beans and a significant producer and exporter of coffee and palm oil. Consequently, the economy is highly sensitive to fluctuations in international prices for these products and to climatic conditions. Cocoa, oil, and coffee are the country's top export revenue earners, but the country has targeted agricultural processing of cocoa, cashews, mangoes, and other commodities as a high priority. Mining gold and exporting electricity are growing industries outside agriculture.</p><p></p><p>Following the end of more than a decade of civil conflict in 2011, Cote d’Ivoire has experienced a boom in foreign investment and economic growth. In June 2012, the IMF and the World Bank announced $4.4 billion in debt relief for Cote d'Ivoire under the Highly Indebted Poor Countries Initiative.</p><br>
+<p>For the last 5 years Cote d'Ivoire's growth rate has been among the highest in the world. Cote d'Ivoire is heavily dependent on agriculture and related activities, which engage roughly two-thirds of the population. Cote d'Ivoire is the world's largest producer and exporter of cocoa beans and a significant producer and exporter of coffee and palm oil. Consequently, the economy is highly sensitive to fluctuations in international prices for these products and to climatic conditions. Cocoa, oil, and coffee are the country's top export revenue earners, but the country has targeted agricultural processing of cocoa, cashews, mangoes, and other commodities as a high priority. Mining gold and exporting electricity are growing industries outside agriculture.</p> <p> </p> <p>Following the end of more than a decade of civil conflict in 2011, Cote d’Ivoire has experienced a boom in foreign investment and economic growth. In June 2012, the IMF and the World Bank announced $4.4 billion in debt relief for Cote d'Ivoire under the Highly Indebted Poor Countries Initiative.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $136.48 billion (2020 est.)<br>
@@ -625,7 +625,7 @@ _electrification - rural areas_: 51% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 264,073 (2020)<br>
+_total subscriptions_: 264,073 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
@@ -649,8 +649,8 @@ _total_: 9,496,179 (2020 est.)<br>
 _percent of population_: 36% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 260,097 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.99 (2021) less than 1<br>
+_total_: 260,097 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.99 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -712,11 +712,11 @@ _oil terminal(s)_: Espoir Offshore Terminal<br>
 Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republican Forces of Ivory Coast, FRCI): Army (Armee de Terre), Navy (Marine Nationale), Cote Air Force (Force Aerienne Cote), Special Forces (Forces Speciale); National Gendarmerie (under the Ministry of Defense); National Police (under the Ministry of Security and Civil Protection); Coordination Center for Operational Decisions (a mix of police, gendarmerie, and FACI personnel for assisting police in providing security in some large cities) (2021)<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2021 est.)<br>
 1.1% of GDP (2020 est.)<br>
 1.1% of GDP (2019 est.) (approximately $710 million)<br>
 1.2% of GDP (2018 est.) (approximately $780 million)<br>
 1.1% of GDP (2017 est.) (approximately $720 million)<br>
-1.2% of GDP (2016 est.) (approximately $720 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active troops (23,000 Army, including about 2,000 Special Forces; 1,000 Navy; 1,000 Air Force); est. 5-10,000 Gendarmerie (2021)<br>

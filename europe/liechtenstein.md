@@ -86,7 +86,7 @@ _noun_: Liechtensteiner(s)<br>
 _adjective_: Liechtenstein<br>
 
 **Ethnic groups**<br>
-Liechtensteiner 65.8%, Swiss 9.6%, Austrian 5.9%, German 4.4%, Italian 3.1%, other 11.2% (2019 est.)<br>
+Liechtensteiner 65.5%, Swiss 9.6%, Austrian 6%, German 4.5%, Italian 3.1%, other 11.4% (2020 est.)<br>
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
@@ -341,7 +341,7 @@ _lyrics/music_: Jakob Joseph JAUCH/Josef FROMMELT<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Despite its small size and lack of natural resources, Liechtenstein has developed into a prosperous, highly industrialized, free-enterprise economy with a vital financial services sector and one of the highest per capita income levels in the world. The Liechtenstein economy is widely diversified with a large number of small and medium-sized businesses, particularly in the services sector. Low business taxes - a flat tax of 12.5% on income is applied - and easy incorporation rules have induced many holding companies to establish nominal offices in Liechtenstein, providing 30% of state revenues.</p><p></p><p>The country participates in a customs union with Switzerland and uses the Swiss franc as its national currency. It imports more than 90% of its energy requirements. Liechtenstein has been a member of the European Economic Area (an organization serving as a bridge between the European Free Trade Association and the EU) since May 1995. The government is working to harmonize its economic policies with those of an integrated EU. As of 2015, 54% of Liechtenstein’s workforce consisted of cross-border commuters, largely from Austria, Germany, and Switzerland.</p><p></p><p>Since 2008, Liechtenstein has faced renewed international pressure - particularly from Germany and the US - to improve transparency in its banking and tax systems. In December 2008, Liechtenstein signed a Tax Information Exchange Agreement with the US. Upon Liechtenstein's conclusion of 12 bilateral information-sharing agreements, the OECD in October 2009 removed the principality from its "grey list" of countries that had yet to implement the organization's Model Tax Convention. By the end of 2010, Liechtenstein had signed 25 Tax Information Exchange Agreements or Double Tax Agreements. In 2011, Liechtenstein joined the Schengen area, which allows passport-free travel across 26 European countries. In 2015, Liechtenstein and the EU agreed to clamp down on tax fraud and evasion and in 2018 will start automatically exchanging information on the bank accounts of each other’s residents.</p><br>
+<p>Despite its small size and lack of natural resources, Liechtenstein has developed into a prosperous, highly industrialized, free-enterprise economy with a vital financial services sector and one of the highest per capita income levels in the world. The Liechtenstein economy is widely diversified with a large number of small and medium-sized businesses, particularly in the services sector. Low business taxes - a flat tax of 12.5% on income is applied - and easy incorporation rules have induced many holding companies to establish nominal offices in Liechtenstein, providing 30% of state revenues.</p> <p> </p> <p>The country participates in a customs union with Switzerland and uses the Swiss franc as its national currency. It imports more than 90% of its energy requirements. Liechtenstein has been a member of the European Economic Area (an organization serving as a bridge between the European Free Trade Association and the EU) since May 1995. The government is working to harmonize its economic policies with those of an integrated EU. As of 2015, 54% of Liechtenstein’s workforce consisted of cross-border commuters, largely from Austria, Germany, and Switzerland.</p> <p> </p> <p>Since 2008, Liechtenstein has faced renewed international pressure - particularly from Germany and the US - to improve transparency in its banking and tax systems. In December 2008, Liechtenstein signed a Tax Information Exchange Agreement with the US. Upon Liechtenstein's conclusion of 12 bilateral information-sharing agreements, the OECD in October 2009 removed the principality from its "grey list" of countries that had yet to implement the organization's Model Tax Convention. By the end of 2010, Liechtenstein had signed 25 Tax Information Exchange Agreements or Double Tax Agreements. In 2011, Liechtenstein joined the Schengen area, which allows passport-free travel across 26 European countries. In 2015, Liechtenstein and the EU agreed to clamp down on tax fraud and evasion and in 2018 will start automatically exchanging information on the bank accounts of each other’s residents.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $4.978 billion (2014 est.)<br>
@@ -462,8 +462,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 12,723 (2020)<br>
-_subscriptions per 100 inhabitants_: 33.37 (2020 est.)<br>
+_total subscriptions_: 12,607 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 48,904 (2020)<br>
@@ -486,8 +486,8 @@ _total_: 37,260 (2019 est.)<br>
 _percent of population_: 98% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 18,050 (2021)<br>
-_subscriptions per 100 inhabitants_: 47.34 (2021)<br>
+_total_: 18,050 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 47 (2020 est.)<br>
 
 ## Transportation
 

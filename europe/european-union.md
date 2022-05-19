@@ -488,8 +488,8 @@ euros per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 165,475,641<br>
-_subscriptions per 100 inhabitants_: (2019 est.) 36.78<br>
+_total subscriptions_: 160,149,025 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 36 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 529,497,242<br>
@@ -506,8 +506,8 @@ _total_: 380,357,569 (2020 est.)<br>
 _percent of population_: 85% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 158,303,562<br>
-_subscriptions per 100 inhabitants_: (2019 est.) 35.19<br>
+_total_: 163,772,540 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
 
 ## Transportation
 

@@ -60,7 +60,7 @@ katabatic (gravity-driven) winds blow coastward from the high interior; frequent
 the coldest, windiest, highest (on average), and driest continent; during summer, more solar radiation reaches the surface at the South Pole than is received at the Equator in an equivalent period <br><br>mostly uninhabitable, 99% of the land area is covered by the Antarctic ice sheet, the largest single mass of ice on earth covering an area of 14 million sq km (5.4 million sq mi) and containing 26.5 million cu km (6.4 million cu mi) of ice (this is almost 62% of all of the world's fresh water); if all this ice were converted to liquid water, one estimate is that it would be sufficient to raise the height of the world's oceans by 58 m (190 ft)<br>
 
 **Map description**<br>
-<p>Antarctica map showing the continent and its major regions (Lands) surrounded by the Southern Ocean.</p><br>
+<p>Map of Antarctica showing the continent and its major regions (Lands) surrounded by the Southern Ocean. Also shown are two of the US research stations, McMurdo and Amundsen-Scott, not shown is Palmer Station located on the Antarctic Peninsula. </p><br>
 
 ## People and Society
 

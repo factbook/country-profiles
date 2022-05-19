@@ -98,7 +98,7 @@ _noun_: Ethiopian(s)<br>
 _adjective_: Ethiopian<br>
 
 **Ethnic groups**<br>
-Oromo 35.8%, Amhara 24.1%, Somali 7.2%, Tigray 5.7%, Sidama 4.1%, Gamo-Goffa-Dawuro 2.8%, Guragie 2.6%, Welaita 2.3%, Afar 2.2%, Silte 1.3%, Kefficho 1.2%, other 10.8% (2022 est.)<br>
+Oromo 35.8%, Amhara 24.1%, Somali 7.2%, Tigray 5.7%, Sidama 4.1%, Guragie 2.6%, Welaita 2.3%, Afar 2.2%, Silte 1.3%, Kefficho 1.2%, other 13.5% (2022 est.)<br>
 
 **Languages**<br>
 Oromo (official working language in the State of Oromiya) 33.8%, Amharic (official national language) 29.3%, Somali (official working language of the State of Sumale) 6.2%, Tigrigna (Tigrinya) (official working language of the State of Tigray) 5.9%, Sidamo 4%, Wolaytta 2.2%, Gurage 2%, Afar (official working language of the State of Afar) 1.7%, Hadiyya 1.7%, Gamo 1.5%, Gedeo 1.3%, Opuuo 1.2%, Kafa 1.1%, other 8.1%, English (major foreign language taught in schools), Arabic (2007 est.)<br>
@@ -436,7 +436,7 @@ _selected World Heritage Site locales_: Rock-Hewn Churches, Lalibela (c); Simien
 ## Economy
 
 **Economic overview**<br>
-<p>Ethiopia - the second most populous country in Africa - is a one-party state with a planned economy. For more than a decade before 2016, GDP grew at a rate between 8% and 11% annually – one of the fastest growing states among the 188 IMF member countries. This growth was driven by government investment in infrastructure, as well as sustained progress in the agricultural and service sectors. More than 70% of Ethiopia’s population is still employed in the agricultural sector, but services have surpassed agriculture as the principal source of GDP.</p><p></p><p>Ethiopia has the lowest level of income-inequality in Africa and one of the lowest in the world, with a Gini coefficient comparable to that of the Scandinavian countries. Yet despite progress toward eliminating extreme poverty, Ethiopia remains one of the poorest countries in the world, due both to rapid population growth and a low starting base. Changes in rainfall associated with world-wide weather patterns resulted in the worst drought in 30 years in 2015-16, creating food insecurity for millions of Ethiopians.</p><p></p><p>The state is heavily engaged in the economy. Ongoing infrastructure projects include power production and distribution, roads, rails, airports and industrial parks. Key sectors are state-owned, including telecommunications, banking and insurance, and power distribution. Under Ethiopia's constitution, the state owns all land and provides long-term leases to tenants. Title rights in urban areas, particularly Addis Ababa, are poorly regulated, and subject to corruption.</p><p></p><p>Ethiopia’s foreign exchange earnings are led by the services sector - primarily the state-run Ethiopian Airlines - followed by exports of several commodities. While coffee remains the largest foreign exchange earner, Ethiopia is diversifying exports, and commodities such as gold, sesame, khat, livestock and horticulture products are becoming increasingly important. Manufacturing represented less than 8% of total exports in 2016, but manufacturing exports should increase in future years due to a growing international presence.</p><p></p><p>The banking, insurance, telecommunications, and micro-credit industries are restricted to domestic investors, but Ethiopia has attracted roughly $8.5 billion in foreign direct investment (FDI), mostly from China, Turkey, India and the EU; US FDI is $567 million. Investment has been primarily in infrastructure, construction, agriculture/horticulture, agricultural processing, textiles, leather and leather products.</p><p></p><p>To support industrialization in sectors where Ethiopia has a comparative advantage, such as textiles and garments, leather goods, and processed agricultural products, Ethiopia plans to increase installed power generation capacity by 8,320 MW, up from a capacity of 2,000 MW, by building three more major dams and expanding to other sources of renewable energy. In 2017, the government devalued the birr by 15% to increase exports and alleviate a chronic foreign currency shortage in the country.</p><br>
+<p>Ethiopia - the second most populous country in Africa - is a one-party state with a planned economy. For more than a decade before 2016, GDP grew at a rate between 8% and 11% annually – one of the fastest growing states among the 188 IMF member countries. This growth was driven by government investment in infrastructure, as well as sustained progress in the agricultural and service sectors. More than 70% of Ethiopia’s population is still employed in the agricultural sector, but services have surpassed agriculture as the principal source of GDP.</p> <p> </p> <p>Ethiopia has the lowest level of income-inequality in Africa and one of the lowest in the world, with a Gini coefficient comparable to that of the Scandinavian countries. Yet despite progress toward eliminating extreme poverty, Ethiopia remains one of the poorest countries in the world, due both to rapid population growth and a low starting base. Changes in rainfall associated with world-wide weather patterns resulted in the worst drought in 30 years in 2015-16, creating food insecurity for millions of Ethiopians.</p> <p> </p> <p>The state is heavily engaged in the economy. Ongoing infrastructure projects include power production and distribution, roads, rails, airports and industrial parks. Key sectors are state-owned, including telecommunications, banking and insurance, and power distribution. Under Ethiopia's constitution, the state owns all land and provides long-term leases to tenants. Title rights in urban areas, particularly Addis Ababa, are poorly regulated, and subject to corruption.</p> <p> </p> <p>Ethiopia’s foreign exchange earnings are led by the services sector - primarily the state-run Ethiopian Airlines - followed by exports of several commodities. While coffee remains the largest foreign exchange earner, Ethiopia is diversifying exports, and commodities such as gold, sesame, khat, livestock and horticulture products are becoming increasingly important. Manufacturing represented less than 8% of total exports in 2016, but manufacturing exports should increase in future years due to a growing international presence.</p> <p> </p> <p>The banking, insurance, telecommunications, and micro-credit industries are restricted to domestic investors, but Ethiopia has attracted roughly $8.5 billion in foreign direct investment (FDI), mostly from China, Turkey, India and the EU; US FDI is $567 million. Investment has been primarily in infrastructure, construction, agriculture/horticulture, agricultural processing, textiles, leather and leather products.</p> <p> </p> <p>To support industrialization in sectors where Ethiopia has a comparative advantage, such as textiles and garments, leather goods, and processed agricultural products, Ethiopia plans to increase installed power generation capacity by 8,320 MW, up from a capacity of 2,000 MW, by building three more major dams and expanding to other sources of renewable energy. In 2017, the government devalued the birr by 15% to increase exports and alleviate a chronic foreign currency shortage in the country.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $264.05 billion (2020 est.)<br>
@@ -651,8 +651,8 @@ _electrification - rural areas_: 34% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.14 million (2018)<br>
-_subscriptions per 100 inhabitants_: 1.04 (2018 est.)<br>
+_total subscriptions_: 1.252 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 39.54 million (2018)<br>
@@ -675,8 +675,8 @@ _total_: 27,591,260 (2020 est.)<br>
 _percent of population_: 24% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 212,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 0.18 (2021) less than 1<br>
+_total_: 212,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.18 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -728,11 +728,11 @@ Ethiopian National Defense Force (ENDF): Ground Forces, Ethiopian Air Force (Ye 
 note(s) - in January 2020 the Ethiopian Government announced it had re-established a navy, which was disbanded in 1996; in March 2019 Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which will reportedly be based out of Djibouti<br><br>in 2018, Ethiopia established a Republican Guard military unit responsible to the Prime Minister for protecting senior officials<br><br><br>
 
 **Military expenditures**<br>
+0.5% of GDP (2021 est.)<br>
 0.5% of GDP (2020 est.)<br>
 0.6% of GDP (2019 est.) (approximately $970 million)<br>
 0.6% of GDP (2018 est.) (approximately $950 million)<br>
 0.7% of GDP (2017 est.) (approximately $930 million)<br>
-0.7% of GDP (2016 est.) (approximately $870 million)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; prior to the 2020-21 Tigray conflict, approximately 150,000 active duty troops, including about 3,000 Air Force personnel (no personnel numbers available for the newly-established Navy) (2021)<br>

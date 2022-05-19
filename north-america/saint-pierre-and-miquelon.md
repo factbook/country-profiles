@@ -297,7 +297,7 @@ a yellow three-masted sailing ship facing the hoist side rides on a blue backgro
 ## Economy
 
 **Economic overview**<br>
-<p>The inhabitants have traditionally earned their livelihood by fishing and by servicing fishing fleets operating off the coast of Newfoundland. The economy has been declining, however, because of disputes with Canada over fishing quotas and a steady decline in the number of ships stopping at Saint Pierre. The services sector accounted for 86% of GDP in 2010, the last year data is available for. Government employment accounts for than 46% of the GDP, and 78% of the population is working age.</p><p></p><p>The government hopes an expansion of tourism will boost economic prospects. Fish farming, crab fishing, and agriculture are being developed to diversify the local economy. Recent test drilling for oil may pave the way for development of the energy sector. Trade is the second largest sector in terms of value added created, where it contributes significantly to economic activity. The extractive industries and energy sector is the third largest sector of activity in the archipelago, attributable in part to the construction of a new thermal power plant in 2015.</p><br>
+<p>The inhabitants have traditionally earned their livelihood by fishing and by servicing fishing fleets operating off the coast of Newfoundland. The economy has been declining, however, because of disputes with Canada over fishing quotas and a steady decline in the number of ships stopping at Saint Pierre. The services sector accounted for 86% of GDP in 2010, the last year data is available for. Government employment accounts for than 46% of the GDP, and 78% of the population is working age.</p> <p> </p> <p>The government hopes an expansion of tourism will boost economic prospects. Fish farming, crab fishing, and agriculture are being developed to diversify the local economy. Recent test drilling for oil may pave the way for development of the energy sector. Trade is the second largest sector in terms of value added created, where it contributes significantly to economic activity. The extractive industries and energy sector is the third largest sector of activity in the archipelago, attributable in part to the construction of a new thermal power plant in 2015.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $261.3 million (2015 est.)<br>
@@ -466,8 +466,8 @@ euros (EUR) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,086<br>
-_subscriptions per 100 inhabitants_: 75.55 (2019 est.)<br>
+_total subscriptions_: 4,800 (2015 est.)<br>
+_subscriptions per 100 inhabitants_: 76 (2015 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate (2019)<br>

@@ -51,7 +51,7 @@ _lowest point_: Lake Eyre -15 m<br>
 _mean elevation_: 330 m<br>
 
 **Natural resources**<br>
-alumina, coal, iron ore, copper, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, natural gas, petroleum; note -&nbsp;Australia is the world's largest net exporter of coal accounting for 29% of global coal exports<br>
+alumina, coal, iron ore, copper, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, opals, natural gas, petroleum; note - Australia is the world's largest net exporter of coal accounting for 29% of global coal exports; as well, Australia is by far the world's largest supplier of opals<br>
 
 **Land use**<br>
 _agricultural land_: 46.65% (2018 est.)<br>
@@ -405,7 +405,7 @@ _selected World Heritage Site locales_: Great Barrier Reef (n), Greater Blue Mou
 ## Economy
 
 **Economic overview**<br>
-<p>Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the WTO, APEC, the G20, and other trade forums. Australia’s free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the 10 ASEAN countries and China, Japan, Korea, New Zealand, and India.</p><p></p><p>Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas Project, will significantly expand the resources sector.</p><p></p><p>For nearly two decades up till 2017, Australia had benefited from a dramatic surge in its terms of trade. As export prices increased faster than import prices, the economy experienced continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system. Australia entered 2018 facing a range of growth constraints, principally driven by the sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China is growing at a slower pace and sharp drops in export prices have impacted growth.</p><br>
+<p>Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the WTO, APEC, the G20, and other trade forums. Australia’s free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the 10 ASEAN countries and China, Japan, Korea, New Zealand, and India.</p> <p> </p> <p>Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas Project, will significantly expand the resources sector.</p> <p> </p> <p>For nearly two decades up till 2017, Australia had benefited from a dramatic surge in its terms of trade. As export prices increased faster than import prices, the economy experienced continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system. Australia entered 2018 facing a range of growth constraints, principally driven by the sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China is growing at a slower pace and sharp drops in export prices have impacted growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $1,250,900,000,000 (2020 est.)<br>
@@ -617,12 +617,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6.2 million (2020)<br>
-_subscriptions per 100 inhabitants_: 24.31 (2020 est.)<br>
+_total subscriptions_: 6.2 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 24 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 27.454 million (2020)<br>
-_subscriptions per 100 inhabitants_: 107.7 (2020 est.)<br>
+_total subscriptions_: 27.453 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 108 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent domestic and international service with comprehensive population coverage through LTE; domestic satellite system; rapid growth of mobile and fixed-wireless broadband services through multi-technology architecture; emphasis on new technologies; diminished fixed-line market due to mobile and mobile broadband; in fixed broadband, shift to fiber networks through infrastructure build out; mobile network operators continue to work towards the launch of 5G; predicted to be one of the top markets driving the growth of 5G and data markets in Asia; fiber backbone to connect with submarine cables; Oman-Australia cable is estimated to be in service by mid-2022; two of Australia's major imports are broadcast equipment and computers from China (2021)<br>
@@ -641,8 +641,8 @@ _total_: 23,123,940 (2020 est.)<br>
 _percent of population_: 90% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 9,099,619 (2021 est.) Total includes both NBN and non-NBN subscriptions.<br>
-_subscriptions per 100 inhabitants_: 35.68 (2021)<br>
+_total_: 9,099,619 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 36 (2020 est.)<br>
 
 ## Transportation
 

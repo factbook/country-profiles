@@ -413,7 +413,7 @@ _selected World Heritage Site locales_: Chiribiquete National Park (m), Coffee C
 ## Economy
 
 **Economic overview**<br>
-<p>Colombia heavily depends on energy and mining exports, making it vulnerable to fluctuations in commodity prices. Colombia is Latin America’s fourth largest oil producer and the world’s fourth largest coal producer, third largest coffee exporter, and second largest cut flowers exporter. Colombia’s economic development is hampered by inadequate infrastructure, poverty, narcotrafficking, and an uncertain security situation, in addition to dependence on primary commodities (goods that have little value-added from processing or labor inputs).</p><p></p><p>Colombia’s economy slowed in 2017 because of falling world market prices for oil and lower domestic oil production due to insurgent attacks on pipeline infrastructure. Although real GDP growth averaged 4.7% during the past decade, it fell to an estimated 1.8% in 2017. Declining oil prices also have contributed to reduced government revenues. In 2016, oil revenue dropped below 4% of the federal budget and likely remained below 4% in 2017. A Western credit rating agency in December 2017 downgraded Colombia’s sovereign credit rating to BBB-, because of weaker-than-expected growth and increasing external debt. Colombia has struggled to address local referendums against foreign investment, which have slowed its expansion, especially in the oil and mining sectors. Colombia’s FDI declined by 3% to $10.2 billion between January and September 2017.</p><p></p><p>Colombia has signed or is negotiating Free Trade Agreements (FTA) with more than a dozen countries; the US-Colombia FTA went into effect in May 2012. Colombia is a founding member of the Pacific Alliance—a regional trade block formed in 2012 by Chile, Colombia, Mexico, and Peru to promote regional trade and economic integration. The Colombian government took steps in 2017 to address several bilateral trade irritants with the US, including those on truck scrappage, distilled spirits, pharmaceuticals, ethanol imports, and labor rights. Colombia hopes to accede to the Organization for Economic Cooperation and Development.</p><br>
+<p>Colombia heavily depends on energy and mining exports, making it vulnerable to fluctuations in commodity prices. Colombia is Latin America’s fourth largest oil producer and the world’s fourth largest coal producer, third largest coffee exporter, and second largest cut flowers exporter. Colombia’s economic development is hampered by inadequate infrastructure, poverty, narcotrafficking, and an uncertain security situation, in addition to dependence on primary commodities (goods that have little value-added from processing or labor inputs).</p> <p> </p> <p>Colombia’s economy slowed in 2017 because of falling world market prices for oil and lower domestic oil production due to insurgent attacks on pipeline infrastructure. Although real GDP growth averaged 4.7% during the past decade, it fell to an estimated 1.8% in 2017. Declining oil prices also have contributed to reduced government revenues. In 2016, oil revenue dropped below 4% of the federal budget and likely remained below 4% in 2017. A Western credit rating agency in December 2017 downgraded Colombia’s sovereign credit rating to BBB-, because of weaker-than-expected growth and increasing external debt. Colombia has struggled to address local referendums against foreign investment, which have slowed its expansion, especially in the oil and mining sectors. Colombia’s FDI declined by 3% to $10.2 billion between January and September 2017.</p> <p> </p> <p>Colombia has signed or is negotiating Free Trade Agreements (FTA) with more than a dozen countries; the US-Colombia FTA went into effect in May 2012. Colombia is a founding member of the Pacific Alliance—a regional trade block formed in 2012 by Chile, Colombia, Mexico, and Peru to promote regional trade and economic integration. The Colombian government took steps in 2017 to address several bilateral trade irritants with the US, including those on truck scrappage, distilled spirits, pharmaceuticals, ethanol imports, and labor rights. Colombia hopes to accede to the Organization for Economic Cooperation and Development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $683.94 billion (2020 est.)<br>
@@ -631,8 +631,8 @@ _electrification - rural areas_: 86% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,248,026 (2020)<br>
-_subscriptions per 100 inhabitants_: 14.24 (2020 est.)<br>
+_total subscriptions_: 7,248,026 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 67,672,570 (2020 est.)<br>
@@ -655,8 +655,8 @@ _total_: 35,618,019 (2020 est.)<br>
 _percent of population_: 70% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,764,772 (2021)<br>
-_subscriptions per 100 inhabitants_: 15.26 (2021 est.)<br>
+_total_: 7,764,772 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
 
 ## Transportation
 
@@ -722,11 +722,11 @@ Pacific Ocean - Buenaventura<br>
 Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: National Army (Ejercito Nacional), Republic of Colombia Navy (Armada Republica de Colombia, ARC; includes Coast Guard), Colombian Air Force (Fuerza Aerea de Colombia, FAC); Colombian National Police (civilian force that is part of the Ministry of Defense) (2021)<br>
 
 **Military expenditures**<br>
+3% of GDP (2021 est.)<br>
 3% of GDP (2020 est.)<br>
 3.1% of GDP (2019) (approximately $19.6 billion)<br>
 3.1% of GDP (2018) (approximately $18.6 billion)<br>
 3.2% of GDP (2017) (approximately $18.3 billion)<br>
-3.2% of GDP (2016) (approximately $17.8 billion)<br>
 
 **Military and security service personnel strengths**<br>
 estimates vary; approximately 260,000 total active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 14,000 Air Force); approximately 185,000 Colombian National Police (2021)<br>
@@ -760,7 +760,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia (FARC)<br
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 1,842,390 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2022)<br>
-_IDPs_: 8,214,100 (conflict between government and illegal armed groups and drug traffickers since 1985) (2021)<br>
+_IDPs_: 8,244,835 (conflict between government and illegal armed groups and drug traffickers since 1985) (2022)<br>
 _stateless persons_: 11 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

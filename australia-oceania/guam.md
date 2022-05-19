@@ -313,7 +313,7 @@ _lyrics/music_: Ramon Manalisay SABLAN [English], Lagrimas UNTALAN [Chamoru]/Ram
 ## Economy
 
 **Economic overview**<br>
-US national defense spending is the main driver of Guam’s economy, followed closely by tourism and other services. Guam serves as a forward US base for the Western Pacific and is home to thousands of American military personnel. Total federal spending (defense and non-defense) amounted to $1.988 billion in 2016, or 34.2 of Guam’s GDP. Of that total, federal grants and cover-over payments amounted to $3444.1 million in 2016, or 35.8% of Guam’s total revenues for the fiscal year. In 2016, Guam’s economy grew 0.3%. Despite slow growth, Guam’s economy has been stable over the last decade. National defense spending cushions the island’s economy against fluctuations in tourism. Service exports, mainly spending by foreign tourists in Guam, amounted to over $1 billion for the first time in 2016, or 17.8% of GDP.<br>
+US national defense spending is the main driver of Guam&rsquo;s economy, followed closely by tourism and other services. Guam serves as a forward US base for the Western Pacific and is home to thousands of American military personnel. Total federal spending (defense and non-defense) amounted to $1.988 billion in 2016, or 34.2 of Guam&rsquo;s GDP. Of that total, federal grants and cover-over payments amounted to $3444.1 million in 2016, or 35.8% of Guam&rsquo;s total revenues for the fiscal year. In 2016, Guam&rsquo;s economy grew 0.3%. Despite slow growth, Guam&rsquo;s economy has been stable over the last decade. National defense spending cushions the island&rsquo;s economy against fluctuations in tourism. Service exports, mainly spending by foreign tourists in Guam, amounted to over $1 billion for the first time in 2016, or 17.8% of GDP.<br>
 
 **Real GDP (purchasing power parity)**<br>
 $5.793 billion (2016 est.)<br>
@@ -501,8 +501,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 68,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 42.01 (2018 est.)<br>
+_total subscriptions_: 70,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 41 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 98,000 (2021 est.)<br>
@@ -525,8 +525,8 @@ _total_: 135,509 (2019 est.)<br>
 _percent of population_: 81% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 1.78 (2021)<br>
+_total_: 3,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 ## Transportation
 

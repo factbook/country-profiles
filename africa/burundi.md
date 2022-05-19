@@ -407,7 +407,7 @@ _lyrics/music_: Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO<br>
 ## Economy
 
 **Economic overview**<br>
-<p>Burundi is a landlocked, resource-poor country with an underdeveloped manufacturing sector. Agriculture accounts for over 40% of GDP and employs more than 90% of the population. Burundi's primary exports are coffee and tea, which account for more than half of foreign exchange earnings, but these earnings are subject to fluctuations in weather and international coffee and tea prices, Burundi is heavily dependent on aid from bilateral and multilateral donors, as well as foreign exchange earnings from participation in the African Union Mission to Somalia (AMISOM). Foreign aid represented 48% of Burundi's national income in 2015, one of the highest percentages in Sub-Saharan Africa, but this figure decreased to 33.5% in 2016 due to political turmoil surrounding President NKURUNZIZA’s bid for a third term. Burundi joined the East African Community (EAC) in 2009.</p><p></p><p>Burundi faces several underlying weaknesses – low governmental capacity, corruption, a high poverty rate, poor educational levels, a weak legal system, a poor transportation network, and overburdened utilities – that have prevented the implementation of planned economic reforms. The purchasing power of most Burundians has decreased as wage increases have not kept pace with inflation, which reached approximately 18% in 2017.</p><p></p><p>Real GDP growth dropped precipitously following political events in 2015 and has yet to recover to pre-conflict levels. Continued resistance by donors and the international community will restrict Burundi’s economic growth as the country deals with a large current account deficit.</p><br>
+<p>Burundi is a landlocked, resource-poor country with an underdeveloped manufacturing sector. Agriculture accounts for over 40% of GDP and employs more than 90% of the population. Burundi's primary exports are coffee and tea, which account for more than half of foreign exchange earnings, but these earnings are subject to fluctuations in weather and international coffee and tea prices, Burundi is heavily dependent on aid from bilateral and multilateral donors, as well as foreign exchange earnings from participation in the African Union Mission to Somalia (AMISOM). Foreign aid represented 48% of Burundi's national income in 2015, one of the highest percentages in Sub-Saharan Africa, but this figure decreased to 33.5% in 2016 due to political turmoil surrounding President NKURUNZIZA’s bid for a third term. Burundi joined the East African Community (EAC) in 2009.</p> <p> </p> <p>Burundi faces several underlying weaknesses – low governmental capacity, corruption, a high poverty rate, poor educational levels, a weak legal system, a poor transportation network, and overburdened utilities – that have prevented the implementation of planned economic reforms. The purchasing power of most Burundians has decreased as wage increases have not kept pace with inflation, which reached approximately 18% in 2017.</p> <p> </p> <p>Real GDP growth dropped precipitously following political events in 2015 and has yet to recover to pre-conflict levels. Continued resistance by donors and the international community will restrict Burundi’s economic growth as the country deals with a large current account deficit.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $8.69 billion (2020 est.)<br>
@@ -615,8 +615,8 @@ _electrification - rural areas_: 2% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 18,300 (2020)<br>
-_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
+_total subscriptions_: 18,300 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 6,631,154 (2020)<br>
@@ -639,8 +639,8 @@ _total_: 1,070,170 (2020 est.)<br>
 _percent of population_: 9% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,230 (2021)<br>
-_subscriptions per 100 inhabitants_: 0.04 (2021) less than 1<br>
+_total_: 4,230 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0.04 (2020 est.) less than 1<br>
 
 ## Transportation
 
@@ -679,11 +679,11 @@ _lake port(s)_: Bujumbura (Lake Tanganyika)<br>
 National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, air wing); Ministry of Public Security: National Police (Police Nationale du Burundi) (2021)<br>
 
 **Military expenditures**<br>
+2% of GDP (2021 est.)<br>
 2.1% of GDP (2020 est.)<br>
 3% of GDP (2019 est.) (approximately $120 million)<br>
 2.3% of GDP (2018 est.) (approximately $100 million)<br>
 2.1% of GDP (2017 est.) (approximately $95 million)<br>
-2.4% of GDP (2016 est.) (approximately $100 million)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 25,000 active duty troops, the majority of which are ground forces (2021)<br>

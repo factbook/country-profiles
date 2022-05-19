@@ -384,7 +384,7 @@ _selected World Heritage Site locales_: Monasteries of Haghpat and Sanahin, Mona
 ## Economy
 
 **Economic overview**<br>
-<p>Under the old Soviet central planning system, Armenia developed a modern industrial sector, supplying machine tools, textiles, and other manufactured goods to sister republics, in exchange for raw materials and energy. Armenia has since switched to small-scale agriculture and away from the large agro industrial complexes of the Soviet era. Armenia has only two open trade borders - Iran and Georgia - because its borders with Azerbaijan and Turkey have been closed since 1991 and 1993, respectively, as a result of Armenia's ongoing conflict with Azerbaijan over the separatist Nagorno-Karabakh region.</p><p></p><p>Armenia joined the World Trade Organization in January 2003. The government has made some improvements in tax and customs administration in recent years, but anti-corruption measures have been largely ineffective. Armenia will need to pursue additional economic reforms and strengthen the rule of law in order to raise its economic growth and improve economic competitiveness and employment opportunities, especially given its economic isolation from Turkey and Azerbaijan.</p><p></p><p>Armenia's geographic isolation, a narrow export base, and pervasive monopolies in important business sectors have made it particularly vulnerable to volatility in the global commodity markets and the economic challenges in Russia. Armenia is particularly dependent on Russian commercial and governmental support, as most key Armenian infrastructure is Russian-owned and/or managed, especially in the energy sector. Remittances from expatriates working in Russia are equivalent to about 12-14% of GDP. Armenia joined the Russia-led Eurasian Economic Union in January 2015, but has remained interested in pursuing closer ties with the EU as well, signing a Comprehensive and Enhanced Partnership Agreement with the EU in November 2017. Armenia’s rising government debt is leading Yerevan to tighten its fiscal policies – the amount is approaching the debt to GDP ratio threshold set by national legislation.</p><br>
+<p>Under the old Soviet central planning system, Armenia developed a modern industrial sector, supplying machine tools, textiles, and other manufactured goods to sister republics, in exchange for raw materials and energy. Armenia has since switched to small-scale agriculture and away from the large agro industrial complexes of the Soviet era. Armenia has only two open trade borders - Iran and Georgia - because its borders with Azerbaijan and Turkey have been closed since 1991 and 1993, respectively, as a result of Armenia's ongoing conflict with Azerbaijan over the separatist Nagorno-Karabakh region.</p> <p> </p> <p>Armenia joined the World Trade Organization in January 2003. The government has made some improvements in tax and customs administration in recent years, but anti-corruption measures have been largely ineffective. Armenia will need to pursue additional economic reforms and strengthen the rule of law in order to raise its economic growth and improve economic competitiveness and employment opportunities, especially given its economic isolation from Turkey and Azerbaijan.</p> <p> </p> <p>Armenia's geographic isolation, a narrow export base, and pervasive monopolies in important business sectors have made it particularly vulnerable to volatility in the global commodity markets and the economic challenges in Russia. Armenia is particularly dependent on Russian commercial and governmental support, as most key Armenian infrastructure is Russian-owned and/or managed, especially in the energy sector. Remittances from expatriates working in Russia are equivalent to about 12-14% of GDP. Armenia joined the Russia-led Eurasian Economic Union in January 2015, but has remained interested in pursuing closer ties with the EU as well, signing a Comprehensive and Enhanced Partnership Agreement with the EU in November 2017. Armenia’s rising government debt is leading Yerevan to tighten its fiscal policies – the amount is approaching the debt to GDP ratio threshold set by national legislation.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
 $37.31 billion (2020 est.)<br>
@@ -598,12 +598,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 427,539 (2020)<br>
-_subscriptions per 100 inhabitants_: 14.43 (2020 est.)<br>
+_total subscriptions_: 427,539 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,488,797 (2020)<br>
-_subscriptions per 100 inhabitants_: 117.7 (2020 est.)<br>
+_total subscriptions_: 3,488,797 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 118 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom market struggles to provide an effective national telecom service; country remains dependent on the economic health of&nbsp; Russian and EU economies; fixed-line penetration falling, driven by growth in mobile and fixed-line broadband; growth of 4G networks and falling prices due to growing competition; fixed broadband is growing but remains low by international comparisons; flat mobile market; strong growth predicted for mobile broadband market; government participating in a project to ensure eventual nationwide 5G network; government approved plans for a new data center built via public-private partnership; communication technologies sectors have attracted foreign investment; top importer of broadcast equipment from China (2020)<br>
@@ -622,8 +622,8 @@ _total_: 2,281,690 (2020 est.)<br>
 _percent of population_: 77% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 430,407 (2022)<br>
-_subscriptions per 100 inhabitants_: 14.52 (2022)<br>
+_total_: 430,407 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
 
 ## Transportation
 
