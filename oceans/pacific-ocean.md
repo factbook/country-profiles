@@ -34,6 +34,10 @@ planetary air pressure systems and resultant wind patterns exhibit remarkable un
 **Terrain**<br>
 <p>surface dominated by two large gyres (broad, circular systems of currents), one in the northern Pacific and another in the southern Pacific; in the northern Pacific, sea ice forms in the Bering Sea and Sea of Okhotsk in winter; in the southern Pacific, sea ice from Antarctica reaches its northernmost extent in October; the ocean floor in the eastern Pacific is dominated by the East Pacific Rise, while the western Pacific is dissected by deep trenches, including the Mariana Trench, which is the world's deepest at 10,924 m</p> <p><strong>major surface currents:</strong> clockwise North Pacific Gyre formed by the warm northward flowing Kuroshio Current in the west, the eastward flowing North Pacific Current in the north, the southward flowing cold California Current in the east, and the westward flowing North Equatorial Current in the south; the counterclockwise South Pacific Gyre composed of the southward flowing warm East Australian Current in the west, the eastward flowing South Pacific Current in the south, the northward flowing cold Peru (Humbolt) Current in the east, and the westward flowing South Equatorial Current in the north</p><br>
 
+**Volume**<br>
+_Ocean volume_: 660 million cu km<br>
+_Percent of total ocean volume_: 50.1%<br>
+
 **Elevation**<br>
 _highest point_: sea level<br>
 _lowest point_: Challenger Deep in the Mariana Trench -10,924 m<br>note - the Pacific Ocean is the deepest ocean basin<br>

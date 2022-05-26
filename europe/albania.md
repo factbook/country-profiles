@@ -678,7 +678,8 @@ _major seaport(s)_: Durres, Sarande, Shengjin, Vlore<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Albania Armed Forces (Forcat e Armatosura t&euml; Republik&euml;s s&euml; Shqip&euml;ris&euml; (FARSH)): Land Forces, Navy Forces (includes Coast Guard), Air Forces (2021)<br>
+Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqipërisë (FARSH)): Land Forces, Navy Forces (includes Coast Guard), Air Forces<br><br>Ministry of Interior: Guard of the Republic, State Police (includes the Border and Migration Police) (2022)<br>
+note - the State Police are primarily responsible for internal security, while the Guard of the Republic protects senior state officials, foreign dignitaries, and certain state properties<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
@@ -698,7 +699,7 @@ the Albanian military was previously equipped with mostly Soviet-era weapons tha
 note - as of 2020, women comprised about 14% of the military's full-time personnel, including 20% of the officers<br>
 
 **Military - note**<br>
-Albania officially became a member of NATO in 2009; Greece and Italy provide NATO's air policing mission for Albania&nbsp;<br>
+Albania officially became a member of NATO in 2009; as of 2022, Greece and Italy were providing NATO's air policing mission for Albania<br>
 
 ## Terrorism
 

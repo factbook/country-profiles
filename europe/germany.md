@@ -618,8 +618,8 @@ _total subscriptions_: 38.3 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 46 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 107.5 million (2020)<br>
-_subscriptions per 100 inhabitants_: 128.3 (2020 est.)<br>
+_total subscriptions_: 107.4 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the world's most technologically advanced telecom systems with additional security measures; LTE universally available and 5G service to over 80% of population; mobile market is driven by data, with increased broadband subscribership; regulatory measures aimed at facilitating wholesale network access to provide fiber-based broadband services; government aims to provide smart technology solutions; over 60 cities use smart technology in urban development, many through joint initiative with private sector, utility companies, and universities; importer of broadcast equipment and computers from China (2020)<br>
@@ -703,7 +703,7 @@ _river port(s)_: Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neus
 ## Military and Security
 
 **Military and security forces**<br>
-Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber- und Informationsraum, Kdo CIR) (2021)<br>
+Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Command (Kommando Cyber- und Informationsraum, Kdo CIR) (2022)<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
@@ -713,22 +713,22 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 1.2% of GDP (2017) (approximately $53.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 184,000 active duty personnel (63,500 Army; 16,500 Navy; 27,500 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 14,500 Cyber and Information Space Command; 15,000 other) (2021)<br>
+approximately 184,000 active duty personnel (63,000 Army; 16,000 Navy; 27,500 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 14,500 Cyber and Information Space Command; 15,000 other) (2022)<br>
 note - Germany in 2020 announced it planned to increase the size of the military to about 200,000 troops by 2025<br>
 
 **Military equipment inventories and acquisitions**<br>
 the German Federal Armed Forces inventory is mostly comprised of weapons systems produced domestically or jointly with other European countries and Western imports, particularly from the US; since 2010, the US is the leading foreign supplier; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters (2021)<br>
 
 **Military service age and obligation**<br>
-17-23 years of age for male and female voluntary military service (must have completed compulsory full-time education and have German citizenship); conscription ended July 2011; service obligation 7-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2021)<br>
+17-23 years of age for male and female voluntary military service (must have completed compulsory full-time education and have German citizenship); conscription ended July 2011; service obligation 7-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2022)<br>
 note - in 2021, women accounted for about 12% of the German military<br>
 
 **Military deployments**<br>
-approximately 500 Middle East (NATO/Counter-ISIS campaign); 550 Lithuania (NATO); approximately 1,200 Mali (MINUSMA/EUTM) (2021-2022)<br><br>note(s) - Germany is a contributing member of the EuroCorps; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
-note(s) - Germany is a contributing member of the EuroCorps; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+up to 500 Iraq (NATO/Counter-ISIS campaign); 550 Lithuania (NATO); up to 1,400 Mali (MINUSMA/EUTM) (2022)<br><br>note(s) - Germany is a contributing member of the EuroCorps; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+note(s) - Germany is a contributing member of the EuroCorps; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br><br>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group (2021)<br>
+the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br><br>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group (2022)<br>
 
 ## Terrorism
 

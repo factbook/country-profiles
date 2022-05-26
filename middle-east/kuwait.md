@@ -334,7 +334,7 @@ _elections/appointments_: amir chosen from within the ruling family, confirmed b
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
 _elections_: last held on 5 December 2020 (next to be held NA)<br>
-_election results_: all candidates ran as independents, though nearly half were oppositionists; composition - men 50, women 0, percent of women 0%<br>
+_election results_: all candidates ran as independents, though nearly one-half were oppositionists; composition of elected members - men 50, women 0, percent of women 0%<br>
 
 **Judicial branch**<br>
 _highest courts_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>
@@ -589,8 +589,8 @@ _total subscriptions_: 583,463 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,770,346 (2020)<br>
-_subscriptions per 100 inhabitants_: 158.5 (2020)<br>
+_total subscriptions_: 6,770,346 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 159 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the quality of service is excellent; new telephone exchanges provide a large capacity for new subscribers; trunk traffic is carried by microwave radio relay, coaxial cable, open-wire, and fiber-optic cable; a 4G LTE mobile-cellular telephone system operates throughout Kuwait; Internet access is available via 4G LTE connections for fixed and mobile users; high ownership levels of smart phones in Kuwait; one of the highest mobile penetration rates in the world; exploring 5G opportunities; improvements to fiber-broadband underway (2020)<br>

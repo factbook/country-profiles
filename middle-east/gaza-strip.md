@@ -420,8 +420,8 @@ _total subscriptions_: 466,283 (2020 est.) includes the West Bank<br>
 _subscriptions per 100 inhabitants_: 9 (2020 est.) includes the West Bank<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,135,363 (includes the West Bank)<br>
-_subscriptions per 100 inhabitants_: 76 (includes the West Bank) (2017 est.)<br>
+_total subscriptions_: 4,274,119 (2020 est.) includes the West Bank<br>
+_subscriptions per 100 inhabitants_: 84 (2020 est.) includes the West Bank<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Israel has final say in allocating frequencies in the Gaza Strip and does not permit anything beyond a 2G network (2018)<br>

@@ -691,7 +691,7 @@ _river port(s)_: Enns, Krems, Linz, Vienna (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2021)<br>
+Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2022)<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
@@ -714,7 +714,7 @@ note - as of 2019, women made up about 4% of the military's full-time personnel<
 275 Bosnia-Herzegovina (EUFOR stabilization force); 240 Kosovo (NATO/KFOR); 175 Lebanon (UNIFIL) (Jan 2022)<br>
 
 **Military - note**<br>
-<p>Austria is constitutionally non-aligned, but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO, but joined NATO’s Partnership for Peace framework in 1995 and participates in NATO-led crisis management and peacekeeping operations; as of 2021, more than 100,000 Austrian military and civilian personnel have taken part in more than 50 international peace support and humanitarian missions since 1960</p><br>
+<p>Austria is constitutionally non-aligned, but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO, but joined NATO’s Partnership for Peace framework in 1995 and participates in NATO-led crisis management and peacekeeping operations; as of 2022, more than 100,000 Austrian military and civilian personnel had taken part in more than 50 international peace support and humanitarian missions since 1960</p> (2022)<br>
 
 ## Terrorism
 

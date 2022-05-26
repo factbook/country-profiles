@@ -705,7 +705,7 @@ Slovakia officially became a member of NATO in 2004<br><br>in 2022, Slovakia agr
 <p>bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 421,662 (Ukraine) (as of 15 May 2022)<br>
+_refugees (country of origin)_: 446,755 (Ukraine) (as of 24 May 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

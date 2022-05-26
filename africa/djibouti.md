@@ -595,8 +595,8 @@ _total subscriptions_: 38,866 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 434,035 (2020)<br>
-_subscriptions per 100 inhabitants_: 43.93 (2020 est.)<br>
+_total subscriptions_: 434,035 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 44 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Djibouti has a poor domestic infrastructure and a monopolized telecom system relying on microwave radio relay; rural areas connected via wireless local loop; mobile coverage limited to Djibouti city; despite challenges, foreign investment lends progress toward improvements; one of the best international fiber cables in the region, the Djibouti Internet Exchange, is a meeting point for cable systems passing between the Red Sea and Indian Ocean; national operator managed the Australia West Cable landing and signed an agreement for IP traffic through Paris and Marseille; international operator signed MoU for extension of cable from the Gulf to Djibouti (2020)<br>
@@ -659,7 +659,7 @@ _major seaport(s)_: Djibouti<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Djibouti Armed Forces (FAD): Army, Navy, Air Force; Djibouti Coast Guard; Ministry of Interior: National Gendarmerie, National Police (2021)<br>
+Djibouti Armed Forces (FAD): Army, Navy, Air Force; Djibouti Coast Guard; Ministry of Interior: National Gendarmerie, National Police (2022)<br>
 note - the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points, while the National Gendarmerie is responsible for all security outside of Djibouti City, as well as for protecting critical infrastructure within the city, such as the international airport<br>
 
 **Military expenditures**<br>

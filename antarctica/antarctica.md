@@ -144,7 +144,7 @@ US coastal stations include McMurdo (77 51 S, 166 40 E) and Palmer (64 43 S, 64 
 ## Military and Security
 
 **Military - note**<br>
-the Antarctic Treaty prohibits any measures of a military nature, such as the establishment of military bases and fortifications, the carrying out of military maneuvers, or the testing of any type of weapon; it permits the use of military personnel or equipment for scientific research or for any other peaceful purposes<br>
+the Antarctic Treaty of 1961 prohibits any measures of a military nature, such as the establishment of military bases and fortifications, the carrying out of military maneuvers, or the testing of any type of weapon; it permits the use of military personnel or equipment for scientific research or for any other peaceful purposes<br>
 
 ## Transnational Issues
 

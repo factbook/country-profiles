@@ -593,8 +593,8 @@ _total subscriptions_: 48,510 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,033,920 (2018)<br>
-_subscriptions per 100 inhabitants_: 117.8 (2019 est.)<br>
+_total subscriptions_: 991,500 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Fiji has a relatively sophisticated communications infrastructure with the highest mobile and Internet penetration in the Pacific Islands; aggressively developing LTE and 5G, though the pandemic negatively affected the economy, largely reliant on tourism; population is spread across more than 100 islands, yet most live on two main islands, with communications based on link by a submarine cable system; cables provide a secure link during natural disasters, protecting telecom connectivity; provider plans to expand fiber infrastructure to remote islands (2020)<br>
@@ -664,8 +664,8 @@ _major seaport(s)_: Lautoka, Levuka, Suva<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Fiji Military Forces (RFMF): Land Force Command, Maritime Command; Fiji Police (2021)<br>
-both the RFMF and the Fiji Police report to the the Ministry of Defense, National Security, and Policing<br>
+Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command; Fiji Police Force (2021)<br>
+the RFMF is subordinate to the president as the commander in chief, while the Fiji Police Force reports to the the Ministry of Defense, National Security, and Policing<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
@@ -684,10 +684,10 @@ the RFMF is lightly armed and equipped; Australia has provided patrol boats and 
 18 years of age for voluntary military service; mandatory retirement at age 55 (2021)<br>
 
 **Military deployments**<br>
-170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (Jan 2022)<br>
+170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2022)<br>
 
 **Military - note**<br>
-<p>the RFMF consists of only 1 infantry regiment and a small naval element with a few patrol boats; as of 2021, it did not possess any aircraft</p> <p>the RFMF has a history of intervening in the country’s politics since the late 1980s, including coups in 1987 and 2006, and a mutiny in 2000</p> <p>the RFMF also has a long tradition of participating in UN peacekeeping operations; since its first deployment of troops to South Lebanon in 1978 under the United Nations Interim Force in Lebanon (UNIFIL), it has deployed troops on nearly 20 additional UN missions</p><br>
+<p>the RFMF has a history of intervening in the country’s politics since the late 1980s, including coups in 1987 and 2006, and a mutiny in 2000</p> <p>the RFMF also has a long tradition of participating in UN peacekeeping operations; since its first deployment of troops to South Lebanon in 1978 under the United Nations Interim Force in Lebanon (UNIFIL), it has deployed troops on nearly 20 additional UN missions</p><br>
 
 ## Transnational Issues
 

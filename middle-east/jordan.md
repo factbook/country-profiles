@@ -624,8 +624,8 @@ _total subscriptions_: 391,486 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,987,891 (2020)<br>
-_subscriptions per 100 inhabitants_: 68.49 (2020)<br>
+_total subscriptions_: 6,987,891 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 68 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Jordan is host to a growing number of ICT companies and has emerged as a technology start-up hub for the Middle East; recently focused on telecom solutions to pandemic issues such as e-health and education; progress in the digital financial services; economic goals rely on digital economy, developed mobile sector, and extensive LTE infrastructure; preparation for 5G and e-commerce; importer of broadcasting equipment from Vietnam and China (2020)<br>

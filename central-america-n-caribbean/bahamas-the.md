@@ -302,7 +302,7 @@ _election results_: <br>Senate - appointed; composition as of March 2022 - men 1
 _highest courts_: Court of Appeal (consists of the court president and 4 justices, organized in 3-member panels); Supreme Court (consists of the chief justice and a maximum of 11 and a minimum of 2 justices)<br>
 _judge selection and term of office_: Court of Appeal president and Supreme Court chief justice appointed by the governor-general on the advice of the prime minister after consultation with the leader of the opposition party; other Court of Appeal and Supreme Court justices appointed by the governor general upon recommendation of the Judicial and Legal Services Commission, a 5-member body headed by the chief justice; Court of Appeal justices appointed for life with mandatory retirement normally at age 68 but can be extended until age 70; Supreme Court justices appointed for life with mandatory retirement normally at age 65 but can be extended until age 67<br>
 _subordinate courts_: Industrial Tribunal; Stipendiary and Magistrates' Courts; Family Island Administrators<br>
-<strong>note:</strong> the Bahamas is a member of the 15-member Caribbean Community but is not party to the agreement establishing the Caribbean Court of Justice as its highest appellate court;  the Judicial Committee of the Privy Council (in London) serves as the final court of appeal for The Bahamas<br>
+<strong>note:</strong> The Bahamas is a member of the 15-member Caribbean Community but is not party to the agreement establishing the Caribbean Court of Justice as its highest appellate court;  the Judicial Committee of the Privy Council (in London) serves as the final court of appeal for The Bahamas<br>
 
 **Political parties and leaders**<br>
 Democratic National Alliance or DNA [Arinthia KOMOLAFE]<br>Free National Movement or FNM [Michael PINTARD]<br>Progressive Liberal Party or PLP [Philip "Brave" DAVIS]<br>
@@ -312,7 +312,7 @@ ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Wendall Kermith JONES (since 19 April 2022)<br>
-_chancery_: 2220 Massachusetts Avenue NW, Washington, DC 20008<br>
+_chancery_: 600 New Hampshire Ave, NW, Suite 530, Washington, DC 20037<br>
 _telephone_: [1] (202) 319-2660<br>
 _FAX_: [1] (202) 319-2668<br>
 _email address and website_: <br>embassy@bahamasembdc.org<br><br>https://www.bahamasembdc.org/<br>
@@ -624,7 +624,8 @@ _container port(s) (TEUs)_: Freeport (1,396,568) (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bahamas Defense Force: includes land, air, maritime elements (2021)<br>
+Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements (2022)<br><br>note - the Royal Bahamas Police Force maintains internal security; the Defense Force is primarily responsible for external security but also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; both report to the minister of national security <br>
+note - the Royal Bahamas Police Force maintains internal security; the Defense Force is primarily responsible for external security but also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; both report to the minister of national security&nbsp;<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
@@ -643,7 +644,7 @@ most of the RBDF's major equipment inventory is supplied by the Netherlands (202
 18 years of age for voluntary male and female service; no conscription (2021)<br>
 
 **Military - note**<br>
-<p>the RBDF was established in 1980; its primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US </p><br>
+<p>the RBDF was established in 1980; its primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US </p> (2022)<br>
 
 ## Transnational Issues
 
@@ -651,5 +652,5 @@ most of the RBDF's major equipment inventory is supplied by the Netherlands (202
 <p><em>The Bahamas-US (Maritime Boundary):</em> In declaring its archipelagic waters and 200 nm EEZ in 1993 legislation, The Bahamas did not delimit the outer limits of the EEZ; but in areas where EEZs overlap with neighbors, The Bahamas agreed to equidistance as a line of separation.  However, The Bahamas has yet to define maritime boundaries with any of its neighbors, including the United States, whose Florida coast lays about 70 nm from Grand Bahama Island.</p><br>
 
 **Illicit drugs**<br>
-<p>a transit point for illegal drugs bound for the United States; illicit production of marijuana continues</p><br>
+<p>a significant transit point for illegal drugs bound for the United States; illicit production of marijuana continues</p><br>
 

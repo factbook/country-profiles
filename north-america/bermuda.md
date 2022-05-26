@@ -586,7 +586,7 @@ _major seaport(s)_: Hamilton, Ireland Island, Saint George<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bermuda Regiment; Bermuda Police Service (2021)<br>
+Royal Bermuda Regiment; Bermuda Police Service (2022)<br>
 note - the Royal Bermuda Regiment is a reserve multi-role battalion that carries out two primary functions – providing military aid to civil authorities and humanitarian and disaster relief<br>
 
 **Military and security service personnel strengths**<br>

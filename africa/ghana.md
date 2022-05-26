@@ -633,8 +633,8 @@ _total subscriptions_: 307,668 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 40,461,609 (2020)<br>
-_subscriptions per 100 inhabitants_: 130.2 (2020 est.)<br>
+_total subscriptions_: 40,461,609 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity&nbsp; (2020)<br>
@@ -706,7 +706,7 @@ _major seaport(s)_: Takoradi, Tema<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ghana Armed Forces: Army, Navy, Air Force (2021)<br>
+Ghana Armed Forces: Army, Navy, Air Force (2022)<br>
 
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>
@@ -728,7 +728,7 @@ the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Wester
 150 Mali (MINUSMA); 875 Lebanon (UNIFIL); 730 (plus about 300 police) South Sudan (UNMISS) (Jan 2022)<br>
 
 **Military - note**<br>
-<p>the military of Ghana traces its origins to the Gold Coast Constabulary that was established in 1879 and renamed the Gold Coast Regiment in 1901; the Gold Coast Regiment was part of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; following independence in 1957, the Gold Coast Regiment formed the basis for the new Ghanaian Army</p> <p>as of 2021, the primary missions for the Ghanaian military included assisting other security services with internal security and patrolling the country’s economic exclusion zone, which has led to efforts to expand the Navy’s capabilities in recent years; since sending a contingent of troops to the Congo in 1960, the Ghana military has been a regular contributor to African- and UN-sponsored peacekeeping missions</p><br>
+<p>the military of Ghana traces its origins to the Gold Coast Constabulary that was established in 1879 and renamed the Gold Coast Regiment in 1901; the Gold Coast Regiment was part of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; following independence in 1957, the Gold Coast Regiment formed the basis for the new Ghanaian Army</p> <p>as of 2022, the primary missions for the Ghanaian military included assisting other security services with internal security and patrolling the country’s economic exclusion zone, which has led to efforts to expand the Navy’s capabilities in recent years; since sending a contingent of troops to the Congo in 1960, the Ghana military has been a regular contributor to African- and UN-sponsored peacekeeping missions</p><br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"</p><br>
@@ -739,7 +739,7 @@ the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Wester
 <p>disputed maritime border between Ghana and Cote d'Ivoire</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,045 (Cote d'Ivoire) (flight from 2010 post-election fighting) (2022)<br>
+_refugees (country of origin)_: 5,779 (Cote d'Ivoire) (flight from 2010 post-election fighting) (2022)<br>
 
 **Illicit drugs**<br>
 a transit and destination point for illicit drugs trafficked from Asia and South America to other African nations and Europe, and to a lesser extent the United States; cultivation of cannabis for domestic use and is trafficked to regional markets or to Europe<br>

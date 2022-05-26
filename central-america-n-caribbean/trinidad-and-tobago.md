@@ -314,11 +314,11 @@ _chief of state_: President Paula-Mae WEEKES (since 19 March 2018)<br>
 _head of government_: Prime Minister Keith ROWLEY (since 9 September 2015)<br>
 _cabinet_: Cabinet appointed from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 19 January 2018 (next to be held by February 2023); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
-_election results_: Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she is Trinidad and Tabago's first female head of state<br>
+_election results_: Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she is Trinidad and Tobago's first female head of state<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives (42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
-_elections_: Senate - last appointments on 23 September 2015 (next in 2020)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
+_elections_: Senate - last appointments in August 2020<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
 _election results_: Senate - percent by party - NA; seats by party - NA; composition - men 21, women 10, percent of women 32.3%<br>House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition - NA<br>
 <strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
 

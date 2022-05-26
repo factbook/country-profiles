@@ -608,8 +608,8 @@ _total subscriptions_: 61,978,594 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 49 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 192,284,308 (2020)<br>
-_subscriptions per 100 inhabitants_: 152 (2020)<br>
+_total subscriptions_: 195,054,893 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 154 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent domestic and international service; exceedingly high mobile, mobile broadband, and fixed broadband penetration; in last decade, government policies supported delivery of fiber-optic broadband to over 90% of households; one of Japan's largest e-commerce companies planning to build its own nationwide stand-alone 5G mobile network; government to implement a telecom tax to pay for rural 5G network; fixed broadband subscriptions grow as DSL is phased out; major importer of integrated circuits from China (2020)<br>
@@ -718,10 +718,6 @@ approximately 180 Djibouti (2022)<br>
 <p>Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the current Self Defense Force was founded in 1954</p> <p>in addition to having one of the region’s largest and best equipped militaries, Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; as of 2021, nearly 55,000 US troops and other military assets, including aircraft and naval ships, were stationed in Japan and have exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence<br><br>Japan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
-
-**Terrorist group(s)**<br>
-Aum Shinrikyo (AUM/Aleph)<br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 

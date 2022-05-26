@@ -292,7 +292,7 @@ _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to localized shortfalls of cereal production - despite overall favorable food security conditions, the most vulnerable households still need external food assistance; the aggregate number of severely food insecure people was estimated at 267,000 during the lean season between June and August 2020;&nbsp;&nbsp;it is very likely that the number of food insecure population increased with the impact of COVID‑19 (2021)<br>
+_severe localized food insecurity_: due to reduced incomes - about 740,000 people are projected to face severe food insecurity in the upcoming June to August 2022 period (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 596,911 tons (1996 est.)<br>
@@ -635,8 +635,8 @@ _total subscriptions_: 0 (2018 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12.873 million (2020)<br>
-_subscriptions per 100 inhabitants_: 100.8 (2020 est.)<br>
+_total subscriptions_: 13.795 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 105 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Guinea&rsquo;s mobile subscribership growing through investment of South African telecom operators and Chinese Huawei management; m-transactions supported commerce; broadband still limited and expensive though submarine cable and IXP improved reliability of infrastructure; 4G Wi-Fi in the capital; National Backbone Network will connect regional administrative centers; ECOWAS countries to launch free roaming; importer of broadcasting equipment from China (2020)<br>
@@ -700,7 +700,7 @@ _major seaport(s)_: Conakry, Kamsar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne), Guinean Air Force (Force Aerienne de Guinee), Presidential Security Battalion (Battailon Autonome de la Sécurité Presidentielle, BASP), Gendarmerie (2021)<br>
+National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne), Guinean Air Force (Force Aerienne de Guinee), Presidential Security Battalion (Battailon Autonome de la Sécurité Presidentielle, BASP), Gendarmerie (2022)<br>
 note - the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials<br>
 
 **Military expenditures**<br>
@@ -723,7 +723,7 @@ Voluntary and selective conscripted service, 9-24 mos (2021)<br>
 670 Mali (MINUSMA) (Jan 2022)<br>
 
 **Military - note**<br>
-<p>the Army is responsible for external defense, but also has some domestic security responsibilities; piracy and natural resource protection in the Gulf of Guinea are key areas of concern for the small Navy, which possesses only a few patrol boats</p><br>
+the Army is responsible for external defense, but also has some domestic security responsibilities; piracy and natural resource protection in the Gulf of Guinea are key areas of concern for the small Navy, which possesses only a few patrol boats (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>

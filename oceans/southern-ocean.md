@@ -34,6 +34,10 @@ sea temperatures vary from about 10 degrees Celsius to -2 degrees Celsius; cyclo
 **Terrain**<br>
 <p>the Southern Ocean is 4,000 to 5,000-m deep over most of its extent with only limited areas of shallow water; the Antarctic continental shelf is generally narrow and unusually deep, its edge lying at depths of 400 to 800 m (the global mean is 133 m); the Antarctic icepack grows from an average minimum of 2.6 million sq km in March to about 18.8 million sq km in September, better than a sixfold increase in area</p> <p><strong>major surface currents:</strong> the cold, clockwise-flowing Antarctic Circumpolar Current (West Wind Drift; 21,000 km long) moves perpetually eastward around the continent and is the world's largest and strongest ocean current, transporting 130 million cubic meters of water per second - 100 times the flow of all the world's rivers; it is also the only current that flows all the way around the planet and connects the Atlantic, Pacific, and Indian Oceans; the cold Antarctic Coastal Current (East Wind Drift) is the southernmost current in the world, flowing westward and parallel to the Antarctic coastline</p><br>
 
+**Volume**<br>
+_Ocean volume_: 71.8 million cu km<br>
+_Percent of total ocean volume_: 5.4%<br>
+
 **Elevation**<br>
 _highest point_: sea level<br>
 _lowest point_: southern end of the South Sandwich Trench -7,434 m unnamed deep<br>

@@ -382,7 +382,7 @@ _FAX_: [1] (202) 265-1996<br>
 _email address and website_: <br>ambassade.washington@gouv.bj<br><br>https://beninembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Patricia MAHONEY (since 4 July 2019)<br>
+_chief of mission_: Ambassador Brian SHUKAN (since 5 May 2022)<br>
 _embassy_: 01 BP 2012, Cotonou<br>
 _mailing address_: <p>2120 Cotonou Place, Washington DC  20521-2120</p><br>
 _telephone_: [229] 21-30-06-50<br>
@@ -694,7 +694,7 @@ _LNG terminal(s) (import)_: Cotonou<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Benin Armed Forces (Forces Armees Beninoises, FAB): Army, Navy, Air Force; Ministry of Interior and Public Security: Republican Police (Police Republicaine, DGPR) (2021)<br>
+Benin Armed Forces (Forces Armees Beninoises, FAB): Army, Navy, Air Force; Ministry of Interior and Public Security: Republican Police (Police Republicaine, DGPR) (2022)<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
@@ -716,7 +716,7 @@ the FAB is equipped with a small mix of mostly older French and Soviet-era equip
 260 (plus about 160 police) Mali (MINUSMA) (Jan 2022)<br>
 
 **Military - note**<br>
-as of 2021, Benin participated in the Multinational Joint Task Force (MNJTF) against the terrorist group Boko Haram (see Appendix T) along with Cameroon, Chad, Niger, and Nigeria; the Benin military contingent is in charge of MNJTF garrison duties<br> <p>as of 2021, the FAB had a close working relationship with the Belgian armed forces; the Belgians offered advice, training, and secondhand equipment donations, and deployed to Benin for limited military exercises</p><br>
+Benin participates in the Multinational Joint Task Force (MNJTF) against the terrorist group Boko Haram (see Appendix T) along with Cameroon, Chad, Niger, and Nigeria<br> <p>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer military advice, training, and secondhand equipment donations, and deploy to Benin for limited military exercises</p> (2022)<br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"</p><br>

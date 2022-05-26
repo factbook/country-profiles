@@ -34,6 +34,10 @@ polar climate characterized by persistent cold and relatively narrow annual temp
 **Terrain**<br>
 <p>central surface covered by a perennial drifting polar icepack that, on average, is about 3 m thick, although pressure ridges may be three times that thickness; the icepack is surrounded by open seas during the summer, but more than doubles in size during the winter and extends to the encircling landmasses; the ocean floor is about 50% continental shelf (highest percentage of any ocean) with the remainder a central basin interrupted by three submarine ridges (Alpha Cordillera, Nansen Cordillera, and Lomonosov Ridge)</p> <p><strong>major surface currents:</strong> two major, slow-moving, wind-driven currents (drift streams) dominate: a clockwise drift pattern in the Beaufort Gyre in the western part of the Arctic Ocean and a nearly straight line Transpolar Drift Stream that moves eastward across the ocean from the New Siberian Islands (Russia) to the Fram Strait (between Greenland and Svalbard); sea ice that lies close to the center of the gyre can complete a 360 degree circle in about 2 years, while ice on the gyre periphery will complete the same circle in about 7-8 years; sea ice in the Transpolar Drift crosses the ocean in about 3 years</p><br>
 
+**Volume**<br>
+_Ocean volume_: 18.75 million cu km<br>
+_Percent of total ocean volume_: 1.4%<br>
+
 **Elevation**<br>
 _highest point_: sea level<br>
 _lowest point_: Molloy Deep -5,577 m<br>

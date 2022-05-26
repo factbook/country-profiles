@@ -627,8 +627,8 @@ _total subscriptions_: 55,603 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21,418,681 (2019)<br>
-_subscriptions per 100 inhabitants_: 129.9 (2020 est.)<br>
+_total subscriptions_: 21,086,791 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 126 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Cambodia&rsquo;s telecom infrastructure struggles with poor infrastructure and power outages; improvement through competition and foreign investment; fixed-line and fixed/mobile broadband penetration is still low compared to other Asian nations; government and operators preparing for 5G services through Huawei&rsquo;s infrastructure that will drive mobile broadband through faster speeds; online Internet content subject to government restrictions (2020)<br>
@@ -703,8 +703,7 @@ _river port(s)_: Phnom Penh (Mekong)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Cambodian Armed Forces: High Command Headquarters, Royal Cambodian Army, Royal Khmer Navy, Royal Cambodian Air Force, Royal Gendarmerie; the National Committee for Maritime Security (performs Coast Guard functions and has representation from military and civilian agencies) (2021)<br>
-note - the Cambodian National Police is under the Ministry of Interior<br>
+Royal Cambodian Armed Forces: Royal Cambodian Army, Royal Khmer Navy, Royal Cambodian Air Force, Royal Gendarmerie; the National Committee for Maritime Security (performs Coast Guard functions and has representation from military and civilian agencies); Ministry of Interior: Cambodian National Police (2022)<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>

@@ -611,7 +611,7 @@ _subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 7,512,370 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 147.5 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 147 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Costa Rica has broad telecom coverage though geographical distribution of digital service is unequal; recent regulator liberalization spurred expansion in all sectors; broadband market is the most advanced and highest penetration in Central America yet lags behind many South American countries; operators investing in NGN technology; number portability and cheaper broadband costs will increase competition; government aims to subsidize tele-health and e-learning (2018)<br>

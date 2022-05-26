@@ -591,8 +591,8 @@ _total subscriptions_: 1,678,651 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 34 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,234,027 (2020)<br>
-_subscriptions per 100 inhabitants_: 106 (2020)<br>
+_total subscriptions_: 5,234,027 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: infrastructure projects are underway, including the national plan to deliver fiber-based service of at least 150Mb/s nationally by the end of 2022; operators invested in fiber-based networks to deliver a 1Gb/s service to most premises, and on 5G to cover more than half of population; operator test of satellite broadband; Dublin is a smart city (2020)<br>
@@ -670,7 +670,7 @@ _river port(s)_: Cork (Lee), Waterford (Suir)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Reserve Defense Forces (2021)<br>
+Irish Defense Forces (Oglaigh na h-Eireannn): Army, Air Corps, Naval Service, Reserve Defense Forces (2022)<br>
 
 **Military expenditures**<br>
 0.3% of GDP (2021)<br>
@@ -693,7 +693,7 @@ note - as of 2019, women made up about 7% of the military's full-time personnel<
 130 Golan Heights (UNDOF); 330 Lebanon (UNIFIL) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>the Irish Defense Forces trace their origins back to the Irish Volunteers, which was established in 1913; the Irish Volunteers took part in the 1916 Easter Rising and the Irish War of Independence, 1919-1921</p> <p>Ireland has a long-standing policy of military neutrality; however, it participates in international peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO, but has a relationship going back to 1997 when it deployed personnel in support of the NATO-led peacekeeping operations in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; Ireland has been an active participate in UN peacekeeping operations since the 1950s</p><br>
+<p>the Irish Defense Forces trace their origins back to the Irish Volunteers, a unit established in 1913; the Irish Volunteers took part in the 1916 Easter Rising and the Irish War of Independence, 1919-1921</p> <p>Ireland has a long-standing policy of military neutrality; however, it participates in international peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO, but has a relationship going back to 1997 when it deployed personnel in support of the NATO-led peacekeeping operations in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; Ireland has been an active participate in UN peacekeeping operations since the 1950s</p><br>
 
 ## Terrorism
 

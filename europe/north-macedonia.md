@@ -86,15 +86,15 @@ _noun_: Macedonian(s)<br>
 _adjective_: Macedonian<br>
 
 **Ethnic groups**<br>
-Macedonian 64.2%, Albanian 25.2%, Turkish 3.9%, Romani 2.7%, Serb 1.8%, other 2.2% (2002 est.)<br>
-<strong>note:</strong> North Macedonia has not conducted a census since 2002; Romani populations are usually underestimated in official statistics and may represent 6.5–13% of North Macedonia’s population<br>
+Macedonian 58.4%, Albanian 24.3%, Turkish 3.9%, Romani 2.5%, Serb 1.3%, other 2.3%, persons for whom data were taken from administrative sources and no ethnic affiliation data was available 7.2% (2021 est.)<br>
+<strong>note:</strong> Romani populations are usually underestimated in official statistics and may represent 6.5–13% of North Macedonia’s population<br>
 
 **Languages**<br>
-Macedonian (official) 66.5%, Albanian (official) 25.1%, Turkish 3.5%, Romani 1.9%, Serbian 1.2%, other (includes Aromanian (Vlach) and Bosnian) 1.8% (2002 est.); note - minority languages are co-official with Macedonian in municipalities where they are spoken by at least 20% of the population; Albanian is co-official in Tetovo, Brvenica, Vrapciste, and other municipalities; Turkish is co-official in Centar Zupa and Plasnica; Romani is co-official in Suto Orizari; Aromanian is co-official in Krusevo; Serbian is co-official in Cucer Sandevo<br>
+Macedonian (official) 61.4%, Albanian (official) 24.3%, Turkish 3.4%, Romani 1.7%, other (includes Aromanian (Vlach) and Bosnian) 2%, persons for whom data were taken from administrative sources and no language data was available 7.2% (2021 est.); note - data represent mother tongue; minority languages are co-official with Macedonian in municipalities where they are spoken by at least 20% of the population; Albanian is co-official in Tetovo, Brvenica, Vrapciste, and other municipalities; Turkish is co-official in Centar Zupa and Plasnica; Romani is co-official in Suto Orizari; Aromanian is co-official in Krusevo; Serbian is co-official in Cucer Sandevo<br>
 _major-language sample(s)_: <br>Книга на Светски Факти, неопходен извор на основни информации. (Macedonian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Macedonian Orthodox 64.8%, Muslim 33.3%, other Christian 0.4%, other and unspecified 1.5% (2002 est.)<br>
+Macedonian Orthodox 46.1%, Muslim 32.2%, other Christian 13.8%, other and non-believers 0.5%, unspecified 0.2%, persons for whom data were taken from administrative sources and no religious affiliation data was available 7.2% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 16.16% (male 177,553/female 165,992)<br>

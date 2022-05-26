@@ -649,8 +649,8 @@ _total subscriptions_: 20,052,162 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,153,709,832 (2020)<br>
-_subscriptions per 100 inhabitants_: 83.6 (2020 est.)<br>
+_total subscriptions_: 1.15 billion (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 84 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>supported by deregulation, India is one of the fastest-growing telecom markets in the world; implementation of 4G/LTE; fixed-line/broadband underdeveloped; government investment in national infrastructure; project aims to connect 600,000 villages to broadband networks; expansive foreign investment; imports of integrated circuits and broadcast equipment from China; steps taken towards a 5G auction and tests; submarine cable linking mainland to the Andaman and Nicobar Islands; smart cities mission to promote 100 model cities in providing core infrastructure, sustainable environment, and quality of life through economic growth and competition, including focus on social, economic, and institutional pillars</p> (2022)<br>
@@ -732,7 +732,7 @@ _LNG terminal(s) (import)_: Dabhol, Dahej, Hazira<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps (provides security for Ministry of Defense sites); Ministry of Home Affairs paramilitary forces: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2021)<br>
+Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps (provides security for Ministry of Defense sites); Ministry of Home Affairs paramilitary forces: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2022)<br>
 note - the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br>
 
 **Military expenditures**<br>
@@ -755,7 +755,7 @@ the inventory of the Indian Armed Forces consists mostly of Russian- and Soviet-
 1,900 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 900 Lebanon (UNIFIL); 2,400 South Sudan (UNMISS) (Jan 2022)<br>
 
 **Military - note**<br>
-<p>as of 2021, the Indian Armed Forces were chiefly focused on China and Pakistan; the short 1962 Sino-India War left in place one of the world’s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003 and revised in 2018, although the border, known as the Line of Control, remained contested as of 2021, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; a cease-fire went into effect in 2003, but as of 2021, both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness</p><br>
+<p>as of 2022, the Indian Armed Forces were chiefly focused on China and Pakistan; the short 1962 Sino-India War left in place one of the world’s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003 and revised in 2018, although the border, known as the Line of Control, remained contested as of 2022, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; a cease-fire went into effect in 2003, but as of 2022, both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness</p><br>
 
 ## Terrorism
 

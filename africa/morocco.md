@@ -312,9 +312,6 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 **Major infectious diseases**<br>
 <strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are occurring in Morocco; as of 6 October 2021, Morocco has reported a total of 936,236 cases of COVID-19 or 2,536.5 cumulative cases of COVID-19 per 100,000 population with 38.94 cumulative deaths per 100,000 population; as of 2 October 2021, 60.91% of the population has received at least one dose of COVID-19 vaccine<br>
 
-**Food insecurity**<br>
-<p><strong>note:</strong>  data does not include former Western Sahara</p><br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 6.852 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 548,160 tons (2014 est.)<br>

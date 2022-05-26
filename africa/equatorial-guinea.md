@@ -569,8 +569,8 @@ _total subscriptions_: 11,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 591,223 (2018)<br>
-_subscriptions per 100 inhabitants_: 44.86 (2019 est.)<br>
+_total subscriptions_: 645,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 46 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Equatorial Guinea&rsquo;s climate for operator competition boosted mobile subscribership; broadband services are limited and expensive; submarine cable supported broadband and reliability of infrastructure; government backbone network will connect administrative centers; regional roaming agreement in process (2018)<br>
@@ -634,7 +634,7 @@ _LNG terminal(s) (export)_: Bioko Island<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army), Navy, Air Force; Gendarmerie (2021)<br>
+Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army)), Navy, Air Force; Gendarmerie (2022)<br>
 note - the Gendarmerie reports to the Ministry of National Defense and is responsible for security outside cities and for special events; military personnel also fulfill some police functions in border areas, sensitive sites, and high-traffic areas<br>
 
 **Military expenditures**<br>
@@ -645,16 +645,16 @@ note - the Gendarmerie reports to the Ministry of National Defense and is respon
 1% of GDP (2015 est.) (approximately $250 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,400 active duty troops; approximately 3-400 Gendarmerie (2021)<br>
+approximately 2,000 active duty troops; approximately 400 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapons systems; in recent years, it has sought to modernize its naval inventory; Ukraine is the leading provider of equipment since 2010 (2021)<br>
+the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapons systems; in recent years, it has sought to modernize its naval inventory; Ukraine has been the leading provider of equipment since 2010 (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for selective compulsory military service, although conscription is rare in practice; 2-year service obligation; women hold only administrative positions in the Navy (2021)<br>
 
 **Military - note**<br>
-<p>as of 2021, the FAGE’s National Guard (Army) had only three small infantry battalions with limited combat capabilities; the Navy focused on anti-piracy and protecting the country’s natural resources in the Gulf of Guinea; the Navy is small is size, but its inventory included a light frigate and a corvette, as well as several off-shore patrol boats; the Air Force possessed only a few operational combat aircraft and ground attack-capable helicopters</p><br>
+<p>as of 2022, the FAGE’s National Guard (Army) had only three small infantry battalions with limited combat capabilities; the country has invested heavily in naval capabilities in the 2010s to protect its oil installations and combat piracy and crime in the Gulf of Guinea; while the Navy was small, it was well-equipped with an inventory that included a light frigate and a corvette, as well as several off-shore patrol boats; the Air Force possessed only a few operational combat aircraft and ground attack-capable helicopters</p><br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>

@@ -328,16 +328,16 @@ _residency requirement for naturalization_: 5 years<br>
 18years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election<br>
 
 **Executive branch**<br>
-_chief of state_: President YOON Suk Yeol (since 10 May 2022); the president is both chief of state and head of government; Prime Minister KIM Boo-kyum (since 14 May 2021) serves as the principal executive assistant to the president, similar to the role of a vice president (note - President YOON has nominated HAN Duck-soo to the role of prime minister)<br>
+_chief of state_: President YOON Suk Yeol (since 10 May 2022); the president is both chief of state and head of government; Prime Minister HAN Deok-Soo (since 21 May 2022) serves as the principal executive assistant to the president, similar to the role of a vice president<br>
 _head of government_: President YOON Suk Yeol (since 10 May 2022)<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 March 2022 (next election held March 2027); prime minister appointed by president with consent of National Assembly<br>
 _election results_: YOON Suk-yeol (PPP) 48.56%, LEE Jae-myung (DP) 47.83% (note - voter turnout 77.1%)<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Kuk Hoe (300 seats statutory; 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
+_description_: unicameral National Assembly or Kuk Hoe (300 seats statutory, current 295; 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 15 April 2020 (next to be held on 10 April 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - DP/Together Citizens Party 180, UFP/Free Korea Party 103, JP 6, ODP 3, PP 3, independent 5; composition - men 243, women 57, percent of women 19%<br>
+_election results_: percent of vote by party - NA; seats by party - DP/Together Citizens Party 180, UFP/Free Korea Party 103, JP 6, ODP 3, PP 3, independent 5; composition as of April 2022 - men 240, women 55, percent of women 18.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)<br>
@@ -605,8 +605,8 @@ _total subscriptions_: 23,858,239 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 47 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 70,513,676 (2020)<br>
-_subscriptions per 100 inhabitants_: 137.5 (2020 est.)<br>
+_total subscriptions_: 70,513,676 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 138 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent domestic and international services featuring rapid incorporation of new technologies; exceedingly high mobile, mobile broadband, and fixed broadband penetration; strong support from government for initiatives; tech-savvy population has catapulted the nation into one of the world's most active telecommunication markets; all mobile operators offer 5G networks; Chinese telecom Huawei partnered with operators including launch of Seoul TechCity; import of integrated circuits, broadcasting equipment, and phones from China; government and private partnership on national e-commerce and smart city development (2020)<br>

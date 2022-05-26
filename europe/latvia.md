@@ -339,7 +339,7 @@ _election results_: Egils LEVITS elected president; Parliament vote - Egils LEVI
 **Legislative branch**<br>
 _description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 6 October 2018 (next to be held in October 2022)<br>
-_election results_: percent of vote by party - S 19.8%, KPV LV 14.3%, JKP 13.6%, AP! 12%, NA 11%, ZZS 9.9%, JV 6.7%, other 12.7%; seats by party - S 23, KPV LV 16, JKP 16, AP! 13, NA 13, ZZS 11, JV 8; composition (as of October 2021) - men 71, women 29, percent of women 29%<br>
+_election results_: percent of vote by party - S 19.8%, KPV LV 14.3%, JKP 13.6%, AP! 12%, NA 11%, ZZS 9.9%, JV 6.7%, other 12.7%; seats by party - S 23, KPV LV 16, JKP 16, AP! 13, NA 13, ZZS 11, JV 8; composition as of April 2022 - men 73, women 27, percent of women 27%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the Senate with 36 judges); Constitutional Court (consists of 7 judges)<br>

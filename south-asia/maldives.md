@@ -323,7 +323,7 @@ _residency requirement for naturalization_: unknown<br>
 
 **Executive branch**<br>
 _chief of state_: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018); Vice President&nbsp;Faisal NASEEM (since 17 November 2018); the president is both chief of state and head of government<br>
-_head of government_: President Ibrahim Mohamed SOLIH (since 17 November 2018); Vice President&nbsp;Faisal NASEEM (since 17&nbsp;November 2018)<br>
+_head of government_: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018); Vice President Faisal NASEEM (since 17 November 2018)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 September 2018 (next to be held in 2023)<br>
 _election results_: Ibrahim Mohamed SOLIH elected president (in 1 round); Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>

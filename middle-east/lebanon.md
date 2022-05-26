@@ -267,7 +267,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 30 March 2022, Lebanon has reported a total of 1,091,413 cases of COVID-19 or 15,990.35 cumulative cases of COVID-19 per 100,000 population with a total of 10,291 cumulative deaths or a rate of 150.77 cumulative deaths per 100,000 population; as of 29 March 2022, 37.17% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: <p>due to the ongoing financial and economic crisis - in August 2020, the UN Economic and Social Commission for Western Asia estimated that more than 55% of the population lived in poverty, up from 28% in 2019; current figures are likely to be higher due to a fall in households' purchasing power; the already worrisome economic conditions, with increasing unemployment, poverty, and skyrocketing inflation rates, have further worsened due to the COVID‑19 pandemic and the measures introduced to contain the spread of the disease</p> (2021)<br>
+_widespread lack of access_: due to the ongoing financial and economic crisis - the World Food Program (WFP) estimates that, as a result of the ongoing economic crisis, over 1.3 million Lebanese citizens, about 36% of the total population, were food insecure by the end of September 2021; the number of Lebanese households with serious food access constraints reached 57% in September 2021, up from 40% in September 2020; domestic cereal production covers, on average, less than 20% of the consumption needs and the country depends heavily on imports (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.04 million tons (2014 est.)<br>
@@ -338,9 +338,9 @@ _elections/appointments_: president indirectly elected by the National Assembly 
 _election results_: Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because the Assembly lacked the necessary quorum to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Majlis al-Nuwab in Arabic or Assemblee Nationale in French (128 seats; members directly elected by listed-based proportional representation vote; members serve 4-year terms); prior to 2017, the electoral system was by majoritarian vote<br>
-_elections_: last held on 6 May 2018 (next to be held on 15 May 2022)<br>
-_election results_: percent of vote by coalition - NA; seats by coalition &ndash; Strong Lebanon Bloc (Free Patriotic Movement-led) 25; Future Bloc (Future Movement-led) 20; Development and Liberation Bloc (Amal Movement-led) 16; Loyalty to the Resistance Bloc (Hizballah-led) 15; Strong Republic Bloc (Lebanese Forces-led) 15; Democratic Gathering (Progressive Socialist Party-led) 9; Independent Centre Bloc 4; National Bloc (Marada Movement-led) 3; Syrian Social Nationalist Party 3; Tashnaq 3; Kata&rsquo;ib 3; other 8; independent 4; &nbsp;composition - men 122, women 6, percent of women 4.6%<br>
+_description_: unicameral National Assembly or Majlis al-Nuwab in Arabic or Assemblee Nationale in French (128 seats; members directly elected in multi-member constituencies by listed-based proportional representation vote; members serve 4-year terms); prior to 2017, the electoral system was by majoritarian vote<br>
+_elections_: last held on 15 May 2022 (next to be held in May 2026)<br>
+_election results_: percent of vote by coalition/party &ndash; NA; seats by party/coalition &ndash; FPM 16, LF 14, Amal Movement 13, Hezbollah 13, PSP 9, Future Movement Bloc (candidates did not run in 2022; members ran as independents) 8, Kata&rsquo;ib Party 4, other 30, independent 21; composition - men 120, women 8, percent of women 6.3%<br>
 <strong>note:</strong> Lebanon’s constitution states the National Assembly cannot conduct regular business until it elects a president when the position is vacant<br>
 
 **Judicial branch**<br>

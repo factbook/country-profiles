@@ -571,8 +571,8 @@ _total subscriptions_: 103,885 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 24 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 526,732 (2020)<br>
-_subscriptions per 100 inhabitants_: 120.4 (2020 est.)<br>
+_total subscriptions_: 526,589 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 123 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Brunei is improving its national telecom network; telecommunications infrastructure and services are of high standard, due to healthy investment in networks and services; relatively mature telecom system compared to other Asian countries; mobile subscription increasing steadily to high penetration; launch of 5G pilot services in April 2021 aimed to increase awareness of the benefits of 5G and boost the mobile broadband sector; access to telecom services via the Kacific-1 satellite (2021)<br>
@@ -638,7 +638,7 @@ _LNG terminal(s) (export)_: Lumut<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Brunei Air Force (2021)<br>
+Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Brunei Air Force (2022)<br>
 
 **Military expenditures**<br>
 3.1% of GDP (2021 est.)<br>
@@ -657,7 +657,7 @@ the Royal Brunei Armed Forces imports nearly all of its military equipment and w
 17 years of age for voluntary military service; non-Malays are ineligible to serve; recruits from the army, navy, and air force all undergo 43-week initial training (2021)<br>
 
 **Military - note**<br>
-Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2021)<br>
+Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2022)<br>
 
 ## Transnational Issues
 

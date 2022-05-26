@@ -714,8 +714,8 @@ _river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB); Ministry of Government: National Police (Policía Nacional de Bolivia, PNB; includes paramilitary Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotráfico, FELCN)) and an Anti-Terrorist Group (GAT) (2021)<br>
-note - the National Police is part of the reserves for the Armed Forces<br>
+Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB); Ministry of Government: National Police (Policía Nacional de Bolivia, PNB; includes paramilitary Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotráfico, FELCN)) and an Anti-Terrorist Group (GAT) (2022)<br>
+note(s) - the National Police is part of the reserves for the Armed Forces; the police and military share for border enforcement<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>

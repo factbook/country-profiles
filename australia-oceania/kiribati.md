@@ -570,8 +570,8 @@ _total subscriptions_: 33 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 54,661 (2020)<br>
-_subscriptions per 100 inhabitants_: 45.76 (2020)<br>
+_total subscriptions_: 54,661 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 46 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: generally good national and international service; wireline service available on Tarawa and Kiritimati (Christmas Island); connections to outer islands by HF/VHF radiotelephone; recently formed (mobile network operator) MNO is implementing the first phase of improvements with 3G and 4G upgrades on some islands; islands are connected to each other and the rest of the world via satellite; launch of Kacific-1 in December 2019 will improve telecommunication for Kiribati (2020)<br>

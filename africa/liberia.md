@@ -276,6 +276,9 @@ _animal contact diseases_: rabies<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Liberia is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
+**Food insecurity**<br>
+_severe localized food insecurity_: due to high food prices - production of rice, a main staple food, was estimated at a below-average level in 2021, a factor that is expected to further aggravate food insecurity in 2022 (2022)<br>
+
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 564,467 tons (2007 est.)<br>
 
@@ -701,7 +704,7 @@ the International Maritime Bureau reports the territorial and offshore waters in
 <p>as the UN Mission in Liberia (UNMIL) continues to drawdown prior to the 1 March 2018 closure date, the peacekeeping force is being reduced to 434 soldiers and two police units; some Liberian refugees still remain in Guinea, Cote d'Ivoire, Sierra Leone, and Ghana; Liberia shelters 7,811 Ivoirian refugees, as of February 2022</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,365 (Cote d'Ivoire) (2022)<br>
+_refugees (country of origin)_: 8,054 (Cote d'Ivoire) (2022)<br>
 
 **Illicit drugs**<br>
 <p>not a significant transit country for illicit narcotics but proximity to major drug routes contribute to trafficking; not a significant producer of illicit narcotics; local drug use involves marijuana, heroin, cocaine, the synthetic opioid tramadol, and amphetamine-type stimulants</p><br>

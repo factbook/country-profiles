@@ -734,7 +734,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 _refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 830,610 estimated refugee and migrant arrivals (January 2015-May 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
+<strong>note:</strong> 831,936 estimated refugee and migrant arrivals (January 2015-May 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

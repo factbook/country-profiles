@@ -505,8 +505,8 @@ _total subscriptions_: 70,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 41 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 98,000 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 61.99 (2021 est.)<br>
+_total subscriptions_: 98,000 (2009 est.)<br>
+_subscriptions per 100 inhabitants_: 62 (2009 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: integrated with US facilities for direct dialing, including free use of 800 numbers (2020)<br>

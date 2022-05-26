@@ -286,7 +286,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Burkina Faso is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to civil insecurity in the north - according to the latest analysis, about 2.87 million people are estimated to need humanitarian assistance in the June&minus;August 2021; in Centre-Nord and Sahel regions, insecurity continues to cause population displacements, further deteriorating the food security situation (2021)<br>
+_severe localized food insecurity_: due to civil insecurity in the north - in the upcoming peak of the lean season, between June and August 2022, 2.6 million people are projected to face severe food insecurity; domestic cereal production in 2021 was estimated at a below-average level due to effects of adverse weather and the civil conflict, further aggravating conditions; in Centre-Nord and Sahel regions, insecurity continues to cause population displacements, further deteriorating the food security situation; a coup d&rsquo;&eacute;tat on January 2022 is an additional factor that could increase civil insecurity and further stress food insecurity conditions (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,575,251 tons (2015 est.)<br>
@@ -628,8 +628,8 @@ _total subscriptions_: 75,039 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22,117,218 (2020)<br>
-_subscriptions per 100 inhabitants_: 105.8 (2020 est.)<br>
+_total subscriptions_: 22,117,218 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Burkina Faso&rsquo;s telecom services are some of the most expensive in the world, hindered by regulatory procedures, insufficient mobile spectrum, poor fixed-line networks; mobile telephony but below African average; Internet is provided by mobile operators; Internet penetration is low and expensive, despite improved international bandwidth via fiber links through submarine cables to adjacent countries; increased telecom tax; government infrastructure project largely completed; parliament launched inquiry on mobile network infrastructure coverage, pricing of services, and quality of service; government began computer subsidy program for university students; government progressed with large project to provide metropolitan fiber-optic infrastructure (2020)<br>
@@ -689,8 +689,8 @@ _unpaved_: 11,662 km (2014)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, LAT), Air Force of Burkina Faso (Force Aerienne de Burkina Faso, FABF), National Gendarmerie; Volunteers for the Defense of the Fatherland (a civilian defense force established in 2019 to act as auxiliaries to the military in the fight against militants) (2021)<br>
-note - the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; for example, Gendarmerie, Army, and police forces were combined to form a 1,500-member task force known as the <em>Groupement des Forces Anti-Terroristes</em> (GFAT) to address terrorist activities along the country's northern border in 2013<br>
+Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, LAT), Air Force of Burkina Faso (Force Aerienne de Burkina Faso, FABF), National Gendarmerie; Volunteers for the Defense of the Fatherland (VDP) (2022)<br>
+note(s) - the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; the VDP is a civilian defense force established in 2019 to act as auxiliaries to the military in the fight against militants<br>
 
 **Military expenditures**<br>
 2.4% of GDP (2021 est.)<br>
@@ -703,7 +703,7 @@ note - the National Gendarmerie officially reports to the Ministry of Defense, b
 approximately 12,000 personnel (7,000 Army; 500 Air Force; 4,500 National Gendarmerie) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FABF has a mix of foreign-supplied weapons; since 2010, it has received limited amounts of mostly donated second-hand equipment from more than 10 countries (2021)<br>
+the FABF has a mix of foreign-supplied weapons; since 2010, it has received limited amounts of mostly donated second-hand equipment from a variety of countries (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; no conscription; women may serve in supporting roles (2021)<br>

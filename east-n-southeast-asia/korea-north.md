@@ -244,7 +244,7 @@ _urban population_: 62.9% of total population (2022)<br>
 _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to low food consumption levels, poor dietary diversity, and economic downturn - a large portion of the population suffers from low levels of food consumption and very poor dietary diversity; the economic constraints, particularly resulting from the global impact of the COVID‑19 pandemic, have increased the population&rsquo;s vulnerability to food insecurity; the food gap is estimated at about 860,000 mt in the 2020/21 marketing year (November/October); if this gap is not adequately covered through commercial imports and/or food aid, households could experience a harsh lean period, particularly from August until October, when the 2021 main season grain crops are expected to be available for consumption (2021)<br>
+_widespread lack of access_: due to low food consumption levels, poor dietary diversity, and economic downturn - a large portion of the population suffers from low levels of food consumption and very poor dietary diversity; the economic constraints, particularly resulting from the global impact of the COVID‑19 pandemic, have increased the population&rsquo;s vulnerability to food insecurity; the food gap is estimated at about 860,000 mt, equivalent to approximately 2-3 months of food use, if this gap is not adequately covered through commercial imports and/or food aid, households could experience a harsh lean period (2022)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 902.8 million cubic meters (2017 est.)<br>
@@ -314,7 +314,7 @@ _election results_: KIM Jong Un reelected unopposed<br>
 **Legislative branch**<br>
 _description_: unicameral Supreme People's Assembly or Ch'oego Inmin Hoeui (687 seats; members directly elected by majority vote in 2 rounds if needed to serve 5-year terms); note - the Korean Workers' Party selects all candidates<br>
 _elections_: last held on 10 March 2019 (next to be held March 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - KWP 607, KSDP 50, Chondoist Chongu Party 22, General Association of Korean Residents in Japan (Chongryon) 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; composition - men 575, women 112, percent of women 16.3%<br><br><strong>note:</strong> KWP, KSDP, Chondoist Chongu Party, and Chongryon are under the KWP's control; a token number of seats reserved for minor parties<br>
+_election results_: percent of vote by party - NA; seats by party - KWP 607, KSDP 50, Chondoist Chongu Party 22, General Association of Korean Residents in Japan (Chongryon) 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; composition as of March 2022 - men 566, women 121, percent of women 17.6%<br><br><strong>note:</strong> KWP, KSDP, Chondoist Chongu Party, and Chongryon are under the KWP's control; a token number of seats reserved for minor parties<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Central Court (consists of one judge and 2 "People's Assessors" or, for some cases, 3 judges)<br>
@@ -543,8 +543,8 @@ _total subscriptions_: 1.18 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,821,857 (2020)<br>
-_subscriptions per 100 inhabitants_: 14.98 (2019 est.)<br>
+_total subscriptions_: 6 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: underdeveloped yet growing market dependent on 3G; nationwide fiber-optic network; some mobile-cellular service beyond Pyongyang; remote areas on manual switchboards; though currently under sanction, dependent on foreign investment (primarily Chinese) for equipment and infrastructure; low broadband penetration; international communication restricted and domestic use monitored by state (2020)<br>

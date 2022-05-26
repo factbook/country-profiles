@@ -636,8 +636,8 @@ _total subscriptions_: 9,662,135 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 355,748,606 (2020)<br>
-_subscriptions per 100 inhabitants_: 130.1 (2020)<br>
+_total subscriptions_: 355,620,388 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Indonesia&rsquo;s telecom sector is based on 3G/LTE mobile infrastructure and inadequate fixed-line capacity; large population and disbursed island geography make upgrades difficult; market is attracting foreign investment, especially in data center and cloud based services; tests of 5G challenged by lack of spectrum; satellite improvements in 2020 (2020)<br>
@@ -719,7 +719,7 @@ _LNG terminal(s) (import)_: Arun, Lampung, West Java<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat (TNI-AD)), Navy (TNI-Angkatan Laut (TNI-AL), includes Marine Corps (Korps Marinir, KorMar), Naval Aviation Center (PUSPENERBAL)), Air Force (TNI-Angkatan Udara (TNI-AU)), National Air Defense Command (Komando Pertahanan Udara Nasional (Kohanudnas)), Armed Forces Special Operations Command (Kopassus), Strategic Reserve Command (Kostrad), National Army Reserve Component (Komcad) (2021)<br>
+Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat (TNI-AD)), Navy (TNI-Angkatan Laut (TNI-AL), includes Marine Corps (Korps Marinir, KorMar), Naval Aviation Center (PUSPENERBAL)), Air Force (TNI-Angkatan Udara (TNI-AU)), National Air Defense Command (Komando Pertahanan Udara Nasional (Kohanudnas)), Armed Forces Special Operations Command (Kopassus), Strategic Reserve Command (Kostrad), National Army Reserve Component (Komcad) (2022)<br>
 note(s) - in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br>the Indonesian National Police includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counter-terrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror)<br>
 
 **Military expenditures**<br>
@@ -733,7 +733,7 @@ note(s) - in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coo
 approximately, 400,000 active duty troops (300,000 Army; 60,000 Navy, including about 20,000 marines; 30,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Indonesian military inventory comes from a wide variety of sources; since 2010, the top suppliers included China, France, Germany, the Netherlands, Russia, South Korea, the UK, and the US; the TNI has been engaged in a long-term modernization program since 2010 with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government publicly said that growing its domestic defense industry is a national priority over the next 5-10 years (2021)<br>
+the Indonesian military inventory comes from a wide variety of sources; since 2010, the top suppliers included China, France, Germany, the Netherlands, Russia, South Korea, the UK, and the US; the TNI has been engaged in a long-term modernization program since 2010 with uneven success; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government publicly said that growing its domestic defense industry is a national priority over the next 5-10 years (2022)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary military service, with selective conscription authorized (males, age 18), but not utilized; 2-year service obligation, with reserve obligation to age 45 (officers) (2021)<br>
@@ -742,7 +742,7 @@ the Indonesian military inventory comes from a wide variety of sources; since 20
 225 Central African Republic (MINUSCA); 1,030 Democratic Republic of the Congo (MONUSCO); 1,250 Lebanon (UNIFIL) (Jan 2022)<br>
 
 **Military - note**<br>
-as of 2022, Indonesian military and police forces were engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969; in addition, the Indonesian military has been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local Islamic State (ISIS)-affiliated terrorist group <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, held military exercises in surrounding waters, and increased security cooperation<br>
+as of 2022, Indonesian military and police forces were engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969; in addition, the Indonesian military has been assisting police in Sulawesi in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local Islamic State (ISIS)-affiliated terrorist group <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, held military exercises in surrounding waters, and increased security cooperation (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks decreased from 26 incidents in 2020 to nine in 2021 due to aggressive maritime patrolling by regional authorities; vessels continue to be boarded while anchored or berthed at Indonesian ports with seven vessels attacked; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>

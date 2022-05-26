@@ -298,7 +298,7 @@ _residency requirement for naturalization_: 14 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Samuel W.T. SEATON (since 2 September 2015); note - SEATON was acting Governor General from 20 May to 2 September 2015<br>
+_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Samuel W.T. SEATON (since 2 September 2015); note - SEATON was Acting Governor General from 20 May to 2 September 2015<br>
 _head of government_: Prime Minister Timothy HARRIS (since 18 February 2015); Deputy Prime Minister Shawn RICHARDS (since 22 February 2015)<br>
 _cabinet_: Cabinet appointed by governor general in consultation with prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>
@@ -611,7 +611,7 @@ the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2021
 18 years of age for voluntary military service (under 18 with written parental permission); no conscription (2021)<br>
 
 **Military - note**<br>
-St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2021)<br>
+St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2022)<br>
 
 ## Transnational Issues
 

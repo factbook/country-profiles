@@ -592,8 +592,8 @@ _total subscriptions_: 436,249 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,873,259 (2020)<br>
-_subscriptions per 100 inhabitants_: 97.03 (2020)<br>
+_total subscriptions_: 2,873,259 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 97 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good domestic and international service; mobile sector dominates, accounting for majority of the Internet connections and half of telecom sector revenue; extensive LTE networks providing coverage to most of the island population; regulator encouraging competition with little success due to breach of license; government announced support of national broadband network to aid access to education, hospitals, police, and municipal institutions; operators provided customers with data plans to support educational platforms; US grant to fund New Kingston smart city program (2020)<br>

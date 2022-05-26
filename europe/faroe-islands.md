@@ -507,8 +507,8 @@ _total subscriptions_: 15,341 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 59,003 (2020)<br>
-_subscriptions per 100 inhabitants_: 120.8 (2020 est.)<br>
+_total subscriptions_: 59,213 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 121 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good international and domestic communications; telecommunications network of high standards with excellent coverage throughout most parts of the country and at competitive prices (2020)<br>

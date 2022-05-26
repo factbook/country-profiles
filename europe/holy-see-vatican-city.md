@@ -247,7 +247,7 @@ _FAX_: [1] (202) 337-4036<br>
 _email address and website_: <br>nuntiususa@nuntiususa.org<br><br>http://www.nuntiususa.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Patrick CONNELL (since January 2021)<br>
+_chief of mission_: Ambassador Joe DONNELLY (since 11 April 2022)<br>
 _embassy_: Via Sallustiana, 49, 00187 Rome<br>
 _mailing address_: 5660 Holy See Place, Washington DC&nbsp; 20521-5660<br>
 _telephone_: [39] (06) 4674-1<br>
@@ -337,10 +337,10 @@ the Vatican Apostolic Library is one of the world's oldest libraries, formally e
 ## Military and Security
 
 **Military and security forces**<br>
-Pontifical Swiss Guard Corps (Corpo della Guardia Svizzera Pontificia); the Gendarmerie Corps of Vatican City (Corpo della Gendarmeriais) is a police force that helps augment the Pontifical Swiss Guard Corps during the Pope&rsquo;s appearances, as well as providing general security, traffic direction, and investigative duties for the Vatican City State (2021)<br>
+Pontifical Swiss Guard Corps (Corpo della Guardia Svizzera Pontificia); the Gendarmerie Corps of Vatican City (Corpo della Gendarmeriais) is a police force that helps augment the Pontifical Swiss Guard Corps during the Pope&rsquo;s appearances, as well as providing general security, traffic direction, and investigative duties for the Vatican City State (2022)<br>
 
 **Military service age and obligation**<br>
-Pontifical Swiss Guard Corps: 19-30 years of age for voluntary military service; no conscription; must be Roman Catholic, a single male, and a Swiss citizen, with a secondary education; service is for 26 months (2021)<br>
+Pontifical Swiss Guard Corps: 19-30 years of age for voluntary military service; no conscription; must be Roman Catholic, a single male, and a Swiss citizen, with a secondary education; service is for 26 months (2022)<br>
 
 **Military - note**<br>
 defense is the responsibility of Italy<br>

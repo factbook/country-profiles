@@ -283,7 +283,7 @@ _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to conflict, civil insecurity, and soaring food prices - the number of severely food insecure people was estimated at 9.8 million in the June&minus;September 2021 period, due to flood-induced livelihood losses sustained in 2020, soaring food prices and inter‑communal conflict; the main drivers are macro‑economic challenges resulting in rampant food and non‑food inflation, the lingering impact of 2020 widespread floods on livelihoods and the escalation of inter‑communal violence in western Greater Darfur Region and in eastern South Kordofan, North Kordofan and Blue Nile states (2021)<br>
+_severe localized food insecurity_: due to conflict, civil insecurity, and soaring food prices - the number of severely food insecure people was estimated at 6 million between October 2021 and February 2022, mainly due to high food prices and inter-communal conflict (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,831,291 tons (2015 est.)<br>

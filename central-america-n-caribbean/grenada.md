@@ -318,7 +318,7 @@ _subordinate courts_: magistrates' courts; Court of Magisterial Appeals<br>
 National Democratic Congress or NDC [Dickon MITCHELL]<br>New National Party or NNP [Keith MITCHELL]<br>
 
 **International organization participation**<br>
-ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, ITUC, LAES, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
+ACP, AOSIS, CARIFORUM, CARIBCAN, Caricom, CBI, CDB, CELAC, CSME, ECCU, EPA, FAO, G-77, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ITU, ITUC, LAES, MIGA, NAM, OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Yolande Yvonne&nbsp;SMITH (since 8 April 2019)<br>
@@ -555,8 +555,8 @@ _total subscriptions_: 16,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 113,177 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 102.1 (2020 est.)<br>
+_total subscriptions_: 122,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 108 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate, island-wide telephone system; lack of local competition, but telecoms are a high contributors to overall GDP; growth sectors include the mobile telephony and data segments (2020)<br>
@@ -607,7 +607,7 @@ _major seaport(s)_: Saint George's<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the Royal Grenada Police Force includes a Coast Guard and a paramilitary Special Services Unit<br>
+no regular military forces; the Royal Grenada Police Force (under the Ministry of National Security) includes a Coast Guard and a paramilitary Special Services Unit<br>
 
 **Military - note**<br>
 <p>Grenada joined the Caribbean Regional Security System (RSS) in 1985; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p><br>

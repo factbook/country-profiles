@@ -380,8 +380,8 @@ _total subscriptions_: 33,940 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 54 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 71,249 (2021 est.)<br>
-_subscriptions per 100 inhabitants_: 113 (2016 est.)<br>
+_total subscriptions_: 43,824 (2009 est.)<br>
+_subscriptions per 100 inhabitants_: 79 (2009 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high performance global connections with quality service; connections to major cities around the world to rival and attract future investment and future needs of islanders and businesses (2018)<br>

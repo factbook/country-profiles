@@ -289,7 +289,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Malawi is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to reduced incomes - nationally, cereal production is estimated at a bumper high in 2021, which is expected to result in average to above‑average household cereal supplies and thus improvements in food security; despite the good food supply situation, the effects of the COVID-19 pandemic will continue to curb access to food due to reduced incomes (2021)<br>
+_severe localized food insecurity_: due to reduced incomes and shortfalls in cereal producation - an estimated 1.65 million people are facing "Crisis" levels of food insecurity between January and March 2022, underpinned by localized shortfalls in cereal production and the lingering impact of an economic downturn due to the COVID-19 pandemic; the effects of poor rains at the start of the cropping season and tropical storm Ana in January 2022 are expected to cause an increase in humanitarian needs later in 2022, due to crop and livelihood losses (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,297,844 tons (2013 est.)<br>
@@ -728,5 +728,5 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,089 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,377 (Burundi) (refugees and asylum seekers), 7,526 (Rwanda) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 12,377 (Burundi) (refugees and asylum seekers), 7,526 (Rwanda) (refugees and asylum seekers) (2022)<br>
 

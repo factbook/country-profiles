@@ -497,8 +497,8 @@ _total subscriptions_: 6,576 (2018 est.)<br>
 _subscriptions per 100 inhabitants_: 38 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14,539 (2018)<br>
-_subscriptions per 100 inhabitants_: 83.05 (2019 est.)<br>
+_total subscriptions_: 14,539 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 83 (2018 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region; Telecom Cook Islands offers international direct dialing, Internet, email, and fax; individual islands are connected by a combination of satellite earth stations, microwave systems, and VHF and HF radiotelephone (2020)<br>

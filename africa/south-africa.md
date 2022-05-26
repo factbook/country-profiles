@@ -97,7 +97,7 @@ _noun_: South African(s)<br>
 _adjective_: South African<br>
 
 **Ethnic groups**<br>
-Black African 80.9%, Colored 8.8%, White 7.8%, Indian/Asian 2.5% (2018 est.)<br>
+Black African 80.9%, Colored 8.8%, White 7.8%, Indian/Asian 2.6% (2021 est.)<br>
 <strong>note:</strong> colored is a term used in South Africa, including on the national census, for persons of mixed race ancestry who developed a distinct cultural identity over several hundred years<br>
 
 **Languages**<br>

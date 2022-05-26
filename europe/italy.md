@@ -616,8 +616,8 @@ _total subscriptions_: 19,607,341 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 32 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 77,796,840 (2020)<br>
-_subscriptions per 100 inhabitants_: 128.7 (2020)<br>
+_total subscriptions_: 77,581,048 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-developed, fully automated telephone, and data services; among highest mobile penetration rates in Europe; benefitted from progressive government programs aimed at developing fiber in broadband sector; leading edge of development with 5G in six cities; fiber network reaches more than half of population; Milan developing smart city technology; importer of broadcasting equipment and computers from China (2020)<br>
@@ -739,7 +739,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 603,001 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
+<strong>note:</strong> 604,000 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

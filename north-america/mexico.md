@@ -103,7 +103,7 @@ Mestizo (Amerindian-Spanish) 62%, predominantly Amerindian 21%, Amerindian 7%, o
 <strong>note:</strong> Mexico does not collect census data on ethnicity<br>
 
 **Languages**<br>
-Spanish only 93.8%, Spanish and indigenous languages 5.4%, indigenous only 0.6%, unspecified 0.2%; note -indigenous languages include various Mayan, Nahuatl, and other regional languages (2020 est.)<br>
+Spanish only 93.8%, Spanish and indigenous languages 5.4%, indigenous only 0.6%, unspecified 0.2%; note - indigenous languages include various Mayan, Nahuatl, and other regional languages (2020 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>

@@ -290,7 +290,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to High food prices and economic downturn - an estimated 3 million people are projected to be in need of humanitarian assistance between January and March 2022, largely on account of poor food access due to prevailing high food prices and reduced incomes owing to the effects of an economic downturn; below-average rainfall and extreme weather events in 2021/22 are likely to result in a decrease in cereal production and heighten food insecurity later in 2022 (2022)<br>
+_widespread lack of access_: due to high food prices and economic downturn - an estimated 3 million people are projected to be in need of humanitarian assistance between January and March 2022, largely on account of poor food access due to prevailing high food prices and reduced incomes owing to the effects of an economic downturn; below-average rainfall and extreme weather events in 2021/22 are likely to result in a decrease in cereal production and heighten food insecurity later in 2022 (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,449,752 tons (2015 est.)<br>

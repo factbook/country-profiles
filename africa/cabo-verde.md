@@ -586,8 +586,8 @@ _total subscriptions_: 57,668 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 10 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 544,729 (2020)<br>
-_subscriptions per 100 inhabitants_: 97.98 (2020 est.)<br>
+_total subscriptions_: 544,729 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 98 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: LTE reaches almost 40% of the population; regulator awards commercial 4G licenses and starts 5G pilot; govt. extends USD 25 million for submarine fiber-optic cable project&nbsp;linking Africa to Portugal and Brazil;&nbsp;major service provider is Cabo Verde Telecom (CVT) (2020)<br>
@@ -645,7 +645,7 @@ _major seaport(s)_: Porto Grande<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; includes a small air component), Cabo Verde Coast Guard (Guardia Costeira de Cabo Verde, GCCV) (2021)<br>
+Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; includes a small air component), Cabo Verde Coast Guard (Guardia Costeira de Cabo Verde, GCCV); Ministry of Internal Affairs: National Police (2022)<br>
 
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>
@@ -664,7 +664,7 @@ the FACV has a limited amount of mostly dated and second-hand equipment, largely
 18-35 years of age for male and female selective compulsory military service; 2-years conscript service obligation; 17 years of age for voluntary service (with parental consent) (2021)<br>
 
 **Military - note**<br>
-<p>as of 2021, the FACV/National Guard was mostly a ground force with 2 infantry battalions and a small air component with a maritime patrol squadron; the Coast Guard had a few coastal patrol craft and patrol boats</p><br>
+<p>as of 2022, the FACV/National Guard was mostly a ground force with 2 infantry battalions and a small air component with a maritime patrol squadron; the Coast Guard had a few coastal patrol craft and patrol boats</p><br>
 
 ## Transnational Issues
 

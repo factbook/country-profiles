@@ -608,8 +608,8 @@ _total subscriptions_: 894,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,396,786<br>
-_subscriptions per 100 inhabitants_: 161.1 (2019 est.)<br>
+_total subscriptions_: 9.949 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 153 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: El Salvador&rsquo;s telecom sector is challenged by low population, poor infrastructure, and unequal income distribution compounded by corruption and criminal influence; liberal regulation promotes mobile penetration in replacement of fixed-line density; operators testing 5G in 2020 (2020)<br>
@@ -684,7 +684,7 @@ _oil terminal(s)_: Acajutla offshore terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS); Ministry of Justice and Public Security: National Civil Police (Policia Nacional Civil, PNC) (2021)<br>
+the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS); Ministry of Justice and Public Security: National Civil Police (Policia Nacional Civil, PNC) (2022)<br>
 note - in 2016, El Salvador created a 1,000-strong combined Army commando and special police unit to combat criminal gang violence<br>
 
 **Military expenditures**<br>
@@ -709,7 +709,7 @@ note - as of 2016, women made up about 6% of the active duty military<br>
 175 Mali (MINUSMA) (Jan 2022)<br>
 
 **Military - note**<br>
-<p>the National Civilian Police (Ministry of Justice and Public Security) is responsible for maintaining public security, while the Ministry of Defense is responsible for maintaining national security; the constitution separates public security and military functions, but allows the president to use the armed forces in exceptional circumstances to maintain internal peace and public security; Salvadoran presidents have deployed military troops for internal security duties for years, and President BUKELE has continued the tradition; in November 2019, he signed a decree authorizing military involvement in police duties to combat gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; as of 2021, about half of the Army was reportedly deployed in support of the National Police</p><br>
+<p>the National Civilian Police (Ministry of Justice and Public Security) is responsible for maintaining public security, while the Ministry of Defense is responsible for maintaining national security; the constitution separates public security and military functions, but allows the president to use the armed forces in exceptional circumstances to maintain internal peace and public security; in November 2019, President BUKELE signed a decree authorizing military involvement in police duties to combat gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; as of 2022, a considerable portion of the Army was deployed in support of the National Police</p><br>
 
 ## Transnational Issues
 

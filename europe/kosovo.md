@@ -546,8 +546,8 @@ _total subscriptions_: 383,763 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 6 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 620,186 (2021)<br>
-_subscriptions per 100 inhabitants_: 32.3 (2019)<br>
+_total subscriptions_: 562,000 (2015 est.)<br>
+_subscriptions per 100 inhabitants_: 32 (2015 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: EU pre-accession process supported progress in the telecom industry with a regulatory framework, European standards, and a market of new players encouraging development; two operators dominate the sector; under-developed telecom infrastructure leads to low fixed-line penetration; little expansion of fiber networks for broadband; expansion of LTE services (2020)<br>

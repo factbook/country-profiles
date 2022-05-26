@@ -253,7 +253,7 @@ _judge selection and term of office_: Joint Court judges appointed by the monarc
 _subordinate courts_: Courts in First Instance<br>
 
 **Political parties and leaders**<br>
-National Alliance or NA [William MARLIN]<br>Party for Progress or PFP [Melissa GUMBS]<br>Sint Maarten Christian Party or SMCP [Wycliffe SMITH]<br>United Democrats Party or UD [Theodore HEYLIGER]<br>United Peoples Party or UP [NA]<br>United Sint Maarten Party or US Party [Frans RICHARDSON]<br>
+National Alliance or NA [<u>Silveria JACOBS</u>]<br>Party for Progress or PFP [Melissa GUMBS]<br>Sint Maarten Christian Party or SMCP [<u>Garica ARRINDELL</u>]<br>United Democrats Party or UD [<u>Sarah WESCOT-WILLIAMS</u>]<br>United Peoples Party or UP [<u>Theodore HEYLIGER</u>]<br>United Sint Maarten Party or US Party [Frans RICHARDSON]<br>
 
 **International organization participation**<br>
 <p>Caricom (observer), ILO, Interpol, UNESCO (associate), UPU, WMO</p><br>

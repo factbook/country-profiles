@@ -598,8 +598,8 @@ _total subscriptions_: 1,502,230 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,661,763 (2020)<br>
-_subscriptions per 100 inhabitants_: 58.82 (2020 est.)<br>
+_total subscriptions_: 6,661,763 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 59 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: internet availability has increased substantially over the past few years, but only about 64 percent of Cubans have Internet access, and even fewer Cubans--about 60 percent of the population--have access to cell phone service; in 2021 the Cuban Government passed a decree that strengthened its authority to censor Internet and telephonic communications; state control of the telecom sector hinders development; Cuba has the lowest mobile phone and Internet penetration rates in the region; fixed-line density is also very low; thaw of US-Cuba relations encouraged access to services, such as Wi-Fi hotspots; access to sites is controlled and censored; DSL and Internet are available in Havana, though costs are too high for most Cubans; international investment and agreement to improve Internet access through cost-free and direct connection between networks (2021)<br>
@@ -676,7 +676,7 @@ _major seaport(s)_: Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, N
 ## Military and Security
 
 **Military and security forces**<br>
-Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary Army (Ejercito Revolucionario, ER), Revolutionary Navy (Marina de Guerra Revolucionaria, MGR, includes Marine Corps), Revolutionary Air and Air Defense Forces (Defensas Anti-Aereas y Fuerza Aerea Revolucionaria, DAAFAR); Paramilitary forces: Youth Labor Army (Ejercito Juvenil del Trabajo, EJT), Territorial Militia Troops (Milicia de Tropas de Territoriales, MTT), Civil Defense Force; Ministry of Interior: Border Guards, State Security (2021)<br>
+Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary Army (Ejercito Revolucionario, ER), Revolutionary Navy (Marina de Guerra Revolucionaria, MGR, includes Marine Corps), Revolutionary Air and Air Defense Forces (Defensas Anti-Aereas y Fuerza Aerea Revolucionaria, DAAFAR); Paramilitary forces: Youth Labor Army (Ejercito Juvenil del Trabajo, EJT), Territorial Militia Troops (Milicia de Tropas de Territoriales, MTT), Civil Defense Force; Ministry of Interior: Border Guards, State Security, National Revolutionary Police (2022)<br>
 
 **Military expenditures**<br>
 4.2% of GDP (2020 est.)<br>
@@ -689,13 +689,13 @@ Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary
 limited available information; estimated 50,000 active personnel (approximately 40,000 Army; 3,000 Navy; 8,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Cuban military inventory is comprised of ageing Russian and Soviet-era equipment; the last recorded arms delivery to Cuba was by Russia in 2004; in 2019, Russia approved a loan for approximately $43-50 million for Cuba's purchase of spare parts and armored vehicles (2021)<br>
+the Cuban military inventory is comprised of ageing Russian and Soviet-era equipment; the last recorded arms delivery to Cuba was by Russia in 2004; in 2019, Russia approved a loan for approximately $43-50 million for Cuba's purchase of spare parts and armored vehicles (2022)<br>
 
 **Military service age and obligation**<br>
 17-28 years of age for compulsory (men) and volunteer (men and women) military service; 2-year service obligation for men (2021)<br>
 
 **Military - note**<br>
-the FAR has a large role in the Cuban economy through several military owned and operated conglomerates, including such sectors as banking, hotels, industry, retail, transportation, and tourism (2021)<br>
+the FAR has a large role in the Cuban economy through several military owned and operated conglomerates, including such sectors as banking, hotels, industry, retail, transportation, and tourism (2022)<br>
 
 ## Transnational Issues
 

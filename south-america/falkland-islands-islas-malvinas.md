@@ -465,7 +465,7 @@ _subscriptions per 100 inhabitants_: 65 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 5,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 163 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 163 (2018 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: government-operated radiotelephone and private VHF/CB radiotelephone networks provide effective service to almost all points on both islands<br>

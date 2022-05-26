@@ -529,8 +529,8 @@ _total subscriptions_: 6,352 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 61,656 (2019)<br>
-_subscriptions per 100 inhabitants_: 108.8 (2019 est.)<br>
+_total subscriptions_: 65,958 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 116 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate domestic and international service provided by satellite, cables, and microwave radio relay; the fundamental telecommunications infrastructure consists of a digital radio link from Nanortalik in south Greenland to Uummannaq in north Greenland; satellites cover north and east Greenland for domestic and foreign telecommunications; a marine cable connects south and west Greenland to the rest of the world, extending from Nuuk and Qaqortoq to Canada and Iceland (2018)<br>

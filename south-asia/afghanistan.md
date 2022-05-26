@@ -286,7 +286,7 @@ _vectorborne diseases_: Crimea-Congo hemorrhagic fever, malaria<br>
 <strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to civil conflict, population displacement, and economic slowdown - the food security situation worsened in recent months due to the impact of COVID‑19 as informal labor opportunities and remittances declined; between November 2020 and March 2021, about 13.15 million people were estimated to be in severe acute food insecurity and to require urgent humanitarian assistance, including 8.52 million people in "Crisis" and 4.3 million people in "Emergency"; the food security of the vulnerable populations, including IDPs and the urban poor, is likely to deteriorate as curfews and restrictions on movements to contain the COVID‑19 outbreak limit the employment opportunities for casual laborers (2021)<br>
+_severe localized food insecurity_: due to civil conflict, population displacement, and economic slowdown - a record of 19 million people were estimated to face acute food insecurity between September and October 2021, due to the devastating combined effects of drought, conflict, and collapse of the local economy; following the developments of August 2021 in the country, the international aid flows, an important element of public spending, were halted; the food security situation and agricultural livelihoods in the country is likely to significantly deteriorate in the coming months due to cumulative and cascading impact of multiple shocks, including weather, conflict, economic crisis and the lingering effects of the COVID‑19 pandemic (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,628,525 tons (2016 est.)<br>
@@ -695,7 +695,7 @@ _river port(s)_: Hairatan, Qizil Qal`ah (Amu Darya)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-not available; as of late 2021, the Taliban had established a Ministry of Defense and named commanders and deputy commanders for 8 regional corps (2021)<br>
+as of 2022, the Taliban had established a Ministry of Defense and named commanders and deputy commanders for 8 regional corps; in December 2021, it announced the formation of a police force (2022)<br>
 
 **Military expenditures**<br>
 3.3% of GDP (2019) (approximately $2.35 billion)<br>
@@ -714,7 +714,7 @@ the former Afghan military's inventory was mostly a mix of Soviet-era and more m
 not available<br>
 
 **Military - note**<br>
-<p>as of early 2022, the Taliban was still forming a military, although it reportedly had named commanders for 8 regional corps and established a special forces unit; during the fighting with the Afghan Government, the Taliban forces were a decentralized guerrilla and militia force of approximately 60-80,000 full-time fighters loosely organized as battalions and brigades with at least one corps headquarters</p><br>
+<p>as of early 2022, the Taliban’s primary security objective was maintaining public order in urban areas, especially Kabul, fighting ISIS-K, and maintaining border security</p><br>
 
 ## Terrorism
 

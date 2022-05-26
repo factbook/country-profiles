@@ -284,7 +284,7 @@ _judge selection and term of office_: Joint Court judges appointed by the monarc
 _subordinate courts_: first instance courts, appeals court; specialized courts<br>
 
 **Political parties and leaders**<br>
-Korsou di Nos Tur or KdnT [Amparo dos SANTOS]<br>Korsou Esun Miho or KEM [Michelangelo MARTINES]<br>Mayors for Liberec Region (Starostove pro Liberecky Kraj) or SLK [Martin PUTA]<br>Movementu Futuro Korsou or MFK [Gerrit SCHOTTE]<br>Movementu Progresivo or MP [Marylin MOSES]<br>Movishon Antia Nobo or MAN [Hensley KOEIMAN]<br>Partido Antia Restruktura or PAR [Eugene RHUGGENAATH]<br>Partido Inovashon Nashonal or PIN [Suzanne CAMELIA-ROMER]<br>Partido pa Adelanto I Inovashon Soshal or PAIS [Alex ROSARIA]<br>Partido Nashonal di Pueblo or PNP [Humphrey DAVELAAR]<br>Pueblo Soberano or PS<br>Trabou pa Kòrsou or TPK [Rennox CALMES] <br>Un Korsou Hustu [Omayra LEEFLANG]<br>
+Korsou di Nos Tur or KdnT [Amparo dos SANTOS]<br>Korsou Esun Miho or KEM [Michelangelo MARTINES]<br>Movementu Futuro Korsou or MFK [<u>Gilmar PISAS</u>]<br>Movementu Progresivo or MP [Marylin MOSES]<br>Movishon Antia Nobo or MAN [Hensley KOEIMAN]<br>Partido Antia Restruktura or PAR [Eugene RHUGGENAATH]<br>Partido Inovashon Nashonal or PIN [Suzanne CAMELIA-ROMER]<br>Partido Nashonal di Pueblo or PNP [<u>Ruthmilda LARMONIE-CECILIA</u>]<br>Pueblo Soberano or PS <u>[Ben WHITEMAN]</u> <br>Trabou pa Kòrsou or TPK [Rennox CALMES] <br>Un Korsou Hustu [Omayra LEEFLANG]<br>
 
 **International organization participation**<br>
 <p>Caricom (observer), FATF, ILO, ITU, UNESCO (associate), UPU</p><br>
@@ -489,8 +489,8 @@ _total subscriptions_: 54,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 184,236 (2019)<br>
-_subscriptions per 100 inhabitants_: 112.7 (2019 est.)<br>
+_total subscriptions_: 182,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fully automatic modern telecommunications system; telecom sector across the Caribbean region continues to be one of&nbsp;the growth areas; given the lack of economic diversity in the region, with a high dependence on tourism and activities such as fisheries and offshore financial services the telecom sector contributes greatly to the GDP (2020)<br>

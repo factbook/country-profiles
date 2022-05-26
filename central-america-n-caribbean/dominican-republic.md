@@ -615,8 +615,8 @@ _total subscriptions_: 1,155,493 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,989,587 (2020)<br>
-_subscriptions per 100 inhabitants_: 82.87 (2020 est.)<br>
+_total subscriptions_: 8,989,587 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 83 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the Dominican Republic&rsquo;s fixed-line tele-density is well below the Latin American average due to lack of infrastructure; distribution of telephony services is proportionate to income inequalities; small, localized operators provide services; telecom and mobile broadband growing with LTE available to most of the population; government program aims for universal access to broadband services, and development of a national backbone; 5G launch anticipated in 2021 (2020)<br>
@@ -692,7 +692,7 @@ _LNG terminal(s) (import)_: Andres LNG terminal (Boca Chica)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Marina de Guerra, MdG, includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2021)<br>
+Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Marina de Guerra, MdG, includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2022)<br>
 note(s) - in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation, Port Security Authority, the Tourist Security Corps, and Border Security Corps; the National Police (Policia Nacional) are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
@@ -703,17 +703,17 @@ note(s) - in addition to the military, the Ministry of Armed Forces directs the 
 0.6% of GDP (2017 est.) (approximately $1.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 30,000 National Police (2021)<br>
+information varies; approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 30,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military is lightly armed with an inventory consisting mostly of older US equipment with limited quantities of material from other countries; since 2010, Brazil and Israel are the leading suppliers of armaments to the Dominican Republic (2021)<br>
+the military is lightly armed with an inventory consisting mostly of older US equipment with limited quantities of material from other countries (2022)<br>
 
 **Military service age and obligation**<br>
-17-21 years of age for voluntary military service (men and women); recruits must have completed primary school and be Dominican Republic citizens; women may volunteer (2021)<br>
+17-21 years of age for voluntary military service (men and women); recruits must have completed primary school and be Dominican Republic citizens; women may volunteer (2022)<br>
 note - as of 2021, women made up approximately 20% of the active duty military<br>
 
 **Military - note**<br>
-the military's primary focuses are countering illegal immigration and refugees along its 350-kilometer-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief (2021)<br>
+the military's primary focuses are countering illegal immigration and refugees along its 350-kilometer-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief (2022)<br>
 
 ## Transnational Issues
 

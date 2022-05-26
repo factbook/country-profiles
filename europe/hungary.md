@@ -620,8 +620,8 @@ _total subscriptions_: 2,970,347 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,332,660 (2020)<br>
-_subscriptions per 100 inhabitants_: 107 (2020)<br>
+_total subscriptions_: 10,332,660 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Hungary benefits from a well-developed telecom infrastructure, with adoption of 5G and upgrade of fixed networks to 1Gb/s service; fixed-line subscribership fell as subscribers migrated to mobile for voice and data; effective infrastructure-based competition, with an extensive cable network competing against DSL and expanding fiber sector; high mobile penetration and highest fixed broadband penetration rate in Eastern Europe; government supports private partnership in smart agriculture applications; as part of EU, fully liberalized and open to investment; broadcasting equipment is one of the country&rsquo;s top five imports, plus mobile phones, from China (2020)<br>
@@ -700,7 +700,7 @@ _river port(s)_: Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danub
 ## Military and Security
 
 **Military and security forces**<br>
-the Hungarian Defense Forces are a unified force (Joint Force Command) with Land Forces, Air Forces, and Logistics components (2021)<br>
+the Hungarian Defense Forces are a unified force (Joint Force Command) with Land Forces, Air Forces, and Logistics components (2022)<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
@@ -724,7 +724,7 @@ note - as of 2019, women comprised approximately 20% of Hungary's full-time mili
 160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (counter-ISIS coalition); 470 Kosovo (NATO/KFOR) (2021-2022)<br>
 
 **Military - note**<br>
-Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>
+Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance (2022)<br>
 
 ## Transnational Issues
 
@@ -732,7 +732,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 605,628 (Ukraine) (as of 15 May 2022)<br>
+_refugees (country of origin)_: 654,664 (Ukraine) (as of 24 May 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

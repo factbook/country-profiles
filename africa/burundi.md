@@ -289,7 +289,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: about 1 million people are estimated to be severely food insecure between January and March 2022, due to livelihood losses and displacements caused by the rising water level of Lake Tanganyika and the overflow of rivers, sustained repatriation flows and the socio-economic impact of the COVID‑19 pandemic (2022)<br>
+_widespread lack of access_: due to the effects of weather - about 1 million people are estimated to be severely food insecure between January and March 2022, due to livelihood losses and displacements caused by the rising water level of Lake Tanganyika and the overflow of rivers, sustained repatriation flows and the socio-economic impact of the COVID‑19 pandemic (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,872,016 tons (2002 est.)<br>
@@ -619,8 +619,8 @@ _total subscriptions_: 18,300 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,631,154 (2020)<br>
-_subscriptions per 100 inhabitants_: 55.77 (2020 est.)<br>
+_total subscriptions_: 6,631,151 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Burundi&rsquo;s high population density and low telecom penetration rates make it an attractive market for investors; mobile operators have launched 3G and LTE to meet the demand for Internet; mobile subscription remains low; government/World Bank joint project to build a national broadband backbone connecting to submarine cable landings in Kenya and Tanzania; government launched e-health project (2020)<br>
@@ -676,7 +676,7 @@ _lake port(s)_: Bujumbura (Lake Tanganyika)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, air wing); Ministry of Public Security: National Police (Police Nationale du Burundi) (2021)<br>
+National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, air wing); Ministry of Public Security: National Police (Police Nationale du Burundi) (2022)<br>
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>

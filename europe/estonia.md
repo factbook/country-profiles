@@ -606,8 +606,8 @@ _total subscriptions_: 304,728 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,925,789 (2020)<br>
-_subscriptions per 100 inhabitants_: 145.2 (2020 est.)<br>
+_total subscriptions_: 1,925,789 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 145 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: greatly improved telecom service through a range of regulatory measures, competition, and foreign investment, leading to high-quality voice, data, and Internet services; one of the most advanced mobile markets and highest broadband penetration rates in Europe; government commits 20 million euro to rural broadband program; operators supporting LTE infrastructure and launch of smart services; 5G services in major cities; government provides Internet to schools and libraries (2020)<br>
@@ -684,7 +684,7 @@ _major seaport(s)_: Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves); Ministry of Interior: Border Guards (2021)<br>
+Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves) (2022)<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
@@ -704,7 +704,7 @@ men 18-27 for compulsory military or governmental service, conscript service req
 note(s) - conscripts comprise about half (approximately 3,000-3,300) of the Estonian military's 6,500 active personnel and serve in all branches, except for the Air Force, which does not have conscripts; in 2020, women comprised about 10% of the full-time professional military force<br>
 
 **Military - note**<br>
-Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia has hosted a UK-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative</p> <p>NATO also has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014</p><br>
+Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia has hosted a UK-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative</p> <p>NATO also has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014</p> (2022)<br>
 
 ## Transnational Issues
 

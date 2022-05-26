@@ -606,8 +606,8 @@ _total subscriptions_: 2,567,938 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 25,068,249 (2020)<br>
-_subscriptions per 100 inhabitants_: 131.1 (2020 est.)<br>
+_total subscriptions_: 25,068,249 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 131 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Chile&rsquo;s telecom systems are highly competitive and rapidly evolving; mobile penetration rate is among the highest in South America; deployment of 5G networks expected; fixed broadband penetration is high for region, with fast and inexpensive services; government initiatives provide high-capacity connectivity across the country and increase fixed-line broadband penetration; progress with national satellite system; schools received free broadband as part of the &lsquo;Connectivity for Education 2030&rsquo; program; submarine cable project to link Chile with New Zealand and Australia; importer of broadcasting equipment from USA (2020)<br>
@@ -684,7 +684,7 @@ _LNG terminal(s) (import)_: Mejillones, Quintero<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chile), Chilean Navy (Armada de Chile, includes marine units and coast guard or Maritime Territory and Merchant Marine Directorate (Directemar)), Chilean Air Force (Fuerza Aerea de Chile, FACh); Ministry of the Interior and Public Security: Carabineros de Chile (National Police Force) (2021)<br>
+Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chile), Chilean Navy (Armada de Chile, includes marine units and coast guard or Maritime Territory and Merchant Marine Directorate (Directemar)), Chilean Air Force (Fuerza Aerea de Chile, FACh); Ministry of the Interior and Public Security: Carabineros de Chile (National Police Force) (2022)<br>
 note - Carabineros de Chile are responsible to both the Ministry of Defense and the Ministry of the Interior<br>
 
 **Military expenditures**<br>
@@ -695,7 +695,7 @@ note - Carabineros de Chile are responsible to both the Ministry of Defense and 
 2% of GDP (2017) (approximately $7.1 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 75,000 active armed forces personnel (45,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2021)<br>
+approximately 75,000 active armed forces personnel (45,000 Army; 20,000 Navy; 10,000 Air Force); approximately 50,000 Carabineros (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Chilean military inventory is comprised of a wide mix of mostly Western equipment and some domestically-produced systems; since 2010, it has received military hardware from nearly 15 countries with Germany and the US as the leading suppliers; Chile's defense industry has capabilities in military aircraft, ships, and vehicles (2021)<br>

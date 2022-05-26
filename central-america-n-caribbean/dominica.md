@@ -308,7 +308,7 @@ _chief of mission_: Ambassador (vacant); Charge d'Affaires Judith-Anne ROLLE&nbs
 _chancery_: 3216 New Mexico Avenue NW, Washington, DC 20016<br>
 _telephone_: [1] (202) 364-6781<br>
 _FAX_: [1] (202) 364-6791<br>
-_email address and website_: <br>embdomdc@aol.com<br>
+_email address and website_: mail.embdomdc@gmail.com<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -534,8 +534,8 @@ _total subscriptions_: 1,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 75,771 (2018)<br>
-_subscriptions per 100 inhabitants_: 105.3 (2019 est.)<br>
+_total subscriptions_: 76,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fully automatic network; there are multiple competing operators licensed to provide services, most of them are small and localized; the telecom sector across the Caribbean region remains one of the key growth areas (2020)<br>
@@ -585,10 +585,10 @@ _major seaport(s)_: Portsmouth, Roseau<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Commonwealth of Dominica Police Force (includes Coast Guard) under the Ministry of Justice, Immigration, and National Security<br>
+no regular military forces; Commonwealth of Dominica Police Force (includes Coast Guard) under the Ministry of Justice, Immigration, and National Security (2022)<br>
 
 **Military - note**<br>
-Dominica has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Grenada, St. Kitts, St. Lucia, and St. Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2021)<br>
+Dominica has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Grenada, St. Kitts, St. Lucia, and St. Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2022)<br>
 
 ## Transnational Issues
 

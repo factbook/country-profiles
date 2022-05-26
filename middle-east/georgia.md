@@ -602,8 +602,8 @@ _total subscriptions_: 387,698 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 10 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,100,101 (2020)<br>
-_subscriptions per 100 inhabitants_: 127.9 (2020 est.)<br>
+_total subscriptions_: 5,100,101 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: despite economic challenges, the telecom market is one of Georgia's fastest growth sectors; LTE services cover the majority of citizens; regulators have strategy to introduce 5G; fixed-line telecommunications network has limited coverage outside Tbilisi; multiple mobile-cellular providers provide services to an increasing subscribership throughout the country; broadband subscribers steadily increasing; with investment in infrastructure, customers are moving from copper to fiber networks (2020)<br>
@@ -677,7 +677,7 @@ _major seaport(s)_: Black Sea - Batumi, Poti<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Georgian Defense Forces: Land Forces (includes Aviation and Air Defense Forces), Special Operations Forces, National Guard; Ministry of Internal Affairs: Border Police, Coast Guard (includes Georgian naval forces, which were merged with the Coast Guard in 2009) (2021)<br>
+Georgian Defense Forces: Land Forces (includes Aviation and Air Defense Forces), Special Operations Forces, National Guard; Ministry of Internal Affairs: Border Police, Coast Guard (includes Georgian naval forces, which were merged with the Coast Guard in 2009) (2022)<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
@@ -697,7 +697,7 @@ the Georgian Defense Forces are equipped mostly with older Russian and Soviet-er
 note(s) - approximately 6-7,000 individuals are called up annually for conscription for service; approximately 25% enter the Defense Forces, while the remainder serve in the Ministry of Internal Affairs or as prison guards in the Ministry of Corrections; as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military - note**<br>
-as of 2021, Georgia did not have any military stationed in the separatist territories of Abkhazia and South Ossetia, but approximately 7-10,000 Russian troops have been stationed in these regions since the 2008 Russia-Georgia War<br>
+as of 2022, approximately 7-10,000 Russian troops continued to occupy the breakaway regions of Abkhazia and South Ossetia<br>
 
 ## Transnational Issues
 

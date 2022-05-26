@@ -616,8 +616,8 @@ _total subscriptions_: 2,272,467 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 20,390,671 (2020)<br>
-_subscriptions per 100 inhabitants_: 113.8 (2020 est.)<br>
+_total subscriptions_: 20,390,671 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: due to years of underinvestment in infrastructure, has one of the lowest fixed-line tele densities in the region; rural areas rely on mobile services with little access to fixed-line access; mobile tele-density on par with region and is the most developed sector, with near universal phone connections; private investment to bring free Internet to parks; two submarine cables due for completion will support growth in fixed and mobile broadband (2020)<br>
@@ -696,7 +696,7 @@ _major seaport(s)_: Puerto Quetzal, Santo Tomas de Castilla<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Naval Forces (Fuerza de Mar), and Air Force (Fuerza de Aire); Ministry of Interior: National Civil Police (Policia Nacional Civil; includes paramilitary units) (2021)<br>
+Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Naval Forces (Fuerza de Mar), and Air Force (Fuerza de Aire); Ministry of Interior: National Civil Police (Policia Nacional Civil; includes paramilitary units) (2022)<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2021 est.)<br>
@@ -706,10 +706,10 @@ Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Nava
 0.4% of GDP (2017) (approximately $460 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 21,000 active personnel (19,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2021)<br>
+information varies; approximately 20,000 active personnel (18,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Guatemalan military inventory is small and mostly comprised of older US equipment; since 2010, Guatemala has received small amounts of equipment from Canada, Colombia, Spain, Taiwan, and the US (2021)<br>
+the Guatemalan military inventory is small and mostly comprised of older US equipment; since 2010, Guatemala has received small amounts of equipment from several countries, including the US (2022)<br>
 
 **Military service age and obligation**<br>
 all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds conscripted; conscript service obligation varies from 1 to 2 years; women may volunteer (2021)<br>
@@ -719,7 +719,7 @@ note - as of 2017, women made up an estimated 5-10% of the active military<br>
 155 Democratic Republic of the Congo (MONUSCO) (Jan 2022)<br>
 
 **Military - note**<br>
-<p>since the 2000s, the Guatemalan Government has frequently used the Army to support the National Civil Police (PNC; under the Ministry of Government) in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking</p> <p>the military held power during most of the country’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict</p><br>
+<p>since the 2000s, the Guatemalan Government has used the Army to support the National Civil Police (PNC; under the Ministry of Government) in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking</p> <p>the military held power during most of the country’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict</p> (2022)<br>
 
 ## Transnational Issues
 

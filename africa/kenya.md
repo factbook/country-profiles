@@ -281,7 +281,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: about 3.1 million people were estimated to be severely food insecure in February 2022 reflecting consecutive poor rainy seasons since late 2020 that affected crop and livestock production, mainly in northern and eastern pastoral, agro-pastoral and marginal agricultural areas; the deterioration of the food security situation is mainly due to the negative impact of two consecutive poor rainy seasons since October 2020 on crop and livestock production and on on‑farm income‑earning opportunities; the impact of the measures implemented to curb the spread of the COVID‑19 pandemic on economic activities exacerbated food insecurity (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: due to drought conditions - about 3.1 million people were estimated to be severely food insecure in February 2022 reflecting consecutive poor rainy seasons since late 2020 that affected crop and livestock production, mainly in northern and eastern pastoral, agro-pastoral and marginal agricultural areas; the deterioration of the food security situation is mainly due to the negative impact of two consecutive poor rainy seasons since October 2020 on crop and livestock production and on on‑farm income‑earning opportunities; the impact of the measures implemented to curb the spread of the COVID‑19 pandemic on economic activities exacerbated food insecurity (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,595,099 tons (2010 est.)<br>
@@ -363,7 +363,7 @@ _election results_: Uhuru KENYATTA reelected president; percent of vote - Uhuru 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (68 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, 2 representing the disabled, and the Senate speaker; members serve 5-year terms)<br>National Assembly (350 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled, and the Assembly speaker; members serve 5-year terms)<br>
 _elections_: Senate - last held on 8 August 2017 (next to be held in August 2022)<br>National Assembly - last held on 8 August 2017 (next to be held on 9 August 2022)<br>
-_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 24; National Super Alliance 28, other 14, independent 1; composition - men 47, women 21, percent of women is 30.9%<br><br>National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 165, National Super Alliance 119, other 51, independent 13; composition - men 275, women 75, percent of women 21.4%; note - total Parliament percent of women 23%<br>
+_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 24; National Super Alliance 28, other 14, independent 1; composition - men 46, women 22, percent of women is 32.4%<br><br>National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 165, National Super Alliance 119, other 51, independent 13; composition - men 275, women 75, percent of women 21.4%; note - total Parliament percent of women 23%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of chief and deputy chief justices and 5 judges)<br>
@@ -632,8 +632,8 @@ _total subscriptions_: 66,646 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 61,408,904 (2020)<br>
-_subscriptions per 100 inhabitants_: 114.2 (2020)<br>
+_total subscriptions_: 61,408,904 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: through increased competition, Kenya&rsquo;s telecom market has improved international bandwidth and experienced rapid development in mobile sector, including remote regions; four fiber-optic submarine cables reduced costs and increased service to population; government supported LTE and broadband, promising economic support of free WiFi; mobile operators progress with 5G tests; e-commerce interoperability; importer of broadcasting equipment, video displays, and computers from China (2020)<br>
@@ -749,7 +749,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 <p>Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; as of March 2019, Kenya provides shelter to nearly 475,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times<br><br><em>Uganda-Kenya:</em> Kenya and Uganda have begun a joint demarcation of the boundary in 2021 </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 279,145 (Somalia), 141,414 (South Sudan), 20,924 (Ethiopia), 19,036 (Democratic Republic of the Congo), 7,521 (Burundi) (2022)<br>
+_refugees (country of origin)_: 279,145 (Somalia), 141,414 (South Sudan), 21,001 (Ethiopia), 19,036 (Democratic Republic of the Congo), 7,521 (Burundi) (2022)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2020)<br>
 _stateless persons_: 16,820 (mid-year 2021); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

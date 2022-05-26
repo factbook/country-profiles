@@ -623,8 +623,8 @@ _total subscriptions_: 2,063,044 (2020)<br>
 _subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 15,485,366<br>
-_subscriptions per 100 inhabitants_: 87.77 (2019 est.)<br>
+_total subscriptions_: 15,485,366 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 88 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Ecuador&rsquo;s remote and mountainous geography lends challenges to tele-density; government-owned provider to improve fixed-line and LTE infrastructure, with emphasis on fiber expansion from urban to rural areas and installation of a 5G network; small telecom market dominated by the non-competitive mobile sector; inadequate fixed-line infrastructure and slowed fixed-line broadband services (2020). (2020)<br>

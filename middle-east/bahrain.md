@@ -657,7 +657,7 @@ _major seaport(s)_: Mina' Salman, Sitrah<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force; Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2021)<br>
+Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force; Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2022)<br>
 note(s) - the Royal Guard is officially under the command of the Army, but exercises considerable autonomy; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields; while the Guard is under the Ministry of Interior, it reports directly to the king<br>
 
 **Military expenditures**<br>

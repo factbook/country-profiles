@@ -526,8 +526,8 @@ _total subscriptions_: 94,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 302,673 (2018)<br>
-_subscriptions per 100 inhabitants_: 104.3 (2019 est.)<br>
+_total subscriptions_: 335,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: French Polynesia has one of the most advanced telecom infrastructures in the Pacific islands; high penetration of mobile broadband coverage; almost half of mobile connections on 3G, growing subscribership to 4G LTE; universal mobile penetration; host of uplink systems for the Galileo satellite network, creating hub for communications in the region and vastly improving international connectivity; submarine cable connections increase international bandwidth; additional domestic submarine cable will connect remote islands (2020)<br>

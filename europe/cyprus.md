@@ -612,8 +612,8 @@ _total subscriptions_: 311,439 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,230,706 (2020)<br>
-_subscriptions per 100 inhabitants_: 138.6 (2020 est.)<br>
+_total subscriptions_: 1,239,960 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 140 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: despite the growth of Cyprus's telecom sector, the market is dominated by its state-owned operator; one of the highest broadband penetration rates in the region; DSL remains the dominant access platform as broadband is restricted to a few towns; fixed-line and mobile cable infrastructure available for more than half of premises; fiber infrastructure in development; improved regulations provide confidence for investment in network infrastructure and competing services; operator expanded FttP services and initiated cable connection to France and Egypt; operator signed vendor agreement with international investor, Huawei, to develop 5G; operators extended LTE services and upgraded transmission capacity on TE-North Cable System (2020)<br>
@@ -684,7 +684,7 @@ area administered by Turkish Cypriots: Famagusta, Kyrenia<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF, includes Army Land Forces, Naval Command, Air Command) (2021)<br>
+Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF, includes Army Land Forces, Naval Command, Air Command) (2022)<br>
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>

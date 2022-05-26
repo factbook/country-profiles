@@ -337,7 +337,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER (since 30 April 2013); Heir Apparent Princess Catharina-Amalia (daughter of King WILLEM-ALEXANDER, born 7 December 2003)<br>
-_head of government_: Prime Minister (vacant); note - Prime Minister Mark RUTTE resigned on 15 January 2021 and is acting Prime Minister; Deputy Prime Ministers (since 26 October 2017) Hugo DE JONGE, Karin Kajsa OLLONGREN, and Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE heads his third cabinet put in place since 26 October 2017<br>
+_head of government_: Prime Minister Mark RUTTE (since 14 October 2010); Deputy Prime Ministers Sigrid KAAG and Wopke HOEKSTRA (since 10 January 2022) and Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE heads his fourth cabinet<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
 

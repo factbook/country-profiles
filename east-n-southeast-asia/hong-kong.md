@@ -554,8 +554,8 @@ _total subscriptions_: 3,900,599 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 52 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21,865,215 (2020)<br>
-_subscriptions per 100 inhabitants_: 291.7 (2020)<br>
+_total subscriptions_: 21,865,215 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 292 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent domestic and international services; some of the highest peak average broadband speeds and penetration rates in the world; HK government helps subsidize 5G projects and aims to be among earliest adopters of 5G mobile technology; almost all households have access to high-speed broadband connectivity through fiber; high mobile subscribership reflects tourism and multiple-device culture; government has organized the development of smart city and digital economy to encourage social inclusion and economic development, including health care, education, and utilities; US prevented use of Pacific Light submarine cable network due to security issues (2020)<br>

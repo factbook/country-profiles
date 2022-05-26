@@ -578,8 +578,8 @@ _total subscriptions_: 66,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 695,000 (2017)<br>
-_subscriptions per 100 inhabitants_: 20.36 (2019 est.)<br>
+_total subscriptions_: 1.801 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 51 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: least developed telecommunications market in Africa, largely due to restrictions of state-owned telecom monopoly; most fixed-line telephones are in Asmara; cell phone use is limited by government control of SIM card issuance; low penetration of computer use and Internet; market ripe for competition and investment; direct phone service between Eritrea and Ethiopia restored in September 2018; government operator working on roll-out of 3G network (2020)<br>
@@ -648,7 +648,7 @@ _major seaport(s)_: Assab, Massawa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Eritrean Defense Forces: Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force) (2021)<br>
+Eritrean Defense Forces: Eritrean Ground Forces, Eritrean Navy, Eritrean Air Force (includes Air Defense Force) (2022)<br>
 
 **Military expenditures**<br>
 10% of GDP (2019 est.) (approximately $640 million)<br>
@@ -668,7 +668,7 @@ the Eritrean Defense Forces inventory is comprised primarily of older Russian an
 note - as of 2020, women reportedly made up as much as 30% of the Eritrean military<br>
 
 **Military - note**<br>
-<p>in 2020-2021, the Eritrean military assisted the Ethiopian Government in its war with the Tigray regional government, providing ground forces and combat aircraft; information is limited and varied, but the Eritrean military in 2021 reportedly consisted of about 20 Army divisions (approximately 15 light infantry, 4 mechanized, and 1 commando/special operations) while the Air Force had 2 fighter/ground attack squadrons</p><br>
+<p>in 2020-2021, the EDF assisted the Ethiopian Government in its war with the Tigray regional government, providing ground forces and combat aircraft; during the fighting, the EDF was accused of committing human rights abuses against civilians</p><br>
 
 ## Transnational Issues
 

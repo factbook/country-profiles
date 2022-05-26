@@ -492,8 +492,8 @@ _total subscriptions_: 160,149,025 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 36 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 529,497,242<br>
-_subscriptions per 100 inhabitants_: (2019 est.) 117.70<br>
+_total subscriptions_: 540,557,924 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 121 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 note - see individual country entries of member states<br>

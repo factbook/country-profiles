@@ -269,7 +269,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever and malaria<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to reduced agricultural production and socio political turmoil - about 4.4 million people are forecast to be facing severe acute food insecurity or to be in need of urgent food assistance in the March-June 2021 time period; the high levels of food insecurity reflect the worsening household access to food, which was constrained by the negative effects of the COVID‑19 pandemic, primarily through income and job losses; the low availability of locally produced staple crops and high prices of food items exacerbated the situation; the ongoing socio‑political unrest has disrupted market activities, especially in urban areas, and reduced mobility due to road blockage has further affected the access to food (2021)<br>
+_severe localized food insecurity_: due to reduced agricultural production and socio-political turmoil - about 4.56 million people are estimated to be facing severe acute food insecurity and in need of urgent food assistance between March and June 2022; the high levels of food insecurity are the result of consecutive reduced cereal harvests between 2018 and 2021, and elevated food prices, exacerbated by sociopolitical turmoil; two natural disasters (a 7.2 magnitude earthquake and a tropical storm) that struck in August 2021, destroyed productive assets and infrastructures, and caused losses of stored food, further aggravating conditions; the lack of income-earning opportunities amid worsening insecurity and difficult macroeconomic conditions is likely to heighten food insecurity (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,309,852 tons (2015 est.)<br>
@@ -362,7 +362,7 @@ _email address and website_: <br>amb.washington@diplomatie.ht<br><br>https://www
 _consulate(s) general_: Atlanta, Boston, Chicago, Miami, Orlando (FL), New York, San Juan (Puerto Rico)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Kenneth H. MERTEN (since 28 October 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Nicole D. THERIOT<br>
 _embassy_: Tabarre 41, Route de Tabarre, Port-au-Prince<br>
 _mailing address_: 3400 Port-au-Prince Place, Washington, DC 20521-3400<br>
 _telephone_: [011] (509) 2229-8000<br>
@@ -597,8 +597,8 @@ _total subscriptions_: 6,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,843,380 (2020)<br>
-_subscriptions per 100 inhabitants_: 60.76 (2020)<br>
+_total subscriptions_: 7.319 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 64 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: plagued by political and economic turmoil complicated by natural disasters, Haiti&rsquo;s telecommunications infrastructure is among the least-developed in the world; it relies on satellite and wireless mobile technology due to poor fixed-line infrastructure; investment boosted broadband availability though customer base is poor and theft of equipment remains problematic; promotion of LTE will enable access to remote areas and e-money services; World Bank grant to provide digital preparation and response for any future crises (2020)<br>
@@ -657,8 +657,8 @@ _major seaport(s)_: Cap-Haitien, Gonaives, Jacmel, Port-au-Prince<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018 (2021)<br>
-note - the National Police has a number of specialized units, including a coast guard, a presidential guard, and a paramilitary rapid-response Motorized Intervention Unit or BIM <p class="gmail-css-axufdj"> </p><br>
+the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018 (2022)<br>
+note - the Haitian National Police (under the Ministry of Justice and Public Security) has a number of specialized units, including a coast guard, a presidential guard, and a paramilitary rapid-response Motorized Intervention Unit or BIM <p class="gmail-css-axufdj"> </p><br>
 
 **Military expenditures**<br>
 not available<br>

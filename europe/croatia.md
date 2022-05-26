@@ -621,8 +621,8 @@ _total subscriptions_: 1,299,329 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 32 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,375,699 (2020)<br>
-_subscriptions per 100 inhabitants_: 106.6 (2020 est.)<br>
+_total subscriptions_: 4,375,699 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Croatia&rsquo;s telecom market improved through partnership with the EU in 2013, opening a competitive market in mobile and broadband and conducive regulatory environment; one of the highest mobile penetration rates in the Balkans, covering most remote areas; local lines are digital; international operator investment provides relatively high broadband penetration; tests for 5G technologies in 2020 (2020)<br>
@@ -700,7 +700,7 @@ _river port(s)_: Vukovar (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM, includes Coast Guard), Air Force and Air Defense Forces; Military Police Force supports each of the three Croatian military forces (2021)<br>
+Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM, includes Coast Guard), Air Force and Air Defense Forces; Military Police Force supports each of the three Croatian military forces (2022)<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
@@ -723,7 +723,7 @@ note - as of 2019, women comprised about 13% of the military's full-time personn
 130 Kosovo (KFOR/NATO) (2022)<br>
 
 **Military - note**<br>
-Croatia officially became a member of NATO in 2009<br>
+Croatia joined NATO in 2009<br>
 
 ## Transnational Issues
 

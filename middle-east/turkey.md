@@ -95,7 +95,7 @@ _noun_: Turk(s)<br>
 _adjective_: Turkish<br>
 
 **Ethnic groups**<br>
-Turkish 70-75%, Kurdish 19%, other minorities 7-12% (2016 est.)<br>
+Turkish 70-75%, Kurdish 19%, other minorities 6-11% (2016 est.)<br>
 
 **Languages**<br>
 Turkish (official), Kurdish, other minority languages<br>
@@ -381,7 +381,7 @@ _email address and website_: <br>embassy.washingtondc@mfa.gov.tr<br><br>http://w
 _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;David M. SATTERFIELD (since 28 August 2019)<br>
+_chief of mission_: Ambassador Jeffrey Lane FLAKE (since 26 January 2022)<br>
 _embassy_: 110 Ataturk Boulevard, Kavaklidere, 06100 Ankara<br>
 _mailing address_: 7000 Ankara Place, Washington&nbsp; DC 20512-7000<br>
 _telephone_: [90] (312) 455-5555<br>

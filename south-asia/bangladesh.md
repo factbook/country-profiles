@@ -286,7 +286,7 @@ _animal contact diseases_: rabies<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 30 March 2022, Bangladesh has reported a total of 1,951,432 cases of COVID-19 or 1,184.91 cumulative cases of COVID-19 per 100,000 population with a total of 29,120 cumulative deaths or a rate of 16.78 cumulative deaths per 100,000 population; as of 29 March 2022, 76.69% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to economic constraints - food insecurity poverty levels have increased due to income losses and a decline in remittances caused by the effects of the COVID‑19 pandemic (2021)<br>
+_severe localized food insecurity_: due to economic constraints -&nbsp; losses in income and remittances caused by the COVID‑19 pandemic and its containment measures led to an increase in poverty; the high prices of rice and other important food items, including edible oils (soybean oil and loose palm oil), have severely constrained the purchasing power for food for a large section of the vulnerable population above the poverty line (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 14,778,497 tons (2012 est.)<br>
@@ -716,7 +716,7 @@ _river port(s)_: Mongla Port (Sela River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bangladesh Defense Force: Bangladesh Army, Bangladesh Navy, Bangladesh Air Force; Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2021)<br>
+Bangladesh Defense Force: Bangladesh Army, Bangladesh Navy, Bangladesh Air Force; Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2022)<br>
 note(s) - the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force founded in 2004 and composed of members of the police, army, navy, air force, and border guards seconded to the RAB from their respective units; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
 
 **Military expenditures**<br>
@@ -736,10 +736,10 @@ much of the military's inventory is comprised of Chinese- and Russian-origin equ
 16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2021)<br>
 
 **Military deployments**<br>
-Bangladesh is one of the leading contributors to UN peacekeeping missions since it joined the UN in 1974; as of mid-early 2022, it had approximately 6,400 personnel deployed, including about 5,800 troops, including: 1,375 Central African Republic (MINUSCA); 1,625 Democratic Republic of the Congo (MONUSCO; plus about 175 police); 125 Lebanon (UNIFIL); 1,100 Mali (MINUSMA; plus about 280 police); 1,600 South Sudan (UNMISS) (Jan 2022)<br>
+Bangladesh has been one of the leading contributors to UN peacekeeping missions since it joined the UN in 1974; as of early 2022, it had approximately 6,400 personnel deployed, including about 5,800 troops, including: 1,375 Central African Republic (MINUSCA); 1,625 Democratic Republic of the Congo (MONUSCO; plus about 175 police); 125 Lebanon (UNIFIL); 1,100 Mali (MINUSMA; plus about 280 police); 1,600 South Sudan (UNMISS) (Jan 2022)<br>
 
 **Military - note**<br>
-<p>as of 2021, the military’s chief areas of focus were border, economic exclusion zone, and domestic security; the Army maintained a large domestic security presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; since 2009, the military has been in a force-wide expansion and modernization program known as Forces Goal 2030</p><br>
+<p>as of 2022, the military’s chief areas of focus were border, economic exclusion zone, and domestic security; the Army maintained a large domestic security presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; since 2009, the military has been in a force-wide expansion and modernization program known as Forces Goal 2030</p><br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; there were no attacks reported in 2021 as opposed to four ships that were boarded in 2020<br>

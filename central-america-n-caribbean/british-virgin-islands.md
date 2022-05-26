@@ -483,8 +483,8 @@ _total subscriptions_: 7,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 35,163 (2020)<br>
-_subscriptions per 100 inhabitants_: 116.3 (2020 est.)<br>
+_total subscriptions_: 35,163 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 116 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good overall telephone service; major&nbsp;expansion sectors include the mobile telephony and data segments, which continue to&nbsp;appeal to&nbsp;operator investment;&nbsp;several operators licensed to provide services within individual markets, most of them are small and localized; telecommunication contributes to overall GDP (2020)<br>

@@ -82,7 +82,7 @@ _noun_: Singaporean(s)<br>
 _adjective_: Singapore<br>
 
 **Ethnic groups**<br>
-Chinese 74.3%, Malay 13.5%, Indian 9%, other 3.2% (2020 est.)<br>
+Chinese 74.2%, Malay 13.7%, Indian 8.9%, other 3.2% (2021 est.)<br>
 <strong>note:</strong> data represent population by self-identification; the population is divided into four categories: Chinese, Malay (includes indigenous Malays and Indonesians), Indian (includes Indian, Pakistani, Bangladeshi, or Sri Lankan), and other ethnic groups (includes Eurasians, Caucasians, Japanese, Filipino, Vietnamese)<br>
 
 **Languages**<br>
@@ -331,7 +331,7 @@ _chief of state_: President HALIMAH Yacob (since 14 September 2017)<br>
 _head of government_: Prime Minister LEE Hsien Loong (since 12 August 2004, reelected 10 July 2020)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a fixed term of 6-years&nbsp;(there are no term limits); election last held on 13 September 2017 (next to be held in 2023); following legislative elections, leader of majority party or majority coalition appointed prime minister by president; deputy prime ministers appointed by the president<br>
-_election results_: HALIMAH Yacob was declared president on 13 September 2017, being the only eligible candidate; Tony TAN Keng Yam elected president in the previous contested election on 27 August 2011; percent of vote - Tony TAN Keng Yam (independent) 35.2% , TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
+_election results_: HALIMAH Yacob was declared president on 13 September 2017, being the only eligible candidate; Tony TAN Keng Yam elected president in the previous contested election on 27 August 2011; percent of vote - Tony TAN Keng Yam (independent) 35.2%, TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (104 seats; 93 members directly elected by popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time (2021)<br>

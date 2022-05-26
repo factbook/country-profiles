@@ -95,7 +95,7 @@ _noun_: Mauritanian(s)<br>
 _adjective_: Mauritanian<br>
 
 **Ethnic groups**<br>
-Black Moors (Haratines - Arabic-speaking descendants of African origin who are or were enslaved by white Moors) 40%, White Moors (of Arab-Berber descent, known as Beydane) 30%, Sub-Saharan Mauritanians (non-Arabic speaking, largely resident in or originating from the Senegal River Valley, including Halpulaar, Fulani, Soninke, Wolof, and Bambara ethnic groups) 30%<br>
+Black Moors (Haratines - Arabic-speaking descendants of African origin who are or were enslaved by White Moors) 40%, White Moors (of Arab-Berber descent, known as Beydane) 30%, Sub-Saharan Mauritanians (non-Arabic speaking, largely resident in or originating from the Senegal River Valley, including Halpulaar, Fulani, Soninke, Wolof, and Bambara ethnic groups) 30%<br>
 
 **Languages**<br>
 Arabic (official and national), Pular, Soninke, Wolof (all national languages), French; note - the spoken Arabic in Mauritania differs considerably from the Modern Standard Arabic used for official written purposes or in the media; the Mauritanian dialect, which incorporates many Berber words, is referred to as Hassaniya<br>
@@ -287,7 +287,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mauritania is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to poor performance of pastoral cropping season - according to the latest analysis, about 484,000 people are assessed to need humanitarian assistance in the June&minus;August 2021 period as a result of fodder production deficits in Trarza, Brakna, Gorgol, Guidimaka and Assaba districts (2021)<br>
+_severe localized food insecurity_: due to poor performance of cereal production - domestic cereal production declined in 2021 due to poor weather, which is likely to worsen conditions of the most vulnerable households; in the upcoming peak of the lean season, between June and August 2022, 660,000 people are projected to face severe food insecurity (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 454,000 tons (2009 est.)<br>
@@ -738,7 +738,7 @@ Al-Qaeda in the Islamic Maghreb (AQIM)<br>
 <p>Mauritanian claims to Western Sahara remain dormant</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 80,373 (Mali) (2022)<br>
+_refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 84,526 (Mali) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Mauritania is a source, transit, and destination country for men, women, and children subjected to conditions of forced labor and sex trafficking; adults and children from traditional slave castes are subjected to slavery-related practices rooted in ancestral master-slave relationships; Mauritanian boys&nbsp; are trafficked within the country by religious teachers for forced begging; Mauritanian girls, as well as girls from Mali, Senegal, The Gambia, and other West African countries, are forced into domestic servitude; Mauritanian women and girls are forced into prostitution in the country or transported to countries in the Middle East for the same purpose<br>

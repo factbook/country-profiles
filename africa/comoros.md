@@ -576,8 +576,8 @@ _total subscriptions_: 7,573 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 472,815 (2020)<br>
-_subscriptions per 100 inhabitants_: 54.37 (2020 est.)<br>
+_total subscriptions_: 781,579 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 90 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Qatar launched a special program for the construction of a wireless network to inter connect the 3 islands of the archipelago; telephone service limited to the islands' few towns (2020)<br>
@@ -644,7 +644,7 @@ the defense forces are lightly armed with a mix of mostly older equipment from a
 18 years of age for 2-year voluntary male and female military service; no conscription (2021)<br>
 
 **Military - note**<br>
-the AND is limited in capabilities to performing search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2021)<br>
+the AND is limited in capabilities to performing search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2022)<br>
 
 ## Transnational Issues
 

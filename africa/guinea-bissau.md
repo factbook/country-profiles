@@ -338,7 +338,7 @@ _election results_: Umaro Sissoco EMBALO elected president in second round; perc
 
 **Legislative branch**<br>
 _description_: unicameral National People's Assembly or Assembleia Nacional Popular (102 seats; 100 members directly elected in 27 multi-seat constituencies by closed party-list proportional representation vote and 2 elected in single-seat constituencies for citizens living abroad (Africa 1, Europe 1 ); all members serve 4-year terms)<br>
-_elections_: last held on 10 March 2019 (next to be held in March 2023)<br>
+_elections_: note: President dissolved parliament on 16 May 2022 and decreed new elections for 18 December 2022<br>  <br>last held on 10 March 2019 (next to be held in March 2023)<br>
 _election results_: percent of vote by party - PAIGC 35.2%, Madem G-15 21.1%, PRS 21.1%, other 22.6%; seats by party - PAIGC 47, Madem G-15 27, PRS 21, other 7; composition - men 88, women 14, percent of women 13.7%<br>
 
 **Judicial branch**<br>
@@ -581,8 +581,8 @@ _total subscriptions_: 0 (2018 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,913,858 (2020)<br>
-_subscriptions per 100 inhabitants_: 97.25 (2020 est.)<br>
+_total subscriptions_: 1,913,858 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 97 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: small system including a combination of microwave radio relay, open-wire lines, radiotelephone, and mobile cellular communications; 2 mobile network operators; one of the poorest countries in the world and this is reflected in the country's telecommunications development; radio is the most important source of information for the public (2020)<br>
@@ -641,7 +641,7 @@ _major seaport(s)_: Bissau, Buba, Cacheu, Farim<br>
 ## Military and Security
 
 **Military and security forces**<br>
-People's Revolutionary Armed Force (FARP): Army, Navy, Air Force<br><br>Ministry of Internal Administration: Guard Nacional (a gendarmerie force), Public Order Police, Border Police, Rapid Intervention Police, Maritime Police (2021)<br>
+People's Revolutionary Armed Force (FARP): Army, Navy, Air Force<br><br>Ministry of Internal Administration: Guard Nacional (a gendarmerie force), Public Order Police, Border Police, Rapid Intervention Police, Maritime Police (2022)<br>
 note - the Public Order Police is responsible for maintaining law and order, while the Judicial Police, under the Ministry of Justice, has primary responsibility for investigating drug trafficking, terrorism, and other transnational crimes<br>
 
 **Military expenditures**<br>

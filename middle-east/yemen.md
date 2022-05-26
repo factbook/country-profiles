@@ -277,7 +277,7 @@ _water contact diseases_: schistosomiasis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; Yemen is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to conflict, poverty, floods, high food and fuel prices - between January and June 2021, the number of food insecure was projected to increase by nearly 3 million to 16.2 million people; out of these, an estimated 11 million people will likely be in "Crisis," 5 million in "Emergency," and the number of those in "Catastrophe" will likely increase to 47,000; economic conditions in the country remain dire; the conflict is further hampering the already constrained livelihood activities and humanitarian access; income earning opportunities have declined due to COVID‑19‑related business disruptions (2021)<br>
+_widespread lack of access_: due to conflict, poverty, floods, high food and fuel prices - between January and June 2021, the number of food insecure was projected to increase by nearly 3 million to 16.2 million people; out of these, an estimated 11 million people will likely be in "Crisis," 5 million in "Emergency," and the number of those in "Catastrophe" will likely increase to 47,000; economic conditions in the country remain dire; the conflict is further hampering the already constrained livelihood activities and humanitarian access; income earning opportunities have declined due to COVID‑19‑related business disruptions (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,836,820 tons (2011 est.)<br>
@@ -712,6 +712,6 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>Saudi Arabia has reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 68,874 (Somalia), 17,407 (Ethiopia) (2022)<br>
-_IDPs_: 4,002,012 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2020)<br>
+_refugees (country of origin)_: 68,874 (Somalia), 17,705 (Ethiopia) (2022)<br>
+_IDPs_: 4,288,739 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2022)<br>
 

@@ -329,7 +329,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Magistrates' Courts<br>
 
 **Political parties and leaders**<br>
-Alliance Party for Progress or APP [Joseph ATHERLEY]<br>Bajan Free Party [Alex MITCHELL]<br>Barbados Integrity Movement [Neil HOLDER]<br>Barbados Labor Party or BLP [Mia MOTTLEY]<br>Democratic Labor Party or DLP [Freundel STUART]<br>People’s Democratic Congress [Mark ADAMSON]<br>People's Empowerment Party or PEP [David COMISSIONG]<br>Solutions Barbados [Grenville PHILLIPS II]<br>United Progressive Party or UPP [Everton HOLLIGAN]<br>
+Alliance Party for Progress or APP [Joseph ATHERLEY]<br>Barbados Labor Party or BLP [Mia MOTTLEY]<br>Democratic Labor Party or DLP [Steve Blackett]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -587,7 +587,6 @@ _subscriptions per 100 inhabitants_: 103 (2020 est.)<br>
 _general assessment_: island-wide automatic telephone system; telecom sector across the Caribbean region remains one of the key growth areas and contributors to the overall GDP; numerous competitors licensed, but small and localized (2020)<br>
 _domestic_: fixed-line teledensity of roughly 45 per 100 persons; mobile-cellular telephone density about 115 per 100 persons (2019)<br>
 _international_: country code - 1-246; landing points for the ECFS and Southern Caribbean Fiber submarine cable with links to 15 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and Puerto Ricco; satellite earth stations - 1 (Intelsat - Atlantic Ocean); tropospheric scatter to Trinidad and Saint Lucia (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
 government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terrestrial TV station; CBC also operates a multi-channel cable TV subscription service; roughly a dozen radio stations, consisting of a CBC-operated network operating alongside privately owned radio stations<br>
@@ -632,7 +631,7 @@ _major seaport(s)_: Bridgetown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2021)<br>
+Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2022)<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
@@ -651,7 +650,7 @@ the Netherlands provide the BDF's major equipment inventory (maritime patrol boa
 voluntary service only (men and women); 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizens of Barbados by descent or naturalization (2021)<br>
 
 **Military - note**<br>
-<p>Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados</p><br>
+<p>Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados</p> (2022)<br>
 
 ## Transnational Issues
 

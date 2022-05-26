@@ -291,7 +291,7 @@ _vectorborne diseases_: dengue fever, malaria, and Japanese encephalitis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to conflict, political instability, and economic constraints - the political crisis, following the military takeover on 1 February 2021, resulted in increased tensions and unrest throughout the country; the current uncertain political situation may further compromise the fragile situation of vulnerable households and the Rohingya IDPs residing in the country; persisting conflicts in Rakhine, Chin, Kachin, Kayin, and Shan states have triggered large-scale population displacements particularly since 2017; income losses and a decline in remittances, due to the impact of the COVID‑19 pandemic, have affected the food security situation of vulnerable households (2021)<br>
+_severe localized food insecurity_: due to conflict, political instability, and economic constraints - the political crisis, following the military takeover on 1 February 2021, resulted in increased tensions and unrest throughout the country; the current uncertain political situation may further compromise the fragile situation of vulnerable households and the Rohingya IDPs residing in the country; armed conflict between the military and non‑state armed groups led to population displacements, disrupted agricultural activities and limited access for humanitarian support especially in Rakhine, Chin, Kachin, Kayin, Kayah and Shan states; income losses and a decline in remittances, due to the impact of the COVID‑19 pandemic, have affected the food security situation of vulnerable households (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,677,307 tons (2000 est.)<br>
@@ -633,8 +633,8 @@ _total subscriptions_: 523,951 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 61,143,964 (2018)<br>
-_subscriptions per 100 inhabitants_: 89.82 (2019 est.)<br>
+_total subscriptions_: 78,548,329 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 144 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Burma, one of the least developed telecom markets in Asia, saw growth in mobile and broadband services through foreign competition and roll out of 4G and 5G networks; infrastructure development challenged by flooding, unreliable electricity, inefficient bureaucracy, and corruption; digital divide affects rural areas; fixed broadband remains low due to number of fixed-lines and near saturation of the mobile platform; healthy m-banking platform; tests for NB-IoT; benefit from launch of regional satellite; government utilizes intermittent censorship and shut-down of Internet in political crisis; top importer of broadcasting equipment from China (2021) (2020)<br>
@@ -714,7 +714,7 @@ _river port(s)_: Rangoon (Yangon) (Rangoon River)<br>
 
 **Military and security forces**<br>
 Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia; Ministry of Home Affairs: People's Police Force; Border Guard Forces/Police (2022)<br>
-note(s) - under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br><br><br>
+note(s) - under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br>
 
 **Military expenditures**<br>
 4.1% of GDP (2019 est.) (approximately $7.7 billion)<br>

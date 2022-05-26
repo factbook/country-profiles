@@ -607,8 +607,8 @@ _total subscriptions_: 25,428 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,088,742 (2020)<br>
-_subscriptions per 100 inhabitants_: 138.8 (2020 est.)<br>
+_total subscriptions_: 3,049,530 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 137 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: politically stable and oil laden, Gabon is one of wealthiest nations in Africa; liberalized and competitive market led development of mobile broadband, data service, and tests of 5G; fixed-line sector underdeveloped due to the lack of competition and high prices; South Korean investment in fiber segments as part of Central African backbone; sufficient international bandwidth through submarine cable systems; government committed to backbone infrastructure and e-health services; efforts towards new legal and regulatory improvements (2020)<br>
@@ -682,7 +682,7 @@ _oil terminal(s)_: Gamba, Lucina<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Gabonese Defense Forces (Forces de Defense Gabonaise): Land Forces (Army), Navy, Air Forces, National Gendarmerie; Republican Guard (land forces under direct presidential control) (2021)<br>
+Gabonese Defense Forces (Forces de Defense Gabonaise): Land Forces (Army), Navy, Air Forces, National Gendarmerie; Republican Guard (land forces under direct presidential control) (2022)<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>

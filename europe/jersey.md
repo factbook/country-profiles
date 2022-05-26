@@ -416,8 +416,8 @@ _total subscriptions_: 48,310 (2019 est.)<br>
 _subscriptions per 100 inhabitants_: 44 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 122,668 (2016)<br>
-_subscriptions per 100 inhabitants_: 119 (2016)<br>
+_total subscriptions_: 83,900 (2009 est.)<br>
+_subscriptions per 100 inhabitants_: 95 (2009 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good system with broadband access (2018)<br>

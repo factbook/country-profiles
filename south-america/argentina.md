@@ -720,7 +720,7 @@ _river port(s)_: Arroyo Seco, Rosario, San Lorenzo-San Martin (Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica Argentina): Argentine Army (Ejercito Argentino), Navy of the Argentine Republic (Armada Republica; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA); Ministry of Security: Gendarmer&iacute;a Nacional Argentina (National Gendarmerie), Prefectura Naval (Coast Guard) (2021)<br>
+Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica Argentina): Argentine Army (Ejercito Argentino, EA), Navy of the Argentine Republic (Armada Republica, ARA; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA); Ministry of Security: Gendarmer&iacute;a Nacional Argentina (National Gendarmerie), Coast Guard (Prefectura Naval)&nbsp; (2022)<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
@@ -730,20 +730,20 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica A
 0.9% of GDP (2017) (approximately $5.95 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 78,000 active duty personnel (45,000 Army; 18,000 Navy (includes about 3,000 marines); 15,000 Air Force); est. 20,000 Gendarmerie (2021)<br>
+approximately 82,000 active duty personnel (50,000 Army; 18,000 Navy (includes about 3,500 marines); 14,000 Air Force); est. 20,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; since 2010, France and the US are the leading suppliers of equipment; Argentina has an indigenous defense industry that can produce air, land, and sea systems (2021)<br>
+the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; since 2010, France and the US are the leading suppliers of equipment; Argentina has an indigenous defense industry that can produce air, land, and sea systems (2022)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for voluntary military service (men and women); conscription suspended in 1995; Argentinians can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2021)<br>
-note - as of 2017, women made up over 17% of the active duty military<br>
+18-24 years of age for voluntary military service (men and women); conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2022)<br>
+note - as of 2021, women made up over 21% of the active duty military<br>
 
 **Military deployments**<br>
 200 Cyprus (UNFICYP) (Jan 2022)<br>
 
 **Military - note**<br>
-as of 2021, the Argentine military was focused primarily on border security and counter-narcotics operations; in 2018, the government approved a decree allowing greater latitude for the military in internal security missions, with a focus on logistics support in border areas<br><br>Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>
+Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
 
 ## Terrorism
 
@@ -756,5 +756,5 @@ as of 2021, the Argentine military was focused primarily on border security and 
 _refugees (country of origin)_: 170,517 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
-<p>counterfeiting, drug trafficking, and other smuggling offenses in the Tri-Border area; some money laundering organizations in the TBA have may have links to the terrorist organization Hizballah; a large producer of chemical precursors</p><br>
+<p>counterfeiting, drug trafficking, and other smuggling offenses along the border; some money laundering organizations in the Tri-Border Area may have links to the terrorist organization Hizballah; a large producer of chemical precursors</p><br>
 

@@ -618,8 +618,8 @@ _total subscriptions_: 60,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,677,954 (2020)<br>
-_subscriptions per 100 inhabitants_: 110.8 (2020 est.)<br>
+_total subscriptions_: 2,677,954 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: state-owned telecom partially privatized but retains a monopoly with fixed-line service; multiple mobile networks provide 2G to almost all citizens and above the African average; high poverty rates continue to limit access to the Internet, especially via fixed-line services in rural areas; weak political support for development of communications infrastructure, including National Broadband Network program; government depends on donors and loans from China and Islamic Development banks; two submarine cables provide international connectivity within African continent and Europe (2020)<br>
@@ -676,7 +676,7 @@ _major seaport(s)_: Banjul<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Gambia Armed Forces: the Gambian National Army (GNA; includes a small air wing), Navy, Republican National Guard (responsible for VIP protection, riot control, and presidential security) (2021)<br>
+Gambia Armed Forces: the Gambian National Army (GNA), Gambia Navy, Gambia Air Force, Republican National Guard (responsible for VIP protection, riot control, and presidential security) (2022)<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
@@ -695,7 +695,7 @@ the GNA has a limited equipment inventory; since 2000, it has received only a fe
 18-25 years of age for male and female voluntary military service (18-22 for officers); no conscription; service obligation 6 months (2021)<br>
 
 **Military - note**<br>
-<p>in 2017, several members of the Economic Community of West African States (ECOWAS) sent security forces to The Gambia to conduct stability operations and provide assistance and training following the 2016 election; as of 2021, the ECOWAS Mission in the Gambia (ECOMIG) was comprised of about 1,000 military and gendarmerie personnel from Ghana, Nigeria, and Senegal; ECOMIG is slated to become a police mission by the end of 2021</p> <p>the Gambian Armed Forces (GAF) traces its origins to the Gambia Regiment of the British Army; established in 1901, the Gambia Regiment was part of the West African Frontier Force (WAFF, later Royal West African Frontier Force or RWAFF) and served in both World Wars, including the British 1944-45 military campaign in Burma; the Gambia Regiment was disbanded in 1958 and replaced by the Field Force, a police paramilitary unit; the Field Force was responsible for The Gambia’s security until the establishment of the Gambian Armed Forces in 1985; in addition, a defense agreement signed in 1965 between The Gambia and Senegal provided mutual assistance in the face of an external threat; from 1981-1989, The Gambia and Senegal formed a Confederal Army that was made up of two-thirds Senegalese and one-third Gambian soldiers</p> <p>the military in Gambia, including the Field Force, has a history of heavy involvement in the country’s politics, including multiple coups or coup attempts and mutinies</p> <p> </p><br>
+<p>in 2017, several members of the Economic Community of West African States (ECOWAS) sent security forces to The Gambia to conduct stability operations and provide assistance and training following the 2016 election; as of 2022, the ECOWAS Mission in the Gambia (ECOMIG) was comprised of about 1,000 military and gendarmerie personnel from Ghana, Nigeria, and Senegal</p> <p>the Gambian Armed Forces (GAF) traces its origins to the Gambia Regiment of the British Army; established in 1901, the Gambia Regiment was part of the West African Frontier Force (WAFF, later Royal West African Frontier Force or RWAFF) and served in both World Wars, including the British 1944-45 military campaign in Burma; the Gambia Regiment was disbanded in 1958 and replaced by the Field Force, a police paramilitary unit; the Field Force was responsible for The Gambia’s security until the establishment of the Gambian Armed Forces in 1985; in addition, a defense agreement signed in 1965 between The Gambia and Senegal provided mutual assistance in the face of an external threat; from 1981-1989, The Gambia and Senegal formed a Confederal Army that was made up of two-thirds Senegalese and one-third Gambian soldiers</p> <p>the military in Gambia, including the Field Force, has a history of heavy involvement in the country’s politics, including multiple coups or coup attempts and mutinies; as of 2022, the Gambia Armed Forces’ principal responsibilities included aiding civil authorities in emergencies and providing natural disaster relief</p> <p> </p><br>
 
 ## Transnational Issues
 

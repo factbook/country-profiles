@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The Siboney were the first people to inhabit the islands of Antigua and Barbuda in 2400 B.C., but Arawak Indians populated the islands when COLUMBUS landed on his second voyage in 1493. Early Spanish and French settlements were succeeded by an English colony in 1667. Slavery, established to run the sugar plantations on Antigua, was abolished in 1834. The islands became an independent state within the British Commonwealth of Nations in 1981. On 6 September 2017, Hurricane Irma passed over the island of Barbuda devastating the island and forcing the evacuation of the population to Antigua. Almost all the structures on Barbuda were destroyed and the vegetation stripped, but Antigua was spared the worst.<br>
+The Siboney were the first people to inhabit the islands of Antigua and Barbuda in 2400 B.C., but Arawak Indians populated the islands when Christopher COLUMBUS landed on his second voyage in 1493. Early Spanish and French settlements were succeeded by an English colony in 1667. Slavery, established to run the sugar plantations on Antigua, was abolished in 1834. The islands became an independent state within the British Commonwealth of Nations in 1981. On 6 September 2017, Hurricane Irma passed over the island of Barbuda devastating the island and forcing the evacuation of the population to Antigua. Almost all the structures on Barbuda were destroyed and the vegetation stripped, but Antigua was spared the worst.<br>
 
 ## Geography
 
@@ -554,7 +554,6 @@ _subscriptions per 100 inhabitants_: 188 (2020 est.)<br>
 _general assessment_: good automatic telephone system with fiber-optic lines; telecom sector contributes heavily to GDP; numerous mobile network competitors licensed, but small and local; govt. to spend EC80 million in 2019 to improve state-owned telecom market competitiveness; legislative amendments extend jurisdiction of its telecom regulator in Barbuda to include mobile services (2020)<br>
 _domestic_: fixed-line teledensity roughly 25 per 100 persons; mobile-cellular teledensity is about 193 per 100 persons (2019)<br>
 _international_: country code - 1-268; landing points for the ECFS and&nbsp;Southern Caribbean Fiber&nbsp;submarine cable systems with links to other islands in the eastern Caribbean; satellite earth stations&nbsp;- 1 Intelsat (Atlantic Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
 state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV station; multi-channel cable TV subscription services are available; ABS operates 1 radio station; roughly 15 radio stations, some broadcasting on multiple frequencies<br>
@@ -608,7 +607,7 @@ _major seaport(s)_: Saint John's<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Antigua and Barbuda Defense Force (ABDF): Coast Guard and the Antigua and Barbuda Regiment (2021)<br>
+Antigua and Barbuda Defense Force (ABDF): Coast Guard and the Antigua and Barbuda Regiment (2022)<br>
 
 **Military expenditures**<br>
 not available<br>
@@ -623,7 +622,7 @@ the ABDF's equipment inventory is limited to small arms, light weapons, and soft
 18-23 years of age for voluntary military service for both males and females; no conscription (2021)<br>
 
 **Military - note**<br>
-<p>has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p><br>
+<p>has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p> (2022)<br>
 
 ## Transnational Issues
 

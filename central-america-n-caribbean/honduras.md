@@ -616,8 +616,8 @@ _total subscriptions_: 531,763 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,960,654 (2020)<br>
-_subscriptions per 100 inhabitants_: 70.28 (2020)<br>
+_total subscriptions_: 6,960,654 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 70 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p style="background: white; margin: 0in 0in 6.4pt 0in;">among the poorest countries in Central America, Honduras has a neglected telecom sector complicated by political stalemate and geographic challenges; mobile subscribership is growing; DSL and cable Internet available in urban areas but expensive; government proposed ICT master plan to boost e-government and business, including free Internet to households; US based network ready to deploy 5G <br></p> (2020)<br>
@@ -690,8 +690,8 @@ _major seaport(s)_: La Ceiba, Puerto Cortes, San Lorenzo, Tela<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Honduran Naval Force (FNH; includes marines), Honduran Air Force (Fuerza Aerea Hondurena, FAH), Honduran Public Order Military Police (PMOP); Security Secretariat: Public Security Forces (includes Honduran National Police paramilitary units) (2021)<br><br>note - the PMOP was created in 2013 as part of an effort by the Honduran Government to expand the military’s role in law enforcement alongside the Honduran National Police (HNP), particularly against narcotics trafficking and organized crime; since its creation, the PMOP’s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2021, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who have undergone some police training; it reported to military authorities but conducts operations sanctioned by both civilian security officials and military leaders<br>
-note - the PMOP was created in 2013 as part of an effort by the Honduran Government to expand the military&rsquo;s role in law enforcement alongside the Honduran National Police (HNP), particularly against narcotics trafficking and organized crime; since its creation, the PMOP&rsquo;s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2021, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who have undergone some police training; it reported to military authorities but conducts operations sanctioned by both civilian security officials and military leaders<br>
+Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Honduran Naval Force (FNH; includes marines), Honduran Air Force (Fuerza Aerea Hondurena, FAH), Honduran Military Police of Public Order (PMOP); Security Secretariat: Public Security Forces (includes Honduran National Police paramilitary units) (2022)<br><br>note - the PMOP was created in 2013 as part of an effort by the Honduran Government to expand the military’s role in law enforcement alongside the Honduran National Police (HNP), particularly against narcotics trafficking and organized crime; since its creation, the PMOP’s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2022, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who have undergone some police training; it reported to military authorities but conducted operations sanctioned by both civilian security officials and military leaders<br>
+note - the PMOP was created in 2013 as part of an effort by the Honduran Government to expand the military&rsquo;s role in law enforcement alongside the Honduran National Police (HNP), particularly against narcotics trafficking and organized crime; since its creation, the PMOP&rsquo;s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2022, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who have undergone some police training; it reported to military authorities but conducted operations sanctioned by both civilian security officials and military leaders<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
@@ -701,7 +701,7 @@ note - the PMOP was created in 2013 as part of an effort by the Honduran Governm
 1.7% of GDP (2017 est.) (approximately $510 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Honduran Armed Forces (FFAA) have approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Public Order Military Police); approximately 18,000 National Police (2021)<br>
+the Honduran Armed Forces (FFAA) have approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Military Police of Public Order); approximately 18,000 National Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; since 2010, Honduras has received limited amounts of military equipment from several countries, including Colombia, Israel, and the Netherlands (2021)<br>
@@ -711,7 +711,7 @@ the FFAA's inventory is comprised of mostly older imported equipment from Israel
 note - as of 2017, women made up over 4% of the active duty military<br>
 
 **Military - note**<br>
-the armed forces, including the PMOP, are subordinate to the Secretariat of Defense, while the HNP reports to the Secretariat of Security; the National Interinstitutional Security Force is an interagency command that coordinates the overlapping responsibilities of the HNP, PMOP, National Intelligence Directorate, and Public Ministry (public prosecutor), but exercises coordination, command, and control responsibilities only during interagency operations involving those forces; as of 2021, civilian authorities at times reportedly did not maintain effective control over security forces<br>
+the armed forces, including the PMOP, are subordinate to the Secretariat of Defense, while the HNP reports to the Secretariat of Security; the National Interinstitutional Security Force is an interagency command that coordinates the overlapping responsibilities of the HNP, PMOP, National Intelligence Directorate, and Public Ministry (public prosecutor), but exercises coordination, command, and control responsibilities only during interagency operations involving those forces (2022)<br>
 
 ## Transnational Issues
 

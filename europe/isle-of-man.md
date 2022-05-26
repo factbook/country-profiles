@@ -426,10 +426,6 @@ _electrification - total population_: 100% (2020)<br>
 
 ## Communications
 
-**Telephones - mobile cellular**<br>
-_total subscriptions_: 1.125 million (2020)<br>
-_subscriptions per 100 inhabitants_: 131.5 (2020)<br>
-
 **Telecommunication systems**<br>
 _domestic_: landline, telefax, mobile cellular telephone system<br>
 _international_: country code - 44; fiber-optic cable, microwave radio relay, satellite earth station, submarine cable<br>

@@ -294,7 +294,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Democratic Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: according to a November 2021 analysis, 26 million people are projected to be severely food insecure, in "Crisis" or above, between January and June 2022; this is due to persisting conflict in eastern provinces of North Kivu, South Kivu and Ituri, which continues to cause displacements, coupled with the economic effects of the COVID-19 pandemic (2022)<br>
+_widespread lack of access_: due to internal conflict in eastern regions and economic downturn - according to a November 2021 analysis, 26 million people are projected to be severely food insecure, in "Crisis" or above, between January and June 2022; this is due to persisting conflict in eastern provinces of North Kivu, South Kivu and Ituri, which continues to cause displacements, coupled with the economic effects of the COVID-19 pandemic (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 14,385,226 tons (2016 est.)<br>
@@ -644,8 +644,8 @@ _total subscriptions_: 0 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 40,798,396 (2019)<br>
-_subscriptions per 100 inhabitants_: 45.55 (2019 est.)<br>
+_total subscriptions_: 40,798,396 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 46 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: due to decades of conflict and poor infrastructure, the Democratic Republic of Congo&rsquo;s telecom system is one of the least developed in the region; government aims to improve loose regulation through legislation; mobile networks are principal providers of telecom; LTE is geographically limited; investment from China and other foreign donors for fiber backbone; international bandwidth through WACS submarine cable; operator licensed to build landing station for submarine cable and tower upgrade that will provide competition in broadband, fixed, and mobile Internet services; operator added fiber link between Brazzaville and Kinshasa (2020)<br>
@@ -727,7 +727,7 @@ _river or lake port(s)_: Boma, Bumba, Kinshasa, Kisangani, Matadi, Mbandaka (Con
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC): Land Forces, National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC); Republican Guard (2021)<br><br>note - the Republican Guard is a division-size element consisting of approximately 5 regiments; it is regarded as the country’s best equipped and trained military unit and is under the direct control of the president<br>
+Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC): Land Forces, National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC); Republican Guard; Ministry of Interior: Congolese National Police, Directorate General for Migration (2022)<br><br>note - the Republican Guard is a division-size element consisting of approximately 5 regiments; it is regarded as the country’s best equipped and trained military unit and is under the direct control of the president<br>
 note - the Republican Guard is a division-size element consisting of approximately 5 regiments; it is regarded as the country&rsquo;s best equipped and trained military unit and is under the direct control of the president<br>
 
 **Military expenditures**<br>
@@ -761,7 +761,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 210,621 (Rwanda), 210,357 (Central African Republic), 56,356 (South Sudan) (refugees and asylum seekers), 40,522 (Burundi) (2022)<br>
+_refugees (country of origin)_: 210,476 (Rwanda), 210,357 (Central African Republic), 56,356 (South Sudan) (refugees and asylum seekers), 40,522 (Burundi) (2022)<br>
 _IDPs_: 5.61 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2021)<br>
 
 **Trafficking in persons**<br>

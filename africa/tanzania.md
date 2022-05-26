@@ -295,7 +295,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to localized shortfalls in staple food production - number of severely food insecure people estimated at 490,000 for period May‑September 2021, markedly lower than in period November 2019‑April 2020 (2021)<br>
+_severe localized food insecurity_: due to localized shortfalls in staple food production - about 437,000 people were estimated to be in need of humanitarian assistance between November 2021 and April 2022, mainly located in northeastern Mara, Arusha, Kilimanjaro and Tanga regions, reflecting a reduced &ldquo;Vuli&rdquo; harvest due to poor rains (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 9,276,995 tons (2012 est.)<br>

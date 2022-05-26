@@ -612,8 +612,8 @@ _total subscriptions_: 872,757 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,945,739 (2020)<br>
-_subscriptions per 100 inhabitants_: 114.4 (2020 est.)<br>
+_total subscriptions_: 7,945,739 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>Bulgaria’s telecoms sector benefited from adaptation of EU regulatory measures and privatization; population is moving to fiber over DSL for broadband connection; investment towards rural areas; migration from fixed-line voice to mobile and VoIP; private networks pursuing upgrades and development of services based on 5G; broadband market in Bulgaria enjoys cross-platform competition; operators deploy NB-IoT platform in several cities and released smart platform for utilities; government launched e-learning platform to help students continue their studies during lockdown (2021)</p> (2020)<br>
@@ -691,7 +691,7 @@ _major seaport(s)_: Burgas, Varna (Black Sea)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (Voennovazdushni Sili, VVS), Joint Special Forces; Ministry of Interior: Border Guards (2021)<br>
+Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (Voennovazdushni Sili, VVS), Joint Special Forces; Ministry of Interior: Border Guards (2022)<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
@@ -704,14 +704,14 @@ Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (
 approximately 30,000 active duty personnel (16,000 Army; 4,000 Navy; 7,000 Air Force; 3,000 other, joint staff, support) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from Western countries, including France, the Netherlands, and Italy (2021)<br>
+the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from some Western countries (2022)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2021)<br>
 note - in 2021, women comprised about 17% of the Bulgarian military's full-time personnel<br>
 
 **Military - note**<br>
-Bulgaria officially became a member of NATO in 2004; Bulgaria conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Bulgarian Air Force since 2014<br>
+Bulgaria officially became a member of NATO in 2004; Bulgaria conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Bulgarian Air Force since 2014 (2022)<br>
 
 ## Terrorism
 

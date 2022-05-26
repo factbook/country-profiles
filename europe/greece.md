@@ -356,7 +356,7 @@ _consulate(s) general_: Boston, Chicago, Los Angeles, New York, Tampa (FL), San 
 _consulate(s)_: Atlanta, Houston<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Geoffrey R. PYATT (since 24 October 2016)<br>
+_chief of mission_: Ambassador George James TSUNIS (since 10 May 2022)<br>
 _embassy_: 91 Vasillisis Sophias Avenue, 10160 Athens<br>
 _mailing address_: 7100 Athens Place, Washington DC&nbsp; 20521-7100<br>
 _telephone_: [30] (210) 721-2951<br>
@@ -602,8 +602,8 @@ _total subscriptions_: 5,028,332 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 48 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,412,995 (2020)<br>
-_subscriptions per 100 inhabitants_: 109.5 (2020 est.)<br>
+_total subscriptions_: 11,412,995 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 109 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom market is susceptible to country&rsquo;s volatile economy, but renewed confidence has been renewed through foreign and European Commission investment; increasing urban population with well-developed mobile market; growing adoption of IoT technology; steady development of broadband; investment in LTE and launch of 5G; government project for ultra-fast broadband, largely funded by European Commission with focus on underserved areas (2020)<br>
@@ -683,7 +683,8 @@ _LNG terminal(s) (import)_: Revithoussa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National Guard reserves), Hellenic Navy (Elliniko Polemiko Navtiko, EPN), Hellenic Air Force (Elliniki Polemiki Aeroporia, EPA; includes air defense) (2021)<br>
+Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National Guard reserves), Hellenic Navy (Elliniko Polemiko Navtiko, EPN), Hellenic Air Force (Elliniki Polemiki Aeroporia, EPA; includes air defense); Ministry of Shipping Affairs and Island Policy: Coast Guard (2022)<br>
+note - the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; border protection is coordinated by a deputy minister for national defense<br>
 
 **Military expenditures**<br>
 3.6% of GDP (2021 est.)<br>
@@ -723,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,216,633 estimated refugee and migrant arrivals (January 2015-May 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,216,742 estimated refugee and migrant arrivals (January 2015-May 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

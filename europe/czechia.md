@@ -608,8 +608,8 @@ _total subscriptions_: 1,335,224 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12,999,353 (2020)<br>
-_subscriptions per 100 inhabitants_: 121.4 (2020 est.)<br>
+_total subscriptions_: 12,999,812 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 121 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Czechia has a sophisticated telecom market with a developed telephone and Internet service attracting European investment; mobile sector showing steady growth through regulatory support for competition; licensees expanding reach of 5G and LTE networks; mobile penetration among the highest in the EU; operators extended fiber to an additional 143 rural zones in 2020 and commit to extending fiber to one million premises by 2027; its top import is broadcasting equipment from China (2020)<br>
@@ -684,7 +684,7 @@ Decin, Usti nad Labem (Elbe)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces Directorate (2021)<br>
+Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces (2022)<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>

@@ -678,7 +678,7 @@ _river port(s)_: Bosanska Gradiska, Bosanski Brod, Bosanski Samac, Brcko, Orasje
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegovine, OSBiH): Operations Command (includes Army, Air, and Air Defense units), Support Command (2021)<br>
+Armed Forces of Bosnia and Herzegovina (AFBiH or Oruzanih Snaga Bosne i Hercegovine, OSBiH): Operations Command (includes Army, Air, and Air Defense units), Support Command (2022)<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
@@ -694,11 +694,11 @@ the Armed Forces of Bosnia and Herzegovina have approximately 9,000 active duty 
 the inventory for the Armed Forces of Bosnia and Herzegovina includes mainly Soviet-era weapons systems with a small and varied mix of older European and US equipment (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for E-1 through E-4, mandatory retirement at age 50 and 30 years of service for E-5 through E-9, mandatory retirement at age 55 and 30 years of service for all officers; conscription abolished in 2005 (2021)<br>
+18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for junior enlisted personnel (E-1 to E-4), mandatory retirement at age 50 and 30 years of service for non-commissioned officers (E-5 to E-9), mandatory retirement at age 55 and 30 years of service for all commissioned officers; conscription abolished in 2005 (2021)<br>
 note - as of 2019, women made up about 7% of the military's full-time personnel<br>
 
 **Military - note**<br>
-<p>the Armed Forces of Bosnia and Herzegovina (AFBiH) are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2003 Law on Defense, which also established the country’s Ministry of Defense<br><br>the European Union Force Bosnia and Herzegovina (EUFOR) has operated in the country to oversee implementation of the Dayton/Paris Agreement since taking over from NATO's Stabilization Force (SFOR) in 2004; in addition to its security mission, EUFOR supports the overall EU comprehensive strategy for Bosnia and Herzegovina and the efforts of the AFBiH to attain NATO standards; as of 2022, it had about 600 troops from 19 countries</p> <p>Bosnia and Herzegovina joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; as of 2021, NATO maintained a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to EUFOR</p> <p> </p><br>
+<p>the Armed Forces of Bosnia and Herzegovina (AFBiH) are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2003 Law on Defense, which also established the country’s Ministry of Defense<br><br>the European Union Force Bosnia and Herzegovina (EUFOR) has operated in the country to oversee implementation of the Dayton/Paris Agreement since taking over from NATO's Stabilization Force (SFOR) in 2004; in addition to its security mission, EUFOR supports the overall EU comprehensive strategy for Bosnia and Herzegovina and the efforts of the AFBiH to attain NATO standards; as of 2022, it had about 600 troops from 19 countries</p> <p>Bosnia and Herzegovina joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; as of 2022, NATO maintained a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to EUFOR</p> <p> </p><br>
 
 ## Terrorism
 
@@ -715,7 +715,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note:</strong> 89,773 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
+<strong>note:</strong> 90,003 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

@@ -463,8 +463,8 @@ _total subscriptions_: 17,041 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 51 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 40,537 (2019)<br>
-_subscriptions per 100 inhabitants_: 120.3 (2019 est.)<br>
+_total subscriptions_: 35,438 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 105 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Gibraltar&rsquo;s population is urban based, served by a digital telephone exchange supported by a fiber optic and copper infrastructure; near universal mobile and Internet use (2019)<br>
@@ -511,10 +511,10 @@ _major seaport(s)_: Gibraltar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Gibraltar Regiment (2021)<br>
+Royal Gibraltar Regiment (2022)<br>
 
 **Military - note**<br>
-defense is the responsibility of the UK (2021)<br>
+defense is the responsibility of the UK<br>
 
 ## Transnational Issues
 

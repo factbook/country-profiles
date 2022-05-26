@@ -346,7 +346,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV 79.5%, Adakhan MADUMAROV 6.5%, other 14%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Supreme Council or Jogorku Kenesh (90 seats statutory, current 88; 54 seats allocated for proportional division among political party lists from the national vote and 36 seats allocated for candidates running in single-mandate constituencies; members serve 5-year terms; parties must receive 5% of the vote to win seats in the legislature)<br>
+_description_: unicameral Supreme Council or Jogorku Kenesh (90 seats statutory, current 88; 54 seats allocated for proportional division among political party lists from the national vote and 36 seats allocated for candidates running in single-seat constituencies; members serve 5-year terms; parties must receive 5% of the vote to win seats in the Council)<br>
 _elections_: last held on 28 November 2021 (next to be held in 2026)<br>
 _election results_: percent of vote by party - Ata-Jurt Kyrgyzstan 19.1%, Ishenim 15%, Yntymak 12.1%, Alliance 9.2%, Butun Kyrgyzstan 7.8%, Yiman Nuru 6.8%, other 30%; seats by party - Ata-Jurt Kyrgyzstan 15, Ishenim 12, Yntymak 9, Alliance 7, Butun Kyrgyzstan 6, Yiman Nuru 5, other 36; composition - men 70, women 18, percent of women 20.5%<br>
 
@@ -613,8 +613,8 @@ _total subscriptions_: 299,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,662,565 (2020)<br>
-_subscriptions per 100 inhabitants_: 134.4 (2020 est.)<br>
+_total subscriptions_: 8.511 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fixed-line declining as 4G LTE mobile is universally available; brief interruptions of service with security as pretext; ICT sector rocked by allegation of corruption in 2020; digital radio-relay stations and fiber-optic links; 5G in development; importer of broadcasting equipment from UAE and computers from China; Chinese Economic Corridor investment into domestic backbone; World Bank investment into digital infrastructure with aims to provide broadband Internet to 60% of the population; social disparity evident in pandemic as many school children could not attend classes on-line (2020 )<br>

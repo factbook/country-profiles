@@ -712,7 +712,7 @@ _LNG terminal(s) (export)_: Angola Soyo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA; under operational control of the Army); Rapid Reaction Police (paramilitary) (2021)<br>
+Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA; under operational control of the Army); Rapid Reaction Police (paramilitary) (2022)<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
@@ -731,7 +731,7 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 20-45 years of age for compulsory male and 18-45 years for voluntary male military service (registration at age 18 is mandatory); 20-45 years of age for voluntary female service; 2-year conscript service obligation; Angolan citizenship required; the Navy (MGA) is entirely staffed with volunteers (2021)<br>
 
 **Military - note**<br>
-<p>the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the name remained even after UNITA rejected the 1992 election results and returned to fighting against the Angolan Government</p> <p>the Angolan Armed Forces are responsible for external security but also have domestic security responsibilities, including border security, expulsion of irregular migrants, and small-scale actions against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda</p><br>
+<p>the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the name remained even after UNITA rejected the 1992 election results and returned to fighting against the Angolan Government</p> <p>the Angolan Armed Forces are responsible for external security but also have domestic security responsibilities, including border security, expulsion of irregular migrants, and small-scale actions against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda</p> (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Angola are a risk for armed robbery against ships; in 2021, four attacks against commercial vessels were reported, a decrease from the six attacks in 2020; most of these occurred in the main port of Luanda while ships were berthed or at anchor<br>

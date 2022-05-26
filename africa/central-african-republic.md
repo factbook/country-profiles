@@ -286,7 +286,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: Persisting conflicts and displacements are expected to continue affecting agricultural activities and limit farmers&rsquo; access to crop growing areas and inputs, with a negative impact on 2022 crop production; in most prefectures, civil insecurity in 2021 continued to cause population displacements and widespread disruption of agricultural and marketing activities with negative consequences on food availability and access; the socio‑economic effects of the COVID‑19 pandemic, coupled with the high level of prices of some food staples, reduced substantially the households&rsquo; purchasing power (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: due to internal conflict - persisting conflicts and displacements are expected to continue affecting agricultural activities and limit farmers&rsquo; access to crop growing areas and inputs, with a negative impact on 2022 crop production; in most prefectures, civil insecurity in 2021 continued to cause population displacements and widespread disruption of agricultural and marketing activities with negative consequences on food availability and access; the socio‑economic effects of the COVID‑19 pandemic, coupled with the high level of prices of some food staples, reduced substantially the households&rsquo; purchasing power (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>
@@ -616,8 +616,8 @@ _total subscriptions_: 2,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,595,294 (2019)<br>
-_subscriptions per 100 inhabitants_: 33.62 (2019 est.)<br>
+_total subscriptions_: 1.831 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 38 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: network consists principally of microwave radio relay and at low-capacity; ongoing conflict has&nbsp;obstructed&nbsp;telecommunication and media development,&nbsp;although there are&nbsp;ISP (Internet service providers) and mobile phone carriers,&nbsp;radio is the most-popular communications medium (2018)<br>
@@ -679,7 +679,7 @@ Nola (Sangha)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine), General Directorate of Gendarmerie Inspection (DGIG); Ministry of Interior: National Police (2021)<br>
+Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine); Ministry of Interior: National Gendarmerie (Gendarmerie Nationale), National Police (2022)<br>
 note - in 2019-2021, CAR created three Mixed Special Security units (<em>Unités Spéciales Mixtes de Sécurité</em> or USMS), regionally based battalion-sized units comprised of about 40% government and 60% rebel soldiers that are intended to provide security along transportation corridors and at mining sites; the units are intended to be transitional in nature with a scheduled deployment time of two years<br>
 
 **Military expenditures**<br>
@@ -690,7 +690,7 @@ note - in 2019-2021, CAR created three Mixed Special Security units (<em>Unité
 1.4% of GDP (2017 est.) (approximately $40 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 10,000 active troops, including an air component of about 200 and up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2021)<br>
+information varies; approximately 8,000 FACA troops; up to 2,000 Gendarmerie; approximately 2,000 Mixed Special Security Units (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FACA is lightly and poorly armed with mostly outdated weapons; since 2010, it has received small amounts of second-hand equipment from China, Russia, and Ukraine (2021)<br>
@@ -700,7 +700,7 @@ note - since 2013, CAR has been under a UNSC arms embargo; the embargo bans all 
 18 years of age for military service; no conscription (2021)<br>
 
 **Military - note**<br>
-the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; reportedly only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since; the European Union, France, Russia, the UN, and the US are providing various levels of security assistance <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; Russia sent private military contractors, and as of late 2021, there were reportedly as many as 2,000 providing assistance to the FACA, as well as performing other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its peacekeeping mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; in November 2019, the UN Security Council extended the mandate of the MINUSCA peacekeeping mission another year; as of February 2022, MINUSCA had about 14,000 total personnel<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016; the EUTM-RCA contributes to the restructuring of the country's military and defense sector through advice, training, and educational programs; as of mid-2021, it had trained 4 territorial infantry battalions (Bataillon d’Infanterie Territorial) and 1 amphibious infantry battalion<br><br> <p> </p><br>
+the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; reportedly only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since; the European Union, France, Russia, the UN, and the US have provided various levels of security assistance <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; Russia sent private military contractors, and as of late 2021, there were reportedly as many as 2,000 providing assistance to the FACA, as well as performing other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its peacekeeping mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; in November 2019, the UN Security Council extended the mandate of the MINUSCA peacekeeping mission another year; as of 2022, MINUSCA had about 14,000 total personnel<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016, providing advice, training, and educational programs to the country's security forces<br> <p> </p> (2022)<br>
 
 ## Transnational Issues
 

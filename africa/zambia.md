@@ -289,7 +289,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to reduced incomes - the effects of the COVID-19 pandemic restrictions have aggravated food insecurity across the country, particularly due to income reductions that have constrained households&rsquo; economic access to food; cereal production is estimated at a bumper high in 2021 and, as a result, overall food security is expected to improve compared to the previous year (2021)<br>
+_severe localized food insecurity_: due to reduced incomes and localized shortfalls in cereal production - an estimated 1.58 million people are projected to need humanitarian assistance at least up until March 2022, down from 2 million assessed to be food insecure in the corresponding period in 2020/21; the overall large national agricultural output in 2021 helped to reduce the prevalence of food insecurity in early 2022, however, the effects of the COVID-19 pandemic, which have constrained households&rsquo; economic access to food as well as localized shortfalls in crop production, have limited a larger improvement (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,608,268 tons (2002 est.)<br>

@@ -579,7 +579,7 @@ _cruise port(s)_: Oranjestad<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Aruban Militia (ARUMIL) (2021)<br>
+no regular military forces; Aruban Militia (ARUMIL) (2022)<br>
 
 **Military - note**<br>
 defense is the responsibility of the Kingdom of the Netherlands; the Aruba security services focus on organized crime and terrorism; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security<br>

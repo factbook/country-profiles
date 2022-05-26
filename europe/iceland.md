@@ -589,8 +589,8 @@ _total subscriptions_: 107,032 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 421,384 (2020)<br>
-_subscriptions per 100 inhabitants_: 123.5 (2020)<br>
+_total subscriptions_: 421,384 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 123 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: small but most progressive telecom market in Europe; telecom infrastructure is modern and fully digitized, with satellite-earth stations, fiber-optic cables, and an extensive broadband network; near universal fixed broadband service of at least 100Mb/s by the end of 2021; operator aims for national 5G coverage by end of 2022; good competition among mobile and broadband markets; investment by operators and government in support of NGN, particularly in rural areas; submarine cable to Ireland; importer of broadcasting equipment from Vietnam and China (2020)<br>
@@ -653,13 +653,13 @@ _major seaport(s)_: Grundartangi, Hafnarfjordur, Reykjavik<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Interior: Icelandic Coast Guard (includes both air and maritime elements); Icelandic National Police (2021)<br>
+no regular military forces; Ministry of Interior: Icelandic Coast Guard (includes both air and maritime elements); Icelandic National Police (2022)<br>
 
 **Military and security service personnel strengths**<br>
-the Icelandic Coast Guard has approximately 250 personnel (2021)<br>
+the Icelandic Coast Guard has approximately 250 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Icelandic Coast Guard's inventory consists of equipment from mostly European suppliers (2021)<br>
+the Icelandic Coast Guard's inventory consists of equipment from mostly European suppliers (2022)<br>
 
 **Military - note**<br>
 Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)<br> <p>Iceland cooperates with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p> <p> </p><br>

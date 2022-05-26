@@ -350,7 +350,7 @@ _election results_: Kasym-Zhomart TOKAYEV elected president; percent of vote - K
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (49 seats statutory, 48 as of October 2021); 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 351-member, presidentially appointed advisory body designed to represent the country's ethnic minorities)<br>
 _elections_: <br>Senate - last held on 12 August 2020 (next to be held in August 2023)<br>Mazhilis - last held on 10 January 2021 (next to be held in 2026)<br>
-_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - NA; composition (as of October 2021) - men 39, women 9, percent of women 13.1%<br>Mazhilis - percent of vote by party - Nur Otan 71.1%, Ak Zhol 11%, People's Party 9.1%, other 8.8%; seats by party - Nur Otan 76, Ak Zhol 12, People's Party 10; composition (as of October 2021) - men 78, women 29, percent of women 27%; note - total Parliament percent of women 24.4%<br>
+_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - NA; composition (as of October 2021) - men 39, women 9, percent of women 18.4%<br>Mazhilis - percent of vote by party - Nur Otan 71.1%, Ak Zhol 11%, People's Party 9.1%, other 8.8%; seats by party - Nur Otan 76, Ak Zhol 12, People's Party 10; composition (as of October 2021) - men 78, women 29, percent of women 27.1%; note - total Parliament percent of women 24.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairman and 6 members)<br>
@@ -617,8 +617,8 @@ _total subscriptions_: 3.091 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 25.117 million (2020)<br>
-_subscriptions per 100 inhabitants_: 134.1 (2020)<br>
+_total subscriptions_: 24,293,900 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 129 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the most progressive telecom sectors in Central Asia; vast 4G network; low fixed-line and fixed-broadband penetration; moderate mobile broadband penetration and high mobile penetration depending on location; mobile market highly competitive and growth is slow due to saturation (2020)<br>

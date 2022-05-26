@@ -507,8 +507,8 @@ _total subscriptions_: 36,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 55 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 96,656 (2018)<br>
-_subscriptions per 100 inhabitants_: 152.5 (2019 est.)<br>
+_total subscriptions_: 100,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 152 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: reasonably good overall telephone system with a high fixed-line teledensity;&nbsp;given&nbsp;the high dependence of tourism and activities such as fisheries and offshore financial services, the telecom sector provides a relatively high contribution to overall GDP;&nbsp;good competition in all sectors promotes&nbsp;advancement in mobile telephony and data segments (2017)<br>

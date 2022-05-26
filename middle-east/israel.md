@@ -620,8 +620,8 @@ _total subscriptions_: 3.37 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 39 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.4 million (2020)<br>
-_subscriptions per 100 inhabitants_: 131.7 (2020 est.)<br>
+_total subscriptions_: 12.27 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 142 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Israel has a highly developed economy with focus on technology products; investment in cyber-security industry and hub for start-ups; near universal broadband delivery to households and mobile penetration; LTE coverage, expanded fiber network with plans for 5G; emergency law allows mobile tracking; importer of broadcast equipment, integrated circuits, and computers from China; submarine cable connectivity to Europe (2020)<br>
@@ -721,7 +721,7 @@ the United Nations Disengagement Observer Force (UNDOF) has operated in the Gola
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Kahane Chai; Popular Front for the Liberation of Palestine; Palestinian Islamic Jihad<br>
+Islamic State of Iraq and ash-Sham (ISIS); Popular Front for the Liberation of Palestine; Palestinian Islamic Jihad<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

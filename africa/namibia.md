@@ -281,7 +281,7 @@ _vectorborne diseases_: malaria<br>
 _water contact diseases_: schistosomiasis<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to reduced incomes - an above-average harvest in 2021 is expected to lead to an improvement in food security compared to the previous year, however, the negative effects of the COVID-19 pandemic, primarily income and job losses, are expected to continue to constrain households&rsquo; access to food (2021)<br>
+_severe localized food insecurity_: due to localized shortfalls in cereal production - an estimated 750,000 people are projected to face "Crisis" levels of food insecurity between December 2021 and March 2022, as a result of localized areas that suffered from poor harvests in 2021 and the negative effects of the COVID-19 pandemic, primarily through income and job losses that constrained households&rsquo; access to food (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 256,729 tons (1993 est.)<br>

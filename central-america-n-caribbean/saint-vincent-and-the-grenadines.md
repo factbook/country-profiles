@@ -603,7 +603,7 @@ _major seaport(s)_: Kingstown<br>
 no regular military forces; the Special Services Unit (SSU) is the paramilitary arm of the Royal Saint Vincent and the Grenadines Police Force (RSVPF)<br>
 
 **Military - note**<br>
-the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts, and Saint Lucia) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2021)<br>
+the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts, and Saint Lucia) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2022)<br>
 
 ## Transnational Issues
 

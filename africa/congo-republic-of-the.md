@@ -287,7 +287,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to restrictive measures related to the COVID‑19 pandemic - the negative impact of the restrictive measures related to the COVID‑19 pandemic on informal labor and on food supply chains, resulted, on one side, in the loss of income and, on the other, in high food prices due to a decline in food supply; these factors limited the access to food for the most vulnerable population (2021)<br>
+_severe localized food insecurity_: due to floods - on 29 November 2021, a state of emergency was declared due to floods in northern areas that caused crop and livestock losses, and displaced people, particularly in Likouala, Sangha, Cuvette and Plateaux departments; it is estimated that about 71,700 people have been affected, (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 451,200 tons (1993 est.)<br>
@@ -627,8 +627,8 @@ _total subscriptions_: 17,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5 million (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 98.93 (2019 est.)<br>
+_total subscriptions_: 4.89 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 89 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: suffering from economic challenges of stimulating recovery and reducing poverty; primary network consists of microwave radio relay and coaxial cable with services barely adequate for government use; key exchanges are in Brazzaville, Pointe-Noire, and Loubomo; intercity lines frequently out of order; youth are seeking the Internet more than their parents and often gain access through cyber cafes; only the most affluent have Internet access in their homes; operator has plans to upgrade national broadband through fiber link to WACS landing station at Pointe-Noire with connections to Angola and DRC; fiber network project with aims to connect north and south regions; DRC operator added fiber link between Brazzaville and Kinshasa (2020)<br>
@@ -705,7 +705,7 @@ Impfondo (Oubangui) Ouesso (Sangha) Oyo (Alima)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Congolese Armed Forces (Forces Armees Congolaises, FAC): Army (Armee de Terre), Navy, Congolese Air Force (Armee de l'Air Congolaise), Gendarmerie (2021)<br>
+Congolese Armed Forces (Forces Armees Congolaises, FAC): Army (Armee de Terre), Navy, Congolese Air Force (Armee de l'Air Congolaise), Gendarmerie (2022)<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>
@@ -724,7 +724,7 @@ the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a small
 18 years of age for voluntary military service; women may serve in the armed forces (2021)<br>
 
 **Military - note**<br>
-<p>as of 2021, that FAC had limited capabilities due to obsolescent and poorly maintained equipment and low levels of training; its primary focus was internal security; since its creation in 1961, the FAC has had a turbulent history; it has been sidelined by some national leaders in favor of personal militias, endured  an internal rebellion (1996), and clashed with various rebel groups and political or ethnic militias (1993-1996, 2002-2005, 2017); during the 1997-1999 civil war, the military generally split along ethnic lines, with most northern officers supporting eventual winner SASSOU-Nguesso, and most southerners backing the rebels; others joined ethnic-based factions loyal to regional warlords; forces backing SASSOU-Nguesso were supported by Angolan troops and received some French assistance; the FAC also has undergone at least three reorganizations that included the incorporation of former rebel combatants and various ethnic and political militias; in recent years, France has provided some advice and training, and a military cooperation agreement was signed with Russia in 2019</p><br>
+<p>as of 2022, the FAC had limited capabilities due to obsolescent and poorly maintained equipment and low levels of training; its primary focus was internal security; since its creation in 1961, the FAC has had a turbulent history; it has been sidelined by some national leaders in favor of personal militias, endured an internal rebellion (1996), and clashed with various rebel groups and political or ethnic militias (1993-1996, 2002-2005, 2017); during the 1997-1999 civil war, the military generally split along ethnic lines, with most northern officers supporting eventual winner SASSOU-Nguesso, and most southerners backing the rebels; others joined ethnic-based factions loyal to regional warlords; forces backing SASSOU-Nguesso were supported by Angolan troops and received some French assistance; the FAC also has undergone at least three reorganizations that included the incorporation of former rebel combatants and various ethnic and political militias; in recent years, France has provided some advice and training, and a military cooperation agreement was signed with Russia in 2019</p><br>
 
 ## Transnational Issues
 
@@ -732,6 +732,6 @@ the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a small
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 28,985 (Central African Republic), 22,108 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 29,011 (Central African Republic), 22,108 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 304,430 (multiple civil wars since 1992) (2021)<br>
 

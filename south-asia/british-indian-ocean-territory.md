@@ -214,7 +214,7 @@ _major seaport(s)_: Diego Garcia<br>
 no regular military forces<br>
 
 **Military - note**<br>
-defense is the responsibility of the UK; in November 2016, the UK extended the US lease on Diego Garcia for 20 years; the lease now expires in December 2036<br>
+defense is the responsibility of the UK; in November 2016, the UK extended the US lease on Diego Garcia until December 2036<br>
 
 ## Transnational Issues
 

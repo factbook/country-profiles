@@ -603,8 +603,8 @@ _total subscriptions_: 125,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 643,210 (2020)<br>
-_subscriptions per 100 inhabitants_: 82.97 (2020)<br>
+_total subscriptions_: 856,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 109 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: revenues gained from newly tapped off-shore oil reserves may provide a boost of Guyana&rsquo;s infrastructure, including upgrade of aging telecom systems to LTE and fiber broadband; competition in mobile services but monopoly in fixed-line; submarine cable improved broadband availability but service is still slow and expensive; second cable will improve delivery and pricing; government promotes ICT for e-government, e-health, and tele-education, and connection to remote locations (2020)<br>
@@ -664,7 +664,7 @@ _major seaport(s)_: Georgetown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Guyana Defense Force is a unified force with ground, air, and coast guard components, as well as a militia (Guyana People's Militia) (2021)<br>
+the Guyana Defense Force is a unified force with ground, air, and coast guard components, as well as a militia (Guyana People's Militia) (2022)<br>
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
@@ -683,7 +683,7 @@ the Guyana Defense Force's limited inventory is mostly comprised of second-hand 
 18 years of age or older for voluntary military service; no conscription (2021)<br>
 
 **Military - note**<br>
-<p>the Guyana Defense Force was established in 1965; as of 2021, its primary missions were defense of the country, assisting civil authorities with law and order as needed, and contributing to the economic development of the country; the GDF’s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training the British Royal Naval College</p><br>
+the Guyana Defense Force was established in 1965; its primary missions are defense of the country, assisting civil authorities with law and order as needed, and contributing to the economic development of the country; the GDF&rsquo;s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training the British Royal Naval College (2022)<br>
 
 ## Transnational Issues
 

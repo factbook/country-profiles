@@ -603,8 +603,8 @@ _total subscriptions_: 225,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.12 million (2020)<br>
-_subscriptions per 100 inhabitants_: 128.5 (2020 est.)<br>
+_total subscriptions_: 7.12 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 129 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Finland&rsquo;s telecom market is among most progressive in Europe through favorable regulatory action and competitive technological innovation; orientation towards high technology, research, and development with high investment in information and communication sectors; large proportion of population on 5G and most on LTE; high broadband and mobile penetration; fixed-voice density falling; government provided universal 5Mb/s broadband (2020)<br>
@@ -680,7 +680,7 @@ _major seaport(s)_: Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat); Ministry of the Interior: Border Guard (Rajavartiolaitos) (2021)<br>
+Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat); Ministry of the Interior: Border Guard (Rajavartiolaitos) (2022)<br>
 note - the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>
@@ -691,21 +691,20 @@ note - the Border Guard becomes part of the FDF in wartime<br>
 1.3% of GDP (2017) (approximately $3.8 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 22,000 total active duty personnel (15,000 Army; 4,000 Navy; 3,000 Air Force) (2021)<br>
-note - the Army's wartime strength is about 180,000<br>
+approximately 22,000 total active duty personnel (15,000 Army; 4,000 Navy; 3,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Finnish Defense Forces consists of a wide mix of mostly modern US, European, and domestically-produced weapons systems; since 2010, the US is the leading supplier; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels (2021)<br>
 
 **Military service age and obligation**<br>
-at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty), and women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2021)<br>
-note(s) - the military trains approximately 21,000 (20,000 Army) conscripts each year; since 2017, between 1,000 and 1,700 women have volunteered for military service annually; as of 2019, women made up about 4% of the military's full-time personnel<br>
+at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty), and women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2022)<br>
+note(s) - the military trains approximately 21,000 (20,000 Army) conscripts each year; as of 2019, women made up about 4% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 160 Lebanon (UNIFIL) (Jan 2022)<br>
 
 **Military - note**<br>
-<p>Finland is not a member of NATO, but the two actively cooperate in peace-support operations, exercise together, and exchange analysis and information; Finland joined NATO’s Partnership for Peace program in 1994; Finnish Armed Forces participated in NATO-led military operations and missions in the Balkans, Afghanistan, and Iraq</p> <p>Finland is a signatory of the EU’s Common Security and Defense Policy (CSDP) and actively participates in CSDP crisis management missions and operations</p> <p>the Finnish Armed Forces closely cooperate with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p><br>
+<p>as of early 2022, Finland was not a member of NATO, but Finland and NATO actively cooperated in peace-support operations, exercised together, and exchanged analysis and information; Finland joined NATO’s Partnership for Peace program in 1994; Finnish Armed Forces participated in NATO-led military operations and missions in the Balkans, Afghanistan, and Iraq</p> <p>Finland is a signatory of the EU’s Common Security and Defense Policy (CSDP) and actively participates in CSDP crisis management missions and operations</p> <p>the Finnish Armed Forces closely cooperate with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p><br>
 
 ## Transnational Issues
 

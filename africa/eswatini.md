@@ -270,7 +270,7 @@ _vectorborne diseases_: malaria<br>
 _water contact diseases_: schistosomiasis<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to the reduction in income-generating activities - the economy is only expected to recover moderately in 2021, following the pandemic-driven contraction in 2020, and households will continue to face food access constraints; an estimated 209,000 people are projected to be food insecure in the April&minus;September 2021 period, down from 347,000 in the January&minus;March 2021 period (2021)<br>
+_severe localized food insecurity_: due to economic downturn - nearly 336,000 people were assessed to be food insecure at least until March 2022, prior to the main harvest period, primarily due to food access constraints, underpinned by the negative effects of the COVID-19 pandemic on the economy (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 218,199 tons (2016 est.)<br>
@@ -599,8 +599,8 @@ _total subscriptions_: 39,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1.052 million (2018)<br>
-_subscriptions per 100 inhabitants_: 93.53 (2019 est.)<br>
+_total subscriptions_: 1.243 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: earlier government monopoly in telecom market hindered growth; liberalized regulators aided expansion in the telecom sector; lack of fixed-line infrastructure and competition stymies development of DSL and backbone network; 2G, 3G, 4G, and LTE services with coverage to most of the population; landlocked country depends on neighbors for international bandwidth; operator completed terrestrial cable linking Maputo through Eswatini to Johannesburg; importer of broadcasting equipment from South Africa (2019)<br>
@@ -650,7 +650,7 @@ _total_: 3,769 km (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2021)<br>
+Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2022)<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
@@ -663,13 +663,13 @@ Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2021)<b
 approximately 3,000 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UEDF is lightly armed with mostly South African material; it has received minimal amounts of secondhand equipment since 2010 (2021)<br>
+the UEDF is lightly armed with mostly South African material; it has received small amounts of secondhand equipment since 2010 (2021)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for male and female voluntary military service; no conscription (2021)<br>
 
 **Military - note**<br>
-<p>the UEDF was originally created in 1973 as the Royal Swaziland Defense Force; as of 2021, the UEDF’s primary mission was external security but it also had domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force’s titular commissioner in chief</p> <p> </p><br>
+<p>the UEDF was originally created in 1973 as the Royal Swaziland Defense Force; the UEDF’s primary mission is external security but it also has domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force’s titular commissioner in chief</p> <p> </p> (2022)<br>
 
 ## Transnational Issues
 
