@@ -709,7 +709,7 @@ _LNG terminal(s) (import)_: Mombasa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Kenya Defense Forces: Kenya Army, Kenya Navy, Kenya Air Force (2021)<br>
+Kenya Defense Forces: Kenya Army, Kenya Navy, Kenya Air Force (2022)<br>
 note - the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit; the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior, but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
 
 **Military expenditures**<br>
@@ -732,7 +732,7 @@ no conscription; 18-26 years of age for male and female voluntary service (under
 260 Democratic Republic of the Congo (MONUSCO); 3,650 Somalia (AMISOM) (2022)<br>
 
 **Military - note**<br>
-<p>Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate the force into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; as of mid-2021, they consisted of approximately 3,600 troops and were responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix-T for additional details on al-Shabaab)</p><br>
+<p>Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate the force into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; as of 2022, they consisted of approximately 3,600 troops and were responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix-T for additional details on al-Shabaab)</p><br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships<br>

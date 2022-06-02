@@ -689,7 +689,7 @@ _by type_: bulk carrier 4, container ship 7, general cargo 131, oil tanker 64, o
 ## Military and Security
 
 **Military and security forces**<br>
-Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): General Purpose Troops (Mongolian Army), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces; Border Troops; Internal Security Troops<br><br>Ministry of Justice and Home Affairs: National Police Agency, General Authority for Border Protection (2021)<br>
+Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): General Purpose Troops (Mongolian Army), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces (2022)<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>

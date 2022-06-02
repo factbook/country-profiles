@@ -697,7 +697,7 @@ _lake port(s)_: Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba (Lake Nyas
 ## Military and Security
 
 **Military and security forces**<br>
-Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established as a separate service August 2019; previously was an air wing under the Army) (2021)<br>
+Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established as a separate service August 2019; previously was an air wing under the Army) (2022)<br>
 note - the Malawi Police Service is under the Ministry of Homeland Security<br>
 
 **Military expenditures**<br>
@@ -720,7 +720,7 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 700 Democratic Republic of the Congo (MONUSCO) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>as of 2021, the Malawi Defense Force’s primary responsibility was external security; it was also tasked as necessary with carrying out policing or other domestic activities, such as disaster relief; Malawi contributes regularly to African Union and UN peace support operations</p><br>
+the Malawi Defense Force&rsquo;s primary responsibility is external security; it is also tasked as necessary with carrying out policing or other domestic activities, such as disaster relief; Malawi contributes regularly to African Union and UN peace support operations (2022)<br>
 
 ## Transnational Issues
 
@@ -728,5 +728,5 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,377 (Burundi) (refugees and asylum seekers), 7,526 (Rwanda) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 33,606 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,377 (Burundi) (refugees and asylum seekers), 7,526 (Rwanda) (refugees and asylum seekers) (2022)<br>
 

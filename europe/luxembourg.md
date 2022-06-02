@@ -348,7 +348,7 @@ _email address and website_: <br>washington.amb@mae.etat.lu<br><br>https://washi
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Casey MACE (since 20 January 2021)<br>
+_chief of mission_: Ambassador Thomas M. BARRETT (since 10 February 2022)<br>
 _embassy_: 22 Boulevard Emmanuel Servais, L-2535 Luxembourg City<br>
 _mailing address_: 5380 Luxembourg Place, Washington DC&nbsp; 20521-5380<br>
 _telephone_: [352] 46-01-23-00<br>
@@ -665,7 +665,7 @@ _river port(s)_: Mertert (Moselle)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2021)<br>
+Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2022)<br>
 
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>

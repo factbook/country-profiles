@@ -419,7 +419,7 @@ _imports of goods and services_: -42.8% (2017 est.)<br>
 milk, mutton, poultry, potatoes, barley, pork, eggs, beef, other meat, sheep skins<br>
 
 **Industries**<br>
-tourism, fish processing; aluminum smelting;; geothermal power, hydropower; medical/pharmaceutical products<br>
+tourism, fish processing; aluminum smelting; geothermal power, hydropower; medical/pharmaceutical products<br>
 
 **Industrial production growth rate**<br>
 2.4% (2017 est.)<br>

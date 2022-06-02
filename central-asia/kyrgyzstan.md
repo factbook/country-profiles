@@ -681,7 +681,7 @@ _lake port(s)_: Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Kyrgyz Armed Forces: Land Forces, Air Defense Forces, National Guard; State Border Service; Internal Troops; State Committee for National Security (2021)<br>
+Kyrgyz Armed Forces: Land Forces, Air Defense Forces, National Guard; State Border Service; Internal Troops; State Committee for National Security (2022)<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2019 est.) (approximately $410 million)<br>

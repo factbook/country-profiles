@@ -683,7 +683,7 @@ _by type_: general cargo 1 (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces<br><br>Ministry of Public Security (internal security and law enforcement):  local, traffic, immigration, and security police, as well as village police auxiliaries and other armed police units (2021)<br>
+Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces (2022)<br>
 
 **Military expenditures**<br>
 0.2% of GDP (2019 est.) (approximately $120 million)<br>
@@ -702,7 +702,7 @@ the LPAF is armed largely with weapons from the former Soviet Union; since 2010,
 18 years of age for compulsory or voluntary military service; conscript service obligation - minimum 18 months (2021)<br>
 
 **Military - note**<br>
-<p>the LPAF’s primary missions are border and internal security, including counterinsurgency and counterterrorism</p><br>
+the LPAF&rsquo;s primary missions are border and internal security, including counterinsurgency and counterterrorism (2022)<br>
 
 ## Transnational Issues
 

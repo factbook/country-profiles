@@ -640,10 +640,10 @@ _major seaport(s)_: Apia<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Samoa Police Force (Ministry of Police)<br>
+no regular military forces; Samoa Police Force (Ministry of Police, Prisons, and Correction Services) (2022)<br>
 
 **Military - note**<br>
-Samoa has no formal defense structure or regular armed forces; informal defense ties exist with NZ, which is required to consider any Samoan request for assistance under the 1962 Treaty of Friendship<br>
+informal defense ties exist with NZ, which is required to consider any Samoan request for assistance under the 1962 Treaty of Friendship<br>
 
 ## Transnational Issues
 

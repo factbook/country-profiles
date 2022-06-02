@@ -613,7 +613,7 @@ _major seaport(s)_: Castries, Cul-de-Sac, Vieux-Fort<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Royal Saint Lucia Police Force (includes Special Service Unit, Marine Unit) (2021)<br>
+no regular military forces; Royal Saint Lucia Police Force (includes Special Service Unit, Marine Unit) (2022)<br>
 
 **Military - note**<br>
 <p>Saint Lucia has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p> (2022)<br>

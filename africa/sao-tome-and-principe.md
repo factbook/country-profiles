@@ -653,7 +653,7 @@ _major seaport(s)_: Sao Tome<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FASTP): Army, Coast Guard of Sao Tome e Principe (Guarda Costeira de Sao Tome e Principe, GCSTP), Presidential Guard, National Guard (2021)<br>
+Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FASTP): Army, Coast Guard of Sao Tome e Principe (Guarda Costeira de Sao Tome e Principe, GCSTP), Presidential Guard, National Guard (2022)<br>
 
 **Military expenditures**<br>
 Not available<br>

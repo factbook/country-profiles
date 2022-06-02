@@ -96,7 +96,7 @@ Japanese<br>
 _major-language sample(s)_: <br>必要不可欠な基本情報の源、ワールド・ファクトブック(Japanese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Shintoism 69%, Buddhism 66.7%, Christianity 1.5%, other 6.2% (2018 est.)<br>
+Shintoism 70.5%, Buddhism 67.2%, Christianity 1.5%, other 5.9% (2019 est.)<br>
 <strong>note:</strong> total adherents exceeds 100% because many people practice both Shintoism and Buddhism<br>
 
 **Age structure**<br>
@@ -692,7 +692,7 @@ Okinawa - Nakagusuku<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSDF; includes aviation), Maritime Self-Defense Force (Kaijou Jieitai, MSDF; includes naval aviation), Air Self-Defense Force (Koukuu Jieitai, ASDF); Japan Coast Guard (Ministry of Land, Transport, Infrastructure and Tourism) (2021)<br>
+Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSDF; includes aviation), Maritime Self-Defense Force (Kaijou Jieitai, MSDF; includes naval aviation), Air Self-Defense Force (Koukuu Jieitai, ASDF); Japan Coast Guard (Ministry of Land, Transport, Infrastructure and Tourism) (2022)<br>
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
@@ -705,7 +705,7 @@ Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSD
 the Japanese Self Defense Force (JSDF) is comprised of approximately 244,000 active personnel (150,000 Ground; 45,000 Maritime; 45,000 Air; 4,000 Joint Forces); 14,000 Coast Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the JSDF is equipped with a mix of imported and domestically-produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically-produced weapons are US-origin and manufactured under license (2021)<br>
+the JSDF is equipped with a mix of imported and domestically-produced equipment; Japan has a robust defense industry and is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically-produced weapons are US-origin and manufactured under license (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women (maximum enlistment age 32); no conscription (2021)<br>
@@ -715,7 +715,7 @@ note - as of 2020, women made up about 7% of the military's full-time personnel<
 approximately 180 Djibouti (2022)<br>
 
 **Military - note**<br>
-<p>Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the current Self Defense Force was founded in 1954</p> <p>in addition to having one of the region’s largest and best equipped militaries, Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; as of 2021, nearly 55,000 US troops and other military assets, including aircraft and naval ships, were stationed in Japan and have exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence<br><br>Japan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+<p>Japan was disarmed after its defeat in World War II; shortly after the Korean War began in 1950, US occupation forces in Japan created a 75,000-member lightly armed force called the National Police Reserve; the current Self Defense Force was founded in 1954</p> <p>in addition to having one of the region’s largest and best equipped militaries, Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; as of 2022, approximately 55,000 US troops and other military assets, including aircraft and naval ships, were stationed in Japan and had exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan; in addition, it pays compensation to localities hosting US troops, rent for bases, and costs for new facilities to support the US presence<br><br>Japan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 

@@ -699,7 +699,7 @@ _river port(s)_: Oskemen (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk) (Irt
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces; Ministry of Internal Affairs: National Police, National Guard, Border Service (includes Coast Guard), Committee for National Security (2021)<br>
+Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces; Ministry of Internal Affairs: National Police; Committee for National Security: Border Service (2022)<br>
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>

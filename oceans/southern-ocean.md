@@ -19,7 +19,7 @@ body of water between 60 degrees south latitude and Antarctica<br>
 Antarctic Region<br>
 
 **Area**<br>
-_total_: 21.960 million sq km<br>
+_total_: 21.96 million sq km<br>
 <strong>note:</strong> includes Amundsen Sea, Bellingshausen Sea, part of the Drake Passage, Ross Sea, a small part of the Scotia Sea, Weddell Sea, and other tributary water bodies<br>
 
 **Area - comparative**<br>
@@ -36,7 +36,7 @@ sea temperatures vary from about 10 degrees Celsius to -2 degrees Celsius; cyclo
 
 **Volume**<br>
 _Ocean volume_: 71.8 million cu km<br>
-_Percent of total ocean volume_: 5.4%<br>
+_Percent of World Ocean total volume_: 5.4%<br>
 
 **Elevation**<br>
 _highest point_: sea level<br>

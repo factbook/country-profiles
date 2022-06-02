@@ -98,7 +98,7 @@ _major-language sample(s)_: <br>World Fackbook, nepostradatelný zdroj základn�
 <strong>note:</strong> includes only persons with one mother tongue<br>
 
 **Religions**<br>
-Roman Catholic 7.4%, Evangelical United Brethren Church 0.3%, Czechoslovak Hussite Church 0.2%, believers unaffiliated with a religious society 90.7%, none 50.5%, unspecified 31.8% (2021 est.)<br>
+Roman Catholic 7%, other believers belonging to a church or religious society 6% (includes Evangelical United Brethren Church and Czechoslovak Hussite Church), believers unaffiliated with a religious society 9.1%, none 47.8%, unspecified 30.1% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 15.17% (male 834,447/female 789,328)<br>
@@ -363,7 +363,7 @@ _email address and website_: <br>washington@embassy.mzv.cz<br><br>https://www.mz
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Jennifer BACHUS (since January 2020)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Michael J. DODMAN (since 29 March 2022)<br>
 _embassy_: Trziste 15, 118 01 Praha 1 - Mala Strana<br>
 _mailing address_: 5630 Prague Place, Washington DC&nbsp; 20521-5630<br>
 _telephone_: [420] 257-022-000<br>

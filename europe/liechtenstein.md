@@ -515,7 +515,7 @@ _by type_: bulk carrier 16, general cargo 1, other 3 (includes Switzerland) (202
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the National Police is responsible for all matters relating to the safety and security of Liechtenstein (2021)<br>
+no regular military forces; the National Police is responsible for all matters relating to the safety and security of Liechtenstein<br>
 
 ## Transnational Issues
 

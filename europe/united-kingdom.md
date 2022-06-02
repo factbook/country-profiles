@@ -364,7 +364,7 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Denver, Houston, Los Angeles, 
 _consulate(s)_: Orlando (FL), San Juan (Puerto Rico)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Philip T. REEKER (since 1 August 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Matthew PALMER<br>
 _embassy_: 33 Nine Elms Lane, London, SW11 7US<br>
 _mailing address_: 8400 London Place, Washington DC&nbsp; 20521-8400<br>
 _telephone_: [44] (0) 20-7499-9000<br>

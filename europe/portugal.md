@@ -347,7 +347,7 @@ Democratic Alliance (2022 electoral alliance in the Azores, includes PSD, CDS-PP
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Domingos Teixeira de Abreu FEZAS VITAL (since 28 January 2016)<br>
+_chief of mission_: Ambassador Francisco Duarte LOPES (since May 2022)<br>
 _chancery_: 2012 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 350-5400; [1] (202) 332-3007<br>
 _FAX_: [1] (202) 462-3726; [1] (202) 387-2768<br>
@@ -356,7 +356,7 @@ _consulate(s) general_: Boston, Newark (NJ), New York, San Francisco<br>
 _consulate(s)_: New Bedford (MA), Providence (RI)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Kristin M. KANE (since January 2021)<br>
+_chief of mission_: Ambassador Randi Charno LEVINE (since 22 April 2022)<br>
 _embassy_: Avenida das Forcas Armadas, 1600-081 Lisboa<br>
 _mailing address_: 5320 Lisbon Place, Washington DC&nbsp; 20521-5320<br>
 _telephone_: [351] (21) 727-3300<br>
@@ -681,8 +681,8 @@ _LNG terminal(s) (import)_: Sines<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP); Portuguese National Republican Guard (Guarda Nacional Republicana, GNR) (2021)<br>
-note - the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Minister of Internal Administration and to the Minister of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces<br>
+Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP); Portuguese National Republican Guard (Guarda Nacional Republicana, GNR) (2022)<br>
+note - the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Ministry of Internal Administration and to the Ministry of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces; the GNR has law enforcement jurisdiction in rural areas, while Public Security Police (also under the Ministry of Internal Administration) has jurisdiction in cities<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
@@ -692,7 +692,7 @@ note - the GNR is a national gendarmerie force comprised of military personnel w
 1.2% of GDP (2017) (approximately $3.62 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Portuguese Armed Forces have approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, inc about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2021)<br>
+the Portuguese Armed Forces have approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, inc about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Portuguese Armed Forces inventory includes mostly European and US-origin weapons systems along with a smaller mix of domestically-produced equipment; since 2010, Germany and the US are the leading suppliers of armaments to Portugal; Portugal's defense industry is primarily focused on shipbuilding (2021)<br>
@@ -702,8 +702,8 @@ the Portuguese Armed Forces inventory includes mostly European and US-origin wea
 note - as of 2019, women made up about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-200 Central African Republic (MINUSCA/EUTM); up to 120 Lithuania (2022)<br>
-note - in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br>
+200 Central African Republic (MINUSCA/EUTM); up to 120 Lithuania (2022)<br><br>note(s) - in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries,  including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
+note(s) - in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s 2022 invasion of Ukraine, some NATO countries,&nbsp; including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Portugal is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>

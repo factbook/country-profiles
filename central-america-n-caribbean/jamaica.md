@@ -653,7 +653,7 @@ _container port(s) (TEUs)_: Kingston (1,647,609) (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cyber Command (includes Coast Guard, Air Wing, Military Intelligence Unit, Special Activities Regiment, and Military Cyber Corps), Support Brigade (logistics, engineers, health service, and military police); Jamaica Constabulary Force (JCF) (2021)<br>
+Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cyber Command (includes Coast Guard, Air Wing, Military Intelligence Unit, Special Activities Regiment, and Military Cyber Corps), Support Brigade (logistics, engineers, health service, and military police); Jamaica Constabulary Force (JCF) (2022)<br>
 note - both the JDF and JCF are under the Ministry of National Security<br>
 
 **Military expenditures**<br>
@@ -673,7 +673,7 @@ the Jamaica Defense Force is lightly armed with a limited inventory featuring eq
 no conscription; 18-23 for voluntary military service (17 with parental consent; 18-28 for the reserves); since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 1-year of service, soldiers can continue on with the JDF or seek other opportunities with law enforcement (2021)<br>
 
 **Military - note**<br>
-<p>as of 2021, the JDF’s primary missions were maritime/border and internal security, including support to police operations to combat crime and violence</p><br>
+<p>as of 2022, the JDF’s primary missions were maritime/border and internal security, including support to police operations to combat crime and violence</p><br>
 
 ## Transnational Issues
 

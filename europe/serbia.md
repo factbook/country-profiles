@@ -699,8 +699,8 @@ _river port(s)_: Belgrade (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Component, consisting of a river flotilla on the Danube), Air and Air Defense Forces, Serbian Guard; Ministry of Interior: Gendarmerie (2021)<br>
-note: the Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff<br>
+Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Component, consisting of a naval flotilla on the Danube), Air and Air Defense Forces, Serbian Guard; Police Directorate of the Serbian Ministry of Interior: Gendarmerie (2022)<br>
+note - the Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff<br>
 
 **Military expenditures**<br>
 1.9% of GDP (2021 est.)<br>
@@ -710,7 +710,7 @@ note: the Guard is a brigade-sized unit that is directly subordinate to the Serb
 1.8% of GDP (2017) (approximately $1.47 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other) (2021)<br>
+information varies; approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other); approximately 3,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Serbian Armed Forces consists of Russian and Soviet-era weapons systems; since 2010, Russia has been the top supplier of military hardware (2021)<br>
@@ -723,7 +723,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 200 Lebanon (UNIFIL) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>Serbia does not aspire to join NATO, but has cooperated with the Alliance since 2006 when it joined the Partnership for Peace program</p><br>
+<p>Serbia does not aspire to join NATO, but has cooperated with the Alliance since 2006 when it joined the Partnership for Peace program; Serbia maintains security ties with Russia</p><br>
 
 ## Transnational Issues
 
@@ -734,7 +734,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 _refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 831,936 estimated refugee and migrant arrivals (January 2015-May 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
+<strong>note:</strong> 835,749 estimated refugee and migrant arrivals (January 2015-May 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

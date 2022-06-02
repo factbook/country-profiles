@@ -307,7 +307,7 @@ _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _etymology_: according to tradition, the name derives from a former fishing area near the present capital - an indigenous village and its adjacent beach - that were called "Panama" meaning "an abundance of fish"<br>
 
 **Administrative divisions**<br>
-10 provinces (provincias, singular - provincia) and 4 indigenous regions* (comarcas); Bocas del Toro, Chiriqui, Cocle, Colon, Darien, Embera-Wounaan*, Guna Yala*, Herrera, Los Santos, Naso Tjer Di*, Ngobe-Bugle*, Panama, Panama Oeste, Veraguas<br>
+10 provinces (provincias, singular - provincia) and 4 indigenous regions* (comarcas); Bocas del Toro, Chiriqui, Cocle, Colon, Darien, Embera-Wounaan*, Guna Yala*, Herrera, Los Santos, Naso Tjer Di*, Ngabe-Bugle*, Panama, Panama Oeste, Veraguas<br>
 
 **Independence**<br>
 3 November 1903 (from Colombia; became independent from Spain on 28 November 1821)<br>
@@ -689,7 +689,7 @@ _container port(s) (TEUs)_: Balboa (2,894,654), Colon (4,379,477) (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Public Security: the Panama National Police (La Policía Nacional de Panamá, PNP), National Air-Naval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2021)<br>
+no regular military forces; Ministry of Public Security: the Panama National Police (La Policía Nacional de Panamá, PNP), National Air-Naval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2022)<br>
 note - the PNP includes paramilitary special forces units for counterterrorism and counternarcotics missions; in addition to its 3 regionally-based border security brigades, SENAFRONT includes a special forces brigade, which is comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>
@@ -700,10 +700,10 @@ note - the PNP includes paramilitary special forces units for counterterrorism a
 1.2% of GDP (2017) (approximately $1.32 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 20,000 National Police; 4,000 National Border Service; 3,000 National Air-Naval Service (2021)<br>
+approximately 20,000 National Police; 4,000 National Border Service; 3,000 National Air-Naval Service (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces since 2010 (2021)<br>
+Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces since 2010 (2022)<br>
 
 **Military - note**<br>
 <p>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution</p><br>

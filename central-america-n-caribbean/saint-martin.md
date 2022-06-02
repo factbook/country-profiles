@@ -336,7 +336,7 @@ nearest airport for international flights is Princess Juliana International Airp
 ## Military and Security
 
 **Military and security forces**<br>
-no armed forces; Saint Martin Police Force (Korps Politie Sint Marteen)&nbsp;<br>
+no armed forces; Saint Martin Police Force (Korps Politie Sint Marteen)<br>
 
 **Military - note**<br>
 defense is the responsibility of France<br>

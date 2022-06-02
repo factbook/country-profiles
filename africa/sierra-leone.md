@@ -671,7 +671,7 @@ _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Command with Land Forces, Maritime Forces, and an Air Wing (2021)<br>
+Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Command with Land Forces, Maritime Forces, and an Air Wing (2022)<br>
 
 **Military expenditures**<br>
 0.3% of GDP (2021 est.)<br>
@@ -690,7 +690,7 @@ the RSLAF's small inventory includes a mix of Soviet-origin and other older fore
 18-29 for voluntary military service; women are eligible to serve; no conscription (2021)<br>
 
 **Military - note**<br>
-<p>after the end of the civil war in 2002, the military was reduced in size and restructured with British military assistance; the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the RWAFF fought in both World Wars</p><br>
+after the end of the civil war in 2002, the military was reduced in size and restructured with British military assistance; the RSLAF&rsquo;s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the RWAFF fought in both World Wars (2022)<br>
 
 ## Transnational Issues
 

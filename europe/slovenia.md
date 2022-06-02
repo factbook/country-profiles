@@ -326,10 +326,10 @@ _residency requirement for naturalization_: 10 years, the last 5 of which have b
 
 **Executive branch**<br>
 _chief of state_: President Borut PAHOR (since 22 December 2012)<br>
-_head of government_: Prime Minister Janez JANSA (since 13 March 2020)<br>
+_head of government_: Prime Minister Robert GOLOB (since 25 May 2022)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second consecutive term); election last held on 22 October with a runoff on 12 November 2017 (next election to be held by November 2022); following National Assembly elections, the leader of the majority party or majority coalition usually nominated prime minister by the president and elected by the National Assembly<br>
-_election results_: <em><br>2017:</em> Borut PAHOR is reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%; Janez JANSA (SDS) elected prime minister on 3 March 2020, National Assembly vote - 52-31<br><br><em>2012:</em> Borut PAHOR elected president; percent of vote in second round - Borut PAHOR (SD) 67.4%, Danilo TURK (independent) 32.6%; note - a snap election was held on 13 July 2014 following the resignation of Prime Minister Alenka BRATUSEK on 5 May 2014; Miro CERAR (SMC) elected prime minister; National Assembly vote - 57 to 11<br>
+_election results_: <em><br>2017:</em> Borut PAHOR is reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%; Robert GOLOB (GS) elected prime minister on 25 May 2022, National Assembly vote - 54-30<br><br><em>2012:</em> Borut PAHOR elected president; percent of vote in second round - Borut PAHOR (SD) 67.4%, Danilo TURK (independent) 32.6%; note - a snap election was held on 13 July 2014 following the resignation of Prime Minister Alenka BRATUSEK on 5 May 2014; Miro CERAR (SMC) elected prime minister; National Assembly vote - 57 to 11<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br>National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
@@ -356,7 +356,7 @@ _email address and website_: <br>vwa@gov.si<br><br>http://www.washington.embassy
 _consulate(s) general_: Cleveland (OH)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Susan K. Falatko&nbsp; (since 20 January 2021)<br>
+_chief of mission_: Ambassador Jamie L. HARPOOTLIAN&nbsp; (since 17 February 2022)<br>
 _embassy_: Presernova 31, 1000 Ljubljana<br>
 _mailing address_: 7140 Ljubljana Place, Washington, DC 20521-7140<br>
 _telephone_: [386] (1) 200-5500<br>
@@ -674,7 +674,7 @@ _major seaport(s)_: Koper<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force with air, land, maritime, special operations, combat support, and combat service support elements (2021)<br>
+Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force with air, land, maritime, special operations, combat support, and combat service support elements (2022)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
@@ -695,9 +695,10 @@ note - as of 2019, women comprised about 15% of the military's full-time personn
 
 **Military deployments**<br>
 200 Kosovo (NATO) (2022)<br>
+note - Slovenia also has about 50 troops in Latvia supporting the NATO forward deployment presence in eastern Europe<br>
 
 **Military - note**<br>
-Slovenia officially became a member of NATO in 2004; Hungary and Italy provide NATO's air policing mission for Slovenia&rsquo;s airspace<br>
+Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air policing mission for Slovenia&rsquo;s airspace (2022)<br>
 
 ## Transnational Issues
 

@@ -620,12 +620,13 @@ note - the Armed Forces also have Military Police and Armed Forces Reserve comma
 
 **Military and security service personnel strengths**<br>
 the Taiwan military has approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2021)<br>
+note - Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; since 2010, the US continued to be the largest provider of arms; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface naval craft and submarines (2021)<br>
 
 **Military service age and obligation**<br>
-starting with those born in 1994, males 18-36 years of age may volunteer for military service or must complete 4 months of compulsory military training (or substitute civil service in some cases); men born before December 1993 are required to complete compulsory service for 1 year (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist, but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military in December 2018, the last cohort of one-year military conscripts completed their service obligations (2021)<br>
+starting with those born in 1994, males 18-36 years of age may volunteer for military service or must complete 4 months of compulsory military training (5 weeks of basic training followed by 11 weeks of specialized training with field units); civil service can be substituted for military service in some cases; men born before December 1993 are required to complete compulsory service for 1 year (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist, but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military in December 2018, the last cohort of one-year military conscripts completed their service obligations (2022)<br>
 note - as of 2021, women made up about 15% of the active duty military<br>
 
 **Military - note**<br>

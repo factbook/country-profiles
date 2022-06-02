@@ -671,7 +671,7 @@ _major seaport(s)_: Paramaribo, Wageningen<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2021)<br>
+Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2022)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2019 est.) (approximately $100 million)<br>
@@ -681,7 +681,7 @@ Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2021
 1.4% of GDP (2015 est.) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Suriname Army is comprised of approximately 2,000 active personnel (ground, air, naval, and military police) (2021)<br>
+approximately 2,000 total personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; since 2010, Suriname has received small quantities of military hardware from several countries, including the US (2021)<br>
@@ -690,7 +690,7 @@ the Suriname Army has a limited inventory comprised of a mix of older, foreign-s
 18 is the legal minimum age for voluntary military service; no conscription (2021)<br>
 
 **Military - note**<br>
-<p>as of 2021, a key mission of the National Leger was assisting the Suriname police as part of the government’s overall efforts to secure the country’s borders and combat crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams</p><br>
+key missions for the National Leger include border control and supporting domestic security; the military police has direct responsibility for immigration control at the country&rsquo;s ports of entry; in addition, the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams (2022)<br>
 
 ## Transnational Issues
 

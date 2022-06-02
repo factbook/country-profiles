@@ -373,7 +373,7 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los A
 _trade office(s)_: Houston, Palo Alto (CA), San Diego; note - there are trade offices in the Consulates General<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador David COHEN (since December 2021)<br>
+_chief of mission_: Ambassador David L. COHEN (since December 2021)<br>
 _embassy_: 490 Sussex Drive, Ottawa, Ontario K1N 1G8<br>
 _mailing address_: 5480 Ottawa Place, Washington DC&nbsp; 20521-5480<br>
 _telephone_: [1] (613) 238-5335<br>

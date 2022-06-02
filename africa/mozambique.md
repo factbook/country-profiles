@@ -713,7 +713,7 @@ _major seaport(s)_: Beira, Maputo, Nacala<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force<br><br>other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals (2021)<br>
+Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force<br><br>other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals (2022)<br>
 note - the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br>
 
 **Military expenditures**<br>
@@ -733,7 +733,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although since 
 registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2021)<br>
 
 **Military - note**<br>
-the Government of Mozambique is facing an insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of 2022, the fighting had left an estimated 3,000 dead and over 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of early 2022, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US were providing various forms of military assistance; African countries have provided approximately 3,000 troops<br>
+the Government of Mozambique is facing an insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of 2022, the fighting had left an estimated 3,000 dead and over 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of 2022, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US were providing various forms of military assistance; African countries have provided approximately 3,100 troops<br>
 
 ## Terrorism
 
@@ -747,7 +747,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,866 (Democratic Republic of Congo) (refugees and asylum seekers), 8,558 (Burundi) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 10,911 (Democratic Republic of Congo) (refugees and asylum seekers), 8,558 (Burundi) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 881,047 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>

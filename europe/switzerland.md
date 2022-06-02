@@ -693,7 +693,7 @@ _river port(s)_: Basel (Rhine)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2021)<br>
+Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2022)<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
@@ -713,10 +713,10 @@ the Swiss Armed Forces inventory includes a mix of domestically-produced and imp
 note - conscientious objectors can choose 390 days of community service instead of military service<br>
 
 **Military deployments**<br>
-190 Kosovo (NATO/KFOR) (2022)<br>
+up to 165 Kosovo (NATO/KFOR) (2022)<br>
 
 **Military - note**<br>
-<p>Switzerland has long maintained a policy of military neutrality, but does occasionally participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military operations; Swiss law excludes participation in combat operations for peace enforcement, and Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo peace-support force (KFOR) in 1999 and as of 2021, continued doing so with about 165 personnel; Switzerland also provided a small number of staff officers to the NATO mission in Afghanistan from 2004-2007</p><br>
+<p>Switzerland has long maintained a policy of military neutrality, but does periodically participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military operations; Swiss law excludes participation in combat operations for peace enforcement, and Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo peace-support force (KFOR) in 1999 and as of 2022, continued doing so with up to 165 personnel; Switzerland also provided a small number of staff officers to the NATO mission in Afghanistan from 2004-2007</p><br>
 
 ## Terrorism
 

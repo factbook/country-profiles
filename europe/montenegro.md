@@ -687,7 +687,7 @@ _major seaport(s)_: Bar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Armed Forces of the Republic of Montenegro: joint force with land, air, and naval elements (2021)<br>
+the Armed Forces of the Republic of Montenegro: joint force with land, air, and naval elements (2022)<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
@@ -707,7 +707,7 @@ the inventory of the Armed Forces of Montenegro is small and consists mostly of 
 note - as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military - note**<br>
-Montenegro officially became a member of NATO in 2017; Greece and Italy provide NATO's air policing mission for Montenegro<br>
+Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provided NATO's air policing mission for Montenegro<br>
 
 ## Terrorism
 
@@ -718,7 +718,7 @@ Montenegro officially became a member of NATO in 2017; Greece and Italy provide 
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 21,484 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
+<strong>note:</strong> 21,666 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

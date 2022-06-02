@@ -679,7 +679,7 @@ _lake port(s)_: Cyangugu, Gisenyi, Kibuye (Lake Kivu)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Rwanda Defense Force (RDF): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force, Special Units (2021)<br>
+Rwanda Defense Force (RDF; Ingabo z&rsquo;u Rwanda): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force, Special Units (2022)<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
@@ -701,7 +701,7 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 2,450 (plus about 500 police) Central African Republic (approximately 1,700 for MINUSCA; an additional 750 sent bilaterally in August, 2021); 1,000 Mozambique (deployed mid-2021 to assist with combating insurgency); 2,600 (plus about 400 police) South Sudan (UNMISS) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of late 2021, over 5,000 RDF personnel were deployed on missions in the African countries of the Central African Republic, Mozambique, and South Sudan</p><br>
+<p>the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers<br><br>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of 2022, over 5,000 RDF personnel were deployed on missions in Africa</p><br>
 
 ## Transnational Issues
 

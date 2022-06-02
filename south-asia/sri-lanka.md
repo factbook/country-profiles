@@ -691,7 +691,7 @@ _container port(s) (TEUs)_: Colombo (7,228,337) (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy (includes Marine Corps), Sri Lanka Air Force, Sri Lanka Coast Guard; Civil Security Department (Home Guard); Sri Lanka National Police: Special Task Force (counter-terrorism and counter-insurgency) (2021)<br>
+Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy (includes Marine Corps), Sri Lanka Air Force, Sri Lanka Coast Guard; Civil Security Department (Home Guard); Sri Lanka National Police: Special Task Force (a paramilitary unit responsible for counter-terrorism and counter-insurgency operations) (2022)<br>
 
 **Military expenditures**<br>
 1.9% of GDP (2021 est.)<br>
@@ -701,7 +701,7 @@ Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy
 2.2% of GDP (2017 est.) (approximately $6.07 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Sri Lankan military has approximately 250,000 total personnel (180,000 Army; 40,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force (2021)<br>
+approximately 240,000 total personnel (170,000 Army; 40,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Sri Lankan military inventory consists mostly of Chinese and Russian-origin equipment; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2021)<br>
@@ -713,7 +713,7 @@ the Sri Lankan military inventory consists mostly of Chinese and Russian-origin 
 110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>Sri Lanka traditionally has had close security ties to India; India participated in the counter-insurgency war against the LTTE from 1987-1991, losing over 1,000 soldiers in the conflict; as of 2021, the Sri Lankan and Indian militaries continued to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; however, since the end of the war with LTTE, Sri Lanka has also increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training</p><br>
+Sri Lanka traditionally has had close security ties to India; India participated in the counter-insurgency war against the LTTE from 1987-1991, losing over 1,000 soldiers in the conflict; the Sri Lankan and Indian militaries continue to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; however, since the end of the war with LTTE, Sri Lanka has also increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training (2022)<br>
 
 ## Terrorism
 

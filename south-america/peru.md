@@ -730,7 +730,7 @@ _river port(s)_: Iquitos, Pucallpa, Yurimaguas (Amazon)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and Coast Guard), Air Force of Peru (Fuerza Aerea del Peru, FAP); Ministry of the Interior (Ministerio del Interior): Peruvian National Police (Polic&iacute;a Nacional del Per&uacute;, PNP) (2021)<br>
+Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and Coast Guard), Air Force of Peru (Fuerza Aerea del Peru, FAP); Ministry of the Interior (Ministerio del Interior): Peruvian National Police (Polic&iacute;a Nacional del Per&uacute;, PNP) (2022)<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
@@ -753,7 +753,7 @@ note - as of 2019, women made up about 10% of the active duty military<br>
 210 Central African Republic (MINUSCA) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>as of 2021, the Peruvian security forces continued to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military had approximately 8,000-10,000 troops in the VRAEM under a special combined military-police command, including 3 army infantry battalions</p><br>
+the Peruvian security forces continued to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military had approximately 8,000-10,000 troops in the VRAEM under a combined Special Command comprised of air, ground, naval, police, and special forces units (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2021, 18 attacks against commercial vessels were reported, a more than 50% increase over the eight attacks in 2020; all of these occurred in the main port of Callao while ships were berthed or at anchor<br>

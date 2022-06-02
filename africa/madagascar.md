@@ -684,7 +684,7 @@ _major seaport(s)_: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (T
 ## Military and Security
 
 **Military and security forces**<br>
-People's Armed Forces: Army, Navy, Air Force; National Gendarmerie (operates under the Ministry of Defense); Ministry of Public Security: National Police (2021)<br>
+People's Armed Forces: Army, Navy, Air Force; National Gendarmerie (operates under the Ministry of Defense); Ministry of Public Security: National Police (2022)<br>
 note - the National Gendarmerie is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police is responsible for maintaining law and order in urban areas<br>
 
 **Military expenditures**<br>
@@ -701,10 +701,10 @@ approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); est. 10,0
 the PAF's inventory consists mostly of aging Soviet-era equipment; since 2010, it has received limited amounts of second-hand equipment from France, South Africa, and UAE (2021)<br>
 
 **Military service age and obligation**<br>
-Madagascar has an all-volunteer military; 18-25 years of age for males; service obligation 18 months; women are permitted to serve in all branches (2021)<br>
+18-25 years of age for males; service obligation 18 months; no conscription; women are permitted to serve in all branches (2021)<br>
 
 **Military - note**<br>
-<p>one of the military’s duties is assisting the gendarmerie with maintaining law and order in rural areas, particularly in areas affected by banditry, cattle rustling (cattle thieves are known as <em>dahalo</em>), and criminal groups (2021)</p><br>
+one of the military’s duties is assisting the gendarmerie with maintaining law and order in rural areas, particularly in areas affected by banditry, cattle rustling (cattle thieves are known as <em>dahalo</em>), and criminal groups (2022)<br>
 
 ## Transnational Issues
 

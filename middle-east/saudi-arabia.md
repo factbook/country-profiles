@@ -687,7 +687,7 @@ _container port(s) (TEUs)_: Ad Dammam (1,822,642), Jeddah (4,433,991), King Abdu
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard (SANG); Ministry of Interior: police, Border Guard, Facilities Security Force; State Security Presidency: General Directorate of Investigation (Mabahith), Special Security Forces, Special Emergency Forces (2021)<br>
+Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard (SANG); Ministry of Interior: police, Border Guard, Facilities Security Force; State Security Presidency: General Directorate of Investigation (Mabahith), Special Security Forces, Special Emergency Forces (2022)<br>
 note - SANG (also known as the White Army) is a land force separate from the Ministry of Defense that is responsible for internal security, protecting the royal family, and external defense<br>
 
 **Military expenditures**<br>
@@ -708,10 +708,10 @@ the inventory of the Saudi military forces, including the SANG, includes a mix o
 17-40 for men; no conscription; as of 2021, women (aged 18-40) were allowed to serve in the Army, Air Defense, Navy, Strategic Missile Force, medical services, and internal security forces up to the rank of non-commissioned officer (2021)<br>
 
 **Military deployments**<br>
-est. 2,500-5,000 Yemen (varies depending on operations, which continued into 2022) (2022)<br>
+est. 2,500-5,000 Yemen (varies depending on operations) (2022)<br>
 
 **Military - note**<br>
-<p>in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in support of the Republic of Yemen Government against the separatist Huthis; as of 2022, the coalition (consisting largely of Saudi forces) and the Huthis continued to engage in fighting, mostly with air and missile forces, although heavy ground fighting was also reportedly taking place over the key province of Marib; the Saudis have conducted numerous air strikes in northern Yemen, while the Huthis have launched attacks into Saudi territory with ballistic missiles and unmanned aerial vehicles armed with explosives; the Saudi-led coalition controlled the country’s airspace and the port of Hodeida; Saudi Arabia also has raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border, especially the areas bordering the governorates of Saada and Al-Jawf</p><br>
+<p>in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in support of the Republic of Yemen Government against the separatist Huthis; as of 2022, the coalition (consisting largely of Saudi forces) and the Huthis continued to engage in fighting, mostly with air and missile forces, although  ground fighting was also reportedly taking place over the key province of Marib; the Saudis have conducted numerous air strikes in northern Yemen, while the Huthis have launched attacks into Saudi territory with ballistic missiles and unmanned aerial vehicles armed with explosives; the Saudi-led coalition controlled the country’s airspace and the port of Hodeida; Saudi Arabia also has raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border, especially the areas bordering the governorates of Saada and Al-Jawf</p><br>
 
 ## Terrorism
 

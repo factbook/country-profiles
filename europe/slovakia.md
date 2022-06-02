@@ -89,15 +89,15 @@ _noun_: Slovak(s)<br>
 _adjective_: Slovak<br>
 
 **Ethnic groups**<br>
-Slovak 80.7%, Hungarian 8.5%, Romani 2%, other 1.8% (includes Czech, Ruthenian, Ukrainian, Russian, German, Polish), unspecified 7% (2011 est.)<br>
+Slovak 83.8%, Hungarian 7.8%, Romani 1.2%, other 1.8% (includes Czech, Ruthenian, Ukrainian, Russian, German, Polish), unspecified 5.4% (2021 est.)<br>
 <strong>note:</strong> data represent population by nationality; Romani populations are usually underestimated in official statistics and may represent 7–11% of Slovakia's population<br>
 
 **Languages**<br>
-Slovak (official) 78.6%, Hungarian 9.4%, Roma 2.3%, Ruthenian 1%, other or unspecified 8.8% (2011 est.)<br>
+Slovak (official) 81.8%, Hungarian 8.5%, Roma 1.8%, other 2.2%, unspecified 5.7% (2021 est.)<br>
 _major-language sample(s)_: <br>Svetova Kniha Faktov, nenahraditelny zdroj zakladnej informacie. (Slovak)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 62%, Protestant 8.2%, Greek Catholic 3.8%, other or unspecified 12.5%, none 13.4% (2011 est.)<br>
+Roman Catholic 55.8%, Evangelical Church of the Augsburg Confession 5.3%, Greek Catholic 4%, Reformed Christian 1.6%, other 3%, none 23.8%, unspecified 6.5% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 15.13% (male 423,180/female 400,128)<br>
@@ -356,7 +356,7 @@ _email address and website_: <br>emb.washington@mzv.sk<br><br>https://www.mzv.sk
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Bridget A. BRINK (since 20 August 2019)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Nicholas NAMBA (since May 2022)<br>
 _embassy_: P.O. Box 309, 814 99 Bratislava<br>
 _mailing address_: 5840 Bratislava Place, Washington DC&nbsp; 20521-5840<br>
 _telephone_: [421] (2) 5443-3338<br>
@@ -674,7 +674,7 @@ _river port(s)_: Bratislava, Komarno (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land Forces (Slovenské Pozemné Sily), Air Forces (Slovenské Vzdušné Sily), Special Operations Forces (Sily Pre Speciálne Operácie) (2021)<br>
+Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land Forces (Slovenské Pozemné Sily), Air Forces (Slovenské Vzdušné Sily), Special Operations Forces (Sily Pre Speciálne Operácie) (2022)<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
@@ -684,7 +684,7 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land 
 1.1% of GDP (2017) (approximately $1.51 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of the Slovak Republic have approximately 13,000 active duty personnel (6,000 Land Forces; 4,000 Air Forces; 3,000 other, including staff, special operations, and support forces) (2021)<br>
+approximately 15,000 active duty personnel (8,000 Land Forces; 4,000 Air Forces; 3,000 other, including staff, special operations, and support forces) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Slovakian military consists mostly of Soviet-era platforms; since 2010, it has imported limited quantities of equipment, particularly from Italy and the US (2021)<br>
@@ -697,7 +697,7 @@ note - as of 2019, women made up around 12% of the military's full-time personne
 240 Cyprus (UNFICYP); up to 150 Latvia (NATO); 250 Slovakia (NATO) (2022)<br>
 
 **Military - note**<br>
-Slovakia officially became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host a NATO ground force battlegroup comprised of troops from Czechia, Germany, the Netherlands, Poland, Slovakia, Slovenia, and the US<br>
+Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host a NATO ground force battlegroup comprised of troops from Czechia, Germany, the Netherlands, Poland, Slovakia, Slovenia, and the US<br>
 
 ## Transnational Issues
 
@@ -705,7 +705,7 @@ Slovakia officially became a member of NATO in 2004<br><br>in 2022, Slovakia agr
 <p>bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 446,755 (Ukraine) (as of 24 May 2022)<br>
+_refugees (country of origin)_: 461,164 (Ukraine) (as of 29 May 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

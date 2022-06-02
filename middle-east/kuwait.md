@@ -658,8 +658,8 @@ _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'A
 ## Military and Security
 
 **Military and security forces**<br>
-Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Brigade; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2021)<br>
-note(s) - the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the Kuwaiti National Guard reports directly to the prime minister and amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior<br>
+Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Brigade; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2022)<br>
+note(s) - the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the Kuwaiti National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br>
 
 **Military expenditures**<br>
 6.8% of GDP (2021 est.)<br>
@@ -679,7 +679,7 @@ the inventory of the Kuwaiti Armed Forces consists of weapons from a wide variet
 &nbsp;<br>
 
 **Military - note**<br>
-Kuwait has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>
+Kuwait has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
 
 ## Transnational Issues
 

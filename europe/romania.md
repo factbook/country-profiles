@@ -694,7 +694,7 @@ _river port(s)_: Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube R
 ## Military and Security
 
 **Military and security forces**<br>
-Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Internal Affairs: Romanian Gendarmerie (2021)<br>
+Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Internal Affairs: Romanian Gendarmerie (2022)<br>
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
@@ -704,7 +704,7 @@ Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Interna
 1.7% of GDP (2017) (approximately $6.2 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Romanian Armed Forces have approximately 67,000 active duty personnel (50,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2021)<br>
+approximately 67,000 active duty personnel (50,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Romanian Armed Forces is comprised mostly of Soviet-era and older domestically-produced weapons systems; there is also a smaller mix of Western-origin equipment received in more recent years from European countries and the US&nbsp; (2021)<br>
@@ -716,7 +716,7 @@ conscription ended 2006; 18 years of age for male and female voluntary service; 
 up to 120 Poland (NATO) (2022)<br>
 
 **Military - note**<br>
-Romania officially became a member of NATO in 2004<br><br>Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 <br><br>Romania hosts a NATO multinational divisional (Multinational Division Southeast; became operational in 2017) and a brigade-sized headquarters as part of NATO's tailored forward presence in the southeastern part of the Alliance<br>
+Romania became a member of NATO in 2004<br><br>Romania conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Romanian Air Force since 2014 <br><br>Romania hosts a NATO multinational divisional (Multinational Division Southeast; became operational in 2017) and a brigade-sized headquarters as part of NATO's tailored forward presence in the southeastern part of the Alliance (2022)<br>
 
 ## Terrorism
 
@@ -730,9 +730,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 972,203 (Ukraine) (as of 24 May 2022)<br>
+_refugees (country of origin)_: 989,357 (Ukraine) (as of 27 May 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 9,935 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
+<strong>note:</strong> 10,012 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

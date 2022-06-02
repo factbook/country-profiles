@@ -376,7 +376,7 @@ _email address and website_: <br>emb.washington@maec.es<br><br>http://www.exteri
 _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco, San Juan (Puerto Rico)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Conrad TRIBBLE (since 20 January 2021) note - also accredited to Andorra<br>
+_chief of mission_: Ambassador Julissa REYNOSO (since 2 February 2022); note - also accredited to Andorra<br>
 _embassy_: Calle de Serrano, 75, 28006 Madrid<br>
 _mailing address_: 8500 Madrid Place, Washington DC&nbsp; 20521-8500<br>
 _telephone_: [34] (91) 587-2200<br>
@@ -705,7 +705,7 @@ _river port(s)_: Seville (Guadalquivir River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, AE, includes Marine Corps), Spanish Air Force (Ejercito del Aire Espanola, EdA); Civil Guard (Guardia Civil) (2021)<br>
+Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, AE, includes Marine Corps), Spanish Air Force (Ejercito del Aire Espanola, EdA); Civil Guard (Guardia Civil) (2022)<br>
 note - the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br>
 
 **Military expenditures**<br>
@@ -746,7 +746,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 6,.92 (mid-year 2021)<br>
-<strong>note: </strong>259,324 estimated refugee and migrant arrivals, including Canary Islands (January 2015-May 2022)<br>
+<strong>note: </strong>260,027 estimated refugee and migrant arrivals, including Canary Islands (January 2015-May 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

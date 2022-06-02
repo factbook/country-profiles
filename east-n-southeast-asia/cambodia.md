@@ -357,9 +357,9 @@ _cabinet_: Council of Ministers named by the prime minister and appointed by the
 _elections/appointments_: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition named prime minister by the Chairman of the National Assembly and appointed by the monarch<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br> National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: <br> Senate - last held on 25 February 2018 (next to be held in 2024); National Assembly - last held on 29 July 2018 (next to be held in 2023)<br>
-_election results_: <strong> </strong><br> Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; composition - men 53, women 9, percent of women 14.5%<br> National Assembly - percent of vote by party - CPP 76.9%, FUNCINPEC 5.9%, LDP 4.9%, Khmer Will Party 3.4%, other 8.9%; seats by party - CPP 125; composition - men 100, women 25, percent of women 20%; note - total Parliament of Cambodia percent of women 18.2%<br>
+_description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br>National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
+_elections_: <br>Senate - last held on 25 February 2018 (next to be held in 2024); National Assembly - last held on 29 July 2018 (next to be held in July 2023)<br>
+_election results_: <strong> </strong><br>Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; composition - men 53, women 9, percent of women 14.5%<br>National Assembly - percent of vote by party - CPP 76.9%, FUNCINPEC 5.9%, LDP 4.9%, Khmer Will Party 3.4%, other 8.9%; seats by party - CPP 125; composition - men 100, women 25, percent of women 20%; note - total Parliament of Cambodia percent of women 18.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2021<br>
@@ -716,7 +716,7 @@ Royal Cambodian Armed Forces: Royal Cambodian Army, Royal Khmer Navy, Royal Camb
 information varies; approximately 100,000 total active troops including about 3,000 Navy and 1,000 Air Force; est. 10,000 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Royal Cambodian Armed Forces are armed largely with older Chinese and Russian-origin equipment; since 2010, it has received limited amounts of more modern (mostly second-hand) equipment from a variety of suppliers, led by China and Ukraine (2021)<br>
+the Royal Cambodian Armed Forces are armed largely with older Chinese and Russian-origin equipment; since 2010, it has received limited amounts of more modern equipment from a variety of suppliers, led by China (2021)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory and voluntary military service (conscription only selectively enforced since 1993); women may volunteer (2021)<br>

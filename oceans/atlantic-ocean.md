@@ -36,7 +36,7 @@ tropical cyclones (hurricanes) develop off the coast of Africa near Cabo Verde a
 
 **Volume**<br>
 _Ocean volume_: 310,410,900 cu km<br>
-_Percent of total ocean volume_: 23.3%<br>
+_Percent of World Ocean total volume_: 23.3%<br>
 
 **Elevation**<br>
 _highest point_: sea level<br>

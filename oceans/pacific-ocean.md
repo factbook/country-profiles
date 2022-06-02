@@ -19,7 +19,7 @@ body of water between the Southern Ocean, Asia, Australia, and the Western Hemis
 Political Map of the World<br>
 
 **Area**<br>
-_total_: 161.760 million sq km<br>
+_total_: 168.723 million sq km<br>
 <strong>note:</strong> includes Arafura Sea, Bali Sea, Banda Sea, Bering Sea, Bering Strait, Celebes Sea, Coral Sea, East China Sea, Flores Sea, Gulf of Alaska, Gulf of Thailand, Gulf of Tonkin, Java Sea, Philippine Sea, Sea of Japan, Sea of Okhotsk, Solomon Sea, South China Sea, Sulu Sea, Tasman Sea, and other tributary water bodies<br>
 
 **Area - comparative**<br>
@@ -35,8 +35,8 @@ planetary air pressure systems and resultant wind patterns exhibit remarkable un
 <p>surface dominated by two large gyres (broad, circular systems of currents), one in the northern Pacific and another in the southern Pacific; in the northern Pacific, sea ice forms in the Bering Sea and Sea of Okhotsk in winter; in the southern Pacific, sea ice from Antarctica reaches its northernmost extent in October; the ocean floor in the eastern Pacific is dominated by the East Pacific Rise, while the western Pacific is dissected by deep trenches, including the Mariana Trench, which is the world's deepest at 10,924 m</p> <p><strong>major surface currents:</strong> clockwise North Pacific Gyre formed by the warm northward flowing Kuroshio Current in the west, the eastward flowing North Pacific Current in the north, the southward flowing cold California Current in the east, and the westward flowing North Equatorial Current in the south; the counterclockwise South Pacific Gyre composed of the southward flowing warm East Australian Current in the west, the eastward flowing South Pacific Current in the south, the northward flowing cold Peru (Humbolt) Current in the east, and the westward flowing South Equatorial Current in the north</p><br>
 
 **Volume**<br>
-_Ocean volume_: 660 million cu km<br>
-_Percent of total ocean volume_: 50.1%<br>
+_Ocean volume_: 669.88 million cu km<br>
+_Percent of World Ocean total volume_: 50.1%<br>
 
 **Elevation**<br>
 _highest point_: sea level<br>

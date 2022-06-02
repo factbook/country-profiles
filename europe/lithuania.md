@@ -93,7 +93,7 @@ Lithuanian (official) 85.3%, Russian 6.8%, Polish 5.1%, other 1.1%, two mother t
 _major-language sample(s)_: <br>Pasaulio enciklopedija – naudingas bendrosios informacijos šaltinis. (Lithuanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 74.2%, Russian Orthodox 3.7%, Old Believer 0.6%, Evangelical Lutheran 0.6%, Evangelical Reformist 0.2%, other (including Sunni Muslim Jewish, Greek Catholic, and Karaite) 0.9 , none 6.1%, unspecified 13.7% (2021 est.)<br>
+Roman Catholic 74.2%, Russian Orthodox 3.7%, Old Believer 0.6%, Evangelical Lutheran 0.6%, Evangelical Reformist 0.2%, other (including Sunni Muslim Jewish, Greek Catholic, and Karaite) 0.9%, none 6.1%, unspecified 13.7% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 15.26% (male 213,802/female 202,948)<br>
@@ -690,7 +690,7 @@ _LNG terminal(s) (import)_: Klaipeda<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos Pajegos), Naval Forces (Karines Juru Pajegos), Air Forces (Karines Oro Pajegos), Special Operations Forces (Specialiuju Operaciju Pajegos); National Defense Volunteer Forces (Savanoriu Pajegos); National Riflemen's Union (paramilitary force that acts as an additional reserve force) (2021)<br>
+Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos Pajegos), Naval Forces (Karines Juru Pajegos), Air Forces (Karines Oro Pajegos), Special Operations Forces (Specialiuju Operaciju Pajegos); National Defense Volunteer Forces (Savanoriu Pajegos); National Riflemen's Union (paramilitary force that acts as an additional reserve force) (2022)<br>
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
@@ -713,7 +713,7 @@ note(s) - Lithuania conscripts up to 4,000 males each year; conscripts are selec
 contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units (2022)<br>
 
 **Military - note**<br>
-Lithuania officially became a member of NATO in 2004<br> <p>since 2017, Lithuania has hosted a German-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative</p> <p>NATO also has provided air protection for Lithuania since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base</p><br>
+Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hosted a German-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; NATO also has provided air protection for Lithuania since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base (2022)</p><br>
 
 ## Transnational Issues
 

@@ -36,7 +36,7 @@ polar climate characterized by persistent cold and relatively narrow annual temp
 
 **Volume**<br>
 _Ocean volume_: 18.75 million cu km<br>
-_Percent of total ocean volume_: 1.4%<br>
+_Percent of World Ocean total volume_: 1.4%<br>
 
 **Elevation**<br>
 _highest point_: sea level<br>

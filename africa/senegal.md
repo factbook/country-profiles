@@ -709,7 +709,7 @@ _major seaport(s)_: Dakar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Senegalese Armed Forces (Forces Armées Sénégalaises, FAS): Army, Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (Armee de l'Air du Senegal), National Gendarmerie (includes Territorial and Mobile components); Ministry of Interior: National Police (2021)<br>
+Senegalese Armed Forces (Forces Armées Sénégalaises, FAS): Army, Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (Armee de l'Air du Senegal), National Gendarmerie (includes Territorial and Mobile components); Ministry of Interior: National Police (2022)<br>
 note - the National Police operates in major cities, while the Gendarmerie primarily operates outside urban areas<br>
 
 **Military expenditures**<br>
@@ -730,10 +730,9 @@ the FAS inventory includes mostly older or second-hand equipment from a variety 
 
 **Military deployments**<br>
 750 Gambia (ECOMIG); 970 Mali (MINUSMA); note - Senegal also has about 1,100 police deployed on various UN peacekeeping missions (2022)<br>
-note - in 2021, Senegal also had over 700 police deployed on UN missions<br>
 
 **Military - note**<br>
-<p>Senegalese security forces continued to be engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance; while violent incidents have decreased since a tacit cease-fire was reached in 2012, the insurgency, which began in 1982, remains one of longest running low-level conflicts in the world, claiming more than 5,000 lives and leaving another 60,000 displaced</p><br>
+<p>as of 2022, Senegalese security forces continued to be engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance; while violent incidents have decreased since a tacit cease-fire was reached in 2012, the insurgency, which began in 1982, continues and remains one of longest running low-level conflicts in the world, claiming more than 5,000 lives and leaving another 60,000 displaced</p><br>
 
 ## Terrorism
 

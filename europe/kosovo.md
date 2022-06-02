@@ -599,7 +599,8 @@ _unpaved_: 91 km (2015)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Kosovo Security Force (KSF): Land Force Command; Logistics Command; Doctrine and Training Command; National Guard Command (2021)<br>
+Kosovo Security Force (KSF): Land Force Command; Logistics Command; Doctrine and Training Command; National Guard Command (2022)<br>
+as of 2022, the Kosovo Government continued the process of transitioning the KSF into a multi-ethnic territorial defense force, in accordance with a 10-year plan which began in 2019<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
@@ -618,7 +619,7 @@ the KSF is equipped with small arms and light vehicles only; it relies on donati
 service is voluntary; must be over the age of 18 and a citizen of Kosovo; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2021)<br>
 
 **Military - note**<br>
-the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support force since 1999; as of 2021, it numbered about 3,500 troops; KFOR also assists in developing the Kosovo Security Force<br>
+the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support force since 1999; KFOR is responsible for providing a safe and secure environment and ensuring freedom of movement for all citizens, as well as assisting in developing the Kosovo Security Force; as of 2022, it numbered about 3,700 troops from 28 countries<br>
 
 ## Transnational Issues
 

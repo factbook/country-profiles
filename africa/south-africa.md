@@ -383,7 +383,7 @@ _email address and website_: <br>https://www.saembassy.org/<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Todd P. HASKELL (since March 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Heather MERRITT (since April 2022)<br>
 _embassy_: 877 Pretorius Street, Arcadia, Pretoria<br>
 _mailing address_: 9300 Pretoria Place, Washington DC&nbsp; 20521-9300<br>
 _telephone_: [27] (12) 431-4000<br>
@@ -709,7 +709,7 @@ _LNG terminal(s) (import)_: Mossel Bay<br>
 ## Military and Security
 
 **Military and security forces**<br>
-South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services; South African Police Service (includes Special Task Force for counterterrorism, counterinsurgency, and hostage rescue operations) (2021)<br>
+South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services<br><br>the South African Police Service includes a Special Task Force for counterterrorism, counterinsurgency, and hostage rescue operations (2022)<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>

@@ -674,7 +674,7 @@ _LNG terminal(s) (import)_: Fredrikstad, Mosjoen<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Norwegian Armed Forces:&nbsp; Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Norwegian Special Forces, Norwegian Cyber Defense Force, Home Guard (Heimevernet, HV) (2021)<br>
+Norwegian Armed Forces: Norwegian Army (Haeren), Royal Norwegian Navy (Kongelige Norske Sjoeforsvaret; includes Coastal Rangers and Coast Guard (Kystvakt)), Royal Norwegian Air Force (Kongelige Norske Luftforsvaret), Norwegian Special Forces, Norwegian Cyber Defense Force, Home Guard (Heimevernet, HV) (2022)<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>
@@ -684,7 +684,7 @@ Norwegian Armed Forces:&nbsp; Norwegian Army (Haeren), Royal Norwegian Navy (Kon
 1.6% of GDP (2017) (approximately $7.11 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Norwegian Armed Forces have approximately 23,000 active personnel (8,500 Army; 3,500 Navy; 3,500 Air Force; 7,500 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); 40,000 Home Guard (2021)<br>
+the Norwegian Armed Forces have approximately 23,000 active personnel (8,000 Army; 4,000 Navy; 4,000 Air Force; 7,000 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); approximately 40,000 Home Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Norwegian Armed Forces inventory includes mostly imported European and US weapons systems, as well as a limited mix of domestically-produced equipment, particularly small naval craft and surface-to-air missile systems; since 2010, the US is the leading supplier of weapons systems to Norway (2021)<br>
@@ -697,7 +697,7 @@ note(s) - Norway conscripts about 8,000 individuals annually; Norway was the fir
 up to 150 Lithuania (NATO) (2022)<br>
 
 **Military - note**<br>
-Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p> (2021)<br>
+Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p> (2022)<br>
 
 ## Transnational Issues
 

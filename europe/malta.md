@@ -655,7 +655,7 @@ _container port(s) (TEUs)_: Marsaxlokk (2,722,889) (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Malta (AFM, includes land, maritime, and air elements, plus a Volunteer Reserve Force) (2021)<br>
+Armed Forces of Malta (AFM, includes land, maritime, and air elements, plus a Volunteer Reserve Force) (2022)<br>
 
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>

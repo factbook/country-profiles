@@ -683,7 +683,7 @@ _major seaport(s)_: Riga, Ventspils<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (2021)<br>
+National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (2022)<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
@@ -706,7 +706,7 @@ note - as of 2019, women comprised about 16% of the military's full-time personn
 130 Kosovo (KFOR/NATO) (2022)<br>
 
 **Military - note**<br>
-Latvia officially became a member of NATO in 2004<br> <p>since 2017, Latvia has hosted a Canadian-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia</p> <p>NATO also has provided air protection for Latvia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations</p><br>
+Latvia became a member of NATO in 2004<br> <p>since 2017, Latvia has hosted a Canadian-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia<br><br>NATO also has provided air protection for Latvia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations</p> (2022)<br>
 
 ## Transnational Issues
 

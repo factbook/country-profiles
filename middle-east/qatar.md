@@ -659,7 +659,7 @@ _LNG terminal(s) (export)_: Ras Laffan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, includes Coast Guard), Qatari Amiri Air Force (QAAF); Internal Security Forces: Mobile Gendarmerie (2021)<br>
+Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, includes Coast Guard), Qatari Amiri Air Force (QAAF); Internal Security Forces: Mobile Gendarmerie (2022)<br>
 
 **Military expenditures**<br>
 4% of GDP (2021 est.)<br>
@@ -679,7 +679,7 @@ conscription for males aged 18-35 introduced in 2013; compulsory service times r
 note - as of 2020, the military incorporated about 2,000 conscripts annually<br>
 
 **Military - note**<br>
-<p>as of 2021, Qatar hosted more than 8,000 US military forces and the regional headquarters for the US Central Command (CENTCOM; established 1983) at various military facilities, including the large Al Udeid Air Base; Qatar also hosted as many as 5,000 Turkish military forces at two bases established in 2014 and 2019<br><br>Qatar (as of early 2022) has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+Qatar hosted more than 8,000 US military forces and the regional headquarters for the US Central Command (CENTCOM; established 1983) at various military facilities, including the large Al Udeid Air Base; Qatar also hosted as many as 5,000 Turkish military forces at two bases established in 2014 and 2019<br><br>Qatar has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
 
 ## Terrorism
 

@@ -599,7 +599,7 @@ _major seaport(s)_: Basseterre, Charlestown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Kitts and Nevis Coast Guard, the Royal St. Christopher and Nevis Police Force (2021)<br>
+Ministry of National Security: St. Kitts and Nevis Defense Force (SKNDF), St. Kitts and Nevis Coast Guard, the Royal St. Christopher and Nevis Police Force (includes a paramilitary Special Services Unit) (2022)<br>
 
 **Military and security service personnel strengths**<br>
 the SKNDF has approximately 400 personnel (2021)<br>

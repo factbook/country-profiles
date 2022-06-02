@@ -661,7 +661,7 @@ _unpaved_: 4,549 km (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of the Republic of North Macedonia (ARSM; includes a General Staff and subordinate Operations Command, Logistic Support Command, Training and Doctrine Command, Center for Electronic Reconnaissance, Aviation Brigade, and Honor Guard Battalion) (2021)<br>
+Army of the Republic of North Macedonia (ARSM; includes a General Staff and subordinate Operations Command, Logistic Support Command, Training and Doctrine Command, Center for Electronic Reconnaissance, Aviation Brigade, and Honor Guard Battalion) (2022)<br>
 note - the Operations Command includes air, ground, special operations, support, and reserve forces<br>
 
 **Military expenditures**<br>
@@ -682,7 +682,7 @@ the inventory of North Macedonia's Army consists mostly of Soviet-era equipment;
 note - as of 2019, women made up about 8% of the military's full-time personnel<br>
 
 **Military - note**<br>
-North Macedonia officially became the 30th member of NATO in 2020; Greece provides NATO's air policing mission for North Macedonia<br>
+North Macedonia became the 30th member of NATO in 2020; as of 2022, Greece provided NATO's air policing mission for North Macedonia<br>
 
 ## Terrorism
 

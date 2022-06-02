@@ -351,7 +351,7 @@ _email address and website_: <br>wasamb@um.dk<br><br>https://usa.um.dk/en<br>
 _consulate(s) general_: Chicago, Houston, New York, Silicon Valley (CA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Stuart A. DWYER (since 20 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Jim BOUGHNER<br>
 _embassy_: Dag Hammarskjolds Alle 24, 2100 Kobenhavn 0<br>
 _mailing address_: 5280 Copenhagen Place, Washington DC&nbsp; 20521-5280<br>
 _telephone_: [45] 33-41-71-00<br>

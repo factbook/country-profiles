@@ -645,7 +645,7 @@ _major seaport(s)_: Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Seychelles People’s Defense Forces (SPDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force; Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, the Anti-Narcotics Bureau, and the Marine Police Unit) (2021)<br><br>note - the military reports to the president, who acts as minister of defense  <br>
+Seychelles People’s Defense Forces (SPDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force; Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, the Anti-Narcotics Bureau, and the Marine Police Unit) (2022)<br><br>note - the military reports to the president, who acts as minister of defense  <br>
 note - the military reports to the president, who acts as minister of defense &nbsp;<br>
 
 **Military expenditures**<br>
@@ -665,7 +665,7 @@ the SPDF's inventory primarily consists of Soviet-era equipment delivered in the
 18-28 (18-25 for officers) years of age for voluntary military service (including women); 6-year initial commitment; no conscription (2021)<br>
 
 **Military - note**<br>
-<p>formed in 1977, the SPDF's primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling</p><br>
+formed in 1977, the SPDF's primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling (2022)<br>
 
 ## Transnational Issues
 

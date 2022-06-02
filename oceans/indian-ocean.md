@@ -19,7 +19,7 @@ body of water between Africa, the Southern Ocean, Asia, and Australia<br>
 Political Map of the World<br>
 
 **Area**<br>
-_total_: 70.560 million sq km<br>
+_total_: 70.56 million sq km<br>
 <strong>note:</strong> includes Andaman Sea, Arabian Sea, Bay of Bengal, Great Australian Bight, Gulf of Aden, Gulf of Oman, Mozambique Channel, Persian Gulf, Red Sea, Savu Sea, Strait of Malacca, Timor Sea, and other tributary water bodies<br>
 
 **Area - comparative**<br>
@@ -36,7 +36,7 @@ northeast monsoon (December to April), southwest monsoon (June to October); trop
 
 **Volume**<br>
 _Ocean volume_: 264 million cu km<br>
-_Percent of total ocean volume_: 19.8%<br>
+_Percent of World Ocean total volume_: 19.8%<br>
 
 **Elevation**<br>
 _highest point_: sea level<br>

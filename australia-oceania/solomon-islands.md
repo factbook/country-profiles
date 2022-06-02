@@ -644,13 +644,13 @@ _major seaport(s)_: Honiara, Malloco Bay, Viru Harbor, Tulagi<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the Royal Solomon Islands Police is responsible for internal and external security and reports to the Ministry of Police, National Security, and Correctional Services<br>
+no regular military forces; the Royal Solomon Islands Police is responsible for internal and external security and reports to the Ministry of Police, National Security, and Correctional Services (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the maritime branch of the Royal Solomon Islands Police Force operates patrol boats provided by Australia (2021)<br>
 
 **Military - note**<br>
-<p>Australia and New Zealand provide material and training assistance to the police</p><br>
+Australia and New Zealand provide material and training assistance to the Royal Solomon Islands Police (2022)<br>
 
 ## Transnational Issues
 
