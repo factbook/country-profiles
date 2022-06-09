@@ -185,7 +185,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 10.1% (2019)<br>
 
 **Physicians density**<br>
-3.61 physicians/1,000 population (2017)<br>
+4.08 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 3.2 beds/1,000 population (2018)<br>
@@ -613,8 +613,8 @@ _total subscriptions_: 4.937 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 29 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21,914,852 (2019)<br>
-_subscriptions per 100 inhabitants_: 127.29 (2019 est.)<br>
+_total subscriptions_: 21.415 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: highly developed and well maintained; Dutch telecom market is gradually migrating to upgraded platforms; operators repurposing their spectrum and physical assets for LTE and 5G; one of the highest fixed broadband penetration rates in the world, with competition between DSL and fiber networks; fixed-line voice market is in decline while VoIP and mobile platforms advance; plans for 3G network shutdown in 2023; operators are concentrating investment on LTE-A and 5G services; operators and banks launch m-payments system; adoption of smart city concepts and technology in major cities; major exporter of broadcasting equipment and computers to Europe, and importer of same from China (2020)<br>
@@ -732,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,792 (Syria), 14,787 (Eritrea), 8,368 (Somalia), 6,636 (Iraq), 5,346 (Iran) (mid-year 2021)<br>
+_refugees (country of origin)_: 37,792 (Syria), 14,787 (Eritrea), 8,368 (Somalia), 6,636 (Iraq), 5,346 (Iran) (mid-year 2021); 60,020 (Ukraine) (as of 23 May 2022)<br>
 _stateless persons_: 2,087 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -175,7 +175,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 7% (2019)<br>
 
 **Physicians density**<br>
-4.17 physicians/1,000 population (2018)<br>
+4.48 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 3 beds/1,000 population (2017)<br>
@@ -636,7 +636,7 @@ _LNG terminal(s) (export)_: Port Fortin<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves; Trinidad and Tobago Police Service (TTPS) (2021)<br>
+Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves; Trinidad and Tobago Police Service (TTPS) (2022)<br>
 note - the Ministry of National Security oversees defense, immigration, and the police<br>
 
 **Military expenditures**<br>
@@ -647,17 +647,17 @@ note - the Ministry of National Security oversees defense, immigration, and the 
 1.4% of GDP (2016 est.) (approximately $460 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,500 TTDF personnel; approximately 7,000 TTPS personnel (2021)<br>
+approximately 4,500 TTDF personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly second-hand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US (2021)<br>
+the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly second-hand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service (men and women; some age variations between services, reserves); no conscription (2021)<br>
+18-25 years of age for voluntary military service (men and women; some age variations between services, reserves); no conscription (2022)<br>
 note - as of 2017, women comprised about 14% of the active military<br>
 
 **Military - note**<br>
-<p>as of 2021, the primary responsibilities for the TTDF were conducting border and maritime security, providing disaster relief, and countering narcotics trafficking in support of law enforcement</p> <p> </p><br>
+the primary responsibilities for the TTDF are conducting border and maritime security, providing disaster relief, and countering narcotics trafficking in support of law enforcement (2022)<br>
 
 ## Transnational Issues
 

@@ -92,7 +92,7 @@ _noun_: Swiss (singular and plural)<br>
 _adjective_: Swiss<br>
 
 **Ethnic groups**<br>
-Swiss 69.3%, German 4.2%, Italian 3.2%, Portuguese 2.5%, French 2.1%, Kosovo 1.1%, Turkish 1%, other 16.6% (2019 est.)<br>
+Swiss 69.2%, German 4.2%, Italian 3.2%, Portuguese 2.5%, French 2.1%, Kosovo 1.1%, Turkish 1%, other 16.7% (2020 est.)<br>
 <strong>note:</strong> data represent permanent and non-permanent resident population by country of birth<br>
 
 **Languages**<br>
@@ -100,7 +100,7 @@ German (or Swiss German) (official) 62.1%, French (official) 22.8%, Italian (off
 _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>L'Almanacco dei fatti del mondo, l'indispensabile fonte per le informazioni di base. (Italian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 34.4%, Protestant 22.5%, other Christian 5.7%, Muslim 5.5%, other 1.6%, none 29.5%, unspecified 0.8% (2019 est.)<br>
+Roman Catholic 34.4%, Protestant 22.5%, other Christian 5.7%, Muslim 5.4%, other 1.5%, none 29.4%, unspecified 1.1% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 15.34% (male 664,255/female 625,252)<br>
@@ -185,7 +185,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 11.3% (2019)<br>
 
 **Physicians density**<br>
-4.3 physicians/1,000 population (2017)<br>
+4.38 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 4.6 beds/1,000 population (2018)<br>
@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 50,103 (Ukraine) (as of 25 May 2022)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

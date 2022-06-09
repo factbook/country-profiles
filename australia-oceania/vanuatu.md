@@ -636,10 +636,11 @@ _major seaport(s)_: Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila<br
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Vanuatu Police Force (VPF; includes Vanuatu Mobile Force (VMF) and Police Maritime Wing (VPMW)) (2021)<br>
+no regular military forces; Ministry of Internal Affairs: Vanuatu Police Force (VPF; includes Vanuatu Mobile Force (VMF) and Police Maritime Wing (VPMW)) (2022)<br>
+note - the paramilitary Vanuatu Mobile Force also has external security responsibilities<br>
 
 **Military - note**<br>
-<p>the separate British and French police forces were unified in 1980 under Ni-Vanuatu officers as the New Hebrides Constabulary; the force retained some British and French officers as advisors; the Constabulary was subsequently renamed the Vanuatu Police Force later in 1980</p> <p>as of 2021, the Vanuatu Mobile Force had received training and other support from Australia, China, France, New Zealand, and the US</p><br>
+the separate British and French police forces were unified in 1980 under Ni-Vanuatu officers as the New Hebrides Constabulary; the force retained some British and French officers as advisors; the Constabulary was subsequently renamed the Vanuatu Police Force later in 1980<br><br>the Vanuatu Mobile Force has received training and other support from Australia, China, France, New Zealand, and the US (2022)<br>
 
 ## Transnational Issues
 

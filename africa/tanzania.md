@@ -193,7 +193,7 @@ _unimproved: total_: total: 28% of population (2020 est.)<br>
 3.8% (2019)<br>
 
 **Physicians density**<br>
-0.01 physicians/1,000 population (2016)<br>
+0.05 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 0.7 beds/1,000 population<br>
@@ -643,7 +643,7 @@ _total subscriptions_: 47,685,200 (2019)<br>
 _subscriptions per 100 inhabitants_: 82.21 (2019)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Tanzania&rsquo;s telecom services are being developed to reach parity with more advanced networks from neighboring countries such as Kenya and fierce competition exists amongst Tanzania's 5 major mobile network operators; one fixed-line operator with competition in mobile networks; high tariffs on telecom; mobile use remains popular, with the government subsidizing expansion of mobile networks into rural communities; most mobile networks rely on older 2G and 3G technology with 4G/LTE service available in urban centers; the government is currently testing 5G technology and plans to begin rolling out 5G service in 2024; the government continues to improve rural telecom infrastructure including work on a national fiber backbone network connecting the entire population (2022)<br>
+_general assessment_: Tanzania&rsquo;s telecom services are being developed to reach parity with more advanced networks from neighboring countries such as Kenya and fierce competition exists amongst Tanzania's 5 major mobile network operators; one fixed-line operator with competition in mobile networks; high tariffs on telecom; mobile use remains popular, with the government subsidizing expansion of mobile networks into rural communities; most mobile networks rely on older 2G and 3G technology with 4G/LTE service available in urban centers; the government is currently testing 5G technology and plans to begin rolling out 5G service in 2024; the government continues to improve rural telecom infrastructure including work on a national fiber backbone network connecting the entire population (2020)<br>
 _domestic_: fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly and exceeds 82 telephones per 100 persons; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital (2019)<br>
 _international_: country code - 255; landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS&nbsp;fiber-optic submarine cable system linking East Africa with the Middle East; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -694,16 +694,16 @@ _under 914 m_: 33 (2021)<br>
 311 km gas, 891 km oil, 8 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 4,097 km<br>
-_standard gauge_: 421 km<br>
-_narrow gauge_: 1,969 km (2014) 1.067 m gauge<br>
-_broad gauge_: 2,707 km 1.000 m guage<br>
+_total_: 4,097 km (2022)<br>
+_standard gauge_: 421 km (2022)<br>
+_narrow gauge_: 969 km (2022) 1.067 m gauge<br>
+_broad gauge_: 2,707 km (2022) 1.000 m guage<br>
 2707 km 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 145,203 km<br>
-_paved_: 11,201 km (2015)<br>
-_unpaved_: 135,002 km<br>
+_total_: 145,203 km (2022)<br>
+_paved_: 11,201 km (2022)<br>
+_unpaved_: 134,002 km (2022)<br>
 
 **Waterways**<br>
 (2011) (Lake Tanganyika, Lake Victoria, and Lake Nyasa (Lake Malawi) are the principal avenues of commerce with neighboring countries; the rivers are not navigable)<br>
@@ -719,7 +719,7 @@ _major seaport(s)_: Dar es Salaam, Zanzibar<br>
 
 **Military and security forces**<br>
 Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves); Ministry of Home Affairs: Tanzania Police force (includes paramilitary Police Field Force) (2022)<br>
-note - the National Building Army is a paramilitary organization under the Defense Forces that provides 6 months of military and vocational training to individuals as part of their 2 years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br>
+note(s) - the National Building Army is a paramilitary organization under the Defense Forces that provides 6 months of military and vocational training to individuals as part of their 2 years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia; the Police Field Force (aka Field Force Unit) is a special police division with the responsibility for controlling unlawful demonstrations and riots<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
@@ -729,13 +729,13 @@ note - the National Building Army is a paramilitary organization under the Defen
 1% of GDP (2017 est.) (approximately $690 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 25,000 active personnel (21,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2021)<br>
+approximately 25,000 active personnel (21,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the TPDF inventory includes mostly Soviet-era and Chinese equipment; since 2010, China is the leading supplier of arms to the TPDF (2021)<br>
+the TPDF inventory includes mostly Soviet-era and Chinese equipment; since 2010, China is the leading supplier of arms to the TPDF (2022)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2021)<br>
+18-25 years of age for voluntary military service; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2022)<br>
 
 **Military deployments**<br>
 450 Central African Republic (MINUSCA); 850 Democratic Republic of the Congo (MONUSCO); 125 Lebanon (UNIFIL) (Feb 2022)<br>
@@ -765,5 +765,5 @@ _current situation_: Tanzania is a source, transit, and destination country for 
 _tier rating_: Tier 2 Watch List &mdash; Tanzania does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts were made to&nbsp; identify and refer victims for care; investigations and convictions of traffickers, training for officials, and public awareness campaigns were increased along with a National Guideline for Safe Houses; however, the government did not amend its law to remove sentencing provisions that allow fines in lieu of imprisonment; fewer prosecutions were initiated; the government did not implement the 2018-2021 national action plan; officials did not fully implement the creation of the anti-trafficking fund nor disperse funds; no formal victim identification and protection was provided (2020)<br>
 
 **Illicit drugs**<br>
-<p>significant transit country for illicit drugs in East Africa; international drug-trafficking organizations and courier networks transit through Tanzania to smuggle heroin and methamphetamine from Southwest Asia; produces cannabis products and khat for domestic consumption and regional and international distribution; traffickers influence politicians, law enforcement, and others in positions of power with money</p><br>
+<p>significant transit country for illicit drugs in East Africa; international drug-trafficking organizations and courier networks transit through Tanzania to smuggle heroin and methamphetamine from Southwest Asia; produces cannabis products and khat for domestic consumption and regional and international distribution; traffickers influence politicians, law enforcement, and others in positions of power with money</p> (2021)<br>
 

@@ -160,9 +160,6 @@ _unimproved: total_: total: 0% of population (2020)<br>
 **Current Health Expenditure**<br>
 NA<br>
 
-**Physicians density**<br>
-2.41 physicians/1,000 population (2010)<br>
-
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
@@ -527,8 +524,8 @@ _total subscriptions_: 110,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,181,194 (2018)<br>
-_subscriptions per 100 inhabitants_: 345.3 (2018 est.)<br>
+_total subscriptions_: 2.793 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 430 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Macau&rsquo;s sophisticated telecom market boasts one of the highest mobile penetration rates in the world due to high tourism; liberalized market is managed by independent regulator with effective competition in the mobile market; modern communication facilities maintained for domestic and international services; high mobile subscriber numbers and mobile penetration; offering 4G, LTE services and first phase of 5G network rollout; possible synchronizing with neighboring regions; Macau's smart city project spans areas of transportation, medical services, tourism, and e-government; importer of broadcast and video equipment from China (2020)<br>

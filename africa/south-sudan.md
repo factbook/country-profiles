@@ -628,14 +628,14 @@ note - numerous irregular forces, including militias operated by the National Se
 2.1% of GDP (2017 est.) (approximately $660 million)<br>
 
 **Military and security service personnel strengths**<br>
-the South Sudan People’s Defense Force (SSPDF) has an estimated 150-200,000 active personnel, mostly ground forces with small contingents of air and riverine forces (2021)<br>
+estimated 150-200,000 active personnel, mostly ground forces with small contingents of air and riverine forces (2022)<br>
 note(s) - some active SSPDF personnel may be militia; the National Unified Forces will have about 80,000 troops from the SSPDF and armed opposition groups when it is formed<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SSPDF inventory is primarily of Soviet origin; from 2010 to 2015, Russia and the United Arab Emirates were the leading suppliers of arms and equipment; South Sudan has been under a UN arms embargo since 2018 (2021)<br>
+the SSPDF inventory is primarily of Soviet origin; from 2010 to 2015, Russia and the United Arab Emirates were the leading suppliers of arms and equipment; South Sudan has been under a UN arms embargo since 2018 (2022)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for compulsory (men) and voluntary (men and women) military service; 12-24 months service (2021)<br>
+18 is the legal minimum age for compulsory (men) and voluntary (men and women) military service; 12-24 months service (2022)<br>
 note - in 2019, women made up less than 10% of the active military<br>
 
 **Military - note**<br>

@@ -593,8 +593,8 @@ _total subscriptions_: 259,456 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 59 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 634,386 (2020)<br>
-_subscriptions per 100 inhabitants_: 139.94 (2020 est.)<br>
+_total subscriptions_: 633,123 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 143 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: blessed with advantageous topography and tech-savvy consumers, Malta has one of the most advanced telecom systems in Europe, with high penetration of mobile and broadband; expansion of e-commerce; government and regulator measures in 2020 reduced consumer prices and allowed extensive FttP network and investment in LTE and fiber thru 2023; operator delivered fiber network to public schools in 2020; launch of 5G network by 2020; submarine cable to France and Egypt in progress (2020)<br>

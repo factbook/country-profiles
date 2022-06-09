@@ -177,7 +177,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 6.2% (2019)<br>
 
 **Physicians density**<br>
-2.6 physicians/1,000 population (2019)<br>
+2.71 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 3.7 beds/1,000 population (2020)<br>
@@ -589,8 +589,8 @@ _total subscriptions_: 478,700 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 38 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,912,900 (2019)<br>
-_subscriptions per 100 inhabitants_: 150.4 (2019 est.)<br>
+_total subscriptions_: 1,912,900 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 150 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Mauritius is successfully pursuing a policy to make telecommunications a pillar of economic growth, and to have a fully digital-based smart infrastructure; the island nation is a pioneer in the telecom sector, with the first market in greater Africa to launch mobile networks and provide 3G, the first in the world to develop a nationwide WiMAX wireless broadband network, and one of the first to launch IPTV; LTE and fiber broadband are nationally available, and the government supports national Wi-Fi; international cable connectivity has improved, increasing bandwidth capacity; submarine cable provides connectivity to South Africa and beyond; major importer of broadcasting equipment from China (2020)<br>
@@ -661,13 +661,13 @@ no regular military forces; the Mauritius Police Force (MPF) includes a paramili
 0.3% of GDP (2017 est.) (approximately $80 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,700 Special Mobile Force; approximately 800 National Coast Guard (2021)<br>
+approximately 1,700 Special Mobile Force; approximately 800 National Coast Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the MPF's inventory is comprised of mostly second-hand equipment from Western European countries and India; since 2010, India has been the primary supplier (2021)<br>
+the MPF's inventory is comprised of mostly second-hand equipment from Western European countries and India; since 2010, India has been the primary supplier (2022)<br>
 
 **Military service age and obligation**<br>
-service is voluntary (2021)<br>
+service is voluntary (2022)<br>
 
 **Military - note**<br>
 <p>as of 2022, the country’s primary security partner was India, and Indian naval vessels often patrol Mauritian waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns are piracy and narcotics trafficking</p> <p>the paramilitary Special Mobile Force was created in 1960 following the withdrawal of the British garrison</p><br>

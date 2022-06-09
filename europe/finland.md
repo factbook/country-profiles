@@ -183,7 +183,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 9.2% (2019)<br>
 
 **Physicians density**<br>
-3.81 physicians/1,000 population (2016)<br>
+4.64 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 3.6 beds/1,000 population (2018)<br>
@@ -712,6 +712,6 @@ note(s) - the military trains approximately 21,000 (20,000 Army) conscripts each
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 26,196 (Ukraine) (as of 25 May 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

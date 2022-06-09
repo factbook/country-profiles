@@ -181,7 +181,7 @@ _unimproved: total_: total: 16% of population (2020 est.)<br>
 8.5% (2019)<br>
 
 **Physicians density**<br>
-0.04 physicians/1,000 population (2015)<br>
+0.05 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 68% of population<br>
@@ -603,8 +603,8 @@ _total subscriptions_: 6,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2.66 million (2018)<br>
-_subscriptions per 100 inhabitants_: 55.57 (2019 est.)<br>
+_total subscriptions_: 1.653 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: due to history of civil war and ruin of infrastructure, almost entirely wireless telecom market; good competition for mobile services; high cost and limited bandwidth means Internet access is low; additional investment needed for increased submarine cable access; progress in creating an attractive business-friendly environment is hampered by a weak regulatory environment, corruption, lack of transparency, poor infrastructure, and low private sector capacity; rural areas have little access; fixed-line service is stagnant and extremely limited; operators introducing e-commerce; importer of broadcast equipment from China (2020)<br>

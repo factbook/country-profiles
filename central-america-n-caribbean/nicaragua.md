@@ -184,7 +184,7 @@ _unimproved: total_: total: 16.8% of population (2020 est.)<br>
 8.4% (2019)<br>
 
 **Physicians density**<br>
-0.98 physicians/1,000 population (2018)<br>
+1.67 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 0.9 beds/1,000 population (2017)<br>
@@ -339,9 +339,9 @@ _elections/appointments_: president and vice president directly elected on the s
 _election results_: <br><em>2021:</em> Jose Daniel ORTEGA Saavedra reelected president for a fourth consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 75.9%, Walter ESPINOZA (PLC) 14.3%, Guillermo OSORNO (CCN) 3.3%, Marcelo MONTIEL (ALN) 3.1%, other 3.4%<br><em><br>2016:</em> Jose Daniel ORTEGA Saavedra reelected president for a third consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 72.4%, Maximino RODRIGUEZ (PLC) 15%, Jose del Carmen ALVARADO (PLI) 4.5%, Saturnino CERRATO Hodgson (ALN) 4.3%, other 3.7%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (92 seats; 70 members in multi-seat constituencies, representing the country's 15 departments and 2 autonomous regions, and 20 members in a single nationwide constituency directly elected by party-list proportional representation vote; 2 seats reserved for the previous president and the runner-up candidate in the previous presidential election; members serve 5-year terms)<br>
+_description_: unicameral National Assembly or Asamblea Nacional (92 statutory seats, current 91; 70 members in multi-seat constituencies, representing the country's 15 departments and 2 autonomous regions, and 20 members in a single nationwide constituency directly elected by party-list proportional representation vote; up to 2 seats reserved for the previous president and the runner-up candidate in the previous presidential election; members serve 5-year terms)<br>
 _elections_: last held on 7 November 2021 (next to be held on 1 November 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - FSLN 75, PLC 9, ALN 2, APRE 1, CCN 1, PLI 1, YATAMA 1; composition - men 46, women 45, percent of women 49.4%<br>
+_election results_: percent of vote by party - NA; seats by party - FSLN 75, PLC 9, ALN 2, APRE 1, CCN 1, PLI 1, YATAMA 1; composition - men 44, women 47, percent of women 51.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Corte Suprema de Justicia (consists of 16 judges organized into administrative, civil, criminal, and constitutional chambers)<br>
@@ -611,8 +611,8 @@ _total subscriptions_: 210,981 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,788,430 (2019)<br>
-_subscriptions per 100 inhabitants_: 88.43 (2019 est.)<br>
+_total subscriptions_: 5,976,479 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 90 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: with authoritarian government, weak public institutions, and impoverished citizenry, Nicaragua&rsquo;s telecom system is dependent on upgrades through foreign investment, primarily from Russia and China; World Bank funded national fiber broadband network and links to Caribbean submarine cables; Chinese-financed projects, including airport, oil pipeline, and roads in process; nearly all installed telecom capacity now uses financed digital technology; lowest fixed-line tele-density and mobile penetration in Central America; Internet cafes provide access to Internet and email services; rural areas lack access to most basic telecom infrastructure; LTE service in dozens of towns and cities; importer of broadcasting equipment and computers from China (2020)<br>
@@ -691,16 +691,16 @@ note - both the military and the police report directly to the president<br>
 0.6% of GDP (2017) (approximately $190 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2021)<br>
+approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Nicaraguan military's inventory includes mostly second-hand Russian/Soviet-era equipment; since 2010, Russia is the leading arms supplier to Nicaragua (2021)<br>
+the Nicaraguan military's inventory includes mostly second-hand Russian/Soviet-era equipment; since 2010, Russia is the leading arms supplier to Nicaragua (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months; requires Nicaraguan nationality and 6th-grade education (2021)<br>
+18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months; requires Nicaraguan nationality and 6th-grade education (2022)<br>
 
 **Military - note**<br>
-the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA Garc&iacute;a, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas<br>
+the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA Garc&iacute;a, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas (2022)<br>
 
 ## Transnational Issues
 

@@ -485,8 +485,8 @@ _total subscriptions_: 16,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 47 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 38,750 (2019)<br>
-_subscriptions per 100 inhabitants_: 114.4 (2019 est.)<br>
+_total subscriptions_: 39,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 115 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: automatic telephone system completely integrated into Italian system (2018)<br>

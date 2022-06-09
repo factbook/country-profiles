@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 10.5% (2019)<br>
 
 **Physicians density**<br>
-2.92 physicians/1,000 population (2018)<br>
+5.04 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 3.5 beds/1,000 population (2018)<br>
@@ -599,8 +599,8 @@ _total subscriptions_: 348,808 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,775,830 (2019)<br>
-_subscriptions per 100 inhabitants_: 107.38 (2019 est.)<br>
+_total subscriptions_: 5,825,584 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector; synchronized with EC legislation; comprehensive LTE and focus on 5G;&nbsp; broadband penetration among highest in Europe; operators will migrate all DSL subscribers to fiber by 2023 and close 2G and 3G networks by 2025; regulator assigned spectrum for 5G; operator partners with Huawei for smart agriculture project; Oslo utilizes smart city technology; municipalities access EU-funded public Wi-Fi; importer of broadcasting equipment and computers from China (2020)<br>
@@ -705,6 +705,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p>Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf); Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission; Norway and Russia signed a comprehensive maritime boundary agreement in 2010</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 16,708 (Ukraine) (as of 25 May 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

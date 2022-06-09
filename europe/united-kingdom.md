@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 10.2% (2019)<br>
 
 **Physicians density**<br>
-2.81 physicians/1,000 population (2018)<br>
+3 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 2.5 beds/1,000 population (2019)<br>
@@ -205,7 +205,7 @@ NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 30 March 2022, the UK has reported a total of 20,986,175  cases of COVID-19 or 30,913.84 cumulative cases of COVID-19 per 100,000 population with a total of 164,974 cumulative deaths or a rate of 243.02 cumulative deaths per 100,000 population; as of 29 March 2022, 77.39% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 6 June 2022, the UK has reported a total of 22,305,897 cases of COVID-19 or 32,857.8 cumulative cases of COVID-19 per 100,000 population with a total of 178,749 cumulative deaths or a rate of 263.3 cumulative deaths per 100,000 population; as of 31 May 2022, 78.42% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
@@ -266,7 +266,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 30 March 2022, the UK has reported a total of 20,986,175  cases of COVID-19 or 30,913.84 cumulative cases of COVID-19 per 100,000 population with a total of 164,974 cumulative deaths or a rate of 243.02 cumulative deaths per 100,000 population; as of 29 March 2022, 77.39% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 6 June 2022, the UK has reported a total of 22,305,897 cases of COVID-19 or 32,857.8 cumulative cases of COVID-19 per 100,000 population with a total of 178,749 cumulative deaths or a rate of 263.3 cumulative deaths per 100,000 population; as of 31 May 2022, 78.42% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 31.567 million tons (2014 est.)<br>
@@ -698,7 +698,7 @@ begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) 
 ## Military and Security
 
 **Military and security forces**<br>
-British Army, Royal Navy (includes Royal Marines), Royal Air Force (2021)<br>
+United Kingdom Armed Forces (aka British Armed Forces, aka Her Majesty's Armed Forces): British Army, Royal Navy (includes Royal Marines), Royal Air Force (2022)<br>
 note - in 2021 the UK formed a joint service Space Command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, defense intelligence, and information systems across the land, sea, air, space, and cyber domains; national-level special forces (UK Special Forces, UKSF) also fall under Strategic Command; in addition, the command manages joint overseas operations<br>
 
 **Military expenditures**<br>
@@ -709,8 +709,8 @@ note - in 2021 the UK formed a joint service Space Command staffed by Army, Navy
 2.1% of GDP (2017) (approximately $65.9 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 155,000 total active troops (85,000 Army, including about 4,000 Gurkhas; 35,000 Navy, including about 7,000 Royal Marines; 35,000 Air Force) (2021)<br>
-note - as of 2021, the military also had approximately 40-45,000 reserves on active duty<br>
+approximately 153,000 regular forces (81,000 Army; 34,000 Navy, including about 7,000 Royal Marines; 38,000 Air Force) (2022)<br>
+note - the military also had approximately 40-45,000 reserves and other personnel on active duty<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the British military is comprised of a mix of domestically-produced and imported Western weapons systems; the US is the leading supplier of armaments to the UK since 2010; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers (2021)<br>
@@ -724,7 +724,7 @@ approximately 1,000 Brunei; approximately 400 Canada (BATUS); approximately 2,50
 note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s 2022 invasion of Ukraine, some NATO countries, including the UK, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-the UK is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for UK-French bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance<br><br>in 2014, the UK led the formation of the Joint Expeditionary Force (JEF), a pool of high-readiness military forces from Baltic and Scandinavian countries able to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict; its principal geographic area of interest is the High North, North Atlantic, and Baltic Sea regions, where the JEF can complement national capabilities or NATO’s deterrence posture, although it is designed to be flexible and prepared to respond to humanitarian crises further afield; the JEF consists of 10 countries (Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, the Netherlands, Norway, Sweden, and the UK) and was declared operational in 2018; most of the forces in the pool are British, and the UK provides the most rapidly deployable units as well as the command and control elements</p><br>
+the UK is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for UK-French bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance<br><br>in 2014, the UK led the formation of the Joint Expeditionary Force (JEF), a pool of high-readiness military forces from Baltic and Scandinavian countries able to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict; its principal geographic area of interest is the High North, North Atlantic, and Baltic Sea regions, where the JEF can complement national capabilities or NATO’s deterrence posture, although it is designed to be flexible and prepared to respond to humanitarian crises further afield; the JEF consists of 10 countries (Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, the Netherlands, Norway, Sweden, and the UK) and was declared operational in 2018; most of the forces in the pool are British, and the UK provides the most rapidly deployable units as well as the command and control elements (2022)<br>
 
 ## Terrorism
 
@@ -738,7 +738,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p>in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos islands prohibiting the extraction of any natural resources therein; UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands; territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim; Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020)<br>
+_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 37,400 (Ukraine) (as of 3 May 2022)<br>
 _stateless persons_: 3,968 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

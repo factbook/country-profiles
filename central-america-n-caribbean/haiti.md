@@ -337,15 +337,15 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2016:</em> Jovenel MOISE elected president in first round; percent of vote - Jovenel MOISE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOISE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in runoff; percent of vote - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
 
 **Legislative branch**<br>
-_description_: bicameral legislature or le Corps legislatif ou le Parlement consists of:<br>le Senat or Senate (30 seats statutory, reduced to 10 as of July 2021; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>la Chambre de deputes or Chamber of Deputies (119 seats; 0 filled as of July 2021; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits); note - when the 2 chambers meet collectively it is known as L'Assemblee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution<br>
-_elections_: <br>Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next originally scheduled for 27 October 2019, but postponed to 26 September 2021) <br>Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next originally scheduled for 27 October 2019, but postponed to 26 September 2021)<br>
+_description_: bicameral legislature or le Corps legislatif ou le Parlement consists of:<br>le Sénat de la République or Senate (30 seats; 10 filled as of March 2022); members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>la Chambre des députés or Chamber of Deputies (119 seats; 0 filled as of March 2022; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits); note - when the 2 chambers meet collectively it is known as L'Assemblée nationale or the National Assembly and is convened for specific purposes spelled out in the constitution<br>
+_elections_: <br>Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next originally scheduled for 27 October 2019, but postponed until political and civil society actors agree to a consensual process) <br>Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next originally scheduled for 27 October 2019, but postponed until political and civil society actors agree to a consensual process)<br>
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 10, women 0, percent of women 0%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - NA<br>
 <em>note:</em> the Chamber of Deputies is currently defunct, and the Senate is only one-third filled (not enough seats for a quorum)<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Cour de cassation (consists of a chief judge and other judges); note - Haiti is a member of the Caribbean Court of Justice<br>
+_highest courts_: Supreme Court or Cour de cassation (consists of a chief judge and other judges); note 1 - the Cour de cassation currently has no chief judge and only 3 sitting members and is not functional; note 2 - Haiti is a member of the Caribbean Court of Justice; &nbsp;Constitutional Court, called for in the 1987 constitution but not yet established; High Court of Justice, for trying high government officials - currently not functional<br>
 _judge selection and term of office_: judges appointed by the president from candidate lists submitted by the Senate of the National Assembly; note - Article 174 of Haiti's constitution states that judges of the Supreme Court are appointed for 10 years, whereas Article 177 states that judges of the Supreme Court are appointed for life<br>
-_subordinate courts_: Courts of Appeal; Courts of First Instance; magistrate's courts;&nbsp; land, labor, and children's courts<br>
+_subordinate courts_: Courts of Appeal; Courts of First Instance; magistrate's courts; land, labor, and children's courts<br>
 <strong>note</strong>: the Superior Council of the Judiciary or Conseil Superieur du Pouvoir Judiciaire is a 9-member body charged with the administration and oversight of the judicial branch of government<br>
 
 **Political parties and leaders**<br>
@@ -644,9 +644,9 @@ _914 to 1,523 m_: 2<br>
 _under 914 m_: 8 (2021)<br>
 
 **Roadways**<br>
-_total_: 4,266 km (2009) Note – total paved plus unpaved is less than total roadways because some roads are under construction or only partially paved<br>
-_paved_: 600 km (2009)<br>
-_unpaved_: 3,502 km (2009)<br>
+_total_: 4,102 km (2011)<br>
+_paved_: 600 km (2011)<br>
+_unpaved_: 3,502 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 4<br>
@@ -665,13 +665,16 @@ note - the Haitian National Police (under the Ministry of Justice and Public Sec
 not available<br>
 
 **Military and security service personnel strengths**<br>
-the FAdH has approximately 500 troops (the force is planned to eventually have around 5,000 personnel); approximately 16,000 National Police (2021)<br>
+the FAdH has approximately 1,200 troops (the force is planned to eventually have around 5,000 personnel); approximately 16,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 not available<br>
 
+**Military service age and obligation**<br>
+not available<br>
+
 **Military - note**<br>
-<p>according to the Haitian Government, the mission of the reconstituted armed forces will focus on patrolling the border with the Dominican Republic, combating smuggling, and executing recovery efforts after natural disasters</p> <p>the UN Stabilization Mission in Haiti (MINUSTAH) operated in Haiti from 2004 until 2017; its mission was to help restore stability after President Bertrand ARISTIDE fled the country, including assisting with the political process, strengthening government institutions, and promoting and protecting human rights; following the completion of MINUSTAH’s mandate in 2017, a smaller peacekeeping mission, the UN Mission for Justice Support in Haiti (MINUJUSTH), operated until 2019; its mission was to assist with the further development and strengthening of the national police, as well as Haiti’s justice and prison systems, and to promote and protect human rights; in 2019, the UN established the UN Integrated Office in Haiti (BINUH) with the political mission of advising the Haiti Government in elections, governance, and security; as of 2021, BINUH continued to operate</p><br>
+<p>according to the Haitian Government, the mission of the reconstituted armed forces will focus on patrolling the border with the Dominican Republic, combating smuggling, and executing recovery efforts after natural disasters<br><br>the UN Stabilization Mission in Haiti (MINUSTAH) operated in Haiti from 2004 until 2017; its mission was to help restore stability after President Bertrand ARISTIDE fled the country, including assisting with the political process, strengthening government institutions, and promoting and protecting human rights; following the completion of MINUSTAH’s mandate in 2017, a smaller peacekeeping mission, the UN Mission for Justice Support in Haiti (MINUJUSTH), operated until 2019; its mission was to assist with the further development and strengthening of the national police, as well as Haiti’s justice and prison systems, and to promote and protect human rights; in 2019, the UN established the UN Integrated Office in Haiti (BINUH) with the political mission of advising the Haiti Government in elections, governance, and security; BINUH's current mandate ends in July 2022 unless extended </p><br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Haiti are a risk for armed robbery against ships; in 2021, four attacks against commercial vessels were reported, a slight decrease from the five attacks reported in 2020; most of these occurred in the main port of Port-au-Prince while ships were berthed or at anchor<br>

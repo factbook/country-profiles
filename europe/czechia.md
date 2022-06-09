@@ -183,7 +183,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 7.8% (2019)<br>
 
 **Physicians density**<br>
-4.12 physicians/1,000 population (2018)<br>
+4.15 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 6.6 beds/1,000 population (2018)<br>
@@ -716,6 +716,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 361,560 (Ukraine) (as of 1 June 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

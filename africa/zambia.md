@@ -192,7 +192,7 @@ _unimproved: total_: total: 28.4% of population (2020 est.)<br>
 5.3% (2019)<br>
 
 **Physicians density**<br>
-1.19 physicians/1,000 population (2018)<br>
+1.17 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 2 beds/1,000 population<br>
@@ -713,7 +713,8 @@ _river port(s)_: Mpulungu (Zambezi)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service (support organization that also does public work projects); Defense Force Medical Service; Ministry of Home Affairs: Zambia Police (includes a paramilitary battalion) (2021)<br>
+Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service; Defense Force Medical Service; Ministry of Home Affairs and Internal Security: Zambia Police (includes a paramilitary battalion) (2022)<br>
+note - the Zambia National Service is a support organization that also does public work projects<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
@@ -723,7 +724,7 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 1.3% of GDP (2017 est.) (approximately $420 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Zambia Defense Force (ZDF) has approximately 17,000 active troops (15,000 Army; 2,000 Air) (2021)<br>
+the Zambia Defense Force (ZDF) has approximately 17,000 active troops (15,000 Army; 2,000 Air) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; since 2010, China is the leading supplier of arms to Zambia (2021)<br>
@@ -735,7 +736,7 @@ the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era arm
 925 Central African Republic (MINUSCA) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regiment, which was raised by the British colonial government to fight in World War II; the ZDF was established in 1964 from units of the dissolved Federation of Rhodesia and Nyasaland armed forces; it participated in a number of regional conflicts during the 1970s and 1980s; Zambia actively supported independence movements such as the Union for the Total Liberation of Angola (UNITA), the Zimbabwe African People's Union (ZAPU), the African National Congress of South Africa (ANC), and the South-West Africa People's Organization (SWAPO)</p><br>
+the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regiment, which was raised by the British colonial government to fight in World War II; the ZDF was established in 1964 from units of the dissolved Federation of Rhodesia and Nyasaland armed forces; it participated in a number of regional conflicts during the 1970s and 1980s; Zambia actively supported independence movements such as the Union for the Total Liberation of Angola (UNITA), the Zimbabwe African People's Union (ZAPU), the African National Congress of South Africa (ANC), and the South-West Africa People's Organization (SWAPO) (2022)<br>
 
 ## Transnational Issues
 

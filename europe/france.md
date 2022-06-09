@@ -199,7 +199,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 11.1% (2019)<br>
 
 **Physicians density**<br>
-3.27 physicians/1,000 population (2018)<br>
+3.27 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 5.9 beds/1,000 population (2018)<br>
@@ -222,7 +222,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 (2019 est.) <500<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 30 March 2022, France has reported a total of 24,527,949 cases of COVID-19 or 37,712.47 cumulative cases of COVID-19 per 100,000 population with a total of 138,802 cumulative deaths or a rate 213.41 cumulative deaths per 100,000 population; as of 29 March 2022, 80.09% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 6 June 2022, France has reported a total of 28,733,287 cases of COVID-19 or 44,178.3 cumulative cases of COVID-19 per 100,000 population with a total of 145,123 cumulative deaths or a rate 223.1 cumulative deaths per 100,000 population; as of 2 June 2022, 80.7% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 21.6% (2016)<br>
@@ -278,7 +278,7 @@ _forest revenues_: 0.03% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 30 March 2022, France has reported a total of 24,527,949 cases of COVID-19 or 37,712.47 cumulative cases of COVID-19 per 100,000 population with a total of 138,802 cumulative deaths or a rate 213.41 cumulative deaths per 100,000 population; as of 29 March 2022, 80.09% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 6 June 2022, France has reported a total of 28,733,287 cases of COVID-19 or 44,178.3 cumulative cases of COVID-19 per 100,000 population with a total of 145,123 cumulative deaths or a rate 223.1 cumulative deaths per 100,000 population; as of 2 June 2022, 80.7% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 33.399 million tons (2015 est.)<br>
@@ -767,7 +767,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>Madagascar claims the French territories of Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island; Comoros claims Mayotte; Mauritius claims Tromelin Island; territorial dispute between Suriname and the French overseas department of French Guiana; France asserts a territorial claim in Antarctica (Adelie Land); France and Vanuatu claim Matthew and Hunter Islands, east of New Caledonia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,744 (Afghanistan), 23,980 (Sri Lanka), 23,510 (Syria), 21,070 (Sudan), 19,007 (Democratic Republic of the Congo), 16,995 (Russia), 15,090 (Guinea), 14,296 (Serbia and Kosovo), 13,180 (Turkey), 10,849 (Cambodia), 9,328 (Iraq) 8,519 (China), 8,338 (Cote d'Ivoire), 8,218 (Eritrea), 7,628 (Vietnam), 6,947 (Bangladesh), 6,649 (Somalia), 6,642 (Albania), 6,371 (Laos), 6,074 (Mauritania), 5,908 (Mali) (mid-year 2021)<br>
+_refugees (country of origin)_: 37,744 (Afghanistan), 23,980 (Sri Lanka), 23,510 (Syria), 21,070 (Sudan), 19,007 (Democratic Republic of the Congo), 16,995 (Russia), 15,090 (Guinea), 14,296 (Serbia and Kosovo), 13,180 (Turkey), 10,849 (Cambodia), 9,328 (Iraq) 8,519 (China), 8,338 (Cote d'Ivoire), 8,218 (Eritrea), 7,628 (Vietnam), 6,947 (Bangladesh), 6,649 (Somalia), 6,642 (Albania), 6,371 (Laos), 6,074 (Mauritania), 5,908 (Mali) (mid-year 2021); 43,300 (Ukraine) (as of 27 April 2022)<br>
 _stateless persons_: 2,094 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

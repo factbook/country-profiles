@@ -187,7 +187,7 @@ _unimproved: total_: total: 23.5% of population (2020 est.)<br>
 13.2% (2019)<br>
 
 **Physicians density**<br>
-0.28 physicians/1,000 population (2016)<br>
+0.25 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 0.4 beds/1,000 population (2017)<br>
@@ -736,5 +736,5 @@ _current situation_: human traffickers exploit domestic and foreign victims and 
 _tier rating_: <p>Tier 3<strong> —</strong><strong> </strong>Afghanistan does not fully comply with the minimum standards for the elimination of trafficking in persons and is not making significant efforts to do so; the government decreased law enforcement efforts against civilian and official perpetrators of trafficking, and officials complicit in recruitment and use of child soldiers and the sexual exploitation of boys continued to operate with impunity; authorities continued to arrest, detain, and penalize many trafficking victims, including punishing sex trafficking victims for “moral crimes”; the judiciary remained underfunded, understaffed, and undertrained (2020)</p><br>
 
 **Illicit drugs**<br>
-<p>the world’s largest producer of illicit opiates but it is not a major supplier to the United States; 215,000 hectares (ha) of opium poppy cultivated in Afghanistan in 2019; also produces methamphetamine and cannabis products; one of the highest domestic substance abuse rates in the world</p> (2018)<br>
+<p>the world’s largest producer of illicit opiates but it is not a major supplier to the United States; 215,000 hectares (ha) of opium poppy cultivated in Afghanistan in 2020; also produces methamphetamine and cannabis products; one of the highest domestic substance abuse rates in the world</p> (2022)<br>
 

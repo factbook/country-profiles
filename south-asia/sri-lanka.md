@@ -178,7 +178,7 @@ _unimproved: total_: total: 7.2% of population (2020 est.)<br>
 4.1% (2019)<br>
 
 **Physicians density**<br>
-1 physicians/1,000 population (2018)<br>
+1.23 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 4.2 beds/1,000 population (2017)<br>
@@ -704,10 +704,10 @@ Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy
 approximately 240,000 total personnel (170,000 Army; 40,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Sri Lankan military inventory consists mostly of Chinese and Russian-origin equipment; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2021)<br>
+the Sri Lankan military inventory consists mostly of Chinese and Russian-origin equipment; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2022)<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for voluntary military service (men and women); no conscription (2021)<br>
+18-22 years of age for voluntary military service (men and women); no conscription (2022)<br>
 
 **Military deployments**<br>
 110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (Feb 2022)<br>

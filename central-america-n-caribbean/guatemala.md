@@ -184,7 +184,7 @@ _unimproved: total_: total: 5% of population (2020 est.)<br>
 6.2% (2019)<br>
 
 **Physicians density**<br>
-0.36 physicians/1,000 population (2018)<br>
+1.24 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 0.4 beds/1,000 population (2017)<br>
@@ -346,7 +346,7 @@ _election results_: <em><br>2019:</em> Alejandro GIAMMATTEI elected president; p
 **Legislative branch**<br>
 _description_: unicameral Congress of the Republic or Congreso de la Republica (160 seats; 128 members directly elected in multi-seat constituencies in the country's 22 departments and 32 directly elected in a single nationwide constituency by closed party-list proportional representation vote, using the D'Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 16 June 2019 (next to be held on June 2023)<br>
-_election results_: percent of vote by party - NA; seats by party - UNE 53, VAMOS 16, UCN 12, VALOR 9, BIEN 8, FCN-NACION 8, SEMILLA 7, TODOS 7, VIVA 7, CREO 6, PHG 6, VICTORIA 4, Winaq 4, PC 3, PU 3, URNG 3, PAN 2, MLP 1, PODEMOS 1; composition - men 129, women 31, percent of women 19.4%<br>
+_election results_: percent of vote by party - NA; seats by party - UNE 52, VAMOS 17, UCN 12, VALOR 9, BIEN 8, FCN-NACION 8, SEMILLA 7, TODOS 7, VIVA 7, CREO 6, PHG 6, VICTORIA 4, Winaq 4, PC 3, PU 3, URNG 3, PAN 2, MLP 1, PODEMOS 1; composition - men 129, women 31, percent of women 19.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 13 magistrates, including the court president and organized into 3 chambers); note - the court president also supervises trial judges countrywide; Constitutional Court or Corte de Constitucionalidad (consists of 5 titular magistrates and 5 substitute magistrates)<br>
@@ -354,7 +354,7 @@ _judge selection and term of office_: Supreme Court magistrates elected by the C
 _subordinate courts_: numerous first instance and appellate courts<br>
 
 **Political parties and leaders**<br>
-Bienestar Nacional or BIEN [Alfonso PORTILLO and Evelyn MORATAYA]<br>Citizen Prosperity or PC [Hernan MEJIA]<br>Commitment, Renewal, and Order or CREO [Oscar CHINCHILLA]<br>Everyone Together for Guatemala or TODOS [Cornelio GARCIA]<br>Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG [Walter FELIX]<br>Humanist Party of Guatemala or PHG [Rudio MERIDA]<br>Movement for the Liberation of Peoples or MLP [Vincenta JIMENEZ]<br>Movimiento Semilla or SEMILLA [Cesar AREVALO DE LEON]<br>National Advancement Party or PAN [Manuel CONDE]<br>National Convergence Front or FCN-NACION [Sandra SANDOVAL]<br>National Unity for Hope or UNE [Jorge VARGAS]<br>Nationalist Change Union or UCN [Carlos ROJAS]<br>PODEMOS [Jose LEON]<br>Political Movement Winaq or Winaq [Sonia GUTIERREZ Raguay]<br>Value or VALOR [Jose ZAMORA]<br>Vamos por una Guatemala Diferente or VAMOS [Alejandro GIAMMATTEI]<br>Victory or VICTORIA [Juan RIVERA]<br>Vision with Values or VIVA [Armando Damian CASTILLO Alvarado]<br>
+Bienestar Nacional or BIEN [Fidel REYES LEE]<br>Citizen Prosperity or PC [Hernan MEJIA and Jorge GARCIA SILVA]<br>Commitment, Renewal, and Order or CREO [Rodolfo NEUTZE]<br>Everyone Together for Guatemala or TODOS [Felipe ALEJOS]<br>Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG [Walter FELIX]<br>Humanist Party of Guatemala or PHG [Rudio MERIDA]<br>Movement for the Liberation of Peoples or MLP [Thelma CABRERA and Vincenta JERONIMO]<br>Movimiento Semilla or SEMILLA [Cesar AREVALO DE LEON and Samuel PEREZ]<br>National Advancement Party or PAN [Manuel CONDE]<br>National Convergence Front or FCN-NACION [Javier HERNANDEZ]<br>National Unity for Hope or UNE [Sandra TORRES and Jorge VARGAS]<br>Nationalist Change Union or UCN [Carlos ROJAS and Sofia HERNANDEZ]<br>PODEMOS [Jose LEON]<br>Political Movement Winaq or Winaq [Sonia GUTIERREZ Raguay]<br>Value or VALOR [Zury RIOS and Lucrecia MARROQUIN]<br>Vamos por una Guatemala Diferente or VAMOS [Alejandro GIAMMATTEI]<br>Victory or VICTORIA [Abraham RIVERA and his four sons  Amilcar, Juan, Manuel and Edgar]<br>Vision with Values or VIVA [Armando Damian CASTILLO Alvarado]<br>
 
 **International organization participation**<br>
 BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -679,9 +679,9 @@ _narrow gauge_: 800 km (2018) 0.914-m gauge<br>
 <strong>note:</strong> despite the existence of a railway network, all rail service was suspended in 2007 and no passenger or freight train currently runs in the country (2018)<br>
 
 **Roadways**<br>
-_total_: 17,440 km (2016)<br>
-_paved_: 7,458 km (2016)<br>
-_unpaved_: 9,982 km (2016) (includes 4,548 km of rural roads)<br>
+_total_: 17,440 km (2020)<br>
+_paved_: 7,458 km (2020)<br>
+_unpaved_: 9,982 km (2020) (includes 4,548 km of rural roads)<br>
 
 **Waterways**<br>
 990 km (2012) (260 km navigable year round; additional 730 km navigable during high-water season)<br>
@@ -700,26 +700,26 @@ Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Nava
 
 **Military expenditures**<br>
 0.4% of GDP (2021 est.)<br>
-0.4% of GDP (2020 est.)<br>
+0.4% of GDP (2020)<br>
 0.4% of GDP (2019) (approximately $530 million)<br>
 0.4% of GDP (2018) (approximately $470 million)<br>
 0.4% of GDP (2017) (approximately $460 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 20,000 active personnel (18,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2021)<br>
+information varies; approximately 20,000 active personnel (18,000 Land Forces; 1,000 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Guatemalan military inventory is small and mostly comprised of older US equipment; since 2010, Guatemala has received small amounts of equipment from several countries, including the US (2022)<br>
 
 **Military service age and obligation**<br>
-all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds conscripted; conscript service obligation varies from 1 to 2 years; women may volunteer (2021)<br>
+all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds conscripted; conscript service obligation varies from 1 to 2 years; women may volunteer (2022)<br>
 note - as of 2017, women made up an estimated 5-10% of the active military<br>
 
 **Military deployments**<br>
 155 Democratic Republic of the Congo (MONUSCO) (Jan 2022)<br>
 
 **Military - note**<br>
-<p>since the 2000s, the Guatemalan Government has used the Army to support the National Civil Police (PNC; under the Ministry of Government) in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking</p> <p>the military held power during most of the country’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict</p> (2022)<br>
+since the 2000s, the Guatemalan Government has used the Army to support the National Civil Police (PNC; under the Ministry of Government) in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking <br><br>the military held power during most of the country’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict (2022)<br>
 
 ## Transnational Issues
 

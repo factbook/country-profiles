@@ -176,7 +176,7 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 5% (2019)<br>
 
 **Physicians density**<br>
-0.54 physicians/1,000 population (2013)<br>
+0.95 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.4% of population<br>
@@ -646,7 +646,7 @@ _major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Tonga Defense Services (His Majesty's Armed Forces): Joint Force headquarters, Territorial Forces, Land Force, Tonga Navy, Training Wing, Air Wing, and Support Unit (2021)<br>
+His Majesty's Armed Forces Tonga (Tonga Defense Services): Joint Force headquarters, Tonga Royal Guard, Land Force (Royal Tongan Marines), Tonga Navy, Training Wing, Air Wing, and Support Unit (2022)<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.) (approximately $10 million)<br>
@@ -656,7 +656,7 @@ Tonga Defense Services (His Majesty's Armed Forces): Joint Force headquarters, T
 1.7% of GDP (2016 est.) (approximately $7.6 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Tonga Defense Services have approximately 500 personnel (2021)<br>
+approximately 650 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Tonga military's inventory includes mostly light weapons and equipment from European (primarily the UK) countries and the US, as well as naval patrol vessels from Australia; Australia is the only supplier of military systems since 2010 (2021)<br>
@@ -665,7 +665,7 @@ the Tonga military's inventory includes mostly light weapons and equipment from 
 men and women, 18-25, may volunteer; no conscription (2021)<br>
 
 **Military - note**<br>
-<p>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014</p><br>
+Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty&rsquo;s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014 (2022)<br>
 
 ## Transnational Issues
 

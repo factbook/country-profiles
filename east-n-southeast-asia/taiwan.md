@@ -608,8 +608,7 @@ _LNG terminal(s) (import)_: Yung An (Kaohsiung), Taichung<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force; Taiwan Coast Guard Administration (a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime) (2021)<br>
-note - the Armed Forces also have Military Police and Armed Forces Reserve commands<br>
+Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force; Taiwan Coast Guard Administration (a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime) (2022)<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2021 est.)<br>
@@ -630,7 +629,7 @@ starting with those born in 1994, males 18-36 years of age may volunteer for mil
 note - as of 2021, women made up about 15% of the active duty military<br>
 
 **Military - note**<br>
-the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2021)<br>
+the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2022)<br>
 
 ## Transnational Issues
 

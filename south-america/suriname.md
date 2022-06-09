@@ -179,7 +179,7 @@ _unimproved: total_: total: 0.9% of population (2020 est.)<br>
 9.7% (2019)<br>
 
 **Physicians density**<br>
-1.21 physicians/1,000 population (2018)<br>
+0.82 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 3 beds/1,000 population (2017)<br>
@@ -340,9 +340,9 @@ _elections/appointments_: president and vice president indirectly elected by the
 _election results_: Chandrikapersad SANTOKHI elected president unopposed; National Assembly vote - NA<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in 10 multi-seat constituencies by party-list proportional representation vote using the D'Hondt method to serve 5-year terms)<br>
+_description_: unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in 10 multi-seat constituencies by party-list proportional representation vote, using the D'Hondt method, to serve 5-year terms)<br>
 _elections_: last held on 25 May 2020 (next to be held in May 2025)<br>
-_election results_: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 21, NDP 15, ABOP 9, NPS 4, other 2; composition - men 35, women 16, percent of women 31.4%<br>
+_election results_: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 21, NDP 15, ABOP 9, NPS 4, other 2; composition - men 36, women 15, percent of women 29.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights<br>
@@ -681,13 +681,13 @@ Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2022
 1.4% of GDP (2015 est.) (approximately $110 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 2,000 total personnel (2021)<br>
+approximately 2,000 total personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; since 2010, Suriname has received small quantities of military hardware from several countries, including the US (2021)<br>
+the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; since 2010, Suriname has received small quantities of military hardware from several countries, including the US (2022)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; no conscription (2021)<br>
+18 is the legal minimum age for voluntary military service; no conscription (2022)<br>
 
 **Military - note**<br>
 key missions for the National Leger include border control and supporting domestic security; the military police has direct responsibility for immigration control at the country&rsquo;s ports of entry; in addition, the military assists the police in combating crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams (2022)<br>

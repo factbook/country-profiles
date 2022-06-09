@@ -164,7 +164,7 @@ _unimproved: urban_: urban: 4.3% of population<br>
 5.5% (2019)<br>
 
 **Physicians density**<br>
-1.12 physicians/1,000 population (2017)<br>
+1.1 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 3.8 beds/1,000 population<br>

@@ -35,8 +35,8 @@ northeast monsoon (December to April), southwest monsoon (June to October); trop
 <p>surface dominated by a major gyre (broad, circular system of currents) in the southern Indian Ocean and a unique reversal of surface currents in the northern Indian Ocean; ocean floor is dominated by the Mid-Indian Ocean Ridge and subdivided by the Southeast Indian Ocean Ridge, Southwest Indian Ocean Ridge, and Ninetyeast Ridge</p> <p><strong>major surface currents:</strong> the counterclockwise Indian Ocean Gyre comprised of the southward flowing warm Agulhas and East Madagascar Currents in the west, the eastward flowing South Indian Current in the south, the northward flowing cold West Australian Current in the east, and the westward flowing South Equatorial Current in the north; a distinctive annual reversal of surface currents occurs in the northern Indian Ocean; low atmospheric pressure over southwest Asia from hot, rising, summer air results in the southwest monsoon and southwest-to-northeast winds and clockwise currents, while high pressure over northern Asia from cold, falling, winter air results in the northeast monsoon and northeast-to-southwest winds and counterclockwise currents</p><br>
 
 **Volume**<br>
-_Ocean volume_: 264 million cu km<br>
-_Percent of World Ocean total volume_: 19.8%<br>
+_ocean volume_: 264 million cu km<br>
+_percent of World Ocean total volume_: 19.8%<br>
 
 **Elevation**<br>
 _highest point_: sea level<br>

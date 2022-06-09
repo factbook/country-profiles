@@ -533,8 +533,8 @@ _total subscriptions_: 1,900 (2009 est.)<br>
 _subscriptions per 100 inhabitants_: 19 (2009 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 94.58 (2019 est.)<br>
+_total subscriptions_: 10,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 92 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate local and international radiotelephone communication provided via Australian facilities; geography is a challenge for the islands;&nbsp;there is a&nbsp;need to service the tourism sector&nbsp;and the&nbsp;South Pacific Islands economy; mobile technology is booming (2018)<br>

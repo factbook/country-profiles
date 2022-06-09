@@ -181,7 +181,7 @@ _unimproved: total_: total: 43.9% of population (2020 est.)<br>
 3.7% (2019)<br>
 
 **Physicians density**<br>
-0.18 physicians/1,000 population (2014)<br>
+0.2 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 0.2 beds/1,000 population<br>
@@ -353,7 +353,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Andry RAJOELINA elected President in second round;&nbsp;percent of vote - Andry RAJOELINA&nbsp;(TGV) 55.7%, Marc RAVALOMANANA 44.3% (TIM)<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Antenimieran-Doholona (reestablished on 22 January 2016, following the December 2015 senatorial election) (63 seats; 42 members indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders and 21 appointed by the president of the republic; members serve 5-year terms); note - in December 2020 Pres RAJOELINA ordered that the senate now have only 18 seats, 6 of which are appointed by the president, the remaining 12 indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders;<br>National Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>Senate or Antenimieran-Doholona (reestablished on 22 January 2016, following the December 2015 senatorial election) (63 seats; 42 members indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders and 21 appointed by the president of the republic; members serve 5-year terms); note - in December 2020 President RAJOELINA ordered that the senate now have only 18 seats, 6 of which are appointed by the president, the remaining 12 indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders;<br>National Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 5-year terms)<br>
 _elections_: Senate - last held 29 December 2015 (scheduled for 2021; note - opposition parties boycotted this legislative election)<br>National Assembly - last held on 27 May 2019 (next to be held in 2024)<br>
 _election results_: Senate - percent of vote by party - NA; seats by party - HVM 34, TIM 3, MAPAR 2, LEADER-Fanilo 1, independent 2, appointed by the president 21; composition - men 51, women 12, percent of women 19%<br>National Assembly - percent of vote by party -Independent Pro-HVM 18%, MAPAR 17%, MAPAR pro-HVM 16%, VPM-MMM 10%, VERTS 3%, LEADER FANILO 3%, HIARAKA ISIKA 3%, GPS/ARD 7%,  INDEPENDENT 9%, TAMBATRA 1%, TIM 13%;  composition - men 120, women 31, percent of women 20.5%; note - total National Assembly percent of women 20.1%<br>
 
@@ -613,8 +613,8 @@ _total subscriptions_: 69,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,654,710 (2018)<br>
-_subscriptions per 100 inhabitants_: 40.57 (2018 est.)<br>
+_total subscriptions_: 15.869 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 57 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: penetration rates below African average; competition among mobile service providers has spurred recent growth in the mobile market and reduced consumer costs; 3G and LTE services available; fiber backbone connects major cities with wireless networks upgraded to LTE; government committed to free WiFi hotspots to ensure universal access; telecom service tax raised to 10%; investment in submarine cable to South Africa and Mauritius; importer of broadcasting and video equipment from China (2020)<br>
@@ -695,13 +695,13 @@ note - the National Gendarmerie is responsible for maintaining law and order in 
 0.5% of GDP (2017 est.) (approximately $120 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); est. 10,000 Gendarmerie (2021)<br>
+approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); est. 10,000 Gendarmerie (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PAF's inventory consists mostly of aging Soviet-era equipment; since 2010, it has received limited amounts of second-hand equipment from France, South Africa, and UAE (2021)<br>
+the PAF's inventory consists mostly of aging Soviet-era equipment; since 2010, it has received limited amounts of second-hand equipment from France, South Africa, and UAE (2022)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for males; service obligation 18 months; no conscription; women are permitted to serve in all branches (2021)<br>
+18-25 years of age for males; service obligation 18 months; no conscription; women are permitted to serve in all branches (2022)<br>
 
 **Military - note**<br>
 one of the military’s duties is assisting the gendarmerie with maintaining law and order in rural areas, particularly in areas affected by banditry, cattle rustling (cattle thieves are known as <em>dahalo</em>), and criminal groups (2022)<br>

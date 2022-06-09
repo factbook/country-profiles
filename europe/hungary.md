@@ -182,7 +182,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 6.4% (2019)<br>
 
 **Physicians density**<br>
-3.41 physicians/1,000 population (2018)<br>
+6.06 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 7 beds/1,000 population (2018)<br>
@@ -732,7 +732,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 682,594 (Ukraine) (as of 29 May 2022)<br>
+_refugees (country of origin)_: 698,420 (border crossings from Ukraine as of 1 June 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

@@ -178,7 +178,7 @@ _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 6.6% (2019)<br>
 
 **Physicians density**<br>
-3.19 physicians/1,000 population (2017)<br>
+3.4 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 5.5 beds/1,000 population (2018)<br>
@@ -605,8 +605,8 @@ _total subscriptions_: 211,849 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,051,359 (2020)<br>
-_subscriptions per 100 inhabitants_: 108.8 (2020 est.)<br>
+_total subscriptions_: 2,051,359 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 109 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: recent efforts focused on bringing competition to the telecommunications sector; the number of fixed-line phones is decreasing as mobile-cellular telephone service expands; EU regulatory policies, and framework provide guidelines for growth; government adopted measures to build a national fiber broadband network, partially funded by European Commission; new competition in mobile markets with extensive LTE-A technologies and 5G service growth; developing sophisticated digital economy with e-commerce and e-government widely available; operator working on cable to Sakhalin in Russia&rsquo;s Far East (2020)<br>
@@ -714,6 +714,7 @@ Latvia became a member of NATO in 2004<br> <p>since 2017, Latvia has hosted a Ca
 <p>Russia demands better Latvian treatment of ethnic Russians in Latvia; boundary demarcated with Latvia and Lithuania; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 23,382 (Ukraine) (as of 25 May 2022)<br>
 _stateless persons_: 209,168 (mid-year 2021); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

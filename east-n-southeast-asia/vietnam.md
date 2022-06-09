@@ -700,7 +700,7 @@ _river port(s)_: Ho Chi Minh (Mekong)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, Navy (includes naval infantry), Air Force and Air Defense, Border Defense Force, and Vietnam Coast Guard; Vietnam People's Public Security Ministry; Vietnam Civil Defense Force (2021)<br>
+People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, Navy (includes naval infantry), Air Force and Air Defense, Border Defense Force, and Vietnam Coast Guard; Vietnam People's Public Security Ministry; Vietnam Civil Defense Force (2022)<br>
 note(s) - the Public Security Ministry is responsible for internal security and controls the national police, a special national security investigative agency, and other internal security units; the Vietnam Coast Guard was established in 1998 as the Vietnam Marine Police and renamed in 2013; Vietnam officially established a maritime self-defense force (civilian militia) in 2010 after the National Assembly passed the Law on Militia and Self-Defense Forces in 2009; the Vietnam Fisheries Resources Surveillance (VFRS), established in 2013, is responsible for patrolling, monitoring for fishing violations, and carrying out fishery inspections; it is armed, allowed to use force if necessary, and works in tandem with the Vietnam Coast Guard<br>
 
 **Military expenditures**<br>
@@ -720,7 +720,7 @@ the PAVN is armed largely with weapons and equipment from Russia and the former 
 18-27 years of age for compulsory and voluntary military service (females eligible for conscription, but in practice only males are drafted); conscription typically takes place twice annually and service obligation is 2 years (Army, Air Defense) and 3 years (Navy and Air Force) (2021)<br>
 
 **Military - note**<br>
-<p>the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary</p> <p>as of 2021, Vietnam maintained a security policy of non-alignment, but noted in 2019 that it would consider developing appropriate defense and security relations with other countries depending on circumstances<br><br><br></p><br>
+the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary <br><br>Vietnam has a security policy of non-alignment, but noted in 2019 that it would consider developing appropriate defense and security relations with other countries depending on circumstances (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; the number of reported incidents decreased from four in 2020 to one in 2021<br>

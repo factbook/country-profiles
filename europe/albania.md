@@ -184,7 +184,7 @@ _unimproved: total_: total: 3% of population (2020 est.)<br>
 5.2% (2018)<br>
 
 **Physicians density**<br>
-1.22 physicians/1,000 population (2016)<br>
+1.88 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 2.9 beds/1,000 population (2013)<br>
@@ -342,8 +342,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President of the Republic Ilir META (since 24 July 2017)<br>
 _head of government_: Prime Minister Edi RAMA (since 10 September 2013); Deputy Prime Minister Arben AHMETAJ (since 18 September 2021)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, nominated by the president, and approved by the Assembly<br>
-_elections/appointments_: president indirectly elected by the Assembly for a 5-year term (eligible for a second term); a candidate needs three-fifths majority vote of the Assembly in 1 of 3 rounds or a simple majority in 2 additional rounds to become president; election last held in 4 rounds on 19, 20, 27, and 28 April 2017 (next election to be held in 2022); prime minister appointed by the president on the proposal of the majority party or coalition of parties in the Assembly<br>
-_election results_: Ilir META elected president; Assembly vote - 87 - 2 in fourth round<br>
+_elections/appointments_: president indirectly elected by the Assembly for a 5-year term (eligible for a second term); a candidate needs three-fifths majority vote of the Assembly in 1 of 3 rounds or a simple majority in 2 additional rounds to become president; election last held in 4 rounds on 16, 23, and 30 May and 4 June (next election to be held in 2027); prime minister appointed by the president on the proposal of the majority party or coalition of parties in the Assembly<br>
+_election results_: <em>2022: </em>Bajram BEGAJ elected president in the fourth round; Assembly vote - 78-4, opposition parties boycotted; BEGAJ takes office 24 June 2022<em><br><br>2017:</em> Ilir META elected president in the fourth round; Assembly vote - 87-2<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>

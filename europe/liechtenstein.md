@@ -466,8 +466,8 @@ _total subscriptions_: 12,607 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 33 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 48,904 (2020)<br>
-_subscriptions per 100 inhabitants_: 128.3 (2020 est.)<br>
+_total subscriptions_: 48,887 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: automatic telephone system; 44 Internet service providers in Liechtenstein and Switzerland combined; FttP (fiber to the home) penetration marketed 3rd highest in EU; fiber network reaches 3/4 of the population (2020)<br>

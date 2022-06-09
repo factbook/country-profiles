@@ -181,7 +181,7 @@ _unimproved: total_: total: 1.8% of population (2020 est.)<br>
 7.2% (2019)<br>
 
 **Physicians density**<br>
-1.57 physicians/1,000 population (2016)<br>
+2.87 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 1.2 beds/1,000 population (2017)<br>
@@ -343,7 +343,7 @@ _elections_: last held on 28 February 2021 (next to be held in 2024)<br>
 _election results_: percent of vote by party - NI 66.46%, ARENA 12.18%, FMLN 6.91%, GANA 5.29%, PCN 4.08%, NT 1.7%, PDC 1.7%, V 1.01%; seats by party - NI 56, ARENA 14, GANA 5, FMLN 4, PCN 2, PDC 1, NT 1, V 1; composition - men 61, women 23, percent of women 27.4%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Corte Suprema de Justicia (consists of 16 judges and 16 substitutes judges organized into Constitutional, Civil, Penal, and Administrative Conflict Chambers)<br>
+_highest courts_: Supreme Court or Corte Suprema de Justicia (consists of 15 judges, including its president, and 15 substitute judges organized into Constitutional, Civil, Penal, and Administrative Conflict Chambers)<br>
 _judge selection and term of office_: judges elected by the Legislative Assembly on the recommendation of both the National Council of the Judicature, an independent body elected by the Legislative Assembly, and the Bar Association; judges elected for 9-year terms, with renewal of one-third of membership every 3 years; consecutive reelection is allowed<br>
 _subordinate courts_: Appellate Courts; Courts of First Instance; Courts of Peace<br>
 
@@ -695,21 +695,21 @@ note - in 2016, El Salvador created a 1,000-strong combined Army commando and sp
 1% of GDP (2017) (approximately $500 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 21,000 active troops (17,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>
+approximately 21,000 active troops (17,000 Army; 2,000 Navy; 2,000 Air Force) (2022)<br>
 note - in 2021, El Salvador announced intentions to double the size of the military, although no time frame was given<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAES is dependent on a mix of mostly older imported platforms, largely from the US; since 2010, the FAES has received small amounts of equipment from several countries, including Chile, Israel, Spain, and the US (2021)<br>
+the FAES is dependent on a mix of mostly older imported platforms, largely from the US; since 2010, the FAES has received small amounts of equipment from several countries, including Chile, Israel, Spain, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2021)<br>
+18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2022)<br>
 note - as of 2016, women made up about 6% of the active duty military<br>
 
 **Military deployments**<br>
 175 Mali (MINUSMA) (Jan 2022)<br>
 
 **Military - note**<br>
-<p>the National Civilian Police (Ministry of Justice and Public Security) is responsible for maintaining public security, while the Ministry of Defense is responsible for maintaining national security; the constitution separates public security and military functions, but allows the president to use the armed forces in exceptional circumstances to maintain internal peace and public security; in November 2019, President BUKELE signed a decree authorizing military involvement in police duties to combat gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; as of 2022, a considerable portion of the Army was deployed in support of the National Police</p><br>
+the National Civilian Police (Ministry of Justice and Public Security) is responsible for maintaining public security, while the Ministry of Defense is responsible for maintaining national security; the constitution separates public security and military functions, but allows the president to use the armed forces in exceptional circumstances to maintain internal peace and public security; in November 2019, President BUKELE signed a decree authorizing military involvement in police duties to combat gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; as of 2022, a considerable portion of the Army was deployed in support of the National Police (2022)<br>
 
 ## Transnational Issues
 

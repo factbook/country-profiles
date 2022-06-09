@@ -566,8 +566,8 @@ _total subscriptions_: 38,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 21 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 184,944 (2018)<br>
-_subscriptions per 100 inhabitants_: 97.65 (2019)<br>
+_total subscriptions_: 203,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: an adequate system that is automatically switched; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes to the overall GDP; telecom sector is a growth area (2020)<br>
@@ -576,7 +576,7 @@ _international_: country code - 1-758; landing points for the ECFS&nbsp;and Sout
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-3 privately owned TV stations; 1 public TV station operating on a cable network; multi-channel cable TV service available; a mix of state-owned and privately owned broadcasters operate nearly 25 radio stations including repeater transmission stations<br>
+3 privately owned TV stations; 1 public TV station operating on a cable network; multi-channel cable TV service available; a mix of state-owned and privately owned broadcasters operate nearly 25 radio stations including repeater transmission stations (2019)<br>
 
 **Internet country code**<br>
 .lc<br>
@@ -616,7 +616,7 @@ _major seaport(s)_: Castries, Cul-de-Sac, Vieux-Fort<br>
 no regular military forces; Royal Saint Lucia Police Force (includes Special Service Unit, Marine Unit) (2022)<br>
 
 **Military - note**<br>
-<p>Saint Lucia has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p> (2022)<br>
+Saint Lucia has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2022)<br>
 
 ## Transnational Issues
 

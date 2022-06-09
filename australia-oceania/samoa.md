@@ -176,7 +176,7 @@ _unimproved: total_: total: 1.6% of population (2020 est.)<br>
 6.4% (2019)<br>
 
 **Physicians density**<br>
-0.35 physicians/1,000 population (2016)<br>
+0.6 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.5% of population<br>
@@ -583,8 +583,8 @@ _total subscriptions_: 6,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 124,211 (2018)<br>
-_subscriptions per 100 inhabitants_: 63.58 (2019)<br>
+_total subscriptions_: 69,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 35 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: development of infrastructure is hampered by geography of remote islands, vulnerable to devastating storms; telecom sector has been inhibited by lack of international connectivity; most households have at least one mobile phone; businesses in the capital area have access to broadband and Wi-Fi; rural islands have some access to Internet and Wi-Fi; liberalized regulatory infrastructure and competition in the mobile market increased coverage and reduced cost; access to submarine cables improved Internet data rates and reliability; Australian companies countering Chinese companies in the acquisition of Pacific operations; importer of broadcasting equipment from USA (2020)<br>

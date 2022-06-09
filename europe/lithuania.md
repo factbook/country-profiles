@@ -178,7 +178,7 @@ _unimproved: total_: total: 2% of population (2020 est.)<br>
 7% (2019)<br>
 
 **Physicians density**<br>
-6.35 physicians/1,000 population (2018)<br>
+5.08 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 6.4 beds/1,000 population (2018)<br>
@@ -612,8 +612,8 @@ _total subscriptions_: 322,108 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,742,427 (2020)<br>
-_subscriptions per 100 inhabitants_: 174.2 (2020 est.)<br>
+_total subscriptions_: 3,671,995 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 135 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Lithuania&rsquo;s small telecom market is among the most advanced in Europe, with universal access to LTE, extensive fiber footprint, and tests of 5G; operators focus on data speeds; improved international capability and better residential access; high SIM card penetration; increased demand for high-speed Internet for education, entertainment, and shopping during pandemic supporting growth in revenue through fiber lines; importer of broadcast equipment and video displays from neighboring EU countries (2020)<br>
@@ -721,6 +721,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; boundary demarcated with Latvia and Lithuania; as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 53,913 (Ukraine) (as of 25 May 2022)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

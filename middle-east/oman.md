@@ -179,7 +179,7 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 4.1% (2019)<br>
 
 **Physicians density**<br>
-2 physicians/1,000 population (2018)<br>
+1.77 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1.5 beds/1,000 population (2017)<br>
@@ -591,8 +591,8 @@ _total subscriptions_: 594,550 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,383,460 (2019)<br>
-_subscriptions per 100 inhabitants_: 138.23 (2019 est.)<br>
+_total subscriptions_: 6,276,535 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 134 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern system consisting of open-wire, microwave, and radiotelephone communication stations; domestic satellite system; progressive mobile sector with both 3G and 4G LTE networks and readiness for 5G launch; competition among mobile operators; government program to improve fiber network; important communications hub in the Middle East, with access to numerous submarine cables enabling increased bandwidth; major importer of broadcasting equipment and computers from UAE (2020)<br>
@@ -675,16 +675,16 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 12.3% of GDP (2017 est.) (approximately $12.7 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 40,000 total active troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2021)<br>
+approximately 40,000 total active troops (25,000 Army, 5,000 Navy; 5,000 Air Force; 5,000 Royal Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly Europe and the US; since 2010, the UK and the US are the leading suppliers of arms to Oman (2021)<br>
+the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly Europe and the US; since 2010, the UK and the US are the leading suppliers of arms to Oman (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service (women have been allowed to serve since 2011); no conscription (2021)<br>
+18-30 years of age for voluntary military service (women have been allowed to serve since 2011); no conscription (2022)<br>
 
 **Military - note**<br>
-<p>the Sultan’s Armed Forces (SAF) have a longstanding security relationship with the British military going back to the 18th century; as of 2022, the SAF and the British maintained a joint training base in Oman and exercised together regularly; in 2017, Oman and the British signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port</p><br>
+the Sultan’s Armed Forces (SAF) have a longstanding security relationship with the British military going back to the 18th century; as of 2022, the SAF and the British maintained a joint training base in Oman and exercised together regularly; in 2017, Oman and the British signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port (2022)<br>
 
 **Maritime threats**<br>
 <p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-003 Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Red Sea-Threats to US and International Shipping from Iran) effective 28 February 2022, which states in part that "heightened military activities and increased political tensions in this region continue to present risk to commercial shipping...there is a continued possibility that Iran and/or its regional proxies could take actions against US and partner interests in the region"; Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>

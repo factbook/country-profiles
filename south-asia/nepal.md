@@ -183,7 +183,7 @@ _unimproved: total_: total: 5.9% of population (2020 est.)<br>
 4.5% (2019)<br>
 
 **Physicians density**<br>
-0.75 physicians/1,000 population (2018)<br>
+0.85 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 0.3 beds/1,000 population (2012)<br>
@@ -617,8 +617,8 @@ _total subscriptions_: 726,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 39,178,451 (2018)<br>
-_subscriptions per 100 inhabitants_: 130.6 (2019)<br>
+_total subscriptions_: 38.213 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 131 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: poverty, inconsistent electricity, and mountainous topography stymie development of telecom infrastructure; mobile market is developed and has been extended to all districts covering 90% of Nepal; fixed broadband is low due to limited number of fixed-lines and preeminence of the mobile platform; increasing 3G and 4G subscribers; fiber-optic networks developing under private and public funding to meet demand for Internet; government supports digital society, whereby 90% of the population will have access to broadband and free Internet access for students; plans to launch a Nepalese satellite by 2022; importer of broadcasting equipment from China (2020)<br>
@@ -689,13 +689,13 @@ Nepal Army (includes Air Wing); Nepal Armed Police Force (paramilitary force und
 2.6% of GDP (2017) (approximately $1.12 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 95,000 active troops (including a small air wing of about 500 personnel) (2021)<br>
+approximately 95,000 active troops (including a small air wing of about 500 personnel) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Army's inventory includes a mix of older equipment largely of British, Chinese, Indian, Russian, and South African origin; since 2010, Nepal has received limited amounts of newer hardware from several countries, including China, Italy, and Russia (2021)<br>
+the Army's inventory includes a mix of older equipment largely of British, Chinese, Indian, Russian, and South African origin; since 2010, Nepal has received limited amounts of newer hardware from several countries, including China, Italy, and Russia (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (including women); no conscription (2021)<br>
+18 years of age for voluntary military service (including women); no conscription (2022)<br>
 note - as of 2020, women comprised about 5% of the active duty military<br>
 
 **Military deployments**<br>

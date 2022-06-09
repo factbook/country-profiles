@@ -189,7 +189,7 @@ _unimproved: total_: total: 20.2% of population (2020 est.)<br>
 3.3% (2019)<br>
 
 **Physicians density**<br>
-0.23 physicians/1,000 population (2014)<br>
+0.16 physicians/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 77.8% of population<br>

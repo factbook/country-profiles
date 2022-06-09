@@ -190,7 +190,7 @@ _unimproved: total_: total: 6.5% of population (2020 est.)<br>
 6.9% (2019)<br>
 
 **Physicians density**<br>
-1.59 physicians/1,000 population (2016)<br>
+1.03 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
 1.3 beds/1,000 population (2017)<br>
@@ -362,7 +362,7 @@ _election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected presid
 **Legislative branch**<br>
 _description_: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of:<br>Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by closed party-list proportional representation vote, and 7 (apportioned to non-contiguous, rural areas in 7 of the 9 states) directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
 _elections_: <br>Chamber of Senators - last held on 18 October 2020 (next to be held in 2025)<br>Chamber of Deputies - last held on 18 October 2020 (next to be held in 2025)<br>
-_election results_: <br>Chamber of Senators - percent of vote by party - NA; seats by party - MAS 21, ACC 11, Creemos 4; composition as of March 2022 - men16, women 20, percent of women 55.6%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 75, ACC 39, Creemos 16; composition as of March 2022 - men 70, women 60, percent of women 46.2%; note - total Plurinational Legislative Assembly percent of women as of March 2022 - 48.2%<br>
+_election results_: <br>Chamber of Senators - percent of vote by party - NA; seats by party - MAS 21, ACC 11, Creemos 4; composition as of March 2022 - men 16, women 20, percent of women 55.6%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 75, ACC 39, Creemos 16; composition as of March 2022 - men 70, women 60, percent of women 46.2%; note - total Plurinational Legislative Assembly percent of women as of March 2022 - 48.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Tribunal Supremo de Justicia (consists of 12 judges or ministros organized into civil, penal, social, and administrative chambers); Plurinational Constitutional Tribunal (consists of 7 primary and 7 alternate magistrates); Plurinational Electoral Organ (consists of 7 members and 6 alternates); National Agro-Environment Court (consists of 5 primary and 5 alternate judges; Council of the Judiciary (consists of 3 primary and 3 alternate judges)<br>
@@ -725,16 +725,16 @@ note(s) - the National Police is part of the reserves for the Armed Forces; the 
 1.5% of GDP (2017 est.) (approximately $1.01 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police; approximately 40,000 National Police (2021)<br>
+information varies widely; approximately 40,000 active troops (28,000 Army; 5,000 Navy; 7,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police; approximately 40,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Bolivian Armed Forces are equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; since 2010, China and France are the leading suppliers of military hardware to Bolivia (2021)<br>
+the Bolivian Armed Forces are equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; since 2010, China and France are the leading suppliers of military hardware to Bolivia (2022)<br>
 
 **Military service age and obligation**<br>
-compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for one year; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 2 years (2021)<br>
+compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for one year; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 2 years (2022)<br>
 
 **Military - note**<br>
-<p>Bolivia has a small naval force for patrolling some 5,000 miles of navigable rivers to combat narcotics trafficking and smuggling, provide disaster relief, and deliver supplies to remote rural areas, as well as for maintaining a presence on Lake Titicaca; the Navy also exists in part to cultivate a maritime tradition and as a reminder of Bolivia’s desire to regain the access to the Pacific Ocean that the country lost to Chile in the War of the Pacific (1879-1884); every year on 23 March, the Navy participates in parades and government ceremonies commemorating the Día Del Mar (Day of the Sea) holiday that remembers the loss</p><br>
+Bolivia has a small naval force for patrolling some 5,000 miles of navigable rivers to combat narcotics trafficking and smuggling, provide disaster relief, and deliver supplies to remote rural areas, as well as for maintaining a presence on Lake Titicaca; the Navy also exists in part to cultivate a maritime tradition and as a reminder of Bolivia&rsquo;s desire to regain the access to the Pacific Ocean that the country lost to Chile in the War of the Pacific (1879-1884); every year on 23 March, the Navy participates in parades and government ceremonies commemorating the D&iacute;a Del Mar (Day of the Sea) holiday that remembers the loss (2022)<br>
 
 ## Transnational Issues
 

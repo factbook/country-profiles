@@ -187,7 +187,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 10.4% (2019)<br>
 
 **Physicians density**<br>
-5.17 physicians/1,000 population (2017)<br>
+5.29 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 7.3 beds/1,000 population (2018)<br>
@@ -728,7 +728,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 68,747 (Ukraine) (as of 1 June 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

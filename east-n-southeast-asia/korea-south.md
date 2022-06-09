@@ -180,7 +180,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 8.2% (2019)<br>
 
 **Physicians density**<br>
-2.36 physicians/1,000 population (2017)<br>
+2.48 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 12.4 beds/1,000 population (2018)<br>
@@ -204,7 +204,7 @@ NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 30 March 2022, South Korea has reported a total of 12,774,956 cases of COVID-19 or 24,917.41 cumulative cases of COVID-19 per 100,000 population with a total of 15,855 cumulative deaths or a rate of 30.92 cumulative deaths per 100,000 population; as of 29 March 2022, 87.61% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 30 March 2022, South Korea has reported a total of 18,168,708 cases of COVID-19 or 35,437.8 cumulative cases of COVID-19 per 100,000 population with a total of 24,279 cumulative deaths or a rate of 47.4 cumulative deaths per 100,000 population; as of 6 June 2022, 87.8% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 4.7% (2016)<br>
@@ -265,7 +265,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 30 March 2022, South Korea has reported a total of 12,774,956 cases of COVID-19 or 24,917.41 cumulative cases of COVID-19 per 100,000 population with a total of 15,855 cumulative deaths or a rate of 30.92 cumulative deaths per 100,000 population; as of 29 March 2022, 87.61% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 30 March 2022, South Korea has reported a total of 18,168,708 cases of COVID-19 or 35,437.8 cumulative cases of COVID-19 per 100,000 population with a total of 24,279 cumulative deaths or a rate of 47.4 cumulative deaths per 100,000 population; as of 6 June 2022, 87.8% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,218,975 tons (2014 est.)<br>

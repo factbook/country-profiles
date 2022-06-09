@@ -188,7 +188,7 @@ _unimproved: total_: total: 23.1% of population (2020 est.)<br>
 7.7% (2019)<br>
 
 **Physicians density**<br>
-0.21 physicians/1,000 population (2018)<br>
+0.2 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1.7 beds/1,000 population (2011)<br>
@@ -701,7 +701,7 @@ _river port(s)_: Binga, Kariba (Zambezi)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ) (2021)<br>
+Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ) (2022)<br>
 
 **Military expenditures**<br>
 2.6% of GDP (2019 est.) (approximately $650 million)<br>
@@ -711,7 +711,7 @@ Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbab
 1.9% of GDP (2015 est.) (approximately $490 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 30,000 active duty troops, including about 4,000 serving in the Air Force (2021)<br>
+information varies; approximately 30,000 active duty troops, including about 4,000 Air Force personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ZDF inventory is comprised mostly of older Chinese- and Russian-origin equipment; since the early 2000s, Zimbabwe has been under an arms embargo from the European Union, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US (2021)<br>
@@ -720,7 +720,7 @@ the ZDF inventory is comprised mostly of older Chinese- and Russian-origin equip
 18-22 years of age for voluntary military service (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription; women are eligible to serve (2021)<br>
 
 **Military - note**<br>
-the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); internal security is a key current responsibility, and the military continues to play an active role in the country&rsquo;s politics since the coup of 2017 (2021)<br>
+the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); internal security is a key current responsibility, and the military continues to play an active role in the country&rsquo;s politics since the coup of 2017 (2022)<br>
 
 ## Transnational Issues
 

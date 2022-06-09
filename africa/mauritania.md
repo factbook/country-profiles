@@ -379,7 +379,7 @@ _subordinate courts_: Courts of Appeal; courts of first instance or wilya courts
 Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moctar SARR]<br>Burst of Youth for the Nation [Lalla Mint CHERIF]<br>Coalition of Majority Parties or CPM (includes UPR, UDP) and smaller parties<br>El Karama Party [Cheikhna Ould Mohamed Ould HAJBOU]<br>El Vadila Party [Ethmane Ould Ahmed ABOULMAALY]<br>National Rally for Reform and Development or RNRD-TAWASSOUL [Mohamed Mahmoud Ould SEYIDI]<br>Party of Unity and Development or PUD [Mohamed BARO]<br>Popular Progressive Alliance or APP [Messaoud Ould BOULKHEIR]<br>Rally of Democratic Forces or RFD [Ahmed Ould DADDAH]<br>Ravah Party [ Mohamed Ould VALL]<br>Republican Party for Democracy and Renewal or PRDR [Mintata Mint HEDEID]<br>Union for Democracy and Progress or UDP [Naha Mint MOUKNASS]<br>Union of Progress Forces [Mohamed Ould MAOULOUD]<br>Union for the Republic or UPR [Sidi Mohamed Ould Taleb AMAR]<br>
 
 **International organization participation**<br>
-ABEDA, ACP, AfDB, AFESD, AMF, AMU, AU, CAEU (candidate), EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, MIUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ABEDA, ACP, AfDB, AFESD, AMF, AMU, AU, CAEU, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, MIUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador BOIDE Cisse (since 15 September 2021)<br>
@@ -389,7 +389,7 @@ _FAX_: [1] (202) 319-2623<br>
 _email address and website_: <br>office@mauritaniaembassyus.com<br><br>http://mauritaniaembassyus.com/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Cynthia KIERSCHT (since 27 January 2021)<br>
+_chief of mission_: Ambassador Cynthia KIERSCHT (since 29 March 2021)<br>
 _embassy_: Nouadhibou Road, Avenue Al Quds, NOT PRTZ, Nouakchott<br><br>  <br>
 _mailing address_: 2430 Nouakchott Place, Washington DC&nbsp; 20521-2430<br>
 _telephone_: [222] 4525-2660<br>
@@ -631,8 +631,8 @@ _total subscriptions_: 62,099 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,932,571 (2020)<br>
-_subscriptions per 100 inhabitants_: 106.1 (2020 est.)<br>
+_total subscriptions_: 4,932,571 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Mauritania&rsquo;s small population and low economic output limit sustained growth; transparency and tax burdens hinder foreign investment; World Bank and European Investment Bank support regulatory reforms to promote fixed-line broadband, improvement of the national backbone network, and connectivity to international cables; limited system of cable and open-wire lines, mobile-cellular services expanding though monopolies, and little stimulus for competition; 3G penetration high yet little development in LTE; mobile broadband access speeds are low; importer of broadcasting equipment from UAE (2020)<br>
@@ -712,13 +712,13 @@ note(s) - the Gendarmerie is responsible for maintaining civil order around metr
 2.3% of GDP (2017 est.) (approximately $440 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 16,000 active personnel (15,000 Army; 700 Navy; 300 Air Force); est. 3,000 Gendarmerie; est. 2,000 National Guard (2021)<br>
+approximately 16,000 active personnel (15,000 Army; 700 Navy; 300 Air Force); est. 3,000 Gendarmerie; est. 2,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Mauritanian Armed Forces' inventory is limited and made up largely of older French and Soviet-era equipment; since 2010, Mauritania has received a limited amount of mostly secondhand military equipment from a variety of suppliers, with China as the leading provider (2021)<br>
+the Mauritanian Armed Forces' inventory is limited and made up largely of older French and Soviet-era equipment; since 2010, Mauritania has received a limited amount of mostly secondhand military equipment from a variety of suppliers, with China as the leading provider (2022)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; no conscription (2021)<br>
+18 is the legal minimum age for voluntary military service; no conscription (2022)<br>
 
 **Military deployments**<br>
 460 (plus about 320 police) Central African Republic (MINUSCA) (Feb 2022)<br>

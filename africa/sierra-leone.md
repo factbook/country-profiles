@@ -184,7 +184,7 @@ _unimproved: total_: total: 27.2% of population (2020 est.)<br>
 8.8% (2019)<br>
 
 **Physicians density**<br>
-0.03 physicians/1,000 population (2011)<br>
+0.07 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 79.5% of population<br>
@@ -609,8 +609,8 @@ _total subscriptions_: 189 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,729,800 (2019)<br>
-_subscriptions per 100 inhabitants_: 86.13 (2019)<br>
+_total subscriptions_: 6,884,201 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 86 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom sector is recovering from the decades of war, yet still constrained by inadequate power and pervasive corruption; recently installed terrestrial fiber backbone infrastructure; telephone service improving with the rapid growth of mobile sector; operators increased investment to provide national coverage; LTE available in some parts of the country; construction of 600 km ECOWAS Wide Area Network completed; fiber link to Guinea completed; importer of broadcasting equipment from China (2020)<br>

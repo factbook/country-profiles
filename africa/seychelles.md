@@ -172,7 +172,7 @@ _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 5.2% (2019)<br>
 
 **Physicians density**<br>
-2.12 physicians/1,000 population (2016)<br>
+2.25 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 3.6 beds/1,000 population (2011)<br>
@@ -579,8 +579,8 @@ _total subscriptions_: 18,882 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 19 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 193,672 (2019)<br>
-_subscriptions per 100 inhabitants_: 198.15 (2019)<br>
+_total subscriptions_: 183,498 (2020)<br>
+_subscriptions per 100 inhabitants_: 187 (2020)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: effective system; direct international calls to over 100 countries; radiotelephone communications between islands in the archipelago; 3 ISPs; use of Internet cafes' for access to Internet; 4G services and 5G pending (2020)<br>
@@ -645,7 +645,7 @@ _major seaport(s)_: Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Seychelles People’s Defense Forces (SPDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force; Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, the Anti-Narcotics Bureau, and the Marine Police Unit) (2022)<br><br>note - the military reports to the president, who acts as minister of defense  <br>
+Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force; Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, the Anti-Narcotics Bureau, and the Marine Police Unit) (2022)<br><br>note - the military reports to the president, who acts as minister of defense  <br>
 note - the military reports to the president, who acts as minister of defense &nbsp;<br>
 
 **Military expenditures**<br>
@@ -656,16 +656,16 @@ note - the military reports to the president, who acts as minister of defense &n
 1.5% of GDP (2017 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Seychelles People&rsquo;s Defense Forces (SPDF) have approximately 500 personnel (2021)<br>
+approximately 500 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SPDF's inventory primarily consists of Soviet-era equipment delivered in the 1970s and 1980s; since 2010, the SPDF has received limited amounts of more modern equipment (mostly donations of patrol boats and aircraft) from several suppliers led by China and India (2021)<br>
+the SDF's inventory primarily consists of Soviet-era equipment delivered in the 1970s and 1980s; since 2010, the SDF has received limited amounts of more modern equipment (mostly donations of patrol boats and aircraft) from several suppliers led by China and India (2022)<br>
 
 **Military service age and obligation**<br>
-18-28 (18-25 for officers) years of age for voluntary military service (including women); 6-year initial commitment; no conscription (2021)<br>
+18-28 (18-25 for officers) years of age for voluntary military service (including women); 6-year initial commitment; no conscription (2022)<br>
 
 **Military - note**<br>
-formed in 1977, the SPDF's primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling (2022)<br>
+formed in 1977, the SDF's primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling (2022)<br>
 
 ## Transnational Issues
 

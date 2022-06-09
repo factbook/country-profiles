@@ -187,7 +187,7 @@ _unimproved: total_: total: 0.9% of population (2020 est.)<br>
 7.6% (2019)<br>
 
 **Physicians density**<br>
-2.32 physicians/1,000 population (2017)<br>
+2.66 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 1.5 beds/1,000 population (2017)<br>
@@ -210,7 +210,7 @@ _unimproved: total_: total: 1.3% of population (2020 est.)<br>
 (2020 est.) <100<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 30 March 2022, Jordan has reported a total of 1,692,485 cases of COVID-19 or 16,587.89 cumulative cases of COVID-19 per 100,000 population with a total of 14,031 cumulative deaths or a rate of 137.51 cumulative deaths per 100,000 population; as of 29 March 2022, 45.91% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 6 June 2022, Jordan has reported a total of 1,697,271 cases of COVID-19 or 16,634.8 cumulative cases of COVID-19 per 100,000 population with a total of 14,068 cumulative deaths or a rate of 137.9 cumulative deaths per 100,000 population; as of 29 May 2022, 46.65% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 35.5% (2016)<br>
@@ -278,7 +278,7 @@ _forest revenues_: 0.02% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 30 March 2022, Jordan has reported a total of 1,692,485 cases of COVID-19 or 16,587.89 cumulative cases of COVID-19 per 100,000 population with a total of 14,031 cumulative deaths or a rate of 137.51 cumulative deaths per 100,000 population; as of 29 March 2022, 45.91% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 6 June 2022, Jordan has reported a total of 1,697,271 cases of COVID-19 or 16,634.8 cumulative cases of COVID-19 per 100,000 population with a total of 14,068 cumulative deaths or a rate of 137.9 cumulative deaths per 100,000 population; as of 29 May 2022, 46.65% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,529,997 tons (2013 est.)<br>
@@ -707,20 +707,20 @@ note - the armed forces report administratively to the minister of defense and h
 5.7% of GDP (2017 est.) (approximately $5.18 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 90,000 active JAF personnel (77,000 Army; 500 Navy; 12,500 Air Force); approximately 15,000 Gendarmerie Forces (2021)<br>
+approximately 90,000 active JAF personnel (77,000 Army; 500 Navy; 12,500 Air Force); approximately 15,000 Gendarmerie Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the JAF inventory is comprised of a wide mix of imported equipment from Europe, some Gulf States, Russia, and the US; since 2010, the Netherlands and the US are the leading suppliers (2021)<br>
+the JAF inventory is comprised of a wide mix of imported equipment from Europe, some Gulf States, Russia, and the US; since 2010, the Netherlands and the US are the leading suppliers (2022)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary male military service (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term 2 years, with option to reenlist for 18 years; conscription abolished in 1991; however, in 2020, Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of 3 months of military training and 9 months of professional and technical training; in 2019, announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least 6 months; service would include 1 month for military training with the remaining 3 months dedicated to vocational training in the sectors of construction and tourism (2021)<br>
+17 years of age for voluntary male military service (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term 2 years, with option to reenlist for 18 years; conscription abolished in 1991; however, in 2020, Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of 3 months of military training and 9 months of professional and technical training; in 2019, announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least 6 months; service would include 1 month for military training with the remaining 3 months dedicated to vocational training in the sectors of construction and tourism (2022)<br>
 note - most women serve in the medical service; outside the medical service, women comprised about 1.5% of the military as of 2019; the Jordanian Government intended to raise this to 3%<br>
 
 **Military deployments**<br>
 330 Mali (MINUSMA) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s</p> <p>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2022 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan</p> <p>Jordan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>Jordan signed a peace treaty with Israel in 1994</p><br>
+<p>the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s</p> <p>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2022 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of Iraq and ash-Sham (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan</p> <p>Jordan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments <br><br>Jordan signed a peace treaty with Israel in 1994</p><br>
 
 ## Terrorism
 
@@ -733,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>2004 Agreement settles border dispute with Syria pending demarcation</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 674,458 (Syria) (2022)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 675,040 (Syria) (2022)<br>
 _stateless persons_: 63 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

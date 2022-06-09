@@ -190,7 +190,7 @@ _unimproved: total_: total: 12.7% of population (2020 est.)<br>
 4.1% (2019)<br>
 
 **Physicians density**<br>
-0.07 physicians/1,000 population (2017)<br>
+0.09 physicians/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 94.1% of population<br>
@@ -635,8 +635,8 @@ _total subscriptions_: 228,774 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 17,880,600 (2019)<br>
-_subscriptions per 100 inhabitants_: 109.72 (2019)<br>
+_total subscriptions_: 19,078,948 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: universal mobile penetration since 2019; mobile broadband accounts for 97% of Internet access; 3G and LTE services for half of the population; African consortium issued a bond to finance network upgrades and services; importer of broadcasting equipment from UAE and China (2020)<br>

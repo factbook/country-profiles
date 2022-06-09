@@ -183,7 +183,7 @@ _unimproved: total_: total: 15.6% of population (2020 est.)<br>
 7.1% (2019)<br>
 
 **Physicians density**<br>
-2.1 physicians/1,000 population (2014)<br>
+1.72 physicians/1,000 population (2014)<br>
 
 **Hospital bed density**<br>
 4.7 beds/1,000 population (2014)<br>
@@ -678,7 +678,7 @@ _total_: 30,000 km (2018)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime); State Committee on National Security: Border Guard Forces (2021)<br>
+Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime); State Committee on National Security: Border Guard Forces (2022)<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2019 est.) (approximately $360 million)<br>
@@ -688,16 +688,16 @@ Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces, Air and 
 2.2% of GDP (2015 est.) (approximately $310 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 9,500 active troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2021)<br>
+approximately 9,500 active troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Tajikistan Armed Forces' inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems since 2010, most of which was second-hand material from Russia (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service for men; 24-month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2021)<br>
+18-27 years of age for compulsory or voluntary military service for men; 24-month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2022)<br>
 
 **Military - note**<br>
-Tajikistan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>
+Tajikistan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2022)<br>
 
 ## Terrorism
 

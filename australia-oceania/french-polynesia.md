@@ -167,9 +167,6 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current Health Expenditure**<br>
 NA<br>
 
-**Physicians density**<br>
-2.13 physicians/1,000 population (2009)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>

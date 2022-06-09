@@ -656,8 +656,8 @@ _total subscriptions_: 2,357,286 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 49,421,023 (2020)<br>
-_subscriptions per 100 inhabitants_: 133.9 (2020 est.)<br>
+_total subscriptions_: 49,421,023 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 134 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: despite Morocco's economic progress, the country suffers from high unemployment and illiteracy affecting telecom market, particularly in rural areas; national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay; one of the most state-of-the-art markets in Africa; high mobile penetration rates in the region with low cost for broadband Internet access; improvement in LTE reach and capabilities; service providers have all successfully completed 5G proofs of concept and are currently lining up 5G equipment providers for both radio and core technology; regulatory agency expects to conduct the 5G spectrum auction in 2023; mobile Internet accounts for 93% of all Internet connections; World Bank provided funds for Morocco&rsquo;s digital transformation; government supported digital education during pandemic; submarine cables and satellite provide connectivity to Asia, Africa, the Middle East, Europe, and Australia; importer of broadcasting equipment, surveillance equipment, scanning equipment, and video displays from China (2022)<br>

@@ -179,7 +179,7 @@ _unimproved: total_: total: 2.7% of population (2020 est.)<br>
 6.7% (2019)<br>
 
 **Physicians density**<br>
-7.12 physicians/1,000 population (2018)<br>
+5.11 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 2.9 beds/1,000 population (2014)<br>
@@ -705,6 +705,7 @@ as of 2022, approximately 7-10,000 Russian troops continued to occupy the breaka
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 19,690 (Ukraine) (as of 22 May 2022)<br>
 _IDPs_: 304,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2019)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 

@@ -169,7 +169,7 @@ _unimproved: total_: total: 1.7% of population (2015 est.)<br>
 5.4% (2019)<br>
 
 **Physicians density**<br>
-2.68 physicians/1,000 population (2015)<br>
+2.77 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 4.8 beds/1,000 population (2012)<br>
@@ -544,8 +544,8 @@ _total subscriptions_: 15,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 28 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 76,878 (2018)<br>
-_subscriptions per 100 inhabitants_: 147.71 (2019)<br>
+_total subscriptions_: 78,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 147 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
@@ -554,7 +554,7 @@ _international_: country code - 1-869; landing points for&nbsp;the ECFS, Souther
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-the government operates a national TV network that broadcasts on 2 channels; cable subscription services provide access to local and international channels; the government operates a national radio network; a mix of government-owned and privately owned broadcasters operate roughly 15 radio stations<br>
+the government operates a national TV network that broadcasts on 2 channels; cable subscription services provide access to local and international channels; the government operates a national radio network; a mix of government-owned and privately owned broadcasters operate roughly 15 radio stations (2019)<br>
 
 **Internet country code**<br>
 .kn<br>

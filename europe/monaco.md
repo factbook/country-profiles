@@ -459,8 +459,8 @@ _total subscriptions_: 43,706 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 111 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 35,485 (2020)<br>
-_subscriptions per 100 inhabitants_: 90.43 (2020 est.)<br>
+_total subscriptions_: 35,485 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 90 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern automatic telephone system; the country's sole fixed-line operator offers a full range of services to residential and business customers; competitive mobile telephony market; 4G LTE widely available (2020)<br>

@@ -544,8 +544,8 @@ _total subscriptions_: 7,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 23,114 (2018)<br>
-_subscriptions per 100 inhabitants_: 20.74 (2019 est.)<br>
+_total subscriptions_: 22,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 19 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate system, the demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region (2020)<br>

@@ -189,7 +189,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 9.4% (2019)<br>
 
 **Physicians density**<br>
-5.08 physicians/1,000 population (2017)<br>
+4.94 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
 2.4 beds/1,000 population (2017)<br>
@@ -701,20 +701,20 @@ Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito N
 2% of GDP (2017 est.) (approximately $1.38 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 22,000 active personnel (14,000 Army; 5,000 Navy; 3,000 Air Force) (2021)<br>
+approximately 22,000 active personnel (14,000 Army; 5,000 Navy; 3,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Armed Forces of Uruguay includes a wide variety of older or second-hand equipment; since 2010, it has imported limited amounts of military hardware from about 10 countries with Spain as the leading supplier (2021)<br>
+the inventory of the Armed Forces of Uruguay includes a wide variety of older or second-hand equipment; since 2010, it has imported limited amounts of military hardware from about 10 countries with Spain as the leading supplier (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age (18-22 years of age for Navy) for male or female voluntary military service; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2021)<br>
+18-30 years of age (18-22 years of age for Navy) for male or female voluntary military service; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2022)<br>
 note - as of 2017, women comprised about 19% of the active military<br>
 
 **Military deployments**<br>
 830 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>as of 2021, the military had some domestic responsibilities, including perimeter security for a number of prisons and border security; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018  </p><br>
+the military has some domestic responsibilities, including perimeter security for a number of prisons and border security; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018 (2022)<br>
 
 ## Transnational Issues
 

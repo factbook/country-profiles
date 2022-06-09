@@ -65,7 +65,7 @@ landlocked; an enclave in Rome, Italy; world's smallest state; beyond the territ
 ## People and Society
 
 **Population**<br>
-1,000 (2019 est.)<br>
+1,000 (2022 est.)<br>
 
 **Nationality**<br>
 _noun_: none<br>

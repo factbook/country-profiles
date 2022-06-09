@@ -189,7 +189,7 @@ _unimproved: total_: total: 17.3% of population (2020 est.)<br>
 6.4% (2019)<br>
 
 **Physicians density**<br>
-0.13 physicians/1,000 population (2018)<br>
+0.12 physicians/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 89.1% of population<br>
@@ -618,8 +618,8 @@ _total subscriptions_: 11,671 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9,658,550 (2019)<br>
-_subscriptions per 100 inhabitants_: 76.49 (2019)<br>
+_total subscriptions_: 10,614,408 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 82 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom market impacted by energy shortages and instability in neighboring states; government investing in smart city infrastructure; growing economy and foreign aid from South Korea help launch telecom sector, despite widespread poverty; expansion of LTE services; competing operators roll out national fiber optic backbone through connection to submarine cables, ending expensive dependence on satellite; importer of broadcasting equipment from China (2020)<br>

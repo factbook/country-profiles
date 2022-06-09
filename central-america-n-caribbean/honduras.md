@@ -186,7 +186,7 @@ _unimproved: total_: total: 3.9% of population (2020 est.)<br>
 7.3% (2019)<br>
 
 **Physicians density**<br>
-0.31 physicians/1,000 population (2017)<br>
+0.5 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 0.6 beds/1,000 population (2017)<br>
@@ -690,8 +690,8 @@ _major seaport(s)_: La Ceiba, Puerto Cortes, San Lorenzo, Tela<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Honduran Naval Force (FNH; includes marines), Honduran Air Force (Fuerza Aerea Hondurena, FAH), Honduran Military Police of Public Order (PMOP); Security Secretariat: Public Security Forces (includes Honduran National Police paramilitary units) (2022)<br><br>note - the PMOP was created in 2013 as part of an effort by the Honduran Government to expand the military’s role in law enforcement alongside the Honduran National Police (HNP), particularly against narcotics trafficking and organized crime; since its creation, the PMOP’s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2022, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who have undergone some police training; it reported to military authorities but conducted operations sanctioned by both civilian security officials and military leaders<br>
-note - the PMOP was created in 2013 as part of an effort by the Honduran Government to expand the military&rsquo;s role in law enforcement alongside the Honduran National Police (HNP), particularly against narcotics trafficking and organized crime; since its creation, the PMOP&rsquo;s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2022, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who have undergone some police training; it reported to military authorities but conducted operations sanctioned by both civilian security officials and military leaders<br>
+Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Honduran Naval Force (FNH; includes marines), Honduran Air Force (Fuerza Aerea Hondurena, FAH), Honduran Military Police of Public Order (PMOP); Security Secretariat: Public Security Forces (includes Honduran National Police paramilitary units) (2022)<br><br>note - the PMOP was created in 2013 to support the Honduran National Police (HNP) against narcotics trafficking and organized crime; since its creation, the PMOP’s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2022, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who had undergone some police training; it reported to military authorities but conducted operations sanctioned by both civilian security officials and military leaders<br>
+note - the PMOP was created in 2013 to support the Honduran National Police (HNP) against narcotics trafficking and organized crime; since its creation, the PMOP&rsquo;s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2022, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who had undergone some police training; it reported to military authorities but conducted operations sanctioned by both civilian security officials and military leaders<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
@@ -701,13 +701,13 @@ note - the PMOP was created in 2013 as part of an effort by the Honduran Governm
 1.7% of GDP (2017 est.) (approximately $510 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Honduran Armed Forces (FFAA) have approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Military Police of Public Order); approximately 18,000 National Police (2021)<br>
+approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Military Police of Public Order); approximately 18,000 National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; since 2010, Honduras has received limited amounts of military equipment from several countries, including Colombia, Israel, and the Netherlands (2021)<br>
+the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; since 2010, Honduras has received limited amounts of military equipment from several countries, including Colombia, Israel, and the Netherlands (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary 2- to 3-year military service (men and women); no conscription (2021)<br>
+18 years of age for voluntary 2- to 3-year military service (men and women); no conscription (2022)<br>
 note - as of 2017, women made up over 4% of the active duty military<br>
 
 **Military - note**<br>

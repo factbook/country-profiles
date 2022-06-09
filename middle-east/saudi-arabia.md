@@ -182,7 +182,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 5.7% (2019)<br>
 
 **Physicians density**<br>
-2.61 physicians/1,000 population (2018)<br>
+2.74 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 2.2 beds/1,000 population (2017)<br>
@@ -606,8 +606,8 @@ _total subscriptions_: 5,749,058 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 17 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 41,298,600 (2019)<br>
-_subscriptions per 100 inhabitants_: 120.52 (2019)<br>
+_total subscriptions_: 43,215,439 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 124 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the most progressive telecom markets in the Middle East; mobile penetration high, with a saturated market; mobile operators competitive and meeting the demand for workers, students and citizens working from home; Huawei partners with operator to provide 5G to dozens of cities; broadband is available with DSL, fiber, and wireless; mobile penetration is high; restrictive monarchy places limits on information and services available online; authorities operate extensive censorship and surveillance systems; major importer of broadcasting equipment from UAE and China (2020)<br>

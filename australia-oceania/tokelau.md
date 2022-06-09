@@ -150,9 +150,6 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 **Current Health Expenditure**<br>
 NA<br>
 
-**Physicians density**<br>
-2.72 physicians/1,000 population (2010)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: 100% of population<br>
@@ -250,7 +247,7 @@ see New Zealand<br>
 21 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of New Zealand Governor General Dame Patricia Lee REDDY (since 28 September 2016); New Zealand is represented by Administrator Ross ARDERN (since May 2018)<br>
+_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of New Zealand Governor General Dame Cindy KIRO (since 21 September 2021); New Zealand is represented by Administrator Ross ARDERN (since May 2018)<br>
 _head of government_: (Ulu o Tokelau) Kelihiano KALOLO (since 8 March 2021); note - position rotates annually among the three Faipule (village leaders) of the atolls<br>
 _cabinet_: Council for the Ongoing Government of Tokelau (or Tokelau Council) functions as a cabinet; consists of 3 Faipule (village leaders) and 3 Pulenuku (village mayors)<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term<br>

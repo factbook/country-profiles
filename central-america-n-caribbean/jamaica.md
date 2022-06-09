@@ -178,7 +178,7 @@ _unimproved: total_: total: 3.6% of population (2020 est.)<br>
 6.1% (2019)<br>
 
 **Physicians density**<br>
-1.31 physicians/1,000 population (2017)<br>
+0.53 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 1.7 beds/1,000 population (2017)<br>
@@ -664,16 +664,16 @@ note - both the JDF and JCF are under the Ministry of National Security<br>
 1% of GDP (2017 est.) (approximately $190 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 4,000 total active personnel (2021)<br>
+information varies; approximately 4,000 total active personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Jamaica Defense Force is lightly armed with a limited inventory featuring equipment mostly from Europe and the US (2021)<br>
+the Jamaica Defense Force is lightly armed with a limited inventory featuring equipment mostly from Europe and the US (2022)<br>
 
 **Military service age and obligation**<br>
-no conscription; 18-23 for voluntary military service (17 with parental consent; 18-28 for the reserves); since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 1-year of service, soldiers can continue on with the JDF or seek other opportunities with law enforcement (2021)<br>
+no conscription; 18-23 for voluntary military service (17 with parental consent; 18-28 for the reserves); since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 1-year of service, soldiers can continue on with the JDF or seek other opportunities with law enforcement (2022)<br>
 
 **Military - note**<br>
-<p>as of 2022, the JDF’s primary missions were maritime/border and internal security, including support to police operations to combat crime and violence</p><br>
+as of 2022, the JDF&rsquo;s primary missions were maritime/border and internal security, including support to police operations to combat crime and violence<br>
 
 ## Transnational Issues
 

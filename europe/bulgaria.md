@@ -184,7 +184,7 @@ _unimproved: total_: total: 1% of population (2020 est.)<br>
 7.1% (2019)<br>
 
 **Physicians density**<br>
-4.03 physicians/1,000 population (2015)<br>
+4.2 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 7.5 beds/1,000 population (2017)<br>
@@ -725,7 +725,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 78,714 (Ukraine) (as of 1 June 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 74,107 estimated refugee and migrant arrivals (January 2015-March 2022); Bulgaria is predominantly a transit country<br>
 

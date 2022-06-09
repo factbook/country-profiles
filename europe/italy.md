@@ -181,7 +181,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 8.7% (2019)<br>
 
 **Physicians density**<br>
-3.98 physicians/1,000 population (2018)<br>
+3.95 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 3.1 beds/1,000 population (2018)<br>
@@ -206,7 +206,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Italy has reported a total of 14,496,579 cases of COVID-19 or 24,306.19 cumulative cases of COVID-19 per 100,000 population with a total of 159,054 cumulative deaths or a rate of 266.68 cumulative deaths per 100,000 population; as of 29 March 2022, 84.02% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Italy has reported a total of 17,505,973 cases of COVID-19 or 29,352 cumulative cases of COVID-19 per 100,000 population with a total of 166,949 cumulative deaths or a rate of 279.9 cumulative deaths per 100,000 population; as of 6 June 2022, 84.1% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
@@ -269,7 +269,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Italy has reported a total of 14,496,579 cases of COVID-19 or 24,306.19 cumulative cases of COVID-19 per 100,000 population with a total of 159,054 cumulative deaths or a rate of 266.68 cumulative deaths per 100,000 population; as of 29 March 2022, 84.02% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Italy has reported a total of 17,505,973 cases of COVID-19 or 29,352 cumulative cases of COVID-19 per 100,000 population with a total of 166,949 cumulative deaths or a rate of 279.9 cumulative deaths per 100,000 population; as of 6 June 2022, 84.1% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 29.524 million tons (2015 est.)<br>
@@ -737,9 +737,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 125,907 (Ukraine) (as of 31 May 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 609,060 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
+<strong>note:</strong> 609,960 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

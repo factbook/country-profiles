@@ -177,7 +177,7 @@ _unimproved: total_: total: 2.5% of population (2020 est.)<br>
 3.8% (2019)<br>
 
 **Physicians density**<br>
-1.54 physicians/1,000 population (2015)<br>
+1.54 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1.9 beds/1,000 population (2017)<br>
@@ -611,8 +611,8 @@ _total subscriptions_: 7,467,900 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 43,723,600 (2020)<br>
-_subscriptions per 100 inhabitants_: 135.1 (2020 est.)<br>
+_total subscriptions_: 43,723,600 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 135 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the most advanced telecom networks in the developing world; strong commitment to developing a technological society; Malaysia is promoting itself as an information tech hub in the Asian region; closing the urban rural divide; 4G and 5G networks with strong competition, mobile dominance over fixed-broadband; government development of five-year fiber and connectivity plan; some of Malaysia&rsquo;s key exports are integrated circuits and broadcasting equipment to North America and China; importer of integrated circuits from Singapore and China (2020)<br>

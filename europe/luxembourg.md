@@ -594,8 +594,8 @@ _total subscriptions_: 268,090 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 43 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 890,000 (2020)<br>
-_subscriptions per 100 inhabitants_: 142.2 (2020 est.)<br>
+_total subscriptions_: 890,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 142 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: small but highly developed telecom system dominated by state-owned operator; gains in fixed-line and drop in mobile/roving sector during 2020 travel restrictions; government-state operator extended 1GB/s service with aims to make Luxembourg the first fully fiber country in Europe; regulator completed auction for 5G spectrum; importer of broadcast equipment from China (2020)<br>
@@ -693,5 +693,6 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 5,300 (Ukraine) (as of 25 May 2022)<br>
 _stateless persons_: 194 (mid-year 2021)<br>
 

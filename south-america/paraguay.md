@@ -188,7 +188,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 7.2% (2019)<br>
 
 **Physicians density**<br>
-1.35 physicians/1,000 population (2018)<br>
+1.05 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 0.8 beds/1,000 population (2016)<br>
@@ -622,8 +622,8 @@ _total subscriptions_: 249,231 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,761,850 (2019)<br>
-_subscriptions per 100 inhabitants_: 110.18 (2019 est.)<br>
+_total subscriptions_: 7,865,050 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 110 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to telecom platform; monopolized fixed-line service; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; South Korean investment in education centers; operator enabled 109 free Internet points across the country and is looking to expand to 430 points in 2022; Inter-American Development Bank loan supports modernization within regulatory framework; dependent on neighboring countries for access to submarine cables; major importer of broadcasting equipment from the USA (2022)<br>
@@ -676,9 +676,9 @@ _total_: 30 km (2014)<br>
 _standard gauge_: 30 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>
-_total_: 78,811 km (2017)<br>
-_paved_: 8,573 km (2017)<br>
-_unpaved_: 70,238 km (2017)<br>
+_total_: 78,811 km (2020)<br>
+_paved_: 8,573 km (2020)<br>
+_unpaved_: 70,238 km (2020)<br>
 
 **Waterways**<br>
 3,100 km (2012) (primarily on the Paraguay and Paraná River systems)<br>
@@ -704,13 +704,13 @@ Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy 
 0.9% of GDP (2017) (approximately $550 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of Paraguay have approximately 15,000 active personnel (10,000 Army; 3,500 Navy; 1,500 Air Force) (2021)<br>
+the Armed Forces of Paraguay have approximately 15,000 active personnel (10,000 Army; 3,500 Navy; 1,500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Paraguayan military forces inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US; since 2010, Paraguay has acquired small quantities of mostly second-hand military equipment from several countries, including Argentina, Brazil, Israel, Taiwan, and the US (2021)<br>
+the Paraguayan military forces inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US; since 2010, Paraguay has acquired small quantities of mostly second-hand military equipment from several countries, including Argentina, Brazil, Israel, Taiwan, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy (conscripts also serve in the National Police); volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2021)<br>
+18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy (conscripts also serve in the National Police); volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2022)<br>
 note - as of 2021, women made up about 6% of the active military<br>
 
 **Military - note**<br>

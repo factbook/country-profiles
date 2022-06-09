@@ -170,7 +170,7 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 15.2% (2019)<br>
 
 **Physicians density**<br>
-1.42 physicians/1,000 population (2014)<br>
+1.77 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.8% of population<br>
@@ -498,8 +498,8 @@ _total subscriptions_: 8,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 44 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 23,743 (2018)<br>
-_subscriptions per 100 inhabitants_: 134.41 (2019 est.)<br>
+_total subscriptions_: 24,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-developed mobile sector, recently boosted by satellite network capacity upgrades; 3G services available with satellite; lack of telecom regulations; newest and most powerful commercial satellite, Kacific-1 satellite, launched in 2019 to improve telecommunications in the Asia Pacific region (2020)<br>

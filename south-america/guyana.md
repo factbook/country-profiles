@@ -184,7 +184,7 @@ _unimproved: total_: total: 3.2% of population (2020 est.)<br>
 4.9% (2019)<br>
 
 **Physicians density**<br>
-0.8 physicians/1,000 population (2018)<br>
+1.42 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1.7 beds/1,000 population (2016)<br>
@@ -345,9 +345,9 @@ _elections/appointments_: the predesignated candidate of the winning party in th
 _election results_: <br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated president by the majority party in the National Assembly<br><br><em>2015:</em> David GRANGER (APNU-AFC) designated president by the majority party in the National Assembly<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly (65 seats; 40 members directly elected in a single nationwide constituency and 25 directly elected in multi-seat constituencies - all by closed-list proportional representation vote; members serve 5-year terms)<br>
+_description_: unicameral National Assembly (70 seats; 40 members directly elected in a single nationwide constituencies, 25 directly elected in multi-seat constituencies - all by closed-list proportional representation vote, 2 non-elected ministers, 2 non-elected parliamentary secretaries, and the speaker; members serve 5-year terms)<br>
 _elections_: last held on 2 March 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition - men 43, women 22, percent of women 33.8%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
+_election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition (elected and non-elected) - men 45, women 25, percent of women 35.7%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); note - in 2009, Guyana acceded to the Caribbean Court of Justice as the final court of appeal in civil and criminal cases, replacing that of the Judicial Committee of the Privy Council (in London)<br>
@@ -674,13 +674,13 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 1.2% of GDP (2017 est.) (approximately $80 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 4,000 active personnel (2021)<br>
+information varies; approximately 4,000 active personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Guyana Defense Force's limited inventory is mostly comprised of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2021)<br>
+the Guyana Defense Force's limited inventory is mostly comprised of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age or older for voluntary military service; no conscription (2021)<br>
+18 years of age or older for voluntary military service; no conscription (2022)<br>
 
 **Military - note**<br>
 the Guyana Defense Force was established in 1965; its primary missions are defense of the country, assisting civil authorities with law and order as needed, and contributing to the economic development of the country; the GDF&rsquo;s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training the British Royal Naval College (2022)<br>

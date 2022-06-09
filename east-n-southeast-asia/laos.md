@@ -182,7 +182,7 @@ _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 2.6% (2019)<br>
 
 **Physicians density**<br>
-0.37 physicians/1,000 population (2017)<br>
+0.35 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1.5 beds/1,000 population (2012)<br>
@@ -616,8 +616,8 @@ _total subscriptions_: 1.491 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 20 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,362,183 (2020)<br>
-_subscriptions per 100 inhabitants_: 60.84 (2020 est.)<br>
+_total subscriptions_: 4.1 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: reliance on radio network to communicate with remote areas; regulatory reform is below industry standards; government aims to strengthen infrastructure and attract foreign investment; low fixed-broadband penetration; dominance in mobile broadband with 4G and LTE, but low compared to other Asian markets; ASEAN Digital Hub investment provides international capacity; state owns almost all media, except for some entertainment outlets, and has suppressed some news; importer of broadcasting equipment and computers from China; providers examining m-payment platforms and 5G tests (2020)<br>

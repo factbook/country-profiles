@@ -189,7 +189,7 @@ _unimproved: total_: total: 6% of population (2020 est.)<br>
 3.4% (2019)<br>
 
 **Physicians density**<br>
-0.98 physicians/1,000 population (2018)<br>
+1.12 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 0.6 beds/1,000 population (2017)<br>
@@ -216,7 +216,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _animal contact diseases_: rabies<br>
-<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 30 March 2022, Pakistan has reported a total of 1,524,355 cases of COVID-19 or 690.09 cumulative cases of COVID-19 per 100,000 population with a total of 30,347 cumulative deaths or a rate of 13.73 cumulative deaths per 100,000 population; as of 29 March 2022, 56.87% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus (the other is Afghanistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 6 June 2022, Pakistan has reported a total of 1,530,705 cases of COVID-19 or 692.9 cumulative cases of COVID-19 per 100,000 population with a total of 30,379 cumulative deaths or a rate of 13.75 cumulative deaths per 100,000 population; as of 6 June 2022, 60.05% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus (the other is Afghanistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
@@ -288,7 +288,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _animal contact diseases_: rabies<br>
-<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 30 March 2022, Pakistan has reported a total of 1,524,355 cases of COVID-19 or 690.09 cumulative cases of COVID-19 per 100,000 population with a total of 30,347 cumulative deaths or a rate of 13.73 cumulative deaths per 100,000 population; as of 29 March 2022, 56.87% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus (the other is Afghanistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note 1:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 6 June 2022, Pakistan has reported a total of 1,530,705 cases of COVID-19 or 692.9 cumulative cases of COVID-19 per 100,000 population with a total of 30,379 cumulative deaths or a rate of 13.75 cumulative deaths per 100,000 population; as of 6 June 2022, 60.05% of the population has received at least one dose of COVID-19 vaccine<br><strong>note 2:</strong> Pakistan is one of two countries with endemic wild polio virus (the other is Afghanistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to population displacements, economic constraints, and high prices of the main food staple - according to the latest analysis, about 4.66 million people, 25% of the population, are estimated to be facing high levels of acute food insecurity, "Crisis" and above, until at least April 2022 in 25 districts analyzed in Balochistan, Sindh and Khyber Pakhtunkhwa provinces; prices of wheat flour, the country&rsquo;s main staple, were at high levels in most markets in January 2022, constraining access to the staple food (2022)<br>
@@ -646,8 +646,8 @@ _total subscriptions_: 2,876,794 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 165.406 million (2019)<br>
-_subscriptions per 100 inhabitants_: 76.38 (2019 est.)<br>
+_total subscriptions_: 175,624,364 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 80 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Pakistan&rsquo;s telecom market transitioned from a regulated state-owned monopoly to a deregulated competitive structure in 2003, now aided by foreign investment; moderate growth over the last six years, supported by a young population and a rising use of mobile services; telecom infrastructure is improving, with investments in mobile-cellular networks, fixed-line subscriptions declining; system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks; 4G mobile services broadly available; 5G tests ongoing; data centers in major cities; mobile and broadband doing well and dominate over fixed-broadband sector; China-Pakistan Fiber Optic Project became operational in 2020; importer of broadcasting equipment and computers from China (2020)<br>
@@ -702,17 +702,17 @@ _under 914 m_: 24 (2021)<br>
 23 (2021)<br>
 
 **Pipelines**<br>
-12,984 km gas, 3,470 km oil, 1,170 km refined products (2019)<br>
+13,452 km gas transmission and 177,029 km gas distribution, 3,663 km oil, 1,150 km refined products (2020) (2020)<br>
 
 **Railways**<br>
-_total_: 11,881 km (2019)<br>
-_narrow gauge_: 389 km (2019) 1.000-m gauge<br>
-_broad gauge_: 11,492 km (2019) 1.676-m gauge (293 km electrified)<br>
+_total_: 11,881 km (2021)<br>
+_narrow gauge_: 389 km (2021) 1.000-m gauge<br>
+_broad gauge_: 11,492 km (2021) 1.676-m gauge (286 km electrified)<br>
 
 **Roadways**<br>
-_total_: 263,775 km (2019)<br>
-_paved_: 185,063 km (2019) (includes 708 km of expressways)<br>
-_unpaved_: 78,712 km (2019)<br>
+_total_: 264,175 km (2021)<br>
+_paved_: 185,463 km (2021) (includes 708 km of expressways)<br>
+_unpaved_: 78,712 km (2021)<br>
 
 **Merchant marine**<br>
 _total_: 57<br>
@@ -726,30 +726,30 @@ _LNG terminal(s) (import)_: Port Qasim<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Maritime Security Agency), Pakistan Air Force (Pakistan Fizaia); Ministry of Interior: Frontier Corps, Pakistan Rangers (2021)<br>
+Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Maritime Security Agency), Pakistan Air Force (Pakistan Fizaia); Ministry of Interior: Frontier Corps, Pakistan Rangers (2022)<br>
 note(s) - the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers; the Frontier Corps is a paramilitary force which operates in Balochistan and Khyber Pakhtunkhwa, including the former Federally Administered Tribal Areas; its primary mission is security of the Pakistan-Afghanistan border; the Pakistan Rangers are also a paramilitary force which operate in Sindh and Punjab<br>
 
 **Military expenditures**<br>
-3.8% of GDP (2021 est.)<br>
-4% of GDP (2020 est.)<br>
+4% of GDP (2022 est.)<br>
+4% of GDP (2021 est.)<br>
+4% of GDP (2020)<br>
 4.1% of GDP (2019) (approximately $21.6 billion)<br>
 4.1% of GDP (2018) (approximately $21.6 billion)<br>
-3.8% of GDP (2017) (approximately $19.3 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 625,000 active personnel (550,000 Army; 30,000 Navy; 45,000 Air Force); approximately 150,000 paramilitary (2021)<br>
+information varies; approximately 625,000 active personnel (550,000 Army; 30,000 Navy; 45,000 Air Force); approximately 150,000 paramilitary (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Pakistan military inventory includes a broad mix of equipment, primarily from China, France, Russia, Ukraine, the UK, and the US; since 2010, China is the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry (2021)<br>
+the Pakistan military inventory includes a broad mix of equipment, primarily from China, France, Russia, Turkey, Ukraine, the UK, and the US; since 2010, China is the leading supplier of arms to Pakistan; Pakistan also has a large domestic defense industry (2022)<br>
 
 **Military service age and obligation**<br>
-16 (or 17 depending on service)-23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2021)<br>
+16 (or 17 depending on service)-23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2022)<br>
 
 **Military deployments**<br>
 1,300 Central African Republic (MINUSCA); 1,950 Democratic Republic of the Congo (MONUSCO); 220 Mali (MINUSMA); 280 South Sudan (UNMISS) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>the military has carried out three coups since Pakistan's independence in 1947 and as of 2022 remained a dominant force in the country’s political arena; its chief external focus was on the perceived threat from India, but over the past 15 years, the military also has increased its role in internal security missions, including counterinsurgency and counterterrorism; it is the lead security agency in many areas of the former Federally Administered Tribal Areas</p> <p>Pakistan and India have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (First Kashmir War of 1947 and the Kargil Conflict of 1999); a fragile cease-fire in Kashmir was reached in 2003 and revised in 2018, although the border, known as the Line of Control, remained contested as of 2022, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area in 1985, 1987, and 1995; a cease-fire went into effect in 2003, but as of 2022 both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather or the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness<br><br>Pakistan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+<p>the military has carried out three coups since Pakistan's independence in 1947 and as of 2022 remained a dominant force in the country’s political arena; its chief external focus was on the perceived threat from India, as well as implications of the fall of the government in Kabul, but over the past 15 years, the military also has increased its role in internal security missions, including counterinsurgency and counterterrorism; it is the lead security agency in many areas of the former Federally Administered Tribal Areas</p> <p>Pakistan and India have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (First Kashmir War of 1947 and the Kargil Conflict of 1999); a fragile cease-fire in Kashmir was reached in 2003, revised in 2018, and reaffirmed in 2021, although the Line of Control remained contested as of 2022, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area in 1985, 1987, and 1995; despite a cease-fire, as of 2022 both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather or the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness<br><br>Pakistan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 
@@ -772,5 +772,5 @@ _current situation_: human traffickers exploit domestic and foreign victims in P
 _tier rating_: Tier 2 Watch List —<strong> </strong>Pakistan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; government efforts include convicting traffickers under the comprehensive human trafficking law, convicting more traffickers for bonded labor, and increasing registration of brick kilns nationwide for the oversight of workers traffickers target; more trafficking victims were identified; authorities initiated eight investigations against suspected traffickers of Pakistani victims overseas; authorities collaborated with international partners and foreign governments on anti-trafficking efforts; however, the government  significantly decreased investigations and prosecutions of sex traffickers; bonded labor exists on farms and in brick kilns in Punjab province; no action was taken against officials involved in trafficking; several high-profile trafficking cases were dropped during the reporting period; resources were lacking for the care of identified victims; Pakistan was downgraded to Tier 2 Watch List (2020)<br>
 
 **Illicit drugs**<br>
-<p>minor cultivator of opium poppy and cannabis with 1,400 of poppy cultivated 2016; one of the world’s top transit corridors for opiates and cannabis products along with Afghanistan and Iran; precursor chemicals also pass through Pakistan as a major transit point for global distribution</p> <p> </p><br>
+<p>minor cultivator of opium poppy and cannabis with 1,400 hectares of poppy cultivated 2016; one of the world’s top transit corridors for opiates and cannabis products along with Afghanistan and Iran; precursor chemicals also pass through Pakistan as a major transit point for global distribution</p> <p> </p><br>
 

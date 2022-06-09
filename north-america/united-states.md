@@ -198,7 +198,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 16.8% (2019)<br>
 
 **Physicians density**<br>
-2.61 physicians/1,000 population (2017)<br>
+2.61 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 2.9 beds/1,000 population (2017)<br>
@@ -714,7 +714,7 @@ _cruise departure ports (passengers)_: Miami, Port Everglades, Port Canaveral, S
 ## Military and Security
 
 **Military and security forces**<br>
-United States Armed Forces: US Army, US Navy (includes Marine Corps), US Air Force, US Space Force; US Coast Guard (administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy); National Guard (Army National Guard and Air National Guard) (2021)<br>
+United States Armed Forces: US Army, US Navy (includes Marine Corps), US Air Force, US Space Force; US Coast Guard (administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy); National Guard (Army National Guard and Air National Guard) (2022)<br>
 note - the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority<br>
 
 **Military expenditures**<br>

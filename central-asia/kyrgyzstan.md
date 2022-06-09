@@ -663,17 +663,17 @@ _914 to 1,523 m_: 1<br>
 _under 914 m_: 8 (2021)<br>
 
 **Pipelines**<br>
-3566 km gas (2018), 16 km oil (2013)<br>
+4195 km gas (2022), 16 km oil (2013)<br>
 
 **Railways**<br>
-_total_: 424 km (2018)<br>
+_total_: 424 km (2022)<br>
 _broad gauge_: 424 km (2018) 1.520-m gauge<br>
 
 **Roadways**<br>
-_total_: 34,000 km (2018)<br>
+_total_: 34,000 km (2022)<br>
 
 **Waterways**<br>
-600 km (2010)<br>
+576 km (2022)<br>
 
 **Ports and terminals**<br>
 _lake port(s)_: Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)<br>
@@ -681,7 +681,7 @@ _lake port(s)_: Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Kyrgyz Armed Forces: Land Forces, Air Defense Forces, National Guard; State Border Service; Internal Troops; State Committee for National Security (2022)<br>
+Kyrgyz Armed Forces: Land Forces, Air Defense Forces, National Guard; Internal Troops; State Committee for National Security (GKNB): Border Service (2022)<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2019 est.) (approximately $410 million)<br>
@@ -691,16 +691,16 @@ Kyrgyz Armed Forces: Land Forces, Air Defense Forces, National Guard; State Bord
 2.6% of GDP (2015 est.) (approximately $360 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Kyrgyz Armed Forces have approximately 12,000 active duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 1,000 National Guard) (2021)<br>
+approximately 12,000 active duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 1,000 National Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kyrgyz Armed Forces' inventory is comprised of mostly older Russian and Soviet-era equipment; Kyrgyzstan relies on donations of military equipment, which come mostly from Russia under a 2013 agreement between Bishkek and Moscow (2021)<br>
+the Kyrgyz Armed Forces' inventory is comprised of mostly older Russian and Soviet-era equipment; Kyrgyzstan relies on donations of military equipment, which come mostly from Russia under a 2013 agreement between Bishkek and Moscow (2022)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary male military service in the Armed Forces or Interior Ministry; 1-year service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2021)<br>
+18-27 years of age for compulsory or voluntary male military service in the Armed Forces or Interior Ministry; 1-year service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2022)<br>
 
 **Military - note**<br>
-Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>
+Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2022)<br>
 
 ## Transnational Issues
 

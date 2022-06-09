@@ -568,8 +568,8 @@ _total subscriptions_: 2,361 (2018 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 16,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 27.56 (2019 est.)<br>
+_total subscriptions_: 16,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 27 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: some telecom infrastructure improvements made in recent years; modern services include fiber optic cable service, cellular, Internet, international calling, caller ID, and leased data circuits;&nbsp;the US Government, World Bank, UN and International Telecommunication Union (ITU), have aided in&nbsp;improvements and monetary aid to the islands telecom; mobile penetrations is around 30%; radio communication is&nbsp;especially&nbsp;vital to remote islands (2018)<br>

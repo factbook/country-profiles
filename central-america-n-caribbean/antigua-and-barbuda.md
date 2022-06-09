@@ -171,7 +171,7 @@ _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 4.4% (2019)<br>
 
 **Physicians density**<br>
-2.96 physicians/1,000 population (2017)<br>
+2.76 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
 2.9 beds/1,000 population (2017)<br>
@@ -613,16 +613,16 @@ Antigua and Barbuda Defense Force (ABDF): Coast Guard and the Antigua and Barbud
 not available<br>
 
 **Military and security service personnel strengths**<br>
-the Antigua and Barbuda Defense Force (ABDF) has approximately 200 active personnel (2021)<br>
+approximately 200 active personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2021)<br>
+the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2022)<br>
 
 **Military service age and obligation**<br>
-18-23 years of age for voluntary military service for both males and females; no conscription (2021)<br>
+18-23 years of age for voluntary military service for both males and females; no conscription (2022)<br>
 
 **Military - note**<br>
-<p>has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p> (2022)<br>
+has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2022)<br>
 
 ## Transnational Issues
 

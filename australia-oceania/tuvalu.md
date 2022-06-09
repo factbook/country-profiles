@@ -84,13 +84,13 @@ _noun_: Tuvaluan(s)<br>
 _adjective_: Tuvaluan<br>
 
 **Ethnic groups**<br>
-Tuvaluan 86.8%, Tuvaluan/I-Kiribati 5.6%, Tuvaluan/other 6.7%, other 0.9% (2012 est.)<br>
+Tuvaluan 97%, Tuvaluan/I-Kiribati 1.6%, Tuvaluan/other 0.8%, other 0.6% (2017 est.)<br>
 
 **Languages**<br>
 Tuvaluan (official), English (official), Samoan, Kiribati (on the island of Nui)<br>
 
 **Religions**<br>
-Protestant 92.4% (Congregational Christian Church of Tuvalu 85.7%, Brethren 3%, Seventh Day Adventist 2.8%, Assemblies of God .9%), Baha'i 2%, Jehovah's Witness 1.3%, Church of Jesus Christ 1%, other 3.1%, none 0.2% (2012 est.)<br>
+Protestant 92.7% (Congregational Christian Church of Tuvalu 85.9%, Brethren 2.8%, Seventh Day Adventist 2.5%, Assemblies of God 1.5%), Baha'i 1.5%, Jehovah's Witness 1.5%, other 3.9%, none or refused 0.4% (2017 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 29.42% (male 1,711/female 1,626)<br>
@@ -169,7 +169,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 24% (2019)<br>
 
 **Physicians density**<br>
-0.91 physicians/1,000 population (2014)<br>
+1.19 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 91.8% of population<br>
@@ -565,10 +565,10 @@ _major seaport(s)_: Funafuti<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Tuvalu Police Force (Ministry of Justice, Communications, and Foreign Affairs)<br>
+no regular military forces; Tuvalu Police Force (Ministry of Justice, Communications, and Foreign Affairs) (2022)<br>
 
 **Military - note**<br>
-<p>Australia provides support to the Tuvalu Police Force, including donations of patrol boats</p><br>
+Australia provides support to the Tuvalu Police Force, including donations of patrol boats (2022)<br>
 
 ## Transnational Issues
 

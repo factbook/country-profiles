@@ -189,7 +189,7 @@ _unimproved: total_: total: 26.7% of population (2020 est.)<br>
 7.8% (2019)<br>
 
 **Physicians density**<br>
-0.08 physicians/1,000 population (2018)<br>
+0.09 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 0.7 beds/1,000 population (2011)<br>
@@ -636,8 +636,8 @@ _total subscriptions_: 89,016 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14,773,364 (2019)<br>
-_subscriptions per 100 inhabitants_: 48.65 (2019 est.)<br>
+_total subscriptions_: 15,463,226 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 49 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the first countries in the region to reform telecom market and open it to competition; the mobile segment has shown strong growth; poor fixed-line infrastructure means most Internet access is through mobile accounts; DSL, cable broadband, 3G, and some fiber broadband available; LTE tests underway; roll out of national fiber backbone and upgrades to infrastructure; submarine cables reduced the cost of bandwidth; importer of broadcasting equipment from China (2020)<br>

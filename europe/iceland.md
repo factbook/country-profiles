@@ -176,7 +176,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 8.6% (2019)<br>
 
 **Physicians density**<br>
-4.08 physicians/1,000 population (2018)<br>
+4.14 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 2.8 beds/1,000 population (2019)<br>

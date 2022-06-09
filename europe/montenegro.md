@@ -182,7 +182,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 8.3% (2019)<br>
 
 **Physicians density**<br>
-2.76 physicians/1,000 population (2018)<br>
+2.74 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 3.9 beds/1,000 population (2017)<br>
@@ -621,7 +621,7 @@ _total subscriptions_: 191,768 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 31 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,080,089 (2020)<br>
+_total subscriptions_: 1,080,089 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 172 (2020 est.)<br>
 
 **Telecommunication systems**<br>
@@ -717,6 +717,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 <p>Kosovo ratified the border demarcation agreement with Montenegro in March 2018, but the actual demarcation has not been completed</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 7,355 (Ukraine) (as of 30 May 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
 <strong>note:</strong> 21,666 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
 

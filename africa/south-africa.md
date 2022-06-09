@@ -190,7 +190,7 @@ _unimproved: total_: total: 3.3% of population (2020 est.)<br>
 9.1% (2019)<br>
 
 **Physicians density**<br>
-0.91 physicians/1,000 population (2017)<br>
+0.79 physicians/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.6% of population<br>
@@ -213,7 +213,7 @@ _unimproved: total_: total: 6.8% of population (2020 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 30 March 2022, South Africa has reported a total of 3,715,390 cases of COVID-19 or 6,264.49 cumulative cases of COVID-19 per 100,000 population with a total of 99,976 cumulative deaths or a rate of 168.56 cumulative deaths per 100,000 population; as of 29 March 2022, 34.8% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 6 June 2022, South Africa has reported a total of 3,968,205 cases of COVID-19 or 6,690.7 cumulative cases of COVID-19 per 100,000 population with a total of 101,317 cumulative deaths or a rate of 170.83 cumulative deaths per 100,000 population; as of 6 June 2022, 36.33% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
@@ -281,7 +281,7 @@ _coal revenues_: 2.4% of GDP (2018 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 30 March 2022, South Africa has reported a total of 3,715,390 cases of COVID-19 or 6,264.49 cumulative cases of COVID-19 per 100,000 population with a total of 99,976 cumulative deaths or a rate of 168.56 cumulative deaths per 100,000 population; as of 29 March 2022, 34.8% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 6 June 2022, South Africa has reported a total of 3,968,205 cases of COVID-19 or 6,690.7 cumulative cases of COVID-19 per 100,000 population with a total of 101,317 cumulative deaths or a rate of 170.83 cumulative deaths per 100,000 population; as of 6 June 2022, 36.33% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,457,232 tons (2011 est.)<br>

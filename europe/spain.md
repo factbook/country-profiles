@@ -185,7 +185,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 9.1% (2019)<br>
 
 **Physicians density**<br>
-3.87 physicians/1,000 population (2017)<br>
+4.44 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 3 beds/1,000 population (2018)<br>
@@ -211,7 +211,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 30 March 2022, Spain has reported a total of 11,508,309 cases of COVID-19 or 24,313.69 cumulative cases of COVID-19 per 100,000 population with a total of 102,218 cumulative deaths or a rate of 215.95 cumulative deaths per 100,000 population; as of 29 March 2022, 87.99% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 6 June 2022, Spain has reported a total of 12,403,245 cases of COVID-19 or 26,204.4 cumulative cases of COVID-19 per 100,000 population with a total of 106,797 cumulative deaths or a rate of 225.6 cumulative deaths per 100,000 population; as of 1 June 2022, 88.22% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 23.8% (2016)<br>
@@ -276,7 +276,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 30 March 2022, Spain has reported a total of 11,508,309 cases of COVID-19 or 24,313.69 cumulative cases of COVID-19 per 100,000 population with a total of 102,218 cumulative deaths or a rate of 215.95 cumulative deaths per 100,000 population; as of 29 March 2022, 87.99% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 6 June 2022, Spain has reported a total of 12,403,245 cases of COVID-19 or 26,204.4 cumulative cases of COVID-19 per 100,000 population with a total of 106,797 cumulative deaths or a rate of 225.6 cumulative deaths per 100,000 population; as of 1 June 2022, 88.22% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 20.151 million tons (2015 est.)<br>
@@ -744,7 +744,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p>in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal; Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island); Morocco serves as the primary launching site of illegal migration into Spain from North Africa; Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 109,541 (Ukraine) (as of 24 May 2022)<br>
 _stateless persons_: 6,.92 (mid-year 2021)<br>
 <strong>note: </strong>260,027 estimated refugee and migrant arrivals, including Canary Islands (January 2015-May 2022)<br>
 

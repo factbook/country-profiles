@@ -174,7 +174,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 8.7% (2019)<br>
 
 **Physicians density**<br>
-2.1 physicians/1,000 population (2018)<br>
+2.21 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 2.7 beds/1,000 population (2017)<br>
@@ -197,7 +197,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 (2020 est.) <100<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 30 March 2022, Lebanon has reported a total of 1,091,413 cases of COVID-19 or 15,990.35 cumulative cases of COVID-19 per 100,000 population with a total of 10,291 cumulative deaths or a rate of 150.77 cumulative deaths per 100,000 population; as of 29 March 2022, 37.17% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 6 June 2022, Lebanon has reported a total of 1,099,821 cases of COVID-19 or 16,113.5 cumulative cases of COVID-19 per 100,000 population with a total of 10,437 cumulative deaths or a rate of 152.9 cumulative deaths per 100,000 population; as of 30 May 2022, 39.69% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 32% (2016)<br>
@@ -264,7 +264,7 @@ _forest revenues_: 0% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 30 March 2022, Lebanon has reported a total of 1,091,413 cases of COVID-19 or 15,990.35 cumulative cases of COVID-19 per 100,000 population with a total of 10,291 cumulative deaths or a rate of 150.77 cumulative deaths per 100,000 population; as of 29 March 2022, 37.17% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 6 June 2022, Lebanon has reported a total of 1,099,821 cases of COVID-19 or 16,113.5 cumulative cases of COVID-19 per 100,000 population with a total of 10,437 cumulative deaths or a rate of 152.9 cumulative deaths per 100,000 population; as of 30 May 2022, 39.69% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to the ongoing financial and economic crisis - the World Food Program (WFP) estimates that, as a result of the ongoing economic crisis, over 1.3 million Lebanese citizens, about 36% of the total population, were food insecure by the end of September 2021; the number of Lebanese households with serious food access constraints reached 57% in September 2021, up from 40% in September 2020; domestic cereal production covers, on average, less than 20% of the consumption needs and the country depends heavily on imports (2022)<br>
@@ -605,8 +605,8 @@ _total subscriptions_: 875,480 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,288,221 (2020)<br>
-_subscriptions per 100 inhabitants_: 62.83 (2020)<br>
+_total subscriptions_: 4,288,221 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 63 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: struggling with effects of the economic crisis compounded by the Covid-19 pandemic and the Port of Beirut explosion in 2020; Lebanon&rsquo;s telecom infrastructure is relatively weak and services are expensive; rural areas are less connected and experience frequent power cuts; state retains a monopoly over the Internet backbone and dominant ownership of the telecom industry; government backed improvements to fixed infrastructure; new landlines and fiber-optic networks provide faster DSL; limited 5G services; three international gateways through submarine cables; importer of broadcasting equipment from UAE; UAE investment in tech solutions (2020)<br>
@@ -691,17 +691,17 @@ note(s) - the commander of the LAF is also the commander of the Army; the LAF pa
 4.5% of GDP (2015 est.) (approximately $3.7 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 Air Force) (2021)<br>
+approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LAF inventory includes a wide mix of mostly older equipment from a diverse array of countries; since 2010, the US is the leading supplier of armaments (mostly second hand equipment) to Lebanon (2021)<br>
+the LAF inventory includes a wide mix of mostly older equipment from a diverse array of countries; since 2010, the US is the leading supplier of armaments (mostly second hand equipment) to Lebanon (2022)<br>
 
 **Military service age and obligation**<br>
-17-25 years of age for voluntary military service (including women); no conscription (2021)<br>
+17-25 years of age for voluntary military service (including women); no conscription (2022)<br>
 note - as of 2020, women comprised about 5% of the active duty military<br>
 
 **Military - note**<br>
-<p>as of 2022, the Lebanese military faced multiple challenges, including securing the border with war-torn Syria from infiltrations of militants linked to the Islamic State and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based militant group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; in 2021, the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br>the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,000 personnel deployed in the country as of 2022</p><br>
+as of 2022, the Lebanese military faced multiple challenges, including securing parts of the border with war-torn Syria from infiltrations of militants linked to the Islamic State and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based terrorist group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br>the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,000 personnel deployed in the country as of 2022 (2022)<br>
 
 ## Terrorism
 
@@ -720,5 +720,5 @@ _IDPs_: 7,000 (2020)<br>
 _stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
 
 **Illicit drugs**<br>
-source country for amphetamine tablets destined for Saudi Arabia, Qatar, United Arab Emirates, Libya and Sudan; in 2021 authorities in various Near Eastern countries seized millions of captagon tablets that originated in or transited Lebanon, prompting Lebanese authorities to conduct raids on captagon production facilities and trafficking rings within the country<br>
+source country for amphetamine tablets destined for Saudi Arabia, Qatar, United Arab Emirates, Libya and Sudan; in 2021 authorities in various Near Eastern countries seized millions of captagon tablets that originated in or transited to Lebanon, prompting Lebanese authorities to conduct raids on captagon production facilities and trafficking rings within the country<br>
 

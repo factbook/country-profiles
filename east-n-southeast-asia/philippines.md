@@ -183,7 +183,7 @@ _unimproved: total_: total: 3% of population (2020 est.)<br>
 4.1% (2019)<br>
 
 **Physicians density**<br>
-0.6 physicians/1,000 population (2017)<br>
+0.77 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1 beds/1,000 population (2014)<br>
@@ -627,8 +627,8 @@ _total subscriptions_: 4,731,196 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 16,732,200 (2019)<br>
-_subscriptions per 100 inhabitants_: 154.76 (2019 est.)<br>
+_total subscriptions_: 149,579,406 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 137 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high unemployment and rural population impede investment in fixed infrastructure; dominance in the mobile segment and rapid development of mobile broadband; investment focused on fiber infrastructure in urban areas with 4G available in most areas; national broadband plan to improve connectivity in rural areas underway; data center and smart city pilot in Manila; submarine cable link and satellite improves telecom for the region; major exporter of integrated circuits to China, and importer of circuits and broadcasting equipment from China (2020)<br>

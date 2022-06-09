@@ -191,7 +191,7 @@ _unimproved: total_: total: 8.6% of population (2020 est.)<br>
 8.5% (2019)<br>
 
 **Physicians density**<br>
-0.42 physicians/1,000 population (2018)<br>
+0.59 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 2.7 beds/1,000 population<br>
@@ -630,8 +630,8 @@ _total subscriptions_: 140,370 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 6 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,594,382 (2020)<br>
-_subscriptions per 100 inhabitants_: 102.1 (2020 est.)<br>
+_total subscriptions_: 2,898,125 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good competition in mobile market and investment in LTE government program to provide 95% of population with broadband by 2024; 5G delayed due to public concerns of privacy and security; high prices for international bandwidth due to lack of submarine cables, yet improved by diversification of satellite access (2020)<br>

@@ -628,8 +628,8 @@ _total subscriptions_: 2,572,254 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,453,890 (2019)<br>
-_subscriptions per 100 inhabitants_: 96.37 (2019)<br>
+_total subscriptions_: 8,260,758 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 120 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Serbia's integration with the EU helped regulator reforms and promotion of telecom; EU development loans for broadband to rural areas; pandemic spurred use of mobile data and other services; wireless service is available through multiple providers; national coverage is growing rapidly; best telecom services are centered in urban centers; 4G/LTE mobile network launched; 5G tests ongoing with Ericsson and Huawei (2020)<br>
@@ -731,7 +731,7 @@ note - as of 2019, women made up about 6% of the military's full-time personnel<
 <p>Serbia with several other states protest the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; several thousand NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo authority continue to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority in Kosovo; Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021)<br>
+_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 8,507 (Ukraine) (includes Kosovo; as of 1 June 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
 <strong>note:</strong> 835,749 estimated refugee and migrant arrivals (January 2015-May 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>

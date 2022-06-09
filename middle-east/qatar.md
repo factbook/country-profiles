@@ -592,8 +592,8 @@ _total subscriptions_: 454,701 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,917,570 (2019)<br>
-_subscriptions per 100 inhabitants_: 138.33 (2019)<br>
+_total subscriptions_: 3,798,514 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 132 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom infrastructure in Qatar demonstrated resilience during the pandemic, following surge in Internet usage; highest fixed-line and mobile penetrations in Middle East with almost 100% LTE coverage; operator deployed 5G across the country with positive subscribership, primarily around Doha; largest user of the Internet in the Middle East; importer of broadcasting equipment from China (2020)<br>
@@ -669,17 +669,17 @@ Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, in
 3.4% of GDP (2017 est.) (approximately $8.22 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 15,000 active personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2021)<br>
+information varies; approximately 15,000 active personnel (10,000 Land Force, including Emiri Guard; 3,000 Navy; 2,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on an extensive military expansion and modernization program with large air, ground, and naval equipment purchases; since 2010, France and the US are the top suppliers (2021)<br>
+the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on an extensive military expansion and modernization program with large air, ground, and naval equipment purchases; since 2010, France and the US are the top suppliers (2022)<br>
 
 **Military service age and obligation**<br>
-conscription for males aged 18-35 introduced in 2013; compulsory service times range from 4-12 months, depending on the cadets educational and professional circumstances; since 2018, women have been permitted to serve in the armed forces, including as uniformed officers and pilots (2021)<br>
+conscription for males aged 18-35 introduced in 2013; compulsory service times range from 4-12 months, depending on the cadets educational and professional circumstances; since 2018, women have been permitted to serve in the armed forces, including as uniformed officers and pilots (2022)<br>
 note - as of 2020, the military incorporated about 2,000 conscripts annually<br>
 
 **Military - note**<br>
-Qatar hosted more than 8,000 US military forces and the regional headquarters for the US Central Command (CENTCOM; established 1983) at various military facilities, including the large Al Udeid Air Base; Qatar also hosted as many as 5,000 Turkish military forces at two bases established in 2014 and 2019<br><br>Qatar has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
+Qatar hosts more than 8,000 US military forces and the regional headquarters for the US Central Command (CENTCOM; established 1983) at various military facilities, including the large Al Udeid Air Base; Qatar also hosts as many as 5,000 Turkish military forces at two bases established in 2014 and 2019<br><br>Qatar has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
 
 ## Terrorism
 

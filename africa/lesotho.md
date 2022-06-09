@@ -185,7 +185,7 @@ _unimproved: total_: total: 17.4% of population (2020 est.)<br>
 11.3% (2019)<br>
 
 **Physicians density**<br>
-0.07 physicians/1,000 population<br>
+0.47 physicians/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 93.6% of population<br>
@@ -618,8 +618,8 @@ _total subscriptions_: 11,574 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,562,648 (2020)<br>
-_subscriptions per 100 inhabitants_: 72.94 (2020 est.)<br>
+_total subscriptions_: 1,562,648 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 73 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: small market with few business incentives; fixed-line tele-density and mobile penetration remains below regional average; introduction of mobile broadband in the country and LTE technology; 5G testing among first in region; landlocked, Lesotho has access to several submarine cables on African coast through neighboring countries yet Internet is expensive; importer of broadcasting equipment and computers from South Africa (2020)<br>

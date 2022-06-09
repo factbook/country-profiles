@@ -172,7 +172,7 @@ _unimproved: total_: total: 0% of population (2020)<br>
 NA<br>
 
 **Physicians density**<br>
-2 physicians/1,000 population (2019)<br>
+2.04 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 4.9 beds/1,000 population (2020)<br>
@@ -600,8 +600,8 @@ _1,524 to 2,437 m_: 1 (2021)<br>
 9 (2021)<br>
 
 **Roadways**<br>
-_total_: 2,107 km (2017)<br>
-_paved_: 2,107 km (2017)<br>
+_total_: 2,193 km (2021)<br>
+_paved_: 2,193 km (2021)<br>
 
 **Merchant marine**<br>
 _total_: 2,718<br>

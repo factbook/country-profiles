@@ -186,7 +186,7 @@ _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 2.8% (2019)<br>
 
 **Physicians density**<br>
-3.98 physicians/1,000 population (2014)<br>
+3.98 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 6.1 beds/1,000 population (2014)<br>
@@ -674,19 +674,19 @@ _under 914 m_: 13 (2021)<br>
 3 (2021)<br>
 
 **Pipelines**<br>
-658 km condensate, 15,256 km gas (2017), 8,013 km oil (2017), 1,095 km refined products, 1,975 km water (2016) (2017)<br>
+658 km condensate, 15,429 km gas (2020), 8,020 km oil (2020), 1,095 km refined products, 1,975 km water (2017) (2020)<br>
 
 **Railways**<br>
-_total_: 16,614 km (2017)<br>
-_broad gauge_: 16,614 km (2017) 1.520-m gauge (4,200 km electrified)<br>
+_total_: 16,636 km (2020)<br>
+_broad gauge_: 16,636 km (2020) 1.520-m gauge (4,237 km electrified)<br>
 
 **Roadways**<br>
-_total_: 95,409 km (2017)<br>
-_paved_: 81,814 km (2017)<br>
-_unpaved_: 13,595 km (2017)<br>
+_total_: 95,767 km (2021)<br>
+_paved_: 83,813 km (2021)<br>
+_unpaved_: 12,354 km (2021)<br>
 
 **Waterways**<br>
-4,000 km (2010) (on the Ertis (Irtysh) River (80%) and Syr Darya (Syrdariya) River)<br>
+43,983 km (2020) (on the Ertis (Irtysh) River (80%) and Syr Darya (Syrdariya) River)<br>
 
 **Merchant marine**<br>
 _total_: 119<br>
@@ -709,16 +709,16 @@ Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and A
 0.8% of GDP (2017 est.) (approximately $2.85 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 40,000 active duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces) (2021)<br>
+information varies; approximately 40,000 active duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment; since 2010, Russia is the leading supplier of weapons systems (2021)<br>
+the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment; since 2010, Russia is the leading supplier of weapons systems (2022)<br>
 
 **Military service age and obligation**<br>
-all men 18-27 are required to serve in the military for at least one year (2021)<br>
+all men 18-27 are required to serve in the military for at least one year (2022)<br>
 
 **Military - note**<br>
-Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>
+Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force (2022)<br>
 
 ## Transnational Issues
 
@@ -733,5 +733,5 @@ _current situation_: human traffickers exploit domestic and foreign victims in K
 _tier rating_: Tier 2 Watch List —<strong> </strong>Kazakhstan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government adopted amendments increasing criminal penalties for traffickers, including rescinding the provision allowing alleged traffickers to pay a settlement to victims to withdraw their criminal cases; authorities developed victim identification guidelines for diplomatic staff and provided victim identification training to some labor inspectors; the government took initial steps toward improving its annual NGO funding process; the government’s efforts to identify and protect foreign victims increased; foreign victims who did not participate in criminal investigations were ineligible for services and were deported; law enforcement continued to make limited efforts to investigate, prosecute, and convict labor trafficking crimes; trafficking convictions decreased for the fourth consecutive year; NGOs reported allegations of police officers’ involvement in human trafficking, but few police or other officials suspected of complicity were investigated or prosecuted (2020)<br>
 
 **Illicit drugs**<br>
-<p>a transit country for Afghan opiates destined for Russia and Europe; increase in  clandestine laboratories producing synthetic drugs; Synthetic drugs also trafficked from Southeast Asia, China, Russia, and Europe, and precursor chemicals shipped from Russia</p><br>
+<p>synthetic drugs dominate the local illicit drug market, smuggled from Southeast Asia, China, Russia and Europe; however the number of domestic clandestine laboratories producing synthetic drugs continues to increase.  Kazakhstan remains a transit country for Afghan heroin destined for Russia and Europe.</p><br>
 

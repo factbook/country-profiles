@@ -605,8 +605,8 @@ _total subscriptions_: 415,390 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 20 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,921,010 (2019)<br>
-_subscriptions per 100 inhabitants_: 92.2 (2019 est.)<br>
+_total subscriptions_: 1,862,138 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 89 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: EU pre-accession process has led to stronger tele-density with a closer regulatory framework and independent regulators; administrative ties with the EU have led to progress; broadband services are widely available; more customers moving to fiber networks; operators investing in LTE; importer of broadcasting equipment from Vietnam and China; MOU for 5G with US (2020)<br>

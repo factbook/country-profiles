@@ -192,7 +192,7 @@ _unimproved: total_: total: (2020 est.) NA<br>
 9.5% (2019)<br>
 
 **Physicians density**<br>
-3.99 physicians/1,000 population (2017)<br>
+4.06 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 5 beds/1,000 population (2017)<br>
@@ -215,7 +215,7 @@ _unimproved: total_: total: (2020 est.) NA<br>
 1,400 (2020 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 30 March 2022, Argentina has reported a total of 9,028,730 cases of COVID-19 or 19,976.93 cumulative cases of COVID-19 per 100,000 population with a total of 127,943 cumulative deaths or 283.08 cumulative deaths per 100,000 population; as of 29 March 2022, 89.69% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 6 June 2022, Argentina has reported a total of 9,230,573 cases of COVID-19 or 20,423.53 cumulative cases of COVID-19 per 100,000 population with a total of 128,889 cumulative deaths or 285.18 cumulative deaths per 100,000 population; as of 4 June 2022, 55.2% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
@@ -278,7 +278,7 @@ _forest revenues_: 0.09% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 30 March 2022, Argentina has reported a total of 9,028,730 cases of COVID-19 or 19,976.93 cumulative cases of COVID-19 per 100,000 population with a total of 127,943 cumulative deaths or 283.08 cumulative deaths per 100,000 population; as of 29 March 2022, 89.69% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 6 June 2022, Argentina has reported a total of 9,230,573 cases of COVID-19 or 20,423.53 cumulative cases of COVID-19 per 100,000 population with a total of 128,889 cumulative deaths or 285.18 cumulative deaths per 100,000 population; as of 4 June 2022, 55.2% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17,910,550 tons (2014 est.)<br>
@@ -756,5 +756,5 @@ Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designati
 _refugees (country of origin)_: 170,517 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
-<p>counterfeiting, drug trafficking, and other smuggling offenses along the border; some money laundering organizations in the Tri-Border Area may have links to the terrorist organization Hizballah; a large producer of chemical precursors</p><br>
+<p>counterfeiting, drug trafficking, and other smuggling offenses along the northern border; some money laundering organizations in the Tri-Border Area may have links to the terrorist organization Hizballah; a large producer of chemical precursors</p><br>
 

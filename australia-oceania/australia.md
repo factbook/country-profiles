@@ -194,7 +194,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 9.9% (2019)<br>
 
 **Physicians density**<br>
-3.68 physicians/1,000 population (2017)<br>
+4.13 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 3.8 beds/1,000 population (2016)<br>
@@ -631,7 +631,7 @@ _international_: country code - 61; landing points for&nbsp;more than&nbsp;20 su
 <strong>note</strong>: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-the Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as ABC Australia, a TV service that broadcasts in the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available<br>
+the Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as ABC Australia, a TV service that broadcasts in the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available (2022)<br>
 
 **Internet country code**<br>
 .au<br>

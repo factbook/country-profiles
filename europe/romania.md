@@ -614,8 +614,8 @@ _total subscriptions_: 3.025 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22.671 million (2019)<br>
-_subscriptions per 100 inhabitants_: 117.08 (2019)<br>
+_total subscriptions_: 22.592 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 117 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Romania&rsquo;s telecom sector benefits from infrastructure-based competition; domestic and international service improving rapidly, especially mobile-cellular services; fiber sector is one of strongest in Europe; government secured EU funding to extend broadband to rural areas; operators invest in networks&rsquo; capacity upgrades; operator testing IoT; importer of broadcasting equipment from EU neighbors (2020)<br>
@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 989,357 (Ukraine) (as of 27 May 2022)<br>
+_refugees (country of origin)_: 587,219 (border crossings from Ukraine as of 1 June 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 10,012 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
 

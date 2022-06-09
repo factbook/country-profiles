@@ -191,7 +191,7 @@ _unimproved: total_: total: 2.3% of population (2020 est.)<br>
 7.7% (2019)<br>
 
 **Physicians density**<br>
-2.19 physicians/1,000 population (2018)<br>
+2.33 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1.7 beds/1,000 population (2018)<br>
@@ -217,7 +217,7 @@ _unimproved: total_: total: 3% of population (2020 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever, malaria, and yellow fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 30 March 2022, Columbia has reported a total of 6,083,939 cases of COVID-19 or 11,956.74 cumulative cases of COVID-19 per 100,000 population with a total of 139,585 cumulative deaths or a rate 274.32 cumulative deaths per 100,000 population; as of 29 March 2022, 81.8% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 6 June 2022, Columbia has reported a total of 6,103,455 cases of COVID-19 or 11,995.1 cumulative cases of COVID-19 per 100,000 population with a total of 139,854 cumulative deaths or a rate 274.85 cumulative deaths per 100,000 population; as of 13 May 2022, 82.35% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 22.3% (2016)<br>
@@ -283,7 +283,7 @@ _coal revenues_: 0.75% of GDP (2018 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever, malaria, and yellow fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 30 March 2022, Columbia has reported a total of 6,083,939 cases of COVID-19 or 11,956.74 cumulative cases of COVID-19 per 100,000 population with a total of 139,585 cumulative deaths or a rate 274.32 cumulative deaths per 100,000 population; as of 29 March 2022, 81.8% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 6 June 2022, Columbia has reported a total of 6,103,455 cases of COVID-19 or 11,995.1 cumulative cases of COVID-19 per 100,000 population with a total of 139,854 cumulative deaths or a rate 274.85 cumulative deaths per 100,000 population; as of 13 May 2022, 82.35% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 12,150,120 tons (2011 est.)<br>
@@ -357,13 +357,13 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Ivan DUQUE Marquez (since 7 August 2018); Vice President Marta Lucia RAMIREZ Blanco (since 7 August 2018); the president is both chief of state and head of government<br>
 _head of government_: President Ivan DUQUE Marquez (since 7 August 2018); Vice President Marta Lucia RAMIREZ Blanco (since 7 August 2018)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority vote in 2 rounds if needed for a single 4-year term; election last held on 27 May 2018 with a runoff held on 17 June 2018 (next to be held on 29 May 2022); note - political reform in 2015 eliminated presidential reelection<br>
-_election results_: <em><br>2018:</em> Ivan DUQUE Marquez elected president in second round; percent of vote - Ivan DUQUE Marquez (CD) 54%, Gustavo PETRO (Humane Colombia) 41.8%, other/blank/invalid 4.2%<br><em><br>2014:</em> Juan Manuel SANTOS Calderon reelected president in second round; percent of vote - Juan Manuel SANTOS Calderon (U Party) 51%, Oscar Ivan ZULUAGA (CD) 45%, other 4%<br>
+_elections/appointments_: president directly elected by absolute majority vote in 2 rounds if needed for a single 4-year term; election last held on 29 May 2022 with a runoff to be held on 19 June 2022 (next to be held on 31 May 2026); note - political reform in 2015 eliminated presidential reelection<br>
+_election results_: <em><br>2022:</em> Percent of vote from the first round - Gustavo Francisco PETRO Urrego (PHxC) 40.3%, Rodolfo HERNANDEZ Suarez (LIGA) 28.2%, Federico GUTIERREZ (Team for Colombia / CREEMOS) 23.9%, other 7.6%; note - PETRO and HERNANDEZ move on to a runoff election scheduled for 19 June 2022<em><br><br>2018:</em> Ivan DUQUE Marquez elected president in second round; percent of vote - Ivan DUQUE Marquez (CD) 54%, Gustavo PETRO (Humane Colombia) 41.8%, other/blank/invalid 4.2%<br><em><br>2014:</em> Juan Manuel SANTOS Calderon reelected president in second round; percent of vote - Juan Manuel SANTOS Calderon (U Party) 51%, Oscar Ivan ZULUAGA (CD) 45%, other 4%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the Commons political party, formerly the People's Alternative Revolutionary Force (FARC), for 2 legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br> <p>Chamber of Representatives or Camara de Representantes (188 seats; 162 members elected in multi-seat constituencies by party-list proportional representation vote, 2 members elected in a special nationwide constituency for Afro-Colombians, 1 member elected by Colombians residing abroad, 1 member elected in a special nationwide constituency for the indigenous communities, 5 members of the Commons political party for two legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, 16 seats for rural conflict victims for two legislative terms only: 2022-2026 and 2026-2030, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve four-year terms)</p><br>
-_elections_: <strong> </strong><br>Senate - last held on 11 March 2018 (next to be held on 13 March 2022)<br>Chamber of Representatives - last held on 11 March 2018 (next to be held on 13 March 2022)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - CD 19, CR 16, PC 15, PL 14, U Party 14, Green Alliance 10, PDA 5, other 9; composition for 2018 election - men 77, women 31, percent of women 28.7%<br>Chamber of Representatives - percent of vote by party - NA; seats by party - PL 35, CD 32, CR 30, U Party 25, PC 21, Green Alliance 9, other 13; composition for 2018 election - men 147, women 25, percent of women 14.5%; total Congress percent of women 20%<br>
+_description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the Commons political party, formerly the People's Alternative Revolutionary Force (FARC), for 2 legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br> <p>Chamber of Representatives or Camara de Representantes (188 seats; 162 members elected in multi-seat constituencies by party-list proportional representation vote, 2 members elected in a special nationwide constituency for Afro-Colombians, 1 member elected by Colombians residing abroad, 1 member elected in a special nationwide constituency for the indigenous communities, 5 members of the Commons political party for two legislative terms only: 2018-2022 and 2022-2026 as per the 2016 peace accord, 16 seats for rural conflict victims for two legislative terms only: 2022-2026 and 2026-2030, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)</p><br>
+_elections_: <strong> </strong><br>Senate - last held on 13 March 2022 (next to be held in March 2026)<br>Chamber of Representatives - last held on 13 March 2022 (next to be held in March 2026)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PHxC 16, PC 16, PL 15, Green Alliance and Center Hope Coalition 14, CD 14, CR 11, U Party 10, MIRA–Colombia Free and Just Coalition 4; composition - men 75, women 33, percent of women 31%<br>Chamber of Representatives - percent of vote by party - NA; seats by party - PL 33, PHxC 28, PC 27, CR 18, CD 16, U Party 16, Green Alliance 14, League of Anticorruption Governors 2, others 34; composition - men 136, women 52, percent of women 28%; total Congress percent of women 29%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of the Civil-Agrarian and Labor Chambers each with 7 judges, and the Penal Chamber with 9 judges); Constitutional Court (consists of 9 magistrates); Council of State (consists of 27 judges); Superior Judiciary Council (consists of 13 magistrates)<br>
@@ -371,8 +371,8 @@ _judge selection and term of office_: Supreme Court judges appointed by the Supr
 _subordinate courts_: Superior Tribunals (appellate courts for each of the judicial districts); regional courts; civil municipal courts; Superior Military Tribunal; first instance administrative courts<br>
 
 **Political parties and leaders**<br>
-Alternative Democratic Pole or PDA [Jorge Enrique ROBLEDO]<br>Citizens Option (Opcion Ciudadana) or OC [Angel ALIRIO Moreno] (formerly known as the National Integration Party or PIN)<br>Conservative Party or PC [Hernan ANDRADE]<br>Democratic Center Party or CD [Alvaro URIBE Velez]<br>Green Alliance [Claudia LOPEZ Hernandez]<br>Humane Colombia [Gustavo PETRO]<br>Liberal Party or PL [Cesar GAVIRIA]<br>People's Alternative Revolutionary Force or FARC [Rodrigo LONDONO Echeverry]<br>Radical Change or CR [Rodrigo LARA Restrepo]<br>Social National Unity Party or U Party [Roy BARRERAS]<br>
-<strong>note:</strong> Colombia has numerous smaller political movements<br>
+Alternative Democratic Pole or PDA [Ivan CEPEDA]<br>Citizens Option (Opcion Ciudadana) or OC [Angel ALIRIO Moreno] (formerly known as the National Integration Party or PIN)<br>The Commons (formerly People's Alternative Revolutionary Force or FARC) [Rodrigo LONDONO Echeverry]<br>Conservative Party or PC [Omar YEPES]<br>Democratic Center Party or CD [Alvaro URIBE Velez]<br>Fair and Free Colombia<br>Green Alliance [Claudia LOPEZ Hernandez]<br>Historic Pact for Colombia or PHxC (coalition composed of several left-leaning political parties and social movements)<br>Humane Colombia [Gustavo PETRO]<br>Independent Movement of Absolute Renovation or MIRA [Carlos Eduardo GUEVARA]<br>League of Anti-Corruption Rulers or LIGA [Rodolfo HERNANDEZ Suarez]<br>Liberal Party or PL [Cesar GAVIRIA]<br>People's Alternative Revolutionary Force or FARC [Rodrigo LONDONO Echeverry]<br>Radical Change or CR [German VARGAS Lleras]<br>Team for Colombia - also known as the Experience Coalition or Coalition of the Regions (coalition composed of center-right and right-wing parties)<br>Union Party for the People or U Party [Dilian Francisca TORO]<br>We Believe Colombia or CREEMOS [Federico GUTIERREZ]<br>
+<strong>note:</strong> Colombia has numerous smaller political parties and movements<br>
 
 **International organization participation**<br>
 BCIE, BIS, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -694,15 +694,15 @@ _under 914 m_: 488 (2021)<br>
 4991 km gas, 6796 km oil, 3429 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 2,141 km (2015)<br>
-_standard gauge_: 150 km (2015) 1.435-m gauge<br>
-_narrow gauge_: 1,991 km (2015) 0.914-m gauge<br>
+_total_: 3,528 km (2019)<br>
+_standard gauge_: 150 km (2019) 1.435-m gauge<br>
+_narrow gauge_: 1,991 km (2019) 0.914-m gauge<br>
 
 **Roadways**<br>
-_total_: 205,379 km (2016)<br>
+_total_: 205,379 km (2019)<br>
 
 **Waterways**<br>
-24,725 km (2012) (18,225 km navigable; the most important waterway, the River Magdalena, of which 1,092 km is navigable, is dredged regularly to ensure safe passage of cargo vessels and container barges)<br>
+24,725 km (2019) (18,225 km navigable; the most important waterway, the River Magdalena, of which 1,092 km is navigable, is dredged regularly to ensure safe passage of cargo vessels and container barges)<br>
 
 **Merchant marine**<br>
 _total_: 122<br>
@@ -729,20 +729,20 @@ Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: 
 3.2% of GDP (2017) (approximately $18.3 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 260,000 total active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 14,000 Air Force); approximately 185,000 Colombian National Police (2021)<br>
+approximately 260,000 total active troops (200,000 Army; 45,000 Navy, including about 20,000 marines; 14,000 Air Force); approximately 170,000 Colombian National Police (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Colombian military inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Europe, Israel, South Korea, and the US; Germany, Israel, and the US are the leading suppliers of military hardware since 2010; Colombia's defense industry is active in producing air, land, and naval platforms (2021)<br>
+the Colombian military inventory includes a wide mix of equipment from a variety of suppliers, including Canada, Europe, Israel, South Korea, and the US; Germany, Israel, and the US are the leading suppliers of military hardware since 2010; Colombia's defense industry is active in producing air, land, and naval platforms (2022)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2021)<br>
+18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2022)<br>
 note - in 2020, conscripts reportedly comprised about 50% of the Colombian military's active force with approximately 60-90,000 conscripts brought into the military annually<br>
 
 **Military deployments**<br>
 275 Egypt (MFO) (2022)<br>
 
 **Military - note**<br>
-as of 2022, the Colombian Armed Forces were primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from several factions of the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting; the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against both the FARC and ELN continued into 2022 (see Appendix T); the military was also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents operate openly<br>
+as of 2022, the Colombian Armed Forces were primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from several factions of the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting (note - these dissident groups include the designated terrorist groups Revolutionary Armed Forces of Colombia - People's Army or FARC-EP and Segunda Marquetalia; see Appendix T); the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against the FARC dissident groups and the ELN continued into 2022 (see Appendix T); the military was also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents, including FARC-EP and Segunda Marquetalia, operate openly<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Colombia are a risk for armed robbery against ships; in 2021, six attacks against commercial vessels were reported, an increase over the single attack in 2020; most of these occurred in the main port of Cartagena while ships were berthed or at anchor<br>
@@ -750,7 +750,7 @@ the International Maritime Bureau reports the territorial waters of Colombia are
 ## Terrorism
 
 **Terrorist group(s)**<br>
-National Liberation Army (ELN); Revolutionary Armed Forces of Colombia (FARC)<br>
+National Liberation Army (ELN); Revolutionary Armed Forces of Colombia - People's Army (FARC-EP); Segunda Marquetalia<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

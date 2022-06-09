@@ -181,7 +181,7 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 7% (2019)<br>
 
 **Physicians density**<br>
-1.95 physicians/1,000 population (2016)<br>
+3.14 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 3.4 beds/1,000 population (2017)<br>
@@ -717,7 +717,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021)<br>
+_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 14,862 (Ukraine) (as of 23 May 2022)<br>
 _IDPs_: 228,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2020)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
 <strong>note:</strong> 37,550 estimated refugee and migrant arrivals (January 2015-April 2022)<br>

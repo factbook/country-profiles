@@ -175,7 +175,7 @@ _unimproved: total_: total: 2.6% of population (2020 est.)<br>
 6.7% (2019)<br>
 
 **Physicians density**<br>
-3.31 physicians/1,000 population (2018)<br>
+3.49 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 3 beds/1,000 population (2018)<br>
@@ -707,6 +707,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p>Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 32,421 (Ukraine) (as of 26 May 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

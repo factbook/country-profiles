@@ -182,7 +182,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 5.9% (2019)<br>
 
 **Physicians density**<br>
-5.19 physicians/1,000 population (2015)<br>
+4.54 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 10.8 beds/1,000 population (2014)<br>
@@ -722,7 +722,7 @@ note - conscripts can be assigned to the military, as well as the Ministry of In
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 30,092 (Ukraine) (as of 29 May 2022)<br>
+_refugees (country of origin)_: 16,648 (border crossings from Ukraine as of 1 June 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

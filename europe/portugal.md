@@ -179,7 +179,7 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 9.5% (2019)<br>
 
 **Physicians density**<br>
-5.12 physicians/1,000 population (2017)<br>
+5.48 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 3.5 beds/1,000 population (2018)<br>
@@ -602,8 +602,8 @@ _total subscriptions_: 5,212,507 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 51 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,909,800 (2019)<br>
-_subscriptions per 100 inhabitants_: 116.46 (2019 est.)<br>
+_total subscriptions_: 11,854,999 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 116 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; mobile market dominated by one operator with room for competition; 3G infrastructure is universal, with investment directed toward expanding provision of 90% LTE coverage in rural areas and 5G technologies; cable sector shifting to wireless, with access to 66% of population; developments in m-commerce; operator assessing installation of submarine cable between islands and mainland; importer of broadcasting equipment from EU (2020)<br>
@@ -719,6 +719,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 39,884 (Ukraine) (as of 31 May 2022)<br>
 _stateless persons_: 45 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

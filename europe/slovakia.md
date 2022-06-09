@@ -182,7 +182,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 7% (2019)<br>
 
 **Physicians density**<br>
-3.42 physicians/1,000 population (2017)<br>
+3.57 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 5.7 beds/1,000 population (2018)<br>
@@ -705,7 +705,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p>bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 461,164 (Ukraine) (as of 29 May 2022)<br>
+_refugees (country of origin)_: 466,264 (border crossings from Ukraine as of 31 May 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

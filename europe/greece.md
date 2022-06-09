@@ -178,7 +178,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 7.8% (2019)<br>
 
 **Physicians density**<br>
-5.48 physicians/1,000 population (2017)<br>
+6.31 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 4.2 beds/1,000 population (2018)<br>
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021)<br>
+_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 13,400 (Ukraine) (as of 22 May 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
 <strong>note:</strong> 1,216,875 estimated refugee and migrant arrivals (January 2015-May 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 

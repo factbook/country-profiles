@@ -720,19 +720,19 @@ note - the National Police Service maintains internal security and reports to th
 1.4% of GDP (2017) (approximately $1.19 billion)<br>
 
 **Military and security service personnel strengths**<br>
-&nbsp;approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2021)<br>
+approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the KDF's inventory traditionally carried mostly older or second-hand Western weapons systems, particularly from France, the UK, and the US; however, since the 2000s it has sought to modernize and diversify its imports, and suppliers have included more than a dozen countries ranging from China to Italy, Jordan, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-no conscription; 18-26 years of age for male and female voluntary service (under 18 with parental consent; upper limit 30 years of age for specialists, tradesmen, or women with a diploma; 39 years of age for chaplains/imams), with a 9-year obligation (7 years for Kenyan Navy) and subsequent 3-year re-enlistments; applicants must be Kenyan citizens (2021)<br>
+no conscription; 18-26 years of age for male and female voluntary service (under 18 with parental consent; upper limit 30 years of age for specialists, tradesmen, or women with a diploma; 39 years of age for chaplains/imams), with a 9-year obligation (7 years for Kenyan Navy) and subsequent 3-year re-enlistments; applicants must be Kenyan citizens (2022)<br>
 
 **Military deployments**<br>
 260 Democratic Republic of the Congo (MONUSCO); 3,650 Somalia (AMISOM) (2022)<br>
 
 **Military - note**<br>
-<p>Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate the force into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; as of 2022, they consisted of approximately 3,600 troops and were responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix-T for additional details on al-Shabaab)</p><br>
+Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate the force into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; as of 2022, they consisted of approximately 3,600 troops and were responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix-T for additional details on al-Shabaab) (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships<br>

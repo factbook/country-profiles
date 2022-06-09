@@ -185,7 +185,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 9.7% (2019)<br>
 
 **Physicians density**<br>
-3.59 physicians/1,000 population (2018)<br>
+3.62 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 2.6 beds/1,000 population (2019)<br>
@@ -603,8 +603,8 @@ _total subscriptions_: 858,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 18 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6.4 million (2018)<br>
-_subscriptions per 100 inhabitants_: 136.1 (2019 est.)<br>
+_total subscriptions_: 6.148 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 127 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent domestic and international systems with progress in mobile services; LTE rates some of the fastest in the world; growth in mobile broadband and fiber sectors; roll out of 5G; investment and development of infrastructure enabled network capabilities to propel the digital economy, e-government, and e-commerce across the country; new satellite to improve telecom in the Asia Pacific region; importer of broadcasting equipment and computers from China (2020)<br>

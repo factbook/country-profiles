@@ -168,9 +168,6 @@ _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 **Current Health Expenditure**<br>
 NA<br>
 
-**Physicians density**<br>
-2.22 physicians/1,000 population (2009)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -532,8 +529,8 @@ _total subscriptions_: 46,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 16 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 260,277 (2019)<br>
-_subscriptions per 100 inhabitants_: 96.02 (2019 est.)<br>
+_total subscriptions_: 260,000 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 91 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: New Caledonia has a well-developed telecom sector with 3G and LTE network services; one of the highest smart phone adoption rates in the region; telecommunications sector is dominated by government-owned company with a monopoly on fixed and mobile services, Internet, and broadband access; hub for submarine cables that will increase competition and capacity; importer of broadcasting equipment and computers from France (2020)<br>

@@ -182,7 +182,7 @@ _unimproved: total_: total: 52.5% of population (2020 est.)<br>
 2.3% (2019)<br>
 
 **Physicians density**<br>
-0.07 physicians/1,000 population (2018)<br>
+0.07 physicians/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 57.8% of population<br>
@@ -602,8 +602,8 @@ _total subscriptions_: 166,000 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.018 million (2018)<br>
-_subscriptions per 100 inhabitants_: 47.62 (2019 est.)<br>
+_total subscriptions_: 4.818 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 54 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom services stymied by rugged terrain, high cost of infrastructure, and poverty of citizens; services are minimal with little change in fixed-line tele-density in two decades; progress in mobile platforms with almost 90% coverage on 3G and LTE; GSM available in remote areas; Internet slow and expensive, available to pockets of the population; facilities provide radiotelephone, telegraph, coastal radio, aeronautical radio, and international radio communication services; launch of satellite and landing of submarine cable will improve most services in the region; government supports training to boost digital transformation; Australia attempted to block Chinese investment in cooperative network; importer of broadcasting equipment from China (2020)<br>

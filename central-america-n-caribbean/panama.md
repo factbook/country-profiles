@@ -180,7 +180,7 @@ _unimproved: total_: total: 3.8% of population (2020 est.)<br>
 7.6% (2019)<br>
 
 **Physicians density**<br>
-1.57 physicians/1,000 population (2016)<br>
+1.63 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 2.3 beds/1,000 population (2016)<br>
@@ -614,8 +614,8 @@ _total subscriptions_: 649,156 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,599,010 (2019)<br>
-_subscriptions per 100 inhabitants_: 131.85 (2019 est.)<br>
+_total subscriptions_: 5,825,677 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 135 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: domestic and international facilities well-developed; steady increase in telecom revenue with effective competition; mobile connections account for 90% of connections; government-funded program to improve Internet infrastructure; connectivity through two submarine cables; launch of LTE services; Chinese company Huawei investment in bandwidth technologies; importer of broadcasting equipment from China (2020)<br>
@@ -706,7 +706,7 @@ approximately 20,000 National Police; 4,000 National Border Service; 3,000 Natio
 Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces since 2010 (2022)<br>
 
 **Military - note**<br>
-<p>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution</p><br>
+Panama created a paramilitary National Guard (Guardia Nacional de Panam&aacute;) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed&nbsp;forces were officially abolished under the 1994 Constitution (2022)<br>
 
 ## Transnational Issues
 

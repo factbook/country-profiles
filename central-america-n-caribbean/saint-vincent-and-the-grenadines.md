@@ -168,7 +168,7 @@ _unimproved: total_: total: 4.9% of population (2017 est.)<br>
 4.8% (2019)<br>
 
 **Physicians density**<br>
-0.66 physicians/1,000 population<br>
+0.66 physicians/1,000 population (2012)<br>
 
 **Hospital bed density**<br>
 4.3 beds/1,000 population (2016)<br>
@@ -545,8 +545,8 @@ _total subscriptions_: 12,483 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 102,700 (2019)<br>
-_subscriptions per 100 inhabitants_: 92.87 (2019)<br>
+_total subscriptions_: 97,059 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 87 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate island-wide, fully automatic telephone system; broadband access; expanded FttP (Fiber to the Home) markets; LTE launches; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>

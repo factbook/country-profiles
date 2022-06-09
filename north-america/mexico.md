@@ -192,7 +192,7 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 5.4% (2019)<br>
 
 **Physicians density**<br>
-2.38 physicians/1,000 population (2017)<br>
+2.43 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 1 beds/1,000 population (2018)<br>
@@ -218,7 +218,7 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Mexico has reported a total of 5,651,553 cases of COVID-19 or 4,383.33 cumulative cases of COVID-19 per 100,000 population with a total of 322,761 cumulative deaths or a rate of 250.33 cumulative deaths per 100,000 population; as of 29 March 2022, 65.70% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Mexico has reported a total of 5,782,405 cases of COVID-19 or 4,484.8 cumulative cases of COVID-19 per 100,000 population with a total of 324,966 cumulative deaths or a rate of 252 cumulative deaths per 100,000 population; as of 20 May 2022, 66.68% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.9% (2016)<br>
@@ -289,7 +289,7 @@ _coal revenues_: 0.03% of GDP (2018 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 30 March 2022, Mexico has reported a total of 5,651,553 cases of COVID-19 or 4,383.33 cumulative cases of COVID-19 per 100,000 population with a total of 322,761 cumulative deaths or a rate of 250.33 cumulative deaths per 100,000 population; as of 29 March 2022, 65.70% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Mexico has reported a total of 5,782,405 cases of COVID-19 or 4,484.8 cumulative cases of COVID-19 per 100,000 population with a total of 324,966 cumulative deaths or a rate of 252 cumulative deaths per 100,000 population; as of 20 May 2022, 66.68% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 53.1 million tons (2015 est.)<br>
@@ -650,8 +650,8 @@ _total subscriptions_: 24,500,456 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 19 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 120,481,969 (2020)<br>
-_subscriptions per 100 inhabitants_: 93.45 (2020 est.)<br>
+_total subscriptions_: 122,898,392 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 95 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: with a large population and relatively low broadband and mobile penetration, (86 lines for mobile broadband for every 100 habitants in June 2021) Mexico&rsquo;s telecom sector has potential for growth; adequate telephone service for business and government; improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers (24.6 million fixed line subscribers and 125 million mobile line subscribers in June 2021); relatively low broadband and mobile penetration, potential for growth and international investment; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable; 5G development slow in part due to high costs (AT&amp;T announced 5G rollout in some sections of Mexico City in December 2021 and Telcel announced a plan to launch 5G network in 18 cities in February 2022); IXP in Mexico City; exporter of computers and broadcasting equipment to USA and importer of same from China (2021)<br>
@@ -740,8 +740,8 @@ note(s) - the National Guard was formed in 2019 and consists of personnel from t
 
 **Military expenditures**<br>
 0.8% of GDP (2022 est.)<br>
-0.8% of GDP (2021 est.)<br>
-0.6% of GDP (2020 est.)<br>
+0.8% of GDP (2021)<br>
+0.6% of GDP (2020)<br>
 0.5% of GDP (2019) (approximately $13.4 billion)<br>
 0.5% of GDP (2018) (approximately $12.5 billion)<br>
 

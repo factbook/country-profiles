@@ -193,7 +193,7 @@ _unimproved: total_: total: 0.8% of population (2020 est.)<br>
 10.8% (2019)<br>
 
 **Physicians density**<br>
-2.31 physicians/1,000 population (2016)<br>
+2.44 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 2.5 beds/1,000 population (2019)<br>
@@ -678,11 +678,11 @@ _under 914 m_: 484 (2021)<br>
 26 (2021)<br>
 
 **Pipelines**<br>
-840,000 km oil and gas&nbsp; (2017)<br>
+840,000 km oil and gas (2020)<br>
 
 **Railways**<br>
-_total_: 77,932 km (2014) note: 129 km electrified (2021)<br>
-_standard gauge_: 77,932 km (2014) 1.435-m gauge<br>
+_total_: 49,422 km (2021) note: 129 km electrified (2021)<br>
+_standard gauge_: 49,422 km (2021) 1.435-m gauge<br>
 
 **Roadways**<br>
 _total_: 1,042,300 km (2011)<br>
@@ -719,14 +719,14 @@ note - the Army reserves include the Canadian Rangers, which provides a limited 
 1.4% of GDP (2017) (approximately $27.6 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 70,000 total active personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2021)<br>
+approximately 70,000 total active personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2022)<br>
 note - the Army also has 19,000 part-time, volunteer soldiers in the Reserve Force, including about 5,500 Rangers<br>
 
 **Military equipment inventories and acquisitions**<br>
-the CAF's inventory is a mix of domestically-produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; since 2010, the leading supplier is the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2021)<br>
+the CAF's inventory is a mix of domestically-produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; since 2010, the leading supplier is the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2022)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2021)<br>
+17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2022)<br>
 note(s) - Canada opened up all military occupations to women in 2001; in 2020, women comprised about 16% of the CAF<br>
 
 **Military deployments**<br>

@@ -190,7 +190,7 @@ _unimproved: total_: total: 31.4% of population (2020 est.)<br>
 5.7% (2019)<br>
 
 **Physicians density**<br>
-0.04 physicians/1,000 population (2016)<br>
+0.04 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 0.4 beds/1,000 population (2017)<br>
@@ -640,8 +640,8 @@ _total subscriptions_: 58,000 (2020)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,778,880 (2018)<br>
-_subscriptions per 100 inhabitants_: 40.64 (2019 est.)<br>
+_total subscriptions_: 14.239 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 59 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: difficult economic climate, with lack of fixed telecom infrastructure; mobile services stronger than fixed telecom; low broadband penetration; adopted free mobile roaming with other G5 Sahel countries; World Bank project to facilitate digital progress; government contributes to Trans-Sahara Backbone network, with aims to extend fiber-optic and international capacity; LTE license awarded; government substantially taxes telecom sector (2020)<br>
@@ -719,13 +719,13 @@ note - the Gendarmerie is subordinate to the Ministry of Defense and has primary
 2% of GDP (2017 est.) (approximately $270 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 10,000 active troops (est. 6,000 Army; 200 Air Force; 4,000 Gendarmerie); est. 3,000 National Guard (2021)<br>
+information varies; approximately 10,000 active troops (est. 6,000 Army; 200 Air Force; 4,000 Gendarmerie); est. 3,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAN's inventory consists of a wide variety of older weapons; since 2010, the FAN has received small amounts of mostly second-hand equipment and donations from several countries with the US as the top provider (2021)<br>
+the FAN's inventory consists of a wide variety of older weapons; since 2010, the FAN has received small amounts of mostly second-hand equipment and donations from several countries with the US as the top provider (2022)<br>
 
 **Military service age and obligation**<br>
-has conscription, although it is reportedly not always enforced; 18 is the legal minimum age for compulsory or voluntary military service; enlistees must be Nigerien citizens and unmarried; 2-year service term; women may serve in health care (2021)<br>
+has conscription, although it is reportedly not always enforced; 18 is the legal minimum age for compulsory or voluntary military service; enlistees must be Nigerien citizens and unmarried; 2-year service term; women may serve in health care (2022)<br>
 
 **Military deployments**<br>
 870 Mali (MINUSMA) (Feb 2022)<br>

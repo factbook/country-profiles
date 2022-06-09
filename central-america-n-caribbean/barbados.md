@@ -170,7 +170,7 @@ _unimproved: total_: total: 2% of population (2020 est.)<br>
 6.3% (2019)<br>
 
 **Physicians density**<br>
-2.48 physicians/1,000 population (2017)<br>
+2.49 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
 6 beds/1,000 population (2017)<br>
@@ -589,7 +589,7 @@ _domestic_: fixed-line teledensity of roughly 45 per 100 persons; mobile-cellula
 _international_: country code - 1-246; landing points for the ECFS and Southern Caribbean Fiber submarine cable with links to 15 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and Puerto Ricco; satellite earth stations - 1 (Intelsat - Atlantic Ocean); tropospheric scatter to Trinidad and Saint Lucia (2019)<br>
 
 **Broadcast media**<br>
-government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terrestrial TV station; CBC also operates a multi-channel cable TV subscription service; roughly a dozen radio stations, consisting of a CBC-operated network operating alongside privately owned radio stations<br>
+government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terrestrial TV station; CBC also operates a multi-channel cable TV subscription service; roughly a dozen radio stations, consisting of a CBC-operated network operating alongside privately owned radio stations (2019)<br>
 
 **Internet country code**<br>
 .bb<br>
@@ -641,13 +641,13 @@ Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2022)<b
 0.8% of GDP (2017 est.) (approximately $40 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Barbados Defense Force (BDF) has approximately 600 active personnel (2021)<br>
+approximately 600 active personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Netherlands provide the BDF's major equipment inventory (maritime patrol boats) (2021)<br>
+the Netherlands provide the BDF's major equipment inventory (maritime patrol boats) (2022)<br>
 
 **Military service age and obligation**<br>
-voluntary service only (men and women); 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizens of Barbados by descent or naturalization (2021)<br>
+voluntary service only (men and women); 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizens of Barbados by descent or naturalization (2022)<br>
 
 **Military - note**<br>
 <p>Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados</p> (2022)<br>

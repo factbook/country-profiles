@@ -686,13 +686,13 @@ Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary
 3.1% of GDP (2016 est.) (approximately $5.5 billion)<br>
 
 **Military and security service personnel strengths**<br>
-limited available information; estimated 50,000 active personnel (approximately 40,000 Army; 3,000 Navy; 8,000 Air Force) (2021)<br>
+limited available information; estimated 50,000 active personnel (approximately 40,000 Army; 3,000 Navy; 8,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Cuban military inventory is comprised of ageing Russian and Soviet-era equipment; the last recorded arms delivery to Cuba was by Russia in 2004; in 2019, Russia approved a loan for approximately $43-50 million for Cuba's purchase of spare parts and armored vehicles (2022)<br>
 
 **Military service age and obligation**<br>
-17-28 years of age for compulsory (men) and volunteer (men and women) military service; 2-year service obligation for men (2021)<br>
+17-28 years of age for compulsory (men) and volunteer (men and women) military service; 2-year service obligation for men (2022)<br>
 
 **Military - note**<br>
 the FAR has a large role in the Cuban economy through several military owned and operated conglomerates, including such sectors as banking, hotels, industry, retail, transportation, and tourism (2022)<br>

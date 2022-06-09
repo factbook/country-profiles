@@ -192,7 +192,7 @@ _unimproved: total_: total: 4.9% of population (2020 est.)<br>
 5.4% (2019)<br>
 
 **Physicians density**<br>
-1.98 physicians/1,000 population (2017)<br>
+2.23 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 4.3 beds/1,000 population (2017)<br>
@@ -219,7 +219,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, Japanese encephalitis<br>
 _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)<br>
-<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 30 March 2022, China has reported a total of 899,803 cases of COVID-19 or 61.15 cumulative cases of COVID-19 per 100,000 population with a total of 13,062 cumulative deaths or a rate 0.88 cumulative deaths per 100,000 population; as of 29 March 2022, 88.32% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 6 June 2022, China has reported a total of 3,392,315 cases of COVID-19 or 230.57 cumulative cases of COVID-19 per 100,000 population with a total of 17,551 cumulative deaths or a rate 1.19 cumulative deaths per 100,000 population; as of 1 June 2022, 89.36% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.2% (2016)<br>
@@ -285,7 +285,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, Japanese encephalitis<br>
 _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)<br>
-<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 30 March 2022, China has reported a total of 899,803 cases of COVID-19 or 61.15 cumulative cases of COVID-19 per 100,000 population with a total of 13,062 cumulative deaths or a rate 0.88 cumulative deaths per 100,000 population; as of 29 March 2022, 88.32% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 6 June 2022, China has reported a total of 3,392,315 cases of COVID-19 or 230.57 cumulative cases of COVID-19 per 100,000 population with a total of 17,551 cumulative deaths or a rate 1.19 cumulative deaths per 100,000 population; as of 1 June 2022, 89.36% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 210 million tons (2015 est.)<br>
@@ -702,15 +702,15 @@ _under 914 m_: 13 (2021)<br>
 76000 km gas, 30400 km crude oil, 27700 km refined petroleum products, 797000 km water (2018)<br>
 
 **Railways**<br>
-_total_: 50,000 km (2018) 1.435-m gauge (100,000 km electrified); 104,0000 traditional, 29,000 high-speed<br>
+_total_: 150,000 km (2021) 1.435-m gauge (100,000 km electrified); 104,0000 traditional, 40,000 high-speed<br>
 
 **Roadways**<br>
-_total_: 45.2 million km (2017)<br>
-_paved_: 4.578 million km (2017) (includes 168000 km of expressways)<br>
+_total_: 45.2 million km (2020)<br>
+_paved_: 4.578 million km (2020) (includes 168000 km of expressways)<br>
 _unpaved_: 622,000 km (2017)<br>
 
 **Waterways**<br>
-27,700 km (2011) (navigable waterways)<br>
+27,700 km (2020) (navigable waterways)<br>
 
 **Merchant marine**<br>
 _total_: 6,662<br>
@@ -768,5 +768,5 @@ _current situation_: human traffickers exploit domestic and foreign victims in C
 _tier rating_: Tier 3 &mdash; China does not fully meet the minimum standards for elimination of trafficking and is not making significant efforts to do so; the government prosecuted and convicted some traffickers and continued to cooperate with international authorities to address forced and fraudulent marriages in China; however, there was a government policy or pattern of widespread forced labor, including the continued mass arbitrary detention of more than one million Uyghurs, ethnic Kazakhs, ethnic Kyrgyz, and other Muslims in the Xinjiang Uyghur Autonomous Region; the government did not report any investigations, prosecutions, or convictions of law enforcement officials allegedly complicit despite continued reports of officials benefiting from, permitting, or directly facilitating sex trafficking; authorities did not report identifying any trafficking victims or referring them to protective services; it is likely that law enforcement arrested and detained unidentified trafficking victims for crimes traffickers compelled them to commit; for the third consecutive year, the government did not report the extent to which it funded anti-trafficking activities in furtherance of the 2013-2020 National Action Plan on Combating Human Trafficking (2020)<br>
 
 **Illicit drugs**<br>
-<p>a major source of precursor chemicals, new psychoactive substances (NPS), and synthetic drugs, including fentanyl precursors and methamphetamine;  PRC criminal organizations and organizations from Mexico and Southeast Asia traffic illicit drugs within the PRC as well as to international markets; significant illicit drug consumption of methamphetamine and ketamine; a major destination and transit country for heroin produced in neighboring countries; the PRC remains a major source of NPS sold in North America and Europe  </p> <p> </p><br>
+<p>a major source of precursor chemicals, new psychoactive substances (NPS), and synthetic drugs, including fentanyl precursors and methamphetamine;  PRC criminal organizations, transnational crime, and organizations from Mexico and Southeast Asia traffic licit precursor chemical components and illicit finished drugs within the PRC as well as to international markets; significant illicit drug consumption of methamphetamine and ketamine; a major destination and transit country for heroin produced in neighboring countries; the PRC remains a major source of NPS sold in North America and Europe  </p> <p> </p> (2021)<br>
 

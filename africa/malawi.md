@@ -190,7 +190,7 @@ _unimproved: total_: total: 8% of population (2020 est.)<br>
 7.4% (2019)<br>
 
 **Physicians density**<br>
-0.04 physicians/1,000 population (2018)<br>
+0.05 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1.3 beds/1,000 population (2011)<br>
@@ -630,8 +630,8 @@ _total subscriptions_: 12,465 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,004,680 (2020)<br>
-_subscriptions per 100 inhabitants_: 52.3 (2020 est.)<br>
+_total subscriptions_: 10,004,680 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 52 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Malawi remains one of the world&rsquo;s least developed countries, with few resources to build efficient fixed-line telecom infrastructure; mobile penetration low compared to region with ample opportunity for growth and competition; some mobile services to rural areas; LTE services are available; national fiber backbone near completion; progress in m-payment methods; prospect of international submarine cables from neighboring countries; importer of broadcast equipment from China (2020)<br>

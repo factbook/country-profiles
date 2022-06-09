@@ -195,7 +195,7 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 4.7% (2019)<br>
 
 **Physicians density**<br>
-0.45 physicians/1,000 population (2018)<br>
+0.75 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 1.4 beds/1,000 population (2017)<br>
@@ -726,19 +726,19 @@ note(s) - the Public Security Sector Police are responsible for law enforcement 
 
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
-1.3% of GDP (2020 est.)<br>
+1.3% of GDP (2020)<br>
 1.3% of GDP (2019) (approximately $15.8 billion)<br>
 1.4% of GDP (2018) (approximately $15.9 billion)<br>
 1.6% of GDP (2017) (approximately $16.7 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 450,000 total active personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces (2021)<br>
+information varies; approximately 450,000 total active personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the EAF's inventory is comprised of a mix of domestically produced, imported Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an extensive equipment modernization program with major purchases from a variety of suppliers; since 2010, the leading suppliers of military hardware to Egypt are France, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries (2021)<br>
+the EAF's inventory is comprised of a mix of domestically produced, imported Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an extensive equipment modernization program with major purchases from a variety of suppliers; since 2010, the leading suppliers of military hardware to Egypt are France, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries (2022)<br>
 
 **Military service age and obligation**<br>
-voluntary enlistment possible from age 16 (men and women); 18-30 years of age for male conscript military service; service obligation - 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education (2021)<br>
+voluntary enlistment possible from age 16 (men and women); 18-30 years of age for male conscript military service; service obligation - 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education (2022)<br>
 note - as of 2020, conscripts were estimated to comprise over half of the military, as well as a considerable portion of the Central Security Force<br>
 
 **Military deployments**<br>

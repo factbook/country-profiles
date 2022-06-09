@@ -186,6 +186,9 @@ _unimproved: total_: total: 5.8% of population (2020 est.)<br>
 **Current Health Expenditure**<br>
 5.4% (2019)<br>
 
+**Physicians density**<br>
+1.73 physicians/1,000 population (2017)<br>
+
 **Hospital bed density**<br>
 0.9 beds/1,000 population (2017)<br>
 
@@ -348,7 +351,7 @@ _election results_: 2018: Nicolas MADURO Moros reelected president; percent of v
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (277 seats; 3 seats reserved for indigenous peoples of Venezuela; members serve 5-year terms); note - in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the 6 December 2020 election<br>
 _elections_: last held on 6 December 2020 (next to be held in December 2025)<br>
-_election results_: percent of vote by party - GPP (pro-government) 69.32%, Democratic Alliance (opposition coalition) 17.68%, other 13%; seats by party - GPP 253, Democratic Alliance 18, indigenous peoples 3, other 3<br>
+_election results_: percent of vote by party - GPP (pro-government) 69.32%, Democratic Alliance (opposition coalition) 17.68%, other 13%; seats by party - GPP 253, Democratic Alliance 18, indigenous peoples 3, other 3; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Tribunal of Justice (consists of 32 judges organized into constitutional, political-administrative, electoral, civil appeals, criminal appeals, and social divisions)<br>
@@ -689,7 +692,7 @@ _oil terminal(s)_: Jose terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI), Bolivarian Militia (Milicia Bolivariana), Bolivarian National Guard (Guardia Nacional Bolivaria, GNB) <br><br>Bolivarian National Police: Special Action Forces (Fuerzas de Acciones Especiales, FAES) (2021)<br>
+Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI), Bolivarian Militia (Milicia Bolivariana), Bolivarian National Guard (Guardia Nacional Bolivaria, GNB) <br><br>Bolivarian National Police: Special Action Forces (Fuerzas de Acciones Especiales, FAES) (2022)<br>
 note(s) - the Bolivarian Militia was added as a "special component" to the FANB in 2020; the National Guard is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br>the FAES police paramilitary unit was created by President MADURO after the 2017 anti-government protests to bolster internal security; it has been accused of multiple human rights abuses <br>
 
 **Military expenditures**<br>
@@ -700,18 +703,18 @@ note(s) - the Bolivarian Militia was added as a "special component" to the FANB 
 1.8% of GDP (2015 est.) (approximately $9.3 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 125-150,000 active personnel, including about 25-30,000 National Guard; approximately 200-225,000 Bolivarian Militia (2021)<br>
+information varies; approximately 125-150,000 active personnel, including about 25-30,000 National Guard; approximately 200-225,000 Bolivarian Militia (2022)<br>
 note - the Bolivarian Militia is comprised of armed civilians who receive periodic training in exchange for a small stipend<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries, including the US; since 2010, Russia is the top supplier of military hardware to Venezuela (2021)<br>
+the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries, including the US; since 2010, Russia is the top supplier of military hardware to Venezuela (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50 years old) are obligated to register for military service and subject to military training, although “forcible recruitment” is forbidden (2021)<br>
+18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50 years old) are obligated to register for military service and subject to military training, although “forcible recruitment” is forbidden (2022)<br>
 note - as of 2017, women made up more than 20% of the active duty military<br>
 
 **Military - note**<br>
-between 2013 and 2017, Venezuela established at least a dozen military-led firms in a variety of economic sectors, such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; as of 2020, military officers reportedly led at least 60 state-owned companies; as of 2019, 9 of 32 government ministries were controlled by the military, including the ministries of agriculture and energy<br><br>as of late 2021, an estimated 1,500- 2,000 members of the terrorist organizations National Liberation Army (ELN) and Revolutionary Armed Forces of Colombia dissidents (FARC-People's Army and Segundo Marquetalia - see Appendix T) operated in Venezuela, mostly in the states of Amazonas, Apure, Bolivar, Guarico, Tachira, and Zulia, although ELN was assessed to be present in 12 of Venezuela’s 23 states; the groups were particularly active in Apure state where the Venezuelan military clashed several times with FARC dissidents of the 10th Front in 2020-2021<br>
+between 2013 and 2017, Venezuela established at least a dozen military-led firms in a variety of economic sectors, such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; as of 2020, military officers reportedly led at least 60 state-owned companies; as of 2019, 9 of 32 government ministries were controlled by the military, including the ministries of agriculture and energy<br><br>as of late 2021, an estimated 1,500- 2,000 members of the terrorist organizations National Liberation Army (ELN) and Revolutionary Armed Forces of Colombia dissidents (FARC-People's Army and Segundo Marquetalia - see Appendix T) operated in Venezuela, mostly in the states of Amazonas, Apure, Bolivar, Guarico, Tachira, and Zulia, although ELN was assessed to be present in 12 of Venezuela’s 23 states; the groups were particularly active in Apure state where the Venezuelan military clashed several times with FARC dissidents of the 10th Front in 2020-2021 (2022)<br>
 
 **Maritime threats**<br>
 The International Maritime Bureau continues to report the territorial and offshore waters in the Caribbean Sea as at risk for piracy and armed robbery against ships; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; in 2021, no attacks were reported<br>

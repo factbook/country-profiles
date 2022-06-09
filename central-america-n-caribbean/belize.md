@@ -177,7 +177,7 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 6% (2019)<br>
 
 **Physicians density**<br>
-1.12 physicians/1,000 population (2017)<br>
+1.08 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 1 beds/1,000 population (2017)<br>
@@ -323,7 +323,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the governor general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (31 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: <br>Senate -  last appointed 11 November 2020 (next appointments in November 2025)<br>House of Representatives - last held on 11 November 2020 (next to be held in November 2025)<br>
-_election results_: Senate - all members appointed; composition as of March 2022 - men 9, women 5, percent of women 35.7%<br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition as of March 2022 -  men 27, women 4, percent of women 12.9%; note - total percent of women in the National Assembly 20%<br>
+_election results_: Senate - all members appointed; composition as of March 2022 - composition - men 9, women 5, percent of women 35.7%<br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition as of March 2022 -  men 27, women 4, percent of women 12.9%; note - total percent of women in the National Assembly 20%<br>
 <strong> </strong><br>
 
 **Judicial branch**<br>
@@ -667,13 +667,13 @@ note - the Ministry of National Defense and Border Security is responsible for o
 1.4% of GDP (2017 est.) (approximately $30 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Belize Defense Force (BDF) has approximately 1,300 active personnel; approximately 300 Belize Coast Guard (2021)<br>
+approximately 1,300 BDF personnel; approximately 300 Belize Coast Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the BDF's inventory is limited and consists mostly of UK- and US-origin equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; volunteers typically outnumber available positions by 3:1; initial service obligation 12 years (2021)<br>
+18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient, but conscription has never been implemented; volunteers typically outnumber available positions by 3:1; initial service obligation 12 years (2022)<br>
 
 **Military - note**<br>
 <p>the BDF was established in 1978 from the disbanded Police Special Force and the Belize Volunteer Guard to assist the resident British forces with the defense of Belize against Guatemala; the BDF traces its history back to the Prince Regent Royal Honduras Militia, a volunteer force established in 1817</p> <p>the British Army has maintained a presence in Belize since its independence; as of 2022, the presence consisted of a small training support unit that provides jungle training to troops from the UK and international partners</p><br>

@@ -180,7 +180,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 5.5% (2019)<br>
 
 **Physicians density**<br>
-2.65 physicians/1,000 population (2015)<br>
+2.34 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 2 beds/1,000 population (2017)<br>
@@ -659,7 +659,7 @@ _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'A
 
 **Military and security forces**<br>
 Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Brigade; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2022)<br>
-note(s) - the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the Kuwaiti National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br>
+note(s) - the Kuwait Amiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the Kuwaiti National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br>
 
 **Military expenditures**<br>
 6.8% of GDP (2021 est.)<br>
@@ -669,13 +669,13 @@ note(s) - the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercis
 5.6% of GDP (2017) (approximately $10 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard; note – Army figures include the Kuwait Emiri Guard Authority (estimated 500 personnel) and the 25th Commando Brigade (strength not available) (2021)<br>
+the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard; note – Army figures include the Kuwait Amiri Guard Authority (estimated 500 personnel) and the 25th Commando Brigade (strength not available) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Kuwaiti Armed Forces consists of weapons from a wide variety of sources, including Western Europe, Russia, the United Arab Emirates, and the US; the US is the leading supplier of arms to Kuwait since 2010 (2021)<br>
+the inventory of the Kuwaiti Armed Forces consists of weapons from a wide variety of sources, including Western Europe, Russia, the United Arab Emirates, and the US; the US is the leading supplier of arms to Kuwait since 2010 (2022)<br>
 
 **Military service age and obligation**<br>
-17-21 years of age for voluntary military service; Kuwait reintroduced one-year mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; service is divided in two phases – four months for training and eight months for military service; women were allowed to volunteer in 2021 (2021)<br><br> <br>
+17-21 years of age for voluntary military service; Kuwait reintroduced one-year mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; service is divided in two phases – four months for training and eight months for military service; women were allowed to volunteer in 2021 (2022)<br><br> <br>
 &nbsp;<br>
 
 **Military - note**<br>

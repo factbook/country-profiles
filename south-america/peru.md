@@ -193,7 +193,7 @@ _unimproved: total_: total: 6% of population (2020 est.)<br>
 5.2% (2019)<br>
 
 **Physicians density**<br>
-1.3 physicians/1,000 population (2016)<br>
+1.37 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 1.6 beds/1,000 population (2017)<br>
@@ -219,7 +219,7 @@ _unimproved: total_: total: 12.6% of population (2020 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 30 March 2022, Peru has reported a total of 3,545,628 cases of COVID-19 or 10,753.49 cumulative cases of COVID-19 per 100,000 population with a total of 212,157 cumulative deaths or a rate of 643.45 cumulative deaths per 100,000 population; as of 29 March 2022, 85.08% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 6 June 2022, Peru has reported a total of 3,581,524 cases of COVID-19 or 10,862.4 cumulative cases of COVID-19 per 100,000 population with a total of 213,205 cumulative deaths or a rate of 646.6 cumulative deaths per 100,000 population; as of 1 June 2022, 88.04% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 19.7% (2016)<br>
@@ -289,7 +289,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 30 March 2022, Peru has reported a total of 3,545,628 cases of COVID-19 or 10,753.49 cumulative cases of COVID-19 per 100,000 population with a total of 212,157 cumulative deaths or a rate of 643.45 cumulative deaths per 100,000 population; as of 29 March 2022, 85.08% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 6 June 2022, Peru has reported a total of 3,581,524 cases of COVID-19 or 10,862.4 cumulative cases of COVID-19 per 100,000 population with a total of 213,205 cumulative deaths or a rate of 646.6 cumulative deaths per 100,000 population; as of 1 June 2022, 88.04% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 8,356,711 tons (2014 est.)<br>
@@ -646,8 +646,8 @@ _total subscriptions_: 2.47 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 7 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 38,915,400 (2018)<br>
-_subscriptions per 100 inhabitants_: 123.76 (2019 est.)<br>
+_total subscriptions_: 44 million (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: economic impact on telcom services during pandemic due to consumer unemployment; good mobile operator competition with LTE services; fixed-line tele-density remains among lowest in South America, with obstacles to growth including widespread poverty, fixed-to-mobile substitution, expensive telephone services, and geographical inaccessibility in the Andean mountains and Amazon jungles; government investment in underserved areas with fiber backbone; government facilitated virtual learning during pandemic via tablets with Internet connectivity; 3G network and new LTE services expanded providing mobile broadband to rural communities, though low penetration still exists; major importer of broadcasting equipment and computers from China (2020)<br>
@@ -740,13 +740,13 @@ Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del 
 1.2% of GDP (2017) (approximately $3.86 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 95,000 active personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2021)<br>
+information varies; approximately 95,000 active personnel (60,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 10,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Peruvian military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, the former Soviet Union, and the US; since 2010, Peru has received military equipment from more than a dozen countries, led by Russia and South Korea (2021)<br>
+the Peruvian military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, the former Soviet Union, and the US; since 2010, Peru has received military equipment from more than a dozen countries, led by Russia and South Korea (2022)<br>
 
 **Military service age and obligation**<br>
-18-50 years of age for male and 18-45 years of age for female voluntary military service (12 months); no conscription (abolished in 1999) (2021)<br>
+18-50 years of age for male and 18-45 years of age for female voluntary military service (12 months); no conscription (abolished in 1999) (2022)<br>
 note - as of 2019, women made up about 10% of the active duty military<br>
 
 **Military deployments**<br>

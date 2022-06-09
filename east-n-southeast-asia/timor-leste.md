@@ -180,7 +180,7 @@ _unimproved: total_: total: 12.6% of population (2020 est.)<br>
 7.2% (2019)<br>
 
 **Physicians density**<br>
-0.72 physicians/1,000 population (2018)<br>
+0.76 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 88.7% of population<br>
@@ -659,7 +659,7 @@ _major seaport(s)_: Dili<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components; National Police (Pol&iacute;cia Nacional de Timor-Leste, PNTL) (2021)<br>
+Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components; National Police (Pol&iacute;cia Nacional de Timor-Leste, PNTL) (2022)<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
@@ -678,7 +678,7 @@ Timor-Leste Defense Force's limited inventory consists of equipment donated by o
 18 years of age for voluntary military service; 18-month service obligation (2021)<br>
 
 **Military - note**<br>
-<p>since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US; some F-FDTL personnel train with the Indonesian military and the two countries maintain a joint Border Security Task Force to jointly monitor and patrol the border, particularly the Oecussi exclave area where smuggling and trafficking are prevalent</p> <p>the F-FDTL is a small force comprised of 2 infantry battalions and operates fewer than 10 patrol boats; it does not have any combat aircraft</p><br>
+since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US; some F-FDTL personnel train with the Indonesian military and the two countries maintain a joint Border Security Task Force to jointly monitor and patrol the border, particularly the Oecussi exclave area where smuggling and trafficking are prevalent (2022)<br>
 
 ## Transnational Issues
 

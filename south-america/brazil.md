@@ -193,7 +193,7 @@ _unimproved: total_: total: 0.6% of population (2020 est.)<br>
 9.6% (2019)<br>
 
 **Physicians density**<br>
-2.16 physicians/1,000 population (2018)<br>
+2.31 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 2.1 beds/1,000 population (2017)<br>
@@ -220,7 +220,7 @@ _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 30 March 2022, Brazil has reported a total of 29,852,341 cases of COVID-19 or 14,044.23 cumulative cases of COVID-19 per 100,000 population with a total of 658,956 cumulative deaths or a rate 310.01 cumulative deaths per 100,000 population; as of 29 March 2022, 84.62% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 6 June 2022, Brazil has reported a total of 31,060,017 cases of COVID-19 or 14,612.39 cumulative cases of COVID-19 per 100,000 population with a total of 666,801 cumulative deaths or a rate 313.7 cumulative deaths per 100,000 population; as of 5 June 2022, 86.02% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 22.1% (2016)<br>
@@ -287,7 +287,7 @@ _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 30 March 2022, Brazil has reported a total of 29,852,341 cases of COVID-19 or 14,044.23 cumulative cases of COVID-19 per 100,000 population with a total of 658,956 cumulative deaths or a rate 310.01 cumulative deaths per 100,000 population; as of 29 March 2022, 84.62% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 6 June 2022, Brazil has reported a total of 31,060,017 cases of COVID-19 or 14,612.39 cumulative cases of COVID-19 per 100,000 population with a total of 666,801 cumulative deaths or a rate 313.7 cumulative deaths per 100,000 population; as of 5 June 2022, 86.02% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 79,889,010 tons (2015 est.)<br>
@@ -345,7 +345,7 @@ Independence Day, 7 September (1822)<br>
 
 **Constitution**<br>
 _history_: several previous; latest ratified 5 October 1988<br>
-_amendments_: proposed by at least one third of either house of the National Congress, by the president of the republic, or by simple majority vote by more than half of the state legislative assemblies; passage requires at least three-fifths majority vote by both houses in each of two readings; constitutional provisions affecting the federal form of government, separation of powers, suffrage, or individual rights and guarantees cannot be amended; amended many times, last in 2020 (2021)<br>
+_amendments_: proposed by at least one third of either house of the National Congress, by the president of the republic, or by simple majority vote by more than half of the state legislative assemblies; passage requires at least three-fifths majority vote by both houses in each of two readings; constitutional provisions affecting the federal form of government, separation of powers, suffrage, or individual rights and guarantees cannot be amended; amended many times, last in 2021 (2021)<br>
 
 **Legal system**<br>
 civil law; note - a new civil law code was enacted in 2002 replacing the 1916 code<br>
@@ -380,7 +380,7 @@ _judge selection and term of office_: justices appointed by the president and ap
 _subordinate courts_: Tribunal of the Union, Federal Appeals Court, Superior Court of Justice, Superior Electoral Court, regional federal courts; state court system<br>
 
 **Political parties and leaders**<br>
-Avante [Luis TIBE] (formerly Labor Party of Brazil or PTdoB) <br>Brazilian Communist Party or PCB [Edmilson COSTA]<br>Brazilian Democratic Movement or MDB [Luiz Felipe Baleia Tenuto ROSSI]<br>Brazilian Labor Party or PTB [Graciela NIENOV]<br>Brazilian Renewal Labor Party or PRTB [Jose Levy FIDELIX da Cruz]<br>Brazilian Republican Party or PRB [Marcos Antonio PEREIRA]<br>Brazilian Social Democracy Party or PSDB [Bruno ARAUJO]<br>Brazilian Socialist Party or PSB [Carlos Roberto SIQUEIRA de Barros]<br>Christian Democracy or DC [Jose Maria EYMAEL] (formerly Christian Social <br>Cidadania [Roberto Joao Pereira FREIRE] (formerly Popular Socialist Party or PPS)<br>Democratic Party or PSDC)<br>Christian Labor Party or PTC [Daniel TOURINHO]<br>Communist Party of Brazil or PCdoB [Luciana SANTOS]<br>Democratic Labor Party or PDT [Antonio Carlos Peixoto MAGALHAES Neto]<br>The Democrats or DEM [Jose AGRIPINO] (formerly Liberal Front Party or PFL)<br>Green Party or PV [Jose Luiz PENNA]<br>Liberal Party or PL [Valdemar COSTA Neto] (formerly Party of the Republic or PR)<br>National Mobilization Party or PMN [Antonio Carlos Bosco MASSAROLLO]<br>New Party or NOVO [Eduardo RIBEIRO]<br>Patriota [Ovasco RESENDE] (formerly National Ecologic Party or PEN)<br>Podemos [Renata ABREU] (formerly National Labor Party or PTN) <br>Progressive Party or PP [Ciro NOGUEIRA]<br>Republican Social Order Party or PROS [Euripedes JUNIOR]<br>Social Christian Party or PSC [Everaldo Dias PEREIRA]<br>Social Democratic Party or PSD [Gilberto KASSAB]<br>Social Liberal Party or PSL [Luciano Caldas BIVAR]<br>Socialism and Freedom Party or PSOL [Juliano MEDEIROS]<br>Solidarity or SD [Paulo PEREIRA DA SILVA]<br>Sustainability Network or REDE [Marina SILVA]<br>United Socialist Workers' Party or PSTU [Jose Maria DE ALMEIDA]<br>Workers' Cause Party or PCO [Rui Costa PIMENTA]<br>Workers' Party or PT [Gleisi HOFFMANN]<br>
+Avante [Luis Henrique de Oliveira RESENDE] (formerly Labor Party of Brazil or PTdoB) <br>Brazilian Communist Party or PCB [Astrogildo PEREIRA]<br>Brazilian Democratic Movement or MDB [Luiz Felipe Baleia TENUTO Rossi]<br>Brazilian Labor Party or PTB<br>Brazilian Renewal Labor Party or PRTB [Aiceia RODRIGUES and Brazilian Vice President Hamilton MOURAO]<br>Brazilian Republican Party or PRB [Marcos Antonio PEREIRA]<br>Brazilian Social Democracy Party or PSDB [Bruno ARAUJO]<br>Brazilian Socialist Party or PSB [Carlos Roberto SIQUEIRA de Barros]<br>Christian Democracy or DC [Jose Maria EYMAEL] (formerly Christian Social <br>Cidadania [Roberto Joao Pereira FREIRE] (formerly Popular Socialist Party or PPS)<br>Democratic Party or PSDC)<br>Christian Labor Party or PTC [Daniel TOURINHO]<br>Communist Party of Brazil or PCdoB [Luciana SANTOS]<br>Democratic Labor Party or PDT [Carlos LUPI]<br>The Democrats or DEM [Jose AGRIPINO] (formerly Liberal Front Party or PFL)<br>Green Party or PV [Jose Luiz PENNA]<br>Liberal Party or PL [Luciano BIVAR and Antonio de RUEDA] (formerly Party of the Republic or PR)<br>National Mobilization Party or PMN [Antonio Carlos Bosco MASSAROLLO]<br>New Party or NOVO [Eduardo RIBEIRO]<br>Patriota [Adilson BAROSSO Oliveira] (formerly National Ecologic Party or PEN)<br>Podemos [Renata ABREU] (formerly National Labor Party or PTN) <br>Progressive Party or PP [Ciro NOGUEIRA]<br>Republican Social Order Party or PROS [Euripedes JUNIOR]<br>Social Christian Party or PSC [Everaldo Dias PEREIRA]<br>Social Democratic Party or PSD [Alfredo COATIT Neto]<br>Social Liberal Party or PSL [Luciano Caldas BIVAR]<br>Socialism and Freedom Party or PSOL [Juliano MEDEIROS]<br>Solidarity or SD [Paulinho DA FORCA]<br>Sustainability Network or REDE [Marina SILVA]<br>United Socialist Workers' Party or PSTU [Jose Maria DE ALMEIDA]<br>Workers' Cause Party or PCO [Rui Costa PIMENTA]<br>Workers' Party or PT [Gleisi HOFFMANN]<br>
 
 **International organization participation**<br>
 AfDB (nonregional member), BIS, BRICS, CAN (associate), CD, CELAC, CPLP, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), NSG, OAS, OECD (enhanced engagement), OPANAL, OPCW, Paris Club (associate), PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNISFA, UNIFIL, Union Latina, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -646,7 +646,7 @@ _total subscriptions_: 205,834,781 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 97 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Brazil is one of the largest mobile and broadband markets in Latin America with healthy competition and pricing; 5G launched on limited basis; countrywide network spectrum auction held in November 2021; large fixed-line broadband market with focus on fiber; landing point for submarine cables and investment into terrestrial fiber cables to neighboring countries; Internet penetration has increased, access varies along geographic and socio-economic lines; government provides free WiFi in urban public spaces; pioneer in the region for M-commerce; major importer of integrated circuits from South Korea and China, and broadcasting equipment from China <br> <p> </p> (2021)<br>
+_general assessment_: Brazil is one of the largest mobile and broadband markets in Latin America with healthy competition and pricing; national 5G rollout planned for 2022; countrywide network spectrum auction held in November 2021; large fixed-line broadband market with focus on fiber; landing point for submarine cables and investment into terrestrial fiber cables to neighboring countries; Internet penetration has increased, access varies along geographic and socio-economic lines; government provides free WiFi in urban public spaces; pioneer in the region for M-commerce; major importer of integrated circuits from South Korea and China, and broadcasting equipment from China <br> <p> </p> (2021)<br>
 _domestic_: fixed-line connections stand at roughly 14 per 100 persons; less-expensive mobile-cellular technology has been a major impetus broadening telephone service to the lower-income segments of the population with mobile-cellular teledensity roughly 97 per 100 persons (2020)<br>
 _international_: country code - 55; landing points for a number of submarine cables, including Malbec, ARBR, Tamnat, SAC, SAm-1, Atlantis -2, Seabras-1, Monet, EllaLink, BRUSA, GlobeNet, AMX-1, Brazilian Festoon, Bicentenario, Unisur, Junior, Americas -II,&nbsp;SAE x1, SAIL, SACS&nbsp;and&nbsp;SABR that provide direct connectivity to South and Central America, the Caribbean, the US, Africa, and Europe;&nbsp;satellite earth stations - 3 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic Ocean region east), connected by microwave relay system to Mercosur Brazilsat B3 satellite earth station; satellites&nbsp;is a&nbsp;major communication platform, as it is almost impossible to lay fiber optic cable in the thick vegetation (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -733,16 +733,16 @@ Brazilian Armed Forces: Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy
 
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
-1.3% of GDP (2020 est.)<br>
+1.4% of GDP (2020)<br>
 1.4% of GDP (2019) (approximately $35.6 billion)<br>
 1.5% of GDP (2018) (approximately $36 billion)<br>
 1.4% of GDP (2017) (approximately $34.4 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the Brazilian Armed Forces have approximately 360,000 active personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2021)<br>
+approximately 360,000 active personnel (220,000 Army; 70,000 Navy; 70,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Brazilian military's inventory consists of a mix of domestically-produced and imported weapons, largely from Europe and the US; since 2010, the US and several European countries are the leading suppliers of military equipment to Brazil; Brazil's defense industry is capable of designing and manufacturing equipment for all three military services and for export; it also jointly produces equipment with other countries (2021)<br>
+the Brazilian military's inventory consists of a mix of domestically-produced and imported weapons, largely from Europe and the US; since 2010, the US and several European countries are the leading suppliers of military equipment to Brazil; Brazil's defense industry is capable of designing and manufacturing equipment for all three military services and for export; it also jointly produces equipment with other countries (2022)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for compulsory military service for men (women exempted); only 5-10% of those inducted are required to serve; conscript service obligation is 10-12 months; 17-45 years of age for voluntary service (2022)<br>
@@ -764,5 +764,5 @@ _refugees (country of origin)_: 261,441 (Venezuela) (economic and political cris
 _stateless persons_: 14 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
-<p>a significant transit and destination country for cocaine;  most of the cocaine that entering Brazil is destined for domestic use or transits to Europe via West Africa;  substantial and growing domestic drug consumption problem;  second-largest consumer of cocaine hydrochloride and cocaine-derivative products</p><br>
+<p>a significant transit and destination country for cocaine; most of the cocaine enters Brazil from neighboring producing countries Bolivia, Colombia, and Peru then goes to West Africa and Europe, but an increasing percentage feeds substantial domestic drug consumption; second-largest consumer of cocaine hydrochloride and cocaine-derivative products in the world</p><br>
 

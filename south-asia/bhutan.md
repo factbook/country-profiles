@@ -165,7 +165,7 @@ _unimproved: total_: total: 0.2% of population (2020 est.)<br>
 3.6% (2019)<br>
 
 **Physicians density**<br>
-0.42 physicians/1,000 population (2018)<br>
+0.5 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1.7 beds/1,000 population (2012)<br>
@@ -621,13 +621,13 @@ Royal Bhutan Army (includes Royal Bodyguard and an air wing); National Militia; 
 note - the Royal Bhutan Police (RBP) agency is responsible for internal security; the Army is responsible for external threats but also has responsibility for some internal security functions, including conducting counterinsurgency operations, guarding forests, and providing security for prominent persons<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Bhutan Army has an estimated 8,000 personnel (2021)<br>
+the Royal Bhutan Army has an estimated 8,000 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-India has provided most of the Royal Bhutan Army's equipment (2021)<br>
+India has provided most of the Royal Bhutan Army's equipment (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; no conscription; militia training is compulsory for males aged 20-25, over a 3-year period; in 2021, the Royal Bhutan Army graduated from a year-long training course the first batch of 150 women to be allowed to serve in combat roles; previously, women were allowed to serve in medical and other non-combat roles (2021)<br>
+18 years of age for voluntary military service; no conscription; militia training is compulsory for males aged 20-25, over a 3-year period; in 2021, the Royal Bhutan Army graduated from a year-long training course the first batch of 150 women to be allowed to serve in combat roles; previously, women were allowed to serve in medical and other non-combat roles (2022)<br>
 
 **Military - note**<br>
 India is responsible for military training, arms supplies, and the air defense of Bhutan (2022)<br>

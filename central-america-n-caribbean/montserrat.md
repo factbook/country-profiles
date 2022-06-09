@@ -478,7 +478,7 @@ _total subscriptions_: 3,000 (2018 est.)<br>
 _subscriptions per 100 inhabitants_: 60 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,000 (2018)<br>
+_total subscriptions_: 5,000 (2018 est.)<br>
 _subscriptions per 100 inhabitants_: 100.7 (2019 est.)<br>
 
 **Telecommunication systems**<br>

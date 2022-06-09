@@ -184,7 +184,7 @@ _unimproved: total_: total: 12.4% of population (2020 est.)<br>
 3.8% (2019)<br>
 
 **Physicians density**<br>
-2.86 physicians/1,000 population (2016)<br>
+3.85 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
 8 beds/1,000 population (2017)<br>
@@ -616,8 +616,8 @@ _total subscriptions_: 160,153 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 5 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,363,919 (2020)<br>
-_subscriptions per 100 inhabitants_: 133.1 (2020 est.)<br>
+_total subscriptions_: 4,363,919 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: liberalized and competitive telecom market; steady growth in mobile broadband, but fixed-line broadband is still an economical option; installation of a fiber-optic network improved broadband and communication services between major urban centers; compared to other Asian countries, Mongolia's growth in telecom is moderate; mobile broadband rate is growing through competition among operators with reasonable tariffs; launch of 4G LTE services by all major operators; South Korean investment in landline and cellular services; partner in China&rsquo;s economic corridor project; import of broadcasting equipment from China (2020)<br>

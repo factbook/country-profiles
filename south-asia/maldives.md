@@ -177,7 +177,7 @@ _unimproved: total_: total: 0.4% of population (2020 est.)<br>
 8% (2019)<br>
 
 **Physicians density**<br>
-4.56 physicians/1,000 population (2018)<br>
+2.05 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 4.3 beds/1,000 population<br>
@@ -580,8 +580,8 @@ _total subscriptions_: 14,508 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 717,708 (2020)<br>
-_subscriptions per 100 inhabitants_: 132.8 (2020 est.)<br>
+_total subscriptions_: 717,708 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: upgrades to telecom infrastructure extended to outer islands; two mobile operators extend LTE coverage; tourism has strengthened the telecom market with investment and accounts for the high mobile penetration rate; launched 5G tests (2020)<br>
@@ -630,7 +630,7 @@ _914 to 1,523 m_: 2 (2021)<br>
 
 **Roadways**<br>
 _total_: 93 km (2018)<br>
-_paved_: 93 km (2018) - 60 km in Male; 16 km on Addu Atolis; 17 km on Laamu<br>
+_paved_: 93 km (2018) - 60 km in Malée; 16 km on Addu Atolis; 17 km on Laamu<br>
 <strong>note:</strong> island roads are mainly compacted coral<br>
 
 **Merchant marine**<br>
@@ -649,13 +649,13 @@ the Republic of Maldives has no distinct army, navy, or air force but a single s
 not available<br>
 
 **Military and security service personnel strengths**<br>
-the Maldives National Defense Force (MNDF) has approximately 2,500 personnel (2021)<br>
+approximately 2,500 personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-India has provided most of the equipment in the MNDF's inventory (2021)<br>
+India has provided most of the equipment in the MNDF's inventory (2022)<br>
 
 **Military service age and obligation**<br>
-18-28 years of age for voluntary service; no conscription; 10th grade or equivalent education required; must not be a member of a political party (2021)<br>
+18-28 years of age for voluntary service; no conscription; 10th grade or equivalent education required; must not be a member of a political party (2022)<br>
 
 **Military - note**<br>
 the MNDF is primarily tasked to reinforce the Maldives Police Service (MPS) and ensure security in the country's exclusive economic zone (2022)<br>

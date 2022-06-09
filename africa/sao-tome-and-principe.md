@@ -178,7 +178,7 @@ _unimproved: total_: total: 1.5% of population (2020 est.)<br>
 5.5% (2019)<br>
 
 **Physicians density**<br>
-0.05 physicians/1,000 population (2017)<br>
+0.49 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 2.9 beds/1,000 population (2011)<br>
@@ -598,8 +598,8 @@ _total subscriptions_: 2,790 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 165,761 (2019)<br>
-_subscriptions per 100 inhabitants_: 77.08 (2019)<br>
+_total subscriptions_: 174,203 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 79 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: local telephone network of adequate quality with most lines connected to digital switches; mobile cellular superior choice to landland; dial-up quality low; broadband expensive (2018)<br>

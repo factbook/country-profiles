@@ -181,7 +181,7 @@ _unimproved: total_: total: 7.9% of population (2020 est.)<br>
 6.4% (2019)<br>
 
 **Physicians density**<br>
-3.21 physicians/1,000 population (2017)<br>
+3.1 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 5.7 beds/1,000 population (2014)<br>
@@ -609,8 +609,8 @@ _total subscriptions_: 1,027,689 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 25 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,420,383 (2020)<br>
-_subscriptions per 100 inhabitants_: 84.79 (2020 est.)<br>
+_total subscriptions_: 3,420,383 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 85 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high unemployment and economic pressures have reduced consumer spending in telecom market; endeavors to join the EU have promoted regulatory issues in line with EU standards; mobile market extended outside of cities and across most of the country; LTE services available; market is competitive, fiber accounts for 62% of all fixed broadband connections and most telecom revenue is from the mobile market; importer of broadcasting equipment from China (2020)<br>
@@ -709,7 +709,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p>Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 479,513 (Ukraine) (as of 29 May 2022)<br>
+_refugees (country of origin)_: 483,306 (border crossings from Ukraine as of 1 June 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

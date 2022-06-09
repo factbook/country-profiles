@@ -186,7 +186,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 6.5% (2019)<br>
 
 **Physicians density**<br>
-2.38 physicians/1,000 population (2017)<br>
+3.77 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 6.5 beds/1,000 population (2018)<br>
@@ -626,8 +626,8 @@ _total subscriptions_: 5,777,428 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 15 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 48,392,900 (2019)<br>
-_subscriptions per 100 inhabitants_: 127.73 (2019 est.)<br>
+_total subscriptions_: 49,350,724 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: liberalized telecom market supported by market competition in broadband and mobile sectors ensuring access to cable and fiber infrastructure; rapid extension of LTE networks and development of mobile data service; mobile penetration is above European average; fixed broadband benefits from DSL infrastructure and investment in fiber through EU support; major importer of broadcasting equipment and accessories from Germany (2020)<br>
@@ -750,7 +750,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 3,627,178 (as of 29 May 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 3,690,089 (border crossings from Ukraine as of 1 June 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

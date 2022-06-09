@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 10.7% (2019)<br>
 
 **Physicians density**<br>
-3.07 physicians/1,000 population (2017)<br>
+6.08 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 5.6 beds/1,000 population (2019)<br>
@@ -716,7 +716,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 45,227 (Ukraine) (as of 30 May 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

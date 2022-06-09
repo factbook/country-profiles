@@ -668,16 +668,16 @@ note(s) - the Royal Guard is officially under the command of the Army, but exerc
 4.2% of GDP (2017 est.) (approximately $2.18 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 3,000 National Guard (2021)<br>
+information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 3,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Bahrain Defense force consists of a mix of equipment acquired from a wide variety of suppliers; since 2010, the US is the leading supplier of arms to Bahrain (2021)<br>
+the inventory of the Bahrain Defense force consists of a mix of equipment acquired from a wide variety of suppliers; since 2010, the US is the leading supplier of arms to Bahrain (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; 15 years of age for NCOs, technicians, and cadets; no conscription (2021)<br>
+18 years of age for voluntary military service; 15 years of age for NCOs, technicians, and cadets; no conscription (2022)<br>
 
 **Military - note**<br>
-<p>as of 2022, Bahrain hosted the US Naval Forces Central Command (USNAVCENT; established 1983), which included the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2018, the UK opened a naval support base in Bahrain<br><br>in addition to the US and UK, Bahrain maintains close security ties to Saudi Arabia and the United Arab Emirates; both Saudi Arabia and the UAE sent forces to Bahrain to assist with internal security following the 2011 uprising; in 2015, Bahrain joined the Saudi Arabia-led military action to try to restore the Government of Yemen that was ousted by Iranian-backed Houthi rebels, supplying a few hundred troops and combat aircraft<br><br>Bahrain has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+Bahrain hosts the US Naval Forces Central Command (USNAVCENT; established 1983), which includes the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2018, the UK opened a naval support base in Bahrain<br><br>in addition to the US and UK, Bahrain maintains close security ties to Saudi Arabia and the United Arab Emirates; both Saudi Arabia and the UAE sent forces to Bahrain to assist with internal security following the 2011 uprising; in 2015, Bahrain joined the Saudi Arabia-led military action to try to restore the Government of Yemen that was ousted by Iranian-backed Houthi rebels, supplying a few hundred troops and combat aircraft<br><br>Bahrain has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
 
 ## Terrorism
 

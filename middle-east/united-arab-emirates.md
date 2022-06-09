@@ -178,7 +178,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 4.3% (2019)<br>
 
 **Physicians density**<br>
-2.53 physicians/1,000 population (2018)<br>
+2.6 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
 1.4 beds/1,000 population (2017)<br>
@@ -201,7 +201,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 100 (2020) <100<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 30 March 2022, UAE has reported a total of 890,699 cases of COVID-19 or 9,005.69 cumulative cases of COVID-19 per 100,000 population with a total of 2,302 cumulative deaths or a rate of 23.27 cumulative deaths per 100,000 population; as of 29 March 2022, 98.99% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 June 2022, UAE has reported a total of 910,935 cases of COVID-19 or 9,210.29 cumulative cases of COVID-19 per 100,000 population with a total of 2,305 cumulative deaths or a rate of 23.3 cumulative deaths per 100,000 population; as of 1 June 2022, 98.99% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 31.7% (2016)<br>
@@ -264,7 +264,7 @@ _forest revenues_: 0% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 30 March 2022, UAE has reported a total of 890,699 cases of COVID-19 or 9,005.69 cumulative cases of COVID-19 per 100,000 population with a total of 2,302 cumulative deaths or a rate of 23.27 cumulative deaths per 100,000 population; as of 29 March 2022, 98.99% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 June 2022, UAE has reported a total of 910,935 cases of COVID-19 or 9,210.29 cumulative cases of COVID-19 per 100,000 population with a total of 2,305 cumulative deaths or a rate of 23.3 cumulative deaths per 100,000 population; as of 1 June 2022, 98.99% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,413,453 tons (2015 est.)<br>
@@ -678,8 +678,8 @@ _LNG terminal(s) (export)_: Das Island<br>
 ## Military and Security
 
 **Military and security forces**<br>
-United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presidential Guard; Ministry of Interior: Critical Infrastructure Coastal Patrol Agency (CICPA) (2021)<br>
-note - the Presidential Guard includes a Special Operations Command<br>
+United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presidential Guard (includes special operations forces); Ministry of Interior: Critical Infrastructure and Coastal Patrol Agency (CICPA) (2022)<br><br>note - each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate’s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry<br>
+note - each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate&rsquo;s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry<br>
 
 **Military expenditures**<br>
 5.6% of GDP (2020 est.)<br>
@@ -689,20 +689,20 @@ note - the Presidential Guard includes a Special Operations Command<br>
 6% of GDP (2016 est.) (approximately $30 billion)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 65,000 total active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2021)<br>
+approximately 65,000 total active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UAE Armed Forces inventory is comprised of wide variety of mostly modern imported equipment; since 2010, the UAE has acquired military equipment from more than 20 countries with France, Russia, and the US as the leading suppliers; in recent years, the UAE has tried to boost its domestic defense industry (2021)<br>
+the UAE Armed Forces inventory is comprised of wide variety of mostly modern imported equipment; since 2010, the UAE has acquired military equipment from more than 20 countries with France, Russia, and the US as the leading suppliers; in recent years, the UAE has tried to boost its domestic defense industry (2022)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for compulsory military service for men (compulsory service initiated in 2014); 17 years of age for male volunteers with parental approval; males can volunteer up to age 40; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education (2021)<br>
+18-30 years of age for compulsory military service for men (compulsory service initiated in 2014); 17 years of age for male volunteers with parental approval; males can volunteer up to age 40; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education (2022)<br>
 note - compulsory service may be completed in the uniformed military, the Ministry of Interior, the State Security Service, or other institutions designated by the military leadership<br>
 
 **Military deployments**<br>
 estimates vary; reportedly a few hundred remain in Yemen; maintains military bases in Eritrea and Somalia (2022)<br>
 
 **Military - note**<br>
-<p>as of 2021, the UAE was closely aligned with Saudi Arabia and Bahrain on regional security issues; it hosted a multi-service French military base, which included the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and, as of 2021, hosted about 3,500 US troops, mostly air and naval personnel</p> <p>in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary units<br><br>the UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976</p><br>
+the UAE hosts a multi-service French military base, which includes the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and hosted about 3,500 US troops, mostly air and naval personnel<br><br>in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with an estimated 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC)<br><br>the UAE's military traces its origins to the establishment of the Trucial Oman Scouts in 1951, a joint UK-Abu Dhabi organization modeled after Jordan’s Arab Legion, which became the Abu Dhabi Defense Force in 1965; the modern Emirati armed forces were formed in 1976 (2022)<br>
 
 ## Transnational Issues
 

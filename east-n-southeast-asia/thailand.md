@@ -190,7 +190,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 3.8% (2019)<br>
 
 **Physicians density**<br>
-0.81 physicians/1,000 population (2018)<br>
+0.95 physicians/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
@@ -714,7 +714,7 @@ _LNG terminal(s) (import)_: Map Ta Phut<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF); Office of the Prime Minister: Royal Thai Police; Internal Security Operations Command (ISOC; oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties; primarily run by the Army) (2021)<br>
+Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF); Office of the Prime Minister: Royal Thai Police; Internal Security Operations Command (ISOC; oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties; primarily run by the Army) (2022)<br>
 note(s) - official paramilitary forces in Thailand include the Thai Rangers (<em>Thahan Phran</em> or "Hunter Soldiers") under the Army; the Paramilitary Marines under the Navy; the Border Patrol Police (BPP) under the Royal Thai Police; the Volunteer Defense Corps (VDC or <em>O So</em>) and National Defense Volunteers (NDV), both under the Ministry of Interior; there are also several government-backed volunteer militias created to provide village security against insurgents in the deep south or to assist the ISOC<br>
 
 **Military expenditures**<br>

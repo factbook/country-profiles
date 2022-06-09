@@ -189,7 +189,7 @@ _unimproved: total_: total: 7.6% of population (2020 est.)<br>
 3.4% (2019)<br>
 
 **Physicians density**<br>
-0.14 physicians/1,000 population (2017)<br>
+0.17 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 0.9 beds/1,000 population (2011)<br>
@@ -681,11 +681,11 @@ _total_: 3<br>
 _914 to 1,523 m_: 3 (2021)<br>
 
 **Pipelines**<br>
-681.3 km gas, 11.4 km oil, 435 km refined products (2013)<br>
+681.3 km gas, 11.4 km oil, 435 km refined products (2022)<br>
 
 **Railways**<br>
-_total_: 1,300 km (2014)<br>
-_narrow gauge_: 947 km (2014) 1.067-m gauge<br>
+_total_: 947 km (2022)<br>
+_narrow gauge_: 947 km (2022) 1.067-m gauge<br>
 
 **Roadways**<br>
 _total_: 94,203 km (2021)<br>

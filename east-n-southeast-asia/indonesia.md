@@ -187,7 +187,7 @@ _unimproved: total_: total: 6.7% of population (2020 est.)<br>
 2.9% (2019)<br>
 
 **Physicians density**<br>
-0.43 physicians/1,000 population (2018)<br>
+0.62 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 1 beds/1,000 population (2017)<br>
@@ -213,7 +213,7 @@ _unimproved: total_: total: 7.5% of population (2020 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 30 March 2022, Indonesia has reported a total of 6,005,646 cases of COVID-19 or 2,195.66 cumulative cases of COVID-19 per 100,000 population with a total of 154,882 cumulative deaths or a rate 56.62 cumulative deaths per 100,000 population; as of 29 March 2022, 71.01% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 6 June 2022, Indonesia has reported a total of 6,057,142 cases of COVID-19 or 2,214.5 cumulative cases of COVID-19 per 100,000 population with a total of 156,622 cumulative deaths or a rate 57.26 cumulative deaths per 100,000 population; as of 3 June 2022, 72.5% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.9% (2016)<br>
@@ -286,7 +286,7 @@ _coal revenues_: 1.06% of GDP (2018 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 30 March 2022, Indonesia has reported a total of 6,005,646 cases of COVID-19 or 2,195.66 cumulative cases of COVID-19 per 100,000 population with a total of 154,882 cumulative deaths or a rate 56.62 cumulative deaths per 100,000 population; as of 29 March 2022, 71.01% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 6 June 2022, Indonesia has reported a total of 6,057,142 cases of COVID-19 or 2,214.5 cumulative cases of COVID-19 per 100,000 population with a total of 156,622 cumulative deaths or a rate 57.26 cumulative deaths per 100,000 population; as of 3 June 2022, 72.5% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 65.2 million tons (2016 est.)<br>

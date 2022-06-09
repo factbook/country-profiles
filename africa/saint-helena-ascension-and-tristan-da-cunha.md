@@ -459,8 +459,8 @@ _total subscriptions_: 3,000 (2018 est.)<br>
 _subscriptions per 100 inhabitants_: 49.93 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,000 (2018)<br>
-_subscriptions per 100 inhabitants_: 66.58 (2019)<br>
+_total subscriptions_: 4,000 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 67 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: capability to&nbsp;communicate worldwide; ADSL- broadband service; LTE coverage of 95% of population, includes voice calls, text messages, mobile data as well as inbound and outbound roaming; Wi-Fi hotspots in Jamestown, 1 ISP, many services are not offered locally but made available for visitors; some sun outages due to the reliance of international telephone and Internet communication relying on single satellite link (2020)<br>

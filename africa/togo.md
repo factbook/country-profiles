@@ -184,7 +184,7 @@ _unimproved: total_: total: 25.4% of population (2020 est.)<br>
 5.7% (2019)<br>
 
 **Physicians density**<br>
-0.08 physicians/1,000 population (2018)<br>
+0.08 physicians/1,000 population (2020)<br>
 
 **Hospital bed density**<br>
 0.7 beds/1,000 population (2011)<br>
@@ -677,7 +677,7 @@ _total_: 568 km (2014)<br>
 _narrow gauge_: 568 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 11,734 km (2081)<br>
+_total_: 11,734 km (2018)<br>
 _paved_: 1,794 km (2018)<br>
 _unpaved_: 8,157 km (2018)<br>
 _urban_: 1,783 km (2018)<br>
@@ -695,8 +695,8 @@ _major seaport(s)_: Kpeme, Lome<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l’Air), National Gendarmerie (2021)<br>
-note - the Gendarmerie falls under the Ministry of Defense but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security<br>
+Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l’Air), National Gendarmerie (2022)<br>
+note - the Gendarmerie falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
@@ -718,7 +718,7 @@ the FAT's small inventory is a mix of older equipment from a variety of countrie
 730 (plus about 300 police) Mali (MINUSMA) (Feb 2022)<br>
 
 **Military - note**<br>
-<p>the first Togolese Army unit was created in 1963, while the Air Force was established in 1964; the Navy was not established until 1976; since its creation, the Togolese military has a history of interfering in the country’s politics with assassinations, coups, influence, and a large military crackdown in 2005 that killed hundreds; over the past decade, it has made some efforts to reform and professionalize; over the same period, the military has increased its role in UN peacekeeping activities and as of 2021, more than 10% of the Army was deployed on peacekeeping missions; Togolese police have also been deployed on peacekeeping operations, and Togo maintains a regional peacekeeping training center for military and police in Lome; the Navy and Air Force have increasingly focused on combating piracy and smuggling in the Gulf of Guinea</p><br>
+the first Togolese Army unit was created in 1963, while the Air Force was established in 1964; the Navy was not established until 1976; since its creation, the Togolese military has a history of interfering in the country&rsquo;s politics with assassinations, coups, influence, and a large military crackdown in 2005 that killed hundreds; over the past decade, it has made some efforts to reform and professionalize, as well as increase its role in UN peacekeeping activities; Togolese police have also been deployed on peacekeeping operations, and Togo maintains a regional peacekeeping training center for military and police in Lome; the Navy and Air Force have increasingly focused on combating piracy and smuggling in the Gulf of Guinea (2022)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2021, there were 34 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a significant decrease from the total number of 81 incidents in 2020, it included the one hijacking and three of five ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2021, 57 crew members were kidnapped in seven separate incidents in the Gulf of Guinea, representing 100% of kidnappings worldwide; Nigerian pirates in particular are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2022-001 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 4 January 2022, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea"<br>
