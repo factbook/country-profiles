@@ -202,6 +202,11 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 32% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 38.2% (2020 est.)<br>
+_male_: 47.5% (2020 est.)<br>
+_female_: 28.9% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -355,7 +360,7 @@ _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized tr
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ambassador Gabriel ISSA (since late January 2018)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Wael HACHEM, Counselor (since 15 March 2021)<br>
 _chancery_: 2560 28th Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-6300<br>
 _FAX_: [1] (202) 939-6324<br>

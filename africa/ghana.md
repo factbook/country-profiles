@@ -223,6 +223,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 10.9% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 3.5% (2020 est.)<br>
+_male_: 6.6% (2020 est.)<br>
+_female_: 0.3% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 12.6% (2017/18)<br>
 
@@ -637,9 +642,9 @@ _total subscriptions_: 40,461,609 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity&nbsp; (2020)<br>
-_domestic_: fixed-line data about 1 per 100 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a voice subscribership of more than 130 per 100 persons (2020)<br>
-_international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; GhanaSat-1 nanosatellite launched in 2017 (2019)<br>
+_general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity (2022)<br>
+_domestic_: fixed-line data about 1 per 200 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a voice subscribership of more than 130 per 100 persons (2022)<br>
+_international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; GhanaSat-1 nanosatellite launched in 2017 (2017)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>

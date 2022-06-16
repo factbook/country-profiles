@@ -202,6 +202,11 @@ _vectorborne diseases_: malaria<br>
 **Obesity - adult prevalence rate**<br>
 52.9% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 28.5% (2020 est.)<br>
+_male_: 48.7% (2020 est.)<br>
+_female_: 8.3% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 11.9% (2017)<br>
 

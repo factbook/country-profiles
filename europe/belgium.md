@@ -206,6 +206,11 @@ NA<br>
 **Obesity - adult prevalence rate**<br>
 22.1% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 23.4% (2020 est.)<br>
+_male_: 25.8% (2020 est.)<br>
+_female_: 21% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 1% (2014/15)<br>
 
@@ -716,7 +721,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 45,227 (Ukraine) (as of 30 May 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 45,882 (Ukraine) (as of 6 June 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

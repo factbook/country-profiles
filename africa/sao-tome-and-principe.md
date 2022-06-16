@@ -209,6 +209,11 @@ _water contact diseases_: schistosomiasis<br>
 **Obesity - adult prevalence rate**<br>
 12.4% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 5.7% (2020 est.)<br>
+_male_: 10.1% (2020 est.)<br>
+_female_: 1.3% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 5.4% (2019)<br>
 

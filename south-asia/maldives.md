@@ -202,6 +202,11 @@ NA<br>
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 25.2% (2020 est.)<br>
+_male_: 44.4% (2020 est.)<br>
+_female_: 6% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 14.8% (2016/17)<br>
 
@@ -345,7 +350,7 @@ _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Co
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: <p>Maldives has no embassy in the US, but its Permanent Representative to the UN in New York, THILMEEZA Hussain (since 8 July 2019), is accredited to the US and serves as ambassador</p> (2020)<br>
+_chief of mission_: <p>Maldives has no embassy in the US, but its Permanent Representative to the UN in New York, Thilmeeza HUSSAIN  (since 8 July 2019), is accredited to the US and serves as ambassador</p> (2020)<br>
 _chancery_: 801 Second Avenue, Suite 202E, New York, NY 10017<br>
 _telephone_: [1] (212) 599-6194; [1] (212) 599-6195<br>
 _FAX_: [1] (212) 661-6405<br>

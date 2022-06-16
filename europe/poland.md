@@ -215,6 +215,11 @@ _vectorborne diseases_: tickborne encephalitis (2016)<br>
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 24% (2020 est.)<br>
+_male_: 27.9% (2020 est.)<br>
+_female_: 20.1% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 0.7% (2010/12)<br>
 
@@ -371,7 +376,7 @@ Civic Coalition or KO [Donald TUSK]<br>Confederation Liberty and Independence or
 Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Piotr Mark MAGIEROWSKI (since 23 November 2021)<br>
+_chief of mission_: Ambassador Marek Grzegorz  MAGIEROWSKI (since 13 January 2022)<br>
 _chancery_: 2640 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 499-1700<br>
 _FAX_: [1] (202) 328-2152<br>
@@ -750,7 +755,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 3,690,089 (border crossings from Ukraine as of 1 June 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 3,954,957 (border crossings from Ukraine as of 13 June 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

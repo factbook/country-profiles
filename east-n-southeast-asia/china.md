@@ -224,6 +224,11 @@ _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)
 **Obesity - adult prevalence rate**<br>
 6.2% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 25.6% (2020 est.)<br>
+_male_: 49.4% (2020 est.)<br>
+_female_: 1.7% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 2.4% (2013)<br>
 
@@ -387,7 +392,7 @@ Chinese Communist Party or CCP [XI Jinping]<br>
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), BIS, BRICS, CDB, CICA, EAS, FAO, FATF, G-20, G-24 (observer), G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAIA (observer), MIGA, MINURSO, MINUSMA, MONUSCO, NAM (observer), NSG, OAS (observer), OPCW, Pacific Alliance (observer), PCA, PIF (partner), SAARC (observer), SCO, SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UN Security Council (permanent), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador QIN Gangas (since 29 July 2021)<br>
+_chief of mission_: Ambassador QIN Gang (since 29 July 2021)<br>
 _chancery_: 3505 International Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 495-2266<br>
 _FAX_: [1] (202) 495-2138<br>

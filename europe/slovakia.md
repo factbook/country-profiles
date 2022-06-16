@@ -207,6 +207,11 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 20.5% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 31.5% (2020 est.)<br>
+_male_: 37.4% (2020 est.)<br>
+_female_: 25.6% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -705,7 +710,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p>bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 466,264 (border crossings from Ukraine as of 31 May 2022)<br>
+_refugees (country of origin)_: 501,335 (border crossings from Ukraine as of 13 June 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

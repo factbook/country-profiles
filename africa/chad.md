@@ -219,6 +219,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 6.1% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 8.3% (2020 est.)<br>
+_male_: 13.8% (2020 est.)<br>
+_female_: 2.7% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 29.2% (2019)<br>
 
@@ -361,11 +366,12 @@ _residency requirement for naturalization_: 15 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Interim President Mahamat Idriss DEBY; note - on 20 April 2021, newly reelected President Idriss DEBY Itno, Lt. Gen. died of injuries he sustained following clashes between government forces he was commanding and insurgents in the northern part of the country; following his death, Mahamat took control of the country and dismissed the Chadian parliament, promising elections within eighteen months<br>
-_head of government_: Interim President Mahamat Idriss DEBY; note - on 20 April 2021, President Idriss DEBY Itno, Lt. Gen. died of injuries he sustained following clashes between government forces he was commanding and insurgents in the northern part of the country; following his death, Mahamat took control of the country and dismissed the Chadian parliament, promising elections within eighteen months<br>
+_chief of state_: Interim President Mahamat Idriss DEBY (since 20 April 2021); note - on 20 April 2021, newly reelected President Idriss DEBY Itno, Lt. Gen. died of injuries he sustained following clashes between government forces he was commanding and insurgents in the northern part of the country; following his death, Mahamat Idriss DEBY took control of the country and dismissed the Chadian parliament, promising elections within eighteen months<br>
+_head of government_: Interim President Mahamat Idriss DEBY (since 20 April 2021); note - on 20 April 2021, President Idriss DEBY Itno, Lt. Gen. died of injuries he sustained following clashes between government forces he was commanding and insurgents in the northern part of the country; following his death, Mahamat Idriss DEBY took control of the country and dismissed the Chadian parliament, promising elections within eighteen months<br>
 _cabinet_: Council of Ministers<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 11 April 2021<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 11 April 2021; note - on 20 April 2021, military officials suspended the Constitution and formed a Transitional Military Council, pledging to hold democratic elections in October 2022<br>
 _election results_: Lt. Gen. Idriss DEBY Itno reelected; percent of vote - Lt. Gen. Idriss DEBY (MPS) 79.3%, Pahimi PADACKET Albert (RNDT) 10.3%, Lydie BEASSEMDA (Party for Democracy and Independence) 3.16%<br>
+<strong>note:</strong> on 26 April 2021 the Transitional Military Council named Albert Pahimi PADACKE Prime Minister<br>
 
 **Legislative branch**<br>
 _description_: formerly a unicameral National Assembly or <em>Assemblée Nationale </em>(188 seats; 163 directly elected in multi-seat constituencies by proportional representation vote and 25 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms); note - on 5 October 2021, Interim President Mahamat Idriss DEBY installed 93 members of an interim parliament, called the National Transitional Council (NTC); according to DEBY, the NTC will act as a national assembly of transition until the country’s next elections take place<br>
@@ -730,7 +736,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 388,550 (Sudan), 122,421 (Central African Republic), 42,549 (Cameroon), 19,724 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 388,550 (Sudan), 122,958 (Central African Republic), 42,549 (Cameroon), 19,886 (Nigeria) (2022)<br>
 _IDPs_: 406,573 (majority are in the east) (2022)<br>
 
 **Trafficking in persons**<br>

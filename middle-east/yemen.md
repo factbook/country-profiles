@@ -212,6 +212,11 @@ _water contact diseases_: schistosomiasis<br>
 **Obesity - adult prevalence rate**<br>
 17.1% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 20.3% (2020 est.)<br>
+_male_: 32.5% (2020 est.)<br>
+_female_: 8.1% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 39.9% (2013)<br>
 
@@ -364,14 +369,14 @@ General People’s Congress or GPC (3 factions: pro-Hadi [Abdrabbi Mansur HADI],
 AFESD, AMF, CAEU, CD, EITI (temporarily suspended), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMHA, UNMIL, UNMIS, UNOCI, UNVIM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: ambassador (vacant); note - on 18 December 2020, former Ambassador Ahmad Awadh BIN MUBARAK (since 3 August 2015) was appointed Yemen's Minister for Foreign Affairs and Expatriates<br>
+_chief of mission_: Ambassador (vacant); note - on 18 December 2020, former Ambassador Ahmad Awadh BIN MUBARAK (since 3 August 2015) was appointed Yemen's Minister for Foreign Affairs and Expatriates<br>
 _chancery_: 2319 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 965-4760<br>
 _FAX_: [1] (202) 337-2017<br>
 _email address and website_: <br>Information@yemenembassy.org<br><br>https://www.yemenembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: ambassador (vacant); Charg&eacute; d&rsquo;Affaires Cathy WESTLEY (since 23 May 2021); note - the embassy closed in March 2015; Yemen Affairs Unit currently operates out of US Embassy Riyadh<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Cathy WESTLEY (since 23 May 2021); note - the embassy closed in March 2015; Yemen Affairs Unit currently operates out of US Embassy Riyadh<br>
 _embassy_: previously - Sa'awan Street, Sanaa<br>
 _mailing address_: 6330 Sanaa Place, Washington DC&nbsp; 20521-6330<br>
 _telephone_: US Embassy Riyadh [966] 11-488-3800<br>previously - [967] 1 755-2000<br>
@@ -689,13 +694,13 @@ note &ndash; a considerable portion--up to 70 percent by some estimates--of Yeme
 information limited and widely varied; ROYG: up to 300,000 estimated military, paramilitary, and militia forces; UAE- and Saudi-backed forces: 150-200,000 estimated trained fighters; Huthis: up to 200,000 estimated fighters&nbsp; (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Yemeni Government forces consists primarily of Russian and Soviet-era equipment, although much of it has been lost in the current conflict; since the start of the civil war in 2014, it has received limited amounts of donated equipment from some Gulf States, including Saudi Arabia and UAE (2021)<br>
+the inventory of the Yemeni Government forces consists primarily of Russian and Soviet-era equipment, although much of it has been lost in the current conflict; since the start of the civil war in 2014, it has received limited amounts of donated equipment from some Gulf States, including Saudi Arabia and UAE <br><br>Huthi forces are armed with weapons seized from Yemeni Government forces; in addition, they have reportedly received arms from Iran (2021)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; conscription abolished in 2001; 2-year service obligation (note - limited information since the start of the civil war) (2021)<br>
 
 **Military - note**<br>
-<p>in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in support of the Republic of Yemen Government (ROYG) against the separatist Huthis; as of early 2022, the conflict had become largely stalemated, but the coalition (consisting largely of Saudi forces), ROYG forces, and the Huthis continued to engage in fighting, mostly with air and missile forces, although some ground fighting was also taking place over the key oil-rich province of Marib; the Saudis have conducted numerous air strikes in northern Yemen, while the Huthis have launched attacks into Saudi territory with ballistic missiles and unmanned aerial vehicles armed with explosives; Saudi Arabia also has raised and equipped paramilitary/militia security forces in Yemen based largely on tribal or regional affiliation to deploy along the Saudi-Yemen border, especially the areas bordering the governorates of Saada and Al-Jawf; in April 2022, the warring parties agreed to a two-month cease-fire</p> <p>the United Arab Emirates (UAE) intervened in Yemen in 2015 as part of the Saudi-led coalition with about 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary units</p><br>
+in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in support of the Republic of Yemen Government (ROYG) against the separatist Huthis; as of early 2022, the conflict had become largely stalemated, but the coalition (consisting largely of Saudi forces), ROYG forces, and the Huthis continued to engage in fighting, mostly with air and missile forces, although some ground fighting was also taking place over the key oil-rich province of Marib; the Saudis have conducted numerous air strikes in northern Yemen, while the Huthis have launched attacks into Saudi territory with ballistic missiles and unmanned aerial vehicles armed with explosives; Saudi Arabia also has raised and equipped paramilitary/militia security forces in Yemen based largely on tribal or regional affiliation to deploy along the Saudi-Yemen border, especially the areas bordering the governorates of Saada and Al-Jawf; in April 2022, the warring parties agreed to a two-month cease-fire <br><br>the United Arab Emirates (UAE) intervened in Yemen in 2015 as part of the Saudi-led coalition with about 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary units <br><br>Iran reportedly has backed the Huthi forces by providing military training, lethal support, and technical assistance; Iran has said it supports the Huthis politically, but denies sending the group weapons (2022)<br>
 
 **Maritime threats**<br>
 <p>the Maritime Administration of the US Department of Transportation has issued Maritime Advisory 2022-003 (Red Sea, Gulf of Aden, Arabian Sea, and Indian Ocean-Violence Due to Regional Conflict and Piracy) effective 28 February 2022, which states in part the "Conflict in Yemen continues to pose potential risk to US flagged commercial vessels transiting the southern Red Sea, Bab al Mandeb Strait, and Gulf of Aden. Threats may come from a variety of different sources including, but not limited to, missiles, rockets, projectiles, mines, small arms, unmanned aerial vehicles, unmanned surface vessels, or waterborne improvised explosive devices. These threat vectors continue to pose a direct or collateral risk to US flagged commercial vessels operating in the region. Additionally, piracy poses a threat in the Gulf of Aden, Western Arabian Sea, and Western Indian Ocean."</p><br>

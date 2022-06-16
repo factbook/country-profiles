@@ -221,6 +221,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 8.8% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 6.9% (2020 est.)<br>
+_male_: 13.1% (2020 est.)<br>
+_female_: 0.7% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 14.4% (2019)<br>
 
@@ -732,7 +737,7 @@ the FAS inventory includes mostly older or second-hand equipment from a variety 
 750 Gambia (ECOMIG); 970 Mali (MINUSMA); note - Senegal also has about 1,100 police deployed on various UN peacekeeping missions (2022)<br>
 
 **Military - note**<br>
-<p>as of 2022, Senegalese security forces continued to be engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance; while violent incidents have decreased since a tacit cease-fire was reached in 2012, the insurgency, which began in 1982, continues and remains one of longest running low-level conflicts in the world, claiming more than 5,000 lives and leaving another 60,000 displaced</p><br>
+Senegalese security forces continued to be engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance; while violent incidents have decreased since a tacit cease-fire was reached in 2012, the insurgency, which began in 1982, continues and remains one of longest running low-level conflicts in the world, claiming more than 5,000 lives and leaving another 60,000 displaced (2022)<br>
 
 ## Terrorism
 

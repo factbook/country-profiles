@@ -209,6 +209,11 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 **Obesity - adult prevalence rate**<br>
 4.7% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 20.8% (2020 est.)<br>
+_male_: 35.7% (2020 est.)<br>
+_female_: 5.9% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 

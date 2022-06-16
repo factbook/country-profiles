@@ -215,6 +215,11 @@ _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
 **Obesity - adult prevalence rate**<br>
 25.8% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 13.6% (2020 est.)<br>
+_male_: 24.1% (2020 est.)<br>
+_female_: 3.1% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 4.1% (2010/11)<br>
 

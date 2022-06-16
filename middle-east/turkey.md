@@ -216,6 +216,11 @@ _respiratory diseases_: Covid-19 (2020)<br>
 **Obesity - adult prevalence rate**<br>
 32.1% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 30.7% (2020 est.)<br>
+_male_: 42.1% (2020 est.)<br>
+_female_: 19.2% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 1.5% (2018/19)<br>
 
@@ -307,9 +312,10 @@ _agricultural_: 50.05 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Turkey<br>
 _conventional short form_: Turkey<br>
-_local long form_: Turkiye Cumhuriyeti<br>
-_local short form_: Turkiye<br>
+_local long form_: Turkey Cumhuriyeti<br>
+_local short form_: Turkey<br>
 _etymology_: the name means "Land of the Turks"<br>
+<strong>note:</strong> Turkiye is an approved English short-form name for Turkey<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -356,7 +362,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Recep Tayyip ERDOGAN reelected president in the first round; Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Grand National Assembly of Turkey or Turkiye Buyuk Millet Meclisi (600 seats - increased from 550 seats beginning with June 2018 election; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms - increased from 4 to 5 years beginning with June 2018 election)<br>
+_description_: unicameral Grand National Assembly of Turkey or Turkey Buyuk Millet Meclisi (600 seats - increased from 550 seats beginning with June 2018 election; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms - increased from 4 to 5 years beginning with June 2018 election)<br>
 _elections_: last held on 24 June 2018 (next to be held in June 2023)<br>
 _election results_: percent of vote by party - People's Alliance 53.7% (AKP 42.6%, MHP 11.1%), Nation Alliance 33.9% (CHP 22.6%, IYI 10%, SP 1.3%), HDP 11.7%, other 0.7%; seats by party - People's Alliance 344 (AKP 295, MHP 49), National Alliance 189 (CHP 146, IYI 43), HDP 67; composition - men 496, women 104, percent of women 17.3%; note - only parties surpassing a 10% threshold can win parliamentary seats<br>
 

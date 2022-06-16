@@ -209,6 +209,11 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 25% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 39% (2020 est.)<br>
+_male_: 40.9% (2020 est.)<br>
+_female_: 37.1% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 1.9% (2014)<br>
 
@@ -725,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 78,714 (Ukraine) (as of 1 June 2022)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 78,291 (Ukraine) (as of 7 June 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 74,107 estimated refugee and migrant arrivals (January 2015-March 2022); Bulgaria is predominantly a transit country<br>
 

@@ -220,6 +220,11 @@ _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 12.7% (2020 est.)<br>
+_male_: 20.5% (2020 est.)<br>
+_female_: 4.8% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 3.4% (2016)<br>
 
@@ -646,7 +651,7 @@ _international_: country code - 591; Bolivia has no direct access to submarine c
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-large number of radio and TV stations broadcasting with private media outlets dominating; state-owned and private radio and TV stations generally operating freely, although both pro-government and anti-government groups have attacked media outlets in response to their reporting<br>
+large number of radio and TV stations broadcasting with private media outlets dominating; state-owned and private radio and TV stations generally operating freely, although both pro-government and anti-government groups have attacked media outlets in response to their reporting (2019)<br>
 
 **Internet country code**<br>
 .bo<br>

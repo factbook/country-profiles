@@ -218,6 +218,11 @@ NA<br>
 **Obesity - adult prevalence rate**<br>
 29.4% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 13% (2020 est.)<br>
+_male_: 15.3% (2020 est.)<br>
+_female_: 10.7% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -350,7 +355,7 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)<br>House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)<br>
 _elections_: Senate - appointed; latest appointments in July 2021<br>House of Commons - last held on 20 September 2021 (next to be held on or before 20 October 2025)<br>
-_election results_: <br>Senate - composition as of March 2022 - men 47, women 45, percent of women 48.9% <br><br>House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition - men 235, women 103, percent of women 30.5%; note - total Parliament percent of women 34.4%<br>
+_election results_: <br>Senate - composition as of May 2022 - men 47, women 45, percent of women 48.9% <br><br>House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition as of May 2022 - men 235, women 103, percent of women 30.5%; note - total Parliament percent of women 34.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)<br>

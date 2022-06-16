@@ -221,6 +221,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 12.7% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 10.7% (2020 est.)<br>
+_male_: 19.3% (2020 est.)<br>
+_female_: 2.1% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 19.2% (2018)<br>
 

@@ -212,6 +212,11 @@ _vectorborne diseases_: dengue fever<br>
 **Obesity - adult prevalence rate**<br>
 22.7% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 5% (2020 est.)<br>
+_male_: 7.7% (2020 est.)<br>
+_female_: 2.2% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 3% (2019)<br>
 
@@ -358,7 +363,7 @@ Alliance Party or PA [Jose MUNOZ Molina]<br>Alternative Independent Socialist Pa
 BCIE, CAN (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNASUR (observer), UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Laura CASTRO Grimaldo (since December 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Laura CASTRO Grimaldo (since 28 November 2021)<br>
 _chancery_: 2862 McGill Terrace NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 483-1407<br>
 _FAX_: [1] (202) 483-8413<br>

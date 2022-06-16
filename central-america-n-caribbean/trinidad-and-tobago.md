@@ -318,8 +318,8 @@ _election results_: Paula-Mae WEEKES (independent) elected president; ran unoppo
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives (42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
-_elections_: Senate - last appointments in August 2020<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 21, women 10, percent of women 32.3%<br>House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition - NA<br>
+_elections_: Senate - last appointments on 28 August 2020 (next appointments in August 2025)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
+_election results_: Senate - percent by party - NA; seats by party - NA; composition as of May 2020 - men 19, women 13, percent of women 40.6%<br>House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition - as of May 2022 - men 31, women 11, percent of women 26.2%; note - overall Parliament percent of women 32.4%<br>
 <strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councilors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
 
 **Judicial branch**<br>

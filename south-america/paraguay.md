@@ -218,6 +218,11 @@ _vectorborne diseases_: dengue fever<br>
 **Obesity - adult prevalence rate**<br>
 20.3% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 11.5% (2020 est.)<br>
+_male_: 18.6% (2020 est.)<br>
+_female_: 4.4% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 1.3% (2016)<br>
 
@@ -638,8 +643,8 @@ _international_: country code - 595; Paraguay's landlocked position means they m
 .py<br>
 
 **Internet users**<br>
-_total_: 5,278,072 (2020 est.)<br>
-_percent of population_: 74% (2020 est.)<br>
+_total_: 4.92 million (2021 est.)<br>
+_percent of population_: 64% (2021 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 562,369 (2020 est.)<br>

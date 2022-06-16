@@ -211,6 +211,11 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 21% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 23.2% (2020 est.)<br>
+_male_: 39.6% (2020 est.)<br>
+_female_: 6.7% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 2% (2015)<br>
 
@@ -343,7 +348,7 @@ _residency requirement for naturalization_: 5 years<br>
 **Executive branch**<br>
 _chief of state_: President Kasym-Zhomart TOKAYEV (since 20 March 2019); note - Nursultan NAZARBAYEV, who was president since 24 April 1990 (and in power since 22 June 1989 under the Soviet period), resigned on 20 March 2019; NAZARBAYEV retained the title and powers of "First President"; TOKAYEV completed NAZARBAYEV's term, which was shortened due to the early election of 9 June 2019, and then continued as president following his election victory<br>
 _head of government_: Prime Minister Alikhan SMAILOV (since 11 January 2022); note - Prime Minister Askar MAMIN resigned on 5 January 2022 in the wake of massive protests of his government that began 2 January 2022 following a sudden, steep rise in gasoline prices<br>
-_cabinet_: the president appoints ministers after consultations with the Chair of the Security Council (NAZARBAYEV) who has veto power over all appointments except for the ministers of defense, internal affairs, and foreign affairs; however, the president is required to discuss these three offices with the National Security Committee, which NAZARBAYEV chairs under a lifetime appointment<br>
+_cabinet_: the president appoints ministers after consultations with the Chair of the Security Council (NAZARBAYEV) who has veto power over all appointments except for the ministers of defense, internal affairs, and foreign affairs; however, the president is required to discuss these three offices with the National Security Committee, which NAZARBAYEV chairs under a lifetime appointment; however, in January 2022, the Mazhilis of Kazakhstan canceled Nursultan NAZARBAYEV&rsquo;s lifelong chairmanship of the Security Council of the Republic of Kazakhstan<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second consecutive term); election last held on 9 June 2019 (next to be held in 2024); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis<br>
 _election results_: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kasym-Zhomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
 
@@ -353,8 +358,8 @@ _elections_: <br>Senate - last held on 12 August 2020 (next to be held in August
 _election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - NA; composition (as of October 2021) - men 39, women 9, percent of women 18.4%<br>Mazhilis - percent of vote by party - Nur Otan 71.1%, Ak Zhol 11%, People's Party 9.1%, other 8.8%; seats by party - Nur Otan 76, Ak Zhol 12, People's Party 10; composition (as of October 2021) - men 78, women 29, percent of women 27.1%; note - total Parliament percent of women 24.4%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairman and 6 members)<br>
-_judge selection and term of office_: Supreme Court judges proposed by the president of the republic on recommendation of the Supreme Judicial Council and confirmed by the Senate; judges normally serve until age 65 but can be extended to age 70; Constitutional Council - the president of the republic, the Senate chairperson, and the Mazhilis chairperson each appoints 2 members for a 6-year term; chairman of the Constitutional Council appointed by the president for a 6-year term<br>
+_highest courts_: Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairperson and 6 members)<br>
+_judge selection and term of office_: Supreme Court judges proposed by the president of the republic on recommendation of the Supreme Judicial Council and confirmed by the Senate; judges normally serve until age 65 but can be extended to age 70; Constitutional Council - the president of the republic, the Senate chairperson, and the Mazhilis chairperson each appoints 2 members for a 6-year term; chairperson of the Constitutional Council appointed by the president for a 6-year term<br>
 _subordinate courts_: regional and local courts<br>
 
 **Political parties and leaders**<br>

@@ -218,6 +218,11 @@ _water contact diseases_: schistosomiasis<br>
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 20.3% (2020 est.)<br>
+_male_: 34% (2020 est.)<br>
+_female_: 6.5% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 5.5% (2017)<br>
 
@@ -733,7 +738,7 @@ note - in 2019, women comprised about 30% of the SANDF<br>
 note - in 2021, South Africa sent a contingent of about 1,500 troops to Mozambique as part of a Southern African Development Community (SADC) force to help quell an insurgency; in<br>
 
 **Military - note**<br>
-<p>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands</p> <p>as of 2022, the SANDF was one of Africa’s most capable militaries; it participated regularly in African and UN peacekeeping missions and had the ability to independently deploy throughout Africa; over the past decade, however, its operational readiness and modernization programs have been hampered by funding shortfalls</p><br>
+the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands; the SANDF is one of Africa&rsquo;s most capable militaries; it participated regularly in African and UN peacekeeping missions and had the ability to independently deploy throughout Africa; over the past decade, however, its operational readiness and modernization programs have been hampered by funding shortfalls (2022)<br>
 
 ## Terrorism
 

@@ -186,6 +186,11 @@ _unimproved: total_: total: 1.8% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 31.6% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 10.6% (2020 est.)<br>
+_male_: 18.8% (2020 est.)<br>
+_female_: 2.4% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 

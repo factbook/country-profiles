@@ -213,6 +213,11 @@ _vectorborne diseases_: Japanese encephalitis, malaria, and dengue fever<br>
 **Obesity - adult prevalence rate**<br>
 4.1% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 30.4% (2020 est.)<br>
+_male_: 47.9% (2020 est.)<br>
+_female_: 12.8% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 24.4% (2019)<br>
 
@@ -367,7 +372,7 @@ _subordinate courts_: High Court; district courts<br>
 ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Shreedhar KHATRI (since 25 April 2022)<br>
+_chief of mission_: Ambassador Sridhar KHATRI (since 19 April 2022)<br>
 _chancery_: 2730 34th Place NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 667-4550<br>
 _FAX_: [1] (202) 667-5534<br>

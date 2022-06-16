@@ -223,6 +223,11 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 6.7% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 12.8% (2020 est.)<br>
+_male_: 22.7% (2020 est.)<br>
+_female_: 2.9% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 23.1% (2017/18)<br>
 
@@ -394,7 +399,7 @@ Christian Democrat Party or PDC [Jose ENDUNDO]<br>Congolese Rally for Democracy 
 ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Francois Nkuna BALUMUENE (since 17 September 2015)<br>
+_chief of mission_: Ambassador (vacant)<br><br>Charge d'Affaires Thomas MBIMBA, Counselor (since 21 December 2021)<br>
 _chancery_: 1100 Connecticut Avenue NW, Suite 725, Washington DC 20036<br>
 _telephone_: [1] (202) 234-7690; [1] (202) 234-7691<br>
 _FAX_: [1] (202) 234-2609<br>
@@ -747,7 +752,7 @@ the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era we
 18-45 years of age for voluntary (men and women) and compulsory (men only) military service; unclear how much conscription is used (2021)<br>
 
 **Military - note**<br>
-<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups, however, continue to fight (note - there are over 100 illegal armed groups in the country by some estimates); as of 2022, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> <br>MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of February 2022, MONUSCO had around 15,000 personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
+<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups, however, continue to fight (note - there are over 100 illegal armed groups in the country by some estimates); as of 2022, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups<br><br></p> MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of February 2022, MONUSCO had around 15,000 personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
 
 ## Terrorism
 

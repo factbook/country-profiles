@@ -207,6 +207,11 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 35.4% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 14.3% (2020 est.)<br>
+_male_: 26.5% (2020 est.)<br>
+_female_: 2% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -351,7 +356,7 @@ none<br>
 ABEDA, AfDB (nonregional member), AFESD, AMF, BIS, CAEU, CP, FAO, G-20, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Princess REEMA bint Bandar Al Saud (since 8 July 2019)<br>
+_chief of mission_: Ambassador Princess RIMA bint Bandar bin Abd al-Aziz Al Saud (since 8 July 2019)<br>
 _chancery_: 601 New Hampshire Avenue NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 342-3800<br>
 _FAX_: [1] (202) 295-3625<br>

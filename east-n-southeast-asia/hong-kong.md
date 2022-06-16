@@ -564,7 +564,7 @@ _international_: country code - 852; landing points for the AAE-1, AAG, APCN-2, 
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-4 commercial terrestrial TV networks each with multiple stations; multi-channel satellite and cable TV systems available; 3 licensed broadcasters of terrestrial radio, one of which is government funded, operate about 12 radio stations; note - 4 digital radio broadcasters operated in Hong Kong from 2010 to 2017, but all digital radio services were terminated in September 2017 due to weak market demand (2019)<br>
+34 commercial terrestrial TV networks each with multiple stations; multi-channel satellite and cable TV systems available; 3 licensed broadcasters of terrestrial radio, one of which is government funded, operate about 12 radio stations; note - 4 digital radio broadcasters operated in Hong Kong from 2010 to 2017, but all digital radio services were terminated in September 2017 due to weak market demand (2019)<br>
 
 **Internet country code**<br>
 .hk<br>

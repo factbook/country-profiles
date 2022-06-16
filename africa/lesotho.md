@@ -211,6 +211,11 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid feve
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 24.3% (2020 est.)<br>
+_male_: 43.1% (2020 est.)<br>
+_female_: 5.4% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 10.5% (2018)<br>
 
@@ -367,7 +372,7 @@ All Basotho Convention or ABC [Moeketsi MAJORO]<br>Alliance of Democrats or AD [
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sankatana Gabriel MAJA, Counselor (28 May 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d’Affaires Masopha Phoofolo Moses KAO, Counselor (28 May 2021)<br> <p> </p><br>
 _chancery_: 2511 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 797-5533<br>
 _FAX_: [1] (202) 234-6815<br>

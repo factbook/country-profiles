@@ -211,6 +211,11 @@ _vectorborne diseases_: dengue fever<br>
 **Obesity - adult prevalence rate**<br>
 24.6% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 7.9% (2020 est.)<br>
+_male_: 14.1% (2020 est.)<br>
+_female_: 1.7% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 5% (2014)<br>
 
@@ -348,7 +353,7 @@ _judge selection and term of office_: judges elected by the Legislative Assembly
 _subordinate courts_: Appellate Courts; Courts of First Instance; Courts of Peace<br>
 
 **Political parties and leaders**<br>
-Christian Democratic Party or PDC [Rodolfo Antonio PARKER Soto]<br>Farabundo Marti National Liberation Front or FMLN [Oscar ORTIZ]<br>Great Alliance for National Unity or GANA [Nelson GUARDADO]<br>National Coalition Party or PCN [Manuel RODRIGUEZ]<br>Nationalist Republican Alliance or ARENA [Erick SALGUERO]<br>New Ideas (Nuevas Ideas) or NI [Xavier Zablah BUKELE]<br>Our Time (Nuestro Tiempo) or NT [Juan VALIENTE]<br>Vamos or V [Josue ALVARADO Flores]<br>
+Christian Democratic Party or PDC [Reynaldo CARBALLO]<br>Farabundo Marti National Liberation Front or FMLN [Oscar ORTIZ]<br>Great Alliance for National Unity or GANA [Nelson GUARDADO]<br>National Coalition Party or PCN [Manuel RODRIGUEZ]<br>Nationalist Republican Alliance or ARENA [Erick SALGUERO]<br>New Ideas (Nuevas Ideas) or NI [Xavier Zablah BUKELE]<br>Our Time (Nuestro Tiempo) or NT [Juan VALIENTE]<br>Vamos or V [Josue ALVARADO Flores]<br>
 
 **International organization participation**<br>
 BCIE, CACM, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -359,8 +364,7 @@ _chancery_: 1400 16th Street NW, Suite 100, Washington, DC 20036<br>
 _telephone_: [1] (202) 595-7500<br>
 _FAX_: [1] (202) 232-3763<br>
 _email address and website_: <br>correo@elsalvador.org<br>
-_consulate(s) general_: Atlanta, Boston, Brentwood (NY), Chicago, Dallas, Doral (FL), Doraville (GA), Houston, Las Vegas (NV), Los Angeles, McAllen (TX), New York, Nogales (AZ), San Francisco, Silver Spring (MD), Tucson (AZ), Washington, DC, Woodbridge (VA)<br>
-_consulate(s)_: Elizabeth (NJ), Newark (NJ), Seattle, Woodbridge (VA)<br>
+_consulate(s) general_: Atlanta, Boston, Brentwood (NY), Charlotte, Chicago, Dallas, Denver, Houston, Las Vegas (NV), Loreado (TX), Los Angeles, McAllen (TX), New York, San Bernardino (CA), San Francisco, Tucson (AZ), Washington (DC), Woodbridge (VA)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Brendan O&rsquo;BRIEN (since 24 November 2021)<br>
@@ -618,7 +622,7 @@ _international_: country code - 503; satellite earth station - 1 Intelsat (Atlan
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-multiple privately owned national terrestrial TV networks, supplemented by cable TV networks that carry international channels; hundreds of commercial radio broadcast stations and 1 government-owned radio broadcast station; transition to digital transmission to begin in 2018 along with adaptation of the Japanese-Brazilian Digital Standard (ISDB-T)<br>
+multiple privately owned national terrestrial TV networks, supplemented by cable TV networks that carry international channels; hundreds of commercial radio broadcast stations and two known government-owned radio broadcast station; transition to digital transmission to begin in 2018 along with adaptation of the Japanese-Brazilian Digital Standard (ISDB-T) (2022)<br>
 
 **Internet country code**<br>
 .sv<br>

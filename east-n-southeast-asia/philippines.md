@@ -215,6 +215,11 @@ _water contact diseases_: leptospirosis<br>
 **Obesity - adult prevalence rate**<br>
 6.4% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 22.9% (2020 est.)<br>
+_male_: 39.3% (2020 est.)<br>
+_female_: 6.5% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 19.1% (2018)<br>
 

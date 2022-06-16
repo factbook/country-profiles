@@ -387,7 +387,7 @@ Bloc Liberal or BL [Faya MILLIMONO]<br>National Party for Hope and Development o
 ACP, AfDB, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant) Chargé d’Affaires (vacant)   <p> </p><br>
+_chief of mission_: Ambassador Kerfalla YANSANE (since 24 January 2018) <p> </p><br>
 _chancery_: 2112 Leroy Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 986-4300<br>
 _FAX_: [1] (202) 986-3800<br>

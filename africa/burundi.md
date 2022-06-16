@@ -219,6 +219,11 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 5.4% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 11.8% (2020 est.)<br>
+_male_: 17.4% (2020 est.)<br>
+_female_: 6.1% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 27% (2018/19)<br>
 
@@ -695,7 +700,7 @@ the FDN is armed mostly with weapons from Russia and the former Soviet Union, wi
 18 years of age for voluntary military service (2021)<br>
 
 **Military deployments**<br>
-750 Central African Republic (MINUSCA); 5,400 Somalia (AMISOM) (Jan 2022)<br>
+750 Central African Republic (MINUSCA); 5,400 Somalia (ATMIS) (2022)<br>
 
 **Military - note**<br>
 in addition to its foreign deployments, the FDN as of 2021 was focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); these groups were based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi<br>

@@ -318,7 +318,7 @@ Fatherland Union (Vaterlaendische Union) or VU [Guenther FRITZ]<br>Progressive C
 CD, CE, EBRD, EFTA, IAEA, ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UPU, WIPO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Kurt JAEGER (since 16 September 2016)<br>
+_chief of mission_: Ambassador Georg SPARBER (since 1 December 2021)<br>
 _chancery_: 2900 K Street NW, Suite 602B, Washington, DC 20007<br>
 _telephone_: [1] (202) 331-0590<br>
 _FAX_: [1] (202) 331-3221<br>

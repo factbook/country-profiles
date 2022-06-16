@@ -206,6 +206,11 @@ _unimproved: total_: total: 10.1% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 29% (2020 est.)<br>
+_male_: 51.7% (2020 est.)<br>
+_female_: 6.2% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 2.2% (2012)<br>
 
@@ -362,7 +367,7 @@ _FAX_: [1] (202) 667-2624<br>
 _email address and website_: <br>washington@mfa.gov.md<br><br>https://sua.mfa.gov.md/en<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Laura HRUBY (since 21 July 2021)<br>
+_chief of mission_: Ambassador Kent D. LOGSDON (since February 2022); Deputy Chief of Mission Laura HRUBY (since 21 July 2021)<br>
 _embassy_: 103 Mateevici Street, Chisinau MD-2009<br>
 _mailing address_: 7080 Chisinau Place, Washington DC&nbsp; 20521-7080<br>
 _telephone_: [373] (22) 408-300<br>
@@ -709,7 +714,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p>Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 483,306 (border crossings from Ukraine as of 1 June 2022)<br>
+_refugees (country of origin)_: 494,421 (border crossings from Ukraine as of 9 June 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

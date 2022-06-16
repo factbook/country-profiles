@@ -220,6 +220,11 @@ _unimproved: total_: total: (2020 est.) NA<br>
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 24.5% (2020 est.)<br>
+_male_: 29.4% (2020 est.)<br>
+_female_: 19.6% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 1.7% (2018/19)<br>
 
@@ -363,11 +368,11 @@ _election results_: <br><em>2019:</em> Alberto Angel FERNANDEZ elected president
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (72 seats; members directly elected on a provincial basis with 2 seats awarded to the party with the most votes and 1 seat to the party with the second highest number of votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Cámara de Diputados (257 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
 _elections_: <br>Senate - last held on 14 November 2021 (next to be held 29 October 2023)<br>Chamber of Deputies - last held on 14 November 2021 (next to be held 29 October 2023)<br>
-_election results_: <p><br>Senate - percent of vote by bloc or party - NA; seats by bloc or party - JxC 14, FdT 9, VcV 1; composition (as of February 2022) - JxC 33, FdT 35, other 4; men 41, women 31, percent of women 43.1%</p> <p>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - JxC 61, FdT 50, FIT-U 4, VcV 4, other 8; composition (as of February 2022) - JxC 116, FdT 118, FIT-U 4, others 19; men 142, women 115, percent of women 44.7%; note - total National Congress percent of women 44.4%</p><br>
+_election results_: <p><br>Senate - percent of vote by bloc or party - NA; seats by bloc or party - FdT 35, JxC 33, other 4; composition (as of February 2022) men 41, women 31, percent of women 43.1%</p> <p>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - FdT 118, JxC 116, FIT-U 4, other: 19; composition (as of February 2022) - men 142, women 115, percent of women 44.7%; note - total National Congress percent of women 44.4%</p><br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Corte Suprema (consists of the court president, vice president, and 5 justices)<br>
-_judge selection and term of office_: justices nominated by the president and approved by the Senate; justices can serve until mandatory retirement at age 75; extensions beyond 75 require renomination by the president and approval by the Senate<br>
+_highest courts_: Supreme Court or Corte Suprema (consists of the court president, vice president, 2 judges, 1 vacancy)<br>
+_judge selection and term of office_: judges nominated by the president and approved by the Senate; ministers can serve until mandatory retirement at age 75; extensions beyond 75 require renomination by the president and approval by the Senate<br>
 _subordinate courts_: federal level appellate, district, and territorial courts; provincial level supreme, appellate, and first instance courts<br>
 
 **Political parties and leaders**<br>
@@ -643,7 +648,7 @@ _international_: country code - 54; landing points for the UNISUR, Bicentenario,
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-government owns a TV station and radio network; more than 2 dozen TV stations and hundreds of privately owned radio stations; high rate of cable TV subscription usage<br>
+government owns a TV station and radio network; more than two dozen TV stations and hundreds of privately owned radio stations; high rate of cable TV subscription usage (2022)<br>
 
 **Internet country code**<br>
 .ar<br>

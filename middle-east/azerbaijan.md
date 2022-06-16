@@ -208,6 +208,11 @@ _unimproved: total_: total: (2020 est.) NA<br>
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 24% (2020 est.)<br>
+_male_: 47.9% (2020 est.)<br>
+_female_: 0.1% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 4.9% (2013)<br>
 
@@ -679,7 +684,7 @@ _major seaport(s)_: Baku (Baki) located on the Caspian Sea<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Land Forces (Combined Arms Army), Air Forces, Navy Forces; Ministry of Internal Affairs: State Border Service (includes Coast Guard), Internal Security Troops (2021)<br>
+Azerbaijan Armed Forces: Land Forces (Combined Arms Army), Air Forces, Navy Forces; Ministry of Internal Affairs: State Border Service (includes Coast Guard), Internal Security Troops (2022)<br>
 
 **Military expenditures**<br>
 5.2% of GDP (2021 est.)<br>
@@ -692,7 +697,7 @@ Land Forces (Combined Arms Army), Air Forces, Navy Forces; Ministry of Internal 
 information varies; approximately 65,000 total active troops (55,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Azerbaijan military is comprised mostly of Russian and Soviet-era weapons systems with a smaller mix of equipment from other countries; since 2010, Russia is the leading supplier of arms to Azerbaijan, followed by Israel (2021)<br>
+the inventory of the Azerbaijan military is comprised mostly of Russian and Soviet-era weapons systems with a small mix of equipment from other countries, including Israel and Turkey (2022)<br>
 
 **Military service age and obligation**<br>
 men age 18-35 years for compulsory military service; service obligation 18 months (non-university graduate) or 12 months (university graduates); 17 years of age for voluntary service (men and women); 17-year-olds are considered to be on active service at cadet military schools (2021)<br>

@@ -222,6 +222,11 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 7.2% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 14.3% (2020 est.)<br>
+_male_: 23% (2020 est.)<br>
+_female_: 5.6% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 15.6% (2014/15)<br>
 

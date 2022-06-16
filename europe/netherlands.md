@@ -212,6 +212,11 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 20.4% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 22.2% (2020 est.)<br>
+_male_: 24.4% (2020 est.)<br>
+_female_: 19.9% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -732,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,792 (Syria), 14,787 (Eritrea), 8,368 (Somalia), 6,636 (Iraq), 5,346 (Iran) (mid-year 2021); 60,020 (Ukraine) (as of 23 May 2022)<br>
+_refugees (country of origin)_: 37,792 (Syria), 14,787 (Eritrea), 8,368 (Somalia), 6,636 (Iraq), 5,346 (Iran) (mid-year 2021); 62,970 (Ukraine) (as of 6 June 2022)<br>
 _stateless persons_: 2,087 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

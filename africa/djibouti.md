@@ -679,7 +679,7 @@ the FAD is armed largely with older French and Soviet-era weapons systems; since
 18 years of age for voluntary military service (men and women); 16-25 years of age for voluntary military training; no conscription (2021)<br>
 
 **Military deployments**<br>
-960 Somalia (AMISOM) (2022)<br>
+960 Somalia (ATMIS) (2022)<br>
 
 **Military - note**<br>
 <p>as of 2022, China, France, Italy, Japan, and the US maintained bases in Djibouti for regional military missions, including counter-terrorism, counter-piracy, crisis response, and security assistance (note – France has multiple bases and hosts troop contingents from Germany and Spain); the EU and NATO have also maintained a presence to support multinational naval counter-piracy operations and maritime training efforts; in 2017, Djibouti and Saudi Arabia announced plans for the Saudis to build a military base there, although no start date was announced</p><br>

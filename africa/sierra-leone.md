@@ -215,6 +215,11 @@ _aerosolized dust or soil contact diseases_: Lassa fever<br>
 **Obesity - adult prevalence rate**<br>
 8.7% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 13.5% (2020 est.)<br>
+_male_: 20.5% (2020 est.)<br>
+_female_: 6.4% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 13.5% (2019)<br>
 

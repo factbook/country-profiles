@@ -225,6 +225,11 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 8.4% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 8.7% (2020 est.)<br>
+_male_: 14% (2020 est.)<br>
+_female_: 3.4% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 14.6% (2018)<br>
 
@@ -367,7 +372,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Samia Suluhu HASSAN (since 19 March 2021); note - President John MAGUFULI died on 17 March 2021; vice president Philip MPANGO; note - the president is both chief of state and head of government<br>
-_head of government_: President Samia Suluhu HASSAN (since 19 March 2021); note - President John MAGUFULI died on 17 March 2021; vice president (vacant); Prime Minister Kassim Majaliwa MAJALIWA (since 20 November 2015) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and is head of the Cabinet<br>
+_head of government_: President Samia Suluhu HASSAN (since 19 March 2021); note - President John MAGUFULI died on 17 March 2021; vice president (vacant); Prime Minister Kassim Majaliwa MAJALIWA (since 20 November 2015) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and head of the Cabinet<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 28 October, 2020 (next to be held in October 2025); prime minister appointed by the president<br>
 _election results_: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5% (2020)<br>

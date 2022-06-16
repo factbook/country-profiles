@@ -204,6 +204,11 @@ _unimproved: total_: total: 0.1% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 20.8% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 25.4% (2020 est.)<br>
+_male_: 30.5% (2020 est.)<br>
+_female_: 20.2% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 0.4% (2015/16)<br>
 
@@ -719,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 39,884 (Ukraine) (as of 31 May 2022)<br>
+_refugees (country of origin)_: 41,456 (Ukraine) (as of 7 June 2022)<br>
 _stateless persons_: 45 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

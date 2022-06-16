@@ -214,6 +214,11 @@ _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
 **Obesity - adult prevalence rate**<br>
 23.3% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 31.4% (2020 est.)<br>
+_male_: 31.6% (2020 est.)<br>
+_female_: 31.1% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 3.7% (2018/19)<br>
 
@@ -719,7 +724,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 7,355 (Ukraine) (as of 30 May 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 21,666 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
+<strong>note:</strong> 21,794 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

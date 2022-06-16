@@ -210,6 +210,11 @@ NA<br>
 **Obesity - adult prevalence rate**<br>
 18.6% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 5.5% (2020 est.)<br>
+_male_: 10.6% (2020 est.)<br>
+_female_: 0.4% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 3.1% (2019)<br>
 
@@ -342,7 +347,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em>2022:</em> Serdar BERDIMUHAMEDOW elected president; percent of vote - Serdar BERDIMUHAMEDOW 73.0%,  Khydyr NUNNAYEV 11.1%, Agadzhan BEKMYRADOV 7.2%, other 8.7%; note - Serdar BERDIMUHAMEDOW is the son of previous president Gurbanguly BERDIMUHAMEDOW<br><br><em>2017:</em> Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br><br><em>2012:</em> Gurbanguly BERDIMUHAMEDOW reelected president; percent of vote - Gurbanguly BERDIMUHAMEDOW 97.1%, Annageldi YAZMYRADOW 1.1%, other candidates 1.8%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Council or Milli Genesi consists of:<br>People's Council or Halk Maslahaty (56 seats; 48 members indirectly elected by provincial councils and 8 members appointed by the president)<br>Assembly or Mejlisi (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br><br>note: in September 2020, the Turkmenistani legislature (Milli Genesi) adopted a constitutional amendment creating an upper chamber, making the legislature bicameral; the chairperson of the Halk Maslahaty is now designated as the constitutional successor to the presidency; as of March 2022, Gurbanguly BERDIMUHAMEDOW continues to serve in this position after stepping away from the presidency.<br>
+_description_: bicameral National Council or Milli Genesi consists of:<br>People's Council or Halk Maslahaty (56 seats; 48 members indirectly elected by provincial councils and 8 members appointed by the president)<br>Assembly or Mejlisi (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br><br>note: in September 2020, the Turkmenistani legislature (Milli Genesi) adopted a constitutional amendment creating an upper chamber, making the legislature bicameral; the chairperson of the Halk Maslahaty is now designated as the constitutional successor to the presidency; as of March 2022, Gurbanguly BERDIMUHAMEDOW continues to serve in this position after stepping away from the presidency<br>
 _elections_: People's Council - first held on 28 March 2021 for 48 indirectly elected members (next to be held in 2026); first held on 14 April 2021 for 8 presidentially appointed members (next to be held NA)<br>Assembly - last held on 25 March 2018 (next to be held NA)<br>
 _election results_: People's Council - percent of vote by party - NA; seats by party - DPT 3, independent 45; composition - men 42, women 14, percent of women 32.3%<br>Assembly - percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition (as of March 2018) - men 94, women 31, percent of women 24.8%; note - total percent of National Council percent of women 24.9%<br>
 
@@ -359,7 +364,7 @@ Agrarian Party of Turkmenistan or APT [Basim ANNAGURBANOW]<br>Democratic Party o
 ADB, CIS (associate member, has not ratified the 1993 CIS charter although it participates in meetings and held the chairmanship of the CIS in 2012), EAPC, EBRD, ECO, FAO, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), ISO (correspondent), ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Meret ORAZOW (since 14 February 2001)<br>
+_chief of mission_: Ambassador Meret ORAZOV (since 14 February 2001)<br>
 _chancery_: 2207 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-1500<br>
 _FAX_: [1] (202) 588-1500<br>

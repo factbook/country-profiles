@@ -223,6 +223,11 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 5.8% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 10.8% (2020 est.)<br>
+_male_: 17.5% (2020 est.)<br>
+_female_: 4.1% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 9% (2019)<br>
 
@@ -383,7 +388,7 @@ Democratic Progressive Party or DPP [Peter MUTHARIKA]<br>Malawi Congress Party o
 ACP, AfDB, AU, C, CD, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Edward Yakobe SAWERENGERA (since 16 September 2016)<br>
+_chief of mission_: Ambassador Esme Jynet CHOMBO (since 19 April 2022)<br>
 _chancery_: 2408 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 721-0270<br>
 _FAX_: [1] (202) 721-0288<br>

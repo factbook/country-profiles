@@ -238,6 +238,11 @@ _unimproved: total_: total: 11.2% of population (2020 est.)<br>
 26.1% (2016)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
+**Tobacco use**<br>
+_total_: 14.5% (2020 est.)<br>
+_male_: 28.2% (2020 est.)<br>
+_female_: 0.8% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 2.6% (2017/18)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>

@@ -218,6 +218,11 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Obesity - adult prevalence rate**<br>
 6.9% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 37.6% (2020 est.)<br>
+_male_: 71.4% (2020 est.)<br>
+_female_: 3.7% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 17.7% (2018)<br>
 
@@ -380,7 +385,7 @@ Berkarya Party [Muchdi PURWOPRANJONO]<br>Crescent Star Party or PBB [Yusril Ihza
 ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Rosan ROESLANI (since 25 October 2021)<br>
+_chief of mission_: Ambassador Rosan Perkasa ROESLANI (since 25 October 2021)<br>
 _chancery_: 2020 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 775-5200<br>
 _FAX_: [1] (202) 775-5365<br>

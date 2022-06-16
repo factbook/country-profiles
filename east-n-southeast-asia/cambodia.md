@@ -221,6 +221,11 @@ _vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
 **Obesity - adult prevalence rate**<br>
 3.9% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 21.1% (2020 est.)<br>
+_male_: 36.1% (2020 est.)<br>
+_female_: 6% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 24.1% (2014)<br>
 
@@ -355,6 +360,7 @@ _chief of state_: King Norodom SIHAMONI (since 29 October 2004)<br>
 _head of government_: Prime Minister HUN SEN (since 14 January 1985)<br>
 _cabinet_: Council of Ministers named by the prime minister and appointed by the monarch<br>
 _elections/appointments_: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition named prime minister by the Chairman of the National Assembly and appointed by the monarch<br>
+note - in December 2021, the Cambodian People's Party voted unanimously for HUN SEN's oldest son, HUN MANET, to succeed his father<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br>National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
@@ -374,7 +380,7 @@ note(s) - following the 2017 commune election, the CPP-led government arrested t
 ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MINUSMA, MIGA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador CHUM SOUNRY (since 17 September 2018)<br>
+_chief of mission_: Ambassador KEO Chhea (since 19 April 2022)<br>
 _chancery_: 4530 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 726-7742<br>
 _FAX_: [1] (202) 726-8381<br>
@@ -716,7 +722,7 @@ Royal Cambodian Armed Forces: Royal Cambodian Army, Royal Khmer Navy, Royal Camb
 information varies; approximately 100,000 total active troops including about 3,000 Navy and 1,000 Air Force; est. 10,000 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Royal Cambodian Armed Forces are armed largely with older Chinese and Russian-origin equipment; since 2010, it has received limited amounts of more modern equipment from a variety of suppliers, led by China (2021)<br>
+the Royal Cambodian Armed Forces are armed largely with older Chinese and Russian-origin equipment; since 2010, it has received limited amounts of more modern equipment from a variety of suppliers, particularly China (2022)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory and voluntary military service (conscription only selectively enforced since 1993); women may volunteer (2021)<br>
@@ -726,7 +732,7 @@ note - in 2018, women made up an estimated 6% of the active duty military<br>
 200 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL); 290 Mali (MINUSMA) (Jan 2022)<br>
 
 **Military - note**<br>
-<p>the Royal Cambodian Armed Forces (RCAF) was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999</p> <p> </p><br>
+the Royal Cambodian Armed Forces (RCAF) was re-established in 1993 under the first coalition government from the merger of the Cambodian Government&rsquo;s military forces (Cambodian People&rsquo;s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999 (2022)<br>
 
 ## Transnational Issues
 

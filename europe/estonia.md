@@ -207,6 +207,11 @@ _vectorborne diseases_: tickborne encephalitis<br>
 **Obesity - adult prevalence rate**<br>
 21.2% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 29.7% (2020 est.)<br>
+_male_: 36.3% (2020 est.)<br>
+_female_: 23% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 0.4% (2013/15)<br>
 

@@ -223,6 +223,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 10.3% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 11.1% (2020 est.)<br>
+_male_: 21.4% (2020 est.)<br>
+_female_: 0.8% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 11.6% (2019/20)<br>
 
@@ -374,7 +379,7 @@ Alliance for Patriotic Reorientation and Construction or APRC [Fabakary JATTA]<b
 ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Dawda D. FADERA (since 24 January 2018)<br>
+_chief of mission_: Ambassador (vacant)<br><br>Charge d’Affaires Mustapha SOSSEH (16 March 2022)<br>
 _chancery_: 5630 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 785-1399; [1] (202) 785-1428<br>
 _FAX_: [1] (202) 785-1430<br>

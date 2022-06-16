@@ -221,6 +221,11 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 20.2% (2020 est.)<br>
+_male_: 33% (2020 est.)<br>
+_female_: 7.3% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 23.1% (2017/18)<br>
 
@@ -387,7 +392,7 @@ Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML 
 ADB, AIIB, ARF, ASEAN (sectoral dialogue partner), C, CERN (associate member), CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURCAT, MINURSO, MINUSCA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO, UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNISFA, UNISFA, UNMISS, UNSOS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sadar Masood KHAN (since 24 March 2022)<br>
+_chief of mission_: Ambassador Sardar Masood KHAN (since 24 March 2022)<br>
 _chancery_: 3517 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 243-6500<br>
 _FAX_: [1] (202) 686-1534<br>

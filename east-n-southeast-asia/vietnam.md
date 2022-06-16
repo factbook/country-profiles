@@ -216,6 +216,11 @@ _vectorborne diseases_: dengue fever, malaria, and Japanese encephalitis<br>
 **Obesity - adult prevalence rate**<br>
 2.1% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 24.8% (2020 est.)<br>
+_male_: 47.4% (2020 est.)<br>
+_female_: 2.2% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 13.4% (2017)<br>
 
@@ -365,7 +370,7 @@ Communist Party of Vietnam or CPV [CPV General Secretary Nguyen Phu TRONG]<br>
 ADB, APEC, ARF, ASEAN, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador NGUYEN Quoc Dzung (since February 2022)<br>
+_chief of mission_: Ambassador NGUYEN Quoc Dzung (since 19 April 2022)<br>
 _chancery_: 1233 20th Street NW, Suite 400, Washington, DC 20036<br>
 _telephone_: [1] (202) 861-0737<br>
 _FAX_: [1] (202) 861-0917<br>

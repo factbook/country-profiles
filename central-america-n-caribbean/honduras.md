@@ -349,6 +349,7 @@ _election results_: <br><em>2021: </em>Iris Xiomara CASTRO de Zelaya elected pre
 _description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 28 November 2021 (next to be held on 30 November 2025)<br>
 _election results_: percent of vote by party - LIBRE 39.8%, PNH 31.3%, PL 16.4%, PSH 10.9%, DC 0.8%, PAC 0.8%; seats by bloc or party - LIBRE 51, PNH 40, PL 21, PSH 14, DC 1, PAC 1; composition - men 93, women 35, percent of women 27.3%<br>
+<br><strong><em>note:</em></strong> seats by bloc or party as of 1 May 2022 - LIBRE 50, PNH 44, PL 22, PSH 10, DC 1, PAC 1<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 7 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction<br>
@@ -356,13 +357,13 @@ _judge selection and term of office_: court president elected by his peers; judg
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace<br>
 
 **Political parties and leaders**<br>
-Anti-Corruption Party or PAC [Julio LOPEZ] <br>Christian Democratic Party or DC [Carlos PORTILLO] <br>Democratic Liberation of Honduras or Liderh [Lempira VIANA]<br>Democratic Unification Party or UD [Alfonso DIAZ] <br>The Front or El Frente [Kelin PEREZ]<br>Honduran Patriotic Alliance or AP [Romeo VASQUEZ Velasquez] <br>Innovation and Unity Party or PINU [Guillermo VALLE]<br>Liberal Party or PL [Yani Benjamin ROSENTHAL Hidalgo] <br>Liberty and Refoundation Party or LIBRE [Jose Manuel ZELAYA Rosales]<br>National Party of Honduras or PNH [Juan Nasry ASFURA] <br>New Route or NR [Esdras Amado LOPEZ] <br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura [Salvador NASRALLA] (electoral coalition)<br>Savior Party of Honduras or PSH [Salvador Alejandro Cesar NASRALLA Salum]<br>Vamos or Let’s Go [Jose COTO]<br>We Are All Hondurans (Todos Somos Honduras) or TSH [Marlon Oniel ESCOTO Valerio]<br>
+Anti-Corruption Party or PAC [Julio LOPEZ] <br>Christian Democratic Party or DC [Carlos PORTILLO] <br>Democratic Liberation of Honduras or Liderh [Lempira VIANA]<br>Democratic Unification Party or UD [Alfonso DIAZ] <br>The Front or El Frente [Kelin PEREZ]<br>Honduran Patriotic Alliance or AP [Romeo VASQUEZ Velasquez] <br>Innovation and Unity Party or PINU [Guillermo VALLE]<br>Liberal Party or PL [Yani Benjamin ROSENTHAL Hidalgo] <br>Liberty and Refoundation Party or LIBRE [Jose Manuel ZELAYA Rosales]<br>National Party of Honduras or PNH [Juan Nasry ASFURA] <br>New Route or NR [Esdras Amado LOPEZ] <br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura [Salvador NASRALLA] (electoral coalition)<br>Savior Party of Honduras or PSH [Salvador Alejandro Cesar NASRALLA Salum]<br>Vamos or Let’s Go [Jose COTO]<br>We Are All Honduras (Todos Somos Honduras) or TSH [Marlon Oniel ESCOTO Valerio]<br>
 
 **International organization participation**<br>
 BCIE, CACM, CD, CELAC, EITI (candidate country), FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC (suspended), IOM, IPU, ISO (subscriber), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO (suspended), WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Luis Fernando SUAZO BARAHONA (since 17 September 2020)<br>
+_chief of mission_: Ambassador (vacant)<br>
 _chancery_: 1220 19th Street NW, Suite #320, Washington, DC 20036<br>
 _telephone_: [1] (202) 966-7702<br>
 _FAX_: [1] (202) 966-9751<br>
@@ -626,7 +627,7 @@ _international_: country code - 504; landing points for both the ARCOS and the M
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-multiple privately owned terrestrial TV networks, supplemented by multiple cable TV networks; Radio Honduras is the lone government-owned radio network; roughly 300 privately owned radio stations<br>
+multiple privately owned terrestrial TV networks, supplemented by multiple cable TV networks; Radio Honduras is the lone government-owned radio network; roughly 300 privately owned radio stations (2019)<br>
 
 **Internet country code**<br>
 .hn<br>

@@ -212,6 +212,11 @@ _unimproved: total_: total: 12.7% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 22.5% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 28% (2020 est.)<br>
+_male_: 35.9% (2020 est.)<br>
+_female_: 20% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -730,9 +735,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 587,219 (border crossings from Ukraine as of 1 June 2022)<br>
+_refugees (country of origin)_: 642,159 (border crossings from Ukraine as of 13 June 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 10,012 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
+<strong>note:</strong> 10,157 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

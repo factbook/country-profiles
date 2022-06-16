@@ -211,6 +211,11 @@ _vectorborne diseases_: tickborne encephalitis (2016)<br>
 **Obesity - adult prevalence rate**<br>
 26.4% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 31.8% (2020 est.)<br>
+_male_: 35.8% (2020 est.)<br>
+_female_: 27.8% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -732,7 +737,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 698,420 (border crossings from Ukraine as of 1 June 2022)<br>
+_refugees (country of origin)_: 764,216 (border crossings from Ukraine as of 13 June 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

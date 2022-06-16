@@ -208,6 +208,11 @@ _water contact diseases_: leptospirosis<br>
 **Obesity - adult prevalence rate**<br>
 15.6% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 22.5% (2020 est.)<br>
+_male_: 43.8% (2020 est.)<br>
+_female_: 1.1% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 14.1% (2019)<br>
 
@@ -356,7 +361,7 @@ _subordinate courts_: Court of Appeal; High Court; Sessions Court; Magistrates' 
 ADB, APEC, ARF, ASEAN, BIS, C, CICA (observer), CP, D-8, EAS, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OIC, OPCW, PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: ambassador (vacant); Charge d'Affaires Fairuz Adli Mohd ROZALI (since August 2021)<br>
+_chief of mission_: ambassador (vacant); Charge d'Affaires Fairuz Adli Mohd ROZALI (since 28 August 2021)<br>
 _chancery_: 3516 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 572-9700<br>
 _FAX_: [1] (202) 572-9882<br>

@@ -204,6 +204,11 @@ _unimproved: total_: total: 13.3% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 21.7% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 31.7% (2020 est.)<br>
+_male_: 56.3% (2020 est.)<br>
+_female_: 7.1% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 2.1% (2018)<br>
 
@@ -350,7 +355,7 @@ Alliance of Patriots [Irma INASHVILI]<br>Citizens Party [Aleko ELISASHVILI]<br>E
 ADB, BSEC, CD, CE, CPLP (associate), EAPC, EBRD, FAO, G-11, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador David BAKRADZE (since 18 January 2017)<br>
+_chief of mission_: Ambassador David ZALKALIANI (since 6 May 2022)<br>
 _chancery_: 1824 R Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 387-2390<br>
 _FAX_: [1] (202) 387-0864<br>

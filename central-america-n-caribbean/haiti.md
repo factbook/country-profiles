@@ -211,6 +211,11 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Obesity - adult prevalence rate**<br>
 22.7% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 7.7% (2020 est.)<br>
+_male_: 12.2% (2020 est.)<br>
+_female_: 3.1% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 9.5% (2016/17)<br>
 
@@ -608,7 +613,7 @@ _international_: country code - 509; landing points for the BDSNi and Fibralink 
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-<p>per 2019 data released by Haitian telecommunications regulator CONATEL (Conseil National des Télécommunications), there are 398 legal sound broadcasting stations on the territory, including about 60 community radio stations, and 7 radio stations on the AM band; the FM band in Haiti is oversaturated by 158%; most radio stations broadcast 17 to 19 hours a day; there are 105 television stations operating in Haiti, including 36 TV stations in Port- au- Prince, 41 others in the provinces, and more than 40 radio-television stations; a large number of broadcasting stations operate irregularly and some stations operate with technical parameters that do not comply with established standards, thus causing harmful interference to existing telecommunications systems; VOA Creole Service broadcasts daily on 30 affiliate stations</p> (2019)<br>
+<p>per 2019 data released by Haitian telecommunications regulator CONATEL (Conseil National des Télécommunications), there are 398 legal sound broadcasting stations on the territory, including about 60 community radio stations, and 7 radio stations on the AM band; the FM band in Haiti is oversaturated by 158 percent; most radio stations broadcast 17 to 19 hours a day; there are 105 television stations operating in Haiti, including 36 TV stations in Port- au- Prince, 41 others in the provinces, and more than 40 radio-television stations; a large number of broadcasting stations operate irregularly and some stations operate with technical parameters that do not comply with established standards, thus causing harmful interference to existing telecommunications systems; VOA Creole Service broadcasts daily on 30 affiliate stations</p> (2019)<br>
 
 **Internet country code**<br>
 .ht<br>

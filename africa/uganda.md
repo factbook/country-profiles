@@ -220,6 +220,11 @@ _animal contact diseases_: rabies<br>
 **Obesity - adult prevalence rate**<br>
 5.3% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 8.4% (2020 est.)<br>
+_male_: 13% (2020 est.)<br>
+_female_: 3.7% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 10.4% (2016)<br>
 
@@ -360,8 +365,8 @@ _residency requirement for naturalization_: an aggregate of 20 years and continu
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Yoweri Kaguta MUSEVENI (since coming to power on 26 January 1986; re-elected for sixth term on 14 January 2021); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); Prime Minister Robinah NABBANJA (since 21 June 2021); First Deputy Prime Minister Rebecca KADAGA (since 24 June 2021); Second Deputy Prime Minister Moses ALI (since 21 June 2021); note - the president is both chief of state and head of government<br>
-_head of government_: President Yoweri Kaguta MUSEVENI (since coming to power on 26 January 1986; re-elected for sixth term on 14 January 2021); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); Prime Minister Robinah NABBANJA (since 21 June 2021); First Deputy Prime Minister Rebecca KADAGA (since 24 June 2021); Second Deputy Prime Minister Moses ALI (since 21 June 2021)<br>
+_chief of state_: President Yoweri Kaguta MUSEVENI (since 26 January 1986; re-elected for sixth term on 14 January 2021); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); Prime Minister Robinah NABBANJA (since 21 June 2021); First Deputy Prime Minister Rebecca KADAGA (since 24 June 2021); Second Deputy Prime Minister Moses ALI (since 21 June 2021); note - the president is both chief of state and head of government<br>
+_head of government_: President Yoweri Kaguta MUSEVENI (since 26 January 1986; re-elected for sixth term on 14 January 2021); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); Prime Minister Robinah NABBANJA (since 21 June 2021); First Deputy Prime Minister Rebecca KADAGA (since 24 June 2021); Second Deputy Prime Minister Moses ALI (since 21 June 2021)<br>
 _cabinet_: Cabinet appointed by the president from among elected members of the National Assembly or persons who qualify to be elected as members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 14 January 2021 (next to be held in 2026)<br>
 _election results_: <em><br>2021: </em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 58.6%, Bobi WINE (NUP) 34.8%, Patrick Oboi AMURIAT (FDC) 3.2%, other 3.4%<br><br><em>2016: </em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 60.6%, Kizza BESIGYE (FDC) 35.6%, other 3.8%<br>
@@ -725,7 +730,7 @@ the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited
 18-25 years of age for voluntary military duty (men and women); 9-year service obligation (2021)<br>
 
 **Military deployments**<br>
-6,800 Somalia (6,200 AMISOM; 620 UNSOM); 250 Equatorial Guinea (training mission) (2022)<br>
+6,800 Somalia (6,000 ATMIS; 620 UNSOM); 250 Equatorial Guinea (training mission) (2022)<br>
 
 **Military - note**<br>
 <p>the UPDF, which is constitutionally granted seats in parliament, is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and the NRM to break up rallies, raid opposition offices, and surveil rival candidates<br><br>as of 2022, the UPDF was conducting operations along the border with the Democratic Republic of the Congo (including cross-border operations) against a Congo-based (and formerly based in western Uganda) Ugandan rebel group, the Allied Democratic Front (ADF), which was designated as a Foreign Terrorist Organization by the US State Department in March 2021 as the Islamic State of Iraq and ash-Sham in the Democratic Republic of the Congo (ISIS-DRC; see Appendix T); in addition, elements of the UPDF were deployed in the northeast region of Karamoja against cattle rustlers and criminal gangs</p> <p>beginning in 2012, the UPDF led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; the UPDF withdrew from the mission in 2017 after declaring that the LRA no longer posed a security threat</p> <p>Uganda intervened in the South Sudan civil war in 2013-2016 and UPDF forces have clashed with South Sudanese forces along the border as recently as 2020<br><br>the military traces its history back to the formation of the Uganda Rifles in 1895; the Uganda Rifles were merged with the Central Africa Regiment and the East Africa Rifles to form the King’s African Rifles (“KAR”) in 1902, which participated in both world wars; the UPDF was established in 1995</p><br>

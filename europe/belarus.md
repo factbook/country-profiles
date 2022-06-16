@@ -209,6 +209,11 @@ _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 24.5% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 30.5% (2020 est.)<br>
+_male_: 47.4% (2020 est.)<br>
+_female_: 13.5% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -722,7 +727,7 @@ note - conscripts can be assigned to the military, as well as the Ministry of In
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,648 (border crossings from Ukraine as of 1 June 2022)<br>
+_refugees (country of origin)_: 16,654 (border crossings from Ukraine as of 13 June 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

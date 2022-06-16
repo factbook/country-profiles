@@ -210,6 +210,11 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 15.4% (2020 est.)<br>
+_male_: 17.3% (2020 est.)<br>
+_female_: 13.5% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -699,7 +704,7 @@ begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) 
 
 **Military and security forces**<br>
 United Kingdom Armed Forces (aka British Armed Forces, aka Her Majesty's Armed Forces): British Army, Royal Navy (includes Royal Marines), Royal Air Force (2022)<br>
-note - in 2021 the UK formed a joint service Space Command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, defense intelligence, and information systems across the land, sea, air, space, and cyber domains; national-level special forces (UK Special Forces, UKSF) also fall under Strategic Command; in addition, the command manages joint overseas operations<br>
+note(s) - in 2021 the UK formed a joint service Space Command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; it established a National Cyber Force comprised of military and intelligence personnel in 2020; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, defense intelligence, and information systems across the land, sea, air, space, and cyber domains; national-level special forces (UK Special Forces, UKSF) also fall under Strategic Command; in addition, the command manages joint overseas operations<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>

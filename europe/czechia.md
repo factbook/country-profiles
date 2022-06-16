@@ -208,6 +208,11 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 26% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 30.7% (2020 est.)<br>
+_male_: 35% (2020 est.)<br>
+_female_: 26.4% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -716,7 +721,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 361,560 (Ukraine) (as of 1 June 2022)<br>
+_refugees (country of origin)_: 366,632 (Ukraine) (as of 7 June 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

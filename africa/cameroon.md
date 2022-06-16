@@ -224,6 +224,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 11.4% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 7.3% (2020 est.)<br>
+_male_: 13.2% (2020 est.)<br>
+_female_: 1.4% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 11% (2018/19)<br>
 
@@ -762,7 +767,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 345,622 (Central African Republic), 129,983 (Nigeria) (2022)<br>
+_refugees (country of origin)_: 345,798 (Central African Republic), 138,381 (Nigeria) (2022)<br>
 _IDPs_: 936,767 (2022) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

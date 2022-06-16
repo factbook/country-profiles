@@ -205,6 +205,11 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 37.9% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 17.9% (2020 est.)<br>
+_male_: 33.5% (2020 est.)<br>
+_female_: 2.2% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 3% (2014)<br>
 
@@ -348,7 +353,7 @@ none; the government does not recognize any political parties or allow their for
 ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, CD, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, Paris Club (associate), PCA, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador SALEM Abdallah al-Jaber al-Sabah<br><br><br><br><br><br><br><br>SALEM Abdallah al-Jaber al-Sabah (since 10 October 2001)<br>
+_chief of mission_: Ambassador SALEM Abdallah al-Jaber al-Sabah (since 10 October 2021)<br>
 _chancery_: 2940 Tilden Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 966-0702<br>
 _FAX_: [1] (202) 966-8468<br>

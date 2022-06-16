@@ -224,6 +224,11 @@ _respiratory diseases_: meningococcal meningitis<br>
 **Obesity - adult prevalence rate**<br>
 5.5% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 7.4% (2020 est.)<br>
+_male_: 13.7% (2020 est.)<br>
+_female_: 1.1% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 31.3% (2019)<br>
 
@@ -746,7 +751,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic St
 <p>Libya claims about 25,000 sq km in a currently dormant dispute in the Tommo region; location of Benin-Niger-Nigeria tripoint is unresolved; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries; the dispute with Burkina Faso was referred to the ICJ in 2010</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 187,148 (Nigeria), 62,077 (Mali) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 187,139 (Nigeria), 62,077 (Mali) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 264,257 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

@@ -202,6 +202,11 @@ _unimproved: total_: total: 1.7% of population (2020 est.)<br>
 **Obesity - adult prevalence rate**<br>
 25.3% (2016)<br>
 
+**Tobacco use**<br>
+_total_: 20.8% (2020 est.)<br>
+_male_: 22.5% (2020 est.)<br>
+_female_: 19% (2020 est.)<br>
+
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
@@ -707,7 +712,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p>Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,421 (Ukraine) (as of 26 May 2022)<br>
+_refugees (country of origin)_: 34,842 (Ukraine) (as of 2 June 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>
