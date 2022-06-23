@@ -689,7 +689,7 @@ Kuwait has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Kuwait and Saudi Arabia continue negotiating a joint maritime boundary with Iran; no maritime boundary exists with Iraq in the Persian Gulf</p><br>
+<p><em>Kuwait-Iraq</em>: no maritime boundary exists with Iraq in the Persian Gulf</p> <p><em>Kuwait-Saudi Arabia</em>: their maritime boundary was established in 2000 and has a neutral zone but its extension to Iran’s maritime boundary has not been negotiated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 92,020 (mid-year 2021); note - Kuwait's 1959 Nationality Law defined citizens as persons who settled in the country before 1920 and who had maintained normal residence since then; one-third of the population, descendants of Bedouin tribes, missed the window of opportunity to register for nationality rights after Kuwait became independent in 1961 and were classified as bidun (meaning "without"); since the 1980s Kuwait's bidun have progressively lost their rights, including opportunities for employment and education, amid official claims that they are nationals of other countries who have destroyed their identification documents in hopes of gaining Kuwaiti citizenship; Kuwaiti authorities have delayed processing citizenship applications and labeled biduns as "illegal residents," denying them access to civil documentation, such as birth and marriage certificates<br>

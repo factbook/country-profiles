@@ -596,5 +596,5 @@ defense is the responsibility of France<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Matthew and Hunter Islands east of New Caledonia claimed by France and Vanuatu</p><br>
+<p><em>New Caledonia-France-Vanuatu</em>: Matthew and Hunter Islands east of New Caledonia claimed by France and Vanuatu</p><br>
 

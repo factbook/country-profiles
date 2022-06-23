@@ -373,7 +373,7 @@ _consulate(s) general_: Atlanta, Chicago, New York, San Francisco<br>
 _consulate(s)_: Boston<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Eva Weigold SCHULTZ (since 17 January 2021) note - also accredited to Liechtenstein<br>
+_chief of mission_: Ambassador Scott MILLER (since 11 January 2022) note - also accredited to Liechtenstein<br>
 _embassy_: Sulgeneckstrasse 19, CH-3007 Bern<br>
 _mailing address_: 5110 Bern Place, Washington DC&nbsp; 20521-5110<br>
 _telephone_: [41] (031) 357-70-11<br>
@@ -735,7 +735,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 53,120 (Ukraine) (as of 7 June 2022)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 55,921 (Ukraine) (as of 14 June 2022)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

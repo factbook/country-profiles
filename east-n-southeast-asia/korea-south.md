@@ -720,7 +720,7 @@ note(s) - women, in service since 1950, are able to serve in all branches, inclu
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953; periodic incidents with North Korea in the Yellow Sea over the Northern Limit Line, which South Korea claims as a maritime boundary; South Korea and Japan claim Liancourt Rocks (Tok-do/Take-shima), occupied by South Korea since 1954</p><br>
+<p><em>South Korea-Japan</em>: South Korea and Japan claim Liancourt Rocks (Tok-do/Take-shima), occupied by South Korea since 1954</p> <p><em>South Korea-North Korea</em>: Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953; periodic incidents with North Korea in the Yellow Sea over the Northern Limit Line, which South Korea claims as a maritime boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 204 (mid-year 2021)<br>

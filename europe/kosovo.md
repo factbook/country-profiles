@@ -307,7 +307,7 @@ _consulate(s) general_: New York<br>
 _consulate(s)_: Des Moines (IA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Philip KOSNETT (since 3 December 2018)<br>
+_chief of mission_: Ambassador Jeffrey M. HOVENIER (since 10 January 2022)<br>
 _embassy_: Arberia/Dragodan, Rr.&nbsp; 4 KORRIKU Nr. 25, Pristina<br>
 _mailing address_: 9520 Pristina Place, Washington DC&nbsp; 20521-9520<br>
 _telephone_: [383] 38-59-59-3000<br>
@@ -624,9 +624,9 @@ the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Serbia with several other states protest the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo authority continue to ensure a safe and secure environment and freedom of movement for all Kosovo citizens; Kosovo and North Macedonia completed demarcation of their boundary in September 2008; Kosovo ratified the border demarcation agreement with Montenegro in March 2018, but the actual demarcation has not been completed</p><br>
+<p>NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo authority continue to ensure a safe and secure environment and freedom of movement for all Kosovo citizens</p> <p><em>Kosovo-Albania</em>: none identified</p> <p><em>Kosovo-Montenegro</em>: their 2015 demarcation agreement was ratified by Montenegro in December 2015 and by Kosovo in March 2018, but the actual demarcation has not been completed; as of March 2021, Kosovo Prime Minister Albin KURTI said that after the new Montenegrin government is formed, he would broach the subject of reopening the agreement</p> <p>Kosovo-North Macedonia: Kosovo and North Macedonia completed demarcation of their boundary in September 2008; both countries ratified the demarcation documents on October 17, 2009, after high-level consultations resolved the disputed section of border around Debelde/Tanusevci</p> <p><em>Kosovo-Serbia</em>: Serbia with several other states protest the US’s and other countries’ recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; Kosovo’s and Serbia’s temporary agreement on license plates expired on 21 April 2022; the two countries are meeting on 13 May to reach a permanent agreement</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2,004 as a result of violence) (2020)<br>
-<strong>note:</strong> 7,794 estimated refugee and migrant arrivals (January 2015-April 2022)<br>
+_IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2,004 as a result of violence) (2021)<br>
+<strong>note:</strong> 7,849 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
 

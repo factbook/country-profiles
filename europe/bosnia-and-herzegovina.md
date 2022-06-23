@@ -364,7 +364,7 @@ _email address and website_: <br>consularaffairs@bhembassy; info@bhembassy.org<b
 _consulate(s) general_: Chicago, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Eric NELSON (since 19 February 2019)<br>
+_chief of mission_: Ambassador Michael J. MURPHY (since 23 February 2022)<br>
 _embassy_: 1 Robert C. Frasure Street, 71000 Sarajevo<br>
 _mailing address_: 7130 Sarajevo Place, Washington DC&nbsp; 20521-7130<br>
 _telephone_: [387] (33) 704-000<br>
@@ -614,7 +614,7 @@ _total subscriptions_: 3,509,674 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Bosnia-Herzegovina aims for national LTE coverage through integration with European Union (EU); roaming agreements with EU and Balkan neighbors; fixed-line broadband is underdeveloped, investments in mobile upgrades facilitate broadband connectivity to a greater extent than in Europe; DSL and cable are the main platforms for fixed-line connectivity while fiber broadband has a small market presence; operators support broadband in rural areas where fixed-line infrastructure is insufficient; LTE services under test licenses; 5G awaits market maturity; importer of broadcasting equipment from China</p> (2021)<br>
+_general assessment_: the telecom market has been liberalized and a regulatory framework created based on the EU&rsquo;s regulatory framework for communications; although Bosnia-Herzegovina remains an EU candidate country, in July 2017 it applied amended mobile roaming charges to fit in with changes introduced across the Union; further roaming agreements were made in 2019 with other western Balkan countries; the largest operator BH Telecom is the dominant provider, while Telekom Srpske operates in Republika Srpska and HT Mostar is active in Herzegovina;&nbsp; these three incumbent operators control 99% of the market; all three are subject to specific obligations designed to improve competition; the fixed-line broadband network is comparatively underdeveloped, with the result that investments made in mobile upgrades by BH Telecom and Telekom Srpske are facilitating broadband connectivity in the country to a greater extent than is common elsewhere in Europe; internet services are available through the incumbents and a number of alternative operators; DSL and cable are the main platforms for fixed-line connectivity, while fiber broadband as yet has only a small market presence; the three MNOs, each affiliated with one of the incumbent fixed-line operators, provide national coverage with 3G, though LTE coverage is only about 89%; their upgraded networks are helping to support broadband in rural areas where fixed-line infrastructure is insufficient; mobile data and mobile broadband offers will provide future revenue growth given the limited potential of mobile voice services; the MNOs tested LTE services under trial licenses from 2013, commercial launches were delayed until the award of spectrum in early 2019; the regulator stipulated that licenses must provide national coverage within five years; trials of 5G technology have been undertaken, though there are no plans to launch services commercially in the short term, given that the MNOs can continue to exploit the capacity of their existing LTE networks. (2021)<br>
 _domestic_: fixed-line teledensity roughly 22 per 100 persons and mobile-cellular subscribership stands at 107 telephones per 100 persons (2020)<br>
 _international_: country code - 387; no satellite earth stations<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -718,9 +718,9 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
-_IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
+_IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note:</strong> 91,361 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
+<strong>note:</strong> 92,443 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

@@ -335,7 +335,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Umaro Sissoko EMBALO (since 27 February 2020); note - President EMBALO was declared winner of the 29 December 2019 runoff presidential election by the electoral commission. In late February 2020, Embalo inaugurated himself with only military leadership present, even though the Supreme Court of Justice had yet to rule on an electoral litigation appeal lodged by his political rival Domingos Simoes PEREIRA.<br>
+_chief of state_: President Umaro Sissoko EMBALO (since 27 February 2020); note - President EMBALO was declared winner of the 29 December 2019 runoff presidential election by the electoral commission. In late February 2020, EMBALO inaugurated himself with only military leadership present, even though the Supreme Court of Justice had yet to rule on an electoral litigation appeal lodged by his political rival Domingos Simoes PEREIRA<br>
 _head of government_: Prime Minister Nuno NABIAM (since 27 February 2020)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 24 November 2019 with a runoff on 29 December 2019 (next to be held in 2024); prime minister appointed by the president after consultation with party leaders in the National People's Assembly; note - the president cannot apply for a third consecutive term, nor during the 5 years following the end of the second term<br>
@@ -361,7 +361,7 @@ ACP, AfDB, AOSIS, AU, CPLP, ECOWAS, FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IDB, I
 _chief of mission_: none; note - Guinea-Bissau does not have official representation in Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US Embassy suspended operations on 14 June 1998; the US Ambassador to Senegal is accredited to Guinea-Bissau. U.S. diplomatic representation in Guinea-Bissau is conducted through the U.S. Embassy in Dakar and the Guinea-Bissau Liaison Office located in Bissau.<br>
+_embassy_: the US Embassy suspended operations on 14 June 1998; the US Ambassador to Senegal is accredited to Guinea-Bissau; US diplomatic representation in Guinea-Bissau is conducted through the US Embassy in Dakar and the Guinea-Bissau Liaison Office located in Bissau<br>
 _mailing address_: 2080 Bissau Place, Washington DC&nbsp; 20521-2080<br>
 _email address and website_: <br>dakarACS@state.gov<br><br>https://gw.usmission.gov/<br>
 
@@ -657,16 +657,16 @@ note - the Public Order Police is responsible for maintaining law and order, whi
 1.7% of GDP (2017 est.) (approximately $45 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 4,000 total active troops, including a few hundred air and naval personnel (2021)<br>
+approximately 4,000 total active troops, including a few hundred air and naval personnel (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FARP is poorly armed with an inventory consisting of Soviet-era equipment, much of which is reportedly unserviceable; the only reported deliveries of military equipment since 2015 were patrol boats from Spain in 2017 and non-lethal equipment from China in 2015; Guinea-Bissau has also discussed acquiring military equipment with Indonesia (2021)<br>
+the FARP is poorly armed with an inventory consisting of Soviet-era equipment, much of which is reportedly unserviceable; the only reported deliveries of military equipment since 2015 were patrol boats from Spain in 2017 and non-lethal equipment from China in 2015; Guinea-Bissau has also discussed acquiring military equipment with Indonesia (2022)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for selective compulsory military service (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2021)<br>
+18-25 years of age for selective compulsory military service (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2022)<br>
 
 **Military - note**<br>
-<p>from 2012-2020, the Economic Community of West Africa (ECOWAS) deployed a security force to Guinea-Bissau to manage the post-coup transition, including protecting key political figures and public buildings, restoring civil institutions, and re-establishing the rule of law; at the height of the deployment, the force, known as the ECOWAS Mission in Guinea-Bissau (ECOMIB), deployed nearly 700 military and police personnel from Burkina Faso, Nigeria, and Senegal</p><br>
+from 2012-2020, the Economic Community of West Africa (ECOWAS) deployed a security force to Guinea-Bissau to manage the post-coup transition, including protecting key political figures and public buildings, restoring civil institutions, and re-establishing the rule of law; at the height of the deployment, the force, known as the ECOWAS Mission in Guinea-Bissau (ECOMIB), deployed nearly 700 military and police personnel from Burkina Faso, Nigeria, and Senegal (2022)<br>
 
 ## Transnational Issues
 

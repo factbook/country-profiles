@@ -359,7 +359,7 @@ _email address and website_: <br>ambassaden.washington@gov.se<br><br>https://www
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Pamela M. TREMONT (since 20 January 2021)<br>
+_chief of mission_: Ambassador Erik D. RAMANATHAN (since 20 January 2022)<br>
 _embassy_: Dag Hammarskjolds Vag 31, SE-115 89 Stockholm<br>
 _mailing address_: 5750 Stockholm Place, Washington, DC&nbsp; 20521-5750<br>
 _telephone_: [46] (08) 783-53-00<br>
@@ -721,6 +721,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 39,592 (Ukraine) (as of 25 May 2022)<br>
+_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 39,769 (Ukraine) (as of 13 June 2022)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

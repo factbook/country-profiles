@@ -375,7 +375,7 @@ _FAX_: [1] (202) 986-1805<br>
 _email address and website_: <br>usa@mfa.gov.by<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Julie Fisher (since 23 December 2020); Charge d'Affaires Ruben HARUTUNIAN (since May 2021)<br>
+_chief of mission_: Ambassador Julie Fisher (since 23 December 2020)<br>
 _embassy_: 46 Starovilenskaya Street, Minsk 220002<br>
 _mailing address_: 7010 Minsk Place, Washington DC&nbsp; 20521-7010<br>
 _telephone_: [375] (17) 210-12-83/217-73-47/217-73-48<br>
@@ -624,10 +624,10 @@ _total subscriptions_: 11,704,084 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 124 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: government owns and administers backbone network and much of telecom market with no independent regulator; government and telecom regulator are concluding three major programs aimed at developing the telecom sector and digital economy to enable 5G services and extension of fiber infrastructure; growing applications for smart cities; developing mobile broadband and data services to rural areas; commercial LTE services extended to 80% of the population; operators provide standalone 5G service and NB-IoT services; international connection through fiber optic and terrestrial link, nascent satellite system; importer of broadcasting equipment from China (2020)<br>
+_general assessment_: the government of Belarus has successfully promoted the migration to an all-IP platform as part of a wider effort towards a digital transformation for the economy; the state-supported infrastructure operator beCloud has built an extensive fiber network which reaches all but the smallest settlements in the country; Belarus has the second highest fiber subscription rate in Europe, behind only Iceland; LTE coverage is almost universal, while considerable progress has also been made in developing 5G services. (2021)<br>
 _domestic_: fixed-line teledensity is improving although rural areas continue to be underserved, approximately 47 per 100 fixed-line; mobile-cellular teledensity now roughly 124 telephones per 100 persons (2020)<br>
 _international_: country code - 375; Belarus is landlocked and therefore a member of the Trans-European Line (TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the Trans-Siberia Line (TSL); 3 fiber-optic segments provide connectivity to Latvia, Poland, Russia, and Ukraine; worldwide service is available to Belarus through this infrastructure; additional analog lines to Russia; Intelsat, Eutelsat, and Intersputnik earth stations; almost 31,000 base stations in service in 2019 (2020)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+<strong>note:</strong> the Coronavirus pandemic is having a significant impact on production and supply chains globally. During the coming year, the telecoms sector to various degrees is likely to experience a downturn in mobile device production, while it may also be difficult for network operators to manage workflows when maintaining and upgrading existing infrastructure.<br>
 
 **Broadcast media**<br>
 7 state-controlled national TV channels; Polish and Russian TV broadcasts are available in some areas; state-run Belarusian Radio operates 5 national networks and an external service; Russian and Polish radio broadcasts are available (2019)<br>
@@ -727,7 +727,7 @@ note - conscripts can be assigned to the military, as well as the Ministry of In
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,654 (border crossings from Ukraine as of 13 June 2022)<br>
+_refugees (country of origin)_: 16,655 (border crossings from Ukraine as of 15 June 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

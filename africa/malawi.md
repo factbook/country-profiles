@@ -294,7 +294,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Malawi is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to reduced incomes and shortfalls in cereal producation - an estimated 1.65 million people are facing "Crisis" levels of food insecurity between January and March 2022, underpinned by localized shortfalls in cereal production and the lingering impact of an economic downturn due to the COVID-19 pandemic; the effects of poor rains at the start of the cropping season and tropical storm Ana in January 2022 are expected to cause an increase in humanitarian needs later in 2022, due to crop and livelihood losses (2022)<br>
+_severe localized food insecurity_: <em>due to reduced incomes and shortfalls in cereal production -</em> an estimated 1.65 million people are facing "Crisis" levels of food insecurity between January and March 2022, underpinned by localized shortfalls in cereal production and the lingering impact of an economic downturn due to the COVID-19 pandemic; the effects of poor rains at the start of the cropping season and tropical storm Ana in January 2022 are expected to cause an increase in humanitarian needs later in 2022, due to crop and livelihood losses (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,297,844 tons (2013 est.)<br>
@@ -395,7 +395,7 @@ _FAX_: [1] (202) 721-0288<br>
 _email address and website_: <br>malawiembassy-dc.org<br><br>http://www.malawiembassy-dc.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Charge d' Affaires Jeremy NEITZKE (26 October 2021&nbsp;<br>
+_chief of mission_: Ambassador David YOUNG (since 5 May 2022)<br>
 _embassy_: 16 Jomo Kenyatta Road, Lilongwe 3<br>
 _mailing address_: 2280 Lilongwe Place, Washington DC&nbsp; 20521-2280<br>
 _telephone_: [265] (0) 177-3166<br>
@@ -730,8 +730,8 @@ the Malawi Defense Force&rsquo;s primary responsibility is external security; it
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
+<p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Malawi-Zambia</em>: border demarcation was completed in 2011; in 2018, the redemarcation exercise determined that some parts of Malawi actually belonged to Zambia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,606 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,377 (Burundi) (refugees and asylum seekers), 7,526 (Rwanda) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 33,606 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,530 (Burundi) (refugees and asylum seekers), 7,596 (Rwanda) (refugees and asylum seekers) (2022)<br>
 

@@ -646,7 +646,7 @@ defense is the responsibility of the US<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>claims US territory of Wake Island</p><br>
+<p><em>Marshall Islands-US</em>: claims US territory of Wake Island; the Marshall Islands put its claim on record with the UN in 2016</p> <p> </p><br>
 
 **Trafficking in persons**<br>
 _current situation_: The Marshall Islands are a destination country for women from East Asia subjected to sex trafficking; foreign women are reportedly forced into prostitution in bars frequented by crew members of fishing vessels; some Chinese women are recruited to the Marshall Islands with promises of legitimate work and are subsequently forced into prostitution; wealthy or powerful families use traditional cultural practices to exploit impoverished Marshallese from outer islands as indentured laborers on their property; Marshallese children are transported to the United States and subjected to sexual abuse<br>

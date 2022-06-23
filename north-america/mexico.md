@@ -766,11 +766,11 @@ the constitution was amended in 2019 to grant the president the authority to use
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements; the US has intensified security measures to monitor and control legal and illegal personnel, transport, and commodities across its border with Mexico; Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US; Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty</p><br>
+<p><em>Mexico-Belize</em>: Mexico and Belize are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty</p> <p><em>Mexico-Guatemala</em>: Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US</p> <p><em>Mexico-US</em>: the US has intensified security measures to monitor and control legal and illegal persons, transport, and commodities across its border with Mexico</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 22,254 (Honduras), 10,662 (El Salvador) (mid-year 2021); 82,976 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
-_IDPs_: 357,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2020)<br>
+_IDPs_: 379,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2021)<br>
 _stateless persons_: 13 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -292,7 +292,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mauritania is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to poor performance of cereal production - domestic cereal production declined in 2021 due to poor weather, which is likely to worsen conditions of the most vulnerable households; in the upcoming peak of the lean season, between June and August 2022, 660,000 people are projected to face severe food insecurity (2022)<br>
+_severe localized food insecurity_: <em>due to poor performance of cereal production -</em> domestic cereal production declined in 2021 due to poor weather, which is likely to worsen conditions of the most vulnerable households; in the upcoming peak of the lean season, between June and August 2022, 660,000 people are projected to face severe food insecurity (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 454,000 tons (2009 est.)<br>
@@ -740,10 +740,10 @@ Al-Qaeda in the Islamic Maghreb (AQIM)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Mauritanian claims to Western Sahara remain dormant</p><br>
+<p><em>Mauritania-Algeria</em>: none identified</p> <p><em>Mauritania-Mali</em>: there are no border disputes, but the border has not been demarcated; talks on demarcation were reportedly being held in February 2022</p> <p><em>Mauritania-Morocco</em>: Mauritanian claims to Western Sahara remain dormant; tensions arose in 2016 when Mauritanian soldiers were deployed to Lagouira, a city in the southernmost part of Morocco, and raised their flag</p> <p><em>Mauritania-Senegal</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 84,526 (Mali) (2022)<br>
+_refugees (country of origin)_: 26,001 (Sahrawis) (mid-year 2021); 85,083 (Mali) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Mauritania is a source, transit, and destination country for men, women, and children subjected to conditions of forced labor and sex trafficking; adults and children from traditional slave castes are subjected to slavery-related practices rooted in ancestral master-slave relationships; Mauritanian boys&nbsp; are trafficked within the country by religious teachers for forced begging; Mauritanian girls, as well as girls from Mali, Senegal, The Gambia, and other West African countries, are forced into domestic servitude; Mauritanian women and girls are forced into prostitution in the country or transported to countries in the Middle East for the same purpose<br>

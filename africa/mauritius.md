@@ -680,7 +680,7 @@ service is voluntary (2022)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Mauritius and Seychelles claim the Chagos Islands (UK-administered British Indian Ocean Territory); claims French-administered Tromelin Island</p><br>
+<p>Mauritius and Seychelles claim the Chagos Islands (UK-administered British Indian Ocean Territory); claims French-administered Tromelin Island</p> <p><em>Mauritius-France</em>: Mauritius has claimed French-administered Tromelin Island (part of the French Southern and Antarctic Lands) since 1976<br><br><em>Mauritius-UK</em>: Mauritius and Seychelles claim the Chagos Islands (UK-administered British Indian Ocean Territory)</p><br>
 
 **Trafficking in persons**<br>
 _current situation_: Mauritius is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Mauritian girls are induced or sold into prostitution, often by peers, family members, or businessmen offering other forms of employment; Mauritian adults have been identified as labor trafficking victims in the UK, Belgium, and Canada, while Mauritian women from Rodrigues Island are also subject to domestic servitude in Mauritius; Malagasy women transit Mauritius en route to the Middle East for jobs as domestic servants and subsequently are subjected to forced labor; Cambodian men are victims of forced labor on foreign fishing vessels in Mauritius’ territorial waters; other migrant workers from East and South Asia and Madagascar are also subject to forced labor in Mauritius’ manufacturing and construction sectors<br>

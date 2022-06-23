@@ -390,7 +390,7 @@ _email address and website_: <br>info@serbiaembusa.org<br><br>http://www.washing
 _consulate(s) general_: Chicago, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Anthony GODFREY (since 24 October 2019)<br>
+_chief of mission_: Ambassador Christopher R. HILL (since 1 April 2022)<br>
 _embassy_: 92 Bulevar kneza Aleksandra Karadjordjevica, 11040 Belgrade<br>
 _mailing address_: 5070 Belgrade Place, Washington, DC 20521-5070<br>
 _telephone_: [381] (11) 706-4000<br>
@@ -736,10 +736,10 @@ Serbia does not aspire to join NATO, but has cooperated with the Alliance since 
 <p>Serbia with several other states protest the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; several thousand NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo authority continue to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority in Kosovo; Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 7,704 (Ukraine) (includes Kosovo; as of 7 June 2022)<br>
+_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 7,704 (Ukraine) (includes Kosovo; as of 14 June 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 837,861 estimated refugee and migrant arrivals (January 2015-June 2022); Serbia is predominantly a transit country and hosts an estimated 4,650 migrants and asylum seekers as of February 2022<br>
+<strong>note:</strong> 841,105 estimated refugee and migrant arrivals (January 2015-June 2022); Serbia is predominantly a transit country and hosts an estimated 5,918 migrants and asylum seekers as of May 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

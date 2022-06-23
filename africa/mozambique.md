@@ -293,7 +293,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Mozambique is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <p>due to localized shortfalls in staple food production, insecurity in northern areas, extreme weather events - an estimated 1.9 million people require humanitarian assistance until at least March 2022, primarily due to shortfalls in food production and the impact of insecurity in the northern province of Cabo Delgado, where populations are experiencing the severest levels of acute food insecurity; approximately 24,000 people are facing "Emergency" levels of food insecurity; cyclones and tropical storms in early 2022 have affected a large number of people, particularly in central provinces, and the number of food insecure people is expected to increase in late 2022</p> (2022)<br>
+_severe localized food insecurity_: <p><em>due to localized shortfalls in staple food production, insecurity in northern areas, and extreme weather events -</em> an estimated 1.9 million people require humanitarian assistance until at least March 2022, primarily due to shortfalls in food production and the impact of insecurity in the northern province of Cabo Delgado, where populations are experiencing the severest levels of acute food insecurity; approximately 24,000 people are facing "Emergency" levels of food insecurity; cyclones and tropical storms in early 2022 have affected a large number of people, particularly in central provinces, and the number of food insecure people is expected to increase in late 2022</p> (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.5 million tons (2014 est.)<br>
@@ -395,7 +395,7 @@ _FAX_: [1] (202) 835-0245<br>
 _email address and website_: <br>washington.dc@embamoc.gov.mz<br><br>https://usa.embamoc.gov.mz/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Dennis Walter HEARNE (since 3 April 2019)<br>
+_chief of mission_: Ambassador Peter Hendrick VROOMAN (since 3 March 2022)<br>
 _embassy_: Avenida Kenneth Kaunda, 193, Caixa Postal, 783, Maputo<br>
 _mailing address_: 2330 Maputo Place, Washington DC&nbsp; 20521-2330<br>
 _telephone_: [258] (21) 49-27-97<br>
@@ -729,7 +729,7 @@ note - the FADM and other security forces are referred to collectively as the De
 0.9% of GDP (2017 est.) (approximately $170 million)<br>
 
 **Military and security service personnel strengths**<br>
-information limited and varied; approximately 12,000 personnel (11,000 Army; 200 Navy; 800 Air Force) (2021)<br>
+information limited and varied; approximately 12,000 personnel (11,000 Army and about 1,000 Air Force and Navy) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FADM's inventory consists primarily of Soviet-era equipment, although since 2010 it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2021)<br>
@@ -738,7 +738,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although since 
 registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2021)<br>
 
 **Military - note**<br>
-the Government of Mozambique is facing an insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of 2022, the fighting had left an estimated 3,000 dead and over 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of 2022, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US were providing various forms of military assistance; African countries have provided approximately 3,100 troops<br>
+the Government of Mozambique is facing an insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of 2022, the fighting had left an estimated 4,000 dead and over 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of 2022, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US were providing various forms of military assistance; African countries have provided approximately 3,100 troops (2022)<br>
 
 ## Terrorism
 
@@ -749,11 +749,11 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
+<p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 10,911 (Democratic Republic of Congo) (refugees and asylum seekers), 8,558 (Burundi) (refugees and asylum seekers) (2022)<br>
-_IDPs_: 881,047 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
+_IDPs_: 744,949 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>
 used by transnational organized crime networks from West and East Africa and South Asia as a transit point for drug trafficking and international money laundering; heroin from Southwest Asia, cocaine from South America, precursor chemicals and controlled pharmaceuticals from India, and methamphetamine from Nigeria transit destined for Southern Africa, Northern Africa, Europe, Canada, and the United States; cannabis is cultivated in Mozambique<br>

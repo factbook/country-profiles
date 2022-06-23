@@ -288,7 +288,7 @@ _conventional short form_: Qatar<br>
 _local long form_: Dawlat Qatar<br>
 _local short form_: Qatar<br>
 _etymology_: the origin of the name is uncertain, but it dates back at least 2,000 years since a term "Catharrei" was used to describe the inhabitants of the peninsula by Pliny the Elder (1st century A.D.), and a "Catara" peninsula is depicted on a map by Ptolemy (2nd century A.D.)<br>
-<strong>note:</strong> closest approximation of the native pronunciation is gattar or cottar<br>
+<strong>note:</strong> closest approximation of the native pronunciation is gat-tar or cot-tar<br>
 
 **Government type**<br>
 absolute monarchy<br>
@@ -358,7 +358,7 @@ _email address and website_: <br>info.dc@mofa.gov.qa<br><br>https://washington.e
 _consulate(s) general_: Houston, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: <p>chief of mission: ambassador (vacant); Charge d'Affaires Natalie A. BAKER (since October 2021)</p><br>
+_chief of mission_: <p>Ambassador (vacant); Charge d'Affaires Evyenia SIDEREAS<br><br></p><br>
 _embassy_: 22 February Street, Al Luqta District, P.O. Box 2399, Doha<br>
 _mailing address_: 6130 Doha Place, Washington DC&nbsp; 20521-6130<br>
 _telephone_: [974] 4496-6000<br>

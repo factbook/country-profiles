@@ -261,7 +261,7 @@ _urban population_: 56.8% of total population (2022)<br>
 _rate of urbanization_: 5.38% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: due to civil conflict and a stagnant economy - battered by ten years of conflict and spill‑over effects from the financial crisis in Lebanon which used to act as a financial intermediary, the national economy continues to weaken; a nationwide food security assessment estimates that about 12.4 million people (60% of the overall population) are now food insecure in 2021, mostly due to constrained livelihood opportunities and a rapidly worsening economy (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to civil conflict and a stagnant economy -</em> battered by ten years of conflict and spill‑over effects from the financial crisis in Lebanon which used to act as a financial intermediary, the national economy continues to weaken; a nationwide food security assessment estimates that about 12.4 million people (60% of the overall population) are now food insecure in 2021, mostly due to constrained livelihood opportunities and a rapidly worsening economy (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.5 million tons (2009 est.)<br>

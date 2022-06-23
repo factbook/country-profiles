@@ -295,7 +295,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to high food prices and economic downturn - an estimated 3 million people are projected to be in need of humanitarian assistance between January and March 2022, largely on account of poor food access due to prevailing high food prices and reduced incomes owing to the effects of an economic downturn; below-average rainfall and extreme weather events in 2021/22 are likely to result in a decrease in cereal production and heighten food insecurity later in 2022 (2022)<br>
+_widespread lack of access_: <em>due to high food prices and economic downturn -</em> an estimated 3 million people are projected to be in need of humanitarian assistance between January and March 2022, largely on account of poor food access due to prevailing high food prices and reduced incomes owing to the effects of an economic downturn; below-average rainfall and extreme weather events in 2021/22 are likely to result in a decrease in cereal production and heighten food insecurity later in 2022 (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,449,752 tons (2015 est.)<br>
@@ -395,7 +395,7 @@ _FAX_: [1] (202) 483-9326<br>
 _email address and website_: <br>general@zimembassydc.org<br><br>https://zimembassydc.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Thomas R. HASTINGS (since August 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Thomas R. HASTINGS (since August 2021)<br>
 _embassy_: 2 Lorraine Drive, Bluffhill, Harare<br>
 _mailing address_: 2180 Harare Place, Washington DC&nbsp; 20521-2180<br>
 _telephone_: [263] 867-701-1000<br>

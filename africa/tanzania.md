@@ -300,7 +300,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to localized shortfalls in staple food production - about 437,000 people were estimated to be in need of humanitarian assistance between November 2021 and April 2022, mainly located in northeastern Mara, Arusha, Kilimanjaro and Tanga regions, reflecting a reduced &ldquo;Vuli&rdquo; harvest due to poor rains (2022)<br>
+_severe localized food insecurity_: <em>due to localized shortfalls in staple food production -</em> about 437,000 people were estimated to be in need of humanitarian assistance between November 2021 and April 2022, mainly located in northeastern Mara, Arusha, Kilimanjaro and Tanga regions, reflecting a reduced “Vuli” harvest due to poor rains (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 9,276,995 tons (2012 est.)<br>
@@ -763,7 +763,7 @@ Islamic State of Iraq and ash-Sham - Mozambique<br>
 <p>dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 127,104 (Burundi), 80,599 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 127,330 (Burundi), 80,599 (Democratic Republic of the Congo) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>

@@ -635,7 +635,7 @@ _total subscriptions_: 49,350,724 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: liberalized telecom market supported by market competition in broadband and mobile sectors ensuring access to cable and fiber infrastructure; rapid extension of LTE networks and development of mobile data service; mobile penetration is above European average; fixed broadband benefits from DSL infrastructure and investment in fiber through EU support; major importer of broadcasting equipment and accessories from Germany (2020)<br>
+_general assessment_: the liberalized telecom market has seen considerable development in the broadband and mobile sectors; the incumbent telco, Orange Poland, dominates the broadband market and has invested in fiber infrastructure to support the growing adoption of bundled services among customers; the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure; the mobile market in recent years has been characterized by the rapid extension of LTE networks and the development of mobile data services based on newly released and re-farmed spectrum; the regulator&rsquo;s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been suspended to later in 2021 as a result of the Covid-19 outbreak and legislative changes.&nbsp; (2021)<br>
 _domestic_: several nation-wide networks provide mobile-cellular service; fixed-line roughly 15 per 100 (service lags in rural areas), mobile-cellular over 130 per 100 persons (2020)<br>
 _international_: country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -755,7 +755,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 3,954,957 (border crossings from Ukraine as of 13 June 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 4,001,921 (border crossings from Ukraine as of 15 June 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

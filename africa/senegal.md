@@ -298,7 +298,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Senegal is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to localized shortfalls in cereal production - about 770,000 people are projected to face severe food insecurity between June and August 2022, reflecting persisting food access constraints; mostly on account of localized shortfalls in cereal production and reduced incomes owing to the impact of the COVID-19 pandemic (2022)<br>
+_severe localized food insecurity_: <em>due to localized shortfalls in cereal production -</em> about 770,000 people are projected to face severe food insecurity between June and August 2022, reflecting persisting food access constraints; mostly on account of localized shortfalls in cereal production and reduced incomes owing to the impact of the COVID-19 pandemic (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,454,059 tons (2016 est.)<br>
@@ -725,13 +725,13 @@ note - the National Police operates in major cities, while the Gendarmerie prima
 1.5% of GDP (2017) (approximately $430 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2021)<br>
+approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAS inventory includes mostly older or second-hand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program; since 2010, it has received newer equipment from nearly 15 countries, with France as the leading supplier (2021)<br>
+the FAS inventory includes mostly older or second-hand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has undertaken a modernization program; since 2010, it has received newer equipment from nearly 15 countries, with France as the leading supplier (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service (men and women); 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2021)<br>
+18 years of age for voluntary military service (men and women); 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2022)<br>
 
 **Military deployments**<br>
 750 Gambia (ECOMIG); 970 Mali (MINUSMA); note - Senegal also has about 1,100 police deployed on various UN peacekeeping missions (2022)<br>
@@ -750,8 +750,8 @@ Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 <p>cross-border trafficking in persons, timber, wildlife, and cannabis; rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,375 (Mauritania) (2022)<br>
-_IDPs_: 8,400 (2020)<br>
+_refugees (country of origin)_: 14,199 (Mauritania) (2022)<br>
+_IDPs_: 8,400 (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Senegal is a source, transit, and destination country for children and women who are subjected to forced begging, forced labor, and sex trafficking; traffickers subject Senegalese children to forced labor in domestic service, mining, and prostitution; some Senegalese boys from Quranic schools and boys from The Gambia, Mali, Guinea-Bissau, and Guinea are forced to beg; Senegalese women and girls are forced into domestic servitude in neighboring countries, Europe, and the Middle East, while others are sexually exploited in Senegal; women and girls from other West African countries are subjected to domestic servitude and sexual exploitation in Senegal; Ukrainian and Chinese women are exploited for sex trafficking in bars and nightclubs; North Korean workers are forced to work in construction<br>

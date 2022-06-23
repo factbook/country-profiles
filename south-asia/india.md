@@ -775,7 +775,7 @@ Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujah
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 92,885 (Sri Lanka), 73,407 (Tibet/China), 20,325 (Burma), 8,537 (Afghanistan) (mid-year 2021)<br>
-_IDPs_: 473,000 (armed conflict and intercommunal violence) (2020)<br>
+_IDPs_: 506,000 (armed conflict and intercommunal violence) (2021)<br>
 _stateless persons_: 19,677 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

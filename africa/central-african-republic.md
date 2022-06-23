@@ -286,7 +286,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Central African Republic is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: due to internal conflict - persisting conflicts and displacements are expected to continue affecting agricultural activities and limit farmers&rsquo; access to crop growing areas and inputs, with a negative impact on 2022 crop production; in most prefectures, civil insecurity in 2021 continued to cause population displacements and widespread disruption of agricultural and marketing activities with negative consequences on food availability and access; the socio‑economic effects of the COVID‑19 pandemic, coupled with the high level of prices of some food staples, reduced substantially the households&rsquo; purchasing power (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict -</em> persisting conflicts and displacements are expected to continue affecting agricultural activities and limit farmers’ access to crop growing areas and inputs, with a negative impact on 2022 crop production; in most prefectures, civil insecurity in 2021 continued to cause population displacements and widespread disruption of agricultural and marketing activities with negative consequences on food availability and access; the socio‑economic effects of the COVID‑19 pandemic, coupled with the high level of prices of some food staples, reduced substantially the households’ purchasing power (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>
@@ -388,7 +388,7 @@ _FAX_: [1] (202) 332-9893<br>
 _email address and website_: <br>pc@usrcaembassy.org<br><br>https://www.usrcaembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Lucy TAMLYN (since 11 January 2019)<br>
+_chief of mission_: Ambassador Patricia A. MAHONEY (since 8 April 2022)<br>
 _embassy_: Avenue David Dacko, Bangui<br>
 _mailing address_: 2060 Bangui Place, Washington DC&nbsp; 20521-2060<br>
 _telephone_: [236] 2161-0200<br>
@@ -709,5 +709,5 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,702 (Democratic Republic of Congo) (2022)<br>
-_IDPs_: 652,036 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
+_IDPs_: 658,265 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
 

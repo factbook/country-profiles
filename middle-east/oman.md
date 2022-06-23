@@ -697,7 +697,7 @@ the Sultan’s Armed Forces (SAF) have a longstanding security relationship with
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>boundary agreement reportedly signed and ratified with UAE in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah exclave, but details of the alignment have not been made public</p><br>
+<p><em>Oman-Saudi Arabia</em>: none identified</p> <p><em>Oman-UAE</em>: boundary agreement reportedly signed and ratified with UAE in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah exclave, but details of the alignment have not been made public; Oman and UAE signed the final demarcation of their land border in 2008</p> <p><em>Oman-Yemen</em>: Oman and Yemen signed a border agreement in 1992; demarcation of their border was completed in 1995</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,000 (Yemen) (2017)<br>

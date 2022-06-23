@@ -607,7 +607,7 @@ _total subscriptions_: 11,529,728 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 99 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Belgium has a highly developed, technologically advanced telecom system; LTE is nearly universal; ongoing investment in 5G with services to dozens of cities and towns; competition between the DSL and cable platforms with investment in fiber networks; 5G; operators accelerating fiber roll-out program; Brussels Airport collaborating with operator to deploy 5G and IoT solutions; international connections through satellite and submarine cables; importer of broadcast equipment from EU neighbors (2020)<br>
+_general assessment_: Belgium&rsquo;s mobile market is served by the three network operators Proximus, Orange Belgium and BASE, and by a good number of MVNOs; mobile networks have been upgraded to support growing mobile data use among subscribers, with near-comprehensive LTE coverage; operators have also trialed 5G in preparation for launching services; the auction of 5G-suitable spectrum has been delayed to the beginning of 2022, while the onerous restrictions on radiation have meant that some 5G trials have been suspended; there is effective competition in Belgium between the DSL and cable platforms, while in recent years government support has also encouraged investment in fiber networks; Telenet, supported by its parent Liberty Global, has extended the reach of services based on the DOCSIS3.1 standard, while Proximus also has extensive fibre/VDSL and FttP deployments and is currently investing in &euro;3 billion 'Fibre for Belgium' program through to 2027; in a bid to encourage investment in under served areas, the regulator in 2018 amended the conditions by which market players grant wholesale access to copper and fiber infrastructure; in May 2019 it opened a further consultation on cost models for access to the networks of cablecos and those of Proximus&rsquo;s fibre infrastructure.&nbsp; (2021)<br>
 _domestic_: about 31 per 100 fixed-line and 99 per 100 mobile-cellular; nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network (2020)<br>
 _international_: country code - 32; landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine cables that provide links to Europe, the Middle East, Australia and Asia; satellite earth stations - 7 (Intelsat - 3) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -721,7 +721,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 45,882 (Ukraine) (as of 6 June 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 47,477 (Ukraine) (as of 14 June 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

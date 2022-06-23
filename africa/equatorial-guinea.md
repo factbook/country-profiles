@@ -347,7 +347,7 @@ _email address and website_: <br>info@egembassydc.com<br><br>https://www.egembas
 _consulate(s) general_: Houston<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Susan N. STEVENSON (since 11 April 2019)<br>
+_chief of mission_: Ambassador David R. GILMOUR (since 24 May 2022)<br>
 _embassy_: Malabo II Highway (between the Headquarters of Sonagas and the offices of the United Nations), Malabo<br>
 _mailing address_: 2320 Malabo Place, Washington, DC 20521-2520<br>
 _telephone_: [240] 333 09-57-41<br>

@@ -394,7 +394,7 @@ _email address and website_: <br>info@ghanaembassydc.org<br><br>https://ghanaemb
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Stephanie S. SULLIVAN (since 23 January 2019)<br>
+_chief of mission_: Ambassador Virginia E. PALMER (since 16 June 2022)<br>
 _embassy_: No.24, Fourth Circular Road, Cantonments, Accra, P.O. Box 2288, Accra<br>
 _mailing address_: 2020 Accra Place, Washington DC&nbsp; 20521-2020<br>
 _telephone_: [233] (0) 30-274-1000<br>
@@ -642,7 +642,7 @@ _total subscriptions_: 40,461,609 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity (2022)<br>
+_general assessment_: challenged by unreliable electricity and shortage of skilled labor, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure and off-grid solutions provide data coverage to over 23 million people; launch of LTE has improved mobile data services, including m-commerce and banking; moderately competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity; LTE services are widely available, only MTN Ghana has thus far signaled a willingness to invest in 5G; the relatively high cost of 5G-compatible devices also inhibits most subscribers from migrating from 3G and LTE platforms. (2022)<br>
 _domestic_: fixed-line data about 1 per 200 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a voice subscribership of more than 130 per 100 persons (2022)<br>
 _international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; GhanaSat-1 nanosatellite launched in 2017 (2017)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -721,13 +721,13 @@ Ghana Armed Forces: Army, Navy, Air Force (2022)<br>
 0.3% of GDP (2017 est.) (approximately $300 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>
+approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Western equipment; since 2010, China is the leading supplier of arms (2021)<br>
+the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Western equipment; since 2010, China is the leading supplier of arms (2022)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service, with basic education certificate; no conscription (2021)<br>
+18-26 years of age for voluntary military service, with basic education certificate; no conscription (2022)<br>
 
 **Military deployments**<br>
 150 Mali (MINUSMA); 875 Lebanon (UNIFIL); 730 (plus about 300 police) South Sudan (UNMISS) (Jan 2022)<br>
@@ -744,7 +744,7 @@ the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Wester
 <p>disputed maritime border between Ghana and Cote d'Ivoire</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,779 (Cote d'Ivoire) (flight from 2010 post-election fighting) (2022)<br>
+_refugees (country of origin)_: 5,635 (Cote d'Ivoire) (flight from 2010 post-election fighting) (2022)<br>
 
 **Illicit drugs**<br>
 a transit and destination point for illicit drugs trafficked from Asia and South America to other African nations and Europe, and to a lesser extent the United States; cultivation of cannabis for domestic use and is trafficked to regional markets or to Europe<br>

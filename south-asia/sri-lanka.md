@@ -373,7 +373,7 @@ _email address and website_: <br>slembassy@slembassyusa.org<br><br>https://slemb
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Julie CHUNG (since 17 February 2022)<br>
+_chief of mission_: Ambassador Julie J. CHUNG (since 17 February 2022)<br>
 _embassy_: 210 Galle Road, Colombo 03<br>
 _mailing address_: 6100 Colombo Place, Washington DC&nbsp; 20521-6100<br>
 _telephone_: [94] (11) 249-8500<br>
@@ -732,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Liberation Tigers of Tamil Eelam (LTT
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 27,000 (civil war; more than half displaced prior to 2008; many of the more than 480,000 IDPs registered as returnees have not reached durable solutions) (2020)<br>
+_IDPs_: 12,000 (civil war; more than half displaced prior to 2008; many of the more than 480,000 IDPs registered as returnees have not reached durable solutions) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Sri Lanka is primarily a source and, to a much lesser extent, a destination country for men, women, and children subjected to forced labor and sex trafficking; the majority of trafficking cases involve traffickers forcing Sri Lankan workers into labor overseas; men, women, and children are subjected to forced labor in the Middle East, Asia, Europe, and the United States in construction, garment manufacturing, and domestic service; authorities have identified labor trafficking victims among Sri Lankan female migrant workers who seek employment in Saudi Arabia, Kuwait, Qatar, Japan, and South Korea; traffickers force children, individuals with physical deformities, and those from socially vulnerable groups to beg or engage in criminal activity in Sri Lanka&rsquo;s largest cities<br>

@@ -262,7 +262,7 @@ _telephone_: [1] (202) 862-9500<br>
 _FAX_: [1] (202) 429-1766<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (Vacant); Charge D' Affaires Kelly Adams-Smith (since 1 July 2021)<br>
+_chief of mission_: Ambassador&nbsp; Mark GITENSTEIN (since 24 January 2022)<br>
 _embassy_: Zinnerstraat - 13 - Rue Zinner, B-1000 Brussels<br>
 _mailing address_: use embassy street address<br>
 _telephone_: [32] (2) 811-4100<br>

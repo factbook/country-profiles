@@ -372,7 +372,7 @@ _FAX_: [1] (202) 745-3679<br>
 _email address and website_: <br>info@pngembassy.org<br><br>http://www.pngembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Erin Elizabeth MCKEE (since 27&nbsp;November 2019); note - also accredited to the Solomon Islands and Vanuatu<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Joe ZADROZNY (since 14 April 2022); note - also accredited to the Solomon Islands and Vanuatu<br>
 _embassy_: P.O. Box 1492, Port Moresby<br>
 _mailing address_: 4240 Port Moresby Place, Washington DC&nbsp; 20521-4240<br>
 _telephone_: [675] 308-2100<br>
@@ -711,7 +711,7 @@ the PNGDF has a limited inventory consisting of a diverse mix of foreign-supplie
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 11,601 (Indonesia) (mid-year 2021)<br>
-_IDPs_: 14,000 (natural disasters, tribal conflict, inter-communal violence, development projects) (2020)<br>
+_IDPs_: 24,000 (natural disasters, tribal conflict, inter-communal violence, development projects) (2021)<br>
 _stateless persons_: 9 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

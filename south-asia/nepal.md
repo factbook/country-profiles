@@ -718,7 +718,7 @@ Indian Mujahedeen (2019)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>joint border commission continues to work on contested sections of boundary with India, including the 400 sq km dispute over the source of the Kalapani River; India has instituted a stricter border regime to restrict transit of illegal cross-border activities</p><br>
+<p><em>Nepal-China</em>: China may have constructed 11 buildings in Nepal’s Humla region in 2021</p> <p><em>Nepal-India</em>: joint border commission continues to work on contested sections of boundary with India, including the 400 sq km dispute over the source of the Kalapani River; the Kalapani issue resurfaced in November 2019 when India issued a new map showing the contested area within India’s borders and then built a new road in the region through Lipulekh pass, an area controlled by India but claimed by Nepal; Nepal countered by amending its constitution and issuing its own map showing the disputed area within its borders; the countries prime ministers briefly discussed the border dispute in April 2022; India has instituted a stricter border regime to restrict transit of illegal cross-border activities</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,540 (Tibet/China), 6,365 (Bhutan) (mid-year 2021)<br>

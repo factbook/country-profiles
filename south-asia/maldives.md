@@ -350,7 +350,7 @@ _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Co
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: <p>Maldives has no embassy in the US, but its Permanent Representative to the UN in New York, Thilmeeza HUSSAIN  (since 8 July 2019), is accredited to the US and serves as ambassador</p> (2020)<br>
+_chief of mission_: <p>Maldives has no embassy in the US, but its Permanent Representative to the UN in New York, Thilmeeza HUSSAIN  (since 8 July 2019), is accredited to the US and serves as ambassador</p><br>
 _chancery_: 801 Second Avenue, Suite 202E, New York, NY 10017<br>
 _telephone_: [1] (212) 599-6194; [1] (212) 599-6195<br>
 _FAX_: [1] (212) 661-6405<br>
@@ -674,7 +674,7 @@ Islamic State of Iraq and ash-Sham (ISIS) (2020)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Trafficking in persons**<br>
 _current situation_: Maldives is a destination country for men, women, and children subjected to forced labor and sex trafficking and a source country for Maldivian children subjected to human trafficking within the country; Bangladeshi and Indian migrants working both legally and illegally in the construction and service sectors face conditions of forced labor, including fraudulent recruitment, confiscation of identity and travel documents, nonpayment of wages, and debt bondage; a small number of women from Sri Lanka, Thailand, India, China, the Philippines, Bangladesh, Eastern Europe, and former Soviet states are trafficked to Maldives for sexual exploitation; some Maldivian children are transported to the capital for forced domestic service, where they may also be sexually abused<br>

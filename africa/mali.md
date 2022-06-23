@@ -300,7 +300,7 @@ _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: <p>due to civil insecurity and shortfall in staple food production - between June and August 2022, 1.84 million people are projected to face severe food insecurity, driven in part by a shortfall in staple food production in 2021; sanctions imposed on the country, following the postponement of elections by the transitional military government, are likely to slow down economic activity and further weigh on households’ economic capacity to access food</p> (2022)<br>
+_severe localized food insecurity_: <p><em>due to civil insecurity and shortfall in staple food production -</em> between June and August 2022, 1.84 million people are projected to face severe food insecurity, driven in part by a shortfall in staple food production in 2021; sanctions imposed on the country, following the postponement of elections by the transitional military government, are likely to slow down economic activity and further weigh on households’ economic capacity to access food</p> (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,937,354 tons (2012 est.)<br>
@@ -744,11 +744,11 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara; Jama'at
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>demarcation is underway with Burkina Faso</p><br>
+<p><em>Mali-Burkina Faso</em>: demarcation is underway with Burkina Faso</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,124 (Burkina Faso), 14,951 (Mauritania), 12,845 (Niger) (2022)<br>
-_IDPs_: 350,110 (Tuareg rebellion since 2012) (2021)<br>
+_refugees (country of origin)_: 22,051 (Burkina Faso), 14,950 (Mauritania), 13,585 (Niger) (2022)<br>
+_IDPs_: 370,548 (Tuareg rebellion since 2012) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Mali is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; women and girls are forced into domestic servitude, agricultural labor, and support roles in gold mines, as well as subjected to sex trafficking; Malian boys are found in conditions of forced labor in agricultural settings, gold mines, and the informal commercial sector, as well as forced begging in Mali and neighboring countries; Malians and other Africans who travel through Mali to Mauritania, Algeria, or Libya in hopes of reaching Europe are particularly at risk of becoming victims of human trafficking; men and boys, primarily of Songhai ethnicity, are subjected to debt bondage in the salt mines of Taoudenni in northern Mali; some members of Mali's Tuareg community are subjected to traditional slavery-related practices, and this involuntary servitude reportedly has extended to their children; reports indicate that non-governmental armed groups operating in northern Mali recruited children as combatants, cooks, porters, guards, spies, and sex slaves; slaveholders use some members of the Tuareg community in hereditary servitude where communities rather than individuals or families exploit the enslaved<br>

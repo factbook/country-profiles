@@ -363,7 +363,7 @@ _email address and website_: <br>wshinfo@mfat.govt.nz<br><br>https://www.mfat.go
 _consulate(s) general_: Honolulu, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Tom S. UDALL (since 1 December 2021) note - also accredited to Samoa<br>
+_chief of mission_: Ambassador Thomas Stewart UDALL (since 1 December 2021) note - also accredited to Samoa<br>
 _embassy_: 29 Fitzherbert Terrace, Thorndon, Wellington 6011<br>
 _mailing address_: 4370 Auckland Place, Washington DC&nbsp; 20521-4370<br>
 _telephone_: [64] (4) 462-6000<br>
@@ -715,7 +715,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>asserts a territorial claim in Antarctica (Ross Dependency)</p><br>
+<p><em>New Zealand-Antarctica</em>: asserts a territorial claim in Antarctica (Ross Dependency)</p><br>
 
 **Illicit drugs**<br>
 significant consumer of amphetamines<br>

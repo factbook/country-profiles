@@ -249,7 +249,7 @@ _urban population_: 62.9% of total population (2022)<br>
 _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to low food consumption levels, poor dietary diversity, and economic downturn - a large portion of the population suffers from low levels of food consumption and very poor dietary diversity; the economic constraints, particularly resulting from the global impact of the COVID‑19 pandemic, have increased the population&rsquo;s vulnerability to food insecurity; the food gap is estimated at about 860,000 mt, equivalent to approximately 2-3 months of food use, if this gap is not adequately covered through commercial imports and/or food aid, households could experience a harsh lean period (2022)<br>
+_widespread lack of access_: <em>due to low food consumption levels, poor dietary diversity, and economic downturn -</em> a large portion of the population suffers from low levels of food consumption and very poor dietary diversity; the economic constraints, particularly resulting from the global impact of the COVID‑19 pandemic, have increased the population’s vulnerability to food insecurity; the food gap is estimated at about 860,000 mt, equivalent to approximately 2-3 months of food use, if this gap is not adequately covered through commercial imports and/or food aid, households could experience a harsh lean period (2022)<br>
 
 **Total water withdrawal**<br>
 _municipal_: 902.8 million cubic meters (2017 est.)<br>
@@ -644,7 +644,7 @@ note(s) - the bulk of the KPA is made up of conscripts; as many as 20 percent of
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>risking arrest, imprisonment, and deportation, tens of thousands of North Koreans cross into China to escape famine, economic privation, and political oppression; North Korea and China dispute the sovereignty of certain islands in Yalu and Tumen Rivers; Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953; periodic incidents in the Yellow Sea with South Korea which claims the Northern Limiting Line as a maritime boundary; North Korea supports South Korea in rejecting Japan's claim to Liancourt Rocks (Tok-do/Take-shima)</p><br>
+<p><em>North Korea-China</em>: risking arrest, imprisonment, and deportation, tens of thousands of North Koreans cross into China to escape famine, economic privation, and political oppression; North Korea and China dispute the sovereignty of certain islands in Yalu and Tumen Rivers</p> <p><em>North Korea-Japan</em>: North Korea supports South Korea in rejecting Japan's claim to Liancourt Rocks (Tok-do/Take-shima)</p> <p><em>North Korea-South Korea</em>: Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953; periodic incidents in the Yellow Sea with South Korea which claims the Northern Limiting Line as a maritime boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: undetermined (2021)<br>

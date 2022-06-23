@@ -393,7 +393,7 @@ _email address and website_: <br>http://www.embassyofindonesia.org/<br>
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: <p>Ambassador Sung Y. KIM (since 21 October 2020)</p><br>
+_chief of mission_: Ambassador Sung Y. KIM (since 21 October 2020)<br>
 _embassy_: Jl. Medan Merdeka Selatan No. 3-5, Jakarta 10110<br>
 _mailing address_: 8200 Jakarta Place, Washington DC&nbsp; 8200<br>
 _telephone_: [62] (21) 5083-1000 (2020)<br>
@@ -645,7 +645,7 @@ _total subscriptions_: 355,620,388 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 130 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Indonesia&rsquo;s telecom sector is based on 3G/LTE mobile infrastructure and inadequate fixed-line capacity; large population and disbursed island geography make upgrades difficult; market is attracting foreign investment, especially in data center and cloud based services; tests of 5G challenged by lack of spectrum; satellite improvements in 2020 (2020)<br>
+_general assessment_: Indonesia faces more than the usual number of obstacles in terms of enabling widespread access to quality telecommunications services for its population of more than 270 million; the geographical challenges have been further compounded by a variety of social, political, and economic problems over the years that have kept the country&rsquo;s wealth distributed very thinly; the fixed-line (fiber) and mobile operators have continued to expand and upgrade their networks across the country; Indonesia&rsquo;s 18,000 islands (many of which, however, are sparsely populated) makes the deployment of fixed-line infrastructure on a broad scale largely impractica; the relatively low subscription rate of 4.6% is also a by-product of years of under-investment by the previously state-owned incumbent Telkom; there has been renewed activity in fiber optic cable, but the bundling of fixed-line telephony with TV and internet services will see the country&rsquo;s teledensity stabilize; mobile subscriptions have reached more than 130% and is projected to exceed 150% by 2026; with 4G LTE universally available, the major mobile companies have been busy launching 5G services in selected areas; Telkomsel was the first to go live in Jakarta in May 2021, followed by Indosat Ooredoo&rsquo;s launch in the city of Solo a month later; the rollout of 5G will be hampered by the lack of availability of suitable frequencies; Telkomsel, for example, was forced to launch using limited frequencies in the 2.3-2.4GHz band, which is only supported by a small number of handsets; the 4G had to be reallocated from broadcasting services, and indications are that the same process is going to have to be followed in order to allow the expansion of 5G into its core frequency bands (3.3 to 4.2GHz). (2022)<br>
 _domestic_: fixed-line subscribership roughly 3 per 100 and mobile-cellular 130 per 100 persons; coverage provided by existing network has been expanded by use of over 200,000 telephone kiosks many located in remote areas; mobile-cellular subscribership growing rapidly (2020)<br>
 _international_: country code - 62; landing points for the SEA-ME-WE-3 &amp; 5, DAMAI, JASUKA,&nbsp;BDM,&nbsp;Dumai-Melaka Cable System, IGG, JIBA,&nbsp;Link 1, 3, 4, &nbsp;&amp; 5, PGASCOM, B3J2, Tanjung Pandam-Sungai Kakap Cable System, JAKABARE, JAYABAYA, INDIGO-West, Matrix&nbsp;Cable System, ASC, SJJK, Jaka2LaDeMa, S-U-B Cable System, JBCS, MKCS, BALOK, Palapa Ring East, West&nbsp;and Middle, SMPCS Packet-1 and 2, LTCS, TSCS, SEA-US and Kamal Domestic Submarine Cable System, 35&nbsp;submarine cable networks that provide links throughout Asia, the Middle East,&nbsp;Australia, Southeast Asia, Africa&nbsp;and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -765,7 +765,7 @@ Islamic State of Iraq and ash-Sham (aka Jemaah Anshorut Daulah); Jemaah Islamiya
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,792 (Afghanistan) (mid-year 2021)<br>
-_IDPs_: 40,000 (inter-communal, inter-faith, and separatist violence between 1998 and 2004 in Aceh and Papua; religious attacks and land conflicts in 2007 and 2013; most IDPs in Aceh, Maluku, East Nusa Tengarra) (2020)<br>
+_IDPs_: 73,000 (inter-communal, inter-faith, and separatist violence between 1998 and 2004 in Aceh and Papua; religious attacks and land conflicts in 2007 and 2013; most IDPs in Aceh, Maluku, East Nusa Tengarra) (2021)<br>
 _stateless persons_: 668 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

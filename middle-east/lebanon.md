@@ -272,7 +272,7 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 6 June 2022, Lebanon has reported a total of 1,099,821 cases of COVID-19 or 16,113.5 cumulative cases of COVID-19 per 100,000 population with a total of 10,437 cumulative deaths or a rate of 152.9 cumulative deaths per 100,000 population; as of 30 May 2022, 39.69% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to the ongoing financial and economic crisis - the World Food Program (WFP) estimates that, as a result of the ongoing economic crisis, over 1.3 million Lebanese citizens, about 36% of the total population, were food insecure by the end of September 2021; the number of Lebanese households with serious food access constraints reached 57% in September 2021, up from 40% in September 2020; domestic cereal production covers, on average, less than 20% of the consumption needs and the country depends heavily on imports (2022)<br>
+_widespread lack of access_: <em>due to the ongoing financial and economic crisis -</em> the World Food Program (WFP) estimates that, as a result of the ongoing economic crisis, over 1.3 million Lebanese citizens, about 36% of the total population, were food insecure by the end of September 2021; the number of Lebanese households with serious food access constraints reached 57% in September 2021, up from 40% in September 2020; domestic cereal production covers, on average, less than 20% of the consumption needs and the country depends heavily on imports (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.04 million tons (2014 est.)<br>
@@ -368,7 +368,7 @@ _email address and website_: <br>info@lebanonembassyus.org<br><br>http://www.leb
 _consulate(s) general_: Detroit, New York, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Dorothy SHEA (since 11 March 2020)<br>
+_chief of mission_: Ambassador Dorothy C. SHEA (since 11 March 2020)<br>
 _embassy_: Awkar-Facing the Municipality, Main Street, Beirut<br>
 _mailing address_: 6070 Beirut Place, Washington DC&nbsp; 20521-6070<br>
 _telephone_: [961] (04) 543-600<br>
@@ -717,7 +717,7 @@ Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; Islamic Revolu
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shab'a Farms area in the Israeli-controlled Golan Heights; the roughly 2,000-strong UN Interim Force in Lebanon has been in place since 1978</p><br>
+<p><em>Lebanon-Syria</em>: lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; in March 2021, Syria signed a contract with a Russian company for oil and gas exploration in a maritime area Lebanon claims as its own based on a 2011 map sent to the UN</p> <p><em>Lebanon-Israel</em>: Lebanon has claimed Shab'a Farms area in the Israeli-controlled Golan Heights; Lebanon and Israel resumed negotiations over their maritime border in 2020, but their efforts were derailed when Lebanon argued that the map the UN was using needed modifications</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 839,086 (Syria) (2022)<br>

@@ -292,7 +292,7 @@ _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Guinea is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to reduced incomes - about 740,000 people are projected to face severe food insecurity in the upcoming June to August 2022 period (2022)<br>
+_severe localized food insecurity_: <em>due to reduced incomes -</em> about 740,000 people are projected to face severe food insecurity in the upcoming June to August 2022 period (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 596,911 tons (1996 est.)<br>
@@ -342,7 +342,7 @@ _etymology_: according to tradition, the name derives from the fusion of the nam
 Independence Day, 2 October (1958)<br>
 
 **Constitution**<br>
-_history_: currently suspended on September 5, 2021 via t coup d&rsquo;etat. On September 27, 2021 the Transitional Charter was released.&nbsp; It supersedes the constitution until a new constitution is promulgated. previous 1958, 1990, and 2010<br>
+_history_: previous 1958, 1990; latest 2010, which was suspended on 5 September 2021 via a coup d&rsquo;etat; on 27 September, the Transitional Charter was released, which supersedes the constitution until a new constitution is promulgated<br>
 _amendments_: proposed by the National Assembly or by the president of the republic; consideration of proposals requires approval by simple majority vote by the Assembly; passage requires approval in referendum; the president can opt to submit amendments directly to the Assembly, in which case approval requires at least two-thirds majority vote; revised in 2020<br>
 
 **Legal system**<br>
@@ -363,7 +363,7 @@ _residency requirement for naturalization_: na<br>
 **Executive branch**<br>
 _chief of state_: President Col. Mamady DOUMBOUYA (since 1 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 1 October 2021, DOUMBOUYA was sworn in as transitional president<br>
 _head of government_: formerly, Prime Minister Mohamed BEAVOGUI (since 6 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government of Prime Minister Ibrahima Kassory FOFANA dissolved<br>
-_cabinet_: formerly, the Council of Ministers appointed by the president; note: on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup on 5 September 2021 in which President CONDE was arrested and detained, the constitution suspended, and the government and legislature dissolved<br>
+_cabinet_: formerly, the Council of Ministers appointed by the president; note: on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and legislature dissolved<br>
 _elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term) and the prime minister appointed by the president; election last held on 18 October 2020; note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, and on 1 October 2021,Col. Mamady DOUMBOUYA was sworn in as transitional president<br>
 _election results_: in the election of 18 October 2020, Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%; note - following the military coup of 5 September 2021, coup leader Col. Mamady DOUMBOUYA was sworn in as transitional president on 1 October 2021<br>
 
@@ -373,8 +373,8 @@ _elections_: 81 members to the Transitional National Council were appointed by t
 _election results_: 81 members of the National Transitional Council appointed on 22 January 2022 by the transitional president; the members represent all of the country's socio-professional organizations and political parties<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Cour Supreme (organized into Administrative Chamber and Civil, Penal, and Social Chamber; court consists of the first president, 2 chamber presidents, 10 councilors, the solicitor general, and NA deputies).<br>
-_judge selection and term of office_: Supreme Court first president appointed by the national president after consultation with the National Assembly; other members appointed by presidential decree; members serve until age 65; members serve single 9-year terms<br>
+_highest courts_: Supreme Court or Cour Supreme (organized into Administrative Chamber and Civil, Penal, and Social Chamber; court consists of the first president, 2 chamber presidents, 10 councilors, the solicitor general, and NA deputies); Constitutional Court - suspended on 5 September 2021<br>
+_judge selection and term of office_: Supreme Court first president appointed by the national president after consultation with the National Assembly; other members appointed by presidential decree; members serve 9-year terms until age 65<br>
 _subordinate courts_: Court of Appeal or Cour d'Appel; High Court of Justice or Cour d'Assises; Court of Account (Court of Auditors); Courts of First Instance (Tribunal de Premiere Instance); labor court; military tribunal; justices of the peace; specialized courts<br>
 
 **Political parties and leaders**<br>
@@ -639,7 +639,7 @@ _total subscriptions_: 13.795 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 105 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Guinea&rsquo;s mobile subscribership growing through investment of South African telecom operators and Chinese Huawei management; m-transactions supported commerce; broadband still limited and expensive though submarine cable and IXP improved reliability of infrastructure; 4G Wi-Fi in the capital; National Backbone Network will connect regional administrative centers; ECOWAS countries to launch free roaming; importer of broadcasting equipment from China (2020)<br>
+_general assessment_: Guinea&rsquo;s telecom market is dominated by MTN and Orange; after the entry of these regional players, the number of mobile subscribers grew strongly while revenue also increased steadily; the debt-stricken incumbent fixed-line network Sotelgui provided a mobile service until it was closed down in late 2012, following a long period of mismanagement; the company itself was declared bankrupt in 2013, and stopped operating; the government since 2019 has sought to secure partners and investors to help launch a replacement operator, Guinea Telecom, but with no success; fixed broadband services are still very limited and expensive, though there have been some positive developments in recent years; the landing of the first international submarine cable in 2012, and the setting up of an IXP in mid-2013, increased the bandwidth available to the ISPs, and helped reduce the cost of internet services for end-users; a National Backbone Network was completed in mid-2020, connecting administrative centers across the country; almost all internet connections are made via mobile networks; GSM services account for a dwindling proportion of connections, in line with the greater reach of services based on 3G and LTE.&nbsp; (2022)<br>
 _domestic_: there is national coverage and Conakry is reasonably well-served; coverage elsewhere remains inadequate but is improving; fixed-line teledensity is less than 1 per 100 persons; mobile-cellular subscribership is just over 100 per 100 persons (2019)<br>
 _international_: country code - 224; ACE submarine cable connecting Guinea with 20 landing points in Western and South Africa and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -711,13 +711,13 @@ note - the National Gendarmerie is overseen by the Ministry of Defense, while th
 1.8% of GDP (2017 est.) (approximately $260 million)<br>
 
 **Military and security service personnel strengths**<br>
-Guinean National Armed Forces are comprised of approximately 12,000 active personnel <br>(9,000 Army; 400 Navy; 800 Air Force; 300 BASP; 1,500 Gendarmerie) (2021)<br>
+Guinean National Armed Forces are comprised of approximately 12,000 active personnel <br>(9,000 Army; 400 Navy; 800 Air Force; 300 BASP; 1,500 Gendarmerie) (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Guinean military consists largely of ageing and outdated (mostly Soviet-era) equipment; since 2010, it has received small amounts of equipment from China, France, Russia, and South Africa (2021)<br>
+the inventory of the Guinean military consists largely of ageing and outdated (mostly Soviet-era) equipment; since 2010, it has received small amounts of equipment from China, France, Russia, and South Africa (2022)<br>
 
 **Military service age and obligation**<br>
-Voluntary and selective conscripted service, 9-24 mos (2021)<br>
+Voluntary and selective conscripted service, 9-24 mos (2022)<br>
 
 **Military deployments**<br>
 670 Mali (MINUSMA) (Jan 2022)<br>

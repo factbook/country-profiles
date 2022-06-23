@@ -264,7 +264,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; South Sudan is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to economic downturn, civil insecurity, lingering impact of floods and prolonged conflict - despite sustained humanitarian assistance, food insecurity still affects large segments of the population, driven by insufficient food supplies, an economic downturn, high food prices and the lingering impact of widespread floods in 2020; particular concern exists for households in Jonglei, Northern Bahr-el-Ghazal and Warrap states, and in neighbouring Pibor Administrative Area, where 60-85% of the population were estimated to be severely food insecure (2022)<br>
+_widespread lack of access_: <em>due to economic downturn, civil insecurity, lingering impact of floods and prolonged conflict -</em> despite sustained humanitarian assistance, food insecurity still affects large segments of the population, driven by insufficient food supplies, an economic downturn, high food prices and the lingering impact of widespread floods in 2020; particular concern exists for households in Jonglei, Northern Bahr-el-Ghazal and Warrap states, and in neighbouring Pibor Administrative Area, where 60-85% of the population were estimated to be severely food insecure (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,680,681 tons (2013 est.)<br>
@@ -352,7 +352,7 @@ _FAX_: [1] (202) 644-9910<br>
 _email address and website_: <br>info.ssdembassy@gmail.com<br><br>https://www.southsudanembassyusa.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Deputy Chief of Mission Jon F. DANILOWICZ (since September 2020)<br><br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires William FLENS (since 4 June 2022)<br><br>
 _embassy_: Kololo Road adjacent to the EU's compound, Juba<br>
 _mailing address_: 4420 Juba Place, Washington DC&nbsp; 20521-4420<br>
 _telephone_: [211] 912-105-188<br>
@@ -648,7 +648,7 @@ the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s 
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 311,819 (Sudan), 18,407 (Democratic Republic of the Congo) (2022)<br>
-_IDPs_: 1,436,000 (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2020)<br>
+_IDPs_: 2,017,236 (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2022)<br>
 _stateless persons_: 10,000 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

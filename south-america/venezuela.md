@@ -271,7 +271,7 @@ _vectorborne diseases_: dengue fever and malaria<br>
 <strong>Note:</strong> as of 1 March 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to severe economic crisis - the national economy, highly dependent on oil production and exports, is forecast to contract in 2021 for the eighth consecutive year; with the persistent negative effects of the COVID‑19 pandemic that have compounded the already severe macro‑economic crisis, the access to food of the most vulnerable households is expected to deteriorate throughout 2021 due to widespread losses of income‑generating activities and soaring food prices (2022)<br>
+_widespread lack of access_: <em>due to severe economic crisis -</em> the national economy, highly dependent on oil production and exports, is forecast to contract in 2021 for the eighth consecutive year; with the persistent negative effects of the COVID‑19 pandemic that have compounded the already severe macro‑economic crisis, the access to food of the most vulnerable households is expected to deteriorate throughout 2021 due to widespread losses of income‑generating activities and soaring food prices (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 9,779,093 tons (2010 est.)<br>

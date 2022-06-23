@@ -296,7 +296,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Niger is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: due to internal conflict and shortfall in cereal production - as of January 2022, an estimated 265,000 people have been displaced due to civil conflict; in addition, domestic cereal production was estimated at a below-average level in 2021, due to effects of adverse weather and the civil conflict, which is expected to further aggravate conditions; the aggregate cereal production in 2021 is officially estimated at 3.5 million mt, nearly 40% below the five‑year average; as a result, between June and August 2022, 3.64 million people are projected to face severe food insecurity; this is a 40% increase compared to the current post‑harvest period, underpinned by the reduced cereal production in 2021, high food prices and the high likelihood of persisting disruptions of markets and agricultural activities amid increasing insecurity (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to internal conflict and shortfall in cereal production -</em> as of January 2022, an estimated 265,000 people have been displaced due to civil conflict; in addition, domestic cereal production was estimated at a below-average level in 2021, due to effects of adverse weather and the civil conflict, which is expected to further aggravate conditions; the aggregate cereal production in 2021 is officially estimated at 3.5 million mt, nearly 40% below the five‑year average; as a result, between June and August 2022, 3.64 million people are projected to face severe food insecurity; this is a 40% increase compared to the current post‑harvest period, underpinned by the reduced cereal production in 2021, high food prices and the high likelihood of persisting disruptions of markets and agricultural activities amid increasing insecurity (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,865,646 tons (1993 est.)<br>
@@ -724,7 +724,7 @@ note - the Gendarmerie is subordinate to the Ministry of Defense and has primary
 2% of GDP (2017 est.) (approximately $270 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 10,000 active troops (est. 6,000 Army; 200 Air Force; 4,000 Gendarmerie); est. 3,000 National Guard (2022)<br>
+information varies; approximately 12,000 active troops (est. 8,000 Army; 200 Air Force; 4,000 Gendarmerie); est. 3,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAN's inventory consists of a wide variety of older weapons; since 2010, the FAN has received small amounts of mostly second-hand equipment and donations from several countries with the US as the top provider (2022)<br>
@@ -748,10 +748,10 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic St
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Libya claims about 25,000 sq km in a currently dormant dispute in the Tommo region; location of Benin-Niger-Nigeria tripoint is unresolved; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries; the dispute with Burkina Faso was referred to the ICJ in 2010</p><br>
+<p><em>Niger-Benin-Nigeria</em>: location of Niger-Benin-Nigeria tripoint is unresolved</p> <p><em>Niger-Burkina Faso</em>: the dispute with Burkina Faso was referred to the International Court of Justice (ICJ) in 2010; the ICJ ruled in 2013 that 786 sq km should go to Burkina Faso and 277 sq km to Niger; the ruling was implemented in 2015 and 2016, with Burkina Faso gaining 14 towns and Niger 4</p> <p><em>Niger-Cameroon-Nigeria</em>: only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Niger-Libya</em>: Libya claims about 25,000 sq km in a currently dormant dispute in the Tummo region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 187,139 (Nigeria), 62,077 (Mali) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 187,139 (Nigeria), 62,658 (Mali) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 264,257 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

@@ -751,7 +751,7 @@ Abu Sayyaf Group; Communist Party of the Philippines/New People's Army; Islamic 
 <p>Philippines claims sovereignty over Scarborough Reef (also claimed by China together with Taiwan) and over certain of the Spratly Islands, known locally as the Kalayaan (Freedom) Islands, also claimed by China, Malaysia, Taiwan, and Vietnam; the 2002 "Declaration on the Conduct of Parties in the South China Sea," has eased tensions in the Spratly Islands but falls short of a legally binding "code of conduct" desired by several of the disputants; in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands; Philippines retains a dormant claim to Malaysia's Sabah State in northern Borneo based on the Sultanate of Sulu's granting the Philippines Government power of attorney to pursue a sovereignty claim on his behalf; maritime delimitation negotiations continue with Palau</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 153,000 (government troops fighting the Moro Islamic Liberation Front, the Abu Sayyaf Group, and the New People's Army; clan feuds; armed attacks, political violence, and communal tensions in Mindanao) (2020)<br>
+_IDPs_: 108,000 (government troops fighting the Moro Islamic Liberation Front, the Abu Sayyaf Group, and the New People's Army; clan feuds; armed attacks, political violence, and communal tensions in Mindanao) (2021)<br>
 _stateless persons_: 392 (mid-year 2021); note - stateless persons are descendants of Indonesian migrants<br>
 
 **Illicit drugs**<br>

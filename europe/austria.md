@@ -370,7 +370,7 @@ _consulate(s) general_: Los Angeles, New York, Washington<br>
 _consulate(s)_: Chicago<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant), Mario MESQUITA (since 12 July 2021)<br>
+_chief of mission_: Ambassador Victoria Reggie KENNEDY (since 12 January 2022)<br>
 _embassy_: Boltzmanngasse 16, 1090, Vienna<br>
 _mailing address_: 9900 Vienna Place, Washington DC&nbsp; 20521-9900<br>
 _telephone_: [43] (1) 31339-0<br>
@@ -619,7 +619,7 @@ _total subscriptions_: 10,717,445 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: mature telecom market benefitting from effective competition; government and regulator are focused on improving telecom infrastructure; program to provide a national gigabit service by 2030 based on 5G networks; fixed-line broadband market is dominated by DSL sector, while cable broadband enjoys steady share of connections; fiber penetration remains low pending build out network infrastructure; EU-funded projects develop infrastructure to enable an 'Internet of Services; Vienna is a smart city; importer of broadcasting equipment from Vietnam and China (2020)<br>
+_general assessment_: mature telecom market, dominated by Telekom Austria, Magenta Telekom (formed from the merger of T-Mobile Austria and the cableco UPC Austria), and 3 Austria; the mobile market benefits from a growing number of MVNOs; the telcos as well as the government and regulator have been focused on delivering improved telecom infrastructure; the government has a program to provide a national gigabit service by 2030, delivered by private enterprise though with some state funding; this is based on fibrer networks supported by 5G, with the MNOs able to expand the reach of their 5G services following auctions held in March 2019 and September 2020; the fixed-line broadband market is still dominated by the DSL sector, while the cable broadband sector has held a steady share of connections in recent years; the fiber sector was slow to develop, and although fiber remains low there are plans to build out the network infrastructure; by February 2021, A1 Telekom&rsquo;s fibre network reached more than 2.3 million premises; Magenta Telekom continues to invest in DOCSIS3.1 technology, and by mid-2021 about a third of premises (some 1.4 million) nationally could access the company&rsquo;s gigabit service.&nbsp; (2021)<br>
 _domestic_: developed and efficient; 42 per 100 fixed-line for households, 174 per 100 for companies; roughly 119 per 100 mobile-cellular; broadband: 138 per 100 on smartphones; roughly 29 per 100 fixed broadband and 107 per 100 mobile broadband (2020)<br>
 _international_: country code - 43; earth stations available in the Astra, Intelsat, Eutelsat satellite systems (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -733,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 70,153 (Ukraine) (as of 7 June 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 71,422 (Ukraine) (as of 14 June 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

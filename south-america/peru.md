@@ -776,7 +776,7 @@ Shining Path (Sendero Luminoso)<br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 1,286,434 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
-_IDPs_: 60,000 (civil war from 1980-2000; most IDPs are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these IDPs) (2020)<br>
+_IDPs_: 60,000 (civil war from 1980-2000; most IDPs are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these IDPs) (2021)<br>
 
 **Illicit drugs**<br>
 world&rsquo;s second-largest producer of cocaine, with an estimated 88,200 hectares under coca cultivation in 2020; cocaine is trafficked throughout South America for shipment to Europe, East Asia, Mexico, and the United States; major importer of precursor chemicals for cocaine production<br>

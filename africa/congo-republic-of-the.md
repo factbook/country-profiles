@@ -292,7 +292,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; the Republic of the Congo is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to floods - on 29 November 2021, a state of emergency was declared due to floods in northern areas that caused crop and livestock losses, and displaced people, particularly in Likouala, Sangha, Cuvette and Plateaux departments; it is estimated that about 71,700 people have been affected, (2022)<br>
+_severe localized food insecurity_: <em>due to floods -</em> on 29 November 2021, a state of emergency was declared due to floods in northern areas that caused crop and livestock losses, and displaced people, particularly in Likouala, Sangha, Cuvette and Plateaux departments; it is estimated that about 71,700 people have been affected, (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 451,200 tons (1993 est.)<br>
@@ -395,7 +395,7 @@ _email address and website_: <br>info@ambacongo-us.org<br><br>http://www.ambacon
 _consulate(s)_: New Orleans<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Ellen B. THORBURN (since January 2021)<br>
+_chief of mission_: Ambassador Eugene S. YOUNG (since 2022)<br>
 _embassy_: 70-83 Section D, Boulevard Denis Sassou N'Guesso, Brazzaville<br>
 _mailing address_: 2090 Brazzaville Place, Washington DC 20521-2090<br>
 _telephone_: [242] 06 612-2000, [242] 05 387-9700<br>
@@ -738,5 +738,5 @@ the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a small
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 29,090 (Central African Republic), 22,114 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
-_IDPs_: 304,430 (multiple civil wars since 1992) (2021)<br>
+_IDPs_: 159,830 (multiple civil wars since 1992) (2022)<br>
 

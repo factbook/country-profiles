@@ -304,7 +304,7 @@ _aerosolized dust or soil contact diseases_: Lassa fever<br>
 <strong>note 1:</strong> on 30 September 2021, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in in multiple states (Bauchi, Benue, Delta, Ebonyi, and Enugu); the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><br><strong>note 2:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 6 June 2022, Nigeria has reported a total of 256,148 cases of COVID-19 or 124.3 cumulative cases of COVID-19 per 100,000 population with a total of 3,148 cumulative deaths or a rate of 1.5 cumulative death per 100,000 population; as of 22 May 2022, 12.97% of the population has received at least one dose of COVID-19 vaccine<br> <strong>note 3: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Nigeria is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to persistent civil conflict in the northern areas - according to the latest analysis, between June and August 2022, the number of food insecure is projected to increase to 18 million people period as a result of worsening conflict that is driving new population displacements; the areas inaccessible to humanitarian interventions are facing the worst food insecurity conditions (2022)<br>
+_widespread lack of access_: <em>due to persistent civil conflict in the northern areas -</em> according to the latest analysis, between June and August 2022, the number of food insecure is projected to increase to 18 million people period as a result of worsening conflict that is driving new population displacements; the areas inaccessible to humanitarian interventions are facing the worst food insecurity conditions (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 27,614,830 tons (2009 est.)<br>
@@ -377,7 +377,7 @@ _residency requirement for naturalization_: 15 years<br>
 _chief of state_: President Maj. Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi "Yemi" OSINBAJO (since 29 May 2015); note - the president is both chief of state, head of government, and commander-in-chief of the armed forces<br>
 _head of government_: President Maj.Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi "Yemi" OSINBAJO (since 29 May 2015)<br>
 _cabinet_: Federal Executive Council appointed by the president but constrained constitutionally to include at least one member from each of the 36 states<br>
-_elections/appointments_: president directly elected by qualified majority popular vote and at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term); election last held on 23 February 2019 (next to be held on 25 February 2023); note: the election was scheduled for 16 February 2019, but postponed on 16 February 2019<br>
+_elections/appointments_: president directly elected by qualified majority popular vote and at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term); election last held on 23 February 2019 (next to be held on 25 February 2023)<br>
 _election results_: Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (APC) 53%, Atiku ABUBAKAR (PDP) 39%, other 8%<br>
 
 **Legislative branch**<br>
@@ -746,13 +746,13 @@ note - some states have created local security forces in response to increased v
 0.5% of GDP (2017) (approximately $3.42 billion)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 135,000 active personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); est. 80,000 Security and Civil Defense Corps (2021)<br>
+information varies; approximately 135,000 active personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); est. 80,000 Security and Civil Defense Corps (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Nigerian Armed Forces' inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; since 2010, Nigeria has undertaken a considerable military modernization program, and has received equipment from some 20 countries with China, Russia, and the US as the leading suppliers; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2021)<br>
+the Nigerian Armed Forces' inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; since 2010, Nigeria has undertaken a considerable military modernization program, and has received equipment from some 20 countries with China, Russia, and the US as the leading suppliers; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2022)<br>
 
 **Military service age and obligation**<br>
-18-26 years of age for voluntary military service (men and women); no conscription (2021)<br>
+18-26 years of age for voluntary military service (men and women); no conscription (2022)<br>
 
 **Military deployments**<br>
 200 Ghana (ECOMIG) (2022)<br>
@@ -773,10 +773,10 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Joint Border Commission with Cameroon reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately cedes sovereignty of the Bakassi Peninsula to Cameroon with a phaseout of Nigerian control within two years while resolving patriation issues; the ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but imprecisely defined coordinates in the ICJ decision and a sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River all contribute to the delay in implementation; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries; location of Benin-Niger-Nigeria tripoint is unresolved</p><br>
+<p><em>Nigeria-Benin</em>: none identified</p> <p><em>Nigeria-Cameroon</em>: Joint Border Commission with Cameroon reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a phaseout of Nigerian control within two years while resolving patriation issues; demarcation of the Bakassi Peninsula and adjoining border areas should be finalized in 2022; as Lake Chad’s evaporation exposed dry land, only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Nigeria-Cameroon-Equatorial Guinea</em>: the ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but imprecisely defined coordinates in the ICJ decision and a sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River all contribute to the delay in implementation</p> <p><em>Nigeria-Niger</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,878 (Cameroon) (2022)<br>
+_refugees (country of origin)_: 78,077 (Cameroon) (2022)<br>
 _IDPs_: 3,030,544 (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2022)<br>
 
 **Trafficking in persons**<br>

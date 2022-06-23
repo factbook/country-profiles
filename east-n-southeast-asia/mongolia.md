@@ -722,7 +722,7 @@ note(s) - from 2003 to July 2021, some 3,300 Mongolian troops served in Afghanis
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 17 (mid-year 2021)<br>

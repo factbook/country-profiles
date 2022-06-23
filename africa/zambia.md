@@ -294,7 +294,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to reduced incomes and localized shortfalls in cereal production - an estimated 1.58 million people are projected to need humanitarian assistance at least up until March 2022, down from 2 million assessed to be food insecure in the corresponding period in 2020/21; the overall large national agricultural output in 2021 helped to reduce the prevalence of food insecurity in early 2022, however, the effects of the COVID-19 pandemic, which have constrained households&rsquo; economic access to food as well as localized shortfalls in crop production, have limited a larger improvement (2022)<br>
+_severe localized food insecurity_: <em>due to reduced incomes and localized shortfalls in cereal production -</em> an estimated 1.58 million people are projected to need humanitarian assistance at least up until March 2022, down from 2 million assessed to be food insecure in the corresponding period in 2020/21; the overall large national agricultural output in 2021 helped to reduce the prevalence of food insecurity in early 2022, however, the effects of the COVID-19 pandemic, which have constrained households’ economic access to food as well as localized shortfalls in crop production, have limited a larger improvement (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,608,268 tons (2002 est.)<br>
@@ -395,7 +395,7 @@ _FAX_: [1] (202) 332-0826<br>
 _email address and website_: <br>info@zambiaembassy.org<br><br>https://www.zambiaembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires David J. YOUNG (since 2 March 2020)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Martin "Marty" DALE (since 2 November 2021)<br>
 _embassy_: Eastern end of Kabulonga Road, Ibex Hill, Lusaka<br>
 _mailing address_: 2310 Lusaka Place, Washington DC 20521-2310<br>
 _telephone_: [260] (0) 211-357-000<br> <p class="cityname1"> </p><br>

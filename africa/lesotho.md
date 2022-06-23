@@ -283,7 +283,7 @@ _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to loss of income-generating activities -&nbsp; the number of people facing "Crisis" levels of food insecurity between January and March 2022 is estimated at 338,000, reflecting the effects of a slow economic recovery that has impinged on households&rsquo; economic capacity to access food (2022)<br>
+_severe localized food insecurity_: <em>due to loss of income-generating activities -</em>  the number of people facing "Crisis" levels of food insecurity between January and March 2022 is estimated at 338,000, reflecting the effects of a slow economic recovery that has impinged on households’ economic capacity to access food (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 73,457 tons (2006 est.)<br>
@@ -372,14 +372,14 @@ All Basotho Convention or ABC [Moeketsi MAJORO]<br>Alliance of Democrats or AD [
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d’Affaires Masopha Phoofolo Moses KAO, Counselor (28 May 2021)<br> <p> </p><br>
+_chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Masopha Phoofolo Moses KAO, Counselor (28 May 2021)<br>
 _chancery_: 2511 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 797-5533<br>
 _FAX_: [1] (202) 234-6815<br>
 _email address and website_: <br>lesothoembassy@verizon.net<br><br>https://www.gov.ls/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Rebecca E. GONZALES (since 8 February 2018)<br>
+_chief of mission_: Ambassador Maria E. BREWER (since 10 March 2022)<br>
 _embassy_: 254 Kingsway Avenue, Maseru<br>
 _mailing address_: 2340 Maseru Place, Washington DC&nbsp; 20521-2340<br>
 _telephone_: [266] 22312666<br>
@@ -698,7 +698,7 @@ Lesotho's declared policy for its military is the maintenance of the country's s
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
+<p><em>Lesotho-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p> </p><br>
 
 **Trafficking in persons**<br>
 _current situation_: Lesotho is a source, transit, and destination country for women and children subjected to forced labor and sex trafficking and for men subjected to forced labor; Basotho women and children are subjected to domestic servitude and children, to a lesser extent, commercial sexual exploitation within Lesotho and South Africa; some Basotho women willingly migrate to South Africa seeking work in domestic service only to be forced into prostitution; some Basotho men who voluntarily migrate to South Africa for work become victims of forced labor in agriculture and mining or are coerced into committing crimes<br>

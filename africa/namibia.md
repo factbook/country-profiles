@@ -286,7 +286,7 @@ _vectorborne diseases_: malaria<br>
 _water contact diseases_: schistosomiasis<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to localized shortfalls in cereal production - an estimated 750,000 people are projected to face "Crisis" levels of food insecurity between December 2021 and March 2022, as a result of localized areas that suffered from poor harvests in 2021 and the negative effects of the COVID-19 pandemic, primarily through income and job losses that constrained households&rsquo; access to food (2022)<br>
+_severe localized food insecurity_: <em>due to localized shortfalls in cereal production -</em> an estimated 750,000 people are projected to face "Crisis" levels of food insecurity between December 2021 and March 2022, as a result of localized areas that suffered from poor harvests in 2021 and the negative effects of the COVID-19 pandemic, primarily through income and job losses that constrained households’ access to food (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 256,729 tons (1993 est.)<br>
@@ -729,7 +729,7 @@ note - as of 2018, women comprised more than 20% of the active military<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border; the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river<br><br><em>Namibia-Angola: </em>None identified</p><br>
+<p><em>Namibia-Angola-Botswana</em>: concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border</p> <p><em>Namibia-Botswana-Zambia-Zimbabwe</em>: Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; the Kazungula Bridge opened to traffic in May 2021</p> <p><em>Namibia-South Africa</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia claims a median line boundary, while South Africa supports the northern bank of the river</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,883 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>

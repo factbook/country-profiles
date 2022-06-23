@@ -263,7 +263,7 @@ _forest revenues_: 0.06% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to civil insecurity, economic and political instability, and high food prices - an estimated 800,000 people, 10% of the population, need humanitarian assistance, of which 500,000 require food assistance (2022)<br>
+_severe localized food insecurity_: <em>due to civil insecurity, economic and political instability, and high food prices -</em> an estimated 800,000 people, 10% of the population, need humanitarian assistance, of which 500,000 require food assistance (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,147,596 tons (2011 est.)<br>
@@ -689,9 +689,9 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham – Libya; al-Mulatha
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Libya-Algeria:</em> dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya</p><br>
+<p><em>Libya-Algeria:</em> dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya; Libyan forces clashed with Chadian rebels in September 2021</p> <p><em>Libya-Egypt</em>: none identified</p> <p><em>Libya-Niger</em>: the boundary is poorly defined but has never been disputed by either country</p> <p><em>Libya-Sudan</em>: none identified</p> <p><em>Libya-Tunisia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,675 (Sudan) (refugees and asylum seekers), 14,919 (Syria) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 19,348 (Sudan) (refugees and asylum seekers), 15,207 (Syria) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 168,011 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2022)<br>
 

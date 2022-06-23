@@ -386,7 +386,7 @@ _FAX_: [1] (202) 232-3190<br>
 _email address and website_: <br>embassyoftogo@hotmail.com<br><br>https://embassyoftogousa.com/<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Eric W. STROHMAYER (since 11 April 2019)<br>
+_chief of mission_: Ambassador Elizabeth FITZSIMMONS (since 26 April 2022)<br>
 _embassy_: Boulevard Eyadema, B.P. 852, Lome<br>
 _mailing address_: 2300 Lome Place, Washington, DC 20521-2300<br>
 _telephone_: [228] 2261-5470<br>
@@ -700,8 +700,8 @@ _major seaport(s)_: Kpeme, Lome<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l’Air), National Gendarmerie (2022)<br>
-note - the Gendarmerie falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security<br>
+Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l’Air), National Gendarmerie (Gendarmerie Nationale Togolaise or GNT) (2022)<br>
+note - the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
@@ -711,13 +711,14 @@ note - the Gendarmerie falls under the Ministry of the Armed Forces but also rep
 1.9% of GDP (2017 est.) (approximately $130 million)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 9,000 personnel, including about 8,000 Army (2021)<br>
+approximately 10-11,000 personnel (7,000 Army; 500 Air and Navy; 3,000 Gendarmerie) (2022)<br>
+note - in January 2022, the Togolese Government announced its intent to boost the size of the FAT to more than 20,000 by 2025<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAT's small inventory is a mix of older equipment from a variety of countries, including Brazil, France, Germany, Russia/former Soviet Union, the UK, and the US; since 2010, it has received limited amounts of newer--largely secondhand--equipment, such as patrol boats, from China, France, South Africa, and the US (2021)<br>
+the FAT's small inventory is a mix of older equipment from a variety of countries, including Brazil, France, Germany, Russia/former Soviet Union, the UK, and the US; since 2010, it has received limited amounts of newer--largely secondhand--equipment, such as patrol boats, from China, France, South Africa, and the US (2022)<br>
 
 **Military service age and obligation**<br>
-18 years of age for military service; 2-year service obligation; no conscription; women have been able to serve since 2007 (2021)<br>
+18 years of age for military service; 2-year service obligation; no conscription; women have been able to serve since 2007 (2022)<br>
 
 **Military deployments**<br>
 730 (plus about 300 police) Mali (MINUSMA) (Feb 2022)<br>

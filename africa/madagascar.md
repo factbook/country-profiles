@@ -290,7 +290,7 @@ _animal contact diseases_: rabies<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Madagascar is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to the effects of extreme weather events - cyclones and tropical storms in early 2022 have affected a large number of people, particularly in eastern regions, and the number of food insecure people is expected to increase later in 2022; moreover, drought conditions continue to affect households in the south, which is likely to result in an increase in the severity and prevalence of food insecurity in these areas (2022)<br>
+_severe localized food insecurity_: <em>due to the effects of extreme weather events -</em> cyclones and tropical storms in early 2022 have affected a large number of people, particularly in eastern regions, and the number of food insecure people is expected to increase later in 2022; moreover, drought conditions continue to affect households in the south, which is likely to result in an increase in the severity and prevalence of food insecurity in these areas (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,768,759 tons (2016 est.)<br>
@@ -382,7 +382,7 @@ _email address and website_: <br>contact@us-madagascar-embassy.org<br><br>https:
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Amy J. HYATT (since June 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Tobias H. GLUCKSMAN<br>
 _embassy_: Lot 207A, Andranoro, Antehiroka, 105 Antananarivo<br>
 _mailing address_: 2040 Antananarivo Place, Washington&nbsp; DC 20521-2040<br>
 _telephone_: [261] 20-23-480-00<br>
@@ -714,7 +714,7 @@ one of the military’s duties is assisting the gendarmerie with maintaining law
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>claims Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island (all administered by France); the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claims of the Comoros and France (Glorioso Islands, part of the French Southern and Antarctic Lands)</p><br>
+<p><em>Madagascar-France</em>: claims Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island (all administered by France); the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claim of France</p> <p><em>Madagascar-Comoros</em>: the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claim of the Comoros</p><br>
 
 **Illicit drugs**<br>
 illicit producer of cannabis (cultivated and wild varieties) used mostly for domestic consumption; transshipment point for Southwest Asian heroin<br>

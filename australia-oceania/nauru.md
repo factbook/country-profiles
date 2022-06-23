@@ -602,7 +602,7 @@ Nauru maintains no defense forces; under an informal agreement, defense is the r
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 133 (mid-year 2021)<br>

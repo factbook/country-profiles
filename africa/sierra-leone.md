@@ -287,7 +287,7 @@ _aerosolized dust or soil contact diseases_: Lassa fever<br>
 <strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Africa; Sierra Leone is currently considered a high risk to travelers for circulating vaccine-derived polioviruses (cVDPV); vaccine-derived poliovirus (VDPV) is a strain of the weakened poliovirus that was initially included in oral polio vaccine (OPV) and <em>that has changed over time and behaves more like the wild or naturally occurring virus</em>; this means it can be spread more easily to people who are unvaccinated against polio and who come in contact with the stool or respiratory secretions, such as from a sneeze, of an “infected” person who received oral polio vaccine; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
-_severe localized food insecurity_: due to high food prices - about 1.45 million people are projected to face severe food insecurity in the upcoming June to August 2022 period on account of high food prices and low purchasing power, resulting in acute constraints on households&rsquo; economic access to food (2022)<br>
+_severe localized food insecurity_: <em>due to high food prices -</em> about 1.45 million people are projected to face severe food insecurity in the upcoming June to August 2022 period on account of high food prices and low purchasing power, resulting in acute constraints on households’ economic access to food (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 610,222 tons (2004 est.)<br>
@@ -359,7 +359,7 @@ _election results_: Julius Maada BIO elected president in second round; percent 
 **Legislative branch**<br>
 _description_: unicameral Parliament (146 seats; 132 members directly elected in single-seat constituencies by simple majority vote and 14 seats filled in separate elections by non-partisan members of Parliament called "paramount chiefs;" members serve 5-year terms)<br>
 _elections_: last held on 7 March 2018 (next to be held in March 2023)<br>
-_election results_: percent of vote by party - n/a; seats by party - APC 68, SLPP 49, C4C 8, other 7; composition - men 131, women 15, percent of women 10.3%<br>
+_election results_: percent of vote by party - n/a; seats by party - APC 68, SLPP 49, C4C 8, other 7; composition - men 128, women 18, percent of women 12.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Superior Court of Judicature (consists of the Supreme Court - at the apex - with the chief justice and 4 other judges, the Court of Appeal with the chief justice and 7 other judges, and the High Court of Justice with the chief justice and 9 other judges); note &ndash; the Judicature has jurisdiction in all civil, criminal, and constitutional matters<br>
@@ -686,13 +686,13 @@ Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Comm
 0.3% of GDP (2017 est.) (approximately $40 million)<br>
 
 **Military and security service personnel strengths**<br>
-the Republic of Sierra Leone Armed Forces (RSLAF) have approximately 9,000 personnel, mostly ground forces (2021)<br>
+approximately 9,000 personnel, mostly ground forces (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RSLAF's small inventory includes a mix of Soviet-origin and other older foreign-supplied equipment; since 2010, it has received limited quantities of material (mostly donations of second-hand equipment) from China and South Africa (2021)<br>
+the RSLAF's small inventory includes a mix of Soviet-origin and other older foreign-supplied equipment; since 2010, it has received limited quantities of material (mostly donations of second-hand equipment) from China and South Africa (2022)<br>
 
 **Military service age and obligation**<br>
-18-29 for voluntary military service; women are eligible to serve; no conscription (2021)<br>
+18-29 for voluntary military service; women are eligible to serve; no conscription (2022)<br>
 
 **Military - note**<br>
 after the end of the civil war in 2002, the military was reduced in size and restructured with British military assistance; the RSLAF&rsquo;s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the RWAFF fought in both World Wars (2022)<br>
@@ -703,5 +703,5 @@ after the end of the civil war in 2002, the military was reduced in size and res
 <p>Sierra Leone opposes Guinean troops' continued occupation of Yenga, a small village on the Makona River that serves as a border with Guinea; Guinea's forces came to Yenga in the mid-1990s to help the Sierra Leonean military to suppress rebels and to secure their common border but have remained there even after both countries signed a 2005 agreement acknowledging that Yenga belonged to Sierra Leone; in 2012, the two sides signed a declaration to demilitarize the area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_IDPs_: 5,500 (displacement caused by post-electoral violence in 2018 and clashes in the Pujehun region in 2019) (2020)<br>
+_IDPs_: 5,500 (displacement caused by post-electoral violence in 2018 and clashes in the Pujehun region in 2019) (2021)<br>
 

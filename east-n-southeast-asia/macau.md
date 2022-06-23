@@ -590,7 +590,7 @@ defense is the responsibility of China; the Chinese People's Liberation Army (PL
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Trafficking in persons**<br>
 _current situation_: Macau is a destination and, to a much lesser extent, source for women and children subjected to sex trafficking and possibly forced labor; most victims come from the Chinese mainland, but others are trafficked from China, Russia, and Southeast Asia; victims are lured in by false job offers and forced into prostitution, often being confined to massage parlors and illegal brothels where their identity documents are confiscated and they are threatened with violence; Chinese, Russian, and Thai criminal organizations are believed to be involved in recruiting women for Macau&rsquo;s commercial sex industry<br>

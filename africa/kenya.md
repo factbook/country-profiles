@@ -286,7 +286,7 @@ _water contact diseases_: schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 
 **Food insecurity**<br>
-_exceptional shortfall in aggregate food production/supplies_: due to drought conditions - about 3.1 million people were estimated to be severely food insecure in February 2022 reflecting consecutive poor rainy seasons since late 2020 that affected crop and livestock production, mainly in northern and eastern pastoral, agro-pastoral and marginal agricultural areas; the deterioration of the food security situation is mainly due to the negative impact of two consecutive poor rainy seasons since October 2020 on crop and livestock production and on on‑farm income‑earning opportunities; the impact of the measures implemented to curb the spread of the COVID‑19 pandemic on economic activities exacerbated food insecurity (2022)<br>
+_exceptional shortfall in aggregate food production/supplies_: <em>due to drought conditions -</em> about 3.1 million people were estimated to be severely food insecure in February 2022 reflecting consecutive poor rainy seasons since late 2020 that affected crop and livestock production, mainly in northern and eastern pastoral, agro-pastoral and marginal agricultural areas; the deterioration of the food security situation is mainly due to the negative impact of two consecutive poor rainy seasons since October 2020 on crop and livestock production and on on‑farm income‑earning opportunities; the impact of the measures implemented to curb the spread of the COVID‑19 pandemic on economic activities exacerbated food insecurity (2022)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,595,099 tons (2010 est.)<br>
@@ -391,7 +391,7 @@ _consulate(s) general_: Los Angeles<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Eric W. Kneedler (since 20 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Eric W. KNEEDLER (since 20 January 2021)<br>
 _embassy_: P.O. Box 606 Village Market, 00621 Nairobi<br>
 _mailing address_: 8900 Nairobi Place, Washington, DC&nbsp; 20521-8900<br>
 _telephone_: [254] (20) 363-6000<br>
@@ -751,11 +751,11 @@ al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; as of March 2019, Kenya provides shelter to nearly 475,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times<br><br><em>Uganda-Kenya:</em> Kenya and Uganda have begun a joint demarcation of the boundary in 2021 </p><br>
+<p>as of March 2022, Kenya provides shelter to nearly 548,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels</p> <p><em>Kenya-Ethiopia</em>: their border was demarcated in the 1950s and approved in 1970; in 2012, Kenya and Ethiopia agreed to redemarcate their boundary following disputes over beacons and crossborder crime</p> <p><em>Kenya-Somalia</em>: Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; in 2021, the International Court of Justice (ICJ) gave Somalia control over a disputed ocean area where the seabeds are believed to hold vasts oil and gas deposits; the ICJ ruling gives Somalia the rights to several offshore oil exploration blocks previously claimed by Kenya; Kenya did not recognize the court’s decision</p> <p><em>Kenya-South Sudan</em>: two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a M.o.U. on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>Kenya-Sudan</em>: Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005</p> <p><em>Kenya-Tanzania</em>: Kenya and Tanzania were conducting a joint reaffirmation process in November 2021 to ensure the border was visibly marked with pillars</p> <p><em>Kenya-Uganda:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021 </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 279,197 (Somalia), 142,113 (South Sudan), 21,001 (Ethiopia), 19,036 (Democratic Republic of the Congo), 7,521 (Burundi) (2022)<br>
-_IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2020)<br>
+_refugees (country of origin)_: 279,197 (Somalia), 142,113 (South Sudan), 21,047 (Ethiopia), 19,036 (Democratic Republic of the Congo), 7,770 (Burundi), 5,011 (Sudan) (2022)<br>
+_IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2021)<br>
 _stateless persons_: 16,820 (mid-year 2021); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 
 **Illicit drugs**<br>

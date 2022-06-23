@@ -611,8 +611,8 @@ _total subscriptions_: 5,100,101 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 128 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: despite economic challenges, the telecom market is one of Georgia's fastest growth sectors; LTE services cover the majority of citizens; regulators have strategy to introduce 5G; fixed-line telecommunications network has limited coverage outside Tbilisi; multiple mobile-cellular providers provide services to an increasing subscribership throughout the country; broadband subscribers steadily increasing; with investment in infrastructure, customers are moving from copper to fiber networks (2020)<br>
-_domestic_: fixed-line subscriptions over 9 per 100, cellular telephone networks cover the entire country; mobile-cellular teledensity roughly 128 per 100 persons; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi (2020)<br>
+_general assessment_: the telecom sector has been attempting for many years to overcome the decades of under-investment in its fixed-line infrastructure during the Soviet era; concerted efforts to privatize state-owned enterprises and open up the telecom market have been mostly successful, with a large number of networks now competing in both the fixed-line and the mobile segments; more needs to be done, however, to give investors the confidence to enter a market that has barely moved in terms of revenue growth over the last decade, and where regulatory overreach has sometimes come perilously close to arresting further development; Georgia&rsquo;s government moved fast following the collapse of the Soviet Union to liberalize the country&rsquo;s telecom market; this resulted in a relatively high number of networks competing in the under-developed fixed-line segment as well as in the emerging mobile market; both segments remain dominated by just a few companies, with SilkNet and MagtiCom holding the lion&rsquo;s share. (2022)<br>
+_domestic_: fixed-line subscriptions over 9 per 100, cellular telephone networks cover the entire country; mobile-cellular teledensity roughly 128 per 100 persons; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi; the mobile and mobile broadband segments have both demonstrated solid growth in 2021, (2020)<br>
 _international_: country code - 995; landing points for the Georgia-Russia, Diamond Link Global, and Caucasus Cable System fiber-optic submarine cable that provides connectivity to Russia, Romania and Bulgaria; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -710,8 +710,8 @@ as of 2022, approximately 7-10,000 Russian troops continued to occupy the breaka
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,690 (Ukraine) (as of 22 May 2022)<br>
-_IDPs_: 304,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2019)<br>
+_refugees (country of origin)_: 20,386 (Ukraine) (as of 6 June 2022)<br>
+_IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

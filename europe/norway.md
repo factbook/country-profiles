@@ -358,7 +358,7 @@ _email address and website_: <br>emb.washington@mfa.no<br><br>https://www.norway
 _consulate(s) general_: Houston, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Sharon HUDSON-DEAN (since 29 July 2021)<br>
+_chief of mission_: Ambassador Marc NATHANSON (since 16 June 2022)<br>
 _embassy_: Morgedalsvegen 36, 0378 Oslo<br>
 _mailing address_: 5460 Oslo Place,&nbsp; Washington DC&nbsp; 20521-5460<br>
 _telephone_: [47] 21-30-85-40<br>
@@ -707,9 +707,9 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf); Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission; Norway and Russia signed a comprehensive maritime boundary agreement in 2010</p><br>
+<p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 16,708 (Ukraine) (as of 25 May 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 18,511 (Ukraine) (as of 14 June 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 
