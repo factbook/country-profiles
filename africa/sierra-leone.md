@@ -700,7 +700,7 @@ after the end of the civil war in 2002, the military was reduced in size and res
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Sierra Leone opposes Guinean troops' continued occupation of Yenga, a small village on the Makona River that serves as a border with Guinea; Guinea's forces came to Yenga in the mid-1990s to help the Sierra Leonean military to suppress rebels and to secure their common border but have remained there even after both countries signed a 2005 agreement acknowledging that Yenga belonged to Sierra Leone; in 2012, the two sides signed a declaration to demilitarize the area</p><br>
+<p><em>Sierra Leone-Guinea</em>: Sierra Leone opposed Guinean troops' continued occupation of Yenga, a small village on the Makona River that serves as a border with Guinea; Guinea's forces came to Yenga in the mid-1990s to help the Sierra Leonean military to suppress rebels and to secure their common border but remained there even after both countries signed a 2005 agreement acknowledging that Yenga belonged to Sierra Leone; in 2012, the two sides signed a declaration to demilitarize the area; in 2019, Sierra Leone’s Minister of Foreign Affairs and International Cooperation stated that the dispute over Yenga had been resolved; however, at a 2021 ECOWAS meeting, Sierra Leone’s President BIO called on the bloc to help resolve an incursion of Guinean troops in Yenga</p> <p><em>Sierra Leone-Liberia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 5,500 (displacement caused by post-electoral violence in 2018 and clashes in the Pujehun region in 2019) (2021)<br>

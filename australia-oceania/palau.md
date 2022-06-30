@@ -221,6 +221,8 @@ _female_: 17 years (2013)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 5.6%<br>
+_male_: NA<br>
+_female_: (2014) NA<br>
 
 ## Environment
 
@@ -431,6 +433,8 @@ _services_: 86.4% (2016)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 5.6%<br>
+_male_: NA<br>
+_female_: (2014) NA<br>
 
 **Population below poverty line**<br>
 24.9% (2006) NA<br>
@@ -572,5 +576,5 @@ under a 1994 Compact of Free Association between Palau and the US, the US until 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>maritime delineation negotiations continue with Philippines, Indonesia</p><br>
+<p><em>Palau-Indonesia</em>: maritime delineation negotiations continue with Philippines, Indonesia</p> <p><em>Palau-Philippines</em>: maritime delineation negotiations continue with Philippines, Indonesia</p><br>
 

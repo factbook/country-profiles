@@ -348,7 +348,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President THONGLOUN Sisoulit (since 22 March 2021); Vice President PANI Yathotou; Vice President BOUNTHONG Chitmani (since 22 March 2021)<br>
-_head of government_: Prime Minister PHANKHAM Viphavan (since 22 March 2021); Deputy Prime Ministers CHANSAMON Chan-gnalat, SONXAI Siphandon, KIKEO Khaikhamphithoun (since 22 March 2021)<br>
+_head of government_: Prime Minister PHANKHAM Viphavan (since 22 March 2021); Deputy Prime Ministers CHANSAMON Chan-gnalat, SONXAI Siphandon, KIKEO Khaikhamphithoun (since 22 March 2021); VILAI Lakhamfong, SALEUMXAI Kommasit (since June 2022)<br>
 _cabinet_: Council of Ministers appointed by the president, approved by the National Assembly<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021; prime minister nominated by the president, elected by the National Assembly for 5-year term<br>
 _election results_: <em><br>2021: </em>THONGLOUN Sisoulit (LPRP) elected president; National Assembly vote: 161-1; PANI Yathotou and BOUNTHONG Chitmani (LPRP) elected vice presidents; National Assembly vote NA; PHANKHAM Viphavan (LPRP) elected prime minister; National Assembly vote: 158-3<br><br><em>2016:</em> BOUNNYANG Vorachit (LPRP) elected president; PHANKHAM Viphavan (LPRP) elected vice president; percent of National Assembly vote - NA; THONGLOUN Sisoulit (LPRP) elected prime minister; percent of National Assembly vote - NA<br>

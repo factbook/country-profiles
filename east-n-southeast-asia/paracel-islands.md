@@ -172,5 +172,5 @@ occupied by China, which is assessed to maintain 20 outposts in the Paracels (An
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>occupied by China, also claimed by Taiwan and Vietnam</p><br>
+<p><em>Paracel Islands-China-Taiwan-Vietnam</em>: occupied by China, also claimed by Taiwan and Vietnam</p><br>
 

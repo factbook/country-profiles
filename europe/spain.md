@@ -151,7 +151,7 @@ _65 years and over_: 0.66 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-31.1 years (201 est.)<br>
+31.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 4 deaths/100,000 live births (2017 est.)<br>
@@ -702,9 +702,9 @@ _total_: 478<br>
 _by type_: bulk carrier 1, general cargo 36, oil tanker 24, other 417 (2021)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: <br><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)<br><em>Mediterranean Sea:</em> Algeciras, Barcelona, Cartagena, Tarragona, Valencia <br>
+_major seaport(s)_: <br><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)<br><em>Mediterranean Sea:</em> Algeciras, Barcelona, Cartagena, Tarragona, Valencia<br>
 _container port(s) (TEUs)_: Algeciras (5,125,385), Barcelona (3,324,650), Valencia (5,439,827) (2019)<br>
-_LNG terminal(s) (import)_: Barcelona, Bilbao, Cartagena, Huelva, Mugardos, Sagunto<br>
+_LNG terminal(s) (import)_: Barcelona, Bilbao, Cartagena, El Musel, Huelva, Mugardos, Sagunto<br>
 _river port(s)_: Seville (Guadalquivir River)<br>
 
 ## Military and Security
@@ -746,10 +746,10 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal; Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island); Morocco serves as the primary launching site of illegal migration into Spain from North Africa; Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
+<p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 119,820 (Ukraine) (as of 12 June 2022)<br>
+_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 124,052 (Ukraine) (as of 20 June 2022)<br>
 _stateless persons_: 692 (mid-year 2021)<br>
 <strong>note: </strong>261,310 estimated refugee and migrant arrivals, including Canary Islands (January 2015-June 2022)<br>
 

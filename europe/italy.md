@@ -147,7 +147,7 @@ _65 years and over_: 0.67 male(s)/female<br>
 _total population_: 0.93 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-31.3 years (2019 est.)<br>
+31.4 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 2 deaths/100,000 live births (2017 est.)<br>
@@ -699,7 +699,7 @@ _by type_: bulk carrier 36, container ship 7, general cargo 111, oil tanker 103,
 _major seaport(s)_: Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice<br>
 _oil terminal(s)_: Melilli (Santa Panagia) oil terminal, Sarroch oil terminal<br>
 _container port(s) (TEUs)_: Genoa (2,621,472), Gioia Tauro (2,523,000) (2019)<br>
-_LNG terminal(s) (import)_: La Spezia, Panigaglia, Porto Levante<br>
+_LNG terminal(s) (import)_: Panigaglia (La Spezia), Adriatic (Porto Levante), Oristano (Sardinia), Ravenna, Toscana (Livorno)<br>
 
 ## Military and Security
 
@@ -742,7 +742,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 129,623 (Ukraine) (as of 7 June 2022)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 137,385 (Ukraine) (as of 21 June 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
 <strong>note:</strong> 615,626 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
 

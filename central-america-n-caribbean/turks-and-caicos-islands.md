@@ -533,7 +533,7 @@ defense is the responsibility of the UK<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>have received Haitians fleeing economic and civil disorder</p><br>
+<p>none identified</p><br>
 
 **Illicit drugs**<br>
 transshipment point for South American narcotics destined for the US and Europe<br>

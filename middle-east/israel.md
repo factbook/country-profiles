@@ -696,6 +696,7 @@ _by type_: container ship 6, general cargo 2, oil tanker 4, other 29 (2021)<br>
 **Ports and terminals**<br>
 _major seaport(s)_: Ashdod, Elat (Eilat), Hadera, Haifa<br>
 _container port(s) (TEUs)_: Ashdod (1,584,000) (2019)<br>
+_LNG terminal(s) (import)_: Hadera<br>
 
 ## Military and Security
 
@@ -732,7 +733,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Popular Front for the Liberation of P
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p><em>Israel-West Bank</em>: West Bank is Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation; in 2002, Israel began construction of a "seam line" separation barrier along parts of the Green Line and within the West Bank; as of mid-2020, plans were to continue barrier construction</p> <p><em>Israel-Gaza Strip</em>: Israel withdrew its settlers and military from the Gaza Strip and from four settlements in the West Bank in August 2005</p> <p><em>Israel-Syria</em>: Golan Heights is Israeli-controlled (Lebanon claims the Shab'a Farms area of Golan Heights); in March 2019, the US Government recognized Israel's sovereignty over the Golan Heights; since 1948, about 350 peacekeepers from the UN Truce Supervision Organization headquartered in Jerusalem monitor ceasefires, supervise armistice agreements, prevent isolated incidents from escalating, and assist other UN personnel in the region</p><br>
+<p><em>Israel-Gaza Strip</em>: Israel withdrew its settlers and military from the Gaza Strip and from four settlements in the West Bank in August 2005</p> <p><em>Israel-Syria</em>: Golan Heights is Israeli-controlled (Lebanon claims the Shab'a Farms area of Golan Heights); in March 2019, the US Government recognized Israel's sovereignty over the Golan Heights; since 1948, about 350 peacekeepers from the UN Truce Supervision Organization headquartered in Jerusalem monitor ceasefires, supervise armistice agreements, prevent isolated incidents from escalating, and assist other UN personnel in the region<br><br><em>Israel-West Bank</em>: West Bank is Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation; in 2002, Israel began construction of a "seam line" separation barrier along parts of the Green Line and within the West Bank; as of mid-2020, plans were to continue barrier construction</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 12,181 (Eritrea), 5,061 (Ukraine) (2019)<br>

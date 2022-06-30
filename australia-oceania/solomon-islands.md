@@ -660,5 +660,5 @@ Australia and New Zealand provide material and training assistance to the Royal 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>since 2003, the Regional Assistance Mission to Solomon Islands, consisting of police, military, and civilian advisors drawn from 15 countries, has assisted in reestablishing and maintaining civil and political order while reinforcing regional stability and security</p><br>
+<p>from 2003 to 2017, at the request of the Solomon Islands Governor-General, the Regional Assistance Mission to Solomon Islands (RAMSI), consisting of police, military, and civilian advisors drawn from 15 countries, assisted in reestablishing and maintaining civil and political order while reinforcing regional stability and security</p><br>
 

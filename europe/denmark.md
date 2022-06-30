@@ -148,7 +148,7 @@ _65 years and over_: 0.7 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29.7 years (2019 est.)<br>
+29.8 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 4 deaths/100,000 live births (2017 est.)<br>
@@ -719,6 +719,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 30,286 (Ukraine) (as of 9 June 2022)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 30,608 (Ukraine) (as of 19 June 2022)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

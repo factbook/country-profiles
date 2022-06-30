@@ -210,8 +210,8 @@ NA<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.7% (2020) Includes both the Gaza Strip and the West Bank<br>
-_women married by age 18_: 13.4% (2020 est.) Includes both the Gaza Strip and the West Bank<br>
+_women married by age 15_: 0.7% (2020) ; note - includes both the Gaza Strip and the West Bank<br>
+_women married by age 18_: 13.4% (2020 est.) ; note - includes both the Gaza Strip and the West Bank<br>
 
 **Education expenditures**<br>
 5.3% of GDP (2018)<br>
@@ -591,7 +591,7 @@ Al-Aqsa Martyrs Brigade; HAMAS; Kahane Chai; Palestine Islamic Jihad; Palestine 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>the current status of the West Bank is subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation; Israel continues construction of a "seam line" separation barrier along parts of the Green Line and within the West Bank; Israel withdrew from Gaza and four settlements in the northern West Bank in August 2005; since 1948, about 350 peacekeepers from the UN Truce Supervision Organization (UNTSO), headquartered in Jerusalem, monitor ceasefires, supervise armistice agreements, prevent isolated incidents from escalating, and assist other UN personnel in the region</p><br>
+<p><em>West Bank-Israel</em>: West Bank is Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation; in 2002, Israel began construction of a "seam line" separation barrier along parts of the Green Line and within the West Bank; as of mid-2020, plans were to continue barrier construction</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 871,537 (Palestinian refugees) (2020)<br>

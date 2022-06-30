@@ -149,7 +149,7 @@ _65 years and over_: 0.63 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29.4 years (2019 est.)<br>
+29.5 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 3 deaths/100,000 live births (2017 est.)<br>
@@ -681,6 +681,7 @@ _by type_: bulk carrier 9, container ship 1, general cargo 74, oil tanker 4, oth
 
 **Ports and terminals**<br>
 _major seaport(s)_: Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma<br>
+_LNG terminal(s) (import)_: Pori, Tornio Manga; note - an additional terminal at Hamina is under construction and due to come online in October 2022<br>
 
 ## Military and Security
 
@@ -717,6 +718,6 @@ note(s) - the military trains approximately 21,000 (20,000 Army) conscripts each
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 26,629 (Ukraine) (as of 9 June 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 26,629 (Ukraine) (as of 20 June 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

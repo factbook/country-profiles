@@ -675,5 +675,5 @@ Tonga participated in World War I as part of the New Zealand Expeditionary Force
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>maritime boundary dispute with Fiji</p> <p> </p><br>
+<p><em>Tonga-Fiji</em>: Fiji does not recognize Tonga’s 1972 claim to the Minerva Reefs and their surrounding waters; the Minerva Reefs’ 200-mile exclusive economic zone includes valuable fishing grounds</p> <p> </p><br>
 

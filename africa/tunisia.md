@@ -213,11 +213,6 @@ _female_: 2% (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 1.6% (2018)<br>
 
-**Child marriage**<br>
-_women married by age 15_: 0% (2018)<br>
-_women married by age 18_: 1.5% (2018)<br>
-_men married by age 18_: 0% (2018 est.)<br>
-
 **Education expenditures**<br>
 7.3% of GDP (2016)<br>
 
@@ -713,5 +708,5 @@ Ansar al-Sharia in Tunisia; Islamic State of Iraq and ash-Sham (ISIS) network in
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 

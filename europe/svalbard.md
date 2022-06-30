@@ -115,7 +115,7 @@ NA<br>
 **Infant mortality rate**<br>
 _total_: NA<br>
 _male_: NA<br>
-_female_: (2021 est.) NA<br>
+_female_: NA<br>
 
 **Life expectancy at birth**<br>
 _total population_: NA<br>
@@ -342,5 +342,5 @@ Svalbard is a territory of Norway, demilitarized by treaty on 9 February 1920; N
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>despite recent discussions, Russia and Norway dispute their maritime limits in the Barents Sea and Russia's fishing rights beyond Svalbard's territorial limits within the Svalbard Treaty zone</p><br>
+<p><em>Norway-Russia</em>: after 40 years of on-again, off-again negotiations, the two countries signed an agreement in September 2010, defining their maritime boundaries in the Barents Sea and the Arctic Ocean; the border extends the countries’ land border northward beyond the islands in the Barents Sea and into the Arctic Ocean, but the exact distance northward was not specified; because the area is considered the high seas, the passage of naval and commercial vessels will be unaffected; once their legislatures ratify the agreement, both countries will have the green light for oil and natural gas exploration in their newly defined maritime areas; Russia objects to Norway’s establishment in 1977 of the Fishery Protection Zone around the Svalbard Islands, extending Norwegian sovereignty to the shelf around the archipelago; Svalbard is strategically important – as a gateway from the Berents Sea to the North Atlantic – and its waters provide rich fishing grounds</p><br>
 

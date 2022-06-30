@@ -729,7 +729,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Liberation Tigers of Tamil Eelam (LTT
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 12,000 (civil war; more than half displaced prior to 2008; many of the more than 480,000 IDPs registered as returnees have not reached durable solutions) (2021)<br>

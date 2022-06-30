@@ -148,7 +148,7 @@ _65 years and over_: 0.65 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29.2 years (2019 est.)<br>
+29.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 5 deaths/100,000 live births (2017 est.)<br>
@@ -721,7 +721,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 47,477 (Ukraine) (as of 14 June 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 48,118 (Ukraine) (as of 21 June 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

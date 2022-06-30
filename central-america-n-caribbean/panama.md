@@ -716,7 +716,7 @@ Panama created a paramilitary National Guard (Guardia Nacional de Panam&aacute;)
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>organized illegal narcotics operations in Colombia operate within the remote border region with Panama</p><br>
+<p><em>Panama-Colombia</em>: organized illegal narcotics operations in Colombia operate within the remote border region with Panama</p> <p><em>Panama-Costa Rica</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 80,021 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>

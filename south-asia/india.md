@@ -157,7 +157,7 @@ _65 years and over_: 0.71 male(s)/female<br>
 _total population_: 1.06 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21 years (2015/16)<br>
+21.2 years (2019/21)<br>
 <strong>note:</strong> median age a first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
@@ -405,7 +405,7 @@ _email address and website_: <br>minca@washington@mea.gov.in (community affairs)
 _consulate(s) general_: Atlanta, Chicago, Houston, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: ambassador (vacant); Charge d'Affaires Patricia A. LACINA (since 9 September 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Patricia A. LACINA (since 9 September 2021)<br>
 _embassy_: Shantipath, Chanakyapuri, New Delhi - 110021<br>
 _mailing address_: 9000 New Delhi Place, Washington DC&nbsp; 20521-9000<br>
 _telephone_: [91] (11) 2419-8000<br>
@@ -732,7 +732,7 @@ _by type_: bulk carrier 63, container ship 22, general cargo 587, oil tanker 136
 **Ports and terminals**<br>
 _major seaport(s)_: Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam<br>
 _container port(s) (TEUs)_: Jawaharal Nehru Port (5,100,891), Mundra (4,732,699) (2019)<br>
-_LNG terminal(s) (import)_: Dabhol, Dahej, Hazira<br>
+_LNG terminal(s) (import)_: Dabhol, Dahej, Hazira, Kochi<br>
 
 ## Military and Security
 
@@ -754,7 +754,8 @@ information varies; approximately 1.45 million active personnel (est. 1.25 milli
 the inventory of the Indian Armed Forces consists mostly of Russian- and Soviet-origin equipment along with a smaller mix of Western and domestically-produced arms; since 2010, Russia has been the leading supplier of arms to India; other key suppliers included France, Israel, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both indigenous use and export (2022)<br>
 
 **Military service age and obligation**<br>
-16-18 years of age for voluntary military service (Army 17 1/2, Air Force 17, Navy 16 1/2); no conscription; women may join as officers, currently serve in combat roles as Air Force pilots, and under consideration for Army and Navy combat roles (currently can fly naval reconnaissance aircraft) (2022)<br>
+16-18 years of age for voluntary military service (Army 17.5, Air Force 17, Navy 16.5); no conscription (2022)<br>
+note(s) - in June 2022, the Indian Government announced that it would begin recruiting 46,000 men aged 17.5-21 annually to serve on 4-year contracts; at the end of their tenure, 25% would be retained for longer terms of service, while the rest would be forced to retire, although some of those leaving the service would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs, such as the Central Armed Police Forces and Assam Rifles<br><br>- as of 2021, women made up about .56% of the Army, 1.1% of the Air Force, and 6.5% of the Navy<br>
 
 **Military deployments**<br>
 1,900 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 900 Lebanon (UNIFIL); 2,400 South Sudan (UNMISS) (Jan 2022)<br>

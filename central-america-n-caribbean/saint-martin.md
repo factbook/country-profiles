@@ -343,6 +343,9 @@ defense is the responsibility of France<br>
 
 ## Transnational Issues
 
+**Disputes - international**<br>
+none identified<br>
+
 **Illicit drugs**<br>
 <p>transshipment point for cocaine, heroin, and marijuana destined for Puerto Rico and the U.S. Virgin Islands as well as Europe</p><br>
 

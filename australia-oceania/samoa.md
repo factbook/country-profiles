@@ -653,5 +653,5 @@ informal defense ties exist with NZ, which is required to consider any Samoan re
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 

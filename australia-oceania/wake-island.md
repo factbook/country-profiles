@@ -197,5 +197,5 @@ defense is the responsibility of the US; the US Air Force is responsible for ove
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>claimed by Marshall Islands</p><br>
+<p><em>US-Marshall Islands: </em>in May 2016, the Marshall Islands filed a declaration of authority with the UN over Wake Island, which is currently a US territory, reaffirming that it considers Wake Island part of its territory; control over Wake Island would drastically increase the Marshall Islands’ exclusive economic zone; the US State Department is assembling a group of experts from both countries to discuss the maritime boundary</p><br>
 

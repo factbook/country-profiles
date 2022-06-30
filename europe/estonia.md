@@ -143,7 +143,7 @@ _65 years and over_: 0.42 male(s)/female<br>
 _total population_: 0.89 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-28.2 years (2019 est.)<br>
+28.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 9 deaths/100,000 live births (2017 est.)<br>
@@ -717,7 +717,7 @@ Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia ha
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 42,257 (Ukraine) (as of 14 June 2022)<br>
+_refugees (country of origin)_: 43,048 (Ukraine) (as of 21 June 2022)<br>
 _stateless persons_: 71,873 (mid-year 2021); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

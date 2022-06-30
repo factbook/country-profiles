@@ -122,7 +122,7 @@ population concentrated around the capital of Kingston<br>
 NA<br>
 
 **Infant mortality rate**<br>
-_total_: (2018) NA<br>
+_total_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 

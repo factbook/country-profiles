@@ -720,7 +720,7 @@ _by type_: bulk carrier 14, container ship 8, general cargo 27, oil tanker 40, o
 _major seaport(s)_: Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said<br>
 _oil terminal(s)_: Ain Sukhna terminal, Sidi Kerir terminal<br>
 _container port(s) (TEUs)_: Port Said (East) (3,816,084) (2019)<br>
-_LNG terminal(s) (export)_: Damietta, Idku (Abu Qir Bay)<br>
+_LNG terminal(s) (export)_: Damietta, Idku (Abu Qir Bay), Sumed<br>
 Gulf of Suez - Suez<br>
 
 ## Military and Security

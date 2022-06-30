@@ -650,5 +650,5 @@ the separate British and French police forces were unified in 1980 under Ni-Vanu
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Matthew and Hunter Islands east of New Caledonia claimed by Vanuatu and France</p><br>
+<p><em>Vanuatu-France</em>: Matthew and Hunter Islands, two uninhabited islands east of New Caledonia, claimed by Vanuatu and France; in January 2019, a French naval mission landed officers on the islands to reinforce France’s sovereignty; in November 2021, French vessels fishing near the islands raised tensions</p><br>
 

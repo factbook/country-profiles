@@ -142,7 +142,7 @@ _65 years and over_: 0.71 male(s)/female<br>
 _total population_: 1 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-30.7 years (2019 est.)<br>
+30.9 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 5 deaths/100,000 live births (2017 est.)<br>
@@ -712,7 +712,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 35,675 (Ukraine) (as of 13 June 2022)<br>
+_refugees (country of origin)_: 36,759 (Ukraine) (as of 20 June 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

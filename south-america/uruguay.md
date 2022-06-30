@@ -724,7 +724,7 @@ the military has some domestic responsibilities, including perimeter security fo
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime; uncontested boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border</p><br>
+<p><em>Uruguay-Argentina</em>: in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime, which ended the dispute</p> <p><em>Uruguay-Brazil</em>: uncontested boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2022)<br>

@@ -134,7 +134,7 @@ _total population_: 1.12 male(s)/female (2016 est.)<br>
 <strong>note:</strong> sex ratio is somewhat skewed by the high proportion of males at the Royal Air Force station, Mount Pleasant Airport (MPA); excluding MPA, the sex ratio of the total population would be 1.04<br>
 
 **Infant mortality rate**<br>
-_total_: (2018) NA<br>
+_total_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 

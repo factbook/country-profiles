@@ -120,7 +120,7 @@ only Home Island and West Island are populated<br>
 **Infant mortality rate**<br>
 _total_: NA<br>
 _male_: NA<br>
-_female_: (2021 est.) NA<br>
+_female_: NA<br>
 
 **Life expectancy at birth**<br>
 _total population_: NA<br>

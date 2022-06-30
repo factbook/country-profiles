@@ -399,7 +399,7 @@ Christian Democrat Party or PDC [Jose ENDUNDO]<br>Congolese Rally for Democracy 
 ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant)<br><br>Charge d'Affaires Thomas MBIMBA, Counselor (since 21 December 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Thomas MBIMBA, Counselor (since 21 December 2021)<br>
 _chancery_: 1100 Connecticut Avenue NW, Suite 725, Washington DC 20036<br>
 _telephone_: [1] (202) 234-7690; [1] (202) 234-7691<br>
 _FAX_: [1] (202) 234-2609<br>

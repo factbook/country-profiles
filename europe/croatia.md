@@ -150,7 +150,7 @@ _65 years and over_: 0.67 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-28.9 years (2019 est.)<br>
+29 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 8 deaths/100,000 live births (2017 est.)<br>
@@ -700,6 +700,7 @@ _by type_: bulk carrier 14, general cargo 32, oil tanker 16, other 292 (2021)<br
 **Ports and terminals**<br>
 _major seaport(s)_: Ploce, Rijeka, Sibenik, Split<br>
 _oil terminal(s)_: Omisalj<br>
+_LNG terminal(s) (import)_: Krk Island<br>
 _river port(s)_: Vukovar (Danube)<br>
 
 ## Military and Security
@@ -736,7 +737,7 @@ Croatia joined NATO in 2009<br>
 <p>dispute remains with Bosnia and Herzegovina over several small sections of the boundary related to maritime access that hinders ratification of the 1999 border agreement; since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piranski Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led to Slovenia lifting its objections to Croatia joining the EU; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,259 (Ukraine) (as of 14 June 2022)<br>
+_refugees (country of origin)_: 14,642 (Ukraine) (as of 20 June 2022)<br>
 _stateless persons_: 2,910 (mid-year 2021)<br>
 <strong>note: </strong>743,021 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
 

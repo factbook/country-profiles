@@ -166,7 +166,7 @@ _65 years and over_: 0.64 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-28.8 years (2019 est.)<br>
+28.9 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 8 deaths/100,000 live births (2017 est.)<br>
@@ -724,7 +724,7 @@ _by type_: container ship 29, general cargo 50, oil tanker 28, other 441 (2021)<
 **Ports and terminals**<br>
 _major seaport(s)_: <br><em>Atlantic Ocean:</em> Brest, Calais, Dunkerque, Le Havre, Nantes<br><em>Mediterranean Sea:</em> Marseille<br>
 _container port(s) (TEUs)_: Le Havre (2,822,910) (2019)<br>
-_LNG terminal(s) (import)_: Fos Cavaou, Fos Tonkin, Montoir de Bretagne<br>
+_LNG terminal(s) (import)_: Dunkerque, Fos Cavaou, Fos Tonkin, Montoir de Bretagne<br>
 _river port(s)_: Bordeaux (Garronne); Nantes - Saint Nazaire (Loire); Paris, Rouen (Seine); Strasbourg (Rhine)<br>
 _cruise/ferry port(s)_: Calais, Cherbourg, Le Havre<br>
 

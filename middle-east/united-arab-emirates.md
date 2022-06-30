@@ -707,7 +707,7 @@ the UAE hosts a multi-service French military base, which includes the French na
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>boundary agreement was signed and ratified with Oman in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah enclaves, but contents of the agreement and detailed maps showing the alignment have not been published; Iran and UAE dispute Tunb Islands and Abu Musa Island, which Iran occupies</p><br>
+<p><em>UAE-Oman</em>: boundary agreement was signed and ratified with Oman in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah enclaves, but contents of the agreement and detailed maps showing the alignment have not been published</p> <p><em>UAE-Iran</em>: Iran and UAE dispute Tunb Islands and Abu Musa Island near the Strait of Hormuz, which Iran has occupied since 1971</p> <p><em>UAE-Saudi Arabia</em>: t<em>he </em>UAE has differences with Saudi Arabia<em> </em>over their border and the sharing of a major oilfield there, although the issue is seldom mentioned publically</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 5 (mid-year 2021)<br>

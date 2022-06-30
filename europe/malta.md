@@ -142,7 +142,7 @@ _65 years and over_: 0.7 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29 years (2019 est.)<br>
+29.3 years (2020 est.)<br>
 <strong>note:</strong> data refer to the average of the different childbearing ages of first-order births<br>
 
 **Maternal mortality ratio**<br>
@@ -656,6 +656,7 @@ _by type_: bulk carrier 601, container ship 310, general cargo 218, oil tanker 4
 **Ports and terminals**<br>
 _major seaport(s)_: Marsaxlokk (Malta Freeport), Valletta<br>
 _container port(s) (TEUs)_: Marsaxlokk (2,722,889) (2019)<br>
+_LNG terminal(s) (import)_: Delimara<br>
 
 ## Military and Security
 

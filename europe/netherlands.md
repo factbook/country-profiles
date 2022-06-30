@@ -151,7 +151,7 @@ _65 years and over_: 0.67 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-30.1 years (2019 est.)<br>
+30.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 5 deaths/100,000 live births (2017 est.)<br>
@@ -691,7 +691,7 @@ _by type_: bulk carrier 10, container ship 40, general cargo 559, oil tanker 26,
 **Ports and terminals**<br>
 _major seaport(s)_: IJmuiden, Vlissingen<br>
 _container port(s) (TEUs)_: Rotterdam (14,810,804) (2019)<br>
-_LNG terminal(s) (import)_: Rotterdam<br>
+_LNG terminal(s) (import)_: Gate (Rotterdam)<br>
 _river port(s)_: Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rotterdam (Rhine River); Terneuzen (Western Scheldt River)<br>
 
 ## Military and Security
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,792 (Syria), 14,787 (Eritrea), 8,368 (Somalia), 6,636 (Iraq), 5,346 (Iran) (mid-year 2021); 64,480 (Ukraine) (as of 13 June 2022)<br>
+_refugees (country of origin)_: 37,792 (Syria), 14,787 (Eritrea), 8,368 (Somalia), 6,636 (Iraq), 5,346 (Iran) (mid-year 2021); 65,550 (Ukraine) (as of 20 June 2022)<br>
 _stateless persons_: 2,087 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

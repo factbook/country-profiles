@@ -675,7 +675,7 @@ formed in 1977, the SDF's primary responsibility is maritime security, particula
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Mauritius and Seychelles claim the Chagos Islands (UK-administered British Indian Ocean Territory)</p><br>
+<p><em>Seychelles-UK</em>: Mauritius and Seychelles claim the Chagos Islands (UK-administered British Indian Ocean Territory)</p><br>
 
 **Trafficking in persons**<br>
 _current situation_: Seychelles is a source and destination country for children and women subjected to sex trafficking; Seychellois girls and, to a lesser extent boys, are forced into prostitution in nightclubs, bars, guest houses, hotels, brothels, private homes, and on the streets by peers, family members, and pimps; foreign tourists, sailors, and migrant workers contribute to the demand for commercial sex acts in Seychelles; some of the large population of foreign migrant workers reportedly experience the underpayment of wages and substandard housing<br>

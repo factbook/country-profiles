@@ -386,7 +386,7 @@ African Peoples' Party-Cote d'Ivoire or PPA-CI[Laurent GBAGBO]<br>Pan-African Co
 ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UN Security Council (temporary), UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ibrahima TOURE (since 13 January 2022))<br>
+_chief of mission_: Ambassador Ibrahima TOURE (since 13 January 2022)<br>
 _chancery_: 2424 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 797-0300<br>
 _FAX_: [1] (202) 462-9444<br>

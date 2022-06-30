@@ -379,7 +379,7 @@ Alliance for Patriotic Reorientation and Construction or APRC [Fabakary JATTA]<b
 ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant)<br><br>Charge d’Affaires Mustapha SOSSEH (16 March 2022)<br>
+_chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Mustapha SOSSEH (16 March 2022)<br>
 _chancery_: 5630 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 785-1399; [1] (202) 785-1428<br>
 _FAX_: [1] (202) 785-1430<br>

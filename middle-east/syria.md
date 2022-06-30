@@ -706,7 +706,7 @@ Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Golan Heights is Israeli-controlled with UN Disengagement Observer Force (UNDOF) patrolling a buffer zone since 1974; lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shab'a Farms in the Golan Heights; 2004 Agreement and pending demarcation would settle border dispute with Jordan</p><br>
+<p><em>Syria-Iraq</em>: none identified</p> <p><em>Syria-Israel</em>: Golan Heights is Israeli-controlled with UN Disengagement Observer Force (UNDOF) patrolling a buffer zone since 1974; because of ceasefire violations and increased military activity in the Golan Heights, the UN Security Council continues to extend UNDOF’s mandate; since 2000, Lebanon has claimed Shab'a Farms in the Golan Heights</p> <p><em>Syria-Jordan</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Syria-Lebanon</em>: discussions on demarcating the two countries’ maritime borders were held in April 2021, after Syria signed a contract with a Russian company to conduct oil and gas exploration in a disputed maritime area, but the issue was not resolved</p> <p><em>Syria-Turkey</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 568,730 (Palestinian Refugees) (2020); 12,435 (Iraq) (mid-year 2021)<br>

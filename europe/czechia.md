@@ -150,7 +150,7 @@ _65 years and over_: 0.61 male(s)/female<br>
 _total population_: 1.05 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-28.5 years (2019 est.)<br>
+28.5 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 3 deaths/100,000 live births (2017 est.)<br>
@@ -721,7 +721,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 373,965 (Ukraine) (as of 14 June 2022)<br>
+_refugees (country of origin)_: 39,669 (Ukraine) (as of 21 June 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

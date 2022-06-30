@@ -710,7 +710,8 @@ as of 2022, the Taliban had established a Ministry of Defense and named commande
 2.9% of GDP (2015) (approximately $2.22 billion)<br>
 
 **Military and security service personnel strengths**<br>
-not available; in early 2022, the Taliban announced intentions to form a military of approximately 110,000 personnel; prior to August 2021, the ANDSF had approximately 300,000 personnel (180,000 Ministry of Defense; 120,000 Ministry of Interior) (2022)<br>
+estimated 58,000 to 100,000 Taliban fighters, with numbers fluctuating based on the time of year and battlefield operations; in 2022, the Taliban announced intentions to form a military of approximately 110,000 personnel (2022)<br>
+note - as of 2022, there were also up to 10,000 foreign fighters in Afghanistan, most of whom were aligned with the Taliban<br>
 
 **Military equipment inventories and acquisitions**<br>
 the former Afghan military's inventory was mostly a mix of Soviet-era and more modern US and Russian equipment (2021)<br>

@@ -267,8 +267,8 @@ _elections/appointments_: the monarchy is hereditary; Council of Ministers, incl
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the States of Jersey (49 elected members; 8 senators to serve 4-year terms, and 29 deputies and 12 connetables, or heads of parishes, to serve 4-year terms; 5 non-voting members appointed by the monarch include the bailiff, lieutenant governor, dean of Jersey, attorney general, and the solicitor general)<br>
-_elections_: last held on 16 May 2018 (next to be held on 16 May 2022)<br>
-_election results_: percent of vote - NA; seats - independents 49; composition (as of October 2021) - men 35, women 14, percent of women 28.6%<br>
+_elections_: last held on 22 June 2022 (next to be held in 2026)<br>
+_election results_: percent of vote - independents 59.1%, RJ 12.3%, JA 9.2%, BW 7.8%, PP 4.2%, JLC 4.1%, other 3.3%; seats by party - independents 31, RJ 10, JA 1, BW 4, PP 1, JLC 2; composition - men NA, women NA, percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest courts_: Jersey Court of Appeal (consists of the bailiff, deputy bailiff, and 12 judges); Royal Court (consists of the bailiff, deputy bailiff, 6 commissioners and lay people referred to as jurats, and is organized into Heritage, Family, Probate, and Samedi Divisions); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -276,8 +276,8 @@ _judge selection and term of office_: Jersey Court of Appeal bailiffs and judges
 _subordinate courts_: Magistrate's Court; Youth Court; Petty Debts Court; Parish Hall Enquires (a process of preliminary investigation into youth and minor adult offenses to determine need for presentation before a court)<br>
 
 **Political parties and leaders**<br>
-<strong>one registered party:</strong> Reform Jersey [Sam MEZEC]<br>
-<strong>note:</strong> most senators and deputies sit as independents<br>
+Better Way or BW (group of independent candidates)<br>Jersey Alliance or JA [Mark BOLEAT]<br>Jersey Liberal Conservaties or JLC [Philip BAILHACHE]<br>Progress Party or PP [Steve PALLETT]<br>Reform Jersey or RJ [Sam MEZEC]<br>
+<strong>note:</strong> most deputies sit as independents<br>
 
 **International organization participation**<br>
 UPU<br>

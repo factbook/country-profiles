@@ -145,7 +145,7 @@ _65 years and over_: 0.7 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-31.1 years (2019 est.)<br>
+31 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 5 deaths/100,000 live births (2017 est.)<br>
@@ -698,6 +698,6 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,245 (Ukraine) (as of 9 June 2022)<br>
+_refugees (country of origin)_: 5,775 (Ukraine) (as of 14 June 2022)<br>
 _stateless persons_: 194 (mid-year 2021)<br>
 

@@ -40,7 +40,7 @@ none (landlocked)<br>
 <p>three climate zones including a hot tropical savanna with a short rainy season in the southern half, a tropical hot semi-arid steppe climate typical of the Sahel region in the northern half, and small area of hot desert in the very north of the country bordering the Sahara Desert</p><br>
 
 **Terrain**<br>
-Mostly flat to dissected, undulating plains; hills in the west and southeast.  Occupies an extensive plateau with savanna that is grassy in the north and gradually gives way to sparse forests in the south. (2019)<br>
+mostly flat to dissected, undulating plains; hills in the west and southeast; occupies an extensive plateau with savanna that is grassy in the north and gradually gives way to sparse forests in the south<br>
 
 **Elevation**<br>
 _highest point_: Tena Kourou 749 m<br>

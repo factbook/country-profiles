@@ -362,8 +362,8 @@ _residency requirement for naturalization_: 5 continuous years<br>
 17 years of age; universal and married persons regardless of age<br>
 
 **Executive branch**<br>
-_chief of state_: President Joko WIDODO (since 20 October 2014, reelected 17 April 2019, inauguration 19 October 2019); Vice President Ma'ruf AMIN (since 20 October 2019); note - the president is both chief of state and head of government<br>
-_head of government_: President Joko WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019)<br>
+_chief of state_: President Joko "Jokowi" WIDODO (since 20 October 2014, reelected 17 April 2019, inauguration 19 October 2019); Vice President Ma'ruf AMIN (since 20 October 2019); note - the president is both chief of state and head of government<br>
+_head of government_: President Joko "Jokowi" WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on&nbsp;17 April 2019 (next election 2024)<br>
 _election results_: Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br>
@@ -395,9 +395,9 @@ _consulate(s) general_: Chicago, Houston, Los Angeles, New York, San Francisco<b
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Sung Y. KIM (since 21 October 2020)<br>
 _embassy_: Jl. Medan Merdeka Selatan No. 3-5, Jakarta 10110<br>
-_mailing address_: 8200 Jakarta Place, Washington DC&nbsp; 8200<br>
-_telephone_: [62] (21) 5083-1000 (2020)<br>
-_FAX_: [62] (21) 385-7189 (2018)<br>
+_mailing address_: 8200 Jakarta Place, Washington DC&nbsp; 20521-8200<br>
+_telephone_: [62] (21) 5083-1000<br>
+_FAX_: [62] (21) 385-7189<br>
 _email address and website_: <br>jakartaacs@state.gov<br><br>https://id.usembassy.gov/<br>
 _consulate(s) general_: Surabaya<br>
 _consulate(s)_: Medan<br>

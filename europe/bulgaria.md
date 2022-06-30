@@ -151,7 +151,7 @@ _65 years and over_: 0.72 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-26.3 years (2019 est.)<br>
+26.4 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 10 deaths/100,000 live births (2017 est.)<br>
@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 79,196 (Ukraine) (as of 14 June 2022)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 82,071 (Ukraine) (as of 21 June 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 74,107 estimated refugee and migrant arrivals (January 2015-March 2022); Bulgaria is predominantly a transit country<br>
 

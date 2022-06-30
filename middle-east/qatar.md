@@ -691,7 +691,7 @@ Qatar hosts more than 8,000 US military forces and the regional headquarters for
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>none</p><br>
+<p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 1,200 (mid-year 2021)<br>

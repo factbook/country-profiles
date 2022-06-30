@@ -126,7 +126,7 @@ NA<br>
 **Infant mortality rate**<br>
 _total_: NA<br>
 _male_: NA<br>
-_female_: (2021 est.) NA<br>
+_female_: NA<br>
 
 **Life expectancy at birth**<br>
 _total population_: NA<br>
@@ -408,5 +408,5 @@ defense is the responsibility of New Zealand<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Tokelau included American Samoa's Swains Island (Olosega) in its 2006 draft independence constitution</p><br>
+<p><em>Tokelau-American Samoa (US)</em>: Tokelau included American Samoa's Swains Island (Olosega) in its 2006 draft independence constitution; Swains Island has been administered by American Samoa since 1925; the 1980 Treaty of Tokehega delineates the maritime boundary between American Samoa and Tokelau; while not specifically mentioning Swains Island, the treaty notes in its preamble that New Zealand does not claim as part of Tokelau any island administered as part of American Samoa</p><br>
 

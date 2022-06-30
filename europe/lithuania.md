@@ -145,7 +145,7 @@ _65 years and over_: 0.45 male(s)/female<br>
 _total population_: 0.86 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-27.5 years (2019 est.)<br>
+28.2 years (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
 5 deaths/100,000 live births (2017 est.)<br>
@@ -214,9 +214,6 @@ _female_: 21.8% (2020 est.)<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
-
-**Child marriage**<br>
-_women married by age 18_: 0% (2019 est.)<br>
 
 **Education expenditures**<br>
 3.9% of GDP (2018)<br>
@@ -726,7 +723,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 56,223 (Ukraine) (as of 14 June 2022)<br>
+_refugees (country of origin)_: 57,175 (Ukraine) (as of 21 June 2022)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

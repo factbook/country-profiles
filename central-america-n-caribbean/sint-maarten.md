@@ -409,3 +409,8 @@ no regular military forces; Police Department for local law enforcement, support
 **Military - note**<br>
 defense is the responsibility of the Kingdom of the Netherlands<br>
 
+## Transnational Issues
+
+**Disputes - international**<br>
+non identified<br>
+

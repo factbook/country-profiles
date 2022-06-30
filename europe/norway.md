@@ -147,7 +147,7 @@ _65 years and over_: 0.71 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29.7 years (2019 est.)<br>
+29.8 years (2020 est.)<br>
 <strong>note:</strong> data is calculated based on actual age at first births<br>
 
 **Maternal mortality ratio**<br>
@@ -673,7 +673,7 @@ _by type_: bulk carrier 109, container ship 1, general cargo 242, oil tanker 96,
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture<br>
-_LNG terminal(s) (export)_: Kamoy, Kollsnes, Melkoya Island<br>
+_LNG terminal(s) (export)_: Kamoy, Kollsnes, Melkoya Island, Tjeldbergodden<br>
 _LNG terminal(s) (import)_: Fredrikstad, Mosjoen<br>
 
 ## Military and Security
@@ -710,6 +710,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 18,511 (Ukraine) (as of 14 June 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 18,994 (Ukraine) (as of 21 June 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

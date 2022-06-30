@@ -156,7 +156,7 @@ _65 years and over_: 0.74 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.9 years (2018 est.)<br>
+21.9 years (2019 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
@@ -747,7 +747,7 @@ Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>cross-border trafficking in persons, timber, wildlife, and cannabis; rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
+<p><em>Senegal-Guinea-Bissau</em>: rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,199 (Mauritania) (2022)<br>

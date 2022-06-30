@@ -702,7 +702,7 @@ the inventory for Turkmenistan's military is comprised largely of older Russian 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>cotton monoculture in Uzbekistan and Turkmenistan creates water-sharing difficulties for Amu Darya river states; field demarcation of the boundaries with Kazakhstan commenced in 2005; bilateral talks continue with Azerbaijan on dividing the seabed and contested oilfields in the middle of the Caspian</p><br>
+<p><em>Turkmenistan-Azerbaijan</em>: in January 2021, the two countries reached a preliminary agreement on the joint exploration of an undersea hydrocarbon field containing oil and natural gas in the Caspian Sea</p> <p><em>Turkmenistan-Iran</em>: none identified</p> <p><em>Turkmenistan-Kazakhstan</em>: Kazakhstan and Turkmenistan signed a treaty on the delimitation and demarcation process in 2001; field demarcation of the boundaries with Kazakhstan commenced in 2005; Turkmenistan and Kazakhstan agreed to their border in the Caspian Sea in 2014</p> <p><em>Turkmenistan-Kazakhstan-Uzbekistan</em>: in 2017, the three countries signed an agreement of the junction of their borders</p> <p><em>Turkmenistan-Uzbekistan</em>: cotton monoculture in Uzbekistan and Turkmenistan creates water-sharing difficulties for Amu Darya river states; in 2021, the two countries reached an agreement to create a joint intergovernmental commission to oversee water management</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 4,107 (mid-year 2021)<br>

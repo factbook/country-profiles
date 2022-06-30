@@ -149,6 +149,7 @@ _65 years and over_: 1 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
+21.9 years (2016/18)<br>
 <strong>note:</strong> median age a first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
@@ -707,7 +708,7 @@ the PNGDF has a limited inventory consisting of a diverse mix of foreign-supplie
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>relies on assistance from Australia to keep out illegal cross-border activities from primarily Indonesia, including goods smuggling, illegal narcotics trafficking, and squatters and secessionists</p><br>
+<p><em>Papua New Guinea-Australia</em>: relies on assistance from Australia to keep out illegal cross-border activities from primarily Indonesia, including goods smuggling, illegal narcotics trafficking, and squatters and secessionists</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 11,601 (Indonesia) (mid-year 2021)<br>

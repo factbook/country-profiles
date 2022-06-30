@@ -311,3 +311,8 @@ nearest airport for international flights is Princess Juliana International Airp
 **Military - note**<br>
 defense is the responsibility of France<br>
 
+## Transnational Issues
+
+**Disputes - international**<br>
+none identified<br>
+

@@ -338,7 +338,7 @@ _judge selection and term of office_: chief justice of the Supreme Court and pre
 _subordinate courts_: resident magistrate courts, district courts, and petty sessions courts<br>
 
 **Political parties and leaders**<br>
-<p>Jamaica Labor Party or JLP [Andrew Michael HOLNESS]<br>People's National Party or PNP [Mark GOLDING]<br>United Independents' Congress or UIC [Joseph PATTERSON]<br>Jamaica Progressive Party or JPP [Gilbert EDWARDS]</p><br>
+<p>Jamaica Labor Party or JLP [Andrew Michael HOLNESS]<br>Jamaica Progressive Party or JPP [Gilbert EDWARDS]<br>People's National Party or PNP [Mark GOLDING]<br>United Independents' Congress or UIC [Joseph PATTERSON]</p><br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

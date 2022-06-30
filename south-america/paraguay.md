@@ -724,7 +724,7 @@ as of 2022, the armed forces were conducting operations against the Paraguayan P
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>unruly region at convergence of Argentina-Brazil-Paraguay borders is locus of money laundering, smuggling, arms and illegal narcotics trafficking, and fundraising for violent extremist organizations</p><br>
+<p><em>Paraguay-Argentina-Brazil</em>: unruly region at convergence of Paraguay-Argentina-Brazil borders is locus of money laundering, smuggling, arms and illegal narcotics trafficking, and fundraising for violent extremist organizations</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 5,900 (Venezuela) (2022)<br>

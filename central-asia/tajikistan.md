@@ -149,8 +149,7 @@ _65 years and over_: 0.48 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2022 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.9 years (2017 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-49<br>
+23.2 years (2017 est.)<br>
 
 **Maternal mortality ratio**<br>
 17 deaths/100,000 live births (2017 est.)<br>
@@ -708,7 +707,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>in 2006, China and Tajikistan pledged to commence demarcation of the revised boundary agreed to in the delimitation of 2002; talks continue with Uzbekistan to delimit border and remove minefields; disputes in Isfara Valley delay delimitation with Kyrgyzstan</p><br>
+<p><em>Tajikistan-Afghanistan</em>: none identified</p> <p><em>Tajikistan-China</em>: in 2006, China and Tajikistan pledged to commence demarcation of the revised boundary agreed to in the delimitation of 2002; in 2011, Tajikistan and China ratified the 2002 border demarcation agreement whereby Tajikistan ceded approximately 1,100 square kilometers in the Pamirs to China</p> <p><em>Tajikistan-Kyrgyzstan</em>: disputes in Isfara Valley delay delimitation with Kyrgyzstan; in May 2021, both countries agreed to a ceasefire following recent clashes at their border</p> <p><em>Tajikistan-Uzbekistan</em>: talks continue with Uzbekistan to delimit border and clear minefields; as of January 2020, Uzbekistan reported that it had cleared all mines along its side of the border</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 6,775 (Afghanistan) (mid-year 2021)<br>
