@@ -213,8 +213,8 @@ _female_: 7.1% (2020 est.)<br>
 2.1% (2018)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.3% (2018)<br>
-_women married by age 18_: 13.9% (2018)<br>
+_women married by age 15_: 0.3%<br>
+_women married by age 18_: 13.9%<br>
 _men married by age 18_: 0.5% (2018 est.)<br>
 
 **Education expenditures**<br>
@@ -710,7 +710,7 @@ as of 2022, approximately 7-10,000 Russian troops continued to occupy the breaka
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,145 (Ukraine) (as of 17 June 2022)<br>
+_refugees (country of origin)_: 21,665 (Ukraine) (as of 26 June 2022)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 

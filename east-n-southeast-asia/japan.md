@@ -361,7 +361,7 @@ Constitutional Democratic Party of Japan or CDP [Yukio EDANO]<br>Democratic Part
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador TOMITA Koji (since 17 February 2021) (2018)<br>
+_chief of mission_: Ambassador TOMITA Koji (since 17 February 2021)<br>
 _chancery_: 2520 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 238-6700<br>
 _FAX_: [1] (202) 328-2187<br>

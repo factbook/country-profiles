@@ -224,8 +224,8 @@ _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
 16.3% (2018)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 17% (2018)<br>
-_women married by age 18_: 46.5% (2018)<br>
+_women married by age 15_: 17%<br>
+_women married by age 18_: 46.5%<br>
 _men married by age 18_: 1.9% (2018 est.)<br>
 
 **Education expenditures**<br>

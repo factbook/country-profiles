@@ -334,7 +334,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Magistrates' Courts<br>
 
 **Political parties and leaders**<br>
-Alliance Party for Progress or APP [Joseph ATHERLEY]<br>Barbados Labor Party or BLP [Mia MOTTLEY]<br>Democratic Labor Party or DLP [Steve Blackett]<br>
+Alliance Party for Progress or APP [Joseph ATHERLEY]<br>Barbados Labor Party or BLP [Mia MOTTLEY]<br>Democratic Labor Party or DLP [Steve BLACKETT]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

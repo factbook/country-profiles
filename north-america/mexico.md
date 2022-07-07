@@ -232,7 +232,7 @@ _female_: 6.2% (2020 est.)<br>
 4.7% (2018/19)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 3.6% (2018)<br>
+_women married by age 15_: 3.6%<br>
 _women married by age 18_: 20.7% (2018 est.)<br>
 
 **Education expenditures**<br>
@@ -480,7 +480,7 @@ _exports of goods and services_: 37.8% (2017 est.)<br>
 _imports of goods and services_: -39.7% (2017 est.)<br>
 
 **Agricultural products**<br>
-sugar cane, maize, milk, oranges, sorghum, tomatoes, poultry, wheat, green chillies/peppers, eggs<br>
+sugarcane, maize, milk, oranges, sorghum, tomatoes, poultry, wheat, green chillies/peppers, eggs<br>
 
 **Industries**<br>
 food and beverages, tobacco, chemicals, iron and steel, petroleum, mining, textiles, clothing, motor vehicles, consumer durables, tourism<br>

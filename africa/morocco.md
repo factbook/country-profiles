@@ -248,7 +248,7 @@ _female_: 0.8% (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.5% (2018)<br>
+_women married by age 15_: 0.5%<br>
 _women married by age 18_: 13.7% (2018 est.)<br>
 
 **Education expenditures**<br>
@@ -415,7 +415,7 @@ _email address and website_: <br>Washingtonembbmorocco@maec.gov.ma<br><br>https:
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: ambassador (vacant); Charge d'Affaires David GREENE (since 21 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires David GREENE (since 21 January 2021)<br>
 _embassy_: Km 5.7 Avenue Mohammed VI, Souissi, Rabat 10170<br>
 _mailing address_: 9400 Rabat Place, Washington DC&nbsp; 20521-9400<br>
 _telephone_: [212] 0537-637-200<br>

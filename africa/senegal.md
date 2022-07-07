@@ -230,8 +230,8 @@ _female_: 0.7% (2020 est.)<br>
 14.4% (2019)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 8.8% (2019)<br>
-_women married by age 18_: 30.5% (2019)<br>
+_women married by age 15_: 8.8%<br>
+_women married by age 18_: 30.5%<br>
 _men married by age 18_: 0.7% (2019 est.)<br>
 
 **Education expenditures**<br>

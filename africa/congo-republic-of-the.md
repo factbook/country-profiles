@@ -230,8 +230,8 @@ _female_: 2.1% (2020 est.)<br>
 12.3% (2014/15)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 8.4% (2018)<br>
-_women married by age 18_: 29.1% (2018)<br>
+_women married by age 15_: 8.4%<br>
+_women married by age 18_: 29.1%<br>
 _men married by age 18_: 5.6% (2018 est.)<br>
 
 **Education expenditures**<br>
@@ -737,6 +737,6 @@ the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a small
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 29,090 (Central African Republic), 22,114 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 29,132 (Central African Republic), 22,123 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 159,830 (multiple civil wars since 1992) (2022)<br>
 

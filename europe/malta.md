@@ -689,7 +689,7 @@ the small inventory of the Armed Forces of Malta consists of equipment from a mi
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 11 (mid-year 2021)<br>
-<strong>note:</strong> 8,151 estimated refugee and migrant arrivals by sea (January 2015-May 2022)<br>
+<strong>note:</strong> 8,153 estimated refugee and migrant arrivals by sea (January 2015-June 2022)<br>
 
 **Illicit drugs**<br>
 minor transshipment point for hashish from North Africa to Western Europe<br>

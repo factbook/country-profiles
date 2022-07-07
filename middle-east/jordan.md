@@ -224,8 +224,8 @@ _female_: 12.8% (2020 est.)<br>
 3% (2012)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 1.5% (2018)<br>
-_women married by age 18_: 9.7% (2018)<br>
+_women married by age 15_: 1.5%<br>
+_women married by age 18_: 9.7%<br>
 _men married by age 18_: 0.1% (2018 est.)<br>
 
 **Education expenditures**<br>
@@ -738,7 +738,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Jordan-Iraq</em>: the two countries signed a border agreement in 1984; Jordan has ratified the treaty, but it has not been confirmed that Iraq has ratified it; as of 2010, the agreement had not been registered with the UN</p> <p><em>Jordan-Israel</em>: none identified</p> <p><em>Jordan-Saudi Arabia</em>: Jordan and Saudi Arabia signed an agreement to demarcate their maritime borders in 2007</p> <p><em>Jordan-Syria</em>: the two countries signed an agreement in 2005 to settle the border dispute based on a 1931 demarcation accord; the two countries began demarcation in 2006</p> <p><em>Jordan-West Bank</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 675,040 (Syria) (2022)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021); 675,433 (Syria) (2022)<br>
 _stateless persons_: 63 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

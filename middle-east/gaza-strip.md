@@ -200,8 +200,8 @@ NA<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.7% (2020) ; note - includes both the Gaza Strip and the West Bank<br>
-_women married by age 18_: 13.4% (2020 est.) ; note - includes both the Gaza Strip and the West Bank<br>
+_women married by age 15_: 0.7% Includes both the Gaza Strip and the West Bank<br>
+_women married by age 18_: 13.4% (2020 est.) Includes both the Gaza Strip and the West Bank<br>
 
 **Education expenditures**<br>
 5.3% of GDP (2018)<br>

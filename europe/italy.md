@@ -742,9 +742,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 137,385 (Ukraine) (as of 21 June 2022)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 141,562 (Ukraine) (as of 28 June 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 615,626 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
+<strong>note:</strong> 619,524 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

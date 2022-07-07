@@ -221,8 +221,8 @@ _animal contact diseases_: rabies<br>
 19% (2015/16)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 7.9% (2016)<br>
-_women married by age 18_: 30.3% (2016)<br>
+_women married by age 15_: 7.9%<br>
+_women married by age 18_: 30.3%<br>
 _men married by age 18_: 6% (2016 est.)<br>
 
 **Education expenditures**<br>

@@ -223,8 +223,8 @@ _respiratory diseases_: meningococcal meningitis<br>
 20.5% (2019)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 25.8% (2019)<br>
-_women married by age 18_: 61% (2019)<br>
+_women married by age 15_: 25.8%<br>
+_women married by age 18_: 61%<br>
 _men married by age 18_: 17.1% (2019 est.)<br>
 
 **Education expenditures**<br>
@@ -708,6 +708,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,702 (Democratic Republic of Congo) (2022)<br>
-_IDPs_: 658,265 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
+_refugees (country of origin)_: 6,275 (Democratic Republic of Congo) (2022)<br>
+_IDPs_: 602,134 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
 

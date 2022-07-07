@@ -375,7 +375,7 @@ _chief of mission_: Ambassador (vacant), Charge d'Affaires Stewart TUTTLE (since
 _embassy_: Building 783, Demetrio Basilio Lakas Avenue, Clayton<br>
 _mailing address_: 9100 Panama City PL, Washington, DC 20521-9100<br>
 _telephone_: [507] 317-5000<br>
-_FAX_: [507] 317-5568 (2018)<br>
+_FAX_: [507] 317-5568<br>
 _email address and website_: <br>Panama-ACS@state.gov<br><br>https://pa.usembassy.gov/<br>
 
 **Flag description**<br>

@@ -237,8 +237,8 @@ _female_: 1.3% (2020 est.)<br>
 21.1% (2019)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 14.1% (2016)<br>
-_women married by age 18_: 40.3% (2016)<br>
+_women married by age 15_: 14.1%<br>
+_women married by age 18_: 40.3%<br>
 _men married by age 18_: 5% (2016 est.)<br>
 
 **Education expenditures**<br>
@@ -767,7 +767,7 @@ al-Shabaab; IRGC/Qods Force<br>
 <p><em>Ethiopia-Eritrea:</em> Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement <br><br><em>Ethiopia-Somalia:</em> While border clashes continue in the al-Fashqa (Fashaga) area,  the US views the 1902 boundary treaty between Ethiopia and Sudan as being in force; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; <br><br><em>Ethiopia-Sudan:</em> Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 402,099 (South Sudan), 246,427 (Somalia), 159,935 (Eritrea), 47,427 (Sudan) (2022)<br>
+_refugees (country of origin)_: 403,240 (South Sudan), 249,126 (Somalia), 159,935 (Eritrea), 47,427 (Sudan) (2022)<br>
 _IDPs_: 2,114,653 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>

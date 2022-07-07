@@ -230,8 +230,8 @@ _female_: 7.3% (2020 est.)<br>
 23.1% (2017/18)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 3.6% (2018)<br>
-_women married by age 18_: 18.3% (2018)<br>
+_women married by age 15_: 3.6%<br>
+_women married by age 18_: 18.3%<br>
 _men married by age 18_: 4.7% (2018 est.)<br>
 
 **Education expenditures**<br>
@@ -400,7 +400,7 @@ _email address and website_: <br>consularsection@embassyofpakistanusa.org<br><br
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: ambassador (vacant); Charge d'Affaires Angela AGGELER<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Angela AGGELER<br>
 _embassy_: Diplomatic Enclave, Ramna 5, Islamabad<br>
 _mailing address_: 8100 Islamabad Place, Washington, DC 20521-8100<br>
 _telephone_: [92] 051-201-4000<br>

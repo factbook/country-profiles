@@ -218,8 +218,8 @@ _female_: 13.5% (2020 est.)<br>
 NA<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.1% (2019)<br>
-_women married by age 18_: 4.7% (2019)<br>
+_women married by age 15_: 0.1%<br>
+_women married by age 18_: 4.7%<br>
 _men married by age 18_: 1.6% (2019 est.)<br>
 
 **Education expenditures**<br>
@@ -727,7 +727,7 @@ note - conscripts can be assigned to the military, as well as the Ministry of In
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,660 (border crossings from Ukraine as of 20 June 2022)<br>
+_refugees (country of origin)_: 9,745 (Ukraine) (as of 5 July 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

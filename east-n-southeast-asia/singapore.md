@@ -214,6 +214,10 @@ _female_: 5% (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
+**Child marriage**<br>
+_women married by age 15_: 0%<br>
+_women married by age 18_: 0.1% (2020 est.)<br>
+
 **Education expenditures**<br>
 2.5% of GDP (2020)<br>
 

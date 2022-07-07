@@ -234,8 +234,8 @@ _female_: 3.4% (2020 est.)<br>
 14.6% (2018)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 5.2% (2016)<br>
-_women married by age 18_: 30.5% (2016)<br>
+_women married by age 15_: 5.2%<br>
+_women married by age 18_: 30.5%<br>
 _men married by age 18_: 3.9% (2016 est.)<br>
 
 **Education expenditures**<br>
@@ -763,7 +763,7 @@ Islamic State of Iraq and ash-Sham - Mozambique<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 127,330 (Burundi), 80,599 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 127,330 (Burundi), 80,820 (Democratic Republic of the Congo) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>

@@ -213,8 +213,8 @@ _vectorborne diseases_: dengue fever and malaria<br>
 6.7% (2018)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 8.8% (2018)<br>
-_women married by age 18_: 36% (2018)<br>
+_women married by age 15_: 8.8%<br>
+_women married by age 18_: 36%<br>
 _men married by age 18_: 19.6% (2018 est.)<br>
 
 **Education expenditures**<br>

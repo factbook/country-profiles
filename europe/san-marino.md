@@ -323,7 +323,7 @@ _FAX_: [1] (212) 751-1436<br>
 _email address and website_: <br>sanmarinoun@gmail.com<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the United States does not have an Embassy in San Marino; the US Ambassador to Italy is accredited to San Marino, and the US Consulate general in Florence maintains day-to-day ties<br>
+_embassy_: the United States does not have an Embassy in San Marino; the US Ambassador to Italy is accredited to San Marino, and the US Consulate General in Florence maintains day-to-day ties<br>
 
 **Flag description**<br>
 two equal horizontal bands of white (top) and light blue with the national coat of arms superimposed in the center; the main colors derive from the shield of the coat of arms, which features three white towers on three peaks on a blue field; the towers represent three castles built on San Marino's highest feature, Mount Titano: Guaita, Cesta, and Montale; the coat of arms is flanked by a wreath, below a crown and above a scroll bearing the word LIBERTAS (Liberty); the white and blue colors are also said to stand for peace and liberty respectively<br>

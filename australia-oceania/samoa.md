@@ -212,8 +212,8 @@ _female_: 14.5% (2020 est.)<br>
 3.4% (2019/20)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.9% (2020)<br>
-_women married by age 18_: 7.4% (2020)<br>
+_women married by age 15_: 0.9%<br>
+_women married by age 18_: 7.4%<br>
 _men married by age 18_: 2% (2020 est.)<br>
 
 **Education expenditures**<br>
@@ -360,8 +360,8 @@ _consulate(s) general_: Pago Pago (American Samoa)<br>
 _chief of mission_: the US Ambassador to New Zealand is accredited to Samoa<br>
 _embassy_: 5th Floor, Accident Corporation Building, Matafele Apia<br>
 _mailing address_: 4400 Apia Place, Washington DC 20521-4400<br>
-_telephone_: [685] 21-436 (2018)<br>
-_FAX_: [685] 22-030 (2018)<br>
+_telephone_: [685] 21-436<br>
+_FAX_: [685] 22-030<br>
 _email address and website_: <br>ApiaConsular@state.gov<br><br>https://ws.usembassy.gov/<br>
 
 **Flag description**<br>

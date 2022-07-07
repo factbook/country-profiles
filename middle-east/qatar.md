@@ -358,7 +358,7 @@ _email address and website_: <br>info.dc@mofa.gov.qa<br><br>https://washington.e
 _consulate(s) general_: Houston, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: <p>Ambassador (vacant); Charge d'Affaires Evyenia SIDEREAS<br><br></p><br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Evyenia SIDEREAS<br>
 _embassy_: 22 February Street, Al Luqta District, P.O. Box 2399, Doha<br>
 _mailing address_: 6130 Doha Place, Washington DC&nbsp; 20521-6130<br>
 _telephone_: [974] 4496-6000<br>

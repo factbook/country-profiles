@@ -718,6 +718,6 @@ note(s) - the military trains approximately 21,000 (20,000 Army) conscripts each
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 26,629 (Ukraine) (as of 20 June 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 26,629 (Ukraine) (as of 26 June 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

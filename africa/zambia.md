@@ -233,8 +233,8 @@ _female_: 3.7% (2020 est.)<br>
 11.8% (2018/19)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 5.2% (2018)<br>
-_women married by age 18_: 29% (2018)<br>
+_women married by age 15_: 5.2%<br>
+_women married by age 18_: 29%<br>
 _men married by age 18_: 2.8% (2018 est.)<br>
 
 **Education expenditures**<br>
@@ -398,7 +398,7 @@ _email address and website_: <br>info@zambiaembassy.org<br><br>https://www.zambi
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Martin "Marty" DALE (since 2 November 2021)<br>
 _embassy_: Eastern end of Kabulonga Road, Ibex Hill, Lusaka<br>
 _mailing address_: 2310 Lusaka Place, Washington DC 20521-2310<br>
-_telephone_: [260] (0) 211-357-000<br> <p class="cityname1"> </p><br>
+_telephone_: [260] (0) 211-357-000<br>
 _FAX_: [260]&nbsp; (0) 211-357-224<br>
 _email address and website_: <br>ACSLusaka@state.gov<br><br>https://zm.usembassy.gov/<br>
 
@@ -749,7 +749,7 @@ the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regime
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 66,675 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,240 (Burundi) (2022)<br>
+_refugees (country of origin)_: 65,911 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,240 (Burundi) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>

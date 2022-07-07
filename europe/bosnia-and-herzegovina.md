@@ -720,7 +720,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note:</strong> 92,443 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
+<strong>note:</strong> 93,575 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

@@ -265,7 +265,7 @@ _dual citizenship recognized_: yes, except that citizens of Taiwan are not recog
 _residency requirement for naturalization_: 5 years<br>
 
 **Suffrage**<br>
-20 years of age; universal; note - in mid-2016, the Legislative Yuan drafted a constitutional amendment to reduce the voting age to 18, but it has not passed as of December 2017<br>
+20 years of age; universal; note - in March 2022, the Legislative Yuan approved lowering the voting age to 18, but the change will require a constitutional amendment that must be submitted to a referendum<br>
 
 **Executive branch**<br>
 _chief of state_: President TSAI Ing-wen (since 20 May 2016; re-elected on 11 Jan 2020); Vice President LAI Ching-te (since 20 May 2020)<br>

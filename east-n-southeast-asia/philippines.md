@@ -224,7 +224,7 @@ _female_: 6.5% (2020 est.)<br>
 19.1% (2018)<br>
 
 **Child marriage**<br>
-_women married by age 15_: 2.2% (2017)<br>
+_women married by age 15_: 2.2%<br>
 _women married by age 18_: 16.5% (2017 est.)<br>
 
 **Education expenditures**<br>
@@ -354,8 +354,8 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Rodrigo DUTERTE (since 30 June 2016); Vice President Leni ROBREDO (since 30 June 2016); note - the president is both chief of state and head of government<br>
-_head of government_: President Rodrigo DUTERTE (since 30 June 2016); Vice President Leni ROBREDO (since 30 June 2016)<br>
+_chief of state_: President Ferdinand "BongBong" MARCOS, Jr (since 30 June 2022); Vice President Sara DUTERTE-Carpio (since 30 June 2022); note - the president is both chief of state and head of government<br>
+_head of government_: President Ferdinand "BongBong" MARCOS, Jr (since 30 June 2022); Vice President Sara DUTERTE-Carpio (since 30 June 2022)<br>
 _cabinet_: Cabinet appointed by the president with the consent of the Commission of Appointments, an independent body of 25 Congressional members including the Senate president (ex officio chairman), appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on separate ballots by simple majority popular vote for a single 6-year term; election last held on 9 May 2022 (next to be held on 9 May 2028)<br>
 _election results_: Ferdinand MARCOS, Jr elected president; percent of vote - Ferdinand MARCOS, Jr (PFP) 58.7%, Leni ROBREDO (independent) 27.94%, Manny PACQUIAO (PROMDI) 6.8%; Sara DUTERTE-Carpio elected vice president; percent of vote Sara DUTERTE-Carpio (Lakas-CMD) 61.53%, Francis PANGILINAN (LP) 17.82%, Tito SOTTO 15.8%<br>
