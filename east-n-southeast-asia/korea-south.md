@@ -330,7 +330,7 @@ _dual citizenship recognized_: no<br>
 _residency requirement for naturalization_: 5 years<br>
 
 **Suffrage**<br>
-18years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election<br>
+18 years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election<br>
 
 **Executive branch**<br>
 _chief of state_: President YOON Suk Yeol (since 10 May 2022); the president is both chief of state and head of government; Prime Minister HAN Deok-Soo (since 21 May 2022) serves as the principal executive assistant to the president, similar to the role of a vice president<br>
@@ -342,7 +342,7 @@ _election results_: YOON Suk-yeol (PPP) 48.56%, LEE Jae-myung (DP) 47.83% (note 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Kuk Hoe (300 seats statutory, current 295; 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 15 April 2020 (next to be held on 10 April 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - DP/Together Citizens Party 180, UFP/Free Korea Party 103, JP 6, ODP 3, PP 3, independent 5; composition as of April 2022 - men 240, women 55, percent of women 18.6%<br>
+_election results_: percent of vote by party - NA; seats by party - DP/Together Citizens Party 180, United Future Party (now PPP) 103, JP 6, ODP 3, PP 3, independent 5; composition as of April 2022 - men 240, women 55, percent of women 18.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)<br>
@@ -350,8 +350,8 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues<br>
 
 **Political parties and leaders**<br>
-Democratic Party or DP [SONG Young-gil] (renamed from Minjoo Party of Korea or MPK in October 2016; formerly New Politics Alliance for Democracy or NPAD, which was a merger of the Democratic Party or DP (formerly DUP) [KIM Han-gil] and the New Political Vision Party or NPVP [AHN Cheol-soo] in March 2014)<br>Justice Party or JP [YEO Young-kug]<br>Open Democratic Party or ODP [CHOE Kang-wook] (formed in early 2020)<br>People's Party or PP [AHN Cheol-soo] (formed in February 2020)<br>Together Citizens' Party [WOO Hee-jong, ChOI Bae-geun] (formed in early 2020 in alliance with the Democratic Party)<br>Transition Korea [CHO Jung-hun] (formed in February 2020)<br>Basic Income Party [SHIN Ji-hye] (formed in January 2020)<br>People Power Party or PPP [LEE Jun-seok] (renamed from United Future Party in September 2020, formerly Liberty Korea Party) (2021)<br><br>note - the Democratic (Minjoo) Party is South Korea’s largest party and its main progressive party; the People Power Party (PPP) is a conservative grouping and is South Korea’s second-largest party; the PPP and its predecessor parties have controlled the National Assembly for all but nine of the 33 years since the 1987 Constitution went into effect (2022)<br>
-note - the Democratic (Minjoo) Party is South Korea&rsquo;s largest party and its main progressive party; the People Power Party (PPP) is a conservative grouping and is South Korea&rsquo;s second-largest party; the PPP and its predecessor parties have controlled the National Assembly for all but nine of the 33 years since the 1987 Constitution went into effect (2022)<br>
+Democratic Party or DP [SONG Young-gil] (renamed from Minjoo Party of Korea or MPK in October 2016; formerly New Politics Alliance for Democracy or NPAD, which was a merger of the Democratic Party or DP (formerly DUP) [KIM Han-gil] and the New Political Vision Party or NPVP [AHN Cheol-soo] in March 2014)<br>Justice Party or JP [YEO Young-kug]<br>Open Democratic Party or ODP [CHOE Kang-wook] (formed in early 2020)<br>People's Party or PP [AHN Cheol-soo] (formed in February 2020)<br>Together Citizens' Party [WOO Hee-jong, ChOI Bae-geun] (formed in early 2020 in alliance with the Democratic Party)<br>Transition Korea [CHO Jung-hun] (formed in February 2020)<br>Basic Income Party [SHIN Ji-hye] (formed in January 2020)<br>People Power Party or PPP [LEE Jun-seok] (renamed from United Future Party in September 2020, formerly Liberty Korea Party) (2022)<br><br>note - the Democratic (Minjoo) Party is South Korea’s largest party and its main progressive party; the People Power Party (PPP) is a conservative grouping and is South Korea’s second-largest party; the PPP and its predecessor parties have controlled the National Assembly for all but nine of the 33 years since the 1987 Constitution went into effect<br>
+note - the Democratic (Minjoo) Party is South Korea&rsquo;s largest party and its main progressive party; the People Power Party (PPP) is a conservative grouping and is South Korea&rsquo;s second-largest party; the PPP and its predecessor parties have controlled the National Assembly for all but nine of the 33 years since the 1987 Constitution went into effect<br>
 
 **International organization participation**<br>
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CICA, CP, EAS, EBRD, FAO, FATF, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSTAH, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SAARC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNMOGIP, UNOCI, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -664,7 +664,7 @@ _under 914 m_: 38 (2021)<br>
 466 (2021)<br>
 
 **Pipelines**<br>
-3790 km gas, 16 km oil, 889 km refined products (2017)<br>
+3,790 km gas, 16 km oil, 889 km refined products (2018)<br>
 
 **Railways**<br>
 _total_: 3,979 km (2016)<br>

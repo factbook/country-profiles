@@ -356,7 +356,7 @@ twenty-five political parties or alliances competed in the June 2021 election; t
 ADB, BSEC, CD, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Lilit MAKUNTS (since 2 August 2021)<br>
+_chief of mission_: Ambassador Lilit MAKUNTS (since 15 September 2021)<br>
 _chancery_: 2225 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 319-1976<br>
 _FAX_: [1] (202) 319-2982<br>
@@ -654,7 +654,7 @@ _total_: 1<br>
 _914 to 1,523 m_: 1 (2021)<br>
 
 **Pipelines**<br>
-3838 km gas (high and medium pressure) (2017)<br>
+3,838 km gas (high and medium pressure) (2017)<br>
 
 **Railways**<br>
 _total_: 780 km (2014)<br>

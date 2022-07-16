@@ -368,7 +368,7 @@ blue with two stripes radiating from the lower hoist-side corner - orange (top) 
 a 24-rayed star; national colors: blue, white, orange<br>
 
 **National anthem**<br>
-_name_: Forever Marshall Islands<br>
+_name_: "Forever Marshall Islands"<br>
 _lyrics/music_: Amata KABUA<br>
 <strong>note:</strong> adopted 1981<br>
 

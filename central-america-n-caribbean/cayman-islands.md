@@ -303,7 +303,7 @@ a blue field with the flag of the UK in the upper hoist-side quadrant and the Ca
 green sea turtle<br>
 
 **National anthem**<br>
-_name_: Beloved Isle Cayman<br>
+_name_: "Beloved Isle Cayman"<br>
 _lyrics/music_: Leila E. ROSS<br>
 <strong>note:</strong> adopted 1993; served as an unofficial anthem since 1930; as a territory of the United Kingdom, in addition to the local anthem, "God Save the Queen" is official (see United Kingdom)<br>
 

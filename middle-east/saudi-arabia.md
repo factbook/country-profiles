@@ -670,7 +670,7 @@ _under 914 m_: 16 (2021)<br>
 10 (2021)<br>
 
 **Pipelines**<br>
-209 km condensate, 2940 km gas, 1183 km liquid petroleum gas, 5117 km oil, 1151 km refined products (2013)<br>
+209 km condensate, 2,940 km gas, 1,183 km liquid petroleum gas, 5,117 km oil, 1,151 km refined products (2013)<br>
 
 **Railways**<br>
 _total_: 5,410 km (2016)<br>

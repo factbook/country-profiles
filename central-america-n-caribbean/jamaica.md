@@ -367,7 +367,7 @@ diagonal yellow cross divides the flag into four triangles - green (top and bott
 green-and-black streamertail (bird), Guaiacum officinale (Guaiacwood); national colors: green, yellow, black<br>
 
 **National anthem**<br>
-_name_: Jamaica, Land We Love<br>
+_name_: "Jamaica, Land We Love"<br>
 _lyrics/music_: Hugh Braham SHERLOCK/Robert Charles LIGHTBOURNE<br>
 <strong>note:</strong> adopted 1962<br>
 

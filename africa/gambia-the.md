@@ -400,7 +400,7 @@ three equal horizontal bands of red (top), blue with white edges, and green; red
 lion; national colors: red, blue, green, white<br>
 
 **National anthem**<br>
-_name_: For The Gambia, Our Homeland<br>
+_name_: "For The Gambia, Our Homeland"<br>
 _lyrics/music_: Virginia Julie HOWE/adapted by Jeremy Frederick HOWE<br>
 <strong>note:</strong> adopted 1965; the music is an adaptation of the traditional Mandinka song "Foday Kaba Dumbuya"<br>
 

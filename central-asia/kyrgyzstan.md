@@ -668,7 +668,7 @@ _914 to 1,523 m_: 1<br>
 _under 914 m_: 8 (2021)<br>
 
 **Pipelines**<br>
-4195 km gas (2022), 16 km oil (2013)<br>
+4,195 km gas (2022), 16 km oil (2022) (2022)<br>
 
 **Railways**<br>
 _total_: 424 km (2022)<br>

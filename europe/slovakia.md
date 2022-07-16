@@ -378,7 +378,7 @@ double-barred cross (Cross of St. Cyril and St. Methodius) surmounting three pea
 **National anthem**<br>
 _name_: "Nad Tatrou sa blyska" (Lightning Over the Tatras)<br>
 _lyrics/music_: Janko MATUSKA/traditional<br>
-<strong>note:</strong> adopted 1993, in use since 1844; music based on the Slovak folk song "Kopala studienku"<br>
+<strong>note:</strong> adopted 1993, in use since 1844; music based on the Slovak folk song "Kopala studienku" (She was digging a well)<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (6 cultural, 2 natural)<br>
@@ -659,7 +659,7 @@ _under 914 m_: 5 (2021)<br>
 1 (2021)<br>
 
 **Pipelines**<br>
-2270 km gas transmission pipelines, 6278 km high-pressure gas distribution pipelines, 27023 km mid- and low-pressure gas distribution pipelines (2016), 510 km oil (2015)<br>
+2,270 km gas transmission pipelines, 6,278 km high-pressure gas distribution pipelines, 27,023 km mid- and low-pressure gas distribution pipelines (2016), 510 km oil (2015) (2016)<br>
 
 **Railways**<br>
 _total_: 3,580 km (2016)<br>

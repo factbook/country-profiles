@@ -259,7 +259,7 @@ _etymology_: the name means "water basket" and refers to the fact that the islan
 5 administrative subdivisions (subdivisions administratives, singular - subdivision administrative): Iles Australes (Austral Islands), Iles du Vent (Windward Islands), Iles Marquises (Marquesas Islands), Iles Sous-le-Vent (Leeward Islands), Iles Tuamotu-Gambier; note - the Leeward Islands and the Windward Islands together make up the Society Islands (Iles de la Societe)<br>
 
 **Independence**<br>
-none (overseas lands of France)<br>
+none (overseas land of France)<br>
 
 **National holiday**<br>
 Fete de la Federation, 14 July (1790); note - the local holiday is Internal Autonomy Day, 29 June (1880)<br>

@@ -708,7 +708,7 @@ _under 914 m_: 457 (2021)<br>
 49 (2021)<br>
 
 **Pipelines**<br>
-177700 km gas, 54800 km oil, 19300 km refined products (2016)<br>
+177,700 km gas, 54,800 km oil, 19,300 km refined products (2017)<br>
 
 **Railways**<br>
 _total_: 87,157 km (2014)<br>

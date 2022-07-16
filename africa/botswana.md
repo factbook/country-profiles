@@ -393,7 +393,7 @@ _email address and website_: <br>ConsularGabarone@state.gov<br><br>https://bw.us
 light blue with a horizontal white-edged black stripe in the center; the blue symbolizes water in the form of rain, while the black and white bands represent racial harmony<br>
 
 **National symbol(s)**<br>
-zebra; national colors: blue, white, black<br>
+zebra; national colors: light blue, white, black<br>
 
 **National anthem**<br>
 _name_: "Fatshe leno la rona" (Our Land)<br>

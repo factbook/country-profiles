@@ -126,7 +126,7 @@ _female_: NA<br>
 **Life expectancy at birth**<br>
 _total population_: NA<br>
 _male_: NA<br>
-_female_: (2021 est.) NA<br>
+_female_: NA<br>
 
 **Total fertility rate**<br>
 NA<br>
@@ -268,7 +268,7 @@ _embassy_: none (overseas territory of the UK)<br>
 blue with the flag of the UK in the upper hoist-side quadrant and the Pitcairn Islander coat of arms centered on the outer half of the flag; the green, yellow, and blue of the shield represents the island rising from the ocean; the green field features a yellow anchor surmounted by a bible (both the anchor and the bible were items found on the HMS Bounty); sitting on the crest is a Pitcairn Island wheelbarrow from which springs a flowering twig of miro (a local plant)<br>
 
 **National anthem**<br>
-_name_: We From Pitcairn Island<br>
+_name_: "We From Pitcairn Island"<br>
 _lyrics/music_: unknown/Frederick M. LEHMAN<br>
 <strong>note:</strong> serves as a local anthem; as a territory of the UK, "God Save the Queen" is official (see United Kingdom)<br>
 

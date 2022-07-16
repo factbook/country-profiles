@@ -672,7 +672,7 @@ _under 914 m_: 2 (2021)<br>
 1 (2021)<br>
 
 **Pipelines**<br>
-14000 km gas, 2500 km oil and refined products, 3000 km chemicals (2016)<br>
+14,000 km gas, 2,500 km oil and refined products, 3,000 km chemicals (2017)<br>
 
 **Railways**<br>
 _total_: 3,058 km (2016)<br>

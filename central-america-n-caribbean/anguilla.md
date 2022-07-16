@@ -283,7 +283,7 @@ blue, with the flag of the UK in the upper hoist-side quadrant and the Anguillan
 dolphin<br>
 
 **National anthem**<br>
-_name_: God Bless Anguilla<br>
+_name_: "God Bless Anguilla"<br>
 _lyrics/music_: Alex RICHARDSON<br>
 <strong>note:</strong> local anthem adopted 1981; as a territory of the United Kingdom, "God Save the Queen" is official (see United Kingdom)<br>
 

@@ -362,7 +362,7 @@ Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgarian Agrarian People’s
 Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Stefka Ivanova YOVCHEVA, Counselor<br>
+_chief of mission_: Ambassador Georgi Velikov PANAYOTOV (since 7 June 2022)<br>
 _chancery_: 1621 22nd Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 387-0174; [1] (202) 299-0273, [1] (202) 483-1386<br>
 _FAX_: [1] (202) 234-7973<br>
@@ -670,7 +670,7 @@ _under 914 m_: 9 (2021)<br>
 1 (2021)<br>
 
 **Pipelines**<br>
-2765 km gas, 346 km oil, 378 km refined products (2017)<br>
+2,765 km gas, 346 km oil, 378 km refined products (2017)<br>
 
 **Railways**<br>
 _total_: 5,114 km (2014)<br>
@@ -732,7 +732,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 84,498 (Ukraine) (as of 5 July 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
-<strong>note:</strong> 74,107 estimated refugee and migrant arrivals (January 2015-March 2022); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 76,182 estimated refugee and migrant arrivals (January 2015-May 2022); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 source country for amphetamine tablets<br>

@@ -278,7 +278,7 @@ blue with the flag of the UK in the upper hoist-side quadrant and the Falkland I
 ram<br>
 
 **National anthem**<br>
-_name_: Song of the Falklands"<br>
+_name_: "Song of the Falklands"<br>
 _lyrics/music_: Christopher LANHAM<br>
 <strong>note:</strong> adopted 1930s; the song is the local unofficial anthem; as a territory of the United Kingdom, "God Save the Queen" is official (see United Kingdom)<br>
 

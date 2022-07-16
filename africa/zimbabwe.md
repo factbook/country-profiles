@@ -167,7 +167,7 @@ _female_: 24.77 deaths/1,000 live births (2022 est.)<br>
 
 **Life expectancy at birth**<br>
 _total population_: 63.32 years<br>
-_male_: 61.18 years (2022 est.)<br>
+_male_: 61.18 years<br>
 _female_: 65.52 years (2022 est.)<br>
 
 **Total fertility rate**<br>

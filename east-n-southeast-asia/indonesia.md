@@ -359,7 +359,7 @@ _dual citizenship recognized_: no<br>
 _residency requirement for naturalization_: 5 continuous years<br>
 
 **Suffrage**<br>
-17 years of age; universal and married persons regardless of age<br>
+17 years of age; universal; married persons regardless of age<br>
 
 **Executive branch**<br>
 _chief of state_: President Joko "Jokowi" WIDODO (since 20 October 2014, reelected 17 April 2019, inauguration 19 October 2019); Vice President Ma'ruf AMIN (since 20 October 2019); note - the president is both chief of state and head of government<br>
@@ -385,7 +385,7 @@ Berkarya Party [Muchdi PURWOPRANJONO]<br>Crescent Star Party or PBB [Yusril Ihza
 ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Rosan Perkasa ROESLANI (since 25 October 2021)<br>
+_chief of mission_: Ambassador Rosan Perkasa ROESLANI (since 13 January 2022)<br>
 _chancery_: 2020 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 775-5200<br>
 _FAX_: [1] (202) 775-5365<br>
@@ -696,7 +696,7 @@ _under 914 m_: 460 (2021)<br>
 76 (2021)<br>
 
 **Pipelines**<br>
-1064 km condensate, 150 km condensate/gas, 11702 km gas, 119 km liquid petroleum gas, 7767 km oil, 77 km oil/gas/water, 728 km refined products, 53 km unknown, 44 km water (2013)<br>
+1,064 km condensate, 150 km condensate/gas, 11,702 km gas, 119 km liquid petroleum gas, 7,767 km oil, 77 km oil/gas/water, 728 km refined products, 53 km unknown, 44 km water (2013)<br>
 
 **Railways**<br>
 _total_: 8,159 km (2014)<br>

@@ -408,7 +408,7 @@ three equal horizontal bands of red (top), yellow, and green, with a large black
 black star, golden eagle; national colors: red, yellow, green, black<br>
 
 **National anthem**<br>
-_name_: God Bless Our Homeland Ghana<br>
+_name_: "God Bless Our Homeland Ghana"<br>
 _lyrics/music_: unknown/Philip GBEHO<br>
 <strong>note:</strong> music adopted 1957, lyrics adopted 1966; the lyrics were changed twice, in 1960 when a republic was declared and after a 1966 coup<br>
 

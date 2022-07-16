@@ -688,7 +688,7 @@ Bahrain hosts the US Naval Forces Central Command (USNAVCENT; established 1983),
 
 **Terrorist group(s)**<br>
 al-Ashtar Brigades; Islamic Revolutionary Guard Corps/Qods Force<br>
-note(s) - details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br><br> <br><br>in addition to the al-Ashtar Brigades and the IGRC/Qods Force, Saraya al-Mukhtar (aka The Mukhtar Brigade) is an Iran-backed terrorist organization based in Bahrain, reportedly receiving financial and logistic support from the IGRC; Saraya al-Mukhtar’s self-described goal is to depose the Bahraini Government with the intention of paving the way for Iran to exert greater influence in Bahrain; the group was designated by the US as a Specially Designated Global Terrorist in Dec 2020<br>
+note(s) - details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T <br><br>in addition to the al-Ashtar Brigades and the IGRC/Qods Force, Saraya al-Mukhtar (aka The Mukhtar Brigade) is an Iran-backed terrorist organization based in Bahrain, reportedly receiving financial and logistic support from the IGRC; Saraya al-Mukhtar's self-described goal is to depose the Bahraini Government with the intention of paving the way for Iran to exert greater influence in Bahrain; the group was designated by the US as a Specially Designated Global Terrorist in Dec 2020.<br>
 
 ## Transnational Issues
 

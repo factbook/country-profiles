@@ -721,7 +721,7 @@ note(s) - the Gendarmerie and the National Guard are under the authority of the 
 3.2% of GDP (2017 est.) (approximately $600 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 16,000 active personnel (15,000 Army; 1,000 Air Force); estimated 10-15,000 Gendarmerie and National Guard (2022)<br>
+information varies; approximately 20,000 active FAMa personnel (includes 1-2,000 Air Force); estimated 5,000 Gendarmerie; estimated 10,000 National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAMa's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of mostly second-hand armaments from more than a dozen countries, including Russia (2022)<br>

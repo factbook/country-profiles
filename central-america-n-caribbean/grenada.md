@@ -180,7 +180,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 6.3% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.5% (2018)<br>
+0.5% (2018 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 (2018) <500<br>
@@ -343,7 +343,7 @@ a rectangle divided diagonally into yellow triangles (top and bottom) and green 
 Grenada dove, bougainvillea flower; national colors: red, yellow, green<br>
 
 **National anthem**<br>
-_name_: Hail Grenada<br>
+_name_: "Hail Grenada"<br>
 _lyrics/music_: Irva Merle BAPTISTE/Louis Arnold MASANTO<br>
 <strong>note:</strong> adopted 1974<br>
 

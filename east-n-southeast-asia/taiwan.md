@@ -314,7 +314,7 @@ white, 12-rayed sun on blue field; national colors: blue, white, red<br>
 
 **National anthem**<br>
 _name_: "Zhonghua Minguo guoge" (National Anthem of the Republic of China)<br>
-_lyrics/music_: HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-Yun<br>
+_lyrics/music_: HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-yun<br>
 <strong>note:</strong> adopted 1930; also the song of the Kuomintang Party; it is informally known as "San Min Chu I" or "San Min Zhu Yi" (Three Principles of the People); because of political pressure from China, "Guo Qi Ge" (National Banner Song) is used at international events rather than the official anthem of Taiwan; the "National Banner Song" has gained popularity in Taiwan and is commonly used during flag raisings<br>
 
 ## Economy

@@ -120,7 +120,7 @@ _female_: NA<br>
 **Life expectancy at birth**<br>
 _total population_: NA<br>
 _male_: NA<br>
-_female_: (2021 est.) NA<br>
+_female_: NA<br>
 
 **Total fertility rate**<br>
 (2021 est.) NA<br>

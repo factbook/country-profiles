@@ -233,7 +233,7 @@ _female_: 1.7% (2020 est.)<br>
 2.4% (2013)<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2018) NA<br>
+3.5% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -391,7 +391,7 @@ Chinese Communist Party or CCP [XI Jinping]<br>
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), BIS, BRICS, CDB, CICA, EAS, FAO, FATF, G-20, G-24 (observer), G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAIA (observer), MIGA, MINURSO, MINUSMA, MONUSCO, NAM (observer), NSG, OAS (observer), OPCW, Pacific Alliance (observer), PCA, PIF (partner), SAARC (observer), SCO, SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UN Security Council (permanent), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador QIN Gang (since 29 July 2021)<br>
+_chief of mission_: Ambassador QIN Gang (since 15 Sep 2021)<br>
 _chancery_: 3505 International Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 495-2266<br>
 _FAX_: [1] (202) 495-2138<br>
@@ -703,7 +703,7 @@ _under 914 m_: 13 (2021)<br>
 39 (2021)<br>
 
 **Pipelines**<br>
-76000 km gas, 30400 km crude oil, 27700 km refined petroleum products, 797000 km water (2018)<br>
+76,000 km gas, 30,400 km crude oil, 27,700 km refined petroleum products, 797,000 km water (2018)<br>
 
 **Railways**<br>
 _total_: 150,000 km (2021) 1.435-m gauge (100,000 km electrified); 104,0000 traditional, 40,000 high-speed<br>

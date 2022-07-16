@@ -711,7 +711,7 @@ _under 914 m_: 45 (2021)<br>
 45 (2021)<br>
 
 **Pipelines**<br>
-17,389 km natural gas, 10, 419 km crude oil, 3544 liquid petroleum gas, 14,729 km refined products (2020) 9 km condensate/gas, 20 km oil/gas/water (2013)&nbsp; (2013)<br>
+17,389 km natural gas, 10, 419 km crude oil, 3,544 liquid petroleum gas, 14,729 km refined products (2020) 9 km condensate/gas, 20 km oil/gas/water (2013) (2020)<br>
 
 **Railways**<br>
 _total_: 68,525 km (2014)<br>

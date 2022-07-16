@@ -201,7 +201,7 @@ _unimproved: total_: total: 2.4% of population (2020 est.)<br>
 (2020 est.) <200<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: <p>intermediate</p> (2020)<br>
+_degree of risk_: intermediate (2020)<br>
 _vectorborne diseases_: dengue fever<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
@@ -276,10 +276,13 @@ _forest revenues_: 0.06% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_degree of risk_: <p>intermediate</p> (2020)<br>
+_degree of risk_: intermediate (2020)<br>
 _vectorborne diseases_: dengue fever<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
+
+**Food insecurity**<br>
+_widespread lack of access_: <em>due to serious macroeconomic challenges, significant reduction in 2022 cereal output, and high food prices</em> - severe macroeconomic challenges, mostly reflecting dwindling foreign currency reserves after revenues from merchandise exports, remittances, and from the tourist sector declined dramatically over the last year, have had a negative impact on the country’s capacity to import cereals; the 2022 cereal production sharply declined due to a government ordered reduction in the application of chemical fertilizers; unprecedentedly high food prices are constraining economic access to food for a majority of households<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,631,650 tons (2016 est.)<br>
@@ -619,7 +622,7 @@ _subscriptions per 100 inhabitants_: 12 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 30,778,600 (2019)<br>
-_subscriptions per 100 inhabitants_: 144.34 (2019)<br>
+_subscriptions per 100 inhabitants_: 144 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telephone services have improved significantly; strong growth&nbsp;anticipated as Sri Lanka is&nbsp;lagging behind&nbsp;other&nbsp;Asian telecoms; increase in mobile broadband penetration; govt. funds telecom sector to expand fiber and LTE networks and growing investment in 5G services (2020)<br>

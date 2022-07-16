@@ -229,7 +229,7 @@ _etymology_: the myriad islets, cays, and rocks surrounding the major islands re
 unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches<br>
 
 **Dependency status**<br>
-unincorporated organized territory of the US with policy relations between the Virgin Islands and the federal government under the jurisdiction of the Office of Insular Affairs, US Department of the Interior<br>
+unincorporated organized territory of the US with policy relations between the Virgin Islands and the US Federal Government under the jurisdiction of the Office of Insular Affairs, US Department of the Interior, Washington, DC<br>
 
 **Capital**<br>
 _name_: Charlotte Amalie<br>
@@ -293,7 +293,7 @@ none (territory of the US)<br>
 white field with a modified US coat of arms in the center between the large blue initials V and I; the coat of arms shows a yellow eagle holding an olive branch in its right talon and three arrows in the left with a superimposed shield of seven red and six white vertical stripes below a blue panel; white is a symbol of purity, the letters stand for the Virgin Islands<br>
 
 **National anthem**<br>
-_name_: Virgin Islands March<br>
+_name_: "Virgin Islands March"<br>
 _lyrics/music_: multiple/Alton Augustus ADAMS, Sr.<br>
 <strong>note:</strong> adopted 1963; serves as a local anthem; as a territory of the US, "The Star-Spangled Banner" is official (see United States)<br>
 

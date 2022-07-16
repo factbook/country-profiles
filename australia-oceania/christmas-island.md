@@ -123,7 +123,7 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Life expectancy at birth**<br>
-_total population_: (2017 est.) NA<br>
+_total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 

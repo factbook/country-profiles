@@ -401,7 +401,7 @@ Commonwealth Star (seven-pointed Star of Federation), golden wattle tree (Acacia
 **National anthem**<br>
 _name_: Advance Australia Fair<br>
 _lyrics/music_: Peter Dodds McCORMICK<br>
-<strong>note 1:</strong> adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br><br><strong>note 2:</strong> the well-known and much-loved bush ballad "Waltzing Matilda" is often referred to as Australia's unofficial national anthem; the original lyrics were written in 1895 by Australian poet Banjo Paterson, and were first published as sheet music in 1903; since 2012, a Waltzing Matilda Day has been held annually on 6 April, the anniversary of the first performance of the song in 1895<br>
+<strong>note 1:</strong> adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br><br><strong>note 2:</strong> the well-known and much-loved bush ballad "Waltzing Matilda" is often referred to as Australia's unofficial national anthem; the original lyrics were written in 1895 by Australian poet Banjo PATERSON, and were first published as sheet music in 1903; since 2012, a Waltzing Matilda Day has been held annually on 6 April, the anniversary of the first performance of the song in 1895<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 20 (4 cultural, 12 natural, 4 mixed); note - includes one site on Heard Island and McDonald Islands<br>
@@ -681,7 +681,7 @@ _under 914 m_: 14 (2021)<br>
 1 (2021)<br>
 
 **Pipelines**<br>
-637 km condensate/gas, 30054 km gas, 240 km liquid petroleum gas, 3609 km oil, 110 km oil/gas/water, 72 km refined products (2013)<br>
+637 km condensate/gas, 30,054 km gas, 240 km liquid petroleum gas, 3,609 km oil, 110 km oil/gas/water, 72 km refined products (2013)<br>
 
 **Railways**<br>
 _total_: 33,343 km (2015)<br>

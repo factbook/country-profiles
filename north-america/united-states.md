@@ -390,7 +390,7 @@ ADB (nonregional member), AfDB (nonregional member), ANZUS, APEC, Arctic Council
 bald eagle; national colors: red, white, blue<br>
 
 **National anthem**<br>
-_name_: The Star-Spangled Banner<br>
+_name_: "The Star-Spangled Banner"<br>
 _lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
 <strong>note:</strong> adopted 1931; during the War of 1812, after witnessing the successful American defense of Fort McHenry in Baltimore following British naval bombardment, Francis Scott KEY wrote the lyrics to what would become the national anthem; the lyrics were set to the tune of "The Anacreontic Song"; only the first verse is sung<br>
 
@@ -730,7 +730,7 @@ note - the Army National Guard and the Air National Guard are reserve components
 3.3% of GDP (2017) (approximately $671 billion)<br>
 
 **Military and security service personnel strengths**<br>
-the US Armed Forces have approximately 1.39 million active duty personnel (475,000 Army; 345,000 Navy; 335,000 Air Force/Space Force; 180,000 Marine Corps; 40,000 Coast Guard); 335,000 Army National Guard; 105,000 Air National Guard (2022)<br>
+the US Armed Forces have approximately 1.39 million active duty personnel (475,000 Army; 345,000 Navy; 335,000 Air Force (includes about 8,000 Space Force); 180,000 Marine Corps; 40,000 Coast Guard); 335,000 Army National Guard; 105,000 Air National Guard (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the US military's inventory is comprised almost entirely of domestically-produced weapons systems (some assembled with foreign components) along with a smaller mix of imported equipment from a variety of Western countries; since 2010, Germany and the UK are the leading suppliers of military hardware; the US defense industry is capable of designing, developing, maintaining, and producing the full spectrum of weapons systems; the US is the world's leading arms exporter (2021)<br>

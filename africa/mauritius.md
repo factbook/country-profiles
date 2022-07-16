@@ -191,7 +191,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: (2020 est.) NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-1.7% (2020)<br>
+1.7% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 14,000 (2020)<br>
@@ -368,7 +368,7 @@ four equal horizontal bands of red (top), blue, yellow, and green; red represent
 dodo bird, Trochetia Boutoniana flower; national colors: red, blue, yellow, green<br>
 
 **National anthem**<br>
-_name_: Motherland<br>
+_name_: "Motherland"<br>
 _lyrics/music_: Jean Georges PROSPER/Philippe GENTIL<br>
 <strong>note:</strong> adopted 1968<br>
 

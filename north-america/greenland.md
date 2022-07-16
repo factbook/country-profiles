@@ -322,7 +322,7 @@ two equal horizontal bands of white (top) and red with a large disk slightly to 
 polar bear; national colors: red, white<br>
 
 **National anthem**<br>
-_name_: "Nunarput utoqqarsuanngoravit" ("Our Country, Who's Become So Old" also translated as "You Our Ancient Land")<br>
+_name_: "Nunarput utoqqarsuanngoravit" (Our Country, Who's Become So Old also translated as You Our Ancient Land)<br>
 _lyrics/music_: Henrik LUND/Jonathan PETERSEN<br>
 <strong>note:</strong> adopted 1916; the government also recognizes "Nuna asiilasooq" as a secondary anthem<br>
 

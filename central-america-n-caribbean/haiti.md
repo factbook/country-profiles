@@ -600,7 +600,6 @@ _electrification - rural areas_: 12% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 6,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 7.319 million (2020 est.)<br>

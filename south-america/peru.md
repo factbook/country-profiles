@@ -707,7 +707,7 @@ _under 914 m_: 82 (2021)<br>
 5 (2021)<br>
 
 **Pipelines**<br>
-786 km extra heavy crude, 1526 km gas, 679 km liquid petroleum gas, 1106 km oil, 15 km refined products (2021)<br>
+786 km extra heavy crude, 1,526 km gas, 679 km liquid petroleum gas, 1,106 km oil, 15 km refined products (2022)<br>
 
 **Railways**<br>
 _total_: 1,940 km (2017)<br>

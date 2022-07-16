@@ -667,7 +667,7 @@ _under 914 m_: 28 (2021)<br>
 16 (2021)<br>
 
 **Pipelines**<br>
-4456 km gas, 174 km oil, 104 km oil/gas/water (2013)<br>
+4,456 km gas, 174 km oil, 104 km oil/gas/water (2013)<br>
 
 **Railways**<br>
 _total_: 27,311 km (2015)<br>

@@ -369,7 +369,7 @@ light blue with the flag of the UK in the upper hoist-side quadrant and the Fiji
 Fijian canoe; national color: light blue<br>
 
 **National anthem**<br>
-_name_: God Bless Fiji<br>
+_name_: "God Bless Fiji"<br>
 _lyrics/music_: Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by Michael Francis Alexander PRESCOTT)<br>
 <strong>note:</strong> adopted 1970; known in Fijian as "Meda Dau Doka" (Let Us Show Pride); adapted from the hymn, "Dwelling in Beulah Land," the anthem's English lyrics are generally sung, although they differ in meaning from the official Fijian lyrics<br>
 

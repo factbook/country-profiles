@@ -227,7 +227,7 @@ _etymology_: Saint Helena was discovered in 1502 by Galician navigator Joao da N
 parliamentary democracy<br>
 
 **Dependency status**<br>
-Overseas Territory of the UK<br>
+overseas territory of the UK<br>
 
 **Capital**<br>
 _name_: Jamestown<br>
@@ -456,7 +456,7 @@ Saint Helenian pounds (SHP) per US dollar -<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 3,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 49.93 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 50 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 4,000 (2018 est.)<br>

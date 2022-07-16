@@ -213,11 +213,6 @@ _female_: 2% (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 1.6% (2018)<br>
 
-**Child marriage**<br>
-_women married by age 15_: 0%<br>
-_women married by age 18_: 1.5%<br>
-_men married by age 18_: 0% (2018 est.)<br>
-
 **Education expenditures**<br>
 7.3% of GDP (2016)<br>
 
@@ -660,7 +655,7 @@ _914 to 1,523 m_: 5<br>
 _under 914 m_: 8 (2021)<br>
 
 **Pipelines**<br>
-68 km condensate, 3111 km gas, 1381 km oil, 453 km refined products (2013)<br>
+68 km condensate, 3,111 km gas, 1,381 km oil, 453 km refined products (2013)<br>
 
 **Railways**<br>
 _total_: 2,173 km (2014) (1,991 in use)<br>

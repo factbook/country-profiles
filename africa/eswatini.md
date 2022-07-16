@@ -359,7 +359,7 @@ political parties exist, but conditions for their operations, particularly in el
 ACP, AfDB, AU, C, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Mcusi SHONGWE, Counselor (24 November 2021)<br>
+_chief of mission_: Ambassador Kennedy Fitzgerald GROENING (7 June 2022)<br>
 _chancery_: 1712 New Hampshire Avenue, NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 234-5002<br>
 _FAX_: [1] (202) 234-8254<br>

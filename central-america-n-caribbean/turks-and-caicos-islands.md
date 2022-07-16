@@ -299,7 +299,7 @@ blue with the flag of the UK in the upper hoist-side quadrant and the colonial s
 conch shell, Turk's cap cactus<br>
 
 **National anthem**<br>
-_name_: This Land of Ours<br>
+_name_: "This Land of Ours"<br>
 _lyrics/music_: Conrad HOWELL<br>
 <strong>note:</strong> serves as a local anthem; as a territory of the UK, "God Save the Queen" is the official anthem (see United Kingdom)<br>
 

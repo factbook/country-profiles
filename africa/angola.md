@@ -627,7 +627,7 @@ _electrification - rural areas_: 6% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 119,164 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 14,645,050 (2020 est.)<br>
@@ -650,7 +650,7 @@ _total_: 11,831,857 (2020 est.)<br>
 _percent of population_: 36% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 230,610 (2020 est.) This year we included fixed wireless technologies.<br>
+_total_: 230,610 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 0.7 (2020 est.) less than 1<br>
 
 ## Transportation
@@ -686,7 +686,7 @@ _under 914 m_: 22 (2021)<br>
 1 (2021)<br>
 
 **Pipelines**<br>
-352 km gas, 85 km liquid petroleum gas, 1065 km oil, 5 km oil/gas/water (2013)<br>
+352 km gas, 85 km liquid petroleum gas, 1,065 km oil, 5 km oil/gas/water (2013)<br>
 
 **Railways**<br>
 _total_: 2,852 km (2014)<br>
@@ -742,7 +742,7 @@ the International Maritime Bureau reports the territorial waters of Angola are a
 <p><em>Angola-Democratic Republic of Congo (DRC): </em>DRC accuses Angola of shifting monuments<br><br><em>Angola-Namibia: n</em>one identified<br><br><em>Angola-Republic of Congo:</em> (Kabinda Exclave) none identified<br><br><em>Angola-Zambia: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,082 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
+_refugees (country of origin)_: 37,081 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2022)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

@@ -214,10 +214,6 @@ _female_: 5% (2020 est.)<br>
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
-**Child marriage**<br>
-_women married by age 15_: 0%<br>
-_women married by age 18_: 0.1% (2020 est.)<br>
-
 **Education expenditures**<br>
 2.5% of GDP (2020)<br>
 
@@ -614,7 +610,7 @@ _subscriptions per 100 inhabitants_: 32 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 9,034,300 (2019)<br>
-_subscriptions per 100 inhabitants_: 155.65 (2019)<br>
+_subscriptions per 100 inhabitants_: 156 (2019)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; the government's telecommunication regulator, Infocomm Media Development Authority (IMDA), issued awards in mid-2020 to telecom operators with the goal of having at least 50% of the city-state covered with a standalone 5G network by the end of 2022; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers and controls Internet content; well served by submarine cable and satellite connections; major importer of integrated circuits and broadcasting equipment from China and exporter of same to SE Asian neighboring countries (2021)<br>
@@ -659,7 +655,7 @@ _914 to 1,523 m_: 1<br>
 _under 914 m_: 1 (2021)<br>
 
 **Pipelines**<br>
-3220 km domestic gas (2014), 1122 km cross-border pipelines (2017), 8 km refined products (2013)<br>
+3,220 km domestic gas (2014), 1,122 km cross-border pipelines (2017), 8 km refined products (2013) (2013)<br>
 
 **Roadways**<br>
 _total_: 3,500 km (2017)<br>

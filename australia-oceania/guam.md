@@ -239,7 +239,7 @@ _etymology_: the native Chamorro name for the island "Guahan" (meaning "we have"
 unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches<br>
 
 **Dependency status**<br>
-unincorporated organized territory of the US with policy relations between Guam and the&nbsp;federal government&nbsp;under the jurisdiction of the Office of Insular Affairs, US Department of the Interior<br>
+unincorporated organized territory of the US with policy relations between Guam and the Federal Government under the jurisdiction of the Office of Insular Affairs, US Department of the Interior, Washington, DC<br>
 
 **Capital**<br>
 _name_: Hagatna (Agana)<br>

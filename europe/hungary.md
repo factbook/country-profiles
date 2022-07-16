@@ -679,7 +679,7 @@ _under 914 m_: 11 (2021)<br>
 3 (2021)<br>
 
 **Pipelines**<br>
-5874 km gas (high-pressure transmission system), 83732 km gas (low-pressure distribution network), 850 km oil, 1200 km refined products (2016)<br>
+5,874 km gas (high-pressure transmission system), 83,732 km gas (low-pressure distribution network), 850 km oil, 1,200 km refined products (2018)<br>
 
 **Railways**<br>
 _total_: 8,049 km (2014)<br>

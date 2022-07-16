@@ -186,7 +186,7 @@ _unimproved: rural_: rural: 7.1% of population<br>
 _unimproved: total_: total: 6.2% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.6% (2018)<br>
+0.6% (2018 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 (2018) <1,000<br>
@@ -327,7 +327,7 @@ Saint Lucia Labor Party or SLP [Philip J. PIERRE]<br>United Workers Party or UWP
 ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Shirnaya V. STEPHEN (since 1 January 2022)<br>
+_chief of mission_: Ambassador Elizabeth DARIUS-CLARKE (since 7 June 2022)<br>
 _chancery_: 1629 K Street NW, Suite 1250, Washington, DC 20006<br>
 _telephone_: [1] (202) 364-6792<br>
 _FAX_: [1] (202) 364-6723<br>
@@ -344,7 +344,7 @@ cerulean blue with a gold isosceles triangle below a black arrowhead; the upper 
 twin pitons (volcanic peaks), Saint Lucia parrot; national colors: cerulean blue, gold, black, white<br>
 
 **National anthem**<br>
-_name_: Sons and Daughters of St. Lucia<br>
+_name_: "Sons and Daughters of St. Lucia"<br>
 _lyrics/music_: Charles JESSE/Leton Felix THOMAS<br>
 <strong>note:</strong> adopted 1967<br>
 

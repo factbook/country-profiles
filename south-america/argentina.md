@@ -198,10 +198,9 @@ _unimproved: total_: total: (2020 est.) NA<br>
 5 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: 100% of population (2017 est.)<br>
+_improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: NA<br>
 _improved: total_: total: NA<br>
-_unimproved: urban_: urban: 1% of population (2017 est.)<br>
 _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: (2020 est.) NA<br>
 
@@ -695,7 +694,7 @@ _under 914 m_: 448 (2021)<br>
 2 (2021)<br>
 
 **Pipelines**<br>
-29930 km gas, 41 km liquid petroleum gas, 6248 km oil, 3631 km refined products (2013)<br>
+29,930 km gas, 41 km liquid petroleum gas, 6,248 km oil, 3,631 km refined products (2013)<br>
 
 **Railways**<br>
 _total_: 36,917 km (2014)<br>

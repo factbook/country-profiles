@@ -128,7 +128,7 @@ _male_: NA<br>
 _female_: (2021 est.) NA<br>
 
 **Total fertility rate**<br>
-(2021 est.) NA<br>
+NA<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

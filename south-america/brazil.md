@@ -702,7 +702,7 @@ _under 914 m_: 1,684 (2021)<br>
 13 (2021)<br>
 
 **Pipelines**<br>
-5959 km refined petroleum product (1,165 km distribution, 4,794 km transport), 11696 km natural gas (2,274 km distribution, 9,422 km transport), 1985 km crude oil (distribution), 77 km ethanol/petrochemical (37 km distribution, 40 km transport) (2016)<br>
+5,959 km refined petroleum product (1,165 km distribution, 4,794 km transport), 11,696 km natural gas (2,274 km distribution, 9,422 km transport), 1,985 km crude oil (distribution), 77 km ethanol/petrochemical (37 km distribution, 40 km transport) (2016)<br>
 
 **Railways**<br>
 _total_: 29,850 km (2014)<br>

@@ -668,9 +668,6 @@ _under 914 m_: 2 (2021)<br>
 **Heliports**<br>
 9 (2021)<br>
 
-**Pipelines**<br>
-0 km oil<br>
-
 **Roadways**<br>
 _total_: 19,901 km (2016)<br>
 _government control_: 12,901 km (2016) (includes 272 km of expressways)<br>

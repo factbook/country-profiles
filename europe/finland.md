@@ -197,7 +197,7 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2018)<br>
+0.1% (2018 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 4,000 (2018)<br>
@@ -660,7 +660,7 @@ _914 to 1,523 m_: 3<br>
 _under 914 m_: 71 (2021)<br>
 
 **Pipelines**<br>
-1288 km gas transmission pipes, 1976 km distribution pipes (2016)<br>
+1,288 km gas transmission pipes, 1,976 km distribution pipes (2016)<br>
 
 **Railways**<br>
 _total_: 5,926 km (2016)<br>
@@ -718,6 +718,6 @@ note(s) - the military trains approximately 21,000 (20,000 Army) conscripts each
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 26,629 (Ukraine) (as of 26 June 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 30,955 (Ukraine) (as of 3 July 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

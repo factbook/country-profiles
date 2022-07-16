@@ -198,7 +198,7 @@ _unimproved: rural_: rural: 0.5% of population<br>
 _unimproved: total_: total: 0.5% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-(2020) <.1%<br>
+(2020 est.) <.1%<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 (2020) <1,000<br>
@@ -648,7 +648,7 @@ _under 914 m_: 48 (2021)<br>
 6 (2021)<br>
 
 **Pipelines**<br>
-3170 km gas, 2029 km oil (2013)<br>
+3,170 km gas, 2029 km oil (2013)<br>
 
 **Railways**<br>
 _total_: 2,052 km (2014)<br>

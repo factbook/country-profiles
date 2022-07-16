@@ -246,7 +246,7 @@ the flag of France is used<br>
 brown pelican<br>
 
 **National anthem**<br>
-_name_: O Sweet Saint Martin's Land<br>
+_name_: "O Sweet Saint Martin's Land"<br>
 _lyrics/music_: Gerard KEMPS<br>
 <strong>note:</strong> the song, written in 1958, is used as an unofficial anthem for the entire island (both French and Dutch sides); as a collectivity of France, in addition to the local anthem, "La Marseillaise" remains official on the French side (see France); as a constituent part of the Kingdom of the Netherlands, in addition to the local anthem, "Het Wilhelmus" remains official on the Dutch side (see Netherlands)<br>
 
@@ -307,7 +307,7 @@ _electrification - total population_: 100% (2020)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 68,840 (2017 est.)<br>
-_subscriptions per 100 inhabitants_: 195.54 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 196 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fully integrated access; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>

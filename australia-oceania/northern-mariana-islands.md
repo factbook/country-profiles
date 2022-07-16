@@ -231,7 +231,7 @@ _etymology_: formally claimed and named by Spain in 1667 in honor of the Spanish
 a commonwealth in political union with and under the sovereignty of the US; republican form of government with separate executive, legislative, and judicial branches<br>
 
 **Dependency status**<br>
-commonwealth in political union with and under the sovereignty of&nbsp;the US; federal funds to the Commonwealth administered by the US Department of the Interior, Office of Insular Affairs<br>
+commonwealth in political union with and under the sovereignty of the US; federal funds to the Commonwealth administered by the US Department of the Interior, Office of Insular Affairs, Washington, DC<br>
 
 **Capital**<br>
 _name_: Saipan<br>

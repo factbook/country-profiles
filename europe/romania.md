@@ -672,7 +672,7 @@ _under 914 m_: 14 (2021)<br>
 2 (2021)<br>
 
 **Pipelines**<br>
-3726 km gas, 2451 km oil (2013)<br>
+3,726 km gas, 2,451 km oil (2013)<br>
 
 **Railways**<br>
 _total_: 11,268 km (2014)<br>
@@ -737,7 +737,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 83,704 (Ukraine) (as of 5 July 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
-<strong>note:</strong> 10,167 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
+<strong>note:</strong> 10,197 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

@@ -378,7 +378,7 @@ blue with the flag of the UK in the upper hoist-side quadrant with four red five
 Southern Cross constellation (four, five-pointed stars), kiwi (bird), silver fern; national colors: black, white, red (ochre)<br>
 
 **National anthem**<br>
-_name_: God Defend New Zealand<br>
+_name_: "God Defend New Zealand"<br>
 _lyrics/music_: Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph WOODS<br>
 <strong>note:</strong> adopted 1940 as national song, adopted 1977 as co-national anthem; New Zealand has two national anthems with equal status; as a commonwealth realm, in addition to "God Defend New Zealand," "God Save the Queen" serves as a national anthem (see United Kingdom); "God Save the Queen" normally played only when a member of the royal family or the governor-general is present; in all other cases, "God Defend New Zealand" is played<br>
 
@@ -660,7 +660,7 @@ _914 to 1,523 m_: 33<br>
 _under 914 m_: 48 (2021)<br>
 
 **Pipelines**<br>
-331 km condensate, 2500 km gas, 172 km liquid petroleum gas, 288 km oil, 198 km refined products (2018)<br>
+331 km condensate, 2,500 km gas, 172 km liquid petroleum gas, 288 km oil, 198 km refined products (2018)<br>
 
 **Railways**<br>
 _total_: 4,128 km (2018)<br>

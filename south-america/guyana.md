@@ -388,7 +388,7 @@ green with a red isosceles triangle (based on the hoist side) superimposed on a 
 Canje pheasant (hoatzin), jaguar, Victoria Regia water lily; national colors: red, yellow, green, black, white<br>
 
 **National anthem**<br>
-_name_: Dear Land of Guyana, of Rivers and Plains<br>
+_name_: "Dear Land of Guyana, of Rivers and Plains"<br>
 _lyrics/music_: Archibald Leonard LUKERL/Robert Cyril Gladstone POTTER<br>
 <strong>note:</strong> adopted 1966<br>
 

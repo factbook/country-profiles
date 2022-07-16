@@ -404,7 +404,7 @@ two equal width horizontal bands of red (top) and blue separated by a central gr
 springbok (antelope), king protea flower; national colors: red, green, blue, yellow, black, white<br>
 
 **National anthem**<br>
-_name_: National Anthem of South Africa<br>
+_name_: "National Anthem of South Africa"<br>
 _lyrics/music_: Enoch SONTONGA and Cornelius Jacob LANGENHOVEN/Enoch SONTONGA and Marthinus LOURENS de Villiers<br>
 <strong>note:</strong> adopted 1994; a combination of "N'kosi Sikelel' iAfrica" (God Bless Africa) and "Die Stem van Suid Afrika" (The Call of South Africa), which were respectively the anthems of the non-white and white communities under apartheid; official lyrics contain a mixture of Xhosa, Zulu, Sesotho, Afrikaans, and English (i.e., the five most widely spoken of South Africa's 11 official languages); music incorporates the melody used in the Tanzanian and Zambian anthems<br>
 
@@ -689,7 +689,7 @@ _914 to 1,523 m_: 178<br>
 _under 914 m_: 79 (2021)<br>
 
 **Pipelines**<br>
-94 km condensate, 1293 km gas, 992 km oil, 1460 km refined products (2013)<br>
+94 km condensate, 1,293 km gas, 992 km oil, 1,460 km refined products (2013)<br>
 
 **Railways**<br>
 _total_: 20,986 km (2014)<br>

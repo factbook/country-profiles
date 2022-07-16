@@ -386,7 +386,7 @@ divided diagonally from upper hoist-side corner; the upper triangle is red with 
 bird of paradise; national colors: red, black<br>
 
 **National anthem**<br>
-_name_: O Arise All You Sons<br>
+_name_: "O Arise All You Sons"<br>
 _lyrics/music_: Thomas SHACKLADY<br>
 <strong>note:</strong> adopted 1975<br>
 

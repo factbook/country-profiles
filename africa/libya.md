@@ -191,7 +191,7 @@ NA<br>
 3.2 beds/1,000 population (2017)<br>
 
 **Sanitation facility access**<br>
-_improved: urban_: urban: (2015 est.) NA<br>
+_improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
 _improved: total_: total: 99.3% of population<br>
 _unimproved: urban_: urban: NA<br>
@@ -199,7 +199,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 0.7% of population (2020 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2020)<br>
+0.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 9,500 (2020)<br>
@@ -368,7 +368,7 @@ three horizontal bands of red (top), black (double width), and green with a whit
 star and crescent, hawk; national colors: red, black, green<br>
 
 **National anthem**<br>
-_name_: Libya, Libya, Libya<br>
+_name_: "Libya, Libya, Libya"<br>
 _lyrics/music_: Al Bashir AL AREBI/Mohamad Abdel WAHAB<br>
 <strong>note:</strong> also known as "Ya Beladi" or "Oh, My Country!"; adopted 1951; readopted 2011 with some modification to the lyrics; during the QADHAFI years between 1969 and 2011, the anthem was "Allahu Akbar," (God is Great) a marching song of the Egyptian Army in the 1956 Suez War<br>
 
@@ -643,7 +643,7 @@ _under 914 m_: 20 (2021)<br>
 2 (2021)<br>
 
 **Pipelines**<br>
-882 km condensate, 3743 km gas, 7005 km oil (2013)<br>
+882 km condensate, 3,743 km gas, 7,005 km oil (2013)<br>
 
 **Roadways**<br>
 _total_: 37,000 km (2010)<br>

@@ -83,7 +83,7 @@ _noun_: Bermudian(s)<br>
 _adjective_: Bermudian<br>
 
 **Ethnic groups**<br>
-African descent 52%, White 31%, mixed 9%, Asian 4, other 4% (2010 est.)<br>
+African descent 52%, White 31%, mixed 9%, Asian 4%, other 4% (2010 est.)<br>
 
 **Languages**<br>
 English (official), Portuguese<br>
@@ -253,7 +253,7 @@ _etymology_: named after Henry HAMILTON (ca. 1734-1796) who served as governor o
 9 parishes and 2 municipalities*; Devonshire, Hamilton, Hamilton*, Paget, Pembroke, Saint George*, Saint George's, Sandys, Smith's, Southampton, Warwick<br>
 
 **Independence**<br>
-none (Overseas Territory of the UK)<br>
+none (overseas territory of the UK)<br>
 
 **National holiday**<br>
 Bermuda Day, 24 May; note - formerly known as Victoria Day, Empire Day, and Commonwealth Day<br>

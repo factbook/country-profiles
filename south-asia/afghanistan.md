@@ -213,7 +213,7 @@ _unimproved: total_: total: 38.6% of population (2020 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimea-Congo hemorrhagic fever, malaria<br>
-<strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 5.5% (2016)<br>
@@ -288,7 +288,7 @@ _coal revenues_: 0.45% of GDP (2018 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimea-Congo hemorrhagic fever, malaria<br>
-<strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
+<strong>note:</strong> Afghanistan is one of two countries with endemic wild polio virus (the other is Pakistan) and considered high risk for international spread of the disease; before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the US Centers for Disease Control and Prevention (CDC) recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: <em>due to civil conflict, population displacement, and economic slowdown -</em> between November 2021 and March 2022, during the winter lean season, the food insecurity situation is expected to deteriorate and the number of people in "Crisis" or above is likely to increase to 22.8 million, about 35% more than during the same season in 2020/21; following the developments of August 2021 in the country, the international aid flows, an important element of public spending, were halted; the food security situation and agricultural livelihoods in the country is likely to significantly deteriorate in the coming months due to cumulative and cascading impact of multiple shocks, including weather, conflict, economic crisis and the lingering effects of the COVID‑19 pandemic (2022)<br>
@@ -626,7 +626,7 @@ _electrification - rural areas_: 98% (2018)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 145,787 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: (2020 est.) less than 1<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 22,678,024 (2020 est.)<br>

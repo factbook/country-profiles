@@ -210,7 +210,6 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: leptospirosis<br>
-<strong>note</strong>: on 8 October 2019, the Centers for Disease Control and Prevention issued a Travel Health Notice regarding a polio outbreak in the Philippines; CDC recommends that all travelers to the Philippines be vaccinated fully against polio; before traveling to the Philippines, adults who completed their routine polio vaccine series as children should receive a single, lifetime adult booster dose of polio vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.4% (2016)<br>
@@ -289,7 +288,6 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: leptospirosis<br>
-<strong>note</strong>: on 8 October 2019, the Centers for Disease Control and Prevention issued a Travel Health Notice regarding a polio outbreak in the Philippines; CDC recommends that all travelers to the Philippines be vaccinated fully against polio; before traveling to the Philippines, adults who completed their routine polio vaccine series as children should receive a single, lifetime adult booster dose of polio vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 14,631,923 tons (2016 est.)<br>

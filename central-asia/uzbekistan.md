@@ -91,7 +91,7 @@ _noun_: Uzbekistani<br>
 _adjective_: Uzbekistani<br>
 
 **Ethnic groups**<br>
-Uzbek 83.8%, Tajik 4.8%, Kazakh 2.5%, Russian 2.3%, Karakalpak 2.2%, Tatar 1.5%, other 4.4% (2017 est.)<br>
+Uzbek 83.8%, Tajik 4.8%, Kazakh 2.5%, Russian 2.3%, Karakalpak 2.2%, Tatar 1.5%, other 2.9% (2017 est.)<br>
 
 **Languages**<br>
 Uzbek (official) 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%<br>

@@ -229,7 +229,7 @@ _etymology_: the myriad islets, cays, and rocks surrounding the major islands re
 Overseas Territory of the UK with limited self-government; parliamentary democracy<br>
 
 **Dependency status**<br>
-Overseas Territory of the UK; internal self-governing<br>
+overseas territory of the UK; internal self-governing<br>
 
 **Capital**<br>
 _name_: Road Town<br>
@@ -241,7 +241,7 @@ _etymology_: name refers to the nautical term "roadstead" or "roads," a body of 
 none (overseas territory of the UK)<br>
 
 **Independence**<br>
-none (Overseas Territory of the UK)<br>
+none (overseas territory of the UK)<br>
 
 **National holiday**<br>
 Territory Day, 1 July (1956)<br>

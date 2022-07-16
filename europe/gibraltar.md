@@ -279,7 +279,7 @@ two horizontal bands of white (top, double width) and red with a three-towered r
 Barbary macaque; national colors: red, white, yellow<br>
 
 **National anthem**<br>
-_name_: Gibraltar Anthem<br>
+_name_: "Gibraltar Anthem"<br>
 _lyrics/music_: Peter EMBERLEY<br>
 <strong>note:</strong> adopted 1994; serves as a local anthem; as a territory of the United Kingdom, "God Save the Queen" is official (see United Kingdom)<br>
 

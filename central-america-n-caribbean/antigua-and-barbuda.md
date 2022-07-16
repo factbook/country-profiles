@@ -181,7 +181,7 @@ _improved: total_: total: 91.7% of population<br>
 _unimproved: total_: total: 8.1% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-1.1% (2018)<br>
+1.1% (2018 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 (2018) <1,000<br>

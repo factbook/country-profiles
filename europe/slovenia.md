@@ -656,7 +656,7 @@ _914 to 1,523 m_: 4<br>
 _under 914 m_: 3 (2021)<br>
 
 **Pipelines**<br>
-1155 km gas, 5 km oil (2017)<br>
+1,155 km gas, 5 km oil (2018)<br>
 
 **Railways**<br>
 _total_: 1,229 km (2014)<br>
@@ -713,7 +713,7 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 6,962 (Ukraine) (as of 5 July 2022)<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>540,247 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
+<strong>note:  </strong>541,914 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

@@ -210,7 +210,6 @@ NA<br>
 NA<br>
 
 **Major infectious diseases**<br>
-_respiratory diseases_: Covid-19 (2020)<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 6 June 2022, Turkey has reported a total of 15,073,722 cases of COVID-19 or 17,872.76 cumulative cases of COVID-19 per 100,000 population with a total of 98,969 cumulative deaths or a rate of 117.3 cumulative deaths per 100,000 population; as of 31 May 2022, 68.02% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -283,7 +282,6 @@ _forest revenues_: 0.08% of GDP (2018 est.)<br>
 _coal revenues_: 0.05% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_respiratory diseases_: Covid-19 (2020)<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 6 June 2022, Turkey has reported a total of 15,073,722 cases of COVID-19 or 17,872.76 cumulative cases of COVID-19 per 100,000 population with a total of 98,969 cumulative deaths or a rate of 117.3 cumulative deaths per 100,000 population; as of 31 May 2022, 68.02% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>

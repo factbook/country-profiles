@@ -213,7 +213,7 @@ _unimproved: total_: total: 4.2% of population (2020 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>Note:</strong> as of 1 March 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country<br>
+<strong>note:</strong> as of 30 September 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country<br>
 
 **Obesity - adult prevalence rate**<br>
 25.6% (2016)<br>
@@ -268,7 +268,7 @@ _rate of urbanization_: 1.16% annual rate of change (2020-25 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>Note:</strong> as of 1 March 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country<br>
+<strong>note:</strong> as of 30 September 2021, the Centers for Disease Control and Prevention recommends that travelers avoid all nonessential travel to Venezuela; the country is experiencing outbreaks of infectious diseases, and adequate health care is currently not available in most of the country<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: <em>due to severe economic crisis -</em> the national economy, highly dependent on oil production and exports, is forecast to contract in 2021 for the eighth consecutive year; with the persistent negative effects of the COVID‑19 pandemic that have compounded the already severe macro‑economic crisis, the access to food of the most vulnerable households is expected to deteriorate throughout 2021 due to widespread losses of income‑generating activities and soaring food prices (2022)<br>
@@ -669,7 +669,7 @@ _under 914 m_: 130 (2021)<br>
 3 (2021)<br>
 
 **Pipelines**<br>
-981 km extra heavy crude, 5941 km gas, 7588 km oil, 1778 km refined products (2013)<br>
+981 km extra heavy crude, 5941 km gas, 7,588 km oil, 1,778 km refined products (2013)<br>
 
 **Railways**<br>
 _total_: 447 km (2014)<br>

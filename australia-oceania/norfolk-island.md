@@ -127,7 +127,7 @@ _male_: NA<br>
 _female_: NA<br>
 
 **Life expectancy at birth**<br>
-_total population_: (2017 est.) NA<br>
+_total population_: NA<br>
 _male_: NA<br>
 _female_: NA<br>
 
@@ -154,7 +154,7 @@ _improved: rural_: rural: NA<br>
 _improved: total_: total: NA<br>
 _unimproved: urban_: urban: NA<br>
 _unimproved: rural_: rural: NA<br>
-_unimproved: total_: total: (2020) NA<br>
+_unimproved: total_: total: NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -266,7 +266,7 @@ three vertical bands of green (hoist side), white, and green with a large green 
 Norfolk Island pine<br>
 
 **National anthem**<br>
-_name_: Come Ye Blessed<br>
+_name_: "Come Ye Blessed"<br>
 _lyrics/music_: New Testament/John Prindle SCOTT<br>
 <strong>note:</strong> the local anthem, whose lyrics consist of the words from Matthew 25:34-36, 40, is also known as "The Pitcairn Anthem;" the island does not recognize "Advance Australia Fair" (which other Australian territories use); instead "God Save the Queen" is official (see United Kingdom)<br>
 

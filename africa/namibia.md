@@ -403,7 +403,7 @@ a wide red stripe edged by narrow white stripes divides the flag diagonally from
 oryx (antelope); national colors: blue, red, green, white, yellow<br>
 
 **National anthem**<br>
-_name_: Namibia, Land of the Brave<br>
+_name_: "Namibia, Land of the Brave"<br>
 _lyrics/music_: Axali DOESEB<br>
 <strong>note:</strong> adopted 1991<br>
 

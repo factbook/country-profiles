@@ -275,7 +275,7 @@ a blue field with 12 five-pointed gold stars arranged in a circle in the center;
 a circle of 12, five-pointed, golden yellow stars on a blue field; union colors: blue, yellow<br>
 
 **National anthem**<br>
-_name_: Ode to Joy<br>
+_name_: "Ode to Joy"<br>
 _lyrics/music_: no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN<br>
 <strong>note:</strong> official EU anthem since 1985; the anthem is meant to represent all of Europe rather than just the organization, conveying ideas of peace, freedom, and unity<br>
 

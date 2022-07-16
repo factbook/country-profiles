@@ -368,7 +368,7 @@ note - there were 35 total registered parties as of December 2021<br>
 ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ulziidelger BATBAYAR (since 8 November 2021)<br>
+_chief of mission_: Ambassador BATBAYAR Ulziidelger (since 1 December 2021)<br>
 _chancery_: 2833 M Street NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 333-7117<br>
 _FAX_: [1] (202) 298-9227<br>

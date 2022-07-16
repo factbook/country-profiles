@@ -356,7 +356,7 @@ red with a white-edged black diagonal band from the upper hoist side to the lowe
 scarlet ibis (bird of Trinidad), cocrico (bird of Tobago), Chaconia flower; national colors: red, white, black<br>
 
 **National anthem**<br>
-_name_: Forged From the Love of Liberty<br>
+_name_: "Forged From the Love of Liberty"<br>
 _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
 <strong>note:</strong> adopted 1962; song originally created to serve as an anthem for the West Indies Federation; adopted by Trinidad and Tobago following the Federation's dissolution in 1962<br>
 
@@ -622,7 +622,7 @@ _914 to 1,523 m_: 1<br>
 _under 914 m_: 1 (2021)<br>
 
 **Pipelines**<br>
-257 km condensate, 11 km condensate/gas, 1567 km gas, 587 km oil (2013)<br>
+257 km condensate, 11 km condensate/gas, 1,567 km gas, 587 km oil (2013)<br>
 
 **Merchant marine**<br>
 _total_: 105<br>

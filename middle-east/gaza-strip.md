@@ -193,15 +193,16 @@ NA<br>
 NA<br>
 
 **Major infectious diseases**<br>
-<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the Gaza Strip is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
+<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the Gaza Strip is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Children under the age of 5 years underweight**<br>
 2.1% (2019/20)<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
 
 **Child marriage**<br>
-_women married by age 15_: 0.7% Includes both the Gaza Strip and the West Bank<br>
-_women married by age 18_: 13.4% (2020 est.) Includes both the Gaza Strip and the West Bank<br>
+_women married by age 15_: 0.7%<br>
+_women married by age 18_: 13.4% (2020 est.)<br>
+<strong>note:</strong> includes both the Gaza Strip and the West Bank<br>
 
 **Education expenditures**<br>
 5.3% of GDP (2018)<br>
@@ -247,7 +248,7 @@ _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the Gaza Strip is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
+<p><strong>note: </strong>on 21 March 2022, the US Centers for Disease Control and Prevention (CDC) issued a Travel Alert for polio in Asia; the Gaza Strip is currently considered a high risk to travelers for polio; the CDC recommends that before any international travel, anyone unvaccinated, incompletely vaccinated, or with an unknown polio vaccination status should complete the routine polio vaccine series; before travel to any high-risk destination, the CDC recommends that adults who previously completed the full, routine polio vaccine series receive a single, lifetime booster dose of polio vaccine</p><br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.387 million tons (2016 est.)<br>
@@ -416,12 +417,14 @@ _electrification - total population_: 100% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 466,283 (2020 est.) includes the West Bank<br>
-_subscriptions per 100 inhabitants_: 9 (2020 est.) includes the West Bank<br>
+_total subscriptions_: 466,283 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 9 (2020 est.)<br>
+includes the West Bank<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,274,119 (2020 est.) includes the West Bank<br>
-_subscriptions per 100 inhabitants_: 84 (2020 est.) includes the West Bank<br>
+_total subscriptions_: 4,274,119 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 84 (2020 est.)<br>
+includes the West Bank<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Israel has final say in allocating frequencies in the Gaza Strip and does not permit anything beyond a 2G network (2018)<br>

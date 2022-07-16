@@ -182,7 +182,7 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: 9.8% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-1.5% (2018)<br>
+1.5% (2018 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 1,200 (2018)<br>
@@ -334,7 +334,7 @@ three vertical bands of blue (hoist side), gold (double width), and green; the g
 Saint Vincent parrot; national colors: blue, gold, green<br>
 
 **National anthem**<br>
-_name_: St. Vincent! Land So Beautiful!<br>
+_name_: "St. Vincent! Land So Beautiful!"<br>
 _lyrics/music_: Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL<br>
 <strong>note:</strong> adopted 1967<br>
 

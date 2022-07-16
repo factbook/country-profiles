@@ -479,7 +479,7 @@ _subscriptions per 100 inhabitants_: 60 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 5,000 (2018 est.)<br>
-_subscriptions per 100 inhabitants_: 100.7 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 101 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom market one of growth in Caribbean and fully digitalized;&nbsp;high dependency on tourism and offshore financial&nbsp;services; operators expand FttP (Fiber to Home) services; LTE launches and operators invest in mobile networks; effective competition in all sectors (2020)<br>

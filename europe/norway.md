@@ -655,7 +655,7 @@ _under 914 m_: 22 (2021)<br>
 1 (2021)<br>
 
 **Pipelines**<br>
-8520 km gas, 1304 km oil/condensate (2017)<br>
+8,520 km gas, 1,304 km oil/condensate (2017)<br>
 
 **Railways**<br>
 _total_: 4,200 km (2019)<br>
@@ -710,6 +710,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 19,439 (Ukraine) (as of 28 June 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 20,310 (Ukraine) (as of 6 July 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

@@ -343,8 +343,8 @@ light blue with four white five-pointed stars centered; the stars are arranged i
 four, five-pointed, white stars on a light blue field, hibiscus flower; national colors: light blue, white<br>
 
 **National anthem**<br>
-_name_: Patriots of Micronesia<br>
-_lyrics/music_: unknown<br>
+_name_: "Patriots of Micronesia"<br>
+_lyrics/music_: unknown/August Daniel BINZER<br>
 <strong>note:</strong> adopted 1991; also known as "Across All Micronesia"; the music is based on the 1820 German patriotic song "Ich hab mich ergeben", which was the West German national anthem from 1949-1950; variants of this tune are used in Johannes Brahms' "Festival Overture" and Gustav Mahler's "Third Symphony"<br>
 
 **National heritage**<br>

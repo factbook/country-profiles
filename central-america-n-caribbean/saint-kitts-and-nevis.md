@@ -183,7 +183,7 @@ _unimproved: rural_: rural: 12.7% of population<br>
 _unimproved: total_: total: 12.7% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.5% (2018)<br>
+0.5% (2018 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
 (2018) <200<br>
@@ -337,7 +337,7 @@ divided diagonally from the lower hoist side by a broad black band bearing two w
 brown pelican, royal poinciana (flamboyant) tree; national colors: green, yellow, red, black, white<br>
 
 **National anthem**<br>
-_name_: Oh Land of Beauty!<br>
+_name_: "Oh Land of Beauty!"<br>
 _lyrics/music_: Kenrick Anderson GEORGES<br>
 <strong>note:</strong> adopted 1983<br>
 

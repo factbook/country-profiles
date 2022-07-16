@@ -205,8 +205,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 (2020 est.) <1000<br>
 
 **Major infectious diseases**<br>
-_respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Italy has reported a total of 17,505,973 cases of COVID-19 or 29,352 cumulative cases of COVID-19 per 100,000 population with a total of 166,949 cumulative deaths or a rate of 279.9 cumulative deaths per 100,000 population; as of 6 June 2022, 84.1% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> a new coronavirus is causing respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Italy has reported a total of 17,505,973 cases of COVID-19 or 29,352 cumulative cases of COVID-19 per 100,000 population with a total of 166,949 cumulative deaths or a rate of 279.9 cumulative deaths per 100,000 population; as of 6 June 2022, 84.1% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
@@ -273,8 +272,7 @@ _forest revenues_: 0.01% of GDP (2018 est.)<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
-_respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Italy has reported a total of 17,505,973 cases of COVID-19 or 29,352 cumulative cases of COVID-19 per 100,000 population with a total of 166,949 cumulative deaths or a rate of 279.9 cumulative deaths per 100,000 population; as of 6 June 2022, 84.1% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> a new coronavirus is causing respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 June 2022, Italy has reported a total of 17,505,973 cases of COVID-19 or 29,352 cumulative cases of COVID-19 per 100,000 population with a total of 166,949 cumulative deaths or a rate of 279.9 cumulative deaths per 100,000 population; as of 6 June 2022, 84.1% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 29.524 million tons (2015 est.)<br>
@@ -676,7 +674,7 @@ _under 914 m_: 20 (2021)<br>
 5 (2021)<br>
 
 **Pipelines**<br>
-20223 km gas, 1393 km oil, 1574 km refined products (2013)<br>
+20,223 km gas, 1,393 km oil, 1,574 km refined products (2013)<br>
 
 **Railways**<br>
 _total_: 20,182 km (2014)<br>
@@ -744,7 +742,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 141,562 (Ukraine) (as of 28 June 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 619,524 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
+<strong>note:</strong> 622,062 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

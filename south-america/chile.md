@@ -358,7 +358,7 @@ Approve Dignity (Apruebo Dignidad) coalition or AD  - (includes PC, FA, and FRE
 APEC, BIS, CAN (associate), CD, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OECD (enhanced engagement), OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina, UNMOGIP, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Beatriz DE LA FUENTE FUENTES (since 8 March 2022)<br>
+_chief of mission_: Ambassador Juan Gabriel VALDES Soublette (since 7 June 2022)<br>
 _chancery_: 1732 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 785-1746<br>
 _FAX_: [1] (202) 887-5579<br>
@@ -667,7 +667,7 @@ _under 914 m_: 319 (2021)<br>
 1 (2021)<br>
 
 **Pipelines**<br>
-3160 km gas, 781 km liquid petroleum gas, 985 km oil, 722 km refined products (2013)<br>
+3,160 km gas, 781 km liquid petroleum gas, 985 km oil, 722 km refined products (2013)<br>
 
 **Railways**<br>
 _total_: 7,282 km (2014)<br>

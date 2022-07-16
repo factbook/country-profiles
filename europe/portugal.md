@@ -352,7 +352,7 @@ Democratic Alliance (2022 electoral alliance in the Azores, includes PSD, CDS-PP
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Francisco Duarte LOPES (since May 2022)<br>
+_chief of mission_: Ambassador Francisco Antonio Duarte LOPES (since 7 June 2022)<br>
 _chancery_: 2012 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 350-5400; [1] (202) 332-3007<br>
 _FAX_: [1] (202) 462-3726; [1] (202) 387-2768<br>
@@ -658,7 +658,7 @@ _914 to 1,523 m_: 1<br>
 _under 914 m_: 20 (2021)<br>
 
 **Pipelines**<br>
-1344 km gas, 11 km oil, 188 km refined products (2013)<br>
+1,344 km gas, 11 km oil, 188 km refined products (2013)<br>
 
 **Railways**<br>
 _total_: 3,075 km (2014)<br>
@@ -724,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Portugal-Spain</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 45,714 (Ukraine) (as of 28 June 2022)<br>
+_refugees (country of origin)_: 46,579 (Ukraine) (as of 5 July 2022)<br>
 _stateless persons_: 45 (mid-year 2021)<br>
 
 **Illicit drugs**<br>
