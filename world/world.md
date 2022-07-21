@@ -87,8 +87,8 @@ World map shown in a cylindrical equal area projection, oblique case view with e
 ## People and Society
 
 **Population**<br>
-7,772,850,805 (July 2021 est.)<br>
-<strong>top ten most populous countries (in millions):</strong> China 1397.89; India 1339.33; United States 334.99; Indonesia 275.12; Pakistan 238.18; Nigeria 219.47; Brazil 213.45; Bangladesh 164.1; Russia 142.32; Japan 124.69 <br><br><strong>ten least populous countries:</strong> Holy See (Vatican City) 1,000; Saint Pierre and Miquelon 5,321; Montserrat 5,387; Saint Barthelemy 7,116; Saint Helena, Ascension, and Tristan de Cunha 7,915; Cook Islands 8,327; Nauru 9,770; Tuvalu 11,448; Wallis and Futuna 15,851; Anguilla 18,403 <br><br><strong>ten most densely populated countries (population per sq km):</strong> Macau 22,514; Monaco 15,611; Singapore 8,273; Hong Kong 6,769; Gaza Strip 5,436; Gibraltar 4,216; Bahrain 2,009; Malta 1,458; Bermuda 1,335; Maldives 1,311 <br><br><strong>ten least densely populated countries (population per sq km):</strong> Greenland .027; Falkland Islands .26; Mongolia 2.1; Namibia 3.3; Australia 3.4; Iceland 3.5; Suriname 3.9; Mauritania 4; Libya 4; Guyana 4<br>
+7,905,336,896 (July 2022 est.)<br>
+<strong>top ten most populous countries (in millions):</strong> China 1410.54; India 1389.37; United States 337.34; Indonesia 277.33; Pakistan 242.92; Nigeria 225.08; Brazil 217.24; Bangladesh 165.65; Russia 142.02; Mexico 129.15 <br><br><strong>ten least populous countries:</strong> Holy See (Vatican City) 1,000; Saint Pierre and Miquelon 5,257; Montserrat 5,414; Saint Barthelemy 7,103; Saint Helena, Ascension, and Tristan de Cunha 7,925; Cook Islands 8,128; Nauru 9,811; Tuvalu 11,544; Wallis and Futuna 15,891; Anguilla 18,741 <br><br><strong>ten most densely populated countries (population per sq km):</strong> Macau 22,689; Monaco 15,700; Singapore 8,351.5; Hong Kong 6,781.5; Gaza Strip 5,548.1; Gibraltar 4,224.7; Bahrain 2,027; Malta 1,468.9; Bermuda 1,339.6; Maldives 1,327.2 <br><br><strong>ten least densely populated countries (population per sq km):</strong> Greenland .026; Falkland Islands .26; Mongolia 2.1; Namibia 3.3; Australia 3.4; Iceland 3.6; Guyana 4; Mauritania 4; Suriname 4.1; Libya 4.1<br>
 
 **Languages**<br>
 <p><strong>most-spoken language: </strong>English 16.5%, Mandarin Chinese 14.6%, Hindi 8.3%, Spanish 7%, French 3.6%, Arabic 3.6%, Bengali 3.4%, Russian 3.4%, Portuguese 3.3%, Indonesian 2.6% (2020 est.) <br><br><strong>most-spoken first language:</strong> Mandarin Chinese 12.3%, Spanish 6%, English 5.1%, Arabic 5.1%, Hindi 3.5%, Bengali 3.3%, Portuguese 3%, Russian 2.1%, Japanese 1.7%, Punjabi, Western 1.3%, Javanese 1.1% (2018 est.)</p> <p><strong>note 1:</strong> the six UN languages - Arabic, Chinese (Mandarin), English, French, Russian, and Spanish (Castilian) - are the mother tongue or second language of about 45% of the world's population, and are the official languages in more than half the states in the world; some 400 languages have more than a million first-language speakers (2018)</p> <p><strong>note 2:</strong> all told, there are estimated to be just over 7,151 languages spoken in the world (2022); approximately 80% of these languages are spoken by less than 100,000 people; about 150 languages are spoken by fewer than 10 people; communities that are isolated from each other in mountainous regions often develop multiple languages; Papua New Guinea, for example, boasts about 840 separate languages (2018)</p> <p><strong>note 3:</strong> approximately 2,300 languages are spoken in Asia, 2,140, in Africa, 1,310 in the Pacific, 1,060 in the Americas, and 290 in Europe (2020)</p><br>
@@ -176,6 +176,9 @@ _unimproved: total_: total: 8.9% of population (2015 est.)<br>
 **Current Health Expenditure**<br>
 10% (2016)<br>
 
+**Physicians density**<br>
+NA<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: 82.3% of population<br>
 _improved: rural_: rural: 50.5% of population<br>
@@ -201,7 +204,7 @@ _definition_: age 15 and over can read and write<br>
 _total population_: 86.7%<br>
 _male_: 90.1%<br>
 _female_: 83.3% (2020)<br>
-<strong>note:</strong> more than three-quarters of the world's 750 million illiterate adults are found in South Asia and sub-Saharan Africa; of all the illiterate adults in the world, almost two-thirds are women (2016)<br>
+<strong>note:</strong> more than three quarters of the world's 750 million illiterate adults are found in South Asia and sub-Saharan Africa; of all the illiterate adults in the world, almost two thirds are women (2016)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -390,50 +393,8 @@ _electrification - total population_: 90% (2019)<br>
 _electrification - urban areas_: 96% (2019)<br>
 _electrification - rural areas_: 85% (2019)<br>
 
-**Electricity - production**<br>
-23.65 trillion kWh (2015 est.)<br>
-
-**Electricity - consumption**<br>
-21.78 trillion kWh (2015 est.)<br>
-
-**Electricity - exports**<br>
-696.1 billion kWh (2016)<br>
-
-**Electricity - imports**<br>
-721.9 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-6.386 billion kW (2015 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-63% of total installed capacity (2015 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-6% of total installed capacity (2015 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-18% of total installed capacity (2015 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-14% of total installed capacity (2015 est.)<br>
-
-**Crude oil - production**<br>
-80.77 million bbl/day (2016 est.)<br>
-
-**Crude oil - exports**<br>
-43.57 million bbl/day (2014 est.)<br>
-
-**Crude oil - imports**<br>
-44.58 million bbl/day (2014 est.)<br>
-
-**Crude oil - proved reserves**<br>
-1.665 trillion bbl (1 January 2017 est.)<br>
-
 **Refined petroleum products - production**<br>
 88.4 million bbl/day (2014 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-96.26 million bbl/day (2015 est.)<br>
 
 **Refined petroleum products - exports**<br>
 29.66 million bbl/day (2014 est.)<br>
@@ -441,20 +402,8 @@ _electrification - rural areas_: 85% (2019)<br>
 **Refined petroleum products - imports**<br>
 28.62 million bbl/day (2014 est.)<br>
 
-**Natural gas - production**<br>
-3.481 trillion cu m (2015 est.)<br>
-
-**Natural gas - consumption**<br>
-3.477 trillion cu m (2015 est.)<br>
-
-**Natural gas - exports**<br>
-1.156 trillion cu m (2013 est.)<br>
-
-**Natural gas - imports**<br>
-1.496 trillion cu m (2013 est.)<br>
-
-**Natural gas - proved reserves**<br>
-196.1 trillion cu m (1 January 2016 est.)<br>
+**Carbon dioxide emissions**<br>
+33.62 billion metric tonnes of CO2 (2013 est.)<br>
 
 ## Communications
 
@@ -476,7 +425,7 @@ _percent of population_: 63% (2021 est.)<br>
 <strong>top ten countries by Internet usage (in millions):</strong> 730.7 China; 374.3 India; 246.8 United States; 122.8 Brazil; 116.6 Japan; 108.8 Russia; 73.3 Mexico; 72.3 Germany; 65.5 Indonesia; 61 United Kingdom (2017)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1.23 billion (2020 est.) the number of fixed broadband subscriptions has been higher than that of fixed telephony since 2017.<br>
+_total_: 1.23 billion (2020 est.) ;the number of fixed broadband subscriptions has been higher than that of fixed telephony since 2017<br>
 _subscriptions per 100 inhabitants_: 17 (2021 est.)<br>
 
 **Communications - note**<br>
@@ -496,7 +445,7 @@ _total_: 1,148,186 km (2013)<br>
 
 **Waterways**<br>
 2,293,412 km (2017)<br>
-<strong>top ten longest rivers:</strong> Nile (Africa) 6,693 km; Amazon (South America) 6,436 km; Mississippi-Missouri (North America) 6,238 km; Yenisey-Angara (Asia) 5,981 km; Ob-Irtysh (Asia) 5,569 km; Yangtze (Asia) 5,525 km; Yellow (Asia) 4,671 km; Amur (Asia) 4,352 km; Lena (Asia) 4,345 km; Congo (Africa) 4,344 km<br><br><strong>note 1:</strong> rivers are not necessarily navigable along the entire length; if measured by volume, the Amazon is the largest river in the world, responsible for about 20% of the Earth's freshwater entering the ocean<br><br><strong>note 2:</strong> there are 20 countries without rivers: 3 in Africa (Comoros, Djibouti, Libya), 1 in the Americas (Bahamas), 8 in Asia (Bahrain, Kuwait, Maldives, Oman, Qatar, Saudi Arabia, United Arab Emirates, Yemen), 3 in Europe (Malta, Monaco, Holy See), 5 in Oceania (Kiribati, Marshall Islands, Nauru, Tonga, Tuvalu); these countries also do not have natural lakes<br><br><strong>top ten largest natural lakes (by surface area): </strong>Caspian Sea (Azerbaijan, Iran, Kazakhstan, Russia, Turkmenistan) 372,960 sq km; Lake Superior (Canada, United States) 82,414 sq km; Lake Victoria (Kenya, Tanzania, Uganda) 69,490 sq km; Lake Huron (Canada, United States) 59,596 sq km; Lake Michigan (United States) 57,441 sq km; Lake Tanganyika (Burundi, Democratic Republic of the Congo, Tanzania, Zambia) 32,890 sq km; Great Bear Lake (Canada) 31,800 sq km; Lake Baikal (Russia) 31,494 sq km; Lake Nyasa (Malawi, Mozambique, Tanzania) 30,044 sq km; Great Slave Lake (Canada) 28,400 sq km<br><br><strong>note 1:</strong> the areas of the lakes are subject to seasonal variation; only the Caspian Sea is saline, the rest are fresh water<br><br><strong>note 2:</strong> Lakes Huron and Michigan are technically a single lake because the flow of water between the Straits of Mackinac that connects the two lakes keeps their water levels at near-equilibrium; combined, Lake Huron-Michigan is the largest freshwater lake by surface area in the world<br><br><strong>note 3: </strong>the deepest lake in the world (1,620 m), and also the largest freshwater lake by volume (23,600 cu km), is Lake Baikal in Russia<br>
+<strong>top ten longest rivers:</strong> Nile (Africa) 6,693 km; Amazon (South America) 6,436 km; Mississippi-Missouri (North America) 6,238 km; Yenisey-Angara (Asia) 5,981 km; Ob-Irtysh (Asia) 5,569 km; Yangtze (Asia) 5,525 km; Yellow (Asia) 4,671 km; Amur (Asia) 4,352 km; Lena (Asia) 4,345 km; Congo (Africa) 4,344 km<br><br><strong>note 1:</strong> rivers are not necessarily navigable along the entire length; if measured by volume, the Amazon is the largest river in the world, responsible for about 20% of the Earth's freshwater entering the ocean<br><br><strong>note 2:</strong> there are 20 countries without rivers: 3 in Africa (Comoros, Djibouti, Libya); 1 in the Americas (Bahamas); 8 in Asia (Bahrain, Kuwait, Maldives, Oman, Qatar, Saudi Arabia, United Arab Emirates, Yemen); 3 in Europe (Malta, Monaco, Holy See), 5 in Oceania (Kiribati, Marshall Islands, Nauru, Tonga, Tuvalu); these countries also do not have natural lakes<br><br><strong>top ten largest natural lakes (by surface area): </strong>Caspian Sea (Azerbaijan, Iran, Kazakhstan, Russia, Turkmenistan) 372,960 sq km; Lake Superior (Canada, United States) 82,414 sq km; Lake Victoria (Kenya, Tanzania, Uganda) 69,490 sq km; Lake Huron (Canada, United States) 59,596 sq km; Lake Michigan (United States) 57,441 sq km; Lake Tanganyika (Burundi, Democratic Republic of the Congo, Tanzania, Zambia) 32,890 sq km; Great Bear Lake (Canada) 31,800 sq km; Lake Baikal (Russia) 31,494 sq km; Lake Nyasa (Malawi, Mozambique, Tanzania) 30,044 sq km; Great Slave Lake (Canada) 28,400 sq km<br><br><strong>note 1:</strong> the areas of the lakes are subject to seasonal variation; only the Caspian Sea is saline, the rest are fresh water<br><br><strong>note 2:</strong> Lakes Huron and Michigan are technically a single lake because the flow of water between the Straits of Mackinac that connects the two lakes keeps their water levels at near-equilibrium; combined, Lake Huron-Michigan is the largest freshwater lake by surface area in the world<br><br><strong>note 3: </strong>the deepest lake in the world (1,620 m), and also the largest freshwater lake by volume (23,600 cu km), is Lake Baikal in Russia<br>
 
 **Merchant marine**<br>
 _total_: 98,202<br>

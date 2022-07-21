@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Aboriginal Australians arrived on the continent at least 60,000 years ago and developed complex hunter-gatherer societies and oral histories. Dutch navigators led by Abel TASMAN were the first Europeans to land in Australia in 1606, and they mapped the western and northern coasts. They named the continent New Holland but made no attempts to permanently settle it. In 1770, English captain James COOK sailed to the east coast of Australia, named it New South Wales, and claimed it for Great Britain. In 1788 and 1825, Great Britain established New South Wales and then Tasmania as penal colonies respectively. Great Britain and Ireland sent more than 150,000 convicts to Australia before ending the practice in 1868. As Europeans began settling areas away from the coasts, they came into more direct contact with Aboriginal Australians. Europeans also cleared land for agriculture, impacting Aboriginal Australians’ ways of life. These issues, along with disease and a policy in the 1900s that forcefully removed Aboriginal children from their parents, reduced the Aboriginal Australian population from more than 700,000 pre-European contact to a low of 74,000 in 1933.<br><br>Four additional colonies were established in Australia in the mid-1800s: Western Australia (1829), South Australia (1836), Victoria (1851), and Queensland (1859). Gold rushes beginning in the 1850s brought thousands of new immigrants to New South Wales and Victoria, helping to reorient Australia away from its penal colony roots. In the second half of the 1800s, the colonies were all gradually granted self-government, and in 1901, they federated and became the Commonwealth of Australia. Australia contributed more than 400,000 troops to allied efforts during World War I, and Australian troops played a large role in the defeat of Japanese troops in the Pacific in World War II. Australia severed most constitutional links with the UK in 1942, and in 1951 signed the Australia, New Zealand, and US (ANZUS) Treaty, cementing its military alliance with the United States.  In 2021, Australia, the UK, and the United States announced the AUKUS enhanced trilateral security partnership to maintain and expand the three countries’ edge in military capabilities and critical technologies. Australia’s post-war economy boomed and by the 1970s, racial policies that prevented most non-Whites from immigrating to Australia were removed, greatly increasing Asian immigration to the country. In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its proximity to East and Southeast Asia. </p> <p>In the early 2000s, Australian politics became unstable with frequent attempts to oust party leaders, including five changes of prime minister between 2010 and 2018. As a result, both major parties instituted rules to make it harder to remove a party leader.</p><br>
+<p>Aboriginal Australians arrived on the continent at least 60,000 years ago and developed complex hunter-gatherer societies and oral histories. Dutch navigators led by Abel TASMAN were the first Europeans to land in Australia in 1606, and they mapped the western and northern coasts. They named the continent New Holland but made no attempts to permanently settle it. In 1770, English captain James COOK sailed to the east coast of Australia, named it New South Wales, and claimed it for Great Britain. In 1788 and 1825, Great Britain established New South Wales and then Tasmania as penal colonies respectively. Great Britain and Ireland sent more than 150,000 convicts to Australia before ending the practice in 1868. As Europeans began settling areas away from the coasts, they came into more direct contact with Aboriginal Australians. Europeans also cleared land for agriculture, impacting Aboriginal Australians’ ways of life. These issues, along with disease and a policy in the 1900s that forcefully removed Aboriginal children from their parents, reduced the Aboriginal Australian population from more than 700,000 pre-European contact to a low of 74,000 in 1933.<br><br>Four additional colonies were established in Australia in the mid-1800s: Western Australia (1829), South Australia (1836), Victoria (1851), and Queensland (1859). Gold rushes beginning in the 1850s brought thousands of new immigrants to New South Wales and Victoria, helping to reorient Australia away from its penal colony roots. In the second half of the 1800s, the colonies were all gradually granted self-government, and in 1901, they federated and became the Commonwealth of Australia. Australia contributed more than 400,000 troops to Allied efforts during World War I, and Australian troops played a large role in the defeat of Japanese troops in the Pacific in World War II. Australia severed most constitutional links with the UK in 1942, and in 1951 signed the Australia, New Zealand, and US (ANZUS) Treaty, cementing its military alliance with the United States.  In 2021, Australia, the UK, and the US announced the AUKUS enhanced trilateral security partnership to maintain and expand the three countries’ edge in military capabilities and critical technologies. Australia’s post-war economy boomed and by the 1970s, racial policies that prevented most non-Whites from immigrating to Australia were removed, greatly increasing Asian immigration to the country. In recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its proximity to East and Southeast Asia. </p> <p>In the early 2000s, Australian politics became unstable with frequent attempts to oust party leaders, including five changes of prime minister between 2010 and 2018. As a result, both major parties instituted rules to make it harder to remove a party leader.</p><br>
 
 ## Geography
 
@@ -230,7 +230,12 @@ _female_: 11.5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2018)<br>
+5.1% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 22 years<br>
@@ -553,50 +558,39 @@ Australian dollars (AUD) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-243 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 82.517 million kW (2020 est.)<br>
+_Consumption_: 237,388,272,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 12,607,778,000 kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-229.4 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 75.4% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 8.6% of total installed capacity (2020 est.)<br>
+_Wind_: 8.4% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 6.2% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.4% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 504.051 million metric tons (2020 est.)<br>
+_Consumption_: 99.048 million metric tons (2020 est.)<br>
+_Exports_: 390.808 million metric tons (2020 est.)<br>
+_Imports_: 583,000 metric tons (2020 est.)<br>
+_Proven reserves_: 149.079 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-65.56 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-72% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-11% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-17% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-284,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-192,500 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-341,700 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-1.821 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 442,500 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 1,174,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 197,700 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 356,900 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 2.446 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 462,500 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-1.175 million bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 64,120 bbl/day (2017 est.)<br>
@@ -604,20 +598,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 619,600 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-105.2 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 142,104,321,000 cubic meters (2020 est.)<br>
+_Consumption_: 41,905,381,000 cubic meters (2020 est.)<br>
+_Exports_: 101,766,728,000 cubic meters (2020 est.)<br>
+_Imports_: 6,295,646,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 3,228,115,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-45.25 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 417.87 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 162.26 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 158.668 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 96.942 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-67.96 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-5.776 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-1.989 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 241.004 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -684,7 +679,7 @@ _under 914 m_: 14 (2021)<br>
 637 km condensate/gas, 30,054 km gas, 240 km liquid petroleum gas, 3,609 km oil, 110 km oil/gas/water, 72 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 33,343 km (2015)<br>
+_total_: 33,011 km (2015)<br>
 _standard gauge_: 17,446 km (2015) 1.435-m gauge (650 km electrified)<br>
 _narrow gauge_: 12,318 km (2015) 1.067-m gauge (2,075.5 km electrified)<br>
 _broad gauge_: 3,247 km (2015) 1.600-m gauge (372 km electrified)<br>

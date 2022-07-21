@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The island was uninhabited when first settled by the British in 1627. African slaves worked the sugar plantations established on the island, which initially dominated the Caribbean sugar industry. By 1720 Barbados was no longer a dominant force within the sugar industry, having been surpassed by the Leeward Islands and Jamaica. Slavery was abolished in 1834. The Barbadian economy remained heavily dependent on sugar, rum, and molasses production through most of the 20th century. The gradual introduction of social and political reforms in the 1940s and 1950s led to complete independence from the UK in 1966. In the 1990s, tourism and manufacturing surpassed the sugar industry in economic importance. Barbados became a republic on 30 November 2021, with the former Governor-General Sandra MASON elected as the first president. Barbados plans to create a new constitution in 2022.<br>
+The island was uninhabited when first settled by the British in 1627. African slaves worked the sugar plantations established on the island, which initially dominated the Caribbean sugar industry. By 1720, Barbados was no longer a dominant force within the sugar industry, having been surpassed by the Leeward Islands and Jamaica. Slavery was abolished in 1834. The Barbadian economy remained heavily dependent on sugar, rum, and molasses production through most of the 20th century. The gradual introduction of social and political reforms in the 1940s and 1950s led to complete independence from the UK in 1966. In the 1990s, tourism and manufacturing surpassed the sugar industry in economic importance. Barbados became a republic on 30 November 2021, with the former Governor-General Sandra MASON elected as the first president. Barbados plans to create a new constitution in 2022.<br>
 
 ## Geography
 
@@ -204,7 +204,7 @@ _female_: 1.9% (2020 est.)<br>
 3.5% (2012)<br>
 
 **Education expenditures**<br>
-4.3% of GDP (2020)<br>
+4.3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -362,7 +362,7 @@ three equal vertical bands of ultramarine blue (hoist side), gold, and ultramari
 Neptune's trident, pelican, Red Bird of Paradise flower (also known as Pride of Barbados); national colors: blue, yellow, black<br>
 
 **National anthem**<br>
-_name_: The National Anthem of Barbados<br>
+_name_: "The National Anthem of Barbados"<br>
 _lyrics/music_: Irving BURGIE/C. Van Roland EDWARDS<br>
 <strong>note:</strong> adopted 1966; the anthem is also known as "In Plenty and In Time of Need"<br>
 
@@ -512,50 +512,39 @@ Barbadian dollars (BBD) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-1.01 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 311,000 kW (2020 est.)<br>
+_Consumption_: 1 billion kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 20 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-990 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 95.9% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 4.1% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2017 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-269,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-93% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-7% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-1,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-674 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-2.534 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 1,000 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 10,800 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 700 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 2 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-11,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -563,20 +552,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 10,630 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-14.16 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 14.923 million cubic meters (2019 est.)<br>
+_Consumption_: 20.954 million cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 6.031 million cubic meters (2019 est.)<br>
+_Proven reserves_: 113 million cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-19.82 million cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 1.703 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1.662 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 41,000 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-5.653 million cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-141.6 million cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 83.723 million Btu/person (2019 est.)<br>
 
 ## Communications
 

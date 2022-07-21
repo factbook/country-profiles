@@ -148,6 +148,9 @@ _unimproved: total_: total: NA<br>
 **Current Health Expenditure**<br>
 NA<br>
 
+**Physicians density**<br>
+NA<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -170,6 +173,11 @@ NA<br>
 
 **Education expenditures**<br>
 NA<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 ## Environment
 

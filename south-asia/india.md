@@ -238,7 +238,7 @@ _women married by age 18_: 27.3%<br>
 _men married by age 18_: 4.2% (2016 est.)<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2016)<br>
+3.5% of GDP (2016 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -401,7 +401,7 @@ _chief of mission_: Ambassador Taranjit Singh SANDHU (since 6 February 2020)<br>
 _chancery_: 2107 Massachusetts Avenue NW, Washington, DC 20008; Consular Wing located at 2536 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-7000<br>
 _FAX_: [1] (202) 265-4351<br>
-_email address and website_: <br>minca@washington@mea.gov.in (community affairs)<br><br>https://www.indianembassyusa.gov.in/<br>
+_email address and website_: <br>minca.washington@mea.gov.in (community affairs)<br><br>https://www.indianembassyusa.gov.in/<br>
 _consulate(s) general_: Atlanta, Chicago, Houston, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -581,50 +581,39 @@ _electrification - total population_: 99% (2019)<br>
 _electrification - urban areas_: 99% (2019)<br>
 _electrification - rural areas_: 99% (2019)<br>
 
-**Electricity - production**<br>
-1.386 trillion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 432.768 million kW (2020 est.)<br>
+_Consumption_: 1,229,387,712,000 kWh (2019 est.)<br>
+_Exports_: 9.491 billion kWh (2019 est.)<br>
+_Imports_: 5.794 billion kWh (2019 est.)<br>
+_Transmission/distribution losses_: 270.701 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-1.137 trillion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 75.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 2.8% of total installed capacity (2020 est.)<br>
+_Solar_: 4.2% of total installed capacity (2020 est.)<br>
+_Wind_: 4.6% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 10.7% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 2.3% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-5.15 billion kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 743.214 million metric tons (2020 est.)<br>
+_Consumption_: 883.979 million metric tons (2020 est.)<br>
+_Exports_: 1.029 million metric tons (2020 est.)<br>
+_Imports_: 219.212 million metric tons (2020 est.)<br>
+_Proven reserves_: 105.931 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-5.617 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-367.8 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-71% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-12% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-16% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-709,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-4.057 million bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-4.495 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 771,400 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 4,920,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 4.53 million barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 4,604,900,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 4.897 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-4.521 million bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 1.305 million bbl/day (2015 est.)<br>
@@ -632,20 +621,21 @@ _electrification - rural areas_: 99% (2019)<br>
 **Refined petroleum products - imports**<br>
 653,300 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-31.54 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 27,734,833,000 cubic meters (2020 est.)<br>
+_Consumption_: 61,646,806,000 cubic meters (2020 est.)<br>
+_Exports_: 91.916 million cubic meters (2019 est.)<br>
+_Imports_: 33,911,973,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 1,380,614,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-55.43 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 2,314,738,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 1,574,331,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 615.903 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 124.505 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-76.45 million cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-23.96 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-1.29 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 23.231 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -714,7 +704,7 @@ _under 914 m_: 45 (2021)<br>
 17,389 km natural gas, 10, 419 km crude oil, 3,544 liquid petroleum gas, 14,729 km refined products (2020) 9 km condensate/gas, 20 km oil/gas/water (2013) (2020)<br>
 
 **Railways**<br>
-_total_: 68,525 km (2014)<br>
+_total_: 65,554 km (2014)<br>
 _narrow gauge_: 1,604 km (2014) 1.000-m gauge<br>
 _broad gauge_: 63,950 km (2014) (39, 329 km electrified)<br>
 
@@ -737,8 +727,8 @@ _LNG terminal(s) (import)_: Dabhol, Dahej, Hazira, Kochi<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps (provides security for Ministry of Defense sites); Ministry of Home Affairs paramilitary forces: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2022)<br>
-note - the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br>
+Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Frontier Corps; Defense Security Corps; Ministry of Home Affairs: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2022)<br>
+note(s) - the Defense Security Corps provides security for Ministry of Defense sites<br><br>- the Border Security Force (BSF) is responsible for the Indo-Pakistan and Indo-Bangladesh borders; the Sashastra Seema Bal (SSB or Armed Border Force) guards the Indo-Nepal and Indo-Bhutan borders<br><br>- the Central Reserve Police Force (CRPF) includes a Rapid Reaction Force (RAF) for riot control and the Commando Battalion for Resolute Action (COBRA) for counter-insurgency operations <br><br>- the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
@@ -766,7 +756,7 @@ as of 2022, the Indian Armed Forces were chiefly focused on China and Pakistan; 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujahedeen; Islamic State of Iraq and ash-Sham – India; Jaish-e-Mohammed;<strong> </strong>Lashkar-e Tayyiba; al-Qa’ida; al-Qa’ida in the Indian Subcontinent; IRGC/Qods Force<br>
+Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujahedeen; Islamic State of Iraq and ash-Sham – India; Jaish-e-Mohammed;<strong> </strong>Lashkar-e Tayyiba; al-Qa’ida; al-Qa’ida in the Indian Subcontinent; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

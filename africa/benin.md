@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Present day Benin is comprised of about 42 ethnic groups, including the Yoruba in the southeast, who migrated from what is now Nigeria in the 12th century; the Dendi in the north-central area, who came from Mali in the 16th century; the Bariba and the Fula in the northeast; the Ottamari in the Atakora mountains; the Fon in the area around Abomey in the south-central area; and the Mina, Xueda, and Aja, who came from Togo, on the coast. The Kingdom of Dahomey emerged on the Abomey plateau in the 17th century and was a regional power for much of the 18th and 19th centuries. Dahomey had an organized domestic economy, international trade with Europeans, and a highly organized military. The growth of Dahomey coincided with the growth of the Atlantic slave trade, and it became known as a major source of enslaved people. France began to control the coastal areas of Dahomey in the second half of the 19th century; the entire kingdom was conquered by 1894. French Dahomey achieved independence in 1960; it changed its name to the Republic of Benin in 1975.<br><br>A succession of military governments ended in 1972 with the rise to power of Mathieu KEREKOU and the establishment of a government based on Marxist-Leninist principles. A move to representative government began in 1989. Two years later, free elections ushered in former Prime Minister Nicephore SOGLO as president, marking the first successful transfer of power in Africa from a dictatorship to a democracy. KEREKOU was returned to power by elections held in 1996 and 2001, though some irregularities were alleged. KEREKOU stepped down at the end of his second term in 2006 and was succeeded by Thomas YAYI Boni, a political outsider and independent, who won a second five-year term in March 2011. Patrice TALON, a wealthy businessman, took office in 2016; the space for pluralism, dissent, and free expression has narrowed under his administration. Talon won a second term in April 2021.<br>
+Present day Benin is comprised of about 42 ethnic groups, including the Yoruba in the southeast, who migrated from what is now Nigeria in the 12th century; the Dendi in the north-central area, who came from Mali in the 16th century; the Bariba and the Fula in the northeast; the Ottamari in the Atakora mountains; the Fon in the area around Abomey in the south-central area; and the Mina, Xueda, and Aja, who came from Togo, on the coast. The Kingdom of Dahomey emerged on the Abomey plateau in the 17th century and was a regional power for much of the 18th and 19th centuries. Dahomey had an organized domestic economy, international trade with Europeans, and a highly organized military. The growth of Dahomey coincided with the growth of the Atlantic slave trade, and it became known as a major source of enslaved people. France began to control the coastal areas of Dahomey in the second half of the 19th century; the entire kingdom was conquered by 1894. French Dahomey achieved independence in 1960; it changed its name to the Republic of Benin in 1975.<br><br>A succession of military governments ended in 1972 with the rise to power of Mathieu KEREKOU and the establishment of a government based on Marxist-Leninist principles. A move to representative government began in 1989. Two years later, free elections ushered in former Prime Minister Nicephore SOGLO as president, marking the first successful transfer of power in Africa from a dictatorship to a democracy. KEREKOU was returned to power by elections held in 1996 and 2001, though some irregularities were alleged. KEREKOU stepped down at the end of his second term in 2006 and was succeeded by Thomas YAYI Boni, a political outsider and independent, who won a second five-year term in March 2011. Patrice TALON, a wealthy businessman, took office in 2016; the space for pluralism, dissent, and free expression has narrowed under his administration. TALON won a second term in April 2021.<br>
 
 ## Geography
 
@@ -231,7 +231,7 @@ _women married by age 18_: 30.6%<br>
 _men married by age 18_: 4.8% (2018 est.)<br>
 
 **Education expenditures**<br>
-3% of GDP (2019)<br>
+3% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -553,50 +553,39 @@ _electrification - total population_: 33% (2019)<br>
 _electrification - urban areas_: 58% (2019)<br>
 _electrification - rural areas_: 9% (2019)<br>
 
-**Electricity - production**<br>
-335 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 475,000 kW (2020 est.)<br>
+_Consumption_: 524.08 million kWh (2020 est.)<br>
+_Exports_: 2 million kWh (2020 est.)<br>
+_Imports_: 646 million kWh (2020 est.)<br>
+_Transmission/distribution losses_: 346 million kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-1.143 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 96.9% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 3.1% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 78,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 78,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-1.088 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-321,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-88% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-9% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-8 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 46,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 8 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-38,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 1,514 bbl/day (2015 est.)<br>
@@ -604,20 +593,21 @@ _electrification - rural areas_: 9% (2019)<br>
 **Refined petroleum products - imports**<br>
 38,040 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 19.057 million cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 19.057 million cubic meters (2019 est.)<br>
+_Proven reserves_: 1.133 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 6.903 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 274,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 6.592 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 37,000 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-1.133 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 8.468 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -647,7 +637,7 @@ _percent of population_: 26% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 29,981 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.3 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.3 (2020 est.)<br>
 
 ## Transportation
 
@@ -729,7 +719,7 @@ as of 2022, a key focus for the security forces of Benin was countering infiltra
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Greater Sahara; Boko Haram<br>
+al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Greater Sahara (IS-GS); Boko Haram<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

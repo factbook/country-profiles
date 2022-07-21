@@ -231,7 +231,7 @@ _female_: 5.6% (2020 est.)<br>
 15.6% (2014/15)<br>
 
 **Education expenditures**<br>
-6.2% of GDP (2019)<br>
+6.2% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -368,8 +368,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Filipe Jacinto NYUSI (since 15 January 2015, re-elected 15 Oct 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Filipe Jacinto NYUSI (since 15 January 2015); Prime Minister Adriano Afonso MALEIANE (since 3 March 2022); note - President NYUSI removed former Prime Minister Carlos Agostinho DO ROSARIO from office on 3 March 2022 as part of a cabinet reshuffle<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president elected directly by absolute majority popular vote (in 2 rounds, if needed) for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2019 (next to be held on 15 October 2024); prime minister appointed by the president (2019)<br>
-_election results_: Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%,&nbsp;Ossufo MOMADE&nbsp;(RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1% (2019)<br>
+_elections/appointments_: president elected directly by absolute majority popular vote (in 2 rounds, if needed) for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2019 (next to be held on 15 October 2024); prime minister appointed by the president<br>
+_election results_: Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%,&nbsp;Ossufo MOMADE&nbsp;(RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (250 seats; 248 members elected in multi-seat constituencies by party-list proportional&nbsp;representation vote and 2 single members representing Mozambicans abroad directly elected by simple majority vote; members serve 5-year terms) (2019)<br>
@@ -568,50 +568,39 @@ _electrification - total population_: 35% (2019)<br>
 _electrification - urban areas_: 57% (2019)<br>
 _electrification - rural areas_: 22% (2019)<br>
 
-**Electricity - production**<br>
-18.39 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 2.765 million kW (2020 est.)<br>
+_Consumption_: 12,724,100,000 kWh (2019 est.)<br>
+_Exports_: 10.771 billion kWh (2019 est.)<br>
+_Imports_: 8.276 billion kWh (2019 est.)<br>
+_Transmission/distribution losses_: 2.768 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-11.57 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 19.6% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.2% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 79.6% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.6% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-12.88 billion kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 7.25 million metric tons (2020 est.)<br>
+_Consumption_: 46,000 metric tons (2020 est.)<br>
+_Exports_: 8.355 million metric tons (2020 est.)<br>
+_Imports_: 48,000 metric tons (2020 est.)<br>
+_Proven reserves_: 1.792 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-9.928 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-2.626 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-16% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-83% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 35,400 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-26,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -619,20 +608,21 @@ _electrification - rural areas_: 22% (2019)<br>
 **Refined petroleum products - imports**<br>
 25,130 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-6.003 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 5,423,828,000 cubic meters (2019 est.)<br>
+_Consumption_: 1,397,604,000 cubic meters (2019 est.)<br>
+_Exports_: 4,067,255,000 cubic meters (2019 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 2,831,680,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-1.841 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 7.753 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 109,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 4.743 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 2.901 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-4.162 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-2.832 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 8.107 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -661,7 +651,7 @@ _percent of population_: 17% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 70,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.22 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.2 (2020 est.)<br>
 
 ## Transportation
 
@@ -751,7 +741,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,020 (Democratic Republic of Congo) (refugees and asylum seekers), 8,558 (Burundi) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 11,020 (Democratic Republic of Congo) (refugees and asylum seekers), 8,306 (Burundi) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 872,188 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>

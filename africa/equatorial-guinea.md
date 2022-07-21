@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Equatorial Guinea gained independence in 1968 after 190 years of Spanish rule; it is one of the smallest countries in Africa consisting of a mainland territory and five inhabited islands. The capital of Malabo is located on the island of Bioko, approximately 25 km from the Cameroonian coastline in the Gulf of Guinea. Between 1968 and 1979, autocratic President Francisco MACIAS NGUEMA virtually destroyed all of the country's political, economic, and social institutions before being deposed by his nephew Teodoro OBIANG NGUEMA MBASOGO in a violent coup. President OBIANG has ruled since October 1979. He has been elected several times since 1989, and was most recently reelected in 2016. Although nominally a constitutional democracy since 1991, presidential and legislative elections since 1996 have been considered flawed. The president exerts almost total control over the political system and has placed legal and bureaucratic barriers that hinder political opposition. Equatorial Guinea experienced rapid economic growth in the early years of the 21st century due to the discovery of large offshore oil reserves in 1996. Production peaked in late 2004 and has slowly declined since, although aggressive searches for new oil fields continue. Despite the country's economic windfall from oil production, resulting in massive increases in government revenue in past years, generally lower global oil prices since 2014 and depreciating oil fields have placed significant strain on the state budget. While oil revenues have mainly been used for the development of infrastructure, corruption has hindered socio-economic development and there have been limited improvements in the population's living standards. Equatorial Guinea continues to seek to diversify its economy and to increase foreign investment. The country hosts major regional and international conferences and continues to seek a greater role in international affairs, and leadership in the sub-region.</p> <p> </p><br>
+<p>Equatorial Guinea gained independence in 1968 after 190 years of Spanish rule; it is one of the smallest countries in Africa consisting of a mainland territory and five inhabited islands. The capital of Malabo is located on the island of Bioko, approximately 25 km from the Cameroonian coastline in the Gulf of Guinea. Between 1968 and 1979, autocratic President Francisco MACIAS NGUEMA virtually destroyed all of the country's political, economic, and social institutions before being deposed by his nephew Teodoro OBIANG NGUEMA MBASOGO in a violent coup. President OBIANG has ruled since October 1979 and has been elected several times, most recently in 2016. Although nominally a constitutional democracy since 1991, presidential and legislative elections since 1996 have been considered flawed. The president exerts almost total control over the political system and has placed legal and bureaucratic barriers that hinder political opposition. Equatorial Guinea experienced rapid economic growth in the early years of the 21st century due to the discovery of large offshore oil reserves in 1996. Production peaked in late 2004 and has slowly declined since, although aggressive searches for new oilfields continue. Despite the country's economic windfall from oil production, resulting in massive increases in government revenue in past years, generally lower global oil prices since 2014 and depreciating oil fields have placed significant strain on the state budget. While oil revenues have mainly been used for the development of infrastructure, corruption has hindered socio-economic development and there have been limited improvements in the population's living standards. Equatorial Guinea continues to seek to diversify its economy and to increase foreign investment. The country hosts major regional and international conferences and continues to seek a greater role in international affairs, and leadership in the sub-region.</p> <p> </p><br>
 
 ## Geography
 
@@ -496,50 +496,39 @@ _electrification - total population_: 67% (2019)<br>
 _electrification - urban areas_: 75% (2019)<br>
 _electrification - rural areas_: 45% (2019)<br>
 
-**Electricity - production**<br>
-500 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 349,000 kW (2020 est.)<br>
+_Consumption_: 1,002,960,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 183 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-465 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 89.4% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 10.6% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-331,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-61% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-38% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-172,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-308,700 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-1.1 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 142,600 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 22,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 184,500 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 1.1 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-5,200 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -547,20 +536,21 @@ _electrification - rural areas_: 45% (2019)<br>
 **Refined petroleum products - imports**<br>
 5,094 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-6.069 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 4,569,369,000 cubic meters (2019 est.)<br>
+_Consumption_: 1,080,003,000 cubic meters (2019 est.)<br>
+_Exports_: 3,568,030,000 cubic meters (2019 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 139.007 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-1.189 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 4.528 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 2.409 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 2.119 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-4.878 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-36.81 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 57.596 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -590,7 +580,7 @@ _percent of population_: 26% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.07 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
 
 ## Transportation
 

@@ -239,7 +239,7 @@ _women married by age 18_: 30.5%<br>
 _men married by age 18_: 3.9% (2016 est.)<br>
 
 **Education expenditures**<br>
-3.1% of GDP (2020)<br>
+3.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write Kiswahili (Swahili), English, or Arabic<br>
@@ -375,7 +375,7 @@ _chief of state_: President Samia Suluhu HASSAN (since 19 March 2021); note - Pr
 _head of government_: President Samia Suluhu HASSAN (since 19 March 2021); note - President John MAGUFULI died on 17 March 2021; vice president (vacant); Prime Minister Kassim Majaliwa MAJALIWA (since 20 November 2015) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and head of the Cabinet<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 28 October, 2020 (next to be held in October 2025); prime minister appointed by the president<br>
-_election results_: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5% (2020)<br>
+_election results_: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
 <strong>note:</strong> Zanzibar elects a president as head of government for internal matters; elections were held on 28 October, 2020 and CCM candidate Hussein MWINYI won with 76 percent of the vote followed by ACT-Wazalendo candidate Maalim Seif SHARIF with 19 percent of the vote<br>
 
 **Legislative branch**<br>
@@ -571,50 +571,39 @@ _electrification - total population_: 40% (2019)<br>
 _electrification - urban areas_: 71% (2019)<br>
 _electrification - rural areas_: 23% (2019)<br>
 
-**Electricity - production**<br>
-6.699 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 1.623 million kW (2020 est.)<br>
+_Consumption_: 6,522,440,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 113 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 974 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-5.682 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 65% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 1.3% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 32.8% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 712,000 metric tons (2020 est.)<br>
+_Consumption_: 577,000 metric tons (2020 est.)<br>
+_Exports_: 126,000 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 269 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-102 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-1.457 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-55% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-40% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-6% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 52,800 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-72,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -622,20 +611,21 @@ _electrification - rural areas_: 23% (2019)<br>
 **Refined petroleum products - imports**<br>
 67,830 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-3.115 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 1,378,773,000 cubic meters (2019 est.)<br>
+_Consumption_: 1,378,773,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 6.513 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-3.115 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 11.491 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 1.32 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 7.466 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 2.705 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-6.513 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 3.334 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -702,7 +692,6 @@ _total_: 4,097 km (2022)<br>
 _standard gauge_: 421 km (2022)<br>
 _narrow gauge_: 969 km (2022) 1.067 m gauge<br>
 _broad gauge_: 2,707 km (2022) 1.000 m guage<br>
-2707 km 1.000-m gauge<br>
 
 **Roadways**<br>
 _total_: 145,203 km (2022)<br>
@@ -710,7 +699,7 @@ _paved_: 11,201 km (2022)<br>
 _unpaved_: 134,002 km (2022)<br>
 
 **Waterways**<br>
-(2011) (Lake Tanganyika, Lake Victoria, and Lake Nyasa (Lake Malawi) are the principal avenues of commerce with neighboring countries; the rivers are not navigable)<br>
+1,594 km (2022) (Lake Tanganyika 673 km, Lake Victoria 337 km, and Lake Nyasa (Lake Malawi) 584 km are the principal avenues of commerce with neighboring countries; the rivers are not navigable)<br>
 
 **Merchant marine**<br>
 _total_: 314<br>
@@ -762,7 +751,7 @@ Islamic State of Iraq and ash-Sham - Mozambique<br>
 <p><em>Tanzania-Burundi</em>: none identified</p> <p><em>Tanzania-Democratic Republic of the Congo</em>: none identified</p> <p><em>Tanzania-Kenya</em>: none identified</p> <p><em>Tanzania-Malawi</em>: dispute with Malawi over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Tanzania-Mozambique</em>: none identified</p> <p><em>Tanzania-Rwanda</em>: none identified</p> <p><em>Tanzania-Uganda</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 127,330 (Burundi), 80,820 (Democratic Republic of the Congo) (2022)<br>
+_refugees (country of origin)_: 126,918 (Burundi), 80,820 (Democratic Republic of the Congo) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>

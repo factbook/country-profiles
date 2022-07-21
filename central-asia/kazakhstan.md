@@ -5,7 +5,7 @@ _Central Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ethnic Kazakhs derive from a mix of Turkic nomadic tribes that migrated to the region in the 15th century. The Kazakh steppe was conquered by the Russian Empire in the 18th and 19th centuries, and Kazakhstan became a Soviet Republic in 1925. Repression and starvation caused by forced agricultural collectivization led to more than a million deaths in the early 1930s. During the 1950s and 1960s, the agricultural "Virgin Lands" program led to an influx of settlers (mostly ethnic Russians, but also other nationalities) and at the time of Kazakhstan’s independence in 1991, ethnic Kazakhs were a minority. Non-Muslim ethnic minorities departed Kazakhstan in large numbers from the mid-1990s through the mid-2000s and a national program has repatriated about a million ethnic Kazakhs (from Uzbekistan, Tajikistan, Mongolia, and the Xinjiang region of China) back to Kazakhstan. As a result of this shift, the ethnic Kazakh share of the population now exceeds two-thirds.<br><br>Kazakhstan's economy is the largest in Central Asia, mainly due to the country's vast natural resources. Current issues include: diversifying the economy, attracting foreign direct investment, enhancing Kazakhstan's economic competitiveness, and strengthening economic relations with neighboring states and foreign powers.</p> <p> </p><br>
+<p>Ethnic Kazakhs derive from a mix of Turkic nomadic tribes that migrated to the region in the 15th century. The Kazakh steppe was conquered by the Russian Empire in the 18th and 19th centuries, and Kazakhstan became a Soviet Republic in 1925. Repression and starvation caused by forced agricultural collectivization led to more than a million deaths in the early 1930s. During the 1950s and 1960s, the agricultural "Virgin Lands" program led to an influx of settlers (mostly ethnic Russians, but also other nationalities) and at the time of Kazakhstan’s independence in 1991, ethnic Kazakhs were a minority. Non-Muslim ethnic minorities departed Kazakhstan in large numbers from the mid-1990s through the mid-2000s and a national program has repatriated about a million ethnic Kazakhs (from Uzbekistan, Tajikistan, Mongolia, and the Xinjiang region of China) back to Kazakhstan. As a result of this shift, the ethnic Kazakh share of the population now exceeds two thirds.<br><br>Kazakhstan's economy is the largest in Central Asia, mainly due to the country's vast natural resources. Current issues include: diversifying the economy, attracting foreign direct investment, enhancing Kazakhstan's economic competitiveness, and strengthening economic relations with neighboring states and foreign powers.</p> <p> </p><br>
 
 ## Geography
 
@@ -220,7 +220,7 @@ _female_: 6.7% (2020 est.)<br>
 2% (2015)<br>
 
 **Education expenditures**<br>
-2.9% of GDP (2019)<br>
+2.9% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -369,7 +369,7 @@ Adal [Serik SULTANGALI] (formerly Birlik (Unity) Party)<br>Ak Zhol (Bright Path)
 ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, MINURSO, NAM (observer), NSG, OAS (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: <p>Ambassador Yerzhan ASHIKBAYEV (since 7 July 2021)</p><br>
+_chief of mission_: Ambassador Yerzhan ASHIKBAYEV (since 7 July 2021)<br>
 _chancery_: 1401 16th Street NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 232-5488<br>
 _FAX_: [1] (202) 232-5845<br>
@@ -549,50 +549,39 @@ tenge (KZT) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-100.8 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 25.022 million kW (2020 est.)<br>
+_Consumption_: 92,133,960,000 kWh (2019 est.)<br>
+_Exports_: 2.419 billion kWh (2019 est.)<br>
+_Imports_: 1.935 billion kWh (2019 est.)<br>
+_Transmission/distribution losses_: 9.689 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-94.23 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 88.2% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.9% of total installed capacity (2020 est.)<br>
+_Wind_: 0.7% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 10.1% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-5.1 billion kWh (2017 est.)<br>
+**Coal**<br>
+_Production_: 102.338 million metric tons (2020 est.)<br>
+_Consumption_: 74.819 million metric tons (2020 est.)<br>
+_Exports_: 3.002 million metric tons (2020 est.)<br>
+_Imports_: 993,000 metric tons (2020 est.)<br>
+_Proven reserves_: 25.605 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-1.318 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-20.15 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-86% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-14% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-1.856 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-1.409 million bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-1,480 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-30 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 1,864,900 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 320,600 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 1,531,600 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 500 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 30 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 290,700 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-274,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 105,900 bbl/day (2015 est.)<br>
@@ -600,20 +589,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 39,120 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-22.41 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 25,785,505,000 cubic meters (2019 est.)<br>
+_Consumption_: 14,557,101,000 cubic meters (2019 est.)<br>
+_Exports_: 16,418,081,000 cubic meters (2019 est.)<br>
+_Imports_: 7,713,978,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 2,406,928,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-15.37 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 263.689 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 195.926 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 39.205 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 28.557 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-12.8 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-5.748 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-2.407 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 180.726 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -686,7 +676,7 @@ _total_: 16,636 km (2020)<br>
 _broad gauge_: 16,636 km (2020) 1.520-m gauge (4,237 km electrified)<br>
 
 **Roadways**<br>
-_total_: 95,767 km (2021)<br>
+_total_: 96,167 km (2021)<br>
 _paved_: 83,813 km (2021)<br>
 _unpaved_: 12,354 km (2021)<br>
 

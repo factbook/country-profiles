@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Greece achieved independence from the Ottoman Empire in 1830. During the second half of the 19th century and the first half of the 20th century, it gradually added neighboring islands and territories, most with Greek-speaking populations. In World War II, Greece was first invaded by Italy (1940) and subsequently occupied by Germany (1941-44); fighting endured in a protracted civil war between supporters of the king and other anti-communist and communist rebels. Following the latter's defeat in 1949, Greece joined NATO in 1952. In 1967, a group of military officers seized power, establishing a military dictatorship that suspended many political liberties and forced the king to flee the country. In 1974 following the collapse of the dictatorship, democratic elections and a referendum created a parliamentary republic and abolished the monarchy. In 1981, Greece joined the EC (now the EU); it became the 12th member of the European Economic and Monetary Union (EMU) in 2001. Greece has suffered a severe economic crisis since late 2009, due to nearly a decade of chronic overspending and structural rigidities.&nbsp;Beginning in&nbsp;2010, Greece entered three bailout agreements - with the European Commission, the European Central Bank (ECB), the IMF, and&nbsp;the third in 2015 with&nbsp;the European Stability Mechanism (ESM) - worth in total about $300 billion. The Greek Government formally exited the third bailout in August 2018.<br>
+Greece achieved independence from the Ottoman Empire in 1830. During the second half of the 19th century and the first half of the 20th century, it gradually added neighboring islands and territories, most with Greek-speaking populations. In World War II, Greece was first invaded by Italy (1940) and subsequently occupied by Germany (1941-44); fighting endured in a protracted civil war between supporters of the king and other anti-communist and communist rebels. Following the latter's defeat in 1949, Greece joined NATO in 1952. In 1967, a group of military officers seized power, establishing a military dictatorship that suspended many political liberties and forced the king to flee the country. In 1974 following the collapse of the dictatorship, democratic elections and a referendum created a parliamentary republic and abolished the monarchy. In 1981, Greece joined the EC (now the EU); it became the 12th member of the European Economic and Monetary Union in 2001. Greece has suffered a severe economic crisis since late 2009, due to nearly a decade of chronic overspending and structural rigidities. Beginning in 2010, Greece entered three bailout agreements - the first two with the European Commission, the European Central Bank, and the IMF; and the third in 2015 with the European Stability Mechanism - worth in total about $300 billion. The Greek Government formally exited the third bailout in August 2018.<br>
 
 ## Geography
 
@@ -214,7 +214,7 @@ _female_: 30.5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2018)<br>
+3.6% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -534,50 +534,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-52.05 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 21.545 million kW (2020 est.)<br>
+_Consumption_: 46.18 billion kWh (2020 est.)<br>
+_Exports_: 967 million kWh (2020 est.)<br>
+_Imports_: 9.831 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 3.256 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-56.89 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 56.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 10.7% of total installed capacity (2020 est.)<br>
+_Wind_: 23% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 8.5% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.4% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-1.037 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 13.851 million metric tons (2020 est.)<br>
+_Consumption_: 13.828 million metric tons (2020 est.)<br>
+_Exports_: 7,000 metric tons (2020 est.)<br>
+_Imports_: 305,000 metric tons (2020 est.)<br>
+_Proven reserves_: 2.876 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-9.833 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-19.17 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-57% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-14% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-29% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-4,100 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-3,229 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-484,300 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-10 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 4,800 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 309,600 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 4,100 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 491,300 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 10 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 655,400 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-304,100 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 371,900 bbl/day (2017 est.)<br>
@@ -585,20 +574,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 192,200 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-8 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 5.748 million cubic meters (2019 est.)<br>
+_Consumption_: 5,831,987,000 cubic meters (2020 est.)<br>
+_Exports_: 33.244 million cubic meters (2020 est.)<br>
+_Imports_: 5,219,409,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 991 million cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-4.927 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 70.163 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 13.404 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 46.401 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 10.358 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-4.984 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-991.1 million cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 108.022 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -667,7 +657,7 @@ _under 914 m_: 7 (2021)<br>
 _total_: 2,548 km (2014)<br>
 _standard gauge_: 1,565 km (2014) 1.435-m gauge (764 km electrified)<br>
 _narrow gauge_: 961 km (2014) 1.000-m gauge<br>
-22 0.750-m gauge<br>
+220.750 km-mm gauge<br>
 
 **Roadways**<br>
 _total_: 117,000 km (2018)<br>
@@ -727,9 +717,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 <p>Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea; the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 15,565 (Ukraine) (as of 14 June 2022)<br>
+_refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 16,804 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,219,209 estimated refugee and migrant arrivals (January 2015-July 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,219,316 estimated refugee and migrant arrivals (January 2015-July 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

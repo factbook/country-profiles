@@ -167,6 +167,9 @@ _unimproved: total_: total: 1.9% of population (2015 est.)<br>
 **Current Health Expenditure**<br>
 NA<br>
 
+**Physicians density**<br>
+NA<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.7% of population<br>
 _improved: rural_: rural: 97.7% of population<br>
@@ -188,7 +191,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-5.5% of GDP (2016)<br>
+5.5% of GDP (2016 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -299,8 +302,7 @@ Accion21 [Miguel MANSUR]<br>Aruban People's Party or AVP [Michiel "Mike" EMAN]<b
 Caricom (observer), FATF, ILO, IMF, Interpol, IOC, ITUC (NGOs), UNESCO (associate), UNWTO (associate), UPU<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none (represented by the Kingdom of the Netherlands); note - Guillfred BESARIL (since 20 November 2017) is Minister Plenipotentiary of Aruba, seated with his cabinet in the Aruba House (Arubahuis) in The Hague<br>
-none (represented by the Kingdom of the Netherlands) note - there is a Minister Plenipotentiary for Aruba, Rendolf "Andy" LEE, &nbsp;at the Embassy of the Kingdom of the Netherlands<br>
+_chief of mission_: none (represented by the Kingdom of the Netherlands)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Aruba; the Consul General to Curacao is accredited to Aruba<br>
@@ -451,50 +453,39 @@ Aruban guilders/florins per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-939 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 296,000 kW (2020 est.)<br>
+_Consumption_: 909.442 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 10.27 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-873.3 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 83.3% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 1.2% of total installed capacity (2020 est.)<br>
+_Wind_: 15.4% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-296,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-87% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-13% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 8,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-8,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -502,20 +493,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 7,891 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-1 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-1 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 1.254 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1.254 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-1 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-1 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 174.629 million Btu/person (2019 est.)<br>
 
 ## Communications
 

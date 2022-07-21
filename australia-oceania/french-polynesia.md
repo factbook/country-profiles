@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (France)_
 ## Introduction
 
 **Background**<br>
-French Polynesia consists of five archipelagos - the Austral Islands, the Gambier Islands, the Marquesas Islands, the Society Islands, and the Tuamotu Archipelago. The Marquesas were first settled around 200 B.C. and the Society Islands around A.D. 300. Raiatea in the Society Islands became a center for religion and culture. Exploration of the other islands emanated from Raiatea and by 1000, there were small permanent settlements in all the island groups. Ferdinand MAGELLAN was the first European to see the islands of French Polynesia in 1520, and successive European voyagers traveled through them over the next two centuries. In 1767, British explorer Samuel WALLIS was the first European to visit Tahiti, followed by French navigator Louis Antoine de BOUGAINVILLE in 1768, and British explorer James COOK in 1769. King POMARE I united Tahiti and surrounding islands into the Kingdom of Tahiti in 1788. Protestant missionaries arrived in 1797 and Pomare I’s successor converted in the 1810s, along with most Tahitians. In the 1830s, Queen POMARE IV refused to allow French Catholic missionaries to operate, leading France to declare a protectorate over Tahiti and fight the French-Tahitian War of the 1840s in an attempt to annex the islands. POMARE IV requested British assistance to fight France, and while the UK did not provide material support, it did diplomatically pressure France to simply maintain its protectorate status.<br><br>In 1880, King POMARE V ceded Tahiti and its possessions to France, changing its status into a colony. France then claimed the Gambier Islands and Tuamotu Archipelago and by 1901 had incorporated all five island groups into its establishments in Oceania. A Tahitian nationalist movement formed in 1940, leading France to grant French citizenship to the islanders in 1946 and change it to an overseas territory. In 1957, the islands’ name was changed to French Polynesia and the following year, 64% of voters chose to stay part of France when they approved a new constitution. Uninhabited Mururoa Atoll was established as a French nuclear test site in 1962 and tests were conducted between 1966 and 1992 (underground beginning in 1975). France also conducted tests at Fangataufa Atoll, including its last nuclear test in 1996.<br><br>France granted French Polynesia partial internal autonomy in 1977 and expanded autonomy in 1984. French Polynesia was converted into an overseas collectivity in 2003 and renamed an overseas country inside the Republic in 2004. Proindependence politicians won a surprise majority in local elections that same year but in subsequent elections have been relegated to a vocal minority. In 2013, French Polynesia was relisted on the UN List of Non-Self Governing Territories.<br>
+French Polynesia consists of five archipelagos - the Austral Islands, the Gambier Islands, the Marquesas Islands, the Society Islands, and the Tuamotu Archipelago. The Marquesas were first settled around 200 B.C. and the Society Islands around A.D. 300. Raiatea in the Society Islands became a center for religion and culture. Exploration of the other islands emanated from Raiatea and by 1000, there were small permanent settlements in all the island groups. Ferdinand MAGELLAN was the first European to see the islands of French Polynesia in 1520, and successive European voyagers traveled through them over the next two centuries. In 1767, British explorer Samuel WALLIS was the first European to visit Tahiti, followed by French navigator Louis Antoine de BOUGAINVILLE in 1768, and British explorer James COOK in 1769. King POMARE I united Tahiti and surrounding islands into the Kingdom of Tahiti in 1788. Protestant missionaries arrived in 1797 and POMARE I’s successor converted in the 1810s, along with most Tahitians. In the 1830s, Queen POMARE IV refused to allow French Catholic missionaries to operate, leading France to declare a protectorate over Tahiti and fight the French-Tahitian War of the 1840s in an attempt to annex the islands. POMARE IV requested British assistance to fight France, and while the UK did not provide material support, it did diplomatically pressure France to simply maintain its protectorate status.<br><br>In 1880, King POMARE V ceded Tahiti and its possessions to France, changing its status into a colony. France then claimed the Gambier Islands and Tuamotu Archipelago and by 1901 had incorporated all five island groups into its establishments in Oceania. A Tahitian nationalist movement formed in 1940, leading France to grant French citizenship to the islanders in 1946 and change it to an overseas territory. In 1957, the islands’ name was changed to French Polynesia and the following year, 64% of voters chose to stay part of France when they approved a new constitution. Uninhabited Mururoa Atoll was established as a French nuclear test site in 1962 and tests were conducted between 1966 and 1992 (underground beginning in 1975). France also conducted tests at Fangataufa Atoll, including its last nuclear test in 1996.<br><br>France granted French Polynesia partial internal autonomy in 1977 and expanded autonomy in 1984. French Polynesia was converted into an overseas collectivity in 2003 and renamed an overseas country inside the Republic in 2004. Proindependence politicians won a surprise majority in local elections that same year but in subsequent elections have been relegated to a vocal minority. In 2013, French Polynesia was relisted on the UN List of Non-Self Governing Territories.<br>
 
 ## Geography
 
@@ -167,6 +167,9 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current Health Expenditure**<br>
 NA<br>
 
+**Physicians density**<br>
+NA<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -194,6 +197,11 @@ NA<br>
 
 **Education expenditures**<br>
 NA<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 56.7%<br>
@@ -450,50 +458,39 @@ Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-677.3 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 272,000 kW (2020 est.)<br>
+_Consumption_: 639.7 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 41 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-629.9 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 66.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 6.1% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 27.4% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-253,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-70% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-19% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-11% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 6,700 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-6,600 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -501,20 +498,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 6,785 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 1.03 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1.03 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 
 ## Communications
 

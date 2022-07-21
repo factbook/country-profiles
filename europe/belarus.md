@@ -223,7 +223,7 @@ _women married by age 18_: 4.7%<br>
 _men married by age 18_: 1.6% (2019 est.)<br>
 
 **Education expenditures**<br>
-5% of GDP (2020)<br>
+5% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -375,7 +375,7 @@ _FAX_: [1] (202) 986-1805<br>
 _email address and website_: <br>usa@mfa.gov.by<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Julie Fisher (since 23 December 2020)<br>
+_chief of mission_: Ambassador Julie FISHER (since 23 December 2020)<br>
 _embassy_: 46 Starovilenskaya Street, Minsk 220002<br>
 _mailing address_: 7010 Minsk Place, Washington DC&nbsp; 20521-7010<br>
 _telephone_: [375] (17) 210-12-83/217-73-47/217-73-48<br>
@@ -547,50 +547,39 @@ Belarusian rubles (BYB/BYR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-31.58 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 11.36 million kW (2020 est.)<br>
+_Consumption_: 32,665,500,000 kWh (2019 est.)<br>
+_Exports_: 4.777 billion kWh (2020 est.)<br>
+_Imports_: 4.277 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 2.711 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-31.72 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 95.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0.9% of total installed capacity (2020 est.)<br>
+_Solar_: 0.5% of total installed capacity (2020 est.)<br>
+_Wind_: 0.5% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 1.1% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.2% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-3.482 billion kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 621,000 metric tons (2020 est.)<br>
+_Exports_: 1.574 million metric tons (2020 est.)<br>
+_Imports_: 2.117 million metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-6.319 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-10.04 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-96% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-3% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-31,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-31,730 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-468,400 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-198 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 34,300 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 134,600 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 32,200 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 383,200 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 198 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 477,200 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-141,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 351,200 bbl/day (2015 est.)<br>
@@ -598,20 +587,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 14,630 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-59.46 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 68.951 million cubic meters (2019 est.)<br>
+_Consumption_: 18,639,590,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 18,673,429,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 2.832 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-17.7 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 54.695 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 1.623 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 16.856 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 36.217 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-17.53 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-2.832 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 102.558 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -727,7 +717,7 @@ note - conscripts can be assigned to the military, as well as the Ministry of In
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,745 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 10,771 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

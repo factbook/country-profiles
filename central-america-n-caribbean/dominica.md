@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-Dominica was the last of the Caribbean islands to be colonized by Europeans due chiefly to the fierce resistance of the native Caribs. France ceded possession to Great Britain in 1763, which colonized the island in 1805. Slavery ended in 1833 and in 1835 the first three men of African descent were elected to the legislative assembly of Dominica. In 1871, Dominica became part first of the British Leeward Islands and then the British Windward Islands until 1958. In 1967 Dominica became an associated state of the UK, and formally took responsibility for its internal affairs. In 1980, two years after independence, Dominica's fortunes improved when a corrupt and tyrannical administration was replaced by that of Mary Eugenia CHARLES, the first female prime minister in the Caribbean, who remained in office for 15 years. On 18 September 2017, Hurricane Maria passed over the island, causing extensive damage to structures, roads, communications, and the power supply, and largely destroying critical agricultural areas.<br>
+Dominica was the last of the Caribbean islands to be colonized by Europeans due chiefly to the fierce resistance of the native Caribs. France ceded possession to Great Britain in 1763, which colonized the island in 1805. Slavery ended in 1833 and in 1835 the first three men of African descent were elected to the legislative assembly of Dominica. In 1871, Dominica became part first of the British Leeward Islands and then the British Windward Islands until 1958. In 1967, Dominica became an associated state of the UK, and formally took responsibility for its internal affairs. In 1980, two years after independence, Dominica's fortunes improved when a corrupt and tyrannical administration was replaced by that of Mary Eugenia CHARLES, the first female prime minister in the Caribbean, who remained in office for 15 years. On 18 September 2017, Hurricane Maria passed over the island, causing extensive damage to structures, roads, communications, and the power supply, and largely destroying critical agricultural areas.<br>
 
 ## Geography
 
@@ -185,7 +185,12 @@ _unimproved: urban_: urban: 4.3% of population<br>
 NA<br>
 
 **Education expenditures**<br>
-5% of GDP (2020)<br>
+5% of GDP (2020 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **People - note**<br>
 3,000-3,500 Kalinago (Carib) still living on Dominica are the only pre-Columbian population remaining in the Caribbean; only 70-100 may be "pure" Kalinago because of years of integration into the broader population<br>
@@ -461,50 +466,39 @@ East Caribbean dollars (XCD) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-111.4 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 42,000 kW (2020 est.)<br>
+_Consumption_: 82.078 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 8.1 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-103.6 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 74.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.1% of total installed capacity (2020 est.)<br>
+_Wind_: 0.6% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 24.5% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-27,800 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-72% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-25% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-3% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 1,200 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-1,300 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -512,20 +506,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 1,237 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 182,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 182,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 37.513 million Btu/person (2019 est.)<br>
 
 ## Communications
 

@@ -227,7 +227,7 @@ _women married by age 18_: 32.8%<br>
 _men married by age 18_: 9% (2019 est.)<br>
 
 **Education expenditures**<br>
-4.4% of GDP (2018)<br>
+4.4% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -549,50 +549,39 @@ _electrification - total population_: 93% (2019)<br>
 _electrification - urban areas_: 94% (2019)<br>
 _electrification - rural areas_: 93% (2019)<br>
 
-**Electricity - production**<br>
-4.244 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 1.392 million kW (2020 est.)<br>
+_Consumption_: 4.676 billion kWh (2019 est.)<br>
+_Exports_: 107 million kWh (2019 est.)<br>
+_Imports_: 1.729 billion kWh (2019 est.)<br>
+_Transmission/distribution losses_: 1.183 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-4.983 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 0% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 2.6% of total installed capacity (2020 est.)<br>
+_Wind_: 0.2% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 97.2% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-2.69 million kWh (FY 2017 est.)<br>
+**Coal**<br>
+_Production_: 28,000 metric tons (2020 est.)<br>
+_Consumption_: 839,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 811,000 metric tons (2020 est.)<br>
+_Proven reserves_: 1 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-2.175 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-943,100 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-5% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-92% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-3% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 49,400 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-27,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -600,20 +589,21 @@ _electrification - rural areas_: 93% (2019)<br>
 **Refined petroleum products - imports**<br>
 26,120 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 7.708 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 1.051 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 6.657 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 5.219 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -712,7 +702,7 @@ note - as of 2020, women comprised about 5% of the active duty military<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Indian Mujahedeen (2019)<br>
+Indian Mujahedeen<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

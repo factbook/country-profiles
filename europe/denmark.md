@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is participating in the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union, European defense cooperation, and issues concerning certain justice and home affairs.</p><br>
+<p>Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is participating in the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union, European defense cooperation, and justice and home affairs issues.</p><br>
 
 ## Geography
 
@@ -217,7 +217,12 @@ _female_: 17.1% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-7.8% of GDP (2017)<br>
+7.8% of GDP (2017 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
@@ -529,50 +534,39 @@ Danish kroner (DKK) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-29.84 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 17.655 million kW (2020 est.)<br>
+_Consumption_: 33.081 billion kWh (2020 est.)<br>
+_Exports_: 12.694 billion kWh (2020 est.)<br>
+_Imports_: 18.891 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 1.573 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-33.02 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 14.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 4.2% of total installed capacity (2020 est.)<br>
+_Wind_: 57.5% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0.1% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 23.5% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-9.919 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 1.249 million metric tons (2020 est.)<br>
+_Exports_: 194,000 metric tons (2020 est.)<br>
+_Imports_: 1.122 million metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-14.98 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-14.34 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-46% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-54% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-115,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-82,980 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-98,240 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-439 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 69,000 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 165,400 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 56,700 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 95,200 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 441 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 183,900 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-158,500 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 133,700 bbl/day (2017 est.)<br>
@@ -580,20 +574,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 109,700 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-4.842 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 1,314,636,000 cubic meters (2020 est.)<br>
+_Consumption_: 2,188,096,000 cubic meters (2020 est.)<br>
+_Exports_: 1,700,594,000 cubic meters (2020 est.)<br>
+_Imports_: 2,645,893,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 29.534 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-3.115 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 33.85 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 3.455 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 24.621 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 5.775 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-2.237 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-509.7 million cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-12.86 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 124.163 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -701,8 +696,8 @@ the Danish military inventory is comprised of a mix of modern European, US, and 
 note(s) - women have been able serve in all military occupations, including combat arms, since 1988; as of 2019, they made up about 8% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br>
 
 **Military deployments**<br>
-approximately 200 Baltics (NATO); approximately 100 Middle East/Iraq (NATO) (2022)<br><br>note - in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Denmark, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
-note - in response to Russia&rsquo;s 2022 invasion of Ukraine, some NATO countries, including Denmark, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+approximately 200 Baltics (NATO); approximately 100 Middle East/Iraq (NATO) (2022)<br>
+<strong>note: </strong>in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Denmark, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Denmark is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>Denmark is a member of the EU, but opted out of the EU’s Common Defense and Security Policy, and therefore does not participate in EU military operations or in the cooperation on development and acquisition of military capabilities within the EU framework<br> <p>the Danish Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020</p> (2022)<br>
@@ -719,6 +714,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 29,244 (Ukraine) (as of 3 2022)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 31,561 (Ukraine) (as of 13 July 2022)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

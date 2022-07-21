@@ -234,7 +234,7 @@ _female_: 0.4% (2020 est.)<br>
 7% (2014)<br>
 
 **Education expenditures**<br>
-3.9% of GDP (2015) NA<br>
+3.9% of GDP (2015 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -567,50 +567,39 @@ Egyptian pounds (EGP) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-183.5 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 59.826 million kW (2020 est.)<br>
+_Consumption_: 149,079,120,000 kWh (2019 est.)<br>
+_Exports_: 360 million kWh (2019 est.)<br>
+_Imports_: 74 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 33.623 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-159.7 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 88.7% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 1% of total installed capacity (2020 est.)<br>
+_Wind_: 2.5% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 7.7% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.2% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-1.158 billion kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 262,000 metric tons (2020 est.)<br>
+_Consumption_: 2.31 million metric tons (2020 est.)<br>
+_Exports_: 86,000 metric tons (2020 est.)<br>
+_Imports_: 2.134 million metric tons (2020 est.)<br>
+_Proven reserves_: 16 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-54 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-45.12 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-91% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-6% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-639,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-246,500 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-64,760 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-4.4 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 660,800 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 810,200 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 204,100 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 117,400 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 3.3 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 547,500 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-878,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 47,360 bbl/day (2015 est.)<br>
@@ -618,20 +607,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 280,200 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-50.86 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 64,292,955,000 cubic meters (2019 est.)<br>
+_Consumption_: 58,176,781,000 cubic meters (2019 est.)<br>
+_Exports_: 5,009,100,000 cubic meters (2019 est.)<br>
+_Imports_: 83.563 million cubic meters (2019 est.)<br>
+_Proven reserves_: 1,783,958,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-57.71 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 235.137 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 8.728 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 112.281 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 114.128 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-212.4 million cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-7.079 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-2.186 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 40.063 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -755,7 +745,7 @@ since 2011, the Egyptian Armed Forces, police, and other security forces have be
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province; al-Qa’ida<br>
+Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province (ISIS-SP); al-Qa’ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
@@ -764,7 +754,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province; al-Qa’id
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 141,303 (Syria), 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (mid-year 2021); 143,803 (Syria), 52,446 (Sudan) (refugees and asylum seekers), 20,970 (South Sudan) (refugees and asylum seekers), 21,105 (Eritrea) (refugees and asylum seekers), 15,585 (Ethiopia) (refugees and asylum seekers), 10,025 (Yemen) (refugees and asylum seekers), 6,815 (Iraq) (refugees and asylum seekers), 6,802 (Somalia) (refugees and asylum seekers) (2022)<br>
 _stateless persons_: 7 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

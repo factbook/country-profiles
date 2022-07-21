@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Berbers have inhabited central north Africa since ancient times, but the region has been settled and ruled by Phoenicians, Greeks, Carthaginians, Persians, Egyptians, Greeks, Romans, and Vandals. In the the 7th century, Islam spread through the region; in the mid-16th century, Ottoman rule began. The Italians supplanted the Ottoman Turks in the area around Tripoli in 1911 and did not relinquish their hold until 1943 when they were defeated in World War II. Libya then passed to UN administration and achieved independence in 1951. Following a 1969 military coup, Col. Muammar al-QADHAFI assumed leadership and began to espouse his political system at home, which was a combination of socialism and Islam. During the 1970s, QADHAFI used oil revenues to promote his ideology outside Libya, supporting subversive and terrorist activities that included the downing of two airliners - one over Scotland, another in Northern Africa - and a discotheque bombing in Berlin. UN sanctions in 1992 isolated QADHAFI politically and economically following the attacks; sanctions were lifted in 2003 following Libyan acceptance of responsibility for the bombings and agreement to claimant compensation. QADHAFI also agreed to end Libya's program to develop weapons of mass destruction, and he made significant strides in normalizing relations with Western nations.</p> <p>Unrest that began in several Middle Eastern and North African countries in late 2010 erupted in Libyan cities in early 2011. QADHAFI's brutal crackdown on protesters spawned an eight-month civil war that saw the emergence of a National Transitional Council (NTC), UN authorization of air and naval intervention by the international community, and the toppling of the QADHAFI regime. In 2012, the NTC handed power to an elected parliament, the General National Congress (GNC). Voters chose a new parliament to replace the GNC in June 2014 - the House of Representatives (HoR) - which relocated to the eastern city of Tobruk after fighting broke out in Tripoli and Benghazi in July 2014.</p> <p>In December 2015, the UN brokered an agreement among a broad array of Libyan political parties and social groups - known as the Libyan Political Agreement (LPA) - establishing an interim executive body, the Government of National Accord (GNA). However, the HoR and defunct-GNC-affiliated political hardliners continued to oppose the GNA and hamper the LPA’s implementation, leaving Libya with eastern and western-based rival governments. In September 2017, UN Special Representative Ghassan SALAME announced a new roadmap for national political reconciliation. In November 2018, the international community supported SALAME’s recalibrated Action Plan for Libya that aimed to break the political deadlock by holding a National Conference in early 2019. These plans, however, were derailed when the eastern-based self-described Libyan National Army (LNA) launched an offensive to seize Tripoli in April 2019. Several countries sent armed personnel and advanced military equipment into Libya. The LNA's offensive collapsed in June 2020, and a subsequent UN-sponsored ceasefire in October 2020 helped formalize the pause in fighting between rival factions, although foreign forces, fighters, and mercenaries that aided eastern and western factions during the fighting remain in Libya. <br><br>In early 2021, the UN-facilitated Libyan Political Dialogue Forum selected a new prime minister for an interim government, the Government of National Unity (GNU), and a new presidential council charged with preparing for presidential and parliamentary elections in December 2021 and uniting the country’s state institutions. The HoR approved the GNU and its cabinet in March 2021, providing Libya with its first unified government since 2014. On 22 December 2021, Libya's parliament postponed the first round of the presidential election to an undetermined date in the future.</p><br>
+<p>Berbers have inhabited central north Africa since ancient times, but the region has been settled and ruled by Phoenicians, Greeks, Carthaginians, Persians, Egyptians, Greeks, Romans, and Vandals. In the the 7th century, Islam spread through the region; in the mid-16th century, Ottoman rule began. The Italians supplanted the Ottoman Turks in the area around Tripoli in 1911 and did not relinquish their hold until 1943 when they were defeated in World War II. Libya then passed to UN administration and achieved independence in 1951. Following a 1969 military coup, Col. Muammar al-QADHAFI assumed leadership and began to espouse his political system at home, which was a combination of socialism and Islam. During the 1970s, QADHAFI used oil revenues to promote his ideology outside Libya, supporting subversive and terrorist activities that included the downing of two airliners - one over Scotland, another in Northern Africa - and a discotheque bombing in Berlin. UN sanctions in 1992 isolated QADHAFI politically and economically following the attacks; sanctions were lifted in 2003 following Libyan acceptance of responsibility for the bombings and agreement to claimant compensation. QADHAFI also agreed to end Libya's program to develop weapons of mass destruction, and he made significant strides in normalizing relations with Western nations.</p> <p>Unrest that began in several Middle Eastern and North African countries in late 2010 erupted in Libyan cities in early 2011. QADHAFI's brutal crackdown on protesters spawned an eight-month civil war that saw the emergence of a National Transitional Council (NTC), UN authorization of air and naval intervention by the international community, and the toppling of the QADHAFI regime. In 2012, the NTC handed power to an elected parliament, the General National Congress (GNC). Voters chose a new parliament to replace the GNC in June 2014 - the House of Representatives (HoR) - which relocated to the eastern city of Tobruk after fighting broke out in Tripoli and Benghazi in July 2014.</p> <p>In December 2015, the UN brokered an agreement among a broad array of Libyan political parties and social groups - known as the Libyan Political Agreement (LPA) - establishing an interim executive body, the Government of National Accord (GNA). However, the HoR and defunct-GNC-affiliated political hardliners continued to oppose the GNA and hamper the LPA’s implementation, leaving Libya with eastern and western-based rival governments. In September 2017, UN Special Representative Ghassan SALAME announced a new roadmap for national political reconciliation. In November 2018, the international community supported SALAME’s recalibrated Action Plan for Libya that aimed to break the political deadlock by holding a National Conference in early 2019. These plans, however, were derailed when the eastern-based self-described Libyan National Army (LNA) launched an offensive to seize Tripoli in April 2019. Several countries sent armed personnel and advanced military equipment into Libya. The LNA's offensive collapsed in June 2020, and a subsequent UN-sponsored cease-fire in October 2020 helped formalize the pause in fighting between rival camps, although foreign forces, fighters, and mercenaries that aided eastern and western factions during the fighting remain in Libya. <br><br>In early 2021, the UN-facilitated Libyan Political Dialogue Forum selected a new prime minister for an interim government, the Government of National Unity (GNU), and a new presidential council charged with preparing for presidential and parliamentary elections in December 2021 and uniting the country’s state institutions. The HoR approved the GNU and its cabinet in March 2021, providing Libya with its first unified government since 2014. On 22 December 2021, Libya's parliament postponed the first round of the presidential election to an undetermined date in the future. Talks in June 2022 failed to reach agreement on eligibility requirements for presidential candidates.</p><br>
 
 ## Geography
 
@@ -348,7 +348,7 @@ ABEDA, AfDB, AFESD, AMF, AMU, AU, BDEAC, CAEU, COMESA, FAO, G-77, IAEA, IBRD, IC
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Khaled DAIEF (since 27 August 2021)<br>
-_chancery_: <p>1460 Dahlia Street NW, Washington, DC 20012</p><br>
+_chancery_: 1460 Dahlia Street NW, Washington, DC 20012<br>
 _telephone_: [1] (202) 944-9601<br>
 _FAX_: [1] (202) 944-9606<br>
 _email address and website_: <br>info@embassyoflibyadc.com<br><br>https://www.embassyoflibyadc.org/<br>
@@ -512,52 +512,39 @@ Libyan dinars (LYD) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2019)<br>
 
-**Electricity - production**<br>
-34.24 billion kWh (2016 est.)<br>
-<strong>note:</strong> persistent electricity shortages have contributed to the ongoing instability throughout the country<br>
+**Electricity**<br>
+_Installed generating capacity_: 10.516 million kW (2020 est.)<br>
+_Consumption_: 25,360,340,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 465 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 6.801 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-27.3 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 100% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-376 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-9.46 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-100% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-1.039 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-337,800 bbl/day (2015 est.)<br>
-<strong>note:</strong> Libyan crude oil export values are highly volatile because of continuing protests and other disruptions across the country<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-48.36 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 1,252,800 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 219,700 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 1,067,400 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 48.363 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 89,620 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-260,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 16,880 bbl/day (2015 est.)<br>
@@ -565,20 +552,21 @@ _electrification - total population_: 100% (2019)<br>
 **Refined petroleum products - imports**<br>
 168,200 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-9.089 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 12,414,736,000 cubic meters (2020 est.)<br>
+_Consumption_: 7,669,690,000 cubic meters (2019 est.)<br>
+_Exports_: 4,441,150,000 cubic meters (2020 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 1,504,868,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-4.446 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 38.297 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 30.018 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 8.279 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-4.644 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-1.505 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 107.118 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -683,7 +671,7 @@ not available<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham – Libya; al-Mulathamun Battalion (al-Mourabitoun); al-Qa'ida in the Islamic Maghreb<br>
+Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham - Libya (ISIS-L); al-Mulathamun Battalion (al-Mourabitoun); al-Qa'ida in the Islamic Maghreb (AQIM)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
@@ -692,6 +680,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham – Libya; al-Mulatha
 <p><em>Libya-Algeria:</em> dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria<br><br><em>Libya-Chad:</em> various Chadian rebels from the Aozou region reside in southern Libya; Libyan forces clashed with Chadian rebels in September 2021</p> <p><em>Libya-Egypt</em>: none identified</p> <p><em>Libya-Niger</em>: the boundary is poorly defined but has never been disputed by either country</p> <p><em>Libya-Sudan</em>: none identified</p> <p><em>Libya-Tunisia</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,348 (Sudan) (refugees and asylum seekers), 15,207 (Syria) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 18,458 (Sudan) (refugees and asylum seekers), 15,612 (Syria) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 168,011 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2022)<br>
 

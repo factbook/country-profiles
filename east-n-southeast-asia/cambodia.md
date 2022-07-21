@@ -230,7 +230,7 @@ _female_: 6% (2020 est.)<br>
 24.1% (2014)<br>
 
 **Education expenditures**<br>
-2.2% of GDP (2018)<br>
+2.2% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -360,7 +360,6 @@ _chief of state_: King Norodom SIHAMONI (since 29 October 2004)<br>
 _head of government_: Prime Minister HUN SEN (since 14 January 1985)<br>
 _cabinet_: Council of Ministers named by the prime minister and appointed by the monarch<br>
 _elections/appointments_: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition named prime minister by the Chairman of the National Assembly and appointed by the monarch<br>
-note - in December 2021, the Cambodian People's Party voted unanimously for HUN SEN's oldest son, HUN MANET, to succeed his father<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br>National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
@@ -560,50 +559,39 @@ _electrification - total population_: 75% (2019)<br>
 _electrification - urban areas_: 100% (2019)<br>
 _electrification - rural areas_: 67% (2019)<br>
 
-**Electricity - production**<br>
-5.21 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 2.954 million kW (2020 est.)<br>
+_Consumption_: 10,288,340,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 3.063 billion kWh (2019 est.)<br>
+_Transmission/distribution losses_: 1.187 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-5.857 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 52% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 1.2% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 45.6% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.2% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 2.974 million metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 3.311 million metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-1.583 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-1.697 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-35% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-63% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 64,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-45,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -611,20 +599,21 @@ _electrification - rural areas_: 67% (2019)<br>
 **Refined petroleum products - imports**<br>
 43,030 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 13.844 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 4.837 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 9.007 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 13.629 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -654,7 +643,7 @@ _percent of population_: 33% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 233,732 (2020 est.) Slowly increase as focus is on mobile internet<br>
-_subscriptions per 100 inhabitants_: 1.4 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 ## Transportation
 

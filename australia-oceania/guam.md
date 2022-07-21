@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (United States)_
 ## Introduction
 
 **Background**<br>
-<p>Guam was settled by Austronesian people around 1500 B.C. These people became the indigenous Chamorro and were influenced by later migrations, including the Micronesians in the first millennium A.D., and island Southeast Asians around 900. Society was stratified with higher classes living along the coast and lower classes living inland. Spanish explorer Ferdinand MAGELLAN was the first European to see Guam in 1521 and Spain claimed the island in 1565 as it served as a refueling stop for ships between Mexico and the Philippines. Spain formally colonized Guam in 1668. Spain’s brutal repression of Chamorro, along with new diseases and intermittent warfare, reduced the indigenous population from more than 100,000 to less than 5,000 by the 1700s. Spain tried to repopulate the island by forcing people from nearby islands to settle on Guam and preventing them from escaping.<br><br>Guam became a hub for whalers and traders in the western Pacific in the early 1800s. During the 1898 Spanish-American War, the US Navy occupied Guam and set up a military administration. The US Navy opposed local control of government despite repeated petitions by Chamorro. Japan invaded Guam in 1941 and instituted a repressive regime. During the US recapture of Guam in 1944, the island’s two largest villages were destroyed. After World War II, political pressure from local Chamorro leaders led to Guam being established as an unincorporated organized territory in 1950 with US citizenship granted to all Chamorro. In a referendum in 1982, more than 75% of voters chose closer relations with the US over independence, although no change in status was made because of disagreements on the future right of Chamorro self-determination. The US military holds about 29% of Guam’s land and stations several thousand troops on the island. The installations are some of the most strategically important US bases in the Pacific; they also constitute the island’s most important source of income and economic stability.</p><br>
+<p>Guam was settled by Austronesian people around 1500 B.C. These people became the indigenous Chamorro and were influenced by later migrations, including the Micronesians in the first millennium A.D., and island Southeast Asians around 900. Society was stratified with higher classes living along the coast and lower classes living inland. Spanish explorer Ferdinand MAGELLAN was the first European to see Guam in 1521 and Spain claimed the island in 1565 as it served as a refueling stop for ships between Mexico and the Philippines. Spain formally colonized Guam in 1668. Spain’s brutal repression of the Chamorro, along with new diseases and intermittent warfare, reduced the indigenous population from more than 100,000 to less than 5,000 by the 1700s. Spain tried to repopulate the island by forcing people from nearby islands to settle on Guam and preventing them from escaping.<br><br>Guam became a hub for whalers and traders in the western Pacific in the early 1800s. During the 1898 Spanish-American War, the US Navy occupied Guam and set up a military administration. The US Navy opposed local control of government despite repeated petitions by the Chamorro. Japan invaded Guam in 1941 and instituted a repressive regime. During the US recapture of Guam in 1944, the island’s two largest villages were destroyed. After World War II, political pressure from local Chamorro leaders led to Guam being established as an unincorporated organized territory in 1950 with US citizenship granted to all Chamorro. In a referendum in 1982, more than 75% of voters chose closer relations with the US over independence, although no change in status was made because of disagreements on the future right of Chamorro self-determination. The US military holds about 29% of Guam’s land and stations several thousand troops on the island. The installations are some of the most strategically important US bases in the Pacific; they also constitute the island’s most important source of income and economic stability.</p><br>
 
 ## Geography
 
@@ -188,6 +188,11 @@ NA<br>
 
 **Education expenditures**<br>
 NA<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 29.4%<br>
@@ -432,50 +437,39 @@ refined petroleum, trunks/cases, cars, insulated wire, broadcasting equipment (2
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-1.722 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 455,000 kW (2020 est.)<br>
+_Consumption_: 1.683 billion kWh (2019 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 85 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-1.601 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 96% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 4% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-560,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-94% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-6% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.) Data represented includes both Guam and Northern Mariana Islands<br>
+_Refined petroleum consumption_: 2,100 bbl/day (2019 est.) Data represented includes both Guam and Northern Mariana Islands<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.) Data represented includes both Guam and Northern Mariana Islands<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.) Data represented includes both Guam and Northern Mariana Islands<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.) Data represented includes both Guam and Northern Mariana Islands<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-14,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -483,20 +477,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 13,500 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 1.828 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1.828 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 152.767 million Btu/person (2019 est.)<br>
 
 ## Communications
 

@@ -234,7 +234,7 @@ _female_: 12.8% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2018)<br>
+4.7% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -258,7 +258,7 @@ _female_: 18.2% (2020 est.)<br>
 air pollution from heavy industry, emissions of coal-fired electric plants, and transportation in major cities; industrial, municipal, and agricultural pollution of inland waterways and seacoasts; deforestation; soil erosion; soil contamination from improper application of agricultural chemicals; nuclear waste disposal; scattered areas of sometimes intense radioactive contamination; groundwater contamination from toxic waste; urban solid waste management; abandoned stocks of obsolete pesticides<br>
 
 **Environment - international agreements**<br>
-_party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic- Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
+_party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling<br>
 _signed, but not ratified_: Air Pollution-Sulfur 94<br>
 
 **Air pollutants**<br>
@@ -578,50 +578,39 @@ Russian rubles (RUB) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-1.031 trillion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 276.463 million kW (2020 est.)<br>
+_Consumption_: 942,895,420,000 kWh (2019 est.)<br>
+_Exports_: 12.116 billion kWh (2020 est.)<br>
+_Imports_: 1.377 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 99.077 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-909.6 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 59.4% of total installed capacity (2020 est.)<br>
+_Nuclear_: 21% of total installed capacity (2020 est.)<br>
+_Solar_: 0.2% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 19.1% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-13.13 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 447.332 million metric tons (2020 est.)<br>
+_Consumption_: 266.038 million metric tons (2020 est.)<br>
+_Exports_: 224.324 million metric tons (2020 est.)<br>
+_Imports_: 24.027 million metric tons (2020 est.)<br>
+_Proven reserves_: 162.166 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-3.194 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-244.9 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-68% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-11% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-21% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-10.759 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-4.921 million bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-76,220 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-80 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 10,749,500 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 3.699 million bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 5.196 million barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 14,200 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 80 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 6.076 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-3.65 million bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 2.671 million bbl/day (2015 est.)<br>
@@ -629,20 +618,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 41,920 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-665.6 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 701,544,189,000 cubic meters (2021 est.)<br>
+_Consumption_: 460,612,169,000 cubic meters (2020 est.)<br>
+_Exports_: 250,854,510,000 cubic meters (2021 est.)<br>
+_Imports_: 16,112,146,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 47,805,215,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-467.5 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 1,848,070,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 456.033 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 470.289 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 921.748 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-210.2 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-15.77 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-47.8 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 227.898 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -759,8 +749,8 @@ the Russian Federation's military and paramilitary services are equipped with do
 note(s) - in May 2022, Russia's parliament approved a law removing the upper age limit for contractual service in the military; in the spring of 2022, Russia drafted 134,500 conscripts into the military; as of 2021, conscripts reportedly comprised about 30% of the Russian military's active duty personnel; in April of 2019, the Russian Government pledged its intent to end conscription as part of a decade-long effort to shift from a large, conscript-based military to a smaller, more professional force; an existing law allows for a 21-month alternative civil service in hospitals, nursing homes and other facilities for those who view military duty as incompatible with their beliefs, but military conscription offices reportedly often broadly ignore requests for such service; as of 2020, women made up about 5% of the active duty military<br>
 
 **Military deployments**<br>
-information varies; est. 3,000-4,000 Armenia; approximately 2,000 Azerbaijan (peacekeepers for Nagorno-Karabakh); est. 3,000-5,000 Belarus; est. 7,000-10,000 Georgia; est. 500 Kyrgyzstan; est. 1,500-2,000 Moldova (Transnistria); est. 3,000-5,000 Syria; est. 5,000-7,000 Tajikistan (February 2022)<br>
-note(s) - in February 2022, Russia invaded Ukraine with an estimated 150,000 troops; prior to the invasion, it maintained an estimated 30,000 troops in areas of Ukraine occupied since 2014<br><br>--prior to the invasion of Ukraine, Russia was assessed to have about 3,000-5,000 private military contractors conducting military and security operations in Africa, including in the Central African Republic, Libya, Mali, and Sudan<br>
+information varies; approximately 3,000-4,000 Armenia; approximately 2,000 Azerbaijan (peacekeepers for Nagorno-Karabakh); estimated 3,000-5,000 Belarus; approximately 7,000-10,000 Georgia; approximately 500 Kyrgyzstan; approximately 1,500-2,000 Moldova (Transnistria); estimated 3,000-5,000 Syria; approximately 5,000-7,000 Tajikistan (February 2022)<br>
+<strong>note 1:</strong> in February 2022, Russia invaded Ukraine with an estimated 150,000 troops; prior to the invasion, it maintained an estimated 30,000 troops in areas of Ukraine occupied since 2014<br><br><strong>note 2: </strong>prior to the invasion of Ukraine, Russia was assessed to have about 3,000-5,000 private military contractors conducting military and security operations in Africa, including in the Central African Republic, Libya, Mali, and Sudan<br>
 
 **Military - note**<br>
 as of 2022, Russian military forces continued to conduct active combat operations in Syria; Russia intervened in the Syrian civil war at the request of the ASAD government in September 2015; Russian assistance included air support, special operations forces, military advisors, private military contractors, training, arms, and equipment<br><br>Russia is the leading member of the Collective Security Treaty Organization (CSTO) and contributes approximately 8,000 troops to CSTO's rapid reaction force (2022)<br>
@@ -777,7 +767,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries</p> <p><em>Russia-China</em>: Russia and China have demarcated the once disputed islands at the Amur and Ussuri confluence and in the Argun River in accordance with the 2004 Agreement, ending their centuries-long border disputes</p> <p><em>Russia-Denmark-Norway</em>: Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS), and Russia is collecting additional data to augment its 2001 CLCS submission</p> <p><em>Russia and Estonia</em>: Russia and Estonia signed a technical border agreement in May 2005, but Russia recalled its signature in June 2005 after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; negotiations were reopened in 2012, and a treaty was signed in 2014 without the disputed preamble, but neither country has ratified it as of 2020</p> <p><em>Russia-Finland</em>: various groups in Finland advocate restoration of Karelia (Kareliya) and other areas ceded to the Soviet Union following World War II but the Finnish Government asserts no territorial demands</p> <p><em>Russia-Georgia</em>: Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia; in 2011, Russia began to put up fences and barbed wire to fortify South Ossetia, physically dividing villages in the process; Russia continues to move the South Ossetia border fences further into Georgian territory</p> <p><em>Russia-Japan:</em> the sovereignty dispute over the islands of Etorofu, Kunashiri, Shikotan, and the Habomai group, known in Japan as the "Northern Territories" and in Russia as the "Southern Kurils," occupied by the Soviet Union in 1945, now administered by Russia, and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities</p> <p><em>Russia-Kazakhstan</em>: Russia boundary delimitation was ratified on November 2005; field demarcation commenced in 2007 and was expected to be completed by 2013</p> <p><em>Russia-Lithuania</em>: Russia and Lithuania committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; border demarcation was completed in 2018; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as an EU member state with an EU external border, where strict Schengen border rules apply</p> <p><em>Russia-North Korea</em>: none identified</p> <p><em>Russia-Norway</em>: Russia and Norway signed a comprehensive maritime boundary agreement in 2010, opening the disputed territory for oil and natural gas exploration; a visa-free travel agreement for persons living near the border went into effect in May 2012</p> <p><em>Russia-Ukraine</em>: Russia remains involved in the conflict in eastern Ukraine while also occupying Ukraine’s territory of Crimea; preparations for the demarcation delimitation of land boundary with Ukraine have commenced; the dispute over the boundary between Russia and Ukraine through the Kerch Strait and Sea of Azov is suspended due to the occupation of Crimea by Russia</p> <p><em>Russia-US</em>: Russian Duma has not yet ratified 1990 Bering Sea Maritime Boundary Agreement with the US; the southwesterly "Western Limit" places about 70% of the Bering Sea under U.S. maritime jurisdiction</p> <p><em>Russia-various</em>: Azerbaijan, Kazakhstan, and Russia ratified Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,518,394 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 1,625,231 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 56,960 (mid-year 2021); note - Russia's stateless population consists of Roma, Meskhetian Turks, and ex-Soviet citizens from the former republics; between 2003 and 2010 more than 600,000 stateless people were naturalized; most Meskhetian Turks, followers of Islam with origins in Georgia, fled or were evacuated from Uzbekistan after a 1989 pogrom and have lived in Russia for more than the required five-year residency period; they continue to be denied registration for citizenship and basic rights by local Krasnodar Krai authorities on the grounds that they are temporary illegal migrants<br>
 
 **Trafficking in persons**<br>

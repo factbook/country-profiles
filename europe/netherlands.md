@@ -221,7 +221,12 @@ _female_: 19.9% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2018)<br>
+5.4% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
@@ -311,9 +316,6 @@ _etymology_: the original Dutch name, Amstellerdam, meaning "a dam on the Amstel
 **Administrative divisions**<br>
 12 provinces (provincies, singular - provincie), 3 public entities* (openbare lichamen, singular - openbaar lichaam (Dutch); entidatnan publiko, singular - entidat publiko (Papiamento)); Bonaire*, Drenthe, Flevoland, Fryslan (Friesland), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Saba*, Sint Eustatius*, Utrecht, Zeeland (Zealand), Zuid-Holland (South Holland)<br>
 <strong>note 1:</strong> the Netherlands is one of four constituent countries of the Kingdom of the Netherlands; the other three, Aruba, Curacao, and Sint Maarten, are all islands in the Caribbean; while all four parts are considered equal partners, in practice, most of the Kingdom's affairs are administered by the Netherlands, which makes up about 98% of the Kingdom's total land area and population <br><br><strong>note 2:</strong> although Bonaire, Saba, and Sint Eustatius are officially incorporated into the country of the Netherlands under the broad designation of "public entities," Dutch Government sources regularly apply to them the more descriptive term of "special municipalities"; Bonaire, Saba, and Sint Eustatius are collectively referred to as the Caribbean Netherlands<br>
-
-**Dependent areas**<br>
-Aruba, Curacao, Sint Maarten<br>
 
 **Independence**<br>
 23 January 1579 (the northern provinces of the Low Countries conclude the Union of Utrecht breaking with Spain; on 26 July 1581, they formally declared their independence with an Act of Abjuration; however, it was not until 30 January 1648 and the Peace of Westphalia that Spain recognized this independence)<br>
@@ -544,50 +546,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-109.3 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 43.409 million kW (2020 est.)<br>
+_Consumption_: 109.796 billion kWh (2020 est.)<br>
+_Exports_: 22.433 billion kWh (2020 est.)<br>
+_Imports_: 19.773 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 5.059 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-108.8 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 68.3% of total installed capacity (2020 est.)<br>
+_Nuclear_: 3.3% of total installed capacity (2020 est.)<br>
+_Solar_: 6.8% of total installed capacity (2020 est.)<br>
+_Wind_: 13.1% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 8.5% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-19.34 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 1.879 million metric tons (2020 est.)<br>
+_Consumption_: 8.241 million metric tons (2020 est.)<br>
+_Exports_: 20.164 million metric tons (2020 est.)<br>
+_Imports_: 21.552 million metric tons (2020 est.)<br>
+_Proven reserves_: 497 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-24.26 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-34.17 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-75% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-23% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-18,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-7,984 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-1.094 million bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-81.13 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 76,100 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 915,200 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 8,800 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 1,096,500 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 137.7 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1.282 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-954,500 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 2.406 million bbl/day (2017 est.)<br>
@@ -595,21 +586,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 2.148 million bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-45.33 billion cu m (2017 est.)<br>
-<strong>note:</strong> the Netherlands has curbed gas production due to seismic activity in the province of Groningen, largest source of gas reserves<br>
+**Natural gas**<br>
+_Production_: 32,857,597,000 cubic meters (2019 est.)<br>
+_Consumption_: 44,752,918,000 cubic meters (2019 est.)<br>
+_Exports_: 42,827,461,000 cubic meters (2019 est.)<br>
+_Imports_: 55,767,276,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 132.608 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-43.38 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 214.416 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 23.15 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 116.24 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 75.027 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-51.25 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-51 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-801.4 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 219.606 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -719,8 +710,8 @@ the inventory of the Netherlands Armed Forces consists of a mix of domestically-
 note - in 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-270 Lithuania (NATO) (2022)<br><br>note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
-note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+270 Lithuania (NATO) (2022)<br>
+<strong>note: </strong>NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force</p> <p>a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively</p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br> <p>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries</p><br>

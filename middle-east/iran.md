@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Known as Persia until 1935, Iran became an Islamic republic in 1979 after the ruling monarchy was overthrown and Shah Mohammad Reza PAHLAVI was forced into exile. Conservative clerical forces led by Ayatollah Ruhollah KHOMEINI established a theocratic system of government with ultimate political authority vested in a learned religious scholar referred to commonly as the Supreme Leader who, according to the constitution, is accountable only to the Assembly of Experts (AOE) - a popularly elected 88-member body of clerics. US-Iranian relations became strained when a group of Iranian students seized the US Embassy in Tehran in November 1979 and held embassy personnel hostages until mid-January 1981. The US cut off diplomatic relations with Iran in April 1980. During the period 1980-88, Iran fought a bloody, indecisive war with Iraq that eventually expanded into the Persian Gulf and led to clashes between US Navy and Iranian military forces. Iran has been designated a state sponsor of terrorism and was subject to US, UN, and EU economic sanctions and export controls because of its continued involvement in terrorism and concerns over possible military dimensions of its nuclear program until Joint Comprehensive Plan of Action (JCPOA) Implementation Day in 2016. The US began gradually re-imposing sanctions on Iran after the US withdrawal from JCPOA in May 2018.</p> <p>Following the election of reformer Hojjat ol-Eslam Mohammad KHATAMI as president in 1997 and a reformist Majles (legislature) in 2000, a campaign to foster political reform in response to popular dissatisfaction was initiated. The movement floundered as conservative politicians, supported by the Supreme Leader, unelected institutions of authority like the Council of Guardians, and the security services reversed and blocked reform measures while increasing security repression. Starting with nationwide municipal elections in 2003 and continuing through Majles elections in 2004, conservatives reestablished control over Iran's elected government institutions, which culminated with the August 2005 inauguration of hardliner Mahmud AHMADI-NEJAD as president. His controversial reelection in June 2009 sparked nationwide protests over allegations of electoral fraud, but the protests were quickly suppressed. Deteriorating economic conditions due primarily to government mismanagement and international sanctions prompted at least two major economically based protests in July and October 2012, but Iran's internal security situation remained stable. President AHMADI-NEJAD's independent streak angered regime establishment figures, including the Supreme Leader, leading to conservative opposition to his agenda for the last year of his presidency, and an alienation of his political supporters. In June 2013 Iranians elected a centrist cleric Dr. Hasan Fereidun RUHANI to the presidency. A longtime senior member in the regime, he made promises of reforming society and Iran's foreign policy. In July 2015, Iran and the five permanent members, plus Germany (P5+1) signed the JCPOA under which Iran agreed to restrictions on its nuclear program in exchange for sanctions relief; however, the US reimposed sanctions in 2018 dealing a blow to RUHANI's legacy and the Iranian economy. Negotiations to restore the deal started in 2021 and are ongoing. Iran held elections in February 2020 for the Majles and the president in June 2021, resulting in a hardline and conservative monopoly across the regime's elected and unelected institutions. President Ebrahim RAISI is a hardline cleric with a decades-long career in Iran's judiciary and has had limited foreign policy and economic experience.</p><br>
+<p>Known as Persia until 1935, Iran became an Islamic republic in 1979 after the ruling monarchy was overthrown and Shah Mohammad Reza PAHLAVI was forced into exile. Conservative clerical forces led by Ayatollah Ruhollah KHOMEINI established a theocratic system of government with ultimate political authority vested in a learned religious scholar referred to commonly as the Supreme Leader who, according to the constitution, is accountable only to the Assembly of Experts - a popularly elected 88-member body of clerics. US-Iranian relations became strained when a group of Iranian students seized the US Embassy in Tehran in November 1979 and held embassy personnel hostages until mid-January 1981. The US cut off diplomatic relations with Iran in April 1980. During the period 1980-88, Iran fought a bloody, indecisive war with Iraq that eventually expanded into the Persian Gulf and led to clashes between US Navy and Iranian military forces. Iran has been designated a state sponsor of terrorism and was subject to US, UN, and EU economic sanctions and export controls because of its continued involvement in terrorism and concerns over possible military dimensions of its nuclear program until Joint Comprehensive Plan of Action (JCPOA) Implementation Day in 2016. The US began gradually re-imposing sanctions on Iran after the US withdrawal from JCPOA in May 2018.</p> <p>Following the election of reformer Hojjat ol-Eslam Mohammad KHATAMI as president in 1997 and a reformist Majles (legislature) in 2000, a campaign to foster political reform in response to popular dissatisfaction was initiated. The movement floundered as conservative politicians, supported by the Supreme Leader, unelected institutions of authority like the Council of Guardians, and the security services reversed and blocked reform measures while increasing security repression. Starting with nationwide municipal elections in 2003 and continuing through Majles elections in 2004, conservatives reestablished control over Iran's elected government institutions, which culminated with the August 2005 inauguration of hardliner Mahmud AHMADI-NEJAD as president. His controversial reelection in June 2009 sparked nationwide protests over allegations of electoral fraud, but the protests were quickly suppressed. Deteriorating economic conditions due primarily to government mismanagement and international sanctions prompted at least two major economically based protests in July and October 2012, but Iran's internal security situation remained stable. President AHMADI-NEJAD's independent streak angered regime establishment figures, including the Supreme Leader, leading to conservative opposition to his agenda for the last year of his presidency, and an alienation of his political supporters. In June 2013, Iranians elected a centrist cleric Dr. Hasan Fereidun RUHANI to the presidency. A longtime senior member in the regime, he made promises of reforming society and Iran's foreign policy. In July 2015, Iran and the five permanent members, plus Germany (P5+1) signed the JCPOA under which Iran agreed to restrictions on its nuclear program in exchange for sanctions relief; however, the US reimposed sanctions in 2018 dealing a blow to RUHANI's legacy and the Iranian economy. Negotiations to restore the deal started in 2021 and are ongoing. Iran held elections in February 2020 for the Majles and the president in June 2021, resulting in a hardline and conservative monopoly across the regime's elected and unelected institutions. President Ebrahim RAISI is a hardline cleric with a decades-long career in Iran's judiciary and has had limited foreign policy and economic experience.</p><br>
 
 ## Geography
 
@@ -224,7 +224,7 @@ _female_: 3.1% (2020 est.)<br>
 4.1% (2010/11)<br>
 
 **Education expenditures**<br>
-3.7% of GDP (2019)<br>
+3.7% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -542,50 +542,39 @@ Iranian rials (IRR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-272.3 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 80.553 million kW (2020 est.)<br>
+_Consumption_: 279,826,390,000 kWh (2019 est.)<br>
+_Exports_: 6.365 billion kWh (2019 est.)<br>
+_Imports_: 2.738 billion kWh (2019 est.)<br>
+_Transmission/distribution losses_: 34.303 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-236.3 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 88.7% of total installed capacity (2020 est.)<br>
+_Nuclear_: 1.9% of total installed capacity (2020 est.)<br>
+_Solar_: 0.1% of total installed capacity (2020 est.)<br>
+_Wind_: 0.2% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 9.1% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-6.822 billion kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 2.783 million metric tons (2020 est.)<br>
+_Consumption_: 2.794 million metric tons (2020 est.)<br>
+_Exports_: 76,000 metric tons (2020 est.)<br>
+_Imports_: 87,000 metric tons (2020 est.)<br>
+_Proven reserves_: 1.203 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-4.221 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-77.6 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-84% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-15% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-4.251 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-750,200 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-157.2 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 3,450,300 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 1.934 million bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 2,230,900 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 33,500 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 208.6 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1.764 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-1.804 million bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 397,200 bbl/day (2015 est.)<br>
@@ -593,20 +582,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 64,160 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-214.5 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 237,561,415,000 cubic meters (2019 est.)<br>
+_Consumption_: 220,704,282,000 cubic meters (2019 est.)<br>
+_Exports_: 17,607,046,000 cubic meters (2019 est.)<br>
+_Imports_: 1,153,457,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 33,987,296,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-206.9 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 646.038 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 5.142 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 204.21 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 436.687 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-11.64 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-3.993 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-33.72 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 145.54 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -675,7 +665,7 @@ _under 914 m_: 32 (2021)<br>
 7 km condensate, 973 km condensate/gas, 20,794 km gas, 570 km liquid petroleum gas, 8,625 km oil, 7,937 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 8,484 km (2014)<br>
+_total_: 8,483.5 km (2014)<br>
 _standard gauge_: 8,389.5 km (2014) 1.435-m gauge (189.5 km electrified)<br>
 _broad gauge_: 94 km (2014) 1.676-m gauge<br>
 
@@ -721,7 +711,7 @@ note - as of 2019, approximately 80% of Artesh ground forces personnel were cons
 
 **Military deployments**<br>
 estimated 1-3,000 Syria (2022)<br>
-note - Iran has recruited, trained, and funded thousands of Syrian and foreign fighters to support the ASAD regime during the Syrian civil war<br>
+<strong>note:</strong> Iran has recruited, trained, and funded thousands of Syrian and foreign fighters to support the ASAD regime during the Syrian civil war<br>
 
 **Military - note**<br>
 <p>the Islamic Revolutionary Guard Corps (IRGC) was formed in May 1979 in the immediate aftermath of Shah Mohammad Reza PAHLAVI’s fall, as leftists, nationalists, and Islamists jockeyed for power; while the interim prime minister controlled the government and state institutions, such as the Army, followers of Ayatollah Ruhollah KHOMEINI organized counterweights, including the IRGC, to protect the Islamic revolution; the IRGC’s command structure bypassed the elected president and went directly to KHOMEINI; the Iran-Iraq War (1980–88) transformed the IRGC into more of a conventional fighting force with its own ground, air, naval, and special forces, plus control over Iran’s strategic missile and rocket forces; as of 2022, the IRGC was a highly institutionalized and parallel military force to Iran’s regular armed forces (Artesh); it was heavily involved in internal security and had significant influence in the political and economic spheres of Iranian society, as well as Iran’s foreign policy; its special operations forces, known as the Qods/Quds Force, specialized in foreign missions and has provided advice, funding, guidance, material support, training, and weapons to militants in countries such as Afghanistan, Iraq, Syria, and Yemen, as well as extremist groups, including HAMAS, Hizballah, Kata’ib Hizballah, and Palestine Islamic Jihad (see Appendix-T for additional details on the IRGC and Qods Force); the Qods Force also conducts intelligence and reconnaissance operations </p> <p>the Supreme Council for National Security (SCNS) is the senior-most body for formulating Iran’s foreign and security policy; it is formally chaired by the president, who also appoints the SCNS secretary; its members include the speaker of the Majles, the head of the judiciary, the chief of the Armed Forces General Staff (chief of defense or CHOD), the commanders of the Artesh (regular forces) and IRGC, and the ministers of defense, foreign affairs, interior, and intelligence; the SCNS reports to the supreme leader; the supreme leader is the commander-in-chief of the armed forces</p><br>
@@ -732,7 +722,7 @@ note - Iran has recruited, trained, and funded thousands of Syrian and foreign f
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force; Jaysh al Adl (Jundallah); Kurdistan Workers' Party; al-Qa’ida<br>
+Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Jaysh al Adl (Jundallah); Kurdistan Workers' Party (PKK); al-Qa’ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

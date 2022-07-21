@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The native Amerindian population of Cuba began to decline after the European encounter of the island by Christopher COLUMBUS in 1492 and following its development as a Spanish colony during the next several centuries. Large numbers of African slaves were imported to work the coffee and sugar plantations, and Havana became the launching point for the annual treasure fleets bound for Spain from Mexico and Peru. Spanish rule eventually provoked an independence movement and occasional rebellions were harshly suppressed. US intervention during the Spanish-American War in 1898 assisted the Cubans in overthrowing Spanish rule. The Treaty of Paris established Cuban independence from Spain in 1898 and, following three-and-a-half years of subsequent US military rule, Cuba became an independent republic in 1902 after which the island experienced a string of governments mostly dominated by the military and corrupt politicians. Fidel CASTRO led a rebel army to victory in 1959; his authoritarian rule held the subsequent regime together for nearly five decades. He handed off the pesidency in February 2008 to his younger brother Raul CASTRO. Cuba's communist revolution, with Soviet support, was exported throughout Latin America and Africa during the 1960s, 1970s, and 1980s. Miguel DIAZ-CANEL Bermudez, hand-picked by Raul CASTRO to succeed him, was approved as president by the National Assembly and took office on 19 April 2018. DIAZ-CANEL was appointed First Secretary of the Communist Party on 19 April 2021 following the retirement of Raul CASTRO, and continues to serve as both president and first secretary.</p> <p>Cuba traditionally and consistently portrays the US embargo, in place since 1961, as the source of its difficulties. As a result of efforts begun in December 2014 to reestablish diplomatic relations with the Cuban Government, which were severed in January 1961, the US and Cuba reopened embassies in their respective countries in July 2015. The embargo remains in place, and the relationship between the US and Cuba remains tense. </p> <p>Illicit migration of Cuban nationals to the US via maritime and overland routes has been a longstanding challenge. On 12 January 2017, the US and Cuba signed a Joint Statement ending the so-called "wet-foot, dry-foot" policy – by which Cuban nationals who reached US soil were permitted to stay. Irregular Cuban maritime migration has dropped significantly since FY 2016, when migrant interdictions at sea topped 5,000, but land border crossings continue. In FY 2021, the US Coast Guard interdicted 838 Cuban nationals at sea. Also in FY 2021, 39,303 Cuban nationals presented themselves at various land border ports of entry throughout the US.</p><br>
+<p>The native Amerindian population of Cuba began to decline after the arrival of Christopher COLUMBUS in 1492 and following its development as a Spanish colony during the next several centuries. Large numbers of African slaves were imported to work the coffee and sugar plantations, and Havana became the launching point for the annual treasure fleets bound for Spain from Mexico and Peru. Spanish rule eventually provoked an independence movement and occasional rebellions were harshly suppressed. US intervention during the Spanish-American War in 1898 assisted the Cubans in overthrowing Spanish rule. The Treaty of Paris established Cuban independence from Spain in 1898 and, following three-and-a-half years of subsequent US military rule, Cuba became an independent republic in 1902 after which the island experienced a string of governments mostly dominated by the military and corrupt politicians. Fidel CASTRO led a rebel army to victory in 1959; his authoritarian rule held the subsequent regime together for nearly five decades. He handed off the presidency in February 2008 to his younger brother Raul CASTRO. Cuba's communist revolution, with Soviet support, was exported throughout Latin America and Africa during the 1960s, 1970s, and 1980s. Miguel DIAZ-CANEL Bermudez, hand-picked by Raul CASTRO to succeed him, was approved as president by the National Assembly and took office on 19 April 2018. DIAZ-CANEL was appointed First Secretary of the Communist Party on 19 April 2021 following the retirement of Raul CASTRO, and continues to serve as both president and first secretary.</p> <p>Cuba traditionally and consistently portrays the US embargo, in place since 1961, as the source of its difficulties. As a result of efforts begun in December 2014 to reestablish diplomatic relations with the Cuban Government, which were severed in January 1961, the US and Cuba reopened embassies in their respective countries in July 2015. The embargo remains in place, and the relationship between the US and Cuba remains tense. </p> <p>Illicit migration of Cuban nationals to the US via maritime and overland routes has been a longstanding challenge. On 12 January 2017, the US and Cuba signed a Joint Statement ending the so-called "wet-foot, dry-foot" policy – by which Cuban nationals who reached US soil were permitted to stay. Irregular Cuban maritime migration has dropped significantly since FY 2016, when migrant interdictions at sea topped 5,000, but land border crossings continue. In FY 2021, the US Coast Guard interdicted 838 Cuban nationals at sea. Also in FY 2021, 39,303 Cuban nationals presented themselves at various land border ports of entry throughout the US.</p><br>
 
 ## Geography
 
@@ -530,50 +530,39 @@ Cuban pesos (CUP) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-19.28 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 7.479 million kW (2020 est.)<br>
+_Consumption_: 16,097,460,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 3.429 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-16.16 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 95.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 1.4% of total installed capacity (2020 est.)<br>
+_Wind_: 0.1% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0.3% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 2.7% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 4,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 4,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-6.998 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-91% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-8% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-50,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-112,400 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-124 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 38,400 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 164,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 48,500 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 124 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 104,100 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-175,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 24,190 bbl/day (2015 est.)<br>
@@ -581,20 +570,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 52,750 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-1.189 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 976.023 million cubic meters (2019 est.)<br>
+_Consumption_: 976.023 million cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 70.792 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-1.189 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 16.478 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 28,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 14.636 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 1.814 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-70.79 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 32.785 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -658,13 +648,13 @@ _under 914 m_: 58 (2021)<br>
 41 km gas, 230 km oil (2013)<br>
 
 **Railways**<br>
-_total_: 8,125 km (2017)<br>
+_total_: 8,367 km (2017)<br>
 _standard gauge_: 8,195 km (2017) 1.435-m gauge (124 km electrified)<br>
 _narrow gauge_: 172 km (2017) 1.000-m gauge<br>
 <strong>note: </strong>As of 2013, 70 km of standard gauge and 12 km of narrow gauge track were not for public use<br>
 
 **Roadways**<br>
-_total_: 71,140 km (2015)<br>
+_total_: 60,000 km (2015)<br>
 _paved_: 20,000 km (2001)<br>
 _unpaved_: 40,000 km (2001)<br>
 

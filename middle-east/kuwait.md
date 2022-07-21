@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Kuwait has been ruled by the AL-SABAH dynasty since the 18th century. The threat of Ottoman invasion in 1899 prompted Amir Mubarak AL-SABAH to seek protection from Britain, ceding foreign and defense responsibility to Britain until 1961, when the country attained its independence. Kuwait was attacked and overrun by Iraq in August 1990. Following several weeks of aerial bombardment, a US-led UN coalition began a ground assault in February 1991 that liberated Kuwait in four days. In 1992, the Amir reconstituted the parliament that he had dissolved in 1986. Amid the 2010-11 uprisings and protests across the Arab world, stateless Arabs, known as Bidoon, staged small protests in early 2011 demanding citizenship, jobs, and other benefits available to Kuwaiti nationals. Other demographic groups, notably Islamists and Kuwaitis from tribal backgrounds, soon joined the growing protest movements, which culminated in late 2011 with the resignation of the prime minister amidst allegations of corruption. Demonstrations renewed in late 2012 in response to an amiri decree amending the electoral law that lessened the voting power of the tribal blocs. <br><br>An opposition coalition of Sunni Islamists, tribal populists, and some liberals, largely boycotted legislative elections in 2012 and 2013, which ushered in a legislature more amenable to the government's agenda. Faced with the prospect of painful subsidy cuts, oppositionists and independents actively participated in the November 2016 election, winning nearly half of the seats but a cohesive opposition alliance largely ceased to exist with the 2016 election and the opposition became increasingly factionalized. Since coming to power in 2006, the Amir has dissolved the National Assembly on seven occasions (the Constitutional Court annulled the Assembly elections in June 2012 and again in June 2013) and shuffled the cabinet over a dozen times, usually citing political stagnation and gridlock between the legislature and the government.<br><br>The current Amir, who assumed his role in 2020, launched a "National Dialogue" in September 2021 meant to resolve political gridlock. As part of the "National Dialogue," the Amir pardoned several opposition figures who had been living in exile, and they returned to Kuwait. Legislative challenges remain, and the cabinet was reshuffled in March 2022.</p><br>
+<p>Kuwait has been ruled by the AL-SABAH dynasty since the 18th century. The threat of Ottoman invasion in 1899 prompted Amir Mubarak AL-SABAH to seek protection from Britain, ceding foreign and defense responsibility to Britain until 1961, when the country attained its independence. Kuwait was attacked and overrun by Iraq in August 1990. Following several weeks of aerial bombardment, a US-led UN coalition began a ground assault in February 1991 that liberated Kuwait in four days. In 1992, the Amir reconstituted the parliament that he had dissolved in 1986. Amid the 2010-11 uprisings and protests across the Arab world, stateless Arabs, known as Bidoon, staged small protests in early 2011 demanding citizenship, jobs, and other benefits available to Kuwaiti nationals. Other demographic groups, notably Islamists and Kuwaitis from tribal backgrounds, soon joined the growing protest movements, which culminated in late 2011 with the resignation of the prime minister amidst allegations of corruption. Demonstrations renewed in late 2012 in response to an amiri decree amending the electoral law that lessened the voting power of the tribal blocs. <br><br>An opposition coalition of Sunni Islamists, tribal populists, and some liberals, largely boycotted legislative elections in 2012 and 2013, which ushered in a legislature more amenable to the government's agenda. Faced with the prospect of painful subsidy cuts, oppositionists and independents actively participated in the November 2016 election, winning nearly half of the seats, but a cohesive opposition alliance largely ceased to exist with the 2016 election and the opposition became increasingly factionalized. Since coming to power in 2006, the Amir has dissolved the National Assembly on seven occasions (the Constitutional Court annulled the Assembly elections in June 2012 and again in June 2013) and shuffled the cabinet over a dozen times, usually citing political stagnation and gridlock between the legislature and the government.<br><br>The current Amir, who assumed his role in 2020, launched a "National Dialogue" in September 2021 meant to resolve political gridlock. As part of the "National Dialogue," the Amir pardoned several opposition figures who had been living in exile, and they returned to Kuwait. Legislative challenges remain, and the cabinet was reshuffled in March 2022.</p><br>
 
 ## Geography
 
@@ -214,7 +214,7 @@ _female_: 2.2% (2020 est.)<br>
 3% (2014)<br>
 
 **Education expenditures**<br>
-6.6% of GDP (2020)<br>
+6.6% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -361,7 +361,7 @@ _email address and website_: <br>https://www.kuwaitembassy.us/<br>
 _consulate(s) general_: Beverly Hills (CA), New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires James HOLTSNIDER (July 2021)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires James HOLTSNIDER (since July 2021)<br>
 _embassy_: P.O. Box 77, Safat 13001<br>
 _mailing address_: 6200 Kuwait Place, Washington DC&nbsp; 20521-6200<br>
 _telephone_: [00] (965) 2259-1001<br>
@@ -521,50 +521,39 @@ Kuwaiti dinars (KD) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-65.95 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 19.371 million kW (2020 est.)<br>
+_Consumption_: 63,802,360,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 6.701 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-57.78 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 99.9% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0% of total installed capacity (2020 est.)<br>
+_Wind_: 0.1% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 68,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 68,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-18.89 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-100% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-2.807 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-479,700 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-101.5 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 2,720,500 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 342,000 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 1,837,900 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 101.5 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 915,800 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-446,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 705,500 bbl/day (2015 est.)<br>
@@ -572,20 +561,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 0 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-17.1 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 19,509,907,000 cubic meters (2019 est.)<br>
+_Consumption_: 24,322,970,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 4,805,531,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 1,783,958,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-21.72 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 92.582 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 578,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 44.288 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 47.715 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-5.125 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-1.784 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 381.985 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -615,7 +605,7 @@ _percent of population_: 99% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 73,948 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1.7 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 ## Transportation
 

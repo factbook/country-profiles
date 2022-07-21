@@ -541,50 +541,39 @@ _electrification - total population_: 47% (2019)<br>
 _electrification - urban areas_: 72% (2019)<br>
 _electrification - rural areas_: 31% (2019)<br>
 
-**Electricity - production**<br>
-4.784 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 1.772 million kW (2020 est.)<br>
+_Consumption_: 2,677,920,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 753 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-3.681 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 84.6% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 15.4% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 22,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 22,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-1.819 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-79% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-21% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-61,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-8,990 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-3 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 70,100 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 75,700 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 3 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 20,180 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-104,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 12,670 bbl/day (2015 est.)<br>
@@ -592,20 +581,21 @@ _electrification - rural areas_: 31% (2019)<br>
 **Refined petroleum products - imports**<br>
 75,940 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-481.4 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 89.906 million cubic meters (2019 est.)<br>
+_Consumption_: 89.906 million cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2020 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 478.554 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-481.4 million cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 10.158 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 79,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 9.896 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 183,000 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-478.5 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 5.453 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -635,7 +625,7 @@ _percent of population_: 27% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 391,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1.3 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -691,7 +681,7 @@ note &ndash; a considerable portion--up to 70 percent by some estimates--of Yeme
 <p>prior to the start of the civil war, annual military expenditures were approximately 4-5% of Yemen's GDP </p><br>
 
 **Military and security service personnel strengths**<br>
-information limited and widely varied; ROYG: up to 300,000 estimated military, paramilitary, and militia forces; UAE- and Saudi-backed forces: 150-200,000 estimated trained fighters; Huthis: up to 200,000 estimated fighters&nbsp; (2021)<br>
+information limited and widely varied; ROYG: up to 300,000 estimated military, paramilitary, and militia forces; UAE- and Saudi-backed forces: estimated 150-200,000 trained fighters; Huthis: up to 200,000 estimated fighters (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Yemeni Government forces consists primarily of Russian and Soviet-era equipment, although much of it has been lost in the current conflict; since the start of the civil war in 2014, it has received limited amounts of donated equipment from some Gulf States, including Saudi Arabia and UAE <br><br>Huthi forces are armed with weapons seized from Yemeni Government forces; in addition, they have reportedly received arms from Iran (2021)<br>
@@ -708,7 +698,7 @@ in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham - Yemen; al-Qa'ida in the Arabian Peninsula<br>
+Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham - Yemen; al-Qa'ida in the Arabian Peninsula (AQAP)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
@@ -717,6 +707,6 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p><em>Yemen-Oman</em>: none identified</p> <p><em>Yemen-Saudia Arabia:</em> in 2004, Saudi Arabia reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities, including militants and arms; in 2013 and 2015, Saudi Arabia again erected fences<br><br><br></p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 69,097 (Somalia), 17,705 (Ethiopia) (2022)<br>
+_refugees (country of origin)_: 69,097 (Somalia), 18,153 (Ethiopia) (2022)<br>
 _IDPs_: 4,288,739 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2022)<br>
 

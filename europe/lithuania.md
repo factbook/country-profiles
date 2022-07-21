@@ -216,7 +216,7 @@ _female_: 21.8% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.9% of GDP (2018)<br>
+3.9% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -347,7 +347,7 @@ _election results_: Gitanas NAUSEDA elected president in second round; percent o
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 11 and 25 October 2020 (next to be held in October 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, Freedom 11, DP 10, AWPL 3, LSDDP 3, LT 1, Greens 1, independent 4; composition - men 102, women 39, percent of women 27.7%<br>
+_election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, Freedom 11, DP 10, AWPL 3, LSDDP 3, LT 1, Greens 1, independent 4; composition as of July 2022 - men 101, women 40, percent of women 28.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)<br>
@@ -541,50 +541,39 @@ litai (LTL) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-3.131 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 3.512 million kW (2020 est.)<br>
+_Consumption_: 11.063 billion kWh (2020 est.)<br>
+_Exports_: 4.105 billion kWh (2020 est.)<br>
+_Imports_: 12.013 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 951 million kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-10.5 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 38% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 3% of total installed capacity (2020 est.)<br>
+_Wind_: 35.5% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 6.9% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 16.7% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-730 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 221,000 metric tons (2020 est.)<br>
+_Exports_: 75,000 metric tons (2020 est.)<br>
+_Imports_: 268,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-11.11 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-3.71 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-73% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-4% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-23% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-2,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-1,002 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-182,900 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-12 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 4,000 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 68,000 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 900 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 194,900 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 12 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 196,500 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-58,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 174,800 bbl/day (2015 est.)<br>
@@ -592,20 +581,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 42,490 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 2,230,854,000 cubic meters (2019 est.)<br>
+_Exports_: 497.923 million cubic meters (2020 est.)<br>
+_Imports_: 2,818,513,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-2.492 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 14.503 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 693,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 9.488 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 4.322 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-2.492 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (2016 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 101.651 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -723,7 +713,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 58,377 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 58,971 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

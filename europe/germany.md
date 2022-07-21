@@ -225,7 +225,12 @@ _female_: 19.9% (2020 est.)<br>
 0.5% (2014/17)<br>
 
 **Education expenditures**<br>
-5% of GDP (2018)<br>
+5% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -550,50 +555,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-612.8 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 248.265 million kW (2020 est.)<br>
+_Consumption_: 500,350,034,000 kWh (2020 est.)<br>
+_Exports_: 66.931 billion kWh (2020 est.)<br>
+_Imports_: 48.047 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 25,970,966,000 kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-536.5 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 40.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 11.1% of total installed capacity (2020 est.)<br>
+_Solar_: 9.2% of total installed capacity (2020 est.)<br>
+_Wind_: 23.9% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 4.5% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 10.4% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-78.86 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 114.86 million metric tons (2020 est.)<br>
+_Consumption_: 145.379 million metric tons (2020 est.)<br>
+_Exports_: 2.317 million metric tons (2020 est.)<br>
+_Imports_: 31.503 million metric tons (2020 est.)<br>
+_Proven reserves_: 35.9 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-28.34 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-208.5 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-41% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-5% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-52% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-41,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-6,569 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-1.836 million bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-129.6 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 135,000 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 2,346,500 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 1,720,600 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 115.2 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 2.158 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-2.46 million bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 494,000 bbl/day (2017 est.)<br>
@@ -601,20 +595,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 883,800 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-7.9 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 5,128,909,000 cubic meters (2020 est.)<br>
+_Consumption_: 87,546,767,000 cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2020 est.)<br>
+_Imports_: 83,121,531,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 23.39 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-93.36 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 726.881 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 218.636 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 316.064 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 192.181 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-34.61 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-119.5 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-39.5 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 161.174 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -684,7 +679,7 @@ _under 914 m_: 185 (2021)<br>
 _total_: 33,590 km (2017)<br>
 _standard gauge_: 33,331 km (2015) 1.435-m gauge (19,973 km electrified)<br>
 _narrow gauge_: 220 km 1.000-m gauge (79 km electrified)<br>
-15 km 0.900-m gauge, 24 km 0.750-m gauge (2015)<br>
+15 km 0.900-mm gauge, 24 km 0.750-mm gauge (2015)<br>
 
 **Roadways**<br>
 _total_: 625,000 km (2017)<br>
@@ -729,8 +724,8 @@ the German Federal Armed Forces inventory is mostly comprised of weapons systems
 note - in 2021, women accounted for about 12% of the German military<br>
 
 **Military deployments**<br>
-up to 500 Iraq (NATO/Counter-ISIS campaign); 550 Lithuania (NATO); up to 1,400 Mali (MINUSMA/EUTM) (2022)<br><br>note(s) - Germany is a contributing member of the EuroCorps; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
-note(s) - Germany is a contributing member of the EuroCorps; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+up to 500 Iraq (NATO); 550 Lithuania (NATO); up to 1,400 Mali (MINUSMA/EUTM) (2022)<br>
+<strong>note 1: </strong> Germany is a contributing member of the EuroCorps<br><br><strong>note 2: </strong> NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including Germany, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br><br>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group (2022)<br>
@@ -747,7 +742,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 867,000 (Ukraine) (as of 21 June 2022)<br>
+_refugees (country of origin)_: 616,325 (Syria), 152,677 (Afghanistan), 147,400 (Iraq), 62,152 (Eritrea), 45,704 (Iran), 34,465 (Turkey), 29,137 (Somalia), 9,329 (Russia), 9,323 (Nigeria), 8,600 (Pakistan), 7,503 (Serbia and Kosovo), 6,057 (Ethiopia) (mid-year 2021); 893,000 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 26,980 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>For much of its history, Guinea-Bissau was under the control of the Mali Empire and the Kaabu Kingdom. In the 16th century, Portugal began establishing trading posts along Guinea-Bissau’s shoreline. Initially, the Portuguese were restricted to the coastline and islands. However, the slave and gold trade was lucrative to local African leaders, and the Portuguese were slowly able to expand their power and influence inland. Starting in the 18th century, the Mali Empire and Kingdom of Kaabu slowly disintegrated into smaller local entities. By the 19th century, Portugal had fully incorporated Guinea-Bissau into its empire.<br><br>Since gaining independence in 1974, Guinea-Bissau has experienced considerable political and military upheaval. In 1980, a military coup established General Joao Bernardo 'Nino' VIEIRA as president. VIEIRA's regime suppressed political opposition and purged political rivals. Several coup attempts through the 1980s and early 1990s failed to unseat him. In May 1999, a military mutiny and civil war led to VIEIRA's ouster. In February 2000, a transitional government turned over power to opposition leader Kumba YALA. In September 2003, a bloodless military coup overthrew YALA and installed businessman Henrique ROSA as interim president. In 2005, former President VIEIRA was reelected, pledging to pursue economic development and national reconciliation; he was assassinated in March 2009. In June 2009, Malam Bacai SANHA was elected president, but he passed away in January 2012 from a long-term illness. In April 2012, a military coup prevented the second-round of the presidential election from taking place. Following mediation from the Economic Community of Western African States (ECOWAS), a civilian transitional government assumed power. In 2014, Jose Mario VAZ was elected president after a free and fair election. In June 2019, VAZ became the first president in Guinea-Bissau’s history to complete a full presidential term. Umaro Sissoco EMBALO was elected president in December 2019, but he did not take office until February 2020 because of a prolonged challenge to the election results.</p><br>
+<p>For much of its history, Guinea-Bissau was under the control of the Mali Empire and the Kaabu Kingdom. In the 16th century, Portugal began establishing trading posts along Guinea-Bissau’s shoreline. Initially, the Portuguese were restricted to the coastline and islands. However, the slave and gold trades were lucrative to local African leaders, and the Portuguese were slowly able to expand their power and influence inland. Starting in the 18th century, the Mali Empire and Kingdom of Kaabu slowly disintegrated into smaller local entities. By the 19th century, Portugal had fully incorporated Guinea-Bissau into its empire.<br><br>Since gaining independence in 1974, Guinea-Bissau has experienced considerable political and military upheaval. In 1980, a military coup established General Joao Bernardo 'Nino' VIEIRA as president. VIEIRA's regime suppressed political opposition and purged political rivals. Several coup attempts through the 1980s and early 1990s failed to unseat him. In May 1999, a military mutiny and civil war led to VIEIRA's ouster. In February 2000, a transitional government turned over power to opposition leader Kumba YALA. In September 2003, a bloodless military coup overthrew YALA and installed businessman Henrique ROSA as interim president. In 2005, former President VIEIRA was reelected, pledging to pursue economic development and national reconciliation; he was assassinated in March 2009. In June 2009, Malam Bacai SANHA was elected president, but he passed away in January 2012 from a long-term illness. In April 2012, a military coup prevented the second-round of the presidential election from taking place. Following mediation from the Economic Community of Western African States, a civilian transitional government assumed power. In 2014, Jose Mario VAZ was elected president after a free and fair election. In June 2019, VAZ became the first president in Guinea-Bissau’s history to complete a full presidential term. Umaro Sissoco EMBALO was elected president in December 2019, but he did not take office until February 2020 because of a prolonged challenge to the election results.</p><br>
 
 ## Geography
 
@@ -222,7 +222,7 @@ _women married by age 18_: 25.7%<br>
 _men married by age 18_: 2.2% (2019 est.)<br>
 
 **Education expenditures**<br>
-2.9% of GDP (2019)<br>
+2.9% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -513,50 +513,39 @@ _electrification - total population_: 28% (2019)<br>
 _electrification - urban areas_: 56% (2019)<br>
 _electrification - rural areas_: 7% (2019)<br>
 
-**Electricity - production**<br>
-39 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 28,000 kW (2020 est.)<br>
+_Consumption_: 76.458 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 6 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-36.27 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 97.6% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 2.4% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-28,300 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-99% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 2,200 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-2,700 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -564,20 +553,21 @@ _electrification - rural areas_: 7% (2019)<br>
 **Refined petroleum products - imports**<br>
 2,625 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 342,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 342,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 2.46 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -603,7 +593,7 @@ _percent of population_: 23% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,383 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.12 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
 
 ## Transportation
 
@@ -630,7 +620,7 @@ _paved_: 453 km (2018)<br>
 _unpaved_: 3,947 km (2018)<br>
 
 **Waterways**<br>
-(2012) (rivers are partially navigable; many inlets and creeks provide shallow-water access to much of interior)<br>
+1,367 km (2022) major rivers Geba- 550km, Corubal 560 km, Cacheu 257 km (rivers are partially navigable; many inlets and creeks provide shallow-water access to much of interior)<br>
 
 **Merchant marine**<br>
 _total_: 8<br>

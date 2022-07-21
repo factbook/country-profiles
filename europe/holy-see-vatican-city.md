@@ -143,6 +143,11 @@ NA<br>
 **Education expenditures**<br>
 NA<br>
 
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
+
 ## Environment
 
 **Environment - current issues**<br>

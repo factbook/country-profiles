@@ -212,7 +212,12 @@ _female_: 12% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-7.6% of GDP (2018)<br>
+7.6% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
@@ -521,50 +526,39 @@ Icelandic kronur (ISK) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-18.17 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 2.967 million kW (2020 est.)<br>
+_Consumption_: 17,912,066,000 kWh (2020 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 519 million kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-17.68 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 0% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 67.6% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 32.3% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 142,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 136,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-2.772 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-4% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-71% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-25% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 19,700 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-20,850 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 2,530 bbl/day (2017 est.)<br>
@@ -572,20 +566,18 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 20,220 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 3.337 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 459,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 2.879 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
 ## Communications
 

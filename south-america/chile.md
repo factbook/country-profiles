@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-Indigenous groups inhabited central and southern Chile for several thousands of years, living in mixed pastoralist and settled communities, ending with the Inka ruling the north of the country for nearly a century prior to the arrival of the Spanish in the 16th century. The Captaincy General of Chile was founded by the Spanish in 1541, lasting until Chile declared its independence in 1810. The subsequent struggle became tied to other South American independence conflicts, with a decisive victory over the Spanish not being achieved until 1818. In the War of the Pacific (1879-83), Chile defeated Peru and Bolivia to win its current northernmost regions. By the 1880s, the Chilean central government cemented its control over the central and southern regions inhabited by Mapuche Indigenous peoples. Between 1891 and 1973, a series of elected governments succeeded each other until the three-year-old Marxist government of Salvador ALLENDE was overthrown in 1973 by a military coup led by General Augusto PINOCHET, who ruled until a democratically-elected president was inaugurated in 1990. Economic reforms, maintained consistently since the 1980s, contributed to steady growth, reduced poverty rates by over half, and helped secure the country's commitment to democratic and representative government. Chile has increasingly assumed regional and international leadership roles befitting its status as a stable, democratic nation.<br>
+Indigenous groups inhabited central and southern Chile for several thousands of years, living in mixed pastoralist and settled communities, ending with the Inca ruling the north of the country for nearly a century prior to the arrival of the Spanish in the 16th century. The Captaincy General of Chile was founded by the Spanish in 1541, lasting until Chile declared its independence in 1810. The subsequent struggle became tied to other South American independence conflicts, with a decisive victory over the Spanish not being achieved until 1818. In the War of the Pacific (1879-83), Chile defeated Peru and Bolivia to win its current northernmost regions. By the 1880s, the Chilean central government cemented its control over the central and southern regions inhabited by Mapuche Indigenous peoples. Between 1891 and 1973, a series of elected governments succeeded each other until the three-year-old Marxist government of Salvador ALLENDE was overthrown in 1973 by a military coup led by General Augusto PINOCHET, who ruled until a democratically elected president was inaugurated in 1990. Economic reforms, maintained consistently since the 1980s, contributed to steady growth, reduced poverty rates by over half, and helped secure the country's commitment to democratic and representative government. Chile has increasingly assumed regional and international leadership roles befitting its status as a stable, democratic nation.<br>
 
 ## Geography
 
@@ -202,7 +202,7 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 77,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-(2018) <1000<br>
+(2018) <1,000<br>
 
 **Obesity - adult prevalence rate**<br>
 28% (2016)<br>
@@ -216,7 +216,7 @@ _female_: 26.8% (2020 est.)<br>
 0.5% (2014)<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2018)<br>
+5.4% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -538,50 +538,39 @@ Chilean pesos (CLP) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-76.09 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 29.808 million kW (2020 est.)<br>
+_Consumption_: 75.302 billion kWh (2020 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 4.62 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-73.22 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 51.9% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 9.5% of total installed capacity (2020 est.)<br>
+_Wind_: 6.9% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 26% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0.3% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 5.4% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 542,000 metric tons (2020 est.)<br>
+_Consumption_: 10.573 million metric tons (2020 est.)<br>
+_Exports_: 134,000 metric tons (2020 est.)<br>
+_Imports_: 10.607 million metric tons (2020 est.)<br>
+_Proven reserves_: 1.181 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-24.53 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-59% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-26% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-15% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-3,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-169,600 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-150 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 11,900 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 361,700 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 172,700 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 216,200 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-354,500 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 7,359 bbl/day (2017 est.)<br>
@@ -589,20 +578,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 166,400 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-1.218 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 1,109,962,000 cubic meters (2020 est.)<br>
+_Consumption_: 6,558,312,000 cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 4,602,471,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 97.976 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-5.125 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 88.333 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 24.217 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 51.228 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 12.888 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-277.5 million cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-4.446 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-97.97 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 81.953 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -670,7 +660,7 @@ _under 914 m_: 319 (2021)<br>
 3,160 km gas, 781 km liquid petroleum gas, 985 km oil, 722 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 7,282 km (2014)<br>
+_total_: 7,281.5 km (2014)<br>
 _narrow gauge_: 3,853.5 km (2014) 1.000-m gauge<br>
 _broad gauge_: 3,428 km (2014) 1.676-m gauge (1,691 km electrified)<br>
 

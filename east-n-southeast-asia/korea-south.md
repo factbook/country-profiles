@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The first recorded kingdom (Choson) on the Korean Peninsula dates from approximately 2300 B.C. Over the subsequent centuries, three main kingdoms - Kogoryo, Paekche, and Silla - were established on the Peninsula.  By the 5th century A.D., Kogoryo emerged as the most powerful, with control over much of the Peninsula, as well as part of Manchuria (modern-day northeast China).  However, Silla allied with the Chinese to create the first unified Korean state in the late 7th century (688).  Following the collapse of Silla in the 9th century, Korea was unified under the Koryo (Goryeo; 918-1392) and the Chosen (Joseon; 1392-1910) dynasties.</p> <p>Korea became the object of intense imperialistic rivalry between the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. Following the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-1905), Korea was occupied by Imperial Japan. In 1910, Tokyo formally annexed the entire Peninsula. Korea regained its independence following Japan's surrender to the US and its allies in 1945. After World War II, a democratic government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula while a communist-style government was installed in the north (North Korea; aka Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a North Korea invasion supported by communist China and the Soviet Union. A 1953 armistice split the Peninsula along a demilitarized zone at about the 38th parallel. PARK Chung-hee took over leadership of the country in a 1961 coup. During his regime from 1961 to 1979, South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea in 1979.</p> <p>Park was assassinated in 1979, and subsequent years were marked by political turmoil and continued authoritarian rule as the country's pro-democracy movement grew. South Korea held its first free presidential election under a revised democratic constitution in 1987, with former South Korean Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam (1993-98) became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his "Sunshine Policy" of engagement with North Korea. President PARK Geun-hye, daughter of former South Korean President PARK Chung-hee, took office in February 2013 as South Korea's first female leader. In December 2016, the National Assembly passed an impeachment motion against President PARK over her alleged involvement in a corruption and influence-peddling scandal, immediately suspending her presidential authorities. The impeachment was upheld in March 2017, triggering an early presidential election in May 2017 won by MOON Jae-in. <br><br>South Korea hosted the Winter Olympic and Paralympic Games in February 2018, in which North Korea also participated. Discord with North Korea has permeated inter-Korean relations for much of the past decade, highlighted by North Korea's attacks on a South Korean ship and island in 2010, the exchange of artillery fire across the DMZ in 2015, and multiple nuclear and missile tests in 2016 and 2017. North Korea’s participation in the Winter Olympics, dispatch of a senior delegation to Seoul, and three inter-Korean summits in 2018 appear to have ushered in a temporary period of respite, buoyed by the historic US-North Korea summits in 2018 and 2019. Nevertheless, relations were stagnant into early 2022</p> <table> <tbody> <tr> <td> </td> </tr> </tbody> </table><br>
+<p>The first recorded kingdom (Choson) on the Korean Peninsula dates from approximately 2300 B.C. Over the subsequent centuries, three main kingdoms - Kogoryo, Paekche, and Silla - were established on the Peninsula.  By the 5th century A.D., Kogoryo emerged as the most powerful, with control over much of the Peninsula, as well as part of Manchuria (modern-day northeast China).  However, Silla allied with the Chinese to create the first unified Korean state in the late 7th century (688).  Following the collapse of Silla in the 9th century, Korea was unified under the Koryo (Goryeo; 918-1392) and the Chosen (Joseon; 1392-1910) dynasties.</p> <p>Korea became the object of intense imperialistic rivalry between the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. Following the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-1905), Korea was occupied by Imperial Japan. In 1910, Tokyo formally annexed the entire Peninsula. Korea regained its independence following Japan's surrender to the US and its allies in 1945. After World War II, a democratic government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula while a communist-style government was installed in the north (North Korea; aka Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a North Korean invasion supported by communist China and the Soviet Union. A 1953 armistice split the Peninsula along a demilitarized zone at about the 38th parallel. PARK Chung-hee took over leadership of the country in a 1961 coup. During his regime from 1961 to 1979, South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea in 1979.</p> <p>PARK was assassinated in 1979, and subsequent years were marked by political turmoil and continued authoritarian rule as the country's pro-democracy movement grew. South Korea held its first free presidential election under a revised democratic constitution in 1987, with former South Korean Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam (1993-98) became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his "Sunshine Policy" of engagement with North Korea. President PARK Geun-hye, daughter of former South Korean President PARK Chung-hee, took office in February 2013 as South Korea's first female leader. In December 2016, the National Assembly passed an impeachment motion against President PARK over her alleged involvement in a corruption and influence-peddling scandal, immediately suspending her presidential authorities. The impeachment was upheld in March 2017, triggering an early presidential election in May 2017 won by MOON Jae-in. <br><br>South Korea hosted the Winter Olympic and Paralympic Games in February 2018, in which North Korea also participated. Discord with North Korea has permeated inter-Korean relations for much of the past decade, highlighted by North Korea's attacks on a South Korean ship and island in 2010, the exchange of artillery fire across the DMZ in 2015, and multiple nuclear and missile tests in 2016 and 2017. North Korea’s participation in the Winter Olympics, dispatch of a senior delegation to Seoul, and three inter-Korean summits in 2018 appear to have ushered in a temporary period of respite, buoyed by the historic US-North Korea summits in 2018 and 2019. Nevertheless, relations were stagnant into early 2022.</p> <table> <tbody> <tr> <td> </td> </tr> </tbody> </table><br>
 
 ## Geography
 
@@ -218,10 +218,12 @@ _female_: 5.9% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.5% of GDP (2018)<br>
+4.5% of GDP (2018 est.)<br>
 
 **Literacy**<br>
-_definition_: age 15 and over can read and write (2019)<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -537,50 +539,38 @@ South Korean won (KRW) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-526 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 135.789 million kW (2020 est.)<br>
+_Consumption_: 531.258 billion kWh (2020 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 18.61 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-507.6 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 64.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 27.7% of total installed capacity (2020 est.)<br>
+_Solar_: 3.3% of total installed capacity (2020 est.)<br>
+_Wind_: 0.6% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 1.3% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0.7% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 16.364 million metric tons (2020 est.)<br>
+_Consumption_: 140.579 million metric tons (2020 est.)<br>
+_Exports_: 16,000 metric tons (2020 est.)<br>
+_Imports_: 123.784 million metric tons (2020 est.)<br>
+_Proven reserves_: 326 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-111.2 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-70% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-21% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-8% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-3.057 million bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-(1 January 2017 est.) NA<br>
+**Petroleum**<br>
+_Total petroleum production_: 37,400 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 2,598,700 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 3,034,400 barrels/day (2018 est.)<br>
 
 **Refined petroleum products - production**<br>
 3.302 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-2.584 million bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 1.396 million bbl/day (2017 est.)<br>
@@ -588,20 +578,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 908,800 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-339.8 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 240.042 million cubic meters (2019 est.)<br>
+_Consumption_: 53,419,105,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2019 est.)<br>
+_Imports_: 55,417,677,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 7.079 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-45.28 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 686.954 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 319.383 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 255.518 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 112.052 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-48.65 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-7.079 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 242.346 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -712,7 +703,7 @@ the South Korean military is equipped with a mix of domestically-produced and im
 note(s) - women, in service since 1950, are able to serve in all branches, including as officers, and in 2020 comprised about 7.5% of the active duty military; in 2021, about 330,000 of the military's active personnel were conscripts; South Korea intends to reduce the length of military service to 18 &ndash; 22 months by 2022<br>
 
 **Military deployments**<br>
-260 Lebanon (UNIFIL); 280 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, the ROK has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (2022)<br>
+260 Lebanon (UNIFIL); 280 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, South Korea has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (2022)<br>
 
 **Military - note**<br>
 <p>the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of South Korea’s security; the Treaty committed the US to provide assistance in the event of an attack, particularly from North Korea; in addition, the Treaty gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; as of 2022, the US maintained approximately 28,000 military personnel in the country</p> <p>the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>South Korea has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>in 2016, South Korea concluded an agreement with the European Union for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as the EU Naval Force Somalia – Operation Atalanta, which protects maritime shipping and conducts counter-piracy operations off the coast of East Africa</p> <p>South Korea has been engaged with NATO through dialogue and security cooperation since 2005 and is considered by NATO to be a global partner; it has participated in NATO-led missions and exercises, including leading an integrated civilian-military reconstruction team in Afghanistan as part of the NATO-led International Security Assistance Force, 2010-2013; it has also cooperated with NATO in countering the threat of piracy in the Gulf of Aden by providing naval vessels as escorts</p> <p>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line (NLL), including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean corvette, the <em>Cheonan</em>, in 2010, and the bombardment of a South Korean Marine Corps installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the North and the South Korean militaries maintain large numbers of troops<br><br>in 2018, North Korea and South Korea signed a tension reduction agreement known as the Comprehensive Military Agreement (CMA), which established land, sea, and air buffer zones along the DMZ and the NLL; implementation of the CMA required the removal of some land mines and guard posts; the efforts led to a reduction of tension in the DMZ, but as of 2022 North Korea had failed to uphold much of its side of the agreement</p><br>

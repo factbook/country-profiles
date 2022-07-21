@@ -216,7 +216,7 @@ _female_: 23% (2020 est.)<br>
 0.4% (2013/15)<br>
 
 **Education expenditures**<br>
-5.2% of GDP (2018)<br>
+5.2% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -538,50 +538,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-11.55 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 3.03 million kW (2020 est.)<br>
+_Consumption_: 9.172 billion kWh (2020 est.)<br>
+_Exports_: 3.722 billion kWh (2020 est.)<br>
+_Imports_: 7.367 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 375 million kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-8.795 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 55.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 2% of total installed capacity (2020 est.)<br>
+_Wind_: 14.3% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0.7% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 27.2% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-5.613 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 3,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 3,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-3.577 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-2.578 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-72% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-28% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 21,800 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 27,500 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-28,300 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 27,150 bbl/day (2017 est.)<br>
@@ -589,20 +578,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 35,520 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 417.106 million cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 417.276 million cubic meters (2020 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-481.4 million cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 4.924 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 44,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 3.979 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 901,000 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-481.4 million cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (2016 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 76.329 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -717,7 +707,7 @@ Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia ha
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 44,901 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 45,935 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 71,873 (mid-year 2021); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

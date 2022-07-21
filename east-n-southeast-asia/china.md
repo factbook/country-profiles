@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>China's historical civilization dates to at least 13th century B.C., first under the Shang (to 1046 B.C.) and then the Zhou (1046-221 B.C) dynasties. The imperial era of China began in 221 B.C. under the Qin Dynasty and lasted until the fall of the Qing Dynasty in 1912. During this period, China alternated between periods of unity and disunity under a succession of imperial dynasties. In the 19th century, the Qing Dynasty suffered heavily from overextension by territorial conquest, insolvency, civil war, imperialism, military defeats, and foreign expropriation of ports and infrastructure. It collapsed following the Revolution of 1911, and China became a republic under SUN Yat-sen of the Kuomintang (KMT or Nationalist) Party. However, the republic was beset by division, warlordism, and continued foreign intervention. In the late 1920s, a civil war erupted between the ruling KMT-controlled government led by CHIANG Kai-shek, and the Chinese Communist Party (CCP). Japan occupied much of northeastern China in the early 1930s, and then launched a full-scale invasion of the country in 1937. The resulting eight years of warfare devastated the country and cost up to 20 million Chinese lives by the time of Japan’s defeat in 1945. The Nationalist-Communist civil war continued with renewed intensity following the end of World War II and culminated with a CCP victory in 1949, under the leadership of MAO Zedong.<br><br>MAO and the CCP established an autocratic socialist system that, while ensuring the PRC's sovereignty, imposed strict controls over everyday life and launched agricultural, economic, political, and social policies - such as the Great Leap Forward (1958-1962) and the Cultural Revolution (1966-1976) - that cost the lives of millions of people. MAO died in 1976. Beginning in 1978, subsequent leaders DENG Xiaoping, JIANG Zemin, and HU Jintao focused on market-oriented economic development and opening up the country to foreign trade, while maintaining the rule of the CCP. Since the change, China has been among the world’s fastest growing economies, with real gross domestic product averaging over 9% growth annually through 2021, lifting an estimated 800 million people out of poverty, and dramatically improving overall living standards. By 2011, the PRC’s economy was the second largest in the world. The growth, however, has created considerable social displacement, adversely affected the country’s environment, and reduced the country’s natural resources. Current leader XI Jinping has continued these policies, but also has maintained tight political controls. Over the past decade, China has also increased its global outreach, including military deployments, participation in international organizations, and initiating a global connectivity initiative in 2013 called the "Belt and Road Initiative" (BRI). While many nations have signed on to BRI agreements to attract PRC investment, others have balked the opaque lending behavior; weak environment, social, and governance (ESG) standards; and other practices that undermine local governance and foster corruption associated with some BRI-linked projects. XI Jinping assumed the positions of General Secretary of the Chinese Communist Party and Chairman of the Central Military Commission in 2012 and President in 2013. In March 2018, the PRC’s National People’s Congress passed an amendment abolishing presidential term limits, opening the door for XI to seek a third five-year term in 2023.</p> <p> </p><br>
+<p>China's historical civilization dates to at least 13th century B.C., first under the Shang (to 1046 B.C.) and then the Zhou (1046-221 B.C) dynasties. The imperial era of China began in 221 B.C. under the Qin Dynasty and lasted until the fall of the Qing Dynasty in 1912. During this period, China alternated between periods of unity and disunity under a succession of imperial dynasties. In the 19th century, the Qing Dynasty suffered heavily from overextension by territorial conquest, insolvency, civil war, imperialism, military defeats, and foreign expropriation of ports and infrastructure. It collapsed following the Revolution of 1911, and China became a republic under SUN Yat-sen of the Kuomintang (KMT or Nationalist) Party. However, the republic was beset by division, warlordism, and continued foreign intervention. In the late 1920s, a civil war erupted between the ruling KMT-controlled government led by CHIANG Kai-shek, and the Chinese Communist Party (CCP). Japan occupied much of northeastern China in the early 1930s, and then launched a full-scale invasion of the country in 1937. The resulting eight years of warfare devastated the country and cost up to 20 million Chinese lives by the time of Japan’s defeat in 1945. The Nationalist-Communist civil war continued with renewed intensity following the end of World War II and culminated with a CCP victory in 1949, under the leadership of MAO Zedong.<br><br>MAO and the CCP established an autocratic socialist system that, while ensuring the PRC's sovereignty, imposed strict controls over everyday life and launched agricultural, economic, political, and social policies - such as the Great Leap Forward (1958-1962) and the Cultural Revolution (1966-1976) - that cost the lives of millions of people. MAO died in 1976. Beginning in 1978, subsequent leaders DENG Xiaoping, JIANG Zemin, and HU Jintao focused on market-oriented economic development and opening up the country to foreign trade, while maintaining the rule of the CCP. Since the change, China has been among the world’s fastest growing economies, with real gross domestic product averaging over 9% growth annually through 2021, lifting an estimated 800 million people out of poverty, and dramatically improving overall living standards. By 2011, the PRC’s economy was the second largest in the world. The growth, however, has created considerable social displacement, adversely affected the country’s environment, and reduced the country’s natural resources. Current leader XI Jinping has continued these policies, but also has maintained tight political controls. Over the past decade, China has also increased its global outreach, including military deployments, participation in international organizations, and initiating a global connectivity initiative in 2013 called the "Belt and Road Initiative" (BRI). While many nations have signed on to BRI agreements to attract PRC investment, others have balked at the opaque lending behavior; weak environment, social, and governance (ESG) standards; and other practices that undermine local governance and foster corruption associated with some BRI-linked projects. XI Jinping assumed the positions of General Secretary of the Chinese Communist Party and Chairman of the Central Military Commission in 2012 and President in 2013. In March 2018, the PRC’s National People’s Congress passed an amendment abolishing presidential term limits, opening the door for XI to seek a third five-year term in 2023.</p> <p> </p><br>
 
 ## Geography
 
@@ -233,7 +233,7 @@ _female_: 1.7% (2020 est.)<br>
 2.4% (2013)<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2018)<br>
+3.5% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -574,50 +574,39 @@ Renminbi yuan (RMB) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-5.883 trillion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 2,217,925,000 kW (2020 est.)<br>
+_Consumption_: 6,875,088,640,000 kWh (2019 est.)<br>
+_Exports_: 21.655 billion kWh (2019 est.)<br>
+_Imports_: 4.858 billion kWh (2019 est.)<br>
+_Transmission/distribution losses_: 333.01 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-5.564 trillion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 66% of total installed capacity (2020 est.)<br>
+_Nuclear_: 4.8% of total installed capacity (2020 est.)<br>
+_Solar_: 3.5% of total installed capacity (2020 est.)<br>
+_Wind_: 6.2% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 17.8% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.6% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-18.91 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 4,314,681,000 metric tons (2020 est.)<br>
+_Consumption_: 4,506,387,000 metric tons (2020 est.)<br>
+_Exports_: 6.652 million metric tons (2020 est.)<br>
+_Imports_: 307.047 million metric tons (2020 est.)<br>
+_Proven reserves_: 141.595 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-6.185 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-1.653 billion kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-62% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-18% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-18% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-3.773 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-57,310 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-6.71 million bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-25.63 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 4,712,200 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 14,007,500 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 52,500 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 9,238,100 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 26,022,600,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 11.51 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-12.47 million bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 848,400 bbl/day (2015 est.)<br>
@@ -625,20 +614,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 1.16 million bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-145.9 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 179,317,495,000 cubic meters (2019 est.)<br>
+_Consumption_: 306,576,649,000 cubic meters (2019 est.)<br>
+_Exports_: 3,548,831,000 cubic meters (2019 est.)<br>
+_Imports_: 131,608,161,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 6,654,250,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-238.6 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 10,773,248,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 8,652,419,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1,520,552,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 600.276 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-3.37 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-97.63 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-5.44 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 105.687 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -709,7 +699,7 @@ _under 914 m_: 13 (2021)<br>
 _total_: 150,000 km (2021) 1.435-m gauge (100,000 km electrified); 104,0000 traditional, 40,000 high-speed<br>
 
 **Roadways**<br>
-_total_: 45.2 million km (2020)<br>
+_total_: 52 million km (2020)<br>
 _paved_: 4.578 million km (2020) (includes 168000 km of expressways)<br>
 _unpaved_: 622,000 km (2017)<br>
 

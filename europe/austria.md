@@ -221,7 +221,12 @@ _female_: 25% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.2% of GDP (2018)<br>
+5.2% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -347,7 +352,7 @@ _election results_: Alexander VAN DER BELLEN elected in second round; percent of
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: <br>Federal Council - last appointed in 2021<br>National Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election<br>
-_election results_: <br>Federal Council - percent of vote by party - NA; seats by party - NA; composition (as of March 2022) - men 36, women 25, percent of women 41% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition (as of March 2022) - men 107, women 76, percent of women 41.5%; note - total Federal Assembly percent of women 41.4%<br>
+_election results_: <br>Federal Council - percent of vote by party - OeVP 42.6%, SPOe 31.2%. FPOe 16.4%, The Greens 8.2%, NEOS 1.6%; seats by party - OeVP 26, SPOe 19, FPOe 10, The Greens 5, NEOS 1; composition (as of March 2022) - men 36, women 25, percent of women 41% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition (as of March 2022) - men 107, women 76, percent of women 41.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case)<br>
@@ -542,50 +547,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-60.78 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 28.376 million kW (2020 est.)<br>
+_Consumption_: 69,905,200,000 kWh (2020 est.)<br>
+_Exports_: 22,918,265,000 kWh (2020 est.)<br>
+_Imports_: 24.522 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 3.192 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-64.6 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 17.4% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 2.8% of total installed capacity (2020 est.)<br>
+_Wind_: 9.4% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 62.9% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 7.4% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-19.21 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 1.327 million metric tons (2020 est.)<br>
+_Consumption_: 4.899 million metric tons (2020 est.)<br>
+_Exports_: 1,000 metric tons (2020 est.)<br>
+_Imports_: 3.667 million metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-26.37 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-24.79 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-25% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-43% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-31% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-13,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-146,600 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-41.2 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 20,100 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 278,700 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 168,300 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 35.2 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 186,500 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-268,000 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 49,960 bbl/day (2017 est.)<br>
@@ -593,20 +587,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 135,500 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-1.274 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 924.515 million cubic meters (2019 est.)<br>
+_Consumption_: 9,207,632,000 cubic meters (2019 est.)<br>
+_Exports_: 2,800,248,000 cubic meters (2019 est.)<br>
+_Imports_: 14,114,028,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 5.04 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-9.486 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 65.54 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 10.508 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 37.336 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 17.695 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-5.437 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-14.02 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-6.513 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 171.299 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -676,7 +671,7 @@ _under 914 m_: 24 (2021)<br>
 1,888 km gas, 594 km oil, 157 km refined products (2017)<br>
 
 **Railways**<br>
-_total_: 5,800 km (2017)<br>
+_total_: 5,300 km (2018) (2017)<br>
 _standard gauge_: 5,300 km 1.435-m gauge (3,826 km electrified) (2016)<br>
 
 **Roadways**<br>

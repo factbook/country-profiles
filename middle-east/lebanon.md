@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-As a result of its location at the crossroads of three continents, the area that is modern-day Lebanon is rich in cultural and religious diversity. This region was subject to various foreign conquests for much of its history, including by the Romans, Arabs, and Ottomans. Following World War I, France acquired a mandate over the northern portion of the former Ottoman Empire province of Syria. The French demarcated the region of Lebanon in 1920 and it gained independence in 1943. Since then, Lebanon has experienced periods of political turmoil interspersed with prosperity built on its historical position as a regional center for finance and trade, although that status has significantly diminished since the beginning of Lebanon&rsquo;s economic crisis in 2019, which includes simultaneous currency, debt, and banking crises. The country's 1975-90 civil war, which resulted in an estimated 120,000 fatalities, was followed by years of social and political instability. Sectarianism is a key element of Lebanese political life. Neighboring Syria has historically influenced Lebanon's foreign and domestic policies, and its military occupied Lebanon from 1976 until 2005. Hizballah - a major Lebanese political party, militia, and US-designated foreign terrorist organization - and Israel continued attacks and counterattacks against each other after Syria's withdrawal, and fought a brief war in 2006. Lebanon's borders with Syria and Israel remain unresolved.<br>
+As a result of its location at the crossroads of three continents, the area that is modern-day Lebanon is rich in cultural and religious diversity. This region was subject to various foreign conquests for much of its history, including by the Romans, Arabs, and Ottomans. Following World War I, France acquired a mandate over the northern portion of the former Ottoman Empire province of Syria. From it the French demarcated the region of Lebanon in 1920, and it gained independence in 1943. Since then, Lebanon has experienced periods of political turmoil interspersed with prosperity built on its historical position as a regional center for finance and trade, although that status has significantly diminished since the beginning of Lebanon&rsquo;s economic crisis in 2019, which includes simultaneous currency, debt, and banking crises. The country's 1975-90 civil war, which resulted in an estimated 120,000 fatalities, was followed by years of social and political instability. Sectarianism is a key element of Lebanese political life. Neighboring Syria has historically influenced Lebanon's foreign and domestic policies, and its military occupied Lebanon from 1976 until 2005. Hizballah - a major Lebanese political party, militia, and US-designated foreign terrorist organization - and Israel continued attacks and counterattacks against each other after Syria's withdrawal, and fought a brief war in 2006. Lebanon's borders with Syria and Israel remain unresolved.<br>
 
 ## Geography
 
@@ -215,7 +215,7 @@ _women married by age 15_: 1.4%<br>
 _women married by age 18_: 6% (2016 est.)<br>
 
 **Education expenditures**<br>
-2.6% of GDP (2019)<br>
+2.6% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -537,50 +537,39 @@ Lebanese pounds (LBP) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-17.59 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 3.768 million kW (2020 est.)<br>
+_Consumption_: 18,715,620,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 900 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 2.219 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-15.71 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 94.3% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.5% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 5% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.2% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 268,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 268,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-69 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-2.346 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-88% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-11% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 168,500 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-154,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -588,20 +577,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 151,100 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 25.838 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 563,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 25.275 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 53.528 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -711,7 +701,7 @@ as of 2022, the Lebanese military faced multiple challenges, including securing 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Hizballah; al-Nusrah Front (Hay'at Tahrir al-Sham); Palestine Liberation Front; PFLP-General Command; Popular Front for the Liberation of Palestine<br>
+Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; HAMAS; Hizballah; Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Nusrah Front (Hay'at Tahrir al-Sham); Palestine Liberation Front; Popular Front for the Liberation of Palestine (PFLP); PFLP-General Command<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

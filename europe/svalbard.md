@@ -139,6 +139,9 @@ _unimproved: total_: total: NA<br>
 **Current Health Expenditure**<br>
 NA<br>
 
+**Physicians density**<br>
+NA<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -161,6 +164,11 @@ NA<br>
 
 **Education expenditures**<br>
 NA<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 ## Environment
 
@@ -265,35 +273,11 @@ Norwegian kroner (NOK) per US dollar -<br>
 
 ## Energy
 
-**Crude oil - production**<br>
-194,300 bbl/day (2014 est.)<br>
-
-**Crude oil - exports**<br>
-16,070 bbl/day (2012 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2012 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-80,250 bbl/day (2013 est.)<br>
-
 **Refined petroleum products - exports**<br>
 4,488 bbl/day (2012 est.)<br>
 
 **Refined petroleum products - imports**<br>
 18,600 bbl/day (2012 est.)<br>
-
-**Natural gas - production**<br>
-0 cu m (2013 est.)<br>
-
-**Natural gas - consumption**<br>
-0 cu m (2013 est.)<br>
-
-**Natural gas - exports**<br>
-0 cu m (2013 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2013 est.)<br>
 
 ## Communications
 

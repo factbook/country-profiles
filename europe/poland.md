@@ -224,7 +224,7 @@ _female_: 20.1% (2020 est.)<br>
 0.7% (2010/12)<br>
 
 **Education expenditures**<br>
-4.6% of GDP (2018)<br>
+4.6% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -558,50 +558,39 @@ zlotych (PLN) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-156.9 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 47.269 million kW (2020 est.)<br>
+_Consumption_: 149.203 billion kWh (2020 est.)<br>
+_Exports_: 7.357 billion kWh (2020 est.)<br>
+_Imports_: 20.624 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 9.995 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-149.4 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 79.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 1.4% of total installed capacity (2020 est.)<br>
+_Wind_: 10.8% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 2% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 6% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-12.02 billion kWh (2016)<br>
+**Coal**<br>
+_Production_: 108.152 million metric tons (2020 est.)<br>
+_Consumption_: 110.674 million metric tons (2020 est.)<br>
+_Exports_: 11.063 million metric tons (2020 est.)<br>
+_Imports_: 13.281 million metric tons (2020 est.)<br>
+_Proven reserves_: 26.932 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-14.02 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-38.11 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-79% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-19% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-21,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-4,451 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-493,100 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-126 million bbl (1 January 2018)<br>
+**Petroleum**<br>
+_Total petroleum production_: 28,400 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 697,700 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 6,000 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 542,100 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 113 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 554,200 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-649,600 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 104,800 bbl/day (2017 est.)<br>
@@ -609,20 +598,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 222,300 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-5.748 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 5,666,815,000 cubic meters (2020 est.)<br>
+_Consumption_: 21,463,908,000 cubic meters (2020 est.)<br>
+_Exports_: 704.975 million cubic meters (2019 est.)<br>
+_Imports_: 16,633,345,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 91.492 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-20.1 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 304.04 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 176.938 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 89.944 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 37.158 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-1.246 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-15.72 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-79.79 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 112.831 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -738,7 +728,7 @@ note - as of 2019, women made up about 7% of the military's full-time personnel<
 
 **Military deployments**<br>
 240 Kosovo (NATO/KFOR); up to 180 Latvia (NATO); 190 Lebanon (UNIFIL) (2022)<br>
-note - Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>
+<strong>note: </strong>Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>
 
 **Military - note**<br>
 Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a US-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; since 2014, Poland has also hosted NATO fighter detachments at Malbork Air Base under NATO's enhanced air policing arrangements<br><br>Poland hosts a NATO-led divisional headquarters (Multinational Division Northeast; operational in 2018), which coordinates training and preparation activities of its respective subordinate battlegroups in Poland and Lithuania; Poland also hosts a corps-level headquarters (Multinational Corps Northeast) (2022)</p><br>
@@ -755,7 +745,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Poland-Belarus-Ukraine</em>: as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,870 (Russia) (2019); 1,207,650 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 9,870 (Russia) (2019); 1,221,596 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 1,389 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -382,7 +382,7 @@ ABEDA, AFESD, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, 
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Mohammed Husham Malik AL FITYAN (since 22 March 2022)<br>
-_chancery_: 3421 Massachusetts Avenue, NW, Washington, DC 20007<br>
+_chancery_: 3421 Massachusetts Avenue NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 742-1600<br>
 _FAX_: [1] (202) 333-1129<br>
 _email address and website_: <br>http://www.iraqiembassy.us/<br>
@@ -559,50 +559,39 @@ Iraqi dinars (IQD) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-75.45 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 28.369 million kW (2020 est.)<br>
+_Consumption_: 46,492,540,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 14.18 billion kWh (2019 est.)<br>
+_Transmission/distribution losses_: 58.502 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-38.46 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 97.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.1% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 2.1% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-11.97 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-27.09 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-91% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-9% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-4.613 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-3.092 million bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-148.8 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 4,161,500 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 863,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 3,975,800 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 145.019 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 398,000 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-826,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 8,284 bbl/day (2015 est.)<br>
@@ -610,20 +599,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 255,100 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-1.274 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 10,710,773,000 cubic meters (2019 est.)<br>
+_Consumption_: 18,014,129,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 7,303,356,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 3,728,926,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-2.633 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 143.479 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 108.14 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 35.339 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-1.359 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-3.82 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 63.174 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -737,7 +727,7 @@ note - in late 2021, the Iraqi Government approved a draft conscription law for 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Jaysh Rijal al-Tariq al-Naqshabandi; Kata'ib Hizballah; Kurdistan Workers' Party<br>
+Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Jaysh Rijal al-Tariq al-Naqshabandi; Kata'ib Hizballah; Kurdistan Workers' Party (PKK)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
@@ -746,7 +736,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps/Qods Force;
 <p><em>Iraq-Iran</em>: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf</p> <p><em>Iraq-Turkey</em>: Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,272 (Turkey), 7,881 (West Bank and Gaza Strip) (mid-year 2021); 260,686 (Syria) (2022)<br>
+_refugees (country of origin)_: 15,272 (Turkey), 7,881 (West Bank and Gaza Strip) (mid-year 2021); 262,756 (Syria) (2022)<br>
 _IDPs_: 1,184,818 (displacement in central and northern Iraq since January 2014) (2022)<br>
 _stateless persons_: 47,253 (mid-year 2021); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2,006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 <strong>note:</strong> estimate revised to reflect the reduction of statelessness in line with Law 26 of 2006, which allows stateless persons to apply for nationality in certain circumstances; more accurate studies of statelessness in Iraq are pending (2015)<br>

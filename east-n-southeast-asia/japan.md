@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In 1603, after decades of civil warfare, the Tokugawa shogunate (a military-led, dynastic government) ushered in a long period of relative political stability and isolation from foreign influence. For more than two centuries this policy enabled Japan to enjoy a flowering of its indigenous culture. Japan opened its ports after signing the Treaty of Kanagawa with the US in 1854 and began to intensively modernize and industrialize. During the late 19th and early 20th centuries, Japan became a regional power that was able to defeat the forces of both China and Russia. It occupied Korea, Formosa (Taiwan), and southern Sakhalin Island. In 1931-32 Japan occupied Manchuria, and in 1937 it launched a full-scale invasion of China. Japan attacked US forces in 1941 - triggering America's entry into World War II - and soon occupied much of East and Southeast Asia. After its defeat in World War II, Japan recovered to become an economic power and an ally of the US. While the emperor retains his throne as a symbol of national unity, elected politicians hold actual decision-making power. Following three decades of unprecedented growth, Japan's economy experienced a major slowdown starting in the 1990s, but the country remains an economic power. In March 2011, Japan's strongest-ever earthquake, and an accompanying tsunami, devastated the northeast part of Honshu island, killed thousands, and damaged several nuclear power plants. Prime Minister Shinzo ABE was reelected to office in December 2012, and has since embarked on ambitious economic and security reforms to improve Japan's economy and bolster the country's international standing. In November 2019, ABE became Japan's longest-serving post-war prime minister.</p><br>
+<p>In 1603, after decades of civil warfare, the Tokugawa shogunate (a military-led, dynastic government) ushered in a long period of relative political stability and isolation from foreign influence. For more than two centuries this policy enabled Japan to enjoy a flowering of its indigenous culture. Japan opened its ports after signing the Treaty of Kanagawa with the US in 1854 and began to intensively modernize and industrialize. During the late 19th and early 20th centuries, Japan became a regional power that was able to defeat the forces of both China and Russia. It occupied Korea, Formosa (Taiwan), and southern Sakhalin Island. In 1931-32 Japan occupied Manchuria, and in 1937 it launched a full-scale invasion of China. Japan attacked US forces in 1941 - triggering America's entry into World War II - and soon occupied much of East and Southeast Asia. After its defeat in World War II, Japan recovered to become an economic power and an ally of the US. While the emperor retains his throne as a symbol of national unity, elected politicians hold actual decision-making power. Following three decades of unprecedented growth, Japan's economy experienced a major slowdown starting in the 1990s, but the country remains an economic power. In March 2011, Japan's strongest-ever earthquake, and an accompanying tsunami, devastated the northeast part of Honshu island, killed thousands, and damaged several nuclear power plants. Prime Minister Shinzo ABE was reelected to office in December 2012, and embarked on ambitious economic and security reforms to improve Japan's economy and bolster the country's international standing. In November 2019, ABE became Japan's longest-serving post-war prime minister; he resigned in September 2020 and was succeeded by Yoshihide SUGA. Fumio KISHIDA became prime minister in October 2021.</p><br>
 
 ## Geography
 
@@ -223,7 +223,12 @@ _female_: 10% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.2% of GDP (2017)<br>
+3.2% of GDP (2017 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -372,7 +377,7 @@ _consulate(s) general_: Anchorage (AK), Atlanta, Boston, Chicago, Denver (CO), D
 _chief of mission_: Ambassador Rahm EMANUEL (since 25 March 2022)<br>
 _embassy_: 1-10-5 Akasaka, Minato-ku, Tokyo 107-8420<br>
 _mailing address_: 9800 Tokyo Place, Washington DC&nbsp; 20521-9800<br>
-_telephone_: (03) 3224-5000<br>
+_telephone_: [81] (03) 3224-5000<br>
 _FAX_: [81] (03) 3224-5856<br>
 _email address and website_: <br>TokyoACS@state.gov<br><br>https://jp.usembassy.gov/<br>
 _consulate(s) general_: Naha (Okinawa), Osaka-Kobe, Sapporo<br>
@@ -540,50 +545,39 @@ yen (JPY) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-989.3 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 348.666 million kW (2020 est.)<br>
+_Consumption_: 903,698,740,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 44.094 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-943.7 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 73.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 4.8% of total installed capacity (2020 est.)<br>
+_Solar_: 8.8% of total installed capacity (2020 est.)<br>
+_Wind_: 1% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 10% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0.3% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.6% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 29.84 million metric tons (2020 est.)<br>
+_Consumption_: 210.882 million metric tons (2020 est.)<br>
+_Exports_: 3.201 million metric tons (2020 est.)<br>
+_Imports_: 174.486 million metric tons (2020 est.)<br>
+_Proven reserves_: 350 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-295.9 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-71% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-8% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-20% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-3,200 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-3.208 million bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-44.12 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 10,200 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 3,739,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 3,012,800 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 44.1 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 3.467 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-3.894 million bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 370,900 bbl/day (2017 est.)<br>
@@ -591,20 +585,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 1.1 million bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-3.058 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 1,928,431,000 cubic meters (2020 est.)<br>
+_Consumption_: 102,108,738,000 cubic meters (2019 est.)<br>
+_Exports_: 28,000 cubic meters (2019 est.)<br>
+_Imports_: 105,255,103,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 20.898 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-127.2 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 1,103,234,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 439.243 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 444.271 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 219.72 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-169.9 million cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-116.6 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-20.9 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 147.107 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -674,7 +669,7 @@ _total_: 27,311 km (2015)<br>
 _standard gauge_: 4,800 km (2015) 1.435-m gauge (4,800 km electrified)<br>
 _narrow gauge_: 124 km (2015) 1.372-m gauge (124 km electrified)<br>
 _dual gauge_: 132 km (2015) 1.435-1.067-m gauge (132 km electrified)<br>
-22.207 km 1.067-m gauge (15,430 km electrified)<br>48 km 0.762-m gauge (48 km electrified)<br>
+22,207 km 1.067-mm gauge (15,430 km electrified)<br>48 km 0.762-m gauge (48 km electrified)<br>
 
 **Roadways**<br>
 _total_: 1,218,772 km (2015)<br>

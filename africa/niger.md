@@ -233,7 +233,7 @@ _female_: 1.1% (2020 est.)<br>
 31.3% (2019)<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2019)<br>
+3.5% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -572,50 +572,39 @@ _electrification - total population_: 14% (2019)<br>
 _electrification - urban areas_: 71% (2019)<br>
 _electrification - rural areas_: 2% (2019)<br>
 
-**Electricity - production**<br>
-494.7 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 324,000 kW (2020 est.)<br>
+_Consumption_: 1,325,420,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 1.057 billion kWh (2019 est.)<br>
+_Transmission/distribution losses_: 313 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-1.065 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 94.1% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 5.9% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 224,000 metric tons (2020 est.)<br>
+_Consumption_: 224,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 6 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-779 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-184,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-95% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-5% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-9,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-150 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 8,000 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 13,800 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 15,280 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-14,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 5,422 bbl/day (2015 est.)<br>
@@ -623,20 +612,21 @@ _electrification - rural areas_: 2% (2019)<br>
 **Refined petroleum products - imports**<br>
 3,799 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 2.374 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 499,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1.875 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2016 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 1.54 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -665,7 +655,7 @@ _percent of population_: 10% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 12,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.05 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
 
 ## Transportation
 
@@ -733,7 +723,7 @@ has conscription, although it is reportedly not always enforced; 18 is the legal
 
 **Military deployments**<br>
 870 Mali (MINUSMA) (Feb 2022)<br>
-note(s) - Niger is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali, Mauritania, and Chad; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane<br><br>Niger also has about 1,000 troops committed to the Multinational Joint Task Force (MNJTF) against against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
+<strong>note 1:</strong> Niger is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali (withdrew in 2022), Mauritania, and Chad; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France<br><br><strong>note 2: </strong>Niger also has about 1,000 troops committed to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
 
 **Military - note**<br>
 as of 2022, the FAN was conducting counterinsurgency and counter-terrorism operations against Islamic militants on two fronts; in the Diffa region, the Nigeria-based Boko Haram terrorist group has conducted dozens of attacks on security forces, army bases, and civilians; on Niger&rsquo;s western border with Mali, the Islamic State-West Africa (ISWA) has conducted numerous attacks on security personnel; a series of ISWA attacks on FAN forces near the Malian border in December of 2019 and January of 2020 resulted in the deaths of more than 170 soldiers; terrorist attacks continued into 2022 (2022)<br>
@@ -741,7 +731,7 @@ as of 2022, the FAN was conducting counterinsurgency and counter-terrorism opera
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic State of Iraq and ash-Sham – West Africa; Jama'at Nusrat al-Islam wal-Muslimin; al-Mulathamun Battalion (al-Mourabitoun)<br>
+Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); Islamic State of Iraq and ash-Sham – West Africa (ISIS-WA); Jama'at Nusrat al-Islam wal-Muslimin (JNIM); al-Mulathamun Battalion (al-Mourabitoun)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
@@ -750,7 +740,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic St
 <p><em>Niger-Benin-Nigeria</em>: location of Niger-Benin-Nigeria tripoint is unresolved</p> <p><em>Niger-Burkina Faso</em>: the dispute with Burkina Faso was referred to the International Court of Justice (ICJ) in 2010; the ICJ ruled in 2013 that 786 sq km should go to Burkina Faso and 277 sq km to Niger; the ruling was implemented in 2015 and 2016, with Burkina Faso gaining 14 towns and Niger 4</p> <p><em>Niger-Cameroon-Nigeria</em>: only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Niger-Libya</em>: Libya claims about 25,000 sq km in a currently dormant dispute in the Tummo region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 187,139 (Nigeria), 62,658 (Mali) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 187,134 (Nigeria), 62,904 (Mali) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 264,257 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2022)<br>
 
 **Illicit drugs**<br>

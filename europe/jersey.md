@@ -166,6 +166,9 @@ _unimproved: total_: total: 5.9% of population (2017 est.)<br>
 **Current Health Expenditure**<br>
 NA<br>
 
+**Physicians density**<br>
+NA<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -188,6 +191,11 @@ NA<br>
 
 **Education expenditures**<br>
 NA<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 ## Environment
 
@@ -284,7 +292,6 @@ UPU<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: none (British Crown dependency)<br>
-none (British Crown dependency)<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (British Crown dependency)<br>
@@ -403,11 +410,8 @@ Jersey pounds (JEP) per US dollar<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-(2017) NA<br>
-
-**Electricity - consumption**<br>
-630.1 million kWh (2004 est.)<br>
+**Carbon dioxide emissions**<br>
+450,000 metric tonnes of CO2 (2012 est.)<br>
 
 ## Communications
 
@@ -436,8 +440,8 @@ _total_: 44,198 (2019 est.)<br>
 _percent of population_: 41% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 39,699 (2020 est.) NA<br>
-_subscriptions per 100 inhabitants_: 37 (2020 est.) NA<br>
+_total_: 39,699 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 37 (2020 est.)<br>
 
 ## Transportation
 

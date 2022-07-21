@@ -5,7 +5,7 @@ _Central America and Caribbean / Dependencies (Netherlands)_
 ## Introduction
 
 **Background**<br>
-The original Arawak Indian settlers who arrived on the island from South America in about 1000, were largely enslaved by the Spanish early in the 16th century and forcibly relocated to other colonies where labor was needed. Curacao was seized by the Dutch from the Spanish in 1634. Once the center of the Caribbean slave trade, Curacao was hard hit economically by the abolition of slavery in 1863. Its prosperity (and that of neighboring Aruba) was restored in the early 20th century with the construction of the Isla Refineria to service the newly discovered Venezuelan oil fields. In 1954, Curacao and several other Dutch Caribbean colonies were reorganized as the Netherlands Antilles, part of the Kingdom of the Netherlands. In referenda in 2005 and 2009, the citizens of Curacao voted to become a self-governing country within the Kingdom of the Netherlands. The change in status became effective in October 2010 with the dissolution of the Netherlands Antilles.<br>
+The original Arawak Indian settlers who arrived on the island from South America in about A.D. 1000, were largely enslaved by the Spanish early in the 16th century and forcibly relocated to other colonies where labor was needed. Curacao was seized by the Dutch from the Spanish in 1634. Once the center of the Caribbean slave trade, Curacao was hard hit economically by the Dutch abolition of slavery in 1863. Its prosperity (and that of neighboring Aruba) was restored in the early 20th century with the construction of the Isla Refineria to service the newly discovered Venezuelan oilfields. In 1954, Curacao and several other Dutch Caribbean colonies were reorganized as the Netherlands Antilles, part of the Kingdom of the Netherlands. In referenda in 2005 and 2009, the citizens of Curacao voted to become a self-governing country within the Kingdom of the Netherlands. The change in status became effective in October 2010 with the dissolution of the Netherlands Antilles.<br>
 
 ## Geography
 
@@ -160,6 +160,9 @@ _unimproved: total_: total: 0% of population (2017)<br>
 **Current Health Expenditure**<br>
 NA<br>
 
+**Physicians density**<br>
+NA<br>
+
 **Sanitation facility access**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017)<br>
@@ -177,7 +180,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-4.9% of GDP (2013)<br>
+4.9% of GDP (2013 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -431,56 +434,14 @@ Netherlands Antillean guilders (ANG) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-1.785 billion kWh (2012 est.)<br>
-
-**Electricity - consumption**<br>
-968 million kWh (2008 est.)<br>
-
-**Electricity - exports**<br>
-0 kWh (2009 est.)<br>
-
-**Electricity - imports**<br>
-0 kWh (2009 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-191,300 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2011 est.)<br>
-
 **Refined petroleum products - production**<br>
 189,800 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-70,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 167,500 bbl/day (2015 est.)<br>
 
 **Refined petroleum products - imports**<br>
 45,800 bbl/day (2015 est.)<br>
-
-**Natural gas - production**<br>
-0 cu m (2009 est.)<br>
-
-**Natural gas - consumption**<br>
-0 cu m (2009 est.)<br>
-
-**Natural gas - exports**<br>
-0 cu m (2009 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2009 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2011 est.)<br>
 
 ## Communications
 

@@ -228,7 +228,7 @@ _women married by age 15_: 2%<br>
 _women married by age 18_: 14.7% (2018 est.)<br>
 
 **Education expenditures**<br>
-4.3% of GDP (2018)<br>
+4.3% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -370,7 +370,7 @@ _judge selection and term of office_: Constitutional Court members - 3 appointed
 _subordinate courts_: regional appeals courts; basic (first instance) courts; peace courts; aggravated crime courts; specialized courts, including administrative and audit; note - a constitutional amendment in 2017 abolished military courts unless established to investigate military personnel actions during war conditions<br>
 
 **Political parties and leaders**<br>
-Democracy and Progress Party [Ali BABACAN]<br>Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Saliha AYDENIZ, Keskin BAYINDIR]<br>Felicity Party (Saadet Party) or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDAPAR [Zekeriya YAPICIOGLU]<br>Future Party [Ahmet DAVUTOGLU]<br>IYI Party [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Nation Alliance (CHP, IYI, SP, DP) (electoral alliance)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>People's Alliance (AKP, MHP, BBP) (electoral alliance)<br>Patriotic Party or VP [Dogu PERINCEK]<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Mithat SANCAR]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]<br>
+Democracy and Progress Party [Ali BABACAN]<br>Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Saliha AYDENIZ, Keskin BAYINDIR]<br>Felicity Party (Saadet Party) or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDAPAR [Zekeriya YAPICIOGLU]<br>Future Party [Ahmet DAVUTOGLU]<br>IYI Party [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Nation Alliance (electoral alliance includes CHP, IYI, SP, DP)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>Patriotic Party or VP [Dogu PERINCEK]<br>People's Alliance (electoral alliance AKP, MHP, BBP)<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Mithat SANCAR]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]<br>
 <strong>note: </strong> as of September 2021, 116 political parties were legally registered<br>
 
 **International organization participation**<br>
@@ -559,50 +559,39 @@ Turkish liras (TRY) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-261.9 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 96.846 million kW (2020 est.)<br>
+_Consumption_: 263.952 billion kWh (2020 est.)<br>
+_Exports_: 2.484 billion kWh (2020 est.)<br>
+_Imports_: 1.888 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 29.275 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-231.1 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 56.2% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 3.8% of total installed capacity (2020 est.)<br>
+_Wind_: 8.4% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 26.3% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0.4% of total installed capacity (2020 est.)<br>
+_Geothermal_: 3.4% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.5% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-1.442 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 78.871 million metric tons (2020 est.)<br>
+_Consumption_: 108.271 million metric tons (2020 est.)<br>
+_Exports_: 54,000 metric tons (2020 est.)<br>
+_Imports_: 40.919 million metric tons (2020 est.)<br>
+_Proven reserves_: 11.525 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-6.33 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-78.5 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-53% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-33% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-14% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-55,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-521,500 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-341.6 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 70,300 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 987,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 423,500 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 366 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 657,900 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-989,900 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 141,600 bbl/day (2017 est.)<br>
@@ -610,20 +599,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 560,000 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-368.1 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 469.464 million cubic meters (2019 est.)<br>
+_Consumption_: 44,605,473,000 cubic meters (2019 est.)<br>
+_Exports_: 759.372 million cubic meters (2019 est.)<br>
+_Imports_: 45,091,248,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 3.794 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-53.6 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 391.792 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 172.298 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 133.587 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 85.907 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-622.9 million cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-55.13 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-5.097 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 79.126 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -690,7 +680,7 @@ _under 914 m_: 2 (2021)<br>
 14,666 km gas, 3,293 km oil (2017)<br>
 
 **Railways**<br>
-_total_: 12,710 km (2018)<br>
+_total_: 11,497 km (2018)<br>
 _standard gauge_: 11,497 km (2018) 1.435-m gauge (1.435 km high speed train)<br>
 
 **Roadways**<br>
@@ -734,8 +724,8 @@ President Erdoğan on 25 June 2019 signed a new law cutting the men’s mandator
 note - as of 2019, women made up about .3% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-est. 150 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); est. 30,000 Cyprus; 300 Kosovo (NATO/KFOR); 100 Lebanon (UNIFIL); est. 500 Libya; est. 3,000 Qatar; approximately 200 Somalia (training mission); est. 5,000-10,000 Syria (2022)<br>
-note(s) - between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale incursions in 2021 and 2022; in 2020, Turkey deployed hundreds of Turkish troops and as many as 5,000 Syrian fighters to Libya to support the Libyan Government of National Accord<br><br>in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years<br>
+approximately 150 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); approximately 30,000 Cyprus; 300 Kosovo (NATO/KFOR); 100 Lebanon (UNIFIL); estimated 500 Libya; approximately 3,000 Qatar; approximately 200 Somalia (training mission); estimated 5,000-10,000 Syria (2022)<br>
+<strong>note 1:</strong> between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey also has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018, and smaller-scale incursions in 2021 and 2022; in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years<br><br><strong>note 2:</strong> in 2020, Turkey deployed hundreds of Turkish troops and as many as 5,000 Syrian fighters to Libya to support the Libyan Government of National Accord<br><br>
 
 **Military - note**<br>
 Turkey has been a member of NATO since 1952 and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO's missile defenses<br><br>under a long-range (2033) strategic plan, the Turkish Armed Forces continued efforts to modernize its equipment and force structure; Land Forces sought to produce a 20-30% smaller, more highly trained force characterized by greater mobility and firepower and capable of joint and combined operations<br><br>the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines; the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications <br><br>the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and is developing an integrated missile defense system; in a controversial move that complicated its relationship with NATO, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system <br><br>in recent years, Turkey has taken on a greater level of international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; Turkey also has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan<br><br>the military has a substantial stake in Turkey's economy through a holding company that is involved in the automotive, energy, finance, and logistics sectors, as well as iron and steel production (2022)<br>
@@ -752,7 +742,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkrey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,648,983 (Syria) (2022); 145,000 (Ukraine) (as of 19 May 2022)<br>
+_refugees (country of origin)_: 3,650,601 (Syria) (2022); 145,000 (Ukraine) (as of 19 May 2022)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2021)<br>
 _stateless persons_: 117 (2018)<br>
 

@@ -224,6 +224,11 @@ _men married by age 18_: 5.6% (2020 est.)<br>
 **Education expenditures**<br>
 NA<br>
 
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
+
 ## Environment
 
 **Environment - current issues**<br>
@@ -327,7 +332,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: President HASSAN SHEIKH Mohamud (since 23 May 2022)<br>
-_head of government_: Prime Minister Mohamed Hussein ROBLE (since 27 September 2020); note - President HASSAN SHEIKH Mohamud nominated Hamza Abdi BARRE on 15 June 2022 to replace ROBLE as Prime Minister but the nomination awaits Somali Federal Parliament approval<br>
+_head of government_: Prime Minister Hamza Abdi BARRE (since 25 June 2022)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by the House of the People<br>
 _elections/appointments_: president indirectly elected by the President HASSAN SHEIKH Mohamud by two-thirds majority vote in 2 rounds if needed for a single 4-year term; election last held on 15 May 2022; prime minister appointed by the president, approved by the House of the People; note - elections were originally scheduled for 10 October 2021 but did not take place; on 13 April 2022, the election of the House of the People representatives was completed and the presidential election date was set for 15 May<br>
 _election results_: <br><em>2022:</em> an indirect election by Somalia's Federal Parliament was held on 15 May 2022 resulting in the defeat of former president Mohamed ABDULLAHI Mohamed "Farmaajo"; HASSAN SHEIKH Mohamud elected president in third round - Federal Parliament third round vote - HASSAN SHEIKH Mohamud (PDP) 214, Mohamed ABDULLAHI Mohamed "Farmaajo" (TPP) 110<br><br><em>2017:</em> Mohamed ABDULLAHI Mohamed "Farmaajo" elected president in second round; Federal Parliament second round vote - Mohamed ABDULLAHI Mohamed "Farmaajo" (TPP) 184, HASSAN SHEIKH Mohamud (PDP) 97, Sheikh SHARIF Sheikh Ahmed (ARS) 46<br>
@@ -503,50 +508,39 @@ _electrification - total population_: 18% (2019)<br>
 _electrification - urban areas_: 34% (2019)<br>
 _electrification - rural areas_: 4% (2019)<br>
 
-**Electricity - production**<br>
-339 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 91,000 kW (2020 est.)<br>
+_Consumption_: 311.2 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 35 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-315.3 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 95.3% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 3% of total installed capacity (2020 est.)<br>
+_Wind_: 1.7% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-85,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-93% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-7% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 5,900 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-5,600 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -554,20 +548,21 @@ _electrification - rural areas_: 4% (2019)<br>
 **Refined petroleum products - imports**<br>
 5,590 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 882,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 882,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-5.663 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 802,000 Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -597,7 +592,7 @@ _percent of population_: 2% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 119,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.75 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -659,7 +654,7 @@ the SNA is lightly armed with an inventory that includes a variety of older, sec
 18 is the legal minimum age for compulsory and voluntary military service; conscription is authorized, but not currently utilized (2021)<br>
 
 **Military - note**<br>
-<p>as of 2022, large parts of the country remained outside government control and under the control of the insurgent Islamist group al-Shabaab; al-Shabaab contested government control in some other areas (see Appendix T)<br><br>as of 2022, a significant portion of the SNA was comprised of militia forces that lacked the discipline, structure, weapons, and overall capabilities for effective military operations; of the SNA’s approximately 13 brigades, the most effective were assessed to be the US-trained Danab ("Lightning") Advanced Infantry Brigade and those of the Turkish-trained Gorgor ("Eagle") Special Division; in 2020-2021, the Danab Brigade conducted most of the SNA’s offensive operations in Somalia and nearly all counterterrorism operations against the al-Shabaab terrorist group; as of 2021, it numbered about 1,000 troops with an eventual projected strength of 3,000, while the Gorgor Division was estimated to have 4,500-5,000 trained troops</p> the African Union Mission in Somalia (AMISOM) operated in the country with the approval of the UN from 2007-2022; its peacekeeping mission included assisting Somali forces in providing security for a stable political process, enabling the gradual handing over of security responsibilities from AMISOM to the Somali security forces, and reducing the threat posed by Al-Shabaab and other armed opposition groups; in May 2022, AMISOM was reconfigured and replaced with the AU Transition Mission in Somalia (ATMIS); the ATMIS mission is to support the Somalia Federal Government (FGS) in implementing the security objectives of the FGS's security transition plan, a comprehensive strategy developed by the FGS and its international partners to gradually transfer security responsibilities from ATMIS to Somali security forces; ATMIS is projected to gradually reduce staffing from its 2022 level of about 20,000 personnel (civilians, military, and police) to zero by the end of 2024 <br><br>UN Assistance Mission in Somalia (UNSOM; established 2013) is mandated by the Security Council to work with the FGS to support national reconciliation, provide advice on peace-building and state-building, monitor the human rights situation, and help coordinate the efforts of the international community<br><br>the UN Support Office in Somalia (UNSOS; established 2015) is responsible for providing logistical field support to AMISOM, UNSOM, the Somali National Army, and the Somali Police Force on joint operations with AMISOM<br><br>the European Union Training Mission in Somalia (EUTM-S) has operated in the country since 2010; the EUTM provides advice and training to the Somali military; the US and Turkey maintain separate unilateral military training missions in Somalia; the UAE also maintains a military presence in Somalia (Somaliland)<br>
+<p>as of 2022, large parts of the country remained outside government control and under the control of the insurgent Islamist group al-Shabaab; al-Shabaab contested government control in some other areas (see Appendix T)<br><br>as of 2022, a significant portion of the SNA was comprised of militia forces that lacked the discipline, structure, weapons, and overall capabilities for effective military operations; of the SNA’s approximately 13 brigades, the most effective were assessed to be the US-trained Danab ("Lightning") Advanced Infantry Brigade and those of the Turkish-trained Gorgor ("Eagle") Special Division; in 2020-2021, the Danab Brigade conducted most of the SNA’s offensive operations in Somalia and nearly all counterterrorism operations against the al-Shabaab terrorist group; as of 2022, it numbered about 1,500 troops with an eventual projected strength of 3,000, while the Gorgor Division was estimated to have 4,500-5,000 trained troops</p> the African Union Mission in Somalia (AMISOM) operated in the country with the approval of the UN from 2007-2022; its peacekeeping mission included assisting Somali forces in providing security for a stable political process, enabling the gradual handing over of security responsibilities from AMISOM to the Somali security forces, and reducing the threat posed by Al-Shabaab and other armed opposition groups; in May 2022, AMISOM was reconfigured and replaced with the AU Transition Mission in Somalia (ATMIS); the ATMIS mission is to support the Somalia Federal Government (FGS) in implementing the security objectives of the FGS's security transition plan, a comprehensive strategy developed by the FGS and its international partners to gradually transfer security responsibilities from ATMIS to Somali security forces; ATMIS is projected to gradually reduce staffing from its 2022 level of about 20,000 personnel (civilians, military, and police) to zero by the end of 2024 <br><br>UN Assistance Mission in Somalia (UNSOM; established 2013) is mandated by the Security Council to work with the FGS to support national reconciliation, provide advice on peace-building and state-building, monitor the human rights situation, and help coordinate the efforts of the international community<br><br>the UN Support Office in Somalia (UNSOS; established 2015) is responsible for providing logistical field support to AMISOM, UNSOM, the Somali National Army, and the Somali Police Force on joint operations with AMISOM<br><br>the European Union Training Mission in Somalia (EUTM-S) has operated in the country since 2010; the EUTM provides advice and training to the Somali military; the US and Turkey maintain separate unilateral military training missions in Somalia; the UAE also maintains a military presence in Somalia (Somaliland)<br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau’s (IMB) Piracy Reporting Center (PRC) received one incident of piracy and armed robbery in 2021 for the Horn of Africa; while there were no recorded incidents, the IMB PRC warns that Somalia pirates continue to possess the capacity to carry out attacks in the Somali basin and wider Indian Ocean; in particular, the report warns that, "Masters and crew must remain vigilant and cautious when transiting these waters."; the presence of several naval task forces in the Gulf of Aden and additional anti-piracy measures on the part of ship operators, including the use of on-board armed security teams, contributed to the drop in incidents; the EU naval mission, Operation ATALANTA, continues its operations in the Gulf of Aden and Indian Ocean through 2022; naval units from China, India, Japan, Pakistan, South Korea, the US, and other countries also operate in conjunction with EU forces; China has established a logistical base in Djibouti to support its deployed naval units in the Horn of Africa</p><br>
@@ -676,6 +671,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham – Somalia<br>
 <p><em>Somalia-Djibouti</em>: none identified</p> <p><em>Somalia-Ethiopia</em>: Ethiopian forces invaded southern Somalia and routed Islamist Courts from Mogadishu in January 2007; the border between the Ogaden region of eastern Ethiopia, which is inhabited by ethnic Somalis, and Somalia is only partially demarcated under colonial rule and has been the source of tension for decades</p> <p><em>Somalia-Kenya</em>:<strong> </strong>Kenya works hard to prevent the clan and militia fighting in Somalia from spreading south across the border, which has long been open to nomadic pastoralists; in 2015, the Kenyan Government began building a wall along the border to prevent the crossborder movement of militant groups; the boundary separates ethnic Somalis; in October 2021, the Somalia-Kenya Indian Ocean boundary dispute was decided by the International Court of Justice; the ruling adjusted the boundary slightly north of Somalia’s claim giving Somalia the majority of the contested maritime territory, which is believed to contain rich oil and natural gas deposits; while the decision is legally binding, it has no enforcement mechanism, and Kenya has said it will not abide by it</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,979 (Yemen) (mid-year 2021)<br>
+_refugees (country of origin)_: 9,208 (Yemen) (2022)<br>
 _IDPs_: 2.968 million (civil war since 1988, clan-based competition for resources; 2011 famine; insecurity because of fighting between al-Shabaab and the Transitional Federal Government's allied forces) (2022)<br>
 

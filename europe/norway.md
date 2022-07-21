@@ -216,7 +216,12 @@ _female_: 15.4% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-7.6% of GDP (2018)<br>
+7.6% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
@@ -531,50 +536,39 @@ Norwegian kroner (NOK) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-147.7 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 38.36 million kW (2020 est.)<br>
+_Consumption_: 124.288 billion kWh (2020 est.)<br>
+_Exports_: 24.968 billion kWh (2020 est.)<br>
+_Imports_: 4.496 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 8.909 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-122.2 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 1.2% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0% of total installed capacity (2020 est.)<br>
+_Wind_: 6.4% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 92.1% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-15.53 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 69,000 metric tons (2020 est.)<br>
+_Consumption_: 1.13 million metric tons (2020 est.)<br>
+_Exports_: 46,000 metric tons (2020 est.)<br>
+_Imports_: 1.172 million metric tons (2020 est.)<br>
+_Proven reserves_: 2 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-5.741 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-33.86 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-3% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-93% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-4% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-1.517 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-1.383 million bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-36,550 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-6.376 billion bbl (1 January 2018)<br>
+**Petroleum**<br>
+_Total petroleum production_: 2.026 million bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 215,900 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 1,242,500 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 66,300 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 8,122,200,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 371,600 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-205,300 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 432,800 bbl/day (2017 est.)<br>
@@ -582,20 +576,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 135,300 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-123.9 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 112,052,523,000 cubic meters (2020 est.)<br>
+_Consumption_: 3,980,351,000 cubic meters (2020 est.)<br>
+_Exports_: 107,337,690,000 cubic meters (2020 est.)<br>
+_Imports_: 32.196 million cubic meters (2020 est.)<br>
+_Proven reserves_: 1,544,455,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-4.049 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 36.731 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 3.182 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 25.256 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 8.294 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-120.2 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-5.663 million cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-1.782 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 333.833 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -710,6 +705,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 20,310 (Ukraine) (as of 6 July 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 20,610 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

@@ -227,7 +227,12 @@ _female_: 10.7% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.3% of GDP (2011)<br>
+5.3% of GDP (2011 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -394,7 +399,7 @@ two vertical bands of red (hoist and fly side, half width) with white square bet
 maple leaf, beaver; national colors: red, white<br>
 
 **National anthem**<br>
-_name_: O Canada<br>
+_name_: "O Canada"<br>
 _lyrics/music_: Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/Calixa LAVALLEE<br>
 <strong>note:</strong> adopted 1980; originally written in 1880, "O Canada" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom)<br>
 
@@ -555,50 +560,39 @@ Canadian dollars (CAD) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-649.6 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 153.251 million kW (2020 est.)<br>
+_Consumption_: 539.695 billion kWh (2020 est.)<br>
+_Exports_: 67.2 billion kWh (2020 est.)<br>
+_Imports_: 9.8 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 32.937 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-522.2 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 16.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 14.7% of total installed capacity (2020 est.)<br>
+_Solar_: 0.7% of total installed capacity (2020 est.)<br>
+_Wind_: 5.7% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 60.8% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.6% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-73.35 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 48.328 million metric tons (2020 est.)<br>
+_Consumption_: 25.642 million metric tons (2020 est.)<br>
+_Exports_: 32.026 million metric tons (2020 est.)<br>
+_Imports_: 7.577 million metric tons (2020 est.)<br>
+_Proven reserves_: 6.582 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-2.682 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-143.5 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-23% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-9% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-56% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-12% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-4.264 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-2.818 million bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-806,700 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-170.5 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 5,468,100 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 2,629,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 3.177 million barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 793,800 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 170.3 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 2.009 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-2.445 million bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 1.115 million bbl/day (2017 est.)<br>
@@ -606,20 +600,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 405,700 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-159.1 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 178,723,494,000 cubic meters (2019 est.)<br>
+_Consumption_: 124,502,315,000 cubic meters (2019 est.)<br>
+_Exports_: 76,094,066,000 cubic meters (2019 est.)<br>
+_Imports_: 28,026,440,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 2,067,126,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-124.4 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 612.084 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 56.087 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 311.336 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 244.66 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-83.96 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-26.36 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-2.056 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 403.7 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -648,7 +643,7 @@ _total_: 36,896,088 (2020 est.)<br>
 _percent of population_: 97% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 15,825,813 (2020 est.) Retail high-speed Internet access subs<br>
+_total_: 15,825,813 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 42 (2020 est.)<br>
 
 ## Transportation
@@ -735,8 +730,8 @@ the CAF's inventory is a mix of domestically-produced equipment and imported wea
 note(s) - Canada opened up all military occupations to women in 2001; in 2020, women comprised about 16% of the CAF<br>
 
 **Military deployments**<br>
-the CAF has nearly 1,400 military personnel forward deployed for NATO air, land, and sea missions in the European theater, including about 550 troops in Latvia and 140 in Romania (2022)<br><br>note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe <br>
-note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe&nbsp;<br>
+the CAF has nearly 1,400 military personnel forward deployed for NATO air, land, and sea missions in the European theater, including about 550 troops in Latvia and 140 in Romania (2022)<br>
+<strong>note:</strong> NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe <br>
 
 **Military - note**<br>
 <p>Canada is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949</p> <p>Canada is part of the North American Aerospace Defense Command (NORAD; established 1958); NORAD is a Canada-US bi-national military command responsible for monitoring and defending North American airspace; traditionally, a Canadian Armed Forces officer has served as the deputy commander of NORAD</p> <p>Canada’s defense relationship with the US extends back to the Ogdensburg Declaration of 1940, when the two countries formally agreed on military cooperation, including the establishment of the Permanent Joint Board on Defense (PJBD), which continued to be the highest-level bilateral defense forum between Canada and the US as of 2022</p> <p>British troops withdrew from Canada in 1871 as part of the UK-US Treaty of Washington; following the withdrawal, the first Canadian militia, known as the Royal Canadian Regiment, was organized in 1883 to protect Canadian territory and defend British interests abroad, which it did in the South African War (1899-1902), Canada’s first overseas conflict; militia units formed the backbone of the more than 425,000 Canadian soldiers that went to Europe during World War I in what was called the Canadian Expeditionary Force; the Royal Canadian Navy was created in 1910, while the Canadian Air Force was established in 1920 and became the Royal Canadian Air Force in 1924; the Canadian Army was officially founded in 1942; a unified Canadian Armed Forces was created in 1968</p><br>
@@ -744,7 +739,7 @@ note - NATO troop deployment numbers in eastern Europe are as of February 2022; 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br>
+Islamic State of Iraq and ash-Sham (ISIS); Hizballah<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

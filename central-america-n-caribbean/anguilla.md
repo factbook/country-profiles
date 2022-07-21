@@ -166,6 +166,9 @@ _unimproved: total_: total: 2.5% of population (2017 est.)<br>
 **Current Health Expenditure**<br>
 NA<br>
 
+**Physicians density**<br>
+NA<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.1% of population<br>
 _improved: total_: total: 99.1% of population<br>
@@ -185,7 +188,12 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2018)<br>
+3.6% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 ## Environment
 

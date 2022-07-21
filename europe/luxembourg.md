@@ -212,7 +212,12 @@ _female_: 19.8% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.7% of GDP (2018)<br>
+3.7% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -331,7 +336,7 @@ _elections/appointments_: the monarchy is hereditary; following elections to the
 **Legislative branch**<br>
 _description_: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms); note - a 21-member Council of State appointed by the Grand Duke on the advice of the prime minister serves as an advisory body to the Chamber of Deputies<br>
 _elections_: last held on 14 October 2018 (next to be held by 31 October 2023)<br>
-_election results_: percent of vote by party - CSV 28.3%, LSAP 17.6%, DP 16.9%, Green Party 15.1%, ADR 8.3%, Pirate Party 6.4%, The Left 5.5%, other 1.9%; seats by party - CSV 21, DP 12, LSAP 10, Green Party 9, ADR 4, Pirate Party 2, The Left 2; composition (as of September 2021) - men 39, women 21, percent of women 35%<br>
+_election results_: percent of vote by party - CSV 28.3%, LSAP 17.6%, DP 16.9%, Green Party 15.1%, ADR 8.3%, Pirate Party 6.4%, The Left 5.5%, other 1.9%; seats by party - CSV 21, DP 12, LSAP 10, Green Party 9, ADR 4, Pirate Party 2, The Left 2; composition (as of September 2021) - men 40, women 20, percent of women 33.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members)<br>
@@ -526,50 +531,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-334.5 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 1.899 million kW (2020 est.)<br>
+_Consumption_: 6.188 billion kWh (2020 est.)<br>
+_Exports_: 1.079 billion kWh (2020 est.)<br>
+_Imports_: 6.543 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 156 million kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-6.475 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 13.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 14.6% of total installed capacity (2020 est.)<br>
+_Wind_: 27.7% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 7.5% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 36.4% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-1.42 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 65,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 74,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-7.718 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-1.709 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-25% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-8% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-67% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 63,900 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-59,850 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2017 est.)<br>
@@ -577,20 +571,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 59,020 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 776.022 million cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 772.624 million cubic meters (2019 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-792.8 million cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 11.308 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 149,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 9.564 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 1.594 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-792.8 million cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 310.068 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -698,6 +693,6 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,775 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 5,775 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 194 (mid-year 2021)<br>
 

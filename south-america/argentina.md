@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In 1816, the United Provinces of the Rio Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions.</p> <p>After World War II, an era of populism under former President Juan Domingo PERON - the founder of the Peronist political movement - and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Nestor KIRCHNER (2003-07) and his spouse Cristina FERNANDEZ DE KIRCHNER (2007-15), who oversaw several years of strong economic growth (2003-11) followed by a gradual deterioration in the government’s fiscal situation and eventual economic stagnation and isolation. Argentina underwent a brief period of economic reform and international reintegration under Mauricio MACRI (2015-19), but a recession in 2018-19 and frustration with Macri’s economic policies ushered in a new Peronist government in 2019 led by President Alberto FERNANDEZ and Vice President FERNANDEZ DE KIRCHNER. Presidential elections will take place next in 2023.</p><br>
+<p>In 1816, the United Provinces of the Rio Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions.</p> <p>After World War II, an era of populism under former President Juan Domingo PERON - the founder of the Peronist political movement - and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Nestor KIRCHNER (2003-07) and his spouse Cristina FERNANDEZ DE KIRCHNER (2007-15), who oversaw several years of strong economic growth (2003-11) followed by a gradual deterioration in the government’s fiscal situation and eventual economic stagnation and isolation. Argentina underwent a brief period of economic reform and international reintegration under Mauricio MACRI (2015-19), but a recession in 2018-19 and frustration with MACRI’s economic policies ushered in a new Peronist government in 2019 led by President Alberto FERNANDEZ and Vice President FERNANDEZ DE KIRCHNER. Presidential elections will take place next in 2023.</p><br>
 
 ## Geography
 
@@ -228,7 +228,7 @@ _female_: 19.6% (2020 est.)<br>
 1.7% (2018/19)<br>
 
 **Education expenditures**<br>
-4.8% of GDP (2019)<br>
+4.8% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -564,50 +564,39 @@ _electrification - total population_: 99% (2020)<br>
 _electrification - urban areas_: 99% (2020)<br>
 _electrification - rural areas_: 85% (2020)<br>
 
-**Electricity - production**<br>
-131.9 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 44.731 million kW (2020 est.)<br>
+_Consumption_: 121,563,940,000 kWh (2020 est.)<br>
+_Exports_: 261 million kWh (2020 est.)<br>
+_Imports_: 7.802 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 20.74 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-121 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 65.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 7.3% of total installed capacity (2020 est.)<br>
+_Solar_: 1% of total installed capacity (2020 est.)<br>
+_Wind_: 6.8% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 17.6% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.5% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-55 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 829,000 metric tons (2020 est.)<br>
+_Consumption_: 1.55 million metric tons (2020 est.)<br>
+_Exports_: 4,000 metric tons (2020 est.)<br>
+_Imports_: 990,000 metric tons (2020 est.)<br>
+_Proven reserves_: 500 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-9.851 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-38.35 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-69% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-4% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-24% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-3% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-489,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-36,630 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-16,740 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-2.162 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 690,200 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 680,000 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 59,100 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 11,400 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 2,482,700,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 669,800 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-806,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 58,360 bbl/day (2015 est.)<br>
@@ -615,20 +604,21 @@ _electrification - rural areas_: 85% (2020)<br>
 **Refined petroleum products - imports**<br>
 121,400 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-40.92 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 41,194,148,000 cubic meters (2020 est.)<br>
+_Consumption_: 49,476,585,000 cubic meters (2019 est.)<br>
+_Exports_: 691.241 million cubic meters (2019 est.)<br>
+_Imports_: 6,865,323,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 396.464 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-49.04 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 193.205 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 2.122 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 94.208 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 96.875 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-76.45 million cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-9.826 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-336.6 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 79.083 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -697,11 +687,11 @@ _under 914 m_: 448 (2021)<br>
 29,930 km gas, 41 km liquid petroleum gas, 6,248 km oil, 3,631 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 36,917 km (2014)<br>
+_total_: 36,917.4 km (2014)<br>
 _standard gauge_: 2,745.1 km (2014) 1.435-m gauge (41.1 km electrified)<br>
 _narrow gauge_: 7,523.3 km (2014) 1.000-m gauge<br>
 _broad gauge_: 26,391 km (2014) 1.676-m gauge (149 km electrified)<br>
-258 km 0.750-m gauge<br>
+258 km 0.750-mm gauge<br>
 
 **Roadways**<br>
 _total_: 281,290 km (2017)<br>
@@ -750,6 +740,10 @@ note - as of 2021, women made up over 21% of the active duty military<br>
 Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>
 
 ## Terrorism
+
+**Terrorist group(s)**<br>
+Hizballah<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 

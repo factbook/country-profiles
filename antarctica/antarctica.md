@@ -54,7 +54,7 @@ iron ore, chromium, copper, gold, nickel, platinum and other minerals, and coal 
 _agricultural land_: 0% (2018 est.)<br>
 
 **Natural hazards**<br>
-katabatic (gravity-driven) winds blow coastward from the high interior; frequent blizzards form near the foot of the plateau; cyclonic storms form over the ocean and move clockwise along the coast; volcanism on Deception Island and isolated areas of West Antarctica; other seismic activity rare and weak; large icebergs may calve from ice shelf<br>
+katabatic (gravity-driven) winds blow coastward from the high interior; frequent blizzards form near the foot of the plateau; cyclonic storms form over the ocean and move clockwise along the coast; large icebergs may calve from ice shelf<br><br><strong>volcanism:</strong> volcanic activity on Deception Island and isolated areas of West Antarctica; other seismic activity rare and weak<br>
 
 **Geography - note**<br>
 the coldest, windiest, highest (on average), and driest continent; during summer, more solar radiation reaches the surface at the South Pole than is received at the Equator in an equivalent period <br><br>mostly uninhabitable, 99% of the land area is covered by the Antarctic ice sheet, the largest single mass of ice on earth covering an area of 14 million sq km (5.4 million sq mi) and containing 26.5 million cu km (6.4 million cu mi) of ice (this is almost 62% of all of the world's fresh water); if all this ice were converted to liquid water, one estimate is that it would be sufficient to raise the height of the world's oceans by 58 m (190 ft)<br>
@@ -101,8 +101,42 @@ unofficial; a True South flag, created in 2018, has quickly become popular for i
 
 ## Energy
 
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 0 kW (2020 est.)<br>
+_Consumption_: 0 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 0 kWh (2019 est.)<br>
+
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
+
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
+
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
+
+**Carbon dioxide emissions**<br>
+_Total emissions_: 28,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 28,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 
 ## Communications
 

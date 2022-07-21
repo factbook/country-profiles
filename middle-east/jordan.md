@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Following World War I and the dissolution of the Ottoman Empire, the League of Nations awarded Britain the mandate to govern much of the Middle East. Britain demarcated a semi-autonomous region of Transjordan from Palestine in 1921 and recognized ABDALLAH I from the Hashemite family as the country's first leader. The Hashemites also controlled Hijaz, or the western coastal area of modern day Saudi Arabia until 1925, when they were pushed out by Ibn Saud and Wahhabi tribes. The country gained its independence in 1946 and thereafter became The Hashemite Kingdom of Jordan.</p> The country has had four kings. Jordan's long-time ruler, King HUSSEIN (1953-99), successfully navigated competing pressures from the major powers (US, USSR, and UK), various Arab states, Israel, and Palestinian militants, which led to a brief civil war in 1970 referred to as "Black September" and ended in King HUSSEIN's ouster of the militants from Jordan. Jordan's borders also have changed. In 1948, Jordan took control of the West Bank and East Jerusalem, eventually annexing those territories in 1950 and granting its new Palestinian residents Jordanian citizenship. In 1967, Jordan lost the West Bank and East Jerusalem to Israel in the Six-Day War but retained administrative claims until 1988 when King HUSSEIN permanently relinquished Jordanian claims to the West Bank in favor of the Palestinian Liberation Organization (PLO). King HUSSEIN signed a peace treaty with Israel in 1994 after Israel and the PLO signed the Oslo Accords in 1993.<br><br>Jordanian kings continue to claim custodianship of the holy sites in Jerusalem by virtue of their Hashemite heritage as descendants of Prophet Mohammad and agreements with Israel and Jerusalem-based religious and Palestinian leaders. After Israel captured East Jerusalem in the 1967 War, it authorized the Jordanian-controlled Islamic Trust, or Waqf, to continue administering affairs in the Al Haram ash Sharif/Temple Mount holy compound, and the Jordan-Israel peace treaty reaffirmed Jordan's "special role" in administering the Muslim holy shrines in Jerusalem.<br><br>King HUSSEIN died in 1999 and was succeeded by his eldest son, ABDALLAH II, who remains the current king. In 2009, King ABDALLAH II designated his son HUSSEIN as the Crown Prince. During his reign, ABDALLAH II has contended with a series of challenges, including the Arab Spring influx of refugees from neighboring states and a perennially weak economy. <p> </p><br>
+<p>Following World War I and the dissolution of the Ottoman Empire, the League of Nations awarded Britain the mandate to govern much of the Middle East. Britain demarcated a semi-autonomous region of Transjordan from Palestine in 1921 and recognized ABDALLAH I from the Hashemite family as the country's first leader. The Hashemites also controlled Hijaz, or the western coastal area of modern day Saudi Arabia until 1925, when they were pushed out by Ibn SAUD and Wahhabi tribes. The country gained its independence in 1946 and thereafter became The Hashemite Kingdom of Jordan.</p> The country has had four kings. Jordan's long-time ruler, King HUSSEIN (1953-99), successfully navigated competing pressures from the major powers (US, USSR, and UK), various Arab states, Israel, and Palestinian militants, which led to a brief civil war in 1970 referred to as "Black September" and ended in King HUSSEIN's ouster of the militants from Jordan. Jordan's borders also have changed. In 1948, Jordan took control of the West Bank and East Jerusalem, eventually annexing those territories in 1950 and granting its new Palestinian residents Jordanian citizenship. In 1967, Jordan lost the West Bank and East Jerusalem to Israel in the Six-Day War but retained administrative claims until 1988 when King HUSSEIN permanently relinquished Jordanian claims to the West Bank in favor of the Palestinian Liberation Organization (PLO). King HUSSEIN signed a peace treaty with Israel in 1994, after Israel and the PLO signed the Oslo Accords in 1993.<br><br>Jordanian kings continue to claim custodianship of the holy sites in Jerusalem by virtue of their Hashemite heritage as descendants of the Prophet Mohammad and agreements with Israel and Jerusalem-based religious and Palestinian leaders. After Israel captured East Jerusalem in the 1967 War, it authorized the Jordanian-controlled Islamic Trust, or Waqf, to continue administering affairs in the Al Haram ash Sharif/Temple Mount holy compound, and the Jordan-Israel peace treaty reaffirmed Jordan's "special role" in administering the Muslim holy shrines in Jerusalem.<br><br>King HUSSEIN died in 1999 and was succeeded by his eldest son, ABDALLAH II, who remains the current king. In 2009, King ABDALLAH II designated his son HUSSEIN as the Crown Prince. During his reign, ABDALLAH II has contended with a series of challenges, including the Arab Spring influx of refugees from neighboring states and a perennially weak economy. <p> </p><br>
 
 ## Geography
 
@@ -229,7 +229,7 @@ _women married by age 18_: 9.7%<br>
 _men married by age 18_: 0.1% (2018 est.)<br>
 
 **Education expenditures**<br>
-3% of GDP (2019)<br>
+3% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -556,50 +556,39 @@ Jordanian dinars (JOD) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-18.6 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 5.644 million kW (2020 est.)<br>
+_Consumption_: 17,366,400,000 kWh (2019 est.)<br>
+_Exports_: 98 million kWh (2019 est.)<br>
+_Imports_: 239 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 2.249 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-16.82 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 83.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 11.7% of total installed capacity (2020 est.)<br>
+_Wind_: 4.6% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0.2% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-50 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 219,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 219,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-334 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-4.764 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-87% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-12% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-22 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-67,980 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-1 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 114,800 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 47,400 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 1 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 67,240 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-139,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -607,20 +596,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 68,460 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-121.8 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 115.872 million cubic meters (2019 est.)<br>
+_Consumption_: 4,650,978,000 cubic meters (2019 est.)<br>
+_Exports_: 375.849 million cubic meters (2019 est.)<br>
+_Imports_: 4,910,954,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 6.031 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-5.238 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 23.47 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 381,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 15.786 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 7.303 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-1.359 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-6.456 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-6.031 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 39.331 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -684,7 +674,7 @@ _under 914 m_: 2 (2021)<br>
 473 km gas, 49 km oil (2013)<br>
 
 **Railways**<br>
-_total_: 1,596 km (2020)<br>
+_total_: 509 km (2020)<br>
 _narrow gauge_: 509 km (2014) 1.050-m gauge<br>
 
 **Roadways**<br>

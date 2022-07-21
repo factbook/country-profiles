@@ -5,7 +5,7 @@ _Australia-Oceania / Dependencies (New Zealand)_
 ## Introduction
 
 **Background**<br>
-Polynesians from Tahiti were probably the first people to settle Rarotonga around A.D. 900. Over time, Samoans and Tongans also settled in Rarotonga, and Rarotongans voyaged to the northern Cook Islands, settling Manihiki and Rakahanga. Pukapuka and Penrhyn in the northern Cook Islands were settled directly from Samoa. Prior to European contact, there was considerable travel and trade between inhabitants of the different islands and atolls but they were not united in a single entity. Spanish navigators were the first Europeans to spot the northern Cook Islands in 1595 followed by the first landing in 1606. The Cook Islands remained free of further European contact until the 1760s, and in 1773, British explorer James COOK saw Manuae in the southern Cook Islands. The islands were named after COOK in the 1820s by Russian mapmakers. English missionary activity during the 1820s and 1830s banned singing and dancing and converted most of the population.<br><br>Fearing France would militarily occupy the islands like it did in Tahiti, Rarotongans asked the UK for protectorate status in the 1840s and 1860s, which the UK ignored. In 1888, Queen MAKEA TAKAU of Rarotonga formally petitioned for protectorate status, which the UK reluctantly agreed to. In 1901, the UK placed Rarotonga and the rest of the islands in the New Zealand Colony and in 1915, the Cook Islands Act organized the Cook Islands into one political entity. It remained a protectorate until 1965, when New Zealand granted the Cook Islands self-government status. The Cook Islands has a great deal of local autonomy and is an independent member of international organizations, but it is in free association with New Zealand, which is responsible for defense and foreign affairs. Economic opportunities in the Cook Islands are sparse, and more Cook Islanders live in New Zealand than in the Cook Islands.<br><br>In a referendum in 1994, voters chose to keep the name Cook Islands rather than changing to a Maori name for the islands. The issue was revived in 2019, but after being poorly received by the diaspora in New Zealand, the government decided to retain the name Cook Islands but to provide a Maori name alongside it. The Maori name has not yet been determined.<br>
+Polynesians from Tahiti were probably the first people to settle Rarotonga around A.D. 900. Over time, Samoans and Tongans also settled in Rarotonga, and Rarotongans voyaged to the northern Cook Islands, settling Manihiki and Rakahanga. Pukapuka and Penrhyn in the northern Cook Islands were settled directly from Samoa. Prior to European contact, there was considerable travel and trade between inhabitants of the different islands and atolls but they were not united in a single political entity. Spanish navigators were the first Europeans to spot the northern Cook Islands in 1595 followed by the first landing in 1606. The Cook Islands remained free of further European contact until the 1760s, and in 1773, British explorer James COOK saw Manuae in the southern Cook Islands. The islands were named after COOK in the 1820s by Russian mapmakers. English missionary activity during the 1820s and 1830s banned singing and dancing and converted most of the population.<br><br>Fearing France would militarily occupy the islands like it did in Tahiti, Rarotongans asked the UK for protectorate status in the 1840s and 1860s, which the UK ignored. In 1888, Queen MAKEA TAKAU of Rarotonga formally petitioned for protectorate status, which the UK reluctantly agreed to. In 1901, the UK placed Rarotonga and the rest of the islands in the New Zealand Colony and in 1915, the Cook Islands Act organized the Cook Islands into one political entity. It remained a protectorate until 1965, when New Zealand granted the Cook Islands self-government status. The Cook Islands has a great deal of local autonomy and is an independent member of international organizations, but it is in free association with New Zealand, which is responsible for defense and foreign affairs. Economic opportunities in the Cook Islands are sparse, and more Cook Islanders live in New Zealand than in the Cook Islands.<br><br>In a referendum in 1994, voters chose to keep the name Cook Islands rather than changing to a Maori name for the islands. The issue was revived in 2019, but after being poorly received by the diaspora in New Zealand, the government decided to retain the name Cook Islands but to provide a Maori name alongside it. The Maori name has not yet been determined.<br>
 
 ## Geography
 
@@ -203,7 +203,12 @@ _female_: 20.3% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2019)<br>
+3.5% of GDP (2019 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -429,50 +434,39 @@ NZ dollars (NZD) per US dollar -<br>
 
 ## Energy
 
-**Electricity - production**<br>
-34 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 18,000 kW (2020 est.)<br>
+_Consumption_: 38.729 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 3 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-31.62 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 70% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 30% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-14,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-79% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-21% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 800 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-600 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -480,20 +474,21 @@ NZ dollars (NZD) per US dollar -<br>
 **Refined petroleum products - imports**<br>
 611 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 114,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 114,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 
 ## Communications
 

@@ -231,7 +231,7 @@ _women married by age 15_: 1.2%<br>
 _women married by age 18_: 5.5% (2019 est.)<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2019)<br>
+3.6% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -375,7 +375,7 @@ _judge selection and term of office_: Supreme Court justices proposed by the Hig
 _subordinate courts_: basic courts, higher courts, appellate courts; courts of special jurisdiction include the Administrative Court, commercial courts, and misdemeanor courts<br>
 
 **Political parties and leaders**<br>
-Albanian Democratic Alternative (coalition of ethnic Albanian parties) [Shaip KAMBERI]<br>Alliance of Vojvodina Hungarians or SVM [Istvan PASZTOR]<br>Better Serbia [Dragan JOVANOVIC]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Democratic Party of Serbia or DSS [Milos JOVANOVIC]<br>Dveri [Bosko OBRADOVIC]<br>Greens of Serbia [Ivan KARIC]<br>Ivica Dacic - Prime Minister of Serbia [Ivica DACIC] (includes SPS, JS, ZS)<br>Justice and Reconciliation Party or SPP [Usame ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement for the Restoration of the Kingdom of Serbia or POKS (leadership is disputed)<br>Movement of Free Citizens or PSG [Pavle GRBOVIC]<br>Movement of Socialists or PS [Aleksandar VULIN]<br>National Democratic Alternative or NADA [Milos JOVANOVIC, Vojislav MIHAILOVIC, Bozidar DELIC] (includes DSS and POKS)<br>Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN]<br>Party of Freedom and Justice or SSP [Dragan DILAS]<br>Party of United Pensioners of Serbia or PUPS [Milan KRKOBABIC]<br>People's Party or NS or Narodna [Vuk JEREMIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Serbian Party Oathkeepers or SSZ [Stefan STAMENKOVSKI]<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Aleksandar VUCIC]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together for Serbia or ZZS [Nebojsa ZELENOVIC]<br>Together We Can Do Everything [Aleksandar VUCIC] (includes SNS, SDPS, PUPS, PSS, SNP, SPO, PS, NSS, USS, BS)<br>United for the Victory of Serbia or US (includes NS, SSP, DS, PSG)<br>United Peasant Party or USS [Milija MILETIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>We Must or Moramo [Nebojsa ZELENOVIC, Dobrica VESELINOVIC, Aleksandar JOVANOVIC CUTA, Biljana STOJKOVIC]<br>
+Albanian Democratic Alternative (coalition of ethnic Albanian parties) [Shaip KAMBERI]<br>Alliance of Vojvodina Hungarians or SVM [Istvan PASZTOR]<br>Better Serbia or BS [Dragan JOVANOVIC]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Democratic Party of Serbia or DSS [Milos JOVANOVIC]<br>Dveri [Bosko OBRADOVIC]<br>Greens of Serbia or ZS [Ivan KARIC]<br>Ivica Dacic - Prime Minister of Serbia [Ivica DACIC] (includes SPS, JS, ZS)<br>Justice and Reconciliation Party or SPP [Usame ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement for the Restoration of the Kingdom of Serbia or POKS (leadership is disputed)<br>Movement of Free Citizens or PSG [Pavle GRBOVIC]<br>Movement of Socialists or PS [Aleksandar VULIN]<br>National Democratic Alternative or NADA [Milos JOVANOVIC, Vojislav MIHAILOVIC, Bozidar DELIC] (includes DSS and POKS)<br>Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN]<br>Party of Freedom and Justice or SSP [Dragan DILAS]<br>Party of United Pensioners of Serbia or PUPS [Milan KRKOBABIC]<br>People's Party or NS or Narodna [Vuk JEREMIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Serbian Party Oathkeepers or SSZ [Stefan STAMENKOVSKI]<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Aleksandar VUCIC]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together for Serbia or ZZS [Nebojsa ZELENOVIC]<br>Together We Can Do Everything [Aleksandar VUCIC] (includes SNS, SDPS, PUPS, PSS, SNP, SPO, PS, NSS, USS, BS)<br>United for the Victory of Serbia or US (includes NS, SSP, DS, PSG)<br>United Peasant Party or USS [Milija MILETIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>We Must or Moramo [Nebojsa ZELENOVIC, Dobrica VESELINOVIC, Aleksandar JOVANOVIC CUTA, Biljana STOJKOVIC]<br>
 <strong>note:</strong> Serbia has more than 110 registered political parties and citizens' associations<br>
 
 **International organization participation**<br>
@@ -560,50 +560,39 @@ Serbian dinars (RSD) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-36.54 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 8.986 million kW (2020 est.)<br>
+_Consumption_: 29,933,262,000 kWh (2019 est.)<br>
+_Exports_: 5.943 billion kWh (2020 est.)<br>
+_Imports_: 5.002 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 4.332 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-29.81 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 69.2% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0% of total installed capacity (2020 est.)<br>
+_Wind_: 2.9% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 27.3% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.5% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-6.428 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 39.673 million metric tons (2020 est.)<br>
+_Consumption_: 40.83 million metric tons (2020 est.)<br>
+_Exports_: 72,000 metric tons (2020 est.)<br>
+_Imports_: 987,000 metric tons (2020 est.)<br>
+_Proven reserves_: 7.514 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-5.068 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-7.342 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-65% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-35% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-17,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-123 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-40,980 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-77.5 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 15,200 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 79,200 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 200 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 53,800 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 77.5 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 74,350 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-74,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 15,750 bbl/day (2015 est.)<br>
@@ -611,20 +600,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 18,720 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-509.7 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 455.787 million cubic meters (2019 est.)<br>
+_Consumption_: 2,619,191,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 1,980,647,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 48.139 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-2.718 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 47.735 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 32.686 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 10.17 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 4.878 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-2.01 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-48.14 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 98.195 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -736,10 +726,10 @@ Serbia does not aspire to join NATO, but has cooperated with the Alliance since 
 <p><em>Serbia-Bosnia and Herzegovina</em>: Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p> <p><em>Serbia-Bulgaria</em>: none identified</p> <p><em>Serbia-Croatia</em>: Serbia and Croatia dispute their border along the Danube; Serbia claims the border is the median between the current Danube shorelines, with the land to the eastern side of the median belonging to Serbia; Croatia contends that the boundary is demarcated according to historic maps, despite the river having meandered since then</p> <p><em>Serbia-Hungary</em>: none identified</p> <p><em>Serbia-Kosovo</em>: Serbia with several other states protested the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; since 1999, NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo (UNMIK) authority have continued to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority; in October 2021, NATO-led KFOR increased patrols along the border with Serbia to deescalate hostilities caused by a dispute over license plates</p> <p><em>Serbia-Montenegro</em>: the former republic boundary serves as the boundary until a line is formally delimited and demarcated</p> <p><em>Serbia-North Macedonia</em>: none identified</p> <p><em>Serbia-Romania</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 11,155 (Ukraine) (includes Kosovo; as of 5 July 2022)<br>
+_refugees (country of origin)_: 17,336 (Croatia), 7,997 (Bosnia and Herzegovina) (mid-year 2021); 11,897 (Ukraine) (includes Kosovo; as of 12 July 2022)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,113 (includes stateless persons in Kosovo) (mid-year 2021)<br>
-<strong>note:</strong> 845,922 estimated refugee and migrant arrivals (January 2015-June 2022); Serbia is predominantly a transit country and hosts an estimated 5,918 migrants and asylum seekers as of May 2022<br>
+<strong>note:</strong> 851,375 estimated refugee and migrant arrivals (January 2015-July 2022); Serbia is predominantly a transit country and hosts an estimated 5,918 migrants and asylum seekers as of May 2022<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

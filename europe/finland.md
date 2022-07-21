@@ -220,7 +220,12 @@ NA<br>
 _women married by age 18_: 0% (2017 est.)<br>
 
 **Education expenditures**<br>
-6.3% of GDP (2018)<br>
+6.3% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
@@ -535,50 +540,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-66.54 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 20.418 million kW (2020 est.)<br>
+_Consumption_: 79.356 billion kWh (2020 est.)<br>
+_Exports_: 6.666 billion kWh (2020 est.)<br>
+_Imports_: 21.615 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 2.574 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-82.79 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 13.4% of total installed capacity (2020 est.)<br>
+_Nuclear_: 33.4% of total installed capacity (2020 est.)<br>
+_Solar_: 0.4% of total installed capacity (2020 est.)<br>
+_Wind_: 11.9% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 23.2% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 17.8% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-3.159 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 762,000 metric tons (2020 est.)<br>
+_Consumption_: 3.552 million metric tons (2020 est.)<br>
+_Exports_: 101,000 metric tons (2020 est.)<br>
+_Imports_: 2.661 million metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-22.11 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-16.27 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-41% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-17% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-20% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-23% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-236,700 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 8,300 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 207,400 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 232,400 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 310,600 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-217,100 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 166,200 bbl/day (2017 est.)<br>
@@ -586,20 +580,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 122,200 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 2,392,826,000 cubic meters (2020 est.)<br>
+_Exports_: 181.143 million cubic meters (2020 est.)<br>
+_Imports_: 2,568,532,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-2.35 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 41.996 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 9.377 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 27.737 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 4.882 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-4 million cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-2.322 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-(1 January 2016 est.) NA cu m<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 216.571 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -718,6 +713,6 @@ note(s) - the military trains approximately 21,000 (20,000 Army) conscripts each
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 30,955 (Ukraine) (as of 3 July 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 30,372 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

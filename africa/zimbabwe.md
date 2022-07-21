@@ -234,7 +234,7 @@ _women married by age 18_: 33.7%<br>
 _men married by age 18_: 1.9% (2019 est.)<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2018)<br>
+3.6% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write English<br>
@@ -562,50 +562,39 @@ _electrification - total population_: 53% (2019)<br>
 _electrification - urban areas_: 89% (2019)<br>
 _electrification - rural areas_: 36% (2019)<br>
 
-**Electricity - production**<br>
-6.8 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 2.473 million kW (2020 est.)<br>
+_Consumption_: 10,928,240,000 kWh (2019 est.)<br>
+_Exports_: 504 million kWh (2019 est.)<br>
+_Imports_: 1.612 billion kWh (2019 est.)<br>
+_Transmission/distribution losses_: 1.491 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-7.118 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 32.9% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.1% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 65.3% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-1.239 billion kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 3.888 million metric tons (2020 est.)<br>
+_Consumption_: 3.579 million metric tons (2020 est.)<br>
+_Exports_: 327,000 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 502 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-2.22 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-2.122 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-58% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-37% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-5% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 800 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 27,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-27,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -613,20 +602,21 @@ _electrification - rural areas_: 36% (2019)<br>
 **Refined petroleum products - imports**<br>
 26,400 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 7.902 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 3.963 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 3.94 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 11.516 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -656,7 +646,7 @@ _percent of population_: 29% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 203,461 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1.4 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -698,7 +688,7 @@ _paved_: 18,481 km (2019)<br>
 _unpaved_: 78,786 km (2019)<br>
 
 **Waterways**<br>
-(2011) (some navigation possible on Lake Kariba)<br>
+223 km (2022) some navigation possible on Lake Kariba (223 km)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Binga, Kariba (Zambezi)<br>
@@ -733,7 +723,7 @@ the ZDF was formed after independence from the former Rhodesian Army and the two
 <p><em>Zimbabwe-Mozambique: none identified<br><br>Zimbabwe-South Africa: </em>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration<em><br><br>Zimbabwe-Zambia: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,426 (Democratic Republic of Congo) (refugees and asylum seekers), 8,247 (Mozambique) (2022)<br>
+_refugees (country of origin)_: 11,426 (Democratic Republic of Congo) (refugees and asylum seekers), 8,266 (Mozambique) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Zimbabwe is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Zimbabwean women and girls from towns bordering South Africa, Mozambique, and Zambia are subjected to forced labor, including domestic servitude, and prostitution catering to long-distance truck drivers; Zimbabwean men, women, and children experience forced labor in agriculture and domestic servitude in rural areas; family members may recruit children and other relatives from rural areas with promises of work or education in cities and towns where they end up in domestic servitude and sex trafficking; Zimbabwean women and men are lured into exploitative labor situations in South Africa and other neighboring countries<br>

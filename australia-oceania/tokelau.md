@@ -150,6 +150,9 @@ _unimproved: total_: total: 0.3% of population (2020 est.)<br>
 **Current Health Expenditure**<br>
 NA<br>
 
+**Physicians density**<br>
+NA<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: 100% of population<br>
@@ -177,6 +180,11 @@ NA<br>
 
 **Education expenditures**<br>
 NA<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 ## Environment
 
@@ -366,9 +374,6 @@ New Zealand dollars (NZD) per US dollar -<br>
 1.543 (2017 est.)<br>
 
 ## Energy
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2010 est.)<br>
 
 ## Communications
 

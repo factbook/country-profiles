@@ -217,7 +217,7 @@ _female_: 26.4% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.3% of GDP (2018)<br>
+4.3% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: NA<br>
@@ -540,50 +540,39 @@ koruny (CZK) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-77.39 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 22.485 million kW (2020 est.)<br>
+_Consumption_: 60.814 billion kWh (2020 est.)<br>
+_Exports_: 23.521 billion kWh (2020 est.)<br>
+_Imports_: 13.368 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 4.117 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-62.34 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 47% of total installed capacity (2020 est.)<br>
+_Nuclear_: 37.6% of total installed capacity (2020 est.)<br>
+_Solar_: 3% of total installed capacity (2020 est.)<br>
+_Wind_: 0.9% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 4.5% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 7% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-24.79 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 33.806 million metric tons (2020 est.)<br>
+_Consumption_: 37.212 million metric tons (2020 est.)<br>
+_Exports_: 1.885 million metric tons (2020 est.)<br>
+_Imports_: 3.795 million metric tons (2020 est.)<br>
+_Proven reserves_: 2.927 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-13.82 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-21.63 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-60% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-19% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-5% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-16% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-2,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-446 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-155,900 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-15 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 6,300 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 219,500 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 400 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 150,200 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 177,500 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-213,700 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 52,200 bbl/day (2017 est.)<br>
@@ -591,20 +580,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 83,860 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-229.4 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 189.185 million cubic meters (2020 est.)<br>
+_Consumption_: 8,815,133,000 cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2020 est.)<br>
+_Imports_: 7,590,318,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 3.964 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-8.721 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 99.533 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 57.268 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 25.526 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 16.739 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-8.891 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-3.964 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 161.972 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -709,8 +699,8 @@ the Czech military has a mix of Soviet-era and more modern equipment, mostly of 
 note - as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-up to 130 Lithuania (NATO) (2022)<br><br>note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe <br>
-note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe&nbsp;<br>
+up to 130 Lithuania (NATO) (2022)<br>
+<strong>note:</strong> NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>
@@ -721,7 +711,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 388,097 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 391,856 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

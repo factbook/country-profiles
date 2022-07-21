@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Many of Burkina Faso’s ethnic groups arrived in the region between the 12th and 15th centuries. The Gurma and Mossi peoples established several of the largest kingdoms in the area and used horse-mounted warriors in military campaigns. Of the various Mossi kingdoms, the most powerful were Ouagadougou and Yatenga. In the late 19th century, European states competed for control of the region. France eventually conquered the area and established it as a French protectorate.</p> <br>The area achieved independence from France in 1960 and changed its name to Burkina Faso in 1984. Repeated military coups were common in the country’s first few decades. The last successful coup occurred in 1987 when Blaise COMPAORE deposed the former president, established a government, and ruled for 27 years. In October 2014, COMPAORE resigned following protests against his repeated efforts to amend the constitution's two-term presidential limit. An interim administration led a year-long transition period organizing presidential and legislative elections. In November 2015, Roch Marc Christian KABORE was elected president; he was reelected in November 2020.<br><br>Terrorist groups - including groups affiliated with Al-Qa’ida and the Islamic State - began attacks in the country in 2016 and conducted attacks in the capital in 2016, 2017, and 2018. By late 2021, insecurity in Burkina Faso had displaced 1.4 million people and led to significant jumps in humanitarian needs and food insecurity. In addition to terrorism, the country faces a myriad of problems including high population growth, recurring drought, pervasive and perennial food insecurity, and limited natural resources. It is one of the world’s poorest countries.<br> <p> </p><br>
+<p>Many of Burkina Faso’s ethnic groups arrived in the region between the 12th and 15th centuries. The Gurma and Mossi peoples established several of the largest kingdoms in the area and used horse-mounted warriors in military campaigns. Of the various Mossi kingdoms, the most powerful were Ouagadougou and Yatenga. In the late 19th century, European states competed for control of the region. France eventually conquered the area and established it as a French protectorate.</p> The area achieved independence from France in 1960 and changed its name to Burkina Faso in 1984. Repeated military coups were common in the country’s first few decades. The last successful coup occurred in 1987 when Blaise COMPAORE deposed the former president, established a government, and ruled for 27 years. In October 2014, COMPAORE resigned following protests against his repeated efforts to amend the constitution's two-term presidential limit. An interim administration led a year-long transition period organizing presidential and legislative elections. In November 2015, Roch Marc Christian KABORE was elected president; he was reelected in November 2020.<br><br>Terrorist groups - including groups affiliated with Al-Qa’ida and the Islamic State - began attacks in the country in 2016 and conducted attacks in the capital in 2016, 2017, and 2018. By late 2021, insecurity in Burkina Faso had displaced 1.4 million people and led to significant jumps in humanitarian needs and food insecurity. In addition to terrorism, the country faces a myriad of problems including high population growth, recurring drought, pervasive and perennial food insecurity, and limited natural resources. It is one of the world’s poorest countries.<br> <p> </p><br>
 
 ## Geography
 
@@ -228,7 +228,7 @@ _female_: 6.4% (2020 est.)<br>
 16.4% (2019)<br>
 
 **Education expenditures**<br>
-5.8% of GDP (2019)<br>
+5.8% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -361,7 +361,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: transitional President Lt. Col. Paul-Henri Sandaogo DAMIBA (since 2 February 2022); note - on 24 January 2022, a military junta led by DAMIBA, leader of the Patriotic Movement for Safeguard and Restoration, took power and ousted President Roch Marc Christian KABORE<br>
-_head of government_: Prime Minister Albert OUEDRAOGO (since 3 March 2022); note - transitional President Lt. Col. DAMIBA appointed OUEDRAOGO Prime Minister on 3 March 2022; the position had been vacant since 24 January 2022 when the military ousted former Prime Minister Lassina ZERBO (2021)<br>
+_head of government_: Prime Minister Albert OUEDRAOGO (since 3 March 2022); note - transitional President Lt. Col. DAMIBA appointed OUEDRAOGO Prime Minister on 3 March 2022; the position had been vacant since 24 January 2022 when the military ousted former Prime Minister Lassina ZERBO<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second); last held on 22 November 2020 (next to be held in November 2025); prime minister appointed by the president with consent of the National Assembly; note - on 1 March 2022 a transition charter was adopted, allowing military authorities to rule for three years and barring transitional President Lt. Col. Paul-Henri Sandaogo DAMIBA from being an electoral candidate after the transition.<br>
 _election results_: Roch Marc Christian KABORE reelected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 57.9%, Eddie KOMBOIGO (CDP) 15.5%, Zephirin DIABRE (UPC)12.5%, other 14.1%<br>
@@ -560,50 +560,39 @@ _electrification - total population_: 22% (2019)<br>
 _electrification - urban areas_: 69% (2019)<br>
 _electrification - rural areas_: 2% (2019)<br>
 
-**Electricity - production**<br>
-990 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 392,000 kW (2020 est.)<br>
+_Consumption_: 2,033,520,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 600 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 248 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-1.551 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 89.4% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 3.3% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 6.9% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.4% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-630 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-342,400 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-80% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-9% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-12% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 30,800 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-23,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -611,20 +600,21 @@ _electrification - rural areas_: 2% (2019)<br>
 **Refined petroleum products - imports**<br>
 23,580 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 4.444 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 4.444 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 3.23 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -654,7 +644,7 @@ _percent of population_: 22% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 13,979 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.1 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
 
 ## Transportation
 
@@ -715,7 +705,7 @@ the FABF has a mix of foreign-supplied weapons; since 2010, it has received limi
 
 **Military deployments**<br>
 650 (plus about 170 police) Mali (MINUSMA) (Jan 2022)<br>
-note - Burkina Faso is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Chad, Mali, Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries<br>
+<strong>note:</strong> Burkina Faso is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Chad, Mali (withdrew in 2022), Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries<br>
 
 **Military - note**<br>
 including the most recent in January 2022, the military has conducted 7 coups since 1960; as of 2022, the military was also actively engaged in combat operations with terrorist groups linked to al-Qa'ida and ISIS, particularly in the northern and eastern regions; in the north, the terrorist groups Jama'at Nusrat al-Islam wal-Muslimin (JNIM) has exploited ethnic tensions and perceptions of state neglect, as well as grievances over corruption, patronage politics, social stratification, and land disputes; the east is reportedly a stronghold of the Islamic State-Greater Sahara (ISGS) (2022)<br>
@@ -723,7 +713,7 @@ including the most recent in January 2022, the military has conducted 7 coups si
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISGS); al-Mulathamun Battalion (al-Mourabitoun); Jama'at Nusrat al-Islam wal-Muslimin (JNIM)<br>
+Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); al-Mulathamun Battalion (al-Mourabitoun); Jama'at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

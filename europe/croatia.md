@@ -223,7 +223,7 @@ _female_: 36.1% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.9% of GDP (2017)<br>
+3.9% of GDP (2017 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -358,7 +358,7 @@ _election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in seco
 _description_: unicameral Assembly or Hrvatski Sabor (151 seats; 140 members in 10 multi-seat constituencies and 3 members in a single constituency for Croatian diaspora directly elected by proportional representation vote using the D'Hondt method with a 5% threshold; an additional 8 members elected from a nationwide constituency by simple majority by voters belonging to minorities recognized by Croatia; the Serb minority elects 3 Assembly members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2; all members serve 4-year terms<br>
 _elections_: early election held on 5 July 2020 (next to be held by 2024)<br>
 _election results_: percent of vote by coalition/party - HDZ-led coalition 37.3%, Restart coalition 24.9%, DPMS-led coalition 10.9%, MOST 7.4%, Green-Left coalition 7%, P-F-SSIP 4%, HNS-LD 1.3%, NS-R 1%, other 6.2%; number of seats by coalition/party - HDZ-led coalition 66, Restart coalition 41, DPMS-led coalition 16, MOST 8, Green-Left coalition 7, P-F-SSIP 3, HNS-LD 1, NS-R 1, national minorities 8; composition as of January 2021 - men 103, women 48, percent of women 31.8%<br>
-<strong>note:</strong> seats by party as of March 2021 - HDZ 62, SDP 33, DP 9, Most 6, Croatian Sovereignists 4, We Can! 4, IDS 3, SDSS 3, HSS 2, HSLS 2, BZH 1, Center 1, FOKUS 1, GLAS 1, HDS 1, HSU 1, NL 1, Reformists 1, SSIP 1, WF 1, independent 12<br>
+<strong>note:</strong> seats by party as of March 2021 - HDZ 62, SDP 33, DP 9, Most 6, Croatian Sovereignists 4, We Can! 4, IDS 3, SDSS 3, HSS 2, HSLS 2, BZH 1, Center 1, FOKUS 1, GLAS 1, HDS 1, HSU 1, NL 1, Reformists 1, SSIP 1, RF 1, independent 12<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and vice president, 25 civil department justices, and 16 criminal department justices)<br>
@@ -366,7 +366,7 @@ _judge selection and term of office_: president of Supreme Court nominated by th
 _subordinate courts_: Administrative Court; county, municipal, and specialized courts; note - there is an 11-member Constitutional Court with jurisdiction limited to constitutional issues but is outside of the judicial system<br>
 
 **Political parties and leaders**<br>
-Bloc for Croatia or BLOK [Zlatko HASANBEGOVIC]<br>The Bridge or Most [Bozo PETROV] (formerly the Bridge of Independent Lists)<br>Center or Centar [Ivica PULJAK] (formerly Pametno and Party with a First and Last Name or SSIP) <br>Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]<br>Croatian Demochristian Party or HDS [Goran DODIG<br>Croatian Democratic Alliance of Slavonia and Baranja or HDSSB [Branimir GLAVAS]<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Croatian Democratic Union-led coalition (includes HSLS, HDS, HDSSB)<br>Croatian Party of Pensioners or HSU [Veselko GABRICEVIC]<br>Croatian Peasant Party or HSS [Kreso BELJAK]<br>Croatian People's Party - Liberal Democrats or HNS-LD [Stjepan CURAJ]<br>Croatian Social Liberal Party or HSLS [Dario HREBAK]<br>Croatian Sovereignists or HS [Marijan PAVLICEK]<br>Focus on the Important or Focus [Davor NADI]<br>Green-Left coalition (includes MOZEMO!, RF, NL)<br>Homeland Movement or DP [Ivan PENAVA]<br>Independent Democratic Serb Party or SDSS [Milorad PUPOVAC]<br>Istrian Democratic Assembly or IDS [Dalibor PAUS]<br>New Left or NL [Ivana KEKIN]<br>People's Party - Reformists or NS-R [Radimir CACIC]<br>Restart Coalition (includes SDP, HSS, HSU, GLAS, IDS, NS-R)<br>Social Democratic Party of Croatia or SDP [Peda GRBIN]<br>We Can! or Mozemo! [collective leadership]<br>Workers' Front or RF [collective leadership]<strong><br></strong><br>
+Bloc for Croatia or BLOK or BZH [Zlatko HASANBEGOVIC]<br>The Bridge or Most [Bozo PETROV] (formerly the Bridge of Independent Lists)<br>Center or Centar [Ivica PULJAK] (formerly Pametno and Party with a First and Last Name or SSIP) <br>Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]<br>Croatian Demochristian Party or HDS [Goran DODIG<br>Croatian Democratic Alliance of Slavonia and Baranja or HDSSB [Branimir GLAVAS]<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Croatian Democratic Union-led coalition (includes HSLS, HDS, HDSSB)<br>Croatian Party of Pensioners or HSU [Veselko GABRICEVIC]<br>Croatian Peasant Party or HSS [Kreso BELJAK]<br>Croatian People's Party - Liberal Democrats or HNS-LD [Stjepan CURAJ]<br>Croatian Social Liberal Party or HSLS [Dario HREBAK]<br>Croatian Sovereignists or HS [Marijan PAVLICEK]<br>Focus on the Important or Focus [Davor NADI]<br>Green-Left coalition (includes MOZEMO!, RF, NL)<br>Homeland Movement or DP [Ivan PENAVA] (also known as Miroslav Škoro Homeland Movement or DPMS)<br>Independent Democratic Serb Party or SDSS [Milorad PUPOVAC]<br>Istrian Democratic Assembly or IDS [Dalibor PAUS]<br>New Left or NL [Ivana KEKIN]<br>People's Party - Reformists or NS-R [Radimir CACIC]<br>Restart Coalition (includes SDP, HSS, HSU, GLAS, IDS, NS-R)<br>Social Democratic Party of Croatia or SDP [Peda GRBIN]<br>We Can! or Mozemo! [collective leadership]<br>Workers' Front or RF [collective leadership]<strong><br></strong><br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -553,50 +553,39 @@ kuna (HRK) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-12.2 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 4.94 million kW (2020 est.)<br>
+_Consumption_: 16,790,680,000 kWh (2019 est.)<br>
+_Exports_: 5.852 billion kWh (2020 est.)<br>
+_Imports_: 10.491 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 1.659 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-15.93 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 41% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.9% of total installed capacity (2020 est.)<br>
+_Wind_: 16.1% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 31.8% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0.9% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 9.3% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-3.2 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 643,000 metric tons (2020 est.)<br>
+_Exports_: 2,000 metric tons (2020 est.)<br>
+_Imports_: 644,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-8.702 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-4.921 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-45% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-40% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-16% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-14,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-55,400 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-71 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 12,200 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 71,500 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 65,200 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 71 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 74,620 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-73,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 40,530 bbl/day (2015 est.)<br>
@@ -604,20 +593,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 35,530 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-1.048 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 851.005 million cubic meters (2020 est.)<br>
+_Consumption_: 3,009,113,000 cubic meters (2020 est.)<br>
+_Exports_: 34.462 million cubic meters (2020 est.)<br>
+_Imports_: 2,131,802,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 24.919 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-2.577 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 16.752 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 1.674 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 9.4 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 5.678 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-172.7 million cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-1.841 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-24.92 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 89.733 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -691,7 +681,7 @@ _standard gauge_: 2,722 km (2014) 1.435-m gauge (980 km electrified)<br>
 _total_: 26,958 km (2015) (includes 1,416 km of expressways)<br>
 
 **Waterways**<br>
-785 km (2009)<br>
+4,714 km (2022) Danube 2,859 km, Sava 562 km, Drava 505 km, Neretva 20 km, Bosut 151 km, Kupa 296 km, Mura 53 km, Korana 134 km, Lonja 134 km<br>
 
 **Merchant marine**<br>
 _total_: 354<br>

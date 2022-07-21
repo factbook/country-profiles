@@ -213,7 +213,7 @@ _female_: 20.2% (2020 est.)<br>
 0.4% (2015/16)<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2018)<br>
+4.7% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -534,50 +534,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-56.9 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 22.364 million kW (2020 est.)<br>
+_Consumption_: 48.409 billion kWh (2020 est.)<br>
+_Exports_: 6.097 billion kWh (2020 est.)<br>
+_Imports_: 7.553 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 5.269 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-46.94 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 39% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 3.2% of total installed capacity (2020 est.)<br>
+_Wind_: 23.3% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 26.5% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0.4% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 7.7% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-9.701 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 957,000 metric tons (2020 est.)<br>
+_Exports_: 1,000 metric tons (2020 est.)<br>
+_Imports_: 238,000 metric tons (2020 est.)<br>
+_Proven reserves_: 36 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-4.616 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-20.56 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-41% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-25% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-35% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-285,200 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 8,000 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 249,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 255,400 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 323,000 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-247,200 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 143,500 bbl/day (2017 est.)<br>
@@ -585,20 +574,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 78,700 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 5,935,938,000 cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 6,091,114,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-6.258 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 50.37 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 4.882 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 33.429 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 12.059 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-6.541 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 101.734 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -661,7 +651,7 @@ _under 914 m_: 20 (2021)<br>
 1,344 km gas, 11 km oil, 188 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 3,075 km (2014)<br>
+_total_: 3,075.1 km (2014)<br>
 _narrow gauge_: 108.1 km (2014) 1.000-m gauge<br>
 _broad gauge_: 2,439 km (2014) 1.668-m gauge (1,633.4 km electrified)<br>
 _other_: 528 km (2014) (gauge unspecified)<br>
@@ -707,8 +697,8 @@ the Portuguese Armed Forces inventory includes mostly European and US-origin wea
 note - as of 2019, women made up about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-200 Central African Republic (MINUSCA/EUTM); up to 120 Lithuania (2022)<br><br>note(s) - in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries,  including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
-note(s) - in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s 2022 invasion of Ukraine, some NATO countries,&nbsp; including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
+200 Central African Republic (MINUSCA/EUTM); up to 120 Lithuania (NATO) (2022)<br>
+<strong>note 1: </strong>in 2021, Portugal deployed about 80 troops to Mozambique to assist with the EU training mission<br><br><strong>note 2: </strong>NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries,  including Portugal, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Portugal is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
@@ -724,7 +714,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Portugal-Spain</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 46,579 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 47,069 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 45 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

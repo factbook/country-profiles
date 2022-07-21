@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Paramount chief MOSHOESHOE I consolidated what would become Basutoland in the early 19th century and made himself king in 1822. Continuing encroachments by Dutch settlers from the neighboring Orange Free State caused the king to enter into an 1868 agreement with the UK by which Basutoland became a British protectorate, and after 1884, a crown colony. Upon independence in 1966, the country was renamed the Kingdom of Lesotho. The Basotho National Party ruled the country during its first two decades. King MOSHOESHOE II was exiled in 1990, but returned to Lesotho in 1992 and was reinstated in 1995 and subsequently succeeded by his son, King LETSIE III, in 1996. Constitutional government was restored in 1993 after seven years of military rule. In 1998, violent protests and a military mutiny following a contentious election prompted a brief but bloody intervention by South African and Botswana military forces under the aegis of the Southern African Development Community. Subsequent constitutional reforms restored relative political stability. Peaceful parliamentary elections were held in 2002, but the National Assembly elections in 2007 were hotly contested and aggrieved parties disputed how the electoral law was applied to award proportional seats in the Assembly. In 2012, competitive elections involving 18 parties saw Prime Minister Motsoahae Thomas THABANE form a coalition government - the first in the country's history - that ousted the 14-year incumbent, Pakalitha MOSISILI, who peacefully transferred power the following month. MOSISILI returned to power in snap elections in February 2015 after the collapse of THABANE&rsquo;s coalition government and an alleged attempted military coup. In June 2017, THABANE returned to become prime minister.<br>
+Paramount chief MOSHOESHOE I consolidated what would become Basutoland in the early 19th century and made himself king in 1822. Continuing encroachments by Dutch settlers from the neighboring Orange Free State caused the king to enter into an 1868 agreement with the UK by which Basutoland became a British protectorate, and after 1884, a crown colony. Upon independence in 1966, the country was renamed the Kingdom of Lesotho. The Basotho National Party ruled the country during its first two decades. King MOSHOESHOE II was exiled in 1990, but returned to Lesotho in 1992 and was reinstated in 1995 and subsequently succeeded by his son, King LETSIE III, in 1996. Constitutional government was restored in 1993 after seven years of military rule. In 1998, violent protests and a military mutiny following a contentious election prompted a brief but bloody intervention by South African and Batswana military forces under the aegis of the Southern African Development Community. Subsequent constitutional reforms restored relative political stability. Peaceful parliamentary elections were held in 2002, but the National Assembly elections in 2007 were hotly contested and aggrieved parties disputed how the electoral law was applied to award proportional seats in the Assembly. In 2012, competitive elections involving 18 parties saw Prime Minister Motsoahae Thomas THABANE form a coalition government - the first in the country's history - that ousted the 14-year incumbent, Pakalitha MOSISILI, who peacefully transferred power the following month. MOSISILI returned to power in snap elections in February 2015 after the collapse of THABANE&rsquo;s coalition government and an alleged attempted military coup. In June 2017, THABANE returned to become prime minister.<br>
 
 ## Geography
 
@@ -225,7 +225,7 @@ _women married by age 18_: 16.4%<br>
 _men married by age 18_: 1.9% (2018 est.)<br>
 
 **Education expenditures**<br>
-7.4% of GDP (2020)<br>
+7.4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -357,8 +357,8 @@ _elections/appointments_: the monarchy is hereditary, but under the terms of the
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (33 seats; 22 principal chiefs and 11 other senators nominated by the king with the advice of the Council of State, a 13-member body of key government and non-government officials; members serve 5-year terms)<br>National Assembly (120 seats; 80 members directly elected in single-seat constituencies by simple majority vote and 40 elected through proportional representation; members serve 5-year terms)<br>
-_elections_: Senate - last nominated by the king 11 July 2017 (next NA)<br>National Assembly - last held on 3 June 2017 (next to be held in 2022)<br>
-_election results_: Senate - percent of votes by party - NA, seats by party - NA; composition - men 26, women 7, percent of women 21.2%<br>National Assembly - percent of votes by party - ABC 40.5%, DC 25.8%, LCD 9%, AD 7.3%, MEC 5.1%, BNP 4.1, PFD 2.3%, other 5.9%; seats by party - ABC 51, DC 30, LCD 11, AD 9, MEC 6, BNP 5, PFD 3, other 5; composition - men 95, women 27, percent of women 22.5%; note - total Parliament percent of women 22.9%<br>
+_elections_: Senate - last nominated by the king on 11 July 2017 (next in late July 2022)<br>National Assembly - last held on 3 June 2017 (next to be held on 30 September 2022)<br>
+_election results_: Senate - percent of votes by party - NA, seats by party - NA; composition - men 26, women 7, percent of women 21.2%<br>National Assembly - percent of votes by party - ABC 40.5%, DC 25.8%, LCD 9%, AD 7.3%, MEC 5.1%, BNP 4.1, PFD 2.3%, other 5.9%; seats by party - ABC 51, DC 30, LCD 11, AD 9, MEC 6, BNP 5, PFD 3, other 5; composition - men 87, women 28, percent of women 23.3%; note - total Parliament percent of women 22.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president, such number of justices of appeal as set by Parliament, and the Chief Justice and the puisne judges of the High Court ex officio); High Court (consists of the chief justice and such number of puisne judges as set by Parliament); note - both the Court of Appeal and the High Court have jurisdiction in constitutional issues<br>
@@ -376,7 +376,7 @@ _chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Masopha Phoofol
 _chancery_: 2511 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 797-5533<br>
 _FAX_: [1] (202) 234-6815<br>
-_email address and website_: <br>lesothoembassy@verizon.net<br><br>https://www.gov.ls/<br>
+_email address and website_: lesothoembassy@verizon.net<br><br>https://www.gov.ls/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Maria E. BREWER (since 10 March 2022)<br>
@@ -550,50 +550,39 @@ _electrification - total population_: 36% (2019)<br>
 _electrification - urban areas_: 63% (2019)<br>
 _electrification - rural areas_: 26% (2019)<br>
 
-**Electricity - production**<br>
-510 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 74,000 kW (2020 est.)<br>
+_Consumption_: 912.8 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 541.7 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 129.9 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-847.3 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 0% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.2% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 99.8% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-373 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-80,400 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-0% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-100% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 5,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-5,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -601,20 +590,21 @@ _electrification - rural areas_: 26% (2019)<br>
 **Refined petroleum products - imports**<br>
 5,118 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 736,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 736,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 7.823 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -644,7 +634,7 @@ _percent of population_: 43% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5,060 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.24 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.2 (2020 est.)<br>
 
 ## Transportation
 

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Central African Republic (CAR) is a perennially weak state that sits at the crossroads of ethnic and linguistic groups in the center of the African continent. Among the last areas of sub-Saharan Africa to be drawn into the world economy, its introduction into trade networks around the early 1700s fostered significant competition among its population. The local population sought to benefit from the lucrative Atlantic, trans-Saharan, and Indian Ocean trade in enslaved people and ivory. Slave raids aided by representatives from the local populations fostered animosity between ethnic groups that remains today. The territory was established as a French colony named Ubangui-Shari in 1903, and France modeled its administration of the colony after the Belgian Congo, subcontracting control of the territory to private companies that collected rubber and ivory. Although France banned the domestic slave trade in CAR in the 1910s, the private companies continued to exploit the population through forced labor. The colony of Ubangi-Shari gained independence from France as the Central African Republic in August 1960, but the death of independence leader Barthelemy BOGANDA six months prior led to an immediate struggle for power.</p> <p>CAR’s political history has since been marred by a series of coups, the first of which brought Jean-Bedel BOKASSA to power in 1966. BOKASSA’s regime was characterized by widespread corruption and an intolerance of opposition, which manifested in the disappearances of many who challenged BOKASSA’s rule. In an effort to prolong his mandate, he named himself emperor in 1976 and changed the country’s name to the Central African Empire. His regime’s economic mismanagement culminated in widespread student protests in early 1979 that were violently suppressed by security forces. BOKASSA, rumored to have participated in the killing of some young students after the protests, fell out of favor with the international community and was overthrown in a French-backed coup in 1979. After BOKASSA’s departure, the country’s name once again became the Central African Republic.</p> <p>CAR’s fifth coup in March 2013 unseated President Francois BOZIZE after a mainly Muslim rebel coalition named the Seleka seized the capital and forced BOZIZE, who himself had taken power in a coup in 2003, to flee the country. Widespread abuses by the Seleka spurred the formation of mainly Christian self-defense groups that called themselves the anti-Balaka, which have also committed human rights abuses against Muslim populations in retaliation. Since the rise of the self-defense groups, conflict in CAR has become increasingly ethnoreligious-based, although focused on identity as opposed to religious ideology. Elections organized by a transitional government in early 2016 installed independent candidate Faustin-Archange TOUADERA as president; he was reelected in December 2020. A peace agreement signed in February 2019 between the government and the main armed factions has had little effect, and armed groups remain in control of large swaths of the country's territory.</p><br>
+<p>The Central African Republic (CAR) is a perennially weak state that sits at the crossroads of ethnic and linguistic groups in the center of the African continent. Among the last areas of Sub-Saharan Africa to be drawn into the world economy, its introduction into trade networks around the early 1700s fostered significant competition among its population. The local population sought to benefit from the lucrative Atlantic, trans-Saharan, and Indian Ocean trade in enslaved people and ivory. Slave raids aided by the local populations fostered animosity between ethnic groups that remains today. The territory was established as a French colony named Ubangui-Shari in 1903, and France modeled its administration of the colony after the Belgian Congo, subcontracting control of the territory to private companies that collected rubber and ivory. Although France banned the domestic slave trade in CAR in the 1910s, the private companies continued to exploit the population through forced labor. The colony of Ubangi-Shari gained independence from France as the Central African Republic in August 1960, but the death of independence leader Barthelemy BOGANDA six months prior led to an immediate struggle for power.</p> <p>CAR’s political history has since been marred by a series of coups, the first of which brought Jean-Bedel BOKASSA to power in 1966. BOKASSA’s regime was characterized by widespread corruption and an intolerance of opposition, which manifested in the disappearances of many who challenged BOKASSA’s rule. In an effort to prolong his mandate, he named himself emperor in 1976 and changed the country’s name to the Central African Empire. His regime’s economic mismanagement culminated in widespread student protests in early 1979 that were violently suppressed by security forces. BOKASSA, rumored to have participated in the killing of some young students after the protests, fell out of favor with the international community and was overthrown in a French-backed coup in 1979. After BOKASSA’s departure, the country’s name once again became the Central African Republic.</p> <p>CAR’s fifth coup in March 2013 unseated President Francois BOZIZE after a mainly Muslim rebel coalition named the Seleka seized the capital and forced BOZIZE, who himself had taken power in a coup in 2003, to flee the country. Widespread abuses by the Seleka spurred the formation of mainly Christian self-defense groups that called themselves the anti-Balaka, which have also committed human rights abuses against Muslim populations in retaliation. Since the rise of the self-defense groups, conflict in CAR has become increasingly ethnoreligious-based, although focused on identity as opposed to religious ideology. Elections organized by a transitional government in early 2016 installed independent candidate Faustin-Archange TOUADERA as president; he was reelected in December 2020. A peace agreement signed in February 2019 between the government and the main armed factions has had little effect, and armed groups remain in control of large swaths of the country's territory.</p><br>
 
 ## Geography
 
@@ -228,7 +228,7 @@ _women married by age 18_: 61%<br>
 _men married by age 18_: 17.1% (2019 est.)<br>
 
 **Education expenditures**<br>
-1.8% of GDP (2019)<br>
+1.8% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -543,50 +543,39 @@ _electrification - total population_: 3% (2019)<br>
 _electrification - urban areas_: 7% (2019)<br>
 _electrification - rural areas_: 0.4% (2019)<br>
 
-**Electricity - production**<br>
-171.4 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 38,000 kW (2020 est.)<br>
+_Consumption_: 140.44 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 10.5 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-159.4 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 0.7% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 99.3% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 3 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-38,300 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-50% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-50% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 2,000 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-2,800 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -594,20 +583,21 @@ _electrification - rural areas_: 0.4% (2019)<br>
 **Refined petroleum products - imports**<br>
 2,799 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 285,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 285,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 1.121 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -637,7 +627,7 @@ _percent of population_: 10% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 499 (2019 est.) Data available for 2019 only.<br>
-_subscriptions per 100 inhabitants_: 0.01 (2019 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.01 (2019 est.)<br>
 
 ## Transportation
 

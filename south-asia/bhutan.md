@@ -194,7 +194,7 @@ _unimproved: total_: total: 13.6% of population (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-6.9% of GDP (2018)<br>
+6.9% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -329,8 +329,13 @@ Bhutan Kuen-Nyam Party or BKP<br>Bhutan Peace and Prosperity Party (Druk Phuensu
 ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; the Permanent Mission to the UN for Bhutan has consular jurisdiction in the US; the permanent representative to the UN is Doma TSHERING (since 13 September 2017); address: 343 East 43rd Street, New York, NY 10017; telephone [1] (212) 682-2268; FAX [1] (212) 661-0551; email consulate.pmbny@mfa.gov.bt<br>
+_chief of mission_: Ambassador Doma TSHERING (since 13 September 2017)<br>note - also the Permanent Representative to the UN<br>
+_telephone_: [1] (212) 682-2268<br>
+_FAX_: [1] (212) 661-0551<br>
+_email address and website_: email - consulate.pmbny@mfa.gov.bt<br>web address - https://www.mfa.gov.bt/pmbny/<br>
 _consulate(s) general_: New York<br>
+_embassy_: 343 East 43rd Street, New York, NY 10017<br>
+note - the Permanent Mission to the UN for Bhutan has consular jurisdiction in the US<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none; frequent informal contact is maintained via the US embassy in New Delhi (India) and Bhutan's Permanent Mission to the UN<br>
@@ -491,50 +496,39 @@ ngultrum (BTN) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-7.883 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 2.334 million kW (2020 est.)<br>
+_Consumption_: 4,314,890,000 kWh (2019 est.)<br>
+_Exports_: 4.6 billion kWh (2019 est.)<br>
+_Imports_: 22.85 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 60 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-2.184 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 0% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 100% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-5.763 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 174,000 metric tons (2020 est.)<br>
+_Consumption_: 211,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 37,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-84 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-1.632 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-1% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-99% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 4,400 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-3,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -542,20 +536,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 3,120 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 934,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 328,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 606,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (2016 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 100.135 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -585,7 +580,7 @@ _percent of population_: 54% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,189 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.4 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.4 (2020 est.)<br>
 
 ## Transportation
 

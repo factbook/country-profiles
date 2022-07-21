@@ -211,7 +211,7 @@ _female_: 8.3% (2020 est.)<br>
 11.9% (2017)<br>
 
 **Education expenditures**<br>
-9.6% of GDP (2019)<br>
+9.6% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -503,50 +503,8 @@ _electrification - total population_: 96.3% (2018)<br>
 _electrification - urban areas_: 95.7% (2018)<br>
 _electrification - rural areas_: 98.4% (2018)<br>
 
-**Electricity - production**<br>
-650 million kWh (2016 est.)<br>
-
-**Electricity - consumption**<br>
-604.5 million kWh (2016 est.)<br>
-
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-52,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-81% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-19% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
-
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-2,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -554,17 +512,8 @@ _electrification - rural areas_: 98.4% (2018)<br>
 **Refined petroleum products - imports**<br>
 2,060 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+293,700 metric tonnes of CO2 (2017 est.)<br>
 
 ## Communications
 
@@ -594,7 +543,7 @@ _percent of population_: 39% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1.7 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 **Communications - note**<br>
 Kwajalein hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory))<br>

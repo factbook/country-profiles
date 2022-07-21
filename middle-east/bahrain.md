@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In 1783, the Sunni Al-Khalifa family took power in Bahrain. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. A steady decline in oil production and reserves since 1970 prompted Bahrain to take steps to diversify its economy, in the process developing petroleum processing and refining, aluminum production, and hospitality and retail sectors. It has also endeavored to become a leading regional banking center, especially with respect to Islamic finance. Bahrain's small size, central location among Gulf countries, economic dependence on Saudi Arabia, and proximity to Iran require it to play a delicate balancing act in foreign affairs among its larger neighbors. Its foreign policy activities usually fall in line with Saudi Arabia and the UAE.</p> <p>The Sunni royal family has long struggled to manage relations with its large Shia-majority population. In early 2011, amid Arab uprisings elsewhere in the region, the Bahraini Government confronted similar pro-democracy and reform protests at home with police and military action, including deploying Gulf Cooperation Council security forces to Bahrain. Failed political talks prompted opposition political societies to boycott 2014 legislative and municipal council elections. In 2018, a law preventing members of political societies dissolved by the courts from participating in elections effectively sidelined the majority of opposition figures from taking part in national elections. As a result, most members of parliament are independents. Ongoing dissatisfaction with the political status quo continues to factor into sporadic clashes between demonstrators and security forces. On 15 September 2020, Bahrain and the United Arab Emirates signed peace agreements (the Abraham Accords) with Israel – brokered by the US – in Washington DC. Bahrain and the UAE thus became the third and fourth Middle Eastern countries, along with Egypt and Jordan, to recognize Israel.</p><br>
+<p>In 1783, the Sunni Al-KHALIFA family took power in Bahrain. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. A steady decline in oil production and reserves since 1970 prompted Bahrain to take steps to diversify its economy, in the process developing petroleum processing and refining, aluminum production, and hospitality and retail sectors. It has also endeavored to become a leading regional banking center, especially with respect to Islamic finance. Bahrain's small size, central location among Gulf countries, economic dependence on Saudi Arabia, and proximity to Iran require it to play a delicate balancing act in foreign affairs among its larger neighbors. Its foreign policy activities usually fall in line with Saudi Arabia and the UAE.</p> <p>The Sunni royal family has long struggled to manage relations with its large Shia-majority population. In early 2011, amid Arab uprisings elsewhere in the region, the Bahraini Government confronted similar pro-democracy and reform protests at home with police and military action, including deploying Gulf Cooperation Council security forces to Bahrain. Failed political talks prompted opposition political societies to boycott 2014 legislative and municipal council elections. In 2018, a law preventing members of political societies dissolved by the courts from participating in elections effectively sidelined the majority of opposition figures from taking part in national elections. As a result, most members of parliament are independents. Ongoing dissatisfaction with the political status quo continues to factor into sporadic clashes between demonstrators and security forces. On 15 September 2020, Bahrain and the United Arab Emirates signed peace agreements (the Abraham Accords) with Israel – brokered by the US – in Washington DC. Bahrain and the UAE thus became the third and fourth Middle Eastern countries, along with Egypt and Jordan, to recognize Israel.</p><br>
 
 ## Geography
 
@@ -210,7 +210,7 @@ _female_: 4.5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-2.3% of GDP (2017)<br>
+2.3% of GDP (2017 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -526,50 +526,39 @@ Bahraini dinars (BHD) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-26.81 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 6.982 million kW (2020 est.)<br>
+_Consumption_: 31,038,250,000 kWh (2019 est.)<br>
+_Exports_: 447 million kWh (2019 est.)<br>
+_Imports_: 652 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 611 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-26.11 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 100% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-213 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-276 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-3.928 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-100% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-40,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-226,200 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-124.6 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 185,300 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 73,200 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 228,800 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 186.5 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 274,500 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-61,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 245,300 bbl/day (2015 est.)<br>
@@ -577,20 +566,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 14,530 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-15.89 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 18,271,840,000 cubic meters (2019 est.)<br>
+_Consumption_: 18,251,140,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 81.382 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-15.89 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 43.112 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 7.308 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 35.804 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-92.03 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 547.976 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -688,7 +678,7 @@ Bahrain hosts the US Naval Forces Central Command (USNAVCENT; established 1983),
 
 **Terrorist group(s)**<br>
 al-Ashtar Brigades; Islamic Revolutionary Guard Corps/Qods Force<br>
-note(s) - details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T <br><br>in addition to the al-Ashtar Brigades and the IGRC/Qods Force, Saraya al-Mukhtar (aka The Mukhtar Brigade) is an Iran-backed terrorist organization based in Bahrain, reportedly receiving financial and logistic support from the IGRC; Saraya al-Mukhtar's self-described goal is to depose the Bahraini Government with the intention of paving the way for Iran to exert greater influence in Bahrain; the group was designated by the US as a Specially Designated Global Terrorist in Dec 2020.<br>
+<strong>note 1:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T <br><br><strong>note 2: </strong>in addition to the al-Ashtar Brigades and the IRGC/Qods Force, Saraya al-Mukhtar (aka The Mukhtar Brigade) is an Iran-backed terrorist organization based in Bahrain, reportedly receiving financial and logistic support from the IRGC; Saraya al-Mukhtar's self-described goal is to depose the Bahraini Government with the intention of paving the way for Iran to exert greater influence in Bahrain; the group was designated by the US as a Specially Designated Global Terrorist in Dec 2020<br>
 
 ## Transnational Issues
 

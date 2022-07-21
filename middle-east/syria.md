@@ -354,11 +354,10 @@ _subordinate courts_: courts of first instance; magistrates' courts; religious a
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, ICSID, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WBG, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); note &ndash; embassy closed in March 2014<br>
+_chief of mission_: Ambassador (vacant); note &ndash; embassy closed on 18 March 2014<br>
 _chancery_: 2215 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 232-6313<br>
 _FAX_: [1] (202) 234-9548<br>
-<strong>note:</strong> Embassy ceased operations and closed on 18 March 2014<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); note - on 6 February 2012, the US closed its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria<br>
@@ -521,50 +520,39 @@ _electrification - total population_: 92% (2019)<br>
 _electrification - urban areas_: 100% (2019)<br>
 _electrification - rural areas_: 84% (2019)<br>
 
-**Electricity - production**<br>
-17.07 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 10.082 million kW (2020 est.)<br>
+_Consumption_: 13,071,080,000 kWh (2019 est.)<br>
+_Exports_: 347 million kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 3.687 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-14.16 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 95.1% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 4.8% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.2% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-262 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 38,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 38,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-9.058 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-83% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-17% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-25,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-87,660 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-2.5 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 80,800 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 137,900 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 129,100 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 111,600 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-134,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 12,520 bbl/day (2015 est.)<br>
@@ -572,20 +560,21 @@ _electrification - rural areas_: 84% (2019)<br>
 **Refined petroleum products - imports**<br>
 38,080 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-3.738 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 3,531,077,000 cubic meters (2019 est.)<br>
+_Consumption_: 3,531,077,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2020 est.)<br>
+_Proven reserves_: 240.693 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-3.738 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 26.893 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 46,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 19.92 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 6.927 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-240.7 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 24.567 million Btu/person (2019 est.)<br>
 
 ## Communications
 

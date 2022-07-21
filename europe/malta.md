@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-With a civilization that dates back thousands of years, Malta boasts some of the oldest megalithic sites in the world. Situated in the center of the Mediterranean, Malta&rsquo;s islands have long served as a strategic military asset, with the islands at various times having come under control of the Phoenicians, Carthaginians, Greeks, Romans, Byzantines, Moors, Normans, Sicilians, Spanish, Knights of St. John, and the French. Most recently a British colony (since 1814), Malta gained its independence in 1964 and declared itself a republic ten years later. While under British rule, the island staunchly supported the UK through both world wars. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination while its key industries moved toward more service-oriented activities. Malta became an EU member in May 2004 and began using the euro as currency in 2008.<br>
+With a civilization that dates back thousands of years, Malta boasts some of the oldest megalithic sites in the world. Situated in the center of the Mediterranean, Malta&rsquo;s islands have long served as a strategic military asset, with the islands at various times having come under control of the Phoenicians, Carthaginians, Greeks, Romans, Byzantines, Moors, Normans, Sicilians, Spanish, Knights of St. John, and the French. Most recently a British colony (since 1814), Malta gained its independence in 1964 and declared itself a republic 10 years later. While under British rule, the island staunchly supported the UK through both world wars. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination while its key industries moved toward more service-oriented activities. Malta became an EU member in May 2004 and began using the euro as currency in 2008.<br>
 
 ## Geography
 
@@ -210,7 +210,7 @@ _female_: 21.6% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2017)<br>
+4.7% of GDP (2017 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -525,50 +525,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-813 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 784,000 kW (2020 est.)<br>
+_Consumption_: 2,497,143,000 kWh (2019 est.)<br>
+_Exports_: 4 million kWh (2020 est.)<br>
+_Imports_: 420 million kWh (2020 est.)<br>
+_Transmission/distribution losses_: 158 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-2.122 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 88.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 11.2% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-1.525 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-575,100 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-81% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-19% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 54,000 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-45,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 10,400 bbl/day (2015 est.)<br>
@@ -576,20 +565,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 52,290 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 415.606 million cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 415.606 million cubic meters (2020 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-283.2 million cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 9.576 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 8.831 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 745,000 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-311.5 million cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 267.739 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -643,9 +633,9 @@ _over 3,047 m_: 1 (2021)<br>
 2 (2021)<br>
 
 **Roadways**<br>
-_total_: 2,254 km (2001)<br>
-_paved_: 1,973 km (2001)<br>
-_unpaved_: 281 km (2001)<br>
+_total_: 3,096 km (2008)<br>
+_paved_: 2,704 km (2008)<br>
+_unpaved_: 392 km (2008)<br>
 _urban_: 1,422 km (2001)<br>
 _non-urban_: 832 km (2001)<br>
 

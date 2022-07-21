@@ -232,7 +232,12 @@ _female_: 17.5% (2020 est.)<br>
 0.4% (2017/18)<br>
 
 **Education expenditures**<br>
-5% of GDP (2014)<br>
+5% of GDP (2014 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -555,50 +560,39 @@ $19,452,478,000,000 (2018 est.)<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-4.095 trillion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 1,143,266,000 kW (2020 est.)<br>
+_Consumption_: 3,897,886,551,000 kWh (2020 est.)<br>
+_Exports_: 14,134,679,000 kWh (2020 est.)<br>
+_Imports_: 61,448,863,000 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 198,085,480,000 kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-3.902 trillion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 59.9% of total installed capacity (2020 est.)<br>
+_Nuclear_: 19.5% of total installed capacity (2020 est.)<br>
+_Solar_: 3.2% of total installed capacity (2020 est.)<br>
+_Wind_: 8.3% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 7% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0.4% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-9.695 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 495.13 million metric tons (2020 est.)<br>
+_Consumption_: 441.968 million metric tons (2020 est.)<br>
+_Exports_: 63.276 million metric tons (2020 est.)<br>
+_Imports_: 4.808 million metric tons (2020 est.)<br>
+_Proven reserves_: 228.662 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-72.72 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-1.087 billion kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-70% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-9% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-7% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-14% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-10.962 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-1.158 million bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-7.969 million bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-(1 January 2018 est.) NA bbl<br>
+**Petroleum**<br>
+_Total petroleum production_: 17,924,200 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 20,542,900 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 2,048,100 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 7,768,500 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 47.107 billion barrels (2020 est.)<br>
 
 **Refined petroleum products - production**<br>
 20.3 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-19.96 million bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 5.218 million bbl/day (2017 est.)<br>
@@ -606,20 +600,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 2.175 million bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-772.8 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 967,144,362,000 cubic meters (2021 est.)<br>
+_Consumption_: 857,542,658,000 cubic meters (2021 est.)<br>
+_Exports_: 188,401,779,000 cubic meters (2021 est.)<br>
+_Imports_: 79,512,470,000 cubic meters (2021 est.)<br>
+_Proven reserves_: 13,178,780,000,000 cubic meters (2020 est.)<br>
 
-**Natural gas - consumption**<br>
-767.6 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 5,144,361,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 1,077,520,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 2,382,833,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 1,684,008,000 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-89.7 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-86.15 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2017 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 304.414 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -691,7 +686,7 @@ _under 914 m_: 6,760 (2021)<br>
 1,984,321 km natural gas, 240,711 km petroleum products (2013)<br>
 
 **Railways**<br>
-_total_: 293,564 km (2014)<br>
+_total_: 293,564.2 km (2014)<br>
 _standard gauge_: 293,564.2 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>
@@ -741,7 +736,7 @@ note(s) - in 2020, women comprised 17.2 % of the total US military (16.9% of enl
 
 **Military deployments**<br>
 5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,700 Australia; 250 Diego Garcia; 150 Canada; 650 Cuba (Guatanamo Bay); 290 Egypt (MFO); 65,000 Europe (Belgium, Bulgaria, Germany, Greece, Italy, Kosovo, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Turkey, UK); 150 Greenland; 6,200 Guam; 370 Honduras; 56,000 Japan; approximately 15,000 Middle East (Bahrain, Iraq, Israel, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, Syria, United Arab Emirates); 125 Philippines; 26,500 South Korea; 200 Singapore; 100 Thailand (2022)<br>
-note - US military rotational policies affect deployment numbers; the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (approximately 3,000 personnel) for 9 months at a time; contingencies also affect US troop deployments; in 2019-2020, the US deployed more than 15,000 additional military personnel to the Middle East for an extended period of time and in early 2022, it sent reinforcements to Europe in response to the Russian invasion of Ukraine; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6-7,000 personnel<br>
+<strong>note:</strong> US military rotational policies affect deployment numbers; the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (approximately 3,000 personnel) for 9 months at a time; contingencies also affect US troop deployments; in 2019-2020, the US deployed more than 15,000 additional military personnel to the Middle East for an extended period of time and in early 2022, it sent reinforcements to Europe in response to the Russian invasion of Ukraine; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6-7,000 personnel<br>
 
 **Military - note**<br>
 the US is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>the US military has 11 regional- or functionally-based joint service "combatant" commands: Africa Command; Central Command, Cyber Command, European Command, Indo-Pacific Command, Northern Command, Southern Command, Space Command, Special Operations Command, Strategic Command, and Transportation Command<br><br>Congress officially created the US military in September 1789; the US Army was established in June 1775 as the Continental Army; after the declaration of independence in July 1776, the Continental Army and the militia in the service of Congress became known collectively as the Army of the United States; when Congress ordered the Continental Army to disband in 1784, it retained a small number of personnel that would form the nucleus of the 1st American Regiment for national service formed later that year; both the US Navy and the US Marines were also established in 1775, but the Navy fell into disuse after the Revolutionary War, and was reestablished by Congress in 1794; the first US military unit devoted exclusively to aviation began operations in 1913 as part of the US Army; the Army Air Corps (AAC) was the US military service dedicated to aerial warfare between 1926 and 1941; the AAC became the US Army Air Forces in 1941 and remained as a combat arm of the Army until the establishment of the US Air Force in 1947<br>
@@ -749,7 +744,7 @@ the US is a member of NATO and was one of the original 12 countries to sign the 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida<br>
+Hizballah; Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

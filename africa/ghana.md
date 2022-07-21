@@ -237,7 +237,7 @@ _women married by age 18_: 19.3%<br>
 _men married by age 18_: 3.9% (2018 est.)<br>
 
 **Education expenditures**<br>
-4% of GDP (2018)<br>
+4% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -395,7 +395,7 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Virginia E. PALMER (since 16 June 2022)<br>
-_embassy_: No.24, Fourth Circular Road, Cantonments, Accra, P.O. Box 2288, Accra<br>
+_embassy_: No. 24, Fourth Circular Road, Cantonments, Accra, P.O. Box 2288, Accra<br>
 _mailing address_: 2020 Accra Place, Washington DC&nbsp; 20521-2020<br>
 _telephone_: [233] (0) 30-274-1000<br>
 _email address and website_: <br>ACSAccra@state.gov<br><br>https://gh.usembassy.gov/<br>
@@ -565,50 +565,39 @@ _electrification - total population_: 85% (2019)<br>
 _electrification - urban areas_: 93% (2019)<br>
 _electrification - rural areas_: 75% (2019)<br>
 
-**Electricity - production**<br>
-12.52 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 5.312 million kW (2020 est.)<br>
+_Consumption_: 13,107,757,000 kWh (2019 est.)<br>
+_Exports_: 1.801 billion kWh (2020 est.)<br>
+_Imports_: 58 million kWh (2020 est.)<br>
+_Transmission/distribution losses_: 2.474 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-9.363 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 63.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.3% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 35.9% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.1% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-187 million kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 48,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 48,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-511 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-3.801 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-58% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-42% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-173,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-104,000 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-6,220 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-660 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 185,700 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 98,000 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 176,800 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 3,900 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 660 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 2,073 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-90,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 2,654 bbl/day (2015 est.)<br>
@@ -616,20 +605,21 @@ _electrification - rural areas_: 75% (2019)<br>
 **Refined petroleum products - imports**<br>
 85,110 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-914.4 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 1,598,653,000 cubic meters (2019 est.)<br>
+_Consumption_: 2,224,568,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 625.915 million cubic meters (2019 est.)<br>
+_Proven reserves_: 22.653 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-1.232 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 18.093 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 160,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 13.569 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 4.364 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-317.4 million cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-22.65 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 11.239 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -659,7 +649,7 @@ _percent of population_: 58% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 78,371 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.25 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.3 (2020 est.)<br>
 
 ## Transportation
 
@@ -693,7 +683,7 @@ _total_: 947 km (2022)<br>
 _narrow gauge_: 947 km (2022) 1.067-m gauge<br>
 
 **Roadways**<br>
-_total_: 94,203 km (2021)<br>
+_total_: 65,725 km (2021)<br>
 _paved_: 14,948 km (2021)<br>
 _unpaved_: 50,777 km (2021)<br>
 _urban_: 28,480 km 27% total paved 73% total unpaved<br>

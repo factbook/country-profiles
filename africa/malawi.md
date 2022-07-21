@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Malawi shares its name with the Chewa word for flames and is linked to the Maravi people from whom the Chewa language originated. The Maravi settled in what is now Malawi around 1400 during one of the later waves of Bantu migration across central and southern Africa. Several of Malawi’s ethnic groups trace their origins to different Maravi lineages. A powerful Maravi kingdom, established around 1500, reached its zenith around 1700, when it controlled what is now southern and central Malawi as well as portions of neighboring Mozambique and Zambia before beginning to decline because of destabilization from the escalating global trade in enslaved people. In the early 1800s, widespread conflict in southern Africa displaced various ethnic Ngoni groups, some of which moved into Malawi and further undermined the Maravi. Members of the Yao ethnic group - which had long traded with Malawi from Mozambique - introduced Islam and began to settle in Malawi in significant numbers the mid-1800s; in the late 1800s, members of the Lomwe ethnic group also moved into southern Malawi from Mozambique. British missionary and trading activity increased in the area around Lake Nyasa in the mid-1800s, and Britain declared a protectorate, called British Central Africa, over what is now Malawi in 1891 and eliminated various political entities that sought to retain their autonomy over the subsequent decade. The British renamed the territory Nyasaland in 1907 and it was part of the colonial Federation of Rhodesia and Nyasaland - including present-day Zambia and Zimbabwe - from 1953 to 1963 before gaining independence as Malawi in 1964.</p> <p>Hastings Kamuzu BANDA served as prime minister at independence and, when the country became a republic in 1966, he became president. He later instituted one-party rule under his Malawi Congress Party (MCP) and was declared president for life. After three decades of one-party rule, the country held multiparty presidential and parliamentary elections in 1994 under a provisional constitution that came into full effect the following year. Bakili MULUZI of the United Democratic Front party became the first freely elected president of Malawi when he defeated BANDA at the polls in 1994; he won reelection in 1999. President Bingu wa MUTHARIKA was elected in 2004 and subsequently started his own party, the Democratic Progressive Party, in 2005. MUTHARIKA was reelected to a second term in 2009. He died abruptly in 2012 and was succeeded by Vice President Joyce BANDA, who had earlier started her own party, the People's Party. MUTHARIKA's brother, Peter MUTHARIKA, defeated BANDA in the election in 2014. Peter MUTHARIKA was reelected in a disputed election in 2019 that resulted in countrywide protests. The courts ordered a new the election, and in 2020 Lazarus CHAKWERA of the MCP was elected president after defeating MUTHARIKA as head of a coalition of opposition parties. Population growth, increasing pressure on agricultural lands, corruption, and the scourge of HIV/AIDS pose major problems for Malawi.</p><br>
+<p>Malawi shares its name with the Chewa word for flames and is linked to the Maravi people from whom the Chewa language originated. The Maravi settled in what is now Malawi around 1400 during one of the later waves of Bantu migration across central and southern Africa. Several of Malawi’s ethnic groups trace their origins to different Maravi lineages. A powerful Maravi kingdom, established around 1500, reached its zenith around 1700, when it controlled what is now southern and central Malawi as well as portions of neighboring Mozambique and Zambia before beginning to decline because of destabilization from the escalating global trade in enslaved people. In the early 1800s, widespread conflict in southern Africa displaced various ethnic Ngoni groups, some of which moved into Malawi and further undermined the Maravi. Members of the Yao ethnic group - which had long traded with Malawi from Mozambique - introduced Islam and began to settle in Malawi in significant numbers in the mid-1800s; in the late 1800s, members of the Lomwe ethnic group also moved into southern Malawi from Mozambique. British missionary and trading activity increased in the area around Lake Nyasa in the mid-1800s, and Britain declared a protectorate, called British Central Africa, over what is now Malawi in 1891 and eliminated various political entities that sought to retain their autonomy over the subsequent decade. The British renamed the territory Nyasaland in 1907 and it was part of the colonial Federation of Rhodesia and Nyasaland - including present-day Zambia and Zimbabwe - from 1953 to 1963 before gaining independence as Malawi in 1964.</p> <p>Hastings Kamuzu BANDA served as prime minister at independence and, when the country became a republic in 1966, he became president. He later instituted one-party rule under his Malawi Congress Party (MCP) and was declared president for life. After three decades of one-party rule, the country held multiparty presidential and parliamentary elections in 1994 under a provisional constitution that came into full effect the following year. Bakili MULUZI of the United Democratic Front party became the first freely elected president of Malawi when he defeated BANDA at the polls in 1994; he won reelection in 1999. President Bingu wa MUTHARIKA was elected in 2004 and subsequently started his own party, the Democratic Progressive Party, in 2005. MUTHARIKA was reelected to a second term in 2009. He died abruptly in 2012 and was succeeded by Vice President Joyce BANDA, who had earlier started her own party, the People's Party. MUTHARIKA's brother, Peter MUTHARIKA, defeated BANDA in the election in 2014. Peter MUTHARIKA was reelected in a disputed election in 2019 that resulted in countrywide protests. The courts ordered a new the election, and in 2020 Lazarus CHAKWERA of the MCP was elected president after defeating MUTHARIKA as head of a coalition of opposition parties. Population growth, increasing pressure on agricultural lands, corruption, and the scourge of HIV/AIDS pose major problems for Malawi.</p><br>
 
 ## Geography
 
@@ -232,7 +232,7 @@ _female_: 4.1% (2020 est.)<br>
 9% (2019)<br>
 
 **Education expenditures**<br>
-2.9% of GDP (2020)<br>
+2.9% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -562,50 +562,39 @@ _electrification - total population_: 13% (2019)<br>
 _electrification - urban areas_: 55% (2019)<br>
 _electrification - rural areas_: 5% (2019)<br>
 
-**Electricity - production**<br>
-1.42 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 618,000 kW (2020 est.)<br>
+_Consumption_: 1,117,378,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 460 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-1.321 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 11.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 3.2% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 81.9% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 3.2% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 48,000 metric tons (2020 est.)<br>
+_Consumption_: 47,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 2 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-375,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-1% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-93% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-6% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 9,400 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-6,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -613,20 +602,21 @@ _electrification - rural areas_: 5% (2019)<br>
 **Refined petroleum products - imports**<br>
 4,769 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 1.542 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 203,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1.339 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (2017 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 1.809 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -655,7 +645,7 @@ _percent of population_: 14% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 12,255 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.06 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
 
 ## Transportation
 
@@ -732,5 +722,5 @@ the Malawi Defense Force&rsquo;s primary responsibility is external security; it
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Malawi-Zambia</em>: border demarcation was completed in 2011; in 2018, the redemarcation exercise determined that some parts of Malawi actually belonged to Zambia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,947 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,530 (Burundi) (refugees and asylum seekers), 7,596 (Rwanda) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 33,947 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,658 (Burundi) (refugees and asylum seekers), 7,621 (Rwanda) (refugees and asylum seekers) (2022)<br>
 

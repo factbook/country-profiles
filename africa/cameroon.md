@@ -238,7 +238,7 @@ _women married by age 18_: 29.8%<br>
 _men married by age 18_: 2.9% (2018 est.)<br>
 
 **Education expenditures**<br>
-3.1% of GDP (2019)<br>
+3.1% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -575,50 +575,39 @@ _electrification - total population_: 70% (2019)<br>
 _electrification - urban areas_: 98% (2019)<br>
 _electrification - rural areas_: 32% (2019)<br>
 
-**Electricity - production**<br>
-8.108 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 1.754 million kW (2020 est.)<br>
+_Consumption_: 6,508,840,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 19 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 1.864 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-6.411 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 32.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.2% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 67.3% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-55 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-1.558 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-52% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-47% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-69,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-96,370 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-36,480 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-200 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 63,200 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 37,900 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 62,200 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 20,200 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 200 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 39,080 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-45,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 8,545 bbl/day (2015 est.)<br>
@@ -626,20 +615,21 @@ _electrification - rural areas_: 32% (2019)<br>
 **Refined petroleum products - imports**<br>
 14,090 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-910.4 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 2,678,486,000 cubic meters (2019 est.)<br>
+_Consumption_: 986.189 million cubic meters (2019 est.)<br>
+_Exports_: 1,603,156,000 cubic meters (2019 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 135.071 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-906.1 million cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 7.105 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 5.171 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 1.935 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-135.1 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 6.187 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -747,7 +737,7 @@ the FAC inventory includes a wide mix of mostly older or second-hand Chinese, Ru
 
 **Military deployments**<br>
 750 (plus about 350 police) Central African Republic (MINUSCA) (Jan 2022)<br>
-note - Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
+<strong>note: </strong>Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram and other terrorist groups operating in the general area of the Lake Chad Basin and along Nigeria's northeast border; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
 
 **Military - note**<br>
 as of 2022, the FAC was largely focused on the threat from the terrorist group Boko Haram along its frontiers with Nigeria and Chad (Far North region) and an insurgency from armed Anglophone separatist groups in the North-West and South-West regions (as of early 2022, this internal conflict has left an estimated 4,000 civilians dead and over 700,000 people displaced since fighting started in 2016); in addition, the FAC often deployed units to the border region with the Central African Republic to counter intrusions from armed militias and bandits<br>

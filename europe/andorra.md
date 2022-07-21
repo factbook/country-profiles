@@ -206,7 +206,7 @@ _female_: 28.3% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.2% of GDP (2019)<br>
+3.2% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -309,7 +309,7 @@ _election results_: Xaviar Espot ZAMORA (DA) elected head of government; percent
 **Legislative branch**<br>
 _description_: unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in two-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for a national list and one for a parish list<br>
 _elections_: last held on 7 April 2019 (next to be held in April 2023)<br>
-_election results_: percent of vote by party - DA 35.1%, PS 30.6%, L'A 12.5%, Third Way/Lauredian Union 10.4%, other 22.4%; seats by party - DA 11, PS 7, L'A 4, Third Way/Lauredian Union 4, other 2; composition - men 15, women 13, percent of women 46.4%<br>
+_election results_: percent of vote by party - DA 35.1%, PS 30.6%, L'A 12.5%, Third Way/Lauredian Union 10.4%, other 11.4%; seats by party - DA 11, PS 7, L'A 4, Third Way/Lauredian Union 4, other 2; composition - men 15, women 13, percent of women 46.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice of Andorra or Tribunal Superior de la Justicia d'Andorra (consists of the court president and 8 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tribunal Constitucional (consists of 4 magistrates)<br>
@@ -317,7 +317,7 @@ _judge selection and term of office_: Supreme Court president and judges appoint
 _subordinate courts_: Tribunal of Judges or Tribunal de Batlles; Tribunal of the Courts or Tribunal de Corts<br>
 
 **Political parties and leaders**<br>
-Democrats for Andorra or DA [Xaviar ESPOT ZAMORA]<br>Social Democratic Party or PS [Vicenc ALFY FERRER]<br>Liberals of Andorra or L'A [Jordi GALLARDO FERNANDEZ]<br>Third Way/Lauredian Union [Josep PINTAT FORNE]<br>Social Democracy and Progress or SDP [Victor NAUDI ZAMORA]<br>United for the Progress of Andorra or UPA [Alfons CLAVERA ARIZTI]<br>
+Democrats for Andorra or DA [Xaviar ESPOT ZAMORA]<br>Liberals of Andorra or L'A [Jordi GALLARDO FERNANDEZ]<br>Social Democracy and Progress or SDP [Victor NAUDI ZAMORA]<br>Social Democratic Party or PS [Vicenc ALFY FERRER]<br>Third Way/Lauredian Union [Josep PINTAT FORNE]<br>United for the Progress of Andorra or UPA [Alfons CLAVERA ARIZTI]<br>
 <strong>note:</strong> Andorra has several smaller parties at the parish level (one is Lauredian Union)<br>
 
 **International organization participation**<br>
@@ -464,62 +464,8 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-99.48 million kWh (2015 est.)<br>
-
-**Electricity - consumption**<br>
-221.6 million kWh (2015 est.)<br>
-
-**Electricity - exports**<br>
-6,000 kWh (2015 est.)<br>
-
-**Electricity - imports**<br>
-471.3 million kWh (2015 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-520,000 kW (2010 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-61% of total installed capacity (2010 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2016 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-23% of total installed capacity (2010 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-15% of total installed capacity (2010 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2016)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2016) (2016)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2016) (2016)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (2016) (2016)<br>
-
 **Refined petroleum products - production**<br>
 0 bbl/day (2016)<br>
-
-**Natural gas - production**<br>
-0 cu m (2016) (2016)<br>
-
-**Natural gas - consumption**<br>
-0 cu m (2016) (2016)<br>
-
-**Natural gas - exports**<br>
-0 cu m (2016) (2016)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2016) (2016)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (2016)<br>
 
 ## Communications
 

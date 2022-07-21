@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Azerbaijan - a secular nation with a majority-Turkic and majority-Shia Muslim population - was briefly independent (from 1918 to 1920) following the collapse of the Russian Empire; it was subsequently incorporated into the Soviet Union for seven decades. Azerbaijan remains involved in the protracted Nagorno-Karabakh conflict with Armenia. Nagorno-Karabakh was a primarily ethnic Armenian region that Moscow recognized in 1923 as an autonomous oblast within Soviet Azerbaijan. In the late Soviet period, a separatist movement developed which sought to end Azerbaijani control over the region. Fighting over Nagorno-Karabakh began in 1988 and escalated after Armenia and Azerbaijan attained independence from the Soviet Union in 1991. By the time a ceasefire took effect in May 1994, separatists, with Armenian support, controlled Nagorno‑Karabakh and seven surrounding Azerbaijani territories.</p> <p>Under the terms of a cease-fire agreement following Azerbaijan’s victory in the Second Nagorno-Karabakh War that took place from September-November 2020, Armenia returned to Azerbaijan the remaining territories it had occupied and also the southern part of Nagorno-Karabakh, including the culturally and historically important city that Azerbaijanis call Shusha and Armenians call Shushi. Despite Azerbaijan’s territorial gains, peace in the region remains elusive because of unsettled issues concerning the delimitation of borders, the opening of regional transportation and communication links, the status of ethnic enclaves near border regions, and the final status of the Nagorno-Karabakh region. Russian peacekeepers deployed to Nagorno-Karabakh to supervise the cease-fire for a minimum five-year term have not prevented the outbreak of sporadic, low-level military clashes along the Azerbaijan-Armenia border in 2021.<br><br>In the three decades following its independence in 1991, Azerbaijan has succeeded in significantly reducing the poverty rate and has directed revenues from its oil and gas production to develop the country’s infrastructure. However, corruption remains a burden on the economy, and Western observers and members of the country’s political opposition have accused the government of authoritarianism, pointing to elections that are neither free nor fair, state control of the media, and the systematic abuse of human rights targeting individuals and groups who are perceived as threats to the administration. The country’s leadership has remained in the Aliyev family since Heydar ALIYEV, formerly the most highly ranked Azerbaijani member of the Communist Party during the Soviet period, became president in the midst of the first Nagorno-Karabakh War in 1993. Heydar ALIYEV groomed his son to succeed him, and Ilham ALIYEV subsequently became president in 2003. As a result of two national referendums that eliminated presidential term limits and extended the presidential term from 5 to 7 years, President ALIYEV secured a fourth term in April 2018 in an election that international observers noted had serious shortcomings. Reforms are underway to diversify the country’s economy away from its dependence on oil and gas; additional reforms are needed to address weaknesses in government institutions, particularly in the education and health sectors, and the court system.</p><br>
+<p>Azerbaijan - a secular nation with a majority-Turkic and majority-Shia Muslim population - was briefly independent (from 1918 to 1920) following the collapse of the Russian Empire; it was subsequently incorporated into the Soviet Union for seven decades. Azerbaijan remains involved in the protracted Nagorno-Karabakh conflict with Armenia. Nagorno-Karabakh was a primarily ethnic Armenian region that Moscow recognized in 1923 as an autonomous oblast within Soviet Azerbaijan. In the late Soviet period, a separatist movement developed which sought to end Azerbaijani control over the region. Fighting over Nagorno-Karabakh began in 1988 and escalated after Armenia and Azerbaijan attained independence from the Soviet Union in 1991. By the time a ceasefire took effect in May 1994, separatists, with Armenian support, controlled Nagorno‑Karabakh and seven surrounding Azerbaijani territories.</p> <p>Under the terms of a cease-fire agreement following Azerbaijan’s victory in the Second Nagorno-Karabakh War that took place from September-November 2020, Armenia returned to Azerbaijan the remaining territories it had occupied and also the southern part of Nagorno-Karabakh, including the culturally and historically important city that Azerbaijanis call Shusha and Armenians call Shushi. Despite Azerbaijan’s territorial gains, peace in the region remains elusive because of unsettled issues concerning the delimitation of borders, the opening of regional transportation and communication links, the status of ethnic enclaves near border regions, and the final status of the Nagorno-Karabakh region. Russian peacekeepers deployed to Nagorno-Karabakh to supervise the cease-fire for a minimum five-year term have not prevented the outbreak of sporadic, low-level military clashes along the Azerbaijan-Armenia border in 2021.<br><br>In the three decades following its independence in 1991, Azerbaijan has succeeded in significantly reducing the poverty rate and has directed revenues from its oil and gas production to develop the country’s infrastructure. However, corruption remains a burden on the economy, and Western observers and members of the country’s political opposition have accused the government of authoritarianism, pointing to elections that are neither free nor fair, state control of the media, and the systematic abuse of human rights targeting individuals and groups who are perceived as threats to the administration. The country’s leadership has remained in the ALIYEV family since Heydar ALIYEV, formerly the most highly ranked Azerbaijani member of the Communist Party during the Soviet period, became president in the midst of the first Nagorno-Karabakh War in 1993. Heydar ALIYEV groomed his son to succeed him, and Ilham ALIYEV subsequently became president in 2003. As a result of two national referendums that eliminated presidential term limits and extended the presidential term from 5 to 7 years, President ALIYEV secured a fourth term in April 2018 in an election that international observers noted had serious shortcomings. Reforms are underway to diversify the country’s economy away from its dependence on oil and gas; additional reforms are needed to address weaknesses in government institutions, particularly in the education and health sectors, and the court system.</p><br>
 
 ## Geography
 
@@ -88,7 +88,7 @@ _adjective_: Azerbaijani<br>
 
 **Ethnic groups**<br>
 Azerbaijani 91.6%, Lezghin 2%, Russian 1.3%, Armenian 1.3%, Talysh 1.3%, other 2.4% (2009 est.)<br>
-<strong>note:</strong> the Nagorno-Karabakh region, which is part of Azerbaijan on the basis of the borders recognized when the Soviet Union dissolved in 1991, is populated almost entirely by ethnic Armenians<br>
+<strong>note:</strong> the Nagorno-Karabakh region, which is part of Azerbaijan on the basis of the borders recognized when the Soviet Union dissolved in 1991, is populated almost entirely by ethnic Armenians; Azerbaijan has over 80 ethnic groups<br>
 
 **Languages**<br>
 Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)<br>
@@ -217,7 +217,7 @@ _female_: 0.1% (2020 est.)<br>
 4.9% (2013)<br>
 
 **Education expenditures**<br>
-2.7% of GDP (2019)<br>
+2.7% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -538,50 +538,39 @@ Azerbaijani manats (AZN) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-23.57 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 7.677 million kW (2020 est.)<br>
+_Consumption_: 21,026,630,000 kWh (2019 est.)<br>
+_Exports_: 1.491 billion kWh (2020 est.)<br>
+_Imports_: 137 million kWh (2020 est.)<br>
+_Transmission/distribution losses_: 2.226 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-20.24 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 94.2% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.2% of total installed capacity (2020 est.)<br>
+_Wind_: 0.4% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 4.4% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.8% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-265 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 19,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 19,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-114 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-7.876 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-84% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-14% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-798,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-718,800 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-7 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 711,700 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 107,500 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 679,900 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 7 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 138,900 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-100,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 46,480 bbl/day (2015 est.)<br>
@@ -589,20 +578,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 5,576 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-16.96 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 23,075,077,000 cubic meters (2019 est.)<br>
+_Consumption_: 11,467,681,000 cubic meters (2019 est.)<br>
+_Exports_: 11,586,357,000 cubic meters (2019 est.)<br>
+_Imports_: 1,233,225,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 1,699,008,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-10.34 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 35.389 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 29,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 12.863 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 22.497 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-8.042 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-2.095 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-991.1 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 64.416 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -667,12 +657,12 @@ _under 914 m_: 7 (2021)<br>
 89 km condensate, 3,890 km gas, 2,446 km oil (2013)<br>
 
 **Railways**<br>
-_total_: 2,944 km (2017)<br>
+_total_: 2,944.3 km (2017)<br>
 _broad gauge_: 2,944.3 km (2017) 1.520-m gauge (approx. 1,767 km electrified)<br>
 
 **Roadways**<br>
 _total_: 24,981 km (2013)<br>
-<strong>note:</strong> total roadway length has increased significantly and continues to grow due to the recovery of Armenian-held territories and related reconstruction efforts, respectively; no updated figure is currently available<br>
+<strong>note:</strong> total roadway length has increased significantly and continues to grow due to the recovery of Armenian-held territories and related reconstruction efforts. No updated figure is currently available.<br>
 
 **Merchant marine**<br>
 _total_: 305<br>
@@ -709,7 +699,7 @@ since November 2020, Russia has deployed about 2,000 peacekeeping troops to the 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IRGC)/Quds Force<br>
+Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

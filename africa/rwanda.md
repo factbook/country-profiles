@@ -226,7 +226,7 @@ _female_: 7.2% (2020 est.)<br>
 7.7% (2019/20)<br>
 
 **Education expenditures**<br>
-3.4% of GDP (2020)<br>
+3.4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -550,50 +550,39 @@ _electrification - total population_: 53% (2019)<br>
 _electrification - urban areas_: 76% (2019)<br>
 _electrification - rural areas_: 48% (2019)<br>
 
-**Electricity - production**<br>
-525 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 265,000 kW (2020 est.)<br>
+_Consumption_: 1,007,300,000 kWh (2019 est.)<br>
+_Exports_: 4.5 million kWh (2019 est.)<br>
+_Imports_: 93.96 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 142 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-527.3 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 39% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 6.5% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 53.9% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.6% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-4 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-42 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-191,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-42% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-51% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-7% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 8,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-6,700 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -601,20 +590,21 @@ _electrification - rural areas_: 48% (2019)<br>
 **Refined petroleum products - imports**<br>
 6,628 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 56.634 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 1.189 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1.189 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-56.63 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 1.704 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -643,7 +633,7 @@ _percent of population_: 27% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 17,685 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.14 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
 
 ## Transportation
 
@@ -675,7 +665,7 @@ _paved_: 1,207 km (2012)<br>
 _unpaved_: 3,493 km (2012)<br>
 
 **Waterways**<br>
-(2011) (Lac Kivu navigable by shallow-draft barges and native craft)<br>
+90 km (2022) (Lake Kivu navigable by shallow-draft barges and native craft)<br>
 
 **Ports and terminals**<br>
 _lake port(s)_: Cyangugu, Gisenyi, Kibuye (Lake Kivu)<br>
@@ -713,6 +703,6 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 76,968 (Democratic Republic of the Congo) 48,123 (Burundi) (2022)<br>
+_refugees (country of origin)_: 76,968 (Democratic Republic of the Congo) 48,218 (Burundi) (2022)<br>
 _stateless persons_: 9,500 (mid-year 2021)<br>
 

@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Following more than three centuries under Portuguese rule, Brazil gained its independence in 1822, maintaining a monarchical system of government until the abolition of slavery in 1888 and the subsequent proclamation of a republic by the military in 1889. Brazilian coffee exporters politically dominated the country until populist leader Getulio VARGAS rose to power in 1930. VARGAS governed over various versions of democratic and authoritarian regimes from 1930 to 1945. Democratic rule returned (including a democratically elected VARGAS administration from 1951-55) and lasted until 1964, when the military overthrew President Joao GOULART. The military regime censored journalists and repressed and tortured dissidents in the late 1960s and early 1970s. The dictatorship lasted until 1985, when the military regime peacefully ceded power to civilian rulers, and the Brazilian Congress passed its current constitution in 1989. <br><br>By far the largest and most populous country in South America, Brazil continues to pursue industrial and agricultural growth and development of its interior. Having successfully weathered a period of global financial difficulty in the late 20th century, under President Luiz Inacio LULA da Silva (2003-2010) Brazil was seen as one of the world's strongest emerging markets and a contributor to global growth. The awarding of the 2014 FIFA World Cup and 2016 Summer Olympic Games, the first ever to be held in South America, was symbolic of the country's rise. However, from about 2013 to 2016, Brazil was plagued by a sagging economy, high unemployment, and high inflation, only emerging from recession in 2017. Former President Dilma ROUSSEFF (2011-2016) was removed from office in 2016 by Congress for having committed impeachable acts against Brazil's budgetary laws, and her vice president, Michel TEMER, served the remainder of her second term. A money-laundering investigation, Operation Lava Jato, uncovered a vast corruption scheme and prosecutors charged several high-profile Brazilian politicians with crimes. Former-President LULA was convicted of accepting bribes and served jail time from 2018-19, although his conviction was overturned in early 2021. In October 2018, Jair BOLSONARO won the presidency with 55% of the second-round vote and assumed office on 1 January 2019. The next national elections are scheduled for October 2022.</p><br>
+<p>Following more than three centuries under Portuguese rule, Brazil gained its independence in 1822, maintaining a monarchical system of government until the abolition of slavery in 1888 and the subsequent proclamation of a republic by the military in 1889. Brazilian coffee exporters politically dominated the country until populist leader Getulio VARGAS rose to power in 1930. VARGAS governed over various versions of democratic and authoritarian regimes from 1930 to 1945. Democratic rule returned (including a democratically elected VARGAS administration from 1951 to 1955) and lasted until 1964, when the military overthrew President Joao GOULART. The military regime censored journalists and repressed and tortured dissidents in the late 1960s and early 1970s. The dictatorship lasted until 1985, when the military regime peacefully ceded power to civilian rulers, and the Brazilian Congress passed its current constitution in 1989. <br><br>By far the largest and most populous country in South America, Brazil continues to pursue industrial and agricultural growth and development of its interior. Having successfully weathered a period of global financial difficulty in the late 20th century, under President Luiz Inacio LULA da Silva (2003-2010) Brazil was seen as one of the world's strongest emerging markets and a contributor to global growth. The awarding of the 2014 FIFA World Cup and 2016 Summer Olympic Games, the first ever to be held in South America, was symbolic of the country's rise. However, from about 2013 to 2016, Brazil was plagued by a sagging economy, high unemployment, and high inflation, only emerging from recession in 2017. Former President Dilma ROUSSEFF (2011-2016) was removed from office in 2016 by Congress for having committed impeachable acts against Brazil's budgetary laws, and her vice president, Michel TEMER, served the remainder of her second term. A money-laundering investigation, Operation Lava Jato, uncovered a vast corruption scheme and prosecutors charged several high-profile Brazilian politicians with crimes. Former-President LULA was convicted of accepting bribes and served jail time (2018-19), although his conviction was overturned in early 2021. In October 2018, Jair BOLSONARO won the presidency with 55% of the second-round vote and assumed office on 1 January 2019. The next national elections are scheduled for October 2022.</p><br>
 
 ## Geography
 
@@ -234,7 +234,7 @@ _female_: 9.4% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-6.1% of GDP (2018)<br>
+6.1% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -574,50 +574,39 @@ reals (BRL) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-567.9 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 195.037 million kW (2020 est.)<br>
+_Consumption_: 540,997,340,000 kWh (2020 est.)<br>
+_Exports_: 395 million kWh (2020 est.)<br>
+_Imports_: 25.113 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 105.727 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-509.1 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 11.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 2.3% of total installed capacity (2020 est.)<br>
+_Solar_: 1.7% of total installed capacity (2020 est.)<br>
+_Wind_: 9.2% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 65.8% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 9.2% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-219 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 13.993 million metric tons (2020 est.)<br>
+_Consumption_: 31.841 million metric tons (2020 est.)<br>
+_Exports_: 16,000 metric tons (2020 est.)<br>
+_Imports_: 19.217 million metric tons (2020 est.)<br>
+_Proven reserves_: 6.596 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-41.31 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-150.8 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-17% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-64% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-18% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-2.587 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-736,600 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-297,700 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-12.63 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 3,629,100 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 3,142,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 1,123,300 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 186,200 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 12,714,600,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 2.811 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-2.956 million bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 279,000 bbl/day (2015 est.)<br>
@@ -625,20 +614,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 490,400 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-23.96 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 25,395,979,000 cubic meters (2019 est.)<br>
+_Consumption_: 35,253,198,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 9,724,017,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 363.984 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-34.35 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 456.67 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 63.53 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 328.824 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 64.316 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-134.5 million cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-10.51 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-377.4 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 59.444 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -705,7 +695,7 @@ _under 914 m_: 1,684 (2021)<br>
 5,959 km refined petroleum product (1,165 km distribution, 4,794 km transport), 11,696 km natural gas (2,274 km distribution, 9,422 km transport), 1,985 km crude oil (distribution), 77 km ethanol/petrochemical (37 km distribution, 40 km transport) (2016)<br>
 
 **Railways**<br>
-_total_: 29,850 km (2014)<br>
+_total_: 29,849.9 km (2014)<br>
 _standard gauge_: 194 km (2014) 1.435-m gauge<br>
 _narrow gauge_: 23,341.6 km (2014) 1.000-m gauge (24 km electrified)<br>
 _broad gauge_: 5,822.3 km (2014) 1.600-m gauge (498.3 km electrified)<br>
@@ -758,6 +748,12 @@ the origins of Brazil's military stretch back to the 1640s<br><br>the three nati
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Brazil are a risk for armed robbery against ships; in 2021, three attacks against commercial vessels were reported, a decrease from the seven attacks in 2020; all of these occurred in the port of Macapa while ships were berthed or at anchor<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+Hizballah (2022)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 

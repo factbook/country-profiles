@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The region of present-day Djibouti was the site of the medieval Ifat and Adal Sultanates. In the late 19th century, treaties signed by the Afar sultans with the French allowed the latter to establish the colony of French Somaliland in 1862. The French signed additional treaties with the ethnic Somali in 1885.</p> Tension between the ethnic Afar and Somali populations increased over time, as the ethnic Somali perceived that the French unfairly favored the Afar and gave them disproportionate influence in local governance. In 1958, the French held a referendum that provided residents of French Somaliland the option to either continue their association with France or to join neighboring Somalia as it established its independence. The ethnic Somali protested the vote, because French colonial leaders did not recognize many Somali as residents, which gave the Afar outsized influence in the decision to uphold ties with France. After a second referendum in 1967, the French changed the territory’s name to the French Territory of the Afars and the Issas, in part to underscore their relationship with the ethnic Afar and downplay the significance of the ethnic Somali. A final referendum in 1977 established Djibouti as an independent nation and granted ethnic Somalis Djiboutian nationality, formally resetting the balance of power between the majority ethnic Somali and minority ethnic Afar residents. Upon independence, the country was named after its capital city of Djibouti. Hassan Gouled APTIDON, an ethnic Somali leader, installed an authoritarian one-party state and proceeded to serve as president until 1999. Unrest between the Afar minority and Somali majority culminated in a civil war during the 1990s that ended in 2001 with a peace accord between Afar rebels and the Somali Issa-dominated government. In 1999, Djibouti's first multiparty presidential election resulted in the election of Ismail Omar GUELLEH as president; he was reelected to a second term in 2005 and extended his tenure in office via a constitutional amendment, which allowed him to serve his third and fourth terms, and begin a fifth term in 2021. <br><br>Djibouti occupies a strategic geographic location at the intersection of the Red Sea and the Gulf of Aden. Its ports handle 95% of Ethiopia’s trade. Djibouti’s ports also service transshipments between Europe, the Middle East, and Asia. The government holds longstanding ties to France, which maintains a military presence in the country, as does the US, Japan, Italy, Germany, Spain, and China.<br>
+<p>The region of present-day Djibouti was the site of the medieval Ifat and Adal Sultanates. In the late 19th century, treaties signed by the Afar sultans with the French allowed the latter to establish the colony of French Somaliland in 1862. The French signed additional treaties with the ethnic Somali in 1885.</p> Tension between the ethnic Afar and Somali populations increased over time, as the ethnic Somalis perceived that the French unfairly favored the Afar and gave them disproportionate influence in local governance. In 1958, the French held a referendum that provided residents of French Somaliland the option to either continue their association with France or to join neighboring Somalia as it established its independence. The ethnic Somali protested the vote, because French colonial leaders did not recognize many Somali as residents, which gave the Afar outsized influence in the decision to uphold ties with France. After a second referendum in 1967, the French changed the territory’s name to the French Territory of the Afars and the Issas, in part to underscore their relationship with the ethnic Afar and downplay the significance of the ethnic Somalis. A final referendum in 1977 established Djibouti as an independent nation and granted ethnic Somalis Djiboutian nationality, formally resetting the balance of power between the majority ethnic Somalis and minority ethnic Afar residents. Upon independence, the country was named after its capital city of Djibouti. Hassan Gouled APTIDON, an ethnic Somali leader, installed an authoritarian one-party state and proceeded to serve as president until 1999. Unrest between the Afar minority and Somali majority culminated in a civil war during the 1990s that ended in 2001 with a peace accord between Afar rebels and the Somali Issa-dominated government. In 1999, Djibouti's first multiparty presidential election resulted in the election of Ismail Omar GUELLEH as president; he was reelected to a second term in 2005 and extended his tenure in office via a constitutional amendment, which allowed him to serve his third and fourth terms, and to begin a fifth term in 2021. <br><br>Djibouti occupies a strategic geographic location at the intersection of the Red Sea and the Gulf of Aden. Its ports handle 95% of Ethiopia’s trade. Djibouti’s ports also service transshipments between Europe, the Middle East, and Asia. The government holds longstanding ties to France, which maintains a military presence in the country, as does the US, Japan, Italy, Germany, Spain, and China.<br>
 
 ## Geography
 
@@ -214,7 +214,12 @@ _vectorborne diseases_: dengue fever<br>
 29.9% (2012)<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2018)<br>
+3.6% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 7 years<br>
@@ -522,50 +527,39 @@ _electrification - total population_: 42% (2019)<br>
 _electrification - urban areas_: 54% (2019)<br>
 _electrification - rural areas_: 1% (2019)<br>
 
-**Electricity - production**<br>
-405.5 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 130,000 kW (2020 est.)<br>
+_Consumption_: -62.6 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 120 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-377.1 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 98.2% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 1.8% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-130,300 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-100% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 4,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-6,360 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 403 bbl/day (2015 est.)<br>
@@ -573,20 +567,21 @@ _electrification - rural areas_: 1% (2019)<br>
 **Refined petroleum products - imports**<br>
 6,692 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 610,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 610,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 8.869 million Btu/person (2019 est.)<br>
 
 ## Communications
 

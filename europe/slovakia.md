@@ -216,7 +216,12 @@ _female_: 25.6% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4% of GDP (2018)<br>
+4% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -534,50 +539,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-25.32 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 7.868 million kW (2020 est.)<br>
+_Consumption_: 26.503 billion kWh (2020 est.)<br>
+_Exports_: 12.97 billion kWh (2020 est.)<br>
+_Imports_: 13.288 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 1.589 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-26.64 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 19.7% of total installed capacity (2020 est.)<br>
+_Nuclear_: 55.4% of total installed capacity (2020 est.)<br>
+_Solar_: 2.4% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 16.8% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 5.6% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-10.6 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 2.148 million metric tons (2020 est.)<br>
+_Consumption_: 5.371 million metric tons (2020 est.)<br>
+_Exports_: 1,000 metric tons (2020 est.)<br>
+_Imports_: 3.111 million metric tons (2020 est.)<br>
+_Proven reserves_: 135 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-13.25 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-7.644 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-36% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-27% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-24% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-13% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-200 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-1,022 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-111,200 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-9 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 3,800 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 85,200 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 100 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 109,800 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 9 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 131,300 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-85,880 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 81,100 bbl/day (2017 est.)<br>
@@ -585,20 +579,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 38,340 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-104.8 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 62.495 million cubic meters (2020 est.)<br>
+_Consumption_: 4,928,199,000 cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2020 est.)<br>
+_Imports_: 4,361,410,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 14.158 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-4.672 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 32.506 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 11.521 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 11.747 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 9.238 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-4.984 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-14.16 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 129.665 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -710,7 +705,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 80,533 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 81,370 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -225,7 +225,7 @@ _female_: 26.7% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.2% of GDP (2018)<br>
+4.2% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -554,50 +554,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-258.6 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 115.837 million kW (2020 est.)<br>
+_Consumption_: 233.267 billion kWh (2020 est.)<br>
+_Exports_: 14.649 billion kWh (2020 est.)<br>
+_Imports_: 17.928 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 23.999 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-239.5 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 32.4% of total installed capacity (2020 est.)<br>
+_Nuclear_: 21.9% of total installed capacity (2020 est.)<br>
+_Solar_: 8.1% of total installed capacity (2020 est.)<br>
+_Wind_: 22.1% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 13.1% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 2.6% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-14.18 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 546,000 metric tons (2020 est.)<br>
+_Consumption_: 4.918 million metric tons (2020 est.)<br>
+_Exports_: 2.083 million metric tons (2020 est.)<br>
+_Imports_: 4.857 million metric tons (2020 est.)<br>
+_Proven reserves_: 1.187 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-21.85 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-105.9 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-47% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-7% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-14% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-32% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-1,700 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-1.325 million bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-150 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 47,200 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 1.328 million bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 1,364,700 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 150 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1.361 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-1.296 million bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 562,400 bbl/day (2017 est.)<br>
@@ -605,20 +594,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 464,800 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-36.81 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 57.993 million cubic meters (2020 est.)<br>
+_Consumption_: 32,026,216,000 cubic meters (2020 est.)<br>
+_Exports_: 1,185,285,000 cubic meters (2020 est.)<br>
+_Imports_: 32,489,309,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 2.549 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-31.27 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 280.624 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 16.743 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 191.299 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 72.582 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-2.888 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-34.63 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-2.548 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 122.673 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -684,11 +674,11 @@ _under 914 m_: 19 (2021)<br>
 10,481 km gas, 358 km oil, 4,378 km refined products (2017)<br>
 
 **Railways**<br>
-_total_: 15,333 km (2017) (9,699 km electrified)<br>
+_total_: 15,111 km (2017) (9,699 km electrified)<br>
 _standard gauge_: 2,571 km (2017) 1.435-m gauge (2,571 km electrified)<br>
 _narrow gauge_: 1,207 km (2017) 1.000-m gauge (400 km electrified)<br>
 _broad gauge_: 11,333 km (2017) 1.668-m gauge (6,538 km electrified)<br>
-mixed gauge: 190 km 1.668-m and 1.435m gage (190.1 km electrified); 28 km 0.914-m gauge (28 km electrified); 4 km 0.600-m gauge<br>
+mixed gauge: 190 km 1.668-mm and 1.435mm gauge (190.1 km electrified); 28 km 0.914-mm gauge (28 km electrified); 4 km 0.600-mm gauge<br>
 
 **Roadways**<br>
 _total_: 683,175 km (2011)<br>
@@ -731,8 +721,8 @@ the inventory of the Spanish military is comprised of domestically-produced and 
 note - as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 200 Iraq (training mission, counter-ISIS coalition); 350 Latvia (NATO); 650 Lebanon (UNIFIL); approximately 400 Mali (EUTM); 150 Turkey (NATO) (2021-2022)<br><br>note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
-note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+approximately 200 Iraq (NATO/EU training assistance); 600 Latvia (NATO); 650 Lebanon (UNIFIL); approximately 500 Mali (EUTM); 150 Turkey (NATO) (2022)<br>
+<strong>note: </strong>NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries, including Spain, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Spain joined NATO in 1982, but refrained from participating in the integrated military structure until 1996<br><br>the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world<br>
@@ -749,9 +739,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 125,757 (Ukraine) (as of 4 July 2022)<br>
+_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 127,750 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 692 (mid-year 2021)<br>
-<strong>note: </strong>262,391 estimated refugee and migrant arrivals, including Canary Islands (January 2015-July 2022)<br>
+<strong>note: </strong>262,811 estimated refugee and migrant arrivals, including Canary Islands (January 2015-July 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

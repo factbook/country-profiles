@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Established in the 1600s, the Burundi Kingdom has had borders similar to those of modern Burundi since the 1800s. Burundi’s two major ethnic groups, the majority Hutu and minority Tutsi, share a common language and culture and largely lived in peaceful cohabitation under Tutsi monarchs in pre-colonial Burundi. Regional, class, and clan distinctions contributed to social status in the Burundi Kingdom, yielding a complex class structure. German colonial rule in the late 19th and early 20th centuries and Belgian rule after World War I preserved Burundi’s monarchy. Seeking to simplify administration, Belgian colonial officials reduced the number of chiefdoms and eliminated most Hutu chiefs from positions of power. In 1961, the Burundian Tutsi king’s oldest son, Louis Rwagasore was murdered by a competing political faction shortly before he was set to become prime minister, triggering increased political competition that contributed to later instability. Burundi gained its independence from Belgium in 1962 as the Kingdom of Burundi.</p> <p>Revolution in neighboring Rwanda stoked ethnic polarization as the Tutsi increasingly feared violence and loss of political power. A failed Hutu-led coup in 1965 triggered a purge of Hutu officials and set the stage for Tutsi officers to overthrow the monarchy in 1966 and establish a Tutsi-dominated republic. A Hutu rebellion in 1972 that resulted in the death of several thousand Tutsi civilians sparked a brutal crackdown on Hutu civilians by the Tutsi-led military, which ultimately killed 100,000-200,000 people. International pressure led to a new constitution in 1992 and democratic elections in June 1993. Burundi's first democratically elected president, Hutu Melchior NDADAYE, was assassinated in October 1993 after only 100 days in office by Tutsi military officers fearing Hutu domination, sparking a civil war. His successor, Cyprien NTARYAMIRA, died when the Rwandan president’s plane he was traveling on was shot down in April 1994, which triggered the Rwandan genocide and further entrenched ethnic conflict in Burundi. The internationally brokered Arusha Agreement, signed in 2000, and subsequent ceasefire agreements with armed movements ended the 1993-2005 civil war. Burundi’s second democratic elections were held in 2005, resulting in the election of Pierre NKURUNZIZA as president. He was reelected in 2010 and again in 2015 after a controversial court decision allowed him to circumvent a term limit. President Evariste NDAYISHIMIYE - from NKURUNZIZA’s ruling party - was elected in 2020.</p><br>
+<p>Established in the 1600s, the Burundi Kingdom has had borders similar to those of modern Burundi since the 1800s. Burundi’s two major ethnic groups, the majority Hutu and minority Tutsi, share a common language and culture and largely lived in peaceful cohabitation under Tutsi monarchs in pre-colonial Burundi. Regional, class, and clan distinctions contributed to social status in the Burundi Kingdom, yielding a complex class structure. German colonial rule in the late 19th and early 20th centuries and Belgian rule after World War I preserved Burundi’s monarchy. Seeking to simplify administration, Belgian colonial officials reduced the number of chiefdoms and eliminated most Hutu chiefs from positions of power. In 1961, the Burundian Tutsi king’s oldest son, Louis RWAGASORE was murdered by a competing political faction shortly before he was set to become prime minister, triggering increased political competition that contributed to later instability. Burundi gained its independence from Belgium in 1962 as the Kingdom of Burundi.</p> <p>Revolution in neighboring Rwanda stoked ethnic polarization as the Tutsi increasingly feared violence and loss of political power. A failed Hutu-led coup in 1965 triggered a purge of Hutu officials and set the stage for Tutsi officers to overthrow the monarchy in 1966 and establish a Tutsi-dominated republic. A Hutu rebellion in 1972 that resulted in the death of several thousand Tutsi civilians sparked a brutal crackdown on Hutu civilians by the Tutsi-led military, which ultimately killed 100,000-200,000 people. International pressure led to a new constitution in 1992 and democratic elections in June 1993. Burundi's first democratically elected president, Hutu Melchior NDADAYE, was assassinated in October 1993 after only 100 days in office by Tutsi military officers fearing Hutu domination, sparking a civil war. His successor, Cyprien NTARYAMIRA, died when the Rwandan president’s plane he was traveling on was shot down in April 1994, which triggered the Rwandan genocide and further entrenched ethnic conflict in Burundi. The internationally brokered Arusha Agreement, signed in 2000, and subsequent cease-fire agreements with armed movements ended the 1993-2005 civil war. Burundi’s second democratic elections were held in 2005, resulting in the election of Pierre NKURUNZIZA as president. He was reelected in 2010 and again in 2015 after a controversial court decision allowed him to circumvent a term limit. President Evariste NDAYISHIMIYE - from NKURUNZIZA’s ruling party - was elected in 2020.</p><br>
 
 ## Geography
 
@@ -233,7 +233,7 @@ _women married by age 18_: 19%<br>
 _men married by age 18_: 1.4% (2017 est.)<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2018)<br>
+5.1% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -551,50 +551,39 @@ _electrification - total population_: 11% (2019)<br>
 _electrification - urban areas_: 66% (2019)<br>
 _electrification - rural areas_: 2% (2019)<br>
 
-**Electricity - production**<br>
-304 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 100,000 kW (2020 est.)<br>
+_Consumption_: 440.774 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 100 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 15.96 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-382.7 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 33.3% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 2.3% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 62.8% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-100 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-68,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-14% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-73% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-14% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 5,000 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-1,500 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -602,20 +591,21 @@ _electrification - rural areas_: 2% (2019)<br>
 **Refined petroleum products - imports**<br>
 1,374 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 715,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 715,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 1.087 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -645,7 +635,7 @@ _percent of population_: 9% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,230 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.04 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.04 (2020 est.)<br>
 
 ## Transportation
 
@@ -673,7 +663,7 @@ _paved_: 1,500 km (2016)<br>
 _unpaved_: 10,822 km (2016)<br>
 
 **Waterways**<br>
-(2011) (mainly on Lake Tanganyika between Bujumbura, Burundi's principal port, and lake ports in Tanzania, Zambia, and the Democratic Republic of the Congo)<br>
+673 km (2022) (mainly on Lake Tanganyika between Bujumbura, Burundi's principal port, and lake ports in Tanzania, Zambia, and the Democratic Republic of the Congo)<br>
 
 **Ports and terminals**<br>
 _lake port(s)_: Bujumbura (Lake Tanganyika)<br>

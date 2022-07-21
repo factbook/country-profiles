@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Present-day Mali is named after the Mali Empire that ruled the region between the 13th and 16th centuries. At its peak in the 14th century, it was the largest and wealthiest empire in West Africa and controlled an area about twice the size of modern-day France. Primarily a trading empire, Mali derived its wealth from gold and maintained several goldfields and trade routes in the Sahel. The empire also influenced West African culture through the spread of its language, laws, and customs, but by the 16th century it fragmented into mostly small chiefdoms.  The Songhai Empire, previously a Mali dependency centered in Timbuktu, gained prominence in the 15th and 16th centuries. Under Songhai rule, Timbuktu became a large commercial center and well-known for its scholarship and religious teaching. Timbuktu remains a center of culture in West Africa today. In the late 16th century, the Songhai Empire fell to Moroccan invaders and disintegrated into independent sultanates and kingdoms.</p> <p>France, expanding from Senegal, seized control of the area in the 1890s and incorporated it into French West Africa as French Sudan. In 1960, French Sudan gained independence from France and became the Mali Federation. When Senegal withdrew after only a few months, the remaining area was renamed the Republic of Mali. Mali saw 31 years of dictatorship until 1991, when a military coup led by Amadou Toumani TOURE ousted the government, established a new constitution, and instituted a multi-party democracy. President Alpha Oumar KONARE won Mali's first two democratic presidential elections in 1992 and 1997. In keeping with Mali's two-term constitutional limit, he stepped down in 2002 and was succeeded by Amadou Toumani TOURE, who won a second term in 2007.</p> <p>In 2012, rising ethnic tensions and an influx of fighters - some linked to Al-Qa’ida - from Libya led to a rebellion and military coup. Following the coup, rebels expelled the military from the country’s three northern regions, allowing terrorist organizations to develop strongholds in the area. With French military intervention, the Malian Government managed to retake most of the north. However, the government’s grasp in the region remains weak with local militias, terrorists, and insurgent groups continuously trying to expand control. In 2015, the Malian Government and northern rebels signed an internationally mediated peace accord. Despite a June 2017 target for implementation of the agreement, the signatories have made little progress. Extremist groups were left out of the peace process, and terrorist attacks remain common.  </p> <p>Ibrahim Boubacar KEITA won the Malian presidential elections in 2013 and 2018. Aside from security and logistic shortfalls, international observers deemed these elections credible. Terrorism, banditry, ethnic-based violence, and extra-judicial military killings plagued the country during KEITA’s second term. In August 2020, the military arrested KEITA, his prime minister, and other senior members of the government and established a military junta called the National Committee for the Salvation of the People (CNSP). In September 2020, the junta established a transition government and appointed Bah N’DAW, a retired army officer and former defense minister, as interim president and Colonel Assimi GOITA, the coup leader and chairman of the CNSP, as interim vice president. The transition government’s charter allowed it to rule for up to 18 months before calling a general election.  <br><br>In May 2021, Colonel Assimi GOITA led a military takeover, arresting the interim president after a Cabinet shake up removed Goita’s key allies. Goita was sworn in as transition president in June 2021 and Choguel Kokalla MAIGA was sworn in as prime minister. In January 2022, ECOWAS imposed sanctions against the transition government and member states closed their borders after the transition government presented a five-year extension to the electoral calendar. ECOWAS and the transition government continue to work to negotiate an acceptable electoral calendar.</p><br>
+<p>Present-day Mali is named after the Mali Empire that ruled the region between the 13th and 16th centuries. At its peak in the 14th century, it was the largest and wealthiest empire in West Africa and controlled an area about twice the size of modern-day France. Primarily a trading empire, Mali derived its wealth from gold and maintained several goldfields and trade routes in the Sahel. The empire also influenced West African culture through the spread of its language, laws, and customs, but by the 16th century it fragmented into mostly small chiefdoms.  The Songhai Empire, previously a Mali dependency centered in Timbuktu, gained prominence in the 15th and 16th centuries. Under Songhai rule, Timbuktu became a large commercial center and well-known for its scholarship and religious teaching. Timbuktu remains a center of culture in West Africa today. In the late 16th century, the Songhai Empire fell to Moroccan invaders and disintegrated into independent sultanates and kingdoms.</p> <p>France, expanding from Senegal, seized control of the area in the 1890s and incorporated it into French West Africa as French Sudan. In 1960, French Sudan gained independence from France and became the Mali Federation. When Senegal withdrew after only a few months, the remaining area was renamed the Republic of Mali. Mali saw 31 years of dictatorship until 1991, when a military coup led by Amadou Toumani TOURE ousted the government, established a new constitution, and instituted a multi-party democracy. President Alpha Oumar KONARE won Mali's first two democratic presidential elections in 1992 and 1997. In keeping with Mali's two-term constitutional limit, he stepped down in 2002 and was succeeded by Amadou Toumani TOURE, who won a second term in 2007.</p> <p>In 2012, rising ethnic tensions and an influx of fighters - some linked to Al-Qa’ida - from Libya led to a rebellion and military coup. Following the coup, rebels expelled the military from the country’s three northern regions, allowing terrorist organizations to develop strongholds in the area. With French military intervention, the Malian Government managed to retake most of the north. However, the government’s grasp in the region remains weak with local militias, terrorists, and insurgent groups continuously trying to expand control. In 2015, the Malian Government and northern rebels signed an internationally mediated peace accord. Despite a June 2017 target for implementation of the agreement, the signatories have made little progress. Extremist groups were left out of the peace process, and terrorist attacks remain common.  </p> <p>Ibrahim Boubacar KEITA won the Malian presidential elections in 2013 and 2018. Aside from security and logistic shortfalls, international observers deemed these elections credible. Terrorism, banditry, ethnic-based violence, and extra-judicial military killings plagued the country during KEITA’s second term. In August 2020, the military arrested KEITA, his prime minister, and other senior members of the government and established a military junta called the National Committee for the Salvation of the People (CNSP). In September 2020, the junta established a transition government and appointed Bah N’DAW, a retired army officer and former defense minister, as interim president and Colonel Assimi GOITA, the coup leader and chairman of the CNSP, as interim vice president. The transition government’s charter allowed it to rule for up to 18 months before calling a general election.  <br><br>In May 2021, Colonel Assimi GOITA led a military takeover, arresting the interim president after a Cabinet shake up removed GOITA’s key allies. GOITA was sworn in as transition president in June 2021 and Choguel Kokalla MAIGA was sworn in as prime minister. In January 2022, the Economic Community of West African States (ECOWAS) imposed sanctions against the transition government and member states closed their borders after the transition government presented a five-year extension to the electoral calendar. ECOWAS and the transition government continue to work to negotiate an acceptable electoral calendar.</p><br>
 
 ## Geography
 
@@ -238,7 +238,7 @@ _women married by age 18_: 53.7%<br>
 _men married by age 18_: 2.1% (2018 est.)<br>
 
 **Education expenditures**<br>
-3.4% of GDP (2019)<br>
+3.4% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -373,7 +373,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Transition President Assimi GOITA (since 7 June 2021)<br><br>note: an August 2020 coup d'etat deposed President Ibrahim Boubacar KEITA; on 21 September 2020, a group of 17 electors chosen by the Malian military junta, known as the National Committee for the Salvation of the People (CNSP) and led by Colonel Assimi GOITA, selected Bah NDAW as transition president; GOITA served as vice president of the transitional government which was inaugurated on 25 September 2020; Vice President GOITA seized power on 25 May 2021; NDAW resigned on 26 May 2021<br>
+_chief of state_: Transition President Assimi GOITA (since 7 June 2021); note - an August 2020 coup d'etat deposed President Ibrahim Boubacar KEITA; on 21 September 2020, a group of 17 electors chosen by the Malian military junta, known as the National Committee for the Salvation of the People (CNSP) and led by Colonel Assimi GOITA, selected Bah NDAW as transition president; GOITA served as vice president of the transitional government which was inaugurated on 25 September 2020; Vice President GOITA seized power on 25 May 2021; NDAW resigned on 26 May 2021; on 6 June 2022, GOITA's government announced a transition period of 24 months with a return to civilian rule effective March 2024<br>
 _head of government_: Transition Prime Minister Choguel MAIGA (appointed by Transitional President Assimi GOITA on 7 June 2021)<br><br>note: former transition Prime Minister Moctar OUANE was arrested and detained by the military on 24 May 2021 and resigned on 26 May 2021<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 29 July 2018 with runoff on 12 August 2018; prime minister appointed by the president; note - on 21 February 2022, the transition government adopted a charter allowing transition authorities to rule for up to 5 years; thereafter transition President GOITA is barred from being a candidate in presidential elections.<br>
@@ -571,50 +571,39 @@ _electrification - total population_: 50% (2019)<br>
 _electrification - urban areas_: 78% (2019)<br>
 _electrification - rural areas_: 28% (2019)<br>
 
-**Electricity - production**<br>
-2.489 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 890,000 kW (2020 est.)<br>
+_Consumption_: 2,620,980,000 kWh (2019 est.)<br>
+_Exports_: 550 million kWh (2019 est.)<br>
+_Imports_: 200 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 346 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-2.982 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 67.4% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 1% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 29.7% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.9% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-800 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-590,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-68% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-31% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 37,600 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-22,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -622,20 +611,21 @@ _electrification - rural areas_: 28% (2019)<br>
 **Refined petroleum products - imports**<br>
 20,610 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 5.679 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 5.679 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 4.396 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -665,7 +655,7 @@ _percent of population_: 27% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 243,806 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1.2 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -738,7 +728,7 @@ prior to the coup in August 2020 and military takeover in May 2021, the Malian m
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara; Jama'at Nusrat al-Islam wal-Muslimin; al-Mulathamun Battalion (al-Mourabitoun)<br>
+Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara (ISIS-GS); Jama'at Nusrat al-Islam wal-Muslimin (JNIM); al-Mulathamun Battalion (al-Mourabitoun)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
@@ -747,7 +737,7 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara; Jama'at
 <p><em>Mali-Burkina Faso</em>: demarcation is underway with Burkina Faso</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,051 (Burkina Faso), 14,950 (Mauritania), 13,585 (Niger) (2022)<br>
+_refugees (country of origin)_: 22,051 (Burkina Faso) (refugees and asylum seekers), 14,950 (Mauritania) (refugees and asylum seekers), 13,585 (Niger) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 370,548 (Tuareg rebellion since 2012) (2022)<br>
 
 **Trafficking in persons**<br>

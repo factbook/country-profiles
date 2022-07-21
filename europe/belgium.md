@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Belgium became independent from the Netherlands in 1830; it was occupied by Germany during World Wars I and II. The country prospered in the past half century as a modern, technologically advanced European state and member of NATO and the EU. In recent years, political divisions between the Dutch-speaking Flemish of the north and the French-speaking Walloons of the south have led to constitutional amendments granting these regions formal recognition and autonomy. The capital city of Brussels is home to numerous international organizations including the EU and NATO.</p><br>
+<p>Belgium became independent from the Netherlands in 1830; it was occupied by Germany during World Wars I and II. The country prospered in the past half century as a modern, technologically advanced European state and member of NATO and the EU. In recent years, political divisions between the Dutch-speaking Flemish of the north and the French-speaking Walloons of the south have led to constitutional amendments granting these regions formal recognition and autonomy. The capital city of Brussels is home to numerous international organizations, including the EU and NATO.</p><br>
 
 ## Geography
 
@@ -215,7 +215,12 @@ _female_: 21% (2020 est.)<br>
 1% (2014/15)<br>
 
 **Education expenditures**<br>
-6.4% of GDP (2018)<br>
+6.4% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 20 years<br>
@@ -530,50 +535,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-79.83 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 26.929 million kW (2020 est.)<br>
+_Consumption_: 81,171,300,000 kWh (2020 est.)<br>
+_Exports_: 14.053 billion kWh (2020 est.)<br>
+_Imports_: 13.394 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 3.444 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-82.16 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 33.1% of total installed capacity (2020 est.)<br>
+_Nuclear_: 38.1% of total installed capacity (2020 est.)<br>
+_Solar_: 5.8% of total installed capacity (2020 est.)<br>
+_Wind_: 15% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0.3% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 7.7% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-8.465 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 1.105 million metric tons (2020 est.)<br>
+_Consumption_: 4.167 million metric tons (2020 est.)<br>
+_Exports_: 504,000 metric tons (2020 est.)<br>
+_Imports_: 3.467 million metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-14.65 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-21.56 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-35% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-28% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-36% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-687,600 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 11,400 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 642,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 666,700 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 731,700 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-648,600 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 680,800 bbl/day (2017 est.)<br>
@@ -581,20 +575,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 601,400 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 18,171,598,000 cubic meters (2019 est.)<br>
+_Exports_: 3,942,860,000 cubic meters (2019 est.)<br>
+_Imports_: 22,606,066,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-17.61 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 128.247 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 10.301 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 83.474 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 34.472 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-736.2 million cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-18.09 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 234.216 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -721,7 +716,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 50,242 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 18,493 (Syria), 5,094 (Iraq) (2020); 50,789 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 1,159 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

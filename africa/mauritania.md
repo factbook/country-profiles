@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Berber and Bafour people were among the first to settle in what is now Mauritania. Originally a nomadic people, they were among the first in recorded history to convert from a nomadic to agricultural lifestyle. These groups account for roughly one third of Mauritania’s ethnic makeup. The remainder of Mauritania’s ethnic groups derive from former enslaved peoples and sub-Saharan ethnic groups originating mainly from the Senegal River Valley. These three groups are organized according to a strict caste system with deep ethnic divides that still exist today.<br><br>A former French colony, Mauritania achieved independence from France in 1960. Mauritania initially began as a single-party, authoritarian regime and saw 49 years of dictatorships, flawed elections, failed attempts at democracy, and military coups. Ould Abdel AZIZ led the last coup in 2008, and was elected president in 2009 and reelected in 2014. Mohamed Ould Cheikh GHAZOUANI was elected president in 2019, and his inauguration marked the first peaceful transition of power from one democratically elected president to another, solidifying Mauritania’s status as an emerging democracy. International observers recognized the elections as relatively free and fair.</p> <p>The country is working to address a continuing practice of slavery and its vestiges. Mauritania officially abolished slavery in 1981, but the practice was not criminalized until 2007. Between 2005 and 2011, Al-Qaeda in the Islamic Maghreb (AQIM) launched a series of attacks killing American and foreign tourists and aid workers, attacking diplomatic and government facilities, and ambushing Mauritanian soldiers and gendarmes. Although Mauritania has not seen an attack since 2011, AQIM and similar groups remain active in the Sahel region.</p> <p> </p><br>
+<p>The Berber and Bafour people were among the first to settle in what is now Mauritania. Originally a nomadic people, they were among the first in recorded history to convert from a nomadic to agricultural lifestyle. These groups account for roughly one third of Mauritania’s ethnic makeup. The remainder of Mauritania’s ethnic groups derive from former enslaved peoples and Sub-Saharan ethnic groups originating mainly from the Senegal River Valley. These three groups are organized according to a strict caste system with deep ethnic divides that still exist today.<br><br>A former French colony, Mauritania achieved independence from France in 1960. Mauritania initially began as a single-party, authoritarian regime and saw 49 years of dictatorships, flawed elections, failed attempts at democracy, and military coups. Ould Abdel AZIZ led the last coup in 2008, and was elected president in 2009 and reelected in 2014. Mohamed Ould Cheikh GHAZOUANI was elected president in 2019, and his inauguration marked the first peaceful transition of power from one democratically elected president to another, solidifying Mauritania’s status as an emerging democracy. International observers recognized the elections as relatively free and fair.</p> <p>The country is working to address a continuing practice of slavery and its vestiges. Mauritania officially abolished slavery in 1981, but the practice was not criminalized until 2007. Between 2005 and 2011, Al-Qaeda in the Islamic Maghreb (AQIM) launched a series of attacks killing American and foreign tourists and aid workers, attacking diplomatic and government facilities, and ambushing Mauritanian soldiers and gendarmes. Although Mauritania has not seen an attack since 2011, AQIM and similar groups remain active in the Sahel region.</p> <p> </p><br>
 
 ## Geography
 
@@ -230,7 +230,7 @@ _female_: 2.1% (2020 est.)<br>
 19.2% (2018)<br>
 
 **Education expenditures**<br>
-1.9% of GDP (2020)<br>
+1.9% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -395,7 +395,7 @@ _email address and website_: <br>office@mauritaniaembassyus.com<br><br>http://ma
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Cynthia KIERSCHT (since 29 March 2021)<br>
-_embassy_: Nouadhibou Road, Avenue Al Quds, NOT PRTZ, Nouakchott<br><br>  <br>
+_embassy_: Nouadhibou Road, Avenue Al Quds, NOT PRTZ, Nouakchott<br>
 _mailing address_: 2430 Nouakchott Place, Washington DC&nbsp; 20521-2430<br>
 _telephone_: [222] 4525-2660<br>
 _FAX_: [222] 4525-1592<br>
@@ -563,50 +563,39 @@ _electrification - total population_: 32% (2019)<br>
 _electrification - urban areas_: 56% (2019)<br>
 _electrification - rural areas_: 4% (2019)<br>
 
-**Electricity - production**<br>
-1.139 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 656,000 kW (2020 est.)<br>
+_Consumption_: 1.577 billion kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 245 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-1.059 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 73.2% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 8.1% of total installed capacity (2020 est.)<br>
+_Wind_: 6.8% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 11.9% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-558,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-65% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-16% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-20% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-4,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-5,333 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-20 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 27,500 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 4,800 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 20 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-17,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -614,20 +603,21 @@ _electrification - rural areas_: 4% (2019)<br>
 **Refined petroleum products - imports**<br>
 17,290 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 28.317 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 4.041 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 4.041 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-28.32 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 13.558 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -657,7 +647,7 @@ _percent of population_: 41% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 18,457 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.4 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.4 (2020 est.)<br>
 
 ## Transportation
 
@@ -694,7 +684,7 @@ _paved_: 3,988 km (2018)<br>
 _unpaved_: 8,265 km (2018)<br>
 
 **Waterways**<br>
-(2011) (some navigation possible on the Senegal River)<br>
+1,086 km (2022) (some navigation possible on the Senegal River)<br>
 
 **Merchant marine**<br>
 _total_: 5<br>
@@ -727,7 +717,7 @@ the Mauritanian Armed Forces' inventory is limited and made up largely of older 
 
 **Military deployments**<br>
 460 (plus about 320 police) Central African Republic (MINUSCA) (Feb 2022)<br>
-note - Mauritania is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali, and Niger; it has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane<br>
+<strong>note:</strong> Mauritania is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali (withdrew in 2022), and Niger; it has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France<br>
 
 **Military - note**<br>
 since a spate of terrorist attacks in the 2000s, including a 2008 attack on a military base in the country&rsquo;s north that resulted in the deaths of 12 soldiers, the Mauritanian Government has increased the defense budget and military equipment acquisitions, enhanced military training, heightened security cooperation with its neighbors and the international community, and built up the military&rsquo;s special operations and civil-military affairs forces (2022)<br>
@@ -735,7 +725,7 @@ since a spate of terrorist attacks in the 2000s, including a 2008 attack on a mi
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Al-Qaeda in the Islamic Maghreb (AQIM)<br>
+Al-Qa'ida in the Islamic Maghreb (AQIM)<br>
 
 ## Transnational Issues
 

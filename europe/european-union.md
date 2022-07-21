@@ -8,7 +8,7 @@ _Europe / Other_
 <p>The evolution of what is today the European Union (EU) from a regional economic agreement among six neighboring states in 1951 to today's hybrid intergovernmental and supranational organization of 27 countries across the European continent stands as an unprecedented phenomenon in the annals of history. Dynastic unions for territorial consolidation were long the norm in Europe; on a few occasions even country-level unions were arranged - the Polish-Lithuanian Commonwealth and the Austro-Hungarian Empire were examples. But for such a large number of nation-states to cede some of their sovereignty to an overarching entity is unique.</p> <p>Although the EU is not a federation in the strict sense, it is far more than a free-trade association such as ASEAN or Mercosur, and it has certain attributes associated with independent nations: its own flag, currency (for some members), and law-making abilities, as well as diplomatic representation and a common foreign and security policy in its dealings with external partners.</p> <p>Thus, inclusion of basic intelligence on the EU has been deemed appropriate as a separate entity in The World Factbook.</p><br>
 
 **Background**<br>
-<p>Following the two devastating World Wars in the first half of the 20th century, a number of far-sighted European leaders in the late 1940s sought a response to the overwhelming desire for peace and reconciliation on the continent. In 1950, the French Foreign Minister Robert SCHUMAN proposed pooling the production of coal and steel in Western Europe and setting up an organization for that purpose that would bring France and the Federal Republic of Germany together and would be open to other countries as well. The following year, the European Coal and Steel Community (ECSC) was set up when six members - Belgium, France, West Germany, Italy, Luxembourg, and the Netherlands - signed the Treaty of Paris.</p> <p>The ECSC was so successful that within a few years the decision was made to integrate other elements of the member states' economies. In 1957, envisioning an "ever closer union," the Treaties of Rome were signed creating the European Economic Community (EEC) and the European Atomic Energy Community (Euratom), and the six member states strove to eliminate trade barriers among themselves by forming a common market. In 1967, the institutions of all three communities were formally merged into the European Community (EC), creating a single Commission, a single Council of Ministers, and the body known today as the European Parliament. Members of the European Parliament were initially selected by national parliaments, but in 1979 the first direct elections were undertaken and have been held every five years since.</p> <p>In 1973, the first enlargement of the EC took place with the addition of Denmark, Ireland, and the UK. The 1980s saw further membership expansion with Greece joining in 1981 and Spain and Portugal in 1986. The 1992 Treaty of Maastricht laid the basis for further forms of cooperation in foreign and defense policy, in judicial and internal affairs, and in the creation of an economic and monetary union - including a common currency. This further integration created the European Union (EU), at the time standing alongside the EC. In 1995, Austria, Finland, and Sweden joined the EU/EC, raising the total number of member states to 15.</p> <p>A new currency, the euro, was launched in world money markets on 1 January 1999; it became the unit of exchange for all EU member states except Denmark, Sweden, and the UK. In 2002, citizens of those 12 countries began using euro banknotes and coins. Ten new countries joined the EU in 2004 - Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia. Bulgaria and Romania joined in 2007 and Croatia in 2013, but the UK withdrew in 2020. Current membership stands at 27. (Seven of the new countries - Cyprus, Estonia, Latvia, Lithuania, Malta, Slovakia, and Slovenia - have now adopted the euro, bringing total euro-zone membership to 19.)</p> <p>In an effort to ensure that the EU could function efficiently with an expanded membership, the Treaty of Nice (concluded in 2000; entered into force in 2003) set forth rules to streamline the size and procedures of EU institutions. An effort to establish a "Constitution for Europe," growing out of a Convention held in 2002-2003, foundered when it was rejected in referenda in France and the Netherlands in 2005. A subsequent effort in 2007 incorporated many of the features of the rejected draft Constitutional Treaty while also making a number of substantive and symbolic changes. The new treaty, referred to as the Treaty of Lisbon, sought to amend existing treaties rather than replace them. The treaty was approved at the EU intergovernmental conference of member states held in Lisbon in December 2007, after which the process of national ratifications began. In October 2009, an Irish referendum approved the Lisbon Treaty (overturning a previous rejection) and cleared the way for an ultimate unanimous endorsement. Poland and the Czech Republic ratified soon after. The Lisbon Treaty came into force on 1 December 2009 and the EU officially replaced and succeeded the EC. The Lisbon Treaty's provisions are part of the basic consolidated versions of the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU) now governing what remains a very specific integration project.</p> <p>UK citizens on 23 June 2016 narrowly voted to leave the EU; the formal exit took place on 31 January 2020. The EU and UK negotiated and ratified a Withdrawal Agreement that included a status quo transition period through December 2020, when the follow-on EU-UK Trade and Cooperation Agreement was concluded.</p><br>
+<p>Following the two devastating World Wars in the first half of the 20th century, a number of far-sighted European leaders in the late 1940s sought a response to the overwhelming desire for peace and reconciliation on the continent. In 1950, the French Foreign Minister Robert SCHUMAN proposed pooling the production of coal and steel in Western Europe and setting up an organization for that purpose that would bring France and the Federal Republic of Germany together and would be open to other countries as well. The following year, the European Coal and Steel Community (ECSC) was set up when six members - Belgium, France, West Germany, Italy, Luxembourg, and the Netherlands - signed the Treaty of Paris.</p> <p>The ECSC was so successful that within a few years the decision was made to integrate other elements of the member states' economies. In 1957, envisioning an "ever closer union," the Treaties of Rome were signed creating the European Economic Community (EEC) and the European Atomic Energy Community (Euratom), and the six member states strove to eliminate trade barriers among themselves by forming a common market. In 1967, the institutions of all three communities were formally merged into the European Community (EC), creating a single Commission, a single Council of Ministers, and the body known today as the European Parliament. Members of the European Parliament were initially selected by national parliaments, but in 1979 the first direct elections were undertaken and have been held every five years since.</p> <p>In 1973, the first enlargement of the EC took place with the addition of Denmark, Ireland, and the UK. The 1980s saw further membership expansion with Greece joining in 1981 and Spain and Portugal in 1986. The 1992 Treaty of Maastricht laid the basis for further forms of cooperation in foreign and defense policy, in judicial and internal affairs, and in the creation of an economic and monetary union - including a common currency. This further integration created the European Union (EU), at the time standing alongside the EC. In 1995, Austria, Finland, and Sweden joined the EU/EC, raising the total number of member states to 15.</p> <p>A new currency, the euro, was launched in world money markets on 1 January 1999; it became the unit of exchange for all EU member states except Denmark, Sweden, and the UK. In 2002, citizens of those 12 countries began using euro banknotes and coins. Ten new countries joined the EU in 2004 - Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia. Bulgaria and Romania joined in 2007 and Croatia in 2013, but the UK withdrew in 2020. Current membership stands at 27. (Seven of the new countries - Cyprus, Estonia, Latvia, Lithuania, Malta, Slovakia, and Slovenia - have now adopted the euro, bringing total euro-zone membership to 19.)</p> <p>In an effort to ensure that the EU could function efficiently with an expanded membership, the Treaty of Nice (concluded in 2000; entered into force in 2003) set forth rules to streamline the size and procedures of EU institutions. An effort to establish a "Constitution for Europe," growing out of a Convention held in 2002-2003, foundered when it was rejected in referenda in France and the Netherlands in 2005. A subsequent effort in 2007 incorporated many of the features of the rejected draft Constitutional Treaty while also making a number of substantive and symbolic changes. The new treaty, referred to as the Treaty of Lisbon, sought to amend existing treaties rather than replace them. The treaty was approved at the EU intergovernmental conference of member states held in Lisbon in December 2007, after which the process of national ratifications began. In October 2009, an Irish referendum approved the Lisbon Treaty (overturning a previous rejection) and cleared the way for an ultimate unanimous endorsement. Poland and the Czech Republic ratified soon after. The Lisbon Treaty came into force on 1 December 2009 and the EU officially replaced and succeeded the EC. The Lisbon Treaty's provisions are part of the basic consolidated versions of the Treaty on European Union and the Treaty on the Functioning of the European Union now governing what remains a very specific integration project.</p> <p>UK citizens on 23 June 2016 narrowly voted to leave the EU; the formal exit took place on 31 January 2020. The EU and UK negotiated and ratified a Withdrawal Agreement that included a status quo transition period through December 2020, when the follow-on EU-UK Trade and Cooperation Agreement was concluded.</p><br>
 
 ## Geography
 
@@ -61,8 +61,8 @@ flooding along coasts; avalanches in mountainous area; earthquakes in the south;
 ## People and Society
 
 **Population**<br>
-(July 2021 est.) 450,131,902<br>
-<strong>rank by population:</strong>   <ol> <li>Germany - 79,903,481; </li> <li>France - 68,084,217; </li> <li>Italy - 62,390,364; </li> <li>Spain - 47,260,584; </li> <li>Poland - 38,185,913; </li> <li>Romania - 21,230,362; </li> <li>Netherlands - 17,337,403; </li> <li>Belgium - 11,778,842; </li> <li>Czechia - 10,702,596; </li> <li>Greece - 10,569,703; </li> <li>Portugal - 10,263,850; </li> <li>Sweden - 10,261,767; </li> <li>Hungary - 9,728,337; </li> <li>Austria - 8,884,864; </li> <li>Bulgaria - 6,919,180; </li> <li>Denmark - 5,894,687; </li> <li>Finland - 5,587,442; </li> <li>Slovakia - 5,436,066; </li> <li>Ireland - 5,224,884; </li> <li>Croatia - 4,208,973; </li> <li>Lithuania - 2,711,566; </li> <li>Slovenia - 2,102,106; </li> <li>Latvia - 1,862,687; </li> <li>Cyprus - 1,281,506; </li> <li>Estonia - 1,220,042; </li> <li>Luxembourg - 639,589; </li> <li>Malta - 460,891 (July 2021 est.)</li> </ol> <br>
+(July 2022 est.) 450,858,381<br>
+<strong>rank by population:</strong>   <ol> <li>Germany - 84,316,622; </li> <li>France - 68,305,148; </li> <li>Italy - 61,095,551; </li> <li>Spain - 47,163,418; </li> <li>Poland - 38,093,101; </li> <li>Romania - 18,519,899; </li> <li>Netherlands - 17,400,824; </li> <li>Belgium - 11,847,338; </li> <li>Czechia - 10,705,384; </li> <li>Greece - 10,533,871; </li> <li>Sweden - 10,483,647; </li> <li>Portugal - 10,242,081; </li> <li>Hungary - 9,699,577; </li> <li>Austria - 8,913,088; </li> <li>Bulgaria - 6,873,253; </li> <li>Denmark - 5,920,767; </li> <li>Finland - 5,601,547; </li> <li>Slovakia - 5,431,252; </li> <li>Ireland - 5,275,004; </li> <li>Croatia - 4,188,853; </li> <li>Lithuania - 2,683,546; </li> <li>Slovenia - 2,101,208; </li> <li>Latvia - 1,842,226; </li> <li>Cyprus - 1,295,102; </li> <li>Estonia - 1,211,524; </li> <li>Luxembourg - 650,364; </li> <li>Malta - 464,186 (July 2022 est.)</li> </ol> <br>
 
 **Languages**<br>
 Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovene, Spanish, Swedish<br>
@@ -155,7 +155,7 @@ note - see individual entries of member states<br>
 note - see individual entries of member states<br>
 
 **HIV/AIDS - deaths**<br>
-note - see individual entries of member states<br>
+<strong>note:</strong> see individual entries of member states<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring regionally; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the European Union’s Schengen Area (comprised of the following 26 European states: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and Switzerland) to travel through select airports where the US Government has implemented enhanced screening procedures<br>
@@ -164,7 +164,12 @@ note - see individual entries of member states<br>
 NA<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2019)<br>
+4.7% of GDP (2019 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 18.7%<br>
@@ -215,7 +220,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _time zone note_: the 27 European Union countries spread across three time zones; a proposal has been put forward to do away with daylight savings time in all EU member states<br>
 
 **Member states**<br>
-<p>27 countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden; note - candidate countries: Albania, Montenegro, North Macedonia, Serbia, Turkey</p> <p>there are 13 overseas countries and territories (OCTs) (1 with Denmark [Greenland], 6 with France [French Polynesia; French Southern and Antarctic Lands; New Caledonia; Saint Barthelemy; Saint Pierre and Miquelon; Wallis and Futuna], and 6 with the Netherlands [Aruba, Bonaire, Curacao, Saba, Sint Eustatius, Sint Maarten]), all are part of the Overseas Countries and Territories Association (OCTA)</p><br>
+<p>27 countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden; note - candidate countries: Albania, Moldova, Montenegro, North Macedonia, Serbia, Turkey, Ukraine</p> <p>there are 13 overseas countries and territories (OCTs) (1 with Denmark [Greenland], 6 with France [French Polynesia, French Southern and Antarctic Lands, New Caledonia, Saint Barthelemy, Saint Pierre and Miquelon, Wallis and Futuna], and 6 with the Netherlands [Aruba, Bonaire, Curacao, Saba, Sint Eustatius, Sint Maarten]), all are part of the Overseas Countries and Territories Association (OCTA)</p><br>
 <strong>note:</strong> there are non-European OCTs having special relations with Denmark, France, and the Netherlands (list is annexed to the Treaty on the Functioning of the European Union), that are associated with the EU to promote their economic and social development; member states apply to their trade with OCTs the same treatment as they accord each other pursuant to the treaties; OCT nationals are in principle EU citizens, but these countries are neither part of the EU, nor subject to the EU<br>
 
 **Independence**<br>
@@ -256,8 +261,8 @@ European United Left-Nordic Green Left or GUE/NGL [Manon AUBRY and Martin SCHIRD
 ARF, ASEAN (dialogue member), Australian Group, BIS, BSEC (observer), CBSS, CERN, EBRD, FAO, FATF, G-8, G-10, G-20, IDA, IEA, IGAD (partners), LAIA (observer), NSG (observer), OAS (observer), OECD, PIF (partner), SAARC (observer), SICA (observer), UN (observer), UNRWA (observer), WCO, WTO, ZC (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Stavros LAMBRINIDIS (since 1 March 2019)&nbsp;<br>
-_chancery_: 2175 K Street, NW, Suite 800, Washington, DC 20037<br>
+_chief of mission_: Ambassador Stavros LAMBRINIDIS (since 1 March 2019)<br>
+_chancery_: 2175 K Street NW, Suite 800, Washington, DC 20037<br>
 _telephone_: [1] (202) 862-9500<br>
 _FAX_: [1] (202) 429-1766<br>
 
@@ -425,44 +430,8 @@ euros per US dollar -<br>
 
 ## Energy
 
-**Electricity - production**<br>
-3.043 trillion kWh (2015 est.)<br>
-
-**Electricity - consumption**<br>
-2.845 trillion kWh (2015 est.)<br>
-
-**Electricity - exports**<br>
-390 billion kWh (2015 est.)<br>
-
-**Electricity - imports**<br>
-397 billion kWh (2015 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-975 million kW (2015 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-44% of total installed capacity (2015 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-12% of total installed capacity (2015 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-11% of total installed capacity (2015 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-44% of total installed capacity (2015 est.)<br>
-
-**Crude oil - production**<br>
-1.488 million bbl/day (2016 est.)<br>
-
-**Crude oil - proved reserves**<br>
-5.1 billion bbl (2016 est.)<br>
-
 **Refined petroleum products - production**<br>
 11.66 million bbl/day (2016 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-12.89 million bbl/day (2015 est.)<br>
 
 **Refined petroleum products - exports**<br>
 2.196 million bbl/day (2017 est.)<br>
@@ -470,20 +439,8 @@ euros per US dollar -<br>
 **Refined petroleum products - imports**<br>
 8.613 million bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-118.2 billion cu m (2016 est.)<br>
-
-**Natural gas - consumption**<br>
-428.8 billion cu m (2016 est.)<br>
-
-**Natural gas - exports**<br>
-93.75 billion cu m (2010 est.)<br>
-
-**Natural gas - imports**<br>
-420.6 billion cu m (2010 est.)<br>
-
-**Natural gas - proved reserves**<br>
-1.3 trillion cu m (1 January 2017 est.)<br>
+**Carbon dioxide emissions**<br>
+3.475 billion metric tonnes of CO2 (2015 est.)<br>
 
 ## Communications
 

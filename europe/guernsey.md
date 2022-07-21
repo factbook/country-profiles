@@ -5,7 +5,7 @@ _Europe / Dependencies (United Kingdom)_
 ## Introduction
 
 **Background**<br>
-Guernsey and the other Channel Islands represent the last remnants of the medieval Duchy of Normandy, which held sway in both France and England. The islands were the only British soil occupied by German troops in World War II. The Bailiwick of Guernsey is a self-governing British Crown dependency that is not part of the United Kingdom. However, the UK Government is constitutionally responsible for its defense and international representation. The Bailiwick of Guernsey consists of the main island of Guernsey and a number of smaller islands including Alderney, Sark, Herm, Jethou, Brecqhou, and Lihou.<br>
+Guernsey and the other Channel Islands represent the last remnants of the medieval Duchy of Normandy, which held sway in both France and England. The islands were the only British soil occupied by German troops in World War II. The Bailiwick of Guernsey consists of the main island of Guernsey and a number of smaller islands including Alderney, Sark, Herm, Jethou, Brecqhou, and Lihou. The Bailiwick is a self-governing British Crown dependency that is not part of the UK. However, the UK Government is constitutionally responsible for its defense and international representation.&nbsp;<br>
 
 ## Geography
 
@@ -176,6 +176,11 @@ NA<br>
 
 **Education expenditures**<br>
 NA<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 ## Environment
 

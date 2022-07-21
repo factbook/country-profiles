@@ -210,7 +210,7 @@ _female_: 2.6% (2020 est.)<br>
 11.7% (2013)<br>
 
 **Education expenditures**<br>
-2.3% of GDP (2020)<br>
+2.3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -343,7 +343,12 @@ Greens Confederation or GC [Moana CARCASSES Kalosil]<br>Iauko Group or IG [Tony 
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; the Vanuatu Permanent Mission to the UN serves as the embassy; it is headed by Odo TEVI (since 8 September 2017); address: 800 Second Avenue, Suite 400B, New York, NY 10017; telephone: [1] (212) 661-4303; FAX: [1] (212) 422-3427; email: vanunmis@aol.com<br>
+_chief of mission_: Ambassador Odo TEVI (since 8 September 2014)<br>note - also Permanent Representative to the UN<br>
+_telephone_: [1] (212) 661-4303<br>
+_FAX_: [1] (212) 422-3427<br>
+_email address and website_: email - vanunmis@aol.com<br>web address - https://www.un.int/vanuatu/<br>
+_embassy_: 800 Second Avenue, Suite 400B, New York, NY 10017<br>
+note - the Vanuatu Permanent Mission to the UN serves as the embassy<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Vanuatu; the US Ambassador to Papua New Guinea is accredited to Vanuatu<br>
@@ -505,50 +510,39 @@ _electrification - total population_: 61.8% (2018)<br>
 _electrification - urban areas_: 93.7% (2018)<br>
 _electrification - rural areas_: 51.1% (2018)<br>
 
-**Electricity - production**<br>
-63 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 35,000 kW (2020 est.)<br>
+_Consumption_: 62.926 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 5 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-58.59 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 84.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 8.2% of total installed capacity (2020 est.)<br>
+_Wind_: 7.4% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-37,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-71% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-29% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 1,500 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-1,100 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -556,20 +550,21 @@ _electrification - rural areas_: 51.1% (2018)<br>
 **Refined petroleum products - imports**<br>
 1,073 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 225,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 225,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 10.878 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -599,7 +594,7 @@ _percent of population_: 26% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,785 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.9 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 ## Transportation
 

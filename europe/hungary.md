@@ -220,7 +220,7 @@ _female_: 27.8% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.6% of GDP (2018)<br>
+4.6% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -552,50 +552,39 @@ forints (HUF) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-30.22 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 10.873 million kW (2020 est.)<br>
+_Consumption_: 41.533 billion kWh (2020 est.)<br>
+_Exports_: 7.498 billion kWh (2020 est.)<br>
+_Imports_: 19.176 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 3.139 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-39.37 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 36.1% of total installed capacity (2020 est.)<br>
+_Nuclear_: 46% of total installed capacity (2020 est.)<br>
+_Solar_: 7.4% of total installed capacity (2020 est.)<br>
+_Wind_: 2% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0.7% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0.5% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0.1% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 7.3% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-5.24 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 6.956 million metric tons (2020 est.)<br>
+_Consumption_: 8.079 million metric tons (2020 est.)<br>
+_Exports_: 230,000 metric tons (2020 est.)<br>
+_Imports_: 1.395 million metric tons (2020 est.)<br>
+_Proven reserves_: 2.909 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-17.95 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-8.639 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-64% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-22% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-13% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-16,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-2,713 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-121,000 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-24 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 35,200 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 180,600 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 8,000 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 134,800 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 12.1 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 152,400 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-167,700 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 58,720 bbl/day (2017 est.)<br>
@@ -603,20 +592,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 82,110 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-1.812 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 1,685,020,000 cubic meters (2020 est.)<br>
+_Consumption_: 10,545,459,000 cubic meters (2020 est.)<br>
+_Exports_: 3,757,583,000 cubic meters (2020 est.)<br>
+_Imports_: 11,677,990,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 3.738 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-10.39 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 48.589 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 7.501 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 21.568 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 19.52 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-3.52 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-13.37 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-6.598 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 108.212 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -726,7 +716,7 @@ the inventory of the Hungarian Defense Forces consists largely of Soviet-era wea
 note - as of 2019, women comprised approximately 20% of Hungary's full-time military personnel<br>
 
 **Military deployments**<br>
-160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (counter-ISIS coalition); 470 Kosovo (NATO/KFOR) (2021-2022)<br>
+160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (NATO); 470 Kosovo (NATO/KFOR) (2022)<br>
 
 **Military - note**<br>
 Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance (2022)<br>
@@ -737,7 +727,7 @@ Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,199 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 26,563 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

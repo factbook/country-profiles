@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Burma, colonized by Britain in the 19th century and granted independence post-World War II, contains ethnic Burman and scores of other ethnic and religious minority groups that have all resisted external efforts to consolidate control of the country throughout its history, extending to the several minority groups today that possess independent fighting forces and control pockets of territory. Burman and armed ethnic minorities fought off-and-on until military Gen. NE WIN seized power in 1962. He ruled Burma until 1988 when a military junta took control. In 1990, the junta permitted an election but then rejected the results when the main opposition National League for Democracy (NLD) and its leader AUNG SAN SUU KYI (ASSK) won in a landslide. The junta placed ASSK under house arrest for much of the next 20 years, until November 2010. In 2007, rising fuel prices in Burma led pro-democracy activists and Buddhist monks to launch a "Saffron Revolution" consisting of large protests against the ruling junta, which violently suppressed the movement by killing an unknown number of participants and arresting thousands. The regime prevented new elections until it had drafted a constitution designed to preserve its control; it passed the new constitution in its 2008 referendum, days after Cyclone Nargis killed at least 138,000. The junta conducted an election in 2010, but the NLD boycotted the vote, and the military’s Union Solidarity and Development Party (USDP) easily won; international observers denounced the election as flawed. <br><br>With former or current military officers installed in its most senior positions, Burma began a halting process of political and economic reforms. Officials freed prisoners, brokered ceasefires with ethnic armed organizations (EAOs), amended courts, expanded civil liberties, brought ASSK into government in 2012, and permitted the NLD in 2015 to take power after a sweeping electoral win.  However, Burma’s first credibly elected civilian government, with ASSK as the de facto head of state, faced strong headwinds after five decades of military dictatorship. The NLD government drew international criticism for blocking investigations of Burma’s military for operations, which the US Department of State determined constituted genocide, on its Rohingya population that killed thousands and forced more than 740,000 Rohingya to flee into neighboring Bangladesh. The military did not support an NLD pledge in 2019 to examine reforming the military’s 2008 constitution. When the 2020 elections resulted in further NLD gains, the military denounced them as fraudulent. This challenge led Commander-in-Chief Sr. General MIN AUNG HLAING (MAH) to launch a coup in February 2021 that has left Burma reeling with the return to authoritarian rule, the detention of ASSK and thousands of pro-democracy actors, and renewed brutal repression against protestors, widespread violence, and economic decline.</p> <p>Since the coup and subsequent crackdown, lawmakers elected in the November 2020 election and members of parliament ousted by the military have formed a shadow National Unity Government (NUG). Members of the NUG include representatives from the NLD, ethnic minority groups, civil society, and other minor parties. In May 2021, the NUG announced the formation of an an armed wing called the People's Defense Force, and in September announced the start of an insurgency against the military junta that has continued into 2022.</p><br>
+<p>Burma, colonized by Britain in the 19th century and granted independence post-World War II, contains ethnic Burman and scores of other ethnic and religious minority groups that have all resisted external efforts to consolidate control of the country throughout its history, extending to the several minority groups today that possess independent fighting forces and control pockets of territory. Burman and armed ethnic minorities fought off-and-on until military Gen. NE WIN seized power in 1962. He ruled Burma until 1988 when a military junta took control. In 1990, the junta permitted an election but then rejected the results when the main opposition National League for Democracy (NLD) and its leader AUNG SAN SUU KYI (ASSK) won in a landslide. The junta placed ASSK under house arrest for much of the next 20 years, until November 2010. In 2007, rising fuel prices in Burma led pro-democracy activists and Buddhist monks to launch a "Saffron Revolution" consisting of large protests against the ruling junta, which violently suppressed the movement by killing an unknown number of participants and arresting thousands. The regime prevented new elections until it had drafted a constitution designed to preserve its control; it passed the new constitution in its 2008 referendum, days after Cyclone Nargis killed at least 138,000. The junta conducted an election in 2010, but the NLD boycotted the vote, and the military’s Union Solidarity and Development Party easily won; international observers denounced the election as flawed. <br><br>With former or current military officers installed in its most senior positions, Burma began a halting process of political and economic reforms. Officials freed prisoners, brokered ceasefires with ethnic armed organizations (EAOs), amended courts, expanded civil liberties, brought ASSK into government in 2012, and permitted the NLD in 2015 to take power after a sweeping electoral win.  However, Burma’s first credibly elected civilian government, with ASSK as the de facto head of state, faced strong headwinds after five decades of military dictatorship. The NLD government drew international criticism for blocking investigations of Burma’s military for operations, which the US Department of State determined constituted genocide, on its Rohingya population that killed thousands and forced more than 770,000 Rohingya to flee into neighboring Bangladesh. The military did not support an NLD pledge in 2019 to examine reforming the military’s 2008 constitution. When the 2020 elections resulted in further NLD gains, the military denounced them as fraudulent. This challenge led Commander-in-Chief Sr. General MIN AUNG HLAING (MAH) to launch a coup in February 2021 that has left Burma reeling with the return to authoritarian rule, the detention of ASSK and thousands of pro-democracy actors, and renewed brutal repression against protestors, widespread violence, and economic decline.</p> <p>Since the coup and subsequent crackdown, lawmakers elected in the November 2020 election and members of parliament ousted by the military have formed a shadow National Unity Government (NUG). Members of the NUG include representatives from the NLD, ethnic minority groups, civil society, and other minor parties. In May 2021, the NUG announced the formation of an an armed wing called the People's Defense Force, and in September announced the start of an insurgency against the military junta that has continued into 2022.</p><br>
 
 ## Geography
 
@@ -236,7 +236,7 @@ _women married by age 18_: 16%<br>
 _men married by age 18_: 5% (2016 est.)<br>
 
 **Education expenditures**<br>
-2% of GDP (2019)<br>
+2% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -565,50 +565,39 @@ _electrification - total population_: 51% (2019)<br>
 _electrification - urban areas_: 76% (2019)<br>
 _electrification - rural areas_: 39% (2019)<br>
 
-**Electricity - production**<br>
-17.32 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 7.247 million kW (2020 est.)<br>
+_Consumption_: 20,474,380,000 kWh (2019 est.)<br>
+_Exports_: 1.002 billion kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 3.405 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-14.93 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 52.6% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.1% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 47.3% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 1.468 million metric tons (2020 est.)<br>
+_Consumption_: 1.981 million metric tons (2020 est.)<br>
+_Exports_: 1,000 metric tons (2020 est.)<br>
+_Imports_: 514,000 metric tons (2020 est.)<br>
+_Proven reserves_: 6 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-5.205 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-39% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-61% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-11,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-1,824 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-139 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 7,800 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 146,200 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 4,700 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 139 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 13,330 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-123,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -616,20 +605,21 @@ _electrification - rural areas_: 39% (2019)<br>
 **Refined petroleum products - imports**<br>
 102,600 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-18.41 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 17,710,912,000 cubic meters (2019 est.)<br>
+_Consumption_: 3,612,431,000 cubic meters (2019 est.)<br>
+_Exports_: 14,188,161,000 cubic meters (2019 est.)<br>
+_Imports_: 475.156 million cubic meters (2020 est.)<br>
+_Proven reserves_: 637.128 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-4.502 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 31.848 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 3.881 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 20.832 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 7.134 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-14.07 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-637.1 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 10.679 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -659,7 +649,7 @@ _percent of population_: 35% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 688,185 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 1.3 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 ## Transportation
 

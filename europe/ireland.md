@@ -211,7 +211,12 @@ _female_: 19% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.4% of GDP (2018)<br>
+3.4% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
@@ -523,50 +528,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-28.53 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 11.43 million kW (2020 est.)<br>
+_Consumption_: 30.627 billion kWh (2020 est.)<br>
+_Exports_: 1.913 billion kWh (2020 est.)<br>
+_Imports_: 1.761 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 2.309 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-25.68 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 57.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.2% of total installed capacity (2020 est.)<br>
+_Wind_: 34.8% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 3.7% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 3.6% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-1.583 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 351,000 metric tons (2020 est.)<br>
+_Exports_: 132,000 metric tons (2020 est.)<br>
+_Imports_: 408,000 metric tons (2020 est.)<br>
+_Proven reserves_: 14 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-871 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-9.945 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-65% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-33% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-5,900 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-66,210 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 600 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 159,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 60,300 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 64,970 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-153,700 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 37,040 bbl/day (2017 est.)<br>
@@ -574,20 +568,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 126,600 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-3.511 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 2,652,180,000 cubic meters (2019 est.)<br>
+_Consumption_: 5,491,562,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 2,846,971,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 9.911 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-5.238 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 35.475 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 1.43 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 23.08 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 10.965 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-1.642 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-9.911 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 133.674 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -703,7 +698,7 @@ note - as of 2019, women made up about 7% of the military's full-time personnel<
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS) (2019)<br>
+Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
@@ -712,7 +707,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 39,278 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 40,678 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

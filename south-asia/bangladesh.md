@@ -229,7 +229,7 @@ _women married by age 15_: 15.5%<br>
 _women married by age 18_: 51.4% (2019 est.)<br>
 
 **Education expenditures**<br>
-1.3% of GDP (2019)<br>
+1.3% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -567,50 +567,39 @@ _electrification - total population_: 83% (2019)<br>
 _electrification - urban areas_: 93% (2019)<br>
 _electrification - rural areas_: 77% (2019)<br>
 
-**Electricity - production**<br>
-60.51 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 18.461 million kW (2020 est.)<br>
+_Consumption_: 76,849,877,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 6.786 billion kWh (2019 est.)<br>
+_Transmission/distribution losses_: 9.537 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-53.65 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 98.6% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.6% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0.8% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 1.016 million metric tons (2020 est.)<br>
+_Consumption_: 9.345 million metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 8.329 million metric tons (2020 est.)<br>
+_Proven reserves_: 293 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-11.9 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-97% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-3,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-21,860 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-28 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 13,500 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 122,500 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 21,600 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 28 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 26,280 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-106,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 901 bbl/day (2015 est.)<br>
@@ -618,20 +607,21 @@ _electrification - rural areas_: 77% (2019)<br>
 **Refined petroleum products - imports**<br>
 81,570 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-29.53 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 28,629,927,000 cubic meters (2019 est.)<br>
+_Consumption_: 31,268,968,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 2,639,041,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 126.293 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-29.53 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 96.18 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 16.538 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 18.535 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 61.107 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-185.8 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 9.917 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -752,7 +742,7 @@ the International Maritime Bureau reports the territorial waters of Bangladesh r
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bangladesh; al-Qa'ida; al-Qa'ida in the Indian Subcontinent<br>
+Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bangladesh (ISB); al-Qa'ida; al-Qa'ida in the Indian Subcontinent<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

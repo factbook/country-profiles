@@ -215,7 +215,7 @@ _female_: 23.2% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.8% of GDP (2017)<br>
+5.8% of GDP (2017 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -343,8 +343,8 @@ _election results_: Nikos ANASTASIADIS reelected president in second round; perc
 
 **Legislative branch**<br>
 _description_: area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms); area administered by Turkish Cypriots: unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50 seats; members directly elected to 5-year terms by proportional representation system using a&nbsp;hybrid d'Hondt method&nbsp;with voter preferences for individual candidates<br>
-_elections_: area under government control: last held on 30 May 2021 (next to be held in 2026); area administered by Turkish Cypriots: last held on 7 January 2018 (next to be held in 2023, unless early election called)<br>
-_election results_: area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DiPa 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; seats by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DiPa 4, Movement of Ecologists - Citizens' Cooperation 3; area administered by Turkish Cypriots: "Assembly of the Republic" - percent of vote by party - UBP 35.6%, CTP 20.9%, HP 17.1%, TDP 8.6%, DP 7.8%, YDP 7%, 3%; seats by party - UBP 21, CTP 12, HP 9, DP 3, TDP 3, YDP 2<br>
+_elections_: area under government control: last held on 30 May 2021 (next to be held in 2026); area administered by Turkish Cypriots: last held on 23 January 2022 (next to be held in 2027)<br>
+_election results_: area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DiPa 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; seats by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DiPa 4, Movement of Ecologists - Citizens' Cooperation 3; area administered by Turkish Cypriots: "Assembly of the Republic" - percent of vote by party - UBP 39.5%, CTP 32%, DP 7.4%, HP 6.7%, YDP 6.4%, other 8%; seats by party - UBP 24, CTP 18, DP 3, HP 3, YDP 2<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the "TRNC" is the "Supreme Court" (consists of 8 "judges," including the "court president")<br>
@@ -544,50 +544,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-4.618 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 1.881 million kW (2020 est.)<br>
+_Consumption_: 4.733 billion kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 184 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-4.355 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 86.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 6.9% of total installed capacity (2020 est.)<br>
+_Wind_: 5.1% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.3% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-1.77 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-85% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-15% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 54,400 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-49,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 500 bbl/day (2015 est.)<br>
@@ -595,20 +584,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 49,240 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 8.024 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 8.024 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-141.6 billion cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 133.92 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -669,7 +659,7 @@ _under 914 m_: 2 (2021)<br>
 9 (2021)<br>
 
 **Roadways**<br>
-_total_: 19,901 km (2016)<br>
+_total_: 12,901 km (2016)<br>
 _government control_: 12,901 km (2016) (includes 272 km of expressways)<br>
 _paved_: 8,631 km (2016)<br>
 _unpaved_: 4,270 km (2016)<br>
@@ -719,10 +709,10 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 12,492 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 12,782 (Ukraine) (as of 12 July 2022)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
-<strong>note:</strong> 39,022 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
+<strong>note:</strong> 40,472 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
 
 **Illicit drugs**<br>
 <p>vulnerable to money laundering from illegal drugs</p> <p> </p><br>

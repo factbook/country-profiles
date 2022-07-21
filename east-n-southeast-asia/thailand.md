@@ -231,7 +231,7 @@ _women married by age 18_: 20.2%<br>
 _men married by age 18_: 9.8% (2019 est.)<br>
 
 **Education expenditures**<br>
-3% of GDP (2019)<br>
+3% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -376,7 +376,7 @@ _judge selection and term of office_: Supreme Court judges selected by the Judic
 _subordinate courts_: courts of first instance and appeals courts within both the judicial and administrative systems; military courts<br>
 
 **Political parties and leaders**<br>
-Action Coalition of Thailand Party or ACT [ANEK Laothamatas]<br>Bhumjaithai Party or BJT [ANUTIN Charnvirakul]<br>Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [KANCHANA Sinlapa-acha]<br>New Economics Party or NEP [MINGKHWAN Sangsuwan]<br>Move Forward Party or MFP (formed in 2020 from the disbanded Future Forward Party, FPP) [PHITHA Limcharoenrat]<br>Palang Pracharat Party or PPP (a pro-military party formed in 2018 by members of the military junta’s cabinet) [PRAWIT Wongsuwan]<br>Phumchai Thai Party (Thai Pride Party) or PJT [ANUTHIN Chanwirakun]<br>Prachachat Party of PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DEM [JURIN Laksanawisit] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [CHONLANON Sikaew]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party) or TLP [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Forest Conservation Party or TFCP [DAMRONG Phidet]<br>Thai Liberal Party or TLP [SERIPISUT TEMIYAVET]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]<br>
+Action Coalition of Thailand Party or ACT [ANEK Laothamatas]<br>Bhumjaithai Party or BJT [ANUTIN Charnvirakul]<br>Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [KANCHANA Sinlapa-acha]<br>New Economics Party or NEP [MINGKHWAN Sangsuwan]<br>Move Forward Party or MFP (formed in 2020 from the disbanded Future Forward Party, FPP) [PHITHA Limcharoenrat]<br>Palang Pracharat Party or PPRP (a pro-military party formed in 2018 by members of the military junta’s cabinet) [PRAWIT Wongsuwan]<br>Phumchai Thai Party (Thai Pride Party) or PJT [ANUTHIN Chanwirakun]<br>Prachachat Party of PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DP [JURIN Laksanawisit] <br>Puea Chat Party (For Nation Party) or PCP [SARUNWUT Sarunket]<br>Puea Thai Party (For Thais Party) or PTP [CHONLANON Sikaew]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party) or TLP [SERIPHISUT Temiyawet]<br>Thai Civilized Party or TCL [MONGKOLKIT Suksintharanon]<br>Thai Forest Conservation Party or TFCP [DAMRONG Phidet]<br>Thai Liberal Party or TLP [SERIPISUT TEMIYAVET]<br>Thai Local Power Party or TLP [CHATCHAWAI Kong-udom]<br>Thai People Power Party or TLPT [NIKHOM Bunwiset]<br>Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]<br>
 note - as of 5 April 2018, 98 new parties applied to be registered with the Election Commission in accordance with the provisions of the new organic law on political parties<br>
 
 **International organization participation**<br>
@@ -565,50 +565,39 @@ baht per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-181.5 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 53.13 million kW (2020 est.)<br>
+_Consumption_: 190,569,262,000 kWh (2019 est.)<br>
+_Exports_: 2,617,583,000 kWh (2020 est.)<br>
+_Imports_: 29,550,571,000 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 13.286 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-187.7 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 83.3% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 2.8% of total installed capacity (2020 est.)<br>
+_Wind_: 1.7% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 2.6% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 9.6% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-2.267 billion kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 13.251 million metric tons (2020 est.)<br>
+_Consumption_: 35.761 million metric tons (2020 est.)<br>
+_Exports_: 63,000 metric tons (2020 est.)<br>
+_Imports_: 23.899 million metric tons (2020 est.)<br>
+_Proven reserves_: 1.063 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-19.83 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-44.89 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-76% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-8% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-16% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-228,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-790 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-875,400 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-349.4 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 438,200 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 1,284,800 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 28,600 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 979,800 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 252.8 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1.328 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-1.326 million bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 278,300 bbl/day (2015 est.)<br>
@@ -616,20 +605,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 134,200 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-38.59 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 38,420,517,000 cubic meters (2019 est.)<br>
+_Consumption_: 54,802,466,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 14,944,842,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 138.243 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-52.64 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 305.273 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 58.78 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 146.172 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 100.321 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-14.41 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-193.4 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 76.714 million Btu/person (2019 est.)<br>
 
 ## Communications
 

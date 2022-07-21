@@ -222,7 +222,12 @@ NA<br>
 _women married by age 18_: 0.1% (2020 est.)<br>
 
 **Education expenditures**<br>
-5.2% of GDP (2018)<br>
+5.2% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -542,50 +547,39 @@ British pounds (GBP) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-318.2 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 113.153 million kW (2020 est.)<br>
+_Consumption_: 289.688 billion kWh (2020 est.)<br>
+_Exports_: 4.481 billion kWh (2020 est.)<br>
+_Imports_: 22.391 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 27.746 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-309.2 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 37.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 15.2% of total installed capacity (2020 est.)<br>
+_Solar_: 4.3% of total installed capacity (2020 est.)<br>
+_Wind_: 25.2% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 2.6% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 15% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-2.153 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 2.892 million metric tons (2020 est.)<br>
+_Consumption_: 9.401 million metric tons (2020 est.)<br>
+_Exports_: 1.309 million metric tons (2020 est.)<br>
+_Imports_: 5.537 million metric tons (2020 est.)<br>
+_Proven reserves_: 26 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-19.7 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-97.06 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-50% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-9% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-39% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-1 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-710,600 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-907,100 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-2.069 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 890,400 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 1,578,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 818,200 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 891,700 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1.29 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-1.584 million bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 613,800 bbl/day (2017 est.)<br>
@@ -593,20 +587,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 907,500 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-42.11 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 32,482,541,000 cubic meters (2021 est.)<br>
+_Consumption_: 75,696,895,000 cubic meters (2021 est.)<br>
+_Exports_: 6,873,025,000 cubic meters (2021 est.)<br>
+_Imports_: 51,050,178,000 cubic meters (2021 est.)<br>
+_Proven reserves_: 180.661 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-79.17 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 398.084 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 23.5 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 216.237 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 158.346 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-11.27 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-47 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-176 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 119.894 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -725,8 +720,8 @@ slight variations by service, but generally 16-36 years of age for enlisted (wit
 note - as of 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 1,000 Brunei; approximately 400 Canada (BATUS); approximately 2,500 Cyprus (250 for UNFICYP); approximately 900 Estonia (NATO); approximately 1,200 Falkland Islands; approximately 200 Germany; 570 Gibraltar; approximately 1,400 Middle East (including Bahrain, Iraq, Kuwait, Oman, Saudi Arabia, UAE; coalition against ISIS; NATO); up to 350 Kenya (BATUK); approximately 350 Mali (EUTM, MINUSMA, and Operation Barkhane); 150 Poland (NATO) (2022)<br><br>note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including the UK, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
-note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s 2022 invasion of Ukraine, some NATO countries, including the UK, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
+approximately 1,000 Brunei; approximately 400 Canada (BATUS); approximately 2,500 Cyprus (250 for UNFICYP); approximately 900 Estonia (NATO); approximately 1,200 Falkland Islands; approximately 200 Germany; 570 Gibraltar; approximately 1,400 Middle East (including Bahrain, Iraq, Kuwait, Oman, Saudi Arabia, UAE; coalition against ISIS; NATO); up to 350 Kenya (BATUK); approximately 350 Mali (EUTM, MINUSMA, and Operation Barkhane); 150 Poland (NATO) (2022)<br>
+<strong>note:</strong> NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including the UK, have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 the UK is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; the UK is also a member of the Five Powers Defense Arrangements (FPDA), a series of mutual assistance agreements reached in 1971 embracing Australia, Malaysia, New Zealand, Singapore, and the UK; the FPDA commits the members to consult with one another in the event or threat of an armed attack on any of the members and to mutually decide what measures should be taken, jointly or separately; there is no specific obligation to intervene militarily <br><br>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for UK-French bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance<br><br>in 2014, the UK led the formation of the Joint Expeditionary Force (JEF), a pool of high-readiness military forces from Baltic and Scandinavian countries able to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict; its principal geographic area of interest is the High North, North Atlantic, and Baltic Sea regions, where the JEF can complement national capabilities or NATO’s deterrence posture, although it is designed to be flexible and prepared to respond to humanitarian crises further afield; the JEF consists of 10 countries (Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, the Netherlands, Norway, Sweden, and the UK) and was declared operational in 2018; most of the forces in the pool are British, and the UK provides the most rapidly deployable units as well as the command and control elements<br><br>the British Armed Forces were formed in 1707 as the armed forces of the Kingdom of Great Britain when England and Scotland merged under the terms of the Treaty of Union; while the origins of the armed forces of England and Scotland stretch back to the Middle Ages, the first standing armies for England and Scotland were organized in the 1600s while the navies were formed in the 1500s; the Royal Marines were established in 1755; the Royal Air Force was created in April 1918 by the merger of the British Army's Royal Flying Corps and the Admiralty's Royal Naval Air Service (2022)<br>
@@ -743,7 +738,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 91,000 (Ukraine) (as of 4 July 2022)<br>
+_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 95,400 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 3,968 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

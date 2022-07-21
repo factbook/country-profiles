@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Guinea's deep Muslim heritage arrived via the neighboring Almoravid Empire in the 11th century. Following Almoravid decline, Guinea existed on the fringe of several African kingdoms, all competing for regional dominance. In the 13th century, the Mali Empire took control of Guinea, encouraging its already growing Muslim faith. After the fall of the West African empires, various smaller kingdoms controlled Guinea. In the 18th century, Fulani Muslims established an Islamic state in central Guinea that represents one of the earliest examples of a written constitution and alternating leadership. While European traders first arrived in the 16th century, it was the French who secured colonial rule in the 19th century.</p> <p>In 1958, Guinea achieved independence from France. Sekou TOURE became Guinea’s first post-independence president; he established a dictatorial regime and ruled until his death in 1984, after which General Lansana CONTE staged a coup and seized the government. He too established an authoritarian regime and manipulated presidential elections until his death in December 2008, when Captain Moussa Dadis CAMARA led a military coup, seized power, and suspended the constitution. In September 2009, presidential guards opened fire on an opposition rally, killing more than 150 people in Conakry, the capital. In early December 2009, CAMARA was wounded in an assassination attempt and exiled to Burkina Faso. In 2010 and 2013 respectively, the country held its first free and fair presidential and legislative elections. Alpha CONDE won the 2010 and 2015 presidential elections. CONDE's first cabinet was the first all-civilian government in Guinean history. In March 2020, Guinea passed a new constitution in a national referendum that changed presidential term limit rules. CONDE argued that, given this change, he was allowed to run for a third term, which he then won in October 2020. On 5 September 2021, Col Mamady DOUMBOUYA led special forces troops in a successful military coup, ousting and detaining CONDE and establishing the National Committee for Reconciliation and Development (CNRD). DOUMBOUYA and the CNRD suspended the constitution and dissolved the government and the legislature. DOUMBOUYA was sworn in as transition president on 1 October 2021, and appointed Mohamed BEAVOGUI as transition prime minister a week later. BEAVOGUI subsequently formed a largely technocratic cabinet. The National Transition Council (CNT), which acts as the legislative body for the transition, was formed on January 22, 2022. The 81-member CNT is led by Dr. Dansa KOUROUMA and consists of appointed members representing a broad swath of Guinean society.</p> <p> </p> <p><br><br></p><br>
+<p>Guinea's deep Muslim heritage arrived via the neighboring Almoravid Empire in the 11th century. Following Almoravid decline, Guinea existed on the fringe of several African kingdoms, all competing for regional dominance. In the 13th century, the Mali Empire took control of Guinea, encouraging its already growing Muslim faith. After the fall of the West African empires, various smaller kingdoms controlled Guinea. In the 18th century, Fulani Muslims established an Islamic state in central Guinea that represents one of the earliest examples of a written constitution and alternating leadership. While European traders first arrived in the 16th century, it was the French who secured colonial rule in the 19th century.</p> <p>In 1958, Guinea achieved independence from France. Sekou TOURE became Guinea’s first post-independence president; he established a dictatorial regime and ruled until his death in 1984, after which General Lansana CONTE staged a coup and seized the government. He too established an authoritarian regime and manipulated presidential elections until his death in December 2008, when Captain Moussa Dadis CAMARA led a military coup, seized power, and suspended the constitution. In September 2009, presidential guards opened fire on an opposition rally, killing more than 150 people in Conakry, the capital. In early December 2009, CAMARA was wounded in an assassination attempt and exiled to Burkina Faso. In 2010 and 2013 respectively, the country held its first free and fair presidential and legislative elections. Alpha CONDE won the 2010 and 2015 presidential elections. CONDE's first cabinet was the first all-civilian government in Guinean history. In March 2020, Guinea passed a new constitution in a national referendum that changed presidential term limit rules. CONDE argued that, given this change, he was allowed to run for a third term, which he then won in October 2020. On 5 September 2021, Col Mamady DOUMBOUYA led special forces troops in a successful military coup, ousting and detaining CONDE and establishing the National Committee for Reconciliation and Development (CNRD). DOUMBOUYA and the CNRD suspended the constitution and dissolved the government and the legislature. DOUMBOUYA was sworn in as transition president on 1 October 2021, and appointed Mohamed BEAVOGUI as transition prime minister a week later. BEAVOGUI subsequently formed a largely technocratic cabinet. The National Transition Council (CNT), which acts as the legislative body for the transition, was formed on 22 January 2022. The 81-member CNT is led by Dr. Dansa KOUROUMA and consists of appointed members representing a broad swath of Guinean society.</p> <p> </p> <p><br><br></p><br>
 
 ## Geography
 
@@ -229,7 +229,7 @@ _women married by age 18_: 46.5%<br>
 _men married by age 18_: 1.9% (2018 est.)<br>
 
 **Education expenditures**<br>
-2.2% of GDP (2020)<br>
+2.2% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -562,50 +562,39 @@ _electrification - total population_: 46% (2019)<br>
 _electrification - urban areas_: 84% (2019)<br>
 _electrification - rural areas_: 24% (2019)<br>
 
-**Electricity - production**<br>
-598 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 992,000 kW (2020 est.)<br>
+_Consumption_: 1.781 billion kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 280 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-556.1 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 22.2% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.7% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 77.1% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-550,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-33% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-67% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 19,800 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-19,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -613,20 +602,21 @@ _electrification - rural areas_: 24% (2019)<br>
 **Refined petroleum products - imports**<br>
 18,460 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 2.981 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 2.981 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 4.133 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -656,7 +646,7 @@ _percent of population_: 26% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.01 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.01 (2020 est.)<br>
 
 ## Transportation
 

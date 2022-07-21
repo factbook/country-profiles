@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Algeria has known many empires and dynasties starting with the ancient Numidians (3rd century B.C.), Phoenicians, Carthaginians, Romans, Vandals, Byzantines, over a dozen different Arab and Berber dynasties, Spaniards, and Ottoman Turks. It was under the latter that the Barbary pirates operated from North Africa and preyed on shipping beginning in roughly 1500, peaking in the early to mid-17th century, until finally subdued by the French capture of Algiers in 1830. The French southward conquest of the entirety of Algeria proceeded throughout the 19th century and was marked by many atrocities. The country was heavily colonized by the French in the late 19th and early 20th centuries. A bloody eight-year struggle culminated in Algerian independence in 1962. <br><br>Algeria's primary political party, the National Liberation Front (FLN), was established in 1954 as part of the struggle for independence and has since largely dominated politics, though is falling out of favor with the youth. The Government of Algeria in 1988 instituted a multi-party system in response to public unrest, but the surprising first round success of the Islamic Salvation Front (FIS) in the December 1991 legislative elections led the Algerian army to intervene and postpone the second round of elections to prevent what the secular elite feared would be an extremist-led government from assuming power. The army began a crackdown on the FIS that spurred FIS supporters to begin attacking government targets. Fighting escalated into an insurgency, which saw intense violence from 1992-98, resulting in over 100,000 deaths – many attributed to indiscriminate massacres of villagers by extremists. The government gained the upper hand by the late-1990s, and FIS’s armed wing, the Islamic Salvation Army, disbanded in January 2000. FIS membership is illegal.</p> <p>Former president Abdelaziz BOUTEFLIKA, with the backing of the military, won the presidency in 1999 in an election that was boycotted by several candidates protesting alleged fraud, and won subsequent elections in 2004, 2009, and 2014. Protests broke out across the country in late February 2019 against President BOUTEFLIKA’s decision to seek a fifth term. BOUTEFLIKA resigned in April 2019, and in December 2019, Algerians elected former Prime Minister Abdelmadjid TEBBOUNE as the country's new president. A longtime FLN member, TEBBOUNE ran for president as an independent. In 2020, Algeria held a constitutional referendum, which President TEBBOUNE enacted in January 2021. Subsequent reforms to the national electoral law introduced open list voting to curb corruption. The new law also eliminated gender quotas in Parliament, and the June 2021 legislative elections saw female representation plummet. Local elections took place in November 2021. The referendum, parliamentary elections, and local elections saw record low voter turnout. Since 2014, Algeria’s reliance on hydrocarbon revenues to fund the government and finance the large subsidies for the population has fallen under stress because of declining oil prices.</p><br>
+<p>Algeria has known many empires and dynasties starting with the ancient Numidians (3rd century B.C.), Phoenicians, Carthaginians, Romans, Vandals, Byzantines, over a dozen different Arab and Berber dynasties, Spaniards, and Ottoman Turks. It was under the latter that the Barbary pirates operated from North Africa and preyed on shipping beginning in roughly 1500, peaking in the early to mid-17th century, until finally subdued by the French capture of Algiers in 1830. The French southward conquest of the entirety of Algeria proceeded throughout the 19th century and was marked by many atrocities. The country was heavily colonized by the French in the late 19th and early 20th centuries. A bloody eight-year struggle culminated in Algerian independence in 1962. <br><br>Algeria's primary political party, the National Liberation Front (FLN), was established in 1954 as part of the struggle for independence and has since largely dominated politics, though it is falling out of favor with the youth. The Government of Algeria in 1988 instituted a multi-party system in response to public unrest, but the surprising first round success of the Islamic Salvation Front (FIS) in the December 1991 legislative elections led the Algerian army to intervene and postpone the second round of elections to prevent what the secular elite feared would be an extremist-led government from assuming power. The army began a crackdown on the FIS that spurred FIS supporters to begin attacking government targets. Fighting escalated into an insurgency, which saw intense violence from 1992-98, resulting in over 100,000 deaths – many attributed to indiscriminate massacres of villagers by extremists. The government gained the upper hand by the late-1990s, and FIS’s armed wing, the Islamic Salvation Army, disbanded in January 2000. FIS membership is illegal.</p> <p>Former president Abdelaziz BOUTEFLIKA, with the backing of the military, won the presidency in 1999 in an election that was boycotted by several candidates protesting alleged fraud, and won subsequent elections in 2004, 2009, and 2014. Protests broke out across the country in late February 2019 against President BOUTEFLIKA’s decision to seek a fifth term. BOUTEFLIKA resigned in April 2019, and in December 2019, Algerians elected former Prime Minister Abdelmadjid TEBBOUNE as the country's new president. A longtime FLN member, TEBBOUNE ran for president as an independent. In 2020, Algeria held a constitutional referendum, which President TEBBOUNE enacted in January 2021. Subsequent reforms to the national electoral law introduced open list voting to curb corruption. The new law also eliminated gender quotas in Parliament, and the June 2021 legislative elections saw female representation plummet. Local elections took place in November 2021. The referendum, parliamentary elections, and local elections saw record low voter turnout. Since 2014, Algeria’s reliance on hydrocarbon revenues to fund the government and finance the large subsidies for the population has fallen under stress because of declining oil prices.</p><br>
 
 ## Geography
 
@@ -222,7 +222,7 @@ _women married by age 15_: 0%<br>
 _women married by age 18_: 3.8% (2019 est.)<br>
 
 **Education expenditures**<br>
-6.1% of GDP (2019)<br>
+6.1% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -539,50 +539,39 @@ _electrification - total population_: 99.4% (2019)<br>
 _electrification - urban areas_: 99.6% (2019)<br>
 _electrification - rural areas_: 97% (2019)<br>
 
-**Electricity - production**<br>
-66.89 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 21.694 million kW (2020 est.)<br>
+_Consumption_: 66.646 billion kWh (2019 est.)<br>
+_Exports_: 673 million kWh (2019 est.)<br>
+_Imports_: 531 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 9.897 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-55.96 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 98.9% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.9% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0.1% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-641 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 85,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 85,000 metric tons (2020 est.)<br>
+_Proven reserves_: 59 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-257 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-19.27 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-96% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-1.259 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-756,400 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-5,340 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-12.2 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 1,414,800 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 450,500 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 633,500 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 4,100 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 12.2 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 627,900 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-405,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 578,800 bbl/day (2015 est.)<br>
@@ -590,20 +579,21 @@ _electrification - rural areas_: 97% (2019)<br>
 **Refined petroleum products - imports**<br>
 82,930 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-93.5 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 87,853,976,000 cubic meters (2019 est.)<br>
+_Consumption_: 46,945,035,000 cubic meters (2019 est.)<br>
+_Exports_: 42,667,386,000 cubic meters (2019 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 4,503,900,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-41.28 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 151.633 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 352,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 57.867 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 93.414 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-53.88 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-4.504 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 61.433 million Btu/person (2019 est.)<br>
 
 ## Communications
 

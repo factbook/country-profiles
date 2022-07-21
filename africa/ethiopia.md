@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Unique among African countries, the ancient Ethiopian monarchy maintained its freedom from colonial rule with the exception of a short-lived Italian occupation from 1936-41. In 1974, a military junta, the Derg, deposed Emperor Haile SELASSIE (who had ruled since 1930) and established a socialist state. Torn by bloody coups, uprisings, wide-scale drought, and massive refugee problems, the regime was finally toppled in 1991 by a coalition of rebel forces, the Ethiopian People's Revolutionary Democratic Front (EPRDF). A constitution was adopted in 1994, and Ethiopia's first multiparty elections were held in 1995.</p> A border war with Eritrea in the late 1990s ended with a peace treaty in December 2000. In November 2007, the Eritrea-Ethiopia Border Commission (EEBC) issued specific coordinates as virtually demarcating the border and pronounced its work finished. Alleging that the EEBC acted beyond its mandate in issuing the coordinates, Ethiopia did not accept them and maintained troops in previously contested areas pronounced by the EEBC as belonging to Eritrea. This intransigence resulted in years of heightened tension between the two countries. In August 2012, longtime leader Prime Minister MELES Zenawi died in office and was replaced by his Deputy Prime Minister HAILEMARIAM Desalegn, marking the first peaceful transition of power in decades. Following a wave of popular dissent and anti-government protest that began in 2015, HAILEMARIAM resigned in February 2018 and ABIY Ahmed Ali took office in April 2018 as Ethiopia's first ethnic Oromo prime minister. In June 2018, ABIY announced Ethiopia would accept the border ruling of 2000, prompting rapprochement between Ethiopia and Eritrea that was marked with a peace agreement in July 2018 and a reopening of the border in September 2018. In November 2019, Ethiopia's nearly 30-year ethnic-based ruling coalition - the EPRDF - merged into a single unity party called the Prosperity Party, however, one of the four constituent parties (the Tigray Peoples Liberation Front or TPLF) refused to join.<br><br>In November 2020, a military conflict erupted between forces aligned with the Tigrayan People’s Liberation Front (TPLF) and Ethiopia’s national military, the Ethiopian National Defense Force. The conflict, which has continued throughout 2021, has exacerbated ethnic violence and has largely centered in Tigray, Amhara, and Afar regional states.<br>
+<p>Unique among African countries, the ancient Ethiopian monarchy maintained its freedom from colonial rule with the exception of a short-lived Italian occupation from 1936 to 1941. In 1974, a military junta, the Derg, deposed Emperor Haile SELASSIE (who had ruled since 1930) and established a socialist state. Torn by bloody coups, uprisings, wide-scale drought, and massive refugee problems, the regime was finally toppled in 1991 by a coalition of rebel forces, the Ethiopian People's Revolutionary Democratic Front (EPRDF). A constitution was adopted in 1994, and Ethiopia's first multiparty elections were held in 1995.</p> A border war with Eritrea in the late 1990s ended with a peace treaty in December 2000. In November 2007, the Eritrea-Ethiopia Border Commission (EEBC) issued specific coordinates as virtually demarcating the border and pronounced its work finished. Alleging that the EEBC acted beyond its mandate in issuing the coordinates, Ethiopia did not accept them and maintained troops in previously contested areas pronounced by the EEBC as belonging to Eritrea. This intransigence resulted in years of heightened tension between the two countries. In August 2012, longtime leader Prime Minister MELES Zenawi died in office and was replaced by his Deputy Prime Minister HAILEMARIAM Desalegn, marking the first peaceful transition of power in decades. Following a wave of popular dissent and anti-government protest that began in 2015, HAILEMARIAM resigned in February 2018 and ABIY Ahmed Ali took office in April 2018 as Ethiopia's first ethnic Oromo prime minister. In June 2018, ABIY announced Ethiopia would accept the border ruling of 2000, prompting rapprochement between Ethiopia and Eritrea that was marked with a peace agreement in July 2018 and a reopening of the border in September 2018. In November 2019, Ethiopia's nearly 30-year ethnic-based ruling coalition - the EPRDF - merged into a single unity party called the Prosperity Party, however, one of the four constituent parties (the Tigray Peoples Liberation Front or TPLF) refused to join.<br><br>In November 2020, a military conflict erupted between forces aligned with the Tigrayan People’s Liberation Front (TPLF) and Ethiopia’s national military, the Ethiopian National Defense Force. The conflict, which has continued throughout 2021, has exacerbated ethnic violence and has largely centered in Tigray, Amhara, and Afar regional states.<br>
 
 ## Geography
 
@@ -242,7 +242,7 @@ _women married by age 18_: 40.3%<br>
 _men married by age 18_: 5% (2016 est.)<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2018)<br>
+5.1% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -380,8 +380,8 @@ _residency requirement for naturalization_: 4 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President SAHLE-WORK Zewde (since 25 October 2018) (2018)<br>
-_head of government_: Prime Minister ABIY Ahmed Ali (since April 2018, began a new five-year term on 4 October 2021); Deputy Prime Minister DEMEKE Mekonnen Hassen (since 29 November 2012) (2021)<br>
+_chief of state_: President SAHLE-WORK Zewde (since 25 October 2018)<br>
+_head of government_: Prime Minister ABIY Ahmed Ali (since April 2018, began a new five-year term on 4 October 2021); Deputy Prime Minister DEMEKE Mekonnen Hassen (since 29 November 2012)<br>
 _cabinet_: Council of Ministers selected by the prime minister and approved by the House of People's Representatives<br>
 _elections/appointments_: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); election held on 21 June 2021 and 30 September 2021 (the scheduled 29 August 2020 election was postponed by Prime Minister ABIY due to the COVID-19 pandemic); prime minister designated by the majority party following legislative elections<br>
 _election results_: SAHLE-WORK Zewde elected president during joint session of Parliament, vote - 659 (unanimous); ABIY Ahmed confirmed Prime Minister by House of Peoples' Representatives (4 October 2021)<br>
@@ -587,50 +587,39 @@ _electrification - total population_: 47% (2019)<br>
 _electrification - urban areas_: 96% (2019)<br>
 _electrification - rural areas_: 34% (2019)<br>
 
-**Electricity - production**<br>
-11.15 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 4.856 million kW (2020 est.)<br>
+_Consumption_: 9,778,100,000 kWh (2019 est.)<br>
+_Exports_: 1 billion kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 3.374 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-9.062 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 0% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.1% of total installed capacity (2020 est.)<br>
+_Wind_: 3.8% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 95.8% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-166 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 689,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 528,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-2.784 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-3% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-86% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-11% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-428,000 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 107,900 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 400,000 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-74,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -638,20 +627,21 @@ _electrification - rural areas_: 34% (2019)<br>
 **Refined petroleum products - imports**<br>
 69,970 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 24.919 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 16.798 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 1.474 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 15.324 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-24.92 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 3.219 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -681,7 +671,7 @@ _percent of population_: 24% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 212,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.18 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.2 (2020 est.)<br>
 
 ## Transportation
 

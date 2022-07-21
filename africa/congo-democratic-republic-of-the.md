@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Kingdom of Kongo ruled the area around the mouth of the Congo River from the 14th to 19th centuries. To the center and east, the Kingdoms of Luba and Lunda ruled from the 16th and 17th centuries to the 19th century. in the 1870s, European exploration of the Congo Basin, sponsored by King Leopold II of Belgium, eventually allowed the ruler to acquire rights to the Congo territory and to make it his private property under the name of the Congo Free State. During the Free State, the king's colonial military forced the local population to produce rubber. From 1885 to 1908, millions of Congolese people died as a result of disease and exploitation. International condemnation finally forced Leopold to cede the land to Belgium, creating the Belgian Congo.<br><br>The Republic of the Congo gained its independence from Belgium in 1960, but its early years were marred by political and social instability. Col. Joseph MOBUTU seized power and declared himself president in a November 1965 coup. He subsequently changed his name - to MOBUTU Sese Seko - as well as that of the country - to Zaire. MOBUTU retained his position for 32 years through several sham elections, as well as through brutal force. Ethnic strife and civil war, touched off by a massive inflow of refugees in 1994 from conflict in Rwanda and Burundi, led in May 1997 to the toppling of the MOBUTU regime by a rebellion backed by Rwanda and Uganda and fronted by Laurent KABILA. KABILA renamed the country the Democratic Republic of the Congo (DRC), but in August 1998 his regime was itself challenged by a second insurrection again backed by Rwanda and Uganda. Troops from Angola, Chad, Namibia, Sudan, and Zimbabwe intervened to support KABILA's regime. In January 2001, KABILA was assassinated and his son, Joseph KABILA, was named head of state. In October 2002, the new president was successful in negotiating the withdrawal of Rwandan forces occupying the eastern DRC; two months later, the Pretoria Accord was signed by all remaining warring parties to end the fighting and establish a government of national unity. Presidential, National Assembly, and provincial legislatures took place in 2006, with Joseph KABILA elected to office.</p> <p>National elections were held in November 2011 and disputed results allowed Joseph KABILA to be reelected to the presidency. While the DRC constitution barred President KABILA from running for a third term, the DRC Government delayed national elections originally slated for November 2016, to 30 December 2018. This failure to hold elections as scheduled fueled significant civil and political unrest, with sporadic street protests by KABILA’s opponents and exacerbation of tensions in the tumultuous eastern DRC regions. Presidential, legislative, and provincial elections were held in late December 2018 and early 2019 across most of the country. The DRC Government canceled presidential elections in the cities of Beni and Butembo (citing concerns over an ongoing Ebola outbreak in the region) as well as Yumbi (which had recently experienced heavy violence).</p> <p>Opposition candidate Felix TSHISEKEDI was announced the election winner on 10 January 2019 and inaugurated two weeks later. This was the first transfer of power to an opposition candidate without significant violence or a coup since the DRC's independence. </p> <p>The DRC, particularly in the East, continues to experience violence perpetrated by more than 100 armed groups active in the region, including the Allied Democratic Forces (ADF), the Democratic Forces for the Liberation of Rwanda (FDLR), and assorted Mai Mai militias. The UN Organization Stabilization Mission in the DRC (MONUSCO) has operated in the region since 1999 and is the largest and most expensive UN peacekeeping mission in the world.</p> <p> </p><br>
+<p>The Kingdom of Kongo ruled the area around the mouth of the Congo River from the 14th to 19th centuries. To the center and east, the Kingdoms of Luba and Lunda ruled from the 16th and 17th centuries to the 19th century. In the 1870s, European exploration of the Congo Basin, sponsored by King LEOPOLD II of Belgium, eventually allowed the ruler to acquire rights to the Congo territory and to make it his private property under the name of the Congo Free State. During the Free State, the king's colonial military forced the local population to produce rubber. From 1885 to 1908, millions of Congolese people died as a result of disease and exploitation. International condemnation finally forced LEOPOLD to cede the land to Belgium, creating the Belgian Congo.<br><br>The Republic of the Congo gained its independence from Belgium in 1960, but its early years were marred by political and social instability. Col. Joseph MOBUTU seized power and declared himself president in a November 1965 coup. He subsequently changed his name - to MOBUTU Sese Seko - as well as that of the country - to Zaire. MOBUTU retained his position for 32 years through several sham elections, as well as through brutal force. Ethnic strife and civil war, touched off by a massive inflow of refugees in 1994 from conflict in Rwanda and Burundi, led in May 1997 to the toppling of the MOBUTU regime by a rebellion backed by Rwanda and Uganda and fronted by Laurent KABILA. KABILA renamed the country the Democratic Republic of the Congo (DRC), but in August 1998 his regime was itself challenged by a second insurrection again backed by Rwanda and Uganda. Troops from Angola, Chad, Namibia, Sudan, and Zimbabwe intervened to support KABILA's regime. In January 2001, KABILA was assassinated and his son, Joseph KABILA, was named head of state. In October 2002, the new president was successful in negotiating the withdrawal of Rwandan forces occupying the eastern DRC; two months later, the Pretoria Accord was signed by all remaining warring parties to end the fighting and establish a government of national unity. Presidential, National Assembly, and provincial elections took place in 2006, with Joseph KABILA elected to office.</p> <p>National elections were held in November 2011 and disputed results allowed Joseph KABILA to be reelected to the presidency. While the DRC constitution barred President KABILA from running for a third term, the DRC Government delayed national elections originally slated for November 2016, to 30 December 2018. This failure to hold elections as scheduled fueled significant civil and political unrest, with sporadic street protests by KABILA’s opponents and exacerbation of tensions in the tumultuous eastern DRC regions. Presidential, legislative, and provincial elections were held in late December 2018 and early 2019 across most of the country. The DRC Government canceled presidential elections in the cities of Beni and Butembo (citing concerns over an ongoing Ebola outbreak in the region) as well as Yumbi (which had recently experienced heavy violence).</p> <p>Opposition candidate Felix TSHISEKEDI was announced the election winner on 10 January 2019 and inaugurated two weeks later. This was the first transfer of power to an opposition candidate without significant violence or a coup since the DRC's independence. </p> <p>The DRC, particularly in the East, continues to experience violence perpetrated by more than 100 armed groups active in the region, including the Allied Democratic Forces, the Democratic Forces for the Liberation of Rwanda, and assorted Mai Mai militias. The UN Organization Stabilization Mission in the DRC (MONUSCO) has operated in the region since 1999 and is the largest and most expensive UN peacekeeping mission in the world.</p> <p> </p><br>
 
 ## Geography
 
@@ -237,7 +237,7 @@ _women married by age 18_: 0.1%<br>
 _men married by age 18_: 0% (2017 est.)<br>
 
 **Education expenditures**<br>
-1.5% of GDP (2017)<br>
+1.5% of GDP (2017 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write French, Lingala, Kingwana, or Tshiluba<br>
@@ -576,50 +576,39 @@ _electrification - total population_: 9% (2019)<br>
 _electrification - urban areas_: 19% (2019)<br>
 _electrification - rural areas_: 0.4% (2019)<br>
 
-**Electricity - production**<br>
-9.046 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 2.919 million kW (2020 est.)<br>
+_Consumption_: 7,181,700,000 kWh (2019 est.)<br>
+_Exports_: 248 million kWh (2019 est.)<br>
+_Imports_: 385 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 2.142 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-7.43 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 0.1% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.1% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 99.6% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-422 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 10,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 10,000 metric tons (2020 est.)<br>
+_Proven reserves_: 88 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-20 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-2.587 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-2% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-98% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-17,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-20,000 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-180 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 22,000 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 17,900 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 21,300 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 180 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-21,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -627,20 +616,21 @@ _electrification - rural areas_: 0.4% (2019)<br>
 **Refined petroleum products - imports**<br>
 21,140 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 368,000 cubic meters (2019 est.)<br>
+_Consumption_: 368,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 991 million cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 2.653 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 44,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 2.608 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 1,000 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-991.1 million cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 1.371 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -666,7 +656,7 @@ _percent of population_: 14% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 31,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.03 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.03 (2020 est.)<br>
 
 ## Transportation
 
@@ -705,7 +695,7 @@ _under 914 m_: 65 (2021)<br>
 **Railways**<br>
 _total_: 4,007 km (2014)<br>
 _narrow gauge_: 3,882 km (2014) 1.067-m gauge (858 km electrified)<br>
-125 1.000-m gauge<br>
+125 1.000-mm gauge<br>
 
 **Roadways**<br>
 _total_: 152,373 km (2015)<br>
@@ -762,7 +752,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers<br><br><em>Democratic Republic of Congo(DRC)-Republic of the Congo: </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Democratic Republic of Congo(DRC)-Uganda:</em> Uganda rejects the DRC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River<br><br><em>Democratic Republic of Congo(DRC)-Zambia: </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto<br><br><em>Democratic Republic of Congo(DRC)-Angola: </em>DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 210,094 (Rwanda), 209,495 (Central African Republic), 56,303 (South Sudan) (refugees and asylum seekers), 41,286 (Burundi) (2022)<br>
+_refugees (country of origin)_: 210,067 (Rwanda), 207,118 (Central African Republic), 56,303 (South Sudan) (refugees and asylum seekers), 41,187 (Burundi) (2022)<br>
 _IDPs_: 5.61 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2021)<br>
 
 **Trafficking in persons**<br>

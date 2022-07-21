@@ -202,6 +202,11 @@ NA<br>
 **Education expenditures**<br>
 NA<br>
 
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
+
 **Unemployment, youth ages 15-24**<br>
 _total_: 20.6%<br>
 _male_: 9.8%<br>
@@ -318,7 +323,12 @@ there are no political parties but members of parliament usually align themselve
 ACP, ADB, AOSIS, C, FAO, IBRD, IDA, IFAD, IFRCS (observer), ILO, IMF, IMO, IOC, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; the Tuvalu Permanent Mission to the UN serves as the Embassy; it is headed by Samuelu LALONIU (since 21 July 2017); address: 685 Third Avenue, Suite 1104, New York, NY 10017; telephone: [1] (212) 490-0534; FAX: [1] (212) 808-4975; email: tuvalumission.un@gmail.com<br>
+_chief of mission_: Ambassador Samuelu LALONIU (since 21 July 2017)<br>note - also Permanent Representative to UN<br>
+_telephone_: [1] (212) 490-0534<br>
+_FAX_: [1] (212) 808-4975<br>
+_email address and website_: email - tuvalumission.un@gmail.com<br>web address - https://www.un.int/tuvalu/about<br>
+_embassy_: 685 Third Avenue, Suite 1104, New York, NY 10017<br>
+note - the Tuvalu Permanent Mission to the UN serves as the Embassy<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Tuvalu; the US Ambassador to Fiji is accredited to Tuvalu<br>
@@ -463,38 +473,11 @@ Tuvaluan dollars or Australian dollars (AUD) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-11.8 million kWh (2011 est.)<br>
-
-**Electricity - exports**<br>
-0 kWh (2014 est.)<br>
-
-**Electricity - imports**<br>
-0 kWh (2014 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-5,100 kW (2011 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-96% of total installed capacity (2015 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2014)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2014)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2014 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2014 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2014 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (2014 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2014 est.)<br>
@@ -502,17 +485,20 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - exports**<br>
 0 bbl/day<br>
 
-**Natural gas - production**<br>
-0 cu m (2014 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2014)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2014 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 
 ## Communications
 

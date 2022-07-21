@@ -145,6 +145,9 @@ _unimproved: total_: total: NA<br>
 **Current Health Expenditure**<br>
 NA<br>
 
+**Physicians density**<br>
+NA<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -172,6 +175,11 @@ NA<br>
 
 **Education expenditures**<br>
 NA<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 ## Environment
 
@@ -347,9 +355,6 @@ _percent of population_: 100% (2018 est.)<br>
 satellite-based local phone service and broadband Internet connections available in all homes<br>
 
 ## Transportation
-
-**Roadways**<br>
-_total_: 0 km<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Adamstown (on Bounty Bay)<br>

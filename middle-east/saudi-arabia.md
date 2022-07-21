@@ -538,50 +538,39 @@ Saudi riyals (SAR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-324.1 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 76.785 million kW (2020 est.)<br>
+_Consumption_: 331,381,500,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 31.055 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-296.2 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 99.9% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.2% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 73,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 73,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-82.94 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-100% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-10.425 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-7.341 million bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-266.2 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 10,815,700 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 3,182,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 7,340,800 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 258.6 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 2.476 million bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-3.287 million bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 1.784 million bbl/day (2015 est.)<br>
@@ -589,20 +578,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 609,600 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-109.3 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 113,776,648,000 cubic meters (2020 est.)<br>
+_Consumption_: 113,776,648,000 cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 9,422,812,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-109.3 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 579.925 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 300,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 358.414 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 221.211 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-8.619 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 296.949 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -713,7 +703,7 @@ the inventory of the Saudi military forces, including the SANG, includes a mix o
 17-40 for men; no conscription; as of 2021, women (aged 18-40) were allowed to serve in the Army, Air Defense, Navy, Strategic Missile Force, medical services, and internal security forces up to the rank of non-commissioned officer (2021)<br>
 
 **Military deployments**<br>
-est. 2,500-5,000 Yemen (varies depending on operations) (2022)<br>
+estimated 2,500-5,000 Yemen (varies depending on operations) (2022)<br>
 
 **Military - note**<br>
 <p>in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in support of the Republic of Yemen Government against the separatist Huthis; as of 2022, the coalition (consisting largely of Saudi forces) and the Huthis continued to engage in fighting, mostly with air and missile forces, although  ground fighting was also reportedly taking place over the key province of Marib; the Saudis have conducted numerous air strikes in northern Yemen, while the Huthis have launched attacks into Saudi territory with ballistic missiles and unmanned aerial vehicles armed with explosives; the Saudi-led coalition controlled the country’s airspace and the port of Hodeida; Saudi Arabia also has raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border, especially the areas bordering the governorates of Saada and Al-Jawf</p><br>

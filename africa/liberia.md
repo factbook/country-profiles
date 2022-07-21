@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>With 28 ethnic groups and languages, Liberia is one of the most ethnically diverse countries in the world. For hundreds of years, the Mali and Songhai Empires claimed most of Liberia. Beginning in the 15th century, European traders began establishing outposts along the Liberian coast. Unlike its neighbors, however, Liberia did not fall under European colonial rule. In the early 19th century, the United States began sending freed enslaved people and other people of color to Liberia to establish settlements. In 1847, these settlers declared independence from the United States, writing their own constitution and establishing Africa’s first republic.</p> <p>Early in Liberia’s history, tensions arose between the Americo-Liberian settlers and the indigenous population. In 1980, Samuel DOE, who was from the indigenous population, led a military coup and ushered in a decade of authoritarian rule. In December 1989, Charles TAYLOR launched a rebellion against DOE's regime that led to a prolonged civil war in which DOE was killed. A period of relative peace in 1997 permitted an election that brought TAYLOR to power. In 2000, fighting resumed. An August 2003 peace agreement ended the war and prompted President TAYLOR’s resignation. TAYLOR was later convicted by the UN-backed Special Court for Sierra Leone in The Hague for his involvement in Sierra Leone's civil war. In late 2005, President Ellen JOHNSON SIRLEAF became president after two years of transitional governments; she was the first female head of state in Africa. In 2011, JOHNSON SIRLEAF won reelection but struggled to rebuild Liberia's economy, particularly following the 2014-15 Ebola epidemic, and to reconcile a nation still recovering from 14 years of fighting. In 2017, former soccer star George WEAH won the presidential runoff election, marking the first successful transfer of power from one democratically elected government to another since the end of Liberia’s civil wars. Like his predecessor, WEAH has struggled to improve the country’s economy. The next presidential election is scheduled for 2023.</p> <p> </p><br>
+<p>With 28 ethnic groups and languages, Liberia is one of the most ethnically diverse countries in the world. For hundreds of years, the Mali and Songhai Empires claimed most of Liberia. Beginning in the 15th century, European traders began establishing outposts along the Liberian coast. Unlike its neighbors, however, Liberia did not fall under European colonial rule. In the early 19th century, the US began sending freed enslaved people and other people of color to Liberia to establish settlements. In 1847, these settlers declared independence from the US, writing their own constitution and establishing Africa’s first republic.</p> <p>Early in Liberia’s history, tensions arose between the Americo-Liberian settlers and the indigenous population. In 1980, Samuel DOE, who was from the indigenous population, led a military coup and ushered in a decade of authoritarian rule. In December 1989, Charles TAYLOR launched a rebellion against DOE's regime that led to a prolonged civil war in which DOE was killed. A period of relative peace in 1997 permitted an election that brought TAYLOR to power. In 2000, fighting resumed. An August 2003 peace agreement ended the war and prompted President TAYLOR’s resignation. TAYLOR was later convicted by the UN-backed Special Court for Sierra Leone in The Hague for his involvement in Sierra Leone's civil war. In late 2005, President Ellen JOHNSON SIRLEAF became president after two years of transitional governments; she was the first female head of state in Africa. In 2011, JOHNSON SIRLEAF won reelection but struggled to rebuild Liberia's economy, particularly following the 2014-15 Ebola epidemic, and to reconcile a nation still recovering from 14 years of fighting. In 2017, former soccer star George WEAH won the presidential runoff election, marking the first successful transfer of power from one democratically elected government to another since the end of Liberia’s civil wars. Like his predecessor, WEAH has struggled to improve the country’s economy. The next presidential election is scheduled for 2023.</p> <p> </p><br>
 
 ## Geography
 
@@ -226,7 +226,7 @@ _women married by age 18_: NA<br>
 _men married by age 18_: 8.4% (2020 est.)<br>
 
 **Education expenditures**<br>
-2.3% of GDP (2020)<br>
+2.3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -350,8 +350,8 @@ _election results_: George WEAH elected president in second round; percent of vo
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly consists of:<br>The Liberian Senate (30 seats; members directly elected in 15 2-seat districts by simple majority vote to serve 9-year staggered terms; each district elects 1 senator and elects the second senator 3 years later, followed by a 6-year hiatus, after which the first Senate seat is up for election)<br>House of Representatives (73 seats; members directly elected in single-seat districts by simple majority vote to serve 6-year terms; eligible for a second term)<br>
-_elections_: Senate - general election held on 8 December 2020 with half the seats up for election (next election 2023)<br>House of Representatives - last held on 10 October 2017 (next to be held in October 2023)<br>
-_election results_: Senate - percent of vote by party - Collaborating Political Parties 40.27%, Congress for Democratic Change 28.02%, People's Unification Party 6.40, Movement for Democracy and Reconstructions 4.30%, All Liberia Coalition 1.09%,Rainbow Alliance 1.09%, Liberia Restoration Party 0,82%, Liberia National Union 0.77%, Movement for Progressive Change 0.74%, United People's Party 0.66%, Liberia Transformation Party 0.16%, National Democratic Coalition 0.07%, Movement for One Liberia 0.01; seats by coalition/party- CPP 13, CDC 5, PUP 2, MDR 1, NDC 1   <br> <br>House of Representatives - percent of vote by party/coalition - Coalition for Democratic Change 15.6%, UP 14%, LP 8.7%, ANC 6.1%, PUP 5.9%, ALP 5.1%, MDR 3.4%, other 41.2%; seats by coalition/party - Coalition for Democratic Change 21, UP 20, PUP 5, LP 3, ALP 3, MDR 2, independent 13, other 6; composition - men 64, women 9, percent of women 12.3%; total Parliament percent of women 11.7%<br>
+_elections_: Senate - general election held on 8 December 2020 with half the seats up for election (next to be hled on 10 October 2023)<br>House of Representatives - last held on 10 October 2017 (next to be held 10 October 2023)<br>
+_election results_: Senate - percent of vote by party - Collaborating Political Parties 40.27%, Congress for Democratic Change 28.02%, People's Unification Party 6.40, Movement for Democracy and Reconstructions 4.30%, All Liberia Coalition 1.09%,Rainbow Alliance 1.09%, Liberia Restoration Party 0,82%, Liberia National Union 0.77%, Movement for Progressive Change 0.74%, United People's Party 0.66%, Liberia Transformation Party 0.16%, National Democratic Coalition 0.07%, Movement for One Liberia 0.01; seats by coalition/party- CPP 13, CDC 5, PUP 2, MDR 1, NDC 1; composition - men 28, women 2, percent of women 6.7%   <br> <br>House of Representatives - percent of vote by party/coalition - Coalition for Democratic Change 15.6%, UP 14%, LP 8.7%, ANC 6.1%, PUP 5.9%, ALP 5.1%, MDR 3.4%, other 41.2%; seats by coalition/party - Coalition for Democratic Change 21, UP 20, PUP 5, LP 3, ALP 3, MDR 2, independent 13, other 6; composition - men 65, women 8, percent of women 11%; total Parliament percent of women 9.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of a chief justice and 4 associate justices); note - the Supreme Court has jurisdiction for all constitutional cases<br>
@@ -536,51 +536,39 @@ _electrification - total population_: 12% (2019)<br>
 _electrification - urban areas_: 18% (2019)<br>
 _electrification - rural areas_: 6% (2019)<br>
 
-**Electricity - production**<br>
-300 million kWh (2016 est.)<br>
-<strong>note:</strong> according to a 2014 household survey, only 4.5% of Liberians use Liberia Electricity Corporation (LEC) power, 4.9% use a community generator, 4.4% have their own generator, 3.9% use vehicle batteries, and 0.8% use other sources of electricity, and 81.3% have no access to electricity; LEC accounts for roughly 70 million kWh of ouput.<br>
+**Electricity**<br>
+_Installed generating capacity_: 196,000 kW (2020 est.)<br>
+_Consumption_: 292 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 26 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-279 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 40.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.5% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 59.1% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-151,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-57% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-43% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 9,200 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-8,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -588,20 +576,21 @@ _electrification - rural areas_: 6% (2019)<br>
 **Refined petroleum products - imports**<br>
 8,181 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 1.346 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1.346 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 3.79 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -631,7 +620,7 @@ _percent of population_: 26% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 13,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.26 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.3 (2020 est.)<br>
 
 ## Transportation
 

@@ -223,7 +223,7 @@ _women married by age 18_: 12%<br>
 _men married by age 18_: 2.1% (2018 est.)<br>
 
 **Education expenditures**<br>
-4.9% of GDP (2019)<br>
+4.9% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -353,7 +353,7 @@ _election results_: Ukhnaa KHURELSUKH elected president in first round; percent 
 **Legislative branch**<br>
 _description_: unicameral State Great Hural or Ulsyn Ikh Khural (76 seats; members directly elected in single-seat constituencies by simple majority vote; each constituency requires at least 50% voter participation for the poll to be valid; members serve 4-year terms)<br>
 _elections_: last held on 24 June 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party - MPP 44.9%, DP 24.5%, Our Coalition 8.1%, independent 8.7%, Right Person Electorate Coalition 5.2%, other 8.5%; seats by party - MPP 62, DP 11, Our Coalition 1, Right Person Electorate Coalition 1; independent 1; composition -&nbsp; 63 men, 13 women; percent of women 17.1%; note - the MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party formed Our Coalition for the 2020 election; the Right Person Electorate Coalition was established in 2020 by the National Labor Party, Mongolian Social Democratic Party, and Justice Party<br>
+_election results_: percent of vote by party - MPP 44.9%, DP 24.5%, Our Coalition 8.1%, independent 8.7%, Right Person Electorate Coalition 5.2%, other 8.5%; seats by party - MPP 62, DP 11, Our Coalition 1, Right Person Electorate Coalition 1; independent 1; composition -&nbsp; 63 men, 13 women; percent of women 17.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of the chairman and 8 members)<br>
@@ -361,7 +361,7 @@ _judge selection and term of office_: Supreme Court chief justice and judges app
 _subordinate courts_: aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts<br>
 
 **Political parties and leaders**<br>
-Democratic Party or DP [Tsogtgerel ODON]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Party or MPP [Luvsannamsrai OYUN-ERDENE]<br>Civil Will-Green Party or CWGP [Tserendorj GANKHUYAG] <br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [Togmid Dorhkhand]<br>Mongolian Social Democratic Party or MSDP [Adiya GANBAATAR]<br>Justice Party [Batbayar NASANBILEG]<br>Right Person Electorate Coalition (coalition of the National Labor Party, Mongolian Social Democratic Party, and the Justice Party [Badrakhyn NAIDALAA]<br>
+Democratic Party or DP [Tsogtgerel ODON]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Party or MPP [Luvsannamsrai OYUN-ERDENE]<br>Civil Will-Green Party or CWGP [Tserendorj GANKHUYAG] <br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [Togmid Dorhkhand]<br>Mongolian Social Democratic Party or MSDP [Adiya GANBAATAR]<br>Justice Party [Batbayar NASANBILEG]<br>Right Person Electorate Coalition (coalition of the National Labor Party, Mongolian Social Democratic Party, and the Justice Party [Badrakhyn NAIDALAA]<br>Our Coalition (coalition of the MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party formed for the 2020 election)<br>
 note - there were 35 total registered parties as of December 2021<br>
 
 **International organization participation**<br>
@@ -548,50 +548,38 @@ _electrification - total population_: 91% (2019)<br>
 _electrification - urban areas_: 99% (2019)<br>
 _electrification - rural areas_: 73% (2019)<br>
 
-**Electricity - production**<br>
-5.339 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 1.479 million kW (2020 est.)<br>
+_Consumption_: 7,336,520,000 kWh (2019 est.)<br>
+_Exports_: 24 million kWh (2019 est.)<br>
+_Imports_: 1.723 billion kWh (2019 est.)<br>
+_Transmission/distribution losses_: 892 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-5.932 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 89.2% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 1.3% of total installed capacity (2020 est.)<br>
+_Wind_: 8.1% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 1.3% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-51 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 43.904 million metric tons (2020 est.)<br>
+_Consumption_: 8.818 million metric tons (2020 est.)<br>
+_Exports_: 28.551 million metric tons (2020 est.)<br>
+_Imports_: 1,000 metric tons (2020 est.)<br>
+_Proven reserves_: 2.52 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-1.446 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-1.134 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-87% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-11% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-20,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-14,360 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-(1 January 2017) NA bbl<br>
+**Petroleum**<br>
+_Total petroleum production_: 16,700 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 35,800 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 14,700 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-27,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -599,20 +587,21 @@ _electrification - rural areas_: 73% (2019)<br>
 **Refined petroleum products - imports**<br>
 24,190 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 22.74 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 17.445 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 5.295 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 83.045 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -685,7 +674,7 @@ _paved_: 10,600 km (2017)<br>
 _unpaved_: 102,600 km (2017)<br>
 
 **Waterways**<br>
-580 km (2010) (the only waterway in operation is Lake Hovsgol) (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers ice free from May to September)<br>
+580 km (2010) (the only waterway in operation is Lake Hovsgol) (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers ice-free from May to September)<br>
 
 **Merchant marine**<br>
 _total_: 302<br>
@@ -714,7 +703,7 @@ the MAF are armed with Soviet-era equipment supplemented by deliveries of second
 
 **Military deployments**<br>
 860 South Sudan (UNMISS) (Feb 2022)<br>
-note(s) - from 2003 to July 2021, some 3,300 Mongolian troops served in Afghanistan, including about 1,300 under the NATO-led mission Resolute Support Mission (2015 to 2021); since 2002, Mongolia has deployed more than 19,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
+<strong>note:</strong> from 2003 to July 2021, some 3,300 Mongolian troops served in Afghanistan, including about 1,300 under the NATO-led Resolute Support Mission (2015 to 2021); since 2002, Mongolia has deployed more than 19,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
 
 **Military - note**<br>
 <p>Mongolia has been engaged in dialogue and cooperation with NATO since 2005 and is considered by NATO to be a global partner; Mongolia supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021)</p><br>

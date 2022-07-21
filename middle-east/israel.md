@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-Israel has emerged as a regional economic and military powerhouse, leveraging its booming high-tech sector, massive defense industry, and concerns about Iran to foster partnerships around the world. The State of Israel was established in 1948. The UN General Assembly had proposed to partition the British Mandate for Palestine into an Arab and Jewish state. Arab states rejected the UN plan and were subsequently defeated militarily in the 1948 war that followed the withdrawal of the British on 14 May 1948. Israel was admitted as a member of the UN in 1949 and saw rapid population growth, primarily due to migration from Europe and the Middle East, over the following years. Israel and its Arab neighbors fought wars in 1967 and 1973 and Israel signed peace treaties with Egypt in 1979 and Jordan in 1994. Israel took control of the West Bank and Gaza Strip in the course of the 1967 war, and subsequently administered those territories through military authorities. Israel and Palestinian officials signed interim agreements in the 1990s that created an interim period of Palestinian self-rule in parts of the West Bank and Gaza. Israel withdrew from Gaza in 2005. While the most recent formal efforts between Israel and the Palestinian Authority to negotiate final status issues occurred in 2013-2014, the US continues its efforts to advance peace. Immigration to Israel continues, with more than 20,000 new immigrants, mostly Jewish, in 2020.<br><br>The Israeli economy has undergone a dramatic transformation in the last 25 years, led by cutting-edge, high-tech sectors. Offshore gas discoveries in the Mediterranean, most notably in the Tamar and Leviathan gas fields, place Israel at the center of a potential regional natural gas market. However, longer-term structural issues such as low labor force participation among minority populations, low workforce productivity, high costs for housing and consumer staples, and a lack of competition, remain a concern for many Israelis and an important consideration for Israeli politicians. Former Prime Minister Benjamin NETANYAHU dominated Israel's political landscape from 2009 to June 2021, becoming Israel's longest serving prime minister before he was unseated by Naftali BENNETT, after Israel's fourth election in two years. BENNETT formed the most ideologically diverse coalition in Israel's history, including the participation of an Arab-Israeli party. Under the terms of the coalition agreement, BENNETT would remain as prime minister until August 2023, then Alternate Prime Minister and Foreign Minister Yair LAPID would succeed him. Israel signed normalization agreements – brokered by the US – with Bahrain, the United Arab Emirates, and Morocco in late 2020 and reached an agreement with Sudan in early 2021.<br>
+Israel has emerged as a regional economic and military powerhouse, leveraging its booming high-tech sector, massive defense industry, and concerns about Iran to foster partnerships around the world. The State of Israel was established in 1948. The UN General Assembly had proposed to partition the British Mandate for Palestine into an Arab and Jewish state. Arab states rejected the UN plan and were subsequently defeated militarily in the 1948 war that followed the withdrawal of the British on 14 May 1948. Israel was admitted as a member of the UN in 1949 and saw rapid population growth, primarily due to migration from Europe and the Middle East, over the following years. Israel and its Arab neighbors fought wars in 1967 and 1973 and Israel signed peace treaties with Egypt in 1979 and Jordan in 1994. Israel took control of the West Bank and Gaza Strip in the course of the 1967 war, and subsequently administered those territories through military authorities. Israel and Palestinian officials signed interim agreements in the 1990s that created an interim period of Palestinian self-rule in parts of the West Bank and Gaza. Israel withdrew from Gaza in 2005. While the most recent formal efforts between Israel and the Palestinian Authority to negotiate final status issues occurred in 2013-2014, the US continues its efforts to advance peace. Immigration to Israel continues, with more than 20,000 new immigrants, mostly Jewish, in 2020.<br><br>The Israeli economy has undergone a dramatic transformation in the last 25 years, led by cutting-edge, high-tech sectors. Offshore gas discoveries in the Mediterranean, most notably in the Tamar and Leviathan gasfields, place Israel at the center of a potential regional natural gas market. However, longer-term structural issues such as low labor force participation among minority populations, low workforce productivity, high costs for housing and consumer staples, and a lack of competition, remain a concern for many Israelis and an important consideration for Israeli politicians. Former Prime Minister Benjamin NETANYAHU dominated Israel's political landscape from 2009 to June 2021, becoming Israel's longest serving prime minister before he was unseated by Naftali BENNETT, after Israel's fourth election in two years. BENNETT formed the most ideologically diverse coalition in Israel's history, including the participation of an Arab-Israeli party. Under the terms of the coalition agreement, BENNETT would remain as prime minister until August 2023, then Alternate Prime Minister and Foreign Minister Yair LAPID would succeed him. Israel signed normalization agreements – brokered by the US – with Bahrain, the United Arab Emirates, and Morocco in late 2020 and reached an agreement with Sudan in early 2021.<br>
 
 ## Geography
 
@@ -217,7 +217,7 @@ _female_: 13.5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-6.2% of GDP (2018)<br>
+6.2% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -340,7 +340,7 @@ _residency requirement for naturalization_: 3 out of the 5 years preceding the a
 
 **Executive branch**<br>
 _chief of state_: President Isaac HERZOG (since 7 July 2021)<br>
-_head of government_: Prime Minister Yair LAPID serving as caretaker (since 1 July 2022); under the terms of the coalition government made a year ago, LAPID becomes prime minister on 1 July 2022, replacing former Prime Minister Naftali BENNETT<br>
+_head of government_: Prime Minister Yair LAPID serving as caretaker (since 1 July 2022); under the terms of the coalition government made a year ago, LAPID became prime minister on 1 July 2022, replacing former Prime Minister Naftali BENNETT<br>
 _cabinet_: Cabinet selected by prime minister and approved by the Knesset<br>
 _elections/appointments_: president indirectly elected by the Knesset for a single 7-year term; election last held on 2 June 2021 (next to be held in June 2028); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government<br>
 _election results_: Issac HERZOG elected president; Knesset vote - Issac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br>
@@ -552,50 +552,39 @@ new Israeli shekels (ILS) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-63.09 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 18.993 million kW (2020 est.)<br>
+_Consumption_: 59,192,500,000 kWh (2019 est.)<br>
+_Exports_: 6.243 billion kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 2.642 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-55 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 93.7% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 5.9% of total installed capacity (2020 est.)<br>
+_Wind_: 0.3% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-5.2 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 5.089 million metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 5.565 million metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-17.59 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-95% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-5% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-390 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-231,600 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-12.73 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 232,400 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 232,900 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 12.7 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 294,300 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-242,200 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 111,700 bbl/day (2017 est.)<br>
@@ -603,20 +592,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 98,860 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-9.826 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 10,474,299,000 cubic meters (2019 est.)<br>
+_Consumption_: 9,442,435,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 820.508 million cubic meters (2019 est.)<br>
+_Proven reserves_: 176.017 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-9.995 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 61.092 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 13.653 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 29.416 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 18.023 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-509.7 million cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-176 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 113.273 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -682,7 +672,7 @@ _under 914 m_: 6 (2021)<br>
 763 km gas, 442 km oil, 261 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 1,599 km (2019) (2019)<br>
+_total_: 1,384 km (2019) (2019)<br>
 _standard gauge_: 1,384 km (2014) 1.435-m gauge<br>
 
 **Roadways**<br>

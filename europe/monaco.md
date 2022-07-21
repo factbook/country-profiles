@@ -197,7 +197,12 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-1.2% of GDP (2019)<br>
+1.2% of GDP (2019 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 26.7%<br>

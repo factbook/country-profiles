@@ -217,7 +217,7 @@ _female_: 1.1% (2020 est.)<br>
 14.1% (2019)<br>
 
 **Education expenditures**<br>
-4.2% of GDP (2019)<br>
+4.2% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -347,7 +347,7 @@ _elections/appointments_: king elected by and from the hereditary rulers of 9 st
 _description_: bicameral Parliament of Malaysia or Parlimen Malaysia consists of:<br>Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms)<br>House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms) (2019)<br>
 _elections_: Senate - appointed<br>House of Representatives - last held on 9 May 2018 (next national elections are not scheduled until 2023 but are widely expected to be called in 2022)<br>
 _election results_: <br>Senate - appointed; composition - men 54, women 14, percent of women 20.6%<br>House of Representatives - percent of vote by party/coalition - PH 45.6%, BN 33.8%, PAS 16.9%, WARISAN 2.3%, other 1.4%; seats by party/coalition - PH 113, BN 79, PAS 18, WARISAN 8, USA 1, independent 3; composition - men 199, women 23, percent of women 10.4%; note - total Parliament percent of women 12.8%<br>
-<strong>note:</strong> as of 16 November 2019, seats by party - PH 129, BN 41, GS 18, GPS 18, WARISAN 9, GBS 3, UPKO 1, PSB 1, independent 1, vacant 1<br>
+<strong>note:</strong> as of May 2022, seats by party - PH 129, BN 41, PAS 18, GPS 18, WARISAN 9, GBS 3, UPKO 1, PSB 1, independent 1, vacant 1<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Court (consists of the chief justice, president of the Court of Appeal, chief justice of the High Court of Malaya, chief judge of the High Court of Sabah and Sarawak, 8 judges, and 1 "additional" judge); note - Malaysia has a dual judicial hierarchy of civil and religious (sharia) courts<br>
@@ -543,50 +543,39 @@ ringgits (MYR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-148.3 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 34.959 million kW (2020 est.)<br>
+_Consumption_: 150.062 billion kWh (2019 est.)<br>
+_Exports_: 669 million kWh (2019 est.)<br>
+_Imports_: 19 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 12.124 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-136.9 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 87.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.7% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 10.9% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-3 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 2.977 million metric tons (2020 est.)<br>
+_Consumption_: 35.268 million metric tons (2020 est.)<br>
+_Exports_: 17,000 metric tons (2020 est.)<br>
+_Imports_: 37.295 million metric tons (2020 est.)<br>
+_Proven reserves_: 226 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-33 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-33 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-78% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-18% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-4% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-647,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-326,200 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-166,000 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-3.6 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 593,800 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 718,600 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 303,600 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 182,300 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 3.6 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 528,300 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-704,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 208,400 bbl/day (2015 est.)<br>
@@ -594,20 +583,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 304,600 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-69.49 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 74,985,350,000 cubic meters (2019 est.)<br>
+_Consumption_: 39,586,915,000 cubic meters (2019 est.)<br>
+_Exports_: 34,197,548,000 cubic meters (2020 est.)<br>
+_Imports_: 4,008,073,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 1,189,306,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-30.44 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 254.764 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 81.726 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 94.934 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 78.104 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-38.23 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-2.803 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-1.183 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 123.755 million Btu/person (2019 est.)<br>
 
 ## Communications
 

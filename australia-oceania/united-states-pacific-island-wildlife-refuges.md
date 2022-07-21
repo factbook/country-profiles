@@ -149,9 +149,6 @@ no economic activity<br>
 
 ## Energy
 
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
 ## Transportation
 
 **Airports**<br>

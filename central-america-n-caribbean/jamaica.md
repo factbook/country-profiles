@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The island - discovered by Christopher COLUMBUS in 1494 - was settled by the Spanish early in the 16th century. The native Taino, who had inhabited Jamaica for centuries, were gradually exterminated and replaced by African slaves. England seized the island in 1655 and established a plantation economy based on sugar, cocoa, and coffee. The abolition of slavery in 1834 freed a quarter million slaves, many of whom became small farmers. Jamaica gradually increased its independence from Britain. In 1958 it joined other British Caribbean colonies in forming the Federation of the West Indies. Jamaica withdrew from the Federation in 1961 and gained full independence in 1962. Deteriorating economic conditions during the 1970s led to recurrent violence as rival gangs affiliated with the major political parties evolved into powerful organized crime networks involved in international drug smuggling and money laundering. Violent crime, drug trafficking, corruption, the COVID-19 pandemic, and poverty pose significant challenges to the government today. Nonetheless, many rural and resort areas remain relatively safe and contribute substantially to the economy.<br>
+The island - discovered by Christopher COLUMBUS in 1494 - was settled by the Spanish early in the 16th century. The native Taino, who had inhabited Jamaica for centuries, were gradually exterminated and replaced by African slaves. England seized the island in 1655 and established a plantation economy based on sugar, cocoa, and coffee. The abolition of slavery in 1834 freed a quarter million slaves, many of whom became small farmers. Jamaica gradually increased its independence from Britain. In 1958, it joined other British Caribbean colonies in forming the Federation of the West Indies. Jamaica withdrew from the Federation in 1961 and gained full independence in 1962. Deteriorating economic conditions during the 1970s led to recurrent violence as rival gangs affiliated with the major political parties evolved into powerful organized crime networks involved in international drug smuggling and money laundering. Violent crime, drug trafficking, corruption, the COVID-19 pandemic, and poverty pose significant challenges to the government today. Nonetheless, many rural and resort areas remain relatively safe and contribute substantially to the economy.<br>
 
 ## Geography
 
@@ -212,7 +212,7 @@ _female_: 3.8% (2020 est.)<br>
 4.4% (2016)<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2020)<br>
+5.4% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over has ever attended school<br>
@@ -524,50 +524,39 @@ _electrification - total population_: 99% (2019)<br>
 _electrification - urban areas_: 100% (2019)<br>
 _electrification - rural areas_: 97% (2019)<br>
 
-**Electricity - production**<br>
-4.007 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 1.216 million kW (2020 est.)<br>
+_Consumption_: 3,050,780,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 1.149 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-2.847 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 87.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 1.2% of total installed capacity (2020 est.)<br>
+_Wind_: 6.8% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 4% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.6% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 61,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 82,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-1.078 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-83% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-3% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-15% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-24,360 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 3,000 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 61,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 20,100 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 24,250 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-55,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 823 bbl/day (2015 est.)<br>
@@ -575,20 +564,21 @@ _electrification - rural areas_: 97% (2019)<br>
 **Refined petroleum products - imports**<br>
 30,580 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 693.422 million cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 667.115 million cubic meters (2020 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-198.2 million cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 10.002 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 177,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 9.276 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 549,000 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-198.2 million cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 49.7 million Btu/person (2019 est.)<br>
 
 ## Communications
 

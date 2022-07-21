@@ -219,7 +219,7 @@ _female_: 19.5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.3% of GDP (2018)<br>
+4.3% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -363,7 +363,7 @@ _subordinate courts_: various lower civil and criminal courts (primary and secon
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Mariangela ZAPPIA (since 15 September 2021)<br>
+_chief of mission_: Ambassador Maria Angela ZAPPIA (since 15 September 2021)<br>
 _chancery_: 3000 Whitehaven Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 612-4400<br>
 _FAX_: [1] (202) 518-2154<br>
@@ -546,50 +546,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-275.3 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 121.442 million kW (2020 est.)<br>
+_Consumption_: 286.375 billion kWh (2020 est.)<br>
+_Exports_: 7.587 billion kWh (2020 est.)<br>
+_Imports_: 39.787 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 17.702 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-293.5 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 55.9% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 9.2% of total installed capacity (2020 est.)<br>
+_Wind_: 6.9% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 17.5% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
+_Geothermal_: 2.2% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 8.1% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-6.155 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 1.456 million metric tons (2020 est.)<br>
+_Consumption_: 9.335 million metric tons (2020 est.)<br>
+_Exports_: 368,000 metric tons (2020 est.)<br>
+_Imports_: 8.235 million metric tons (2020 est.)<br>
+_Proven reserves_: 17 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-43.18 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-114.2 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-54% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-14% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-32% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-90,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-13,790 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-1.341 million bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-487.8 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 107,700 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 1,255,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 10,100 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 1.253 million barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 497.9 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1.607 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-1.236 million bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 615,900 bbl/day (2017 est.)<br>
@@ -597,20 +586,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 422,500 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-5.55 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 3,888,491,000 cubic meters (2020 est.)<br>
+_Consumption_: 74,313,109,000 cubic meters (2019 est.)<br>
+_Exports_: 314.656 million cubic meters (2020 est.)<br>
+_Imports_: 70,908,014,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 45.76 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-75.15 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 332.041 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 27.194 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 162.472 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 142.375 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-271.8 million cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-69.66 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-38.11 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 112.606 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -677,10 +667,10 @@ _under 914 m_: 20 (2021)<br>
 20,223 km gas, 1,393 km oil, 1,574 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 20,182 km (2014)<br>
+_total_: 18,892.4 km (2014)<br>
 _standard gauge_: 18,770.1 km (2014) 1.435-m gauge (12,893.6 km electrified)<br>
 _narrow gauge_: 122.3 km (2014) 1.000-m gauge (122.3 km electrified)<br>
-1289.3 0.950-m gauge (151.3 km electrified)<br>
+1289.3 0.950-mm gauge (151.3 km electrified)<br>
 
 **Roadways**<br>
 _total_: 487,700 km (2007)<br>
@@ -723,8 +713,8 @@ the Italian Armed Forces' inventory includes a mix of domestically-produced, joi
 note - as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-120 Djibouti; 900 Middle East/Iraq/Kuwait (NATO, counter-ISIS campaign, European Assistance Mission Iraq); 640 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,190 Lebanon (UNIFIL); 400 Libya; 290 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2022)<br><br>note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe <br>
-note - NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe&nbsp;<br>
+120 Djibouti; 900 Middle East/Iraq/Kuwait (NATO, European Assistance Mission Iraq); 640 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,190 Lebanon (UNIFIL); 400 Libya; 290 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2022)<br>
+<strong>note:</strong> NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 Italy is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>Italy is an active participant in EU, NATO, UN, and other multinational military, security, and humanitarian operations abroad; as of 2022, it hosted the headquarters for the EU’s Mediterranean naval operations force (EUNAVFOR-MED) in Rome and the US Navy’s 6th Fleet in Naples; Italy was admitted to the UN in 1955 and in 1960 participated in its first UN peacekeeping mission, the UN Operation in Congo (ONUC); since 1960, it has committed more than 60,000 troops to UN missions; since 2006, Italy has hosted a training center in Vicenza for police personnel destined for peacekeeping missions<br>
@@ -740,9 +730,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 141,562 (Ukraine) (as of 28 June 2022)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 144,838 (Ukraine) (as of 6 July 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 622,062 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
+<strong>note:</strong> 624,675 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

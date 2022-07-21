@@ -236,7 +236,12 @@ _female_: 31.9% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2018)<br>
+5.4% of GDP (2018 est.)<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -572,50 +577,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-529.1 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 138.611 million kW (2020 est.)<br>
+_Consumption_: 472.699 billion kWh (2020 est.)<br>
+_Exports_: 64.425 billion kWh (2020 est.)<br>
+_Imports_: 19.613 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 36.203 billion kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-450.8 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 68.4% of total installed capacity (2020 est.)<br>
+_Solar_: 2.5% of total installed capacity (2020 est.)<br>
+_Wind_: 7.3% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 11.7% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0.2% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 2% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-61.41 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 2.312 million metric tons (2020 est.)<br>
+_Consumption_: 10.712 million metric tons (2020 est.)<br>
+_Exports_: 35,000 metric tons (2020 est.)<br>
+_Imports_: 7.891 million metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-19.9 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-130.8 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-17% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-50% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-15% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-19% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-16,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-1.147 million bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-65.97 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 81,500 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 1,688,500 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 1,064,700 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 61.7 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 1.311 million bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-1.705 million bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 440,600 bbl/day (2017 est.)<br>
@@ -623,20 +617,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 886,800 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-16.99 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 16.226 million cubic meters (2019 est.)<br>
+_Consumption_: 38,192,256,000 cubic meters (2020 est.)<br>
+_Exports_: 9,103,795,000 cubic meters (2020 est.)<br>
+_Imports_: 46,105,385,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 7.787 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-41.88 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 338.425 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 26.971 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 225.865 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 85.589 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-6.031 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-48.59 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-8.41 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 151.053 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -754,8 +749,8 @@ the French military's inventory consists mostly of domestically-produced weapons
 note(s) - men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign 5-year contracts; in 2019, women comprised approximately approximately 16% of the uniformed armed forces (21% including civilians)&nbsp;<br>
 
 **Military deployments**<br>
-approximately 4,000 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Operation Sabre, Task Force Takuba; note - in  2021, France announced that it would cut the number of troops from this force to about 2,500 by 2023; in 2022, France said it would move the troops in Mali--about 2,400--to other west African countries); approximately 300 Central African Republic; 950 Cote D'Ivoire; 1,450 Djibouti; 350 Baltics (NATO); 2,100 French Guyana; 900 French Polynesia; 1,000 French West Indies; 350 Gabon; est. 500 Middle East (Iraq/Jordan/Syria); 570 Lebanon (UNIFIL); 1,450 New Caledonia; 1,700 Reunion Island; 350 Senegal; 650 United Arab Emirates (2022)<br><br>note(s) - France has been a contributing member of the EuroCorps since 1992; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including France, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
-note(s) - France has been a contributing member of the EuroCorps since 1992; NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia&rsquo;s 2022 invasion of Ukraine, some NATO countries, including France, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
+approximately 4,000 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Operation Sabre, Task Force Takuba; note - in 2021, France announced that it would cut the number of troops from this force to about 2,500 by 2023; in 2022, France said it would move the troops in Mali--about 2,400--to other west African countries); approximately 300 Central African Republic; 950 Cote D'Ivoire; 1,450 Djibouti; 350 Baltics (NATO); 2,100 French Guyana; 900 French Polynesia; 1,000 French West Indies; 350 Gabon; approximately 500 Middle East (Iraq/Jordan/Syria); 570 Lebanon (UNIFIL); 1,450 New Caledonia; 1,700 Reunion Island; 350 Senegal; 650 United Arab Emirates (2022)<br>
+<strong>note 1:</strong> France has been a contributing member of the EuroCorps since 1992 <br><br><strong>note 2: </strong>NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including France, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
 France was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty), which created NATO in 1949; in 1966, President Charles DE GAULLE decided to withdraw France from NATO’s integrated military structure, reflecting his desire for greater military independence, particularly vis-à-vis the US, and the refusal to integrate France’s nuclear deterrent or accept any form of control over its armed forces; it did, however, sign agreements with NATO setting out procedures in the event of Soviet aggression; beginning with the fall of the Berlin Wall in 1989, France distanced itself from the 1966 decision and has regularly contributed troops to NATO’s military operations, being one of the largest troop-contributing states; in 2009 it officially announced its decision to fully participate in NATO structures<br><br> <p>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for French-UK bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance</p> <p>the French Foreign Legion, established in 1831, is a military force that is open to foreign recruits willing to serve in the French Armed Forces for service in France and abroad; the Foreign Legion is an integrated part of the French Army and is comprised of approximately 8,000 personnel in eight regiments, a regiment-sized demi-brigade, a battalion-sized overseas detachment, a battalion-sized recruiting group, and a command staff; the combat units are a mix of armored cavalry and airborne, light, mechanized, and motorized infantry</p> (2022)<br>

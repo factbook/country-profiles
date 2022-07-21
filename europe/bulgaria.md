@@ -218,7 +218,7 @@ _female_: 37.1% (2020 est.)<br>
 1.9% (2014)<br>
 
 **Education expenditures**<br>
-4.1% of GDP (2017)<br>
+4.1% of GDP (2017 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -356,7 +356,7 @@ _judge selection and term of office_: Supreme Court of Cassation and Supreme Adm
 _subordinate courts_: appeals courts; regional and district courts; administrative courts; courts martial<br>
 
 **Political parties and leaders**<br>
-Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgarian Agrarian People’s Union [Nikolay NENCHEV]<br>Bulgarian Socialist Party or BSP [Korneliya NINOVA] (alliance of BSP, PKT, New Dawn, Ecoglasnost)<br>Bulgaria of the Citizens or DBG [Dimitar DELCHEV]]<br>Citizens for the European Development of Bulgaria or GERB (alliance with SDS) [Boyko BORISOV]<br>Democratic Bulgaria or DB (alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]<br>Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]<br>Ecoglasnost [Emil GEORGIEV]<br>Green Movement or The Greens [Borislav SANDOV, Vladislav PENEV]<br>Middle European Class or SEC [Georgi MANEV]<br>Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]<br>Movement 21 or D21 [Tatyana DONCHEVA]<br>New Dawn [Mincho MINCHEV]<br>Political Club Thrace or PKT [Stefan NACHEZ]<br>Political Movement "Social Democrats" or PDS  [Elena NONEVA]<br>Revival [Kostadin KOSTADINOV]<br>Stand Up.BG or IS.BG [Maya MONOLOVA]<br>Stand Up.BG, We Are Coming! or IBG-NI (coalition of IS.BG, D21, DBG, ENP, ZNS, and Volt) [Maya MONOLOVA, Nikolay HADZHIGENOV]<br>There is Such a People or ITN [SLAVI TRIFONOV]<br>United People's Party or ENP [Valentina VASILEVA-FILADELFEVS]<br>Union of Democratic Forces or SDS (alliance with GERB)[Rumen HRISTOV]<br>Yes! Bulgaria [Hristo IVANOV]<br>Volt Bulgaria or Volt [Nastimir ANANIEV]<br>We Continue the Change of PP (electoral alliance of PP, PDS, SEC, and Volt) [Kiril PETKOV and Asen VASILEV]<br>
+Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgaria of the Citizens or DBG [Dimitar DELCHEV]<br>Bulgarian Agrarian People’s Union [Nikolay NENCHEV]<br>Bulgarian Socialist Party or BSP [Korneliya NINOVA] (alliance of BSP, PKT, New Dawn, Ecoglasnost)<br>Citizens for the European Development of Bulgaria or GERB [Boyko BORISOV] (alliance with SDS) <br>Democratic Bulgaria or DB (alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]<br>Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]<br>Ecoglasnost [Emil GEORGIEV]<br>Green Movement or The Greens [Borislav SANDOV, Vladislav PENEV]<br>Middle European Class or SEC [Georgi MANEV]<br>Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]<br>Movement 21 or D21 [Tatyana DONCHEVA]<br>New Dawn [Mincho MINCHEV]<br>Political Club Thrace or PKT [Stefan NACHEZ]<br>Political Movement "Social Democrats" or PDS  [Elena NONEVA]<br>Revival [Kostadin KOSTADINOV]<br>Stand Up.BG or IS.BG [Maya MONOLOVA]<br>Stand Up.BG, We Are Coming! or IBG-NI (coalition of IS.BG, D21, DBG, ENP, ZNS, and Volt) [Maya MONOLOVA, Nikolay HADZHIGENOV]<br>There is Such a People or ITN [SLAVI TRIFONOV]<br>United People's Party or ENP [Valentina VASILEVA-FILADELFEVS]<br>Union of Democratic Forces or SDS (alliance with GERB) [Rumen HRISTOV]<br>Yes! Bulgaria [Hristo IVANOV]<br>Volt Bulgaria or Volt [Nastimir ANANIEV]<br>We Continue the Change of PP (electoral alliance of PP, PDS, SEC, and Volt) [Kiril PETKOV and Asen VASILEV]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -544,50 +544,39 @@ leva (BGN) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-42.29 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 11.097 million kW (2020 est.)<br>
+_Consumption_: 30,905,170,000 kWh (2019 est.)<br>
+_Exports_: 7.115 billion kWh (2020 est.)<br>
+_Imports_: 3.707 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 2.767 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-32.34 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 36.5% of total installed capacity (2020 est.)<br>
+_Nuclear_: 44.7% of total installed capacity (2020 est.)<br>
+_Solar_: 4% of total installed capacity (2020 est.)<br>
+_Wind_: 4% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 9.1% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.9% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-9.187 billion kWh (2017 est.)<br>
+**Coal**<br>
+_Production_: 22.298 million metric tons (2020 est.)<br>
+_Consumption_: 23.213 million metric tons (2020 est.)<br>
+_Exports_: 35,000 metric tons (2020 est.)<br>
+_Imports_: 675,000 metric tons (2020 est.)<br>
+_Proven reserves_: 2.366 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-4.568 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-10.75 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-39% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-20% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-23% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-19% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-1,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-133,900 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-15 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 4,500 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 97,800 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 119,800 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 15 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 144,300 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-97,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 92,720 bbl/day (2015 est.)<br>
@@ -595,20 +584,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 49,260 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-79.28 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 62.439 million cubic meters (2020 est.)<br>
+_Consumption_: 2,929,401,000 cubic meters (2019 est.)<br>
+_Exports_: 2.747 million cubic meters (2020 est.)<br>
+_Imports_: 2,950,157,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 5.663 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-3.313 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 38.373 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 20.483 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 12.248 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 5.642 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-31.15 million cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-3.256 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-5.663 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 103.924 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -730,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 84,498 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 87,510 (Ukraine) (as of 11 July 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
 <strong>note:</strong> 76,182 estimated refugee and migrant arrivals (January 2015-May 2022); Bulgaria is predominantly a transit country<br>
 

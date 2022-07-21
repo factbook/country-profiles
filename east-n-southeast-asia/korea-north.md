@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The first recorded kingdom (Choson) on the Korean Peninsula dates from approximately 2300 B.C.  Over the subsequent centuries, three main kingdoms - Kogoryo, Paekche, and Silla - were established on the Peninsula. By the 5th century A.D, Kogoryo emerged as the most powerful, with control over much of the Peninsula, as well as part of Manchuria (modern-day northeast China). However, Silla allied with the Chinese to create the first unified Korean state in the late 7th century (688). Following the collapse of Silla in the 9th century, Korea was unified under the Koryo (Goryeo; 918-1392) and the Chosen (Joseon; 1392-1910) dynasties.</p> <p>Korea became the object of intense imperialistic rivalry between the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries.  Following the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-1905), Korea was occupied by Imperial Japan. In 1910, Japan formally annexed the entire peninsula. After World War II, Korea was split with the northern half coming under Soviet-sponsored communist control. After the Korean War (1950-53), during which North Korea failed to conquer UN-backed South Korea (Republic of Korea, ROK), North Korea (Democratic People’s Republic of Korea, DPRK), under its founder President KIM Il Sung, adopted a policy of <em>juche ("</em>self-reliance") as a check against outside influence. North Korea demonized the US as the ultimate threat to its social system through state-funded propaganda, and molded political, economic, and military policies around the core ideological objective of eventual unification of Korea under Pyongyang's control. KIM Il Sung's son, KIM Jong Il, was officially designated as his father's successor in 1980, assuming a growing political and managerial role until the elder KIM's death in 1994. Under KIM Jong Il's reign, North Korea continued developing nuclear weapons and ballistic missiles. KIM Jong Un was publicly unveiled as his father's successor in 2010. Following KIM Jong Il's death in 2011, KIM Jong Un quickly assumed power and has since occupied the regime's highest political and military posts. </p> <p>After decades of economic mismanagement and resource misallocation, the North since the mid-1990s has faced chronic food shortages and economic stagnation. In recent years, the North's domestic agricultural production has increased, but still falls far short of producing sufficient food to provide for its entire population. North Korea began to ease restrictions to allow semi-private markets, starting in 2002, but has made few other efforts to meet its goal of improving the overall standard of living. New economic development plans in the 2010s failed to meet government-mandated goals for key industrial sectors, food production, or overall economic performance. In response, the North Korean leader in early 2021 admitted these failures, but vowed to continue "self-reliant" policies.<br><br>North Korea has a history of provocative regional military actions and posturing that are of major concern to the international community and have limited North Korea’s international engagement, particularly economically. These include proliferation of military-related items; long-range missile development; WMD programs including tests of nuclear devices in 2006, 2009, 2013, 2016, and 2017; and large conventional armed forces. In 2013, North Korea declared a policy of simultaneous development of its nuclear weapons program and economy. In late 2017, KIM Jong Un declared the North's nuclear weapons development complete. In 2018, KIM announced a pivot towards diplomacy, including a re-prioritization of economic development, a pause in missile testing beginning in late 2017, and a refrain from anti-US rhetoric starting in June 2018. Since 2018, KIM has participated in four meetings with Chinese President XI Jinping, three with South Korean President MOON Jae-in, and three with US President TRUMP. Since 2019, North Korea has continued developing its ballistic missile program and issued statements condemning the US, and vowing to further strengthen its military capabilities, including long range missiles and nuclear weapons. North Korea remains one of the world’s most isolated and one of Asia’s poorest countries. </p><br>
+<p>The first recorded kingdom (Choson) on the Korean Peninsula dates from approximately 2300 B.C.  Over the subsequent centuries, three main kingdoms - Kogoryo, Paekche, and Silla - were established on the Peninsula. By the 5th century A.D., Kogoryo emerged as the most powerful, with control over much of the Peninsula, as well as part of Manchuria (modern-day northeast China). However, Silla allied with the Chinese to create the first unified Korean state in the late 7th century (688). Following the collapse of Silla in the 9th century, Korea was unified under the Koryo (Goryeo; 918-1392) and the Chosen (Joseon; 1392-1910) dynasties.</p> <p>Korea became the object of intense imperialistic rivalry between the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries.  Following the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-1905), Korea was occupied by Imperial Japan. In 1910, Japan formally annexed the entire peninsula. After World War II, Korea was split with the northern half coming under Soviet-sponsored communist control. After the Korean War (1950-53), during which North Korea failed to conquer UN-backed South Korea (Republic of Korea, ROK), North Korea (Democratic People’s Republic of Korea, DPRK), under its founder President KIM Il Sung, adopted a policy of <em>juche ("</em>self-reliance") as a check against outside influence. North Korea demonized the US as the ultimate threat to its social system through state-funded propaganda, and molded political, economic, and military policies around the core ideological objective of eventual unification of Korea under Pyongyang's control. KIM Il Sung's son, KIM Jong Il, was officially designated as his father's successor in 1980, assuming a growing political and managerial role until the elder KIM's death in 1994. Under KIM Jong Il's reign, North Korea continued developing nuclear weapons and ballistic missiles. KIM Jong Un was publicly unveiled as his father's successor in 2010. Following KIM Jong Il's death in 2011, KIM Jong Un quickly assumed power and has since occupied the regime's highest political and military posts. </p> <p>After decades of economic mismanagement and resource misallocation, the North since the mid-1990s has faced chronic food shortages and economic stagnation. In recent years, the North's domestic agricultural production has increased, but still falls far short of producing sufficient food to provide for its entire population. Starting in 2002, North Korea began to ease restrictions to allow semi-private markets, but has made few other efforts to meet its goal of improving the overall standard of living. New economic development plans in the 2010s failed to meet government-mandated goals for key industrial sectors, food production, or overall economic performance. In response, the North Korean leader in early 2021 admitted these failures, but vowed to continue "self-reliant" policies.<br><br>North Korea has a history of provocative regional military actions and posturing that are of major concern to the international community and have limited North Korea’s international engagement, particularly economically. These include proliferation of military-related items; long-range missile development; WMD programs including tests of nuclear devices in 2006, 2009, 2013, 2016, and 2017; and large conventional armed forces. In 2013, North Korea declared a policy of simultaneous development of its nuclear weapons program and economy. In late 2017, KIM Jong Un declared the North's nuclear weapons development complete. In 2018, KIM announced a pivot towards diplomacy, including a re-prioritization of economic development, a pause in missile testing beginning in late 2017, and a refrain from anti-US rhetoric starting in June 2018. Since 2018, KIM has participated in four meetings with Chinese President XI Jinping, three with South Korean President MOON Jae-in, and three with US President TRUMP. Since 2019, North Korea has continued developing its ballistic missile program and issued statements condemning the US, and vowing to further strengthen its military capabilities, including long range missiles and nuclear weapons. North Korea remains one of the world’s most isolated and one of Asia’s poorest countries. </p><br>
 
 ## Geography
 
@@ -475,50 +475,39 @@ _electrification - total population_: 26% (2019)<br>
 _electrification - urban areas_: 36% (2019)<br>
 _electrification - rural areas_: 11% (2019)<br>
 
-**Electricity - production**<br>
-16.57 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 8.413 million kW (2020 est.)<br>
+_Consumption_: 13,930,320,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 2.146 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-13.89 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 15.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.1% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 84.1% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 16.376 million metric tons (2020 est.)<br>
+_Consumption_: 6.698 million metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 22,000 metric tons (2020 est.)<br>
+_Proven reserves_: 600 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-10.01 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-45% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-55% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-10,640 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 20,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 10,600 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 11,270 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-18,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -526,20 +515,21 @@ _electrification - rural areas_: 11% (2019)<br>
 **Refined petroleum products - imports**<br>
 8,260 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 18.465 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 15.252 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 3.213 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 12.61 million Btu/person (2019 est.)<br>
 
 ## Communications
 

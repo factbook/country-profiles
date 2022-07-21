@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ukraine was the center of the first eastern Slavic state, Kyivan Rus, which during the 10th and 11th centuries was the largest and most powerful state in Europe. Weakened by internecine quarrels and Mongol invasions, Kyivan Rus was incorporated into the Grand Duchy of Lithuania and eventually into the Polish-Lithuanian Commonwealth. The cultural and religious legacy of Kyivan Rus laid the foundation for Ukrainian nationalism through subsequent centuries. A new Ukrainian state, the Cossack Hetmanate, was established during the mid-17th century after an uprising against the Poles. Despite continuous Muscovite pressure, the Hetmanate managed to remain autonomous for well over 100 years. During the latter part of the 18th century, most Ukrainian ethnographic territory was absorbed by the Russian Empire. Following the collapse of czarist Russia in 1917, Ukraine achieved a short-lived period of independence (1917-20), but was reconquered and endured a brutal Soviet rule that engineered two forced famines (1921-22 and 1932-33) in which over 8 million died. In World War II, German and Soviet armies were responsible for 7 to 8 million more deaths. Although Ukraine achieved independence in 1991 with the dissolution of the USSR, democracy and prosperity remained elusive as the legacy of state control and endemic corruption stalled efforts at economic reform, privatization, and civil liberties.</p> <p>A peaceful mass protest referred to as the "Orange Revolution" in the closing months of 2004 forced the authorities to overturn a rigged presidential election and to allow a new internationally monitored vote that swept into power a reformist slate under Viktor YUSHCHENKO. Subsequent internal squabbles in the YUSHCHENKO camp allowed his rival Viktor YANUKOVYCH to stage a comeback in parliamentary (Rada) elections, become prime minister in August 2006, and be elected president in February 2010. In October 2012, Ukraine held Rada elections, widely criticized by Western observers as flawed due to use of government resources to favor ruling party candidates, interference with media access, and harassment of opposition candidates. President YANUKOVYCH's backtracking on a trade and cooperation agreement with the EU in November 2013 - in favor of closer economic ties with Russia - and subsequent use of force against students, civil society activists, and other civilians in favor of the agreement led to a three-month protest occupation of Kyiv's central square. The government's use of violence to break up the protest camp in February 2014 led to all out pitched battles, scores of deaths, international condemnation, a failed political deal, and the president's abrupt departure for Russia. New elections in the spring allowed pro-West president Petro POROSHENKO to assume office in June 2014; he was succeeded by Volodymyr ZELENSKY in May 2019.</p> <p>Shortly after YANUKOVYCH's departure in late February 2014, Russian President PUTIN ordered the invasion of Ukraine's Crimean Peninsula falsely claiming the action was to protect ethnic Russians living there. Two weeks later, a "referendum" was held regarding the integration of Crimea into the Russian Federation. The "referendum" was condemned as illegitimate by the Ukrainian Government, the EU, the US, and the UN General Assembly (UNGA). In response to Russia's illegal annexation of Crimea, 100 members of the UN passed UNGA resolution 68/262, rejecting the "referendum" as baseless and invalid and confirming the sovereignty, political independence, unity, and territorial integrity of Ukraine. In mid-2014, Russia began supplying proxies in two of Ukraine's eastern provinces with manpower, funding, and materiel driving an armed conflict with the Ukrainian Government that continues to this day. Representatives from Ukraine, Russia, and the unrecognized Russian proxy republics signed the Minsk Protocol and Memorandum in September 2014 to end the conflict. However, this agreement failed to stop the fighting or find a political solution. In a renewed attempt to alleviate ongoing clashes, leaders of Ukraine, Russia, France, and Germany negotiated a follow-on Package of Measures in February 2015 to implement the Minsk agreements. Representatives from Ukraine, Russia, the unrecognized Russian proxy republics, and the Organization for Security and Cooperation in Europe also meet regularly to facilitate implementation of the peace deal. By early 2022, more than 14,000 civilians were killed or wounded as a result of the Russian intervention in eastern Ukraine.<br><br>On 24 February 2022, Russia escalated its conflict with Ukraine by invading the country on several fronts in what has become the largest conventional military attack on a sovereign state in Europe since World War II. The invasion has received near universal international condemnation, and many countries have imposed sanctions on Russia and also supplied humanitarian and military aid to Ukraine. The invasion has also created Europe's largest refugee crisis since World War II. As of 12 July, approximately 9.14 million people had fled Ukraine, and 6.275 million people were internally displaced as of 23 June.  Over 11,500 civilian casualties had been reported, as of 11 July.</p> <p> </p><br>
+<p>Ukraine was the center of the first eastern Slavic state, Kyivan Rus, which during the 10th and 11th centuries was the largest and most powerful state in Europe. Weakened by internecine quarrels and Mongol invasions, Kyivan Rus was incorporated into the Grand Duchy of Lithuania and eventually into the Polish-Lithuanian Commonwealth. The cultural and religious legacy of Kyivan Rus laid the foundation for Ukrainian nationalism through subsequent centuries. A new Ukrainian state, the Cossack Hetmanate, was established during the mid-17th century after an uprising against the Poles. Despite continuous Muscovite pressure, the Hetmanate managed to remain autonomous for well over 100 years. During the latter part of the 18th century, most Ukrainian ethnographic territory was absorbed by the Russian Empire. Following the collapse of czarist Russia in 1917, Ukraine achieved a short-lived period of independence (1917-20), but was reconquered and endured a brutal Soviet rule that engineered two forced famines (1921-22 and 1932-33) in which over 8 million died. In World War II, German and Soviet armies were responsible for 7 to 8 million more deaths. Although Ukraine achieved independence in 1991 with the dissolution of the USSR, democracy and prosperity remained elusive as the legacy of state control and endemic corruption stalled efforts at economic reform, privatization, and civil liberties.</p> <p>A peaceful mass protest referred to as the "Orange Revolution" in the closing months of 2004 forced the authorities to overturn a rigged presidential election and to allow a new internationally monitored vote that swept into power a reformist slate under Viktor YUSHCHENKO. Subsequent internal squabbles in the YUSHCHENKO camp allowed his rival Viktor YANUKOVYCH to stage a comeback in parliamentary (Rada) elections, become prime minister in August 2006, and be elected president in February 2010. In October 2012, Ukraine held Rada elections, widely criticized by Western observers as flawed due to use of government resources to favor ruling party candidates, interference with media access, and harassment of opposition candidates. President YANUKOVYCH's backtracking on a trade and cooperation agreement with the EU in November 2013 - in favor of closer economic ties with Russia - and subsequent use of force against students, civil society activists, and other civilians in favor of the agreement led to a three-month protest occupation of Kyiv's central square. The government's use of violence to break up the protest camp in February 2014 led to all out pitched battles, scores of deaths, international condemnation, a failed political deal, and the president's abrupt departure for Russia. New elections in the spring allowed pro-West president Petro POROSHENKO to assume office in June 2014; he was succeeded by Volodymyr ZELENSKY in May 2019.</p> <p>Shortly after YANUKOVYCH's departure in late February 2014, Russian President PUTIN ordered the invasion of Ukraine's Crimean Peninsula falsely claiming the action was to protect ethnic Russians living there. Two weeks later, a "referendum" was held regarding the integration of Crimea into the Russian Federation. The "referendum" was condemned as illegitimate by the Ukrainian Government, the EU, the US, and the UN General Assembly (UNGA). In response to Russia's illegal annexation of Crimea, 100 members of the UN passed UNGA resolution 68/262, rejecting the "referendum" as baseless and invalid and confirming the sovereignty, political independence, unity, and territorial integrity of Ukraine. In mid-2014, Russia began supplying proxies in two of Ukraine's eastern provinces with manpower, funding, and materiel driving an armed conflict with the Ukrainian Government that continues to this day. Representatives from Ukraine, Russia, and the unrecognized Russian proxy republics signed the Minsk Protocol and Memorandum in September 2014 to end the conflict. However, this agreement failed to stop the fighting or find a political solution. In a renewed attempt to alleviate ongoing clashes, leaders of Ukraine, Russia, France, and Germany negotiated a follow-on Package of Measures in February 2015 to implement the Minsk agreements. Representatives from Ukraine, Russia, the unrecognized Russian proxy republics, and the Organization for Security and Cooperation in Europe also meet regularly to facilitate implementation of the peace deal. By early 2022, more than 14,000 civilians were killed or wounded as a result of the Russian intervention in eastern Ukraine.<br><br>On 24 February 2022, Russia escalated its conflict with Ukraine by invading the country on several fronts in what has become the largest conventional military attack on a sovereign state in Europe since World War II. The invasion has received near universal international condemnation, and many countries have imposed sanctions on Russia and also supplied humanitarian and military aid to Ukraine. The invasion has also created Europe's largest refugee crisis since World War II. As of 12 July, approximately 9.17 million people had fled Ukraine, and 6.275 million people were internally displaced as of 23 June.  Over 11,500 civilian casualties had been reported, as of 11 July.</p> <p> </p><br>
 
 ## Geography
 
@@ -223,7 +223,7 @@ _female_: 11.5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2019)<br>
+5.4% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -247,7 +247,7 @@ _female_: 18.5% (2020 est.)<br>
 air and water pollution; land degradation; solid waste management; biodiversity loss; deforestation; radiation contamination in the northeast from 1986 accident at Chornobyl' Nuclear Power Plant<br>
 
 **Environment - international agreements**<br>
-_party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic- Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
+_party to_: Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic-Environmental Protection, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Convention, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Wetlands<br>
 _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds<br>
 
 **Air pollutants**<br>
@@ -560,50 +560,39 @@ hryvnia (UAH) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-153.6 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 56.816 million kW (2020 est.)<br>
+_Consumption_: 124,533,790,000 kWh (2019 est.)<br>
+_Exports_: 5.139 billion kWh (2020 est.)<br>
+_Imports_: 2.72 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 16.434 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-133.2 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 37.6% of total installed capacity (2020 est.)<br>
+_Nuclear_: 55.9% of total installed capacity (2020 est.)<br>
+_Solar_: 1.2% of total installed capacity (2020 est.)<br>
+_Wind_: 1.4% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 3.6% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.3% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-3.591 billion kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 23.908 million metric tons (2020 est.)<br>
+_Consumption_: 41.181 million metric tons (2020 est.)<br>
+_Exports_: 61,000 metric tons (2020 est.)<br>
+_Imports_: 17.333 million metric tons (2020 est.)<br>
+_Proven reserves_: 34.375 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-77 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-57.28 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-65% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-23% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-8% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-3% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-32,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-413 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-4,720 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-395 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 57,700 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 248,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 700 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 6,500 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 395 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 63,670 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-233,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 1,828 bbl/day (2015 est.)<br>
@@ -611,20 +600,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 167,000 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-19.73 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 19,511,040,000 cubic meters (2019 est.)<br>
+_Consumption_: 26,413,486,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 10,740,619,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 1,104,355,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-30.92 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 185.686 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 105.929 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 30.365 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 49.392 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-12.97 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-1.104 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 82.571 million Btu/person (2019 est.)<br>
 
 ## Communications
 

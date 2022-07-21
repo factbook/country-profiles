@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The native Taino - who inhabited the island of Hispaniola when Christopher COLUMBUS first landed on it in 1492 - were virtually wiped out by Spanish settlers within 25 years. In the early 17th century, the French established a presence on Hispaniola. In 1697, Spain ceded to the French the western third of the island, which later became Haiti. The French colony, based on forestry and sugar-related industries, became one of the wealthiest in the Caribbean but relied heavily on the forced labor of enslaved Africans and environmentally degrading practices. In the late 18th century, Toussaint L'OUVERTURE led a revolution of Haiti's nearly half a million slaves that ended France's rule on the island. After a prolonged struggle, and under the leadership of Jean-Jacques DESSALINES, Haiti became the first country in the world led by former slaves after declaring its independence in 1804, but it was forced to pay an indemnity of 100 million francs (equivalent to $21 billion USD in March 2022) to France for more than a century and was shunned by other countries for nearly 40 years. On 12 July 1862, the US officially recognized Haiti, but foreign economic influence and internal political instability induced the US to occupy Haiti from 1915-1934. Subsequently, Francois "Papa Doc" DUVALIER and then his son Jean-Claude "Baby Doc" DUVALIER led repressive and corrupt regimes that ruled Haiti in 1957-1971 and 1971-1986, respectively. President Jovenel MOISE was assassinated on 7 July 2021, leading the country further into an extra-constitutional governance structure and contributing to the country’s growing fragility. President MOISE's five-year term would have ended on 7 February 2022; his assassination plunged Haiti deeper into a political crisis that was not anticipated in its constitution. Thus, on 20 July 2021, the Government of Haiti installed Ariel HENRY - whom President MOISE had nominated - as prime minister. As of March 2022, Haiti had no president, no parliamentary quorum, and a dysfunctional high court due to a lack of judges. Haiti has long been plagued by natural disasters. In January 2010, a massive magnitude 7.0 earthquake struck Haiti with an epicenter about 25 km (15 mi) west of the capital, Port-au-Prince. Estimates are that over 300,000 people were killed and some 1.5 million left homeless. The earthquake was assessed as the worst in this region over the last 200 years. A 7.2 magnitude earthquake hit Haiti’s southern peninsula in August 2021, causing well over 2,000 deaths; an estimated 500,000 required emergency humanitarian aid. Haiti is the poorest country in the Western Hemisphere, as well as one of the most unequal in wealth distribution.</p><br>
+<p>The native Taino - who inhabited the island of Hispaniola when Christopher COLUMBUS first landed on it in 1492 - were virtually wiped out by Spanish settlers within 25 years. In the early 17th century, the French established a presence on Hispaniola. In 1697, Spain ceded to the French the western third of the island, which later became Haiti. The French colony, based on forestry and sugar-related industries, became one of the wealthiest in the Caribbean but relied heavily on the forced labor of enslaved Africans and environmentally degrading practices. In the late 18th century, Toussaint L'OUVERTURE led a revolution of Haiti's nearly half a million slaves that ended France's rule on the island. After a prolonged struggle, and under the leadership of Jean-Jacques DESSALINES, Haiti became the first country in the world led by former slaves after declaring its independence in 1804, but it was forced to pay an indemnity of 100 million francs (equivalent to $21 billion USD in March 2022) to France for more than a century and was shunned by other countries for nearly 40 years. On 12 July 1862, the US officially recognized Haiti, but foreign economic influence and internal political instability induced the US to occupy Haiti from 1915-1934. Subsequently, Francois "Papa Doc" DUVALIER and then his son Jean-Claude "Baby Doc" DUVALIER led repressive and corrupt regimes that ruled Haiti in 1957-1971 and 1971-1986, respectively. President Jovenel MOISE was assassinated on 7 July 2021, leading the country further into an extra-constitutional governance structure and contributing to the country’s growing fragility. President MOISE's five-year term would have ended on 7 February 2022; his assassination plunged Haiti deeper into a political crisis that was not anticipated in its constitution. Thus, on 20 July 2021, the Government of Haiti installed Ariel HENRY - whom President MOISE had nominated - as prime minister. As of March 2022, Haiti had no president, no parliamentary quorum, and a dysfunctional high court due to a lack of judges. Haiti has long been plagued by natural disasters. In January 2010, a major 7.0 magnitude earthquake struck Haiti with an epicenter about 25 km (15 mi) west of the capital, Port-au-Prince. Estimates are that over 300,000 people were killed and some 1.5 million left homeless. The earthquake was assessed as the worst in this region over the last 200 years. A 7.2 magnitude earthquake hit Haiti’s southern peninsula in August 2021, causing well over 2,000 deaths; an estimated 500,000 required emergency humanitarian aid. Haiti is the poorest country in the Western Hemisphere, as well as one of the most unequal in wealth distribution.</p><br>
 
 ## Geography
 
@@ -225,7 +225,7 @@ _women married by age 18_: 14.9%<br>
 _men married by age 18_: 1.6% (2017 est.)<br>
 
 **Education expenditures**<br>
-1.7% of GDP (2018)<br>
+1.7% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -530,50 +530,39 @@ _electrification - total population_: 39% (2019)<br>
 _electrification - urban areas_: 60% (2019)<br>
 _electrification - rural areas_: 12% (2019)<br>
 
-**Electricity - production**<br>
-1.023 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 3.453 million kW (2020 est.)<br>
+_Consumption_: 339 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 643 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-406.2 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 85.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.3% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 13.9% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-332,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-82% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-18% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 21,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-21,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -581,20 +570,21 @@ _electrification - rural areas_: 12% (2019)<br>
 **Refined petroleum products - imports**<br>
 20,030 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 3.341 million cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 3.341 million cubic meters (2020 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 3.139 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 3.137 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 2,000 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 3.97 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -623,7 +613,7 @@ _percent of population_: 35% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 31,000 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.27 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.3 (2020 est.)<br>
 
 ## Transportation
 

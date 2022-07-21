@@ -579,50 +579,39 @@ _electrification - total population_: 62% (2019)<br>
 _electrification - urban areas_: 91% (2019)<br>
 _electrification - rural areas_: 30% (2019)<br>
 
-**Electricity - production**<br>
-29.35 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 11.691 million kW (2020 est.)<br>
+_Consumption_: 24,611,480,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 4.713 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-24.72 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 78.1% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.2% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 21.7% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.1% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 44,000 metric tons (2020 est.)<br>
+_Consumption_: 85,000 metric tons (2020 est.)<br>
+_Exports_: 12,000 metric tons (2020 est.)<br>
+_Imports_: 77,000 metric tons (2020 est.)<br>
+_Proven reserves_: 344 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-10.52 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-80% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-19% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-1.989 million bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-2.096 million bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-37.45 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 1,646,900 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 483,100 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 1,889,100 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 36.89 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 35,010 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-325,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 2,332 bbl/day (2015 est.)<br>
@@ -630,20 +619,21 @@ _electrification - rural areas_: 30% (2019)<br>
 **Refined petroleum products - imports**<br>
 223,400 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-44.48 billion cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 46,296,835,000 cubic meters (2019 est.)<br>
+_Consumption_: 18,787,602,000 cubic meters (2019 est.)<br>
+_Exports_: 27,509,177,000 cubic meters (2019 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 5,760,883,000,000 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-17.24 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 104.494 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 231,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 67.406 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 36.856 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-27.21 billion cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-5.475 trillion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 8.466 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -672,7 +662,7 @@ _percent of population_: 36% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 65,313 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.03 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.03 (2020 est.)<br>
 
 ## Transportation
 
@@ -775,7 +765,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 <p><em>Nigeria-Benin</em>: none identified</p> <p><em>Nigeria-Cameroon</em>: Joint Border Commission with Cameroon reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a phaseout of Nigerian control within two years while resolving patriation issues; demarcation of the Bakassi Peninsula and adjoining border areas should be finalized in 2022; as Lake Chad’s evaporation exposed dry land, only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries</p> <p><em>Nigeria-Cameroon-Equatorial Guinea</em>: the ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but imprecisely defined coordinates in the ICJ decision and a sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River all contribute to the delay in implementation</p> <p><em>Nigeria-Niger</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 78,077 (Cameroon) (2022)<br>
+_refugees (country of origin)_: 78,321 (Cameroon) (2022)<br>
 _IDPs_: 3,030,544 (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2022)<br>
 
 **Trafficking in persons**<br>

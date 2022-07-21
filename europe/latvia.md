@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Several eastern Baltic tribes merged in medieval times to form the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.). The region subsequently came under the control of Germans, Poles, Swedes, and finally, Russians. A Latvian republic emerged following World War I, but it was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. Latvia reestablished its independence in 1991 following the breakup of the Soviet Union. Although the last Russian troops left in 1994, the status of the Russian minority (some 26% of the population) remains of concern to Moscow. Latvia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone in 2014 and the OECD in 2016. A dual citizenship law was adopted in 2013, easing naturalization for non-citizen children.<br>
+Several eastern Baltic tribes merged in medieval times to form the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.). The region subsequently came under the control of Germans, Poles, Swedes, and finally, Russians. A Latvian republic emerged following World War I, but it was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. Latvia reestablished its independence in 1991 following the breakup of the Soviet Union. Although the last Russian troops left in 1994, the status of the Russian minority (some 25% of the population) remains of concern to Moscow. Latvia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone in 2014 and the OECD in 2016. A dual citizenship law was adopted in 2013, easing naturalization for non-citizen children.<br>
 
 ## Geography
 
@@ -216,7 +216,7 @@ _female_: 23.7% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.2% of GDP (2018)<br>
+4.2% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -537,50 +537,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-6.241 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 3.089 million kW (2020 est.)<br>
+_Consumption_: 6.706 billion kWh (2020 est.)<br>
+_Exports_: 2.548 billion kWh (2020 est.)<br>
+_Imports_: 4.173 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 377 million kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-6.798 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 33.4% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.1% of total installed capacity (2020 est.)<br>
+_Wind_: 3.2% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 47.5% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 15.9% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-3.795 billion kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 39,000 metric tons (2020 est.)<br>
+_Exports_: 3,000 metric tons (2020 est.)<br>
+_Imports_: 40,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-4.828 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-2.932 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-39% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-53% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-8% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 1,600 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 39,900 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-44,600 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 16,180 bbl/day (2017 est.)<br>
@@ -588,20 +577,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 54,370 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 1,067,798,000 cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 1,067,798,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-1.218 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 8.45 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 149,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 5.693 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 2.608 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-1.246 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 86.645 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -719,7 +709,7 @@ Latvia became a member of NATO in 2004<br> <p>since 2017, Latvia has hosted a Ca
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,201 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 34,738 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 209,168 (mid-year 2021); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

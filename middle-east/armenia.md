@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Armenia prides itself on being the first nation to formally adopt Christianity (early 4th century). Despite periods of autonomy, over the centuries Armenia came under the sway of various empires including the Roman, Byzantine, Arab, Persian, and Ottoman. During World War I in the western portion of Armenia, the Ottoman Empire instituted a policy of forced resettlement coupled with other harsh practices that resulted in at least 1 million Armenian deaths - actions widely recognized as constituting genocide. The eastern area of Armenia was ceded by the Ottomans to Russia in 1828; this portion declared its independence in 1918, but was conquered by the Soviet Red Army in 1920.</p> <p>Armenia remains involved in the protracted struggle with Azerbaijan over control of Nagorno-Karabakh, a primarily ethnic Armenian region that Moscow recognized in 1923 as an autonomous oblast within Soviet Azerbaijan. In the late Soviet period, a separatist movement developed that sought to end Azerbaijani control over the region. Fighting over Nagorno-Karabakh began in 1988 and escalated after Armenia and Azerbaijan attained independence from the Soviet Union in 1991. By the time a cease-fire took effect in May 1994, separatists, with Armenian support, controlled Nagorno‑Karabakh and seven surrounding Azerbaijani territories. Following the Second Nagorno-Karabakh War that took place in September-November 2020, Armenia lost control over much of the territory it had captured a quarter century earlier. Under the terms of a cease-fire agreement signed in November 2020, Armenia returned to Azerbaijan the remaining territories it occupied and some parts of the Nagorno-Karabakh region, including the key city that Armenians call Shushi and Azerbaijanis call Shusha.</p> <p>Turkey closed the common border with Armenia in 1993 in support of Azerbaijan in its conflict with Armenia over control of Nagorno-Karabakh and surrounding areas, further hampering Armenian economic growth. In 2009, Armenia and Turkey signed Protocols normalizing relations between the two countries, but neither country ratified the Protocols, and Armenia officially withdrew from the Protocols in March 2018. In 2015, Armenia joined the Eurasian Economic Union alongside Russia, Belarus, Kazakhstan, and Kyrgyzstan. In November 2017, Armenia signed a Comprehensive and Enhanced Partnership Agreement (CEPA) with the EU.</p> <p>In spring 2018, former President of Armenia (2008-18) Serzh SARGSIAN of the Republican Party of Armenia (RPA) tried to extend his time in power by becoming prime minister, prompting popular protests that became known as the “Velvet Revolution” after SARGSIAN was forced to resign. The leader of the protests, Civil Contract party chief Nikol PASHINYAN, was elected by the National Assembly as the new prime minister on 8 May 2018. Pashinyan’s party prevailed in an early legislative election in December 2018, and he was reelected as prime minister. </p><br>
+<p>Armenia prides itself on being the first nation to formally adopt Christianity (early 4th century). Despite periods of autonomy, over the centuries Armenia came under the sway of various empires including the Roman, Byzantine, Arab, Persian, and Ottoman. During World War I in the western portion of Armenia, the Ottoman Empire instituted a policy of forced resettlement coupled with other harsh practices that resulted in at least 1 million Armenian deaths - actions widely recognized as constituting genocide. The eastern area of Armenia was ceded by the Ottomans to Russia in 1828; this portion declared its independence in 1918, but was conquered by the Soviet Red Army in 1920.</p> <p>Armenia remains involved in the protracted struggle with Azerbaijan over control of Nagorno-Karabakh, a primarily ethnic Armenian region that Moscow recognized in 1923 as an autonomous oblast within Soviet Azerbaijan. In the late Soviet period, a separatist movement developed that sought to end Azerbaijani control over the region. Fighting over Nagorno-Karabakh began in 1988 and escalated after Armenia and Azerbaijan attained independence from the Soviet Union in 1991. By the time a cease-fire took effect in May 1994, separatists, with Armenian support, controlled Nagorno‑Karabakh and seven surrounding Azerbaijani territories. Following the Second Nagorno-Karabakh War in September-November 2020, Armenia lost control over much of the territory it had captured a quarter century earlier. Under the terms of a cease-fire agreement signed in November 2020, Armenia returned to Azerbaijan the remaining territories it occupied and some parts of the Nagorno-Karabakh region, including the key city that Armenians call Shushi and Azerbaijanis call Shusha.</p> <p>Turkey closed the common border with Armenia in 1993 in support of Azerbaijan in its conflict with Armenia over control of Nagorno-Karabakh and surrounding areas, further hampering Armenian economic growth. In 2009, Armenia and Turkey signed Protocols normalizing relations between the two countries, but neither country ratified the Protocols, and Armenia officially withdrew from the Protocols in March 2018. In 2015, Armenia joined the Eurasian Economic Union alongside Russia, Belarus, Kazakhstan, and Kyrgyzstan. In November 2017, Armenia signed a Comprehensive and Enhanced Partnership Agreement (CEPA) with the EU.</p> <p>In spring 2018, former President of Armenia (2008-18) Serzh SARGSIAN of the Republican Party of Armenia (RPA) tried to extend his time in power by becoming prime minister, prompting popular protests that became known as the “Velvet Revolution” after SARGSIAN was forced to resign. The leader of the protests, Civil Contract party chief Nikol PASHINYAN, was elected by the National Assembly as the new prime minister on 8 May 2018. PASHINYAN’s party prevailed in an early legislative election in December 2018, and he was reelected as prime minister. </p><br>
 
 ## Geography
 
@@ -217,7 +217,7 @@ _women married by age 18_: 5.3%<br>
 _men married by age 18_: 0.4% (2016 est.)<br>
 
 **Education expenditures**<br>
-2.7% of GDP (2020)<br>
+2.7% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -534,50 +534,39 @@ drams (AMD) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-6.951 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 3.633 million kW (2020 est.)<br>
+_Consumption_: 5,758,470,000 kWh (2019 est.)<br>
+_Exports_: 1.251 billion kWh (2020 est.)<br>
+_Imports_: 320 million kWh (2020 est.)<br>
+_Transmission/distribution losses_: 548 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-5.291 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 40.6% of total installed capacity (2020 est.)<br>
+_Nuclear_: 34.8% of total installed capacity (2020 est.)<br>
+_Solar_: 0.3% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 24.3% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-1.424 billion kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 12,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 12,000 metric tons (2020 est.)<br>
+_Proven reserves_: 163 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-275 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-4.08 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-58% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-9% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-32% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 10,900 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-8,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -585,20 +574,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 7,145 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 2,537,497,000 cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 2,514,220,000 cubic meters (2019 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-2.35 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 6.354 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 12,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1.364 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 4.978 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-2.35 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 53.019 million Btu/person (2019 est.)<br>
 
 ## Communications
 

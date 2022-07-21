@@ -212,7 +212,7 @@ _female_: 19.6% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.9% of GDP (2018)<br>
+4.9% of GDP (2018 est.)<br>
 
 **Literacy**<br>
 _definition_: NA<br>
@@ -533,50 +533,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-15.46 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 4.062 million kW (2020 est.)<br>
+_Consumption_: 13.447 billion kWh (2020 est.)<br>
+_Exports_: 9.123 billion kWh (2020 est.)<br>
+_Imports_: 7.12 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 848 million kWh (2020 est.)<br>
 
-**Electricity - consumption**<br>
-13.4 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 27.2% of total installed capacity (2020 est.)<br>
+_Nuclear_: 36.8% of total installed capacity (2020 est.)<br>
+_Solar_: 2.2% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 32% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.7% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-7.972 billion kWh (2017 est.)<br>
+**Coal**<br>
+_Production_: 3.175 million metric tons (2020 est.)<br>
+_Consumption_: 3.502 million metric tons (2020 est.)<br>
+_Exports_: 3,000 metric tons (2020 est.)<br>
+_Imports_: 335,000 metric tons (2020 est.)<br>
+_Proven reserves_: 371 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-8.359 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-3.536 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-37% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-20% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-34% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-9% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-5 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 54,900 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-52,140 bbl/day (2017 est.)<br>
 
 **Refined petroleum products - exports**<br>
 29,350 bbl/day (2017 est.)<br>
@@ -584,20 +573,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 93,060 bbl/day (2017 est.)<br>
 
-**Natural gas - production**<br>
-8 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 4.899 million cubic meters (2020 est.)<br>
+_Consumption_: 904.439 million cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2020 est.)<br>
+_Imports_: 903.108 million cubic meters (2020 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-906.1 million cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 13.553 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 4.08 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 7.967 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 1.506 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-2.832 million cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-906.1 million cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-(2017 est.) NA cu m<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 134.836 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -667,7 +657,7 @@ _total_: 38,985 km (2012)<br>
 _paved_: 38,985 km (2012) (includes 769 km of expressways)<br>
 
 **Waterways**<br>
-(2012) (some transport on the Drava River)<br>
+710 km (2022) (some transport on the Drava River)<br>
 
 **Merchant marine**<br>
 _total_: 9<br>
@@ -700,7 +690,7 @@ note - as of 2019, women comprised about 15% of the military's full-time personn
 
 **Military deployments**<br>
 200 Kosovo (NATO) (2022)<br>
-note - Slovenia also has about 50 troops in Latvia supporting the NATO forward deployment presence in eastern Europe<br>
+<strong>note:</strong> Slovenia also has about 50 troops in Latvia supporting the NATO forward deployment presence in eastern Europe<br>
 
 **Military - note**<br>
 Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air policing mission for Slovenia&rsquo;s airspace (2022)<br>
@@ -711,9 +701,9 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,962 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 6,962 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>541,914 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
+<strong>note:  </strong>541,972 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

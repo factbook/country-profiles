@@ -360,7 +360,7 @@ _election results_: Milo DJUKANOVIC elected president in the first round; percen
 **Legislative branch**<br>
 _description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 30 August 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party/coalition - DPS 35.1%, ZBCG 32.6%, MNIM 12.5%, URA 5.5%, SD 4.1%, BS 3.9%, SDP 3.1%, AL 1.6%, AK 1.1%, other 0.4%; seats by party/coalition - DPS 30, ZBCG 27, MNIM 10, URA 4, BS 3, SD 3, SDP 2, AL 1, AK 1.; composition - men 57, women 24, percent of women 29.6%<br>
+_election results_: percent of vote by party/coalition - DPS 35.1%, ZBCG 32.6%, MNIM 12.5%, URA 5.5%, SD 4.1%, BS 3.9%, SDP 3.1%, AL 1.6%, Albanian Coalition 1.1%, other 0.4%; seats by party/coalition - DPS 30, ZBCG 27, MNIM 10, URA 4, BS 3, SD 3, SDP 2, AL 1, Albanian Coalition 1.; composition - men 57, women 24, percent of women 29.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Vrhovni Sud (consists of the court president, deputy president, and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)<br>
@@ -368,7 +368,7 @@ _judge selection and term of office_: Supreme Court president proposed by genera
 _subordinate courts_: Administrative Courts; Appellate Court; Commercial Courts; High Courts; basic courts<br>
 
 **Political parties and leaders**<br>
-Albanian Alternative or AA [Nik DJELOSAJ]<br>Albanian Coalition (includes DP, DSCG, DUA)<br>Albanian Coalition Perspective or AKP<br>Albanian List (coalition includes AA, Forca, AKP, DSA)<br>Bosniak Party or BS [Rafet HUSOVIC]<br>Croatian Civic Initiative or HGI [Adrian VUKSANOVIC]<br>Croatian Reform Party [Marija VUCINOVIC]<br>Democratic Alliance or DEMOS [Miodrag LEKIC]<br>Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)<br>Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br>Democratic League of Albanians or DSA<br>Democratic Montenegro or DCG [Aleksa BECIC]<br>Democratic Party or DP [Fatmir GJEKA]<br>Democratic Party of Socialists or DPS [Milo DJUKANOVIC]<br>Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC]<br>Democratic People's Party or DNP [Milan KNEZEVIC]<br>Democratic Serb Party or DSS [Dragica PEROVIC]<br>Democratic Union of Albanians or DUA [Mehmet ZENKA]<br>For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP)<br>In Black and White [Dritan ABAZOVIC]<br>Liberal Party or LP [Andrija POPOVIC]<br>Movement for Change or PZP [Nebojsa MEDOJEVIC]<br>New Democratic Power or FORCA [Nazif CUNGU]<br>New Serb Democracy or NOVA [Andrija MANDIC]<br>Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC]<br>Peace is Our Nation or MNIM [Alexa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI)<br>Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties)<br>Social Democratic Party or SDP [Ranko KRIVOKAPIC]<br>Social Democrats or SD [Ivan BRAJOVIC]<br>Socialist People's Party or SNP [Vladimir JOKOVIC]<br>True Montenegro or PRAVA [Marko MILACIC]<br>United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br>United Reform Action or URA [Dritan ABAZOVIC]<br>Workers' Party or RP [Maksim VUCINIC]<br>
+Albanian Alternative or AA [Nik DJELOSAJ]<br>Albanian Coalition (includes DP, DSCG, DUA)<br>Albanian Coalition Perspective or AKP<br>Albanian List or AL (coalition includes AA, Forca, AKP, DSA)<br>Bosniak Party or BS [Rafet HUSOVIC]<br>Croatian Civic Initiative or HGI [Adrian VUKSANOVIC]<br>Croatian Reform Party [Marija VUCINOVIC]<br>Democratic Alliance or DEMOS [Miodrag LEKIC]<br>Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)<br>Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br>Democratic League of Albanians or DSA<br>Democratic Montenegro or DCG [Aleksa BECIC]<br>Democratic Party or DP [Fatmir GJEKA]<br>Democratic Party of Socialists or DPS [Milo DJUKANOVIC]<br>Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC]<br>Democratic People's Party or DNP [Milan KNEZEVIC]<br>Democratic Serb Party or DSS [Dragica PEROVIC]<br>Democratic Union of Albanians or DUA [Mehmet ZENKA]<br>For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP)<br>In Black and White [Dritan ABAZOVIC]<br>Liberal Party or LP [Andrija POPOVIC]<br>Movement for Change or PZP [Nebojsa MEDOJEVIC]<br>New Democratic Power or FORCA [Nazif CUNGU]<br>New Serb Democracy or NOVA [Andrija MANDIC]<br>Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC]<br>Peace is Our Nation or MNIM [Alexa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI)<br>Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties)<br>Social Democratic Party or SDP [Ranko KRIVOKAPIC]<br>Social Democrats or SD [Ivan BRAJOVIC]<br>Socialist People's Party or SNP [Vladimir JOKOVIC]<br>True Montenegro or PRAVA [Marko MILACIC]<br>United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br>United Reform Action or URA [Dritan ABAZOVIC]<br>Workers' Party or RP [Maksim VUCINIC]<br>
 
 **International organization participation**<br>
 CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -553,50 +553,39 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-3.045 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 1.007 million kW (2020 est.)<br>
+_Consumption_: 3,246,760,000 kWh (2019 est.)<br>
+_Exports_: 943 million kWh (2019 est.)<br>
+_Imports_: 1.196 billion kWh (2019 est.)<br>
+_Transmission/distribution losses_: 493 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-2.808 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 42.3% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0% of total installed capacity (2020 est.)<br>
+_Wind_: 10.5% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 47.2% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-914 million kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 1.456 million metric tons (2020 est.)<br>
+_Consumption_: 1.351 million metric tons (2020 est.)<br>
+_Exports_: 96,000 metric tons (2020 est.)<br>
+_Imports_: 1,000 metric tons (2020 est.)<br>
+_Proven reserves_: 142 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-1.21 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-890,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-23% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-69% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-8% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 7,600 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-6,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 357 bbl/day (2015 est.)<br>
@@ -604,20 +593,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 6,448 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 2.447 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 1.333 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1.114 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (2016 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 77.286 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -724,7 +714,7 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 9,394 (Ukraine) (as of 5 July 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 22,598 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
+<strong>note:</strong> 22,793 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

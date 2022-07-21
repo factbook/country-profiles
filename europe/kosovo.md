@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The central Balkans were part of the Roman and Byzantine Empires before ethnic Serbs migrated to the territories of modern Kosovo in the 7th century. During the medieval period, Kosovo became the center of a Serbian Empire and saw the construction of many important Serb religious sites, including many architecturally significant Serbian Orthodox monasteries. The defeat of Serbian forces at the Battle of Kosovo in 1389 led to five centuries of Ottoman rule during which large numbers of Turks and Albanians moved to Kosovo. By the end of the 19th century, Albanians replaced Serbs as the dominant ethnic group in Kosovo. Serbia reacquired control over the region from the Ottoman Empire during the First Balkan War of 1912. After World War II, Kosovo's present-day boundaries were established when Kosovo became an autonomous province of Serbia in the Socialist Federal Republic of Yugoslavia (S.F.R.Y.). Despite legislative concessions, Albanian nationalism increased in the 1980s, which led to riots and calls for Kosovo's independence. The Serbs - many of whom viewed Kosovo as their cultural heartland - instituted a new constitution in 1989 revoking Kosovo's autonomous status. Kosovo's Albanian leaders responded in 1991 by organizing a referendum declaring Kosovo independent. Serbia undertook repressive measures against the Kosovar Albanians in the 1990s, provoking a Kosovar Albanian insurgency.</p> <p>Beginning in 1998, Serbia conducted a brutal counterinsurgency campaign that resulted in massacres and massive expulsions of ethnic Albanians (some 800,000 ethnic Albanians were forced from their homes in Kosovo). After international attempts to mediate the conflict failed, a three-month NATO military operation against Serbia beginning in March 1999 forced the Serbs to agree to withdraw their military and police forces from Kosovo. UN Security Council Resolution 1244 (1999) placed Kosovo under a transitional administration, the UN Interim Administration Mission in Kosovo (UNMIK), pending a determination of Kosovo's future status. A UN-led process began in late 2005 to determine Kosovo's final status. The 2006-07 negotiations ended without agreement between Belgrade and Pristina, though the UN issued a comprehensive report on Kosovo's final status that endorsed independence. On 17 February 2008, the Kosovo Assembly declared Kosovo independent. Since then, close to 100 countries have recognized Kosovo, and it has joined numerous international organizations. In October 2008, Serbia sought an advisory opinion from the International Court of Justice (ICJ) on the legality under international law of Kosovo's declaration of independence. The ICJ released the advisory opinion in July 2010 affirming that Kosovo's declaration of independence did not violate general principles of international law, UN Security Council Resolution 1244, or the Constitutive Framework. The opinion was closely tailored to Kosovo's unique history and circumstances.</p> <p>Demonstrating Kosovo’s development into a sovereign, multi-ethnic, democratic country the international community ended the period of Supervised Independence in 2012. Kosovo held its most recent national and municipal elections in 2021, ushering in a government led by the Self-Determination Movement's (VV) Albin KURTI, a former political prisoner who did not fight in the 1998-99 war. Serbia continues to reject Kosovo's independence, but the two countries agreed in April 2013 to normalize their relations through EU-facilitated talks, which produced several subsequent agreements the parties are implementing to varying degrees, though they have not yet reached a comprehensive normalization of relations. Kosovo has pursued bilateral recognitions and memberships in international organizations, moves that Serbia strongly opposes. Kosovo signed a Stabilization and Association Agreement with the EU in 2015, and the EU named Kosovo as among the six Western Balkan countries that will be able to join the organization once it meets the criteria to accede. Kosovo also seeks memberships in the UN and in NATO.</p><br>
+<p>The central Balkans were part of the Roman and Byzantine Empires before ethnic Serbs migrated to the territories of modern Kosovo in the 7th century. During the medieval period, Kosovo became the center of a Serbian Empire and saw the construction of many important Serb religious sites, including many architecturally significant Serbian Orthodox monasteries. The defeat of Serbian forces at the Battle of Kosovo in 1389 led to five centuries of Ottoman rule during which large numbers of Turks and Albanians moved to Kosovo. By the end of the 19th century, Albanians replaced Serbs as the dominant ethnic group in Kosovo. Serbia reacquired control over the region from the Ottoman Empire during the First Balkan War of 1912. After World War II, Kosovo's present-day boundaries were established when Kosovo became an autonomous province of Serbia in the Socialist Federal Republic of Yugoslavia (S.F.R.Y.). Despite legislative concessions, Albanian nationalism increased in the 1980s, which led to riots and calls for Kosovo's independence. The Serbs - many of whom viewed Kosovo as their cultural heartland - instituted a new constitution in 1989 revoking Kosovo's autonomous status. Kosovo's Albanian leaders responded in 1991 by organizing a referendum declaring Kosovo independent. Serbia undertook repressive measures against the Kosovar Albanians in the 1990s, provoking a Kosovar Albanian insurgency.</p> <p>Beginning in 1998, Serbia conducted a brutal counterinsurgency campaign that resulted in massacres and massive expulsions of ethnic Albanians (some 800,000 ethnic Albanians were forced from their homes in Kosovo). After international attempts to mediate the conflict failed, a three-month NATO military operation against Serbia beginning in March 1999 forced the Serbs to agree to withdraw their military and police forces from Kosovo. UN Security Council Resolution 1244 (1999) placed Kosovo under a transitional administration, the UN Interim Administration Mission in Kosovo, pending a determination of Kosovo's future status. A UN-led process began in late 2005 to determine Kosovo's final status. The 2006-07 negotiations ended without agreement between Belgrade and Pristina, though the UN issued a comprehensive report on Kosovo's final status that endorsed independence. On 17 February 2008, the Kosovo Assembly declared Kosovo independent. Since then, close to 100 countries have recognized Kosovo, and it has joined numerous international organizations. In October 2008, Serbia sought an advisory opinion from the International Court of Justice (ICJ) on the legality under international law of Kosovo's declaration of independence. The ICJ released the advisory opinion in July 2010 affirming that Kosovo's declaration of independence did not violate general principles of international law, UN Security Council Resolution 1244, or the Constitutive Framework. The opinion was closely tailored to Kosovo's unique history and circumstances.</p> <p>Demonstrating Kosovo’s development into a sovereign, multi-ethnic, democratic country, the international community ended the period of Supervised Independence in 2012. Kosovo held its most recent national and municipal elections in 2021, ushering in a government led by the Self-Determination Movement's (VV) Albin KURTI, a former political prisoner who did not fight in the 1998-99 war. Serbia continues to reject Kosovo's independence, but the two countries agreed in April 2013 to normalize their relations through EU-facilitated talks, which produced several subsequent agreements the parties are implementing to varying degrees, though they have not yet reached a comprehensive normalization of relations. Kosovo has pursued bilateral recognitions and memberships in international organizations, moves that Serbia strongly opposes. Kosovo signed a Stabilization and Association Agreement with the EU in 2015, and the EU named Kosovo as among the six Western Balkan countries that will be able to join the organization once it meets the criteria to accede. Kosovo also seeks memberships in the UN and in NATO.</p><br>
 
 ## Geography
 
@@ -164,6 +164,9 @@ _unimproved: rural_: rural: NA<br>
 _unimproved: total_: total: NA<br>
 
 **Current Health Expenditure**<br>
+NA<br>
+
+**Physicians density**<br>
 NA<br>
 
 **Sanitation facility access**<br>
@@ -473,50 +476,38 @@ euros (EUR) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-5.638 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 1.424 million kW (2020 est.)<br>
+_Consumption_: 4,860,740,000 kWh (2019 est.)<br>
+_Exports_: 2.715 billion kWh (2020 est.)<br>
+_Imports_: 2.572 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 1.145 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-3.957 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 95.6% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.1% of total installed capacity (2020 est.)<br>
+_Wind_: 1.1% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 3.2% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-885.7 million kWh (2017 est.)<br>
+**Coal**<br>
+_Production_: 8.538 million metric tons (2020 est.)<br>
+_Consumption_: 8.549 million metric tons (2020 est.)<br>
+_Exports_: 9,000 metric tons (2020 est.)<br>
+_Imports_: 20,000 metric tons (2020 est.)<br>
+_Proven reserves_: 1.564 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-557 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-1.573 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-97% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-3% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2017 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (2017 est.) NA<br>
+**Petroleum**<br>
+_Refined petroleum consumption_: 12,800 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-14,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 192 bbl/day (2015 est.)<br>
@@ -524,20 +515,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 14,040 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 8.009 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 6.1 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1.909 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (2017 est.) NA<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 51.462 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -628,5 +620,5 @@ the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support 
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2,004 as a result of violence) (2021)<br>
-<strong>note:</strong> 7,849 estimated refugee and migrant arrivals (January 2015-May 2022)<br>
+<strong>note:</strong> 8,011 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
 

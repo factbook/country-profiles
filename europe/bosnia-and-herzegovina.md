@@ -350,7 +350,7 @@ _judge selection and term of office_: BiH Constitutional Court judges - 4 select
 _subordinate courts_: the Federation has 10 cantonal courts plus a number of municipal courts; the Republika Srpska has a supreme court, 5 district courts, and a number of municipal courts<br>
 
 **Political parties and leaders**<br>
-Alliance for a Better Future of BiH or SBB BiH [Fahrudin RADONCIC]<br>Alliance of Independent Social Democrats or SNSD [Milorad DODIK]<br>Alternative Party for Democratic Activity or A-SDA [Nermin OGRESEVIC] (merged with Independent Bosnian Herzegovinian List to form NES)<br>Croat Peasants' Party or HSS [Mario KARAMATIC]<br>Croatian Christian Democratic Union of Bosnia and Herzegovina or HKDU [Ivan MUSA]<br>Croatian Democratic Union or HDU [Miro GRABOVAC-TITAN]<br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC]<br>Croatian Democratic Union 1990 or HDZ-1990 [Ilija CVITANOVIC]<br>Croatian Party of Rights dr. Ante Starcevic or HSP-AS Bih [Stanko PRIMORAC]<br>Democratic Alliance or DEMOS [Nedeljko CUBRILOVIC]<br>Democratic Front of DF [Zeljko KOMSIC]<br>Democratic Peoples' Alliance or DNS [Nenad NESIC]<br>Independent Bloc or NB [Senad SEPIC]<br>Movement for Democratic Action or PDA [Mirsad KUKIC]<br>People and Justice Party or NiP [elmedin KONAKOVIC]<br>People's European Union of Bosnia and Herzegovina or NES [Nermin OGRESEVIC]<br>Progressive Srpska or NS [Goran DORDIC]<br>Our Party or NS/HC [Edin FORTO]<br>Party for Democratic Action or SDA [Bakir IZETBEGOVIC]<br>Party of Democratic Progress or PDP [Branislav BORENOVIC]<br>People's Democratic Movement or NDP [Dragan CAVIC]<br>Serb Democratic Party or SDS [Mirko SAROVIC]<br>Serb Radical Party-Dr. Vojislav Seselj or SRS-VS [Vojislav SESELJ] (merged with PDP)<br>Social Democratic Party or SDP [Nermin NIKSIC]<br>Socialist Party or SP [Petar DOKIC]<br>United Srpska or US [Nenad STEVANDIC]<br>
+Alliance for a Better Future of BiH or SBB BiH [Fahrudin RADONCIC]<br>Alliance of Independent Social Democrats or SNSD [Milorad DODIK]<br>Alternative Party for Democratic Activity or A-SDA [Nermin OGRESEVIC] (merged with Independent Bosnian Herzegovinian List to form NES)<br>Croat Peasants' Party or HSS [Mario KARAMATIC]<br>Croatian Christian Democratic Union of Bosnia and Herzegovina or HKDU [Ivan MUSA]<br>Croatian Democratic Union or HDU [Miro GRABOVAC-TITAN]<br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC]<br>Croatian Democratic Union 1990 or HDZ-1990 [Ilija CVITANOVIC]<br>Croatian Party of Rights dr. Ante Starcevic or HSP-AS Bih [Stanko PRIMORAC]<br>Democratic Alliance or DEMOS [Nedeljko CUBRILOVIC]<br>Democratic Front of DF [Zeljko KOMSIC]<br>Democratic Peoples' Alliance or DNS [Nenad NESIC]<br>Independent Bloc or NB [Senad SEPIC]<br>Movement for Democratic Action or PDA [Mirsad KUKIC]<br>Our Party or NS/HC [Edin FORTO]<br>People and Justice Party or NiP [Elmedin KONAKOVIC]<br>People's European Union of Bosnia and Herzegovina or NES [Nermin OGRESEVIC]<br>Progressive Srpska or NS [Goran DORDIC]<br>Party for Democratic Action or SDA [Bakir IZETBEGOVIC]<br>Party of Democratic Progress or PDP [Branislav BORENOVIC]<br>People's Democratic Movement or NDP [Dragan CAVIC]<br>Serb Democratic Party or SDS [Mirko SAROVIC]<br>Serb Radical Party-Dr. Vojislav Seselj or SRS-VS [Vojislav SESELJ] (merged with PDP)<br>Social Democratic Party or SDP [Nermin NIKSIC]<br>Socialist Party or SP [Petar DOKIC]<br>United Srpska or US [Nenad STEVANDIC]<br>
 
 **International organization participation**<br>
 BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -537,50 +537,39 @@ konvertibilna markas (BAM) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-16.99 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 4.775 million kW (2020 est.)<br>
+_Consumption_: 11,657,450,000 kWh (2019 est.)<br>
+_Exports_: 7.316 billion kWh (2020 est.)<br>
+_Imports_: 3.266 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 1.257 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-11.87 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 62.8% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.3% of total installed capacity (2020 est.)<br>
+_Wind_: 1.5% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 35.4% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.1% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-6.007 billion kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 6.966 million metric tons (2020 est.)<br>
+_Consumption_: 7.752 million metric tons (2020 est.)<br>
+_Exports_: 525,000 metric tons (2020 est.)<br>
+_Imports_: 1.366 million metric tons (2020 est.)<br>
+_Proven reserves_: 2.264 billion metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-3.084 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-4.676 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-49% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-51% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-18,480 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 34,700 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 13,900 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-32,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 4,603 bbl/day (2015 est.)<br>
@@ -588,20 +577,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 18,280 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 218.266 million cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 218.266 million cubic meters (2019 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-226.5 million cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 16.209 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 10.923 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 4.871 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 415,000 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-226.5 million cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 71.815 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -675,7 +665,7 @@ _paved_: 19,426 km (2010) (4,652 km of interurban roads)<br>
 _unpaved_: 3,500 km (2010)<br>
 
 **Waterways**<br>
-(2011) (Sava River on northern border; open to shipping but use limited)<br>
+990 km (2022) (Sava River on northern border; open to shipping but use limited)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Bosanska Gradiska, Bosanski Brod, Bosanski Samac, Brcko, Orasje (Sava River)<br>
@@ -720,7 +710,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 92,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2021)<br>
 _stateless persons_: 149 (mid-year 2021)<br>
-<strong>note:</strong> 93,575 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
+<strong>note:</strong> 95,237 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

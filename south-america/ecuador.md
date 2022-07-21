@@ -227,7 +227,7 @@ _women married by age 15_: 3.8%<br>
 _women married by age 18_: 22.2% (2018 est.)<br>
 
 **Education expenditures**<br>
-4.1% of GDP (2020)<br>
+4.1% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -555,50 +555,39 @@ _electrification - total population_: 97% (2019)<br>
 _electrification - urban areas_: 100% (2019)<br>
 _electrification - rural areas_: 93% (2019)<br>
 
-**Electricity - production**<br>
-26.5 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 9.354 million kW (2020 est.)<br>
+_Consumption_: 26,353,430,000 kWh (2019 est.)<br>
+_Exports_: 1.826 billion kWh (2019 est.)<br>
+_Imports_: 6 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 4.303 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-22.68 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 21% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.1% of total installed capacity (2020 est.)<br>
+_Wind_: 0.2% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 77.2% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 1.5% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-211 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 10,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 10,000 metric tons (2020 est.)<br>
+_Proven reserves_: 24 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-82 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-8.192 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-43% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-54% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-517,000 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-383,500 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-8.273 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 478,000 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 259,000 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 349,400 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 8.273 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 137,400 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-265,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 25,870 bbl/day (2015 est.)<br>
@@ -606,20 +595,21 @@ _electrification - rural areas_: 93% (2019)<br>
 **Refined petroleum products - imports**<br>
 153,900 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-477.8 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 342.407 million cubic meters (2019 est.)<br>
+_Consumption_: 342.407 million cubic meters (2019 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 10.902 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-453.1 million cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 36.051 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 45,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 35.329 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 677,000 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-10.9 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 42.564 million Btu/person (2019 est.)<br>
 
 ## Communications
 

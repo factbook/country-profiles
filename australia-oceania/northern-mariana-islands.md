@@ -167,6 +167,9 @@ _unimproved: total_: total: 0% of population (2020 est.)<br>
 **Current Health Expenditure**<br>
 NA<br>
 
+**Physicians density**<br>
+NA<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -189,6 +192,11 @@ NA<br>
 
 **Education expenditures**<br>
 NA<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 ## Environment
 
@@ -416,17 +424,33 @@ refined petroleum, trunks/cases, cars, watches, jewelry (2019)<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-60,600 kWh (2009)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
 
-**Electricity - consumption**<br>
-48,300 kWh (2009)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.) Data represented includes both Guam and Northern Mariana Islands<br>
+_Refined petroleum consumption_: 2,100 bbl/day (2019 est.) Data represented includes both Guam and Northern Mariana Islands<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.) Data represented includes both Guam and Northern Mariana Islands<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.) Data represented includes both Guam and Northern Mariana Islands<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.) Data represented includes both Guam and Northern Mariana Islands<br>
 
-**Electricity - exports**<br>
-0 kWh (2009 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (January 2009 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
+
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 0 Btu/person (2019 est.)<br>
 
 ## Communications
 

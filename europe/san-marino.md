@@ -191,7 +191,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-3.4% of GDP (2019)<br>
+3.4% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _total population_: 99.9%<br>
@@ -317,8 +317,8 @@ CE, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFRCS, ILO, IMF, IMO, In
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Damiano BELEFFI (since 21 July 2017)<br>
-_chancery_: 327 E 50th Street, New York, NY 10022<br><br>Embassy address:<br><br>     1711 North Street, NW (2nd Floor)<br>      Washington, DC 22036<br><br><br>
-_telephone_: [1] (212) 751-1234<br><br><br>[1] (202) 223-24l8<br>[1] (202) 751-1436<br>
+_chancery_: 327 E 50th Street, New York, NY 10022; Embassy address: 1711 North Street NW (2nd Floor), Washington, DC 22036<br>
+_telephone_: [1] (212) 751-1234<br>[1] (202) 223-24l8<br>[1] (202) 751-1436<br>
 _FAX_: [1] (212) 751-1436<br>
 _email address and website_: <br>sanmarinoun@gmail.com<br>
 

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-The archipelago of the Comoros in the Indian Ocean, composed of the islands of Mayotte, Anjouan, Moheli, and Grande Comore declared independence from France on 6 July 1975. Residents of Mayotte voted to remain in France, and France now has classified it as a department of France. Since independence, Comoros has endured political instability through realized and attempted coups. In 1997, the islands of Anjouan and Moheli declared independence from Comoros. In 1999, military chief Col. AZALI Assoumani seized power of the entire government in a bloodless coup; he initiated the 2000 Fomboni Accords, a power-sharing agreement in which the federal presidency rotates among the three islands, and each island maintains its local government. AZALI won the 2002 federal presidential election as president of the Union of the Comoros from Grande Comore Island, which held the first four-year term. AZALI stepped down in 2006 and President Ahmed Abdallah Mohamed SAMBI was elected to office as president from Anjouan. In 2007, Mohamed BACAR effected Anjouan's de-facto secession from the Union of the Comoros, refusing to step down when Comoros' other islands held legitimate elections in July. The African Union (AU) initially attempted to resolve the political crisis by applying sanctions and a naval blockade to Anjouan, but in March 2008 the AU and Comoran soldiers seized the island. The island's inhabitants generally welcomed the move. In 2009, the Comorian population approved a constitutional referendum extending the term of the president from four years to five years. In May 2011, Ikililou DHOININE won the presidency in peaceful elections widely deemed to be free and fair. In closely contested elections in 2016, former President AZALI Assoumani won a second term, when the rotating presidency returned to Grande Comore. A new July 2018 constitution removed the presidential term limits and the requirement for the presidency to rotate between the three main islands. In August 2018, President AZALI formed a new government and subsequently ran and was elected president in March 2019.<br>
+The archipelago of the Comoros in the Indian Ocean, composed of the islands of Mayotte, Anjouan, Moheli, and Grande Comore declared independence from France on 6 July 1975. Residents of Mayotte voted to remain in France, and France now has classified it as a department of France. Since independence, Comoros has endured political instability through realized and attempted coups. In 1997, the islands of Anjouan and Moheli declared independence from Comoros. In 1999, military chief Col. AZALI Assoumani seized power of the entire government in a bloodless coup; he initiated the 2000 Fomboni Accords, a power-sharing agreement in which the federal presidency rotates among the three islands, and each island maintains its local government. AZALI won the 2002 federal presidential election as president of the Union of the Comoros from Grande Comore Island, which held the first four-year term. AZALI stepped down in 2006 and President Ahmed Abdallah Mohamed SAMBI was elected as president from Anjouan. In 2007, Mohamed BACAR effected Anjouan's de-facto secession from the Union of the Comoros, refusing to step down when Comoros' other islands held legitimate elections in July. The African Union (AU) initially attempted to resolve the political crisis by applying sanctions and a naval blockade to Anjouan, but in March 2008 the AU and Comoran soldiers seized the island. The island's inhabitants generally welcomed the move. In 2009, the Comorian population approved a constitutional referendum extending the term of the president from four years to five years. In May 2011, Ikililou DHOININE won the presidency in peaceful elections widely deemed to be free and fair. In closely contested elections in 2016, former President AZALI Assoumani won a second term, when the rotating presidency returned to Grande Comore. A new July 2018 constitution removed the presidential term limits and the requirement for the presidency to rotate between the three main islands. In August 2018, President AZALI formed a new government and subsequently ran and was elected president in March 2019.<br>
 
 ## Geography
 
@@ -209,7 +209,7 @@ _female_: 11.1% (2020 est.)<br>
 16.9% (2012)<br>
 
 **Education expenditures**<br>
-2.5% of GDP (2015)<br>
+2.5% of GDP (2015 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -508,50 +508,39 @@ _electrification - total population_: 70% (2019)<br>
 _electrification - urban areas_: 89% (2019)<br>
 _electrification - rural areas_: 62% (2019)<br>
 
-**Electricity - production**<br>
-42 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 35,000 kW (2020 est.)<br>
+_Consumption_: 96.248 million kWh (2019 est.)<br>
+_Exports_: 0 kWh (2019 est.)<br>
+_Imports_: 0 kWh (2019 est.)<br>
+_Transmission/distribution losses_: 6.048 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-39.06 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 100% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 0% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-27,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-96% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-4% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 2,200 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-1,300 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -559,20 +548,21 @@ _electrification - rural areas_: 62% (2019)<br>
 **Refined petroleum products - imports**<br>
 1,241 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 326,000 metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 326,000 metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 5.346 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -602,7 +592,7 @@ _percent of population_: 8% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,066 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.12 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
 
 ## Transportation
 

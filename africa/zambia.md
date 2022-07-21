@@ -568,50 +568,39 @@ _electrification - total population_: 37% (2019)<br>
 _electrification - urban areas_: 76% (2019)<br>
 _electrification - rural areas_: 6% (2019)<br>
 
-**Electricity - production**<br>
-11.55 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 3.065 million kW (2020 est.)<br>
+_Consumption_: 13,409,685,000 kWh (2019 est.)<br>
+_Exports_: 976 million kWh (2019 est.)<br>
+_Imports_: 198 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 1,811,480,000 kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-11.04 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 13% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.9% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 85.5% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0.5% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-1.176 billion kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 1.116 million metric tons (2020 est.)<br>
+_Consumption_: 1.176 million metric tons (2020 est.)<br>
+_Exports_: 39,000 metric tons (2020 est.)<br>
+_Imports_: 99,000 metric tons (2020 est.)<br>
+_Proven reserves_: 45 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-2.185 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-2.573 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-5% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-93% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-2% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-12,860 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 25,300 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 12,400 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 13,120 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-23,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 371 bbl/day (2015 est.)<br>
@@ -619,20 +608,21 @@ _electrification - rural areas_: 6% (2019)<br>
 **Refined petroleum products - imports**<br>
 10,150 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 6.798 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 3.186 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 3.612 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 11.595 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -662,7 +652,7 @@ _percent of population_: 20% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 82,317 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.5 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.5 (2020 est.)<br>
 
 ## Transportation
 
@@ -749,7 +739,7 @@ the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regime
 <p><em>Zambia-Angola: </em>because the straight-line segments along the left bank (Zambian side) of the Cuando/Kwando River do not conform with the physical alignment of the unstable shoreline, Zambian residents in some areas have settled illegally on sections of shoreline that fall on the Angolan side of the boundary<em><br><br>Zambia-Democratic Republic of Congo(DRC): </em>boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto</p> <p><em>Zambia-Tanzania</em>: some drug smuggling may take place across the Zambia-Tanzania border; there are no known current territorial issues, as both states have continued to recognize the colonial boundaries last modified in 1937; the boundary in Lake Tanganyika remains undefined.<br><br><em>Zambia-Zimbabwe: </em>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; in May 2021, Botswana and Zambia agreed in principle to let Zimbabwe be a partner in the bridge project as it enters its lasts phase</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 65,911 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,240 (Burundi) (2022)<br>
+_refugees (country of origin)_: 65,911 (Democratic Republic of the Congo) (refugees and asylum seekers), 4,265 (Burundi) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>

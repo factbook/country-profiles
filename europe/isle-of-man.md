@@ -167,6 +167,9 @@ _unimproved: total_: total: 0.9% of population (2020)<br>
 **Current Health Expenditure**<br>
 NA<br>
 
+**Physicians density**<br>
+NA<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: NA<br>
 _improved: rural_: rural: NA<br>
@@ -189,6 +192,11 @@ NA<br>
 
 **Education expenditures**<br>
 NA<br>
+
+**Literacy**<br>
+_total population_: NA<br>
+_male_: NA<br>
+_female_: NA<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 10.1%<br>
@@ -452,10 +460,11 @@ _1,524 to 2,437 m_: 1 (2021)<br>
 **Railways**<br>
 _total_: 63 km (2008)<br>
 _narrow gauge_: 6 km (2008) 1.076-m gauge (6 km electrified)<br>
-57 0.914-m gauge (29 km electrified) <strong>note:</strong> primarily summer tourist attractions<br>
+57 0.914-mm gauge (29 km electrified) <strong>note:</strong> primarily summer tourist attractions<br>
 
 **Roadways**<br>
-_total_: 500 km (2008)<br>
+_total_: 1,107 km (2022)<br>
+_paved_: 1,107 km<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Douglas, Ramsey<br>

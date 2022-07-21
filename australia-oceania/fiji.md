@@ -5,7 +5,7 @@ _Australia-Oceania / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Austronesians settled Fiji around 1000 B.C., followed by successive waves of Melanesians starting around the first century A.D. Fijians traded with Polynesian groups in Samoa and Tonga, and by about 900, much of Fiji was in the Tu’i Tongan Empire’s sphere of influence. The Tongan influence declined significantly by 1200 while Melanesian seafarers continued to periodically arrive in Fiji, further mixing Melanesian and Polynesian cultural traditions. Dutch explorer Abel TASMAN was the first European to spot Fiji in 1643, followed by British explorer James COOK in 1774. Captain William BLIGH plotted the islands in 1789. In the 1800s, merchants, traders, and whalers frequented the islands and the first missionaries arrived in 1835. Rival kings and chiefs competed for power, at times aided by Europeans and their weapons, and in 1865, Seru Epenisa CAKOBAU united many groups into the Confederacy of Independent Kingdoms of Viti. The arrangement proved weak and in 1871 CAKOBAU formed the Kingdom of Fiji in an attempt to centralize power. Fearing a hostile takeover by a foreign power as the kingdom’s economy began to falter, CAKOBAU ceded Fiji to the UK in 1874.<br><br>The first British governor set up a plantation-style economy and brought in more than 60,000 Indians as indentured laborers, most of whom chose to stay in Fiji rather than return to India when their contracts expired. In the early 1900s, society was divided along ethnic lines, with iTaukei (indigenous Fijians), Europeans, and Indo-Fijians living in separate areas and maintaining their own languages and traditions. ITaukei fears of an Indo-Fijian takeover of government delayed independence through the 1960s; Fiji achieved independence in 1970 with agreements in place to allocate parliamentary seats by ethnic groups. Long-serving Prime Minister Kamisese MARA largely balanced these ethnic divisions but concerns about growing Indo-Fijian political influence led to two coups in 1987. A new constitution in 1990 cemented iTaukei control of politics, leading thousands of Indo-Fijians to leave. A reformed constitution in 1997 was more equitable and led to the election of an Indo-Fijian prime minister in 1999, who was ousted in a coup the following year. In 2005, the new prime minister put forward a bill that would grant pardons to the coup perpetrators, leading Commodore Josaia BAINIMARAMA to launch a coup in 2006. BAINIMARAMA  appointed himself prime minister in 2007 and continues to hold the position after elections in 2014 and 2018 that international observers deemed credible.<br><br>With well-developed infrastructure, Fiji has become a hub for the Pacific, hosting the secretariat for the Pacific Islands Forum and the main campus of the University of the South Pacific. In addition, Fiji is a center for Pacific tourism, and Nadi International Airport is by far the busiest airport in a Pacific island country.</p><br>
+<p>Austronesians settled Fiji around 1000 B.C., followed by successive waves of Melanesians starting around the first century A.D. Fijians traded with Polynesian groups in Samoa and Tonga, and by about 900, much of Fiji was in the Tu’i Tongan Empire’s sphere of influence. The Tongan influence declined significantly by 1200, while Melanesian seafarers continued to periodically arrive in Fiji, further mixing Melanesian and Polynesian cultural traditions. Dutch explorer Abel TASMAN was the first European to spot Fiji in 1643, followed by British explorer James COOK in 1774. Captain William BLIGH plotted the islands in 1789. In the 1800s, merchants, traders, and whalers frequented the islands and the first missionaries arrived in 1835. Rival kings and chiefs competed for power, at times aided by Europeans and their weapons, and in 1865, Seru Epenisa CAKOBAU united many groups into the Confederacy of Independent Kingdoms of Viti. The arrangement proved weak and in 1871 CAKOBAU formed the Kingdom of Fiji in an attempt to centralize power. Fearing a hostile takeover by a foreign power as the kingdom’s economy began to falter, CAKOBAU ceded Fiji to the UK in 1874.<br><br>The first British governor set up a plantation-style economy and brought in more than 60,000 Indians as indentured laborers, most of whom chose to stay in Fiji rather than return to India when their contracts expired. In the early 1900s, society was divided along ethnic lines, with iTaukei (indigenous Fijians), Europeans, and Indo-Fijians living in separate areas and maintaining their own languages and traditions. ITaukei fears of an Indo-Fijian takeover of government delayed independence through the 1960s; Fiji achieved independence in 1970 with agreements in place to allocate parliamentary seats by ethnic groups. Long-serving Prime Minister Kamisese MARA largely balanced these ethnic divisions, but concerns about growing Indo-Fijian political influence led to two coups in 1987. A new constitution in 1990 cemented iTaukei control of politics, leading thousands of Indo-Fijians to leave. A reformed constitution in 1997 was more equitable and led to the election of an Indo-Fijian prime minister in 1999, who was ousted in a coup the following year. In 2005, the new prime minister put forward a bill that would grant pardons to the coup perpetrators, leading Commodore Josaia BAINIMARAMA to launch a coup in 2006. BAINIMARAMA  appointed himself prime minister in 2007 and continues to hold the position after elections in 2014 and 2018 that international observers deemed credible.<br><br>With well-developed infrastructure, Fiji has become a hub for the Pacific, hosting the secretariat for the Pacific Islands Forum and the main campus of the University of the South Pacific. In addition, Fiji is a center for Pacific tourism, and Nadi International Airport is by far the busiest airport in a Pacific island country.</p><br>
 
 ## Geography
 
@@ -213,7 +213,7 @@ _female_: 10.5% (2020 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2019)<br>
+5.1% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _total population_: 99.1%<br>
@@ -525,50 +525,39 @@ _electrification - total population_: 99.6% (2018)<br>
 _electrification - urban areas_: 100% (2018)<br>
 _electrification - rural areas_: 99.2% (2018)<br>
 
-**Electricity - production**<br>
-914 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 393,000 kW (2020 est.)<br>
+_Consumption_: 1,022,955,000 kWh (2019 est.)<br>
+_Exports_: 0 kWh (2020 est.)<br>
+_Imports_: 0 kWh (2020 est.)<br>
+_Transmission/distribution losses_: 90 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-850 million kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 41.9% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 1.6% of total installed capacity (2020 est.)<br>
+_Wind_: 0.3% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 50.2% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 6% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-0 kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-338,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-34% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-38% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-27% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 11,500 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-16,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -576,20 +565,21 @@ _electrification - rural areas_: 99.2% (2018)<br>
 **Refined petroleum products - imports**<br>
 17,460 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 1.691 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1.691 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 32.901 million Btu/person (2019 est.)<br>
 
 ## Communications
 

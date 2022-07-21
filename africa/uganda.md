@@ -234,7 +234,7 @@ _women married by age 18_: 34%<br>
 _men married by age 18_: 5.5% (2016 est.)<br>
 
 **Education expenditures**<br>
-3% of GDP (2020)<br>
+3% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -569,50 +569,39 @@ _electrification - total population_: 29% (2019)<br>
 _electrification - urban areas_: 66% (2019)<br>
 _electrification - rural areas_: 17% (2019)<br>
 
-**Electricity - production**<br>
-3.463 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 2.397 million kW (2020 est.)<br>
+_Consumption_: 4,207,040,000 kWh (2019 est.)<br>
+_Exports_: 299.2 million kWh (2019 est.)<br>
+_Imports_: 104.2 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 1.157 billion kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-3.106 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 1.3% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 1.6% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 86.4% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 10.8% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-121 million kWh (2015 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 0 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 0 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-50 million kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-1.02 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-19% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-68% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-12% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-2.5 billion bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 40,900 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 2.5 billion barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-32,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -620,20 +609,21 @@ _electrification - rural areas_: 17% (2019)<br>
 **Refined petroleum products - imports**<br>
 31,490 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2021 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 0 cubic meters (2021 est.)<br>
+_Proven reserves_: 14.158 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 5.841 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 0 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 5.841 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 0 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-14.16 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 2.943 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -663,7 +653,7 @@ _percent of population_: 20% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 58,594 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.13 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.1 (2020 est.)<br>
 
 ## Transportation
 
@@ -701,7 +691,7 @@ _paved_: 4,257 km (2017)<br>
 _unpaved_: 16,287 km (2017)<br>
 
 **Waterways**<br>
-(2011) (there are no long navigable stretches of river in Uganda; parts of the Albert Nile that flow out of Lake Albert in the northwestern part of the country are navigable; several lakes including Lake Victoria and Lake Kyoga have substantial traffic; Lake Albert is navigable along a 200-km stretch from its northern tip to its southern shores)<br>
+907 km (2022) (there are no long navigable stretches of river in Uganda; parts of the Albert Nile ( 210 km) that flow out of Lake Albert (160 km) in the northwestern part of the country are navigable; several lakes including Lake Victoria (337 km) and Lake Kyoga (199.5) have substantial traffic; Lake Albert is navigable along a 200-km stretch from its northern tip to its southern shores)<br>
 
 **Ports and terminals**<br>
 _lake port(s)_: Entebbe, Jinja, Port Bell (Lake Victoria)<br>
@@ -747,7 +737,7 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda have begun a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 927,823 (South Sudan) (refugees and asylum seekers), 433,747 (Democratic Republic of the Congo), 59,197 (Somalia) (refugees and asylum seekers), 41,624 (Burundi), 25,915 (Rwanda), 22,505 (Eritrea) (2022)<br>
+_refugees (country of origin)_: 927,823 (South Sudan) (refugees and asylum seekers), 433,747 (Democratic Republic of the Congo), 59,197 (Somalia) (refugees and asylum seekers), 41,624 (Burundi), 26,108 (Rwanda), 24,631 (Eritrea) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Uganda, and traffickers exploit victims from Uganda abroad; young Ugandan children are exploited in forced labor in agriculture, fishing, forestry, cattle herding, mining, stone quarrying, brick making, carpentry, steel manufacturing, street vending, bars, restaurants, gold mining, and domestic service; traffickers exploit girls and boys in commercial sex; most are children from the northeastern region and are exploited in forced begging, commercial sex in brothels, or sold in markets; traffickers compel&nbsp; children from the Democratic Republic of Congo, Rwanda, Burundi, Kenya, Tanzania, and South Sudan into forced agricultural labor and sex trafficking in Uganda; young women most at risk for transnational trafficking seek employment as domestic workers in the Middle East and then are exploited in sex trafficking; traffickers subject Ugandans to forced labor and sex trafficking in UAE, Saudi Arabia, Oman, Qatar, Kuwait, Iraq, Iran, Egypt, Turkey, Algeria, Malaysia, Thailand, Bahrain, Jordan, China, Kenya, and India; traffickers are often relatives, friends of victims, or religious leaders who receive a fee per worker from recruiters<br>

@@ -231,7 +231,7 @@ _women married by age 18_: 24.8%<br>
 _men married by age 18_: 2.6% (2017 est.)<br>
 
 **Education expenditures**<br>
-5% of GDP (2019)<br>
+5% of GDP (2019 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -555,50 +555,39 @@ _electrification - total population_: 43% (2019)<br>
 _electrification - urban areas_: 77% (2019)<br>
 _electrification - rural areas_: 19% (2019)<br>
 
-**Electricity - production**<br>
-232.6 million kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 210,000 kW (2020 est.)<br>
+_Consumption_: 1,180,140,000 kWh (2019 est.)<br>
+_Exports_: 118 million kWh (2019 est.)<br>
+_Imports_: 963 million kWh (2019 est.)<br>
+_Transmission/distribution losses_: 210 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-1.261 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 82.2% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0.6% of total installed capacity (2020 est.)<br>
+_Wind_: 0% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 17.2% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-0 kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 0 metric tons (2020 est.)<br>
+_Consumption_: 46,000 metric tons (2020 est.)<br>
+_Exports_: 0 metric tons (2020 est.)<br>
+_Imports_: 46,000 metric tons (2020 est.)<br>
+_Proven reserves_: 0 metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-1.14 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-230,000 kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-70% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-29% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-1% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-0 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - imports**<br>
-0 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-0 bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 0 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 10,000 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 0 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 0 barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 0 bbl/day (2015 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-15,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 0 bbl/day (2015 est.)<br>
@@ -606,20 +595,21 @@ _electrification - rural areas_: 19% (2019)<br>
 **Refined petroleum products - imports**<br>
 13,100 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-0 cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 0 cubic meters (2021 est.)<br>
+_Consumption_: 0 cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 44.797 million cubic meters (2019 est.)<br>
+_Proven reserves_: 0 cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-0 cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 2.244 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 706,000 metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 1.451 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 87,000 metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-0 cu m (1 January 2014 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 4.113 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -649,7 +639,7 @@ _percent of population_: 24% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 52,706 (2020 est.)<br>
-_subscriptions per 100 inhabitants_: 0.64 (2020 est.) less than 1<br>
+_subscriptions per 100 inhabitants_: 0.6 (2020 est.)<br>
 
 ## Transportation
 
@@ -682,7 +672,7 @@ _total_: 568 km (2014)<br>
 _narrow gauge_: 568 km (2014) 1.000-m gauge<br>
 
 **Roadways**<br>
-_total_: 11,734 km (2018)<br>
+_total_: 9,951 km (2018)<br>
 _paved_: 1,794 km (2018)<br>
 _unpaved_: 8,157 km (2018)<br>
 _urban_: 1,783 km (2018)<br>
@@ -738,9 +728,6 @@ Jama&rsquo;at Nusrat al Islam wal Muslimeen (JNIM)<br>
 
 **Disputes - international**<br>
 <p><em>Togo-Benin</em>: in 2001, Benin claimed Togo moved boundary monuments - joint commission continues to resurvey the boundary; Benin’s and Togo’s Adjrala hydroelectric dam project on the Mona River, proposed in the 1990s, commenced in 2017 with funding from a Chinese bank</p> <p><em>Togo-Burkina Faso</em>: none identified</p> <p><em>Togo-Ghana</em>: none identified</p><br>
-
-**Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,391 (Ghana) (2022)<br>
 
 **Illicit drugs**<br>
 transit hub for Nigerian heroin and cocaine traffickers; money laundering not a significant problem<br>

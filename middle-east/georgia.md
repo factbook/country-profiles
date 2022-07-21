@@ -5,7 +5,7 @@ _Middle East / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The region of present day Georgia contained the ancient kingdoms of Colchis and Kartli-Iberia. The area came under Roman influence in the first centuries A.D., and Christianity became the state religion in the 330s. Domination by Persians, Arabs, and Turks was followed by a Georgian golden age (11th-13th centuries) that was cut short by the Mongol invasion of 1236. Subsequently, the Ottoman and Persian empires competed for influence in the region. Georgia was absorbed into the Russian Empire in the 19th century. Independent for three years (1918-1921) following the Russian revolution, it was forcibly incorporated into the USSR in 1921 and regained its independence when the Soviet Union dissolved in 1991.</p> <p>Mounting public discontent over rampant corruption and ineffective government services, followed by an attempt by the incumbent Georgian Government to manipulate parliamentary elections in November 2003, touched off widespread protests that led to the resignation of Eduard SHEVARDNADZE, president since 1995. In the aftermath of that popular movement, which became known as the "Rose Revolution," new elections in early 2004 swept Mikheil SAAKASHVILI into power along with his United National Movement (UNM) party. SAAKASHVILI made progress on market reforms and good governance during his time in power, but also faced accusations of abuse of office. Progress was also complicated by Russian assistance and support to the separatist regions of Abkhazia and South Ossetia that led to periodic flare-ups in tension and violence and that  culminated in a five-day conflict in August 2008 between Russia and Georgia, including the invasion of large portions of Georgian territory. Russian troops pledged to pull back from most occupied Georgian territory, but in late August 2008 Russia unilaterally recognized the independence of Abkhazia and South Ossetia, and Russian military forces remain in those regions.</p> <p>Billionaire Bidzina IVANISHVILI's unexpected entry into politics in October 2011 brought the divided opposition together under his Georgian Dream coalition, which won a majority of seats in the October 2012 parliamentary elections and removed UNM from power. Conceding defeat, SAAKASHVILI named IVANISHVILI as prime minister and allowed Georgian Dream to create a new government. Giorgi MARGVELASHVILI became president in November 2013, ending a tense year of power-sharing between SAAKASHVILI and IVANISHVILI and SAAKASHVILI then left the country. At the time, these changes in leadership represented unique examples of a former Soviet state that emerged to conduct democratic and peaceful government transitions of power. IVANISHVILI voluntarily resigned from office after the presidential succession, and in the following years, the prime minister position has seen frequent turn over. Most recently, Irakli GARIBASHVILI became prime minister in February 2021, replacing Giorgi GAKHARIA, who later in the year formed his own opposition party. In October 2021, SAAKASHVILI returned to Georgia, where he was immediately arrested to serve six years in prison on outstanding abuse of office convictions. Popular and government support for integration with the West is high in Georgia. Joining the EU and NATO are among the country's top foreign policy goals.</p><br>
+<p>The region of present day Georgia contained the ancient kingdoms of Colchis and Kartli-Iberia. The area came under Roman influence in the first centuries A.D., and Christianity became the state religion in the 330s. Domination by Persians, Arabs, and Turks was followed by a Georgian golden age (11th-13th centuries) that was cut short by the Mongol invasion of 1236. Subsequently, the Ottoman and Persian empires competed for influence in the region. Georgia was absorbed into the Russian Empire in the 19th century. Independent for three years (1918-1921) following the Russian revolution, it was forcibly incorporated into the USSR in 1921 and regained its independence when the Soviet Union dissolved in 1991.</p> <p>Mounting public discontent over rampant corruption and ineffective government services, followed by an attempt by the incumbent Georgian Government to manipulate parliamentary elections in November 2003, touched off widespread protests that led to the resignation of Eduard SHEVARDNADZE, president since 1995. In the aftermath of that popular movement, which became known as the "Rose Revolution," new elections in early 2004 swept Mikheil SAAKASHVILI into power along with his United National Movement (UNM) party. SAAKASHVILI made progress on market reforms and good governance during his time in power, but also faced accusations of abuse of office. Progress was also complicated by Russian assistance and support to the separatist regions of Abkhazia and South Ossetia that led to periodic flare-ups in tension and violence and that culminated in a five-day conflict in August 2008 between Russia and Georgia, including the invasion of large portions of Georgian territory. Russian troops pledged to pull back from most occupied Georgian territory, but in late August 2008 Russia unilaterally recognized the independence of Abkhazia and South Ossetia, and Russian military forces remain in those regions.</p> <p>Billionaire Bidzina IVANISHVILI's unexpected entry into politics in October 2011 brought the divided opposition together under his Georgian Dream coalition, which won a majority of seats in the October 2012 parliamentary elections and removed UNM from power. Conceding defeat, SAAKASHVILI named IVANISHVILI as prime minister and allowed Georgian Dream to create a new government. Giorgi MARGVELASHVILI became president in November 2013, ending a tense year of power-sharing between SAAKASHVILI and IVANISHVILI and SAAKASHVILI then left the country. At the time, these changes in leadership represented unique examples of a former Soviet state that emerged to conduct democratic and peaceful government transitions of power. IVANISHVILI voluntarily resigned from office after the presidential succession, and in the following years, the prime minister position has seen frequent turnover. Most recently, Irakli GARIBASHVILI became prime minister in February 2021, replacing Giorgi GAKHARIA, who later in the year formed his own opposition party. In October 2021, SAAKASHVILI returned to Georgia, where he was immediately arrested to serve six years in prison on outstanding abuse of office convictions. Popular and government support for integration with the West is high in Georgia. Joining the EU and NATO are among the country's top foreign policy goals.</p><br>
 
 ## Geography
 
@@ -218,7 +218,7 @@ _women married by age 18_: 13.9%<br>
 _men married by age 18_: 0.5% (2018 est.)<br>
 
 **Education expenditures**<br>
-3.8% of GDP (2020)<br>
+3.8% of GDP (2020 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -534,50 +534,39 @@ laris (GEL) per US dollar -<br>
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
-**Electricity - production**<br>
-13.24 billion kWh (2016 est.)<br>
+**Electricity**<br>
+_Installed generating capacity_: 4.579 million kW (2020 est.)<br>
+_Consumption_: 12,062,080,000 kWh (2019 est.)<br>
+_Exports_: 256 million kWh (2020 est.)<br>
+_Imports_: 1.712 billion kWh (2020 est.)<br>
+_Transmission/distribution losses_: 918.2 million kWh (2019 est.)<br>
 
-**Electricity - consumption**<br>
-12.37 billion kWh (2016 est.)<br>
+**Electricity generation sources**<br>
+_Fossil fuels_: 25.3% of total installed capacity (2020 est.)<br>
+_Nuclear_: 0% of total installed capacity (2020 est.)<br>
+_Solar_: 0% of total installed capacity (2020 est.)<br>
+_Wind_: 0.8% of total installed capacity (2020 est.)<br>
+_Hydroelectricity_: 73.9% of total installed capacity (2020 est.)<br>
+_Tide and wave_: 0% of total installed capacity (2020 est.)<br>
+_Geothermal_: 0% of total installed capacity (2020 est.)<br>
+_Biomass and waste_: 0% of total installed capacity (2020 est.)<br>
 
-**Electricity - exports**<br>
-560 million kWh (2016 est.)<br>
+**Coal**<br>
+_Production_: 99,000 metric tons (2020 est.)<br>
+_Consumption_: 362,000 metric tons (2020 est.)<br>
+_Exports_: 1,000 metric tons (2020 est.)<br>
+_Imports_: 277,000 metric tons (2020 est.)<br>
+_Proven reserves_: 201 million metric tons (2019 est.)<br>
 
-**Electricity - imports**<br>
-1.329 billion kWh (2016 est.)<br>
-
-**Electricity - installed generating capacity**<br>
-4.641 million kW (2016 est.)<br>
-
-**Electricity - from fossil fuels**<br>
-35% of total installed capacity (2016 est.)<br>
-
-**Electricity - from nuclear fuels**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Electricity - from hydroelectric plants**<br>
-65% of total installed capacity (2017 est.)<br>
-
-**Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br>
-
-**Crude oil - production**<br>
-400 bbl/day (2018 est.)<br>
-
-**Crude oil - exports**<br>
-3,006 bbl/day (2017 est.)<br>
-
-**Crude oil - imports**<br>
-2,660 bbl/day (2015 est.)<br>
-
-**Crude oil - proved reserves**<br>
-35 million bbl (1 January 2018 est.)<br>
+**Petroleum**<br>
+_Total petroleum production_: 300 bbl/day (2021 est.)<br>
+_Refined petroleum consumption_: 32,400 bbl/day (2019 est.)<br>
+_Crude oil and lease condensate exports_: 100 barrels/day (2018 est.)<br>
+_Crude oil and lease condensate imports_: 0 barrels/day (2018 est.)<br>
+_Crude oil estimated reserves_: 35 million barrels (2021 est.)<br>
 
 **Refined petroleum products - production**<br>
 247 bbl/day (2017 est.)<br>
-
-**Refined petroleum products - consumption**<br>
-27,000 bbl/day (2016 est.)<br>
 
 **Refined petroleum products - exports**<br>
 2,052 bbl/day (2015 est.)<br>
@@ -585,20 +574,21 @@ _electrification - total population_: 100% (2020)<br>
 **Refined petroleum products - imports**<br>
 28,490 bbl/day (2015 est.)<br>
 
-**Natural gas - production**<br>
-7.363 million cu m (2017 est.)<br>
+**Natural gas**<br>
+_Production_: 6.088 million cubic meters (2020 est.)<br>
+_Consumption_: 2,539,649,000 cubic meters (2020 est.)<br>
+_Exports_: 0 cubic meters (2021 est.)<br>
+_Imports_: 2,534,892,000 cubic meters (2020 est.)<br>
+_Proven reserves_: 8.495 billion cubic meters (2021 est.)<br>
 
-**Natural gas - consumption**<br>
-2.294 billion cu m (2017 est.)<br>
+**Carbon dioxide emissions**<br>
+_Total emissions_: 10.299 million metric tonnes of CO2 (2019 est.)<br>
+_From coal and metallurgical coke_: 1.063 million metric tonnes of CO2 (2019 est.)<br>
+_From petroleum and other liquids_: 4.245 million metric tonnes of CO2 (2019 est.)<br>
+_From consumed natural gas_: 4.992 million metric tonnes of CO2 (2019 est.)<br>
 
-**Natural gas - exports**<br>
-0 cu m (2017 est.)<br>
-
-**Natural gas - imports**<br>
-2.294 billion cu m (2017 est.)<br>
-
-**Natural gas - proved reserves**<br>
-8.495 billion cu m (1 January 2018 est.)<br>
+**Energy consumption per capita**<br>
+_Total energy consumption per capita 2019_: 63.286 million Btu/person (2019 est.)<br>
 
 ## Communications
 
@@ -710,7 +700,7 @@ as of 2022, approximately 7-10,000 Russian troops continued to occupy the breaka
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,665 (Ukraine) (as of 26 June 2022)<br>
+_refugees (country of origin)_: 22,529 (Ukraine) (as of 12 July 2022)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 
