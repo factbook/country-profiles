@@ -354,9 +354,9 @@ _elections_: last held on 16 June 2019 (next to be held on June 2023)<br>
 _election results_: percent of vote by party - NA; seats by party - UNE 52, VAMOS 17, UCN 12, VALOR 9, BIEN 8, FCN-NACION 8, SEMILLA 7, TODOS 7, VIVA 7, CREO 6, PHG 6, VICTORIA 4, Winaq 4, PC 3, PU 3, URNG 3, PAN 2, MLP 1, PODEMOS 1; composition - men 129, women 31, percent of women 19.4%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 13 magistrates, including the court president and organized into 3 chambers); note - the court president also supervises trial judges countrywide; Constitutional Court or Corte de Constitucionalidad (consists of 5 titular magistrates and 5 substitute magistrates)<br>
+_highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 13 magistrates, including the court president and organized into 3 chambers); note - the court president also supervises trial judges countrywide; note - the Constitutional Court or Corte de Constitucionalidad of Guatemala resides outside the country's judicial system; its sole purpose is the interpretation of the constitution and to see that the laws and regulations are not superior to the constitution (consists of 5 titular magistrates and 5 substitute magistrates)<br>
 _judge selection and term of office_: Supreme Court magistrates elected by the Congress of the Republic from candidates proposed by the Postulation Committee, an independent body of deans of the country's university law schools, representatives of the country's law associations, and representatives of the Courts of Appeal; magistrates elected for concurrent, renewable 5-year terms; Constitutional Court judges - 1 elected by the Congress of the Republic, 1 by the Supreme Court, 1 by the president of the republic, 1 by the (public) University of San Carlos, and 1 by the Assembly of the College of Attorneys and Notaries; judges elected for renewable, consecutive 5-year terms; the presidency of the court rotates among the magistrates for a single 1-year term<br>
-_subordinate courts_: numerous first instance and appellate courts<br>
+_subordinate courts_: Appellate Courts of Accounts, Contentious Administrative Tribunal, courts of appeal, first instance courts, child and adolescence courts, minor or peace courts<br>
 
 **Political parties and leaders**<br>
 Bienestar Nacional or BIEN [Fidel REYES LEE]<br>Citizen Prosperity or PC [Hernan MEJIA and Jorge GARCIA SILVA]<br>Commitment, Renewal, and Order or CREO [Rodolfo NEUTZE]<br>Everyone Together for Guatemala or TODOS [Felipe ALEJOS]<br>Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG [Walter FELIX]<br>Humanist Party of Guatemala or PHG [Rudio MERIDA]<br>Movement for the Liberation of Peoples or MLP [Thelma CABRERA and Vincenta JERONIMO]<br>Movimiento Semilla or SEMILLA [Cesar AREVALO DE LEON and Samuel PEREZ]<br>National Advancement Party or PAN [Manuel CONDE]<br>National Convergence Front or FCN-NACION [Javier HERNANDEZ]<br>National Unity for Hope or UNE [Sandra TORRES and Jorge VARGAS]<br>Nationalist Change Union or UCN [Carlos ROJAS and Sofia HERNANDEZ]<br>PODEMOS [Jose LEON]<br>Political Movement Winaq or Winaq [Sonia GUTIERREZ Raguay]<br>Value or VALOR [Zury RIOS and Lucrecia MARROQUIN]<br>Vamos por una Guatemala Diferente or VAMOS [Alejandro GIAMMATTEI]<br>Victory or VICTORIA [Abraham RIVERA and his four sons  Amilcar, Juan, Manuel and Edgar]<br>Vision with Values or VIVA [Armando Damian CASTILLO Alvarado]<br>
@@ -395,7 +395,7 @@ _lyrics/music_: Jose Joaquin PALMA/Rafael Alvarez OVALLE<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 mixed)<br>
-_selected World Heritage Site locales_: Antigua Guatemala (c), Tikal National Park (m), Archaeological Park and Ruins of Quirigua (c)<br>
+_selected World Heritage Site locales_: Antigua Guatemala (c); Tikal National Park (m); Archaeological Park and Ruins of Quirigua (c)<br>
 
 ## Economy
 
@@ -534,7 +534,7 @@ $22.92 billion (31 December 2017 est.)<br>
 $21.45 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-quetzales (GTQ) per US dollar -<br>
+_Currency_: quetzales (GTQ) per US dollar -<br>
 7.323 (2017 est.)<br>
 7.5999 (2016 est.)<br>
 7.5999 (2015 est.)<br>
@@ -708,7 +708,7 @@ the Guatemalan military inventory is small and mostly comprised of older US equi
 
 **Military service age and obligation**<br>
 all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds conscripted; conscript service obligation varies from 1 to 2 years; women may volunteer (2022)<br>
-note - as of 2017, women made up an estimated 5-10% of the active military<br>
+<strong>note:</strong> as of 2017, women made up an approximately 5-10% of the active military<br>
 
 **Military deployments**<br>
 155 Democratic Republic of the Congo (MONUSCO) (Jan 2022)<br>

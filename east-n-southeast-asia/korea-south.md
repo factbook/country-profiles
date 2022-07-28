@@ -527,7 +527,7 @@ $457.745 billion (2019 est.)<br>
 $435.98 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-South Korean won (KRW) per US dollar -<br>
+_Currency_: South Korean won (KRW) per US dollar -<br>
 1,084.65 (2020 est.)<br>
 1,189.9 (2019 est.)<br>
 1,119.8 (2018 est.)<br>
@@ -605,7 +605,7 @@ _total subscriptions_: 70,513,676 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 138 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: excellent domestic and international services featuring rapid incorporation of new technologies; exceedingly high mobile, mobile broadband, and fixed broadband penetration; strong support from government for initiatives; tech-savvy population has catapulted the nation into one of the world's most active telecommunication markets; all mobile operators offer 5G networks; Chinese telecom Huawei partnered with operators including launch of Seoul TechCity; import of integrated circuits, broadcasting equipment, and phones from China; government and private partnership on national e-commerce and smart city development (2020)<br>
+_general assessment_: South Korea is second only to Hong Kong in the world rankings of telecom market maturity; it is also on the leading edge of the latest telecom technology developments, including around 6G; and it is host to two of the world’s top equipment manufacturers in the form of Samsung and LG; with its highly urbanized, tech-savvy population, South Korea also enjoys very high communication levels across all segments – fixed-line telephony (44% at the start of 2022), fixed broadband (46%), mobile voice and data (144%), and mobile broadband (120%); the performance of the mobile sector is on a par with other developed markets around the region, but it’s the wire line segment that allows South Korea to stand out from the crowd; this is partly a reflection of the large proportion of its population who live in apartment buildings (around 60%), making fiber and apartment LAN connections relatively easy and cost-effective to deploy; the government’s Ultra Broadband convergence Network (UBcN) had aimed to reach 50% adoption by the end of 2022, but that target may be a few more years away; <br>fixed-line teledensity is also at a very high level compared to most of the rest of the world, but it has been on a sharp decline from a rate of 60% ten years ago; that fall has forced the incumbent telco KT Corp to diversify into other telecom segments (including investments in 5G and the development of 6G) as well as non-telecom sectors (such as autonomous vehicles) in an effort to transform itself into a digital platform company; on the mobile front, users have enthusiastically migrated from one generation of mobile platform to the next as each iteration becomes available; there also doesn’t appear to be any great concern about there being a lack of demand for 5G in South Korea (when the country is already well supported by 4G networks), with 30% of all subscribers having already made the switch; part of the reason behind the rapid transition may be the subsidized handsets on offer from each of the MNOs and the MVNOs – a practice that has become so widespread and cutthroat that the regulators have regularly stepped in and fined the companies billions for breaching the subsidy level and risking a price war that will ultimately damage the entire industry.  (2022)<br>
 _domestic_: fixed-line approximately 47 per 100 and mobile-cellular services 138 per 100 persons; rapid assimilation of a full range of telecommunications technologies leading to a boom in e-commerce (2020)<br>
 _international_: country code - 82;&nbsp;landing points for EAC-C2C, FEA, SeaMeWe-3, TPE, APCN-2, APG, FLAG North Asia Loop/REACH North Asia Loop, KJCN, NCP, and&nbsp;SJC2 submarine cables providing links throughout Asia, Australia, the Middle East, Africa, Europe, Southeast Asia and US; satellite earth stations - 66 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -682,7 +682,7 @@ _LNG terminal(s) (import)_: Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong,
 
 **Military and security forces**<br>
 Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Navy (ROKN, includes Marine Corps, ROKMC), Air Force (ROKAF); Military reserves include Mobilization Reserve Forces (First Combat Forces) and Homeland Defense Forces (Regional Combat Forces); Ministry of Maritime Affairs and Fisheries: Korea Coast Guard (2022)<br>
-note - in January 2022, the South Korean military announced the formation of a space branch<br>
+<strong>note: </strong>in January 2022, the South Korean military announced the formation of a space branch under its Joint Chiefs of Staff to coordinate the development of space and space-enabled capabilities across the Army, Navy and Air Force<br>
 
 **Military expenditures**<br>
 2.6% of GDP (2021 est.)<br>
@@ -693,14 +693,14 @@ note - in January 2022, the South Korean military announced the formation of a s
 
 **Military and security service personnel strengths**<br>
 the Republic of Korea Armed Forces have approximately 555,000 active duty personnel (420,000 Army; 70,000 Navy/Marines; 65,000 Air Force) (2021)<br>
-note - South Korea intends to reduce the size of its military to about 522,000 by 2022<br>
+<strong>note: </strong>South Korea intended to reduce the size of its military to about 522,000 by 2022<br>
 
 **Military equipment inventories and acquisitions**<br>
 the South Korean military is equipped with a mix of domestically-produced and imported weapons systems; South Korea has a robust defense industry and production includes armored fighting vehicles, artillery, aircraft, and naval ships; since 2010, the top foreign weapons supplier is the US and some domestically-produced systems are built under US license (2022)<br>
 
 **Military service age and obligation**<br>
-18-28 years of age for compulsory military service; minimum conscript service obligation varies by service- 21 months (Army, Marines), 23 months (Navy), 24 months (Air Force); 18-26 years of age for voluntary military service  (2021)<br><br>note(s) - women, in service since 1950, are able to serve in all branches, including as officers, and in 2020 comprised about 7.5% of the active duty military; in 2021, about 330,000 of the military's active personnel were conscripts; South Korea intends to reduce the length of military service to 18 – 22 months by 2022<br>
-note(s) - women, in service since 1950, are able to serve in all branches, including as officers, and in 2020 comprised about 7.5% of the active duty military; in 2021, about 330,000 of the military's active personnel were conscripts; South Korea intends to reduce the length of military service to 18 &ndash; 22 months by 2022<br>
+18-28 years of age for compulsory military service; minimum conscript service obligation varies by service- 18 months (Army, Marines), 20 months (Navy), 21 months (Air Force); 18-26 years of age for voluntary military service (2021)<br>
+<strong>note 1:</strong> women, in service since 1950, are able to serve in all branches, including as officers, and in 2020 comprised about 7.5% of the active duty military<br><br><strong>note 2: </strong>in 2022, about 330,000 of the military's active personnel were conscripts; the military brings on over 200,000 conscripts each year<br>
 
 **Military deployments**<br>
 260 Lebanon (UNIFIL); 280 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, South Korea has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (2022)<br>

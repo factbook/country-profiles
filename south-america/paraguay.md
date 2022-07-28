@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-Several Indigenous groups, principally belonging to the Guarani language family, inhabited the area of modern Paraguay before the arrival of the Spanish in the early 16th century, when the territory was incorporated into the Viceroyalty of Peru. Paraguay achieved its independence from Spain in 1811 with the help of neighboring states. In the aftermath of independence, a series of military dictators ruled the country until 1870. During the disastrous War of the Triple Alliance (1864-70) – fought against Argentina, Brazil, and Uruguay - Paraguay lost two-thirds of its adult males and much of its territory. The country stagnated economically for the next half century and experienced a tumultuous series of political regimes. Following the Chaco War of 1932-35 with Bolivia, Paraguay gained a large part of the Chaco lowland region. The 35-year military dictatorship of Alfredo STROESSNER ended in 1989, and Paraguay has held relatively free and regular presidential elections since the country's return to democracy.<br>
+Several Indigenous groups, principally belonging to the Guarani language family, inhabited the area of modern Paraguay before the arrival of the Spanish in the early 16th century, when the territory was incorporated into the Viceroyalty of Peru. Paraguay achieved its independence from Spain in 1811 with the help of neighboring states. In the aftermath of independence, a series of military dictators ruled the country until 1870. During the disastrous War of the Triple Alliance (1864-70) - fought against Argentina, Brazil, and Uruguay - Paraguay lost two thirds of its adult males and much of its territory. The country stagnated economically for the next half century and experienced a tumultuous series of political regimes. Following the Chaco War of 1932-35 with Bolivia, Paraguay gained a large part of the Chaco lowland region. The 35-year military dictatorship of Alfredo STROESSNER ended in 1989, and Paraguay has held relatively free and regular presidential elections since the country's return to democracy.<br>
 
 ## Geography
 
@@ -542,7 +542,7 @@ $16.622 billion (2019 est.)<br>
 $16.238 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-guarani (PYG) per US dollar -<br>
+_Currency_: guarani (PYG) per US dollar -<br>
 7,045 (2020 est.)<br>
 6,426 (2019 est.)<br>
 5,915.4 (2018 est.)<br>
@@ -706,7 +706,7 @@ the Paraguayan military forces inventory is comprised of mostly older equipment 
 
 **Military service age and obligation**<br>
 18 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 12 months for Army, 24 months for Navy (conscripts also serve in the National Police); volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2022)<br>
-note - as of 2021, women made up about 6% of the active military<br>
+<strong>note:</strong> as of 2021, women made up about 6% of the active military<br>
 
 **Military - note**<br>
 as of 2022, the armed forces were conducting operations against the Paraguayan People's Army (Ej&eacute;rcito del Pueblo Paraguayo, EPP), a Marxist-nationalist insurgent group operating in the rural northern part of the country along the border with Brazil; they were also assisting internal security forces in countering narco-trafficking networks<br>

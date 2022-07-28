@@ -464,7 +464,7 @@ refined petroleum, fishing ships, tug boats, other ships, iron structures (2019)
 <p>NA</p><br>
 
 **Exchange rates**<br>
-Tuvaluan dollars or Australian dollars (AUD) per US dollar -<br>
+_Currency_: Tuvaluan dollars or Australian dollars (AUD) per US dollar -<br>
 1.311 (2017 est.)<br>
 1.3442 (2016 est.)<br>
 

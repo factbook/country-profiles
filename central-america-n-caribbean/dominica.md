@@ -454,7 +454,7 @@ $280.4 million (31 December 2017 est.)<br>
 $314.2 million (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
-East Caribbean dollars (XCD) per US dollar -<br>
+_Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 2.7 (2017 est.)<br>
 2.7 (2016 est.)<br>
 2.7 (2015 est.)<br>

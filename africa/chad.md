@@ -419,7 +419,7 @@ _lyrics/music_: Louis GIDROL and his students/Paul VILLARD<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: Ennedi Massif: Natural and Cultural Landscape (m)<br>
+_selected World Heritage Site locales_: Lakes of Ounianga (n); Ennedi Massif: Natural and Cultural Landscape (m)<br>
 
 ## Economy
 
@@ -548,7 +548,7 @@ $1.724 billion (31 December 2017 est.)<br>
 $1.281 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+_Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
 605.3 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>
@@ -685,7 +685,7 @@ _total_: 40,000 km (2018)<br>
 
 **Military and security forces**<br>
 Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE); National Gendarmerie; Ministry of Public Security and Immigration: National Nomadic Guard of Chad (GNNT), Chadian National Police (2022)<br>
-note(s) - the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-size unit with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT)<br>
+<strong>note:</strong> the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-size unit with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT)<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>

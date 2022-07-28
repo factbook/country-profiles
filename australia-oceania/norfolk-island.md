@@ -329,7 +329,7 @@ clothing and apparel, chemical analysis instruments, refined petroleum, cars, ki
 <p>NA</p><br>
 
 **Exchange rates**<br>
-Australian dollars (AUD) per US dollar -<br>
+_Currency_: Australian dollars (AUD) per US dollar -<br>
 1.311 (2017 est.)<br>
 1.3291 (2016 est.)<br>
 1.3291 (2015)<br>

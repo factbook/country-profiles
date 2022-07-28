@@ -385,7 +385,7 @@ _lyrics/music_: Karlis BAUMANIS<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
-_selected World Heritage Site locales_: Historic Center of Riga, Struve Geodetic Arc<br>
+_selected World Heritage Site locales_: Historic Center of Riga; Struve Geodetic Arc<br>
 
 ## Economy
 
@@ -525,7 +525,7 @@ $40.164 billion (2019 est.)<br>
 $42.488 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -695,13 +695,13 @@ the Latvian military's inventory is limited and consists of a mixture of Soviet-
 
 **Military service age and obligation**<br>
 18 years of age for voluntary male and female military service; no conscription (abolished 2007) (2022)<br>
-note(s) - in July 2022, the Latvian Government announced that it was reinstating mandatory military service for men aged 18-27 (women voluntarily) beginning in July 2023; service would be for 1 year in the Land Forces or alternatively in internal affairs, health, or welfare structures<br><br>- as of 2019, women comprised about 16% of the military's full-time personnel<br>
+<strong>note 1:</strong> in July 2022, the Latvian Government announced that it was reinstating mandatory military service for men aged 18-27 (women voluntarily) beginning in July 2023; service would be for 1 year in the Land Forces or alternatively in internal affairs, health, or welfare structures<br><br><strong>note 2:</strong> as of 2019, women comprised about 16% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 130 Kosovo (KFOR/NATO) (2022)<br>
 
 **Military - note**<br>
-Latvia became a member of NATO in 2004<br> <p>since 2017, Latvia has hosted a Canadian-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia<br><br>NATO also has provided air protection for Latvia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations</p> (2022)<br>
+Latvia became a member of NATO in 2004 <br><br>since 2017, Latvia has hosted a Canadian-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; in addition, Latvia hosts a NATO-led divisional headquarters (Multinational Division North; activated 2020), which coordinates training and preparation activities of its respective subordinate NATO battlegroups in Estonia and Latvia<br><br>NATO also has provided air protection for Latvia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations (2022)<br>
 
 ## Transnational Issues
 
@@ -709,7 +709,7 @@ Latvia became a member of NATO in 2004<br> <p>since 2017, Latvia has hosted a Ca
 <p><em>Latvia-Belarus</em>: Belarus and Latvia signed joint demarcation map in September 2008</p> <p><em>Latvia-Estonia</em>: demarcation reportedly completed in 1998</p> <p><em>Latvia-Lithuania</em>: boundary demarcation was completed by the end of 1998; the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights</p> <p><em>Latvia-Russia</em>: Russia demands better Latvian treatment of ethnic Russians in Latvia; in March 2007, Latvia and Russia signed a border treaty, which includes Latvia withdrawing claims to a district now in Russia that was part of Latvia before WWII; the permanent demarcation of the boundary between Latvia and Russia was completed and came into force in April 2018; as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 34,738 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 35,205 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 209,168 (mid-year 2021); note - individuals who were Latvian citizens prior to the 1940 Soviet occupation and their descendants were recognized as Latvian citizens when the country's independence was restored in 1991; citizens of the former Soviet Union residing in Latvia who have neither Latvian nor other citizenship are considered non-citizens (officially there is no statelessness in Latvia) and are entitled to non-citizen passports; children born after Latvian independence to stateless parents are entitled to Latvian citizenship upon their parents' request; non-citizens cannot vote or hold certain government jobs and are exempt from military service but can travel visa-free in the EU under the Schengen accord like Latvian citizens; non-citizens can obtain naturalization if they have been permanent residents of Latvia for at least five years, pass tests in Latvian language and history, and know the words of the Latvian national anthem<br>
 
 **Illicit drugs**<br>

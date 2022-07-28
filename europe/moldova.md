@@ -346,7 +346,7 @@ _election results_: Maia SANDU elected president; percent of vote (second round 
 **Legislative branch**<br>
 _description_: unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms<br>
 _elections_: <p>last held on 11 July 2021 (next scheduled in July 2025)</p><br>
-_election results_: <p>percent of vote by party - PAS 52.8%, BECS (PSRM+PCRM) 27.1%, SHOR 5.7%; seats by party - PAS 63, BECS 32, SHOR 6; composition (as of October 2021) - men 61, women 40, percent of women 39.6%</p><br>
+_election results_: <p>percent of vote by party - PAS 52.8%, BECS (PSRM+PCRM) 27.1%, SHOR 5.7%; seats by party - PAS 63, BECS 32, SHOR 6; composition as of July 2022 - men 60, women 41, percent of women 40.6%</p><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges); note - the Constitutional Court is autonomous to the other branches of government; the Court interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
@@ -526,7 +526,7 @@ $7.232 billion (2019 est.)<br>
 $7.16 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Moldovan lei (MDL) per US dollar -<br>
+_Currency_: Moldovan lei (MDL) per US dollar -<br>
 18.49 (2017 est.)<br>
 19.924 (2016 est.)<br>
 19.924 (2015 est.)<br>
@@ -672,8 +672,8 @@ _by type_: bulk carrier 5, container ship 5, general cargo 97, oil tanker 7, oth
 ## Military and Security
 
 **Military and security forces**<br>
-National Army: Land Forces (Fortele Terestre ale Republicii Moldova, FTRM); Air Forces (Forţele Aeriene ale Republicii Moldova, FARM); Ministry of Internal Affairs: Carabinieri Troops (2021)<br>
-note - the Carabinieri is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions<br>
+National Army: Land Forces (Fortele Terestre ale Republicii Moldova, FTRM); Air Forces (Forţele Aeriene ale Republicii Moldova, FARM); Ministry of Internal Affairs: Carabinieri Troops (2022)<br>
+<strong>note:</strong> the Carabinieri is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2021 est.)<br>
@@ -690,10 +690,10 @@ the Moldovan military's inventory is limited and almost entirely comprised of ol
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 1-year service obligation (2021)<br>
-note - as of 2019, women made up about 20% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2019, women made up about 20% of the military's full-time personnel<br>
 
 **Military - note**<br>
-Moldova is constitutionally neutral, but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO’s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support<br><br>the 1992 war between Moldovan forces and Transnistrian separatists backed by Russian troops ended with a cease-fire; as of 2022, Russia maintained about 1,500 troops in Transnistria, some of which served under the authority of a peacekeeping force known as a Joint Control Commission that also included Moldovan and separatist personnel; the remainder of the Russian contingent guarded a depot of Soviet-era ammunition and trained separatist paramilitaries (2022)<br>
+Moldova is constitutionally neutral, but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO’s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support<br><br>the 1992 war between Moldovan forces and Transnistrian separatists backed by Russian troops ended with a cease-fire; as of 2022, Russia maintained approximately 1,500 troops in Transnistria, some of which served under the authority of a peacekeeping force known as a Joint Control Commission that also included Moldovan and separatist personnel; the remainder of the Russian contingent (the Operative Group of the Russian Troops or OGRT) guarded a depot of Soviet-era ammunition and trained Transnistrian separatist paramilitary troops (2022)<br>
 
 ## Transnational Issues
 
@@ -701,7 +701,7 @@ Moldova is constitutionally neutral, but has maintained a relationship with NATO
 <p><em>Moldova-Romania</em>: none identified</p> <p><em>Moldova-Ukraine</em>: Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Transnistria; Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 84,562 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 86,880 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 3,372 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In the first half of the second millennium A.D., northern Mozambican port towns were frequented by traders from Somalia, Ethiopia, Egypt, Arabia, Persia, and India. The Portuguese were able to wrest much of the coastal trade from Arab Muslims in the centuries after 1500 and to set up their own colonies. Portugal did not relinquish Mozambique until 1975. Large-scale emigration, economic dependence on South Africa, a severe drought, and a prolonged civil war hindered the country's development until the mid-1990s. The ruling Front for the Liberation of Mozambique (FRELIMO) party formally abandoned Marxism in 1989, and a new constitution the following year provided for multiparty elections and a free market economy. A UN-negotiated peace agreement between FRELIMO and rebel Mozambique National Resistance (RENAMO) forces ended the fighting in 1992. In 2004, Mozambique underwent a delicate transition as Joaquim CHISSANO stepped down after 18 years in office. His elected successor, Armando GUEBUZA, served two terms and then passed executive power to Filipe NYUSI in 2015. RENAMO’s residual armed forces intermittently engaged in a low-level insurgency after 2012, but a late December 2016 ceasefire eventually led to the two sides signing a comprehensive peace deal in August 2019. Elections in October 2019, challenged by Western observers and civil society as being problematic, resulted in resounding wins for NYUSI and FRELIMO across the country. Since October 2017, violent extremists - who an official ISIS media outlet recognized as ISIS's network in Mozambique for the first time in June 2019 - have been conducting attacks against civilians and security services in the northern province of Cabo Delgado. In 2021, Rwanda and the Southern African Development Community deployed forces to support Mozambique’s efforts to counter the extremist group.</p><br>
+<p>In the first half of the second millennium A.D., northern Mozambican port towns were frequented by traders from Somalia, Ethiopia, Egypt, Arabia, Persia, and India. The Portuguese were able to wrest much of the coastal trade from Arab Muslims in the centuries after 1500 and to set up their own colonies. Portugal did not relinquish Mozambique until 1975. Large-scale emigration, economic dependence on South Africa, a severe drought, and a prolonged civil war hindered the country's development until the mid-1990s. The ruling Front for the Liberation of Mozambique (FRELIMO) party formally abandoned Marxism in 1989, and a new constitution the following year provided for multiparty elections and a free market economy. A UN-negotiated peace agreement between FRELIMO and rebel Mozambique National Resistance (RENAMO) forces ended the fighting in 1992. In 2004, Mozambique underwent a delicate transition as Joaquim CHISSANO stepped down after 18 years in office. His elected successor, Armando GUEBUZA, served two terms and then passed executive power to Filipe NYUSI in 2015. RENAMO’s residual armed forces intermittently engaged in a low-level insurgency after 2012, but a late December 2016 cease-fire eventually led to the two sides signing a comprehensive peace deal in August 2019. Elections in October 2019, challenged by Western observers and civil society as being problematic, resulted in resounding wins for NYUSI and FRELIMO across the country. Since October 2017, violent extremists - who an official ISIS media outlet recognized as ISIS's network in Mozambique for the first time in June 2019 - have been conducting attacks against civilians and security services in the northern province of Cabo Delgado. In 2021, Rwanda and the Southern African Development Community deployed forces to support Mozambique’s efforts to counter the extremist group.</p><br>
 
 ## Geography
 
@@ -554,7 +554,7 @@ $10.91 billion (31 December 2017 est.)<br>
 $10.48 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-meticais (MZM) per US dollar -<br>
+_Currency_: meticais (MZM) per US dollar -<br>
 74.12 (2020 est.)<br>
 63.885 (2019 est.)<br>
 61.625 (2018 est.)<br>
@@ -707,8 +707,8 @@ _major seaport(s)_: Beira, Maputo, Nacala<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force<br><br>other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals (2022)<br>
-note - the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br>
+Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM); Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force; other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals (2022)<br>
+<strong>note: </strong>the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
@@ -741,7 +741,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p><em>Mozambique-Eswatini</em>: none identified</p> <p><em>Mozambique-Malawi</em>:  the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Mozambique-South Africa</em>: South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p> <p><em>Mozambique-Tanzania</em>: none identified</p> <p><em>Mozambique-Zambia</em>: none identified</p> <p><em>Mozambique-Zimbabwe</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,020 (Democratic Republic of Congo) (refugees and asylum seekers), 8,306 (Burundi) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 67,567 (Democratic Republic of Congo) (refugees and asylum seekers), 8,306 (Burundi) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 872,188 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2022)<br>
 
 **Illicit drugs**<br>

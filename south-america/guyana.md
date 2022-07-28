@@ -521,7 +521,7 @@ $1.69 billion (31 December 2017 est.)<br>
 $1.542 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Guyanese dollars (GYD) per US dollar -<br>
+_Currency_: Guyanese dollars (GYD) per US dollar -<br>
 207 (2017 est.)<br>
 206.5 (2016 est.)<br>
 206.5 (2015 est.)<br>

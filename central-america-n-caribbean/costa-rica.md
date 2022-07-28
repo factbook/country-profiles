@@ -392,7 +392,7 @@ _lyrics/music_: Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (1 cultural, 3 natural)<br>
-_selected World Heritage Site locales_: Guanacaste Conservation Area (n), Cocos Island National Park (n), Precolumbian Stone Spheres (c), La Amistad International Park (n)<br>
+_selected World Heritage Site locales_: Guanacaste Conservation Area (n); Cocos Island National Park (n); Precolumbian Stone Spheres (c); La Amistad International Park (n)<br>
 
 ## Economy
 
@@ -530,7 +530,7 @@ $29.589 billion (2019 est.)<br>
 $28.553 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Costa Rican colones (CRC) per US dollar -<br>
+_Currency_: Costa Rican colones (CRC) per US dollar -<br>
 573.5 (2017 est.)<br>
 544.74 (2016 est.)<br>
 544.74 (2015 est.)<br>
@@ -680,7 +680,7 @@ Pacific Ocean - Caldera<br>
 
 **Military and security forces**<br>
 no regular military forces; Ministry of Public Security: the Public Force (Fuerza Pública (National Police)), Air Surveillance Service (Servicio de Vigilancia Aérea), National Coast Guard Service (Servicio Nacional de Guardacostas), Border Police (Policia de Fronteras); Ministry of Presidency: Directorate of Intelligence and Security (DIS), Special Intervention Unit (UEI) (2022)<br>
-note - Costa Rica's armed forces were constitutionally abolished in 1949<br>
+<strong>note:</strong> Costa Rica's armed forces were constitutionally abolished in 1949<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>

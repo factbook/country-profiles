@@ -344,11 +344,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President of the Republic Ilir META (since 24 July 2017)<br>
+_chief of state_: President of the Republic Bajram BEGAJ (since 24 July 2022)<br>
 _head of government_: Prime Minister Edi RAMA (since 10 September 2013); Deputy Prime Minister Arben AHMETAJ (since 18 September 2021)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, nominated by the president, and approved by the Assembly<br>
-_elections/appointments_: president indirectly elected by the Assembly for a 5-year term (eligible for a second term); a candidate needs three-fifths majority vote of the Assembly in 1 of 3 rounds or a simple majority in 2 additional rounds to become president; election last held in 4 rounds on 16, 23, and 30 May and 4 June (next election to be held in 2027); prime minister appointed by the president on the proposal of the majority party or coalition of parties in the Assembly<br>
-_election results_: <em>2022: </em>Bajram BEGAJ elected president in the fourth round; Assembly vote - 78-4, opposition parties boycotted; BEGAJ takes office 24 June 2022<em><br><br>2017:</em> Ilir META elected president in the fourth round; Assembly vote - 87-2<br>
+_elections/appointments_: president indirectly elected by the Assembly for a 5-year term (eligible for a second term); a candidate needs three-fifths majority vote of the Assembly in 1 of 3 rounds or a simple majority in 2 additional rounds to become president; election last held in 4 rounds on 16, 23, and 30 May and 4 June 2022 (next election to be held in 2027); prime minister appointed by the president on the proposal of the majority party or coalition of parties in the Assembly<br>
+_election results_: <em>2022: </em>Bajram BEGAJ elected president in the fourth round; Assembly vote - 78-4, opposition parties boycotted<em><br><br>2017:</em> Ilir META elected president in the fourth round; Assembly vote - 87-2<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
@@ -361,7 +361,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the High
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized courts: Court for Corruption and Organized Crime, Appeals Court for Corruption and Organized Crime (responsible for corruption, organized crime, and crimes of high officials)<br>
 
 **Political parties and leaders**<br>
-Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD [Enkelejd ALIBEAJ, interim leader]<br>Party for Justice, Integration and Unity or PDIU [Shpetim IDRIZI] (part of the Alliance for Change; formerly part of APMI)<br>Social Democratic Party or PSD [Tom DOSHI]<br>Socialist Movement for Integration or LSI [Monika KRYEMADHI]<br>Socialist Party or PS [Edi RAMA]<br>
+Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD [Enkelejd ALIBEAJ, interim leader]<br>Party for Justice, Integration and Unity or PDIU [Shpetim IDRIZI] (part of the Alliance for Change)<br>Social Democratic Party or PSD [Tom DOSHI]<br>Socialist Movement for Integration or LSI [Monika KRYEMADHI]<br>Socialist Party or PS [Edi RAMA]<br>
 
 **International organization participation**<br>
 BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -395,7 +395,7 @@ _lyrics/music_: Aleksander Stavre DRENOVA/Ciprian PORUMBESCU<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (2 cultural, 1 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: Butrint, Historic Berat and Gjirokast&euml;r, Primeval Beech Forests, Lake Ohrid Region<br>
+_selected World Heritage Site locales_: Butrint (c); Historic Berat and Gjirokast&euml;r (c); Primeval Beech Forests (n); Lake Ohrid Region (m)<br>
 
 ## Economy
 
@@ -534,7 +534,7 @@ $9.311 billion (2019 est.)<br>
 $9.547 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-leke (ALL) per US dollar -<br>
+_Currency_: leke (ALL) per US dollar -<br>
 102.43 (2020 est.)<br>
 111.36 (2019 est.)<br>
 108.57 (2018 est.)<br>
@@ -674,7 +674,7 @@ _major seaport(s)_: Durres, Sarande, Shengjin, Vlore<br>
 
 **Military and security forces**<br>
 Republic of Albania Armed Forces (Forcat e Armatosura të Republikës së Shqipërisë (FARSH)): Land Forces, Navy Forces (includes Coast Guard), Air Forces<br><br>Ministry of Interior: Guard of the Republic, State Police (includes the Border and Migration Police) (2022)<br>
-note - the State Police are primarily responsible for internal security, while the Guard of the Republic protects senior state officials, foreign dignitaries, and certain state properties<br>
+<strong>note:</strong> the State Police are primarily responsible for internal security, while the Guard of the Republic protects senior state officials, foreign dignitaries, and certain state properties<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
@@ -684,14 +684,14 @@ note - the State Police are primarily responsible for internal security, while t
 1.1% of GDP (2017) (approximately $290 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 8,000 total active duty personnel (6,000 Army; 1,500 Navy; 500 Air Force) (2021)<br>
+approximately 8,000 total active duty personnel (6,000 Army; 1,500 Navy; 500 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Albanian military was previously equipped with mostly Soviet-era weapons that were sold or destroyed; its inventory now includes a mix of mostly donated and second-hand European and US equipment; since 2010, it has received limited amounts of equipment from France, Germany, and the US (2021)<br>
 
 **Military service age and obligation**<br>
 19 is the legal minimum age for voluntary military service; 18 is the legal minimum age in case of general/partial compulsory mobilization; conscription abolished 2010 (2021)<br>
-note - as of 2020, women comprised about 14% of the military's full-time personnel, including 20% of the officers<br>
+<strong>note: </strong>as of 2020, women comprised about 14% of the military's full-time personnel, including 20% of the officers<br>
 
 **Military - note**<br>
 Albania officially became a member of NATO in 2009; as of 2022, Greece and Italy were providing NATO's air policing mission for Albania<br>

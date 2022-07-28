@@ -335,11 +335,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Umaro Sissoko EMBALO (since 27 February 2020); note - President EMBALO was declared winner of the 29 December 2019 runoff presidential election by the electoral commission. In late February 2020, EMBALO inaugurated himself with only military leadership present, even though the Supreme Court of Justice had yet to rule on an electoral litigation appeal lodged by his political rival Domingos Simoes PEREIRA<br>
+_chief of state_: President Umaro Sissoko EMBALO (since 27 February 2020); note - President EMBALO was declared winner of the 29 December 2019 runoff presidential election by the electoral commission, in late February 2020, EMBALO inaugurated himself with only military leadership present, even though the Supreme Court of Justice had yet to rule on an electoral litigation appeal lodged by his political rival Domingos Simoes PEREIRA<br>
 _head of government_: Prime Minister Nuno NABIAM (since 27 February 2020)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 24 November 2019 with a runoff on 29 December 2019 (next to be held in 2024); prime minister appointed by the president after consultation with party leaders in the National People's Assembly; note - the president cannot apply for a third consecutive term, nor during the 5 years following the end of the second term<br>
-_election results_: Umaro Sissoco EMBALO elected president in second round; percent of vote in first round - Domingos Simoes PEREIRA (PAIGC) 40.1%, Umaro Sissoco EMBALO (Madem G15) 27.7%, Nuno Gomez NABIAM (APU-PDGB) 13.2%, Jose Mario VAZ (independent) 12.4%, other 6.6%; percent of vote in second round - Umaro Sissoco EMBALO 53.6%, Domingos Simoes PEREIRA 46.5%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 24 November 2019 with a runoff on 29 December 2019 (next to be held in 2024); prime minister appointed by the president after consultation with party leaders in the National People's Assembly; note - the president cannot apply for a third consecutive term<br>
+_election results_: Umaro Sissoco EMBALO elected president in second round; percent of vote in first round - Domingos Simoes PEREIRA (PAIGC) 40.1%, Umaro Sissoco EMBALO (Madem G15) 27.7%, Nuno Gomez NABIAM (APU-PDGB) 13.2%, Jose Mario VAZ (independent) 12.4%, other 6.6%; percent of vote in second round - Umaro Sissoco EMBALO 53.6%, Domingos Simoes PEREIRA 46.5% (2019)<br>
 
 **Legislative branch**<br>
 _description_: unicameral National People's Assembly or Assembleia Nacional Popular (102 seats; 100 members directly elected in 27 multi-seat constituencies by closed party-list proportional representation vote and 2 elected in single-seat constituencies for citizens living abroad (Africa 1, Europe 1 ); all members serve 4-year terms)<br>
@@ -499,7 +499,7 @@ $1.095 billion (31 December 2010 est.)<br>
 $941.5 million (31 December 2000 est.)<br>
 
 **Exchange rates**<br>
-Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+_Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 605.3 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>
@@ -633,7 +633,7 @@ _major seaport(s)_: Bissau, Buba, Cacheu, Farim<br>
 
 **Military and security forces**<br>
 People's Revolutionary Armed Force (FARP): Army, Navy, Air Force<br><br>Ministry of Internal Administration: Guard Nacional (a gendarmerie force), Public Order Police, Border Police, Rapid Intervention Police, Maritime Police (2022)<br>
-note - the Public Order Police is responsible for maintaining law and order, while the Judicial Police, under the Ministry of Justice, has primary responsibility for investigating drug trafficking, terrorism, and other transnational crimes<br>
+<strong>note: </strong>the Public Order Police is responsible for maintaining law and order, while the Judicial Police, under the Ministry of Justice, has primary responsibility for investigating drug trafficking, terrorism, and other transnational crimes<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>

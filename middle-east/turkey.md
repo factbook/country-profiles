@@ -407,7 +407,7 @@ _lyrics/music_: Mehmet Akif ERSOY/Zeki UNGOR<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 19 (17 cultural, 2 mixed)<br>
-_selected World Heritage Site locales_: Archaeological Site of Troy (c), Ephesus (c), Diyarbakır Fortress and Hevsel Gardens Cultural Landscape (c), Hierapolis-Pamukkale (m), Göreme National Park and the Rock Sites of Cappadocia (m), Göbekli Tepe (c), Historic Areas of Istanbul (c), Selimiye Mosque and its Social Complex (c), Neolithic Site of Çatalhöyük (c), Bursa and Cumalıkızık: the Birth of the Ottoman Empire (c)<br>
+_selected World Heritage Site locales_: Archaeological Site of Troy (c); Ephesus (c); Diyarbakır Fortress and Hevsel Gardens Cultural Landscape (c); Hierapolis-Pamukkale (m); Göreme National Park and the Rock Sites of Cappadocia (m); Göbekli Tepe (c); Historic Areas of Istanbul (c); Selimiye Mosque and its Social Complex (c); Neolithic Site of Çatalhöyük (c); Bursa and Cumalıkızık: the Birth of the Ottoman Empire (c)<br>
 
 ## Economy
 
@@ -547,7 +547,7 @@ $438.677 billion (2019 est.)<br>
 $454.251 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Turkish liras (TRY) per US dollar -<br>
+_Currency_: Turkish liras (TRY) per US dollar -<br>
 7.81925 (2020 est.)<br>
 5.8149 (2019 est.)<br>
 5.28905 (2018 est.)<br>
@@ -704,7 +704,7 @@ _LNG terminal(s) (import)_: Aliaga, Dortyol, Ekti (Izmir), Marmara Ereglisi<br>
 
 **Military and security forces**<br>
 Turkish Armed Forces (TSK): Turkish Land Forces (Turk Kara Kuvvetleri), Turkish Naval Forces (Turk Deniz Kuvvetleri; includes naval air and naval infantry), Turkish Air Forces (Turk Hava Kuvvetleri); Ministry of Interior: Gendarmerie of the Turkish Republic (aka Gendarmerie General Command), Turkish Coast Guard Command, National Police (2022)<br>
-note(s) - the Gendarmerie is responsible for the maintenance of the public order in areas that fall outside the jurisdiction of police forces (generally in rural areas); in wartime, the Gendarmerie and Coast Guard would be placed under the operational control of the Land Forces and Naval Forces, respectively<br>
+<strong>note:</strong> the Gendarmerie is responsible for the maintenance of the public order in areas that fall outside the jurisdiction of police forces (generally in rural areas); in wartime, the Gendarmerie and Coast Guard would be placed under the operational control of the Land Forces and Naval Forces, respectively<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
@@ -720,8 +720,8 @@ approximately 440,000 active duty personnel (345,000 Army; 45,000 Navy; 50,000 A
 the Turkish Armed Forces inventory is mostly comprised of a mix of domestically-produced and Western weapons systems, although in recent years, Turkey has also acquired some Chinese, Russian, and South Korean equipment; since 2010, the US is the leading provider of armaments to Turkey, followed by Italy, South Korea, and Spain; Turkey has a robust defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial platforms, although it is heavily dependent on Western technology; Turkey's defense industry also partners with other countries for defense production (2021)<br>
 
 **Military service age and obligation**<br>
-President Erdoğan on 25 June 2019 signed a new law cutting the men’s mandatory military service period in half, as well as making paid military service permanent; with the new system, the period of conscription was reduced from 12 months to six months for privates and non-commissioned soldiers (the service term for reserve officers chosen among university or college graduates will remain 12 months); after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; under the new law, all male Turkish citizens over the age of 20 will be required to undergo a one month military training period, but they can obtain an exemption from the remaining five months of their mandatory service by paying 31,000 Turkish Liras (2021)<br>
-note - as of 2019, women made up about .3% of the military's full-time personnel<br>
+mandatory military service for men, age 20-41; service can be delayed if in university or in certain professions (researchers, professionals, and athletic, or those with artistic talents have the right to postpone military service until the age of 35); 6-12 months service; women may volunteer (2021)<br>
+<strong>note 1:</strong> in 2019, a new law cut the men’s mandatory military service period in half, as well as making paid military service permanent; with the new system, the period of conscription was reduced from 12 months to six months for privates and non-commissioned soldiers (the service term for reserve officers chosen among university or college graduates remained 12 months); after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; under the new law, all male Turkish citizens over the age of 20 are required to undergo a one month military training period, but they can obtain an exemption from the remaining five months of their mandatory service by paying 31,000 Turkish Liras<br><strong><br>note 2:</strong> as of 2019, women made up about .3% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 150 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); approximately 30,000 Cyprus; 300 Kosovo (NATO/KFOR); 100 Lebanon (UNIFIL); estimated 500 Libya; approximately 3,000 Qatar; approximately 200 Somalia (training mission); estimated 5,000-10,000 Syria (2022)<br>
@@ -733,7 +733,7 @@ Turkey has been a member of NATO since 1952 and hosts NATO's Land Forces Command
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islamic Revolutionary Guard Corps/Qods Force; Kurdistan Workers' Party; al-Qa'ida; Revolutionary People's Liberation Party/Front<br>
+Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan (IMU); Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Kurdistan Workers' Party (PKK); al-Qa'ida; Revolutionary People's Liberation Party/Front (DHKP/C)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
@@ -742,7 +742,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p><em>Turkey-Armenia</em>: in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered;  in early 2022, the two countries held talks twice aimed at normalizing relations, which could lead to the opening of their land border, shut since 1993; in 2000, Turkish authorities complained to UNESCO that blasting from quarries in Armenia was damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p> <p><em>Turkey-Azerbaijan</em>: none identified</p> <p><em>Turkey-Bulgaria</em>: none identified</p> <p><em>Turkrey-Cyprus</em>: status of northern Cyprus question remains</p> <p><em>Turkey-Georgia</em>: none identified</p> <p><em>Turkey-Greece</em>: complex maritime, air, and territorial disputes with Greece in the Aegean Sea, including rights to explore oil and gas reserves in the eastern Mediterranean and illegal migrants transiting from Turkey into Greece</p> <p><em>Turkey-Iran</em>: none identified</p> <p><em>Turkey-Iraq</em>: Turkey has expressed concern over the status of Kurds in Iraq</p> <p><em>Turkey-Syria</em>: Turkey completed building a wall along its border with Syria in 2018 to prevent illegal border crossings and smuggling</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,650,601 (Syria) (2022); 145,000 (Ukraine) (as of 19 May 2022)<br>
+_refugees (country of origin)_: 3,651,428 (Syria) (2022); 145,000 (Ukraine) (as of 19 May 2022)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2021)<br>
 _stateless persons_: 117 (2018)<br>
 

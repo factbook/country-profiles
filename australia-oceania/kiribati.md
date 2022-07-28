@@ -494,7 +494,7 @@ $40.9 million (2016 est.)<br>
 $32.3 million (2015 est.)<br>
 
 **Exchange rates**<br>
-Australian dollars (AUD) per US dollar -<br>
+_Currency_: Australian dollars (AUD) per US dollar -<br>
 1.31 (2017 est.)<br>
 1.34 (2016 est.)<br>
 1.34 (2015 est.)<br>

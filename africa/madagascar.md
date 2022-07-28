@@ -402,7 +402,7 @@ _lyrics/music_: Pasteur RAHAJASON/Norbert RAHARISOA<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Tsingy de Bemaraha Strict Nature Reserve (n), Ambohimanga Royal Hill (c), Atsinanana Rainforests&nbsp; (n)<br>
+_selected World Heritage Site locales_: Tsingy de Bemaraha Strict Nature Reserve (n); Ambohimanga Royal Hill (c); Atsinanana Rainforests&nbsp; (n)<br>
 
 ## Economy
 
@@ -531,7 +531,7 @@ $3.085 billion (2019 est.)<br>
 $4.107 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Malagasy ariary (MGA) per US dollar -<br>
+_Currency_: Malagasy ariary (MGA) per US dollar -<br>
 3,116.1 (2017 est.)<br>
 3,176.5 (2016 est.)<br>
 3,176.5 (2015 est.)<br>
@@ -679,7 +679,7 @@ _major seaport(s)_: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (T
 
 **Military and security forces**<br>
 People's Armed Forces: Army, Navy, Air Force; National Gendarmerie (operates under the Ministry of Defense); Ministry of Public Security: National Police (2022)<br>
-note - the National Gendarmerie is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police is responsible for maintaining law and order in urban areas<br>
+<strong>note: </strong>the National Gendarmerie is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police is responsible for maintaining law and order in urban areas<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>

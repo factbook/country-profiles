@@ -479,7 +479,7 @@ $17.56 billion (31 December 2013 est.)<br>
 $16.35 billion (31 December 2012 est.)<br>
 
 **Exchange rates**<br>
-Bahamian dollars (BSD) per US dollar -<br>
+_Currency_: Bahamian dollars (BSD) per US dollar -<br>
 1 (2017 est.)<br>
 1 (2016 est.)<br>
 1 (2015 est.)<br>
@@ -624,8 +624,8 @@ _container port(s) (TEUs)_: Freeport (1,396,568) (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements (2022)<br><br>note - the Royal Bahamas Police Force maintains internal security; the Defense Force is primarily responsible for external security but also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; both report to the minister of national security <br>
-note - the Royal Bahamas Police Force maintains internal security; the Defense Force is primarily responsible for external security but also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; both report to the minister of national security&nbsp;<br>
+Royal Bahamas Defense Force (RBDF): includes land, air, maritime elements (2022)<br>
+<strong>note:</strong> the Royal Bahamas Police Force maintains internal security; the Defense Force is primarily responsible for external security but also provides security at a detention center for migrants and performs some domestic security functions, such as guarding embassies; both report to the minister of national security<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>

@@ -242,7 +242,7 @@ _conventional long form_: none<br>
 _conventional short form_: Greenland<br>
 _local long form_: none<br>
 _local short form_: Kalaallit Nunaat<br>
-<strong>note:</strong> named by Norwegian adventurer Erik THORVALDSSON (Erik the Red) in A.D. 985 in order to entice settlers to the island<br>
+_etymology_: named by Norwegian adventurer Erik THORVALDSSON (Erik the Red) in A.D. 985 in order to entice settlers to the island<br>
 
 **Government type**<br>
 parliamentary democracy (Parliament of Greenland or Inatsisartut)<br>
@@ -290,7 +290,7 @@ _election results_: Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (
 **Legislative branch**<br>
 _description_: unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote  - using the d'Hondt method - to serve 4-year terms)<br>Greenland elects 2 members to the Danish Parliament to serve 4-year terms<br>
 _elections_: Greenland Parliament - last held on 6 April 2021 (next to be held in 2025)<br>Greenland members to Danish Parliament - last held on 5 June 2019 (next to be held by 4 June 2023)<br>
-_election results_: Greenland Parliament - percent of vote by party - IA 36.6%, S 29.5%, N 12%, D 9.1%, A 6.9%, other 3.8%; seats by party - IA 12, S 10, PN 4, D 3, A 2; composition - men 21, women 10, percent of women 32.2%<br><br>Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women<br>
+_election results_: Greenland Parliament - percent of vote by party - IA 38.7%, S 32.2%, N 12.9%, D 9.7%, A 6.5%; seats by party - IA 12, S 10, N 4, D 3, A 2; composition - men 21, women 10, percent of women 32.2%<br><br>Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court of Greenland (consists of the presiding professional judge and 2 lay assessors); note - appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen)<br>
@@ -298,7 +298,7 @@ _judge selection and term of office_: judges appointed by the monarch upon the r
 _subordinate courts_: Court of Greenland; 18 district or magistrates' courts<br>
 
 **Political parties and leaders**<br>
-Democrats Party (Demokraatit) or D [Jens Frederik NIELSEN]<br>Forward Party (Siumut) or S [Erik JENSEN]<br>Inuit Community (Inuit Ataqatigiit) or IA [Mute Bourup EGEDE]<br>Signpost Party (Partii Naleraq) or N [Hans ENOKSEN]<br>Fellowship Party (Atassut) or A [Aqqalu JERIMIASSEN]<br>
+Democrats Party (Demokraatit) or D [Jens Frederik NIELSEN]<br>Fellowship Party (Atassut) or A [Aqqalu JERIMIASSEN]<br>Forward Party (Siumut) or S [Erik JENSEN]<br>Inuit Community (Inuit Ataqatigiit) or IA [Mute Bourup EGEDE]<br>Signpost Party (Partii Naleraq) or N [Hans ENOKSEN]<br>
 
 **International organization participation**<br>
 Arctic Council, ICC, NC, NIB, UPU<br>
@@ -444,7 +444,7 @@ $36.4 million (2010)<br>
 $58 million (2009)<br>
 
 **Exchange rates**<br>
-Danish kroner (DKK) per US dollar -<br>
+_Currency_: Danish kroner (DKK) per US dollar -<br>
 6.586 (2017 est.)<br>
 6.7309 (2016 est.)<br>
 6.7309 (2015 est.)<br>

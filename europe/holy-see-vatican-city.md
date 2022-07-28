@@ -191,6 +191,7 @@ _name_: Vatican City<br>
 _geographic coordinates_: 41 54 N, 12 27 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
+_etymology_: the term "Vatican" derives from the hill Mons Vaticanus on which the Vatican is located and which comes from the Latin "vaticinari" (to prophesy), referring to the fortune tellers and soothsayers who frequented the area in Roman times<br>
 
 **Administrative divisions**<br>
 none<br>
@@ -308,7 +309,7 @@ NA<br>
 calendar year<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.885 (2017 est.)<br>
 0.903 (2016 est.)<br>
 0.9214 (2015 est.)<br>

@@ -383,7 +383,7 @@ _lyrics/music_: Dionysios SOLOMOS/Nikolaos MANTZAROS<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 18 (16 cultural, 2 mixed)<br>
-_selected World Heritage Site locales_: Acropolis, Athens (c), Archaeological site of Delphi (c), Meteora (m), Medieval City of Rhodes (c), Archaeological site of Olympia (c), Archaeological site of Mycenae and Tiryns (c), Old Town of Corfu (c), Mount Athos (m), Delos (c), Archaeological Site of Philippi (c)<br>
+_selected World Heritage Site locales_: Acropolis, Athens (c); Archaeological site of Delphi (c); Meteora (m); Medieval City of Rhodes (c); Archaeological site of Olympia (c); Archaeological site of Mycenae and Tiryns (c); Old Town of Corfu (c); Mount Athos (m); Delos (c); Archaeological Site of Philippi (c)<br>
 
 ## Economy
 
@@ -522,7 +522,7 @@ $484.888 billion (2019 est.)<br>
 $478.646 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -679,7 +679,7 @@ _LNG terminal(s) (import)_: Revithoussa<br>
 
 **Military and security forces**<br>
 Hellenic Armed Forces: Hellenic Army (Ellinikos Stratos, ES; includes National Guard reserves), Hellenic Navy (Elliniko Polemiko Navtiko, EPN), Hellenic Air Force (Elliniki Polemiki Aeroporia, EPA; includes air defense); Ministry of Shipping Affairs and Island Policy: Coast Guard (2022)<br>
-note - the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; border protection is coordinated by a deputy minister for national defense<br>
+<strong>note:</strong> the police (under the Ministry of Citizen Protection) and the armed forces (Ministry of National Defense) share law enforcement duties in certain border areas; border protection is coordinated by a deputy minister for national defense<br>
 
 **Military expenditures**<br>
 3.6% of GDP (2021 est.)<br>
@@ -693,11 +693,11 @@ approximately 120,000 active duty personnel (85,000 Army; 15,000 Navy; 20,000 Ai
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Hellenic Armed Forces consists mostly of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems, particularly naval vessels; Germany is the leading supplier of weapons systems to Greece since 2010; Greece's defense industry is capable of producing a range of military hardware, including naval vessels and associated subsystems (2021)<br>
-note - in addition to finalizing an update to the Mutual Defense Cooperation Agreement with the US, Greece also entered into a security agreement with France in 2021 that included the sale of frigates and fighter aircraft to augment its aging weapons systems<br>
+<strong>note:</strong> in addition to finalizing an update to the Mutual Defense Cooperation Agreement with the US, Greece also entered into a security agreement with France in 2021 that included the sale of frigates and fighter aircraft to augment its aging weapons systems<br>
 
 **Military service age and obligation**<br>
 19-45 years of age for compulsory military service; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for volunteers; women are eligible for voluntary military service (2021)<br>
-note(s) - approximately 40-50% of the Greek military is comprised of conscripts; as of 2019, women comprised approximately 19% of the full-time military personnel<br>
+<strong>note 1: </strong>approximately 40-50% of the Greek military is comprised of conscripts<br><br><strong>note 2: </strong>as of 2019, women comprised approximately 19% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 1,000 Cyprus; 100 Kosovo (NATO); 150 Lebanon (UNIFIL) (2022)<br>
@@ -719,7 +719,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle; Revolutionary
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 38,496 (Syria), 25,188 (Afghanistan), 12,657 (Iraq), 5,002 (West Bank and Gaza) (mid-year 2021); 16,804 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 5,552 (mid-year 2021)<br>
-<strong>note:</strong> 1,219,316 estimated refugee and migrant arrivals (January 2015-July 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
+<strong>note:</strong> 1,219,483 estimated refugee and migrant arrivals (January 2015-July 2022); as of the end of February 2022, Greece hosted an estimated 161,419 refugees and asylum seekers<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

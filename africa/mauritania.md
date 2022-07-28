@@ -370,9 +370,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Mohamed Ould Cheikh El GHAZOUANI elected president in first round; percent of vote - Mahamed Ould Cheikh El GHAZOUANI (UPR) 52%, Biram Dah Ould ABEID (independent) 18.6%, Sidi Mohamed Ould BOUBACAR (independent) 17.9%, other 11.55%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Barlamane consists of the National Assembly or Al Jamiya Al Wataniya (157 seats; 113 members in single- and multi-seat constituencies directly elected by a combination of plurality and proportional representation voting systems, 40 members in a single, nationwide constituency directly elected by proportional representation vote, and 4 members directly elected by the diaspora; all members serve 5-year terms)<br>
+_description_: unicameral Parliament or Barlamane consists of the National Assembly or Al Jamiya Al Wataniya (157 seats statutory, 153 current term; 113 members in single- and multi-seat constituencies directly elected by a combination of plurality and proportional representation voting systems, 40 members in a single, nationwide constituency directly elected by proportional representation vote (20 seats are reserved for women candidates in the nationwide constituency) , and 4 members directly elected by the diaspora; all members serve 5-year terms)<br>
 _elections_: first held as the unicameral National Assembly in 2 rounds on 1 and 15 September 2018 (next to be held in 2023)<br>
-_election results_: National Assembly - percent of vote by party - NA; seats by party - UPR 95, Tawassoul 14, UDP 6, El Karama 6, AND 4, PUCM 4, RFD 3, UFP 3, Shura Party for Development 3, Burst of Youth for the Nation 3, SAWAB 3, APP 3, DIL 2, El Wiam 2, AJD/MR 2, Coalition of Wava Mauritanian Party 1, El Ghad 1, National Democratic Union 1, Ravah Party 1, Party of Peace and Democratic Progress 1, El Islah 1<br>
+_election results_: National Assembly - percent of vote by party - NA; seats by party - UPR 95, Tawassoul 14, UDP 6, El Karama 6, AND 4, PUCM 4, RFD 3, UFP 3, Shura Party for Development 3, Burst of Youth for the Nation 3, SAWAB 3, APP 3, DIL 2, El Wiam 2, AJD/MR 2, Coalition of Wava Mauritanian Party 1, El Ghad 1, National Democratic Union 1, Ravah Party 1, Party of Peace and Democratic Progress 1, El Islah 1; composition - men, 122, women 31, percent of women 20.3%<br>
 <strong>note:</strong> a referendum held in August 2017 approved a constitutional amendment to change the Parliament structure from bicameral to unicameral by abolishing the Senate and creating Regional Councils for local development<br>
 
 **Judicial branch**<br>
@@ -549,7 +549,7 @@ $4.15 billion (31 December 2017 est.)<br>
 $3.899 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-ouguiyas (MRO) per US dollar -<br>
+_Currency_: ouguiyas (MRO) per US dollar -<br>
 363.6 (2017 est.)<br>
 352.37 (2016 est.)<br>
 352.37 (2015 est.)<br>
@@ -697,7 +697,7 @@ _major seaport(s)_: Nouadhibou, Nouakchott<br>
 
 **Military and security forces**<br>
 Mauritanian Armed Forces: Army, Mauritanian Navy (Marine Mauritanienne), Islamic Republic of Mauritania Air Group (Groupement Aerienne Islamique de Mauritanie, GAIM); Gendarmerie (Ministry of Defense); Ministry of Interior and Decentralization: National Guard, General Group for Road Safety (2022)<br>
-note(s) - the Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
+<strong>note 1:</strong> the Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas<br><br><strong>note 2:</strong> the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons<br><br><strong>note 3:</strong> the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
 
 **Military expenditures**<br>
 2.4% of GDP (2021 est.)<br>

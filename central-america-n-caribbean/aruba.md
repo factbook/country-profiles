@@ -441,7 +441,7 @@ $693.2 million (31 December 2014 est.)<br>
 $666.4 million (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
-Aruban guilders/florins per US dollar -<br>
+_Currency_: Aruban guilders/florins per US dollar -<br>
 1.79 (2017 est.)<br>
 1.79 (2016 est.)<br>
 1.79 (2015 est.)<br>

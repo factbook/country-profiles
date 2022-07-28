@@ -278,8 +278,8 @@ _agricultural_: 4.7 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Union of the Comoros<br>
 _conventional short form_: Comoros<br>
-_local long form_: Udzima wa Komori (Comorian), Union des Comores (French), Al Ittihad al Qumuri (Arabic)<br>
-_local short form_: Komori (Comorian), Les Comores (French), Juzur al Qamar (Arabic)<br>
+_local long form_: Udzima wa Komori (Comorian)/ Union des Comores (French)/ Al Ittihad al Qumuri (Arabic)<br>
+_local short form_: Komori (Comorian)/ Les Comores (French)/ Juzur al Qamar (Arabic)<br>
 _former_: Comorian State, Federal Islamic Republic of the Comoros<br>
 _etymology_: name derives from the Arabic designation "Juzur al Qamar" meaning "Islands of the Moon"<br>
 
@@ -494,7 +494,7 @@ $199.8 million (31 December 2017 est.)<br>
 $132 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Comoran francs (KMF) per US dollar -<br>
+_Currency_: Comoran francs (KMF) per US dollar -<br>
 458.2 (2017 est.)<br>
 444.76 (2016 est.)<br>
 444.76 (2015 est.)<br>
@@ -626,8 +626,8 @@ _major seaport(s)_: Moroni, Moutsamoudou<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Security Force (also called Comoran Defense Force (Force Comorienne de Defense, FCD), includes Gendarmerie); Ministry of Interior: Coast Guard, Federal Police, National Directorate of Territorial Safety (2021)<br>
-note - when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice<br>
+National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Security Force (also called Comoran Defense Force (Force Comorienne de Defense, FCD), includes Gendarmerie); Ministry of Interior: Coast Guard, Federal Police, National Directorate of Territorial Safety (2022)<br>
+<strong>note: </strong>when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice<br>
 
 **Military and security service personnel strengths**<br>
 Comoran Defense Force has an estimated 600 personnel; est. 500 Comoran Federal Police (2021)<br>

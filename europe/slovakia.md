@@ -387,7 +387,7 @@ _lyrics/music_: Janko MATUSKA/traditional<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (6 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Historic Town of Bansk&aacute; &Scaron;tiavnica (c), Levoča, Spi&scaron;sk&yacute; Hrad, and the Associated Cultural Monuments (c), Vlkol&iacute;nec (c), Caves of Aggtelek Karst and Slovak Karst (n), Bardejov Town (c), Ancient and Primeval Beech Forests of the Carpathians (n), Wooden Churches of the Slovak Carpathians (c), Frontiers of the Roman Empire - The Danube Limes (Western Segment) (c)<br>
+_selected World Heritage Site locales_: Historic Town of Bansk&aacute; &Scaron;tiavnica (c); Levoča, Spi&scaron;sk&yacute; Hrad, and the Associated Cultural Monuments (c); Vlkol&iacute;nec (c); Caves of Aggtelek Karst and Slovak Karst (n); Bardejov Town (c); Ancient and Primeval Beech Forests of the Carpathians (n); Wooden Churches of the Slovak Carpathians (c); Frontiers of the Roman Empire - The Danube Limes (Western Segment) (c)<br>
 
 ## Economy
 
@@ -527,7 +527,7 @@ $115.853 billion (2019 est.)<br>
 $114.224 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -691,7 +691,7 @@ the inventory of the Slovakian military consists mostly of Soviet-era platforms;
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service; conscription in peacetime suspended in 2004; women are eligible to serve (2021)<br>
-note - as of 2019, women made up around 12% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2019, women made up around 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 240 Cyprus (UNFICYP); up to 150 Latvia (NATO); 250 Slovakia (NATO) (2022)<br>
@@ -705,7 +705,7 @@ Slovakia became a member of NATO in 2004<br><br>in 2022, Slovakia agreed to host
 <p><em>Slovakia-Austria</em>: none identified</p> <p><em>Slovakia-Czechia</em>: none identified</p> <p><em>Slovakia-Hungary</em>: initiated by the 1977 Budapest Treaty, Hungary and formerly Czechoslovakia agreed to a hydroelectric dam project on the Danube with dams to be constructed at Gabcikovo (Slovakia) and Nagymaros (Hungary) to prevent floods, improve river navigability, and to generate electricity; when Hungary suspended work on the project until its environmental impact could be assessed, Slovakia continued working on it and adopted a pared down strategy to divert the Danube so that all construction was within Czechoslovakian territory; Hungary terminated the project on environmental and economic grounds in 1989, and in 1992 both countries took the matter to the International Court of Justice (ICJ); the ICJ found largely in favor of then Slovakia, finding Hungary had breached their agreement; however, then Czechoslovakia should not have begun the alternative plan before the ICJ ruled on the case; in 2017, Hungary and Slovakia agreed to discontinue the ICJ proceedings</p> <p><em>Slovakia-Poland</em>: none identified</p> <p><em>Slovakia-Ukraine</em>: tens of thousands of Ukrainian refugees are crossing the border to Slovakia to escape the Russian invasion in their country</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 81,370 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 87,027 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 1,532 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

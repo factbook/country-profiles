@@ -446,7 +446,7 @@ fuels, foodstuffs, machinery and equipment<br>
 <p>NA</p><br>
 
 **Exchange rates**<br>
-Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
+_Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
 110.2 (2017 est.)<br>
 107.84 (2016 est.)<br>
 107.84 (2015 est.)<br>

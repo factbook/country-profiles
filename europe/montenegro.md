@@ -360,7 +360,7 @@ _election results_: Milo DJUKANOVIC elected president in the first round; percen
 **Legislative branch**<br>
 _description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 30 August 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party/coalition - DPS 35.1%, ZBCG 32.6%, MNIM 12.5%, URA 5.5%, SD 4.1%, BS 3.9%, SDP 3.1%, AL 1.6%, Albanian Coalition 1.1%, other 0.4%; seats by party/coalition - DPS 30, ZBCG 27, MNIM 10, URA 4, BS 3, SD 3, SDP 2, AL 1, Albanian Coalition 1.; composition - men 57, women 24, percent of women 29.6%<br>
+_election results_: percent of vote by party/coalition - DPS 35.1%, ZBCG 32.6%, MNIM 12.5%, URA 5.5%, SD 4.1%, BS 3.9%, SDP 3.1%, AL 1.6%, Albanian Coalition 1.1%, other 0.4%; seats by party/coalition - DPS 30, ZBCG 27, MNIM 10, URA 4, BS 3, SD 3, SDP 2, AL 1, Albanian Coalition 1.; composition as of July 2022 - men 59, women 22, percent of women 27.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Vrhovni Sud (consists of the court president, deputy president, and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)<br>
@@ -368,7 +368,7 @@ _judge selection and term of office_: Supreme Court president proposed by genera
 _subordinate courts_: Administrative Courts; Appellate Court; Commercial Courts; High Courts; basic courts<br>
 
 **Political parties and leaders**<br>
-Albanian Alternative or AA [Nik DJELOSAJ]<br>Albanian Coalition (includes DP, DSCG, DUA)<br>Albanian Coalition Perspective or AKP<br>Albanian List or AL (coalition includes AA, Forca, AKP, DSA)<br>Bosniak Party or BS [Rafet HUSOVIC]<br>Croatian Civic Initiative or HGI [Adrian VUKSANOVIC]<br>Croatian Reform Party [Marija VUCINOVIC]<br>Democratic Alliance or DEMOS [Miodrag LEKIC]<br>Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)<br>Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br>Democratic League of Albanians or DSA<br>Democratic Montenegro or DCG [Aleksa BECIC]<br>Democratic Party or DP [Fatmir GJEKA]<br>Democratic Party of Socialists or DPS [Milo DJUKANOVIC]<br>Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC]<br>Democratic People's Party or DNP [Milan KNEZEVIC]<br>Democratic Serb Party or DSS [Dragica PEROVIC]<br>Democratic Union of Albanians or DUA [Mehmet ZENKA]<br>For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP)<br>In Black and White [Dritan ABAZOVIC]<br>Liberal Party or LP [Andrija POPOVIC]<br>Movement for Change or PZP [Nebojsa MEDOJEVIC]<br>New Democratic Power or FORCA [Nazif CUNGU]<br>New Serb Democracy or NOVA [Andrija MANDIC]<br>Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC]<br>Peace is Our Nation or MNIM [Alexa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI)<br>Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties)<br>Social Democratic Party or SDP [Ranko KRIVOKAPIC]<br>Social Democrats or SD [Ivan BRAJOVIC]<br>Socialist People's Party or SNP [Vladimir JOKOVIC]<br>True Montenegro or PRAVA [Marko MILACIC]<br>United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br>United Reform Action or URA [Dritan ABAZOVIC]<br>Workers' Party or RP [Maksim VUCINIC]<br>
+Albanian Alternative or AA [Nik DELJOSAJ]<br>Albanian Coalition (includes DP, DSCG, DUA)<br>Albanian Coalition Perspective or AKP<br>Albanian List or AL [Nik DELJOSAJ] (coalition includes AA, Forca, AKP, DSA)<br>Bosniak Party or BS [Ervin IBRAHIMOVIC]<br>Croatian Civic Initiative or HGI [Adrian VUKSANOVIC]<br>Croatian Reform Party [Marija VUCINOVIC]<br>Democratic Alliance or DEMOS [Miodrag LEKIC]<br>Democratic Front or DF [collective leadership] (coalition includes NOVA, PZP, DNP, RP)<br>Democratic League in Montenegro or DSCG [Mehmet BARDHI]<br>Democratic League of Albanians or DSA<br>Democratic Montenegro or DCG [Aleksa BECIC]<br>Democratic Party or DP [Fatmir GJEKA]<br>Democratic Party of Socialists or DPS [Milo DJUKANOVIC]<br>Democratic Party of Unity or DSJ [Nebojsa JUSKOVIC]<br>Democratic People's Party or DNP [Milan KNEZEVIC]<br>Democratic Serb Party or DSS [Dragica PEROVIC]<br>Democratic Union of Albanians or DUA [Mehmet ZENKA]<br>For the Future of Montenegro or ZBCG [Zdravko KRIVOKAPIC] (electoral coalition includes SNP and 2 alliances - DF, NP)<br>In Black and White [Dritan ABAZOVIC]<br>Liberal Party or LP [Andrija POPOVIC]<br>Movement for Changes or PZP [Nebojsa MEDOJEVIC]<br>New Democratic Power or FORCA [Nazif CUNGU]<br>New Serb Democracy or NOVA [Andrija MANDIC]<br>Party of Pensioners, Disabled, and Restitution or PUPI [Momir JOKSIMOVIC]<br>Peace is Our Nation or MNIM [Alexa BECIC] (coalition includes Democrats, DEMOS, New Left, PUPI)<br>Popular Movement or NP [Miodrag DAVIDOVIC] (coalition includes DEMOS, RP, UCG, and several minor parties)<br>Social Democratic Party or SDP [Rasko KONJEVIC]<br>Social Democrats or SD [Damir SEHOVIC]<br>Socialist People's Party or SNP [Vladimir JOKOVIC]<br>True Montenegro or PRAVA [Marko MILACIC]<br>United Montenegro or UCG [Goran DANILOVIC] (split from DEMOS)<br>United Reform Action or URA [Dritan ABAZOVIC]<br>Workers' Party or RP [Maksim VUCINIC]<br>
 
 **International organization participation**<br>
 CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -402,7 +402,7 @@ _lyrics/music_: Sekula DRLJEVIC/unknown, arranged by Zarko MIKOVIC<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Natural and Culturo-Historical Region of Kotor (c), Durmitor National Park (n), Stećci Medieval Tombstones Graveyards (c), Fortified City of Kotor Venetian Defense Works (c)<br>
+_selected World Heritage Site locales_: Natural and Culturo-Historical Region of Kotor (c); Durmitor National Park (n); Stećci Medieval Tombstones Graveyards (c); Fortified City of Kotor Venetian Defense Works (c)<br>
 
 ## Economy
 
@@ -541,7 +541,7 @@ $2.516 billion (31 December 2017 est.)<br>
 $2.224 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.885 (2017 est.)<br>
 0.903 (2016 est.)<br>
 0.9214 (2015 est.)<br>
@@ -699,7 +699,7 @@ the inventory of the Armed Forces of Montenegro is small and consists mostly of 
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2021)<br>
-note - as of 2019, women made up about 6% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provided NATO's air policing mission for Montenegro<br>
@@ -712,9 +712,9 @@ Montenegro became a member of NATO in 2017; as of 2022, Greece and Italy provide
 <p><em>Montenegro-Albania</em>: none identified</p> <p><em>Montenegro-Bosnia and Herzegovina</em>: the two countries signed a border agreement in August 2015; sovereignty of the disputed Sutorina territory was given to Montenegro</p> <p><em>Montenegro-Croatia</em>: the two countries in 2002 reached a temporary agreement designating the Prevlaka Peninsula as part of Croatia, in October 2020, a Montenegrin official resurrected the dormant dispute over the Prevlaka Peninsula by stating that Montenegro had a good chance of winning it through international arbitration</p> <p><em>Montenegro-Kosovo</em>: a 2015 border agreement was ratified by Montenegro in 2015 and by Kosovo in 2018, but the actual demarcation has not been completed</p> <p><em>Montenegro-Serbia</em>: The former republic boundary – when the two countries were one and called the Federal Republic of Yugoslavia – serves as the boundary until a line is formally delimited and demarcated</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,394 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 9,609 (Ukraine) (as of 12 July 2022)<br>
 _stateless persons_: 458 (mid-year 2021)<br>
-<strong>note:</strong> 22,793 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
+<strong>note:</strong> 22,941 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

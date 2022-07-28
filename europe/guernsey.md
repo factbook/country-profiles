@@ -366,7 +366,7 @@ coal, gasoline, oil, machinery, and equipment<br>
 <p>NA</p><br>
 
 **Exchange rates**<br>
-Guernsey pound per US dollar<br>
+_Currency_: Guernsey pound per US dollar<br>
 0.7836 (2017 est.)<br>
 0.738 (2016 est.)<br>
 0.738 (2015)<br>

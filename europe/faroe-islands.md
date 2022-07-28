@@ -427,7 +427,7 @@ $387.6 million (2012)<br>
 $274.5 million (2010)<br>
 
 **Exchange rates**<br>
-Danish kroner (DKK) per US dollar -<br>
+_Currency_: Danish kroner (DKK) per US dollar -<br>
 6.586 (2017 est.)<br>
 6.7269 (2016 est.)<br>
 6.7269 (2015 est.)<br>

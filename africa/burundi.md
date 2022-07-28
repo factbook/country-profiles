@@ -318,7 +318,7 @@ _agricultural_: 222 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Burundi<br>
 _conventional short form_: Burundi<br>
-_local long form_: Republique du Burundi/Republika y'u Burundi<br>
+_local long form_: Republique du Burundi (French)/ Republika y'u Burundi (Kirundi)<br>
 _local short form_: Burundi<br>
 _former_: Urundi, German East Africa, Ruanda-Urundi, Kingdom of Burundi<br>
 _etymology_: name derived from the pre-colonial Kingdom of Burundi (17th-19th century)<br>
@@ -364,7 +364,7 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); Prime Minister Alain-Guillaume BUNYONI (since 24 June 2020)<br>
 _cabinet_: Council of Ministers appointed by president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in 2025); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in 2025); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1 (2020)<br>
 _election results_: Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, OTHER 1.6%<br>
 
 **Legislative branch**<br>
@@ -537,7 +537,7 @@ $610.9 million (31 December 2017 est.)<br>
 $622.4 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Burundi francs (BIF) per US dollar -<br>
+_Currency_: Burundi francs (BIF) per US dollar -<br>
 1,945 (2020 est.)<br>
 1,876.25 (2019 est.)<br>
 1,800.495 (2018 est.)<br>

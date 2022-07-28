@@ -343,7 +343,7 @@ _elections/appointments_: president indirectly elected by the National Assembly 
 _election results_: Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because the Assembly lacked the necessary quorum to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Majlis al-Nuwab in Arabic or Assemblee Nationale in French (128 seats; members directly elected in multi-member constituencies by listed-based proportional representation vote; members serve 4-year terms); prior to 2017, the electoral system was by majoritarian vote<br>
+_description_: unicameral National Assembly or Majlis al-Nuwab in Arabic or Assemblee Nationale in French (128 seats; members directly elected in multi-member constituencies by open list proportional representation vote; members serve 4-year terms); prior to 2017, the electoral system was by majoritarian vote<br>
 _elections_: last held on 15 May 2022 (next to be held in May 2026)<br>
 _election results_: percent of vote by coalition/party &ndash; NA; seats by party/coalition &ndash; FPM 16, LF 14, Amal Movement 13, Hezbollah 13, PSP 9, Future Movement Bloc (candidates did not run in 2022; members ran as independents) 8, Kata&rsquo;ib Party 4, other 30, independent 21; composition - men 120, women 8, percent of women 6.3%<br>
 <strong>note:</strong> Lebanon’s constitution states the National Assembly cannot conduct regular business until it elects a president when the position is vacant<br>
@@ -388,7 +388,7 @@ _lyrics/music_: Rachid NAKHLE/Wadih SABRA<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (all cultural)<br>
-_selected World Heritage Site locales_: Anjar, Baalbek, Byblos, Tyre, Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab)<br>
+_selected World Heritage Site locales_: Anjar; Baalbek; Byblos; Tyre; Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab)<br>
 
 ## Economy
 
@@ -525,7 +525,7 @@ $33.077 billion (2019 est.)<br>
 $33.655 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Lebanese pounds (LBP) per US dollar -<br>
+_Currency_: Lebanese pounds (LBP) per US dollar -<br>
 1,517.5 (2020 est.)<br>
 1,513 (2019 est.)<br>
 1,506.5 (2018 est.)<br>
@@ -604,7 +604,7 @@ _total subscriptions_: 4,288,221 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 63 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: struggling with effects of the economic crisis compounded by the Covid-19 pandemic and the Port of Beirut explosion in 2020; Lebanon&rsquo;s telecom infrastructure is relatively weak and services are expensive; rural areas are less connected and experience frequent power cuts; state retains a monopoly over the Internet backbone and dominant ownership of the telecom industry; government backed improvements to fixed infrastructure; new landlines and fiber-optic networks provide faster DSL; limited 5G services; three international gateways through submarine cables; importer of broadcasting equipment from UAE; UAE investment in tech solutions (2020)<br>
+_general assessment_: Lebanon&rsquo;s economic crisis has had a dire effect on the country&rsquo;s telecom services; although some progress has been made with developing 5G, the poor economic conditions have contributed to an erratic electricity supply and a lack of fuel to maintain generators; this has meant that internet services to areas of the country are not available on a regular basis, frustrating all those who depend on stable connectivity, and stalling business growth; adding to the difficulties are the combined stresses of the pandemic and the political crisis; a caretaker cabinet in September 2021 made way for a new government though there is little confidence on the ground that sectarian-based political horse-trading will give way to responsible governing to improve the lot of the stressed populace.&nbsp; (2022)<br>
 _domestic_: fixed-line nearly 13 per 100 and nearly 63 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 961; landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links to Europe, Africa, the Middle East and Asia; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -676,7 +676,7 @@ _container port(s) (TEUs)_: Beirut (1,229,100) (2019)<br>
 
 **Military and security forces**<br>
 Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces; Ministry of Interior: Internal Security Forces Directorate (law enforcement; includes Mobile Gendarmerie), Directorate for General Security (DGS; border control, some domestic security duties) (2022)<br>
-note(s) - the commander of the LAF is also the commander of the Army; the LAF patrols external borders, while official checkpoints are under the authority of Directorate for General Security<br>
+<strong>note:</strong> the commander of the LAF is also the commander of the Army; the LAF patrols external borders, while official border checkpoints are under the authority of Directorate for General Security<br>
 
 **Military expenditures**<br>
 4.7% of GDP (2019 est.) (approximately $3.6 billion)<br>
@@ -693,7 +693,7 @@ the LAF inventory includes a wide mix of mostly older equipment from a diverse a
 
 **Military service age and obligation**<br>
 17-25 years of age for voluntary military service (including women); no conscription (2022)<br>
-note - as of 2020, women comprised about 5% of the active duty military<br>
+<strong>note:</strong> as of 2020, women comprised about 5% of the active duty military<br>
 
 **Military - note**<br>
 as of 2022, the Lebanese military faced multiple challenges, including securing parts of the border with war-torn Syria from infiltrations of militants linked to the Islamic State and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based terrorist group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br>the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,000 personnel deployed in the country as of 2022 (2022)<br>

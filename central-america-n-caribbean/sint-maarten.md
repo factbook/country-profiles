@@ -203,7 +203,7 @@ _rate of urbanization_: 1.16% annual rate of change (2020-25 est. est.)<br>
 **Country name**<br>
 _conventional long form_: Country of Sint Maarten<br>
 _conventional short form_: Sint Maarten<br>
-_local long form_: Land Sint Maarten (Dutch); Country of Sint Maarten (English)<br>
+_local long form_: Land Sint Maarten (Dutch)/ Country of Sint Maarten (English)<br>
 _local short form_: Sint Maarten (Dutch and English)<br>
 _former_: Netherlands Antilles; Curacao and Dependencies<br>
 _etymology_: explorer Christopher COLUMBUS named the island after Saint MARTIN of Tours because the 11 November 1493 day of discovery was the saint's feast day<br>
@@ -344,7 +344,7 @@ $1.23 billion (2019 est.) note: data are in current year dollars<br>
 $1.22 billion (2018 est.) note: data are in current year dollars<br>
 
 **Exchange rates**<br>
-Netherlands Antillean guilders (ANG) per US dollar -<br>
+_Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>
 1.79 (2017 est.)<br>
 1.79 (2016 est.)<br>
 1.79 (2015 est.)<br>
@@ -379,6 +379,10 @@ _international_: country code - 1-721; landing points for SMPR-1 and the ECFS su
 
 **Internet country code**<br>
 <p>.sx; note - IANA has designated .sx for Sint Maarten, but has not yet assigned it to a sponsoring organization</p><br>
+
+**Internet users**<br>
+_total_: 39,100 (March 2022)<br>
+_percent of population_: 89.5% (March 2022)<br>
 
 ## Transportation
 

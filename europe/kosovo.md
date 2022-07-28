@@ -234,8 +234,8 @@ Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 **Country name**<br>
 _conventional long form_: Republic of Kosovo<br>
 _conventional short form_: Kosovo<br>
-_local long form_: Republika e Kosoves (Republika Kosovo)<br>
-_local short form_: Kosove (Kosovo)<br>
+_local long form_: Republika e Kosoves (Albanian)/ Republika Kosovo (Serbian)<br>
+_local short form_: Kosove (Albanian)/ Kosovo (Serbian)<br>
 _etymology_: name derives from the Serbian "kos" meaning "blackbird," an ellipsis (linguistic omission) for "kosove polje" or "field of the blackbirds"<br>
 
 **Government type**<br>
@@ -464,7 +464,7 @@ $2.388 billion (2019 est.)<br>
 $2.409 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.885 (2017 est.)<br>
 0.903 (2016 est.)<br>
 0.9214 (2015 est.)<br>
@@ -542,14 +542,14 @@ _total subscriptions_: 562,000 (2015 est.)<br>
 _subscriptions per 100 inhabitants_: 32 (2015 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: EU pre-accession process supported progress in the telecom industry with a regulatory framework, European standards, and a market of new players encouraging development; two operators dominate the sector; under-developed telecom infrastructure leads to low fixed-line penetration; little expansion of fiber networks for broadband; expansion of LTE services (2020)<br>
+_general assessment_: Kosovo has benefited from financial and regulatory assistance as part of the EU pre-accession process; the telecom sector has been liberalized, and legislation has aligned the sector with the EU&rsquo;s revised regulatory framework; poor telecom infrastructure has meant that fixed-line communication remains low by European standards; unlike most markets, the fixed-line broadband sector is dominated by new players, in particular the cable operator IPKO, a subsidiary of Telekom Slovenia; broadband companies in Kosovo are developing slowly; there is effective competition between the main cable and DSL operators, though as yet there is little progress with the expansion of fiber networks: investment by the incumbent PTK, trading as Telecom Kosovo, in building an upgraded fiber-based NGN has been insufficient thus far, exacerbated by the company&rsquo;s financial difficulties; these difficulties encouraged the government in mid-2019 to prepare the sale of a majority stake in the company; the mobile sector accounts for most telecom lines for voice services, as well as the greater part of telecom revenue; two MNOs dominate the sector; Telenor Serbia and VIP Mobile stopped offering unlicensed mobile voice and data services in mid-2017 across border regions as part of a deal by which Kosovo secured its own dialing code. (2022 )<br>
 _domestic_: fixed-line roughly 6 per 100 and mobile-cellular 32 per 100 persons (2019)<br>
 _international_: country code - 383<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Internet country code**<br>
-.xk<br>
-<strong>note:</strong> assigned as a temporary code under UN Security Council resolution 1244/99<br>
+.xk; note - assigned as a temporary code under UN Security Council resolution 1244/99<br><br> <br>
+&nbsp;<br>
 
 **Internet users**<br>
 _total_: 1,502,658 (2019 est.)<br>
@@ -592,7 +592,7 @@ _unpaved_: 91 km (2015)<br>
 
 **Military and security forces**<br>
 Kosovo Security Force (KSF): Land Force Command; Logistics Command; Doctrine and Training Command; National Guard Command (2022)<br>
-as of 2022, the Kosovo Government continued the process of transitioning the KSF into a multi-ethnic territorial defense force, in accordance with a 10-year plan which began in 2019<br>
+<strong>note: </strong>as of 2022, the Kosovo Government continued the process of transitioning the KSF into a multi-ethnic territorial defense force, in accordance with a 10-year plan which began in 2019<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>

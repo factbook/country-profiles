@@ -453,7 +453,7 @@ includes the West Bank<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Israel has final say in allocating frequencies in the Gaza Strip and does not permit anything beyond a 2G network (2018)<br>
-_domestic_: Israeli company BEZEK and the Palestinian company PALTEL are responsible for fixed-line services; the Palestinian JAWWAL company provides cellular services; a slow 2G network allows calls and limited data transmission; fixed-line 9 per 100 and mobile-cellular 76 per 100 (includes West Bank)<br>
+_domestic_: Israeli company BEZEQ and the Palestinian company PALTEL are responsible for fixed-line services; the Palestinian JAWWAL company provides cellular services; a slow 2G network allows calls and limited data transmission; fixed-line 9 per 100 and mobile-cellular 76 per 100 (includes West Bank)<br>
 _international_: country code 970 or 972 (2018)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -461,11 +461,12 @@ _international_: country code 970 or 972 (2018)<br>
 1 TV station and about 10 radio stations; satellite TV accessible<br>
 
 **Internet country code**<br>
-.psnote - same as the West Bank<br>
+.ps; note - IANA has designated .ps for the Gaza Strip, same as the West Bank<br>
 
 **Internet users**<br>
-_total_: 3,602,452 (2020 est.) (includes the West Bank)<br>
+_total_: 3,602,452 (2020 est.)<br>
 _percent of population_: 75% (2020 est.)<br>
+<strong>note:</strong> includes the West Bank<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 376,911 (2020 est.)<br>

@@ -535,7 +535,7 @@ $23.094 billion (2019 est.)<br>
 $21.198 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Dominican pesos (DOP) per US dollar -<br>
+_Currency_: Dominican pesos (DOP) per US dollar -<br>
 47.42 (2017 est.)<br>
 46.078 (2016 est.)<br>
 46.078 (2015 est.)<br>
@@ -688,7 +688,7 @@ _LNG terminal(s) (import)_: Andres LNG terminal (Boca Chica)<br>
 
 **Military and security forces**<br>
 Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Marina de Guerra, MdG, includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2022)<br>
-note(s) - in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation, Port Security Authority, the Tourist Security Corps, and Border Security Corps; the National Police (Policia Nacional) are under the Ministry of Interior<br>
+<strong>note:</strong> in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation, Port Security Authority, the Tourist Security Corps, and Border Security Corps; the National Police (Policia Nacional) are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
@@ -705,7 +705,7 @@ the military is lightly armed with an inventory consisting mostly of older US eq
 
 **Military service age and obligation**<br>
 17-21 years of age for voluntary military service (men and women); recruits must have completed primary school and be Dominican Republic citizens; women may volunteer (2022)<br>
-note - as of 2021, women made up approximately 20% of the active duty military<br>
+<strong>note:</strong> as of 2021, women made up approximately 20% of the active duty military<br>
 
 **Military - note**<br>
 the military's primary focuses are countering illegal immigration and refugees along its 350-kilometer-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief (2022)<br>

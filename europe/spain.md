@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Spain's powerful world empire of the 16th and 17th centuries ultimately yielded command of the seas to England. Subsequent failure to embrace the mercantile and industrial revolutions caused the country to fall behind Britain, France, and Germany in economic and political power. Spain remained neutral in World War I and II, but suffered through a devastating civil war (1936-39). A peaceful transition to democracy following the death of dictator Francisco FRANCO in 1975, and rapid economic modernization (Spain joined the EU in 1986) gave Spain a dynamic and rapidly growing economy, and made it a global champion of freedom and human rights. More recently, Spain has emerged from a severe economic recession that began in mid-2008, posting four straight years of GDP growth above the EU average. Unemployment has fallen, but remains high, especially among youth. Spain is the Eurozone's fourth largest economy. The country has faced increased domestic turmoil in recent years due to the independence movement in its restive Catalonia region.</p><br>
+<p>Spain's powerful world empire of the 16th and 17th centuries ultimately yielded command of the seas to England. Subsequent failure to embrace the mercantile and industrial revolutions caused the country to fall behind Britain, France, and Germany in economic and political power. Spain remained neutral in World War I and II but suffered through a devastating civil war (1936-39). A peaceful transition to democracy following the death of dictator Francisco FRANCO in 1975, and rapid economic modernization (Spain joined the EU in 1986) gave Spain a dynamic and rapidly growing economy, and made it a global champion of freedom and human rights. More recently, Spain has emerged from a severe economic recession that began in mid-2008, posting solid years of GDP growth above the EU average. Unemployment has fallen but remains high, especially among youth. Spain is the euro-zone's fourth-largest economy. The country has faced increased domestic turmoil in recent years due to the independence movement in its restive Catalonia region.</p><br>
 
 ## Geography
 
@@ -403,7 +403,7 @@ _lyrics/music_: no lyrics/unknown<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 49 (43 cultural, 4 natural, 2 mixed)<br>
-_selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Art of Northern Spain (c); Works of Antoni Gaudí (c); Santiago de Compostela (Old Town) (c); Historic City of Toledo (c); Archaeological Ensemble of Mérida (c); Tower of Hercules (c); Doñana National Park (n); Pyrénées - Mont Perdu (m); Alhambra, Generalife, and Albayzín in Granada (c);  Old City of Salamanca (c); Teide National Park (n); Historic Walled Town of Cuenca (c); Old Town of Segovia and its Aqueduct (c); Historic Cordoba (c); El Escorial (c)<br>
+_selected World Heritage Site locales_: Cave of Altamira and Paleolithic Cave Art of Northern Spain (c); Works of Antoni Gaudí (c); Santiago de Compostela (Old Town) (c); Historic City of Toledo (c); Archaeological Ensemble of Mérida (c); Tower of Hercules (c); Doñana National Park (n); Pyrénées - Mont Perdu (m); Alhambra, Generalife, and Albayzín in Granada (c); Old City of Salamanca (c); Teide National Park (n); Historic Walled Town of Cuenca (c); Old Town of Segovia and its Aqueduct (c); Historic Cordoba (c); El Escorial (c)<br>
 
 ## Economy
 
@@ -542,7 +542,7 @@ $2,338,853,000,000 (2019 est.)<br>
 $2,366,534,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -701,7 +701,7 @@ _river port(s)_: Seville (Guadalquivir River)<br>
 
 **Military and security forces**<br>
 Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, AE, includes Marine Corps), Spanish Air Force (Ejercito del Aire Espanola, EdA); Civil Guard (Guardia Civil) (2022)<br>
-note - the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br>
+<strong>note:</strong> the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defense and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br>
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>
@@ -718,7 +718,7 @@ the inventory of the Spanish military is comprised of domestically-produced and 
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service by a Spanish citizen or legal immigrant, 2-3 year obligation; women allowed to serve in all SAF branches, including combat units; no conscription (abolished 2001), but Spanish Government retains right to mobilize citizens 19-25 years of age in a national emergency (2021)<br>
-note - as of 2019, women comprised about 13% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 200 Iraq (NATO/EU training assistance); 600 Latvia (NATO); 650 Lebanon (UNIFIL); approximately 500 Mali (EUTM); 150 Turkey (NATO) (2022)<br>
@@ -739,9 +739,9 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <p><em>Spain-Andorra</em>: none identified</p> <p><em>Spain-France</em>: none identified</p> <p><em>Spain-Gibraltar (UK)</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain does not recognize British sovereignty beyond the original fortified perimeter of the city and disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal</p> <p><em>Spain-Morocco</em>: Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island), which remains unoccupied but was the site of a  military standoff in 2002; Morocco serves as the primary embarkation area for illegal migration into mainland Spain from North Africa</p> <p><em>Spain-Portugal</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 127,750 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 14,823 (Syria) (mid-year 2021); 418,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021); 130,160 (Ukraine) (as of 19 July 2022)<br>
 _stateless persons_: 692 (mid-year 2021)<br>
-<strong>note: </strong>262,811 estimated refugee and migrant arrivals, including Canary Islands (January 2015-July 2022)<br>
+<strong>note: </strong>263,385 estimated refugee and migrant arrivals, including Canary Islands (January 2015-July 2022)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

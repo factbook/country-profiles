@@ -399,7 +399,7 @@ _lyrics/music_: SISANA Sisane/THONGDY Sounthonevichit<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>
-_selected World Heritage Site locales_: Town of Luangphrabang, Vat Phou and Associated Ancient Settlements, Megalithic Jar Sites in Xiengkhuang - Plain of Jars<br>
+_selected World Heritage Site locales_: Town of Luangphrabang; Vat Phou and Associated Ancient Settlements; Megalithic Jar Sites in Xiengkhuang - Plain of Jars<br>
 
 ## Economy
 
@@ -534,7 +534,7 @@ $14.9 billion (31 December 2017 est.)<br>
 $12.9 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-kips (LAK) per US dollar -<br>
+_Currency_: kips (LAK) per US dollar -<br>
 8,231.1 (2017 est.)<br>
 8,129.1 (2016 est.)<br>
 8,129.1 (2015 est.)<br>
@@ -615,7 +615,7 @@ _total subscriptions_: 4.1 million (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 56 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: reliance on radio network to communicate with remote areas; regulatory reform is below industry standards; government aims to strengthen infrastructure and attract foreign investment; low fixed-broadband penetration; dominance in mobile broadband with 4G and LTE, but low compared to other Asian markets; ASEAN Digital Hub investment provides international capacity; state owns almost all media, except for some entertainment outlets, and has suppressed some news; importer of broadcasting equipment and computers from China; providers examining m-payment platforms and 5G tests (2020)<br>
+_general assessment_: Laos joined the World Trade Organisation (WTO) in 2013; one of the conditions of admittance was to establish an independent regulator for its telecom sector within two years; the government had committed to do so by February 2015 as part of the accession agreement; there still has been no sign of any firm plans being made to create an independent regulatory body; the Ministry of Posts and Telecommunications (MPT) retains the primary role in regulating the country&rsquo;s telecom market; with the government also having a financial stake (in part or in whole) in every one of the major fixed-line and mobile operators, the MPT&rsquo;s position and decision-making is far from what could be considered independent; sufficient returns on investment cannot be guaranteed with such strict pricing controls as well as the potential for political interference; fixed-line and mobile penetration levels have, as a result, remained much lower than what&rsquo;s seen in neighboring South East Asian markets; there are signs of growth in the mobile broadband segment as LTE network coverage slowly widens and, more recently, the country&rsquo;s first 5G services start to come on stream; residents in the capital will at least be able to enjoy high-speed services in the near future, while the rest of the country waits patiently to catch up with the rest of the world.&nbsp; (2022)<br>
 _domestic_: fixed-line nearly 21 per 100 and 61 per 100 for mobile-cellular subscriptions (2019)<br>
 _international_: country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) and a second to be developed by China<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

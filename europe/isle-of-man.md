@@ -420,7 +420,7 @@ timber, fertilizers, fish<br>
 <p>NA</p><br>
 
 **Exchange rates**<br>
-Manx pounds (IMP) per US dollar -<br>
+_Currency_: Manx pounds (IMP) per US dollar -<br>
 0.7836 (2017 est.)<br>
 0.738 (2016 est.)<br>
 0.738 (2015)<br>

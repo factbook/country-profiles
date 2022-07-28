@@ -378,7 +378,7 @@ _election results_: <em>2022: </em>Emmanuel MACRON reelected in second round; pe
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members, and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
 _elections_: <br>Senate - last held on 24 and 27 September 2020 (next to be held in September 2023)<br>National Assembly - last held on 12 and 19 June 2022 (next to be held in June 2027)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by political caucus (party or group of parties)  - NA; composition - men 226, women 122, percent of women 35.1%<br>National Assembly - percent of vote by party/coalition in the first round - ENS 25.8%, NUPES 25.7%, RN 18.7%, UDC 11.3%, other 18.5%; seats by party/coalition in the first round - NUPES 4, ENS 1; percent of vote in the second round - ENS 38.6%, NUPES 31.6%, RN 17.3%, UDC 7.3%, other 5.2%, seats by party/coalition in the second round - ENS 244, NUPES 127, RN 89, UDC 64, other 48<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by political caucus (party or group of parties)  - NA ; composition - men 226, women 122, percent of women 35.1%<br>National Assembly - percent of vote by party/coalition in the first round - ENS 25.8%, NUPES 25.7%, RN 18.7%, UDC 11.3%, other 18.5%; seats by party/coalition in the first round - NUPES 4, ENS 1; percent of vote in the second round - ENS 38.6%, NUPES 31.6%, RN 17.3%, UDC 7.3%, other 5.2%, seats by party/coalition in the second round - ENS 244, NUPES 127, RN 89, UDC 64, other 48<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation or Cour de Cassation (consists of the court president, 6 divisional presiding judges, 120 trial judges, and 70 deputy judges organized into 6 divisions - 3 civil, 1 commercial, 1 labor, and 1 criminal); Constitutional Council (consists of 9 members)<br>
@@ -424,7 +424,7 @@ _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 49 (43 cultural, 5 natural, 1 mixed); note - includes one site in New Caledonia and one site in French Polynesia<br>
-_selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park of Versailles (c); Prehistoric Sites and Decorated Caves of the Vézère Valley (c); Pyrénées - Mont Perdu (m); Cistercian Abbey of Fontenay (c); Paris, Banks of the Seine (c); The Loire Valley between Sully-sur-Loire and Chalonnes (c); Pont du Gard (Roman Aqueduct) (c); Amiens Cathedral (c); Palace and Park of Fontainebleau (c); Historic Fortified City of Carcassonne (c)<br>
+_selected World Heritage Site locales_: Chartres Cathedral (c); Palace and Park of Versailles (c); Prehistoric Sites and Decorated Caves of the Vézère Valley (c); Pyrénées - Mont Perdu (m); Cistercian Abbey of Fontenay (c); Paris, Banks of the Seine (c); The Loire Valley between Sully-sur-Loire and Chalonnes (c); Pont du Gard (Roman Aqueduct) (c); Amiens Cathedral (c); Palace and Park of Fontainebleau (c); Historic Fortified City of Carcassonne (c); Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve (n)<br>
 
 ## Economy
 
@@ -565,7 +565,7 @@ $6,356,459,000,000 (2019 est.)<br>
 $6,058,438,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -729,7 +729,8 @@ begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) 
 ## Military and Security
 
 **Military and security forces**<br>
-French Armed Forces (Forces Arm&eacute;es Fran&ccedil;aises): Army (Armee de Terre; includes Foreign Legion), Navy (Marine Nationale), Air and Space Force (Armee de l&rsquo;Air et de l&rsquo;Espace); includes Air Defense), National Guard (Reserves), National Gendarmerie (paramilitary police force that is a branch of the Armed Forces but under the jurisdiction of the Ministry of the Interior; also has additional duties to the Ministry of Defense and the Ministry of Justice) (2022)<br>
+French Armed Forces (Forces Armées Françaises): Army (Armee de Terre; includes Foreign Legion), Navy (Marine Nationale), Air and Space Force (Armee de l’Air et de l’Espace); includes Air Defense), National Guard (Reserves), National Gendarmerie (2022)<br>
+<strong>note: </strong>the National Gendarmerie is a paramilitary police force that is a branch of the Armed Forces but under the jurisdiction of the Ministry of the Interior; it also has additional duties to the Ministry of Defense and the Ministry of Justice<br>
 
 **Military expenditures**<br>
 1.9% of GDP (2021 est.)<br>
@@ -745,11 +746,11 @@ the French military has approximately 205,000 active duty troops (115,000 Army; 
 the French military's inventory consists mostly of domestically-produced weapons systems, including some jointly-produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; France has a defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2022)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for male and female voluntary military service; no conscription (abolished 2001); 1-year service obligation; women serve in noncombat posts (2021)<br><br>note(s) - men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign 5-year contracts; in 2019, women comprised approximately approximately 16% of the uniformed armed forces (21% including civilians) <br>
-note(s) - men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign 5-year contracts; in 2019, women comprised approximately approximately 16% of the uniformed armed forces (21% including civilians)&nbsp;<br>
+18-25 years of age for male and female voluntary military service; no conscription (abolished 2001); 1-year service obligation; women serve in noncombat posts (2021)<br>
+<strong>note 1: </strong>in 2019, women comprised approximately approximately 16% of the uniformed armed forces  <br><br><strong>note 2: </strong>men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign 5-year contracts<br>
 
 **Military deployments**<br>
-approximately 4,000 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Operation Sabre, Task Force Takuba; note - in 2021, France announced that it would cut the number of troops from this force to about 2,500 by 2023; in 2022, France said it would move the troops in Mali--about 2,400--to other west African countries); approximately 300 Central African Republic; 950 Cote D'Ivoire; 1,450 Djibouti; 350 Baltics (NATO); 2,100 French Guyana; 900 French Polynesia; 1,000 French West Indies; 350 Gabon; approximately 500 Middle East (Iraq/Jordan/Syria); 570 Lebanon (UNIFIL); 1,450 New Caledonia; 1,700 Reunion Island; 350 Senegal; 650 United Arab Emirates (2022)<br>
+approximately 4,000 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Operation Sabre; note - in 2021, France announced that it would cut the number of troops from this force to about 2,500 by 2023; in 2022, France said it would move the troops in Mali--about 2,400--to other west African countries); approximately 300 Central African Republic; 950 Cote D'Ivoire; 1,450 Djibouti; 350 Baltics (NATO); 2,100 French Guyana; 900 French Polynesia; 1,000 French West Indies; 350 Gabon; approximately 500 Middle East (Iraq/Jordan/Syria); 570 Lebanon (UNIFIL); 1,450 New Caledonia; 1,700 Reunion Island; 350 Senegal; 650 United Arab Emirates (2022)<br>
 <strong>note 1:</strong> France has been a contributing member of the EuroCorps since 1992 <br><br><strong>note 2: </strong>NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries, including France, have sent additional troops to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
@@ -767,7 +768,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>Madagascar claims the French territories of Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island; Comoros claims Mayotte; Mauritius claims Tromelin Island; territorial dispute between Suriname and the French overseas department of French Guiana; France asserts a territorial claim in Antarctica (Adelie Land); France and Vanuatu claim Matthew and Hunter Islands, east of New Caledonia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,744 (Afghanistan), 23,980 (Sri Lanka), 23,510 (Syria), 21,070 (Sudan), 19,007 (Democratic Republic of the Congo), 16,995 (Russia), 15,090 (Guinea), 14,296 (Serbia and Kosovo), 13,180 (Turkey), 10,849 (Cambodia), 9,328 (Iraq) 8,519 (China), 8,338 (Cote d'Ivoire), 8,218 (Eritrea), 7,628 (Vietnam), 6,947 (Bangladesh), 6,649 (Somalia), 6,642 (Albania), 6,371 (Laos), 6,074 (Mauritania), 5,908 (Mali) (mid-year 2021); 92,156 (Ukraine) (as of 4 July 2022)<br>
+_refugees (country of origin)_: 37,744 (Afghanistan), 23,980 (Sri Lanka), 23,510 (Syria), 21,070 (Sudan), 19,007 (Democratic Republic of the Congo), 16,995 (Russia), 15,090 (Guinea), 14,296 (Serbia and Kosovo), 13,180 (Turkey), 10,849 (Cambodia), 9,328 (Iraq) 8,519 (China), 8,338 (Cote d'Ivoire), 8,218 (Eritrea), 7,628 (Vietnam), 6,947 (Bangladesh), 6,649 (Somalia), 6,642 (Albania), 6,371 (Laos), 6,074 (Mauritania), 5,908 (Mali) (mid-year 2021); 92,156 (Ukraine) (as of 18 July 2022)<br>
 _stateless persons_: 2,094 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

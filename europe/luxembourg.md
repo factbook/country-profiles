@@ -519,7 +519,7 @@ $4,266,792,000,000 (2019 est.)<br>
 $4,581,617,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -682,7 +682,7 @@ the inventory of Luxembourg's Army is a small mix of Western-origin equipment; s
 
 **Military service age and obligation**<br>
 18-26 years of age for male and female voluntary military service; no conscription (abolished 1969); Luxembourg citizen or EU citizen with 3-year residence in Luxembourg (2021)<br>
-note - as of 2019, women made up about 8% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2019, women made up about 8% of the military's full-time personnel<br>
 
 **Military - note**<br>
 Luxembourg is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries</p><br>
@@ -693,6 +693,6 @@ Luxembourg is a member of NATO and was one of the original 12 countries to sign 
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,775 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 5,984 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 194 (mid-year 2021)<br>
 

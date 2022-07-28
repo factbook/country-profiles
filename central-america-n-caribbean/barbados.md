@@ -499,7 +499,7 @@ $4.49 billion (2010 est.)<br>
 $668 million (2003 est.)<br>
 
 **Exchange rates**<br>
-Barbadian dollars (BBD) per US dollar -<br>
+_Currency_: Barbadian dollars (BBD) per US dollar -<br>
 2 (2017 est.)<br>
 2 (2016 est.)<br>
 2 (2015 est.)<br>

@@ -416,7 +416,7 @@ _lyrics/music_: Wage Rudolf SOEPRATMAN<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 9 (5 cultural, 4 natural)<br>
-_selected World Heritage Site locales_: Borobudur Temple Compounds (c), Komodo National Park (n), Prambanan Temple Compounds (c), Ujung Kulon National Park (n), Sangiran Early Man Site (c), Lorentz National Park (n), Tropical Rainforest Heritage of Sumatra (n), Cultural Landscape of Bali Province (c), Ombilin Coal Mining Heritage of Sawahlunto (c)<br>
+_selected World Heritage Site locales_: Borobudur Temple Compounds (c); Komodo National Park (n); Prambanan Temple Compounds (c); Ujung Kulon National Park (n); Sangiran Early Man Site (c); Lorentz National Park (n); Tropical Rainforest Heritage of Sumatra (n); Cultural Landscape of Bali Province (c); Ombilin Coal Mining Heritage of Sawahlunto (c)<br>
 
 ## Economy
 
@@ -554,7 +554,7 @@ $393.252 billion (2019 est.)<br>
 $360.945 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Indonesian rupiah (IDR) per US dollar -<br>
+_Currency_: Indonesian rupiah (IDR) per US dollar -<br>
 14,110 (2020 est.)<br>
 14,015 (2019 est.)<br>
 14,470 (2018 est.)<br>
@@ -715,7 +715,7 @@ _LNG terminal(s) (import)_: Arun, Lampung, West Java<br>
 
 **Military and security forces**<br>
 Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat (TNI-AD)), Navy (TNI-Angkatan Laut (TNI-AL), includes Marine Corps (Korps Marinir, KorMar), Naval Aviation Center (PUSPENERBAL)), Air Force (TNI-Angkatan Udara (TNI-AU)), National Air Defense Command (Komando Pertahanan Udara Nasional (Kohanudnas)), Armed Forces Special Operations Command (Kopassus), Strategic Reserve Command (Kostrad), National Army Reserve Component (Komcad) (2022)<br>
-note(s) - in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br>the Indonesian National Police includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counter-terrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror)<br>
+<strong>note 1:</strong> in 2014, Indonesia created a Maritime Security Agency (Bakamla) to coordinate the actions of all maritime security agencies, including the Navy, the Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP), the Water Police (Polair), Customs (Bea Cukai), and Ministry of Marine Affairs and Fisheries<br><br><strong>note 2: </strong>the Indonesian National Police includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counter-terrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror)<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>

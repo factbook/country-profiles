@@ -389,7 +389,7 @@ _lyrics/music_: Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: Te Wahipounamu – South West New Zealand (n), Tongariro National Park (m), New Zealand Sub-Antarctic Islands (n)<br>
+_selected World Heritage Site locales_: Te Wahipounamu – South West New Zealand (n); Tongariro National Park (m); New Zealand Sub-Antarctic Islands (n)<br>
 
 ## Economy
 
@@ -528,7 +528,7 @@ $190.621 billion (2019 est.)<br>
 $192.327 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-New Zealand dollars (NZD) per US dollar -<br>
+_Currency_: New Zealand dollars (NZD) per US dollar -<br>
 1.41794 (2020 est.)<br>
 1.52334 (2019 est.)<br>
 1.45709 (2018 est.)<br>
@@ -693,7 +693,7 @@ NZDF is equipped mostly with imported weapons and equipment from Western supplie
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service (men and women); soldiers cannot be deployed until the age of 18; no conscription (2022)<br>
-note - New Zealand opened up all military occupations to women in 2000; in 2019, women accounted for about 18% of the uniformed full-time personnel<br>
+<strong>note: </strong>New Zealand opened up all military occupations to women in 2000; in 2019, women accounted for about 18% of the uniformed full-time personnel<br>
 
 **Military deployments**<br>
 up to 220 Antarctica (summer season only) (2022)<br>

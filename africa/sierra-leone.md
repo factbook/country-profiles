@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Continuously populated for at least 2,500 years, the dense jungle in the area of Sierra Leone allowed the region to remain relatively protected from invaders from empires in West Africa. Traders introduced Sierra Leone to Islam, which occupies a central role in Sierra Leonean culture and history. In the 17th century, the British set up a trading post near present-day Freetown. The trade originally involved timber and ivory, but later expanded to enslaved people. In 1787, following the American Revolution, Sierra Leone became a destination for Black British loyalists from the new United States. After the abolition of the slave trade in 1807, British ships delivered thousands of liberated Africans to Sierra Leone. During the 19th century, the colony gradually expanded inland.</p> <p>In 1961, Sierra Leone became independent of the UK. While Sierra Leone held free and fair elections in 1962 and 1967, Siaka STEVENS - Sierra Leone’s second prime minister - quickly reverted to authoritarian tendencies, outlawing most political parties and ruling from 1967 to 1985. In 1991, Sierra Leonean soldiers launched a civil war against STEVENS’ ruling party. The war caused tens of thousands of deaths and displaced more than 2 million people (about one-third of the population). In 1998, a Nigerian-led West African coalition military force intervened, installing Tejan KABBAH - who was originally elected in 1996 - as prime minister. In 2002, KABBAH officially announced the end of the war. Since 1998, Sierra Leone has conducted uninterrupted democratic elections, dominated by the two main political parties. In 2018, Julius Maada BIO of the Sierra Leone People’s Party won the presidential election that saw a high voter turnout despite some allegations of voter intimidation. The next presidential election is scheduled for March 2023.</p><br>
+<p>Continuously populated for at least 2,500 years, the dense jungle in the area of Sierra Leone allowed the region to remain relatively protected from invaders from empires in West Africa. Traders introduced Sierra Leone to Islam, which occupies a central role in Sierra Leonean culture and history. In the 17th century, the British set up a trading post near present-day Freetown. The trade originally involved timber and ivory but later expanded to enslaved people. In 1787, following the American Revolution, Sierra Leone became a destination for Black British loyalists from the new United States. After the abolition of the slave trade in 1807, British ships delivered thousands of liberated Africans to Sierra Leone. During the 19th century, the colony gradually expanded inland.</p> <p>In 1961, Sierra Leone became independent of the UK. While Sierra Leone held free and fair elections in 1962 and 1967, Siaka STEVENS - Sierra Leone’s second prime minister - quickly reverted to authoritarian tendencies, outlawing most political parties and ruling from 1967 to 1985. In 1991, Sierra Leonean soldiers launched a civil war against STEVENS’ ruling party. The war caused tens of thousands of deaths and displaced more than 2 million people (about one third of the population). In 1998, a Nigerian-led West African coalition military force intervened, installing Tejan KABBAH - who was originally elected in 1996 - as prime minister. In 2002, KABBAH officially announced the end of the war. Since 1998, Sierra Leone has conducted uninterrupted democratic elections, dominated by the two main political parties. In 2018, Julius Maada BIO of the Sierra Leone People’s Party won the presidential election that saw a high voter turnout despite some allegations of voter intimidation. The next presidential election is scheduled for March 2023.</p><br>
 
 ## Geography
 
@@ -350,10 +350,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Julius Maada BIO (since 4 April 2018); Vice President Mohamed Juldeh JALLOH (since 4 April 2018) ; note - the president is both chief of state, head of government, and minister of defense&nbsp;<br>
+_chief of state_: President Julius Maada BIO (since 4 April 2018); Vice President Mohamed Juldeh JALLOH (since 4 April 2018) ; note - the president is both chief of state, head of government, and minister of defense<br>
 _head of government_: President Julius Maada BIO (since 4 April 2018); Vice President Mohamed Juldeh JALLOH (since 4 April 2018)<br>
-_cabinet_: Ministers of State appointed by the president, approved by Parliament; the cabinet is responsible to the president&nbsp;<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 4 April 2018&nbsp;(next to be in 2023)<br>
+_cabinet_: Ministers of State appointed by the president, approved by Parliament; the cabinet is responsible to the president<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 4 April 2018&nbsp;(next to be in 2023) (2018)<br>
 _election results_: Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br>
 
 **Legislative branch**<br>
@@ -527,7 +527,7 @@ $1.615 billion (31 December 2017 est.)<br>
 $1.503 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-leones (SLL) per US dollar -<br>
+_Currency_: leones (SLL) per US dollar -<br>
 7,396.3 (2017 est.)<br>
 6,289.9 (2016 est.)<br>
 6,289.9 (2015 est.)<br>

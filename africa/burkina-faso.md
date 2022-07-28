@@ -411,7 +411,7 @@ _lyrics/music_: Thomas SANKARA<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Ruins of Lorop&eacute;ni (c), Ancient Ferrous Metallurgy Sites (c), W-Arly-Pendjari Complex (n)<br>
+_selected World Heritage Site locales_: Ruins of Lorop&eacute;ni (c); Ancient Ferrous Metallurgy Sites (c); W-Arly-Pendjari Complex (n)<br>
 
 ## Economy
 
@@ -546,7 +546,7 @@ $3.056 billion (31 December 2017 est.)<br>
 $2.88 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+_Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 605.3 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>
@@ -685,7 +685,7 @@ _unpaved_: 11,662 km (2014)<br>
 
 **Military and security forces**<br>
 Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, LAT), Air Force of Burkina Faso (Force Aerienne de Burkina Faso, FABF), National Gendarmerie; Volunteers for the Defense of the Fatherland (VDP) (2022)<br>
-note(s) - the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; the VDP is a civilian defense force established in 2019 to act as auxiliaries to the military in the fight against militants<br>
+<strong>note 1:</strong> the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations<br><br><strong>note 2:</strong> the VDP is a civilian defense force established in 2019 to act as auxiliaries to the military in the fight against militants<br>
 
 **Military expenditures**<br>
 2.4% of GDP (2021 est.)<br>

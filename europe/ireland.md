@@ -376,7 +376,7 @@ _lyrics/music_: Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
-_selected World Heritage Site locales_: Br&uacute; na B&oacute;inne - Archaeological Ensemble of the Bend of the Boyne, Sceilg Mhich&iacute;l<br>
+_selected World Heritage Site locales_: Br&uacute; na B&oacute;inne - Archaeological Ensemble of the Bend of the Boyne; Sceilg Mhich&iacute;l<br>
 
 ## Economy
 
@@ -516,7 +516,7 @@ $2,829,303,000,000 (2019 est.)<br>
 $2,758,949,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -687,7 +687,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 
 **Military service age and obligation**<br>
 18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves); Irish citizen, European Economic Area citizenship, or refugee status (2022)<br>
-note - as of 2019, women made up about 7% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2019, women made up about 7% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 130 Golan Heights (UNDOF); 330 Lebanon (UNIFIL) (Feb 2022)<br>
@@ -707,7 +707,7 @@ Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Ir
 <p><em>Ireland-Denmark</em>: Ireland, Iceland, and the UK dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 40,678 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 42,764 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 107 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

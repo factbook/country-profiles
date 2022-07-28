@@ -386,7 +386,7 @@ _lyrics/music_: Johann Voldemar JANNSEN/Fredrik PACIUS<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
-_selected World Heritage Site locales_: Historic Center (Old Town) of Tallinn,  Struve Geodetic Arc<br>
+_selected World Heritage Site locales_: Historic Center (Old Town) of Tallinn; Struve Geodetic Arc<br>
 
 ## Economy
 
@@ -526,7 +526,7 @@ $23.944 billion (2019 est.)<br>
 $23.607 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -696,7 +696,7 @@ the Estonian Defense Forces have a limited inventory of Soviet-era and more rece
 
 **Military service age and obligation**<br>
 men 18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months; women can volunteer and as of 2018, women could serve in any branch of the military (2021)<br>
-note(s) - conscripts comprise about half (approximately 3,000-3,300) of the Estonian military's 6,500 active personnel and serve in all branches, except for the Air Force, which does not have conscripts; in 2020, women comprised about 10% of the full-time professional military force<br>
+<strong>note:</strong> conscripts comprise about half (approximately 3,000-3,300) of the Estonian military's 6,500 active personnel and serve in all branches, except for the Air Force, which does not have conscripts; in 2020, women comprised about 10% of the full-time professional military force<br>
 
 **Military - note**<br>
 Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia has hosted a UK-led multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative</p> <p>NATO also has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014</p> (2022)<br>
@@ -707,7 +707,7 @@ Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia ha
 <p>Russia and Estonia in May 2005 signed a technical border agreement, but Russia in June 2005 recalled its signature after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia; as a member state that forms part of the EU's external border, Estonia implements strict Schengen border rules with Russia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 45,935 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 47,310 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 71,873 (mid-year 2021); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old<br>
 
 **Illicit drugs**<br>

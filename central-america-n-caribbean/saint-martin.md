@@ -5,7 +5,7 @@ _Central America and Caribbean / Dependencies (France)_
 ## Introduction
 
 **Background**<br>
-Although sighted by Christopher COLUMBUS in 1493 and claimed for Spain, it was the Dutch who occupied the island in 1631 to exploit its salt deposits. The Spanish retook the island in 1633, but continued to be harassed by the Dutch. The Spanish finally relinquished Saint Martin to the French and Dutch, who divided it between themselves in 1648. Friction between the two sides caused the border to frequently fluctuate over the next two centuries, with the French eventually holding the greater portion of the island (about 61%). The cultivation of sugar cane introduced African slavery to the island in the late 18th century; the practice was not abolished until 1848. The island became a free port in 1939; the tourism industry was dramatically expanded during the 1970s and 1980s. In 2003, the populace of Saint Martin voted to secede from Guadeloupe and in 2007, the northern portion of the island became a French overseas collectivity. In 2010, the southern Dutch portion of the island became the independent nation of Sint Maarten within the Kingdom of the Netherlands. On 6 September 2017, Hurricane Irma passed over the island of Saint Martin causing extensive damage to roads, communications, electrical power, and housing; the UN estimated that 90% of the buildings were damaged or destroyed.<br>
+Although sighted by Christopher COLUMBUS in 1493 and claimed for Spain, it was the Dutch who occupied the island in 1631 to exploit its salt deposits. The Spanish retook the island in 1633 but continued to be harassed by the Dutch. The Spanish finally relinquished Saint Martin to the French and Dutch, who divided it between themselves in 1648. Friction between the two sides caused the border to frequently fluctuate over the next two centuries, with the French eventually holding the greater portion of the island (about 61%). The cultivation of sugarcane introduced African slavery to the island in the late 18th century; the practice was not abolished until 1848. The island became a free port in 1939; the tourism industry was dramatically expanded during the 1970s and 1980s. In 2003, the populace of Saint Martin voted to secede from Guadeloupe and in 2007, the northern portion of the island became a French overseas collectivity. In 2010, the southern Dutch portion of the island became the independent nation of Sint Maarten within the Kingdom of the Netherlands. On 6 September 2017, Hurricane Irma passed over the island of Saint Martin causing extensive damage to roads, communications, electrical power, and housing; the UN estimated that 90% of the buildings were damaged or destroyed.<br>
 
 ## Geography
 
@@ -299,7 +299,7 @@ United States 76%, Netherlands 7%, France 7% (2019)<br>
 jewelry, diamonds, pearls, recreational boats, cars (2019)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.885 (2017 est.)<br>
 0.903 (2016 est.)<br>
 0.9214 (2015 est.)<br>
@@ -328,6 +328,10 @@ _international_: country code - 590;&nbsp;landing points for the SMPR-1, Souther
 
 **Internet country code**<br>
 .mf; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered<br>
+
+**Internet users**<br>
+_total_: 19,300 (March 2022 est.)<br>
+_percent of population_: 48.5% (March 2022 est.)<br>
 
 ## Transportation
 

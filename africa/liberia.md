@@ -345,7 +345,7 @@ _residency requirement for naturalization_: 2 years<br>
 _chief of state_: President George WEAH (since 22 January 2018); Vice President Jewel HOWARD-TAYLOR (since 22 January 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President George WEAH (since 22 January 2018); Vice President Jewel HOWARD-TAYLOR (since 22 January 2018)<br>
 _cabinet_: Cabinet appointed by the president, confirmed by the Senate<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 10 October 2017 with a run-off on 26 December 2017) (next to be held on 10 October 2023); the runoff originally scheduled for 7 November 2017 was delayed due to allegations of fraud in the first round, which the Supreme Court dismissed<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 10 October 2017 with a run-off on 26 December 2017 (next to be held on 10 October 2023); the runoff originally scheduled for 7 November 2017 was delayed due to allegations of fraud in the first round, which the Supreme Court dismissed (2017)<br>
 _election results_: George WEAH elected president in second round; percent of vote in first round - George WEAH (Coalition for Democratic Change) 38.4%, Joseph BOAKAI (UP) 28.8%, Charles BRUMSKINE (LP) 9.6%, Prince JOHNSON (MDR) 8.2%, Alexander B. CUMMINGS (ANC) 7.2%, other 7.8%; percentage of vote in second round - George WEAH 61.5%, Joseph BOAKAI 38.5%<br>
 
 **Legislative branch**<br>
@@ -522,7 +522,7 @@ $826 million (2019 est.)<br>
 $679 million (2018 est.)<br>
 
 **Exchange rates**<br>
-Liberian dollars (LRD) per US dollar -<br>
+_Currency_: Liberian dollars (LRD) per US dollar -<br>
 109.4 (2017 est.)<br>
 93.4 (2016 est.)<br>
 93.4 (2015 est.)<br>
@@ -666,7 +666,7 @@ _major seaport(s)_: Buchanan, Monrovia<br>
 
 **Military and security forces**<br>
 Armed Forces of Liberia (AFL): Army, Liberian Coast Guard, Air Wing (2022)<br>
-note(s) - the AFL Air Wing was previously disbanded in 2005 and has been under development since 2019; the Liberian National Police and the Liberian Drug Enforcement Agency are under the Ministry of Justice<br>
+<strong>note:</strong> the AFL Air Wing was previously disbanded in 2005 and has been under development since 2019; the Liberian National Police and the Liberian Drug Enforcement Agency are under the Ministry of Justice<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2021 est.)<br>
@@ -683,7 +683,7 @@ the AFL is poorly armed; it has received limited quantities of equipment since 2
 
 **Military service age and obligation**<br>
 18-35 years of age for voluntary military service (men and women); no conscription (2021)<br>
-note - as of 2020, women made up about .4% of the active military<br>
+<strong>note:</strong> as of 2020, women made up about .4% of the active military<br>
 
 **Military deployments**<br>
 160 Mali (MINUSMA) (Feb 2022)<br>

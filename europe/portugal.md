@@ -522,7 +522,7 @@ $462.431 billion (2019 est.)<br>
 $483.206 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -677,7 +677,7 @@ _LNG terminal(s) (import)_: Sines<br>
 
 **Military and security forces**<br>
 Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP); Portuguese National Republican Guard (Guarda Nacional Republicana, GNR) (2022)<br>
-note - the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Ministry of Internal Administration and to the Ministry of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces; the GNR has law enforcement jurisdiction in rural areas, while Public Security Police (also under the Ministry of Internal Administration) has jurisdiction in cities<br>
+<strong>note:</strong> the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Ministry of Internal Administration and to the Ministry of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces; the GNR has law enforcement jurisdiction in rural areas, while Public Security Police (also under the Ministry of Internal Administration) has jurisdiction in cities<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
@@ -694,7 +694,7 @@ the Portuguese Armed Forces inventory includes mostly European and US-origin wea
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004), but conscription possible if insufficient volunteers available; women serve in the armed forces, on naval ships since 1992, but are prohibited from serving in some combatant specialties; contract service lasts for an initial period from two to six years, and can be extended to a maximum of 20 years of service; voluntary military service lasts 12 months; reserve obligation to age 35 (2021)<br>
-note - as of 2019, women made up about 12% of the military's full-time personnel<br>
+<strong>note: </strong>as of 2019, women made up about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 200 Central African Republic (MINUSCA/EUTM); up to 120 Lithuania (NATO) (2022)<br>
@@ -707,6 +707,7 @@ Portugal is a member of NATO and was one of the original 12 countries to sign th
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 
@@ -714,7 +715,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Portugal-Spain</em>: Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 47,069 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 47,847 (Ukraine) (as of 19 July 2022)<br>
 _stateless persons_: 45 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

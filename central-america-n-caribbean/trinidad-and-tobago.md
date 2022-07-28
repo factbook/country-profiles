@@ -489,7 +489,7 @@ $8.238 billion (31 December 2017 est.)<br>
 $8.746 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Trinidad and Tobago dollars (TTD) per US dollar -<br>
+_Currency_: Trinidad and Tobago dollars (TTD) per US dollar -<br>
 6.78 (2017 est.)<br>
 6.669 (2016 est.)<br>
 6.669 (2015 est.)<br>
@@ -624,7 +624,7 @@ _LNG terminal(s) (export)_: Port Fortin<br>
 
 **Military and security forces**<br>
 Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves; Trinidad and Tobago Police Service (TTPS) (2022)<br>
-note - the Ministry of National Security oversees defense, immigration, and the police<br>
+<strong>note:</strong> the Ministry of National Security oversees defense, immigration, and the police<br>
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
@@ -641,7 +641,7 @@ the TTDF's ground force inventory includes only light weapons, while the Coast G
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service (men and women; some age variations between services, reserves); no conscription (2022)<br>
-note - as of 2017, women comprised about 14% of the active military<br>
+<strong>note:</strong> as of 2017, women comprised about 14% of the active military<br>
 
 **Military - note**<br>
 the primary responsibilities for the TTDF are conducting border and maritime security, providing disaster relief, and countering narcotics trafficking in support of law enforcement (2022)<br>

@@ -233,7 +233,7 @@ _abbreviation_: AS<br>
 _etymology_: the meaning of Samoa is disputed; some modern explanations are that the "sa" connotes&nbsp; "sacred" and "moa" indicates "center," so the name can mean "Holy Center"; alternatively, some assertions state that it can mean "place of the sacred moa bird" of Polynesian mythology; the name, however, may go back to Proto-Polynesian (PPn) times (before 1000 B.C.); a plausible PPn reconstruction has the first syllable as "sa'a" meaning "tribe or people" and "moa" meaning "deep sea or ocean" to convey the meaning "people of the deep sea"<br>
 
 **Government type**<br>
-unincorporated, unorganized Territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches;<br>
+unincorporated, unorganized Territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches<br>
 
 **Dependency status**<br>
 unincorporated, unorganized Territory of the US; administered by the Office of Insular Affairs, US Department of the Interior<br>

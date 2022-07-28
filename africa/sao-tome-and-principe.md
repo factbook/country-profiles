@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Portugal discovered and colonized the uninhabited islands in the late 15th century, setting up a sugar-based economy that gave way to coffee and cocoa in the 19th century - all grown with African plantation slave labor, a form of which lingered into the 20th century. While independence was achieved in 1975, democratic reforms were not instituted until the late 1980s. The country held its first free elections in 1991, but frequent internal wrangling between the various political parties precipitated repeated changes in leadership and four failed, non-violent coup attempts in 1995, 1998, 2003, and 2009. In 2012, three opposition parties combined in a no confidence vote to bring down the majority government of former Prime Minister Patrice TROVOADA, but in 2014, legislative elections returned him to the office. President Evaristo CARVALHO, of the same political party as Prime Minister TROVOADA, was elected in September 2016, marking a rare instance in which the positions of president and prime minister are held by the same party. Prime Minister TROVOADA resigned at the end of 2018 and was replaced by Jorge BOM JESUS. Carlos Vila NOVA was elected president in early September 2021 and was inaugurated 2 October 2021. New oil discoveries in the Gulf of Guinea may attract increased attention to the small island nation.</p><br>
+<p>Portugal discovered and colonized the uninhabited islands in the late 15th century, setting up a sugar-based economy that gave way to coffee and cocoa in the 19th century - all grown with African plantation slave labor, a form of which lingered into the 20th century. While independence was achieved in 1975, democratic reforms were not instituted until the late 1980s. The country held its first free elections in 1991, but frequent internal wrangling between the various political parties precipitated repeated changes in leadership and four failed, non-violent coup attempts in 1995, 1998, 2003, and 2009. In 2012, three opposition parties combined in a no confidence vote to bring down the majority government of former Prime Minister Patrice TROVOADA, but in 2014, legislative elections returned him to the office. President Evaristo CARVALHO, of the same political party as Prime Minister TROVOADA, was elected in September 2016, marking a rare instance in which the positions of president and prime minister were held by the same party. Prime Minister TROVOADA resigned at the end of 2018 and was replaced by Jorge BOM JESUS. Carlos Vila NOVA was elected president in early September 2021 and was inaugurated 2 October 2021. New oil discoveries in the Gulf of Guinea may attract increased attention to the small island nation.</p><br>
 
 ## Geography
 
@@ -516,7 +516,7 @@ $292.9 million (31 December 2017 est.)<br>
 $308.5 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-dobras (STD) per US dollar -<br>
+_Currency_: dobras (STD) per US dollar -<br>
 22,689 (2017 est.)<br>
 21,797 (2016 est.)<br>
 22,149 (2015 est.)<br>

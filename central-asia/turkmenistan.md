@@ -392,7 +392,7 @@ _lyrics/music_: collective/Veli MUKHATOV<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>
-_selected World Heritage Site locales_: Ancient Merv, Kunya-Urgench, Parthian Fortresses of Nisa<br>
+_selected World Heritage Site locales_: Ancient Merv; Kunya-Urgench; Parthian Fortresses of Nisa<br>
 
 ## Economy
 
@@ -516,7 +516,7 @@ $539.4 million (31 December 2017 est.)<br>
 $425.3 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Turkmenistani manat (TMM) per US dollar -<br>
+_Currency_: Turkmenistani manat (TMM) per US dollar -<br>
 4.125 (2017 est.)<br>
 3.5 (2016 est.)<br>
 3.5 (2015 est.)<br>

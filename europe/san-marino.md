@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Geographically the third smallest state in Europe (after the Holy See and Monaco), San Marino also claims to be the world's oldest republic. According to tradition, it was founded by a Christian stonemason named MARINUS in A.D. 301. San Marino's foreign policy is aligned with that of the EU, although it is not a member; social and political trends in the republic track closely with those of its larger neighbor, Italy.<br>
+Geographically the third-smallest state in Europe (after the Holy See and Monaco), San Marino also claims to be the world's oldest republic. According to tradition, it was founded by a Christian stonemason named MARINUS in A.D. 301. San Marino's foreign policy is aligned with that of the EU, although it is not a member; social and political trends in the republic track closely with those of its larger neighbor, Italy.<br>
 
 ## Geography
 
@@ -273,7 +273,7 @@ _etymology_: named after Saint MARINUS, who in A.D. 301 founded a monastic settl
 Founding of the Republic (or Feast of Saint Marinus), 3 September (A.D. 301)<br>
 
 **Constitution**<br>
-_history_: <p>San Marino’s principal legislative instruments consist of old customs (antiche consuetudini), the Statutory Laws of San Marino (Leges Statutae Sancti Marini), old statutes (antichi statute) from the1600s, Brief Notes on the Constitutional Order and Institutional Organs of the Republic of San Marino (Brevi Cenni sull’Ordinamento Costituzionale e gli Organi Istituzionali della Repubblica di San Marino) and successive legislation, chief among them is the Declaration of the Rights of Citizens and Fundamental Principles of the San Marino Legal Order (Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell’Ordinamento Sammarinese), approved 8 July 1974 </p><br>
+_history_: <p>San Marino’s principal legislative instruments consist of old customs (antiche consuetudini), the Statutory Laws of San Marino (Leges Statutae Sancti Marini), old statutes (antichi statute) from the1600s, Brief Notes on the Constitutional Order and Institutional Organs of the Republic of San Marino (Brevi Cenni sull’Ordinamento Costituzionale e gli Organi Istituzionali della Repubblica di San Marino) and successive legislation, chief among them is the Declaration of the Rights of Citizens and Fundamental Principles of the San Marino Legal Order (Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell’Ordinamento Sammarinese), approved 8 July 1974</p><br>
 _amendments_: proposed by the Great and General Council; passage requires two-thirds majority Council vote; Council passage by absolute majority vote also requires passage in a referendum; Declaration of Civil Rights amended several times, last in 2019<br>
 
 **Legal system**<br>
@@ -466,7 +466,7 @@ $539.3 million (2013 est.)<br>
 <p>NA</p><br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.885 (2017 est.)<br>
 0.903 (2016 est.)<br>
 0.9214 (2015 est.)<br>

@@ -303,7 +303,7 @@ _conventional short form_: Kyrgyzstan<br>
 _local long form_: Kyrgyz Respublikasy<br>
 _local short form_: Kyrgyzstan<br>
 _former_: Kirghiz Soviet Socialist Republic<br>
-_etymology_: a combination of the Turkic words "kyrg" (forty) and "-yz" (tribes) with the Persian suffix "-stan" (country) creating the meaning "Land of the Forty Tribes"; the name refers to the 40 clans united by the mythic Kyrgyz hero, Manas<br>
+_etymology_: a combination of the Turkic words "kyrg" (forty) and "-yz" (tribes) with the Persian suffix "-stan" (country) creating the meaning "Land of the Forty Tribes"; the name refers to the 40 clans united by the mythic Kyrgyz hero, MANAS<br>
 
 **Government type**<br>
 parliamentary republic<br>
@@ -532,7 +532,7 @@ $8.372 billion (2019 est.)<br>
 $8.066 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-soms (KGS) per US dollar -<br>
+_Currency_: soms (KGS) per US dollar -<br>
 68.35 (2017 est.)<br>
 69.914 (2016 est.)<br>
 69.914 (2015 est.)<br>

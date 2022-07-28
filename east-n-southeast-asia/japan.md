@@ -533,7 +533,7 @@ $4,254,271,000,000 (2019 est.)<br>
 $3,944,898,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-yen (JPY) per US dollar -<br>
+_Currency_: yen (JPY) per US dollar -<br>
 104.205 (2020 est.)<br>
 108.605 (2019 est.)<br>
 112.7 (2018 est.)<br>
@@ -709,7 +709,7 @@ the JSDF is equipped with a mix of imported and domestically-produced equipment;
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service for men and women (maximum enlistment age 32); no conscription (2021)<br>
-note - as of 2020, women made up about 7% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2020, women made up about 7% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 180 Djibouti (2022)<br>

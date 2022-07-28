@@ -413,7 +413,7 @@ _lyrics/music_: Rafael NUNEZ/Oreste SINDICI<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 9 (6 cultural, 2 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: Chiribiquete National Park (m), Coffee Cultural Landscape of Colombia (c), Historic Center of Santa Cruz de Mompox (c), Los Katíos National Park (n), Malpelo Fauna and Flora Sanctuary (n), Tierradentro National Archeological Park (c), San Agustín Archaeological Park (c), Colonial Cartagena (c), Qhapaq Ñan/Andean Road System (c)<br>
+_selected World Heritage Site locales_: Chiribiquete National Park (m); Coffee Cultural Landscape of Colombia (c); Historic Center of Santa Cruz de Mompox (c); Los Katíos National Park (n); Malpelo Fauna and Flora Sanctuary (n); Tierradentro National Archeological Park (c); San Agustín Archaeological Park (c); Colonial Cartagena (c); Qhapaq Ñan/Andean Road System (c)<br>
 
 ## Economy
 
@@ -553,7 +553,7 @@ $135.644 billion (2019 est.)<br>
 $128.238 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Colombian pesos (COP) per US dollar -<br>
+_Currency_: Colombian pesos (COP) per US dollar -<br>
 3,457.93 (2020 est.)<br>
 3,416.5 (2019 est.)<br>
 3,147.43 (2018 est.)<br>
@@ -731,7 +731,7 @@ the Colombian military inventory includes a wide mix of equipment from a variety
 
 **Military service age and obligation**<br>
 18-24 years of age for compulsory (men) and voluntary (men and women) military service; conscript service obligation is 18 months; conscripted soldiers reportedly include regular soldiers (conscripts without a high school degree), drafted high school graduates (bachilleres), and rural (campesino) soldiers who serve in their home regions (2022)<br>
-note - in 2020, conscripts reportedly comprised about 50% of the Colombian military's active force with approximately 60-90,000 conscripts brought into the military annually<br>
+<strong>note:</strong> in 2020, conscripts reportedly comprised about 50% of the Colombian military's active force with approximately 60-90,000 conscripts brought into the military annually<br>
 
 **Military deployments**<br>
 275 Egypt (MFO) (2022)<br>

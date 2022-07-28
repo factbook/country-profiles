@@ -122,7 +122,7 @@ _total dependency ratio_: 42.2<br>
 _youth dependency ratio_: 25.2<br>
 _elderly dependency ratio_: 17<br>
 _potential support ratio_: 5.9 (2020 est.)<br>
-data do not include Hong Kong, Macau, and Taiwan<br>
+<strong>note:</strong> data do not include Hong Kong, Macau, and Taiwan<br>
 
 **Median age**<br>
 _total_: 38.4 years<br>
@@ -420,7 +420,7 @@ _lyrics/music_: TIAN Han/NIE Er<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 56 (14 natural, 38 cultural, 4 mixed)<br>
-_selected World Heritage Site locales_: Imperial Palaces of the Ming and Qing Dynasties (c); Mausoleum of the First Qin Emperor (c); The Great Wall (c); Summer Palace (c); Jiuzhaigou Valley (n); Potala Palace (c); Ancient Pingyao (c); Historic Macau (c); Dengfeng (c); Grand Canal (c)<br>
+_selected World Heritage Site locales_: Imperial Palaces of the Ming and Qing Dynasties (c); Mausoleum of the First Qin Emperor (c); The Great Wall (c); Summer Palace (c); Jiuzhaigou Valley (n); Potala Palace (c); Ancient Pingyao (c); Historic Macau (c); Dengfeng (c); Grand Canal (c); Mount Huangshan (m)<br>
 
 **Government - note**<br>
 in 2018, the Beijing established an investigatory National Supervisory Commission to oversee all state employees<br>
@@ -562,7 +562,7 @@ $2,027,950,000,000 (2019 est.)<br>
 $1,935,206,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-Renminbi yuan (RMB) per US dollar -<br>
+_Currency_: Renminbi yuan (RMB) per US dollar -<br>
 6.5374 (2020 est.)<br>
 7.0403 (2019 est.)<br>
 6.8798 (2018 est.)<br>
@@ -723,7 +723,7 @@ seven of the world’s ten largest container ports are in China<br>
 
 **Military and security forces**<br>
 People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes marines and naval aviation), Air Force (PLAAF, includes airborne forces), Rocket Force (strategic missile force), and Strategic Support Force (information, electronic, and cyber warfare, as well as space forces); People's Armed Police (PAP, includes Coast Guard, Border Defense Force, Internal Security Forces); PLA Reserve Force (2022)<br>
-note(s) - the Strategic Support Force includes the Space Systems Department, which is responsible for nearly all PLA space operations, including space launch and support, space surveillance, space information support, space telemetry, tracking, and control, and space warfare<br><br>the PAP is a paramilitary police component of China’s armed forces that is under the command of the Central Military Commission (CMC) and charged with internal security, law enforcement, counterterrorism, and maritime rights protection<br><br>in 2018, the Coast Guard was moved from the State Oceanic Administration to the PAP; in 2013, China merged four of its five major maritime law enforcement agencies – the China Marine Surveillance (CMS), Maritime Police, Fishery Law Enforcement (FLE), and Anti-Smuggling Police – into a unified coast guard<br>
+<strong>note 1:</strong> the Strategic Support Force includes the Space Systems Department, which is responsible for nearly all PLA space operations, including space launch and support, space surveillance, space information support, space telemetry, tracking, and control, and space warfare<br><br><strong>note 2: </strong>the PAP is a paramilitary police component of China’s armed forces that is under the command of the Central Military Commission (CMC) and charged with internal security, law enforcement, counterterrorism, and maritime rights protection<br><br><strong>note 3: </strong>in 2018, the Coast Guard was moved from the State Oceanic Administration to the PAP; in 2013, China merged four of its five major maritime law enforcement agencies – the China Marine Surveillance (CMS), Maritime Police, Fishery Law Enforcement (FLE), and Anti-Smuggling Police – into a unified coast guard<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
@@ -737,7 +737,7 @@ approximately 2 million total active duty troops (approximately 1 million Ground
 
 **Military equipment inventories and acquisitions**<br>
 the PLA is outfitted primarily with a wide mix of older and modern domestically-produced systems heavily influenced by technology derived from other countries; Russia is the top supplier of foreign military equipment since 2010; China's defense-industrial sector is large and capable of producing advanced weapons systems across all military domains (2022)<br>
-note - the PLA is in the midst of a decades-long modernization effort; in 2017, President XI set three developmental goals for the force - becoming a mechanized force with increased information and strategic capabilities by 2020, a fully modernized force by 2035, and a world-class military by mid-century<br>
+<strong>note:</strong> the PLA is in the midst of a decades-long modernization effort; in 2017, President XI set three developmental goals for the force - becoming a mechanized force with increased information and strategic capabilities by 2020, a fully modernized force by 2035, and a world-class military by mid-century<br>
 
 **Military service age and obligation**<br>
 18-22 years of age for selective compulsory military service, with a 2-year service obligation; no minimum age for voluntary service (all officers are volunteers); 18-19 years of age for women high school graduates who meet requirements for specific military jobs (2022)<br>

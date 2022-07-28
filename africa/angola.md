@@ -358,8 +358,8 @@ _residency requirement for naturalization_: 10 years<br>
 _chief of state_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017); Vice President Bornito De Sousa Baltazar DIOGO (since 26 September 2017); note - the president is both chief of state and head of government<br>
 _head of government_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017); Vice President Bornito De Sousa Baltazar DIOGO (since 26 September 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 23 August 2017 (next to be held in 2022)<br>
-_election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by the winning party following the 23 August 2017 general election<br>
+_elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 23 August 2017 (next to be held in 24 August 2022)<br>
+_election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by then winning party following the 23 August 2017 general election<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>
@@ -543,7 +543,7 @@ $42.08 billion (31 December 2017 est.)<br>
 $27.14 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-kwanza (AOA) per US dollar -<br>
+_Currency_: kwanza (AOA) per US dollar -<br>
 172.6 (2017 est.)<br>
 163.656 (2016 est.)<br>
 163.656 (2015 est.)<br>

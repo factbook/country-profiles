@@ -535,7 +535,7 @@ $688.434 billion (2019 est.)<br>
 $686.196 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -708,7 +708,7 @@ the Austrian military's inventory includes a mix of domestically-produced and im
 
 **Military service age and obligation**<br>
 registration requirement at age 17, the legal minimum age for voluntary military service; 18 is the legal minimum age for compulsory military service (6 months), or optionally, alternative civil/community service (9 months); males 18 to 50 years old in the militia or inactive reserve are subject to compulsory service; in a January 2012 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system (2021)<br>
-note - as of 2019, women made up about 4% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2019, women made up about 4% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 275 Bosnia-Herzegovina (EUFOR stabilization force); 240 Kosovo (NATO/KFOR); 175 Lebanon (UNIFIL) (Jan 2022)<br>
@@ -728,7 +728,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 74,492 (Ukraine) (as of 5 July 2022)<br>
+_refugees (country of origin)_: 57,887 (Syria), 41,037 (Afghanistan), 9,661 (Iraq), 8,212 (Somalia), 7,046 (Iran), 7,003 (Russia) (mid-year 2021); 77,200 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 3,229 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

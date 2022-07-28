@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The island, with its fine natural harbor at Castries and burgeoning sugar industry, was contested between England and France throughout the 17th and early 18th centuries (changing possession 14 times); it was finally ceded to the UK in 1814 and became part of the British Windward Islands colony. Even after the abolition of slavery on its plantations in 1834, Saint Lucia remained an agricultural island, dedicated to producing tropical commodity crops. In the mid-20th century, Saint Lucia joined the West Indies Federation (1958&ndash;1962) and in 1967 became one of the six members of the West Indies Associated States, with internal self-government. In 1979, Saint Lucia gained full independence.<br>
+The island, with its fine natural harbor at Castries and burgeoning sugar industry, was contested by England and France throughout the 17th and early 18th centuries (changing possession 14 times); it was finally ceded to the UK in 1814 and became part of the British Windward Islands colony. Even after the abolition of slavery on its plantations in 1834, Saint Lucia remained an agricultural island, dedicated to producing tropical commodity crops. In the mid-20th century, Saint Lucia joined the West Indies Federation (1958&ndash;1962) and in 1967 became one of the six members of the West Indies Associated States, with internal self-government. In 1979, Saint Lucia gained full independence.<br>
 
 ## Geography
 
@@ -484,7 +484,7 @@ $570.6 million (31 December 2017 est.)<br>
 $529 million (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
-East Caribbean dollars (XCD) per US dollar -<br>
+_Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 2.7 (2017 est.)<br>
 2.7 (2016 est.)<br>
 2.7 (2015 est.)<br>

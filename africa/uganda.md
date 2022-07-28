@@ -415,7 +415,7 @@ _lyrics/music_: George Wilberforce KAKOMOA<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Bwindi Impenetrable National Park (c), Rwenzori Mountains National Park (c), Tombs of Buganda Kings at Kasubi<br>
+_selected World Heritage Site locales_: Bwindi Impenetrable National Park (c); Rwenzori Mountains National Park (c); Tombs of Buganda Kings at Kasubi<br>
 
 ## Economy
 
@@ -555,7 +555,7 @@ $12.187 billion (2018 est.)<br>
 $6.241 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Ugandan shillings (UGX) per US dollar -<br>
+_Currency_: Ugandan shillings (UGX) per US dollar -<br>
 3,680 (2020 est.)<br>
 3,685 (2019 est.)<br>
 3,735 (2018 est.)<br>
@@ -700,7 +700,7 @@ _lake port(s)_: Entebbe, Jinja, Port Bell (Lake Victoria)<br>
 
 **Military and security forces**<br>
 Uganda People's Defense Force (UPDF): Land Forces, Air Forces, Marine Forces, Special Forces Command, Reserve Force (2022)<br>
-note(s) - the Special Forces Command is a separate branch within the UPDF; it evolved from the former Presidential Guard Brigade and continues to have presidential protection duties in addition to its conventional missions, such as counterinsurgency; in 2018, President MUSEVENI created a volunteer force of Local Defense Units under the military to beef up local security in designated parts of the country<br>
+<strong>note 1:</strong> the Special Forces Command is a separate branch within the UPDF; it evolved from the former Presidential Guard Brigade and continues to have presidential protection duties in addition to its conventional missions, such as counterinsurgency<br><br><strong>note 2:</strong> in 2018, President MUSEVENI created a volunteer force of Local Defense Units under the military to beef up local security in designated parts of the country<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>
@@ -710,8 +710,7 @@ note(s) - the Special Forces Command is a separate branch within the UPDF; it ev
 1.2% of GDP (2017) (approximately $610 million)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 45-50,000 troops, including about 1,000-1,500 air and marine personnel; approximately 20,000 personnel in the Local Defense Units (2021)<br>
-note - in 2021, the Ugandan Government announced it would recruit another 10,000 Local Defense Units personnel<br>
+information varies; approximately 45-50,000 troops, including about 1,000-1,500 air and marine personnel; approximately 20-30,000 personnel in the Local Defense Units (2022)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited mix of more modern Russian- and Western-origin arms; since 2010, Russia is the leading supplier of arms to the UPDF (2021)<br>
@@ -737,7 +736,7 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders<br><br><em>Uganda-Kenya:</em> Kenya and Uganda have begun a joint demarcation of the boundary in 2021; Uganda and Kenya both claim Migingo Island, a tiny island in the middle of Lake Victoria, which offers good fishing<br><br><em>Uganda-Rwanda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><em>Uganda-Democratic Republic of Congo(DROC):</em> Uganda rejects the DROC claim to Margherita Peak in the Rwenzori mountains and considers it a boundary divide; there is tension and violence on Lake Albert over prospective oil reserves at the mouth of the Semliki River; Rukwanzi Island in Lake Albert is claimed by both countries<br><br><em>Uganda-South Sudan:</em> Government of South Sudan protests Lord's Resistance Army operations in western Equatorial State, displacing and driving out local populations and stealing grain stores<br><br><em>Uganda-Sudan</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 927,823 (South Sudan) (refugees and asylum seekers), 433,747 (Democratic Republic of the Congo), 59,197 (Somalia) (refugees and asylum seekers), 41,624 (Burundi), 26,108 (Rwanda), 24,631 (Eritrea) (2022)<br>
+_refugees (country of origin)_: 927,823 (South Sudan) (refugees and asylum seekers), 440,365 (Democratic Republic of the Congo), 59,197 (Somalia) (refugees and asylum seekers), 41,624 (Burundi), 26,108 (Rwanda), 24,631 (Eritrea) (2022)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Uganda, and traffickers exploit victims from Uganda abroad; young Ugandan children are exploited in forced labor in agriculture, fishing, forestry, cattle herding, mining, stone quarrying, brick making, carpentry, steel manufacturing, street vending, bars, restaurants, gold mining, and domestic service; traffickers exploit girls and boys in commercial sex; most are children from the northeastern region and are exploited in forced begging, commercial sex in brothels, or sold in markets; traffickers compel&nbsp; children from the Democratic Republic of Congo, Rwanda, Burundi, Kenya, Tanzania, and South Sudan into forced agricultural labor and sex trafficking in Uganda; young women most at risk for transnational trafficking seek employment as domestic workers in the Middle East and then are exploited in sex trafficking; traffickers subject Ugandans to forced labor and sex trafficking in UAE, Saudi Arabia, Oman, Qatar, Kuwait, Iraq, Iran, Egypt, Turkey, Algeria, Malaysia, Thailand, Bahrain, Jordan, China, Kenya, and India; traffickers are often relatives, friends of victims, or religious leaders who receive a fee per worker from recruiters<br>

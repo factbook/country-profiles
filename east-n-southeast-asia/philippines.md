@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Philippine Islands became a Spanish colony during the 16th century; they were ceded to the US in 1898 following the Spanish-American War. In 1935 the Philippines became a self-governing commonwealth. Manuel QUEZON was elected president and was tasked with preparing the country for independence after a 10-year transition. In 1942 the islands fell under Japanese occupation during World War II, and US forces and Filipinos fought together during 1944-45 to regain control. On 4 July 1946 the Republic of the Philippines attained its independence. A 21-year rule by Ferdinand MARCOS ended in 1986, when a "people power" movement in Manila ("EDSA 1") forced him into exile and installed Corazon AQUINO as president. Her presidency was hampered by several coup attempts that prevented a return to full political stability and economic development. Fidel RAMOS was elected president in 1992. His administration was marked by increased stability and by progress on economic reforms. In 1992, the US closed its last military bases on the islands. Joseph ESTRADA was elected president in 1998. He was succeeded by his vice-president, Gloria MACAPAGAL-ARROYO, in January 2001 after ESTRADA's stormy impeachment trial on corruption charges broke down and another "people power" movement ("EDSA 2") demanded his resignation. MACAPAGAL-ARROYO was elected to a six-year term as president in May 2004. Her presidency was marred by several corruption allegations but the Philippine economy was one of the few to avoid contraction following the 2008 global financial crisis, expanding each year of her administration. Benigno AQUINO III was elected to a six-year term as president in May 2010 and was succeeded by Rodrigo DUTERTE in May 2016.</p> <p>The Philippine Government faces threats from several groups, some of which are on the US Government's Foreign Terrorist Organization list. Manila has waged a decades-long struggle against ethnic Moro insurgencies in the southern Philippines, which led to a peace accord with the Moro National Liberation Front and a separate agreement with a break away faction, the Moro Islamic Liberation Front. The decades-long Maoist-inspired New People's Army insurgency also operates through much of the country. In 2017, Philippine armed forces battled an ISIS-East Asia siege in Marawi City, driving DUTERTE to declare martial law in the region. The Philippines faces increased tension with China over disputed territorial and maritime claims in the South China Sea.</p><br>
+<p>The Philippine Islands became a Spanish colony during the 16th century; they were ceded to the US in 1898 following the Spanish-American War. In 1935 the Philippines became a self-governing commonwealth. Manuel QUEZON was elected president and was tasked with preparing the country for independence after a 10-year transition. In 1942 the islands fell under Japanese occupation during World War II, and US forces and Filipinos fought together during 1944-45 to regain control. On 4 July 1946 the Republic of the Philippines attained its independence. A 21-year rule by Ferdinand MARCOS ended in 1986, when a "people power" movement in Manila ("EDSA 1") forced him into exile and installed Corazon AQUINO as president. Her presidency was hampered by several coup attempts that prevented a return to full political stability and economic development. Fidel RAMOS was elected president in 1992. His administration was marked by increased stability and by progress on economic reforms. In 1992, the US closed its last military bases on the islands. Joseph ESTRADA was elected president in 1998. He was succeeded by his vice-president, Gloria MACAPAGAL-ARROYO, in January 2001 after ESTRADA's stormy impeachment trial on corruption charges broke down and another "people power" movement ("EDSA 2") demanded his resignation. MACAPAGAL-ARROYO was elected to a six-year term as president in May 2004. Her presidency was marred by several corruption allegations, but the Philippine economy was one of the few to avoid contraction following the 2008 global financial crisis, expanding each year of her administration. Benigno AQUINO III was elected to a six-year term as president in May 2010 and was succeeded by Rodrigo DUTERTE in May 2016.</p> <p>The Philippine Government faces threats from several groups, some of which are on the US Government's Foreign Terrorist Organization list. Manila has waged a decades-long struggle against ethnic Moro insurgencies in the southern Philippines, which led to a peace accord with the Moro National Liberation Front and a separate agreement with a break away faction, the Moro Islamic Liberation Front. The decades-long Maoist-inspired New People's Army insurgency also operates through much of the country. In 2017, Philippine armed forces battled an ISIS-East Asia siege in Marawi City, driving DUTERTE to declare martial law in the region. The Philippines faces increased tension with China over disputed territorial and maritime claims in the South China Sea.</p><br>
 
 ## Geography
 
@@ -404,7 +404,7 @@ _lyrics/music_: Jose PALMA (revised by Felipe PADILLA de Leon)/Julian FELIPE<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (3 cultural, 3 natural)<br>
-_selected World Heritage Site locales_: Baroque Churches of the Philippines (c), Tubbataha Reefs Natural Park (n), Rice Terraces of the Philippine Cordilleras (c), Historic Vigan (c), Puerto-Princesa Subterranean River National Park (n), Mount Hamiguitan Range Wildlife Sanctuary (n)<br>
+_selected World Heritage Site locales_: Baroque Churches of the Philippines (c); Tubbataha Reefs Natural Park (n); Rice Terraces of the Philippine Cordilleras (c); Historic Vigan (c); Puerto-Princesa Subterranean River National Park (n); Mount Hamiguitan Range Wildlife Sanctuary (n)<br>
 
 ## Economy
 
@@ -543,7 +543,7 @@ $81.995 billion (2019 est.)<br>
 $75.192 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Philippine pesos (PHP) per US dollar -<br>
+_Currency_: Philippine pesos (PHP) per US dollar -<br>
 48.055 (2020 est.)<br>
 50.81 (2019 est.)<br>
 52.71 (2018 est.)<br>
@@ -702,7 +702,7 @@ _container port(s) (TEUs)_: Manila (5,315,500) (2019)<br>
 
 **Military and security forces**<br>
 Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air Force (2021)<br>
-note(s) - the Philippine Coast Guard is an armed and uniformed service under the Department of Transportation; it would be attached to the AFP in wartime; the Philippine National Police Force (PNP) falls under the Department of the Interior<br><br>the Philippine Government also arms and supports civilian militias; the AFP controls Civilian Armed Force Geographical Units, while the Civilian Volunteer Organizations fall under PNP command<br>
+<strong>note 1:</strong> the Philippine Coast Guard is an armed and uniformed service under the Department of Transportation; it would be attached to the AFP in wartime; the Philippine National Police Force (PNP) falls under the Department of the Interior<br><br><strong>note 2: </strong>the Philippine Government also arms and supports civilian militias; the AFP controls Civilian Armed Force Geographical Units, while the Civilian Volunteer Organizations fall under PNP command<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2021 est.)<br>
@@ -719,7 +719,7 @@ the AFP is equipped with a mix of imported weapons systems, particularly second-
 
 **Military service age and obligation**<br>
 18-23 years of age (officers 21-29; 21-26 for women officers) for voluntary military service (men and women); no conscription (2021)<br>
-note - as of 2020, women made up about 6% of the active military; women were allowed to enter the Philippine Military Academy and train as combat soldiers in 1993<br>
+<strong>note:</strong> as of 2020, women made up about 6% of the active military; women were allowed to enter the Philippine Military Academy and train as combat soldiers in 1993<br>
 
 **Military - note**<br>
 <p>the US and Philippines agreed to a mutual defense treaty in 1951; the Philippines has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p> as of 2022, the AFP's primary air and ground operational focus was on internal security duties, particularly in the south, where several separatist insurgent and terrorist groups operated and up to 60% of the armed forces were deployed; additional combat operations were being conducted against the Communist Peoples Party/New People’s Army, which was active mostly on Luzon, the Visayas, and areas of Mindanao<br><br>in addition to its typical roles of patrolling and defending the country's maritime claims, the Navy conducts interdiction operations against terrorist, insurgent, and criminal groups around the southern islands; in 2017, the Philippines began conducting joint maritime patrols with Indonesia and Malaysia to counter regional terrorist activities, particularly in the Sulu Sea; the Philippine Marine Corps assists the Army in counterinsurgency operations<br><br>the Philippines National Police (PNP) also has an active role in counterinsurgency and counter-terrorism operations alongside the AFP, particularly the Special Action Force, a PNP commando unit that specializes in urban counter-terrorism operations<br>
@@ -730,7 +730,7 @@ note - as of 2020, women made up about 6% of the active military; women were all
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Abu Sayyaf Group; Communist Party of the Philippines/New People's Army; Islamic State of Iraq and ash-Sham – East Asia (ISIS-EA) in the Philippines<br>
+Abu Sayyaf Group; Communist Party of the Philippines/New People's Army (CPP/NPA); Islamic State of Iraq and ash-Sham – East Asia (ISIS-EA) in the Philippines<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

@@ -91,7 +91,7 @@ _potential support ratio_: NA<br>
 NA<br>
 
 **Death rate**<br>
-(2021 est.) NA<br>
+NA<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>

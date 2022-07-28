@@ -458,7 +458,7 @@ $2.515 billion (2017 est.)<br>
 $2.435 billion (2015 est.)<br>
 
 **Exchange rates**<br>
-Bermudian dollars (BMD) per US dollar -<br>
+_Currency_: Bermudian dollars (BMD) per US dollar -<br>
 1 (2020 est.)<br>
 1 (2019 est.)<br>
 1 (2018 est.)<br>
@@ -584,7 +584,7 @@ _major seaport(s)_: Hamilton, Ireland Island, Saint George<br>
 
 **Military and security forces**<br>
 Royal Bermuda Regiment; Bermuda Police Service (2022)<br>
-note - the Royal Bermuda Regiment is a reserve multi-role battalion that carries out two primary functions – providing military aid to civil authorities and humanitarian and disaster relief<br>
+<strong>note:</strong> the Royal Bermuda Regiment is a reserve multi-role battalion that carries out two primary functions – providing military aid to civil authorities and humanitarian and disaster relief<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Bermuda Regiment has about 350 troops (2021)<br>

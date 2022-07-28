@@ -231,8 +231,8 @@ NA<br>
 **Country name**<br>
 _conventional long form_: Country of Curacao<br>
 _conventional short form_: Curacao<br>
-_local long form_: Land Curacao (Dutch); Pais Korsou (Papiamento)<br>
-_local short form_: Curacao (Dutch); Korsou (Papiamento)<br>
+_local long form_: Land Curacao (Dutch)/ Pais Korsou (Papiamento)<br>
+_local short form_: Curacao (Dutch)/ Korsou (Papiamento)<br>
 _former_: Netherlands Antilles; Curacao and Dependencies<br>
 _etymology_: the most plausible name derivation is that the island was designated Isla de la Curacion (Spanish meaning "Island of the Cure" or "Island of Healing") or Ilha da Curacao (Portuguese meaning the same) to reflect the locale's function as a recovery stop for sick crewmen<br>
 
@@ -422,7 +422,7 @@ refined petroleum, cars, crude petroleum, packaged medicines, perfumes (2019)<br
 $0 (31 December 2017 est.)<br>
 
 **Exchange rates**<br>
-Netherlands Antillean guilders (ANG) per US dollar -<br>
+_Currency_: Netherlands Antillean guilders (ANG) per US dollar -<br>
 1.79 (2017 est.)<br>
 1.79 (2016 est.)<br>
 1.79 (2015 est.)<br>

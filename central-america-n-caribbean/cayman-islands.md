@@ -430,7 +430,7 @@ Netherlands 56%, United States 18%, Italy 8%, Switzerland 5% (2019)<br>
 recreational boats, ships, gold, refined petroleum, cars (2019)<br>
 
 **Exchange rates**<br>
-Caymanian dollars (KYD) per US dollar -<br>
+_Currency_: Caymanian dollars (KYD) per US dollar -<br>
 0.82 (2017 est.)<br>
 0.82 (2016 est.)<br>
 0.82 (2015 est.)<br>

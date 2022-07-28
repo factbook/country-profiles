@@ -484,7 +484,7 @@ $2.671 billion (31 December 2017 est.)<br>
 $2.355 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-ngultrum (BTN) per US dollar -<br>
+_Currency_: ngultrum (BTN) per US dollar -<br>
 64.97 (2017 est.)<br>
 67.2 (2016 est.)<br>
 67.2 (2015 est.)<br>
@@ -613,7 +613,7 @@ _urban_: 437 km (2017)<br>
 
 **Military and security forces**<br>
 Royal Bhutan Army (includes Royal Bodyguard and an air wing); National Militia; Ministry of Home and Cultural Affairs: Royal Bhutan Police (2022)<br>
-note - the Royal Bhutan Police (RBP) agency is responsible for internal security; the Army is responsible for external threats but also has responsibility for some internal security functions, including conducting counterinsurgency operations, guarding forests, and providing security for prominent persons<br>
+<strong>note: </strong>the Royal Bhutan Police (RBP) agency is responsible for internal security; the Army is responsible for external threats but also has responsibility for some internal security functions, including conducting counterinsurgency operations, guarding forests, and providing security for prominent persons<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Bhutan Army has an estimated 8,000 personnel (2022)<br>

@@ -387,7 +387,7 @@ _lyrics/music_: Ahmed JAVAD/Uzeyir HAJIBEYOV<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>
-_selected World Heritage Site locales_: Walled City of Baku, Gobustan Rock Art Cultural Landscape, Historic Center of Sheki<br>
+_selected World Heritage Site locales_: Walled City of Baku; Gobustan Rock Art Cultural Landscape; Historic Center of Sheki<br>
 
 ## Economy
 
@@ -526,7 +526,7 @@ $17.41 billion (31 December 2017 est.)<br>
 $13.83 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Azerbaijani manats (AZN) per US dollar -<br>
+_Currency_: Azerbaijani manats (AZN) per US dollar -<br>
 1.723 (2017 est.)<br>
 1.5957 (2016 est.)<br>
 1.5957 (2015 est.)<br>
@@ -691,7 +691,7 @@ the inventory of the Azerbaijan military is comprised mostly of Russian and Sovi
 
 **Military service age and obligation**<br>
 men age 18-35 years for compulsory military service; service obligation 18 months (non-university graduate) or 12 months (university graduates); 17 years of age for voluntary service (men and women); 17-year-olds are considered to be on active service at cadet military schools (2021)<br>
-note - as of 2018, women made up an estimated 3% of the active duty military<br>
+<strong>note:</strong> as of 2018, women made up an estimated 3% of the active duty military<br>
 
 **Military - note**<br>
 since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remained high in 2022, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory<br>

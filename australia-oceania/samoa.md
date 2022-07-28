@@ -503,7 +503,7 @@ $122.5 million (31 December 2015 est.)<br>
 $447.2 million (31 December 2013 est.)<br>
 
 **Exchange rates**<br>
-tala (SAT) per US dollar -<br>
+_Currency_: tala (SAT) per US dollar -<br>
 2.54712 (2020 est.)<br>
 2.65534 (2019 est.)<br>
 2.57069 (2018 est.)<br>

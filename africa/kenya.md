@@ -316,7 +316,7 @@ _agricultural_: 3.234 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Kenya<br>
 _conventional short form_: Kenya<br>
-_local long form_: Republic of Kenya/Jamhuri ya Kenya<br>
+_local long form_: Republic of Kenya (English)/ Jamhuri ya Kenya (Swahili)<br>
 _local short form_: Kenya<br>
 _former_: British East Africa<br>
 _etymology_: named for Mount Kenya; the meaning of the name is unclear but may derive from the Kikuyu, Embu, and Kamba words "kirinyaga," "kirenyaa," and "kiinyaa" - all of which mean "God's resting place"<br>
@@ -550,7 +550,7 @@ $29.289 billion (2019 est.)<br>
 $25.706 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Kenyan shillings (KES) per US dollar -<br>
+_Currency_: Kenyan shillings (KES) per US dollar -<br>
 111.45 (2020 est.)<br>
 101.4 (2019 est.)<br>
 102.4 (2018 est.)<br>
@@ -631,7 +631,7 @@ _total subscriptions_: 61,408,904 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: through increased competition, Kenya&rsquo;s telecom market has improved international bandwidth and experienced rapid development in mobile sector, including remote regions; four fiber-optic submarine cables reduced costs and increased service to population; government supported LTE and broadband, promising economic support of free WiFi; mobile operators progress with 5G tests; e-commerce interoperability; importer of broadcasting equipment, video displays, and computers from China (2020)<br>
+_general assessment_: Kenya&rsquo;s telecom market continues to undergo considerable changes in the wake of increased competition, improved international connectivity, and rapid developments in the mobile market; the country is directly connected to a number of submarine cables, and with Mombasa as a landing point for LIT&rsquo;s newly completed East and West Africa terrestrial network, the country serves as a key junction for onward connectivity to the Arabian states and the Far East; the additional internet capacity has meant that the cost of internet access has fallen dramatically in recent years, allowing services to be affordable to a far greater proportion of the population; the incumbent fixed-line telco Telkom Kenya has struggled to make headway in this market, prompting reorganization in 2018 which included a sale and leaseback arrangement with its mobile tower portfolio; a further restructuring exercise in late 2020 was aimed at repositioning the company for the digital age, and to improve its ability to compete in the market; numerous competitors are rolling out national and metropolitan backbone networks and wireless access networks to deliver services to population centers across the country; several fiber infrastructure sharing agreements have been forged, and as a result the number of fiber broadband connections has increased sharply in recent years; much of the progress in the broadband segment is due to the government&rsquo;s revised national broadband strategy, which has been updated with goals through to 2030, and which are largely dependent on mobile broadband platforms based on LTE and 5G.&nbsp; (2022)<br>
 _domestic_: fixed-line subscriptions stand at less than 1 per 100 persons; multiple providers in the mobile-cellular segment of the market fostering a boom in mobile-cellular telephone usage with teledensity reaching 114 per 100 persons (2020)<br>
 _international_: country code - 254; landing point for the EASSy, TEAMS, LION2, DARE1, PEACE Cable, and SEACOM fiber-optic submarine cable systems covering East, North&nbsp;and South Africa, Europe, the Middle East, and Asia; satellite earth stations - 4 Intelsat; launched first micro satellites in 2018 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -705,7 +705,7 @@ _LNG terminal(s) (import)_: Mombasa<br>
 
 **Military and security forces**<br>
 Kenya Defense Forces: Kenya Army, Kenya Navy, Kenya Air Force (2022)<br>
-note - the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit; the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior, but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
+<strong>note 1:</strong> the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit<br><br><strong>note 2:</strong> the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior, but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
@@ -744,7 +744,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 <p>as of March 2022, Kenya provides shelter to nearly 548,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels</p> <p><em>Kenya-Ethiopia</em>: their border was demarcated in the 1950s and approved in 1970; in 2012, Kenya and Ethiopia agreed to redemarcate their boundary following disputes over beacons and crossborder crime</p> <p><em>Kenya-Somalia</em>: Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; in 2021, the International Court of Justice (ICJ) gave Somalia control over a disputed ocean area where the seabeds are believed to hold vasts oil and gas deposits; the ICJ ruling gives Somalia the rights to several offshore oil exploration blocks previously claimed by Kenya; Kenya did not recognize the court’s decision</p> <p><em>Kenya-South Sudan</em>: two thirds of the boundary that separates Kenya and South Sudan's sovereignty known as the Ilemi Triangle has been unclear since British colonial times; Kenya has administered the area since colonial times; officials from Kenya and South Sudan signed a M.o.U. on boundary delimitation and demarcation and agreed to set up a joint committee; as of July 2019, the demarcation process was to begin in 90 days, but was delayed due to a lack of funding</p> <p><em>Kenya-Sudan</em>: Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005</p> <p><em>Kenya-Tanzania</em>: Kenya and Tanzania were conducting a joint reaffirmation process in November 2021 to ensure the border was visibly marked with pillars</p> <p><em>Kenya-Uganda:</em> Kenya and Uganda began a joint demarcation of the boundary in 2021 </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 279,200 (Somalia), 142,113 (South Sudan), 31,116 (Democratic Republic of the Congo), 21,047 (Ethiopia), 7,770 (Burundi), 5,011 (Sudan) (2022)<br>
+_refugees (country of origin)_: 279,200 (Somalia), 144,441 (South Sudan), 31,342 (Democratic Republic of the Congo), 21,047 (Ethiopia), 7,770 (Burundi), 5,011 (Sudan) (2022)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2021)<br>
 _stateless persons_: 16,820 (mid-year 2021); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

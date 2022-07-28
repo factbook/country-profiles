@@ -323,8 +323,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Jose Maria NEVES (since 9 November 2021)<br>
 _head of government_: Prime Minister Ulisses CORREIA E. SILVA (since 22 April 2016)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 October 2021 (next to be held on 17 October 2026); prime minister nominated by the National Assembly and appointed by the president<br>
-_election results_: Jose Maria NEVES elected president; percent of vote - Jose Maria NEVES (APICV) 51.73%, Carlos Veiga (MFD) 42.37%, Casimiro de Pina (Independent) 1.81%, Fernando Rocha Delgado (Independent) 1.36%, Helio Sanches (Independent) 1.14%, Gilson Alves (Independent)  0.84%, Joaquim Monteiro (Independent) 0.74%<br><br>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74%, Albertino GRACA (independent) 23%, other 3%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 October 2021 (next to be held on 17 October 2026); prime minister nominated by the National Assembly and appointed by the president (2021)<br>
+_election results_: Jose Maria NEVES elected president; percent of vote - Jose Maria NEVES (APICV) 51.73%, Carlos VEIGA (MFD) 42.37%, Casimiro DE PINA (Independent) 1.81%, Fernando Rocha DELGADO (Independent) 1.36%, Helio SANCHES (Independent) 1.14%, Gilson ALVES (Independent)  0.84%, Joaquim MONTEIRO (Independent) 3.4%<br><br>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74.1%, Albertino GRACA (independent) 22.5%, other 3% (2021)<br>
 African Party for the Independence of Cape Verde (APICV)<br>Movement for Democracy (MFD)<br>
 
 **Legislative branch**<br>
@@ -372,7 +372,7 @@ _lyrics/music_: Amilcar Spencer LOPES/Adalberto Higino Tavares SILVA<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
-_selected World Heritage Site locales_: Cidade Velha, Historic Center of Ribeira Grande<br>
+_selected World Heritage Site locales_: Cidade Velha; Historic Center of Ribeira Grande<br>
 
 ## Economy
 
@@ -504,7 +504,7 @@ $1.713 billion (31 December 2017 est.)<br>
 $1.688 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Cabo Verdean escudos (CVE) per US dollar -<br>
+_Currency_: Cabo Verdean escudos (CVE) per US dollar -<br>
 101.8 (2017 est.)<br>
 99.688 (2016 est.)<br>
 99.688 (2015 est.)<br>

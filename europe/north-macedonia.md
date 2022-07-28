@@ -333,7 +333,7 @@ _residency requirement for naturalization_: 8 years<br>
 _chief of state_: President Stevo PENDAROVSKI (since 12 May 2019)<br>
 _head of government_: Prime Minister Dimitar KOVACEVSKI (since 16 January 2022)<br>
 _cabinet_: Council of Ministers elected by the Assembly by simple majority vote<br>
-_elections/appointments_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be deemed valid; president elected for a 5-year term (eligible for a second term); election last held on 21 April and 5 May 2019 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly; Zoran ZAEV reelected prime minister by the Assembly on 31 August 2020; Assembly vote - 62 for, 51 against<br>
+_elections/appointments_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be deemed valid; president elected for a 5-year term (eligible for a second term); election last held on 21 April and 5 May 2019 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly; Dimitar KOVACEVSKI elected prime minister by the Assembly on 16 January 2022; Assembly vote - NA<br>
 _election results_: Stevo PENDAROVSKI elected president in second round; percent of vote in first round - Stevo PENDAROVSKI (SDSM) 44.8%, Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 44.2%, Blenim REKA (independent) 11.1%; percent of vote in second round - Stevo PENDAROVSKI 53.6%, Gordana SILJANOVSKA-DAVKOVA 46.4%<br>
 
 **Legislative branch**<br>
@@ -347,7 +347,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the Judi
 _subordinate courts_: Courts of Appeal; Basic Courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Albanians or AfA [Ziadin SELA]<br>Alternative (Alternativa) [Afrim GASHI]<br>Besa Movement [Bilal KASAMI]<br>Democratic Party of Albanians or PDSh [Menduh THACI]<br>Democratic Union for Integration or BDI [Ali AHMETI]<br>Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE [Hristijan MICKOSKI]<br>Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP [Ljubco GEORGIEVSKI]<br>Liberal Democratic Party or LDP [Goran MILEVSKI]<br>Renewal (VMRO-DPMNE coalition)<br>Social Democratic Union of Macedonia or SDSM [Dimitar KOVACHEVSKI]<br>The Left (Levica) [Dimitar APASIEV]<br>Turkish Democratic Party of DPT [Beycan ILYAS]<br>We Can (coalition includes SDSM/Besa/VMRO-NP, DPT, LDP)<br>
+Alliance for Albanians or AfA [Ziadin SELA]<br>Alternative (Alternativa) [Afrim GASHI]<br>Besa Movement [Bilal KASAMI]<br>Democratic Party of Albanians or PDSh [Menduh THACI]<br>Democratic Union for Integration or BDI [Ali AHMETI]<br>Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE [Hristijan MICKOSKI]<br>Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP [Ljubco GEORGIEVSKI]<br>Liberal Democratic Party or LDP [Goran MILEVSKI]<br>Renewal (VMRO-DPMNE coalition) [Maja MORACHANIN]<br>Social Democratic Union of Macedonia or SDSM [Dimitar KOVACHEVSKI]<br>The Left (Levica) [Dimitar APASIEV]<br>Turkish Democratic Party of DPT [Beycan ILYAS]<br>We Can (coalition includes SDSM/Besa/VMRO-NP, DPT, LDP)<br>
 
 **International organization participation**<br>
 BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO,&nbsp;OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -381,7 +381,7 @@ _lyrics/music_: Vlado MALESKI/Todor SKALOVSKI<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both natural)<br>
-_selected World Heritage Site locales_: Natural and Cultural Heritage of the Ohrid Region, Ancient and Primeval Beech Forests of the Carpathians<br>
+_selected World Heritage Site locales_: Natural and Cultural Heritage of the Ohrid Region; Ancient and Primeval Beech Forests of the Carpathians<br>
 
 ## Economy
 
@@ -520,7 +520,7 @@ $9.065 billion (2019 est.)<br>
 $9.398 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Macedonian denars (MKD) per US dollar -<br>
+_Currency_: Macedonian denars (MKD) per US dollar -<br>
 55.8 (2017 est.)<br>
 55.733 (2016 est.)<br>
 55.733 (2015 est.)<br>
@@ -652,7 +652,7 @@ _unpaved_: 4,549 km (2017)<br>
 
 **Military and security forces**<br>
 Army of the Republic of North Macedonia (ARSM; includes a General Staff and subordinate Operations Command, Logistic Support Command, Training and Doctrine Command, Center for Electronic Reconnaissance, Aviation Brigade, and Honor Guard Battalion) (2022)<br>
-note - the Operations Command includes air, ground, special operations, support, and reserve forces<br>
+<strong>note:</strong> the Operations Command includes air, ground, special operations, support, and reserve forces<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
@@ -669,7 +669,7 @@ the inventory of North Macedonia's Army consists mostly of Soviet-era equipment;
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2007 (2021)<br>
-note - as of 2019, women made up about 8% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2019, women made up about 8% of the military's full-time personnel<br>
 
 **Military - note**<br>
 North Macedonia became the 30th member of NATO in 2020; as of 2022, Greece provided NATO's air policing mission for North Macedonia<br>

@@ -273,8 +273,8 @@ _agricultural_: 1 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Equatorial Guinea<br>
 _conventional short form_: Equatorial Guinea<br>
-_local long form_: Republica de Guinea Ecuatorial/Republique de Guinee Equatoriale<br>
-_local short form_: Guinea Ecuatorial/Guinee Equatoriale<br>
+_local long form_: Republica de Guinea Ecuatorial (Spanish)/ Republique de Guinee Equatoriale (French)<br>
+_local short form_: Guinea Ecuatorial (Spanish)/ Guinee Equatoriale (French)<br>
 _former_: Spanish Guinea<br>
 _etymology_: the country is named for the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel; the "equatorial" refers to the fact that the country lies just north of the Equator<br>
 
@@ -320,7 +320,7 @@ _chief of state_: President Brig. Gen. (Ret.) Teodoro OBIANG Nguema Mbasogo (sin
 _head of government_: Prime Minister Francisco Pascual Eyegue OBAMA Asue (since 23 June 2016); First Deputy Prime Minister Clemente Engonga NGUEMA Onguene (since 23 June 2016); Second Deputy Prime Minister Angel MESIE Mibuy (since 5 February 2018); Third Deputy Prime Minister Alfonso Nsue MOKUY (since 23 June 2016)<br>
 _cabinet_: Council of Ministers appointed by the president and overseen by the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 24 April 2016 (next to be held in 2023); prime minister and deputy prime ministers appointed by the president<br>
-_election results_: Teodoro OBIANG Nguema Mbasogo reelected president; percent of vote - Teodoro OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%<br>
+_election results_: Teodoro OBIANG Nguema Mbasogo reelected president; percent of vote - Teodoro OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5% (2016)<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats statutory, 72 seats for current term; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote, 15 appointed by the president, and 2 ex-officio)<br>Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed paryt-list proportional representation vote to serve 5-year terms)<br>
@@ -482,7 +482,7 @@ $1.211 billion (31 December 2017 est.)<br>
 $1.074 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+_Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
 605.3 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>
@@ -625,7 +625,7 @@ _LNG terminal(s) (export)_: Bioko Island<br>
 
 **Military and security forces**<br>
 Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army)), Navy, Air Force; Gendarmerie (2022)<br>
-note - the Gendarmerie reports to the Ministry of National Defense and is responsible for security outside cities and for special events; military personnel also fulfill some police functions in border areas, sensitive sites, and high-traffic areas<br>
+<strong>note:</strong> the Gendarmerie reports to the Ministry of National Defense and is responsible for security outside cities and for special events; military personnel also fulfill some police functions in border areas, sensitive sites, and high-traffic areas<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2019 est.) (approximately $270 million)<br>

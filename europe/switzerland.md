@@ -300,11 +300,10 @@ _agricultural_: 160.1 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Swiss Confederation<br>
 _conventional short form_: Switzerland<br>
-_local long form_: Schweizerische Eidgenossenschaft (German); Confederation Suisse (French); Confederazione Svizzera (Italian); Confederaziun Svizra (Romansh)<br>
-_local short form_: Schweiz (German); Suisse (French); Svizzera (Italian); Svizra (Romansh)<br>
+_local long form_: Schweizerische Eidgenossenschaft (German)/ Confederation Suisse (French)/ Confederazione Svizzera (Italian)/ Confederaziun Svizra (Romansh)<br>
+_local short form_: Schweiz (German)/ Suisse (French)/ Svizzera (Italian)/ Svizra (Romansh)<br>
 _abbreviation_: CH<br>
 _etymology_: name derives from the canton of Schwyz, one of the founding cantons of the Old Swiss Confederacy that formed in the 14th century<br>
-&nbsp;<br>
 
 **Government type**<br>
 federal republic (formally a confederation)<br>
@@ -347,10 +346,10 @@ _residency requirement for naturalization_: 12 years including at least 3 of the
 
 **Executive branch**<br>
 _chief of state_: President of the Swiss Confederation Ignazio CASSIS (since 1 January 2022); Vice President Alain BERSET (since 1 January 2022); note - the Federal Council, comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate the 1-year term of federal president<br>
-_head of government_: President of the Swiss Confederation Ignazio CASSIS (since1 January 2022); Vice President Alain BERSET (since 1 January 2022)<br>
+_head of government_: President of the Swiss Confederation Ignazio CASSIS (since 1 January 2022); Vice President Alain BERSET (since 1 January 2022)<br>
 _cabinet_: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term<br>
 _elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 8 December 2021 (next to be held in December 2022)<br>
-_election results_: Ignazio CASSIS elected president (FDP.The Liberals); Federal Assembly vote - 156 of 197 votes; Alain BERSET (SP) elected vice president; Federal Assembly vote - 158 of 204<br>
+_election results_: Ignazio CASSIS elected president; Federal Assembly vote - Ignazio CASSIS (FDP.The Liberals) 156 of 197 votes; Alain BERSET (SP) elected vice president; Federal Assembly vote - 158 of 204<br>
 
 **Legislative branch**<br>
 _description_: description: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 195 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)<br>
@@ -399,7 +398,7 @@ _lyrics/music_: Leonhard WIDMER [German], Charles CHATELANAT [French], Camillo V
 
 **National heritage**<br>
 _total World Heritage Sites_: 13 (9 cultural, 4 natural)<br>
-_selected World Heritage Site locales_: Old City of Berne (c), Swiss Alps Jungfrau-Aletsch (n), Monte San Giorgio (n), Abbey of St Gall (c), Three Castles, Defensive Wall, and Ramparts of the Market-Town of Bellinzona (c), Rhaetian Railway in the Albula/Bernina Landscapes (c), La Chaux-de-Fonds/Le Locle, Watchmaking Town Planning (c), Prehistoric Pile Dwellings around the Alps (c), Benedictine Convent of St John at M&uuml;stair (c), Lavaux, Vineyard Terraces (c)<br>
+_selected World Heritage Site locales_: Old City of Berne (c); Swiss Alps Jungfrau-Aletsch (n); Monte San Giorgio (n); Abbey of St Gall (c); Three Castles, Defensive Wall, and Ramparts of the Market-Town of Bellinzona (c); Rhaetian Railway in the Albula/Bernina Landscapes (c); La Chaux-de-Fonds/Le Locle, Watchmaking Town Planning (c); Prehistoric Pile Dwellings around the Alps (c); Benedictine Convent of St John at M&uuml;stair (c); Lavaux, Vineyard Terraces (c)<br>
 
 ## Economy
 
@@ -541,7 +540,7 @@ $1,909,446,000,000 (2019 est.)<br>
 $1,930,819,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-Swiss francs (CHF) per US dollar -<br>
+_Currency_: Swiss francs (CHF) per US dollar -<br>
 0.88995 (2020 est.)<br>
 0.98835 (2019 est.)<br>
 0.99195 (2018 est.)<br>
@@ -711,7 +710,7 @@ the Swiss Armed Forces inventory includes a mix of domestically-produced and imp
 
 **Military service age and obligation**<br>
 18-30 years of age generally for male compulsory military service; 18 years of age for voluntary male and female military service; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2021)<br>
-note - conscientious objectors can choose 390 days of community service instead of military service<br>
+<strong>note: </strong>conscientious objectors can choose 390 days of community service instead of military service<br>
 
 **Military deployments**<br>
 up to 165 Kosovo (NATO/KFOR) (2022)<br>
@@ -731,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 57,380 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 38,219 (Eritrea), 20,043 (Syria), 14,649 (Afghanistan), 6,069 (Sri Lanka), 6,197 (Turkey) (mid-year 2021); 58,643 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 684 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

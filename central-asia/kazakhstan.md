@@ -398,7 +398,7 @@ _lyrics/music_: Zhumeken NAZHIMEDENOV and Nursultan NAZARBAYEV/Shamshi KALDAYAKO
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Mausoleum of Khoja Ahmed Yasawi (c), Petroglyphs at Tanbaly (c), Saryarka - Steppe and Lakes of Northern Kazakhstan (n), Silk Roads: the Chang'an-Tianshan Corridor (c), Western Tien-Shan (n)<br>
+_selected World Heritage Site locales_: Mausoleum of Khoja Ahmed Yasawi (c); Petroglyphs at Tanbaly (c); Saryarka - Steppe and Lakes of Northern Kazakhstan (n); Silk Roads: the Chang'an-Tianshan Corridor (c); Western Tien-Shan (n)<br>
 
 ## Economy
 
@@ -537,7 +537,7 @@ $159.351 billion (2019 est.)<br>
 $163.73 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-tenge (KZT) per US dollar -<br>
+_Currency_: tenge (KZT) per US dollar -<br>
 420.0049 (2020 est.)<br>
 385.9248 (2019 est.)<br>
 370.4648 (2018 est.)<br>

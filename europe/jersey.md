@@ -398,7 +398,7 @@ machinery and transport equipment, manufactured goods, foodstuffs, mineral fuels
 <p>NA</p><br>
 
 **Exchange rates**<br>
-Jersey pounds (JEP) per US dollar<br>
+_Currency_: Jersey pounds (JEP) per US dollar<br>
 0.7836 (2017 est.)<br>
 0.738 (2016 est.)<br>
 0.738 (2015)<br>

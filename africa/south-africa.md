@@ -357,10 +357,10 @@ _residency requirement for naturalization_: 1 year<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President David MABUZA (26 February 2018); note - the president is both chief of state and head of government; Jacob ZUMA resigned the presidency on 14 February 2018&nbsp;<br>
+_chief of state_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President David MABUZA (26 February 2018); note - the president is both chief of state and head of government; note- Jacob ZUMA resigned on 14 February 2018<br>
 _head of government_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); deputy president David MABUZA (26 February 2018<br>
-_cabinet_: &nbsp;Cabinet appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 22 May 2019 (next to be held in May 2024)<br>
+_cabinet_: Cabinet appointed by the president<br>
+_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 22 May 2019 (next to be held in May 2024) (2019)<br>
 _election results_: Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br>
 
 **Legislative branch**<br>
@@ -410,7 +410,7 @@ _lyrics/music_: Enoch SONTONGA and Cornelius Jacob LANGENHOVEN/Enoch SONTONGA an
 
 **National heritage**<br>
 _total World Heritage Sites_: 10 (5 cultural, 4 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: Fossil Hominid Sites of South Africa (c), iSimangaliso Wetland Park (n), Robben Island (c), Maloti-Drakensberg Park (m), Mapungubwe Cultural Landscape (c), Cape Floral Region Protected Areas (n), Vredefort Dome (n), Richtersveld Cultural and Botanical Landscape (c), Khomani Cultural Landscape (c), Barberton Makhonjwa Mountains (n)<br>
+_selected World Heritage Site locales_: Fossil Hominid Sites of South Africa (c); iSimangaliso Wetland Park (n); Robben Island (c); Maloti-Drakensberg Park (m); Mapungubwe Cultural Landscape (c); Cape Floral Region Protected Areas (n); Vredefort Dome (n); Richtersveld Cultural and Botanical Landscape (c); Khomani Cultural Landscape (c); Barberton Makhonjwa Mountains (n)<br>
 
 ## Economy
 
@@ -549,7 +549,7 @@ $179.871 billion (2019 est.)<br>
 $173.714 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-rand (ZAR) per US dollar -<br>
+_Currency_: rand (ZAR) per US dollar -<br>
 14.9575 (2020 est.)<br>
 14.64 (2019 est.)<br>
 14.05125 (2018 est.)<br>
@@ -721,7 +721,7 @@ the SANDF's inventory consists of a mix of domestically-produced and foreign-sup
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service; women are eligible to serve in noncombat roles; 2-year service obligation (2021)<br>
-note - in 2019, women comprised about 30% of the SANDF<br>
+<strong>note:</strong> in 2019, women comprised about 30% of the SANDF<br>
 
 **Military deployments**<br>
 930 Democratic Republic of the Congo (MONUSCO); up to 1,500 Mozambique (part of a Southern African Development Community force to help quell an insurgency) (2022)<br>

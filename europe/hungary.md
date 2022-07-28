@@ -540,7 +540,7 @@ $123.256 billion (2019 est.)<br>
 $125.29 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-forints (HUF) per US dollar -<br>
+_Currency_: forints (HUF) per US dollar -<br>
 295.3276 (2020 est.)<br>
 299.4939 (2019 est.)<br>
 283.5923 (2018 est.)<br>
@@ -706,14 +706,14 @@ the Hungarian Defense Forces are a unified force (Joint Force Command) with Land
 
 **Military and security service personnel strengths**<br>
 the Hungarian Defense Forces have approximately 20,000 active duty troops (15,000 Army; 5,000 Air Force) (2021)<br>
-note - in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000, but did not give a timeline<br>
+<strong>note:</strong> in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000, but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Hungarian Defense Forces consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; since 2010, Hungary has received limited quantities of equipment from several European countries and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2021)<br>
-note - as of 2019, women comprised approximately 20% of Hungary's full-time military personnel<br>
+<strong>note:</strong> as of 2019, women comprised approximately 20% of Hungary's full-time military personnel<br>
 
 **Military deployments**<br>
 160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (NATO); 470 Kosovo (NATO/KFOR) (2022)<br>
@@ -721,13 +721,19 @@ note - as of 2019, women comprised approximately 20% of Hungary's full-time mili
 **Military - note**<br>
 Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance (2022)<br>
 
+## Terrorism
+
+**Terrorist group(s)**<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
 <p>bilateral government, legal, technical and economic working group negotiations continue in 2006 with Slovakia over Hungary's failure to complete its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube; as a member state that forms part of the EU's external border, Hungary has implemented the strict Schengen border rules</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,563 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 27,316 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 130 (mid-year 2021)<br>
 <strong>note:</strong> 432,744 estimated refugee and migrant arrivals (January 2015-December 2018); Hungary is predominantly a transit country and hosts 137 migrants and asylum seekers as of the end of June 2018; 1,626 migrant arrivals in 2017<br>
 

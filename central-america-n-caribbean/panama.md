@@ -391,7 +391,7 @@ _lyrics/music_: Jeronimo DE LA OSSA/Santos A. JORGE<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (2 cultural, 3 natural)<br>
-_selected World Heritage Site locales_: Caribbean Fortifications (c), Darien National Park (n), Talamanca Range-La Amistad National Park (n), Panamá Viejo and Historic District of Panamá (c), Coiba National Park (n)<br>
+_selected World Heritage Site locales_: Caribbean Fortifications (c); Darien National Park (n); Talamanca Range-La Amistad National Park (n); Panamá Viejo and Historic District of Panamá (c); Coiba National Park (n)<br>
 
 ## Economy
 
@@ -532,7 +532,7 @@ $101.393 billion (2019 est.)<br>
 $94.898 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-balboas (PAB) per US dollar -<br>
+_Currency_: balboas (PAB) per US dollar -<br>
 1 (2017 est.)<br>
 1 (2016 est.)<br>
 1 (2015 est.)<br>
@@ -685,7 +685,7 @@ _container port(s) (TEUs)_: Balboa (2,894,654), Colon (4,379,477) (2019)<br>
 
 **Military and security forces**<br>
 no regular military forces; Ministry of Public Security: the Panama National Police (La Policía Nacional de Panamá, PNP), National Air-Naval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2022)<br>
-note - the PNP includes paramilitary special forces units for counterterrorism and counternarcotics missions; in addition to its 3 regionally-based border security brigades, SENAFRONT includes a special forces brigade, which is comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
+<strong>note:</strong> the PNP includes paramilitary special forces units for counterterrorism and counternarcotics missions; in addition to its 3 regionally-based border security brigades, SENAFRONT includes a special forces brigade, which is comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>

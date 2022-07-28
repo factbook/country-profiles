@@ -352,10 +352,10 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Mokgweetse Eric MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Mokgweetse Eric MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018); note - the president is both chief of state and head of government<br>
+_head of government_: President Mokgweetse Eric MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018);&nbsp;<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 24 October 2014 (next to be held on 31 October 2019); vice president appointed by the president<br>
-_election results_: President Seretse Khama Ian KHAMA (since 1 April 2008) stepped down on 1 April 2018 having completed the constitutionally mandated 10-year term limit; upon his retirement, then Vice President MASISI became president; national elections held on 23 October 2019 gave MASISI'S BPD 38 seats in the National Assembly which then selected MASISI as President<br>
+_elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 23 October 2019 (next to be held in 2024 October); vice president appointed by the president<br>
+_election results_: President Seretse Khama Ian KHAMA (since 1 April 2008) stepped down on 1 April 2018 having completed the constitutionally mandated 10-year term limit; upon his retirement, then Vice President MASISI became president; national elections held on 23 October 2019 gave MASISI'S BPD 38 seats in the National Assembly which then selected MASISI as President (2019)<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament consists of the National Assembly (63 seats; 57 members directly elected in single-seat constituencies by simple majority vote,&nbsp;4 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and attorney general; elected members serve 5-year terms); note - the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members - 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments<br>
@@ -402,7 +402,7 @@ _lyrics/music_: Kgalemang Tumedisco MOTSETE<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Tsodilo Hills (c), Okavango Delta (n)<br>
+_selected World Heritage Site locales_: Tsodilo Hills (c); Okavango Delta (n)<br>
 
 ## Economy
 
@@ -538,7 +538,7 @@ $2.187 billion (31 December 2017 est.)<br>
 $2.421 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-pulas (BWP) per US dollar -<br>
+_Currency_: pulas (BWP) per US dollar -<br>
 10.90512 (2020 est.)<br>
 10.81081 (2019 est.)<br>
 10.60446 (2018 est.)<br>
@@ -678,7 +678,7 @@ _unpaved_: 21,937 km (2017)<br>
 
 **Military and security forces**<br>
 Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Logistics Command (2022)<br>
-note - both the armed forces and the Botswana Police Service report to the Ministry of Defense, Justice, and Security<br>
+<strong>note:</strong> both the BDF and the Botswana Police Service report to the Ministry of Defense, Justice, and Security<br>
 
 **Military expenditures**<br>
 3% of GDP (2021 est.)<br>

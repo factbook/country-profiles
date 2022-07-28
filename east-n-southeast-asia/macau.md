@@ -124,6 +124,9 @@ population fairly equally distributed<br>
 _urban population_: 100% of total population (2022)<br>
 _rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
+**Major urban areas - population**<br>
+672,000 Macau (2022)<br>
+
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
 _0-14 years_: 1.05 male(s)/female<br>
@@ -229,8 +232,8 @@ _percent of municipal solid waste recycled_: 20% (2014 est.)<br>
 **Country name**<br>
 _conventional long form_: Macau Special Administrative Region<br>
 _conventional short form_: Macau<br>
-_official long form_: Aomen Tebie Xingzhengqu (Chinese); Regiao Administrativa Especial de Macau (Portuguese)<br>
-_official short form_: Aomen (Chinese); Macau (Portuguese)<br>
+_official long form_: Aomen Tebie Xingzhengqu (Chinese)/ Regiao Administrativa Especial de Macau (Portuguese)<br>
+_official short form_: Aomen (Chinese)/ Macau (Portuguese)<br>
 _etymology_: name is thought to derive from the A-Ma Temple - built in 1488 and dedicated to Mazu, the goddess of seafarers and fishermen - which is referred to locally as "Maa Gok" - and in Portuguese became "Macau"; the Chinese name Aomen means "inlet gates"<br>
 
 **Government type**<br>
@@ -442,7 +445,7 @@ $0 (31 December 2013)<br>
 $0 (31 December 2012)<br>
 
 **Exchange rates**<br>
-patacas (MOP) per US dollar -<br>
+_Currency_: patacas (MOP) per US dollar -<br>
 8 (2017 est.)<br>
 7.9951 (2016 est.)<br>
 7.9951 (2015 est.)<br>

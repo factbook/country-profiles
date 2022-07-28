@@ -573,7 +573,7 @@ $27.27 billion (2019 est.)<br>
 $26.269 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-birr (ETB) per US dollar -<br>
+_Currency_: birr (ETB) per US dollar -<br>
 25 (2017 est.)<br>
 21.732 (2016 est.)<br>
 21.732 (2015 est.)<br>
@@ -720,7 +720,7 @@ Ethiopia is landlocked and uses the ports of Djibouti in Djibouti and Berbera in
 
 **Military and security forces**<br>
 Ethiopian National Defense Force (ENDF): Ground Forces, Ethiopian Air Force (Ye Ityopya Ayer Hayl, ETAF) (2022)<br>
-note(s) - in January 2020 the Ethiopian Government announced it had re-established a navy, which was disbanded in 1996; in March 2019 Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which will reportedly be based out of Djibouti<br><br>in 2018, Ethiopia established a Republican Guard military unit responsible to the Prime Minister for protecting senior officials<br><br><br>
+<strong>note 1:</strong> in January 2020 the Ethiopian Government announced it had re-established a navy, which was disbanded in 1996; in March 2019 Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which will reportedly be based out of Djibouti<br><br><strong>note 2: </strong>in 2018, Ethiopia established a Republican Guard military unit responsible to the Prime Minister for protecting senior officials<br><br><br>
 
 **Military expenditures**<br>
 0.5% of GDP (2021 est.)<br>
@@ -737,7 +737,7 @@ the ENDF's inventory is comprised mostly of Soviet-era equipment from the 1970s;
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory (2021)<br>
-note - in November 2021, the Ethiopian Government issued a nationwide state of emergency that enabled officials to order military-age citizens to undergo training and accept military duty in support of the Tigray conflict<br>
+<strong>note:</strong> in November 2021, the Ethiopian Government issued a nationwide state of emergency that enabled officials to order military-age citizens to undergo training and accept military duty in support of the Tigray conflict<br>
 
 **Military deployments**<br>
 5-10,000 Somalia (4,500 for ATMIS; the remainder under a bilateral agreement with Somalia; note - bilateral figures are prior to the conflict with Tigray); 250 Sudan (UNISFA); 1,500 South Sudan (UNMISS) (2022)<br>
@@ -748,7 +748,7 @@ each of the nine states has a regional and/or a "special" paramilitary security 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Shabaab; IRGC/Qods Force<br>
+al-Shabaab; Islamic Revolutionary Guard Corps (IRGC)/Qods Force<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

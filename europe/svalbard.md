@@ -5,7 +5,7 @@ _Europe / Dependencies (Norway)_
 ## Introduction
 
 **Background**<br>
-The archipelago may have been first discovered by Norse explorers in the 12th century; the islands served as an international whaling base during the 17th and 18th centuries. Norway's sovereignty was internationally recognized by treaty in 1920, and five years later it officially took over the territory. In the 20th century coal mining started and today a Norwegian and a Russian company are still functioning. Travel between the settlements is accomplished with snowmobiles, aircraft, and boats.<br>
+The archipelago may have been first discovered by Norse explorers in the 12th century; the islands served as an international whaling base during the 17th and 18th centuries. Norway's sovereignty was internationally recognized by treaty in 1920, and five years later it officially took over the territory. In the 20th century, coal mining started and today a Norwegian and a Russian company are still functioning. Travel between the settlements is accomplished with snowmobiles, aircraft, and boats.<br>
 
 ## Geography
 
@@ -101,7 +101,7 @@ _potential support ratio_: NA<br>
 NA<br>
 
 **Death rate**<br>
-(2021 est.) NA<br>
+NA<br>
 
 **Net migration rate**<br>
 -5.57 migrant(s)/1,000 population (2021 est.)<br>
@@ -264,7 +264,7 @@ NA<br>
 <p>$NA</p><br>
 
 **Exchange rates**<br>
-Norwegian kroner (NOK) per US dollar -<br>
+_Currency_: Norwegian kroner (NOK) per US dollar -<br>
 8.308 (2017 est.)<br>
 8.0646 (2016 est.)<br>
 8.0646 (2015)<br>

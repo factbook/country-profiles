@@ -409,7 +409,7 @@ _lyrics/music_: Vicente LOPEZ y PLANES/Jose Blas PARERA<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 11 (6 cultural, 5 natural)<br>
-_selected World Heritage Site locales_: Los Glaciares National Park (n), Jesuit Missions of the Guaranis, Iguazú National Park (n), Cueva de las Manos (c), Valdés Península (n), Ischigualasto/Talampaya National Parks (n), Jesuit Block and Estancias of Córdoba (c), Quebrada de Humahuaca (c), Qhapaq Ñan/Andean Road System (c)<br>
+_selected World Heritage Site locales_: Los Glaciares National Park (n); Jesuit Missions of the Guaranis (c); Iguazú National Park (n); Cueva de las Manos (c); Valdés Península (n); Ischigualasto/Talampaya National Parks (n); Jesuit Block and Estancias of Córdoba (c); Quebrada de Humahuaca (c); Qhapaq Ñan/Andean Road System (c)<br>
 
 ## Economy
 
@@ -550,7 +550,7 @@ $278.524 billion (2019 est.)<br>
 $261.949 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Argentine pesos (ARS) per US dollar -<br>
+_Currency_: Argentine pesos (ARS) per US dollar -<br>
 82.034 (2020 est.)<br>
 59.96559 (2019 est.)<br>
 37.23499 (2018 est.)<br>
@@ -731,7 +731,7 @@ the inventory of Argentina's armed forces is a mix of domestically-produced and 
 
 **Military service age and obligation**<br>
 18-24 years of age for voluntary military service (men and women); conscription suspended in 1995; citizens can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2022)<br>
-note - as of 2021, women made up over 21% of the active duty military<br>
+note - as of 2021, women comprised over 21% of the active duty military<br>
 
 **Military deployments**<br>
 200 Cyprus (UNFICYP) (Jan 2022)<br>

@@ -396,7 +396,7 @@ food preparation, packaged medicines, low-voltage protection equipment, cars, co
 <p>NA</p><br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.885 (2017 est.)<br>
 0.903 (2016 est.)<br>
 0.9214 (2015 est.)<br>

@@ -394,7 +394,7 @@ _lyrics/music_: Andrei MURESIANU/Anton PANN<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 9 (7 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Danube Delta (n), Churches of Moldavia (c), Monastery of Horezu (c), Villages with Fortified Churches in Transylvania (c), Dacian Fortresses of the Orastie Mountains (c), Historic Center of Sighişoara (c), Wooden Churches of Maramureş (c), Ancient and Primeval Beech Forests of the Carpathians (n), Roșia Montană Mining Landscape (c)<br>
+_selected World Heritage Site locales_: Danube Delta (n); Churches of Moldavia (c); Monastery of Horezu (c); Villages with Fortified Churches in Transylvania (c); Dacian Fortresses of the Orastie Mountains (c); Historic Center of Sighişoara (c); Wooden Churches of Maramureş (c); Ancient and Primeval Beech Forests of the Carpathians (n); Roșia Montană Mining Landscape (c)<br>
 
 ## Economy
 
@@ -534,7 +534,7 @@ $117.829 billion (2019 est.)<br>
 $115.803 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-lei (RON) per US dollar -<br>
+_Currency_: lei (RON) per US dollar -<br>
 4.02835 (2020 est.)<br>
 4.31655 (2019 est.)<br>
 4.0782 (2018 est.)<br>
@@ -725,7 +725,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p><em>Romania-Bulgaria</em>: none identified</p> <p><em>Romania-Hungary</em>: none identified</p> <p><em>Romania-Moldova</em>: none identified</p> <p><em>Romania-Serbia</em>: none identified</p> <p><em>Romania-Ukraine</em>: the International Court of Justice ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation; in 2007, Romania opposed Ukraine's construction of a navigation canal from the Danube border through Ukraine to the Black Sea, arguing that it runs through a unique ecological area, the Danube Delta</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 84,393 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 84,384 (Ukraine) (as of 24 July 2022)<br>
 _stateless persons_: 314 (mid-year 2021)<br>
 <strong>note:</strong> 10,447 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 

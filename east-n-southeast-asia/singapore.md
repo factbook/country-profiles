@@ -316,7 +316,7 @@ _amendments_: proposed by Parliament; passage requires two-thirds majority vote 
 English common law<br>
 
 **International law organization participation**<br>
-has not submitted an ICJ jurisdiction declaration; non-party state to the ICC (2019)<br>
+has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
 
 **Citizenship**<br>
 _citizenship by birth_: no<br>
@@ -524,7 +524,7 @@ $1,557,646,000,000 (2019 est.)<br>
 $1,528,177,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-Singapore dollars (SGD) per US dollar -<br>
+_Currency_: Singapore dollars (SGD) per US dollar -<br>
 1.33685 (2020 est.)<br>
 1.35945 (2019 est.)<br>
 1.3699 (2018 est.)<br>
@@ -663,8 +663,8 @@ _LNG terminal(s) (import)_: Singapore<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Singapore Armed Forces (SAF; aka Singapore Defense Force): Singapore Army, Republic of Singapore Navy, Republic of Singapore Air Force (includes air defense); Ministry of Home Affairs: Singapore Police Force (includes Police Coast Guard and the paramilitary Gurkha Contingent Singapore Police Force or GCSPF) (2022)<br><br>note(s) - in 2022, the SAF announced that it would form a Digital and Intelligence Service (DIS) by the end of the year; in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore’s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
-note(s) - in 2022, the SAF announced that it would form a Digital and Intelligence Service (DIS) by the end of the year; in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore&rsquo;s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
+Singapore Armed Forces (SAF; aka Singapore Defense Force): Singapore Army, Republic of Singapore Navy, Republic of Singapore Air Force (includes air defense); Ministry of Home Affairs: Singapore Police Force (includes Police Coast Guard and the paramilitary Gurkha Contingent Singapore Police Force or GCSPF) (2022)<br>
+<strong>note 1:</strong> in 2022, the SAF announced that it would form a Digital and Intelligence Service (DIS) by the end of the year<br><br><strong>note 2:</strong> in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore’s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
 
 **Military expenditures**<br>
 3.2% of GDP (2021 est.)<br>
@@ -681,7 +681,7 @@ the SAF has a diverse and largely modern mix of domestically-produced and import
 
 **Military service age and obligation**<br>
 18-21 years of age for male compulsory military service; 16 1/2 years of age for voluntary enlistment (with parental consent); 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2021)<br>
-note(s) - under the Enlistment Act, all male Singaporean citizens and permanent residents, unless exempted, are required to enter National Service (NS) upon attaining the age of 18; most NS conscripts serve in the SAF, but some go into the Police Force or Civil Defense Force; as of 2020, conscripts comprised over half of the defense establishment; as of 2017, women made up about 7% of the active force<br>
+<strong>note 1: </strong>under the Enlistment Act, all male Singaporean citizens and permanent residents, unless exempted, are required to enter National Service (NS) upon attaining the age of 18; most NS conscripts serve in the SAF, but some go into the Police Force or Civil Defense Force; as of 2020, conscripts comprised over half of the defense establishment<br><br><strong>note 2:</strong> as of 2017, women made up about 7% of the active force<br>
 
 **Military deployments**<br>
 maintains permanent training detachments of military personnel in Australia, France, and the US (2022)<br>

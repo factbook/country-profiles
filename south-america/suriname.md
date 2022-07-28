@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-First explored by the Spaniards in the 16th century and then settled by the English in the mid-17th century, Suriname became a Dutch colony in 1667. With the abolition of African slavery in 1863, workers were brought in from India and Java. The Netherlands granted the colony independence in 1975. Five years later the civilian government was replaced by a military regime that soon declared Suriname a socialist republic. It continued to exert control through a succession of nominally civilian administrations until 1987, when international pressure finally forced a democratic election. In 1990, the military overthrew the civilian leadership, but a democratically elected government - a four-party coalition - returned to power in 1991. The coalition expanded to eight parties in 2005 and ruled until August 2010, when voters returned former military leader Desire BOUTERSE and his opposition coalition to power. President BOUTERSE was reelected unopposed in 2015. Opposition parties campaigned hard against BOUTERSE in the lead up to the May 2020 elections, and in July 2020, a coalition led by Chandrikapersad SANTOKHI&rsquo;s VHP and Ronnie Brunswijk&rsquo;s ABOP was installed. The SANTOKHI government promised to tackle COVID-19, the economic crisis it inherited, and corruption.<br>
+First explored by the Spaniards in the 16th century and then settled by the English in the mid-17th century, Suriname became a Dutch colony in 1667. With the abolition of African slavery in 1863, workers were brought in from India and Java. The Netherlands granted the colony independence in 1975. Five years later, the civilian government was replaced by a military regime that soon declared Suriname a socialist republic. It continued to exert control through a succession of nominally civilian administrations until 1987, when international pressure finally forced a democratic election. In 1990, the military overthrew the civilian leadership, but a democratically elected government - a four-party coalition - returned to power in 1991. The coalition expanded to eight parties in 2005 and ruled until August 2010, when voters returned former military leader Desire BOUTERSE and his opposition coalition to power. President BOUTERSE was reelected unopposed in 2015. Opposition parties campaigned hard against BOUTERSE in the lead up to the May 2020 elections and, in July 2020, a coalition led by Chandrikapersad SANTOKHI&rsquo;s VHP and Ronnie Brunswijk&rsquo;s ABOP was installed. The SANTOKHI government promised to tackle COVID-19, the economic crisis it inherited, and corruption.<br>
 
 ## Geography
 
@@ -384,7 +384,7 @@ _lyrics/music_: Cornelis Atses HOEKSTRA and Henry DE ZIEL/Johannes Corstianus DE
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Central Suriname Nature Reserve (n), Historic Inner City of Paramaribo (c)<br>
+_selected World Heritage Site locales_: Central Suriname Nature Reserve (n); Historic Inner City of Paramaribo (c)<br>
 
 ## Economy
 
@@ -516,7 +516,7 @@ $1.7 billion (31 December 2017 est.)<br>
 $1.436 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Surinamese dollars (SRD) per US dollar -<br>
+_Currency_: Surinamese dollars (SRD) per US dollar -<br>
 7.53 (2017 est.)<br>
 6.229 (2016 est.)<br>
 6.229 (2015 est.)<br>

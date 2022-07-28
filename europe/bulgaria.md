@@ -343,7 +343,7 @@ _chief of state_: President Rumen RADEV (since 22 January 2017); Vice President 
 _head of government_: Prime Minister Kiril PETKOV (since 13 December 2021)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 and 21 November 2021 (next to be held in fall 2026); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
-_election results_: <em>2021</em>: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br><br><em>2011:</em> Rosen PLEVNELIEV elected president in runoff election; percent of vote - Rosen PLEVNELIEV (independent) 52.6%, Ivailo KALFIN (BSP) 47.4%<br>
+_election results_: <em>2021</em>: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%, neither 1.5%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote in the second round - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br><br><em>2011:</em> Rosen PLEVNELIEV elected president in the second round; percent of vote in the second round - Rosen PLEVNELIEV (independent) 52.6%, Ivailo KALFIN (BSP) 47.4%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
@@ -356,7 +356,7 @@ _judge selection and term of office_: Supreme Court of Cassation and Supreme Adm
 _subordinate courts_: appeals courts; regional and district courts; administrative courts; courts martial<br>
 
 **Political parties and leaders**<br>
-Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgaria of the Citizens or DBG [Dimitar DELCHEV]<br>Bulgarian Agrarian People’s Union [Nikolay NENCHEV]<br>Bulgarian Socialist Party or BSP [Korneliya NINOVA] (alliance of BSP, PKT, New Dawn, Ecoglasnost)<br>Citizens for the European Development of Bulgaria or GERB [Boyko BORISOV] (alliance with SDS) <br>Democratic Bulgaria or DB (alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]<br>Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]<br>Ecoglasnost [Emil GEORGIEV]<br>Green Movement or The Greens [Borislav SANDOV, Vladislav PENEV]<br>Middle European Class or SEC [Georgi MANEV]<br>Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]<br>Movement 21 or D21 [Tatyana DONCHEVA]<br>New Dawn [Mincho MINCHEV]<br>Political Club Thrace or PKT [Stefan NACHEZ]<br>Political Movement "Social Democrats" or PDS  [Elena NONEVA]<br>Revival [Kostadin KOSTADINOV]<br>Stand Up.BG or IS.BG [Maya MONOLOVA]<br>Stand Up.BG, We Are Coming! or IBG-NI (coalition of IS.BG, D21, DBG, ENP, ZNS, and Volt) [Maya MONOLOVA, Nikolay HADZHIGENOV]<br>There is Such a People or ITN [SLAVI TRIFONOV]<br>United People's Party or ENP [Valentina VASILEVA-FILADELFEVS]<br>Union of Democratic Forces or SDS (alliance with GERB) [Rumen HRISTOV]<br>Yes! Bulgaria [Hristo IVANOV]<br>Volt Bulgaria or Volt [Nastimir ANANIEV]<br>We Continue the Change of PP (electoral alliance of PP, PDS, SEC, and Volt) [Kiril PETKOV and Asen VASILEV]<br>
+Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgaria of the Citizens or DBG [Dimitar DELCHEV]<br>Bulgarian Agrarian People’s Union or BZNS [Nikolay NENCHEV]<br>Bulgarian Socialist Party or BSP [Korneliya NINOVA] (alliance of BSP, PKT, New Dawn, Ecoglasnost)<br>Citizens for the European Development of Bulgaria or GERB [Boyko BORISOV] (alliance with SDS) <br>Democratic Bulgaria or DB (alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]<br>Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]<br>Ecoglasnost [Emil GEORGIEV]<br>Green Movement or The Greens [Borislav SANDOV, Vladislav PENEV]<br>Middle European Class or SEC [Konstantin BACHIISKI]<br>Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]<br>Movement 21 or D21 [Tatyana DONCHEVA]<br>New Dawn [Mincho MINCHEV]<br>Political Club Thrace or PKT [Stefan NACHEZ]<br>Political Movement "Social Democrats" or PDS  [Elena NONEVA]<br>Revival [Kostadin KOSTADINOV]<br>Stand Up.BG or IS.BG [Maya MONOLOVA]<br>Stand Up.BG, We Are Coming! or IBG-NI (coalition of IS.BG, D21, DBG, ENP, and ZNS) [Maya MONOLOVA, Nikolay HADZHIGENOV]<br>There is Such a People or ITN [SLAVI TRIFONOV]<br>United People's Party or ENP [Valentina VASILEVA-FILADELFEVS]<br>Union of Democratic Forces or SDS [Rumen HRISTOV] (alliance with GERB) <br>Yes! Bulgaria [Hristo IVANOV]<br>Volt Bulgaria or Volt [Nastimir ANANIEV]<br>We Continue the Change of PP (electoral alliance of PP, PDS, SEC, and Volt) [Kiril PETKOV and Asen VASILEV]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -391,7 +391,7 @@ _lyrics/music_: Tsvetan Tsvetkov RADOSLAVOV<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 10 (7 cultural, 3 natural)<br>
-_selected World Heritage Site locales_: Boyana Church (c), Madara Rider (c), Thracian Tomb of Kazanlak (c), Rock-Hewn Churches of Ivanovo (c), Rila Monastery (c), Ancient City of Nessebar (c), Thracian Tomb of Sveshtari (c), Srebarna Nature Reserve (n), Pirin National Park (n), Primeval Beech Forests of the Carpathians (n)<br>
+_selected World Heritage Site locales_: Boyana Church (c); Madara Rider (c); Thracian Tomb of Kazanlak (c); Rock-Hewn Churches of Ivanovo (c); Rila Monastery (c); Ancient City of Nessebar (c); Thracian Tomb of Sveshtari (c); Srebarna Nature Reserve (n); Pirin National Park (n); Primeval Beech Forests of the Carpathians (n)<br>
 
 ## Economy
 
@@ -532,7 +532,7 @@ $39.059 billion (2019 est.)<br>
 $41.139 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-leva (BGN) per US dollar -<br>
+_Currency_: leva (BGN) per US dollar -<br>
 1.61885 (2020 est.)<br>
 1.7669 (2019 est.)<br>
 1.7172 (2018 est.)<br>
@@ -703,7 +703,7 @@ the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment,
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2021)<br>
-note - in 2021, women comprised about 17% of the Bulgarian military's full-time personnel<br>
+<strong>note:</strong> in 2021, women comprised about 17% of the Bulgarian military's full-time personnel<br>
 
 **Military - note**<br>
 Bulgaria officially became a member of NATO in 2004; Bulgaria conducts its own air policing mission, but because of Russian aggression in the Black Sea region, NATO allies have sent detachments of fighters to augment the Bulgarian Air Force since 2014 (2022)<br>
@@ -720,9 +720,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 87,510 (Ukraine) (as of 11 July 2022)<br>
+_refugees (country of origin)_: 19,014 (Syria) (mid-year 2021); 86,950 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 1,143 (mid-year 2021)<br>
-<strong>note:</strong> 76,182 estimated refugee and migrant arrivals (January 2015-May 2022); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 77,143 estimated refugee and migrant arrivals (January 2015-June 2022); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 source country for amphetamine tablets<br>

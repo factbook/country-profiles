@@ -510,7 +510,7 @@ $13.876 billion (2019 est.)<br>
 $13.912 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Jamaican dollars (JMD) per US dollar -<br>
+_Currency_: Jamaican dollars (JMD) per US dollar -<br>
 128.36 (2017 est.)<br>
 125.14 (2016 est.)<br>
 125.126 (2015 est.)<br>
@@ -649,7 +649,7 @@ _container port(s) (TEUs)_: Kingston (1,647,609) (2019)<br>
 
 **Military and security forces**<br>
 Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cyber Command (includes Coast Guard, Air Wing, Military Intelligence Unit, Special Activities Regiment, and Military Cyber Corps), Support Brigade (logistics, engineers, health service, and military police); Jamaica Constabulary Force (JCF) (2022)<br>
-note - both the JDF and JCF are under the Ministry of National Security<br>
+<strong>note: </strong>both the JDF and JCF are under the Ministry of National Security<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>

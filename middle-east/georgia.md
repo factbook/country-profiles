@@ -383,7 +383,7 @@ _lyrics/music_: Davit MAGRADSE/Zakaria PALIASHVILI (adapted by Joseb KETSCHAKMAD
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Gelati Monastery (c), Historical Monuments of Mtskheta (c), Upper Svaneti (c), Colchic Rainforests and Wetlands (n)<br>
+_selected World Heritage Site locales_: Gelati Monastery (c); Historical Monuments of Mtskheta (c); Upper Svaneti (c); Colchic Rainforests and Wetlands (n)<br>
 
 ## Economy
 
@@ -522,7 +522,7 @@ $18.149 billion (2019 est.)<br>
 $17.608 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-laris (GEL) per US dollar -<br>
+_Currency_: laris (GEL) per US dollar -<br>
 2.535 (2017 est.)<br>
 2.3668 (2016 est.)<br>
 2.3668 (2015 est.)<br>
@@ -688,8 +688,8 @@ information varies; approximately 30,000 troops, including active National Guard
 the Georgian Defense Forces are equipped mostly with older Russian and Soviet-era weapons; since 2010, it has received limited quantities of equipment from European countries and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary active duty military service; conscription abolished in 2016, but reinstated in 2017 for men 18 to 27 years of age; conscript service obligation is 12 months (2021)<br>
-note(s) - approximately 6-7,000 individuals are called up annually for conscription for service; approximately 25% enter the Defense Forces, while the remainder serve in the Ministry of Internal Affairs or as prison guards in the Ministry of Corrections; as of 2019, women made up about 6% of the military's full-time personnel<br>
+18-27 years of age for voluntary active duty military service; conscription abolished in 2016, but reinstated in 2017 for men 18 to 27 years of age; conscript service obligation is 12 months (2022)<br>
+<strong>note 1: </strong>approximately 6-7,000 individuals are called up annually for conscription for service; approximately 25% enter the Defense Forces, while the remainder serve in the Ministry of Internal Affairs or as prison guards in the Ministry of Corrections<br><br><strong>note 2:</strong> as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military - note**<br>
 as of 2022, approximately 7-10,000 Russian troops continued to occupy the breakaway regions of Abkhazia and South Ossetia<br>
@@ -700,7 +700,7 @@ as of 2022, approximately 7-10,000 Russian troops continued to occupy the breaka
 <p>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,529 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 23,110 (Ukraine) (as of 19 July 2022)<br>
 _IDPs_: 305,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia) (2021)<br>
 _stateless persons_: 534 (mid-year 2021)<br>
 

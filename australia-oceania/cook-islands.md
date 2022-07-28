@@ -425,7 +425,7 @@ ships, refined petroleum, recreational boats, cars, flavored water (2019)<br>
 $141 million (1996 est.)<br>
 
 **Exchange rates**<br>
-NZ dollars (NZD) per US dollar -<br>
+_Currency_: NZ dollars (NZD) per US dollar -<br>
 1.416 (2017 est.)<br>
 1.4341 (2016 est.)<br>
 1.4341 (2015 est.)<br>

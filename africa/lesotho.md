@@ -350,10 +350,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: King LETSIE III (since 7 February 1996); note - King LETSIE III formerly occupied the throne from November 1990 to February 1995 while his father was in exile&nbsp;<br>
+_chief of state_: King LETSIE III (since 7 February 1996); note - King LETSIE III formerly occupied the throne from November 1990 to February 1995 while his father was in exile<br>
 _head of government_: Prime Minister Moeketsi MAJORO (since 20 May 2020); note - Prime Minister Thomas THABANE resigned on 19 May 2020<br>
-_cabinet_: consists of the prime minister, appointed by the King on the advice of the Council of State, the deputy prime minister, and 26 other ministers&nbsp;<br>
-_elections/appointments_: the monarchy is hereditary, but under the terms of the constitution that came into effect after the March 1993 election, the monarch is a "living symbol of national unity" with no executive or legislative powers; under traditional law, the college of chiefs has the power to depose the monarch, to determine next in line of succession, or to serve as regent in the event that a successor is not of mature age; following legislative elections, the leader of the majority party or majority coalition in the Assembly automatically becomes prime minister<br>
+_cabinet_: consists of the prime minister, appointed by the King on the advice of the Council of State, the deputy prime minister, and 26 other ministers<br>
+_elections/appointments_: the monarchy is hereditary, but under the terms of the constitution that came into effect after the March 1993 election, the monarch is a "living symbol of national unity" with no executive or legislative powers; under traditional law, the College of Chiefs has the power to depose the monarch, to determine next in line of succession, or to serve as regent in the event that a successor is not of mature age; following legislative elections, the leader of the majority party or majority coalition in the Assembly automatically becomes prime minister<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (33 seats; 22 principal chiefs and 11 other senators nominated by the king with the advice of the Council of State, a 13-member body of key government and non-government officials; members serve 5-year terms)<br>National Assembly (120 seats; 80 members directly elected in single-seat constituencies by simple majority vote and 40 elected through proportional representation; members serve 5-year terms)<br>
@@ -536,7 +536,7 @@ $868 million (2019 est.)<br>
 $834 million (2018 est.)<br>
 
 **Exchange rates**<br>
-maloti (LSL) per US dollar -<br>
+_Currency_: maloti (LSL) per US dollar -<br>
 14.48 (2017 est.)<br>
 14.71 (2016 est.)<br>
 14.71 (2015 est.)<br>
@@ -617,7 +617,7 @@ _total subscriptions_: 1,562,648 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 73 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: small market with few business incentives; fixed-line tele-density and mobile penetration remains below regional average; introduction of mobile broadband in the country and LTE technology; 5G testing among first in region; landlocked, Lesotho has access to several submarine cables on African coast through neighboring countries yet Internet is expensive; importer of broadcasting equipment and computers from South Africa (2020)<br>
+_general assessment_: until late 2020, Lesotho&rsquo;s telecom regulator maintained a market duopoly between the privatized national operator, Econet Telecom Lesotho (ETL), which is focused on fixed-line services, and Vodacom Lesotho, which dominates the mobile sector; competition between the two was insufficient to promote effective price reductions for consumers, while the regulator had no mechanisms in place to monitor the telcos to ensure quality of service and fair pricing for consumers; the small size of the country&rsquo;s population provided little incentive for new players to enter the market; legal wrangling between the regulator and the telcos are ongoing; both telcos were fined in late 2020, though Vodacom has the more troubled relationship with the regulator; this culminated in the regulator having attempted to revoke Vodacom Lesotho&rsquo;s operating license, a process which was temporarily suspended by the Supreme Court after the company appealed; a positive outcome for consumers was the deployment in early 2021 of a service to monitor traffic and billing; this ended the practice whereby the regulator was dependent on telcos submitting data about their performance, billing, and other matters; the regulator has also turned its attention to addressing multiple SIM ownership and stem incidences of crimes committed using unregistered SIMs; in May 2022, it instructed the country&rsquo;s MNOs to begin registering SIM cards on their networks from the following month; Vodacom was the first operator to introduce mobile broadband services in the country, supplemented with a WiMAX network; this was followed by fixed-wireless 5G trials in early 2019 based on a trial 3.5GHz license. Vodacom Lesotho was among the first network operators in the region to conduct such trials; the crucial nature of telecom services. (2022)<br>
 _domestic_: fixed-line is less than 1 per 100 subscriptions; mobile-cellular service subscribership nearly 73 per 100 persons; rudimentary system consisting of a modest number of landlines, a small microwave radio relay system, and a small radiotelephone communication system (2020)<br>
 _international_: country code - 266; Internet accessibility has improved with several submarine fiber optic cables that land on African east and west coasts, but the country's land locked position makes access prices expensive; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -663,8 +663,8 @@ _unpaved_: 4,871 km (2011)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lesotho Defense Force (LDF): Army (includes Air Wing) (2021)<br>
-note - the Lesotho Mounted Police Service is responsible for internal security and reports to the Minister of Police and Public Safety<br>
+Lesotho Defense Force (LDF): Army (includes Air Wing) (2022)<br>
+<strong>note:</strong> the Lesotho Mounted Police Service is responsible for internal security and reports to the Minister of Police and Public Safety<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>

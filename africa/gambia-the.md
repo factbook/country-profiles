@@ -360,7 +360,7 @@ _chief of state_: President Adama BARROW (since 19 January 2022); Vice President
 _head of government_: President Adama BARROW (since 19 January 2022); Vice President Isatou TOURAY (since 15 March 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 4 December 2021 (next to be held in 2026); vice president appointed by the president<br>
-_election results_: Adama BARROW reelected president; percent of vote - Adama BARROW (National People's Party) 53.2%, Ousainou DARBOE (United Democratic Party) 27.7%, Mamma KANDEH (GDC)12.3%, Halifa SALLAH (PDOIS) 3.8%, Essa M. FAAL (Independent) 2%, Abdoulie Ebrima JAMMEH (NUP) 0.96%<br>
+_election results_: Adama BARROW reelected president; percent of vote - Adama BARROW (National People's Party) 53.2%, Ousainou DARBOE (United Democratic Party) 27.7%, Mamma KANDEH (GDC)12.3%, Halifa SALLAH (PDOIS) 3.8%, Essa M. FAAL (Independent) 2%, Abdoulie Ebrima JAMMEH (NUP) 1% (2021)<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)<br>
@@ -406,7 +406,7 @@ _lyrics/music_: Virginia Julie HOWE/adapted by Jeremy Frederick HOWE<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
-_selected World Heritage Site locales_: Kunta Kinteh Island and Related Sites, Stone Circles of Senegambia<br>
+_selected World Heritage Site locales_: Kunta Kinteh Island and Related Sites; Stone Circles of Senegambia<br>
 
 ## Economy
 
@@ -536,7 +536,7 @@ $586.8 million (31 December 2017 est.)<br>
 $571.2 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-dalasis (GMD) per US dollar -<br>
+_Currency_: dalasis (GMD) per US dollar -<br>
 51.75 (2020 est.)<br>
 51.4 (2019 est.)<br>
 49.515 (2018 est.)<br>

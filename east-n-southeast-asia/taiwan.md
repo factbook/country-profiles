@@ -5,7 +5,7 @@ _East & Southeast Asia / Other_
 ## Introduction
 
 **Background**<br>
-First inhabited by Austronesian people, Taiwan became home to Han immigrants beginning in the late Ming Dynasty (17th century). In 1895, military defeat forced China's Qing Dynasty to cede Taiwan to Japan, which then governed Taiwan for 50 years. Taiwan came under Chinese Nationalist (Kuomintang, KMT) control after World War II. With the communist victory in the Chinese civil war in 1949, the Nationalist-controlled Republic of China government and 2 million Nationalists fled to Taiwan and continued to claim to be the legitimate government for mainland China and Taiwan based on a 1947 Constitution drawn up for all of China. Until 1987, however, the Nationalist government ruled Taiwan under a civil war martial law declaration dating to 1948. Beginning in the 1970s, Nationalist authorities gradually began to incorporate the native population into the governing structure beyond the local level. The democratization process expanded rapidly in the 1980s, leading to the then illegal founding of Taiwan&rsquo;s first opposition party (the Democratic Progressive Party or DPP) in 1986 and the lifting of martial law the following year. Taiwan held legislative elections in 1992, the first in over forty years, and its first direct presidential election in 1996. In the 2000 presidential elections, Taiwan underwent its first peaceful transfer of power with the KMT loss to the DPP and afterwards experienced two additional democratic transfers of power in 2008 and 2016. Throughout this period, the island prospered, became one of East Asia's economic "Tigers," and after 2000 became a major investor in mainland China as cross-Strait ties matured. The dominant political issues continue to be economic reform and growth as well as management of sensitive relations between Taiwan and China.<br>
+First inhabited by Austronesian people, Taiwan became home to Han immigrants beginning in the late Ming Dynasty (17th century). In 1895, military defeat forced China's Qing Dynasty to cede Taiwan to Japan, which then governed Taiwan for 50 years. Taiwan came under Chinese Nationalist (Kuomintang, KMT) control after World War II. With the communist victory in the Chinese civil war in 1949, the Nationalist-controlled Republic of China government and 2 million Nationalists fled to Taiwan and continued to claim to be the legitimate government for mainland China and Taiwan based on a 1947 constitution drawn up for all of China. Until 1987, however, the Nationalist Government ruled Taiwan under a civil war martial law declaration dating to 1948. Beginning in the 1970s, Nationalist authorities gradually began to incorporate the native population into the governing structure beyond the local level. The democratization process expanded rapidly in the 1980s, leading to the then illegal founding of the Democratic Progressive Party (DPP), Taiwan&rsquo;s first opposition party, in 1986 and the lifting of martial law the following year. Taiwan held legislative elections in 1992, the first in over forty years, and its first direct presidential election in 1996. In the 2000 presidential elections, Taiwan underwent its first peaceful transfer of power with the KMT loss to the DPP and afterwards experienced two additional democratic transfers of power in 2008 and 2016. Throughout this period, the island prospered, became one of East Asia's economic "Tigers," and after 2000 became a major investor in mainland China as cross-Strait ties matured. The dominant political issues continue to be economic reform and growth as well as management of sensitive relations between Taiwan and China.<br>
 
 ## Geography
 
@@ -22,7 +22,7 @@ Southeast Asia<br>
 _total_: 35,980 sq km<br>
 _land_: 32,260 sq km<br>
 _water_: 3,720 sq km<br>
-<strong>note:</strong> includes the Pescadores, Matsu, and Quemoy islands<br>
+<strong>note:</strong> includes the Pescadores, Matsu, and Kinmen islands<br>
 
 **Area - comparative**<br>
 slightly smaller than Maryland and Delaware combined<br>
@@ -272,7 +272,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President TSAI Ing-wen (since 20 May 2016; re-elected on 11 Jan 2020); Vice President LAI Ching-te (since 20 May 2020)<br>
-_head of government_: Premier SU Tseng-chang (President of the Executive Yuan) (since 11 January 2019); Vice Premier SHEN Jong-chin, Vice President of the Executive Yuan (since 19 June 2020)<br>
+_head of government_: Premier SU Tseng-chang (President of the Executive Yuan) (since 11 January 2019); Vice Premier SHEN Jong-chin (Vice President of the Executive Yuan) (since 19 June 2020)<br>
 _cabinet_: Executive Yuan - ministers appointed by president on recommendation of premier<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 January 2020 (next to be held on 11 January 2024); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
 _election results_: TSAI Ing-wen elected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%; note - TSAI is the first woman elected president of Taiwan<br>
@@ -452,7 +452,7 @@ $189.684 billion (2019 est.)<br>
 $196.276 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-New Taiwan dollars (TWD) per US dollar -<br>
+_Currency_: New Taiwan dollars (TWD) per US dollar -<br>
 28.211 (2020 est.)<br>
 30.472 (2019 est.)<br>
 30.8395 (2018 est.)<br>
@@ -612,14 +612,14 @@ Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force; Taiwan Coast
 
 **Military and security service personnel strengths**<br>
 the Taiwan military has approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2021)<br>
-note - Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
+<strong>note: </strong>Taiwan trains about 120,000 reservists annually, but in 2022 announced intentions to increase that figure to 260,000<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; since 2010, the US continued to be the largest provider of arms; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface naval craft and submarines (2021)<br>
 
 **Military service age and obligation**<br>
 starting with those born in 1994, males 18-36 years of age may volunteer for military service or must complete 4 months of compulsory military training (5 weeks of basic training followed by 11 weeks of specialized training with field units); civil service can be substituted for military service in some cases; men born before December 1993 are required to complete compulsory service for 1 year (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist, but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military in December 2018, the last cohort of one-year military conscripts completed their service obligations (2022)<br>
-note - as of 2021, women made up about 15% of the active duty military<br>
+<strong>note:</strong> as of 2021, women made up about 15% of the active duty military<br>
 
 **Military - note**<br>
 the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2022)<br>

@@ -393,7 +393,7 @@ _lyrics/music_: Augusto Constancio COELLO/Carlos HARTLING<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Maya Site of Copan (c), Río Plátano Biosphere Reserve (n)<br>
+_selected World Heritage Site locales_: Maya Site of Copan (c); Río Plátano Biosphere Reserve (n)<br>
 
 ## Economy
 
@@ -530,7 +530,7 @@ $9.137 billion (2019 est.)<br>
 $8.722 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-lempiras (HNL) per US dollar -<br>
+_Currency_: lempiras (HNL) per US dollar -<br>
 23.74 (2017 est.)<br>
 22.995 (2016 est.)<br>
 22.995 (2015 est.)<br>
@@ -681,8 +681,8 @@ _major seaport(s)_: La Ceiba, Puerto Cortes, San Lorenzo, Tela<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Honduran Naval Force (FNH; includes marines), Honduran Air Force (Fuerza Aerea Hondurena, FAH), Honduran Military Police of Public Order (PMOP); Security Secretariat: Public Security Forces (includes Honduran National Police paramilitary units) (2022)<br><br>note - the PMOP was created in 2013 to support the Honduran National Police (HNP) against narcotics trafficking and organized crime; since its creation, the PMOP’s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2022, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who had undergone some police training; it reported to military authorities but conducted operations sanctioned by both civilian security officials and military leaders<br>
-note - the PMOP was created in 2013 to support the Honduran National Police (HNP) against narcotics trafficking and organized crime; since its creation, the PMOP&rsquo;s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2022, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who had undergone some police training; it reported to military authorities but conducted operations sanctioned by both civilian security officials and military leaders<br>
+Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Honduran Naval Force (FNH; includes marines), Honduran Air Force (Fuerza Aerea Hondurena, FAH), Honduran Military Police of Public Order (PMOP); Security Secretariat: Public Security Forces (includes Honduran National Police paramilitary units) (2022)<br>
+<strong>note:</strong> the PMOP was created in 2013 to support the Honduran National Police (HNP) against narcotics trafficking and organized crime; since its creation, the PMOP’s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2022, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who had undergone some police training; it reported to military authorities but conducted operations sanctioned by both civilian security officials and military leaders<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2021 est.)<br>
@@ -699,7 +699,7 @@ the FFAA's inventory is comprised of mostly older imported equipment from Israel
 
 **Military service age and obligation**<br>
 18 years of age for voluntary 2- to 3-year military service (men and women); no conscription (2022)<br>
-note - as of 2017, women made up over 4% of the active duty military<br>
+<strong>note: </strong>as of 2017, women made up over 4% of the active duty military<br>
 
 **Military - note**<br>
 the armed forces, including the PMOP, are subordinate to the Secretariat of Defense, while the HNP reports to the Secretariat of Security; the National Interinstitutional Security Force is an interagency command that coordinates the overlapping responsibilities of the HNP, PMOP, National Intelligence Directorate, and Public Ministry (public prosecutor), but exercises coordination, command, and control responsibilities only during interagency operations involving those forces (2022)<br>

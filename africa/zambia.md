@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Multiple waves of Bantu-speaking groups moved into and through what is now Zambia over the past thousand years. In the 1880s, the British began securing mineral and other economic concessions from various local leaders and the territory that is now Zambia eventually came under the control of the former British South Africa Company and was incorporated as the protectorate of Northern Rhodesia in 1911. Administrative control was taken over by the UK in 1924. During the 1920s and 1930s, advances in mining spurred development and immigration. <br><br>The name was changed to Zambia upon independence in 1964. In the 1980s and 1990s, declining copper prices, economic mismanagement, and a prolonged drought hurt the economy. Elections in 1991 brought an end to one-party rule and propelled the Movement for Multiparty Democracy (MMD) to government. The subsequent vote in 1996, however, saw increasing harassment of opposition parties and abuse of state media and other resources. The election in 2001 was marked by administrative problems, with three parties filing a legal petition challenging the election of ruling party candidate Levy MWANAWASA. MWANAWASA was reelected in 2006 in an election that was deemed free and fair. Upon his death in August 2008, he was succeeded by his vice president, Rupiah BANDA, who won a special presidential byelection later that year. The MMD and BANDA lost to the Patriotic Front (PF) and Michael SATA in the 2011 general elections. SATA, however, presided over a period of haphazard economic management and attempted to silence opposition to PF policies. SATA died in October 2014 and was succeeded by his vice president, Guy SCOTT, who served as interim president until January 2015, when Edgar LUNGU won the presidential byelection and completed SATA's term. LUNGU then won a full term in August 2016 presidential elections. Hakainde HICHILEMA was elected president in August 2021.<br>
+Multiple waves of Bantu-speaking groups moved into and through what is now Zambia over the past thousand years. In the 1880s, the British began securing mineral and other economic concessions from various local leaders and the territory that is now Zambia eventually came under the control of the former British South Africa Company and was incorporated as the protectorate of Northern Rhodesia in 1911. Administrative control was taken over by the UK in 1924. During the 1920s and 1930s, advances in mining spurred development and immigration. <br><br>The name was changed to Zambia upon independence in 1964. In the 1980s and 1990s, declining copper prices, economic mismanagement, and a prolonged drought hurt the economy. Elections in 1991 brought an end to one-party rule and propelled the Movement for Multiparty Democracy (MMD) into power. The subsequent vote in 1996, however, saw increasing harassment of opposition parties and abuse of state media and other resources. The election in 2001 was marked by administrative problems, with three parties filing a legal petition challenging the election of ruling party candidate Levy MWANAWASA. MWANAWASA was reelected in 2006 in an election that was deemed free and fair. Upon his death in August 2008, he was succeeded by his vice president, Rupiah BANDA, who won a special presidential byelection later that year. The MMD and BANDA lost to the Patriotic Front (PF) and Michael SATA in the 2011 general elections. SATA, however, presided over a period of haphazard economic management and attempted to silence opposition to PF policies. SATA died in October 2014 and was succeeded by his vice president, Guy SCOTT, who served as interim president until January 2015, when Edgar LUNGU won the presidential byelection and completed SATA's term. LUNGU then won a full term in August 2016 presidential elections. Hakainde HICHILEMA was elected president in August 2021.<br>
 
 ## Geography
 
@@ -554,7 +554,7 @@ $11.66 billion (31 December 2017 est.)<br>
 $9.562 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Zambian kwacha (ZMK) per US dollar -<br>
+_Currency_: Zambian kwacha (ZMK) per US dollar -<br>
 21.065 (2020 est.)<br>
 15.3736 (2019 est.)<br>
 11.855 (2018 est.)<br>
@@ -709,7 +709,7 @@ _river port(s)_: Mpulungu (Zambezi)<br>
 
 **Military and security forces**<br>
 Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service; Defense Force Medical Service; Ministry of Home Affairs and Internal Security: Zambia Police (includes a paramilitary battalion) (2022)<br>
-note - the Zambia National Service is a support organization that also does public work projects<br>
+<strong>note:</strong> the Zambia National Service is a support organization that also does public work projects<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>

@@ -363,7 +363,7 @@ _lyrics/music_: David Francois Marc ANDRE and George Charles Robert PAYET<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both natural)<br>
-_selected World Heritage Site locales_: Aldabra Atoll, Vall&eacute;e de Mai Nature Reserve<br>
+_selected World Heritage Site locales_: Aldabra Atoll; Vall&eacute;e de Mai Nature Reserve<br>
 
 ## Economy
 
@@ -499,7 +499,7 @@ $4.802 billion (2019 est.)<br>
 $4.613 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Seychelles rupees (SCR) per US dollar -<br>
+_Currency_: Seychelles rupees (SCR) per US dollar -<br>
 13.64 (2017 est.)<br>
 13.319 (2016 est.)<br>
 13.319 (2015 est.)<br>
@@ -640,8 +640,8 @@ _major seaport(s)_: Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force; Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, the Anti-Narcotics Bureau, and the Marine Police Unit) (2022)<br><br>note - the military reports to the president, who acts as minister of defense  <br>
-note - the military reports to the president, who acts as minister of defense &nbsp;<br>
+Seychelles Defense Forces (SDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force; Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, the Anti-Narcotics Bureau, and the Marine Police Unit) (2022)<br>
+<strong>note:</strong> the military reports to the president, who acts as minister of defense  <br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>

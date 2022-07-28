@@ -396,7 +396,7 @@ _lyrics/music_: multiple authors/Hassan RIAHI<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 26 (24 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Persepolis (c), Tchogha Zanbil (c), Bam and its Cultural Landscape (c), Golestan Palace (c), Shushtar Historical Hydraulic System (c), Pasargadae (c), Hyrcanian Forests (n), Tabriz Historic Bazaar Complex (c), Meidan Emam, Esfahan (c), Bisotun (c)<br>
+_selected World Heritage Site locales_: Persepolis (c); Tchogha Zanbil (c); Bam and its Cultural Landscape (c); Golestan Palace (c); Shushtar Historical Hydraulic System (c); Pasargadae (c); Hyrcanian Forests (n); Tabriz Historic Bazaar Complex (c); Meidan Emam, Esfahan (c); Bisotun (c)<br>
 
 ## Economy
 
@@ -530,7 +530,7 @@ $7.995 billion (31 December 2017 est.)<br>
 $8.196 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Iranian rials (IRR) per US dollar -<br>
+_Currency_: Iranian rials (IRR) per US dollar -<br>
 32,769.7 (2017 est.)<br>
 30,914.9 (2016 est.)<br>
 30,914.9 (2015 est.)<br>
@@ -688,8 +688,8 @@ _container port(s) (TEUs)_: Bandar Abbas<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Islamic Republic of Iran Regular Forces (Artesh): Ground Forces, Navy (includes marines), Air Force, Air Defense Forces; Islamic Revolutionary Guard Corps (Sepah, IRGC): Ground Forces, Navy (includes marines), Aerospace Force (controls strategic missile force), Qods Force (aka Quds Force; special operations), Cyber Electronic Command, Basij Paramilitary Forces (Popular Mobilization Army); Law Enforcement Forces (border and security troops, assigned to the armed forces in wartime) (2022)<br><br>note(s) - the Artesh Navy operates Iran’s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz; the Basij is a volunteer paramilitary group with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit subordinate to IRGC ground forces<br>
-note(s) - the Artesh Navy operates Iran&rsquo;s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz; the Basij is a volunteer paramilitary group with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit subordinate to IRGC ground forces<br>
+Islamic Republic of Iran Regular Forces (Artesh): Ground Forces, Navy (includes marines), Air Force, Air Defense Forces; Islamic Revolutionary Guard Corps (Sepah, IRGC): Ground Forces, Navy (includes marines), Aerospace Force (controls strategic missile force), Qods Force (aka Quds Force; special operations), Cyber Electronic Command, Basij Paramilitary Forces (Popular Mobilization Army); Law Enforcement Forces (border and security troops, assigned to the armed forces in wartime) (2022)<br>
+<strong>note 1:</strong> the Artesh Navy operates Iran’s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz<br><br><strong>note 2:</strong> the Basij is a volunteer paramilitary group with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit subordinate to IRGC ground forces<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2021 est.)<br>
@@ -703,11 +703,10 @@ information varies; approximately 550-600,000 total active personnel; approximat
 
 **Military equipment inventories and acquisitions**<br>
 the Iranian military's inventory includes a mix of domestically-produced and mostly older foreign equipment largely of Chinese, Russian, Soviet, and US origin (US equipment acquired prior to the Islamic Revolution in 1979); Iran has also received some military equipment from North Korea, including midget submarines and ballistic missiles; Iran has a defense industry with the capacity to develop, produce, support, and sustain air, land, missile, and naval weapons programs (2021)<br>
-note - in 2020, the UN lifted a 2010 embargo on exports of most types of major arms to Iran"<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory military service; 16 years of age for volunteers; 17 years of age for Law Enforcement Forces; 15 years of age for Basij Forces (Popular Mobilization Army); conscript military service obligation is 18-24 months, depending on the location of service (soldiers serving in places of high security risk and deprived areas serve shorter terms); women exempt from military service (2021)<br>
-note - as of 2019, approximately 80% of Artesh ground forces personnel were conscripts, while Navy and Air/Air Defense Force personnel were primarily volunteers; conscripts reportedly comprised more than 50 percent of the IRGC (most volunteers were reportedly recruited from the Basij Forces)<br>
+<strong>note: </strong>as of 2019, approximately 80% of Artesh ground forces personnel were conscripts, while Navy and Air/Air Defense Force personnel were primarily volunteers; conscripts reportedly comprised more than 50 percent of the IRGC (most volunteers were reportedly recruited from the Basij Forces)<br>
 
 **Military deployments**<br>
 estimated 1-3,000 Syria (2022)<br>

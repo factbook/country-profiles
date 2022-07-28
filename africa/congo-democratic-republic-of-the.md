@@ -380,7 +380,7 @@ _chief of state_: President Felix TSHISEKEDI (since 24 January 2019)<br>
 _head of government_: Prime Minister Anatole Collinet MAKOSSO (since 12 May 2021); Deputy Prime Ministers Jose MAKILA, Leonard She OKITUNDU, Henri MOVA Sankanyi (since February 2018)<br>
 _cabinet_: Ministers of State appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority vote for a 5-year term (eligible for a second term); election last held on 30 December 2018 (next to be held in December 2023); prime minister appointed by the president<br>
-_election results_: Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities<br>
+_election results_: Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities (2018)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate (109 seats; 109 members to include 108 indirectly elected by provincial assemblies by proportional representation vote to serve 5-year terms and a former president, appointed for life)<br><br>National Assembly (500 seats; 439 members directly elected in multi-seat constituencies by proportional representation vote and 61 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
@@ -427,7 +427,7 @@ _lyrics/music_: Joseph LUTUMBA/Simon-Pierre BOKA di Mpasi Londi<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (all natural)<br>
-_selected World Heritage Site locales_: Garamba National Park, Kahuzi-Biega National Park, Okapi Wildlife Reserve, Salonga National Park, Virunga National Park<br>
+_selected World Heritage Site locales_: Garamba National Park; Kahuzi-Biega National Park; Okapi Wildlife Reserve; Salonga National Park; Virunga National Park<br>
 
 ## Economy
 
@@ -562,7 +562,7 @@ $4.963 billion (31 December 2017 est.)<br>
 $5.35 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Congolese francs (CDF) per US dollar -<br>
+_Currency_: Congolese francs (CDF) per US dollar -<br>
 1,546.8 (2017 est.)<br>
 1,010.3 (2016 est.)<br>
 1,010.3 (2015 est.)<br>
@@ -718,8 +718,8 @@ _river or lake port(s)_: Boma, Bumba, Kinshasa, Kisangani, Matadi, Mbandaka (Con
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC): Land Forces, National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC); Republican Guard; Ministry of Interior: Congolese National Police, Directorate General for Migration (2022)<br><br>note - the Republican Guard is a division-size element consisting of approximately 5 regiments; it is regarded as the country’s best equipped and trained military unit and is under the direct control of the president<br>
-note - the Republican Guard is a division-size element consisting of approximately 5 regiments; it is regarded as the country&rsquo;s best equipped and trained military unit and is under the direct control of the president<br>
+Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC): Land Forces, National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC); Republican Guard; Ministry of Interior: Congolese National Police, Directorate General for Migration (2022)<br>
+<strong>note:</strong> the Republican Guard is a division-size element consisting of approximately 5 regiments; it is regarded as the country’s best equipped and trained military unit and is under the direct control of the president<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2020 est.)<br>

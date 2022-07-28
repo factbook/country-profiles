@@ -284,7 +284,7 @@ _conventional long form_: Republic of Iceland<br>
 _conventional short form_: Iceland<br>
 _local long form_: Lydveldid Island<br>
 _local short form_: Island<br>
-_etymology_: Floki VILGERDARSON, an early explorer of the island (9th century), applied the name "Land of Ice" after spotting a fjord full of drift ice to the north and spending a bitter winter on the island; he eventually settled on the island, however, after he saw how it greened up in the summer and that it was, in fact, habitable<br>
+_etymology_: Floki VILGERDARSON, an early Norse explorer of the island (9th century), applied the name "Land of Ice" after spotting a fjord full of drift ice to the north and spending a bitter winter on the island; he eventually settled on the island, however, after he saw how it greened up in the summer and that it was, in fact, habitable<br>
 
 **Government type**<br>
 unitary parliamentary republic<br>
@@ -333,7 +333,7 @@ _election results_: Gudni Thorlacius JOHANNESSON reelected president; percent of
 **Legislative branch**<br>
 _description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 25 September 2021 (next to be held in 2025)<br>
-_election results_: <p>percent of vote by party - IP 24.4%, PP 17.3%, LGM 12.6%, SDA 9.9%, People's Party 8.8%, Pirate Party 8.6%, Reform Party 8.3%. CP 5.4%, other 4.7%; seats by party - IP 16, PP 13, LGM 8, SDA 6, People's Party 6, Pirate Party 6, Reform Party 5, CP 3; composition - men 33, women 30; percent of women 47.6%</p><br>
+_election results_: <p>percent of vote by party - IP 25.4%, PP 20.6%, LGM 12.7%, SDA 9.5%, People's Party 9.5%, Pirate Party 9.5%, Reform Party 7.9%. CP 4.8%; seats by party - IP 16, PP 13, LGM 8, SDA 6, People's Party 6, Pirate Party 6, Reform Party 5, CP 3; composition - men 33, women 30; percent of women 47.6%</p><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Haestirettur (consists of 9 judges)<br>
@@ -375,7 +375,7 @@ _lyrics/music_: Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Thingvellir National Park (c), Surtsey (n), Vatnajökull National Park - Dynamic Nature of Fire and Ice (n)<br>
+_selected World Heritage Site locales_: Thingvellir National Park (c); Surtsey (n); Vatnajökull National Park - Dynamic Nature of Fire and Ice (n)<br>
 
 ## Economy
 
@@ -514,7 +514,7 @@ $19.422 billion (2019 est.)<br>
 $22.055 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Icelandic kronur (ISK) per US dollar -<br>
+_Currency_: Icelandic kronur (ISK) per US dollar -<br>
 127.05 (2020 est.)<br>
 121.68 (2019 est.)<br>
 121.86 (2018 est.)<br>

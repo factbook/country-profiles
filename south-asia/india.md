@@ -329,8 +329,8 @@ _agricultural_: 688 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of India<br>
 _conventional short form_: India<br>
-_local long form_: Republic of India/Bharatiya Ganarajya<br>
-_local short form_: India/Bharat<br>
+_local long form_: Republic of India (English)/ Bharatiya Ganarajya (Hindi)<br>
+_local short form_: India (English)/ Bharat (Hindi)<br>
 _etymology_: the English name derives from the Indus River; the Indian name "Bharat" may derive from the "Bharatas" tribe mentioned in the Vedas of the second millennium B.C.; the name is also associated with Emperor Bharata, the legendary conqueror of all of India<br>
 
 **Government type**<br>
@@ -427,7 +427,7 @@ _lyrics/music_: Rabindranath TAGORE<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 40 (32 cultural, 7 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: Taj Mahal (c), Red Fort Complex (c), Ellora Caves (c), Hill Forts of Rajasthan (c), Sundarbans National Park (n), Rock Shelters of Bhimbetka (c), Champaner-Pavagadh Archaeological Park (c), Dholavira: A Harappan City (c), Jaipur (c), Mahabodhi Temple Complex at Bodh Gaya (c), Manas Wildlife Sanctuary (n), Nanda Devi and Valley of Flowers National Parks (n)<br>
+_selected World Heritage Site locales_: Taj Mahal (c); Red Fort Complex (c); Ellora Caves (c); Hill Forts of Rajasthan (c); Sundarbans National Park (n); Rock Shelters of Bhimbetka (c); Champaner-Pavagadh Archaeological Park (c); Dholavira: A Harappan City (c); Jaipur (c); Mahabodhi Temple Complex at Bodh Gaya (c); Manas Wildlife Sanctuary (n); Nanda Devi and Valley of Flowers National Parks (n); Khangchendzonga National Park (m)<br>
 
 ## Economy
 
@@ -567,7 +567,7 @@ $555.388 billion (2019 est.)<br>
 $518.34 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Indian rupees (INR) per US dollar -<br>
+_Currency_: Indian rupees (INR) per US dollar -<br>
 73.565 (2020 est.)<br>
 71.05 (2019 est.)<br>
 70.7675 (2018 est.)<br>
@@ -728,7 +728,7 @@ _LNG terminal(s) (import)_: Dabhol, Dahej, Hazira, Kochi<br>
 
 **Military and security forces**<br>
 Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Frontier Corps; Defense Security Corps; Ministry of Home Affairs: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2022)<br>
-note(s) - the Defense Security Corps provides security for Ministry of Defense sites<br><br>- the Border Security Force (BSF) is responsible for the Indo-Pakistan and Indo-Bangladesh borders; the Sashastra Seema Bal (SSB or Armed Border Force) guards the Indo-Nepal and Indo-Bhutan borders<br><br>- the Central Reserve Police Force (CRPF) includes a Rapid Reaction Force (RAF) for riot control and the Commando Battalion for Resolute Action (COBRA) for counter-insurgency operations <br><br>- the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br>
+<strong>note 1:</strong> the Defense Security Corps provides security for Ministry of Defense sites<br><br><strong>note 2: </strong>the Border Security Force (BSF) is responsible for the Indo-Pakistan and Indo-Bangladesh borders; the Sashastra Seema Bal (SSB or Armed Border Force) guards the Indo-Nepal and Indo-Bhutan borders<br><br><strong>note 3:</strong> the Central Reserve Police Force (CRPF) includes a Rapid Reaction Force (RAF) for riot control and the Commando Battalion for Resolute Action (COBRA) for counter-insurgency operations <br><br><strong>note 4:</strong> the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (specifically the Indian Army)<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
@@ -745,7 +745,7 @@ the inventory of the Indian Armed Forces consists mostly of Russian- and Soviet-
 
 **Military service age and obligation**<br>
 16-18 years of age for voluntary military service (Army 17.5, Air Force 17, Navy 16.5); no conscription (2022)<br>
-note(s) - in June 2022, the Indian Government announced that it would begin recruiting 46,000 men aged 17.5-21 annually to serve on 4-year contracts; at the end of their tenure, 25% would be retained for longer terms of service, while the rest would be forced to retire, although some of those leaving the service would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs, such as the Central Armed Police Forces and Assam Rifles<br><br>- as of 2021, women made up about .56% of the Army, 1.1% of the Air Force, and 6.5% of the Navy<br>
+<strong>note 1:</strong> in June 2022, the Indian Government announced that it would begin recruiting 46,000 men aged 17.5-21 annually to serve on 4-year contracts; at the end of their tenure, 25% would be retained for longer terms of service, while the remainder would be forced to retire, although some of those leaving the service would be eligible to serve in the Coast Guard, the Merchant Navy, civilian positions in the Ministry of Defense, and in the paramilitary forces of the Ministry of Home Affairs, such as the Central Armed Police Forces and Assam Rifles<br><br><strong>note 2: </strong>as of 2021, women made up about .56% of the Army, 1.1% of the Air Force, and 6.5% of the Navy<br>
 
 **Military deployments**<br>
 1,900 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 900 Lebanon (UNIFIL); 2,400 South Sudan (UNMISS) (Jan 2022)<br>

@@ -415,7 +415,7 @@ _lyrics/music_: Younis-al QADI/Sayed DARWISH<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Memphis and its Necropolis (c), Ancient Thebes with its Necropolis (c), Nubian Monuments (c), Saint Catherine Area (c), Abu Mena (c), Historic Cairo (c), Wadi Al-Hitan (Whale Valley) (n)<br>
+_selected World Heritage Site locales_: Memphis and its Necropolis (c); Ancient Thebes with its Necropolis (c); Nubian Monuments (c); Saint Catherine Area (c); Abu Mena (c); Historic Cairo (c); Wadi Al-Hitan (Whale Valley) (n)<br>
 
 ## Economy
 
@@ -555,7 +555,7 @@ $109.238 billion (2019 est.)<br>
 $92.638 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Egyptian pounds (EGP) per US dollar -<br>
+_Currency_: Egyptian pounds (EGP) per US dollar -<br>
 15.69 (2020 est.)<br>
 16.14 (2019 est.)<br>
 17.90999 (2018 est.)<br>
@@ -716,8 +716,8 @@ Gulf of Suez - Suez<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Coast Guard), Air Force, Air Defense Command, Border Guard Forces; Interior Ministry: Public Security Sector Police, the Central Security Force, National Security Sector (2022)<br><br>note(s) - the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Sector is responsible for internal security threats and counterterrorism along with other security services; in addition to its external defense duties, the EAF also has a mandate to assist police in protecting vital infrastructure during a state of emergency; military personnel were granted full arrest authority in 2011 but normally only use this authority during states of emergency and “periods of significant turmoil”<br>
-note(s) - the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Sector is responsible for internal security threats and counterterrorism along with other security services; in addition to its external defense duties, the EAF also has a mandate to assist police in protecting vital infrastructure during a state of emergency; military personnel were granted full arrest authority in 2011 but normally only use this authority during states of emergency and &ldquo;periods of significant turmoil&rdquo;<br>
+Egyptian Armed Forces (EAF): Army (includes Republican Guard), Navy (includes Coast Guard), Air Force, Air Defense Command, Border Guard Forces; Interior Ministry: Public Security Sector Police, the Central Security Force, National Security Sector (2022)<br>
+<strong>note 1:</strong> the Public Security Sector Police are responsible for law enforcement nationwide; the Central Security Force protects infrastructure and is responsible for crowd control; the National Security Sector is responsible for internal security threats and counterterrorism along with other security services<br><br><strong>note 2:</strong> in addition to its external defense duties, the EAF also has a mandate to assist police in protecting vital infrastructure during a state of emergency; military personnel were granted full arrest authority in 2011 but normally only use this authority during states of emergency and “periods of significant turmoil”<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
@@ -734,7 +734,7 @@ the EAF's inventory is comprised of a mix of domestically produced, imported Sov
 
 **Military service age and obligation**<br>
 voluntary enlistment possible from age 16 (men and women); 18-30 years of age for male conscript military service; service obligation - 14-36 months, followed by a 9-year reserve obligation; active service length depends on education; high school drop-outs serve for the full 36 months, while college graduates serve for lesser periods of time, depending on their education (2022)<br>
-note - as of 2020, conscripts were estimated to comprise over half of the military, as well as a considerable portion of the Central Security Force<br>
+<strong>note:</strong> as of 2020, conscripts were estimated to comprise over half of the military, as well as a considerable portion of the Central Security Force<br>
 
 **Military deployments**<br>
 1,000 Central African Republic (MINUSCA); 1,050 Mali (MINUSMA) (Jan 2022)<br>

@@ -528,7 +528,7 @@ $191.871 billion (2019 est.)<br>
 $200.197 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-koruny (CZK) per US dollar -<br>
+_Currency_: koruny (CZK) per US dollar -<br>
 21.76636 (2020 est.)<br>
 23.0629 (2019 est.)<br>
 22.71439 (2018 est.)<br>
@@ -696,7 +696,7 @@ the Czech military has a mix of Soviet-era and more modern equipment, mostly of 
 
 **Military service age and obligation**<br>
 18-28 years of age for male and female voluntary military service; conscription abolished 2004 (2021)<br>
-note - as of 2019, women comprised about 13% of the military's full-time personnel<br>
+<strong>note: </strong>as of 2019, women comprised about 13% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 up to 130 Lithuania (NATO) (2022)<br>
@@ -711,7 +711,7 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 391,856 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 400,559 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 1,498 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

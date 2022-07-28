@@ -361,7 +361,7 @@ _amendments_: proposed by the president of the republic or by members of the Nat
 civil law system based on the French civil law model and influenced by customary law; judicial review of legislative acts in the Constitutional Court<br>
 
 **International law organization participation**<br>
-has not submitted an ICJ jurisdiction declaration; accepts ICC jurisdiction<br>
+has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
 
 **Citizenship**<br>
 _citizenship by birth_: no<br>
@@ -424,7 +424,7 @@ _lyrics/music_: Seydou Badian KOUYATE/Banzoumana SISSOKO<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 mixed)<br>
-_selected World Heritage Site locales_: Old Towns of Djenn&eacute; (c), Timbuktu (c), Cliff of Bandiagara (Land of the Dogons) (m), Tomb of Askia (c)<br>
+_selected World Heritage Site locales_: Old Towns of Djenn&eacute; (c); Timbuktu (c); Cliff of Bandiagara (Land of the Dogons) (m); Tomb of Askia (c)<br>
 
 ## Economy
 
@@ -557,7 +557,7 @@ $4.192 billion (31 December 2017 est.)<br>
 $3.981 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+_Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 605.3 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>
@@ -701,7 +701,7 @@ _river port(s)_: Koulikoro (Niger)<br>
 
 **Military and security forces**<br>
 Malian Armed Forces (FAMa): Army (Armee de Terre; includes a riverine patrol force), Republic of Mali Air Force (Force Aerienne de la Republique du Mali, FARM); National Gendarmerie; National Guard (Garde National du Mali) (2022)<br>
-note(s) - the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared between the MDAC and the Ministry of Internal Security and Civil Protection<br><br>- the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas; as of 2021, the Gendarmerie was comprised of approximately 8 paramilitary companies and a mobile intervention unit<br><br>- the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; as of 2021, it had approximately 8 companies of troops, including a camel corps for patrolling the deserts and borders of northern Mali<br><br>- there are also pro-government militias operating in Mali, such as the Imghad Tuareg Self-Defense Group and Allies (GATIA)<br>
+<strong>note 1:</strong> the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared between the MDAC and the Ministry of Internal Security and Civil Protection<br><br><strong>note 2: </strong>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas; as of 2021, the Gendarmerie was comprised of approximately 8 paramilitary companies and a mobile intervention unit<br><br><strong>note 3: </strong>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; as of 2021, it had approximately 8 companies of troops, including a camel corps for patrolling the deserts and borders of northern Mali<br><br><strong>note 4: </strong>there are also pro-government militias operating in Mali, such as the Imghad Tuareg Self-Defense Group and Allies (GATIA)<br>
 
 **Military expenditures**<br>
 3.5% of GDP (2021 est.)<br>

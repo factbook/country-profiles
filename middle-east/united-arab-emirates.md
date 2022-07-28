@@ -518,7 +518,7 @@ $237.6 billion (31 December 2017 est.)<br>
 $218.7 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Emirati dirhams (AED) per US dollar -<br>
+_Currency_: Emirati dirhams (AED) per US dollar -<br>
 3.67315 (2020 est.)<br>
 3.67315 (2019 est.)<br>
 3.67315 (2018 est.)<br>
@@ -668,8 +668,8 @@ _LNG terminal(s) (export)_: Das Island<br>
 ## Military and Security
 
 **Military and security forces**<br>
-United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presidential Guard (includes special operations forces); Ministry of Interior: Critical Infrastructure and Coastal Patrol Agency (CICPA) (2022)<br><br>note - each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate’s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry<br>
-note - each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate&rsquo;s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry<br>
+United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presidential Guard (includes special operations forces); Ministry of Interior: Critical Infrastructure and Coastal Patrol Agency (CICPA) (2022)<br>
+<strong>note:</strong> each emirate maintains a local police force called a general directorate, which is officially a branch of the federal Ministry of Interior; all emirate-level general directorates of police enforce their respective emirate’s laws autonomously; they also enforce federal laws within their emirate in coordination with one another under the federal ministry<br>
 
 **Military expenditures**<br>
 5.6% of GDP (2020 est.)<br>
@@ -686,7 +686,7 @@ the UAE Armed Forces inventory is comprised of wide variety of mostly modern imp
 
 **Military service age and obligation**<br>
 18-30 years of age for compulsory military service for men (compulsory service initiated in 2014); 17 years of age for male volunteers with parental approval; males can volunteer up to age 40; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education (2022)<br>
-note - compulsory service may be completed in the uniformed military, the Ministry of Interior, the State Security Service, or other institutions designated by the military leadership<br>
+<strong>note:</strong> compulsory service may be completed in the uniformed military, the Ministry of Interior, the State Security Service, or other institutions designated by the military leadership<br>
 
 **Military deployments**<br>
 estimates vary; reportedly a few hundred remain in Yemen; maintains military bases in Eritrea and Somalia (2022)<br>

@@ -388,7 +388,7 @@ _election results_: <br>Senate - percent of vote by party - percent of vote by p
 _highest courts_: Supreme Court of Justice or Suprema Corte de Justicia de la Nacion (consists of the chief justice and 11 justices and organized into civil, criminal, administrative, and labor panels) and the Electoral Tribunal of the Federal Judiciary (organized into the superior court, with 7 judges including the court president, and 5 regional courts, each with 3 judges)<br>
 _judge selection and term of office_: Supreme Court justices nominated by the president of the republic and approved by two-thirds vote of the members present in the Senate; justices serve 15-year terms; Electoral Tribunal superior and regional court judges nominated by the Supreme Court and elected by two-thirds vote of members present in the Senate; superior court president elected from among its members to hold office for a 4-year term; other judges of the superior and regional courts serve staggered, 9-year terms<br>
 _subordinate courts_: federal level includes circuit, collegiate, and unitary courts; state and district level courts<br>
-<strong>Note</strong>: in April 2021, the Mexican congress passed a judicial reform which changed 7 articles of the constitution and preceded a new Organic Law on the Judicial Branch of the Federation<br>
+<strong>note</strong>: in April 2021, the Mexican congress passed a judicial reform which changed 7 articles of the constitution and preceded a new Organic Law on the Judicial Branch of the Federation<br>
 
 **Political parties and leaders**<br>
 <p>Citizen's Movement (Movimiento Ciudadano) or MC [Clemente CASTANEDA Hoeflich]<br>Institutional Revolutionary Party (Partido Revolucionario Institucional) or PRI [Claudia RUIZ Massieu]<br>Labor Party (Partido del Trabajo) or PT [Alberto ANAYA Gutierrez]<br>Mexican Green Ecological Party (Partido Verde Ecologista de Mexico) or PVEM [Karen CASTREJON Trujillo]<br>Movement for National Regeneration (Movimiento Regeneracion Nacional) or MORENA [Mario DELGADO Carillo]<br>National Action Party (Partido Accion Nacional) or PAN [Antonio CORTES Mendoza]<br>Party of the Democratic Revolution (Partido de la Revolucion Democratica) or PRD [Jesus ZAMBRANO Grijalva]<br>This Is For Mexico (Va Por Mexico) – alliance that includes PAN, PRI, and PRD<br>Together We Make History (Juntos Hacemos Historia) - alliance that includes MORENA, PT, PVEM<br><br></p><br>
@@ -570,7 +570,7 @@ $456.713 billion (2019 est.)<br>
 $448.268 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Mexican pesos (MXN) per US dollar -<br>
+_Currency_: Mexican pesos (MXN) per US dollar -<br>
 19.8 (2020 est.)<br>
 19.22824 (2019 est.)<br>
 20.21674 (2018 est.)<br>
@@ -731,7 +731,7 @@ _LNG terminal(s) (import)_: Altamira, Ensenada<br>
 
 **Military and security forces**<br>
 Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM); Secretariat of the Navy (Secretaria de Marina, SEMAR): Mexican Navy (Armada de Mexico (ARM), includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)); Secretariat of Public Security and Civilian Protection (Secretaria de Seguridad y Proteccion Ciudadana): National Guard (Guardia Nacional) (2022)<br>
-note(s) - the National Guard was formed in 2019 and consists of personnel from the former Federal Police (disbanded in December 2019) and military police units of the Army and Navy; while the Guard is part of the civilian-led Secretariat of Security and Civilian Protection, the Secretariat of National Defense has day-to-day operational control; in addition, the armed forces provide the commanders and the training; the Guard, along with state and municipal police are responsible for enforcing the law and maintaining order; the military also actively supports police operations<br>
+<strong>note:</strong> the National Guard was formed in 2019 and consists of personnel from the former Federal Police (disbanded in December 2019) and military police units of the Army and Navy; while the Guard is part of the civilian-led Secretariat of Security and Civilian Protection, the Secretariat of National Defense has day-to-day operational control; in addition, the armed forces provide the commanders and the training; the Guard, along with state and municipal police are responsible for enforcing the law and maintaining order; the military also actively supports police operations<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2022 est.)<br>
@@ -748,7 +748,7 @@ the Mexican military inventory includes a mix of domestically-produced and impor
 
 **Military service age and obligation**<br>
 18 years of age for compulsory military service for males (selection for service determined by lottery); conscript service obligation is 12 months; those selected serve on Saturdays in a Batallón del Servicio Militar Nacional (National Military Service Battalion) composed entirely of 1-year Servicio Militar Nacional (SMN) conscripts; conscripts remain in reserve status until the age of 40; 16 years of age with consent for voluntary enlistment; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; women are eligible for voluntary military service (2022)<br>
-note - as of 2022, women comprised about 15% of the active duty military<br>
+<strong>note: </strong>as of 2022, women comprised about 15% of the active duty military<br>
 
 **Military - note**<br>
 the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2024; as of 2022, Mexican military operations were heavily focused on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; the armed forces also administered most of the country's land and sea ports and customs services, and it built and ran approximately 2,700 branches of a state-owned development bank; in addition, President LOPEZ OBRADOR has placed the military in charge of a growing number of infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast (2022)<br>

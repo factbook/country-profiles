@@ -330,7 +330,7 @@ _agricultural_: 737 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Cameroon<br>
 _conventional short form_: Cameroon<br>
-_local long form_: Republique du Cameroun/Republic of Cameroon<br>
+_local long form_: Republique du Cameroun (French)/Republic of Cameroon (English)<br>
 _local short form_: Cameroun/Cameroon<br>
 _former_: Kamerun, French Cameroon, British Cameroon, Federal Republic of Cameroon, United Republic of Cameroon<br>
 _etymology_: in the 15th century, Portuguese explorers named the area near the mouth of the Wouri River the Rio dos Camaroes (River of Prawns) after the abundant shrimp in the water; over time the designation became Cameroon in English; this is the only instance where a country is named after a crustacean<br>
@@ -377,7 +377,7 @@ _chief of state_: President Paul BIYA (since 6 November 1982)<br>
 _head of government_: Prime Minister Joseph Dion NGUTE (since 4 January 2019); Deputy Prime Minister Amadou ALI (since 2014)<br>
 _cabinet_: Cabinet proposed by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 7 October 2018 (next to be held in October 2025); prime minister appointed by the president<br>
-_election results_: Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2%<br>
+_election results_: Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2% (2018)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br>National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
@@ -425,7 +425,7 @@ _lyrics/music_: Rene Djam AFAME, Samuel Minkio BAMBA, Moise Nyatte NKO'O [French
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both natural)<br>
-_selected World Heritage Site locales_: Dja Faunal Reserve, Sangha Trinational Forest<br>
+_selected World Heritage Site locales_: Dja Faunal Reserve; Sangha Trinational Forest<br>
 
 ## Economy
 
@@ -561,7 +561,7 @@ $9.375 billion (31 December 2017 est.)<br>
 $7.364 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+_Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
 605.3 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>
@@ -716,8 +716,8 @@ Garoua (Benoue)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre), Navy (Marine Nationale Republique, MNR, includes naval infantry), Air Force (Armee de l'Air du Cameroun, AAC), Rapid Intervention Battalion (Bataillons d’Intervention Rapide, BIR), National Gendarmerie, Presidential Guard (2022)<br>
-note(s) - the National Police and the National Gendarmerie are responsible for internal security; the Police report to the General Delegation of National Security, while the Gendarmerie reports to the Secretariat of State for Defense in charge of the Gendarmerie; the Rapid Intervention Battalion (BIR) maintains its own command and control structure and reports directly to the president; it is a large brigade-sized force comprised of approximately 9 battalions, detachments, or groups (5 infantry, 1 airborne, 1 amphibious, 1 armored reconnaissance, and 1 counter-terrorism)<br>
+Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre), Navy (Marine Nationale Republique, MNR, includes naval infantry), Air Force (Armee de l'Air du Cameroun, AAC), Rapid Intervention Battalion (Bataillons d’Intervention Rapide or BIR), National Gendarmerie, Presidential Guard (2022)<br>
+<strong>note 1:</strong> the National Police and the National Gendarmerie are responsible for internal security; the Police report to the General Delegation of National Security, while the Gendarmerie reports to the Secretariat of State for Defense in charge of the Gendarmerie<br><br><strong>note 2:</strong> the Rapid Intervention Battalion (BIR) maintains its own command and control structure and reports directly to the president; the BIR is structured as a large brigade with approximately 9 battalions, detachments, or groups (5 infantry, 1 airborne, 1 amphibious, 1 armored reconnaissance, and 1 counter-terrorism)<br>
 
 **Military expenditures**<br>
 1% of GDP (2021 est.)<br>

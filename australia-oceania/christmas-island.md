@@ -290,7 +290,7 @@ Australia 80%, United States 7%, Canada 5% (2019)<br>
 refined petroleum, cars, iron structures, aircraft, crustaceans (2019)<br>
 
 **Exchange rates**<br>
-Australian dollars (AUD) per US dollar -<br>
+_Currency_: Australian dollars (AUD) per US dollar -<br>
 1.311 (2017 est.)<br>
 1.3442 (2016 est.)<br>
 1.3442 (2015)<br>

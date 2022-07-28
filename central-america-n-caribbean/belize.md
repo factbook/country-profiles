@@ -512,7 +512,7 @@ $1.315 billion (31 December 2017 est.)<br>
 $1.338 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Belizean dollars (BZD) per US dollar -<br>
+_Currency_: Belizean dollars (BZD) per US dollar -<br>
 2 (2017 est.)<br>
 2 (2016 est.)<br>
 2 (2015 est.)<br>
@@ -657,7 +657,7 @@ _major seaport(s)_: Belize City, Big Creek<br>
 
 **Military and security forces**<br>
 Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (2022)<br>
-note - the Ministry of National Defense and Border Security is responsible for oversight of the BDF and the Coast Guard, while the Ministry of Home Affairs and New Growth Industries has responsibility for police and prisons<br>
+<strong>note:</strong> the Ministry of National Defense and Border Security is responsible for oversight of the BDF and the Coast Guard, while the Ministry of Home Affairs and New Growth Industries has responsibility for police and prisons<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>

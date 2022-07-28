@@ -517,7 +517,7 @@ $535 million (2019 est.)<br>
 $456 million (2018 est.)<br>
 
 **Exchange rates**<br>
-emalangeni per US dollar -<br>
+_Currency_: emalangeni per US dollar -<br>
 14.44 (2017 est.)<br>
 14.6924 (2016 est.)<br>
 14.6924 (2015 est.)<br>
@@ -664,7 +664,7 @@ the UEDF is lightly armed with mostly South African material; it has received sm
 18-30 years of age for male and female voluntary military service; no conscription (2021)<br>
 
 **Military - note**<br>
-<p>the UEDF was originally created in 1973 as the Royal Swaziland Defense Force; the UEDF’s primary mission is external security but it also has domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force’s titular commissioner in chief</p> <p> </p> (2022)<br>
+the UEDF was originally created in 1973 as the Royal Swaziland Defense Force; the UEDF&rsquo;s primary mission is external security but it also has domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force&rsquo;s titular commissioner in chief (2022)<br>
 
 ## Transnational Issues
 

@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The first Sinhalese arrived in Sri Lanka late in the 6th century B.C., probably from northern India. Buddhism was introduced circa 250 B.C., and the first kingdoms developed at the cities of Anuradhapura (from circa 200 B.C. to circa A.D. 1000) and Polonnaruwa (from about 1070 to 1200). In the 14th century, a south Indian dynasty established a Tamil kingdom in northern Sri Lanka. The Portuguese controlled the coastal areas of the island in the 16th century followed by the Dutch in the 17th century. The island was ceded to the British in 1796, became a crown colony in 1802, and was formally united under British rule by 1815. As Ceylon, it became independent in 1948; its name was changed to Sri Lanka in 1972. Prevailing tensions between the Sinhalese majority and Tamil separatists erupted into war in July 1983. Fighting between the government and Liberation Tigers of Tamil Eelam (LTTE) continued for over a quarter century. Although Norway brokered peace negotiations that led to a ceasefire in 2002, the fighting slowly resumed and was again in full force by 2006. The government defeated the LTTE in May 2009.</p> <p>During the post-conflict years under President Mahinda RAJAPAKSA, the government initiated infrastructure development projects, many of which were financed by loans from China. His regime faced significant allegations of human rights violations and a shrinking democratic space for civil society.  In 2015, a new coalition government headed by President Maithripala SIRISENA of the Sri Lanka Freedom Party and Prime Minister Ranil WICKREMESINGHE of the United National Party came to power with pledges to advance economic, governance, anti-corruption, reconciliation, justice, and accountability reforms. However, implementation of these reforms has been uneven. In October 2018, President SIRISENA attempted to oust Prime Minister WICKREMESINGHE, swearing in former President RAJAPAKSA as the new prime minister and issuing an order to dissolve the parliament and hold elections. This sparked a seven-week constitutional crisis that ended when the Supreme Court ruled SIRISENA’s actions unconstitutional, RAJAPAKSA resigned, and WICKREMESINGHE was reinstated. In November 2019, Gotabaya RAJAPAKSA won the presidential election and appointed his brother, Mahinda, prime minister. Since Gotabaya RAJAPAKSA’s election, there have been concerns about his administration’s commitment to pursuing justice, human rights, and accountability reforms, as well as the risks to foreign creditors that Sri Lanka faces given its ongoing economic crisis. A combination of factors including the impact of the worldwide COVID pandemic; severe shortages of food, medicine, and fuel; and power outages have triggered increasingly violent protests in Columbo. Longtime parliamentarian and former five-time prime minister, Ranil WICKREMESINGHE replaced Mahinda RAJAPASKA as prime-minister in mid-May 2022, with a mandate to resolve the country's economic problems.</p><br>
+<p>The first Sinhalese arrived in Sri Lanka late in the 6th century B.C., probably from northern India. Buddhism was introduced circa 250 B.C., and the first kingdoms developed at the cities of Anuradhapura (from circa 200 B.C. to circa A.D. 1000) and Polonnaruwa (from about 1070 to 1200). In the 14th century, a south Indian dynasty established a Tamil kingdom in northern Sri Lanka. The Portuguese controlled the coastal areas of the island in the 16th century followed by the Dutch in the 17th century. The island was ceded to the British in 1796, became a crown colony in 1802, and was formally united under British rule by 1815. As Ceylon, it became independent in 1948; its name was changed to Sri Lanka in 1972. Prevailing tensions between the Sinhalese majority and Tamil separatists erupted into war in July 1983. Fighting between the government and Liberation Tigers of Tamil Eelam (LTTE) continued for over a quarter century. Although Norway brokered peace negotiations that led to a cease-fire in 2002, the fighting slowly resumed and was again in full force by 2006. The government defeated the LTTE in May 2009.</p> <p>During the post-conflict years under President Mahinda RAJAPAKSA, the government initiated infrastructure development projects, many of which were financed by loans from China. His regime faced significant allegations of human rights violations and a shrinking democratic space for civil society.  In 2015, a new coalition government headed by President Maithripala SIRISENA of the Sri Lanka Freedom Party and Prime Minister Ranil WICKREMESINGHE of the United National Party came to power with pledges to advance economic, governance, anti-corruption, reconciliation, justice, and accountability reforms. However, implementation of these reforms has been uneven. In October 2018, President SIRISENA attempted to oust Prime Minister WICKREMESINGHE, swearing in former President RAJAPAKSA as the new prime minister and issuing an order to dissolve the Parliament and hold elections. This sparked a seven-week constitutional crisis that ended when the Supreme Court ruled SIRISENA’s actions unconstitutional, RAJAPAKSA resigned, and WICKREMESINGHE was reinstated. In November 2019, Gotabaya RAJAPAKSA won the presidential election and appointed his brother, Mahinda, prime minister. Since Gotabaya RAJAPAKSA’s election, there have been concerns about his administration’s commitment to pursuing justice, human rights, and accountability reforms, as well as the risks to foreign creditors that Sri Lanka faces given its ongoing economic crisis. A combination of factors including the impact of the worldwide COVID pandemic; severe shortages of food, medicine, and fuel; and power outages have triggered increasingly violent protests in Columbo. Longtime parliamentarian and former five-time prime minister, Ranil WICKREMESINGHE replaced Mahinda RAJAPASKA as prime-minister in mid-May 2022, with a mandate to resolve the country's economic problems.</p><br>
 
 ## Geography
 
@@ -302,8 +302,8 @@ _agricultural_: 11.31 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Democratic Socialist Republic of Sri Lanka<br>
 _conventional short form_: Sri Lanka<br>
-_local long form_: Shri Lanka Prajatantrika Samajavadi Janarajaya/Ilankai Jananayaka Choshalichak Kutiyarachu<br>
-_local short form_: Shri Lanka/Ilankai<br>
+_local long form_: Shri Lanka Prajatantrika Samajavadi Janarajaya (Sinhala)/ Ilankai Jananayaka Choshalichak Kutiyarachu (Tamil)<br>
+_local short form_: Shri Lanka (Sinhala)/ Ilankai (Tamil)<br>
 _former_: Serendib, Ceylon<br>
 _etymology_: the name means "resplendent island" in Sanskrit<br>
 
@@ -345,11 +345,12 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Gotabaya RAJAPAKSA (since 18 November 2019); note - the president is both chief of state and head of government; Prime Minister Ranil WICKREMESINGHE (since 12 May 2022)<br>
-_head of government_: President Gotabaya RAJAPAKSA (since 18 November 2019)<br>
+_chief of state_: President Ranil WICKREMESINGHE (since 20 July 2022); the president is both chief of state and head of government; prime minister (vacant)<br>
+_head of government_: President Ranil WICKREMESINGHE (since 20 July 2022)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
 _elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 16 November 2019 (next to be held in 2024); prime minister appointed by the president from among members of Parliament for a 5-year term)<br>
-_election results_: Gotabaya RAJAPAKSA elected president; percent of vote - Gotabaya RAJAPAKSA (SLPP) 52.2%, Sajith PREMADASA (UNP) 42%, other 5.8%<br>
+_election results_: Ranil WICKREMESINGHE elected president by Parliament on 20 July 2022; WICKREMESINGH 134 votes, Dullas ALAHAPPERUNA 82 votes<br>
+<strong>Note</strong>: amid public protests which began in March 2022, President Gotabaya RAJAPAKSE fled the country on 13 July and Ranil WICKREMESINGHE became acting president; RAJAPAKSE announced his resignation on the 14th, which was accepted by the speaker of Parliament the following day; Parliament on 20 July elected WICKREMESINGHE as president; vote - Ranil WICKREMESINGHE - 134,  Dullas ALAHAPPERUMA - 82<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (225 seats; 196 members directly elected in multi-seat district constituencies by proportional representation vote using a preferential method in which voters select 3 candidates in order of preference; remaining 29 seats, referred to as the "national list" are allocated by each party secretary according to the island wide proportional vote the party obtains; members serve 5-year terms)<br>
@@ -396,7 +397,7 @@ _lyrics/music_: Ananda SAMARKONE<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (6 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Ancient City of Polonnaruwa (c), Ancient City of Sigiriya (c), Sacred City of Anuradhapura (c), Old Town of Galle and its Fortifications (c), Sacred City of Kandy (c), Sinharaja Forest Reserve (n), Rangiri Dambulla Cave Temple (c), Central Highlands of Sri Lanka (n)<br>
+_selected World Heritage Site locales_: Ancient City of Polonnaruwa (c); Ancient City of Sigiriya (c); Sacred City of Anuradhapura (c); Old Town of Galle and its Fortifications (c); Sacred City of Kandy (c); Sinharaja Forest Reserve (n); Rangiri Dambulla Cave Temple (c); Central Highlands of Sri Lanka (n)<br>
 
 ## Economy
 
@@ -536,7 +537,7 @@ $55.332 billion (2019 est.)<br>
 $52.567 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Sri Lankan rupees (LKR) per US dollar -<br>
+_Currency_: Sri Lankan rupees (LKR) per US dollar -<br>
 185.8 (2020 est.)<br>
 181.2 (2019 est.)<br>
 178.545 (2018 est.)<br>

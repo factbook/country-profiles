@@ -503,7 +503,7 @@ $848.8 million (31 December 2016 est.)<br>
 $696.2 million (31 December 2015 est.)<br>
 
 **Exchange rates**<br>
-rufiyaa (MVR) per US dollar -<br>
+_Currency_: rufiyaa (MVR) per US dollar -<br>
 15.42 (2017 est.)<br>
 15.35 (2016 est.)<br>
 

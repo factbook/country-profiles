@@ -443,7 +443,7 @@ $0 (2015 est.)<br>
 <strong>note:</strong> public external debt only; private external debt unavailable<br>
 
 **Exchange rates**<br>
-Swiss francs (CHF) per US dollar -<br>
+_Currency_: Swiss francs (CHF) per US dollar -<br>
 0.9875 (2017 est.)<br>
 0.9852 (2016 est.)<br>
 0.9852 (2015 est.)<br>

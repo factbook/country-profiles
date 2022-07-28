@@ -331,9 +331,9 @@ _elections/appointments_: president indirectly elected by the House of Represent
 _election results_: George VELLA (PL) elected president; House of Representatives vote - unanimous; Robert ABELA (PL) appointed prime minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process<br>
+_description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (65 seats statutory, 79 for 2022-2027 term; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 26 March 2022 (next to be held in 2027)<br>
-_election results_: percent of vote by party - PL 55.1%, PN 41.7%, other 3.2%; seats by party - PL 38 PN 29; composition - men NA, women NA, percent of women NA%<br>
+_election results_: percent of vote by party - PL 55.1%, PN 41.7%, other 3.2%; seats by party - PL 38, PN 29; composition - men 57, women 22, percent of women 27.8%; note - due to underrepresentation by women in the combined general on 26 March and two casual elections on 7 and 12 April (10 seats or 14.9%), an additional 12 seats were awarded because their percentage did not meet the 40% threshold required by the Malta Constitution or the General Elections Amendment Act 2021<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)<br>
@@ -373,7 +373,7 @@ _lyrics/music_: Dun Karm PSAILA/Robert SAMMUT<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>
-_selected World Heritage Site locales_: City of Valletta, Ħal Saflieni Hypogeum, Megalithic Temples of Malta<br>
+_selected World Heritage Site locales_: City of Valletta; Ħal Saflieni Hypogeum; Megalithic Temples of Malta<br>
 
 ## Economy
 
@@ -513,7 +513,7 @@ $98.179 billion (2019 est.)<br>
 $104.467 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>

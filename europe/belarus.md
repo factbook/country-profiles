@@ -300,8 +300,8 @@ _agricultural_: 431 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Belarus<br>
 _conventional short form_: Belarus<br>
-_local long form_: Respublika Byelarus'/Respublika Belarus'<br>
-_local short form_: Byelarus'/Belarus'<br>
+_local long form_: Respublika Byelarus' (Belarusian)/ Respublika Belarus' (Russian)<br>
+_local short form_: Byelarus' (Belarusian)/ Belarus' (Russian)<br>
 _former_: Belorussian (Byelorussian) Soviet Socialist Republic<br>
 _etymology_: the name is a compound of the Belarusian words "bel" (white) and "Rus" (the Old East Slavic ethnic designation) to form the meaning White Rusian or White Ruthenian<br>
 
@@ -535,7 +535,7 @@ $39.847 billion (2019 est.)<br>
 $39.297 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Belarusian rubles (BYB/BYR) per US dollar -<br>
+_Currency_: Belarusian rubles (BYB/BYR) per US dollar -<br>
 1.9 (2017 est.)<br>
 2 (2016 est.)<br>
 2 (2015 est.)<br>
@@ -689,7 +689,7 @@ _river port(s)_: Mazyr (Prypyats')<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force, Special Troops (electronic warfare, signals, engineers, biological/chemical/nuclear protection troops, etc); Ministry of Interior: State Border Troops, Militia, Internal Troops (2021)<br>
+Belarus Armed Forces: Army, Air and Air Defense Force, Special Operations Force, Special Troops (electronic warfare, signals, engineers, biological/chemical/nuclear protection troops, etc); Ministry of Interior: State Border Troops, Militia, Internal Troops (2022)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
@@ -706,7 +706,7 @@ the inventory of the Belarus Armed Forces is comprised mostly of Russian/Soviet-
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service, depending on academic qualifications; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2021)<br>
-note - conscripts can be assigned to the military, as well as the Ministry of Interior as internal or border troops; as of 2020, conscripts comprised an estimated 40% of the military<br>
+<strong>note:</strong> conscripts can be assigned to the military, as well as the Ministry of Interior as internal or border troops; as of 2020, conscripts comprised an estimated 40% of the military<br>
 
 **Military - note**<br>
 <p>Belarus has close security ties with Russia, including an integrated air and missile defense system, joint training exercises, and the establishment of three joint training centers since 2020 (1 in Belarus, 2 in Russia); Russia is the principal supplier of arms to Belarus, and Belarusian troops reportedly train on Russian equipment; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities, and combating extremism and terrorism; in 2022, Belarus allowed Russian military forces to stage on its territory during its invasion of Ukraine<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes an airborne brigade to CSTO's rapid reaction force (KSOR)</p><br>
@@ -717,7 +717,7 @@ note - conscripts can be assigned to the military, as well as the Ministry of In
 <p><em>Belarus-Latvia:</em> Boundary demarcated with Latvia.<br><br><em>Belarus-Lithuania:</em> Boundary demarcated with Lithuania.<br><br><em>Belarus-Poland:</em> As a member state that forms part of the EU's external border, Poland has implemented strict Schengen border rules to restrict illegal immigration and trade along its border with Belarus.</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,771 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 10,351 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 6,104 (mid-year 2021)<br>
 
 **Trafficking in persons**<br>

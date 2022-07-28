@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Two centuries of Viking raids into Europe tapered off following the adoption of Christianity by King Olav TRYGGVASON in 994; conversion of the Norwegian kingdom occurred over the next several decades. In 1397, Norway was absorbed into a union with Denmark that lasted more than four centuries. In 1814, Norwegians resisted the cession of their country to Sweden and adopted a new constitution. Sweden then invaded Norway but agreed to let Norway keep its constitution in return for accepting the union under a Swedish king. Rising nationalism throughout the 19th century led to a 1905 referendum granting Norway independence. Although Norway remained neutral in World War I, it suffered heavy losses to its shipping. Norway proclaimed its neutrality at the outset of World War II, but was nonetheless occupied for five years by Nazi Germany (1940-45). In 1949, Norway abandoned neutrality and became a member of NATO. Discovery of oil and gas in adjacent waters in the late 1960s boosted Norway's economic fortunes. In referenda held in 1972 and 1994, Norway rejected joining the EU. Key domestic issues include immigration and integration of ethnic minorities, maintaining the country's extensive social safety net with an aging population, and preserving economic competitiveness.<br>
+Two centuries of Viking raids into Europe tapered off following the adoption of Christianity by King Olav TRYGGVASON in 994; conversion of the Norwegian kingdom occurred over the next several decades. In 1397, Norway was absorbed into a union with Denmark that lasted more than four centuries. In 1814, Norwegians resisted the cession of their country to Sweden and adopted a new constitution. Sweden then invaded Norway but agreed to let Norway keep its constitution in return for accepting the union under a Swedish king. Rising nationalism throughout the 19th century led to a 1905 referendum granting Norway independence. Although Norway remained neutral in World War I, it suffered heavy losses to its shipping. Norway proclaimed its neutrality at the outset of World War II but was nonetheless occupied for five years by Nazi Germany (1940-45). In 1949, Norway abandoned neutrality and became a member of NATO. Discovery of oil and gas in adjacent waters in the late 1960s boosted Norway's economic fortunes. In referenda held in 1972 and 1994, Norway rejected joining the EU. Key domestic issues include immigration and integration of ethnic minorities, maintaining the country's extensive social safety net with an aging population, and preserving economic competitiveness.<br>
 
 ## Geography
 
@@ -383,7 +383,7 @@ _lyrics/music_: lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (7 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Bryggen (c), Urnes Stave Church (c), Røros Mining Town and the Circumference (c), Rock Art of Alta (c), Vegaøyan – The Vega Archipelago (c), Struve Geodetic Arc (c), West Norwegian Fjords – Geirangerfjord and Nærøyfjord (n), Rjukan-Notodden Industrial Heritage Site (c)<br>
+_selected World Heritage Site locales_: Bryggen (c); Urnes Stave Church (c); Røros Mining Town and the Circumference (c); Rock Art of Alta (c); Vegaøyan – The Vega Archipelago (c); Struve Geodetic Arc (c); West Norwegian Fjords – Geirangerfjord and Nærøyfjord (n); Rjukan-Notodden Industrial Heritage Site (c)<br>
 
 ## Economy
 
@@ -524,7 +524,7 @@ $648.878 billion (2018 est.)<br>
 <strong>note:</strong> Norway is a net external creditor<br>
 
 **Exchange rates**<br>
-Norwegian kroner (NOK) per US dollar -<br>
+_Currency_: Norwegian kroner (NOK) per US dollar -<br>
 8.81535 (2020 est.)<br>
 9.14245 (2019 est.)<br>
 8.4837 (2018 est.)<br>
@@ -691,13 +691,13 @@ the Norwegian Armed Forces inventory includes mostly imported European and US we
 
 **Military service age and obligation**<br>
 19-35 years of age for male and female selective compulsory military service; 17 years of age for male volunteers; 18 years of age for women; 19-month service obligation; conscripts first serve 12 months from 19-28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2021)<br>
-note(s) - Norway conscripts about 8,000 individuals annually; Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as <em>Jegertroppen </em>(The Hunter Troop), which was established in 2014; as of 2019, women comprised about 14% of the military's full-time personnel<br>
+<strong>note 1: </strong>Norway conscripts about 8,000 individuals annually<br><br><strong>note 2:</strong> Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as <em>Jegertroppen </em>(The Hunter Troop), which was established in 2014; as of 2019, women comprised about 14% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 up to 150 Lithuania (NATO) (2022)<br>
 
 **Military - note**<br>
-Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p> (2022)<br>
+Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009 (2022)<br>
 
 ## Transnational Issues
 
@@ -705,6 +705,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p><em>Norway-Antarctica</em>: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)</p> <p><em>Norway-Russia</em>: Russia amended its 2001 CLCS submission in 2015 and 2021, each time delineating the outer limits of its continental shelf further into the Arctic Ocean; Norway and Russia signed a comprehensive maritime boundary agreement in 2010, ending a dispute over an area of the Barents Sea by dividing the territory equally</p> <p><em>Norway-Sweden</em>: none identified</p> <p> </p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 20,610 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 15,542 (Syria), 11,965 (Eritrea) (mid-year 2021); 21,484 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 4,154 (mid-year 2021)<br>
 

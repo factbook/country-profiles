@@ -529,7 +529,7 @@ $17.24 billion (2019 est.)<br>
 $16.712 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-<strong>note:</strong> the US dollar is used as a medium of exchange and circulates freely in the economy<br>
+_Currency_: <strong>note:</strong> the US dollar is used as a medium of exchange and circulates freely in the economy<br>
 1 (2017 est.)<br>
 
 ## Energy
@@ -679,7 +679,7 @@ _oil terminal(s)_: Acajutla offshore terminal<br>
 
 **Military and security forces**<br>
 the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS); Ministry of Justice and Public Security: National Civil Police (Policia Nacional Civil, PNC) (2022)<br>
-note - in 2016, El Salvador created a 1,000-strong combined Army commando and special police unit to combat criminal gang violence<br>
+<strong>note:</strong> in 2016, El Salvador created a combined Army commando and National Civil Police unit to combat criminal gang violence<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>
@@ -690,14 +690,14 @@ note - in 2016, El Salvador created a 1,000-strong combined Army commando and sp
 
 **Military and security service personnel strengths**<br>
 approximately 21,000 active troops (17,000 Army; 2,000 Navy; 2,000 Air Force) (2022)<br>
-note - in 2021, El Salvador announced intentions to double the size of the military, although no time frame was given<br>
+<strong>note:</strong> in 2021, El Salvador announced intentions to double the size of the military, although no time frame was given<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAES is dependent on a mix of mostly older imported platforms, largely from the US; since 2010, the FAES has received small amounts of equipment from several countries, including Chile, Israel, Spain, and the US (2022)<br>
 
 **Military service age and obligation**<br>
 18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2022)<br>
-note - as of 2016, women made up about 6% of the active duty military<br>
+<strong>note:</strong> as of 2016, women made up about 6% of the active duty military<br>
 
 **Military deployments**<br>
 175 Mali (MINUSMA) (Jan 2022)<br>

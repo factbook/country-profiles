@@ -267,6 +267,7 @@ _name_: Monaco<br>
 _geographic coordinates_: 43 44 N, 7 25 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
+_etymology_: founded as a Greek colony in the 6th century B.C., the name derives from two Greek words "monos" (single, alone) and "oikos" (house) to convey the sense of a people "living apart" or in a "single habitation"<br>
 
 **Administrative divisions**<br>
 none; there are no first-order administrative divisions as defined by the US Government, but there are 4 quarters (quartiers, singular - quartier); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo; note - Moneghetti, a part of La Condamine, is sometimes called the 5th quarter of Monaco<br>
@@ -445,7 +446,7 @@ jewelry, recreational boats, cars and vehicle parts, watches, general wares (201
 <p> NA</p><br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.885 (2017 est.)<br>
 0.903 (2016 est.)<br>
 0.9214 (2015 est.)<br>
@@ -504,7 +505,7 @@ _major seaport(s)_: Hercules Port<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince&rsquo;s Company of Carabiniers (Palace Guard)), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department<br>
+no regular military forces; Ministry of Interior: Compagnie des Carabiniers du Prince (Prince&rsquo;s Company of Carabiniers (Palace Guard)), Corps des Sapeurs-pompiers de Monaco (Fire and Emergency), Police Department (2022)<br>
 
 **Military - note**<br>
 defense is the responsibility of France<br>

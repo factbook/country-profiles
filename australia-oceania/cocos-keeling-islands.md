@@ -112,7 +112,7 @@ NA<br>
 8.89 deaths/1,000 population (2021 est.)<br>
 
 **Net migration rate**<br>
-(2021 est.) NA<br>
+NA<br>
 
 **Population distribution**<br>
 only Home Island and West Island are populated<br>
@@ -297,7 +297,7 @@ Australia 73%, United Arab Emirates 15%, Netherlands 5% (2019)<br>
 gold, x-ray equipment, cars, prefabricated buildings, packaged medicines (2019)<br>
 
 **Exchange rates**<br>
-Australian dollars (AUD) per US dollar -<br>
+_Currency_: Australian dollars (AUD) per US dollar -<br>
 1.311 (2017 est.)<br>
 1.3442 (2016 est.)<br>
 1.3442 (2015)<br>

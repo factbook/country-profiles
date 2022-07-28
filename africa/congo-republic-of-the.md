@@ -368,7 +368,7 @@ _chief of state_: President Denis SASSOU-Nguesso (since 25 October 1997)<br>
 _head of government_: Prime Minister Clement MOUAMBA (since 24 April 2016); note - a constitutional referendum held in 2015 approved the change of the head of government from the president to the prime minister (2019)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 additional terms); election last held on 21 March 2021 (next to be held on 21 March 2026)<br>
-_election results_: Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 88.4%, Guy Price Parfait KOLELAS (MCDDI) 8.0%, turnout is 67.6%.<br>
+_election results_: Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 88.4%, Guy Price Parfait KOLELAS (MCDDI) 8.0%, other 3.6%&nbsp; (2021)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate (72 seats; members indirectly elected by local, district, and regional councils by simple majority vote to serve 6-year terms with one-half of membership renewed every 3 years)<br>National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>
@@ -545,7 +545,7 @@ $4.605 billion (31 December 2017 est.)<br>
 $4.721 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+_Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
 579.8 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>
@@ -727,6 +727,6 @@ the FAC is armed with mostly ageing Russian and Soviet-era weapons, with a small
 <p><em>Republic of the Congo-Democratic Republic of Congo(DRC): </em>the location of the boundary in the broad Congo River is indefinite except in the Pool Malebo/Stanley Pool area<br><br><em>Republic of the Congo-Angola:</em> (Kabinda Exclave) None identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 29,132 (Central African Republic), 22,123 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 29,185 (Central African Republic), 22,133 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 _IDPs_: 159,830 (multiple civil wars since 1992) (2022)<br>
 

@@ -344,7 +344,7 @@ _amendments_: constitutional amendments require at least a&nbsp;two-thirds major
 mixed system developed from codes instituted by the Ottoman Empire (based on French law), British common law, and Islamic law<br>
 
 **International law organization participation**<br>
-has not submitted an ICJ jurisdiction declaration; accepts ICC jurisdiction<br>
+has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
 
 **Citizenship**<br>
 _citizenship by birth_: no<br>
@@ -405,7 +405,7 @@ _lyrics/music_: Abdul-Mone'm al-RIFAI'/Abdul-Qader al-TANEER<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 6 (5 cultural, 1 mixed)<br>
-_selected World Heritage Site locales_: Petra (c), Quseir Amra (c), Um er-Rasas (Kastrom Mefa'a) (c), Wadi Rum Protected Area (m), Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas) (c), As-Salt - The Place of Tolerance and Urban Hospitality (c)<br>
+_selected World Heritage Site locales_: Petra (c); Quseir Amra (c); Um er-Rasas (Kastrom Mefa'a) (c); Wadi Rum Protected Area (m); Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas) (c); As-Salt - The Place of Tolerance and Urban Hospitality (c)<br>
 
 ## Economy
 
@@ -544,7 +544,7 @@ $32.088 billion (2019 est.)<br>
 $29.916 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Jordanian dinars (JOD) per US dollar -<br>
+_Currency_: Jordanian dinars (JOD) per US dollar -<br>
 0.709 (2020 est.)<br>
 0.709 (2019 est.)<br>
 0.70925 (2018 est.)<br>
@@ -623,7 +623,7 @@ _total subscriptions_: 6,987,891 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 68 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Jordan is host to a growing number of ICT companies and has emerged as a technology start-up hub for the Middle East; recently focused on telecom solutions to pandemic issues such as e-health and education; progress in the digital financial services; economic goals rely on digital economy, developed mobile sector, and extensive LTE infrastructure; preparation for 5G and e-commerce; importer of broadcasting equipment from Vietnam and China (2020)<br>
+_general assessment_: Jordan&rsquo;s government has focused on the use of ICT in a range of sectors, aimed at transforming the relatively small economy through the use of digital services; this policy has helped the country rise in the league tables for digital connectivity and internet readiness, and it has also attracted investment from foreign companies; during the ongoing global pandemic, the start-up sector has been further encouraged to develop solutions to combat the crisis, while other efforts have facilitated e-government services and encouraged businesses to adapt to new methods of working through their own digital transformation; these developments have been supported by the highly developed mobile sector, led by three major regional players which have near-comprehensive LTE network coverage; Orange Jordan has also focused on building up its FttP infrastructure, with the network covering about 618,000 premises by mid-2021. (2022)<br>
 _domestic_: 1995 a telecommunications law opened all non-fixed-line services to private competition; in 2005, the monopoly over fixed-line services terminated and the entire telecommunications sector was opened to competition; currently fixed-line stands at nearly 4 per 100 persons and multiple mobile-cellular providers with subscribership over 68 per 100 persons (2020)<br>
 _international_: country code - 962; landing point for the&nbsp;FEA and&nbsp;Taba-Aqaba submarine cable networks providing connectivity to Europe, the Middle East, Southeast Asia and Asia; satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and maritime Inmarsat terminals (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -692,7 +692,7 @@ _major seaport(s)_: Al 'Aqabah<br>
 
 **Military and security forces**<br>
 Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Coast Guard; Ministry of Interior: Public Security Directorate (includes national police, the Gendarmerie, and the Civil Defense Directorate) (2022)<br>
-note - the armed forces report administratively to the minister of defense and have a support role for internal security; here is no separate Ministry of Defense; the prime minister also serves as defense minister<br>
+<strong>note: </strong>the armed forces report administratively to the minister of defense and have a support role for internal security; there is no separate Ministry of Defense; the prime minister also serves as defense minister<br>
 
 **Military expenditures**<br>
 5% of GDP (2021 est.)<br>
@@ -709,7 +709,7 @@ the JAF inventory is comprised of a wide mix of imported equipment from Europe, 
 
 **Military service age and obligation**<br>
 17 years of age for voluntary male military service (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term 2 years, with option to reenlist for 18 years; conscription abolished in 1991; however, in 2020, Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of 3 months of military training and 9 months of professional and technical training; in 2019, announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least 6 months; service would include 1 month for military training with the remaining 3 months dedicated to vocational training in the sectors of construction and tourism (2022)<br>
-note - most women serve in the medical service; outside the medical service, women comprised about 1.5% of the military as of 2019; the Jordanian Government intended to raise this to 3%<br>
+<strong>note:</strong> most women serve in the medical service; outside the medical service, women comprised about 1.5% of the military as of 2019<br>
 
 **Military deployments**<br>
 330 Mali (MINUSMA) (Feb 2022)<br>
@@ -721,6 +721,7 @@ note - most women serve in the medical service; outside the medical service, wom
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 

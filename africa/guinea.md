@@ -365,7 +365,7 @@ _chief of state_: President Col. Mamady DOUMBOUYA (since 1 October 2021); note -
 _head of government_: formerly, Prime Minister Mohamed BEAVOGUI (since 6 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government of Prime Minister Ibrahima Kassory FOFANA dissolved<br>
 _cabinet_: formerly, the Council of Ministers appointed by the president; note: on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and legislature dissolved<br>
 _elections/appointments_: formerly, the president was directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term) and the prime minister appointed by the president; election last held on 18 October 2020; note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, and on 1 October 2021,Col. Mamady DOUMBOUYA was sworn in as transitional president<br>
-_election results_: in the election of 18 October 2020, Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%; note - following the military coup of 5 September 2021, coup leader Col. Mamady DOUMBOUYA was sworn in as transitional president on 1 October 2021<br>
+_election results_: in the election of 18 October 2020, Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%; note - following the military coup of 5 September 2021, coup leader Col. Mamady DOUMBOUYA was sworn in as transitional president on 1 October 2021 (2020)<br>
 
 **Legislative branch**<br>
 _description_: formerly the People's National Assembly;&nbsp; note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup in which President CONDE was arrested and detained, the constitution suspended, and the government and People's National Assembly dissolved; on 22 January 2022, an 81-member Transitional National Council was installed<br>
@@ -548,7 +548,7 @@ $1.458 billion (31 December 2017 est.)<br>
 $1.462 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Guinean francs (GNF) per US dollar -<br>
+_Currency_: Guinean francs (GNF) per US dollar -<br>
 9,953 (2020 est.)<br>
 9,542.5 (2019 est.)<br>
 9,092 (2018 est.)<br>
@@ -691,7 +691,7 @@ _major seaport(s)_: Conakry, Kamsar<br>
 
 **Military and security forces**<br>
 National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne), Guinean Air Force (Force Aerienne de Guinee), Presidential Security Battalion (Battailon Autonome de la Sécurité Presidentielle, BASP), Gendarmerie (2022)<br>
-note - the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials<br>
+<strong>note:</strong> the National Gendarmerie is overseen by the Ministry of Defense, while the National Police is under the Ministry of Security; the Gendarmerie and National Police share responsibility for internal security, but only the Gendarmerie can arrest police or military officials<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>

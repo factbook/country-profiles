@@ -474,7 +474,7 @@ $1,648,409,000,000 (2019 est.)<br>
 $1,670,919,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-Hong Kong dollars (HKD) per US dollar -<br>
+_Currency_: Hong Kong dollars (HKD) per US dollar -<br>
 7.75225 (2020 est.)<br>
 7.8285 (2019 est.)<br>
 7.8133 (2018 est.)<br>
@@ -609,7 +609,8 @@ _container port(s) (TEUs)_: Hong Kong (18,361,000) (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular indigenous military forces; Hong Kong Police Force (specialized units include the Police Counterterrorism Response Unit, the Explosive Ordnance Disposal Bureau, the Special Duties Unit, the Airport Security Unit, and the VIP Protection Unit)<br><br>the Hong Kong garrison of China's People's Liberation Army (PLA) includes elements of the PLA Army, PLA Navy, and PLA Air Force; these forces are under the direct leadership of the Central Military Commission in Beijing and under administrative control of the adjacent Southern Theater Command (2021)<br>
+no regular indigenous military forces; Hong Kong Police Force (specialized units include the Police Counterterrorism Response Unit, the Explosive Ordnance Disposal Bureau, the Special Duties Unit, the Airport Security Unit, and the VIP Protection Unit) (2022)<br>
+<strong>note: </strong>the Hong Kong garrison of China's People's Liberation Army (PLA) includes elements of the PLA Army, PLA Navy, and PLA Air Force; these forces are under the direct leadership of the Central Military Commission in Beijing and under administrative control of the adjacent Southern Theater Command<br>
 
 **Military - note**<br>
 defense is the responsibility of China<br>

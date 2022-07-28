@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Senegal is one of the few countries in the world with evidence of continuous human life from the Paleolithic era to present. Between the 14th and 16th centuries, the Jolof Empire ruled most of Senegal. Starting in the 15th century, Portugal, the Netherlands, France, and Great Britain traded along the Senegalese coast. Senegal’s location on the western tip of Africa made it a favorable base for the European slave trade. European powers used the Senegalese island of Goree as a base to purchase slaves from the warring chiefdoms on the mainland, and at the height of the slave trade in Senegal, over one-third of the Senegalese population was enslaved. In 1815, France abolished slavery and began expanding inland. During the second half of the 19th century, France took possession of Senegal as a French colony. In 1959, the French colonies of Senegal and French Sudan were merged and granted independence in 1960 as the Mali Federation. The union broke up after only a few months. In 1982, Senegal joined with The Gambia to form the nominal confederation of Senegambia. The envisaged integration of the two countries was never implemented, and the union dissolved in 1989.<br><br>Since the 1980s, the Movement of Democratic Forces in the Casamance - a separatist movement based in southern Senegal - has led a low-level insurgency. Several attempts at reaching a comprehensive peace agreement have failed. Since 2012, despite sporadic incidents of violence, an unofficial cease-fire has remained largely in effect. Senegal is one of the most stable democracies in Africa and has a long history of participating in international peacekeeping and regional mediation. The Socialist Party of Senegal ruled for 40 years until Abdoulaye WADE was elected president in 2000 and re-elected in 2007. WADE amended Senegal's constitution over a dozen times to increase executive power and weaken the opposition. In 2012, WADE’s decision to run for a third presidential term sparked public backlash that led to his defeat to current President Macky SALL. A 2016 constitutional referendum limited future presidents to two consecutive five-year terms. The change, however, does not apply to SALL's first term. In February 2019, SALL won his bid for re-election; his second term will end in 2024.<br>
+Senegal is one of the few countries in the world with evidence of continuous human life from the Paleolithic era to present. Between the 14th and 16th centuries, the Jolof Empire ruled most of Senegal. Starting in the 15th century, Portugal, the Netherlands, France, and Great Britain traded along the Senegalese coast. Senegal’s location on the western tip of Africa made it a favorable base for the European slave trade. European powers used the Senegalese island of Goree as a base to purchase slaves from the warring chiefdoms on the mainland, and at the height of the slave trade in Senegal, over one-third of the Senegalese population was enslaved. In 1815, France abolished slavery and began expanding inland. During the second half of the 19th century, France took possession of Senegal as a French colony. In 1959, the French colonies of Senegal and French Sudan were merged and granted independence in 1960 as the Mali Federation. The union broke up after only a few months. In 1982, Senegal joined with The Gambia to form the nominal confederation of Senegambia. The envisaged integration of the two countries was never implemented, and the union dissolved in 1989.<br><br>Since the 1980s, the Movement of Democratic Forces in the Casamance - a separatist movement based in southern Senegal - has led a low-level insurgency. Several attempts at reaching a comprehensive peace agreement have failed. Since 2012, despite sporadic incidents of violence, an unofficial cease-fire has remained largely in effect. Senegal is one of the most stable democracies in Africa and has a long history of participating in international peacekeeping and regional mediation. The Socialist Party of Senegal ruled for 40 years until Abdoulaye WADE was elected president in 2000 and re-elected in 2007. WADE amended Senegal's constitution over a dozen times to increase executive power and weaken the opposition. In 2012, WADE’s decision to run for a third presidential term sparked public backlash that led to his defeat to current President Macky SALL. A 2016 constitutional referendum limited future presidents to two consecutive five-year terms. The change, however, does not apply to SALL's first term. In February 2019, SALL won his bid for reelection; his second term will end in 2024.<br>
 
 ## Geography
 
@@ -369,14 +369,14 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Macky SALL (since 2 April 2012)<br>
-_head of government_: On 11 December 2021, the National Assembly approved a constitutional amendment re-establishing the position of Prime Minister which SALL eliminated after his re-election in 2019. The new Prime Minister will be appointed in early 2022.<br>
+_head of government_: 0n 11 December 2021, the National Assembly approved a constitutional amendment re-establishing the position of Prime Minister which SALL eliminated after his re-election in 2019; the new Prime Minister will be appointed in early 2022.<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 24 February 2019 (next to be held in February 2024)<br>
-_election results_: Macky SALL elected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%<br>
+_election results_: Macky SALL elected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%, other 5.5% (2019)<br>
 
 **Legislative branch**<br>
-_description_: <em></em>unicameral National Assembly or <em>Assemblée</em> Nationale (165 seats; 105 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 60 members directly elected by proportional representation vote in single- and multi-seat constituencies)<br>
-_elections_: National Assembly - last held on 2 July 2017 (next to be held in July 2022)<br>
+_description_: unicameral National Assembly or <em>Assemblée</em> Nationale (165 seats; 105 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 60 members directly elected by proportional representation vote in single- and multi-seat constituencies)<br>
+_elections_: National Assembly - last held on 2 July 2017 (next to be held on 31 July 2022)<br>
 _election results_: National Assembly results - percent of vote by party/coalition - BBK 49.5%, CGWS 16.7%, MTS 11.7%, PUR 4.7%, CP-Kaddu Askan Wi 2%, other 15.4%; seats by party/coalition - BBY 125, CGWS 19, MTS 7, PUR 3, CP-Kaddu Askan Wi 2, other 9; composition - men 96, women 69, percent of women 41.8%<br>
 
 **Judicial branch**<br>
@@ -553,7 +553,7 @@ $8.571 billion (31 December 2017 est.)<br>
 $6.327 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+_Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 617.4 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>
@@ -705,7 +705,7 @@ _major seaport(s)_: Dakar<br>
 
 **Military and security forces**<br>
 Senegalese Armed Forces (Forces Armées Sénégalaises, FAS): Army, Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (Armee de l'Air du Senegal), National Gendarmerie (includes Territorial and Mobile components); Ministry of Interior: National Police (2022)<br>
-note - the National Police operates in major cities, while the Gendarmerie primarily operates outside urban areas<br>
+<strong>note:</strong> the National Police operates in major cities, while the Gendarmerie primarily operates outside urban areas<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2021 est.)<br>

@@ -289,13 +289,13 @@ _agricultural_: 184 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Cyprus<br>
 _conventional short form_: Cyprus<br>
-_local long form_: Kypriaki Dimokratia/Kibris Cumhuriyeti<br>
-_local short form_: Kypros/Kibris<br>
+_local long form_: Kypriaki Dimokratia (Greek)/ Kibris Cumhuriyeti (Turkish)<br>
+_local short form_: Kypros (Greek)/ Kibris (Turkish)<br>
 _etymology_: the derivation of the name "Cyprus" is unknown, but the extensive mining of copper metal on the island in antiquity gave rise to the Latin word "cuprum" for copper<br>
 <strong>note:</strong> the Turkish Cypriot community, which administers the northern part of the island, refers to itself as the "Turkish Republic of Northern Cyprus" or "TRNC" ("Kuzey Kibris Turk Cumhuriyeti" or "KKTC")<br>
 
 **Government type**<br>
-Republic of Cyprus - presidential republic; "Turkish Republic of Northern Cyprus" (self-declared) - parliamentary republic with enhanced presidency<br>
+Republic of Cyprus - presidential republic; self-declared "Turkish Republic of Northern Cyprus" (TRNC) - parliamentary republic with enhanced presidency<br>
 <strong>note:</strong> a separation of the two main ethnic communities inhabiting the island began following the outbreak of communal strife in 1963; this separation was further solidified when a Greek military-junta-supported coup attempt prompted the Turkish military intervention in July 1974 that gave the Turkish Cypriots de facto control in the north; Greek Cypriots control the only internationally recognized government on the island; on 15 November 1983, then Turkish Cypriot "President" Rauf DENKTAS declared independence and the formation of the "TRNC,” which is recognized only by Turkey<br>
 
 **Capital**<br>
@@ -322,7 +322,7 @@ _amendments_: constitution of the Republic of Cyprus - proposed by the House of 
 mixed legal system of English common law and civil law with European law supremacy<br>
 
 **International law organization participation**<br>
-accepts compulsory ICJ jurisdiction with reservations; accepts ICC jurisdiction<br>
+accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction<br>
 
 **Citizenship**<br>
 _citizenship by birth_: no<br>
@@ -344,7 +344,7 @@ _election results_: Nikos ANASTASIADIS reelected president in second round; perc
 **Legislative branch**<br>
 _description_: area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms); area administered by Turkish Cypriots: unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50 seats; members directly elected to 5-year terms by proportional representation system using a&nbsp;hybrid d'Hondt method&nbsp;with voter preferences for individual candidates<br>
 _elections_: area under government control: last held on 30 May 2021 (next to be held in 2026); area administered by Turkish Cypriots: last held on 23 January 2022 (next to be held in 2027)<br>
-_election results_: area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DiPa 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; seats by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DiPa 4, Movement of Ecologists - Citizens' Cooperation 3; area administered by Turkish Cypriots: "Assembly of the Republic" - percent of vote by party - UBP 39.5%, CTP 32%, DP 7.4%, HP 6.7%, YDP 6.4%, other 8%; seats by party - UBP 24, CTP 18, DP 3, HP 3, YDP 2<br>
+_election results_: area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DiPa 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; seats by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DiPa 4, Movement of Ecologists - Citizens' Cooperation 3; area administered by Turkish Cypriots - "Assembly of the Republic" - percent of vote by party - UBP 39.5%, CTP 32%, DP 7.4%, HP 6.7%, YDP 6.4%, other 8%; seats by party - UBP 24, CTP 18, DP 3, HP 3, YDP 2<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the "TRNC" is the "Supreme Court" (consists of 8 "judges," including the "court president")<br>
@@ -352,7 +352,7 @@ _judge selection and term of office_: Republic of Cyprus Supreme Court judges ap
 _subordinate courts_: Republic of Cyprus district courts; Assize Courts; Administrative Court; specialized courts for issues relating to family, industrial disputes, the military, and rent control; "TRNC Assize Courts"; "district and family courts"<br>
 
 **Political parties and leaders**<br>
-<strong>area under government control:</strong> <br>Citizens' Alliance or SP [Giorgos LILLIKAS]<br>Democratic Front or DiPa [Marios GAROYIAN]<br>Democratic Party or DIKO [Nikolas PAPADOPOULOS]<br>Democratic Rally or DISY [Averof NEOPHYTOU]<br>Movement of Ecologists - Citizens' Alliance [Charalambos THEOPEMPTOU]<br>Movement of Social Democrats EDEK [Marinos SIZOPOULOS]<br>National Popular Front or ELAM [Christos CHRISTOU]<br>Progressive Party of the Working People or AKEL (Communist party) [Stefanos STEFANOU]<br>Solidarity Movement [Eleni THEOCHAROUS]<br><br><strong>area administered by Turkish Cypriots:</strong> <br>Communal Democracy Party or TDP [Cemal OZYIGIT]<br>Communal Liberation Party-New Forces or TKP-YG [Mehmet CAKICI]<br>Cyprus Socialist Party or KSP [Mehmet BIRINCI]<br>Democratic Party or DP [Serdar DENKTAS]<br>National Democratic Party or NDP [Buray BUSKUVUTCU]<br>National Unity Party or UBP [Faiz SUCUOGLU]<br>New Cyprus Party or YKP [Murat KANATLI]<br>People's Party or HP [Kudret OZERSAY]<br>Rebirth Party or YDP [Erhan ARIKLI]<br>Republican Turkish Party or CTP [Tufan ERHURMAN]<br>United Cyprus Party or BKP [Izzet IZCAN]<br>
+<strong>area under government control:</strong> <br>Citizens' Alliance or SP [Giorgos LILLIKAS]<br>Democratic Front or DiPa [Marios GAROYIAN]<br>Democratic Party or DIKO [Nikolas PAPADOPOULOS]<br>Democratic Rally or DISY [Averof NEOPHYTOU]<br>Movement of Ecologists - Citizens' Alliance [Charalambos THEOPEMPTOU]<br>Movement of Social Democrats EDEK [Marinos SIZOPOULOS]<br>National Popular Front or ELAM [Christos CHRISTOU]<br>Progressive Party of the Working People or AKEL (Communist Party) [Stefanos STEFANOU]<br>Solidarity Movement [Eleni THEOCHAROUS]<br><br><strong>area administered by Turkish Cypriots:</strong> <br>Communal Democracy Party or TDP [Mine ATLI]<br>Communal Liberation Party - New Forces or TKP-YG [Mehmet CAKICI]<br>Cyprus Socialist Party or KSP [Mehmet BIRINCI]<br>Democratic Party or DP [Fikri ATAOGLU]<br>National Democratic Party or NDP [Buray BUSKUVUTCU]<br>National Unity Party or UBP [Faiz SUCUOGLU]<br>New Cyprus Party or YKP [Murat KANATLI]<br>People's Party or HP [Kudret OZERSAY]<br>Rebirth Party or YDP [Erhan ARIKLI]<br>Republican Turkish Party or CTP [Tufan ERHURMAN]<br>United Cyprus Party or BKP [Izzet IZCAN]<br>
 
 **International organization participation**<br>
 Australia Group, C, CD, CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -389,7 +389,7 @@ _lyrics/music_: Dionysios SOLOMOS/Nikolaos MANTZAROS<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>
-_selected World Heritage Site locales_: Paphos, Painted Churches in the Troodos Region, Choirokoitia<br>
+_selected World Heritage Site locales_: Paphos; Painted Churches in the Troodos Region; Choirokoitia<br>
 
 ## Economy
 
@@ -529,7 +529,7 @@ $213.19 billion (2019 est.)<br>
 $231.885 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -709,7 +709,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 12,782 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 9,820 (Syria) (mid-year 2021); 12,860 (Ukraine) (as of 26 July 2022)<br>
 _IDPs_: 242,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2021)<br>
 _stateless persons_: 66 (mid-year 2021)<br>
 <strong>note:</strong> 40,472 estimated refugee and migrant arrivals (January 2015-June 2022)<br>

@@ -216,7 +216,7 @@ _rate of urbanization_: 0.53% annual rate of change (2020-25 est.)<br>
 **Country name**<br>
 _conventional long form_: none<br>
 _conventional short form_: Falkland Islands (Islas Malvinas)<br>
-_etymology_: the archipelago takes its name from the Falkland Sound, the strait separating the two main islands; the channel itself was named after the Viscount of Falkland, who sponsored an expedition to the islands in 1690; the Spanish name for the archipelago derives from the French "Iles Malouines," the name applied to the islands by French explorer Louis-Antoine de BOUGAINVILLE in 1764<br>
+_etymology_: the archipelago takes its name from the Falkland Sound, the strait separating the two main islands; the channel itself was named after the Viscount of FALKLAND, who sponsored an expedition to the islands in 1690; the Spanish name for the archipelago derives from the French "Iles Malouines," the name applied to the islands by French explorer Louis-Antoine de BOUGAINVILLE in 1764<br>
 
 **Government type**<br>
 parliamentary democracy (Legislative Assembly); self-governing overseas territory of the UK<br>
@@ -252,7 +252,7 @@ see United Kingdom<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Nigel PHILLIPS (since 12 September 2017)<br>
+_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Alison BLAKE (since 23 July 2022)<br>
 _head of government_: Chief Executive Andy KEELING (since April 2021)<br>
 _cabinet_: Executive Council elected by the Legislative Council<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; chief executive appointed by the governor<br>
@@ -390,7 +390,7 @@ $0 (2017 est.)<br>
 $0 (2016 est.)<br>
 
 **Exchange rates**<br>
-Falkland pounds (FKP) per US dollar -<br>
+_Currency_: Falkland pounds (FKP) per US dollar -<br>
 0.7836 (2017 est.)<br>
 0.6542 (2016 est.)<br>
 0.6542 (2015)<br>

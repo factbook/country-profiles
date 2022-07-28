@@ -409,7 +409,7 @@ _lyrics/music_: Abdul Bari JAHANI/Babrak WASA<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
-_selected World Heritage Site locales_: Minaret of Jam, Buddhas of Bamyan<br>
+_selected World Heritage Site locales_: Minaret of Jam; Buddhas of Bamyan<br>
 
 ## Economy
 
@@ -542,7 +542,7 @@ $6.901 billion (31 December 2015 est.)<br>
 $284 million (FY10/11)<br>
 
 **Exchange rates**<br>
-afghanis (AFA) per US dollar -<br>
+_Currency_: afghanis (AFA) per US dollar -<br>
 7.87 (2017 est.)<br>
 68.03 (2016 est.)<br>
 67.87 (2015)<br>
@@ -690,7 +690,7 @@ _river port(s)_: Hairatan, Qizil Qal`ah (Amu Darya)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-as of 2022, the Taliban had established a Ministry of Defense and named commanders and deputy commanders for 8 regional corps; in December 2021, it announced the formation of a police force (2022)<br>
+as of 2022, the Taliban had established a de facto Ministry of Defense and named commanders and deputy commanders for 8 regional corps; in December 2021, it announced the formation of a police force (2022)<br>
 
 **Military expenditures**<br>
 3.3% of GDP (2019) (approximately $2.35 billion)<br>
@@ -700,14 +700,15 @@ as of 2022, the Taliban had established a Ministry of Defense and named commande
 2.9% of GDP (2015) (approximately $2.22 billion)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 58,000 to 100,000 Taliban fighters, with numbers fluctuating based on the time of year and battlefield operations; in 2022, the Taliban announced intentions to form a military of approximately 110,000 personnel (2022)<br>
-note - as of 2022, there were also up to 10,000 foreign fighters in Afghanistan, most of whom were aligned with the Taliban<br>
+in May 2022, the de facto Ministry of Defense announced that approximately 130,000 troops had been recruited for a new "National Army" (2022)<br>
+<strong>note:</strong> as of 2022, there were also up to 10,000 foreign fighters in Afghanistan, most of whom were aligned with the Taliban<br>
 
 **Military equipment inventories and acquisitions**<br>
 the former Afghan military's inventory was mostly a mix of Soviet-era and more modern US and Russian equipment (2021)<br>
 
 **Military service age and obligation**<br>
 not available<br>
+<strong>note: </strong>the Taliban dismissed nearly all women from the former Afghan Government security forces, except those serving in detention facilities and assisting with body searches <br>
 
 **Military - note**<br>
 <p>as of early 2022, the Taliban’s primary security objective was maintaining public order in urban areas, especially Kabul, fighting ISIS-K, and maintaining border security</p><br>
@@ -715,7 +716,7 @@ not available<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and ash-Sham-Khorasan Province; Islamic Revolutionary Guard Corps/Qods Force; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; al-Qa’ida; al-Qa'ida in the Indian Subcontinent; Tehrik-e-Taliban Pakistan<br>
+Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and ash-Sham-Khorasan Province (ISIS-K); Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; al-Qa’ida; al-Qa'ida in the Indian Subcontinent (AQIS); Tehrik-e-Taliban Pakistan (TTP)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix T<br>
 
 ## Transnational Issues

@@ -294,8 +294,8 @@ _agricultural_: 3 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Djibouti<br>
 _conventional short form_: Djibouti<br>
-_local long form_: Republique de Djibouti (French), Jumhuriyat Jibuti (Arabic)<br>
-_local short form_: Djibouti (French), Jibuti (Arabic)<br>
+_local long form_: Republique de Djibouti (French)/ Jumhuriyat Jibuti (Arabic)<br>
+_local short form_: Djibouti (French)/ Jibuti (Arabic)<br>
 _former_: French Somaliland, French Territory of the Afars and Issas<br>
 _etymology_: the country name derives from the capital city of Djibouti<br>
 
@@ -513,7 +513,7 @@ $1.954 billion (31 December 2017 est.)<br>
 $1.519 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Djiboutian francs (DJF) per US dollar -<br>
+_Currency_: Djiboutian francs (DJF) per US dollar -<br>
 177.7 (2017 est.)<br>
 177.72 (2016 est.)<br>
 177.72 (2015 est.)<br>
@@ -655,7 +655,7 @@ _major seaport(s)_: Djibouti<br>
 
 **Military and security forces**<br>
 Djibouti Armed Forces (FAD): Army, Navy, Air Force; Djibouti Coast Guard; Ministry of Interior: National Gendarmerie, National Police (2022)<br>
-note - the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points, while the National Gendarmerie is responsible for all security outside of Djibouti City, as well as for protecting critical infrastructure within the city, such as the international airport<br>
+<strong>note:</strong> the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points, while the National Gendarmerie is responsible for all security outside of Djibouti City, as well as for protecting critical infrastructure within the city, such as the international airport<br>
 
 **Military expenditures**<br>
 3.5% of GDP (2019 est.) (approximately $180 million)<br>

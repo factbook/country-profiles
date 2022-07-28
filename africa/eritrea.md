@@ -496,7 +496,7 @@ $792.7 million (31 December 2017 est.)<br>
 $875.6 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-nakfa (ERN) per US dollar -<br>
+_Currency_: nakfa (ERN) per US dollar -<br>
 15.38 (2017 est.)<br>
 15.375 (2016 est.)<br>
 15.375 (2015 est.)<br>
@@ -660,7 +660,7 @@ the Eritrean Defense Forces inventory is comprised primarily of older Russian an
 
 **Military service age and obligation**<br>
 18-40 years of age for male and female voluntary and compulsory military service (18-27 for female conscription); 18-month conscript service obligation, which includes 4-6 months of military training and one‐year of military or other national service (military service is most common); note - in practice, military service reportedly is often extended indefinitely (2021)<br>
-note - as of 2020, women reportedly made up as much as 30% of the Eritrean military<br>
+<strong>note:</strong> as of 2020, women reportedly made up as much as 30% of the Eritrean military<br>
 
 **Military - note**<br>
 <p>in 2020-2021, the EDF assisted the Ethiopian Government in its war with the Tigray regional government, providing ground forces and combat aircraft; during the fighting, the EDF was accused of committing human rights abuses against civilians</p><br>

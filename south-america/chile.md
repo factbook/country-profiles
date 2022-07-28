@@ -526,7 +526,7 @@ $193.298 billion (2019 est.)<br>
 $181.089 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Chilean pesos (CLP) per US dollar -<br>
+_Currency_: Chilean pesos (CLP) per US dollar -<br>
 738.81 (2020 est.)<br>
 770.705 (2019 est.)<br>
 674.25 (2018 est.)<br>
@@ -680,7 +680,7 @@ _LNG terminal(s) (import)_: Mejillones, Quintero<br>
 
 **Military and security forces**<br>
 Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chile), Chilean Navy (Armada de Chile, includes marine units and coast guard or Maritime Territory and Merchant Marine Directorate (Directemar)), Chilean Air Force (Fuerza Aerea de Chile, FACh); Ministry of the Interior and Public Security: Carabineros de Chile (National Police Force) (2022)<br>
-note - Carabineros de Chile are responsible to both the Ministry of Defense and the Ministry of the Interior<br>
+<strong>note:</strong> the Carabineros de Chile are responsible to both the Ministry of Defense and the Ministry of the Interior<br>
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
@@ -697,7 +697,7 @@ the Chilean military inventory is comprised of a wide mix of mostly Western equi
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary male and female military service; selective compulsory service (there are usually enough volunteers to make compulsory service unnecessary); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2022)<br>
-note - as of 2021, women comprised approximately 18% of the armed forces<br>
+<strong>note:</strong> as of 2021, women comprised approximately 18% of the armed forces<br>
 
 **Military - note**<br>
 the Chilean Army was founded in 1810, but traces its origins back to the Army of the Kingdom of Chile, which was established by the Spanish Crown in the early 1600s; the Navy traces its origins to 1817; it was first led by a British officer and its first ships were largely crewed by American, British, and Irish sailors; by the 1880s, the Chilean Navy was one of the most powerful in the Americas, and included the world&rsquo;s first protected cruiser (a ship with an armored deck to protect vital machine spaces); Chile's military aviation was inaugurated in 1913 with the creation of a military aviation school (2022)<br>

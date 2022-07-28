@@ -447,7 +447,7 @@ $112 million (31 December 2013 est.)<br>
 $79 million (31 December 1998 est.)<br>
 
 **Exchange rates**<br>
-Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
+_Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
 110.2 (2017 est.)<br>
 107.84 (2016 est.)<br>
 107.84 (2015 est.)<br>

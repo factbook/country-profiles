@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Various ethnic groups occupied south western Africa prior to Germany establishing a colony over most of the territory in 1884. South Africa occupied the colony, then known as German South West Africa, in 1915 during World War I and administered it as a mandate until after World War II, when it annexed the territory.&nbsp; In 1966, the Marxist South-West Africa People's Organization (SWAPO) guerrilla group launched a war of independence for the area that became Namibia, but it was not until 1988 that South Africa agreed to end its administration in accordance with a UN peace plan for the entire region. Namibia gained independence in 1990 and has been governed by SWAPO since, though the party has dropped much of its Marxist ideology. President Hage GEINGOB was elected in 2014 in a landslide victory, replacing Hifikepunye POHAMBA who stepped down after serving two terms. SWAPO retained its parliamentary super majority in the 2014 elections. In 2019 elections, GEINGOB was reelected but by a substantially reduced majority and SWAPO narrowly lost its super majority in parliament. Namibia gained independence in 1990.<br>
+Various ethnic groups occupied southwestern Africa prior to Germany establishing a colony over most of the territory in 1884. South Africa occupied the colony, then known as German South West Africa, in 1915 during World War I and administered it as a mandate until after World War II, when it annexed the territory.&nbsp; In 1966, the Marxist South-West Africa People's Organization (SWAPO) guerrilla group launched a war of independence for the area that became Namibia, but it was not until 1988 that South Africa agreed to end its administration in accordance with a UN peace plan for the entire region. Namibia gained independence in 1990 and has been governed by SWAPO since, though the party has dropped much of its Marxist ideology. President Hage GEINGOB was elected in 2014 in a landslide victory, replacing Hifikepunye POHAMBA who stepped down after serving two terms. SWAPO retained its parliamentary super majority in the 2014 elections. In 2019 elections, GEINGOB was reelected but by a substantially reduced majority and SWAPO narrowly lost its super majority in parliament.&nbsp;<br>
 
 ## Geography
 
@@ -360,10 +360,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Hage GEINGOB (since 21 March 2015); Vice President Nangola MBUMBA (since 8 February 2018); note - the president is both chief of state and head of government<br>
-_head of government_: President Hage GEINGOB (since 21 March 2015); Vice President Nangola MBUMBA (since 8 February 2018); Prime Minister Saara KUUGONGELWA-AMADHILA (since 21 March 2015)&nbsp;<br>
+_head of government_: President Hage GEINGOB (since 21 March 2015); Vice President Nangola MBUMBA (since 8 February 2018); Prime Minister Saara KUUGONGELWA-AMADHILA (since 21 March 2015)<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
 _elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2019 (next to be held in 2024)<br>
-_election results_: Hage GEINGOB elected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (Independent) 29.4%, McHenry VENAANI (PDM) 5.3%, Bernadus SWARTBOOI (LPM) 2.7%, Apius AUCHAB (UDF) 2.7%, Esther MUINJANGUE (NUDO) 1.5%, other 2%<br>
+_election results_: Hage GEINGOB elected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (Independent) 29.4%, McHenry VENAANI (PDM) 5.3%, Bernadus SWARTBOOI (LPM) 2.7%, Apius AUCHAB (UDF) 2.7%, Esther MUINJANGUE (NUDO) 1.5%, other 2% (2019)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms); note - the Council primarily reviews legislation passed and referred by the National Assembly<br>National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)<br>
@@ -409,7 +409,7 @@ _lyrics/music_: Axali DOESEB<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Twyfelfontein or /Ui-//aes (c), Namib Sand Sea (n)<br>
+_selected World Heritage Site locales_: Twyfelfontein or /Ui-//aes (c); Namib Sand Sea (n)<br>
 
 ## Economy
 
@@ -548,7 +548,7 @@ $7.969 billion (31 December 2017 est.)<br>
 $6.904 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Namibian dollars (NAD) per US dollar -<br>
+_Currency_: Namibian dollars (NAD) per US dollar -<br>
 13.67 (2017 est.)<br>
 14.7096 (2016 est.)<br>
 14.7096 (2015 est.)<br>
@@ -711,7 +711,7 @@ the inventory of the Namibian Defense Force consists mostly of Soviet-era equipm
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service (men and women); no conscription (2021)<br>
-note - as of 2018, women comprised more than 20% of the active military<br>
+<strong>note:</strong> as of 2018, women comprised more than 20% of the active military<br>
 
 **Military - note**<br>
 <p>the Namibian Defense Force (NDF) was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF</p><br>
@@ -722,5 +722,5 @@ note - as of 2018, women comprised more than 20% of the active military<br>
 <p><em>Namibia-Angola-Botswana</em>: concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border</p> <p><em>Namibia-Botswana-Zambia-Zimbabwe</em>: Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; the Kazungula Bridge opened to traffic in May 2021</p> <p><em>Namibia-South Africa</em>: the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia claims a median line boundary, while South Africa supports the northern bank of the river</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,962 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 5,982 (Democratic Republic of the Congo) (refugees and asylum seekers) (2022)<br>
 

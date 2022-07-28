@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The Pacific coast of Nicaragua was settled as a Spanish colony from Panama in the early 16th century. Independence from Spain was declared in 1821 and the country became an independent republic in 1838. Britain occupied the Caribbean Coast in the first half of the 19th century, but gradually ceded control of the region in subsequent decades. Violent opposition to governmental manipulation and corruption spread to all classes by 1978 and resulted in a short-lived civil war that brought a civic-military coalition, spearheaded by the Marxist Sandinista guerrillas led by Daniel ORTEGA Saavedra to power in 1979. Nicaraguan aid to leftist rebels in El Salvador prompted the US to sponsor anti-Sandinista contra guerrillas through much of the 1980s. After losing free and fair elections in 1990, 1996, and 2001, former Sandinista President Daniel ORTEGA was elected president in 2006, 2011, 2016, and most recently in 2021. Municipal, regional, and national-level elections since 2008 have been marred by widespread irregularities. Democratic institutions have weakened under the ORTEGA administration as the president has garnered full control over all branches of government, especially after cracking down on a nationwide pro-democracy protest movement in 2018. In the lead-up to the 2021 presidential election, authorities arrested over 40 individuals linked to the political opposition, including presidential candidates, private sector leaders, NGO workers, human rights defenders, and journalists. Only five lesser-known presidential candidates of mostly small parties allied to ORTEGA's Sandinistas were allowed to run against ORTEGA in the November 2021 election.<br>
+The Pacific coast of Nicaragua was settled as a Spanish colony from Panama in the early 16th century. Independence from Spain was declared in 1821 and the country became an independent republic in 1838. Britain occupied the Caribbean Coast in the first half of the 19th century, but gradually ceded control of the region in subsequent decades. Violent opposition to governmental manipulation and corruption spread to all classes by 1978 and resulted in a short-lived civil war that brought a civic-military coalition, spearheaded by the Marxist Sandinista guerrillas led by Daniel ORTEGA Saavedra to power in 1979. Nicaraguan aid to leftist rebels in El Salvador prompted the US to sponsor anti-Sandinista contra guerrillas through much of the 1980s. After losing free and fair elections in 1990, 1996, and 2001, former Sandinista President Daniel ORTEGA was elected president in 2006, 2011, 2016, and most recently in 2021. Municipal, regional, and national-level elections since 2008 have been marred by widespread irregularities. Democratic institutions have weakened under the ORTEGA regime as the president has garnered full control over all branches of government, especially after cracking down on a nationwide pro-democracy protest movement in 2018. In the lead-up to the 2021 presidential election, authorities arrested over 40 individuals linked to the political opposition, including presidential candidates, private sector leaders, NGO workers, human rights defenders, and journalists. Only five lesser-known presidential candidates of mostly small parties allied to ORTEGA's Sandinistas were allowed to run against ORTEGA in the November 2021 election.<br>
 
 ## Geography
 
@@ -383,7 +383,7 @@ _lyrics/music_: Salomon Ibarra MAYORGA/traditional, arranged by Luis Abraham DEL
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
-_selected World Heritage Site locales_: Ruins of Le&oacute;n Viejo, Le&oacute;n Cathedral<br>
+_selected World Heritage Site locales_: Ruins of Le&oacute;n Viejo; Le&oacute;n Cathedral<br>
 
 ## Economy
 
@@ -524,7 +524,7 @@ $11.674 billion (2019 est.)<br>
 $11.771 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-cordobas (NIO) per US dollar -<br>
+_Currency_: cordobas (NIO) per US dollar -<br>
 30.11 (2017 est.)<br>
 28.678 (2016 est.)<br>
 28.678 (2015 est.)<br>
@@ -671,7 +671,7 @@ _major seaport(s)_: Bluefields, Corinto<br>
 
 **Military and security forces**<br>
 Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); Naval Forces (Fuerza Naval); Air Forces (Fuerza Aérea); Special Operations Command (Comando de Operaciones Especiales); Nicaraguan National Police (2022)<br>
-note - both the military and the police report directly to the president<br>
+<strong>note:</strong> both the military and the police report directly to the president<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2021 est.)<br>

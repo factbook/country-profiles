@@ -534,7 +534,7 @@ $2,463,208,000,000 (2019 est.)<br>
 $2,533,153,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -693,7 +693,7 @@ _LNG terminal(s) (import)_: Panigaglia (La Spezia), Adriatic (Porto Levante), Or
 
 **Military and security forces**<br>
 Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italiana, MMI; includes aviation, marines), Italian Air Force (Aeronautica Militare Italiana, AMI); Carabinieri Corps (Arma dei Carabinieri, CC) (2022)<br>
-note(s) - the Carabinieri is the national gendarmerie; for its civil police functions, the Carabinieri falls under the control of the Ministry of the Interior; the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
+<strong>note 1:</strong> the Carabinieri is the national gendarmerie; for its civil police functions, the Carabinieri falls under the control of the Ministry of the Interior<br><br><strong>note 2:</strong> the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
@@ -710,7 +710,7 @@ the Italian Armed Forces' inventory includes a mix of domestically-produced, joi
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; women may serve in any military branch; Italian citizenship required; 1-year service obligation; conscription abolished 2004 (2021)<br>
-note - as of 2019, women made up about 6% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2019, women made up about 6% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 120 Djibouti; 900 Middle East/Iraq/Kuwait (NATO, European Assistance Mission Iraq); 640 Kosovo (NATO/KFOR); 250 Latvia (NATO); 1,190 Lebanon (UNIFIL); 400 Libya; 290 Niger; 250 Romania (NATO); 150 Somalia (EUTM) (2022)<br>
@@ -723,6 +723,7 @@ Italy is a member of NATO and was one of the original 12 countries to sign the N
 
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 
@@ -730,9 +731,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p> <p><em>Italy-Austria-Switzerland</em>: borders are shifting because glacier peaks that had served as a natural boundary are melting</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 144,838 (Ukraine) (as of 6 July 2022)<br>
+_refugees (country of origin)_: 19,441 (Nigeria), 15,337 (Pakistan), 12,962 (Afghanistan), 10,609 (Mali), 7,901 (Somalia), 5,845 (Gambia), 5,079 (Iraq) (mid-year 2021); 151,863 (Ukraine) (as of 19 July 2022)<br>
 _stateless persons_: 3,000 (mid-year 2021)<br>
-<strong>note:</strong> 624,675 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
+<strong>note:</strong> 627,829 estimated refugee and migrant arrivals (January 2015-July 2022)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

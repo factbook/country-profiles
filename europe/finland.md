@@ -293,8 +293,8 @@ _agricultural_: 50 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Finland<br>
 _conventional short form_: Finland<br>
-_local long form_: Suomen tasavalta/Republiken Finland<br>
-_local short form_: Suomi/Finland<br>
+_local long form_: Suomen tasavalta (Finnish)/ Republiken Finland (Swedish)<br>
+_local short form_: Suomi (Finnish)/ Finland (Swedish)<br>
 _etymology_: name may derive from the ancient Fenni peoples who are first described as living in northeastern Europe in the first centuries A.D.<br>
 
 **Government type**<br>
@@ -345,7 +345,7 @@ _election results_: Sauli NIINISTO reelected president; percent of vote Sauli NI
 **Legislative branch**<br>
 _description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: last held on 14 April 2019 (next to be held in April 2023)<br>
-_election results_: percent of vote by party/coalition - SDP 17.7%, PS 17.5%, Kok 17.0%. Center Party&nbsp; 13.8%, Vihr 11.5%, Vas 8.2%, SFP 4.5%, KD 3.9%, other 5.9%; seats by party/coalition - SDP 40, PS 39, Kok 38, Centre Party 31, Vihr 20, Vas 16, SFP 9, KD 5; composition men 109, women 91, percent of women 45.5%<br>
+_election results_: percent of vote by party/coalition - SDP 20%, PS 19.5%, Kok 19.0%. Center Party&nbsp; 15.5%, Vihr 10%, Vas 8%, SFP 4.5%, KD 2.5%, Aland .5%; other .5%; seats by party/coalition - SDP 40, PS 39, Kok 38, Centre Party 31, Vihr 20, Vas 16, SFP 9, KD 5; Aland 1; other 1; composition men 109, women 91, percent of women 45.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
@@ -387,7 +387,7 @@ _lyrics/music_: Johan Ludvig RUNEBERG/Fredrik PACIUS<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Fortress of Suomenlinna (c), Old Rauma (c), Pet&auml;j&auml;vesi Old Church (c), Verla Groundwood and Board Mill (c), Bronze Age Burial Site of Sammallahdenm&auml;ki (c), High Coast / Kvarken Archipelago (n), Struve Geodetic Arc (c)<br>
+_selected World Heritage Site locales_: Fortress of Suomenlinna (c); Old Rauma (c); Pet&auml;j&auml;vesi Old Church (c); Verla Groundwood and Board Mill (c); Bronze Age Burial Site of Sammallahdenm&auml;ki (c); High Coast / Kvarken Archipelago (n); Struve Geodetic Arc (c)<br>
 
 ## Economy
 
@@ -528,7 +528,7 @@ $631.549 billion (2019 est.)<br>
 $536.301 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -682,7 +682,7 @@ _LNG terminal(s) (import)_: Pori, Tornio Manga; note - an additional terminal at
 
 **Military and security forces**<br>
 Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat); Ministry of the Interior: Border Guard (Rajavartiolaitos) (2022)<br>
-note - the Border Guard becomes part of the FDF in wartime<br>
+<strong>note:</strong> the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
@@ -699,7 +699,7 @@ the inventory of the Finnish Defense Forces consists of a wide mix of mostly mod
 
 **Military service age and obligation**<br>
 at age 18, all Finnish men are obligated to serve 5.5-12 months of service within a branch of the military or the Border Guard (length of service depends on the type of duty), and women 18-29 may volunteer for service; there is also an option to perform non-military service which lasts for 8.5 or 11.5 months; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 50 for rank-and-file and 60 for non-commissioned and commissioned officers (2022)<br>
-note(s) - the military trains approximately 21,000 (20,000 Army) conscripts each year; as of 2019, women made up about 4% of the military's full-time personnel<br>
+<strong>note:</strong> the military trains approximately 21,000 (20,000 Army) conscripts each year; as of 2019, women made up about 4% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 160 Lebanon (UNIFIL) (Jan 2022)<br>
@@ -713,6 +713,6 @@ note(s) - the military trains approximately 21,000 (20,000 Army) conscripts each
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 30,372 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 9,053 (Iraq) (mid-year 2021); 30,372 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 3,416 (mid-year 2021)<br>
 

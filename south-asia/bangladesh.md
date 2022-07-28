@@ -412,7 +412,7 @@ _lyrics/music_: Rabindranath TAGORE<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (2 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Bagerhat Historic Mosque (c), Ruins of the Buddhist Vihara at Paharpur (c), Sundarbans (n)<br>
+_selected World Heritage Site locales_: Bagerhat Historic Mosque (c); Ruins of the Buddhist Vihara at Paharpur (c); Sundarbans (n)<br>
 
 ## Economy
 
@@ -553,7 +553,7 @@ $50.26 billion (31 December 2017 est.)<br>
 $41.85 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-taka (BDT) per US dollar -<br>
+_Currency_: taka (BDT) per US dollar -<br>
 84.75 (2020 est.)<br>
 85 (2019 est.)<br>
 83.715 (2018 est.)<br>
@@ -712,7 +712,7 @@ _river port(s)_: Mongla Port (Sela River)<br>
 
 **Military and security forces**<br>
 Bangladesh Defense Force: Bangladesh Army, Bangladesh Navy, Bangladesh Air Force; Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2022)<br>
-note(s) - the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force founded in 2004 and composed of members of the police, army, navy, air force, and border guards seconded to the RAB from their respective units; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
+<strong>note:</strong> the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force founded in 2004 and composed of members of the police, Army, Navy, Air Force, and Border Guards seconded to the RAB from their respective units; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2021 est.)<br>

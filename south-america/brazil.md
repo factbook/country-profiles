@@ -422,7 +422,7 @@ _lyrics/music_: Joaquim Osorio Duque ESTRADA/Francisco Manoel DA SILVA<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 23 (15 cultural, 7 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: Brasilia (c), Historic Salvador de Bahia (c), Historic Ouro Preto (c), Historic Olinda (c), Iguaçu National Park (n), Jesuit Missions of the Guaranis (c), Rio de Janeiro: Carioca Landscapes (c), Central Amazon Conservation Complex (n), Atlantic Forest South-East Reserves (n)<br>
+_selected World Heritage Site locales_: Brasilia (c); Historic Salvador de Bahia (c); Historic Ouro Preto (c); Historic Olinda (c); Iguaçu National Park (n); Jesuit Missions of the Guaranis (c); Rio de Janeiro: Carioca Landscapes (c); Central Amazon Conservation Complex (n); Atlantic Forest South-East Reserves (n); Paraty and Ilha Grande – Culture and Biodiversity (m)<br>
 
 ## Economy
 
@@ -562,7 +562,7 @@ $681.336 billion (2019 est.)<br>
 $660.693 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-reals (BRL) per US dollar -<br>
+_Currency_: reals (BRL) per US dollar -<br>
 5.12745 (2020 est.)<br>
 4.14915 (2019 est.)<br>
 3.862 (2018 est.)<br>
@@ -724,7 +724,7 @@ _dry bulk cargo port(s)_: Sepetiba ore terminal, Tubarao<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Brazilian Armed Forces: Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy (Marinha do Brasil, MB, includes Naval Aviation (Aviacao Naval Brasileira) and Marine Corps (Corpo de Fuzileiros Navais)), Brazilian Air Force (Forca Aerea Brasileira, FAB) (2021)<br>
+Brazilian Armed Forces: Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy (Marinha do Brasil, MB, includes Naval Aviation (Aviacao Naval Brasileira) and Marine Corps (Corpo de Fuzileiros Navais)), Brazilian Air Force (Forca Aerea Brasileira, FAB) (2022)<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2021 est.)<br>
@@ -741,7 +741,7 @@ the Brazilian military's inventory consists of a mix of domestically-produced an
 
 **Military service age and obligation**<br>
 18-45 years of age for compulsory military service for men (women exempted); only 5-10% of those inducted are required to serve; conscript service obligation is 10-12 months; 17-45 years of age for voluntary service (2022)<br>
-note - in 2020, women comprised approximately 9% of the Brazilian military<br>
+<strong>note:</strong> in 2020, women comprised approximately 9% of the Brazilian military<br>
 
 **Military - note**<br>
 the origins of Brazil's military stretch back to the 1640s<br><br>the three national police forces – the Federal Police, Federal Highway Police, and Federal Railway Police – have domestic security responsibilities and report to the Ministry of Justice and Public Security (Ministry of Justice); there are two distinct units within the state police forces: the civil police, which performs an investigative role, and the military police, charged with maintaining law and order in the states and the Federal District; despite the name, military police forces report to the Ministry of Justice, not the Ministry of Defense; the National Public Security Force (Forca Nacional de Seguranca Publica or SENASP) is a national police force made up of Military Police from various states; the armed forces also have some domestic security responsibilities and report to the Ministry of Defense<br><br>Brazil has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments (2022)<br>

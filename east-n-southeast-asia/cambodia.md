@@ -407,7 +407,7 @@ _lyrics/music_: CHUON NAT/F. PERRUCHOT and J. JEKYLL<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>
-_selected World Heritage Site locales_: Angkor, Temple of Preah Vihear, Sambor Prei Kuk<br>
+_selected World Heritage Site locales_: Angkor; Temple of Preah Vihear; Sambor Prei Kuk<br>
 
 ## Economy
 
@@ -545,7 +545,7 @@ $11.87 billion (31 December 2017 est.)<br>
 $10.3 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-riels (KHR) per US dollar -<br>
+_Currency_: riels (KHR) per US dollar -<br>
 4,055 (2017 est.)<br>
 4,058.7 (2016 est.)<br>
 4,058.7 (2015 est.)<br>
@@ -715,7 +715,7 @@ the Royal Cambodian Armed Forces are armed largely with older Chinese and Russia
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory and voluntary military service (conscription only selectively enforced since 1993); women may volunteer (2021)<br>
-note - in 2018, women made up an estimated 6% of the active duty military<br>
+<strong>note: </strong>in 2018, women made up an estimated 6% of the active duty military<br>
 
 **Military deployments**<br>
 200 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL); 290 Mali (MINUSMA) (Jan 2022)<br>

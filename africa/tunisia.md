@@ -311,7 +311,7 @@ _etymology_: three possibilities exist for the derivation of the name; originall
 Independence Day, 20 March (1956); Revolution and Youth Day, 14 January (2011)<br>
 
 **Constitution**<br>
-_history_: <p>history: several previous; latest approved by Constituent Assembly 26 January 2014, signed by the president, prime minister, and Constituent Assembly speaker on 27 January 2014; note - in September 2021, President Kais SAIED issued a decree granting him certain executive, legislative, and judiciary powers, and the authority to rule by decree, but allowed continued implementation of the preamble and chapters one and two of the Constitution, which guarantee rights and freedoms; in mid-December 202, SAIED announced that a constitutional referendum would be held on 25 July 2022</p><br>
+_history_: <p>history: several previous; latest approved by Constituent Assembly 26 January 2014, signed by the president, prime minister, and Constituent Assembly speaker on 27 January 2014; note - in September 2021, President Kais SAIED issued a decree granting him certain executive, legislative, and judiciary powers, and the authority to rule by decree, but allowed continued implementation of the preamble and chapters one and two of the Constitution, which guarantee rights and freedoms; note - in a 25 July 2022 referendum, voters supported a new constitution proposed by the president</p><br>
 _amendments_: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds majority vote by the Assembly; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage<br>
 
 **Legal system**<br>
@@ -382,7 +382,7 @@ _lyrics/music_: Mustafa Sadik AL-RAFII and Aboul-Qacem ECHEBBI/Mohamad Abdel WAH
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (7 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Amphitheatre of El Jem (c), Archaeological Site of Carthage (c), Medina of Tunis (c), Ichkeul National Park (n), Punic Town of Kerkuane (c), Kairouan (c), Medina of Sousse (c), Dougga / Thugga (c)<br>
+_selected World Heritage Site locales_: Amphitheatre of El Jem (c); Archaeological Site of Carthage (c); Medina of Tunis (c); Ichkeul National Park (n); Punic Town of Kerkuane (c); Kairouan (c); Medina of Sousse (c); Dougga / Thugga (c)<br>
 
 ## Economy
 
@@ -519,7 +519,7 @@ $35.911 billion (2019 est.)<br>
 $33.79 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Tunisian dinars (TND) per US dollar -<br>
+_Currency_: Tunisian dinars (TND) per US dollar -<br>
 2.71795 (2020 est.)<br>
 2.8518 (2019 est.)<br>
 2.95875 (2018 est.)<br>
@@ -667,7 +667,7 @@ _major seaport(s)_: Bizerte, Gabes, Rades, Sfax, Skhira<br>
 
 **Military and security forces**<br>
 Tunisian Armed Forces (Forces Armées Tunisiennes, FAT): Tunisian Army (includes Air Defense Force), Tunisian Navy, Tunisia Air Force; Ministry of Interior: National Police, National Guard (2022)<br>
-note - the National Police has primary responsibility for law enforcement in the major cities, while the National Guard (gendarmerie) oversees border security and patrols smaller towns and rural areas<br>
+<strong>note:</strong> the National Police has primary responsibility for law enforcement in the major cities, while the National Guard (gendarmerie) oversees border security and patrols smaller towns and rural areas<br>
 
 **Military expenditures**<br>
 3% of GDP (2021 est.)<br>
@@ -684,7 +684,7 @@ the Tunisian military's inventory includes mostly older or secondhand US and Eur
 
 **Military service age and obligation**<br>
 men 20-23 years of age for compulsory service, 1-year service obligation; individuals engaged in higher education or vocational training programs prior to their military drafting are allowed to delay service until they have completed their programs; 18-23 years of age for voluntary service; women may volunteer (2022)<br>
-note(s) - as of 2021, approximately 20-25,000 active military personnel were conscripts; women have been allowed in the service since 1975 as volunteers only, although as recently as 2018, the Tunisian Government has discussed the possibility of conscripting women; as of 2018, women constituted less than 7% of the military and served in all three services<br>
+<strong>note 1: </strong>as of 2021, approximately 20-25,000 active military personnel were conscripts<br><br><strong>note 2:</strong> women have been allowed in the service since 1975 as volunteers only, although as recently as 2018, the Tunisian Government has discussed the possibility of conscripting women; as of 2018, women constituted less than 7% of the military and served in all three services<br>
 
 **Military - note**<br>
 <p>as of 2022, the Tunisian military’s primary operational areas of focus were counter-terrorism, counterinsurgency, and border security; it was conducting counter-terrorism and counterinsurgency operations against al-Qa’ida in the Islamic Maghreb (AQIM) and Islamic State of ash-Sham (ISIS)-linked militants who have been fighting a low-intensity insurgency, mostly in the mountainous region along the border with Algeria, particularly the Chaambi Mountains near the city of Kasserine; the military maintained the lead role for security in this area and also routinely conducted joint operations with Algerian security forces against these groups, as well to counter smuggling and trafficking activities; the military in recent years also has increased its role in securing the southern border against militant activity, smuggling, and trafficking from war-torn Libya; since 2015, Tunisia has constructed a complex structure of berms, trenches, and water-filled moats, complemented by electronic surveillance equipment such as motion detectors, ground surveillance radars, and infrared sensors along the 220-kilometer border with Libya; in the remote southern areas of the border with Libya, buffer/exclusion zones have also been established where the military has the lead for counter-terrorism efforts; outside of these border areas, the Ministry of Interior has the lead responsibility for counter-terrorism in Tunisia, particularly for urban areas; the National Police Anti-Terrorism Brigade (BAT) and the National Guard Special Unit have the lead for MOI counterterrorism operations<br><br>Tunisia has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>

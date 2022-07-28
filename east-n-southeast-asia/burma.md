@@ -418,7 +418,7 @@ _lyrics/music_: SAYA TIN<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (both cultural)<br>
-_selected World Heritage Site locales_: Pyu Ancient Cities, Bagan<br>
+_selected World Heritage Site locales_: Pyu Ancient Cities; Bagan<br>
 
 ## Economy
 
@@ -551,7 +551,7 @@ $6.594 billion (31 December 2017 est.)<br>
 $8.2 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-kyats (MMK) per US dollar -<br>
+_Currency_: kyats (MMK) per US dollar -<br>
 1,361.9 (2017 est.)<br>
 1,234.87 (2016 est.)<br>
 1,234.87 (2015 est.)<br>
@@ -709,7 +709,7 @@ _river port(s)_: Rangoon (Yangon) (Rangoon River)<br>
 
 **Military and security forces**<br>
 Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia; Ministry of Home Affairs: People's Police Force; Border Guard Forces/Police (2022)<br>
-note(s) - under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br>
+<strong>note:</strong> under the 2008 constitution, the Tatmadaw controls appointments of senior officials to lead the Ministry of Defense, the Ministry of Border Affairs, and the Ministry of Home Affairs; in March 2022, a new law gave the commander-in-chief of the Tatmadaw the authority to appoint or remove the head of the police force<br>
 
 **Military expenditures**<br>
 4.1% of GDP (2019 est.) (approximately $7.7 billion)<br>

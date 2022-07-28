@@ -144,7 +144,7 @@ _urban population_: 70.8% of total population (2022)<br>
 _rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-278,000 Sucre (constitutional capital) (2018); 1.908 million LA PAZ (capital), 1.784 million Santa Cruz, 1.369 million Cochabamba (2022)<br>
+1.908 million LA PAZ (capital), 1.784 million Santa Cruz, 1.369 million Cochabamba (2022); 278,000 Sucre (constitutional capital) (2018)<br>
 
 **Sex ratio**<br>
 _at birth_: 1.05 male(s)/female<br>
@@ -412,7 +412,7 @@ _lyrics/music_: Jose Ignacio de SANJINES/Leopoldo Benedetto VINCENTI<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 7 (6 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: City of Potosi (c), El Fuerte de Samaipata (c), Historic Sucre (c), Jesuit Missions of Chiquitos (c), Noel Kempff Mercado National Park (n), Tiahuanacu (c),&nbsp; Qhapaq &Ntilde;an/Andean Road System (c)<br>
+_selected World Heritage Site locales_: City of Potosi (c); El Fuerte de Samaipata (c); Historic Sucre (c); Jesuit Missions of Chiquitos (c); Noel Kempff Mercado National Park (n); Tiahuanacu (c); Qhapaq &Ntilde;an/Andean Road System (c)<br>
 
 ## Economy
 
@@ -553,7 +553,7 @@ $12.81 billion (31 December 2017 est.)<br>
 $7.268 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-bolivianos (BOB) per US dollar -<br>
+_Currency_: bolivianos (BOB) per US dollar -<br>
 6.91 (2020 est.)<br>
 6.91 (2019 est.)<br>
 6.91 (2018 est.)<br>
@@ -709,7 +709,7 @@ _river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>
 
 **Military and security forces**<br>
 Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB); Ministry of Government: National Police (Policía Nacional de Bolivia, PNB; includes paramilitary Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotráfico, FELCN)) and an Anti-Terrorist Group (GAT) (2022)<br>
-note(s) - the National Police is part of the reserves for the Armed Forces; the police and military share for border enforcement<br>
+<strong>note:</strong> the National Police is part of the reserves for the Armed Forces; the police and military share for border enforcement<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>

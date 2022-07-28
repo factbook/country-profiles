@@ -518,7 +518,7 @@ $30.06 billion (31 December 2017 est.)<br>
 $29.89 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Cuban pesos (CUP) per US dollar -<br>
+_Currency_: Cuban pesos (CUP) per US dollar -<br>
 1 (2017 est.)<br>
 1 (2016 est.)<br>
 1 (2015 est.)<br>

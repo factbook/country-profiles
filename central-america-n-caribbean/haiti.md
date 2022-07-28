@@ -292,8 +292,8 @@ _agricultural_: 1.209 billion cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Haiti<br>
 _conventional short form_: Haiti<br>
-_local long form_: Republique d'Haiti/Repiblik d Ayiti<br>
-_local short form_: Haiti/Ayiti<br>
+_local long form_: Republique d'Haiti (French)/ Repiblik d Ayiti (Haitian Creole)<br>
+_local short form_: Haiti (French)/ Ayiti (Haitian Creole)<br>
 _etymology_: the native Taino name means "Land of High Mountains" and was originally applied to the entire island of Hispaniola<br>
 
 **Government type**<br>
@@ -516,7 +516,7 @@ $2.762 billion (31 December 2017 est.)<br>
 $2.17 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-gourdes (HTG) per US dollar -<br>
+_Currency_: gourdes (HTG) per US dollar -<br>
 65.21 (2017 est.)<br>
 63.34 (2016 est.)<br>
 63.34 (2015 est.)<br>
@@ -653,7 +653,7 @@ _major seaport(s)_: Cap-Haitien, Gonaives, Jacmel, Port-au-Prince<br>
 
 **Military and security forces**<br>
 the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018 (2022)<br>
-note - the Haitian National Police (under the Ministry of Justice and Public Security) has a number of specialized units, including a coast guard, a presidential guard, and a paramilitary rapid-response Motorized Intervention Unit or BIM <p class="gmail-css-axufdj"> </p><br>
+<strong>note: </strong>the Haitian National Police (under the Ministry of Justice and Public Security) has a number of specialized units, including a coast guard, a presidential guard, and a paramilitary rapid-response Motorized Intervention Unit or BIM <p class="gmail-css-axufdj"> </p><br>
 
 **Military expenditures**<br>
 not available<br>
@@ -668,7 +668,7 @@ not available<br>
 not available<br>
 
 **Military - note**<br>
-<p>according to the Haitian Government, the mission of the reconstituted armed forces will focus on patrolling the border with the Dominican Republic, combating smuggling, and executing recovery efforts after natural disasters<br><br>the UN Stabilization Mission in Haiti (MINUSTAH) operated in Haiti from 2004 until 2017; its mission was to help restore stability after President Bertrand ARISTIDE fled the country, including assisting with the political process, strengthening government institutions, and promoting and protecting human rights; following the completion of MINUSTAH’s mandate in 2017, a smaller peacekeeping mission, the UN Mission for Justice Support in Haiti (MINUJUSTH), operated until 2019; its mission was to assist with the further development and strengthening of the national police, as well as Haiti’s justice and prison systems, and to promote and protect human rights; in 2019, the UN established the UN Integrated Office in Haiti (BINUH) with the political mission of advising the Haiti Government in elections, governance, and security; BINUH's current mandate ends in July 2022 unless extended </p><br>
+<p>according to the Haitian Government, the mission of the reconstituted armed forces will focus on patrolling the border with the Dominican Republic, combating smuggling, and executing recovery efforts after natural disasters<br><br>the UN Stabilization Mission in Haiti (MINUSTAH) operated in Haiti from 2004 until 2017; its mission was to help restore stability after President Bertrand ARISTIDE fled the country, including assisting with the political process, strengthening government institutions, and promoting and protecting human rights; following the completion of MINUSTAH’s mandate in 2017, a smaller peacekeeping mission, the UN Mission for Justice Support in Haiti (MINUJUSTH), operated until 2019; its mission was to assist with the further development and strengthening of the national police, as well as Haiti’s justice and prison systems, and to promote and protect human rights; in 2019, the UN established the UN Integrated Office in Haiti (BINUH) with the political mission of advising the Haiti Government in elections, governance, and security; BINUH's current mandate last until July 2023 </p><br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Haiti are a risk for armed robbery against ships; in 2021, four attacks against commercial vessels were reported, a slight decrease from the five attacks reported in 2020; most of these occurred in the main port of Port-au-Prince while ships were berthed or at anchor<br>

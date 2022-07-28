@@ -402,7 +402,7 @@ refined petroleum, beef products, poultry meats, engine parts, packaged medicine
 $3.67 million (2004)<br>
 
 **Exchange rates**<br>
-Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
+_Currency_: Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
 110.2 (2015 est.)<br>
 89.8 (2014 est.)<br>
 89.85 (2013 est.)<br>

@@ -339,9 +339,9 @@ _residency requirement for naturalization_: 10 years<br>
 **Executive branch**<br>
 _chief of state_: President Ali BONGO Ondimba (since 16 October 2009)<br>
 _head of government_: Prime Minister Rose Christiane Ossouka RAPONDA (since 16 July 2020)<br>
-_cabinet_: Council of Ministers appointed by the prime minister in consultation with the president&nbsp;<br>
+_cabinet_: Council of Ministers appointed by the prime minister in consultation with the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 27 August 2016 (next to be held in August 2023); prime minister appointed by the president<br>
-_election results_: Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br>
+_election results_: Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0% (2016)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (102 seats; members indirectly elected by municipal councils and departmental assemblies by absolute majority vote in 2 rounds if needed; members serve 6-year terms)<br>National Assembly or Assemblee Nationale (143 seats; members elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 5-year terms)<br>
@@ -387,7 +387,7 @@ _lyrics/music_: Georges Aleka DAMAS<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: Ecosystem and Relict Cultural Landscape of Lop&eacute;-Okanda (m), Ivindo National Park (n)<br>
+_selected World Heritage Site locales_: Ecosystem and Relict Cultural Landscape of Lop&eacute;-Okanda (m); Ivindo National Park (n)<br>
 
 ## Economy
 
@@ -520,7 +520,7 @@ $6.49 billion (31 December 2017 est.)<br>
 $5.321 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+_Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
 605.3 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>

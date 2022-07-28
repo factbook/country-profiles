@@ -283,8 +283,8 @@ _agricultural_: 50 million cubic meters (2017 est.)<br>
 **Country name**<br>
 _conventional long form_: Republic of Fiji<br>
 _conventional short form_: Fiji<br>
-_local long form_: Republic of Fiji/Matanitu ko Viti<br>
-_local short form_: Fiji/Viti<br>
+_local long form_: Republic of Fiji (English)/ Matanitu ko Viti (Fijian)<br>
+_local short form_: Fiji (English)/ Viti (Fijian)<br>
 _etymology_: the Fijians called their home Viti, but the neighboring Tongans called it Fisi, and in the Anglicized spelling of the Tongan pronunciation - promulgated by explorer Captain James COOK - the designation became Fiji<br>
 
 **Government type**<br>
@@ -511,7 +511,7 @@ $1.022 billion (31 December 2017 est.)<br>
 $696.4 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Fijian dollars (FJD) per US dollar -<br>
+_Currency_: Fijian dollars (FJD) per US dollar -<br>
 2.05955 (2020 est.)<br>
 2.17345 (2019 est.)<br>
 2.1104 (2018 est.)<br>
@@ -659,8 +659,8 @@ _major seaport(s)_: Lautoka, Levuka, Suva<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command; Fiji Police Force (2021)<br>
-the RFMF is subordinate to the president as the commander in chief, while the Fiji Police Force reports to the the Ministry of Defense, National Security, and Policing<br>
+Republic of Fiji Military Force (RFMF): Land Force Command, Maritime Command; Fiji Police Force (2022)<br>
+<strong>note: </strong>the RFMF is subordinate to the president as the commander in chief, while the Fiji Police Force reports to the the Ministry of Defense, National Security, and Policing<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
@@ -682,7 +682,7 @@ the RFMF is lightly armed and equipped; Australia has provided patrol boats and 
 170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (2022)<br>
 
 **Military - note**<br>
-<p>the RFMF has a history of intervening in the country’s politics since the late 1980s, including coups in 1987 and 2006, and a mutiny in 2000</p> <p>the RFMF also has a long tradition of participating in UN peacekeeping operations; since its first deployment of troops to South Lebanon in 1978 under the United Nations Interim Force in Lebanon (UNIFIL), it has deployed troops on nearly 20 additional UN missions</p><br>
+the RFMF has a history of intervening in the country’s politics since the late 1980s, including coups in 1987 and 2006, and a mutiny in 2000 <br><br>the RFMF also has a long tradition of participating in UN peacekeeping operations; since its first deployment of troops to South Lebanon in 1978 under the United Nations Interim Force in Lebanon (UNIFIL), it has deployed troops on nearly 20 additional UN missions (2022)<br>
 
 ## Transnational Issues
 

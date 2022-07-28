@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-The Slovene lands were part of the Austro-Hungarian Empire until the latter's dissolution at the end of World War I. In 1918, the Slovenes joined the Serbs and Croats in forming a new multinational state, which was named Yugoslavia in 1929. After World War II, Slovenia was one of the republics in the restored Yugoslavia, which, though communist, soon distanced itself from the Soviet Union and spearheaded the Non-Aligned Movement. Dissatisfied with the exercise of power by the majority Serbs, the Slovenes succeeded in establishing their independence in 1991 after a short 10-day war. Historical ties to Western Europe, a growing economy, and a stable democracy have assisted in Slovenia's postcommunist transition. Slovenia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone and the Schengen zone in 2007.<br>
+The Slovene lands were part of the Austro-Hungarian Empire until the latter's dissolution at the end of World War I. In 1918, the Slovenes joined the Serbs and Croats in forming a new multinational state, which was named Yugoslavia in 1929. After World War II, Slovenia was one of the republics in the restored Yugoslavia, which, though communist, soon distanced itself from the Soviet Union and spearheaded the Non-Aligned Movement. Dissatisfied with the exercise of power by the majority Serbs, the Slovenes succeeded in establishing their independence in 1991 after a short 10-day war. Historical ties to Western Europe, a growing economy, and a stable democracy have assisted in Slovenia's postcommunist transition. Slovenia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone and the Schengen Area in 2007.<br>
 
 ## Geography
 
@@ -333,12 +333,12 @@ _residency requirement for naturalization_: 10 years, the last 5 of which have b
 _chief of state_: President Borut PAHOR (since 22 December 2012)<br>
 _head of government_: Prime Minister Robert GOLOB (since 25 May 2022)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second consecutive term); election last held on 22 October with a runoff on 12 November 2017 (next election to be held by November 2022); following National Assembly elections, the leader of the majority party or majority coalition usually nominated prime minister by the president and elected by the National Assembly<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second consecutive term); election last held on 22 October with a runoff on 12 November 2017 (next election to be held on 23 October 2022); following National Assembly elections, the leader of the majority party or majority coalition usually nominated prime minister by the president and elected by the National Assembly<br>
 _election results_: <em><br>2017:</em> Borut PAHOR is reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%; Robert GOLOB (GS) elected prime minister on 25 May 2022, National Assembly vote - 54-30<br><br><em>2012:</em> Borut PAHOR elected president; percent of vote in second round - Borut PAHOR (SD) 67.4%, Danilo TURK (independent) 32.6%; note - a snap election was held on 13 July 2014 following the resignation of Prime Minister Alenka BRATUSEK on 5 May 2014; Miro CERAR (SMC) elected prime minister; National Assembly vote - 57 to 11<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br>National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br>National Council - last held on 22 November 2017 (next to be held in 2022)<br>National Assembly - last held on 24 April 2022 (next to be held in 2026)<br>
+_elections_: <br>National Council - last held on 22 November 2017 (next to be held on 23 October 2022)<br>National Assembly - last held on 24 April 2022 (next to be held in 2026)<br>
 _election results_: <br>National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br>National Assembly - percent of vote by party - GS 34.5%, SDS 23.5%, NSi 6.9%, SD 6.7%, Levica 4.4%, other 24%; seats by party - GS 41, SDS 27, NSi 8, SD 7, Levica 5; composition - men 54, women 36, percent of women 40%; note - total Parliament percent of women 31%<br>
 
 **Judicial branch**<br>
@@ -381,7 +381,7 @@ _lyrics/music_: France PRESEREN/Stanko PREMRL<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: &Scaron;kocjan Caves (n), Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (n), Prehistoric Pile Dwellings around the Alps (c), Heritage of Mercury: Almad&eacute;n and Idrija (c), The works of Jože Plečnik in Ljubljana (c)<br>
+_selected World Heritage Site locales_: &Scaron;kocjan Caves (n); Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe (n); Prehistoric Pile Dwellings around the Alps (c); Heritage of Mercury: Almad&eacute;n and Idrija (c); The works of Jože Plečnik in Ljubljana (c)<br>
 
 ## Economy
 
@@ -521,7 +521,7 @@ $48.656 billion (2019 est.)<br>
 $50.004 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -686,7 +686,7 @@ the inventory of the Slovenian Armed Forces is a mix of Soviet-era and smaller q
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service (men and women); conscription abolished in 2003 (2021)<br>
-note - as of 2019, women comprised about 15% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2019, women comprised about 15% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 200 Kosovo (NATO) (2022)<br>
@@ -701,7 +701,7 @@ Slovenia became a member of NATO in 2004; Hungary and Italy provide NATO's air p
 <p><em>Slovenia-Austria</em>: none identified</p> <p><em>Slovenia-Croatia</em>: since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea; in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU; in June 2017, the Permanent Court of Arbitration issued a ruling on the border, but Croatia had withdrawn from the proceedings in 2015 and refused to implement it; as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia; Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements</p> <p><em>Slovenia-Hungary</em>: none identified</p> <p><em>Slovenia-Italy</em>: none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,962 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 6,894 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 10 (2020)<br>
 <strong>note:  </strong>541,972 estimated refugee and migrant arrivals (January 2015-June 2022)<br>
 

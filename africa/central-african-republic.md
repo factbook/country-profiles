@@ -408,7 +408,7 @@ _lyrics/music_: Barthelemy BOGANDA/Herbert PEPPER<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (natural)<br>
-_selected World Heritage Site locales_: Manovo-Gounda St. Floris National Park, Sangha Trinational Forest<br>
+_selected World Heritage Site locales_: Manovo-Gounda St. Floris National Park; Sangha Trinational Forest<br>
 
 ## Economy
 
@@ -529,7 +529,7 @@ $779.9 million (31 December 2017 est.)<br>
 $691.5 million (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
+_Currency_: Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar -<br>
 605.3 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>
@@ -670,7 +670,7 @@ Nola (Sangha)<br>
 
 **Military and security forces**<br>
 Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine); Ministry of Interior: National Gendarmerie (Gendarmerie Nationale), National Police (2022)<br>
-note - in 2019-2021, CAR created three Mixed Special Security units (<em>Unités Spéciales Mixtes de Sécurité</em> or USMS), regionally based battalion-sized units comprised of about 40% government and 60% rebel soldiers that are intended to provide security along transportation corridors and at mining sites; the units are intended to be transitional in nature with a scheduled deployment time of two years<br>
+<strong>note:</strong> in 2019-2021, the CAR created three Mixed Special Security units (<em>Unités Spéciales Mixtes de Sécurité</em> or USMS), regionally based battalion-sized units comprised of about 40% government and 60% rebel soldiers that are intended to provide security along transportation corridors and at mining sites; the units are intended to be transitional in nature with a scheduled deployment time of two years<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
@@ -684,13 +684,13 @@ information varies; approximately 8,000 FACA troops; up to 2,000 Gendarmerie; ap
 
 **Military equipment inventories and acquisitions**<br>
 the FACA is lightly and poorly armed with mostly outdated weapons; since 2010, it has received small amounts of second-hand equipment from China, Russia, and Ukraine (2021)<br>
-note - since 2013, CAR has been under a UNSC arms embargo; the embargo bans all supplies of arms and related materiel to the country except to the CAR security forces if approved in advance by the relevant UN Sanctions Committee<br>
+<strong>note:</strong> since 2013, CAR has been under a UNSC arms embargo; the embargo bans all supplies of arms and related materiel to the country except to the CAR security forces if approved in advance by the relevant UN Sanctions Committee<br>
 
 **Military service age and obligation**<br>
 18 years of age for military service; no conscription (2021)<br>
 
 **Military - note**<br>
-the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; reportedly only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since; the European Union, France, Russia, the UN, and the US have provided various levels of security assistance <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; Russia sent private military contractors, and as of early 2022, there were reportedly as many as 2,000 providing assistance to the FACA, as well as performing other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its peacekeeping mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; in November 2019, the UN Security Council extended the mandate of the MINUSCA peacekeeping mission another year; as of 2022, MINUSCA had about 14,000 total personnel<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016, providing advice, training, and educational programs to the country's security forces<br> <p> </p> (2022)<br>
+the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; reportedly only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since; the European Union, France, Russia, the UN, and the US have provided various levels of security assistance <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; Russia sent private military contractors, and as of early 2022, there were reportedly as many as 2,000 providing assistance to the FACA, as well as performing other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its peacekeeping mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; in November 2019, the UN Security Council extended the mandate of the MINUSCA peacekeeping mission another year; as of 2022, MINUSCA had about 14,000 total personnel<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016, providing advice, training, and educational programs to the country's security forces (2022)<br>
 
 ## Transnational Issues
 
@@ -698,6 +698,6 @@ the 2013 coup resulted in the institutional collapse of the FACA; its forces wer
 <p><em>Central African Republic-South Sudan:</em> periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p> <p><em>Central African Republic-Sudan: </em>periodic violent skirmishes persist among related pastoral populations along the border with the Central African Republic over water and grazing rights</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,275 (Democratic Republic of Congo) (2022)<br>
+_refugees (country of origin)_: 6,298 (Democratic Republic of Congo) (2022)<br>
 _IDPs_: 602,134 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2022)<br>
 

@@ -564,7 +564,7 @@ $107.527 billion (2019 est.)<br>
 $95.671 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Pakistani rupees (PKR) per US dollar -<br>
+_Currency_: Pakistani rupees (PKR) per US dollar -<br>
 160.425 (2020 est.)<br>
 155.04 (2019 est.)<br>
 138.8 (2018 est.)<br>
@@ -722,7 +722,7 @@ _LNG terminal(s) (import)_: Port Qasim<br>
 
 **Military and security forces**<br>
 Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Maritime Security Agency), Pakistan Air Force (Pakistan Fizaia); Ministry of Interior: Frontier Corps, Pakistan Rangers (2022)<br>
-note(s) - the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br><br>- the Frontier Corps is a paramilitary force manned mostly by individuals from the tribal areas and commanded by officers from the Pakistan Army; it manages security duties in the tribal areas and on the border with Afghanistan (Balochistan and Khyber Pakhtunkhwa provinces, including the former Federally Administered Tribal Areas)<br><br>- the Pakistan Rangers are a paramilitary force which operate in Sindh and Punjab<br>
+<strong>note 1:</strong> the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br><br><strong>note 2: </strong>the Frontier Corps is a paramilitary force manned mostly by individuals from the tribal areas and commanded by officers from the Pakistan Army; it manages security duties in the tribal areas and on the border with Afghanistan (Balochistan and Khyber Pakhtunkhwa provinces, including the former Federally Administered Tribal Areas)<br><br><strong>note 3: </strong>the Pakistan Rangers are a paramilitary force which operate in Sindh and Punjab<br>
 
 **Military expenditures**<br>
 4% of GDP (2022 est.)<br>
@@ -749,7 +749,7 @@ the Pakistan military inventory includes a broad mix of equipment, primarily fro
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Haqqani Network; Harakat ul-Jihad-i-Islami; Harakat ul-Mujahidin; Hizbul Mujahideen;<strong> </strong>Indian Mujahedeen; Islamic State of Iraq and ash-Sham-Khorasan; Islamic State of ash-Sham – India; Islamic State of ash-Sham – Pakistan; Islamic Movement of Uzbekistan; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; Tehrik-e-Taliban Pakistan; al-Qa’ida; al-Qa’ida in the Indian Subcontinent<br>
+Haqqani Network; Harakat ul-Jihad-i-Islami; Harakat ul-Mujahidin; Hizbul Mujahideen;<strong> </strong>Indian Mujahedeen; Islamic State of Iraq and ash-Sham-Khorasan (ISIS-K); Islamic State of ash-Sham – India; Islamic State of ash-Sham – Pakistan; Islamic Movement of Uzbekistan; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; Tehrik-e-Taliban Pakistan (TTP); al-Qa’ida; al-Qa’ida in the Indian Subcontinent (AQIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

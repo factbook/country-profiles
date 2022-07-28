@@ -405,7 +405,7 @@ _lyrics/music_: Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/
 
 **National heritage**<br>
 _total World Heritage Sites_: 20 (9 cultural, 10 natural, 1 mixed) (2021)<br>
-_selected World Heritage Site locales_: L'Anse aux Meadows (c), Canadian Rocky Mountain Parks (n), Dinosaur Provincial Park (n), Historic District of Old Quebec (c), Old Town Lunenburg (c), Wood Buffalo National Park (n), Head-Smashed-In Buffalo Jump (c), Gros Morne National Park (n)<br>
+_selected World Heritage Site locales_: L'Anse aux Meadows (c); Canadian Rocky Mountain Parks (n); Dinosaur Provincial Park (n); Historic District of Old Quebec (c); Old Town Lunenburg (c); Wood Buffalo National Park (n); Head-Smashed-In Buffalo Jump (c); Gros Morne National Park (n); Pimachiowin Aki (m)<br>
 
 ## Economy
 
@@ -548,7 +548,7 @@ $2,124,887,000,000 (2019 est.)<br>
 $1,949,796,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-Canadian dollars (CAD) per US dollar -<br>
+_Currency_: Canadian dollars (CAD) per US dollar -<br>
 1.28035 (2020 est.)<br>
 1.3228 (2019 est.)<br>
 1.32925 (2018 est.)<br>
@@ -709,7 +709,7 @@ Fraser River Port (Fraser) Hamilton (Lake Ontario)<br>
 
 **Military and security forces**<br>
 Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, Canadian Joint Operations Command, Canadian Special Operations Forces Command; Primary Reserve (army, air, naval reserves); Coast Guard (Department of Fisheries and Oceans) (2022)<br>
-note - the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles<br>
+<strong>note: </strong>the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
@@ -720,14 +720,14 @@ note - the Army reserves include the Canadian Rangers, which provides a limited 
 
 **Military and security service personnel strengths**<br>
 approximately 70,000 total active personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2022)<br>
-note - the Army also has 19,000 part-time, volunteer soldiers in the Reserve Force, including about 5,500 Rangers<br>
+<strong>note:</strong> the Army also has 19,000 part-time volunteer soldiers in the Reserve Force, including about 5,500 Rangers<br>
 
 **Military equipment inventories and acquisitions**<br>
 the CAF's inventory is a mix of domestically-produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; since 2010, the leading supplier is the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2022)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2022)<br>
-note(s) - Canada opened up all military occupations to women in 2001; in 2020, women comprised about 16% of the CAF<br>
+<strong>note:</strong> Canada opened up all military occupations to women in 2001; in 2020, women comprised about 16% of the CAF<br>
 
 **Military deployments**<br>
 the CAF has nearly 1,400 military personnel forward deployed for NATO air, land, and sea missions in the European theater, including about 550 troops in Latvia and 140 in Romania (2022)<br>

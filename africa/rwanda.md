@@ -536,7 +536,7 @@ $3.258 billion (31 December 2017 est.)<br>
 $2.611 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Rwandan francs (RWF) per US dollar -<br>
+_Currency_: Rwandan francs (RWF) per US dollar -<br>
 839.1 (2017 est.)<br>
 787.25 (2016 est.)<br>
 787.25 (2015 est.)<br>
@@ -692,7 +692,7 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 18 years of age for voluntary military service (men and women); no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2021)<br>
 
 **Military deployments**<br>
-2,450 (plus about 500 police) Central African Republic (approximately 1,700 for MINUSCA; an additional 750 sent bilaterally in August, 2021); 1,000 Mozambique (deployed mid-2021 to assist with combating insurgency); 2,600 (plus about 400 police) South Sudan (UNMISS) (Feb 2022)<br>
+2,450 (plus about 500 police) Central African Republic (approximately 1,700 for MINUSCA; an additional 750 sent bilaterally in August, 2021); at least 1,000 Mozambique (deployed mid-2021 to assist with combating insurgency); 2,600 (plus about 400 police) South Sudan (UNMISS) (Feb 2022)<br>
 
 **Military - note**<br>
 <p>the Rwandan Armed Forces (FAR) were established following independence in 1962; after the 1990-1994 civil war and genocide, the victorious Tutsi-dominated Rwandan Patriotic Front's military wing, the Rwandan Patriotic Army (RPA), became the country's military force; the RPA participated in the First (1996-1997) and Second (1998-2003) Congolese Wars; the RPA was renamed the Rwanda Defense Force (RDF) in 2003, by which time it had assumed a more national character with the inclusion of many former Hutu officers as well as newly recruited soldiers<br><br>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of 2022, over 5,000 RDF personnel were deployed on missions in Africa</p><br>
@@ -703,6 +703,6 @@ the RDF's inventory includes mostly Russian, Soviet-era, and older Western - lar
 <p><em>Rwanda-Burundi: </em>Burundi's Ngozi province and Rwanda's Butare province dispute the two-kilometer-square hilly farmed area of Sabanerwa in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965 around Kibinga Hill in Rwanda's Butare Province<br><em><br>Rwanda-Democratic Republic of Congo (DRC): </em>the 2005 DRC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place<em><br><br>Rwanda-Uganda:</em> a joint technical committee established in 2007 to demarcate sections of the border<br><br><br></p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 76,968 (Democratic Republic of the Congo) 48,218 (Burundi) (2022)<br>
+_refugees (country of origin)_: 76,847 (Democratic Republic of the Congo) 48,218 (Burundi) (2022)<br>
 _stateless persons_: 9,500 (mid-year 2021)<br>
 

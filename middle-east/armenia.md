@@ -384,7 +384,7 @@ _lyrics/music_: Mikael NALBANDIAN/Barsegh KANACHYAN<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (3 cultural)<br>
-_selected World Heritage Site locales_: Monasteries of Haghpat and Sanahin, Monastery of Geghard and the Upper Azat Valley, Cathedral and Churches of Echmiatsin<br>
+_selected World Heritage Site locales_: Monasteries of Haghpat and Sanahin; Monastery of Geghard and the Upper Azat Valley; Cathedral and Churches of Echmiatsin<br>
 
 ## Economy
 
@@ -522,7 +522,7 @@ $11.637 billion (2019 est.)<br>
 $10.785 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-drams (AMD) per US dollar -<br>
+_Currency_: drams (AMD) per US dollar -<br>
 487.9 (2017 est.)<br>
 480.49 (2016 est.)<br>
 480.49 (2015 est.)<br>
@@ -676,7 +676,7 @@ the inventory of the Armenian Armed Forces includes mostly Russian and Soviet-er
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary (men and women) or compulsory (men only) military service; 2-year conscript service obligation, which can be served as an officer upon deferment for university studies if enrolled in officer-producing program; 17-year-olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel; citizens aged 27 to 50 are registered in the military reserve and may be called to serve if mobilization is declared; males under the age 36 years, who have not previously served as contract servicemen and are registered in the reserve, as well as females, regardless of whether they are registered in the reserve can be enrolled in contractual military service as privates (2021)<br>
-note - as of 2021, conscripts comprised about half of the military's active personnel; as of 2018, women made up about 13% of the active duty military<br>
+<strong>note:</strong> as of 2021, conscripts comprised about half of the military's active personnel; as of 2018, women made up about 13% of the active duty military<br>
 
 **Military - note**<br>
 since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remained high into 2022, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory <br><br>Armenia has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>

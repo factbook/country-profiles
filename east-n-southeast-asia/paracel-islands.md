@@ -92,7 +92,7 @@ _potential support ratio_: NA<br>
 NA<br>
 
 **Death rate**<br>
-(2021 est.) NA<br>
+NA<br>
 
 **Net migration rate**<br>
 -0.66 migrant(s)/1,000 population (2021 est.)<br>

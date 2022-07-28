@@ -316,7 +316,7 @@ _history_: previous 1951, 1977; in July 2017, the Constitutional Assembly comple
 Libya's post-revolution legal system is in flux and driven by state and non-state entities<br>
 
 **International law organization participation**<br>
-has not submitted an ICJ jurisdiction declaration; non-party state to the ICC<br>
+has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
 
 **Citizenship**<br>
 _citizenship by birth_: no<br>
@@ -374,7 +374,7 @@ _lyrics/music_: Al Bashir AL AREBI/Mohamad Abdel WAHAB<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (all cultural)<br>
-_selected World Heritage Site locales_: Archaeological Site of Cyrene, Archaeological Site of Leptis Magna, Archaeological Site of Sabratha, Rock-Art Sites of Tadrart Acacus, Old Town of Ghadamès<br>
+_selected World Heritage Site locales_: Archaeological Site of Cyrene; Archaeological Site of Leptis Magna, Archaeological Site of Sabratha; Rock-Art Sites of Tadrart Acacus; Old Town of Ghadamès<br>
 
 ## Economy
 
@@ -500,7 +500,7 @@ $3.02 billion (31 December 2017 est.)<br>
 $3.116 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Libyan dinars (LYD) per US dollar -<br>
+_Currency_: Libyan dinars (LYD) per US dollar -<br>
 1.413 (2017 est.)<br>
 1.3904 (2016 est.)<br>
 1.3904 (2015 est.)<br>
@@ -651,7 +651,7 @@ _LNG terminal(s) (export)_: Marsa el Brega<br>
 
 **Military and security forces**<br>
 Libya lacks a nationwide military and the interim government, the Government of National Unity (GNU), relies on its cooperation with disparate militias that it cannot entirely control for security; the GNU has access to various ground, air, and naval/coast guard forces comprised of a mix of semi-regular military units, militias, civilian volunteers, and foreign troops and mercenaries<br><br>the Libyan National Army (LNA), under de facto LNA commander Khalifa HAFTER, also includes various ground, air, and naval units comprised of semi-regular military personnel, militias, and foreign troops and mercenaries; as of 2022, the LNA operated independently from the GNU and exerted influence throughout eastern, central, and southern Libya (2022)<br>
-note - the Stability Support Authority (SSA) is a state-funded militia established in January 2021 by the GNU; it is tasked with securing government buildings and officials, participating in combat operations, apprehending those suspected of national security crimes, and cooperating with other security bodies<br>
+<strong>note:</strong> the Stabilization Support Authority (SSA) is a state-funded militia established in January 2021 by the GNU; it is tasked with securing government buildings and officials, participating in combat operations, apprehending those suspected of national security crimes, and cooperating with other security bodies<br>
 
 **Military expenditures**<br>
 not available<br>

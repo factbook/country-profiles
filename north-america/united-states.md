@@ -363,11 +363,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021); note - the president is both chief of state and head of government<br>
-_head of government_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
+_chief of state_: President Joseph R. BIDEN, Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021); note - the president is both chief of state and head of government<br>
+_head of government_: President Joseph R. BIDEN, Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
 _cabinet_: Cabinet appointed by the president, approved by the Senate<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by the Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); election last held on 3 November 2020 (next to be held on 5 November 2024)<br>
-_election results_: <em><br>2020:</em> Joseph R. BIDEN Jr. elected president; electoral vote - Joseph R. BIDEN Jr. (Democratic Party) 306, Donald J. TRUMP (Republican Party) 232; percent of direct popular vote - Joseph R. BIDEN Jr. 51.3%, Donald J. TRUMP 46.9%, other 1.8%<br><br><em>2016:</em> Donald J. TRUMP elected president; electoral vote - Donald J. TRUMP (Republican Party) 304, Hillary D. CLINTON (Democratic Party) 227, other 7; percent of direct popular vote - Hillary D. CLINTON 48.2%, Donald J. TRUMP 46.1%, other 5.7%<br>
+_election results_: <em><br>2020:</em> Joseph R. BIDEN, Jr. elected president; electoral vote - Joseph R. BIDEN, Jr. (Democratic Party) 306, Donald J. TRUMP (Republican Party) 232; percent of direct popular vote - Joseph R. BIDEN Jr. 51.3%, Donald J. TRUMP 46.9%, other 1.8%<br><br><em>2016:</em> Donald J. TRUMP elected president; electoral vote - Donald J. TRUMP (Republican Party) 304, Hillary D. CLINTON (Democratic Party) 227, other 7; percent of direct popular vote - Hillary D. CLINTON 48.2%, Donald J. TRUMP 46.1%, other 5.7%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Congress consists of:<br>Senate (100 seats; 2 members directly elected in each of the 50 state constituencies by simple majority vote except in Georgia and Louisiana which require an absolute majority vote with a second round if needed; members serve 6-year terms with one-third of membership renewed every 2 years)<br>House of Representatives (435 seats; members directly elected in single-seat constituencies by simple majority vote except in Georgia which requires an absolute majority vote with a second round if needed; members serve 2-year terms)<br>
@@ -401,7 +401,7 @@ _lyrics/music_: Francis Scott KEY/John Stafford SMITH<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 24 (11 cultural, 12 natural, 1 mixed); note - includes one site in Puerto Rico<br>
-_selected World Heritage Site locales_: Yellowstone National Park (n), Grand Canyon National Park (n), Cahokia Mounds State Historic Site (c), Independence Hall (c), Statue of Liberty (c), Yosemite National Park (n), Papahānaumokuākea (m), Monumental Earthworks of Poverty Point (c), The 20th-Century Architecture of Frank Lloyd Wright (c), Mesa Verde National Park (c), Mammoth Cave National Park (n), Monticello (c), Olympic National Park (n)<br>
+_selected World Heritage Site locales_: Yellowstone National Park (n); Grand Canyon National Park (n); Cahokia Mounds State Historic Site (c); Independence Hall (c); Statue of Liberty (c); Yosemite National Park (n); Papahānaumokuākea (m); Monumental Earthworks of Poverty Point (c); The 20th-Century Architecture of Frank Lloyd Wright (c); Mesa Verde National Park (c); Mammoth Cave National Park (n); Monticello (c); Olympic National Park (n)<br>
 
 ## Economy
 
@@ -715,7 +715,7 @@ _cruise departure ports (passengers)_: Miami, Port Everglades, Port Canaveral, S
 
 **Military and security forces**<br>
 United States Armed Forces: US Army, US Navy (includes Marine Corps), US Air Force, US Space Force; US Coast Guard (administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy); National Guard (Army National Guard and Air National Guard) (2022)<br>
-note - the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority<br>
+<strong>note:</strong> the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority<br>
 
 **Military expenditures**<br>
 3.6% of GDP (2021 est.)<br>
@@ -732,7 +732,7 @@ the US military's inventory is comprised almost entirely of domestically-produce
 
 **Military service age and obligation**<br>
 18 years of age (17 years of age with parental consent) for male and female voluntary service; no conscription  (currently inactive, but males aged 18-25 must register with Selective Service in case conscription is reinstated in the future); maximum enlistment age 34 (Army), 39 (Air Force), 39 (Navy), 28 (Marines), 31 (Coast Guard); 8-year service obligation, including 2-5 years active duty (Army), 2 years active (Navy), 4 years active (Air Force, Marines, Coast Guard); all military occupations and positions open to women (2021)<br>
-note(s) - in 2020, women comprised 17.2 % of the total US military (16.9% of enlisted; 18.9% officers; highest was Air Force with women comprising 21.1% of its total personnel)<br><br>- a small number of American women were involved in combat during the Revolutionary (1775-1783), Mexican (1846-1848), and Civil (1861-1865) Wars, but they had to disguise themselves as men and enlist under aliases; the first official US military organization for women was the US Army Nurse Corps, established in 1901; during World War I, the US Navy and Marine Corps allowed women to enlist; nearly 350,000 women served in the US military during World War II; the 1991 Gulf War was the first war where women served with men in integrated units within a warzone; in 2015, female service members were allowed to serve in direct combat roles<br>
+<strong>note:</strong> in 2020, women comprised 17.2 % of the total US military (16.9% of enlisted; 18.9% officers; highest was Air Force with women comprising 21.1% of its total personnel); a small number of American women were involved in combat during the Revolutionary (1775-1783), Mexican (1846-1848), and Civil (1861-1865) Wars, but they had to disguise themselves as men and enlist under aliases; the first official US military organization for women was the US Army Nurse Corps, established in 1901; during World War I, the US Navy and Marine Corps allowed women to enlist; nearly 350,000 women served in the US military during World War II; the 1991 Gulf War was the first war where women served with men in integrated units within a war zone; in 2015, female service members were allowed to serve in direct combat roles<br>
 
 **Military deployments**<br>
 5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,700 Australia; 250 Diego Garcia; 150 Canada; 650 Cuba (Guatanamo Bay); 290 Egypt (MFO); 65,000 Europe (Belgium, Bulgaria, Germany, Greece, Italy, Kosovo, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Turkey, UK); 150 Greenland; 6,200 Guam; 370 Honduras; 56,000 Japan; approximately 15,000 Middle East (Bahrain, Iraq, Israel, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, Syria, United Arab Emirates); 125 Philippines; 26,500 South Korea; 200 Singapore; 100 Thailand (2022)<br>
@@ -744,7 +744,7 @@ the US is a member of NATO and was one of the original 12 countries to sign the 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Hizballah; Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida<br>
+Hizballah; Islamic Revolutionary Guard Corps (IRGC)/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

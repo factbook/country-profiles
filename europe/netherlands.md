@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Dutch United Provinces declared their independence from Spain in 1579; during the 17th century, they became a leading seafaring and commercial power, with settlements and colonies around the world. After a 20-year French occupation, a Kingdom of the Netherlands was formed in 1815. In 1830, Belgium seceded and formed a separate kingdom. The Netherlands remained neutral in World War I, but suffered German invasion and occupation in World War II. A modern, industrialized nation, the Netherlands is also a large exporter of agricultural products. The country was a founding member of NATO and the EEC (now the EU) and participated in the introduction of the euro in 1999. In October 2010, the former Netherlands Antilles was dissolved and the three smallest islands - Bonaire, Sint Eustatius, and Saba - became special municipalities in the Netherlands administrative structure. The larger islands of Sint Maarten and Curacao joined the Netherlands and Aruba as constituent countries forming the Kingdom of the Netherlands.</p> <p>In February 2018, the Sint Eustatius island council (governing body) was dissolved and replaced by a government commissioner to restore the integrity of public administration. According to the Dutch Government, the intervention will be as "short as possible and as long as needed."</p><br>
+<p>The Dutch United Provinces declared their independence from Spain in 1579; during the 17th century, they became a leading seafaring and commercial power, with settlements and colonies around the world. After a 20-year French occupation, a Kingdom of the Netherlands was formed in 1815. In 1830, Belgium seceded and formed a separate kingdom. The Netherlands remained neutral in World War I but suffered German invasion and occupation in World War II. A modern, industrialized nation, the Netherlands is also a large exporter of agricultural products. The country was a founding member of NATO and the EEC (now the EU) and participated in the introduction of the euro in 1999. In October 2010, the former Netherlands Antilles was dissolved and the three smallest islands - Bonaire, Sint Eustatius, and Saba - became special municipalities in the Netherlands administrative structure. The larger islands of Sint Maarten and Curacao joined the Netherlands and Aruba as constituent countries forming the Kingdom of the Netherlands.</p> <p>In February 2018, the Sint Eustatius island council (governing body) was dissolved and replaced by a government commissioner to restore the integrity of public administration. According to the Dutch Government, the intervention will be as "short as possible and as long as needed."</p><br>
 
 ## Geography
 
@@ -534,7 +534,7 @@ $4,345,413,000,000 (2019 est.)<br>
 $4,625,016,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-euros (EUR) per US dollar -<br>
+_Currency_: euros (EUR) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -689,7 +689,7 @@ _river port(s)_: Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rot
 
 **Military and security forces**<br>
 Royal Netherlands Army, Royal Netherlands Navy (includes Naval Air Service and Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2022)<br>
-note - the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature, but managed by the Royal Netherlands Navy<br>
+<strong>note:</strong> the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature, but managed by the Royal Netherlands Navy<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2021 est.)<br>
@@ -700,21 +700,21 @@ note - the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civil
 
 **Military and security service personnel strengths**<br>
 the Royal Netherlands Armed Forces have approximately 40,000 active duty personnel (20,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2021)<br>
-note - the Navy includes about 2,300 marines<br>
+<strong>note:</strong> the Navy includes about 2,300 marines<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Netherlands Armed Forces consists of a mix of domestically-produced and modern European- and US-sourced equipment; since 2010, the US is the leading supplier of weapons systems to the Netherlands; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2021)<br>
 
 **Military service age and obligation**<br>
 17 years of age for an all-volunteer force; conscription remains in place, but the requirement to show up for compulsory military service was suspended in 1997 (2021)<br>
-note - in 2019, women made up about 11% of the military's full-time personnel<br>
+<strong>note: </strong>in 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 270 Lithuania (NATO) (2022)<br>
 <strong>note: </strong>NATO troop deployment numbers in eastern Europe are as of February 2022; in response to Russia’s 2022 invasion of Ukraine, some NATO countries have sent additional troops and equipment to the battlegroups deployed in NATO territory in eastern Europe<br>
 
 **Military - note**<br>
-the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force</p> <p>a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively</p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br> <p>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries</p><br>
+the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force; a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively</p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br><br>in 2015, Belgium, the Netherlands, and Luxembourg signed an agreement to conduct joint air policing of their territories; under the agreement, which went into effect in January of 2017, the Belgian and Dutch Air Forces trade responsibility for patrolling the skies over the three countries<br>
 
 ## Terrorism
 

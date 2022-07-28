@@ -395,7 +395,7 @@ _lyrics/music_: unknown<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 33 (28 cultural, 4 natural, 1 mixed); note - includes one site in Bermuda<br>
-_selected World Heritage Site locales_: Giant's Causeway and Causeway Coast (n), Ironbridge Gorge (c), Stonehenge, Avebury, and Associated Sites (c), Castles and Town Walls of King Edward in Gwynedd (c), Blenheim Palace (c), City of Bath (c), Tower of London (c), St Kilda (m), Maritime Greenwich (c), Old and New Towns of Edinburgh (c), Royal Botanic Gardens, Kew (c), The English Lake District (c)<br>
+_selected World Heritage Site locales_: Giant's Causeway and Causeway Coast (n); Ironbridge Gorge (c); Stonehenge, Avebury, and Associated Sites (c); Castles and Town Walls of King Edward in Gwynedd (c); Blenheim Palace (c); City of Bath (c); Tower of London (c); St Kilda (m); Maritime Greenwich (c); Old and New Towns of Edinburgh (c); Royal Botanic Gardens, Kew (c); The English Lake District (c)<br>
 
 ## Economy
 
@@ -535,7 +535,7 @@ $8,721,590,000,000 (2019 est.)<br>
 $8,696,559,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-British pounds (GBP) per US dollar -<br>
+_Currency_: British pounds (GBP) per US dollar -<br>
 0.7836 (2017 est.)<br>
 0.738 (2016 est.)<br>
 0.738 (2015 est.)<br>
@@ -699,7 +699,7 @@ begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) 
 
 **Military and security forces**<br>
 United Kingdom Armed Forces (aka British Armed Forces, aka Her Majesty's Armed Forces): British Army, Royal Navy (includes Royal Marines), Royal Air Force (2022)<br>
-note(s) - in 2021 the UK formed a joint service Space Command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; it established a National Cyber Force comprised of military and intelligence personnel in 2020; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, defense intelligence, and information systems across the land, sea, air, space, and cyber domains; national-level special forces (UK Special Forces, UKSF) also fall under Strategic Command; in addition, the command manages joint overseas operations<br>
+<strong>note: </strong>in 2021 the UK formed a joint service Space Command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; it established a National Cyber Force comprised of military and intelligence personnel in 2020; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, defense intelligence, and information systems across the land, sea, air, space, and cyber domains; national-level special forces (UK Special Forces, UKSF) also fall under Strategic Command; in addition, the command manages joint overseas operations<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2021 est.)<br>
@@ -710,14 +710,14 @@ note(s) - in 2021 the UK formed a joint service Space Command staffed by Army, N
 
 **Military and security service personnel strengths**<br>
 approximately 153,000 regular forces (81,000 Army; 34,000 Navy, including about 7,000 Royal Marines; 38,000 Air Force) (2022)<br>
-note - the military also had approximately 40-45,000 reserves and other personnel on active duty<br>
+<strong>note: </strong>the military also has approximately 40-45,000 reserves and other personnel on active duty<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the British military is comprised of a mix of domestically-produced and imported Western weapons systems; the US is the leading supplier of armaments to the UK since 2010; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers (2021)<br>
 
 **Military service age and obligation**<br>
 slight variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in military services including ground combat roles; conscription abolished in 1963 (2021)<br>
-note - as of 2019, women made up about 11% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2019, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 approximately 1,000 Brunei; approximately 400 Canada (BATUS); approximately 2,500 Cyprus (250 for UNFICYP); approximately 900 Estonia (NATO); approximately 1,200 Falkland Islands; approximately 200 Germany; 570 Gibraltar; approximately 1,400 Middle East (including Bahrain, Iraq, Kuwait, Oman, Saudi Arabia, UAE; coalition against ISIS; NATO); up to 350 Kenya (BATUK); approximately 350 Mali (EUTM, MINUSMA, and Operation Barkhane); 150 Poland (NATO) (2022)<br>
@@ -729,7 +729,7 @@ the UK is a member of NATO and was one of the original 12 countries to sign the 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New Irish Republican Army<br>
+Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New Irish Republican Army; al-Qa'ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
@@ -738,7 +738,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p><em>UK-Argentina</em>: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands</p> <p><em>UK-Argentina-Chile</em>: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim</p> <p><em>UK-Denmark</em>: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area</p> <p><em>UK (Gibraltar)-Spain</em>: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; London and Madrid reached a temporary agreement at the end of 2020 that allowed Gibraltar to be part of the passport-free Schengen zone; talks are expected to continue in 2022</p> <p><em>UK-Mauritius-Seychelles</em>: Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos Islands prohibiting the extraction of any natural resources therein</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 95,400 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 21,011 (Iran), 14,503 (Eritrea), 11,251 (Sudan), 11,412 (Syria), 9,469 (Afghanistan), 8,357 (Pakistan), 6,933 (Iraq), 5,200 (Sri Lanka) (2020); 99,700 (Ukraine) (as of 18 July 2022)<br>
 _stateless persons_: 3,968 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

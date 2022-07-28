@@ -332,7 +332,7 @@ _residency requirement for naturalization_: not specified<br>
 
 **Executive branch**<br>
 _chief of state_: Amir NAWAF al-Ahmad al-Jabir al-Sabah (since 30 September 2020); Crown Prince MISHAL Al Ahmad Al Sabah, born in 1940, is the brother of Amir NAWAF al-Ahmad al-Jabir al-Sabah<br>
-_head of government_: Prime Minister SABAH KHALID al-Hamad al-Sabah (since 19 November 2019); First Deputy Prime Minister and Minister of Interior Sheikh Ahmed al-Nawaf Al Sabah (since 22 March 2022), Deputy Prime Minister and Minister of Defense Sheikh Talal al-Khaled Al Sabah (since 9 March 2022), and Deputy Prime Minister and Minister of Oil and Minister of State for Cabinet Affairs Dr. Mohammed al-Faris (since 22 March 2022)<br>
+_head of government_: Prime Minister Sheikh Muhammad Al Sabah Al Salim Al Sabah (since 19 July 2022); First Deputy Prime Minister and Minister of Interior Sheikh Ahmed al-Nawaf Al Sabah (since 22 March 2022), Deputy Prime Minister and Minister of Defense Sheikh Talal al-Khaled Al Sabah (since 9 March 2022), and Deputy Prime Minister and Minister of Oil and Minister of State for Cabinet Affairs Dr. Mohammed al-Faris (since 22 March 2022)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, approved by the amir<br>
 _elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister and deputy prime ministers appointed by the amir; crown prince appointed by the amir and approved by the National Assembly<br>
 
@@ -509,7 +509,7 @@ $47.24 billion (31 December 2017 est.)<br>
 $38.34 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Kuwaiti dinars (KD) per US dollar -<br>
+_Currency_: Kuwaiti dinars (KD) per US dollar -<br>
 0.3049 (2020 est.)<br>
 0.3037 (2019 est.)<br>
 0.304 (2018 est.)<br>
@@ -588,7 +588,7 @@ _total subscriptions_: 6,770,346 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 159 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the quality of service is excellent; new telephone exchanges provide a large capacity for new subscribers; trunk traffic is carried by microwave radio relay, coaxial cable, open-wire, and fiber-optic cable; a 4G LTE mobile-cellular telephone system operates throughout Kuwait; Internet access is available via 4G LTE connections for fixed and mobile users; high ownership levels of smart phones in Kuwait; one of the highest mobile penetration rates in the world; exploring 5G opportunities; improvements to fiber-broadband underway (2020)<br>
+_general assessment_: Kuwait&rsquo;s telecom infrastructure is well developed, with a focus on mobile infrastructure and services; the telecom sector is important to the country&rsquo;s economy, and this will become more pronounced in coming years as the economy is purposefully transitioned away from a dependence on oil and gas to one which is increasingly knowledge-based and focused on ICT and related services; the MNOs have focused investment on 5G networks, which support and promote the growth of data traffic; this in turn has been a catalyst for revenue growth in recent quarters; while Kuwait&rsquo;s mobile sector shows considerable progress; the country&rsquo;s fixed broadband system is the lowest in the region; the government has stepped up efforts to build up fixed broadband networks, and ultimately this sector offers a potential future growth opportunity; improvements to the fixed broadband infrastructure will help develop sectors such as e-commerce, along with smart infrastructure developments, and tech start-ups.&nbsp; (2022)<br>
 _domestic_: fixed-line subscriptions are nearly 14 per 100 and mobile-cellular stands at nearly 159 per 100 subscriptions (2020)<br>
 _international_: country code - 965; landing points for the FOG, GBICS, MENA, Kuwait-Iran, and FALCON submarine cables&nbsp;linking Africa, the Middle East, and Asia; microwave radio relay to Saudi Arabia; satellite earth stations - 6 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 1 Inmarsat - Atlantic Ocean, and 2 Arabsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -654,7 +654,7 @@ _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'A
 
 **Military and security forces**<br>
 Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Brigade; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2022)<br>
-note(s) - the Kuwait Amiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the Kuwaiti National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br>
+<strong>note 1:</strong> the Kuwait Amiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services<br><br><strong>note 2:</strong> the Kuwaiti National Guard reports directly to the prime minister and the amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior; it is responsible for protecting critical infrastructure and providing support for the Ministries of Interior and Defense as required<br>
 
 **Military expenditures**<br>
 6.8% of GDP (2021 est.)<br>

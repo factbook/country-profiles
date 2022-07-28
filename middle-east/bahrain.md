@@ -380,7 +380,7 @@ _lyrics/music_: unknown<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>
-_selected World Heritage Site locales_: Dilmun Burial Mounds, Qal'at al-Bahrain – Ancient Harbor and Capital of Dilmun, Bahrain Pearling Path<br>
+_selected World Heritage Site locales_: Dilmun Burial Mounds; Qal'at al-Bahrain – Ancient Harbor and Capital of Dilmun; Bahrain Pearling Path<br>
 
 ## Economy
 
@@ -514,7 +514,7 @@ $52.15 billion (31 December 2017 est.)<br>
 $42.55 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Bahraini dinars (BHD) per US dollar -<br>
+_Currency_: Bahraini dinars (BHD) per US dollar -<br>
 0.37705 (2020 est.)<br>
 0.37705 (2019 est.)<br>
 0.377 (2018 est.)<br>
@@ -653,7 +653,7 @@ _major seaport(s)_: Mina' Salman, Sitrah<br>
 
 **Military and security forces**<br>
 Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force; Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2022)<br>
-note(s) - the Royal Guard is officially under the command of the Army, but exercises considerable autonomy; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields; while the Guard is under the Ministry of Interior, it reports directly to the king<br>
+<strong>note:</strong> the Royal Guard is officially under the command of the Army, but exercises considerable autonomy; the National Guard's primary mission is to guard critical infrastructure such as the airport and oil fields; while the Guard is under the Ministry of Interior, it reports directly to the king<br>
 
 **Military expenditures**<br>
 3.6% of GDP (2021 est.)<br>

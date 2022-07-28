@@ -360,7 +360,7 @@ _chief of state_: President Patrice TALON (since 6 April 2016); note - the presi
 _head of government_: President Patrice TALON (since 6 April 2016); prime minister position abolished<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 11 April 2021 (next to be held in April 2026)<br>
-_election results_: Patrice TALON elected to a second term; percent of vote - Patrice TALON (independent) 86.4%, Alassane SOUMANOU (FCBE) 11.3%, other 2.3%<br>
+_election results_: Patrice TALON elected to a second term; percent of vote - Patrice TALON (independent) 86.4%, Alassane SOUMANOU (FCBE) 11.3%, other 2.3% (2021)<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (83 seats - current 81; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
@@ -408,7 +408,7 @@ _lyrics/music_: Gilbert Jean DAGNON<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Royal Palaces of Abomey (c), W-Arly-Pendjari Complex (n)<br>
+_selected World Heritage Site locales_: Royal Palaces of Abomey (c); W-Arly-Pendjari Complex (n)<br>
 
 ## Economy
 
@@ -539,7 +539,7 @@ $2.804 billion (31 December 2017 est.)<br>
 $2.476 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+_Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 605.3 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>

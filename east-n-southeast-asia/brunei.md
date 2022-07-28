@@ -491,7 +491,7 @@ $0 (2013)<br>
 <strong>note:</strong> public external debt only; private external debt unavailable<br>
 
 **Exchange rates**<br>
-Bruneian dollars (BND) per US dollar -<br>
+_Currency_: Bruneian dollars (BND) per US dollar -<br>
 1.33685 (2020 est.)<br>
 1.35945 (2019 est.)<br>
 1.3699 (2018 est.)<br>

@@ -365,11 +365,11 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Lazarus CHAKWERA (since 28 June 2020); Vice President Saulos CHILIMA (since 3 February 2020); note - the president is both chief of state and head of government&nbsp;<br>
-_head of government_: President Lazarus CHAKWERA (since 28 June 2020); Vice President Saulos CHILIMA (since 3 February 2020)&nbsp;<br>
-_cabinet_: Cabinet named by the president&nbsp;<br>
+_chief of state_: President Lazarus CHAKWERA (since 28 June 2020); Vice President Saulos CHILIMA (since 3 February 2020); note - the president is both chief of state and head of government<br>
+_head of government_: President Lazarus CHAKWERA (since 28 June 2020); Vice President Saulos CHILIMA (since 3 February 2020)<br>
+_cabinet_: Cabinet named by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 23 June 2020 (next to be held in 2025)<br>
-_election results_: Lazarus CHAKWERA elected president; Lazarus CHAKWERA (MCP) 59.3%, Peter Mutharika (DPP) 39.9%, other 0.7%<br> <table class="wikitable" style="text-align: right; height: 25px;" width="5"> <tbody> <tr> <td align="left"> </td> <td align="left"> </td> <td> </td> <td> </td> </tr> </tbody> </table><br>
+_election results_: Lazarus CHAKWERA elected president; Lazarus CHAKWERA (MCP) 59.3%, Peter Mutharika (DPP) 39.9%, other 0.8% (2020)<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (193 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
@@ -415,7 +415,7 @@ _lyrics/music_: Michael-Fredrick Paul SAUKA<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 2 (1 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Lake Malawi National Park (n), Chongoni Rock-Art Area (c)<br>
+_selected World Heritage Site locales_: Lake Malawi National Park (n); Chongoni Rock-Art Area (c)<br>
 
 ## Economy
 
@@ -548,7 +548,7 @@ $2.102 billion (31 December 2017 est.)<br>
 $1.5 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Malawian kwachas (MWK) per US dollar -<br>
+_Currency_: Malawian kwachas (MWK) per US dollar -<br>
 762.4951 (2020 est.)<br>
 736.6548 (2019 est.)<br>
 732.335 (2018 est.)<br>
@@ -692,7 +692,7 @@ _lake port(s)_: Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba (Lake Nyas
 
 **Military and security forces**<br>
 Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established as a separate service August 2019; previously was an air wing under the Army) (2022)<br>
-note - the Malawi Police Service is under the Ministry of Homeland Security<br>
+<strong>note:</strong> the Malawi Police Service is under the Ministry of Homeland Security<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
@@ -722,5 +722,5 @@ the Malawi Defense Force&rsquo;s primary responsibility is external security; it
 <p><em>Malawi-Mozambique</em>: the two countries have held exercises to reaffirm boundaries a number of times</p> <p><em>Malawi-Tanzania</em>: dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p> <p><em>Malawi-Zambia</em>: border demarcation was completed in 2011; in 2018, the redemarcation exercise determined that some parts of Malawi actually belonged to Zambia</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 33,947 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,658 (Burundi) (refugees and asylum seekers), 7,621 (Rwanda) (refugees and asylum seekers) (2022)<br>
+_refugees (country of origin)_: 34,093 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,658 (Burundi) (refugees and asylum seekers), 7,621 (Rwanda) (refugees and asylum seekers) (2022)<br>
 

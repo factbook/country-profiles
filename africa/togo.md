@@ -356,11 +356,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Faure GNASSINGBE (since 4 May 2005)&nbsp;<br>
+_chief of state_: President Faure GNASSINGBE (since 4 May 2005)<br>
 _head of government_: Prime Minister Victoire Tomegah DOGBE (since 28 September 2020)<br>
 _cabinet_: Council of Ministers appointed by the president on the advice of the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 22 February 2020 (next to be held&nbsp; February 2025); prime minister appointed by the president<br>
-_election results_: Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 72.4%, Agbeyome KODJO (MPDD) 18.4%, Jean-Pierre FABRE (ANC) 4.4%, other 5%<br>
+_election results_: Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 70.8%, Agbeyome KODJO (MPDD) 19.5%, Jean-Pierre FABRE (ANC) 4.7%, other 5% (2020)<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms)<br>
@@ -407,7 +407,7 @@ _lyrics/music_: Alex CASIMIR-DOSSEH<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 1 (cultural)<br>
-_selected World Heritage Site locales_: Koutammakou, the Land of the Batammariba<br>
+_selected World Heritage Site locales_: Koutammakou; the Land of the Batammariba<br>
 
 ## Economy
 
@@ -541,7 +541,7 @@ $1.442 billion (31 December 2017 est.)<br>
 $1.22 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+_Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 617.4 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>
@@ -691,7 +691,7 @@ _major seaport(s)_: Kpeme, Lome<br>
 
 **Military and security forces**<br>
 Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l’Air), National Gendarmerie (Gendarmerie Nationale Togolaise or GNT) (2022)<br>
-note - the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security<br>
+<strong>note:</strong> the GNT falls under the Ministry of the Armed Forces but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>
@@ -702,7 +702,7 @@ note - the GNT falls under the Ministry of the Armed Forces but also reports to 
 
 **Military and security service personnel strengths**<br>
 approximately 10-11,000 personnel (7,000 Army; 500 Air and Navy; 3,000 Gendarmerie) (2022)<br>
-note - in January 2022, the Togolese Government announced its intent to boost the size of the FAT to more than 20,000 by 2025<br>
+<strong>note:</strong> in January 2022, the Togolese Government announced its intent to boost the size of the FAT to more than 20,000 by 2025<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAT's small inventory is a mix of older equipment from a variety of countries, including Brazil, France, Germany, Russia/former Soviet Union, the UK, and the US; since 2010, it has received limited amounts of equipment from China, France, South Africa, and the US (2022)<br>
@@ -722,7 +722,8 @@ the International Maritime Bureau reports the territorial and offshore waters in
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Jama&rsquo;at Nusrat al Islam wal Muslimeen (JNIM)<br>
+Jama’at Nusrat al Islam wal Muslimeen (JNIM)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 

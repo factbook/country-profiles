@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A military power during the 17th century, Sweden has not participated in any war for two centuries. An armed neutrality was preserved in both World Wars. Since then, Sweden has pursued a successful economic formula consisting of a capitalist system intermixed with substantial welfare elements. Sweden joined the EU in 1995, but the public rejected the introduction of the euro in a 2003 referendum. The share of Sweden’s population born abroad increased from 11.3% in 2000 to 19.1% in 2018.</p> <p> </p><br>
+<p>A military power during the 17th century, Sweden has not participated in any war for two centuries. An armed neutrality was preserved in both World Wars. Since then, Sweden has pursued a successful economic formula consisting of a capitalist system intermixed with substantial welfare elements. Sweden joined the EU in 1995, but the public rejected the introduction of the euro in a 2003 referendum. The share of Sweden’s population born abroad increased from 11.3% in 2000 to 20% in 2021.</p> <p> </p><br>
 
 ## Geography
 
@@ -384,7 +384,7 @@ _lyrics/music_: Richard DYBECK/traditional<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 15 (13 cultural, 1 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: Royal Domain of Drottningholm (c), Laponian Area (m), High Coast/Kvarken Archipelago (n), Birka and Hovg&aring;rden (c), Hanseatic Town of Visby (c), Church Town of Gammelstad, Lule&aring; (c), Naval Port of Karlskrona (c), Rock Carvings in Tanum (c), Engelsberg Ironworks (c), Mining Area of the Great Copper Mountain in Falun (c)<br>
+_selected World Heritage Site locales_: Royal Domain of Drottningholm (c); Laponian Area (m); High Coast/Kvarken Archipelago (n); Birka and Hovg&aring;rden (c); Hanseatic Town of Visby (c); Church Town of Gammelstad, Lule&aring; (c); Naval Port of Karlskrona (c); Rock Carvings in Tanum (c); Engelsberg Ironworks (c); Mining Area of the Great Copper Mountain in Falun (c)<br>
 
 ## Economy
 
@@ -524,7 +524,7 @@ $911.317 billion (2019 est.)<br>
 $1,012,171,000,000 (2018 est.)<br>
 
 **Exchange rates**<br>
-Swedish kronor (SEK) per US dollar -<br>
+_Currency_: Swedish kronor (SEK) per US dollar -<br>
 8.49085 (2020 est.)<br>
 9.52915 (2019 est.)<br>
 9.01895 (2018 est.)<br>
@@ -689,17 +689,17 @@ Swedish Armed Forces (Forsvarsmakten): Army, Navy, Air Force, Home Guard (2022)<
 
 **Military and security service personnel strengths**<br>
 approximately 15,000 continuous service/full-time troops (7,000 Army; 3,000 Navy; 3,000 Air Force; 2,000 other, including staff, logistics, support, medical, cyber, intelligence, etc); approximately 21,000 Home Guard; approximately 12,000 temporary service personnel (2022)<br>
-note - Swedish Armed Forces' (SAF) personnel are divided into continuously serving (full-time) and temporary service troops (part-timers who serve periodically and have another main employer or attend school); additional personnel have signed service agreements with the SAF and mostly serve in the Home Guard; the SAF also has about 9,000 civilian employees<br>
+<strong>note: </strong>Swedish Armed Forces' (SAF) personnel are divided into continuously serving (full-time) and temporary service troops (part-timers who serve periodically and have another main employer or attend school); additional personnel have signed service agreements with the SAF and mostly serve in the Home Guard; the SAF also has about 9,000 civilian employees<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the SAF is comprised of domestically-produced and imported Western weapons systems; since 2010, the US is the leading supplier of military hardware to Sweden; Sweden's defense industry produces a range of air, land, and naval systems (2021)<br>
 
 **Military service age and obligation**<br>
 18-47 years of age for male and female voluntary military service; service obligation: 7.5 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both female and male (age 18), and requires 9-12 months of service (2021)<br>
-note(s) - Sweden conscripts about 5,500 men and women each year; as of 2021, women made up about 11% of the military's full-time personnel<br>
+<strong>note 1: </strong>Sweden conscripts about 5,500 men and women each year<br><br><strong>note 2: </strong>as of 2021, women made up about 11% of the military's full-time personnel<br>
 
 **Military deployments**<br>
-approximately 475 Mali (EUTM, MINUSMA, Task Force Takuba) (2022)<br>
+approximately 450 Mali (EUTM, MINUSMA) (2022)<br>
 
 **Military - note**<br>
 <p>Sweden maintains a policy of military non-alignment, but cooperates with NATO and regional countries; it joined NATO’s Partnership for Peace program in 1994 and has contributed to NATO-led missions, including those in Afghanistan, Iraq, and Kosovo</p> <p>the Swedish military cooperates closely with the military forces of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<strong> </strong></p> <p>Sweden is a signatory of the EU’s Common Security and Defense Policy and contributes to CSDP missions and operations</p><br>
@@ -716,6 +716,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none identified</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 41,776 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 114,995 (Syria), 28,744 (Afghanistan), 26,911 (Eritrea), 11,574 (Somalia), 11,153 (Iraq), 7,516 (Iran) (2020); 42,788 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 50,098 (mid-year 2021); note - the majority of stateless people are from the Middle East and Somalia<br>
 

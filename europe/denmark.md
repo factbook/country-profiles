@@ -339,7 +339,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
 _elections_: last held on 5 June 2019 (next to be held in June 2023)<br>
-_election results_: percent of vote by party - SDP 25.9%, V 23.4%, DF 8.7%, SLP 8.6%, SF 7.7%, EL 6.9%, C 6.6%, AP 3.0%, NB 2.4%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, AP 5, NB 4, LA 4; composition (as of September 2021) - men 108, women 71 (includes 2 from Greenland), percent of women 39.7%<br>
+_election results_: percent of vote by party - SDP 27.4%, V 24.6%, DF 9.1%, SLP 9.1%, SF 8%, EL 7.4%, C 6.9%, AP 2.9%, NB 2.3%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, AP 5, NB 4, LA 4; composition (as of September 2021) - men 108, women 71 (includes 2 from Greenland), percent of women 39.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and 18 judges)<br>
@@ -522,7 +522,7 @@ $504.808 billion (2019 est.)<br>
 $517.972 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Danish kroner (DKK) per US dollar -<br>
+_Currency_: Danish kroner (DKK) per US dollar -<br>
 6.16045 (2020 est.)<br>
 6.7506 (2019 est.)<br>
 6.5533 (2018 est.)<br>
@@ -676,7 +676,7 @@ North Sea - Esbjerg,<br>
 
 **Military and security forces**<br>
 Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2022)<br>
-note - the Danish military maintains a Joint Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; the command also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
+<strong>note:</strong> the Danish military maintains a Joint Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; the command also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2021 est.)<br>
@@ -693,7 +693,7 @@ the Danish military inventory is comprised of a mix of modern European, US, and 
 
 **Military service age and obligation**<br>
 18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches (2021)<br>
-note(s) - women have been able serve in all military occupations, including combat arms, since 1988; as of 2019, they made up about 8% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br>
+<strong>note:</strong> women have been able serve in all military occupations, including combat arms, since 1988; as of 2019, they made up about 8% of the military's full-time personnel; conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br>
 
 **Military deployments**<br>
 approximately 200 Baltics (NATO); approximately 100 Middle East/Iraq (NATO) (2022)<br>
@@ -714,6 +714,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 31,561 (Ukraine) (as of 13 July 2022)<br>
+_refugees (country of origin)_: 19,833 (Syria), 5,634 (Eritrea) (mid-year 2021); 32,116 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 11,608 (mid-year 2021)<br>
 

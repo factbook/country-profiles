@@ -534,7 +534,7 @@ $29.945 billion (2019 est.)<br>
 $28.046 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-togrog/tugriks (MNT) per US dollar -<br>
+_Currency_: togrog/tugriks (MNT) per US dollar -<br>
 2,378.1 (2017 est.)<br>
 2,140.3 (2016 est.)<br>
 2,140.3 (2015 est.)<br>

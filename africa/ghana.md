@@ -366,7 +366,7 @@ _chief of state_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017); 
 _head of government_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017); Vice President Mahamudu BAWUMIA (since 7 January 2017)<br>
 _cabinet_: Council of Ministers; nominated by the president, approved by Parliament<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 December 2020 (next to be held in December 2024)<br>
-_election results_: Nana Addo Dankwa AKUFO-ADDO reelected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 51.3%, John Dramani MAHAMA (NDC) 47.4%, other 1.3%<br>
+_election results_: Nana Addo Dankwa AKUFO-ADDO reelected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 51.3%, John Dramani MAHAMA (NDC) 47.4%, other 1.3% (2020)<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (275 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
@@ -551,7 +551,7 @@ $20.467 billion (2019 est.)<br>
 $17.885 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-cedis (GHC) per US dollar -<br>
+_Currency_: cedis (GHC) per US dollar -<br>
 5.86 (2020 est.)<br>
 5.68 (2019 est.)<br>
 4.9 (2018 est.)<br>

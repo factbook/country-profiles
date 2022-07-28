@@ -261,7 +261,7 @@ _elections/appointments_: the monarchy is hereditary; governor appointed by the 
 **Legislative branch**<br>
 _description_: unicameral Parliament (18 seats; 17 members directly elected in a single nationwide constituency by majority vote and 1 appointed by Parliament as speaker; members serve 4-year terms)<br>
 _elections_: last held on 17 October 2019 (next to be held in 2023)<br>
-_election results_: percent of vote by party - GSLP-Liberal Alliance 52.5% (GSLP 37.0%, LPG 15.5%), GSD 25.6%, TG 20.5%, independent 1.4%; seats by party - GSLP-Liberal Alliance 10 (GSLP 7, LPG 3), GSD 6, TG 1; composition including Parliament speaker - men 16, women 2, percent of women 1.1%<br>
+_election results_: percent of vote by party - GSLP-Liberal Alliance 58.8% (GSLP 41.2%, LPG 17.6%), GSD 35.3%, TG 5.8%, independent 1.4%; seats by party - GSLP-Liberal Alliance 10 (GSLP 7, LPG 3), GSD 6, TG 1; composition including Parliament speaker - men 16, women 2, percent of women 11.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of at least 3 judges, including the court president); Supreme Court of Gibraltar (consists of the chief justice and 3 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -386,7 +386,7 @@ refined petroleum, recreational boats, cars, coal tar oil, crude petroleum (2019
 <p>NA</p><br>
 
 **Exchange rates**<br>
-Gibraltar pounds (GIP) per US dollar -<br>
+_Currency_: Gibraltar pounds (GIP) per US dollar -<br>
 0.885 (2017 est.)<br>
 0.903 (2016 est.)<br>
 0.9214 (2015 est.)<br>

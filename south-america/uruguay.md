@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Montevideo, founded by the Spanish in 1726 as a military stronghold, soon became an important commercial center due to its natural harbor. Claimed by Argentina but annexed by Brazil in 1821, Uruguay declared its independence in 1825 and secured its freedom in 1828 after a three-year struggle. The administrations of President Jose BATLLE in the early 20th century launched widespread political, social, and economic reforms that established a statist tradition. A violent Marxist urban guerrilla movement named the Tupamaros (or Movimiento de Liberación Nacional-Tupamaros (MLN-T)), launched in the late 1960s, led Uruguay's president to cede control of the government to the military in 1973. By year-end, the rebels had been crushed, but the military continued to expand its hold over the government. Civilian rule was restored in 1985. In 2004, the left-of-center Frente Amplio Coalition won national elections that effectively ended 170 years of political control previously held by the Colorado and National (Blanco) parties. The left-of-center retained the presidency and control of both chambers of congress until 2019. Uruguay's political and labor conditions are among the freest on the continent.</p><br>
+<p>Montevideo, founded by the Spanish in 1726 as a military stronghold, soon became an important commercial center due to its natural harbor. Claimed by Argentina but annexed by Brazil in 1821, Uruguay declared its independence in 1825 and secured its freedom in 1828 after a three-year struggle. The administrations of President Jose BATLLE in the early 20th century launched widespread political, social, and economic reforms that established a statist tradition. A violent Marxist urban guerrilla movement named the Tupamaros (or Movimiento de Liberación Nacional-Tupamaros (MLN-T)), launched in the late 1960s, led Uruguay's president to cede control of the government to the military in 1973. By yearend, the rebels had been crushed, but the military continued to expand its hold over the government. Civilian rule was restored in 1985. In 2004, the left-of-center Frente Amplio Coalition won national elections that effectively ended 170 years of political control previously held by the Colorado and National (Blanco) parties. The left-of-center retained the presidency and control of both chambers of congress until 2019. Uruguay's political and labor conditions are among the freest on the continent.</p><br>
 
 ## Geography
 
@@ -398,7 +398,7 @@ _lyrics/music_: Francisco Esteban ACUNA de Figueroa/Francisco Jose DEBALI<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (all cultural)<br>
-_selected World Heritage Site locales_: Historic City of Colonia del Sacramento, Fray Bentos Industrial Landscape, The work of engineer Eladio Dieste: Church of Atl&aacute;ntida<br>
+_selected World Heritage Site locales_: Historic City of Colonia del Sacramento; Fray Bentos Industrial Landscape; The work of engineer Eladio Dieste: Church of Atl&aacute;ntida<br>
 
 ## Economy
 
@@ -538,7 +538,7 @@ $43.705 billion (2019 est.)<br>
 $42.861 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-Uruguayan pesos (UYU) per US dollar -<br>
+_Currency_: Uruguayan pesos (UYU) per US dollar -<br>
 42.645 (2020 est.)<br>
 37.735 (2019 est.)<br>
 32.2 (2018 est.)<br>
@@ -703,7 +703,7 @@ the inventory of the Armed Forces of Uruguay includes a wide variety of older or
 
 **Military service age and obligation**<br>
 18-30 years of age (18-22 years of age for Navy) for male or female voluntary military service; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2022)<br>
-note - as of 2017, women comprised about 19% of the active military<br>
+<strong>note:</strong> as of 2017, women comprised about 19% of the active military<br>
 
 **Military deployments**<br>
 830 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (Feb 2022)<br>

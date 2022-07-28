@@ -400,7 +400,7 @@ _lyrics/music_: Nguyen Van CAO<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 8 (5 cultural, 2 natural, 1 mixed)<br>
-_selected World Heritage Site locales_: Complex of Hué Monuments (c), Ha Long Bay (n), Hoi An Ancient Town (c), My Son Sanctuary (c), Phong Nha-Ke Bang National Park (n), Imperial Citadel of Thang Long - Hanoi (c), Citadel of the Ho Dynasty (c), Trang An Landscape Complex (m)<br>
+_selected World Heritage Site locales_: Complex of Hué Monuments (c); Ha Long Bay (n); Hoi An Ancient Town (c); My Son Sanctuary (c); Phong Nha-Ke Bang National Park (n); Imperial Citadel of Thang Long - Hanoi (c); Citadel of the Ho Dynasty (c); Trang An Landscape Complex (m)<br>
 
 ## Economy
 
@@ -539,7 +539,7 @@ $96.58 billion (31 December 2017 est.)<br>
 $84.34 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-dong (VND) per US dollar -<br>
+_Currency_: dong (VND) per US dollar -<br>
 23,129 (2020 est.)<br>
 23,171.5 (2019 est.)<br>
 23,312.5 (2018 est.)<br>
@@ -696,7 +696,7 @@ _river port(s)_: Ho Chi Minh (Mekong)<br>
 
 **Military and security forces**<br>
 People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, Navy (includes naval infantry), Air Force and Air Defense, Border Defense Force, and Vietnam Coast Guard; Vietnam People's Public Security Ministry; Vietnam Civil Defense Force (2022)<br>
-note(s) - the Public Security Ministry is responsible for internal security and controls the national police, a special national security investigative agency, and other internal security units; the Vietnam Coast Guard was established in 1998 as the Vietnam Marine Police and renamed in 2013; Vietnam officially established a maritime self-defense force (civilian militia) in 2010 after the National Assembly passed the Law on Militia and Self-Defense Forces in 2009; the Vietnam Fisheries Resources Surveillance (VFRS), established in 2013, is responsible for patrolling, monitoring for fishing violations, and carrying out fishery inspections; it is armed, allowed to use force if necessary, and works in tandem with the Vietnam Coast Guard<br>
+<strong>note 1:</strong> the Public Security Ministry is responsible for internal security and controls the national police, a special national security investigative agency, and other internal security units<br><br><strong>note 2:</strong> the Vietnam Coast Guard was established in 1998 as the Vietnam Marine Police and renamed in 2013; Vietnam officially established a maritime self-defense force (civilian militia) in 2010 after the National Assembly passed the Law on Militia and Self-Defense Forces in 2009; the Vietnam Fisheries Resources Surveillance (VFRS), established in 2013, is responsible for patrolling, monitoring for fishing violations, and carrying out fishery inspections; it is armed, allowed to use force if necessary, and works in tandem with the Vietnam Coast Guard<br>
 
 **Military expenditures**<br>
 2.4% of GDP (2021 est.)<br>

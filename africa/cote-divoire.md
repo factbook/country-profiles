@@ -366,7 +366,7 @@ _chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010); V
 _head of government_: Prime Minister Patrick ACHI (since 19 April 2022); note - Prime Minister ACHI resigned on 13 April 2022 and was reappointed by President Alassane Dramane OUATTARA before a Congressional meeting on 19 April 2022<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term ; election last held on 31 October 2020 (next to be held in October 2025); vice president elected on same ballot as president; prime minister appointed by the president; note &ndash; because President OUATTARA promulgated the new constitution during his second term, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms<br>
-_election results_: Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%<br>
+_election results_: Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7% (2020)<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats - 254 for 2021-2026 term; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
@@ -414,7 +414,7 @@ _lyrics/music_: Mathieu EKRA, Joachim BONY, and Pierre Marie COTY/Pierre Marie C
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (2 cultural, 3 natural)<br>
-_selected World Heritage Site locales_: Como&eacute; National Park (n), Historic Grand-Bassam (c), Mount Nimba Strict Nature Reserve (n), Sudanese-style Mosques (c), Ta&iuml; National Park (n)<br>
+_selected World Heritage Site locales_: Como&eacute; National Park (n); Historic Grand-Bassam (c); Mount Nimba Strict Nature Reserve (n); Sudanese-style Mosques (c); Ta&iuml; National Park (n)<br>
 
 ## Economy
 
@@ -547,7 +547,7 @@ $13.07 billion (31 December 2017 est.)<br>
 $11.02 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+_Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 594.3 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>

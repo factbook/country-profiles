@@ -387,7 +387,7 @@ _lyrics/music_: Abdulla ARIPOV/Mutal BURHANOV<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (4 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Itchan Kala (c), Historic Bukhara (c), Historic Shakhrisyabz (c), Samarkand - Crossroad of Cultures (c), Western Tien Shan (n)<br>
+_selected World Heritage Site locales_: Itchan Kala (c); Historic Bukhara (c); Historic Shakhrisyabz (c); Samarkand - Crossroad of Cultures (c); Western Tien Shan (n)<br>
 
 ## Economy
 
@@ -522,7 +522,7 @@ $16.9 billion (31 December 2017 est.)<br>
 $16.76 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Uzbekistani soum (UZS) per US dollar -<br>
+_Currency_: Uzbekistani soum (UZS) per US dollar -<br>
 3,906.1 (2017 est.)<br>
 2,966.6 (2016 est.)<br>
 2,966.6 (2015 est.)<br>
@@ -669,7 +669,7 @@ _river port(s)_: Termiz (Amu Darya)<br>
 
 **Military and security forces**<br>
 Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard; Ministry of Interior: Internal Security Troops, Border Guards (2022)<br>
-note - the National Guard, also under the Ministry of Defense, ensures public order and security of diplomatic missions, radio and television broadcasting, and other state entities<br>
+<strong>note:</strong> the National Guard, also under the Ministry of Defense, ensures public order and security of diplomatic missions, radio and television broadcasting, and other state entities<br>
 
 **Military expenditures**<br>
 2.8% of GDP (2019 est.) (approximately $3 billion)<br>

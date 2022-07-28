@@ -331,7 +331,7 @@ _conventional short form_: Niger<br>
 _local long form_: Republique du Niger<br>
 _local short form_: Niger<br>
 _etymology_: named for the Niger River that passes through the southwest of the country; from a native term "Ni Gir" meaning "River Gir"<br>
-<strong>note:</strong> pronounced nee-zher<br>
+<strong>note:</strong> pronounced nee-zhair<br>
 
 **Government type**<br>
 semi-presidential republic<br>
@@ -423,7 +423,7 @@ _lyrics/music_: Maurice Albert THIRIET/Robert JACQUET and Nicolas Abel Francois 
 
 **National heritage**<br>
 _total World Heritage Sites_: 3 (1 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Air and T&eacute;n&eacute;r&eacute; Natural Reserves (n), W-Arly-Pendjari Complex (n), Historic Agadez (c)<br>
+_selected World Heritage Site locales_: Air and T&eacute;n&eacute;r&eacute; Natural Reserves (n); W-Arly-Pendjari Complex (n); Historic Agadez (c)<br>
 
 ## Economy
 
@@ -558,7 +558,7 @@ $3.728 billion (31 December 2017 est.)<br>
 $2.926 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-Communaute Financiere Africaine francs (XOF) per US dollar -<br>
+_Currency_: Communaute Financiere Africaine francs (XOF) per US dollar -<br>
 605.3 (2017 est.)<br>
 593.01 (2016 est.)<br>
 593.01 (2015 est.)<br>
@@ -703,7 +703,7 @@ _by type_: general cargo 1 (2021)<br>
 
 **Military and security forces**<br>
 Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN); Ministry of Interior: Niger National Guard (GNN; aka Republican Guard), National Police (includes the Directorate of Territorial Surveillance, which is charged with border management) (2022)<br>
-note - the Gendarmerie is subordinate to the Ministry of Defense and has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br>
+<strong>note:</strong> the Gendarmerie is subordinate to the Ministry of Defense and has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2021 est.)<br>

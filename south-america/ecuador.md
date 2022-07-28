@@ -401,7 +401,7 @@ _lyrics/music_: Juan Leon MERA/Antonio NEUMANE<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 5 (3 cultural, 2 natural)<br>
-_selected World Heritage Site locales_: Historic Quito (c), Galápagos Islands (n), Historic Cuenca (c), Qhapaq Ñan/Andean Road System (c), Sangay National Park (n)<br>
+_selected World Heritage Site locales_: Historic Quito (c); Galápagos Islands (n); Historic Cuenca (c); Qhapaq Ñan/Andean Road System (c); Sangay National Park (n)<br>
 
 ## Economy
 
@@ -699,8 +699,8 @@ _river port(s)_: Guayaquil (Guayas)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian Navy (Armada del Ecuador, Fuerza Naval del Ecuador, FNE, includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE) (2022)<br><br>note - the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government<br>
-note - the National Police of Ecuador (Polic&iacute;a Nacional del Ecuador) is under the Ministry of Government<br>
+Ecuadorian Armed Forces: the Ecuadorian Army (Ejército Ecuatoriano), Ecuadorian Navy (Armada del Ecuador, Fuerza Naval del Ecuador, FNE, includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE) (2022)<br>
+<strong>note:</strong> the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government<br>
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
@@ -717,7 +717,7 @@ the military's equipment inventory is mostly older and derived from a wide varie
 
 **Military service age and obligation**<br>
 18 years of age for selective conscript military service, although conscription was suspended in 2008; 18 years of age for voluntary military service; Ecuadorian birth requirement; 1-year service obligation; females have been allowed to serve in all branches since 2012 (2022)<br>
-note - in 2017, women made up an estimated 3% of the military<br>
+<strong>note: </strong>in 2017, women made up an estimated 3% of the military<br>
 
 **Military - note**<br>
 <p>border conflicts with Peru dominated the military’s focus until the late 1990s; as of 2022, border security remained a priority, but in more recent years, security challenges have shifted towards counterinsurgency and counter-narcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, has spilled over the border; troop deployments along the border with Colombia were scaled back following the 2016 signing of a peace agreement between the Colombian Government and the Revolutionary Armed Forces of Colombia (FARC) terrorist group (see Appendix T), but recent violence associated with FARC dissidents to the agreement have led Ecuador and Colombia to reinforce their shared border; since 2012, the Ecuadorian Government has also expanded the military’s role in general public security and counter-narcotics operations, in part due to rising violence, police corruption, and police ineffectiveness</p> <p>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010</p><br>

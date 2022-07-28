@@ -5,7 +5,7 @@ _Central America and Caribbean / Dependencies (United Kingdom)_
 ## Introduction
 
 **Background**<br>
-English and Irish colonists from St. Kitts first settled on Montserrat in 1632; the first African slaves arrived three decades later. The British and French fought for possession of the island for most of the 18th century, but it finally was confirmed as a British possession in 1783. The island's sugar plantation economy was converted to small farm landholdings in the mid-19th century. Much of this island was devastated and two-thirds of the population fled abroad because of the eruption of the Soufriere Hills Volcano that began on 18 July 1995. Montserrat has endured volcanic activity since, with the last eruption occurring in 2013.<br>
+English and Irish colonists from St. Kitts first settled on Montserrat in 1632; the first African slaves arrived three decades later. The British and French fought for possession of the island for most of the 18th century, but it finally was confirmed as a British possession in 1783. The island's sugar plantation economy was converted to small farm landholdings in the mid-19th century. Much of this island was devastated and two thirds of the population fled abroad because of the eruption of the Soufriere Hills Volcano that began on 18 July 1995. Montserrat has endured volcanic activity since, with the last eruption occurring in 2013.<br>
 
 ## Geography
 
@@ -268,9 +268,9 @@ _cabinet_: Executive Council consists of the governor, the premier, 3 other mini
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly (11 seats; 9 members directly elected in a single constituency by absolute majority vote in 2 rounds to serve 5-year terms and 2 ex-officio members - the attorney general and financial secretary)<br>
+_description_: unicameral Legislative Assembly (12 seats; 9 members directly elected in a single constituency by absolute majority vote in 2 rounds to serve 5-year terms; the speaker, normally elected from the outside by the Assembly for a 5-year term, and 2 ex-officio members - the attorney general and financial secretary)<br>
 _elections_: last held on 18 November 2019 (next scheduled for 2024)<br>
-_election results_: percent of vote by party -&nbsp;MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1<br>
+_election results_: percent of vote by party - MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1; composition, including the speaker and 2 ex-officio members - men 8, women 4, percent of women 33.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 1 assigned to Montserrat; Montserrat is also a member of the Caribbean Court of Justice<br>
@@ -404,7 +404,7 @@ $51.47 million (31 December 2015 est.)<br>
 $8.9 million (1997)<br>
 
 **Exchange rates**<br>
-East Caribbean dollars (XCD) per US dollar -<br>
+_Currency_: East Caribbean dollars (XCD) per US dollar -<br>
 2.7 (2017 est.)<br>
 2.7 (2016 est.)<br>
 2.7 (2015 est.)<br>
@@ -524,7 +524,7 @@ _major seaport(s)_: Little Bay, Plymouth<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Royal Montserrat Defence Force (ceremonial, civil defense duties), Montserrat Police Force<br>
+no regular military forces; Royal Montserrat Defense Force (ceremonial, civil defense duties), Montserrat Police Force<br>
 
 **Military - note**<br>
 defense is the responsibility of the UK<br>

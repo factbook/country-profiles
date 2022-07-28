@@ -330,9 +330,9 @@ _elections/appointments_: president indirectly elected by the Nitijela from amon
 _election results_: David KABUA&nbsp;elected president; Parliament vote - David KABUA&nbsp;20, Hilda C. HEINE&nbsp;12<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Parliament consists of:<br>Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - legislative power resides in the Nitijela<br>
+_description_: unicameral National Parliament consists of:<br>Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - the Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>
 _elections_: last held on 18 November 2019 (next to be held by November 2023)<br>
-_election results_: percent of vote by party - NA; seats by party - independent 33<br>
+_election results_: percent of vote by party - NA; seats by party - independent 33; composition - men 31, women 2, percent of women 6.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 2 associate justices)<br>

@@ -389,7 +389,7 @@ _lyrics/music_: Vincas KUDIRKA<br>
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (all cultural)<br>
-_selected World Heritage Site locales_: Vilnius Historic Center, Curonian Spit, Kernavė Archaeological Site, Struve Geodetic Arc<br>
+_selected World Heritage Site locales_: Vilnius Historic Center; Curonian Spit; Kernavė Archaeological Site; Struve Geodetic Arc<br>
 
 ## Economy
 
@@ -529,7 +529,7 @@ $37.859 billion (2019 est.)<br>
 $41.999 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-litai (LTL) per US dollar -<br>
+_Currency_: litai (LTL) per US dollar -<br>
 0.82771 (2020 est.)<br>
 0.90338 (2019 est.)<br>
 0.87789 (2018 est.)<br>
@@ -682,7 +682,8 @@ _LNG terminal(s) (import)_: Klaipeda<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos Pajegos), Naval Forces (Karines Juru Pajegos), Air Forces (Karines Oro Pajegos), Special Operations Forces (Specialiuju Operaciju Pajegos); National Defense Volunteer Forces (Savanoriu Pajegos); National Riflemen's Union (paramilitary force that acts as an additional reserve force) (2022)<br>
+Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos Pajegos), Naval Forces (Karines Juru Pajegos), Air Forces (Karines Oro Pajegos), Special Operations Forces (Specialiuju Operaciju Pajegos); National Defense Volunteer Forces (Savanoriu Pajegos); National Riflemen's Union (2022)<br>
+<strong>note: </strong>the National Rifleman's Union is a paramilitary force that acts as an additional reserve force<br>
 
 **Military expenditures**<br>
 2% of GDP (2021 est.)<br>
@@ -699,7 +700,7 @@ the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons system
 
 **Military service age and obligation**<br>
 19-26 years of age for conscripted military service (males); 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service (male and female) (2021)<br>
-note(s) - Lithuania conscripts up to 4,000 males each year; conscripts are selected using an automated lottery system; as of 2019, women comprised about 12% of the military's full-time personnel<br>
+<strong>note 1:</strong> Lithuania conscripts up to 4,000 males each year; conscripts are selected using an automated lottery system<br><br><strong>note 2:</strong> as of 2019, women comprised about 12% of the military's full-time personnel<br>
 
 **Military deployments**<br>
 contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units (2022)<br>
@@ -713,7 +714,7 @@ Lithuania became a member of NATO in 2004<br> <p>since 2017, Lithuania has hoste
 <p><em>Lithuania-Belarus</em>: as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation</p> <p><em>Lithuania-Lativa</em>: boundary demarcated with Latvia was completed in 1998</p> <p><em>Lithuania-Russia</em>:<strong> </strong>Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules; in January 2018, demarcation of the Lithuania-Russia border was completed</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 58,971 (Ukraine) (as of 12 July 2022)<br>
+_refugees (country of origin)_: 60,010 (Ukraine) (as of 26 July 2022)<br>
 _stateless persons_: 2,721 (mid-year 2021)<br>
 
 **Illicit drugs**<br>

@@ -350,7 +350,7 @@ _judge selection and term of office_: BiH Constitutional Court judges - 4 select
 _subordinate courts_: the Federation has 10 cantonal courts plus a number of municipal courts; the Republika Srpska has a supreme court, 5 district courts, and a number of municipal courts<br>
 
 **Political parties and leaders**<br>
-Alliance for a Better Future of BiH or SBB BiH [Fahrudin RADONCIC]<br>Alliance of Independent Social Democrats or SNSD [Milorad DODIK]<br>Alternative Party for Democratic Activity or A-SDA [Nermin OGRESEVIC] (merged with Independent Bosnian Herzegovinian List to form NES)<br>Croat Peasants' Party or HSS [Mario KARAMATIC]<br>Croatian Christian Democratic Union of Bosnia and Herzegovina or HKDU [Ivan MUSA]<br>Croatian Democratic Union or HDU [Miro GRABOVAC-TITAN]<br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC]<br>Croatian Democratic Union 1990 or HDZ-1990 [Ilija CVITANOVIC]<br>Croatian Party of Rights dr. Ante Starcevic or HSP-AS Bih [Stanko PRIMORAC]<br>Democratic Alliance or DEMOS [Nedeljko CUBRILOVIC]<br>Democratic Front of DF [Zeljko KOMSIC]<br>Democratic Peoples' Alliance or DNS [Nenad NESIC]<br>Independent Bloc or NB [Senad SEPIC]<br>Movement for Democratic Action or PDA [Mirsad KUKIC]<br>Our Party or NS/HC [Edin FORTO]<br>People and Justice Party or NiP [Elmedin KONAKOVIC]<br>People's European Union of Bosnia and Herzegovina or NES [Nermin OGRESEVIC]<br>Progressive Srpska or NS [Goran DORDIC]<br>Party for Democratic Action or SDA [Bakir IZETBEGOVIC]<br>Party of Democratic Progress or PDP [Branislav BORENOVIC]<br>People's Democratic Movement or NDP [Dragan CAVIC]<br>Serb Democratic Party or SDS [Mirko SAROVIC]<br>Serb Radical Party-Dr. Vojislav Seselj or SRS-VS [Vojislav SESELJ] (merged with PDP)<br>Social Democratic Party or SDP [Nermin NIKSIC]<br>Socialist Party or SP [Petar DOKIC]<br>United Srpska or US [Nenad STEVANDIC]<br>
+Alliance for a Better Future of BiH or SBB BiH [Fahrudin RADONCIC]<br>Alliance of Independent Social Democrats or SNSD [Milorad DODIK]<br>Alternative Party for Democratic Activity or A-SDA [Nermin OGRESEVIC] (merged with Independent Bosnian Herzegovinian List to form NES)<br>Croat Peasants' Party or HSS [Mario KARAMATIC]<br>Croatian Christian Democratic Union of Bosnia and Herzegovina or HKDU [Ivan MUSA]<br>Croatian Democratic Union or HDU [Miro GRABOVAC-TITAN]<br>Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC]<br>Croatian Democratic Union 1990 or HDZ-1990 [Ilija CVITANOVIC]<br>Croatian Party of Rights dr. Ante Starcevic or HSP-AS Bih [Stanko PRIMORAC]<br>Democratic Alliance or DEMOS [Nedeljko CUBRILOVIC]<br>Democratic Front of DF [Zeljko KOMSIC]<br>Democratic Peoples' Alliance or DNS [Nenad NESIC]<br>Independent Bloc or NB [Senad SEPIC]<br>Movement for Democratic Action or PDA [Mirsad KUKIC]<br>National Democratic Movement or NDP [Dragan CAVIC]<br>Our Party or NS/HC [Edin FORTO]<br>Party for Democratic Action or SDA [Bakir IZETBEGOVIC]<br>Party of Democratic Progress or PDP [Branislav BORENOVIC]<br>People and Justice Party or NiP [Elmedin KONAKOVIC]<br>People's European Union of Bosnia and Herzegovina or NES [Nermin OGRESEVIC]<br>Progressive Srpska or NS [Goran DORDIC]<br>Serb Democratic Party or SDS [Mirko SAROVIC]<br>Serb Radical Party-Dr. Vojislav Seselj or SRS-VS [Vojislav SESELJ] (merged with PDP)<br>Social Democratic Party or SDP [Nermin NIKSIC]<br>Socialist Party or SP [Petar DOKIC]<br>United Srpska or US [Nenad STEVANDIC]<br>
 
 **International organization participation**<br>
 BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -386,7 +386,7 @@ _lyrics/music_: none officially; Dusan SESTIC and Benjamin ISOVIC/Dusan SESTIC<b
 
 **National heritage**<br>
 _total World Heritage Sites_: 4 (3 cultural, 1 natural)<br>
-_selected World Heritage Site locales_: Old Bridge Area of Mostar (c), Mehmed Paša Sokolović Bridge (c), Stećci Medieval Tombstones Graveyards (c), Primeval Beech Forests - Janj Forest (n)<br>
+_selected World Heritage Site locales_: Old Bridge Area of Mostar (c); Mehmed Paša Sokolović Bridge (c); Stećci Medieval Tombstones Graveyards (c); Primeval Beech Forests - Janj Forest (n)<br>
 
 ## Economy
 
@@ -525,7 +525,7 @@ $10.87 billion (31 December 2017 est.)<br>
 $10.64 billion (31 December 2016 est.)<br>
 
 **Exchange rates**<br>
-konvertibilna markas (BAM) per US dollar -<br>
+_Currency_: konvertibilna markas (BAM) per US dollar -<br>
 1.729 (2017 est.)<br>
 1.7674 (2016 est.)<br>
 1.7674 (2015 est.)<br>
@@ -690,7 +690,7 @@ the inventory for the Armed Forces of Bosnia and Herzegovina includes mainly Sov
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for junior enlisted personnel (E-1 to E-4), mandatory retirement at age 50 and 30 years of service for non-commissioned officers (E-5 to E-9), mandatory retirement at age 55 and 30 years of service for all commissioned officers; conscription abolished in 2005 (2021)<br>
-note - as of 2019, women made up about 7% of the military's full-time personnel<br>
+<strong>note:</strong> as of 2019, women made up about 7% of the military's full-time personnel<br>
 
 **Military - note**<br>
 <p>the Armed Forces of Bosnia and Herzegovina (AFBiH) are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2003 Law on Defense, which also established the country’s Ministry of Defense<br><br>the European Union Force Bosnia and Herzegovina (EUFOR) has operated in the country to oversee implementation of the Dayton/Paris Agreement since taking over from NATO's Stabilization Force (SFOR) in 2004; in addition to its security mission, EUFOR supports the overall EU comprehensive strategy for Bosnia and Herzegovina and the efforts of the AFBiH to attain NATO standards; as of 2022, it had about 600 troops from 19 countries</p> <p>Bosnia and Herzegovina joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; as of 2022, NATO maintained a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to EUFOR</p> <p> </p><br>
