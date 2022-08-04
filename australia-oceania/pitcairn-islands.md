@@ -232,7 +232,6 @@ Birthday of Queen ELIZABETH II, second Saturday in June (1926); Discovery Day (P
 
 **Constitution**<br>
 _history_: several previous; latest drafted 10 February 2010, presented 17 February 2010, effective 4 March 2010<br>
-_amendments_: Reviewed 10 Jun '21; NC<br>
 
 **Legal system**<br>
 local island by-laws<br>
@@ -251,9 +250,9 @@ _elections/appointments_: the monarchy is hereditary; governor and commissioner 
 _election results_: Charlene WARREN-PEU elected mayor and chairman of the Island Council; Island Council vote - NA<br>
 
 **Legislative branch**<br>
-_description_: unicameral Island Council (10 seats; 4 members directly elected by proportional representation vote, 1 nominated by the elected Council members, 2 appointed by the governor, and 3 ex-officio members - the governor, deputy governor, and commissioner; elected members serve 1-year terms)<br>
-_elections_: last held in November 2017 (next to be held not later than December 2019)<br>
-_election results_: percent of vote - NA; seats - 5 independent; composition - men 5, women 5, percent of women 50%<br>
+_description_: unicameral Island Council: 10 seats; (7 members - 5 councillors, the mayor, and the deputy mayor - elected by popular vote, and 3 ex officio non-voting members - the administrator, who serves as both the head of government and the representative of the governor of Pitcairn Islands, the governor, and the deputy governor; the councillors and the deputy mayor serve 2-year terms, the mayor serves a 3-year term, and the administrator is appointed by the governor for an indefinite term)<br>
+_elections_: last held on 6 November 2019 (next scheduled election - NA)<br>
+_election results_: percent of vote - NA; seats - 5 independent; composition - men 4, women 6, percent of women 60%<br>
 
 **Judicial branch**<br>
 _highest courts_: Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice, an ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges); note - appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
@@ -339,7 +338,7 @@ _Currency_: New Zealand dollars (NZD) per US dollar -<br>
 _general assessment_: satellite-based phone services; rural connectivity a challenge; 2G services widespread; demand for mobile broadband due to mobile services providing Internet source; the launch of the Kacific-1 satellite in 2019 will improve telecommunications in the region (2020)<br>
 _domestic_: local phone service with international connections via Internet (2018)<br>
 _international_: country code - 872; satellite earth station - 1 Inmarsat<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 satellite TV from Fiji-based Sky Pacific offering a wide range of international channels<br>

@@ -123,7 +123,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: "Episkopi" means "episcopal" in Greek and stems from the fact that the site previously served as the bishop's seat of an Orthodox diocese<br>
 
 **Constitution**<br>
-_history_: presented 3 August 1960, effective 16 August 1960 (The Sovereign Base Areas of Akrotiri and Dhekelia Order in Council 1960, serves as a basic legal document); amended 1966 (2021)<br>
+_history_: presented 3 August 1960, effective 16 August 1960 (The Sovereign Base Areas of Akrotiri and Dhekelia Order in Council 1960, serves as a basic legal document); amended 1966<br>
 
 **Legal system**<br>
 laws applicable to the Cypriot population are, as far as possible, the same as the laws of the Republic of Cyprus; note - the Sovereign Base Area Administration has its own court system to deal with civil and criminal matters<br>

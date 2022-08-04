@@ -203,7 +203,7 @@ none<br>
 Election Day of Pope FRANCIS, 13 March (2013)<br>
 
 **Constitution**<br>
-_history_: previous 1929, 1963; latest adopted 26 November 2000, effective 22 February 2001 (Fundamental Law of Vatican City State); note - in October 2013, Pope Francis instituted a 9-member Council of Cardinal Advisors to reform the administrative apparatus of the Holy See (Roman Curia) to include writing a new constitution; on 13 June 2018, Pope Francis approved the Council of Cardinals' first draft of the new constitution, Predicatae Evangelium, which will replace "Pastor Bonus, the current governing document of the Roman Curia<br>
+_history_: previous 1929, 1963; latest adopted 26 November 2000, effective 22 February 2001 (Fundamental Law of Vatican City State); note - in October 2013, Pope Francis instituted a 9-member Council of Cardinal Advisers to reform the administrative apparatus of the Holy See (Roman Curia) to include writing a new constitution; on 13 June 2018, Pope Francis approved the Council of Cardinals' first draft of the new constitution, Predicatae Evangelium, which will replace "Pastor Bonus", the current governing document of the Roman Curia<br>
 _amendments_: note - although the Fundamental Law of Vatican City State makes no mention of amendments, Article Four (drafting laws), states that this legislative responsibility resides with the Pontifical Commission for Vatican City State; draft legislation is submitted through the Secretariat of State and considered by the pope<br>
 
 **Legal system**<br>
@@ -327,7 +327,7 @@ _electrification - total population_: 100% (2020)<br>
 _general assessment_: automatic digital exchange (2018)<br>
 _domestic_: connected via fiber-optic cable to Telecom Italia network (2018)<br>
 _international_: country code - 39; uses Italian system<br>
-<strong>note:</strong> the COVID-19 outbreak is negatively impacting telecommunications production and supply chains globally; consumer spending on telecom devices and services has also slowed due to the pandemic's effect on economies worldwide; overall progress towards improvements in all facets of the telecom industry - mobile, fixed-line, broadband, submarine cable and satellite - has moderated<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 the Vatican Television Center (CTV) transmits live broadcasts of the Pope's Sunday and Wednesday audiences, as well as the Pope's public celebrations; CTV also produces documentaries; Vatican Radio is the Holy See's official broadcasting service broadcasting via shortwave, AM and FM frequencies, and via satellite and Internet connections; Vatican News website partners with Vatican Radio and provides Catholic news provided by the Vatican (2021)<br>

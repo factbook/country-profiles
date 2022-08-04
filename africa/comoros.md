@@ -85,7 +85,7 @@ _adjective_: Comoran<br>
 Antalote, Cafre, Makoa, Oimatsaha, Sakalava<br>
 
 **Languages**<br>
-Arabic (official), French (official), Shikomoro (official; a blend of Swahili and Arabic) (Comorian)<br>
+Arabic (official), French (official), Shikomoro (official; similar to Swahili) (Comorian)<br>
 
 **Religions**<br>
 Sunni Muslim 98%, other (including Shia Muslim, Roman Catholic, Jehovah's Witness, Protestant) 2%<br>
@@ -303,7 +303,7 @@ Independence Day, 6 July (1975)<br>
 
 **Constitution**<br>
 _history_: previous 1996, 2001; newest adopted 30 July 2018<br>
-_amendments_: proposed by the president of the union or supported by at least one third of the Assembly of the Union membership; adoption requires approval by at three-quarters majority of the total Assembly membership or approval in a referendum<br>
+_amendments_: proposed by the president of the union or supported by at least one third of the Assembly of the Union membership; adoption requires approval by at least three-quarters majority of the total Assembly membership or approval in a referendum<br>
 <strong>note: </strong>a referendum held on 30 July 2018 - boycotted by the opposition - overwhelmingly approved a new constitution that allows for 2 consecutive 5-year presidential terms and revises the rotating presidency within the islands<br>
 
 **Legal system**<br>
@@ -322,11 +322,11 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President AZALI Assoumani (since 26 May 2016); note - the president is both chief of state and head of government; note - AZALI takes oath of office 2 June 2019 after 24 March 2019 reelection (2019)<br>
+_chief of state_: President AZALI Assoumani (since 26 May 2016); note - the president is both chief of state and head of government<br>
 _head of government_: President AZALI Assoumani (since 26 May 2016)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote in 2 rounds for a 5-year term (eligible for a second term); election last held on 24&nbsp;March 2019 (next to be held in 2024)<br>
-_election results_: AZALI Assoumani (CRC) elected president in first round; with a 59% of the vote; - AZALI Assoumani (CRC) 60.8%, Ahamada MAHAMOUDOU (PJ) 14.6%, and Mouigni Baraka Said SOILIHI (Independent) 5.6%<br>
+_election results_: <em>2019</em>: AZALI Assoumani (CRC) elected president in first round - AZALI Assoumani (CRC) 60.8%, Ahamada MAHAMOUDOU (PJ) 14.6%, Mouigni Baraka Said SOILIHI (Independent) 5.6%, other 19%<br><br><em>2016:</em> AZALI Assoumani (CRC) elected president in the second round; percent of vote in first round - Mohamed Ali SOILIHI (UPDC) 17.6%, Mouigni BARAKA (RDC) 15.1%, AZALI Assoumani (CRC) 15%, Fahmi Said IBRAHIM (PEC) 14.5%, other 37.8%; percent of vote in second round - AZALI Assoumani (CRC) 41.4%, Mohamed Ali SOILIHI (UPDC) 39.7%; Mouigni BARAKA (RDC) 19%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Union (33 seats; 24 members directly elected by absolute majority vote in 2 rounds if needed and 9 members indirectly elected by the 3 island assemblies; members serve 5-year terms) (2017)<br>
@@ -578,7 +578,7 @@ _subscriptions per 100 inhabitants_: 90 (2020 est.)<br>
 _general assessment_: Qatar launched a special program for the construction of a wireless network to inter connect the 3 islands of the archipelago; telephone service limited to the islands' few towns (2020)<br>
 _domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular usage about 54 per 100 persons; 2 companies provide domestic and international mobile service and wireless data (2020)<br>
 _international_: country code - 269; landing point for the EASSy, Comoros Domestic Cable System, Avassa, and FLY-LION3&nbsp;fiber-optic submarine cable system connecting East Africa with Europe; HF radiotelephone communications to Madagascar and Reunion (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 national state-owned TV station and a TV station run by Anjouan regional government; national state-owned radio; regional governments on the islands of Grande Comore and Anjouan each operate a radio station; a few independent and small community radio stations operate on the islands of Grande Comore and Moheli, and these two islands have access to Mayotte Radio and French TV<br>

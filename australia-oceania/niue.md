@@ -249,7 +249,7 @@ _geographic coordinates_: 19 01 S, 169 55 W<br>
 _time difference_: UTC-11 (6 hours behind Washington, DC, during Standard Time)<br>
 
 **Administrative divisions**<br>
-none; note - there are no first-order administrative divisions as defined by the US Government, but there are 14 villages at the second order<br>
+none; there are no first-order administrative divisions as defined by the US Government, but there are 14 villages at the second order<br>
 
 **Independence**<br>
 19 October 1974 (Niue became a self-governing state in free association with New Zealand)<br>
@@ -277,7 +277,7 @@ _election results_: Dalton TAGELAGI elected premier; Legislative Assembly vote -
 **Legislative branch**<br>
 _description_: unicameral Assembly or Fono Ekepule (20 seats; 14 members directly elected in single-seat constituencies by simple majority vote and 6 directly elected from the National Register or "common roll" by majority vote; members serve 3-year terms)<br>
 _elections_: last held on 30 May 2020 (next to be held on 2023)<br>
-_election results_: percent of vote by party - NA; seats by party - independent 20<br>
+_election results_: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percent of women 15%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal<br>
@@ -465,7 +465,7 @@ _subscriptions per 100 inhabitants_: 62 (2018 est.)<br>
 _general assessment_: sole provider service for over 1000 landlines and fixed wireless lines; cellular telephone service operates on AMPS and GSM platforms; difficult geography presents challenges for rural areas; mobile is primary source of Internet access; mobile broadband demand is growing&nbsp;due to mobile services (2020)<br>
 _domestic_: single-line (fixed line) telephone system connects all villages on island; fixed teledensity at nearly 62 per 100 (2018)<br>
 _international_: country code - 683; landing point for the Manatua submarine cable linking Niue to several South Pacific Ocean Islands; expansion of satellite services (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 government-owned TV station with many of the programs supplied by Television New Zealand; 1 government-owned radio station broadcasting in AM and FM (2019)<br>

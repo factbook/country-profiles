@@ -255,7 +255,7 @@ Flag Day, 17 April (1900)<br>
 
 **Constitution**<br>
 _history_: adopted 17 October 1960; revised 1 July 1967<br>
-_amendments_: proposed by either house of the Legislative Assembly; passage requires three-fifths majority vote by the membership of each house, approval by simple majority vote in a referendum, approval by the US Secretary of the Interior, and only by an act of&nbsp; the US Congress; amended several times, last in 2021<br>
+_amendments_: proposed by either house of the Legislative Assembly; passage requires three-fifths majority vote by the membership of each house, approval by simple majority vote in a referendum, approval by the US Secretary of the Interior, and only by an act of the US Congress; amended several times, last in 2021<br>
 
 **Legal system**<br>
 mixed legal system of US common law and customary law<br>
@@ -285,7 +285,7 @@ _judge selection and term of office_: chief justice and associate chief justice 
 _subordinate courts_: district and village courts<br>
 
 **Political parties and leaders**<br>
-Democratic Party [Fagafaga Daniel LANGKILDE, chairman]<br>Republican Party [William SWORD, chairman]<br>
+Democratic Party [T'ia REID, chairman]<br>Republican Party [Taulapapa William SWORD, chairman]<br>
 
 **International organization participation**<br>
 AOSIS (observer), Interpol (subbureau), IOC, PIF (observer), SPC<br>
@@ -489,7 +489,7 @@ _subscriptions per 100 inhabitants_: 4 (2009 est.)<br>
 _general assessment_: good telex, telegraph, facsimile, and cellular telephone services; one of the most complete and modern telecommunications systems in the South Pacific Islands; all inhabited islands have telephone connectivity<br>
 _domestic_: nearly 18 per 100 fixed-line teledensity, domestic satellite system with 1 Comsat earth station (2018)<br>
 _international_: country code - 1-684; landing points for the ASH, Southern Cross NEXT&nbsp;and Hawaiki&nbsp;&nbsp;providing&nbsp;connectivity to New Zealand, Australia, American Samoa, Hawaii, California, and&nbsp;SAS connecting American Samoa with Samoa; satellite earth station - 1 (Intelsat-Pacific Ocean) (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 3 TV stations; multi-channel pay TV services are available; about a dozen radio stations, some of which are repeater stations<br>

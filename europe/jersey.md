@@ -246,7 +246,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 _etymology_: named after Saint Helier, the patron saint of Jersey, who was reputedly martyred on the island in A.D. 555<br>
 
 **Administrative divisions**<br>
-none (British crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 12 parishes; Grouville, Saint Brelade, Saint Clement, Saint Helier, Saint John, Saint Lawrence, Saint Martin, Saint Mary, Saint Ouen, Saint Peter, Saint Saviour, and Trinity<br>
+none (British crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 12 parishes; Grouville, Saint Brelade, Saint Clement, Saint Helier, Saint John, Saint Lawrence, Saint Martin, Saint Mary, Saint Ouen, Saint Peter, Saint Saviour, Trinity<br>
 
 **Independence**<br>
 none (British Crown dependency)<br>
@@ -276,7 +276,7 @@ _elections/appointments_: the monarchy is hereditary; Council of Ministers, incl
 **Legislative branch**<br>
 _description_: unicameral Assembly of the States of Jersey (49 elected members; 8 senators to serve 4-year terms, and 29 deputies and 12 connetables, or heads of parishes, to serve 4-year terms; 5 non-voting members appointed by the monarch include the bailiff, lieutenant governor, dean of Jersey, attorney general, and the solicitor general)<br>
 _elections_: last held on 22 June 2022 (next to be held in 2026)<br>
-_election results_: percent of vote - independents 59.1%, RJ 12.3%, JA 9.2%, BW 7.8%, PP 4.2%, JLC 4.1%, other 3.3%; seats by party - independents 31, RJ 10, JA 1, BW 4, PP 1, JLC 2; composition - men NA, women NA, percent of women NA%<br>
+_election results_: percent of vote - BW 71.4%, RJ 20.4%, JA 2%, PP 2%, JLC 4.1%; seats by party - BW 35, RJ 10, JA 1, PP 1, JLC 2; composition - men NA, women NA, percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest courts_: Jersey Court of Appeal (consists of the bailiff, deputy bailiff, and 12 judges); Royal Court (consists of the bailiff, deputy bailiff, 6 commissioners and lay people referred to as jurats, and is organized into Heritage, Family, Probate, and Samedi Divisions); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -427,7 +427,7 @@ _subscriptions per 100 inhabitants_: 95 (2009 est.)<br>
 _general assessment_: good system with broadband access (2018)<br>
 _domestic_: fixed-line 45 per 100 and mobile-cellular 115 per 100 subscriptions (2020)<br>
 _international_: country code - 44; landing points for the INGRID, UK-Channel Islands-8, and Guernsey-Jersey-4, submarine cable connectivity to Guernsey, the UK, and France (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey; satellite packages available; BBC Radio Jersey and 1 other radio station operating<br>

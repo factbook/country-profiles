@@ -280,7 +280,7 @@ _time zone note_: on 5 May 2018, North Korea reverted to UTC+9, the same time zo
 _etymology_: the name translates as "flat land" in Korean<br>
 
 **Administrative divisions**<br>
-<p>9 provinces (do, singular and plural) and 4 special administration cities (si, singular and plural)</p> <p><strong>provinces:</strong> Chagang, Hambuk (North Hamgyong), Hamnam (South Hamgyong), Hwangbuk (North Hwanghae), Hwangnam (South Hwanghae), Kangwon, P'yongbuk (North Pyongan), P'yongnam (South Pyongan), Ryanggang</p> <p><strong>major cities:</strong> Kaesong, Nampo, P'yongyang, Rason</p><br>
+<p>9 provinces (do, singular and plural) and 4 special administration cities (si, singular and plural)</p> <p><strong>provinces:</strong> Chagang, Hambuk (North Hamgyong), Hamnam (South Hamgyong), Hwangbuk (North Hwanghae), Hwangnam (South Hwanghae), Kangwon, P'yongbuk (North Pyongan), P'yongnam (South Pyongan), Ryanggang</p> <p><strong>special administration cities:</strong> Kaesong, Nampo, P'yongyang, Rason</p><br>
 <strong>note:</strong> P'yongyang is identified as a directly controlled city, while Kaesong, Nampo, and Rason are designated as special cities<br>
 
 **Independence**<br>
@@ -290,7 +290,7 @@ _etymology_: the name translates as "flat land" in Korean<br>
 Founding of the Democratic People's Republic of Korea (DPRK), 9 September (1948)<br>
 
 **Constitution**<br>
-_history_: previous 1948, 1972; latest adopted 1998 (during KIM Jong Il era)<br>
+_history_: previous 1948, 1972; latest adopted 1998 (during KIM Jong-il era)<br>
 _amendments_: proposed by the Supreme People&rsquo;s Assembly (SPA); passage requires more than two-thirds majority vote of the total SPA membership; revised several times, last in 2019<br>
 
 **Legal system**<br>
@@ -309,10 +309,10 @@ _residency requirement for naturalization_: unknown<br>
 17 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: State Affairs Commission President KIM Jong Un (since 17 December 2011); note(s) - North Korea revised its constitution in 2019 to define "the Chairman of the State Affairs Commission" as "the supreme leader who represents the state"; functions as the commander-in-chief and chief executive; the specific titles associated with this office have changed multiple times under KIM's tenure, however, KIM Jong Un has been supreme leader since his father's death in 2011 (2021)<br>
+_chief of state_: State Affairs Commission President KIM Jong Un (since 17 December 2011); note - North Korea revised its constitution in 2019 to define "the Chairman of the State Affairs Commission" as "the supreme leader who represents the state"; functions as the commander-in-chief and chief executive; the specific titles associated with this office have changed multiple times under KIM's tenure, however, KIM Jong Un has been supreme leader since his father's death in 2011<br>
 _head of government_: Supreme People's Assembly President CHOE Ryong Hae (since 11 April 2019); note - functions as the technical head of state and performs related duties, such as receiving ambassadors' credentials (2021)<br>
 _cabinet_: Cabinet or Naegak members appointed by the Supreme People's Assembly except the Minister of People's Armed Forces<br>
-_elections/appointments_: chief of state and premier indirectly elected by the Supreme People's Assembly; election last held on 10 March 2019 (next election March 2024)<br>
+_elections/appointments_: chief of state and premier indirectly elected by the Supreme People's Assembly; election last held on 10 March 2019 (next to be held in March 2024)<br>
 _election results_: KIM Jong Un reelected unopposed<br>
 <strong>note:</strong> the Korean Workers' Party continues to list deceased leaders KIM Il Sung and KIM Jong Il as Eternal President and Eternal General Secretary respectively<br>
 
@@ -545,7 +545,7 @@ _subscriptions per 100 inhabitants_: 23 (2020 est.)<br>
 _general assessment_: following years of isolationism and economic under-achievement, North Korea languishes near the bottom of the world&rsquo;s telecom maturity index alongside Afghanistan and Turkmenistan (who also happen to be struggling under repressive political regimes); the obstacles to building a functioning telecom network are so numerous that a fixed-line segment barely exists; foreign investors have been permitted to partner with the North Korea Post &amp; Telecommunications Corporation (NKPTC) to progress mobile voice, text, and broadband services, albeit on a strictly limited scale and with tight restrictions over what can be accessed; mobile communication is estimated to have eased up slightly to reach 19% in 2021, yet the high cost of ownership coupled with strict censorship makes mobile communications the exclusive domain of senior government officials and diplomats; for those citizens living close to China, it has been possible to obtain Chinese handsets and SIM cards, and to connect to towers (illegally) located just across the border; while this offers access to the outside world and at much lower prices than the state-controlled offerings, the risks are high including steep fines and the possibility of jail time; North Korea has been slightly more effective in building an IT sector and a nascent digital economy on the back of a concerted effort to grow a sizeable, well-trained IT workforce; but even here, its capabilities have been directed more towards nefarious activities such as cyber crime and hacking into Western countries&rsquo; computer systems; North Korea&rsquo;s determination to put itself offside with the rest of the world in pursuit of its ideology can only lead to tighter controls on communications inside and outside of the country. (2022)<br>
 _domestic_: fiber-optic links installed down to the county level; telephone directories unavailable; mobile service launched in late 2008 for the Pyongyang area and considerable progress in expanding to other parts of the country since; fixed-lines are approximately 5 per 100 and mobile-cellular 15 per 100 persons (2019)<br>
 _international_: country code - 850; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian Ocean region); other international connections through Moscow and Beijing<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 no independent media; radios and TVs are pre-tuned to government stations; 4 government-owned TV stations; the Korean Workers' Party owns and operates the Korean Central Broadcasting Station, and the state-run Voice of Korea operates an external broadcast service; the government prohibits listening to and jams foreign broadcasts (2019)<br>

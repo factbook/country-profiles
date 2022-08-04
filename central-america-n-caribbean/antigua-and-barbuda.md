@@ -316,7 +316,7 @@ _judge selection and term of office_: chief justice of Eastern Caribbean Supreme
 _subordinate courts_: Industrial Court; Magistrates' Courts<br>
 
 **Political parties and leaders**<br>
-Antigua Labor Party or ABLP [Gaston BROWNE]<br>Antigua Barbuda True Labor Party or ABTLP [Sharlene SAMUEL]<br>Barbuda People's Movement or BPM [Trevor WALKER]<br>Democratic National Alliance or DNA [Joanne MASSIAH]<br>Go Green for Life [Owen GEORGE]<br>United Progressive Party or UPP [Harold LOVELL] (a coalition of ACLM, PLM, UNDP)<br>
+Antigua Labor Party or ABLP [Gaston BROWNE]<br>Antigua Barbuda True Labor Party or ABTLP [Sharlene SAMUEL]<br>Barbuda People's Movement or BPM [Trevor WALKER]<br>Democratic National Alliance or DNA [Joanne MASSIAH]<br>Go Green for Life [Owen GEORGE]<br>United Progressive Party or UPP [Harold LOVELL] (a merger of Antigua Caribbean Liberation Movement, Progressive Labor Movement, and United National Democratic Party)<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (subscriber), ITU, ITUC (NGOs), MIGA, NAM (observer), OAS, OECS, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UPU, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

@@ -317,7 +317,7 @@ _judge selection and term of office_: Supreme Court president and judges appoint
 _subordinate courts_: Tribunal of Judges or Tribunal de Batlles; Tribunal of the Courts or Tribunal de Corts<br>
 
 **Political parties and leaders**<br>
-Democrats for Andorra or DA [Xaviar ESPOT ZAMORA]<br>Liberals of Andorra or L'A [Jordi GALLARDO FERNANDEZ]<br>Social Democracy and Progress or SDP [Victor NAUDI ZAMORA]<br>Social Democratic Party or PS [Vicenc ALFY FERRER]<br>Third Way/Lauredian Union [Josep PINTAT FORNE]<br>United for the Progress of Andorra or UPA [Alfons CLAVERA ARIZTI]<br>
+Democrats for Andorra or DA [Xaviar ESPOT ZAMORA]<br>Liberals of Andorra or L'A [Jordi GALLARDO FERNANDEZ]<br>Social Democracy and Progress or SDP [Victor NAUDI ZAMORA]<br>Social Democratic Party or PS [Susanna VELA]<br>Third Way/Lauredian Union [Josep PINTAT FORNE]<br>United for the Progress of Andorra or UPA [Alfons CLAVERA ARIZTI]<br>
 <strong>note:</strong> Andorra has several smaller parties at the parish level (one is Lauredian Union)<br>
 
 **International organization participation**<br>
@@ -481,7 +481,7 @@ _subscriptions per 100 inhabitants_: 122 (2020 est.)<br>
 _general assessment_: modern automatic telephone system; broadband Internet and&nbsp;LTE mobile lines for both consumer and enterprise customers available (2019)<br>
 _domestic_: about 51 per 100 fixed-line, 114 per 100 mobile-cellular (2019)<br>
 _international_: country code - 376; landline circuits to France and Spain; modern system with microwave radio relay connections between exchanges (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 public TV station and 2 public radio stations; about 10 commercial radio stations; good reception of radio and TV broadcasts from stations in France and Spain; upgraded to terrestrial digital TV broadcasting in 2007; roughly 25 international TV channels available (2019)<br>

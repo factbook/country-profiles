@@ -273,7 +273,7 @@ _etymology_: named after Saint MARINUS, who in A.D. 301 founded a monastic settl
 Founding of the Republic (or Feast of Saint Marinus), 3 September (A.D. 301)<br>
 
 **Constitution**<br>
-_history_: <p>San Marino’s principal legislative instruments consist of old customs (antiche consuetudini), the Statutory Laws of San Marino (Leges Statutae Sancti Marini), old statutes (antichi statute) from the1600s, Brief Notes on the Constitutional Order and Institutional Organs of the Republic of San Marino (Brevi Cenni sull’Ordinamento Costituzionale e gli Organi Istituzionali della Repubblica di San Marino) and successive legislation, chief among them is the Declaration of the Rights of Citizens and Fundamental Principles of the San Marino Legal Order (Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell’Ordinamento Sammarinese), approved 8 July 1974</p><br>
+_history_: San Marino&rsquo;s principal legislative instruments consist of old customs (antiche consuetudini), the Statutory Laws of San Marino (Leges Statutae Sancti Marini), old statutes (antichi statute) from the1600s, Brief Notes on the Constitutional Order and Institutional Organs of the Republic of San Marino (Brevi Cenni sull&rsquo;Ordinamento Costituzionale e gli Organi Istituzionali della Repubblica di San Marino) and successive legislation, chief among them is the Declaration of the Rights of Citizens and Fundamental Principles of the San Marino Legal Order (Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell&rsquo;Ordinamento Sammarinese), approved 8 July 1974<br>
 _amendments_: proposed by the Great and General Council; passage requires two-thirds majority Council vote; Council passage by absolute majority vote also requires passage in a referendum; Declaration of Civil Rights amended several times, last in 2019<br>
 
 **Legal system**<br>
@@ -302,7 +302,7 @@ _election results_: Oscar MINA (PDCS) and Paolo RONDELLI (RETE) elected captains
 **Legislative branch**<br>
 _description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by list proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
 _elections_: last held on 8 December 2019 (next to be held by 31 December 2024)<br>
-_election results_: percent of vote by coalition/party - PDCS 33.3%, Tomorrow in Movement coalition 24.7% (RETE Movement 18.2%, Domani - Motus Liberi 6.2%, other 0.3%), Free San Marino 16.5%, We for the Republic 13.1%, Future Republic 10.3%, I Elect for a New Republic 2%; seats by coalition/party - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, Domani - Motus Liberi 4), Free San Marino 10, We for the Republic 8, Future Republic 6; composition (as of October 2021) - men 40, women 20, percent of women 33.3%<br>
+_election results_: percent of vote by coalition/party - PDCS 35%, Tomorrow in Movement coalition 25% (RETE Movement 18.3%, Domani - Motus Liberi 6.7%), Free San Marino 16.7%, We for the Republic 13.3%, Future Republic 10%; seats by coalition/party - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, Domani - Motus Liberi 4), Free San Marino 10, We for the Republic 8, Future Republic 6; composition (as of October 2021) - men 40, women 20, percent of women 33.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
@@ -310,7 +310,7 @@ _judge selection and term of office_: judges elected by the Grand and General Co
 _subordinate courts_: first instance and first appeal criminal, administrative, and civil courts; Court for the Trust and Trustee Relations; justices of the peace or conciliatory judges<br>
 
 **Political parties and leaders**<br>
-Civic 10 [Franco SANTI]<br>Domani - Modus Liberi or DML [Lorenzo Forcellini REFFI]<br>Free San Marino or Libera<br>Future Republic or RF [Mario VENTURINI]<br>I Elect for a New Republic<br>Party of Socialists and Democrats or PSD [Paride ANDREOLI]<br>RETE Movement<br>Sammarinese Christian Democratic Party or PDCS [Marco GATTI]<br>Socialist Party or PS [Alessandro BEVITORI]<br>Tomorrow in Movement coalition (includes RETE Movement, DML)<br>We for the Republic<br>
+Civic 10 [Franco SANTI]<br>Domani - Modus Liberi or DML [Lorenzo Forcellini REFFI]<br>Free San Marino or Libera [Matteo Ciacci]<br>Future Republic or RF [Mario VENTURINI]<br>I Elect for a New Republic<br>Party of Socialists and Democrats or PSD [Paride ANDREOLI]<br>RETE Movement [Gloria Arcangeloni]<br>Sammarinese Christian Democratic Party or PDCS [Marco GATTI]<br>Socialist Party or PS [Alessandro BEVITORI]<br>Tomorrow in Movement coalition (includes RETE Movement, DML)<br>We for the Republic [Denise Bronzetti]<br>
 
 **International organization participation**<br>
 CE, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), LAIA (observer), OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, Union Latina, UNWTO, UPU, WHO, WIPO<br>
@@ -492,7 +492,7 @@ _subscriptions per 100 inhabitants_: 115 (2020 est.)<br>
 _general assessment_: automatic telephone system completely integrated into Italian system (2018)<br>
 _domestic_: fixed-line a little over 47 per 100 and mobile-cellular teledensity roughly 114 telephones per 100 persons (2019)<br>
 _international_: country code - 378; connected to Italian international network<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 state-owned public broadcaster operates 1 TV station and 3 radio stations; receives radio and TV broadcasts from Italy (2019)<br>

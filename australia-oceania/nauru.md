@@ -285,7 +285,7 @@ Independence Day, 31 January (1968)<br>
 
 **Constitution**<br>
 _history_: effective 29 January 1968<br>
-_amendments_: proposed by Parliament; passage requires two-thirds majority vote of Parliament; amendments to constitutional articles, such as the republican form of government, protection of fundamental rights and freedoms, the structure and authorities of the executive and legislative branches, also requires two-thirds majority of votes in a referendum; amended several times, last in 2018<br>
+_amendments_: proposed by Parliament; passage requires two-thirds majority vote of Parliament; amendments to constitutional articles, such as the republican form of government, protection of fundamental rights and freedoms, the structure and authorities of the executive and legislative branches, also require two-thirds majority of votes in a referendum; amended several times, last in 2018<br>
 
 **Legal system**<br>
 mixed legal system of common law based on the English model and customary law<br>
@@ -305,7 +305,7 @@ _election results_: Lionel AINGIMEA elected president; Parliament vote - Lionel 
 
 **Legislative branch**<br>
 _description_: unicameral parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)<br>
-_elections_: last held on 24 August 2019 (next to be held in 2022)<br>
+_elections_: last held on 24 August 2019 (next to be held in September 2022)<br>
 _election results_: percent of vote - NA; seats - independent 19; composition - men 17, women 2, percent of women 10.5%<br>
 
 **Judicial branch**<br>
@@ -540,7 +540,7 @@ _subscriptions per 100 inhabitants_: 92 (2020 est.)<br>
 _general assessment_: adequate local and international radiotelephone communication provided via Australian facilities; geography is a challenge for the islands;&nbsp;there is a&nbsp;need to service the tourism sector&nbsp;and the&nbsp;South Pacific Islands economy; mobile technology is booming (2018)<br>
 _domestic_: fixed-line 0 per 100 and mobile-cellular subscribership approximately 95 per 100 (2019)<br>
 _international_: country code - 674; satellite earth station - 1 Intelsat (Pacific Ocean)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 1 government-owned TV station broadcasting programs from New Zealand sent via satellite or on videotape; 1 government-owned radio station, broadcasting on AM and FM, utilizes Australian and British programs (2019)<br>

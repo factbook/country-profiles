@@ -296,7 +296,7 @@ _etymology_: named after a bridge constructed over the swampy area (known as the
 Independence Day, 30 November (1966)<br>
 
 **Constitution**<br>
-_history_: adopted 22 November 1966, effective 30 November 1966; &nbsp;Constitution (Amendment) (No. 2) Bill, 2021 establishes Barbados as a republic and revokes the earlier Order in Council<br>
+_history_: adopted 22 November 1966, effective 30 November 1966; Constitution (Amendment) (No. 2) Bill, 2021 establishes Barbados as a republic and revokes the earlier Order in Council<br>
 _amendments_: proposed by Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, and the organization and authorities of the branches of government requires two-thirds majority vote by the membership of both houses of Parliament; passage of other amendments only requires a majority vote of both houses; amended several times, last in 2021<br>
 <strong>note </strong>- following the transition to a republic on 30 November 2021, the Government of Barbados plans a consultation on drafting a new constitution<br>
 
@@ -334,7 +334,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: Magistrates' Courts<br>
 
 **Political parties and leaders**<br>
-Alliance Party for Progress or APP [Joseph ATHERLEY]<br>Barbados Labor Party or BLP [Mia MOTTLEY]<br>Democratic Labor Party or DLP [Steve BLACKETT]<br>
+Alliance Party for Progress or APP [Joseph ATHERLEY]<br>Barbados Labor Party or BLP [Mia MOTTLEY]<br>Democratic Labor Party or DLP [Ronnie YEARWOOD]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OPANAL, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

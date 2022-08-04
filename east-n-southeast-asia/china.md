@@ -370,7 +370,7 @@ _chief of state_: President XI Jinping (since 14 March 2013); Vice President WAN
 _head of government_: Premier LI Keqiang (since 16 March 2013); Executive Vice Premiers HAN Zheng (since 19 March 2018), SUN Chunlan (since 19 March 2018), LIU He (since 19 March 2018), HU Chunhua (since 19 March 2018)<br>
 _cabinet_: State Council appointed by National People's Congress<br>
 _elections/appointments_: president and vice president indirectly elected by National People's Congress (no term limits); election last held on 17 March 2018 (next to be held in March 2023); premier nominated by president, confirmed by National People's Congress<br>
-_election results_: XI Jinping reelected president; National People's Congress vote - 2,970 (unanimously); WANG Qishan elected vice president with 2,969 votes<br>
+_election results_: <em>2018</em>: XI Jinping reelected president; National People's Congress vote - 2,970 (unanimously); WANG Qishan elected vice president with 2,969 votes<br><br><em>2013</em>: XI Jinping elected president; National People's Congress vote - 2,952; LI Yuanchao elected vice president with 2,839 votes<br>
 note - in March 2018, the PRC&rsquo;s National People&rsquo;s Congress passed an amendment abolishing presidential term limits, opening the door for XI to seek a third five-year term in 2023<br>
 
 **Legislative branch**<br>
@@ -644,6 +644,7 @@ _subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
 _general assessment_: China has the largest Internet market in the world with almost all subscribers accessing Internet through mobile devices; market is driven through government-allied investment; fast-developing data center market; government aims to provide universal and affordable broadband coverage through market competition and private investment in state-controlled enterprises; 3G and LTE subscribers will migrate to 5G aiming for 2 million 5G base stations by the end of 2022; government strengthens IoT policies to boost economic growth; China is pushing development of smart cities beyond Beijing; Beijing residents carry virtual card integrating identity, social security, health, and education documents; government controls gateways to global Internet through censorship, surveillance, and shut-downs; major exporter of broadcasting equipment world-wide (2022)<br>
 _domestic_: nearly 13 per 100 fixed line and 118 per 100 mobile-cellular; a domestic satellite system with several earth stations has been in place since 2018 (2020)<br>
 _international_: country code - 86;&nbsp;landing points for the RJCN, EAC-C2C, TPE, APCN-2, APG, NCP, TEA, SeaMeWe-3, SJC2, Taiwan Strait Express-1, AAE-1, APCN-2, AAG, FEA, FLAG and TSE&nbsp;submarine cables providing connectivity to Asia, the Middle East, Europe, and the US; satellite earth stations - 7 (5 Intelsat - 4 Pacific Ocean and 1 Indian Ocean; 1 Intersputnik - Indian Ocean region; and 1 Inmarsat - Pacific and Indian Ocean regions) (2019)<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress towards 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services<br>
 
 **Broadcast media**<br>
 all broadcast media are owned by, or affiliated with, the Chinese Communisty Party (CCP) or a government agency; no privately owned TV or radio stations; state-run Chinese Central TV, provincial, and municipal stations offer more than 2,000 channels; the Central Propaganda Department as well as local (provincial, municipal) sends directives to all domestic media outlets to guide its reporting with the government maintaining authority to approve all programming; foreign-made TV programs must be approved/censored prior to broadcast; increasingly, PRC nationals turn to online platforms (Bilibili, Tencent Video, iQiyi, etc) to access PRC and international films and television shows.&nbsp; Video platforms have to abide by regulations issued by the Cyberspace Administration of China (CAC), which align with censorship policies from CCP propaganda authorities. (2022)<br>
@@ -699,7 +700,7 @@ _under 914 m_: 13 (2021)<br>
 _total_: 150,000 km (2021) 1.435-m gauge (100,000 km electrified); 104,0000 traditional, 40,000 high-speed<br>
 
 **Roadways**<br>
-_total_: 52 million km (2020)<br>
+_total_: 5.2 million km (2020)<br>
 _paved_: 4.578 million km (2020) (includes 168000 km of expressways)<br>
 _unpaved_: 622,000 km (2017)<br>
 
